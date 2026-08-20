@@ -1,0 +1,583 @@
+[
+  {
+    "id": "SearchInsideYourSelf",
+    "title": "Search Inside Yourself (Tìm Kiếm Bên Trong Bạn)",
+    "originalTitle": "Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)",
+    "author": "Chade-Meng Tan",
+    "translator": "Kiều Anh Tú",
+    "category": "Trí tuệ cảm xúc & Thiền chánh niệm",
+    "tags": [
+      "Trí tuệ cảm xúc",
+      "Thiền & Tỉnh thức",
+      "Google",
+      "Phát triển bản thân",
+      "Khoa học"
+    ],
+    "description": "Chương trình đào tạo Trí thông minh cảm xúc (EQ) và Thiền chánh niệm nổi tiếng tại Google, giúp tăng cường hiệu suất làm việc, khả năng lãnh đạo và nuôi dưỡng hạnh phúc nội tâm.",
+    "gradient": "from-teal-500 to-emerald-700",
+    "themeColor": "#059669",
+    "status": "available",
+    "coverUrl": "/books/SearchInsideYourSelf/images/cover.jpg",
+    "totalChapters": 17,
+    "totalAudios": 28,
+    "chapters": [
+      {
+        "id": "00_Thong_tin_va_Loi_khen_tang",
+        "fileName": "00_Thong_tin_va_Loi_khen_tang.md",
+        "fileUrl": "/books/SearchInsideYourSelf/00_Thong_tin_va_Loi_khen_tang.md",
+        "order": 1,
+        "title": "SEARCH INSIDE YOURSELF",
+        "subtitle": "THÔNG TIN XUẤT BẢN",
+        "wordCount": 1071,
+        "readingTimeMin": 6
+      },
+      {
+        "id": "00_Loi_noi_dau",
+        "fileName": "00_Loi_noi_dau.md",
+        "fileUrl": "/books/SearchInsideYourSelf/00_Loi_noi_dau.md",
+        "order": 2,
+        "title": "LỜI NÓI ĐẦU",
+        "wordCount": 904,
+        "readingTimeMin": 5
+      },
+      {
+        "id": "00_Loi_gioi_thieu",
+        "fileName": "00_Loi_gioi_thieu.md",
+        "fileUrl": "/books/SearchInsideYourSelf/00_Loi_gioi_thieu.md",
+        "order": 3,
+        "title": "LỜI GIỚI THIỆU",
+        "wordCount": 2807,
+        "readingTimeMin": 15
+      },
+      {
+        "id": "00_Mo_dau",
+        "fileName": "00_Mo_dau.md",
+        "fileUrl": "/books/SearchInsideYourSelf/00_Mo_dau.md",
+        "order": 4,
+        "title": "Mở đầu: TÌM KIẾM BÊN TRONG BẠN",
+        "subtitle": "Rèn luyện khả năng chú ý",
+        "wordCount": 2992,
+        "readingTimeMin": 15
+      },
+      {
+        "id": "01_Chuong_1",
+        "fileName": "01_Chuong_1.md",
+        "fileUrl": "/books/SearchInsideYourSelf/01_Chuong_1.md",
+        "order": 5,
+        "title": "Chương 1: THẬM CHÍ MỘT KỸ SƯ CŨNG CÓ THỂ THÀNH CÔNG VỀ TRÍ THÔNG MINH CẢM XÚC",
+        "subtitle": "Trí thông minh cảm xúc là gì và phát triển nó như thế nào?",
+        "wordCount": 7758,
+        "readingTimeMin": 39
+      },
+      {
+        "id": "02_Chuong_2",
+        "fileName": "02_Chuong_2.md",
+        "fileUrl": "/books/SearchInsideYourSelf/02_Chuong_2.md",
+        "order": 6,
+        "title": "Chương 2: HÃY THỞ NHƯ THỂ CUỘC ĐỜI BẠN PHỤ THUỘC VÀO NÓ",
+        "subtitle": "Lý thuyết và cách thực hành thiền",
+        "wordCount": 7479,
+        "readingTimeMin": 38
+      },
+      {
+        "id": "03_Chuong_3",
+        "fileName": "03_Chuong_3.md",
+        "fileUrl": "/books/SearchInsideYourSelf/03_Chuong_3.md",
+        "order": 7,
+        "title": "Chương 3: THIỀN KHÔNG NGỒI TRÊN ĐỆM",
+        "subtitle": "Mở rộng lợi ích của thiền ra khỏi việc ngồi",
+        "wordCount": 10581,
+        "readingTimeMin": 53
+      },
+      {
+        "id": "04_Chuong_4",
+        "fileName": "04_Chuong_4.md",
+        "fileUrl": "/books/SearchInsideYourSelf/04_Chuong_4.md",
+        "order": 8,
+        "title": "Chương 4: SỰ TỰ TIN HỮU CƠ",
+        "subtitle": "Nhận thức về bản thân dẫn đến tự tin về bản thân",
+        "wordCount": 8036,
+        "readingTimeMin": 41
+      },
+      {
+        "id": "05_Chuong_5",
+        "fileName": "05_Chuong_5.md",
+        "fileUrl": "/books/SearchInsideYourSelf/05_Chuong_5.md",
+        "order": 9,
+        "title": "Chương 5: ĐIỀU KHIỂN CẢM XÚC NHƯ THUẦN DƯỠNG MỘT CON NGỰA",
+        "subtitle": "Phát triển sự tự chủ",
+        "wordCount": 9981,
+        "readingTimeMin": 50
+      },
+      {
+        "id": "06_Chuong_6",
+        "fileName": "06_Chuong_6.md",
+        "fileUrl": "/books/SearchInsideYourSelf/06_Chuong_6.md",
+        "order": 10,
+        "title": "Chương 6: TẠO RA LỢI NHUẬN, VƯỢT QUA ĐẠI DƯƠNG VÀ THAY ĐỔI THẾ GIỚI",
+        "subtitle": "Nghệ thuật tự tạo động lực",
+        "wordCount": 9284,
+        "readingTimeMin": 47
+      },
+      {
+        "id": "07_Chuong_7",
+        "fileName": "07_Chuong_7.md",
+        "fileUrl": "/books/SearchInsideYourSelf/07_Chuong_7.md",
+        "order": 11,
+        "title": "Chương 7: SỰ ĐỒNG CẢM VÀ ĐIỆU TANGO CỦA BỘ NÃO",
+        "subtitle": "Phát triển sự đồng cảm thông qua thấu hiểu và kết nối với người khác",
+        "wordCount": 12182,
+        "readingTimeMin": 61
+      },
+      {
+        "id": "08_Chuong_8",
+        "fileName": "08_Chuong_8.md",
+        "fileUrl": "/books/SearchInsideYourSelf/08_Chuong_8.md",
+        "order": 12,
+        "title": "Chương 8: VỪA CÓ HIỆU QUẢ, VỪA ĐƯỢC YÊU QUÝ",
+        "subtitle": "Những kỹ năng xã hội và lãnh đạo",
+        "wordCount": 13016,
+        "readingTimeMin": 66
+      },
+      {
+        "id": "09_Chuong_9",
+        "fileName": "09_Chuong_9.md",
+        "fileUrl": "/books/SearchInsideYourSelf/09_Chuong_9.md",
+        "order": 13,
+        "title": "Chương 9: BA BƯỚC DỄ DÀNG ĐỂ ĐI ĐẾN HÒA BÌNH THẾ GIỚI",
+        "subtitle": "Câu chuyện đằng sau khóa học Tìm Kiếm Bên Trong Bạn",
+        "wordCount": 3780,
+        "readingTimeMin": 19
+      },
+      {
+        "id": "10_Loi_ket",
+        "fileName": "10_Loi_ket.md",
+        "fileUrl": "/books/SearchInsideYourSelf/10_Loi_ket.md",
+        "order": 14,
+        "title": "Lời kết: CỨU THẾ GIỚI KHI BẠN RẢNH",
+        "subtitle": "BODHISATTVA LƯỜI BIẾNG",
+        "wordCount": 927,
+        "readingTimeMin": 5
+      },
+      {
+        "id": "11_Loi_cam_on",
+        "fileName": "11_Loi_cam_on.md",
+        "fileUrl": "/books/SearchInsideYourSelf/11_Loi_cam_on.md",
+        "order": 15,
+        "title": "LỜI CẢM ƠN",
+        "wordCount": 1914,
+        "readingTimeMin": 10
+      },
+      {
+        "id": "12_Chu_thich",
+        "fileName": "12_Chu_thich.md",
+        "fileUrl": "/books/SearchInsideYourSelf/12_Chu_thich.md",
+        "order": 16,
+        "title": "CHÚ THÍCH",
+        "wordCount": 3019,
+        "readingTimeMin": 16
+      },
+      {
+        "id": "13_Danh_sach_tai_lieu",
+        "fileName": "13_Danh_sach_tai_lieu.md",
+        "fileUrl": "/books/SearchInsideYourSelf/13_Danh_sach_tai_lieu.md",
+        "order": 17,
+        "title": "DANH SÁCH TÀI LIỆU VÀ SÁCH HAY NÊN ĐỌC",
+        "wordCount": 1208,
+        "readingTimeMin": 7
+      }
+    ],
+    "audios": [
+      {
+        "id": "SearchInsideYourSelf-audio-1",
+        "fileName": "Ngày 01 - Một hơi thở trọn vẹn.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2001%20-%20M%E1%BB%99t%20h%C6%A1i%20th%E1%BB%9F%20tr%E1%BB%8Dn%20v%E1%BA%B9n.mp3",
+        "trackNumber": 1,
+        "prefix": "Ngày 01",
+        "title": "Một hơi thở trọn vẹn",
+        "fullTitle": "Ngày 01 - Một hơi thở trọn vẹn"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-2",
+        "fileName": "Ngày 02 - Ba hơi thở.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2002%20-%20Ba%20h%C6%A1i%20th%E1%BB%9F.mp3",
+        "trackNumber": 2,
+        "prefix": "Ngày 02",
+        "title": "Ba hơi thở",
+        "fullTitle": "Ngày 02 - Ba hơi thở"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-3",
+        "fileName": "Ngày 03 - 2 phút thở tỉnh thức_01.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2003%20-%202%20ph%C3%BAt%20th%E1%BB%9F%20t%E1%BB%89nh%20th%E1%BB%A9c_01.mp3",
+        "trackNumber": 3,
+        "prefix": "Ngày 03",
+        "title": "2 phút thở tỉnh thức_01",
+        "fullTitle": "Ngày 03 - 2 phút thở tỉnh thức_01"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-4",
+        "fileName": "Ngày 04 - nhận thức mở_01.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2004%20-%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%E1%BB%9F_01.mp3",
+        "trackNumber": 4,
+        "prefix": "Ngày 04",
+        "title": "nhận thức mở_01",
+        "fullTitle": "Ngày 04 - nhận thức mở_01"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-5",
+        "fileName": "Ngày 05 - Trao tặng lời chúc phúc.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2005%20-%20Trao%20t%E1%BA%B7ng%20l%E1%BB%9Di%20ch%C3%BAc%20ph%C3%BAc.mp3",
+        "trackNumber": 5,
+        "prefix": "Ngày 05",
+        "title": "Trao tặng lời chúc phúc",
+        "fullTitle": "Ngày 05 - Trao tặng lời chúc phúc"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-6",
+        "fileName": "Ngày 06 - Body Scan.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2006%20-%20Body%20Scan.mp3",
+        "trackNumber": 6,
+        "prefix": "Ngày 06",
+        "title": "Body Scan",
+        "fullTitle": "Ngày 06 - Body Scan"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-7",
+        "fileName": "Ngày 07 - Lòng biết ơn.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2007%20-%20L%C3%B2ng%20bi%E1%BA%BFt%20%C6%A1n.mp3",
+        "trackNumber": 7,
+        "prefix": "Ngày 07",
+        "title": "Lòng biết ơn",
+        "fullTitle": "Ngày 07 - Lòng biết ơn"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-8",
+        "fileName": "Ngày 08 - Chú tâm quan sát.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2008%20-%20Ch%C3%BA%20t%C3%A2m%20quan%20s%C3%A1t.mp3",
+        "trackNumber": 8,
+        "prefix": "Ngày 08",
+        "title": "Chú tâm quan sát",
+        "fullTitle": "Ngày 08 - Chú tâm quan sát"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-9",
+        "fileName": "Ngày 09 - Toàn thân cùng thở.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2009%20-%20To%C3%A0n%20th%C3%A2n%20c%C3%B9ng%20th%E1%BB%9F.mp3",
+        "trackNumber": 9,
+        "prefix": "Ngày 09",
+        "title": "Toàn thân cùng thở",
+        "fullTitle": "Ngày 09 - Toàn thân cùng thở"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-10",
+        "fileName": "Ngày 10 - Nhận thức mở.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2010%20-%20Nh%E1%BA%ADn%20th%E1%BB%A9c%20m%E1%BB%9F.mp3",
+        "trackNumber": 10,
+        "prefix": "Ngày 10",
+        "title": "Nhận thức mở",
+        "fullTitle": "Ngày 10 - Nhận thức mở"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-11",
+        "fileName": "Ngày 11 - Quét cơ thể.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2011%20-%20Qu%C3%A9t%20c%C6%A1%20th%E1%BB%83.mp3",
+        "trackNumber": 11,
+        "prefix": "Ngày 11",
+        "title": "Quét cơ thể",
+        "fullTitle": "Ngày 11 - Quét cơ thể"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-12",
+        "fileName": "Ngày 12 - Dừng lại.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2012%20-%20D%E1%BB%ABng%20l%E1%BA%A1i.mp3",
+        "trackNumber": 12,
+        "prefix": "Ngày 12",
+        "title": "Dừng lại",
+        "fullTitle": "Ngày 12 - Dừng lại"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-13",
+        "fileName": "Ngày 13 - Buông bỏ mọi căng thẳng.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2013%20-%20Bu%C3%B4ng%20b%E1%BB%8F%20m%E1%BB%8Di%20c%C4%83ng%20th%E1%BA%B3ng.mp3",
+        "trackNumber": 13,
+        "prefix": "Ngày 13",
+        "title": "Buông bỏ mọi căng thẳng",
+        "fullTitle": "Ngày 13 - Buông bỏ mọi căng thẳng"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-14",
+        "fileName": "Ngày 14 - Từ bi với bản thân.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2014%20-%20T%E1%BB%AB%20bi%20v%E1%BB%9Bi%20b%E1%BA%A3n%20th%C3%A2n.mp3",
+        "trackNumber": 14,
+        "prefix": "Ngày 14",
+        "title": "Từ bi với bản thân",
+        "fullTitle": "Ngày 14 - Từ bi với bản thân"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-15",
+        "fileName": "Ngày 15 - Nhận thức mở.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2015%20-%20Nh%E1%BA%ADn%20th%E1%BB%A9c%20m%E1%BB%9F.mp3",
+        "trackNumber": 15,
+        "prefix": "Ngày 15",
+        "title": "Nhận thức mở",
+        "fullTitle": "Ngày 15 - Nhận thức mở"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-16",
+        "fileName": "Ngày 16 - Rải tâm từ.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2016%20-%20R%E1%BA%A3i%20t%C3%A2m%20t%E1%BB%AB.mp3",
+        "trackNumber": 16,
+        "prefix": "Ngày 16",
+        "title": "Rải tâm từ",
+        "fullTitle": "Ngày 16 - Rải tâm từ"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-17",
+        "fileName": "Ngày 17 - Lòng biết ơn.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2017%20-%20L%C3%B2ng%20bi%E1%BA%BFt%20%C6%A1n.mp3",
+        "trackNumber": 17,
+        "prefix": "Ngày 17",
+        "title": "Lòng biết ơn",
+        "fullTitle": "Ngày 17 - Lòng biết ơn"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-18",
+        "fileName": "Ngày 18 - Giống như tôi.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2018%20-%20Gi%E1%BB%91ng%20nh%C6%B0%20t%C3%B4i.mp3",
+        "trackNumber": 18,
+        "prefix": "Ngày 18",
+        "title": "Giống như tôi",
+        "fullTitle": "Ngày 18 - Giống như tôi"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-19",
+        "fileName": "Ngày 19 - Chú tâm vào hơi thở.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2019%20-%20Ch%C3%BA%20t%C3%A2m%20v%C3%A0o%20h%C6%A1i%20th%E1%BB%9F.mp3",
+        "trackNumber": 19,
+        "prefix": "Ngày 19",
+        "title": "Chú tâm vào hơi thở",
+        "fullTitle": "Ngày 19 - Chú tâm vào hơi thở"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-20",
+        "fileName": "Ngày 20 - Đi trong tỉnh thức.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2020%20-%20%C4%90i%20trong%20t%E1%BB%89nh%20th%E1%BB%A9c.mp3",
+        "trackNumber": 20,
+        "prefix": "Ngày 20",
+        "title": "Đi trong tỉnh thức",
+        "fullTitle": "Ngày 20 - Đi trong tỉnh thức"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-21",
+        "fileName": "Ngày 21 - Từ bi.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2021%20-%20T%E1%BB%AB%20bi.mp3",
+        "trackNumber": 21,
+        "prefix": "Ngày 21",
+        "title": "Từ bi",
+        "fullTitle": "Ngày 21 - Từ bi"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-22",
+        "fileName": "Ngày 22 - Siêu chú tâm.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2022%20-%20Si%C3%AAu%20ch%C3%BA%20t%C3%A2m.mp3",
+        "trackNumber": 22,
+        "prefix": "Ngày 22",
+        "title": "Siêu chú tâm",
+        "fullTitle": "Ngày 22 - Siêu chú tâm"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-23",
+        "fileName": "Ngày 23 - Thiền tâm từ.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2023%20-%20Thi%E1%BB%81n%20t%C3%A2m%20t%E1%BB%AB.mp3",
+        "trackNumber": 23,
+        "prefix": "Ngày 23",
+        "title": "Thiền tâm từ",
+        "fullTitle": "Ngày 23 - Thiền tâm từ"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-24",
+        "fileName": "Ngày 24 - Lãnh đạo với mục đích.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2024%20-%20L%C3%A3nh%20%C4%91%E1%BA%A1o%20v%E1%BB%9Bi%20m%E1%BB%A5c%20%C4%91%C3%ADch.mp3",
+        "trackNumber": 24,
+        "prefix": "Ngày 24",
+        "title": "Lãnh đạo với mục đích",
+        "fullTitle": "Ngày 24 - Lãnh đạo với mục đích"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-25",
+        "fileName": "Ngày 25 - Chú tâm và nhận thức mở.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2025%20-%20Ch%C3%BA%20t%C3%A2m%20v%C3%A0%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%E1%BB%9F.mp3",
+        "trackNumber": 25,
+        "prefix": "Ngày 25",
+        "title": "Chú tâm và nhận thức mở",
+        "fullTitle": "Ngày 25 - Chú tâm và nhận thức mở"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-26",
+        "fileName": "Ngày 26 - Tìm lại động lực.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2026%20-%20T%C3%ACm%20l%E1%BA%A1i%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c.mp3",
+        "trackNumber": 26,
+        "prefix": "Ngày 26",
+        "title": "Tìm lại động lực",
+        "fullTitle": "Ngày 26 - Tìm lại động lực"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-27",
+        "fileName": "Ngày 27 - Quét cơ thể.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2027%20-%20Qu%C3%A9t%20c%C6%A1%20th%E1%BB%83.mp3",
+        "trackNumber": 27,
+        "prefix": "Ngày 27",
+        "title": "Quét cơ thể",
+        "fullTitle": "Ngày 27 - Quét cơ thể"
+      },
+      {
+        "id": "SearchInsideYourSelf-audio-28",
+        "fileName": "Ngày 28 - Hướng về một tương lai tươi sáng.mp3",
+        "audioUrl": "/books/SearchInsideYourSelf/audio/Ng%C3%A0y%2028%20-%20H%C6%B0%E1%BB%9Bng%20v%E1%BB%81%20m%E1%BB%99t%20t%C6%B0%C6%A1ng%20lai%20t%C6%B0%C6%A1i%20s%C3%A1ng.mp3",
+        "trackNumber": 28,
+        "prefix": "Ngày 28",
+        "title": "Hướng về một tương lai tươi sáng",
+        "fullTitle": "Ngày 28 - Hướng về một tương lai tươi sáng"
+      }
+    ]
+  },
+  {
+    "id": "7ThoiQuenHieuQua",
+    "title": "7 Thói Quen Của Người Thành Đạt",
+    "originalTitle": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "translator": "Nhiều dịch giả",
+    "category": "Kỹ năng lãnh đạo & Phát triển bản thân",
+    "tags": [
+      "Thói quen",
+      "Lãnh đạo",
+      "Hiệu suất",
+      "Tư duy"
+    ],
+    "description": "Một trong những cuốn sách kinh điển nhất mọi thời đại về kỹ năng quản trị bản thân, xây dựng mối quan hệ tin cậy và đạt được thành công bền vững.",
+    "gradient": "from-amber-600 to-orange-700",
+    "themeColor": "#ea580c",
+    "status": "coming_soon",
+    "coverUrl": null,
+    "totalChapters": 0,
+    "totalAudios": 0,
+    "chapters": [],
+    "audios": []
+  },
+  {
+    "id": "ThinkAgain",
+    "title": "Dám Nghĩ Lại",
+    "originalTitle": "Think Again",
+    "author": "Adam Grant",
+    "translator": "Vũ Hoàng Linh",
+    "category": "Tư duy phản biện",
+    "tags": [
+      "Tư duy",
+      "Đổi mới",
+      "Tâm lý",
+      "Học hỏi"
+    ],
+    "description": "Nghệ thuật của việc biết những gì bạn chưa biết và sức mạnh của việc sẵn sàng thay đổi suy nghĩ để không ngừng tiến bộ trong thế giới biến đổi.",
+    "gradient": "from-cyan-600 to-blue-700",
+    "themeColor": "#0284c7",
+    "status": "coming_soon",
+    "coverUrl": null,
+    "totalChapters": 0,
+    "totalAudios": 0,
+    "chapters": [],
+    "audios": []
+  },
+  {
+    "id": "DoiNganDungNguDai",
+    "title": "Đời Ngắn Đừng Ngủ Dài",
+    "originalTitle": "The Greatness Guide",
+    "author": "Robin Sharma",
+    "translator": "Phạm Anh Tuấn",
+    "category": "Truyền cảm hứng & Lối sống",
+    "tags": [
+      "Sống tích cực",
+      "Động lực",
+      "Lối sống",
+      "Hành động"
+    ],
+    "description": "Những bài học ngắn gọn, súc tích và sâu sắc đánh thức tiềm năng to lớn bên trong bạn, giúp bạn sống một cuộc đời phi thường và đầy ý nghĩa.",
+    "gradient": "from-blue-600 to-indigo-800",
+    "themeColor": "#4f46e5",
+    "status": "coming_soon",
+    "coverUrl": null,
+    "totalChapters": 0,
+    "totalAudios": 0,
+    "chapters": [],
+    "audios": []
+  },
+  {
+    "id": "DungBaoGioDiAnMotMinh",
+    "title": "Đừng Bao Giờ Đi Ăn Một Mình",
+    "originalTitle": "Never Eat Alone",
+    "author": "Keith Ferrazzi",
+    "translator": "Trần Thị Ngân Xuyên",
+    "category": "Giao tiếp & Mạng lưới quan hệ",
+    "tags": [
+      "Networking",
+      "Giao tiếp",
+      "Quan hệ",
+      "Hợp tác"
+    ],
+    "description": "Bí quyết kết nối mạng lưới quan hệ đỉnh cao, xây dựng sự gắn kết chân thành và cùng nhau phát triển dựa trên lòng hào phóng.",
+    "gradient": "from-emerald-600 to-teal-800",
+    "themeColor": "#0d9488",
+    "status": "coming_soon",
+    "coverUrl": null,
+    "totalChapters": 0,
+    "totalAudios": 0,
+    "chapters": [],
+    "audios": []
+  },
+  {
+    "id": "SucManhCuaThoiQuen",
+    "title": "Sức Mạnh Của Thói Quen",
+    "originalTitle": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "translator": "Lê Thảo",
+    "category": "Tâm lý học hành vi",
+    "tags": [
+      "Thói quen",
+      "Tâm lý học",
+      "Kỷ luật",
+      "Bộ não"
+    ],
+    "description": "Khám phá khoa học đằng sau cách hình thành thói quen và chìa khóa để thay đổi hành vi cá nhân, tổ chức cũng như toàn xã hội.",
+    "gradient": "from-purple-600 to-fuchsia-800",
+    "themeColor": "#9333ea",
+    "status": "coming_soon",
+    "coverUrl": null,
+    "totalChapters": 0,
+    "totalAudios": 0,
+    "chapters": [],
+    "audios": []
+  },
+  {
+    "id": "ViTuSiBanChiecFerrari",
+    "title": "Vị Tu Sĩ Bán Chiếc Ferrari",
+    "originalTitle": "The Monk Who Sold His Ferrari",
+    "author": "Robin Sharma",
+    "translator": "Nguyễn Hải Vân",
+    "category": "Triết lý sống & Tỉnh thức",
+    "tags": [
+      "Bình an",
+      "Tâm hồn",
+      "Tỉnh thức",
+      "Lý tưởng"
+    ],
+    "description": "Câu chuyện ngụ ngôn sâu sắc về hành trình tìm kiếm hạnh phúc đích thực, bình an nội tâm và lý tưởng sống cao đẹp của một luật sư triệu phú.",
+    "gradient": "from-rose-600 to-red-800",
+    "themeColor": "#e11d48",
+    "status": "coming_soon",
+    "coverUrl": null,
+    "totalChapters": 0,
+    "totalAudios": 0,
+    "chapters": [],
+    "audios": []
+  }
+]

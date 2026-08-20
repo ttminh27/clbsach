@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-sans: 'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-serif: 'Lora', 'Merriweather', Georgia, Cambria, serif;
+    --font-mono: 'JetBrains Mono', Menlo, Monaco, Consolas, monospace;
+  }
+}
+
+body {
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Sepia Theme */
+html.sepia,
+body.sepia {
+  background-color: #fbf0d9 !important;
+  color: #433422 !important;
+}
+
+html.sepia div[class*="bg-white"],
+html.sepia aside,
+html.sepia header,
+html.sepia nav {
+  background-color: #f5e7c8 !important;
+  border-color: #e2cca0 !important;
+  color: #433422 !important;
+}
+
+html.sepia .text-slate-900,
+html.sepia .text-slate-800,
+html.sepia .text-slate-700 {
+  color: #433422 !important;
+}
+
+html.sepia .text-slate-600,
+html.sepia .text-slate-500,
+html.sepia .text-slate-400 {
+  color: #795548 !important;
+}
+
+html.sepia div[class*="bg-slate-50"],
+html.sepia div[class*="bg-slate-100"] {
+  background-color: #eee0bc !important;
+}
+
+/* OLED Deep Black Theme */
+html.oled,
+body.oled,
+html.oled div[class*="dark:bg-slate-900"],
+html.oled aside,
+html.oled header {
+  background-color: #000000 !important;
+}
+
+/* Custom Smooth Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.35);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.6);
+}
+
+/* Smooth range slider thumb styling */
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #10b981;
+  cursor: pointer;
+  box-shadow: 0 0 6px rgba(16, 185, 129, 0.4);
+}
