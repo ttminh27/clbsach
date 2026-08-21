@@ -21,19 +21,19 @@ export const HistoryBanner: React.FC = () => {
             Chào mừng bạn đến với CLB đọc sách VietinBank
           </div>
           <h2 className="text-2xl sm:text-3xl font-extrabold tracking-tight">
-            Khám phá kho tàng tri thức & bài tập tỉnh thức
+            Khám phá kho tàng tri thức & bài tập rèn luyện
           </h2>
           <p className="mt-2 text-sm text-white/85 leading-relaxed">
-            Đọc trọn vẹn tuyệt phẩm <strong className="text-white">"Search Inside Yourself"</strong> cùng 28 bài tập Audio chánh niệm độc quyền phát triển tại Google.
+            Đọc và làm Quiz tương tác các tuyệt phẩm: <strong className="text-white">"Đời Ngắn Đừng Ngủ Dài"</strong>, <strong className="text-white">"Sức Mạnh Của Thói Quen"</strong>, <strong className="text-white">"Search Inside Yourself"</strong> cùng 28 bài tập Audio chánh niệm.
           </p>
           <div className="mt-5 flex flex-wrap gap-3">
-            <Link
-              to="/book/SearchInsideYourSelf"
+            <a
+              href="#book-catalog"
               className="inline-flex items-center gap-2 rounded-xl bg-white px-5 py-2.5 text-xs font-bold text-emerald-800 hover:bg-emerald-50 transition-all shadow-md hover:scale-105 active:scale-95"
             >
               <BookOpen className="h-4 w-4" />
-              Khám Phá Sách Ngay
-            </Link>
+              Khám Phá Toàn Bộ Thư Viện
+            </a>
           </div>
         </div>
       </div>

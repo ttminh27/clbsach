@@ -39,7 +39,7 @@ export const HomePage: React.FC = () => {
       <HistoryBanner />
 
       {/* Filter Tabs */}
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
+      <div id="book-catalog" className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6 scroll-mt-20">
         <div>
           <h2 className="text-xl font-bold tracking-tight text-slate-900 dark:text-white">
             Thư Viện Tác Phẩm

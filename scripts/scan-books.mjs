@@ -55,7 +55,7 @@ const placeholderMetadata = {
     description: "Khám phá khoa học đằng sau cách hình thành thói quen và chìa khóa để thay đổi hành vi cá nhân, tổ chức cũng như toàn xã hội.",
     gradient: "from-purple-600 to-fuchsia-800",
     themeColor: "#9333ea",
-    status: "coming_soon"
+    status: "available"
   },
   "ThinkAgain": {
     title: "Dám Nghĩ Lại",
