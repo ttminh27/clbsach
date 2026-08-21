@@ -81,20 +81,15 @@ export const BookCard: React.FC<BookCardProps> = ({ book }) => {
           </div>
         )}
 
-        {/* Status Badge */}
-        <div className="absolute top-3 left-3 z-20 flex items-center gap-1.5">
-          {isAvailable ? (
-            <span className="flex items-center gap-1.5 rounded-full bg-emerald-600/90 backdrop-blur-md px-2.5 py-1 text-[11px] font-semibold text-white shadow-md border border-white/20">
-              <span className="h-1.5 w-1.5 rounded-full bg-white animate-ping"></span>
-              Có sẵn
-            </span>
-          ) : (
+        {/* Status Badge (only if not yet available) */}
+        {!isAvailable && (
+          <div className="absolute top-3 left-3 z-20 flex items-center gap-1.5">
             <span className="flex items-center gap-1 rounded-full bg-slate-950/80 backdrop-blur-md px-2.5 py-1 text-[11px] font-medium text-slate-200 shadow-md border border-white/15">
               <Sparkles className="h-3 w-3 text-amber-400" />
               Sắp ra mắt
             </span>
-          )}
-        </div>
+          </div>
+        )}
 
         {/* Audio & Chapter Counter Badges */}
         <div className="absolute bottom-3 right-3 z-20 flex items-center gap-1.5">

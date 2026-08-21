@@ -181,11 +181,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onToggleSidebar, isSidebarCollap
                         <h4 className="font-semibold text-sm text-slate-900 dark:text-white truncate group-hover:text-emerald-600 dark:group-hover:text-emerald-400">
                           {book.title}
                         </h4>
-                        {book.status === 'available' ? (
-                          <span className="shrink-0 rounded bg-emerald-100 px-1.5 py-0.2 text-[10px] font-medium text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300">
-                            Có sẵn
-                          </span>
-                        ) : (
+                        {book.status !== 'available' && (
                           <span className="shrink-0 rounded bg-slate-100 px-1.5 py-0.2 text-[10px] font-medium text-slate-600 dark:bg-slate-800 dark:text-slate-400">
                             Sắp có
                           </span>

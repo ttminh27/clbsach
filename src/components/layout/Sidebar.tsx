@@ -478,9 +478,6 @@ export const Sidebar: React.FC<SidebarProps> = ({
                   <span className="text-[11px] font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500">
                     Danh Sách Tựa Sách ({books.length})
                   </span>
-                  <span className="text-[10px] text-emerald-600 dark:text-emerald-400 font-semibold">
-                    1 Có sẵn
-                  </span>
                 </div>
 
                 <div className="relative mb-2">
@@ -515,7 +512,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
                           ? 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 font-bold'
                           : 'text-slate-600 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-800'
                       }`}
-                      title={`${book.title} (${isAvailable ? 'Có sẵn' : 'Sắp có'})`}
+                      title={book.title}
                     >
                       <div className="h-8 w-6 overflow-hidden rounded shadow-xs">
                         {book.coverUrl ? (
