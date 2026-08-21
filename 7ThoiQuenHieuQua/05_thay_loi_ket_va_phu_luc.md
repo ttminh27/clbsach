@@ -1,4 +1,4 @@
-## THAY LỜI KẾT
+### T HAY LỜI KẾT
 
 # Một cuốn sách có thể thay đổi cuộc đời bạn
 
@@ -8,9 +8,9 @@ Dưới đây là tổng hợp một số câu hỏi của báo chí và độc 
 
 Sự thật tôi sẽ không thay đổi điều gì trong cuốn sách này cả. Tôi đã phân tích sâu hơn và vận dụng rộng rãi hơn những điều đề cập trong cuốn sách bằng một số cuốn sách khác đã được phát hành sau đó.
 
-Ví dụ, hơn 250.000 người cho biết Thói quen thứ ba,** *ưu*** ***tiên cho điều quan trọng nhất,*** là thói quen bị xem nhẹ nhất. Do vậy, cuốn sách “Ưu tiên cho điều quan trọng nhất” đã được phát hành vào năm 1996. Nó đi sâu vào việc nghiên cứu, phân tích các Thói quen 2 và 3, đồng thời, bổ sung thêm nội dung và minh họa cho tất cả các thói quen khác.
+Ví dụ, hơn 250.000 người cho biết Thói quen thứ ba, ***ưu tiên cho điều quan trọng nhất,*** là thói quen bị xem nhẹ nhất. Do vậy, cuốn sách “Ưu tiên cho điều quan trọng nhất” đã được phát hành vào năm 1996. Nó đi sâu vào việc nghiên cứu, phân tích các Thói quen 2 và 3, đồng thời, bổ sung thêm nội dung và minh họa cho tất cả các thói quen khác.
 
-Tôi cũng được hàng chục ngàn người cho biết: bằng cách lĩnh hội** *7 Thói quen,*** họ đã thấm nhuần và vận dụng hiệu quả ý tưởng biến bản thân trở thành nguồn lực sáng tạo cuộc sống của chính mình. Điều đó cho thấy sức mạnh
+Tôi cũng được hàng chục ngàn người cho biết: bằng cách lĩnh hội ***7 Thói quen,*** họ đã thấm nhuần và vận dụng hiệu quả ý tưởng biến bản thân trở thành nguồn lực sáng tạo cuộc sống của chính mình. Điều đó cho thấy sức mạnh
 
 chuyển biến của các nguyên tắc đối với mọi đối tượng, dù là cá nhân, gia đình hay tổ chức, và không hề bị giới hạn bởi hoàn cảnh, kinh nghiệm sống của cá nhân hay vị thế của tổ chức.
 
@@ -34,7 +34,7 @@ dấu ấn cá nhân mặc dù nó thường là một bộ phận của hành v
 
 > 5- Mặc dù 7 Thói quen đại diện cho cách tiếp cận từ trong ra ngoài (inside-out), nhưng nó lại có kết quả tốt nhất khi bạn bắt đầu bằng thách thức từ bên ngoài và sau đó tiếp cận từ trong – ra ngoài. Nói cách khác, nếu bạn gặp phải một thách thức về quan hệ, chẳng hạn sự giao tiếp, và sự tin cậy lẫn nhau bị phá vỡ, thì điều này cho thấy cần có cách tiếp cận từ trong ra ngoài để Thành tích cá nhân có thể dẫn tới Thành tích tập thể nhằm mục đích đối phó với thách thức đó. Đó là lý do vì sao tôi thường dạy các Thói quen 4, 5 và 6 trước khi dạy các Thói quen 1, 2 và 3.
 
-6-** *Sự tương thuộc khó gấp 10 lần sự độc lập***. Nó đòi hỏi sự độc lập về trí tuệ và tình cảm nhiều hơn để có tư duy cùng thắng khi người khác có tư duy thắng/thua, để cố gắng hiểu người trước khi được người khác thông hiểu, và để tìm ra giải pháp thứ ba tốt hơn. Nói cách khác, để làm việc với người khác thành công bằng con đường hợp tác sáng tạo thì bạn phải có tính độc lập, sự an toàn nội tâm và sự tự chủ rất cao. Nếu không, cái mà chúng ta gọi là sự tương thuộc lại biến thành sự chống phụ thuộc (counter-
+6- ***Sự tương thuộc khó gấp 10 lần sự độc lập*** . Nó đòi hỏi sự độc lập về trí tuệ và tình cảm nhiều hơn để có tư duy cùng thắng khi người khác có tư duy thắng/thua, để cố gắng hiểu người trước khi được người khác thông hiểu, và để tìm ra giải pháp thứ ba tốt hơn. Nói cách khác, để làm việc với người khác thành công bằng con đường hợp tác sáng tạo thì bạn phải có tính độc lập, sự an toàn nội tâm và sự tự chủ rất cao. Nếu không, cái mà chúng ta gọi là sự tương thuộc lại biến thành sự chống phụ thuộc (counter-
 
 dependency) nơi người ta chống đối nhau để khẳng định tính độc lập của mỗi bên, hoặc là sự đồng phụ thuộc (codependency) nơi người này cần đến sự yếu kém của người khác để thỏa mãn nhu cầu của mình và để biện minh cho sự yếu kém của mình.
 
@@ -104,7 +104,7 @@ Chẳng có gì thiêng liêng đối với con số 7 cả, đơn giản chỉ 
 
 Khi được hỏi về câu này, tôi luôn luôn trả lời rằng nếu có đặc tính khác mà bạn muốn cho nó trở thành thói quen, thì bạn chỉ cần đưa nó vào Thói quen thứ hai như một trong những giá trị mà bạn đang cố gắng để sống theo nó. Nói cách khác, nếu bạn muốn “luôn đúng giờ” thành một thói quen, thì đó sẽ là một trong những giá trị của Thói quen thứ hai. Thói quen thứ hai nói về những sự lựa chọn hay giá trị đó là gì và Thói quen thứ ba nói về việc sống theo những giá trị đó. Do vậy mà chúng rất cơ bản, có tính chất chung nhất và quan hệ mật thiết với nhau.
 
-Sự thật là khi viết Lời kết cho lần xuất bản mới nhất quyển sách này, tôi vừa hoàn thành cuốn sách mới:** *“Thói*** ***quen thứ 8: Từ thành đạt đến vĩ đại”*** (The 8th Habit: From Effectiveness to Greatness). Một số người cho rằng gọi nó là Thói quen thứ 8 có vẻ như đã đi lệch khỏi ý kiến trả lời chuẩn mực của tôi. Nhưng như các bạn thấy ở chương Mở đầu của cuốn sách mới, thế giới đã thay đổi sâu sắc từ khi cuốn sách “7 Thói Quen Để Thành Đạt” xuất bản năm 1989. Những thách thức và tính chất phức tạp mà chúng ta gặp phải trong cuộc sống riêng, trong các mối quan hệ, trong nghề nghiệp chuyên môn, và trong các tổ chức là rất khác về mức độ so với trước. Trong thực tế, nhiều người lấy mốc năm 1989 – năm chứng kiến sự sụp đổ của bức tường Berlin – như sự bắt đầu của** *Thời đại Tin học,*** sự ra đời của một thực tại mới, một đại dương mênh mông những thay đổi với những ý nghĩa không thể tin nổi… một thời đại thực sự mới mẻ.
+Sự thật là khi viết Lời kết cho lần xuất bản mới nhất quyển sách này, tôi vừa hoàn thành cuốn sách mới: ***“Thói quen thứ 8: Từ thành đạt đến vĩ đại”***(The 8th Habit: From Effectiveness to Greatness). Một số người cho rằng gọi nó là Thói quen thứ 8 có vẻ như đã đi lệch khỏi ý kiến trả lời chuẩn mực của tôi. Nhưng như các bạn thấy ở chương Mở đầu của cuốn sách mới, thế giới đã thay đổi sâu sắc từ khi cuốn sách “7 Thói Quen Để Thành Đạt” xuất bản năm 1989. Những thách thức và tính chất phức tạp mà chúng ta gặp phải trong cuộc sống riêng, trong các mối quan hệ, trong nghề nghiệp chuyên môn, và trong các tổ chức là rất khác về mức độ so với trước. Trong thực tế, nhiều người lấy mốc năm 1989 – năm chứng kiến sự sụp đổ của bức tường Berlin – như sự bắt đầu của***Thời đại Tin học,*** sự ra đời của một thực tại mới, một đại dương mênh mông những thay đổi với những ý nghĩa không thể tin nổi… một thời đại thực sự mới mẻ.
 
 Sự thành đạt của cá nhân và tổ chức như trước không còn đủ cho thế giới ngày nay – đó là cái giá phải trả để bước vào một sân chơi mới. Nhưng để tồn tại, thịnh vượng, sáng tạo, hoàn thiện và dẫn đầu trong một thực tại mới mẻ này,
 
@@ -150,15 +150,15 @@ và truyền cảm hứng
 
 cho người khác
 
-Reân
+R e â n
 
-giuäa
+g i u ä a
 
-baãn
+b a ã n
 
-th
+t h
 
-ân
+â n
 
 7
 
@@ -216,21 +216,21 @@ Tôi muốn nói hai điều. Thứ nhất, nếu điều họ nói được d�
 
 Stephen R. Covey là một chuyên gia được kính trọng trên thế giới về lý thuyết lãnh đạo, vấn đề gia đình, một nhà giáo, nhà tư vấn về quản lý và là một tác giả đã cống hiến cả đời mình để giảng dạy phương pháp sống và lãnh đạo lấy nguyên tắc làm trọng tâm, nhằm xây dựng cuộc sống gia đình và tổ chức thành đạt. Ông tốt nghiệp thạc sĩ quản trị kinh doanh Đại học Harvard và tiến sĩ Đại học Brigham Young - nơi ông làm giáo sư môn hành vi học của tổ chức và quản trị kinh doanh, đồng thời là giám đốc quan hệ công chúng của trường và trợ lý hiệu trưởng. Ngoài ra, ông còn nhận được 7 bằng tiến sĩ danh dự của các trường đại học danh tiếng khác.
 
-Tiến sĩ Covey là tác giả của nhiều cuốn sách, bao gồm cuốn sách bán chạy nhất thế giới** *“7 Thói Quen Để Thành*** ***Đạt”*** - tác phẩm được tôn vinh là có ảnh hưởng nhất của thế
+Tiến sĩ Covey là tác giả của nhiều cuốn sách, bao gồm cuốn sách bán chạy nhất thế giới ***“7 Thói Quen Để Thành Đạt”*** - tác phẩm được tôn vinh là có ảnh hưởng nhất của thế
 
 ![Tiến sĩ Stephen R. Covey](images/tac_gia_stephen_covey.png)
 
-kỷ 20 và là một trong 10 cuốn sách về quản trị có ảnh hưởng nhất từ trước đến nay với 15 triệu bản bằng 38 thứ tiếng đã được bán ra trên thế giới. Những cuốn sách nổi tiếng khác của ông bao gồm:** *Thói quen thứ tám; Ưu tiên cho cái quan*** ***trọng nhất; Lãnh đạo lấy nguyên tắc làm trọng tâm*** va***â 7 Thói*** ***quen của những gia đình thành đạt.***
+kỷ 20 và là một trong 10 cuốn sách về quản trị có ảnh hưởng nhất từ trước đến nay với 15 triệu bản bằng 38 thứ tiếng đã được bán ra trên thế giới. Những cuốn sách nổi tiếng khác của ông bao gồm: ***Thói quen thứ tám; Ưu tiên cho cái quan trọng nhất; Lãnh đạo lấy nguyên tắc làm trọng tâm***va***â 7 Thói quen của những gia đình thành đạt.***
 
-Ông có 9 người con và 43 người cháu. Ông được trao Giải thưởng Người Cha Đáng Kính của nước Mỹ - giải thưởng mà ông cho rằng có ý nghĩa nhất trong cuộc đời mình. Các giải thưởng khác của ông bao gồm Thomas More College Medallion về sự cống hiến cho nhân loại, Diễn Giả Xuất Sắc Nhất, Giải thưởng Công dân của Hòa Bình, Giải thưởng Quốc tế Nhà Doanh nghiệp của năm 1994 và Giải thưởng Doanh nhân Quốc gia vì Những Thành tựu Trọn đời của Hoa Kỳ. Tiến sĩ Covey được tạp chí** *Time*** công nhận là một trong 25 người Mỹ có ảnh hưởng nhất thế kỷ 20.
+Ông có 9 người con và 43 người cháu. Ông được trao Giải thưởng Người Cha Đáng Kính của nước Mỹ - giải thưởng mà ông cho rằng có ý nghĩa nhất trong cuộc đời mình. Các giải thưởng khác của ông bao gồm Thomas More College Medallion về sự cống hiến cho nhân loại, Diễn Giả Xuất Sắc Nhất, Giải thưởng Công dân của Hòa Bình, Giải thưởng Quốc tế Nhà Doanh nghiệp của năm 1994 và Giải thưởng Doanh nhân Quốc gia vì Những Thành tựu Trọn đời của Hoa Kỳ. Tiến sĩ Covey được tạp chí ***Time*** công nhận là một trong 25 người Mỹ có ảnh hưởng nhất thế kỷ 20.
 
 Tiến sĩ Covey là sáng lập viên và là Phó chủ tịch Công ty FranklinCovey, một công ty cung cấp dịch vụ hàng đầu trên thế giới có văn phòng tại 123 nước. Họ chia sẻ tầm nhìn, tính kỷ luật và nhiệt tình của Tiến sĩ Covey để có nguồn cảm hứng, nâng cao, và cung cấp phương tiện cho các cá nhân và tổ chức có nhu cầu trên toàn thế giới để thay đổi và trưởng thành trên con đường công danh và sự nghiệp.
 
-FranklinCovey (tên niêm yết trên thị trường chứng khoán New York*(*)* là FC) là công ty hàng đầu trên thế giới về đào tạo, nâng cao hiệu quả làm việc, các công cụ nâng cao năng suất lao động và các dự án đánh giá cho các tổ chức, tập thể và cá nhân. Khách hàng của FranklinCovey
+FranklinCovey (tên niêm yết trên thị trường chứng khoán New York *(*)* là FC) là công ty hàng đầu trên thế giới về đào tạo, nâng cao hiệu quả làm việc, các công cụ nâng cao năng suất lao động và các dự án đánh giá cho các tổ chức, tập thể và cá nhân. Khách hàng của FranklinCovey
 
 (*) NYSE - New York Stock Exchange.
 
-chiếm 90% các công ty trong danh sách** *Fortune 100***, hơn 75% trong** *Fortune 500***, hàng ngàn các doanh nghiệp nhỏ và vừa, cũng như nhiều tổ chức của chính phủ và các tổ chức giáo dục. Các tổ chức và cá nhân tiếp cận với các sản phẩm của FranklinCovey và dịch vụ thông qua các lớp huấn luyện của công ty, qua các nhân viên cung cấp dịch vụ có giấy phép, tư vấn trực tiếp một đối một, các cuộc hội thảo chuyên đề, các catalogue, cùng với hơn 140 cửa hàng bán lẻ và qua trang web** *www.franklincovey.com***
+chiếm 90% các công ty trong danh sách ***Fortune 100***, hơn 75% trong***Fortune 500***, hàng ngàn các doanh nghiệp nhỏ và vừa, cũng như nhiều tổ chức của chính phủ và các tổ chức giáo dục. Các tổ chức và cá nhân tiếp cận với các sản phẩm của FranklinCovey và dịch vụ thông qua các lớp huấn luyện của công ty, qua các nhân viên cung cấp dịch vụ có giấy phép, tư vấn trực tiếp một đối một, các cuộc hội thảo chuyên đề, các catalogue, cùng với hơn 140 cửa hàng bán lẻ và qua trang web***www.franklincovey.com***
 
 FranklinCovey có hơn 2.000 cộng tác viên cung cấp các dịch vụ chuyên nghiệp, các sản phẩm và tư liệu bằng 28 ngôn ngữ, tại 39 văn phòng và ở 95 nước trên thế giới.
 
@@ -274,11 +274,11 @@ FranklinCovey có hơn 2.000 cộng tác viên cung cấp các dịch vụ chuy�
 
 #### MỤC LỤC
 
-***Lời giới thiệu*** 5** *Lời tác giả*** 9
+***Lời giới thiệu***5***Lời tác giả*** 9
 
-# CHƯƠNG MỘT NHỮNG KHÁI NIỆM TỔNG QUAN 13
+#### C HƯƠNG M ỘT NHỮNG KHÁI NIỆM TỔNG QUAN 13
 
-## CÁNH CỬA CỦA SỰ THAY ĐỔI 15
+### C ÁNH CỬA CỦA SỰ THAY ĐỔI 15
 
 ### Những thách thức của kỷ nguyên mới 17 Sợ hãi và Tự ti 17 Ước muốn và Tham vọng sở hữu 17 Trốn tránh trách nhiệm 18 Tuyệt vọng 19 Mất cân bằng trong cuộc sống 20 Tính vị kỷ 20 Niềm khao khát được lắng nghe 21 Xung đột và khác biệt 22 Bế tắc của bản thân 22
 
@@ -286,59 +286,59 @@ FranklinCovey có hơn 2.000 cộng tác viên cung cấp các dịch vụ chuy�
 
 ### Chúng ta có thể kỳ vọng điều gì? 25
 
-## MÔ THỨC VÀ NGUYÊN TẮC 27
+### M Ô THỨC VÀ N GUYÊN TẮC 27
 
 ### Bắt đầu từ bên trong 29 1. Đạo đức nhân cách và Đạo đức tính cách 33 2. Chính yếu và thứ yếu 38
 
-### 3. Ảnh hưởng của mô thức 40 4. Thay đổi mô thức 48 5. Nhận thức và tính cách 52 6. Lấy nguyên tắc làm trung tâm 53 7. Nguyên tắc thay đổi và phát triển 58 8. Nhìn nhận vấn đêì 65 9. Nâng cao trình độ tư duy 68
+### 3. Ảnh hưởng của mô thức 40 4. Thay đổi mô thức 48 5. Nhận thức và tính cách 52 6. Lấy nguyên tắc làm trung tâm 53 7. Nguyên tắc thay đổi và phát triển 58 8. Nhìn nhận vấn đê ì 65 9. Nâng cao trình độ tư duy 68
 
 ### Tổng quan về “7 thói quen” 73 1. “Thói quen” là gì? 75 2. Tính liên tục của quá trình trưởng thành 77 3. Định nghĩa về tính hiệu quả 83 4. Ba loại tài sản 84 5. Nguyên tắc PC trong tổ chức 89
 
-# CHƯƠNG HAI THÀNH TÍCH CÁ NHÂN 95
+#### C HƯƠNG H AI THÀNH TÍCH CÁ NHÂN 95
 
-## Thói quen thứ nhất: LUÔN CHỦ ĐỘNG 97
+## Thói quen thứ nhất: L UÔN CHỦ ĐỘNG 97
 
 ### Các nguyên tắc về tầm nhìn cá nhân 99 1. Lăng kính xã hội 101 2. Giữa nhân tố kích thích và phản ứng là gì? 103 3. Định nghĩa “tính chủ động” 106 4. Nắm thế chủ động 111 5. Chủ động hành động hay bị động đối phó? 113 6. Lắng nghe chính mình 116 7. Vòng tròn Quan tâm và Vòng tròn Ảnh hưởng 120 8. Kiểm soát trực tiếp, kiểm soát gián tiếp và ngoài tầm kiểm soát 125
 
 ### 9. Mở rộng Vòng tròn Ảnh hưởng 126 10. “Có” và “Là” 130 11. Phía bên kia của thất bại 132 12. Cam kết và giữ lời 134 13. Tính chủ động: cuộc trắc nghiệm 30 ngày 136
 
-## Thói quen thứ hai: BẮT ĐẦU TỪ MỤC TIÊU ĐÃ ĐƯỢC XÁC ĐỊNH 139
+## Thói quen thứ hai: B ẮT ĐẦU TỪ MỤC TIÊU ĐÃ ĐƯỢC XÁC ĐỊNH 139
 
 ### Các nguyên tắc lãnh đạo bản thân 141 1. “Bắt đầu từ mục tiêu đã được xác định” có nghĩa là gì? 142 2. Mọi sự vật đều được sáng tạo hai lần 145 3. Dự kiến hay mặc nhiên 147 4. Lãnh đạo và quản lý – hai sự sáng tạo 148 5. Trở thành người sáng tạo đầu tiên của chính mình 151 6. Tuyên ngôn sứ mệnh cá nhân 156 7. Trung tâm của Vòng tròn Ảnh hưởng 160 8. Các trọng tâm trong cuộc sống 163 9. Nhận diện trọng tâm của bạn 175 10. Trọng tâm hướng về nguyên tắc 180 11. Thiết lập và vận dụng bản tuyên ngôn sứ mệnh cá nhân 189 12. Vận dụng tư duy ở tầm cao mới 191 13. Hai phương pháp khai thác tiềm năng của bán cầu não phải 193 14. Nhận diện vai trò và mục tiêu 200 15. Tuyên ngôn sứ mệnh gia đình 204 16. Tuyên ngôn sứ mệnh tổ chức 206
 
-## Thói quen thứ ba: ƯU TIÊN CHO ĐIỀU QUAN TRỌNG NHẤT 215
+## Thói quen thứ ba: Ư U TIÊN CHO ĐIỀU QUAN TRỌNG NHẤT 215
 
 ### Các nguyên tắc quản lý bản thân 217 1. Sức mạnh của ý chí độc lập 219 2. Bốn thế hệ quản trị thời gian 222 3. Góc Phần tư thứ hai 224 4. Điều kiện cần có để nói “không” 232 5. Tổ chức và thực hiện Phần tư thứ hai 236 6. Công cụ dùng cho Phần tư thứ hai 239 7. Trở thành người tự quản Phần tư thứ hai 242 8. Thực hiện lịch công tác của bạn 250 9. Ưu điểm vượt trội của thế hệ quản trị thời gian thứ tư 252 10. Giao phó công việc: Gia tăng P và PC 253 11. Giao phó mệnh lệnh 255 12. Giao phó ủy quyền 257 13. Mô thức về Phần tư thứ hai 265
 
-# CHƯƠNG BA THÀNH TÍCH TẬP THỂ 269
+#### C HƯƠNG B A THÀNH TÍCH TẬP THỂ 269
 
 ### Những mô thức của sự tương thuộc 271 1. Tài khoản tình cảm 276 2. Sáu khoản ký gửi chủ yếu 279 3. Những quy luật của tình yêu và cuộc sống 292 4. Vấn đề của P là cơ hội của PC 296
 
-## Thói quen thứ tư: TƯ DUY CÙNG THẮNG 299 Các nguyên tắc lãnh đạo 301 1. Sáu mô thức của mối quan hệ tương tác giữa con người 303 2. Năm phương diện của tư duy cùng thắng 318 3. Các hệ thống hỗ trợ 336 4. Các quá trình 340
+## Thói quen thứ tư: T Ư DUY CÙNG THẮNG 299 Các nguyên tắc lãnh đạo 301 1. Sáu mô thức của mối quan hệ tương tác giữa con người 303 2. Năm phương diện của tư duy cùng thắng 318 3. Các hệ thống hỗ trợ 336 4. Các quá trình 340
 
-## Thói quen thứ năm: LẮNG NGHE VÀ THẤU HIỂU 345
+## Thói quen thứ năm: L ẮNG NGHE VÀ THẤU HIỂU 345
 
 ### Các nguyên tắc giao tiếp trên cơ sở thấu hiểu lẫn nhau 347 1. Tính cách và giao tiếp 349 2. Lắng nghe và thấu hiểu 351 3. “Chẩn bệnh” trước khi “kê toa” 357 4. Bốn kiểu phản ứng phản xạ 359 5. Hiểu và nhận thức 373 6. Tiếp cận từng bước một 378
 
-## Thói quen thứ sáu: ĐỒNG TÂM HIỆP LỰC 383
+## Thói quen thứ sáu: Đ ỒNG TÂM HIỆP LỰC 383
 
 ### Các nguyên tắc hợp tác sáng tạo 385 1. Sự giao tiếp đồng tâm hiệp lực 387 2. Đồng tâm hiệp lực trong nhóm 389 3. Đồng tâm hiệp lực trong kinh doanh 391 4. Đồng tâm hiệp lực và vấn đề giao tiếp 393 5. Tìm kiếm một phương án thứ ba 395 6. Đồng tâm hiệp lực tiêu cực 399 7. Coi trọng sự khác biệt 403 8. Phân tích trường lực 406 9. Bản chất của tự nhiên là đồng tâm hiệp lực 411
 
-# CHƯƠNG BỐN ĐỔI MỚI 415
+#### C HƯƠNG B ỐN ĐỔI MỚI 415
 
-## Thói quen thứ bảy: RÈN GIỮA BẢN THÂN 417
+## Thói quen thứ bảy: R ÈN GIỮA BẢN THÂN 417
 
 ### Các nguyên tắc tự đổi mới hợp lý 419 1. Bốn khía cạnh của tự đổi mới 420 2. Ảnh hưởng của bạn đối với người khác 435 3. Cân bằng trong đổi mới 437 4. Đồng tâm hiệp lực trong đổi mới 439 5. Sự phát triển theo đường xoắn ốc 441
 
 ### Trở lại nguyên tắc “bắt đầu từ bên trong” 445 1. Cuộc sống liên thế hệ 448 2. Con người giao thời 450 3. Một ghi chú của tác giả 453
 
-### Thay lời kết MỘT CUỐN SÁCH CÓ THỂ THAY ĐỔI CUỘC ĐỜI BẠN 455
+### Thay lời kết M ỘT CUỐN SÁCH CÓ THỂ THAY ĐỔI CUỘC ĐỜI BẠN 455
 
-### Về tác giả STEPHEN R. COVEY 469 GIÁ TRỊ CỦA “7 THÓI QUEN ĐỂ THÀNH ĐẠT” 472
+### Về tác giả STEPHEN R. COVEY 469 G IÁ TRỊ CỦA “7 T HÓI Q UEN Đ Ể T HÀNH Đ ẠT ” 472
 
 ***Chịu trách nhiệm xuất bản:*** Tiến sĩ QUÁCH THU NGUYỆT
 
-***Biên tập*** : Thành Nam** *Trình bày*** : First News** *Sửa bản in*** : Thanh Bình
+***Biên tập***: Thành Nam***Trình bày***: First News***Sửa bản in*** : Thanh Bình
 
 ***Thực hiện*** : First News – Trí Việt
 

@@ -9,21 +9,21 @@
       "question": "Trong Lời cảm ơn, Chade-Meng Tan đã tri ân nhóm 'Bộ ba sáng lập' (The founding troika) của chương trình SIY tại Google bao gồm những ai?",
       "options": [
         "Ba nhà đầu tư mạo hiểm giấu tên tại Phố Wall.",
-        "Chade-Meng Tan (Kỹ sư Google), Mirabai Bush (Chuyên gia chánh niệm) và Norman Fischer (Thiền sư Phật giáo).",
         "Ba lập trình viên xuất sắc nhất của hệ điều hành Android.",
-        "Ba giám đốc marketing của tập đoàn Apple."
+        "Ba giám đốc marketing của tập đoàn Apple.",
+        "Chade-Meng Tan (Kỹ sư Google), Mirabai Bush (Chuyên gia chánh niệm) và Norman Fischer (Thiền sư Phật giáo)."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "SIY được thai nghén từ sự hợp tác hoàn hảo giữa tư duy kỹ sư của Meng, chuyên môn sư phạm chánh niệm của Mirabai Bush và sự uyên bác tâm linh của Thiền sư Norman Fischer."
     },
     {
       "id": "q2",
       "question": "Vai trò của Giáo sư Daniel Goleman và Tiến sĩ Jon Kabat-Zinn đối với sự hình thành của SIY được tác giả tri ân là gì?",
       "options": [
-        "Họ là những người đã tài trợ 100% kinh phí cho cuốn sách.",
-        "Họ là những người thầy tiền bối vĩ đại đã đặt nền móng lý thuyết khoa học vững chắc về Trí tuệ cảm xúc và Chánh niệm y khoa, đồng thời trực tiếp cố vấn cấu trúc giáo trình cho SIY.",
         "Họ là những người đã dịch cuốn sách sang tiếng Pháp.",
-        "Họ là những người phụ trách in ấn xuất bản sách."
+        "Họ là những người thầy tiền bối vĩ đại đã đặt nền móng lý thuyết khoa học vững chắc về Trí tuệ cảm xúc và Chánh niệm y khoa, đồng thời trực tiếp cố vấn cấu trúc giáo trình cho SIY.",
+        "Họ là những người phụ trách in ấn xuất bản sách.",
+        "Họ là những người đã tài trợ 100% kinh phí cho cuốn sách."
       ],
       "correctIndex": 1,
       "explanation": "Meng khẳng định SIY được xây dựng trên vai của những người khổng lồ: Goleman mở đường cho EQ và Kabat-Zinn mở đường cho Chánh niệm khoa học."
@@ -32,33 +32,33 @@
       "id": "q3",
       "question": "Tập đoàn Google được tác giả cảm ơn vì môi trường văn hóa độc đáo nào đã nuôi dưỡng dự án SIY?",
       "options": [
-        "Chính sách cấm nhân viên nói chuyện ngoài giờ làm việc.",
         "Chính sách '20% thời gian' (20% project time) cho phép kỹ sư dành một phần thời gian làm việc để theo đuổi các dự án đam mê có ý nghĩa phụng sự nhân loại và đổi mới sáng tạo.",
         "Chính sách giảm lương hàng năm để rèn luyện tính chịu đựng.",
+        "Chính sách cấm nhân viên nói chuyện ngoài giờ làm việc.",
         "Chính sách độc quyền toàn bộ các bằng sáng chế cá nhân."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Chính sách 20% thời gian huyền thoại của Google đã cho phép Meng sáng tạo nên SIY – một khóa học ban đầu xuất phát từ đam mê cá nhân trở thành hiện tượng toàn cầu."
     },
     {
       "id": "q4",
       "question": "Các nhà khoa học thần kinh hàng đầu (như Richard Davidson, Sara Lazar, Philippe Goldin) được tri ân vì đóng góp quan trọng nào?",
       "options": [
-        "Họ đã cung cấp các thiết bị máy tính miễn phí cho Google.",
-        "Họ đã cung cấp các bằng chứng thực nghiệm quét não (fMRI) chuẩn xác và cố vấn khoa học nghiêm ngặt để đảm bảo mọi bài tập trong sách đều có cơ sở sinh học thần kinh vững chắc.",
         "Họ đã viết thay toàn bộ nội dung cuốn sách cho tác giả.",
-        "Họ đã tổ chức các buổi biểu diễn ảo thuật cho nhân viên Google."
+        "Họ đã tổ chức các buổi biểu diễn ảo thuật cho nhân viên Google.",
+        "Họ đã cung cấp các bằng chứng thực nghiệm quét não (fMRI) chuẩn xác và cố vấn khoa học nghiêm ngặt để đảm bảo mọi bài tập trong sách đều có cơ sở sinh học thần kinh vững chắc.",
+        "Họ đã cung cấp các thiết bị máy tính miễn phí cho Google."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự tham gia của các nhà khoa học thần kinh hàng đầu thế giới bảo chứng cho tính chuẩn xác, khách quan và đáng tin cậy của phương pháp SIY."
     },
     {
       "id": "q5",
       "question": "Meng bày tỏ lòng biết ơn sâu sắc đến 'Các tình nguyện viên và giảng viên nội bộ tại Google' (Internal facilitators) vì điều gì?",
       "options": [
-        "Họ đã làm việc không công để giúp công ty tăng lợi nhuận.",
-        "Họ đã dành trọn tâm huyết, thời gian và tình yêu thương để trực tiếp trợ giảng, dẫn dắt các buổi thực hành nhóm và duy trì ngọn lửa cộng đồng SIY lớn mạnh suốt nhiều năm.",
         "Họ đã mua toàn bộ số lượng sách in đầu tiên.",
+        "Họ đã dành trọn tâm huyết, thời gian và tình yêu thương để trực tiếp trợ giảng, dẫn dắt các buổi thực hành nhóm và duy trì ngọn lửa cộng đồng SIY lớn mạnh suốt nhiều năm.",
+        "Họ đã làm việc không công để giúp công ty tăng lợi nhuận.",
         "Họ đã bảo vệ bản quyền tác giả trên internet."
       ],
       "correctIndex": 1,
@@ -68,12 +68,12 @@
       "id": "q6",
       "question": "Tác giả gửi lời cảm ơn đặc biệt đến người vợ và gia đình của mình vì sự hy sinh và ủng hộ nào?",
       "options": [
-        "Họ đã giúp ông đầu tư vào các dự án bất động sản.",
-        "Họ là bến đỗ bình an, là nguồn cảm hứng yêu thương vô điều kiện và luôn kiên nhẫn đồng hành cùng ông trong suốt những năm tháng miệt mài nghiên cứu và viết sách.",
+        "Họ đã quản lý toàn bộ tài chính của công ty Google.",
         "Họ đã giúp ông dịch sách sang 50 thứ tiếng.",
-        "Họ đã quản lý toàn bộ tài chính của công ty Google."
+        "Họ là bến đỗ bình an, là nguồn cảm hứng yêu thương vô điều kiện và luôn kiên nhẫn đồng hành cùng ông trong suốt những năm tháng miệt mài nghiên cứu và viết sách.",
+        "Họ đã giúp ông đầu tư vào các dự án bất động sản."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Gia đình là điểm tựa thiêng liêng: tình yêu thương ấm áp từ người thân là suối nguồn năng lượng nuôi dưỡng mọi ước mơ phụng sự thế giới của tác giả."
     },
     {
@@ -81,11 +81,11 @@
       "question": "Lời cảm ơn dành cho 'Các học viên đầu tiên của khóa học SIY tại Google' nhấn mạnh giá trị gì?",
       "options": [
         "Họ là những người đã trả học phí rất đắt.",
-        "Họ là những 'chú chuột bạch' dũng cảm đã tin tưởng tham gia thử nghiệm, đóng góp những phản hồi chân thật và giúp tinh chỉnh giáo trình ngày càng hoàn thiện và thực tế hơn.",
         "Họ đã đồng ý không bao giờ tiết lộ nội dung khóa học ra ngoài.",
+        "Họ là những 'chú chuột bạch' dũng cảm đã tin tưởng tham gia thử nghiệm, đóng góp những phản hồi chân thật và giúp tinh chỉnh giáo trình ngày càng hoàn thiện và thực tế hơn.",
         "Họ đã thi đỗ 100% các bài kiểm tra trắc nghiệm."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự dũng cảm thử nghiệm của các học viên tiên phong đã biến một ý tưởng sơ khai thành một chương trình hoàn chỉnh được kiểm chứng trong thực tế."
     },
     {
@@ -93,23 +93,23 @@
       "question": "Meng tri ân người biên tập và nhà xuất bản HarperCollins vì đóng góp chuyên môn nào?",
       "options": [
         "Họ đã ép tác giả phải cắt bỏ 90% nội dung sách.",
-        "Họ đã giúp mài giũa câu chữ, cấu trúc lại các chương mục mạch lạc và giữ trọn vẹn được giọng văn hóm hỉnh độc đáo của tác giả để chạm tới trái tim hàng triệu độc giả.",
         "Họ đã tài trợ toàn bộ chi phí quảng cáo trên truyền hình.",
+        "Họ đã giúp mài giũa câu chữ, cấu trúc lại các chương mục mạch lạc và giữ trọn vẹn được giọng văn hóm hỉnh độc đáo của tác giả để chạm tới trái tim hàng triệu độc giả.",
         "Họ đã in sách bằng loại mực phát quang trong bóng tối."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Đội ngũ biên tập xuất sắc đã giúp biến những bản thảo kỹ thuật thành một tác phẩm văn học nghệ thuật truyền cảm hứng sâu sắc."
     },
     {
       "id": "q9",
       "question": "Tác giả cảm ơn 'Tất cả các bậc thầy tâm linh từ mọi truyền thống' vì điều gì?",
       "options": [
-        "Vì họ đã phát minh ra các loại bùa hộ mệnh.",
         "Vì họ đã gìn giữ, thực hành và trao truyền kho tàng trí tuệ chuyển hóa tâm thức của nhân loại qua hàng ngàn năm lịch sử để thế hệ hôm nay được thừa hưởng.",
         "Vì họ đã ủng hộ tiền cho quỹ từ thiện của Google.",
+        "Vì họ đã phát minh ra các loại bùa hộ mệnh.",
         "Vì họ đã cho phép tác giả độc quyền các bài thiền."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự khiêm nhường sâu sắc: Meng xem mình chỉ là người kết nối mang kho báu trí tuệ ngàn năm của các bậc tiền bối đến với thế giới công nghệ hiện đại."
     },
     {
@@ -117,23 +117,23 @@
       "question": "Sự tri ân đối với 'Những lời chỉ trích và phản hồi phản biện' (Critics and skeptical engineers) thể hiện thái độ gì của tác giả?",
       "options": [
         "Sự giận dữ và muốn trả đũa những người nghi ngờ mình.",
-        "Thái độ chánh niệm và biết ơn chân thành: chính những câu hỏi hóc búa và sự hoài nghi ban đầu của các kỹ sư đã buộc SIY phải trở nên khoa học hơn, logic hơn và chặt chẽ hơn.",
         "Sự phớt lờ và coi thường ý kiến đóng góp của người khác.",
-        "Việc đâm đơn kiện những người chỉ trích."
+        "Việc đâm đơn kiện những người chỉ trích.",
+        "Thái độ chánh niệm và biết ơn chân thành: chính những câu hỏi hóc búa và sự hoài nghi ban đầu của các kỹ sư đã buộc SIY phải trở nên khoa học hơn, logic hơn và chặt chẽ hơn."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Nghịch cảnh là người thầy tốt nhất: sự hoài nghi của người khác là động lực tôi luyện cho phương pháp SIY đạt đến độ hoàn hảo không tì vết."
     },
     {
       "id": "q11",
       "question": "Meng bày tỏ sự biết ơn đối với đất nước Singapore (nơi ông sinh ra và lớn lên) vì nền tảng giáo dục nào?",
       "options": [
+        "Nơi đã dạy ông cách chơi chứng khoán.",
         "Hệ thống giáo dục nghiêm ngặt đã tôi luyện cho ông tư duy logic kỹ thuật vững chắc và tinh thần kỷ luật cao độ.",
-        "Nơi đã cấp cho ông bằng lái máy bay trực thăng.",
         "Nơi đã tài trợ toàn bộ học phí đại học tại Mỹ.",
-        "Nơi đã dạy ông cách chơi chứng khoán."
+        "Nơi đã cấp cho ông bằng lái máy bay trực thăng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Nền tảng giáo dục khoa học từ quê hương Singapore kết hợp với tinh thần khai phóng tại Thung lũng Silicon đã tạo nên phong cách độc đáo của Meng."
     },
     {
@@ -141,33 +141,33 @@
       "question": "Lời cảm ơn dành cho 'Cộng đồng mã nguồn mở và phong trào Internet' nhấn mạnh giá trị tinh thần nào?",
       "options": [
         "Tinh thần buôn bán phần mềm độc quyền kiếm lời.",
-        "Tinh thần chia sẻ tự do, cống hiến tri thức vì lợi ích chung của nhân loại – giá trị cốt lõi mà SIY kế thừa để lan tỏa chánh niệm hoàn toàn phi lợi nhuận cho thế giới.",
         "Khả năng tải phim miễn phí trên mạng.",
-        "Việc sử dụng máy tính không cần trả tiền bản quyền."
+        "Việc sử dụng máy tính không cần trả tiền bản quyền.",
+        "Tinh thần chia sẻ tự do, cống hiến tri thức vì lợi ích chung của nhân loại – giá trị cốt lõi mà SIY kế thừa để lan tỏa chánh niệm hoàn toàn phi lợi nhuận cho thế giới."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "SIY được xây dựng trên tinh thần 'Mã nguồn mở cho tâm trí' (Open-source for the mind): chia sẻ tự do để ai cũng có thể tiếp cận sự bình an."
     },
     {
       "id": "q13",
       "question": "Tại sao Lời cảm ơn của cuốn sách lại mang lại cảm giác ấm áp và xúc động cho người đọc?",
       "options": [
-        "Vì nó có danh sách dài các khoản tiền thưởng.",
         "Vì nó thể hiện sự thấy biết sâu sắc về tính Tương tức (Interbeing) – nhận thức rõ ràng rằng không có thành tựu nào là của riêng một cá nhân mà là kết tinh tình thương của hàng ngàn con người.",
+        "Vì nó chỉ cảm ơn những người giàu có nhất.",
         "Vì nó được viết bằng thơ lục bát.",
-        "Vì nó chỉ cảm ơn những người giàu có nhất."
+        "Vì nó có danh sách dài các khoản tiền thưởng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Lòng biết ơn là đỉnh cao của sự thực hành chánh niệm: nhìn thấy muôn vạn nhân duyên và sự nâng đỡ của cuộc đời trong từng trang sách."
     },
     {
       "id": "q14",
       "question": "Lời cảm ơn cuối cùng mà Meng dành cho chính Bạn – người đọc cuốn sách này – là gì?",
       "options": [
-        "Cảm ơn vì bạn đã mua sách giúp tăng doanh số.",
+        "Cảm ơn vì bạn đã đọc sách mà không ngủ gật.",
         "Cảm ơn vì bạn đã dành thời gian quý báu của cuộc đời mình để đọc cuốn sách này, và cảm ơn vì lòng dũng cảm dấn thân vào hành trình khám phá bên trong để làm cho thế giới trở nên tốt đẹp hơn.",
-        "Cảm ơn vì bạn đã không đánh giá 1 sao trên mạng.",
-        "Cảm ơn vì bạn đã đọc sách mà không ngủ gật."
+        "Cảm ơn vì bạn đã mua sách giúp tăng doanh số.",
+        "Cảm ơn vì bạn đã không đánh giá 1 sao trên mạng."
       ],
       "correctIndex": 1,
       "explanation": "Sự trân quý chân thành giữa tác giả và độc giả: người đọc là mắt xích hoàn thiện cuối cùng của thông điệp chuyển hóa tâm thức."
@@ -176,10 +176,10 @@
       "id": "q15",
       "question": "Thông điệp đúc kết từ toàn bộ Lời cảm ơn là gì?",
       "options": [
-        "Thành công là nỗ lực đơn độc của một thiên tài xuất chúng.",
-        "Không ai là một ốc đảo đơn độc; mọi điều kỳ diệu trên đời đều được tạo nên từ sự cộng hưởng của tình yêu thương, sự khiêm nhường và lòng biết ơn vô hạn đối với vạn vật.",
         "Bạn chỉ nên cảm ơn những ai mang lại tiền bạc cho bạn.",
-        "Lời cảm ơn chỉ là thủ tục xã giao bắt buộc."
+        "Không ai là một ốc đảo đơn độc; mọi điều kỳ diệu trên đời đều được tạo nên từ sự cộng hưởng của tình yêu thương, sự khiêm nhường và lòng biết ơn vô hạn đối với vạn vật.",
+        "Lời cảm ơn chỉ là thủ tục xã giao bắt buộc.",
+        "Thành công là nỗ lực đơn độc của một thiên tài xuất chúng."
       ],
       "correctIndex": 1,
       "explanation": "Lòng biết ơn mở rộng trái tim: khi sống trong sự tri ân, cuộc đời ta tự khắc trở thành một khúc ca tuyệt mỹ của tình yêu thương."

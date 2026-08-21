@@ -1,0 +1,188 @@
+{
+  "bookId": "DamNghiLai",
+  "chapterId": "04_Chuong_04_Dau_Truong_Lanh_Manh",
+  "chapterTitle": "Chương 4: Đấu trường lành mạnh",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Sự khác biệt cốt tử giữa 'Xung đột nhiệm vụ' (Task Conflict) và 'Xung đột quan hệ' (Relationship Conflict) là gì?",
+      "options": [
+        "Xung đột nhiệm vụ chỉ xảy ra ở cấp lãnh đạo, còn xung đột quan hệ chỉ xảy ra ở cấp nhân viên.",
+        "Hai loại xung đột này hoàn toàn giống nhau và đều gây hại cho năng suất làm việc.",
+        "Xung đột nhiệm vụ luôn làm tan rã đội ngũ, trong khi xung đột quan hệ giúp mọi người gắn kết hơn.",
+        "Xung đột nhiệm vụ là tranh luận nảy lửa về ý tưởng, phương pháp và giải pháp tối ưu; trong khi xung đột quan hệ là sự công kích cá nhân, tự ái và đối đầu cảm xúc tiêu cực."
+      ],
+      "correctIndex": 3,
+      "explanation": "Các đội ngũ xuất sắc nhất (như Pixar hay anh em nhà Wright) liên tục đẩy cao xung đột nhiệm vụ để mài giũa ý tưởng mà không bao giờ để nó biến thành xung đột quan hệ cá nhân."
+    },
+    {
+      "id": "q2",
+      "question": "Câu chuyện về hai anh em Orville và Wilbur Wright phát minh ra chiếc máy bay đầu tiên trên thế giới chứng minh điều gì về sức mạnh của tranh luận?",
+      "options": [
+        "Họ liên tục gào thét tranh cãi nảy lửa suốt hàng tháng trời về thiết kế cánh quạt, và chính cuộc đấu khẩu về lý lẽ đó đã giúp họ phát hiện ra nguyên lý khí động học đột phá.",
+        "Họ chỉ tập trung vào việc chế tạo xe đạp và tình cờ phát minh ra máy bay do may mắn.",
+        "Họ luôn luôn đồng thuận tuyệt đối và không bao giờ có bất kỳ sự bất đồng ý kiến nào.",
+        "Họ đã thuê một nhóm kỹ sư nước ngoài thiết kế toàn bộ bản vẽ kỹ thuật."
+      ],
+      "correctIndex": 0,
+      "explanation": "Anh em nhà Wright không coi việc phản biện là xúc phạm; họ xem tranh cãi là công cụ hợp tác tư duy để cùng nhau chạm tới giải pháp kỹ thuật hoàn hảo."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao các đội ngũ có 'Sự hòa thuận giả tạo' (Polite Harmony) và tránh né xung đột lại thường có kết quả làm việc kém cỏi nhất?",
+      "options": [
+        "Vì những người hòa thuận thường là những người có chỉ số IQ thấp nhất trong công ty.",
+        "Vì sợ làm mất lòng nhau, không ai dám chỉ ra các sai sót, rủi ro hay ý tưởng tồi tệ, dẫn đến việc tập thể cùng nhau đưa ra các quyết định thảm họa (Groupthink).",
+        "Vì nhân viên trong các đội ngũ này thường có mức lương quá thấp nên lười tranh luận.",
+        "Vì họ dành quá nhiều thời gian để tham gia các hoạt động liên hoan ngoài giờ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự đồng thuận dễ dãi là nấm mồ chôn vùi sự đổi mới; khi mọi người đều nghĩ giống nhau, chứng tỏ không có ai đang thực sự suy nghĩ độc lập."
+    },
+    {
+      "id": "q4",
+      "question": "Quy tắc 'Braintrust' lừng danh của xưởng phim hoạt hình Pixar vận hành dựa trên nguyên tắc nào để sản xuất hàng loạt phim đoạt giải Oscar?",
+      "options": [
+        "Tập hợp các đạo diễn hàng đầu để mổ xẻ, chỉ trích không khoan nhượng bản thảo bộ phim nhưng với tinh thần hoàn toàn xây dựng, nhắm vào BỘ PHIM chứ không nhắm vào ĐẠO DIỄN.",
+        "Sử dụng phần mềm trí tuệ nhân tạo để tự động viết kịch bản phim hoạt hình.",
+        "Tất cả các thành viên trong ban giám đốc phải bỏ phiếu kín để sa thải nhân viên kém cỏi.",
+        "Cấm tuyệt đối mọi ý kiến chê bai hay phản biện để bảo vệ cảm xúc của biên kịch."
+      ],
+      "correctIndex": 0,
+      "explanation": "Braintrust tách rời sự phê bình khỏi cái tôi cá nhân: Tất cả các ý kiến mổ xẻ đều nhằm mục đích làm cho tác phẩm trở nên vĩ đại hơn chứ không nhằm hạ bệ tác giả."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao những người có tính cách 'Khó tính, hay phản biện nhưng có tâm' (Disagreeable Givers) lại là tài sản vô giá của một tổ chức?",
+      "options": [
+        "Vì họ giúp công ty tiết kiệm được chi phí thuê luật sư tư vấn pháp lý.",
+        "Vì họ không ngần ngại nói ra những sự thật khó nghe, dám chất vấn các quyết định sai lầm của sếp vì lợi ích cao nhất của tập thể chứ không vì tư lợi cá nhân.",
+        "Vì họ luôn đồng ý với mọi ý kiến của ban giám đốc mà không cần suy nghĩ.",
+        "Vì họ luôn luôn tạo ra các cuộc xung đột bạo lực để giải quyết mâu thuẫn nội bộ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Những người 'khó tính vì việc chung' chính là chiếc phanh an toàn bảo vệ tổ chức khỏi sự tự mãn; họ sẵn sàng chịu áp lực để bảo vệ chân lý và sự phát triển bền vững."
+    },
+    {
+      "id": "q6",
+      "question": "Ngược lại, nhóm người 'Dễ tính nhưng vụ lợi' (Agreeable Takers) gây ra mối nguy hiểm ngầm nào cho tập thể?",
+      "options": [
+        "Họ luôn tươi cười khen ngợi và nịnh bợ cấp trên để mưu cầu lợi ích cá nhân, nhưng sẵn sàng bỏ mặc dự án rơi xuống vực thẳm mà không hề lên tiếng cảnh báo.",
+        "Họ làm việc quá chăm chỉ khiến các đồng nghiệp khác cảm thấy bị áp lực cạnh tranh.",
+        "Họ thường xuyên đi làm muộn và vi phạm các quy định về trang phục công sở.",
+        "Họ từ chối nhận tiền thưởng hoa hồng sau mỗi dự án thành công."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kẻ xu nịnh chỉ quan tâm đến việc làm vừa lòng sếp để thăng tiến; sự đồng thuận độc hại của họ là độc dược làm tê liệt khả năng tự sửa sai của doanh nghiệp."
+    },
+    {
+      "id": "q7",
+      "question": "Làm thế nào để chuyển hóa một cuộc tranh luận có nguy cơ trở thành 'Xung đột quan hệ' quay trở lại thành 'Xung đột nhiệm vụ'?",
+      "options": [
+        "Tổ chức một trận đấu quyền anh để hai bên tự giải quyết mâu thuẫn thể xác.",
+        "Phạt tiền cả hai người và ghi biên bản khiển trách vào hồ sơ nhân sự.",
+        "Tái định khung cuộc trò chuyện: Nhắc nhở cả hai bên về mục tiêu chung tối thượng, công khai thừa nhận sự tôn trọng cá nhân và tập trung hoàn toàn vào dữ liệu/giải pháp.",
+        "Yêu cầu cả hai bên lập tức im lặng và rời khỏi phòng họp ngay lập tức."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi cái tôi bắt đầu nổi lên, người điều phối khôn ngoan sẽ kéo sự chú ý quay về bài toán: 'Chúng ta không tranh cãi để xem ai thắng, mà để cùng nhau tìm ra giải pháp tốt nhất cho khách hàng'."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao việc 'Đóng vai Người biện hộ cho quỷ dữ' (Devil's Advocate) một cách hình thức lại không mang lại hiệu quả phản biện thực sự?",
+      "options": [
+        "Vì việc này làm tăng chi phí thuê cố vấn tâm lý cho các cuộc họp hội đồng quản trị.",
+        "Vì ma quỷ là một khái niệm tâm linh không phù hợp với văn hóa doanh nghiệp hiện đại.",
+        "Vì tất cả mọi người trong công ty đều sợ hãi khi nghe thấy từ 'quỷ dữ'.",
+        "Vì khi mọi người biết bạn chỉ đang 'diễn kịch theo nhiệm vụ được giao', họ sẽ không xem trọng ý kiến phản biện của bạn và bạn cũng không dốc hết tâm can để đào sâu vấn đề."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự phản biện gượng gạo theo kịch bản không tạo ra áp lực nhận thức thực sự; tổ chức cần những người 'Thực sự có quan điểm đối lập chân chính' (Genuine Dissenters) được trao quyền phát biểu."
+    },
+    {
+      "id": "q9",
+      "question": "Thí nghiệm về 'Sự hiện diện của một ý kiến bất đồng chân chính' trong nhóm ra quyết định mang lại tác động gì?",
+      "options": [
+        "Làm cho toàn bộ cuộc họp bị bế tắc và không thể đưa ra bất kỳ kết luận nào.",
+        "Làm giảm năng suất làm việc của toàn bộ công ty xuống mức bằng không.",
+        "Khiến cho tất cả các thành viên trong nhóm lập tức từ bỏ dự án hiện tại.",
+        "Ngay cả khi ý kiến bất đồng đó hoàn toàn sai, nó vẫn buộc các thành viên khác phải tư duy sâu hơn, kiểm tra lại các giả định và cuối cùng đưa ra quyết định chính xác hơn vượt trội."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ý kiến trái chiều là chất xúc tác tư duy; nó phá vỡ sự lười biếng của não bộ, buộc tập thể phải huy động lý lẽ sắc bén hơn để kiểm chứng mọi góc nhìn."
+    },
+    {
+      "id": "q10",
+      "question": "Trong văn hóa gia đình, nghiên cứu của Adam Grant chỉ ra rằng những đứa trẻ lớn lên trở thành những nhà sáng tạo đột phá thường có tuổi thơ như thế nào?",
+      "options": [
+        "Chúng lớn lên trong sự phục tùng tuyệt đối và không bao giờ được phép có ý kiến trái lời cha mẹ.",
+        "Cha mẹ của chúng không bao giờ nói chuyện hay trao đổi bất kỳ điều gì với con cái.",
+        "Chúng được nuông chiều tuyệt đối và không phải chịu bất kỳ quy tắc nào trong gia đình.",
+        "Chúng được chứng kiến cha mẹ tranh luận cởi mở, văn minh về các ý tưởng và được khuyến khích tự do chất vấn, phản biện lại ý kiến của người lớn một cách có lý lẽ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Một môi trường gia đình chấp nhận sự tranh luận lành mạnh sẽ dạy cho đứa trẻ hiểu rằng bất đồng ý kiến không làm đổ vỡ tình cảm, từ đó nuôi dưỡng tư duy độc lập và sáng tạo."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao việc 'Tách biệt giữa Lập trường (Position) và Lợi ích cốt lõi (Interest)' lại giúp giải quyết xung đột hiệu quả?",
+      "options": [
+        "Hai khái niệm này hoàn toàn giống nhau và không có sự khác biệt trong đàm phán.",
+        "Lập trường là giải pháp cứng nhắc bề mặt, trong khi lợi ích là nhu cầu sâu xa bên dưới; có rất nhiều giải pháp linh hoạt khác nhau có thể thỏa mãn cùng một lợi ích cốt lõi.",
+        "Lập trường là điều bắt buộc phải bảo vệ bằng mọi giá, còn lợi ích thì có thể bỏ qua.",
+        "Tách biệt lập trường giúp bạn có thể gian lận trong các điều khoản hợp đồng kinh tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi hai bên dừng cãi nhau về 'Tôi muốn phương án A' và 'Tôi muốn phương án B' để cùng khám phá 'Tại sao bạn lại cần điều đó?', một phương án C đột phá sẽ xuất hiện."
+    },
+    {
+      "id": "q12",
+      "question": "Bài học từ câu chuyện các nhà khoa học tranh luận về việc thiết kế kính viễn vọng không gian Hubble là gì?",
+      "options": [
+        "Kỹ thuật quang học không cần đến sự phản biện của các chuyên gia vật lý thiên văn.",
+        "Những tranh cãi gay gắt về mặt kỹ thuật giữa các nhóm chuyên môn đối lập đã giúp phát hiện ra các lỗi quang học tiềm ẩn trước khi phóng lên quỹ đạo.",
+        "Kính viễn vọng không gian Hubble là một dự án thất bại hoàn toàn do xung đột nội bộ.",
+        "Các nhà khoa học không nên tranh luận mà nên để giám đốc NASA tự quyết định mọi thông số."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự va đập của những luồng tư duy xuất sắc trong môi trường an toàn tâm lý là chiếc lò luyện kim tôi rèn nên những kiệt tác khoa học vĩ đại nhất của nhân loại."
+    },
+    {
+      "id": "q13",
+      "question": "Làm thế nào một nhà lãnh đạo có thể 'Tạo ra một đấu trường tranh luận lành mạnh' trong các cuộc họp hàng tuần?",
+      "options": [
+        "Sa thải ngay lập tức bất kỳ nhân viên nào dám đưa ra ý kiến trái chiều với sếp.",
+        "Tự mình phát biểu trong suốt 90% thời gian của cuộc họp và yêu cầu mọi người ghi chép.",
+        "Đặt ra câu hỏi mở: 'Ai có góc nhìn khác?', trao thưởng cho những ý kiến phản biện sắc bén và cấm tuyệt đối mọi hành vi ngắt lời hay giễu cợt cá nhân.",
+        "Chỉ mời những nhân viên luôn đồng ý với ý kiến của ban giám đốc tham dự họp."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhà lãnh đạo thông thái không tìm kiếm sự đồng thuận dễ dãi; họ chủ động khai thác sự đa dạng nhận thức để bảo đảm mọi quyết định đều được thử lửa kỹ càng."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao việc 'Khen ngợi quá trình tranh luận hơn là chỉ khen ngợi kết quả' lại thúc đẩy văn hóa tái tư duy?",
+      "options": [
+        "Nó làm tăng thời gian họp hành lên gấp 3 lần mỗi tuần.",
+        "Đây là một chiêu thức nhằm cắt giảm tiền thưởng hiệu quả công việc của nhân viên.",
+        "Nó củng cố chuẩn mực văn hóa rằng việc dũng cảm chất vấn, đào sâu vấn đề và xem xét đa chiều là hành vi được trân trọng cao nhất trong tổ chức.",
+        "Nó giúp nhân viên không cần phải quan tâm đến việc hoàn thành chỉ tiêu doanh số."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi tổ chức tôn vinh 'quá trình tư duy phản biện xuất sắc', nhân viên sẽ không ngần ngại thử nghiệm những ý tưởng mới và không sợ hãi trước những sai sót trong quá trình khám phá."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp đắt giá nhất của Chương 4 về nghệ thuật tranh luận là gì?",
+      "options": [
+        "'Hãy tránh xa mọi cuộc tranh cãi để giữ gìn sự bình yên tuyệt đối cho tâm hồn'.",
+        "'Một cuộc tranh luận tuyệt vời không phải là nơi cái tôi của bạn giành chiến thắng, mà là nơi tất cả mọi người cùng nhau chiến thắng sự ngu dốt và tìm ra giải pháp tối ưu!'.",
+        "'Bất đồng ý kiến là dấu hiệu của sự chia rẽ và cần phải loại bỏ ngay lập tức'.",
+        "'Người chiến thắng trong tranh luận là người có giọng nói to nhất và không cho người khác ngắt lời'."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đấu trường lành mạnh là nơi ý tưởng được tôi luyện trong ngọn lửa phản biện; hãy yêu quý xung đột nhiệm vụ và bảo vệ sự tôn trọng lẫn nhau để cùng tiến bộ."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowLeft, ArrowRight, CheckCircle2, Gamepad2 } from 'lucide-react';
+import { ArrowLeft, ArrowRight, CheckCircle2, Gamepad2, Home, BookOpen } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { Book, Chapter } from '../../types/book';
 import { useHistory } from '../../context/HistoryContext';
@@ -166,6 +166,26 @@ export const ChapterNavigation: React.FC<ChapterNavigationProps> = ({
             </div>
           </div>
         )}
+      </div>
+
+      {/* Quick Navigation Footer Links */}
+      <div className="mt-8 pt-6 border-t border-slate-200/60 dark:border-slate-800/80 flex items-center justify-between text-xs">
+        <Link
+          to="/"
+          className="inline-flex items-center gap-1.5 font-medium text-slate-500 hover:text-emerald-600 dark:text-slate-400 dark:hover:text-emerald-400 transition-colors"
+          title="Quay về Trang chủ"
+        >
+          <Home className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+          <span>Về Trang chủ</span>
+        </Link>
+        <Link
+          to={`/book/${book.id}`}
+          className="inline-flex items-center gap-1.5 font-medium text-slate-500 hover:text-emerald-600 dark:text-slate-400 dark:hover:text-emerald-400 transition-colors"
+          title="Xem mục lục và thông tin tác phẩm"
+        >
+          <BookOpen className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+          <span>Mục lục & Chi tiết sách</span>
+        </Link>
       </div>
     </div>
   );

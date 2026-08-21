@@ -8,24 +8,24 @@
       "id": "q1",
       "question": "Mục đích quan trọng nhất của phần 'Chú thích' chi tiết ở cuối cuốn sách là gì?",
       "options": [
-        "Làm cho cuốn sách dày hơn để bán giá cao hơn.",
         "Cung cấp đầy đủ các trích dẫn tài liệu học thuật, nghiên cứu y khoa lâm sàng và công trình khoa học thần kinh đã qua bình duyệt (Peer-reviewed), bảo đảm tính chuẩn xác và minh bạch khoa học của cuốn sách.",
-        "Để khoe khoang trình độ ngoại ngữ của tác giả.",
-        "Để người đọc làm bài tập dịch thuật."
+        "Để người đọc làm bài tập dịch thuật.",
+        "Làm cho cuốn sách dày hơn để bán giá cao hơn.",
+        "Để khoe khoang trình độ ngoại ngữ của tác giả."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Phần chú thích là bằng chứng thép khẳng định SIY là chương trình đào tạo dựa trên bằng chứng khoa học thực nghiệm nghiêm ngặt (Evidence-based program)."
     },
     {
       "id": "q2",
       "question": "Công trình nghiên cứu thần kinh học nào của Tiến sĩ Sara Lazar (Bệnh viện Đa khoa Massachusetts & Đại học Harvard) được trích dẫn trong phần chú thích?",
       "options": [
-        "Nghiên cứu về việc cấy ghép chip vào não chuột.",
-        "Nghiên cứu chứng minh 8 tuần thực hành chánh niệm (MBSR) làm tăng mật độ chất xám ở hồi hải mã (học tập & trí nhớ) và làm co nhỏ hạch hạnh nhân (giảm phản ứng stress).",
+        "Nghiên cứu về giấc ngủ của các loài bò sát.",
         "Nghiên cứu về tác dụng của nước ngọt có ga đối với trí nhớ.",
-        "Nghiên cứu về giấc ngủ của các loài bò sát."
+        "Nghiên cứu chứng minh 8 tuần thực hành chánh niệm (MBSR) làm tăng mật độ chất xám ở hồi hải mã (học tập & trí nhớ) và làm co nhỏ hạch hạnh nhân (giảm phản ứng stress).",
+        "Nghiên cứu về việc cấy ghép chip vào não chuột."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Công trình đột phá của Sara Lazar năm 2011 là một trong những cột mốc chứng minh thiền làm thay đổi cấu trúc vật lý của não bộ người trưởng thành."
     },
     {
@@ -33,23 +33,23 @@
       "question": "Nghiên cứu của Giáo sư Richard Davidson tại Đại học Wisconsin-Madison về 'Các thiền giả kỳ cựu Tây Tạng' đã phát hiện sóng não đặc biệt nào?",
       "options": [
         "Sóng não Alpha ở mức cực kỳ thấp.",
+        "Hoạt động điện não phẳng hoàn toàn.",
         "Hoạt động sóng não Gamma biên độ cao và sự đồng bộ hóa thần kinh trên diện rộng chưa từng thấy trong lịch sử đo đạc điện não đồ, gắn liền với trạng thái từ bi và chú ý siêu việt.",
-        "Sóng não Delta chỉ xuất hiện khi bị hôn mê sâu.",
-        "Hoạt động điện não phẳng hoàn toàn."
+        "Sóng não Delta chỉ xuất hiện khi bị hôn mê sâu."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sóng Gamma đồng bộ tần số cao phản ánh sự tích hợp nhận thức đỉnh cao và lòng trắc ẩn bao la được tôi luyện qua hàng chục ngàn giờ thiền tập."
     },
     {
       "id": "q4",
       "question": "Tài liệu chú thích về 'Tính dẻo thần kinh' (Neuroplasticity) khẳng định điều gì về khả năng thay đổi của não bộ con người khi về già?",
       "options": [
-        "Não bộ ngừng tạo tế bào thần kinh mới sau tuổi 25.",
         "Não bộ duy trì tính dẻo và khả năng tái cấu trúc mạng lưới nơ-ron thần kinh suốt cuộc đời cho đến hơi thở cuối cùng thông qua việc học hỏi và rèn luyện tâm trí.",
         "Chỉ có trẻ em dưới 5 tuổi mới có tính dẻo thần kinh.",
+        "Não bộ ngừng tạo tế bào thần kinh mới sau tuổi 25.",
         "Não bộ của người già sẽ bị teo hoàn toàn nếu ngồi thiền."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Tính dẻo thần kinh suốt đời xóa bỏ định kiến cổ hủ: không bao giờ là quá muộn để bạn rèn luyện sự bình an, lòng từ bi và thói quen mới cho bộ não."
     },
     {
@@ -57,45 +57,45 @@
       "question": "Nghiên cứu của Philippe Goldin tại Stanford về tác động của SIY đối với chứng 'Lo âu xã hội' (Social Anxiety Disorder) cho thấy kết quả gì?",
       "options": [
         "Người tham gia trở nên lo âu và sợ giao tiếp gấp đôi.",
-        "Giảm đáng kể các triệu chứng lo âu, tăng cường khả năng tự điều chỉnh cảm xúc và kích hoạt mạnh mẽ các vùng não kiểm soát sự chú ý khi đối mặt với những lời tự phê phán tiêu cực.",
+        "Người tham gia từ chối tiếp tục làm việc tại công ty.",
         "Khóa học không mang lại bất kỳ tác động đo lường được nào.",
-        "Người tham gia từ chối tiếp tục làm việc tại công ty."
+        "Giảm đáng kể các triệu chứng lo âu, tăng cường khả năng tự điều chỉnh cảm xúc và kích hoạt mạnh mẽ các vùng não kiểm soát sự chú ý khi đối mặt với những lời tự phê phán tiêu cực."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Nghiên cứu lâm sàng của Stanford chứng minh SIY là liệu pháp can thiệp hiệu quả giúp giảm lo âu xã hội và nâng cao sự tự tin cho các kỹ sư."
     },
     {
       "id": "q6",
       "question": "Các chú thích về 'Hệ thống miễn dịch' (Immune function) trích dẫn nghiên cứu nào chứng minh thiền làm tăng sức đề kháng của cơ thể?",
       "options": [
-        "Nghiên cứu về vắc-xin cúm của Davidson và Kabat-Zinn (2003): nhóm người thực hành thiền 8 tuần sản sinh lượng kháng thể chống virus cúm cao hơn vượt trội so với nhóm đối chứng.",
-        "Nghiên cứu về việc uống nước cam tươi mỗi sáng.",
+        "Nghiên cứu chứng minh thiền làm tăng nguy cơ cảm cúm.",
         "Nghiên cứu về tác dụng của việc tắm nắng trên bãi biển.",
-        "Nghiên cứu chứng minh thiền làm tăng nguy cơ cảm cúm."
+        "Nghiên cứu về việc uống nước cam tươi mỗi sáng.",
+        "Nghiên cứu về vắc-xin cúm của Davidson và Kabat-Zinn (2003): nhóm người thực hành thiền 8 tuần sản sinh lượng kháng thể chống virus cúm cao hơn vượt trội so với nhóm đối chứng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Thí nghiệm tiêm phòng cúm kinh điển chứng minh mối liên hệ mật thiết giữa tâm trí an tĩnh và sự tăng cường hệ miễn dịch sinh học."
     },
     {
       "id": "q7",
       "question": "Khái niệm 'Sự an toàn tâm lý' (Psychological Safety) của Giáo sư Amy Edmondson (Đại học Harvard) được chú thích với vai trò gì trong hiệu suất nhóm?",
       "options": [
-        "Bảo đảm an toàn phòng cháy chữa cháy trong văn phòng.",
-        "Niềm tin chung rằng các thành viên trong nhóm an toàn khi chấp nhận rủi ro, dám nói thật ý kiến phản biện và dám thừa nhận sai lầm mà không sợ bị trừng phạt hay chế giễu – yếu tố số 1 tạo nên các đội ngũ sáng tạo nhất.",
         "Việc lắp đặt khóa cửa vân tay cho phòng làm việc.",
-        "Chính sách bảo hiểm tai nạn lao động."
+        "Chính sách bảo hiểm tai nạn lao động.",
+        "Bảo đảm an toàn phòng cháy chữa cháy trong văn phòng.",
+        "Niềm tin chung rằng các thành viên trong nhóm an toàn khi chấp nhận rủi ro, dám nói thật ý kiến phản biện và dám thừa nhận sai lầm mà không sợ bị trừng phạt hay chế giễu – yếu tố số 1 tạo nên các đội ngũ sáng tạo nhất."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "An toàn tâm lý là chiếc nôi của sự đổi mới; nơi nào con người cảm thấy an toàn khi bộc lộ sự bất toàn, nơi đó sự sáng tạo sẽ bùng nổ."
     },
     {
       "id": "q8",
       "question": "Tài liệu chú thích về 'Telomere và sự lão hóa tế bào' (công trình đoạt giải Nobel của Elizabeth Blackburn) chỉ ra điều gì về tác động của thiền?",
       "options": [
-        "Thiền làm rút ngắn chiều dài của nhiễm sắc thể.",
-        "Giảm stress mãn tính thông qua chánh niệm giúp duy trì độ dài của Telomere và kích hoạt enzyme Telomerase, bảo vệ tế bào khỏi sự lão hóa sớm và bệnh tật.",
         "Telomere chỉ có ở động vật có vú.",
-        "Thiền làm thay đổi nhóm máu của con người."
+        "Giảm stress mãn tính thông qua chánh niệm giúp duy trì độ dài của Telomere và kích hoạt enzyme Telomerase, bảo vệ tế bào khỏi sự lão hóa sớm và bệnh tật.",
+        "Thiền làm thay đổi nhóm máu của con người.",
+        "Thiền làm rút ngắn chiều dài của nhiễm sắc thể."
       ],
       "correctIndex": 1,
       "explanation": "Khoa học tế bào khẳng định: sự bình an tâm trí tác động trực tiếp bảo vệ đầu mút nhiễm sắc thể, giúp tế bào trẻ trung và sống thọ hơn."
@@ -104,10 +104,10 @@
       "id": "q9",
       "question": "Nghiên cứu về 'Trí thông minh xã hội' (Social intelligence) của Matthew Lieberman (UCLA) trong chú thích nhấn mạnh điều gì về não bộ?",
       "options": [
-        "Bộ não con người được tiến hóa chủ yếu để giải toán đại số.",
-        "Não bộ con người là một cơ quan xã hội sâu sắc: nỗi đau bị cô lập hay ruồng bỏ xã hội được não xử lý ở cùng vùng thần kinh với nỗi đau thể xác thực sự.",
         "Não bộ hoạt động độc lập hoàn toàn với xã hội.",
-        "Các nơ-ron thần kinh không có khả năng kết nối với nhau."
+        "Não bộ con người là một cơ quan xã hội sâu sắc: nỗi đau bị cô lập hay ruồng bỏ xã hội được não xử lý ở cùng vùng thần kinh với nỗi đau thể xác thực sự.",
+        "Các nơ-ron thần kinh không có khả năng kết nối với nhau.",
+        "Bộ não con người được tiến hóa chủ yếu để giải toán đại số."
       ],
       "correctIndex": 1,
       "explanation": "Lieberman chứng minh nhu cầu kết nối xã hội và được yêu thương là một nhu cầu sinh tồn cơ bản của con người không kém gì thức ăn và nước uống."
@@ -129,8 +129,8 @@
       "question": "Chú thích về 'Chỉ số HRV' (Heart Rate Variability - Sự biến thiên nhịp tim) cho thấy điều gì về trạng thái tâm trí tĩnh lặng?",
       "options": [
         "HRV cao gắn liền với khả năng tự chủ cảm xúc tốt, hệ thần kinh linh hoạt và sức khỏe tim mạch tối ưu; thiền chánh niệm giúp gia tăng chỉ số HRV một cách tự nhiên.",
-        "HRV phải bằng 0 thì con người mới đạt được sự bình an.",
         "HRV chỉ đo được khi đang chạy nước rút.",
+        "HRV phải bằng 0 thì con người mới đạt được sự bình an.",
         "HRV không có ý nghĩa gì đối với y học."
       ],
       "correctIndex": 0,
@@ -140,12 +140,12 @@
       "id": "q12",
       "question": "Các công trình nghiên cứu về 'Sự thấu cảm trong y khoa' (Empathy in Healthcare) được trích dẫn chứng minh điều gì về tỷ lệ sai sót y khoa?",
       "options": [
-        "Bác sĩ có thấu cảm cao thường mắc nhiều sai sót chuyên môn hơn.",
         "Giao tiếp thấu cảm giữa nhân viên y tế và bệnh nhân làm giảm 60% các sai sót chẩn đoán, tăng độ chính xác của bệnh án và cải thiện sự hài lòng của người bệnh.",
+        "Bác sĩ có thấu cảm cao thường mắc nhiều sai sót chuyên môn hơn.",
         "Thấu cảm làm cho thời gian khám bệnh kéo dài thêm 5 tiếng.",
         "Bệnh viện không cần trang bị máy móc nếu có thấu cảm."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Lắng nghe sâu sắc giúp bác sĩ nắm bắt được những triệu chứng vi tế mà bệnh nhân chia sẻ, từ đó đưa ra phác đồ điều trị chuẩn xác."
     },
     {
@@ -153,11 +153,11 @@
       "question": "Nghiên cứu về 'Lòng tốt và hormone Oxytocin' trong chú thích giải thích hiện tượng 'Người cho đi nhận được nhiều hơn' (Helper's high) là gì?",
       "options": [
         "Cảm giác mệt mỏi kiệt sức sau khi cho người khác tiền.",
-        "Khi bạn làm một việc tốt giúp đỡ người khác, não bộ lập tức giải phóng hormone hạnh phúc Oxytocin và Dopamine, mang lại cảm giác hân hoan, ấm áp và giảm đau tự nhiên.",
+        "Một loại thuốc gây nghiện tổng hợp.",
         "Hiện tượng chóng mặt khi đứng trên tầng cao.",
-        "Một loại thuốc gây nghiện tổng hợp."
+        "Khi bạn làm một việc tốt giúp đỡ người khác, não bộ lập tức giải phóng hormone hạnh phúc Oxytocin và Dopamine, mang lại cảm giác hân hoan, ấm áp và giảm đau tự nhiên."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Sinh học của sự tử tế: tạo hóa đã lập trình để việc giúp đỡ đồng loại mang lại phần thưởng sinh hóa hạnh phúc tức thì cho chính người cho đi."
     },
     {
@@ -177,11 +177,11 @@
       "question": "Giá trị cốt lõi đúc kết từ toàn bộ phần 'Chú thích & Nghiên cứu khoa học' là gì?",
       "options": [
         "Khoa học không thể giải thích được những hiện tượng tâm linh huyền bí.",
-        "Những lời dạy về Chánh niệm, Lòng từ bi và Trí tuệ cảm xúc trong cuốn sách này hoàn toàn dựa trên nền móng khoa học thực nghiệm vững chắc của thế kỷ 21, xứng đáng để bạn tin tưởng và kiên trì thực hành.",
+        "Khoa học thần kinh đã hoàn thành việc khám phá toàn bộ bộ não con người.",
         "Người đọc bắt buộc phải học thuộc toàn bộ các chú thích này.",
-        "Khoa học thần kinh đã hoàn thành việc khám phá toàn bộ bộ não con người."
+        "Những lời dạy về Chánh niệm, Lòng từ bi và Trí tuệ cảm xúc trong cuốn sách này hoàn toàn dựa trên nền móng khoa học thực nghiệm vững chắc của thế kỷ 21, xứng đáng để bạn tin tưởng và kiên trì thực hành."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Niềm tin được xây dựng trên nền tảng hiểu biết khoa học: bạn có thể hoàn toàn yên tâm thực hành những phương pháp đã được thế giới học thuật kiểm chứng."
     }
   ]

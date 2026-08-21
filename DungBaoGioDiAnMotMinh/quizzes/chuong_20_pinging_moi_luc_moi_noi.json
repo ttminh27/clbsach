@@ -9,9 +9,9 @@
       "question": "Thuật ngữ 'Pinging' được mượn từ lĩnh vực mạng máy tính sang nghệ thuật kết nối nhằm mô tả hành động nào?",
       "options": [
         "Gửi những tín hiệu/thông điệp ngắn gọn, ấm áp và đều đặn để kiểm tra, duy trì và giữ cho mối quan hệ luôn trong trạng thái sống động, sẵn sàng kết nối.",
-        "Liên tục gọi điện thoại làm phiền người khác vào ban đêm.",
+        "Chơi trò chơi bóng bàn cùng đồng nghiệp trong giờ nghỉ trưa.",
         "Gửi các tin nhắn rác quảng cáo sản phẩm hàng loạt qua mạng xã hội.",
-        "Chơi trò chơi bóng bàn cùng đồng nghiệp trong giờ nghỉ trưa."
+        "Liên tục gọi điện thoại làm phiền người khác vào ban đêm."
       ],
       "correctIndex": 0,
       "explanation": "'Pinging' là kỹ thuật giữ lửa quan hệ: một tín hiệu nhỏ đều đặn chứng minh bạn vẫn nhớ đến họ và giữ cho sợi dây liên kết không bao giờ bị đứt đoạn."
@@ -20,24 +20,24 @@
       "id": "q2",
       "question": "Tại sao việc 'không duy trì liên lạc đều đặn' lại là nguyên nhân chính khiến 80% các mối quan hệ quý giá bị biến mất sau 2-3 năm?",
       "options": [
-        "Vì theo quy luật tâm lý tự nhiên 'Xa mặt cách lòng' (Out of sight, out of mind), con người sẽ dần lãng quên những ai không còn xuất hiện trong cuộc sống của họ.",
         "Vì số điện thoại của mọi người đều tự động thay đổi sau 2 năm.",
         "Vì mọi người đều chuyển sang sống ở các quốc gia khác sau 3 năm.",
+        "Vì theo quy luật tâm lý tự nhiên 'Xa mặt cách lòng' (Out of sight, out of mind), con người sẽ dần lãng quên những ai không còn xuất hiện trong cuộc sống của họ.",
         "Vì pháp luật quy định các mối quan hệ không liên lạc sau 2 năm sẽ bị hủy bỏ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Mối quan hệ giống như một khu vườn; nếu không tưới nước thường xuyên, cỏ dại của sự lãng quên sẽ nhanh chóng phủ kín."
     },
     {
       "id": "q3",
       "question": "Hệ thống phân loại danh bạ theo tần suất 'Pinging' của Keith Ferrazzi được cấu trúc khoa học như thế nào?",
       "options": [
-        "Chia thành các nhóm ưu tiên: Nhóm 1 (Liên lạc hàng tháng - 50 người then chốt), Nhóm 2 (Liên lạc hàng quý - 150 người), Nhóm 3 (Liên lạc 2 lần/năm - bạn bè rộng).",
-        "Chia theo thứ tự cân nặng của những người trong danh bạ.",
         "Chia theo số tiền họ đang nợ bạn từ nhiều đến ít.",
-        "Chia ngẫu nhiên theo các ngày trong tuần từ thứ Hai đến Chủ Nhật."
+        "Chia ngẫu nhiên theo các ngày trong tuần từ thứ Hai đến Chủ Nhật.",
+        "Chia thành các nhóm ưu tiên: Nhóm 1 (Liên lạc hàng tháng - 50 người then chốt), Nhóm 2 (Liên lạc hàng quý - 150 người), Nhóm 3 (Liên lạc 2 lần/năm - bạn bè rộng).",
+        "Chia theo thứ tự cân nặng của những người trong danh bạ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Phân tầng danh bạ theo mức độ ưu tiên giúp bạn quản lý hàng ngàn mối quan hệ một cách có hệ thống mà không bao giờ bị quá tải."
     },
     {
@@ -56,60 +56,60 @@
       "id": "q5",
       "question": "Tại sao 'Ngày sinh nhật' lại là cơ hội vàng đắt giá nhất trong năm để thực hiện Pinging?",
       "options": [
-        "Vì đó là ngày duy nhất trong năm người ta cảm thấy bản thân là trung tâm và khao khát nhận được sự quan tâm, chúc phúc từ bạn bè và người quen.",
+        "Vì người có sinh nhật bắt buộc phải tặng lại quà cho bạn.",
         "Vì bạn sẽ được ăn bánh sinh nhật miễn phí nếu gửi lời chúc.",
         "Vì các công ty viễn thông miễn phí cước tin nhắn vào ngày sinh nhật.",
-        "Vì người có sinh nhật bắt buộc phải tặng lại quà cho bạn."
+        "Vì đó là ngày duy nhất trong năm người ta cảm thấy bản thân là trung tâm và khao khát nhận được sự quan tâm, chúc phúc từ bạn bè và người quen."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Nhớ và chúc mừng sinh nhật một cách cá nhân hóa (không phải tin nhắn mẫu) là cách chạm vào trái tim người khác sâu sắc nhất."
     },
     {
       "id": "q6",
       "question": "Thời điểm nào trong ngày được Keith Ferrazzi tận dụng tối đa để thực hiện hàng chục lượt 'Pinging' mỗi ngày?",
       "options": [
-        "Thời gian di chuyển trên xe taxi, thời gian chờ đợi ở sân bay hoặc những khoảng trống 5-10 phút giữa các cuộc họp.",
-        "Lúc 2 giờ sáng khi mọi người đang ngủ say.",
         "Trong lúc đang thuyết trình trước hội đồng quản trị công ty.",
-        "Trong lúc đang làm bài thi kiểm tra chuyên môn."
+        "Lúc 2 giờ sáng khi mọi người đang ngủ say.",
+        "Trong lúc đang làm bài thi kiểm tra chuyên môn.",
+        "Thời gian di chuyển trên xe taxi, thời gian chờ đợi ở sân bay hoặc những khoảng trống 5-10 phút giữa các cuộc họp."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Tận dụng các khoảng thời gian 'chết' trong ngày biến việc chăm sóc mạng lưới thành một phản xạ tự nhiên không tốn thêm quỹ thời gian làm việc."
     },
     {
       "id": "q7",
       "question": "Khái niệm 'Pinging hàng loạt có cá nhân hóa' (Personalized Mass Pinging) vào các dịp lễ tết được thực hiện như thế nào?",
       "options": [
+        "Gửi email tiếp thị bán hàng giảm giá nhân dịp năm mới.",
         "Soạn một thông điệp chúc mừng ấm áp nhưng luôn chèn chính xác tên riêng và một chi tiết cá nhân độc nhất của người nhận trước khi bấm gửi.",
         "Gửi một tin nhắn chung chung không có tên người nhận cho 500 người cùng lúc.",
-        "Đăng một lời chúc lên trang cá nhân và yêu cầu tất cả mọi người tự vào đọc.",
-        "Gửi email tiếp thị bán hàng giảm giá nhân dịp năm mới."
+        "Đăng một lời chúc lên trang cá nhân và yêu cầu tất cả mọi người tự vào đọc."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Thêm tên riêng và một lời chúc đích danh biến bức thư đại trà thành một thông điệp chân thành được người nhận trân trọng."
     },
     {
       "id": "q8",
       "question": "Khi bạn đọc được một bài báo xuất sắc về ngành công nghiệp mà một người bạn đang làm việc, hành động Pinging xuất sắc là gì?",
       "options": [
-        "Gửi ngay đường link bài báo kèm lời nhắn ngắn: 'Mình vừa đọc bài này và lập tức nghĩ đến bạn và dự án X của bạn; chúc bạn một tuần làm việc tuyệt vời!'.",
         "In bài báo ra giấy và gửi qua đường bưu điện mà không ghi tên người gửi.",
+        "Gửi ngay đường link bài báo kèm lời nhắn ngắn: 'Mình vừa đọc bài này và lập tức nghĩ đến bạn và dự án X của bạn; chúc bạn một tuần làm việc tuyệt vời!'.",
         "Chỉ trích bạn mình vì đã không tự tìm đọc bài báo đó trước.",
         "Đăng bài báo lên mạng và thách thức bạn mình vào tranh luận."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Chứng minh bạn luôn nhớ đến họ ngay cả khi không có mặt họ là lời khen ngợi thầm lặng ngọt ngào nhất đối với bất kỳ ai."
     },
     {
       "id": "q9",
       "question": "Điều gì là sai lầm chết người cần tránh khi thực hiện Pinging?",
       "options": [
-        "Chỉ 'ping' khi bản thân đang cần nhờ vả, xin việc làm hoặc vay tiền, biến thông điệp thăm hỏi thành một cái bẫy thực dụng lộ liễu.",
-        "Gửi tin nhắn chúc mừng bằng những từ ngữ lịch sự.",
         "Thăm hỏi về sức khỏe của cha mẹ đối tác.",
-        "Gửi lời chúc mừng khi đối tác được thăng chức."
+        "Gửi lời chúc mừng khi đối tác được thăng chức.",
+        "Chỉ 'ping' khi bản thân đang cần nhờ vả, xin việc làm hoặc vay tiền, biến thông điệp thăm hỏi thành một cái bẫy thực dụng lộ liễu.",
+        "Gửi tin nhắn chúc mừng bằng những từ ngữ lịch sự."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Pinging chỉ có giá trị khi nó hoàn toàn vô tư và mang lại niềm vui; đừng bao giờ lồng ghép sự vụ lợi vào những thông điệp giữ lửa."
     },
     {
@@ -118,8 +118,8 @@
       "options": [
         "Sử dụng các ứng dụng lịch, phần mềm quản lý quan hệ cá nhân (Personal CRM) và tính năng nhắc nhở định kỳ trên điện thoại thông minh.",
         "Thuê một robot tự động trả lời tất cả các tin nhắn cá nhân.",
-        "Chỉ sử dụng máy nhắn tin từ thập niên 1990.",
-        "Ghi toàn bộ thông tin lên các tờ giấy nhớ dán khắp tường nhà."
+        "Ghi toàn bộ thông tin lên các tờ giấy nhớ dán khắp tường nhà.",
+        "Chỉ sử dụng máy nhắn tin từ thập niên 1990."
       ],
       "correctIndex": 0,
       "explanation": "Tự động hóa lời nhắc nhở giúp bạn không bao giờ bỏ sót bất kỳ ngày kỷ niệm hay cột mốc quan trọng nào của hàng trăm người bạn."
@@ -128,12 +128,12 @@
       "id": "q11",
       "question": "Tại sao việc Pinging lại giúp bạn dễ dàng mở lời khi thực sự cần sự giúp đỡ sau này?",
       "options": [
-        "Vì mối quan hệ luôn được giữ ở trạng thái 'ấm nóng' liên tục, bạn không cần phải vượt qua sự ngượng ngùng của việc 'nhiều năm không liên lạc bỗng nhiên xuất hiện'.",
-        "Vì đối tác đã ký hợp đồng cam kết phải giúp đỡ bạn bất cứ khi nào bạn yêu cầu.",
+        "Vì đối tác sẽ không dám từ chối những người thường xuyên gửi tin nhắn.",
         "Vì Pinging làm cho đối tác cảm thấy họ đang mắc nợ bạn một khoản tiền lớn.",
-        "Vì đối tác sẽ không dám từ chối những người thường xuyên gửi tin nhắn."
+        "Vì đối tác đã ký hợp đồng cam kết phải giúp đỡ bạn bất cứ khi nào bạn yêu cầu.",
+        "Vì mối quan hệ luôn được giữ ở trạng thái 'ấm nóng' liên tục, bạn không cần phải vượt qua sự ngượng ngùng của việc 'nhiều năm không liên lạc bỗng nhiên xuất hiện'."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Khi bạn đã liên tục trao đi sự quan tâm trong nhiều năm, việc nhờ cậy sự hỗ trợ sẽ diễn ra vô cùng tự nhiên giữa những người bạn thân thiết."
     },
     {
@@ -152,12 +152,12 @@
       "id": "q13",
       "question": "Khi đối phương phản hồi lại tin nhắn Pinging của bạn bằng một câu chuyện dài về những khó khăn họ đang gặp, bạn nên làm gì?",
       "options": [
-        "Lập tức gọi điện thoại hoặc hẹn gặp trực tiếp để lắng nghe, động viên và tìm cách hỗ trợ họ vượt qua giai đoạn khó khăn.",
-        "Lờ đi và không trả lời tin nhắn đó nữa vì sợ bị làm phiền.",
+        "Chuyển tiếp tin nhắn đó cho tất cả bạn bè khác cùng đọc.",
         "Khuyên họ nên tự mình giải quyết và đừng làm phiền người khác.",
-        "Chuyển tiếp tin nhắn đó cho tất cả bạn bè khác cùng đọc."
+        "Lập tức gọi điện thoại hoặc hẹn gặp trực tiếp để lắng nghe, động viên và tìm cách hỗ trợ họ vượt qua giai đoạn khó khăn.",
+        "Lờ đi và không trả lời tin nhắn đó nữa vì sợ bị làm phiền."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Pinging đã mở ra cánh cửa tâm sự; đây chính là thời điểm vàng để bạn thể hiện vai trò của một người bạn đồng hành đích thực."
     },
     {
@@ -165,9 +165,9 @@
       "question": "Một người có 1.000 mối quan hệ trong danh bạ cần dành bao nhiêu thời gian mỗi ngày cho việc Pinging để duy trì mạng lưới?",
       "options": [
         "Chỉ cần khoảng 15-20 phút mỗi ngày (thực hiện 5-10 lượt ping ngắn) được chia nhỏ vào các khoảng thời gian rảnh rỗi.",
-        "Bắt buộc phải dành toàn bộ 8 tiếng làm việc mỗi ngày.",
         "Chỉ cần làm một lần duy nhất vào ngày 31 tháng 12 hàng năm.",
-        "Không cần dành thời gian vì công nghệ sẽ tự động làm hết mọi việc."
+        "Không cần dành thời gian vì công nghệ sẽ tự động làm hết mọi việc.",
+        "Bắt buộc phải dành toàn bộ 8 tiếng làm việc mỗi ngày."
       ],
       "correctIndex": 0,
       "explanation": "Tính kỷ luật và sự đều đặn quan trọng hơn cường độ; 15 phút mỗi ngày là đủ để giữ cho một mạng lưới 1.000 người luôn rực sáng."
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Chân lý cốt lõi nhất của chương 20 có thể đúc kết thành bài học nào?",
       "options": [
-        "Mối quan hệ không chết vì mâu thuẫn lớn, mà chết vì sự lãng quên âm thầm; Pinging đều đặn chính là nhịp đập trái tim giữ cho mạng lưới luôn sống mãi.",
-        "Hãy chỉ liên lạc với mọi người khi bạn có dự án kinh doanh cần hợp tác.",
         "Số lượng tin nhắn gửi đi càng nhiều thì bạn càng kiếm được nhiều tiền.",
+        "Hãy chỉ liên lạc với mọi người khi bạn có dự án kinh doanh cần hợp tác.",
+        "Mối quan hệ không chết vì mâu thuẫn lớn, mà chết vì sự lãng quên âm thầm; Pinging đều đặn chính là nhịp đập trái tim giữ cho mạng lưới luôn sống mãi.",
         "Đừng bao giờ nhắn tin cho những người có địa vị cao hơn mình."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Nuôi dưỡng liên tục bằng những cử chỉ nhỏ bé chân thành là bí quyết tối thượng để sở hữu một mạng lưới quan hệ trường tồn cùng thời gian."
     }
   ]

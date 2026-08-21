@@ -8,10 +8,10 @@
       "id": "q1",
       "question": "Tại sao trường hợp biến đổi của Lisa Allen (từ người nợ nần, béo phì, nghiện thuốc thành vận động viên điền kinh) lại thu hút sự chú ý đặc biệt của các nhà khoa học thần kinh?",
       "options": [
-        "Vì cô đã sử dụng một loại thuốc can thiệp thần kinh hoàn toàn mới do quân đội tài trợ.",
+        "Vì các nhà khoa học muốn chứng minh rằng quyết tâm tức thời quan trọng hơn cơ chế sinh học của não bộ.",
         "Vì sự thay đổi một thói quen mấu chốt (bỏ thuốc) đã tạo ra phản ứng dây chuyền làm tái cấu trúc toàn bộ mạng lưới thói quen khác trong não bộ.",
         "Vì cô là người duy nhất trên thế giới có thể xóa bỏ hoàn toàn ký ức về các hành vi nghiện ngập trong quá khứ.",
-        "Vì các nhà khoa học muốn chứng minh rằng quyết tâm tức thời quan trọng hơn cơ chế sinh học của não bộ."
+        "Vì cô đã sử dụng một loại thuốc can thiệp thần kinh hoàn toàn mới do quân đội tài trợ."
       ],
       "correctIndex": 1,
       "explanation": "Các nhà khoa học phát hiện Lisa không chỉ bỏ thuốc lá, mà việc thay đổi thói quen cốt lõi đó đã kích hoạt sự biến đổi ở các vùng thần kinh, tạo ra một 'mẫu hình phản xạ' mới lan tỏa sang việc chạy bộ, quản lý tài chính và công việc."
@@ -20,70 +20,70 @@
       "id": "q2",
       "question": "Khi quét não của Lisa Allen và những người thay đổi thói quen thành công, các nhà nghiên cứu nhận thấy điều gì ở các khớp thần kinh (synapses)?",
       "options": [
+        "Các dấu vết thần kinh cũ vẫn tồn tại nhưng những đường dẫn thần kinh mới đã chiếm ưu thế và được kích hoạt mạnh mẽ hơn.",
         "Các đường dẫn thần kinh cũ hoàn toàn biến mất và không để lại dấu vết nào.",
         "Vỏ não trước trán ngừng hoạt động hoàn toàn khi các thói quen mới được thực hiện.",
-        "Các dấu vết thần kinh cũ vẫn tồn tại nhưng những đường dẫn thần kinh mới đã chiếm ưu thế và được kích hoạt mạnh mẽ hơn.",
         "Bộ não của họ tự động giảm 50% mức tiêu thụ năng lượng so với người bình thường."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Khoa học thần kinh chỉ ra rằng các thói quen cũ không bao giờ thực sự biến mất khỏi não bộ; thay vào đó, các đường mòn thần kinh mới được tạo ra và ghi đè lên sự điều khiển hành vi khi có tín hiệu kích hoạt phù hợp."
     },
     {
       "id": "q3",
       "question": "Theo các nhà nghiên cứu tại Đại học Duke được trích dẫn trong phần mở đầu, các hành động hàng ngày của con người có bao nhiêu phần trăm là do thói quen chi phối?",
       "options": [
-        "Khoảng 10% – con người chủ yếu hành động dựa trên các quyết định lý trí có tính toán.",
         "Hơn 40% – gần một nửa hành động mỗi ngày là các khuôn mẫu tự động thay vì quyết định thực sự.",
         "Khoảng 75% – gần như toàn bộ cuộc sống là sự lặp lại vô thức hoàn toàn.",
-        "Chỉ khoảng 5% – thói quen chỉ xuất hiện ở những việc cơ bản như đánh răng, rửa mặt."
+        "Chỉ khoảng 5% – thói quen chỉ xuất hiện ở những việc cơ bản như đánh răng, rửa mặt.",
+        "Khoảng 10% – con người chủ yếu hành động dựa trên các quyết định lý trí có tính toán."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Nghiên cứu của Đại học Duke năm 2006 chỉ ra rằng hơn 40% hành vi hàng ngày của chúng ta không phải là kết quả của sự lựa chọn có ý thức, mà xuất phát từ thói quen tự động."
     },
     {
       "id": "q4",
       "question": "Mục tiêu cốt lõi của cuốn sách 'Sức Mạnh Của Thói Quen' được tác giả khẳng định ngay từ phần mở đầu là gì?",
       "options": [
-        "Cung cấp một đơn thuốc thần kỳ duy nhất áp dụng tức thì cho mọi thói quen.",
         "Chứng minh rằng con người hoàn toàn bất lực trước các bản năng sinh học của não bộ.",
-        "Cung cấp một khung hiểu biết khoa học về cách thức vận hành của thói quen và phương pháp chẩn đoán để tái định hình chúng.",
-        "Khuyên người đọc loại bỏ hoàn toàn các thói quen để sống hoàn toàn bằng ý chí tự do mỗi phút giây."
+        "Khuyên người đọc loại bỏ hoàn toàn các thói quen để sống hoàn toàn bằng ý chí tự do mỗi phút giây.",
+        "Cung cấp một đơn thuốc thần kỳ duy nhất áp dụng tức thì cho mọi thói quen.",
+        "Cung cấp một khung hiểu biết khoa học về cách thức vận hành của thói quen và phương pháp chẩn đoán để tái định hình chúng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Tác giả nhấn mạnh không có một công thức duy nhất cho tất cả mọi người, nhưng cuốn sách đem lại một khung làm việc (framework) khoa học giúp người đọc giải mã cấu trúc thói quen và từng bước can thiệp hiệu quả."
     },
     {
       "id": "q5",
       "question": "Tại sao việc hiểu cơ chế thần kinh của thói quen lại có ý nghĩa quyết định đối với các tổ chức và doanh nghiệp, chứ không chỉ riêng cá nhân?",
       "options": [
-        "Vì doanh nghiệp có thể buộc nhân viên từ bỏ hoàn toàn thói quen cá nhân khi vào công ty.",
         "Vì văn hóa doanh nghiệp và quy trình vận hành thực chất là tập hợp các thói quen tập thể được lặp lại hàng ngày.",
-        "Vì doanh nghiệp không cần đào tạo kỹ năng nếu nhân viên đã có sẵn thói quen tốt từ nhỏ.",
-        "Vì thói quen giúp doanh nghiệp cắt giảm 100% chi phí quản lý và giám sát nhân sự."
+        "Vì thói quen giúp doanh nghiệp cắt giảm 100% chi phí quản lý và giám sát nhân sự.",
+        "Vì doanh nghiệp có thể buộc nhân viên từ bỏ hoàn toàn thói quen cá nhân khi vào công ty.",
+        "Vì doanh nghiệp không cần đào tạo kỹ năng nếu nhân viên đã có sẵn thói quen tốt từ nhỏ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Các tổ chức thành công vận hành dựa trên các thói quen tổ chức (organizational routines); việc tái lập các thói quen tập thể giúp tối ưu hóa hiệu suất và nâng cao tính an toàn một cách bền vững."
     },
     {
       "id": "q6",
       "question": "Khái niệm 'thói quen' theo góc nhìn khoa học hành vi được hiểu chính xác nhất là gì?",
       "options": [
+        "Một chuỗi các phản xạ không điều kiện phát triển độc lập với môi trường sống.",
         "Những hành vi bẩm sinh được quy định sẵn trong mã gen di truyền của con người.",
         "Những lựa chọn mà một thời điểm nào đó chúng ta từng suy nghĩ kỹ, rồi sau đó ngừng suy nghĩ nhưng vẫn tiếp tục thực hiện tự động.",
-        "Những hành động sai lầm mà con người không thể kiểm soát do thiếu ý chí.",
-        "Một chuỗi các phản xạ không điều kiện phát triển độc lập với môi trường sống."
+        "Những hành động sai lầm mà con người không thể kiểm soát do thiếu ý chí."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Thói quen chính là những lựa chọn mà tại một thời điểm trong quá khứ chúng ta đã cân nhắc, nhưng theo thời gian, bộ não biến chúng thành quy trình tự động để tiết kiệm năng lượng nhận thức."
     },
     {
       "id": "q7",
       "question": "Trong câu chuyện về chuyến đi Cairo của Lisa Allen, yếu tố nào đóng vai trò là 'bước ngoặt thức tỉnh' khiến cô quyết định phải thay đổi?",
       "options": [
-        "Cô nhận được một lời mời làm việc với mức lương cao tại Ai Cập.",
+        "Tài khoản ngân hàng của cô bất ngờ được xóa toàn bộ khoản nợ 10.000 USD.",
         "Cảm giác suy sụp hoàn toàn khi bị chồng bỏ rơi, nợ nần chồng chất và khoảnh khắc nhận ra mình cần một mục tiêu sống rõ ràng (băng qua sa mạc).",
         "Cô gặp một vị bác sĩ tâm lý tình cờ tại khách sạn và được trị liệu tức thì.",
-        "Tài khoản ngân hàng của cô bất ngờ được xóa toàn bộ khoản nợ 10.000 USD."
+        "Cô nhận được một lời mời làm việc với mức lương cao tại Ai Cập."
       ],
       "correctIndex": 1,
       "explanation": "Khoảnh khắc tuyệt vọng ở Cairo cùng ý nghĩ muốn băng qua sa mạc đã cho Lisa một mục tiêu cụ thể đầu tiên: để làm được điều đó, cô nhận ra trước hết mình phải bỏ hút thuốc – viên gạch nền tảng cho sự chuyển hóa."
@@ -92,34 +92,34 @@
       "id": "q8",
       "question": "Tại sao các nhà nghiên cứu của Viện Y tế Quốc gia lại gắn camera và theo dõi tỉ mỉ cuộc sống thường ngày của đối tượng nghiên cứu?",
       "options": [
-        "Để phát hiện các hành vi gian lận tài chính của đối tượng.",
-        "Để quan sát chính xác các dấu hiệu kích hoạt (cues) và phần thưởng (rewards) xảy ra trong bối cảnh thực tế.",
+        "Để ghi hình làm phim tư liệu quảng bá cho các tập đoàn dược phẩm.",
         "Để kiểm tra xem họ có tuân thủ giờ giấc ngủ nghỉ theo chuẩn quân đội hay không.",
-        "Để ghi hình làm phim tư liệu quảng bá cho các tập đoàn dược phẩm."
+        "Để phát hiện các hành vi gian lận tài chính của đối tượng.",
+        "Để quan sát chính xác các dấu hiệu kích hoạt (cues) và phần thưởng (rewards) xảy ra trong bối cảnh thực tế."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Việc ghi hình thực tế giúp các nhà khoa học định vị chính xác những tín hiệu vô hình trong môi trường sống kích hoạt chuỗi hành vi thói quen của đối tượng."
     },
     {
       "id": "q9",
       "question": "Mối liên hệ giữa thói quen cá nhân và sức mạnh chuyển đổi xã hội được nhắc đến như thế nào trong cấu trúc cuốn sách?",
       "options": [
+        "Thói quen chỉ có tác dụng trong môi trường kinh doanh và buôn bán.",
         "Thói quen xã hội hoàn toàn độc lập và không liên quan gì đến tâm lý học cá nhân.",
         "Các phong trào xã hội lớn (như phong trào dân quyền) bùng nổ và duy trì nhờ vào việc chuyển hóa các thói quen cộng đồng và mối liên kết xã hội.",
-        "Xã hội chỉ thay đổi khi chính phủ ban hành luật pháp cưỡng chế chứ thói quen không đóng vai trò gì.",
-        "Thói quen chỉ có tác dụng trong môi trường kinh doanh và buôn bán."
+        "Xã hội chỉ thay đổi khi chính phủ ban hành luật pháp cưỡng chế chứ thói quen không đóng vai trò gì."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Cuốn sách phân tích từ thói quen cá nhân, mở rộng sang thói quen tổ chức, và đỉnh cao là cách các thói quen cộng đồng tạo nên sức mạnh cho các cuộc vận động lịch sử."
     },
     {
       "id": "q10",
       "question": "Điều gì chứng minh rằng sự thay đổi của Lisa Allen không phải là một sự may mắn ngẫu nhiên?",
       "options": [
-        "Cô đã tham gia một chương trình trúng thưởng dành cho người giảm cân.",
+        "Cô chỉ thay đổi khi có sự giám sát 24/7 của các chuyên gia thần kinh học.",
         "Hơn 24 người khác trong nhóm nghiên cứu với các hoàn cảnh tương tự cũng đạt được sự chuyển hóa bền vững nhờ cùng cơ chế tái lập thói quen.",
-        "Cô duy trì được cân nặng chỉ trong đúng 1 tháng trước khi tăng cân trở lại.",
-        "Cô chỉ thay đổi khi có sự giám sát 24/7 của các chuyên gia thần kinh học."
+        "Cô đã tham gia một chương trình trúng thưởng dành cho người giảm cân.",
+        "Cô duy trì được cân nặng chỉ trong đúng 1 tháng trước khi tăng cân trở lại."
       ],
       "correctIndex": 1,
       "explanation": "Nghiên cứu trên nhóm 24 người có thói quen xấu tương tự cho thấy mô hình tái lập thói quen là một quy luật khoa học có thể lặp lại và kiểm chứng, chứ không phải ngẫu nhiên."
@@ -129,35 +129,35 @@
       "question": "Tại sao việc can thiệp vào thói quen lại mang lại hiệu quả bền vững hơn việc chỉ đơn thuần dựa vào 'sức mạnh ý chí'?",
       "options": [
         "Ý chí là nguồn tài nguyên vô hạn không bao giờ cạn kiệt trong ngày.",
+        "Thói quen làm tê liệt hoàn toàn các thụ thể cảm giác thèm muốn trong não.",
         "Thói quen hoạt động ở tầng phản xạ tự động của não bộ, giảm thiểu sự tiêu hao ý chí khi đối mặt với cám dỗ.",
-        "Ý chí chỉ có tác dụng đối với trẻ em, người lớn không có ý chí.",
-        "Thói quen làm tê liệt hoàn toàn các thụ thể cảm giác thèm muốn trong não."
+        "Ý chí chỉ có tác dụng đối với trẻ em, người lớn không có ý chí."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Ý chí giống như một khối cơ có thể bị kiệt sức; khi hành vi đã chuyển thành thói quen tự động trong hạch nền, nó không đòi hỏi năng lượng ý chí liên tục để duy trì."
     },
     {
       "id": "q12",
       "question": "Từ câu chuyện của Lisa Allen, bài học quan trọng nhất về việc bắt đầu thay đổi bản thân là gì?",
       "options": [
-        "Cần cố gắng thay đổi toàn bộ 10 thói quen xấu cùng một lúc trong ngày đầu tiên.",
         "Tìm ra một 'thói quen then chốt' (keystone habit) và tập trung chuyển đổi nó trước để tạo đà cho các chuyển biến tiếp theo.",
         "Chờ đợi đến khi cuộc sống hoàn toàn ổn định và không còn biến cố mới bắt đầu thay đổi.",
-        "Cách duy nhất để thay đổi là chuyển đến sống ở một quốc gia hoàn toàn xa lạ."
+        "Cách duy nhất để thay đổi là chuyển đến sống ở một quốc gia hoàn toàn xa lạ.",
+        "Cần cố gắng thay đổi toàn bộ 10 thói quen xấu cùng một lúc trong ngày đầu tiên."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Lisa tập trung vào một thói quen then chốt duy nhất là bỏ thuốc lá; thành công từ mắt xích này đã tái định hình lòng tự trọng và thúc đẩy toàn bộ lối sống mới."
     },
     {
       "id": "q13",
       "question": "Tại sao bộ não con người lại tiến hóa để không ngừng tìm kiếm cách biến mọi hành động thành thói quen?",
       "options": [
+        "Để ngăn chặn con người sáng tạo ra những công cụ mới.",
         "Để chuẩn bị cho giấc ngủ đông của tổ tiên loài người thời nguyên thủy.",
-        "Để tiết kiệm năng lượng cho não bộ, giải phóng không gian nhận thức cho các công việc mới đòi hỏi sự chú ý cao hơn.",
         "Vì bộ não không thể xử lý quá 2 thông tin cùng lúc nếu không có thói quen.",
-        "Để ngăn chặn con người sáng tạo ra những công cụ mới."
+        "Để tiết kiệm năng lượng cho não bộ, giải phóng không gian nhận thức cho các công việc mới đòi hỏi sự chú ý cao hơn."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Não bộ luôn tìm cách tiết kiệm công sức; biến các chuỗi hành động lặp đi lặp lại thành phản xạ tự động giúp não giảm tải năng lượng và tập trung vào các mối nguy hoặc cơ hội mới."
     },
     {
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Phần mở đầu nhấn mạnh điều kiện tiên quyết để một người có thể thay đổi thói quen thành công là gì?",
       "options": [
-        "Phải có sự can thiệp phẫu thuật não bộ.",
-        "Phải hiểu được cơ chế cấu tạo của thói quen và nhận thức được các yếu tố kích hoạt hành vi của chính mình.",
         "Phải sở hữu nguồn lực tài chính dồi dào để thuê chuyên gia theo dõi liên tục.",
-        "Phải cắt đứt hoàn toàn liên lạc với gia đình và bạn bè cũ."
+        "Phải cắt đứt hoàn toàn liên lạc với gia đình và bạn bè cũ.",
+        "Phải hiểu được cơ chế cấu tạo của thói quen và nhận thức được các yếu tố kích hoạt hành vi của chính mình.",
+        "Phải có sự can thiệp phẫu thuật não bộ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Bước đầu tiên và quan trọng nhất để làm chủ thói quen là thấu hiểu cơ chế khoa học vận hành bên dưới nó, từ đó nhận diện và tái cấu trúc các tín hiệu và phần thưởng trong cuộc sống."
     }
   ]

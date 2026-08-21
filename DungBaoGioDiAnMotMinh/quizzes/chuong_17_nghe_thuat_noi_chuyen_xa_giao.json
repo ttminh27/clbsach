@@ -8,24 +8,24 @@
       "id": "q1",
       "question": "Tại sao nhiều người thường xem thường 'Nói chuyện xã giao' (Small Talk) nhưng các bậc thầy kết nối lại coi đó là kỹ năng quan trọng bậc nhất?",
       "options": [
-        "Vì Small Talk là chiếc cầu nối ban đầu phá vỡ sự xa lạ, thiết lập sự hòa hợp cảm xúc và mở đường cho những cuộc đối thoại sâu sắc về sau.",
         "Vì Small Talk là cơ hội duy nhất để bạn khoe khoang về sự giàu có của mình.",
         "Vì các nhà tuyển dụng chỉ chấm điểm ứng viên dựa trên khả năng nói chuyện phiếm.",
+        "Vì Small Talk là chiếc cầu nối ban đầu phá vỡ sự xa lạ, thiết lập sự hòa hợp cảm xúc và mở đường cho những cuộc đối thoại sâu sắc về sau.",
         "Vì Small Talk giúp bạn kéo dài thời gian cuộc họp để không phải làm việc."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Không ai có thể nhảy ngay vào ký hợp đồng hàng triệu đô la mà không bắt đầu từ sự hòa hợp ấm áp ban đầu; Small Talk chính là chất bôi trơn xã hội."
     },
     {
       "id": "q2",
       "question": "Bí quyết số một được Dale Carnegie truyền dạy và Keith Ferrazzi khẳng định lại để trở thành một người nói chuyện cuốn hút là gì?",
       "options": [
-        "Trở thành một người biết lắng nghe chăm chú và khích lệ người khác nói về chính bản thân, niềm đam mê và thành tựu của họ.",
-        "Chuẩn bị sẵn 50 câu chuyện cười để kể liên tục cho mọi người nghe.",
+        "Luôn luôn ngắt lời đối phương để bổ sung thêm ý kiến cá nhân của mình.",
         "Sử dụng thật nhiều thuật ngữ chuyên môn phức tạp để thể hiện trí tuệ vượt trội.",
-        "Luôn luôn ngắt lời đối phương để bổ sung thêm ý kiến cá nhân của mình."
+        "Chuẩn bị sẵn 50 câu chuyện cười để kể liên tục cho mọi người nghe.",
+        "Trở thành một người biết lắng nghe chăm chú và khích lệ người khác nói về chính bản thân, niềm đam mê và thành tựu của họ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Con người khao khát được lắng nghe và thấu hiểu; người biết lắng nghe với sự tôn trọng chân thành luôn là người có sức quyến rũ lớn nhất."
     },
     {
@@ -33,9 +33,9 @@
       "question": "Kỹ thuật 'Đặt câu hỏi mở' (Open-ended questions) trong giao tiếp xã giao hoạt động như thế nào?",
       "options": [
         "Đặt những câu hỏi bắt đầu bằng 'Như thế nào?', 'Tại sao?', 'Cảm giác của anh ra sao khi...' để khơi gợi đối phương chia sẻ câu chuyện và cảm xúc dài hơn câu trả lời 'Có/Không'.",
-        "Đặt những câu hỏi trắc nghiệm A, B, C, D để kiểm tra kiến thức của đối tác.",
         "Hỏi những câu hỏi về mức thu nhập hàng tháng và số dư tài khoản ngân hàng.",
-        "Hỏi những câu hỏi mà chính bạn cũng không biết câu trả lời."
+        "Hỏi những câu hỏi mà chính bạn cũng không biết câu trả lời.",
+        "Đặt những câu hỏi trắc nghiệm A, B, C, D để kiểm tra kiến thức của đối tác."
       ],
       "correctIndex": 0,
       "explanation": "Câu hỏi mở là chiếc chìa khóa mở khóa kho tàng tâm sự; nó khuyến khích đối phương bộc bạch những trải nghiệm và đam mê sâu kín."
@@ -44,36 +44,36 @@
       "id": "q4",
       "question": "Nguyên tắc 'Lắng nghe bằng toàn bộ cơ thể' (Active Listening) bao gồm những biểu hiện phi ngôn ngữ nào?",
       "options": [
+        "Vừa nghe vừa gõ bàn phím trả lời email trên máy tính xách tay.",
         "Giao tiếp bằng ánh mắt ấm áp (Eye contact), gật đầu đồng cảm, hơi nghiêng người về phía trước và tuyệt đối không phân tâm nhìn điện thoại hay nhìn quanh phòng.",
         "Khoanh tay trước ngực và liên tục nhìn đồng hồ đeo tay.",
-        "Vừa nghe vừa gõ bàn phím trả lời email trên máy tính xách tay.",
         "Nhìn chằm chằm vào trần nhà để suy nghĩ về việc khác."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Sự hiện diện 100% về mặt thể xác và tâm trí là món quà quý giá nhất bạn có thể trao tặng cho người đối diện trong cuộc trò chuyện."
     },
     {
       "id": "q5",
       "question": "Kỹ thuật 'Tương thích và Mô phỏng' (Mirroring & Matching) trong tâm lý học giao tiếp giúp đạt được điều gì?",
       "options": [
-        "Khéo léo điều chỉnh tốc độ giọng nói, âm lượng và tư thế cơ thể tương đồng với đối phương để tạo cảm giác thân thuộc và đồng điệu trong tiềm thức.",
         "Bắt chước từng cử động của đối phương như một chú hề để chọc cười họ.",
-        "Mặc quần áo và đeo kính giống hệt đối tác trong buổi gặp mặt.",
-        "Lặp lại từng từ ngữ của đối tác như một chiếc máy ghi âm."
+        "Lặp lại từng từ ngữ của đối tác như một chiếc máy ghi âm.",
+        "Khéo léo điều chỉnh tốc độ giọng nói, âm lượng và tư thế cơ thể tương đồng với đối phương để tạo cảm giác thân thuộc và đồng điệu trong tiềm thức.",
+        "Mặc quần áo và đeo kính giống hệt đối tác trong buổi gặp mặt."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Con người có xu hướng yêu quý những ai giống mình; sự đồng điệu tinh tế trong ngôn ngữ cơ thể tạo ra sự tin cậy tự nhiên không lời."
     },
     {
       "id": "q6",
       "question": "Các chủ đề an toàn và giàu cảm xúc tích cực nhất để bắt đầu một cuộc nói chuyện xã giao là gì?",
       "options": [
-        "Trải nghiệm du lịch, ẩm thực địa phương, sở thích thể thao, các cuốn sách/bộ phim truyền cảm hứng hoặc nguồn gốc xuất thân của họ.",
-        "Các tranh cãi gay gắt về chính trị, tôn giáo và sự bất đồng quan điểm xã hội.",
         "Các tin đồn tiêu cực về đời tư của những người nổi tiếng trong ngành.",
-        "Những phàn nàn về tình trạng giao thông và bệnh tật cá nhân."
+        "Các tranh cãi gay gắt về chính trị, tôn giáo và sự bất đồng quan điểm xã hội.",
+        "Những phàn nàn về tình trạng giao thông và bệnh tật cá nhân.",
+        "Trải nghiệm du lịch, ẩm thực địa phương, sở thích thể thao, các cuốn sách/bộ phim truyền cảm hứng hoặc nguồn gốc xuất thân của họ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Tập trung vào những chủ đề mang năng lượng tích cực và khơi gợi niềm vui giúp cuộc đối thoại diễn ra nhẹ nhàng, hào hứng."
     },
     {
@@ -93,9 +93,9 @@
       "question": "Cách thoát khỏi một cuộc trò chuyện xã giao một cách lịch thiệp, tinh tế khi bạn cần di chuyển sang nhóm khác là gì?",
       "options": [
         "Cảm ơn vì cuộc trò chuyện thú vị, xin phép đi lấy thêm đồ uống hoặc giới thiệu họ với một người bạn khác trước khi rời đi một cách nhã nhặn.",
+        "Bảo thẳng với đối phương rằng câu chuyện của họ quá tẻ nhạt.",
         "Đột ngột bỏ đi không nói một lời khi đối phương đang nói chuyện.",
-        "Giả vờ nhận một cuộc điện thoại khẩn cấp để chạy trốn.",
-        "Bảo thẳng với đối phương rằng câu chuyện của họ quá tẻ nhạt."
+        "Giả vờ nhận một cuộc điện thoại khẩn cấp để chạy trốn."
       ],
       "correctIndex": 0,
       "explanation": "Rút lui có văn hóa bằng lời cảm ơn ấm áp và một chiếc cầu nối tiếp theo giúp giữ nguyên vẹn ấn tượng tốt đẹp mà bạn đã tạo dựng."
@@ -104,24 +104,24 @@
       "id": "q9",
       "question": "Điều gì là kẻ thù số một có thể phá hủy ngay lập tức một cuộc nói chuyện xã giao?",
       "options": [
+        "Việc đặt câu hỏi về sở thích nuôi thú cưng của đối tác.",
         "Thói quen phàn nàn, chỉ trích, nói xấu người vắng mặt và lan tỏa năng lượng tiêu cực, u ám.",
         "Việc mỉm cười quá nhiều trong khi lắng nghe.",
-        "Việc đặt câu hỏi về sở thích nuôi thú cưng của đối tác.",
         "Việc đến sớm 5 phút trước giờ hẹn gặp."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Không ai muốn ở cạnh một 'hố đen năng lượng'; sự tích cực và nụ cười rạng rỡ là nam châm thu hút mọi người đến gần bạn."
     },
     {
       "id": "q10",
       "question": "Khái niệm 'Sự chân thực dễ bị tổn thương' (Vulnerability) trong giao tiếp đỉnh cao được hiểu là gì?",
       "options": [
-        "Dám cởi bỏ lớp vỏ bọc hoàn hảo giả tạo, thành thật chia sẻ những bài học vấp ngã và cảm xúc thật để tạo nên sự kết nối từ trái tim đến trái tim.",
+        "Tự nhận mình là người hoàn toàn bất tài và không có khả năng làm việc.",
         "Kể lể toàn bộ những bí mật cơ mật của công ty cho đối tác nghe.",
-        "Khóc lóc van xin sự giúp đỡ tài chính từ người mới quen.",
-        "Tự nhận mình là người hoàn toàn bất tài và không có khả năng làm việc."
+        "Dám cởi bỏ lớp vỏ bọc hoàn hảo giả tạo, thành thật chia sẻ những bài học vấp ngã và cảm xúc thật để tạo nên sự kết nối từ trái tim đến trái tim.",
+        "Khóc lóc van xin sự giúp đỡ tài chính từ người mới quen."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Sự hoàn hảo giả tạo tạo ra khoảng cách, nhưng sự chân thực và dám thừa nhận sự chưa hoàn hảo sẽ kéo mọi người xích lại gần nhau."
     },
     {
@@ -129,9 +129,9 @@
       "question": "Một người nhút nhát có thể làm gì để tự tin bước vào một vòng tròn đang trò chuyện tại một sự kiện?",
       "options": [
         "Bước đến với nụ cười nhẹ nhàng, lắng nghe mạch câu chuyện trong 1-2 phút, gật đầu đồng cảm trước khi đưa ra một lời nhận xét tích cực phù hợp.",
-        "Đứng chắn giữa hai người đang nói chuyện và yêu cầu họ phải im lặng.",
         "Nói to một câu chuyện hoàn toàn không liên quan đến chủ đề họ đang bàn.",
-        "Bỏ về nhà vì nghĩ rằng không ai muốn nói chuyện với mình."
+        "Bỏ về nhà vì nghĩ rằng không ai muốn nói chuyện với mình.",
+        "Đứng chắn giữa hai người đang nói chuyện và yêu cầu họ phải im lặng."
       ],
       "correctIndex": 0,
       "explanation": "Hòa nhập từ từ bằng việc lắng nghe và đồng điệu trước khi lên tiếng là cách thông minh nhất để tham gia vào bất kỳ nhóm trò chuyện nào."
@@ -140,12 +140,12 @@
       "id": "q12",
       "question": "Tại sao việc ghi nhớ 'Những câu chuyện cá nhân thú vị' (Personal Anecdotes) lại là tài sản quý báu của người giao tiếp?",
       "options": [
-        "Vì những câu chuyện ngắn gọn, sinh động và hài hước về bài học cuộc sống luôn có sức truyền cảm và khắc sâu vào trí nhớ của người nghe hơn các số liệu khô khan.",
         "Vì bạn có thể dùng những câu chuyện đó để lừa dối đối tác.",
-        "Vì các câu chuyện cá nhân luôn giúp kéo dài thời gian cuộc gặp.",
-        "Để chứng minh bạn là một nhà văn chuyên nghiệp."
+        "Để chứng minh bạn là một nhà văn chuyên nghiệp.",
+        "Vì những câu chuyện ngắn gọn, sinh động và hài hước về bài học cuộc sống luôn có sức truyền cảm và khắc sâu vào trí nhớ của người nghe hơn các số liệu khô khan.",
+        "Vì các câu chuyện cá nhân luôn giúp kéo dài thời gian cuộc gặp."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Bộ não con người được lập trình để ghi nhớ các câu chuyện; người kể chuyện giỏi là người nắm giữ chìa khóa cảm xúc của đám đông."
     },
     {
@@ -153,9 +153,9 @@
       "question": "Quy tắc 70/30 trong một cuộc đối thoại xã giao lý tưởng quy định điều gì?",
       "options": [
         "Dành 70% thời gian để lắng nghe đối phương và chỉ nói khoảng 30% thời gian để đặt câu hỏi gợi mở và chia sẻ ý kiến súc tích.",
+        "Chỉ nói chuyện với 70% số người có mặt trong phòng tiệc.",
         "Nói 70% thời gian và chỉ cho đối phương nói 30% thời gian.",
-        "Dành 70% thời gian để ăn uống và 30% thời gian để nói chuyện.",
-        "Chỉ nói chuyện với 70% số người có mặt trong phòng tiệc."
+        "Dành 70% thời gian để ăn uống và 30% thời gian để nói chuyện."
       ],
       "correctIndex": 0,
       "explanation": "Người nói ít nhưng biết lắng nghe sâu sắc luôn để lại ấn tượng là một người thông tuệ, tinh tế và đáng mến nhất trong mắt đối phương."
@@ -164,24 +164,24 @@
       "id": "q14",
       "question": "Khi bạn vô tình gặp phải một người thô lỗ hoặc có quan điểm cực đoan trong bữa tiệc, cách ứng xử đẳng cấp nhất là gì?",
       "options": [
+        "Đập vỡ ly nước trên bàn để thể hiện sự phản đối.",
         "Giữ bình tĩnh, không tranh cãi gay gắt, nhã nhặn chuyển hướng chủ đề hoặc lịch thiệp xin phép rời sang khu vực khác.",
-        "Tranh cãi to tiếng và dùng từ ngữ thô tục để lấn át đối phương.",
         "Gọi bảo vệ đến bắt giữ người đó ngay tại chỗ.",
-        "Đập vỡ ly nước trên bàn để thể hiện sự phản đối."
+        "Tranh cãi to tiếng và dùng từ ngữ thô tục để lấn át đối phương."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Sự điềm tĩnh và phong thái đĩnh đạc trước những khiêu khích thể hiện đẳng cấp văn hóa và bản lĩnh tự chủ của một nhà lãnh đạo thực thụ."
     },
     {
       "id": "q15",
       "question": "Tóm lại, chân lý của chương 17 về nghệ thuật giao tiếp xã giao có thể đúc kết là gì?",
       "options": [
-        "Nói chuyện xã giao không phải là nghệ thuật uốn lưỡi khoa trương, mà là nghệ thuật trao gửi sự quan tâm, thấu cảm và niềm vui cho con người.",
         "Chỉ cần nói thật nhiều thì bạn sẽ tự động thuyết phục được người khác.",
-        "Giao tiếp xã giao là một hành vi giả tạo không cần thiết trong kinh doanh.",
-        "Người nói giỏi nhất là người đánh bại được tất cả mọi người trong tranh luận."
+        "Người nói giỏi nhất là người đánh bại được tất cả mọi người trong tranh luận.",
+        "Nói chuyện xã giao không phải là nghệ thuật uốn lưỡi khoa trương, mà là nghệ thuật trao gửi sự quan tâm, thấu cảm và niềm vui cho con người.",
+        "Giao tiếp xã giao là một hành vi giả tạo không cần thiết trong kinh doanh."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Giao tiếp đỉnh cao là chạm vào trái tim; khi bạn mang lại cho người khác cảm giác họ được tôn trọng và yêu quý, bạn đã nắm trọn nghệ thuật kết nối."
     }
   ]

@@ -8,36 +8,36 @@
       "id": "q1",
       "question": "Tại sao tác giả lại khẳng định 'Theo dõi hay là thất bại' (Follow Up or Fail) là bước phân định ranh giới giữa người nghiệp dư và bậc thầy kết nối?",
       "options": [
+        "Vì bạn cần phải kiểm tra xem đối tác có nói thật trong cuộc gặp hay không.",
         "Vì một cuộc gặp gỡ tuyệt vời đến đâu cũng sẽ nhanh chóng bị lãng quên nếu không có hành động theo dõi, củng cố ấn tượng và nuôi dưỡng mối quan hệ ngay sau đó.",
         "Vì nếu không theo dõi bạn sẽ bị đối tác phạt tiền vi phạm hợp đồng.",
-        "Vì việc theo dõi là quy định bắt buộc của các cơ quan quản lý lao động.",
-        "Vì bạn cần phải kiểm tra xem đối tác có nói thật trong cuộc gặp hay không."
+        "Vì việc theo dõi là quy định bắt buộc của các cơ quan quản lý lao động."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Gặp gỡ chỉ là bước gieo hạt; hành động theo dõi (Follow-up) chu đáo và kịp thời mới chính là quá trình tưới nước giúp hạt mầm quan hệ nảy mầm."
     },
     {
       "id": "q2",
       "question": "Khung thời gian vàng 'Quy tắc 12-24-48 giờ' trong việc gửi thư/email theo dõi sau cuộc gặp có ý nghĩa chiến lược như thế nào?",
       "options": [
-        "Gửi thư trong vòng 12-24 giờ (tối đa 48 giờ) khi cảm xúc và ấn tượng về cuộc trò chuyện vẫn còn tươi mới, tạo sự nối tiếp liền mạch và chuyên nghiệp.",
         "Chờ đúng 48 ngày sau mới gửi thư để chứng minh bạn là người kiên nhẫn.",
-        "Gửi thư liên tục mỗi 12 giờ một lần trong suốt 1 năm.",
-        "Chỉ gửi thư vào lúc 12 giờ đêm để đối tác đọc được vào sáng hôm sau."
+        "Chỉ gửi thư vào lúc 12 giờ đêm để đối tác đọc được vào sáng hôm sau.",
+        "Gửi thư trong vòng 12-24 giờ (tối đa 48 giờ) khi cảm xúc và ấn tượng về cuộc trò chuyện vẫn còn tươi mới, tạo sự nối tiếp liền mạch và chuyên nghiệp.",
+        "Gửi thư liên tục mỗi 12 giờ một lần trong suốt 1 năm."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Thời gian là kẻ thù số 1 của trí nhớ; phản hồi nhanh chóng trong vòng 24-48 giờ chứng minh bạn coi trọng cuộc gặp và giữ cho mối liên kết luôn ấm nóng."
     },
     {
       "id": "q3",
       "question": "Cấu trúc chuẩn của một bức thư theo dõi (Follow-up note) xuất sắc cần bao gồm 3 yếu tố cốt lõi nào?",
       "options": [
-        "Lời cảm ơn chân thành -> Nhắc lại một chi tiết/câu chuyện thú vị cụ thể đã trao đổi -> Đề xuất một hành động hỗ trợ hoặc chia sẻ tài liệu đã hứa.",
         "Bản báo giá sản phẩm -> Yêu cầu chuyển tiền đặt cọc -> Hạn chót ký hợp đồng.",
-        "Lời chúc sức khỏe chung chung -> Bản CV xin việc -> Yêu cầu tuyển dụng.",
-        "Thư khen ngợi sáo rỗng -> Phàn nàn về chất lượng món ăn -> Hẹn gặp lại."
+        "Thư khen ngợi sáo rỗng -> Phàn nàn về chất lượng món ăn -> Hẹn gặp lại.",
+        "Lời cảm ơn chân thành -> Nhắc lại một chi tiết/câu chuyện thú vị cụ thể đã trao đổi -> Đề xuất một hành động hỗ trợ hoặc chia sẻ tài liệu đã hứa.",
+        "Lời chúc sức khỏe chung chung -> Bản CV xin việc -> Yêu cầu tuyển dụng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Cá nhân hóa bằng chi tiết cụ thể và mang lại giá trị thực tế (bài báo, lời giới thiệu) biến bức thư theo dõi thành một món quà tinh tế."
     },
     {
@@ -45,9 +45,9 @@
       "question": "Tại sao việc gửi một bức thư mẫu (Template) sao chép hàng loạt lại bị coi là 'nụ hôn thần chết' trong nghệ thuật theo dõi?",
       "options": [
         "Vì người nhận dễ dàng nhận ra sự lười biếng, vô cảm và tính toán thực dụng, khiến họ cảm thấy mình chỉ là một con số vô danh trong danh bạ của bạn.",
-        "Vì các hệ thống email sẽ tự động xóa tất cả các thư mẫu.",
+        "Vì việc dùng thư mẫu vi phạm bản quyền văn học.",
         "Vì thư mẫu luôn có dung lượng tệp quá nặng.",
-        "Vì việc dùng thư mẫu vi phạm bản quyền văn học."
+        "Vì các hệ thống email sẽ tự động xóa tất cả các thư mẫu."
       ],
       "correctIndex": 0,
       "explanation": "Không gì xúc phạm người nhận hơn một bức thư vô hồn sao chép hàng loạt; sự cá nhân hóa tỉ mỉ là thước đo của sự tôn trọng."
@@ -56,36 +56,36 @@
       "id": "q5",
       "question": "Khi bạn đã hứa gửi một cuốn sách, một bài viết hoặc giới thiệu một người bạn cho đối tác trong cuộc gặp, bạn cần thực hiện lời hứa đó khi nào?",
       "options": [
-        "Thực hiện ngay lập tức trong vòng 24 giờ cùng với bức thư cảm ơn để khẳng định bạn là người nói là làm và có chữ tín tuyệt đối.",
-        "Chờ đến khi đối tác nhắc lại lần thứ ba mới bắt đầu làm.",
         "Để dành lời hứa đó vào dịp Tết năm sau mới thực hiện.",
-        "Hủy bỏ lời hứa nếu thấy đối tác không chủ động liên lạc lại."
+        "Thực hiện ngay lập tức trong vòng 24 giờ cùng với bức thư cảm ơn để khẳng định bạn là người nói là làm và có chữ tín tuyệt đối.",
+        "Hủy bỏ lời hứa nếu thấy đối tác không chủ động liên lạc lại.",
+        "Chờ đến khi đối tác nhắc lại lần thứ ba mới bắt đầu làm."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Thực hiện lời hứa nhỏ một cách nhanh chóng là bằng chứng hùng hồn nhất cho thấy bạn xứng đáng được giao phó những trọng trách lớn."
     },
     {
       "id": "q6",
       "question": "Việc gửi một bức thiệp viết tay (Handwritten note) qua đường bưu điện mang lại giá trị độc đáo nào trong thời đại số hóa?",
       "options": [
-        "Nổi bật hoàn toàn giữa hàng trăm email vô cảm trong hộp thư rác, tạo cảm giác trân trọng đặc biệt và để lại ấn tượng sâu sắc không thể nào quên.",
-        "Giúp bạn tiết kiệm chi phí sử dụng internet và máy tính.",
+        "Bắt buộc đối tác phải viết thư tay trả lời lại cho bạn.",
         "Là cách duy nhất để thư từ không bị virus máy tính tấn công.",
-        "Bắt buộc đối tác phải viết thư tay trả lời lại cho bạn."
+        "Giúp bạn tiết kiệm chi phí sử dụng internet và máy tính.",
+        "Nổi bật hoàn toàn giữa hàng trăm email vô cảm trong hộp thư rác, tạo cảm giác trân trọng đặc biệt và để lại ấn tượng sâu sắc không thể nào quên."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Nét chữ tay mang hơi ấm con người và thời gian bạn bỏ ra; trong thế giới ngập tràn email rác, một cánh thiệp tay là viên ngọc quý của sự tao nhã."
     },
     {
       "id": "q7",
       "question": "Nếu sau khi gửi thư theo dõi mà bạn không nhận được phản hồi sau 1-2 tuần, hành động khôn ngoan tiếp theo là gì?",
       "options": [
-        "Nhẹ nhàng gửi một tin nhắn hoặc email ngắn hỏi thăm, chia sẻ thêm một thông tin mới hữu ích và không bao giờ tỏ thái độ trách móc hay giận dỗi.",
-        "Gửi email chỉ trích thái độ thiếu chuyên nghiệp của đối tác.",
         "Xóa vĩnh viễn thông tin của họ và không bao giờ liên lạc lại.",
-        "Đến tận văn phòng của họ để đòi lại bức thư đã gửi."
+        "Đến tận văn phòng của họ để đòi lại bức thư đã gửi.",
+        "Gửi email chỉ trích thái độ thiếu chuyên nghiệp của đối tác.",
+        "Nhẹ nhàng gửi một tin nhắn hoặc email ngắn hỏi thăm, chia sẻ thêm một thông tin mới hữu ích và không bao giờ tỏ thái độ trách móc hay giận dỗi."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Họ không trả lời thường vì họ quá bận, chứ không phải vì ghét bạn; kiên trì theo đuổi với sự nhã nhặn và giá trị mới sẽ kích hoạt lại phản hồi."
     },
     {
@@ -93,9 +93,9 @@
       "question": "Một nhân viên bán hàng xuất sắc sử dụng hệ thống theo dõi (CRM/Reminder) như thế nào để không bao giờ bỏ quên khách hàng?",
       "options": [
         "Lên lịch nhắc nhở định kỳ (sau 1 tuần, 1 tháng, 3 tháng) gắn liền với các sự kiện quan trọng của khách hàng để 'làm ấm' quan hệ liên tục.",
-        "Cài đặt chuông báo thức gọi điện thoại cho khách hàng mỗi sáng lúc 6 giờ.",
+        "Chỉ liên hệ lại khi sản phẩm của công ty bị giảm giá sâu.",
         "Lưu toàn bộ danh bạ vào trí nhớ mà không cần bất kỳ công cụ hỗ trợ nào.",
-        "Chỉ liên hệ lại khi sản phẩm của công ty bị giảm giá sâu."
+        "Cài đặt chuông báo thức gọi điện thoại cho khách hàng mỗi sáng lúc 6 giờ."
       ],
       "correctIndex": 0,
       "explanation": "Hệ thống hóa quy trình theo dõi giúp bạn quản lý hàng trăm khách hàng một cách mượt mà, biến sự chuyên nghiệp thành thói quen tự động."
@@ -105,9 +105,9 @@
       "question": "Tại sao việc kết nối với đối tác trên các nền tảng mạng xã hội chuyên nghiệp (như LinkedIn) ngay sau cuộc gặp lại là bước theo dõi thông minh?",
       "options": [
         "Tạo thêm một kênh tương tác đa chiều, giúp đối tác liên tục nhìn thấy các hoạt động chuyên môn và giá trị mà bạn chia sẻ theo thời gian.",
-        "Để bạn có thể kiểm tra xem họ có đang tìm việc làm mới hay không.",
         "Để đối tác tự động trở thành nhân viên dưới quyền của bạn.",
-        "Vì các nền tảng mạng xã hội sẽ trả tiền hoa hồng cho bạn khi kết bạn mới."
+        "Vì các nền tảng mạng xã hội sẽ trả tiền hoa hồng cho bạn khi kết bạn mới.",
+        "Để bạn có thể kiểm tra xem họ có đang tìm việc làm mới hay không."
       ],
       "correctIndex": 0,
       "explanation": "Mạng xã hội đóng vai trò là kênh duy trì sự hiện diện nhẹ nhàng, giúp bạn luôn nằm trong tầm mắt của đối tác một cách tự nhiên."
@@ -116,72 +116,72 @@
       "id": "q10",
       "question": "Điều gì là thước đo cho một chiến dịch theo dõi thành công sau một hội nghị lớn có 100 người tham dự?",
       "options": [
-        "Biến được 10-15 mối liên hệ tiềm năng thành các cuộc hẹn gặp 1-1 thực chất hoặc các dự án hợp tác cụ thể trong vòng 1 tháng sau hội nghị.",
-        "Gửi email chào hàng tự động thành công cho tất cả 100 người.",
         "Thu thập được đủ 100 chiếc danh thiếp để trưng bày trên bàn làm việc.",
-        "Được ban tổ chức hội nghị trao giải thưởng người giao tiếp nhiều nhất."
+        "Biến được 10-15 mối liên hệ tiềm năng thành các cuộc hẹn gặp 1-1 thực chất hoặc các dự án hợp tác cụ thể trong vòng 1 tháng sau hội nghị.",
+        "Được ban tổ chức hội nghị trao giải thưởng người giao tiếp nhiều nhất.",
+        "Gửi email chào hàng tự động thành công cho tất cả 100 người."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Thành công của hội nghị không nằm ở số lượng danh thiếp thu về, mà ở số lượng mối quan hệ thực chất được chuyển hóa sau cánh cửa hội trường."
     },
     {
       "id": "q11",
       "question": "Khi gửi thư theo dõi cho một vị lãnh đạo cấp cao, độ dài lý tưởng của email nên là bao nhiêu?",
       "options": [
+        "Dài bao nhiêu cũng được miễn là có đính kèm toàn bộ luận văn tốt nghiệp của bạn.",
         "Cực kỳ súc tích: khoảng 3 đến 5 đoạn văn ngắn gọn, đi thẳng vào trọng tâm và có thể đọc hết trên màn hình điện thoại trong 30 giây.",
         "Một bức tâm thư dài ít nhất 5 trang A4 để thể hiện sự ngưỡng mộ sâu sắc.",
-        "Chỉ một từ duy nhất 'Cảm ơn' không kèm theo bất kỳ nội dung nào khác.",
-        "Dài bao nhiêu cũng được miễn là có đính kèm toàn bộ luận văn tốt nghiệp của bạn."
+        "Chỉ một từ duy nhất 'Cảm ơn' không kèm theo bất kỳ nội dung nào khác."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Người bận rộn yêu thích sự ngắn gọn; tôn trọng thời gian của họ bằng một bức thư súc tích là cách nhanh nhất để nhận được phản hồi."
     },
     {
       "id": "q12",
       "question": "Nghệ thuật 'Theo dõi 2 bước' (Two-step Follow-up) của Keith Ferrazzi được áp dụng như thế nào?",
       "options": [
-        "Bước 1: Gửi email cảm ơn nhanh trong 24 giờ; Bước 2: Gửi bài báo/tài liệu giá trị hoặc thực hiện lời giới thiệu đã hứa sau 3-5 ngày.",
         "Bước 1: Gọi điện thoại; Bước 2: Đến tận nhà đối tác nếu họ không nghe máy.",
-        "Bước 1: Mượn tiền; Bước 2: Trả lại tiền sau 10 năm.",
-        "Bước 1: Gửi hoa; Bước 2: Đòi lại hoa nếu đối tác từ chối hợp tác."
+        "Bước 1: Gửi hoa; Bước 2: Đòi lại hoa nếu đối tác từ chối hợp tác.",
+        "Bước 1: Gửi email cảm ơn nhanh trong 24 giờ; Bước 2: Gửi bài báo/tài liệu giá trị hoặc thực hiện lời giới thiệu đã hứa sau 3-5 ngày.",
+        "Bước 1: Mượn tiền; Bước 2: Trả lại tiền sau 10 năm."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Tạo ra 2 điểm chạm liên tiếp với giá trị gia tăng giúp khắc sâu ấn tượng và biến người mới quen thành một người bạn đồng hành thực thụ."
     },
     {
       "id": "q13",
       "question": "Tại sao việc theo dõi lại giúp bạn bảo vệ được khoản đầu tư thời gian và tiền bạc đã bỏ ra cho cuộc gặp trước đó?",
       "options": [
-        "Vì nếu không theo dõi, toàn bộ chi phí đi lại, ăn uống và thời gian chuẩn bị cho cuộc gặp sẽ trở nên hoàn toàn vô ích khi mối quan hệ chết yểu.",
-        "Vì bạn có thể yêu cầu đối tác hoàn trả lại chi phí bữa ăn nếu cuộc gặp không thành công.",
         "Vì các công ty bảo hiểm chỉ bồi thường khi bạn có bằng chứng đã gửi thư theo dõi.",
-        "Vì việc theo dõi giúp bạn được miễn thuế thu nhập doanh nghiệp."
+        "Vì việc theo dõi giúp bạn được miễn thuế thu nhập doanh nghiệp.",
+        "Vì bạn có thể yêu cầu đối tác hoàn trả lại chi phí bữa ăn nếu cuộc gặp không thành công.",
+        "Vì nếu không theo dõi, toàn bộ chi phí đi lại, ăn uống và thời gian chuẩn bị cho cuộc gặp sẽ trở nên hoàn toàn vô ích khi mối quan hệ chết yểu."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Không theo dõi giống như cày xới, gieo hạt rồi bỏ mặc cho cây non khô héo; theo dõi chính là bảo hiểm cho sự thành công của mọi nỗ lực kết nối."
     },
     {
       "id": "q14",
       "question": "Một người quản lý muốn huấn luyện nhân viên về kỹ năng theo dõi nên đặt ra chỉ số KPI nào sau đây?",
       "options": [
-        "100% các cuộc gặp gỡ đối tác/khách hàng phải có email theo dõi cá nhân hóa được gửi đi trong vòng 24 giờ và cập nhật nhật ký vào hệ thống.",
-        "Số lượng email gửi đi mỗi ngày phải đạt ít nhất 1.000 thư rác.",
+        "Nhân viên không được phép về nhà nếu chưa nhận được email trả lời của khách hàng.",
         "Thời gian của mỗi cuộc gọi điện thoại theo dõi phải kéo dài trên 60 phút.",
-        "Nhân viên không được phép về nhà nếu chưa nhận được email trả lời của khách hàng."
+        "Số lượng email gửi đi mỗi ngày phải đạt ít nhất 1.000 thư rác.",
+        "100% các cuộc gặp gỡ đối tác/khách hàng phải có email theo dõi cá nhân hóa được gửi đi trong vòng 24 giờ và cập nhật nhật ký vào hệ thống."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Thiết lập tiêu chuẩn 24 giờ biến việc theo dõi thành một phản xạ tự nhiên và chuẩn mực văn hóa dịch vụ xuất sắc của doanh nghiệp."
     },
     {
       "id": "q15",
       "question": "Tóm lại, thông điệp cốt lõi của chương 13 có thể gói gọn trong công thức thành công nào?",
       "options": [
-        "Gặp gỡ đúng người + Chuẩn bị chu đáo + Theo dõi kiên định trong 24 giờ = Mối quan hệ vàng trọn đời.",
-        "Gặp gỡ ngẫu nhiên + Nói chuyện thật nhiều = Thành công tức thì.",
         "Không cần gặp gỡ + Chỉ gửi email hàng loạt = Hợp đồng lớn.",
+        "Gặp gỡ ngẫu nhiên + Nói chuyện thật nhiều = Thành công tức thì.",
+        "Gặp gỡ đúng người + Chuẩn bị chu đáo + Theo dõi kiên định trong 24 giờ = Mối quan hệ vàng trọn đời.",
         "Đầu tư tiền bạc + Mời ăn tiệc xa hoa = Niềm tin vĩnh cửu."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Theo dõi không phải là một công việc phụ; nó chính là nhịp cầu quyết định biến mọi cuộc gặp gỡ tình cờ thành những kỳ tích sự nghiệp."
     }
   ]

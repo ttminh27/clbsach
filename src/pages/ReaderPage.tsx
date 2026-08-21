@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate, Link } from 'react-router-dom';
 import { ReaderToolbar } from '../components/reader/ReaderToolbar';
 import { MarkdownViewer } from '../components/reader/MarkdownViewer';
 import { TableOfContentsDrawer } from '../components/reader/TableOfContentsDrawer';
@@ -9,7 +9,7 @@ import booksData from '../data/books-manifest.json';
 import { Book, Chapter } from '../types/book';
 import { useHistory } from '../context/HistoryContext';
 import { useAudio } from '../context/AudioContext';
-import { Loader2, AlertCircle } from 'lucide-react';
+import { Loader2, AlertCircle, Home } from 'lucide-react';
 
 const books: Book[] = booksData as Book[];
 
@@ -105,12 +105,23 @@ export const ReaderPage: React.FC = () => {
         <h3 className="text-xl font-bold text-slate-900 dark:text-white">
           Chương không tồn tại
         </h3>
-        <button
-          onClick={() => navigate(book ? `/book/${book.id}` : '/')}
-          className="mt-4 rounded-xl bg-emerald-600 px-5 py-2.5 text-xs font-bold text-white"
-        >
-          Quay lại
-        </button>
+        <div className="mt-4 flex items-center justify-center gap-3">
+          <Link
+            to="/"
+            className="inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-800 px-4 py-2.5 text-xs font-bold text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+          >
+            <Home className="h-4 w-4" />
+            Về Trang chủ
+          </Link>
+          {book && (
+            <Link
+              to={`/book/${book.id}`}
+              className="rounded-xl bg-emerald-600 px-5 py-2.5 text-xs font-bold text-white hover:bg-emerald-500 transition-colors"
+            >
+              Chi tiết sách
+            </Link>
+          )}
+        </div>
       </div>
     );
   }

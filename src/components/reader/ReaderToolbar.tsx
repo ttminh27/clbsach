@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import {
+  Home,
   ArrowLeft,
   List,
   Type,
@@ -52,8 +53,17 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
       </div>
 
       <div className="mx-auto flex h-14 max-w-5xl items-center justify-between px-3 sm:px-6">
-        {/* Left: Back & TOC */}
-        <div className="flex items-center gap-2">
+        {/* Left: Home, Back & TOC */}
+        <div className="flex items-center gap-1.5 sm:gap-2">
+          <Link
+            to="/"
+            className="flex items-center gap-1.5 rounded-lg p-2 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-colors"
+            title="Về Trang chủ"
+          >
+            <Home className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+            <span className="hidden sm:inline">Trang chủ</span>
+          </Link>
+
           <Link
             to={`/book/${book.id}`}
             className="flex items-center gap-1.5 rounded-lg p-2 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-colors"

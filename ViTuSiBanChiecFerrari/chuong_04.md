@@ -1,0 +1,27 @@
+# Chương 4
+## Cuộc Gặp Gỡ Kỳ Diệu Với Các Nhà Hiền Triết Sivana
+
+Sau nhiều giờ đi bộ dọc theo các con đường quanh co và những lối mòn đầy cỏ dại, hai lữ khách đã đến một thung lũng xanh mướt căng đầy sức sống. Bên này thung lũng, dãy Hy Mã Lạp Sơn phủ tuyết trắng mang đến sự che chở như những người lính dạn dày sương gió đang bảo vệ chốn dừng chân của các vị tướng lĩnh. Bên kia thung lũng, rừng thông rậm rạp vươn cao như món quà hoàn hảo của thiên nhiên dành cho vùng đất kỳ lạ làm say đắm lòng người này.
+
+Nhà hiền triết nhìn Julian và mỉm cười hiền hòa, “Chào mừng đến với Cõi Niết Bàn Sivana”.
+
+Sau đó, hai người men theo một con đường khác cũng ít dấu chân người để đi xuống khu rừng rậm rạp ở đáy thung lũng. Mùi gỗ thông và đàn hương phảng phất trong bầu không khí mát lành của núi rừng. Vốn đang đi chân trần để xoa dịu đôi bàn chân đau nhức, lúc này Julian cảm nhận được thảm rêu ẩm ướt bên dưới những ngón chân. Anh ngạc nhiên khi nhìn thấy những hoa phong lan đủ màu sắc rực rỡ và rất nhiều loài hoa xinh đẹp khác đang đong đưa giữa những hàng cây, như thể hiện niềm hân hoan trước vẻ đẹp lộng lẫy của Thiên Đường nhỏ bé này.
+
+Từ xa, Julian có thể nghe thấy những giọng nói dịu dàng, nhẹ nhàng và êm tai. Anh tiếp tục đi theo nhà hiền triết, cố gắng không phát ra tiếng động nào. Sau khi đi thêm khoảng mười lăm phút, hai người đến một khoảng rừng trống. Trước mắt anh là khung cảnh mà ngay cả một Julian Mantle trải đời và hiếm khi bị bất ngờ cũng chưa bao giờ tưởng tượng được – một ngôi làng nhỏ được xây bằng một vật liệu duy nhất trông như những bông hoa hồng. Ở trung tâm của ngôi làng là một ngôi đền nhỏ, kiểu đền mà Julian từng nhìn thấy trong những chuyến du lịch đến Thái Lan và Nepal, nhưng ngôi đền này được làm từ các loại hoa màu trắng, hồng và đỏ kết lại với nhau bằng những sợi dây dài đủ màu sắc và mấy cành cây nhỏ. Những túp lều nhỏ nằm rải rác trong phần không gian còn lại của ngôi làng có vẻ là những căn nhà giản dị của các nhà hiền triết. Những túp lều này cũng được làm bằng hoa hồng. Julian không thể thốt nên lời.
+
+Các tu sĩ sống trong làng mà Julian có thể nhìn thấy đều có vẻ ngoài giống như người bạn đồng hành của anh – người mà giờ đây đã tiết lộ danh tính của ông là Yogi Raman. Ông giải thích với Julian rằng ông là nhà hiền triết cao tuổi nhất ở Sivana và là người đứng đầu cộng đồng này. Cư dân của vùng đất đáng mơ ước này trông trẻ trung đến kỳ lạ và di chuyển trong tư thế đĩnh đạc đầy dứt khoát. Họ không nói chuyện mà lựa chọn tôn trọng sự tĩnh lặng nơi đây bằng cách làm việc trong yên lặng.
+
+Những người đàn ông ở đây – có vẻ chỉ vỏn vẹn mười người – mặc cùng một kiểu áo choàng dài màu đỏ giống như Yogi Raman và mỉm cười ôn hòa với Julian khi anh đi vào làng. Họ đều trông điềm tĩnh, khỏe mạnh và vô cùng mãn nguyện. Dường như những căng thẳng đang đeo bám rất nhiều người chúng ta trong thế giới hiện đại đã cảm nhận được rằng chúng không được chào đón ở nơi thanh bình này nên đã tự biến mất. Mặc dù đã rất nhiều năm rồi mới có một khuôn mặt mới xuất hiện nơi đây, nhưng những người đàn ông này vẫn rất chừng mực – họ chỉ đơn giản cúi chào để thể hiện sự chào đón đối với vị khách của mình, người đã phải đi qua một hành trình dài để tìm ra họ.
+
+Những người phụ nữ ở nơi đây cũng ấn tượng không kém. Họ tất bật di chuyển khắp ngôi làng với sự nhanh nhẹn hiếm thấy trong bộ sari(2) lụa màu hồng dài rũ và với những bông sen trắng tô điểm mái tóc đen tuyền. Tuy nhiên, đó không phải là sự bận rộn điên cuồng đang xâm chiếm cuộc sống con người trong xã hội chúng ta. Thay vào đó, họ khẩn trương một cách rất nhẹ nhàng và trang nhã. Với sự tập trung mang dáng dấp thiền định, một số người phụ nữ làm việc bên trong ngôi đền, chuẩn bị cho một sự kiện có vẻ là lễ hội. Những người khác thì đang khuân củi và vận chuyển những tấm thảm dệt đầy màu sắc. Tất cả đều hăng say lao động một cách hiệu quả. Tất cả đều có vẻ rất hạnh phúc.
+
+
+---
+
+(2) Sari là trang phục của phụ nữ Ấn Độ.
+
+Trên hết, gương mặt của các nhà hiền triết Sivana đã tiết lộ sức mạnh của lối sống mà họ theo đuổi. Mặc dù họ rõ ràng là người trưởng thành, nhưng mỗi người đều toát lên nét thơ trẻ, đôi mắt họ lấp lánh nguồn sinh lực thanh xuân. Không ai có nếp nhăn trên mặt. Không ai có tóc bạc. Không ai có vẻ già.
+
+Julian, người vẫn còn chưa thể tin được những gì mình đang trải nghiệm, đã được thết đãi một bữa tiệc trái cây tươi và các loại rau củ mới lạ, một chế độ dinh dưỡng mà sau này anh mới biết chính là một trong những bí quyết mang đến sức khỏe lý tưởng cho các nhà hiền triết. Sau bữa ăn, Yogi Raman dẫn Julian về nơi ở của anh: một túp lều đầy hoa có một chiếc giường nhỏ bên trong và trên giường đặt một tập giấy để ghi chép. Đây sẽ là nhà của anh trong tương lai trước mắt.
+
+Mặc dù chưa từng thấy một thế giới kỳ diệu như ở Sivana, nhưng bằng cách nào đó Julian vẫn có cảm giác như được trở về nhà, trở về thiên đường mà anh đã từng biết cách đây rất lâu rồi. Vì một lý do nào đó, ngôi làng hoa hồng này không quá xa lạ đối với anh. Trực giác mách bảo rằng anh thuộc về nơi này, dù chỉ trong một thời gian ngắn. Đây sẽ là nơi anh nhen nhóm lại ngọn lửa nhiệt huyết mà anh từng biết đến trước khi bị ngành luật cướp mất linh hồn, một thánh địa nơi tâm hồn vụn vỡ của anh sẽ dần được chữa lành. Và thế là quãng đời sống giữa các nhà hiền triết Sivana của Julian bắt đầu, một cuộc sống giản dị, thanh bình và hài hòa. Những điều tốt đẹp nhất sẽ đến trong một ngày không xa.

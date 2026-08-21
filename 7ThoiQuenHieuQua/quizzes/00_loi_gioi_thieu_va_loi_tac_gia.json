@@ -8,96 +8,96 @@
       "id": "q1",
       "question": "Stephen R. Covey khẳng định ông không phải là 'người phát minh' ra 7 thói quen mà chỉ là người nhận diện và sắp xếp chúng. Luận điểm này phản ánh điều cốt lõi gì về bản chất của các nguyên tắc?",
       "options": [
-        "Các nguyên tắc quản trị là những quy luật tự nhiên khách quan, bất biến theo thời gian, tồn tại độc lập với ý chí chủ quan của con người.",
-        "Các nguyên tắc thành công chỉ là sản phẩm của các trào lưu xã hội nhất thời trong thế kỷ 20.",
         "Mỗi nền văn hóa cần phải sáng tạo ra một bộ quy tắc thành công hoàn toàn mới lạ để phù hợp với thời đại.",
-        "Việc đúc kết các quy tắc chỉ nhằm mục đích đơn giản hóa tài liệu giảng dạy chứ không mang giá trị quy luật."
+        "Các nguyên tắc thành công chỉ là sản phẩm của các trào lưu xã hội nhất thời trong thế kỷ 20.",
+        "Việc đúc kết các quy tắc chỉ nhằm mục đích đơn giản hóa tài liệu giảng dạy chứ không mang giá trị quy luật.",
+        "Các nguyên tắc quản trị là những quy luật tự nhiên khách quan, bất biến theo thời gian, tồn tại độc lập với ý chí chủ quan của con người."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Covey nhấn mạnh các nguyên tắc cốt lõi (principles) là các quy luật tự nhiên hiển nhiên và vĩnh cửu trong lịch sử nhân loại; con người chỉ có thể phát hiện và thuận theo để đạt thành công bền vững chứ không thể tự 'chế tạo' ra chúng."
     },
     {
       "id": "q2",
       "question": "Theo chuỗi phản ứng dây chuyền: 'Suy nghĩ -> Hành động -> Thói quen -> Tính cách -> Số phận', tại sao 'Thói quen' lại được xem là đòn bẩy có tính quyết định nhất?",
       "options": [
-        "Vì thói quen vận hành trong phạm trù vô thức, có tính bền vững cao và âm thầm định hình toàn bộ phản xạ sống hàng ngày.",
-        "Vì thói quen là yếu tố duy nhất có thể thay đổi chỉ trong một đêm mà không cần rèn luyện.",
+        "Vì thói quen giúp con người không cần phải tư duy hay chịu trách nhiệm về các quyết định của mình.",
         "Vì suy nghĩ chỉ mang tính lý thuyết, hoàn toàn không có liên hệ gì với kết quả thực tế của một đời người.",
-        "Vì thói quen giúp con người không cần phải tư duy hay chịu trách nhiệm về các quyết định của mình."
+        "Vì thói quen vận hành trong phạm trù vô thức, có tính bền vững cao và âm thầm định hình toàn bộ phản xạ sống hàng ngày.",
+        "Vì thói quen là yếu tố duy nhất có thể thay đổi chỉ trong một đêm mà không cần rèn luyện."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Thói quen là các mô thức hành vi lặp đi lặp lại đã ăn sâu vào tiềm thức, tạo nên tính ổn định cho nhân cách và chi phối trực tiếp quỹ đạo cuộc sống hàng ngày."
     },
     {
       "id": "q3",
       "question": "Khi chuyển từ thời đại công nghiệp sang thời đại kinh tế tri thức và công nghệ số, tại sao các thách thức con người đối mặt 'không chỉ khác về lượng mà còn khác về chất'?",
       "options": [
-        "Vì các biến động với tốc độ cực nhanh và áp lực cạnh tranh toàn cầu đòi hỏi con người phải liên tục tự đổi mới và dựa vào các nguyên tắc nền tảng thay vì chỉ dựa vào kỹ năng công cụ.",
         "Vì máy móc tự động hóa đã làm giảm hoàn toàn nhu cầu giao tiếp và hợp tác giữa con người.",
+        "Vì các nguyên lý đạo đức truyền thống đã bị lỗi thời trước sự phát triển của công nghệ.",
         "Vì con người trong thời đại số không còn cần đến sự tự chủ cá nhân mà hoàn toàn phụ thuộc vào thuật toán.",
-        "Vì các nguyên lý đạo đức truyền thống đã bị lỗi thời trước sự phát triển của công nghệ."
+        "Vì các biến động với tốc độ cực nhanh và áp lực cạnh tranh toàn cầu đòi hỏi con người phải liên tục tự đổi mới và dựa vào các nguyên tắc nền tảng thay vì chỉ dựa vào kỹ năng công cụ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Thời đại kỹ thuật số mang đến sự phức tạp và tốc độ thay đổi chưa từng có; nếu chỉ áp dụng các giải pháp chắp vá bề mặt (Personality Ethic), con người sẽ nhanh chóng rơi vào khủng hoảng và bế tắc."
     },
     {
       "id": "q4",
       "question": "Trước câu hỏi: 'Có ai trước khi trút hơi thở cuối cùng ước mình có thêm thời gian để làm việc ở văn phòng hay xem ti-vi không?', tác giả muốn người đọc suy ngẫm sâu sắc về điều gì?",
       "options": [
-        "Sự lệch lạc trong thang giá trị ưu tiên: Con người thường mải mê theo đuổi những thứ vụn vặt nhất thời mà bỏ quên các mối quan hệ cốt lõi và sứ mệnh phụng sự.",
         "Lời khuyên nên từ bỏ mọi công việc công sở để tận hưởng cuộc sống tự do tuyệt đối.",
         "Sự phủ nhận hoàn toàn vai trò của thành tựu kinh tế đối với đời sống gia đình.",
+        "Sự lệch lạc trong thang giá trị ưu tiên: Con người thường mải mê theo đuổi những thứ vụn vặt nhất thời mà bỏ quên các mối quan hệ cốt lõi và sứ mệnh phụng sự.",
         "Việc công nghệ giải trí là nguyên nhân duy nhất dẫn đến sự thất bại trong sự nghiệp."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Covey nhắc nhở rằng ý nghĩa tối thượng của cuộc đời nằm ở tình yêu thương gia đình, sự kết nối sâu sắc và những giá trị cống hiến cho tha nhân, chứ không phải số giờ làm việc hay tích lũy của cải vô hồn."
     },
     {
       "id": "q5",
       "question": "Việc Abraham Maslow ở cuối đời bổ sung khái niệm 'Bản ngã siêu việt' (Self-transcendence) lên trên 'Tự khẳng định bản thân' (Self-actualization) chứng minh chân lý nào trong triết lý của Covey?",
       "options": [
-        "Hạnh phúc và sự viên mãn cao nhất chỉ đạt được khi cá nhân vượt qua cái tôi vị kỷ để cống hiến và phụng sự vì lợi ích chung của cộng đồng.",
         "Mỗi cá nhân chỉ nên tập trung tối đa hóa lợi ích bản thân trước khi nghĩ đến người khác.",
         "Tháp nhu cầu của con người chỉ dừng lại ở việc đáp ứng các nhu cầu vật chất cơ bản.",
-        "Sự phát triển cá nhân là mục đích cuối cùng của sự tồn tại mà không cần quan tâm đến thế hệ tương lai."
+        "Sự phát triển cá nhân là mục đích cuối cùng của sự tồn tại mà không cần quan tâm đến thế hệ tương lai.",
+        "Hạnh phúc và sự viên mãn cao nhất chỉ đạt được khi cá nhân vượt qua cái tôi vị kỷ để cống hiến và phụng sự vì lợi ích chung của cộng đồng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Bản ngã siêu việt (Self-transcendence) chỉ ra rằng đỉnh cao của sự trưởng thành không phải là thỏa mãn cái tôi cá nhân, mà là cống hiến di sản và tạo giá trị cho tha nhân."
     },
     {
       "id": "q6",
       "question": "Câu châm ngôn: 'Học mà không hành thì không phải là thực học, biết mà không làm thì không thật sự là biết' đặt ra yêu cầu gì đối với người tiếp cận 7 thói quen?",
       "options": [
-        "Việc tiếp thu tri thức chỉ thực sự có giá trị khi nó được chuyển hóa thành hành động cụ thể và lối sống thực tế hàng ngày.",
         "Chỉ cần đọc thật nhiều lần cuốn sách là tự khắc cuộc sống sẽ thay đổi mà không cần thực hành.",
+        "Người đọc chỉ nên ghi nhớ các định nghĩa để phục vụ việc tranh luận học thuật.",
         "Lý thuyết quản trị luôn tách rời và mâu thuẫn với các tình huống thực tế.",
-        "Người đọc chỉ nên ghi nhớ các định nghĩa để phục vụ việc tranh luận học thuật."
+        "Việc tiếp thu tri thức chỉ thực sự có giá trị khi nó được chuyển hóa thành hành động cụ thể và lối sống thực tế hàng ngày."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Hiểu biết thực sự (true internalization) đòi hỏi sự cam kết thực hành; nếu chỉ dừng lại ở nhận thức lý thuyết suông thì không thể tạo ra sự chuyển biến nội tâm hay cải thiện tính cách."
     },
     {
       "id": "q7",
       "question": "Tại sao Stephen Covey lại mô tả việc sống theo 7 thói quen là 'một cuộc đấu tranh không ngừng'?",
       "options": [
-        "Vì khi bạn càng tiến bộ và đạt tới tầm mức cao hơn, bản chất các thách thức bạn đối mặt cũng biến đổi phức tạp hơn.",
-        "Vì các nguyên tắc trong sách rất khó áp dụng và chỉ dành riêng cho những nhà lãnh đạo cấp cao.",
         "Vì môi trường xung quanh sẽ luôn tìm cách ngăn cản bạn sống có đạo đức.",
+        "Vì các nguyên tắc trong sách rất khó áp dụng và chỉ dành riêng cho những nhà lãnh đạo cấp cao.",
+        "Vì khi bạn càng tiến bộ và đạt tới tầm mức cao hơn, bản chất các thách thức bạn đối mặt cũng biến đổi phức tạp hơn.",
         "Vì việc hình thành thói quen tốt đòi hỏi bạn phải từ bỏ hoàn toàn các niềm vui cá nhân."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Sự trưởng thành là một quá trình phát triển tiệm tiến liên tục (spiral upward); mỗi nấc thang phát triển mới sẽ mở ra những bối cảnh và thách thức sâu sắc hơn đòi hỏi năng lực ứng biến cao hơn."
     },
     {
       "id": "q8",
       "question": "Ví dụ về người cháu gái Shannon tình nguyện đến Rumani giúp đỡ trẻ mồ côi được tác giả đưa ra nhằm minh họa cho bài học nào?",
       "options": [
-        "Sức mạnh lan tỏa của việc giáo dục gia đình dựa trên nguyên tắc sống cống hiến và vượt lên trên sự vị kỷ tầm thường.",
         "Thanh niên trẻ tuổi nên đi du lịch nước ngoài càng nhiều càng tốt để tích lũy trải nghiệm.",
-        "Các hoạt động thiện nguyện là cách duy nhất để xây dựng thương hiệu cá nhân.",
-        "Việc sống ở các quốc gia phát triển luôn khiến con người cảm thấy nhàm chán."
+        "Việc sống ở các quốc gia phát triển luôn khiến con người cảm thấy nhàm chán.",
+        "Sức mạnh lan tỏa của việc giáo dục gia đình dựa trên nguyên tắc sống cống hiến và vượt lên trên sự vị kỷ tầm thường.",
+        "Các hoạt động thiện nguyện là cách duy nhất để xây dựng thương hiệu cá nhân."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Hình ảnh thế hệ trẻ trong gia đình Covey lựa chọn lối sống cống hiến chứng minh rằng khi các nguyên tắc sống đúng đắn được thấm nhuần, chúng sẽ sản sinh ra những thế hệ sống có lý tưởng cao đẹp."
     },
     {
@@ -105,8 +105,8 @@
       "question": "Theo phân tích của Covey, điều gì khiến nhiều người cảm thấy bế tắc dù họ đã đọc rất nhiều sách kỹ năng và làm việc cực kỳ chăm chỉ?",
       "options": [
         "Họ đang áp dụng những giải pháp ngắn hạn bề mặt (quick-fix) lên những vấn đề có gốc rễ sâu xa từ tính cách và mô thức tư duy.",
-        "Họ chưa đầu tư đủ tiền bạc vào các khóa học đắt tiền.",
         "Họ thiếu sự may mắn và cơ hội thuận lợi từ thị trường kinh tế.",
+        "Họ chưa đầu tư đủ tiền bạc vào các khóa học đắt tiền.",
         "Họ làm việc quá nhiều giờ mà không có thời gian nghỉ ngơi giải trí."
       ],
       "correctIndex": 0,
@@ -116,60 +116,60 @@
       "id": "q10",
       "question": "Một người cho rằng: 'Tôi chỉ cần tập trung rèn luyện kỹ năng đàm phán sắc bén là có thể thành công trong mọi thương vụ mà không cần quan tâm đến sự trung thực'. Quan điểm này vi phạm nguyên lý nào được nêu trong lời mở đầu?",
       "options": [
-        "Sự gắn kết hữu cơ giữa Tính cách (Character) và Kỹ năng (Skill): Kỹ năng không có đạo đức nền tảng sẽ sớm biến thành sự thao túng và hủy hoại niềm tin bền vững.",
-        "Quy luật cung cầu trong thị trường kinh doanh tự do.",
         "Nguyên tắc bảo toàn năng lượng trong giao tiếp xã hội.",
-        "Tư duy độc lập tuyệt đối của người làm kinh doanh hiện đại."
+        "Tư duy độc lập tuyệt đối của người làm kinh doanh hiện đại.",
+        "Sự gắn kết hữu cơ giữa Tính cách (Character) và Kỹ năng (Skill): Kỹ năng không có đạo đức nền tảng sẽ sớm biến thành sự thao túng và hủy hoại niềm tin bền vững.",
+        "Quy luật cung cầu trong thị trường kinh doanh tự do."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Kỹ năng chỉ là công cụ; nếu thiếu tính chính trực và đạo đức nền tảng, các kỹ thuật đàm phán sẽ trở thành công cụ vụ lợi ngắn hạn, sớm muộn sẽ phá vỡ uy tín lâu dài."
     },
     {
       "id": "q11",
       "question": "Tại sao phương pháp tiếp cận 'Lấy nguyên tắc làm trọng tâm' (Principle-Centered Approach) lại là giải pháp tối ưu nhất khi đối mặt với sự sợ hãi và bất an trong thời đại mới?",
       "options": [
-        "Vì các nguyên tắc tự nhiên là chiếc mỏ neo bất biến, không bị chao đảo bởi sự thay đổi của hoàn cảnh kinh tế hay tâm lý số đông.",
-        "Vì nó giúp con người loại bỏ hoàn toàn mọi rủi ro trong đầu tư tài chính.",
         "Vì nó đảm bảo người thực hành sẽ luôn nhận được sự đồng thuận tuyệt đối từ mọi người xung quanh.",
-        "Vì nó cung cấp các câu trả lời tự động cho mọi tình huống mà không cần tư duy."
+        "Vì nó giúp con người loại bỏ hoàn toàn mọi rủi ro trong đầu tư tài chính.",
+        "Vì nó cung cấp các câu trả lời tự động cho mọi tình huống mà không cần tư duy.",
+        "Vì các nguyên tắc tự nhiên là chiếc mỏ neo bất biến, không bị chao đảo bởi sự thay đổi của hoàn cảnh kinh tế hay tâm lý số đông."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Khi lấy các nguyên tắc bất biến (như chính trực, công bằng, phát triển, phụng sự) làm kim chỉ nam, con người sẽ sở hữu sự bình an nội tại và định hướng rõ ràng giữa một thế giới đầy biến động."
     },
     {
       "id": "q12",
       "question": "Khi đối mặt với thách thức 'Khao khát được lắng nghe' trong xã hội hiện đại, sai lầm phổ biến nhất của hầu hết mọi người là gì?",
       "options": [
-        "Chuẩn bị sẵn câu trả lời hoặc ý kiến phản bác trong đầu khi người khác đang nói, thay vì thực sự tập trung thấu cảm quan điểm của họ.",
-        "Nói quá nhỏ khiến đối phương không thể nghe rõ thông điệp.",
+        "Ghi chép lại toàn bộ cuộc hội thoại bằng thiết bị ghi âm chuyên nghiệp.",
         "Dành quá nhiều thời gian để lắng nghe mà không bày tỏ ý kiến cá nhân.",
-        "Ghi chép lại toàn bộ cuộc hội thoại bằng thiết bị ghi âm chuyên nghiệp."
+        "Nói quá nhỏ khiến đối phương không thể nghe rõ thông điệp.",
+        "Chuẩn bị sẵn câu trả lời hoặc ý kiến phản bác trong đầu khi người khác đang nói, thay vì thực sự tập trung thấu cảm quan điểm của họ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Phần lớn mọi người lắng nghe không phải với ý định thấu hiểu chân thành mà với tâm thế chuẩn bị đối đáp, bảo vệ cái tôi hoặc áp đặt giải pháp của mình lên người khác."
     },
     {
       "id": "q13",
       "question": "Thách thức về 'Ước muốn và tham vọng sở hữu' trong nền kinh tế tiêu dùng dẫn đến cạm bẫy tâm lý nguy hiểm nào?",
       "options": [
-        "Chạy theo việc thỏa mãn các nhu cầu trước mắt bằng nợ nần mà hy sinh năng lực sản xuất và sự phát triển bền vững trong dài hạn.",
+        "Đầu tư quá nhiều vào việc học tập và nâng cao trình độ chuyên môn.",
         "Tiết kiệm quá mức khiến dòng tiền trong xã hội bị đình trệ.",
-        "Từ chối sử dụng các tiện ích công nghệ hiện đại.",
-        "Đầu tư quá nhiều vào việc học tập và nâng cao trình độ chuyên môn."
+        "Chạy theo việc thỏa mãn các nhu cầu trước mắt bằng nợ nần mà hy sinh năng lực sản xuất và sự phát triển bền vững trong dài hạn.",
+        "Từ chối sử dụng các tiện ích công nghệ hiện đại."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Văn hóa 'mua trước trả sau' và thỏa mãn tức thì khiến con người tập trung vào 'Quả trứng vàng' (tiêu dùng) mà vắt kiệt 'Con ngỗng' (sức khỏe, tri thức, năng lực tài chính cốt lõi)."
     },
     {
       "id": "q14",
       "question": "Thái độ 'Trốn tránh trách nhiệm' và tự xem mình là nạn nhân của hoàn cảnh (cha mẹ, sếp, nền kinh tế) sẽ gây ra hậu quả tâm lý dài hạn nào?",
       "options": [
-        "Tự tước đoạt quyền năng lựa chọn và sức mạnh thay đổi của chính mình, rơi vào trạng thái bế tắc và bất lực mãn tính.",
-        "Giúp cá nhân duy trì được trạng thái tinh thần thanh thản mà không phải lo nghĩ.",
         "Làm cho người khác cảm thấy thương hại và sẵn sàng giải quyết vấn đề thay cho bạn.",
-        "Giúp giảm thiểu tối đa các rủi ro pháp lý trong công việc."
+        "Giúp giảm thiểu tối đa các rủi ro pháp lý trong công việc.",
+        "Giúp cá nhân duy trì được trạng thái tinh thần thanh thản mà không phải lo nghĩ.",
+        "Tự tước đoạt quyền năng lựa chọn và sức mạnh thay đổi của chính mình, rơi vào trạng thái bế tắc và bất lực mãn tính."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Khi đổ lỗi cho ngoại cảnh, bạn đã trao quyền kiểm soát cuộc đời mình cho hoàn cảnh bên ngoài và tự biến mình thành một quân cờ bất lực không có khả năng kiến tạo số phận."
     },
     {
@@ -178,8 +178,8 @@
       "options": [
         "Tự lập là năng lực làm chủ bản thân, nhưng tương thuộc mới là đỉnh cao của sự trưởng thành khi biết hợp tác cùng người khác để tạo nên những thành tựu vĩ đại.",
         "Tự lập là trạng thái yếu thế cần phải loại bỏ càng sớm càng tốt.",
-        "Tương thuộc đồng nghĩa với sự phụ thuộc và ỷ lại vào sức mạnh của tập thể.",
-        "Tự lập và tương thuộc là hai khái niệm hoàn toàn loại trừ nhau và không thể cùng tồn tại trong một con người."
+        "Tự lập và tương thuộc là hai khái niệm hoàn toàn loại trừ nhau và không thể cùng tồn tại trong một con người.",
+        "Tương thuộc đồng nghĩa với sự phụ thuộc và ỷ lại vào sức mạnh của tập thể."
       ],
       "correctIndex": 0,
       "explanation": "Tự lập là nền tảng cần thiết (thắng lợi cá nhân), nhưng thế giới thực tại vốn có tính tương thuộc; chỉ những ai biết kết hợp sức mạnh cá nhân với sức mạnh đồng đội (thắng lợi tập thể) mới đạt tới sự vĩ đại."

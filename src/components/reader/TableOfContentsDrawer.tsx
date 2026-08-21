@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { X, CheckCircle2, Clock, BookOpen } from 'lucide-react';
+import { X, CheckCircle2, Clock, BookOpen, Home } from 'lucide-react';
 import { Book, Chapter } from '../../types/book';
 import { useHistory } from '../../context/HistoryContext';
 import { useAudio } from '../../context/AudioContext';
@@ -101,6 +101,28 @@ export const TableOfContentsDrawer: React.FC<TableOfContentsDrawerProps> = ({
               </Link>
             );
           })}
+        </div>
+
+        {/* Drawer Footer Actions */}
+        <div className="shrink-0 border-t border-slate-200 dark:border-slate-800 p-4 bg-slate-50/70 dark:bg-slate-900/70 flex items-center justify-between">
+          <Link
+            to="/"
+            onClick={onClose}
+            className="flex items-center gap-1.5 text-xs font-semibold text-slate-600 hover:text-emerald-600 dark:text-slate-400 dark:hover:text-emerald-400 transition-colors"
+            title="Quay về Trang chủ"
+          >
+            <Home className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+            <span>Trang chủ</span>
+          </Link>
+          <Link
+            to={`/book/${book.id}`}
+            onClick={onClose}
+            className="flex items-center gap-1.5 text-xs font-semibold text-emerald-600 hover:underline dark:text-emerald-400"
+            title="Xem chi tiết sách"
+          >
+            <BookOpen className="h-4 w-4" />
+            <span>Chi tiết sách</span>
+          </Link>
         </div>
       </div>
 

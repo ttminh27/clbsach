@@ -103,13 +103,39 @@ def is_header_or_footer(line_bbox, page_height, text, font):
     return False
 
 def clean_markdown_formatting(text):
-    text = re.sub(r'\*\*\s+', ' **', text)
-    text = re.sub(r'\s+\*\*', '** ', text)
-    text = re.sub(r'\*\s+', ' *', text)
-    text = re.sub(r'\s+\*', '* ', text)
-    text = re.sub(r'\*\*\*\*', '', text)
-    if text.count('**') % 2 != 0:
-        text = text.replace('**', '')
+    # Fix Vietnamese OCR/encoding artifacts
+    text = re.sub(r'thái đô(?:\*\*\*|å|\s+å|\*\*\*å)+', 'thái độ', text)
+    text = re.sub(r'thái đôå', 'thái độ', text)
+    text = re.sub(r'thái đô(?=\s|$|\*|,|\.)', 'thái độ', text)
+    text = re.sub(r'\bầu như\b', 'Hầu như', text)
+
+    # Merge consecutive identical tags: ***A*** ***B*** -> ***A B***
+    for _ in range(6):
+        text = re.sub(r'\*\*\*([^*]+?)\*\*\*\s+\*\*\*([^*]+?)\*\*\*', r'***\1 \2***', text)
+        text = re.sub(r'\*\*([^*]+?)\*\*\s+\*\*([^*]+?)\*\*', r'**\1 \2**', text)
+        text = re.sub(r'(?<!\*)\*([^*]+?)\*\s+\*([^*]+?)\*(?!\*)', r'*\1 \2*', text)
+    
+    # Fix spaces inside tags: '** text **' -> '**text**'
+    text = re.sub(r'\*\*\*([^*]+?)\s+\*\*\*', r'***\1*** ', text)
+    text = re.sub(r'\*\*\*\s+([^*]+?)\*\*\*', r' ***\1***', text)
+    text = re.sub(r'\*\*([^*]+?)\s+\*\*', r'**\1** ', text)
+    text = re.sub(r'\*\*\s+([^*]+?)\*\*', r' **\1**', text)
+    text = re.sub(r'(?<!\*)\*([^*]+?)\s+\*(?!\*)', r'*\1* ', text)
+    text = re.sub(r'(?<!\*)\*\s+([^*]+?)\*(?!\*)', r' *\1*', text)
+
+    # Fix spaces between words and tags
+    text = re.sub(r'(?<!\*)\s+([,.:;?!])', r'\1', text)
+    text = re.sub(r'(?<!\*)([a-zA-Z0-9À-ỹ])(\*{1,3}[a-zA-Z0-9À-ỹ])', r'\1 \2', text)
+    text = re.sub(r'([a-zA-Z0-9À-ỹ]\*{1,3})([a-zA-Z0-9À-ỹ])(?!\*)', r'\1 \2', text)
+
+    # Re-merge any broken combinations
+    text = re.sub(r'\*\*\s*\*', '***', text)
+    text = re.sub(r'\*\s*\*\*', '***', text)
+    text = re.sub(r'\*{4,}', '***', text)
+    for _ in range(3):
+        text = re.sub(r'\*\*\*([^*]+?)\*\*\*\s+\*\*\*([^*]+?)\*\*\*', r'***\1 \2***', text)
+        text = re.sub(r'\*\*([^*]+?)\*\*\s+\*\*([^*]+?)\*\*', r'**\1 \2**', text)
+
     text = re.sub(r'[ \t]+', ' ', text)
     return text.strip()
 
@@ -141,7 +167,6 @@ def parse_page_to_markdown(page, pno):
         for b in blocks:
             if 'lines' in b:
                 for l in b['lines']:
-                    # Extract top header title lines (y0 < 130)
                     if l['bbox'][1] < 130:
                         txt = decode_avn(''.join(s['text'] for s in l['spans'])).strip()
                         if txt and not is_header_or_footer(l['bbox'], page.rect.height, txt, l['spans'][0]['font']):
@@ -153,22 +178,33 @@ def parse_page_to_markdown(page, pno):
         res.append(page_images[pno])
         return '\n'.join(res) + '\n'
 
-    # Normal text pages
+    # Collect valid text blocks and handle drop caps in separate blocks
+    valid_blocks = []
+    pending_dropcap = ''
+    
     for b in blocks:
         if 'lines' not in b:
             continue
-        
-        b_lines = []
+        valid_lines = []
         for l in b['lines']:
             line_raw = ''.join(s['text'] for s in l['spans'])
             font0 = l['spans'][0]['font'] if l['spans'] else ''
-            if is_header_or_footer(l['bbox'], page.rect.height, line_raw, font0):
-                continue
-            b_lines.append(l)
-            
-        if not b_lines:
+            if not is_header_or_footer(l['bbox'], page.rect.height, line_raw, font0):
+                valid_lines.append(l)
+        if not valid_lines:
             continue
+            
+        if len(valid_lines) == 1 and len(valid_lines[0]['spans']) == 1:
+            span = valid_lines[0]['spans'][0]
+            txt = decode_avn(span['text']).strip()
+            if span['size'] > 20 and len(txt) == 1:
+                pending_dropcap = txt
+                continue
+                
+        valid_blocks.append((valid_lines, pending_dropcap))
+        pending_dropcap = ''
 
+    for b_lines, dropcap in valid_blocks:
         first_span = b_lines[0]['spans'][0]
         first_font = first_span['font']
         first_size = first_span['size']
@@ -178,63 +214,76 @@ def parse_page_to_markdown(page, pno):
         is_h2 = ('Georgia' in first_font and first_size > 15) or ('CorpoA' in first_font and first_size > 15)
         is_h3 = ('Giovanni-Bold' in first_font and first_size > 11) or ('Frutiger-Bold' in first_font and first_size > 11) or ('Vendome-Bold' in first_font and first_size > 11)
         
-        block_text_spans = []
-        drop_cap = ''
+        formatted_tokens = []
+        
         start_span_idx = 0
-        if len(b_lines[0]['spans']) > 0 and b_lines[0]['spans'][0]['size'] > 25 and len(decode_avn(b_lines[0]['spans'][0]['text']).strip()) == 1:
-            drop_cap = decode_avn(b_lines[0]['spans'][0]['text']).strip()
-            start_span_idx = 1
+        if not dropcap and len(b_lines[0]['spans']) > 0:
+            sp0 = b_lines[0]['spans'][0]
+            t0 = decode_avn(sp0['text']).strip()
+            if sp0['size'] > 25 and len(t0) == 1:
+                dropcap = t0
+                start_span_idx = 1
 
         for l_idx, l in enumerate(b_lines):
-            line_str = ''
             spans = l['spans']
             s_start = start_span_idx if l_idx == 0 else 0
             for s_i in range(s_start, len(spans)):
                 s = spans[s_i]
-                raw_text = s['text']
-                font = s['font']
-                flags = s['flags']
-                
-                txt = decode_avn(raw_text)
+                txt = decode_avn(s['text'])
                 if not txt:
                     continue
-                
+                font = s['font']
+                flags = s['flags']
                 is_bold = bool(flags & 2) or ('Bold' in font and 'Semi' not in font)
                 is_italic = bool(flags & 1) or 'Italic' in font
-
+                
                 if is_h1 or is_h2 or is_h3 or is_quote:
-                    line_str += txt
+                    fmt = 'none'
+                elif is_bold and is_italic:
+                    fmt = 'bold_italic'
+                elif is_bold:
+                    fmt = 'bold'
+                elif is_italic:
+                    fmt = 'italic'
                 else:
-                    leading_space = ' ' if txt.startswith(' ') else ''
-                    trailing_space = ' ' if txt.endswith(' ') else ''
-                    stripped = txt.strip()
-                    if not stripped:
-                        line_str += txt
-                    elif is_bold and is_italic:
-                        line_str += f'{leading_space}***{stripped}***{trailing_space}'
-                    elif is_bold:
-                        line_str += f'{leading_space}**{stripped}**{trailing_space}'
-                    elif is_italic:
-                        line_str += f'{leading_space}*{stripped}*{trailing_space}'
-                    else:
-                        line_str += txt
-            
-            line_str = line_str.strip()
-            if line_str:
-                block_text_spans.append(line_str)
+                    fmt = 'none'
+                
+                formatted_tokens.append((txt, fmt))
 
-        if not block_text_spans:
+        if not formatted_tokens:
             continue
 
-        full_block_text = ' '.join(block_text_spans)
-        if drop_cap:
-            full_block_text = drop_cap + full_block_text
+        # Group adjacent spans having same format
+        grouped = []
+        for txt, fmt in formatted_tokens:
+            if grouped and grouped[-1][1] == fmt:
+                grouped[-1] = (grouped[-1][0] + ' ' + txt, fmt)
+            else:
+                grouped.append((txt, fmt))
+
+        rendered_parts = []
+        for txt, fmt in grouped:
+            clean_t = ' '.join(txt.split())
+            if not clean_t:
+                continue
+            if fmt == 'bold_italic':
+                rendered_parts.append(f'***{clean_t}***')
+            elif fmt == 'bold':
+                rendered_parts.append(f'**{clean_t}**')
+            elif fmt == 'italic':
+                rendered_parts.append(f'*{clean_t}*')
+            else:
+                rendered_parts.append(clean_t)
+
+        full_block_text = ' '.join(rendered_parts)
+        if dropcap:
+            full_block_text = dropcap + full_block_text
 
         clean_text = clean_markdown_formatting(full_block_text)
         if not clean_text:
             continue
         
-        # Don't duplicate diagram text on page 83 (diagram text is already rendered in the image)
+        # Don't duplicate diagram text on page 83
         if pno == 83 and any(k in clean_text for k in ['Tương thuộc', 'THÀNH TÍCH TẬP THỂ', 'Rèn giũa bản thân', 'MÔ THỨC 7 THÓI QUEN']):
             continue
         

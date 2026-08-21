@@ -9,44 +9,44 @@
       "question": "Khung làm việc thực hành 4 bước (4-step framework) để chẩn đoán và thay đổi bất kỳ thói quen nào được tác giả đúc kết trong Phụ lục bao gồm các bước theo thứ tự nào?",
       "options": [
         "1. Tự phạt bản thân -> 2. Cầu nguyện -> 3. Kiêng khem -> 4. Bỏ cuộc",
-        "1. Xác định thói quen thường nhật (Routine) -> 2. Thử nghiệm với các phần thưởng khác nhau (Rewards) -> 3. Tách biệt gợi ý kích hoạt (Cue) -> 4. Thiết lập một kế hoạch hành động cụ thể (Plan)",
         "1. Mua sách mới -> 2. Lập thời gian biểu -> 3. Thuê huấn luyện viên -> 4. Uống thuốc bổ",
+        "1. Xác định thói quen thường nhật (Routine) -> 2. Thử nghiệm với các phần thưởng khác nhau (Rewards) -> 3. Tách biệt gợi ý kích hoạt (Cue) -> 4. Thiết lập một kế hoạch hành động cụ thể (Plan)",
         "1. Xóa tài khoản mạng xã hội -> 2. Đổi nhà mới -> 3. Bỏ việc -> 4. Đổi tên"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Khung 4 bước chuẩn mực khoa học: 1. Nhận diện hành vi thường nhật (Routine), 2. Thử nghiệm phần thưởng để tìm nhu cầu thực sự (Rewards), 3. Tách biệt tín hiệu kích hoạt (Cue), 4. Thiết lập kế hoạch If-Then (Plan)."
     },
     {
       "id": "q2",
       "question": "Trong ví dụ cá nhân của chính tác giả Charles Duhigg về thói quen xấu: 'Chiều nào lúc 3h30 cũng đứng dậy đi lên căng tin mua một chiếc bánh quy socola và buôn chuyện', Bước 1 (Xác định hành vi thường nhật) được xác định là gì?",
       "options": [
-        "Cảm giác đói cồn cào trong dạ dày.",
         "Hành động đứng dậy, đi thang máy lên tầng trên, mua bánh quy socola và đứng nói chuyện phiếm với đồng nghiệp.",
         "Thời gian 3h30 chiều mỗi ngày làm việc.",
-        "Việc tiêu tốn tiền bạc vào đồ ăn ngọt."
+        "Việc tiêu tốn tiền bạc vào đồ ăn ngọt.",
+        "Cảm giác đói cồn cào trong dạ dày."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Bước 1 là quan sát chính xác chuỗi hành vi thể chất rõ ràng nhất: đứng dậy, đi lên căng tin, mua bánh và trò chuyện – đó chính là Hoạt động thường nhật (Routine)."
     },
     {
       "id": "q3",
       "question": "Tại sao ở Bước 2, tác giả lại phải 'Thử nghiệm với các phần thưởng khác nhau' (Experiment with rewards) trong nhiều ngày liên tiếp?",
       "options": [
-        "Để kiểm tra xem căng tin có giảm giá các món đồ ăn khác không.",
-        "Để giải mã xem 'Cơn thèm muốn thực sự' (Craving) bên dưới thói quen là gì: là do đói bụng thực sự, cần đường nạp năng lượng, buồn chán cần giải lao, hay khao khát được giao tiếp xã hội với đồng nghiệp.",
         "Để thử xem loại bánh nào ngon nhất trong tòa nhà.",
-        "Để tiêu hết tiền lẻ có trong ví."
+        "Để kiểm tra xem căng tin có giảm giá các món đồ ăn khác không.",
+        "Để tiêu hết tiền lẻ có trong ví.",
+        "Để giải mã xem 'Cơn thèm muốn thực sự' (Craving) bên dưới thói quen là gì: là do đói bụng thực sự, cần đường nạp năng lượng, buồn chán cần giải lao, hay khao khát được giao tiếp xã hội với đồng nghiệp."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Phần thưởng thực sự thường bị ẩn giấu; việc thử các phần thưởng thay thế (ngày 1 ăn táo, ngày 2 uống trà, ngày 3 đi dạo, ngày 4 chỉ nói chuyện không ăn) giúp xác định chính xác nhu cầu cốt lõi của não bộ."
     },
     {
       "id": "q4",
       "question": "Kết quả thử nghiệm ở Bước 2 của Charles Duhigg cho thấy phần thưởng thực sự khiến ông đứng dậy mua bánh quy mỗi chiều là gì?",
       "options": [
-        "Cơ thể ông bị thiếu đường huyết trầm trọng.",
-        "Ông hoàn toàn không đói bánh quy, mà ông khao khát sự giao tiếp xã hội và giải tỏa buồn chán (được nói chuyện phiếm với đồng nghiệp 10 phút sau nhiều giờ ngồi máy tính).",
         "Ông muốn sưu tập các hóa đơn mua hàng ở căng tin.",
+        "Ông hoàn toàn không đói bánh quy, mà ông khao khát sự giao tiếp xã hội và giải tỏa buồn chán (được nói chuyện phiếm với đồng nghiệp 10 phút sau nhiều giờ ngồi máy tính).",
+        "Cơ thể ông bị thiếu đường huyết trầm trọng.",
         "Ông thích mùi vị của bột mì nướng giòn."
       ],
       "correctIndex": 1,
@@ -56,36 +56,36 @@
       "id": "q5",
       "question": "Theo nghiên cứu của các nhà khoa học hành vi, hầu hết mọi Gợi ý kích hoạt (Cues) trong cuộc sống đều rơi vào một trong 5 nhóm phạm trù nào?",
       "options": [
+        "1. Cân nặng, 2. Chiều cao, 3. Nhóm máu, 4. Tuổi tác, 5. Giới tính",
         "1. Màu sắc, 2. Nhiệt độ, 3. Độ ẩm, 4. Ánh sáng, 5. Gió",
         "1. Địa điểm (Location), 2. Thời gian (Time), 3. Trạng thái cảm xúc (Emotional state), 4. Những người xung quanh (Other people), 5. Hành động liền trước đó (Immediately preceding action)",
-        "1. Cân nặng, 2. Chiều cao, 3. Nhóm máu, 4. Tuổi tác, 5. Giới tính",
         "1. Tiền bạc, 2. Xe cộ, 3. Nhà cửa, 4. Điện thoại, 5. Máy tính"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "5 phạm trù phổ quát của mọi tín hiệu kích hoạt: Địa điểm, Thời gian, Trạng thái cảm xúc, Người ở cùng, và Hành vi vừa xảy ra ngay trước đó."
     },
     {
       "id": "q6",
       "question": "Ở Bước 3 (Tách biệt gợi ý), phương pháp ghi chép nhật ký mỗi khi cơn thôi thúc thói quen xuất hiện cần trả lời 5 câu hỏi nào?",
       "options": [
+        "1. Giá cổ phiếu bao nhiêu? 2. Xe bạn còn xăng không? 3. Điện thoại còn bao nhiêu pin? 4. Ai đang gọi bạn? 5. Bạn nợ bao nhiêu tiền?",
         "Tôi là ai? Tôi đến từ đâu? Tôi đi về đâu? Tôi có tiền không? Hôm nay là thứ mấy?",
         "1. Bạn đang ở đâu? 2. Mấy giờ rồi? 3. Trạng thái cảm xúc của bạn là gì? 4. Có ai ở xung quanh bạn không? 5. Hành động nào vừa diễn ra ngay trước đó?",
-        "1. Bạn ăn gì sáng nay? 2. Bạn mặc áo màu gì? 3. Thời tiết thế nào? 4. Bạn có tập thể dục không? 5. Bạn ngủ bao nhiêu tiếng?",
-        "1. Giá cổ phiếu bao nhiêu? 2. Xe bạn còn xăng không? 3. Điện thoại còn bao nhiêu pin? 4. Ai đang gọi bạn? 5. Bạn nợ bao nhiêu tiền?"
+        "1. Bạn ăn gì sáng nay? 2. Bạn mặc áo màu gì? 3. Thời tiết thế nào? 4. Bạn có tập thể dục không? 5. Bạn ngủ bao nhiêu tiếng?"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Trả lời đều đặn 5 câu hỏi này trong 3-5 ngày liên tiếp sẽ làm lộ diện mẫu hình lặp lại duy nhất kích hoạt thói quen của bạn (ví dụ: luôn là lúc 3h30 chiều khi vừa xong một công việc)."
     },
     {
       "id": "q7",
       "question": "Sau khi trả lời 5 câu hỏi trong vài ngày, Charles Duhigg phát hiện ra Gợi ý kích hoạt chính xác cho thói quen của ông là gì?",
       "options": [
-        "Cảm giác đau lưng do ngồi ghế cứng.",
-        "Yếu tố Thời gian: luôn rơi vào khoảng 3h00 đến 3h30 chiều mỗi ngày, khi mức năng lượng giảm nhẹ và cần một khoảng nghỉ giữa giờ làm việc.",
         "Sự xuất hiện của một đồng nghiệp rủ rê đi ăn.",
-        "Mùi bánh quy bay từ căng tin xuống phòng làm việc."
+        "Mùi bánh quy bay từ căng tin xuống phòng làm việc.",
+        "Cảm giác đau lưng do ngồi ghế cứng.",
+        "Yếu tố Thời gian: luôn rơi vào khoảng 3h00 đến 3h30 chiều mỗi ngày, khi mức năng lượng giảm nhẹ và cần một khoảng nghỉ giữa giờ làm việc."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Dữ liệu cho thấy bất kể ông đang ở đâu, cảm xúc thế nào hay ở cùng ai, cứ đến khoảng 3h30 chiều là tín hiệu thời gian lại kích hoạt cơn thôi thúc cần giải lao và nói chuyện."
     },
     {
@@ -104,12 +104,12 @@
       "id": "q9",
       "question": "Tại sao trong những ngày đầu thực hiện kế hoạch mới, tác giả lại phải đặt chuông báo thức vào lúc 3h30 chiều?",
       "options": [
+        "Để kiểm tra xem chuông điện thoại có hoạt động tốt không.",
         "Để nhắc ông uống thuốc hạ sốt.",
-        "Để chủ động đón đầu khoảnh khắc xuất hiện Gợi ý, nhắc nhở ý thức thực hiện hành động mới trước khi hạch nền vô thức tự động dẫn chân ông đi lên căng tin theo thói quen cũ.",
         "Để thông báo cho cả phòng biết ông chuẩn bị đi nói chuyện phiếm.",
-        "Để kiểm tra xem chuông điện thoại có hoạt động tốt không."
+        "Để chủ động đón đầu khoảnh khắc xuất hiện Gợi ý, nhắc nhở ý thức thực hiện hành động mới trước khi hạch nền vô thức tự động dẫn chân ông đi lên căng tin theo thói quen cũ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Đặt báo thức giúp kích hoạt sự chú ý có ý thức ngay tại thời điểm gợi ý xuất hiện, ngăn chặn não bộ trượt vào chế độ lái tự động theo quán tính cũ."
     },
     {
@@ -129,11 +129,11 @@
       "question": "Khi thử nghiệm phần thưởng ở Bước 2, kỹ thuật 'Viết ra 3 từ đầu tiên xuất hiện trong đầu và đợi 15 phút' có tác dụng gì?",
       "options": [
         "Giúp bạn kiểm tra xem mình có bị mất trí nhớ tạm thời hay không.",
-        "Viết 3 từ giúp nâng cao sự tự nhận thức cảm xúc, và khoảng dừng 15 phút giúp kiểm chứng xem cơn thèm muốn ban đầu đã thực sự được thỏa mãn bởi phần thưởng mới hay chưa.",
         "Giúp bạn sáng tác một bài thơ ngắn mỗi ngày.",
+        "Viết 3 từ giúp nâng cao sự tự nhận thức cảm xúc, và khoảng dừng 15 phút giúp kiểm chứng xem cơn thèm muốn ban đầu đã thực sự được thỏa mãn bởi phần thưởng mới hay chưa.",
         "Để rèn luyện khả năng gõ bàn phím tốc độ cao."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sau 15 phút, nếu cơn thôi thúc vẫn còn, chứng tỏ phần thưởng bạn vừa thử không phải là nhu cầu thực sự; nếu cơn thôi thúc biến mất hoàn toàn, bạn đã tìm trúng đích khao khát của não bộ."
     },
     {
@@ -141,11 +141,11 @@
       "question": "Tại sao việc thay đổi thói quen đôi khi đòi hỏi sự kiên trì thử nghiệm qua nhiều tuần chứ không thể thành công chỉ sau 1 đêm?",
       "options": [
         "Vì các tế bào não phải mất ít nhất 10 năm mới có thể thích nghi với cái mới.",
-        "Vì việc giải mã chính xác các gợi ý vi tế và phần thưởng ẩn giấu là một quá trình điều tra khoa học cần thời gian quan sát, điều chỉnh và tinh chỉnh kế hoạch phù hợp với từng cá nhân.",
         "Vì bạn phải chờ đợi sự cho phép của các chuyên gia tâm lý học.",
+        "Vì việc giải mã chính xác các gợi ý vi tế và phần thưởng ẩn giấu là một quá trình điều tra khoa học cần thời gian quan sát, điều chỉnh và tinh chỉnh kế hoạch phù hợp với từng cá nhân.",
         "Vì thói quen chỉ có thể thay đổi vào những năm nhuận."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Không có con người nào giống hệt con người nào; việc tìm ra chính xác gợi ý và phần thưởng đòi hỏi sự kiên nhẫn thử nghiệm khoa học trên chính bản thân mình."
     },
     {
@@ -153,32 +153,32 @@
       "question": "Điều gì sẽ xảy ra nếu bạn cố gắng thay đổi thói quen mà bỏ qua Bước 3 (không xác định được Gợi ý kích hoạt)?",
       "options": [
         "Bạn sẽ tiết kiệm được 50% thời gian thay đổi thói quen.",
-        "Bạn sẽ luôn bị bất ngờ và bị động khi cơn thôi thúc vô thức ập đến, và bạn sẽ không biết chính xác thời điểm nào cần kích hoạt kế hoạch hành động thay thế.",
         "Thói quen mới sẽ tự động hình thành nhanh hơn.",
+        "Bạn sẽ luôn bị bất ngờ và bị động khi cơn thôi thúc vô thức ập đến, và bạn sẽ không biết chính xác thời điểm nào cần kích hoạt kế hoạch hành động thay thế.",
         "Bạn sẽ không bao giờ cảm thấy buồn ngủ nữa."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Nếu không biết đâu là tín hiệu khởi động vòng lặp (gợi ý), bạn sẽ luôn bị hành vi tự động vượt mặt trước khi kịp nhận ra mình đang làm gì."
     },
     {
       "id": "q14",
       "question": "Khung 4 bước trong Phụ lục chứng minh điều gì về bản chất của cuốn sách 'Sức Mạnh Của Thói Quen'?",
       "options": [
-        "Đây là một cuốn sách lý thuyết hàn lâm thuần túy không có tính ứng dụng.",
         "Đây là một cẩm nang hành động thực tiễn trao cho người đọc một bộ công cụ chẩn đoán khoa học để tự làm chủ và tái định hình bất kỳ hành vi nào trong cuộc sống cá nhân, sự nghiệp và tổ chức.",
         "Cuốn sách chỉ dành riêng cho các nhà khoa học tại các viện nghiên cứu y khoa.",
+        "Đây là một cuốn sách lý thuyết hàn lâm thuần túy không có tính ứng dụng.",
         "Cuốn sách khuyên mọi người nên sống thuận theo tự nhiên mà không cần kỷ luật."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Cuốn sách kết hợp giữa những khám phá khoa học thần kinh đỉnh cao và phương pháp luận thực hành rõ ràng, biến những hiểu biết trừu tượng thành công cụ thay đổi cuộc đời cho mọi độc giả."
     },
     {
       "id": "q15",
       "question": "Lời khuyên ý nghĩa nhất mà tác giả Charles Duhigg gửi gắm cho độc giả khi bắt đầu hành trình thay đổi thói quen là gì?",
       "options": [
-        "Hãy đòi hỏi sự hoàn hảo tuyệt đối ngay từ ngày đầu tiên và không bao giờ được phép vấp ngã.",
-        "Hãy kiên nhẫn với chính mình, nhìn nhận sự thay đổi như một cuộc thí nghiệm thú vị; khi hiểu được cơ chế vận hành của thói quen, bạn nắm trong tay sức mạnh để tái kiến thiết bất kỳ điều gì bạn mong muốn trong cuộc đời.",
         "Đừng bao giờ bắt đầu thay đổi nếu bạn đã bước qua tuổi 40.",
+        "Hãy kiên nhẫn với chính mình, nhìn nhận sự thay đổi như một cuộc thí nghiệm thú vị; khi hiểu được cơ chế vận hành của thói quen, bạn nắm trong tay sức mạnh để tái kiến thiết bất kỳ điều gì bạn mong muốn trong cuộc đời.",
+        "Hãy đòi hỏi sự hoàn hảo tuyệt đối ngay từ ngày đầu tiên và không bao giờ được phép vấp ngã.",
         "Hãy giữ kín mọi mục tiêu và không bao giờ chia sẻ với bất kỳ ai."
       ],
       "correctIndex": 1,

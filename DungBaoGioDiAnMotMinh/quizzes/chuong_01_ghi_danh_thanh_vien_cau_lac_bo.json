@@ -8,36 +8,36 @@
       "id": "q1",
       "question": "Tại sao công việc kéo gậy golf (caddie) thời niên thiếu lại trở thành bước ngoặt nhận thức quan trọng nhất của Keith Ferrazzi?",
       "options": [
+        "Chứng minh rằng người giàu luôn có kỹ năng chơi thể thao vượt trội hơn người nghèo.",
         "Giúp ông quan sát trực tiếp và giải mã cơ chế mà giới thượng lưu sử dụng để nâng đỡ, trao đổi thông tin và chia sẻ cơ hội thành công cho nhau.",
         "Giúp ông tích lũy đủ tiền mặt để tự đóng học phí đại học Harvard mà không cần vay mượn.",
-        "Giúp ông trở thành một vận động viên chơi golf chuyên nghiệp hàng đầu nước Mỹ.",
-        "Chứng minh rằng người giàu luôn có kỹ năng chơi thể thao vượt trội hơn người nghèo."
+        "Giúp ông trở thành một vận động viên chơi golf chuyên nghiệp hàng đầu nước Mỹ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Trên sân golf, Keith thấy các thành viên câu lạc bộ không hề cô lập; họ liên tục hỏi han, giới thiệu đối tác và bảo bọc lẫn nhau trong một mạng lưới tương trợ bền vững."
     },
     {
       "id": "q2",
       "question": "Trải nghiệm bị bạn bè trêu chọc vì chiếc xe cũ của mẹ và đôi giày rẻ tiền đã định hình tâm lý của Keith Ferrazzi theo chiều hướng nào?",
       "options": [
-        "Tạo ra động lực tự thân mãnh liệt thôi thúc ông phải nỗ lực vượt bậc để vượt qua ranh giới xuất thân và khẳng định giá trị bản thân.",
-        "Khiến ông vĩnh viễn căm ghét người giàu và từ chối mọi cơ hội hợp tác với giới thượng lưu.",
         "Làm cho ông rơi vào trạng thái trầm cảm kéo dài và từ bỏ việc học tập.",
-        "Thúc đẩy ông vay mượn nợ nần để mua sắm hàng hiệu nhằm che giấu gốc gác."
+        "Thúc đẩy ông vay mượn nợ nần để mua sắm hàng hiệu nhằm che giấu gốc gác.",
+        "Khiến ông vĩnh viễn căm ghét người giàu và từ chối mọi cơ hội hợp tác với giới thượng lưu.",
+        "Tạo ra động lực tự thân mãnh liệt thôi thúc ông phải nỗ lực vượt bậc để vượt qua ranh giới xuất thân và khẳng định giá trị bản thân."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Thay vì gục ngã trước mặc cảm nghèo khó, Keith đã chuyển hóa nỗi uất ức thành nguồn năng lượng tích cực để rèn luyện ý chí và vươn lên đỉnh cao."
     },
     {
       "id": "q3",
       "question": "Khi bước chân vào Trường Kinh doanh Harvard (HBS), Keith nhận ra điểm yếu lớn nhất của các sinh viên ưu tú xuất thân quý tộc là gì?",
       "options": [
-        "Nhiều người quá chú trọng vào điểm số cá nhân và sự cạnh tranh triệt tiêu mà xem nhẹ nghệ thuật xây dựng sự gắn kết chân thành giữa người với người.",
         "Họ thiếu kiến thức cơ bản về tài chính và kế toán doanh nghiệp.",
-        "Họ không có khả năng thuyết trình trước đám đông.",
-        "Họ không biết cách sử dụng máy tính và các phần mềm phân tích dữ liệu."
+        "Nhiều người quá chú trọng vào điểm số cá nhân và sự cạnh tranh triệt tiêu mà xem nhẹ nghệ thuật xây dựng sự gắn kết chân thành giữa người với người.",
+        "Họ không biết cách sử dụng máy tính và các phần mềm phân tích dữ liệu.",
+        "Họ không có khả năng thuyết trình trước đám đông."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Trong khi các bạn học vùi đầu vào bảng tính và số liệu cạnh tranh khốc liệt, Keith nhận ra sức mạnh tối thượng nằm ở khả năng xây dựng tình bằng hữu và sự đồng thuận."
     },
     {
@@ -46,8 +46,8 @@
       "options": [
         "Con người là sinh vật xã hội tồn tại trong mạng lưới tương thuộc; sự thành công hay thất bại của mỗi cá nhân luôn gắn liền với mối quan hệ với những người xung quanh.",
         "Mỗi người nên tự lập hoàn toàn và không bao giờ được phép nhờ vả người khác.",
-        "Môi trường tự nhiên quan trọng hơn các hoạt động kinh tế của con người.",
-        "Tính cách của con người hoàn toàn do gen di truyền quyết định."
+        "Tính cách của con người hoàn toàn do gen di truyền quyết định.",
+        "Môi trường tự nhiên quan trọng hơn các hoạt động kinh tế của con người."
       ],
       "correctIndex": 0,
       "explanation": "Triết lý tương thuộc (Interdependence) nhấn mạnh rằng không ai là một hòn đảo đơn độc; sức mạnh thực sự chỉ nảy nở khi con người gắn kết và nâng đỡ nhau."
@@ -68,12 +68,12 @@
       "id": "q6",
       "question": "Tại sao việc quan sát người khác trong môi trường phi trang trọng (như sân golf, bữa tiệc) lại mang lại nhiều bài học giao tiếp hơn trong phòng họp?",
       "options": [
+        "Vì không ai có thể nói dối khi đang chơi thể thao ngoài trời.",
         "Vì trong môi trường thư giãn, con người cởi bỏ vỏ bọc phòng thủ công việc, bộc lộ chân thực giá trị sống, sở thích và cách họ đối xử với người khác.",
-        "Vì trong phòng họp mọi người đều bị cấm nói chuyện cá nhân.",
         "Vì sân golf là nơi duy nhất các bản hợp đồng kinh tế được ký kết hợp pháp.",
-        "Vì không ai có thể nói dối khi đang chơi thể thao ngoài trời."
+        "Vì trong phòng họp mọi người đều bị cấm nói chuyện cá nhân."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Sự thân mật ngoài công sở làm lộ rõ nhân cách và phong cách sống, giúp nhà quan sát thấu hiểu sâu sắc tâm lý con người."
     },
     {
@@ -81,9 +81,9 @@
       "question": "Khái niệm 'Ghi danh thành viên câu lạc bộ' trong tựa đề chương 1 được hiểu theo nghĩa bóng là gì?",
       "options": [
         "Sự tự tin định vị bản thân xứng đáng thuộc về cộng đồng những người thành công và chủ động tham gia vào vòng tròn kết nối tương trợ lẫn nhau.",
-        "Việc nộp đơn và đóng phí thành viên tại một câu lạc bộ thể thao sang trọng.",
         "Tấm bằng tốt nghiệp từ một trường đại học thuộc khối Ivy League.",
-        "Việc có tên trong danh sách cổ đông của một tập đoàn lớn."
+        "Việc có tên trong danh sách cổ đông của một tập đoàn lớn.",
+        "Việc nộp đơn và đóng phí thành viên tại một câu lạc bộ thể thao sang trọng."
       ],
       "correctIndex": 0,
       "explanation": "'Gia nhập câu lạc bộ' là sự chuyển hóa tâm thức: rũ bỏ mặc cảm tự ti, coi mình là một thành viên bình đẳng và đóng góp giá trị trong mạng lưới của những người xuất chúng."
@@ -92,12 +92,12 @@
       "id": "q8",
       "question": "Khi làm caddie, Keith đã làm gì khác biệt so với các caddie khác để nhận được sự quý mến và tiền boa hậu hĩnh từ các quý ông giàu có?",
       "options": [
-        "Không chỉ kéo túi gậy mà còn chú ý quan sát thói quen đánh bóng, động viên tinh thần, nhặt bóng cẩn thận và quan tâm thực sự đến cảm xúc của người chơi.",
-        "Cho người chơi vay tiền khi họ bị thua cược trên sân golf.",
         "Luôn luôn mách nước gian lận điểm số cho người chơi.",
-        "Chỉ phục vụ những người đi xe hơi đắt tiền nhất."
+        "Chỉ phục vụ những người đi xe hơi đắt tiền nhất.",
+        "Cho người chơi vay tiền khi họ bị thua cược trên sân golf.",
+        "Không chỉ kéo túi gậy mà còn chú ý quan sát thói quen đánh bóng, động viên tinh thần, nhặt bóng cẩn thận và quan tâm thực sự đến cảm xúc của người chơi."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Keith cung cấp giá trị vượt trội bằng sự tận tâm, tinh tế và khả năng thấu hiểu nhu cầu của khách hàng trước khi họ kịp lên tiếng."
     },
     {
@@ -105,8 +105,8 @@
       "question": "Bài học sâu sắc nhất về sự phân tầng xã hội mà tác giả rút ra từ thị trấn Youngstown quê hương ông là gì?",
       "options": [
         "Sự khác biệt thực sự giữa người thành đạt và người chật vật không nằm ở trí thông minh bẩm sinh, mà ở mạng lưới thông tin, nguồn lực và sự tương trợ mà họ sở hữu.",
-        "Người nghèo luôn lười biếng hơn người giàu trong mọi trường hợp.",
         "Chỉ có con cái của gia đình quyền quý mới có khả năng lãnh đạo xã hội.",
+        "Người nghèo luôn lười biếng hơn người giàu trong mọi trường hợp.",
         "Nghề sản xuất thép là nghề duy nhất mang lại sự ổn định lâu dài."
       ],
       "correctIndex": 0,
@@ -116,60 +116,60 @@
       "id": "q10",
       "question": "Tại sao sự cần mẫn lao động kết hợp với kỹ năng kết nối lại tạo nên sức mạnh vô địch cho Keith Ferrazzi?",
       "options": [
-        "Sự cần mẫn tạo ra năng lực thực chất và sự uy tín, trong khi kỹ năng kết nối nhân bản hóa các cơ hội và đưa uy tín đó đến đúng người có thẩm quyền.",
-        "Vì người làm việc chăm chỉ sẽ không cần phải nói chuyện với bất kỳ ai.",
+        "Vì các trường đại học chỉ tuyển những sinh viên có cả hai yếu tố trên.",
         "Vì kỹ năng kết nối có thể thay thế hoàn toàn nhu cầu phải làm việc chăm chỉ.",
-        "Vì các trường đại học chỉ tuyển những sinh viên có cả hai yếu tố trên."
+        "Sự cần mẫn tạo ra năng lực thực chất và sự uy tín, trong khi kỹ năng kết nối nhân bản hóa các cơ hội và đưa uy tín đó đến đúng người có thẩm quyền.",
+        "Vì người làm việc chăm chỉ sẽ không cần phải nói chuyện với bất kỳ ai."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Lao động cật lực là nền móng, nhưng cây cầu kết nối sẽ dẫn lối tài năng đến với ánh sáng của những cơ hội lớn."
     },
     {
       "id": "q11",
       "question": "Trong những ngày đầu tại Harvard, điều gì đã giúp Keith vượt qua sự ngột ngạt của văn hóa cạnh tranh điểm số?",
       "options": [
-        "Ông chủ động tổ chức các buổi gặp gỡ ăn tối, kết nối các sinh viên từ nhiều chuyên ngành khác nhau để cùng chia sẻ khó khăn và học hỏi lẫn nhau.",
-        "Ông nộp đơn xin chuyển sang học tại một trường đại học khác dễ thở hơn.",
         "Ông thuê gia sư riêng kèm cặp toàn bộ các môn học tính toán.",
+        "Ông nộp đơn xin chuyển sang học tại một trường đại học khác dễ thở hơn.",
+        "Ông chủ động tổ chức các buổi gặp gỡ ăn tối, kết nối các sinh viên từ nhiều chuyên ngành khác nhau để cùng chia sẻ khó khăn và học hỏi lẫn nhau.",
         "Ông từ chối tham gia tất cả các hoạt động tập thể của trường."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Keith dùng chính thế mạnh kết nối của mình để biến môi trường cạnh tranh thành không gian hợp tác, trở thành nhân vật trung tâm được bạn bè tin cậy."
     },
     {
       "id": "q12",
       "question": "Chi tiết bà Elsie Hillman (Chủ tịch Đảng Cộng hòa Pennsylvania) cho Keith vay tiền học kinh doanh chứng minh điều gì về cơ chế nâng đỡ của người thành đạt?",
       "options": [
-        "Những người có tầm vóc luôn khao khát đầu tư vào những người trẻ có hoài bão, ý chí sắt đá và sự trung thực, bất kể xuất thân của họ.",
         "Người giàu chỉ cho vay tiền khi được thế chấp bằng bất động sản có giá trị cao.",
-        "Các chính trị gia chỉ giúp đỡ những người có cùng quan điểm tôn giáo.",
-        "Việc vay tiền người lạ luôn tiềm ẩn những rủi ro pháp lý nghiêm trọng."
+        "Những người có tầm vóc luôn khao khát đầu tư vào những người trẻ có hoài bão, ý chí sắt đá và sự trung thực, bất kể xuất thân của họ.",
+        "Việc vay tiền người lạ luôn tiềm ẩn những rủi ro pháp lý nghiêm trọng.",
+        "Các chính trị gia chỉ giúp đỡ những người có cùng quan điểm tôn giáo."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Người thành công giàu lòng trắc ẩn luôn tìm kiếm những hạt giống tài năng tiềm năng để trao gửi niềm tin và chắp cánh cho họ vươn lên."
     },
     {
       "id": "q13",
       "question": "Một người trẻ có xuất thân bình thường có thể học được gì từ chương 1 để áp dụng vào thực tế sự nghiệp?",
       "options": [
-        "Không bao giờ để hoàn cảnh quá khứ giới hạn tầm nhìn; hãy biến sự quan sát tinh tế và lòng nhiệt thành phụng sự thành lợi thế cạnh tranh độc nhất.",
-        "Cố gắng giấu kín thông tin về gia đình để không bị người khác coi thường.",
         "Chỉ nên tìm kiếm những công việc an toàn, ít phải giao tiếp xã hội.",
+        "Cố gắng giấu kín thông tin về gia đình để không bị người khác coi thường.",
+        "Không bao giờ để hoàn cảnh quá khứ giới hạn tầm nhìn; hãy biến sự quan sát tinh tế và lòng nhiệt thành phụng sự thành lợi thế cạnh tranh độc nhất.",
         "Đợi đến khi có đủ tiền tiết kiệm mới bắt đầu mở rộng quan hệ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Xuất phát điểm khiêm tốn chính là chất xúc tác trui rèn ý chí; sự nhạy cảm xã hội và thái độ chân thành là tài sản quý giá nhất mà ai cũng có thể trau dồi."
     },
     {
       "id": "q14",
       "question": "Theo tác giả, sai lầm lớn nhất của những người tin vào câu nói 'Hữu xạ tự nhiên hương' trong sự nghiệp là gì?",
       "options": [
-        "Nghĩ rằng chỉ cần làm tốt công việc trong góc tối thì tự khắc thế giới sẽ nhận ra và ban thưởng, mà không hiểu rằng giá trị cần được kết nối và lan tỏa chủ động.",
         "Không chịu đầu tư vào chất lượng sản phẩm chuyên môn.",
         "Quá tin tưởng vào sự giúp đỡ của bạn bè thân thiết.",
+        "Nghĩ rằng chỉ cần làm tốt công việc trong góc tối thì tự khắc thế giới sẽ nhận ra và ban thưởng, mà không hiểu rằng giá trị cần được kết nối và lan tỏa chủ động.",
         "Từ chối chi tiền cho các hoạt động quảng cáo truyền hình."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Tài năng mà không được kết nối sẽ giống như ngọn đèn giấu dưới đáy thùng; chủ động xây dựng mạng lưới là trách nhiệm của mỗi cá nhân đối với tài năng của mình."
     },
     {
@@ -177,8 +177,8 @@
       "question": "Thông điệp cốt lõi đọng lại sau khi khép lại chương 1 là gì?",
       "options": [
         "Cuộc sống là một môn thể thao đồng đội; người chiến thắng bền vững là người biết cách xây dựng và phụng sự một đội ngũ những người đồng hành trung thành.",
-        "Thành công là kết quả của việc đánh bại tất cả các đối thủ cạnh tranh bằng mọi giá.",
         "Chỉ có những người sinh ra trong gia đình giàu có mới có thể thành đạt ở Mỹ.",
+        "Thành công là kết quả của việc đánh bại tất cả các đối thủ cạnh tranh bằng mọi giá.",
         "Hãy luôn làm việc độc lập để không phải chia sẻ vinh quang với ai khác."
       ],
       "correctIndex": 0,

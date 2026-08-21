@@ -1,0 +1,5 @@
+# Tác giả Robin Sharma
+
+Robin Sharma là một trong những chuyên gia hàng đầu thế giới trong lĩnh vực lãnh đạo và thành công cá nhân. Phần lớn các tác phẩm của ông đều lọt vào danh sách những quyển sách bán chạy nhất *trên toàn cầu, trong đó tác phẩm kinh điển The Monk Who Sold His* Ferrari (Vi tu sĩ bán chiếc Ferrari) đã được xuất bản ở hơn 75 quốc gia, giúp hàng triệu người tạo dựng được cuộc sống phi thường. Công việc của ông được đánh giá cao bởi những nghệ sĩ nổi tiếng, các giám đốc điều hành, các ngôi sao nhạc rock, các doanh nhân hàng đầu và cả giới hoàng tộc. Ngoài vai trò là một diễn giả sáng giá, Robin còn là một huấn luyện viên rất được kính trọng bởi các doanh nhân xuất sắc trên thế giới, những người luôn sẵn sàng tạo nên sự khác biệt trong mọi việc họ làm.
+
+Robin Sharma là giám đốc điều hành của Công ty Sharma Leadership International Inc., một doanh nghiệp đứng đầu trong lĩnh vực huấn luyện và đào tạo, giúp các cá nhân và tổ chức vươn đến tầm cỡ thế giới. Các khách hàng của công ty bao gồm Nike, BP, General Electric, NASA, FedEx, IBM và Microsoft.

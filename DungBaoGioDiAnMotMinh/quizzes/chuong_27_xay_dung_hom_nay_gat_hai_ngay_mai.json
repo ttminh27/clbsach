@@ -8,36 +8,36 @@
       "id": "q1",
       "question": "Câu lạc bộ 'Junto' (Hội những chiếc tạp dề da) do Benjamin Franklin sáng lập vào năm 1727 tại Philadelphia mang ý nghĩa biểu tượng lịch sử nào?",
       "options": [
-        "Là mô hình sơ khai và hoàn hảo nhất của 'Nhóm cố vấn cùng tiến' (Mastermind Group) - nơi những người trẻ giàu hoài bão định kỳ quy tụ để giúp nhau phát triển tri thức, đạo đức và sự nghiệp.",
-        "Là một đảng phái chính trị bí mật được thành lập để lật đổ chính quyền thuộc địa.",
         "Là một câu lạc bộ cờ bạc và giải trí ban đêm dành cho giới thương gia giàu có.",
+        "Là một đảng phái chính trị bí mật được thành lập để lật đổ chính quyền thuộc địa.",
+        "Là mô hình sơ khai và hoàn hảo nhất của 'Nhóm cố vấn cùng tiến' (Mastermind Group) - nơi những người trẻ giàu hoài bão định kỳ quy tụ để giúp nhau phát triển tri thức, đạo đức và sự nghiệp.",
         "Là một xưởng sản xuất tạp dề da thủ công lớn nhất nước Mỹ thời bấy giờ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Junto là cái nôi của tinh thần tương trợ hiện đại; Franklin và các bạn hữu cùng cam kết đặt ra các câu hỏi thảo luận sâu sắc và chia sẻ mọi cơ hội kinh doanh cho nhau."
     },
     {
       "id": "q2",
       "question": "Mô hình 'Nhóm Mastermind' (Bộ não ưu việt) theo định nghĩa của Napoleon Hill và Keith Ferrazzi hoạt động dựa trên nguyên lý nào?",
       "options": [
+        "Là một cuộc thi kiểm tra chỉ số IQ định kỳ hàng tháng giữa các thành viên trong nhóm.",
         "Khi hai hay nhiều bộ óc cùng hòa hợp, cam kết và hướng về một mục tiêu chung, họ sẽ tạo ra một 'bộ não thứ ba' vô hình sở hữu trí tuệ và nguồn lực vượt trội hơn hẳn tổng các cá nhân cộng lại.",
         "Là việc phẫu thuật ghép nối các tế bào thần kinh não bộ giữa những người thông minh.",
-        "Là một cuộc thi kiểm tra chỉ số IQ định kỳ hàng tháng giữa các thành viên trong nhóm.",
         "Là việc bắt buộc tất cả các thành viên phải suy nghĩ và hành động giống hệt nhau."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Sức mạnh của sự cộng hưởng trí tuệ và cam kết trách nhiệm tương hỗ biến nhóm Mastermind thành bệ phóng vĩ đại đưa mọi thành viên chạm tới thành công phi thường."
     },
     {
       "id": "q3",
       "question": "Một nhóm Mastermind lý tưởng theo bài học từ chương 27 nên có quy mô và cấu trúc thành viên như thế nào?",
       "options": [
-        "Quy mô nhỏ gọn (khoảng 4-8 người), bao gồm những cá nhân có cùng hệ giá trị đạo đức, hoài bão lớn nhưng sở hữu các thế mạnh chuyên môn và nền tảng kinh nghiệm đa dạng.",
-        "Càng đông càng tốt, bao gồm ít nhất 500 người tham gia vào một nhóm chat trực tuyến.",
+        "Chỉ gồm những người có cùng quan điểm chính trị và tôn giáo hoàn toàn giống nhau.",
         "Chỉ gồm những người làm việc trong cùng một phòng ban của một công ty duy nhất.",
-        "Chỉ gồm những người có cùng quan điểm chính trị và tôn giáo hoàn toàn giống nhau."
+        "Càng đông càng tốt, bao gồm ít nhất 500 người tham gia vào một nhóm chat trực tuyến.",
+        "Quy mô nhỏ gọn (khoảng 4-8 người), bao gồm những cá nhân có cùng hệ giá trị đạo đức, hoài bão lớn nhưng sở hữu các thế mạnh chuyên môn và nền tảng kinh nghiệm đa dạng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Quy mô 4-8 người đảm bảo sự thân mật, bảo mật và thời gian trao đổi sâu sắc; sự đa dạng chuyên môn mang lại những giải pháp toàn diện cho mọi thách thức."
     },
     {
@@ -57,9 +57,9 @@
       "question": "Yếu tố 'Cam kết trách nhiệm tương hỗ' (Peer Accountability) trong nhóm Mastermind mang lại sức mạnh đột phá gì?",
       "options": [
         "Ngăn chặn sự trì hoãn và thói quen bào chữa; áp lực tích cực từ sự kỳ vọng của những người bạn cùng tiến thôi thúc bạn phải hoàn thành mục tiêu đúng hạn.",
+        "Giúp các thành viên có cớ để đổ lỗi cho nhau khi gặp thất bại.",
         "Buộc các thành viên phải nộp phạt tiền mặt nếu không đạt được doanh số kinh doanh.",
-        "Cho phép các thành viên có quyền sa thải lẫn nhau ra khỏi công ty.",
-        "Giúp các thành viên có cớ để đổ lỗi cho nhau khi gặp thất bại."
+        "Cho phép các thành viên có quyền sa thải lẫn nhau ra khỏi công ty."
       ],
       "correctIndex": 0,
       "explanation": "Biết rằng tuần sau mình phải báo cáo kết quả trước những người bạn tôn trọng nhất là nguồn động lực mạnh mẽ nhất tiêu diệt sự lười biếng và trì hoãn."
@@ -68,12 +68,12 @@
       "id": "q6",
       "question": "Điều kiện tiên quyết số một để một nhóm Mastermind có thể tồn tại và phát triển bền vững qua nhiều năm là gì?",
       "options": [
-        "Sự bảo mật thông tin tuyệt đối (Confidentiality) và sự tin cậy không phán xét, nơi mọi người dám bộc bạch những khó khăn sâu kín nhất mà không sợ bị lộ ra ngoài.",
         "Việc thuê một luật sư chuyên nghiệp giám sát tất cả các cuộc họp định kỳ.",
         "Việc ký hợp đồng chia sẻ toàn bộ lợi nhuận kinh doanh của tất cả các thành viên.",
-        "Việc tất cả các thành viên phải đóng học phí hàng tháng cho người sáng lập nhóm."
+        "Việc tất cả các thành viên phải đóng học phí hàng tháng cho người sáng lập nhóm.",
+        "Sự bảo mật thông tin tuyệt đối (Confidentiality) và sự tin cậy không phán xét, nơi mọi người dám bộc bạch những khó khăn sâu kín nhất mà không sợ bị lộ ra ngoài."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Sự an toàn tâm lý và tính bảo mật là mảnh đất nuôi dưỡng sự chân thực; không có bảo mật, nhóm sẽ nhanh chóng biến thành những buổi xã giao sáo rỗng."
     },
     {
@@ -81,9 +81,9 @@
       "question": "Làm thế nào để lựa chọn đúng những thành viên chất lượng khi bạn muốn thành lập một nhóm Mastermind của riêng mình?",
       "options": [
         "Tìm kiếm những người có tinh thần cho đi hào phóng, có tính kỷ luật cao, luôn khao khát học hỏi và có thái độ sống tích cực, lạc quan trước nghịch cảnh.",
-        "Chọn những người giàu có nhất trong thành phố bất kể nhân cách của họ ra sao.",
         "Chọn những người luôn đồng ý với tất cả các ý kiến cá nhân của bạn.",
-        "Chọn ngẫu nhiên những người lạ trên các diễn đàn mạng xã hội."
+        "Chọn ngẫu nhiên những người lạ trên các diễn đàn mạng xã hội.",
+        "Chọn những người giàu có nhất trong thành phố bất kể nhân cách của họ ra sao."
       ],
       "correctIndex": 0,
       "explanation": "Nhân cách và tinh thần phụng sự quan trọng hơn danh tiếng; một hạt táo sâu có thể làm hỏng cả giỏ hoa quả, lựa chọn thành viên đòi hỏi sự cẩn trọng tối đa."
@@ -92,24 +92,24 @@
       "id": "q8",
       "question": "Tại sao việc duy trì lịch sinh hoạt định kỳ nghiêm ngặt (ví dụ: sáng thứ Tư cách tuần từ 6h30-8h) lại mang tính sống còn đối với nhóm?",
       "options": [
-        "Tạo thành một nhịp sinh học và nghi thức ưu tiên cố định trong lịch trình, ngăn chặn việc nhóm bị tan rã dần do những bận rộn sự vụ thường nhật.",
+        "Để kiểm tra xem thành viên nào thường xuyên ngủ quên vào buổi sáng.",
         "Để đảm bảo trung tâm hội nghị không hủy hợp đồng cho thuê phòng họp.",
         "Vì đó là quy định bắt buộc trong luật pháp về các hiệp hội dân sự.",
-        "Để kiểm tra xem thành viên nào thường xuyên ngủ quên vào buổi sáng."
+        "Tạo thành một nhịp sinh học và nghi thức ưu tiên cố định trong lịch trình, ngăn chặn việc nhóm bị tan rã dần do những bận rộn sự vụ thường nhật."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Tính nhất quán tạo nên sức mạnh; khi các cuộc họp trở thành một phần không thể thiếu của lối sống, giá trị của nhóm sẽ tăng trưởng theo cấp số nhân."
     },
     {
       "id": "q9",
       "question": "Khi một thành viên trong nhóm Mastermind gặp phải một khủng hoảng kinh doanh hoặc biến cố cá nhân nghiêm trọng, phản ứng của nhóm là gì?",
       "options": [
-        "Toàn bộ các thành viên lập tức dồn nguồn lực, kết nối mạng lưới của mình và chung tay hỗ trợ người đó vượt qua cơn bão giông cuộc đời.",
-        "Trục xuất thành viên đó ra khỏi nhóm ngay lập tức để tránh rủi ro uy tín.",
         "Yêu cầu thành viên đó phải tự mình giải quyết và không được làm phiền nhóm.",
+        "Trục xuất thành viên đó ra khỏi nhóm ngay lập tức để tránh rủi ro uy tín.",
+        "Toàn bộ các thành viên lập tức dồn nguồn lực, kết nối mạng lưới của mình và chung tay hỗ trợ người đó vượt qua cơn bão giông cuộc đời.",
         "Tung tin đồn về biến cố của thành viên đó lên các phương tiện truyền thông."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Mastermind thực thụ không chỉ là nơi chia sẻ chiến lược kinh doanh mà còn là 'Hội đồng quản trị cuộc đời' và chiếc phao cứu sinh tinh thần vững chắc nhất."
     },
     {
@@ -117,9 +117,9 @@
       "question": "Điều gì là kẻ thù nguy hiểm nhất có thể phá hủy một nhóm Mastermind từ bên trong?",
       "options": [
         "Sự xuất hiện của thói vị kỷ, tính toán lợi ích cá nhân, sự thiếu cam kết tham gia và việc vi phạm nguyên tắc bảo mật thông tin nội bộ.",
+        "Việc các thành viên đọc những cuốn sách khác nhau vào cuối tuần.",
         "Việc các thành viên có mức thu nhập tài chính chênh lệch nhau.",
-        "Việc thay đổi địa điểm họp từ quán cà phê này sang quán cà phê khác.",
-        "Việc các thành viên đọc những cuốn sách khác nhau vào cuối tuần."
+        "Việc thay đổi địa điểm họp từ quán cà phê này sang quán cà phê khác."
       ],
       "correctIndex": 0,
       "explanation": "Sự toan tính và thiếu trung thực sẽ giết chết sự an toàn tâm lý; loại bỏ ngay những mầm mống tiêu cực là cách duy nhất để bảo vệ nhóm."
@@ -128,60 +128,60 @@
       "id": "q11",
       "question": "Chiến lược 'Chia sẻ mạng lưới' (Network Cross-pollination) giữa các thành viên trong nhóm Mastermind diễn ra như thế nào?",
       "options": [
-        "Mỗi thành viên hào phóng mở rộng toàn bộ danh bạ uy tín của mình để giúp các thành viên khác tiếp cận những đối tác, khách hàng và cơ hội mà họ đang cần.",
         "Tất cả các thành viên phải nộp lại điện thoại cho trưởng nhóm quản lý danh bạ.",
-        "Cấm các thành viên không được giới thiệu người quen cho nhau.",
-        "Thu phí phần trăm hoa hồng đối với mỗi lời giới thiệu trong nội bộ nhóm."
+        "Thu phí phần trăm hoa hồng đối với mỗi lời giới thiệu trong nội bộ nhóm.",
+        "Mỗi thành viên hào phóng mở rộng toàn bộ danh bạ uy tín của mình để giúp các thành viên khác tiếp cận những đối tác, khách hàng và cơ hội mà họ đang cần.",
+        "Cấm các thành viên không được giới thiệu người quen cho nhau."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Hợp nhất các mạng lưới: khi 6 người cùng mở danh bạ cho nhau, sức mạnh kết nối của mỗi cá nhân sẽ được nhân lên gấp sáu lần ngay lập tức."
     },
     {
       "id": "q12",
       "question": "Tại sao Benjamin Franklin lại coi câu lạc bộ Junto là trường đại học vĩ đại nhất và nguồn gốc mọi phát minh xã hội của ông?",
       "options": [
-        "Vì Junto chính là nơi thai nghén và hiện thực hóa các sáng kiến vĩ đại như thư viện công cộng đầu tiên, đội cứu hỏa tình nguyện và bệnh viện đầu tiên của nước Mỹ.",
-        "Vì Junto đã cấp cho Franklin tấm bằng tiến sĩ danh dự về khoa học vũ trụ.",
         "Vì Franklin đã kiếm được hàng triệu đô la từ việc bán thẻ thành viên câu lạc bộ.",
-        "Vì Junto là nơi duy nhất Franklin được phép phát biểu ý kiến cá nhân."
+        "Vì Junto là nơi duy nhất Franklin được phép phát biểu ý kiến cá nhân.",
+        "Vì Junto chính là nơi thai nghén và hiện thực hóa các sáng kiến vĩ đại như thư viện công cộng đầu tiên, đội cứu hỏa tình nguyện và bệnh viện đầu tiên của nước Mỹ.",
+        "Vì Junto đã cấp cho Franklin tấm bằng tiến sĩ danh dự về khoa học vũ trụ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Trí tuệ tập thể được dẫn dắt bởi tinh thần phụng sự có thể biến những ý tưởng nhỏ bé thành những thể chế phụng sự cộng đồng vĩ đại trường tồn qua nhiều thế kỷ."
     },
     {
       "id": "q13",
       "question": "Một người trẻ mới bắt đầu khởi nghiệp nên tìm kiếm những người bạn đồng hành cho nhóm Mastermind ở đâu?",
       "options": [
-        "Từ những người bạn học xuất sắc, những đồng nghiệp cùng chí hướng tại các hội thảo chuyên môn hoặc những người tham gia tích cực trong các dự án thiện nguyện.",
         "Từ những người chỉ thích chơi trò chơi điện tử thâu đêm suốt sáng.",
+        "Chỉ tìm kiếm những người đã nghỉ hưu trên 70 tuổi.",
         "Bằng cách đăng tin tuyển dụng trả lương cao trên các trang web tìm việc làm.",
-        "Chỉ tìm kiếm những người đã nghỉ hưu trên 70 tuổi."
+        "Từ những người bạn học xuất sắc, những đồng nghiệp cùng chí hướng tại các hội thảo chuyên môn hoặc những người tham gia tích cực trong các dự án thiện nguyện."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Tìm kiếm những hạt giống đồng điệu về khát vọng và nhân cách trong những môi trường rèn luyện thực tế là nền móng để xây dựng nhóm cùng tiến."
     },
     {
       "id": "q14",
       "question": "Nghi thức 'Tổng kết năm và Đặt mục tiêu năm mới' (Annual Retreat) của nhóm Mastermind mang lại giá trị gì?",
       "options": [
-        "Dành trọn 1-2 ngày tĩnh tâm rời xa thành phố để cùng nhau nhìn lại chặng đường đã qua, tôn vinh những thành tựu và tái thiết lập tầm nhìn đột phá cho năm tiếp theo.",
+        "Là kỳ nghỉ dưỡng bắt buộc phải có sự chứng kiến của chính quyền địa phương.",
         "Tổ chức một cuộc thi tranh luận căng thẳng để tìm ra người chiến thắng duy nhất.",
-        "Để thanh lý toàn bộ tài sản chung của nhóm và chia tiền mặt.",
-        "Là kỳ nghỉ dưỡng bắt buộc phải có sự chứng kiến của chính quyền địa phương."
+        "Dành trọn 1-2 ngày tĩnh tâm rời xa thành phố để cùng nhau nhìn lại chặng đường đã qua, tôn vinh những thành tựu và tái thiết lập tầm nhìn đột phá cho năm tiếp theo.",
+        "Để thanh lý toàn bộ tài sản chung của nhóm và chia tiền mặt."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Khoảng lặng tái tạo chiến lược giúp làm mới nguồn năng lượng, làm sâu sắc thêm tình bằng hữu và mở rộng chân trời khát vọng cho toàn bộ các thành viên."
     },
     {
       "id": "q15",
       "question": "Thông điệp đúc kết sâu sắc nhất của chương 27 có thể tóm gọn là gì?",
       "options": [
-        "Muốn đi nhanh hãy đi một mình, muốn đi xa hãy đi cùng nhau; xây dựng một nhóm Mastermind ngay hôm nay chính là gặt hái kỳ tích vĩ đại cho ngày mai.",
-        "Thành công chỉ thuộc về những ai dám đơn độc chiến đấu chống lại cả thế giới.",
         "Đừng bao giờ tin tưởng bất kỳ ai ngoài bản thân mình trong kinh doanh.",
-        "Hãy chờ đợi đến khi thật giàu có mới bắt đầu tìm kiếm bạn bè cùng tiến."
+        "Hãy chờ đợi đến khi thật giàu có mới bắt đầu tìm kiếm bạn bè cùng tiến.",
+        "Muốn đi nhanh hãy đi một mình, muốn đi xa hãy đi cùng nhau; xây dựng một nhóm Mastermind ngay hôm nay chính là gặt hái kỳ tích vĩ đại cho ngày mai.",
+        "Thành công chỉ thuộc về những ai dám đơn độc chiến đấu chống lại cả thế giới."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Sức mạnh của liên minh trí tuệ và tình bằng hữu chí cốt là bệ phóng vĩ đại nhất đưa con người vượt qua mọi giới hạn để chạm tới những đỉnh cao chói lọi."
     }
   ]

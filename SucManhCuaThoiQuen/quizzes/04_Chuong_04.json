@@ -9,23 +9,23 @@
       "question": "Khi Paul O’Neill nhậm chức CEO của Alcoa (tập đoàn nhôm khổng lồ của Mỹ) năm 1987, tuyên bố đầu tiên của ông trước các nhà đầu tư Phố Wall là gì khiến họ ngỡ ngàng?",
       "options": [
         "Ông sẽ cắt giảm 50% nhân sự và tăng gấp đôi giá bán nhôm.",
-        "Ông hoàn toàn không nói về lợi nhuận hay doanh thu, mà tuyên bố mục tiêu số một là biến Alcoa thành công ty an toàn nhất nước Mỹ với tỷ lệ tai nạn lao động bằng 0.",
+        "Ông sẽ chuyển toàn bộ nhà máy sang sản xuất phụ tùng máy bay chiến đấu.",
         "Ông yêu cầu các cổ đông bán hết cổ phiếu Alcoa ngay lập tức.",
-        "Ông sẽ chuyển toàn bộ nhà máy sang sản xuất phụ tùng máy bay chiến đấu."
+        "Ông hoàn toàn không nói về lợi nhuận hay doanh thu, mà tuyên bố mục tiêu số một là biến Alcoa thành công ty an toàn nhất nước Mỹ với tỷ lệ tai nạn lao động bằng 0."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Paul O'Neill không nói về tỷ suất lợi nhuận hay chi phí; ông chỉ tập trung vào một thói quen then chốt duy nhất: An toàn lao động tuyệt đối cho mọi công nhân."
     },
     {
       "id": "q2",
       "question": "Khái niệm 'Thói quen then chốt' (Keystone Habits) được định nghĩa là gì?",
       "options": [
+        "Thói quen khóa cửa cẩn thận trước khi đi ngủ.",
         "Những thói quen phức tạp và khó thực hiện nhất trong cuộc sống của một người.",
-        "Những thói quen nền tảng có khả năng kích hoạt một chuỗi các phản ứng dây chuyền, làm thay đổi toàn bộ các thói quen và quy trình khác trong đời sống cá nhân hoặc tổ chức.",
         "Thói quen chỉ dành riêng cho các nhà lãnh đạo cấp cao trong công ty.",
-        "Thói quen khóa cửa cẩn thận trước khi đi ngủ."
+        "Những thói quen nền tảng có khả năng kích hoạt một chuỗi các phản ứng dây chuyền, làm thay đổi toàn bộ các thói quen và quy trình khác trong đời sống cá nhân hoặc tổ chức."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Thói quen then chốt (Keystone Habits) là những mắt xích trọng yếu mà khi thay đổi chúng, nó sẽ tạo ra làn sóng tác động tích cực lan tỏa sang toàn bộ các khía cạnh khác trong tổ chức hoặc đời sống cá nhân."
     },
     {
@@ -34,8 +34,8 @@
       "options": [
         "Vì Alcoa bán được các thiết bị bảo hộ lao động cho các công ty khác.",
         "Vì để đạt được tỷ lệ tai nạn bằng 0, Alcoa buộc phải tái cấu trúc toàn bộ quy trình sản xuất, cải thiện đường dây truyền thông tin tức thời từ đáy lên đỉnh, và loại bỏ các sai sót kỹ thuật trong luyện kim.",
-        "Vì công nhân chấp nhận làm việc không nhận lương để đổi lấy an toàn.",
-        "Vì chính phủ Mỹ miễn toàn bộ thuế thu nhập doanh nghiệp cho Alcoa."
+        "Vì chính phủ Mỹ miễn toàn bộ thuế thu nhập doanh nghiệp cho Alcoa.",
+        "Vì công nhân chấp nhận làm việc không nhận lương để đổi lấy an toàn."
       ],
       "correctIndex": 1,
       "explanation": "Để bảo vệ công nhân khỏi kim loại nóng chảy, Alcoa phải tìm hiểu nguyên nhân gốc rễ của mọi hỏng hóc, chuẩn hóa quy trình vận hành và xây dựng hệ thống thông tin nội bộ thần tốc, từ đó tối ưu hóa toàn bộ dây chuyền sản xuất."
@@ -44,12 +44,12 @@
       "id": "q4",
       "question": "Khái niệm 'Những thắng lợi nhỏ' (Small wins) đóng vai trò gì trong cơ chế của thói quen then chốt?",
       "options": [
-        "Chúng chỉ là những thành tích phù phiếm không mang lại giá trị thực tế.",
-        "Chúng là những lợi thế nhỏ được tích lũy liên tục, tạo ra niềm tin rằng những thành tựu lớn hơn là hoàn toàn khả thi và thúc đẩy các thay đổi mang tính hệ thống tiếp theo.",
         "Chúng giúp công ty né tránh được các nghĩa vụ pháp lý lớn.",
-        "Chúng là những phần thưởng bằng tiền mặt trao cho nhân viên mỗi tuần."
+        "Chúng là những phần thưởng bằng tiền mặt trao cho nhân viên mỗi tuần.",
+        "Chúng là những lợi thế nhỏ được tích lũy liên tục, tạo ra niềm tin rằng những thành tựu lớn hơn là hoàn toàn khả thi và thúc đẩy các thay đổi mang tính hệ thống tiếp theo.",
+        "Chúng chỉ là những thành tích phù phiếm không mang lại giá trị thực tế."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Những thắng lợi nhỏ tích lũy tạo ra đà tâm lý và chứng minh rằng sự tiến bộ là có thật; nó thuyết phục mọi người rằng những mục tiêu lớn lao hoàn toàn nằm trong tầm tay."
     },
     {
@@ -57,21 +57,21 @@
       "question": "Tại sao việc rèn luyện thói quen tập thể dục hàng ngày lại được xem là một thói quen then chốt điển hình ở cấp độ cá nhân?",
       "options": [
         "Vì tập thể dục là hoạt động duy nhất đốt cháy calo của cơ thể.",
+        "Vì xã hội chỉ tôn trọng những người có cơ bắp vạm vỡ.",
         "Vì khi một người bắt đầu tập thể dục đều đặn, họ tự động có xu hướng ăn uống lành mạnh hơn, ngủ ngon hơn, làm việc năng suất hơn và quản lý tài chính tốt hơn mà không cần nỗ lực ép buộc riêng biệt.",
-        "Vì tập thể dục giúp kéo dài chiều cao thêm 10cm sau tuổi trưởng thành.",
-        "Vì xã hội chỉ tôn trọng những người có cơ bắp vạm vỡ."
+        "Vì tập thể dục giúp kéo dài chiều cao thêm 10cm sau tuổi trưởng thành."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Nghiên cứu chỉ ra rằng tập thể dục là thói quen then chốt tạo phản ứng dây chuyền: người tập thể dục thường tự động bớt hút thuốc, ít tiêu xài bốc đồng hơn, kiên nhẫn hơn và nâng cao kỷ luật bản thân ở mọi mặt."
     },
     {
       "id": "q6",
       "question": "Trong một nghiên cứu về thói quen ăn uống gia đình và thói quen gấp chăn màn buổi sáng, các nhà nghiên cứu phát hiện ra điều gì?",
       "options": [
-        "Những người gấp chăn màn buổi sáng thường có thu nhập thấp hơn người bình thường.",
+        "Không có bất kỳ mối tương quan nào giữa các hành vi nhỏ và thành công cuộc đời.",
         "Việc gấp chăn màn mỗi sáng gắn liền với năng suất làm việc cao hơn và cảm giác hạnh phúc hơn, vì nó là thắng lợi nhỏ đầu tiên thiết lập kỷ luật cho cả ngày.",
-        "Ăn tối cùng gia đình khiến trẻ em lười học hơn vì dành quá nhiều thời gian nói chuyện.",
-        "Không có bất kỳ mối tương quan nào giữa các hành vi nhỏ và thành công cuộc đời."
+        "Những người gấp chăn màn buổi sáng thường có thu nhập thấp hơn người bình thường.",
+        "Ăn tối cùng gia đình khiến trẻ em lười học hơn vì dành quá nhiều thời gian nói chuyện."
       ],
       "correctIndex": 1,
       "explanation": "Gấp chăn màn buổi sáng là một thói quen then chốt mang lại cảm giác hoàn thành một nhiệm vụ ngay từ đầu ngày, tạo động lực tâm lý để hoàn thành các công việc tiếp theo một cách ngăn nắp."
@@ -80,24 +80,24 @@
       "id": "q7",
       "question": "Quy định nghiêm ngặt nào của Paul O’Neill về an toàn lao động đã chứng minh cam kết sắt đá của ông đối với thói quen then chốt tại Alcoa?",
       "options": [
+        "Bất kỳ ai nhìn thấy tai nạn đều phải giữ bí mật để không làm mất danh hiệu công ty.",
         "Mọi tai nạn lao động phải được báo cáo lên bàn làm việc của CEO trong vòng 24 giờ cùng một kế hoạch khắc phục để nó không bao giờ tái diễn, nếu không lãnh đạo nhà máy sẽ bị sa thải.",
         "Công nhân bị thương sẽ bị trừ toàn bộ tiền lương trong tháng đó.",
-        "Bất kỳ ai nhìn thấy tai nạn đều phải giữ bí mật để không làm mất danh hiệu công ty.",
         "Mọi tai nạn chỉ cần báo cáo vào cuối năm tài chính."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "O'Neill yêu cầu mọi tai nạn phải được báo cáo trực tiếp cho ông trong 24 giờ kèm giải pháp cụ thể; ông thậm chí đã sa thải một giám đốc nhà máy kỳ cựu chỉ vì người này che giấu một sự cố suýt gây tai nạn."
     },
     {
       "id": "q8",
       "question": "Tại sao Paul O’Neill lại chọn 'An toàn lao động' làm điểm đột phá thay vì các mục tiêu kinh doanh truyền thống khi ông muốn cải tổ Alcoa?",
       "options": [
-        "Vì công đoàn và ban quản lý luôn tranh cãi về tiền lương và năng suất, nhưng 'an toàn tính mạng của công nhân' là điều duy nhất mà tất cả mọi người đều đồng thuận 100% không thể phản đối.",
-        "Vì ông được các hãng bảo hiểm trả hoa hồng cao nếu giảm được tai nạn.",
         "Vì Alcoa lúc đó không có đủ tiền để mua nguyên vật liệu sản xuất nhôm.",
-        "Vì chính phủ ép buộc ông phải làm như vậy."
+        "Vì chính phủ ép buộc ông phải làm như vậy.",
+        "Vì công đoàn và ban quản lý luôn tranh cãi về tiền lương và năng suất, nhưng 'an toàn tính mạng của công nhân' là điều duy nhất mà tất cả mọi người đều đồng thuận 100% không thể phản đối.",
+        "Vì ông được các hãng bảo hiểm trả hoa hồng cao nếu giảm được tai nạn."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "O'Neill rất thông thái khi nhận ra an toàn lao động là giá trị nhân văn mà cả ban điều hành, công đoàn và công nhân đều ủng hộ tuyệt đối; sự đồng thuận này phá vỡ thế bế tắc và đoàn kết toàn công ty."
     },
     {
@@ -116,10 +116,10 @@
       "id": "q10",
       "question": "Làm thế nào để một cá nhân hoặc nhà quản trị nhận diện được đâu là 'Thói quen then chốt' cần tập trung thay đổi trước?",
       "options": [
-        "Chọn thói quen nào dễ làm nhất và không tốn bất kỳ công sức nào.",
+        "Bắt chước 100% lịch trình của một tỷ phú nổi tiếng trên mạng xã hội.",
         "Tìm kiếm thói quen có khả năng tạo ra cảm giác thành tựu (thắng lợi nhỏ), tạo dựng cấu trúc văn hóa mới, hoặc thúc đẩy việc rèn luyện sự tự giác lan tỏa sang các lĩnh vực khác.",
-        "Bốc thăm ngẫu nhiên một danh sách các thói quen hàng ngày.",
-        "Bắt chước 100% lịch trình của một tỷ phú nổi tiếng trên mạng xã hội."
+        "Chọn thói quen nào dễ làm nhất và không tốn bất kỳ công sức nào.",
+        "Bốc thăm ngẫu nhiên một danh sách các thói quen hàng ngày."
       ],
       "correctIndex": 1,
       "explanation": "Thói quen then chốt là đòn bẩy chiến lược: nó cung cấp một nền tảng văn hóa mới, tạo ra những thắng lợi nhỏ có thể đo lường và trao quyền cho con người tin vào năng lực chuyển hóa của chính mình."
@@ -128,60 +128,60 @@
       "id": "q11",
       "question": "Tại sao việc thay đổi thói quen then chốt lại giúp xây dựng 'nền văn hóa doanh nghiệp' vững mạnh hơn là ban hành hàng trăm nội quy mới?",
       "options": [
-        "Vì nội quy bằng văn bản quá tốn kém chi phí in ấn.",
-        "Vì thói quen then chốt thẩm thấu vào giá trị cốt lõi và hành vi tự giác của mỗi thành viên, định hình cách mọi người ra quyết định khi không có người giám sát.",
         "Vì nhân viên không biết đọc các văn bản nội quy dài dòng.",
-        "Vì thói quen then chốt cho phép nhân viên đi làm muộn mà không bị phạt."
+        "Vì nội quy bằng văn bản quá tốn kém chi phí in ấn.",
+        "Vì thói quen then chốt cho phép nhân viên đi làm muộn mà không bị phạt.",
+        "Vì thói quen then chốt thẩm thấu vào giá trị cốt lõi và hành vi tự giác của mỗi thành viên, định hình cách mọi người ra quyết định khi không có người giám sát."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Văn hóa công ty thực chất là tập hợp các thói quen vô thức của nhân viên; thay đổi thói quen then chốt giúp thiết lập các chuẩn mực ứng xử ngầm mà mọi người tự giác tuân theo."
     },
     {
       "id": "q12",
       "question": "Khi một nhà đầu tư Phố Wall gọi điện cho các khách hàng lớn khuyên họ bán tháo cổ phiếu Alcoa ngay sau bài phát biểu nhậm chức của Paul O’Neill, bài học rút ra về tầm nhìn lãnh đạo ở đây là gì?",
       "options": [
-        "Nhà đầu tư đó đã có một quyết định sáng suốt và kiếm được rất nhiều tiền.",
         "Tư duy tài chính ngắn hạn thường bỏ qua sức mạnh tiềm tàng của các thói quen tổ chức then chốt – thứ thực sự tạo ra sự bền vững và đột phá dài hạn cho doanh nghiệp.",
+        "Alcoa đã bị phá sản ngay sau đó đúng như dự đoán của nhà đầu tư.",
         "Paul O'Neill thực sự không biết gì về quản trị kinh doanh.",
-        "Alcoa đã bị phá sản ngay sau đó đúng như dự đoán của nhà đầu tư."
+        "Nhà đầu tư đó đã có một quyết định sáng suốt và kiếm được rất nhiều tiền."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Nhà đầu tư đó đã phạm phải sai lầm lớn nhất sự nghiệp; việc không nhìn thấy sức mạnh của thói quen tổ chức khiến họ bỏ lỡ một trong những đợt tăng giá cổ phiếu ấn tượng nhất lịch sử nước Mỹ."
     },
     {
       "id": "q13",
       "question": "Trong giáo dục và nuôi dạy con cái, việc rèn luyện cho trẻ một thói quen then chốt (như học một nhạc cụ hoặc chơi một môn thể thao có kỷ luật) mang lại lợi ích gì vượt trội?",
       "options": [
-        "Đảm bảo 100% đứa trẻ đó sẽ trở thành nghệ sĩ hoặc vận động viên chuyên nghiệp.",
         "Giúp trẻ rèn luyện 'cơ bắp ý chí' và khả năng kiên trì vượt qua sự chán nản ban đầu – năng lực này sẽ tự động chuyển hóa sang kết quả học tập và kỹ năng giải quyết vấn đề.",
         "Giúp cha mẹ không cần phải chi trả tiền học phí phổ thông.",
+        "Đảm bảo 100% đứa trẻ đó sẽ trở thành nghệ sĩ hoặc vận động viên chuyên nghiệp.",
         "Làm cho đứa trẻ không còn nhu cầu giao tiếp với bạn bè cùng trang lứa."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Học nhạc cụ hay chơi thể thao không chỉ là kỹ năng riêng lẻ mà là một thói quen then chốt rèn luyện sự tự chủ, tính kiên nhẫn và khả năng trì hoãn sự thỏa mãn – nền tảng cho mọi thành công học tập."
     },
     {
       "id": "q14",
       "question": "Một công nhân Alcoa đã từng trực tiếp đến gặp Paul O’Neill để đề xuất một cải tiến kỹ thuật mà các đời CEO trước từ chối lắng nghe, điều này phản ánh điều gì?",
       "options": [
-        "Công nhân đó muốn được thăng chức làm phó tổng giám đốc.",
-        "Thói quen then chốt về an toàn đã mở toang cánh cửa giao tiếp hai chiều, trao quyền cho công nhân và phá bỏ sự trì trệ của tầng lớp quản lý trung gian.",
         "O'Neill không tin tưởng ban giám đốc nhà máy nên phải tự đi gặp từng công nhân.",
-        "Alcoa không có phòng nghiên cứu và phát triển sản phẩm."
+        "Alcoa không có phòng nghiên cứu và phát triển sản phẩm.",
+        "Công nhân đó muốn được thăng chức làm phó tổng giám đốc.",
+        "Thói quen then chốt về an toàn đã mở toang cánh cửa giao tiếp hai chiều, trao quyền cho công nhân và phá bỏ sự trì trệ của tầng lớp quản lý trung gian."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Khi thói quen an toàn được thiết lập, mọi rào cản tôn ti trật tự bị xóa bỏ vì an toàn là quyền lợi chung; điều này khuyến khích công nhân mạnh dạn đóng góp sáng kiến cải tiến dây chuyền sản xuất."
     },
     {
       "id": "q15",
       "question": "Bài học then chốt rút ra từ Chương 4 cho bất kỳ ai muốn thay đổi cuộc đời hoặc tổ chức của mình là gì?",
       "options": [
-        "Cố gắng thay đổi tất cả mọi thứ cùng một lúc trong sự hỗn loạn.",
         "Đừng cố gắng thay đổi mọi thứ; hãy tìm ra đúng 'Thói quen then chốt', tập trung toàn bộ năng lực vào đó và để những thắng lợi nhỏ tạo nên phản ứng dây chuyền chuyển hóa toàn diện.",
-        "Chỉ cần tập trung vào việc kiếm thật nhiều tiền, thói quen tốt sẽ tự động xuất hiện.",
-        "Thay đổi thói quen chỉ áp dụng được cho các công ty sản xuất kim loại."
+        "Thay đổi thói quen chỉ áp dụng được cho các công ty sản xuất kim loại.",
+        "Cố gắng thay đổi tất cả mọi thứ cùng một lúc trong sự hỗn loạn.",
+        "Chỉ cần tập trung vào việc kiếm thật nhiều tiền, thói quen tốt sẽ tự động xuất hiện."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Thành công lớn bắt đầu từ sự tập trung có tính toán: xác định và làm chủ thói quen then chốt để tạo ra đà chuyển hóa tự nhiên cho toàn bộ hệ thống hành vi."
     }
   ]

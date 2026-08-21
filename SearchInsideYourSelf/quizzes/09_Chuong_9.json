@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Kế hoạch 'Ba bước dễ dàng đi đến hòa bình thế giới' đầy tham vọng nhưng hóm hỉnh của Chade-Meng Tan bao gồm những gì?",
       "options": [
-        "1. Chế tạo vũ khí -> 2. Đe dọa đối thủ -> 3. Ký hiệp ước hòa bình.",
-        "1. Tạo ra một điều kiện tiên quyết cho hòa bình (Sự an lạc nội tâm thông qua thiền định) -> 2. Biến nó thành điều kiện cần (Tạo động lực để thiền định mang lại thành công sự nghiệp và lợi nhuận) -> 3. Nhân rộng nó ra quy mô toàn cầu.",
         "1. Bầu Meng làm tổng thống -> 2. Tặng tiền cho mọi người -> 3. Cấm chiến tranh.",
-        "1. Đóng cửa biên giới các quốc gia -> 2. Cắt mạng internet -> 3. Ngủ đông."
+        "1. Đóng cửa biên giới các quốc gia -> 2. Cắt mạng internet -> 3. Ngủ đông.",
+        "1. Chế tạo vũ khí -> 2. Đe dọa đối thủ -> 3. Ký hiệp ước hòa bình.",
+        "1. Tạo ra một điều kiện tiên quyết cho hòa bình (Sự an lạc nội tâm thông qua thiền định) -> 2. Biến nó thành điều kiện cần (Tạo động lực để thiền định mang lại thành công sự nghiệp và lợi nhuận) -> 3. Nhân rộng nó ra quy mô toàn cầu."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Chiến lược thông minh của Meng: Muốn thiền và lòng từ bi lan tỏa khắp thế giới, phải chứng minh rằng chúng mang lại hiệu quả công việc, sự nghiệp thành công và lợi nhuận kinh tế cho các doanh nghiệp."
     },
     {
@@ -21,21 +21,21 @@
       "question": "Tại sao tác giả lại nhấn mạnh việc liên kết Chánh niệm và EQ với 'Sự thành công trong sự nghiệp và Lợi nhuận doanh nghiệp' ở Bước 2?",
       "options": [
         "Vì Meng là một người tham lam chỉ muốn kiếm tiền.",
-        "Vì nếu chánh niệm chỉ được xem là sự tu tập khổ hạnh xa rời thực tế, nó sẽ chỉ thu hút một nhóm nhỏ; nhưng khi nó được chứng minh là chìa khóa của hiệu suất và sự thịnh vượng, toàn bộ thế giới doanh nghiệp sẽ tự động áp dụng và nhân bản nó.",
         "Vì công ty Google bắt buộc Meng phải nói như vậy.",
+        "Vì nếu chánh niệm chỉ được xem là sự tu tập khổ hạnh xa rời thực tế, nó sẽ chỉ thu hút một nhóm nhỏ; nhưng khi nó được chứng minh là chìa khóa của hiệu suất và sự thịnh vượng, toàn bộ thế giới doanh nghiệp sẽ tự động áp dụng và nhân bản nó.",
         "Vì tiền bạc là mục tiêu duy nhất của cuộc sống."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Đây là tư duy kỹ sư thực dụng: đưa công nghệ chuyển hóa tâm thức vào động cơ vận hành của nền kinh tế toàn cầu để tạo ra sự lan tỏa tự nhiên ở quy mô hàng tỷ người."
     },
     {
       "id": "q3",
       "question": "Mối quan hệ giữa 'Sự bình an nội tâm' (Inner peace) và 'Hòa bình thế giới' (World peace) được lý giải như thế nào?",
       "options": [
-        "Hai khái niệm này hoàn toàn độc lập và không liên quan gì đến nhau.",
+        "Sự bình an nội tâm làm cho con người mất đi ý chí bảo vệ đất nước.",
         "Chiến tranh và xung đột bên ngoài chỉ là sự phản chiếu phóng đại của lòng tham, nỗi sợ hãi và sự giận dữ chưa được chuyển hóa bên trong tâm hồn con người; hòa bình thế giới chỉ có thể xây dựng trên nền tảng của những con người an bình.",
-        "Hòa bình thế giới chỉ phụ thuộc vào các nghị quyết của Liên Hợp Quốc.",
-        "Sự bình an nội tâm làm cho con người mất đi ý chí bảo vệ đất nước."
+        "Hai khái niệm này hoàn toàn độc lập và không liên quan gì đến nhau.",
+        "Hòa bình thế giới chỉ phụ thuộc vào các nghị quyết của Liên Hợp Quốc."
       ],
       "correctIndex": 1,
       "explanation": "Tâm bình thế giới bình: khi mỗi cá nhân tìm thấy sự tĩnh lặng và lòng từ bi bên trong, mọi mầm mống của bạo lực và hận thù xã hội sẽ tự nhiên bị triệt tiêu."
@@ -44,33 +44,33 @@
       "id": "q4",
       "question": "Tổ chức phi lợi nhuận 'Search Inside Yourself Leadership Institute' (SIYLI) được thành lập sau thành công tại Google nhằm mục đích gì?",
       "options": [
-        "Để bán đồ lưu niệm và áo phông có in logo Google.",
-        "Để mang giáo trình đào tạo SIY ra khỏi Google, chia sẻ rộng rãi cho các tập đoàn, tổ chức phi chính phủ, trường học và các cộng đồng trên toàn thế giới hoàn toàn độc lập.",
+        "Để thu hút vốn đầu tư mạo hiểm cho tác giả.",
         "Để cạnh tranh với các trường đại học danh tiếng.",
-        "Để thu hút vốn đầu tư mạo hiểm cho tác giả."
+        "Để bán đồ lưu niệm và áo phông có in logo Google.",
+        "Để mang giáo trình đào tạo SIY ra khỏi Google, chia sẻ rộng rãi cho các tập đoàn, tổ chức phi chính phủ, trường học và các cộng đồng trên toàn thế giới hoàn toàn độc lập."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Meng và các cộng sự đã biến SIY thành một di sản chung của nhân loại thông qua viện SIYLI, đào tạo hàng ngàn giảng viên toàn cầu để lan tỏa chánh niệm."
     },
     {
       "id": "q5",
       "question": "Câu chuyện chụp ảnh chung với các nhân vật quyền lực nhất thế giới (như Tổng thống Barack Obama, Đạt Lai Lạt Ma, Bill Clinton) trên bức tường của Meng mang ý nghĩa gì?",
       "options": [
-        "Meng muốn khoe khoang sự giàu có và địa vị của mình.",
-        "Đó là phương tiện kết nối thiện xảo: Meng dùng sự hài hước và tầm ảnh hưởng để gieo hạt giống chánh niệm, lòng từ bi và hòa bình vào tâm trí của những nhà lãnh đạo có tầm ảnh hưởng lớn nhất hành tinh.",
+        "Các bức ảnh đó đều là ảnh ghép photoshop.",
         "Meng muốn trở thành một chính trị gia chuyên nghiệp.",
-        "Các bức ảnh đó đều là ảnh ghép photoshop."
+        "Đó là phương tiện kết nối thiện xảo: Meng dùng sự hài hước và tầm ảnh hưởng để gieo hạt giống chánh niệm, lòng từ bi và hòa bình vào tâm trí của những nhà lãnh đạo có tầm ảnh hưởng lớn nhất hành tinh.",
+        "Meng muốn khoe khoang sự giàu có và địa vị của mình."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Meng dùng vị thế 'Người bạn dễ thương' để làm cầu nối đưa các giá trị nhân văn và hòa bình tiếp cận những bộ óc định hình chính sách toàn cầu."
     },
     {
       "id": "q6",
       "question": "Tại sao việc rèn luyện tâm trí được ví như cuộc cách mạng y tế cộng đồng về 'Tập thể dục thể thao' (Physical fitness revolution) trong thế kỷ 20?",
       "options": [
-        "Vì thiền định làm cho người ta giảm cân nhanh hơn chạy bộ.",
-        "Đầu thế kỷ 20, tập thể dục bị coi là kỳ quặc; ngày nay ai cũng hiểu tập thể dục là cần thiết cho sức khỏe. Tương tự, rèn luyện tâm trí (Mental fitness) trong thế kỷ 21 sẽ trở thành một thói quen vệ sinh tinh thần phổ quát cho toàn nhân loại.",
         "Vì phòng gym sẽ sớm bị đóng cửa và thay thế bằng phòng thiền.",
+        "Đầu thế kỷ 20, tập thể dục bị coi là kỳ quặc; ngày nay ai cũng hiểu tập thể dục là cần thiết cho sức khỏe. Tương tự, rèn luyện tâm trí (Mental fitness) trong thế kỷ 21 sẽ trở thành một thói quen vệ sinh tinh thần phổ quát cho toàn nhân loại.",
+        "Vì thiền định làm cho người ta giảm cân nhanh hơn chạy bộ.",
         "Vì cả hai đều đòi hỏi phải mua giày thể thao đắt tiền."
       ],
       "correctIndex": 1,
@@ -80,24 +80,24 @@
       "id": "q7",
       "question": "Theo Meng, điều gì sẽ xảy ra nếu 1 tỷ người trên thế giới cùng thực hành chánh niệm và chúc phúc cho người khác mỗi ngày?",
       "options": [
-        "Trái Đất sẽ ngừng quay quanh Mặt Trời.",
-        "Một sự chuyển dịch lượng tử trong ý thức tập thể của nhân loại: tỷ lệ bạo lực, tội phạm, trầm cảm sẽ giảm mạnh; lòng nhân ái và sự hợp tác toàn cầu sẽ trở thành chuẩn mực đạo đức mới của nền văn minh.",
         "Tất cả các công ty công nghệ sẽ bị đóng cửa.",
-        "Mọi người sẽ không còn động lực đi làm kiếm tiền."
+        "Mọi người sẽ không còn động lực đi làm kiếm tiền.",
+        "Một sự chuyển dịch lượng tử trong ý thức tập thể của nhân loại: tỷ lệ bạo lực, tội phạm, trầm cảm sẽ giảm mạnh; lòng nhân ái và sự hợp tác toàn cầu sẽ trở thành chuẩn mực đạo đức mới của nền văn minh.",
+        "Trái Đất sẽ ngừng quay quanh Mặt Trời."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Hiệu ứng cộng hưởng tập thể: khi khối lượng tới hạn (critical mass) của sự tỉnh thức được thiết lập, xã hội sẽ tự động tiến hóa lên một nấc thang hòa bình mới."
     },
     {
       "id": "q8",
       "question": "Khái niệm 'Lòng trắc ẩn mang tính chiến lược' (Strategic compassion) trong quan hệ quốc tế hướng tới điều gì?",
       "options": [
+        "Cấm công dân các nước nói chuyện với nhau.",
         "Bỏ mặc các cuộc khủng hoảng nhân đạo trên thế giới.",
-        "Giải quyết các mâu thuẫn địa chính trị bằng sự thấu hiểu sâu sắc các nhu cầu kinh tế, văn hóa và nỗi sợ hãi lịch sử của đối phương thay vì sử dụng các biện pháp trừng phạt và răn đe quân sự hủy diệt.",
         "Tập trung chế tạo các loại vũ khí hủy diệt hàng loạt.",
-        "Cấm công dân các nước nói chuyện với nhau."
+        "Giải quyết các mâu thuẫn địa chính trị bằng sự thấu hiểu sâu sắc các nhu cầu kinh tế, văn hóa và nỗi sợ hãi lịch sử của đối phương thay vì sử dụng các biện pháp trừng phạt và răn đe quân sự hủy diệt."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Ngoại giao dựa trên lòng trắc ẩn và EQ là con đường duy nhất giải quyết tận gốc rễ những xung đột sắc tộc và ý thức hệ phức tạp."
     },
     {
@@ -105,11 +105,11 @@
       "question": "Tại sao tác giả lại khẳng định: 'Hòa bình thế giới là một bài toán kỹ thuật có thể giải quyết được' (World peace is an engineering problem)?",
       "options": [
         "Vì chúng ta có thể xây dựng một bức tường khổng lồ ngăn cách các châu lục.",
+        "Đây chỉ là một câu nói đùa không có tính khả thi.",
         "Dưới lăng kính kỹ sư: nếu ta xác định rõ các thông số đầu vào (tâm trí con người), xây dựng quy trình rèn luyện chuẩn hóa (chánh niệm & EQ) và tối ưu hóa hệ thống phân phối toàn cầu, bài toán hòa bình hoàn toàn có thể được hiện thực hóa từng bước một.",
-        "Vì máy tính siêu thông minh sẽ tự động ký các hiệp ước hòa bình.",
-        "Đây chỉ là một câu nói đùa không có tính khả thi."
+        "Vì máy tính siêu thông minh sẽ tự động ký các hiệp ước hòa bình."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Meng tiếp cận bài toán hòa bình với sự lạc quan và phương pháp luận chặt chẽ của một kỹ sư: biến ước mơ trừu tượng thành một dự án kỹ thuật có lộ trình thực thi rõ ràng."
     },
     {
@@ -118,8 +118,8 @@
       "options": [
         "Ngồi chờ đợi các nhà lãnh đạo thế giới hành động.",
         "Bắt đầu từ chính mình: trở thành một điểm sáng của sự bình an, lòng tốt và tỉnh thức trong gia đình, nơi làm việc và cộng đồng của bạn; mỗi hành động tử tế nhỏ bé của bạn là một đóng góp trực tiếp cho nền hòa bình thế giới.",
-        "Chỉ trích tất cả những người chưa thực hành thiền định.",
-        "Bỏ công việc hiện tại để đi du lịch vòng quanh thế giới."
+        "Bỏ công việc hiện tại để đi du lịch vòng quanh thế giới.",
+        "Chỉ trích tất cả những người chưa thực hành thiền định."
       ],
       "correctIndex": 1,
       "explanation": "Bạn không cần phải là tổng thống để thay đổi thế giới; sự an lành và tử tế bạn trao đi mỗi ngày chính là những viên gạch xây nên thế giới hòa bình."
@@ -128,10 +128,10 @@
       "id": "q11",
       "question": "Khái niệm 'Di sản vô hình' (Invisible legacy) mà Meng muốn để lại cho thế hệ mai sau là gì?",
       "options": [
-        "Một khối tài sản tiền điện tử khổng lồ.",
+        "Một thuật toán tìm kiếm độc quyền của riêng ông.",
         "Một thế giới nơi việc chăm sóc tâm trí, nuôi dưỡng lòng từ bi và thực hành chánh niệm trở nên tự nhiên và phổ biến như việc đánh răng mỗi buổi sáng.",
-        "Một tòa nhà chọc trời cao nhất thế giới tại Thung lũng Silicon.",
-        "Một thuật toán tìm kiếm độc quyền của riêng ông."
+        "Một khối tài sản tiền điện tử khổng lồ.",
+        "Một tòa nhà chọc trời cao nhất thế giới tại Thung lũng Silicon."
       ],
       "correctIndex": 1,
       "explanation": "Di sản đẹp đẽ nhất là trao cho nhân loại công cụ để tự giải thoát khỏi đau khổ và cùng nhau chung sống trong tình huynh đệ ấm áp."
@@ -141,23 +141,23 @@
       "question": "Điều gì chứng minh rằng mô hình của SIY đã tạo nên làn sóng chuyển hóa tại hàng trăm tập đoàn đa quốc gia lớn?",
       "options": [
         "Các công ty bắt buộc nhân viên phải đổi tên theo tiếng Phạn.",
-        "Các tập đoàn hàng đầu như SAP, Ford, LinkedIn, Roche đã chính thức đưa SIY vào chương trình đào tạo lãnh đạo cốt lõi và ghi nhận sự cải thiện vượt bậc về chỉ số gắn kết và an toàn tâm lý.",
+        "Nhân viên tại các công ty này không cần phải nộp thuế thu nhập.",
         "Các tập đoàn này đã đóng cửa các hoạt động sản xuất kinh doanh.",
-        "Nhân viên tại các công ty này không cần phải nộp thuế thu nhập."
+        "Các tập đoàn hàng đầu như SAP, Ford, LinkedIn, Roche đã chính thức đưa SIY vào chương trình đào tạo lãnh đạo cốt lõi và ghi nhận sự cải thiện vượt bậc về chỉ số gắn kết và an toàn tâm lý."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "SIY đã trở thành tiêu chuẩn vàng trong đào tạo văn hóa doanh nghiệp hiện đại, chứng minh tính đúng đắn của Bước 2 trong lộ trình hòa bình của Meng."
     },
     {
       "id": "q13",
       "question": "Tại sao sự hài hước và niềm vui (Joy) lại là thành tố không thể thiếu trong con đường kiến tạo hòa bình của Meng?",
       "options": [
-        "Vì nếu không hài hước thì sách sẽ không bán chạy.",
         "Vì sự chuyển hóa tâm thức không thể bền vững nếu nó dựa trên sự u sầu khổ hạnh; niềm vui và tiếng cười sảng khoái là năng lượng kết nối con người nhanh nhất và làm cho hòa bình trở nên quyến rũ.",
+        "Vì nếu không hài hước thì sách sẽ không bán chạy.",
         "Vì Meng từng là một diễn viên hài kịch chuyên nghiệp.",
         "Vì sự hài hước làm giảm lượng calo tiêu thụ của não."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Hòa bình không phải là sự trang nghiêm buồn tẻ; hòa bình là ngày hội của niềm vui sống, sự tử tế và tiếng cười rộn rã giữa muôn người."
     },
     {
@@ -176,9 +176,9 @@
       "id": "q15",
       "question": "Thông điệp đúc kết từ Chương 9 và toàn bộ cuốn sách 'Search Inside Yourself' là gì?",
       "options": [
-        "Hãy sống một cuộc đời ích kỷ và mặc kệ số phận của thế giới.",
-        "Hành trình vĩ đại nhất của nhân loại bắt đầu từ chuyến du hành vào bên trong chính mình; khi bạn tìm thấy sự bình an, hạnh phúc và lòng từ bi trong tâm hồn, bạn đã bắt đầu thay đổi thế giới từ ngày hôm nay.",
         "Chỉ có công nghệ máy móc mới có thể cứu rỗi nhân loại.",
+        "Hành trình vĩ đại nhất của nhân loại bắt đầu từ chuyến du hành vào bên trong chính mình; khi bạn tìm thấy sự bình an, hạnh phúc và lòng từ bi trong tâm hồn, bạn đã bắt đầu thay đổi thế giới từ ngày hôm nay.",
+        "Hãy sống một cuộc đời ích kỷ và mặc kệ số phận của thế giới.",
         "Hòa bình thế giới là điều hoàn toàn bất khả thi."
       ],
       "correctIndex": 1,

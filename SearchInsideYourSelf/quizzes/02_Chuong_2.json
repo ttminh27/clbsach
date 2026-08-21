@@ -8,10 +8,10 @@
       "id": "q1",
       "question": "Trong bài tập thiền chánh niệm cơ bản về hơi thở, hai phẩm chất tinh thần cốt lõi cần được rèn luyện đồng thời là gì?",
       "options": [
-        "Sự căng thẳng và sự ép buộc.",
+        "Tốc độ suy nghĩ nhanh và trí nhớ ngắn hạn.",
         "Sự chú ý sắc bén (Vividness/Clarity) và Sự thư giãn tĩnh lặng (Stability/Calm).",
-        "Nỗi sợ hãi và sự trốn chạy.",
-        "Tốc độ suy nghĩ nhanh và trí nhớ ngắn hạn."
+        "Sự căng thẳng và sự ép buộc.",
+        "Nỗi sợ hãi và sự trốn chạy."
       ],
       "correctIndex": 1,
       "explanation": "Hai trụ cột của thiền định: Sự sáng rõ, tỉnh táo sắc bén (không rơi vào buồn ngủ, hôn trầm) kết hợp với Sự buông thư, tĩnh lặng sâu sắc (không rơi vào lăng xăng, trạo cử)."
@@ -20,34 +20,34 @@
       "id": "q2",
       "question": "Tư thế ngồi thiền lý tưởng được Chade-Meng Tan mô tả như thế nào để vừa duy trì sự tỉnh táo vừa thư giãn?",
       "options": [
-        "Nằm ngửa trên giường đắp chăn ấm.",
-        "Lưng thẳng tự nhiên như một chồng tiền xu xếp chồng lên nhau (thẳng nhưng không gồng cứng), vai thả lỏng, ngực mở rộng, hai chân vững chãi như núi.",
+        "Đứng bằng một chân trên mũi giày.",
         "Ngồi gập người về phía trước để ép bụng thở mạnh.",
-        "Đứng bằng một chân trên mũi giày."
+        "Lưng thẳng tự nhiên như một chồng tiền xu xếp chồng lên nhau (thẳng nhưng không gồng cứng), vai thả lỏng, ngực mở rộng, hai chân vững chãi như núi.",
+        "Nằm ngửa trên giường đắp chăn ấm."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tư thế lưng thẳng phản ánh sự tỉnh thức và lòng tự trọng; sự thả lỏng các cơ bắp quanh vai và hàm mặt mang lại sự bình an dễ chịu."
     },
     {
       "id": "q3",
       "question": "Khi thực hành theo dõi hơi thở, vị trí nào trên cơ thể thường được chọn làm 'Điểm neo chú ý' (Anchor) tự nhiên nhất?",
       "options": [
-        "Đầu ngón chân cái bên trái.",
-        "Cảm giác xúc chạm của luồng không khí đi qua cửa mũi hoặc sự phồng xẹp nhịp nhàng của thành bụng.",
         "Đỉnh đầu khi nhìn lên trần nhà.",
-        "Lỗ tai khi nghe tiếng còi xe ngoài đường."
+        "Lỗ tai khi nghe tiếng còi xe ngoài đường.",
+        "Cảm giác xúc chạm của luồng không khí đi qua cửa mũi hoặc sự phồng xẹp nhịp nhàng của thành bụng.",
+        "Đầu ngón chân cái bên trái."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Cảm giác mát lạnh của hơi thở ở cửa mũi hoặc nhịp phồng lên xẹp xuống ở bụng là những tín hiệu xúc giác sinh học rõ ràng nhất để giữ tâm trí neo đậu tại hiện tại."
     },
     {
       "id": "q4",
       "question": "Một người thiền sinh hỏi thiền sư: 'Tôi phải làm gì nếu trong lúc thiền tâm trí tôi liên tục nghĩ về các dự án công việc dở dang?', câu trả lời chuẩn mực của chánh niệm là gì?",
       "options": [
-        "Hãy tự tát vào mặt mình để trừng phạt sự mất tập trung.",
-        "Không có gì sai cả; khoảnh khắc bạn nhận biết tâm trí mình đang nghĩ về công việc chính là khoảnh khắc của tỉnh thức. Hãy mỉm cười ghi nhận rồi nhẹ nhàng đưa sự chú ý quay về với hơi thở.",
         "Hãy lập tức mở máy tính lên làm việc cho xong rồi mới ngồi thiền tiếp.",
-        "Uống thuốc an thần để làm tê liệt các suy nghĩ đó."
+        "Không có gì sai cả; khoảnh khắc bạn nhận biết tâm trí mình đang nghĩ về công việc chính là khoảnh khắc của tỉnh thức. Hãy mỉm cười ghi nhận rồi nhẹ nhàng đưa sự chú ý quay về với hơi thở.",
+        "Uống thuốc an thần để làm tê liệt các suy nghĩ đó.",
+        "Hãy tự tát vào mặt mình để trừng phạt sự mất tập trung."
       ],
       "correctIndex": 1,
       "explanation": "Mất tập trung không phải là thất bại; nhận biết sự mất tập trung và đưa tâm trở về là cốt lõi của bài tập rèn luyện cơ bắp chú ý."
@@ -57,68 +57,68 @@
       "question": "Khái niệm 'Không nỗ lực' (Effortless effort) trong thiền định được hiểu là gì?",
       "options": [
         "Ngủ gục trên ghế và không làm gì cả.",
-        "Sự chú tâm nhẹ nhàng và tự nhiên, không dùng ý chí gồng ép hay chiến đấu chống lại các suy nghĩ; giống như người chăn bò thả lỏng dây cương khi bò đang gặm cỏ yên bình.",
         "Nỗ lực làm việc 16 tiếng mỗi ngày không ngừng nghỉ.",
+        "Sự chú tâm nhẹ nhàng và tự nhiên, không dùng ý chí gồng ép hay chiến đấu chống lại các suy nghĩ; giống như người chăn bò thả lỏng dây cương khi bò đang gặm cỏ yên bình.",
         "Bắt ép tim phải đập chậm lại theo ý muốn."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Thiền là buông bỏ sự căng thẳng: bạn không thể dùng sự căng thẳng để đi tìm sự bình an; tâm trí tĩnh lặng nhất khi được để yên tự nhiên trong sự chú ý dịu dàng."
     },
     {
       "id": "q6",
       "question": "Tại sao tác giả lại đưa ra lời khuyên: 'Hãy thực hành thiền ít hơn thời gian bạn có thể làm' trong những ngày đầu tiên?",
       "options": [
-        "Vì thiền quá nhiều sẽ làm mòn xương khớp.",
-        "Để duy trì sự hứng thú và cảm giác tươi mới cho tâm trí, giúp việc thực hành không bị biến thành một gánh nặng tâm lý hay nghĩa vụ mệt mỏi.",
         "Vì công ty Google giới hạn thời gian thiền của nhân viên.",
-        "Vì phổi sẽ bị khô nếu thở sâu quá 5 phút."
+        "Vì phổi sẽ bị khô nếu thở sâu quá 5 phút.",
+        "Để duy trì sự hứng thú và cảm giác tươi mới cho tâm trí, giúp việc thực hành không bị biến thành một gánh nặng tâm lý hay nghĩa vụ mệt mỏi.",
+        "Vì thiền quá nhiều sẽ làm mòn xương khớp."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Nếu bạn có thể ngồi 10 phút thoải mái, hãy dừng lại ở phút thứ 7 khi tâm trí vẫn còn vui tươi; điều này giúp bạn háo hức muốn quay lại thực hành vào ngày mai."
     },
     {
       "id": "q7",
       "question": "Khái niệm 'Tâm người mới bắt đầu' (Beginner's mind / Shoshin) trong chánh niệm có ý nghĩa gì đối với việc quan sát hơi thở?",
       "options": [
+        "Chỉ có trẻ sơ sinh mới có thể thực hành được khái niệm này.",
         "Bạn luôn phải coi mình là người dốt nát và không biết gì.",
         "Tiếp cận từng hơi thở với sự tò mò, háo hức và tươi mới như thể đây là lần đầu tiên trong đời bạn được trải nghiệm một hơi thở kỳ diệu.",
-        "Chỉ có trẻ sơ sinh mới có thể thực hành được khái niệm này.",
         "Việc quên đi toàn bộ các kỹ năng đã học trong quá khứ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tâm người mới bắt đầu giúp xua tan sự nhàm chán: mỗi hơi thở là duy nhất và chưa từng xuất hiện trước đó trong vũ trụ; khi nhìn với con mắt tươi mới, sự chú ý sẽ tự nhiên bừng sáng."
     },
     {
       "id": "q8",
       "question": "Nghiên cứu khoa học thần kinh về 'Mạng lưới chế độ mặc định' (Default Mode Network - DMN) của não bộ cho thấy điều gì xảy ra khi chúng ta thiền?",
       "options": [
-        "Mạng lưới DMN hoạt động mạnh gấp đôi bình thường.",
-        "Hoạt động của mạng DMN (vùng não chịu trách nhiệm cho việc suy nghĩ miên man về quá khứ, lo âu về tương lai và ám ảnh về cái tôi) bị suy giảm rõ rệt, giúp tâm trí đạt được sự an bình đích thực.",
         "Mạng lưới DMN tự động bị ngắt kết nối vĩnh viễn khỏi não.",
-        "Não bộ chuyển sang sử dụng năng lượng mặt trời."
+        "Não bộ chuyển sang sử dụng năng lượng mặt trời.",
+        "Mạng lưới DMN hoạt động mạnh gấp đôi bình thường.",
+        "Hoạt động của mạng DMN (vùng não chịu trách nhiệm cho việc suy nghĩ miên man về quá khứ, lo âu về tương lai và ám ảnh về cái tôi) bị suy giảm rõ rệt, giúp tâm trí đạt được sự an bình đích thực."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "DMN là nguồn gốc của sự lang thang tâm trí và tự phán xét bản thân; thiền làm dịu vùng não này, mang lại sự nhẹ nhõm và tĩnh lặng sâu sắc."
     },
     {
       "id": "q9",
       "question": "Trong bài tập 'Dừng lại - Thở - Nhận biết' (Stop - Breathe - Notice) trong ngày, lợi ích của việc thực hiện chỉ trong 30 giây là gì?",
       "options": [
-        "Giúp cơ thể đốt cháy 500 calo ngay lập tức.",
         "Thiết lập lại hệ thần kinh giao cảm (giảm cortisol và adrenaline), ngắt đứt chuỗi phản ứng stress tích tụ và đưa bạn trở lại trạng thái tỉnh thức sáng suốt.",
-        "Làm cho đồng nghiệp xung quanh không nhận ra bạn đang mệt mỏi.",
-        "Giúp tăng tốc độ đánh máy vi tính."
+        "Giúp tăng tốc độ đánh máy vi tính.",
+        "Giúp cơ thể đốt cháy 500 calo ngay lập tức.",
+        "Làm cho đồng nghiệp xung quanh không nhận ra bạn đang mệt mỏi."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Những khoảng dừng vi mô 30 giây giúp xả van áp lực định kỳ trong ngày, ngăn chặn sự kiệt sức tích tụ vào cuối buổi làm việc."
     },
     {
       "id": "q10",
       "question": "Tại sao việc cố gắng 'Đè nén suy nghĩ' (Thought suppression) trong lúc thiền lại phản tác dụng hoàn toàn?",
       "options": [
-        "Vì suy nghĩ có chứa các chất độc hóa học trong máu.",
-        "Hiện tượng 'Hiệu ứng gấu trắng': càng cố gắng không nghĩ về một điều gì đó, não bộ càng vô thức kiểm tra và phóng đại sự xuất hiện của suy nghĩ đó lên gấp bội.",
         "Vì não bộ sẽ bị nổ tung nếu không có suy nghĩ.",
+        "Hiện tượng 'Hiệu ứng gấu trắng': càng cố gắng không nghĩ về một điều gì đó, não bộ càng vô thức kiểm tra và phóng đại sự xuất hiện của suy nghĩ đó lên gấp bội.",
+        "Vì suy nghĩ có chứa các chất độc hóa học trong máu.",
         "Vì suy nghĩ là nguồn thức ăn duy nhất của các tế bào thần kinh."
       ],
       "correctIndex": 1,
@@ -128,60 +128,60 @@
       "id": "q11",
       "question": "Sự khác biệt giữa 'Chú ý tập trung' (Focused attention) và 'Nhận thức mở' (Open monitoring) trong các giai đoạn thiền là gì?",
       "options": [
-        "Chú ý tập trung chỉ làm bằng mắt trái, nhận thức mở làm bằng mắt phải.",
         "Chú ý tập trung là neo tâm vào một đối tượng duy nhất (như hơi thở); Nhận thức mở là mở rộng trường chú ý để nhận biết toàn bộ âm thanh, cảm giác thân thể và suy nghĩ sinh khởi mà không bám chấp vào bất cứ thứ gì.",
-        "Nhận thức mở chỉ dành riêng cho các nhà khoa học vũ trụ.",
-        "Hai trạng thái này hoàn toàn giống nhau không có sự khác biệt."
+        "Hai trạng thái này hoàn toàn giống nhau không có sự khác biệt.",
+        "Chú ý tập trung chỉ làm bằng mắt trái, nhận thức mở làm bằng mắt phải.",
+        "Nhận thức mở chỉ dành riêng cho các nhà khoa học vũ trụ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Hai giai đoạn tiến triển: ban đầu rèn luyện sự ổn định bằng Chú ý tập trung vào hơi thở; khi tâm đã định tĩnh, mở rộng sang Nhận thức mở bao la không giới hạn."
     },
     {
       "id": "q12",
       "question": "Điều gì xảy ra với các hormone căng thẳng (Cortisol) trong máu sau 20 phút ngồi thở chánh niệm?",
       "options": [
-        "Nồng độ Cortisol tăng vọt lên mức nguy hiểm.",
         "Nồng độ Cortisol và nhịp tim giảm đáng kể, kích hoạt hệ thần kinh đối giao cảm (Parasympathetic nervous system) đưa cơ thể vào trạng thái nghỉ ngơi và tự chữa lành.",
         "Toàn bộ Cortisol bị chuyển hóa thành kim loại vàng.",
+        "Nồng độ Cortisol tăng vọt lên mức nguy hiểm.",
         "Cortisol hoàn toàn không có sự thay đổi nào."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Thiền kích hoạt nhánh 'nghỉ ngơi và tiêu hóa' của hệ thần kinh, hạ huyết áp, làm chậm nhịp tim và làm giảm các hóa chất gây viêm nhiễm do stress."
     },
     {
       "id": "q13",
       "question": "Bài tập 'Một phút thở tỉnh thức trước khi bắt đầu cuộc họp' tại Google mang lại hiệu quả gì cho các nhóm làm việc?",
       "options": [
-        "Giúp cuộc họp bị hủy bỏ để mọi người về sớm.",
-        "Giúp các thành viên xả bỏ những bực bội từ công việc trước đó, đồng bộ hóa tâm thế hiện diện, lắng nghe nhau sâu sắc hơn và giảm thiểu 80% các cuộc tranh cãi vô bổ.",
         "Giúp cuộc họp kéo dài thêm 3 tiếng đồng hồ.",
-        "Bắt buộc mọi người phải ký vào biên bản cuộc họp trước."
+        "Bắt buộc mọi người phải ký vào biên bản cuộc họp trước.",
+        "Giúp cuộc họp bị hủy bỏ để mọi người về sớm.",
+        "Giúp các thành viên xả bỏ những bực bội từ công việc trước đó, đồng bộ hóa tâm thế hiện diện, lắng nghe nhau sâu sắc hơn và giảm thiểu 80% các cuộc tranh cãi vô bổ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Một phút tĩnh lặng đầu cuộc họp làm sạch không khí tâm lý, đưa tất cả về cùng một trang hiện diện, nâng cao chất lượng ra quyết định tập thể."
     },
     {
       "id": "q14",
       "question": "Khi bạn cảm thấy buồn ngủ (hôn trầm) trong lúc ngồi thiền, kỹ thuật điều chỉnh nào sau đây là phù hợp nhất?",
       "options": [
+        "Uống 3 lon nước tăng lực có ga.",
         "Cố gắng nhắm mắt chặt hơn và nằm xuống sàn ngủ.",
         "Mở mắt hé nhìn xuống sàn nhà cách 1-2 mét, thẳng lưng lên một chút, hít vào sâu hơn và chú ý vào luồng sáng xung quanh để đánh thức sự tỉnh táo.",
-        "Uống 3 lon nước tăng lực có ga.",
         "Tự trách bản thân là người lười biếng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Điều chỉnh năng lượng: Khi hôn trầm (buồn ngủ), cần nâng cao năng lượng bằng cách mở mắt, chỉnh thẳng cột sống và hít thở sâu; khi trạo cử (bồn chồn), cần buông thư và thả lỏng."
     },
     {
       "id": "q15",
       "question": "Thông điệp đúc kết từ Chương 2 về việc thực hành thiền hơi thở là gì?",
       "options": [
-        "Thiền là việc ép buộc bản thân phải trở thành một con người hoàn hảo khác biệt.",
-        "Hơi thở luôn là người bạn đồng hành trung thành nhất; chỉ cần quay về với hơi thở trong sự buông thư và tỉnh thức, bạn lập tức tìm thấy ngôi nhà bình an và sức mạnh nội tại ngay trong giây phút này.",
+        "Thiền chỉ có tác dụng nếu bạn ngồi trong một căn phòng hoàn toàn cách âm.",
         "Bạn chỉ nên thở khi có sự cho phép của bác sĩ chuyên khoa.",
-        "Thiền chỉ có tác dụng nếu bạn ngồi trong một căn phòng hoàn toàn cách âm."
+        "Hơi thở luôn là người bạn đồng hành trung thành nhất; chỉ cần quay về với hơi thở trong sự buông thư và tỉnh thức, bạn lập tức tìm thấy ngôi nhà bình an và sức mạnh nội tại ngay trong giây phút này.",
+        "Thiền là việc ép buộc bản thân phải trở thành một con người hoàn hảo khác biệt."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Hơi thở là cầu nối đưa bạn trở về với sự sống đích thực; rèn luyện khả năng làm bạn với hơi thở là chìa khóa mở ra kho báu vô tận của sự an lạc."
     }
   ]

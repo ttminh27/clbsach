@@ -1,0 +1,188 @@
+{
+  "bookId": "DamNghiLai",
+  "chapterId": "02_Chuong_02_Thanh_Phan_Va_Ke_Mao_Danh",
+  "chapterTitle": "Chương 2: Thánh phán và kẻ mạo danh",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Hiệu ứng Dunning-Kruger (Dunning-Kruger Effect) giải thích hiện tượng tâm lý phổ biến nào trong xã hội?",
+      "options": [
+        "Người càng học nhiều thì càng cảm thấy mình không biết bất cứ điều gì.",
+        "Chỉ số thông minh IQ sẽ tự động giảm dần sau khi con người tốt nghiệp đại học.",
+        "Những chuyên gia hàng đầu luôn luôn tự cao tự đại và coi thường tất cả mọi người xung quanh.",
+        "Những người có hiểu biết nông cạn trong một lĩnh vực lại thường có mức độ tự tin cao nhất (Đỉnh núi ngu ngốc - Mount Stupid), vì họ thiếu chính năng lực nhận thức để nhận ra sự thiếu hiểu biết của mình."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hiểu biết một chút là thứ vô cùng nguy hiểm; một chút kiến thức tạo ra ảo tưởng rằng mình đã nắm trọn vẹn bức tranh toàn cảnh, sinh ra sự tự tin thái quá của 'Thánh phán'."
+    },
+    {
+      "id": "q2",
+      "question": "Ngược lại, 'Hội chứng kẻ mạo danh' (Impostor Syndrome) xuất hiện ở nhóm người nào và có biểu hiện ra sao?",
+      "options": [
+        "Xuất hiện ở những người có năng lực thực sự xuất sắc nhưng luôn đánh giá thấp bản thân, lo sợ rằng thành công của mình chỉ là do may mắn và một ngày nào đó sẽ bị người khác 'bóc mẽ'.",
+        "Những người hoàn toàn không có bất kỳ kỹ năng chuyên môn nào trong công việc.",
+        "Những tên tội phạm chuyên làm giả giấy tờ tùy thân và bằng cấp đại học để xin việc.",
+        "Những người lừa đảo chuyên nghiệp trên thị trường chứng khoán quốc tế."
+      ],
+      "correctIndex": 0,
+      "explanation": "Người có hội chứng kẻ mạo danh có năng lực cao hơn mức tự tin của họ; họ nhìn thấy rõ những khoảng trống tri thức mênh mông phía trước nên luôn cảm thấy mình còn nhỏ bé."
+    },
+    {
+      "id": "q3",
+      "question": "Khái niệm 'Điểm ngọt ngào của Sự khiêm nhường tự tin' (Confident Humility) được Adam Grant định nghĩa như thế nào?",
+      "options": [
+        "Hoàn toàn tự tin vào NĂNG LỰC HỌC HỎI và thích ứng của bản thân trong tương lai, đồng thời giữ sự KHIÊM NHƯỜNG thừa nhận những thiếu sót và sai sót của bản thân ở hiện tại.",
+        "Sự kiêu ngạo tự phụ nhưng giả vờ nói những lời khiêm tốn xã giao trước mặt đám đông.",
+        "Sự tự ti nhút nhát và luôn luôn từ chối mọi cơ hội thăng tiến vì sợ thất bại.",
+        "Trạng thái tâm lý không quan tâm đến bất kỳ kết quả nào trong công việc."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khiêm nhường tự tin là chiếc cầu nối hoàn hảo: Bạn tin mình có thể giải quyết được vấn đề (Tự tin) nhưng thừa nhận phương pháp hiện tại có thể chưa tối ưu và cần học hỏi thêm (Khiêm nhường)."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao một liều lượng 'Hội chứng kẻ mạo danh vừa phải' lại có thể trở thành một lợi thế thúc đẩy sự nghiệp phát triển vượt bậc?",
+      "options": [
+        "Nó giúp bạn tránh được mọi trách nhiệm pháp lý khi dự án gặp sự cố.",
+        "Nó giúp bạn được cấp trên thương hại và giao những nhiệm vụ nhẹ nhàng nhất.",
+        "Nó kích hoạt động lực làm việc chăm chỉ hơn, thúc đẩy thói quen đặt câu hỏi, lắng nghe người khác nhiều hơn và liên tục tái tư duy để không ngừng tiến bộ.",
+        "Nó làm tăng khả năng ghi nhớ ngắn hạn của não bộ lên gấp 5 lần."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cảm giác 'mình chưa đủ giỏi' khiến bạn từ bỏ sự tự mãn, chuẩn bị kỹ lưỡng hơn, tìm kiếm lời khuyên từ chuyên gia và không bao giờ ngừng hoàn thiện kỹ năng."
+    },
+    {
+      "id": "q5",
+      "question": "Câu chuyện về nữ tổng thống trẻ tuổi của Iceland - Halla Tómasdóttir - minh họa cho bài học gì về sự tự tin?",
+      "options": [
+        "Chỉ những người có xuất thân từ quân đội mới có đủ bản lĩnh lãnh đạo quốc gia.",
+        "Chiến dịch tranh cử tổng thống chỉ cần dựa vào sự may mắn và tiền bạc tài trợ.",
+        "Phụ nữ không nên tham gia vào các hoạt động tranh cử tổng thống.",
+        "Dù ban đầu cảm thấy mình như một 'kẻ mạo danh' trong cuộc đua chính trị, sự khiêm nhường và lắng nghe chân thành của bà đã chinh phục cử tri, chứng minh lãnh đạo xuất sắc bắt đầu từ sự cầu thị."
+      ],
+      "correctIndex": 3,
+      "explanation": "Halla không giả vờ biết hết mọi câu trả lời; bà thừa nhận những gì mình chưa biết và mời gọi toàn dân cùng đối thoại tìm giải pháp, tạo nên niềm tin vững chắc."
+    },
+    {
+      "id": "q6",
+      "question": "Biểu đồ mối quan hệ giữa 'Mức độ hiểu biết thực tế' và 'Mức độ tự tin' (Hiệu ứng Dunning-Kruger) trải qua các giai đoạn nào?",
+      "options": [
+        "Tự tin luôn giảm dần đều khi con người tiếp xúc với nhiều kiến thức mới.",
+        "Mức độ tự tin luôn ở mức tối đa và không bao giờ suy giảm.",
+        "Mức độ tự tin tăng đều theo đường thẳng tuyến tính từ khi sinh ra đến khi qua đời.",
+        "Bắt đầu từ số 0 -> Leo vọt lên Đỉnh núi ngu ngốc (Tự tin cực đại) -> Rơi xuống Thung lũng tuyệt vọng -> Leo lên Dốc khai sáng -> Đạt tới Cao nguyên bền vững (Khiêm nhường tự tin)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hành trình trưởng thành nhận thức bắt đầu từ sự tự phụ mù quáng của kẻ mới học (Đỉnh núi ngu ngốc), trải qua sự vỡ mộng khi nhận ra sự phức tạp (Thung lũng tuyệt vọng), để đạt tới sự khiêm nhường thông thái."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao việc 'Tự nhận mình là chuyên gia' sau khi chỉ đọc 1 cuốn sách hay tham gia 1 khóa học ngắn hạn lại là triệu chứng nguy hiểm?",
+      "options": [
+        "Nó làm tăng nguy cơ bị phạt tiền bởi các hiệp hội nghề nghiệp quốc tế.",
+        "Nó làm giảm khả năng sử dụng các phần mềm máy tính văn phòng.",
+        "Nó khiến bạn bị mất trí nhớ về toàn bộ các kiến thức phổ thông cũ.",
+        "Nó đóng sập cánh cửa tò mò học hỏi, khiến bạn đưa ra những lời khuyên sai lệch cho người khác và từ chối tiếp nhận các nghiên cứu khoa học chuyên sâu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đó chính là triệu chứng của 'Thánh phán' (Armchair Quarterback): nhầm lẫn giữa sự quen thuộc bề mặt với sự thấu hiểu sâu sắc bản chất vấn đề."
+    },
+    {
+      "id": "q8",
+      "question": "Nghiên cứu về 'Năng lực chẩn đoán của các bác sĩ nội trú' cho thấy thời điểm nào là thời điểm họ dễ mắc sai sót chết người nhất?",
+      "options": [
+        "Vào ngày đầu tiên bước chân vào bệnh viện thực tập khi chưa biết gì.",
+        "Vào năm thứ hai hoặc thứ ba nội trú: Khi họ vừa tích lũy được một lượng kinh nghiệm ban đầu, sự tự tin tăng vọt nhanh hơn nhiều so với năng lực thực tế.",
+        "Vào năm cuối cùng trước khi nghỉ hưu sau 40 năm hành nghề y khoa.",
+        "Bác sĩ không bao giờ mắc bất kỳ sai sót nào trong suốt quá trình điều trị."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoảng cách nguy hiểm nhất là khi sự tự tin vượt xa năng lực thực tế; bác sĩ mới bắt đầu thì vô cùng cẩn trọng hỏi ý kiến tiền bối, nhưng bác sĩ có 2 năm kinh nghiệm lại dễ chủ quan tự quyết."
+    },
+    {
+      "id": "q9",
+      "question": "Làm thế nào để một người có thể thoát khỏi 'Đỉnh núi ngu ngốc' và tiến vào 'Dốc khai sáng'?",
+      "options": [
+        "Chủ động tìm kiếm các tình huống phản chứng phức tạp, trò chuyện với những chuyên gia thực thụ và đối diện với những câu hỏi hóc búa mà mình chưa có câu trả lời.",
+        "Ngừng đọc sách và tránh xa mọi cuộc thảo luận chuyên môn với đồng nghiệp.",
+        "Chỉ làm việc với những người có trình độ chuyên môn thấp hơn mình.",
+        "Tự khẳng định trước gương rằng mình là người thông minh nhất thế giới mỗi sáng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự dũng cảm nhảy xuống khỏi 'Đỉnh núi ngu ngốc' để bước vào thung lũng của sự hoài nghi lành mạnh là bước ngoặt quyết định của sự trưởng thành trí tuệ."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao những nhà lãnh đạo có 'Sự khiêm nhường tự tin' lại xây dựng được những đội ngũ sáng tạo và gắn kết nhất?",
+      "options": [
+        "Vì họ tạo ra môi trường an toàn tâm lý: Dám thừa nhận mình không có mọi câu trả lời, khuyến khích cấp dưới phản biện và cùng nhau tìm kiếm giải pháp tối ưu.",
+        "Vì họ luôn luôn tăng lương gấp đôi cho tất cả nhân viên mỗi tháng.",
+        "Vì họ luôn đưa ra các quyết định độc đoán mà không cần tham khảo ý kiến ai.",
+        "Vì họ không bao giờ giao bất kỳ chỉ tiêu kinh doanh nào cho đội ngũ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự khiêm nhường của người lãnh đạo giải phóng tiềm năng của tập thể; khi sếp dám nói 'Tôi chưa biết, các bạn nghĩ sao?', toàn bộ trí tuệ của đội ngũ sẽ được kích hoạt."
+    },
+    {
+      "id": "q11",
+      "question": "Mối tương quan giữa 'Lòng tự trọng' (Self-Esteem) và 'Sự khiêm nhường' (Humility) được làm sáng tỏ như thế nào?",
+      "options": [
+        "Khiêm nhường là một hình thức giả tạo nhằm che giấu sự yếu đuối bên trong.",
+        "Người khiêm nhường là người hoàn toàn không có bất kỳ lòng tự trọng nào.",
+        "Lòng tự trọng cao bắt buộc phải đi kèm với sự kiêu ngạo và coi thường người khác.",
+        "Khiêm nhường không phải là tự hạ thấp bản thân hay nghĩ mình kém cỏi; khiêm nhường là bớt nghĩ VỀ BẢN THÂN để nghĩ nhiều hơn về việc HỌC HỎI và PHỤNG SỰ."
+      ],
+      "correctIndex": 3,
+      "explanation": "C.S. Lewis từng định nghĩa: Khiêm nhường không phải là nghĩ mình thấp kém, mà là nghĩ ít hơn về cái tôi cá nhân để tâm trí rộng mở đón nhận tri thức."
+    },
+    {
+      "id": "q12",
+      "question": "Trong các trò chơi đố vui kiến thức, hiện tượng 'Càng ít hiểu biết càng cá cược nhiều tiền' phản ánh điều gì?",
+      "options": [
+        "Quy luật toán học về xác suất thống kê trong các trò chơi may rủi.",
+        "Người chơi có nguồn tài chính dồi dào không quan tâm đến việc mất tiền.",
+        "Sự mù quáng của những người ở Đỉnh núi ngu ngốc: Họ không biết những gì họ không biết nên hoàn toàn tin chắc rằng linh cảm của mình là chân lý.",
+        "Sự hào phóng và tinh thần thể thao cao thượng của người chơi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự thiếu hiểu biết sinh ra sự xác tín liều lĩnh; người có kiến thức sâu rộng ngược lại thường thận trọng hơn vì họ ý thức rõ các biến số và ngoại lệ phức tạp."
+    },
+    {
+      "id": "q13",
+      "question": "Lợi ích lớn nhất của việc 'Xem mình là một người học việc trọn đời' (Lifelong Apprentice) là gì?",
+      "options": [
+        "Bạn sẽ được miễn giảm toàn bộ học phí tại tất cả các trường đại học quốc tế.",
+        "Bạn không bao giờ phải chịu trách nhiệm về kết quả công việc được giao.",
+        "Bạn sẽ luôn được người khác nhường nhịn trong các cuộc tranh luận.",
+        "Bạn sẽ không bao giờ cảm thấy bị đe dọa bởi những thay đổi công nghệ hay ý kiến trái chiều; mỗi ngày là một cơ hội thú vị để nâng cấp bản thân."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tâm thế người học việc giải phóng bạn khỏi áp lực phải luôn luôn hoàn hảo, biến toàn bộ cuộc đời thành một hành trình khám phá đầy hào hứng."
+    },
+    {
+      "id": "q14",
+      "question": "Làm thế nào để phân biệt giữa 'Tự tin lành mạnh' và 'Tự tin độc hại' trong môi trường làm việc?",
+      "options": [
+        "Hai trạng thái này hoàn toàn giống nhau và chỉ khác nhau ở tên gọi.",
+        "Tự tin độc hại là người luôn luôn đi làm đúng giờ và hoàn thành nhiệm vụ.",
+        "Tự tin lành mạnh là người nói to nhất trong các cuộc họp phòng ban.",
+        "Tự tin lành mạnh bắt nguồn từ năng lực thực chứng và sự cởi mở học hỏi; tự tin độc hại bắt nguồn từ cái tôi ảo tưởng và sự từ chối mọi phản hồi xây dựng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tự tin lành mạnh dựa trên thực tế và sẵn sàng sửa sai; tự tin độc hại dựa trên ảo tưởng và sẵn sàng bẻ cong thực tế để bảo vệ thể diện giả tạo."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp đắt giá nhất khép lại Chương 2 về sự cân bằng giữa tự tin và khiêm nhường là gì?",
+      "options": [
+        "'Hãy luôn tỏ ra mình là chuyên gia trong mọi lĩnh vực để chiếm ưu thế tâm lý'.",
+        "'Sự tự tin thái quá là yếu tố duy nhất quyết định sự thành bại của một đời người'.",
+        "'Hãy tự tin vào khả năng học hỏi của bạn trong tương lai, nhưng hãy luôn khiêm nhường về những gì bạn biết ở hiện tại; đó chính là đỉnh cao của trí tuệ'.",
+        "'Đừng bao giờ thừa nhận điểm yếu của mình trước mặt đối thủ cạnh tranh'."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chính sự khiêm nhường tự tin sẽ đưa bạn vượt qua Đỉnh núi ngu ngốc, băng qua Thung lũng tuyệt vọng để vươn tới đỉnh cao của sự thông thái bền vững."
+    }
+  ]
+}

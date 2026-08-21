@@ -57,6 +57,18 @@ const placeholderMetadata = {
     themeColor: "#9333ea",
     status: "available"
   },
+  "DamNghiLai": {
+    title: "Dám Nghĩ Lại",
+    originalTitle: "Think Again - The Power of Knowing What You Don’t Know",
+    author: "Adam Grant",
+    translator: "Vũ Hoàng Linh",
+    category: "Tư duy phản biện & Đổi mới nhận thức",
+    tags: ["Tư duy", "Tái tư duy", "Tâm lý học", "Phát triển bản thân", "Đổi mới"],
+    description: "Nghệ thuật của việc biết những gì bạn chưa biết và sức mạnh của việc sẵn sàng thay đổi suy nghĩ để không ngừng tiến bộ trong một thế giới liên tục biến đổi.",
+    gradient: "from-cyan-600 to-blue-700",
+    themeColor: "#0284c7",
+    status: "available"
+  },
   "ThinkAgain": {
     title: "Dám Nghĩ Lại",
     originalTitle: "Think Again",
@@ -67,19 +79,19 @@ const placeholderMetadata = {
     description: "Nghệ thuật của việc biết những gì bạn chưa biết và sức mạnh của việc sẵn sàng thay đổi suy nghĩ để không ngừng tiến bộ trong thế giới biến đổi.",
     gradient: "from-cyan-600 to-blue-700",
     themeColor: "#0284c7",
-    status: "coming_soon"
+    status: "available"
   },
   "ViTuSiBanChiecFerrari": {
     title: "Vị Tu Sĩ Bán Chiếc Ferrari",
     originalTitle: "The Monk Who Sold His Ferrari",
     author: "Robin Sharma",
-    translator: "Nguyễn Hải Vân",
+    translator: "Thanh Thảo",
     category: "Triết lý sống & Tỉnh thức",
-    tags: ["Bình an", "Tâm hồn", "Tỉnh thức", "Lý tưởng"],
-    description: "Câu chuyện ngụ ngôn sâu sắc về hành trình tìm kiếm hạnh phúc đích thực, bình an nội tâm và lý tưởng sống cao đẹp của một luật sư triệu phú.",
+    tags: ["Bình an", "Tâm hồn", "Tỉnh thức", "Lý tưởng sống", "7 nguyên tắc"],
+    description: "Câu chuyện ngụ ngôn sâu sắc về hành trình tìm kiếm hạnh phúc đích thực, bình an nội tâm và 7 nguyên tắc vàng để làm chủ cuộc sống của một luật sư triệu phú.",
     gradient: "from-rose-600 to-red-800",
     themeColor: "#e11d48",
-    status: "coming_soon"
+    status: "available"
   },
   "SearchInsideYourSelf": {
     title: "Search Inside Yourself (Tìm Kiếm Bên Trong Bạn)",
@@ -98,6 +110,21 @@ const placeholderMetadata = {
 // Ensure public/books exists
 if (!fs.existsSync(publicBooksDir)) {
   fs.mkdirSync(publicBooksDir, { recursive: true });
+} else {
+  // Clean up broken or stale symlinks in public/books
+  const existingPublicEntries = fs.readdirSync(publicBooksDir);
+  for (const entry of existingPublicEntries) {
+    const entryPath = path.resolve(publicBooksDir, entry);
+    try {
+      const stat = fs.statSync(entryPath);
+    } catch (err) {
+      // Broken symlink
+      try {
+        fs.unlinkSync(entryPath);
+        console.log(`Removed broken symlink: public/books/${entry}`);
+      } catch {}
+    }
+  }
 }
 
 // Find all book directories
@@ -139,7 +166,7 @@ for (const bookId of bookDirs) {
   const files = fs.readdirSync(bookPath);
   let mdFiles = files.filter(f => f.endsWith('.md') && f.toLowerCase() !== 'readme.md');
   let coverUrl = null;
-  const coverCandidates = ['cover.jpg', 'cover.png', 'cover.jpeg', 'cover.webp', 'img_p001_01.jpeg', 'img-000.png', 'bia_truoc.png', 'bia_truoc.jpg', 'cover_front.png', 'cover_front.jpg'];
+  const coverCandidates = ['cover.jpg', 'cover.png', 'cover.jpeg', 'cover.webp', 'p1_Im0.jpg', 'img_p001_01.jpeg', 'img-000.png', 'bia_truoc.png', 'bia_truoc.jpg', 'cover_front.png', 'cover_front.jpg'];
   for (const c of coverCandidates) {
     if (fs.existsSync(path.resolve(bookPath, 'images', c))) {
       coverUrl = `/books/${bookId}/images/${c}`;

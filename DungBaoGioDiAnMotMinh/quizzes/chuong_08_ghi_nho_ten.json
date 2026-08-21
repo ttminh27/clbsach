@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Tại sao việc gọi chính xác tên riêng của một người lại có tác động tâm lý mạnh mẽ đến mức Dale Carnegie coi đó là 'âm thanh êm ái nhất'?",
       "options": [
-        "Vì tên riêng gắn liền với bản sắc cá nhân, cái tôi và lòng tự trọng; khi bạn nhớ tên ai đó, bạn đang gửi đi thông điệp ngầm rằng họ quan trọng và đáng được tôn trọng.",
-        "Vì tên riêng thường có âm điệu du dương hơn các từ ngữ thông thường.",
         "Vì việc gọi tên giúp tránh nhầm lẫn về mặt pháp lý trong giao tiếp hàng ngày.",
+        "Vì tên riêng thường có âm điệu du dương hơn các từ ngữ thông thường.",
+        "Vì tên riêng gắn liền với bản sắc cá nhân, cái tôi và lòng tự trọng; khi bạn nhớ tên ai đó, bạn đang gửi đi thông điệp ngầm rằng họ quan trọng và đáng được tôn trọng.",
         "Vì mọi người đều muốn kiểm tra xem đối phương có bị suy giảm trí nhớ hay không."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Tên gọi là tài sản định danh thiêng liêng nhất của mỗi người; nhớ và trân trọng tên người khác là đỉnh cao của sự lịch thiệp và thấu cảm."
     },
     {
@@ -21,9 +21,9 @@
       "question": "Lý do phổ biến nhất khiến 90% mọi người quên tên người vừa mới được giới thiệu sau 10 giây là gì?",
       "options": [
         "Họ không thực sự tập trung lắng nghe tại thời điểm nghe tên vì trong đầu đang quá bận rộn suy nghĩ xem mình sẽ nói gì tiếp theo.",
-        "Do não bộ con người không có khả năng lưu trữ các từ ngữ có trên 3 âm tiết.",
+        "Do môi trường xung quanh luôn có tiếng ồn quá lớn làm gián đoạn thính giác.",
         "Do tên của người khác thường quá phức tạp và khó phát âm.",
-        "Do môi trường xung quanh luôn có tiếng ồn quá lớn làm gián đoạn thính giác."
+        "Do não bộ con người không có khả năng lưu trữ các từ ngữ có trên 3 âm tiết."
       ],
       "correctIndex": 0,
       "explanation": "Quên tên không phải do trí nhớ kém mà do sự thiếu tập trung; cái tôi quá bận tâm về bản thân khiến ta bỏ lỡ thông tin quan trọng nhất của đối phương."
@@ -33,9 +33,9 @@
       "question": "Kỹ thuật 'Lặp lại tên ngay lập tức' (Immediate repetition) được thực hiện như thế nào để khắc sâu vào trí nhớ?",
       "options": [
         "Chào lại kèm theo tên họ ngay khi nghe (ví dụ: 'Rất vui được gặp anh Minh'), và lặp lại tên họ một cách tự nhiên vài lần trong cuộc đối thoại.",
-        "Hét to tên của họ 10 lần liên tục trước mặt tất cả mọi người.",
+        "Ghi tên họ lên lòng bàn tay của bạn ngay tại chỗ.",
         "Yêu cầu họ đánh vần tên từng chữ cái một vào micro.",
-        "Ghi tên họ lên lòng bàn tay của bạn ngay tại chỗ."
+        "Hét to tên của họ 10 lần liên tục trước mặt tất cả mọi người."
       ],
       "correctIndex": 0,
       "explanation": "Lặp lại tên ngay lập tức giúp não bộ kích hoạt liên kết thần kinh thính giác và ngôn ngữ, chuyển thông tin từ trí nhớ ngắn hạn sang dài hạn."
@@ -44,24 +44,24 @@
       "id": "q4",
       "question": "Phương pháp 'Tạo liên tưởng hình ảnh trực quan' (Visual Association) giúp ghi nhớ tên người lạ như thế nào?",
       "options": [
-        "Gắn tên của họ với một hình ảnh đặc trưng, một nhân vật nổi tiếng cùng tên hoặc một đặc điểm ngoại hình/sở thích độc đáo của họ.",
-        "Chụp ảnh khuôn mặt của họ mà không xin phép để về nhà xem lại.",
         "Vẽ một bức tranh biếm họa về họ và gửi qua bưu điện.",
-        "Liên tưởng tên họ với những kỷ niệm buồn trong quá khứ của bạn."
+        "Chụp ảnh khuôn mặt của họ mà không xin phép để về nhà xem lại.",
+        "Liên tưởng tên họ với những kỷ niệm buồn trong quá khứ của bạn.",
+        "Gắn tên của họ với một hình ảnh đặc trưng, một nhân vật nổi tiếng cùng tên hoặc một đặc điểm ngoại hình/sở thích độc đáo của họ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Não bộ ghi nhớ hình ảnh tốt hơn gấp nhiều lần từ ngữ trừu tượng; tạo một hình ảnh liên tưởng sinh động sẽ giúp bạn gợi lại tên họ dễ dàng."
     },
     {
       "id": "q5",
       "question": "Nếu gặp một cái tên nước ngoài hoặc tên lạ khó phát âm, thái độ ứng xử đúng đắn và ghi điểm nhất là gì?",
       "options": [
+        "Cười nhạo vì sự kỳ lạ của cái tên đó trước mặt mọi người.",
         "Lịch sự nhờ họ hướng dẫn cách phát âm chính xác, tập phát âm lại và bày tỏ sự thích thú muốn hiểu nguồn gốc/ý nghĩa cái tên đó.",
-        "Tự ý đặt cho họ một cái tên tiếng Anh ngắn gọn khác để dễ gọi.",
         "Lờ đi và chỉ gọi họ bằng 'anh ơi' hoặc 'chị ơi' trong suốt cuộc gặp.",
-        "Cười nhạo vì sự kỳ lạ của cái tên đó trước mặt mọi người."
+        "Tự ý đặt cho họ một cái tên tiếng Anh ngắn gọn khác để dễ gọi."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Sự tôn trọng và khiêm tốn hỏi cách phát âm chuẩn xác thể hiện sự trân trọng văn hóa và nguồn gốc của đối phương, tạo thiện cảm sâu sắc."
     },
     {
@@ -80,84 +80,84 @@
       "id": "q7",
       "question": "Trong trường hợp bạn vô tình quên mất tên của một người quen cũ khi họ tiến đến chào bạn, cách xử lý thông minh và lịch thiệp nhất là gì?",
       "options": [
-        "Thành thật và nhã nhặn nhận lỗi ('Tôi thật có lỗi, tự nhiên tôi bị thoáng quên tên bạn, bạn có thể nhắc lại giúp tôi được không?'), sau đó nhớ thật kỹ.",
         "Giả vờ như không quen biết và quay lưng bỏ đi ngay lập tức.",
         "Gọi bừa một cái tên ngẫu nhiên với hy vọng sẽ đoán trúng.",
-        "Đổ lỗi cho họ vì đã thay đổi kiểu tóc khiến bạn không nhận ra."
+        "Đổ lỗi cho họ vì đã thay đổi kiểu tóc khiến bạn không nhận ra.",
+        "Thành thật và nhã nhặn nhận lỗi ('Tôi thật có lỗi, tự nhiên tôi bị thoáng quên tên bạn, bạn có thể nhắc lại giúp tôi được không?'), sau đó nhớ thật kỹ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Sự chân thành, khiêm tốn nhận lỗi luôn được tha thứ và đánh giá cao hơn nhiều so với việc cố tình lấp liếm giả tạo."
     },
     {
       "id": "q8",
       "question": "Tại sao các chính trị gia hàng đầu thế giới luôn có một đội ngũ trợ lý hỗ trợ nhắc tên trước khi bước vào phòng khánh tiết?",
       "options": [
-        "Vì họ hiểu rằng việc gọi đúng tên và nhớ đúng câu chuyện của từng vị khách là vũ khí ngoại giao tối thượng tạo nên sức mạnh quyền lực mềm.",
+        "Vì các trợ lý cần phải có việc làm để nhận lương hàng tháng.",
         "Vì các chính trị gia đều bị suy giảm trí nhớ nghiêm trọng do tuổi tác.",
         "Vì đó là nghi thức bắt buộc theo luật pháp quốc tế.",
-        "Vì các trợ lý cần phải có việc làm để nhận lương hàng tháng."
+        "Vì họ hiểu rằng việc gọi đúng tên và nhớ đúng câu chuyện của từng vị khách là vũ khí ngoại giao tối thượng tạo nên sức mạnh quyền lực mềm."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Nhớ tên cá nhân hóa là đỉnh cao của nghệ thuật thu phục lòng người trong chính trị và kinh doanh toàn cầu."
     },
     {
       "id": "q9",
       "question": "Kỹ thuật 'Tập trung toàn phần trong 5 giây đầu' (The 5-Second Focus Rule) yêu cầu người kết nối phải làm gì?",
       "options": [
-        "Nhìn thẳng vào mắt đối phương, lắng nghe trọn vẹn từng âm tiết của tên họ, mỉm cười và khóa chặt sự chú ý vào khoảnh khắc đó.",
-        "Nói thật nhanh tên của mình trong 5 giây để giành quyền kiểm soát.",
         "Đưa danh thiếp của mình cho 5 người khác nhau trong 5 giây.",
+        "Nói thật nhanh tên của mình trong 5 giây để giành quyền kiểm soát.",
+        "Nhìn thẳng vào mắt đối phương, lắng nghe trọn vẹn từng âm tiết của tên họ, mỉm cười và khóa chặt sự chú ý vào khoảnh khắc đó.",
         "Nhắm mắt lại và đếm từ 1 đến 5 trước khi bắt tay."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Dành trọn vẹn 5 giây đầu tiên cho sự hiện diện tâm trí tuyệt đối sẽ giải quyết triệt để căn bệnh 'quên tên tức thì'."
     },
     {
       "id": "q10",
       "question": "Điều gì xảy ra khi bạn gọi nhầm tên một khách hàng quan trọng trong một buổi thuyết trình hợp đồng?",
       "options": [
+        "Không có ảnh hưởng gì vì khách hàng không bao giờ để ý đến tên của mình.",
         "Tạo ra cảm giác họ không được trân trọng, làm sứt mẻ niềm tin chuyên nghiệp và có thể khiến bạn mất đi hợp đồng kinh doanh lớn.",
-        "Khách hàng sẽ tự động giảm giá hợp đồng cho bạn 50%.",
         "Buổi thuyết trình sẽ bị hủy bỏ ngay lập tức theo quy định pháp luật.",
-        "Không có ảnh hưởng gì vì khách hàng không bao giờ để ý đến tên của mình."
+        "Khách hàng sẽ tự động giảm giá hợp đồng cho bạn 50%."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Gọi nhầm tên là một lỗi sơ đẳng nhưng có sức tàn phá ghê gớm đối với uy tín cá nhân và sự tin cậy trong kinh doanh."
     },
     {
       "id": "q11",
       "question": "Việc nhớ được tên của vợ/chồng, con cái hoặc thú cưng của đối tác mang lại hiệu quả kết nối vượt trội như thế nào?",
       "options": [
-        "Chứng minh bạn là một người bạn thực sự quan tâm đến cuộc sống hạnh phúc của họ, vượt xa khỏi mối quan hệ công việc thực dụng.",
+        "Là yêu cầu bắt buộc để được mời đến dự tiệc sinh nhật của đối tác.",
         "Khiến đối tác nghi ngờ bạn đang theo dõi cuộc sống gia đình của họ.",
         "Giúp bạn có thể bán thêm các sản phẩm dành cho trẻ em và thú cưng.",
-        "Là yêu cầu bắt buộc để được mời đến dự tiệc sinh nhật của đối tác."
+        "Chứng minh bạn là một người bạn thực sự quan tâm đến cuộc sống hạnh phúc của họ, vượt xa khỏi mối quan hệ công việc thực dụng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Quan tâm đến những gì đối tác yêu quý nhất chính là con đường ngắn nhất để bước vào trái tim của họ."
     },
     {
       "id": "q12",
       "question": "Phương pháp 'Đánh vần tên trong tâm trí' (Mental Spelling) hoạt động dựa trên cơ chế thần kinh nào?",
       "options": [
-        "Kích hoạt vùng não xử lý chữ viết và thị giác, tạo thêm một kênh ghi nhớ thứ hai song song với kênh thính giác.",
+        "Làm giảm tốc độ nói chuyện của người đối diện.",
         "Giúp não bộ thư giãn và giảm bớt căng thẳng khi giao tiếp.",
-        "Tự động dịch tên của đối tác sang 5 ngôn ngữ khác nhau.",
-        "Làm giảm tốc độ nói chuyện của người đối diện."
+        "Kích hoạt vùng não xử lý chữ viết và thị giác, tạo thêm một kênh ghi nhớ thứ hai song song với kênh thính giác.",
+        "Tự động dịch tên của đối tác sang 5 ngôn ngữ khác nhau."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Kết hợp đa giác quan (nghe âm thanh + nhìn thấy chữ viết trong đầu) giúp tăng gấp đôi độ bền của ký ức về tên gọi."
     },
     {
       "id": "q13",
       "question": "Khi tham gia một bữa tiệc có 50 người mới, mục tiêu thực tế và thông minh nhất về việc nhớ tên là gì?",
       "options": [
-        "Tập trung trò chuyện sâu sắc và nhớ thật chính xác tên của 5-7 người thực sự có giá trị kết nối, thay vì cố gắng nhớ hời hợt cả 50 người.",
         "Cố gắng học thuộc lòng danh sách điểm danh của toàn bộ 50 người.",
+        "Tập trung trò chuyện sâu sắc và nhớ thật chính xác tên của 5-7 người thực sự có giá trị kết nối, thay vì cố gắng nhớ hời hợt cả 50 người.",
         "Không cần nhớ tên bất kỳ ai vì đằng nào cũng sẽ quên.",
         "Yêu cầu mọi người phải đeo biển tên có dán ảnh chân dung."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Chất lượng hơn số lượng; ghi nhớ sâu sắc một vài mối quan hệ then chốt có giá trị gấp trăm lần việc biết lướt qua hàng chục cái tên."
     },
     {
@@ -165,8 +165,8 @@
       "question": "Tại sao việc chào nhân viên phục vụ bàn hoặc bảo vệ bằng chính tên trên bảng tên của họ lại là thói quen của các nhà lãnh đạo lớn?",
       "options": [
         "Thể hiện sự tôn trọng nhân phẩm bình đẳng đối với mọi con người và lan tỏa văn hóa tử tế, ấm áp ở bất cứ nơi đâu họ xuất hiện.",
-        "Để nhân viên phục vụ không tính tiền bữa ăn cho họ.",
         "Để khoe khoang thị lực tốt có thể đọc được chữ nhỏ từ xa.",
+        "Để nhân viên phục vụ không tính tiền bữa ăn cho họ.",
         "Vì họ muốn kiểm tra xem nhân viên có đeo đúng bảng tên của mình hay không."
       ],
       "correctIndex": 0,
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Bài học then chốt của chương 8 có thể tóm lược bằng nguyên lý nào sau đây?",
       "options": [
-        "Ghi nhớ tên người khác không phải là một mẹo vặt trí nhớ, mà là biểu hiện của sự quan tâm chân thành và lòng trắc ẩn sâu sắc đối với con người.",
         "Chỉ cần có trí nhớ bẩm sinh tốt mới có thể nhớ được tên người khác.",
+        "Ghi nhớ tên người khác không phải là một mẹo vặt trí nhớ, mà là biểu hiện của sự quan tâm chân thành và lòng trắc ẩn sâu sắc đối với con người.",
         "Việc nhớ tên chỉ quan trọng đối với các nhân viên kinh doanh bất động sản.",
         "Tên gọi chỉ là một ký hiệu tạm thời không có nhiều ý nghĩa trong cuộc sống."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Ghi nhớ tên là hành động gieo hạt giống của sự tôn trọng; từ hạt mầm nhỏ bé đó, những mối quan hệ vĩ đại sẽ đâm chồi nảy lộc."
     }
   ]

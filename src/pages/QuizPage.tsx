@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
-import { ArrowLeft, BookOpen, AlertCircle, Loader2 } from 'lucide-react';
+import { ArrowLeft, BookOpen, AlertCircle, Loader2, Home } from 'lucide-react';
 import booksData from '../data/books-manifest.json';
 import { Book, Chapter, ChapterQuiz } from '../types/book';
 import { QuizGame } from '../components/quiz/QuizGame';
@@ -65,12 +65,23 @@ export const QuizPage: React.FC = () => {
         <h3 className="text-xl font-bold text-slate-900 dark:text-white">
           Chương không tồn tại
         </h3>
-        <button
-          onClick={() => navigate(book ? `/book/${book.id}` : '/')}
-          className="mt-4 rounded-xl bg-emerald-600 px-5 py-2.5 text-xs font-bold text-white"
-        >
-          Quay lại
-        </button>
+        <div className="mt-4 flex items-center justify-center gap-3">
+          <Link
+            to="/"
+            className="inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-800 px-4 py-2.5 text-xs font-bold text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+          >
+            <Home className="h-4 w-4" />
+            Về Trang chủ
+          </Link>
+          {book && (
+            <Link
+              to={`/book/${book.id}`}
+              className="rounded-xl bg-emerald-600 px-5 py-2.5 text-xs font-bold text-white hover:bg-emerald-500 transition-colors"
+            >
+              Chi tiết sách
+            </Link>
+          )}
+        </div>
       </div>
     );
   }
@@ -79,13 +90,24 @@ export const QuizPage: React.FC = () => {
     <div className="min-h-screen bg-slate-50 dark:bg-slate-950 py-8 px-4 sm:px-6">
       {/* Top Header */}
       <div className="mx-auto max-w-3xl mb-6 flex items-center justify-between">
-        <Link
-          to={`/reader/${book.id}/${chapter.id}`}
-          className="inline-flex items-center gap-2 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 px-4 py-2 text-xs font-bold text-slate-700 dark:text-slate-300 hover:border-emerald-400 dark:hover:border-emerald-600 transition-all shadow-xs"
-        >
-          <ArrowLeft className="h-4 w-4" />
-          <span>Về bài đọc chương</span>
-        </Link>
+        <div className="flex items-center gap-2">
+          <Link
+            to="/"
+            className="inline-flex items-center gap-1.5 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 px-3 py-2 text-xs font-bold text-slate-700 dark:text-slate-300 hover:border-emerald-400 dark:hover:border-emerald-600 transition-all shadow-xs"
+            title="Về Trang chủ"
+          >
+            <Home className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+            <span className="hidden sm:inline">Trang chủ</span>
+          </Link>
+
+          <Link
+            to={`/reader/${book.id}/${chapter.id}`}
+            className="inline-flex items-center gap-2 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 px-4 py-2 text-xs font-bold text-slate-700 dark:text-slate-300 hover:border-emerald-400 dark:hover:border-emerald-600 transition-all shadow-xs"
+          >
+            <ArrowLeft className="h-4 w-4" />
+            <span>Về bài đọc chương</span>
+          </Link>
+        </div>
 
         <Link
           to={`/book/${book.id}`}
