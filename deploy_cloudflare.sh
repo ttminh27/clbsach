@@ -12,12 +12,14 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
 PROJECT_NAME="${CLOUDFLARE_PROJECT_NAME:-clbsach}"
+DEPLOY_BRANCH="${CLOUDFLARE_BRANCH:-production}"
 BUILD_DIR="dist"
 
 echo "======================================================"
 echo " ☁️  Deploy CLB Đọc Sách VietinBank -> Cloudflare Pages"
 echo "======================================================"
 echo "📌 Tên dự án: $PROJECT_NAME"
+echo "🌿 Nhánh triển khai: $DEPLOY_BRANCH (Production)"
 echo ""
 
 # 1. Kiểm tra node_modules
@@ -79,9 +81,9 @@ echo "------------------------------------------------------"
 echo ""
 
 # 8. Triển khai lên Cloudflare Pages qua Wrangler CLI
-echo "🚀 Đang tải lên và triển khai lên Cloudflare Pages..."
+echo "🚀 Đang tải lên và triển khai lên Cloudflare Pages (Branch: $DEPLOY_BRANCH)..."
 
-npx wrangler pages deploy "$BUILD_DIR" --project-name "$PROJECT_NAME" --commit-dirty=true "$@"
+npx wrangler pages deploy "$BUILD_DIR" --project-name "$PROJECT_NAME" --branch "$DEPLOY_BRANCH" --commit-dirty=true "$@"
 
 echo ""
 echo "======================================================"
