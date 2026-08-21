@@ -79,7 +79,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
     if (currentIndex < totalQuestions - 1) {
       setCurrentIndex((prev) => prev + 1);
       setIsAnswered(selectedAnswers[currentIndex + 1] !== undefined);
-    } else {
+    } else if (!isReviewMode) {
       finishQuiz();
     }
   };
@@ -276,6 +276,37 @@ export const QuizGame: React.FC<QuizGameProps> = ({
         </div>
       </div>
 
+      {/* Quick Question Selector in Review Mode */}
+      {isReviewMode && (
+        <div className="mb-4 flex flex-wrap items-center gap-1.5 p-3 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-xs">
+          <span className="text-[11px] font-bold text-slate-400 mr-1">Danh sách câu:</span>
+          {questions.map((q, idx) => {
+            const isCurrent = idx === currentIndex;
+            const userAns = selectedAnswers[idx];
+            const isCorrect = userAns === q.correctIndex;
+            return (
+              <button
+                key={idx}
+                onClick={() => {
+                  setCurrentIndex(idx);
+                  setIsAnswered(true);
+                }}
+                className={`h-7 w-7 rounded-lg text-xs font-bold transition-all flex items-center justify-center border ${
+                  isCurrent
+                    ? 'ring-2 ring-emerald-500 scale-110 shadow-sm z-10 ' + (isCorrect ? 'bg-emerald-600 text-white border-emerald-600' : 'bg-rose-600 text-white border-rose-600')
+                    : isCorrect
+                    ? 'bg-emerald-100 text-emerald-800 border-emerald-300 dark:bg-emerald-950/60 dark:text-emerald-300 dark:border-emerald-800 hover:scale-105'
+                    : 'bg-rose-100 text-rose-800 border-rose-300 dark:bg-rose-950/60 dark:text-rose-300 dark:border-rose-800 hover:scale-105'
+                }`}
+                title={`Câu ${idx + 1}: ${isCorrect ? 'Đúng' : 'Sai'}`}
+              >
+                {idx + 1}
+              </button>
+            );
+          })}
+        </div>
+      )}
+
       {/* Question Card */}
       <div className="rounded-3xl border border-slate-200/90 dark:border-slate-800 bg-white dark:bg-slate-900 p-6 sm:p-8 shadow-sm">
         <div className="mb-6">
@@ -362,24 +393,40 @@ export const QuizGame: React.FC<QuizGameProps> = ({
           <button
             onClick={handlePrev}
             disabled={currentIndex === 0}
-            className={`inline-flex items-center gap-1.5 rounded-xl px-4 py-2 text-xs font-bold transition-all ${
+            className={`inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-800 px-4 py-2 text-xs font-bold transition-all ${
               currentIndex === 0
-                ? 'opacity-0 pointer-events-none'
-                : 'text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800'
+                ? 'opacity-30 cursor-not-allowed bg-slate-50 dark:bg-slate-800/40 text-slate-400'
+                : 'bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 active:scale-95 shadow-2xs'
             }`}
           >
             <ArrowLeft className="h-4 w-4" />
-            Câu trước
+            <span>Câu trước</span>
           </button>
 
           <div className="flex items-center gap-2">
             {isReviewMode ? (
-              <button
-                onClick={() => setIsReviewMode(false)}
-                className="inline-flex items-center gap-2 rounded-xl bg-slate-800 text-white dark:bg-slate-200 dark:text-slate-900 px-5 py-2.5 text-xs font-bold hover:opacity-90"
-              >
-                Về bảng tổng kết
-              </button>
+              <>
+                <button
+                  onClick={() => setIsReviewMode(false)}
+                  className="inline-flex items-center gap-1.5 rounded-xl bg-slate-800 text-white dark:bg-slate-200 dark:text-slate-900 px-4 py-2 text-xs font-bold hover:opacity-90 transition-all shadow-xs"
+                >
+                  <Trophy className="h-3.5 w-3.5 text-amber-400" />
+                  <span className="hidden sm:inline">Về</span> Tổng kết
+                </button>
+
+                <button
+                  onClick={handleNext}
+                  disabled={currentIndex === totalQuestions - 1}
+                  className={`inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-800 px-4 py-2 text-xs font-bold transition-all ${
+                    currentIndex === totalQuestions - 1
+                      ? 'opacity-30 cursor-not-allowed bg-slate-50 dark:bg-slate-800/40 text-slate-400'
+                      : 'bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 active:scale-95 shadow-2xs'
+                  }`}
+                >
+                  <span>Câu sau</span>
+                  <ArrowRight className="h-4 w-4" />
+                </button>
+              </>
             ) : (
               <button
                 onClick={handleNext}
