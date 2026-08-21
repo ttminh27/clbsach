@@ -10,16 +10,16 @@ const manifestPath = path.resolve(rootDir, 'src', 'data', 'books-manifest.json')
 
 const placeholderMetadata = {
   "7ThoiQuenHieuQua": {
-    title: "7 Thói Quen Của Người Thành Đạt",
+    title: "7 Thói Quen Để Thành Đạt",
     originalTitle: "The 7 Habits of Highly Effective People",
     author: "Stephen R. Covey",
-    translator: "Nhiều dịch giả",
+    translator: "Vũ Tiến Phúc - PACE",
     category: "Kỹ năng lãnh đạo & Phát triển bản thân",
-    tags: ["Thói quen", "Lãnh đạo", "Hiệu suất", "Tư duy"],
+    tags: ["Thói quen", "Lãnh đạo", "Hiệu suất", "Tư duy", "Phát triển bản thân"],
     description: "Một trong những cuốn sách kinh điển nhất mọi thời đại về kỹ năng quản trị bản thân, xây dựng mối quan hệ tin cậy và đạt được thành công bền vững.",
     gradient: "from-amber-600 to-orange-700",
     themeColor: "#ea580c",
-    status: "coming_soon"
+    status: "available"
   },
   "DoiNganDungNguDai": {
     title: "Đời Ngắn Đừng Ngủ Dài",
@@ -36,14 +36,14 @@ const placeholderMetadata = {
   "DungBaoGioDiAnMotMinh": {
     title: "Đừng Bao Giờ Đi Ăn Một Mình",
     originalTitle: "Never Eat Alone",
-    author: "Keith Ferrazzi",
-    translator: "Trần Thị Ngân Xuyên",
+    author: "Keith Ferrazzi & Tahl Raz",
+    translator: "Trần Thị Ngân Tuyến",
     category: "Giao tiếp & Mạng lưới quan hệ",
-    tags: ["Networking", "Giao tiếp", "Quan hệ", "Hợp tác"],
+    tags: ["Networking", "Giao tiếp", "Quan hệ", "Hợp tác", "Thành công"],
     description: "Bí quyết kết nối mạng lưới quan hệ đỉnh cao, xây dựng sự gắn kết chân thành và cùng nhau phát triển dựa trên lòng hào phóng.",
     gradient: "from-emerald-600 to-teal-800",
     themeColor: "#0d9488",
-    status: "coming_soon"
+    status: "available"
   },
   "SucManhCuaThoiQuen": {
     title: "Sức Mạnh Của Thói Quen",
@@ -139,7 +139,7 @@ for (const bookId of bookDirs) {
   const files = fs.readdirSync(bookPath);
   let mdFiles = files.filter(f => f.endsWith('.md') && f.toLowerCase() !== 'readme.md');
   let coverUrl = null;
-  const coverCandidates = ['cover.jpg', 'cover.png', 'cover.jpeg', 'cover.webp', 'img_p001_01.jpeg', 'img-000.png'];
+  const coverCandidates = ['cover.jpg', 'cover.png', 'cover.jpeg', 'cover.webp', 'img_p001_01.jpeg', 'img-000.png', 'bia_truoc.png', 'bia_truoc.jpg', 'cover_front.png', 'cover_front.jpg'];
   for (const c of coverCandidates) {
     if (fs.existsSync(path.resolve(bookPath, 'images', c))) {
       coverUrl = `/books/${bookId}/images/${c}`;
@@ -188,9 +188,9 @@ for (const bookId of bookDirs) {
 
     // Extract all H1 matches
     const h1Matches = [...content.matchAll(/^#\s+(.+)$/gm)].map(m => m[1].trim());
-    let title = fileName.replace('.md', '').replace(/^[0-9]+_/, '').replace(/_/g, ' ');
+    let title = tocTitles[fileName] || fileName.replace('.md', '').replace(/^[0-9]+_/, '').replace(/_/g, ' ');
     
-    if (h1Matches.length > 0) {
+    if (!tocTitles[fileName] && h1Matches.length > 0) {
       // If there are multiple H1s (e.g. # Phần một and # 1. Vòng lặp), prefer the chapter one
       const chapterH1 = h1Matches.find(h => !/^phần\s+(một|hai|ba|bốn|năm|sáu|bảy|tám|chín|mười|[0-9ivx]+)\b/i.test(h));
       title = chapterH1 || h1Matches[0];

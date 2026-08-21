@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
-import { BookOpen, Search, Moon, Sun, Library, X, Menu, Info, History } from 'lucide-react';
+import { BookOpen, Search, Moon, Sun, Library, X, Info, History } from 'lucide-react';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import booksData from '../../data/books-manifest.json';
 import { Book } from '../../types/book';
@@ -56,38 +56,23 @@ export const Navbar: React.FC<NavbarProps> = ({ onToggleSidebar, isSidebarCollap
     <>
       <header className="sticky top-0 z-30 w-full border-b border-slate-200/80 bg-white/90 backdrop-blur-md dark:border-slate-800 dark:bg-slate-900/90 transition-colors">
         <div className="mx-auto flex h-16 w-full items-center justify-between px-4 sm:px-6">
-          {/* Left: Hamburger Menu & Brand Logo */}
-          <div className="flex items-center gap-3">
-            {onToggleSidebar && (
-              <button
-                onClick={onToggleSidebar}
-                className="flex rounded-xl p-2 text-slate-600 hover:bg-slate-100 hover:text-slate-900 dark:text-slate-300 dark:hover:bg-slate-800 dark:hover:text-white transition-colors"
-                title={isSidebarCollapsed ? 'Mở rộng sidebar' : 'Thu gọn / Mở sidebar'}
-                aria-label="Thu gọn hoặc mở menu bên trái"
-              >
-                <Menu className="h-5 w-5" />
-              </button>
-            )}
-
-            <Link to="/" className="flex items-center gap-2.5 group">
-              <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-tr from-emerald-600 to-teal-500 text-white shadow-md shadow-emerald-500/20 group-hover:scale-105 transition-transform">
-                <BookOpen className="h-5 w-5" />
+          {/* Mobile Only Brand Logo */}
+          <div className="flex lg:hidden items-center gap-2.5">
+            <Link to="/" className="flex items-center gap-2">
+              <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-tr from-emerald-600 to-teal-500 text-white shadow-xs">
+                <BookOpen className="h-4 w-4" />
               </div>
-              <div>
-                <div className="flex items-center gap-1.5">
-                  <span className="font-bold text-base tracking-tight text-slate-900 dark:text-white">
-                    CLB đọc sách <span className="text-emerald-600 dark:text-emerald-400">VietinBank</span>
-                  </span>
-                </div>
-              </div>
+              <span className="font-bold text-sm tracking-tight text-slate-900 dark:text-white">
+                CLB đọc sách <span className="text-emerald-600 dark:text-emerald-400">VietinBank</span>
+              </span>
             </Link>
           </div>
 
-          {/* Desktop Nav Links */}
-          <nav className="hidden md:flex items-center gap-1">
+          {/* Desktop Nav Links (Left aligned on desktop) */}
+          <nav className="hidden lg:flex items-center gap-1">
             <Link
               to="/"
-              className={`flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-xs font-semibold transition-colors ${
+              className={`flex items-center gap-1.5 rounded-xl px-3.5 py-2 text-xs font-semibold transition-colors ${
                 location.pathname === '/'
                   ? 'bg-emerald-50 text-emerald-700 dark:bg-emerald-950/50 dark:text-emerald-400 font-bold'
                   : 'text-slate-600 hover:bg-slate-100 hover:text-slate-900 dark:text-slate-300 dark:hover:bg-slate-800'
@@ -98,7 +83,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onToggleSidebar, isSidebarCollap
             </Link>
             <Link
               to="/about"
-              className={`flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-xs font-semibold transition-colors ${
+              className={`flex items-center gap-1.5 rounded-xl px-3.5 py-2 text-xs font-semibold transition-colors ${
                 location.pathname === '/about'
                   ? 'bg-emerald-50 text-emerald-700 dark:bg-emerald-950/50 dark:text-emerald-400 font-bold'
                   : 'text-slate-600 hover:bg-slate-100 hover:text-slate-900 dark:text-slate-300 dark:hover:bg-slate-800'
@@ -109,7 +94,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onToggleSidebar, isSidebarCollap
             </Link>
             <Link
               to="/history"
-              className={`flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-xs font-semibold transition-colors ${
+              className={`flex items-center gap-1.5 rounded-xl px-3.5 py-2 text-xs font-semibold transition-colors ${
                 location.pathname === '/history'
                   ? 'bg-emerald-50 text-emerald-700 dark:bg-emerald-950/50 dark:text-emerald-400 font-bold'
                   : 'text-slate-600 hover:bg-slate-100 hover:text-slate-900 dark:text-slate-300 dark:hover:bg-slate-800'

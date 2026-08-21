@@ -22,6 +22,7 @@ import {
   Play,
   Pause,
   List,
+  Menu,
 } from 'lucide-react';
 import booksData from '../../data/books-manifest.json';
 import { Book, Chapter } from '../../types/book';
@@ -371,42 +372,45 @@ export const Sidebar: React.FC<SidebarProps> = ({
           <>
             {/* Brand Header */}
             <div className="flex h-16 shrink-0 items-center justify-between px-4 border-b border-slate-200/80 dark:border-slate-800">
-              <Link
-                to="/"
-                onClick={() => window.innerWidth < 1024 && onClose()}
-                className="flex items-center gap-2.5 min-w-0 group"
-              >
-                <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-gradient-to-tr from-emerald-600 to-teal-500 text-white shadow-md shadow-emerald-500/20 group-hover:scale-105 transition-transform">
-                  <BookOpen className="h-5 w-5" />
-                </div>
+              <div className="flex items-center gap-3 min-w-0">
+                {onToggleCollapse ? (
+                  <button
+                    onClick={onToggleCollapse}
+                    className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl text-slate-600 hover:bg-slate-100 hover:text-slate-900 dark:text-slate-300 dark:hover:bg-slate-800 dark:hover:text-white transition-colors"
+                    title={isCollapsed ? 'Mở rộng sidebar' : 'Thu gọn sidebar'}
+                    aria-label="Thu gọn hoặc mở sidebar"
+                  >
+                    <Menu className="h-5 w-5" />
+                  </button>
+                ) : (
+                  <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl text-slate-600 dark:text-slate-300">
+                    <Menu className="h-5 w-5" />
+                  </div>
+                )}
+
                 {!isCollapsed && (
-                  <div className="min-w-0">
+                  <Link
+                    to="/"
+                    onClick={() => window.innerWidth < 1024 && onClose()}
+                    className="min-w-0 group"
+                  >
                     <div className="flex items-center gap-1.5">
-                      <span className="font-extrabold text-sm sm:text-base tracking-tight text-slate-900 dark:text-white">
+                      <span className="font-extrabold text-sm sm:text-base tracking-tight text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
                         CLB đọc sách <span className="text-emerald-600 dark:text-emerald-400">VietinBank</span>
                       </span>
                     </div>
                     <p className="text-[10px] text-slate-400 truncate">
                       Đọc & Nghe Tỉnh Thức
                     </p>
-                  </div>
+                  </Link>
                 )}
-              </Link>
+              </div>
 
               <div className="flex items-center gap-1">
-                {onToggleCollapse && (
-                  <button
-                    onClick={onToggleCollapse}
-                    className="hidden lg:flex rounded-lg p-1.5 text-slate-400 hover:bg-slate-100 hover:text-slate-700 dark:hover:bg-slate-800 dark:hover:text-slate-200 transition-colors"
-                    title={isCollapsed ? 'Mở rộng sidebar' : 'Thu gọn sidebar'}
-                  >
-                    {isCollapsed ? <PanelLeft className="h-4 w-4" /> : <PanelLeftClose className="h-4 w-4" />}
-                  </button>
-                )}
-
                 <button
                   onClick={onClose}
                   className="lg:hidden rounded-lg p-1.5 text-slate-400 hover:bg-slate-100 hover:text-slate-700 dark:hover:bg-slate-800 dark:hover:text-slate-200"
+                  aria-label="Đóng sidebar"
                 >
                   <X className="h-5 w-5" />
                 </button>
