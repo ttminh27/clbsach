@@ -1,0 +1,7 @@
+# 3. Sức mạnh của sự đơn giản
+
+Tôi học hỏi nơi các con rất nhiều. Các con tôi không những là người hùng mà còn là người thầy giỏi. Chúng giúp tôi biết sống với hiện tại, giúp tôi thấy cuộc đời là một cuộc phiêu lưu và dạy tôi cách mở lòng ra. Chúng còn cho tôi nhiều bài học về sức mạnh của sự đơn giản. Lúc này mọi điều tôi theo đuổi đều đơn giản – một thông điệp đơn giản về tư tưởng: mọi người đều là lãnh đạo dù họ làm gì hoặc ở chức vụ nào; một ý tưởng và công cụ đơn giản giúp người khác xây dựng sự nghiệp; một cuộc sống đơn giản hơn (vì thực ra, tôi đã là người sống rất đơn giản). Đối với tôi, đơn giản rất mạnh mẽ. Nhà đồng sáng lập Google Sergey Brin đã nhấn mạnh điều này khi nói rằng ở công ty ông “**thành công** đến từ **sự đơn giản**”.
+
+Điều đó khiến tôi nhớ đến cậu con trai Colby của mình. Chúng tôi đến thành phố New York cách đây vài tháng, cùng nhau chia sẻ một trải nghiệm mà cả hai đã lên kế hoạch từ lâu: ăn mừng sinh nhật lần thứ 13 (để đánh dấu con tôi trở thành một thiếu niên, chỉ có một lần trong đời). Chúng tôi ăn tại nhà hàng Soho. Đi siêu thị mua đồ choi. Ghé cửa hàng Lotteria ưa thích của con. Cùng xem bộ phim 3D mới nhất. Một ngày cuối tuần đầy những niềm vui quí giá và những kỷ niệm không thể nào quên. Giữa cha và con.
+
+Tối Chủ nhật trên đường trở về nhà, tôi hỏi: “Thế con thích nhất điều gì trong ngày cuối tuần vừa qua?”. Nó ngồi thinh lặng. Suy nghĩ trầm tư. Rồi nó mỉm cười nói: “Bố còn nhớ cái bánh hot dog mình ăn trên hè phố hôm qua không? Con thích nó nhất đấy.” Đúng là Sức mạnh của sự đơn giản.

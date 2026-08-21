@@ -1,0 +1,5 @@
+# 52. Lo lắng và hồi tưởng
+
+Rất nhiều nhà tư tưởng đều khuyên chúng ta nên tránh sống trong quá khứ. Họ đều nói: “Hãy sống trong hiện tại.”; “Hãy chôn vùi quá khứ.” Tôi hiểu những ý đó. Nhưng phải chăng vẫn có **điều tốt đẹp** khi trở lại quá khứ và thắp sáng những giây phút tuyệt vời trên hành trình đã đi qua? Khi rút ra **bài học từ những trải nghiệm**?
+
+Điều này dẫn tôi đến quan niệm về lo lắng và hồi tưởng. Việc bạn có nên quay về quá khứ hay không, theo tôi, tùy thuộc vào dự tính của bạn. Nếu dự tính trở lại quá khứ đểd dứt với chuyện buồn đã qua, để lo lắng với những gì không thể thay đổi, để khơi lại những nỗi dau quá khứ, đó là một phản ứng không lành mạnh (chính xác đó là lãng phí thời gian, vì bạn vẫn loay hoay mãi). Nhưng nếu bạn muốn hồi tưởng về những bài học mà sự kiện đó mang lại, để trưởng thành trong khôn ngoan, để thưởng thức những kỷ niệm quí giá mà mình may mắn được hưởng, tôi nghĩ đó là điều tốt đẹp. Bởi vì bạn đã để quá khứ phục vụ mình, và khiến bạn trở nên tốt đẹp hơn.

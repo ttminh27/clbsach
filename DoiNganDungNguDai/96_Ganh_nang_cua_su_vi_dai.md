@@ -1,0 +1,5 @@
+# 96. Gánh nặng của sự vĩ đại
+
+Tôi vừa xem lại bộ phim *Freedome Writers* (Những cây bút tự do) cùng các con. Câu chuyện nhắc tôi về điều gì là quan trọng nhất. Vào cuối đời, **điều duy nhất trường tồn** chính là mình trở thành ai, tạo được sự khác biệt gì, và **cho đi tình yêu thương** nào. Trong một cảnh phim, người cha tự hào về công việc của cô con gái – giáo dục những học sinh hư hỏng trong thành phố bị các giáo viên khác hắt hủi – và nói: “Con được chúc phúc bằng những gánh nặng thế này.” Tôi tin rằng sự thật cũng tương tự cho mỗi người chúng ta. Nhà đồng sáng lập Google, Larry Page, từng nói rằng lãnh đạo nghĩa là “bất chấp một cách hợp lý những điều bất khả”.
+
+Tất cả chúng ta đều có tài năng, nguồn lực để trở nên đặc biệt. Những món quà đó đều kèm theo trách nhiệm. Phải sử dụng chúng. Nâng cao chúng. Đánh bóng và làm chúng sáng lên để tạo ra nhiều giá trị hơn và nâng tầm thế giới quanh mình. Bỏ quên những gánh nặng sẽ khiến mình trở nên xuất sắc nghĩa là chúng ta đã thờ ơ trước trách nhiệm của cuộc đời mình. Và chẳng có thất bại nào lớn hơn thất bại này nữa.

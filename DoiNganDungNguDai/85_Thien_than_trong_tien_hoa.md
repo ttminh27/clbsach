@@ -1,0 +1,9 @@
+# 85. Thiên thần trong tiến hóa
+
+Một ý tưởng vừa xuất hiện trong tôi: Càng nghiền ngẫm một tư tưởng hay, bạn càng tương giao mật thiết với tư tưởng đó. Hắn bạn từng nghe ý này trước đây. Chẳng hạn bạn đọc một cuốn sách hay, đến lần thứ hai hoặc thứ ba. Cứ mỗi lần như thế, dường như toàn bộ cuốn sách trở nên mới mẻ với bạn. Cuốn sách thay đổi chăng? Không. Chính bạn thay đổi. Khả năng thấu hiểu được nâng cao hơn. Tầm nhìn được mở rộng hơn. Khả năng khám phá những điều còn ẩn chứa cũng nhiều hơn. Vì thế bạn khám phá cuốn sách ở mức độ hiểu biết cao hơn. Luôn là vậy. Vấn đề là trước đây mắt bạn không đủ sáng để thấy.
+
+Ý tưởng mà tôi cảm nhận sâu sắc trong chiều hôm nay có thể gọi một cách đơn giản như sau: Thiên thần của tiến hóa. Không có gì bất hợp lý trong cụm từ này cả. Đó chỉ là một góc nhìn khác về những thử thách trong đời. Chúng là lời chúc phúc hơn là tiếng nguyền rủa. Thật vậy. Thiên thần của tiến hóa. Bất cứ ai khiến bạn căng thẳng, **đấu tranh, thử thách** trong đời đều là một kiểu thiên thần. Họ giống như một vị ngôn sứ mang thông điệp **bạn cần học** để có thể trở nên xuất sắc.
+
+Một người đồng nghiệp khó tính là một kiểu thiên thần dạy bạn về sự hiểu biết. Một người bán hàng keo kiệt là một thiên thần đang giúp bạn nhớ đến lòng trắc ẩn, cách giao tiếp hoặc cách bênh vực chính mình. Một thất bại trong nghề nghiệp hoặc một nỗi thất vọng trong công việc được gửi tới để xây dựng lòng quyết tâm và cam kết. Một vấn đề sức khỏe như thiên thần nhắc bạn phải cam kết về chế độ ăn uống, thể dục, nghỉ ngơi và thiền định. Mỗi cuộc gặp gỡ là một giây phút đầy ý nghĩa đưa bạn tới chân thiện mỹ.
+
+Thiên thần của tiến hóa. Lúc khó khăn trong đời là lúc lý tưởng để đưa bạn đến nơi hằng mơ ước. Những con người và sự việc khiến bạn khó chịu, nổi giận và bị tổn thương là những người thầy giỏi giúp bạn nhiều bài học để tỏa sáng nơi làm việc, trong gia đình, trong cuộc đời. Nhờ đó bạn tiến hóa. Và phát triển.

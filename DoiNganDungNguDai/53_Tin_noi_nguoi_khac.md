@@ -1,0 +1,7 @@
+# 53. Tin nơi người khác
+
+Tôi dẫn các con đi xem bộ phim *Freedom Writers* có Hilary Swank đóng. Bộ phim gợi lên bao nguồn cảm hứng. Nó khiến tôi chảy nước mắt. Khiến tôi muốn hành động và cho đi nhiều hơn. Khiến tôi muốn phát huy nhiều thứ. Bộ phim thật sâu sắc.
+
+Đây là một trong những ý tưởng rút ra từ bộ phim: Sự lãnh đạo chính là tin nơi người khác (và tin vào bản thân) khi không còn ai tin tưởng. Những đứa trẻ trong phim gia nhập băng đảng. Cuộc đời khắc nghiệt. Trái tim lạnh giá. Nhưng một người thầy vẫn thấy được giá ưị ẩn trong người chúng: thông minh, tử tế, chăm sóc những ai bỏ cuộc và gục ngã. Nhà trường không cho chúng sách mới – vì nghĩ rằng chúng không đáng được sách mới. Nhưng người thầy thì không. Vẫn đối xử trân trọng. Tự mua sách cho chúng (bằng cách làm thêm hai nghề khác để có tiền). Đòi hỏi chúng. Chúc mừng chúng. Tin vào chúng. Và chúng đã thay đổi. Bởi vì khi bạn nhìn thấy điều tốt đẹp nhất nơi người khác, họ sẽ trao điều tốt đẹp nhất cho bạn.
+
+Tôi đã thấy điều đó xảy ra trong các tổ chức trên khắp thế giới. Hãy phát triển, tuyên dương, khơi nguồn cảm hứng cho họ, và họ sẽ thăng hoa. Như giáo sư nổi tiếng Leo Buscaglia từng nói: “Chúng ta thường **đánh giá thấp** sức mạnh của nụ cười, của lời tử tế, của sự vỗ về, của tâm lắng nghe, của lời khen ngợi chân thành, hoặc một **cử chỉ săn sóc rất nhỏ**. Tất cả những điều ấy đều **ẩn chứa khả năng thay đổi** một cuộc đời.”

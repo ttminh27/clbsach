@@ -1,0 +1,7 @@
+# 5. Nguyên tắc mở rộng thành công
+
+Đây là một ỷ tưởng mạnh mẽ có thể cách mạng hóa cuộc sống và sự nghiệp nếu bạn bám vào tận gốc rễ của nó: cuộc sống rộng ra hoặc 1 co lại tùy vào ý chí muốn tiến thẳng vào nỗi sợ của mình. Hãy thực hiện những gì bạn sợ, bạn sẽ tỏa sáng. Chạy trốn nỗi sợ khiến bạn cũng lùi xa sự vượt trội. Điều đó nhắc tôi nhớ lời Frank Herbert đã viết trong tác phẩm *Xứ cát*: “Tôi không được quyền sợ. Sợ hãi là kẻ hủy diệt tâm trí. Sợ hãi là cái chết sẽ dần dẫn ta đến chỗ hoàn toàn tiêu vong. Tôi phải đối mặt nỗi sợ. Tôi sẽ cho phép nó đi qua đời mình. Và khi nó đi qua, tâm trí tôi sẽ quay lại nhìn chặng đường của nó. Nơi nỗi sợ đi qua sẽ không có gì. Chỉ mình tôi còn lại.”
+
+Khi dám đối mặt với hoàn cảnh nào khiến bạn cảm thấy bất an, sợ hãi, kết quả đạt được sẽ rất đáng khích lệ. Thay vì chạy đến cánh của thoát hiểm nào đó, bạn vẫn đứng vững và thực hiện điều bạn biết mình nên làm. Trước hết, bạn sẽ thấy nỗi sợ chẳng qua chỉ là ảo giác. Thứ đến, bạn nhận được phần thưởng cho lòng can đảm, bởi vì bên kia cánh cửa của **bất cứ nỗi sợ nào** cũng đều có sẵn **những món quà lộng lẫy**, món quà của sự trưởng thành nhân cách, lòng tự tin, sự khôn ngoan. Tôi vẫn nhiều lần chứng kiến điều này trong cuộc đời.
+
+Tôi tin đó là qui luật của cuộc sống. Vậy hãy hướng đến nỗi sợ. Chỉ cần khởi đầu từng bước nhỏ thôi, nhưng trong các cuộc đua, chậm mà chắc sẽ luôn chiến thắng. Hãy chứng kiến thành công bạn đáng được hưởng đang dần hiện ra. Vào đúng lúc bạn cần nó nhất.

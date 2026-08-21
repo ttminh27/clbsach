@@ -1,0 +1,7 @@
+# 71. Làm điều mới mẻ
+
+Con người khát khao muốn nắm quyền kiểm soát - đó là cách ta tồn tại. Đó là một cơ chế sống còn từ thời con người còn cư ngụ trong hang đá. Ta cần sự chắc chắn, và bất cứ điều gì không chắc chắn sẽ khiến ta bất an. Tuy nhiên khả năng lãnh đạo cũng liên quan đến khả năng thành công ngay cả trong lúc đối diện với sự bấp bênh. Đó là hành động chạy đến, chứ không phải chạy trốn, những điều xa lạ và đáng sợ. Khả năng lãnh đạo còn bao hàm cả việc dám thử những điều mới mẻ.
+
+Thật dễ dàng khi ăn cùng một loại thức ăn mỗi ngày. Nhưng nếu không thử món mới, bạn sẽ đánh mất cơ hội khám phá món ăn khoái khẩu của mình. Thật dễ dàng kết giao với cùng những con người đó và nói cùng những chuyện đó mỗi ngày. Nhưng nếu không mở rộng cộng đồng của mình, bạn sẽ đánh mất cơ hội gặp gỡ những người bạn mới. Thật dễ dàng thực hiện cùng công việc mỗi ngày - để rồi cứ thế mà sống mòn. Nếu không vươn xa, bạn sẽ đánh mất sự hoàn thiện có thể giúp bạn tràn ngập lòng tự tin để bắt đầu cả một thế giới mới trong công việc.
+
+Thế nên tôi mời bạn xem mỗi ngày như một sân ga để làm phong phú cho cuộc sống bằng nhiều cuộc phiêu lưu, đam mê và năng lượng hơn, bằng cách thêm vào đó nhiều điều mới mẻ. Hãy nghe một **bài nhạc rock** nếu bạn chỉ thích nghe dòng **nhạc cổ điển**. Hãy ăn một món chay nếu bạn thường ăn món mặn. Hãy đọc báo *Giải trí* nếu bạn thường đọc báo *Doanh nhân*. Cả một thế giới to lớn và thú vị ngoài kia. Thế giới đó chờ bạn đón nhận.

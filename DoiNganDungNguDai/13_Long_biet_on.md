@@ -1,0 +1,7 @@
+# 13. Lòng biết ơn
+
+Có lần tôi được xem một buổi phỏng vấn của Larry King với Carolyn Thomas, một phụ nữ bất hạnh đã bị mất gần hết gương mặt. Chương trình đó khiến tôi nghĩ nhiều về lòng biết ơn. Ý tưởng lớn: Bạn **trân trọng** điều gì trong cuộc sống, điều đó sẽ **phát triển**. Bạn suy tư và tập trung vào điều gì, nó sẽ lớn mạnh. Điều gì bạn đánh giá cao sẽ bắt đầu gia tăng giá trị. Hãy trân trọng vì có sức khỏe. Trân trọng gia đình. Trân trọng quà tặng, bạn bè, công việc. Hãy trân trọng cuộc sống, và viễn cảnh sẽ bắt đầu thay đổi. Bạn sẽ thấy cuộc đời mình được chúc phúc (ngược lại với những phần đời từng tan vỡ).
+
+Tôi thích lên danh sách. Đây là lời đề nghị: hãy lên danh sách năm mươi điều bạn trân trọng, biết ơn (vâng, năm mươi). Mười điều đầu tiên rất dễ: người thân, công việc, gia đình, vân vân. Biết ơn vì bạn nói tiếng Việt (hoặc tiếng Nhật, tiếng Đức). Biết ơn vì có đủ hai mắt, có trái tim khỏe, hoặc vì bạn không sống trong vùng chiến tranh. Biết ơn người khác. Cầu chúc cho người nông dân nỗ lực làm nên thức ăn trên bàn. Cầu chúc cho người công nhân tạo ra chiếc xe máy bạn đi. Cầu chúc cho người bán hàng nơi bạn mua quần áo. Cầu chúc cho người phục vụ quán ăn bạn đến hôm qua.
+
+Đó là thái độ biết ơn. Hãy lưu tâm đến những phúc lành của mình, đừng xem bất cứ điều gì là hiển nhiên. Tôi chắc chắn bạn sẽ có nhiều thứ để biết ơn hơn những gì bạn thấy. Chỉ cần nghĩ đến. Chỉ cần trân trọng. Và để ý xem điều gì sẽ xảy đến.

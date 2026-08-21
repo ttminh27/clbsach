@@ -31,7 +31,7 @@ const placeholderMetadata = {
     description: "Những bài học ngắn gọn, súc tích và sâu sắc đánh thức tiềm năng to lớn bên trong bạn, giúp bạn sống một cuộc đời phi thường và đầy ý nghĩa.",
     gradient: "from-blue-600 to-indigo-800",
     themeColor: "#4f46e5",
-    status: "coming_soon"
+    status: "available"
   },
   "DungBaoGioDiAnMotMinh": {
     title: "Đừng Bao Giờ Đi Ăn Một Mình",

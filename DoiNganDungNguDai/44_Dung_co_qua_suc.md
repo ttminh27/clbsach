@@ -1,0 +1,5 @@
+# 44. Đừng cố quá sức
+
+Một trong những nguyên tắc tổ chức căn bản trong cuộc sống: Thành công là kết quả của sự quân bình tinh tế giữa việc để mọi sự tự xảy ra và việc tác động để chúng xảy ra. Đúng, bạn có trách nhiệm thiết lập mục tiêu, nhận diện khả năng và thể hiện hết mình. Ta cần thực hiện phần việc của mình. Điều tốt đẹp sẽ hé lộ cho những ai tận tâm làm điều tốt đẹp. Nhưng ta cũng cần một sự cam kết tinh tế, cho phép mọi việc tự nhiên hé lộ. Nói một cách khác, **hãy làm hết sức** – rồi để cuộc đời làm phần còn lại.
+
+Cuộc sống luôn dẫn dắt bạn đến nơi **tốt đẹp hơn** (cho dẫu nó trông không giống như vậy). Tôi khám phá rằng việc để cuộc đời dẫn dắt là điều rất quan trọng (môt bài học không hề dễ dàng, và chính tôi vẫn đang học). Nếu đã cố làm mọi thứ nhưng sự việc vẫn không như kết quả bạn mong muốn, đừng cố quá sức. Nghỉ ngơi đi. Có thể mọi chuyện không hề sai. Có thể chưa đến lúc. Có thể cánh cửa này đóng lại nhưng cánh cửa khác đang mở ra. Và thông thường, một khi đã thực hiện điều bạn cho là tốt nhất, bạn đã tạo nên không gian cho điều tốt đẹp hơn sắp đến. Mọi điểm kết thúc đều mở ra một điểm khởi đầu mới.

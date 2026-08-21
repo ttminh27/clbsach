@@ -1,0 +1,11 @@
+# 29. Nhà tư tưởng thanh cao
+
+Tôi ngồi đây trong một khách sạn ở Karachi. Một thành phố tuyệt vời. Âm thanh. Văn hóa. Con người. Tất cả dạy tôi nhiều điều. Tôi rất vui khi ở đây.
+
+Tôi đang đọc cuốn *The Namesake* (Người cùng tên) của Jhumpa Lahiri. Sách cổ vũ một ý tưởng: Hãy trở thành nhà tư tưởng thanh cao. Cam kết có những suy nghĩ cao đẹp. Hết lòng tìm kiếm sự thấu hiểu, hồi tưởng, ý nghĩ tuyệt vời nhất. Bạn từng nghe hàng trăm lần qua nhiều cách khác nhau rằng: Bạn suy nghĩ sao thì sẽ trở thành như vậy. Tư tưởng của bạn sẽ là lời tiên tri cho bản thân. Hãy mong đợi điều phi thường mở ra với mình, và nó sẽ đến. Người thầy nói thế. Nhà thông thái nói thế. Có bao giờ bạn tự hỏi tại sao?
+
+Tôi nghĩ mình hiểu được tại sao ý tưởng này chính xác. Nó không mang tính triết lý. Nó chỉ là logic giản đơn như sau: Những hành động bạn thực hiện mỗi ngày hình thành kết quả cuộc đời. Vì mỗi hành động bạn thực hiện đều do một suy nghĩ dẫn dắt (tư tưởng thực sự là cội nguồn của mọi biểu hiện), nên điều bạn tập trung vào chắc chắn dẫn dắt thực tại. Thủ tướng Anh Benjamin Disraeli hiểu rõ điều này khi viết: “Bạn không bao giờ đi xa hơn tư tưởng của mình.” Là con người, bạn không bao giờ hành động lớn lao hơn suy nghĩ. Cứ **ước mơ** lớn lao và rồi **hành vi** sẽ theo sau. Cứ **suy nghĩ** nhỏ nhặt và **hành động** của bạn cũng sẽ **nhỏ nhặt**.
+
+Khái niệm này tuôn chảy trong mọi chiều kích của cuộc đời. Cứ nghĩ rằng mọi người đều có bản chất tốt đẹp thì bạn sẽ sống mở lòng ra. Chính hành vi ấy sẽ tạo nên thực tại, bởi vì *người ta làm điều tử tế với người tử tế*. Cứ tin rằng bạn đáng hưởng điều tốt nhất thì hành động sẽ phản ánh lòng tự tin ấy. Hành động tích cực kéo theo kết quả tích cực. Hãy kỳ vọng mình sẽ vượt trội trong sự nghiệp, trong cộng đồng và rồi suy nghĩ khôn ngoan ấy sẽ hình thành cách sống và làm việc của bạn. Hành vi đặc biệt sẽ mang lại kết quả đặc biệt.
+
+Hy vọng tôi đã diễn tả rõ ràng quan điểm này, bởi vì tôi tin rằng ý tưởng lớn này quá dễ thực hiện đến nỗi không thể thờ ơ được. Suy nghĩ hình thành thực tại. Tư tưởng của bạn chắc chắn sẽ tạo nên thế giới cho riêng bạn. Điều bạn tập trung sẽ phát triển. Điều bạn thật sự chú tâm gần như chắc chắn sẽ quyết định số mệnh của bạn.

@@ -1,0 +1,11 @@
+# 67. Bạn sẽ biết khi nào bạn biết
+
+Hôm qua tôi có buổi nói chuyện trên đài phát thanh Sirius. Người dẫn chương trình hỏi tôi một câu đầy ý nghĩa: “Tất cả chúng ta đều có mục tiêu và khát vọng. Nhưng đôi khi sự việc không xảy ra như kế hoạch. Làm thế nào ông biết đã đến lúc bỏ cuộc?” Tôi trả lời ngay: “Bạn sẽ biết khi nào bạn biết.”
+
+Những người đạt đến tầm xuất sắc trong công việc hay trong đời sống cá nhân đều luôn luôn mang theo tinh thần không bao giờ bỏ cuộc. Tất cả những hành động can trường đều do những người không chấp nhận thất bại thực hiện. Họ không chịu buông xuôi – dù sự việc trông như bất khả thi, tồi tệ, hoặc phi thực tế ra sao đi nữa.
+
+Nhưng như đã nói, cuộc đời thường ném những đường bóng xoáy và mở ra những kế hoạch khác cho chúng ta. Diễn viên hài Gilda Radner, chết vì ung thư khi mới 42 tuổi, hiểu rất rõ về ý tưởng này: “Khó khăn lắm tôi mới học được bài học khó khăn này: có những bài thơ không vần điệu, có những câu chuyện chẳng khởi đầu, khai triển, hoặc kết thúc rõ ràng. Cuộc đời là những điều không biết, là phải thay đổi, là đón nhận từng giây phút và sống hết mình cho nó mà không thể biết được điều gì sẽ xảy ra tiếp theo. Một sự mơ hồ ngọt ngào.”
+
+Chúng ta mong chờ sự việc xảy ra, những ước mơ thành hiện thực. Nhưng dù cố gắng bao nhiêu đi nữa, mây đen sẽ không bao giờ tan hết. Ta không bao giờ nghỉ ngơi. Vận may không bao giờ mỉm cười. Ta vẫn tiến vào màn đêm, được tiếp thêm sức mạnh chỉ bằng lòng tin. Đó là điều tốt đẹp nếu ngọn lửa trong thâm sâu vẫn cháy sáng và mọi tế bào trong bạn vẫn bảo rằng cứ tiếp tục (tin vào bản thân là dấu son của sự vượt trội). Nhưng đôi khi, bạn tiến đến một thời điểm nào đó và biết rằng đã đến lúc thay đổi chiến lược. Không phải là đánh mất niềm hy vọng. Chỉ là bạn *biết* cần như vậy. Vì niềm tin vào cuộc đời. Niềm tin rằng một sự việc còn tốt đẹp hơn nữa đang chờ đón bạn. Và đó là lúc điều chỉnh phương hướng.
+
+Những năm gần đây, tôi đã cố gắng sống với triết lý mà tôi từng chia sẻ với bạn trong một chương trước đó: Hãy **làm hết sức** rồi để **cuộc đời làm phần còn lại**. Thật không dễ dàng buông tay để điều mình mong muốn lại ra đi (vì bạn sẽ phải đau khổ nhiều). Nhưng nếu một điều còn tốt đẹp hơn đang chờ đón bạn nơi khúc quanh kia, thì sao lại không chứ?

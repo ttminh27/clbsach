@@ -1,0 +1,3 @@
+# 94. Tự do tuyệt đối
+
+Một trong những cuốn sách tôi rất thích là *Man's Search for Meaning* (Đi tìm lẽ sống) của Viktor Frankl, một bác sĩ tâm lý trị liệu người Áo, từng sống sót trong các trại tập trung của Đức quốc xã. Rất nhiều người chung quanh ông đã chết. Họ mất niềm hy vọng. Họ rơi vào tuyệt vọng, rồi chết. Còn ông vượt qua được thử thách bằng cách áp dụng điều mà tôi tin là sự tự do tuyệt đối của con người: khả năng lựa chọn cách đáp trả và giải quyết bất cứ sự việc nào xảy đến với ta. Chúng ta có thể tìm kiếm điều tốt đẹp hoặc để bị ám ảnh bởi những điều tồi tệ. Frankl đã viết: “Người ta có thể lấy đi tất cả trừ một thứ, một **quyền tự do** cuối cùng của con người: lựa chọn thái độ trước những hoàn cảnh ập đến, **lựa chọn một lối đi**.” Một tư tưởng tuyệt vời.

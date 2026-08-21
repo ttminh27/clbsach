@@ -1,0 +1,7 @@
+# 14. Nhanh chóng nhận lãnh trách nhiệm
+
+Vai trò lãnh đạo thực sự nghĩa là nói đến trách nhiệm từng cá nhản, đến việc tạo ra kết quả cao nhất, nhận lãnh trách nhiệm để hoàn thành công việc – dù bạn đứng ở vị trí nào đi nữa. Câu chuyện sau đây diễn tả ý tưởng tôi muốn trình bày.
+
+Hôm qua tôi đi siêu thị mua hàng. Khi tôi xếp hàng đứng đợi trả tiền, mọi người đều dậm chân tại chỗ. Tôi nhìn lên phía trước và thấy một phụ nữ đang bối rối – hình như thẻ tín dụng của bà gặp trục trặc. Cô thu ngân đứng im như tượng gỗ. Cô ta chẳng làm gì hết. Không lời giải thích chuyện gì đang xảy ra (sau đó tôi được biết do hệ thống bị treo). Chẳng xin lỗi khách hàng vì sự chậm trễ. Chẳng hành động gì để giải quyết vấn đề. Chỉ đứng nhăn răng cười gượng và biểu lộ sự căng thẳng. Có một điều nghe có vẻ hiển nhiên, nhưng quả thật **vai trò lãnh đạo** chỉ bộc lộ trong những giây phút **thử thách**, **chứ không phải** trong những giây phút **dễ dàng**.
+
+Vai trò lãnh đạo sẽ xuất hiện ở nơi làm việc – hoặc trong đời – để thử thách chúng ta. Mỗi người trong chúng ta, những nhà lãnh đạo không cần danh phận, phải đứng lên đối đầu thử thách. Ta cần tỏa sáng khi sự việc không như dự tính. Ta phải nhận lãnh trách nhiệm. Một cách nhanh chóng. Trong câu chuyện trên, cuối cùng hệ thống cũng được khôi phục, thẻ tín dụng hoạt động trở lại và tôi cũng qua được quầy tính tiền. Nhưng lần sau nếu đi siêu thị này và được lựa chọn, tôi sẽ tìm một người thu ngân biết việc. Người suy nghĩ nhanh. Người tìm cách cho công việc hoàn tất, trong khi những người khác chỉ biết đứng im thụ động.

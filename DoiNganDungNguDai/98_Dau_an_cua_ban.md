@@ -1,0 +1,5 @@
+# 98. Dấu ấn của bạn
+
+Trong một tờ tạp chí *Best Life* tôi đọc được một câu của George Clooney: “Bạn chỉ có một thời ngắn ngủi trong đời để ghi dấu ấn của mình.” Hiển nhiên chứ? Có thể. Nhưng rất đúng.
+
+Chúng ta rất dễ bị mắc kẹt trong những công việc hàng ngày mà quên lãng chuyện xây dựng di sản cho mình. Rất dễ tập trung vào các vấn đề mà quên đi chuyện theo đuổi lý tưởng. Rất dễ bị lôi kéo vào những mục tiêu tầm thường hàng ngày mà mất dấu những mục tiêu lớn lao. Tuy nhiên, cuộc đời xoay quanh với tốc độ cực nhanh. Nếu không dùng mỗi ngày để thực hiện dù chỉ một điều nào đó **để ghi dấu, để đẩy xa tầm nhìn, để tỏa sáng**, bạn có thể **bỏ lỡ cơ hội**. Tôi nhớ đến lời của nhà tư vấn Richard Leider từng nhận xét: “Những người trên 65 tuổi khi được hỏi ‘nếu sống lại cuộc đời, bạn sẽ sống khác ra sao?’ và họ nói ba điều: Tôi sẽ dành thời gian để dừng lại và hỏi những câu hỏi quan trọng. Tôi sẽ can đảm hơn và chấp nhận nhiều rủi ro hơn trong công việc và tình yêu. Tôi sẽ sống có mục đích – để tạo nên sự khác biệt.” Đó là tất cả ý nghĩa.

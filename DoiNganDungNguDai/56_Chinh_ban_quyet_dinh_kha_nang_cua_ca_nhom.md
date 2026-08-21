@@ -1,0 +1,9 @@
+# 56. Chính bạn quyết định khả năng của cả nhóm
+
+Tôi quan sát một nhóm làm đường vào sáng nay khi đưa con đến trường. Người đội trưởng đang có một ngày tồi tệ. Anh tài xế xe buýt cứ bấm còi liên tục vì đường kẹt xe. Ông đội trưởng chửi thề và giơ nắm đấm lên trời rồi đá mạnh vào thanh chắn đường. Một người đầy tức giận.
+
+Rồi ông ta bắt đầu la mắng công nhân. Mỉa mai họ. Trút giận lên họ. Giống như một tên điên. Các công nhân cúi gằm mặt và tiếp tục làm việc. Tôi có cảm giác rằng họ bị sỉ nhục trước đám đông. Nhưng người đội trưởng kia vẫn tiếp tục la lối. Tuôn trào mọi thứ cặn bã của mình ra đường xá đông đúc để mọi người đều thấy. Tối nay, ông ta sẽ đổ lỗi cho công nhân vì làm việc chậm chạp. Và biết đâu còn quát nạt các con khi về nhà.
+
+Ý tưởng lớn: Chính bạn quyết định **trình độ của cả nhóm** (dù bạn không phải người lãnh đạo đi nữa). Bạn đặt ra **tiêu chuẩn để tất cả vươn tới**. Mỗi ngón tay đều ảnh hưởng đến sức mạnh của cả bàn tay. Khi các tổ chức yêu cầu tôi giúp nhân viên thể hiện tốt trong công việc để đạt kết quả cao nhất, tôi đều nhẹ nhàng nhắc mọi người trong phòng rằng: “Mọi chuyện khởi đầu từ các bạn”. Tôi cho đó là ý tưởng rất quan trọng. Hãy thôi đổ lỗi cho người khác – điều đó chỉ tố cáo chính mình. Và tất cả đều bắt đầu bằng thế giới bên trong bạn. Sự lãnh đạo bên ngoài cần bắt đầu với sự vững vàng bên trong. Bạn không thể xây dựng một tổ chức xuất sắc cho đến khi bạn cam kết trở nên một con người xuất sắc.
+
+Người đội trưởng mà tôi quan sát trên đường có lẽ cần soi mình trong gương. Cần dọn sạch những thứ hỗn loạn của chính ông ta. Cần kiểm soát nỗi tức giận cá nhân. Cần xem lại lòng tin giới hạn của mình. Cần phát triển tính cách. Mở rộng trái tim. Quả là những chuyện khó khăn. (Có bao nhiêu người can đảm thực hiện chúng chứ?) Nhưng chúng thực sự dẫn đến kết quả tốt đẹp hơn. Nâng cao thành quả. Đưa tổ chức vượt trội. Tôi có lưu ý rằng tất cả đều bắt đầu từ bạn chưa nhỉ? Vì đúng là như vậy.

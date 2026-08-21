@@ -1,0 +1,5 @@
+# 1. Hãy là chính mình
+
+Warren Buffet từng nói: “Không bao giờ có ai giống bạn.” Một ý tướng rất thâm thúy. Một con người khôn ngoan. Không bao giờ có ai giống như tôi. Và không bao giờ có ai giống như bạn. Sẽ có người cổ gắng bắt chước cách bạn suy tư, nói năng, hành động. Nhưng dù cổ gắng hết sức họ cũng chỉ đứng hàng thứ hai mà thôi. Vì bạn là duy nhất. Một bản thể duy nhất tồn tại hôm nay. Giữa hàng tỷ người khác. Hãy dừng lại và nghĩ về điều này. Bạn chợt nhận ra mình đặc biệt. Không, rất đặc biệt mới đúng. Và không thể có ai tranh giành được.
+
+Thế thì hôm nay, bạn làm gì khi bước vào thế giới cần những con người thể hiện vượt trội trong cuộc sống từ trước đến giờ? Bạn đã bộc lộ hết mọi khả năng tiềm ẩn chưa? Bạn đã tiết lộ con người chân thật của mình chưa? Bạn có là chính mình? Hãy tự hỏi. Bởi vì không còn lúc nào thể hiện chính mình tốt hơn lúc này. Và nếu không phải bây giờ, thì khi nào? Tôi nhớ đến lời của triết gia Herodotus: *“Thà chắp nhận rủi ro* **phải gánh chịu một nửa** *những chuyện xấu mà ta từng dự đoán trước, còn hơn giữ mãi* **sự vô danh hèn nhát** *vì sợ những điều có thể xảy ra.”* Một lời nói tuyệt đẹp.

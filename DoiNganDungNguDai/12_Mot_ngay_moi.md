@@ -1,0 +1,7 @@
+# 12. Một ngày mới
+
+Vào nửa đêm hôm nay, bạn sẽ có một món quà tuyệt vời nhất: 24 tiếng đồng hồ tươi mới. 24 giờ thuần khiết, không tỳ vết và không giới hạn. Một ngày mói trao gửi cơ hội để bạn bày tỏ sự can trường, ứng xử lịch thiệp, liên kết chân thành, rèn luyện những thói quen giúp bạn tiến lên một cuộc đời tốt đẹp hơn. Hai mươi bốn giờ trao tặng cơ hội để cười. Để sáng tạo giá trị. Để thực hiện ước mơ. Dù bạn có thừa nhận hay không, ngày mai vẫn là điều kỳ diệu. Đâu phải ai cũng có được nó.
+
+Tôi vừa từ Kazakhstan trở về. Tôi thích thời gian ở đó. Almaty là một thành phố đẹp, vây quanh bởi đồi núi với những hàng thông reo. Con người nơi đây vui vẻ và nhiều màu sắc văn hóa. Buổi hội thảo về vai trò lãnh đạo mà tôi trình bày khiến tôi hân hoan. Trên chuyến bay dài trở về nhà, tôi đọc cuốn *A Good Year* (Năm tốt lành) của Peter Mayle. Tôi từng thích sách của Mayle và nghĩ rằng cuốn này sẽ giúp tôi thư giãn. Quả thế. Thật là cuốn sách hay trên chuyến nghỉ hè. Có một câu trong tác phẩm đánh động tôi: “Thà **chết đứng** còn hơn **sống cả đời trên hai đầu gối**.” Câu nói thật mạnh mẽ. Cảm ơn Peter Mayle vì đã thức tỉnh tôi, về điều quan trọng nhất.
+
+Vậy hãy làm cho ngày mai trở nên đặc biệt. Không, trở nên vĩ đại. Tuyệt vời hết mức. Trở nên một tác phẩm nghệ thuật – để bạn có thể kể lại cho con cháu nghe. Thật tuyệt vời với những gì một người có thể làm trong một ngày duy nhất. Mỗi ngày là một cơ hội để trở thành những gì chúng ta đáng được hưởng.

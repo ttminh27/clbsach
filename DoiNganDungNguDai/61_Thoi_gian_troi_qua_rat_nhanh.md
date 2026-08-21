@@ -1,0 +1,5 @@
+# 61. Thời gian trôi qua rất nhanh
+
+Tôi vừa chở cô con gái Bianca đến trường sagns nay. Rồi dõi mắt nhìn theo con đang bước đi xa dần, để đến với bạn bè. Giờ đây con đã 11 tuổi. Đang trưởng thành. Ấy thế mà như mới hôm qua. Tôi còn cõng con sau lưng, mua kẹo bông gòn cho nó ăn, ngắm nó ngồi tô màu với bút chì vẽ. Giờ đây nó đang khoái nhiều cô ca sĩ, và muốn trở thành một tay trống trong ban nhạc rock khi lớn lên. (Hồi bé hơn, con tôi muốn trở thành một nha sĩ, và chủ một cửa hàng tạp hóa.)
+
+Một trong những nhạc sĩ tôi thích nhất là Lloyd Cole. Ông có một bài hát nhắc chúng ta rằng thời gian như một chiếc máy bay, vút đi thật nhanh. Xin đừng chớp mắt. Trước khi bạn kịp nhận ra thì các con đã trưởng thành và ra đi, sống cuộc đời riêng tư của chúng. Thời gian cũng vậy. Như hạt cát trôi qua kẽ tay. Vậy hôm nay hãy yêu mến những người thân yêu. Hãy làm việc hết sức. Hãy đi thêm một dặm đường trong mọi hoàn cảnh. Hãy nói lên sự thật. Hãy sống trong danh dự. **Hãy vui lên**. Bởi vì một ngày kia, **thời gian của bạn sẽ không còn**.
