@@ -1,18 +1,26 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowLeft, ArrowRight, CheckCircle2, Sparkles, BookOpen } from 'lucide-react';
+import { ArrowLeft, ArrowRight, CheckCircle2, Gamepad2 } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { Book, Chapter } from '../../types/book';
 import { useHistory } from '../../context/HistoryContext';
+import { useQuiz } from '../../context/QuizContext';
 
 interface ChapterNavigationProps {
   book: Book;
   currentChapter: Chapter;
+  onOpenQuiz?: () => void;
 }
 
-export const ChapterNavigation: React.FC<ChapterNavigationProps> = ({ book, currentChapter }) => {
+export const ChapterNavigation: React.FC<ChapterNavigationProps> = ({
+  book,
+  currentChapter,
+  onOpenQuiz,
+}) => {
   const { markChapterCompleted, getProgressForBook } = useHistory();
+  const { getQuizResult } = useQuiz();
   const progress = getProgressForBook(book.id);
+  const quizResult = getQuizResult(book.id, currentChapter.id);
 
   const currentIndex = book.chapters.findIndex((c) => c.id === currentChapter.id);
   const prevChapter = currentIndex > 0 ? book.chapters[currentIndex - 1] : null;
@@ -31,19 +39,19 @@ export const ChapterNavigation: React.FC<ChapterNavigationProps> = ({ book, curr
   };
 
   return (
-    <div className="mx-auto max-w-3xl px-4 sm:px-6 py-10 border-t border-slate-200 dark:border-slate-800">
+    <div className="mx-auto max-w-3xl px-4 sm:px-6 py-8 border-t border-slate-200 dark:border-slate-800">
       {/* Mark Completed Button */}
-      <div className="flex flex-col items-center justify-center p-6 rounded-3xl bg-gradient-to-b from-slate-50 to-emerald-50/40 dark:from-slate-900 dark:to-emerald-950/20 border border-slate-200/80 dark:border-slate-800 text-center mb-8">
-        <h4 className="font-bold text-base text-slate-900 dark:text-white mb-1">
+      <div className="flex flex-col items-center justify-center p-5 rounded-2xl bg-gradient-to-b from-slate-50 to-emerald-50/40 dark:from-slate-900 dark:to-emerald-950/20 border border-slate-200/80 dark:border-slate-800 text-center mb-6">
+        <h4 className="font-bold text-sm text-slate-900 dark:text-white mb-1">
           Bạn vừa đọc xong chương này?
         </h4>
-        <p className="text-xs text-slate-500 dark:text-slate-400 mb-4 max-w-sm">
+        <p className="text-xs text-slate-500 dark:text-slate-400 mb-3 max-w-sm">
           Đánh dấu hoàn thành để cập nhật tiến độ đọc và lưu mốc hành trình.
         </p>
 
         <button
           onClick={handleMarkComplete}
-          className={`inline-flex items-center gap-2 rounded-2xl px-6 py-3 text-xs font-bold transition-all shadow-md active:scale-95 ${
+          className={`inline-flex items-center gap-2 rounded-xl px-5 py-2.5 text-xs font-bold transition-all shadow-md active:scale-95 ${
             isCompleted
               ? 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800'
               : 'bg-emerald-600 text-white hover:bg-emerald-500 shadow-emerald-600/20 hover:scale-105'
@@ -54,49 +62,108 @@ export const ChapterNavigation: React.FC<ChapterNavigationProps> = ({ book, curr
         </button>
       </div>
 
-      {/* Prev / Next chapter navigation */}
-      <div className="grid sm:grid-cols-2 gap-4">
+      {/* 3 Buttons in a row: Chương trước | Game | Chương sau */}
+      <div className="grid grid-cols-3 gap-2.5 sm:gap-4 items-stretch">
+        {/* 1. Chương trước */}
         {prevChapter ? (
           <Link
             to={`/reader/${book.id}/${prevChapter.id}`}
-            className="group flex items-center gap-3 rounded-2xl border border-slate-200/80 bg-white p-4 text-left hover:border-emerald-400 dark:border-slate-800 dark:bg-slate-900 hover:shadow-md transition-all"
+            className="group flex flex-col sm:flex-row items-center justify-center sm:justify-start gap-2 rounded-2xl border border-slate-200/80 bg-white p-3 sm:p-4 text-center sm:text-left hover:border-emerald-400 dark:border-slate-800 dark:bg-slate-900 hover:shadow-md transition-all"
+            title={`Chương trước: ${prevChapter.title}`}
           >
-            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-slate-100 group-hover:bg-emerald-100 dark:bg-slate-800 text-slate-600 group-hover:text-emerald-600 transition-colors">
-              <ArrowLeft className="h-5 w-5 group-hover:-translate-x-0.5 transition-transform" />
+            <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-slate-100 group-hover:bg-emerald-100 dark:bg-slate-800 text-slate-600 group-hover:text-emerald-600 transition-colors">
+              <ArrowLeft className="h-4 w-4 sm:h-5 sm:w-5 group-hover:-translate-x-0.5 transition-transform" />
             </div>
             <div className="min-w-0">
-              <p className="text-[10px] font-semibold uppercase tracking-wider text-slate-400">
+              <p className="text-xs sm:text-sm font-semibold text-slate-800 dark:text-slate-200 group-hover:text-emerald-600 truncate">
                 Chương trước
               </p>
-              <h5 className="font-semibold text-xs text-slate-800 dark:text-slate-200 truncate mt-0.5 group-hover:text-emerald-600">
+              <p className="hidden sm:block text-[11px] text-slate-400 truncate mt-0.5 max-w-[140px]">
                 {prevChapter.title}
-              </h5>
+              </p>
             </div>
           </Link>
         ) : (
-          <div className="hidden sm:block"></div>
+          <div className="flex flex-col sm:flex-row items-center justify-center sm:justify-start gap-2 rounded-2xl border border-slate-200/50 bg-slate-50/50 dark:border-slate-800/40 dark:bg-slate-900/30 p-3 sm:p-4 text-center sm:text-left opacity-40 cursor-not-allowed select-none">
+            <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-slate-200/50 dark:bg-slate-800/50 text-slate-400">
+              <ArrowLeft className="h-4 w-4 sm:h-5 sm:w-5" />
+            </div>
+            <div className="min-w-0">
+              <p className="text-xs sm:text-sm font-semibold text-slate-400 truncate">
+                Chương trước
+              </p>
+            </div>
+          </div>
         )}
 
+        {/* 2. Game */}
+        {onOpenQuiz ? (
+          <button
+            onClick={onOpenQuiz}
+            className="group flex flex-col sm:flex-row items-center justify-center gap-2 rounded-2xl border border-amber-500/40 bg-gradient-to-r from-amber-500/10 via-orange-500/10 to-amber-500/10 hover:from-amber-500/20 hover:to-orange-500/20 dark:border-amber-500/30 dark:bg-amber-950/20 p-3 sm:p-4 text-center hover:shadow-md transition-all active:scale-95 cursor-pointer"
+            title="Mở Mini Game / Quiz thử thách kiến thức"
+          >
+            <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-gradient-to-tr from-amber-500 to-orange-500 text-white shadow-sm shadow-amber-500/30 group-hover:scale-105 transition-transform">
+              <Gamepad2 className="h-4 w-4 sm:h-5 sm:w-5" />
+            </div>
+            <div className="min-w-0">
+              <div className="flex items-center justify-center gap-1">
+                <span className="text-xs sm:text-sm font-bold text-amber-700 dark:text-amber-300">
+                  Game
+                </span>
+                {quizResult && (
+                  <span className="hidden md:inline-flex items-center text-[10px] bg-amber-200/80 dark:bg-amber-900/60 text-amber-800 dark:text-amber-200 px-1.5 py-0.2 rounded font-semibold">
+                    {quizResult.score}/{quizResult.totalQuestions}
+                  </span>
+                )}
+              </div>
+              <p className="hidden sm:block text-[11px] text-amber-600/80 dark:text-amber-400/80 truncate mt-0.5">
+                {quizResult ? 'Làm lại thử thách' : 'Thử thách Quiz'}
+              </p>
+            </div>
+          </button>
+        ) : (
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-2 rounded-2xl border border-slate-200/50 bg-slate-50/50 dark:border-slate-800/40 dark:bg-slate-900/30 p-3 sm:p-4 text-center opacity-40 cursor-not-allowed select-none">
+            <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-slate-200/50 dark:bg-slate-800/50 text-slate-400">
+              <Gamepad2 className="h-4 w-4 sm:h-5 sm:w-5" />
+            </div>
+            <div className="min-w-0">
+              <p className="text-xs sm:text-sm font-semibold text-slate-400 truncate">
+                Game
+              </p>
+            </div>
+          </div>
+        )}
+
+        {/* 3. Chương sau */}
         {nextChapter ? (
           <Link
             to={`/reader/${book.id}/${nextChapter.id}`}
-            className="group flex items-center justify-between rounded-2xl border border-emerald-500/60 bg-emerald-50/40 p-4 text-right hover:border-emerald-500 dark:border-emerald-900/60 dark:bg-emerald-950/20 hover:shadow-md transition-all"
+            className="group flex flex-col sm:flex-row items-center justify-center sm:justify-end gap-2 rounded-2xl border border-emerald-500/60 bg-emerald-50/40 p-3 sm:p-4 text-center sm:text-right hover:border-emerald-500 dark:border-emerald-900/60 dark:bg-emerald-950/20 hover:shadow-md transition-all"
+            title={`Chương sau: ${nextChapter.title}`}
           >
-            <div className="min-w-0 flex-1">
-              <p className="text-[10px] font-semibold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">
-                Chương tiếp theo
+            <div className="min-w-0 order-2 sm:order-1">
+              <p className="text-xs sm:text-sm font-semibold text-emerald-700 dark:text-emerald-300 group-hover:text-emerald-600 truncate">
+                Chương sau
               </p>
-              <h5 className="font-semibold text-xs text-slate-900 dark:text-white truncate mt-0.5 group-hover:text-emerald-600">
+              <p className="hidden sm:block text-[11px] text-emerald-600/70 dark:text-emerald-400/70 truncate mt-0.5 max-w-[140px]">
                 {nextChapter.title}
-              </h5>
+              </p>
             </div>
-            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-emerald-600 text-white shadow-md shadow-emerald-500/20 ml-3">
-              <ArrowRight className="h-5 w-5 group-hover:translate-x-0.5 transition-transform" />
+            <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-emerald-600 text-white shadow-md shadow-emerald-500/20 order-1 sm:order-2 group-hover:translate-x-0.5 transition-transform">
+              <ArrowRight className="h-4 w-4 sm:h-5 sm:w-5" />
             </div>
           </Link>
         ) : (
-          <div className="flex items-center justify-center p-4 text-xs font-semibold text-emerald-600 bg-emerald-50 dark:bg-emerald-950/30 rounded-2xl border border-emerald-200 dark:border-emerald-900">
-            🎉 Bạn đã đọc đến chương cuối cùng của cuốn sách!
+          <div className="flex flex-col sm:flex-row items-center justify-center sm:justify-end gap-2 rounded-2xl border border-slate-200/50 bg-slate-50/50 dark:border-slate-800/40 dark:bg-slate-900/30 p-3 sm:p-4 text-center sm:text-right opacity-40 cursor-not-allowed select-none">
+            <div className="min-w-0 order-2 sm:order-1">
+              <p className="text-xs sm:text-sm font-semibold text-slate-400 truncate">
+                Chương sau
+              </p>
+            </div>
+            <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-slate-200/50 dark:bg-slate-800/50 text-slate-400 order-1 sm:order-2">
+              <ArrowRight className="h-4 w-4 sm:h-5 sm:w-5" />
+            </div>
           </div>
         )}
       </div>

@@ -1,0 +1,188 @@
+{
+  "bookId": "SearchInsideYourSelf",
+  "chapterId": "00_Loi_noi_dau",
+  "chapterTitle": "Lời nói đầu - Daniel Goleman",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Trong Lời nói đầu, Daniel Goleman đã nhấn mạnh sự chuyển dịch mang tính lịch sử nào trong quan niệm về Trí tuệ cảm xúc (EQ) tại Thung lũng Silicon?",
+      "options": [
+        "Từ sự hoài nghi ban đầu coi EQ là 'kỹ năng mềm vô dụng' thành việc công nhận EQ là năng lực cốt lõi quyết định sự đột phá sáng tạo và lãnh đạo công nghệ.",
+        "Sự từ bỏ hoàn toàn các kỹ năng lập trình để chuyển sang học làm thơ.",
+        "Việc các công ty công nghệ cấm nhân viên biểu lộ cảm xúc trong văn phòng.",
+        "Sự sáp nhập giữa các tập đoàn công nghệ và các trường thần học."
+      ],
+      "correctIndex": 0,
+      "explanation": "Daniel Goleman chỉ ra rằng các kỹ sư từng xem EQ là mơ hồ; nhưng Meng đã chứng minh EQ là khoa học ứng dụng giúp giải phóng tiềm năng kỹ thuật và nâng cao hiệu suất."
+    },
+    {
+      "id": "q2",
+      "question": "Daniel Goleman đã định nghĩa cốt lõi của 'Trí thông minh cảm xúc' dựa trên 4 miền năng lực chính nào?",
+      "options": [
+        "1. Tự nhận thức, 2. Tự quản lý, 3. Nhận thức xã hội (Thấu cảm), 4. Quản lý các mối quan hệ.",
+        "1. Viết lách, 2. Thuyết trình, 3. Đàm phán, 4. Bán hàng.",
+        "1. Trí nhớ, 2. Tốc độ tính toán, 3. Khả năng ngoại ngữ, 4. Thị lực.",
+        "1. Sức mạnh thể chất, 2. Chiều cao, 3. Ngoại hình, 4. Sự giàu có."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mô hình EQ chuẩn mực của Goleman gồm 4 miền: Tự nhận thức (Self-awareness), Tự quản lý (Self-management), Nhận thức xã hội (Social awareness), và Quản lý quan hệ (Relationship management)."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao Daniel Goleman lại đánh giá việc Chade-Meng Tan tích hợp 'Chánh niệm' (Mindfulness) vào EQ là một bước tiến vượt bậc?",
+      "options": [
+        "Vì chánh niệm là phương pháp duy nhất được miễn phí trên internet.",
+        "Vì chánh niệm cung cấp 'phương pháp luận rèn luyện cơ bắp' cụ thể để phát triển các miền năng lực EQ, thay vì chỉ dừng lại ở lý thuyết suông.",
+        "Vì chánh niệm làm cho các kỳ thi tuyển dụng trở nên dễ dàng hơn.",
+        "Vì chánh niệm giúp các kỹ sư không cần ăn trưa."
+      ],
+      "correctIndex": 1,
+      "explanation": "EQ từng bị chỉ trích là khó đào tạo; Meng đã giải quyết bài toán này bằng cách dùng Chánh niệm như một bài tập thể dục thần kinh để tôi luyện từng phẩm chất của EQ."
+    },
+    {
+      "id": "q4",
+      "question": "Hiện tượng 'Chiếm quyền điều khiển của hạch hạnh nhân' (Amygdala hijack) được Daniel Goleman mô tả là gì?",
+      "options": [
+        "Một loại virus máy tính tấn công vào hệ thống dữ liệu của Google.",
+        "Khoảnh khắc phản ứng cảm xúc bản năng (giận dữ, sợ hãi) bùng phát dữ dội và vượt qua sự kiểm soát của vỏ não trước trán, khiến chúng ta hành động thiếu suy nghĩ và hối hận sau đó.",
+        "Hiện tượng mất trí nhớ tạm thời khi đang phát biểu trước đám đông.",
+        "Khả năng nhìn thấy trước tương lai của các nhà ngoại cảm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Amygdala hijack là phản xạ sinh tồn thời tiền sử: khi cảm thấy bị đe dọa (dù chỉ là một email chỉ trích), hạch hạnh nhân kích hoạt phản ứng chiến-hay-biến trước khi não lý trí kịp phân tích."
+    },
+    {
+      "id": "q5",
+      "question": "Làm thế nào việc rèn luyện chánh niệm giúp hóa giải hiện tượng 'Chiếm quyền điều khiển của hạch hạnh nhân'?",
+      "options": [
+        "Bằng cách phẫu thuật cắt bỏ hoàn toàn hạch hạnh nhân ra khỏi não.",
+        "Bằng cách tạo ra một 'khoảng dừng nhận thức' (Mindful pause) giữa kích thích và phản ứng, cho phép vỏ não trước trán có đủ thời gian để can thiệp và lựa chọn hành vi khôn ngoan.",
+        "Bằng cách lập tức bỏ chạy khỏi phòng làm việc mỗi khi tức giận.",
+        "Bằng cách uống 5 ly cà phê liên tiếp."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chánh niệm rèn luyện cho bạn khả năng nhận diện cơn sóng cảm xúc khi nó vừa nổi lên, tạo ra khoảng dừng vài giây để lý trí can thiệp thay vì phản ứng bốc đồng."
+    },
+    {
+      "id": "q6",
+      "question": "Daniel Goleman nhận định thế nào về sự độc đáo trong cách hành văn và giảng dạy của Chade-Meng Tan?",
+      "options": [
+        "Quá hàn lâm và sử dụng quá nhiều thuật ngữ y khoa khó hiểu.",
+        "Mang tính khai sáng, thấm đẫm sự chân thành, cực kỳ hài hước và có khả năng biến những chân lý thâm sâu thành những bài học giản dị ai cũng làm được.",
+        "Lạnh lùng và mang tính chỉ huy quân sự nghiêm khắc.",
+        "Mang tính bi quan và đầy lo âu về tương lai nhân loại."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phong cách độc nhất vô nhị của Meng là sự hòa quyện giữa tính chính xác của kỹ sư, sự ấm áp của người bạn và sự hóm hỉnh làm tan chảy mọi rào cản phòng vệ tâm lý."
+    },
+    {
+      "id": "q7",
+      "question": "Theo Goleman, lý do khiến các kỹ sư tại Google xếp hàng dài để đăng ký tham gia khóa học SIY là gì?",
+      "options": [
+        "Họ muốn trốn tránh các giờ làm việc dự án căng thẳng.",
+        "Họ nhận thấy sự thay đổi rõ rệt và tích cực từ chính những đồng nghiệp đã học: làm việc điềm tĩnh hơn, giao tiếp hiệu quả hơn và hạnh phúc hơn trong cuộc sống gia đình.",
+        "Google thông báo sẽ tăng lương gấp đôi cho ai hoàn thành khóa học.",
+        "Khóa học cung cấp đồ ăn vặt miễn phí thượng hạng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kết quả thực tế từ các cựu học viên là lời quảng cáo mạnh mẽ nhất: họ trở thành những đồng nghiệp dễ thương hơn, những người cha/người mẹ kiên nhẫn hơn và những nhà lãnh đạo uy tín hơn."
+    },
+    {
+      "id": "q8",
+      "question": "Daniel Goleman trích dẫn nghiên cứu khoa học nào để chứng minh rằng cảm xúc có tính lan truyền trong tập thể?",
+      "options": [
+        "Nghiên cứu về sự lây lan của bệnh cúm mùa trong văn phòng.",
+        "Cơ chế 'Vòng phản hồi hở' (Open-loop system) của hệ viền não bộ: tâm trạng của người lãnh đạo có khả năng chi phối và lây lan trực tiếp sang toàn bộ các thành viên trong nhóm.",
+        "Nghiên cứu về sóng âm thanh phát ra từ micro trong phòng họp.",
+        "Nghiên cứu về màu sắc của bàn ghế làm việc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thần kinh con người là một hệ vòng lặp mở; một lãnh đạo điềm tĩnh, ấm áp sẽ tạo nên một trường năng lượng an tâm cho cả đội, trong khi một lãnh đạo lo âu, giận dữ sẽ đầu độc cả tập thể."
+    },
+    {
+      "id": "q9",
+      "question": "Khái niệm 'Sự an bình nội tại thúc đẩy năng suất ngoại tại' được Goleman giải thích như thế nào?",
+      "options": [
+        "Người an bình sẽ ngủ nhiều hơn và không cần làm việc.",
+        "Khi tâm trí không bị phân mảnh bởi những lo âu vụn vặt và cảm xúc tiêu cực, toàn bộ dung lượng nhận thức được giải phóng để tập trung cao độ vào công việc sáng tạo và giải quyết vấn đề phức tạp.",
+        "Năng suất chỉ phụ thuộc vào cấu hình của máy tính.",
+        "Sự an bình chỉ có ích sau khi đã hoàn thành toàn bộ công việc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tâm trí bình an là tâm trí sắc bén nhất; sự tĩnh lặng giúp loại bỏ các tiếng ồn nội tâm, cho phép trí thông minh vận hành ở mức tối đa."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao Daniel Goleman cho rằng cuốn sách này ra đời đúng vào thời điểm cấp bách nhất của nhân loại?",
+      "options": [
+        "Vì thị trường sách đang bị thiếu hụt sách về công nghệ.",
+        "Vì xã hội hiện đại đang đối mặt với cuộc khủng hoảng chú ý nghiêm trọng do sự bùng nổ của thông tin kỹ thuật số, khiến con người ngày càng mất kết nối với chính mình và tha nhân.",
+        "Vì giấy in sách sắp bị cấm sản xuất trên toàn cầu.",
+        "Vì các trường đại học đã hủy bỏ các môn học tâm lý học."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thế giới hiện đại đang mắc kẹt trong đại dịch phân tâm và cô đơn; SIY là chiếc neo giúp con người tái kết nối với bản thể chân thật và xây dựng những mối quan hệ chân thành."
+    },
+    {
+      "id": "q11",
+      "question": "Daniel Goleman đã so sánh việc rèn luyện tâm trí trong SIY với hoạt động thể chất nào?",
+      "options": [
+        "Việc tham gia vào một cuộc thi chạy marathon quốc tế.",
+        "Việc đến phòng tập gym rèn luyện thể hình hàng ngày: mỗi lần nhận biết và đưa tâm trí quay về hiện tại là một lần nâng tạ tăng cường cơ bắp tinh thần.",
+        "Việc đi ngủ đủ 10 tiếng mỗi đêm.",
+        "Việc ngồi xem các trận đấu bóng đá trên truyền hình."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tương tự như việc tập gym làm săn chắc cơ thể, chánh niệm là môn rèn luyện thể hình cho não bộ, giúp các mạch thần kinh tự chủ ngày càng mạnh mẽ."
+    },
+    {
+      "id": "q12",
+      "question": "Vai trò của 'Lòng trắc ẩn' (Compassion) trong môi trường doanh nghiệp được Lời nói đầu khẳng định là gì?",
+      "options": [
+        "Lòng trắc ẩn là dấu hiệu của sự mềm yếu và cần bị loại trừ trong kinh doanh.",
+        "Lòng trắc ẩn là chất keo gắn kết sự tin cậy, thúc đẩy tinh thần dám chấp nhận rủi ro sáng tạo và tạo dựng nền văn hóa an toàn tâm lý (Psychological safety) đỉnh cao.",
+        "Lòng trắc ẩn chỉ áp dụng cho các tổ chức từ thiện phi lợi nhuận.",
+        "Lòng trắc ẩn làm giảm giá trị cổ phiếu của công ty."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nghiên cứu của Google sau này (Project Aristotle) chứng minh an toàn tâm lý và lòng trắc ẩn là yếu tố số 1 tạo nên các đội ngũ thành công nhất thế giới."
+    },
+    {
+      "id": "q13",
+      "question": "Daniel Goleman kỳ vọng gì vào tác động lan tỏa của cuốn sách Search Inside Yourself ra ngoài biên giới Google?",
+      "options": [
+        "Hy vọng cuốn sách sẽ biến tất cả độc giả thành nhân viên của Google.",
+        "Hy vọng các phương pháp này sẽ được áp dụng rộng rãi trong trường học, bệnh viện, chính phủ và các doanh nghiệp toàn cầu để tạo ra một xã hội tỉnh thức và nhân ái hơn.",
+        "Hy vọng Google sẽ độc quyền phương pháp này không cho ai khác học.",
+        "Hy vọng cuốn sách sẽ sớm bán hết bản in để xuất bản tập 2."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mục tiêu tối thượng của Meng và Goleman là dân chủ hóa chánh niệm và EQ, biến chúng thành kỹ năng sống nền tảng cho mọi công dân toàn cầu."
+    },
+    {
+      "id": "q14",
+      "question": "Mối quan hệ giữa 'Tự nhận thức' (Self-awareness) và 'Khả năng lãnh đạo' (Leadership) được Goleman tóm gọn là gì?",
+      "options": [
+        "Bạn không cần hiểu mình, chỉ cần biết ra lệnh cho người khác.",
+        "Bạn không thể lãnh đạo người khác nếu bạn không thể tự lãnh đạo chính mình; và bạn không thể tự lãnh đạo chính mình nếu bạn không hiểu rõ nội tâm của mình.",
+        "Lãnh đạo giỏi là người có khả năng che giấu mọi cảm xúc của bản thân.",
+        "Khả năng lãnh đạo phụ thuộc hoàn toàn vào quyền lực được bổ nhiệm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tự nhận thức là gốc rễ của mọi năng lực lãnh đạo; chỉ khi thấu hiểu các điểm mù và cảm xúc của chính mình, bạn mới có thể dẫn dắt người khác bằng sự sáng suốt."
+    },
+    {
+      "id": "q15",
+      "question": "Lời nhắn nhủ đúc kết từ Daniel Goleman khi độc giả bắt đầu lật mở các trang sách tiếp theo là gì?",
+      "options": [
+        "Hãy đọc thật nhanh trong 1 giờ để không lãng phí thời gian.",
+        "Hãy đón nhận cuốn sách với một tâm trí cởi mở và tinh thần thực nghiệm; hãy coi bản thân là phòng thí nghiệm và bắt đầu hành trình chuyển hóa tuyệt vời nhất cuộc đời bạn.",
+        "Chỉ nên tin những gì bạn đã biết từ trước.",
+        "Hãy bỏ qua các bài tập thực hành và chỉ đọc phần lý thuyết."
+      ],
+      "correctIndex": 1,
+      "explanation": "Goleman khuyên độc giả hãy thực hành và tự mình kiểm chứng những lợi ích chuyển hóa sâu sắc mà chánh niệm và EQ mang lại cho cuộc sống."
+    }
+  ]
+}

@@ -103,7 +103,7 @@ if (!fs.existsSync(publicBooksDir)) {
 // Find all book directories
 const entries = fs.readdirSync(rootDir, { withFileTypes: true });
 const bookDirs = entries
-  .filter(e => e.isDirectory() && !['node_modules', 'public', 'src', 'scripts', 'dist', '.git', '.gemini'].includes(e.name))
+  .filter(e => e.isDirectory() && !e.name.startsWith('.') && !['node_modules', 'public', 'src', 'scripts', 'dist'].includes(e.name))
   .map(e => e.name);
 
 console.log(`Found ${bookDirs.length} potential book folders:`, bookDirs);
@@ -138,8 +138,14 @@ for (const bookId of bookDirs) {
 
   const files = fs.readdirSync(bookPath);
   let mdFiles = files.filter(f => f.endsWith('.md') && f.toLowerCase() !== 'readme.md');
-  const hasCover = fs.existsSync(path.resolve(bookPath, 'images', 'cover.jpg')) || fs.existsSync(path.resolve(bookPath, 'images', 'cover.png'));
-  const coverExt = fs.existsSync(path.resolve(bookPath, 'images', 'cover.png')) ? 'png' : 'jpg';
+  let coverUrl = null;
+  const coverCandidates = ['cover.jpg', 'cover.png', 'cover.jpeg', 'cover.webp', 'img_p001_01.jpeg', 'img-000.png'];
+  for (const c of coverCandidates) {
+    if (fs.existsSync(path.resolve(bookPath, 'images', c))) {
+      coverUrl = `/books/${bookId}/images/${c}`;
+      break;
+    }
+  }
 
   const audioDir = path.resolve(bookPath, 'audio');
   const audioFiles = fs.existsSync(audioDir) ? fs.readdirSync(audioDir).filter(f => f.endsWith('.mp3') || f.endsWith('.m4a') || f.endsWith('.wav')) : [];
@@ -147,11 +153,19 @@ for (const bookId of bookDirs) {
   // Check if README.md has TOC ordering
   const readmePath = path.resolve(bookPath, 'README.md');
   let orderedMdFiles = [];
+  const tocTitles = {};
   if (fs.existsSync(readmePath)) {
     const readmeContent = fs.readFileSync(readmePath, 'utf-8');
-    const tocMatches = [...readmeContent.matchAll(/\[([^\]]+\.md)\]\(([^)]+\.md)\)/g)];
+    const tocMatches = [...readmeContent.matchAll(/\[([^\]]+)\]\(([^)]+\.md)\)/g)];
     if (tocMatches.length > 0) {
-      orderedMdFiles = tocMatches.map(m => m[2]).filter(f => mdFiles.includes(f));
+      orderedMdFiles = tocMatches.map(m => {
+        const titleText = m[1].trim();
+        const file = m[2].trim();
+        if (titleText && !titleText.endsWith('.md')) {
+          tocTitles[file] = titleText;
+        }
+        return file;
+      }).filter(f => mdFiles.includes(f));
     }
   }
 
@@ -172,24 +186,51 @@ for (const bookId of bookDirs) {
     const filePath = path.resolve(bookPath, fileName);
     const content = fs.readFileSync(filePath, 'utf-8');
 
-    // Extract title from first H1 or first line
-    const matchH1 = content.match(/^#\s+(.+)$/m);
-    const firstH1 = matchH1 ? matchH1[1].trim() : fileName.replace('.md', '').replace(/^[0-9]+_/, '').replace(/_/g, ' ');
+    // Extract all H1 matches
+    const h1Matches = [...content.matchAll(/^#\s+(.+)$/gm)].map(m => m[1].trim());
+    let title = fileName.replace('.md', '').replace(/^[0-9]+_/, '').replace(/_/g, ' ');
+    
+    if (h1Matches.length > 0) {
+      // If there are multiple H1s (e.g. # Phần một and # 1. Vòng lặp), prefer the chapter one
+      const chapterH1 = h1Matches.find(h => !/^phần\s+(một|hai|ba|bốn|năm|sáu|bảy|tám|chín|mười|[0-9ivx]+)\b/i.test(h));
+      title = chapterH1 || h1Matches[0];
+    }
 
     // Extract subtitle if exists
     const matchH3 = content.match(/^###\s+(.+)$/m);
-    const subtitle = matchH3 ? matchH3[1].trim() : undefined;
+    const subtitle = matchH3 ? matchH3[1].replace(/^\*+|\*+$/g, '').trim() : undefined;
 
     // Word count & reading time estimate (~200 words per min)
     const wordCount = content.split(/\s+/).filter(Boolean).length;
     const readingTimeMin = Math.max(1, Math.ceil(wordCount / 200));
 
+    // Check if Chapter has Quiz
+    const chapterId = fileName.replace('.md', '');
+    const quizFilePath = path.resolve(bookPath, 'quizzes', `${chapterId}.json`);
+    let quizUrl = null;
+    let totalQuestions = 0;
+    let hasQuiz = false;
+
+    if (fs.existsSync(quizFilePath)) {
+      try {
+        const quizData = JSON.parse(fs.readFileSync(quizFilePath, 'utf-8'));
+        totalQuestions = Array.isArray(quizData.questions) ? quizData.questions.length : 0;
+        quizUrl = `/books/${bookId}/quizzes/${chapterId}.json`;
+        hasQuiz = totalQuestions > 0;
+      } catch (err) {
+        console.warn(`Error parsing quiz for ${bookId}/${chapterId}:`, err.message);
+      }
+    }
+
     chapters.push({
-      id: fileName.replace('.md', ''),
+      id: chapterId,
       fileName: fileName,
       fileUrl: `/books/${bookId}/${fileName}`,
+      quizUrl: quizUrl,
+      totalQuestions: totalQuestions,
+      hasQuiz: hasQuiz,
       order: i + 1,
-      title: firstH1,
+      title: title,
       subtitle: subtitle,
       wordCount,
       readingTimeMin
@@ -229,7 +270,7 @@ for (const bookId of bookDirs) {
     id: bookId,
     ...meta,
     status,
-    coverUrl: hasCover ? `/books/${bookId}/images/cover.${coverExt}` : null,
+    coverUrl: coverUrl,
     totalChapters: chapters.length,
     totalAudios: audios.length,
     chapters,

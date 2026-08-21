@@ -7,6 +7,40 @@ export interface Chapter {
   subtitle?: string;
   wordCount: number;
   readingTimeMin: number;
+  quizUrl?: string | null;
+  totalQuestions?: number;
+  hasQuiz?: boolean;
+}
+
+export interface QuizQuestion {
+  id: string;
+  question: string;
+  options: string[];
+  correctIndex: number;
+  explanation: string;
+  difficulty?: 'easy' | 'medium' | 'hard';
+}
+
+export interface ChapterQuiz {
+  bookId: string;
+  chapterId: string;
+  chapterTitle?: string;
+  totalQuestions: number;
+  questions: QuizQuestion[];
+}
+
+export interface QuizResult {
+  bookId: string;
+  chapterId: string;
+  score: number;
+  totalQuestions: number;
+  percent: number;
+  completedAt: number;
+  userAnswers: { [questionIndex: number]: number };
+}
+
+export interface QuizResultMap {
+  [key: string]: QuizResult; // key format: `${bookId}:${chapterId}`
 }
 
 export interface AudioTrack {

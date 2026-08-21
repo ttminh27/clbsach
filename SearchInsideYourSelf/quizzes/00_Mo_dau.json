@@ -1,0 +1,188 @@
+{
+  "bookId": "SearchInsideYourSelf",
+  "chapterId": "00_Mo_dau",
+  "chapterTitle": "Mở đầu: Tìm kiếm bên trong bạn - Rèn luyện khả năng chú ý",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Trong nghiên cứu khoa học thần kinh về Matthieu Ricard ('người đàn ông hạnh phúc nhất thế giới'), chỉ số đo lường hạnh phúc trong não bộ được xác định dựa trên cơ chế nào?",
+      "options": [
+        "Mức độ tích tụ canxi trong xương sọ.",
+        "Mức độ hoạt động điện não tương đối giữa vỏ não trước trán bên trái (cảm xúc tích cực) so với vỏ não trước trán bên phải (cảm xúc tiêu cực).",
+        "Kích thước của tuyến yên khi nhìn vào ánh sáng mặt trời.",
+        "Số lượng nơ-ron thần kinh ở tiểu não."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoa học thần kinh đo lường tỷ lệ hoạt động của vỏ não trước trán bên trái (gắn liền với niềm vui, sự nhiệt huyết) so với bên phải; kết quả quét não của Matthieu Ricard vượt trội hơn bất kỳ đối tượng nào từng được đo."
+    },
+    {
+      "id": "q2",
+      "question": "Khóa đào tạo Search Inside Yourself (SIY) ban đầu được thiết kế tại Google với mục tiêu cốt lõi là gì?",
+      "options": [
+        "Dạy nhân viên Google cách viết code nhanh gấp đôi mà không cần ngủ.",
+        "Giúp các kỹ sư phát triển Trí tuệ cảm xúc (EQ) dựa trên nền tảng khoa học thần kinh và thiền chánh niệm để nâng cao hiệu suất làm việc, khả năng lãnh đạo và nuôi dưỡng an bình nội tâm.",
+        "Chuẩn bị cho nhân viên chuyển sang sống tại các tu viện Tây Tạng.",
+        "Cắt giảm tiền lương của kỹ sư bằng cách tặng các buổi thiền miễn phí."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chade-Meng Tan đã khéo léo đóng gói thiền chánh niệm và EQ thành một chương trình thực hành khoa học, thực tế và hữu ích cho dân công nghệ và doanh nghiệp."
+    },
+    {
+      "id": "q3",
+      "question": "Ba bước căn bản cấu thành nên toàn bộ chương trình Search Inside Yourself bao gồm những gì?",
+      "options": [
+        "1. Tập thể dục -> 2. Ăn chay -> 3. Đọc kinh",
+        "1. Rèn luyện khả năng chú ý (Attention training) -> 2. Tự nhận thức và làm chủ bản thân (Self-knowledge and Self-mastery) -> 3. Xây dựng các thói quen tâm trí hữu ích (Creating useful mental habits).",
+        "1. Học thuộc lòng -> 2. Thi kiểm tra -> 3. Nhận chứng chỉ",
+        "1. Lập kế hoạch -> 2. Đầu tư tài chính -> 3. Nghỉ hưu sớm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cấu trúc 3 bước của SIY: Rèn luyện khả năng chú ý để có tâm trí ổn định -> Dùng sự chú ý đó để thấu hiểu bản thân -> Tạo các thói quen tâm trí vì lợi ích của người khác."
+    },
+    {
+      "id": "q4",
+      "question": "Hiện tượng Matthieu Ricard có thể kiểm soát và triệt tiêu 'Phản xạ giật mình tự nhiên' (Startle reflex) khi nghe tiếng súng nổ minh chứng điều gì?",
+      "options": [
+        "Ông bị khiếm thính và không nghe thấy âm thanh lớn.",
+        "Tâm trí con người hoàn toàn có khả năng rèn luyện để giữ được sự tĩnh lặng tuyệt đối ngay cả trước những kích thích sinh học phản xạ mạnh mẽ nhất.",
+        "Ông đã uống thuốc an thần cực mạnh trước buổi kiểm tra.",
+        "Phản xạ giật mình chỉ là một trò đùa của các nhà khoa học."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phản xạ giật mình là phản ứng tự động của thân não trước tiếng nổ lớn; việc một thiền giả có thể duy trì sự điềm tĩnh trọn vẹn chứng minh tính dẻo dai và khả năng làm chủ thần kinh phi thường qua thiền tập."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao việc 'Rèn luyện khả năng chú ý' (Attention training) lại là nền tảng số một bắt buộc phải có trước khi phát triển Trí thông minh cảm xúc (EQ)?",
+      "options": [
+        "Vì khả năng chú ý giúp ghi nhớ số điện thoại tốt hơn.",
+        "Vì một tâm trí ổn định và sáng suốt là điều kiện tiên quyết để quan sát các luồng cảm xúc và suy nghĩ nội tâm một cách khách quan mà không bị cuốn vào chúng.",
+        "Vì nếu không chú ý thì không thể thi đỗ các kỳ thi trắc nghiệm.",
+        "Vì sự chú ý làm tăng tốc độ lưu thông máu trong cơ thể."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khả năng chú ý sắc bén và không phán xét là chiếc kính hiển vi giúp bạn nhìn thấy rõ nét cảm xúc khi chúng vừa chớm nở, từ đó có thể tự nhận thức và tự điều chỉnh hiệu quả."
+    },
+    {
+      "id": "q6",
+      "question": "Tính dẻo thần kinh (Neuroplasticity) là gì và tại sao nó lại là tin vui cho tất cả mọi người muốn rèn luyện EQ?",
+      "options": [
+        "Khả năng xương sọ có thể uốn dẻo khi va chạm mạnh.",
+        "Khả năng của não bộ tự tái cấu trúc, tạo thêm các kết nối thần kinh mới thông qua việc lặp lại các bài tập rèn luyện tâm trí ở bất kỳ độ tuổi nào.",
+        "Khả năng não bộ tự phục hồi sau khi bị đóng băng.",
+        "Một loại nhựa dẻo y tế dùng để cấy ghép vào não người."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tính dẻo thần kinh khẳng định bộ não giống như cơ bắp; bất kỳ ai cũng có thể rèn luyện lòng trắc ẩn, sự bình an và trí tuệ cảm xúc thông qua thực hành đều đặn."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao tác giả Chade-Meng Tan lại tự nhận mình là 'A Jolly Good Fellow' (Người bạn dễ thương) tại Google?",
+      "options": [
+        "Vì ông không có bất kỳ kỹ năng lập trình nào.",
+        "Để làm giảm bớt tính nghiêm trọng và biến việc rèn luyện tâm linh/thiền định thành một trải nghiệm vui vẻ, hài hước và gần gũi cho tất cả mọi người.",
+        "Vì công ty Google bắt buộc tất cả kỹ sư phải đổi chức danh.",
+        "Vì ông muốn trở thành diễn viên hài kịch độc thoại."
+      ],
+      "correctIndex": 1,
+      "explanation": "Meng dùng sự hài hước và tự trào để phá vỡ định kiến rằng thiền là sự khổ hạnh khô khan; ông biến hành trình tìm kiếm bên trong thành niềm vui tươi sáng."
+    },
+    {
+      "id": "q8",
+      "question": "Khái niệm 'Chánh niệm' (Mindfulness) được Jon Kabat-Zinn định nghĩa chính xác nhất là gì?",
+      "options": [
+        "Cố gắng xóa sạch 100% mọi ý nghĩ ra khỏi đầu và không suy nghĩ gì cả.",
+        "Khả năng chú ý có chủ đích, trong giây phút hiện tại, và không phán xét đối với bất kỳ trải nghiệm nào đang diễn ra.",
+        "Ngồi bất động trên đệm suốt 8 tiếng mỗi ngày.",
+        "Tự thôi miên bản thân để quên đi các nỗi buồn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chánh niệm là nghệ thuật sống trong hiện tại: chú ý có ý thức vào những gì đang diễn ra ở thân và tâm với thái độ cởi mở, tò mò và không phán xét hay chối bỏ."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao một người kỹ sư công nghệ lại cần đến Trí thông minh cảm xúc (EQ) để thăng tiến trong sự nghiệp?",
+      "options": [
+        "Để có thể viết code bằng cảm xúc thay vì bằng logic.",
+        "Vì khi lên các vị trí lãnh đạo, kỹ năng kỹ thuật chỉ là điều kiện cần; khả năng thấu hiểu đồng nghiệp, giải quyết mâu thuẫn, truyền cảm hứng và làm việc nhóm (EQ) mới là yếu tố quyết định thành bại.",
+        "Vì công ty công nghệ sẽ sa thải bất kỳ ai không có chứng chỉ EQ.",
+        "Vì EQ giúp máy tính chạy nhanh hơn 20%."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nghiên cứu của Google (Project Oxygen) cho thấy các nhà quản lý xuất sắc nhất không phải là người code giỏi nhất mà là người có EQ cao, biết lắng nghe và nâng đỡ đội ngũ."
+    },
+    {
+      "id": "q10",
+      "question": "Điều gì chứng minh rằng thiền định không phải là một hình thức tôn giáo huyền bí mà là một phương pháp rèn luyện khoa học?",
+      "options": [
+        "Các máy quét não fMRI và điện não đồ ghi nhận sự thay đổi cấu trúc vật lý thực sự của não bộ (tăng độ dày chất xám vùng tự chủ, thu nhỏ hạch hạnh nhân xử lý stress) sau vài tuần tập luyện.",
+        "Thiền được bán dưới dạng các viên thuốc nén tại hiệu thuốc tây.",
+        "Người thiền định có thể bay lơ lửng trên không trung.",
+        "Tất cả các tôn giáo trên thế giới đều cấm thiền định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hàng trăm nghiên cứu khoa học thần kinh từ Harvard, Stanford và Viện Max Planck đã chứng minh thiền làm thay đổi giải phẫu học thần kinh có thể đo lường được."
+    },
+    {
+      "id": "q11",
+      "question": "Trong bài tập 'Một hơi thở tỉnh thức' (One mindful breath), người thực hành cần làm gì?",
+      "options": [
+        "Cố gắng nín thở trong 3 phút liên tục.",
+        "Mang toàn bộ sự chú ý trọn vẹn và nhẹ nhàng vào một hơi thở duy nhất từ lúc bắt đầu hít vào cho đến khi thở ra hoàn toàn.",
+        "Hít vào thật mạnh để làm phồng lồng ngực hết cỡ.",
+        "Đếm nhịp thở từ 1 đến 1.000 không được sai."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chỉ cần trọn vẹn trong một hơi thở duy nhất là một chu kỳ rèn luyện chú ý hoàn chỉnh; nó là điểm tựa nhanh chóng đưa tâm trí quay về với hiện tại."
+    },
+    {
+      "id": "q12",
+      "question": "Khi bạn đang thực hành chú tâm vào hơi thở mà tâm trí bỗng nhiên bị phân tâm bởi suy nghĩ về bữa tối, thái độ đúng đắn là gì?",
+      "options": [
+        "Tự trách mắng bản thân là kẻ kém cỏi và lập tức bỏ thiền.",
+        "Mỉm cười nhận biết rằng tâm trí vừa đi lang thang, rồi nhẹ nhàng đưa sự chú ý quay trở lại với hơi thở mà không hề phán xét hay bực bội.",
+        "Cố gắng dùng ý chí gào thét trong đầu để xua đuổi suy nghĩ đó.",
+        "Đi ăn tối ngay lập tức."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoảnh khắc bạn nhận ra tâm trí bị phân tâm chính là khoảnh khắc của tỉnh thức; nhẹ nhàng đưa tâm về hơi thở là động tác hít tạ làm tăng sức mạnh cơ bắp chú ý."
+    },
+    {
+      "id": "q13",
+      "question": "Mục tiêu 'Hòa bình thế giới' (World peace) được tác giả liên kết với khóa học SIY như thế nào?",
+      "options": [
+        "Bằng cách chế tạo ra các vũ khí thông minh ngăn chặn chiến tranh.",
+        "Nếu mỗi cá nhân tìm thấy sự bình an nội tâm thông qua thiền và phát triển lòng từ bi đối với người khác, sự an bình đó sẽ lan tỏa từ gia đình, tổ chức ra toàn thể nhân loại một cách tự nhiên.",
+        "Bằng cách ký kết các hiệp định ngoại giao quốc tế trên giấy tờ.",
+        "Bằng cách bắt tất cả mọi người trên thế giới phải cùng nói một thứ tiếng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hòa bình thế giới bắt đầu từ sự an bình bên trong mỗi cá nhân; khi con người thoát khỏi sự thúc đẩy của lòng tham và giận dữ, thế giới sẽ tự khắc trở nên hòa ái."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao việc rèn luyện EQ lại giúp con người tăng khả năng chống chịu stress và phục hồi sau thất bại (Resilience)?",
+      "options": [
+        "Vì nó giúp con người không bao giờ gặp bất kỳ khó khăn nào trong đời.",
+        "Vì nó giúp chúng ta nhận diện cảm xúc đau khổ như những hiện tượng tâm lý thoáng qua thay vì đồng hóa bản thân với chúng, từ đó giữ được sự điềm tĩnh để tìm giải pháp.",
+        "Vì nó làm tê liệt hoàn toàn các dây thần kinh cảm giác đau đớn.",
+        "Vì nó giúp chúng ta quên đi mọi trách nhiệm với gia đình."
+      ],
+      "correctIndex": 1,
+      "explanation": "EQ tạo ra một khoảng không gian nhận thức giữa kích thích và phản ứng; bạn quan sát cơn giận hay nỗi buồn mà không bị chúng cuốn trôi, giữ vững sự bình tĩnh sáng suốt."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp mở đầu cuốn sách 'Search Inside Yourself' có thể tóm gọn lại là gì?",
+      "options": [
+        "Muốn tìm kiếm hạnh phúc, bạn phải rời bỏ công việc và đi đến những vùng đất xa xôi.",
+        "Mọi kho báu về sự bình an, hạnh phúc, hiệu suất đỉnh cao và lòng từ bi đều đã có sẵn bên trong bạn; tất cả những gì bạn cần là học cách rèn luyện khả năng chú ý để khám phá chúng.",
+        "Chỉ những người làm việc tại Google mới có cơ hội phát triển bản thân.",
+        "Cảm xúc là kẻ thù của lý trí và cần phải bị triệt tiêu hoàn toàn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hãy tìm kiếm bên trong bạn (Search Inside Yourself); suối nguồn của sự thông tuệ và hạnh phúc đích thực luôn nằm ở sự chú ý tỉnh thức và trái tim từ bi của chính bạn."
+    }
+  ]
+}

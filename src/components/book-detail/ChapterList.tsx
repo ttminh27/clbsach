@@ -1,8 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Clock, CheckCircle2, ChevronRight, FileText } from 'lucide-react';
+import { BookOpen, Clock, CheckCircle2, ChevronRight, Sparkles, Trophy } from 'lucide-react';
 import { Book, Chapter } from '../../types/book';
 import { useHistory } from '../../context/HistoryContext';
+import { useQuiz } from '../../context/QuizContext';
 
 interface ChapterListProps {
   book: Book;
@@ -10,6 +11,7 @@ interface ChapterListProps {
 
 export const ChapterList: React.FC<ChapterListProps> = ({ book }) => {
   const { getProgressForBook } = useHistory();
+  const { getQuizResult } = useQuiz();
   const progress = getProgressForBook(book.id);
   const completedSet = new Set(progress?.completedChapterIds || []);
 
@@ -28,6 +30,7 @@ export const ChapterList: React.FC<ChapterListProps> = ({ book }) => {
         {book.chapters.map((chapter, index) => {
           const isCompleted = completedSet.has(chapter.id);
           const isCurrent = progress?.lastChapterId === chapter.id;
+          const quizResult = getQuizResult(book.id, chapter.id);
 
           return (
             <Link
@@ -77,13 +80,29 @@ export const ChapterList: React.FC<ChapterListProps> = ({ book }) => {
                       {chapter.subtitle}
                     </p>
                   )}
-                  <div className="mt-1 flex items-center gap-3 text-[11px] text-slate-400 dark:text-slate-500">
+                  <div className="mt-1 flex flex-wrap items-center gap-3 text-[11px] text-slate-400 dark:text-slate-500">
                     <span className="flex items-center gap-1">
                       <Clock className="h-3 w-3" />
                       ~{chapter.readingTimeMin} phút đọc
                     </span>
                     <span>•</span>
                     <span>{chapter.wordCount.toLocaleString()} từ</span>
+                    {chapter.hasQuiz && (
+                      <>
+                        <span>•</span>
+                        {quizResult ? (
+                          <span className="inline-flex items-center gap-1 text-emerald-600 dark:text-emerald-400 font-semibold bg-emerald-50 dark:bg-emerald-950/40 px-1.5 py-0.2 rounded">
+                            <Trophy className="h-3 w-3 text-amber-500" />
+                            Quiz: {quizResult.score}/{quizResult.totalQuestions}
+                          </span>
+                        ) : (
+                          <span className="inline-flex items-center gap-1 text-teal-600 dark:text-teal-400 font-medium bg-teal-50 dark:bg-teal-950/40 px-1.5 py-0.2 rounded">
+                            <Sparkles className="h-3 w-3" />
+                            Quiz {chapter.totalQuestions || 15} câu
+                          </span>
+                        )}
+                      </>
+                    )}
                   </div>
                 </div>
               </div>

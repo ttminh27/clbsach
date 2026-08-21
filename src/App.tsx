@@ -8,15 +8,19 @@ import { AudioModal } from './components/audio/AudioModal';
 import { HomePage } from './pages/HomePage';
 import { BookDetailPage } from './pages/BookDetailPage';
 import { ReaderPage } from './pages/ReaderPage';
+import { QuizPage } from './pages/QuizPage';
 import { HistoryPage } from './pages/HistoryPage';
 import { AboutPage } from './pages/AboutPage';
 import { HistoryProvider } from './context/HistoryContext';
 import { AudioProvider } from './context/AudioContext';
 import { ReaderSettingsProvider } from './context/ReaderSettingsContext';
+import { QuizProvider } from './context/QuizContext';
 
 const AppLayout: React.FC = () => {
   const location = useLocation();
   const isReaderPage = location.pathname.startsWith('/reader/');
+  const isQuizPage = location.pathname.startsWith('/quiz/');
+  const hideStandardNav = isReaderPage || isQuizPage;
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false);
 
@@ -49,7 +53,7 @@ const AppLayout: React.FC = () => {
           isSidebarCollapsed ? 'lg:pl-20' : 'lg:pl-80'
         }`}
       >
-        {!isReaderPage && (
+        {!hideStandardNav && (
           <Navbar
             onToggleSidebar={handleToggleSidebar}
             isSidebarCollapsed={isSidebarCollapsed}
@@ -65,12 +69,16 @@ const AppLayout: React.FC = () => {
               path="/reader/:bookId/:chapterId"
               element={<ReaderPage />}
             />
+            <Route
+              path="/quiz/:bookId/:chapterId"
+              element={<QuizPage />}
+            />
             <Route path="/history" element={<HistoryPage />} />
             <Route path="*" element={<HomePage />} />
           </Routes>
         </main>
 
-        {!isReaderPage && <MobileNav />}
+        {!hideStandardNav && <MobileNav />}
       </div>
 
       <FloatingAudioBar isSidebarCollapsed={isSidebarCollapsed} />
@@ -84,9 +92,11 @@ export function App() {
     <HistoryProvider>
       <AudioProvider>
         <ReaderSettingsProvider>
-          <Router>
-            <AppLayout />
-          </Router>
+          <QuizProvider>
+            <Router>
+              <AppLayout />
+            </Router>
+          </QuizProvider>
         </ReaderSettingsProvider>
       </AudioProvider>
     </HistoryProvider>

@@ -4,6 +4,7 @@ import { ReaderToolbar } from '../components/reader/ReaderToolbar';
 import { MarkdownViewer } from '../components/reader/MarkdownViewer';
 import { TableOfContentsDrawer } from '../components/reader/TableOfContentsDrawer';
 import { ChapterNavigation } from '../components/reader/ChapterNavigation';
+import { QuizModal } from '../components/quiz/QuizModal';
 import booksData from '../data/books-manifest.json';
 import { Book, Chapter } from '../types/book';
 import { useHistory } from '../context/HistoryContext';
@@ -22,6 +23,7 @@ export const ReaderPage: React.FC = () => {
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
   const [isTOCDrawerOpen, setIsTOCDrawerOpen] = useState<boolean>(false);
+  const [isQuizOpen, setIsQuizOpen] = useState<boolean>(false);
   const [scrollProgress, setScrollProgress] = useState<number>(0);
 
   const book = books.find((b) => b.id === bookId);
@@ -140,7 +142,11 @@ export const ReaderPage: React.FC = () => {
         ) : (
           <>
             <MarkdownViewer content={content} bookId={book.id} />
-            <ChapterNavigation book={book} currentChapter={currentChapter} />
+            <ChapterNavigation
+              book={book}
+              currentChapter={currentChapter}
+              onOpenQuiz={() => setIsQuizOpen(true)}
+            />
           </>
         )}
       </main>
@@ -151,6 +157,14 @@ export const ReaderPage: React.FC = () => {
         currentChapterId={currentChapter.id}
         isOpen={isTOCDrawerOpen}
         onClose={() => setIsTOCDrawerOpen(false)}
+      />
+
+      {/* Chapter Quiz Modal */}
+      <QuizModal
+        book={book}
+        chapter={currentChapter}
+        isOpen={isQuizOpen}
+        onClose={() => setIsQuizOpen(false)}
       />
     </div>
   );
