@@ -8,10 +8,10 @@
       "id": "q1",
       "question": "Ý nghĩa hóm hỉnh đằng sau tiêu đề 'Cứu thế giới khi bạn rảnh' (Save the world in your spare time) là gì?",
       "options": [
-        "Thế giới không cần cứu vớt vì mọi thứ đã hoàn hảo.",
+        "Bạn chỉ nên làm việc tốt khi đã hoàn thành tất cả các trò chơi điện tử.",
         "Việc đóng góp cho thế giới không đòi hỏi bạn phải từ bỏ công việc hiện tại hay trở thành vĩ nhân; bạn có thể bắt đầu chuyển hóa thế giới ngay trong những khoảng thời gian rảnh rỗi nhỏ bé hàng ngày bằng sự thực hành chánh niệm và lòng tốt.",
-        "Bạn chỉ nên làm việc thiện vào các ngày lễ Tết.",
-        "Bạn chỉ nên làm việc tốt khi đã hoàn thành tất cả các trò chơi điện tử."
+        "Thế giới không cần cứu vớt vì mọi thứ đã hoàn hảo.",
+        "Bạn chỉ nên làm việc thiện vào các ngày lễ Tết."
       ],
       "correctIndex": 1,
       "explanation": "Meng dùng sự hóm hỉnh để giải phóng chúng ta khỏi áp lực phải làm điều vĩ đại; hãy bắt đầu từ những hành động nhỏ bé nhất trong cuộc sống thường nhật."
@@ -32,12 +32,12 @@
       "id": "q3",
       "question": "Tác giả khuyến khích bạn tìm kiếm điều gì để nâng đỡ việc thực hành lâu dài?",
       "options": [
-        "Một người bạn đồng hành (Buddy) hoặc một nhóm thực hành chung (Sangha/Community) để cùng nhắc nhở, chia sẻ và nâng đỡ năng lượng tích cực cho nhau.",
-        "Một hợp đồng bảo hiểm y tế mới.",
+        "Một nhà tài trợ tài chính lớn.",
         "Một luật sư đại diện cá nhân.",
-        "Một nhà tài trợ tài chính lớn."
+        "Một hợp đồng bảo hiểm y tế mới.",
+        "Một người bạn đồng hành (Buddy) hoặc một nhóm thực hành chung (Sangha/Community) để cùng nhắc nhở, chia sẻ và nâng đỡ năng lượng tích cực cho nhau."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Sức mạnh của nhóm bạn lành: đi một mình thì đi nhanh, nhưng đi cùng nhau mới có thể đi xa trên con đường chuyển hóa tâm thức."
     },
     {
@@ -56,22 +56,22 @@
       "id": "q5",
       "question": "Điều gì là thước đo chuẩn xác nhất cho sự tiến bộ trong việc rèn luyện Search Inside Yourself?",
       "options": [
-        "Bằng khen và chứng chỉ treo trên tường.",
         "Số lượng sách về thiền mà bạn đã đọc xong.",
-        "Khả năng ngồi bất động suốt 10 tiếng mà không cử động chân.",
-        "Bạn trở nên kiên nhẫn hơn, ít nổi nóng hơn với người thân, phục hồi nhanh hơn sau biến cố, biết lắng nghe sâu sắc hơn và có nhiều niềm vui, sự thảnh thơi hơn trong cuộc sống hàng ngày."
+        "Bằng khen và chứng chỉ treo trên tường.",
+        "Bạn trở nên kiên nhẫn hơn, ít nổi nóng hơn với người thân, phục hồi nhanh hơn sau biến cố, biết lắng nghe sâu sắc hơn và có nhiều niềm vui, sự thảnh thơi hơn trong cuộc sống hàng ngày.",
+        "Khả năng ngồi bất động suốt 10 tiếng mà không cử động chân."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Quả ngọt của chánh niệm thể hiện trong phẩm chất đời sống thực tế: sự dịu dàng trong ánh mắt, sự bình an trong lời nói và sự ấm áp trong các mối quan hệ."
     },
     {
       "id": "q6",
       "question": "Trong Lời kết, Meng chia sẻ giấc mơ lớn nhất của ông đối với cuốn sách này là gì?",
       "options": [
-        "Được nhận giải Oscar cho kịch bản xuất sắc nhất.",
-        "Thấy các kỹ năng EQ và Chánh niệm được giảng dạy trong mọi trường học trên Trái Đất, giúp mọi đứa trẻ lớn lên đều biết cách làm chủ cảm xúc và yêu thương muôn loài.",
         "Trở thành tỷ phú giàu nhất châu Á.",
-        "Xây dựng một nhà máy sản xuất đệm thiền lớn nhất thế giới."
+        "Thấy các kỹ năng EQ và Chánh niệm được giảng dạy trong mọi trường học trên Trái Đất, giúp mọi đứa trẻ lớn lên đều biết cách làm chủ cảm xúc và yêu thương muôn loài.",
+        "Xây dựng một nhà máy sản xuất đệm thiền lớn nhất thế giới.",
+        "Được nhận giải Oscar cho kịch bản xuất sắc nhất."
       ],
       "correctIndex": 1,
       "explanation": "Tầm nhìn giáo dục nhân bản: nếu mọi đứa trẻ 8 tuổi được học thiền và EQ, thế giới sẽ không còn chiến tranh trong vòng một thế hệ."
@@ -104,12 +104,12 @@
       "id": "q9",
       "question": "Tại sao tác giả lại nhấn mạnh việc 'Ăn mừng những thành tựu nhỏ' (Celebrate small wins) trong hành trình rèn luyện?",
       "options": [
-        "Ghi nhận mỗi khoảnh khắc bạn kịp dừng lại trước khi nổi giận giúp kích hoạt hormone dopamine tích cực, củng cố mạch thần kinh tự chủ và tiếp thêm động lực cho chặng đường tiếp theo.",
-        "Vì ăn mừng giúp tăng lượng calo đốt cháy.",
+        "Để khoe thành tích lên mạng xã hội nhằm câu like.",
         "Để có cớ tổ chức tiệc tùng nhậu nhẹt mỗi tuần.",
-        "Để khoe thành tích lên mạng xã hội nhằm câu like."
+        "Vì ăn mừng giúp tăng lượng calo đốt cháy.",
+        "Ghi nhận mỗi khoảnh khắc bạn kịp dừng lại trước khi nổi giận giúp kích hoạt hormone dopamine tích cực, củng cố mạch thần kinh tự chủ và tiếp thêm động lực cho chặng đường tiếp theo."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Tâm lý học hành vi: sự tự khích lệ và công nhận tiến bộ nhỏ nuôi dưỡng lòng tự tin và giúp thói quen mới bám rễ sâu bền."
     },
     {
@@ -140,12 +140,12 @@
       "id": "q12",
       "question": "Khi cuộc đời quăng cho bạn một biến cố đau thương bất ngờ, điểm tựa vững chắc nhất của người thực hành SIY là gì?",
       "options": [
-        "Đổ lỗi cho số phận và tuyệt vọng.",
         "Trốn tránh và từ chối chấp nhận thực tế.",
+        "Khoảng lặng của hơi thở và lòng từ bi tự thân: cho phép bản thân được đau buồn, ôm ấp nỗi đau trong chánh niệm và tin tưởng vào khả năng chữa lành kỳ diệu của tâm thức.",
         "Tìm kiếm sự trả thù ngay lập tức.",
-        "Khoảng lặng của hơi thở và lòng từ bi tự thân: cho phép bản thân được đau buồn, ôm ấp nỗi đau trong chánh niệm và tin tưởng vào khả năng chữa lành kỳ diệu của tâm thức."
+        "Đổ lỗi cho số phận và tuyệt vọng."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Chánh niệm không bảo vệ bạn khỏi giông bão cuộc đời, nhưng nó trao cho bạn chiếc neo nội tâm vững chãi để không bao giờ bị chìm trong sóng gió."
     },
     {
@@ -153,11 +153,11 @@
       "question": "Tại sao Meng lại ví việc lan tỏa lòng từ bi giống như một 'Phản ứng dây chuyền hạt nhân của tình thương'?",
       "options": [
         "Vì lòng từ bi có chứa các chất phóng xạ nguyên tử.",
-        "Đây chỉ là một phép so sánh phóng đại không có căn cứ.",
         "Một cử chỉ tử tế chân thành của bạn có thể làm ấm lòng một người, người đó sẽ đối xử tử tế với 5 người khác, và làn sóng đó lan tỏa theo cấp số nhân chạm đến hàng triệu sinh mệnh.",
-        "Vì nó đòi hỏi phải có các nhà máy điện hạt nhân."
+        "Vì nó đòi hỏi phải có các nhà máy điện hạt nhân.",
+        "Đây chỉ là một phép so sánh phóng đại không có căn cứ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Hiệu ứng lan tỏa xã hội: lòng tốt có tính lây truyền mạnh mẽ nhất trong vũ trụ; bạn không bao giờ biết một nụ cười của bạn hôm nay có thể cứu rỗi cuộc đời của ai."
     },
     {

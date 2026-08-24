@@ -44,24 +44,24 @@
       "id": "q4",
       "question": "Phương pháp 'Tạo liên tưởng hình ảnh trực quan' (Visual Association) giúp ghi nhớ tên người lạ như thế nào?",
       "options": [
-        "Vẽ một bức tranh biếm họa về họ và gửi qua bưu điện.",
+        "Gắn tên của họ với một hình ảnh đặc trưng, một nhân vật nổi tiếng cùng tên hoặc một đặc điểm ngoại hình/sở thích độc đáo của họ.",
         "Chụp ảnh khuôn mặt của họ mà không xin phép để về nhà xem lại.",
-        "Liên tưởng tên họ với những kỷ niệm buồn trong quá khứ của bạn.",
-        "Gắn tên của họ với một hình ảnh đặc trưng, một nhân vật nổi tiếng cùng tên hoặc một đặc điểm ngoại hình/sở thích độc đáo của họ."
+        "Vẽ một bức tranh biếm họa về họ và gửi qua bưu điện.",
+        "Liên tưởng tên họ với những kỷ niệm buồn trong quá khứ của bạn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Não bộ ghi nhớ hình ảnh tốt hơn gấp nhiều lần từ ngữ trừu tượng; tạo một hình ảnh liên tưởng sinh động sẽ giúp bạn gợi lại tên họ dễ dàng."
     },
     {
       "id": "q5",
       "question": "Nếu gặp một cái tên nước ngoài hoặc tên lạ khó phát âm, thái độ ứng xử đúng đắn và ghi điểm nhất là gì?",
       "options": [
-        "Cười nhạo vì sự kỳ lạ của cái tên đó trước mặt mọi người.",
         "Lịch sự nhờ họ hướng dẫn cách phát âm chính xác, tập phát âm lại và bày tỏ sự thích thú muốn hiểu nguồn gốc/ý nghĩa cái tên đó.",
+        "Tự ý đặt cho họ một cái tên tiếng Anh ngắn gọn khác để dễ gọi.",
         "Lờ đi và chỉ gọi họ bằng 'anh ơi' hoặc 'chị ơi' trong suốt cuộc gặp.",
-        "Tự ý đặt cho họ một cái tên tiếng Anh ngắn gọn khác để dễ gọi."
+        "Cười nhạo vì sự kỳ lạ của cái tên đó trước mặt mọi người."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự tôn trọng và khiêm tốn hỏi cách phát âm chuẩn xác thể hiện sự trân trọng văn hóa và nguồn gốc của đối phương, tạo thiện cảm sâu sắc."
     },
     {
@@ -80,12 +80,12 @@
       "id": "q7",
       "question": "Trong trường hợp bạn vô tình quên mất tên của một người quen cũ khi họ tiến đến chào bạn, cách xử lý thông minh và lịch thiệp nhất là gì?",
       "options": [
-        "Giả vờ như không quen biết và quay lưng bỏ đi ngay lập tức.",
-        "Gọi bừa một cái tên ngẫu nhiên với hy vọng sẽ đoán trúng.",
         "Đổ lỗi cho họ vì đã thay đổi kiểu tóc khiến bạn không nhận ra.",
-        "Thành thật và nhã nhặn nhận lỗi ('Tôi thật có lỗi, tự nhiên tôi bị thoáng quên tên bạn, bạn có thể nhắc lại giúp tôi được không?'), sau đó nhớ thật kỹ."
+        "Thành thật và nhã nhặn nhận lỗi ('Tôi thật có lỗi, tự nhiên tôi bị thoáng quên tên bạn, bạn có thể nhắc lại giúp tôi được không?'), sau đó nhớ thật kỹ.",
+        "Giả vờ như không quen biết và quay lưng bỏ đi ngay lập tức.",
+        "Gọi bừa một cái tên ngẫu nhiên với hy vọng sẽ đoán trúng."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sự chân thành, khiêm tốn nhận lỗi luôn được tha thứ và đánh giá cao hơn nhiều so với việc cố tình lấp liếm giả tạo."
     },
     {
@@ -116,12 +116,12 @@
       "id": "q10",
       "question": "Điều gì xảy ra khi bạn gọi nhầm tên một khách hàng quan trọng trong một buổi thuyết trình hợp đồng?",
       "options": [
-        "Không có ảnh hưởng gì vì khách hàng không bao giờ để ý đến tên của mình.",
         "Tạo ra cảm giác họ không được trân trọng, làm sứt mẻ niềm tin chuyên nghiệp và có thể khiến bạn mất đi hợp đồng kinh doanh lớn.",
+        "Khách hàng sẽ tự động giảm giá hợp đồng cho bạn 50%.",
         "Buổi thuyết trình sẽ bị hủy bỏ ngay lập tức theo quy định pháp luật.",
-        "Khách hàng sẽ tự động giảm giá hợp đồng cho bạn 50%."
+        "Không có ảnh hưởng gì vì khách hàng không bao giờ để ý đến tên của mình."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Gọi nhầm tên là một lỗi sơ đẳng nhưng có sức tàn phá ghê gớm đối với uy tín cá nhân và sự tin cậy trong kinh doanh."
     },
     {
@@ -140,12 +140,12 @@
       "id": "q12",
       "question": "Phương pháp 'Đánh vần tên trong tâm trí' (Mental Spelling) hoạt động dựa trên cơ chế thần kinh nào?",
       "options": [
-        "Làm giảm tốc độ nói chuyện của người đối diện.",
-        "Giúp não bộ thư giãn và giảm bớt căng thẳng khi giao tiếp.",
         "Kích hoạt vùng não xử lý chữ viết và thị giác, tạo thêm một kênh ghi nhớ thứ hai song song với kênh thính giác.",
-        "Tự động dịch tên của đối tác sang 5 ngôn ngữ khác nhau."
+        "Giúp não bộ thư giãn và giảm bớt căng thẳng khi giao tiếp.",
+        "Tự động dịch tên của đối tác sang 5 ngôn ngữ khác nhau.",
+        "Làm giảm tốc độ nói chuyện của người đối diện."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Kết hợp đa giác quan (nghe âm thanh + nhìn thấy chữ viết trong đầu) giúp tăng gấp đôi độ bền của ký ức về tên gọi."
     },
     {

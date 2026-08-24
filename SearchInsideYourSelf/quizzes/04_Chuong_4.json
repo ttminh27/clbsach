@@ -8,24 +8,24 @@
       "id": "q1",
       "question": "Khái niệm 'Sự tự tin hữu cơ' (Organic self-confidence) trong Chương 4 được định nghĩa là gì?",
       "options": [
-        "Sự tự tin sâu sắc, vững chãi và tự nhiên nảy sinh từ sự thấu hiểu chân thật và khách quan về chính mình (nhận biết rõ cả điểm mạnh, điểm yếu và giới hạn của bản thân mà không tự lừa dối).",
-        "Sự tự tin chỉ có được sau khi bạn đã mua được xe hơi đắt tiền và nhà lầu.",
         "Sự kiêu ngạo coi thường tất cả mọi người xung quanh.",
-        "Sự tự tin giả tạo được xây dựng bằng cách gào thét những câu khẩu hiệu trước gương mỗi sáng."
+        "Sự tự tin giả tạo được xây dựng bằng cách gào thét những câu khẩu hiệu trước gương mỗi sáng.",
+        "Sự tự tin sâu sắc, vững chãi và tự nhiên nảy sinh từ sự thấu hiểu chân thật và khách quan về chính mình (nhận biết rõ cả điểm mạnh, điểm yếu và giới hạn của bản thân mà không tự lừa dối).",
+        "Sự tự tin chỉ có được sau khi bạn đã mua được xe hơi đắt tiền và nhà lầu."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Tự tin hữu cơ bắt nguồn từ Tự nhận thức (Self-awareness): khi bạn biết rõ con người thật của mình mà không cần che đậy hay phóng đại, bạn không còn sợ hãi bị người khác phán xét."
     },
     {
       "id": "q2",
       "question": "Chức năng của 'Thùy đảo' (Insula) trong não bộ liên quan mật thiết thế nào đến năng lực Tự nhận thức (Self-awareness)?",
       "options": [
-        "Thùy đảo là vùng não lưu trữ các kiến thức về địa lý.",
         "Thùy đảo chỉ chịu trách nhiệm điều khiển vị giác khi ăn đồ chua.",
         "Thùy đảo là trung tâm nhận thức cảm giác nội tại cơ thể (Interoception); cảm xúc luôn biểu hiện qua cơ thể đầu tiên, do đó thùy đảo càng phát triển thì bạn càng nhận diện cảm xúc nhanh và chính xác hơn.",
+        "Thùy đảo là vùng não lưu trữ các kiến thức về địa lý.",
         "Thùy đảo hoàn toàn không có mối liên hệ nào với cảm xúc."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Cảm xúc là hiện tượng tâm-sinh lý (như tim đập nhanh, thắt cơ bụng khi lo âu); thùy đảo giúp 'đọc' các tín hiệu cơ thể này để đưa cảm xúc lên tầng nhận thức có ý thức."
     },
     {
@@ -44,22 +44,22 @@
       "id": "q4",
       "question": "Tại sao nhà triết học Socrates lại khẳng định: 'Cuộc đời không được xem xét là cuộc đời không đáng sống'?",
       "options": [
-        "Vì câu nói này giúp ông bán được nhiều sách hơn.",
-        "Vì ông muốn mọi người phải liên tục tham gia các kỳ thi sát hạch.",
         "Vì nếu không có sự tự nhận thức và xem xét nội tâm, chúng ta chỉ sống như một cỗ máy phản xạ mù quáng theo bản năng và các tác động bên ngoài mà không có quyền tự quyết số phận.",
-        "Vì Socrates là một thẩm phán của tòa án Athens."
+        "Vì Socrates là một thẩm phán của tòa án Athens.",
+        "Vì câu nói này giúp ông bán được nhiều sách hơn.",
+        "Vì ông muốn mọi người phải liên tục tham gia các kỳ thi sát hạch."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Tự nhận thức là nền tảng của sự sống có ý thức và đạo đức; tự soi rọi chính mình giúp con người tiến hóa và sống một cuộc đời chân thật."
     },
     {
       "id": "q5",
       "question": "Sự khác biệt giữa 'Tự nhận thức' (Self-awareness) và 'Tự ám ảnh về bản thân' (Self-absorption / Rumination) là gì?",
       "options": [
-        "Tự nhận thức chỉ xuất hiện ở người giàu, tự ám ảnh xuất hiện ở người nghèo.",
+        "Không có sự khác biệt nào, cả hai đều là việc nghĩ về bản thân.",
         "Tự nhận thức là sự quan sát khách quan, trong sáng và không phán xét đối với thân tâm; Tự ám ảnh là vòng luẩn quẩn của cái tôi bị mắc kẹt trong sự dằn vặt, lo âu và tự phán xét tiêu cực.",
-        "Tự ám ảnh giúp con người thông minh hơn tự nhận thức.",
-        "Không có sự khác biệt nào, cả hai đều là việc nghĩ về bản thân."
+        "Tự nhận thức chỉ xuất hiện ở người giàu, tự ám ảnh xuất hiện ở người nghèo.",
+        "Tự ám ảnh giúp con người thông minh hơn tự nhận thức."
       ],
       "correctIndex": 1,
       "explanation": "Tự nhận thức mở ra sự tự do và giải thoát; trong khi tự ám ảnh thu hẹp thế giới lại trong cái tôi vị kỷ và đau khổ."
@@ -80,10 +80,10 @@
       "id": "q7",
       "question": "Tại sao việc nhận biết và chấp nhận 'Điểm yếu và giới hạn của bản thân' lại là cội nguồn của sức mạnh chứ không phải sự hèn nhát?",
       "options": [
-        "Vì mọi người xung quanh sẽ thương hại và cho bạn tiền.",
+        "Vì khi thừa nhận điểm yếu thì bạn không cần phải làm việc nữa.",
         "Vì chỉ khi dũng cảm nhìn thẳng vào sự thật, bạn mới thoát khỏi nỗi sợ bị người khác phát hiện điểm yếu, và có cơ sở thực tế để học hỏi, cải thiện và nhờ sự trợ giúp của đồng đội.",
-        "Vì điểm yếu là thứ không bao giờ thay đổi được.",
-        "Vì khi thừa nhận điểm yếu thì bạn không cần phải làm việc nữa."
+        "Vì mọi người xung quanh sẽ thương hại và cho bạn tiền.",
+        "Vì điểm yếu là thứ không bao giờ thay đổi được."
       ],
       "correctIndex": 1,
       "explanation": "Sự tự tin đích thực không phải là hoàn hảo không tì vết, mà là sự thoải mái với sự bất toàn của chính mình và luôn sẵn sàng học hỏi để tiến bộ."
@@ -93,11 +93,11 @@
       "question": "Điều gì xảy ra với một nhà lãnh đạo có sự tự tin giả tạo (Ego-driven confidence) khi gặp phải một thất bại lớn trong kinh doanh?",
       "options": [
         "Họ trở nên thông thái và khiêm nhường ngay lập tức.",
-        "Công ty của họ sẽ tự động phục hồi mà không cần làm gì.",
         "Cái tôi mong manh của họ dễ dàng sụp đổ, dẫn đến việc đổ lỗi cho cấp dưới, che giấu sai sót, nổi giận vô cớ và đưa ra những quyết định tuyệt vọng liều lĩnh.",
-        "Họ tự động được bầu làm tổng thống."
+        "Họ tự động được bầu làm tổng thống.",
+        "Công ty của họ sẽ tự động phục hồi mà không cần làm gì."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Sự tự tin dựa trên cái tôi là tấm khiên rỗng; khi va chạm với nghịch cảnh, nó vỡ vụn và phơi bày sự hoảng loạn."
     },
     {
@@ -116,12 +116,12 @@
       "id": "q10",
       "question": "Kỹ thuật 'Tách biệt giữa Bản thân và Cảm xúc' (De-identification) giúp bạn chuyển đổi ngôn ngữ nội tâm như thế nào?",
       "options": [
-        "Chuyển từ 'Tôi là cơn giận / Tôi đang phát điên' (đồng hóa) sang 'Có một cảm giác tức giận đang sinh khởi trong cơ thể tôi' (quan sát khách quan).",
-        "Không nói bất kỳ từ nào trong 10 năm.",
+        "Chuyển từ nói tiếng Việt sang nói tiếng La-tinh.",
         "Chuyển từ 'Tôi là người thất bại' sang 'Tôi là vị thần tối cao'.",
-        "Chuyển từ nói tiếng Việt sang nói tiếng La-tinh."
+        "Không nói bất kỳ từ nào trong 10 năm.",
+        "Chuyển từ 'Tôi là cơn giận / Tôi đang phát điên' (đồng hóa) sang 'Có một cảm giác tức giận đang sinh khởi trong cơ thể tôi' (quan sát khách quan)."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Khoảng cách ngôn ngữ tạo ra khoảng cách tâm lý: bạn nhận ra bạn là bầu trời bao la, còn cơn giận chỉ là một cơn dông bão bay ngang qua bầu trời đó."
     },
     {
@@ -140,34 +140,34 @@
       "id": "q12",
       "question": "Bài tập 'Viết thư cho chính mình từ góc nhìn của một người bạn thông thái' (Wise friend letter) nhằm mục đích gì?",
       "options": [
-        "Để kiểm tra xem chữ viết tay của bạn có đẹp không.",
         "Để tự khen thưởng mình bằng tiền mặt.",
-        "Kích hoạt lòng trắc ẩn tự thân (Self-compassion) và góc nhìn bao dung, khách quan của một người bạn yêu thương để khuyên nhủ bản thân vượt qua giai đoạn khó khăn.",
-        "Để gửi thư qua bưu điện cho người thân."
+        "Để kiểm tra xem chữ viết tay của bạn có đẹp không.",
+        "Để gửi thư qua bưu điện cho người thân.",
+        "Kích hoạt lòng trắc ẩn tự thân (Self-compassion) và góc nhìn bao dung, khách quan của một người bạn yêu thương để khuyên nhủ bản thân vượt qua giai đoạn khó khăn."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Chúng ta thường đối xử với bản thân khắt khe hơn đối xử với bạn bè; bài tập này dạy ta cách làm bạn tốt với chính tâm hồn mình."
     },
     {
       "id": "q13",
       "question": "Điều gì chứng minh rằng sự tự tin hữu cơ có tính 'lan tỏa' và truyền cảm hứng mạnh mẽ cho tập thể?",
       "options": [
-        "Họ luôn tặng quà đắt tiền cho cấp dưới.",
         "Họ nói to hơn tất cả những người khác trong phòng họp.",
-        "Sự điềm đạm, khiêm nhường và vững chãi của họ tạo ra môi trường an toàn tâm lý, khuyến khích mọi người dám thẳng thắn bày tỏ ý kiến và sáng tạo không sợ hãi.",
-        "Người có tự tin hữu cơ luôn ép buộc mọi người phải làm theo ý mình."
+        "Họ luôn tặng quà đắt tiền cho cấp dưới.",
+        "Người có tự tin hữu cơ luôn ép buộc mọi người phải làm theo ý mình.",
+        "Sự điềm đạm, khiêm nhường và vững chãi của họ tạo ra môi trường an toàn tâm lý, khuyến khích mọi người dám thẳng thắn bày tỏ ý kiến và sáng tạo không sợ hãi."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Sự tự tin chân thật không cần phải chứng minh hay thị uy; sự vững vàng tự tại của họ tự khắc trở thành điểm tựa bình an cho cả đội ngũ."
     },
     {
       "id": "q14",
       "question": "Khi bạn cảm thấy tự ti và nghi ngờ năng lực của bản thân (Hội chứng kẻ giả mạo - Impostor Syndrome), bước tự nhận thức đầu tiên cần làm là gì?",
       "options": [
-        "Cố gắng giả vờ như mình là chuyên gia giỏi nhất thế giới.",
+        "Bỏ việc ngay lập tức và trốn trong phòng kín.",
         "Nhận biết và gọi tên cảm xúc đó: 'À, đây là cảm giác nghi ngờ bản thân đang xuất hiện; điều này là trải nghiệm con người phổ quát mà ai cũng từng trải qua khi học hỏi cái mới'.",
-        "Trách mắng cha mẹ vì đã không khen ngợi mình lúc nhỏ.",
-        "Bỏ việc ngay lập tức và trốn trong phòng kín."
+        "Cố gắng giả vờ như mình là chuyên gia giỏi nhất thế giới.",
+        "Trách mắng cha mẹ vì đã không khen ngợi mình lúc nhỏ."
       ],
       "correctIndex": 1,
       "explanation": "Nhận diện và bình thường hóa cảm xúc giúp giải tỏa sự mặc cảm; bạn nhận ra sự nghi ngờ chỉ là một trạng thái tâm lý tạm thời chứ không phải sự thật về năng lực của bạn."

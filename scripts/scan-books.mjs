@@ -104,6 +104,30 @@ const placeholderMetadata = {
     gradient: "from-teal-500 to-emerald-700",
     themeColor: "#059669",
     status: "available"
+  },
+  "ThinhVuongTaiChinhTuoi30_T1": {
+    title: "Thịnh Vượng Tài Chính Tuổi 30 - Tập 1",
+    originalTitle: "30대 재테크, 상식사전 (Rich 30s - Vol 1)",
+    author: "Choi Pyong Hee, Go Deuk Seong, Jeong Seong Jin",
+    translator: "Nguyễn Mạnh Hùng & Thái Hà Books",
+    category: "Tài chính cá nhân & Quản lý dòng tiền",
+    tags: ["Tài chính cá nhân", "Quản lý tài chính", "Hưu trí", "Đầu tư", "Kế hoạch tuổi 30"],
+    description: "Cẩm nang tài chính thiết thực giúp người trẻ tuổi 30 thức tỉnh tư duy tiền bạc, lập kế hoạch chi tiêu, tích lũy và chủ động xây dựng nền tảng vững chắc cho 30 năm tuổi già thịnh vượng.",
+    gradient: "from-emerald-700 to-teal-900",
+    themeColor: "#0f766e",
+    status: "available"
+  },
+  "ThinhVuongTaiChinhTuoi30_T2": {
+    title: "Thịnh Vượng Tài Chính Tuổi 30 - Tập 2",
+    originalTitle: "30대 재테크, 상식사전 (Rich 30s - Vol 2)",
+    author: "Choi Pyong Hee, Go Deuk Seong, Jeong Seong Jin",
+    translator: "Thái Hà Books",
+    category: "Tài chính cá nhân & Đầu tư",
+    tags: ["Tài chính cá nhân", "Đầu tư", "Quản lý dòng tiền", "Tài sản", "Bảo hiểm"],
+    description: "Phần tiếp theo chuyên sâu về các chiến lược gia tăng tài sản, phân bổ danh mục đầu tư thông minh và phòng ngừa rủi ro tài chính hiệu quả.",
+    gradient: "from-blue-700 to-teal-900",
+    themeColor: "#0369a1",
+    status: "available"
   }
 };
 
@@ -166,7 +190,12 @@ for (const bookId of bookDirs) {
   const files = fs.readdirSync(bookPath);
   let mdFiles = files.filter(f => f.endsWith('.md') && f.toLowerCase() !== 'readme.md');
   let coverUrl = null;
-  const coverCandidates = ['cover.jpg', 'cover.png', 'cover.jpeg', 'cover.webp', 'p1_Im0.jpg', 'img_p001_01.jpeg', 'img-000.png', 'bia_truoc.png', 'bia_truoc.jpg', 'cover_front.png', 'cover_front.jpg'];
+  const coverCandidates = [
+    'cover.jpg', 'cover.png', 'cover.jpeg', 'cover.webp',
+    'p1_Im0.jpg', 'img_p001_01.jpeg', 'img-000.png',
+    'bia_truoc.png', 'bia_truoc.jpg', 'cover_front.png', 'cover_front.jpg',
+    'image_001_4.jpeg', 'page_001_1.jpeg'
+  ];
   for (const c of coverCandidates) {
     if (fs.existsSync(path.resolve(bookPath, 'images', c))) {
       coverUrl = `/books/${bookId}/images/${c}`;

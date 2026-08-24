@@ -8,10 +8,10 @@
       "id": "q1",
       "question": "Hình tượng 'Chiếc xe Ferrari' trong tác phẩm đại diện cho điều gì sâu xa trong tâm thức của con người thời hiện đại?",
       "options": [
-        "Thước đo chuẩn mực duy nhất để đánh giá phẩm chất đạo đức của một con người thành đạt.",
+        "Phương tiện di chuyển tối ưu nhất dành cho giới luật sư tranh tụng cấp cao.",
         "Công cụ công nghệ cao giúp con người nâng cao năng suất làm việc gấp nhiều lần.",
         "Biểu tượng của những thành công vật chất hào nhoáng bên ngoài mà con người thường đánh đổi bằng sự kiệt quệ tinh thần và bình an nội tại.",
-        "Phương tiện di chuyển tối ưu nhất dành cho giới luật sư tranh tụng cấp cao."
+        "Thước đo chuẩn mực duy nhất để đánh giá phẩm chất đạo đức của một con người thành đạt."
       ],
       "correctIndex": 2,
       "explanation": "Chiếc Ferrari là phép ẩn dụ về sự thành công vật chất đỉnh cao nhưng rỗng tuếch, thứ mà Julian Mantle đã dũng cảm bán đi để lên đường tìm lại linh hồn và bình an đích thực."
@@ -20,9 +20,9 @@
       "id": "q2",
       "question": "Tại sao tác giả Robin Sharma lại chọn hình thức truyện ngụ ngôn (fable) để truyền tải những bài học chuyển hóa cuộc đời?",
       "options": [
+        "Để giảm bớt tính thực tế và biến các bài học thành những câu chuyện thần thoại không thể áp dụng.",
         "Thể loại ngụ ngôn là yêu cầu bắt buộc của các nhà xuất bản sách tâm lý tại phương Tây.",
         "Tác giả không muốn đưa ra các hướng dẫn thực hành cụ thể mà chỉ muốn kể chuyện viễn tưởng.",
-        "Để giảm bớt tính thực tế và biến các bài học thành những câu chuyện thần thoại không thể áp dụng.",
         "Truyện ngụ ngôn giúp người đọc dễ dàng đồng cảm với cuộc khủng hoảng của nhân vật, từ đó tiếp nhận các chân lý triết học một cách trực quan và sâu sắc."
       ],
       "correctIndex": 3,
@@ -32,84 +32,84 @@
       "id": "q3",
       "question": "Nghịch lý lớn nhất của những người theo đuổi chủ nghĩa hoàn hảo và thành tích cao (high-achievers) được cảnh báo trong phần mở đầu là gì?",
       "options": [
-        "Họ hy sinh sức khỏe, gia đình và sự thanh thản để kiếm tiền và danh vọng, rồi lại phải dùng toàn bộ số tiền đó để cố cứu vãn những gì đã mất.",
+        "Họ từ chối làm việc với những người có năng lực thấp hơn mình.",
         "Họ dành quá nhiều thời gian cho các hoạt động thiện nguyện mà bỏ bê công việc kinh doanh.",
         "Họ luôn tiết kiệm quá mức khiến chất lượng cuộc sống bị giảm sút nghiêm trọng.",
-        "Họ từ chối làm việc với những người có năng lực thấp hơn mình."
+        "Họ hy sinh sức khỏe, gia đình và sự thanh thản để kiếm tiền và danh vọng, rồi lại phải dùng toàn bộ số tiền đó để cố cứu vãn những gì đã mất."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Tác phẩm phơi bày cái bẫy của lối sống hiện đại: con người vắt kiệt bản thân cho những mục tiêu ngắn hạn bên ngoài mà bỏ quên nguồn cội của hạnh phúc dài hạn."
     },
     {
       "id": "q4",
       "question": "Ý nghĩa cốt lõi của hành động Julian bán toàn bộ dinh thự và chiếc Ferrari trước khi sang Ấn Độ là gì?",
       "options": [
-        "Sự dứt khoát rũ bỏ những ràng buộc vật chất và cái tôi giả tạo để bước vào hành trình tái sinh với tâm thế của một chiếc cốc rỗng.",
-        "Julian bị chính quyền thu hồi tài sản do các sai phạm trong thủ tục thuế.",
         "Julian muốn quyên góp tiền cho một tổ chức từ thiện để tạo dựng danh tiếng mới.",
-        "Julian bị phá sản do thua một vụ kiện quan trọng tại tòa án liên bang."
+        "Julian bị phá sản do thua một vụ kiện quan trọng tại tòa án liên bang.",
+        "Julian bị chính quyền thu hồi tài sản do các sai phạm trong thủ tục thuế.",
+        "Sự dứt khoát rũ bỏ những ràng buộc vật chất và cái tôi giả tạo để bước vào hành trình tái sinh với tâm thế của một chiếc cốc rỗng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Hành động này thể hiện sự giải phóng triệt để khỏi những ảo tưởng về bản ngã, tạo khoảng trống tâm hồn để tiếp nhận trí tuệ vĩnh cửu."
     },
     {
       "id": "q5",
       "question": "Sự kết hợp giữa 'Trí tuệ cổ xưa phương Đông' và 'Lối sống năng động phương Tây' trong cuốn sách mang lại giải pháp gì cho độc giả?",
       "options": [
-        "Chứng minh rằng triết học phương Tây hoàn toàn không có giá trị đối với sự phát triển con người.",
         "Khuyên người phương Tây nên từ bỏ hoàn toàn nền văn minh công nghiệp để sang châu Á sống ẩn dật.",
-        "Tạo ra một tôn giáo mới dung hòa các nghi lễ cổ xưa với công nghệ hiện đại.",
-        "Giúp các nguyên lý thiền định và tĩnh tâm trở thành các bài thực hành cụ thể, thực tế và khả thi trong nhịp sống đô thị bận rộn."
+        "Giúp các nguyên lý thiền định và tĩnh tâm trở thành các bài thực hành cụ thể, thực tế và khả thi trong nhịp sống đô thị bận rộn.",
+        "Chứng minh rằng triết học phương Tây hoàn toàn không có giá trị đối với sự phát triển con người.",
+        "Tạo ra một tôn giáo mới dung hòa các nghi lễ cổ xưa với công nghệ hiện đại."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sharma đã 'giải mã' các minh triết huyền bí thành một hệ thống 7 nguyên tắc có thể ứng dụng trực tiếp để nâng cao chất lượng cuộc sống công sở và gia đình."
     },
     {
       "id": "q6",
       "question": "Theo lời đề tặng và thông điệp đầu sách, điều gì là điều kiện tiên quyết để bắt đầu hành trình tự khai sáng?",
       "options": [
-        "Phải có người thân đi cùng trong suốt quá trình rèn luyện.",
         "Lòng dũng cảm thừa nhận sự bất an của bản thân và ý chí kiên định muốn thay đổi từ gốc rễ.",
+        "Phải đạt đến độ tuổi 50 khi sự nghiệp đã cơ bản hoàn thành.",
         "Phải có một khoản tiền tiết kiệm đủ lớn để trang trải chi phí sinh hoạt trong 3 năm.",
-        "Phải đạt đến độ tuổi 50 khi sự nghiệp đã cơ bản hoàn thành."
+        "Phải có người thân đi cùng trong suốt quá trình rèn luyện."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự chuyển hóa không bắt đầu từ hoàn cảnh bên ngoài mà bắt đầu từ khoảnh khắc một người dám nhìn nhận sự thật về bản thân và quyết định hành động."
     },
     {
       "id": "q7",
       "question": "Tại sao việc làm chủ nội tâm lại được coi là nền tảng của mọi thành công ngoại cảnh?",
       "options": [
-        "Bởi vì chất lượng cuộc sống bên ngoài phản ánh trực tiếp chất lượng của những suy nghĩ và cảm xúc bên trong tâm trí bạn.",
         "Bởi vì khi làm chủ nội tâm, bạn sẽ có khả năng thôi miên và điều khiển hành vi của người khác.",
+        "Bởi vì chất lượng cuộc sống bên ngoài phản ánh trực tiếp chất lượng của những suy nghĩ và cảm xúc bên trong tâm trí bạn.",
         "Bởi vì làm chủ nội tâm giúp bạn không cần phải làm việc mà tiền tài vẫn tự động đến.",
         "Bởi vì thế giới vật chất chỉ là một ảo giác và không hề có thật."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Robin Sharma khẳng định: Thế giới bên ngoài là tấm gương phản chiếu thế giới bên trong; bạn không thể xây dựng một cuộc đời vĩ đại trên một tâm trí hỗn loạn."
     },
     {
       "id": "q8",
       "question": "Lời hứa thiêng liêng mà Julian phải thực hiện với các Hiền triết Sivana trước khi rời dãy Himalaya là gì?",
       "options": [
-        "Phải gửi lại toàn bộ lợi nhuận từ việc giảng dạy về cho ngôi làng ở dãy Himalaya.",
         "Phải quay trở lại ngôi làng định kỳ mỗi năm một lần để làm lễ tạ ơn.",
-        "Phải trở về phương Tây và truyền bá những trí tuệ đã học được cho những người đang chịu đựng sự bế tắc và đau khổ.",
-        "Phải giữ bí mật tuyệt đối về vị trí địa lý của ngôi làng Sivana và không được kể cho ai."
+        "Phải giữ bí mật tuyệt đối về vị trí địa lý của ngôi làng Sivana và không được kể cho ai.",
+        "Phải gửi lại toàn bộ lợi nhuận từ việc giảng dạy về cho ngôi làng ở dãy Himalaya.",
+        "Phải trở về phương Tây và truyền bá những trí tuệ đã học được cho những người đang chịu đựng sự bế tắc và đau khổ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Trí tuệ chỉ thực sự trọn vẹn khi được sẻ chia; lời thề của Julian chính là chiếc cầu nối mang ánh sáng từ dãy Himalaya trở về cứu giúp xã hội hiện đại."
     },
     {
       "id": "q9",
       "question": "Khái niệm 'Khai sáng cuộc sống' (Life Enlightenment) trong cuốn sách được định nghĩa như thế nào?",
       "options": [
-        "Năng lực thần thông biến hóa và tách rời thể xác khỏi không gian vật lý.",
-        "Sự vô cảm tuyệt đối trước mọi biến cố vui buồn của cuộc đời.",
         "Sự thức tỉnh trọn vẹn về mục đích sống, rèn luyện thân tâm và sống một cuộc đời phụng sự đầy nhiệt huyết trong từng khoảnh khắc.",
-        "Việc ghi nhớ toàn bộ các kinh thư cổ điển bằng tiếng Phạn mà không mắc lỗi nào."
+        "Việc ghi nhớ toàn bộ các kinh thư cổ điển bằng tiếng Phạn mà không mắc lỗi nào.",
+        "Sự vô cảm tuyệt đối trước mọi biến cố vui buồn của cuộc đời.",
+        "Năng lực thần thông biến hóa và tách rời thể xác khỏi không gian vật lý."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Khai sáng không phải là điều gì siêu nhiên viển vông, mà là trạng thái sống tỉnh thức, kỷ luật, tự chủ và chan chứa tình yêu thương mỗi ngày."
     },
     {
@@ -117,9 +117,9 @@
       "question": "Cuốn sách so sánh tâm trí con người với hình ảnh nào để nhấn mạnh tầm quan trọng của việc thanh lọc tư duy?",
       "options": [
         "Một dòng sông chảy xiết không bao giờ dừng lại.",
-        "Một cỗ máy tính điện tử cần được nâng cấp vi xử lý định kỳ.",
+        "Một tòa lâu đài kiên cố bất khả xâm phạm trước mọi tác động bên ngoài.",
         "Một khu vườn màu mỡ tuyệt đẹp: Nếu bạn không chăm sóc gieo trồng hạt giống tốt, cỏ dại độc hại sẽ mọc đầy.",
-        "Một tòa lâu đài kiên cố bất khả xâm phạm trước mọi tác động bên ngoài."
+        "Một cỗ máy tính điện tử cần được nâng cấp vi xử lý định kỳ."
       ],
       "correctIndex": 2,
       "explanation": "Tâm trí giống như một mảnh vườn; những suy nghĩ tiêu cực, lo âu chính là cỏ dại sẽ tàn phá mảnh vườn nếu người làm vườn không tỉnh thức dọn dẹp."
@@ -128,48 +128,48 @@
       "id": "q11",
       "question": "Tại sao việc duy trì lòng trắc ẩn và tinh thần phụng sự lại là một trong những cột trụ của hạnh phúc?",
       "options": [
-        "Bởi vì 'Bàn tay trao tặng hoa hồng luôn phảng phất hương thơm' - khi nâng đỡ người khác, chính tâm hồn bạn được làm giàu sâu sắc nhất.",
         "Bởi vì phụng sự giúp bạn tránh được các nghĩa vụ nộp thuế cho nhà nước.",
-        "Bởi vì đây là cách tốt nhất để xây dựng quan hệ ngoại giao phục vụ cho việc thăng tiến chức vụ.",
-        "Bởi vì người khác sẽ mang nợ bạn và buộc phải đền đáp lại trong tương lai."
+        "Bởi vì 'Bàn tay trao tặng hoa hồng luôn phảng phất hương thơm' - khi nâng đỡ người khác, chính tâm hồn bạn được làm giàu sâu sắc nhất.",
+        "Bởi vì người khác sẽ mang nợ bạn và buộc phải đền đáp lại trong tương lai.",
+        "Bởi vì đây là cách tốt nhất để xây dựng quan hệ ngoại giao phục vụ cho việc thăng tiến chức vụ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Phụng sự vô điều kiện giúp con người vượt qua sự vị kỷ hạn hẹp, kết nối với một mục đích cao cả hơn và chạm đến nguồn hạnh phúc vô tận."
     },
     {
       "id": "q12",
       "question": "Thông điệp về 'Sự giản dị' (Simplicity) được gửi gắm trong phần giới thiệu có vai trò gì trong việc giải phóng con người?",
       "options": [
-        "Cắt giảm tối đa chi tiêu ăn uống để tiết kiệm tài chính.",
+        "Bắt buộc con người phải sống trong cảnh nghèo khó và từ chối mọi tiện nghi tối thiểu.",
         "Không sử dụng bất kỳ đồ dùng công nghệ nào trong sinh hoạt gia đình.",
-        "Giúp giảm bớt những nhu cầu thừa thãi, giải phóng thời gian và năng lượng tâm trí để tập trung vào những điều thực sự quan trọng.",
-        "Bắt buộc con người phải sống trong cảnh nghèo khó và từ chối mọi tiện nghi tối thiểu."
+        "Cắt giảm tối đa chi tiêu ăn uống để tiết kiệm tài chính.",
+        "Giúp giảm bớt những nhu cầu thừa thãi, giải phóng thời gian và năng lượng tâm trí để tập trung vào những điều thực sự quan trọng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Một lối sống giản dị giúp tâm trí không bị phân tán bởi những áp lực vật chất phù phiếm, từ đó nuôi dưỡng sự tự do và bình an nội tại."
     },
     {
       "id": "q13",
       "question": "Yếu tố nào phân biệt một người 'Sống có mục đích' với một người 'Chỉ đơn thuần tồn tại' qua lăng kính của tác phẩm?",
       "options": [
+        "Người sống có mục đích có tầm nhìn rõ ràng, hành động nhất quán với giá trị cốt lõi và luôn cống hiến cho một lý tưởng lớn hơn bản thân.",
         "Người sống có mục đích không bao giờ gặp phải bất kỳ thất bại hay nỗi buồn nào.",
         "Người sống có mục đích chỉ làm việc khi có người khác giám sát và đôn đốc.",
-        "Người sống có mục đích có tầm nhìn rõ ràng, hành động nhất quán với giá trị cốt lõi và luôn cống hiến cho một lý tưởng lớn hơn bản thân.",
         "Người sống có mục đích luôn có số dư tài khoản ngân hàng cao hơn mức trung bình xã hội."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Mục đích sống là ngọn hải đăng soi đường; khi có mục đích rõ ràng, mọi hành động và thử thách đều trở nên có ý nghĩa và tràn đầy động lực."
     },
     {
       "id": "q14",
       "question": "Theo tinh thần tác phẩm, tại sao 'Cái chết' lại được coi là người bạn đồng hành tốt nhất để thức tỉnh con người?",
       "options": [
+        "Để khuyến khích con người sống buông thả và hưởng thụ hưởng lạc ngắn hạn.",
         "Nỗi sợ hãi cái chết sẽ khiến con người làm việc điên cuồng hơn để tích lũy tài sản.",
-        "Nhận thức về sự hữu hạn của đời người nhắc nhở chúng ta trân quý từng phút giây hiện tại và không lãng phí thời gian vào những điều vô nghĩa.",
         "Cái chết chứng minh rằng mọi nỗ lực phấn đấu của con người đều là vô ích.",
-        "Để khuyến khích con người sống buông thả và hưởng thụ hưởng lạc ngắn hạn."
+        "Nhận thức về sự hữu hạn của đời người nhắc nhở chúng ta trân quý từng phút giây hiện tại và không lãng phí thời gian vào những điều vô nghĩa."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Ý thức về cái chết (Memento Mori) là đòn bẩy mạnh mẽ nhất giúp con người phân biệt đâu là điều thực sự quan trọng và can đảm sống trọn vẹn từng ngày."
     },
     {
@@ -177,11 +177,11 @@
       "question": "Mục tiêu tối hậu mà cuốn sách 'Vị Tu Sĩ Bán Chiếc Ferrari' muốn truyền cảm hứng cho người đọc là gì?",
       "options": [
         "Từ bỏ mọi trách nhiệm xã hội để tìm kiếm sự an nhàn cá nhân.",
-        "Tích lũy đủ tài sản để có thể mua lại chiếc xe Ferrari đắt giá nhất.",
         "Trở thành một diễn giả chuyên nghiệp nổi tiếng trên toàn cầu.",
-        "Trở thành nhà lãnh đạo của chính cuộc đời mình, sống một cuộc đời rực rỡ, bình an, tràn đầy tình yêu thương và để lại di sản tốt đẹp cho nhân loại."
+        "Trở thành nhà lãnh đạo của chính cuộc đời mình, sống một cuộc đời rực rỡ, bình an, tràn đầy tình yêu thương và để lại di sản tốt đẹp cho nhân loại.",
+        "Tích lũy đủ tài sản để có thể mua lại chiếc xe Ferrari đắt giá nhất."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Tác phẩm là bản tuyên ngôn về sự làm chủ bản thân toàn diện: sống can trường, rèn luyện kỷ luật, yêu thương tha nhân và tận hưởng từng khoảnh khắc của hiện tại."
     }
   ]

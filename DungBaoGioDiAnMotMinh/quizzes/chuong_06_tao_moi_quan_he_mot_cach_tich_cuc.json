@@ -20,12 +20,12 @@
       "id": "q2",
       "question": "Bí quyết quyền năng nào đã biến phòng khách nhà bà Katharine Graham (The Washington Post) thành trung tâm quyền lực của nước Mỹ?",
       "options": [
-        "Bà chỉ mời những người thuộc một đảng phái chính trị duy nhất tham dự.",
-        "Bà tạo ra một không gian ấm cúng, an toàn và tinh tế, nơi những bộ óc kiệt xuất thuộc các phe đối lập có thể trò chuyện cởi mở và tìm thấy tiếng nói chung.",
         "Bà luôn yêu cầu các khách mời phải ký cam kết bảo mật trước khi bước vào nhà.",
-        "Bà chi trả hàng triệu đô la tiền thù lao cho bất kỳ ai đồng ý đến ăn tối."
+        "Bà chi trả hàng triệu đô la tiền thù lao cho bất kỳ ai đồng ý đến ăn tối.",
+        "Bà chỉ mời những người thuộc một đảng phái chính trị duy nhất tham dự.",
+        "Bà tạo ra một không gian ấm cúng, an toàn và tinh tế, nơi những bộ óc kiệt xuất thuộc các phe đối lập có thể trò chuyện cởi mở và tìm thấy tiếng nói chung."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Katharine Graham là bậc thầy kiến tạo không gian hội tụ (Gathering space); bà dùng sự nồng hậu và nghệ thuật dung hòa để kết nối các nhân tài đỉnh cao."
     },
     {
@@ -44,12 +44,12 @@
       "id": "q4",
       "question": "Khi đã xác định được người trong danh sách mục tiêu, bước hành động thông minh đầu tiên bạn cần làm là gì?",
       "options": [
-        "Đến gõ cửa nhà riêng của họ vào lúc nửa đêm để thể hiện sự nhiệt tình.",
         "Nghiên cứu sâu sắc về sở thích, các dự án họ đang tâm huyết và tìm hiểu xem bạn có thể giúp đỡ hoặc đóng góp điều gì cho họ trước tiên.",
         "Gửi ngay một bản CV xin việc dài 10 trang vào hộp thư cá nhân của họ.",
+        "Đến gõ cửa nhà riêng của họ vào lúc nửa đêm để thể hiện sự nhiệt tình.",
         "Gọi điện trực tiếp yêu cầu họ phải sắp xếp một cuộc phỏng vấn tuyển dụng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Luôn tiếp cận bằng giá trị; hiểu rõ đối phương đang cần gì và chủ động trao đi sự hỗ trợ là cách duy nhất để mở khóa cánh cửa lòng tin."
     },
     {
@@ -80,12 +80,12 @@
       "id": "q7",
       "question": "Làm thế nào để duy trì sự nhiệt thành trong việc tạo mối quan hệ tích cực mà không bị cảm giác kiệt sức (Burnout)?",
       "options": [
-        "Chỉ đi kết nối trong vòng 1 tháng duy nhất trong năm rồi nghỉ ngơi 11 tháng còn lại.",
+        "Lồng ghép việc kết nối vào chính lối sống, đam mê và những hoạt động sinh hoạt hàng ngày mà bạn vốn dĩ yêu thích (thể thao, ẩm thực, thiện nguyện).",
         "Uống thật nhiều nước tăng lực mỗi khi tham gia các sự kiện kết nối.",
-        "Ủy quyền toàn bộ việc kết nối cho nhân viên cấp dưới làm thay.",
-        "Lồng ghép việc kết nối vào chính lối sống, đam mê và những hoạt động sinh hoạt hàng ngày mà bạn vốn dĩ yêu thích (thể thao, ẩm thực, thiện nguyện)."
+        "Chỉ đi kết nối trong vòng 1 tháng duy nhất trong năm rồi nghỉ ngơi 11 tháng còn lại.",
+        "Ủy quyền toàn bộ việc kết nối cho nhân viên cấp dưới làm thay."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Khi kết nối hòa quyện làm một với đam mê và tình bạn chân thành, nó sẽ tái tạo năng lượng cho bạn thay vì làm tiêu hao sức lực."
     },
     {
@@ -105,9 +105,9 @@
       "question": "Một người hướng nội có thể áp dụng chiến lược 'Tạo mối quan hệ tích cực' một cách xuất sắc bằng cách nào?",
       "options": [
         "Tập trung vào các cuộc trò chuyện 1-1 sâu sắc, viết những bức thư cá nhân hóa tinh tế và lắng nghe thấu cảm - những thế mạnh bẩm sinh của người hướng nội.",
-        "Chỉ giao tiếp thông qua các phần mềm trí tuệ nhân tạo tự động.",
         "Cố gắng gượng ép bản thân trở thành một người hướng ngoại thích nhảy múa trong các quán bar.",
-        "Từ bỏ hoàn toàn ý định xây dựng mạng lưới quan hệ sự nghiệp."
+        "Từ bỏ hoàn toàn ý định xây dựng mạng lưới quan hệ sự nghiệp.",
+        "Chỉ giao tiếp thông qua các phần mềm trí tuệ nhân tạo tự động."
       ],
       "correctIndex": 0,
       "explanation": "Người hướng nội sở hữu năng lực lắng nghe và tạo sự tin cậy tuyệt vời; xây dựng mối quan hệ theo chiều sâu là vũ khí tối thượng của họ."
@@ -152,36 +152,36 @@
       "id": "q13",
       "question": "Khi hai người trong mạng lưới của bạn đang có nhu cầu tìm kiếm nhau, hành động tạo quan hệ tích cực tốt nhất của bạn là gì?",
       "options": [
-        "Giữ bí mật thông tin của cả hai người để họ không thể tự liên lạc với nhau.",
-        "Chủ động viết một bức thư giới thiệu (Introductory Email) trang trọng, nêu bật thế mạnh và điểm chung để kết nối họ lại với nhau.",
+        "Yêu cầu cả hai bên phải trả phí hoa hồng môi giới trước khi cho số điện thoại.",
         "Khuyên cả hai bên không nên tin tưởng lẫn nhau.",
-        "Yêu cầu cả hai bên phải trả phí hoa hồng môi giới trước khi cho số điện thoại."
+        "Chủ động viết một bức thư giới thiệu (Introductory Email) trang trọng, nêu bật thế mạnh và điểm chung để kết nối họ lại với nhau.",
+        "Giữ bí mật thông tin của cả hai người để họ không thể tự liên lạc với nhau."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Làm chiếc cầu nối bắc qua dòng sông ngăn cách biến bạn thành một vị ân nhân đáng kính và là mắt xích không thể thiếu trong mạng lưới của cả hai bên."
     },
     {
       "id": "q14",
       "question": "Điều gì lý giải tại sao việc chủ động tổ chức một sự kiện nhỏ lại đem lại vị thế cao hơn việc tham dự 10 sự kiện của người khác?",
       "options": [
-        "Người tổ chức được miễn phí toàn bộ chi phí ăn uống tại sự kiện.",
-        "Người tham dự sự kiện luôn bị cấm phát biểu ý kiến cá nhân.",
         "Vì các sự kiện của người khác luôn có chất lượng chuyên môn rất thấp.",
-        "Người tổ chức nắm quyền định hình chương trình, lựa chọn khách mời và mặc định được xem là nhân vật lãnh đạo có tầm nhìn quy tụ tập thể."
+        "Người tổ chức nắm quyền định hình chương trình, lựa chọn khách mời và mặc định được xem là nhân vật lãnh đạo có tầm nhìn quy tụ tập thể.",
+        "Người tổ chức được miễn phí toàn bộ chi phí ăn uống tại sự kiện.",
+        "Người tham dự sự kiện luôn bị cấm phát biểu ý kiến cá nhân."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Từ vai trò 'khách mời thụ động' chuyển sang 'người kiến tạo chủ động' là bước nhảy vọt nâng tầm tầm ảnh hưởng và uy tín cá nhân của bạn lên gấp bội."
     },
     {
       "id": "q15",
       "question": "Thông điệp đúc kết xuyên suốt của Phần 1 (Xác định quan điểm) được hoàn tất ở chương 6 là gì?",
       "options": [
+        "Mạng lưới quan hệ không phải là may mắn trời ban, mà là một tác phẩm nghệ thuật được kiến tạo bằng sự táo bạo, kế hoạch rõ ràng và trái tim phụng sự hào phóng.",
         "Chỉ cần có tiền bạc thì bạn sẽ tự động có được tất cả các mối quan hệ tốt nhất.",
         "Thành công trong cuộc sống hoàn toàn phụ thuộc vào định mệnh an bài.",
-        "Mạng lưới quan hệ không phải là may mắn trời ban, mà là một tác phẩm nghệ thuật được kiến tạo bằng sự táo bạo, kế hoạch rõ ràng và trái tim phụng sự hào phóng.",
         "Hãy luôn giữ kín mọi kế hoạch cá nhân để không bị người khác bắt chước."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Tâm thế đúng đắn là chìa khóa mở ra mọi cánh cửa; khi bạn xác định được quan điểm phụng sự tích cực, mọi kỹ năng ở Phần 2 sẽ phát huy sức mạnh tối thượng."
     }
   ]

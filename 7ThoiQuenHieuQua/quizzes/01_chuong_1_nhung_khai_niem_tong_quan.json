@@ -8,36 +8,36 @@
       "id": "q1",
       "question": "Stephen Covey phân biệt 'Đạo đức tính cách' (Character Ethic) và 'Đạo đức cá tính' (Personality Ethic). Sự khác biệt cốt lõi nhất giữa hai trường phái này là gì?",
       "options": [
-        "Cả hai trường phái hoàn toàn giống nhau, chỉ khác biệt về thuật ngữ ngữ pháp.",
         "Đạo đức tính cách xây dựng thành công từ các giá trị nền tảng bên trong (chính trực, khiêm tốn, dũng cảm), trong khi Đạo đức cá tính tập trung vào kỹ xảo giao tiếp, hình ảnh bề ngoài và thủ thuật gây ảnh hưởng tức thời.",
+        "Đạo đức tính cách chỉ áp dụng cho cá nhân trong gia đình, còn Đạo đức cá tính dành riêng cho doanh nhân trên thương trường.",
         "Đạo đức cá tính có tính bền vững lâu dài hơn vì phù hợp với tâm lý đám đông trong xã hội hiện đại.",
-        "Đạo đức tính cách chỉ áp dụng cho cá nhân trong gia đình, còn Đạo đức cá tính dành riêng cho doanh nhân trên thương trường."
+        "Cả hai trường phái hoàn toàn giống nhau, chỉ khác biệt về thuật ngữ ngữ pháp."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Đạo đức tính cách coi trọng gốc rễ nhân cách và các nguyên tắc đạo đức phổ quát. Đạo đức cá tính xuất hiện nhiều sau Thế chiến thứ nhất, chỉ chú trọng vào các kỹ thuật bề nổi, mánh lới tâm lý mang tính chất đối phó tạm thời."
     },
     {
       "id": "q2",
       "question": "Thí nghiệm về bức tranh 'Cô gái trẻ' và 'Bà lão' trong chương 1 rút ra bài học sâu sắc nào về 'Mô thức' (Paradigm)?",
       "options": [
+        "Chúng ta nhìn thế giới không phải như chính nó, mà nhìn thế giới qua lăng kính được định hình bởi kinh nghiệm, định kiến và sự chuẩn bị tâm lý của chính chúng ta.",
         "Thị lực của con người luôn có xu hướng suy giảm khi nhìn các bức tranh trừu tượng.",
-        "Mọi người luôn luôn đồng thuận ngay lập tức nếu được cung cấp đủ dữ liệu hình ảnh.",
         "Chỉ có một góc nhìn duy nhất là chính xác tuyệt đối trong mọi tình huống thực tế.",
-        "Chúng ta nhìn thế giới không phải như chính nó, mà nhìn thế giới qua lăng kính được định hình bởi kinh nghiệm, định kiến và sự chuẩn bị tâm lý của chính chúng ta."
+        "Mọi người luôn luôn đồng thuận ngay lập tức nếu được cung cấp đủ dữ liệu hình ảnh."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Mô thức là hệ quy chiếu, bản đồ tinh thần giúp chúng ta diễn giải thực tại. Khi tiền đề hay lăng kính thay đổi, toàn bộ nhận thức và cảm xúc của chúng ta về cùng một sự việc sẽ thay đổi hoàn toàn."
     },
     {
       "id": "q3",
       "question": "Hiện tượng 'Chuyển biến mô thức' (Paradigm Shift) được minh họa bằng câu chuyện Stephen Covey trên chuyến tàu điện ngầm ở New York (người cha và những đứa trẻ nghịch ngợm) chứng minh điều gì?",
       "options": [
-        "Cần phải nghiêm khắc nhắc nhở mọi hành vi gây mất trật tự nơi công cộng.",
-        "Sự kiên nhẫn chỉ có tác dụng khi đối phương biết nhận lỗi trước.",
+        "Người lớn không nên đưa trẻ em lên các phương tiện giao thông công cộng.",
         "Khi hiểu được bối cảnh sâu xa và nguồn gốc sự việc, thái độ và cảm xúc của chúng ta sẽ biến chuyển tức thì từ bực bội sang thấu cảm sâu sắc.",
-        "Người lớn không nên đưa trẻ em lên các phương tiện giao thông công cộng."
+        "Sự kiên nhẫn chỉ có tác dụng khi đối phương biết nhận lỗi trước.",
+        "Cần phải nghiêm khắc nhắc nhở mọi hành vi gây mất trật tự nơi công cộng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Khi biết người mẹ vừa qua đời tại bệnh viện và cả gia đình đang bàng hoàng, Covey lập tức thay đổi hoàn toàn thái độ từ khó chịu sang đồng cảm và sẵn lòng giúp đỡ — đó chính là sức mạnh của một bước chuyển biến mô thức tức thời."
     },
     {
@@ -69,9 +69,9 @@
       "question": "Trong 'Quá trình trưởng thành liên tục' (Continuum of Maturity), thứ tự phát triển tự nhiên và tất yếu của một con người là gì?",
       "options": [
         "Phụ thuộc (Dependence) -> Độc lập (Independence) -> Tương thuộc (Interdependence).",
+        "Độc lập (Independence) -> Phụ thuộc (Dependence) -> Tương thuộc (Interdependence).",
         "Phụ thuộc (Dependence) -> Tương thuộc (Interdependence) -> Độc lập (Independence).",
-        "Tương thuộc (Interdependence) -> Độc lập (Independence) -> Tự do tuyệt đối.",
-        "Độc lập (Independence) -> Phụ thuộc (Dependence) -> Tương thuộc (Interdependence)."
+        "Tương thuộc (Interdependence) -> Độc lập (Independence) -> Tự do tuyệt đối."
       ],
       "correctIndex": 0,
       "explanation": "Con người sinh ra ở trạng thái Phụ thuộc ('Bạn phải lo cho tôi'), sau đó trưởng thành để đạt trạng thái Độc lập ('Tôi tự chịu trách nhiệm'), và đỉnh cao là Tương thuộc ('Chúng ta cùng hợp tác tạo nên điều kỳ diệu'). Bạn không thể nhảy cóc từ Phụ thuộc sang Tương thuộc nếu chưa có sự Độc lập thực sự."
@@ -92,12 +92,12 @@
       "id": "q8",
       "question": "Định nghĩa về 'Sự Hiệu Quả' (Effectiveness) của Covey được biểu diễn qua phương trình Cân bằng P/PC. Trong đó 'P' và 'PC' lần lượt đại diện cho điều gì?",
       "options": [
+        "P là Sản phẩm/Kết quả mong muốn (Production) và PC là Năng lực/Khả năng sản xuất ra kết quả đó (Production Capability).",
         "P là Lợi nhuận (Profit) và PC là Chi phí vốn (Production Cost).",
-        "P là Quyền lực (Power) và PC là Uy tín cá nhân (Personal Credibility).",
         "P là Kế hoạch (Plan) và PC là Kiểm soát quy trình (Process Control).",
-        "P là Sản phẩm/Kết quả mong muốn (Production) và PC là Năng lực/Khả năng sản xuất ra kết quả đó (Production Capability)."
+        "P là Quyền lực (Power) và PC là Uy tín cá nhân (Personal Credibility)."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Hiệu quả thực sự là sự cân bằng giữa hai yếu tố: P (Quả trứng vàng - kết quả đạt được) và PC (Con ngỗng - sức khỏe, công cụ, mối quan hệ, năng lực tạo ra quả trứng đó)."
     },
     {
@@ -116,24 +116,24 @@
       "id": "q10",
       "question": "Trong bối cảnh tài sản vật chất (ví dụ: một chiếc máy móc hoặc xe hơi), việc bảo trì định kỳ thể hiện khía cạnh nào trong mô hình P/PC?",
       "options": [
-        "Chỉ tập trung vào P mà bỏ qua mọi yếu tố kỹ thuật.",
         "Bảo vệ và duy trì PC (Năng lực sản xuất) để đảm bảo máy móc có thể liên tục tạo ra P (Hiệu suất vận hành) lâu bền.",
         "Gia tăng chi phí lãng phí không cần thiết cho doanh nghiệp.",
+        "Chỉ tập trung vào P mà bỏ qua mọi yếu tố kỹ thuật.",
         "Là thủ tục hành chính không ảnh hưởng đến tuổi thọ của thiết bị."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Bảo dưỡng định kỳ là đầu tư cho PC; nếu bỏ qua PC để tiết kiệm vài đồng chi phí, máy móc sẽ nhanh chóng hỏng hóc nặng nề, làm mất toàn bộ sản lượng P."
     },
     {
       "id": "q11",
       "question": "Trong mối quan hệ giữa cha mẹ và con cái, 'PC' được thể hiện rõ ràng nhất qua yếu tố nào?",
       "options": [
-        "Điểm số bài kiểm tra học kỳ của đứa trẻ trên lớp.",
-        "Giá trị của các món quà đắt tiền mua cho con vào dịp sinh nhật.",
+        "Số lượng các hình phạt nghiêm khắc áp dụng khi con không nghe lời.",
         "Sự tin tưởng, lắng nghe thấu hiểu và tình cảm gắn kết sâu sắc được nuôi dưỡng mỗi ngày giữa cha mẹ và con.",
-        "Số lượng các hình phạt nghiêm khắc áp dụng khi con không nghe lời."
+        "Giá trị của các món quà đắt tiền mua cho con vào dịp sinh nhật.",
+        "Điểm số bài kiểm tra học kỳ của đứa trẻ trên lớp."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Trong quan hệ con người, PC chính là 'Tài khoản tình cảm' và niềm tin gắn kết. Nếu cha mẹ chỉ chăm chăm ép con đạt kết quả P (điểm số, vâng lời tức thì) bằng sự áp đặt thô bạo, mối quan hệ PC sẽ đổ vỡ và đứa trẻ sẽ nổi loạn khi lớn lên."
     },
     {
@@ -152,24 +152,24 @@
       "id": "q13",
       "question": "Một người cố gắng học các khóa học cấp tốc về 'kỹ năng thuyết phục khách hàng' nhưng trong lòng luôn có ý định trục lợi và xem thường khách hàng. Theo nguyên lý Đạo đức tính cách, kết quả dài hạn sẽ là gì?",
       "options": [
-        "Kỹ năng thuyết phục sẽ bù đắp hoàn toàn cho sự thiếu hụt đạo đức và mang lại hợp đồng trọn đời.",
-        "Sự trục lợi sẽ giúp doanh nghiệp phát triển bền vững nhất.",
+        "Khách hàng không bao giờ quan tâm đến động cơ của người bán hàng.",
         "Khách hàng sẽ cảm nhận được sự bất nhất giữa lời nói và động cơ thật (Duplicity), niềm tin bị phá hủy và mối quan hệ kinh doanh sẽ sụp đổ.",
-        "Khách hàng không bao giờ quan tâm đến động cơ của người bán hàng."
+        "Sự trục lợi sẽ giúp doanh nghiệp phát triển bền vững nhất.",
+        "Kỹ năng thuyết phục sẽ bù đắp hoàn toàn cho sự thiếu hụt đạo đức và mang lại hợp đồng trọn đời."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Ngôn ngữ không lời và bản chất tính cách luôn phát ra tín hiệu chân thực nhất. Nếu thiếu tính chính trực, mọi kỹ xảo giao tiếp sẽ bị nhận diện là sự thao túng và gây ra sự đề phòng, mất lòng tin."
     },
     {
       "id": "q14",
       "question": "Tại sao việc thay đổi hành vi bề ngoài mà không thay đổi 'Mô thức' tư duy cốt lõi chỉ mang lại kết quả hạn chế và ngắn hạn?",
       "options": [
-        "Vì các khóa huấn luyện hành vi luôn có chất lượng rất thấp.",
-        "Vì con người không có khả năng kiểm soát bất kỳ hành vi nào của mình.",
         "Vì hành vi và thái độ vốn là kết quả trực tiếp sinh ra từ cách chúng ta nhìn nhận thế giới (Mô thức); nếu lăng kính không đổi thì hành vi cũ sẽ sớm quay trở lại.",
-        "Vì hành vi hoàn toàn độc lập với suy nghĩ và cảm xúc."
+        "Vì con người không có khả năng kiểm soát bất kỳ hành vi nào của mình.",
+        "Vì hành vi hoàn toàn độc lập với suy nghĩ và cảm xúc.",
+        "Vì các khóa huấn luyện hành vi luôn có chất lượng rất thấp."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Muốn tạo ra thay đổi nhỏ, hãy tập trung vào hành vi và thái độ; nhưng nếu muốn tạo ra bước đột phá lượng đổi chất đổi, bạn bắt buộc phải thay đổi Mô thức nền tảng (Paradigm)."
     },
     {

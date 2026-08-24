@@ -8,72 +8,72 @@
       "id": "q1",
       "question": "Tại sao câu trích dẫn của Winston Churchill ('Sự chuẩn bị... là chìa khóa dẫn đến vẻ ngoài thiên tài') lại được chọn làm kim chỉ nam cho chương 7?",
       "options": [
-        "Vì Churchill khuyên chúng ta chỉ nên gặp những đối tác mà ta đã biết rõ trong 20 năm.",
         "Vì sự chuẩn bị kỹ lưỡng trước mọi cuộc gặp gỡ biến một người bình thường thành một chuyên gia tự tin, sắc sảo và nắm bắt hoàn toàn thế chủ động.",
         "Vì Churchill là người đầu tiên phát minh ra hồ sơ tóm tắt thông tin đối tác.",
+        "Vì Churchill khuyên chúng ta chỉ nên gặp những đối tác mà ta đã biết rõ trong 20 năm.",
         "Vì việc chuẩn bị giúp tiết kiệm chi phí in ấn tài liệu trong các cuộc họp."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Không có gì thay thế được sự chuẩn bị chu đáo; hiểu rõ đối phương trước khi bước vào phòng họp giúp bạn tỏa sáng và chiếm trọn niềm tin của họ."
     },
     {
       "id": "q2",
       "question": "Bản 'Hồ sơ tóm tắt 1 trang' (One-page dossier) mà Keith Ferrazzi chuẩn bị trước mỗi cuộc gặp gỡ quan trọng nhằm giải quyết vấn đề cốt lõi nào?",
       "options": [
-        "Để đọc nguyên văn bản tóm tắt đó cho đối tác nghe trong 5 phút đầu tiên.",
-        "Cung cấp bức tranh toàn cảnh về con người, mối quan tâm, các dự án trọng tâm và những điểm tương đồng để tạo sự kết nối tức thì và trúng đích.",
         "Dùng để làm chứng cứ đối chiếu trong trường hợp đối tác gian lận thương mại.",
-        "Để nộp cho cơ quan thuế nhằm xin khấu trừ chi phí tiếp khách."
+        "Để nộp cho cơ quan thuế nhằm xin khấu trừ chi phí tiếp khách.",
+        "Để đọc nguyên văn bản tóm tắt đó cho đối tác nghe trong 5 phút đầu tiên.",
+        "Cung cấp bức tranh toàn cảnh về con người, mối quan tâm, các dự án trọng tâm và những điểm tương đồng để tạo sự kết nối tức thì và trúng đích."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Hồ sơ 1 trang tập trung vào những thông tin đắt giá nhất giúp bạn thấu hiểu tâm lý, thách thức và sở thích cá nhân của người đối thoại."
     },
     {
       "id": "q3",
       "question": "Khi nghiên cứu thông tin về một đối tác cấp cao, thông tin nào sau đây thường tạo ra bước đột phá cảm xúc mạnh mẽ nhất?",
       "options": [
-        "Bảng báo cáo tài chính quý 3 của công ty họ.",
-        "Mức lương hàng tháng và các khoản phúc lợi họ nhận được.",
         "Danh sách các đối thủ cạnh tranh đang muốn mua lại công ty họ.",
-        "Những hoạt động thiện nguyện, sở thích nghệ thuật/thể thao hoặc các thành tựu đáng tự hào của con cái họ."
+        "Những hoạt động thiện nguyện, sở thích nghệ thuật/thể thao hoặc các thành tựu đáng tự hào của con cái họ.",
+        "Bảng báo cáo tài chính quý 3 của công ty họ.",
+        "Mức lương hàng tháng và các khoản phúc lợi họ nhận được."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Chạm vào những giá trị tinh thần và niềm tự hào cá nhân (gia đình, từ thiện, sở thích) sẽ nhanh chóng phá vỡ lớp băng phòng thủ của các nhân vật quyền lực."
     },
     {
       "id": "q4",
       "question": "Trong thời đại số, các nguồn dữ liệu công khai nào nên được khai thác tối đa khi 'soạn bài tập ở nhà'?",
       "options": [
+        "LinkedIn, các bài phỏng vấn trên báo chí, các bài phát biểu tại hội thảo, trang cá nhân và các báo cáo thường niên của doanh nghiệp.",
         "Các diễn đàn tin đồn giấu tên trên mạng internet.",
-        "Nhật ký riêng tư bị rò rỉ của đối tác.",
         "Hồ sơ tài chính cá nhân bí mật được mua từ chợ đen.",
-        "LinkedIn, các bài phỏng vấn trên báo chí, các bài phát biểu tại hội thảo, trang cá nhân và các báo cáo thường niên của doanh nghiệp."
+        "Nhật ký riêng tư bị rò rỉ của đối tác."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Khai thác thông tin hợp pháp và chuyên nghiệp từ các nguồn công khai giúp bạn xây dựng bức chân dung đối tác chân thực và sắc nét."
     },
     {
       "id": "q5",
       "question": "Sai lầm nào sau đây khi sử dụng thông tin nghiên cứu có thể phản tác dụng và khiến đối tác cảm thấy bất an?",
       "options": [
+        "Thể hiện thông tin như một 'kẻ rình mò' (Stalker), liệt kê quá nhiều chi tiết vụn vặt về đời tư khiến họ cảm thấy quyền riêng tư bị xâm phạm.",
         "Lồng ghép thông tin một cách tự nhiên vào mạch câu chuyện để tìm điểm chung.",
-        "Hỏi thăm về dự án từ thiện mà đối tác đang làm đại sứ thương hiệu.",
         "Khen ngợi một bài viết chuyên môn xuất sắc mà đối tác vừa đăng tải tuần trước.",
-        "Thể hiện thông tin như một 'kẻ rình mò' (Stalker), liệt kê quá nhiều chi tiết vụn vặt về đời tư khiến họ cảm thấy quyền riêng tư bị xâm phạm."
+        "Hỏi thăm về dự án từ thiện mà đối tác đang làm đại sứ thương hiệu."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Nghệ thuật nằm ở sự tinh tế: thông tin phải được đưa ra một cách tự nhiên, ấm áp để tạo cầu nối chứ không phải để khoe khoang việc mình đã điều tra họ."
     },
     {
       "id": "q6",
       "question": "Khi chuẩn bị cho một cuộc phỏng vấn tuyển dụng, người ứng viên áp dụng chương 7 sẽ chuẩn bị khác biệt như thế nào so với ứng viên thông thường?",
       "options": [
+        "Nghiên cứu kỹ tiểu sử người phỏng vấn, các thách thức chiến lược công ty đang đối mặt và đề xuất giải pháp cụ thể cho những thách thức đó.",
         "Chỉ học thuộc lòng các câu trả lời mẫu cho những câu hỏi phỏng vấn phổ biến.",
-        "Đến sớm 30 phút và ngồi im lặng trong phòng chờ.",
         "In 20 bản CV đẹp mắt và chờ đợi người phỏng vấn đặt câu hỏi.",
-        "Nghiên cứu kỹ tiểu sử người phỏng vấn, các thách thức chiến lược công ty đang đối mặt và đề xuất giải pháp cụ thể cho những thách thức đó."
+        "Đến sớm 30 phút và ngồi im lặng trong phòng chờ."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Ứng viên xuất sắc không đến để 'được phỏng vấn' mà đến như một đối tác giải quyết vấn đề, thấu hiểu tường tận bối cảnh của người tuyển dụng."
     },
     {
@@ -92,12 +92,12 @@
       "id": "q8",
       "question": "Một người bán hàng chuẩn bị gặp khách hàng lớn B2B nên tập trung tìm hiểu điều gì nhất?",
       "options": [
+        "Mục tiêu kinh doanh sống còn của khách hàng trong năm nay và những trở ngại lớn nhất đang ngăn cản họ đạt mục tiêu đó.",
         "Danh sách các nhân viên vừa bị công ty khách hàng sa thải.",
-        "Loại xe hơi mà giám đốc mua hàng đang sử dụng.",
         "Địa chỉ các chi nhánh ngân hàng gần công ty khách hàng nhất.",
-        "Mục tiêu kinh doanh sống còn của khách hàng trong năm nay và những trở ngại lớn nhất đang ngăn cản họ đạt mục tiêu đó."
+        "Loại xe hơi mà giám đốc mua hàng đang sử dụng."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Bán hàng đỉnh cao là tư vấn giải pháp; bạn chỉ có thể giúp khách hàng khi hiểu rõ nỗi đau và mục tiêu cốt lõi của doanh nghiệp họ."
     },
     {
@@ -105,9 +105,9 @@
       "question": "Điều gì là nguy cơ lớn nhất khi bước vào một cuộc gặp quan trọng mà hoàn toàn 'không làm bài tập ở nhà'?",
       "options": [
         "Đặt ra những câu hỏi ngớ ngẩn mà câu trả lời có thể dễ dàng tìm thấy trên Google, làm lãng phí thời gian và hạ thấp giá trị bản thân trong mắt đối tác.",
-        "Bị buộc phải kết thúc cuộc họp sau đúng 2 phút.",
         "Bị đối tác phạt tiền vì không thuộc thông tin doanh nghiệp.",
-        "Không được phục vụ đồ uống trong phòng họp."
+        "Không được phục vụ đồ uống trong phòng họp.",
+        "Bị buộc phải kết thúc cuộc họp sau đúng 2 phút."
       ],
       "correctIndex": 0,
       "explanation": "Hỏi những điều cơ bản thể hiện sự lười biếng và thiếu tôn trọng đối phương; ngược lại, hỏi những câu hỏi sâu sắc chứng minh bạn là đối tác xứng tầm."
@@ -129,9 +129,9 @@
       "question": "Trong trường hợp bạn không thể tìm thấy nhiều thông tin về một người trước buổi gặp, chiến lược ứng biến khôn ngoan nhất là gì?",
       "options": [
         "Chuẩn bị một bộ câu hỏi mở tinh tế, lắng nghe chăm chú và quan sát không gian làm việc (tranh ảnh, sách vở) để nắm bắt sở thích của họ.",
-        "Chỉ nói về bản thân mình trong suốt toàn bộ thời gian gặp gỡ.",
         "Hủy cuộc hẹn ngay lập tức vì không đủ thông tin dữ liệu.",
-        "Bịa ra những thông tin giả định về họ để bắt chuyện."
+        "Bịa ra những thông tin giả định về họ để bắt chuyện.",
+        "Chỉ nói về bản thân mình trong suốt toàn bộ thời gian gặp gỡ."
       ],
       "correctIndex": 0,
       "explanation": "Quan sát tinh tế tại chỗ kết hợp với các câu hỏi gợi mở sẽ giúp bạn nhanh chóng 'thu thập dữ liệu' và tìm ra điểm chạm kết nối."
@@ -140,48 +140,48 @@
       "id": "q12",
       "question": "Tại sao các giám đốc điều hành bận rộn lại đánh giá rất cao những đối tác có sự chuẩn bị bài tập kỹ lưỡng?",
       "options": [
-        "Vì các giám đốc điều hành không muốn tự mình nói chuyện trong cuộc họp.",
-        "Vì đó là tiêu chuẩn bắt buộc theo quy định của sàn chứng khoán.",
+        "Vì họ muốn kiểm tra trí nhớ của đối tác trước khi giao việc.",
         "Vì điều đó chứng minh đối tác tôn trọng thời gian quý báu của họ và có thái độ làm việc cực kỳ nghiêm túc, chuyên nghiệp.",
-        "Vì họ muốn kiểm tra trí nhớ của đối tác trước khi giao việc."
+        "Vì đó là tiêu chuẩn bắt buộc theo quy định của sàn chứng khoán.",
+        "Vì các giám đốc điều hành không muốn tự mình nói chuyện trong cuộc họp."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Sự chuẩn bị chu đáo là lời tuyên ngôn thầm lặng mạnh mẽ nhất về sự tôn trọng và năng lực thực thi của bạn."
     },
     {
       "id": "q13",
       "question": "Sau khi hoàn thành cuộc gặp, việc bổ sung những thông tin mới thu thập được vào hồ sơ dữ liệu đóng vai trò gì?",
       "options": [
-        "Để nộp báo cáo cho ban quản lý tòa nhà.",
-        "Để bán lại hồ sơ đó cho các công ty tuyển dụng khác.",
         "Làm giàu cơ sở dữ liệu quan hệ, tạo tiền đề vững chắc cho việc cá nhân hóa các hoạt động chăm sóc và tương tác (Follow-up) sau này.",
-        "Để đối chiếu xem đối tác có nói thật trong cuộc gặp hay không."
+        "Để bán lại hồ sơ đó cho các công ty tuyển dụng khác.",
+        "Để đối chiếu xem đối tác có nói thật trong cuộc gặp hay không.",
+        "Để nộp báo cáo cho ban quản lý tòa nhà."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Vun đắp thông tin theo thời gian biến mỗi mối quan hệ thành một tài sản tri thức ngày càng sâu sắc và gắn bó."
     },
     {
       "id": "q14",
       "question": "Thái độ tâm lý đúng đắn khi 'soạn bài tập ở nhà' là gì?",
       "options": [
-        "Chỉ tìm hiểu về các tài sản vật chất để đánh giá độ giàu có của họ.",
         "Tâm thế tò mò chân thành muốn thấu hiểu và tìm cơ hội giúp đỡ một con người, chứ không phải tâm thế của một thám tử điều tra săm soi lỗi lầm.",
         "Tìm kiếm các bê bối trong quá khứ của đối tác để tống tiền.",
+        "Chỉ tìm hiểu về các tài sản vật chất để đánh giá độ giàu có của họ.",
         "Thu thập thông tin để so sánh và tự ti về bản thân."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Động cơ của sự chuẩn bị phải bắt nguồn từ lòng trắc ẩn và khát khao phụng sự; điều này sẽ tỏa ra qua ánh mắt và cử chỉ chân thành của bạn."
     },
     {
       "id": "q15",
       "question": "Tóm lại, quy tắc vàng của chương 7 có thể đúc kết thành câu châm ngôn nào sau đây?",
       "options": [
-        "Hãy để số phận quyết định kết quả của mọi cuộc đàm phán.",
-        "Thất bại trong chuẩn bị là chuẩn bị cho sự thất bại; thành công rực rỡ thuộc về những ai thấu hiểu đối phương sâu sắc nhất.",
         "Chỉ cần tự tin thì không cần chuẩn bị bất cứ điều gì.",
-        "Thông tin càng ít thì cuộc trò chuyện càng hấp dẫn."
+        "Thông tin càng ít thì cuộc trò chuyện càng hấp dẫn.",
+        "Hãy để số phận quyết định kết quả của mọi cuộc đàm phán.",
+        "Thất bại trong chuẩn bị là chuẩn bị cho sự thất bại; thành công rực rỡ thuộc về những ai thấu hiểu đối phương sâu sắc nhất."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Chuẩn bị chu đáo là nền tảng của mọi thành tựu vĩ đại; nó biến mọi cơ hội ngẫu nhiên thành những chiến thắng tất yếu."
     }
   ]

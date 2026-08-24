@@ -20,12 +20,12 @@
       "id": "q2",
       "question": "Tại sao việc cô lập bản thân và 'đi ăn một mình' lại bị tác giả coi là một sự lãng phí cơ hội to lớn trong sự nghiệp?",
       "options": [
-        "Vì các nhà hàng thường không hoan nghênh những thực khách đi một mình.",
+        "Vì mỗi bữa ăn là một không gian giao tiếp tự nhiên, cởi mở giúp thắt chặt lòng tin và xây dựng sự thấu cảm ngoài môi trường công việc khô khan.",
         "Vì ăn một mình sẽ khiến bạn phải trả toàn bộ hóa đơn bữa ăn đắt đỏ.",
-        "Vì người đi ăn một mình sẽ bị đồng nghiệp đánh giá là người không có năng lực chuyên môn.",
-        "Vì mỗi bữa ăn là một không gian giao tiếp tự nhiên, cởi mở giúp thắt chặt lòng tin và xây dựng sự thấu cảm ngoài môi trường công việc khô khan."
+        "Vì các nhà hàng thường không hoan nghênh những thực khách đi một mình.",
+        "Vì người đi ăn một mình sẽ bị đồng nghiệp đánh giá là người không có năng lực chuyên môn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Bữa ăn là thời điểm con người thư giãn và dễ bộc lộ con người thật nhất. Tận dụng các bữa ăn để kết nối giúp biến thời gian sinh hoạt thiết yếu thành cơ hội xây đắp niềm tin."
     },
     {
@@ -44,12 +44,12 @@
       "id": "q4",
       "question": "Theo cấu trúc 4 phần của cuốn sách, tại sao 'Xác định quan điểm' lại được đặt lên hàng đầu trước khi học 'Các kỹ năng'?",
       "options": [
-        "Vì tác giả muốn người đọc phải ghi nhớ toàn bộ tiểu sử của các nhân vật nổi tiếng trước.",
-        "Vì nếu không có một tư duy đúng đắn về sự hào phóng và chân thành, mọi kỹ xảo giao tiếp sẽ chỉ biến thành những mánh lới giả tạo bị người khác bài xích.",
+        "Vì phần kỹ năng quá khó hiểu nên cần phần lý thuyết làm nhẹ bớt dung lượng.",
         "Vì quan điểm là phần duy nhất có thể kiểm tra được bằng bài thi trắc nghiệm.",
-        "Vì phần kỹ năng quá khó hiểu nên cần phần lý thuyết làm nhẹ bớt dung lượng."
+        "Vì nếu không có một tư duy đúng đắn về sự hào phóng và chân thành, mọi kỹ xảo giao tiếp sẽ chỉ biến thành những mánh lới giả tạo bị người khác bài xích.",
+        "Vì tác giả muốn người đọc phải ghi nhớ toàn bộ tiểu sử của các nhân vật nổi tiếng trước."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tư duy và tâm thế quyết định hành vi. Kỹ năng kết nối chỉ phát huy hiệu quả kỳ diệu khi được dẫn dắt bởi lòng trắc ẩn và tư tưởng đôi bên cùng thắng."
     },
     {
@@ -57,9 +57,9 @@
       "question": "Khái niệm 'Vốn xã hội' (Social Capital) được ngầm hiểu trong toàn bộ tác phẩm vận hành theo cơ chế nào?",
       "options": [
         "Càng được lưu thông, chia sẻ và đầu tư vào sự thành công của người khác thì tổng giá trị vốn xã hội của bạn càng tăng trưởng theo cấp số nhân.",
+        "Vốn xã hội là tài nguyên hữu hạn, nếu bạn giúp người khác thì phần uy tín của bạn sẽ bị suy giảm tương ứng.",
         "Chỉ có thể tích lũy vốn xã hội khi bạn nắm giữ chức vụ quản lý cấp cao trong một tập đoàn đa quốc gia.",
-        "Vốn xã hội chỉ được đo bằng số dư tài khoản ngân hàng của những người trong danh bạ của bạn.",
-        "Vốn xã hội là tài nguyên hữu hạn, nếu bạn giúp người khác thì phần uy tín của bạn sẽ bị suy giảm tương ứng."
+        "Vốn xã hội chỉ được đo bằng số dư tài khoản ngân hàng của những người trong danh bạ của bạn."
       ],
       "correctIndex": 0,
       "explanation": "Khác với vốn tài chính, vốn xã hội tăng trưởng khi được chia sẻ: bạn càng kết nối nhiều người và giúp họ thành công, tầm ảnh hưởng và uy tín của bạn càng mở rộng."
@@ -68,60 +68,60 @@
       "id": "q6",
       "question": "Trong bối cảnh nền kinh tế hiện đại, tại sao năng lực chuyên môn xuất sắc (Hard skills) vẫn là chưa đủ nếu thiếu đi năng lực kết nối (Relationship skills)?",
       "options": [
-        "Vì không ai có thể làm việc quá 8 tiếng mỗi ngày nếu không có bạn bè bên cạnh.",
-        "Vì mọi cơ hội lớn, nguồn vốn, thông tin cơ mật và sự hợp tác chiến lược đều được chuyển giao thông qua niềm tin giữa con người với con người.",
         "Vì chuyên môn có thể được tự động hóa hoàn toàn bằng máy móc trong mọi lĩnh vực.",
-        "Vì người có chuyên môn cao thường không được các nhà tuyển dụng đánh giá cao bằng người biết nịnh hót."
+        "Vì người có chuyên môn cao thường không được các nhà tuyển dụng đánh giá cao bằng người biết nịnh hót.",
+        "Vì không ai có thể làm việc quá 8 tiếng mỗi ngày nếu không có bạn bè bên cạnh.",
+        "Vì mọi cơ hội lớn, nguồn vốn, thông tin cơ mật và sự hợp tác chiến lược đều được chuyển giao thông qua niềm tin giữa con người với con người."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Năng lực chuyên môn là điều kiện cần, nhưng mạng lưới quan hệ tin cậy chính là bệ phóng biến tiềm năng thành thành tựu thực tế."
     },
     {
       "id": "q7",
       "question": "Tác giả ngụ ý điều gì khi nói rằng 'Mối quan hệ không giống như chiếc bánh hữu hạn'?",
       "options": [
-        "Mối quan hệ có thể mua được bằng tiền nếu bạn biết cách chi tiêu hợp lý.",
-        "Bất kỳ ai cũng có thể làm bánh nếu được hướng dẫn đúng quy trình.",
+        "Bạn chỉ nên chia sẻ cơ hội cho người thân trong gia đình để bảo tồn lợi ích.",
         "Việc giúp đỡ người khác không làm bạn mất đi cơ hội, mà ngược lại nó nới rộng kích thước của 'chiếc bánh' cho tất cả mọi người cùng hưởng lợi.",
-        "Bạn chỉ nên chia sẻ cơ hội cho người thân trong gia đình để bảo tồn lợi ích."
+        "Bất kỳ ai cũng có thể làm bánh nếu được hướng dẫn đúng quy trình.",
+        "Mối quan hệ có thể mua được bằng tiền nếu bạn biết cách chi tiêu hợp lý."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Tư duy thịnh vượng (Abundance mindset) khẳng định rằng giá trị được tạo ra từ sự kết nối là vô tận; sự thành công của đối tác sẽ kéo theo sự phát triển của chính bạn."
     },
     {
       "id": "q8",
       "question": "Tại sao việc đọc mục lục tổng quan kỹ lưỡng lại giúp người đọc định hình lộ trình phát triển mạng lưới của riêng mình?",
       "options": [
-        "Để người đọc có thể bỏ qua những chương mà họ cảm thấy không thích.",
-        "Vì mục lục chứa đựng toàn bộ các câu trả lời cho mọi tình huống kinh doanh phức tạp.",
+        "Để học thuộc lòng tên các chương nhằm gây ấn tượng trong các buổi phỏng vấn.",
         "Giúp người đọc thấy rõ tiến trình đi từ chuyển hóa nhận thức nội tại, rèn luyện kỹ năng thực chiến, đến nâng tầm quan hệ và xây dựng thương hiệu cá nhân bền vững.",
-        "Để học thuộc lòng tên các chương nhằm gây ấn tượng trong các buổi phỏng vấn."
+        "Vì mục lục chứa đựng toàn bộ các câu trả lời cho mọi tình huống kinh doanh phức tạp.",
+        "Để người đọc có thể bỏ qua những chương mà họ cảm thấy không thích."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Mục lục phản ánh cấu trúc phát triển toàn diện của một nhà kết nối: Tâm thế -> Kỹ năng -> Chiều sâu quan hệ -> Tầm ảnh hưởng xã hội."
     },
     {
       "id": "q9",
       "question": "Lời đề tặng 'Tặng Cha và Mẹ' ở đầu sách mang ý nghĩa biểu tượng sâu sắc nào đối với sự nghiệp của Keith Ferrazzi?",
       "options": [
-        "Đó là yêu cầu bắt buộc của nhà xuất bản đối với mọi ấn bản sách.",
+        "Nhắc nhở về cội nguồn lao động nghèo khó và sự hy sinh vĩ đại của cha mẹ - động lực thôi thúc ông học cách kết nối để vượt khó và giúp đỡ cộng đồng.",
         "Vì cha mẹ ông là những doanh nhân tỷ phú đã truyền lại toàn bộ mạng lưới khách hàng cho ông.",
-        "Để chứng minh rằng chỉ có tình cảm gia đình mới là mối quan hệ đáng tin cậy.",
-        "Nhắc nhở về cội nguồn lao động nghèo khó và sự hy sinh vĩ đại của cha mẹ - động lực thôi thúc ông học cách kết nối để vượt khó và giúp đỡ cộng đồng."
+        "Đó là yêu cầu bắt buộc của nhà xuất bản đối với mọi ấn bản sách.",
+        "Để chứng minh rằng chỉ có tình cảm gia đình mới là mối quan hệ đáng tin cậy."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Chính tình yêu thương, sự cần cù và bài học từ người cha công nhân thép đã gieo vào Keith niềm tin mãnh liệt vào sức mạnh của lòng tốt và sự tương trợ giữa con người."
     },
     {
       "id": "q10",
       "question": "Một quan niệm sai lầm phổ biến mà cuốn sách muốn đập tan ngay từ những trang mở đầu là gì?",
       "options": [
-        "Quan niệm cho rằng ăn trưa ở ngoài luôn tốn kém hơn ăn tại văn phòng.",
-        "Quan niệm cho rằng xây dựng mạng lưới quan hệ là một hành vi giả tạo, chỉ dành cho những kẻ nịnh bợ hoặc những người hướng ngoại thích tiệc tùng.",
         "Quan niệm cho rằng việc đọc sách không giúp cải thiện kỹ năng giao tiếp.",
-        "Quan niệm cho rằng người giàu luôn tốt bụng hơn người nghèo."
+        "Quan niệm cho rằng người giàu luôn tốt bụng hơn người nghèo.",
+        "Quan niệm cho rằng ăn trưa ở ngoài luôn tốn kém hơn ăn tại văn phòng.",
+        "Quan niệm cho rằng xây dựng mạng lưới quan hệ là một hành vi giả tạo, chỉ dành cho những kẻ nịnh bợ hoặc những người hướng ngoại thích tiệc tùng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Tác giả chứng minh rằng người hướng nội, người xuất thân khiêm tốn đều có thể trở thành bậc thầy kết nối nếu họ hành xử với sự chân thành và thấu cảm sâu sắc."
     },
     {
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Điều gì lý giải tại sao 'cho đi trước' lại là chiến lược kết nối thông minh nhất về mặt tâm lý học hành vi?",
       "options": [
-        "Khiến đối phương cảm thấy yếu thế và buộc phải tuân theo sự sai khiến của bạn.",
-        "Giúp bạn loại bỏ ngay lập tức những người không có tiền trả ơn.",
         "Chứng minh bạn là người giàu có và không cần bất kỳ sự hỗ trợ nào.",
-        "Kích hoạt quy luật đáp ứng (Reciprocity) tự nhiên trong tâm lý con người, khiến người nhận luôn khao khát tìm cơ hội đền đáp xứng đáng."
+        "Kích hoạt quy luật đáp ứng (Reciprocity) tự nhiên trong tâm lý con người, khiến người nhận luôn khao khát tìm cơ hội đền đáp xứng đáng.",
+        "Khiến đối phương cảm thấy yếu thế và buộc phải tuân theo sự sai khiến của bạn.",
+        "Giúp bạn loại bỏ ngay lập tức những người không có tiền trả ơn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Khi bạn trao giá trị chân thành mà không đòi hỏi, người nhận sẽ ghi nhớ ân tình và chủ động hỗ trợ bạn với sự nhiệt thành cao nhất khi có cơ hội."
     },
     {

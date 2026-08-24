@@ -20,12 +20,12 @@
       "id": "q2",
       "question": "Trong bài tập 'Đi bộ tỉnh thức' (Mindful walking), đối tượng chính để neo giữ sự chú ý là gì?",
       "options": [
-        "Biển số của các chiếc xe hơi chạy ngang qua.",
-        "Màn hình điện thoại thông minh đang cầm trên tay.",
+        "Cảm giác xúc chạm vật lý tinh tế ở lòng bàn chân khi nhấc lên, di chuyển qua không gian, và đặt chạm xuống mặt đất theo từng bước đi.",
         "Độ cao của các tòa nhà chọc trời phía trước.",
-        "Cảm giác xúc chạm vật lý tinh tế ở lòng bàn chân khi nhấc lên, di chuyển qua không gian, và đặt chạm xuống mặt đất theo từng bước đi."
+        "Màn hình điện thoại thông minh đang cầm trên tay.",
+        "Biển số của các chiếc xe hơi chạy ngang qua."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Đi bộ tỉnh thức biến mỗi bước chân thành một sự xúc chạm nhiệm màu với mặt đất; bạn cảm nhận trọn vẹn lực nâng, sự chuyển dịch trọng tâm và sự tiếp đất."
     },
     {
@@ -81,21 +81,21 @@
       "question": "Khi bạn đang lái xe trong tình trạng kẹt xe tắc đường nghiêm trọng, cách áp dụng chánh niệm hữu ích nhất là gì?",
       "options": [
         "Bấm còi liên tục và gào thét vào mặt những người xung quanh.",
+        "Biến chiếc xe thành phòng thiền: thả lỏng tay lái, thả lỏng vai, thở đều vào-ra và nhìn nhận những người lái xe xung quanh như những con người cũng đang muốn về nhà như mình.",
         "Cố gắng luồn lách vượt đèn đỏ bằng mọi giá.",
-        "Bỏ lại xe giữa đường và đi bộ về.",
-        "Biến chiếc xe thành phòng thiền: thả lỏng tay lái, thả lỏng vai, thở đều vào-ra và nhìn nhận những người lái xe xung quanh như những con người cũng đang muốn về nhà như mình."
+        "Bỏ lại xe giữa đường và đi bộ về."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Tắc đường là cơ hội tuyệt vời để thực hành kiên nhẫn và từ bi; thay vì chống cự thực tế không thể thay đổi, bạn chọn an trú trong sự bình thản."
     },
     {
       "id": "q8",
       "question": "Hiện tượng 'Đa nhiệm' (Multitasking) trong công việc văn phòng hiện đại bị khoa học thần kinh vạch trần là gì?",
       "options": [
-        "Một kỹ năng bắt buộc phải có của tất cả kỹ sư phần mềm.",
+        "Một năng lực siêu phàm giúp con người tăng gấp 5 lần hiệu suất làm việc.",
         "Một ảo tưởng nguy hiểm: bộ não không làm hai việc cùng lúc mà thực chất chỉ là 'chuyển đổi nhiệm vụ liên tục' (Task switching), làm tiêu hao năng lượng nhận thức, tăng tỷ lệ lỗi sai và gây stress mãn tính.",
-        "Phương pháp giúp mở rộng dung lượng bộ nhớ của não bộ.",
-        "Một năng lực siêu phàm giúp con người tăng gấp 5 lần hiệu suất làm việc."
+        "Một kỹ năng bắt buộc phải có của tất cả kỹ sư phần mềm.",
+        "Phương pháp giúp mở rộng dung lượng bộ nhớ của não bộ."
       ],
       "correctIndex": 1,
       "explanation": "Đa nhiệm là sát thủ của sự tập trung; làm từng việc một trong chánh niệm (Single-tasking) mới là con đường tối ưu hóa năng suất và bảo toàn năng lượng."
@@ -116,12 +116,12 @@
       "id": "q10",
       "question": "Trong bài tập 'Viết nhật ký tự do trong chánh niệm' (Mindful journaling), nguyên tắc quan trọng nhất là gì?",
       "options": [
-        "Chỉ được viết những điều vui vẻ và tuyệt đối không viết về nỗi buồn.",
-        "Phải nắn nót từng nét chữ để đem đi dự thi vở sạch chữ đẹp.",
+        "Viết liên tục không ngừng tay trong một khoảng thời gian cố định (ví dụ 3 phút), không chỉnh sửa, không phán xét, để cho dòng tâm thức tự do tuôn chảy ra trang giấy.",
         "Phải dịch toàn bộ bài viết sang tiếng Anh cổ.",
-        "Viết liên tục không ngừng tay trong một khoảng thời gian cố định (ví dụ 3 phút), không chỉnh sửa, không phán xét, để cho dòng tâm thức tự do tuôn chảy ra trang giấy."
+        "Phải nắn nót từng nét chữ để đem đi dự thi vở sạch chữ đẹp.",
+        "Chỉ được viết những điều vui vẻ và tuyệt đối không viết về nỗi buồn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Viết tự do (Free writing) là chiếc cầu nối đưa những cảm xúc và suy nghĩ tiềm thức ẩn giấu lên bề mặt nhận thức mà không bị bộ lọc phê phán của cái tôi ngăn cản."
     },
     {
@@ -129,11 +129,11 @@
       "question": "Tại sao việc 'Tắm trong chánh niệm' lại là một phương pháp phục hồi năng lượng thể chất và tinh thần tuyệt vời?",
       "options": [
         "Vì nước tắm có chứa các phân tử ion bạc kháng khuẩn.",
-        "Vì nước nóng có thể làm tăng chỉ số IQ của não bộ.",
         "Vì bạn cảm nhận trọn vẹn sự ấm áp của làn nước, mùi thơm của sữa tắm và cảm giác gột rửa mọi bụi bặm và mệt mỏi tích tụ trong ngày bằng tất cả các giác quan.",
-        "Vì tắm lâu giúp bạn không phải làm việc nhà."
+        "Vì tắm lâu giúp bạn không phải làm việc nhà.",
+        "Vì nước nóng có thể làm tăng chỉ số IQ của não bộ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Tắm trong chánh niệm biến một hành vi vệ sinh thường ngày thành một nghi thức tự chăm sóc và nuôi dưỡng thân tâm đầy yêu thương."
     },
     {

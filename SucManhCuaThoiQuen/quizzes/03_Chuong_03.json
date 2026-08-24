@@ -9,23 +9,23 @@
       "question": "Theo 'Nguyên tắc vàng để thay đổi thói quen' (The Golden Rule of Habit Change), quy trình nào sau đây là chính xác và bền vững nhất?",
       "options": [
         "Dùng ý chí đè bẹp cả Gợi ý, Hoạt động thường nhật và Phần thưởng cùng một lúc.",
-        "Chuyển đến một môi trường hoàn toàn cô lập để xóa sạch mọi ký ức về thói quen cũ.",
         "Giữ nguyên Gợi ý cũ, giữ nguyên Phần thưởng cũ, nhưng chèn vào một Hoạt động thường nhật (Routine) mới.",
-        "Thay đổi Gợi ý liên tục mỗi ngày và từ chối mọi loại Phần thưởng."
+        "Thay đổi Gợi ý liên tục mỗi ngày và từ chối mọi loại Phần thưởng.",
+        "Chuyển đến một môi trường hoàn toàn cô lập để xóa sạch mọi ký ức về thói quen cũ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Quy tắc vàng chỉ ra rằng bạn không thể dập tắt một thói quen xấu; bạn chỉ có thể biến đổi nó bằng cách giữ nguyên tín hiệu kích hoạt (Cue) và cảm giác thỏa mãn mong muốn (Reward), nhưng thay thế hành động thường nhật (Routine) ở giữa."
     },
     {
       "id": "q2",
       "question": "Huấn luyện viên Tony Dungy đã áp dụng nguyên tắc vàng của thói quen như thế nào để vực dậy đội bóng yếu kém Tampa Bay Buccaneers?",
       "options": [
+        "Bắt các cầu thủ học thuộc lòng hơn 500 chiến thuật phức tạp mới mỗi tuần.",
         "Rút gọn sơ đồ thi đấu, huấn luyện các cầu thủ phản ứng tự động trước một số ít tín hiệu gợi ý thị giác trên sân để họ hành động theo thói quen nhanh hơn đối thủ mà không cần đắn đo suy nghĩ.",
         "Thay thế toàn bộ đội hình bằng các cầu thủ ngôi sao từ giải bóng đá châu Âu.",
-        "Bắt các cầu thủ học thuộc lòng hơn 500 chiến thuật phức tạp mới mỗi tuần.",
         "Ép các cầu thủ tập luyện thể lực 18 tiếng mỗi ngày không nghỉ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Dungy nhận ra rằng việc đắn đo suy nghĩ trên sân cỏ làm cầu thủ chậm lại một phần tích tắc. Ông huấn luyện họ tự động hóa phản xạ trước các tín hiệu gợi ý cụ thể để đưa ra hành động thường nhật chuẩn xác với tốc độ tối đa."
     },
     {
@@ -44,24 +44,24 @@
       "id": "q4",
       "question": "Yếu tố quan trọng nào đóng vai trò quyết định giúp một người duy trì thói quen mới khi gặp phải những biến cố hoặc khủng hoảng cực độ trong cuộc sống?",
       "options": [
-        "Khả năng chịu đựng đau đớn thể xác vượt trội.",
-        "Một khoản tiền thưởng tài chính lớn hứa hẹn trong tương lai.",
+        "Niềm tin (Belief) – niềm tin rằng mọi chuyện sẽ tốt đẹp hơn và tin rằng mình thực sự có khả năng thay đổi, thường được củng cố mạnh mẽ nhất trong một cộng đồng hoặc nhóm hỗ trợ.",
         "Việc quên đi toàn bộ những sai lầm đã phạm phải trong quá khứ.",
-        "Niềm tin (Belief) – niềm tin rằng mọi chuyện sẽ tốt đẹp hơn và tin rằng mình thực sự có khả năng thay đổi, thường được củng cố mạnh mẽ nhất trong một cộng đồng hoặc nhóm hỗ trợ."
+        "Một khoản tiền thưởng tài chính lớn hứa hẹn trong tương lai.",
+        "Khả năng chịu đựng đau đớn thể xác vượt trội."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Khi áp lực và khủng hoảng ập đến, các thói quen cũ rất dễ trỗi dậy. Nghiên cứu chứng minh rằng 'Niềm tin' (được tôi luyện trong một môi trường cộng đồng) là thành tố cốt tử giúp cá nhân tin rằng mình có thể vượt qua cám dỗ mà không cần quay lại thói quen cũ."
     },
     {
       "id": "q5",
       "question": "Tại sao đội bóng của Tony Dungy thường chơi rất hay ở vòng bảng nhưng lại bất ngờ gục ngã ở các trận đấu Play-off quyết định trong những năm đầu?",
       "options": [
-        "Vì các cầu thủ bị thiếu hụt dinh dưỡng trầm trọng trước trận đấu.",
         "Vì đối thủ gian lận bằng cách nghe trộm chiến thuật của đội.",
+        "Vì khi áp lực trận đấu lên đến đỉnh điểm nghẹt thở, các cầu thủ mất niềm tin vào hệ thống thói quen mới và quay lại lối tư duy cũ, đắn đo suy nghĩ dẫn đến mắc sai lầm.",
         "Vì sân đấu Play-off có kích thước lớn hơn sân đấu thông thường.",
-        "Vì khi áp lực trận đấu lên đến đỉnh điểm nghẹt thở, các cầu thủ mất niềm tin vào hệ thống thói quen mới và quay lại lối tư duy cũ, đắn đo suy nghĩ dẫn đến mắc sai lầm."
+        "Vì các cầu thủ bị thiếu hụt dinh dưỡng trầm trọng trước trận đấu."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Dưới áp lực tột độ của trận play-off, các cầu thủ chưa có đủ 'Niềm tin' sắt đá vào thói quen mới nên đã vô thức nghi ngờ và quay lại cách xử lý cũ có tính toán, làm chậm nhịp độ và nhận thất bại."
     },
     {
@@ -104,10 +104,10 @@
       "id": "q9",
       "question": "Nếu một người có thói quen ăn đồ ngọt mỗi khi bị stress trong công việc, bước can thiệp đúng đắn nhất theo Nguyên tắc vàng là gì?",
       "options": [
-        "Bỏ việc ngay lập tức để không bao giờ bị stress nữa.",
-        "Giữ nguyên Gợi ý (nhận biết khi nào cơ thể bị stress) và Phần thưởng (cần sự thư giãn, xoa dịu), nhưng thay thế việc ăn bánh ngọt bằng việc đi bộ 5 phút, uống trà hoa cúc hoặc trò chuyện với bạn bè.",
         "Tự tát vào mặt mỗi khi nghĩ đến bánh ngọt.",
-        "Cố gắng chịu đựng cơn stress mà không làm gì cho đến khi kiệt sức."
+        "Giữ nguyên Gợi ý (nhận biết khi nào cơ thể bị stress) và Phần thưởng (cần sự thư giãn, xoa dịu), nhưng thay thế việc ăn bánh ngọt bằng việc đi bộ 5 phút, uống trà hoa cúc hoặc trò chuyện với bạn bè.",
+        "Cố gắng chịu đựng cơn stress mà không làm gì cho đến khi kiệt sức.",
+        "Bỏ việc ngay lập tức để không bao giờ bị stress nữa."
       ],
       "correctIndex": 1,
       "explanation": "Bạn không thể triệt tiêu cảm giác stress (Gợi ý) hay nhu cầu được xoa dịu (Phần thưởng); giải pháp là tìm một hành động thường nhật lành mạnh đáp ứng chính xác nhu cầu giải tỏa đó."
@@ -128,10 +128,10 @@
       "id": "q11",
       "question": "Tại sao việc cố gắng dùng 'ý chí thuần túy' để dập tắt một thói quen xấu (như hút thuốc) thường chỉ hiệu quả trong thời gian ngắn rồi lại tái nghiện?",
       "options": [
-        "Vì người hút thuốc không có lương tâm và đạo đức.",
+        "Vì thuốc lá có chứa các hạt kim loại nặng không thể đào thải ra ngoài.",
         "Vì gợi ý thần kinh và cơn thèm muốn phần thưởng vẫn còn nguyên vẹn trong hạch nền; khi ý chí suy giảm (do mệt mỏi hoặc căng thẳng), thói quen cũ sẽ lập tức tái kích hoạt nếu không có hành vi thay thế.",
-        "Vì phổi tự động đòi hỏi khói thuốc sau mỗi 24 giờ.",
-        "Vì thuốc lá có chứa các hạt kim loại nặng không thể đào thải ra ngoài."
+        "Vì người hút thuốc không có lương tâm và đạo đức.",
+        "Vì phổi tự động đòi hỏi khói thuốc sau mỗi 24 giờ."
       ],
       "correctIndex": 1,
       "explanation": "Thói quen không thể bị tiêu diệt hoàn toàn; nếu bạn chỉ đè nén mà không cung cấp một lối thoát hành vi mới mang lại phần thưởng tương đương, mạch thói quen cũ sẽ bùng phát ngay khi bạn kiệt sức."
@@ -152,34 +152,34 @@
       "id": "q13",
       "question": "Khi nào việc thay đổi thói quen trở thành một phần vĩnh viễn trong căn tính (identity) của một người?",
       "options": [
-        "Khi họ đạt được tuổi 60.",
         "Khi người đó chi trả hơn 100.000 USD cho các khóa học phát triển bản thân.",
+        "Khi họ không chỉ thực hiện hành vi mới một cách máy móc, mà thực sự tin rằng 'mình là kiểu người đó' (ví dụ: 'Tôi là một người không uống rượu' thay vì 'Tôi đang cố nhịn rượu').",
         "Khi họ chuyển đổi quốc tịch sang một nước phát triển hơn.",
-        "Khi họ không chỉ thực hiện hành vi mới một cách máy móc, mà thực sự tin rằng 'mình là kiểu người đó' (ví dụ: 'Tôi là một người không uống rượu' thay vì 'Tôi đang cố nhịn rượu')."
+        "Khi họ đạt được tuổi 60."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sự chuyển hóa sâu sắc nhất diễn ra khi thói quen gắn liền với căn tính và niềm tin cá nhân; khi một người tin rằng sự thay đổi là một phần bản chất của mình, thói quen sẽ trở nên bất khả xâm phạm."
     },
     {
       "id": "q14",
       "question": "Điều gì chứng minh phương pháp của Tony Dungy không chỉ đúng trong thể thao mà còn đúng trong quản trị doanh nghiệp?",
       "options": [
-        "Mọi nhân viên đều thích chơi bóng bầu dục trong giờ làm việc.",
         "Doanh nghiệp không cần thuê nhân sự có trình độ cao nếu có thói quen.",
-        "Dungy đã trở thành triệu phú nhờ bán bản quyền sách dạy bóng đá.",
-        "Các tổ chức hàng đầu đều chuẩn hóa quy trình phản ứng tự động trước các tín hiệu thị trường và khủng hoảng để nhân viên ra quyết định chuẩn xác với tốc độ cao nhất."
+        "Mọi nhân viên đều thích chơi bóng bầu dục trong giờ làm việc.",
+        "Các tổ chức hàng đầu đều chuẩn hóa quy trình phản ứng tự động trước các tín hiệu thị trường và khủng hoảng để nhân viên ra quyết định chuẩn xác với tốc độ cao nhất.",
+        "Dungy đã trở thành triệu phú nhờ bán bản quyền sách dạy bóng đá."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Trong kinh doanh cũng như thể thao, việc xây dựng các thói quen phản xạ tự động trước tín hiệu thực tế giúp đội ngũ hành động nhanh hơn, nhất quán hơn và giảm thiểu sai sót do do dự."
     },
     {
       "id": "q15",
       "question": "Thông điệp cốt lõi từ Chương 3 có thể tóm gọn lại là gì?",
       "options": [
-        "Cách tốt nhất để bỏ rượu là uống cà phê thật nhiều.",
+        "Nếu bạn có một thói quen xấu, bạn là kẻ thất bại không có cơ hội làm lại.",
         "Bạn không thể dập tắt thói quen xấu mà phải chuyển hóa nó; và để thói quen mới bền vững qua giông bão, bạn cần Niềm tin được nâng đỡ bởi một Cộng đồng.",
-        "Chỉ có những người theo tôn giáo mới có thể từ bỏ được thói quen xấu.",
-        "Nếu bạn có một thói quen xấu, bạn là kẻ thất bại không có cơ hội làm lại."
+        "Cách tốt nhất để bỏ rượu là uống cà phê thật nhiều.",
+        "Chỉ có những người theo tôn giáo mới có thể từ bỏ được thói quen xấu."
       ],
       "correctIndex": 1,
       "explanation": "Công thức biến đổi toàn diện: Áp dụng Nguyên tắc vàng (thay thế hoạt động thường nhật) + Xây dựng Niềm tin sắt đá + Tìm kiếm một Cộng đồng đồng hành hỗ trợ."

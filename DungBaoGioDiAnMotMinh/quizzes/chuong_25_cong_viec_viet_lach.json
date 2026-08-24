@@ -44,24 +44,24 @@
       "id": "q4",
       "question": "Khi bạn xuất bản một bài viết chuyên môn trên báo chí, bạn nên sử dụng nó như một công cụ kết nối như thế nào?",
       "options": [
-        "Đem bài báo đó đi đóng khung và treo lên tường nhà riêng.",
-        "Yêu cầu tất cả nhân viên trong công ty phải mua 10 tờ báo đó về nhà đọc.",
         "Gửi hóa đơn yêu cầu các đối tác phải trả tiền đọc bài báo cho bạn.",
-        "Gửi bài viết đó cho các khách hàng mục tiêu, các lãnh đạo cấp cao kèm theo một lời nhắn cá nhân hóa: 'Tôi vừa xuất bản bài phân tích này và nghĩ ngay đến dự án của anh'."
+        "Gửi bài viết đó cho các khách hàng mục tiêu, các lãnh đạo cấp cao kèm theo một lời nhắn cá nhân hóa: 'Tôi vừa xuất bản bài phân tích này và nghĩ ngay đến dự án của anh'.",
+        "Đem bài báo đó đi đóng khung và treo lên tường nhà riêng.",
+        "Yêu cầu tất cả nhân viên trong công ty phải mua 10 tờ báo đó về nhà đọc."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Bài viết là 'cái cớ' hoàn hảo và trang trọng nhất để bạn liên lạc lại với những nhân vật quan trọng trong danh bạ mục tiêu một cách đầy giá trị."
     },
     {
       "id": "q5",
       "question": "Một người tự nhận mình 'không có khiếu văn chương' có thể bắt đầu viết lách như thế nào?",
       "options": [
-        "Sử dụng phần mềm tự động sao chép bài viết của người khác rồi đổi tên tác giả.",
         "Bắt đầu bằng việc viết những bài đúc kết kinh nghiệm ngắn gọn (500 từ), tập trung vào sự chân thành và giải pháp thực tế thay vì dùng câu từ hoa mỹ rườm rà.",
         "Bỏ cuộc ngay lập tức và không bao giờ thử viết bất kỳ điều gì.",
+        "Sử dụng phần mềm tự động sao chép bài viết của người khác rồi đổi tên tác giả.",
         "Học thuộc lòng toàn bộ từ điển tiếng Việt trước khi bắt đầu viết câu đầu tiên."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Viết lách trong kinh doanh không cần văn chương bay bướm; sự rõ ràng, súc tích và giá trị thực tiễn là yếu tố duy nhất quyết định sự thành công."
     },
     {
@@ -80,24 +80,24 @@
       "id": "q7",
       "question": "Thói quen 'Ghi chép ý tưởng mỗi ngày' (Idea Journaling) hỗ trợ công việc viết lách như thế nào?",
       "options": [
-        "Là tài liệu bắt buộc phải nộp cho cơ quan thuế hàng năm.",
-        "Tích lũy liên tục các mẩu chuyện thực tế, những câu nói đắt giá và các bài học đời thường, tạo nên một kho nguyên liệu khổng lồ khi bắt tay vào viết sách.",
+        "Giúp bạn không bao giờ bị mất trí nhớ khi về già.",
         "Giúp bạn kiểm tra xem nhân viên có đang nói xấu mình hay không.",
-        "Giúp bạn không bao giờ bị mất trí nhớ khi về già."
+        "Tích lũy liên tục các mẩu chuyện thực tế, những câu nói đắt giá và các bài học đời thường, tạo nên một kho nguyên liệu khổng lồ khi bắt tay vào viết sách.",
+        "Là tài liệu bắt buộc phải nộp cho cơ quan thuế hàng năm."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Cảm hứng xuất hiện bất ngờ nhưng nhanh chóng vụt tắt; ghi chép ngay lập tức giúp bảo tồn những hạt ngọc ý tưởng quý giá cho tương lai."
     },
     {
       "id": "q8",
       "question": "Lợi ích bất ngờ của việc 'phỏng vấn các chuyên gia đầu ngành để đưa vào bài viết của bạn' là gì?",
       "options": [
+        "Cung cấp cho bạn một lý do chính đáng và chuyên nghiệp để tiếp cận, trò chuyện và xây dựng mối quan hệ thân tình với những nhân vật quyền lực nhất.",
         "Giúp bạn không phải tự mình suy nghĩ nội dung cho bài viết.",
         "Bắt buộc các chuyên gia đó phải trả tiền thù lao phỏng vấn cho bạn.",
-        "Cung cấp cho bạn một lý do chính đáng và chuyên nghiệp để tiếp cận, trò chuyện và xây dựng mối quan hệ thân tình với những nhân vật quyền lực nhất.",
         "Là cách duy nhất để được cấp thẻ nhà báo quốc tế."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Viết lách là chiếc vé thông hành tuyệt hảo: khi bạn đề nghị phỏng vấn để tôn vinh trí tuệ của họ, 90% các chuyên gia lớn sẽ hào hứng mở cửa đón bạn."
     },
     {
@@ -152,12 +152,12 @@
       "id": "q13",
       "question": "Khi bạn nhận được những phản hồi trái chiều hoặc chỉ trích từ độc giả về bài viết của mình, thái độ đúng đắn là gì?",
       "options": [
-        "Xóa vĩnh viễn toàn bộ các bài viết đã xuất bản và không bao giờ viết lại.",
-        "Lắng nghe với tinh thần cởi mở, cảm ơn vì họ đã dành thời gian đọc và phản biện, đồng thời dùng các luận điểm đó để hoàn thiện sâu sắc hơn tư duy của mình.",
+        "Viết bài công kích và xúc phạm cá nhân những độc giả có ý kiến trái chiều.",
         "Thuê luật sư khởi kiện tất cả những ai để lại bình luận phản biện.",
-        "Viết bài công kích và xúc phạm cá nhân những độc giả có ý kiến trái chiều."
+        "Lắng nghe với tinh thần cởi mở, cảm ơn vì họ đã dành thời gian đọc và phản biện, đồng thời dùng các luận điểm đó để hoàn thiện sâu sắc hơn tư duy của mình.",
+        "Xóa vĩnh viễn toàn bộ các bài viết đã xuất bản và không bao giờ viết lại."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tranh luận học thuật văn minh là mảnh đất màu mỡ thúc đẩy sự tiến bộ của tri thức; người có tầm vóc luôn trân trọng những lời phản biện sắc sảo."
     },
     {
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Thông điệp đúc kết của chương 25 gửi gắm đến mỗi chuyên gia là gì?",
       "options": [
+        "Hãy cầm bút lên và viết; tri thức của bạn xứng đáng được chia sẻ, và những trang viết hôm nay sẽ là di sản soi đường cho muôn người ngày mai.",
         "Chỉ có những người già mới nên viết sách chia sẻ kinh nghiệm.",
         "Viết lách là một công việc lãng phí thời gian và không đem lại giá trị kinh tế.",
-        "Hãy cầm bút lên và viết; tri thức của bạn xứng đáng được chia sẻ, và những trang viết hôm nay sẽ là di sản soi đường cho muôn người ngày mai.",
         "Hãy giữ kín mọi bí quyết thành công trong đầu và không bao giờ chia sẻ cho ai."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Ngòi bút là vũ khí khai sáng vĩ đại nhất; khi bạn dám viết ra những bài học tâm huyết của cuộc đời, bạn đang bất tử hóa giá trị của chính mình."
     }
   ]

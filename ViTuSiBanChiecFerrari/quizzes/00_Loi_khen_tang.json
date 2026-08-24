@@ -8,24 +8,24 @@
       "id": "q1",
       "question": "Lời khen ngợi từ các chuyên gia phát triển bản thân trên toàn cầu khẳng định giá trị vượt bậc nào của cuốn sách?",
       "options": [
-        "Cuốn sách đưa ra các mẹo làm giàu nhanh chóng trong thời gian ngắn nhất.",
-        "Cuốn sách có thiết kế bìa sang trọng và sử dụng chất liệu giấy đắt tiền.",
         "Khả năng chuyển hóa nhận thức sâu sắc kết hợp với những công cụ thực hành đơn giản, giúp độc giả tạo ra sự thay đổi bền vững trong cuộc sống.",
-        "Cuốn sách chỉ phù hợp cho các nhà nghiên cứu học thuật chuyên sâu về tôn giáo cổ đại."
+        "Cuốn sách chỉ phù hợp cho các nhà nghiên cứu học thuật chuyên sâu về tôn giáo cổ đại.",
+        "Cuốn sách có thiết kế bìa sang trọng và sử dụng chất liệu giấy đắt tiền.",
+        "Cuốn sách đưa ra các mẹo làm giàu nhanh chóng trong thời gian ngắn nhất."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Các nhà phê bình đánh giá cao sự kết hợp hoàn hảo giữa triết lý nhân sinh cao đẹp và các bài tập hành động hàng ngày dễ áp dụng."
     },
     {
       "id": "q2",
       "question": "Tại sao các nhà lãnh đạo doanh nghiệp hàng đầu lại khuyến đọc cuốn sách này cho nhân viên của họ?",
       "options": [
+        "Vì cuốn sách hướng dẫn cách cắt giảm chi phí sản xuất một cách tối đa.",
         "Để yêu cầu nhân viên bán hết tài sản cá nhân và làm việc không nhận lương.",
         "Để thay thế hoàn toàn các khóa đào tạo chuyên môn kỹ thuật trong công ty.",
-        "Vì cuốn sách giúp xây dựng năng lực tự lãnh đạo (Self-Leadership), nâng cao kỷ luật, sự tập trung và giảm thiểu tình trạng kiệt quệ do áp lực công việc.",
-        "Vì cuốn sách hướng dẫn cách cắt giảm chi phí sản xuất một cách tối đa."
+        "Vì cuốn sách giúp xây dựng năng lực tự lãnh đạo (Self-Leadership), nâng cao kỷ luật, sự tập trung và giảm thiểu tình trạng kiệt quệ do áp lực công việc."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Một nhân viên biết làm chủ tâm trí, quản lý thời gian và sống có mục đích sẽ trở thành một nhân sự xuất sắc và cống hiến bền bỉ cho tổ chức."
     },
     {
@@ -33,9 +33,9 @@
       "question": "Sự đón nhận nồng nhiệt từ hàng triệu độc giả ở hơn 70 quốc gia chứng minh điều gì về những vấn đề mà cuốn sách giải quyết?",
       "options": [
         "Nỗi bất an, sự căng thẳng và khao khát tìm kiếm ý nghĩa cuộc sống là những vấn đề mang tính phổ quát của toàn nhân loại thời hiện đại.",
-        "Độc giả trên thế giới chỉ thích đọc những câu chuyện thần thoại huyền bí.",
         "Mọi quốc gia đều có cùng một hệ thống pháp luật giống hệt nhau.",
-        "Văn hóa đọc sách giấy đang dần lấn át hoàn toàn các phương tiện kỹ thuật số."
+        "Văn hóa đọc sách giấy đang dần lấn át hoàn toàn các phương tiện kỹ thuật số.",
+        "Độc giả trên thế giới chỉ thích đọc những câu chuyện thần thoại huyền bí."
       ],
       "correctIndex": 0,
       "explanation": "Dù ở bất kỳ nền văn hóa nào, con người hiện đại đều phải đối mặt với áp lực mất cân bằng và đều khao khát bình an và hạnh phúc đích thực."
@@ -46,18 +46,18 @@
       "options": [
         "Người đọc không nên cho người khác mượn sách vì sách rất dễ bị rách.",
         "Tác giả yêu cầu độc giả phải học thuộc lòng từng câu từng chữ trước khi đi ngủ.",
-        "Các bài học trong sách có tầng bậc ý nghĩa sâu sắc; ở mỗi giai đoạn trưởng thành, độc giả sẽ ngộ ra những tầng nhận thức mới.",
-        "Cuốn sách quá khó hiểu nên người đọc buộc phải đọc lại nhiều lần mới nắm được cốt truyện."
+        "Cuốn sách quá khó hiểu nên người đọc buộc phải đọc lại nhiều lần mới nắm được cốt truyện.",
+        "Các bài học trong sách có tầng bậc ý nghĩa sâu sắc; ở mỗi giai đoạn trưởng thành, độc giả sẽ ngộ ra những tầng nhận thức mới."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Tri thức trong sách là tri thức sống; khi mức độ trải nghiệm của bạn tăng lên, bạn sẽ thấy các nguyên tắc của Robin Sharma càng trở nên sáng rõ và màu nhiệm."
     },
     {
       "id": "q5",
       "question": "Điều gì tạo nên sự khác biệt giữa 'Vị Tu Sĩ Bán Chiếc Ferrari' với hàng ngàn cuốn sách kỹ năng làm giàu thông thường?",
       "options": [
-        "Cuốn sách hướng dẫn chi tiết cách đầu tư vào cổ phiếu của các hãng siêu xe.",
         "Cuốn sách chỉ tập trung vào các mẹo đàm phán trong ngành bất động sản.",
+        "Cuốn sách hướng dẫn chi tiết cách đầu tư vào cổ phiếu của các hãng siêu xe.",
         "Cuốn sách định nghĩa lại sự giàu có thực sự: không chỉ là tiền bạc trong tài khoản mà là sự giàu có về tâm hồn, sức khỏe, trí tuệ và sự cống hiến.",
         "Cuốn sách phê phán và lên án tất cả những ai sở hữu tài sản lớn."
       ],
@@ -68,24 +68,24 @@
       "id": "q6",
       "question": "Ý kiến khen tặng nào sau đây phản ánh chính xác nhất tác động của cuốn sách đối với sức khỏe tinh thần của độc giả?",
       "options": [
-        "Cuốn sách mang lại cảm giác hưng phấn nhất thời nhưng không để lại giá trị lâu dài.",
-        "Cuốn sách như một liều thuốc giải độc cho tâm trí đang bị quá tải, giúp người đọc tìm lại sự tĩnh lặng và tái tạo nguồn năng lượng sống tích cực.",
+        "Cuốn sách giúp người đọc chữa khỏi mọi bệnh tật thể xác mà không cần đến bệnh viện.",
         "Cuốn sách yêu cầu người đọc phải ngừng suy nghĩ và từ bỏ mọi tham vọng nghề nghiệp.",
-        "Cuốn sách giúp người đọc chữa khỏi mọi bệnh tật thể xác mà không cần đến bệnh viện."
+        "Cuốn sách như một liều thuốc giải độc cho tâm trí đang bị quá tải, giúp người đọc tìm lại sự tĩnh lặng và tái tạo nguồn năng lượng sống tích cực.",
+        "Cuốn sách mang lại cảm giác hưng phấn nhất thời nhưng không để lại giá trị lâu dài."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Bằng các phương pháp như suy nghĩ đối lập, tĩnh lặng và chánh niệm, tác phẩm giúp độc giả giải tỏa căng thẳng và thiết lập lại sự an lạc nội tâm."
     },
     {
       "id": "q7",
       "question": "Tại sao các chuyên gia tâm lý học lại đánh giá cao phương pháp 'Suy nghĩ đối lập' (Oppositional Thinking) được giới thiệu trong sách?",
       "options": [
-        "Vì phương pháp này chỉ cần thực hiện một lần duy nhất trong đời.",
-        "Vì nó chứng minh rằng suy nghĩ tiêu cực hoàn toàn không gây hại gì cho sức khỏe.",
+        "Vì nó khuyến khích con người luôn luôn tranh cãi và phản bác lại ý kiến của người khác.",
         "Vì não bộ chỉ có thể chứa một ý nghĩ tại một thời điểm; khi bạn chủ động thay thế ý nghĩ tiêu cực bằng ý nghĩ tích cực, sự lo âu sẽ lập tức bị triệt tiêu.",
-        "Vì nó khuyến khích con người luôn luôn tranh cãi và phản bác lại ý kiến của người khác."
+        "Vì phương pháp này chỉ cần thực hiện một lần duy nhất trong đời.",
+        "Vì nó chứng minh rằng suy nghĩ tiêu cực hoàn toàn không gây hại gì cho sức khỏe."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Đây là nguyên lý tâm lý học thực chứng: tâm trí không thể đồng thời vừa tràn ngập sợ hãi vừa chan chứa niềm tin; người làm chủ tâm trí là người biết thay hạt giống tư duy."
     },
     {
@@ -94,82 +94,82 @@
       "options": [
         "Hiệu quả thần kỳ của một loại biệt dược chống lão hóa độc quyền tại Ấn Độ.",
         "Kết quả của một ca phẫu thuật thẩm mỹ thành công vượt bậc.",
-        "Một màn kịch đóng giả do người khác dàn dựng để lừa gạt bạn bè cũ.",
-        "Sức mạnh tái sinh kỳ diệu của con người khi thay đổi toàn diện từ tư duy, lối sống, dinh dưỡng đến lý tưởng phụng sự."
+        "Sức mạnh tái sinh kỳ diệu của con người khi thay đổi toàn diện từ tư duy, lối sống, dinh dưỡng đến lý tưởng phụng sự.",
+        "Một màn kịch đóng giả do người khác dàn dựng để lừa gạt bạn bè cũ."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Sự thay đổi ngoại hình của Julian là minh chứng sống động rằng nội tâm an lạc, thanh tịnh và tràn đầy sinh khí sẽ tự khắc tỏa sáng ra diện mạo bên ngoài."
     },
     {
       "id": "q9",
       "question": "Lời khen tặng dành cho 10 Nghi thức sống rực rỡ nhấn mạnh ưu điểm nổi bật nào của bộ công cụ này?",
       "options": [
+        "Đòi hỏi phải mua sắm nhiều thiết bị tập luyện đắt tiền.",
         "Cần phải có sự giám sát liên tục của các chuyên gia tâm lý có chứng chỉ.",
         "Tính khả thi cao, không tốn kém chi phí, có thể thực hiện ở bất kỳ đâu và mang lại hiệu quả chuyển biến ngay lập tức.",
-        "Chỉ những người sống độc thân mới có đủ thời gian để thực hiện.",
-        "Đòi hỏi phải mua sắm nhiều thiết bị tập luyện đắt tiền."
+        "Chỉ những người sống độc thân mới có đủ thời gian để thực hiện."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "10 nghi thức (như dậy sớm ngắm bình minh, đọc sách hay, ăn thực phẩm tươi sống, tĩnh lặng...) là những thói quen giản dị mà bất kỳ ai cũng có thể bắt đầu ngay hôm nay."
     },
     {
       "id": "q10",
       "question": "Tại sao cuốn sách được xem là một hiện tượng xuất bản toàn cầu có sức sống bền bỉ qua nhiều thập kỷ?",
       "options": [
+        "Vì tác giả liên tục chi tiền cho các chiến dịch quảng cáo rầm rộ trên mạng xã hội.",
         "Vì thông điệp của sách chạm đúng vào những chân lý vĩnh cửu về bản chất con người, không bị lỗi thời trước sự biến đổi của công nghệ.",
-        "Vì không có bất kỳ tác giả nào khác viết về đề tài phát triển bản thân.",
         "Vì cuốn sách được các trường học bắt buộc học sinh phải mua làm tài liệu thi cử.",
-        "Vì tác giả liên tục chi tiền cho các chiến dịch quảng cáo rầm rộ trên mạng xã hội."
+        "Vì không có bất kỳ tác giả nào khác viết về đề tài phát triển bản thân."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Những quy luật tự nhiên về tâm trí, kỷ luật, thời gian và lòng trắc ẩn là bất biến; dù xã hội phát triển đến đâu, con người vẫn luôn cần đến những giá trị này."
     },
     {
       "id": "q11",
       "question": "Độc giả tiếp nhận được bài học quan trọng nào về 'Nghệ thuật buông bỏ' qua các lời bình phẩm tác phẩm?",
       "options": [
-        "Buông bỏ là việc vứt bỏ mọi giấy tờ tùy thân và cắt đứt liên lạc với gia đình.",
         "Buông bỏ đồng nghĩa với việc đầu hàng số phận và chấp nhận nghèo khó suốt đời.",
         "Buông bỏ không phải là mất đi tất cả, mà là giải phóng bản thân khỏi những điều tầm thường để đón nhận những giá trị vĩ đại hơn.",
-        "Buông bỏ chỉ áp dụng cho những người đã già yếu và không còn khả năng lao động."
+        "Buông bỏ chỉ áp dụng cho những người đã già yếu và không còn khả năng lao động.",
+        "Buông bỏ là việc vứt bỏ mọi giấy tờ tùy thân và cắt đứt liên lạc với gia đình."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Julian buông bỏ chiếc Ferrari và danh vọng ảo để nhận lại sức khỏe phi thường, trí tuệ uyên thâm và hạnh phúc đích thực không gì lay chuyển."
     },
     {
       "id": "q12",
       "question": "Mối tương quan giữa 'Kỷ luật tự giác' và 'Sự tự do đích thực' được các nhà bình luận rút ra từ cuốn sách là gì?",
       "options": [
-        "Kỷ luật và tự do là hai khái niệm hoàn toàn triệt tiêu lẫn nhau.",
-        "Tự do đích thực là được làm bất cứ điều gì mình thích mà không cần quan tâm đến hậu quả.",
+        "Kỷ luật không phải là sự gò bó ép buộc mà là con đường duy nhất dẫn đến sự tự do nội tâm và làm chủ số phận.",
         "Người có kỷ luật là người hoàn toàn mất đi sự tự do lựa chọn trong cuộc sống.",
-        "Kỷ luật không phải là sự gò bó ép buộc mà là con đường duy nhất dẫn đến sự tự do nội tâm và làm chủ số phận."
+        "Tự do đích thực là được làm bất cứ điều gì mình thích mà không cần quan tâm đến hậu quả.",
+        "Kỷ luật và tự do là hai khái niệm hoàn toàn triệt tiêu lẫn nhau."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Chỉ khi bạn làm chủ được những thôi thúc bản năng, sự lười biếng và cám dỗ nhất thời, bạn mới thực sự là người tự do tự tại điều khiển cuộc đời mình."
     },
     {
       "id": "q13",
       "question": "Lời khen tặng từ các nhà giáo dục đánh giá cuốn sách có đóng góp gì cho thế hệ trẻ?",
       "options": [
-        "Giúp người trẻ định hình nhân cách vững vàng, xây dựng thói quen tốt từ sớm và không bị cuốn vào lối sống hưởng thụ thực dụng mù quáng.",
-        "Khuyên học sinh sinh viên nên bỏ học đại học để đi du lịch khám phá.",
         "Khẳng định rằng bằng cấp học thuật là yếu tố duy nhất quyết định sự thành đạt.",
-        "Dạy cho người trẻ các chiêu thức lươn lẹo trong quan hệ công việc để thăng tiến nhanh."
+        "Giúp người trẻ định hình nhân cách vững vàng, xây dựng thói quen tốt từ sớm và không bị cuốn vào lối sống hưởng thụ thực dụng mù quáng.",
+        "Dạy cho người trẻ các chiêu thức lươn lẹo trong quan hệ công việc để thăng tiến nhanh.",
+        "Khuyên học sinh sinh viên nên bỏ học đại học để đi du lịch khám phá."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Cuốn sách là chiếc la bàn đạo đức và nhân cách cho thế hệ trẻ, giúp họ xây dựng nội lực vững vàng trước những cám dỗ của thế giới hiện đại."
     },
     {
       "id": "q14",
       "question": "Tại sao hình tượng nhân vật John (người nghe chuyện) lại nhận được sự đồng cảm sâu sắc từ độc giả?",
       "options": [
-        "Vì John đại diện cho người bình thường trong xã hội: có gia đình, có gánh nặng cơm áo gạo tiền, có những hoài nghi nhưng khao khát vươn lên.",
         "Vì John là một chuyên gia tâm lý học đã nắm rõ mọi bí quyết của phương Đông.",
-        "Vì John hoàn toàn không có bất kỳ băn khoăn hay câu hỏi thắc mắc nào trong suốt cuộc trò chuyện.",
-        "Vì John là một vị triệu phú giàu có hơn cả Julian Mantle."
+        "Vì John đại diện cho người bình thường trong xã hội: có gia đình, có gánh nặng cơm áo gạo tiền, có những hoài nghi nhưng khao khát vươn lên.",
+        "Vì John là một vị triệu phú giàu có hơn cả Julian Mantle.",
+        "Vì John hoàn toàn không có bất kỳ băn khoăn hay câu hỏi thắc mắc nào trong suốt cuộc trò chuyện."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Những câu hỏi băn khoăn, nghi ngại rất thực tế của John chính là tiếng lòng của độc giả, giúp câu chuyện trở nên gần gũi và giàu tính thuyết phục."
     },
     {
@@ -177,11 +177,11 @@
       "question": "Tóm lại, thông điệp ngắn gọn và đắt giá nhất mà các lời khen tặng muốn truyền tải đến người cầm cuốn sách trên tay là gì?",
       "options": [
         "Hãy chờ đợi một cơ hội may mắn từ trên trời rơi xuống để đổi đời.",
-        "Hãy chấp nhận số phận hiện tại vì mọi cố gắng thay đổi đều rất đau đớn.",
         "Hãy dũng cảm bước vào hành trình làm chủ cuộc đời mình ngay hôm nay, bởi vì kho báu vĩ đại nhất đang nằm sẵn bên trong bạn.",
-        "Hãy tìm kiếm sự trợ giúp tài chính từ những người giàu có xung quanh bạn."
+        "Hãy tìm kiếm sự trợ giúp tài chính từ những người giàu có xung quanh bạn.",
+        "Hãy chấp nhận số phận hiện tại vì mọi cố gắng thay đổi đều rất đau đớn."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Sức mạnh chuyển hóa nằm ngay trong tầm tay bạn; mọi nguyên lý của Robin Sharma đều hướng đến việc đánh thức tiềm năng vô hạn đang ngủ quên trong mỗi con người."
     }
   ]

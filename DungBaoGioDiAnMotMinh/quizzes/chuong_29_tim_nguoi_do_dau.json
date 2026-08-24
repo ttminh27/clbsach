@@ -33,9 +33,9 @@
       "question": "Hình tượng Đệ nhất phu nhân Eleanor Roosevelt được phân tích trong chương này như một tấm gương vĩ đại về điều gì?",
       "options": [
         "Một người phụ nữ kiệt xuất đã không ngừng tìm kiếm các cố vấn trí tuệ vĩ đại để vượt qua bi kịch cá nhân, và sau đó trở thành người đỡ đầu che chở cho phong trào nhân quyền toàn cầu.",
-        "Một người phản đối mọi hoạt động cố vấn và đỡ đầu trong chính phủ Mỹ.",
         "Một chính trị gia chỉ lắng nghe ý kiến của các thành viên trong gia tộc Roosevelt.",
-        "Một phu nhân tổng thống chỉ tập trung vào việc tổ chức các buổi tiệc dạ hội xa hoa."
+        "Một phu nhân tổng thống chỉ tập trung vào việc tổ chức các buổi tiệc dạ hội xa hoa.",
+        "Một người phản đối mọi hoạt động cố vấn và đỡ đầu trong chính phủ Mỹ."
       ],
       "correctIndex": 0,
       "explanation": "Eleanor Roosevelt đã biến những nỗi đau đời mình thành suối nguồn trắc ẩn; bà nâng đỡ và trở thành điểm tựa tinh thần vĩ đại cho hàng triệu con người yếu thế trên thế giới."
@@ -45,9 +45,9 @@
       "question": "Sai lầm lớn nhất của những người trẻ khi đi tìm Mentor là gì?",
       "options": [
         "Tiếp cận với tâm thế của một kẻ chỉ biết đòi hỏi, xin xỏ thời gian và sự giúp đỡ mà không hề suy nghĩ xem mình có thể đóng góp hoặc mang lại giá trị gì cho Mentor.",
+        "Gửi email với tiêu đề quá ngắn gọn và lịch sự.",
         "Đọc tất cả các cuốn sách và bài viết do Mentor đã từng xuất bản trước khi gặp mặt.",
-        "Đến đúng giờ trong các buổi hẹn uống cà phê cùng Mentor.",
-        "Gửi email với tiêu đề quá ngắn gọn và lịch sự."
+        "Đến đúng giờ trong các buổi hẹn uống cà phê cùng Mentor."
       ],
       "correctIndex": 0,
       "explanation": "Mentorship là đường hai chiều: người được đỡ đầu phải mang lại nguồn năng lượng tươi mới, sự tận tụy hỗ trợ công việc và lòng trung thành phụng sự Mentor."
@@ -68,12 +68,12 @@
       "id": "q6",
       "question": "Nguyên tắc 'Hội đồng cố vấn cá nhân' (Personal Board of Advisors) khuyên bạn nên làm gì?",
       "options": [
-        "Thành lập một công ty cổ phần để trả lương hàng tháng cho các Mentor.",
         "Thuê 100 chuyên gia tư vấn nước ngoài về làm việc toàn thời gian cho bạn.",
-        "Xây dựng một nhóm 3-5 Mentor thuộc các lĩnh vực khác nhau (chiến lược sự nghiệp, tài chính, đời sống tinh thần, chuyên môn kỹ thuật) để có được những lời khuyên đa chiều.",
-        "Chỉ có một Mentor duy nhất trong suốt toàn bộ cuộc đời từ khi sinh ra đến khi chết."
+        "Thành lập một công ty cổ phần để trả lương hàng tháng cho các Mentor.",
+        "Chỉ có một Mentor duy nhất trong suốt toàn bộ cuộc đời từ khi sinh ra đến khi chết.",
+        "Xây dựng một nhóm 3-5 Mentor thuộc các lĩnh vực khác nhau (chiến lược sự nghiệp, tài chính, đời sống tinh thần, chuyên môn kỹ thuật) để có được những lời khuyên đa chiều."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Không ai am hiểu tất cả mọi thứ; đa dạng hóa các góc nhìn cố vấn giúp bạn có được một bức tranh toàn cảnh và đưa ra những quyết định sáng suốt nhất."
     },
     {
@@ -104,24 +104,24 @@
       "id": "q9",
       "question": "Khi bạn nhận được một lời khuyên thẳng thắn, đau đớn nhưng chính xác từ Mentor về một khuyết điểm của mình, thái độ đúng đắn là gì?",
       "options": [
+        "Khiêm tốn lắng nghe, cảm ơn Mentor vì đã dũng cảm nói lời sự thật, và lập tức đề ra kế hoạch hành động sửa đổi khuyết điểm đó một cách triệt để.",
         "Tức giận, tranh cãi và tuyên bố cắt đứt quan hệ với Mentor ngay lập tức.",
-        "Đăng bài viết lên mạng xã hội tố cáo Mentor đối xử bất công với mình.",
         "Bỏ cuộc vĩnh viễn và rơi vào trạng thái trầm cảm vì bị phê bình.",
-        "Khiêm tốn lắng nghe, cảm ơn Mentor vì đã dũng cảm nói lời sự thật, và lập tức đề ra kế hoạch hành động sửa đổi khuyết điểm đó một cách triệt để."
+        "Đăng bài viết lên mạng xã hội tố cáo Mentor đối xử bất công với mình."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Thuốc đắng dã tật, lời thật mất lòng; một Mentor dám chỉ ra điểm mù của bạn là báu vật vô giá giúp bạn tránh khỏi những vực thẳm sụp đổ sau này."
     },
     {
       "id": "q10",
       "question": "Điều gì là ranh giới phân biệt giữa 'Một Mentor chân chính' và 'Một kẻ thao túng, kiểm soát'?",
       "options": [
-        "Không có sự khác biệt; mọi mối quan hệ đỡ đầu đều mang tính kiểm soát.",
-        "Mentor chân chính luôn tôn trọng sự tự do ý chí, nâng đỡ bạn trở thành phiên bản tốt nhất của chính bạn; kẻ thao túng biến bạn thành bản sao phục tùng lợi ích của họ.",
         "Mentor chân chính luôn tặng tiền mặt cho học trò vào mỗi buổi sáng.",
-        "Kẻ thao túng là người bắt buộc bạn phải đọc sách mỗi ngày."
+        "Kẻ thao túng là người bắt buộc bạn phải đọc sách mỗi ngày.",
+        "Không có sự khác biệt; mọi mối quan hệ đỡ đầu đều mang tính kiểm soát.",
+        "Mentor chân chính luôn tôn trọng sự tự do ý chí, nâng đỡ bạn trở thành phiên bản tốt nhất của chính bạn; kẻ thao túng biến bạn thành bản sao phục tùng lợi ích của họ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Mục tiêu tối thượng của người thầy vĩ đại là giúp học trò vượt qua chính mình và bước đi vững vàng trên đôi chân độc lập của họ."
     },
     {
@@ -152,12 +152,12 @@
       "id": "q13",
       "question": "Tại sao việc 'không bao giờ nói xấu hoặc phản bội Mentor cũ' lại là nguyên tắc đạo đức thiêng liêng nhất?",
       "options": [
+        "Vì đạo lý tôn sư trọng đạo và sự trung thành là nền tảng của mọi mối quan hệ; kẻ phản bội người từng nâng đỡ mình sẽ bị toàn bộ thế giới kinh doanh tẩy chay.",
         "Vì Mentor cũ có quyền thu hồi lại toàn bộ bằng cấp của bạn.",
-        "Vì luật pháp hình sự quy định việc nói xấu Mentor là tội phản quốc.",
         "Vì các công ty bảo hiểm sẽ hủy bỏ hợp đồng nếu bạn nói xấu Mentor.",
-        "Vì đạo lý tôn sư trọng đạo và sự trung thành là nền tảng của mọi mối quan hệ; kẻ phản bội người từng nâng đỡ mình sẽ bị toàn bộ thế giới kinh doanh tẩy chay."
+        "Vì luật pháp hình sự quy định việc nói xấu Mentor là tội phản quốc."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Ăn quả nhớ kẻ trồng cây; lòng biết ơn và sự trung thủy trước sau như một là bảo chứng vàng son cho nhân cách của một nhà lãnh đạo chân chính."
     },
     {
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Chân lý thiêng liêng nhất của chương 29 có thể đúc kết thành bài học nào?",
       "options": [
-        "Người đỡ đầu chỉ mang lại sự phiền toái và làm chậm tốc độ phát triển của bạn.",
-        "Không ai có thể tự mình thành công; hãy khiêm nhường tìm kiếm những bậc thầy dẫn đường, và khi chạm tới đỉnh cao, hãy cúi xuống dang tay nâng đỡ những người đi sau.",
+        "Thành công thực sự là việc vượt qua tất cả mọi người mà không cần ai giúp đỡ.",
         "Hãy luôn giữ kín mọi bí quyết thành công để không ai có thể vượt qua bạn.",
-        "Thành công thực sự là việc vượt qua tất cả mọi người mà không cần ai giúp đỡ."
+        "Không ai có thể tự mình thành công; hãy khiêm nhường tìm kiếm những bậc thầy dẫn đường, và khi chạm tới đỉnh cao, hãy cúi xuống dang tay nâng đỡ những người đi sau.",
+        "Người đỡ đầu chỉ mang lại sự phiền toái và làm chậm tốc độ phát triển của bạn."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Dòng chảy tiếp nối của trí tuệ và lòng nhân ái là khúc ca huy hoàng nhất của nhân loại; hãy sống như một chiếc cầu nối vững chắc đưa muôn người qua sông."
     }
   ]

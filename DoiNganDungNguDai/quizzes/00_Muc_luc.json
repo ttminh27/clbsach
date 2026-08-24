@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Trong chương 'Mục lục', luận điểm cốt lõi nào sau đây phản ánh chính xác nhất triết lý của Robin Sharma?",
       "options": [
-        "Nên lựa chọn con đường an toàn, tránh né mọi xung đột và rủi ro để bảo toàn vị thế hiện tại.",
-        "Sự vĩ đại bắt đầu từ việc làm chủ nội tâm, can đảm sống đúng với giá trị bản thân và hành động xuất sắc vượt trên sự tầm thường.",
         "Chờ đợi sự hoàn hảo và sự cho phép của người khác trước khi dấn thân hành động.",
-        "Thành công chỉ đến khi bạn có được một vị trí quyền lực và chức danh cao trong tổ chức."
+        "Thành công chỉ đến khi bạn có được một vị trí quyền lực và chức danh cao trong tổ chức.",
+        "Nên lựa chọn con đường an toàn, tránh né mọi xung đột và rủi ro để bảo toàn vị thế hiện tại.",
+        "Sự vĩ đại bắt đầu từ việc làm chủ nội tâm, can đảm sống đúng với giá trị bản thân và hành động xuất sắc vượt trên sự tầm thường."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Thông điệp xuyên suốt của 'Mục lục' là sự thức tỉnh: mỗi cá nhân đều có tiềm năng ngoại hạng để tạo nên sự khác biệt khi từ bỏ sự thỏa hiệp và sống hết mình."
     },
     {
@@ -44,9 +44,9 @@
       "id": "q4",
       "question": "Theo phân tích tâm lý trong sách, đâu là lý do sâu xa khiến nhiều người biết rõ bài học 'Mục lục' nhưng vẫn không chịu thay đổi?",
       "options": [
+        "Họ chưa tìm được một cuốn sách hướng dẫn chi tiết từng bước một.",
         "Họ thiếu các công cụ kỹ thuật số và thiết bị hiện đại để quản lý thời gian.",
         "Họ đã đạt tới đỉnh cao của sự nghiệp nên không còn nhu cầu phát triển.",
-        "Họ chưa tìm được một cuốn sách hướng dẫn chi tiết từng bước một.",
         "Họ bị tê liệt bởi nỗi sợ bị phán xét, sợ thất bại và sự cám dỗ của vùng an toàn quen thuộc."
       ],
       "correctIndex": 3,
@@ -68,10 +68,10 @@
       "id": "q6",
       "question": "Nghịch lý lớn nhất được chỉ ra trong chương 'Mục lục' là gì?",
       "options": [
-        "Những người nổi tiếng nhất là những người không bao giờ phải chịu áp lực.",
-        "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ.",
         "Càng đọc nhiều sách thì con người càng trở nên lười biếng hơn.",
-        "Làm việc càng ít thì chất lượng công việc lại càng cao."
+        "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ.",
+        "Làm việc càng ít thì chất lượng công việc lại càng cao.",
+        "Những người nổi tiếng nhất là những người không bao giờ phải chịu áp lực."
       ],
       "correctIndex": 1,
       "explanation": "Sự trưởng thành chỉ xảy ra ở ranh giới của sự khó chịu; nếu mọi việc đều quá dễ dàng và êm đềm, bạn đang dậm chân tại chỗ."
@@ -92,12 +92,12 @@
       "id": "q8",
       "question": "Khái niệm 'Lãnh đạo' theo tinh thần của Sharma trong 'Mục lục' có điểm gì khác biệt so với quan niệm truyền thống?",
       "options": [
-        "Lãnh đạo là người có văn phòng đẹp nhất và thu nhập cao nhất trong công ty.",
         "Lãnh đạo là năng lực tự dẫn dắt bản thân, truyền cảm hứng qua hành động gương mẫu và phụng sự người khác dù bạn ở bất kỳ cấp bậc nào.",
-        "Lãnh đạo là người không bao giờ cần phải trực tiếp giải quyết vấn đề.",
-        "Lãnh đạo là quyền sinh quyền sát và ra lệnh cho cấp dưới."
+        "Lãnh đạo là người có văn phòng đẹp nhất và thu nhập cao nhất trong công ty.",
+        "Lãnh đạo là quyền sinh quyền sát và ra lệnh cho cấp dưới.",
+        "Lãnh đạo là người không bao giờ cần phải trực tiếp giải quyết vấn đề."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Lãnh đạo không phải là chức danh ghi trên danh thiếp, mà là cách bạn tư duy, cách bạn tương tác với con người và tiêu chuẩn xuất sắc bạn duy trì mỗi ngày."
     },
     {
@@ -116,10 +116,10 @@
       "id": "q10",
       "question": "Trong kỷ nguyên ngập tràn thông tin gây xao nhãng, bài học 'Mục lục' khuyến nghị người đọc bảo vệ tài sản nào quý giá nhất?",
       "options": [
-        "Bộ sưu tập các đồ dùng công nghệ đời mới nhất.",
-        "Sự tập trung cao độ và nguồn năng lượng tinh thần để dồn vào những mục tiêu có giá trị tác động cao.",
         "Số lượng người theo dõi trên mạng xã hội.",
-        "Thời gian nghỉ ngơi thụ động xem video giải trí."
+        "Sự tập trung cao độ và nguồn năng lượng tinh thần để dồn vào những mục tiêu có giá trị tác động cao.",
+        "Thời gian nghỉ ngơi thụ động xem video giải trí.",
+        "Bộ sưu tập các đồ dùng công nghệ đời mới nhất."
       ],
       "correctIndex": 1,
       "explanation": "Sự tập trung sâu là siêu năng lực của thế kỷ 21; dồn toàn bộ tâm trí vào việc tạo ra giá trị cốt lõi là con đường duy nhất dẫn tới vị thế chuyên gia đỉnh cao."
@@ -128,12 +128,12 @@
       "id": "q11",
       "question": "Mối liên hệ giữa việc chăm sóc sức khỏe thể chất và việc hiện thực hóa các ý tưởng trong 'Mục lục' là gì?",
       "options": [
-        "Năng lượng thể chất dồi dào là động cơ thúc đẩy sự sáng tạo, sự bền bỉ và khả năng ra quyết định sáng suốt dưới áp lực.",
         "Người thành công không cần ngủ đủ giấc.",
-        "Tập thể dục chỉ làm lãng phí thời gian có thể dùng để làm việc.",
-        "Sức khỏe chỉ là yếu tố phụ, chỉ cần có ý chí tinh thần là đủ."
+        "Năng lượng thể chất dồi dào là động cơ thúc đẩy sự sáng tạo, sự bền bỉ và khả năng ra quyết định sáng suốt dưới áp lực.",
+        "Sức khỏe chỉ là yếu tố phụ, chỉ cần có ý chí tinh thần là đủ.",
+        "Tập thể dục chỉ làm lãng phí thời gian có thể dùng để làm việc."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Năng lượng là đơn vị tiền tệ của hiệu suất cao; cơ thể khỏe mạnh và tràn đầy sinh lực giúp bạn duy trì phong độ đỉnh cao bền vững."
     },
     {
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Để tránh việc đọc xong chương sách này mà không tạo ra chuyển biến thực tế, bước hành động quan trọng nhất cần làm ngay hôm nay là gì?",
       "options": [
+        "Lên danh sách 100 mục tiêu phức tạp nhưng không bắt đầu việc nào.",
         "Chọn ra đúng MỘT thói quen hoặc hành động cốt lõi từ bài học và kiên quyết thực hiện ngay trong vòng 24 giờ tới.",
-        "Kể cho thật nhiều người nghe về những gì mình dự định làm mà không thực hiện.",
         "Chờ đợi đến đầu tháng sau hoặc đầu năm mới rồi mới bắt đầu rèn luyện.",
-        "Lên danh sách 100 mục tiêu phức tạp nhưng không bắt đầu việc nào."
+        "Kể cho thật nhiều người nghe về những gì mình dự định làm mà không thực hiện."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Quy tắc 24 giờ: Ý tưởng không hành động chỉ là ảo ảnh. Bắt đầu ngay với một hành động cụ thể sẽ phá vỡ sức ỳ tâm lý và kích hoạt quán tính thành công."
     },
     {

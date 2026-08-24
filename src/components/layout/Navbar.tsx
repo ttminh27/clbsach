@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
-import { BookOpen, Search, Moon, Sun, Library, X, Info, History } from 'lucide-react';
+import { BookOpen, Search, Moon, Sun, Library, X, Info, History, Menu } from 'lucide-react';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import booksData from '../../data/books-manifest.json';
 import { Book } from '../../types/book';
@@ -56,8 +56,17 @@ export const Navbar: React.FC<NavbarProps> = ({ onToggleSidebar, isSidebarCollap
     <>
       <header className="sticky top-0 z-30 w-full border-b border-slate-200/80 bg-white/90 backdrop-blur-md dark:border-slate-800 dark:bg-slate-900/90 transition-colors">
         <div className="mx-auto flex h-16 w-full items-center justify-between px-4 sm:px-6">
-          {/* Mobile Only Brand Logo */}
-          <div className="flex lg:hidden items-center gap-2.5">
+          {/* Mobile Only Brand Logo & Menu Button */}
+          <div className="flex lg:hidden items-center gap-2">
+            {onToggleSidebar && (
+              <button
+                onClick={onToggleSidebar}
+                className="flex h-9 w-9 items-center justify-center rounded-xl text-slate-600 hover:bg-slate-100 hover:text-slate-900 dark:text-slate-300 dark:hover:bg-slate-800 transition-colors"
+                aria-label="Mở danh mục menu"
+              >
+                <Menu className="h-5 w-5" />
+              </button>
+            )}
             <Link to="/" className="flex items-center gap-2">
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-tr from-emerald-600 to-teal-500 text-white shadow-xs">
                 <BookOpen className="h-4 w-4" />

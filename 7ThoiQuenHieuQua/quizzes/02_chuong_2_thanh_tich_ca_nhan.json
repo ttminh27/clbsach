@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Viktor Frankl đã khám phá ra nguyên lý nền tảng của Thói quen 1 (Luôn chủ động) trong trại tập trung Đức Quốc xã. Nguyên lý đó là gì?",
       "options": [
-        "Hoàn cảnh bên ngoài hoàn toàn quyết định cảm xúc và hành vi của con người mà không có ngoại lệ.",
-        "Khoảng không gian tự do giữa Kích thích (Stimulus) và Phản ứng (Response): Con người luôn sở hữu quyền năng tự do lựa chọn thái độ và phản ứng của mình trước bất kỳ hoàn cảnh nào.",
+        "Sự chịu đựng thụ động là cách duy nhất để sinh tồn trong hoàn cảnh khắc nghiệt.",
         "Chỉ có sức mạnh cơ bắp mới giúp con người vượt qua nghịch cảnh.",
-        "Sự chịu đựng thụ động là cách duy nhất để sinh tồn trong hoàn cảnh khắc nghiệt."
+        "Khoảng không gian tự do giữa Kích thích (Stimulus) và Phản ứng (Response): Con người luôn sở hữu quyền năng tự do lựa chọn thái độ và phản ứng của mình trước bất kỳ hoàn cảnh nào.",
+        "Hoàn cảnh bên ngoài hoàn toàn quyết định cảm xúc và hành vi của con người mà không có ngoại lệ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Frankl chỉ ra rằng kẻ thù có thể tước đoạt mọi thứ của bạn nhưng không thể tước đoạt 'sự tự do tối hậu của con người' — đó là quyền tự do lựa chọn phản ứng của mình trước các kích thích bên ngoài."
     },
     {
@@ -44,36 +44,36 @@
       "id": "q4",
       "question": "Khi một người dành phần lớn thời gian và năng lượng để lo lắng, bàn tán về các sự kiện trong 'Vòng tròn Quan tâm' (Circle of Concern) mà họ không thể kiểm soát, điều gì sẽ xảy ra với 'Vòng tròn Ảnh hưởng' (Circle of Influence) của họ?",
       "options": [
-        "Vòng tròn Ảnh hưởng sẽ tự động mở rộng theo thời gian.",
-        "Vòng tròn Quan tâm sẽ biến mất hoàn toàn.",
+        "Không có bất kỳ sự thay đổi nào đối với cả hai vòng tròn.",
         "Vòng tròn Ảnh hưởng sẽ bị thu hẹp dần do năng lượng tiêu cực bị lãng phí và những việc thực sự làm được bị bỏ bê.",
-        "Không có bất kỳ sự thay đổi nào đối với cả hai vòng tròn."
+        "Vòng tròn Quan tâm sẽ biến mất hoàn toàn.",
+        "Vòng tròn Ảnh hưởng sẽ tự động mở rộng theo thời gian."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Tập trung vào những điều không thể thay đổi sẽ tạo ra sự bất lực và năng lượng tiêu cực, làm teo tóp tầm ảnh hưởng thực tế của chính bạn."
     },
     {
       "id": "q5",
       "question": "Thói quen 2: 'Bắt đầu từ mục tiêu đã được xác định' (Begin with the End in Mind) dựa trên nguyên lý kiến tạo nào?",
       "options": [
+        "Mọi sự vật, công trình hay cuộc đời đều được kiến tạo hai lần: Lần thứ nhất trong tâm trí (bản thiết kế), và Lần thứ hai trong thực tế vật chất (xây dựng).",
         "Chỉ cần bắt tay vào làm ngay mà không cần bất kỳ kế hoạch hay bản vẽ nào.",
         "Mọi thứ chỉ được tạo ra một lần duy nhất trong quá trình thi công thực tế.",
-        "Mọi sự vật, công trình hay cuộc đời đều được kiến tạo hai lần: Lần thứ nhất trong tâm trí (bản thiết kế), và Lần thứ hai trong thực tế vật chất (xây dựng).",
         "Mục tiêu là thứ không thể dự đoán được nên tốt nhất là để cuộc đời tự trôi dạt."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Giống như việc xây một ngôi nhà phải có bản vẽ chi tiết trước khi đặt viên gạch đầu tiên, một cuộc đời thành công đòi hỏi bản thiết kế sứ mệnh và giá trị rõ ràng ngay từ đầu."
     },
     {
       "id": "q6",
       "question": "Sự khác biệt kinh điển giữa 'Lãnh đạo' (Leadership) và 'Quản lý' (Management) được Covey đúc kết như thế nào qua hình ảnh nhóm người khai hoang rừng rậm?",
       "options": [
-        "Lãnh đạo là người trực tiếp chặt cây, còn Quản lý là người đứng quan sát.",
-        "Quản lý và Lãnh đạo là hai công việc giống hệt nhau không có sự phân biệt.",
         "Lãnh đạo chỉ quan tâm đến chi phí, còn Quản lý chỉ quan tâm đến tầm nhìn.",
-        "Quản lý là làm việc đúng cách (chặt cây thật nhanh, mài sắc dao), còn Lãnh đạo là làm đúng việc (trèo lên cây cao xem đã phát quang đúng khu rừng chưa)."
+        "Quản lý là làm việc đúng cách (chặt cây thật nhanh, mài sắc dao), còn Lãnh đạo là làm đúng việc (trèo lên cây cao xem đã phát quang đúng khu rừng chưa).",
+        "Lãnh đạo là người trực tiếp chặt cây, còn Quản lý là người đứng quan sát.",
+        "Quản lý và Lãnh đạo là hai công việc giống hệt nhau không có sự phân biệt."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Peter Drucker và Warren Bennis: 'Quản lý là làm việc đúng cách; Lãnh đạo là làm đúng việc'. Bạn có thể leo thang rất nhanh và hiệu quả (quản lý), nhưng nếu cái thang dựa nhầm tường (lãnh đạo) thì càng nhanh càng nguy hiểm."
     },
     {
@@ -128,12 +128,12 @@
       "id": "q11",
       "question": "Phương pháp lập kế hoạch theo TUẦN (Weekly Planning) ưu việt hơn lập kế hoạch theo NGÀY (Daily Planning) ở điểm cốt lõi nào?",
       "options": [
-        "Kế hoạch tuần luôn cố định 100% và không bao giờ được phép thay đổi.",
-        "Lập kế hoạch theo tuần giúp bạn không cần phải ghi chép công việc cụ thể.",
         "Quy mô một tuần mang lại bức tranh toàn cảnh cân bằng giữa các vai trò trong cuộc sống (gia đình, công việc, sức khỏe) mà không bị các sự cố vụn vặt hàng ngày cuốn đi.",
-        "Lập kế hoạch theo ngày tốn quá nhiều giấy mực."
+        "Lập kế hoạch theo tuần giúp bạn không cần phải ghi chép công việc cụ thể.",
+        "Lập kế hoạch theo ngày tốn quá nhiều giấy mực.",
+        "Kế hoạch tuần luôn cố định 100% và không bao giờ được phép thay đổi."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Kế hoạch tuần cung cấp bối cảnh linh hoạt nhưng vững chãi để đặt 'những hòn đá tảng' (Big Rocks) vào lịch trình trước khi những hạt cát vụn vặt lấp đầy thời gian."
     },
     {
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Tại sao việc rèn luyện Thói quen 3 (Ưu tiên cho điều quan trọng nhất) lại được xem là bài kiểm tra thực tế cho Thói quen 1 và Thói quen 2?",
       "options": [
-        "Vì nếu không làm tốt Thói quen 3 thì bạn không được phép đọc tiếp Thói quen 4.",
         "Thói quen 1 là nhận thức về tự do lựa chọn, Thói quen 2 là tầm nhìn mục tiêu, còn Thói quen 3 là Ý CHÍ ĐỘC LẬP thực thi những giá trị đó từng khoảnh khắc mỗi ngày.",
+        "Vì Thói quen 3 có thể thay thế hoàn toàn cho hai thói quen trước mà không cần học.",
         "Vì Thói quen 3 chỉ mang tính chất lý thuyết suông.",
-        "Vì Thói quen 3 có thể thay thế hoàn toàn cho hai thói quen trước mà không cần học."
+        "Vì nếu không làm tốt Thói quen 3 thì bạn không được phép đọc tiếp Thói quen 4."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Thói quen 3 là sự hiện thực hóa: kỷ luật hành động dựa trên các giá trị đã xác lập ở Thói quen 2 thông qua quyền tự chủ của Thói quen 1."
     },
     {

@@ -8,24 +8,24 @@
       "id": "q1",
       "question": "Cựu Tổng thống Mỹ Jimmy Carter (Nobel Hòa bình) đã nhấn mạnh giá trị nào của cuốn sách 'Search Inside Yourself'?",
       "options": [
-        "Phê bình các công ty công nghệ đã làm suy thoái đạo đức xã hội.",
         "Dạy người đọc cách trở thành một kỹ sư công nghệ thông tin.",
-        "Chỉ ra con đường kết hợp giữa sự an lạc nội tâm và hành động vì hòa bình thế giới thông qua việc rèn luyện tâm trí thực tiễn.",
-        "Cung cấp hướng dẫn chi tiết về bầu cử chính trị tại Mỹ."
+        "Phê bình các công ty công nghệ đã làm suy thoái đạo đức xã hội.",
+        "Cung cấp hướng dẫn chi tiết về bầu cử chính trị tại Mỹ.",
+        "Chỉ ra con đường kết hợp giữa sự an lạc nội tâm và hành động vì hòa bình thế giới thông qua việc rèn luyện tâm trí thực tiễn."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Tổng thống Jimmy Carter ca ngợi cuốn sách vì nó chỉ ra mối liên hệ chặt chẽ giữa sự bình an cá nhân và trách nhiệm phụng sự nền hòa bình chung của nhân loại."
     },
     {
       "id": "q2",
       "question": "Eric Schmidt (Cựu Chủ tịch & CEO của Google) nhận xét gì về vai trò của chương trình Search Inside Yourself đối với văn hóa doanh nghiệp Google?",
       "options": [
-        "Nó là một khóa học bắt buộc nếu nhân viên muốn được nhận lương thưởng.",
         "Nó giúp Google cắt giảm được 30% ngân sách văn phòng phẩm.",
         "Nó là một chương trình mang tính đột phá giúp các kỹ sư cải thiện sức khỏe tinh thần, nâng cao khả năng hợp tác và làm thay đổi sâu sắc cách mọi người làm việc cùng nhau.",
+        "Nó là một khóa học bắt buộc nếu nhân viên muốn được nhận lương thưởng.",
         "Nó giúp nhân viên Google viết code mà không cần nghỉ ngơi."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Eric Schmidt khẳng định Search Inside Yourself đã trở thành một phần di sản văn hóa độc đáo của Google, chứng minh rằng sự tĩnh tại nội tâm là đòn bẩy cho năng suất đỉnh cao."
     },
     {
@@ -45,35 +45,35 @@
       "question": "Tiến sĩ Jon Kabat-Zinn (người sáng lập phương pháp Giảm căng thẳng dựa trên Chánh niệm - MBSR) chia sẻ cảm nhận gì về cách tiếp cận của cuốn sách?",
       "options": [
         "Cách tiếp cận quá trang nghiêm và cứng nhắc khiến người đọc sợ hãi.",
-        "Cuốn sách chỉ phù hợp cho sinh viên ngành y khoa.",
         "Một sự hòa quyện tuyệt vời giữa sự nghiêm túc khoa học sâu sắc và phong cách hài hước hóm hỉnh, biến chánh niệm thành món quà dễ tiếp cận cho thế giới hiện đại.",
-        "Chánh niệm chỉ nên được thực hành trong các tu viện kín cổng cao tường."
+        "Chánh niệm chỉ nên được thực hành trong các tu viện kín cổng cao tường.",
+        "Cuốn sách chỉ phù hợp cho sinh viên ngành y khoa."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Jon Kabat-Zinn khen ngợi Meng vì khả năng lồng ghép sự thông thái cổ xưa và khoa học thần kinh hiện đại bằng ngôn từ giản dị, dí dỏm và đầy sức sống."
     },
     {
       "id": "q5",
       "question": "Giáo sư Mirabai Bush (Đại học Massachusetts) nhấn mạnh điều gì về tính ứng dụng của SIY trong môi trường doanh nghiệp khốc liệt?",
       "options": [
-        "Chỉ có nhân viên cấp thấp mới cần học về cảm xúc.",
         "Doanh nghiệp nên sa thải các nhân viên quá nhạy cảm về cảm xúc.",
+        "Lòng trắc ẩn và sự an tĩnh không phải là sự yếu đuối; chúng chính là nền tảng của sự kiên cường và khả năng lãnh đạo bền vững trong kỷ nguyên số.",
         "Thiền định làm giảm tính cạnh tranh của các công ty đa quốc gia.",
-        "Lòng trắc ẩn và sự an tĩnh không phải là sự yếu đuối; chúng chính là nền tảng của sự kiên cường và khả năng lãnh đạo bền vững trong kỷ nguyên số."
+        "Chỉ có nhân viên cấp thấp mới cần học về cảm xúc."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Mirabai Bush khẳng định lòng trắc ẩn và sự tự nhận thức là sức mạnh cạnh tranh cốt lõi giúp các tổ chức đổi mới và phát triển bền vững."
     },
     {
       "id": "q6",
       "question": "Lời khen tặng từ Tiến sĩ John Teasdale (Đại học Oxford) nhấn mạnh yếu tố cốt lõi nào tạo nên sức hút của cuốn sách?",
       "options": [
-        "Cuốn sách được viết bởi một cựu điệp viên quốc tế.",
-        "Cuốn sách có giá bán rất rẻ so với thị trường.",
+        "Khả năng chuyển hóa trực giác tâm linh thành các kỹ năng thực tế có thể rèn luyện thông qua sự hiểu biết sâu sắc về sinh học thần kinh.",
         "Cuốn sách chỉ toàn các bài kiểm tra toán học phức tạp.",
-        "Khả năng chuyển hóa trực giác tâm linh thành các kỹ năng thực tế có thể rèn luyện thông qua sự hiểu biết sâu sắc về sinh học thần kinh."
+        "Cuốn sách có giá bán rất rẻ so với thị trường.",
+        "Cuốn sách được viết bởi một cựu điệp viên quốc tế."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "John Teasdale đánh giá cao tính khoa học chuẩn xác và các phương pháp rèn luyện tâm trí đã được kiểm chứng bằng thực nghiệm thần kinh học."
     },
     {
@@ -116,12 +116,12 @@
       "id": "q10",
       "question": "Thông điệp chính mà các nhà lãnh đạo tôn giáo và tâm linh gửi gắm khi ủng hộ cuốn sách này là gì?",
       "options": [
-        "Chỉ những người ăn chay mới có thể thiền định thành công.",
         "Thiền định là nghi lễ chỉ dành riêng cho tầng lớp quý tộc.",
-        "Các giá trị của sự chú ý, từ bi và bình an là di sản chung của toàn thể nhân loại, vượt qua mọi ranh giới tôn giáo hay niềm tin tín ngưỡng.",
-        "Mọi người nên từ bỏ tôn giáo của mình để theo một trường phái mới."
+        "Chỉ những người ăn chay mới có thể thiền định thành công.",
+        "Mọi người nên từ bỏ tôn giáo của mình để theo một trường phái mới.",
+        "Các giá trị của sự chú ý, từ bi và bình an là di sản chung của toàn thể nhân loại, vượt qua mọi ranh giới tôn giáo hay niềm tin tín ngưỡng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Cuốn sách phi tôn giáo hóa các phương pháp rèn luyện tâm trí, giúp bất kỳ ai thuộc bất kỳ nền văn hóa hay tín ngưỡng nào cũng có thể hưởng lợi từ chánh niệm."
     },
     {
@@ -129,11 +129,11 @@
       "question": "Lời khen tặng từ các nhà sáng lập startup công nghệ nhấn mạnh điều gì về tính thực tế của SIY?",
       "options": [
         "Nó giúp startup gọi vốn đầu tư mạo hiểm nhanh hơn.",
+        "Nó cung cấp các bài tập 'vi mô' (micro-practices) chỉ mất vài giây đến vài phút mỗi ngày, cực kỳ phù hợp với nhịp sống bận rộn nghẹt thở của các nhà khởi nghiệp.",
         "Nó dạy cách trốn thuế doanh nghiệp thông qua thiền định.",
-        "Nó giúp doanh nghiệp cắt giảm 100% thời gian họp hành.",
-        "Nó cung cấp các bài tập 'vi mô' (micro-practices) chỉ mất vài giây đến vài phút mỗi ngày, cực kỳ phù hợp với nhịp sống bận rộn nghẹt thở của các nhà khởi nghiệp."
+        "Nó giúp doanh nghiệp cắt giảm 100% thời gian họp hành."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Các bài tập trong SIY được thiết kế tinh gọn để có thể thực hành ngay trong lúc uống nước, đi bộ giữa hai phòng họp hoặc trước khi mở một email quan trọng."
     },
     {
@@ -141,11 +141,11 @@
       "question": "Tại sao các nhà khoa học thần kinh lại hào hứng viết lời khen tặng cho cuốn sách này?",
       "options": [
         "Vì tác giả đã trả tiền bản quyền rất cao cho các viện nghiên cứu.",
-        "Vì cuốn sách chứng minh rằng não bộ con người không cần oxy để hoạt động.",
         "Vì cuốn sách đã truyền tải những khám phá phức tạp về tính dẻo thần kinh (Neuroplasticity) và chức năng vỏ não thành những bài tập thực hành dễ hiểu cho công chúng.",
-        "Vì tác giả là người đã chế tạo ra máy quét não fMRI."
+        "Vì tác giả là người đã chế tạo ra máy quét não fMRI.",
+        "Vì cuốn sách chứng minh rằng não bộ con người không cần oxy để hoạt động."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Cuốn sách là cây cầu hoàn hảo kết nối giữa những công trình nghiên cứu hàn lâm trong phòng thí nghiệm với cuộc sống thường nhật của hàng triệu người."
     },
     {
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Những lời nhận xét trong phần đầu sách khẳng định điều gì về đối tượng độc giả phù hợp nhất của tác phẩm?",
       "options": [
-        "Chỉ dành cho những người cao tuổi đã nghỉ hưu.",
-        "Chỉ dành riêng cho các tu sĩ và những người muốn đi tu.",
         "Dành cho tất cả mọi người: từ kỹ sư, nhà quản lý, sinh viên, giáo viên đến bất kỳ ai khao khát nâng cao hiệu suất làm việc và tìm kiếm sự thanh thản trong tâm hồn.",
-        "Chỉ dành cho những người có chỉ số IQ trên 140."
+        "Chỉ dành cho những người có chỉ số IQ trên 140.",
+        "Chỉ dành cho những người cao tuổi đã nghỉ hưu.",
+        "Chỉ dành riêng cho các tu sĩ và những người muốn đi tu."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Bất kỳ ai có một bộ não và mong muốn sống một cuộc đời hạnh phúc, an lành và có ý nghĩa đều là đối tượng thụ hưởng giá trị của cuốn sách này."
     },
     {

@@ -8,36 +8,36 @@
       "id": "q1",
       "question": "Khái niệm 'Người siêu kết nối' (Super-connectors) trong xã hội học và cuốn sách này được định nghĩa là ai?",
       "options": [
-        "Những nhân viên bán hàng trực tiếp qua điện thoại đạt doanh số cao nhất.",
-        "Những cá nhân đặc biệt sở hữu hàng ngàn mối quan hệ đa dạng thuộc nhiều tầng lớp, ngành nghề khác nhau và luôn có niềm đam mê tự nhiên trong việc làm cầu nối giới thiệu mọi người.",
         "Những kỹ sư phụ trách bảo trì hệ thống cáp quang internet quốc tế.",
-        "Những người có khả năng nói được 10 thứ tiếng khác nhau trên thế giới."
+        "Những người có khả năng nói được 10 thứ tiếng khác nhau trên thế giới.",
+        "Những nhân viên bán hàng trực tiếp qua điện thoại đạt doanh số cao nhất.",
+        "Những cá nhân đặc biệt sở hữu hàng ngàn mối quan hệ đa dạng thuộc nhiều tầng lớp, ngành nghề khác nhau và luôn có niềm đam mê tự nhiên trong việc làm cầu nối giới thiệu mọi người."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Người siêu kết nối là các 'nút giao thông huyết mạch' (Hubs) trong mạng lưới xã hội; kết thân với họ sẽ mở ra cánh cửa dẫn tới hàng trăm mạng lưới khác."
     },
     {
       "id": "q2",
       "question": "Câu chuyện lịch sử về 'Chuyến cưỡi ngựa lúc nửa đêm của Paul Revere' trong Cách mạng Mỹ được Malcolm Gladwell và Keith Ferrazzi phân tích nhằm minh họa điều gì?",
       "options": [
-        "William Dawes bị bắt giữ vì không mang theo giấy tờ tùy thân hợp pháp.",
+        "Paul Revere thành công trong việc báo động toàn bộ quân dân vì ông là một người siêu kết nối quen biết tất cả các thủ lĩnh địa phương, trong khi William Dawes đi con đường khác nhưng thất bại vì không có mạng lưới.",
         "Paul Revere sở hữu con ngựa chạy nhanh nhất nước Mỹ thời bấy giờ.",
-        "Quân đội Anh đã chặn bắt tất cả những người cưỡi ngựa trong đêm đó.",
-        "Paul Revere thành công trong việc báo động toàn bộ quân dân vì ông là một người siêu kết nối quen biết tất cả các thủ lĩnh địa phương, trong khi William Dawes đi con đường khác nhưng thất bại vì không có mạng lưới."
+        "William Dawes bị bắt giữ vì không mang theo giấy tờ tùy thân hợp pháp.",
+        "Quân đội Anh đã chặn bắt tất cả những người cưỡi ngựa trong đêm đó."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Thông tin chỉ có sức mạnh lan truyền bùng nổ khi được chuyển giao bởi một người siêu kết nối được cộng đồng tin tưởng và kính trọng."
     },
     {
       "id": "q3",
       "question": "Nhóm ngành nghề nào sau đây được coi là 'Mảnh đất ươm mầm' tự nhiên của các bậc thầy siêu kết nối?",
       "options": [
-        "Các lập trình viên làm việc từ xa tại các vùng núi hẻo lánh.",
-        "Các nhà thiên văn học làm việc tại đài quan sát vũ trụ ban đêm.",
         "Chính trị gia, nhà báo truyền thông, chuyên gia quan hệ công chúng (PR), chuyên gia săn đầu người (Headhunters), luật sư và nhà đầu tư mạo hiểm.",
-        "Các nhân viên kiểm toán nội bộ làm việc độc lập tại kho lưu trữ."
+        "Các nhà thiên văn học làm việc tại đài quan sát vũ trụ ban đêm.",
+        "Các nhân viên kiểm toán nội bộ làm việc độc lập tại kho lưu trữ.",
+        "Các lập trình viên làm việc từ xa tại các vùng núi hẻo lánh."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Những ngành nghề đòi hỏi sự giao thoa thông tin, nguồn vốn và nhân sự liên tục là môi trường rèn giũa nên những đầu mối kết nối quyền lực nhất."
     },
     {
@@ -69,9 +69,9 @@
       "question": "Điều gì là nguyên tắc quan trọng nhất khi bạn nhờ một người siêu kết nối giới thiệu bạn với một nhân vật quan trọng khác?",
       "options": [
         "Chuẩn bị sẵn một đoạn giới thiệu tóm tắt hoàn hảo (Forwardable email) nêu rõ lý do và giá trị bạn có thể mang lại, giúp người kết nối không tốn công sức soạn thảo.",
+        "Yêu cầu họ phải đích thân đi cùng bạn đến buổi gặp mặt trực tiếp.",
         "Ép buộc họ phải cam kết rằng đối tác chắc chắn sẽ đồng ý ký hợp đồng.",
-        "Không cho người kết nối biết mục đích thực sự của cuộc gặp.",
-        "Yêu cầu họ phải đích thân đi cùng bạn đến buổi gặp mặt trực tiếp."
+        "Không cho người kết nối biết mục đích thực sự của cuộc gặp."
       ],
       "correctIndex": 0,
       "explanation": "Giảm thiểu tối đa gánh nặng công việc cho người siêu kết nối bằng email chuyển tiếp soạn sẵn (Forwardable email) là biểu hiện của sự chuyên nghiệp tối cao."
@@ -80,12 +80,12 @@
       "id": "q7",
       "question": "Tại sao các nhà đầu tư mạo hiểm (Venture Capitalists) và chủ ngân hàng đầu tư lại được xem là những nút thắt quyền lực?",
       "options": [
+        "Vì họ đứng ở trung tâm của dòng tiền, công nghệ và các mô hình kinh doanh mới, có mạng lưới quan hệ sâu rộng với hàng ngàn nhà sáng lập và tập đoàn lớn.",
         "Vì họ là những người duy nhất được phép in tiền hợp pháp trong nền kinh tế.",
-        "Vì họ nắm giữ toàn bộ hệ thống bán lẻ hàng hóa trên thị trường.",
         "Vì họ không bao giờ từ chối đầu tư vào bất kỳ dự án khởi nghiệp nào.",
-        "Vì họ đứng ở trung tâm của dòng tiền, công nghệ và các mô hình kinh doanh mới, có mạng lưới quan hệ sâu rộng với hàng ngàn nhà sáng lập và tập đoàn lớn."
+        "Vì họ nắm giữ toàn bộ hệ thống bán lẻ hàng hóa trên thị trường."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Dòng vốn luôn đi liền với thông tin và quan hệ chiến lược; kết nối với giới đầu tư mở ra hệ sinh thái nguồn lực vô tận cho doanh nghiệp."
     },
     {
@@ -152,36 +152,36 @@
       "id": "q13",
       "question": "Làm thế nào để trao giá trị cho một người siêu kết nối khi họ dường như đã 'quen biết cả thế giới và có tất cả mọi thứ'?",
       "options": [
-        "Bắt chước phong cách ăn mặc của họ để thể hiện sự ngưỡng mộ.",
+        "Cung cấp cho họ những thông tin chuyên môn ngách độc đáo, giới thiệu những nhân tài trẻ xuất sắc mới nổi hoặc hỗ trợ các dự án từ thiện mà họ đang tâm huyết.",
         "Tặng họ một số tiền mặt lớn để cảm ơn.",
-        "Không cần làm gì cả vì người giàu không cần bất kỳ sự hỗ trợ nào.",
-        "Cung cấp cho họ những thông tin chuyên môn ngách độc đáo, giới thiệu những nhân tài trẻ xuất sắc mới nổi hoặc hỗ trợ các dự án từ thiện mà họ đang tâm huyết."
+        "Bắt chước phong cách ăn mặc của họ để thể hiện sự ngưỡng mộ.",
+        "Không cần làm gì cả vì người giàu không cần bất kỳ sự hỗ trợ nào."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Bất kỳ ai cũng có những nhu cầu chưa được đáp ứng; tìm ra niềm đam mê cá nhân, dự án từ thiện hoặc nhân tài mới chính là món quà quý giá nhất dành cho họ."
     },
     {
       "id": "q14",
       "question": "Tại sao các chính trị gia lão luyện lại luôn dành phần lớn thời gian trong ngày để duy trì mối quan hệ với các thủ lĩnh cộng đồng địa phương?",
       "options": [
-        "Vì chính trị gia không có văn phòng làm việc riêng.",
-        "Vì các thủ lĩnh địa phương là những người siêu kết nối tại cơ sở, nắm giữ niềm tin và lá phiếu của hàng ngàn người dân trong khu vực.",
         "Vì chính trị gia bị luật pháp cấm tiếp xúc trực tiếp với người dân.",
-        "Vì các thủ lĩnh địa phương luôn là những người tài trợ tài chính lớn nhất."
+        "Vì các thủ lĩnh địa phương luôn là những người tài trợ tài chính lớn nhất.",
+        "Vì chính trị gia không có văn phòng làm việc riêng.",
+        "Vì các thủ lĩnh địa phương là những người siêu kết nối tại cơ sở, nắm giữ niềm tin và lá phiếu của hàng ngàn người dân trong khu vực."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Sức mạnh chính trị và xã hội được xây dựng từ mạng lưới các đầu mối tin cậy tại cơ sở; chiếm trọn niềm tin của các thủ lĩnh là làm chủ toàn bộ cộng đồng."
     },
     {
       "id": "q15",
       "question": "Bài học tổng kết của chương 15 có thể đúc kết thành chiến lược hành động nào?",
       "options": [
-        "Chỉ kết bạn với những người không quen biết ai để tránh rủi ro thông tin.",
-        "Xác định, kết thân và phụng sự 2-3 người siêu kết nối hàng đầu trong ngành của bạn; họ sẽ là đòn bẩy đưa sự nghiệp của bạn vươn xa gấp hàng trăm lần.",
         "Cố gắng tự mình đi làm quen với 1 triệu người mà không cần qua trung gian.",
-        "Tránh xa những người có nhiều bạn bè vì họ không có thời gian dành cho bạn."
+        "Tránh xa những người có nhiều bạn bè vì họ không có thời gian dành cho bạn.",
+        "Chỉ kết bạn với những người không quen biết ai để tránh rủi ro thông tin.",
+        "Xác định, kết thân và phụng sự 2-3 người siêu kết nối hàng đầu trong ngành của bạn; họ sẽ là đòn bẩy đưa sự nghiệp của bạn vươn xa gấp hàng trăm lần."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Đầu tư vào các mối quan hệ với những 'nút giao thông huyết mạch' là chiến lược thông minh nhất để nhân rộng tầm ảnh hưởng và kiến tạo kỳ tích."
     }
   ]

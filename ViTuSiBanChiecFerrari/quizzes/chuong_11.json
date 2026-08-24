@@ -8,22 +8,22 @@
       "id": "q1",
       "question": "Ý nghĩa biểu tượng sâu xa của 'Chiếc đồng hồ bấm giờ bằng vàng' trong Chương 11 là gì?",
       "options": [
-        "Biểu tượng của sự giàu có về tài chính và đẳng cấp thượng lưu của giới luật sư.",
         "Thời gian là tài sản quý giá nhất, công bằng nhất nhưng cũng hữu hạn nhất; làm chủ thời gian chính là làm chủ toàn bộ cuộc đời của bạn.",
         "Dụng cụ đo lường tốc độ chạy bộ của các môn sinh trong các buổi sáng leo núi tuyết.",
-        "Một món đồ trang sức bằng vàng ròng đắt giá được các Hiền triết trao tặng cho học trò xuất sắc."
+        "Một món đồ trang sức bằng vàng ròng đắt giá được các Hiền triết trao tặng cho học trò xuất sắc.",
+        "Biểu tượng của sự giàu có về tài chính và đẳng cấp thượng lưu của giới luật sư."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Thời gian là thứ tài nguyên không thể tái tạo; tiền mất có thể kiếm lại được, nhưng một giây phút trôi qua là vĩnh viễn mất đi."
     },
     {
       "id": "q2",
       "question": "Triết lý 'Tử thần là người bạn đồng hành tốt nhất' (Deathbed Mentality) được các Hiền triết Sivana ứng dụng như thế nào?",
       "options": [
-        "Một nghi thức cầu siêu cho những linh hồn đã khuất được thực hiện mỗi buổi tối.",
-        "Sống mỗi ngày như thể đó là ngày cuối cùng bạn được sống trên trần thế; điều đó sẽ gạt bỏ mọi sự vụn vặt, sợ hãi và giúp bạn tập trung tuyệt đối vào những điều thực sự có ý nghĩa.",
         "Tập luyện nằm bất động trong quan tài để chuẩn bị cho cái chết thể xác.",
-        "Khuyến khích con người sống buông thả, hưởng thụ trụy lạc vì đằng nào cũng sẽ qua đời."
+        "Sống mỗi ngày như thể đó là ngày cuối cùng bạn được sống trên trần thế; điều đó sẽ gạt bỏ mọi sự vụn vặt, sợ hãi và giúp bạn tập trung tuyệt đối vào những điều thực sự có ý nghĩa.",
+        "Khuyến khích con người sống buông thả, hưởng thụ trụy lạc vì đằng nào cũng sẽ qua đời.",
+        "Một nghi thức cầu siêu cho những linh hồn đã khuất được thực hiện mỗi buổi tối."
       ],
       "correctIndex": 1,
       "explanation": "Nhận thức về cái chết (Memento Mori) là đòn bẩy thức tỉnh mãnh liệt nhất giúp bạn phân biệt rõ ràng giữa 'việc quan trọng' và 'việc tầm thường'."
@@ -32,8 +32,8 @@
       "id": "q3",
       "question": "Quy tắc 80/20 của Pareto trong việc quản lý thời gian được Julian giải thích như thế nào cho John?",
       "options": [
-        "Bạn nên dành 80% thời gian để ngủ và 20% thời gian để làm việc kiếm tiền.",
         "Chỉ có 20% số người trên thế giới có khả năng quản lý được thời gian cá nhân.",
+        "Bạn nên dành 80% thời gian để ngủ và 20% thời gian để làm việc kiếm tiền.",
         "80% kết quả vĩ đại trong cuộc sống của bạn đến từ 20% các hành động cốt lõi mang lại giá trị cao nhất; hãy dồn toàn lực bảo vệ và thực hiện 20% này.",
         "80% số tiền kiếm được nên dùng để đầu tư vào cổ phiếu của các công ty công nghệ."
       ],
@@ -44,24 +44,24 @@
       "id": "q4",
       "question": "Căn bệnh 'Kẻ cắp thời gian' (Time Thieves) trong xã hội hiện đại được Julian chỉ đích danh là những điều gì?",
       "options": [
-        "Những cuộc trò chuyện phiếm vô bổ, việc lướt tin tức rác rưởi, sự trì hoãn và việc không dám từ chối những yêu cầu không quan trọng từ người khác.",
+        "Các công ty sản xuất đồng hồ cơ học bị lỗi kỹ thuật chạy chậm giờ.",
         "Sự thay đổi múi giờ khi đi máy bay ra nước ngoài.",
-        "Những tên trộm chuyên đột nhập vào nhà để lấy cắp đồng hồ đeo tay đắt tiền.",
-        "Các công ty sản xuất đồng hồ cơ học bị lỗi kỹ thuật chạy chậm giờ."
+        "Những cuộc trò chuyện phiếm vô bổ, việc lướt tin tức rác rưởi, sự trì hoãn và việc không dám từ chối những yêu cầu không quan trọng từ người khác.",
+        "Những tên trộm chuyên đột nhập vào nhà để lấy cắp đồng hồ đeo tay đắt tiền."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Những kẻ cắp thời gian âm thầm bòn rút từng phút giây của bạn; nếu bạn không bảo vệ thời gian của mình, người khác sẽ tùy tiện sử dụng nó."
     },
     {
       "id": "q5",
       "question": "Tại sao Julian lại khuyên bạn phải 'Tàn nhẫn với sự bảo vệ thời gian nhưng dịu dàng với con người'?",
       "options": [
-        "Phạt tiền thật nặng những người đến muộn trong các cuộc hẹn cá nhân.",
         "Bảo vệ nghiêm ngặt lịch trình làm việc và rèn luyện của mình nhưng vẫn luôn giữ thái độ lịch thiệp, tôn trọng và yêu thương khi từ chối các lời mời vô bổ.",
+        "Phạt tiền thật nặng những người đến muộn trong các cuộc hẹn cá nhân.",
         "Tuyệt đối không bao giờ nói chuyện hay mỉm cười với bất kỳ đồng nghiệp nào tại công ty.",
         "Chỉ giao tiếp với những người có địa vị xã hội cao hơn mình."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự kiên định về nguyên tắc thời gian kết hợp với sự ấm áp trong giao tiếp là phong thái chuẩn mực của một nhà lãnh đạo đỉnh cao."
     },
     {
@@ -69,11 +69,11 @@
       "question": "Phương pháp 'Lập kế hoạch tuần vào tối Chủ Nhật' (Weekly Planning) mang lại lợi thế chiến lược gì?",
       "options": [
         "Giúp bạn không cần phải làm việc trong suốt tất cả các ngày còn lại trong tuần.",
-        "Tránh việc phải suy nghĩ trong suốt các ngày làm việc từ thứ Hai đến thứ Sáu.",
         "Giúp bạn bước vào tuần mới với tâm thế chủ động, có tầm nhìn rõ ràng và không bị cuốn vào vòng xoáy sự vụ khẩn cấp của người khác.",
+        "Tránh việc phải suy nghĩ trong suốt các ngày làm việc từ thứ Hai đến thứ Sáu.",
         "Để có bằng chứng báo cáo với ban giám đốc công ty vào sáng thứ Hai."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Một giờ lập kế hoạch vào cuối tuần sẽ tiết kiệm cho bạn hơn 10 giờ làm việc lúng túng trong tuần và đảm bảo mọi mục tiêu quan trọng đều được thực thi."
     },
     {
@@ -81,21 +81,21 @@
       "question": "Khái niệm 'Sự can đảm hành động ngay bây giờ' (Do It Now Mentality) giải quyết căn bệnh tâm lý nào?",
       "options": [
         "Bắt buộc bạn phải hoàn thành mọi dự án lớn trong vòng chưa đầy 60 phút.",
+        "Khuyến khích con người tiêu xài toàn bộ tiền tiết kiệm trong một ngày.",
         "Giúp bạn đưa ra các quyết định liều lĩnh mà không cần suy nghĩ về hậu quả.",
-        "Triệt tiêu căn bệnh trì hoãn kinh niên - thứ virus độc hại đã chôn vùi biết bao tài năng và ước mơ vĩ đại của con người.",
-        "Khuyến khích con người tiêu xài toàn bộ tiền tiết kiệm trong một ngày."
+        "Triệt tiêu căn bệnh trì hoãn kinh niên - thứ virus độc hại đã chôn vùi biết bao tài năng và ước mơ vĩ đại của con người."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Trì hoãn là nấm mồ chôn giấu tiềm năng; câu thần chú 'Hãy làm ngay' (Do it now) lặp lại liên tục sẽ kích hoạt năng lượng hành động dứt khoát."
     },
     {
       "id": "q8",
       "question": "Tại sao một người bận rộn suốt ngày (Busy) chưa chắc đã là một người làm việc hiệu quả (Productive)?",
       "options": [
-        "Vì làm việc hiệu quả đòi hỏi bạn phải nghỉ ngơi suốt cả ngày.",
-        "Bởi vì bận rộn chỉ là sự chuyển động cơ học không có định hướng, trong khi hiệu quả là sự tập trung vào những việc thực sự tạo ra kết quả đột phá.",
         "Vì xã hội chỉ đánh giá cao những người làm việc ít giờ nhất.",
-        "Vì người bận rộn thường là những người có mức lương thấp nhất trong công ty."
+        "Bởi vì bận rộn chỉ là sự chuyển động cơ học không có định hướng, trong khi hiệu quả là sự tập trung vào những việc thực sự tạo ra kết quả đột phá.",
+        "Vì người bận rộn thường là những người có mức lương thấp nhất trong công ty.",
+        "Vì làm việc hiệu quả đòi hỏi bạn phải nghỉ ngơi suốt cả ngày."
       ],
       "correctIndex": 1,
       "explanation": "Đừng nhầm lẫn giữa sự bận rộn với thành tựu; một con kiến cũng bận rộn cả ngày, câu hỏi quan trọng là: Bạn đang bận rộn vì điều gì?"
@@ -104,32 +104,32 @@
       "id": "q9",
       "question": "Julian đã so sánh thời gian của một đời người như thế nào với những hạt cát trong đồng hồ cát?",
       "options": [
-        "Đồng hồ cát chỉ có tác dụng trang trí trong phòng khách của tu viện.",
         "Từng hạt cát đang rơi xuống không ngừng nghỉ; bạn không bao giờ biết được khi nào hạt cát cuối cùng sẽ rơi xuống, vì vậy hãy sống thật trọn vẹn và tử tế.",
         "Bạn có thể lật ngược chiếc đồng hồ cát lại để kéo dài tuổi thọ bao nhiêu lần tùy thích.",
-        "Hạt cát là biểu tượng của sự vô nghĩa và nhỏ bé của kiếp người."
+        "Hạt cát là biểu tượng của sự vô nghĩa và nhỏ bé của kiếp người.",
+        "Đồng hồ cát chỉ có tác dụng trang trí trong phòng khách của tu viện."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Dòng thời gian là một chiều và không thể đảo ngược; mỗi ngày trôi qua là một trang sách của cuộc đời đã đóng lại mãi mãi."
     },
     {
       "id": "q10",
       "question": "Bài học từ việc 'Dành thời gian chất lượng cho những người thân yêu' trong Chương 11 nhắc nhở điều gì?",
       "options": [
+        "Chỉ nên gặp mặt gia đình vào những dịp lễ tết lớn trong năm.",
         "Người thành đạt không nên lập gia đình để dành toàn bộ thời gian cho công việc.",
-        "Không có sự nghiệp hay của cải nào có thể bù đắp được cho sự vắng mặt của bạn trong những năm tháng trưởng thành của con cái và sự đồng hành cùng bạn đời.",
         "Bạn nên đưa toàn bộ tiền lương cho người thân quản lý để tiết kiệm thời gian.",
-        "Chỉ nên gặp mặt gia đình vào những dịp lễ tết lớn trong năm."
+        "Không có sự nghiệp hay của cải nào có thể bù đắp được cho sự vắng mặt của bạn trong những năm tháng trưởng thành của con cái và sự đồng hành cùng bạn đời."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Tình yêu thương gia đình là cội nguồn của sức mạnh; những khoảnh khắc ấm áp bên người thân là những viên ngọc quý giá nhất của đời người."
     },
     {
       "id": "q11",
       "question": "Tại sao việc thức dậy lúc 5:30 sáng lại được coi là 'Món quà thời gian' tuyệt vời nhất mà bạn tự tặng cho mình?",
       "options": [
-        "Vì đây là quy định bắt buộc của tất cả các hãng luật hàng đầu thế giới.",
         "Để bạn có thể xem các chương trình truyền hình yêu thích phát sóng vào rạng sáng.",
+        "Vì đây là quy định bắt buộc của tất cả các hãng luật hàng đầu thế giới.",
         "Giúp bạn tránh được tình trạng kẹt xe trên đường đi làm vào giờ cao điểm.",
         "Nó mang lại cho bạn thêm 2-3 giờ tĩnh lặng hoàn hảo mỗi ngày (tương đương 1 tháng trọn vẹn mỗi năm) để đầu tư vào bản thân trước khi thế giới thức giấc."
       ],
@@ -140,10 +140,10 @@
       "id": "q12",
       "question": "Thói quen 'Tập trung đơn nhiệm' (Single-Tasking) được đánh giá vượt trội hơn 'Đa nhiệm' (Multitasking) như thế nào?",
       "options": [
-        "Đa nhiệm là kỹ năng bắt buộc của tất cả các chuyên gia công nghệ cao.",
+        "Làm đơn nhiệm chỉ phù hợp cho những công việc chân tay đơn giản.",
         "Làm một việc duy nhất tại một thời điểm với 100% sự chú tâm mang lại chất lượng xuất sắc, tiết kiệm thời gian và giải phóng não bộ khỏi sự quá tải.",
         "Làm đa nhiệm giúp tăng chỉ số IQ của bạn lên gấp đôi sau 3 tuần.",
-        "Làm đơn nhiệm chỉ phù hợp cho những công việc chân tay đơn giản."
+        "Đa nhiệm là kỹ năng bắt buộc của tất cả các chuyên gia công nghệ cao."
       ],
       "correctIndex": 1,
       "explanation": "Não bộ không thể xử lý sâu hai việc cùng lúc; sự nhảy cóc giữa các nhiệm vụ làm giảm 40% năng suất và bào mòn năng lượng tinh thần."
@@ -152,36 +152,36 @@
       "id": "q13",
       "question": "Ý nghĩa của câu chuyện người thương nhân giàu có trên giường bệnh ước có thêm 1 ngày sống để ôm người thân là gì?",
       "options": [
-        "Cần phải làm di chúc phân chia tài sản từ khi còn trẻ để tránh tranh chấp.",
-        "Người thương nhân nên đầu tư tiền vào các bệnh viện tư nhân hiện đại hơn.",
         "Khi cái chết cận kề, mọi tiền tài, địa vị đều trở nên vô nghĩa; thứ duy nhất có giá trị vĩnh cửu là tình yêu thương và những trải nghiệm ý nghĩa.",
-        "Người giàu luôn là những người phải chịu nhiều đau khổ nhất khi qua đời."
+        "Người giàu luôn là những người phải chịu nhiều đau khổ nhất khi qua đời.",
+        "Người thương nhân nên đầu tư tiền vào các bệnh viện tư nhân hiện đại hơn.",
+        "Cần phải làm di chúc phân chia tài sản từ khi còn trẻ để tránh tranh chấp."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Đừng đợi đến khi trút hơi thở cuối cùng mới nhận ra điều gì là quý giá nhất; hãy sống trọn vẹn và yêu thương hết lòng ngay từ giây phút này."
     },
     {
       "id": "q14",
       "question": "Julian đã hướng dẫn cách phân bổ thời gian hàng ngày theo cấu trúc nào để đạt được sự cân bằng hoàn hảo?",
       "options": [
-        "Dành 90% thời gian cho công việc và 10% thời gian cho tất cả các việc còn lại.",
-        "Làm việc liên tục trong 6 tháng rồi nghỉ ngơi hoàn toàn trong 6 tháng kế tiếp.",
+        "Cân bằng đồng thời giữa 4 trụ cột: Công việc sáng tạo cống hiến, Chăm sóc bản thân (thân tâm), Gắn kết gia đình và Nuôi dưỡng tâm linh.",
         "Phân bổ thời gian hoàn toàn ngẫu nhiên tùy thuộc vào tâm trạng mỗi ngày.",
-        "Cân bằng đồng thời giữa 4 trụ cột: Công việc sáng tạo cống hiến, Chăm sóc bản thân (thân tâm), Gắn kết gia đình và Nuôi dưỡng tâm linh."
+        "Làm việc liên tục trong 6 tháng rồi nghỉ ngơi hoàn toàn trong 6 tháng kế tiếp.",
+        "Dành 90% thời gian cho công việc và 10% thời gian cho tất cả các việc còn lại."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Cuộc sống là một bản giao hưởng 4 bè; sự thiếu vắng bất kỳ nốt nhạc nào cũng sẽ khiến bản hòa ca cuộc đời trở nên khập khiễng, đứt gãy."
     },
     {
       "id": "q15",
       "question": "Thông điệp đắt giá nhất kết thúc Chương 11 về việc quản trị thời gian là gì?",
       "options": [
+        "'Thời gian trôi qua không bao giờ trở lại; người khôn ngoan không tìm cách giết thời gian mà nâng niu từng phút giây như một viên ngọc vô giá'.",
         "'Hãy làm việc thật nhanh để có nhiều thời gian rảnh rỗi lướt mạng xã hội'.",
         "'Hãy để người khác quyết định lịch trình cuộc đời bạn để tránh phải suy nghĩ'.",
-        "'Thời gian trôi qua không bao giờ trở lại; người khôn ngoan không tìm cách giết thời gian mà nâng niu từng phút giây như một viên ngọc vô giá'.",
         "'Thời gian là vô tận nên bạn không cần phải vội vã trong bất kỳ việc gì'."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Quản lý thời gian thực chất là quản lý chính cuộc đời bạn; tôn trọng thời gian là biểu hiện cao nhất của lòng tự trọng và sự thông thái."
     }
   ]

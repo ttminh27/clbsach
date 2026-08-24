@@ -8,36 +8,36 @@
       "id": "q1",
       "question": "Tại sao tư duy 'Đừng ghi sổ' (Don't Keep Score) lại là nền tảng tối thượng của nghệ thuật kết nối đỉnh cao?",
       "options": [
-        "Vì ghi chép sổ sách kế toán tốn quá nhiều thời gian của người quản lý.",
-        "Vì người khác sẽ lợi dụng bạn nếu bạn không nhớ những gì họ nợ bạn.",
         "Vì pháp luật không công nhận các món nợ ân tình trong các cuộc gặp gỡ cá nhân.",
-        "Vì việc tính toán chi li ai nợ ai sẽ biến các mối quan hệ thành những giao dịch thương mại khô khốc, phá hủy sự tin cậy và cảm xúc chân thành."
+        "Vì việc tính toán chi li ai nợ ai sẽ biến các mối quan hệ thành những giao dịch thương mại khô khốc, phá hủy sự tin cậy và cảm xúc chân thành.",
+        "Vì ghi chép sổ sách kế toán tốn quá nhiều thời gian của người quản lý.",
+        "Vì người khác sẽ lợi dụng bạn nếu bạn không nhớ những gì họ nợ bạn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Khi bạn giúp đỡ mà không mong cầu đáp trả sòng phẳng ngay tức khắc, bạn tạo ra một 'hồ chứa ân tình' vô hình nhưng cực kỳ bền vững trong lòng người khác."
     },
     {
       "id": "q2",
       "question": "Câu nói 'Tôi tóm tắt chìa khóa thành công bằng một từ duy nhất: quảng đại' của Keith Ferrazzi gặp phải phản ứng hoài nghi từ sinh viên vì lý do gì?",
       "options": [
-        "Vì sinh viên cho rằng chỉ có tiền bạc mới có thể giải quyết được mọi vấn đề.",
         "Vì văn hóa kinh doanh truyền thống bị chi phối bởi quan niệm vị kỷ, coi thương trường là chiến trường 'kẻ thắng làm vua, người thua mất hết'.",
+        "Vì sinh viên nghĩ rằng tác giả đang giấu giếm một công thức tài chính phức tạp.",
         "Vì từ 'quảng đại' không có trong từ điển kinh doanh của trường đại học.",
-        "Vì sinh viên nghĩ rằng tác giả đang giấu giếm một công thức tài chính phức tạp."
+        "Vì sinh viên cho rằng chỉ có tiền bạc mới có thể giải quyết được mọi vấn đề."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Nhiều người lầm tưởng kinh doanh là trò chơi có tổng bằng không (Zero-sum game), trong khi những nhà lãnh đạo vĩ đại nhất đều thành công nhờ sự hào phóng và tinh thần phụng sự."
     },
     {
       "id": "q3",
       "question": "Tại sao nhiều người lại cảm thấy khó chịu hoặc từ chối khi nhận được một lời đề nghị giúp đỡ chân thành từ người khác?",
       "options": [
-        "Họ tin rằng mọi sự giúp đỡ trên đời đều là chiêu trò lừa đảo.",
         "Họ bị ám ảnh bởi tâm lý sợ mắc nợ (Indebtedness) và lo sợ rằng người giúp đỡ sẽ đòi hỏi một ân huệ quá sức trong tương lai.",
+        "Họ cảm thấy lòng tự trọng bị xúc phạm khi người khác nghĩ mình yếu kém.",
         "Họ không muốn bất kỳ ai can thiệp vào cuộc sống cá nhân của mình.",
-        "Họ cảm thấy lòng tự trọng bị xúc phạm khi người khác nghĩ mình yếu kém."
+        "Họ tin rằng mọi sự giúp đỡ trên đời đều là chiêu trò lừa đảo."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Tư duy phòng thủ khiến con người sợ hãi cảm giác mang ơn. Vượt qua rào cản tâm lý này là chìa khóa để đón nhận những cơ hội lớn trong đời."
     },
     {
@@ -104,12 +104,12 @@
       "id": "q9",
       "question": "Khi ai đó từ chối sự giúp đỡ của bạn vì câu nói 'Tôi không muốn mang nợ', cách phản hồi khôn ngoan và tinh tế nhất là gì?",
       "options": [
+        "Nhẹ nhàng giải thích rằng bạn giúp vì niềm vui và niềm tin vào tiềm năng của họ, đồng thời khuyến khích họ sau này hãy giúp đỡ một người khác khi có cơ hội (Pay it forward).",
         "Ép buộc họ phải nhận bằng được và dọa cắt đứt quan hệ nếu họ từ chối.",
-        "Yêu cầu họ ký vào một văn bản cam kết không đòi hỏi bồi thường.",
         "Cười nhạo sự ngây thơ của họ và bỏ đi ngay lập tức.",
-        "Nhẹ nhàng giải thích rằng bạn giúp vì niềm vui và niềm tin vào tiềm năng của họ, đồng thời khuyến khích họ sau này hãy giúp đỡ một người khác khi có cơ hội (Pay it forward)."
+        "Yêu cầu họ ký vào một văn bản cam kết không đòi hỏi bồi thường."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Khái niệm 'Chuyển tiếp lòng tốt' (Pay it forward) giúp giải tỏa áp lực mang nợ cá nhân và lan tỏa văn hóa sẻ chia ra toàn xã hội."
     },
     {
@@ -128,12 +128,12 @@
       "id": "q11",
       "question": "Tại sao việc chủ động 'yêu cầu được giúp đỡ' lại là một kỹ năng quan trọng ngang hàng với việc 'giúp đỡ người khác'?",
       "options": [
-        "Vì người được nhờ vả luôn cảm thấy vui sướng khi thấy bạn gặp khó khăn.",
         "Vì đó là cách duy nhất để kiểm tra xem đối phương có thật sự trung thành với bạn hay không.",
-        "Vì điều đó chứng minh bạn không cần phải tự mình làm bất cứ việc gì.",
-        "Vì khi bạn mở lời nhờ cậy một cách chân thành, bạn trao cho đối phương cơ hội cảm thấy bản thân họ có giá trị, được tôn trọng và làm sâu sắc thêm sợi dây liên kết."
+        "Vì người được nhờ vả luôn cảm thấy vui sướng khi thấy bạn gặp khó khăn.",
+        "Vì khi bạn mở lời nhờ cậy một cách chân thành, bạn trao cho đối phương cơ hội cảm thấy bản thân họ có giá trị, được tôn trọng và làm sâu sắc thêm sợi dây liên kết.",
+        "Vì điều đó chứng minh bạn không cần phải tự mình làm bất cứ việc gì."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Hiện tượng tâm lý Ben Franklin Effect chỉ ra rằng khi một người giúp bạn một việc nhỏ, họ sẽ có xu hướng yêu quý và gắn kết với bạn nhiều hơn."
     },
     {
@@ -152,12 +152,12 @@
       "id": "q13",
       "question": "Theo George Burton Adams trong câu trích dẫn đầu chương, điều gì định hình nên tính cách và thành công của mỗi con người?",
       "options": [
-        "Sự may mắn ngẫu nhiên của các biến động kinh tế vĩ mô.",
         "Số lượng bằng cấp và chứng chỉ học thuật mà cá nhân đó sở hữu.",
-        "Chỉ duy nhất nỗ lực tự thân và chỉ số IQ bẩm sinh của chính cá nhân đó.",
-        "Sự ảnh hưởng tổng hòa từ hàng ngàn hành động tốt đẹp, lời an ủi và sự nâng đỡ mà chúng ta đã may mắn nhận được từ những người xung quanh trong suốt cuộc đời."
+        "Sự may mắn ngẫu nhiên của các biến động kinh tế vĩ mô.",
+        "Sự ảnh hưởng tổng hòa từ hàng ngàn hành động tốt đẹp, lời an ủi và sự nâng đỡ mà chúng ta đã may mắn nhận được từ những người xung quanh trong suốt cuộc đời.",
+        "Chỉ duy nhất nỗ lực tự thân và chỉ số IQ bẩm sinh của chính cá nhân đó."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Chúng ta là sản phẩm của những mối ân tình; nhận thức được điều này giúp con người sống khiêm nhường và luôn khao khát tiếp tục lan tỏa sự tử tế."
     },
     {
@@ -165,9 +165,9 @@
       "question": "Khi bạn trao đi một cơ hội kinh doanh béo bở cho một người bạn mà không đòi hỏi hoa hồng, điều gì thực sự xảy ra với vị thế của bạn?",
       "options": [
         "Bạn định vị mình là một 'Trung tâm tạo giá trị' quyền năng (Power Center), gia tăng uy tín cá nhân và khiến cả hai bên đối tác đều khao khát tiếp tục hợp tác với bạn.",
+        "Bạn bị mất quyền kiểm soát dự án và bị xem là kẻ ngốc nghếch trong mắt đồng nghiệp.",
         "Bạn vi phạm quy tắc đạo đức nghề nghiệp về việc môi giới trung gian.",
-        "Bạn sẽ không bao giờ nhận lại được bất kỳ cơ hội kinh doanh nào khác.",
-        "Bạn bị mất quyền kiểm soát dự án và bị xem là kẻ ngốc nghếch trong mắt đồng nghiệp."
+        "Bạn sẽ không bao giờ nhận lại được bất kỳ cơ hội kinh doanh nào khác."
       ],
       "correctIndex": 0,
       "explanation": "Người có khả năng kết nối và đem lại lợi nhuận cho người khác luôn là nhân vật được săn đón và kính trọng nhất trong mọi hệ sinh thái kinh doanh."

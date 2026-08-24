@@ -20,12 +20,12 @@
       "id": "q2",
       "question": "Cảm xúc 'Niềm vui khi phát hiện mình sai' (The Joy of Being Wrong) mang lại lợi ích tâm lý to lớn nào cho con người?",
       "options": [
-        "Nó giải phóng bạn khỏi sự ngục tù của ảo tưởng: Khoảnh khắc nhận ra mình sai là khoảnh khắc bạn vừa trở nên bớt ngu ngốc hơn và hiểu biết hơn so với một giây trước đó.",
         "Nó chứng minh rằng bạn là người không cần phải chịu trách nhiệm về các hậu quả.",
+        "Nó giúp bạn có cớ để từ bỏ công việc hiện tại và đi du lịch nghỉ dưỡng.",
         "Nó giúp bạn được mọi người xung quanh khen ngợi vì tính hài hước.",
-        "Nó giúp bạn có cớ để từ bỏ công việc hiện tại và đi du lịch nghỉ dưỡng."
+        "Nó giải phóng bạn khỏi sự ngục tù của ảo tưởng: Khoảnh khắc nhận ra mình sai là khoảnh khắc bạn vừa trở nên bớt ngu ngốc hơn và hiểu biết hơn so với một giây trước đó."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Phát hiện mình sai không phải là mất đi cái gì, mà là được giải thoát khỏi một điều sai lầm; đó là một sự nâng cấp nhận thức đáng để ăn mừng."
     },
     {
@@ -44,36 +44,36 @@
       "id": "q4",
       "question": "Tại sao việc 'Định nghĩa bản thân bằng các giá trị cốt lõi (như sự trung thực, lòng trắc ẩn, sự học hỏi)' lại ưu việt hơn 'Định nghĩa bản thân bằng các ý kiến/niềm tin cụ thể'?",
       "options": [
-        "Giá trị cốt lõi giúp bạn không cần phải tuân thủ các quy định của pháp luật.",
+        "Ý kiến cụ thể giúp bạn dễ dàng tranh luận và áp đảo người khác hơn.",
         "Định nghĩa bằng giá trị chỉ phù hợp cho những người làm công tác tôn giáo.",
-        "Giá trị là chiếc la bàn định hướng bất biến, trong khi ý kiến là các công cụ linh hoạt; khi thay đổi ý kiến để phù hợp với sự thật, bạn không bị khủng hoảng bản sắc cá nhân.",
-        "Ý kiến cụ thể giúp bạn dễ dàng tranh luận và áp đảo người khác hơn."
+        "Giá trị cốt lõi giúp bạn không cần phải tuân thủ các quy định của pháp luật.",
+        "Giá trị là chiếc la bàn định hướng bất biến, trong khi ý kiến là các công cụ linh hoạt; khi thay đổi ý kiến để phù hợp với sự thật, bạn không bị khủng hoảng bản sắc cá nhân."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Nếu danh tính của bạn gắn liền với một ý kiến chính trị hay học thuyết cứng nhắc, việc từ bỏ nó giống như tự xé bỏ chính mình; nhưng nếu danh tính là 'người tìm kiếm sự thật', việc đổi ý kiến là hoàn toàn tự nhiên."
     },
     {
       "id": "q5",
       "question": "Thí nghiệm tâm lý của Danny Kahneman (nhà tâm lý học đoạt giải Nobel) khi phát hiện lý thuyết của mình sai đã diễn ra như thế nào?",
       "options": [
-        "Đôi mắt ông bừng sáng rực rỡ, ông cười lớn đầy thích thú và thốt lên: 'Thật tuyệt vời! Tôi đã hoàn toàn sai! Giờ chúng ta có một khám phá mới thú vị hơn nhiều!'.",
         "Ông rơi vào trạng thái trầm cảm nặng nề suốt nhiều tháng liền.",
-        "Ông lập tức tiêu hủy toàn bộ các bản thảo nghiên cứu và rời khỏi trường đại học.",
-        "Ông đệ đơn kiện nhóm nghiên cứu trẻ đã dám phản bác lại luận điểm của ông."
+        "Đôi mắt ông bừng sáng rực rỡ, ông cười lớn đầy thích thú và thốt lên: 'Thật tuyệt vời! Tôi đã hoàn toàn sai! Giờ chúng ta có một khám phá mới thú vị hơn nhiều!'.",
+        "Ông đệ đơn kiện nhóm nghiên cứu trẻ đã dám phản bác lại luận điểm của ông.",
+        "Ông lập tức tiêu hủy toàn bộ các bản thảo nghiên cứu và rời khỏi trường đại học."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Một bậc đại trí thực sự tìm thấy niềm vui thuần khiết trong việc phát hiện ra chân lý mới, ngay cả khi chân lý đó chứng minh các công trình trước đây của mình là chưa hoàn thiện."
     },
     {
       "id": "q6",
       "question": "Khái niệm 'Sự gắn kết danh tính thái quá' (Identity Foreclosure) gây ra tác hại gì đối với sự phát triển của một con người?",
       "options": [
-        "Không gây ra bất kỳ tác hại nào đối với sự nghiệp lâu dài.",
-        "Khóa chặt bản thân vào một nhãn mác duy nhất từ quá sớm (như: 'Tôi là người hướng nội', 'Tôi dốt toán'), khiến bạn từ chối mọi cơ hội thử nghiệm và mở rộng tiềm năng bản thân.",
         "Làm tăng khả năng trúng cử vào các vị trí lãnh đạo cấp cao trong chính phủ.",
-        "Giúp bạn hoàn thành các bài thi tốt nghiệp với điểm số tuyệt đối."
+        "Giúp bạn hoàn thành các bài thi tốt nghiệp với điểm số tuyệt đối.",
+        "Không gây ra bất kỳ tác hại nào đối với sự nghiệp lâu dài.",
+        "Khóa chặt bản thân vào một nhãn mác duy nhất từ quá sớm (như: 'Tôi là người hướng nội', 'Tôi dốt toán'), khiến bạn từ chối mọi cơ hội thử nghiệm và mở rộng tiềm năng bản thân."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Những nhãn mác tự áp đặt là những song sắt vô hình; khi bạn từ chối tái định nghĩa bản thân, bạn đang tự giam mình trong một phiên bản hạn hẹp của quá khứ."
     },
     {
@@ -92,12 +92,12 @@
       "id": "q8",
       "question": "Thói quen 'Đặt câu hỏi phản biện cho chính ý tưởng tuyệt vời nhất của mình' (Red Teaming) vận hành như thế nào?",
       "options": [
-        "Bắt buộc tất cả nhân viên phải mặc đồng phục màu đỏ trong các buổi họp.",
         "Đóng vai trò là đối thủ cạnh tranh nguy hiểm nhất của chính mình: Tự tìm kiếm mọi kẽ hở, rủi ro và điểm yếu trong kế hoạch của mình để khắc phục trước khi đưa ra thị trường.",
         "Thuê một nhóm luật sư chuyên nghiệp đi kiện các đối thủ cạnh tranh trên thị trường.",
+        "Bắt buộc tất cả nhân viên phải mặc đồng phục màu đỏ trong các buổi họp.",
         "Hủy bỏ toàn bộ kế hoạch ngay khi xuất hiện một ý kiến phản đối đầu tiên."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Tự phản biện (Red Teaming) giúp bạn kiểm tra độ bền của ý tưởng trong môi trường an toàn, biến các điểm yếu thành pháo đài vững chắc trước khi đối mặt với thực tế."
     },
     {
@@ -116,24 +116,24 @@
       "id": "q10",
       "question": "Thí nghiệm về 'Sự chuyển biến niềm tin của các nhà khoa học đối với hiện tượng biến đổi khí hậu' cho thấy điều gì?",
       "options": [
-        "Khi các bằng chứng thực nghiệm về sự nóng lên toàn cầu tích lũy ngày càng nhiều, các nhà khoa học có tư duy cởi mở đã nhanh chóng từ bỏ các mô hình cũ để chấp nhận thực tế mới.",
         "Tất cả các nhà khoa học đều từ chối thay đổi mô hình nghiên cứu đã công bố trong quá khứ.",
-        "Hiện tượng biến đổi khí hậu chỉ là một trò lừa bịp của các công ty truyền thông.",
-        "Dữ liệu khí tượng thủy văn hoàn toàn không có độ tin cậy khoa học."
+        "Khi các bằng chứng thực nghiệm về sự nóng lên toàn cầu tích lũy ngày càng nhiều, các nhà khoa học có tư duy cởi mở đã nhanh chóng từ bỏ các mô hình cũ để chấp nhận thực tế mới.",
+        "Dữ liệu khí tượng thủy văn hoàn toàn không có độ tin cậy khoa học.",
+        "Hiện tượng biến đổi khí hậu chỉ là một trò lừa bịp của các công ty truyền thông."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Sức mạnh của cộng đồng khoa học chân chính là khả năng tự sửa sai tiệm tiến; chân lý không được định đoạt bằng niềm tin của số đông mà bằng sức nặng của bằng chứng thực tế."
     },
     {
       "id": "q11",
       "question": "Làm thế nào để xây dựng một văn hóa gia đình nơi 'Việc thừa nhận sai lầm được hoan nghênh thay vì bị trừng phạt'?",
       "options": [
-        "Tuyệt đối không bao giờ để con cái biết cha mẹ đã từng mắc bất kỳ sai sót nào.",
         "Bỏ qua mọi lỗi lầm của con cái và không cần đưa ra bất kỳ sự uốn nắn nào.",
-        "Cha mẹ chủ động chia sẻ cởi mở về những lỗi lầm của chính mình, khen ngợi con cái khi con dũng cảm nhận lỗi và cùng con phân tích bài học rút ra.",
-        "Phạt đòn thật nặng mỗi khi con cái làm vỡ đồ đạc trong nhà để rèn kỷ luật."
+        "Tuyệt đối không bao giờ để con cái biết cha mẹ đã từng mắc bất kỳ sai sót nào.",
+        "Phạt đòn thật nặng mỗi khi con cái làm vỡ đồ đạc trong nhà để rèn kỷ luật.",
+        "Cha mẹ chủ động chia sẻ cởi mở về những lỗi lầm của chính mình, khen ngợi con cái khi con dũng cảm nhận lỗi và cùng con phân tích bài học rút ra."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Trẻ em không sợ thất bại, chúng chỉ sợ sự phán xét và trừng phạt; khi cha mẹ làm gương về sự khiêm nhường nhận lỗi, con cái sẽ phát triển tư duy cầu tiến vượt bậc."
     },
     {
@@ -152,10 +152,10 @@
       "id": "q13",
       "question": "Khái niệm 'Sự linh hoạt nhận thức' (Cognitive Flexibility) đóng vai trò như một bộ giảm xóc tâm lý như thế nào trước những biến cố bất ngờ?",
       "options": [
+        "Bảo đảm rằng mọi dự án kinh doanh của bạn sẽ luôn luôn sinh lời 100%.",
         "Giúp bạn không bao giờ phải chịu bất kỳ cảm xúc buồn bã hay đau đớn nào.",
-        "Làm giảm áp lực tài chính thông qua việc vay mượn tiền từ các quỹ tín dụng.",
         "Giúp bạn nhanh chóng hấp thu cú sốc, từ bỏ kế hoạch cũ không còn khả thi và lập tức tái cấu trúc giải pháp mới mà không rơi vào trạng thái tê liệt hay trầm cảm.",
-        "Bảo đảm rằng mọi dự án kinh doanh của bạn sẽ luôn luôn sinh lời 100%."
+        "Làm giảm áp lực tài chính thông qua việc vay mượn tiền từ các quỹ tín dụng."
       ],
       "correctIndex": 2,
       "explanation": "Cây sậy mềm dẻo uốn mình theo cơn bão sẽ sống sót, trong khi cây cổ thụ cứng nhắc sẽ bị quật gãy; sự linh hoạt nhận thức là lá chắn sinh tồn mạnh mẽ nhất của tâm trí."
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Bài tập thực hành 'Danh sách những điều tôi từng tin chắc nhưng hóa ra đã hoàn toàn sai' (The List of My Wrong Beliefs) có tác dụng gì?",
       "options": [
-        "Để in ra làm tài liệu tự phê bình trong các buổi sinh hoạt đảng phái.",
         "Để lưu trữ làm bằng chứng chứng minh mình là người không có lập trường.",
-        "Không mang lại bất kỳ giá trị thực tế nào cho sự phát triển cá nhân.",
-        "Giúp hạ nhiệt cái tôi, nuôi dưỡng tính khiêm nhường lành mạnh và nhắc nhở chúng ta rằng những niềm tin chắc nịch hiện tại cũng có thể đang chứa đựng nhiều sai sót."
+        "Để in ra làm tài liệu tự phê bình trong các buổi sinh hoạt đảng phái.",
+        "Giúp hạ nhiệt cái tôi, nuôi dưỡng tính khiêm nhường lành mạnh và nhắc nhở chúng ta rằng những niềm tin chắc nịch hiện tại cũng có thể đang chứa đựng nhiều sai sót.",
+        "Không mang lại bất kỳ giá trị thực tế nào cho sự phát triển cá nhân."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Nhìn lại danh sách những điều mình từng sai là liều vắc-xin tốt nhất chống lại căn bệnh tự phụ; nó giữ cho tâm trí luôn ở trạng thái tỉnh thức, khiêm nhường và sẵn sàng tái tư duy."
     },
     {

@@ -57,9 +57,9 @@
       "question": "Tại sao tác giả khẳng định việc kiên trì thực hành các hành động nhỏ liên quan đến 'Các ý tưởng đều vô giá trị' sẽ tạo ra bước nhảy vọt sau một thời gian dài?",
       "options": [
         "Vì sức mạnh của lãi kép hành vi: Những cải tiến nhỏ 1% mỗi ngày tích lũy liên tục sẽ tạo nên năng lực vượt trội mà người khác không thể bắt kịp.",
-        "Vì người khác sẽ tự động làm thay công việc cho bạn nếu bạn kiên trì.",
         "Vì các giải thưởng xã hội luôn được trao cho những ai làm việc nhẹ nhàng nhất.",
-        "Vì chỉ cần sau một đêm may mắn là mọi nỗ lực nhỏ sẽ tự động biến thành thành công rực rỡ."
+        "Vì chỉ cần sau một đêm may mắn là mọi nỗ lực nhỏ sẽ tự động biến thành thành công rực rỡ.",
+        "Vì người khác sẽ tự động làm thay công việc cho bạn nếu bạn kiên trì."
       ],
       "correctIndex": 0,
       "explanation": "Quy luật tích lũy vi mô: Những thói quen tốt lặp đi lặp lại hàng ngày trong âm thầm sẽ tạo nên đột phá ngoạn mục về năng lực và vị thế cá nhân."
@@ -80,12 +80,12 @@
       "id": "q7",
       "question": "Cách tiếp cận của bài học 'Các ý tưởng đều vô giá trị' giúp cải thiện mối quan hệ giữa người với người như thế nào?",
       "options": [
-        "Khuyên bạn chỉ nên kết giao với những ai đem lại lợi ích tài chính trực tiếp.",
-        "Giúp bạn nhận ra giá trị của sự lắng nghe chân thành, tôn trọng sự độc bản của người khác và xây dựng niềm tin bằng sự chính trực.",
         "Yêu cầu bạn luôn né tránh bày tỏ quan điểm thật để giữ hòa khí bằng mọi giá.",
-        "Dạy bạn cách thao túng cảm xúc của người khác để đạt mục đích riêng."
+        "Dạy bạn cách thao túng cảm xúc của người khác để đạt mục đích riêng.",
+        "Khuyên bạn chỉ nên kết giao với những ai đem lại lợi ích tài chính trực tiếp.",
+        "Giúp bạn nhận ra giá trị của sự lắng nghe chân thành, tôn trọng sự độc bản của người khác và xây dựng niềm tin bằng sự chính trực."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Sự kết nối chân thật bắt đầu từ sự khiêm nhường, thấu cảm và sự nhất quán giữa lời nói với hành động."
     },
     {
@@ -116,12 +116,12 @@
       "id": "q10",
       "question": "Trong kỷ nguyên ngập tràn thông tin gây xao nhãng, bài học 'Các ý tưởng đều vô giá trị' khuyến nghị người đọc bảo vệ tài sản nào quý giá nhất?",
       "options": [
-        "Bộ sưu tập các đồ dùng công nghệ đời mới nhất.",
         "Số lượng người theo dõi trên mạng xã hội.",
+        "Sự tập trung cao độ và nguồn năng lượng tinh thần để dồn vào những mục tiêu có giá trị tác động cao.",
         "Thời gian nghỉ ngơi thụ động xem video giải trí.",
-        "Sự tập trung cao độ và nguồn năng lượng tinh thần để dồn vào những mục tiêu có giá trị tác động cao."
+        "Bộ sưu tập các đồ dùng công nghệ đời mới nhất."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sự tập trung sâu là siêu năng lực của thế kỷ 21; dồn toàn bộ tâm trí vào việc tạo ra giá trị cốt lõi là con đường duy nhất dẫn tới vị thế chuyên gia đỉnh cao."
     },
     {
@@ -141,11 +141,11 @@
       "question": "Dấu hiệu rõ nhất cho thấy một người đang rơi vào 'Tâm thế nạn nhân' khi đối mặt với thử thách trong bài học này là gì?",
       "options": [
         "Họ tìm kiếm giải pháp thay thế và tự nhận trách nhiệm về phần việc của mình.",
+        "Họ bình tĩnh phân tích nguyên nhân gốc rễ của sự cố.",
         "Họ đọc sách và tìm người cố vấn để nâng cao kỹ năng.",
-        "Họ liên tục viện cớ: 'Tại sếp, tại kinh tế, tại thời tiết...' và chờ đợi người khác cứu giúp.",
-        "Họ bình tĩnh phân tích nguyên nhân gốc rễ của sự cố."
+        "Họ liên tục viện cớ: 'Tại sếp, tại kinh tế, tại thời tiết...' và chờ đợi người khác cứu giúp."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Bào chữa và đổ lỗi là phản xạ của tâm lý nạn nhân; người chiến thắng luôn tự hỏi: 'Tôi có thể làm gì để cải thiện tình hình ngay bây giờ?'."
     },
     {
@@ -164,24 +164,24 @@
       "id": "q14",
       "question": "Để tránh việc đọc xong chương sách này mà không tạo ra chuyển biến thực tế, bước hành động quan trọng nhất cần làm ngay hôm nay là gì?",
       "options": [
-        "Kể cho thật nhiều người nghe về những gì mình dự định làm mà không thực hiện.",
-        "Lên danh sách 100 mục tiêu phức tạp nhưng không bắt đầu việc nào.",
         "Chọn ra đúng MỘT thói quen hoặc hành động cốt lõi từ bài học và kiên quyết thực hiện ngay trong vòng 24 giờ tới.",
-        "Chờ đợi đến đầu tháng sau hoặc đầu năm mới rồi mới bắt đầu rèn luyện."
+        "Chờ đợi đến đầu tháng sau hoặc đầu năm mới rồi mới bắt đầu rèn luyện.",
+        "Kể cho thật nhiều người nghe về những gì mình dự định làm mà không thực hiện.",
+        "Lên danh sách 100 mục tiêu phức tạp nhưng không bắt đầu việc nào."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Quy tắc 24 giờ: Ý tưởng không hành động chỉ là ảo ảnh. Bắt đầu ngay với một hành động cụ thể sẽ phá vỡ sức ỳ tâm lý và kích hoạt quán tính thành công."
     },
     {
       "id": "q15",
       "question": "Câu hỏi sâu sắc nhất mà chương '15. Các ý tưởng đều vô giá trị' để lại trong tâm trí người đọc để tự soi rọi bản thân là gì?",
       "options": [
-        "Tôi có thể trì hoãn việc khó này đến tuần sau được không?",
-        "Làm sao để tìm được công việc nhàn hạ nhất mà vẫn nhận lương cao?",
         "Người khác nghĩ gì về ngoại hình và trang phục của tôi hôm nay?",
-        "Nếu hôm nay là ngày duy nhất tôi có thể cống hiến hết mình, tôi có đang sống xứng đáng với tiềm năng vĩ đại mà tôi được ban tặng hay không?"
+        "Nếu hôm nay là ngày duy nhất tôi có thể cống hiến hết mình, tôi có đang sống xứng đáng với tiềm năng vĩ đại mà tôi được ban tặng hay không?",
+        "Tôi có thể trì hoãn việc khó này đến tuần sau được không?",
+        "Làm sao để tìm được công việc nhàn hạ nhất mà vẫn nhận lương cao?"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Đời ngắn đừng ngủ dài: Hãy sống mỗi ngày như một tác phẩm nghệ thuật, không thỏa hiệp với sự tầm thường và luôn nỗ lực đạt tới sự xuất chúng."
     }
   ]

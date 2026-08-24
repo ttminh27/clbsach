@@ -68,22 +68,22 @@
       "id": "q6",
       "question": "Nghịch lý lớn nhất được chỉ ra trong chương '16. Mở to mắt' là gì?",
       "options": [
-        "Những người nổi tiếng nhất là những người không bao giờ phải chịu áp lực.",
         "Càng đọc nhiều sách thì con người càng trở nên lười biếng hơn.",
+        "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ.",
         "Làm việc càng ít thì chất lượng công việc lại càng cao.",
-        "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ."
+        "Những người nổi tiếng nhất là những người không bao giờ phải chịu áp lực."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sự trưởng thành chỉ xảy ra ở ranh giới của sự khó chịu; nếu mọi việc đều quá dễ dàng và êm đềm, bạn đang dậm chân tại chỗ."
     },
     {
       "id": "q7",
       "question": "Cách tiếp cận của bài học 'Mở to mắt' giúp cải thiện mối quan hệ giữa người với người như thế nào?",
       "options": [
+        "Dạy bạn cách thao túng cảm xúc của người khác để đạt mục đích riêng.",
         "Khuyên bạn chỉ nên kết giao với những ai đem lại lợi ích tài chính trực tiếp.",
-        "Yêu cầu bạn luôn né tránh bày tỏ quan điểm thật để giữ hòa khí bằng mọi giá.",
         "Giúp bạn nhận ra giá trị của sự lắng nghe chân thành, tôn trọng sự độc bản của người khác và xây dựng niềm tin bằng sự chính trực.",
-        "Dạy bạn cách thao túng cảm xúc của người khác để đạt mục đích riêng."
+        "Yêu cầu bạn luôn né tránh bày tỏ quan điểm thật để giữ hòa khí bằng mọi giá."
       ],
       "correctIndex": 2,
       "explanation": "Sự kết nối chân thật bắt đầu từ sự khiêm nhường, thấu cảm và sự nhất quán giữa lời nói với hành động."
@@ -104,12 +104,12 @@
       "id": "q9",
       "question": "Khi những nỗ lực áp dụng 'Mở to mắt' bị người xung quanh hoài nghi hoặc chỉ trích, phản ứng khôn ngoan nhất là gì?",
       "options": [
-        "Đóng cửa không tiếp xúc với bất kỳ ai.",
-        "Lấy kết quả thực tế và sự kiên định làm câu trả lời, xem lời chỉ trích như một phép thử cho bản lĩnh cá nhân.",
         "Bỏ cuộc ngay lập tức để hòa nhập với tập thể.",
-        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm."
+        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm.",
+        "Đóng cửa không tiếp xúc với bất kỳ ai.",
+        "Lấy kết quả thực tế và sự kiên định làm câu trả lời, xem lời chỉ trích như một phép thử cho bản lĩnh cá nhân."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Người có tư tưởng lớn không để những tiếng ồn bên ngoài làm chao đảo định hướng bên trong; kết quả công việc vượt trội chính là lời minh chứng thuyết phục nhất."
     },
     {
@@ -140,12 +140,12 @@
       "id": "q12",
       "question": "Dấu hiệu rõ nhất cho thấy một người đang rơi vào 'Tâm thế nạn nhân' khi đối mặt với thử thách trong bài học này là gì?",
       "options": [
+        "Họ tìm kiếm giải pháp thay thế và tự nhận trách nhiệm về phần việc của mình.",
         "Họ bình tĩnh phân tích nguyên nhân gốc rễ của sự cố.",
-        "Họ liên tục viện cớ: 'Tại sếp, tại kinh tế, tại thời tiết...' và chờ đợi người khác cứu giúp.",
         "Họ đọc sách và tìm người cố vấn để nâng cao kỹ năng.",
-        "Họ tìm kiếm giải pháp thay thế và tự nhận trách nhiệm về phần việc của mình."
+        "Họ liên tục viện cớ: 'Tại sếp, tại kinh tế, tại thời tiết...' và chờ đợi người khác cứu giúp."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Bào chữa và đổ lỗi là phản xạ của tâm lý nạn nhân; người chiến thắng luôn tự hỏi: 'Tôi có thể làm gì để cải thiện tình hình ngay bây giờ?'."
     },
     {
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Câu hỏi sâu sắc nhất mà chương '16. Mở to mắt' để lại trong tâm trí người đọc để tự soi rọi bản thân là gì?",
       "options": [
-        "Tôi có thể trì hoãn việc khó này đến tuần sau được không?",
-        "Người khác nghĩ gì về ngoại hình và trang phục của tôi hôm nay?",
         "Làm sao để tìm được công việc nhàn hạ nhất mà vẫn nhận lương cao?",
-        "Nếu hôm nay là ngày duy nhất tôi có thể cống hiến hết mình, tôi có đang sống xứng đáng với tiềm năng vĩ đại mà tôi được ban tặng hay không?"
+        "Người khác nghĩ gì về ngoại hình và trang phục của tôi hôm nay?",
+        "Nếu hôm nay là ngày duy nhất tôi có thể cống hiến hết mình, tôi có đang sống xứng đáng với tiềm năng vĩ đại mà tôi được ban tặng hay không?",
+        "Tôi có thể trì hoãn việc khó này đến tuần sau được không?"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Đời ngắn đừng ngủ dài: Hãy sống mỗi ngày như một tác phẩm nghệ thuật, không thỏa hiệp với sự tầm thường và luôn nỗ lực đạt tới sự xuất chúng."
     }
   ]

@@ -45,35 +45,35 @@
       "question": "Theo phân tích tâm lý trong sách, đâu là lý do sâu xa khiến nhiều người biết rõ bài học 'Thực hành là tốt nhất' nhưng vẫn không chịu thay đổi?",
       "options": [
         "Họ chưa tìm được một cuốn sách hướng dẫn chi tiết từng bước một.",
-        "Họ bị tê liệt bởi nỗi sợ bị phán xét, sợ thất bại và sự cám dỗ của vùng an toàn quen thuộc.",
         "Họ thiếu các công cụ kỹ thuật số và thiết bị hiện đại để quản lý thời gian.",
-        "Họ đã đạt tới đỉnh cao của sự nghiệp nên không còn nhu cầu phát triển."
+        "Họ đã đạt tới đỉnh cao của sự nghiệp nên không còn nhu cầu phát triển.",
+        "Họ bị tê liệt bởi nỗi sợ bị phán xét, sợ thất bại và sự cám dỗ của vùng an toàn quen thuộc."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Bộ não con người có xu hướng bám víu vào sự an toàn giả tạo; vượt qua nỗi sợ hãi chính là bước ngoặt quyết định để bước vào thế giới của sự xuất sắc."
     },
     {
       "id": "q5",
       "question": "Tại sao tác giả khẳng định việc kiên trì thực hành các hành động nhỏ liên quan đến 'Thực hành là tốt nhất' sẽ tạo ra bước nhảy vọt sau một thời gian dài?",
       "options": [
-        "Vì chỉ cần sau một đêm may mắn là mọi nỗ lực nhỏ sẽ tự động biến thành thành công rực rỡ.",
         "Vì sức mạnh của lãi kép hành vi: Những cải tiến nhỏ 1% mỗi ngày tích lũy liên tục sẽ tạo nên năng lực vượt trội mà người khác không thể bắt kịp.",
         "Vì các giải thưởng xã hội luôn được trao cho những ai làm việc nhẹ nhàng nhất.",
+        "Vì chỉ cần sau một đêm may mắn là mọi nỗ lực nhỏ sẽ tự động biến thành thành công rực rỡ.",
         "Vì người khác sẽ tự động làm thay công việc cho bạn nếu bạn kiên trì."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Quy luật tích lũy vi mô: Những thói quen tốt lặp đi lặp lại hàng ngày trong âm thầm sẽ tạo nên đột phá ngoạn mục về năng lực và vị thế cá nhân."
     },
     {
       "id": "q6",
       "question": "Nghịch lý lớn nhất được chỉ ra trong chương '54. Thực hành là tốt nhất' là gì?",
       "options": [
-        "Làm việc càng ít thì chất lượng công việc lại càng cao.",
-        "Càng đọc nhiều sách thì con người càng trở nên lười biếng hơn.",
+        "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ.",
         "Những người nổi tiếng nhất là những người không bao giờ phải chịu áp lực.",
-        "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ."
+        "Càng đọc nhiều sách thì con người càng trở nên lười biếng hơn.",
+        "Làm việc càng ít thì chất lượng công việc lại càng cao."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Sự trưởng thành chỉ xảy ra ở ranh giới của sự khó chịu; nếu mọi việc đều quá dễ dàng và êm đềm, bạn đang dậm chân tại chỗ."
     },
     {
@@ -92,24 +92,24 @@
       "id": "q8",
       "question": "Khái niệm 'Lãnh đạo' theo tinh thần của Sharma trong 'Thực hành là tốt nhất' có điểm gì khác biệt so với quan niệm truyền thống?",
       "options": [
-        "Lãnh đạo là người không bao giờ cần phải trực tiếp giải quyết vấn đề.",
-        "Lãnh đạo là năng lực tự dẫn dắt bản thân, truyền cảm hứng qua hành động gương mẫu và phụng sự người khác dù bạn ở bất kỳ cấp bậc nào.",
+        "Lãnh đạo là người có văn phòng đẹp nhất và thu nhập cao nhất trong công ty.",
         "Lãnh đạo là quyền sinh quyền sát và ra lệnh cho cấp dưới.",
-        "Lãnh đạo là người có văn phòng đẹp nhất và thu nhập cao nhất trong công ty."
+        "Lãnh đạo là năng lực tự dẫn dắt bản thân, truyền cảm hứng qua hành động gương mẫu và phụng sự người khác dù bạn ở bất kỳ cấp bậc nào.",
+        "Lãnh đạo là người không bao giờ cần phải trực tiếp giải quyết vấn đề."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Lãnh đạo không phải là chức danh ghi trên danh thiếp, mà là cách bạn tư duy, cách bạn tương tác với con người và tiêu chuẩn xuất sắc bạn duy trì mỗi ngày."
     },
     {
       "id": "q9",
       "question": "Khi những nỗ lực áp dụng 'Thực hành là tốt nhất' bị người xung quanh hoài nghi hoặc chỉ trích, phản ứng khôn ngoan nhất là gì?",
       "options": [
-        "Đóng cửa không tiếp xúc với bất kỳ ai.",
-        "Bỏ cuộc ngay lập tức để hòa nhập với tập thể.",
         "Lấy kết quả thực tế và sự kiên định làm câu trả lời, xem lời chỉ trích như một phép thử cho bản lĩnh cá nhân.",
-        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm."
+        "Bỏ cuộc ngay lập tức để hòa nhập với tập thể.",
+        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm.",
+        "Đóng cửa không tiếp xúc với bất kỳ ai."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Người có tư tưởng lớn không để những tiếng ồn bên ngoài làm chao đảo định hướng bên trong; kết quả công việc vượt trội chính là lời minh chứng thuyết phục nhất."
     },
     {
@@ -140,12 +140,12 @@
       "id": "q12",
       "question": "Dấu hiệu rõ nhất cho thấy một người đang rơi vào 'Tâm thế nạn nhân' khi đối mặt với thử thách trong bài học này là gì?",
       "options": [
-        "Họ đọc sách và tìm người cố vấn để nâng cao kỹ năng.",
+        "Họ tìm kiếm giải pháp thay thế và tự nhận trách nhiệm về phần việc của mình.",
         "Họ bình tĩnh phân tích nguyên nhân gốc rễ của sự cố.",
-        "Họ liên tục viện cớ: 'Tại sếp, tại kinh tế, tại thời tiết...' và chờ đợi người khác cứu giúp.",
-        "Họ tìm kiếm giải pháp thay thế và tự nhận trách nhiệm về phần việc của mình."
+        "Họ đọc sách và tìm người cố vấn để nâng cao kỹ năng.",
+        "Họ liên tục viện cớ: 'Tại sếp, tại kinh tế, tại thời tiết...' và chờ đợi người khác cứu giúp."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Bào chữa và đổ lỗi là phản xạ của tâm lý nạn nhân; người chiến thắng luôn tự hỏi: 'Tôi có thể làm gì để cải thiện tình hình ngay bây giờ?'."
     },
     {

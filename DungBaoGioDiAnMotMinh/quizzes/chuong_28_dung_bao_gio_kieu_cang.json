@@ -20,12 +20,12 @@
       "id": "q2",
       "question": "Câu ngạn ngữ nổi tiếng 'Hãy đối xử tử tế với những người bạn gặp trên đường đi lên, bởi vì bạn sẽ gặp lại chính họ khi bạn đi xuống' hàm chứa chân lý nào?",
       "options": [
-        "Mọi người đều sẽ bị sa thải khỏi công ty sau đúng 5 năm làm việc.",
         "Cuộc đời luôn có những bước thăng trầm bất định; sự tử tế và khiêm nhường trong lúc vinh quang chính là chiếc phao cứu sinh bảo vệ bạn khi nghịch cảnh ập đến.",
         "Bạn bắt buộc phải ghi nhớ khuôn mặt của tất cả những người đi chung thang máy.",
+        "Mọi người đều sẽ bị sa thải khỏi công ty sau đúng 5 năm làm việc.",
         "Chỉ có những người thất bại mới cần phải đối xử tốt với người khác."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Không ai có thể ở trên đỉnh vinh quang mãi mãi; gieo hạt giống của sự tử tế và tôn trọng khi đang thành công sẽ bảo vệ bạn khỏi sự cay đắng khi sa cơ."
     },
     {
@@ -45,9 +45,9 @@
       "question": "Biểu hiện rõ nét nhất của một người đang bị 'căn bệnh kiêu ngạo' tấn công trong môi trường công sở là gì?",
       "options": [
         "Ngừng lắng nghe ý kiến phản biện, cho rằng mình luôn đúng, coi thường công sức của cấp dưới và chỉ thích nghe những lời nịnh bợ hoa mỹ.",
-        "Đến sớm 15 phút trước mỗi cuộc họp giao ban sáng.",
         "Chủ động nhận trách nhiệm khi dự án gặp thất bại.",
-        "Khen ngợi thành tích của các thành viên trong nhóm trước toàn công ty."
+        "Khen ngợi thành tích của các thành viên trong nhóm trước toàn công ty.",
+        "Đến sớm 15 phút trước mỗi cuộc họp giao ban sáng."
       ],
       "correctIndex": 0,
       "explanation": "Bịt tai trước sự thật và say sưa trong lời tâng bốc là triệu chứng giai đoạn cuối của sự kiêu ngạo trước khi rơi tự do xuống vực thẳm thất bại."
@@ -68,12 +68,12 @@
       "id": "q6",
       "question": "Tại sao sự khiêm tốn đích thực (Authentic Humility) lại được coi là đỉnh cao của sự tự tin chứ không phải là sự yếu đuối?",
       "options": [
+        "Vì người thực sự có tài năng và bản lĩnh vững vàng không cần phải phô trương hay hạ thấp người khác để chứng minh giá trị của mình.",
         "Vì người khiêm tốn luôn sẵn sàng nhường lại toàn bộ tài sản cho đối thủ.",
         "Vì sự khiêm tốn là một chiếc mặt nạ ngoại giao giúp che giấu sự bất tài.",
-        "Vì người thực sự có tài năng và bản lĩnh vững vàng không cần phải phô trương hay hạ thấp người khác để chứng minh giá trị của mình.",
         "Vì đó là nghi thức bắt buộc trong các tôn giáo cổ xưa."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Thùng rỗng mới kêu to; bông lúa chín là bông lúa cúi đầu. Người có nội lực phi thường luôn toát ra sự khiêm cung, hòa nhã và tôn trọng muôn loài."
     },
     {
@@ -81,9 +81,9 @@
       "question": "Hành động của một nhà lãnh đạo xuất chúng khi đội ngũ đạt được một thành tựu rực rỡ là gì?",
       "options": [
         "Bước lùi lại phía sau, nhường toàn bộ ánh đèn sân khấu và lời khen ngợi cho các cộng sự, đồng thời đứng ra nhận toàn bộ trách nhiệm khi có sai sót.",
-        "Tuyên bố sa thải các nhân viên đã hỗ trợ mình để khẳng định tài năng độc lập.",
         "Đứng lên bục vinh quang nhận hết mọi công lao về mình và chỉ trích cấp dưới.",
-        "Giữ kín toàn bộ tiền thưởng và không chia sẻ cho bất kỳ ai trong nhóm."
+        "Giữ kín toàn bộ tiền thưởng và không chia sẻ cho bất kỳ ai trong nhóm.",
+        "Tuyên bố sa thải các nhân viên đã hỗ trợ mình để khẳng định tài năng độc lập."
       ],
       "correctIndex": 0,
       "explanation": "Quy tắc chiếc gương và cửa sổ: Khi thành công hãy nhìn qua cửa sổ để tôn vinh người khác; khi thất bại hãy nhìn vào gương để tự kiểm điểm chính mình."
@@ -104,12 +104,12 @@
       "id": "q9",
       "question": "Điều gì lý giải tại sao những kẻ kiêu ngạo thường phải chịu sự cô độc tột cùng khi gặp biến cố nghịch cảnh?",
       "options": [
-        "Vì bạn bè của họ đều đã chuyển sang sinh sống ở nước ngoài.",
-        "Vì trong lúc vinh quang họ đã đối xử tàn nhẫn và đốt cháy mọi cây cầu quan hệ; khi họ ngã xuống, không một ai muốn dang tay cứu vớt một kẻ bội bạc.",
         "Vì pháp luật cấm mọi người không được giúp đỡ những người từng giàu có.",
-        "Vì những người kiêu ngạo luôn bị cách ly tại các bệnh viện tâm thần."
+        "Vì những người kiêu ngạo luôn bị cách ly tại các bệnh viện tâm thần.",
+        "Vì bạn bè của họ đều đã chuyển sang sinh sống ở nước ngoài.",
+        "Vì trong lúc vinh quang họ đã đối xử tàn nhẫn và đốt cháy mọi cây cầu quan hệ; khi họ ngã xuống, không một ai muốn dang tay cứu vớt một kẻ bội bạc."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Gieo gió ắt gặt bão; sự kiêu ngạo phá hủy toàn bộ lòng trắc ẩn xung quanh, để lại kẻ ngạo mạn trơ trọi một mình giữa sa mạc hoạn nạn."
     },
     {
@@ -129,9 +129,9 @@
       "question": "Tại sao việc 'xin lỗi chân thành và sửa sai nhanh chóng' khi nhận ra mình đã có hành vi trịch thượng lại là biểu hiện của người có trí tuệ lớn?",
       "options": [
         "Nó dũng cảm phá vỡ cái tôi giả tạo, chữa lành những tổn thương trong mối quan hệ và khôi phục lại niềm tin cùng sự kính trọng từ đối phương.",
+        "Vì xin lỗi là cách nhanh nhất để tránh bị kiện ra tòa án dân sự.",
         "Vì đối phương sẽ tự động bồi thường tiền mặt cho bạn sau khi nhận lời xin lỗi.",
-        "Vì đó là thủ tục bắt buộc để bạn được tiếp tục giữ chức vụ quản lý.",
-        "Vì xin lỗi là cách nhanh nhất để tránh bị kiện ra tòa án dân sự."
+        "Vì đó là thủ tục bắt buộc để bạn được tiếp tục giữ chức vụ quản lý."
       ],
       "correctIndex": 0,
       "explanation": "Biết nhận sai và cúi đầu trước chân lý không làm giảm giá trị của bạn; ngược lại, nó nâng tầm nhân cách bạn lên một nấc thang cao đẹp hơn."
@@ -152,12 +152,12 @@
       "id": "q13",
       "question": "Tại sao các bậc thầy đầu tư vĩ đại (như Warren Buffett hay Charlie Munger) luôn duy trì lối sống cực kỳ giản dị và khiêm nhường?",
       "options": [
-        "Vì lối sống giản dị là quy định bắt buộc đối với các nhà đầu tư tài chính.",
         "Vì họ hiểu rằng sự phô trương vật chất chỉ là trò chơi phù phiếm của cái tôi bất an; sự tự do tâm trí và giá trị cống hiến cho nhân loại mới là hạnh phúc đích thực.",
+        "Vì họ không có đủ tiền để mua những món đồ xa xỉ đắt tiền.",
         "Vì họ sợ bị cơ quan thuế điều tra nguồn gốc tài sản.",
-        "Vì họ không có đủ tiền để mua những món đồ xa xỉ đắt tiền."
+        "Vì lối sống giản dị là quy định bắt buộc đối với các nhà đầu tư tài chính."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự giản dị là đỉnh cao của sự tinh tế; những bộ óc vĩ đại nhất luôn tìm thấy niềm an lạc trong sự khiêm cung và phụng sự cuộc đời."
     },
     {
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Chân lý vàng son của chương 28 đúc kết lại bằng lời răn dạy nào cho mỗi chúng ta?",
       "options": [
-        "Đừng bao giờ giúp đỡ những người có hoàn cảnh khó khăn hơn mình.",
-        "Hãy luôn thể hiện quyền lực để cấp dưới phải sợ hãi và phục tùng.",
         "Càng lên cao càng phải cúi đầu thấp; sự khiêm nhường là chiếc vương miện lấp lánh nhất của người chiến thắng và là bùa hộ mệnh bảo vệ bạn muôn đời.",
-        "Kiêu ngạo là phẩm chất cần thiết để trở thành một nhà lãnh đạo vĩ đại."
+        "Hãy luôn thể hiện quyền lực để cấp dưới phải sợ hãi và phục tùng.",
+        "Kiêu ngạo là phẩm chất cần thiết để trở thành một nhà lãnh đạo vĩ đại.",
+        "Đừng bao giờ giúp đỡ những người có hoàn cảnh khó khăn hơn mình."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Khiêm tốn là mẹ của mọi đức hạnh; giữ trọn sự khiêm nhường giúp tâm hồn bạn luôn rộng mở đón nhận những ân phúc và nguồn năng lượng vô tận của cuộc sống."
     }
   ]

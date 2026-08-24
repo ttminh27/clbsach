@@ -54,6 +54,8 @@ clbsach/
 │   ├── audio/                # Các bài hướng dẫn audio thiền / thực hành (.mp3)
 │   └── images/               # Hình ảnh minh họa & ảnh bìa
 ├── SucManhCuaThoiQuen/       # Thư mục dữ liệu sách: Sức Mạnh Của Thói Quen
+├── ThinhVuongTaiChinhTuoi30_T1/ # Thư mục dữ liệu sách: Thịnh Vượng Tài Chính Tuổi 30 (Tập 1)
+├── ThinhVuongTaiChinhTuoi30_T2/ # Thư mục dữ liệu sách: Thịnh Vượng Tài Chính Tuổi 30 (Tập 2)
 ├── ThinkAgain/               # Thư mục dữ liệu sách: Dám Nghĩ Lại
 ├── ViTuSiBanChiecFerrari/    # Thư mục dữ liệu sách: Vị Tu Sĩ Bán Chiếc Ferrari
 ├── public/                   # Tài nguyên tĩnh & Symlinks sách cho runtime

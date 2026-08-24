@@ -20,10 +20,10 @@
       "id": "q2",
       "question": "Ba giai đoạn phát triển của một phong trào xã hội thành công theo phân tích của cuốn sách bao gồm những thói quen nào?",
       "options": [
-        "1. Tuyên truyền báo chí -> 2. Thu gom tiền tài trợ -> 3. Bầu cử tổng thống",
+        "1. Bạo lực -> 2. Đàm phán -> 3. Ký kết hiệp ước",
         "1. Bắt đầu từ thói quen xã hội của các 'Mối liên kết mạnh' (bạn thân) -> 2. Lan rộng nhờ thói quen của các 'Mối liên kết yếu' (áp lực ngang hàng giữa người quen) -> 3. Bền vững nhờ các nhà lãnh đạo tạo dựng 'Thói quen căn tính mới' cho cộng đồng.",
-        "1. Khởi xướng từ chính phủ -> 2. Ban hành luật -> 3. Cưỡng chế thực thi",
-        "1. Bạo lực -> 2. Đàm phán -> 3. Ký kết hiệp ước"
+        "1. Tuyên truyền báo chí -> 2. Thu gom tiền tài trợ -> 3. Bầu cử tổng thống",
+        "1. Khởi xướng từ chính phủ -> 2. Ban hành luật -> 3. Cưỡng chế thực thi"
       ],
       "correctIndex": 1,
       "explanation": "Công thức chuyển động xã hội: Mối liên kết mạnh khơi mào ngọn lửa -> Mối liên kết yếu lan tỏa khắp mạng lưới xã hội qua áp lực ngang hàng -> Thói quen căn tính mới biến phong trào thành một lối sống tự duy trì."
@@ -32,12 +32,12 @@
       "id": "q3",
       "question": "Khái niệm 'Sức mạnh của các Mối liên kết yếu' (The Strength of Weak Ties) do nhà xã hội học Mark Granovetter phát hiện có vai trò gì trong việc lan tỏa một phong trào?",
       "options": [
+        "Mối liên kết yếu là những mối quan hệ vô dụng không có giá trị truyền thông tin.",
         "Mối liên kết yếu (những người quen biết sơ giao, đồng nghiệp khác phòng, bạn của bạn) đóng vai trò là những cây cầu nối bắc qua các nhóm xã hội biệt lập, giúp lan tỏa thông tin và tạo ra áp lực ngang hàng trên diện rộng.",
-        "Mối liên kết yếu giúp giảm chi phí in ấn tài liệu biểu tình.",
         "Mối liên kết yếu chỉ tồn tại trên các nền tảng mạng xã hội hiện đại.",
-        "Mối liên kết yếu là những mối quan hệ vô dụng không có giá trị truyền thông tin."
+        "Mối liên kết yếu giúp giảm chi phí in ấn tài liệu biểu tình."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Bạn thân thường chia sẻ cùng một nhóm thông tin, nhưng 'người quen' (liên kết yếu) là cầu nối đưa thông điệp sang các vòng tròn xã hội hoàn toàn mới, biến một vụ việc cục bộ thành một phong trào toàn thành phố."
     },
     {
@@ -45,11 +45,11 @@
       "question": "Cơ chế 'Áp lực ngang hàng' (Peer pressure / Peer habits) buộc những người không quen biết Rosa Parks vẫn tham gia tẩy chay xe buýt suốt hơn 1 năm trời như thế nào?",
       "options": [
         "Họ bị cảnh sát đe dọa phạt tù nếu bước lên xe buýt.",
+        "Nếu một người bước lên xe buýt, họ sẽ bị bạn bè, hàng xóm và các mối quan hệ xã giao nhìn nhận là kẻ phản bội cộng đồng; nỗi sợ mất đi sự tôn trọng xã hội đã tạo thành một thói quen tuân thủ tập thể.",
         "Họ được nhận tiền thưởng mỗi ngày từ ban tổ chức phong trào.",
-        "Tất cả các tuyến xe buýt trong thành phố đều bị phá hủy hoàn toàn.",
-        "Nếu một người bước lên xe buýt, họ sẽ bị bạn bè, hàng xóm và các mối quan hệ xã giao nhìn nhận là kẻ phản bội cộng đồng; nỗi sợ mất đi sự tôn trọng xã hội đã tạo thành một thói quen tuân thủ tập thể."
+        "Tất cả các tuyến xe buýt trong thành phố đều bị phá hủy hoàn toàn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Thói quen ngang hàng vận hành dựa trên chuẩn mực xã hội: con người luôn khao khát được cộng đồng chấp nhận; khi cả khu phố đều đi bộ, áp lực xã hội vô hình khiến bất kỳ ai cũng ngại ngần bước lên xe buýt."
     },
     {
@@ -68,36 +68,36 @@
       "id": "q6",
       "question": "Nhà mục sư Rick Warren đã xây dựng Nhà thờ Saddleback từ một nhóm nhỏ thành đại giáo đoàn với hơn 20.000 tín đồ bằng cách cấu trúc các 'Thói quen cộng đồng' như thế nào?",
       "options": [
-        "Chia nhỏ giáo đoàn thành hàng nghìn 'Nhóm tế bào nhỏ' (Small groups) sinh hoạt tại nhà riêng hàng tuần, biến việc học kinh thánh và chia sẻ cuộc sống thành một thói quen xã hội tự quản gắn kết bền chặt.",
-        "Phát các chương trình ca nhạc giải trí suốt cả ngày chủ nhật.",
         "Thuê các diễn viên Hollywood đến thuyết giảng hàng tuần.",
-        "Bắt buộc mọi người phải quyên góp 50% thu nhập hàng tháng."
+        "Bắt buộc mọi người phải quyên góp 50% thu nhập hàng tháng.",
+        "Chia nhỏ giáo đoàn thành hàng nghìn 'Nhóm tế bào nhỏ' (Small groups) sinh hoạt tại nhà riêng hàng tuần, biến việc học kinh thánh và chia sẻ cuộc sống thành một thói quen xã hội tự quản gắn kết bền chặt.",
+        "Phát các chương trình ca nhạc giải trí suốt cả ngày chủ nhật."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Warren nhận ra các bài giảng lớn không giữ chân được tín đồ; ông xây dựng mạng lưới các nhóm nhỏ 6-8 người gặp nhau hàng tuần để ăn tối và cầu nguyện, biến tôn giáo thành thói quen gắn kết xã hội thân mật."
     },
     {
       "id": "q7",
       "question": "Tại sao việc chỉ có các 'Mối liên kết mạnh' (Strong ties) là chưa đủ để một phong trào lan rộng thành cuộc cách mạng?",
       "options": [
-        "Vì bạn thân không bao giờ dám tham gia vào các hoạt động mạo hiểm.",
-        "Vì bạn thân thường hay cãi nhau và chia rẽ nội bộ.",
+        "Vì các nhóm liên kết mạnh có quy mô hạn chế và thường tạo thành các 'ốc đảo khép kín'; nếu không có các mối liên kết yếu bắc cầu, thông điệp sẽ không bao giờ vượt ra ngoài phạm vi nhóm bạn bè ban đầu.",
         "Vì pháp luật cấm các nhóm bạn thân tụ tập quá 5 người.",
-        "Vì các nhóm liên kết mạnh có quy mô hạn chế và thường tạo thành các 'ốc đảo khép kín'; nếu không có các mối liên kết yếu bắc cầu, thông điệp sẽ không bao giờ vượt ra ngoài phạm vi nhóm bạn bè ban đầu."
+        "Vì bạn thân thường hay cãi nhau và chia rẽ nội bộ.",
+        "Vì bạn thân không bao giờ dám tham gia vào các hoạt động mạo hiểm."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Liên kết mạnh thắp lên ngọn lửa ban đầu nhưng bị cô lập trong phạm vi hẹp; chỉ khi các mắt xích liên kết yếu được kích hoạt, phong trào mới có thể lan truyền theo cấp số nhân trong toàn xã hội."
     },
     {
       "id": "q8",
       "question": "Khi ngôi nhà của Martin Luther King Jr. bị đánh bom và đám đông giận dữ mang theo vũ khí chuẩn bị trả thù, hành động lịch sử của ông đã thể hiện điều gì?",
       "options": [
-        "Ông bỏ trốn ra cửa sau để tránh bị cảnh sát bắt giữ.",
-        "Ông kích động đám đông đốt phá các tòa nhà chính quyền.",
+        "Ông bước ra hiên nhà và kêu gọi mọi người hạ vũ khí, thực hành thói quen tha thứ: 'Chúng ta không thể giải quyết vấn đề này bằng bạo lực; chúng ta phải đáp trả thù ghét bằng tình yêu thương'.",
         "Ông tuyên bố rút lui khỏi phong trào dân quyền.",
-        "Ông bước ra hiên nhà và kêu gọi mọi người hạ vũ khí, thực hành thói quen tha thứ: 'Chúng ta không thể giải quyết vấn đề này bằng bạo lực; chúng ta phải đáp trả thù ghét bằng tình yêu thương'."
+        "Ông kích động đám đông đốt phá các tòa nhà chính quyền.",
+        "Ông bỏ trốn ra cửa sau để tránh bị cảnh sát bắt giữ."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Khoảnh khắc đó đã định hình thói quen phản ứng bất bạo động cho cả phong trào: chuyển hóa cơn giận dữ hủy diệt thành sức mạnh đạo đức bền bỉ khiến đối phương phải khuất phục."
     },
     {
@@ -116,36 +116,36 @@
       "id": "q10",
       "question": "Trong một công ty, việc xây dựng 'văn hóa hợp tác liên phòng ban' nên bắt đầu từ việc khai thác mạng lưới nào?",
       "options": [
-        "Chỉ cho phép giám đốc điều hành đưa ra các quyết định hợp tác.",
         "Cấm các phòng ban nói chuyện với nhau nếu không có email chính thức.",
-        "Ép các trưởng phòng phải đi ăn nhậu cùng nhau mỗi ngày.",
-        "Tạo cơ hội cho các 'Mối liên kết yếu' giữa các nhân viên cấp dưới từ các phòng ban khác nhau giao lưu (như không gian cà phê chung, câu lạc bộ sách, dự án chéo), phá vỡ các tháp cô lập thông tin (silos)."
+        "Chỉ cho phép giám đốc điều hành đưa ra các quyết định hợp tác.",
+        "Tạo cơ hội cho các 'Mối liên kết yếu' giữa các nhân viên cấp dưới từ các phòng ban khác nhau giao lưu (như không gian cà phê chung, câu lạc bộ sách, dự án chéo), phá vỡ các tháp cô lập thông tin (silos).",
+        "Ép các trưởng phòng phải đi ăn nhậu cùng nhau mỗi ngày."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Những cuộc trò chuyện tình cờ bên máy pha cà phê giữa các nhân viên khác phòng ban (liên kết yếu) thường là nơi nảy sinh những ý tưởng sáng tạo và sự phối hợp hiệu quả nhất trong doanh nghiệp."
     },
     {
       "id": "q11",
       "question": "Điều gì biến những người dân thường ở Montgomery sẵn sàng đi bộ 10-15 km mỗi ngày trong mưa rét suốt hơn 1 năm trời để tẩy chay xe buýt?",
       "options": [
-        "Họ muốn rèn luyện thể lực để tham gia thế vận hội Olympic.",
-        "Họ không có tiền để mua vé xe buýt.",
+        "Việc đi bộ đã chuyển hóa từ một nghĩa vụ gượng ép thành một 'Huy hiệu danh dự' và thói quen thể hiện lòng tự trọng của một cộng đồng đang đứng lên vì phẩm giá con người.",
         "Chính quyền thành phố tịch thu toàn bộ xe buýt trong bang.",
-        "Việc đi bộ đã chuyển hóa từ một nghĩa vụ gượng ép thành một 'Huy hiệu danh dự' và thói quen thể hiện lòng tự trọng của một cộng đồng đang đứng lên vì phẩm giá con người."
+        "Họ không có tiền để mua vé xe buýt.",
+        "Họ muốn rèn luyện thể lực để tham gia thế vận hội Olympic."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Khi hành vi đi bộ trở thành biểu tượng của sự kiêu hãnh và căn tính tập thể, người dân tự hào chịu đựng gian khổ; một cụ bà nổi tiếng đã nói: 'Chân tôi mệt, nhưng tâm hồn tôi được nghỉ ngơi'."
     },
     {
       "id": "q12",
       "question": "Tại sao các chiến dịch marketing truyền miệng (Word-of-mouth marketing) thành công nhất luôn nhắm vào các 'Mối liên kết yếu'?",
       "options": [
+        "Vì quảng cáo cho người quen sơ giao luôn rẻ hơn quảng cáo cho người nhà.",
         "Vì lời giới thiệu từ một người quen xã giao thường mang tính khách quan và có khả năng tiếp cận các tệp khách hàng hoàn toàn mới mà thương hiệu chưa từng chạm tới.",
-        "Vì pháp luật cấm bán hàng cho bạn bè thân thiết.",
         "Vì các mối liên kết yếu luôn tin tưởng tuyệt đối vào mọi lời đồn đại.",
-        "Vì quảng cáo cho người quen sơ giao luôn rẻ hơn quảng cáo cho người nhà."
+        "Vì pháp luật cấm bán hàng cho bạn bè thân thiết."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Thông tin qua liên kết yếu có độ phủ rộng và độ tin cậy xã hội cao; một gợi ý tự nhiên từ người quen ở chỗ làm việc thường có sức thuyết phục mua hàng rất mạnh mẽ."
     },
     {
@@ -164,10 +164,10 @@
       "id": "q14",
       "question": "Bài học từ Rick Warren về việc quản trị các hội nhóm tự nguyện là gì?",
       "options": [
-        "Chỉ tập trung vào những người có địa vị cao trong xã hội.",
-        "Hãy trao cho các thành viên công cụ và thói quen tự quản lý, để họ tự vận hành trong các nhóm nhỏ thân mật, từ đó tổ chức có thể mở rộng quy mô không giới hạn mà không bị xơ cứng.",
         "Hãy kiểm soát chặt chẽ từng cử chỉ của thành viên bằng quyền lực tuyệt đối.",
-        "Không nên để các thành viên gặp nhau quá thường xuyên."
+        "Hãy trao cho các thành viên công cụ và thói quen tự quản lý, để họ tự vận hành trong các nhóm nhỏ thân mật, từ đó tổ chức có thể mở rộng quy mô không giới hạn mà không bị xơ cứng.",
+        "Không nên để các thành viên gặp nhau quá thường xuyên.",
+        "Chỉ tập trung vào những người có địa vị cao trong xã hội."
       ],
       "correctIndex": 1,
       "explanation": "Mô hình phi tập trung hóa dựa trên thói quen tự quản của các nhóm nhỏ giúp tổ chức duy trì sự thân mật cá nhân ngay cả khi quy mô mở rộng lên đến hàng chục nghìn người."

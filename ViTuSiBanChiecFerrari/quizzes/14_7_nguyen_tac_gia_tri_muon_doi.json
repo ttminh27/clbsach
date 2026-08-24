@@ -8,9 +8,9 @@
       "id": "q1",
       "question": "Hệ thống hóa 7 biểu tượng ngụ ngôn tương ứng với 7 đức hạnh cốt lõi nào theo đúng trật tự minh triết Sivana?",
       "options": [
-        "1. Tiền bạc -> 2. Quyền lực -> 3. Danh vọng -> 4. Sức khỏe -> 5. Trí tuệ -> 6. Gia đình -> 7. Bạn bè.",
-        "1. Khu vườn (Làm chủ tâm trí) -> 2. Hải đăng (Mục đích) -> 3. Sumo (Kaizen) -> 4. Dây cáp (Kỷ luật) -> 5. Đồng hồ (Thời gian) -> 6. Hoa hồng (Phụng sự) -> 7. Kim cương (Hiện tại).",
         "1. Đất -> 2. Nước -> 3. Gió -> 4. Lửa -> 5. Không khí -> 6. Ánh sáng -> 7. Bóng tối.",
+        "1. Khu vườn (Làm chủ tâm trí) -> 2. Hải đăng (Mục đích) -> 3. Sumo (Kaizen) -> 4. Dây cáp (Kỷ luật) -> 5. Đồng hồ (Thời gian) -> 6. Hoa hồng (Phụng sự) -> 7. Kim cương (Hiện tại).",
+        "1. Tiền bạc -> 2. Quyền lực -> 3. Danh vọng -> 4. Sức khỏe -> 5. Trí tuệ -> 6. Gia đình -> 7. Bạn bè.",
         "1. Nhẫn nại -> 2. Can đảm -> 3. Công bằng -> 4. Tiết kiệm -> 5. Khiêm tốn -> 6. Trung thực -> 7. Vị tha."
       ],
       "correctIndex": 1,
@@ -20,46 +20,46 @@
       "id": "q2",
       "question": "Kỹ thuật thực hành cốt lõi tương ứng với Nguyên tắc số 1 (Làm chủ tâm trí - Khu vườn kỳ diệu) là gì?",
       "options": [
-        "Quy tắc 21 ngày rèn luyện cơ bắp thể chất.",
         "Trái tim hoa hồng (Heart of the Rose) và Tư duy đối lập (Oppositional Thinking).",
+        "Thực hành lời thề im lặng trong 7 ngày liên tục.",
         "Lập danh sách 5 bước thực hiện mục tiêu cuộc đời.",
-        "Thực hành lời thề im lặng trong 7 ngày liên tục."
+        "Quy tắc 21 ngày rèn luyện cơ bắp thể chất."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Trái tim hoa hồng giúp định tâm tĩnh lặng và Tư duy đối lập giúp chủ động nhổ cỏ dại tiêu cực để thay bằng hạt giống tích cực."
     },
     {
       "id": "q3",
       "question": "Kỹ thuật thực hành cốt lõi tương ứng với Nguyên tắc số 2 (Theo đuổi mục đích - Ngọn hải đăng) là gì?",
       "options": [
-        "Nghe nhạc cổ điển Mozart và Beethoven mỗi buổi tối.",
         "Quy trình 5 bước chinh phục mục tiêu (Hình dung, Áp lực tích cực, Thời hạn, 21 ngày, Tận hưởng hành trình) và Cuốn sổ ước mơ (Dream Book).",
-        "Tập yoga asana dưới ánh nắng mặt trời buổi sáng.",
-        "Ăn chế độ thực vật tươi sống 100% không qua chế biến nhiệt."
+        "Nghe nhạc cổ điển Mozart và Beethoven mỗi buổi tối.",
+        "Ăn chế độ thực vật tươi sống 100% không qua chế biến nhiệt.",
+        "Tập yoga asana dưới ánh nắng mặt trời buổi sáng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Quy trình 5 bước và Cuốn sổ ước mơ là công cụ cụ thể hóa mục đích sống thành các mốc hành động rõ ràng và đo lường được."
     },
     {
       "id": "q4",
       "question": "Kỹ thuật thực hành cốt lõi tương ứng với Nguyên tắc số 3 (Thực hành Kaizen - Võ sĩ Sumo) là gì?",
       "options": [
-        "Uống 5 lít nước khoáng tuyết tan mỗi ngày.",
-        "10 Nghi thức sống rực rỡ (Cô tịch, Thể chất, Dinh dưỡng, Tri thức, Suy ngẫm, Thức dậy sớm, Âm nhạc, Lời nói tích cực, Nhân cách, Giản dị).",
         "Luyện tập võ thuật Sumo 4 tiếng mỗi ngày.",
-        "Đọc thuộc lòng các bộ luật dân sự và hình sự."
+        "Uống 5 lít nước khoáng tuyết tan mỗi ngày.",
+        "Đọc thuộc lòng các bộ luật dân sự và hình sự.",
+        "10 Nghi thức sống rực rỡ (Cô tịch, Thể chất, Dinh dưỡng, Tri thức, Suy ngẫm, Thức dậy sớm, Âm nhạc, Lời nói tích cực, Nhân cách, Giản dị)."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "10 nghi thức sống rực rỡ là bộ công cụ thực hành Kaizen toàn diện giúp nâng cấp chất lượng thân tâm mỗi ngày."
     },
     {
       "id": "q5",
       "question": "Kỹ thuật thực hành cốt lõi tương ứng với Nguyên tắc số 4 (Sức mạnh kỷ luật - Chiếc khố dây cáp) là gì?",
       "options": [
-        "Từ chối ăn cơm và chỉ ăn bánh mì khô trong suốt 1 tháng.",
         "Tự trừng phạt bản thân bằng cách đứng một chân trong 1 giờ.",
+        "Sử dụng dây cáp sắt để khóa cửa phòng làm việc.",
         "Rèn luyện các chiến thắng vi mô hàng ngày, câu thần chú sức mạnh ý chí và Lời thề im lặng (Vow of Silence).",
-        "Sử dụng dây cáp sắt để khóa cửa phòng làm việc."
+        "Từ chối ăn cơm và chỉ ăn bánh mì khô trong suốt 1 tháng."
       ],
       "correctIndex": 2,
       "explanation": "Kỷ luật được bồi đắp từ việc chủ động làm những việc nhỏ khó khăn, dùng thần chú dập tắt cám dỗ và giữ im lặng để tích tụ nội lực."
@@ -69,32 +69,32 @@
       "question": "Kỹ thuật thực hành cốt lõi tương ứng với Nguyên tắc số 5 (Tôn trọng thời gian - Chiếc đồng hồ vàng) là gì?",
       "options": [
         "Mua nhiều chiếc đồng hồ đeo tay đắt tiền để ở khắp các phòng.",
-        "Tư duy trên giường bệnh (Deathbed Mentality), Quy tắc Pareto 80/20, Lập kế hoạch tuần vào tối Chủ Nhật và Can đảm nói KHÔNG.",
         "Luôn luôn nhìn vào đồng hồ cứ mỗi 30 giây một lần khi làm việc.",
-        "Chạy bộ với tốc độ tối đa trong mọi hoạt động di chuyển hàng ngày."
+        "Chạy bộ với tốc độ tối đa trong mọi hoạt động di chuyển hàng ngày.",
+        "Tư duy trên giường bệnh (Deathbed Mentality), Quy tắc Pareto 80/20, Lập kế hoạch tuần vào tối Chủ Nhật và Can đảm nói KHÔNG."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Nhận thức về cái chết, quy tắc 80/20 và kế hoạch tuần là bộ ba công cụ tối ưu hóa thời gian và giải phóng con người khỏi sự bận rộn vô nghĩa."
     },
     {
       "id": "q7",
       "question": "Kỹ thuật thực hành cốt lõi tương ứng với Nguyên tắc số 6 (Phụng sự tha nhân - Những bông hoa hồng) là gì?",
       "options": [
-        "Thực hành các hành vi tử tế ngẫu nhiên mỗi ngày, làm giàu Tài khoản tình cảm và xem việc phụng sự là mục đích tối thượng.",
         "Quyên góp toàn bộ tài sản cho người lạ mà không giữ lại gì cho bản thân.",
-        "Mở một công ty chuyên về dịch vụ mai mối hôn nhân quốc tế.",
-        "Tặng hoa hồng cho tất cả những người đi ngang qua đường phố."
+        "Thực hành các hành vi tử tế ngẫu nhiên mỗi ngày, làm giàu Tài khoản tình cảm và xem việc phụng sự là mục đích tối thượng.",
+        "Tặng hoa hồng cho tất cả những người đi ngang qua đường phố.",
+        "Mở một công ty chuyên về dịch vụ mai mối hôn nhân quốc tế."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Phụng sự tha nhân bắt đầu từ những hành động tử tế giản dị hàng ngày và sự chăm sóc chân thành cho các mối quan hệ xung quanh."
     },
     {
       "id": "q8",
       "question": "Kỹ thuật thực hành cốt lõi tương ứng với Nguyên tắc số 7 (Sống trong hiện tại - Con đường kim cương) là gì?",
       "options": [
-        "Mua sắm các món đồ trang sức bằng kim cương thật để đeo hàng ngày.",
         "Không bao giờ lập bất kỳ kế hoạch nào cho tương lai và tiêu hết tiền trong ngày.",
         "Chỉ đi bộ trên những con đường được lát đá hoa cương sang trọng.",
+        "Mua sắm các món đồ trang sức bằng kim cương thật để đeo hàng ngày.",
         "Thực hành chánh niệm (Living in the NOW), Nuôi dưỡng lòng biết ơn từng khoảnh khắc và Giữ tâm hồn trẻ thơ (Childlike Wonder)."
       ],
       "correctIndex": 3,
@@ -116,36 +116,36 @@
       "id": "q10",
       "question": "Câu danh ngôn cốt lõi tổng kết cho Nguyên tắc số 2 (Ngọn hải đăng) là gì?",
       "options": [
-        "'Chỉ cần bạn có ước mơ là mọi thứ sẽ tự động thành hiện thực mà không cần hành động'.",
         "'Hãy để cho dòng đời xô đẩy vì mọi thứ đã được số phận an bài từ trước'.",
-        "'Mục đích của cuộc sống là một cuộc sống có mục đích; không có ngọn hải đăng soi đường, con tàu sẽ chìm trong bão táp'.",
-        "'Đích đến duy nhất của sự thành đạt là danh tiếng và quyền lực xã hội'."
+        "'Chỉ cần bạn có ước mơ là mọi thứ sẽ tự động thành hiện thực mà không cần hành động'.",
+        "'Đích đến duy nhất của sự thành đạt là danh tiếng và quyền lực xã hội'.",
+        "'Mục đích của cuộc sống là một cuộc sống có mục đích; không có ngọn hải đăng soi đường, con tàu sẽ chìm trong bão táp'."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Mục đích sống thắp sáng ý nghĩa cho từng hành động; người có mục đích rõ ràng sẽ có sức mạnh vượt qua mọi thử thách trên đường đời."
     },
     {
       "id": "q11",
       "question": "Câu danh ngôn cốt lõi tổng kết cho Nguyên tắc số 3 (Võ sĩ Sumo - Kaizen) là gì?",
       "options": [
-        "'Chỉ có những người có năng khiếu bẩm sinh mới có thể đạt được sự hoàn hảo'.",
-        "'Cải tiến bản thân là việc chỉ cần làm khi công việc gặp phải thất bại'.",
         "'Hãy chấp nhận những thói quen xấu của mình vì đó là bản tính tự nhiên'.",
-        "'Sự tự làm chủ bản thân là cội nguồn của sự làm chủ cuộc đời; hãy không ngừng hoàn thiện chính mình mỗi ngày'."
+        "'Sự tự làm chủ bản thân là cội nguồn của sự làm chủ cuộc đời; hãy không ngừng hoàn thiện chính mình mỗi ngày'.",
+        "'Cải tiến bản thân là việc chỉ cần làm khi công việc gặp phải thất bại'.",
+        "'Chỉ có những người có năng khiếu bẩm sinh mới có thể đạt được sự hoàn hảo'."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Kaizen là triết lý tiến bộ tiệm tiến không ngừng; tự lãnh đạo bản thân là nấc thang đầu tiên để kiến tạo một cuộc đời rực rỡ."
     },
     {
       "id": "q12",
       "question": "Câu danh ngôn cốt lõi tổng kết cho Nguyên tắc số 4 (Chiếc khố dây cáp) là gì?",
       "options": [
-        "'Hãy sống theo cảm xúc nhất thời vì cảm xúc luôn luôn đúng đắn'.",
         "'Người có kỷ luật là người không bao giờ được phép có những phút giây thư giãn'.",
         "'Kỷ luật là sự gò bó ép buộc làm mất đi sự sáng tạo tự do của con người'.",
-        "'Kỷ luật là sợi dây cáp thép được dệt nên từ những thói quen nhỏ bé lặp đi lặp lại; kỷ luật tự giác chính là tự do đích thực'."
+        "'Kỷ luật là sợi dây cáp thép được dệt nên từ những thói quen nhỏ bé lặp đi lặp lại; kỷ luật tự giác chính là tự do đích thực'.",
+        "'Hãy sống theo cảm xúc nhất thời vì cảm xúc luôn luôn đúng đắn'."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Kỷ luật không giam cầm bạn mà giải phóng bạn khỏi sự kiểm soát của những ham muốn thấp hèn, đưa bạn lên vị thế làm chủ số phận."
     },
     {
@@ -154,22 +154,22 @@
       "options": [
         "'Người làm chủ thời gian là người làm việc liên tục 24/7 không cần ngủ'.",
         "'Thời gian là vô tận nên bạn có thể thoải mái trì hoãn mọi việc sang ngày mai'.",
-        "'Thời gian là tài sản quý giá nhất của bạn; đừng bao giờ lãng phí một giây phút nào vào những điều không xứng đáng'.",
-        "'Thời gian chỉ quý giá đối với những người làm trong ngành ngân hàng tài chính'."
+        "'Thời gian chỉ quý giá đối với những người làm trong ngành ngân hàng tài chính'.",
+        "'Thời gian là tài sản quý giá nhất của bạn; đừng bao giờ lãng phí một giây phút nào vào những điều không xứng đáng'."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Thời gian là món quà thiêng liêng mà vũ trụ trao tặng; người thông thái trân quý từng phút giây như những hạt vàng ròng của cuộc đời."
     },
     {
       "id": "q14",
       "question": "Câu danh ngôn cốt lõi tổng kết cho Nguyên tắc số 6 (Những bông hoa hồng) là gì?",
       "options": [
-        "'Chất lượng cuộc đời bạn rốt cuộc sẽ được đo bằng chất lượng của những gì bạn đã cho đi và phụng sự cho thế giới này'.",
         "'Phụng sự người khác là việc làm vô ích không mang lại lợi ích kinh tế nào'.",
         "'Hãy giữ lại tất cả những gì tốt đẹp nhất cho riêng bản thân mình'.",
+        "'Chất lượng cuộc đời bạn rốt cuộc sẽ được đo bằng chất lượng của những gì bạn đã cho đi và phụng sự cho thế giới này'.",
         "'Chỉ giúp đỡ người khác khi bạn đã có đủ hàng triệu đô-la trong tài khoản'."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Đỉnh cao của sự trưởng thành và hạnh phúc là lòng vị tha; bàn tay trao hoa hồng luôn phảng phất hương thơm bất tử của tình thương."
     },
     {
@@ -178,8 +178,8 @@
       "options": [
         "'Hạnh phúc là một chuyến hành trình, không phải là đích đến; hãy trân quý và tận hưởng từng viên kim cương trên từng bước chân hôm nay'.",
         "'Hiện tại là thứ tầm thường, chỉ có quá khứ huy hoàng mới đáng để tự hào'.",
-        "'Đừng bao giờ mỉm cười cho đến khi bạn đã đạt được mục tiêu tối hậu'.",
-        "'Hãy hy sinh toàn bộ hiện tại để đổi lấy một tương lai giàu sang xa xôi'."
+        "'Hãy hy sinh toàn bộ hiện tại để đổi lấy một tương lai giàu sang xa xôi'.",
+        "'Đừng bao giờ mỉm cười cho đến khi bạn đã đạt được mục tiêu tối hậu'."
       ],
       "correctIndex": 0,
       "explanation": "Bí quyết vĩnh cửu của hạnh phúc nằm ở giây phút hiện tại; sống trọn vẹn trong tình yêu thương và sự tỉnh thức biến từng khoảnh khắc thành một kiệt tác."

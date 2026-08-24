@@ -32,12 +32,12 @@
       "id": "q3",
       "question": "Một nhân viên muốn ứng dụng trực tiếp bài học 'Thời gian trôi qua rất nhanh' vào môi trường làm việc hàng ngày nên chọn cách ứng xử nào?",
       "options": [
-        "Đổ lỗi cho nguồn lực thiếu thốn mỗi khi dự án gặp trở ngại.",
-        "Chỉ hoàn thành đúng định mức tối thiểu để không bị cấp trên phê bình.",
         "Chờ đợi khi nào được thăng chức quản lý mới bắt đầu thể hiện tinh thần trách nhiệm.",
-        "Tự đặt ra chuẩn mực chất lượng vượt trên mong đợi, chủ động giải quyết vấn đề và lan tỏa năng lượng tích cực cho đồng nghiệp."
+        "Tự đặt ra chuẩn mực chất lượng vượt trên mong đợi, chủ động giải quyết vấn đề và lan tỏa năng lượng tích cực cho đồng nghiệp.",
+        "Đổ lỗi cho nguồn lực thiếu thốn mỗi khi dự án gặp trở ngại.",
+        "Chỉ hoàn thành đúng định mức tối thiểu để không bị cấp trên phê bình."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Tinh thần 'Lãnh đạo không chức danh': Thể hiện sự vượt trội trong bất kỳ vị trí nào bạn đang đảm nhiệm bằng chính thái độ và chất lượng công việc đỉnh cao."
     },
     {
@@ -45,11 +45,11 @@
       "question": "Theo phân tích tâm lý trong sách, đâu là lý do sâu xa khiến nhiều người biết rõ bài học 'Thời gian trôi qua rất nhanh' nhưng vẫn không chịu thay đổi?",
       "options": [
         "Họ chưa tìm được một cuốn sách hướng dẫn chi tiết từng bước một.",
+        "Họ thiếu các công cụ kỹ thuật số và thiết bị hiện đại để quản lý thời gian.",
         "Họ đã đạt tới đỉnh cao của sự nghiệp nên không còn nhu cầu phát triển.",
-        "Họ bị tê liệt bởi nỗi sợ bị phán xét, sợ thất bại và sự cám dỗ của vùng an toàn quen thuộc.",
-        "Họ thiếu các công cụ kỹ thuật số và thiết bị hiện đại để quản lý thời gian."
+        "Họ bị tê liệt bởi nỗi sợ bị phán xét, sợ thất bại và sự cám dỗ của vùng an toàn quen thuộc."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Bộ não con người có xu hướng bám víu vào sự an toàn giả tạo; vượt qua nỗi sợ hãi chính là bước ngoặt quyết định để bước vào thế giới của sự xuất sắc."
     },
     {
@@ -68,12 +68,12 @@
       "id": "q6",
       "question": "Nghịch lý lớn nhất được chỉ ra trong chương '61. Thời gian trôi qua rất nhanh' là gì?",
       "options": [
+        "Càng đọc nhiều sách thì con người càng trở nên lười biếng hơn.",
         "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ.",
         "Làm việc càng ít thì chất lượng công việc lại càng cao.",
-        "Càng đọc nhiều sách thì con người càng trở nên lười biếng hơn.",
         "Những người nổi tiếng nhất là những người không bao giờ phải chịu áp lực."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Sự trưởng thành chỉ xảy ra ở ranh giới của sự khó chịu; nếu mọi việc đều quá dễ dàng và êm đềm, bạn đang dậm chân tại chỗ."
     },
     {
@@ -116,10 +116,10 @@
       "id": "q10",
       "question": "Trong kỷ nguyên ngập tràn thông tin gây xao nhãng, bài học 'Thời gian trôi qua rất nhanh' khuyến nghị người đọc bảo vệ tài sản nào quý giá nhất?",
       "options": [
-        "Thời gian nghỉ ngơi thụ động xem video giải trí.",
+        "Số lượng người theo dõi trên mạng xã hội.",
         "Sự tập trung cao độ và nguồn năng lượng tinh thần để dồn vào những mục tiêu có giá trị tác động cao.",
-        "Bộ sưu tập các đồ dùng công nghệ đời mới nhất.",
-        "Số lượng người theo dõi trên mạng xã hội."
+        "Thời gian nghỉ ngơi thụ động xem video giải trí.",
+        "Bộ sưu tập các đồ dùng công nghệ đời mới nhất."
       ],
       "correctIndex": 1,
       "explanation": "Sự tập trung sâu là siêu năng lực của thế kỷ 21; dồn toàn bộ tâm trí vào việc tạo ra giá trị cốt lõi là con đường duy nhất dẫn tới vị thế chuyên gia đỉnh cao."
@@ -140,12 +140,12 @@
       "id": "q12",
       "question": "Dấu hiệu rõ nhất cho thấy một người đang rơi vào 'Tâm thế nạn nhân' khi đối mặt với thử thách trong bài học này là gì?",
       "options": [
-        "Họ đọc sách và tìm người cố vấn để nâng cao kỹ năng.",
         "Họ liên tục viện cớ: 'Tại sếp, tại kinh tế, tại thời tiết...' và chờ đợi người khác cứu giúp.",
-        "Họ bình tĩnh phân tích nguyên nhân gốc rễ của sự cố.",
-        "Họ tìm kiếm giải pháp thay thế và tự nhận trách nhiệm về phần việc của mình."
+        "Họ đọc sách và tìm người cố vấn để nâng cao kỹ năng.",
+        "Họ tìm kiếm giải pháp thay thế và tự nhận trách nhiệm về phần việc của mình.",
+        "Họ bình tĩnh phân tích nguyên nhân gốc rễ của sự cố."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Bào chữa và đổ lỗi là phản xạ của tâm lý nạn nhân; người chiến thắng luôn tự hỏi: 'Tôi có thể làm gì để cải thiện tình hình ngay bây giờ?'."
     },
     {
@@ -164,24 +164,24 @@
       "id": "q14",
       "question": "Để tránh việc đọc xong chương sách này mà không tạo ra chuyển biến thực tế, bước hành động quan trọng nhất cần làm ngay hôm nay là gì?",
       "options": [
-        "Chờ đợi đến đầu tháng sau hoặc đầu năm mới rồi mới bắt đầu rèn luyện.",
-        "Lên danh sách 100 mục tiêu phức tạp nhưng không bắt đầu việc nào.",
+        "Chọn ra đúng MỘT thói quen hoặc hành động cốt lõi từ bài học và kiên quyết thực hiện ngay trong vòng 24 giờ tới.",
         "Kể cho thật nhiều người nghe về những gì mình dự định làm mà không thực hiện.",
-        "Chọn ra đúng MỘT thói quen hoặc hành động cốt lõi từ bài học và kiên quyết thực hiện ngay trong vòng 24 giờ tới."
+        "Lên danh sách 100 mục tiêu phức tạp nhưng không bắt đầu việc nào.",
+        "Chờ đợi đến đầu tháng sau hoặc đầu năm mới rồi mới bắt đầu rèn luyện."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Quy tắc 24 giờ: Ý tưởng không hành động chỉ là ảo ảnh. Bắt đầu ngay với một hành động cụ thể sẽ phá vỡ sức ỳ tâm lý và kích hoạt quán tính thành công."
     },
     {
       "id": "q15",
       "question": "Câu hỏi sâu sắc nhất mà chương '61. Thời gian trôi qua rất nhanh' để lại trong tâm trí người đọc để tự soi rọi bản thân là gì?",
       "options": [
-        "Tôi có thể trì hoãn việc khó này đến tuần sau được không?",
-        "Người khác nghĩ gì về ngoại hình và trang phục của tôi hôm nay?",
         "Làm sao để tìm được công việc nhàn hạ nhất mà vẫn nhận lương cao?",
-        "Nếu hôm nay là ngày duy nhất tôi có thể cống hiến hết mình, tôi có đang sống xứng đáng với tiềm năng vĩ đại mà tôi được ban tặng hay không?"
+        "Người khác nghĩ gì về ngoại hình và trang phục của tôi hôm nay?",
+        "Nếu hôm nay là ngày duy nhất tôi có thể cống hiến hết mình, tôi có đang sống xứng đáng với tiềm năng vĩ đại mà tôi được ban tặng hay không?",
+        "Tôi có thể trì hoãn việc khó này đến tuần sau được không?"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Đời ngắn đừng ngủ dài: Hãy sống mỗi ngày như một tác phẩm nghệ thuật, không thỏa hiệp với sự tầm thường và luôn nỗ lực đạt tới sự xuất chúng."
     }
   ]

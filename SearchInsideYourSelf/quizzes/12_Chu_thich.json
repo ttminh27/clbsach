@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Mục đích quan trọng nhất của phần 'Chú thích' chi tiết ở cuối cuốn sách là gì?",
       "options": [
-        "Cung cấp đầy đủ các trích dẫn tài liệu học thuật, nghiên cứu y khoa lâm sàng và công trình khoa học thần kinh đã qua bình duyệt (Peer-reviewed), bảo đảm tính chuẩn xác và minh bạch khoa học của cuốn sách.",
-        "Để người đọc làm bài tập dịch thuật.",
+        "Để khoe khoang trình độ ngoại ngữ của tác giả.",
         "Làm cho cuốn sách dày hơn để bán giá cao hơn.",
-        "Để khoe khoang trình độ ngoại ngữ của tác giả."
+        "Để người đọc làm bài tập dịch thuật.",
+        "Cung cấp đầy đủ các trích dẫn tài liệu học thuật, nghiên cứu y khoa lâm sàng và công trình khoa học thần kinh đã qua bình duyệt (Peer-reviewed), bảo đảm tính chuẩn xác và minh bạch khoa học của cuốn sách."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Phần chú thích là bằng chứng thép khẳng định SIY là chương trình đào tạo dựa trên bằng chứng khoa học thực nghiệm nghiêm ngặt (Evidence-based program)."
     },
     {
@@ -33,23 +33,23 @@
       "question": "Nghiên cứu của Giáo sư Richard Davidson tại Đại học Wisconsin-Madison về 'Các thiền giả kỳ cựu Tây Tạng' đã phát hiện sóng não đặc biệt nào?",
       "options": [
         "Sóng não Alpha ở mức cực kỳ thấp.",
-        "Hoạt động điện não phẳng hoàn toàn.",
         "Hoạt động sóng não Gamma biên độ cao và sự đồng bộ hóa thần kinh trên diện rộng chưa từng thấy trong lịch sử đo đạc điện não đồ, gắn liền với trạng thái từ bi và chú ý siêu việt.",
-        "Sóng não Delta chỉ xuất hiện khi bị hôn mê sâu."
+        "Sóng não Delta chỉ xuất hiện khi bị hôn mê sâu.",
+        "Hoạt động điện não phẳng hoàn toàn."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Sóng Gamma đồng bộ tần số cao phản ánh sự tích hợp nhận thức đỉnh cao và lòng trắc ẩn bao la được tôi luyện qua hàng chục ngàn giờ thiền tập."
     },
     {
       "id": "q4",
       "question": "Tài liệu chú thích về 'Tính dẻo thần kinh' (Neuroplasticity) khẳng định điều gì về khả năng thay đổi của não bộ con người khi về già?",
       "options": [
+        "Não bộ ngừng tạo tế bào thần kinh mới sau tuổi 25.",
         "Não bộ duy trì tính dẻo và khả năng tái cấu trúc mạng lưới nơ-ron thần kinh suốt cuộc đời cho đến hơi thở cuối cùng thông qua việc học hỏi và rèn luyện tâm trí.",
         "Chỉ có trẻ em dưới 5 tuổi mới có tính dẻo thần kinh.",
-        "Não bộ ngừng tạo tế bào thần kinh mới sau tuổi 25.",
         "Não bộ của người già sẽ bị teo hoàn toàn nếu ngồi thiền."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Tính dẻo thần kinh suốt đời xóa bỏ định kiến cổ hủ: không bao giờ là quá muộn để bạn rèn luyện sự bình an, lòng từ bi và thói quen mới cho bộ não."
     },
     {
@@ -92,10 +92,10 @@
       "id": "q8",
       "question": "Tài liệu chú thích về 'Telomere và sự lão hóa tế bào' (công trình đoạt giải Nobel của Elizabeth Blackburn) chỉ ra điều gì về tác động của thiền?",
       "options": [
-        "Telomere chỉ có ở động vật có vú.",
+        "Thiền làm rút ngắn chiều dài của nhiễm sắc thể.",
         "Giảm stress mãn tính thông qua chánh niệm giúp duy trì độ dài của Telomere và kích hoạt enzyme Telomerase, bảo vệ tế bào khỏi sự lão hóa sớm và bệnh tật.",
-        "Thiền làm thay đổi nhóm máu của con người.",
-        "Thiền làm rút ngắn chiều dài của nhiễm sắc thể."
+        "Telomere chỉ có ở động vật có vú.",
+        "Thiền làm thay đổi nhóm máu của con người."
       ],
       "correctIndex": 1,
       "explanation": "Khoa học tế bào khẳng định: sự bình an tâm trí tác động trực tiếp bảo vệ đầu mút nhiễm sắc thể, giúp tế bào trẻ trung và sống thọ hơn."
@@ -104,10 +104,10 @@
       "id": "q9",
       "question": "Nghiên cứu về 'Trí thông minh xã hội' (Social intelligence) của Matthew Lieberman (UCLA) trong chú thích nhấn mạnh điều gì về não bộ?",
       "options": [
-        "Não bộ hoạt động độc lập hoàn toàn với xã hội.",
+        "Bộ não con người được tiến hóa chủ yếu để giải toán đại số.",
         "Não bộ con người là một cơ quan xã hội sâu sắc: nỗi đau bị cô lập hay ruồng bỏ xã hội được não xử lý ở cùng vùng thần kinh với nỗi đau thể xác thực sự.",
-        "Các nơ-ron thần kinh không có khả năng kết nối với nhau.",
-        "Bộ não con người được tiến hóa chủ yếu để giải toán đại số."
+        "Não bộ hoạt động độc lập hoàn toàn với xã hội.",
+        "Các nơ-ron thần kinh không có khả năng kết nối với nhau."
       ],
       "correctIndex": 1,
       "explanation": "Lieberman chứng minh nhu cầu kết nối xã hội và được yêu thương là một nhu cầu sinh tồn cơ bản của con người không kém gì thức ăn và nước uống."

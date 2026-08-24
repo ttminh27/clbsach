@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Theo nghiên cứu của nhà tâm lý học Phil Tetlock, con người khi suy nghĩ và giao tiếp thường rơi vào 3 chế độ tự vệ tâm lý nào?",
       "options": [
-        "Bác sĩ (Chữa trị), Luật sư (Bào chữa), và Kỹ sư (Thiết kế chế tạo).",
-        "Người lạc quan (Luôn tin tưởng), Người bi quan (Luôn sợ hãi), và Người thực dụng (Luôn tính toán).",
+        "Nhà truyền giáo (Bảo vệ và rao giảng niềm tin của mình), Công tố viên (Tìm kẽ hở kết tội người khác sai), và Chính trị gia (Vận động lôi kéo sự đồng tình của số đông).",
         "Cha mẹ (Kiểm soát), Trẻ con (Bốc đồng), và Người lớn (Trưởng thành lý trí).",
-        "Nhà truyền giáo (Bảo vệ và rao giảng niềm tin của mình), Công tố viên (Tìm kẽ hở kết tội người khác sai), và Chính trị gia (Vận động lôi kéo sự đồng tình của số đông)."
+        "Người lạc quan (Luôn tin tưởng), Người bi quan (Luôn sợ hãi), và Người thực dụng (Luôn tính toán).",
+        "Bác sĩ (Chữa trị), Luật sư (Bào chữa), và Kỹ sư (Thiết kế chế tạo)."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "3 chế độ này khiến chúng ta bị cuốn vào mục tiêu thắng thua hoặc lấy lòng người khác thay vì mục tiêu khám phá chân lý khách quan."
     },
     {
@@ -44,12 +44,12 @@
       "id": "q4",
       "question": "Điều gì đã thực sự giúp Steve Jobs và Apple tạo ra cuộc cách mạng iPhone, trái ngược với huyền thoại về 'thiên tài độc đoán'?",
       "options": [
-        "Apple đã mua lại toàn bộ bằng sáng chế điện thoại di động từ tập đoàn Nokia.",
-        "Steve Jobs đã tự mình viết toàn bộ mã nguồn của hệ điều hành iOS trong 1 tuần.",
+        "Steve Jobs bị ép buộc bởi các cổ đông lớn trên sàn chứng khoán phố Wall.",
         "Ban đầu Jobs kịch liệt phản đối làm điện thoại di động; chính đội ngũ kỹ sư đã kiên trì 'thuyết phục Jobs tái tư duy' bằng cách chứng minh Apple có thể giữ nguyên ADN máy tính của mình.",
-        "Steve Jobs bị ép buộc bởi các cổ đông lớn trên sàn chứng khoán phố Wall."
+        "Steve Jobs đã tự mình viết toàn bộ mã nguồn của hệ điều hành iOS trong 1 tuần.",
+        "Apple đã mua lại toàn bộ bằng sáng chế điện thoại di động từ tập đoàn Nokia."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Sức mạnh của Apple nằm ở một đội ngũ dám chất vấn sếp và khả năng tái tư duy của chính Steve Jobs khi ông chấp nhận thay đổi suy nghĩ trước những luận điểm sắc bén của cộng sự."
     },
     {
@@ -80,24 +80,24 @@
       "id": "q7",
       "question": "Vòng lặp tái tư duy (Rethinking Cycle) bắt đầu từ bước nền tảng nào và diễn tiến ra sao?",
       "options": [
-        "Sự tự tin tuyệt đối -> Rao giảng chân lý -> Kết tội người khác -> Buộc đối phương đầu hàng -> Thắng lợi.",
-        "Nghi ngờ tất cả mọi thứ -> Rơi vào tuyệt vọng -> Từ bỏ mọi nỗ lực -> Cô lập bản thân -> Thất bại.",
         "Tính khiêm nhường (Biết mình chưa biết) -> Sự hoài nghi (Chất vấn niềm tin) -> Óc tò mò (Tìm kiếm thông tin mới) -> Khám phá mới (Cập nhật quan điểm) -> Càng khiêm nhường hơn.",
-        "Học thuộc sách giáo khoa -> Làm bài thi điểm cao -> Đi làm kiếm tiền -> Nghỉ hưu -> Kết thúc."
+        "Học thuộc sách giáo khoa -> Làm bài thi điểm cao -> Đi làm kiếm tiền -> Nghỉ hưu -> Kết thúc.",
+        "Sự tự tin tuyệt đối -> Rao giảng chân lý -> Kết tội người khác -> Buộc đối phương đầu hàng -> Thắng lợi.",
+        "Nghi ngờ tất cả mọi thứ -> Rơi vào tuyệt vọng -> Từ bỏ mọi nỗ lực -> Cô lập bản thân -> Thất bại."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Vòng lặp tái tư duy là một vòng xoắn ốc đi lên; sự khiêm nhường mở cánh cửa cho sự hoài nghi lành mạnh, thúc đẩy óc tò mò khám phá và liên tục làm mới tri thức."
     },
     {
       "id": "q8",
       "question": "Ngược lại, 'Vòng lặp cố chấp' (Overconfidence Cycle) giam cầm con người trong cái bẫy nào?",
       "options": [
-        "Niềm tự phụ -> Sự xác tín mù quáng -> Thiên kiến xác nhận/mong chờ -> Sự xác tín huyễn hoặc -> Trì trệ ngủ quên trên chiến thắng (Hội chứng mèo béo).",
         "Học quá nhiều sách -> Bị loạn kiến thức -> Mất phương hướng -> Không đưa ra được quyết định.",
-        "Sự sợ hãi -> Thiếu tự tin -> Không dám hành động -> Thất bại -> Tự ti.",
-        "Lắng nghe quá nhiều người -> Trở nên ba phải -> Bị người khác lợi dụng -> Kiệt quệ."
+        "Niềm tự phụ -> Sự xác tín mù quáng -> Thiên kiến xác nhận/mong chờ -> Sự xác tín huyễn hoặc -> Trì trệ ngủ quên trên chiến thắng (Hội chứng mèo béo).",
+        "Lắng nghe quá nhiều người -> Trở nên ba phải -> Bị người khác lợi dụng -> Kiệt quệ.",
+        "Sự sợ hãi -> Thiếu tự tin -> Không dám hành động -> Thất bại -> Tự ti."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Tự phụ sinh ra xác tín hão huyền; khi chỉ tìm kiếm những bằng chứng củng cố niềm tin cũ và gạt bỏ sự thật, con người tự đẩy mình vào ngõ cụt của sự lỗi thời."
     },
     {
@@ -140,10 +140,10 @@
       "id": "q12",
       "question": "Bài học từ câu chuyện nhà tâm lý học Stephen Greenspan bị lừa mất 1/3 tài sản tiết kiệm vào mô hình lừa đảo Ponzi của Bernie Madoff là gì?",
       "options": [
-        "Mô hình Ponzi là một hình thức đầu tư tài chính siêu lợi nhuận hoàn toàn hợp pháp.",
+        "Không bao giờ được phép gửi tiền tiết kiệm vào bất kỳ ngân hàng hay quỹ đầu tư nào.",
         "Ngay cả chuyên gia nghiên cứu về tâm lý nhẹ dạ cả tin cũng có thể bị lừa khi họ tắt chế độ Nhà khoa học và rơi vào chế độ Nhà truyền giáo/Chính trị gia trong quyết định tài chính.",
-        "Các giáo sư tâm lý học là những người có thu nhập thấp nhất trong xã hội.",
-        "Không bao giờ được phép gửi tiền tiết kiệm vào bất kỳ ngân hàng hay quỹ đầu tư nào."
+        "Mô hình Ponzi là một hình thức đầu tư tài chính siêu lợi nhuận hoàn toàn hợp pháp.",
+        "Các giáo sư tâm lý học là những người có thu nhập thấp nhất trong xã hội."
       ],
       "correctIndex": 1,
       "explanation": "Greenspan đã để mong muốn được làm vừa lòng người bạn tư vấn (Chính trị gia) và sự xác tín của người thân (Truyền giáo) lấn át tư duy điều tra khoa học khách quan."
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Tại sao việc 'Tư duy cởi mở chủ động' (Actively Open-Minded Thinking) lại đòi hỏi nhiều năng lượng hơn lối tư duy bảo thủ thông thường?",
       "options": [
-        "Nó bắt buộc con người phải học thuộc toàn bộ các từ điển bách khoa toàn thư.",
+        "Nó làm tăng nhiệt độ cơ thể lên mức gây sốt cao liên tục.",
         "Nó đòi hỏi bạn phải đồng ý với mọi ý kiến trái chiều mà không cần suy xét.",
-        "Nó đòi hỏi chúng ta phải chủ động tìm kiếm các lý do vì sao mình CÓ THỂ SAI, thay vì chỉ thỏa mãn với những bằng chứng chứng minh mình ĐÚNG.",
-        "Nó làm tăng nhiệt độ cơ thể lên mức gây sốt cao liên tục."
+        "Nó bắt buộc con người phải học thuộc toàn bộ các từ điển bách khoa toàn thư.",
+        "Nó đòi hỏi chúng ta phải chủ động tìm kiếm các lý do vì sao mình CÓ THỂ SAI, thay vì chỉ thỏa mãn với những bằng chứng chứng minh mình ĐÚNG."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Tìm kiếm bằng chứng phản chứng là hành vi đi ngược lại xu hướng tự nhiên của não bộ (vốn ưa chuộng sự xác nhận quen thuộc); nó đòi hỏi kỷ luật ý chí và sự dũng cảm cao độ."
     },
     {

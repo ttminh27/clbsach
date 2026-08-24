@@ -9,71 +9,71 @@
       "question": "Nhà khoa học dữ liệu Andrew Pole tại tập đoàn bán lẻ Target đã xây dựng thuật toán dự đoán điều gì ở khách hàng với độ chính xác kinh ngạc?",
       "options": [
         "Dự đoán chính xác ngày khách hàng sẽ trúng xổ số kiến thiết.",
-        "Dự đoán trước các vụ tai nạn xe hơi của người mua hàng.",
         "Dự đoán khách hàng nữ đang mang thai (thậm chí xác định được cả tháng sinh dự kiến) dựa trên lịch sử mua sắm 25 sản phẩm đặc trưng.",
-        "Dự đoán số tiền trong tài khoản ngân hàng của từng khách hàng."
+        "Dự đoán số tiền trong tài khoản ngân hàng của từng khách hàng.",
+        "Dự đoán trước các vụ tai nạn xe hơi của người mua hàng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Bằng cách phân tích dữ liệu mua sắm (như kem dưỡng da không mùi, viên bổ sung canxi/magie, xà phòng hữu cơ), Andrew Pole có thể dự đoán chính xác một phụ nữ đang mang thai ở tam cá nguyệt nào."
     },
     {
       "id": "q2",
       "question": "Tại sao các tập đoàn bán lẻ như Target lại khao khát nắm bắt được thời điểm một phụ nữ chuẩn bị 'sinh con' hơn bất kỳ thời điểm nào khác trong đời?",
       "options": [
+        "Vì tã lót trẻ em là sản phẩm có tỷ suất lợi nhuận cao nhất thế giới.",
         "Vì khi sinh con, toàn bộ thói quen mua sắm cũ bị đảo lộn hoàn toàn (thiếu ngủ, bận rộn, không có thời gian chọn lựa); đây là cơ hội vàng để Target kéo họ vào thói quen mua mọi thứ tại Target.",
-        "Vì phụ nữ mang thai thường mua sắm nhiều gấp 100 lần người bình thường.",
         "Vì chính phủ Mỹ trợ cấp tiền mặt cho các siêu thị bán sữa bột.",
-        "Vì tã lót trẻ em là sản phẩm có tỷ suất lợi nhuận cao nhất thế giới."
+        "Vì phụ nữ mang thai thường mua sắm nhiều gấp 100 lần người bình thường."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Các thói quen mua sắm thông thường rất khó lay chuyển. Tuy nhiên, các 'giai đoạn chuyển tiếp lớn trong cuộc đời' (Life transitions như sinh con, chuyển nhà, ly hôn) là lúc thói quen cũ sụp đổ và thói quen mới dễ được định hình nhất."
     },
     {
       "id": "q3",
       "question": "Khi một người cha giận dữ đến cửa hàng Target mắng nhiếc quản lý vì Target gửi phiếu giảm giá đồ sơ sinh và nôi em bé cho cô con gái học trung học của ông, sự thật bất ngờ sau đó là gì?",
       "options": [
-        "Thuật toán của Target đã đúng: cô con gái thực sự đang mang thai nhưng chưa dám nói với gia đình, và Target đã nhận ra điều đó trước cả cha cô bé.",
-        "Quản lý Target đã nhầm lẫn địa chỉ gửi thư của hai gia đình.",
         "Cô con gái chỉ mua đồ chơi búp bê cho bạn cùng lớp.",
-        "Hệ thống máy tính của Target bị tin tặc tấn công gửi thư rác."
+        "Hệ thống máy tính của Target bị tin tặc tấn công gửi thư rác.",
+        "Thuật toán của Target đã đúng: cô con gái thực sự đang mang thai nhưng chưa dám nói với gia đình, và Target đã nhận ra điều đó trước cả cha cô bé.",
+        "Quản lý Target đã nhầm lẫn địa chỉ gửi thư của hai gia đình."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Thuật toán của Andrew Pole đã phân tích các thay đổi nhỏ trong giỏ hàng của cô gái và nhận diện chính xác cô đang mang thai, trước cả khi cha cô bé kịp nhận ra những thay đổi ở con gái."
     },
     {
       "id": "q4",
       "question": "Để tránh việc khách hàng cảm thấy bị theo dõi rình rập và hoảng sợ khi nhận thư quảng cáo đồ sơ sinh, Target đã áp dụng chiến lược ngụy trang tâm lý nào?",
       "options": [
-        "Xóa bỏ hoàn toàn thuật toán dự đoán mang thai.",
         "Chỉ gửi thư quảng cáo vào lúc nửa đêm bằng phong bì màu đen.",
         "Kỹ thuật 'Bánh kẹp thói quen' (Sandwiching): kẹp các phiếu giảm giá tã lót và bình sữa xen kẽ giữa các sản phẩm hoàn toàn ngẫu nhiên như máy cắt cỏ, ly uống rượu hay lốp xe đạp.",
+        "Xóa bỏ hoàn toàn thuật toán dự đoán mang thai.",
         "Gửi thư nặc danh không để logo của Target."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Bằng cách đặt phiếu giảm giá tã lót cạnh máy cắt cỏ, Target tạo cảm giác các quảng cáo này chỉ là ngẫu nhiên gửi tới mọi nhà, giúp khách hàng thoải mái sử dụng phiếu giảm giá mà không thấy mình bị xâm phạm đời tư."
     },
     {
       "id": "q5",
       "question": "Câu chuyện bài hát 'Hey Ya!' của nhóm nhạc OutKast ban đầu bị thính giả đổi kênh liên tục trên radio đã minh họa quy luật tâm lý nào trong việc tiếp nhận điều mới mẻ?",
       "options": [
-        "Đài phát thanh cố tình phát sai tần số sóng.",
         "Thính giả chỉ thích nghe nhạc cổ điển giao hưởng.",
+        "Bộ não con người có xu hướng tự nhiên từ chối những thứ quá mới lạ và xa lạ; họ thèm muốn sự quen thuộc (Familiarity).",
         "Bài hát có chất lượng âm thanh quá tệ không thể phát trên radio.",
-        "Bộ não con người có xu hướng tự nhiên từ chối những thứ quá mới lạ và xa lạ; họ thèm muốn sự quen thuộc (Familiarity)."
+        "Đài phát thanh cố tình phát sai tần số sóng."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Dù là một bài hát xuất sắc, 'Hey Ya!' quá khác biệt so với các bài hit thời đó khiến não bộ thính giả cảm thấy không quen thuộc và tự động chuyển kênh để tìm bài hát quen tai."
     },
     {
       "id": "q6",
       "question": "Các giám đốc đài phát thanh đã làm gì để biến 'Hey Ya!' thành bản hit toàn cầu đứng đầu bảng xếp hạng?",
       "options": [
-        "Phát bài hát liên tục 24 tiếng không ngừng nghỉ.",
         "Tặng tiền cho thính giả mỗi lần họ nghe hết bài hát.",
-        "Áp dụng nguyên tắc 'Ngụy trang sự mới mẻ': kẹp bài hát 'Hey Ya!' vào giữa hai bài hát siêu quen thuộc mà mọi người đều yêu thích (như của Celine Dion hay Green Day).",
-        "Thu âm lại toàn bộ bài hát với một ca sĩ nhạc Pop nổi tiếng khác."
+        "Phát bài hát liên tục 24 tiếng không ngừng nghỉ.",
+        "Thu âm lại toàn bộ bài hát với một ca sĩ nhạc Pop nổi tiếng khác.",
+        "Áp dụng nguyên tắc 'Ngụy trang sự mới mẻ': kẹp bài hát 'Hey Ya!' vào giữa hai bài hát siêu quen thuộc mà mọi người đều yêu thích (như của Celine Dion hay Green Day)."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Bằng cách kẹp 'Hey Ya!' giữa hai ca khúc quen thuộc, thính giả không đổi kênh; bài hát được nghe lặp lại nhiều lần cho đến khi chính nó trở thành một 'thói quen âm nhạc quen thuộc' và gây nghiện."
     },
     {
@@ -105,11 +105,11 @@
       "question": "Tại sao các siêu thị luôn bố trí quầy rau củ quả tươi ngon và bánh mì thơm phức ngay tại cửa ra vào đầu tiên?",
       "options": [
         "Vì rau củ là mặt hàng rẻ tiền nhất trong siêu thị.",
-        "Vì các siêu thị không có đủ chỗ để rau quả ở phía sau.",
         "Nhằm kích hoạt tâm lý tự thưởng và tạo cảm giác tươi mới: khi vừa bước vào đã chọn một món đồ lành mạnh (rau quả), khách hàng sẽ cảm thấy thoải mái hơn khi chi tiền mua các đồ ngọt và đồ chế biến sẵn ở các gian hàng sau.",
-        "Vì rau củ cần ánh sáng mặt trời tự nhiên từ cửa kính."
+        "Vì rau củ cần ánh sáng mặt trời tự nhiên từ cửa kính.",
+        "Vì các siêu thị không có đủ chỗ để rau quả ở phía sau."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Việc mua một quả táo xanh lành mạnh ở cổng vào giúp khách hàng cảm thấy mình đã đưa ra một lựa chọn tốt; cảm giác này giải tỏa sự phòng vệ tâm lý và khiến họ dễ dàng mua các món đồ ăn vặt nhiều calo ở bên trong."
     },
     {
@@ -128,36 +128,36 @@
       "id": "q11",
       "question": "Khi bạn muốn bắt đầu một thói quen đọc sách 20 trang mỗi ngày, cách áp dụng nguyên tắc 'Bánh kẹp thói quen' tốt nhất là gì?",
       "options": [
-        "Chờ đến kỳ nghỉ hè khi có thật nhiều thời gian rảnh rỗi mới bắt đầu đọc.",
         "Chỉ đọc sách khi có người khác trả tiền cho mình.",
-        "Gắn việc đọc sách ngay sau một thói quen quen thuộc mỗi sáng: 'Sau khi pha xong ly cà phê sáng (Thói quen quen thuộc) -> Tôi sẽ ngồi đọc ngay 20 trang sách trước khi mở điện thoại (Thói quen mới)'.",
-        "Mua 50 cuốn sách về xếp trên bàn và ép mình đọc thâu đêm."
+        "Chờ đến kỳ nghỉ hè khi có thật nhiều thời gian rảnh rỗi mới bắt đầu đọc.",
+        "Mua 50 cuốn sách về xếp trên bàn và ép mình đọc thâu đêm.",
+        "Gắn việc đọc sách ngay sau một thói quen quen thuộc mỗi sáng: 'Sau khi pha xong ly cà phê sáng (Thói quen quen thuộc) -> Tôi sẽ ngồi đọc ngay 20 trang sách trước khi mở điện thoại (Thói quen mới)'."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Gắn thói quen mới vào ngay sau một thói quen đã vững chắc (thưởng thức cà phê sáng) giúp tận dụng tín hiệu kích hoạt sẵn có, biến việc đọc sách thành hành vi tiếp nối tự nhiên."
     },
     {
       "id": "q12",
       "question": "Lằn ranh đạo đức trong việc sử dụng dữ liệu lớn để khai thác thói quen của người tiêu dùng là gì?",
       "options": [
+        "Các công ty không được phép bán hàng để kiếm lợi nhuận.",
         "Việc khai thác thói quen một cách bí mật và thao túng tâm lý khách hàng tại các thời điểm dễ bị tổn thương (như khủng hoảng tâm lý, nợ nần, nghiện ngập) mà không có sự minh bạch và đồng thuận.",
-        "Người tiêu dùng không được phép sử dụng thẻ tín dụng khi mua sắm.",
         "Các công ty chỉ được phép thu thập dữ liệu bằng bút và giấy.",
-        "Các công ty không được phép bán hàng để kiếm lợi nhuận."
+        "Người tiêu dùng không được phép sử dụng thẻ tín dụng khi mua sắm."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Vấn đề đạo đức nảy sinh khi các doanh nghiệp lợi dụng lỗ hổng tâm lý và dữ liệu thói quen cá nhân để trục lợi trên những đối tượng dễ tổn thương mà không tôn trọng quyền riêng tư."
     },
     {
       "id": "q13",
       "question": "Tại sao việc Target có thể biết một thiếu nữ mang thai trước cả gia đình cô lại tạo nên một làn sóng tranh luận gay gắt về quyền riêng tư tại Mỹ?",
       "options": [
-        "Vì gia đình cô gái muốn độc quyền quyền bán ảnh em bé cho báo chí.",
-        "Vì Target bán đồ trẻ em với giá quá đắt.",
+        "Nó gióng lên hồi chuông cảnh tỉnh về việc thuật toán máy tính có thể 'nhìn thấu' những bí mật thân mật nhất của đời sống con người thông qua những thói quen mua sắm vô thức.",
         "Vì Target từ chối đổi trả hàng cho khách hàng.",
-        "Nó gióng lên hồi chuông cảnh tỉnh về việc thuật toán máy tính có thể 'nhìn thấu' những bí mật thân mật nhất của đời sống con người thông qua những thói quen mua sắm vô thức."
+        "Vì Target bán đồ trẻ em với giá quá đắt.",
+        "Vì gia đình cô gái muốn độc quyền quyền bán ảnh em bé cho báo chí."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Sự việc cho thấy sức mạnh ghê gớm của dữ liệu: máy móc có thể suy luận ra những điều riêng tư nhất về sức khỏe và sinh lý của một con người chỉ bằng cách theo dõi các thói quen tiêu dùng nhỏ nhặt."
     },
     {
@@ -165,11 +165,11 @@
       "question": "Tại sao người tiêu dùng thường vô thức mua sắm nhiều hơn khi đẩy một chiếc xe đẩy hàng (shopping cart) có kích thước lớn?",
       "options": [
         "Vì chiếc xe đẩy lớn phát ra sóng âm thanh kích thích cơn thèm ăn.",
+        "Vì không gian trống lớn bên trong xe kích hoạt một 'gợi ý thị giác' vô thức thôi thúc lấp đầy khoảng trống, khiến người mua nhặt thêm nhiều món đồ ngoài dự tính.",
         "Vì xe đẩy lớn di chuyển nhanh hơn xe đẩy nhỏ.",
-        "Vì siêu thị bắt buộc phải chất đầy xe mới cho phép thanh toán.",
-        "Vì không gian trống lớn bên trong xe kích hoạt một 'gợi ý thị giác' vô thức thôi thúc lấp đầy khoảng trống, khiến người mua nhặt thêm nhiều món đồ ngoài dự tính."
+        "Vì siêu thị bắt buộc phải chất đầy xe mới cho phép thanh toán."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Đây là một thiết kế môi trường kích hoạt thói quen: cảm giác giỏ hàng còn trống trải tạo ra sự thôi thúc tâm lý phải lấy thêm đồ cho đến khi cảm thấy giỏ hàng đầy đặn."
     },
     {

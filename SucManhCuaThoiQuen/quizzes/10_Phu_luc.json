@@ -20,24 +20,24 @@
       "id": "q2",
       "question": "Trong ví dụ cá nhân của chính tác giả Charles Duhigg về thói quen xấu: 'Chiều nào lúc 3h30 cũng đứng dậy đi lên căng tin mua một chiếc bánh quy socola và buôn chuyện', Bước 1 (Xác định hành vi thường nhật) được xác định là gì?",
       "options": [
-        "Hành động đứng dậy, đi thang máy lên tầng trên, mua bánh quy socola và đứng nói chuyện phiếm với đồng nghiệp.",
-        "Thời gian 3h30 chiều mỗi ngày làm việc.",
         "Việc tiêu tốn tiền bạc vào đồ ăn ngọt.",
-        "Cảm giác đói cồn cào trong dạ dày."
+        "Cảm giác đói cồn cào trong dạ dày.",
+        "Hành động đứng dậy, đi thang máy lên tầng trên, mua bánh quy socola và đứng nói chuyện phiếm với đồng nghiệp.",
+        "Thời gian 3h30 chiều mỗi ngày làm việc."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Bước 1 là quan sát chính xác chuỗi hành vi thể chất rõ ràng nhất: đứng dậy, đi lên căng tin, mua bánh và trò chuyện – đó chính là Hoạt động thường nhật (Routine)."
     },
     {
       "id": "q3",
       "question": "Tại sao ở Bước 2, tác giả lại phải 'Thử nghiệm với các phần thưởng khác nhau' (Experiment with rewards) trong nhiều ngày liên tiếp?",
       "options": [
-        "Để thử xem loại bánh nào ngon nhất trong tòa nhà.",
-        "Để kiểm tra xem căng tin có giảm giá các món đồ ăn khác không.",
+        "Để giải mã xem 'Cơn thèm muốn thực sự' (Craving) bên dưới thói quen là gì: là do đói bụng thực sự, cần đường nạp năng lượng, buồn chán cần giải lao, hay khao khát được giao tiếp xã hội với đồng nghiệp.",
         "Để tiêu hết tiền lẻ có trong ví.",
-        "Để giải mã xem 'Cơn thèm muốn thực sự' (Craving) bên dưới thói quen là gì: là do đói bụng thực sự, cần đường nạp năng lượng, buồn chán cần giải lao, hay khao khát được giao tiếp xã hội với đồng nghiệp."
+        "Để kiểm tra xem căng tin có giảm giá các món đồ ăn khác không.",
+        "Để thử xem loại bánh nào ngon nhất trong tòa nhà."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Phần thưởng thực sự thường bị ẩn giấu; việc thử các phần thưởng thay thế (ngày 1 ăn táo, ngày 2 uống trà, ngày 3 đi dạo, ngày 4 chỉ nói chuyện không ăn) giúp xác định chính xác nhu cầu cốt lõi của não bộ."
     },
     {
@@ -56,24 +56,24 @@
       "id": "q5",
       "question": "Theo nghiên cứu của các nhà khoa học hành vi, hầu hết mọi Gợi ý kích hoạt (Cues) trong cuộc sống đều rơi vào một trong 5 nhóm phạm trù nào?",
       "options": [
-        "1. Cân nặng, 2. Chiều cao, 3. Nhóm máu, 4. Tuổi tác, 5. Giới tính",
         "1. Màu sắc, 2. Nhiệt độ, 3. Độ ẩm, 4. Ánh sáng, 5. Gió",
         "1. Địa điểm (Location), 2. Thời gian (Time), 3. Trạng thái cảm xúc (Emotional state), 4. Những người xung quanh (Other people), 5. Hành động liền trước đó (Immediately preceding action)",
+        "1. Cân nặng, 2. Chiều cao, 3. Nhóm máu, 4. Tuổi tác, 5. Giới tính",
         "1. Tiền bạc, 2. Xe cộ, 3. Nhà cửa, 4. Điện thoại, 5. Máy tính"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "5 phạm trù phổ quát của mọi tín hiệu kích hoạt: Địa điểm, Thời gian, Trạng thái cảm xúc, Người ở cùng, và Hành vi vừa xảy ra ngay trước đó."
     },
     {
       "id": "q6",
       "question": "Ở Bước 3 (Tách biệt gợi ý), phương pháp ghi chép nhật ký mỗi khi cơn thôi thúc thói quen xuất hiện cần trả lời 5 câu hỏi nào?",
       "options": [
-        "1. Giá cổ phiếu bao nhiêu? 2. Xe bạn còn xăng không? 3. Điện thoại còn bao nhiêu pin? 4. Ai đang gọi bạn? 5. Bạn nợ bao nhiêu tiền?",
-        "Tôi là ai? Tôi đến từ đâu? Tôi đi về đâu? Tôi có tiền không? Hôm nay là thứ mấy?",
         "1. Bạn đang ở đâu? 2. Mấy giờ rồi? 3. Trạng thái cảm xúc của bạn là gì? 4. Có ai ở xung quanh bạn không? 5. Hành động nào vừa diễn ra ngay trước đó?",
-        "1. Bạn ăn gì sáng nay? 2. Bạn mặc áo màu gì? 3. Thời tiết thế nào? 4. Bạn có tập thể dục không? 5. Bạn ngủ bao nhiêu tiếng?"
+        "1. Bạn ăn gì sáng nay? 2. Bạn mặc áo màu gì? 3. Thời tiết thế nào? 4. Bạn có tập thể dục không? 5. Bạn ngủ bao nhiêu tiếng?",
+        "1. Giá cổ phiếu bao nhiêu? 2. Xe bạn còn xăng không? 3. Điện thoại còn bao nhiêu pin? 4. Ai đang gọi bạn? 5. Bạn nợ bao nhiêu tiền?",
+        "Tôi là ai? Tôi đến từ đâu? Tôi đi về đâu? Tôi có tiền không? Hôm nay là thứ mấy?"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Trả lời đều đặn 5 câu hỏi này trong 3-5 ngày liên tiếp sẽ làm lộ diện mẫu hình lặp lại duy nhất kích hoạt thói quen của bạn (ví dụ: luôn là lúc 3h30 chiều khi vừa xong một công việc)."
     },
     {
@@ -104,12 +104,12 @@
       "id": "q9",
       "question": "Tại sao trong những ngày đầu thực hiện kế hoạch mới, tác giả lại phải đặt chuông báo thức vào lúc 3h30 chiều?",
       "options": [
-        "Để kiểm tra xem chuông điện thoại có hoạt động tốt không.",
         "Để nhắc ông uống thuốc hạ sốt.",
+        "Để chủ động đón đầu khoảnh khắc xuất hiện Gợi ý, nhắc nhở ý thức thực hiện hành động mới trước khi hạch nền vô thức tự động dẫn chân ông đi lên căng tin theo thói quen cũ.",
         "Để thông báo cho cả phòng biết ông chuẩn bị đi nói chuyện phiếm.",
-        "Để chủ động đón đầu khoảnh khắc xuất hiện Gợi ý, nhắc nhở ý thức thực hiện hành động mới trước khi hạch nền vô thức tự động dẫn chân ông đi lên căng tin theo thói quen cũ."
+        "Để kiểm tra xem chuông điện thoại có hoạt động tốt không."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Đặt báo thức giúp kích hoạt sự chú ý có ý thức ngay tại thời điểm gợi ý xuất hiện, ngăn chặn não bộ trượt vào chế độ lái tự động theo quán tính cũ."
     },
     {
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Khung 4 bước trong Phụ lục chứng minh điều gì về bản chất của cuốn sách 'Sức Mạnh Của Thói Quen'?",
       "options": [
+        "Đây là một cuốn sách lý thuyết hàn lâm thuần túy không có tính ứng dụng.",
         "Đây là một cẩm nang hành động thực tiễn trao cho người đọc một bộ công cụ chẩn đoán khoa học để tự làm chủ và tái định hình bất kỳ hành vi nào trong cuộc sống cá nhân, sự nghiệp và tổ chức.",
         "Cuốn sách chỉ dành riêng cho các nhà khoa học tại các viện nghiên cứu y khoa.",
-        "Đây là một cuốn sách lý thuyết hàn lâm thuần túy không có tính ứng dụng.",
         "Cuốn sách khuyên mọi người nên sống thuận theo tự nhiên mà không cần kỷ luật."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Cuốn sách kết hợp giữa những khám phá khoa học thần kinh đỉnh cao và phương pháp luận thực hành rõ ràng, biến những hiểu biết trừu tượng thành công cụ thay đổi cuộc đời cho mọi độc giả."
     },
     {

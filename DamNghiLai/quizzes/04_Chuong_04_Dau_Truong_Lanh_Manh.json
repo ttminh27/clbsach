@@ -32,12 +32,12 @@
       "id": "q3",
       "question": "Tại sao các đội ngũ có 'Sự hòa thuận giả tạo' (Polite Harmony) và tránh né xung đột lại thường có kết quả làm việc kém cỏi nhất?",
       "options": [
-        "Vì những người hòa thuận thường là những người có chỉ số IQ thấp nhất trong công ty.",
         "Vì sợ làm mất lòng nhau, không ai dám chỉ ra các sai sót, rủi ro hay ý tưởng tồi tệ, dẫn đến việc tập thể cùng nhau đưa ra các quyết định thảm họa (Groupthink).",
         "Vì nhân viên trong các đội ngũ này thường có mức lương quá thấp nên lười tranh luận.",
+        "Vì những người hòa thuận thường là những người có chỉ số IQ thấp nhất trong công ty.",
         "Vì họ dành quá nhiều thời gian để tham gia các hoạt động liên hoan ngoài giờ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự đồng thuận dễ dãi là nấm mồ chôn vùi sự đổi mới; khi mọi người đều nghĩ giống nhau, chứng tỏ không có ai đang thực sự suy nghĩ độc lập."
     },
     {
@@ -57,11 +57,11 @@
       "question": "Tại sao những người có tính cách 'Khó tính, hay phản biện nhưng có tâm' (Disagreeable Givers) lại là tài sản vô giá của một tổ chức?",
       "options": [
         "Vì họ giúp công ty tiết kiệm được chi phí thuê luật sư tư vấn pháp lý.",
+        "Vì họ luôn luôn tạo ra các cuộc xung đột bạo lực để giải quyết mâu thuẫn nội bộ.",
         "Vì họ không ngần ngại nói ra những sự thật khó nghe, dám chất vấn các quyết định sai lầm của sếp vì lợi ích cao nhất của tập thể chứ không vì tư lợi cá nhân.",
-        "Vì họ luôn đồng ý với mọi ý kiến của ban giám đốc mà không cần suy nghĩ.",
-        "Vì họ luôn luôn tạo ra các cuộc xung đột bạo lực để giải quyết mâu thuẫn nội bộ."
+        "Vì họ luôn đồng ý với mọi ý kiến của ban giám đốc mà không cần suy nghĩ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Những người 'khó tính vì việc chung' chính là chiếc phanh an toàn bảo vệ tổ chức khỏi sự tự mãn; họ sẵn sàng chịu áp lực để bảo vệ chân lý và sự phát triển bền vững."
     },
     {
@@ -81,11 +81,11 @@
       "question": "Làm thế nào để chuyển hóa một cuộc tranh luận có nguy cơ trở thành 'Xung đột quan hệ' quay trở lại thành 'Xung đột nhiệm vụ'?",
       "options": [
         "Tổ chức một trận đấu quyền anh để hai bên tự giải quyết mâu thuẫn thể xác.",
+        "Yêu cầu cả hai bên lập tức im lặng và rời khỏi phòng họp ngay lập tức.",
         "Phạt tiền cả hai người và ghi biên bản khiển trách vào hồ sơ nhân sự.",
-        "Tái định khung cuộc trò chuyện: Nhắc nhở cả hai bên về mục tiêu chung tối thượng, công khai thừa nhận sự tôn trọng cá nhân và tập trung hoàn toàn vào dữ liệu/giải pháp.",
-        "Yêu cầu cả hai bên lập tức im lặng và rời khỏi phòng họp ngay lập tức."
+        "Tái định khung cuộc trò chuyện: Nhắc nhở cả hai bên về mục tiêu chung tối thượng, công khai thừa nhận sự tôn trọng cá nhân và tập trung hoàn toàn vào dữ liệu/giải pháp."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Khi cái tôi bắt đầu nổi lên, người điều phối khôn ngoan sẽ kéo sự chú ý quay về bài toán: 'Chúng ta không tranh cãi để xem ai thắng, mà để cùng nhau tìm ra giải pháp tốt nhất cho khách hàng'."
     },
     {
@@ -104,12 +104,12 @@
       "id": "q9",
       "question": "Thí nghiệm về 'Sự hiện diện của một ý kiến bất đồng chân chính' trong nhóm ra quyết định mang lại tác động gì?",
       "options": [
-        "Làm cho toàn bộ cuộc họp bị bế tắc và không thể đưa ra bất kỳ kết luận nào.",
         "Làm giảm năng suất làm việc của toàn bộ công ty xuống mức bằng không.",
-        "Khiến cho tất cả các thành viên trong nhóm lập tức từ bỏ dự án hiện tại.",
-        "Ngay cả khi ý kiến bất đồng đó hoàn toàn sai, nó vẫn buộc các thành viên khác phải tư duy sâu hơn, kiểm tra lại các giả định và cuối cùng đưa ra quyết định chính xác hơn vượt trội."
+        "Làm cho toàn bộ cuộc họp bị bế tắc và không thể đưa ra bất kỳ kết luận nào.",
+        "Ngay cả khi ý kiến bất đồng đó hoàn toàn sai, nó vẫn buộc các thành viên khác phải tư duy sâu hơn, kiểm tra lại các giả định và cuối cùng đưa ra quyết định chính xác hơn vượt trội.",
+        "Khiến cho tất cả các thành viên trong nhóm lập tức từ bỏ dự án hiện tại."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Ý kiến trái chiều là chất xúc tác tư duy; nó phá vỡ sự lười biếng của não bộ, buộc tập thể phải huy động lý lẽ sắc bén hơn để kiểm chứng mọi góc nhìn."
     },
     {
@@ -152,36 +152,36 @@
       "id": "q13",
       "question": "Làm thế nào một nhà lãnh đạo có thể 'Tạo ra một đấu trường tranh luận lành mạnh' trong các cuộc họp hàng tuần?",
       "options": [
+        "Đặt ra câu hỏi mở: 'Ai có góc nhìn khác?', trao thưởng cho những ý kiến phản biện sắc bén và cấm tuyệt đối mọi hành vi ngắt lời hay giễu cợt cá nhân.",
         "Sa thải ngay lập tức bất kỳ nhân viên nào dám đưa ra ý kiến trái chiều với sếp.",
         "Tự mình phát biểu trong suốt 90% thời gian của cuộc họp và yêu cầu mọi người ghi chép.",
-        "Đặt ra câu hỏi mở: 'Ai có góc nhìn khác?', trao thưởng cho những ý kiến phản biện sắc bén và cấm tuyệt đối mọi hành vi ngắt lời hay giễu cợt cá nhân.",
         "Chỉ mời những nhân viên luôn đồng ý với ý kiến của ban giám đốc tham dự họp."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Nhà lãnh đạo thông thái không tìm kiếm sự đồng thuận dễ dãi; họ chủ động khai thác sự đa dạng nhận thức để bảo đảm mọi quyết định đều được thử lửa kỹ càng."
     },
     {
       "id": "q14",
       "question": "Tại sao việc 'Khen ngợi quá trình tranh luận hơn là chỉ khen ngợi kết quả' lại thúc đẩy văn hóa tái tư duy?",
       "options": [
-        "Nó làm tăng thời gian họp hành lên gấp 3 lần mỗi tuần.",
         "Đây là một chiêu thức nhằm cắt giảm tiền thưởng hiệu quả công việc của nhân viên.",
         "Nó củng cố chuẩn mực văn hóa rằng việc dũng cảm chất vấn, đào sâu vấn đề và xem xét đa chiều là hành vi được trân trọng cao nhất trong tổ chức.",
+        "Nó làm tăng thời gian họp hành lên gấp 3 lần mỗi tuần.",
         "Nó giúp nhân viên không cần phải quan tâm đến việc hoàn thành chỉ tiêu doanh số."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Khi tổ chức tôn vinh 'quá trình tư duy phản biện xuất sắc', nhân viên sẽ không ngần ngại thử nghiệm những ý tưởng mới và không sợ hãi trước những sai sót trong quá trình khám phá."
     },
     {
       "id": "q15",
       "question": "Thông điệp đắt giá nhất của Chương 4 về nghệ thuật tranh luận là gì?",
       "options": [
-        "'Hãy tránh xa mọi cuộc tranh cãi để giữ gìn sự bình yên tuyệt đối cho tâm hồn'.",
         "'Một cuộc tranh luận tuyệt vời không phải là nơi cái tôi của bạn giành chiến thắng, mà là nơi tất cả mọi người cùng nhau chiến thắng sự ngu dốt và tìm ra giải pháp tối ưu!'.",
         "'Bất đồng ý kiến là dấu hiệu của sự chia rẽ và cần phải loại bỏ ngay lập tức'.",
+        "'Hãy tránh xa mọi cuộc tranh cãi để giữ gìn sự bình yên tuyệt đối cho tâm hồn'.",
         "'Người chiến thắng trong tranh luận là người có giọng nói to nhất và không cho người khác ngắt lời'."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Đấu trường lành mạnh là nơi ý tưởng được tôi luyện trong ngọn lửa phản biện; hãy yêu quý xung đột nhiệm vụ và bảo vệ sự tôn trọng lẫn nhau để cùng tiến bộ."
     }
   ]

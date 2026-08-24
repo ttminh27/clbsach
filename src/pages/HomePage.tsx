@@ -52,7 +52,7 @@ export const HomePage: React.FC = () => {
         <BookFilter currentFilter={filter} onFilterChange={setFilter} counts={counts} />
       </div>
 
-      {/* Book Grid: 4 items per row on desktop */}
+      {/* Book Grid: 5 items per row on desktop */}
       {filteredBooks.length === 0 ? (
         <div className="rounded-3xl border border-slate-200 bg-white dark:border-slate-800 dark:bg-slate-900 p-12 text-center">
           <BookOpen className="h-12 w-12 text-slate-400 mx-auto mb-3" />
@@ -64,7 +64,7 @@ export const HomePage: React.FC = () => {
           </p>
         </div>
       ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 sm:gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 sm:gap-5">
           {filteredBooks.map((book) => (
             <BookCard key={book.id} book={book} />
           ))}

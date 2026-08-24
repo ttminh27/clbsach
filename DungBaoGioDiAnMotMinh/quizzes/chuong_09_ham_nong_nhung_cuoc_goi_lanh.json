@@ -44,12 +44,12 @@
       "id": "q4",
       "question": "Trong 30 giây đầu của cuộc gọi tiếp cận, thông điệp nào sau đây cần phải được truyền tải rõ ràng nhất?",
       "options": [
+        "'Tôi có một ý tưởng/giải pháp cụ thể có thể giúp ích trực tiếp cho dự án mà anh/chị đang triển khai, và tôi chỉ xin 15 phút để trình bày tóm tắt'.",
         "'Tôi đang rất cần một công việc và hy vọng công ty anh/chị có thể tuyển dụng tôi vào tuần tới'.",
         "'Tôi muốn giới thiệu toàn bộ 50 dòng sản phẩm mà công ty chúng tôi đang sản xuất'.",
-        "'Tôi có một ý tưởng/giải pháp cụ thể có thể giúp ích trực tiếp cho dự án mà anh/chị đang triển khai, và tôi chỉ xin 15 phút để trình bày tóm tắt'.",
         "'Tôi muốn phỏng vấn anh/chị để viết sách về những sai lầm trong kinh doanh'."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Tập trung tuyệt đối vào lợi ích của người nghe và cam kết một khoảng thời gian ngắn gọn, không làm gián đoạn công việc của họ."
     },
     {
@@ -80,12 +80,12 @@
       "id": "q7",
       "question": "Khi đối phương phản hồi: 'Tôi đang rất bận, không có thời gian', cách xử lý tình huống xuất sắc nhất là gì?",
       "options": [
-        "Cúp máy ngay lập tức và chặn số điện thoại của họ.",
         "Trách móc đối tác vì đã không tôn trọng cuộc gọi của bạn.",
-        "Đồng cảm ngay lập tức ('Tôi hoàn toàn hiểu anh/chị đang rất bận, chính vì vậy tôi chỉ xin phép gọi lại vào 8h30 sáng thứ Năm hoặc gửi email tóm tắt 3 dòng để anh/chị xem qua').",
-        "Tiếp tục nói thật to và ép họ phải nghe hết bài thuyết trình bán hàng."
+        "Cúp máy ngay lập tức và chặn số điện thoại của họ.",
+        "Tiếp tục nói thật to và ép họ phải nghe hết bài thuyết trình bán hàng.",
+        "Đồng cảm ngay lập tức ('Tôi hoàn toàn hiểu anh/chị đang rất bận, chính vì vậy tôi chỉ xin phép gọi lại vào 8h30 sáng thứ Năm hoặc gửi email tóm tắt 3 dòng để anh/chị xem qua')."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Tôn trọng thời gian của họ, đưa ra lựa chọn linh hoạt và nhẹ nhàng rút lui có hẹn trước thể hiện sự tinh tế và đẳng cấp chuyên nghiệp."
     },
     {
@@ -140,36 +140,36 @@
       "id": "q12",
       "question": "Một ví dụ thực tế về việc biến 'cuộc gọi lạnh thành ấm' thông qua một bài báo là gì?",
       "options": [
-        "'Tôi là tác giả của tất cả các bài báo viết về ngành công nghiệp của anh'.",
         "'Tôi muốn bán cho anh một gói bảo hiểm sau khi đọc bài báo về tai nạn giao thông'.",
-        "'Tôi vừa đọc bài phát biểu sâu sắc của anh trên tờ Forbes về chuyển đổi số và rất ấn tượng với quan điểm X; tôi có một nghiên cứu liên quan muốn chia sẻ thêm với anh'.",
-        "'Tôi thấy công ty anh bị báo chí phê bình tuần trước nên muốn gọi điện chia buồn'."
+        "'Tôi là tác giả của tất cả các bài báo viết về ngành công nghiệp của anh'.",
+        "'Tôi thấy công ty anh bị báo chí phê bình tuần trước nên muốn gọi điện chia buồn'.",
+        "'Tôi vừa đọc bài phát biểu sâu sắc của anh trên tờ Forbes về chuyển đổi số và rất ấn tượng với quan điểm X; tôi có một nghiên cứu liên quan muốn chia sẻ thêm với anh'."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Bắt đầu bằng sự khen ngợi chân thành đối với thành tựu hoặc bài viết chuyên môn của đối tác là cách tiếp cận ấm áp và thông minh nhất."
     },
     {
       "id": "q13",
       "question": "Khi gọi điện cho một nhân vật rất quan trọng, điều gì cần chuẩn bị kỹ lưỡng nhất ngay trước mặt bạn?",
       "options": [
-        "Chiếc đồng hồ bấm giờ để kiểm tra xem cuộc gọi kéo dài bao nhiêu giây.",
         "Bản danh sách tất cả các đối thủ cạnh tranh của công ty bạn.",
-        "Bản ghi chú tóm tắt các luận điểm then chốt, thông tin về họ, câu hỏi mở và mục tiêu cuộc gọi được trình bày gọn gàng trong tầm mắt.",
-        "Một cốc cà phê nóng và một chiếc bánh ngọt."
+        "Chiếc đồng hồ bấm giờ để kiểm tra xem cuộc gọi kéo dài bao nhiêu giây.",
+        "Một cốc cà phê nóng và một chiếc bánh ngọt.",
+        "Bản ghi chú tóm tắt các luận điểm then chốt, thông tin về họ, câu hỏi mở và mục tiêu cuộc gọi được trình bày gọn gàng trong tầm mắt."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Có dàn ý trước mặt giúp bạn giữ được sự mạch lạc, không bị lạc đề hay quên mất các thông điệp giá trị cốt lõi khi đối thoại."
     },
     {
       "id": "q14",
       "question": "Tại sao sự kiên trì gọi lại sau 3-4 lần không nghe máy lại được coi là phẩm chất của người thành công chứ không phải sự quấy rầy?",
       "options": [
-        "Vì nếu không gọi lại bạn sẽ bị công ty trừ lương hàng tháng.",
         "Vì người thành đạt thường vô cùng bận rộn; việc bạn kiên trì liên lạc lại một cách lịch sự, đúng mực chứng minh bạn thực sự nghiêm túc và có niềm tin vào giá trị mình mang lại.",
         "Vì các lãnh đạo luôn muốn thử thách tính kiên nhẫn của người khác trước khi nghe máy.",
+        "Vì nếu không gọi lại bạn sẽ bị công ty trừ lương hàng tháng.",
         "Vì hệ thống viễn thông tự động yêu cầu phải gọi lại nhiều lần."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "80% các thương vụ lớn được chốt sau lần liên hệ thứ 5; sự kiên trì lịch thiệp là ranh giới phân định người nghiệp dư và bậc thầy thực chiến."
     },
     {
@@ -177,9 +177,9 @@
       "question": "Thông điệp cốt lõi nhất của chương 9 về nghệ thuật tiếp cận là gì?",
       "options": [
         "Không có cuộc gọi nào là thực sự 'lạnh' nếu bạn đầu tư tâm huyết để tìm hiểu, bắc cầu niềm tin và trao gửi giá trị chân thành.",
-        "Chỉ những người có mối quan hệ thân thiết từ trước mới có thể hợp tác kinh doanh.",
         "Hãy tránh xa mọi cuộc gọi điện thoại và chỉ giao tiếp qua tin nhắn văn bản.",
-        "Cách tốt nhất để bán hàng là gọi điện ngẫu nhiên cho hàng ngàn người mỗi ngày."
+        "Cách tốt nhất để bán hàng là gọi điện ngẫu nhiên cho hàng ngàn người mỗi ngày.",
+        "Chỉ những người có mối quan hệ thân thiết từ trước mới có thể hợp tác kinh doanh."
       ],
       "correctIndex": 0,
       "explanation": "Sự chuẩn bị và lòng chân thành có thể làm tan chảy mọi bức tường băng giá, biến những người xa lạ thành những đối tác đồng hành trọn đời."

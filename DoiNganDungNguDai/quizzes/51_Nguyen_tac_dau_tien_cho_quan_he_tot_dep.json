@@ -44,12 +44,12 @@
       "id": "q4",
       "question": "Theo phân tích tâm lý trong sách, đâu là lý do sâu xa khiến nhiều người biết rõ bài học 'Nguyên tắc đầu tiên cho quan hệ tốt đẹp' nhưng vẫn không chịu thay đổi?",
       "options": [
-        "Họ đã đạt tới đỉnh cao của sự nghiệp nên không còn nhu cầu phát triển.",
+        "Họ chưa tìm được một cuốn sách hướng dẫn chi tiết từng bước một.",
         "Họ thiếu các công cụ kỹ thuật số và thiết bị hiện đại để quản lý thời gian.",
-        "Họ bị tê liệt bởi nỗi sợ bị phán xét, sợ thất bại và sự cám dỗ của vùng an toàn quen thuộc.",
-        "Họ chưa tìm được một cuốn sách hướng dẫn chi tiết từng bước một."
+        "Họ đã đạt tới đỉnh cao của sự nghiệp nên không còn nhu cầu phát triển.",
+        "Họ bị tê liệt bởi nỗi sợ bị phán xét, sợ thất bại và sự cám dỗ của vùng an toàn quen thuộc."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Bộ não con người có xu hướng bám víu vào sự an toàn giả tạo; vượt qua nỗi sợ hãi chính là bước ngoặt quyết định để bước vào thế giới của sự xuất sắc."
     },
     {
@@ -92,12 +92,12 @@
       "id": "q8",
       "question": "Khái niệm 'Lãnh đạo' theo tinh thần của Sharma trong 'Nguyên tắc đầu tiên cho quan hệ tốt đẹp' có điểm gì khác biệt so với quan niệm truyền thống?",
       "options": [
-        "Lãnh đạo là năng lực tự dẫn dắt bản thân, truyền cảm hứng qua hành động gương mẫu và phụng sự người khác dù bạn ở bất kỳ cấp bậc nào.",
-        "Lãnh đạo là quyền sinh quyền sát và ra lệnh cho cấp dưới.",
         "Lãnh đạo là người không bao giờ cần phải trực tiếp giải quyết vấn đề.",
-        "Lãnh đạo là người có văn phòng đẹp nhất và thu nhập cao nhất trong công ty."
+        "Lãnh đạo là người có văn phòng đẹp nhất và thu nhập cao nhất trong công ty.",
+        "Lãnh đạo là năng lực tự dẫn dắt bản thân, truyền cảm hứng qua hành động gương mẫu và phụng sự người khác dù bạn ở bất kỳ cấp bậc nào.",
+        "Lãnh đạo là quyền sinh quyền sát và ra lệnh cho cấp dưới."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Lãnh đạo không phải là chức danh ghi trên danh thiếp, mà là cách bạn tư duy, cách bạn tương tác với con người và tiêu chuẩn xuất sắc bạn duy trì mỗi ngày."
     },
     {
@@ -105,9 +105,9 @@
       "question": "Khi những nỗ lực áp dụng 'Nguyên tắc đầu tiên cho quan hệ tốt đẹp' bị người xung quanh hoài nghi hoặc chỉ trích, phản ứng khôn ngoan nhất là gì?",
       "options": [
         "Lấy kết quả thực tế và sự kiên định làm câu trả lời, xem lời chỉ trích như một phép thử cho bản lĩnh cá nhân.",
-        "Đóng cửa không tiếp xúc với bất kỳ ai.",
         "Bỏ cuộc ngay lập tức để hòa nhập với tập thể.",
-        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm."
+        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm.",
+        "Đóng cửa không tiếp xúc với bất kỳ ai."
       ],
       "correctIndex": 0,
       "explanation": "Người có tư tưởng lớn không để những tiếng ồn bên ngoài làm chao đảo định hướng bên trong; kết quả công việc vượt trội chính là lời minh chứng thuyết phục nhất."
@@ -116,12 +116,12 @@
       "id": "q10",
       "question": "Trong kỷ nguyên ngập tràn thông tin gây xao nhãng, bài học 'Nguyên tắc đầu tiên cho quan hệ tốt đẹp' khuyến nghị người đọc bảo vệ tài sản nào quý giá nhất?",
       "options": [
-        "Bộ sưu tập các đồ dùng công nghệ đời mới nhất.",
-        "Số lượng người theo dõi trên mạng xã hội.",
         "Sự tập trung cao độ và nguồn năng lượng tinh thần để dồn vào những mục tiêu có giá trị tác động cao.",
-        "Thời gian nghỉ ngơi thụ động xem video giải trí."
+        "Thời gian nghỉ ngơi thụ động xem video giải trí.",
+        "Bộ sưu tập các đồ dùng công nghệ đời mới nhất.",
+        "Số lượng người theo dõi trên mạng xã hội."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Sự tập trung sâu là siêu năng lực của thế kỷ 21; dồn toàn bộ tâm trí vào việc tạo ra giá trị cốt lõi là con đường duy nhất dẫn tới vị thế chuyên gia đỉnh cao."
     },
     {
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Để tránh việc đọc xong chương sách này mà không tạo ra chuyển biến thực tế, bước hành động quan trọng nhất cần làm ngay hôm nay là gì?",
       "options": [
-        "Chờ đợi đến đầu tháng sau hoặc đầu năm mới rồi mới bắt đầu rèn luyện.",
-        "Lên danh sách 100 mục tiêu phức tạp nhưng không bắt đầu việc nào.",
+        "Chọn ra đúng MỘT thói quen hoặc hành động cốt lõi từ bài học và kiên quyết thực hiện ngay trong vòng 24 giờ tới.",
         "Kể cho thật nhiều người nghe về những gì mình dự định làm mà không thực hiện.",
-        "Chọn ra đúng MỘT thói quen hoặc hành động cốt lõi từ bài học và kiên quyết thực hiện ngay trong vòng 24 giờ tới."
+        "Lên danh sách 100 mục tiêu phức tạp nhưng không bắt đầu việc nào.",
+        "Chờ đợi đến đầu tháng sau hoặc đầu năm mới rồi mới bắt đầu rèn luyện."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Quy tắc 24 giờ: Ý tưởng không hành động chỉ là ảo ảnh. Bắt đầu ngay với một hành động cụ thể sẽ phá vỡ sức ỳ tâm lý và kích hoạt quán tính thành công."
     },
     {

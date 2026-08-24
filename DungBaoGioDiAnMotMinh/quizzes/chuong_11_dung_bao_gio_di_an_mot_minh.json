@@ -8,36 +8,36 @@
       "id": "q1",
       "question": "Chiến lược 'Không bao giờ đi ăn một mình' (Never Eat Alone) giúp tối ưu hóa thời gian và nguồn lực của một chuyên gia bận rộn như thế nào?",
       "options": [
-        "Giúp bạn luôn có người chia sẻ tiền hóa đơn ăn uống tại các nhà hàng đắt tiền.",
-        "Giúp bạn tránh phải tự mình nấu nướng tại nhà vào mỗi buổi tối.",
+        "Đảm bảo bạn không bao giờ bị nghẹn thức ăn khi ăn uống trong giờ làm việc.",
         "Tận dụng thời gian ăn uống bắt buộc mỗi ngày để biến nó thành các cuộc gặp gỡ kết nối, thảo luận ý tưởng và thắt chặt tình cảm mà không làm xáo trộn giờ làm việc chuyên môn.",
-        "Đảm bảo bạn không bao giờ bị nghẹn thức ăn khi ăn uống trong giờ làm việc."
+        "Giúp bạn tránh phải tự mình nấu nướng tại nhà vào mỗi buổi tối.",
+        "Giúp bạn luôn có người chia sẻ tiền hóa đơn ăn uống tại các nhà hàng đắt tiền."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Chúng ta ai cũng phải ăn ít nhất 2-3 bữa mỗi ngày; lồng ghép việc kết nối vào các bữa ăn là cách quản trị thời gian thông minh và tự nhiên nhất."
     },
     {
       "id": "q2",
       "question": "Mô hình tổ chức tiệc tối kết nối 'Mỏ neo và Vệ tinh' (Anchor and Feeders) được vận hành theo cơ chế nào?",
       "options": [
-        "Tổ chức một cuộc thi tranh luận căng thẳng giữa hai phe đối lập trong bữa ăn.",
-        "Mời một nhân vật trung tâm có uy tín và sức hút lớn (Mỏ neo), sau đó mời thêm các vị khách thú vị, đa dạng ngành nghề (Vệ tinh) xoay quanh để tạo nên một buổi giao lưu bùng nổ.",
+        "Yêu cầu một vị khách đứng ra trả toàn bộ chi phí và những người khác chỉ đến ăn.",
         "Chỉ mời những người làm cùng một vị trí chuyên môn trong cùng một phòng ban.",
-        "Yêu cầu một vị khách đứng ra trả toàn bộ chi phí và những người khác chỉ đến ăn."
+        "Mời một nhân vật trung tâm có uy tín và sức hút lớn (Mỏ neo), sau đó mời thêm các vị khách thú vị, đa dạng ngành nghề (Vệ tinh) xoay quanh để tạo nên một buổi giao lưu bùng nổ.",
+        "Tổ chức một cuộc thi tranh luận căng thẳng giữa hai phe đối lập trong bữa ăn."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Nhân vật mỏ neo tạo ra lý do hấp dẫn để mọi người hào hứng nhận lời, trong khi các vị khách vệ tinh đa dạng mang lại sinh khí và sự phong phú cho cuộc trò chuyện."
     },
     {
       "id": "q3",
       "question": "Tại sao việc tự tay nấu nướng hoặc tổ chức tiệc tại nhà riêng lại tạo ra sự gắn kết sâu sắc hơn việc đi ăn tại nhà hàng sang trọng?",
       "options": [
-        "Vì tại nhà riêng bạn có thể ép đối tác ký hợp đồng kinh doanh mà không có luật sư chứng kiến.",
         "Vì các nhà hàng sang trọng thường không cho phép khách hàng nói chuyện to.",
-        "Vì nấu ăn tại nhà luôn giúp tiết kiệm được 90% chi phí so với nhà hàng.",
-        "Mời ai đó vào không gian riêng tư của gia đình thể hiện sự tin cậy tối cao, cởi bỏ hoàn toàn ranh giới công việc và biến đối tác thành bạn bè thân thiết."
+        "Vì tại nhà riêng bạn có thể ép đối tác ký hợp đồng kinh doanh mà không có luật sư chứng kiến.",
+        "Mời ai đó vào không gian riêng tư của gia đình thể hiện sự tin cậy tối cao, cởi bỏ hoàn toàn ranh giới công việc và biến đối tác thành bạn bè thân thiết.",
+        "Vì nấu ăn tại nhà luôn giúp tiết kiệm được 90% chi phí so với nhà hàng."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Sự hiếu khách tại tư gia mang lại cảm giác ấm cúng, thân thuộc và chứng minh lòng chân thành tuyệt đối của gia chủ đối với các vị khách."
     },
     {
@@ -56,60 +56,60 @@
       "id": "q5",
       "question": "Làm thế nào để duy trì nhịp độ kết nối trong bữa ăn khi bạn có một lịch trình công việc cực kỳ dày đặc?",
       "options": [
-        "Thuê người đóng giả mình đi ăn với các đối tác.",
-        "Áp dụng nguyên tắc 'Ăn sáng kết nối, ăn trưa mở rộng, uống cà phê giải lao và ăn tối làm sâu sắc quan hệ' một cách linh hoạt theo tuần.",
+        "Chỉ ăn một bữa duy nhất trong ngày vào lúc nửa đêm.",
         "Vừa ăn vừa gọi điện thoại cho 5 người khác cùng lúc.",
-        "Chỉ ăn một bữa duy nhất trong ngày vào lúc nửa đêm."
+        "Áp dụng nguyên tắc 'Ăn sáng kết nối, ăn trưa mở rộng, uống cà phê giải lao và ăn tối làm sâu sắc quan hệ' một cách linh hoạt theo tuần.",
+        "Thuê người đóng giả mình đi ăn với các đối tác."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Đa dạng hóa các loại hình gặp gỡ (ăn sáng, cà phê 20 phút, ăn trưa, tiệc tối) giúp bạn tiếp cận hàng chục mối quan hệ mà vẫn đảm bảo hiệu suất công việc."
     },
     {
       "id": "q6",
       "question": "Vai trò của 'Người chủ trì truyền cảm hứng' (The Catalyst Host) trong một bữa tiệc kết nối là gì?",
       "options": [
-        "Nói liên tục về các thành tựu cá nhân của mình từ đầu đến cuối buổi tiệc.",
-        "Ngồi im lặng và ghi chép lại toàn bộ lời nói của các vị khách.",
         "Rời khỏi bàn tiệc ngay sau khi món ăn đầu tiên được dọn ra.",
-        "Giới thiệu các vị khách với nhau, khéo léo nêu bật điểm chung độc đáo của họ và gợi mở những chủ đề thảo luận chung sâu sắc cho cả bàn tiệc."
+        "Giới thiệu các vị khách với nhau, khéo léo nêu bật điểm chung độc đáo của họ và gợi mở những chủ đề thảo luận chung sâu sắc cho cả bàn tiệc.",
+        "Nói liên tục về các thành tựu cá nhân của mình từ đầu đến cuối buổi tiệc.",
+        "Ngồi im lặng và ghi chép lại toàn bộ lời nói của các vị khách."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Người chủ trì xuất sắc đóng vai trò là nhạc trưởng kết nối; họ làm nổi bật từng vị khách và tạo ra một bản hòa ca giao tiếp hài hòa, tràn đầy cảm hứng."
     },
     {
       "id": "q7",
       "question": "Một người trẻ có ngân sách hạn hẹp có thể áp dụng tinh thần của chương 11 như thế nào mà không bị tốn kém?",
       "options": [
+        "Tổ chức các buổi tiệc chia sẻ chi phí (Potluck dinner - mỗi người tự mang đến một món ăn) hoặc mời đi uống cà phê, trà đá tại những không gian yên tĩnh.",
         "Vay mượn tiền để bao trọn gói các bữa ăn tại khách sạn 5 sao.",
         "Chỉ đi ăn ké của người khác mà không bao giờ mời lại.",
-        "Tổ chức các buổi tiệc chia sẻ chi phí (Potluck dinner - mỗi người tự mang đến một món ăn) hoặc mời đi uống cà phê, trà đá tại những không gian yên tĩnh.",
         "Từ bỏ hoàn toàn việc gặp gỡ mọi người cho đến khi trở nên giàu có."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Ý nghĩa của cuộc gặp nằm ở sự chia sẻ chân thành và giá trị trí tuệ, chứ không nằm ở sự xa xỉ của món ăn hay không gian."
     },
     {
       "id": "q8",
       "question": "Điều gì là sai lầm phổ biến nhất khiến một bữa ăn kết nối trở nên nhàm chán và thất bại?",
       "options": [
+        "Biến bữa ăn thành một buổi bán hàng căng thẳng hoặc để một cá nhân độc chiếm toàn bộ thời gian nói chuyện mà không cho người khác chia sẻ.",
         "Phục vụ các món ăn truyền thống dân dã.",
         "Mời những người có quan điểm chính trị khác nhau đến ăn tối.",
-        "Biến bữa ăn thành một buổi bán hàng căng thẳng hoặc để một cá nhân độc chiếm toàn bộ thời gian nói chuyện mà không cho người khác chia sẻ.",
         "Kết thúc bữa ăn đúng giờ đã thông báo trước."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Sự độc thoại và tính vụ lợi sẽ giết chết bầu không khí ấm cúng; một bữa ăn thành công phải là không gian của sự lắng nghe và tương tác đa chiều."
     },
     {
       "id": "q9",
       "question": "Kỹ thuật 'Mời gối đầu' (Tag-along / Piggybacking) trong việc lên lịch ăn trưa được thực hiện như thế nào?",
       "options": [
-        "Đi theo người khác vào nhà hàng và ngồi vào bàn ăn của họ mà không xin phép.",
-        "Bắt buộc người bạn thân phải trả tiền cho người bạn mới.",
         "Hủy lịch hẹn với người bạn cũ để đi ăn với người bạn mới.",
-        "Khi đã có lịch ăn trưa với một người bạn thân, khéo léo xin phép mời thêm một người bạn mới thú vị có cùng mối quan tâm tham gia cùng."
+        "Khi đã có lịch ăn trưa với một người bạn thân, khéo léo xin phép mời thêm một người bạn mới thú vị có cùng mối quan tâm tham gia cùng.",
+        "Đi theo người khác vào nhà hàng và ngồi vào bàn ăn của họ mà không xin phép.",
+        "Bắt buộc người bạn thân phải trả tiền cho người bạn mới."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Mời ghép hợp lý giúp mở rộng mạng lưới một cách tự nhiên, kết nối các vòng tròn quan hệ lại với nhau và tiết kiệm tối đa thời gian."
     },
     {
@@ -117,9 +117,9 @@
       "question": "Tại sao việc duy trì một bữa ăn gia đình ấm cúng hàng tuần lại là nền tảng bổ trợ cho sự thành công của mạng lưới xã hội?",
       "options": [
         "Vì gia đình là chiếc mỏ neo cảm xúc cốt lõi giúp bạn tái tạo năng lượng, giữ vững sự cân bằng nội tâm và nuôi dưỡng sự tử tế đích thực.",
-        "Vì luật lao động yêu cầu phải ăn cơm cùng gia đình ít nhất một lần mỗi tuần.",
         "Vì gia đình là nơi duy nhất bạn có thể thực hành các bài thuyết trình bán hàng.",
-        "Vì người thân trong gia đình luôn là những khách hàng tiềm năng lớn nhất."
+        "Vì người thân trong gia đình luôn là những khách hàng tiềm năng lớn nhất.",
+        "Vì luật lao động yêu cầu phải ăn cơm cùng gia đình ít nhất một lần mỗi tuần."
       ],
       "correctIndex": 0,
       "explanation": "Một người không thể kết nối chân thành với thế giới nếu bỏ bê những người thân yêu nhất; hạnh phúc gia đình chính là cội nguồn của sức mạnh kết nối."
@@ -128,12 +128,12 @@
       "id": "q11",
       "question": "Khi tham dự một bữa ăn tối đông người, quy tắc ứng xử thông minh để trò chuyện với nhiều người là gì?",
       "options": [
-        "Yêu cầu người phục vụ đổi chỗ ngồi của bạn liên tục sau mỗi món ăn.",
         "Ăn thật nhanh trong 5 phút rồi ra về sớm để gây sự chú ý.",
-        "Tận dụng thời gian chuyển món hoặc giải lao để di chuyển nhẹ nhàng, trò chuyện ngắn với những người ở góc bàn khác thay vì chỉ ngồi yên một chỗ.",
-        "Đứng dậy và phát biểu to trước toàn bộ nhà hàng trong suốt 30 phút."
+        "Yêu cầu người phục vụ đổi chỗ ngồi của bạn liên tục sau mỗi món ăn.",
+        "Đứng dậy và phát biểu to trước toàn bộ nhà hàng trong suốt 30 phút.",
+        "Tận dụng thời gian chuyển món hoặc giải lao để di chuyển nhẹ nhàng, trò chuyện ngắn với những người ở góc bàn khác thay vì chỉ ngồi yên một chỗ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Sự linh hoạt và hòa nhã giúp bạn mở rộng tương tác với nhiều thành viên trong bàn tiệc mà không làm gián đoạn dòng chảy chung."
     },
     {
@@ -152,24 +152,24 @@
       "id": "q13",
       "question": "Tại sao tác giả lại nhấn mạnh việc 'Đừng bao giờ để dạ dày của bạn trống rỗng về mặt quan hệ'?",
       "options": [
+        "Mỗi bữa ăn một mình là một cơ hội bị bỏ lỡ để lắng nghe một câu chuyện mới, thấu hiểu một con người và mở ra một tương lai hợp tác.",
         "Vì ăn một mình sẽ làm tăng nguy cơ mắc các bệnh về đường tiêu hóa.",
         "Vì bạn sẽ không bao giờ được thăng chức nếu ăn trưa một mình tại văn phòng.",
-        "Mỗi bữa ăn một mình là một cơ hội bị bỏ lỡ để lắng nghe một câu chuyện mới, thấu hiểu một con người và mở ra một tương lai hợp tác.",
         "Vì các chuyên gia dinh dưỡng khuyên nên ăn cùng người khác để ăn ngon miệng hơn."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Thời gian là tài sản quý giá nhất; biến các hoạt động sinh hoạt thường nhật thành cơ hội kết nối giá trị là bí quyết nhân đôi cuộc sống của bạn."
     },
     {
       "id": "q14",
       "question": "Sau khi tổ chức một bữa tiệc tối kết nối thành công, hành động hoàn tất quan trọng nhất vào sáng hôm sau là gì?",
       "options": [
+        "Gửi một tin nhắn/email cảm ơn tập thể kèm theo thông tin liên lạc của các vị khách (nếu được cho phép) để họ có thể tiếp tục kết nối với nhau.",
         "Gửi hóa đơn chia tiền ăn uống cho từng vị khách kèm theo số tài khoản ngân hàng.",
-        "Xóa số điện thoại của những vị khách không mang quà đến tặng gia chủ.",
         "Đăng tải những hình ảnh riêng tư của khách mời lên mạng xã hội mà không xin phép.",
-        "Gửi một tin nhắn/email cảm ơn tập thể kèm theo thông tin liên lạc của các vị khách (nếu được cho phép) để họ có thể tiếp tục kết nối với nhau."
+        "Xóa số điện thoại của những vị khách không mang quà đến tặng gia chủ."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Hoàn tất vai trò cầu nối bằng việc trao đổi danh bạ giúp sợi dây liên kết giữa các vị khách tiếp tục phát triển, khắc sâu uy tín của người tổ chức."
     },
     {

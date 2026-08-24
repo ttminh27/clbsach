@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Khái niệm 'Môi giới xã hội' (Social Arbitrage) trong cuốn sách được định nghĩa chính xác là gì?",
       "options": [
-        "Việc thu phí phần trăm hoa hồng bằng tiền mặt mỗi khi giới thiệu bạn bè làm quen.",
         "Tạo ra sự bất hòa giữa hai đối tác kinh doanh để trục lợi cá nhân.",
-        "Hành vi mua đi bán lại cổ phiếu trên sàn giao dịch chứng khoán xã hội.",
-        "Nghệ thuật liên tục tìm kiếm và chủ động kết nối hai hay nhiều người chưa quen biết nhau nhưng có nhu cầu, nguồn lực hoặc giá trị tương thích để cùng nhau tạo ra thành công."
+        "Việc thu phí phần trăm hoa hồng bằng tiền mặt mỗi khi giới thiệu bạn bè làm quen.",
+        "Nghệ thuật liên tục tìm kiếm và chủ động kết nối hai hay nhiều người chưa quen biết nhau nhưng có nhu cầu, nguồn lực hoặc giá trị tương thích để cùng nhau tạo ra thành công.",
+        "Hành vi mua đi bán lại cổ phiếu trên sàn giao dịch chứng khoán xã hội."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Môi giới xã hội là việc trao đi giá trị kết nối: bạn ghép nối những mảnh ghép còn thiếu của người khác lại với nhau, biến bạn thành một trung tâm thịnh vượng."
     },
     {
@@ -32,48 +32,48 @@
       "id": "q3",
       "question": "Tại sao việc đóng vai trò là 'Người môi giới xã hội' lại không làm tiêu hao bất kỳ nguồn lực vật chất nào của bạn nhưng lại tạo ra giá trị khổng lồ?",
       "options": [
-        "Vì người được giới thiệu sẽ phải nộp lại 50% tài sản cho bạn.",
         "Vì bạn chỉ cần sử dụng trí tuệ, sự thấu hiểu và danh bạ để tạo ra giá trị mới cho người khác, đồng thời tích lũy được sự biết ơn sâu sắc từ cả hai bên.",
         "Vì bạn được nhà nước trả thù lao hàng tháng cho mỗi lời giới thiệu.",
+        "Vì người được giới thiệu sẽ phải nộp lại 50% tài sản cho bạn.",
         "Vì việc kết nối người khác không đòi hỏi bạn phải suy nghĩ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Môi giới xã hội là hành động tạo giá trị từ hư không (Creating value from thin air); bạn chia sẻ thông tin và mối quan hệ để kiến tạo sự thịnh vượng chung."
     },
     {
       "id": "q4",
       "question": "Công thức 3 bước để thực hiện một cuộc 'Môi giới xã hội' hoàn hảo là gì?",
       "options": [
-        "Lấy số điện thoại của A đưa cho B -> Yêu cầu A trả tiền -> Rời đi.",
-        "Yêu cầu cả A và B phải ký hợp đồng ủy quyền toàn bộ tài sản cho bạn.",
+        "Mời A và B đến một bữa tiệc ồn ào -> Để họ tự tìm thấy nhau -> Không nói gì.",
         "Thấu hiểu nhu cầu của người A -> Nhận diện thế mạnh của người B phù hợp -> Viết thư giới thiệu nêu rõ lý do tại sao họ nên gặp nhau và giá trị đôi bên cùng nhận được.",
-        "Mời A và B đến một bữa tiệc ồn ào -> Để họ tự tìm thấy nhau -> Không nói gì."
+        "Yêu cầu cả A và B phải ký hợp đồng ủy quyền toàn bộ tài sản cho bạn.",
+        "Lấy số điện thoại của A đưa cho B -> Yêu cầu A trả tiền -> Rời đi."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Một lời giới thiệu chuyên nghiệp phải giải thích rõ ràng bối cảnh, lý do và lợi ích tương hỗ mà cả hai bên sẽ nhận được khi gặp mặt."
     },
     {
       "id": "q5",
       "question": "Nguyên tắc 'Giới thiệu có sự đồng thuận kép' (Double Opt-in Introduction) đòi hỏi người môi giới phải làm gì trước khi kết nối?",
       "options": [
-        "Gửi thông tin cá nhân của họ lên tất cả các trang mạng xã hội công khai.",
-        "Hỏi ý kiến riêng của cả hai người xem họ có sẵn lòng và hào hứng muốn được kết nối với người kia hay không trước khi gửi email kết nối chung.",
+        "Bắt buộc cả hai người phải đóng tiền cọc trước khi gặp mặt.",
         "Tự ý cung cấp số điện thoại riêng của đối tác cho người lạ mà không xin phép.",
-        "Bắt buộc cả hai người phải đóng tiền cọc trước khi gặp mặt."
+        "Hỏi ý kiến riêng của cả hai người xem họ có sẵn lòng và hào hứng muốn được kết nối với người kia hay không trước khi gửi email kết nối chung.",
+        "Gửi thông tin cá nhân của họ lên tất cả các trang mạng xã hội công khai."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Xin phép trước từ cả hai phía là phép lịch sự tối cao, bảo vệ thời gian của các bên và đảm bảo cuộc gặp gỡ diễn ra trong tâm thế chào đón nhất."
     },
     {
       "id": "q6",
       "question": "Điều gì xảy ra với vị thế và quyền lực cá nhân của bạn khi bạn liên tục thực hiện các vụ môi giới xã hội thành công?",
       "options": [
-        "Bạn sẽ bị kiệt sức và mất toàn bộ tài sản cá nhân.",
+        "Bạn trở thành một 'Nhân vật không thể thiếu' (Indispensable Hub) trong hệ sinh thái; mọi người đều muốn tìm đến bạn để xin lời khuyên và cơ hội hợp tác.",
         "Bạn sẽ bị mọi người xa lánh vì nghi ngờ bạn đang lợi dụng họ.",
-        "Bạn sẽ bị cấm tham gia vào các hoạt động kinh doanh trực tiếp.",
-        "Bạn trở thành một 'Nhân vật không thể thiếu' (Indispensable Hub) trong hệ sinh thái; mọi người đều muốn tìm đến bạn để xin lời khuyên và cơ hội hợp tác."
+        "Bạn sẽ bị kiệt sức và mất toàn bộ tài sản cá nhân.",
+        "Bạn sẽ bị cấm tham gia vào các hoạt động kinh doanh trực tiếp."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Người nắm giữ khả năng kết nối nguồn lực luôn là trung tâm quyền lực và là thỏi nam châm thu hút những cơ hội lớn nhất trong xã hội."
     },
     {
@@ -93,9 +93,9 @@
       "question": "Sai lầm nguy hiểm nhất mà một người môi giới xã hội cần tuyệt đối tránh là gì?",
       "options": [
         "Giới thiệu những người thiếu năng lực, thiếu trung thực hoặc không phù hợp về văn hóa, làm tổn hại uy tín cá nhân và lãng phí thời gian của các bên.",
+        "Viết thư giới thiệu quá ngắn gọn dưới 10 câu.",
         "Giới thiệu hai người có cùng độ tuổi với nhau.",
-        "Gửi lời cảm ơn sau khi hai bên hợp tác thành công.",
-        "Viết thư giới thiệu quá ngắn gọn dưới 10 câu."
+        "Gửi lời cảm ơn sau khi hai bên hợp tác thành công."
       ],
       "correctIndex": 0,
       "explanation": "Chất lượng là danh dự; chỉ giới thiệu khi bạn thực sự tin tưởng vào nhân cách và năng lực của người được giới thiệu."
@@ -129,9 +129,9 @@
       "question": "Làm thế nào để theo dõi và duy trì các mối quan hệ đã được bạn môi giới thành công?",
       "options": [
         "Thỉnh thoảng thăm hỏi xem sự hợp tác giữa họ tiến triển ra sao, chúc mừng những bước tiến chung và sẵn sàng hỗ trợ tháo gỡ nếu có khúc mắc.",
-        "Cắt đứt liên lạc với cả hai người sau khi đã giới thiệu xong.",
         "Yêu cầu họ phải nộp báo cáo tài chính định kỳ hàng tháng cho bạn.",
-        "Can thiệp sâu vào tất cả các quyết định nội bộ trong công việc của họ."
+        "Can thiệp sâu vào tất cả các quyết định nội bộ trong công việc của họ.",
+        "Cắt đứt liên lạc với cả hai người sau khi đã giới thiệu xong."
       ],
       "correctIndex": 0,
       "explanation": "Theo dõi và chúc phúc cho sự thành công của hạt mầm mình đã gieo giúp củng cố vị thế người đỡ đầu danh dự của bạn."
@@ -153,9 +153,9 @@
       "question": "Khi hai người do bạn giới thiệu xảy ra mâu thuẫn trong quá trình hợp tác, thái độ xử lý đúng đắn của bạn là gì?",
       "options": [
         "Giữ vị thế trung lập, lắng nghe với sự thấu cảm, nhắc nhở họ về mục tiêu ban đầu và nhẹ nhàng hỗ trợ làm cầu nối đối thoại hòa giải.",
-        "Kiện cả hai bên ra tòa án dân sự vì làm tổn hại uy tín của bạn.",
         "Đứng về phía người giàu hơn và cắt đứt quan hệ với người kia.",
-        "Tuyên bố từ bỏ toàn bộ trách nhiệm và mắng mỏ cả hai bên."
+        "Tuyên bố từ bỏ toàn bộ trách nhiệm và mắng mỏ cả hai bên.",
+        "Kiện cả hai bên ra tòa án dân sự vì làm tổn hại uy tín của bạn."
       ],
       "correctIndex": 0,
       "explanation": "Sự điềm tĩnh và vai trò trung gian hòa giải công tâm sẽ càng làm nổi bật tầm vóc và uy tín của bạn trong mắt các bên."
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Tại sao việc ghi chép lại 'Sở thích và nhu cầu của từng người trong danh bạ' lại là điều kiện cần để làm môi giới xã hội?",
       "options": [
-        "Vì đó là quy định bắt buộc của các hiệp hội thương mại.",
+        "Vì bạn không thể ghép nối các mảnh ghép nếu không nắm rõ trong tay mình đang có những nguồn lực và nhu cầu cụ thể nào.",
         "Để bán danh sách thông tin đó cho các công ty quảng cáo trực tuyến.",
-        "Để kiểm tra xem bạn bè của bạn có thay đổi sở thích hay không.",
-        "Vì bạn không thể ghép nối các mảnh ghép nếu không nắm rõ trong tay mình đang có những nguồn lực và nhu cầu cụ thể nào."
+        "Vì đó là quy định bắt buộc của các hiệp hội thương mại.",
+        "Để kiểm tra xem bạn bè của bạn có thay đổi sở thích hay không."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Cơ sở dữ liệu thông tin chính xác là kho nguyên liệu quý giá; nó giúp bộ não của bạn tự động kích hoạt các liên tưởng ghép nối thần kỳ."
     },
     {

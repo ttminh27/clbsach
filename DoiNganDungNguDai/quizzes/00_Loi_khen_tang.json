@@ -44,12 +44,12 @@
       "id": "q4",
       "question": "Theo phân tích tâm lý trong sách, đâu là lý do sâu xa khiến nhiều người biết rõ bài học 'Lời khen tặng dành cho Robin Sharma và tác phẩm của ông' nhưng vẫn không chịu thay đổi?",
       "options": [
+        "Họ chưa tìm được một cuốn sách hướng dẫn chi tiết từng bước một.",
         "Họ thiếu các công cụ kỹ thuật số và thiết bị hiện đại để quản lý thời gian.",
-        "Họ bị tê liệt bởi nỗi sợ bị phán xét, sợ thất bại và sự cám dỗ của vùng an toàn quen thuộc.",
         "Họ đã đạt tới đỉnh cao của sự nghiệp nên không còn nhu cầu phát triển.",
-        "Họ chưa tìm được một cuốn sách hướng dẫn chi tiết từng bước một."
+        "Họ bị tê liệt bởi nỗi sợ bị phán xét, sợ thất bại và sự cám dỗ của vùng an toàn quen thuộc."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Bộ não con người có xu hướng bám víu vào sự an toàn giả tạo; vượt qua nỗi sợ hãi chính là bước ngoặt quyết định để bước vào thế giới của sự xuất sắc."
     },
     {
@@ -68,24 +68,24 @@
       "id": "q6",
       "question": "Nghịch lý lớn nhất được chỉ ra trong chương 'Lời khen tặng dành cho Robin Sharma và tác phẩm của ông' là gì?",
       "options": [
-        "Những người nổi tiếng nhất là những người không bao giờ phải chịu áp lực.",
         "Càng đọc nhiều sách thì con người càng trở nên lười biếng hơn.",
+        "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ.",
         "Làm việc càng ít thì chất lượng công việc lại càng cao.",
-        "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ."
+        "Những người nổi tiếng nhất là những người không bao giờ phải chịu áp lực."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sự trưởng thành chỉ xảy ra ở ranh giới của sự khó chịu; nếu mọi việc đều quá dễ dàng và êm đềm, bạn đang dậm chân tại chỗ."
     },
     {
       "id": "q7",
       "question": "Cách tiếp cận của bài học 'Lời khen tặng dành cho Robin Sharma và tác phẩm của ông' giúp cải thiện mối quan hệ giữa người với người như thế nào?",
       "options": [
+        "Dạy bạn cách thao túng cảm xúc của người khác để đạt mục đích riêng.",
         "Khuyên bạn chỉ nên kết giao với những ai đem lại lợi ích tài chính trực tiếp.",
         "Giúp bạn nhận ra giá trị của sự lắng nghe chân thành, tôn trọng sự độc bản của người khác và xây dựng niềm tin bằng sự chính trực.",
-        "Dạy bạn cách thao túng cảm xúc của người khác để đạt mục đích riêng.",
         "Yêu cầu bạn luôn né tránh bày tỏ quan điểm thật để giữ hòa khí bằng mọi giá."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự kết nối chân thật bắt đầu từ sự khiêm nhường, thấu cảm và sự nhất quán giữa lời nói với hành động."
     },
     {
@@ -104,12 +104,12 @@
       "id": "q9",
       "question": "Khi những nỗ lực áp dụng 'Lời khen tặng dành cho Robin Sharma và tác phẩm của ông' bị người xung quanh hoài nghi hoặc chỉ trích, phản ứng khôn ngoan nhất là gì?",
       "options": [
-        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm.",
+        "Lấy kết quả thực tế và sự kiên định làm câu trả lời, xem lời chỉ trích như một phép thử cho bản lĩnh cá nhân.",
         "Bỏ cuộc ngay lập tức để hòa nhập với tập thể.",
-        "Đóng cửa không tiếp xúc với bất kỳ ai.",
-        "Lấy kết quả thực tế và sự kiên định làm câu trả lời, xem lời chỉ trích như một phép thử cho bản lĩnh cá nhân."
+        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm.",
+        "Đóng cửa không tiếp xúc với bất kỳ ai."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Người có tư tưởng lớn không để những tiếng ồn bên ngoài làm chao đảo định hướng bên trong; kết quả công việc vượt trội chính là lời minh chứng thuyết phục nhất."
     },
     {
@@ -128,12 +128,12 @@
       "id": "q11",
       "question": "Mối liên hệ giữa việc chăm sóc sức khỏe thể chất và việc hiện thực hóa các ý tưởng trong 'Lời khen tặng dành cho Robin Sharma và tác phẩm của ông' là gì?",
       "options": [
-        "Người thành công không cần ngủ đủ giấc.",
-        "Sức khỏe chỉ là yếu tố phụ, chỉ cần có ý chí tinh thần là đủ.",
         "Tập thể dục chỉ làm lãng phí thời gian có thể dùng để làm việc.",
-        "Năng lượng thể chất dồi dào là động cơ thúc đẩy sự sáng tạo, sự bền bỉ và khả năng ra quyết định sáng suốt dưới áp lực."
+        "Năng lượng thể chất dồi dào là động cơ thúc đẩy sự sáng tạo, sự bền bỉ và khả năng ra quyết định sáng suốt dưới áp lực.",
+        "Người thành công không cần ngủ đủ giấc.",
+        "Sức khỏe chỉ là yếu tố phụ, chỉ cần có ý chí tinh thần là đủ."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Năng lượng là đơn vị tiền tệ của hiệu suất cao; cơ thể khỏe mạnh và tràn đầy sinh lực giúp bạn duy trì phong độ đỉnh cao bền vững."
     },
     {
@@ -152,12 +152,12 @@
       "id": "q13",
       "question": "Theo triết lý chung của cuốn sách và chương 'Lời khen tặng dành cho Robin Sharma và tác phẩm của ông', thước đo cuối cùng của một cuộc đời thành công rực rỡ là gì?",
       "options": [
-        "Mức độ bạn tránh né được mọi va chạm và thử thách trong đời.",
         "Số lượng tài sản ròng và danh mục bất động sản tích lũy được.",
-        "Mức độ ảnh hưởng tích cực bạn để lại cho cuộc sống của những người xung quanh và di sản ý nghĩa bạn đóng góp cho cộng đồng.",
-        "Số lượng cuộc họp và email bạn đã xử lý trong sự nghiệp."
+        "Mức độ bạn tránh né được mọi va chạm và thử thách trong đời.",
+        "Số lượng cuộc họp và email bạn đã xử lý trong sự nghiệp.",
+        "Mức độ ảnh hưởng tích cực bạn để lại cho cuộc sống của những người xung quanh và di sản ý nghĩa bạn đóng góp cho cộng đồng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Cuối cuộc đời, điều đọng lại không phải là bạn đã nhận được bao nhiêu, mà là bạn đã trở thành con người như thế nào và trao đi được những giá trị gì cho thế giới."
     },
     {
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Câu hỏi sâu sắc nhất mà chương 'Lời khen tặng dành cho Robin Sharma và tác phẩm của ông' để lại trong tâm trí người đọc để tự soi rọi bản thân là gì?",
       "options": [
-        "Nếu hôm nay là ngày duy nhất tôi có thể cống hiến hết mình, tôi có đang sống xứng đáng với tiềm năng vĩ đại mà tôi được ban tặng hay không?",
-        "Làm sao để tìm được công việc nhàn hạ nhất mà vẫn nhận lương cao?",
+        "Người khác nghĩ gì về ngoại hình và trang phục của tôi hôm nay?",
         "Tôi có thể trì hoãn việc khó này đến tuần sau được không?",
-        "Người khác nghĩ gì về ngoại hình và trang phục của tôi hôm nay?"
+        "Làm sao để tìm được công việc nhàn hạ nhất mà vẫn nhận lương cao?",
+        "Nếu hôm nay là ngày duy nhất tôi có thể cống hiến hết mình, tôi có đang sống xứng đáng với tiềm năng vĩ đại mà tôi được ban tặng hay không?"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Đời ngắn đừng ngủ dài: Hãy sống mỗi ngày như một tác phẩm nghệ thuật, không thỏa hiệp với sự tầm thường và luôn nỗ lực đạt tới sự xuất chúng."
     }
   ]

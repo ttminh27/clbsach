@@ -3,6 +3,8 @@ convert @raw/SucManhCuaThoiQuen.pdf thành các file  markdown, mỗi chương l
 
 Lưu ý trích xuất các hình ảnh trong pdf gốc ra thư mục images và tạo reference đến các image để các file markdown hoàn toàn giống với pdf gốc.
 ------------------
+rà soát lại pdf gốc với các file markdown đã sinh ra để đảm báo nội dung hoàn toàn giống nhau. Nếu cần thiết thì đếm số lượng từ ở hai bên để so sánh
+------------------
 đã có nội dung sách ở @SucManhCuaThoiQuen/ Hãy bổ sung vào
 ------------------
 bổ sung thêm mini game dạng quiz (tầm 15 câu) ở mỗi chương sách của quyển sách này để người dùng có thể kiểm tra kiến thức của mình sau khi đọc chương sách đó. Nội dung quiz cần đòi hỏi suy luận để hiểu rõ kiến thức truyền tải trong nội dung chương sách

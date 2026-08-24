@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Trong 30 hành động tạo ảnh hưởng của cuốn sách, hành động cốt lõi đầu tiên ở cấp độ 'TÁI TƯ DUY CÁ NHÂN' là gì?",
       "options": [
-        "Tập thể dục cường độ cao 3 tiếng mỗi ngày tại phòng tập thể hình.",
         "Tư duy như một nhà khoa học: Luôn coi các ý kiến của mình là giả thuyết cần kiểm chứng, chủ động tìm kiếm các điểm dữ liệu phản biện và khiêm nhường cập nhật góc nhìn.",
         "Đọc thuộc lòng tất cả các bài viết của tác giả Adam Grant trên mạng xã hội.",
+        "Tập thể dục cường độ cao 3 tiếng mỗi ngày tại phòng tập thể hình.",
         "Mua sắm các thiết bị công nghệ tiên tiến nhất để tự động hóa công việc."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Tư duy khoa học là nền móng của mọi sự chuyển hóa; khi bạn từ bỏ cái tôi giáo điều để đón nhận óc tò mò thực nghiệm, bạn sẽ liên tục tiến hóa nhận thức."
     },
     {
@@ -44,12 +44,12 @@
       "id": "q4",
       "question": "Hành động nào giúp chúng ta 'Phức tạp hóa các vấn đề phân cực' trong các cuộc trò chuyện hàng ngày?",
       "options": [
-        "Đồng ý với tất cả mọi ý kiến mà không cần đưa ra bất kỳ sự phân tích nào.",
+        "Buộc tất cả mọi người phải chọn một phe rõ ràng trong vòng 10 giây.",
         "Cấm mọi người thảo luận về bất kỳ chủ đề nào có liên quan đến chính trị xã hội.",
-        "Chủ động từ bỏ các từ ngữ tuyệt đối hóa (trắng/đen), thừa nhận các sắc thái xám và đưa vào các câu hỏi khám phá sự đan xen phức tạp của vấn đề.",
-        "Buộc tất cả mọi người phải chọn một phe rõ ràng trong vòng 10 giây."
+        "Đồng ý với tất cả mọi ý kiến mà không cần đưa ra bất kỳ sự phân tích nào.",
+        "Chủ động từ bỏ các từ ngữ tuyệt đối hóa (trắng/đen), thừa nhận các sắc thái xám và đưa vào các câu hỏi khám phá sự đan xen phức tạp của vấn đề."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Phức tạp hóa là liều thuốc giải độc cho sự cuồng tín; nó đưa cuộc đối thoại từ sự thù địch nhị nguyên trở về với sự thấu hiểu đa chiều và nhân bản."
     },
     {
@@ -57,9 +57,9 @@
       "question": "Ở cấp độ 'TÁI TƯ DUY TẬP THỂ', hành động cốt lõi để xây dựng một tổ chức học tập là gì?",
       "options": [
         "Kiến tạo môi trường An toàn tâm lý (Psychological Safety) kết hợp với Tiêu chuẩn trách nhiệm cao: Tôn vinh các cuộc thử nghiệm thông minh và học tập từ sai sót.",
+        "Bãi bỏ toàn bộ các cuộc họp phản biện và chỉ thực hiện mệnh lệnh của ban giám đốc.",
         "Tổ chức các cuộc thi đua nội bộ khốc liệt để sa thải 10% nhân viên cuối bảng mỗi quý.",
-        "Phạt trừ lương thật nặng đối với bất kỳ nhân viên nào mắc phải sai lầm trong công việc.",
-        "Bãi bỏ toàn bộ các cuộc họp phản biện và chỉ thực hiện mệnh lệnh của ban giám đốc."
+        "Phạt trừ lương thật nặng đối với bất kỳ nhân viên nào mắc phải sai lầm trong công việc."
       ],
       "correctIndex": 0,
       "explanation": "An toàn tâm lý giải phóng tiếng nói của sự thật; khi nhân viên không sợ hãi sự trừng phạt, tổ chức sẽ sở hữu nguồn trí tuệ tập thể vô tận để liên tục đổi mới."
@@ -68,24 +68,24 @@
       "id": "q6",
       "question": "Tại sao việc 'Phá bỏ những quy trình cũ không còn tạo ra giá trị' lại là một thói quen vệ sinh tổ chức bắt buộc?",
       "options": [
+        "Nó ngăn chặn căn bệnh xơ cứng và tê liệt của bộ máy, giải phóng thời gian và năng lượng sáng tạo của nhân viên cho những mục tiêu chiến lược đột phá.",
         "Nó giúp công ty cắt giảm toàn bộ đội ngũ nhân sự quản lý cấp trung.",
         "Nó làm tăng số lượng các biểu mẫu giấy tờ hành chính cần phải ký duyệt.",
-        "Nó ngăn chặn căn bệnh xơ cứng và tê liệt của bộ máy, giải phóng thời gian và năng lượng sáng tạo của nhân viên cho những mục tiêu chiến lược đột phá.",
         "Đây là một phong tục truyền thống của các công ty công nghệ tại Thung lũng Silicon."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Quy trình thừa thãi là gông cùm của sự sáng tạo; tổ chức thông thái định kỳ thanh lọc các thủ tục lỗi thời để duy trì sự nhanh nhạy và linh hoạt."
     },
     {
       "id": "q7",
       "question": "Hành động nào giúp các bậc phụ huynh và giáo viên nuôi dưỡng thế hệ trẻ có 'Tư duy của nhà khoa học'?",
       "options": [
-        "Phạt điểm kém những học sinh dám đưa ra ý kiến trái chiều với giáo viên.",
         "Cấm trẻ em tham gia vào các hoạt động thảo luận và tranh biện nhóm.",
+        "Dạy trẻ cách chất vấn sách giáo khoa, khuyến khích các em đặt những câu hỏi mở và tổ chức các bài học thực nghiệm khám phá thay vì chỉ học vẹt trả bài.",
         "Bắt buộc học sinh phải học thuộc lòng toàn bộ sách giáo khoa từ trang đầu đến trang cuối.",
-        "Dạy trẻ cách chất vấn sách giáo khoa, khuyến khích các em đặt những câu hỏi mở và tổ chức các bài học thực nghiệm khám phá thay vì chỉ học vẹt trả bài."
+        "Phạt điểm kém những học sinh dám đưa ra ý kiến trái chiều với giáo viên."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Nuôi dưỡng tinh thần khoa học cho trẻ thơ là đầu tư cho tương lai của nhân loại; hãy dạy các em biết cách tư duy chứ không phải bảo các em phải nghĩ cái gì."
     },
     {
@@ -104,9 +104,9 @@
       "id": "q9",
       "question": "Làm thế nào để thực hành 'Niềm vui khi phát hiện mình sai' trong các cuộc trò chuyện hàng ngày?",
       "options": [
+        "Lập tức đổi chủ đề nói chuyện sang một vấn đề khác để đánh lạc hướng.",
         "Tìm kiếm điểm yếu cá nhân của người đó để công kích lại nhằm gỡ gạc thể diện.",
         "Tuyệt đối im lặng và không bao giờ nói chuyện với người đó nữa.",
-        "Lập tức đổi chủ đề nói chuyện sang một vấn đề khác để đánh lạc hướng.",
         "Khi ai đó chứng minh bạn sai bằng dữ liệu xác thực, hãy mỉm cười nói: 'Cảm ơn bạn! Tôi vừa học được một điều mới tuyệt vời từ bạn!' thay vì xù lông phòng vệ."
       ],
       "correctIndex": 3,
@@ -116,12 +116,12 @@
       "id": "q10",
       "question": "Tại sao việc 'Tách biệt giữa ý kiến cá nhân và bản sắc cốt lõi' lại là chìa khóa của sự giải phóng tinh thần?",
       "options": [
-        "Đây là một phương pháp điều trị tâm lý dành riêng cho các bệnh nhân mất trí nhớ.",
         "Để người khác không thể nhận diện được tính cách thực sự của bạn.",
-        "Bạn hiểu rằng bạn không PHẢI LÀ ý kiến của bạn; bạn là một con người đang không ngừng học hỏi; việc thay đổi một ý kiến cũ chỉ là hành động thay một chiếc áo đã chật.",
-        "Để bạn có thể tự do lừa dối người khác mà không cảm thấy cắn rứt lương tâm."
+        "Đây là một phương pháp điều trị tâm lý dành riêng cho các bệnh nhân mất trí nhớ.",
+        "Để bạn có thể tự do lừa dối người khác mà không cảm thấy cắn rứt lương tâm.",
+        "Bạn hiểu rằng bạn không PHẢI LÀ ý kiến của bạn; bạn là một con người đang không ngừng học hỏi; việc thay đổi một ý kiến cũ chỉ là hành động thay một chiếc áo đã chật."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Khi danh tính của bạn là 'người tìm kiếm chân lý', bạn sẽ không bao giờ sợ hãi sự phản biện; bạn sẵn sàng buông bỏ mọi chiếc áo ý kiến cũ để khoác lên mình sự thật mới."
     },
     {
@@ -129,11 +129,11 @@
       "question": "Hành động nào giúp giảm thiểu sự phân cực và ác cảm giữa các nhóm xã hội đối lập?",
       "options": [
         "Chia cắt đất nước thành các khu vực địa lý riêng biệt cho từng đảng phái.",
+        "Tổ chức các cuộc biểu tình bạo động để áp đảo phe đối lập trên đường phố.",
         "Tập trung vào những giá trị con người chung, cùng nhau hợp tác trong các dự án cộng đồng ý nghĩa và lắng nghe câu chuyện đời thực của nhau với sự thấu cảm.",
-        "Cấm tất cả các phương tiện truyền thông đăng tin về các quan điểm trái chiều.",
-        "Tổ chức các cuộc biểu tình bạo động để áp đảo phe đối lập trên đường phố."
+        "Cấm tất cả các phương tiện truyền thông đăng tin về các quan điểm trái chiều."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tình người vượt lên trên mọi ranh giới chính trị; khi chúng ta cùng nhau phục vụ một mục đích cao cả hơn, sự thù hận phe phái sẽ tự động tan biến."
     },
     {
@@ -141,11 +141,11 @@
       "question": "Tại sao việc 'Nuôi dưỡng tính tò mò về những điều kỳ lạ và nghịch lý' lại là nhiên liệu của sự sáng tạo đột phá?",
       "options": [
         "Tính tò mò là một căn bệnh tâm lý cần phải được điều trị bằng thuốc an thần.",
-        "Vì người tò mò luôn có nhiều thời gian rảnh rỗi hơn những người bận rộn.",
         "Vì tính tò mò giúp bạn thu thập được nhiều tin đồn giật gân của người nổi tiếng.",
-        "Bởi vì những phát kiến vĩ đại nhất trong lịch sử luôn nảy sinh từ khoảnh khắc một ai đó nhìn vào một điều quen thuộc và tự hỏi: 'Khoan đã, tại sao nó lại như vậy?'."
+        "Bởi vì những phát kiến vĩ đại nhất trong lịch sử luôn nảy sinh từ khoảnh khắc một ai đó nhìn vào một điều quen thuộc và tự hỏi: 'Khoan đã, tại sao nó lại như vậy?'.",
+        "Vì người tò mò luôn có nhiều thời gian rảnh rỗi hơn những người bận rộn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Óc tò mò là chiếc kính viễn vọng mở ra những thế giới mới; người không ngừng tò mò là người nắm giữ chìa khóa của những phát minh làm thay đổi nhân loại."
     },
     {
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Làm thế nào để xây dựng thói quen 'Tái tư duy như một lối sống hàng ngày' (A Way of Life)?",
       "options": [
-        "Bắt buộc tất cả các thành viên trong gia đình phải đọc thuộc lòng cuốn sách mỗi tối.",
-        "Chờ đợi khi nào xã hội thay đổi hoàn toàn thì mới bắt đầu rèn luyện bản thân.",
+        "Bắt đầu từ những việc nhỏ mỗi ngày: Dừng lại 10 giây trước khi phán xét, tự hỏi 'Tôi có thể đang bỏ sót điều gì?', và luôn giữ tâm thế khiêm nhường tò mò trước mọi người bạn gặp.",
         "Tham gia các khóa tu khổ hạnh trong rừng sâu suốt 10 năm liên tục.",
-        "Bắt đầu từ những việc nhỏ mỗi ngày: Dừng lại 10 giây trước khi phán xét, tự hỏi 'Tôi có thể đang bỏ sót điều gì?', và luôn giữ tâm thế khiêm nhường tò mò trước mọi người bạn gặp."
+        "Chờ đợi khi nào xã hội thay đổi hoàn toàn thì mới bắt đầu rèn luyện bản thân.",
+        "Bắt buộc tất cả các thành viên trong gia đình phải đọc thuộc lòng cuốn sách mỗi tối."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Tái tư duy không phải là một sự kiện nhất thời; đó là hơi thở của một tâm trí tỉnh thức, một thói quen phản xạ tự nhiên giúp bạn luôn tươi mới và an lạc mỗi ngày."
     },
     {

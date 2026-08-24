@@ -9,9 +9,9 @@
       "question": "Trong chương '98. Dấu ấn của bạn', luận điểm cốt lõi nào sau đây phản ánh chính xác nhất triết lý của Robin Sharma?",
       "options": [
         "Sự vĩ đại bắt đầu từ việc làm chủ nội tâm, can đảm sống đúng với giá trị bản thân và hành động xuất sắc vượt trên sự tầm thường.",
-        "Nên lựa chọn con đường an toàn, tránh né mọi xung đột và rủi ro để bảo toàn vị thế hiện tại.",
         "Chờ đợi sự hoàn hảo và sự cho phép của người khác trước khi dấn thân hành động.",
-        "Thành công chỉ đến khi bạn có được một vị trí quyền lực và chức danh cao trong tổ chức."
+        "Thành công chỉ đến khi bạn có được một vị trí quyền lực và chức danh cao trong tổ chức.",
+        "Nên lựa chọn con đường an toàn, tránh né mọi xung đột và rủi ro để bảo toàn vị thế hiện tại."
       ],
       "correctIndex": 0,
       "explanation": "Thông điệp xuyên suốt của 'Dấu ấn của bạn' là sự thức tỉnh: mỗi cá nhân đều có tiềm năng ngoại hạng để tạo nên sự khác biệt khi từ bỏ sự thỏa hiệp và sống hết mình."
@@ -20,10 +20,10 @@
       "id": "q2",
       "question": "Khi bàn về 'Dấu ấn của bạn', tư tưởng 'tôi đọc được một câu của George Clooney: “Bạn chỉ có một thời ngắn ngủi trong đờ...' muốn cảnh tỉnh người đọc về điều gì?",
       "options": [
-        "Chỉ những người sinh ra với năng khiếu thiên bẩm mới có thể tạo ra thành tựu lớn.",
+        "Nên tìm mọi cách để làm hài lòng số đông dù phải từ bỏ bản sắc riêng.",
         "Việc đánh giá thấp bản thân và trì hoãn ước mơ sẽ khiến con người phải trả cái giá rất đắt của sự tiếc nuối khi nhìn lại cuộc đời.",
-        "Kỷ luật cá nhân là gánh nặng không cần thiết đối với người làm công việc sáng tạo.",
-        "Nên tìm mọi cách để làm hài lòng số đông dù phải từ bỏ bản sắc riêng."
+        "Chỉ những người sinh ra với năng khiếu thiên bẩm mới có thể tạo ra thành tựu lớn.",
+        "Kỷ luật cá nhân là gánh nặng không cần thiết đối với người làm công việc sáng tạo."
       ],
       "correctIndex": 1,
       "explanation": "Tác giả nhấn mạnh nỗi đau của sự hối tiếc luôn lớn hơn gấp bội cái giá của sự kỷ luật và lòng can đảm vượt qua thử thách."
@@ -32,12 +32,12 @@
       "id": "q3",
       "question": "Một nhân viên muốn ứng dụng trực tiếp bài học 'Dấu ấn của bạn' vào môi trường làm việc hàng ngày nên chọn cách ứng xử nào?",
       "options": [
-        "Đổ lỗi cho nguồn lực thiếu thốn mỗi khi dự án gặp trở ngại.",
-        "Chỉ hoàn thành đúng định mức tối thiểu để không bị cấp trên phê bình.",
         "Chờ đợi khi nào được thăng chức quản lý mới bắt đầu thể hiện tinh thần trách nhiệm.",
-        "Tự đặt ra chuẩn mực chất lượng vượt trên mong đợi, chủ động giải quyết vấn đề và lan tỏa năng lượng tích cực cho đồng nghiệp."
+        "Tự đặt ra chuẩn mực chất lượng vượt trên mong đợi, chủ động giải quyết vấn đề và lan tỏa năng lượng tích cực cho đồng nghiệp.",
+        "Đổ lỗi cho nguồn lực thiếu thốn mỗi khi dự án gặp trở ngại.",
+        "Chỉ hoàn thành đúng định mức tối thiểu để không bị cấp trên phê bình."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Tinh thần 'Lãnh đạo không chức danh': Thể hiện sự vượt trội trong bất kỳ vị trí nào bạn đang đảm nhiệm bằng chính thái độ và chất lượng công việc đỉnh cao."
     },
     {
@@ -68,12 +68,12 @@
       "id": "q6",
       "question": "Nghịch lý lớn nhất được chỉ ra trong chương '98. Dấu ấn của bạn' là gì?",
       "options": [
+        "Càng đọc nhiều sách thì con người càng trở nên lười biếng hơn.",
         "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ.",
         "Làm việc càng ít thì chất lượng công việc lại càng cao.",
-        "Càng đọc nhiều sách thì con người càng trở nên lười biếng hơn.",
         "Những người nổi tiếng nhất là những người không bao giờ phải chịu áp lực."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Sự trưởng thành chỉ xảy ra ở ranh giới của sự khó chịu; nếu mọi việc đều quá dễ dàng và êm đềm, bạn đang dậm chân tại chỗ."
     },
     {
@@ -93,11 +93,11 @@
       "question": "Khái niệm 'Lãnh đạo' theo tinh thần của Sharma trong 'Dấu ấn của bạn' có điểm gì khác biệt so với quan niệm truyền thống?",
       "options": [
         "Lãnh đạo là quyền sinh quyền sát và ra lệnh cho cấp dưới.",
-        "Lãnh đạo là năng lực tự dẫn dắt bản thân, truyền cảm hứng qua hành động gương mẫu và phụng sự người khác dù bạn ở bất kỳ cấp bậc nào.",
         "Lãnh đạo là người không bao giờ cần phải trực tiếp giải quyết vấn đề.",
-        "Lãnh đạo là người có văn phòng đẹp nhất và thu nhập cao nhất trong công ty."
+        "Lãnh đạo là người có văn phòng đẹp nhất và thu nhập cao nhất trong công ty.",
+        "Lãnh đạo là năng lực tự dẫn dắt bản thân, truyền cảm hứng qua hành động gương mẫu và phụng sự người khác dù bạn ở bất kỳ cấp bậc nào."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Lãnh đạo không phải là chức danh ghi trên danh thiếp, mà là cách bạn tư duy, cách bạn tương tác với con người và tiêu chuẩn xuất sắc bạn duy trì mỗi ngày."
     },
     {
@@ -140,24 +140,24 @@
       "id": "q12",
       "question": "Dấu hiệu rõ nhất cho thấy một người đang rơi vào 'Tâm thế nạn nhân' khi đối mặt với thử thách trong bài học này là gì?",
       "options": [
-        "Họ bình tĩnh phân tích nguyên nhân gốc rễ của sự cố.",
-        "Họ liên tục viện cớ: 'Tại sếp, tại kinh tế, tại thời tiết...' và chờ đợi người khác cứu giúp.",
+        "Họ đọc sách và tìm người cố vấn để nâng cao kỹ năng.",
         "Họ tìm kiếm giải pháp thay thế và tự nhận trách nhiệm về phần việc của mình.",
-        "Họ đọc sách và tìm người cố vấn để nâng cao kỹ năng."
+        "Họ liên tục viện cớ: 'Tại sếp, tại kinh tế, tại thời tiết...' và chờ đợi người khác cứu giúp.",
+        "Họ bình tĩnh phân tích nguyên nhân gốc rễ của sự cố."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Bào chữa và đổ lỗi là phản xạ của tâm lý nạn nhân; người chiến thắng luôn tự hỏi: 'Tôi có thể làm gì để cải thiện tình hình ngay bây giờ?'."
     },
     {
       "id": "q13",
       "question": "Theo triết lý chung của cuốn sách và chương 'Dấu ấn của bạn', thước đo cuối cùng của một cuộc đời thành công rực rỡ là gì?",
       "options": [
-        "Mức độ bạn tránh né được mọi va chạm và thử thách trong đời.",
-        "Số lượng cuộc họp và email bạn đã xử lý trong sự nghiệp.",
         "Mức độ ảnh hưởng tích cực bạn để lại cho cuộc sống của những người xung quanh và di sản ý nghĩa bạn đóng góp cho cộng đồng.",
-        "Số lượng tài sản ròng và danh mục bất động sản tích lũy được."
+        "Số lượng cuộc họp và email bạn đã xử lý trong sự nghiệp.",
+        "Số lượng tài sản ròng và danh mục bất động sản tích lũy được.",
+        "Mức độ bạn tránh né được mọi va chạm và thử thách trong đời."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Cuối cuộc đời, điều đọng lại không phải là bạn đã nhận được bao nhiêu, mà là bạn đã trở thành con người như thế nào và trao đi được những giá trị gì cho thế giới."
     },
     {
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Câu hỏi sâu sắc nhất mà chương '98. Dấu ấn của bạn' để lại trong tâm trí người đọc để tự soi rọi bản thân là gì?",
       "options": [
+        "Làm sao để tìm được công việc nhàn hạ nhất mà vẫn nhận lương cao?",
         "Người khác nghĩ gì về ngoại hình và trang phục của tôi hôm nay?",
         "Nếu hôm nay là ngày duy nhất tôi có thể cống hiến hết mình, tôi có đang sống xứng đáng với tiềm năng vĩ đại mà tôi được ban tặng hay không?",
-        "Làm sao để tìm được công việc nhàn hạ nhất mà vẫn nhận lương cao?",
         "Tôi có thể trì hoãn việc khó này đến tuần sau được không?"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Đời ngắn đừng ngủ dài: Hãy sống mỗi ngày như một tác phẩm nghệ thuật, không thỏa hiệp với sự tầm thường và luôn nỗ lực đạt tới sự xuất chúng."
     }
   ]

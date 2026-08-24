@@ -20,12 +20,12 @@
       "id": "q2",
       "question": "Mô hình 'Nhóm Mastermind' (Bộ não ưu việt) theo định nghĩa của Napoleon Hill và Keith Ferrazzi hoạt động dựa trên nguyên lý nào?",
       "options": [
-        "Là một cuộc thi kiểm tra chỉ số IQ định kỳ hàng tháng giữa các thành viên trong nhóm.",
         "Khi hai hay nhiều bộ óc cùng hòa hợp, cam kết và hướng về một mục tiêu chung, họ sẽ tạo ra một 'bộ não thứ ba' vô hình sở hữu trí tuệ và nguồn lực vượt trội hơn hẳn tổng các cá nhân cộng lại.",
         "Là việc phẫu thuật ghép nối các tế bào thần kinh não bộ giữa những người thông minh.",
+        "Là một cuộc thi kiểm tra chỉ số IQ định kỳ hàng tháng giữa các thành viên trong nhóm.",
         "Là việc bắt buộc tất cả các thành viên phải suy nghĩ và hành động giống hệt nhau."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sức mạnh của sự cộng hưởng trí tuệ và cam kết trách nhiệm tương hỗ biến nhóm Mastermind thành bệ phóng vĩ đại đưa mọi thành viên chạm tới thành công phi thường."
     },
     {
@@ -57,9 +57,9 @@
       "question": "Yếu tố 'Cam kết trách nhiệm tương hỗ' (Peer Accountability) trong nhóm Mastermind mang lại sức mạnh đột phá gì?",
       "options": [
         "Ngăn chặn sự trì hoãn và thói quen bào chữa; áp lực tích cực từ sự kỳ vọng của những người bạn cùng tiến thôi thúc bạn phải hoàn thành mục tiêu đúng hạn.",
-        "Giúp các thành viên có cớ để đổ lỗi cho nhau khi gặp thất bại.",
         "Buộc các thành viên phải nộp phạt tiền mặt nếu không đạt được doanh số kinh doanh.",
-        "Cho phép các thành viên có quyền sa thải lẫn nhau ra khỏi công ty."
+        "Cho phép các thành viên có quyền sa thải lẫn nhau ra khỏi công ty.",
+        "Giúp các thành viên có cớ để đổ lỗi cho nhau khi gặp thất bại."
       ],
       "correctIndex": 0,
       "explanation": "Biết rằng tuần sau mình phải báo cáo kết quả trước những người bạn tôn trọng nhất là nguồn động lực mạnh mẽ nhất tiêu diệt sự lười biếng và trì hoãn."
@@ -68,12 +68,12 @@
       "id": "q6",
       "question": "Điều kiện tiên quyết số một để một nhóm Mastermind có thể tồn tại và phát triển bền vững qua nhiều năm là gì?",
       "options": [
-        "Việc thuê một luật sư chuyên nghiệp giám sát tất cả các cuộc họp định kỳ.",
-        "Việc ký hợp đồng chia sẻ toàn bộ lợi nhuận kinh doanh của tất cả các thành viên.",
         "Việc tất cả các thành viên phải đóng học phí hàng tháng cho người sáng lập nhóm.",
-        "Sự bảo mật thông tin tuyệt đối (Confidentiality) và sự tin cậy không phán xét, nơi mọi người dám bộc bạch những khó khăn sâu kín nhất mà không sợ bị lộ ra ngoài."
+        "Sự bảo mật thông tin tuyệt đối (Confidentiality) và sự tin cậy không phán xét, nơi mọi người dám bộc bạch những khó khăn sâu kín nhất mà không sợ bị lộ ra ngoài.",
+        "Việc thuê một luật sư chuyên nghiệp giám sát tất cả các cuộc họp định kỳ.",
+        "Việc ký hợp đồng chia sẻ toàn bộ lợi nhuận kinh doanh của tất cả các thành viên."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sự an toàn tâm lý và tính bảo mật là mảnh đất nuôi dưỡng sự chân thực; không có bảo mật, nhóm sẽ nhanh chóng biến thành những buổi xã giao sáo rỗng."
     },
     {
@@ -81,9 +81,9 @@
       "question": "Làm thế nào để lựa chọn đúng những thành viên chất lượng khi bạn muốn thành lập một nhóm Mastermind của riêng mình?",
       "options": [
         "Tìm kiếm những người có tinh thần cho đi hào phóng, có tính kỷ luật cao, luôn khao khát học hỏi và có thái độ sống tích cực, lạc quan trước nghịch cảnh.",
+        "Chọn những người giàu có nhất trong thành phố bất kể nhân cách của họ ra sao.",
         "Chọn những người luôn đồng ý với tất cả các ý kiến cá nhân của bạn.",
-        "Chọn ngẫu nhiên những người lạ trên các diễn đàn mạng xã hội.",
-        "Chọn những người giàu có nhất trong thành phố bất kể nhân cách của họ ra sao."
+        "Chọn ngẫu nhiên những người lạ trên các diễn đàn mạng xã hội."
       ],
       "correctIndex": 0,
       "explanation": "Nhân cách và tinh thần phụng sự quan trọng hơn danh tiếng; một hạt táo sâu có thể làm hỏng cả giỏ hoa quả, lựa chọn thành viên đòi hỏi sự cẩn trọng tối đa."
@@ -117,9 +117,9 @@
       "question": "Điều gì là kẻ thù nguy hiểm nhất có thể phá hủy một nhóm Mastermind từ bên trong?",
       "options": [
         "Sự xuất hiện của thói vị kỷ, tính toán lợi ích cá nhân, sự thiếu cam kết tham gia và việc vi phạm nguyên tắc bảo mật thông tin nội bộ.",
-        "Việc các thành viên đọc những cuốn sách khác nhau vào cuối tuần.",
         "Việc các thành viên có mức thu nhập tài chính chênh lệch nhau.",
-        "Việc thay đổi địa điểm họp từ quán cà phê này sang quán cà phê khác."
+        "Việc thay đổi địa điểm họp từ quán cà phê này sang quán cà phê khác.",
+        "Việc các thành viên đọc những cuốn sách khác nhau vào cuối tuần."
       ],
       "correctIndex": 0,
       "explanation": "Sự toan tính và thiếu trung thực sẽ giết chết sự an toàn tâm lý; loại bỏ ngay những mầm mống tiêu cực là cách duy nhất để bảo vệ nhóm."
@@ -128,12 +128,12 @@
       "id": "q11",
       "question": "Chiến lược 'Chia sẻ mạng lưới' (Network Cross-pollination) giữa các thành viên trong nhóm Mastermind diễn ra như thế nào?",
       "options": [
-        "Tất cả các thành viên phải nộp lại điện thoại cho trưởng nhóm quản lý danh bạ.",
-        "Thu phí phần trăm hoa hồng đối với mỗi lời giới thiệu trong nội bộ nhóm.",
+        "Cấm các thành viên không được giới thiệu người quen cho nhau.",
         "Mỗi thành viên hào phóng mở rộng toàn bộ danh bạ uy tín của mình để giúp các thành viên khác tiếp cận những đối tác, khách hàng và cơ hội mà họ đang cần.",
-        "Cấm các thành viên không được giới thiệu người quen cho nhau."
+        "Thu phí phần trăm hoa hồng đối với mỗi lời giới thiệu trong nội bộ nhóm.",
+        "Tất cả các thành viên phải nộp lại điện thoại cho trưởng nhóm quản lý danh bạ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Hợp nhất các mạng lưới: khi 6 người cùng mở danh bạ cho nhau, sức mạnh kết nối của mỗi cá nhân sẽ được nhân lên gấp sáu lần ngay lập tức."
     },
     {
@@ -152,24 +152,24 @@
       "id": "q13",
       "question": "Một người trẻ mới bắt đầu khởi nghiệp nên tìm kiếm những người bạn đồng hành cho nhóm Mastermind ở đâu?",
       "options": [
+        "Từ những người bạn học xuất sắc, những đồng nghiệp cùng chí hướng tại các hội thảo chuyên môn hoặc những người tham gia tích cực trong các dự án thiện nguyện.",
         "Từ những người chỉ thích chơi trò chơi điện tử thâu đêm suốt sáng.",
-        "Chỉ tìm kiếm những người đã nghỉ hưu trên 70 tuổi.",
         "Bằng cách đăng tin tuyển dụng trả lương cao trên các trang web tìm việc làm.",
-        "Từ những người bạn học xuất sắc, những đồng nghiệp cùng chí hướng tại các hội thảo chuyên môn hoặc những người tham gia tích cực trong các dự án thiện nguyện."
+        "Chỉ tìm kiếm những người đã nghỉ hưu trên 70 tuổi."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Tìm kiếm những hạt giống đồng điệu về khát vọng và nhân cách trong những môi trường rèn luyện thực tế là nền móng để xây dựng nhóm cùng tiến."
     },
     {
       "id": "q14",
       "question": "Nghi thức 'Tổng kết năm và Đặt mục tiêu năm mới' (Annual Retreat) của nhóm Mastermind mang lại giá trị gì?",
       "options": [
-        "Là kỳ nghỉ dưỡng bắt buộc phải có sự chứng kiến của chính quyền địa phương.",
-        "Tổ chức một cuộc thi tranh luận căng thẳng để tìm ra người chiến thắng duy nhất.",
         "Dành trọn 1-2 ngày tĩnh tâm rời xa thành phố để cùng nhau nhìn lại chặng đường đã qua, tôn vinh những thành tựu và tái thiết lập tầm nhìn đột phá cho năm tiếp theo.",
-        "Để thanh lý toàn bộ tài sản chung của nhóm và chia tiền mặt."
+        "Tổ chức một cuộc thi tranh luận căng thẳng để tìm ra người chiến thắng duy nhất.",
+        "Để thanh lý toàn bộ tài sản chung của nhóm và chia tiền mặt.",
+        "Là kỳ nghỉ dưỡng bắt buộc phải có sự chứng kiến của chính quyền địa phương."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Khoảng lặng tái tạo chiến lược giúp làm mới nguồn năng lượng, làm sâu sắc thêm tình bằng hữu và mở rộng chân trời khát vọng cho toàn bộ các thành viên."
     },
     {

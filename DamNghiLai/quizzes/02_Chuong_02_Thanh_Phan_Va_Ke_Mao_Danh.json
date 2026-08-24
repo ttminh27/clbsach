@@ -32,22 +32,22 @@
       "id": "q3",
       "question": "Khái niệm 'Điểm ngọt ngào của Sự khiêm nhường tự tin' (Confident Humility) được Adam Grant định nghĩa như thế nào?",
       "options": [
-        "Hoàn toàn tự tin vào NĂNG LỰC HỌC HỎI và thích ứng của bản thân trong tương lai, đồng thời giữ sự KHIÊM NHƯỜNG thừa nhận những thiếu sót và sai sót của bản thân ở hiện tại.",
-        "Sự kiêu ngạo tự phụ nhưng giả vờ nói những lời khiêm tốn xã giao trước mặt đám đông.",
         "Sự tự ti nhút nhát và luôn luôn từ chối mọi cơ hội thăng tiến vì sợ thất bại.",
-        "Trạng thái tâm lý không quan tâm đến bất kỳ kết quả nào trong công việc."
+        "Sự kiêu ngạo tự phụ nhưng giả vờ nói những lời khiêm tốn xã giao trước mặt đám đông.",
+        "Trạng thái tâm lý không quan tâm đến bất kỳ kết quả nào trong công việc.",
+        "Hoàn toàn tự tin vào NĂNG LỰC HỌC HỎI và thích ứng của bản thân trong tương lai, đồng thời giữ sự KHIÊM NHƯỜNG thừa nhận những thiếu sót và sai sót của bản thân ở hiện tại."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Khiêm nhường tự tin là chiếc cầu nối hoàn hảo: Bạn tin mình có thể giải quyết được vấn đề (Tự tin) nhưng thừa nhận phương pháp hiện tại có thể chưa tối ưu và cần học hỏi thêm (Khiêm nhường)."
     },
     {
       "id": "q4",
       "question": "Tại sao một liều lượng 'Hội chứng kẻ mạo danh vừa phải' lại có thể trở thành một lợi thế thúc đẩy sự nghiệp phát triển vượt bậc?",
       "options": [
+        "Nó làm tăng khả năng ghi nhớ ngắn hạn của não bộ lên gấp 5 lần.",
         "Nó giúp bạn tránh được mọi trách nhiệm pháp lý khi dự án gặp sự cố.",
-        "Nó giúp bạn được cấp trên thương hại và giao những nhiệm vụ nhẹ nhàng nhất.",
         "Nó kích hoạt động lực làm việc chăm chỉ hơn, thúc đẩy thói quen đặt câu hỏi, lắng nghe người khác nhiều hơn và liên tục tái tư duy để không ngừng tiến bộ.",
-        "Nó làm tăng khả năng ghi nhớ ngắn hạn của não bộ lên gấp 5 lần."
+        "Nó giúp bạn được cấp trên thương hại và giao những nhiệm vụ nhẹ nhàng nhất."
       ],
       "correctIndex": 2,
       "explanation": "Cảm giác 'mình chưa đủ giỏi' khiến bạn từ bỏ sự tự mãn, chuẩn bị kỹ lưỡng hơn, tìm kiếm lời khuyên từ chuyên gia và không bao giờ ngừng hoàn thiện kỹ năng."
@@ -56,12 +56,12 @@
       "id": "q5",
       "question": "Câu chuyện về nữ tổng thống trẻ tuổi của Iceland - Halla Tómasdóttir - minh họa cho bài học gì về sự tự tin?",
       "options": [
-        "Chỉ những người có xuất thân từ quân đội mới có đủ bản lĩnh lãnh đạo quốc gia.",
-        "Chiến dịch tranh cử tổng thống chỉ cần dựa vào sự may mắn và tiền bạc tài trợ.",
         "Phụ nữ không nên tham gia vào các hoạt động tranh cử tổng thống.",
-        "Dù ban đầu cảm thấy mình như một 'kẻ mạo danh' trong cuộc đua chính trị, sự khiêm nhường và lắng nghe chân thành của bà đã chinh phục cử tri, chứng minh lãnh đạo xuất sắc bắt đầu từ sự cầu thị."
+        "Dù ban đầu cảm thấy mình như một 'kẻ mạo danh' trong cuộc đua chính trị, sự khiêm nhường và lắng nghe chân thành của bà đã chinh phục cử tri, chứng minh lãnh đạo xuất sắc bắt đầu từ sự cầu thị.",
+        "Chỉ những người có xuất thân từ quân đội mới có đủ bản lĩnh lãnh đạo quốc gia.",
+        "Chiến dịch tranh cử tổng thống chỉ cần dựa vào sự may mắn và tiền bạc tài trợ."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Halla không giả vờ biết hết mọi câu trả lời; bà thừa nhận những gì mình chưa biết và mời gọi toàn dân cùng đối thoại tìm giải pháp, tạo nên niềm tin vững chắc."
     },
     {
@@ -105,9 +105,9 @@
       "question": "Làm thế nào để một người có thể thoát khỏi 'Đỉnh núi ngu ngốc' và tiến vào 'Dốc khai sáng'?",
       "options": [
         "Chủ động tìm kiếm các tình huống phản chứng phức tạp, trò chuyện với những chuyên gia thực thụ và đối diện với những câu hỏi hóc búa mà mình chưa có câu trả lời.",
-        "Ngừng đọc sách và tránh xa mọi cuộc thảo luận chuyên môn với đồng nghiệp.",
         "Chỉ làm việc với những người có trình độ chuyên môn thấp hơn mình.",
-        "Tự khẳng định trước gương rằng mình là người thông minh nhất thế giới mỗi sáng."
+        "Tự khẳng định trước gương rằng mình là người thông minh nhất thế giới mỗi sáng.",
+        "Ngừng đọc sách và tránh xa mọi cuộc thảo luận chuyên môn với đồng nghiệp."
       ],
       "correctIndex": 0,
       "explanation": "Sự dũng cảm nhảy xuống khỏi 'Đỉnh núi ngu ngốc' để bước vào thung lũng của sự hoài nghi lành mạnh là bước ngoặt quyết định của sự trưởng thành trí tuệ."
@@ -140,24 +140,24 @@
       "id": "q12",
       "question": "Trong các trò chơi đố vui kiến thức, hiện tượng 'Càng ít hiểu biết càng cá cược nhiều tiền' phản ánh điều gì?",
       "options": [
-        "Quy luật toán học về xác suất thống kê trong các trò chơi may rủi.",
-        "Người chơi có nguồn tài chính dồi dào không quan tâm đến việc mất tiền.",
         "Sự mù quáng của những người ở Đỉnh núi ngu ngốc: Họ không biết những gì họ không biết nên hoàn toàn tin chắc rằng linh cảm của mình là chân lý.",
-        "Sự hào phóng và tinh thần thể thao cao thượng của người chơi."
+        "Sự hào phóng và tinh thần thể thao cao thượng của người chơi.",
+        "Quy luật toán học về xác suất thống kê trong các trò chơi may rủi.",
+        "Người chơi có nguồn tài chính dồi dào không quan tâm đến việc mất tiền."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Sự thiếu hiểu biết sinh ra sự xác tín liều lĩnh; người có kiến thức sâu rộng ngược lại thường thận trọng hơn vì họ ý thức rõ các biến số và ngoại lệ phức tạp."
     },
     {
       "id": "q13",
       "question": "Lợi ích lớn nhất của việc 'Xem mình là một người học việc trọn đời' (Lifelong Apprentice) là gì?",
       "options": [
-        "Bạn sẽ được miễn giảm toàn bộ học phí tại tất cả các trường đại học quốc tế.",
-        "Bạn không bao giờ phải chịu trách nhiệm về kết quả công việc được giao.",
         "Bạn sẽ luôn được người khác nhường nhịn trong các cuộc tranh luận.",
-        "Bạn sẽ không bao giờ cảm thấy bị đe dọa bởi những thay đổi công nghệ hay ý kiến trái chiều; mỗi ngày là một cơ hội thú vị để nâng cấp bản thân."
+        "Bạn sẽ không bao giờ cảm thấy bị đe dọa bởi những thay đổi công nghệ hay ý kiến trái chiều; mỗi ngày là một cơ hội thú vị để nâng cấp bản thân.",
+        "Bạn sẽ được miễn giảm toàn bộ học phí tại tất cả các trường đại học quốc tế.",
+        "Bạn không bao giờ phải chịu trách nhiệm về kết quả công việc được giao."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Tâm thế người học việc giải phóng bạn khỏi áp lực phải luôn luôn hoàn hảo, biến toàn bộ cuộc đời thành một hành trình khám phá đầy hào hứng."
     },
     {

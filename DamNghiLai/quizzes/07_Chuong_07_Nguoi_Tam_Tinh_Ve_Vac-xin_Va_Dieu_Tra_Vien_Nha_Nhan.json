@@ -68,12 +68,12 @@
       "id": "q6",
       "question": "Câu hỏi thần kỳ nào thường được sử dụng trong Phỏng vấn tạo động lực để khơi dậy ngọn lửa thay đổi?",
       "options": [
-        "'Điều gì là quan trọng nhất đối với bạn trong cuộc sống hiện nay, và hành vi hiện tại đang giúp ích hay cản trở bạn đạt được điều đó như thế nào?'.",
-        "'Bạn có muốn nhận được một khoản tiền thưởng lớn nếu làm theo lời tôi không?'.",
         "'Tại sao bạn lại có thể ngu ngốc và cứng đầu đến mức như vậy?'.",
-        "'Bạn có biết rằng nếu không thay đổi bạn sẽ bị xã hội trừng phạt thích đáng không?'."
+        "'Bạn có biết rằng nếu không thay đổi bạn sẽ bị xã hội trừng phạt thích đáng không?'.",
+        "'Điều gì là quan trọng nhất đối với bạn trong cuộc sống hiện nay, và hành vi hiện tại đang giúp ích hay cản trở bạn đạt được điều đó như thế nào?'.",
+        "'Bạn có muốn nhận được một khoản tiền thưởng lớn nếu làm theo lời tôi không?'."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Câu hỏi này đặt hành vi sai lầm vào thế đối chiếu với mục tiêu sống cao đẹp của chính họ, tạo ra động lực nội tại mạnh mẽ thúc đẩy sự tái tư duy."
     },
     {
@@ -93,35 +93,35 @@
       "question": "Hiệu ứng 'Thôi thúc muốn sửa chữa sai sót của người khác' (The Righting Reflex) thường dẫn đến hậu quả thảm hại nào trong giao tiếp?",
       "options": [
         "Nó làm tăng huyết áp của người nói lên mức nguy hiểm.",
+        "Nó khiến cho người nghe lập tức làm theo 100% lời khuyên của bạn.",
         "Khi bạn nhảy vào chỉnh đốn và bảo người khác phải làm gì, họ sẽ tự động lùi lại, tìm kiếm mọi lý lẽ để biện hộ cho hành vi cũ và càng bám chặt vào cái sai hơn.",
-        "Nó giúp bạn trở thành chuyên gia tư vấn được trả thù lao cao nhất.",
-        "Nó khiến cho người nghe lập tức làm theo 100% lời khuyên của bạn."
+        "Nó giúp bạn trở thành chuyên gia tư vấn được trả thù lao cao nhất."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Càng ép buộc sửa sai, đối phương càng phản kháng; muốn người khác thay đổi, hãy ngừng bảo họ phải làm gì và bắt đầu lắng nghe họ nhiều hơn."
     },
     {
       "id": "q9",
       "question": "Trong trường hợp người đối thoại hoàn toàn chưa sẵn sàng thay đổi (giai đoạn tiền suy ngẫm), thái độ đúng đắn của người dẫn dắt là gì?",
       "options": [
-        "Mắng mỏ và cắt đứt quan hệ ngay lập tức vì họ là người vô vọng.",
-        "Nhờ công an địa phương can thiệp cưỡng chế thay đổi hành vi.",
         "Ép buộc họ phải ký giấy cam kết thay đổi trong vòng 24 giờ tới.",
-        "Tôn trọng sự chưa sẵn sàng của họ, gieo một hạt giống câu hỏi mở để họ tự chiêm nghiệm và giữ cho cánh cửa đối thoại luôn rộng mở trong tương lai."
+        "Nhờ công an địa phương can thiệp cưỡng chế thay đổi hành vi.",
+        "Tôn trọng sự chưa sẵn sàng của họ, gieo một hạt giống câu hỏi mở để họ tự chiêm nghiệm và giữ cho cánh cửa đối thoại luôn rộng mở trong tương lai.",
+        "Mắng mỏ và cắt đứt quan hệ ngay lập tức vì họ là người vô vọng."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Sự chuyển hóa cần thời gian chín muồi; một câu hỏi gieo đúng lúc sẽ âm thầm nảy mầm trong tâm trí họ cho đến một ngày họ tự mình quay lại tìm câu trả lời."
     },
     {
       "id": "q10",
       "question": "Tại sao việc 'Tôn trọng quyền tự quyết' (Autonomy Support) lại là bí mật tối thượng giúp con người từ bỏ các thói quen nghiện ngập độc hại?",
       "options": [
-        "Vì quyền tự quyết giúp họ không phải chi trả tiền viện phí điều trị.",
-        "Vì luật pháp quốc tế nghiêm cấm việc điều trị cai nghiện bắt buộc.",
         "Khi con người cảm nhận rằng quyết định thay đổi là do CHÍNH HỌ LỰA CHỌN tự do chứ không phải do ai ép buộc, họ sẽ có trách nhiệm và cam kết kiên trì đến cùng.",
-        "Vì người nghiện rượu luôn có khả năng tự chữa lành mà không cần bác sĩ."
+        "Vì luật pháp quốc tế nghiêm cấm việc điều trị cai nghiện bắt buộc.",
+        "Vì người nghiện rượu luôn có khả năng tự chữa lành mà không cần bác sĩ.",
+        "Vì quyền tự quyết giúp họ không phải chi trả tiền viện phí điều trị."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Động lực nội sinh (Intrinsic Motivation) là động lực bền vững duy nhất; con người chỉ thực sự thay đổi khi họ muốn thay đổi vì chính cuộc đời của họ."
     },
     {
@@ -129,11 +129,11 @@
       "question": "Bài học từ việc áp dụng Phỏng vấn tạo động lực trong quản trị doanh nghiệp và lãnh đạo đội ngũ là gì?",
       "options": [
         "Lãnh đạo không cần phải tham gia vào bất kỳ cuộc họp hay đối thoại nào với nhân viên.",
+        "Nhà lãnh đạo nên để nhân viên tự do làm bất cứ điều gì họ thích mà không cần chỉ tiêu.",
         "Áp dụng hình phạt trừ lương đối với những nhân viên không chịu lắng nghe sếp.",
-        "Thay vì ra lệnh áp đặt chỉ tiêu từ trên xuống, nhà lãnh đạo xuất sắc đặt câu hỏi khơi gợi để nhân viên tự mình nhìn thấy vấn đề và tự đề xuất giải pháp đột phá.",
-        "Nhà lãnh đạo nên để nhân viên tự do làm bất cứ điều gì họ thích mà không cần chỉ tiêu."
+        "Thay vì ra lệnh áp đặt chỉ tiêu từ trên xuống, nhà lãnh đạo xuất sắc đặt câu hỏi khơi gợi để nhân viên tự mình nhìn thấy vấn đề và tự đề xuất giải pháp đột phá."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Nhân viên sẽ cam kết 100% với những kế hoạch mà họ tham gia kiến tạo; lãnh đạo bằng câu hỏi là nghệ thuật giải phóng tiềm năng sáng tạo của tập thể."
     },
     {
@@ -141,21 +141,21 @@
       "question": "Kỹ thuật 'Tóm tắt hai mặt mâu thuẫn' (Summarizing Ambivalence) được thực hiện như thế nào trong đối thoại?",
       "options": [
         "Yêu cầu đối phương phải viết bản kiểm điểm tự phê bình dài 10 trang giấy.",
-        "Ghi âm lại cuộc nói chuyện và phát lại trên loa phóng thanh của công ty.",
         "'Một mặt bạn cảm thấy rất thoải mái với thói quen cũ, nhưng mặt khác bạn cũng rất lo lắng về sức khỏe tương lai của con mình...'; giúp họ tự nhìn rõ sự giằng xé nội tâm.",
-        "Chỉ nhắc lại những điểm tiêu cực và bỏ qua toàn bộ những điểm tích cực của đối phương."
+        "Chỉ nhắc lại những điểm tiêu cực và bỏ qua toàn bộ những điểm tích cực của đối phương.",
+        "Ghi âm lại cuộc nói chuyện và phát lại trên loa phóng thanh của công ty."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Phản ánh trung thực sự giằng xé nội tâm mà không phán xét giúp đối phương tự nhận ra rằng họ không thể tiếp tục đứng mãi ở ngã ba đường mâu thuẫn này nữa."
     },
     {
       "id": "q13",
       "question": "Tại sao một người mẹ do dự vắc-xin sau khi được bác sĩ Arnaud Gagneur lắng nghe lại rơi nước mắt và tự nguyện đồng ý tiêm chủng cho con?",
       "options": [
+        "Vì bệnh viện thông báo sẽ tặng quà miễn phí cho những đứa trẻ tiêm chủng sớm.",
         "Vì bà sợ bị cảnh sát bắt giữ nếu tiếp tục từ chối tiêm vắc-xin cho con.",
-        "Vì bà đã hoàn toàn mất trí nhớ sau một ca phẫu thuật gây mê.",
         "Vì đây là lần đầu tiên có một bác sĩ thực sự tôn trọng, lắng nghe nỗi sợ hãi của bà mà không phán xét bà là người mẹ tồi tệ, giúp bà cởi bỏ gánh nặng phòng vệ.",
-        "Vì bệnh viện thông báo sẽ tặng quà miễn phí cho những đứa trẻ tiêm chủng sớm."
+        "Vì bà đã hoàn toàn mất trí nhớ sau một ca phẫu thuật gây mê."
       ],
       "correctIndex": 2,
       "explanation": "Sự thấu cảm chữa lành sự sợ hãi; khi người mẹ cảm thấy tình yêu thương của mình dành cho con được công nhận, bà sẽ mở lòng đón nhận những kiến thức khoa học bảo vệ con."
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Làm thế nào để áp dụng Phỏng vấn tạo động lực để giúp một người bạn thân từ bỏ thói quen trì hoãn?",
       "options": [
-        "Hỏi họ về ước mơ lớn nhất của họ, nhẹ nhàng hỏi thói quen trì hoãn đang cản trở ước mơ đó ra sao, và hỏi họ muốn thực hiện bước đi nhỏ bé nào đầu tiên ngay hôm nay.",
+        "Liên tục mắng mỏ và nhắc nhở họ về sự lười biếng mỗi ngày.",
         "Làm thay toàn bộ công việc cho họ để họ có thời gian nghỉ ngơi.",
-        "Cắt đứt tình bạn cho đến khi họ trở thành một người chăm chỉ.",
-        "Liên tục mắng mỏ và nhắc nhở họ về sự lười biếng mỗi ngày."
+        "Hỏi họ về ước mơ lớn nhất của họ, nhẹ nhàng hỏi thói quen trì hoãn đang cản trở ước mơ đó ra sao, và hỏi họ muốn thực hiện bước đi nhỏ bé nào đầu tiên ngay hôm nay.",
+        "Cắt đứt tình bạn cho đến khi họ trở thành một người chăm chỉ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Đừng làm cảnh sát đạo đức; hãy là chiếc gương soi dịu dàng giúp bạn của bạn tự nhìn thấy khoảng cách giữa con người hiện tại và con người vĩ đại mà họ khao khát trở thành."
     },
     {

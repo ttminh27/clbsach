@@ -68,12 +68,12 @@
       "id": "q6",
       "question": "Thông điệp về 'Sự khiêm nhường trước biển tri thức mênh mông' được tác giả gửi gắm trong những dòng cuối cùng là gì?",
       "options": [
-        "Cuốn sách đã giải quyết toàn bộ mọi câu hỏi của nhân loại và không cần nghiên cứu thêm.",
         "Cuốn sách này không phải là lời tuyên bố cuối cùng về chân lý; nó chỉ là một lời mời gọi độc giả cùng nhau tiếp tục cuộc hành trình tái tư duy và khám phá không bao giờ kết thúc.",
+        "Tác giả sẽ không bao giờ xuất bản thêm bất kỳ cuốn sách nào khác trong tương lai.",
         "Độc giả phải tuân theo 100% mọi chỉ dẫn trong sách mà không được phép nghi ngờ.",
-        "Tác giả sẽ không bao giờ xuất bản thêm bất kỳ cuốn sách nào khác trong tương lai."
+        "Cuốn sách đã giải quyết toàn bộ mọi câu hỏi của nhân loại và không cần nghiên cứu thêm."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Một cuốn sách về tái tư duy đích thực phải tự mình thể hiện sự tái tư duy: Nó không đóng lại cánh cửa của giáo điều mà mở toang cánh cửa dẫn vào những cuộc thám hiểm nhận thức mới."
     },
     {
@@ -104,9 +104,9 @@
       "id": "q9",
       "question": "Mối liên kết giữa 'Lòng biết ơn chân thành' và 'Tâm thế sẵn sàng tái tư duy' là gì?",
       "options": [
-        "Lòng biết ơn chỉ xuất hiện khi bạn đã đạt được sự giàu có về mặt vật chất.",
         "Lòng biết ơn làm cho con người trở nên tự ti và phụ thuộc vào ý kiến của người khác.",
         "Hai trạng thái tâm lý này hoàn toàn tách biệt và không có sự liên quan nào.",
+        "Lòng biết ơn chỉ xuất hiện khi bạn đã đạt được sự giàu có về mặt vật chất.",
         "Người có lòng biết ơn luôn ý thức rằng mình còn nhiều điều phải học và luôn trân trọng những góc nhìn mới mà tha nhân mang lại cho cuộc đời mình."
       ],
       "correctIndex": 3,
@@ -116,24 +116,24 @@
       "id": "q10",
       "question": "Lời tri ân sâu sắc nhất mà Adam Grant muốn gửi đến người cầm cuốn sách trên tay (ĐỘC GIẢ) là gì?",
       "options": [
+        "Cảm ơn bạn đã chi trả tiền mua sách giúp tác giả có thêm thu nhập cá nhân.",
         "Cảm ơn bạn đã dũng cảm mở rộng tâm trí, sẵn sàng chất vấn những niềm tin quen thuộc của mình và tham gia vào cộng đồng những người dám nghĩ lại để làm cho thế giới tốt đẹp hơn.",
         "Cảm ơn bạn đã giới thiệu cuốn sách cho ít nhất 10 người bạn khác mua.",
-        "Cảm ơn bạn đã chi trả tiền mua sách giúp tác giả có thêm thu nhập cá nhân.",
         "Cảm ơn bạn đã đồng ý 100% với tất cả các quan điểm được viết trong cuốn sách."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Độc giả là người đồng hành thiêng liêng; chính hành động dũng cảm tái tư duy và lan tỏa tư duy khoa học của bạn vào đời sống thực tế mới là điều hoàn tất sứ mệnh của cuốn sách."
     },
     {
       "id": "q11",
       "question": "Sự xuất hiện của hàng trăm tài liệu tham khảo khoa học trong phần phụ lục chứng minh điều gì về phương pháp làm việc của tác giả?",
       "options": [
-        "Đây là một yêu cầu mang tính hình thức của nhà xuất bản để tăng độ dày cuốn sách.",
-        "Các tài liệu tham khảo được sao chép ngẫu nhiên từ mạng internet mà không qua chọn lọc.",
         "Tác giả muốn phô trương sự uyên bác về mặt học thuật để lấy lòng giới phê bình.",
-        "Tính nghiêm cẩn, trung thực học thuật và tinh thần phụng sự sự thật: Mọi luận điểm đưa ra đều được xây dựng trên nền tảng của các bằng chứng thực nghiệm có đối chứng rõ ràng."
+        "Các tài liệu tham khảo được sao chép ngẫu nhiên từ mạng internet mà không qua chọn lọc.",
+        "Tính nghiêm cẩn, trung thực học thuật và tinh thần phụng sự sự thật: Mọi luận điểm đưa ra đều được xây dựng trên nền tảng của các bằng chứng thực nghiệm có đối chứng rõ ràng.",
+        "Đây là một yêu cầu mang tính hình thức của nhà xuất bản để tăng độ dày cuốn sách."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Tác phẩm không phải là tập hợp các quan điểm cá nhân cảm tính; đó là một công trình khoa học tâm lý xã hội đồ sộ được đúc kết từ hàng ngàn thí nghiệm thực chứng trên khắp thế giới."
     },
     {
@@ -152,12 +152,12 @@
       "id": "q13",
       "question": "Bài học về 'Sự hào phóng trong việc trích dẫn và tôn vinh công lao của người khác' trong phần lời cảm ơn mang thông điệp gì?",
       "options": [
+        "Người có nội lực vững vàng không bao giờ sợ người khác lấn át hào quang của mình; họ luôn hân hoan tôn vinh những người đã đóng góp vào sự thành công chung.",
         "Tác giả muốn chia sẻ trách nhiệm nếu cuốn sách nhận về các đánh giá tiêu cực.",
-        "Trích dẫn nhiều tên tuổi nổi tiếng là cách tốt nhất để gây ấn tượng với độc giả.",
         "Đây là một quy định bắt buộc trong luật sở hữu trí tuệ quốc tế.",
-        "Người có nội lực vững vàng không bao giờ sợ người khác lấn át hào quang của mình; họ luôn hân hoan tôn vinh những người đã đóng góp vào sự thành công chung."
+        "Trích dẫn nhiều tên tuổi nổi tiếng là cách tốt nhất để gây ấn tượng với độc giả."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Sự hào phóng trong việc ghi nhận công lao là dấu chỉ của một bậc đại trí; ngọn nến sáng rực rỡ nhất khi nó dùng ngọn lửa của mình để thắp sáng muôn ngàn ngọn nến xung quanh."
     },
     {

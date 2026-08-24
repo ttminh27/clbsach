@@ -20,12 +20,12 @@
       "id": "q2",
       "question": "Tại sao việc 'không duy trì liên lạc đều đặn' lại là nguyên nhân chính khiến 80% các mối quan hệ quý giá bị biến mất sau 2-3 năm?",
       "options": [
+        "Vì theo quy luật tâm lý tự nhiên 'Xa mặt cách lòng' (Out of sight, out of mind), con người sẽ dần lãng quên những ai không còn xuất hiện trong cuộc sống của họ.",
         "Vì số điện thoại của mọi người đều tự động thay đổi sau 2 năm.",
         "Vì mọi người đều chuyển sang sống ở các quốc gia khác sau 3 năm.",
-        "Vì theo quy luật tâm lý tự nhiên 'Xa mặt cách lòng' (Out of sight, out of mind), con người sẽ dần lãng quên những ai không còn xuất hiện trong cuộc sống của họ.",
         "Vì pháp luật quy định các mối quan hệ không liên lạc sau 2 năm sẽ bị hủy bỏ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Mối quan hệ giống như một khu vườn; nếu không tưới nước thường xuyên, cỏ dại của sự lãng quên sẽ nhanh chóng phủ kín."
     },
     {
@@ -68,24 +68,24 @@
       "id": "q6",
       "question": "Thời điểm nào trong ngày được Keith Ferrazzi tận dụng tối đa để thực hiện hàng chục lượt 'Pinging' mỗi ngày?",
       "options": [
-        "Trong lúc đang thuyết trình trước hội đồng quản trị công ty.",
+        "Thời gian di chuyển trên xe taxi, thời gian chờ đợi ở sân bay hoặc những khoảng trống 5-10 phút giữa các cuộc họp.",
         "Lúc 2 giờ sáng khi mọi người đang ngủ say.",
-        "Trong lúc đang làm bài thi kiểm tra chuyên môn.",
-        "Thời gian di chuyển trên xe taxi, thời gian chờ đợi ở sân bay hoặc những khoảng trống 5-10 phút giữa các cuộc họp."
+        "Trong lúc đang thuyết trình trước hội đồng quản trị công ty.",
+        "Trong lúc đang làm bài thi kiểm tra chuyên môn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Tận dụng các khoảng thời gian 'chết' trong ngày biến việc chăm sóc mạng lưới thành một phản xạ tự nhiên không tốn thêm quỹ thời gian làm việc."
     },
     {
       "id": "q7",
       "question": "Khái niệm 'Pinging hàng loạt có cá nhân hóa' (Personalized Mass Pinging) vào các dịp lễ tết được thực hiện như thế nào?",
       "options": [
-        "Gửi email tiếp thị bán hàng giảm giá nhân dịp năm mới.",
-        "Soạn một thông điệp chúc mừng ấm áp nhưng luôn chèn chính xác tên riêng và một chi tiết cá nhân độc nhất của người nhận trước khi bấm gửi.",
         "Gửi một tin nhắn chung chung không có tên người nhận cho 500 người cùng lúc.",
-        "Đăng một lời chúc lên trang cá nhân và yêu cầu tất cả mọi người tự vào đọc."
+        "Đăng một lời chúc lên trang cá nhân và yêu cầu tất cả mọi người tự vào đọc.",
+        "Gửi email tiếp thị bán hàng giảm giá nhân dịp năm mới.",
+        "Soạn một thông điệp chúc mừng ấm áp nhưng luôn chèn chính xác tên riêng và một chi tiết cá nhân độc nhất của người nhận trước khi bấm gửi."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Thêm tên riêng và một lời chúc đích danh biến bức thư đại trà thành một thông điệp chân thành được người nhận trân trọng."
     },
     {
@@ -152,12 +152,12 @@
       "id": "q13",
       "question": "Khi đối phương phản hồi lại tin nhắn Pinging của bạn bằng một câu chuyện dài về những khó khăn họ đang gặp, bạn nên làm gì?",
       "options": [
-        "Chuyển tiếp tin nhắn đó cho tất cả bạn bè khác cùng đọc.",
         "Khuyên họ nên tự mình giải quyết và đừng làm phiền người khác.",
-        "Lập tức gọi điện thoại hoặc hẹn gặp trực tiếp để lắng nghe, động viên và tìm cách hỗ trợ họ vượt qua giai đoạn khó khăn.",
-        "Lờ đi và không trả lời tin nhắn đó nữa vì sợ bị làm phiền."
+        "Chuyển tiếp tin nhắn đó cho tất cả bạn bè khác cùng đọc.",
+        "Lờ đi và không trả lời tin nhắn đó nữa vì sợ bị làm phiền.",
+        "Lập tức gọi điện thoại hoặc hẹn gặp trực tiếp để lắng nghe, động viên và tìm cách hỗ trợ họ vượt qua giai đoạn khó khăn."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Pinging đã mở ra cánh cửa tâm sự; đây chính là thời điểm vàng để bạn thể hiện vai trò của một người bạn đồng hành đích thực."
     },
     {
@@ -165,9 +165,9 @@
       "question": "Một người có 1.000 mối quan hệ trong danh bạ cần dành bao nhiêu thời gian mỗi ngày cho việc Pinging để duy trì mạng lưới?",
       "options": [
         "Chỉ cần khoảng 15-20 phút mỗi ngày (thực hiện 5-10 lượt ping ngắn) được chia nhỏ vào các khoảng thời gian rảnh rỗi.",
+        "Bắt buộc phải dành toàn bộ 8 tiếng làm việc mỗi ngày.",
         "Chỉ cần làm một lần duy nhất vào ngày 31 tháng 12 hàng năm.",
-        "Không cần dành thời gian vì công nghệ sẽ tự động làm hết mọi việc.",
-        "Bắt buộc phải dành toàn bộ 8 tiếng làm việc mỗi ngày."
+        "Không cần dành thời gian vì công nghệ sẽ tự động làm hết mọi việc."
       ],
       "correctIndex": 0,
       "explanation": "Tính kỷ luật và sự đều đặn quan trọng hơn cường độ; 15 phút mỗi ngày là đủ để giữ cho một mạng lưới 1.000 người luôn rực sáng."

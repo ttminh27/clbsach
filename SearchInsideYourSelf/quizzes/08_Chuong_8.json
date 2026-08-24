@@ -20,48 +20,48 @@
       "id": "q2",
       "question": "Khái niệm 'Lãnh đạo phục vụ' (Servant leadership) được Chade-Meng Tan mô tả như thế nào?",
       "options": [
-        "Nhà lãnh đạo không xem mình là ông chủ cai trị mà xem mình là người phụng sự: trao quyền, gỡ bỏ các rào cản và tạo điều kiện tối ưu nhất để đội ngũ tỏa sáng và phát triển tiềm năng cao nhất.",
-        "Lãnh đạo không cần chịu bất kỳ trách nhiệm nào về kết quả kinh doanh.",
         "Lãnh đạo phải phục vụ cơm nước cho các giám đốc cấp cao hơn.",
-        "Lãnh đạo phải làm công việc bồi bàn và dọn dẹp vệ sinh cho nhân viên."
+        "Lãnh đạo phải làm công việc bồi bàn và dọn dẹp vệ sinh cho nhân viên.",
+        "Nhà lãnh đạo không xem mình là ông chủ cai trị mà xem mình là người phụng sự: trao quyền, gỡ bỏ các rào cản và tạo điều kiện tối ưu nhất để đội ngũ tỏa sáng và phát triển tiềm năng cao nhất.",
+        "Lãnh đạo không cần chịu bất kỳ trách nhiệm nào về kết quả kinh doanh."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Lãnh đạo phụng sự đảo ngược kim tự tháp quyền lực: mục tiêu của người dẫn đầu là nâng đỡ và phụng sự sự thành công của những người đi cùng."
     },
     {
       "id": "q3",
       "question": "Làm thế nào một nhà lãnh đạo có thể 'Vừa có hiệu quả công việc cao' (Highly effective) mà 'Vừa được nhân viên yêu quý' (Deeply loved)?",
       "options": [
+        "Bằng cách luôn thỏa hiệp và dễ dãi với mọi sai phạm của nhân viên.",
         "Bằng cách kết hợp giữa 'Tiêu chuẩn chất lượng khắt khe' (High standards) với 'Lòng trắc ẩn và sự quan tâm chân thành đến con người' (Deep care and Compassion).",
-        "Bằng cách không bao giờ giao việc cho nhân viên.",
         "Bằng cách tặng tiền thưởng liên tục mỗi ngày cho nhân viên.",
-        "Bằng cách luôn thỏa hiệp và dễ dãi với mọi sai phạm của nhân viên."
+        "Bằng cách không bao giờ giao việc cho nhân viên."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Khái niệm 'Thách thức trực tiếp nhưng quan tâm sâu sắc' (Radical candor): nhân viên tôn trọng và yêu quý lãnh đạo khi biết rằng sự nghiêm khắc đó xuất phát từ mong muốn giúp họ tiến bộ."
     },
     {
       "id": "q4",
       "question": "Nghiên cứu của trường kinh doanh Harvard về 'Những kẻ ngốc đáng yêu' (Lovable fools) so với 'Những kẻ tài ba khó chịu' (Competent jerks) cho thấy xu hướng lựa chọn cộng tác của con người là gì?",
       "options": [
-        "Mọi người chỉ chọn làm việc với người nhà.",
         "Mọi người luôn thích làm việc với kẻ tài ba khó chịu vì kết quả là số một.",
+        "Mọi người có xu hướng từ chối làm việc với những kẻ tài ba nhưng độc hại; họ ưu tiên chọn những người ấm áp, dễ thương và có tinh thần hợp tác vì sự tin cậy là nền tảng của hiệu suất nhóm.",
         "Mọi người không quan tâm đến tính cách của đồng nghiệp.",
-        "Mọi người có xu hướng từ chối làm việc với những kẻ tài ba nhưng độc hại; họ ưu tiên chọn những người ấm áp, dễ thương và có tinh thần hợp tác vì sự tin cậy là nền tảng của hiệu suất nhóm."
+        "Mọi người chỉ chọn làm việc với người nhà."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Môi trường độc hại giết chết sự sáng tạo; sự ấm áp và an toàn tâm lý là điều kiện tiên quyết để tài năng thực sự phát huy tác dụng."
     },
     {
       "id": "q5",
       "question": "Trong bài tập thực hành 'Những cuộc trò chuyện khó khăn' (Difficult conversations), bước chuẩn bị tâm thức quan trọng nhất là gì?",
       "options": [
-        "Thuê vệ sĩ đứng bảo vệ trong phòng họp.",
-        "Chuẩn bị sẵn các bằng chứng để dồn đối phương vào chân tường.",
+        "Chuyển từ tâm thế 'Tôi đúng - Bạn sai' (Right vs Wrong) sang tâm thế 'Tìm hiểu và Cùng giải quyết vấn đề' (Learning stance); tách biệt Ý định (Intent) với Tác động thực tế (Impact).",
         "Viết thư đe dọa trước khi gặp mặt.",
-        "Chuyển từ tâm thế 'Tôi đúng - Bạn sai' (Right vs Wrong) sang tâm thế 'Tìm hiểu và Cùng giải quyết vấn đề' (Learning stance); tách biệt Ý định (Intent) với Tác động thực tế (Impact)."
+        "Chuẩn bị sẵn các bằng chứng để dồn đối phương vào chân tường.",
+        "Thuê vệ sĩ đứng bảo vệ trong phòng họp."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Mục đích của cuộc đối thoại khó khăn không phải là giành chiến thắng trong tranh cãi, mà là thấu hiểu nguyên nhân gốc rễ và cùng nhau tìm giải pháp cải thiện."
     },
     {
@@ -104,12 +104,12 @@
       "id": "q9",
       "question": "Khi sa thải một nhân viên không phù hợp, cách tiếp cận dựa trên Lòng trắc ẩn của SIY là gì?",
       "options": [
-        "Đối thoại trực tiếp với sự tôn trọng, phẩm giá và thấu cảm sâu sắc; hỗ trợ họ tìm kiếm môi trường mới phù hợp hơn với thế mạnh của họ thay vì hạ nhục hay đổ lỗi cho họ.",
-        "Bắt họ phải bồi thường toàn bộ tiền lương đã nhận.",
+        "Công khai các lỗi sai của họ trên mạng xã hội.",
         "Gửi một email tự động vào lúc nửa đêm và khóa thẻ ra vào của họ.",
-        "Công khai các lỗi sai của họ trên mạng xã hội."
+        "Bắt họ phải bồi thường toàn bộ tiền lương đã nhận.",
+        "Đối thoại trực tiếp với sự tôn trọng, phẩm giá và thấu cảm sâu sắc; hỗ trợ họ tìm kiếm môi trường mới phù hợp hơn với thế mạnh của họ thay vì hạ nhục hay đổ lỗi cho họ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Sa thải là một quyết định công việc cần thiết, nhưng cách bạn đối xử với con người trong khoảnh khắc đó thể hiện đạo đức và phẩm giá của người lãnh đạo."
     },
     {
@@ -117,21 +117,21 @@
       "question": "Tại sao các CEO vĩ đại như Bill George (Cựu CEO Medtronic) lại nhấn mạnh khái niệm 'Lãnh đạo đích thực' (Authentic Leadership)?",
       "options": [
         "Vì lãnh đạo đích thực giúp tăng doanh số bán hàng ngay trong 24 giờ.",
+        "Vì nhân viên luôn nhận ra sự giả tạo; chỉ khi lãnh đạo dẫn dắt bằng các giá trị cốt lõi chân thật và trái tim phục vụ, họ mới có thể truyền cảm hứng và xây dựng niềm tin bền vững qua nhiều thế hệ.",
         "Vì đây là quy định bắt buộc của sàn chứng khoán New York.",
-        "Vì lãnh đạo đích thực không cần phải đi làm mỗi ngày.",
-        "Vì nhân viên luôn nhận ra sự giả tạo; chỉ khi lãnh đạo dẫn dắt bằng các giá trị cốt lõi chân thật và trái tim phục vụ, họ mới có thể truyền cảm hứng và xây dựng niềm tin bền vững qua nhiều thế hệ."
+        "Vì lãnh đạo đích thực không cần phải đi làm mỗi ngày."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sự chân thật là nền tảng của lòng tin; lãnh đạo đích thực là người sống nhất quán giữa lời nói và việc làm, lấy đạo đức làm kim chỉ nam."
     },
     {
       "id": "q11",
       "question": "Nghiên cứu của Google (Project Oxygen) về 8 phẩm chất của nhà quản lý xuất sắc nhất đã xếp yếu tố nào ở vị trí số 1?",
       "options": [
-        "Là người có khả năng giám sát và kiểm tra nhân viên 24/7.",
+        "Là người có trình độ kỹ thuật lập trình giỏi nhất nhóm.",
         "Là một người huấn luyện giỏi (Be a good coach) – biết lắng nghe, trao quyền và quan tâm chân thành đến sự thành công và hạnh phúc của từng thành viên.",
-        "Là người có mối quan hệ thân thiết với ban giám đốc cấp cao.",
-        "Là người có trình độ kỹ thuật lập trình giỏi nhất nhóm."
+        "Là người có khả năng giám sát và kiểm tra nhân viên 24/7.",
+        "Là người có mối quan hệ thân thiết với ban giám đốc cấp cao."
       ],
       "correctIndex": 1,
       "explanation": "Dữ liệu thực nghiệm của Google khẳng định: Kỹ năng chuyên môn kỹ thuật xếp cuối cùng trong danh sách; năng lực lắng nghe, huấn luyện và thấu cảm (EQ) đứng ở vị trí số 1."
@@ -140,12 +140,12 @@
       "id": "q12",
       "question": "Làm thế nào một nhà lãnh đạo có thể giải quyết xung đột gay gắt giữa hai nhóm kỹ sư giỏi nhưng bất đồng quan điểm?",
       "options": [
-        "Ủng hộ bên nào nói to hơn.",
-        "Sa thải cả hai nhóm kỹ sư để tuyển người mới.",
         "Tạo không gian an toàn tâm lý, đưa cả hai nhóm quay về với 'Mục đích chung cốt lõi' của dự án, lắng nghe sâu sắc các lo ngại của từng bên và khuyến khích họ cùng đồng sáng tạo giải pháp dung hòa tốt nhất.",
-        "Tung đồng xu để quyết định bên nào thắng."
+        "Tung đồng xu để quyết định bên nào thắng.",
+        "Ủng hộ bên nào nói to hơn.",
+        "Sa thải cả hai nhóm kỹ sư để tuyển người mới."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Giải quyết xung đột dựa trên chánh niệm là đưa các bên từ thế đối đầu sang thế cùng nhìn về một hướng: mục đích phụng sự người dùng và chất lượng sản phẩm."
     },
     {
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Điều gì xảy ra với 'Văn hóa doanh nghiệp' khi lòng trắc ẩn được thể chế hóa thành các chính sách cụ thể (như chế độ thai sản linh hoạt, ngày nghỉ chăm sóc sức khỏe tinh thần)?",
       "options": [
-        "Nhân viên sẽ không bao giờ đến công ty làm việc nữa.",
         "Công ty sẽ bị phá sản vì nhân viên lười biếng.",
         "Tỷ lệ nghỉ việc giảm mạnh, mức độ gắn kết và lòng trung thành tăng vọt, nhân viên tự giác sáng tạo và cống hiến vượt trên cả sự mong đợi của ban điều hành.",
+        "Nhân viên sẽ không bao giờ đến công ty làm việc nữa.",
         "Chính phủ sẽ tịch thu toàn bộ tài sản của doanh nghiệp."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Doanh nghiệp yêu thương nhân viên thì nhân viên sẽ yêu thương khách hàng; lòng trắc ẩn là khoản đầu tư sinh lời cao nhất cho sự phát triển trường tồn."
     },
     {

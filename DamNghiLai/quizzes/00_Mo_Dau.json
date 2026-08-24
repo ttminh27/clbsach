@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Trong thảm kịch cháy rừng Mann Gulch năm 1949, hành động 'kỳ dị' nào đã cứu sống đội trưởng lính cứu hỏa nhảy dù Wagner Dodge trong khi 12 đồng đội của ông thiệt mạng?",
       "options": [
-        "Ông châm lửa đốt một đám cháy thoát hiểm (Escape Fire) ngay trước mặt, rồi nằm úp mặt xuống vùng tro tàn vừa cháy hết để ngọn lửa chính quét qua đầu.",
         "Ông trèo lên ngọn cây cao nhất trong rừng để tránh xa sức nóng của ngọn lửa dưới mặt đất.",
+        "Ông nhảy xuống dòng sông Montana gần đó và lặn sâu dưới nước cho đến khi đám cháy đi qua.",
         "Ông chạy thục mạng với tốc độ tối đa vượt qua đỉnh sườn núi dốc trước khi ngọn lửa đuổi kịp.",
-        "Ông nhảy xuống dòng sông Montana gần đó và lặn sâu dưới nước cho đến khi đám cháy đi qua."
+        "Ông châm lửa đốt một đám cháy thoát hiểm (Escape Fire) ngay trước mặt, rồi nằm úp mặt xuống vùng tro tàn vừa cháy hết để ngọn lửa chính quét qua đầu."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Wagner Dodge đã có một khoảnh khắc tái tư duy thiên tài: Ông nhận ra không thể chạy thoát ngọn lửa đang lao tới với tốc độ 48km/h, nên đã dùng lửa để đốt sạch nhiên liệu tạo ra vùng an toàn không còn gì để cháy."
     },
     {
@@ -32,12 +32,12 @@
       "id": "q3",
       "question": "Chi tiết những người lính cứu hỏa thiệt mạng vẫn mang theo những chiếc rìu và xẻng nặng nề trên lưng khi chạy trốn phơi bày hiện tượng tâm lý nào?",
       "options": [
-        "Họ hy vọng sẽ dùng xẻng để đào hố ẩn nấp trên đỉnh núi.",
-        "Họ sợ bị phạt trừ lương nếu làm mất trang thiết bị của lực lượng kiểm lâm.",
         "Hiện tượng 'Đóng băng hành vi' (Behavioral Freezing): Bám chặt vào các công cụ định danh nghề nghiệp quen thuộc ngay cả khi chúng đang trực tiếp kéo lùi và giết chết bạn.",
-        "Họ muốn giữ lại dụng cụ để tự vệ trước các loài thú dữ trong rừng."
+        "Họ sợ bị phạt trừ lương nếu làm mất trang thiết bị của lực lượng kiểm lâm.",
+        "Họ muốn giữ lại dụng cụ để tự vệ trước các loài thú dữ trong rừng.",
+        "Họ hy vọng sẽ dùng xẻng để đào hố ẩn nấp trên đỉnh núi."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Dụng cụ cứu hỏa là bản sắc của họ; buông bỏ dụng cụ đồng nghĩa với việc thừa nhận thất bại và mất kiểm soát, khiến họ không dám vứt bỏ gánh nặng để chạy nhanh hơn."
     },
     {
@@ -45,11 +45,11 @@
       "question": "Adam Grant đã sử dụng câu chuyện Mann Gulch như một phép ẩn dụ sâu sắc cho điều gì trong cuộc sống hiện đại?",
       "options": [
         "Sự nguy hiểm của các hoạt động dã ngoại mạo hiểm tại các công viên quốc gia Hoa Kỳ.",
+        "Kỹ thuật chữa cháy rừng chuyên nghiệp đòi hỏi phải được trang bị máy bay hiện đại.",
         "Tầm quan trọng của việc rèn luyện thể lực chạy bộ cự ly ngắn cho thanh niên.",
-        "Con người chúng ta thường ôm giữ khư khư những giả định, định kiến và công cụ tư duy lỗi thời khi đối mặt với các cuộc khủng hoảng mới, dẫn đến sự diệt vong thay vì dám 'đốt đám cháy thoát hiểm' cho tâm trí.",
-        "Kỹ thuật chữa cháy rừng chuyên nghiệp đòi hỏi phải được trang bị máy bay hiện đại."
+        "Con người chúng ta thường ôm giữ khư khư những giả định, định kiến và công cụ tư duy lỗi thời khi đối mặt với các cuộc khủng hoảng mới, dẫn đến sự diệt vong thay vì dám 'đốt đám cháy thoát hiểm' cho tâm trí."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Hầu hết chúng ta không chết vì lửa rừng thực tế, nhưng chúng ta chết mòn trong sự nghiệp và cuộc sống vì không chịu buông bỏ 'chiếc rìu tư duy cũ' khi hoàn cảnh đã thay đổi hoàn toàn."
     },
     {
@@ -68,9 +68,9 @@
       "id": "q6",
       "question": "Thí nghiệm kinh điển về 'Bài toán trắc nghiệm đổi câu trả lời' (Changing answers on multiple-choice tests) được Adam Grant dẫn chứng mang lại kết quả bất ngờ nào?",
       "options": [
-        "Việc đổi câu trả lời chỉ có tác dụng đối với các môn khoa học tự nhiên như toán và lý.",
         "100% học sinh đổi câu trả lời đều bị điểm kém hơn so với người giữ nguyên đáp án ban đầu.",
         "Linh cảm đầu tiên luôn luôn chính xác trong 99% các tình huống kiểm tra trắc nghiệm.",
+        "Việc đổi câu trả lời chỉ có tác dụng đối với các môn khoa học tự nhiên như toán và lý.",
         "Phần lớn các trường hợp học sinh xóa câu trả lời đầu tiên để chọn câu trả lời mới sau khi suy nghĩ lại đều chuyển từ 'SAI' thành 'ĐÚNG', trái ngược với niềm tin phổ biến 'hãy tin vào linh cảm đầu tiên'."
       ],
       "correctIndex": 3,
@@ -80,22 +80,22 @@
       "id": "q7",
       "question": "Tại sao con người lại có xu hướng bám chấp mù quáng vào 'Linh cảm đầu tiên' (First Instinct Fallacy) dù bằng chứng cho thấy suy nghĩ lại tốt hơn?",
       "options": [
-        "Vì não bộ con người bị lập trình tự động cấm xóa các vết mực trên giấy thi.",
         "Vì các giáo viên luôn phạt điểm nặng những bài thi có vết tẩy xóa.",
-        "Vì nỗi đau tâm lý khi 'đổi từ đúng thành sai' để lại sự hối tiếc cay đắng hơn nhiều so với việc 'sai vì giữ nguyên đáp án cũ', khiến não bộ có xu hướng né tránh rủi ro thay đổi.",
-        "Vì linh cảm đầu tiên là món quà di truyền từ tổ tiên thời tiền sử."
+        "Vì não bộ con người bị lập trình tự động cấm xóa các vết mực trên giấy thi.",
+        "Vì linh cảm đầu tiên là món quà di truyền từ tổ tiên thời tiền sử.",
+        "Vì nỗi đau tâm lý khi 'đổi từ đúng thành sai' để lại sự hối tiếc cay đắng hơn nhiều so với việc 'sai vì giữ nguyên đáp án cũ', khiến não bộ có xu hướng né tránh rủi ro thay đổi."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Tâm lý sợ hối tiếc (Regret Aversion) khiến chúng ta nhớ rất lâu những lần đổi đáp án sai và quên mất hàng chục lần đổi đáp án đúng, tạo nên ảo tưởng rằng trực giác đầu tiên luôn chuẩn xác."
     },
     {
       "id": "q8",
       "question": "Khái niệm 'Mảng vôi hóa tư duy' (Cognitive Entrenchment) được tác giả mô tả như thế nào?",
       "options": [
+        "Hiện tượng lắng đọng canxi trong các mạch máu não gây suy giảm trí nhớ ở người cao tuổi.",
         "Trạng thái tâm lý hưng phấn tột độ khi giải thành công một bài toán khó.",
-        "Một kỹ thuật ghi nhớ nhanh các định luật vật lý bằng sơ đồ tư duy.",
         "Khi một chuyên gia tích lũy quá nhiều kinh nghiệm trong một lĩnh vực, các mô thức tư duy của họ trở nên cứng nhắc và họ bị mù quáng trước những góc nhìn mới mẻ mang tính đột phá.",
-        "Hiện tượng lắng đọng canxi trong các mạch máu não gây suy giảm trí nhớ ở người cao tuổi."
+        "Một kỹ thuật ghi nhớ nhanh các định luật vật lý bằng sơ đồ tư duy."
       ],
       "correctIndex": 2,
       "explanation": "Sự chuyên nghiệp có thể trở thành cái bẫy; khi bạn quá thành thạo lối mòn cũ, bạn sẽ trở thành tù nhân của chính sự thành công trong quá khứ của mình."
@@ -104,10 +104,10 @@
       "id": "q9",
       "question": "Tại sao việc 'Tái tư duy' lại gây ra cảm giác khó chịu và đau đớn về mặt tâm lý đối với hầu hết mọi người?",
       "options": [
-        "Nó đòi hỏi con người phải chi trả một khoản chi phí tài chính rất lớn cho các bài kiểm tra tâm lý.",
-        "Nó đe dọa sự ổn định của cái tôi và buộc con người phải đối mặt với sự bất an, hoài nghi và cảm giác dễ tổn thương khi nhận ra mình đã từng sai lầm.",
         "Nó làm giảm lượng đường huyết trong cơ thể sau mỗi lần suy nghĩ.",
-        "Nó làm tăng nồng độ axit uric trong máu gây ra các cơn đau khớp cấp tính."
+        "Nó đe dọa sự ổn định của cái tôi và buộc con người phải đối mặt với sự bất an, hoài nghi và cảm giác dễ tổn thương khi nhận ra mình đã từng sai lầm.",
+        "Nó làm tăng nồng độ axit uric trong máu gây ra các cơn đau khớp cấp tính.",
+        "Nó đòi hỏi con người phải chi trả một khoản chi phí tài chính rất lớn cho các bài kiểm tra tâm lý."
       ],
       "correctIndex": 1,
       "explanation": "Tư duy bám giữ mang lại cảm giác an toàn giả tạo; trong khi tái tư duy đòi hỏi sự dũng cảm bước vào vùng bất định và phá bỏ cấu trúc niềm tin cũ."
@@ -116,22 +116,22 @@
       "id": "q10",
       "question": "Trong ví dụ về việc 'Chẩn đoán y khoa', tại sao các bác sĩ giỏi nhất lại là những người thường xuyên nghi ngờ kết luận đầu tiên của chính mình?",
       "options": [
-        "Vì việc chủ động tìm kiếm các chẩn đoán phân biệt và triệu chứng phản chứng giúp họ tránh được bẫy chẩn đoán sớm sai lầm và cứu sống bệnh nhân.",
+        "Vì họ hoàn toàn không có sự tự tin vào trình độ chuyên môn của bản thân.",
         "Vì họ muốn kéo dài thời gian khám bệnh để thu thêm tiền viện phí của bệnh nhân.",
-        "Vì đây là quy định bắt buộc trong quy trình bảo hiểm y tế quốc tế.",
-        "Vì họ hoàn toàn không có sự tự tin vào trình độ chuyên môn của bản thân."
+        "Vì việc chủ động tìm kiếm các chẩn đoán phân biệt và triệu chứng phản chứng giúp họ tránh được bẫy chẩn đoán sớm sai lầm và cứu sống bệnh nhân.",
+        "Vì đây là quy định bắt buộc trong quy trình bảo hiểm y tế quốc tế."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Sự tự tin thái quá trong y khoa là nguyên nhân hàng đầu của các sai sót chết người; người bác sĩ xuất sắc luôn giữ tâm thế của một nhà điều tra khoa học cẩn trọng."
     },
     {
       "id": "q11",
       "question": "Câu chuyện về các nhà thiên văn học mất hàng chục năm để chấp nhận Sao Diêm Vương không phải là một hành tinh chứng minh điều gì?",
       "options": [
-        "Sao Diêm Vương thực sự đã thay đổi quỹ đạo bay và biến mất khỏi hệ mặt trời.",
-        "Ngay cả cộng đồng khoa học tinh hoa cũng gặp phải sự kháng cự tâm lý mãnh liệt khi phải từ bỏ những niềm tin đã ăn sâu vào sách giáo khoa và văn hóa đại chúng.",
         "Kính thiên văn quang học thời xưa có chất lượng quá kém không thể nhìn rõ vũ trụ.",
-        "Các nhà khoa học không quan tâm đến các hành tinh nằm ở rìa ngoài của dải ngân hà."
+        "Ngay cả cộng đồng khoa học tinh hoa cũng gặp phải sự kháng cự tâm lý mãnh liệt khi phải từ bỏ những niềm tin đã ăn sâu vào sách giáo khoa và văn hóa đại chúng.",
+        "Các nhà khoa học không quan tâm đến các hành tinh nằm ở rìa ngoài của dải ngân hà.",
+        "Sao Diêm Vương thực sự đã thay đổi quỹ đạo bay và biến mất khỏi hệ mặt trời."
       ],
       "correctIndex": 1,
       "explanation": "Tái tư duy tập thể là một tiến trình đầy cam go; con người có xu hướng bảo vệ những tín niệm quen thuộc ngay cả khi các bằng chứng thiên văn mới đã rõ mười mươi."
@@ -164,24 +164,24 @@
       "id": "q14",
       "question": "Tại sao việc 'Học cách cười vào những sai lầm ngớ ngẩn trong quá khứ của mình' lại là dấu hiệu của một người có năng lực tái tư duy cao?",
       "options": [
-        "Nó chứng tỏ bạn đã trưởng thành vượt bậc so với con người cũ của mình; sự tự trào nhẹ nhõm giải phóng bạn khỏi gánh nặng của cái tôi hoàn hảo hão huyền.",
-        "Vì cười nhiều sẽ làm giảm nguy cơ mắc các bệnh về tim mạch và huyết áp.",
+        "Vì nó giúp bạn che giấu sự kém cỏi trước mặt các đối thủ cạnh tranh.",
         "Đó là một cử chỉ bắt buộc trong các nghi thức giao tiếp của giới doanh nhân phương Tây.",
-        "Vì nó giúp bạn che giấu sự kém cỏi trước mặt các đối thủ cạnh tranh."
+        "Vì cười nhiều sẽ làm giảm nguy cơ mắc các bệnh về tim mạch và huyết áp.",
+        "Nó chứng tỏ bạn đã trưởng thành vượt bậc so với con người cũ của mình; sự tự trào nhẹ nhõm giải phóng bạn khỏi gánh nặng của cái tôi hoàn hảo hão huyền."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Người có thể mỉm cười nói: 'Tôi đã từng sai lầm ngây thơ như thế đấy' là người đã hoàn toàn tự do; họ không còn cần phải phòng thủ hay ngụy biện cho cái tôi trong quá khứ."
     },
     {
       "id": "q15",
       "question": "Thông điệp cốt lõi đọng lại sau phần Mở đầu về thảm kịch Mann Gulch là gì?",
       "options": [
+        "'Chạy bộ với tốc độ nhanh là kỹ năng duy nhất quyết định sự sống còn của con người'.",
         "'Đừng để sự xác tín mù quáng trở thành chiếc quan tài chôn vùi cuộc đời bạn; hãy luôn sẵn sàng vứt bỏ chiếc rìu tư duy cũ và đốt lên ngọn lửa tái tư duy để sinh tồn và tỏa sáng!'.",
-        "'Tuyệt đối không bao giờ tin tưởng vào mệnh lệnh của những người chỉ huy trong cơn hoảng loạn'.",
         "'Hãy tránh xa các khu rừng quốc gia vào mùa khô hạn để bảo đảm an toàn tính mạng'.",
-        "'Chạy bộ với tốc độ nhanh là kỹ năng duy nhất quyết định sự sống còn của con người'."
+        "'Tuyệt đối không bao giờ tin tưởng vào mệnh lệnh của những người chỉ huy trong cơn hoảng loạn'."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Câu chuyện Mann Gulch là bản tuyên ngôn bất hủ về sức mạnh cứu rỗi của sự tái tư duy: Trong giờ phút hiểm nghèo nhất, khả năng nghĩ khác đi là ranh giới duy nhất giữa sự sống và cái chết."
     }
   ]

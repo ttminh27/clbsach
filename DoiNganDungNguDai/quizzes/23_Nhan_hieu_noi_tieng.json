@@ -20,12 +20,12 @@
       "id": "q2",
       "question": "Khi bàn về 'Nhãn hiệu nổi tiếng', tư tưởng 'hãy thực hiện...' muốn cảnh tỉnh người đọc về điều gì?",
       "options": [
+        "Nên tìm mọi cách để làm hài lòng số đông dù phải từ bỏ bản sắc riêng.",
         "Việc đánh giá thấp bản thân và trì hoãn ước mơ sẽ khiến con người phải trả cái giá rất đắt của sự tiếc nuối khi nhìn lại cuộc đời.",
-        "Kỷ luật cá nhân là gánh nặng không cần thiết đối với người làm công việc sáng tạo.",
         "Chỉ những người sinh ra với năng khiếu thiên bẩm mới có thể tạo ra thành tựu lớn.",
-        "Nên tìm mọi cách để làm hài lòng số đông dù phải từ bỏ bản sắc riêng."
+        "Kỷ luật cá nhân là gánh nặng không cần thiết đối với người làm công việc sáng tạo."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Tác giả nhấn mạnh nỗi đau của sự hối tiếc luôn lớn hơn gấp bội cái giá của sự kỷ luật và lòng can đảm vượt qua thử thách."
     },
     {
@@ -104,24 +104,24 @@
       "id": "q9",
       "question": "Khi những nỗ lực áp dụng 'Nhãn hiệu nổi tiếng' bị người xung quanh hoài nghi hoặc chỉ trích, phản ứng khôn ngoan nhất là gì?",
       "options": [
-        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm.",
-        "Lấy kết quả thực tế và sự kiên định làm câu trả lời, xem lời chỉ trích như một phép thử cho bản lĩnh cá nhân.",
+        "Bỏ cuộc ngay lập tức để hòa nhập với tập thể.",
         "Đóng cửa không tiếp xúc với bất kỳ ai.",
-        "Bỏ cuộc ngay lập tức để hòa nhập với tập thể."
+        "Lấy kết quả thực tế và sự kiên định làm câu trả lời, xem lời chỉ trích như một phép thử cho bản lĩnh cá nhân.",
+        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Người có tư tưởng lớn không để những tiếng ồn bên ngoài làm chao đảo định hướng bên trong; kết quả công việc vượt trội chính là lời minh chứng thuyết phục nhất."
     },
     {
       "id": "q10",
       "question": "Trong kỷ nguyên ngập tràn thông tin gây xao nhãng, bài học 'Nhãn hiệu nổi tiếng' khuyến nghị người đọc bảo vệ tài sản nào quý giá nhất?",
       "options": [
-        "Thời gian nghỉ ngơi thụ động xem video giải trí.",
         "Số lượng người theo dõi trên mạng xã hội.",
         "Sự tập trung cao độ và nguồn năng lượng tinh thần để dồn vào những mục tiêu có giá trị tác động cao.",
+        "Thời gian nghỉ ngơi thụ động xem video giải trí.",
         "Bộ sưu tập các đồ dùng công nghệ đời mới nhất."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Sự tập trung sâu là siêu năng lực của thế kỷ 21; dồn toàn bộ tâm trí vào việc tạo ra giá trị cốt lõi là con đường duy nhất dẫn tới vị thế chuyên gia đỉnh cao."
     },
     {
@@ -140,24 +140,24 @@
       "id": "q12",
       "question": "Dấu hiệu rõ nhất cho thấy một người đang rơi vào 'Tâm thế nạn nhân' khi đối mặt với thử thách trong bài học này là gì?",
       "options": [
-        "Họ đọc sách và tìm người cố vấn để nâng cao kỹ năng.",
-        "Họ tìm kiếm giải pháp thay thế và tự nhận trách nhiệm về phần việc của mình.",
+        "Họ bình tĩnh phân tích nguyên nhân gốc rễ của sự cố.",
         "Họ liên tục viện cớ: 'Tại sếp, tại kinh tế, tại thời tiết...' và chờ đợi người khác cứu giúp.",
-        "Họ bình tĩnh phân tích nguyên nhân gốc rễ của sự cố."
+        "Họ tìm kiếm giải pháp thay thế và tự nhận trách nhiệm về phần việc của mình.",
+        "Họ đọc sách và tìm người cố vấn để nâng cao kỹ năng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Bào chữa và đổ lỗi là phản xạ của tâm lý nạn nhân; người chiến thắng luôn tự hỏi: 'Tôi có thể làm gì để cải thiện tình hình ngay bây giờ?'."
     },
     {
       "id": "q13",
       "question": "Theo triết lý chung của cuốn sách và chương 'Nhãn hiệu nổi tiếng', thước đo cuối cùng của một cuộc đời thành công rực rỡ là gì?",
       "options": [
-        "Số lượng tài sản ròng và danh mục bất động sản tích lũy được.",
         "Mức độ ảnh hưởng tích cực bạn để lại cho cuộc sống của những người xung quanh và di sản ý nghĩa bạn đóng góp cho cộng đồng.",
         "Số lượng cuộc họp và email bạn đã xử lý trong sự nghiệp.",
+        "Số lượng tài sản ròng và danh mục bất động sản tích lũy được.",
         "Mức độ bạn tránh né được mọi va chạm và thử thách trong đời."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Cuối cuộc đời, điều đọng lại không phải là bạn đã nhận được bao nhiêu, mà là bạn đã trở thành con người như thế nào và trao đi được những giá trị gì cho thế giới."
     },
     {

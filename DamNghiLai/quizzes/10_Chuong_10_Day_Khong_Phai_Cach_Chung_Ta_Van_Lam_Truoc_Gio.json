@@ -20,24 +20,24 @@
       "id": "q2",
       "question": "Thảm họa nổ tàu con thoi Columbia năm 2003 của NASA được phân tích trong Chương 10 bắt nguồn từ lỗ hổng văn hóa nguy hiểm nào?",
       "options": [
-        "Một cuộc tấn công tên lửa bí mật từ một quốc gia thù địch ngoài không gian.",
         "Sự thiếu vắng tâm lý an toàn: Các kỹ sư cấp dưới đã phát hiện nguy cơ miếng xốp cách nhiệt va vào cánh tàu nhưng bị ban lãnh đạo dập tắt tiếng nói phản biện vì văn hóa 'quá tự tin và bám chặt vào quy trình cũ'.",
-        "Sự cố thời tiết bão mặt trời bất ngờ xảy ra ngoài tầm kiểm soát của các nhà khoa học.",
-        "Hệ thống máy tính của NASA bị nhiễm virus độc hại từ mạng internet."
+        "Một cuộc tấn công tên lửa bí mật từ một quốc gia thù địch ngoài không gian.",
+        "Hệ thống máy tính của NASA bị nhiễm virus độc hại từ mạng internet.",
+        "Sự cố thời tiết bão mặt trời bất ngờ xảy ra ngoài tầm kiểm soát của các nhà khoa học."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "NASA không thiếu những bộ óc thiên tài, nhưng họ thiếu một môi trường văn hóa cho phép cấp dưới chất vấn cấp trên; sự im lặng vì sợ hãi đã phải trả giá bằng sinh mạng của 7 phi hành gia."
     },
     {
       "id": "q3",
       "question": "Câu nói độc hại nhất trong bất kỳ doanh nghiệp nào: 'ĐÂY LÀ CÁCH CHÚNG TA VẪN LÀM TỪ TRƯỚC ĐẾN GIỜ' (That's the way we've always done it) biểu thị căn bệnh gì?",
       "options": [
-        "Một nguyên tắc quản trị chất lượng bắt buộc theo tiêu chuẩn ISO 9001.",
-        "Sự tự hào chính đáng về truyền thống lịch sử lâu đời của một thương hiệu quốc tế.",
         "Sự lười biếng tư duy và chứng xơ cứng tổ chức: Biến thói quen cũ thành giáo điều bất khả xâm phạm, từ chối mọi sự đổi mới và tự đẩy mình vào con đường diệt vong.",
-        "Một khẩu hiệu tiếp thị hiệu quả nhằm thu hút những khách hàng cao tuổi."
+        "Một khẩu hiệu tiếp thị hiệu quả nhằm thu hút những khách hàng cao tuổi.",
+        "Một nguyên tắc quản trị chất lượng bắt buộc theo tiêu chuẩn ISO 9001.",
+        "Sự tự hào chính đáng về truyền thống lịch sử lâu đời của một thương hiệu quốc tế."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Thế giới liên tục vận động; những phương pháp mang lại thành công cho bạn trong quá khứ chính là những chiếc bẫy chết người sẽ giết chết bạn trong tương lai nếu không chịu tái tư duy."
     },
     {
@@ -56,12 +56,12 @@
       "id": "q5",
       "question": "Bệnh viện áp dụng văn hóa 'Thực hành học tập từ sai sót y khoa' (Blameless Post-Mortems) đạt được kết quả phi thường nào?",
       "options": [
-        "Chi phí mua sắm trang thiết bị y tế tăng vọt lên gấp 10 lần.",
-        "Số lượng báo cáo sai sót tăng lên (vì y bác sĩ không còn sợ bị phạt), nhưng TỶ LỆ TỬ VONG THỰC TẾ CỦA BỆNH NHÂN LẠI GIẢM MẠNH vì các lỗ hổng hệ thống được khắc phục ngay lập tức.",
+        "Tất cả các bác sĩ đều bị tước chứng chỉ hành nghề y khoa quốc tế.",
         "Bệnh viện phải đóng cửa vĩnh viễn do bị bệnh nhân kiện tụng quá nhiều.",
-        "Tất cả các bác sĩ đều bị tước chứng chỉ hành nghề y khoa quốc tế."
+        "Số lượng báo cáo sai sót tăng lên (vì y bác sĩ không còn sợ bị phạt), nhưng TỶ LỆ TỬ VONG THỰC TẾ CỦA BỆNH NHÂN LẠI GIẢM MẠNH vì các lỗ hổng hệ thống được khắc phục ngay lập tức.",
+        "Chi phí mua sắm trang thiết bị y tế tăng vọt lên gấp 10 lần."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Nơi nào sai sót bị giấu giếm, nơi đó tai họa sẽ lặp lại; nơi nào sai sót được công khai mổ xẻ không phán xét, nơi đó trí tuệ tập thể sẽ được nâng cấp để bảo vệ sinh mạng con người."
     },
     {
@@ -80,12 +80,12 @@
       "id": "q7",
       "question": "Quy tắc 'Quyền lực của sự phủ quyết mang tính xây dựng' (Constructive Dissent) trong các công ty đổi mới sáng tạo được thực thi như thế nào?",
       "options": [
+        "Chỉ có chủ tịch hội đồng quản trị mới có quyền đưa ra ý kiến phản đối các quyết định.",
         "Tất cả các dự án mới đều phải bị hủy bỏ nếu có ít nhất 1 phiếu chống.",
         "Bất kỳ nhân viên nào ở bất kỳ cấp bậc nào cũng có quyền bấm nút dừng dây chuyền sản xuất hoặc chất vấn dự án nếu phát hiện ra rủi ro nghiêm trọng về an toàn hoặc chất lượng.",
-        "Chỉ có chủ tịch hội đồng quản trị mới có quyền đưa ra ý kiến phản đối các quyết định.",
         "Nhân viên phải nộp phạt tiền mặt nếu ý kiến phản biện của mình không được thông qua."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Như triết lý 'Dây giật Andon' của Toyota: Trao quyền cho người công nhân nhỏ nhất dừng cả nhà máy để sửa lỗi là bí quyết tạo nên chất lượng sản phẩm huyền thoại."
     },
     {
@@ -104,36 +104,36 @@
       "id": "q9",
       "question": "Làm thế nào để phân biệt giữa 'Một cuộc thử nghiệm thất bại có giá trị' (Intelligent Failure) và 'Một sai lầm do cẩu thả lười biếng'?",
       "options": [
+        "Thất bại có giá trị diễn ra khi bạn thử nghiệm một ý tưởng mới trong phạm vi kiểm soát có chuẩn bị kỹ lưỡng và mang lại dữ liệu học tập đột phá; trong khi cẩu thả là việc lặp lại lỗi cũ do vô trách nhiệm.",
         "Sai lầm do cẩu thả luôn được ban giám đốc khen thưởng và khuyến khích tái diễn.",
         "Thất bại có giá trị là những thất bại không làm mất bất kỳ một đồng tiền vốn nào.",
-        "Thất bại có giá trị diễn ra khi bạn thử nghiệm một ý tưởng mới trong phạm vi kiểm soát có chuẩn bị kỹ lưỡng và mang lại dữ liệu học tập đột phá; trong khi cẩu thả là việc lặp lại lỗi cũ do vô trách nhiệm.",
         "Mọi thất bại đều hoàn toàn giống nhau và đều phải chịu mức kỷ luật như nhau."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Tổ chức xuất sắc tôn vinh những 'thất bại thông minh' vì đó là học phí của sự đổi mới; đồng thời kiên quyết loại trừ sự cẩu thả và vô kỷ luật."
     },
     {
       "id": "q10",
       "question": "Chiến lược 'Định kỳ tổ chức ngày Tái tư duy quy trình' (Rethinking Day) trong doanh nghiệp có mục đích gì?",
       "options": [
-        "Một ngày lễ kỷ niệm truyền thống không có bất kỳ hoạt động thảo luận công việc nào.",
-        "Cho phép nhân viên nghỉ làm ở nhà để dọn dẹp nhà cửa cá nhân.",
+        "Toàn bộ công ty cùng nhau rà soát lại tất cả các quy trình, biểu mẫu, cuộc họp định kỳ và dũng cảm xóa bỏ những thủ tục rườm rà, lỗi thời không còn tạo ra giá trị.",
         "Tổ chức ngày hội thể thao kéo co và nhảy bao bố cho nhân viên toàn công ty.",
-        "Toàn bộ công ty cùng nhau rà soát lại tất cả các quy trình, biểu mẫu, cuộc họp định kỳ và dũng cảm xóa bỏ những thủ tục rườm rà, lỗi thời không còn tạo ra giá trị."
+        "Cho phép nhân viên nghỉ làm ở nhà để dọn dẹp nhà cửa cá nhân.",
+        "Một ngày lễ kỷ niệm truyền thống không có bất kỳ hoạt động thảo luận công việc nào."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Quy trình giống như rêu bám trên đáy tàu; nếu không định kỳ cạo rác và tái tư duy, con tàu doanh nghiệp sẽ ngày càng trở nên nặng nề và chậm chạp."
     },
     {
       "id": "q11",
       "question": "Tại sao việc 'Tách biệt giữa Đánh giá năng lực sáng tạo và Đánh giá kết quả ngắn hạn' lại thúc đẩy nhân viên dám nghĩ lớn?",
       "options": [
-        "Nếu chỉ đánh giá dựa trên kết quả ngắn hạn, nhân viên sẽ chỉ chọn những dự án an toàn tầm thường; khi đánh giá dựa trên tư duy đột phá, họ sẽ dám dấn thân vào những sứ mệnh vĩ đại.",
-        "Đây là một quy định bắt buộc của bộ luật lao động quốc tế.",
         "Để nhân viên có thể thoải mái lười biếng mà vẫn nhận đủ tiền lương hàng tháng.",
-        "Vì kết quả ngắn hạn hoàn toàn không có ý nghĩa gì đối với sự tồn tại của doanh nghiệp."
+        "Vì kết quả ngắn hạn hoàn toàn không có ý nghĩa gì đối với sự tồn tại của doanh nghiệp.",
+        "Nếu chỉ đánh giá dựa trên kết quả ngắn hạn, nhân viên sẽ chỉ chọn những dự án an toàn tầm thường; khi đánh giá dựa trên tư duy đột phá, họ sẽ dám dấn thân vào những sứ mệnh vĩ đại.",
+        "Đây là một quy định bắt buộc của bộ luật lao động quốc tế."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Muốn hái được quả ngọt đột phá, bạn phải chấp nhận rủi ro thất bại trên đường đi; người lãnh đạo thông thái bảo vệ những kẻ dám mạo hiểm vì sự đổi mới của tổ chức."
     },
     {

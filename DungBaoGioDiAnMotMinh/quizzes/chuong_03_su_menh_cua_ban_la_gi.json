@@ -20,24 +20,24 @@
       "id": "q2",
       "question": "Phương pháp tìm kiếm 'Ngọn lửa đam mê' (Finding your passion) theo tác giả bao gồm việc nhìn nhận vào bên trong để trả lời câu hỏi cốt lõi nào?",
       "options": [
-        "Làm thế nào để kiếm được nhiều tiền nhất với số giờ làm việc ít nhất?",
         "Điều gì khiến bạn thực sự say mê, sẵn sàng cống hiến thời gian ngay cả khi không được trả tiền, và bạn làm tốt nhất điều gì?",
+        "Ngành nghề nào đang trả mức lương cao nhất trên thị trường hiện nay?",
         "Bố mẹ và gia đình kỳ vọng bạn sẽ làm công việc gì trong 5 năm tới?",
-        "Ngành nghề nào đang trả mức lương cao nhất trên thị trường hiện nay?"
+        "Làm thế nào để kiếm được nhiều tiền nhất với số giờ làm việc ít nhất?"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Đam mê đích thực nằm ở giao điểm giữa sở thích sâu kín và năng lực vượt trội của bản thân, tạo ra nguồn năng lượng dồi dào thu hút mọi người xung quanh."
     },
     {
       "id": "q3",
       "question": "Kế hoạch Hành động Xây dựng Mạng lưới (Networking Action Plan - NAP) được thiết kế nhằm mục đích gì?",
       "options": [
+        "Chuyển hóa sứ mệnh lớn thành các mục tiêu ngắn hạn, trung hạn cụ thể gắn liền với danh sách những con người then chốt cần kết nối để hiện thực hóa mục tiêu.",
         "Liệt kê tất cả các nhà hàng sang trọng trong thành phố để lên lịch ăn uống.",
         "Theo dõi lịch sử các cuộc gọi điện thoại để tính cước viễn thông hàng tháng.",
-        "Chuyển hóa sứ mệnh lớn thành các mục tiêu ngắn hạn, trung hạn cụ thể gắn liền với danh sách những con người then chốt cần kết nối để hiện thực hóa mục tiêu.",
         "Ghi chép các điểm yếu của đối thủ cạnh tranh nhằm phục vụ cho việc đàm phán."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "NAP là cầu nối biến ước mơ thành hiện thực thông qua chiến lược con người: Mục tiêu -> Con người tương ứng -> Phương thức tiếp cận và phụng sự."
     },
     {
@@ -56,48 +56,48 @@
       "id": "q5",
       "question": "Khi lập kế hoạch NAP, việc phân loại mục tiêu thành các khoảng thời gian (3 năm, 1 năm, 3 tháng) nhằm đảm bảo điều gì?",
       "options": [
-        "Để nộp báo cáo định kỳ cho các nhà đầu tư mạo hiểm.",
-        "Tính khả thi và khả năng đo lường tiến độ, giúp chia nhỏ tầm nhìn vĩ đại thành các hành động kết nối cụ thể hàng tuần, hàng ngày.",
+        "Đảm bảo bạn không phải thay đổi mục tiêu trong suốt cuộc đời.",
         "Để so sánh thành tích cá nhân với các đồng nghiệp cùng trang lứa.",
-        "Đảm bảo bạn không phải thay đổi mục tiêu trong suốt cuộc đời."
+        "Tính khả thi và khả năng đo lường tiến độ, giúp chia nhỏ tầm nhìn vĩ đại thành các hành động kết nối cụ thể hàng tuần, hàng ngày.",
+        "Để nộp báo cáo định kỳ cho các nhà đầu tư mạo hiểm."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Chiến lược phân tầng thời gian giúp duy trì sự tập trung, biến những mục tiêu trừu tượng thành các bước hành động thực tiễn có thể kiểm soát được."
     },
     {
       "id": "q6",
       "question": "Trong mô hình NAP, tại sao bạn cần xác định cả 'Những người ra quyết định' (Decision makers) lẫn 'Những người có sức ảnh hưởng' (Influencers)?",
       "options": [
-        "Vì luật pháp yêu cầu phải có chữ ký của cả hai bên trong mọi hợp đồng hợp tác.",
         "Vì người có sức ảnh hưởng luôn sẵn sàng nhận tiền hoa hồng để giúp đỡ bạn.",
-        "Vì đôi khi bạn không thể tiếp cận trực tiếp người ra quyết định, nhưng có thể xây dựng lòng tin thông qua những người thân cận được họ lắng nghe và tôn trọng.",
-        "Vì người ra quyết định thường không bao giờ có mặt tại nơi làm việc."
+        "Vì luật pháp yêu cầu phải có chữ ký của cả hai bên trong mọi hợp đồng hợp tác.",
+        "Vì người ra quyết định thường không bao giờ có mặt tại nơi làm việc.",
+        "Vì đôi khi bạn không thể tiếp cận trực tiếp người ra quyết định, nhưng có thể xây dựng lòng tin thông qua những người thân cận được họ lắng nghe và tôn trọng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Cây cầu gián tiếp thông qua người có sức ảnh hưởng (bạn bè, cố vấn, trợ lý) thường là con đường ngắn nhất và an toàn nhất để tiếp cận các nhân vật quyền lực."
     },
     {
       "id": "q7",
       "question": "Điều gì tạo nên sức quyến rũ đặc biệt của một người biết rõ sứ mệnh cuộc đời mình khi bước vào một cuộc trò chuyện?",
       "options": [
-        "Họ sử dụng nhiều thuật ngữ tiếng Anh chuyên ngành hơn người bình thường.",
+        "Họ toát ra sự tự tin, đam mê cháy bỏng và một tầm nhìn rõ ràng, khiến người đối diện bị cuốn hút và muốn trở thành một phần trong hành trình của họ.",
         "Họ luôn nói to hơn và lấn át toàn bộ ý kiến của những người khác trong phòng.",
-        "Họ có thể dự đoán chính xác tương lai của nền kinh tế toàn cầu.",
-        "Họ toát ra sự tự tin, đam mê cháy bỏng và một tầm nhìn rõ ràng, khiến người đối diện bị cuốn hút và muốn trở thành một phần trong hành trình của họ."
+        "Họ sử dụng nhiều thuật ngữ tiếng Anh chuyên ngành hơn người bình thường.",
+        "Họ có thể dự đoán chính xác tương lai của nền kinh tế toàn cầu."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Sự say mê và mục đích sống rõ ràng là thứ năng lượng có tính lây lan mạnh mẽ nhất; nó truyền cảm hứng và thôi thúc người khác khao khát giúp đỡ bạn."
     },
     {
       "id": "q8",
       "question": "Một người đang bị mất phương hướng trong sự nghiệp nên thực hiện bài tập nào được gợi ý trong chương 3 để tìm lại sứ mệnh?",
       "options": [
+        "Lập danh sách những thành tựu trong quá khứ khiến bản thân tự hào nhất, phân tích điểm chung về kỹ năng và giá trị cảm xúc cốt lõi tạo nên những thành tựu đó.",
         "Nghỉ việc ngay lập tức và đi du lịch vòng quanh thế giới một mình.",
         "Đăng ký tham gia tất cả các khóa học làm giàu cấp tốc trên internet.",
-        "Lập danh sách những thành tựu trong quá khứ khiến bản thân tự hào nhất, phân tích điểm chung về kỹ năng và giá trị cảm xúc cốt lõi tạo nên những thành tựu đó.",
         "Hỏi ý kiến của 100 người lạ ngẫu nhiên trên đường phố về nghề nghiệp tương lai."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Phân tích những khoảnh khắc thăng hoa trong quá khứ giúp nhận diện những 'mật mã thành công' và đam mê tiềm ẩn vốn có bên trong bạn."
     },
     {
@@ -129,9 +129,9 @@
       "question": "Trong bảng kế hoạch NAP, cột 'Giá trị bạn có thể trao đi' (Value you can offer) đóng vai trò then chốt như thế nào?",
       "options": [
         "Đảm bảo bạn luôn tiếp cận người khác với tư thế của một người đóng góp, giúp mối quan hệ bắt đầu trên nền tảng của sự tôn trọng và bình đẳng.",
+        "Dùng để tính toán số tiền bạn sẽ đòi lại từ đối tác sau 1 năm hợp tác.",
         "Là danh sách các món quà vật chất bạn bắt buộc phải mua tặng đối tác.",
-        "Để đối chiếu với bảng khai thuế thu nhập cá nhân cuối năm.",
-        "Dùng để tính toán số tiền bạn sẽ đòi lại từ đối tác sau 1 năm hợp tác."
+        "Để đối chiếu với bảng khai thuế thu nhập cá nhân cuối năm."
       ],
       "correctIndex": 0,
       "explanation": "Không bao giờ tiếp cận bàn tay không; luôn chuẩn bị sẵn một bài báo hay, một lời khuyên chuyên môn hoặc một lời giới thiệu hữu ích cho đối phương."

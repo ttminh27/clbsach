@@ -8,22 +8,22 @@
       "id": "q1",
       "question": "Hành trình cuộc đời của Robin Sharma trước khi trở thành tác giả best-seller toàn cầu có điểm gì tương đồng đặc biệt với nhân vật Julian Mantle?",
       "options": [
-        "Ông từng là một thẩm phán tòa án tối cao trước khi chuyển sang làm đạo diễn điện ảnh.",
         "Ông từng là một luật sư tranh tụng thành đạt nhưng cảm thấy sự trống rỗng, kiệt quệ nội tâm và đã dũng cảm từ bỏ để tìm kiếm chân lý sống đích thực.",
-        "Ông từng là một vận động viên đua xe F1 chuyên nghiệp cho đội Ferrari.",
-        "Ông sinh ra và lớn lên tại một tu viện cổ kính trên dãy núi tuyết Himalaya."
+        "Ông sinh ra và lớn lên tại một tu viện cổ kính trên dãy núi tuyết Himalaya.",
+        "Ông từng là một thẩm phán tòa án tối cao trước khi chuyển sang làm đạo diễn điện ảnh.",
+        "Ông từng là một vận động viên đua xe F1 chuyên nghiệp cho đội Ferrari."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Robin Sharma chính là nguyên mẫu thực tế của câu chuyện; ông đã tự mình trải nghiệm cuộc khủng hoảng hiện sinh của một luật sư trước khi viết nên cuốn sách."
     },
     {
       "id": "q2",
       "question": "Cuốn sách 'Vị Tu Sĩ Bán Chiếc Ferrari' ban đầu được xuất bản như thế nào trước khi trở thành hiện tượng toàn cầu?",
       "options": [
-        "Được phát hành dưới dạng bản thảo mật chỉ dành riêng cho giới thượng lưu.",
+        "Được một tập đoàn xuất bản lớn nhất nước Mỹ chi hàng triệu đô-la để quảng cáo rầm rộ ngay từ đầu.",
         "Được chính phủ Canada tài trợ 100% kinh phí phát hành miễn phí cho học sinh.",
         "Tác giả tự xuất bản một số lượng nhỏ tại một cửa hàng photocopy địa phương và mẹ ông là người biên tập, bán từng cuốn từ cốp xe ô tô của mình.",
-        "Được một tập đoàn xuất bản lớn nhất nước Mỹ chi hàng triệu đô-la để quảng cáo rầm rộ ngay từ đầu."
+        "Được phát hành dưới dạng bản thảo mật chỉ dành riêng cho giới thượng lưu."
       ],
       "correctIndex": 2,
       "explanation": "Khởi đầu vô cùng khiêm tốn với sự kiên trì phi thường của Sharma và gia đình đã chứng minh sức mạnh của một thông điệp chân chính có thể chạm đến hàng triệu trái tim."
@@ -32,36 +32,36 @@
       "id": "q3",
       "question": "Tác phẩm nào sau đây cũng là một trong những cuốn sách best-seller lừng danh của Robin Sharma về nghệ thuật làm chủ bản thân và thói quen buổi sáng?",
       "options": [
+        "'The 5 AM Club' (Câu lạc bộ 5 giờ sáng) và 'The Leader Who Had No Title' (Nhà lãnh đạo không chức danh).",
         "'Đắc nhân tâm' của Dale Carnegie.",
         "'Nghĩ giàu và làm giàu' của Napoleon Hill.",
-        "'The 5 AM Club' (Câu lạc bộ 5 giờ sáng) và 'The Leader Who Had No Title' (Nhà lãnh đạo không chức danh).",
         "'Chiến tranh và hòa bình' và 'Tội ác và trừng phạt'."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Robin Sharma là tác giả của hàng loạt kiệt tác phát triển bản thân và lãnh đạo toàn cầu như The 5 AM Club, The Monk Who Sold His Ferrari, The Leader Who Had No Title."
     },
     {
       "id": "q4",
       "question": "Khách hàng và đối tượng được Robin Sharma huấn luyện tư vấn lãnh đạo trên thế giới bao gồm những tổ chức nào?",
       "options": [
-        "Chỉ riêng các học sinh tiểu học tại các trường công lập ở Canada.",
-        "Các câu lạc bộ đua xe thể thao chuyên nghiệp tại châu Âu.",
         "Các tập đoàn Fortune 500 (như Microsoft, Nike, FedEx, IBM, Starbucks), các tỷ phú, các nhà lãnh đạo quốc gia và các vận động viên ngôi sao thế giới.",
-        "Các tổ chức tôn giáo bí mật tại khu vực Nam Á."
+        "Các tổ chức tôn giáo bí mật tại khu vực Nam Á.",
+        "Các câu lạc bộ đua xe thể thao chuyên nghiệp tại châu Âu.",
+        "Chỉ riêng các học sinh tiểu học tại các trường công lập ở Canada."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Sharma được công nhận là một trong top 5 chuyên gia lãnh đạo hàng đầu thế giới, người truyền cảm hứng cho những bộ óc kiệt xuất nhất hành tinh."
     },
     {
       "id": "q5",
       "question": "Triết lý cốt lõi của Robin Sharma về 'Nhà lãnh đạo không chức danh' (Lead Without a Title) khẳng định điều gì?",
       "options": [
-        "Chỉ những người có chức danh giám đốc mới được phép đưa ra ý kiến sáng tạo.",
-        "Bạn nên từ chối mọi sự thăng tiến chức vụ để giữ cho danh thiếp luôn trống trơn.",
+        "Lãnh đạo không phải là chức vụ hay quyền lực trên danh thiếp, mà là thái độ làm việc xuất sắc, trách nhiệm và khả năng truyền cảm hứng tích cực cho người khác ở bất kỳ vị trí nào.",
         "Lãnh đạo là việc chỉ dành riêng cho các chính trị gia được bầu cử.",
-        "Lãnh đạo không phải là chức vụ hay quyền lực trên danh thiếp, mà là thái độ làm việc xuất sắc, trách nhiệm và khả năng truyền cảm hứng tích cực cho người khác ở bất kỳ vị trí nào."
+        "Chỉ những người có chức danh giám đốc mới được phép đưa ra ý kiến sáng tạo.",
+        "Bạn nên từ chối mọi sự thăng tiến chức vụ để giữ cho danh thiếp luôn trống trơn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Bất kể bạn là nhân viên quét dọn hay CEO, khi bạn làm công việc của mình với sự đam mê và hoàn hảo tuyệt đối như một nghệ sĩ, bạn là một nhà lãnh đạo chân chính."
     },
     {
@@ -69,8 +69,8 @@
       "question": "Tổ chức từ thiện 'The Robin Sharma Foundation for Children' do ông sáng lập hoạt động nhằm mục đích gì?",
       "options": [
         "Tài trợ cho các giải đua xe thể thao dành cho thanh thiếu niên giàu có.",
-        "Thu thập các đồ chơi công nghệ cao đã qua sử dụng từ các nước phát triển.",
         "Cung cấp các khóa học luật pháp miễn phí cho học sinh trung học.",
+        "Thu thập các đồ chơi công nghệ cao đã qua sử dụng từ các nước phát triển.",
         "Giúp đỡ trẻ em có hoàn cảnh khó khăn trên toàn thế giới được tiếp cận với giáo dục, chăm sóc y tế và phát triển tiềm năng lãnh đạo từ sớm."
       ],
       "correctIndex": 3,
@@ -80,45 +80,45 @@
       "id": "q7",
       "question": "Phong cách truyền cảm hứng đặc trưng của Robin Sharma được độc giả trên thế giới yêu mến nhờ yếu tố nào?",
       "options": [
-        "Đưa ra những lời hứa hẹn làm giàu nhanh chóng trong vòng 24 giờ.",
-        "Sự kết hợp độc đáo giữa văn phong giàu chất thơ, tính triết lý nhân văn sâu sắc và những công thức hành động vô cùng thực tế, kỷ luật và mạnh mẽ.",
+        "Tập trung chỉ trích và lên án gay gắt những người có lối sống chưa hoàn hảo.",
         "Sử dụng nhiều thuật ngữ pháp lý phức tạp và khó hiểu để thể hiện học thức uyên bác.",
-        "Tập trung chỉ trích và lên án gay gắt những người có lối sống chưa hoàn hảo."
+        "Đưa ra những lời hứa hẹn làm giàu nhanh chóng trong vòng 24 giờ.",
+        "Sự kết hợp độc đáo giữa văn phong giàu chất thơ, tính triết lý nhân văn sâu sắc và những công thức hành động vô cùng thực tế, kỷ luật và mạnh mẽ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Những bài giảng và trang sách của Sharma vừa chạm tới trái tim lay động cảm xúc, vừa cung cấp lộ trình thực thi rèn luyện rõ ràng cho người đọc."
     },
     {
       "id": "q8",
       "question": "Nguyên tắc 'Quy luật 20/20/20' trong cuốn 'The 5 AM Club' của Robin Sharma hướng dẫn giờ đầu tiên buổi sáng như thế nào?",
       "options": [
-        "20 phút tắm nước nóng -> 20 phút sấy tóc -> 20 phút chọn quần áo.",
-        "20 phút ăn sáng -> 20 phút xem tivi -> 20 phút ngủ tiếp.",
         "20 phút vận động thể chất ra mồ hôi -> 20 phút tĩnh lặng suy ngẫm/thiền định -> 20 phút học tập/đọc sách phát triển bản thân.",
+        "20 phút ăn sáng -> 20 phút xem tivi -> 20 phút ngủ tiếp.",
+        "20 phút tắm nước nóng -> 20 phút sấy tóc -> 20 phút chọn quần áo.",
         "20 phút kiểm tra mạng xã hội -> 20 phút trả lời email -> 20 phút đọc tin tức."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Công thức 20/20/20 là nghi thức khai mở buổi sáng huyền thoại của Sharma giúp tối ưu hóa sóng não, tăng cường dopamine và thiết lập sự xuất chúng cho cả ngày."
     },
     {
       "id": "q9",
       "question": "Câu nói nổi tiếng của Robin Sharma: 'Mọi sự thay đổi ban đầu đều khó khăn, giữa chừng đều hỗn độn và cuối cùng đều tuyệt đẹp' mang thông điệp gì?",
       "options": [
-        "Sự thay đổi chỉ tuyệt đẹp đối với những người có nhiều tiền bạc.",
-        "Bạn không bao giờ nên thay đổi bất kỳ thói quen nào trong cuộc sống.",
         "Nếu thấy khó khăn thì tốt nhất nên dừng lại ngay để tránh sự hỗn độn.",
-        "Đừng bỏ cuộc khi gặp phải sự xáo trộn và kháng cự trong giai đoạn đầu thay đổi; đó là quy luật tất yếu của quá trình phá kén để tái sinh."
+        "Đừng bỏ cuộc khi gặp phải sự xáo trộn và kháng cự trong giai đoạn đầu thay đổi; đó là quy luật tất yếu của quá trình phá kén để tái sinh.",
+        "Sự thay đổi chỉ tuyệt đẹp đối với những người có nhiều tiền bạc.",
+        "Bạn không bao giờ nên thay đổi bất kỳ thói quen nào trong cuộc sống."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sự kiên định bước qua 'giai đoạn hỗn độn' ở lưng chừng là chìa khóa duy nhất để bạn chạm tới phần thưởng tuyệt mỹ của một nhân cách mới."
     },
     {
       "id": "q10",
       "question": "Quan điểm của Robin Sharma về 'Sự thất bại' trong sự nghiệp và cuộc sống là gì?",
       "options": [
+        "Chỉ có những người thiếu thông minh mới gặp phải thất bại trong công việc.",
         "Cần phải giấu kín mọi thất bại và không bao giờ được phép chia sẻ cho ai biết.",
         "Thất bại là dấu chấm hết vĩnh viễn cho mọi tham vọng của một đời người.",
-        "Chỉ có những người thiếu thông minh mới gặp phải thất bại trong công việc.",
         "Không có thất bại thực sự, chỉ có những kết quả phản hồi và cơ hội học tập; người thành công nhất là người đã thất bại nhiều lần nhất nhưng không bao giờ bỏ cuộc."
       ],
       "correctIndex": 3,
@@ -129,11 +129,11 @@
       "question": "Tại sao Robin Sharma lại coi việc 'Ghi nhật ký hàng ngày' (Journaling) là một vũ khí bí mật của những thiên tài?",
       "options": [
         "Vì viết nhật ký là yêu cầu bắt buộc của các bác sĩ tâm thần điều trị.",
+        "Việc viết ra trang giấy giúp giải tỏa áp lực tâm lý, làm rõ nét tư duy, lưu giữ những bài học sâu sắc và theo dõi tiến trình trưởng thành của bản thân.",
         "Để có bằng chứng đối chiếu khi xảy ra tranh chấp pháp lý với người thân.",
-        "Để sau này xuất bản sách tự truyện kiếm thêm tiền nhuận bút.",
-        "Việc viết ra trang giấy giúp giải tỏa áp lực tâm lý, làm rõ nét tư duy, lưu giữ những bài học sâu sắc và theo dõi tiến trình trưởng thành của bản thân."
+        "Để sau này xuất bản sách tự truyện kiếm thêm tiền nhuận bút."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Cuốn nhật ký là phòng thí nghiệm tâm hồn; nơi bạn đối thoại chân thật nhất với chính mình và điêu khắc nên tầm nhìn cho tương lai."
     },
     {
@@ -141,47 +141,47 @@
       "question": "Thông điệp về 'Sự tử tế và Lòng nhân ái' mà Robin Sharma luôn truyền bá trong mọi bài diễn thuyết là gì?",
       "options": [
         "Lòng tốt là một thứ xa xỉ chỉ nên áp dụng trong các ngày lễ tết.",
-        "Chỉ nên tử tế với những người có khả năng mang lại lợi ích cho bạn.",
         "Sự tử tế là dấu hiệu của sự yếu đuối và thiếu năng lực cạnh tranh trên thương trường.",
-        "Trong một thế giới đầy rẫy sự hoài nghi và lạnh lùng, lòng tốt chân thành và sự trắc ẩn chính là sự dũng cảm và quyền lực tối thượng của con người."
+        "Trong một thế giới đầy rẫy sự hoài nghi và lạnh lùng, lòng tốt chân thành và sự trắc ẩn chính là sự dũng cảm và quyền lực tối thượng của con người.",
+        "Chỉ nên tử tế với những người có khả năng mang lại lợi ích cho bạn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Tử tế không phải là sự mềm yếu mà là đỉnh cao của bản lĩnh; người có trái tim nhân ái lớn nhất là người sở hữu từ trường thu hút mạnh mẽ nhất."
     },
     {
       "id": "q13",
       "question": "Robin Sharma định nghĩa như thế nào về một 'Cuộc đời kiệt tác' (A Masterpiece Life)?",
       "options": [
-        "Một cuộc đời sở hữu bộ sưu tập tranh nghệ thuật đắt giá nhất thế giới.",
-        "Một cuộc đời có tên tuổi được khắc trên các tượng đài đá công cộng.",
         "Một cuộc đời mà bạn sống hết mình với đam mê, liên tục hoàn thiện bản thân, yêu thương tha nhân sâu sắc và để lại một thế giới tốt đẹp hơn lúc bạn bước vào.",
-        "Một cuộc đời không bao giờ phải chịu bất kỳ một ngày lao động vất vả nào."
+        "Một cuộc đời không bao giờ phải chịu bất kỳ một ngày lao động vất vả nào.",
+        "Một cuộc đời có tên tuổi được khắc trên các tượng đài đá công cộng.",
+        "Một cuộc đời sở hữu bộ sưu tập tranh nghệ thuật đắt giá nhất thế giới."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Kiệt tác cuộc đời không đo bằng danh vọng phù du mà đo bằng ngọn lửa nhiệt huyết bạn đã thắp lên và những giá trị nhân văn bạn đã cống hiến cho đời."
     },
     {
       "id": "q14",
       "question": "Lời khuyên đắt giá nhất của Robin Sharma dành cho những ai đang cảm thấy bế tắc và mất phương hướng trong cuộc sống là gì?",
       "options": [
-        "'Đừng để những đám mây đen của ngày hôm nay che khuất vầng mặt trời rực rỡ bên trong bạn; hãy hít một hơi thở sâu, tha thứ cho quá khứ và dũng cảm bước tiếp!'.",
-        "'Hãy chấp nhận rằng bạn là một người bất hạnh và không thể thay đổi được số phận'.",
+        "'Hãy chờ đợi sự giúp đỡ tài chính từ những người thân giàu có'.",
         "'Hãy tìm một nơi vắng vẻ để trốn chạy khỏi mọi trách nhiệm của cuộc sống'.",
-        "'Hãy chờ đợi sự giúp đỡ tài chính từ những người thân giàu có'."
+        "'Hãy chấp nhận rằng bạn là một người bất hạnh và không thể thay đổi được số phận'.",
+        "'Đừng để những đám mây đen của ngày hôm nay che khuất vầng mặt trời rực rỡ bên trong bạn; hãy hít một hơi thở sâu, tha thứ cho quá khứ và dũng cảm bước tiếp!'."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Sức mạnh tái sinh luôn nằm sẵn bên trong bạn; chỉ cần bạn giữ vững niềm tin và tiến bước, ánh sáng bình minh chắc chắn sẽ xua tan màn đêm tăm tối."
     },
     {
       "id": "q15",
       "question": "Di sản lớn nhất mà cuốn sách 'Vị Tu Sĩ Bán Chiếc Ferrari' và tác giả Robin Sharma để lại cho nhân loại là gì?",
       "options": [
-        "Một tấm bản đồ minh triết vượt thời gian giúp hàng triệu con người trên khắp hành tinh thức tỉnh, tìm lại bình an nội tại và sống một cuộc đời rực rỡ phi thường.",
+        "Một bản hướng dẫn kỹ thuật bảo dưỡng các loại siêu xe thể thao đắt tiền.",
         "Một bộ sưu tập các bức ảnh phong cảnh đẹp mắt về dãy núi tuyết Himalaya.",
         "Một chuỗi các nhà hàng ẩm thực chay sang trọng tại các thành phố lớn.",
-        "Một bản hướng dẫn kỹ thuật bảo dưỡng các loại siêu xe thể thao đắt tiền."
+        "Một tấm bản đồ minh triết vượt thời gian giúp hàng triệu con người trên khắp hành tinh thức tỉnh, tìm lại bình an nội tại và sống một cuộc đời rực rỡ phi thường."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Cuốn sách đã và đang tiếp tục là ngọn hải đăng cứu rỗi và dẫn lối cho muôn vàn tâm hồn vượt qua giông bão cuộc đời để cập bến hạnh phúc vĩnh cửu."
     }
   ]

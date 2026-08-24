@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Trong 'Thời đại nối kết' (The Connected Age) và thế giới phẳng, tài sản chiến lược quý giá nhất của một cá nhân và tổ chức là gì?",
       "options": [
-        "Việc sở hữu một đội ngũ luật sư chuyên đi khởi kiện các đối thủ cạnh tranh.",
         "Mạng lưới lòng tin, năng lực thấu cảm, khả năng cộng tác đa văn hóa và uy tín xã hội vững chắc được xây dựng qua năm tháng.",
+        "Số lượng máy móc nhà xưởng và diện tích đất đai bất động sản sở hữu.",
         "Khả năng lưu trữ dữ liệu thông tin bí mật trong các két sắt an toàn.",
-        "Số lượng máy móc nhà xưởng và diện tích đất đai bất động sản sở hữu."
+        "Việc sở hữu một đội ngũ luật sư chuyên đi khởi kiện các đối thủ cạnh tranh."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Trong kỷ nguyên số, thông tin và công nghệ đều có thể sao chép, nhưng mạng lưới lòng tin và sự gắn kết chân thành giữa con người là tài sản duy nhất không thể bị thay thế."
     },
     {
@@ -21,9 +21,9 @@
       "question": "Mô hình quyền lực trong thời đại mới đã chuyển dịch như thế nào từ 'Mô hình tháp quyền lực' (Hierarchical Pyramid) sang 'Mô hình mạng lưới' (Web of Networks)?",
       "options": [
         "Quyền lực không còn nằm ở chức danh hay vị trí áp đặt từ trên xuống, mà nằm ở các nút giao thông trung tâm (Hubs) có khả năng kết nối, chia sẻ và tạo ra giá trị cho cộng đồng.",
-        "Quyền lực chỉ thuộc về những ai nắm giữ các mật mã thuật toán máy tính.",
         "Quyền lực hoàn toàn thuộc về những người sở hữu các tập đoàn truyền hình truyền thống.",
-        "Mọi tổ chức trên thế giới đều không còn cần đến người lãnh đạo nữa."
+        "Mọi tổ chức trên thế giới đều không còn cần đến người lãnh đạo nữa.",
+        "Quyền lực chỉ thuộc về những ai nắm giữ các mật mã thuật toán máy tính."
       ],
       "correctIndex": 0,
       "explanation": "Quyền lực mềm dựa trên sự ảnh hưởng và kết nối đang thay thế quyền lực cứng độc đoán; người có khả năng quy tụ nhân tài là người làm chủ tương lai."
@@ -32,24 +32,24 @@
       "id": "q3",
       "question": "Tại sao việc 'Chia sẻ mã nguồn mở và kiến thức miễn phí' lại trở thành chiến lược thống trị của các doanh nghiệp dẫn đầu trong kỷ nguyên kết nối?",
       "options": [
-        "Vì luật pháp quốc tế cấm việc bán các phần mềm có bản quyền thương mại.",
-        "Vì càng cho đi tri thức và tiêu chuẩn mở, bạn càng thu hút được hàng triệu người tham gia vào hệ sinh thái, biến mạng lưới của bạn thành tiêu chuẩn toàn cầu.",
+        "Vì các công ty công nghệ không cần phải kiếm lợi nhuận tài chính.",
         "Vì việc chia sẻ miễn phí giúp doanh nghiệp không phải nộp thuế thu nhập.",
-        "Vì các công ty công nghệ không cần phải kiếm lợi nhuận tài chính."
+        "Vì càng cho đi tri thức và tiêu chuẩn mở, bạn càng thu hút được hàng triệu người tham gia vào hệ sinh thái, biến mạng lưới của bạn thành tiêu chuẩn toàn cầu.",
+        "Vì luật pháp quốc tế cấm việc bán các phần mềm có bản quyền thương mại."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Định luật mạng lưới (Network Effects): giá trị của mạng lưới tăng theo bình phương số người tham gia; hào phóng chia sẻ là cách thông minh nhất để dẫn dắt hệ sinh thái."
     },
     {
       "id": "q4",
       "question": "Kỹ năng 'Thấu cảm xã hội và Trí tuệ cảm xúc' (EQ & Social Intelligence) trở thành lợi thế cạnh tranh sống còn trước sự bùng nổ của Trí tuệ nhân tạo (AI) vì lý do gì?",
       "options": [
-        "Vì các máy tính AI luôn có chi phí sử dụng đắt đỏ hơn thuê nhân viên con người.",
         "Vì luật pháp quốc tế cấm AI không được phép tham gia vào các cuộc đàm phán thương mại.",
-        "AI có thể xử lý dữ liệu và tính toán siêu việt, nhưng chỉ có con người mới có khả năng cảm nhận nỗi đau, thấu hiểu khát vọng, truyền cảm hứng và xây dựng lòng tin thiêng liêng.",
-        "Vì AI sẽ không bao giờ có thể học được các thuật ngữ kinh doanh."
+        "Vì các máy tính AI luôn có chi phí sử dụng đắt đỏ hơn thuê nhân viên con người.",
+        "Vì AI sẽ không bao giờ có thể học được các thuật ngữ kinh doanh.",
+        "AI có thể xử lý dữ liệu và tính toán siêu việt, nhưng chỉ có con người mới có khả năng cảm nhận nỗi đau, thấu hiểu khát vọng, truyền cảm hứng và xây dựng lòng tin thiêng liêng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Những gì thuộc về trái tim, tình trắc ẩn và sự gắn kết tâm hồn là lãnh địa độc tôn của con người; rèn luyện EQ là bảo hiểm tương lai cho sự nghiệp của bạn."
     },
     {
@@ -57,9 +57,9 @@
       "question": "Khái niệm 'Người tiêu dùng thông thái và Mạng lưới đánh giá cộng đồng' (Crowd Wisdom) thay đổi cách doanh nghiệp xây dựng uy tín như thế nào?",
       "options": [
         "Sự giả tạo và sản phẩm kém chất lượng không còn chỗ trốn; sự minh bạch tuyệt đối và cam kết phụng sự chân thành là con đường sống sót duy nhất của thương hiệu.",
+        "Doanh nghiệp chỉ cần chi thật nhiều tiền cho quảng cáo truyền hình để bịt miệng khách hàng.",
         "Khách hàng không còn quan tâm đến chất lượng thực tế của sản phẩm nữa.",
-        "Mọi đánh giá tiêu cực trên mạng xã hội đều có thể xóa bỏ hoàn toàn bằng tiền.",
-        "Doanh nghiệp chỉ cần chi thật nhiều tiền cho quảng cáo truyền hình để bịt miệng khách hàng."
+        "Mọi đánh giá tiêu cực trên mạng xã hội đều có thể xóa bỏ hoàn toàn bằng tiền."
       ],
       "correctIndex": 0,
       "explanation": "Trong thế giới siêu kết nối, tiếng nói của khách hàng có sức mạnh hủy diệt hoặc nâng tầm một thương hiệu trong chớp mắt; sự chính trực là chiếc khiên bảo vệ duy nhất."
@@ -68,12 +68,12 @@
       "id": "q6",
       "question": "Một nhà lãnh đạo thời đại kết nối (Connected Leader) cần từ bỏ tư duy quản lý lỗi thời nào sau đây?",
       "options": [
-        "Tư duy xây dựng văn hóa làm việc minh bạch và hợp tác đa phòng ban.",
         "Tư duy 'Kiểm soát và Chỉ huy' (Command & Control), giấu giếm thông tin và xem nhân viên như những bánh răng vô cảm trong cỗ máy kiếm tiền.",
         "Tư duy lắng nghe và trao quyền cho nhân viên cấp dưới sáng tạo.",
+        "Tư duy xây dựng văn hóa làm việc minh bạch và hợp tác đa phòng ban.",
         "Tư duy khuyến khích nhân viên tham gia các hoạt động thiện nguyện xã hội."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Chuyển từ 'Kiểm soát' sang 'Truyền cảm hứng và Kết nối' là bước tiến hóa bắt buộc của mọi nhà lãnh đạo muốn dẫn dắt tổ chức trong kỷ nguyên mới."
     },
     {
@@ -116,12 +116,12 @@
       "id": "q10",
       "question": "Làm thế nào để ứng dụng công nghệ số một cách thông minh nhằm phục vụ cho mục tiêu kết nối con người?",
       "options": [
-        "Cắt đứt toàn bộ liên lạc với thế giới bên ngoài và chỉ sống trong thế giới thực tế ảo.",
-        "Thay thế toàn bộ các cuộc gặp mặt trực tiếp bằng việc trò chuyện với các robot ảo.",
         "Dùng công nghệ như một chiếc cầu nối ban đầu và công cụ lưu trữ dữ liệu, nhưng luôn hướng tới những cuộc gặp gỡ trực tiếp và sự thấu cảm sâu sắc ngoài đời thực.",
-        "Dành 18 tiếng mỗi ngày để lướt mạng xã hội xem video giải trí ngắn."
+        "Thay thế toàn bộ các cuộc gặp mặt trực tiếp bằng việc trò chuyện với các robot ảo.",
+        "Dành 18 tiếng mỗi ngày để lướt mạng xã hội xem video giải trí ngắn.",
+        "Cắt đứt toàn bộ liên lạc với thế giới bên ngoài và chỉ sống trong thế giới thực tế ảo."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Công nghệ là phương tiện, con người là mục đích; hãy để công nghệ đưa chúng ta đến gần nhau hơn thay vì biến chúng ta thành những hòn đảo cô độc."
     },
     {
@@ -140,24 +140,24 @@
       "id": "q12",
       "question": "Một trường đại học hoặc tổ chức giáo dục trong thời đại kết nối cần đào tạo kỹ năng gì cho sinh viên để họ không bị đào thải?",
       "options": [
-        "Kỹ năng học thuộc lòng toàn bộ các cuốn sách giáo khoa từ đầu đến cuối.",
-        "Kỹ năng làm bài thi trắc nghiệm trong phòng thi cách ly hoàn toàn.",
+        "Kỹ năng gõ bàn phím với tốc độ 200 từ mỗi phút mà không cần suy nghĩ.",
         "Kỹ năng xây dựng mạng lưới quan hệ, trí tuệ cảm xúc (EQ), tư duy phản biện sáng tạo và tinh thần phụng sự cộng đồng.",
-        "Kỹ năng gõ bàn phím với tốc độ 200 từ mỗi phút mà không cần suy nghĩ."
+        "Kỹ năng làm bài thi trắc nghiệm trong phòng thi cách ly hoàn toàn.",
+        "Kỹ năng học thuộc lòng toàn bộ các cuốn sách giáo khoa từ đầu đến cuối."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Kiến thức hàn lâm có thể tra cứu trong 1 giây trên internet; năng lực kết nối con người và giải quyết các bài toán phức tạp mới là vũ khí tối thượng của tương lai."
     },
     {
       "id": "q13",
       "question": "Tại sao việc 'Duy trì sự chính trực và tính chân thực tuyệt đối' lại là chiếc neo an toàn nhất trong thời đại thông tin bùng nổ?",
       "options": [
+        "Vì trong một thế giới minh bạch, mọi hành vi dối trá đều sẽ bị phơi bày tức thì; danh dự và sự chính trực là tài sản duy nhất giúp bạn đứng vững trước mọi cơn bão truyền thông.",
         "Vì sự chính trực giúp bạn được các ngân hàng cho vay tiền không cần thế chấp.",
-        "Vì đó là tiêu chuẩn bắt buộc để được cấp hộ chiếu quốc tế.",
         "Vì người chính trực sẽ không bao giờ bị đối thủ cạnh tranh trên thương trường.",
-        "Vì trong một thế giới minh bạch, mọi hành vi dối trá đều sẽ bị phơi bày tức thì; danh dự và sự chính trực là tài sản duy nhất giúp bạn đứng vững trước mọi cơn bão truyền thông."
+        "Vì đó là tiêu chuẩn bắt buộc để được cấp hộ chiếu quốc tế."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Trong kỷ nguyên của sự minh bạch toàn cầu, nhân cách trong sáng chính là thương hiệu bất tử và là nguồn vốn xã hội hùng mạnh nhất của bạn."
     },
     {

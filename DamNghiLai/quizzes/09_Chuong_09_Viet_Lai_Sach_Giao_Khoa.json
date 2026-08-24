@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Phương pháp giảng dạy đột phá của giáo viên lịch sử Erin McCarthy tại Wisconsin được Adam Grant ca ngợi là gì?",
       "options": [
-        "Cấm học sinh đọc bất kỳ tài liệu lịch sử nào ngoài cuốn sách do nhà trường cấp.",
-        "Cho học sinh xem các bộ phim hành động Hollywood để học về các cuộc chiến tranh cổ đại.",
+        "Bà yêu cầu học sinh đóng vai những thám tử lịch sử: Đọc các sách giáo khoa từ các thời kỳ khác nhau, phát hiện ra những sai sót, định kiến và tự mình 'viết lại sách giáo khoa'.",
         "Bắt buộc học sinh phải học thuộc lòng toàn bộ các mốc năm tháng lịch sử trong sách giáo khoa.",
-        "Bà yêu cầu học sinh đóng vai những thám tử lịch sử: Đọc các sách giáo khoa từ các thời kỳ khác nhau, phát hiện ra những sai sót, định kiến và tự mình 'viết lại sách giáo khoa'."
+        "Cho học sinh xem các bộ phim hành động Hollywood để học về các cuộc chiến tranh cổ đại.",
+        "Cấm học sinh đọc bất kỳ tài liệu lịch sử nào ngoài cuốn sách do nhà trường cấp."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Bằng cách dạy học sinh rằng kiến thức lịch sử không phải là bất biến mà liên tục được viết lại dựa trên các bằng chứng khảo cổ mới, bà đã khơi dậy niềm đam mê tư duy phản biện của học sinh."
     },
     {
@@ -32,12 +32,12 @@
       "id": "q3",
       "question": "Phương pháp 'Học tập dựa trên vấn đề' (Problem-Based Learning) và 'Lớp học đảo ngược' (Flipped Classroom) mang lại lợi ích gì?",
       "options": [
+        "Bãi bỏ hoàn toàn vai trò của giáo viên trong nhà trường.",
         "Cho phép học sinh ngủ trong giờ học lý thuyết và chỉ làm bài kiểm tra vào cuối kỳ.",
         "Đặt học sinh vào trung tâm của bài toán thực tế, khuyến khích các em tự tìm tòi dữ liệu, tranh luận nhóm và tái cấu trúc hiểu biết thông qua quá trình thử và sai.",
-        "Bãi bỏ hoàn toàn vai trò của giáo viên trong nhà trường.",
         "Chỉ áp dụng cho những học sinh có hoàn cảnh gia đình đặc biệt khó khăn."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Học tập chủ động (Active Learning) buộc não bộ phải vận động, kiểm chứng các giả thuyết và tiếp thu kiến thức sâu sắc gấp nhiều lần so với nghe giảng một chiều."
     },
     {
@@ -45,9 +45,9 @@
       "question": "Tại sao việc dạy học sinh 'Chất vấn các tiền đề của chính giáo viên' lại là một bước tiến vĩ đại trong sư phạm?",
       "options": [
         "Nó phá vỡ sự sùng bái quyền uy mù quáng, dạy cho học sinh hiểu rằng chân lý khoa học thuộc về bằng chứng khách quan chứ không thuộc về vị trí hay bằng cấp của người nói.",
-        "Nó khiến cho lớp học trở nên hỗn loạn và mất trật tự kỷ luật.",
         "Đây là một hành vi vi phạm nghiêm trọng đạo đức tôn sư trọng đạo truyền thống.",
-        "Nó làm giảm uy tín và quyền lực của ban giám hiệu nhà trường."
+        "Nó làm giảm uy tín và quyền lực của ban giám hiệu nhà trường.",
+        "Nó khiến cho lớp học trở nên hỗn loạn và mất trật tự kỷ luật."
       ],
       "correctIndex": 0,
       "explanation": "Người thầy vĩ đại không đào tạo ra những môn đệ phục tùng; người thầy vĩ đại đào tạo ra những bộ óc tự do có khả năng vượt qua chính người thầy của mình."
@@ -56,12 +56,12 @@
       "id": "q5",
       "question": "Thí nghiệm về 'Tác động của việc học từ bài giảng xuất sắc vs Học chủ động' của nhà vật lý Nobel Carl Wieman cho thấy điều gì?",
       "options": [
-        "Sinh viên không thể tiếp thu được bất kỳ kiến thức vật lý nào nếu không có máy tính cá nhân.",
         "Nghe giảng một chiều luôn mang lại điểm số cao gấp đôi so với lớp học chủ động.",
         "Sinh viên CẢM THẤY mình học được nhiều hơn từ bài giảng một chiều trôi chảy (ảo tưởng hiểu biết), nhưng KẾT QUẢ KIỂM TRA THỰC TẾ lại chứng minh họ hiểu sâu và nhớ lâu hơn nhiều từ lớp học chủ động.",
+        "Sinh viên không thể tiếp thu được bất kỳ kiến thức vật lý nào nếu không có máy tính cá nhân.",
         "Cả hai phương pháp đều mang lại kết quả học tập hoàn toàn giống nhau."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Ảo tưởng về sự trôi chảy (Fluency Illusion): Khi nghe một bài giảng mượt mà, não bộ bị đánh lừa rằng mình đã hiểu; chỉ khi tự tay vật lộn giải quyết vấn đề, kiến thức mới thực sự được khắc sâu."
     },
     {
@@ -80,21 +80,21 @@
       "id": "q7",
       "question": "Tại sao việc đưa 'Lịch sử của những sai lầm khoa học' vào chương trình giảng dạy lại có giá trị giáo dục to lớn?",
       "options": [
-        "Để chứng minh rằng tất cả các nhà khoa học trong quá khứ đều là những kẻ lừa đảo.",
+        "Học sinh sẽ nhận ra rằng khoa học không phải là một tập hợp các giáo điều bất biến, mà là một hành trình liên tục tự sửa sai đầy dũng cảm của các bộ óc vĩ đại.",
         "Để làm giảm bớt thời lượng học các môn khoa học tự nhiên trong nhà trường.",
-        "Nhằm mục đích giải trí và gây cười cho học sinh trong giờ học.",
-        "Học sinh sẽ nhận ra rằng khoa học không phải là một tập hợp các giáo điều bất biến, mà là một hành trình liên tục tự sửa sai đầy dũng cảm của các bộ óc vĩ đại."
+        "Để chứng minh rằng tất cả các nhà khoa học trong quá khứ đều là những kẻ lừa đảo.",
+        "Nhằm mục đích giải trí và gây cười cho học sinh trong giờ học."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Khi thấy các bậc thiên tài như Einstein hay Newton cũng từng mắc sai lầm và liên tục tái tư duy, học sinh sẽ không còn sợ hãi thất bại và nuôi dưỡng tinh thần dám dấn thân."
     },
     {
       "id": "q8",
       "question": "Khái niệm 'Sự tò mò nhận thức' (Epistemic Curiosity) được nuôi dưỡng trong môi trường học đường như thế nào?",
       "options": [
+        "Bằng cách giao thật nhiều bài tập về nhà lặp đi lặp lại để học sinh không có thời gian rảnh.",
         "Bằng cách phạt điểm thật nặng những học sinh không làm bài tập đúng hạn.",
         "Bằng cách cấm học sinh sử dụng thư viện điện tử của trường học.",
-        "Bằng cách giao thật nhiều bài tập về nhà lặp đi lặp lại để học sinh không có thời gian rảnh.",
         "Bằng cách tạo ra những 'Khoảng trống tri thức' (Knowledge Gaps): Cho học sinh thấy những điều kỳ lạ, những nghịch lý chưa có lời giải để kích thích khao khát tự mình tìm tòi khám phá."
       ],
       "correctIndex": 3,
@@ -116,12 +116,12 @@
       "id": "q10",
       "question": "Sự nguy hiểm của việc 'Dạy học theo phương pháp ghi nhớ để phục vụ thi cử' (Teaching to the Test) đối với tương lai của một quốc gia là gì?",
       "options": [
-        "Làm tăng tỷ lệ đỗ đại học của toàn thể học sinh lên mức 100%.",
-        "Không gây ra bất kỳ ảnh hưởng nào đối với nền kinh tế tri thức tương lai.",
         "Giúp quốc gia tiết kiệm được ngân sách đầu tư cho giáo dục và đào tạo.",
-        "Tạo ra một thế hệ những người máy sinh học chỉ biết tuân theo quy trình có sẵn, hoàn toàn bất lực và tê liệt trước những vấn đề mới lạ chưa từng có tiền lệ."
+        "Tạo ra một thế hệ những người máy sinh học chỉ biết tuân theo quy trình có sẵn, hoàn toàn bất lực và tê liệt trước những vấn đề mới lạ chưa từng có tiền lệ.",
+        "Làm tăng tỷ lệ đỗ đại học của toàn thể học sinh lên mức 100%.",
+        "Không gây ra bất kỳ ảnh hưởng nào đối với nền kinh tế tri thức tương lai."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Trong kỷ nguyên AI, những gì có thể ghi nhớ máy móc sẽ bị máy móc thay thế; thứ duy nhất giúp con người vượt trội là năng lực tư duy phản biện, sáng tạo và tái tư duy."
     },
     {
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Thông điệp đắt giá nhất của Chương 9 về cuộc cách mạng viết lại sách giáo khoa là gì?",
       "options": [
-        "'Hãy đốt bỏ toàn bộ sách giáo khoa và không cần đến trường học nữa'.",
-        "'Giáo dục không phải là việc đổ đầy một chiếc bình rỗng bằng những giáo điều cũ, mà là việc thắp sáng một ngọn lửa tò mò và trao cho học sinh lòng dũng cảm liên tục viết lại hiểu biết của mình về thế giới!'.",
         "'Sách giáo khoa luôn luôn đúng và không một ai có quyền được chất vấn nội dung trong sách'.",
-        "'Học thuộc lòng là con đường duy nhất dẫn đến sự thành đạt trong xã hội hiện đại'."
+        "'Học thuộc lòng là con đường duy nhất dẫn đến sự thành đạt trong xã hội hiện đại'.",
+        "'Hãy đốt bỏ toàn bộ sách giáo khoa và không cần đến trường học nữa'.",
+        "'Giáo dục không phải là việc đổ đầy một chiếc bình rỗng bằng những giáo điều cũ, mà là việc thắp sáng một ngọn lửa tò mò và trao cho học sinh lòng dũng cảm liên tục viết lại hiểu biết của mình về thế giới!'."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Sách giáo khoa chỉ là điểm khởi đầu, không phải là đích đến cuối cùng; một nền giáo dục khai phóng là nền giáo dục dạy học sinh trở thành những tác giả tự viết nên tương lai của chính mình."
     }
   ]

@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Trong chương '78. Sống cuộc đời mình', luận điểm cốt lõi nào sau đây phản ánh chính xác nhất triết lý của Robin Sharma?",
       "options": [
+        "Sự vĩ đại bắt đầu từ việc làm chủ nội tâm, can đảm sống đúng với giá trị bản thân và hành động xuất sắc vượt trên sự tầm thường.",
         "Chờ đợi sự hoàn hảo và sự cho phép của người khác trước khi dấn thân hành động.",
         "Thành công chỉ đến khi bạn có được một vị trí quyền lực và chức danh cao trong tổ chức.",
-        "Sự vĩ đại bắt đầu từ việc làm chủ nội tâm, can đảm sống đúng với giá trị bản thân và hành động xuất sắc vượt trên sự tầm thường.",
         "Nên lựa chọn con đường an toàn, tránh né mọi xung đột và rủi ro để bảo toàn vị thế hiện tại."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Thông điệp xuyên suốt của 'Sống cuộc đời mình' là sự thức tỉnh: mỗi cá nhân đều có tiềm năng ngoại hạng để tạo nên sự khác biệt khi từ bỏ sự thỏa hiệp và sống hết mình."
     },
     {
@@ -44,9 +44,9 @@
       "id": "q4",
       "question": "Theo phân tích tâm lý trong sách, đâu là lý do sâu xa khiến nhiều người biết rõ bài học 'Sống cuộc đời mình' nhưng vẫn không chịu thay đổi?",
       "options": [
+        "Họ chưa tìm được một cuốn sách hướng dẫn chi tiết từng bước một.",
         "Họ thiếu các công cụ kỹ thuật số và thiết bị hiện đại để quản lý thời gian.",
         "Họ đã đạt tới đỉnh cao của sự nghiệp nên không còn nhu cầu phát triển.",
-        "Họ chưa tìm được một cuốn sách hướng dẫn chi tiết từng bước một.",
         "Họ bị tê liệt bởi nỗi sợ bị phán xét, sợ thất bại và sự cám dỗ của vùng an toàn quen thuộc."
       ],
       "correctIndex": 3,
@@ -56,12 +56,12 @@
       "id": "q5",
       "question": "Tại sao tác giả khẳng định việc kiên trì thực hành các hành động nhỏ liên quan đến 'Sống cuộc đời mình' sẽ tạo ra bước nhảy vọt sau một thời gian dài?",
       "options": [
-        "Vì chỉ cần sau một đêm may mắn là mọi nỗ lực nhỏ sẽ tự động biến thành thành công rực rỡ.",
-        "Vì sức mạnh của lãi kép hành vi: Những cải tiến nhỏ 1% mỗi ngày tích lũy liên tục sẽ tạo nên năng lực vượt trội mà người khác không thể bắt kịp.",
+        "Vì các giải thưởng xã hội luôn được trao cho những ai làm việc nhẹ nhàng nhất.",
         "Vì người khác sẽ tự động làm thay công việc cho bạn nếu bạn kiên trì.",
-        "Vì các giải thưởng xã hội luôn được trao cho những ai làm việc nhẹ nhàng nhất."
+        "Vì sức mạnh của lãi kép hành vi: Những cải tiến nhỏ 1% mỗi ngày tích lũy liên tục sẽ tạo nên năng lực vượt trội mà người khác không thể bắt kịp.",
+        "Vì chỉ cần sau một đêm may mắn là mọi nỗ lực nhỏ sẽ tự động biến thành thành công rực rỡ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Quy luật tích lũy vi mô: Những thói quen tốt lặp đi lặp lại hàng ngày trong âm thầm sẽ tạo nên đột phá ngoạn mục về năng lực và vị thế cá nhân."
     },
     {
@@ -69,11 +69,11 @@
       "question": "Nghịch lý lớn nhất được chỉ ra trong chương '78. Sống cuộc đời mình' là gì?",
       "options": [
         "Càng đọc nhiều sách thì con người càng trở nên lười biếng hơn.",
+        "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ.",
         "Làm việc càng ít thì chất lượng công việc lại càng cao.",
-        "Những người nổi tiếng nhất là những người không bao giờ phải chịu áp lực.",
-        "Muốn trở nên xuất chúng, bạn phải chấp nhận trải qua cảm giác bỡ ngỡ, khó khăn và thậm chí thất bại tạm thời khi bước ra ngoài giới hạn cũ."
+        "Những người nổi tiếng nhất là những người không bao giờ phải chịu áp lực."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sự trưởng thành chỉ xảy ra ở ranh giới của sự khó chịu; nếu mọi việc đều quá dễ dàng và êm đềm, bạn đang dậm chân tại chỗ."
     },
     {
@@ -104,36 +104,36 @@
       "id": "q9",
       "question": "Khi những nỗ lực áp dụng 'Sống cuộc đời mình' bị người xung quanh hoài nghi hoặc chỉ trích, phản ứng khôn ngoan nhất là gì?",
       "options": [
-        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm.",
         "Đóng cửa không tiếp xúc với bất kỳ ai.",
-        "Bỏ cuộc ngay lập tức để hòa nhập với tập thể.",
-        "Lấy kết quả thực tế và sự kiên định làm câu trả lời, xem lời chỉ trích như một phép thử cho bản lĩnh cá nhân."
+        "Tranh cãi gay gắt trên mạng xã hội để bảo vệ quan điểm.",
+        "Lấy kết quả thực tế và sự kiên định làm câu trả lời, xem lời chỉ trích như một phép thử cho bản lĩnh cá nhân.",
+        "Bỏ cuộc ngay lập tức để hòa nhập với tập thể."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Người có tư tưởng lớn không để những tiếng ồn bên ngoài làm chao đảo định hướng bên trong; kết quả công việc vượt trội chính là lời minh chứng thuyết phục nhất."
     },
     {
       "id": "q10",
       "question": "Trong kỷ nguyên ngập tràn thông tin gây xao nhãng, bài học 'Sống cuộc đời mình' khuyến nghị người đọc bảo vệ tài sản nào quý giá nhất?",
       "options": [
-        "Bộ sưu tập các đồ dùng công nghệ đời mới nhất.",
         "Thời gian nghỉ ngơi thụ động xem video giải trí.",
-        "Số lượng người theo dõi trên mạng xã hội.",
-        "Sự tập trung cao độ và nguồn năng lượng tinh thần để dồn vào những mục tiêu có giá trị tác động cao."
+        "Bộ sưu tập các đồ dùng công nghệ đời mới nhất.",
+        "Sự tập trung cao độ và nguồn năng lượng tinh thần để dồn vào những mục tiêu có giá trị tác động cao.",
+        "Số lượng người theo dõi trên mạng xã hội."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Sự tập trung sâu là siêu năng lực của thế kỷ 21; dồn toàn bộ tâm trí vào việc tạo ra giá trị cốt lõi là con đường duy nhất dẫn tới vị thế chuyên gia đỉnh cao."
     },
     {
       "id": "q11",
       "question": "Mối liên hệ giữa việc chăm sóc sức khỏe thể chất và việc hiện thực hóa các ý tưởng trong 'Sống cuộc đời mình' là gì?",
       "options": [
-        "Người thành công không cần ngủ đủ giấc.",
-        "Sức khỏe chỉ là yếu tố phụ, chỉ cần có ý chí tinh thần là đủ.",
         "Tập thể dục chỉ làm lãng phí thời gian có thể dùng để làm việc.",
-        "Năng lượng thể chất dồi dào là động cơ thúc đẩy sự sáng tạo, sự bền bỉ và khả năng ra quyết định sáng suốt dưới áp lực."
+        "Năng lượng thể chất dồi dào là động cơ thúc đẩy sự sáng tạo, sự bền bỉ và khả năng ra quyết định sáng suốt dưới áp lực.",
+        "Người thành công không cần ngủ đủ giấc.",
+        "Sức khỏe chỉ là yếu tố phụ, chỉ cần có ý chí tinh thần là đủ."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Năng lượng là đơn vị tiền tệ của hiệu suất cao; cơ thể khỏe mạnh và tràn đầy sinh lực giúp bạn duy trì phong độ đỉnh cao bền vững."
     },
     {
@@ -153,9 +153,9 @@
       "question": "Theo triết lý chung của cuốn sách và chương 'Sống cuộc đời mình', thước đo cuối cùng của một cuộc đời thành công rực rỡ là gì?",
       "options": [
         "Mức độ ảnh hưởng tích cực bạn để lại cho cuộc sống của những người xung quanh và di sản ý nghĩa bạn đóng góp cho cộng đồng.",
-        "Mức độ bạn tránh né được mọi va chạm và thử thách trong đời.",
         "Số lượng cuộc họp và email bạn đã xử lý trong sự nghiệp.",
-        "Số lượng tài sản ròng và danh mục bất động sản tích lũy được."
+        "Số lượng tài sản ròng và danh mục bất động sản tích lũy được.",
+        "Mức độ bạn tránh né được mọi va chạm và thử thách trong đời."
       ],
       "correctIndex": 0,
       "explanation": "Cuối cuộc đời, điều đọng lại không phải là bạn đã nhận được bao nhiêu, mà là bạn đã trở thành con người như thế nào và trao đi được những giá trị gì cho thế giới."
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Để tránh việc đọc xong chương sách này mà không tạo ra chuyển biến thực tế, bước hành động quan trọng nhất cần làm ngay hôm nay là gì?",
       "options": [
-        "Kể cho thật nhiều người nghe về những gì mình dự định làm mà không thực hiện.",
-        "Lên danh sách 100 mục tiêu phức tạp nhưng không bắt đầu việc nào.",
         "Chọn ra đúng MỘT thói quen hoặc hành động cốt lõi từ bài học và kiên quyết thực hiện ngay trong vòng 24 giờ tới.",
-        "Chờ đợi đến đầu tháng sau hoặc đầu năm mới rồi mới bắt đầu rèn luyện."
+        "Chờ đợi đến đầu tháng sau hoặc đầu năm mới rồi mới bắt đầu rèn luyện.",
+        "Kể cho thật nhiều người nghe về những gì mình dự định làm mà không thực hiện.",
+        "Lên danh sách 100 mục tiêu phức tạp nhưng không bắt đầu việc nào."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Quy tắc 24 giờ: Ý tưởng không hành động chỉ là ảo ảnh. Bắt đầu ngay với một hành động cụ thể sẽ phá vỡ sức ỳ tâm lý và kích hoạt quán tính thành công."
     },
     {

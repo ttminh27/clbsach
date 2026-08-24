@@ -56,12 +56,12 @@
       "id": "q5",
       "question": "Tác phẩm 'Buddha's Brain' (Bộ Não Của Phật) của Tiến sĩ Rick Hanson trong danh sách tài liệu giải thích điều gì?",
       "options": [
-        "Khoa học thần kinh thực hành về hạnh phúc, tình yêu thương và sự thông thái: cách tự điều chỉnh cấu trúc não bộ bằng các trải nghiệm tâm lý tích cực.",
-        "Phẫu thuật sọ não trong y học hiện đại.",
         "Các quy tắc ăn chay của các nhà sư.",
-        "Lịch sử khảo cổ học về các bức tượng Phật thời cổ đại."
+        "Lịch sử khảo cổ học về các bức tượng Phật thời cổ đại.",
+        "Khoa học thần kinh thực hành về hạnh phúc, tình yêu thương và sự thông thái: cách tự điều chỉnh cấu trúc não bộ bằng các trải nghiệm tâm lý tích cực.",
+        "Phẫu thuật sọ não trong y học hiện đại."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Rick Hanson kết hợp nhuần nhuyễn giữa tuệ giác Phật giáo cổ xưa và khoa học thần kinh hiện đại để hướng dẫn người đọc tự 'tái cấu trúc bộ não' vì hạnh phúc."
     },
     {
@@ -80,48 +80,48 @@
       "id": "q7",
       "question": "Tác phẩm 'The Art of Happiness' (Nghệ Thuật Của Hạnh Phúc) của Đạt Lai Lạt Ma và Howard Cutler được gợi ý nhằm mục đích gì?",
       "options": [
-        "Khám phá nguồn gốc sâu xa của hạnh phúc chân thực bắt nguồn từ sự rèn luyện tâm trí, lòng từ bi vô điều kiện và sự thấu cảm sâu sắc đối với tha nhân.",
-        "Hướng dẫn cách trúng số độc đắc.",
         "Chỉ trích lối sống của các nước công nghiệp phát triển.",
-        "Dạy cách vẽ tranh nghệ thuật để triển lãm."
+        "Dạy cách vẽ tranh nghệ thuật để triển lãm.",
+        "Khám phá nguồn gốc sâu xa của hạnh phúc chân thực bắt nguồn từ sự rèn luyện tâm trí, lòng từ bi vô điều kiện và sự thấu cảm sâu sắc đối với tha nhân.",
+        "Hướng dẫn cách trúng số độc đắc."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Một cuộc đối thoại sâu sắc giữa một nhà tâm thần học phương Tây và một bậc thầy tâm linh phương Đông về nghệ thuật sống an lạc giữa cuộc đời nhiều biến động."
     },
     {
       "id": "q8",
       "question": "Cuốn sách 'Difficult Conversations: How to Discuss What Matters Most' của Nhóm Đàm phán Harvard trong danh mục đọc thêm hướng dẫn kỹ năng gì?",
       "options": [
-        "Cách ngắt lời người khác mà không bị phát hiện.",
-        "Cách nói tiếng nước ngoài trôi chảy trong 30 ngày.",
+        "Khung phương pháp luận thực tế để xử lý những cuộc đối thoại xung đột, căng thẳng và nhạy cảm trong công việc và cuộc sống gia đình một cách hòa ái và hiệu quả.",
         "Cách viết thư nặc danh chỉ trích đồng nghiệp.",
-        "Khung phương pháp luận thực tế để xử lý những cuộc đối thoại xung đột, căng thẳng và nhạy cảm trong công việc và cuộc sống gia đình một cách hòa ái và hiệu quả."
+        "Cách nói tiếng nước ngoài trôi chảy trong 30 ngày.",
+        "Cách ngắt lời người khác mà không bị phát hiện."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Cẩm nang kinh điển giúp chuyển hóa những cuộc tranh cãi độc hại thành các cuộc đối thoại học hỏi mang tính xây dựng và gắn kết quan hệ."
     },
     {
       "id": "q9",
       "question": "Tác phẩm 'Self-Compassion: The Proven Power of Being Kind to Yourself' của Tiến sĩ Kristin Neff trong danh sách tài liệu giải thích về điều gì?",
       "options": [
+        "Sự nuông chiều bản thân và lười biếng trong công việc.",
         "Khoa học và thực hành của 'Lòng trắc ẩn tự thân': cách đối xử tử tế, bao dung và nâng đỡ chính mình khi gặp thất bại, thay vì tự sỉ nhục và phán xét bản thân tàn nhẫn.",
-        "Cách sống ích kỷ không quan tâm đến người khác.",
         "Nghệ thuật tự chụp ảnh chân dung đẹp trên điện thoại.",
-        "Sự nuông chiều bản thân và lười biếng trong công việc."
+        "Cách sống ích kỷ không quan tâm đến người khác."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Kristin Neff tiên phong chứng minh: Lòng trắc ẩn tự thân mang lại sự kiên cường và sức khỏe tinh thần vượt trội hơn nhiều so với việc cố gắng theo đuổi lòng tự trọng hão huyền (Self-esteem)."
     },
     {
       "id": "q10",
       "question": "Cuốn sách 'Drive: The Surprising Truth About What Motivates Us' của Daniel Pink được đưa vào danh mục nhằm đào sâu chủ đề nào?",
       "options": [
-        "Cách thiết kế động cơ xe hơi tiết kiệm nhiên liệu.",
         "Cách ép buộc người khác làm việc bằng tiền thưởng.",
-        "Bí mật khoa học về Động lực nội tại (Quyền tự chủ, Sự tinh thông và Mục đích) giúp tái định hình cách chúng ta làm việc, sáng tạo và lãnh đạo đội ngũ.",
-        "Kỹ thuật lái xe an toàn trên đường cao tốc."
+        "Cách thiết kế động cơ xe hơi tiết kiệm nhiên liệu.",
+        "Kỹ thuật lái xe an toàn trên đường cao tốc.",
+        "Bí mật khoa học về Động lực nội tại (Quyền tự chủ, Sự tinh thông và Mục đích) giúp tái định hình cách chúng ta làm việc, sáng tạo và lãnh đạo đội ngũ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Daniel Pink vạch trần sự lỗi thời của mô hình thưởng-phạt truyền thống và chỉ ra con đường đánh thức ngọn lửa đam mê tự thân của con người."
     },
     {

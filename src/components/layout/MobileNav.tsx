@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Library, History, Headphones, Home } from 'lucide-react';
+import { History, Headphones, Home, Info } from 'lucide-react';
 import { useAudio } from '../../context/AudioContext';
 
 export const MobileNav: React.FC = () => {
@@ -12,7 +12,7 @@ export const MobileNav: React.FC = () => {
       <div className="flex items-center justify-around">
         <Link
           to="/"
-          className={`flex flex-col items-center py-1 px-3 text-[11px] font-medium transition-colors ${
+          className={`flex flex-col items-center py-1 px-2.5 text-[11px] font-medium transition-colors ${
             location.pathname === '/'
               ? 'text-emerald-600 dark:text-emerald-400 font-semibold'
               : 'text-slate-500 dark:text-slate-400'
@@ -23,8 +23,20 @@ export const MobileNav: React.FC = () => {
         </Link>
 
         <Link
+          to="/about"
+          className={`flex flex-col items-center py-1 px-2.5 text-[11px] font-medium transition-colors ${
+            location.pathname === '/about'
+              ? 'text-emerald-600 dark:text-emerald-400 font-semibold'
+              : 'text-slate-500 dark:text-slate-400'
+          }`}
+        >
+          <Info className="h-5 w-5 mb-0.5" />
+          Giới Thiệu
+        </Link>
+
+        <Link
           to="/history"
-          className={`flex flex-col items-center py-1 px-3 text-[11px] font-medium transition-colors ${
+          className={`flex flex-col items-center py-1 px-2.5 text-[11px] font-medium transition-colors ${
             location.pathname === '/history'
               ? 'text-emerald-600 dark:text-emerald-400 font-semibold'
               : 'text-slate-500 dark:text-slate-400'
@@ -37,7 +49,7 @@ export const MobileNav: React.FC = () => {
         {currentTrack && (
           <button
             onClick={() => setIsPlayerModalOpen(true)}
-            className="flex flex-col items-center py-1 px-3 text-[11px] font-medium text-emerald-600 dark:text-emerald-400 animate-pulse"
+            className="flex flex-col items-center py-1 px-2.5 text-[11px] font-medium text-emerald-600 dark:text-emerald-400 animate-pulse"
           >
             <Headphones className="h-5 w-5 mb-0.5" />
             Đang Phát
