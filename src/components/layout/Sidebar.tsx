@@ -372,7 +372,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           <>
             {/* Brand Header */}
             <div className="flex h-16 shrink-0 items-center justify-between px-4 border-b border-slate-200/80 dark:border-slate-800">
-              <div className="flex items-center gap-3 min-w-0">
+              <div className="flex items-center gap-2.5 min-w-0">
                 {onToggleCollapse ? (
                   <button
                     onClick={onToggleCollapse}
@@ -380,11 +380,15 @@ export const Sidebar: React.FC<SidebarProps> = ({
                     title={isCollapsed ? 'Mở rộng sidebar' : 'Thu gọn sidebar'}
                     aria-label="Thu gọn hoặc mở sidebar"
                   >
-                    <Menu className="h-5 w-5" />
+                    {isCollapsed ? (
+                      <img src="/logo-64.png" alt="Logo" className="h-7 w-7 object-contain" />
+                    ) : (
+                      <Menu className="h-5 w-5" />
+                    )}
                   </button>
                 ) : (
                   <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl text-slate-600 dark:text-slate-300">
-                    <Menu className="h-5 w-5" />
+                    <img src="/logo-64.png" alt="Logo" className="h-7 w-7 object-contain" />
                   </div>
                 )}
 
@@ -392,16 +396,17 @@ export const Sidebar: React.FC<SidebarProps> = ({
                   <Link
                     to="/"
                     onClick={() => window.innerWidth < 1024 && onClose()}
-                    className="min-w-0 group"
+                    className="min-w-0 flex items-center gap-2.5 group"
                   >
-                    <div className="flex items-center gap-1.5">
-                      <span className="font-extrabold text-sm sm:text-base tracking-tight text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
+                    <img src="/logo-64.png" alt="Logo" className="h-7 w-7 shrink-0 object-contain" />
+                    <div className="min-w-0">
+                      <span className="font-extrabold text-sm tracking-tight text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors block leading-tight">
                         CLB đọc sách <span className="text-emerald-600 dark:text-emerald-400">VietinBank</span>
                       </span>
+                      <p className="text-[10px] text-slate-400 truncate mt-0.5">
+                        Đọc & Nghe Tỉnh Thức
+                      </p>
                     </div>
-                    <p className="text-[10px] text-slate-400 truncate">
-                      Đọc & Nghe Tỉnh Thức
-                    </p>
                   </Link>
                 )}
               </div>

@@ -7,12 +7,10 @@ export const Footer: React.FC = () => {
     <footer className="border-t border-slate-200 bg-white dark:border-slate-800 dark:bg-slate-900/50 py-10 px-4 sm:px-6 lg:px-8 mt-16 transition-colors pb-24 md:pb-10">
       <div className="mx-auto max-w-7xl flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         <div className="flex flex-col items-center md:items-start gap-2">
-          <div className="flex items-center gap-2">
-            <div className="flex h-7 w-7 items-center justify-center rounded-lg bg-emerald-600 text-white shadow-xs">
-              <BookOpen className="h-4 w-4" />
-            </div>
+          <div className="flex items-center gap-2.5">
+            <img src="/logo-64.png" alt="Logo" className="h-8 w-8 object-contain" />
             <span className="font-bold text-base text-slate-900 dark:text-white">
-              CLB đọc sách VietinBank
+              CLB đọc sách <span className="text-emerald-600 dark:text-emerald-400">VietinBank</span>
             </span>
           </div>
           <p className="text-xs text-slate-500 dark:text-slate-400 max-w-sm">

@@ -16,17 +16,22 @@ export const AboutPage: React.FC = () => {
       {/* Hero Banner */}
       <div className="relative overflow-hidden rounded-3xl bg-gradient-to-r from-emerald-600 via-teal-600 to-slate-900 p-8 sm:p-12 text-white shadow-xl shadow-emerald-950/10 mb-12">
         <div className="absolute right-0 top-0 -mt-10 -mr-10 h-64 w-64 rounded-full bg-white/10 blur-3xl"></div>
-        <div className="relative z-10 max-w-2xl">
-          <div className="inline-flex items-center gap-1.5 rounded-full bg-white/20 px-3 py-1 text-xs font-semibold backdrop-blur-md mb-3">
-            <Sparkles className="h-3.5 w-3.5" />
-            Về Dự Án CLB đọc sách VietinBank
+        <div className="relative z-10 flex flex-col md:flex-row items-center gap-6 justify-between">
+          <div className="max-w-xl">
+            <div className="inline-flex items-center gap-1.5 rounded-full bg-white/20 px-3 py-1 text-xs font-semibold backdrop-blur-md mb-3">
+              <Sparkles className="h-3.5 w-3.5" />
+              Về Dự Án CLB đọc sách VietinBank
+            </div>
+            <h1 className="text-3xl sm:text-4xl font-black tracking-tight">
+              Nơi Nuôi Dưỡng Trí Tuệ & Bình An Nội Tâm
+            </h1>
+            <p className="mt-3 text-sm sm:text-base text-white/90 leading-relaxed">
+              Nền tảng đọc sách điện tử và luyện tập chánh niệm trực tuyến, mang lại trải nghiệm đọc tập trung, tinh gọn và hoàn toàn miễn phí cho mọi người.
+            </p>
           </div>
-          <h1 className="text-3xl sm:text-4xl font-black tracking-tight">
-            Nơi Nuôi Dưỡng Trí Tuệ & Bình An Nội Tâm
-          </h1>
-          <p className="mt-3 text-sm sm:text-base text-white/90 leading-relaxed">
-            Nền tảng đọc sách điện tử và luyện tập chánh niệm trực tuyến, mang lại trải nghiệm đọc tập trung, tinh gọn và hoàn toàn miễn phí cho mọi người.
-          </p>
+          <div className="shrink-0 bg-white/10 p-4 rounded-3xl backdrop-blur-md border border-white/20 shadow-2xl hidden sm:block">
+            <img src="/logo-192.png" alt="CLB đọc sách VietinBank Logo" className="h-24 w-24 object-contain drop-shadow-md" />
+          </div>
         </div>
       </div>
 

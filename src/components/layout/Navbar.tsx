@@ -68,9 +68,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onToggleSidebar, isSidebarCollap
               </button>
             )}
             <Link to="/" className="flex items-center gap-2">
-              <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-tr from-emerald-600 to-teal-500 text-white shadow-xs">
-                <BookOpen className="h-4 w-4" />
-              </div>
+              <img src="/logo-64.png" alt="CLB đọc sách VietinBank Logo" className="h-8 w-8 object-contain" />
               <span className="font-bold text-sm tracking-tight text-slate-900 dark:text-white">
                 CLB đọc sách <span className="text-emerald-600 dark:text-emerald-400">VietinBank</span>
               </span>
