@@ -343,3 +343,69 @@ books.sort((a, b) => {
 
 fs.writeFileSync(manifestPath, JSON.stringify(books, null, 2), 'utf-8');
 console.log(`Generated books manifest successfully: ${books.length} books registered at ${manifestPath}`);
+
+// ==============================================================================
+// Generate sitemap.xml and robots.txt
+// ==============================================================================
+const siteUrl = process.env.SITE_URL || 'https://clbsach.pages.dev';
+const currentDate = new Date().toISOString().split('T')[0];
+const publicDir = path.resolve(rootDir, 'public');
+
+const sitemapUrls = [
+  { loc: `${siteUrl}/`, priority: '1.0', changefreq: 'daily' },
+  { loc: `${siteUrl}/about`, priority: '0.8', changefreq: 'monthly' },
+  { loc: `${siteUrl}/history`, priority: '0.6', changefreq: 'monthly' },
+];
+
+books.forEach((book) => {
+  sitemapUrls.push({
+    loc: `${siteUrl}/book/${book.id}`,
+    priority: '0.9',
+    changefreq: 'weekly',
+  });
+
+  book.chapters.forEach((chapter) => {
+    sitemapUrls.push({
+      loc: `${siteUrl}/reader/${book.id}/${chapter.id}`,
+      priority: '0.8',
+      changefreq: 'weekly',
+    });
+
+    if (chapter.hasQuiz || chapter.quizUrl) {
+      sitemapUrls.push({
+        loc: `${siteUrl}/quiz/${book.id}/${chapter.id}`,
+        priority: '0.7',
+        changefreq: 'monthly',
+      });
+    }
+  });
+});
+
+const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemapUrls
+  .map(
+    (u) => `  <url>
+    <loc>${u.loc}</loc>
+    <lastmod>${currentDate}</lastmod>
+    <changefreq>${u.changefreq}</changefreq>
+    <priority>${u.priority}</priority>
+  </url>`
+  )
+  .join('\n')}
+</urlset>
+`;
+
+const sitemapPath = path.resolve(publicDir, 'sitemap.xml');
+fs.writeFileSync(sitemapPath, sitemapXml, 'utf-8');
+console.log(`Generated sitemap.xml successfully with ${sitemapUrls.length} URLs at ${sitemapPath}`);
+
+const robotsTxt = `User-agent: *
+Allow: /
+
+Sitemap: ${siteUrl}/sitemap.xml
+`;
+const robotsPath = path.resolve(publicDir, 'robots.txt');
+fs.writeFileSync(robotsPath, robotsTxt, 'utf-8');
+console.log(`Generated robots.txt successfully at ${robotsPath}`);
+
