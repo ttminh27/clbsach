@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { History, BookOpen, Clock, Trash2, ArrowRight, CheckCircle2 } from 'lucide-react';
 import { useHistory } from '../context/HistoryContext';
@@ -10,6 +10,10 @@ const books: Book[] = booksData as Book[];
 export const HistoryPage: React.FC = () => {
   const { history, clearHistoryForBook, clearAllHistory } = useHistory();
   const historyList = Object.values(history).sort((a, b) => b.lastReadAt - a.lastReadAt);
+
+  useEffect(() => {
+    document.title = 'Lịch Sử & Tiến Độ Đọc | CLB đọc sách VietinBank';
+  }, []);
 
   return (
     <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-8">

@@ -1,5 +1,6 @@
 import React, { createContext, useContext, useState, useEffect, useRef, useMemo } from 'react';
 import { AudioTrack, Book } from '../types/book';
+import { trackPlayAudio } from '../utils/analytics';
 
 export interface PlayingTrack {
   id: string;
@@ -148,6 +149,7 @@ export const AudioProvider: React.FC<{ children: React.ReactNode }> = ({ childre
     };
     setCurrentTrack(newTrack);
     setIsAudioBarVisible(true);
+    trackPlayAudio(book.id, book.title, track.id, track.title);
 
     if (audioRef.current) {
       audioRef.current.src = track.audioUrl;

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { BookHeader } from '../components/book-detail/BookHeader';
 import { ChapterList } from '../components/book-detail/ChapterList';
@@ -15,6 +15,12 @@ export const BookDetailPage: React.FC = () => {
   const [activeTab, setActiveTab] = useState<'chapters' | 'audios' | 'info'>('chapters');
 
   const book = books.find((b) => b.id === bookId);
+
+  useEffect(() => {
+    if (book) {
+      document.title = `${book.title} - ${book.author} | CLB đọc sách VietinBank`;
+    }
+  }, [book]);
 
   if (!book) {
     return (

@@ -4,6 +4,7 @@ import { ArrowLeft, BookOpen, AlertCircle, Loader2, Home } from 'lucide-react';
 import booksData from '../data/books-manifest.json';
 import { Book, Chapter, ChapterQuiz } from '../types/book';
 import { QuizGame } from '../components/quiz/QuizGame';
+import { trackStartQuiz } from '../utils/analytics';
 
 const books: Book[] = booksData as Book[];
 
@@ -17,6 +18,13 @@ export const QuizPage: React.FC = () => {
 
   const book = books.find((b) => b.id === bookId);
   const chapter = book?.chapters.find((c) => c.id === chapterId);
+
+  useEffect(() => {
+    if (book && chapter) {
+      document.title = `[Quiz] ${chapter.title} - ${book.title} | CLB đọc sách VietinBank`;
+      trackStartQuiz(book.id, book.title, chapter.id, chapter.title);
+    }
+  }, [book, chapter]);
 
   useEffect(() => {
     if (!book || !chapter) {

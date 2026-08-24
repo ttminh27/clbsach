@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import {
   BookOpen,
@@ -11,6 +11,9 @@ import {
 } from 'lucide-react';
 
 export const AboutPage: React.FC = () => {
+  useEffect(() => {
+    document.title = 'Giới Thiệu Dự Án | CLB đọc sách VietinBank';
+  }, []);
   return (
     <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
       {/* Hero Banner */}

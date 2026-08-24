@@ -11,6 +11,8 @@ import { useHistory } from '../context/HistoryContext';
 import { useAudio } from '../context/AudioContext';
 import { Loader2, AlertCircle, Home } from 'lucide-react';
 
+import { trackReadChapter } from '../utils/analytics';
+
 const books: Book[] = booksData as Book[];
 
 export const ReaderPage: React.FC = () => {
@@ -28,6 +30,14 @@ export const ReaderPage: React.FC = () => {
 
   const book = books.find((b) => b.id === bookId);
   const currentChapter = book?.chapters.find((c) => c.id === chapterId);
+
+  // Update page title & track chapter read
+  useEffect(() => {
+    if (book && currentChapter) {
+      document.title = `${currentChapter.title} - ${book.title} | CLB đọc sách VietinBank`;
+      trackReadChapter(book.id, book.title, currentChapter.id, currentChapter.title, currentChapter.order);
+    }
+  }, [book, currentChapter]);
 
   // Fetch Chapter Markdown content
   useEffect(() => {

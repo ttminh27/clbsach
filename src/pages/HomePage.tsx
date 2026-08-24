@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { BookCard } from '../components/home/BookCard';
 import { HistoryBanner } from '../components/home/HistoryBanner';
 import { BookFilter, FilterCategory } from '../components/home/BookFilter';
@@ -12,6 +12,10 @@ const books: Book[] = booksData as Book[];
 export const HomePage: React.FC = () => {
   const [filter, setFilter] = useState<FilterCategory>('all');
   const { history } = useHistory();
+
+  useEffect(() => {
+    document.title = 'CLB đọc sách VietinBank - Đọc Sách & Nghe Audio Trực Tuyến';
+  }, []);
 
   const readingBookIds = useMemo(() => Object.keys(history), [history]);
 

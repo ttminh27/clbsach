@@ -16,6 +16,7 @@ import {
 import confetti from 'canvas-confetti';
 import { ChapterQuiz, QuizQuestion, Book, Chapter } from '../../types/book';
 import { useQuiz } from '../../context/QuizContext';
+import { trackCompleteQuiz } from '../../utils/analytics';
 
 interface QuizGameProps {
   quiz: ChapterQuiz;
@@ -112,6 +113,8 @@ export const QuizGame: React.FC<QuizGameProps> = ({
       completedAt: Date.now(),
       userAnswers: selectedAnswers,
     });
+
+    trackCompleteQuiz(book.id, book.title, chapter.id, chapter.title, score, totalQuestions, percent);
 
     setIsCompleted(true);
 
