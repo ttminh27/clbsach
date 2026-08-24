@@ -1,4 +1,20 @@
+# ==============================================================================
+# Robots.txt - CLB Đọc Sách VietinBank
+# ==============================================================================
+
 User-agent: *
 Allow: /
 
+# Specific search engine crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Sitemap Reference
 Sitemap: https://clbsach.pages.dev/sitemap.xml
+Host: https://clbsach.pages.dev

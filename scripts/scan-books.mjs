@@ -400,12 +400,29 @@ const sitemapPath = path.resolve(publicDir, 'sitemap.xml');
 fs.writeFileSync(sitemapPath, sitemapXml, 'utf-8');
 console.log(`Generated sitemap.xml successfully with ${sitemapUrls.length} URLs at ${sitemapPath}`);
 
-const robotsTxt = `User-agent: *
+const robotsTxt = `# ==============================================================================
+# Robots.txt - CLB Đọc Sách VietinBank
+# ==============================================================================
+
+User-agent: *
 Allow: /
 
+# Specific search engine crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Sitemap Reference
 Sitemap: ${siteUrl}/sitemap.xml
+Host: ${siteUrl}
 `;
 const robotsPath = path.resolve(publicDir, 'robots.txt');
 fs.writeFileSync(robotsPath, robotsTxt, 'utf-8');
 console.log(`Generated robots.txt successfully at ${robotsPath}`);
+
 
