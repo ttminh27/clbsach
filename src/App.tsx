@@ -16,6 +16,12 @@ import { AudioProvider } from './context/AudioContext';
 import { ReaderSettingsProvider } from './context/ReaderSettingsContext';
 import { QuizProvider } from './context/QuizContext';
 
+declare global {
+  interface Window {
+    gtag?: (...args: any[]) => void;
+  }
+}
+
 const AppLayout: React.FC = () => {
   const location = useLocation();
   const isReaderPage = location.pathname.startsWith('/reader/');
@@ -24,10 +30,18 @@ const AppLayout: React.FC = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false);
 
-  // Auto close mobile sidebar when route changes
+  // Auto close mobile sidebar & track page view on route change in Google Analytics
   useEffect(() => {
     setIsSidebarOpen(false);
-  }, [location.pathname]);
+
+    // Track SPA route change in Google Analytics
+    if (typeof window.gtag === 'function') {
+      window.gtag('config', 'G-CG3YSVT2SL', {
+        page_path: location.pathname + location.search,
+        page_title: document.title,
+      });
+    }
+  }, [location.pathname, location.search]);
 
   const handleToggleSidebar = () => {
     if (window.innerWidth >= 1024) {
