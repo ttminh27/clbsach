@@ -32,7 +32,7 @@ Thật vậy, chỉ khi quan tâm đến cách nhìn nhận bản thân (và cá
 
 Điều này sẽ làm hạn chế đáng kể tiềm lực của bản thân và khả năng giao tiếp với người khác. Nhưng nhờ khả năng đặc biệt của con người là sự tự nhận thức nên chúng ta có thể xem xét mô thức của mình để xác định xem chúng là thực tại - dựa trên cơ sở những nguyên tắc - hay chúng phụ thuộc vào điều kiện và hoàn cảnh.
 
-### 1. L ĂNG KÍNH XÃ HỘI
+### 1. LĂNG KÍNH XÃ HỘI
 
 Nếu chúng ta nhìn bản thân thông qua lăng kính xã hội - theo mô thức xã hội đương thời hay theo các ý kiến, nhận thức và mô thức của những người xung quanh - thì chúng ta chẳng khác nào hình ảnh phản chiếu trong phòng cười tại các lễ hội.
 
@@ -68,7 +68,7 @@ Phản ứng Kích thích
 
 “biên giới lãnh thổ” một cách đúng đắn về mặt chức năng và chính xác đến mức nào? Những tấm gương này phản chiếu bản chất con người ra sao? Liệu chúng có trở thành những lời tiên đoán tự thực hiện không? Liệu chúng có dựa trên các nguyên tắc mà chúng ta có thể vận dụng vào chính bản thân mình?
 
-### 2. G IỮA NHÂN TỐ KÍCH THÍCH VÀ PHẢN ỨNG LÀ GÌ?
+### 2. GIỮA NHÂN TỐ KÍCH THÍCH VÀ PHẢN ỨNG LÀ GÌ?
 
 Để trả lời các câu hỏi nêu trên, tôi muốn chia sẻ với các bạn câu chuyện có tính chất xúc tác của Viktor Frankl.
 
@@ -98,7 +98,7 @@ nhận thức của chúng ta giúp chúng ta nhận ra “tấm bản đồ” 
 
 Những khả năng đặc biệt chỉ có ở con người ấy nâng chúng ta vượt ra khỏi thế giới động vật. Sự luyện tập và phát triển những khả năng thiên phú giúp chúng ta có thêm sức mạnh để hoàn thiện các tiềm năng của mình. Nằm ở vị trí giữa sự kích thích và phản ứng là sức mạnh lớn nhất của chúng ta: ***quyền tự do lựa chọn.***
 
-### 3. Đ ỊNH NGHĨA “ TÍNH CHỦ ĐỘNG ”
+### 3. ĐỊNH NGHĨA “TÍNH CHỦ ĐỘNG”
 
 Để khám phá nguyên tắc cơ bản về bản chất con người, Frankl đã mô tả một “bản đồ” bản thân chính xác. Từ đó, ông bắt đầu phát triển thói quen đầu tiên và cơ bản nhất của một con người thành đạt trong mọi hoàn cảnh, đó là thói quen ***luôn ở thế chủ động*** .
 
@@ -168,7 +168,7 @@ Kinh nghiệm của tôi về con người cho thấy quan điểm của Frankl 
 
 Những hoàn cảnh khó khăn thường tạo ra các thay đổi về mô thức, tạo ra những khung tham chiếu hoàn toàn mới mẻ. Dựa vào đó, người ta nhìn thế giới, bản thân và những người khác, cũng như tìm hiểu xem cuộc sống xung quanh đòi hỏi những gì ở họ. Tầm nhìn của họ phản ảnh ***giá trị thái độ, là giá trị nâng cao và tạo nguồn cảm hứng cho tất cả mọi người.
 
-### 4. N ẮM THẾ CHỦ ĐỘNG
+### 4. NẮM THẾ CHỦ ĐỘNG
 
 Bản chất cơ bản của con người là chủ động hành động
 
@@ -194,7 +194,7 @@ Rèn luyện tinh thần trách nhiệm không phải là hạ thấp phẩm gi�
 
 Tất nhiên, điều đó còn tùy thuộc mức độ trưởng thành của mỗi người. Chúng ta không thể kỳ vọng sự hợp tác sáng tạo ở mức độ cao từ những người quá lệ thuộc về mặt tình cảm. Nhưng ít ra, chúng ta vẫn có thể khẳng định bản chất cơ bản của họ và tạo ra một bầu không khí dễ chịu để họ có thể nắm bắt các cơ hội và tự giải quyết vấn đề.
 
-### 5. C HỦ ĐỘNG HÀNH ĐỘNG HAY BỊ ĐỘNG ĐỐI PHÓ?
+### 5. CHỦ ĐỘNG HÀNH ĐỘNG HAY BỊ ĐỘNG ĐỐI PHÓ?
 
 Sự khác nhau giữa người chủ động và bị động cũng giống như sự khác nhau giữa ngày và đêm. Tôi không nói đến sự khác nhau ở mức độ 25 đến 50% của tính hiệu quả, mà là từ 5.000% trở lên, đặc biệt nếu những người chủ động là người thông minh, hiểu biết và nhạy cảm trong giao tiếp.
 
@@ -230,7 +230,7 @@ Các doanh nghiệp, các cộng đồng dân cư, tổ chức, gia đình và t
 
 tinh thần chủ động để tạo ra một nền văn hóa thực sự có tính chủ động trong tổ chức. Không nên phó mặc cho hoàn cảnh! Mọi người cần chủ động hành động để đạt được những giá trị và mục đích chung.
 
-### 6. L ẮNG NGHE CHÍNH MÌNH
+### 6. LẮNG NGHE CHÍNH MÌNH
 
 Thái độ và hành vi bắt nguồn từ những mô thức, nên qua quá trình tự nhận thức, mỗi người sẽ tự tìm thấy “tấm bản đồ” của bản thân. Ví dụ, ngôn từ của một người có thể là thước đo chính xác về mức độ chủ động của người đó.
 
@@ -344,7 +344,7 @@ Yêu là một động từ, nhưng người bị động luôn coi đó là c�
 
 Những người chủ động luôn biết cách khiến cho “yêu thương” trở thành một động từ. Tình yêu là điều gì đó thôi thúc bạn hành động: hy sinh, cho đi cái tôi của mình, giống như người mẹ cho một đứa bé chào đời. Nếu bạn muốn nghiên cứu tình yêu, hãy nhìn vào những tấm gương hy sinh vì người khác, kể cả trường hợp người đó đã xúc phạm hay không đáp lại tình yêu của họ. Nếu là một bậc cha mẹ, bạn hãy nhìn vào tình yêu mình dành cho con cái. Tình yêu là một giá trị được thể hiện thông qua các hành động yêu thương. Người chủ động luôn để cho cảm xúc phục tùng các giá trị, Tình yêu là cảm xúc có thể lấy lại được
 
-### 7. V ÒNG TRÒN Q UAN TÂM VÀ V ÒNG TRÒN Ả NH HƯỞNG
+### 7. VÒNG TRÒN QUAN TÂM VÀ VÒNG TRÒN ẢNH HƯỞNG
 
 Một cách tuyệt vời khác để tự nhận thức bản thân tốt hơn về khả năng luôn chủ động là quan sát xem chúng ta tập trung thời gian và sức lực của mình vào đâu.
 
@@ -402,7 +402,7 @@ Vòng tròn Quan tâm
 
 Dù có thể phải có sự ưu tiên trong việc sử dụng ảnh hưởng của mình, người chủ động vẫn có ***Vòng tròn Quan tâm***lớn ít nhất bằng***Vòng tròn Ảnh hưởng*** và chấp nhận trách nhiệm sử dụng ảnh hưởng của mình một cách có hiệu quả.
 
-### 8. K IỂM SOÁT TRỰC TIẾP, KIỂM SOÁT GIÁN TIẾP VÀ
+### 8. KIỂM SOÁT TRỰC TIẾP, KIỂM SOÁT GIÁN TIẾP VÀ
 
 #### **NGOÀI TẦM KIỂM SOÁT**
 
@@ -418,7 +418,7 @@ Các vấn đề ***ngoài tầm kiểm soát*** có trách nhiệm thay đổi 
 
 Bất kể vấn đề là ***kiểm soát trực tiếp, kiểm soát gián tiếp***hay***ngoài tầm kiểm soát,***chúng ta vẫn có trong tay bước đầu tiên để xử lý. Thay đổi thói quen, thay đổi phương pháp gây ảnh hưởng và thay đổi cách thức nhìn nhận những vấn đề***ngoài tầm kiểm soát***đều nằm trong***Vòng tròn Ảnh hưởng*** của chúng ta.
 
-### 9. M Ở RỘNG V ÒNG TRÒN Ả NH HƯỞNG
+### 9. MỞ RỘNG VÒNG TRÒN ẢNH HƯỞNG
 
 Điều đáng khích lệ là trong khi lựa chọn phản ứng đối với tác động bên ngoài, chúng ta cũng gây ảnh hưởng mạnh mẽ đến hoàn cảnh của mình, giống như khi thay đổi một phần công thức hóa học, kết quả của cuộc thí nghiệm cũng thay đổi.
 
@@ -458,7 +458,7 @@ cho các nước thuộc địa trên thế giới mà không cần đến bạo
 
 hòa bình.
 
-### 10. “C Ó ” VÀ “L À ”
+### 10. “CÓ” VÀ “LÀ”
 
 Có một cách để xác định xem mối quan tâm của chúng ta nằm trong vòng tròn nào là phân biệt giữa cái “có” và cái “là”. ***Vòng tròn Quan tâm*** chứa đầy những cái “có”:
 
@@ -496,7 +496,7 @@ Có nhiều cách để điều chỉnh bản thân trong ***Vòng tròn Ảnh h
 
 Hạnh phúc hay bất hạnh nằm ở sự lựa chọn của chúng ta. Đừng để những thứ “bên ngoài” như thời tiết, tình hình chính trị, sự khủng hoảng tài chính quốc gia… nằm trong ***Vòng tròn Ảnh hưởng*** của chúng ta. Hãy luôn chủ động! Chúng ta có thể mang sức mạnh tích cực đó bên mình, bất kỳ lúc nào, ở đâu. Chúng ta vẫn có thể hạnh phúc và chấp nhận những thứ hiện thời chúng ta chưa kiểm soát được để tập trung nỗ lực vào những thứ mà chúng ta có thể kiểm soát.
 
-### 11. P HÍA BÊN KIA CỦA THẤT BẠI
+### 11. PHÍA BÊN KIA CỦA THẤT BẠI
 
 Trước khi chuyển mục tiêu cuộc sống vào ***Vòng tròn Ảnh hưởng***, chúng ta cần xem xét sâu hơn hai nội dung nằm trong***Vòng tròn Quan tâm*** : sai lầm và hệ quả.
 
@@ -518,7 +518,7 @@ Nhưng nếu không thừa nhận, không sửa chữa sai lầm cũng như khô
 
 Phản ứng của chúng ta đối với bất kỳ sai lầm nào cũng đều có ảnh hưởng đến chất lượng của những sự việc sau đó. Điều quan trọng là thừa nhận và sửa chữa ngay các sai lầm để chúng không còn ảnh hưởng đến ta và giúp ta trở nên mạnh mẽ hơn.
 
-### 12. C AM KẾT VÀ GIỮ LỜI
+### 12. CAM KẾT VÀ GIỮ LỜI
 
 Ngay tại trung tâm của ***Vòng tròn Ảnh hưởng*** là khả năng cam kết và giữ lời của chúng ta. Những cam kết đối với bản thân, những người xung quanh và sự nhất quán thực hiện
 
@@ -528,7 +528,7 @@ Chính từ nhận thức này, chúng ta sẽ thấy có hai phương pháp đ�
 
 Khả năng đưa ra và thực hiện các cam kết đối với bản thân là yếu tố cốt lõi nhất của quá trình xây dựng các thói quen cơ bản cho sự thành đạt. Kiến thức, kỹ năng, và khát vọng đều nằm trong tầm kiểm soát của chúng ta. Chúng ta có thể tác động vào một trong ba nội dung trên, hoặc cả ba, để làm tăng tính cân bằng giữa chúng. Khi sự giao thoa giữa chúng ngày một nhiều hơn, chúng ta sẽ càng lĩnh hội sâu sắc hơn các nguyên tắc - là cơ sở cho các thói quen - và tạo ra sức mạnh tính cách giúp chúng ta hướng tới sự thành đạt một cách thật cân bằng.
 
-### 13. T ÍNH CHỦ ĐỘNG: CUỘC TRẮC NGHIỆM 30 NGÀY
+### 13. TÍNH CHỦ ĐỘNG: CUỘC TRẮC NGHIỆM 30 NGÀY
 
 Chúng ta không cần phải kinh qua những ngày đen tối trong các trại tập trung chết chóc như Frankl để nhận thức và phát triển tính chủ động của mình. Từ các sự kiện xảy ra hàng ngày, chúng ta cũng có thể phát triển khả năng này để xử lý những sức ép bất thường trong cuộc sống, ví dụ cách xử lý tình huống kẹt xe, cách phản ứng đối với một khách hàng đang cáu kỉnh hay một đứa con bướng bỉnh… Đó là cách chúng ta nhìn nhận một sự việc để biết đâu là vấn đề mình cần tập trung giải quyết.
 
@@ -544,7 +544,7 @@ Nếu ta thể hiện quyền tự do lựa chọn của mình thường xuyên 
 
 Có trách nhiệm tức là có khả năng phản ứng đúng đắn trước mọi điều kiện và hoàn cảnh. Đây là điều thiết yếu đối với sự thành đạt, hạnh phúc của bất kỳ ai. Điều cuối cùng tôi muốn nói là mỗi chúng ta đều cần phải làm chủ được cuộc sống của riêng mình, trong mọi hoàn cảnh, mọi điều kiện.
 
-### C ÁC GỢI Ý THỰC HÀNH:
+### CÁC GỢI Ý THỰC HÀNH:
 
 ### 1. Hãy lắng nghe lời ăn tiếng nói của mình và những người xung quanh trong một ngày xem có bao nhiêu lần bạn hoặc người khác sử dụng những ngôn từ bị động như “Giá như...”, “Tôi không thể...” hay “Tôi buộc phải...”.
 
@@ -584,7 +584,7 @@ Bạn muốn họ thấy được tính cách gì ở con người bạn? Hay b�
 
 Trước khi đọc tiếp, hãy dành vài phút để ghi chép cảm tưởng của bạn. Việc này sẽ giúp bạn hiểu rõ hơn Thói quen thứ hai.
 
-### 1. “B ẮT ĐẦU TỪ MỤC TIÊU ĐÃ ĐƯỢC XÁC ĐỊNH ”
+### 1. “BẮT ĐẦU TỪ MỤC TIÊU ĐÃ ĐƯỢC XÁC ĐỊNH”
 
 #### **CÓ NGHĨA LÀ GÌ?**
 
@@ -612,7 +612,7 @@ Khi bắt đầu một cách có mục đích, bạn sẽ có một viễn
 
 cảnh khác biệt. Một người đã hỏi một người khác khi người bạn chung của họ mất đi: “Anh ấy có để lại gì nhiều không?”. Người kia đáp: “Anh ấy để lại tất cả”.
 
-### 2. M ỌI SỰ VẬT ĐỀU ĐƯỢC SÁNG TẠO HAI LẦN
+### 2. MỌI SỰ VẬT ĐỀU ĐƯỢC SÁNG TẠO HAI LẦN
 
 Thói quen ***bắt đầu từ mục tiêu đã được xác định***được dựa trên nguyên lý***mọi sự vật đều được sáng tạo hai lần*** . Sáng tạo lần thứ nhất là sáng tạo tinh thần, và sáng tạo lần thứ hai là sáng tạo vật chất.
 
@@ -630,7 +630,7 @@ Người ta thường sử dụng nguyên tắc sáng tạo hai lần trong nhi�
 
 Do đó, tùy mức độ hiểu rõ nguyên tắc sáng tạo hai lần và nhận trách nhiệm cho cả hai lần sáng tạo mà chúng ta hành động và mở rộng ***Vòng tròn Ảnh hưởng*** của mình.
 
-### 3. D Ự KIẾN HAY MẶC NHIÊN
+### 3. DỰ KIẾN HAY MẶC NHIÊN
 
 Theo nguyên tắc, tất cả mọi sự vật đều được sáng tạo hai lần, nhưng không phải mọi sáng tạo đầu tiên đều dựa trên dự kiến. Trong cuộc sống cá nhân, nếu không phát triển sự tự nhận thức của mình và có trách nhiệm đối với những sáng tạo đầu tiên, thì chúng ta sẽ phó mặc cho người khác và hoàn cảnh khách quan nằm ngoài ***Vòng tròn Ảnh hưởng*** định hình phần lớn cuộc sống của mình. Chúng ta sống một cách bị động theo các kịch bản áp đặt từ bên ngoài như gia đình, cộng sự, kế hoạch của người khác và các sức ép của hoàn cảnh.
 
@@ -640,7 +640,7 @@ Dù chúng ta có nhận thức hay kiểm soát được hay không thì vẫn 
 
 Những khả năng đặc biệt của con người cùng trí tưởng tượng và lương tâm cho phép chúng ta xem xét những sáng tạo đầu tiên và giúp chúng ta chịu trách nhiệm viết tiếp kịch bản của đời mình. Nói cách khác, thói quen thứ nhất nói rằng “Bạn là người sáng tạo”, còn Thói quen thứ hai là sự sáng tạo đầu tiên.
 
-### 4. L ÃNH ĐẠO VÀ QUẢN LÝ – HAI SỰ SÁNG TẠO
+### 4. LÃNH ĐẠO VÀ QUẢN LÝ – HAI SỰ SÁNG TẠO
 
 ## Thói quen thứ hai dựa vào các nguyên tắc về lãnh đạo bản thân, tức ***lãnh đạo***là sáng tạo thứ nhất.***Lãnh đạo***không phải là***quản lý. Quản lý*** là sáng tạo lần thứ hai. Đây là nội dung chúng ta sẽ thảo luận ở phần Thói quen thứ ba.
 
@@ -678,7 +678,7 @@ Tôi tin rằng các bậc cha mẹ cũng thường bị vướng vào mô thứ
 
 Tương tự, trong cuộc sống riêng của chúng ta lại càng thiếu sự lãnh đạo. Chúng ta lao vào quản lý bản thân sao cho có hiệu quả, đặt ra và phấn đấu để đạt được các mục tiêu trong khi chưa xác định rõ những giá trị của mình.
 
-### 5. T RỞ THÀNH NGƯỜI SÁNG TẠO ĐẦU TIÊN
+### 5. TRỞ THÀNH NGƯỜI SÁNG TẠO ĐẦU TIÊN
 
 #### **CỦA CHÍNH MÌNH**
 
@@ -726,7 +726,7 @@ Vì tôi là một con người biết tự nhận thức, vì tôi có trí tư
 
 Điều đó có nghĩa là tôi phải bắt đầu cuộc sống hàng ngày bằng những giá trị đó để khi đối diện với những thăng trầm, thách thức cuộc đời, tôi có thể hành xử bằng nhân phẩm của mình mà không cần phải hành động theo cảm tính hoặc bị hoàn cảnh tác động. Tôi có thể thực sự trở thành người luôn chủ động và sống theo các giá trị tốt đẹp, vì những giá trị đó rất rõ ràng đối với tôi.
 
-### 6. T UYÊN NGÔN SỨ MỆNH CÁ NHÂN
+### 6. TUYÊN NGÔN SỨ MỆNH CÁ NHÂN
 
 Cách hiệu quả nhất để ***bắt đầu từ mục tiêu đã được xác định*** mà tôi từng biết là thiết lập một bản tuyên ngôn sứ mệnh cá nhân hay một triết lý, một niềm tin. Tuyên bố đó thể hiện rõ bạn muốn trở thành người thế nào (tính cách), sẽ làm gì (cống hiến, thành tích), lấy giá trị và nguyên tắc nào làm nền tảng.
 
@@ -804,7 +804,7 @@ tắc luôn chủ động và tầm quan trọng của việc xác định mục
 
 Một khi nhận thức được sứ mệnh của mình, bạn sẽ có được nền tảng của tính chủ động. Bạn sẽ có được tầm nhìn về những giá trị dẫn dắt cuộc đời bạn. Bạn sẽ có phương hướng cơ bản để từ đó đặt ra các mục tiêu ngắn hạn và dài hạn. Bạn sẽ có được sức mạnh của “bản hiến pháp” cá nhân được viết ra dựa trên các nguyên tắc đúng đắn, dùng làm căn cứ để đánh giá một cách hữu hiệu mọi quyết định về việc sử dụng tốt nhất thời gian, sức lực và tài năng của bạn.
 
-### 7. T RUNG TÂM CỦA V ÒNG TRÒN Ả NH HƯỞNG
+### 7. TRUNG TÂM CỦA VÒNG TRÒN ẢNH HƯỞNG
 
 Để có thể viết được một bản tuyên ngôn sứ mệnh, chúng ta phải bắt đầu ngay tại trung tâm ***Vòng tròn Ảnh hưởng*** của mình. Trung tâm này bao gồm những mô thức cơ bản nhất - những lăng kính - mà qua đó chúng ta có thể nhìn ra thế giới.
 
@@ -842,7 +842,7 @@ vào người khác, vào những thứ bạn không kiểm soát một cách tr
 
 Vị trí của những yếu tố này trên một chuỗi liên tục biểu hiện sự hòa nhập, hài hòa, cân bằng. Ảnh hưởng tích cực của chúng đối với mọi mặt cuộc sống của chúng ta là vô cùng cần thiết – là chức năng trọng tâm, là mô thức thiết yếu, cốt lõi ở mỗi người.
 
-### 8. C ÁC TRỌNG TÂM TRONG CUỘC SỐNG
+### 8. CÁC TRỌNG TÂM TRONG CUỘC SỐNG
 
 Mỗi người đều có một trọng tâm trong cuộc sống dù rằng chúng ta thường không nhận ra điều đó. Hãy khảo sát tóm tắt các trọng tâm khác nhau hay các mô thức cốt lõi trong chúng ta để hiểu rõ ảnh hưởng của chúng đến bốn nhân tố cơ bản – an toàn, định hướng, khôn ngoan và năng lực – nêu trên.
 
@@ -962,7 +962,7 @@ Mặt khác, nếu quan tâm đến sự phát triển của bản ngã theo qua
 
 Trên đây là một số trọng tâm phổ biến mà con người thường sử dụng để tiếp cận cuộc sống. Bạn có thể dễ dàng nhìn thấy trọng tâm cuộc sống của người khác nhưng khó nhận ra trọng tâm của mình. Bạn có thể biết ai đó xem việc kiếm tiền là quan trọng hơn mọi thứ khác trên đời hoặc dùng hết sức để biện minh cho mình trong một mối quan hệ đang trở nên tồi tệ. Nhưng nếu chịu khó quan sát, đôi khi bạn sẽ nhìn xa hơn để nhận ra trọng tâm nào đã tạo ra hành vi đó.
 
-### 9. N HẬN DIỆN TRỌNG TÂM CỦA BẠN
+### 9. NHẬN DIỆN TRỌNG TÂM CỦA BẠN
 
 Vậy bạn đang đứng ở đâu? Trọng tâm cuộc sống của bạn là gì? Đôi khi, điều này không dễ nhìn thấy.
 
@@ -1392,7 +1392,7 @@ không có sự hỗ trợ từ
 
 bên ngoài.
 
-### 10. T RỌNG TÂM HƯỚNG VỀ NGUYÊN TẮC
+### 10. TRỌNG TÂM HƯỚNG VỀ NGUYÊN TẮC
 
 Bằng cách ***hướng cuộc sống vào các nguyên tắc đúng đắn*** , chúng ta sẽ tạo ra một nền tảng vững chắc cho sự phát triển bốn yếu tố hỗ trợ cuộc sống của mình.
 
@@ -1694,7 +1694,7 @@ Là người lấy nguyên tắc làm trọng tâm, bạn sẽ có một cái nh
 
 ở mức độ bền vững và ổn định, bạn sẽ có được nền tảng cho một cuộc sống luôn chủ động và thành đạt.
 
-### 11. T HIẾT LẬP VÀ VẬN DỤNG
+### 11. THIẾT LẬP VÀ VẬN DỤNG
 
 #### **BẢN TUYÊN NGÔN SỨ MỆNH CÁ NHÂN**
 
@@ -1722,7 +1722,7 @@ những điều đã làm được hay chưa làm được. Có khi phải mất
 
 Tôi nhận ra quá trình làm công việc này cũng quan trọng như kết quả của nó. Lập ra hay sửa chữa, bổ sung bản tuyên ngôn sứ mệnh sẽ làm bạn thay đổi bởi vì nó buộc bạn phải suy nghĩ về các ưu tiên của mình một cách thấu đáo, thận trọng và gắn liền hành động với niềm tin của bạn. Khi bạn làm được điều đó, người khác sẽ nhận thấy bạn không còn bị động trước bất cứ điều gì xảy đến. Bạn sẽ ý thức được sứ mệnh cần thực hiện và sẽ rất tự hào về điều đó.
 
-### 12. V ẬN DỤNG TƯ DUY Ở TẦM CAO MỚI
+### 12. VẬN DỤNG TƯ DUY Ở TẦM CAO MỚI
 
 Khả năng tự nhận thức giúp chúng ta đánh giá tư duy của chính mình. Điều này đặc biệt có ích trong việc xây dựng tuyên ngôn sứ mệnh cá nhân, cho phép chúng ta thực hiện Thói quen thứ hai – trí tưởng tượng và nhận thức, hai chức năng chủ yếu của bán cầu não phải. Hiểu được cách khai thác khả năng não phải sẽ làm tăng đáng kể khả năng ***sáng tạo lần thứ nhất*** của chúng ta.
 
@@ -1746,7 +1746,7 @@ bởi nhu cầu khác cao hơn.
 
 Phải thừa nhận rằng cách lý giải trên đây là quá đơn giản, và chắc chắn các công trình nghiên cứu trong thời gian tới sẽ cho chúng ta nhiều hiểu biết hơn về hoạt động của não. Nhưng vấn đề chính ở đây là chúng ta có khả năng thực hiện nhiều quá trình tư duy khác nhau, nhưng chỉ chưa khai thác hết tiềm năng của mình mà thôi. Khi khám phá được những khả năng khác nhau của não bộ, chúng ta có thể sử dụng trí tuệ của mình một cách có ý thức để đáp ứng các nhu cầu cụ thể hiệu quả hơn.
 
-### 13. H AI PHƯƠNG PHÁP KHAI THÁC TIỀM NĂNG
+### 13. HAI PHƯƠNG PHÁP KHAI THÁC TIỀM NĂNG
 
 #### **CỦA BÁN CẦU NÃO PHẢI**
 
@@ -1828,7 +1828,7 @@ Trí tưởng tượng có thể được sử dụng để đạt được lợ
 
 một cuộc sống nhằm cống hiến cho xã hội. Cuộc sống này dựa trên mục đích duy nhất và các nguyên tắc chi phối thực tại mang tính tương thuộc.
 
-### 14. N HẬN DIỆN VAI TRÒ VÀ MỤC TIÊU
+### 14. NHẬN DIỆN VAI TRÒ VÀ MỤC TIÊU
 
 Trong khi bạn cố gắng mường tượng ra các hình ảnh, cảm xúc, hình tượng từ bán cầu não phải qua những lời lẽ trong tuyên ngôn sứ mệnh cá nhân thì bán cầu não trái cũng góp phần quan trọng trong việc chi phối tính lô- gíc/ngôn từ. Cũng giống như việc tập thở sâu giúp kết hợp hài hòa thể xác và tâm hồn, viết lách là một loại hoạt động kết hợp cơ bắp, thần kinh, tâm lý giúp nối liền ý thức với tiềm thức, gạn đục khơi trong tư duy và tách tổng thể ra thành các bộ phận.
 
@@ -1880,7 +1880,7 @@ Các vai trò và mục tiêu sẽ cho bạn cấu trúc và phương hướng �
 
 Khi chuyển sang Thói quen thứ ba, chúng ta sẽ đi sâu hơn vào các mục tiêu ngắn hạn. Việc quan trọng lúc này là nhận diện các vai trò và mục tiêu dài hạn vì nó có liên quan mật thiết đến tuyên ngôn sứ mệnh cá nhân của bạn.
 
-### 15. T UYÊN NGÔN SỨ MỆNH GIA ĐÌNH
+### 15. TUYÊN NGÔN SỨ MỆNH GIA ĐÌNH
 
 Vì Thói quen thứ hai được xây dựng theo các nguyên tắc nên phạm vi ứng dụng của nó rất rộng. Ngoài đối tượng là cá nhân thì gia đình, các nhóm, các tổ chức xã hội cũng sẽ hoạt động hiệu quả hơn nếu họ biết bắt đầu bằng một mục tiêu rõ ràng.
 
@@ -1906,7 +1906,7 @@ hành động của chúng tôi ra sao để thực hiện mục tiêu và thể
 
 Chúng ta sẽ thường xuyên nhìn lại bản tuyên ngôn và xác định lại mục tiêu cùng những việc cần làm ít nhất hai lần trong năm, để phản ánh thực trạng, cải thiện tình hình và củng cố nó. Điều đó sẽ làm đổi mới chúng ta, giúp ta cam kết lại điều đã hứa và vững tin vào mục tiêu đang phấn đấu.
 
-### 16. T UYÊN NGÔN SỨ MỆNH TỔ CHỨC
+### 16. TUYÊN NGÔN SỨ MỆNH TỔ CHỨC
 
 Các tuyên ngôn về sứ mệnh cũng rất quan trọng đối với các tổ chức. Một trong những công việc chính của tôi với các tổ chức là giúp họ xây dựng các tuyên ngôn sứ mệnh một cách hiệu quả. Để làm được điều đó, không chỉ riêng các nhà hoạch định chiến lược mà mọi người trong tổ chức phải tham gia thật sự. Một lần nữa, phương pháp xây dựng bản tuyên ngôn cũng quan trọng như chính nội dung của nó, là chìa khóa để ứng dụng nó vào thực tiễn.
 
@@ -2016,7 +2016,7 @@ lớn về động cơ mà bạn không thể giải quyết ở trình độ t�
 
 Bản tuyên ngôn sứ mệnh của tổ chức – một bản tuyên ngôn thực sự phản ánh tầm nhìn cũng như các giá trị được mọi người trong tổ chức thừa nhận và chia sẻ – sẽ tạo ra sự thống nhất và cam kết thực hiện rất mạnh mẽ, sẽ tạo ra trong tâm trí mọi người một khung tham chiếu, một bộ tiêu chí hay định hướng nhằm tự kiểm soát bản thân. Họ không cần người khác chỉ đạo, kiểm tra, phê bình vì đã biến những gì là trọng yếu của tổ chức thành thói quen của mình.
 
-### G ỢI Ý ÁP DỤNG:
+### GỢI Ý ÁP DỤNG:
 
 ### 1. Dành chút thời gian để ghi lại cảm tưởng của bạn trong một lễ tang tưởng tượng như ở phần đầu chương này. Bạn có thể dựa vào bảng dưới đây để sắp xếp ý tưởng của mình.
 
@@ -2082,7 +2082,7 @@ Bạn đừng quên rằng quản lý khác với lãnh đạo. Lãnh đạo v�
 
 Nhưng mỗi khi đề cập hay giải quyết các vấn đề đó, bạn sẽ phải quản lý bản thân một cách hiệu quả để tạo ra một cuộc sống phù hợp với các câu trả lời của mình. Khả năng quản lý tốt sẽ chẳng có ý nghĩa gì nếu ngay từ đầu bạn không chọn đúng “cánh rừng” để khai khẩn. Khả năng quản lý tốt sẽ quyết định chất lượng và cả sự tồn tại của ***sự sáng tạo lần thứ hai***. Quản lý là sự tự quản có hiệu quả dựa vào bán cầu não trái, có tính chất chia nhỏ, phân tích, phân đoạn, áp dụng cụ thể và bị giới hạn về thời gian. Phương châm của tôi về tính hiệu quả cá nhân là:***Quản lý bằng bán cầu não trái; lãnh đạo bằng bán cầu não phải.***
 
-### 1. S ỨC MẠNH CỦA Ý CHÍ ĐỘC LẬP
+### 1. SỨC MẠNH CỦA Ý CHÍ ĐỘC LẬP
 
 Bên cạnh khả năng tự nhận thức, trí tưởng tượng và lương tâm thì khả năng thiên phú thứ tư của con người là ý chí độc lập. Đây là yếu tố thực sự dẫn đến việc quản lý có hiệu quả, là khả năng đưa ra các quyết định hay lựa chọn, và hành động theo các quyết định đó. Ý chí độc lập giúp con người chủ động hành động hơn là bị động đối phó, thực hiện một cách có kế hoạch những gì đã hoạch định dựa vào ba khả năng còn lại.
 
@@ -2118,7 +2118,7 @@ Sự phục tùng đó đòi hỏi phải có một mục đích, một sứ m�
 
 điểm nào đó. Đó mới chính là sức mạnh để hành động bằng tính trung thực đối với sự sáng tạo có tính chủ động lần thứ nhất của bạn.
 
-### 2. B ỐN THẾ HỆ QUẢN TRỊ THỜI GIAN
+### 2. BỐN THẾ HỆ QUẢN TRỊ THỜI GIAN
 
 Trong Thói quen thứ ba, chúng ta sẽ đề cập đến nhiều vấn đề được nêu ra trong lĩnh vực quản trị cuộc sống và thời gian. Là một người nhiều năm nghiên cứu lĩnh vực lý thú này, tôi tin rằng cốt lõi của tư duy đúng đắn nhất trong quản trị thời gian có thể tóm gọn bằng một cụm từ: ***Tổ chức và thực hiện nhiệm vụ theo các thứ tự ưu tiên.*** Cụm từ này thể hiện sự tiến hóa của ba thế hệ lý thuyết quản trị thời gian. Làm cách nào để sử dụng hiệu quả nhất các lý thuyết đó là tiêu điểm của rất nhiều tài liệu và công trình nghiên cứu từ trước tới nay.
 
@@ -2140,7 +2140,7 @@ Nhưng một thế hệ mới, thế hệ thứ tư, rất khác biệt, đang x
 
 Thay vì tập trung vào sự việc và thời gian, các kỳ vọng của thế hệ thứ tư tập trung vào việc bảo tồn, nâng cao các mối quan hệ và vào thành tích - nói ngắn gọn là tập trung vào mục tiêu duy trì sự cân bằng P/PC.
 
-### 3. G ÓC P HẦN TƯ THỨ HAI
+### 3. GÓC PHẦN TƯ THỨ HAI
 
 Về cơ bản, chúng ta sử dụng thời gian theo một trong bốn cách, được trình bày trong từng ***phần tư*** dưới đây.
 
@@ -2160,15 +2160,15 @@ Chúng ta thường phản ứng nhanh đối với các vấn đề khẩn cấ
 
 ### Khẩn cấp
 
-### I C ÁC HOẠT ĐỘNG: Khủng hoảng Các vấn đề cấp bách Các dự án đến thời hạn
+### I CÁC HOẠT ĐỘNG: Khủng hoảng Các vấn đề cấp bách Các dự án đến thời hạn
 
-### III C ÁC HOẠT ĐỘNG: Những việc đột xuất, các cuộc điện thoại Một số thư từ, báo cáo Một số cuộc họp Những vấn đề tương đối bức xúc Các hoạt động quần chúng
+### III CÁC HOẠT ĐỘNG: Những việc đột xuất, các cuộc điện thoại Một số thư từ, báo cáo Một số cuộc họp Những vấn đề tương đối bức xúc Các hoạt động quần chúng
 
 ### Không khẩn cấp
 
-### II C ÁC HOẠT ĐỘNG: Dự phòng các hoạt động PC Xây dựng quan hệ Nhận diện các cơ hội mới Lập kế hoạch, giải trí
+### II CÁC HOẠT ĐỘNG: Dự phòng các hoạt động PC Xây dựng quan hệ Nhận diện các cơ hội mới Lập kế hoạch, giải trí
 
-### IV C ÁC HOẠT ĐỘNG: Các việc vặt nhưng bận rộn Một số thư từ Một số cuộc điện thoại Những việc lãng phí thời gian Những hoạt động vui chơi giải trí
+### IV CÁC HOẠT ĐỘNG: Các việc vặt nhưng bận rộn Một số thư từ Một số cuộc điện thoại Những việc lãng phí thời gian Những hoạt động vui chơi giải trí
 
 ### Quan trọng Không quan trọng
 
@@ -2180,7 +2180,7 @@ Bạn tập trung vào Phần tư thứ nhất càng lâu bao nhiêu thì nó c�
 
 Một số người thực sự bị các vấn đề rắc rối hàng ngày quật ngã. Lối thoát duy nhất họ có được là lẩn tránh vào các hoạt động không quan trọng và cũng không khẩn cấp nằm ở Phần tư thứ tư (IV). Do vậy, khi bạn nhìn vào ma trận tổng thể của họ, thì 90% thời gian là ở trong Phần tư thứ nhất và gần 10% thời gian còn lại cho các hoạt động ở Phần tư thứ tư, chỉ còn vài sự chú ý không đáng kể dành cho Phần tư thứ hai và thứ ba. Đó là lối sống của những người quản trị cuộc đời mình bằng cách tập trung vào khủng hoảng.
 
-### I. K ẾT QUẢ:
+### I. KẾT QUẢ:
 
 • Stress
 
@@ -2196,7 +2196,7 @@ Một số người khác dành phần lớn thời gian ở khu vực “khẩn
 
 ### I
 
-### III K ẾT QUẢ:
+### III KẾT QUẢ:
 
 * Chỉ tập trung vào mục tiêu ngắn hạn
 
@@ -2226,7 +2226,7 @@ Những ai sử dụng hầu hết thời gian ở Phần tư thứ ba và thứ
 
 ### III IV
 
-### K ẾT QUẢ:
+### KẾT QUẢ:
 
 • Hoàn toàn vô trách nhiệm
 
@@ -2240,7 +2240,7 @@ Phần tư thứ hai là trung tâm của việc quản lý hiệu quả bản t
 
 ### I II
 
-### K ẾT QUẢ:
+### KẾT QUẢ:
 
 • Tầm nhìn, tiền đồ
 
@@ -2280,7 +2280,7 @@ Bất kể là sinh viên đại học, công nhân, thợ xây, nhà thiết k�
 
 được thu nhỏ lại đến mức có thể xử lý được vì bạn luôn tiên liệu được tình hình, tập trung vào gốc rễ của vấn đề, dự phòng các kế hoạch nhằm kiểm soát tình hình. Trong thuật ngữ chuyên môn của quản trị thời gian, điều này được gọi là ***Nguyên lý Pareto*** (thường gọi là nguyên lý 80/20) – 80% kết quả thu được từ 20% hoạt động quan trọng.
 
-### 4. Đ IỀU KIỆN CẦN CÓ ĐỂ NÓI “ KHÔNG ”
+### 4. ĐIỀU KIỆN CẦN CÓ ĐỂ NÓI “KHÔNG”
 
 Thoạt đầu, dường như bạn chỉ có thể lấy thời gian từ Phần tư thứ ba và thứ tư để dồn vào Phần tư thứ hai. Bạn không thể làm ngơ với các hoạt động khẩn cấp và quan trọng ở Phần tư thứ nhất, mặc dù chúng sẽ bị hạn chế khi bạn dành nhiều thời gian cho các công việc dự phòng và chuẩn bị ở Phần tư thứ hai.
 
@@ -2326,7 +2326,7 @@ Gần như không thể nói “không” với các hoạt động trong Phần
 
 lòng. Chỉ khi nào có được sự tự nhận thức để rà soát lại chương trình của bản thân, cũng như trí tưởng tượng và nhận thức để tạo ra một chương trình mới, đơn nhất, lấy nguyên tắc làm trọng tâm, thì khi đó, bạn mới có được sức mạnh của ý chí độc lập để nói “không” với những điều không quan trọng.
 
-### 5. T Ổ CHỨC VÀ THỰC HIỆN P HẦN TƯ THỨ HAI
+### 5. TỔ CHỨC VÀ THỰC HIỆN PHẦN TƯ THỨ HAI
 
 Nếu các hoạt động trong Phần tư thứ hai là trọng tâm của việc quản lý bản thân của người thành đạt – “những công việc cần ưu tiên thực hiện nhất” – thì chúng ta nên tổ chức và thực hiện chúng như thế nào?
 
@@ -2358,7 +2358,7 @@ Do mỗi thế hệ quản trị thời gian đều được xây dựng trên c
 
 nguyên liệu cơ bản cho thế hệ thứ tư. Nhưng cần phải có thêm một khía cạnh, mô thức và cách thực hiện mới để giúp chúng ta đi vào Phần tư thứ hai – lấy nguyên tắc làm trọng tâm và quản lý bản thân – nhằm thực hiện những công việc quan trọng nhất.
 
-### 6. C ÔNG CỤ DÙNG CHO P HẦN TƯ THỨ HAI
+### 6. CÔNG CỤ DÙNG CHO PHẦN TƯ THỨ HAI
 
 Mục tiêu quản lý Phần tư thứ hai là ***quản lý cuộc sống một cách hiệu quả*** – xuất phát từ các nguyên tắc đúng đắn, từ hiểu biết về sứ mệnh cá nhân, tập trung vào những hoạt động vừa quan trọng vừa khẩn cấp, và trong khuôn khổ duy trì sự cân bằng giữa việc tăng sản lượng và tăng năng lực sản xuất của chúng ta.
 
@@ -2392,7 +2392,7 @@ Vì các hoạt động trong Phần tư thứ hai là tâm điểm của việc
 
 thiết kế chi tiết theo các tiêu chuẩn nêu trên. Nhưng chúng ta vẫn không quên rằng, nhiều công cụ tốt của thế hệ thứ ba vẫn có thể dễ dàng được điều chỉnh lại cho thích hợp. Bởi năng lực của các nguyên tắc đúng đắn là hết sức mạnh mẽ và linh hoạt nên việc thực hành hay áp dụng ***thế hệ quản trị thời gian thứ tư*** có thể có chút thay đổi tùy theo từng người.
 
-### 7. T RỞ THÀNH NGƯỜI TỰ QUẢN P HẦN TƯ THỨ HAI
+### 7. TRỞ THÀNH NGƯỜI TỰ QUẢN PHẦN TƯ THỨ HAI
 
 Mặc dù mục đích chính của tôi trong quyển sách này là giảng giải các nguyên tắc, chứ không phải hướng dẫn thực hành về sự thành đạt nhưng tôi tin rằng bạn có thể hiểu rõ hơn các nguyên tắc và sức mạnh của ***thế hệ quản trị thời gian thứ tư,*** nếu bạn thực sự trải nghiệm việc tổ chức công việc hàng tuần trên cơ sở Phần tư thứ hai, lấy nguyên tắc làm trọng tâm.
 
@@ -2850,7 +2850,7 @@ Buổi tối Buổi tối Buổi tối Buổi tối Buổi tối
 
 **Thứ ba Thứ tư Thứ năm Thứ sáu Thứ bảy**
 
-### 8. T HỰC HIỆN LỊCH CÔNG TÁC CỦA BẠN
+### 8. THỰC HIỆN LỊCH CÔNG TÁC CỦA BẠN
 
 Quay trở lại phép ẩn dụ về máy vi tính, theo Thói quen thứ nhất, “Bạn là người lập trình” và Thói quen thứ hai, “Hãy viết chương trình!” thì Thói quen thứ ba sẽ khuyên bạn “Thực hiện chương trình”. Hãy thực hiện lịch công tác mà bạn đã lập ra, trước hết bằng ý chí độc lập, tính tự giác, lòng trung thực và sự cam kết của mình, không phải đối với các mục tiêu, kế hoạch ngắn hạn hay sự thôi thúc nhất thời mà là đối với các nguyên tắc đúng đắn, những giá trị sâu sắc - vốn đem lại ý nghĩa cho các mục tiêu, kế hoạch của chúng ta.
 
@@ -2868,7 +2868,7 @@ Qua đó, có thể thấy rằng chúng ta không thể áp dụng một cách 
 
 Nhưng nếu khắc sâu Thói quen thứ hai vào tâm trí, bạn sẽ có được những giá trị cao quý hơn làm động lực thúc đẩy. Bạn có thể đặt các giá trị lên trên kế hoạch của mình. Bạn có thể điều chỉnh kế hoạch cho phù hợp hoặc linh động hơn. Bạn sẽ không cảm thấy thất bại khi không thực hiện được kế hoạch hay khi buộc phải thay đổi nó.
 
-### 9. Ư U ĐIỂM VƯỢT TRỘI CỦA THẾ HỆ QUẢN TRỊ
+### 9. ƯU ĐIỂM VƯỢT TRỘI CỦA THẾ HỆ QUẢN TRỊ
 
 #### **THỜI GIAN THỨ TƯ**
 
@@ -2892,7 +2892,7 @@ hội để tổ chức cuộc sống một cách tốt nhất theo khả năng,
 
 Sợi chỉ xuyên suốt cả năm ưu điểm này là: ***tập trung chủ yếu vào các mối quan hệ và kết quả, sau đó mới tập trung vào vấn đề thời gian.***
 
-### 10. G IAO PHÓ CÔNG VIỆC: G IA TĂNG P VÀ PC
+### 10. GIAO PHÓ CÔNG VIỆC: GIA TĂNG P VÀ PC
 
 Chúng ta hoàn thành mọi công việc thông qua sự giao phó – cho thời gian hoặc cho người khác. Nếu giao phó cho thời gian, chúng ta nghĩ đến hiệu suất. Nếu giao phó cho người khác, chúng ta nghĩ đến hiệu quả.
 
@@ -2912,7 +2912,7 @@ Một nhà sản xuất có thể đầu tư một giờ công sức của mình
 
 Đầu vào Đầu ra
 
-#### N HÀ SẢN XUẤT
+#### NHÀ SẢN XUẤT
 
 _
 
@@ -2920,11 +2920,11 @@ Ngược lại, một người quản lý có thể đầu tư một giờ công
 
 Đầu vào Đầu ra
 
-#### N GƯỜI QUẢN LÝ
+#### NGƯỜI QUẢN LÝ
 
 Quản lý có thể làm dịch chuyển đáng kể điểm tựa, và chìa khóa để quản lý hiệu quả là sự giao phó. Chúng ta cùng nghiên cứu hai loại giao phó cơ bản - “giao phó mệnh lệnh” và “giao phó ủy quyền” - trong phần dưới đây.
 
-### 11. G IAO PHÓ MỆNH LỆNH
+### 11. GIAO PHÓ MỆNH LỆNH
 
 Giao phó mệnh lệnh có nghĩa là “Lấy cái này cho tôi!”, “Làm cái kia cho tôi!”, hoặc “Cho tôi biết khi nào anh xong việc này?”. Hầu hết các nhà sản xuất đều sử dụng mô thức giao phó mệnh lệnh. Bạn còn nhớ câu chuyện về những công nhân cầm dao rựa phát quang trong rừng không? Họ là những người sản xuất. Họ xắn tay áo lên và thực hiện công việc của mình. Dù có được giao nhiệm vụ
 
@@ -2942,7 +2942,7 @@ Nhưng càng lúc, tôi càng thấy không an tâm. Tôi e rằng nếu mình k
 
 Có một phương pháp tốt hơn, hiệu quả hơn dựa trên mô thức đề cao sự tự nhận thức, trí tưởng tượng, lương tâm và ý chí của người khác. Đó là Giao phó ủy quyền.
 
-### 12. G IAO PHÓ ỦY QUYỀN
+### 12. GIAO PHÓ ỦY QUYỀN
 
 Giao phó ủy quyền dựa trên ***kết quả công việc*** thay vì phương pháp làm việc. Nó cho người khác quyền lựa chọn phương pháp và để họ tự chịu trách nhiệm về kết quả. Phương pháp này có thể mất nhiều thời gian lúc ban đầu, nhưng đó là sự đầu tư thời gian cần thiết. Bạn có thể dịch chuyển điểm tựa nhiều hơn, và có thể tăng đòn bẩy thông qua việc giao phó ủy quyền.
 
@@ -3114,7 +3114,7 @@ Các nguyên tắc liên quan đến việc giao phó ủy quyền là đúng đ
 
 Sự ủy quyền đúng đắn có thể là dấu hiệu tốt nhất của quản lý hiệu quả, đơn giản là vì nó là điều rất cơ bản cho cả sự phát triển của cá nhân và tổ chức.
 
-### 13. M Ô THỨC VỀ P HẦN TƯ THỨ HAI
+### 13. MÔ THỨC VỀ PHẦN TƯ THỨ HAI
 
 Chìa khóa để quản lý hiệu quả bản thân, hay quản lý người khác thông qua ủy quyền, không phải là kỹ thuật hoặc công cụ nào khác, cũng không phải đến từ bên ngoài. Đó là nhân tố nội tại – nằm trong mô thức Phần tư thứ hai. Nó sẽ giúp bạn có khả năng nhìn qua lăng kính quan trọng chứ không phải là khẩn cấp.
 
@@ -3124,7 +3124,7 @@ xoay quanh những ưu tiên quan trọng nhất, cũng như làm tăng khả n�
 
 Đáng chú ý là những người có 7 Thói quen đều là những người thuộc về Phần tư thứ hai. Quan tâm đến những điều quan trọng cơ bản và thực hiện nó một cách đều đặn sẽ làm cho cuộc sống của bạn có nhiều biến chuyển lớn lao theo chiều hướng tích cực.
 
-### G ỢI Ý ÁP DỤNG:
+### GỢI Ý ÁP DỤNG:
 
 ### 1. Nhận diện một vài hoạt động thuộc Phần tư thứ hai mà bạn đã bỏ qua trong cuộc sống của mình. Hãy viết ra và cam kết thực hiện.
 

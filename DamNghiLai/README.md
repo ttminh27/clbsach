@@ -1,16 +1,17 @@
 # DÁM NGHĨ LẠI (Think Again - The Power of Knowing What You Don’t Know)
 
-**Tác giả:**Adam Grant**
-Dịch giả:**Vũ Hoàng Linh**
-Hiệu đính:**First News**
-Nhà xuất bản:**NXB Tổng Hợp TP. HCM & First News  
+- **Tác giả:** Adam Grant
+- **Dịch giả:** Vũ Hoàng Linh
+- **Hiệu đính:** First News
+- **Nhà xuất bản:** NXB Tổng Hợp TP. HCM & First News  
 
 ---
 
 ![Bìa Sách Dám Nghĩ Lại](images/p1_Im0.jpg)
 
-## Giới Thiệu Tác Phẩm**
-Dám Nghĩ Lại** (*Think Again*) của tác giả best-seller kiêm giáo sư trường Wharton – Adam Grant – là cuốn sách đột phá về sức mạnh của việc biết những gì bạn chưa biết. Trong một thế giới thay đổi với tốc độ chóng mặt, sự thành công và trí tuệ thực sự không nằm ở việc bạn kiên định bám giữ những hiểu biết cũ, mà nằm ở sự dũng cảm và linh hoạt để liên tục **tái tư duy** (*rethink*), chất vấn những giả định của bản thân và mở rộng tâm trí như một nhà khoa học.
+## Giới Thiệu Tác Phẩm
+
+**Dám Nghĩ Lại** (*Think Again*) của tác giả best-seller kiêm giáo sư trường Wharton – Adam Grant – là cuốn sách đột phá về sức mạnh của việc biết những gì bạn chưa biết. Trong một thế giới thay đổi với tốc độ chóng mặt, sự thành công và trí tuệ thực sự không nằm ở việc bạn kiên định bám giữ những hiểu biết cũ, mà nằm ở sự dũng cảm và linh hoạt để liên tục **tái tư duy** (*rethink*), chất vấn những giả định của bản thân và mở rộng tâm trí như một nhà khoa học.
 
 Cuốn sách cung cấp những nghiên cứu tâm lý học sâu sắc cùng những câu chuyện thực tế hấp dẫn giúp bạn làm chủ 3 cấp độ tái tư duy: cá nhân, giữa các cá nhân, và tập thể.
 

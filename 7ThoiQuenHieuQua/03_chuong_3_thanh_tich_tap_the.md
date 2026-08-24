@@ -62,7 +62,7 @@ Do đó, trước khi đi vào các Thói quen 4, 5 và 6, tôi
 
 muốn giới thiệu một phép ẩn dụ - mà tôi nghĩ là rất thực tế trong việc mô tả các mối quan hệ và định nghĩa sự cân bằng P/PC - trong một thực tại tương thuộc.
 
-### 1. T ÀI KHOẢN TÌNH CẢM
+### 1. TÀI KHOẢN TÌNH CẢM
 
 Chúng ta đều biết tài khoản ngân hàng là gì. Chúng ta gửi tiền vào tài khoản đó và lập một khoản dự trữ mà chúng ta có thể rút ra khi cần. Tài khoản tình cảm là một phép ẩn dụ mô tả mức độ tin cậy được xây dựng trong một mối quan hệ. Đó là cảm giác an toàn của bạn đối với người khác. Nếu tôi ký gửi vào tài khoản tình cảm của bạn bằng sự nhã nhặn, tốt bụng, chân thành và giữ các cam kết với bạn, thì tôi đã thiết lập được một khoản dự trữ. Sự tin cậy của bạn dành cho tôi sẽ cao hơn, và khi cần, tôi có thể nhờ đến sự tin cậy đó.
 
@@ -94,7 +94,7 @@ Cần nhớ rằng giải pháp “chữa cháy” cấp tốc trong trường h
 
 Khó mà giữ được kiên nhẫn. Vì vậy, chúng ta cần phải có bản lĩnh để luôn chủ động, tập trung vào ***Vòng tròn Ảnh hưởng,*** nuôi dưỡng những điều đang phát triển mà không phải “nhổ hoa xem rễ”. Nhưng quả thật ở đây không có chỗ cho giải pháp cấp tốc hay đốt cháy giai đoạn. Việc xây dựng và khôi phục các mối quan hệ đòi hỏi phải đầu tư lâu dài về thời gian và công sức.
 
-### 2. S ÁU KHOẢN KÝ GỬI CHỦ YẾU
+### 2. SÁU KHOẢN KÝ GỬI CHỦ YẾU
 
 Tôi xin mạn phép đưa ra sáu khoản ký gửi để xây dựng một tài khoản tình cảm, cụ thể như sau.
 
@@ -290,7 +290,7 @@ Sự nhận lỗi chân thành tạo ra một khoản ký gửi vào tài khoả
 
 Gây ra lỗi lầm là một chuyện, nhưng không chịu thừa nhận lỗi lầm đó lại là một chuyện hoàn toàn khác. Người ta dễ tha thứ những lỗi lầm do trí năng gây ra - những lỗi lầm do suy xét sai. Nhưng người ta không dễ tha thứ cho lỗi lầm thuộc về tâm hồn - những ý định xấu, những động cơ tồi, sự thanh minh do tự phụ nhằm bào chữa cho lỗi lầm đã gây ra.
 
-### 3. N HỮNG QUY LUẬT CỦA TÌNH YÊU VÀ CUỘC SỐNG
+### 3. NHỮNG QUY LUẬT CỦA TÌNH YÊU VÀ CUỘC SỐNG
 
 Khi tạo ra những khoản ký gửi bằng tình yêu vô điều kiện, sống theo các quy luật của tình yêu, chúng ta sẽ khuyến khích người khác sống theo các quy luật cơ bản của cuộc sống. Nói cách khác, khi thực sự yêu người khác một cách vô điều kiện, không có sự kiểm soát, chúng ta sẽ giúp họ cảm thấy được bảo vệ và an toàn, những giá trị cơ bản, phẩm giá của họ được công nhận và khẳng định. Điều đó cũng có nghĩa là quá trình phát triển tự nhiên của họ được khuyến khích. Chúng ta giúp họ dễ dàng hơn trong việc sống theo các quy luật của cuộc sống như sự hợp tác, cống hiến, tự giác, chính trực. Chúng ta cũng tạo điều kiện cho họ khám phá và sống một cách tốt nhất, cao quý nhất theo các quy luật đó. Chúng ta sẽ để họ được tự do hành động
 
@@ -324,7 +324,7 @@ cảm gắn bó và điều này sẽ gia tăng năng lực của mọi người
 
 Xây dựng tinh thần đoàn kết rất cần thiết cho sự thành công trong hoạt động kinh doanh hay trong hôn nhân. Điều này đòi hỏi bản lĩnh cá nhân và lòng dũng cảm của các bên tham gia mối quan hệ. Không một kỹ năng quản trị nào có thể bù đắp được sự thiếu hụt của tính cao quý trong tính cách cá nhân khi xây dựng các mối quan hệ.
 
-### 4. V ẤN ĐỀ CỦA P LÀ CƠ HỘI CỦA PC
+### 4. VẤN ĐỀ CỦA P LÀ CƠ HỘI CỦA PC
 
 Những quy luật trên của tình yêu và cuộc sống cũng đã dạy cho tôi bài học về một mô thức mạnh mẽ khác đối với tính tương thuộc. Nó đề cập đến cách chúng ta nhìn nhận vấn đề. Tôi đã mất nhiều tháng tìm cách lảng tránh một đồng nghiệp của mình, coi anh ta là nguồn gốc của mọi bực bội, chướng ngại. Nhưng khi nỗ lực cư xử rộng lượng hơn, tôi đã có cơ hội để thiết lập lại mối quan hệ thân tình với anh ấy. Chúng tôi lại có được sức mạnh để cùng nhau làm thành một nhóm vững mạnh, bổ sung cho nhau những thiếu sót.
 
@@ -386,7 +386,7 @@ Chúng ta không thể thay đổi được chất lượng của trái trên c�
 
 Thời điểm bước từ vị trí độc lập sang tương thuộc, dù với cương vị gì đi nữa, thì bạn đã nhận vai trò lãnh đạo – một vị trí có ảnh hưởng đến người khác. Và thói quen của sự thành công trong lãnh đạo giữa con người với con người là ***tư duy cùng thắng.***
 
-### 1. S ÁU MÔ THỨC CỦA MỐI QUAN HỆ TƯƠNG TÁC
+### 1. SÁU MÔ THỨC CỦA MỐI QUAN HỆ TƯƠNG TÁC
 
 #### **GIỮA CON NGƯỜI**
 
@@ -528,7 +528,7 @@ Sau khi cân nhắc đủ mọi phương án, cuối cùng, chúng tôi nhận t
 
 “Vậy tại sao anh không áp dụng phương án thua/thắng?”, tôi hỏi.
 
-“Chúng tôi không làm như thế. Chúng tôi theo phương án ***cùng thắng.*** ”
+“Chúng tôi không làm như thế. Chúng tôi theo phương án ***cùng thắng.***”
 
 “Anh nói rằng họ đã lấn lướt anh?”
 
@@ -584,7 +584,7 @@ Kinh nghiệm cho thấy sẽ tốt hơn cho doanh nghiệp gia đình hay doanh
 
 Tuy nhiên, cũng có một số mối quan hệ không thể sử dụng giải pháp không giao kèo. Tôi sẽ không thể nào từ bỏ con tôi hay vợ tôi để chọn giải pháp không giao kèo. Tôi có thể đi vào đàm phán với các con hoặc với vợ mình về một giải pháp ***cùng thắng***. Nếu vẫn không thành công, sẽ tốt hơn khi tôi chọn giải pháp thỏa hiệp lúc cần thiết – một hình thức thấp của***tư duy cùng thắng*** .
 
-### 2. N ĂM PHƯƠNG DIỆN CỦA TƯ DUY CÙNG THẮNG
+### 2. NĂM PHƯƠNG DIỆN CỦA TƯ DUY CÙNG THẮNG
 
 > Tư duy cùng thắng là thói quen lãnh đạo giữa người và người, bao hàm sự vận dụng một trong các khả năng thiên phú đặc biệt của con người trong mối quan hệ như tự nhận thức, trí tưởng tượng, lương tâm và ý chí độc lập. Nó còn bao hàm cả sự học hỏi lẫn nhau, ảnh hưởng qua lại và nguyên tắc các bên cùng có lợi. Và cần phải rất can đảm cũng như cân nhắc kỹ lưỡng để tạo ra những lợi ích chung, đặc biệt khi chúng ta tương tác với những người có tư duy thắng/thua cố hữu.
 
@@ -600,63 +600,29 @@ Bây giờ chúng ta bắt đầu xem xét từng phương diện.
 
 Tính cách là nền tảng của ***tư duy cùng thắng***. Mọi thứ khác đều được xây dựng trên nền tảng này. Có ba đặc trưng tính cách quan trọng đối với mô thức***cùng thắng*** .
 
-### Tính chính trực. Tính chính trực là giá trị chúng ta đặt vào bản thân mình. Các Thói quen 1, 2 và 3 giúp chúng ta phát triển và duy trì tính chính trực. Khi chúng ta nhận diện rõ các giá trị của mình, chủ động tổ chức và thực hiện theo những giá trị này hàng ngày, chúng ta sẽ xây dựng được sự tự nhận thức, ý chí độc lập bằng cách giữ lời hứa và thực hiện đúng cam kết.
+**Tính chính trực.** Tính chính trực là giá trị chúng ta đặt vào bản thân mình. Các Thói quen 1, 2 và 3 giúp chúng ta phát triển và duy trì tính chính trực. Khi chúng ta nhận diện rõ các giá trị của mình, chủ động tổ chức và thực hiện theo những giá trị này hàng ngày, chúng ta sẽ xây dựng được sự tự nhận thức, ý chí độc lập bằng cách giữ lời hứa và thực hiện đúng cam kết.
 
-Trong cuộc sống, không thể đạt được thành công nếu chúng ta không hiểu sâu về những yếu tố tạo nên thành công. Mặt khác, nếu chúng ta không thể giữ vững cam kết của mình với người khác, cũng như đối với bản thân thì sự thỏa hiệp cũng chỉ là giả dối. Một khi không có nền tảng cho sự tin cậy, giải pháp ***cùng thắng***sẽ trở thành một kỹ xảo rẻ tiền. Vì thế, chính trực là viên đá đặt nền tảng đầu tiên cho***tư duy cùng thắng*** .
-
-“Cùng thắng”
-
-### Tính cách
-
-“Cùng thắng” **Các mối quan hệ**
-
-“Cùng thắng” **Các thỏa**
-
-### thuận
-
-### Các quy tắc hỗ trơ å (4) và Các quy trình (5)
-
-### 1 2 3
+Trong cuộc sống, không thể đạt được thành công nếu chúng ta không hiểu sâu về những yếu tố tạo nên thành công. Mặt khác, nếu chúng ta không thể giữ vững cam kết của mình với người khác, cũng như đối với bản thân thì sự thỏa hiệp cũng chỉ là giả dối. Một khi không có nền tảng cho sự tin cậy, giải pháp ***cùng thắng*** sẽ trở thành một kỹ xảo rẻ tiền. Vì thế, chính trực là viên đá đặt nền tảng đầu tiên cho ***tư duy cùng thắng***.
 
 ![Năm phương diện của mô thức cùng thắng](images/so_do_5_phuong_dien_cung_thang.png)
 
-### Sự chín chắn. Chín chắn là sự cân bằng giữa lòng dũng cảm và sự cân nhắc. Theo giáo sư Hrand Saxenian, người dạy môn Kiểm soát tại Khoa Kinh doanh Đại học Harvard, thì sự chín chắn về mặt tình cảm là “khả năng thể hiện tình cảm và phán xét bản thân cân bằng với sự quan tâm đến ý nghĩ và cảm giác của người khác”. Định nghĩa đó được nêu trong luận án tiến sĩ, được chính ông phát triển trong lĩnh vực nghiên cứu lịch sử và nghiên cứu điền dã. Sau đó ông đã viết một bài báo về công trình nghiên cứu gốc dưới dạng hoàn thiện với những lập luận hỗ trợ và gợi ý áp dụng đăng trên tạp chí Harvard Business Review (số tháng 1-2 năm 1958). Cách sử dụng thuật ngữ “ chín chắn ” của Hrand có hơi khác so với cách sử dụng của nó trong cuốn sách này. Ở đây, khái niệm chín chắn chủ yếu tập trung vào quá trình trưởng thành và phát triển, từ giai đoạn phụ thuộc sang độc lập rồi đến tương thuộc.
+**Sự chín chắn.** Chín chắn là sự cân bằng giữa lòng dũng cảm và sự cân nhắc. Theo giáo sư Hrand Saxenian, người dạy môn Kiểm soát tại Khoa Kinh doanh Đại học Harvard, thì sự *chín chắn* về mặt tình cảm là *“khả năng thể hiện tình cảm và phán xét bản thân cân bằng với sự quan tâm đến ý nghĩ và cảm giác của người khác”*. Định nghĩa đó được nêu trong luận án tiến sĩ, được chính ông phát triển trong lĩnh vực nghiên cứu lịch sử và nghiên cứu điền dã. Sau đó ông đã viết một bài báo về công trình nghiên cứu gốc dưới dạng hoàn thiện với những lập luận hỗ trợ và gợi ý áp dụng đăng trên tạp chí *Harvard Business Review* (số tháng 1-2 năm 1958). Cách sử dụng thuật ngữ “*chín chắn*” của Hrand có hơi khác so với cách sử dụng của nó trong cuốn sách này. Ở đây, khái niệm *chín chắn* chủ yếu tập trung vào quá trình trưởng thành và phát triển, từ giai đoạn phụ thuộc sang độc lập rồi đến tương thuộc.
 
 Nếu xem xét các bài trắc nghiệm tâm lý nhằm tuyển dụng, thăng chức và đào tạo nhân viên, bạn sẽ thấy rằng chúng được thiết kế để đánh giá mức độ chín chắn của họ. Dù có được gọi là sự cân bằng giữa sức mạnh bản ngã và cảm thông, giữa tự tin và tự trọng, giữa sự quan tâm đối với con người hay đối với công việc thì điều được tìm kiếm ở đây là ***sự cân bằng giữa can đảm và cân nhắc.***
 
-Sự cân bằng này đã ăn sâu vào học thuyết tương tác giữa người và người trong quản lý và lãnh đạo. Nó cũng là nội dung của sự cân bằng P/PC. Trong khi ***can đảm***nhắm vào việc lấy được “quả trứng vàng” thì***cân nhắc*** quan tâm đến phúc lợi lâu dài sản sinh từ “con ngỗng”. Do đó, nhiệm vụ cơ bản của lãnh đạo là nâng cao mức sống và chất lượng sống cho mọi thành viên trong tổ chức.
+Sự cân bằng này đã ăn sâu vào học thuyết tương tác giữa người và người trong quản lý và lãnh đạo. Nó cũng là nội dung của sự cân bằng P/PC. Trong khi ***can đảm*** nhắm vào việc lấy được “quả trứng vàng” thì ***cân nhắc*** quan tâm đến phúc lợi lâu dài sản sinh từ “con ngỗng”. Do đó, nhiệm vụ cơ bản của lãnh đạo là nâng cao mức sống và chất lượng sống cho mọi thành viên trong tổ chức.
 
-Nhiều người thường suy nghĩ theo kiểu: “Được cái này
-
-thì mất cái kia”. Nhưng ***tư duy cùng thắng***thì có lợi cho cả đôi bên. Để có thói quen***tư duy cùng thắng***, bạn phải là một người vừa mềm mỏng vừa can đảm, vừa cảm thông vừa tự tin, và không chỉ là một người chu đáo, nhạy cảm mà còn phải gan dạ. Nói tóm lại, để tìm kiếm được sự cân bằng giữa can đảm và cân nhắc, bạn phải là một người chín chắn thật sự. Chín chắn chính là cốt lõi của***tư duy cùng thắng*** .
+Nhiều người thường suy nghĩ theo kiểu: “Được cái này thì mất cái kia”. Nhưng ***tư duy cùng thắng*** thì có lợi cho cả đôi bên. Để có thói quen ***tư duy cùng thắng***, bạn phải là một người vừa mềm mỏng vừa can đảm, vừa cảm thông vừa tự tin, và không chỉ là một người chu đáo, nhạy cảm mà còn phải gan dạ. Nói tóm lại, để tìm kiếm được sự cân bằng giữa can đảm và cân nhắc, bạn phải là một người chín chắn thật sự. Chín chắn chính là cốt lõi của ***tư duy cùng thắng***.
 
 Nếu có thừa can đảm nhưng lại thiếu cân nhắc, tôi sẽ như thế nào? Câu trả lời: tôi sẽ rơi vào tư duy thắng/thua. Nghĩa là, tôi là một người có cá tính mạnh mẽ, dám đưa ra phán xét của mình nhưng lại không để ý gì đến ý kiến của người khác. Để bù vào sự thiếu chín chắn đó, người ta thường dùng đến địa vị, quyền lực và các ưu thế khác.
-
-Thua/thắng
-
-Cao
-
-Cao
-
-Thấp
-
-Thấp
-
-### Cân nhắc
-
-### Can đảm
-
-Cùng thắng
-
-Thua/thua Thắng/thua
 
 ![Sơ đồ mối quan hệ giữa Can đảm và Thấu hiểu](images/so_do_can_dam_va_thau_hieu.png)
 
 Nếu có ý thức cân nhắc cao nhưng lại thiếu một chút can đảm, tôi sẽ mang tư duy thua/thắng. Tôi xem sự phán xét và ý muốn của bạn lớn đến mức không dám bày tỏ và thực hiện ý muốn của mình.
 
-Đối với ***tư duy cùng thắng***, sự***can đảm***và***cân nhắc*** đều quan trọng như nhau. Chính sự cân bằng của hai nhân tố này là dấu hiệu chín chắn thực sự. Nếu có được nó, chúng ta có thể lắng nghe, thấu hiểu, và có thừa can đảm để đối đầu với mọi thách thức.
+Đối với ***tư duy cùng thắng***, sự ***can đảm*** và ***cân nhắc*** đều quan trọng như nhau. Chính sự cân bằng của hai nhân tố này là dấu hiệu chín chắn thực sự. Nếu có được nó, chúng ta có thể lắng nghe, thấu hiểu, và có thừa can đảm để đối đầu với mọi thách thức.
 
-### Sự rộng lượng. Tính cách thứ ba rất quan trọng cho tư duy cùng thắng là sự rộng lượng. Đây là mô thức cho rằng ai cũng có phần của người nấy.
+**Sự rộng lượng.** Tính cách thứ ba rất quan trọng cho *tư duy cùng thắng* là sự rộng lượng. Đây là mô thức cho rằng ai cũng có phần của người nấy.
 
 Trong cuộc sống, người rộng lượng không nhiều. Đa số chúng ta thường nghĩ đến cái tôi hẹp hòi của bản thân. Chúng ta cho rằng cuộc sống chỉ là một chiếc bánh duy nhất, nếu ai đó lấy được phần nhiều thì mình chỉ còn phần ít. Sự hẹp hòi chính là do tầm nhìn hạn chế.
 
@@ -806,7 +772,7 @@ phạt theo kết quả công việc của nó. Nhờ đã có một thỏa thu�
 
 Tuy nhiên, các thỏa thuận ***cùng thắng***cũng rất linh hoạt. Để có thể phát huy tác dụng, cần phải có sự chính trực của cá nhân và mối quan hệ tin cậy lẫn nhau. Thỏa thuận***cùng thắng*** là sản phẩm của mô thức, tính cách và các mối quan hệ tương thuộc; nó định nghĩa và định hướng cho sự tương tác đó.
 
-### 3. C ÁC HỆ THỐNG HỖ TRỢ
+### 3. CÁC HỆ THỐNG HỖ TRỢ
 
 Thỏa thuận ***cùng thắng***chỉ có thể tồn tại trong một tổ chức khi toàn bộ hệ thống đều tuân theo nó. Nếu bạn nói rằng mình ủng hộ giải pháp***cùng thắng*** nhưng lại khen thưởng cho giải pháp thắng/thua, bạn sẽ có trong tay một chương trình thất bại ngay từ trong trứng nước.
 
@@ -854,7 +820,7 @@ Có lần, một anh bạn nói với tôi thằng bé nhà anh không chịu nh
 
 Nguyên tắc ***cùng thắng***đặt trách nhiệm lên từng cá nhân trong việc hoàn thành các kết quả cụ thể với sự định hướng rõ ràng và những nguồn lực sẵn có. Nó làm cho mỗi cá nhân có trách nhiệm thực hiện công việc của mình và tự giác đánh giá kết quả đạt được. Hệ thống***cùng thắng*** sẽ tạo ra môi trường hỗ trợ lẫn nhau, củng cố các thỏa thuận trong công việc đối với nhóm người, tập thể hay gia đình.
 
-### 4. C ÁC QUÁ TRÌNH
+### 4. CÁC QUÁ TRÌNH
 
 Không có cách gì đạt được mục đích ***cùng thắng***nếu dùng các biện pháp thắng/thua hay thua/thắng. Bạn không thể nói “Anh phải tư duy***cùng thắng***dù anh có thích nó hay không.” Vậy, vấn đề là bạn làm thế nào để đi đến giải pháp***cùng thắng.***
 
@@ -880,7 +846,7 @@ Bản chất của quá trình ***cùng thắng***liên hệ qua lại rất ch�
 
 Quá trình ***cùng thắng*** không phải là một liệu pháp về nhân cách. Nó hoàn toàn là một mô thức về sự tương tác giữa con người với nhau. Nó được sinh ra từ tính chính trực, sự chín chắn và rộng lượng. Nó được phát triển từ các mối quan hệ có độ tin cậy cao. Nó thể hiện các thỏa thuận rõ ràng và đặc biệt hiệu quả trong các hệ thống hỗ trợ.
 
-### G ỢI Ý ÁP DỤNG:
+### GỢI Ý ÁP DỤNG:
 
 ### 1. Hãy tưởng tượng bạn đang cố gắng tạo lập một cuộc đàm phán tốt đẹp, trong đó, lòng can đảm và sự cân nhắc được cân bằng.
 
@@ -952,7 +918,7 @@ Chúng ta thường có xu hướng nóng vội trong những tình huống như
 
 Tóm lại, một nguyên tắc quan trọng trong lĩnh vực quan hệ giao tiếp giữa người với người là: ***trước hết, hãy lắng nghe và thấu hiểu.*** Nguyên tắc này là chìa khóa để có được cuộc giao tiếp hiệu quả.
 
-### 1. T ÍNH CÁCH VÀ GIAO TIẾP
+### 1. TÍNH CÁCH VÀ GIAO TIẾP
 
 Giao tiếp là kỹ năng quan trọng nhất trong cuộc sống, bao gồm bốn hình thức cơ bản: nghe – nói – đọc – viết. Hầu hết thời gian của chúng ta được sử dụng để giao tiếp, trừ lúc ngủ. Nhưng bạn hãy để ý điều này: Bạn bỏ ra nhiều năm để học nói, và nhiều thời gian hơn nữa để học đọc và viết. Thế còn lắng nghe thì sao? Bạn đã học hay được đào tạo những gì để biết lắng nghe, để bạn có thể thực sự thấu hiểu người khác từ khung tham chiếu của riêng người đó?
 
@@ -974,7 +940,7 @@ Vì vậy, muốn có được thói quen giao tiếp hiệu quả, bạn không
 
 dựng cho mình kỹ năng ***lắng nghe và thấu hiểu***dựa trên cơ sở***tính cách***, dẫn đến sự cởi mở và tin cậy. Bạn cũng cần mở các***tài khoản tình cảm*** để tạo sự thông hiểu giữa những tâm hồn.
 
-### 2. L ẮNG NGHE VÀ THẤU HIỂU
+### 2. LẮNG NGHE VÀ THẤU HIỂU
 
 Đa số chúng ta lắng nghe không phải để thấu hiểu người khác, mà để đối đáp. Người ta thường thông qua mô thức của mình để gạn lọc những điều họ nghe và có thói quen “suy bụng ta ra bụng người” để phán xét cuộc sống của người khác.
 
@@ -1012,7 +978,7 @@ Chúng ta thường “lắng nghe” người khác nói với một trong bố
 
 Tuy nhiên, rất ít người trong chúng ta biết cách lắng nghe với thái độ thứ năm - mức độ cao nhất của sự lắng nghe - đó là ***lắng nghe và thấu hiểu*** .
 
-> Lắng nghe và thấu hiểu không phải là một xảo thuật để lấy lòng người khác, cũng không phải là kiểu lắng nghe “có suy nghĩ ”. Lắng nghe “có suy nghĩ” nghĩa là bạn lắng nghe
+> Lắng nghe và thấu hiểu không phải là một xảo thuật để lấy lòng người khác, cũng không phải là kiểu lắng nghe “có suy nghĩ”. Lắng nghe “có suy nghĩ” nghĩa là bạn lắng nghe
 
 với ý định để đối đáp, để kiểm soát, để điều khiển người khác. Còn ***lắng nghe và thấu hiểu*** là một mô thức hoàn toàn khác, đó là lắng nghe với mục đích trước hết để thực sự hiểu được người khác.
 
@@ -1066,7 +1032,7 @@ Lắng nghe nhưng không thấu hiểu sẽ làm kiệt quệ cả P (sản ph�
 
 bạn sẽ có khả năng xử lý những tình huống dễ gây tổn thương bằng sức mạnh nội tâm và sự thanh thản.
 
-### 3. “C HẨN BỆNH ” TRƯỚC KHI “ KÊ TOA ”
+### 3. “CHẨN BỆNH” TRƯỚC KHI “KÊ TOA”
 
 Mặc dù có thể gặp rủi ro và khó khăn, nhưng ***thấu hiểu người khác trước*** – “chẩn bệnh” trước khi “kê toa” – là một nguyên tắc đúng đắn được thể hiện ở mọi lĩnh vực cuộc sống. Nó là điều cốt yếu đối với chúng ta vì một lý do đơn giản: Bạn không thể tin tưởng vào đơn thuốc của bác sĩ, nếu không tin tưởng vào sự chẩn đoán của ông ấy.
 
@@ -1116,7 +1082,7 @@ Một kỹ sư giỏi sẽ hiểu rõ các loại lực tác dụng, ứng suấ
 
 > Cố gắng thấu hiểu người khác trước là một nguyên tắc đúng đắn đã được minh chứng trong mọi lĩnh vực của cuộc sống. Nó là một nguyên tắc phổ biến, là mẫu số chung, và có sức mạnh lớn nhất trong mối quan hệ giữa người với người.
 
-### 4. B ỐN KIỂU PHẢN ỨNG PHẢN XẠ
+### 4. BỐN KIỂU PHẢN ỨNG PHẢN XẠ
 
 Do thường lắng nghe người khác một cách chủ quan nên chúng ta sẽ có xu hướng phản ứng lại như một phản
 
@@ -1372,7 +1338,7 @@ Một người sáng suốt biết ***lắng nghe thấu hiểu*** sẽ đọc �
 
 Bất cứ ai cũng muốn được người khác thấu hiểu. Và chỉ khi hiểu được người khác, chúng ta mới có thể khiến họ đồng ý và chấp nhận ý kiến, quan điểm của mình.
 
-### 5. H IỂU VÀ NHẬN THỨC
+### 5. HIỂU VÀ NHẬN THỨC
 
 Khi biết lắng nghe người khác, bạn sẽ thấy có sự khác biệt lớn trong nhận thức của bạn. Bạn cũng sẽ nhận thấy tác động của những khác biệt này khi người ta nỗ lực làm việc với nhau trong những tình huống có tính tương thuộc. Trường hợp sự khác nhau về cách nhìn đối với “cô gái” và “bà lão” mà tôi nêu ra ở phần đầu cuốn sách này là một điển hình; bạn nhìn thấy hình ảnh một cô gái trẻ, còn tôi lại nhìn thấy hình ảnh một bà lão. Và có thể cả hai đều đúng.
 
@@ -1458,7 +1424,7 @@ Bạn đừng mải mê đưa ra những lời diễn thuyết khoa trương sá
 
 ## Thói quen thứ năm giúp bạn nâng cao độ chính xác, sự trung thực trong quá trình thuyết phục, trình bày ý tưởng của bạn. Đồng thời, giúp bạn tính toán và cân nhắc mọi chọn lựa để xác định đâu là giải pháp có lợi cho cả đôi bên.
 
-### 6. T IẾP CẬN TỪNG BƯỚC MỘT
+### 6. TIẾP CẬN TỪNG BƯỚC MỘT
 
 ## Thói quen thứ năm có ảnh hưởng rất mạnh mẽ đến mỗi chúng ta vì nó nằm ngay trung tâm của ***Vòng tròn Ảnh hưởng***, khác với các nhân tố khác nằm trong Vòng tròn Quan tâm như sự bất đồng ý kiến, các hoàn cảnh và hành vi của người khác… Vì thế, khi tập trung vào***Vòng tròn Ảnh hưởng,***bạn sẽ thực sự hiểu được người khác. Bạn sẽ có thông tin chính xác để hiểu được cốt lõi của vấn đề, xây dựng được các***tài khoản tình cảm*** vững mạnh, đem lại cho người khác một bầu không khí chân thành, tích cực để có thể cùng làm việc với họ một cách thuận lợi. Đó là cách tiếp cận “bắt đầu từ bên trong”.
 
@@ -1490,7 +1456,7 @@ viên. Cần coi yếu tố con người là quan trọng bậc nhất. Bạn s�
 
 Một khi đã thực sự hiểu nhau một cách sâu sắc, chúng ta sẽ mở ra cánh cửa đến với các giải pháp sáng tạo và các phương án theo cách thứ ba – ***cùng thắng***. Những khác biệt giữa chúng ta sẽ không còn là rào cản của sự giao tiếp và tiến bộ nữa. Thay vào đó, chúng trở thành bàn đạp để chúng ta***đồng tâm hiệp lực với nhau.***
 
-### G ỢI Ý THỰC HÀNH:
+### GỢI Ý THỰC HÀNH:
 
 ### 1. Hãy chọn một mối quan hệ mà bạn cảm thấy ***tài khoản tình cảm*** đang bị thâm hụt. Cố gắng hiểu và viết ra tình hình dưới góc nhìn của người đó. Trong lần giao tiếp sau, bạn hãy lắng nghe họ để hiểu rõ, so sánh với những điều đã viết ra. Giả định của bạn đúng đến mức độ nào? Bạn có thực sự hiểu cách nhìn của người đó không?
 
@@ -1536,7 +1502,7 @@ Cuộc sống gia đình chính là một cơ hội để vận dụng nguyên t
 
 Chúng ta nhìn thấy rất rõ sự khác biệt về thể chất giữa nam và nữ, giữa vợ và chồng. Nhưng còn sự khác biệt về xã hội, tâm lý và tình cảm thì sao? Liệu những khác biệt này có thể trở thành nguồn lực tạo ra những lối sống mới, hấp dẫn hơn? Liệu chúng có tạo ra một môi trường mới làm hoàn thiện bản thân, nuôi dưỡng sự tự khẳng định cho mỗi cá nhân, tạo ra các cơ hội độc lập và sau đó dần dần chuyển sang tương thuộc? ***Đồng tâm hiệp lực*** tạo ra một “kịch bản” mới cho thế hệ sau – một thế hệ hướng nhiều đến phục vụ và cống hiến, bớt đi dựa dẫm, kình địch, ích kỷ; một thế hệ cởi mở hơn, đáng tin cậy hơn, rộng lượng hơn; một thế hệ biết coi trọng tình yêu, biết quan tâm đến người khác cũng như bớt chỉ trích người khác.
 
-### 1. S Ự GIAO TIẾP ĐỒNG TÂM HIỆP LỰC
+### 1. SỰ GIAO TIẾP ĐỒNG TÂM HIỆP LỰC
 
 Khi giao tiếp với tinh thần ***đồng tâm hiệp lực,***bạn sẽ mở cửa con tim, khối óc và hành vi của mình cho những khả năng và lựa chọn mới. Điều đó có vẻ như là bạn gạt sang một bên Thói quen thứ hai –***bắt đầu từ mục tiêu đã được xác định.***Tuy nhiên, trên thực tế, bạn đang hoàn thiện thói quen đó. Bạn không biết chắc khi giao tiếp***đồng tâm hiệp lực,*** mọi việc sẽ diễn ra như thế nào, hay kết cục sẽ ra sao, nhưng bạn nhất định sẽ cảm nhận được sự hứng thú, an toàn với một chút phiêu lưu, và quan trọng hơn, đó là một kết cục tốt đẹp.
 
@@ -1550,7 +1516,7 @@ Những người như thế chỉ lưu giữ một số kinh nghiệm bất ng�
 
 Đối với nhiều người, những sự kiện như vậy hiếm khi xảy ra. Nhưng sự thật không phải như vậy, chúng có thể diễn ra thường xuyên trong cuộc sống hàng ngày. Để có thể đối đầu với chúng, mỗi cá nhân cần có sự an toàn nội tâm, cởi mở và một tinh thần dám mạo hiểm. Hầu hết những nỗ lực sáng tạo đều mang tính chất không dự đoán được. Nếu chúng ta không kiên trì hoặc không lấy nguyên tắc và giá trị nội tâm làm chỗ dựa tinh thần thì sẽ nhanh chóng nản lòng. Chỉ trừ những người đã có quá nhiều kinh nghiệm sống, còn đa số phải vượt qua thử thách mới có được thành công.
 
-### 2. Đ ỒNG TÂM HIỆP LỰC TRONG NHÓM
+### 2. ĐỒNG TÂM HIỆP LỰC TRONG NHÓM
 
 Là một người có nhiều năm đứng trên bục giảng, tôi tin rằng giới trẻ ngày nay đang chịu nhiều sức ép và mất phương hướng khi gia nhập vào cộng đồng.
 
@@ -1582,7 +1548,7 @@ Bạn càng đáng tin cậy và chân thành bao nhiêu thì càng có nhiều 
 
 Chỉ khi đó, mọi người mới bắt đầu tương tác với nhau một cách dễ dàng, nhanh chóng thấu hiểu nhau. Những viễn cảnh mới, mô thức mới được mở rộng để đưa ra các phương án, lựa chọn tối ưu. Đôi khi, cũng có những ý tưởng mới ban đầu còn chưa thực tế lắm, nhưng cuối cùng chúng thường đưa đến kết quả thiết thực và hữu ích.
 
-### 3. Đ ỒNG TÂM HIỆP LỰC TRONG KINH DOANH
+### 3. ĐỒNG TÂM HIỆP LỰC TRONG KINH DOANH
 
 Tôi có một kinh nghiệm rất thú vị khi cùng các đồng sự xây dựng một tuyên ngôn sứ mệnh cho công ty. Lúc đầu, việc thảo luận diễn ra trong bầu không khí nghiêm trang, dè dặt. Nhưng khi chúng tôi bắt đầu bàn về các phương án, các khả năng và cơ hội phía trước thì nhiều người tỏ ra cởi mở hơn, mạnh dạn hơn, thẳng thắn bày tỏ những suy nghĩ của mình. Cuộc họp bàn về tuyên ngôn sứ mệnh dần biến thành một hội thảo tự do với những ý tưởng tự phát, trong sự tôn trọng và hiểu biết lẫn nhau.
 
@@ -1600,7 +1566,7 @@ Thật không thể tin nổi năng lực sáng tạo được giải phóng nh�
 
 hậu. Những quan điểm khác biệt đã được coi trọng và tỏ ra vượt trội. Một tầm nhìn mới bắt đầu hình thành trong tất cả mọi người.
 
-### 4. Đ ỒNG TÂM HIỆP LỰC VÀ VẤN ĐỀ GIAO TIẾP
+### 4. ĐỒNG TÂM HIỆP LỰC VÀ VẤN ĐỀ GIAO TIẾP
 
 > Đồng tâm hiệp lực rất thú vị. Sáng tạo cũng rất hấp dẫn. Kết quả tích cực mà sự cởi mở, chân thành trong giao tiếp có thể đem lại thật phi thường. Những lợi ích và tiến bộ thu được là chuyện đáng để chúng ta chấp nhận thử thách, rủi ro.
 
@@ -1642,7 +1608,7 @@ Giao tiếp tôn trọng lẫn nhau có tác dụng trong các tình huống đ�
 
 Đồng tâm hiệp lực có nghĩa là 1 cộng 1 có thể bằng 8, 16 hay thậm chí hơn nữa. Ở mức độ tin cậy cao, nó đem lại những giải pháp tốt đẹp hơn mọi giải pháp được đưa ra ban đầu, và các bên đều biết rõ điều đó. Hơn thế nữa, họ sẽ có được tinh thần dám nghĩ dám làm một cách chân chính. Trong một số trường hợp, đồng tâm hiệp lực không khả thi và giải pháp “không giao kèo” cũng không thể thực hiện. Tuy nhiên, tinh thần luôn cố gắng một cách chân thành cũng có thể dẫn đến một thỏa hiệp hữu hiệu.
 
-### 5. T ÌM KIẾM MỘT PHƯƠNG ÁN THỨ BA
+### 5. TÌM KIẾM MỘT PHƯƠNG ÁN THỨ BA
 
 Để hiểu rõ hơn ảnh hưởng của các cấp độ giao tiếp đến tính hiệu quả của mối quan hệ tương thuộc, hãy hình dung một kịch bản sau đây.
 
@@ -1704,7 +1670,7 @@ Họ đồng tâm hiệp lực với nhau, trao đổi và thấu hiểu
 
 nhau cho đến khi tìm ra một giải pháp chung. Đó là giải pháp giúp xây dựng P và PC. Thay vì giao tiếp giải quyết vụ việc, nó biến thành giao tiếp tạo sự chuyển biến, trong đó cả hai đều nhận được cái mình muốn, đồng thời vun đắp được mối quan hệ hôn nhân.
 
-### 6. Đ ỒNG TÂM HIỆP LỰC TIÊU CỰC
+### 6. ĐỒNG TÂM HIỆP LỰC TIÊU CỰC
 
 Tìm kiếm giải pháp thứ ba có thể tạo nên biến chuyển lớn về mô thức tâm lý lưỡng phân. Hãy nhìn vào sự khác biệt ở kết quả!
 
@@ -1786,7 +1752,7 @@ Tôi nhìn cả hai vợ chồng, và một ý nghĩ thoáng qua rằng đây l�
 
 Ngừng một lát, tôi thốt lên: “Vấn đề ở đây là cần phải coi trọng sự khác biệt của nhau, ông bà ạ”.
 
-### 7. C OI TRỌNG SỰ KHÁC BIỆT
+### 7. COI TRỌNG SỰ KHÁC BIỆT
 
 Coi trọng sự khác biệt là bản chất của ***đồng tâm hiệp lực*** – đó là sự khác biệt về mặt trí tuệ, tình cảm, tâm lý giữa những con người khác nhau. Và chìa khóa để coi trọng sự khác biệt là phải nhận thức được rằng, ai cũng đều có cái nhìn riêng về thế giới, thực tại khách quan, theo quan điểm riêng của họ, không phải như nó vốn có.
 
@@ -1826,7 +1792,7 @@ Cuối năm, một con rồng hình thù quái dị, bơi khá nhanh, bay khá g
 
 Riêng chó không chịu đến trường vì biết rằng nhà trường không đưa môn đào hang vào chương trình học. Chúng gởi lũ chó con đến học nghề nơi các con chồn và chuột chũi.
 
-### 8. P HÂN TÍCH TRƯỜNG LỰC
+### 8. PHÂN TÍCH TRƯỜNG LỰC
 
 Trong một tình huống có tính ***tương thuộc,*** sự đồng tâm hiệp lực có sức mạnh đặc biệt trong việc xử lý các lực tiêu cực chống lại sự tăng trưởng và thay đổi.
 
@@ -1890,7 +1856,7 @@ ràng. Họ càng lúc càng nêu ra nhiều câu hỏi, kể cả các câu h�
 
 Tôi không có ý nói rằng người ta không nên dùng đến biện pháp pháp lý để giải quyết mâu thuẫn. Trong một số trường hợp nhất định, vẫn phải áp dụng luật pháp, nhưng hãy xem đó là biện pháp cuối cùng, không phải đầu tiên. Nếu người ta dùng nó quá sớm, ngay cả với ý nghĩa ngăn ngừa thì đôi khi, nỗi lo sợ và mô thức pháp lý sẽ tạo ra quá trình suy nghĩ và hành động không thể đồng tâm hiệp lực với nhau được.
 
-### 9. B ẢN CHẤT CỦA TỰ NHIÊN LÀ ĐỒNG TÂM HIỆP LỰC
+### 9. BẢN CHẤT CỦA TỰ NHIÊN LÀ ĐỒNG TÂM HIỆP LỰC
 
 Sinh thái là từ mô tả một cách cơ bản về ***chủ nghĩa đồng tâm hiệp lực***trong tự nhiên – tất cả mọi sự vật, hiện tượng đều có mối liên hệ với nhau. Đó là mối quan hệ trong đó sức mạnh sáng tạo được phát huy tối đa, cũng như sức mạnh thực sự trong***7 Thói quen*** nằm trong mối quan hệ lẫn
 
@@ -1912,7 +1878,7 @@ Bạn có thể coi trọng sự khác biệt ở người khác. Khi có ai đ�
 
 Trong trường hợp bạn chỉ nhìn thấy có hai giải pháp, một của bạn và một của người khác kém hiệu quả hơn, bạn có thể nhìn vào giải pháp thứ ba. Hầu như luôn luôn có giải pháp thứ ba trong mọi trường hợp và nếu biết vận dụng triết lý ***cùng thắng*** cũng như thực sự cố gắng để thấu hiểu người khác, bạn sẽ tìm ra giải pháp tốt hơn cho các bên liên quan.
 
-### G ỢI Ý ÁP DỤNG:
+### GỢI Ý ÁP DỤNG:
 
 ### 1. Hãy nghĩ về một hoàn cảnh mà ai đó có cách nhìn nhận sự vật khác với bạn. Xem xét để vận dụng sự khác biệt đó làm bàn đạp đưa đến giải pháp thứ ba. Có thể hỏi ý kiến người đó về vấn đề bạn đang gặp phải. Cần coi trọng những ý kiến khác biệt mà bạn sẽ nghe.
 

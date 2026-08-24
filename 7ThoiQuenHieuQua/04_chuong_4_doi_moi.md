@@ -34,7 +34,7 @@ Bạn gặp ai đó đang miệt mài cưa một cái cây trong rừng, bạn h
 
 ## Thói quen thứ bảy là dành thời gian để mài giũa bản thân. Nó nằm xung quanh các thói quen khác trong mô thức ***7 Thói quen,*** giúp cho các thói quen khác được vận dụng vào thực tế cuộc sống.
 
-### 1. B ỐN KHÍA CẠNH CỦA TỰ ĐỔI MỚI
+### 1. BỐN KHÍA CẠNH CỦA TỰ ĐỔI MỚI
 
 ## Thói quen thứ bảy là PC (năng lực sản xuất) của cá nhân. Nó bảo tồn và tăng cường tài sản lớn nhất của bạn – con người bạn. Nó đổi mới bốn mặt của con người bạn – ***thể chất, tinh thần, trí tuệ***và***quan hệ xã hội/tình cảm*** .
 
@@ -214,7 +214,7 @@ Niềm vui đích thực trong cuộc sống là khi sống vì một mục đí
 
 N. Eldon Tanner từng nói: “Phụng sự là cái giá chúng ta phải trả cho diễm phúc được sống trên đời này”. Có rất nhiều cách để chúng ta phục vụ. Dù bạn có đang làm việc cho một tổ chức cộng đồng nào hay không thì cũng đừng để thời gian trôi qua một cách uổng phí. Hãy không ngừng phục vụ người khác, chí ít cũng bằng cách gửi vào tài khoản tình cảm một tình yêu thương vô điều kiện.
 
-### 2. Ả NH HƯỞNG CỦA BẠN ĐỐI VỚI NGƯỜI KHÁC
+### 2. ẢNH HƯỞNG CỦA BẠN ĐỐI VỚI NGƯỜI KHÁC
 
 Hầu hết chúng ta là đối tượng của tấm gương xã hội, được định hình bởi những ý kiến, nhận thức, mô thức của những người xung quanh. Là những người nhận thức được tính tương thuộc, bạn và tôi xuất phát từ một mô thức thừa nhận rằng: mỗi chúng ta là một phần của tấm gương xã hội đó.
 
@@ -242,7 +242,7 @@ vọng và hứng thú của họ đã tác động tích cực đến những e
 
 Goethe *(*)* từng nói rằng: “Chúng ta đối xử với một người như thế nào thì anh ta sẽ trở thành con người như thế ấy”. Chúng ta sẽ phản ánh cho người khác điều gì về bản thân họ? Và sự phản ánh đó có ảnh hưởng như thế nào đến cuộc sống của họ? Chúng ta có nhiều thứ để có thể đầu tư vào ***tài khoản tình cảm*** của người khác. Càng nhìn thấy tiềm năng trong người khác bao nhiêu, chúng ta càng có thể phát huy trí tưởng tượng và sức sáng tạo trong mình bấy nhiêu. Chúng ta có thể giúp đỡ họ trở thành những con người độc lập, có khả năng xây dựng mối quan hệ tương thuộc với người khác.
 
-### 3. C ÂN BẰNG TRONG ĐỔI MỚI
+### 3. CÂN BẰNG TRONG ĐỔI MỚI
 
 Quá trình tự đổi mới phải bao gồm đổi mới cân bằng cả bốn mặt của con người chúng ta: ***thể chất, tinh thần, trí tuệ***và***quan hệ xã hội/tình cảm.*** Mặt nào cũng quan trọng ngang nhau, nhưng chúng chỉ có hiệu quả tối ưu khi chúng ta xử lý cả bốn mặt này một cách thông minh và cân đối; xem nhẹ mặt nào cũng đều có tác động tiêu cực đến các mặt còn lại.
 
@@ -264,7 +264,7 @@ xuất sắc thì tổ chức đó sẽ nhanh chóng đi đến sự chuyên quy
 
 Nói tóm lại, sự thành đạt của tổ chức cũng như của cá nhân đòi hỏi phải phát triển và tự đổi mới cả bốn mặt một cách đúng đắn và cân bằng. Bỏ qua mặt nào cũng sẽ tạo ra ***áp lực kìm hãm*** chống lại sự thành công và phát triển.
 
-### 4. Đ ỒNG TÂM HIỆP LỰC TRONG ĐỔI MỚI
+### 4. ĐỒNG TÂM HIỆP LỰC TRONG ĐỔI MỚI
 
 Đổi mới một cách cân bằng là sự đồng tâm hiệp lực tối ưu. Quá trình “rèn giũa” từng mặt của ***tự đổi mới*** sẽ tác động tích cực đến các mặt còn lại, bởi chúng liên hệ mật thiết lẫn nhau. Sức khỏe thể chất có ảnh hưởng đến khả năng trí tuệ; sức mạnh tinh thần có ảnh hưởng đến quan hệ xã hội/tình cảm. Khi cải thiện một mặt, bạn cũng sẽ tăng cường được khả năng của mình ở các mặt khác.
 
@@ -288,7 +288,7 @@ Khi tự đổi mới trí tuệ, bạn sẽ củng cố khả năng ***quản l
 
 Đó cũng là nền tảng cho ***thành tích tập thể,***là nguồn gốc của sự an toàn nội tại, là cơ sở để bạn***rèn giũa bản thân***về mặt quan hệ xã hội/tình cảm. Nó cho bạn sức mạnh cá nhân để tập trung vào***Vòng tròn Ảnh hưởng***trong các tình huống tương thuộc, để nhìn vào người khác thông qua sự rộng lượng, để coi trọng những khác biệt và vui mừng trước thành công của họ. Nó cho bạn nền tảng để đi đến sự hiểu biết chân thành và giải pháp***cùng thắng*** nhằm rèn luyện các Thói quen 4, 5 và 6 trong các thực tại có tính tương thuộc.
 
-### 5. S Ự PHÁT TRIỂN THEO ĐƯỜNG XOẮN ỐC
+### 5. SỰ PHÁT TRIỂN THEO ĐƯỜNG XOẮN ỐC
 
 Đổi mới là nguyên tắc, là quá trình cho ta sức mạnh để tiến lên và thay đổi theo đường xoắn ốc. Để có được sự tiến bộ không ngừng, chúng ta cần phải xem xét một khía cạnh khác của sự đổi mới khi nó được áp dụng cho khả năng thiên phú độc đáo của con người, để định hình cho chuyển động đi lên: ***lương tâm*** của chúng ta.
 
@@ -336,7 +336,7 @@ Học tập
 
 Học tập PHÁT TRIỂN THEO ĐƯỜNG XOẮN ỐC
 
-### G ỢI Ý ÁP DỤNG:
+### GỢI Ý ÁP DỤNG:
 
 ### 1. Lập một danh sách các hoạt động có thể giúp bạn giữ cho mình luôn khỏe mạnh, phù hợp với lối sống của bạn và mang đến cho bạn niềm vui lâu dài.
 
@@ -390,7 +390,7 @@ Quy tắc thứ hai là khi việc thổ lộ làm người khác tổn thương
 
 Chúng tôi đã hái được nhiều “trái ngọt” trong những ngày tháng đó. Khi rời khỏi Hawaii, chúng tôi quyết định vẫn tiếp tục thực hành giao tiếp như vậy. Nhiều năm sau, chúng tôi vẫn thường xuyên chở nhau đi trên xe máy chỉ để nói chuyện với nhau. Chúng tôi cảm thấy chìa khóa để duy trì tình yêu là luôn tâm sự với nhau, đặc biệt về vấn đề tình cảm. Điều đó giúp chúng tôi thực sự tìm về tổ ấm của mình, nơi cả tôi và Sandra đều tìm thấy niềm hạnh phúc, sự an toàn và các giá trị mà nó đại diện.
 
-### 1. C UỘC SỐNG LIÊN THẾ HỆ
+### 1. CUỘC SỐNG LIÊN THẾ HỆ
 
 Những điều Sandra và tôi phát hiện ra vào cái năm tuyệt vời đó, tức biết tận dụng “khoảng trống giữa kích thích và phản ứng”, đồng thời luyện tập bốn khả năng thiên phú của con người, đã giúp chúng tôi có sức mạnh “bắt đầu từ bên trong”.
 
@@ -408,9 +408,9 @@ Một gia đình có nhiều thế hệ gồm cha mẹ, con cái, ông bà, chú
 
 thành viên nhận ra mình là ai, từ đâu đến và đại diện cho cái gì. Đối với con cái, sẽ rất tốt cho chúng nếu chúng có thể định hình bản thân trong cái chung của dòng họ. Giả sử một lúc nào đó, con bạn gặp phải khó khăn mà không thể dựa vào bạn thì nó có thể nhờ cậy cô, dì, chú, bác của nó, những người có thể trở thành cha hoặc mẹ đỡ đầu của chúng trong một thời điểm nhất định.
 
-Một gia đình tam, tứ đại đồng đường là nền móng cho các mối quan hệ tương thuộc, có hiệu quả, hứa hẹn và đáng hài lòng nhất. Và rất nhiều người coi trọng mối quan hệ đó. Mỗi chúng ta đều có nguồn cội và khả năng tìm về cội nguồn của mình. Động cơ cao nhất và mạnh nhất để làm điều đó không phải chỉ cho riêng chúng ta mà cho cả hậu duệ của chúng ta, hậu duệ của cả loài người, như có ai đó từng nhận xét: “Chỉ có hai di sản bền vững mà chúng ta có thể để lại cho con cháu, đó là ***cội nguồn***và***đôi cánh*** ”.
+Một gia đình tam, tứ đại đồng đường là nền móng cho các mối quan hệ tương thuộc, có hiệu quả, hứa hẹn và đáng hài lòng nhất. Và rất nhiều người coi trọng mối quan hệ đó. Mỗi chúng ta đều có nguồn cội và khả năng tìm về cội nguồn của mình. Động cơ cao nhất và mạnh nhất để làm điều đó không phải chỉ cho riêng chúng ta mà cho cả hậu duệ của chúng ta, hậu duệ của cả loài người, như có ai đó từng nhận xét: “Chỉ có hai di sản bền vững mà chúng ta có thể để lại cho con cháu, đó là ***cội nguồn***và***đôi cánh***”.
 
-### 2. C ON NGƯỜI GIAO THỜI
+### 2. CON NGƯỜI GIAO THỜI
 
 Tôi tin rằng truyền lại cho con cháu và thế hệ sau “đôi cánh” có nghĩa là đem lại cho chúng sức mạnh để tự do vượt qua mọi khuôn mẫu tiêu cực. Chúng trở thành cái mà người bạn và cộng sự của tôi, tiến sĩ Terry Warner, gọi là con người “giao thời”. Thay vì truyền lại những khuôn mẫu đó cho thế hệ sau, chúng ta có thể thay đổi nó cùng với việc xây dựng mối quan hệ trong quá trình đó.
 
@@ -442,7 +442,7 @@ Hiển nhiên, xây dựng một tính cách có đầy đủ phẩm chất và 
 
 Bằng sự tập trung vào những nguyên tắc đúng đắn, tạo cân bằng giữa công việc và tăng cường khả năng làm việc, chúng ta sẽ có sức mạnh để xây dựng một cuộc sống thành đạt, có ích và yên bình, không những cho bản thân mà cho cả hậu duệ của chúng ta nữa.
 
-### 3. M ỘT GHI CHÚ CỦA TÁC GIẢ
+### 3. MỘT GHI CHÚ CỦA TÁC GIẢ
 
 Trước khi kết thúc cuốn sách này, tôi muốn chia sẻ niềm tin cá nhân của mình về những điều tôi cho là ***cội nguồn của những nguyên tắc đúng đắn.*** Tôi tin rằng những nguyên tắc đúng đắn là những quy luật tự nhiên, và cũng là lương tâm của chúng ta. Tôi tin rằng khi sống theo lương tâm của mình, người ta sẽ trưởng thành để hoàn thành sứ mệnh của mình. Tôi tin rằng có những phần trong bản ngã con người mà ngay cả luật pháp và giáo dục cũng không thể vươn tới được, nó đòi hỏi quyền năng của tâm linh. Tôi tin rằng, là con người, chúng ta không ai hoàn hảo cả. Tùy theo mức độ, chúng ta liên kết bản thân với các nguyên tắc đúng đắn, làm cho những khả năng thiên phú cao quý được phóng thích vào bên trong bản ngã, giúp chúng ta cải thiện những khiếm khuyết của mình.
 

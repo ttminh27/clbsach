@@ -1,124 +1,67 @@
-# CHƯƠNG MỘT
+# CHƯƠNG 1: NHỮNG KHÁI NIỆM TỔNG QUAN
 
-#### NHỮNG KHÁI NIỆM
+## CÁNH CỬA CỦA SỰ THAY ĐỔI
 
-#### TỔNG QUAN
+> “Không ai có thể thuyết phục người khác thay đổi. Mỗi cánh cửa của sự thay đổi vốn chỉ có thể mở được từ bên trong bản thân mỗi người. Dù bằng lý lẽ hay sự lôi kéo tình cảm, bạn cũng không thể mở cánh cửa đó của người khác.”
+>
+> — *Marilyn Ferguson*
 
-# CÁNH CỬA CỦA
+## Những thách thức của kỷ nguyên mới
 
-# SỰ THAY ĐỔI
-
-> “Không ai có thể thuyết phục người khác thay đổi. Mỗi cánh cửa của sự thay đổi vốn chỉ có thể
-
-> mở được từ bên trong bản thân mỗi người. Dù bằng lý lẽ hay sự lôi kéo tình cảm, bạn cũng
-
-> không thể mở cánh cửa đó của người khác.”
-
-- Marilyn Ferguson
-
-# Những thách thức của kỷ nguyên mới
-
-### S Ợ HÃI VÀ T Ự TI
+### SỢ HÃI VÀ TỰ TI
 
 Rất nhiều người sống trong thời đại ngày nay luôn mang tâm trạng lo âu, sợ hãi. Họ lo lắng về tương lai: sợ bị mất việc làm, sợ không còn khả năng chu cấp cho gia đình … Chính thái độ tự ti này đã đưa họ đến một lối sống an phận và dựa dẫm vào người khác, cả trong công việc và trong gia đình. Như vậy, theo nền văn hóa của chúng ta, tính tự lập càng được xem là giải pháp phổ biến cho vấn đề này. “Tôi sống vì tôi. Tôi làm tốt công việc của tôi, và tôi có quyền tận hưởng những thú vui của cuộc sống”. Tính tự lập mang một ý nghĩa vô cùng quan trọng, thậm chí còn mang tính sống còn. Tuy nhiên, chúng ta đang sống trong một thực tại tương thuộc và để đạt được những thành quả quan trọng, ngoài khả năng hiện có, bản thân mỗi người phải biết sống hợp tác và hỗ trợ lẫn nhau.
 
-### Ư ỚC MUỐN VÀ T HAM VỌNG SỞ HỮU
+### ƯỚC MUỐN VÀ THAM VỌNG SỞ HỮU
 
-“Tôi muốn có tiền. Tôi muốn có một ngôi nhà thật đẹp, một chiếc ôtô sang trọng, một trung tâm giải trí lớn nhất và hiện đại nhất. Tôi muốn có tất cả và tôi xứng đáng được hưởng thụ mọi thứ”. Mặc dù ước muốn của con người là vô hạn và tham vọng được sở hữu luôn sẵn sàng; mặc dù trong thời đại “thẻ tín dụng” ngày nay, người ta có
+“Tôi muốn có tiền. Tôi muốn có một ngôi nhà thật đẹp, một chiếc ôtô sang trọng, một trung tâm giải trí lớn nhất và hiện đại nhất. Tôi muốn có tất cả và tôi xứng đáng được hưởng thụ mọi thứ”. Mặc dù ước muốn của con người là vô hạn và tham vọng được sở hữu luôn sẵn sàng; mặc dù trong thời đại “thẻ tín dụng” ngày nay, người ta có thể dễ dàng “mua trước trả sau”; mặc dù ai cũng cố gắng làm việc chăm chỉ… nhưng cuối cùng, chúng ta cũng phải đối diện với một thực tế chua xót là sức mua không theo kịp sức sản xuất; thành quả đạt được vẫn không thể đủ so với nhu cầu. Với tốc độ thay đổi nhanh chóng và cạnh tranh không ngừng do toàn cầu hóa trong lĩnh vực thị trường và khoa học kỹ thuật, chúng ta không những phải được đào tạo, mà còn phải liên tục tự đào tạo và tự làm mới bản thân. Chúng ta phải phát triển trí tuệ và trau dồi kỹ năng để tránh bị đào thải. Nhu cầu tạo ra của cải là nhu cầu trước mắt, nhưng để thành công, cần phải phát triển bền vững lâu dài. Bạn hoàn toàn có khả năng đạt được các chỉ tiêu hàng quý, nhưng điều quan trọng là liệu bạn đã đầu tư đúng hướng để có được sự bền vững và thành công kéo dài đến 5 hay 10 năm sau hay không? Thế mà thông thường, mọi người chỉ chú trọng đến kết quả trước mắt. Tuy nhiên, nguyên tắc tất yếu dẫn đến những thành tựu trong tương lai - trái ngược với lối suy nghĩ trên - chính là tạo sự cân bằng giữa việc thỏa mãn các yêu cầu trước mắt với việc đầu tư vào các khả năng tiềm ẩn. Điều này cũng đúng khi áp dụng cho các vấn đề khác của con người như sức khỏe, bản thân, gia đình và các nhu cầu xã hội.
 
-thể dễ dàng “mua trước trả sau”; mặc dù ai cũng cố gắng làm việc chăm chỉ… nhưng cuối cùng, chúng ta cũng phải đối diện với một thực tế chua xót là sức mua không theo kịp sức sản xuất; thành quả đạt được vẫn không thể đủ so với nhu cầu. Với tốc độ thay đổi nhanh chóng và cạnh tranh không ngừng do toàn cầu hóa trong lĩnh vực thị trường và khoa học kỹ thuật, chúng ta không những phải được đào tạo, mà còn phải liên tục tự đào tạo và tự làm mới bản thân. Chúng ta phải phát triển trí tuệ và trau dồi kỹ năng để tránh bị đào thải. Nhu cầu tạo ra của cải là nhu cầu trước mắt, nhưng để thành công, cần phải phát triển bền vững lâu dài. Bạn hoàn toàn có khả năng đạt được các chỉ tiêu hàng quý, nhưng điều quan trọng là liệu bạn đã đầu tư đúng hướng để có được sự bền vững và thành công kéo dài đến 5 hay 10 năm sau hay không? Thế mà thông thường, mọi người chỉ chú trọng đến kết quả trước mắt. Tuy nhiên, nguyên tắc tất yếu dẫn đến những thành tựu trong tương lai - trái ngược với lối suy nghĩ trên - chính là tạo sự cân bằng giữa việc thỏa mãn các yêu cầu trước mắt với việc đầu tư vào các khả năng tiềm ẩn. Điều này cũng đúng khi áp dụng cho các vấn đề khác của con người như sức khỏe, bản thân, gia đình và các nhu cầu xã hội.
+### TRỐN TRÁNH TRÁCH NHIỆM
 
-### T RỐN TRÁNH TRÁCH NHIỆM
-
-Mỗi khi có chuyện gì không hay xảy ra, người ta thường đi tìm những lý do khách quan đến từ hoàn cảnh bên ngoài mà “quên” xem xét lại chính mình. Xã hội ngày nay đầy rẫy những kẻ luôn cho mình là nạn nhân như thế, họ luôn tìm cách đổ lỗi: “Giá như sếp tôi không phải là một gã ngốc và nghiêm khắc như thế… Giá như tôi không sinh ra trong một gia đình nghèo khó như thế… Giá như tôi
-
-được sống ở một nơi tốt hơn… Giá như tôi không thừa hưởng cái tính nóng nảy đó của cha tôi… Giá như các con tôi không bướng bỉnh như thế… Giá như nền kinh tế của chúng ta không xuống dốc như thế này… Giá như các nhân viên của tôi không lười biếng và thiếu nhiệt huyết trong công việc như vậy… Giá như vợ tôi thông cảm với tôi hơn…”. Những mệnh đề đó dần dần trở thành cách nói quen thuộc ở một vài người. Họ xem những khó khăn và thách thức xảy ra với mình là do người khác gây nên. Cũng có thể khi nghĩ như thế, tạm thời họ cảm thấy nhẹ nhõm, nhưng về lâu dài sẽ trói buộc họ vào những rắc rối không thể nào tháo gỡ được.
+Mỗi khi có chuyện gì không hay xảy ra, người ta thường đi tìm những lý do khách quan đến từ hoàn cảnh bên ngoài mà “quên” xem xét lại chính mình. Xã hội ngày nay đầy rẫy những kẻ luôn cho mình là nạn nhân như thế, họ luôn tìm cách đổ lỗi: “Giá như sếp tôi không phải là một gã ngốc và nghiêm khắc như thế… Giá như tôi không sinh ra trong một gia đình nghèo khó như thế… Giá như tôi được sống ở một nơi tốt hơn… Giá như tôi không thừa hưởng cái tính nóng nảy đó của cha tôi… Giá như các con tôi không bướng bỉnh như thế… Giá như nền kinh tế của chúng ta không xuống dốc như thế này… Giá như các nhân viên của tôi không lười biếng và thiếu nhiệt huyết trong công việc như vậy… Giá như vợ tôi thông cảm với tôi hơn…”. Những mệnh đề đó dần dần trở thành cách nói quen thuộc ở một vài người. Họ xem những khó khăn và thách thức xảy ra với mình là do người khác gây nên. Cũng có thể khi nghĩ như thế, tạm thời họ cảm thấy nhẹ nhõm, nhưng về lâu dài sẽ trói buộc họ vào những rắc rối không thể nào tháo gỡ được.
 
 Hãy cho tôi biết một người dám nhận trách nhiệm về những việc làm của mình hoặc có đủ dũng khí để vượt qua thử thách, tôi sẽ cho bạn thấy sức mạnh phi thường trong tinh thần người ấy.
 
-### T UYỆT VỌNG
+### TUYỆT VỌNG
 
 Người thường xuyên đổ lỗi cho hoàn cảnh là người luôn hoài nghi và mãi sống trong vô vọng. Những ai mang tư tưởng mình là nạn nhân của hoàn cảnh và dễ đầu hàng trước khó khăn sẽ nhanh chóng đánh mất niềm tin vào cuộc sống, đánh mất động lực vươn lên và cam chịu sống trong bế tắc. “Tôi chỉ là một quân cờ, một con rối dưới sự điều khiển của người khác, một kẻ thấp cổ bé họng chẳng thể làm gì được!”. Thậm chí nhiều người thông minh, có học thức cũng suy nghĩ như vậy và chính suy nghĩ đó đã biến họ thành người nhu nhược, thiếu nhiệt tình.
 
-Theo lối suy nghĩ lạc hậu thông thường, giải pháp cho vấn đề này là chỉ cần hạ thấp mọi tham vọng, ước muốn
+Theo lối suy nghĩ lạc hậu thông thường, giải pháp cho vấn đề này là chỉ cần hạ thấp mọi tham vọng, ước muốn của bạn xuống mức thấp nhất – đến nỗi không còn ai, không còn điều gì có thể làm bạn thất vọng nữa. Tuy nhiên, theo nguyên tắc tích cực chống lại giải pháp trên, bạn cần phải khẳng định rằng: “Tôi chính là động lực sáng tạo của cuộc đời mình”.
 
-của bạn xuống mức thấp nhất – đến nỗi không còn ai, không còn điều gì có thể làm bạn thất vọng nữa. Tuy nhiên, theo nguyên tắc tích cực chống lại giải pháp trên, bạn cần phải khẳng định rằng: “Tôi chính là động lực sáng tạo của cuộc đời mình”.
-
-### M ẤT CÂN BẰNG TRONG CUỘC SỐNG
+### MẤT CÂN BẰNG TRONG CUỘC SỐNG
 
 Cuộc sống thời công nghệ thông tin đang ngày càng phức tạp, căng thẳng và khắc nghiệt. Chúng ta luôn cố gắng tận dụng tốt quỹ thời gian của mình, nỗ lực làm việc và đương nhiên cũng gặt hái nhiều thành công nhờ vào những thành tựu công nghệ hiện đại. Thế thì tại sao chúng ta lại luôn luôn thấy mình rối mù vì những chuyện lặt vặt về sức khỏe, cuộc sống gia đình, phẩm chất đạo đức, và nhiều điều khác làm ảnh hưởng đến cuộc sống? Sự thật, nguyên nhân không phải do công việc – vốn là động lực để duy trì cuộc sống, hay do sự biến động phức tạp của xã hội hiện tại, mà do lối suy nghĩ phổ biến trong nền văn hóa hiện đại như: “Hãy đến công sở sớm hơn, ở lại lâu hơn, làm việc tốt hơn và hy sinh nhiều hơn”. Chính lối suy nghĩ này đã lấy đi sự cân bằng trong cuộc sống và sự thanh thản trong mỗi tâm hồn. Chỉ những ai có một ý thức rõ ràng về khát vọng và quyết tâm theo đuổi nó bằng tất cả sức lực, tâm huyết mới có thể tự tạo ra cho mình một cuộc sống cân bằng, thanh thản.
 
-### T ÍNH VỊ KỶ
+### TÍNH VỊ KỶ
 
-Trong nền văn hóa chúng ta, nếu muốn đạt được một điều gì đó thì bạn phải “đi tìm và đạt cho bằng được điều tốt nhất”. Và cũng theo nền văn hóa ấy, cuộc sống là một trò chơi, một cuộc chạy đua, một cuộc cạnh tranh, và bạn
+Trong nền văn hóa chúng ta, nếu muốn đạt được một điều gì đó thì bạn phải “đi tìm và đạt cho bằng được điều tốt nhất”. Và cũng theo nền văn hóa ấy, cuộc sống là một trò chơi, một cuộc chạy đua, một cuộc cạnh tranh, và bạn phải thắng trong các cuộc đọ sức đó. Những người bạn cùng lớp, các đồng nghiệp, thậm chí cả những thành viên trong gia đình đều có thể trở thành đối thủ của nhau – nếu họ thắng càng nhiều thì phần còn lại dành cho bạn càng ít. Tất nhiên, chúng ta vẫn luôn thể hiện sự vui mừng trước những thắng lợi của kẻ khác – như một người rộng lượng. Tuy vậy, rất nhiều người trong chúng ta vẫn ngấm ngầm ghen tỵ khi người khác thành công. Trong lịch sử đã có nhiều thành tựu vĩ đại đạt được nhờ vào sức lực và tâm huyết của một người làm việc độc lập, nhưng trong thời đại ngày nay, những cơ hội thành công lớn và những thành tựu vô giá chỉ dành cho những ai thấu hiểu được nghệ thuật “hợp tác”. Song, cho dù có ở thời đại nào đi nữa thì sự vĩ đại chân chính cũng chỉ có thể đạt được nhờ vào một tâm hồn rộng mở, làm việc quên mình, tôn trọng lẫn nhau và vì lợi ích chung.
 
-phải thắng trong các cuộc đọ sức đó. Những người bạn cùng lớp, các đồng nghiệp, thậm chí cả những thành viên trong gia đình đều có thể trở thành đối thủ của nhau – nếu họ thắng càng nhiều thì phần còn lại dành cho bạn càng ít. Tất nhiên, chúng ta vẫn luôn thể hiện sự vui mừng trước những thắng lợi của kẻ khác – như một người rộng lượng. Tuy vậy, rất nhiều người trong chúng ta vẫn ngấm ngầm ghen tỵ khi người khác thành công. Trong lịch sử đã có nhiều thành tựu vĩ đại đạt được nhờ vào sức lực và tâm huyết của một người làm việc độc lập, nhưng trong thời đại ngày nay, những cơ hội thành công lớn và những thành tựu vô giá chỉ dành cho những ai thấu hiểu được nghệ thuật “hợp tác”. Song, cho dù có ở thời đại nào đi nữa thì sự vĩ đại chân chính cũng chỉ có thể đạt được nhờ vào một tâm hồn rộng mở, làm việc quên mình, tôn trọng lẫn nhau và vì lợi ích chung.
+### NIỀM KHAO KHÁT ĐƯỢC LẮNG NGHE
 
-### N IỀM KHAO KHÁT ĐƯỢC LẮNG NGHE
+Bất kỳ ai trong chúng ta cũng mong muốn những ý kiến của mình được người khác lắng nghe, thấu hiểu, được đánh giá cao và tạo nên ảnh hưởng. Chìa khóa để gây ảnh hưởng nằm ở khả năng giao tiếp – trình bày quan điểm một cách rõ ràng, đủ sức thuyết phục người khác. Nhưng bạn có nhận ra rằng trong khi người khác đang nói chuyện với bạn, thay vì chú tâm lắng nghe để hiểu rõ ý kiến của họ, bạn lại tập trung vào việc chuẩn bị để đưa ra ý kiến của mình không? Việc gây được ảnh hưởng chỉ thực sự bắt đầu khi người khác nhận thấy rằng họ đã làm cho bạn tập trung chú ý, thấy được ở bạn sự chia sẻ, lắng nghe một cách chăm chú, chân thành và cởi mở. Thế nhưng, do cảm xúc dễ bị tác động nên hầu hết mọi người đều không đủ kiên nhẫn để lắng nghe và hiểu rõ ý kiến người khác trước khi đưa ra ý kiến của mình. Nền văn hóa của chúng ta kêu gọi, thậm chí đòi hỏi phải thấu hiểu và gây ảnh hưởng. Tuy nhiên, theo nguyên tắc gây ảnh hưởng, để thấu hiểu nhau thì trước hết, phải chú ý lắng nghe.
 
-Bất kỳ ai trong chúng ta cũng mong muốn những ý kiến của mình được người khác lắng nghe, thấu hiểu, được đánh giá cao và tạo nên ảnh hưởng. Chìa khóa để gây ảnh hưởng nằm ở khả năng giao tiếp – trình bày quan điểm một cách rõ ràng, đủ sức thuyết phục người khác. Nhưng bạn có nhận ra rằng trong khi người khác đang nói chuyện với bạn, thay vì chú tâm lắng nghe để hiểu rõ ý kiến của họ, bạn lại tập trung vào việc chuẩn bị để đưa ra ý kiến của mình không? Việc gây được ảnh hưởng chỉ thực sự bắt đầu khi người khác nhận thấy rằng họ đã làm cho bạn tập trung chú ý, thấy được ở bạn sự chia sẻ, lắng nghe một cách chăm chú, chân thành và cởi mở. Thế nhưng, do cảm xúc dễ bị tác động nên hầu hết mọi người đều không đủ kiên nhẫn để
-
-lắng nghe và hiểu rõ ý kiến người khác trước khi đưa ra ý kiến của mình. Nền văn hóa của chúng ta kêu gọi, thậm chí đòi hỏi phải thấu hiểu và gây ảnh hưởng. Tuy nhiên, theo nguyên tắc gây ảnh hưởng, để thấu hiểu nhau thì trước hết, phải chú ý lắng nghe.
-
-### X UNG ĐỘT VÀ KHÁC BIỆT
+### XUNG ĐỘT VÀ KHÁC BIỆT
 
 Con người cùng chia sẻ nhiều điểm chung nhưng đồng thời cũng có nhiều nét khác biệt. Người ta suy nghĩ không giống nhau, quan niệm về các giá trị khác nhau, có các động cơ và mục đích khác nhau. Những điểm khác biệt này đương nhiên sẽ dẫn đến xung đột. Để giải quyết những xung đột ấy, người ta thường sử dụng những cách thức nhằm “thu lợi ích về mình càng nhiều càng tốt”. Mặc dù có nhiều kết quả tốt đạt được bằng nghệ thuật đàm phán, khi mà hai bên tranh chấp đều tỏ ra nhượng bộ để đi đến thỏa thuận chung, nhưng thật ra, không bên nào hoàn toàn hài lòng với kết quả đạt được. Vậy tại sao không tìm ra điểm chung nhất từ những khác biệt nêu trên? Vậy tại sao lại không áp dụng nguyên tắc hợp tác sáng tạo để tìm ra các giải pháp tốt hơn cả dự tính ban đầu của cả hai bên?
 
-### B Ế TẮC CỦA BẢN THÂN
+### BẾ TẮC CỦA BẢN THÂN
 
 Bản chất của con người được thể hiện ở bốn yếu tố: thể xác (body), trí tuệ (mind), tâm hồn (heart) và tinh thần (spirit). Hãy so sánh những khác biệt và kết quả theo hai cách tiếp cận khác nhau dưới đây:
 
-# Đâu là giải pháp?
+| Yếu tố | Xu hướng chung | Nguyên tắc |
+| :--- | :--- | :--- |
+| **Thể xác** | Duy trì lối sống. Nếu bị bệnh thì đi khám và chữa bệnh. | Phòng ngừa bệnh tật và các vấn đề sức khỏe bằng cách điều chỉnh lối sống phù hợp với các quy tắc bảo vệ sức khỏe đã được thừa nhận. |
+| **Trí tuệ** | Xem ti-vi để giải trí. | Đào sâu kiến thức, không ngừng học hỏi. |
+| **Tâm hồn** | Sử dụng các mối quan hệ với người khác nhằm trục lợi cá nhân. | Lắng nghe, tôn trọng và giúp đỡ người khác sẽ đem lại sự hài lòng và cảm giác hạnh phúc. |
+| **Tinh thần** | Khuất phục chủ nghĩa thế tục và chủ nghĩa hoài nghi đang ngày càng phát triển. | Nhận ra rằng nguồn gốc của nhu cầu tìm hiểu về ý nghĩa và những điều tốt đẹp trong cuộc sống nằm ngay trong các nguyên tắc. |
 
-Trước khi chúng ta bắt tay vào nghiên cứu ***7 Thói Quen Để Thành Đạt,***tôi muốn gợi ý hai sự biến đổi***mô thức*** có thể làm gia tăng hiệu quả khi bạn sử dụng cuốn sách này.
+---
 
-Trước hết, tôi đề nghị các bạn không nên “xem” tập tài liệu này như một cuốn sách chỉ việc đọc xong rồi cất lên kệ sách, vì nó có thể trở thành một người đồng hành với bạn trong quá trình thay đổi và phát triển. Nội dung trong cuốn sách này được sắp xếp theo trình tự tăng dần mức độ sâu sắc, và ở cuối mỗi phần đều có những gợi ý áp dụng để bạn có thể nghiên cứu và tập trung vào từng thói quen cụ thể của riêng mình.
+## Đâu là giải pháp?
 
-Thể xác
+Trước khi chúng ta bắt tay vào nghiên cứu ***7 Thói Quen Để Thành Đạt,*** tôi muốn gợi ý hai sự biến đổi ***mô thức*** có thể làm gia tăng hiệu quả khi bạn sử dụng cuốn sách này.
 
-Trí tuệ
-
-Tâm hồn
-
-Tinh thần
-
-**Xu hướng chung**
-
-Duy trì lối sống. Nếu bị bệnh thì
-
-đi khám và chữa bệnh.
-
-Xem ti-vi để giải trí.
-
-Sử dụng các mối quan hệ với người khác nhằm trục lợi cá nhân.
-
-Khuất phục chủ nghĩa thế tục và
-
-chủ nghĩa hoài nghi đang ngày
-
-càng phát triển.
-
-**Nguyên tắc**
-
-Phòng ngừa bệnh tật và các vấn đề
-
-sức khỏe bằng cách điều chỉnh lối sống phù hợp với các quy tắc bảo
-
-vệ sức khỏe đã được thừa nhận.
-
-Đào sâu kiến thức, không ngừng
-
-học hỏi.
-
-Lắng nghe, tôn trọng và giúp đỡ người khác sẽ đem lại sự hài lòng
-
-và cảm giác hạnh phúc.
-
-Nhận ra rằng nguồn gốc của nhu cầu tìm hiểu về ý nghĩa và những điều tốt đẹp trong cuộc sống nằm
-
-ngay trong các nguyên tắc.
-
-Khi đã hiểu sâu và vận dụng tốt, bạn có thể quay trở lại các nguyên tắc trong từng thói quen để nghiên cứu sâu hơn về kiến thức, kỹ năng và khát vọng của bản thân.
+Trước hết, tôi đề nghị các bạn không nên “xem” tập tài liệu này như một cuốn sách chỉ việc đọc xong rồi cất lên kệ sách, vì nó có thể trở thành một người đồng hành với bạn trong quá trình thay đổi và phát triển. Nội dung trong cuốn sách này được sắp xếp theo trình tự tăng dần mức độ sâu sắc, và ở cuối mỗi phần đều có những gợi ý áp dụng để bạn có thể nghiên cứu và tập trung vào từng thói quen cụ thể của riêng mình. Khi đã hiểu sâu và vận dụng tốt, bạn có thể quay trở lại các nguyên tắc trong từng thói quen để nghiên cứu sâu hơn về kiến thức, kỹ năng và khát vọng của bản thân.
 
 Thứ hai, tôi muốn gợi ý rằng bạn nên thay đổi mô thức của việc tham gia vào tập tài liệu này, nghĩa là chuyển từ vai trò của người học sang vai trò của người dạy. Bạn cũng nên áp dụng quan điểm “bắt đầu từ bên trong” – thay đổi nhận thức của chính mình – và cùng chia sẻ hay thảo luận với một người nào đó những điều bạn học được trong vòng 48 giờ sau đó.
 
@@ -128,35 +71,31 @@ Tôi bảo đảm rằng nếu tiếp cận tài liệu này theo cách trên, b
 
 Ngoài ra, khi chia sẻ một cách cởi mở và chân thực điều đã học được với người khác, bạn sẽ ngạc nhiên nhận ra rằng những thành kiến hoặc nhận thức tiêu cực mà người khác có thể có về bạn hầu như biến mất. Những người được bạn chia sẻ sẽ nhìn thấy ở bạn một con người đang thay đổi, trưởng thành hơn và họ sẽ hỗ trợ bạn hết lòng để đưa ***7 Thói quen*** hòa nhập vào cuộc sống của bạn.
 
-# Chúng ta có thể kỳ vọng
+---
 
-# điều gì?
+## Chúng ta có thể kỳ vọng điều gì?
 
 Nếu bạn quyết định mở “cánh cửa của sự thay đổi” để thực sự hiểu và sống theo các nguyên tắc được trình bày trong ***7 Thói quen*** thì tôi có thể yên tâm bảo đảm với bạn rằng nhiều điều tích cực sẽ đến với bạn.
 
-Trước tiên, sự trưởng thành của bạn sẽ diễn ra, tuy chậm rãi theo chu trình của nó nhưng tác dụng thay đổi lại trở nên rất mạnh mẽ và toàn diện. Hệ quả cuối cùng của việc mở “cánh cửa của sự thay đổi” đối với ***3 thói quen***đầu tiên - các thói quen của thành tích cá nhân - sẽ làm tăng sự tự tin một cách đáng kể. Bạn sẽ hiểu bản thân hơn với những ý nghĩa sâu xa về bản chất, giá trị và năng lực cống hiến của mình. Khi sống theo các***mô thức*** thì ý thức về cá tính, tính tự chủ và sự tự định hướng trong bạn sẽ ngấm sâu vào bên trong, giữ cho tinh thần bạn được bình yên, bình yên trong sự phấn chấn. Bạn sẽ nhận diện bản thân mình từ bên trong thay vì thông qua ý kiến của người khác hay bằng cách so sánh với những người khác. “Sai” hay “Đúng” sẽ không ảnh hưởng gì lớn đến những gì bạn đã tìm thấy.
+Trước tiên, sự trưởng thành của bạn sẽ diễn ra, tuy chậm rãi theo chu trình của nó nhưng tác dụng thay đổi lại trở nên rất mạnh mẽ và toàn diện. Hệ quả cuối cùng của việc mở “cánh cửa của sự thay đổi” đối với ***3 thói quen*** đầu tiên - các thói quen của thành tích cá nhân - sẽ làm tăng sự tự tin một cách đáng kể. Bạn sẽ hiểu bản thân hơn với những ý nghĩa sâu xa về bản chất, giá trị và năng lực cống hiến của mình. Khi sống theo các ***mô thức*** thì ý thức về cá tính, tính tự chủ và sự tự định hướng trong bạn sẽ ngấm sâu vào bên trong, giữ cho tinh thần bạn được bình yên, bình yên trong sự phấn chấn. Bạn sẽ nhận diện bản thân mình từ bên trong thay vì thông qua ý kiến của người khác hay bằng cách so sánh với những người khác. “Sai” hay “Đúng” sẽ không ảnh hưởng gì lớn đến những gì bạn đã tìm thấy.
 
-Một khi không còn quan tâm nhiều về những điều người khác nghĩ về mình, bạn sẽ quan tâm nhiều hơn về những điều người khác nghĩ về bản thân họ và về thế giới của họ, kể cả mối quan hệ của họ với bạn. Bạn sẽ không còn xây dựng cuộc sống tình cảm của mình dựa trên sự yếu kém của người khác. Bạn sẽ cảm thấy dễ dàng hơn và sẵn sàng hơn đối với sự thay đổi, bởi vì có cái gì đó - nằm sâu
-
-bên trong bạn - về cơ bản không hề đổi thay.
+Một khi không còn quan tâm nhiều về những điều người khác nghĩ về mình, bạn sẽ quan tâm nhiều hơn về những điều người khác nghĩ về bản thân họ và về thế giới của họ, kể cả mối quan hệ của họ với bạn. Bạn sẽ không còn xây dựng cuộc sống tình cảm của mình dựa trên sự yếu kém của người khác. Bạn sẽ cảm thấy dễ dàng hơn và sẵn sàng hơn đối với sự thay đổi, bởi vì có cái gì đó - nằm sâu bên trong bạn - về cơ bản không hề đổi thay.
 
 Khi tự mình đón nhận ***3 thói quen*** tiếp theo - các thói quen về thành tích tập thể, bạn sẽ khám phá và giải phóng cả ý muốn lẫn nguồn lực để hàn gắn và xây dựng lại các mối quan hệ quan trọng đã bị xói mòn, hay sắp bị phá vỡ. Còn các mối quan hệ tốt đẹp chắc chắn sẽ được cải thiện, trở nên sâu sắc, vững chắc hơn, sáng tạo và lý thú hơn.
 
-## Thói quen thứ bảy, nếu tiếp thu một cách sâu sắc, sẽ đem lại sức sống mới cho ***6 thói quen*** đầu tiên, sẽ làm cho bạn thực sự trở thành một người độc lập và có được hiệu quả tốt đẹp trong các mối quan hệ hỗ tương. Qua đó, bạn cũng có thể tự hoàn thiện bản thân mình.
+Thói quen thứ bảy, nếu tiếp thu một cách sâu sắc, sẽ đem lại sức sống mới cho ***6 thói quen*** đầu tiên, sẽ làm cho bạn thực sự trở thành một người độc lập và có được hiệu quả tốt đẹp trong các mối quan hệ hỗ tương. Qua đó, bạn cũng có thể tự hoàn thiện bản thân mình.
 
 Dù hoàn cảnh hiện tại của bạn thế nào đi nữa, tôi vẫn tin rằng bạn không phải là một người thủ cựu với các thói quen cũ kỹ của mình. Bạn có thể thay đổi chúng bằng những khuôn mẫu mới, những thói quen mới của sự thành đạt, hạnh phúc và các mối quan hệ dựa trên sự tin cậy lẫn nhau.
 
 Với sự quan tâm thật sự, tôi mong rằng sau khi nghiên cứu các thói quen này, bạn sẽ mở được cánh cửa của sự thay đổi để trưởng thành hơn. Rõ ràng, mọi sự thay đổi đều khó có thể thực hiện được ngay, nhưng tôi bảo đảm với các bạn rằng bạn sẽ cảm thấy có lợi và được nhận về những phần thưởng xứng đáng. Hãy kiên nhẫn với chính mình vì không có sự đầu tư nào lớn hơn thế.
 
-> “Chúng ta thường không quý những gì có được một cách dễ dàng. Chỉ có sự cao quý mới làm cho mọi thứ trở nên có giá trị.” (Thomas Paine)
+> “Chúng ta thường không quý những gì có được một cách dễ dàng. Chỉ có sự cao quý mới làm cho mọi thứ trở nên có giá trị.”  
+> — *Thomas Paine*
 
 # MÔ THỨC VÀ NGUYÊN TẮC
 
-> “Không có sự xuất sắc thật sự nào tồn tại trên
-
-> đời mà tách biệt với cách sống đúng đắn.”
-
-- David Starr Jordan
+> “Không có sự xuất sắc thật sự nào tồn tại trên đời mà tách biệt với cách sống đúng đắn.”  
+> — *David Starr Jordan*
 
 # Bắt đầu từ bên trong
 
@@ -208,7 +147,7 @@ Từ các khái niệm tôi đang giảng dạy cho IBM, vợ chồng tôi liên
 
 Vì vậy, nếu muốn thay đổi tình hình, trước tiên chúng ta phải thay đổi bản thân; và để thay đổi bản thân một cách có hiệu quả, chúng ta phải bắt đầu từ việc thay đổi nhận thức của mình.
 
-### 1. Đ ẠO ĐỨC NHÂN CÁCH VÀ Đ ẠO ĐỨC TÍNH CÁCH
+### 1. ĐẠO ĐỨC NHÂN CÁCH VÀ ĐẠO ĐỨC TÍNH CÁCH
 
 Bên cạnh việc nghiên cứu về nhận thức, tôi còn bị cuốn hút vào một công trình nghiên cứu chuyên sâu các tài liệu về ***thành công*** kể từ năm 1776 *(**)* đến nay. Tôi đã đọc và rà soát
 
@@ -254,7 +193,7 @@ Vợ chồng tôi tin rằng những thành tích “rất ấn tượng về m�
 
 Có một câu trong thánh ca diễn tả rất đúng nhận thức này: “Hãy chú ý lắng nghe lời của trái tim mình vì mọi vấn đề trên đời đều nảy sinh từ đó”.
 
-### 2. C HÍNH YẾU VÀ THỨ YẾU
+### 2. CHÍNH YẾU VÀ THỨ YẾU
 
 Nhờ kinh nghiệm từ trường hợp con trai mình, kết hợp với các nghiên cứu về khả năng nhận thức và đọc các sách viết về thành công, tôi tích lũy được nhiều bài học thú vị và bất ngờ về con đường đi đến thành công. Tôi bất chợt nhận ra ảnh hưởng mạnh mẽ của quan điểm ***Đạo đức nhân cách***và hiểu rõ sự khác biệt tinh tế giữa những gì trước kia tôi cho là đúng – những giá trị tôi được dạy dỗ từ tấm bé và đã ăn sâu vào tiềm thức – với những triết lý hiện hữu hàng ngày trong cuộc sống. Khi làm việc với nhiều người, tôi hiểu sâu hơn lý do tại sao quan điểm của tôi lại mâu thuẫn với suy nghĩ chung của họ. Đó là vì những quy tắc trong thuyết***Đạo đức nhân cách***đã ăn sâu vào tiềm thức của nhiều thế hệ, ảnh hưởng đến việc giáo dục của các bậc phụ huynh đối với quá trình trưởng thành của con em họ. Thêm nữa, khi sử dụng triệt để năng lực của nhân loại để xây dựng nền tảng cho những thế hệ trước đây, cha ông chúng ta đã quá tập trung vào hình thức ngôi nhà của mình mà thiếu quan tâm đến phần móng, chúng ta quen thu hoạch những cái có sẵn mà quên đi sự cần thiết của việc gieo hạt. Tôi không có ý nói rằng các nội dung của***Đạo đức nhân cách***như sự phát triển nhân cách, rèn luyện kỹ năng giao tiếp, giáo dục các phương cách gây ảnh hưởng, tư duy tích cực… là không hiệu quả. Bởi vì, trên thực tế đôi khi***Đạo đức nhân cách*** cũng cần thiết cho sự thành công, nhưng đó chỉ là yếu tố phụ mà thôi.
 
@@ -274,7 +213,7 @@ Tóm lại, tính cách bên trong có sức thuyết phục hơn nhiều so v�
 
 Điều này quả đúng như lời của William George Jordan: ***“Thiện và ác có một sức mạnh kỳ lạ ẩn bên trong mỗi con người; đó là sự tác động thầm lặng, vô thức và vô hình đối với cuộc đời họ. Đó chính là sự phản ánh bản chất thật của một con người, chứ không phải là sự giả tạo của họ”.***
 
-### 3. Ả NH HƯỞNG CỦA MÔ THỨC
+### 3. ẢNH HƯỞNG CỦA MÔ THỨC
 
 Cuốn sách ***7 Thói Quen Để Thành Đạt***chứa đựng những nguyên tắc cơ bản, những thói quen chủ yếu góp phần xây dựng một cuộc sống tích cực cho mỗi người. Để hiểu rõ***7 thói quen***này, trước hết, chúng ta cần phải hiểu***mô thức***của bản thân và cách thay đổi***mô thức*** đó.
 
@@ -332,7 +271,7 @@ Mặt khác, ai trong chúng ta cũng có xu hướng nghĩ rằng mình nhìn n
 
 Tóm lại, khi chúng ta càng hiểu rõ các mô thức cơ bản, các “bản đồ”, hay các giả thuyết do mình đặt ra, cùng với mức độ ảnh hưởng của kinh nghiệm, thì chúng ta càng có trách nhiệm nhiều hơn đối với những mô thức đó - xem xét, kiểm nghiệm, đối chiếu thực tế, lắng nghe và tiếp thu ý kiến người khác. Bằng cách đó, chúng ta mới có ***cái nhìn*** tổng quan và khách quan hơn về các vấn đề đang diễn ra.
 
-### 4. T HAY ĐỔI MÔ THỨC
+### 4. THAY ĐỔI MÔ THỨC
 
 Có lẽ điều quan trọng nhất rút ra từ phép thử về nhận thức nêu trên là phạm vi thay đổi mô thức, có thể tạm gọi là ***kinh nghiệm “À há!”***(“Aha!” experience) - khi ai đó nhìn nhận sự việc bằng một cái nhìn khác, mới mẻ và sáng tạo hơn. Nó giống như một luồng sáng bất ngờ lóe lên trong bóng tối nên những ai càng bị ràng buộc suy nghĩ vào nhận thức ban đầu thì***kinh nghiệm “À há”*** càng có tác dụng mạnh mẽ.
 
@@ -374,7 +313,7 @@ Chúng ta có thể bỏ ra hàng tuần, hàng tháng, thậm chí hàng năm �
 
 Theo lời của Thoreau: “Một ngàn nhát búa bổ vào cành lá không bằng một nhát vào gốc rễ”. Chúng ta chỉ có thể đạt được thành tựu lớn lao trong cuộc sống nếu chú tâm vào thay đổi những mô thức cơ bản – cội rễ của thái độ và hành vi.
 
-### 5. N HẬN THỨC VÀ TÍNH CÁCH
+### 5. NHẬN THỨC VÀ TÍNH CÁCH
 
 Không phải tất cả các quá trình thay đổi mô thức đều diễn ra ngay tức khắc như sự thay đổi nhận thức nhanh chóng của tôi trên chuyến xe điện ngầm mà tôi đã kể, ngược lại, sự thay đổi mô thức có khi là một quá trình diễn ra chậm chạp, đầy khó khăn và cần phải được cân nhắc kỹ lưỡng như trong trường hợp của vợ chồng tôi đối với con mình.
 
@@ -390,7 +329,7 @@ Có thể không phải ai cũng cư xử giống tôi trên chuyến xe điện
 
 Qua các lập luận trên, chúng ta càng thấy được sức mạnh của các mô thức, vì chúng tạo ra một lăng kính giúp chúng ta quan sát thế giới theo cách riêng của mỗi người. Sức mạnh của sự thay đổi mô thức chính là sức mạnh chủ yếu tạo ra sự thay đổi mang tính đột phá, dù đó là sự thay đổi nhanh chóng hay là một quá trình diễn ra từ từ và thận trọng.
 
-### 6. L ẤY NGUYÊN TẮC LÀM TRUNG TÂM
+### 6. LẤY NGUYÊN TẮC LÀM TRUNG TÂM
 
 > Đạo đức tính cách hình thành dựa trên khái niệm cơ bản về những nguyên tắc chi phối tính hiệu quả của con người. Đó là các quy luật tự nhiên tồn tại, bất biến và không cần tranh cãi trong bản chất con người, cũng giống như định luật vạn vật hấp dẫn chẳng hạn.
 
@@ -458,7 +397,7 @@ tính hiển nhiên của nguyên tắc nếu xem xét sự vô lý khi cố g�
 
 Các “bản đồ” hay mô thức của chúng ta càng gắn kết chặt chẽ với các nguyên tắc, quy luật này bao nhiêu thì chúng càng chính xác và có hiệu quả bấy nhiêu. Những “bản đồ” chính xác sẽ có ảnh hưởng lâu dài đến sự thành đạt của cá nhân và duy trì các mối quan hệ bền vững hơn nhiều so với nỗ lực thay đổi thái độ và hành vi của chúng ta.
 
-### 7. N GUYÊN TẮC THAY ĐỔI VÀ PHÁT TRIỂN
+### 7. NGUYÊN TẮC THAY ĐỔI VÀ PHÁT TRIỂN
 
 Sở dĩ thuyết ***Đạo đức nhân cách*** có sức lôi cuốn mạnh mẽ là do nhiều người cho rằng nó hướng dẫn cách đạt được những thành tựu trong cuộc sống như giàu có, thành đạt và có mối quan hệ khăng khít với những người xung quanh một cách nhanh chóng, dễ dàng mà không cần phải trải qua quá trình phấn đấu hay trưởng thành theo quy luật tự nhiên.
 
@@ -538,7 +477,7 @@ sẽ mang lại kết quả tốt hơn. Trong câu chuyện kể trên, tôi đ�
 
 Có lẽ ý thức sở hữu nên được dạy dỗ trước ý thức chia sẻ. Trong quan hệ hôn nhân và gia đình, nhiều người đã cho đi một cách máy móc hay từ chối chia sẻ vì họ chưa bao giờ trải qua kinh nghiệm được làm chủ bản thân hay hiểu đúng về giá trị bản thân. Để giúp con em chúng ta trưởng thành, chúng ta cần phải đủ kiên nhẫn giảng dạy chúng ý thức sở hữu và giá trị của việc chia sẻ. Ngoài ra, bản thân chúng ta cũng phải làm gương cho chúng.
 
-### 8. N HÌN NHẬN VẤN ĐỀ
+### 8. NHÌN NHẬN VẤN ĐỀ
 
 Người ta thường bị cuốn hút vào những chuyện tốt đẹp của các cá nhân, gia đình và tổ chức sống dựa trên những nguyên tắc vững chắc. Họ ngưỡng mộ những cá nhân có sức mạnh, chín chắn, những gia đình biết đùm bọc, đoàn kết, những tổ chức có nền văn hóa đồng tâm hiệp lực. Và thường thì họ muốn biết ngay mô thức cơ bản của những cá nhân, tập thể, tổ chức đó bằng các câu hỏi như: “Làm thế nào anh thực hiện được điều đó? Hãy cho tôi biết phương pháp của anh?”, cũng có nghĩa là: “Hãy hướng dẫn tôi cách giải quyết vấn đề nhanh nhất của anh để tôi có thể giải quyết những vướng mắc tôi đang gặp phải”.
 
@@ -576,7 +515,7 @@ Bạn có nhận ra mô thức ***Đạo đức nhân cách*** có ảnh hưởn
 
 Dù có nhận ra hay không thì cũng có nhiều người ảo tưởng về những hứa hẹn sáo rỗng của thuyết ***Đạo đức nhân cách***. Tôi từng đi đến nhiều nơi, làm việc với nhiều tổ chức, gặp gỡ nhiều người và phát hiện ra rằng, các nhà quản lý có tầm nhìn chiến lược lâu dài thường chán các diễn giả chỉ biết tác động tâm lý và khích lệ người khác bằng những câu chuyện vô vị mang tính giải trí. Điều họ cần là giá trị thực chất bên trong – một***quá trình*** – hơn là liều thuốc aspirin hay cao dán. Mong muốn chủ yếu của họ là giải quyết các vấn đề nan giải và tập trung vào các nguyên tắc có thể đem lại hiệu quả lâu dài.
 
-### 9. N ÂNG CAO TRÌNH ĐỘ TƯ DUY
+### 9. NÂNG CAO TRÌNH ĐỘ TƯ DUY
 
 Theo Albert Einstein, “Chúng ta không thể giải quyết được vấn đề quan trọng mà chúng ta đương đầu bằng trình độ tư duy giống như khi chúng ta gây ra những vấn đề đó”.
 
@@ -630,7 +569,7 @@ Thói quen cũng vậy, nó có sức hút rất lớn - lớn hơn nhiều so v
 
 Cũng như các nguồn năng lượng tự nhiên khác, sức hút của trọng lực có thể có lợi hoặc có hại. Lực hút của trọng lực có thể cản trở con người đến với vũ trụ đầy bí ẩn nhưng cũng chính nó lại có khả năng liên kết thế giới này thành một thể thống nhất, và giữ trái đất nằm đúng quỹ đạo, tạo ra một trật tự nhất định trong vũ trụ. Thói quen cũng vậy. Đó là một lực hút rất lớn, nếu biết sử dụng một cách hiệu quả, chúng ta có thể dùng nó để tạo sự gắn kết và trật tự cần thiết nhằm mang lại thành công trong cuộc sống của chúng ta.
 
-### 1. “T HÓI QUEN ” LÀ GÌ?
+### 1. “THÓI QUEN” LÀ GÌ?
 
 Trong phạm vi cuốn sách này, chúng ta xem thói quen là giao điểm của ***tri thức, kỹ năng***và***khát vọng***. Trong đó,***tri thức***là một mô thức lý thuyết, tức***làm gì***và***tại sao***;***kỹ năng***là***làm như thế nào***; còn***khát vọng***là***động cơ***, là***ý muốn hành động*** . Muốn tạo một thói quen trong cuộc sống, chúng ta cần phải có cả ba yếu tố này.
 
@@ -638,23 +577,11 @@ Quan hệ của chúng ta với các đồng nghiệp, vợ/chồng, con cái kh
 
 Sự thay đổi của hiện tượng/bản chất là một quá trình đi lên. Bản chất làm thay đổi hiện tượng, và ngược lại, hiện tượng cũng có thể làm thay đổi bản chất. Chúng ta phát triển theo một đường xoắn ốc. Nhờ có ***tri thức, kỹ năng***và***khát vọng*** , chúng ta có thể phá bỏ được những mô thức cũ - vốn là chỗ dựa giả tạo trong nhiều năm qua - để đạt được các bước tiến mới của bản thân và trong mối quan hệ với người khác.
 
-#### NHỮNG THÓI QUEN HIỆU QUẢ
-
-Các nguyên tắc và mô hình ứng xử được lĩnh hội
-
 Đôi khi, sự thay đổi là một quá trình đầy gian truân, nhưng nó được thúc đẩy bởi một mục đích cao cả hơn, bởi mong muốn hy sinh cái hiện tại để đạt được thành tựu lớn trong tương lai và nó mang lại hạnh phúc - mục tiêu để chúng ta tồn tại. Hạnh phúc có thể được định nghĩa là kết quả của khát vọng và khả năng hy sinh hiện tại cho những điều tốt đẹp trong tương lai.
 
-### Tri thức (làm gì, tại sao)
+![Những thói quen hiệu quả - Giao điểm của Tri thức, Kỹ năng và Khát vọng](images/page_73_img_1.png)
 
-### Kỹ năng (làm như
-
-thế nào)
-
-### Khát vọng (muốn làm gì)
-
-### THÓI QUEN
-
-### 2. T ÍNH LIÊN TỤC CỦA QUÁ TRÌNH TRƯỞNG THÀNH
+### 2. TÍNH LIÊN TỤC CỦA QUÁ TRÌNH TRƯỞNG THÀNH
 
 > Bảy thói quen không phải là một tập hợp các công thức tâm lý rời rạc, chắp vá mà đó là phương pháp tiếp cận tịnh tiến, liên tục và được kết hợp chặt chẽ nhiều mặt trong việc nâng cao tính hiệu quả của từng cá nhân, của các mối quan hệ. Kết hợp hài hòa với những quy luật phát triển tự nhiên, 7 thói quen giúp chúng ta liên tục tiến lên trong các bước của quá trình trưởng thành, từ phụ thuộc sang độc lập rồi đến tương hỗ.
 
@@ -710,59 +637,9 @@ Là một phần của thế giới tương thuộc, hàng ngày, chúng ta vẫ
 
 Biểu đồ dưới đây là sự thể hiện bằng hình ảnh theo trình tự và tính tương thuộc của 7 thói quen. Nó sẽ được sử dụng xuyên suốt cuốn sách này, khi chúng ta khảo sát cả hai khía cạnh: mối quan hệ có trình tự giữa các thói quen và sự kết hợp vận động của chúng. Khi liên kết với nhau, ***7 thói quen*** sẽ tạo ra được những hình thức mới của nhau và làm tăng giá trị cho nhau. Mỗi khái niệm hay mỗi thói quen sẽ được trình bày rõ ràng trong những phần tiếp theo.
 
-## THÀNH TÍCH
-
-#### TẬP THỂ
-
-Lắng nghe và
-
-thấu hiểu
-
-lẫn nhau
-
-Đồng tâm
-
-hiệp lực
-
-Tư duy cùng thắng
-
-Luôn chủ động
-
-Bắt đầu từ mục tiêu đã được xác định
-
-Ưu tiên cho điều quan trọng nhất
-
-## THÀNH TÍCH
-
-#### CÁ NHÂN
-
-**Độc lập**
-
-**Phụ thuộc**
-
-R e â n
-
-g i u ä a
-
-b a ã n
-
-t h
-
-â n
-
-1 2
-
-3
-
-4
-
-5 6
-
-7
-
 ![Mô hình 7 Thói quen - Quá trình trưởng thành liên tục](images/so_do_7_thoi_quen.png)
 
-### 3. Đ ỊNH NGHĨA VỀ TÍNH HIỆU QUẢ
+### 3. ĐỊNH NGHĨA VỀ TÍNH HIỆU QUẢ
 
 > Bảy thói quen chúng ta sẽ đề cập trong cuốn sách này là những thói quen của sự thành đạt, bởi vì chúng được xây dựng dựa trên các nguyên tắc, mang lại cho chúng ta những lợi ích tối đa và lâu dài. Chúng trở thành nền tảng của tính cách con người, tạo nên một trung tâm cung cấp những “tấm bản đồ” chính xác. Đồng thời, những thói quen này là cơ sở để mỗi cá nhân có thể tự giải quyết các vấn đề của mình một cách hiệu quả, tận dụng tối đa các cơ hội, không ngừng học tập cũng như kết hợp được các nguyên tắc khác trong quá trình phát triển của mình.
 
@@ -784,7 +661,7 @@ Nếu bạn chọn kiểu sống chỉ chú trọng vào “những quả trứn
 
 Tính hiệu quả nằm trong sự cân bằng tôi gọi là ***sự cân bằng P/PC***. P là***sản phẩm***(Production), mà ở đây là “những quả trứng vàng”. Còn PC là chữ viết tắt của***năng lực sản xuất*** (Production Capability), tức “con ngỗng” – năng lực tạo ra “những quả trứng vàng”.
 
-### 4. B A LOẠI TÀI SẢN
+### 4. BA LOẠI TÀI SẢN
 
 Về cơ bản, có ba loại tài sản: tài sản vật chất, tài sản tài chính và tài sản con người. Chúng ta cùng lần lượt xét từng loại một.
 
@@ -826,7 +703,7 @@ Do đó, khi gặp con, tôi bảo: “Hôm nay là buổi tối bố dành cho 
 
 “Vậy sao?”, tôi nói sốt sắng, “Tối nay, bố sẽ làm mọi thứ con muốn”.
 
-“Con muốn đi xem phim ***Chiến tranh giữa các vì sao*** ”, con bé trả lời, “Nhưng con biết bố không thích. Lần trước đi xem, bố cứ ngủ suốt. Bố không thích phim giả tưởng… Nhưng thôi, mình không đi cũng được bố ạ!”.
+“Con muốn đi xem phim ***Chiến tranh giữa các vì sao***”, con bé trả lời, “Nhưng con biết bố không thích. Lần trước đi xem, bố cứ ngủ suốt. Bố không thích phim giả tưởng… Nhưng thôi, mình không đi cũng được bố ạ!”.
 
 “Ồ, không, nếu con thích, bố con mình sẽ cùng đi.”
 
@@ -844,7 +721,7 @@ Kinh nghiệm này không phải là kinh nghiệm về P được vạch sẵn.
 
 PC. Đó là sự gắn bó và rất đáng hài lòng. Nhưng chúng tôi cũng được hưởng cả những quả trứng vàng nữa, khi mà con ngỗng – chất lượng của mối quan hệ – được nuôi dưỡng tốt.
 
-### 5. N GUYÊN TẮC PC TRONG TỔ CHỨC
+### 5. NGUYÊN TẮC PC TRONG TỔ CHỨC
 
 Một trong những khía cạnh có giá trị lớn lao của bất kỳ một nguyên tắc đúng đắn nào là nó hợp lý và có thể áp dụng được trong mọi hoàn cảnh. Trong cuốn sách này, tôi muốn chia sẻ với các bạn một số cách áp dụng các nguyên tắc trong một tổ chức, gia đình hay bản thân bạn.
 
