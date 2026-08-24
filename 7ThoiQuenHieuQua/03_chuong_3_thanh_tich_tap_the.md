@@ -10,7 +10,7 @@
 
 - Samuel Johnson
 
-Trước khi chuyển sang phần nói về ***Thành tích tập thể,***chúng ta cần nhớ lại rằng sự tương thuộc hiệu quả chỉ có thể được xây dựng trên cơ sở độc lập thực sự;***Thành tích cá nhân***luôn đi trước***Thành tích tập thể.***
+Trước khi chuyển sang phần nói về ***Thành tích tập thể,*** chúng ta cần nhớ lại rằng sự tương thuộc hiệu quả chỉ có thể được xây dựng trên cơ sở độc lập thực sự; ***Thành tích cá nhân*** luôn đi trước ***Thành tích tập thể.***
 
 Khi nhìn lại và khảo sát địa hình để xác định xem đang ở đâu trong mối liên hệ với nơi sẽ tới, chúng ta thấy rõ rằng: không thể đến được nơi đang đứng mà không đi theo con đường đã đi. Không có con đường tắt nào cũng như không còn cách nào khác. Không có cách nào để nhảy dù vào địa hình chúng ta đang có mặt vì nó đã bị che phủ bởi thất bại của một số người. Họ đã cố gắng nhảy vào xây dựng các mối quan hệ hữu hiệu mà không có sự chín chắn, sức mạnh của tính cách để duy trì các mối quan hệ đó.
 
@@ -36,7 +36,7 @@ mở hộp sọ vợ anh ra rồi lên dây thần kinh điều chỉnh lại th
 
 “Ông bạn ạ”, tôi nói, “Chỉ nói suông thì ông không thể nào thoát ra khỏi vấn đề mà ông tự dấn thân vào”.
 
-Ở đây, chúng ta đang phải đối mặt với vấn đề thay đổi mô thức rất triệt để, rất cơ bản. Bạn có thể làm trơn tru các mối giao tiếp xã hội bằng những kỹ thuật và kỹ năng riêng, nhưng trong quá trình đó, bạn có thể bỏ mất nền tảng tính cách quan trọng. Bạn không thể có thành tích hão. Đây là một nguyên tắc theo trình tự: ***Thành tích cá nhân đi trước Thành tích tập thể*** . Sự tự chủ và ý thức tự giác là nền tảng của các mối quan hệ tốt đẹp với người khác.
+Ở đây, chúng ta đang phải đối mặt với vấn đề thay đổi mô thức rất triệt để, rất cơ bản. Bạn có thể làm trơn tru các mối giao tiếp xã hội bằng những kỹ thuật và kỹ năng riêng, nhưng trong quá trình đó, bạn có thể bỏ mất nền tảng tính cách quan trọng. Bạn không thể có thành tích hão. Đây là một nguyên tắc theo trình tự: ***Thành tích cá nhân đi trước Thành tích tập thể***. Sự tự chủ và ý thức tự giác là nền tảng của các mối quan hệ tốt đẹp với người khác.
 
 Một số người nói rằng bạn phải yêu quý bản thân mình trước khi bạn có thể yêu quý người khác. Tôi nghĩ rằng ý tưởng đó có lý, nhưng nếu bạn không biết rõ bản thân, nếu bạn không làm chủ được bản thân thì sẽ rất khó yêu quý chính mình, trừ một số trường hợp, nhưng chỉ mang tính nhất thời, hời hợt.
 
@@ -52,7 +52,7 @@ Nhìn về phía trước, chúng ta thấy mình đang bước vào một khôn
 
 Ngược lại, với những bất lợi có tính kinh niên, chúng ta trở nên quen thuộc với nó và biết cách chung sống cùng nó. Chúng ta thường sống hết năm này sang năm khác với sự bất lợi do thiếu tầm nhìn, thiếu sự lãnh đạo hay quản lý trong cuộc sống cá nhân. Chúng ta cảm thấy bực bội và khó chịu một cách mơ hồ, và thỉnh thoảng lại tìm cách để giảm thiểu, chí ít là trong giây lát.
 
-Nhưng khi gặp rắc rối trong quan hệ giao tiếp với người khác, chúng ta trở nên rất cảnh giác với những bất lợi cấp tính – chúng thường rất căng thẳng và ta muốn tống khứ chúng ngay lập tức. Đó chính là lúc ta tìm cách điều trị các triệu chứng đó bằng giải pháp cấp tốc, bằng các kỹ thuật của ***Đạo đức nhân cách*** . Chúng ta không hiểu rằng triệu chứng cấp tính là sự bùng phát của căn bệnh mãn tính vốn còn trầm trọng hơn. Và nếu không chấm dứt việc điều trị triệu chứng để tiến hành chữa trị tận gốc căn bệnh thì những nỗ lực của chúng ta chỉ thêm phản tác dụng.
+Nhưng khi gặp rắc rối trong quan hệ giao tiếp với người khác, chúng ta trở nên rất cảnh giác với những bất lợi cấp tính – chúng thường rất căng thẳng và ta muốn tống khứ chúng ngay lập tức. Đó chính là lúc ta tìm cách điều trị các triệu chứng đó bằng giải pháp cấp tốc, bằng các kỹ thuật của ***Đạo đức nhân cách***. Chúng ta không hiểu rằng triệu chứng cấp tính là sự bùng phát của căn bệnh mãn tính vốn còn trầm trọng hơn. Và nếu không chấm dứt việc điều trị triệu chứng để tiến hành chữa trị tận gốc căn bệnh thì những nỗ lực của chúng ta chỉ thêm phản tác dụng.
 
 Trở lại vấn đề đang bàn luận – sự giao tiếp hiệu quả với người khác – chúng ta hãy quay trở lại định nghĩa trước đây về thành đạt. Chúng ta nói thành đạt là sự cân bằng P/PC, đó là một khái niệm cơ bản rút ra từ câu chuyện về con ngỗng và những quả trứng vàng.
 
@@ -218,7 +218,7 @@ Làm rõ các kỳ vọng đòi hỏi phải có sự thành thật. Mọi sự 
 
 Sự chính trực tạo ra lòng tin và là cơ sở tạo ra các khoản ký gửi vào tài khoản tình cảm. Nếu thiếu trung thực, người ta có thể làm hại hầu như mọi nỗ lực tạo ra các tài khoản tin cậy cao. Người ta có thể cố gắng để hiểu, nhớ những việc nhỏ nhặt, giữ lời hứa của mình, làm rõ và thực hiện các kỳ vọng, nhưng vẫn không xây dựng được nguồn dự trữ cho lòng tin bằng sự giả dối.
 
-Sự chính trực không chỉ bao hàm tính trung thực mà còn hơn thế nữa. ***Trung thực***là nói sự thật, là giữ cho lời nói của mình phù hợp với sự thật. Còn***chính trực*** là làm cho sự thật phù hợp với lời nói của mình - đi đôi với hành động. Nói cách khác, đó là việc giữ lời hứa và thực hiện các kỳ vọng. Điều này đòi hỏi một tính cách kết hợp, nhất quán, trước hết đối với bản ngã, và cũng là đối với cuộc sống của một người.
+Sự chính trực không chỉ bao hàm tính trung thực mà còn hơn thế nữa. ***Trung thực*** là nói sự thật, là giữ cho lời nói của mình phù hợp với sự thật. Còn ***chính trực*** là làm cho sự thật phù hợp với lời nói của mình - đi đôi với hành động. Nói cách khác, đó là việc giữ lời hứa và thực hiện các kỳ vọng. Điều này đòi hỏi một tính cách kết hợp, nhất quán, trước hết đối với bản ngã, và cũng là đối với cuộc sống của một người.
 
 Một trong những cách quan trọng nhất để thực hiện sự chính trực là ***trung thành với những người không có mặt.*** Bằng cách đó, chúng ta sẽ xây dựng được lòng tin của người có mặt.
 
@@ -338,11 +338,11 @@ Mô thức này cũng có tác động mạnh trong lĩnh vực kinh doanh. Mộ
 
 Bằng cách xem sự cân bằng P/PC là một yếu tố cần thiết cho một thực tại hiệu quả có tính tương thuộc, chúng ta có thể biến vấn nạn thành cơ hội, tức dùng P để gia tăng PC.
 
-Có được mô thức về ***tài khoản tình cảm***trong tâm trí, chúng ta đã sẵn sàng bước vào Thói quen xây dựng***Thành tích tập thể*** . Khi thực hiện điều này, chúng ta sẽ hiểu rõ cần kết hợp các thói quen với nhau như thế nào để tạo ra được mối quan hệ tương thuộc hiệu quả. Chúng ta cũng sẽ thấy được mình đã bị chi phối mạnh mẽ như thế nào bởi một “kịch bản” khác về khuôn mẫu suy nghĩ và hành vi của chúng ta.
+Có được mô thức về ***tài khoản tình cảm*** trong tâm trí, chúng ta đã sẵn sàng bước vào Thói quen xây dựng ***Thành tích tập thể***. Khi thực hiện điều này, chúng ta sẽ hiểu rõ cần kết hợp các thói quen với nhau như thế nào để tạo ra được mối quan hệ tương thuộc hiệu quả. Chúng ta cũng sẽ thấy được mình đã bị chi phối mạnh mẽ như thế nào bởi một “kịch bản” khác về khuôn mẫu suy nghĩ và hành vi của chúng ta.
 
 Ngoài ra, chúng ta còn nhận thấy, ở mức độ sâu sắc
 
-hơn, rằng quan hệ tương thuộc hiệu quả chỉ có thể đạt được khi những người tham gia thực sự độc lập. ***Thành tích tập thể***không thể có được bằng các kỹ thuật “đàm phán thỏa hiệp” hay “tư duy chỉ bằng lắng nghe”. Thậm chí “giải quyết vấn đề một cách sáng tạo” cũng không mang lại kết quả.***Thành tích tập thể*** không thể có được khi chỉ tập trung vào nhân cách mà bỏ qua nền tảng tính cách căn bản.
+hơn, rằng quan hệ tương thuộc hiệu quả chỉ có thể đạt được khi những người tham gia thực sự độc lập. ***Thành tích tập thể*** không thể có được bằng các kỹ thuật “đàm phán thỏa hiệp” hay “tư duy chỉ bằng lắng nghe”. Thậm chí “giải quyết vấn đề một cách sáng tạo” cũng không mang lại kết quả. ***Thành tích tập thể*** không thể có được khi chỉ tập trung vào nhân cách mà bỏ qua nền tảng tính cách căn bản.
 
 # Thói quen thứ tư - TƯ DUY CÙNG THẮNG
 
@@ -544,19 +544,19 @@ Sau khi cân nhắc đủ mọi phương án, cuối cùng, chúng tôi nhận t
 
 “Vậy anh gọi đó là gì?”
 
-Khi nhận ra rằng cái mà ông vẫn nghĩ là ***cùng thắng***thực ra là***thua/thắng*** , ông đã bị sốc.
+Khi nhận ra rằng cái mà ông vẫn nghĩ là ***cùng thắng*** thực ra là ***thua/thắng***, ông đã bị sốc.
 
-Nếu người đàn ông này có ***tư duy cùng thắng***thực sự thì ông ấy đã kiên nhẫn hơn, biết lắng nghe ý kiến của ban quản lý siêu thị hơn và trình bày quan điểm một cách mạnh dạn hơn. Ông ấy nên tiếp tục tinh thần***cùng thắng*** cho đến khi đạt được giải pháp làm hài lòng cả hai bên. Đó mới là phương án đồng tâm hiệp lực – điều mà có thể cả hai bên không ai nghĩ tới.
+Nếu người đàn ông này có ***tư duy cùng thắng*** thực sự thì ông ấy đã kiên nhẫn hơn, biết lắng nghe ý kiến của ban quản lý siêu thị hơn và trình bày quan điểm một cách mạnh dạn hơn. Ông ấy nên tiếp tục tinh thần ***cùng thắng*** cho đến khi đạt được giải pháp làm hài lòng cả hai bên. Đó mới là phương án đồng tâm hiệp lực – điều mà có thể cả hai bên không ai nghĩ tới.
 
 ### Cùng thắng hoặc không giao kèo
 
-Nếu cả hai bên đều không đạt được thỏa thuận cùng có lợi thì họ vẫn có thể đi đến giải pháp ***cùng thắng***hoặc***không giao kèo*** .
+Nếu cả hai bên đều không đạt được thỏa thuận cùng có lợi thì họ vẫn có thể đi đến giải pháp ***cùng thắng*** hoặc ***không giao kèo***.
 
 Không giao kèo có nghĩa là nếu không tìm được giải pháp thỏa đáng cho cả hai bên, chúng ta sẽ thừa nhận các điểm bất đồng của nhau. Không có giao kèo gì cả. Không có sự kỳ vọng nào được đặt ra, không có thỏa thuận nào được thiết lập. Tôi không hợp tác với bạn hoặc chúng ta không làm việc cùng nhau nữa bởi những giá trị và mục tiêu của chúng ta rõ ràng là đối lập nhau. Vì vậy, chúng ta nên nhận diện sự đối lập ngay từ đầu để tránh bị thất vọng.
 
 Khi chọn giải pháp không giao kèo, bạn sẽ cảm thấy tự do hơn, cởi mở hơn vì không phải tìm cách điều khiển, đối phó với người khác, hay thúc đẩy kế hoạch để có được cái mình muốn. Bạn sẽ có thời gian tìm hiểu sâu hơn những vấn đề cốt lõi của tình hình và tìm ra phương hướng giải quyết. Với chủ trương này, bạn có thể giải thích: “Tôi chỉ muốn giải pháp cả hai cùng thắng, vì nếu anh không đồng ý với những cam kết thì có nghĩa là anh đang phải chịu thiệt, như vậy, mối quan hệ giữa chúng ta sẽ chẳng được lâu dài. Nếu không thể đạt được giải pháp đó, chúng ta không nên có bất cứ giao kèo nào”.
 
-Sau một thời gian học được khái niệm ***cùng thắng***hoặc***không giao kèo,*** chủ tịch của một công ty nhỏ về phần mềm máy tính đến chia sẻ với tôi kinh nghiệm sau.
+Sau một thời gian học được khái niệm ***cùng thắng*** hoặc ***không giao kèo,*** chủ tịch của một công ty nhỏ về phần mềm máy tính đến chia sẻ với tôi kinh nghiệm sau.
 
 “Chúng tôi đã xây dựng được phần mềm mới và đã bán cho một ngân hàng theo hợp đồng 5 năm. Vị chủ tịch của ngân hàng rất phấn khởi, nhưng các nhân viên cấp dưới thì không ủng hộ quyết định của ông.
 
@@ -568,21 +568,21 @@ Tôi đã bỏ đi một hợp đồng trị giá 84.000 USD. Nó gần như m�
 
 Ba tháng sau, ông chủ tịch ngân hàng đó gọi điện cho tôi: “Chúng tôi đang thay đổi hệ thống xử lý dữ liệu, chúng tôi muốn hợp tác với công ty ông”. Và ông ấy đã ký một hợp đồng mới trị giá 240.000 USD với chúng tôi.”
 
-Trong một thực tại tương thuộc, bất kỳ giải pháp nào kém hơn giải pháp cùng thắng chỉ là hạ sách và sẽ có tác động đến mối quan hệ lâu dài. Cái giá phải trả cho tác động đó cần phải được xem xét kỹ lưỡng. Nếu không thể đạt được giải pháp cùng thắng thực sự, thì bạn nên chọn giải pháp không giao kèo. ***Cùng thắng***hoặc***không giao kèo*** không những đem lại sự tự do lớn trong kinh doanh mà còn cả trong quan hệ tình cảm gia đình. Nếu các thành viên trong gia đình không muốn xem video, thì đơn giản là họ nên quyết định làm chuyện khác, – nghĩa là chọn phương án “không giao kèo”.
+Trong một thực tại tương thuộc, bất kỳ giải pháp nào kém hơn giải pháp cùng thắng chỉ là hạ sách và sẽ có tác động đến mối quan hệ lâu dài. Cái giá phải trả cho tác động đó cần phải được xem xét kỹ lưỡng. Nếu không thể đạt được giải pháp cùng thắng thực sự, thì bạn nên chọn giải pháp không giao kèo. ***Cùng thắng*** hoặc ***không giao kèo*** không những đem lại sự tự do lớn trong kinh doanh mà còn cả trong quan hệ tình cảm gia đình. Nếu các thành viên trong gia đình không muốn xem video, thì đơn giản là họ nên quyết định làm chuyện khác, – nghĩa là chọn phương án “không giao kèo”.
 
 Tôi có một cô bạn là ca sĩ, vào mỗi cuối tuần, gia đình cô ấy thường đi hát chung với nhau. Trước đây, khi các con còn nhỏ, cô ấy luôn là người chuẩn bị phần nhạc, trang phục biểu diễn, đệm đàn piano và chỉ đạo biểu diễn. Khi những đứa con lớn lên, thị hiếu âm nhạc của chúng thay đổi và chúng muốn có tiếng nói riêng về cách biểu diễn cũng như trang phục. Chúng không muốn nghe theo sự chỉ đạo của mẹ nữa.
 
 Vì có nhiều kinh nghiệm biểu diễn và nắm bắt kịp thời nhu cầu khán giả nên cô ấy không đồng tình với đề xuất của các con. Nhưng cô ấy cũng nhận thấy sự cần thiết phải xem bọn trẻ như những thành viên trưởng thành và có quyền đưa ra quyết định.
 
-Do đó, cô ấy chọn giải pháp ***cùng thắng***hoặc***không giao kèo.***Cô ấy nói với chúng rằng cần có một thỏa thuận mà mọi người đều hài lòng. Hoặc nếu không chúng sẽ chọn cách khác để thể hiện tài năng. Kết quả là mọi người cảm thấy thoải mái đưa ra ý kiến nhằm xác lập thỏa thuận***cùng thắng,*** với nhận thức rằng dù họ có đạt được thỏa thuận hay không thì điều đó cũng không có gì ràng buộc về tình cảm.
+Do đó, cô ấy chọn giải pháp ***cùng thắng*** hoặc ***không giao kèo.*** Cô ấy nói với chúng rằng cần có một thỏa thuận mà mọi người đều hài lòng. Hoặc nếu không chúng sẽ chọn cách khác để thể hiện tài năng. Kết quả là mọi người cảm thấy thoải mái đưa ra ý kiến nhằm xác lập thỏa thuận ***cùng thắng,*** với nhận thức rằng dù họ có đạt được thỏa thuận hay không thì điều đó cũng không có gì ràng buộc về tình cảm.
 
-Cách tiếp cận ***cùng thắng***hoặc***không giao kèo***là phương pháp thiết thực nhất ở***giai đoạn đầu*** của các mối quan hệ kinh doanh. Một khi quan hệ đã phát triển thì giải pháp không giao kèo không còn là giải pháp khả thi, vì nó có thể gây ra nhiều rắc rối nghiêm trọng, đặc biệt đối với các doanh nghiệp gia đình hay các doanh nghiệp có sự khởi đầu dựa trên cơ sở tình bạn.
+Cách tiếp cận ***cùng thắng*** hoặc ***không giao kèo*** là phương pháp thiết thực nhất ở ***giai đoạn đầu*** của các mối quan hệ kinh doanh. Một khi quan hệ đã phát triển thì giải pháp không giao kèo không còn là giải pháp khả thi, vì nó có thể gây ra nhiều rắc rối nghiêm trọng, đặc biệt đối với các doanh nghiệp gia đình hay các doanh nghiệp có sự khởi đầu dựa trên cơ sở tình bạn.
 
-Đôi khi, vì cả nể nhau, nhiều người phải đi từ thỏa hiệp này đến thỏa hiệp khác, tuy ngoài mặt luôn tỏ ra tôn trọng nguyên tắc ***cùng thắng***nhưng trong đầu chỉ nghĩ đến việc thắng/thua hay thua/thắng. Điều này sẽ làm cho doanh nghiệp tàn lụi dần và đi đến thất bại, hoặc phải sang nhượng cho nhà quản lý chuyên nghiệp hơn. Và vấn đề sẽ trở nên nghiêm trọng khi đối thủ cạnh tranh của họ hoạt động theo nguyên tắc***cùng thắng*** và đồng tâm hiệp lực.
+Đôi khi, vì cả nể nhau, nhiều người phải đi từ thỏa hiệp này đến thỏa hiệp khác, tuy ngoài mặt luôn tỏ ra tôn trọng nguyên tắc ***cùng thắng*** nhưng trong đầu chỉ nghĩ đến việc thắng/thua hay thua/thắng. Điều này sẽ làm cho doanh nghiệp tàn lụi dần và đi đến thất bại, hoặc phải sang nhượng cho nhà quản lý chuyên nghiệp hơn. Và vấn đề sẽ trở nên nghiêm trọng khi đối thủ cạnh tranh của họ hoạt động theo nguyên tắc ***cùng thắng*** và đồng tâm hiệp lực.
 
 Kinh nghiệm cho thấy sẽ tốt hơn cho doanh nghiệp gia đình hay doanh nghiệp bạn bè nếu họ áp dụng phương pháp không giao kèo để giải quyết vướng mắc, cũng như nên xác lập trước một quy tắc mua/bán để doanh nghiệp có thể phát triển thịnh vượng mà không làm tổn hại đến hòa khí giữa các thành viên.
 
-Tuy nhiên, cũng có một số mối quan hệ không thể sử dụng giải pháp không giao kèo. Tôi sẽ không thể nào từ bỏ con tôi hay vợ tôi để chọn giải pháp không giao kèo. Tôi có thể đi vào đàm phán với các con hoặc với vợ mình về một giải pháp ***cùng thắng***. Nếu vẫn không thành công, sẽ tốt hơn khi tôi chọn giải pháp thỏa hiệp lúc cần thiết – một hình thức thấp của***tư duy cùng thắng*** .
+Tuy nhiên, cũng có một số mối quan hệ không thể sử dụng giải pháp không giao kèo. Tôi sẽ không thể nào từ bỏ con tôi hay vợ tôi để chọn giải pháp không giao kèo. Tôi có thể đi vào đàm phán với các con hoặc với vợ mình về một giải pháp ***cùng thắng***. Nếu vẫn không thành công, sẽ tốt hơn khi tôi chọn giải pháp thỏa hiệp lúc cần thiết – một hình thức thấp của ***tư duy cùng thắng***.
 
 ### 2. NĂM PHƯƠNG DIỆN CỦA TƯ DUY CÙNG THẮNG
 
@@ -590,7 +590,7 @@ Tuy nhiên, cũng có một số mối quan hệ không thể sử dụng giải
 
 Đó là lý do vì sao thói quen thứ tư gồm có các nguyên tắc lãnh đạo giữa người và người. Sự lãnh đạo này đòi hỏi tầm nhìn, bước khởi đầu chủ động, an toàn, định hướng, khôn ngoan và năng lực – những yếu tố bắt nguồn từ mô thức lãnh đạo cá nhân lấy nguyên tắc làm trọng tâm.
 
-Nguyên tắc ***cùng thắng***là nguyên tắc cơ bản đưa đến thành công trong mọi tương tác của con người. Nó bao gồm năm mặt tương thuộc trong cuộc sống, bắt đầu là***tính cách,***sau đó là***các mối quan hệ***để hình thành***các thỏa thuận.***Nó được nuôi dưỡng trong một môi trường mà***cấu trúc***và***quy tắc***được xây dựng trên cơ sở***tư duy cùng thắng***. Và nó liên quan đến***quy trình;***chúng ta không thể đạt mục đích***cùng thắng*** bằng lối tư duy thắng/thua hay thua/thắng.
+Nguyên tắc ***cùng thắng*** là nguyên tắc cơ bản đưa đến thành công trong mọi tương tác của con người. Nó bao gồm năm mặt tương thuộc trong cuộc sống, bắt đầu là ***tính cách,*** sau đó là ***các mối quan hệ*** để hình thành ***các thỏa thuận.*** Nó được nuôi dưỡng trong một môi trường mà ***cấu trúc*** và ***quy tắc*** được xây dựng trên cơ sở ***tư duy cùng thắng***. Và nó liên quan đến ***quy trình;*** chúng ta không thể đạt mục đích ***cùng thắng*** bằng lối tư duy thắng/thua hay thua/thắng.
 
 Sơ đồ dưới đây cho thấy mối quan hệ của 5 phương diện này với nhau.
 
@@ -598,7 +598,7 @@ Bây giờ chúng ta bắt đầu xem xét từng phương diện.
 
 ### Tính cách
 
-Tính cách là nền tảng của ***tư duy cùng thắng***. Mọi thứ khác đều được xây dựng trên nền tảng này. Có ba đặc trưng tính cách quan trọng đối với mô thức***cùng thắng*** .
+Tính cách là nền tảng của ***tư duy cùng thắng***. Mọi thứ khác đều được xây dựng trên nền tảng này. Có ba đặc trưng tính cách quan trọng đối với mô thức ***cùng thắng***.
 
 **Tính chính trực.** Tính chính trực là giá trị chúng ta đặt vào bản thân mình. Các Thói quen 1, 2 và 3 giúp chúng ta phát triển và duy trì tính chính trực. Khi chúng ta nhận diện rõ các giá trị của mình, chủ động tổ chức và thực hiện theo những giá trị này hàng ngày, chúng ta sẽ xây dựng được sự tự nhận thức, ý chí độc lập bằng cách giữ lời hứa và thực hiện đúng cam kết.
 
@@ -642,35 +642,35 @@ Người rộng lượng luôn vui vẻ, hài lòng và mãn nguyện. Họ số
 
 Một tính cách giàu lòng chính trực, chín chắn và rộng lượng sẽ tạo ra quan hệ tương tác đích thực giữa người và người mà không kỹ xảo nào có thể thay thế được.
 
-Những người có tư duy thắng/thua muốn xây dựng ***tư duy cùng thắng***nên tiếp cận và tạo mối quan hệ mật thiết với những người có***tư duy cùng thắng***, bởi họ thường ít có cơ hội nhìn thấy và trải nghiệm***tư duy cùng thắng.***Do đó, tôi khuyên các bạn nên đọc sách, như cuốn tự truyện hấp dẫn “Tìm kiếm nhân dạng” của Anwar Sadat, và xem phim, như “Chiến xa bão lửa”, hay xem kịch, như “Những người khốn khổ”. Nó sẽ giúp bạn tiếp cận với những tấm gương sống theo***tư duy cùng thắng*** .
+Những người có tư duy thắng/thua muốn xây dựng ***tư duy cùng thắng*** nên tiếp cận và tạo mối quan hệ mật thiết với những người có ***tư duy cùng thắng***, bởi họ thường ít có cơ hội nhìn thấy và trải nghiệm ***tư duy cùng thắng.*** Do đó, tôi khuyên các bạn nên đọc sách, như cuốn tự truyện hấp dẫn “Tìm kiếm nhân dạng” của Anwar Sadat, và xem phim, như “Chiến xa bão lửa”, hay xem kịch, như “Những người khốn khổ”. Nó sẽ giúp bạn tiếp cận với những tấm gương sống theo ***tư duy cùng thắng***.
 
 Nên nhớ rằng, chỉ khi nào tìm thấy được giá trị nội tại ngay trong con người mình – những giá trị vượt ra khỏi các kịch bản định sẵn – thì chúng ta mới có thể đạt đến giá trị đích thực của ***tư duy cùng thắng*** cũng như các nguyên tắc đúng đắn khác trong cuộc sống.
 
 ### Các mối quan hệ
 
-Từ nền tảng của tính cách, chúng ta sẽ xây dựng và duy trì được các mối quan hệ theo ***tư duy cùng thắng***. Sự tin cậy lẫn nhau và tài khoản tình cảm là cốt lõi của***tư duy cùng thắng.***Không có sự tin cậy thì điều chúng ta có thể làm được suy cho cùng chỉ là thỏa hiệp; không có sự tin cậy, chúng ta sẽ không cởi mở, học hỏi và giao tiếp lẫn nhau, chúng ta không sáng tạo thực sự. Nhưng nếu***tài khoản tình cảm*** của chúng ta có số dư ở mức cao, thì độ tin cậy không còn là vấn đề. Các “khoản gửi” trong tài khoản đủ làm cho bạn và tôi tôn trọng lẫn nhau. Chúng ta tập trung vào giải quyết vấn đề, chứ không bận tâm về nhân cách hay lập trường của nhau nữa.
+Từ nền tảng của tính cách, chúng ta sẽ xây dựng và duy trì được các mối quan hệ theo ***tư duy cùng thắng***. Sự tin cậy lẫn nhau và tài khoản tình cảm là cốt lõi của ***tư duy cùng thắng.*** Không có sự tin cậy thì điều chúng ta có thể làm được suy cho cùng chỉ là thỏa hiệp; không có sự tin cậy, chúng ta sẽ không cởi mở, học hỏi và giao tiếp lẫn nhau, chúng ta không sáng tạo thực sự. Nhưng nếu ***tài khoản tình cảm*** của chúng ta có số dư ở mức cao, thì độ tin cậy không còn là vấn đề. Các “khoản gửi” trong tài khoản đủ làm cho bạn và tôi tôn trọng lẫn nhau. Chúng ta tập trung vào giải quyết vấn đề, chứ không bận tâm về nhân cách hay lập trường của nhau nữa.
 
 Vì tin cậy lẫn nhau, nên chúng ta sẽ cởi mở hơn và dám đặt các “con bài” của mình lên bàn. Mặc dù có những điểm khác nhau, nhưng tôi hiểu rằng bạn sẽ lắng nghe tôi trên cơ
 
 sở tôn trọng lẫn nhau, và ngược lại. Cả hai cùng quyết tâm tìm hiểu, cam kết giữ vững lợi ích của nhau trong quá trình hợp tác.
 
-Mối quan hệ theo phương thức ***cùng thắng,***với mức độ tin cậy cao là bàn đạp lý tưởng cho***đồng tâm hiệp lực*** (Thói quen thứ sáu). Mối quan hệ đó không hề làm cho các vấn đề kém đi tính hiện thực hay kém phần quan trọng, hoặc loại bỏ sự khác biệt về cách nhìn. Ngược lại, nó giúp triệt tiêu năng lượng tiêu cực vốn thường tập trung vào những khác biệt về nhân cách và địa vị. Đồng thời, nó tạo ra nguồn năng lương tích cực có trọng tâm là phối hợp năng lực của cả hai bên để tạo nên sức mạnh sáng tạo và liên kết, giúp hiểu biết thấu đáo các vấn đề và giải quyết chúng sao cho cả hai cùng có lợi.
+Mối quan hệ theo phương thức ***cùng thắng,*** với mức độ tin cậy cao là bàn đạp lý tưởng cho ***đồng tâm hiệp lực*** (Thói quen thứ sáu). Mối quan hệ đó không hề làm cho các vấn đề kém đi tính hiện thực hay kém phần quan trọng, hoặc loại bỏ sự khác biệt về cách nhìn. Ngược lại, nó giúp triệt tiêu năng lượng tiêu cực vốn thường tập trung vào những khác biệt về nhân cách và địa vị. Đồng thời, nó tạo ra nguồn năng lương tích cực có trọng tâm là phối hợp năng lực của cả hai bên để tạo nên sức mạnh sáng tạo và liên kết, giúp hiểu biết thấu đáo các vấn đề và giải quyết chúng sao cho cả hai cùng có lợi.
 
 Nhưng điều gì sẽ xảy ra nếu bạn buộc phải thỏa thuận với một người, mà người này chưa bao giờ biết đến ***tư duy cùng thắng*** và chỉ nghĩ đến triết lý thắng/thua hay một triết lý nào khác?
 
-Đương đầu với tư duy thắng/thua là một thách thức thật sự của ***tư duy cùng thắng.***Thực tế cho thấy không phải lúc nào***tư duy cùng thắng*** cũng đúng trong mọi tình huống, tùy vào vấn đề và sự khác biệt cơ bản cần phải được giải quyết. Nhưng sẽ dễ dàng hơn nếu cả hai bên đều hiểu được điều đó và quyết tâm thực hiện.
+Đương đầu với tư duy thắng/thua là một thách thức thật sự của ***tư duy cùng thắng.*** Thực tế cho thấy không phải lúc nào ***tư duy cùng thắng*** cũng đúng trong mọi tình huống, tùy vào vấn đề và sự khác biệt cơ bản cần phải được giải quyết. Nhưng sẽ dễ dàng hơn nếu cả hai bên đều hiểu được điều đó và quyết tâm thực hiện.
 
-Khi bạn gặp phải đối tác có mô thức thắng/thua, mối quan hệ với người đó vẫn là chìa khóa chính yếu. Bạn cần tập trung vào ***Vòng tròn Ảnh hưởng***của mình, đưa “khoản gửi” vào***tài khoản tình cảm*** thông qua sự lịch thiệp chân thành, tôn trọng và đánh giá cao đối tác. Bạn phải dành thời gian lâu hơn cho giao tiếp, biết lắng nghe nhiều hơn,
+Khi bạn gặp phải đối tác có mô thức thắng/thua, mối quan hệ với người đó vẫn là chìa khóa chính yếu. Bạn cần tập trung vào ***Vòng tròn Ảnh hưởng*** của mình, đưa “khoản gửi” vào ***tài khoản tình cảm*** thông qua sự lịch thiệp chân thành, tôn trọng và đánh giá cao đối tác. Bạn phải dành thời gian lâu hơn cho giao tiếp, biết lắng nghe nhiều hơn,
 
-kỹ hơn. Bạn phải thể hiện mình bằng sự nhiệt tình để đối tác hiểu rằng bạn thực sự mong muốn xây dựng mối quan hệ với họ trên nền tảng ***cùng thắng***. Quá trình đó chính là một khoản lớn gửi vào***tài khoản tình cảm*** trong mối quan hệ giữa bạn và đối tác.
+kỹ hơn. Bạn phải thể hiện mình bằng sự nhiệt tình để đối tác hiểu rằng bạn thực sự mong muốn xây dựng mối quan hệ với họ trên nền tảng ***cùng thắng***. Quá trình đó chính là một khoản lớn gửi vào ***tài khoản tình cảm*** trong mối quan hệ giữa bạn và đối tác.
 
 Tính cách của bạn càng chân thật, mức độ chủ động càng cao, nhiệt tình hướng đến giải pháp ***cùng thắng*** càng nhiều thì ảnh hưởng của bạn đến người khác càng mạnh. Đây là một thách thức thực sự đối với mô thức lãnh đạo giữa người và người. Nó chuyển từ mô thức Lãnh đạo dựa trên các mối quan hệ sang mô thức Lãnh đạo làm thay đổi các mối quan hệ.
 
-Vì nguyên tắc ***cùng thắng***tỏ ra hiệu quả trong mọi tình huống nên bạn có thể đề nghị đối tác lấy đó làm tiêu chuẩn cho việc hợp tác giữa hai bên. Tuy nhiên, chỉ một số ít người có tư duy thắng/thua có thể tiếp cận và chuyển sang***tư duy cùng thắng***. Do vậy, bạn cần nhớ rằng phương án “không giao kèo” luôn luôn là giải pháp phòng bị. Hoặc đôi khi, bạn cũng phải chọn giải pháp***thỏa hiệp.***
+Vì nguyên tắc ***cùng thắng*** tỏ ra hiệu quả trong mọi tình huống nên bạn có thể đề nghị đối tác lấy đó làm tiêu chuẩn cho việc hợp tác giữa hai bên. Tuy nhiên, chỉ một số ít người có tư duy thắng/thua có thể tiếp cận và chuyển sang ***tư duy cùng thắng***. Do vậy, bạn cần nhớ rằng phương án “không giao kèo” luôn luôn là giải pháp phòng bị. Hoặc đôi khi, bạn cũng phải chọn giải pháp ***thỏa hiệp.***
 
-Điều quan trọng cần lưu ý là không phải lúc nào bạn cũng chọn phương pháp ***cùng thắng,***ngay cả khi số dư***tài khoản tình cảm*** của bạn đang ở mức cao. Chẳng hạn, nếu bạn và tôi cùng làm việc với nhau, bạn đến gặp tôi và nói: “Stephen, tôi biết anh không thích quyết định này. Và tôi không có thời gian để giải thích với anh. Có thể anh sẽ nghĩ đây là quyết định sai lầm, nhưng liệu anh có thể ủng hộ tôi không?”.
+Điều quan trọng cần lưu ý là không phải lúc nào bạn cũng chọn phương pháp ***cùng thắng,*** ngay cả khi số dư ***tài khoản tình cảm*** của bạn đang ở mức cao. Chẳng hạn, nếu bạn và tôi cùng làm việc với nhau, bạn đến gặp tôi và nói: “Stephen, tôi biết anh không thích quyết định này. Và tôi không có thời gian để giải thích với anh. Có thể anh sẽ nghĩ đây là quyết định sai lầm, nhưng liệu anh có thể ủng hộ tôi không?”.
 
-Nếu như bạn có ***tài khoản tình cảm***tích cực đối với tôi, tất nhiên tôi sẽ ủng hộ bạn. Rất có thể trong việc này, bạn đã hoàn toàn đúng. Nhưng nếu***tài khoản tình cảm*** cạn kiệt,
+Nếu như bạn có ***tài khoản tình cảm*** tích cực đối với tôi, tất nhiên tôi sẽ ủng hộ bạn. Rất có thể trong việc này, bạn đã hoàn toàn đúng. Nhưng nếu ***tài khoản tình cảm*** cạn kiệt,
 
 và nếu tôi là người bị động đối phó, tôi sẽ không thực sự ủng hộ. Trước mặt bạn, tôi có thể đồng tình, nhưng sau lưng bạn, tôi lại không thực sự nhiệt tình. Tôi sẽ không đầu tư sức lực cần thiết để giúp bạn thành công.
 
@@ -680,13 +680,13 @@ Một thỏa thuận bằng văn bản sẽ chẳng có ý nghĩa gì nếu nó 
 
 ### Thỏa thuận
 
-Sau khi thiết lập mối quan hệ, người ta sẽ đưa ra các thỏa thuận dựa trên nguyên tắc ***cùng thắng*** . Đôi khi, những thỏa thuận này được gọi là các thỏa thuận về hiệu quả làm việc hay hợp tác. Nó chuyển đổi mô thức tương tác từ chiều dọc sang chiều ngang, từ việc giám sát lẫn nhau sang tự giám sát, từ đối thủ sang đối tác nhằm mang đến thành công cho tất cả các bên.
+Sau khi thiết lập mối quan hệ, người ta sẽ đưa ra các thỏa thuận dựa trên nguyên tắc ***cùng thắng***. Đôi khi, những thỏa thuận này được gọi là các thỏa thuận về hiệu quả làm việc hay hợp tác. Nó chuyển đổi mô thức tương tác từ chiều dọc sang chiều ngang, từ việc giám sát lẫn nhau sang tự giám sát, từ đối thủ sang đối tác nhằm mang đến thành công cho tất cả các bên.
 
-Những thỏa thuận ***cùng thắng***bao trùm một phạm vi rộng của***sự tương tác có tính tương thuộc*** . Chúng ta đã thảo luận một ứng dụng quan trọng khi nói về sự ủy quyền trong câu chuyện “Sạch và xanh” ở Thói quen 3. Năm yếu tố mà chúng ta liệt kê ở đó là cơ sở của các thỏa thuận giữa người sử dụng lao động và người lao động, giữa những người làm việc độc lập và một nhóm người hợp tác với
+Những thỏa thuận ***cùng thắng*** bao trùm một phạm vi rộng của ***sự tương tác có tính tương thuộc***. Chúng ta đã thảo luận một ứng dụng quan trọng khi nói về sự ủy quyền trong câu chuyện “Sạch và xanh” ở Thói quen 3. Năm yếu tố mà chúng ta liệt kê ở đó là cơ sở của các thỏa thuận giữa người sử dụng lao động và người lao động, giữa những người làm việc độc lập và một nhóm người hợp tác với
 
 nhau nhằm đạt được mục đích chung. Những thỏa thuận này sẽ tạo ra một phương thức hiệu quả để xác định và đáp ứng những kỳ vọng của các bên tham gia trong một nỗ lực chung có tính tương thuộc lẫn nhau.
 
-Trong thỏa thuận ***cùng thắng*** , năm nhân tố sau đây cần được thể hiện một cách rõ ràng:
+Trong thỏa thuận ***cùng thắng***, năm nhân tố sau đây cần được thể hiện một cách rõ ràng:
 
 > Kết quả mong muốn: Xác định những việc cần làm và thời hạn hoàn thành.
 
@@ -700,7 +700,7 @@ Trong thỏa thuận ***cùng thắng*** , năm nhân tố sau đây cần đư�
 
 Năm nhân tố nói trên sẽ giúp các thỏa thuận ***cùng thắng*** tồn tại. Sự hiểu biết lẫn nhau và thỏa thuận rõ ràng ngay từ đầu về các lĩnh vực trên sẽ tạo ra một chuẩn mực để đo lường mức độ thành công của mỗi người.
 
-Sự giám sát chuyên quyền theo lối cũ chính là mô thức ***thắng/thua.***Nó cũng là hậu quả của***tài khoản tình cảm*** đã bị thấu chi. Nếu không có sự tin cậy hay một tầm nhìn chung về các kết quả mong muốn, chúng ta sẽ có xu hướng giám sát, kiểm tra lẫn nhau. Vì thiếu lòng tin nên chúng ta luôn có cảm giác cần phải kiểm soát người khác.
+Sự giám sát chuyên quyền theo lối cũ chính là mô thức ***thắng/thua.*** Nó cũng là hậu quả của ***tài khoản tình cảm*** đã bị thấu chi. Nếu không có sự tin cậy hay một tầm nhìn chung về các kết quả mong muốn, chúng ta sẽ có xu hướng giám sát, kiểm tra lẫn nhau. Vì thiếu lòng tin nên chúng ta luôn có cảm giác cần phải kiểm soát người khác.
 
 Nhưng nếu sự tin cậy quá cao thì phương pháp của
 
@@ -738,7 +738,7 @@ Tôi luôn luôn ngạc nhiên trước các kết quả thu được. Cách tư
 
 ### Các thỏa thuận công việc theo nguyên tắc cùng thắng
 
-Tạo ra các thỏa thuận về kết quả công việc theo nguyên tắc ***cùng thắng***đòi hỏi sự thay đổi các mô thức cơ bản. Tiêu điểm là kết quả, không phải là phương pháp. Đa số chúng ta thường có xu hướng kiểm soát các phương pháp. Chúng ta sử dụng***phương pháp giao phó mệnh lệnh***như đã thảo luận ở Thói quen thứ ba, phương pháp mà tôi sử dụng khi yêu cầu Sandra chụp ảnh con trai chúng tôi lướt ván trên mặt nước. Nhưng các thỏa thuận theo nguyên tắc***cùng thắng***có tiêu điểm là***kết quả,*** giúp giải phóng tiềm năng to lớn của cá nhân và tạo ra sự hiệp lực lớn hơn, đồng thời trong quá trình đó xây dựng PC (năng lực sản xuất) thay vì chỉ tập trung vào P (sản phẩm).
+Tạo ra các thỏa thuận về kết quả công việc theo nguyên tắc ***cùng thắng*** đòi hỏi sự thay đổi các mô thức cơ bản. Tiêu điểm là kết quả, không phải là phương pháp. Đa số chúng ta thường có xu hướng kiểm soát các phương pháp. Chúng ta sử dụng ***phương pháp giao phó mệnh lệnh*** như đã thảo luận ở Thói quen thứ ba, phương pháp mà tôi sử dụng khi yêu cầu Sandra chụp ảnh con trai chúng tôi lướt ván trên mặt nước. Nhưng các thỏa thuận theo nguyên tắc ***cùng thắng*** có tiêu điểm là ***kết quả,*** giúp giải phóng tiềm năng to lớn của cá nhân và tạo ra sự hiệp lực lớn hơn, đồng thời trong quá trình đó xây dựng PC (năng lực sản xuất) thay vì chỉ tập trung vào P (sản phẩm).
 
 Theo ***tư duy cùng thắng,*** việc xác định trách nhiệm là do mỗi người tự đánh giá bản thân mình bằng cách đối chiếu với các tiêu chí đã được xây dựng ngay từ đầu. Nếu bạn và đối tác đã cùng nhau xác lập các tiêu chí thì mỗi bên sẽ phải
 
@@ -756,27 +756,27 @@ Khi trở thành người hỗ trợ số một cho cấp dưới, người qu�
 
 Trong các thỏa thuận về kết quả công việc theo ***tư duy cùng thắng,*** các hệ quả là tự nhiên và lô-gíc, chứ không phải là phần thưởng hay hình phạt do người quản lý áp đặt.
 
-Về cơ bản, có bốn loại hệ quả (khen thưởng và trừng phạt) mà người quản lý hay các bậc cha mẹ có thể kiểm soát – hệ quả về ***tài chính, tinh thần, cơ hội***và***trách nhiệm. Các hệ quả về tài chính***bao gồm các khoản thu nhập, quyền lựa chọn mua cổ phiếu, các khoản trợ cấp, hoặc các hình thức chế tài.***Các hệ quả về tinh thần (hay tâm lý)***bao gồm được công nhận, chấp thuận, tôn trọng, khen ngợi, hoặc ngược lại. Nếu người được khen thưởng không quá lệ thuộc vào tài chính thì phần thưởng tinh thần thường tạo ra động lực tốt hơn.***Cơ hội***bao gồm việc đào tạo, phát triển nghề nghiệp, bổng lộc và các lợi ích khác.***Trách nhiệm***liên quan đến phạm vi trách nhiệm và quyền hạn, một trong hai điều này đều có thể tăng hoặc giảm. Các thỏa thuận theo nguyên tắc***cùng thắng*** chỉ rõ hệ quả thuộc một hay nhiều lĩnh vực trên và những người liên quan đều biết rõ điều này ngay từ đầu.
+Về cơ bản, có bốn loại hệ quả (khen thưởng và trừng phạt) mà người quản lý hay các bậc cha mẹ có thể kiểm soát – hệ quả về ***tài chính, tinh thần, cơ hội*** và ***trách nhiệm. Các hệ quả về tài chính*** bao gồm các khoản thu nhập, quyền lựa chọn mua cổ phiếu, các khoản trợ cấp, hoặc các hình thức chế tài. ***Các hệ quả về tinh thần (hay tâm lý)*** bao gồm được công nhận, chấp thuận, tôn trọng, khen ngợi, hoặc ngược lại. Nếu người được khen thưởng không quá lệ thuộc vào tài chính thì phần thưởng tinh thần thường tạo ra động lực tốt hơn. ***Cơ hội*** bao gồm việc đào tạo, phát triển nghề nghiệp, bổng lộc và các lợi ích khác. ***Trách nhiệm*** liên quan đến phạm vi trách nhiệm và quyền hạn, một trong hai điều này đều có thể tăng hoặc giảm. Các thỏa thuận theo nguyên tắc ***cùng thắng*** chỉ rõ hệ quả thuộc một hay nhiều lĩnh vực trên và những người liên quan đều biết rõ điều này ngay từ đầu.
 
 Bên cạnh đó, một điều quan trọng khác cần nhận diện là các hệ quả tất yếu đối với tổ chức. Chẳng hạn, điều gì sẽ xảy ra nếu tôi đi làm trễ, nếu tôi không chịu hợp tác với người khác, nếu tôi không xây dựng được một thỏa thuận
 
 ***cùng thắng*** với các thuộc cấp của mình, nếu tôi không làm cho họ chịu trách nhiệm về những kết quả mong muốn, hoặc nếu tôi không tạo điều kiện cho họ vững vàng hơn về chuyên môn và phát triển nghề nghiệp?
 
-Khi con gái tôi bước sang tuổi 18, chúng tôi xác lập một thỏa thuận ***cùng thắng***về việc sử dụng chiếc xe ô-tô của gia đình. Chúng tôi thỏa thuận với nhau rằng con gái tôi sẽ phải chấp hành luật giao thông, phải luôn bảo dưỡng và thường xuyên rửa xe sạch sẽ. Rằng nó chỉ được dùng xe cho những việc thực sự cần thiết, và lái xe cho bố mẹ khi có yêu cầu. Chúng tôi cũng thỏa thuận với nhau rằng con bé sẽ phải cố hết sức đảm nhận công việc một cách vui vẻ mà không cần phải nhắc nhở. Đó là những mục tiêu***cùng thắng*** của chúng tôi.
+Khi con gái tôi bước sang tuổi 18, chúng tôi xác lập một thỏa thuận ***cùng thắng*** về việc sử dụng chiếc xe ô-tô của gia đình. Chúng tôi thỏa thuận với nhau rằng con gái tôi sẽ phải chấp hành luật giao thông, phải luôn bảo dưỡng và thường xuyên rửa xe sạch sẽ. Rằng nó chỉ được dùng xe cho những việc thực sự cần thiết, và lái xe cho bố mẹ khi có yêu cầu. Chúng tôi cũng thỏa thuận với nhau rằng con bé sẽ phải cố hết sức đảm nhận công việc một cách vui vẻ mà không cần phải nhắc nhở. Đó là những mục tiêu ***cùng thắng*** của chúng tôi.
 
 Chúng tôi cũng thỏa thuận trách nhiệm vật chất – tôi mua xe, đổ xăng và đóng tiền bảo hiểm. Con gái tôi sẽ gặp tôi hàng tuần, thường vào chiều chủ nhật để kiểm điểm xem nó đã hoàn thành công việc ra sao. Nếu nó thực hiện đúng trách nhiệm thì sẽ được tiếp tục sử dụng xe. Bằng không, nó sẽ không được lái xe cho đến khi thực hiện đúng các cam kết đã định.
 
-Thỏa thuận ***cùng thắng***này xác lập những kỳ vọng rõ ràng ngay từ đầu cho cả hai bên. Đó là thắng lợi đối với con bé – được sử dụng xe – và cũng là thắng lợi đối với Sandra và tôi – không phải lo bảo dưỡng hay vệ sinh xe. Và chúng tôi đã xây dựng được tinh thần tự chịu trách nhiệm, nghĩa là tôi không cần phải thường xuyên giám sát hay quản lý con gái. Thay vào đó, tính trung thực, lương tâm, khả năng tự phán xét của con bé và***tài khoản tình cảm*** giữa chúng tôi sẽ quản lý nó hiệu quả. Chúng tôi không hề tỏ ra căng thẳng hay cố gắng giám sát con gái từng bước để thưởng
+Thỏa thuận ***cùng thắng*** này xác lập những kỳ vọng rõ ràng ngay từ đầu cho cả hai bên. Đó là thắng lợi đối với con bé – được sử dụng xe – và cũng là thắng lợi đối với Sandra và tôi – không phải lo bảo dưỡng hay vệ sinh xe. Và chúng tôi đã xây dựng được tinh thần tự chịu trách nhiệm, nghĩa là tôi không cần phải thường xuyên giám sát hay quản lý con gái. Thay vào đó, tính trung thực, lương tâm, khả năng tự phán xét của con bé và ***tài khoản tình cảm*** giữa chúng tôi sẽ quản lý nó hiệu quả. Chúng tôi không hề tỏ ra căng thẳng hay cố gắng giám sát con gái từng bước để thưởng
 
-phạt theo kết quả công việc của nó. Nhờ đã có một thỏa thuận theo kiểu ***cùng thắng*** , nên tất cả chúng tôi đều cảm thấy thoải mái.
+phạt theo kết quả công việc của nó. Nhờ đã có một thỏa thuận theo kiểu ***cùng thắng***, nên tất cả chúng tôi đều cảm thấy thoải mái.
 
-Tuy nhiên, các thỏa thuận ***cùng thắng***cũng rất linh hoạt. Để có thể phát huy tác dụng, cần phải có sự chính trực của cá nhân và mối quan hệ tin cậy lẫn nhau. Thỏa thuận***cùng thắng*** là sản phẩm của mô thức, tính cách và các mối quan hệ tương thuộc; nó định nghĩa và định hướng cho sự tương tác đó.
+Tuy nhiên, các thỏa thuận ***cùng thắng*** cũng rất linh hoạt. Để có thể phát huy tác dụng, cần phải có sự chính trực của cá nhân và mối quan hệ tin cậy lẫn nhau. Thỏa thuận ***cùng thắng*** là sản phẩm của mô thức, tính cách và các mối quan hệ tương thuộc; nó định nghĩa và định hướng cho sự tương tác đó.
 
 ### 3. CÁC HỆ THỐNG HỖ TRỢ
 
-Thỏa thuận ***cùng thắng***chỉ có thể tồn tại trong một tổ chức khi toàn bộ hệ thống đều tuân theo nó. Nếu bạn nói rằng mình ủng hộ giải pháp***cùng thắng*** nhưng lại khen thưởng cho giải pháp thắng/thua, bạn sẽ có trong tay một chương trình thất bại ngay từ trong trứng nước.
+Thỏa thuận ***cùng thắng*** chỉ có thể tồn tại trong một tổ chức khi toàn bộ hệ thống đều tuân theo nó. Nếu bạn nói rằng mình ủng hộ giải pháp ***cùng thắng*** nhưng lại khen thưởng cho giải pháp thắng/thua, bạn sẽ có trong tay một chương trình thất bại ngay từ trong trứng nước.
 
-Nhìn chung, khi thưởng cho ai cái gì, bạn sẽ nhận được điều tương tự. Nếu muốn có được các mục tiêu và phản ảnh các giá trị của mình vào ***tuyên ngôn sứ mệnh cá nhân*** , bạn cần phải gắn hệ thống khen thưởng vào các mục tiêu và giá trị này. Nếu không, bạn sẽ không làm được như bạn nói. Bạn sẽ rơi vào tình huống của người quản lý mà tôi đã đề cập ở phần đầu, ông ta kêu gọi sự hợp tác nhưng lại phát động cạnh tranh bằng một cuộc thi đua giữa các nhân viên.
+Nhìn chung, khi thưởng cho ai cái gì, bạn sẽ nhận được điều tương tự. Nếu muốn có được các mục tiêu và phản ảnh các giá trị của mình vào ***tuyên ngôn sứ mệnh cá nhân***, bạn cần phải gắn hệ thống khen thưởng vào các mục tiêu và giá trị này. Nếu không, bạn sẽ không làm được như bạn nói. Bạn sẽ rơi vào tình huống của người quản lý mà tôi đã đề cập ở phần đầu, ông ta kêu gọi sự hợp tác nhưng lại phát động cạnh tranh bằng một cuộc thi đua giữa các nhân viên.
 
 Tôi đã từng làm việc trong nhiều năm cho một công ty mỹ phẩm lớn tại miền Tây. Trải nghiệm đầu tiên của tôi với tổ chức này là một hội nghị trao giải thưởng hàng năm cho hơn 800 đại lý bán hàng. Đây là cuộc họp nhằm động viên tinh thần các đại lý.
 
@@ -792,7 +792,7 @@ công của sự đồng tâm hiệp lực đã làm mọi người tham gia ng�
 
 Sự cạnh tranh thường len lỏi vào từng cá nhân, tập thể và trên khắp thương trường, nhất là những nơi thiếu vắng mối quan hệ tương thuộc, thiếu hợp tác. Tinh thần ***cùng thắng*** không thể tồn tại trong môi trường cạnh tranh và ganh đua.
 
-Để giải pháp ***cùng thắng***đem lại kết quả tích cực, tất cả các hệ thống của công ty đều phải hỗ trợ nó. Các hệ thống như: đào tạo, lập kế hoạch, giao tiếp, báo cáo, ngân sách, hệ thống thông tin, lương bổng đều phải dựa trên cơ sở nguyên tắc***cùng thắng.***
+Để giải pháp ***cùng thắng*** đem lại kết quả tích cực, tất cả các hệ thống của công ty đều phải hỗ trợ nó. Các hệ thống như: đào tạo, lập kế hoạch, giao tiếp, báo cáo, ngân sách, hệ thống thông tin, lương bổng đều phải dựa trên cơ sở nguyên tắc ***cùng thắng.***
 
 Tôi cũng đã tư vấn cho một công ty khác muốn huấn luyện nhân viên của mình trong lĩnh vực giao tiếp – kỹ năng bán hàng. Chủ tịch công ty nói với tôi: “Anh hãy vào bất kỳ cửa hàng nào anh muốn và xem cách họ đối xử với anh. Các nhân viên của tôi dường như chỉ biết ngồi chờ khách đến mua hàng. Họ không biết cách giao tiếp, tạo sự thân thiện, gần gũi với khách hàng, không biết gì về sản phẩm, lại không có kiến thức, kỹ năng bán hàng cần thiết để tạo sự liên kết giữa sản phẩm và nhu cầu”.
 
@@ -818,15 +818,15 @@ viên có thể xác lập hệ thống thang điểm dựa trên thành tích c
 
 Có lần, một anh bạn nói với tôi thằng bé nhà anh không chịu nhận lỗi dậy muộn vì cho rằng “Tại mẹ không đánh thức con dậy sớm”. Những lời nói này của thằng bé làm anh chú ý hơn về những vấn đề phát sinh trong gia đình, khi trách nhiệm không được xây dựng trên nguyên tắc ***cùng thắng.***
 
-Nguyên tắc ***cùng thắng***đặt trách nhiệm lên từng cá nhân trong việc hoàn thành các kết quả cụ thể với sự định hướng rõ ràng và những nguồn lực sẵn có. Nó làm cho mỗi cá nhân có trách nhiệm thực hiện công việc của mình và tự giác đánh giá kết quả đạt được. Hệ thống***cùng thắng*** sẽ tạo ra môi trường hỗ trợ lẫn nhau, củng cố các thỏa thuận trong công việc đối với nhóm người, tập thể hay gia đình.
+Nguyên tắc ***cùng thắng*** đặt trách nhiệm lên từng cá nhân trong việc hoàn thành các kết quả cụ thể với sự định hướng rõ ràng và những nguồn lực sẵn có. Nó làm cho mỗi cá nhân có trách nhiệm thực hiện công việc của mình và tự giác đánh giá kết quả đạt được. Hệ thống ***cùng thắng*** sẽ tạo ra môi trường hỗ trợ lẫn nhau, củng cố các thỏa thuận trong công việc đối với nhóm người, tập thể hay gia đình.
 
 ### 4. CÁC QUÁ TRÌNH
 
-Không có cách gì đạt được mục đích ***cùng thắng***nếu dùng các biện pháp thắng/thua hay thua/thắng. Bạn không thể nói “Anh phải tư duy***cùng thắng***dù anh có thích nó hay không.” Vậy, vấn đề là bạn làm thế nào để đi đến giải pháp***cùng thắng.***
+Không có cách gì đạt được mục đích ***cùng thắng*** nếu dùng các biện pháp thắng/thua hay thua/thắng. Bạn không thể nói “Anh phải tư duy ***cùng thắng*** dù anh có thích nó hay không.” Vậy, vấn đề là bạn làm thế nào để đi đến giải pháp ***cùng thắng.***
 
 Roger Fisher và William Ury, hai giáo sư luật ở Đại học Harvard, đã có một công trình nổi tiếng, trong đó đưa ra hai cách tiếp cận đối chọi nhau trong thương lượng: một là
 
-tiếp cận “theo nguyên tắc” và hai là tiếp cận “theo lập trường”. Mặc dù trong công trình nghiên cứu này, khái niệm ***cùng thắng***chưa được dùng tới, nhưng tinh thần và triết lý xuyên suốt cuốn sách rất phù hợp với quan điểm***cùng thắng.***
+tiếp cận “theo nguyên tắc” và hai là tiếp cận “theo lập trường”. Mặc dù trong công trình nghiên cứu này, khái niệm ***cùng thắng*** chưa được dùng tới, nhưng tinh thần và triết lý xuyên suốt cuốn sách rất phù hợp với quan điểm ***cùng thắng.***
 
 Hai ông cho rằng thực chất của đàm phán “theo nguyên tắc” là tách con người ra khỏi vấn đề, tập trung vào các lợi ích chứ không vào các lập trường, sáng tạo ra các phương án đem lại lợi ích chung, và kiên trì với các tiêu chí khách quan.
 
@@ -842,7 +842,7 @@ Khi làm việc với nhiều người và tổ chức để tìm ra các giải
 
 Các Thói quen 5 và 6 sẽ đề cập trực tiếp đến hai nhân tố của quá trình này, và chúng ta sẽ đi sâu vào vấn đề đó ở hai chương tiếp theo.
 
-Bản chất của quá trình ***cùng thắng***liên hệ qua lại rất chặt chẽ với***tư duy cùng thắng.***Bạn chỉ có thể đạt được giải pháp***cùng thắng***bằng các quá trình***cùng thắng*** – mục đích và phương tiện ở đây là như nhau.
+Bản chất của quá trình ***cùng thắng*** liên hệ qua lại rất chặt chẽ với ***tư duy cùng thắng.*** Bạn chỉ có thể đạt được giải pháp ***cùng thắng*** bằng các quá trình ***cùng thắng*** – mục đích và phương tiện ở đây là như nhau.
 
 Quá trình ***cùng thắng*** không phải là một liệu pháp về nhân cách. Nó hoàn toàn là một mô thức về sự tương tác giữa con người với nhau. Nó được sinh ra từ tính chính trực, sự chín chắn và rộng lượng. Nó được phát triển từ các mối quan hệ có độ tin cậy cao. Nó thể hiện các thỏa thuận rõ ràng và đặc biệt hiệu quả trong các hệ thống hỗ trợ.
 
@@ -850,9 +850,9 @@ Quá trình ***cùng thắng*** không phải là một liệu pháp về nhân 
 
 ### 1. Hãy tưởng tượng bạn đang cố gắng tạo lập một cuộc đàm phán tốt đẹp, trong đó, lòng can đảm và sự cân nhắc được cân bằng.
 
-### 2. Liệt kê danh sách các trở ngại ngăn cản bạn có được mô thức ***cùng thắng***. Xác định xem có thể làm được gì bên trong***Vòng tròn Ảnh hưởng*** của bạn để loại bỏ những trở ngại đó.
+### 2. Liệt kê danh sách các trở ngại ngăn cản bạn có được mô thức ***cùng thắng***. Xác định xem có thể làm được gì bên trong ***Vòng tròn Ảnh hưởng*** của bạn để loại bỏ những trở ngại đó.
 
-### 3. Lựa chọn một mối quan hệ cụ thể mà bạn muốn xây dựng theo thỏa thuận ***cùng thắng***, cố gắng đặt mình vào vị trí của người khác. Từ góc độ cá nhân, bạn hãy liệt kê ra những kết quả nào là “chiến thắng” đối với bạn. Tiếp cận đối tác và trao đổi với họ cho đến khi bạn đạt đến thỏa thuận và giải pháp***cùng thắng*** .
+### 3. Lựa chọn một mối quan hệ cụ thể mà bạn muốn xây dựng theo thỏa thuận ***cùng thắng***, cố gắng đặt mình vào vị trí của người khác. Từ góc độ cá nhân, bạn hãy liệt kê ra những kết quả nào là “chiến thắng” đối với bạn. Tiếp cận đối tác và trao đổi với họ cho đến khi bạn đạt đến thỏa thuận và giải pháp ***cùng thắng***.
 
 ### 4. Nhận diện ba mối quan hệ then chốt trong cuộc sống của bạn. Nêu ra một số dấu hiệu mà bạn cảm thấy đó là số dư trong ***tài khoản tình cảm*** của mỗi mối quan hệ; viết ra một số biện pháp cụ thể nhằm tạo được “khoản gửi vào” cho mỗi “tài khoản” đó.
 
@@ -938,7 +938,7 @@ Chẳng hạn với tôi, nếu bạn không hiểu hoàn cảnh và tình cảm
 
 Vì vậy, muốn có được thói quen giao tiếp hiệu quả, bạn không thể chỉ đơn thuần dựa vào kỹ thuật giao tiếp; hãy xây
 
-dựng cho mình kỹ năng ***lắng nghe và thấu hiểu***dựa trên cơ sở***tính cách***, dẫn đến sự cởi mở và tin cậy. Bạn cũng cần mở các***tài khoản tình cảm*** để tạo sự thông hiểu giữa những tâm hồn.
+dựng cho mình kỹ năng ***lắng nghe và thấu hiểu*** dựa trên cơ sở ***tính cách***, dẫn đến sự cởi mở và tin cậy. Bạn cũng cần mở các ***tài khoản tình cảm*** để tạo sự thông hiểu giữa những tâm hồn.
 
 ### 2. LẮNG NGHE VÀ THẤU HIỂU
 
@@ -976,7 +976,7 @@ Chúng ta thường “lắng nghe” người khác nói với một trong bố
 
 > - Chăm chú lắng nghe - tức tập trung toàn bộ vào những lời người khác đang nói.
 
-Tuy nhiên, rất ít người trong chúng ta biết cách lắng nghe với thái độ thứ năm - mức độ cao nhất của sự lắng nghe - đó là ***lắng nghe và thấu hiểu*** .
+Tuy nhiên, rất ít người trong chúng ta biết cách lắng nghe với thái độ thứ năm - mức độ cao nhất của sự lắng nghe - đó là ***lắng nghe và thấu hiểu***.
 
 > Lắng nghe và thấu hiểu không phải là một xảo thuật để lấy lòng người khác, cũng không phải là kiểu lắng nghe “có suy nghĩ”. Lắng nghe “có suy nghĩ” nghĩa là bạn lắng nghe
 
@@ -1122,7 +1122,7 @@ Có bao giờ bạn thử tìm hiểu xem tại sao con bạn lại như vậy? 
 
 “Thế đấy! Bố đã bảo con rồi mà con đâu có nghe!”. Đó là lý do để con bạn ngày một xa cách với bạn.
 
-Tôi đã truyền đạt kinh nghiệm ***trước hết, hãy cố gắng lắng nghe và thấu hiểu***cho rất nhiều người. Họ đã bắt đầu chịu nhìn lại phản ứng thường gặp của mình trong giao tiếp với người khác và học cách***lắng nghe thấu hiểu.***Đối với một số người,***trước hết, hãy cố gắng lắng nghe và thấu hiểu***đã trở thành một thói quen thú vị, có thể áp dụng nhanh nhất trong số***7 Thói quen*** trong quyển sách này.
+Tôi đã truyền đạt kinh nghiệm ***trước hết, hãy cố gắng lắng nghe và thấu hiểu*** cho rất nhiều người. Họ đã bắt đầu chịu nhìn lại phản ứng thường gặp của mình trong giao tiếp với người khác và học cách ***lắng nghe thấu hiểu.*** Đối với một số người, ***trước hết, hãy cố gắng lắng nghe và thấu hiểu*** đã trở thành một thói quen thú vị, có thể áp dụng nhanh nhất trong số ***7 Thói quen*** trong quyển sách này.
 
 Chúng ta hãy xem xét một cuộc giao tiếp điển hình giữa một người cha và đứa con trai vị thành niên, chú ý xem xét những lời nói của người cha dưới góc độ ***bốn phản ứng*** mà chúng ta đã đề cập ở trên.
 
@@ -1184,7 +1184,7 @@ y’ thì có ích gì khi con làm thợ sửa chữa ô-tô?”
 
 “Không, con nói thật đấy. Bố cứ nhìn Joe mà xem. Anh ấy bỏ học và bây giờ đang làm nghề sửa ô-tô và kiếm được rất nhiều tiền. Đó mới là thực tế”.
 
-“Tạm thời thì trông có vẻ như vậy. Nhưng vài năm sau, Joe sẽ thấy tiếc rẻ: ‘Giá mà mình được tiếp tục đi học…’ [ ***Trời ơi, đây là bài học lần thứ 16 về giá trị của giáo dục]***“Con không cần phải làm một anh thợ sửa chữa ô-tô.***[Tại sao bố biết? Bố có thực sự hiểu con muốn gì không?]*** Con cần có học thức để chuẩn bị cho một nghề nghiệp tương lai tốt đẹp hơn.”
+“Tạm thời thì trông có vẻ như vậy. Nhưng vài năm sau, Joe sẽ thấy tiếc rẻ: ‘Giá mà mình được tiếp tục đi học…’ [ ***Trời ơi, đây là bài học lần thứ 16 về giá trị của giáo dục]*** “Con không cần phải làm một anh thợ sửa chữa ô-tô. ***[Tại sao bố biết? Bố có thực sự hiểu con muốn gì không?]*** Con cần có học thức để chuẩn bị cho một nghề nghiệp tương lai tốt đẹp hơn.”
 
 “Con chẳng biết. Joe đã có một sự khởi đầu rất tốt”. ***[Anh ấy không thất bại. Anh ấy không cần học nhiều nhưng anh ấy có thất bại gì đâu?]***
 
@@ -1206,7 +1206,7 @@ y’ thì có ích gì khi con làm thợ sửa chữa ô-tô?”
 
 Bạn có nhận thấy chúng ta bị hạn chế đến thế nào khi cố gắng hiểu người khác chỉ bằng lời nói, đặc biệt khi chúng ta nhìn vấn đề của người đó qua lăng kính của mình? Bạn có thấy cái cách “suy bụng ta ra bụng người” của bạn hạn chế ra sao đối với người đang thực sự cần chúng ta hiểu vấn đề của họ.
 
-Bạn sẽ không bao giờ có thể thực sự bước vào nội tâm người khác để nhìn thấy thế giới của họ, cho đến khi bạn có được mong muốn chân thành, sức mạnh tính cách cá nhân, ***tài khoản tình cảm***tích cực cũng như kỹ năng***lắng nghe thấu hiểu.***
+Bạn sẽ không bao giờ có thể thực sự bước vào nội tâm người khác để nhìn thấy thế giới của họ, cho đến khi bạn có được mong muốn chân thành, sức mạnh tính cách cá nhân, ***tài khoản tình cảm*** tích cực cũng như kỹ năng ***lắng nghe thấu hiểu.***
 
 Các kỹ năng, phần nổi của sự ***lắng nghe thấu hiểu,*** có bốn giai đoạn phát triển như sau.
 
@@ -1322,7 +1322,7 @@ Khi một người đang bị tổn thương tình cảm, nếu bạn thực s�
 
 Nếu thực sự cố gắng để hiểu người khác, không giả dối và không thủ đoạn, bạn sẽ rất ngạc nhiên trước những điều mới mẻ mà sự thông cảm chân thành đem lại. Thấu hiểu chính là phương pháp giao tiếp tối ưu, vượt trội nhất.
 
-Tôi đã từng rèn luyện các kỹ năng ***lắng nghe thấu hiểu*** , bởi kỹ năng là một phần quan trọng của bất cứ thói quen nào. Nhưng cho phép tôi nhắc lại rằng, các kỹ năng sẽ không hiệu quả nếu chúng không xuất phát từ ý muốn chân thành là để thấu hiểu. Trong thực tế, khi giao tiếp với một người có quan hệ gần gũi với bạn, bạn nên nói thật với người đó những điều bạn nghĩ.
+Tôi đã từng rèn luyện các kỹ năng ***lắng nghe thấu hiểu***, bởi kỹ năng là một phần quan trọng của bất cứ thói quen nào. Nhưng cho phép tôi nhắc lại rằng, các kỹ năng sẽ không hiệu quả nếu chúng không xuất phát từ ý muốn chân thành là để thấu hiểu. Trong thực tế, khi giao tiếp với một người có quan hệ gần gũi với bạn, bạn nên nói thật với người đó những điều bạn nghĩ.
 
 Còn nếu thiếu chân thành thì tốt hơn là bạn đừng làm gì cả. Điều đó chỉ có hại cho bạn về sau, khi đối phương phát hiện ra sự thật rằng bạn không hề quan tâm, không muốn chia sẻ, họ sẽ có cảm giác bị lừa dối, bị làm trò cười và bị tổn thương. Kỹ thuật giao tiếp chỉ là phần nổi của hình thức, nó cần phải xuất phát từ nền tảng vững chắc của tính cách bên trong con người bạn.
 
@@ -1350,7 +1350,7 @@ Giờ đây, với tất cả sự khác biệt đó, chúng ta đang cố
 
 gắng để cùng sống hoặc làm việc với nhau – trong hôn nhân, trong công việc, trong một dự án phục vụ cộng đồng – để sử dụng và quản lý các nguồn lực cũng như để đạt được kết quả cao. Vậy chúng ta phải làm thế nào và làm gì để vượt qua giới hạn của nhận thức cá nhân nhằm giao tiếp có chiều sâu, để hợp tác xử lý các vấn đề và đưa ra giải pháp ***cùng thắng?***
 
-Câu trả lời là Thói quen thứ năm. Đây là bước đầu tiên trong quá trình đi đến giải pháp ***cùng thắng.***Ngay cả khi đối phương không phải là người có mô thức***cùng thắng***, chúng ta cũng phải***cố gắng để hiểu họ trước*** . Một lãnh đạo công ty từng áp dụng thành công nguyên tắc này chia sẻ kinh nghiệm với tôi như sau.
+Câu trả lời là Thói quen thứ năm. Đây là bước đầu tiên trong quá trình đi đến giải pháp ***cùng thắng.*** Ngay cả khi đối phương không phải là người có mô thức ***cùng thắng***, chúng ta cũng phải ***cố gắng để hiểu họ trước***. Một lãnh đạo công ty từng áp dụng thành công nguyên tắc này chia sẻ kinh nghiệm với tôi như sau.
 
 Năm ngoái, công ty chúng tôi có một hợp đồng với một ngân hàng quốc gia lớn. Ngân hàng này cử một đoàn gồm tám người đến đàm phán với chúng tôi. Công ty tôi quyết định chọn giải pháp ***cùng thắng*** hoặc “không giao kèo”. Chúng tôi đã gần như bị áp đảo bởi những đòi hỏi của ngân hàng lớn này.
 
@@ -1368,7 +1368,7 @@ Vào cuối buổi đàm phán, các thành viên của đoàn đàm phán bên 
 
 > Trước tiên, hãy cố gắng lắng nghe và thấu hiểu người khác, rồi sau đó người ta sẽ hiểu mình. Biết cách làm người khác hiểu mình là một nửa của Thói quen thứ năm, rất quan trọng để đạt được giải pháp cùng thắng, nhất là trong các tình huống có mối quan hệ tương thuộc.
 
-Thời Hy Lạp cổ đại, có một triết lý hùng hồn được thể hiện bằng ba từ ngữ đặt theo thứ tự: ***Ethos***(đạo đức),***Pathos***(tình cảm) và***Logos*** (lý lẽ). Tôi cho rằng ba từ này bao hàm nội dung cơ bản của việc làm thế nào để hiểu được người khác và trình bày mọi vấn đề một cách hiệu quả.
+Thời Hy Lạp cổ đại, có một triết lý hùng hồn được thể hiện bằng ba từ ngữ đặt theo thứ tự: ***Ethos*** (đạo đức), ***Pathos*** (tình cảm) và ***Logos*** (lý lẽ). Tôi cho rằng ba từ này bao hàm nội dung cơ bản của việc làm thế nào để hiểu được người khác và trình bày mọi vấn đề một cách hiệu quả.
 
 > Ethos (đạo đức) là sự tín nhiệm mà bạn có, là niềm tin của người khác về phẩm chất và năng lực của bạn. Đó là sự tin cậy mà bạn lan truyền ra xung quanh, là tài khoản tình cảm của bạn.
 
@@ -1376,7 +1376,7 @@ Thời Hy Lạp cổ đại, có một triết lý hùng hồn được thể hi
 
 > Logos (lý lẽ) là lô-gíc, là khía cạnh lý trí của quan hệ giao tiếp.
 
-Bạn hãy chú ý về thứ tự xuất hiện của các từ ngữ này. Ba khái niệm này tương đương với tính cách, các mối quan hệ, và lô-gíc trình bày vấn đề của bạn. Điều này thể hiện một sự biến đổi lớn về mô thức. Hầu hết mọi người khi trình bày vấn đề thường đi thẳng vào lô-gíc – tức vào bán cầu não trái, nơi điều khiển tư duy. Họ cố gắng thuyết phục người khác về tính đúng đắn của ***lý lẽ***mà không xét đến***đạo đức***và***tình cảm*** ngay từ đầu.
+Bạn hãy chú ý về thứ tự xuất hiện của các từ ngữ này. Ba khái niệm này tương đương với tính cách, các mối quan hệ, và lô-gíc trình bày vấn đề của bạn. Điều này thể hiện một sự biến đổi lớn về mô thức. Hầu hết mọi người khi trình bày vấn đề thường đi thẳng vào lô-gíc – tức vào bán cầu não trái, nơi điều khiển tư duy. Họ cố gắng thuyết phục người khác về tính đúng đắn của ***lý lẽ*** mà không xét đến ***đạo đức*** và ***tình cảm*** ngay từ đầu.
 
 Một người quen của tôi rất bất mãn với sếp vì phong cách lãnh đạo kém hiệu quả của ông ta.
 
@@ -1426,9 +1426,9 @@ Bạn đừng mải mê đưa ra những lời diễn thuyết khoa trương sá
 
 ### 6. TIẾP CẬN TỪNG BƯỚC MỘT
 
-## Thói quen thứ năm có ảnh hưởng rất mạnh mẽ đến mỗi chúng ta vì nó nằm ngay trung tâm của ***Vòng tròn Ảnh hưởng***, khác với các nhân tố khác nằm trong Vòng tròn Quan tâm như sự bất đồng ý kiến, các hoàn cảnh và hành vi của người khác… Vì thế, khi tập trung vào***Vòng tròn Ảnh hưởng,***bạn sẽ thực sự hiểu được người khác. Bạn sẽ có thông tin chính xác để hiểu được cốt lõi của vấn đề, xây dựng được các***tài khoản tình cảm*** vững mạnh, đem lại cho người khác một bầu không khí chân thành, tích cực để có thể cùng làm việc với họ một cách thuận lợi. Đó là cách tiếp cận “bắt đầu từ bên trong”.
+## Thói quen thứ năm có ảnh hưởng rất mạnh mẽ đến mỗi chúng ta vì nó nằm ngay trung tâm của ***Vòng tròn Ảnh hưởng***, khác với các nhân tố khác nằm trong Vòng tròn Quan tâm như sự bất đồng ý kiến, các hoàn cảnh và hành vi của người khác… Vì thế, khi tập trung vào ***Vòng tròn Ảnh hưởng,*** bạn sẽ thực sự hiểu được người khác. Bạn sẽ có thông tin chính xác để hiểu được cốt lõi của vấn đề, xây dựng được các ***tài khoản tình cảm*** vững mạnh, đem lại cho người khác một bầu không khí chân thành, tích cực để có thể cùng làm việc với họ một cách thuận lợi. Đó là cách tiếp cận “bắt đầu từ bên trong”.
 
-Hãy quan sát những gì đang diễn ra trong ***Vòng tròn Ảnh hưởng***của bạn. Vì bạn đã thực sự lắng nghe, nên bạn có thể gây được ảnh hưởng đến người khác; chiếc chìa khóa để giao tiếp thành công đang nằm trong tay bạn.***Vòng tròn Ảnh hưởng***sẽ bắt đầu mở rộng và khả năng gây ảnh hưởng đến các sự vật, sự việc trong***Vòng tròn Quan tâm*** sẽ tăng lên.
+Hãy quan sát những gì đang diễn ra trong ***Vòng tròn Ảnh hưởng*** của bạn. Vì bạn đã thực sự lắng nghe, nên bạn có thể gây được ảnh hưởng đến người khác; chiếc chìa khóa để giao tiếp thành công đang nằm trong tay bạn. ***Vòng tròn Ảnh hưởng*** sẽ bắt đầu mở rộng và khả năng gây ảnh hưởng đến các sự vật, sự việc trong ***Vòng tròn Quan tâm*** sẽ tăng lên.
 
 Càng hiểu rõ người khác bao nhiêu, bạn càng đánh giá cao họ bấy nhiêu và cảm thấy tôn trọng họ nhiều hơn. Chạm được vào tâm hồn người khác là một bước tiến quan trọng để bạn có thể xây dựng được mối quan hệ lâu dài.
 
@@ -1454,7 +1454,7 @@ viên. Cần coi yếu tố con người là quan trọng bậc nhất. Bạn s�
 
 > Trước tiên, hãy cố gắng lắng nghe và thấu hiểu, ngay cả khi có vấn đề cấp bách xảy ra. Trước khi đưa ra ý kiến của mình, bạn hãy cố gắng thấu hiểu người khác trước. Đây là một thói quen khiến cho giao tiếp tương thuộc đạt hiệu quả cao.
 
-Một khi đã thực sự hiểu nhau một cách sâu sắc, chúng ta sẽ mở ra cánh cửa đến với các giải pháp sáng tạo và các phương án theo cách thứ ba – ***cùng thắng***. Những khác biệt giữa chúng ta sẽ không còn là rào cản của sự giao tiếp và tiến bộ nữa. Thay vào đó, chúng trở thành bàn đạp để chúng ta***đồng tâm hiệp lực với nhau.***
+Một khi đã thực sự hiểu nhau một cách sâu sắc, chúng ta sẽ mở ra cánh cửa đến với các giải pháp sáng tạo và các phương án theo cách thứ ba – ***cùng thắng***. Những khác biệt giữa chúng ta sẽ không còn là rào cản của sự giao tiếp và tiến bộ nữa. Thay vào đó, chúng trở thành bàn đạp để chúng ta ***đồng tâm hiệp lực với nhau.***
 
 ### GỢI Ý THỰC HÀNH:
 
@@ -1488,7 +1488,7 @@ Khi Winston Churchill được bổ nhiệm làm Tổng tư lệnh quân đội 
 
 > Đồng tâm hiệp lực là điều cốt yếu của mô thức lãnh đạo lấy nguyên tắc làm trọng tâm. Nó là chất xúc tác, liên kết và giải phóng những sức mạnh to lớn bên trong mỗi con người. Tất cả các thói quen chúng ta đã có là sự chuẩn bị để tạo ra điều kỳ diệu của đồng tâm hiệp lực.
 
-Vậy, ***đồng tâm hiệp lực***là gì? Nói một cách đơn giản, đó là***tổng thể thống nhất bao giờ cũng mạnh hơn từng phần cộng lại.*** Nó không chỉ là một bộ phận cấu thành mà còn là chất xúc tác mạnh nhất, là sự tập trung cao nhất và là một thể thống nhất chặt chẽ tuyệt đối.
+Vậy, ***đồng tâm hiệp lực*** là gì? Nói một cách đơn giản, đó là ***tổng thể thống nhất bao giờ cũng mạnh hơn từng phần cộng lại.*** Nó không chỉ là một bộ phận cấu thành mà còn là chất xúc tác mạnh nhất, là sự tập trung cao nhất và là một thể thống nhất chặt chẽ tuyệt đối.
 
 Nó cũng rất thú vị, là vì không ai biết trước kết quả sẽ thế nào. Bạn không thể biết trước những nguy hiểm hay thách thức mới nào đang đón chờ phía trước. Vì vậy, để có được tinh thần ***đồng tâm hiệp lực,*** mỗi cá nhân phải có sự an toàn nội tâm mạnh mẽ, phải dũng cảm rời bỏ “vỏ ốc” của mình để đương đầu với những thách thức. Mỗi người sẽ tự mở ra những khả năng mới của chính họ.
 
@@ -1498,17 +1498,17 @@ Vấn đề thách thức ở đây là làm thế nào để áp dụng các ng
 
 Cuộc sống gia đình chính là một cơ hội để vận dụng nguyên tắc ***đồng tâm hiệp lực.*** Việc người đàn ông và người phụ nữ sống với nhau, sinh ra những đứa con là biểu hiện
 
-đơn giản nhất của ***đồng tâm hiệp lực.***Bản chất của sự***đồng tâm hiệp lực*** là đề cao sự khác biệt – tôn trọng sự khác biệt, phát huy các thế mạnh và bù đắp nhược điểm của nhau.
+đơn giản nhất của ***đồng tâm hiệp lực.*** Bản chất của sự ***đồng tâm hiệp lực*** là đề cao sự khác biệt – tôn trọng sự khác biệt, phát huy các thế mạnh và bù đắp nhược điểm của nhau.
 
 Chúng ta nhìn thấy rất rõ sự khác biệt về thể chất giữa nam và nữ, giữa vợ và chồng. Nhưng còn sự khác biệt về xã hội, tâm lý và tình cảm thì sao? Liệu những khác biệt này có thể trở thành nguồn lực tạo ra những lối sống mới, hấp dẫn hơn? Liệu chúng có tạo ra một môi trường mới làm hoàn thiện bản thân, nuôi dưỡng sự tự khẳng định cho mỗi cá nhân, tạo ra các cơ hội độc lập và sau đó dần dần chuyển sang tương thuộc? ***Đồng tâm hiệp lực*** tạo ra một “kịch bản” mới cho thế hệ sau – một thế hệ hướng nhiều đến phục vụ và cống hiến, bớt đi dựa dẫm, kình địch, ích kỷ; một thế hệ cởi mở hơn, đáng tin cậy hơn, rộng lượng hơn; một thế hệ biết coi trọng tình yêu, biết quan tâm đến người khác cũng như bớt chỉ trích người khác.
 
 ### 1. SỰ GIAO TIẾP ĐỒNG TÂM HIỆP LỰC
 
-Khi giao tiếp với tinh thần ***đồng tâm hiệp lực,***bạn sẽ mở cửa con tim, khối óc và hành vi của mình cho những khả năng và lựa chọn mới. Điều đó có vẻ như là bạn gạt sang một bên Thói quen thứ hai –***bắt đầu từ mục tiêu đã được xác định.***Tuy nhiên, trên thực tế, bạn đang hoàn thiện thói quen đó. Bạn không biết chắc khi giao tiếp***đồng tâm hiệp lực,*** mọi việc sẽ diễn ra như thế nào, hay kết cục sẽ ra sao, nhưng bạn nhất định sẽ cảm nhận được sự hứng thú, an toàn với một chút phiêu lưu, và quan trọng hơn, đó là một kết cục tốt đẹp.
+Khi giao tiếp với tinh thần ***đồng tâm hiệp lực,*** bạn sẽ mở cửa con tim, khối óc và hành vi của mình cho những khả năng và lựa chọn mới. Điều đó có vẻ như là bạn gạt sang một bên Thói quen thứ hai – ***bắt đầu từ mục tiêu đã được xác định.*** Tuy nhiên, trên thực tế, bạn đang hoàn thiện thói quen đó. Bạn không biết chắc khi giao tiếp ***đồng tâm hiệp lực,*** mọi việc sẽ diễn ra như thế nào, hay kết cục sẽ ra sao, nhưng bạn nhất định sẽ cảm nhận được sự hứng thú, an toàn với một chút phiêu lưu, và quan trọng hơn, đó là một kết cục tốt đẹp.
 
 Bạn bắt đầu bằng niềm tin rằng các bên giao tiếp sẽ sáng suốt hơn, tạo đà để tiếp tục học hỏi lẫn nhau nhiều hơn và trưởng thành hơn.
 
-Rất nhiều người chưa thực sự trải nghiệm ***đồng tâm hiệp lực***dù ở mức độ khiêm tốn nhất. Họ được đào tạo và định hình giao tiếp theo lối***chống đỡ***hay***phòng thu*** ã, hoặc được dạy dỗ rằng con người không thể sống chỉ bằng lòng tin. Do vậy, họ không bao giờ thực sự mở lòng tiếp nhận Thói quen thứ sáu và các nguyên tắc liên quan.
+Rất nhiều người chưa thực sự trải nghiệm ***đồng tâm hiệp lực*** dù ở mức độ khiêm tốn nhất. Họ được đào tạo và định hình giao tiếp theo lối ***chống đỡ*** hay ***phòng thu*** ã, hoặc được dạy dỗ rằng con người không thể sống chỉ bằng lòng tin. Do vậy, họ không bao giờ thực sự mở lòng tiếp nhận Thói quen thứ sáu và các nguyên tắc liên quan.
 
 Đó là một bi kịch, một sự lãng phí, bởi con người có quá nhiều tiềm năng không được khai thác, sử dụng đến. Tệ hơn, một số người chỉ biết sống mòn bên cạnh những tiềm năng đang bị họ bỏ phí. Họ trải nghiệm rất ít về ***đồng tâm hiệp lực*** trong cuộc sống.
 
@@ -1524,7 +1524,7 @@ Là một người có nhiều năm đứng trên bục giảng, tôi tin rằng
 
 Theo thói quen ***Đồng tâm hiệp lực,*** tôi và tập thể sinh viên cần phải từ bỏ “kịch bản” cũ và viết ra “kịch bản” mới.
 
-Tôi không bao giờ quên kỷ niệm sâu sắc ở một lớp đại học, nơi tôi dạy về ***Triết lý và Phong cách Lãnh đạo*** . Chúng tôi đã bắt đầu học kỳ được 3 tuần. Khi thuyết trình, một sinh viên đã liên hệ với những trải nghiệm rất xúc động và sâu sắc của bản thân. Một không khí thông cảm và tôn trọng bao trùm lớp học – tôn trọng và đánh giá cao trước sự dũng cảm của một cá nhân.
+Tôi không bao giờ quên kỷ niệm sâu sắc ở một lớp đại học, nơi tôi dạy về ***Triết lý và Phong cách Lãnh đạo***. Chúng tôi đã bắt đầu học kỳ được 3 tuần. Khi thuyết trình, một sinh viên đã liên hệ với những trải nghiệm rất xúc động và sâu sắc của bản thân. Một không khí thông cảm và tôn trọng bao trùm lớp học – tôn trọng và đánh giá cao trước sự dũng cảm của một cá nhân.
 
 Tinh thần đó trở thành động lực mạnh mẽ cho nỗ lực ***đồng tâm hiệp lực*** và sáng tạo. Các sinh viên bắt đầu chia sẻ những trải nghiệm và suy nghĩ của mình, kể cả những điều họ còn băn khoăn; chúng tôi đã thành công trong việc cùng nhau dựng nên một “kịch bản” học tập hoàn toàn mới.
 
@@ -1648,9 +1648,9 @@ Người vợ cũng có thể chiều theo ý chồng, nhưng cô ấy cũng c�
 
 Vấn đề ở đây là cái nhìn của hai vợ chồng rất khác nhau. Sự khác biệt đó có thể là nguyên nhân làm rạn nứt mối quan hệ vợ chồng. Nhưng nếu cả hai biết khai thác các thói quen của sự tương thuộc một cách có hiệu quả, họ sẽ có cách xử lý vấn đề theo một mô thức hoàn toàn khác. Trong trường hợp này, sự gắn bó giữa họ sẽ ở mức cao hơn.
 
-Vì có một ***tài khoản tình cảm***ở mức cao nên hai vợ chồng sẽ có được sự tin cậy và sự giao tiếp cởi mở trong quan hệ hôn nhân. Vì có***tư duy cùng thắng***nên họ sẽ tin vào giải pháp thứ ba - giải pháp các bên cùng có lợi - ưu việt hơn hẳn mọi giải pháp mà mỗi bên đưa ra ban đầu. Vì biết***lắng nghe thấu hiểu*** nên họ sẽ tạo ra được bên trong bản thân một bức tranh toàn diện về những giá trị và mối quan tâm chung cần phải được tính đến khi đưa ra quyết định.
+Vì có một ***tài khoản tình cảm*** ở mức cao nên hai vợ chồng sẽ có được sự tin cậy và sự giao tiếp cởi mở trong quan hệ hôn nhân. Vì có ***tư duy cùng thắng*** nên họ sẽ tin vào giải pháp thứ ba - giải pháp các bên cùng có lợi - ưu việt hơn hẳn mọi giải pháp mà mỗi bên đưa ra ban đầu. Vì biết ***lắng nghe thấu hiểu*** nên họ sẽ tạo ra được bên trong bản thân một bức tranh toàn diện về những giá trị và mối quan tâm chung cần phải được tính đến khi đưa ra quyết định.
 
-Sự kết hợp các thành phần này – ***tài khoản tình cảm***ở mức độ cao,***tư duy cùng thắng***và tinh thần***lắng nghe thấu hiểu*** – sẽ tạo ra môi trường lý tưởng cho sự đồng tâm hiệp lực.
+Sự kết hợp các thành phần này – ***tài khoản tình cảm*** ở mức độ cao, ***tư duy cùng thắng*** và tinh thần ***lắng nghe thấu hiểu*** – sẽ tạo ra môi trường lý tưởng cho sự đồng tâm hiệp lực.
 
 Phật giáo gọi đây là “giải pháp trung dung”. Nhưng ở đây, nó có ý nghĩa mang tầm cao hơn sự thỏa hiệp. Để tìm kiếm “giải pháp trung dung”, người chồng và người vợ trong câu chuyện trên cần nhận thức rằng tình yêu, mối quan hệ của họ là một phần của sự đồng tâm hiệp lực.
 
@@ -1676,7 +1676,7 @@ Tìm kiếm giải pháp thứ ba có thể tạo nên biến chuyển lớn v�
 
 Năng lượng tiêu cực được sử dụng như thế nào khi người ta tìm cách giải quyết vấn đề hay đưa ra quyết định trong một thực tế có tính tương thuộc? Bao nhiêu thời gian bị tiêu tốn cho việc kể tội người khác, cho thái độ kình địch, cho các xung đột giữa các cá nhân? Điều này chẳng khác gì tay lên ga, chân lại đạp thắng trong khi lái xe trên đường.
 
-Trong nhiều trường hợp cần thắng lại, nhiều người lại nhấn ga hết cỡ thay vì nhả ga. Họ tìm cách tăng thêm sức ép, tăng thêm tính thuyết phục để củng cố lập trường của mình. Tuy nhiên, vấn đề là ở chỗ những người ***phụ thuộc***lại luôn cố giành phần thắng trong các thực tế tương thuộc. Hoặc họ dựa vào sức mạnh quyền lực để đi đến giải pháp thắng/thua, hoặc tỏ ra “dĩ hòa vi quý” để đi đến giải pháp thua/thắng. Họ có thể nói về kỹ năng***cùng thắng***, nhưng không thực sự muốn lắng nghe ai cả; họ chỉ muốn khống chế người khác. Cho nên, trong môi trường như vậy,***đồng tâm hiệp lực*** không thể sinh sôi nẩy nở.
+Trong nhiều trường hợp cần thắng lại, nhiều người lại nhấn ga hết cỡ thay vì nhả ga. Họ tìm cách tăng thêm sức ép, tăng thêm tính thuyết phục để củng cố lập trường của mình. Tuy nhiên, vấn đề là ở chỗ những người ***phụ thuộc*** lại luôn cố giành phần thắng trong các thực tế tương thuộc. Hoặc họ dựa vào sức mạnh quyền lực để đi đến giải pháp thắng/thua, hoặc tỏ ra “dĩ hòa vi quý” để đi đến giải pháp thua/thắng. Họ có thể nói về kỹ năng ***cùng thắng***, nhưng không thực sự muốn lắng nghe ai cả; họ chỉ muốn khống chế người khác. Cho nên, trong môi trường như vậy, ***đồng tâm hiệp lực*** không thể sinh sôi nẩy nở.
 
 Những người có tâm trạng bất an thường suy nghĩ rằng thực tiễn cần phải được sửa đổi để phù hợp với mô thức của
 
@@ -1684,7 +1684,7 @@ họ. Họ rất muốn người khác làm theo họ, suy nghĩ như họ. Như
 
 > Giống nhau không có nghĩa là nhất thể; đồng dạng không có nghĩa là thống nhất. Thống nhất hay nhất thê í bổ sung lẫn nhau, nhưng không giống nhau. Giống nhau thì không có sự sáng tạo và rất nhàm chán. Điều cốt lõi của đồng tâm hiệp lực là luôn quý trọng sự khác biệt.
 
-Chìa khóa cho sự chung sức là ***đồng tâm hiệp lực***với tâm điểm là các nguyên tắc của ba thói quen đầu tiên. Các nguyên tắc này tạo ra sự an toàn nội tâm đủ để chúng ta dám cởi mở lòng mình và sẵn sàng chấp nhận tổn thương. Nhờ lĩnh hội những nguyên tắc này, chúng ta sẽ có được tâm lý rộng lượng của***tư duy cùng thắng*** và nhận thức rõ thói quen thứ năm.
+Chìa khóa cho sự chung sức là ***đồng tâm hiệp lực*** với tâm điểm là các nguyên tắc của ba thói quen đầu tiên. Các nguyên tắc này tạo ra sự an toàn nội tâm đủ để chúng ta dám cởi mở lòng mình và sẵn sàng chấp nhận tổn thương. Nhờ lĩnh hội những nguyên tắc này, chúng ta sẽ có được tâm lý rộng lượng của ***tư duy cùng thắng*** và nhận thức rõ thói quen thứ năm.
 
 Một trong những kết quả thực tiễn của tư duy ***lấy nguyên tắc làm trọng tâm*** là nó làm cho chúng ta hội nhập hoàn toàn. Những người đã được định hình sâu sắc bằng tư duy lô-gíc, bằng lời nói, những ai có bán cầu não trái hoạt động mạnh hơn sẽ nhận thấy tư duy đó không thích hợp để giải quyết những vấn đề đòi hỏi phải hết sức sáng tạo. Khi nhận ra, họ bắt đầu xây dựng một “kịch bản” mới ở bán cầu não phải.
 
@@ -1808,13 +1808,13 @@ Chẳng hạn, gia đình bạn gặp phải chuyện bất hòa. Bạn muốn c
 
 Nhưng động lực của bạn bị ngăn cản bởi các ***áp lực kìm hãm*** – những khuôn mẫu khác nhau do cha mẹ áp đặt, những thói quen đã được định hình của một vài thành viên trong gia đình, công việc hoặc những đòi hỏi khác về thời gian và sức lực của bạn.
 
-Tăng ***động lực thúc đẩy***có thể đem lại một số kết quả tạm thời. Nhưng khi các***áp lực kìm hãm*** vẫn còn thì việc tăng lực đẩy sẽ rất khó khăn. Cũng giống như việc đẩy vào
+Tăng ***động lực thúc đẩy*** có thể đem lại một số kết quả tạm thời. Nhưng khi các ***áp lực kìm hãm*** vẫn còn thì việc tăng lực đẩy sẽ rất khó khăn. Cũng giống như việc đẩy vào
 
 ![Sơ đồ phân tích trường lực: Động lực thúc đẩy vs Áp lực kìm hãm](images/so_do_phan_tich_truong_luc.png)
 
 một chiếc lò xo; bạn đẩy càng mạnh thì càng khó đẩy hơn, cho đến một lúc nào đó, lực của chiếc lò xo sẽ hất tung bạn trở lại.
 
-Nhưng khi bạn đồng tâm hiệp lực, bạn sẽ sử dụng động cơ của Thói quen thứ tư, kỹ năng của Thói quen thứ năm và sự tương tác của Thói quen thứ sáu để xử lý trực tiếp các ***áp lực kìm hãm*** . Bạn rã chúng, nới lỏng chúng, và tạo ra những phát kiến mới biến chúng thành lực đẩy. Bạn sẽ kéo theo nhiều người khác tham gia xử lý vấn đề, làm cho họ cảm thấy đó cũng chính là vấn đề của họ.
+Nhưng khi bạn đồng tâm hiệp lực, bạn sẽ sử dụng động cơ của Thói quen thứ tư, kỹ năng của Thói quen thứ năm và sự tương tác của Thói quen thứ sáu để xử lý trực tiếp các ***áp lực kìm hãm***. Bạn rã chúng, nới lỏng chúng, và tạo ra những phát kiến mới biến chúng thành lực đẩy. Bạn sẽ kéo theo nhiều người khác tham gia xử lý vấn đề, làm cho họ cảm thấy đó cũng chính là vấn đề của họ.
 
 Nhờ đó, những mục tiêu mới, những mục tiêu được mọi người chia sẻ sẽ được xác lập và công việc của bạn, của cả tập thể sẽ được nâng lên theo những cách không ai có thể hình dung trước được. Cảm hứng nảy sinh trong quá trình chuyển động đó sẽ tạo ra một nền văn hóa mới. Những người tham gia sẽ được tiếp thêm sức mạnh bởi tư duy mới mẻ nhờ vào các phương án và cơ hội mới.
 
@@ -1858,7 +1858,7 @@ Tôi không có ý nói rằng người ta không nên dùng đến biện pháp
 
 ### 9. BẢN CHẤT CỦA TỰ NHIÊN LÀ ĐỒNG TÂM HIỆP LỰC
 
-Sinh thái là từ mô tả một cách cơ bản về ***chủ nghĩa đồng tâm hiệp lực***trong tự nhiên – tất cả mọi sự vật, hiện tượng đều có mối liên hệ với nhau. Đó là mối quan hệ trong đó sức mạnh sáng tạo được phát huy tối đa, cũng như sức mạnh thực sự trong***7 Thói quen*** nằm trong mối quan hệ lẫn
+Sinh thái là từ mô tả một cách cơ bản về ***chủ nghĩa đồng tâm hiệp lực*** trong tự nhiên – tất cả mọi sự vật, hiện tượng đều có mối liên hệ với nhau. Đó là mối quan hệ trong đó sức mạnh sáng tạo được phát huy tối đa, cũng như sức mạnh thực sự trong ***7 Thói quen*** nằm trong mối quan hệ lẫn
 
 nhau, không phải là thói quen của riêng từng người.
 
@@ -1866,7 +1866,7 @@ Mối quan hệ mật thiết giữa các bộ phận cũng là một sức mạ
 
 > Đồng tâm hiệp lực luôn đem lại kết quả tốt hơn, đó là một nguyên tắc đúng đắn. Nó là kết quả trọn vẹn của tất cả các thói quen đã nói ở các chương trước. Nó đem lại sự thành đạt trong một thực tại tương thuộc – làm việc tập thể, xây dựng tập thể, phát triển sự đoàn kết và sáng tạo với những người khác.
 
-Mặc dù không thể kiểm soát được các mô thức của người khác trong tương tác có tính tương thuộc, cũng như bản thân quá trình đồng tâm hiệp lực, nhưng ngay trong ***Vòng tròn Ảnh hưởng***của bạn cũng có rất nhiều sức mạnh***đồng tâm hiệp lực.*** Bạn có thể liên kết cả hai chiều của năng lực tự nhiên, một chiều là phân tích và một chiều là sáng tạo. Bạn có thể coi trọng sự khác biệt giữa chúng và vận dụng sự khác biệt này làm hạt nhân cho sự sáng tạo.
+Mặc dù không thể kiểm soát được các mô thức của người khác trong tương tác có tính tương thuộc, cũng như bản thân quá trình đồng tâm hiệp lực, nhưng ngay trong ***Vòng tròn Ảnh hưởng*** của bạn cũng có rất nhiều sức mạnh ***đồng tâm hiệp lực.*** Bạn có thể liên kết cả hai chiều của năng lực tự nhiên, một chiều là phân tích và một chiều là sáng tạo. Bạn có thể coi trọng sự khác biệt giữa chúng và vận dụng sự khác biệt này làm hạt nhân cho sự sáng tạo.
 
 Bạn có thể ***đồng tâm hiệp lực*** ngay trong chính mình ở môi trường có sự đối đầu. Bạn không nên xúc phạm người khác và cố gắng tránh các năng lượng tiêu cực; bạn có thể tập trung nhìn nhận mặt tốt của người khác và sử dụng điều đó để cải thiện quan niệm, mở rộng tầm nhìn của mình.
 

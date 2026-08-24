@@ -49,7 +49,7 @@ Con người cùng chia sẻ nhiều điểm chung nhưng đồng thời cũng c
 Bản chất của con người được thể hiện ở bốn yếu tố: thể xác (body), trí tuệ (mind), tâm hồn (heart) và tinh thần (spirit). Hãy so sánh những khác biệt và kết quả theo hai cách tiếp cận khác nhau dưới đây:
 
 | Yếu tố | Xu hướng chung | Nguyên tắc |
-| :--- | :--- | :--- |
+|:--- |:--- |:--- |
 | **Thể xác** | Duy trì lối sống. Nếu bị bệnh thì đi khám và chữa bệnh. | Phòng ngừa bệnh tật và các vấn đề sức khỏe bằng cách điều chỉnh lối sống phù hợp với các quy tắc bảo vệ sức khỏe đã được thừa nhận. |
 | **Trí tuệ** | Xem ti-vi để giải trí. | Đào sâu kiến thức, không ngừng học hỏi. |
 | **Tâm hồn** | Sử dụng các mối quan hệ với người khác nhằm trục lợi cá nhân. | Lắng nghe, tôn trọng và giúp đỡ người khác sẽ đem lại sự hài lòng và cảm giác hạnh phúc. |
@@ -89,12 +89,12 @@ Dù hoàn cảnh hiện tại của bạn thế nào đi nữa, tôi vẫn tin r
 
 Với sự quan tâm thật sự, tôi mong rằng sau khi nghiên cứu các thói quen này, bạn sẽ mở được cánh cửa của sự thay đổi để trưởng thành hơn. Rõ ràng, mọi sự thay đổi đều khó có thể thực hiện được ngay, nhưng tôi bảo đảm với các bạn rằng bạn sẽ cảm thấy có lợi và được nhận về những phần thưởng xứng đáng. Hãy kiên nhẫn với chính mình vì không có sự đầu tư nào lớn hơn thế.
 
-> “Chúng ta thường không quý những gì có được một cách dễ dàng. Chỉ có sự cao quý mới làm cho mọi thứ trở nên có giá trị.”  
+> “Chúng ta thường không quý những gì có được một cách dễ dàng. Chỉ có sự cao quý mới làm cho mọi thứ trở nên có giá trị.” 
 > — *Thomas Paine*
 
 # MÔ THỨC VÀ NGUYÊN TẮC
 
-> “Không có sự xuất sắc thật sự nào tồn tại trên đời mà tách biệt với cách sống đúng đắn.”  
+> “Không có sự xuất sắc thật sự nào tồn tại trên đời mà tách biệt với cách sống đúng đắn.” 
 > — *David Starr Jordan*
 
 # Bắt đầu từ bên trong
@@ -161,11 +161,11 @@ hàng trăm cuốn sách, hàng ngàn bài báo và tiểu luận trong các lĩ
 
 Từ những trải nghiệm của chính mình và chứng kiến trải nghiệm của rất nhiều người khác, tôi tìm ra được những phương pháp vừa khoa học và thực tiễn, vừa mang tính chân lý về quá trình mưu cầu sự thành công của con người.
 
-Trong 150 năm đầu tiên từ sau ngày thành lập Hợp chủng quốc Hoa Kỳ, hầu hết các sách nói về thành công đều tập trung khai thác quan điểm ***Đạo đức tính cách***(Character Ethic) - bao gồm sự chính trực, đức khiêm tốn, lòng trung thành, sự mực thước, lòng can đảm, sự công bằng, sự cần cù, tính giản dị, lòng thật thà cùng bộ***Quy tắc vàng về ứng xử xã hội*** (Golden Rule) - được xem là nền tảng của thành công. Tự truyện của Benjamin Franklin *(*)* là một đại diện tiêu biểu cho trào lưu này. Về cơ bản, đó là câu chuyện về một người cố gắng kết hợp các nguyên tắc sống và những thói quen cố hữu với tính cách của mình.
+Trong 150 năm đầu tiên từ sau ngày thành lập Hợp chủng quốc Hoa Kỳ, hầu hết các sách nói về thành công đều tập trung khai thác quan điểm ***Đạo đức tính cách*** (Character Ethic) - bao gồm sự chính trực, đức khiêm tốn, lòng trung thành, sự mực thước, lòng can đảm, sự công bằng, sự cần cù, tính giản dị, lòng thật thà cùng bộ ***Quy tắc vàng về ứng xử xã hội*** (Golden Rule) - được xem là nền tảng của thành công. Tự truyện của Benjamin Franklin *(*)* là một đại diện tiêu biểu cho trào lưu này. Về cơ bản, đó là câu chuyện về một người cố gắng kết hợp các nguyên tắc sống và những thói quen cố hữu với tính cách của mình.
 
-Theo quan điểm ***Đạo đức tính cách*** , có một số nguyên tắc sống cơ bản. Để sống thật sự hạnh phúc và thành công, con người phải biết gắn những nguyên tắc này vào tính cách riêng của mình.
+Theo quan điểm ***Đạo đức tính cách***, có một số nguyên tắc sống cơ bản. Để sống thật sự hạnh phúc và thành công, con người phải biết gắn những nguyên tắc này vào tính cách riêng của mình.
 
-Sau Thế chiến thứ nhất, quan điểm chủ đạo về thành công chuyển từ ***Đạo đức tính cách***sang***Đạo đức nhân cách*** (Personality Ethic). Lúc bấy giờ, mọi người cho rằng thành
+Sau Thế chiến thứ nhất, quan điểm chủ đạo về thành công chuyển từ ***Đạo đức tính cách*** sang ***Đạo đức nhân cách*** (Personality Ethic). Lúc bấy giờ, mọi người cho rằng thành
 
 (*) Benjamin Franklin (1706 - 1790) là một trong những nhà lập quốc của nước Mỹ. Ông là một nhà báo, nhà khoa học, nhà phát minh, nhà hoạt động xã hội,
 
@@ -173,9 +173,9 @@ nhà ngoại giao nổi tiếng thế kỷ XVIII.
 
 công chủ yếu là do nhân cách, hình ảnh xã hội, thái độ và hành vi, các kỹ năng và bí quyết giúp quá trình giao tiếp giữa con người với nhau được thông suốt hơn. Quan điểm này gồm hai xu hướng: một là các quy tắc ứng xử cá nhân và xã hội, hai là thái độ sống tích cực (PMA – Positive Mental Attitude). Một vài nội dung của triết lý này được diễn dịch thành những câu châm ngôn tuyên truyền rất có giá trị, chẳng hạn như: “Thái độ quyết định tầm nhìn”, “Một nụ cười là mười người bạn”, “Những gì con người nhận thức được và tin, họ sẽ làm được”… Trong đó cũng có cả việc hướng dẫn sử dụng các tiểu xảo để lấy lòng người, hay giả vờ quan tâm đến những thú vui của người khác để được phần mình, hoặc sử dụng “sức mạnh ánh mắt” để chinh phục hay dọa dẫm người khác.
 
-Một số sách theo quan điểm ***Đạo đức nhân cách***cũng thừa nhận***tính cách***là một trong những yếu tố của thành công, nhưng lại hạ thấp vai trò nền tảng hay tính xúc tác của nó đối với thành công Do đó, trong những cuốn sách này,***Đạo đức tính cách*** dường như trở thành những lời nói suông và các tác giả chỉ nhấn mạnh các kỹ xảo gây ảnh hưởng cá nhân, âm mưu quyền lực, kỹ năng giao tiếp và thái độ tích cực.
+Một số sách theo quan điểm ***Đạo đức nhân cách*** cũng thừa nhận ***tính cách*** là một trong những yếu tố của thành công, nhưng lại hạ thấp vai trò nền tảng hay tính xúc tác của nó đối với thành công Do đó, trong những cuốn sách này, ***Đạo đức tính cách*** dường như trở thành những lời nói suông và các tác giả chỉ nhấn mạnh các kỹ xảo gây ảnh hưởng cá nhân, âm mưu quyền lực, kỹ năng giao tiếp và thái độ tích cực.
 
-Sau khi suy nghĩ sâu hơn về sự khác nhau giữa các quan điểm ***Đạo đức nhân cách***và***Đạo đức tính cách*** , vợ chồng tôi đã nhận ra sai lầm khi cố gắng tách những lợi ích về mặt xã hội ra khỏi hành vi tích cực của con trai. Chúng tôi nghĩ rằng thằng bé không đủ khả năng để tự làm bất cứ một điều gì. Chúng tôi đã đặt hình ảnh bản thân và vai trò làm cha mẹ cao hơn lợi ích của thằng bé. Chúng tôi chỉ chú ý đến cách nhìn nhận và cách xử lý vấn đề của mình mà không quan tâm đến hạnh phúc của con. Điều này không mang lại sự
+Sau khi suy nghĩ sâu hơn về sự khác nhau giữa các quan điểm ***Đạo đức nhân cách*** và ***Đạo đức tính cách***, vợ chồng tôi đã nhận ra sai lầm khi cố gắng tách những lợi ích về mặt xã hội ra khỏi hành vi tích cực của con trai. Chúng tôi nghĩ rằng thằng bé không đủ khả năng để tự làm bất cứ một điều gì. Chúng tôi đã đặt hình ảnh bản thân và vai trò làm cha mẹ cao hơn lợi ích của thằng bé. Chúng tôi chỉ chú ý đến cách nhìn nhận và cách xử lý vấn đề của mình mà không quan tâm đến hạnh phúc của con. Điều này không mang lại sự
 
 thay đổi tích cực nào cho thằng bé mà còn có tác động ngược đến nhân cách của nó.
 
@@ -189,13 +189,13 @@ Chúng tôi để thằng bé tự quyết định mọi hành vi, ứng xử c�
 
 Ngày tháng trôi qua, thằng bé dần dần cảm thấy tự tin hơn. Nó bắt đầu có những hành động tự khẳng định mình, thể hiện qua sự tiến bộ về các mặt học hành, quan hệ xã hội và hoạt động thể thao. Vài năm sau, nó được bầu làm thủ lĩnh của nhiều tổ chức học sinh, trở thành vận động viên cấp quốc gia, đem về nhà đủ các loại bằng khen. Con trai chúng tôi đã tự phát triển nhân cách, và gây được cảm tình với mọi người.
 
-Vợ chồng tôi tin rằng những thành tích “rất ấn tượng về mặt xã hội” của con trai chính là biểu hiện của cảm giác muốn tìm hiểu bản thân mình, hơn là chỉ để nhận được phần thưởng của xã hội. Đó là một kinh nghiệm đáng quý và là một bài học có tính giáo dục cao, không những cho chúng tôi mà còn cho nhiều bậc phụ huynh khác. Nó giúp chúng tôi nhận thức được sự khác biệt quan trọng giữa ***Đạo đức nhân cách***và***Đạo đức tính cách*** .
+Vợ chồng tôi tin rằng những thành tích “rất ấn tượng về mặt xã hội” của con trai chính là biểu hiện của cảm giác muốn tìm hiểu bản thân mình, hơn là chỉ để nhận được phần thưởng của xã hội. Đó là một kinh nghiệm đáng quý và là một bài học có tính giáo dục cao, không những cho chúng tôi mà còn cho nhiều bậc phụ huynh khác. Nó giúp chúng tôi nhận thức được sự khác biệt quan trọng giữa ***Đạo đức nhân cách*** và ***Đạo đức tính cách***.
 
 Có một câu trong thánh ca diễn tả rất đúng nhận thức này: “Hãy chú ý lắng nghe lời của trái tim mình vì mọi vấn đề trên đời đều nảy sinh từ đó”.
 
 ### 2. CHÍNH YẾU VÀ THỨ YẾU
 
-Nhờ kinh nghiệm từ trường hợp con trai mình, kết hợp với các nghiên cứu về khả năng nhận thức và đọc các sách viết về thành công, tôi tích lũy được nhiều bài học thú vị và bất ngờ về con đường đi đến thành công. Tôi bất chợt nhận ra ảnh hưởng mạnh mẽ của quan điểm ***Đạo đức nhân cách***và hiểu rõ sự khác biệt tinh tế giữa những gì trước kia tôi cho là đúng – những giá trị tôi được dạy dỗ từ tấm bé và đã ăn sâu vào tiềm thức – với những triết lý hiện hữu hàng ngày trong cuộc sống. Khi làm việc với nhiều người, tôi hiểu sâu hơn lý do tại sao quan điểm của tôi lại mâu thuẫn với suy nghĩ chung của họ. Đó là vì những quy tắc trong thuyết***Đạo đức nhân cách***đã ăn sâu vào tiềm thức của nhiều thế hệ, ảnh hưởng đến việc giáo dục của các bậc phụ huynh đối với quá trình trưởng thành của con em họ. Thêm nữa, khi sử dụng triệt để năng lực của nhân loại để xây dựng nền tảng cho những thế hệ trước đây, cha ông chúng ta đã quá tập trung vào hình thức ngôi nhà của mình mà thiếu quan tâm đến phần móng, chúng ta quen thu hoạch những cái có sẵn mà quên đi sự cần thiết của việc gieo hạt. Tôi không có ý nói rằng các nội dung của***Đạo đức nhân cách***như sự phát triển nhân cách, rèn luyện kỹ năng giao tiếp, giáo dục các phương cách gây ảnh hưởng, tư duy tích cực… là không hiệu quả. Bởi vì, trên thực tế đôi khi***Đạo đức nhân cách*** cũng cần thiết cho sự thành công, nhưng đó chỉ là yếu tố phụ mà thôi.
+Nhờ kinh nghiệm từ trường hợp con trai mình, kết hợp với các nghiên cứu về khả năng nhận thức và đọc các sách viết về thành công, tôi tích lũy được nhiều bài học thú vị và bất ngờ về con đường đi đến thành công. Tôi bất chợt nhận ra ảnh hưởng mạnh mẽ của quan điểm ***Đạo đức nhân cách*** và hiểu rõ sự khác biệt tinh tế giữa những gì trước kia tôi cho là đúng – những giá trị tôi được dạy dỗ từ tấm bé và đã ăn sâu vào tiềm thức – với những triết lý hiện hữu hàng ngày trong cuộc sống. Khi làm việc với nhiều người, tôi hiểu sâu hơn lý do tại sao quan điểm của tôi lại mâu thuẫn với suy nghĩ chung của họ. Đó là vì những quy tắc trong thuyết ***Đạo đức nhân cách*** đã ăn sâu vào tiềm thức của nhiều thế hệ, ảnh hưởng đến việc giáo dục của các bậc phụ huynh đối với quá trình trưởng thành của con em họ. Thêm nữa, khi sử dụng triệt để năng lực của nhân loại để xây dựng nền tảng cho những thế hệ trước đây, cha ông chúng ta đã quá tập trung vào hình thức ngôi nhà của mình mà thiếu quan tâm đến phần móng, chúng ta quen thu hoạch những cái có sẵn mà quên đi sự cần thiết của việc gieo hạt. Tôi không có ý nói rằng các nội dung của ***Đạo đức nhân cách*** như sự phát triển nhân cách, rèn luyện kỹ năng giao tiếp, giáo dục các phương cách gây ảnh hưởng, tư duy tích cực… là không hiệu quả. Bởi vì, trên thực tế đôi khi ***Đạo đức nhân cách*** cũng cần thiết cho sự thành công, nhưng đó chỉ là yếu tố phụ mà thôi.
 
 Nếu chúng ta cố ý sử dụng các phương cách gây ảnh hưởng buộc người khác làm điều mình muốn, để khuyến khích họ làm việc tốt hơn, hay để họ yêu thích chúng ta, trong khi bản thân chúng ta còn nhiều khiếm khuyết, nhất là tính giả dối, thì rút cục chúng ta cũng không thể thành công. Tính giả dối sẽ dẫn đến sự thiếu tin cậy. Do đó, mọi
 
@@ -205,7 +205,7 @@ Nguyên tắc trên đúng với cả hành vi của con người lẫn các m�
 
 Nhiều người chỉ đạt được những thành tích thứ yếu – được xã hội nhìn nhận năng lực - nhưng lại thiếu cái chính yếu, tức những phẩm chất tích cực cơ bản. Sớm muộn gì con người thực của họ cũng sẽ bộc lộ qua các mối quan hệ lâu dài, bất kể với đối tác kinh doanh, vợ chồng, bạn bè, hay với con cái. Theo Emerson, ***“Tính cách của bạn lấn át cả***
 
-***những lời bạn nói”*** . Do đó, tính cách là công cụ giao tiếp hiệu quả nhất.
+***những lời bạn nói”***. Do đó, tính cách là công cụ giao tiếp hiệu quả nhất.
 
 Tuy nhiên, nếu một người có bản chất tốt, tính cách tốt, thói quen tốt nhưng thiếu kỹ năng giao tiếp thì chắc chắn sẽ ảnh hưởng đến các mối quan hệ. Nhưng những ảnh hưởng này chỉ là thứ yếu.
 
@@ -215,9 +215,9 @@ Tóm lại, tính cách bên trong có sức thuyết phục hơn nhiều so v�
 
 ### 3. ẢNH HƯỞNG CỦA MÔ THỨC
 
-Cuốn sách ***7 Thói Quen Để Thành Đạt***chứa đựng những nguyên tắc cơ bản, những thói quen chủ yếu góp phần xây dựng một cuộc sống tích cực cho mỗi người. Để hiểu rõ***7 thói quen***này, trước hết, chúng ta cần phải hiểu***mô thức***của bản thân và cách thay đổi***mô thức*** đó.
+Cuốn sách ***7 Thói Quen Để Thành Đạt*** chứa đựng những nguyên tắc cơ bản, những thói quen chủ yếu góp phần xây dựng một cuộc sống tích cực cho mỗi người. Để hiểu rõ ***7 thói quen*** này, trước hết, chúng ta cần phải hiểu ***mô thức*** của bản thân và cách thay đổi ***mô thức*** đó.
 
-Hai khái niệm ***Đạo đức tính cách***và***Đạo đức nhân cách***nêu trên là ví dụ về mô thức xã hội. Thuật ngữ***mô thức***(paradigm) có xuất xứ từ tiếng Hy Lạp. Đây là một thuật ngữ khoa học, ngày nay thường được dùng với nghĩa là***mô hình, lý thuyết, nhận thức, giả thuyết***hay***khung tham chiếu***. Nói một cách dễ hiểu hơn,***mô thức*** là cách chúng ta “nhìn” thế giới – không phải bằng trực giác mà bằng nhận thức, sự
+Hai khái niệm ***Đạo đức tính cách*** và ***Đạo đức nhân cách*** nêu trên là ví dụ về mô thức xã hội. Thuật ngữ ***mô thức*** (paradigm) có xuất xứ từ tiếng Hy Lạp. Đây là một thuật ngữ khoa học, ngày nay thường được dùng với nghĩa là ***mô hình, lý thuyết, nhận thức, giả thuyết*** hay ***khung tham chiếu***. Nói một cách dễ hiểu hơn, ***mô thức*** là cách chúng ta “nhìn” thế giới – không phải bằng trực giác mà bằng nhận thức, sự
 
 hiểu biết và theo cách lý giải của riêng chúng ta.
 
@@ -225,13 +225,13 @@ Cách đơn giản nhất để hiểu được khái niệm ***mô thức*** l�
 
 Giả sử bạn muốn đi đến một địa điểm cụ thể tại thành phố Chicago và bạn phải sử dụng tấm bản đồ đường phố Chicago. Thế nhưng, giả sử như người ta đưa cho bạn tấm bản đồ sai. Do lỗi in ấn, tấm bản đồ thành phố Chicago thực ra là bản đồ thành phố Detroit chẳng hạn, bạn có hình dung ra sự bực bội, sự bất lực của mình trong việc cố tìm ra điểm cần đến như thế nào không?
 
-Với tấm bản đồ Detroit trong tay, bạn bắt đầu sử dụng ***hành vi***của mình - nỗ lực tìm kiếm điểm cần đến ở thành phố Chicago. Nhưng cố gắng đó chỉ đưa bạn đến sai chỗ nhanh hơn mà thôi. Rồi bạn sử dụng đến*** thái độ – suy nghĩ tích cực hơn - nhưng vẫn không đến được đúng nơi cần đến. Song, bạn vẫn giữ được thái độ tích cực và cảm thấy vui vẻ, bất luận bạn đang ở đâu.
+Với tấm bản đồ Detroit trong tay, bạn bắt đầu sử dụng ***hành vi*** của mình - nỗ lực tìm kiếm điểm cần đến ở thành phố Chicago. Nhưng cố gắng đó chỉ đưa bạn đến sai chỗ nhanh hơn mà thôi. Rồi bạn sử dụng đến*** thái độ – suy nghĩ tích cực hơn - nhưng vẫn không đến được đúng nơi cần đến. Song, bạn vẫn giữ được thái độ tích cực và cảm thấy vui vẻ, bất luận bạn đang ở đâu.
 
-Tuy nhiên, vấn đề ở đây lại chẳng liên quan gì đến hành vi hay thái độ của bạn. Bạn đang bị lạc đường: nguyên do là bạn sử dụng tấm bản đồ sai. Nếu có trong tay tấm bản đồ đúng của thành phố Chicago thì ***hành vi***nỗ lực tìm kiếm của bạn lại trở nên đáng trân trọng. Và khi gặp phải những trở ngại trên đường đi thì***thái độ***tích cực của bạn sẽ có ý nghĩa. Nhưng, chúng ta chưa vội xét đến những giả định đó. Điều trước tiên và quan trọng nhất là bạn phải có trong tay một tấm bản đồ chính xác, nghĩa là bạn cần phải xây dựng một***mô thức*** đúng đắn trước khi bắt tay vào hành động.
+Tuy nhiên, vấn đề ở đây lại chẳng liên quan gì đến hành vi hay thái độ của bạn. Bạn đang bị lạc đường: nguyên do là bạn sử dụng tấm bản đồ sai. Nếu có trong tay tấm bản đồ đúng của thành phố Chicago thì ***hành vi*** nỗ lực tìm kiếm của bạn lại trở nên đáng trân trọng. Và khi gặp phải những trở ngại trên đường đi thì ***thái độ*** tích cực của bạn sẽ có ý nghĩa. Nhưng, chúng ta chưa vội xét đến những giả định đó. Điều trước tiên và quan trọng nhất là bạn phải có trong tay một tấm bản đồ chính xác, nghĩa là bạn cần phải xây dựng một ***mô thức*** đúng đắn trước khi bắt tay vào hành động.
 
-Trong tâm trí mỗi chúng ta đều có vô số những “tấm bản đồ” tương tự như thế. Có thể chia chúng thành hai loại chủ yếu: bản đồ thực tại và bản đồ giá trị. Chúng ta thường lý giải mọi việc thông qua hai tấm bản đồ này nhưng ít khi nhận ra sự hiện diện cũng như ít nghi ngờ về độ chính xác của chúng. Hầu như chúng ta có thói quen nhìn nhận chủ quan rằng thế nào mọi việc cũng tiến triển theo đúng những gì mình nhìn thấy; đó cũng chính là nguồn gốc của ***thái độ và***hành vi*** cũng như cách thức chúng ta suy nghĩ và hành động.
+Trong tâm trí mỗi chúng ta đều có vô số những “tấm bản đồ” tương tự như thế. Có thể chia chúng thành hai loại chủ yếu: bản đồ thực tại và bản đồ giá trị. Chúng ta thường lý giải mọi việc thông qua hai tấm bản đồ này nhưng ít khi nhận ra sự hiện diện cũng như ít nghi ngờ về độ chính xác của chúng. Hầu như chúng ta có thói quen nhìn nhận chủ quan rằng thế nào mọi việc cũng tiến triển theo đúng những gì mình nhìn thấy; đó cũng chính là nguồn gốc của ***thái độ và*** hành vi*** cũng như cách thức chúng ta suy nghĩ và hành động.
 
-Để làm rõ hơn về vấn đề này, chúng ta hãy tham gia một thí nghiệm về tự nhận thức và cảm giác qua ***hình 1***(trang 44),***hình 2***(trang 47) và***hình 3***(trang 72). Đầu tiên, chúng ta sẽ dành vài giây quan sát***hình 1***, sau đó nhìn***hình 2***và mô tả tỉ mỉ những gì đã được nhìn thấy ở***hình 2*** qua một số câu hỏi gợi ý như: Bạn thử đoán người phụ nữ này bao nhiêu tuổi? Diện mạo thế nào? Có đeo trang sức gì không? Và người phụ nữ này có vai trò gì trong xã hội?
+Để làm rõ hơn về vấn đề này, chúng ta hãy tham gia một thí nghiệm về tự nhận thức và cảm giác qua ***hình 1*** (trang 44), ***hình 2*** (trang 47) và ***hình 3*** (trang 72). Đầu tiên, chúng ta sẽ dành vài giây quan sát ***hình 1***, sau đó nhìn ***hình 2*** và mô tả tỉ mỉ những gì đã được nhìn thấy ở ***hình 2*** qua một số câu hỏi gợi ý như: Bạn thử đoán người phụ nữ này bao nhiêu tuổi? Diện mạo thế nào? Có đeo trang sức gì không? Và người phụ nữ này có vai trò gì trong xã hội?
 
 Có thể bạn sẽ mô tả người phụ nữ ở bức tranh thứ hai là vào khoảng 25 tuổi, trông rất dễ thương, có phần thời thượng với cái mũi xinh xinh và một dáng vẻ đoan trang. Nếu bạn độc thân, có thể bạn rất thích mời cô ấy đi chơi. Nếu bạn kinh doanh trong ngành thời trang, có lẽ bạn muốn thuê cô ấy làm người mẫu.
 
@@ -241,11 +241,11 @@ Ai đúng? Hãy xem lại hình vẽ lần nữa. Bạn có nhìn ra một bà l
 
 nhìn thấy cái mũi to của bà ấy? Bạn có thấy chiếc khăn trùm đầu của bà?
 
-Nếu chúng ta trực tiếp nói chuyện với nhau, chúng ta có thể cùng mô tả, thảo luận, trao đổi về những gì chúng ta nhìn thấy trong bức tranh ấy. Nhưng chúng ta không thể làm được điều đó, vì vậy bạn hãy lật đến ***hình 3***(trang 72) và quan sát thật kỹ bức vẽ này, rồi trở lại nhìn***hình 2*** một lần nữa. Bạn đã nhận ra bà lão trong bức vẽ này chưa?
+Nếu chúng ta trực tiếp nói chuyện với nhau, chúng ta có thể cùng mô tả, thảo luận, trao đổi về những gì chúng ta nhìn thấy trong bức tranh ấy. Nhưng chúng ta không thể làm được điều đó, vì vậy bạn hãy lật đến ***hình 3*** (trang 72) và quan sát thật kỹ bức vẽ này, rồi trở lại nhìn ***hình 2*** một lần nữa. Bạn đã nhận ra bà lão trong bức vẽ này chưa?
 
 Lần đầu tiên tôi được thực hiện bài tập thử nghiệm này là tại Khoa Kinh doanh của trường Đại học Harvard cách đây nhiều năm. Vị giáo sư dạy chúng tôi lúc ấy đã dùng phương pháp này để chứng minh một cách rõ ràng và thuyết phục rằng hai người có thể có hai cái nhìn khác nhau về cùng một sự vật, và cả hai đều đúng. Đây không phải là vấn đề lô-gíc, mà là vấn đề tâm lý học.
 
-Ông đem vào lớp học một tập các bản vẽ lớn vẽ cô gái trẻ như bạn nhìn thấy ở ***hình 1***(trang 44) và vẽ bà lão như***hình 3***(trang 72). Ông chia lớp học làm hai nhóm, nhóm 1 nhận hình vẽ cô gái trẻ, nhóm 2 nhận hình vẽ bà lão, và yêu cầu chúng tôi xem kỹ bức vẽ nhận được trong vòng mười giây, sau đó, úp xuống bàn. Đoạn, ông chiếu lên màn ảnh***hình 2*** (trang 47), và yêu cầu cả lớp mô tả những gì họ nhìn thấy trên hình vẽ đó. Và kết quả là hầu hết những người ở nhóm 1 đều cho rằng đã nhìn thấy hình ảnh một cô gái trên hình chiếu, còn nhóm 2 thì nhìn thấy một bà lão trên màn ảnh. Tiếp đến, vị giáo sư yêu cầu đại diện hai nhóm mô tả những gì đã nhìn thấy và một cuộc tranh luận khá gây cấn đã diễn ra. Một bên nói rằng: “Cô ấy không quá 20 hay 22 tuổi, xinh xắn và đáng yêu”, còn một bên thì khăng khăng: “Bà ấy phải hơn 70, có lẽ 80 tuổi, già nua và xấu xí.”.
+Ông đem vào lớp học một tập các bản vẽ lớn vẽ cô gái trẻ như bạn nhìn thấy ở ***hình 1*** (trang 44) và vẽ bà lão như ***hình 3*** (trang 72). Ông chia lớp học làm hai nhóm, nhóm 1 nhận hình vẽ cô gái trẻ, nhóm 2 nhận hình vẽ bà lão, và yêu cầu chúng tôi xem kỹ bức vẽ nhận được trong vòng mười giây, sau đó, úp xuống bàn. Đoạn, ông chiếu lên màn ảnh ***hình 2*** (trang 47), và yêu cầu cả lớp mô tả những gì họ nhìn thấy trên hình vẽ đó. Và kết quả là hầu hết những người ở nhóm 1 đều cho rằng đã nhìn thấy hình ảnh một cô gái trên hình chiếu, còn nhóm 2 thì nhìn thấy một bà lão trên màn ảnh. Tiếp đến, vị giáo sư yêu cầu đại diện hai nhóm mô tả những gì đã nhìn thấy và một cuộc tranh luận khá gây cấn đã diễn ra. Một bên nói rằng: “Cô ấy không quá 20 hay 22 tuổi, xinh xắn và đáng yêu”, còn một bên thì khăng khăng: “Bà ấy phải hơn 70, có lẽ 80 tuổi, già nua và xấu xí.”.
 
 ### Hình 1
 
@@ -255,9 +255,9 @@ Lần đầu tiên tôi được thực hiện bài tập thử nghiệm này l�
 
 Phép thử về nhận thức này giúp chúng ta hiểu được sự quen thuộc có ảnh hưởng mạnh mẽ như thế nào đến nhận thức và mô thức của chúng ta. Nếu như sự quen thuộc chỉ trong thời gian 10 giây còn có ảnh hưởng đến cách chúng ta nhìn sự vật như vậy, thì thử hỏi sự quen thuộc cả đời sẽ có sức ảnh hưởng mạnh mẽ đến nhường nào?
 
-Trong cuộc sống, chúng ta thường bị ảnh hưởng bởi gia đình, trường học, nhà thờ, môi trường làm việc, bạn bè, cộng sự, và các mô thức xã hội hiện hành (ví dụ: mô thức ***Đạo đức nhân cách***) một cách vô thức. Tất cả những điều đó hình thành trong chúng ta một khung tham chiếu, một mô thức, và một tấm bản đồ nhận thức riêng. Nó cũng cho thấy mô thức là nguồn gốc của thái độ và hành vi. Chúng ta không thể hành động trung thực bên ngoài khuôn khổ của mô thức. Chúng ta không thể duy trì được sự nhất quán nếu những gì ta nói và làm khác với điều ta nhận thấy. Nếu như bạn nằm trong số những người nhìn ra người phụ nữ trong bức tranh ghép là một cô gái trẻ thì chắc rằng bạn sẽ không hề nghĩ đến việc giúp đỡ cô ấy băng qua đường vì***thái độ***lẫn***hành vi***của bạn phải phù hợp với***cách nhìn*** của bạn đối với “cô gái trẻ” này.
+Trong cuộc sống, chúng ta thường bị ảnh hưởng bởi gia đình, trường học, nhà thờ, môi trường làm việc, bạn bè, cộng sự, và các mô thức xã hội hiện hành (ví dụ: mô thức ***Đạo đức nhân cách***) một cách vô thức. Tất cả những điều đó hình thành trong chúng ta một khung tham chiếu, một mô thức, và một tấm bản đồ nhận thức riêng. Nó cũng cho thấy mô thức là nguồn gốc của thái độ và hành vi. Chúng ta không thể hành động trung thực bên ngoài khuôn khổ của mô thức. Chúng ta không thể duy trì được sự nhất quán nếu những gì ta nói và làm khác với điều ta nhận thấy. Nếu như bạn nằm trong số những người nhìn ra người phụ nữ trong bức tranh ghép là một cô gái trẻ thì chắc rằng bạn sẽ không hề nghĩ đến việc giúp đỡ cô ấy băng qua đường vì ***thái độ*** lẫn ***hành vi*** của bạn phải phù hợp với ***cách nhìn*** của bạn đối với “cô gái trẻ” này.
 
-Thí nghiệm trên chỉ rõ điểm sai sót cơ bản của các quy tắc trong ***Đạo đức nhân cách***. Việc cố gắng thay đổi***thái độ và***hành vi ***bên ngoài sẽ không có mấy hiệu quả nếu chúng ta không xem xét lại các***mô thức cơ bản***hình thành***thái độ và***hành vi*** của chúng ta.
+Thí nghiệm trên chỉ rõ điểm sai sót cơ bản của các quy tắc trong ***Đạo đức nhân cách***. Việc cố gắng thay đổi ***thái độ và*** hành vi ***bên ngoài sẽ không có mấy hiệu quả nếu chúng ta không xem xét lại các*** mô thức cơ bản ***hình thành*** thái độ và ***hành vi*** của chúng ta.
 
 Đồng thời, nó cũng cho thấy các mô thức có ảnh hưởng mạnh mẽ như thế nào đến cách thức chúng ta đối xử với người khác. Như một thói quen, chúng ta thường quan sát và suy nghĩ về sự vật theo quan điểm riêng của mình, và chúng ta cũng phải thừa nhận rằng người khác cũng có cái nhìn theo quan điểm riêng của họ. Như vậy, việc đánh giá một sự việc, sự vật là tùy thuộc vào góc nhìn của mỗi người.
 
@@ -273,9 +273,9 @@ Tóm lại, khi chúng ta càng hiểu rõ các mô thức cơ bản, các “b�
 
 ### 4. THAY ĐỔI MÔ THỨC
 
-Có lẽ điều quan trọng nhất rút ra từ phép thử về nhận thức nêu trên là phạm vi thay đổi mô thức, có thể tạm gọi là ***kinh nghiệm “À há!”***(“Aha!” experience) - khi ai đó nhìn nhận sự việc bằng một cái nhìn khác, mới mẻ và sáng tạo hơn. Nó giống như một luồng sáng bất ngờ lóe lên trong bóng tối nên những ai càng bị ràng buộc suy nghĩ vào nhận thức ban đầu thì***kinh nghiệm “À há”*** càng có tác dụng mạnh mẽ.
+Có lẽ điều quan trọng nhất rút ra từ phép thử về nhận thức nêu trên là phạm vi thay đổi mô thức, có thể tạm gọi là ***kinh nghiệm “À há!”*** (“Aha!” experience) - khi ai đó nhìn nhận sự việc bằng một cái nhìn khác, mới mẻ và sáng tạo hơn. Nó giống như một luồng sáng bất ngờ lóe lên trong bóng tối nên những ai càng bị ràng buộc suy nghĩ vào nhận thức ban đầu thì ***kinh nghiệm “À há”*** càng có tác dụng mạnh mẽ.
 
-Thuật ngữ ***sự biến đổi mô thức***(Paradigm shift) do Thomas Kuhn giới thiệu trong cuốn sách***Cấu trúc của cuộc cách mạng khoa học kỹ thuật*** (The Structure of Scientific Revolutions), đánh dấu một bước ngoặt lớn trong lĩnh vực khoa học kỹ thuật. Kuhn đã chỉ ra rằng, hầu hết những đột phá có ý nghĩa trong lĩnh vực khoa học trước hết là do sự phá vỡ các tập tục truyền thống lạc hậu, lối tư duy sáo mòn và những mô thức cũ kỹ. Nhờ sự biến đổi đó mà hàng loạt các phát minh, sáng chế ra đời và có giá trị cho đến ngày nay.
+Thuật ngữ ***sự biến đổi mô thức*** (Paradigm shift) do Thomas Kuhn giới thiệu trong cuốn sách ***Cấu trúc của cuộc cách mạng khoa học kỹ thuật*** (The Structure of Scientific Revolutions), đánh dấu một bước ngoặt lớn trong lĩnh vực khoa học kỹ thuật. Kuhn đã chỉ ra rằng, hầu hết những đột phá có ý nghĩa trong lĩnh vực khoa học trước hết là do sự phá vỡ các tập tục truyền thống lạc hậu, lối tư duy sáo mòn và những mô thức cũ kỹ. Nhờ sự biến đổi đó mà hàng loạt các phát minh, sáng chế ra đời và có giá trị cho đến ngày nay.
 
 Theo nhà thiên văn học vĩ đại của Ai Cập, Ptolemy, thì trái đất là trung tâm của vũ trụ. Nhưng Copernicus *(*)* đã gây chấn động trong giới khoa học lúc bấy giờ, và bất chấp sự phản đối của giáo hội, khi đưa ra một mô thức mới: mặt
 
@@ -293,7 +293,7 @@ giận vì học thuyết này đã làm đảo lộn mọi giáo lý của họ
 
 là trung tâm).
 
-Tuy nhiên, không phải tất cả mọi sự thay đổi mô thức đều có xu hướng tích cực. Chẳng hạn như sự thay đổi từ ***Đạo đức tính cách***sang***Đạo đức nhân cách*** đã khiến chúng ta đi chệch ra khỏi con đường dẫn đến thành công và hạnh phúc. Nhưng dù sự thay đổi mô thức diễn ra theo hướng tích cực hay tiêu cực, đúng hay sai, nhanh hay chậm, chúng vẫn có nguồn gốc từ thái độ và hành vi, từ mối quan hệ của chúng ta với người khác và làm cho chúng ta thay đổi nhận thức.
+Tuy nhiên, không phải tất cả mọi sự thay đổi mô thức đều có xu hướng tích cực. Chẳng hạn như sự thay đổi từ ***Đạo đức tính cách*** sang ***Đạo đức nhân cách*** đã khiến chúng ta đi chệch ra khỏi con đường dẫn đến thành công và hạnh phúc. Nhưng dù sự thay đổi mô thức diễn ra theo hướng tích cực hay tiêu cực, đúng hay sai, nhanh hay chậm, chúng vẫn có nguồn gốc từ thái độ và hành vi, từ mối quan hệ của chúng ta với người khác và làm cho chúng ta thay đổi nhận thức.
 
 Tôi nhớ một câu chuyện nhỏ về sự thay đổi mô thức xảy ra trên một chuyến xe điện ngầm vào một buổi sáng chủ nhật. Lúc đó, mọi hành khách đang ngồi im lặng – người đọc báo, người trầm ngâm suy nghĩ, một vài người khác thì tranh thủ chợp mắt - trong bầu không khí thật yên tĩnh. Rồi một người đàn ông cùng các con bước lên, ngay lập tức, sự tĩnh lặng bị phá vỡ.
 
@@ -317,11 +317,11 @@ Theo lời của Thoreau: “Một ngàn nhát búa bổ vào cành lá không b
 
 Không phải tất cả các quá trình thay đổi mô thức đều diễn ra ngay tức khắc như sự thay đổi nhận thức nhanh chóng của tôi trên chuyến xe điện ngầm mà tôi đã kể, ngược lại, sự thay đổi mô thức có khi là một quá trình diễn ra chậm chạp, đầy khó khăn và cần phải được cân nhắc kỹ lưỡng như trong trường hợp của vợ chồng tôi đối với con mình.
 
-Nhận thức ban đầu của chúng tôi về con xuất phát từ ảnh hưởng của nhiều năm tiếp thu và rèn luyện ***Đạo đức nhân cách*** . Đó là một mô thức đã ăn sâu vào quan niệm của các bậc cha mẹ về thành công trong việc giáo dục con cái cũng như về thước đo thành công của con cái: họ muốn bao bọc con cái, không hoàn toàn tin vào khả năng thực sự của chúng và cho rằng chúng nên tuân theo mọi quyết định của mình. Tuy nhiên, chỉ khi chúng ta thay đổi những mô thức cơ bản, thay đổi nhận thức thì chúng ta mới có thể tạo ra những thay đổi mang tính đột phá cho bản thân và hoàn cảnh của mình.
+Nhận thức ban đầu của chúng tôi về con xuất phát từ ảnh hưởng của nhiều năm tiếp thu và rèn luyện ***Đạo đức nhân cách***. Đó là một mô thức đã ăn sâu vào quan niệm của các bậc cha mẹ về thành công trong việc giáo dục con cái cũng như về thước đo thành công của con cái: họ muốn bao bọc con cái, không hoàn toàn tin vào khả năng thực sự của chúng và cho rằng chúng nên tuân theo mọi quyết định của mình. Tuy nhiên, chỉ khi chúng ta thay đổi những mô thức cơ bản, thay đổi nhận thức thì chúng ta mới có thể tạo ra những thay đổi mang tính đột phá cho bản thân và hoàn cảnh của mình.
 
-Vì vậy, để thay đổi ***nhận thức***về con, chúng tôi bắt đầu thay đổi mô thức cơ bản - thay đổi chính***tính cách*** của chúng tôi. Và một mô thức mới ra đời trong quá trình này.
+Vì vậy, để thay đổi ***nhận thức*** về con, chúng tôi bắt đầu thay đổi mô thức cơ bản - thay đổi chính ***tính cách*** của chúng tôi. Và một mô thức mới ra đời trong quá trình này.
 
-Mô thức không tách rời khỏi tính cách. Trong bản thân của một con người, ***tính cách***và***nhận thức***có mối quan hệ hỗ tương:***tính cách***quyết định***nhận thức***và***nhận thức***có liên quan mật thiết đến***tính cách***. Chúng ta không thể thay đổi***nhận thức***mà không thay đổi***tính cách*** và ngược lại.
+Mô thức không tách rời khỏi tính cách. Trong bản thân của một con người, ***tính cách*** và ***nhận thức*** có mối quan hệ hỗ tương: ***tính cách*** quyết định ***nhận thức*** và ***nhận thức*** có liên quan mật thiết đến ***tính cách***. Chúng ta không thể thay đổi ***nhận thức*** mà không thay đổi ***tính cách*** và ngược lại.
 
 Ngay cả trường hợp thay đổi mô thức có vẻ tức thời của tôi vào buổi sáng hôm đó trên xe điện ngầm, thì việc thay đổi ấy cũng là hệ quả và bị giới hạn bởi tính cách cơ bản của tôi.
 
@@ -377,13 +377,13 @@ Những nguyên tắc tôi đang nói đến tuyệt nhiên không phải là nh
 
 Ví dụ, khi tôi nói về nguyên tắc ***công bằng*** thì sẽ nảy sinh ra khái niệm công bằng và công lý. Dường như trẻ con cũng có một ý thức bẩm sinh về sự công bằng, cho dù được rèn luyện trong điều kiện ngược lại. Tuy có một sự khác biệt rất lớn giữa định nghĩa và việc thực hiện công bằng, nhưng nhận thức về sự công bằng lại là một nhận thức chung.
 
-Nguyên tắc ***trung thực***và***lương thiện*** tạo cơ sở cho sự tin cậy - điều cốt yếu cho sự hợp tác, phát triển bền vững trong bản thân của một con người và trong các mối quan hệ của con người với nhau.
+Nguyên tắc ***trung thực*** và ***lương thiện*** tạo cơ sở cho sự tin cậy - điều cốt yếu cho sự hợp tác, phát triển bền vững trong bản thân của một con người và trong các mối quan hệ của con người với nhau.
 
-Một nguyên tắc nữa là ***nhân quyền*** . Khái niệm cơ bản trong Tuyên ngôn độc lập của Hoa Kỳ đã nêu rõ giá trị của nguyên tắc này: “Chúng tôi khẳng định một chân lý hiển nhiên rằng: mọi người sinh ra đều bình đẳng, rằng tạo hóa đã ban cho họ những quyền tất yếu và bất khả xâm phạm, trong đó có quyền sống, quyền được tự do và mưu cầu hạnh phúc”.
+Một nguyên tắc nữa là ***nhân quyền***. Khái niệm cơ bản trong Tuyên ngôn độc lập của Hoa Kỳ đã nêu rõ giá trị của nguyên tắc này: “Chúng tôi khẳng định một chân lý hiển nhiên rằng: mọi người sinh ra đều bình đẳng, rằng tạo hóa đã ban cho họ những quyền tất yếu và bất khả xâm phạm, trong đó có quyền sống, quyền được tự do và mưu cầu hạnh phúc”.
 
-Ngoài ra còn có một số nguyên tắc khác như: ***phụng sự,***hoặc ý tưởng muốn cống hiến, nguyên tắc***chất lượng***hay***hoàn hảo*** .
+Ngoài ra còn có một số nguyên tắc khác như: ***phụng sự,*** hoặc ý tưởng muốn cống hiến, nguyên tắc ***chất lượng*** hay ***hoàn hảo***.
 
-Nguyên tắc ***tiềm năng***cho rằng chúng ta là phôi thai có thể lớn lên, phát triển, tạo ra ngày càng nhiều nguồn lực. Gắn liền với nguyên tắc***tiềm năng***là nguyên tắc***phát triển***– tức là quá trình giải phóng tiềm năng và phát triển tài năng. Quá trình này cũng cần đến các nguyên tắc như***kiên trì, bồi dưỡng***và***khuyến khích*** .
+Nguyên tắc ***tiềm năng*** cho rằng chúng ta là phôi thai có thể lớn lên, phát triển, tạo ra ngày càng nhiều nguồn lực. Gắn liền với nguyên tắc ***tiềm năng*** là nguyên tắc ***phát triển*** – tức là quá trình giải phóng tiềm năng và phát triển tài năng. Quá trình này cũng cần đến các nguyên tắc như ***kiên trì, bồi dưỡng*** và ***khuyến khích***.
 
 > Nguyên tắc không phải là thực hành, vì thực hành là một hoạt động đặc trưng, một hành động cụ thể. Thực hành có thể thành công trong trường hợp này nhưng chưa chắc đã thành công trong trường hợp khác, như việc cha mẹ không nhất thiết phải nuôi đứa con thứ hai giống như cách nuôi đứa con đầu lòng.
 
@@ -459,7 +459,7 @@ Có thể cô con gái nhỏ của tôi cần có kinh nghiệm sở hữu đồ
 
 Nhưng lúc đó, tôi coi trọng ý nghĩ của các bậc phụ huynh đang đứng xung quanh về cách xử sự của tôi hơn sự trưởng thành và phát triển của con cũng như hơn mối quan hệ giữa hai cha con tôi. Đơn giản là tôi cho rằng mình làm như vậy là đúng và hành động của con bé là sai. Con bé phải chia đồ chơi cho các bạn.
 
-Có lẽ theo thang đo của riêng tôi, tôi đang ở mức độ cảm xúc thấp vì tôi không thể ***cho con lòng kiên nhẫn***hay***sự thông cảm***. Do đó, tôi đã kỳ vọng con gái mình ở mức cao hơn - đó là nó sẽ cho các bạn đồ chơi. Để cố gắng bù đắp những yếu kém của bản thân, tôi đã***“mượn”*** sức mạnh từ uy
+Có lẽ theo thang đo của riêng tôi, tôi đang ở mức độ cảm xúc thấp vì tôi không thể ***cho con lòng kiên nhẫn*** hay ***sự thông cảm***. Do đó, tôi đã kỳ vọng con gái mình ở mức cao hơn - đó là nó sẽ cho các bạn đồ chơi. Để cố gắng bù đắp những yếu kém của bản thân, tôi đã ***“mượn”*** sức mạnh từ uy
 
 quyền của một người cha để ép buộc con làm theo ý mình.
 
@@ -487,7 +487,7 @@ càng tập trung vào những vấn đề và cơn đau cấp tính bao nhiêu 
 
 Điều này có nghĩa là có vấn đề trong cách nhìn nhận vấn đề của chúng ta.
 
-Chúng ta hãy xem lại lần nữa một số điểm cần lưu ý đã được nêu ra ở chương này và tác động của tư duy ***Đạo đức nhân cách*** .
+Chúng ta hãy xem lại lần nữa một số điểm cần lưu ý đã được nêu ra ở chương này và tác động của tư duy ***Đạo đức nhân cách***.
 
 > “Tôi tham dự hết khóa đào tạo này đến khóa huấn luyện khác về quản trị hiệu quả. Tôi cố đối xử tốt và tạo mối quan hệ thân tình với nhân viên của mình, kỳ vọng vào năng lực của họ nhưng tôi không thấy ai trung thành với mình cả. Tôi nghĩ nếu tôi bị ốm nằm nhà một ngày, họ sẽ tha hồ mà tán gẫu với nhau suốt buổi. Tại sao tôi không thể rèn luyện họ biết làm việc một cách tự giác và có tinh thần trách nhiệm - hay tìm được người có những đức tính đó?”
 
@@ -513,7 +513,7 @@ Liệu tôi có đang đặt ra một mô thức cơ bản nào đó về vợ m
 
 Bạn có nhận ra mô thức ***Đạo đức nhân cách*** có ảnh hưởng quan trọng như thế nào đến cách chúng ta nhìn nhận và giải quyết vấn đề không?
 
-Dù có nhận ra hay không thì cũng có nhiều người ảo tưởng về những hứa hẹn sáo rỗng của thuyết ***Đạo đức nhân cách***. Tôi từng đi đến nhiều nơi, làm việc với nhiều tổ chức, gặp gỡ nhiều người và phát hiện ra rằng, các nhà quản lý có tầm nhìn chiến lược lâu dài thường chán các diễn giả chỉ biết tác động tâm lý và khích lệ người khác bằng những câu chuyện vô vị mang tính giải trí. Điều họ cần là giá trị thực chất bên trong – một***quá trình*** – hơn là liều thuốc aspirin hay cao dán. Mong muốn chủ yếu của họ là giải quyết các vấn đề nan giải và tập trung vào các nguyên tắc có thể đem lại hiệu quả lâu dài.
+Dù có nhận ra hay không thì cũng có nhiều người ảo tưởng về những hứa hẹn sáo rỗng của thuyết ***Đạo đức nhân cách***. Tôi từng đi đến nhiều nơi, làm việc với nhiều tổ chức, gặp gỡ nhiều người và phát hiện ra rằng, các nhà quản lý có tầm nhìn chiến lược lâu dài thường chán các diễn giả chỉ biết tác động tâm lý và khích lệ người khác bằng những câu chuyện vô vị mang tính giải trí. Điều họ cần là giá trị thực chất bên trong – một ***quá trình*** – hơn là liều thuốc aspirin hay cao dán. Mong muốn chủ yếu của họ là giải quyết các vấn đề nan giải và tập trung vào các nguyên tắc có thể đem lại hiệu quả lâu dài.
 
 ### 9. NÂNG CAO TRÌNH ĐỘ TƯ DUY
 
@@ -527,7 +527,7 @@ Trình độ tư duy mới chính là vấn đề mà cuốn sách ***7 Thói Qu
 
 Quan điểm này cho rằng nếu muốn có một cuộc hôn nhân hạnh phúc, bạn hãy là người tạo ra các mặt tích cực và biết bỏ qua những chuyện không vui. Nếu muốn con mình ngoan ngoãn hơn, đáng yêu hơn, bạn hãy là bậc cha mẹ hiểu và thông cảm với chúng, kiên định hơn và yêu quý chúng hơn. Nếu muốn có được quyền tự chủ hơn trong công việc thì bạn hãy là một nhân viên có trách nhiệm hơn, biết giúp đỡ đồng nghiệp và cống hiến nhiều hơn. Nếu muốn được người khác tin cậy, bạn hãy là người đáng tin cậy. Nếu muốn có được cái thứ yếu là tài năng được thừa nhận, thì trước hết, bạn hãy tập trung vào cái chính yếu - tính cách của bạn.
 
-Quan điểm “bắt đầu từ bên trong” cho rằng nên đặt ***Thành tích cá nhân***lên trên***Thành tích tập thể*** , rằng hứa và nên giữ lời hứa với chính mình trước khi hứa và giữ lời hứa với người khác. Theo quan điểm này, sẽ là vô ích nếu chúng ta muốn có nhân cách trước khi có tính cách, muốn cải
+Quan điểm “bắt đầu từ bên trong” cho rằng nên đặt ***Thành tích cá nhân*** lên trên ***Thành tích tập thể***, rằng hứa và nên giữ lời hứa với chính mình trước khi hứa và giữ lời hứa với người khác. Theo quan điểm này, sẽ là vô ích nếu chúng ta muốn có nhân cách trước khi có tính cách, muốn cải
 
 thiện các mối quan hệ trước khi hoàn thiện bản thân.
 
@@ -541,7 +541,7 @@ Các thành viên trong gia đình chúng tôi đã từng sống ở ba địa 
 
 tin rằng “vấn đề” nằm ở “bên ngoài” và nếu “họ” (tức phía bên kia) chịu “sửa đổi” theo khuôn phép hay đột nhiên “bị loại” khỏi cộng đồng thì “vấn đề” sẽ được giải quyết.
 
-Quan điểm “bắt đầu từ bên trong” là sự thay đổi mô thức quan trọng đối với hầu hết mọi người, phần lớn là do ảnh hưởng mạnh mẽ từ mô thức xã hội hiện hành của ***Đạo đức nhân cách*** .
+Quan điểm “bắt đầu từ bên trong” là sự thay đổi mô thức quan trọng đối với hầu hết mọi người, phần lớn là do ảnh hưởng mạnh mẽ từ mô thức xã hội hiện hành của ***Đạo đức nhân cách***.
 
 Nhưng theo kinh nghiệm của riêng tôi – rút ra từ những chuyện cá nhân cũng như khi làm việc với hàng ngàn người khác – và bằng sự nghiên cứu sâu sắc về những cá nhân và hình thái xã hội đã thành công trong lịch sử, tôi tin rằng nhiều nguyên tắc thể hiện trong ***7 Thói quen*** này đã từng ăn sâu trong mỗi con người chúng ta, trong lương tâm và ý thức xã hội của chúng ta. Để nhận ra và phát triển chúng, để áp dụng chúng vào việc giải quyết các mối quan tâm sâu sắc nhất của loài người, chúng ta cần phải tư duy khác đi, phải chuyển những mô thức cũ thành những mô thức mới, sâu sắc hơn - mô thức “bắt đầu từ bên trong”.
 
@@ -571,11 +571,11 @@ Cũng như các nguồn năng lượng tự nhiên khác, sức hút của trọ
 
 ### 1. “THÓI QUEN” LÀ GÌ?
 
-Trong phạm vi cuốn sách này, chúng ta xem thói quen là giao điểm của ***tri thức, kỹ năng***và***khát vọng***. Trong đó,***tri thức***là một mô thức lý thuyết, tức***làm gì***và***tại sao***;***kỹ năng***là***làm như thế nào***; còn***khát vọng***là***động cơ***, là***ý muốn hành động*** . Muốn tạo một thói quen trong cuộc sống, chúng ta cần phải có cả ba yếu tố này.
+Trong phạm vi cuốn sách này, chúng ta xem thói quen là giao điểm của ***tri thức, kỹ năng*** và ***khát vọng***. Trong đó, ***tri thức*** là một mô thức lý thuyết, tức ***làm gì*** và ***tại sao***; ***kỹ năng*** là ***làm như thế nào***; còn ***khát vọng*** là ***động cơ***, là ***ý muốn hành động***. Muốn tạo một thói quen trong cuộc sống, chúng ta cần phải có cả ba yếu tố này.
 
-Quan hệ của chúng ta với các đồng nghiệp, vợ/chồng, con cái không mấy tốt đẹp có thể là vì chúng ta có thói quen áp đặt ý kiến của mình mà không bao giờ thực sự lắng nghe họ. Nhưng dù ***biết***cần phải lắng nghe người khác đi nữa, có***kỹ năng***lắng nghe đi nữa thì tôi cũng cần có***mong muốn***giao tiếp thực sự, nếu không, tôi cũng không thể rèn luyện được thói quen này. Vì vậy, để xây dựng được một thói quen cần phải có cả ba yếu tố:***tri thức - kỹ năng - khát vọng.***
+Quan hệ của chúng ta với các đồng nghiệp, vợ/chồng, con cái không mấy tốt đẹp có thể là vì chúng ta có thói quen áp đặt ý kiến của mình mà không bao giờ thực sự lắng nghe họ. Nhưng dù ***biết*** cần phải lắng nghe người khác đi nữa, có ***kỹ năng*** lắng nghe đi nữa thì tôi cũng cần có ***mong muốn*** giao tiếp thực sự, nếu không, tôi cũng không thể rèn luyện được thói quen này. Vì vậy, để xây dựng được một thói quen cần phải có cả ba yếu tố: ***tri thức - kỹ năng - khát vọng.***
 
-Sự thay đổi của hiện tượng/bản chất là một quá trình đi lên. Bản chất làm thay đổi hiện tượng, và ngược lại, hiện tượng cũng có thể làm thay đổi bản chất. Chúng ta phát triển theo một đường xoắn ốc. Nhờ có ***tri thức, kỹ năng***và***khát vọng*** , chúng ta có thể phá bỏ được những mô thức cũ - vốn là chỗ dựa giả tạo trong nhiều năm qua - để đạt được các bước tiến mới của bản thân và trong mối quan hệ với người khác.
+Sự thay đổi của hiện tượng/bản chất là một quá trình đi lên. Bản chất làm thay đổi hiện tượng, và ngược lại, hiện tượng cũng có thể làm thay đổi bản chất. Chúng ta phát triển theo một đường xoắn ốc. Nhờ có ***tri thức, kỹ năng*** và ***khát vọng***, chúng ta có thể phá bỏ được những mô thức cũ - vốn là chỗ dựa giả tạo trong nhiều năm qua - để đạt được các bước tiến mới của bản thân và trong mối quan hệ với người khác.
 
 Đôi khi, sự thay đổi là một quá trình đầy gian truân, nhưng nó được thúc đẩy bởi một mục đích cao cả hơn, bởi mong muốn hy sinh cái hiện tại để đạt được thành tựu lớn trong tương lai và nó mang lại hạnh phúc - mục tiêu để chúng ta tồn tại. Hạnh phúc có thể được định nghĩa là kết quả của khát vọng và khả năng hy sinh hiện tại cho những điều tốt đẹp trong tương lai.
 
@@ -591,9 +591,9 @@ Càng trưởng thành, chúng ta càng nhận thức được rằng mọi sự
 
 Nhìn tổng thể, sự phát triển của con người từ thời thơ ấu đến khi trưởng thành là phù hợp với quy luật tự nhiên. Tuy nhiên, có nhiều chiều hướng phát triển. Chẳng hạn, sự trưởng thành về thể chất không nhất thiết đi liền với trưởng thành về tình cảm hay trí tuệ. Mặt khác, một người chậm phát triển về thể chất không hẳn là kém trưởng thành về mặt trí tuệ hay tình cảm.
 
-Trên con đường phát triển liên tục của sự trưởng thành, ***phụ thuộc***là mô thức***thuộc về người khác***- anh chăm sóc tôi, anh đến hoặc không đến với tôi, tôi trách anh về hậu quả xảy ra… Còn***độc lập***mới chính là mô thức***của tôi*** - tôi có thể làm việc này, tôi chịu trách nhiệm, tôi biết tự lực, tôi có quyền lựa chọn…
+Trên con đường phát triển liên tục của sự trưởng thành, ***phụ thuộc*** là mô thức ***thuộc về người khác***- anh chăm sóc tôi, anh đến hoặc không đến với tôi, tôi trách anh về hậu quả xảy ra… Còn ***độc lập*** mới chính là mô thức ***của tôi*** - tôi có thể làm việc này, tôi chịu trách nhiệm, tôi biết tự lực, tôi có quyền lựa chọn…
 
-Nhưng, ***tương thuộc***là mô thức***thuộc về chúng ta*** - chúng ta có thể cùng làm việc, chúng ta có thể hợp tác với nhau, chúng ta có thể kết hợp tài năng và năng lực lại để cùng làm những việc lớn hơn.
+Nhưng, ***tương thuộc*** là mô thức ***thuộc về chúng ta*** - chúng ta có thể cùng làm việc, chúng ta có thể hợp tác với nhau, chúng ta có thể kết hợp tài năng và năng lực lại để cùng làm những việc lớn hơn.
 
 > Người phụ thuộc dựa vào người khác để đạt điều mình muốn. Người độc lập luôn có được cái mình muốn bằng chính nỗ lực của bản thân. Còn Người tương thuộc thì biết kết hợp nỗ lực của mình với những nỗ lực của người khác để đạt thành công lớn nhất.
 
@@ -625,7 +625,7 @@ Do đó, nếu có tính tương thuộc, chúng ta sẽ có cơ hội để chi
 
 Chỉ có những người sống ***độc lập*** mới rèn luyện được
 
-tính ***tương thuộc***. Người***phụ thuộc***thường không có được những mối quan hệ tương thuộc vì họ không thể liên kết với người khác trong khi chưa đủ khả năng làm chủ bản thân. Đó cũng là lý do vì sao các thói quen 1, 2, 3 trong các chương tiếp theo lại xoay quanh vấn đề làm chủ bản thân. Nhờ các thói quen này, người ta có thể chuyển từ***phụ thuộc***sang***độc lập***trước khi có thể có được tính***tương thuộc***. Chúng là những***thành tích cá nhân***- cốt lõi của sự phát triển tính cách - và***thành tích cá nhân***sẽ dẫn đến***thành tích tập thê*** í. Cũng như gieo hạt rồi mới thu hoạch được, bạn không thể đảo ngược quá trình này. Đó là một quá trình “bắt đầu từ bên trong”.
+tính ***tương thuộc***. Người ***phụ thuộc*** thường không có được những mối quan hệ tương thuộc vì họ không thể liên kết với người khác trong khi chưa đủ khả năng làm chủ bản thân. Đó cũng là lý do vì sao các thói quen 1, 2, 3 trong các chương tiếp theo lại xoay quanh vấn đề làm chủ bản thân. Nhờ các thói quen này, người ta có thể chuyển từ ***phụ thuộc*** sang ***độc lập*** trước khi có thể có được tính ***tương thuộc***. Chúng là những ***thành tích cá nhân***- cốt lõi của sự phát triển tính cách - và ***thành tích cá nhân*** sẽ dẫn đến ***thành tích tập thê*** í. Cũng như gieo hạt rồi mới thu hoạch được, bạn không thể đảo ngược quá trình này. Đó là một quá trình “bắt đầu từ bên trong”.
 
 Khi thật sự độc lập, bạn sẽ có nền tảng vững chắc cho tính tương thuộc, có một tính cách cơ bản giúp bạn đạt được những “thành tích tập thể” theo định hướng nhân cách khi làm việc nhóm, hợp tác, giao tiếp xã hội… được nêu trong các thói quen 4, 5, 6.
 
@@ -655,11 +655,11 @@ vàng nào. Và, điều tồi tệ hơn nữa là từ đó về sau ông khôn
 
 Ẩn đằng sau câu chuyện ngụ ngôn này là một quy luật tự nhiên, một nguyên tắc - một định nghĩa cơ bản về tính hiệu quả. Nhiều người nhìn hiệu quả từ mô thức “quả trứng vàng”: ***Càng sản xuất, càng thu lợi nhuận thì hiệu quả đạt được càng cao.***
 
-Câu chuyện ngụ ngôn trên cho thấy ***tính hiệu qua***ã phụ thuộc vào hai yếu tố:***sản phẩm***(các quả trứng vàng) và***phương tiện/năng lực*** (con ngỗng) để sản xuất ra sản phẩm đó.
+Câu chuyện ngụ ngôn trên cho thấy ***tính hiệu qua*** ã phụ thuộc vào hai yếu tố: ***sản phẩm*** (các quả trứng vàng) và ***phương tiện/năng lực*** (con ngỗng) để sản xuất ra sản phẩm đó.
 
 Nếu bạn chọn kiểu sống chỉ chú trọng vào “những quả trứng vàng” mà bỏ qua “con ngỗng”, bạn sẽ sớm mất đi phương tiện sản xuất ra các quả trứng vàng Mặt khác nếu bạn chỉ chăm sóc con ngỗng mà không có mục đích đạt được các quả trứng vàng, bạn sẽ sớm không còn gì để nuôi sống bản thân hay con ngỗng.
 
-Tính hiệu quả nằm trong sự cân bằng tôi gọi là ***sự cân bằng P/PC***. P là***sản phẩm***(Production), mà ở đây là “những quả trứng vàng”. Còn PC là chữ viết tắt của***năng lực sản xuất*** (Production Capability), tức “con ngỗng” – năng lực tạo ra “những quả trứng vàng”.
+Tính hiệu quả nằm trong sự cân bằng tôi gọi là ***sự cân bằng P/PC***. P là ***sản phẩm*** (Production), mà ở đây là “những quả trứng vàng”. Còn PC là chữ viết tắt của ***năng lực sản xuất*** (Production Capability), tức “con ngỗng” – năng lực tạo ra “những quả trứng vàng”.
 
 ### 4. BA LOẠI TÀI SẢN
 

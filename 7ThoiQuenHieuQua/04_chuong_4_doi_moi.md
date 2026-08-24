@@ -36,7 +36,7 @@ Bạn gặp ai đó đang miệt mài cưa một cái cây trong rừng, bạn h
 
 ### 1. BỐN KHÍA CẠNH CỦA TỰ ĐỔI MỚI
 
-## Thói quen thứ bảy là PC (năng lực sản xuất) của cá nhân. Nó bảo tồn và tăng cường tài sản lớn nhất của bạn – con người bạn. Nó đổi mới bốn mặt của con người bạn – ***thể chất, tinh thần, trí tuệ***và***quan hệ xã hội/tình cảm*** .
+## Thói quen thứ bảy là PC (năng lực sản xuất) của cá nhân. Nó bảo tồn và tăng cường tài sản lớn nhất của bạn – con người bạn. Nó đổi mới bốn mặt của con người bạn – ***thể chất, tinh thần, trí tuệ*** và ***quan hệ xã hội/tình cảm***.
 
 ### THỂ CHẤT
 
@@ -196,7 +196,7 @@ Dựa vào cam kết tìm ra giải pháp mà cả hai bên đều hài lòng v�
 
 Sự thành công của Thói quen 4, 5 và 6 không phụ thuộc vào trí tuệ, mà là tình cảm. Điều này nằm ở nhận thức về sự an toàn của chúng ta.
 
-Nếu cảm giác an toàn xuất phát từ các nguồn lực bên trong, chúng ta sẽ có sức mạnh để thực hành các thói quen thuộc phạm trù ***thành tích cá nhân*** . Sự an toàn nội tại có được từ đâu? Nó không nảy sinh từ việc người khác nghĩ về
+Nếu cảm giác an toàn xuất phát từ các nguồn lực bên trong, chúng ta sẽ có sức mạnh để thực hành các thói quen thuộc phạm trù ***thành tích cá nhân***. Sự an toàn nội tại có được từ đâu? Nó không nảy sinh từ việc người khác nghĩ về
 
 bạn như thế nào, hay cư xử với bạn ra sao. Nó không xuất phát từ kịch bản mà ai đó trao cho bạn. Nó cũng không phát sinh từ hoàn cảnh hay lập trường của bạn. Nó bắt nguồn từ bên trong, từ những mô thức chính xác và các nguyên tắc đúng đắn nằm sâu trong khối óc và con tim của chúng ta. Nó nảy sinh từ lối sống trung thực, trong đó những thói quen hàng ngày phản ảnh những giá trị sâu sắc nhất của chúng ta.
 
@@ -220,7 +220,7 @@ Hầu hết chúng ta là đối tượng của tấm gương xã hội, đượ
 
 Chúng ta có thể phản chiếu lại người khác bằng một tầm nhìn rõ ràng, không bị méo mó. Chúng ta có thể khẳng định bản chất luôn chủ động của họ và cư xử với họ như những người có trách nhiệm. Chúng ta có thể giúp định hình họ thành những cá nhân lấy nguyên tắc làm trọng tâm, biết lấy giá trị làm điểm tựa. Và với sự rộng lượng, chúng ta nhận thấy rằng phản chiếu hình ảnh tích cực của người khác không hề làm mất đi giá trị bản thân. Ngược lại, nó còn làm tăng giá trị của chúng ta, bởi vì nó làm tăng các cơ hội tương tác có hiệu quả với những người có tính luôn chủ động khác.
 
-Có thể bạn biết vở nhạc kịch ***Man of La Mancha*** *(*)* . Đó là một câu chuyện đẹp về một hiệp sĩ thời trung cổ với một cô gái – cô gái điếm – ông gặp trên đường phố. Cô ấy bị đẩy vào lối sống này bởi tất cả những người mà cô đã gặp trong cuộc đời.
+Có thể bạn biết vở nhạc kịch ***Man of La Mancha*** *(*)*. Đó là một câu chuyện đẹp về một hiệp sĩ thời trung cổ với một cô gái – cô gái điếm – ông gặp trên đường phố. Cô ấy bị đẩy vào lối sống này bởi tất cả những người mà cô đã gặp trong cuộc đời.
 
 Thế nhưng chàng hiệp sĩ lãng tử này lại nhìn thấy cái mà người khác không thấy ở cô, một cái gì đó thật đẹp đẽ và đáng yêu. Chàng đã đặt tên mới cho cô là Dulcinea, một cái tên mới gắn với mô thức mới.
 
@@ -240,11 +240,11 @@ Còn điểm số của những em học sinh “kém” lại có tiến bộ v
 
 vọng và hứng thú của họ đã tác động tích cực đến những em này.
 
-Goethe *(*)* từng nói rằng: “Chúng ta đối xử với một người như thế nào thì anh ta sẽ trở thành con người như thế ấy”. Chúng ta sẽ phản ánh cho người khác điều gì về bản thân họ? Và sự phản ánh đó có ảnh hưởng như thế nào đến cuộc sống của họ? Chúng ta có nhiều thứ để có thể đầu tư vào ***tài khoản tình cảm*** của người khác. Càng nhìn thấy tiềm năng trong người khác bao nhiêu, chúng ta càng có thể phát huy trí tưởng tượng và sức sáng tạo trong mình bấy nhiêu. Chúng ta có thể giúp đỡ họ trở thành những con người độc lập, có khả năng xây dựng mối quan hệ tương thuộc với người khác.
+Goethe *(*) * từng nói rằng: “Chúng ta đối xử với một người như thế nào thì anh ta sẽ trở thành con người như thế ấy”. Chúng ta sẽ phản ánh cho người khác điều gì về bản thân họ? Và sự phản ánh đó có ảnh hưởng như thế nào đến cuộc sống của họ? Chúng ta có nhiều thứ để có thể đầu tư vào *** tài khoản tình cảm*** của người khác. Càng nhìn thấy tiềm năng trong người khác bao nhiêu, chúng ta càng có thể phát huy trí tưởng tượng và sức sáng tạo trong mình bấy nhiêu. Chúng ta có thể giúp đỡ họ trở thành những con người độc lập, có khả năng xây dựng mối quan hệ tương thuộc với người khác.
 
 ### 3. CÂN BẰNG TRONG ĐỔI MỚI
 
-Quá trình tự đổi mới phải bao gồm đổi mới cân bằng cả bốn mặt của con người chúng ta: ***thể chất, tinh thần, trí tuệ***và***quan hệ xã hội/tình cảm.*** Mặt nào cũng quan trọng ngang nhau, nhưng chúng chỉ có hiệu quả tối ưu khi chúng ta xử lý cả bốn mặt này một cách thông minh và cân đối; xem nhẹ mặt nào cũng đều có tác động tiêu cực đến các mặt còn lại.
+Quá trình tự đổi mới phải bao gồm đổi mới cân bằng cả bốn mặt của con người chúng ta: ***thể chất, tinh thần, trí tuệ*** và ***quan hệ xã hội/tình cảm.*** Mặt nào cũng quan trọng ngang nhau, nhưng chúng chỉ có hiệu quả tối ưu khi chúng ta xử lý cả bốn mặt này một cách thông minh và cân đối; xem nhẹ mặt nào cũng đều có tác động tiêu cực đến các mặt còn lại.
 
 Tôi nhận thấy rằng điều này đúng trong các tổ chức cũng như trong đời sống cá nhân. Trong một tổ chức, khía cạnh thể chất được thể hiện dưới dạng các thông số kinh tế. Khía cạnh trí tuệ hay tâm lý được thể hiện dưới dạng công nhận, phát triển và sử dụng nhân tài. Các khía cạnh quan hệ xã hội/tình cảm thể hiện ở các mối quan hệ giữa con người, ở cách cư xử đối với nhân viên. Còn khía cạnh
 
@@ -270,11 +270,11 @@ Nói tóm lại, sự thành đạt của tổ chức cũng như của cá nhân
 
 > 7 Thói quen để thành đạt tạo ra sự đồng tâm hiệp lực tối ưu giữa các mặt này. Sự đổi mới từng mặt sẽ đem lại cho bạn ít nhất một trong 7 Thói quen. Và việc cải thiện một thói quen cũng sẽ làm tăng khả năng có được những thói quen còn lại.
 
-Càng phát huy ***tính luôn chủ động***(Thói quen 1), bạn càng***lãnh đạo bản thân***(Thói quen 2) và***quản lý bản thân***(Thói quen 3) hiệu quả trong cuộc sống của mình. Càng***quản lý bản thân***(Thói quen 3) hiệu quả thì bạn càng có nhiều***hoạt động tự đổi mới***thuộc Phần tư thứ hai (Thói quen 7). Càng cố gắng***lắng nghe và thấu hiểu lẫn nhau***(Thói quen 5), bạn càng dễ đi đến giải pháp***cùng thắng*** (Thói quen 4 và 6).
+Càng phát huy ***tính luôn chủ động*** (Thói quen 1), bạn càng ***lãnh đạo bản thân*** (Thói quen 2) và ***quản lý bản thân*** (Thói quen 3) hiệu quả trong cuộc sống của mình. Càng ***quản lý bản thân*** (Thói quen 3) hiệu quả thì bạn càng có nhiều ***hoạt động tự đổi mới*** thuộc Phần tư thứ hai (Thói quen 7). Càng cố gắng ***lắng nghe và thấu hiểu lẫn nhau*** (Thói quen 5), bạn càng dễ đi đến giải pháp ***cùng thắng*** (Thói quen 4 và 6).
 
 Càng cải thiện được bất cứ thói quen nào dẫn đến tính
 
-***độc lập***(các Thói quen 1, 2, và 3) thì bạn càng thu được nhiều kết quả trong các tình huống có tính***tương thuộc***(các Thói quen 4, 5 và 6). Và***rèn giũa bản thân*** (Thói quen 7) là quá trình tự đổi mới tất cả các thói quen đó.
+***độc lập*** (các Thói quen 1, 2, và 3) thì bạn càng thu được nhiều kết quả trong các tình huống có tính ***tương thuộc*** (các Thói quen 4, 5 và 6). Và ***rèn giũa bản thân*** (Thói quen 7) là quá trình tự đổi mới tất cả các thói quen đó.
 
 Khi tự đổi mới về mặt thể chất, bạn sẽ củng cố tầm nhìn cá nhân, mô thức tự nhận thức và ý chí độc lập của bạn. Bạn hoàn toàn được tự do hành động, chủ động lựa chọn phản ứng của mình trước mọi hoàn cảnh chứ không phải bị động đối phó. Đây có thể là lợi ích lớn nhất của sự rèn luyện thể chất. Mỗi một thắng lợi bản thân hàng ngày sẽ là “khoản gửi” vào tài khoản an toàn nội tại cá nhân của bạn.
 
@@ -286,7 +286,7 @@ Khi tự đổi mới trí tuệ, bạn sẽ củng cố khả năng ***quản l
 
 > Thành tích cá nhân hàng ngày là chìa khóa để phát triển 7 Thói quen và điều này hoàn toàn nằm trong Vòng tròn Ảnh hưởng của bạn. Đó là tiêu điểm thời gian của Phần tư thứ hai cần thiết để đưa những thói quen này hòa nhập vào cuộc sống của bạn - lấy nguyên tắc làm trọng tâm.
 
-Đó cũng là nền tảng cho ***thành tích tập thể,***là nguồn gốc của sự an toàn nội tại, là cơ sở để bạn***rèn giũa bản thân***về mặt quan hệ xã hội/tình cảm. Nó cho bạn sức mạnh cá nhân để tập trung vào***Vòng tròn Ảnh hưởng***trong các tình huống tương thuộc, để nhìn vào người khác thông qua sự rộng lượng, để coi trọng những khác biệt và vui mừng trước thành công của họ. Nó cho bạn nền tảng để đi đến sự hiểu biết chân thành và giải pháp***cùng thắng*** nhằm rèn luyện các Thói quen 4, 5 và 6 trong các thực tại có tính tương thuộc.
+Đó cũng là nền tảng cho ***thành tích tập thể,*** là nguồn gốc của sự an toàn nội tại, là cơ sở để bạn ***rèn giũa bản thân*** về mặt quan hệ xã hội/tình cảm. Nó cho bạn sức mạnh cá nhân để tập trung vào ***Vòng tròn Ảnh hưởng*** trong các tình huống tương thuộc, để nhìn vào người khác thông qua sự rộng lượng, để coi trọng những khác biệt và vui mừng trước thành công của họ. Nó cho bạn nền tảng để đi đến sự hiểu biết chân thành và giải pháp ***cùng thắng*** nhằm rèn luyện các Thói quen 4, 5 và 6 trong các thực tại có tính tương thuộc.
 
 ### 5. SỰ PHÁT TRIỂN THEO ĐƯỜNG XOẮN ỐC
 
@@ -304,11 +304,11 @@ Theo lời của Dag Hammarskjold,
 
 Bạn không thể đóng vai con vật trong người mình mà không biến thành con vật thực thụ, không thể đùa bỡn với sự dối trá mà không giả mạo chân lý, không thể chơi đùa với kẻ ác mà không bị mất đi sự tinh tế của tâm hồn. Ai muốn giữ cho vườn hoa của mình sạch đẹp thì chớ có gieo trồng cỏ dại.
 
-Mỗi khi chúng ta tự ý thức được, chúng ta phải chọn ra những mục đích và nguyên tắc để sống theo; nếu không thì khoảng trống rỗng trong tâm hồn sẽ bị cái khác lấp đầy, và chúng ta sẽ mất đi sự tự ý thức của mình và sẽ giống như những con vật thấp hèn, chỉ biết sống để tồn tại và sinh sản. Những người nào chỉ biết sống như vậy thì không phải là ***sống***; họ chỉ***tồn tại*** mà thôi. Họ là những người bị động đối phó, không có ý thức về những khả năng thiên phú đặc biệt tiềm ẩn trong con người mình.
+Mỗi khi chúng ta tự ý thức được, chúng ta phải chọn ra những mục đích và nguyên tắc để sống theo; nếu không thì khoảng trống rỗng trong tâm hồn sẽ bị cái khác lấp đầy, và chúng ta sẽ mất đi sự tự ý thức của mình và sẽ giống như những con vật thấp hèn, chỉ biết sống để tồn tại và sinh sản. Những người nào chỉ biết sống như vậy thì không phải là ***sống***; họ chỉ ***tồn tại*** mà thôi. Họ là những người bị động đối phó, không có ý thức về những khả năng thiên phú đặc biệt tiềm ẩn trong con người mình.
 
 Và để khai thác được nó thì không có con đường tắt. Quy luật của sự gieo trồng chi phối ở đây: chúng ta ***gieo gì thì gặt nấy*** – không hơn, không kém. Quy luật của công lý cũng là bất biến, chúng ta gắn kết bản thân mình càng gần với các nguyên tắc đúng đắn bao nhiêu, thì chúng ta càng phán đoán tốt hơn bấy nhiêu về thế giới xung quanh và những mô thức – những “tấm bản đồ” của chúng ta sẽ càng chính xác hơn bấy nhiêu.
 
-Tôi tin rằng khi trưởng thành và phát triển theo đường xoắn ốc, chúng ta phải thể hiện sự chăm chỉ trong quá trình tự đổi mới bằng cách rèn luyện và tuân thủ theo ***lương tâm***của chúng ta.***Lương tâm*** không ngừng được rèn luyện sẽ là động lực đưa chúng ta đi theo con đường của sự tự do, an toàn, khôn ngoan và sức mạnh của bản thân.
+Tôi tin rằng khi trưởng thành và phát triển theo đường xoắn ốc, chúng ta phải thể hiện sự chăm chỉ trong quá trình tự đổi mới bằng cách rèn luyện và tuân thủ theo ***lương tâm*** của chúng ta. ***Lương tâm*** không ngừng được rèn luyện sẽ là động lực đưa chúng ta đi theo con đường của sự tự do, an toàn, khôn ngoan và sức mạnh của bản thân.
 
 Phát triển theo đường xoắn ốc đòi hỏi chúng ta phải học tập, cam kết và thực hiện cam kết trên các bình diện ngày càng cao. Sẽ là tự lừa dối mình nếu chúng ta nghĩ rằng chỉ dừng lại ở một mức độ nhất định nào đó là đủ. Để tiến bộ, chúng ta phải không ngừng học tập, cam kết và làm việc, cứ luân phiên và liên tục như thế.
 
@@ -342,7 +342,7 @@ Học tập PHÁT TRIỂN THEO ĐƯỜNG XOẮN ỐC
 
 ### 2. Chọn ra một hoạt động và biến nó thành mục tiêu phải làm trong tuần. Đến cuối tuần, đánh giá kết quả thực hiện. Nếu không đạt được mục tiêu, bạn nên xem xét có phải là do bạn đã hy sinh nó cho một giá trị nào khác quan trọng hơn?
 
-### 3. Lập một danh sách tương tự cho các hoạt động ***tự đổi mới***về tinh thần và trí tuệ của bạn. Trong lĩnh vực quan hệ xã hội/tình cảm, liệt kê các mối quan hệ bạn muốn cải thiện hay những tình huống cụ thể mà trong đó***thành tích tập thể*** sẽ đem lại kết quả tốt hơn. Chọn ra một mục trong mỗi lĩnh vực làm mục tiêu cần thực hiện trong tuần. Hãy thực hiện mục tiêu đó và đánh giá kết quả.
+### 3. Lập một danh sách tương tự cho các hoạt động ***tự đổi mới*** về tinh thần và trí tuệ của bạn. Trong lĩnh vực quan hệ xã hội/tình cảm, liệt kê các mối quan hệ bạn muốn cải thiện hay những tình huống cụ thể mà trong đó ***thành tích tập thể*** sẽ đem lại kết quả tốt hơn. Chọn ra một mục trong mỗi lĩnh vực làm mục tiêu cần thực hiện trong tuần. Hãy thực hiện mục tiêu đó và đánh giá kết quả.
 
 ### 4. Tự cam kết viết ra chi tiết các hoạt động ***rèn giũa bản thân*** hàng tuần, đánh giá kết quả thực hiện và kết quả thu được.
 
@@ -382,7 +382,7 @@ Nhưng quá trình đó cũng không hề “ngọt ngào và nhẹ nhàng” ch
 
 Chúng tôi giúp đỡ, động viên và thấu hiểu lẫn nhau, nhờ đó tạo điều kiện và giúp nhau khám phá nội tâm. Dần dần chúng tôi đi đến thống nhất các quy tắc cơ bản.
 
-Quy tắc thứ nhất là ***“không thăm dò”*** . Ngay cả khi đi vào những vấn đề dễ bị tổn thương trong nội tâm, chúng tôi cũng không chất vấn lẫn nhau mà chỉ để thấu hiểu. Chúng
+Quy tắc thứ nhất là ***“không thăm dò”***. Ngay cả khi đi vào những vấn đề dễ bị tổn thương trong nội tâm, chúng tôi cũng không chất vấn lẫn nhau mà chỉ để thấu hiểu. Chúng
 
 tôi tôn trọng lẫn nhau, để mỗi người có thể tự thổ lộ vào thời điểm thích hợp.
 
@@ -398,7 +398,7 @@ Chúng tôi cũng thử cách tiếp cận từ ngoài vào trong.
 
 Chúng tôi yêu thương nhau, và cố gắng giải quyết mâu thuẫn, sự khác biệt bằng cách kiềm chế thái độ, hành vi của mình. Thế nhưng, như căn bệnh mãn tính, những vướng mắc vẫn cứ tồn tại.
 
-Với cách tiếp cận “bắt đầu từ bên trong”, chúng tôi đã có thể có được sự tin cậy và cởi mở, giải quyết được những khác biệt bất ổn một cách có chiều sâu và lâu dài. Những “trái ngọt” – mối quan hệ ***cùng thắng***phong phú, sự hiểu nhau sâu sắc và đồng tâm hiệp lực tuyệt vời – đã chín muồi do chúng tôi biết xem xét lại các chương trình của mình, định hình, sắp xếp lại cuộc sống sao cho có thể dành nhiều thời gian cho các hoạt động quan trọng thuộc Phần tư thứ hai:***giao tiếp với nhau theo chiều sâu.***
+Với cách tiếp cận “bắt đầu từ bên trong”, chúng tôi đã có thể có được sự tin cậy và cởi mở, giải quyết được những khác biệt bất ổn một cách có chiều sâu và lâu dài. Những “trái ngọt” – mối quan hệ ***cùng thắng*** phong phú, sự hiểu nhau sâu sắc và đồng tâm hiệp lực tuyệt vời – đã chín muồi do chúng tôi biết xem xét lại các chương trình của mình, định hình, sắp xếp lại cuộc sống sao cho có thể dành nhiều thời gian cho các hoạt động quan trọng thuộc Phần tư thứ hai: ***giao tiếp với nhau theo chiều sâu.***
 
 Ngoài ra, chúng tôi có thể nhìn một cách sâu sắc hơn về ảnh hưởng của các bậc cha mẹ, cũng như quan sát cuộc sống của các con mình, đang chịu ảnh hưởng và được định hình bởi chính chúng tôi, theo những cách mà chúng tôi thậm chí chưa nhận ra. Hiểu được sức mạnh của sự định hình trong cuộc sống, chúng tôi mong muốn làm bất cứ điều gì có thể để truyền đến cho các thế hệ con cháu tương lai những nguyên tắc đúng đắn.
 
@@ -408,7 +408,7 @@ Một gia đình có nhiều thế hệ gồm cha mẹ, con cái, ông bà, chú
 
 thành viên nhận ra mình là ai, từ đâu đến và đại diện cho cái gì. Đối với con cái, sẽ rất tốt cho chúng nếu chúng có thể định hình bản thân trong cái chung của dòng họ. Giả sử một lúc nào đó, con bạn gặp phải khó khăn mà không thể dựa vào bạn thì nó có thể nhờ cậy cô, dì, chú, bác của nó, những người có thể trở thành cha hoặc mẹ đỡ đầu của chúng trong một thời điểm nhất định.
 
-Một gia đình tam, tứ đại đồng đường là nền móng cho các mối quan hệ tương thuộc, có hiệu quả, hứa hẹn và đáng hài lòng nhất. Và rất nhiều người coi trọng mối quan hệ đó. Mỗi chúng ta đều có nguồn cội và khả năng tìm về cội nguồn của mình. Động cơ cao nhất và mạnh nhất để làm điều đó không phải chỉ cho riêng chúng ta mà cho cả hậu duệ của chúng ta, hậu duệ của cả loài người, như có ai đó từng nhận xét: “Chỉ có hai di sản bền vững mà chúng ta có thể để lại cho con cháu, đó là ***cội nguồn***và***đôi cánh***”.
+Một gia đình tam, tứ đại đồng đường là nền móng cho các mối quan hệ tương thuộc, có hiệu quả, hứa hẹn và đáng hài lòng nhất. Và rất nhiều người coi trọng mối quan hệ đó. Mỗi chúng ta đều có nguồn cội và khả năng tìm về cội nguồn của mình. Động cơ cao nhất và mạnh nhất để làm điều đó không phải chỉ cho riêng chúng ta mà cho cả hậu duệ của chúng ta, hậu duệ của cả loài người, như có ai đó từng nhận xét: “Chỉ có hai di sản bền vững mà chúng ta có thể để lại cho con cháu, đó là ***cội nguồn*** và ***đôi cánh***”.
 
 ### 2. CON NGƯỜI GIAO THỜI
 
@@ -416,7 +416,7 @@ Tôi tin rằng truyền lại cho con cháu và thế hệ sau “đôi cánh�
 
 Nếu như từ bé đã được dưỡng nuôi trong một môi trường không mấy tốt đẹp, bạn sẽ có xu hướng sống theo khuôn mẫu đó. Nhưng vì là người luôn chủ động, bạn có thể viết lại “kịch bản” của mình. Bạn có thể lựa chọn con đường đúng đắn, tích cực hơn.
 
-Bạn có thể viết điều đó vào bản ***tuyên ngôn sứ mệnh cá nhân***của mình và ghi sâu vào tâm trí. Bạn có thể tưởng tượng ra viễn cảnh bạn sống hài hòa theo tuyên ngôn sứ mệnh của mình với***thành tích cá nhân*** mỗi ngày. Bạn có thể có những bước đi để hàn gắn tình yêu thương và tha thứ lỗi lầm của cha mẹ mình, nếu họ vẫn còn sống. Bạn sẽ xây dựng mối quan hệ tích cực với họ bằng cách cố gắng lắng nghe và thấu hiểu họ.
+Bạn có thể viết điều đó vào bản ***tuyên ngôn sứ mệnh cá nhân*** của mình và ghi sâu vào tâm trí. Bạn có thể tưởng tượng ra viễn cảnh bạn sống hài hòa theo tuyên ngôn sứ mệnh của mình với ***thành tích cá nhân*** mỗi ngày. Bạn có thể có những bước đi để hàn gắn tình yêu thương và tha thứ lỗi lầm của cha mẹ mình, nếu họ vẫn còn sống. Bạn sẽ xây dựng mối quan hệ tích cực với họ bằng cách cố gắng lắng nghe và thấu hiểu họ.
 
 Làm như vậy, bạn sẽ là người giao thời – liên kết giữa quá khứ và tương lai. Và sự thay đổi của bạn có thể ảnh hưởng đến cuộc sống của nhiều người thuộc các thế hệ sau.
 
@@ -432,7 +432,7 @@ thế giới Ả Rập - Do Thái từ sau Cuộc chiến tranh 6 ngày (5 - 10/
 
 Sự suy tư của tôi về cuộc sống và bản tính con người ở một nơi tách biệt đã dạy tôi rằng: ai không thể thay đổi được nếp nghĩ của mình thì người đó sẽ không bao giờ có thể thay đổi được thực tại và do đó, sẽ không bao giờ tiến bộ.”
 
-Sự thay đổi thực sự xuất phát từ bên trong. Nó không xuất phát từ việc sửa đổi thái độ hay hành vi bằng một số phương pháp “chữa cháy” của ***Đạo đức Nhân cách*** . Nó xuất phát từ việc giải quyết tận gốc rễ – nếp nghĩ của chúng ta - những mô thức cơ bản, cốt yếu, là cái xác định tính cách và tạo ra lăng kính quan sát thế giới của chúng ta.
+Sự thay đổi thực sự xuất phát từ bên trong. Nó không xuất phát từ việc sửa đổi thái độ hay hành vi bằng một số phương pháp “chữa cháy” của ***Đạo đức Nhân cách***. Nó xuất phát từ việc giải quyết tận gốc rễ – nếp nghĩ của chúng ta - những mô thức cơ bản, cốt yếu, là cái xác định tính cách và tạo ra lăng kính quan sát thế giới của chúng ta.
 
 Đạt được sự thống nhất – sự đơn nhất – với bản thân mình, với những người thân, với bạn bè và đồng nghiệp là kết quả cao nhất, tốt nhất và ngọt ngào nhất của ***7 Thói quen.*** Có thể bất kỳ ai trong chúng ta cũng đã từng nếm trái ngọt của sự thống nhất và mùi cay đắng, cô đơn của sự chia rẽ. Thế nên, chúng ta phải thấy được sự thống nhất đó quý giá và dễ tan vỡ đến nhường nào.
 

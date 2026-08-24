@@ -114,14 +114,6 @@ def clean_markdown_formatting(text):
         text = re.sub(r'\*\*\*([^*]+?)\*\*\*\s+\*\*\*([^*]+?)\*\*\*', r'***\1 \2***', text)
         text = re.sub(r'\*\*([^*]+?)\*\*\s+\*\*([^*]+?)\*\*', r'**\1 \2**', text)
         text = re.sub(r'(?<!\*)\*([^*]+?)\*\s+\*([^*]+?)\*(?!\*)', r'*\1 \2*', text)
-    
-    # Fix spaces inside tags: '** text **' -> '**text**'
-    text = re.sub(r'\*\*\*([^*]+?)\s+\*\*\*', r'***\1*** ', text)
-    text = re.sub(r'\*\*\*\s+([^*]+?)\*\*\*', r' ***\1***', text)
-    text = re.sub(r'\*\*([^*]+?)\s+\*\*', r'**\1** ', text)
-    text = re.sub(r'\*\*\s+([^*]+?)\*\*', r' **\1**', text)
-    text = re.sub(r'(?<!\*)\*([^*]+?)\s+\*(?!\*)', r'*\1* ', text)
-    text = re.sub(r'(?<!\*)\*\s+([^*]+?)\*(?!\*)', r' *\1*', text)
 
     # Fix spaces between words and tags
     text = re.sub(r'(?<!\*)\s+([,.:;?!])', r'\1', text)
