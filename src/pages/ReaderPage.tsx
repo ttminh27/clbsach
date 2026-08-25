@@ -1,16 +1,17 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { ReaderToolbar } from '../components/reader/ReaderToolbar';
 import { MarkdownViewer } from '../components/reader/MarkdownViewer';
 import { TableOfContentsDrawer } from '../components/reader/TableOfContentsDrawer';
 import { ChapterNavigation } from '../components/reader/ChapterNavigation';
 import { QuizModal } from '../components/quiz/QuizModal';
+import { TTSPlayerBar } from '../components/reader/TTSPlayerBar';
 import booksData from '../data/books-manifest.json';
 import { Book, Chapter } from '../types/book';
 import { useHistory } from '../context/HistoryContext';
 import { useAudio } from '../context/AudioContext';
+import { useTextToSpeech } from '../hooks/useTextToSpeech';
 import { Loader2, AlertCircle, Home } from 'lucide-react';
-
 import { trackReadChapter } from '../utils/analytics';
 
 const books: Book[] = booksData as Book[];
@@ -18,8 +19,8 @@ const books: Book[] = booksData as Book[];
 export const ReaderPage: React.FC = () => {
   const { bookId, chapterId } = useParams<{ bookId: string; chapterId: string }>();
   const navigate = useNavigate();
-  const { saveProgress, getProgressForBook } = useHistory();
-  const { togglePlay, currentTrack } = useAudio();
+  const { saveProgress } = useHistory();
+  const { pause: pauseAudio, isPlaying: isAudioPlaying } = useAudio();
 
   const [content, setContent] = useState<string>('');
   const [loading, setLoading] = useState<boolean>(true);
@@ -30,6 +31,22 @@ export const ReaderPage: React.FC = () => {
 
   const book = books.find((b) => b.id === bookId);
   const currentChapter = book?.chapters.find((c) => c.id === chapterId);
+
+  // Initialize Web Speech TTS hook
+  const tts = useTextToSpeech({
+    onStateChange: (speaking) => {
+      if (speaking && isAudioPlaying) {
+        pauseAudio(); // Pause background MP3 audio when TTS starts
+      }
+    },
+  });
+
+  // If audio player starts playing, stop TTS speech
+  useEffect(() => {
+    if (isAudioPlaying && (tts.isPlaying || tts.isPaused)) {
+      tts.stop();
+    }
+  }, [isAudioPlaying]);
 
   // Update page title & track chapter read
   useEffect(() => {
@@ -46,6 +63,10 @@ export const ReaderPage: React.FC = () => {
       setLoading(false);
       return;
     }
+
+    // Stop active TTS when switching chapters
+    tts.stop();
+    tts.setIsPlayerVisible(false);
 
     setLoading(true);
     setError(null);
@@ -79,6 +100,17 @@ export const ReaderPage: React.FC = () => {
       });
   }, [bookId, chapterId]);
 
+  // Refresh TTS paragraphs once content is rendered
+  useEffect(() => {
+    if (!loading && content) {
+      // Small timeout to allow ReactMarkdown DOM rendering to finalize
+      const timer = setTimeout(() => {
+        tts.collectParagraphsFromDOM();
+      }, 200);
+      return () => clearTimeout(timer);
+    }
+  }, [loading, content]);
+
   // Track scroll progress
   useEffect(() => {
     const handleScroll = () => {
@@ -107,6 +139,27 @@ export const ReaderPage: React.FC = () => {
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
+
+  const handleToggleTTS = () => {
+    if (tts.isPlaying) {
+      tts.pause();
+    } else if (tts.isPaused) {
+      tts.resume();
+    } else if (tts.isPlayerVisible) {
+      tts.play();
+    } else {
+      tts.setIsPlayerVisible(true);
+      tts.play(0);
+    }
+  };
+
+  const handleReadFromIndex = (index: number) => {
+    if (isAudioPlaying) {
+      pauseAudio();
+    }
+    tts.setIsPlayerVisible(true);
+    tts.jumpTo(index);
+  };
 
   if (!book || !currentChapter) {
     return (
@@ -137,13 +190,16 @@ export const ReaderPage: React.FC = () => {
   }
 
   return (
-    <div className="min-h-screen pb-20">
+    <div className="min-h-screen pb-28">
       {/* Reader Toolbar */}
       <ReaderToolbar
         book={book}
         currentChapter={currentChapter}
         onOpenTOC={() => setIsTOCDrawerOpen(true)}
         scrollProgress={scrollProgress}
+        isTTSActive={tts.isPlayerVisible}
+        isTTSSpeaking={tts.isPlaying}
+        onToggleTTS={handleToggleTTS}
       />
 
       {/* Main Chapter Content */}
@@ -162,7 +218,13 @@ export const ReaderPage: React.FC = () => {
           </div>
         ) : (
           <>
-            <MarkdownViewer content={content} bookId={book.id} />
+            <MarkdownViewer
+              content={content}
+              bookId={book.id}
+              currentTTSIndex={tts.currentParagraphIndex}
+              isTTSSpeaking={tts.isPlaying || tts.isPaused}
+              onReadFromIndex={handleReadFromIndex}
+            />
             <ChapterNavigation
               book={book}
               currentChapter={currentChapter}
@@ -171,6 +233,46 @@ export const ReaderPage: React.FC = () => {
           </>
         )}
       </main>
+
+      {/* Web Speech API TTS Floating Player Bar */}
+      {tts.isPlayerVisible && (
+        <TTSPlayerBar
+          isPlaying={tts.isPlaying}
+          isPaused={tts.isPaused}
+          currentParagraphIndex={tts.currentParagraphIndex}
+          totalParagraphs={tts.totalParagraphs}
+          voices={tts.voices}
+          selectedVoice={tts.selectedVoice}
+          hasVietnameseVoice={tts.hasVietnameseVoice}
+          playbackRate={tts.playbackRate}
+          autoScroll={tts.autoScroll}
+          isSupported={tts.isSupported}
+          onPlay={() => {
+            if (isAudioPlaying) pauseAudio();
+            tts.play();
+          }}
+          onPause={tts.pause}
+          onResume={() => {
+            if (isAudioPlaying) pauseAudio();
+            tts.resume();
+          }}
+          onTogglePlay={() => {
+            if (isAudioPlaying) pauseAudio();
+            tts.togglePlay();
+          }}
+          onStop={tts.stop}
+          onNext={tts.next}
+          onPrev={tts.prev}
+          onJumpTo={tts.jumpTo}
+          onChangeRate={tts.changeRate}
+          onChangeVoice={tts.changeVoice}
+          onToggleAutoScroll={() => tts.setAutoScroll(!tts.autoScroll)}
+          onClose={() => {
+            tts.stop();
+            tts.setIsPlayerVisible(false);
+          }}
+        />
+      )}
 
       {/* Table of Contents Drawer */}
       <TableOfContentsDrawer

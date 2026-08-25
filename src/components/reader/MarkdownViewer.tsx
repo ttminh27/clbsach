@@ -2,16 +2,28 @@ import React, { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
-import { X, ZoomIn } from 'lucide-react';
+import { X, ZoomIn, Volume2 } from 'lucide-react';
 
 interface MarkdownViewerProps {
   content: string;
   bookId: string;
+  currentTTSIndex?: number;
+  isTTSSpeaking?: boolean;
+  onReadFromIndex?: (index: number) => void;
 }
 
-export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({ content, bookId }) => {
+export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
+  content,
+  bookId,
+  currentTTSIndex = -1,
+  isTTSSpeaking = false,
+  onReadFromIndex,
+}) => {
   const { settings } = useReaderSettings();
   const [zoomImage, setZoomImage] = useState<{ src: string; alt: string } | null>(null);
+
+  // Counter to sequentially index readable blocks during markdown rendering
+  let blockCounter = 0;
 
   // Determine font family style
   const getFontFamilyClass = () => {
@@ -63,41 +75,136 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({ content, bookId 
           remarkPlugins={[remarkGfm]}
           components={{
             // Custom H1 heading
-            h1: ({ node, ...props }) => (
-              <h1
-                className="mt-6 mb-6 text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900 dark:text-white border-b pb-4 border-slate-200 dark:border-slate-800 font-sans"
-                {...props}
-              />
-            ),
+            h1: ({ node, ...props }) => {
+              const idx = blockCounter++;
+              const isActive = isTTSSpeaking && currentTTSIndex === idx;
+              return (
+                <div className="group relative">
+                  <h1
+                    data-tts-block={idx}
+                    className={`mt-6 mb-6 text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900 dark:text-white border-b pb-4 border-slate-200 dark:border-slate-800 font-sans transition-all duration-300 ${
+                      isActive
+                        ? 'bg-emerald-500/10 dark:bg-emerald-500/20 ring-2 ring-emerald-500/50 rounded-xl p-3 -mx-3'
+                        : ''
+                    }`}
+                    {...props}
+                  />
+                  {onReadFromIndex && (
+                    <button
+                      onClick={() => onReadFromIndex(idx)}
+                      className="absolute right-0 top-1/2 -translate-y-1/2 hidden group-hover:flex items-center gap-1 rounded-lg bg-emerald-50 hover:bg-emerald-100 text-emerald-700 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-emerald-400 px-2 py-1 text-[11px] font-medium transition-opacity shadow-xs"
+                      title="Đọc từ tiêu đề này"
+                    >
+                      <Volume2 className="h-3 w-3" />
+                      <span>Đọc</span>
+                    </button>
+                  )}
+                </div>
+              );
+            },
             // Custom H2 heading
-            h2: ({ node, ...props }) => (
-              <h2
-                className="mt-10 mb-4 text-xl sm:text-2xl font-bold tracking-tight text-emerald-800 dark:text-emerald-400 font-sans"
-                {...props}
-              />
-            ),
+            h2: ({ node, ...props }) => {
+              const idx = blockCounter++;
+              const isActive = isTTSSpeaking && currentTTSIndex === idx;
+              return (
+                <div className="group relative">
+                  <h2
+                    data-tts-block={idx}
+                    className={`mt-10 mb-4 text-xl sm:text-2xl font-bold tracking-tight text-emerald-800 dark:text-emerald-400 font-sans transition-all duration-300 ${
+                      isActive
+                        ? 'bg-emerald-500/10 dark:bg-emerald-500/20 ring-2 ring-emerald-500/50 rounded-xl p-3 -mx-3'
+                        : ''
+                    }`}
+                    {...props}
+                  />
+                  {onReadFromIndex && (
+                    <button
+                      onClick={() => onReadFromIndex(idx)}
+                      className="absolute right-0 top-1/2 -translate-y-1/2 hidden group-hover:flex items-center gap-1 rounded-lg bg-emerald-50 hover:bg-emerald-100 text-emerald-700 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-emerald-400 px-2 py-1 text-[11px] font-medium transition-opacity shadow-xs"
+                      title="Đọc từ mục này"
+                    >
+                      <Volume2 className="h-3 w-3" />
+                      <span>Đọc</span>
+                    </button>
+                  )}
+                </div>
+              );
+            },
             // Custom H3 heading
-            h3: ({ node, ...props }) => (
-              <h3
-                className="mt-8 mb-3 text-lg sm:text-xl font-semibold text-slate-800 dark:text-slate-200 font-sans"
-                {...props}
-              />
-            ),
+            h3: ({ node, ...props }) => {
+              const idx = blockCounter++;
+              const isActive = isTTSSpeaking && currentTTSIndex === idx;
+              return (
+                <div className="group relative">
+                  <h3
+                    data-tts-block={idx}
+                    className={`mt-8 mb-3 text-lg sm:text-xl font-semibold text-slate-800 dark:text-slate-200 font-sans transition-all duration-300 ${
+                      isActive
+                        ? 'bg-emerald-500/10 dark:bg-emerald-500/20 ring-2 ring-emerald-500/50 rounded-xl p-2.5 -mx-2.5'
+                        : ''
+                    }`}
+                    {...props}
+                  />
+                  {onReadFromIndex && (
+                    <button
+                      onClick={() => onReadFromIndex(idx)}
+                      className="absolute right-0 top-1/2 -translate-y-1/2 hidden group-hover:flex items-center gap-1 rounded-lg bg-emerald-50 hover:bg-emerald-100 text-emerald-700 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-emerald-400 px-2 py-1 text-[11px] font-medium transition-opacity shadow-xs"
+                      title="Đọc từ mục này"
+                    >
+                      <Volume2 className="h-3 w-3" />
+                      <span>Đọc</span>
+                    </button>
+                  )}
+                </div>
+              );
+            },
             // Custom Paragraph
             p: ({ node, children, ...props }) => {
               const hasImage = node?.children?.some((child: any) => child.tagName === 'img');
               if (hasImage) {
                 return <div className="my-6">{children}</div>;
               }
-              return <p className="my-4 text-slate-800 dark:text-slate-200 leading-relaxed" {...props}>{children}</p>;
+              const idx = blockCounter++;
+              const isActive = isTTSSpeaking && currentTTSIndex === idx;
+              return (
+                <div className="group relative">
+                  <p
+                    data-tts-block={idx}
+                    className={`my-4 text-slate-800 dark:text-slate-200 leading-relaxed transition-all duration-300 ${
+                      isActive
+                        ? 'bg-emerald-50/90 dark:bg-emerald-950/40 ring-2 ring-emerald-500/60 rounded-xl p-3.5 -mx-3.5 border-l-4 border-emerald-500 shadow-sm'
+                        : ''
+                    }`}
+                    {...props}
+                  >
+                    {children}
+                  </p>
+                  {onReadFromIndex && (
+                    <button
+                      onClick={() => onReadFromIndex(idx)}
+                      className="absolute -right-2 sm:-right-8 top-2 opacity-0 group-hover:opacity-100 flex items-center justify-center h-7 w-7 rounded-full bg-emerald-100 hover:bg-emerald-200 text-emerald-700 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-emerald-400 shadow-xs transition-opacity"
+                      title="Đọc từ đoạn này"
+                    >
+                      <Volume2 className="h-3.5 w-3.5" />
+                    </button>
+                  )}
+                </div>
+              );
             },
             // Custom Blockquote
-            blockquote: ({ node, ...props }) => (
-              <blockquote
-                className="my-6 border-l-4 border-emerald-500 bg-emerald-50/50 dark:bg-emerald-950/20 py-3 px-5 rounded-r-2xl italic text-slate-700 dark:text-slate-300 shadow-xs"
-                {...props}
-              />
-            ),
+            blockquote: ({ node, ...props }) => {
+              const idx = blockCounter++;
+              const isActive = isTTSSpeaking && currentTTSIndex === idx;
+              return (
+                <blockquote
+                  data-tts-block={idx}
+                  className={`my-6 border-l-4 border-emerald-500 bg-emerald-50/50 dark:bg-emerald-950/20 py-3 px-5 rounded-r-2xl italic text-slate-700 dark:text-slate-300 shadow-xs transition-all duration-300 ${
+                    isActive ? 'ring-2 ring-emerald-500 bg-emerald-100/60 dark:bg-emerald-900/40' : ''
+                  }`}
+                  {...props}
+                />
+              );
+            },
             // Custom Lists
             ul: ({ node, ...props }) => (
               <ul className="my-4 ml-6 list-disc space-y-2 text-slate-800 dark:text-slate-200" {...props} />
@@ -105,7 +212,19 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({ content, bookId 
             ol: ({ node, ...props }) => (
               <ol className="my-4 ml-6 list-decimal space-y-2 text-slate-800 dark:text-slate-200" {...props} />
             ),
-            li: ({ node, ...props }) => <li className="pl-1" {...props} />,
+            li: ({ node, ...props }) => {
+              const idx = blockCounter++;
+              const isActive = isTTSSpeaking && currentTTSIndex === idx;
+              return (
+                <li
+                  data-tts-block={idx}
+                  className={`pl-1 transition-all duration-300 ${
+                    isActive ? 'bg-emerald-50 dark:bg-emerald-950/40 ring-1 ring-emerald-500 rounded px-2' : ''
+                  }`}
+                  {...props}
+                />
+              );
+            },
             // Custom Image Renderer with Lightbox Zoom
             img: ({ node, src, alt, ...props }) => {
               // Transform relative image path: e.g. "images/img-003.png" -> "/books/SearchInsideYourSelf/images/img-003.png"

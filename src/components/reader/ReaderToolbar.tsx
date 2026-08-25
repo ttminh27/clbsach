@@ -16,6 +16,7 @@ import {
   Maximize2,
   Check,
   Sparkles,
+  Volume2,
 } from 'lucide-react';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import { useAudio } from '../../context/AudioContext';
@@ -26,6 +27,9 @@ interface ReaderToolbarProps {
   currentChapter: Chapter;
   onOpenTOC: () => void;
   scrollProgress: number; // 0 to 100
+  isTTSActive?: boolean;
+  isTTSSpeaking?: boolean;
+  onToggleTTS?: () => void;
 }
 
 export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
@@ -33,6 +37,9 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
   currentChapter,
   onOpenTOC,
   scrollProgress,
+  isTTSActive = false,
+  isTTSSpeaking = false,
+  onToggleTTS,
 }) => {
   const { settings, setTheme, setFontSize, setLineHeight, setFontFamily, setTextAlign, setMaxWidth, toggleBionicReading } =
     useReaderSettings();
@@ -94,8 +101,26 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
           </p>
         </div>
 
-        {/* Right: Audio toggle & Reading Settings */}
+        {/* Right: Audio toggle, TTS & Reading Settings */}
         <div className="flex items-center gap-1.5">
+          {/* TTS Web Speech Button */}
+          {onToggleTTS && (
+            <button
+              onClick={onToggleTTS}
+              className={`flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-xs font-medium transition-all ${
+                isTTSSpeaking
+                  ? 'bg-emerald-100 text-emerald-900 dark:bg-emerald-950 dark:text-emerald-300 ring-1 ring-emerald-500/50 shadow-xs'
+                  : isTTSActive
+                  ? 'bg-emerald-50 text-emerald-700 dark:bg-emerald-950/80 dark:text-emerald-300'
+                  : 'text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
+              }`}
+              title="Đọc nội dung bằng Web Speech API (TTS)"
+            >
+              <Volume2 className={`h-4 w-4 text-emerald-600 dark:text-emerald-400 ${isTTSSpeaking ? 'animate-bounce' : ''}`} />
+              <span className="hidden sm:inline">Giọng đọc AI</span>
+            </button>
+          )}
+
           {isAudioAvailable && (
             <button
               onClick={() => {
