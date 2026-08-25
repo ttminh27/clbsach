@@ -12,7 +12,7 @@ import {
 
 export const AboutPage: React.FC = () => {
   useEffect(() => {
-    document.title = 'Giới Thiệu Dự Án | CLB đọc sách VietinBank';
+    document.title = 'Giới Thiệu Dự Án | CLB đọc sách';
   }, []);
   return (
     <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
@@ -23,7 +23,7 @@ export const AboutPage: React.FC = () => {
           <div className="max-w-xl">
             <div className="inline-flex items-center gap-1.5 rounded-full bg-white/20 px-3 py-1 text-xs font-semibold backdrop-blur-md mb-3">
               <Sparkles className="h-3.5 w-3.5" />
-              Về Dự Án CLB đọc sách VietinBank
+              Về Dự Án CLB đọc sách
             </div>
             <h1 className="text-3xl sm:text-4xl font-black tracking-tight">
               Nơi Nuôi Dưỡng Trí Tuệ & Bình An Nội Tâm
@@ -33,7 +33,7 @@ export const AboutPage: React.FC = () => {
             </p>
           </div>
           <div className="shrink-0 bg-white/10 p-4 rounded-3xl backdrop-blur-md border border-white/20 shadow-2xl hidden sm:block">
-            <img src="/logo-192.png" alt="CLB đọc sách VietinBank Logo" className="h-24 w-24 object-contain drop-shadow-md" />
+            <img src="/logo-192.png" alt="CLB đọc sách Logo" className="h-24 w-24 object-contain drop-shadow-md" />
           </div>
         </div>
       </div>
@@ -46,7 +46,7 @@ export const AboutPage: React.FC = () => {
             Mục Tiêu & Triết Lý
           </h2>
           <p className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed mb-4">
-            <strong>CLB đọc sách VietinBank</strong> được xây dựng nhằm tạo ra một không gian số tĩnh lặng, không bị làm phiền bởi quảng cáo hay các yếu tố gây xao nhãng. Tại đây, việc tiếp thu tri thức từ sách được kết hợp hài hòa với các bài tập thực hành thiền và audio chánh niệm.
+            <strong>CLB đọc sách</strong> được xây dựng nhằm tạo ra một không gian số tĩnh lặng, không bị làm phiền bởi quảng cáo hay các yếu tố gây xao nhãng. Tại đây, việc tiếp thu tri thức từ sách được kết hợp hài hòa với các bài tập thực hành thiền và audio chánh niệm.
           </p>
           <p className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
             Tác phẩm mở đầu của dự án là cuốn sách kinh điển <em>"Search Inside Yourself" (Tìm Kiếm Bên Trong Bạn)</em> của kỹ sư Google Chade-Meng Tan, đi kèm trọn bộ 28 bài hướng dẫn thiền thực hành mỗi ngày.

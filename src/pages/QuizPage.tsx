@@ -21,7 +21,7 @@ export const QuizPage: React.FC = () => {
 
   useEffect(() => {
     if (book && chapter) {
-      document.title = `[Quiz] ${chapter.title} - ${book.title} | CLB đọc sách VietinBank`;
+      document.title = `[Quiz] ${chapter.title} - ${book.title} | CLB đọc sách`;
       trackStartQuiz(book.id, book.title, chapter.id, chapter.title);
     }
   }, [book, chapter]);

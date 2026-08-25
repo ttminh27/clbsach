@@ -14,7 +14,7 @@ export const HomePage: React.FC = () => {
   const { history } = useHistory();
 
   useEffect(() => {
-    document.title = 'CLB đọc sách VietinBank - Đọc Sách & Nghe Audio Trực Tuyến';
+    document.title = 'CLB đọc sách - Đọc Sách & Nghe Audio Trực Tuyến';
   }, []);
 
   const readingBookIds = useMemo(() => Object.keys(history), [history]);

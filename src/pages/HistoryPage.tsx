@@ -12,7 +12,7 @@ export const HistoryPage: React.FC = () => {
   const historyList = Object.values(history).sort((a, b) => b.lastReadAt - a.lastReadAt);
 
   useEffect(() => {
-    document.title = 'Lịch Sử & Tiến Độ Đọc | CLB đọc sách VietinBank';
+    document.title = 'Lịch Sử & Tiến Độ Đọc | CLB đọc sách';
   }, []);
 
   return (

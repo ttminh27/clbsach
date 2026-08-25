@@ -18,7 +18,7 @@ export const BookDetailPage: React.FC = () => {
 
   useEffect(() => {
     if (book) {
-      document.title = `${book.title} - ${book.author} | CLB đọc sách VietinBank`;
+      document.title = `${book.title} - ${book.author} | CLB đọc sách`;
     }
   }, [book]);
 

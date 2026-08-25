@@ -1,7 +1,7 @@
 export type ReaderTheme = 'light' | 'sepia' | 'dark' | 'oled';
 export type ReaderFontFamily = 'serif' | 'sans' | 'mono';
 export type ReaderTextAlign = 'left' | 'justify';
-export type ReaderWidth = 'narrow' | 'medium' | 'wide';
+export type ReaderWidth = 'narrow' | 'medium' | 'wide' | 'full';
 
 export interface ReaderSettings {
   theme: ReaderTheme;

@@ -401,7 +401,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
                     <img src="/logo-64.png" alt="Logo" className="h-7 w-7 shrink-0 object-contain" />
                     <div className="min-w-0">
                       <span className="font-extrabold text-sm tracking-tight text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors block leading-tight">
-                        CLB đọc sách <span className="text-emerald-600 dark:text-emerald-400">VietinBank</span>
+                        CLB đọc sách
                       </span>
                       <p className="text-[10px] text-slate-400 truncate mt-0.5">
                         Đọc & Nghe Tỉnh Thức

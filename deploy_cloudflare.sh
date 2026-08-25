@@ -16,7 +16,7 @@ DEPLOY_BRANCH="${CLOUDFLARE_BRANCH:-production}"
 BUILD_DIR="dist"
 
 echo "======================================================"
-echo " ☁️  Deploy CLB Đọc Sách VietinBank -> Cloudflare Pages"
+echo " ☁️  Deploy CLB Đọc Sách -> Cloudflare Pages"
 echo "======================================================"
 echo "📌 Tên dự án: $PROJECT_NAME"
 echo "🌿 Nhánh triển khai: $DEPLOY_BRANCH (Production)"

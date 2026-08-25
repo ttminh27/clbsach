@@ -115,7 +115,7 @@ export const AudioProvider: React.FC<{ children: React.ReactNode }> = ({ childre
       navigator.mediaSession.metadata = new MediaMetadata({
         title: `${currentTrack.prefix}: ${currentTrack.title}`,
         artist: currentTrack.bookTitle,
-        album: 'CLB đọc sách VietinBank',
+        album: 'CLB đọc sách',
         artwork: currentTrack.coverUrl
           ? [{ src: currentTrack.coverUrl, sizes: '512x512', type: 'image/jpeg' }]
           : [],

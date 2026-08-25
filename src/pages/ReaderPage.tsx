@@ -34,7 +34,7 @@ export const ReaderPage: React.FC = () => {
   // Update page title & track chapter read
   useEffect(() => {
     if (book && currentChapter) {
-      document.title = `${currentChapter.title} - ${book.title} | CLB đọc sách VietinBank`;
+      document.title = `${currentChapter.title} - ${book.title} | CLB đọc sách`;
       trackReadChapter(book.id, book.title, currentChapter.id, currentChapter.title, currentChapter.order);
     }
   }, [book, currentChapter]);

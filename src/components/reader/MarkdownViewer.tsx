@@ -29,18 +29,30 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({ content, bookId 
   const getMaxWidthClass = () => {
     switch (settings.maxWidth) {
       case 'narrow':
-        return 'max-w-2xl';
-      case 'wide':
-        return 'max-w-4xl';
-      default:
         return 'max-w-3xl';
+      case 'wide':
+        return 'max-w-6xl';
+      case 'full':
+        return 'max-w-7xl';
+      case 'medium':
+      default:
+        return 'max-w-5xl';
     }
   };
 
   return (
-    <div className={`mx-auto ${getMaxWidthClass()} px-4 sm:px-6 py-8 transition-all duration-200`}>
+    <div className={`relative mx-auto ${getMaxWidthClass()} px-4 sm:px-8 py-8 transition-all duration-200`}>
+      {/* Repeating Watermark "Healthier" */}
+      <div
+        aria-hidden="true"
+        className="pointer-events-none select-none absolute inset-0 z-0 overflow-hidden opacity-[0.045] dark:opacity-[0.06] sepia:opacity-[0.05]"
+        style={{
+          backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='320' height='220' viewBox='0 0 320 220'%3E%3Ctext x='50%25' y='50%25' text-anchor='middle' dominant-baseline='middle' font-family='sans-serif' font-weight='800' font-size='28' letter-spacing='3' fill='%2310b981' transform='rotate(-28 160 110)'%3EHealthier%3C/text%3E%3C/svg%3E")`,
+          backgroundRepeat: 'repeat',
+        }}
+      />
       <article
-        className={`${getFontFamilyClass()} prose-reader transition-all`}
+        className={`relative z-10 ${getFontFamilyClass()} prose-reader transition-all`}
         style={{
           fontSize: `${settings.fontSize}px`,
           lineHeight: settings.lineHeight,

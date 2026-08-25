@@ -1,4 +1,4 @@
-# 📚 CLB Đọc Sách VietinBank (VietinBank Book Club)
+# 📚 CLB Đọc Sách
 
 Một ứng dụng web hiện đại, tinh gọn và tối ưu dành cho Câu lạc bộ Đọc Sách, giúp lan tỏa văn hóa đọc, phát triển bản thân và rèn luyện kỹ năng thông qua sách điện tử (E-book Markdown) cùng các bài thực hành Thiền / Audio hướng dẫn.
 

@@ -5,6 +5,7 @@ import confetti from 'canvas-confetti';
 import { Book, Chapter } from '../../types/book';
 import { useHistory } from '../../context/HistoryContext';
 import { useQuiz } from '../../context/QuizContext';
+import { useReaderSettings } from '../../context/ReaderSettingsContext';
 
 interface ChapterNavigationProps {
   book: Book;
@@ -17,6 +18,7 @@ export const ChapterNavigation: React.FC<ChapterNavigationProps> = ({
   currentChapter,
   onOpenQuiz,
 }) => {
+  const { settings } = useReaderSettings();
   const { markChapterCompleted, getProgressForBook } = useHistory();
   const { getQuizResult } = useQuiz();
   const progress = getProgressForBook(book.id);
@@ -27,6 +29,20 @@ export const ChapterNavigation: React.FC<ChapterNavigationProps> = ({
   const nextChapter = currentIndex < book.chapters.length - 1 ? book.chapters[currentIndex + 1] : null;
 
   const isCompleted = progress?.completedChapterIds?.includes(currentChapter.id);
+
+  const getMaxWidthClass = () => {
+    switch (settings.maxWidth) {
+      case 'narrow':
+        return 'max-w-3xl';
+      case 'wide':
+        return 'max-w-6xl';
+      case 'full':
+        return 'max-w-7xl';
+      case 'medium':
+      default:
+        return 'max-w-5xl';
+    }
+  };
 
   const handleMarkComplete = () => {
     markChapterCompleted(book.id, currentChapter.id);
@@ -39,7 +55,7 @@ export const ChapterNavigation: React.FC<ChapterNavigationProps> = ({
   };
 
   return (
-    <div className="mx-auto max-w-4xl px-4 sm:px-6 py-8 border-t border-slate-200 dark:border-slate-800">
+    <div className={`mx-auto ${getMaxWidthClass()} px-4 sm:px-8 py-8 border-t border-slate-200 dark:border-slate-800 transition-all duration-200`}>
       {/* 4 Buttons in a single row: Chương trước | Hoàn thành | Game | Chương sau */}
       <div className="grid grid-cols-4 gap-2 sm:gap-3 md:gap-4 items-stretch">
         {/* 1. Chương trước */}

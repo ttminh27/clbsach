@@ -2,7 +2,7 @@
 
 # ==============================================================================
 # Script: run.sh
-# Description: Chạy ứng dụng CLB Đọc Sách VietinBank trên môi trường cục bộ (Local)
+# Description: Chạy ứng dụng CLB Đọc Sách trên môi trường cục bộ (Local)
 # ==============================================================================
 
 set -e
@@ -12,7 +12,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
 echo "=========================================="
-echo " 📚 CLB Đọc Sách VietinBank - Local Server"
+echo " 📚 CLB Đọc Sách - Local Server"
 echo "=========================================="
 
 # 1. Kiểm tra node_modules

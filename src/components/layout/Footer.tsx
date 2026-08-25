@@ -10,7 +10,7 @@ export const Footer: React.FC = () => {
           <div className="flex items-center gap-2.5">
             <img src="/logo-64.png" alt="Logo" className="h-8 w-8 object-contain" />
             <span className="font-bold text-base text-slate-900 dark:text-white">
-              CLB đọc sách <span className="text-emerald-600 dark:text-emerald-400">VietinBank</span>
+              CLB đọc sách
             </span>
           </div>
           <p className="text-xs text-slate-500 dark:text-slate-400 max-w-sm">

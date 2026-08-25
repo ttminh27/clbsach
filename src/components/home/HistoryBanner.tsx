@@ -18,7 +18,7 @@ export const HistoryBanner: React.FC = () => {
         <div className="relative z-10 max-w-2xl">
           <div className="inline-flex items-center gap-1.5 rounded-full bg-white/20 px-3 py-1 text-xs font-semibold backdrop-blur-md mb-3">
             <Sparkles className="h-3.5 w-3.5" />
-            Chào mừng bạn đến với CLB đọc sách VietinBank
+            Chào mừng bạn đến với CLB đọc sách
           </div>
           <h2 className="text-2xl sm:text-3xl font-extrabold tracking-tight">
             Khám phá kho tàng tri thức & bài tập rèn luyện

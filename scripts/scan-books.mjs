@@ -401,7 +401,7 @@ fs.writeFileSync(sitemapPath, sitemapXml, 'utf-8');
 console.log(`Generated sitemap.xml successfully with ${sitemapUrls.length} URLs at ${sitemapPath}`);
 
 const robotsTxt = `# ==============================================================================
-# Robots.txt - CLB Đọc Sách VietinBank
+# Robots.txt - CLB Đọc Sách
 # ==============================================================================
 
 User-agent: *

@@ -52,7 +52,7 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
         ></div>
       </div>
 
-      <div className="mx-auto flex h-14 max-w-5xl items-center justify-between px-3 sm:px-6">
+      <div className="mx-auto flex h-14 max-w-7xl items-center justify-between px-3 sm:px-6">
         {/* Left: Home, Back & TOC */}
         <div className="flex items-center gap-1.5 sm:gap-2">
           <Link
@@ -275,12 +275,13 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
                   </div>
                 </div>
 
-                {/* Line Height & Alignment */}
+                {/* Text Alignment */}
                 <div className="mt-4 flex items-center justify-between pt-3 border-t border-slate-100 dark:border-slate-800">
+                  <span className="text-xs font-medium text-slate-700 dark:text-slate-300">Canh lề văn bản</span>
                   <div className="flex items-center gap-1">
                     <button
                       onClick={() => setTextAlign('left')}
-                      className={`rounded-lg p-2 text-xs transition-colors ${
+                      className={`flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-xs transition-colors ${
                         settings.textAlign === 'left'
                           ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300 font-bold'
                           : 'text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800'
@@ -288,10 +289,11 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
                       title="Canh lề trái"
                     >
                       <AlignLeft className="h-4 w-4" />
+                      <span>Trái</span>
                     </button>
                     <button
                       onClick={() => setTextAlign('justify')}
-                      className={`rounded-lg p-2 text-xs transition-colors ${
+                      className={`flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-xs transition-colors ${
                         settings.textAlign === 'justify'
                           ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300 font-bold'
                           : 'text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800'
@@ -299,16 +301,65 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
                       title="Canh đều 2 bên"
                     >
                       <AlignJustify className="h-4 w-4" />
+                      <span>Đều 2 bên</span>
                     </button>
                   </div>
+                </div>
 
-                  <div className="flex items-center gap-1.5 text-xs">
-                    <span className="text-slate-400">Độ rộng:</span>
+                {/* Width Selector */}
+                <div className="mt-4 pt-3 border-t border-slate-100 dark:border-slate-800">
+                  <div className="flex items-center justify-between text-xs font-medium text-slate-700 dark:text-slate-300 mb-2">
+                    <span>Độ rộng trang đọc</span>
+                    <span className="font-semibold text-emerald-600 dark:text-emerald-400">
+                      {settings.maxWidth === 'narrow'
+                        ? 'Hẹp (768px)'
+                        : settings.maxWidth === 'wide'
+                        ? 'Rộng (1152px)'
+                        : settings.maxWidth === 'full'
+                        ? 'Tối đa (1280px)'
+                        : 'Chuẩn (1024px)'}
+                    </span>
+                  </div>
+                  <div className="grid grid-cols-4 gap-1.5 bg-slate-100 dark:bg-slate-800/80 p-1 rounded-xl">
                     <button
-                      onClick={() => setMaxWidth(settings.maxWidth === 'narrow' ? 'medium' : settings.maxWidth === 'medium' ? 'wide' : 'narrow')}
-                      className="rounded-lg bg-slate-100 dark:bg-slate-800 px-2 py-1 font-semibold text-slate-700 dark:text-slate-300 uppercase text-[10px]"
+                      onClick={() => setMaxWidth('narrow')}
+                      className={`rounded-lg py-1.5 text-[11px] font-medium transition-all ${
+                        settings.maxWidth === 'narrow'
+                          ? 'bg-white dark:bg-slate-700 text-emerald-700 dark:text-emerald-300 font-bold shadow-xs'
+                          : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                      }`}
                     >
-                      {settings.maxWidth}
+                      Hẹp
+                    </button>
+                    <button
+                      onClick={() => setMaxWidth('medium')}
+                      className={`rounded-lg py-1.5 text-[11px] font-medium transition-all ${
+                        settings.maxWidth === 'medium'
+                          ? 'bg-white dark:bg-slate-700 text-emerald-700 dark:text-emerald-300 font-bold shadow-xs'
+                          : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                      }`}
+                    >
+                      Chuẩn
+                    </button>
+                    <button
+                      onClick={() => setMaxWidth('wide')}
+                      className={`rounded-lg py-1.5 text-[11px] font-medium transition-all ${
+                        settings.maxWidth === 'wide'
+                          ? 'bg-white dark:bg-slate-700 text-emerald-700 dark:text-emerald-300 font-bold shadow-xs'
+                          : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                      }`}
+                    >
+                      Rộng
+                    </button>
+                    <button
+                      onClick={() => setMaxWidth('full')}
+                      className={`rounded-lg py-1.5 text-[11px] font-medium transition-all ${
+                        settings.maxWidth === 'full'
+                          ? 'bg-white dark:bg-slate-700 text-emerald-700 dark:text-emerald-300 font-bold shadow-xs'
+                          : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                      }`}
+                    >
+                      Tối đa
                     </button>
                   </div>
                 </div>
