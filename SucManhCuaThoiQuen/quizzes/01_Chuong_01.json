@@ -8,60 +8,60 @@
       "id": "q1",
       "question": "Trường hợp bệnh nhân Eugene Pauly (bị tổn thương thùy thái dương trung gian do viêm não) đã giúp các nhà khoa học chứng minh điều gì mang tính đột phá về trí nhớ và thói quen?",
       "options": [
-        "Thói quen và trí nhớ có ý thức cùng được điều khiển bởi một vùng não duy nhất là vỏ não trước trán.",
-        "Con người vẫn có thể học và hình thành các thói quen hành vi phức tạp hoàn toàn tự động ngay cả khi mất toàn bộ khả năng ghi nhớ ký ức mới.",
+        "Hạch nền (basal ganglia) chỉ chịu trách nhiệm điều khiển các phản xạ sơ cấp như chớp mắt và hô hấp.",
         "Nếu mất đi trí nhớ ngắn hạn, con người sẽ hoàn toàn mất khả năng sinh hoạt độc lập và không thể học thêm bất cứ kỹ năng nào.",
-        "Hạch nền (basal ganglia) chỉ chịu trách nhiệm điều khiển các phản xạ sơ cấp như chớp mắt và hô hấp."
+        "Thói quen và trí nhớ có ý thức cùng được điều khiển bởi một vùng não duy nhất là vỏ não trước trán.",
+        "Con người vẫn có thể học và hình thành các thói quen hành vi phức tạp hoàn toàn tự động ngay cả khi mất toàn bộ khả năng ghi nhớ ký ức mới."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Eugene không thể nhớ nổi ngôi nhà của mình trông như thế nào hay nhớ tên bác sĩ, nhưng ông vẫn tự động đi bộ quanh khu phố rồi về nhà đúng vị trí và tìm được đồ ăn vặt trong bếp nhờ vào hạch nền (basal ganglia) vẫn hoạt động nguyên vẹn."
     },
     {
       "id": "q2",
       "question": "Trong thí nghiệm chuột chạy mê cung tìm socola tại Viện Công nghệ Massachusetts (MIT), hoạt động điện não của chuột thay đổi như thế nào khi hành vi đã trở thành thói quen thuần thục?",
       "options": [
-        "Não bộ của chuột chuyển toàn bộ việc xử lý thông tin sang tủy sống thay vì các tế bào thần kinh đại não.",
         "Hoạt động não bộ bùng nổ mạnh ở thời điểm phát ra tiếng 'cạch' (Gợi ý) và khi tìm thấy socola (Phần thưởng), nhưng gần như ngừng suy nghĩ ở đoạn giữa (Hoạt động thường nhật).",
         "Hoạt động não bộ tăng vọt và duy trì ở mức tối đa trong suốt toàn bộ thời gian chạy mê cung.",
-        "Hoạt động não bộ gần như phẳng lặng hoàn toàn trong toàn bộ quá trình, kể cả lúc nghe thấy tiếng 'cạch' ban đầu."
+        "Hoạt động não bộ gần như phẳng lặng hoàn toàn trong toàn bộ quá trình, kể cả lúc nghe thấy tiếng 'cạch' ban đầu.",
+        "Não bộ của chuột chuyển toàn bộ việc xử lý thông tin sang tủy sống thay vì các tế bào thần kinh đại não."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Mô hình điện não đồ tại MIT cho thấy khi thói quen hình thành, não bộ thực hiện quá trình 'nén khối' (chunking): vỏ não ngừng làm việc cật lực ở giai đoạn thực hiện hành vi, chỉ tập trung nhận diện tín hiệu khởi đầu và tận hưởng phần thưởng."
     },
     {
       "id": "q3",
       "question": "Theo phát hiện của MIT, cấu trúc cốt lõi của 'Vòng lặp thói quen' (The Habit Loop) bao gồm ba thành phần theo đúng thứ tự nào?",
       "options": [
-        "Gợi ý (Cue) -> Hoạt động thường nhật (Routine) -> Phần thưởng (Reward)",
         "Ý chí (Willpower) -> Hành động (Action) -> Kết quả (Outcome)",
-        "Cảm xúc (Emotion) -> Động lực (Motivation) -> Thói quen (Habit)",
-        "Mục tiêu (Goal) -> Kế hoạch (Plan) -> Kỷ luật (Discipline)"
+        "Gợi ý (Cue) -> Hoạt động thường nhật (Routine) -> Phần thưởng (Reward)",
+        "Mục tiêu (Goal) -> Kế hoạch (Plan) -> Kỷ luật (Discipline)",
+        "Cảm xúc (Emotion) -> Động lực (Motivation) -> Thói quen (Habit)"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Vòng lặp thói quen bao gồm 3 mắt xích: Gợi ý (Cue - kích hoạt não bộ vào chế độ tự động), Hoạt động thường nhật (Routine - chuỗi hành vi thực hiện), và Phần thưởng (Reward - giúp não bộ ghi nhớ vòng lặp này cho tương lai)."
     },
     {
       "id": "q4",
       "question": "Khái niệm 'nén khối' (chunking) trong hoạt động của não bộ được hiểu là gì?",
       "options": [
-        "Phương pháp phẫu thuật loại bỏ các khối mô thần kinh bị tổn thương do virus.",
-        "Kỹ thuật tập trung cao độ để ghi nhớ dãy số ngẫu nhiên trong thời gian ngắn.",
         "Quá trình phân hủy các ký ức phức tạp thành những mảnh vụn rời rạc khi con người già đi.",
-        "Cơ chế não bộ gom một chuỗi các hành động riêng lẻ thành một thói quen tự động duy nhất để tiết kiệm năng lượng nhận thức."
+        "Cơ chế não bộ gom một chuỗi các hành động riêng lẻ thành một thói quen tự động duy nhất để tiết kiệm năng lượng nhận thức.",
+        "Phương pháp phẫu thuật loại bỏ các khối mô thần kinh bị tổn thương do virus.",
+        "Kỹ thuật tập trung cao độ để ghi nhớ dãy số ngẫu nhiên trong thời gian ngắn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Nén khối (chunking) là quá trình não bộ chuyển đổi một chuỗi các hành động phức tạp (như lùi xe ra khỏi gara: cắm chìa khóa, nhìn gương, đạp ga, xoay vô lăng) thành một quy trình tự động duy nhất."
     },
     {
       "id": "q5",
       "question": "Tại sao khi Eugene Pauly được yêu cầu vẽ lại sơ đồ ngôi nhà hoặc chỉ vị trí phòng bếp, ông không thể làm được nhưng vẫn tự đi vào bếp lấy hạt phỉ khi đói?",
       "options": [
-        "Vì ông cố tình trêu chọc các nhà khoa học để kéo dài cuộc nghiên cứu.",
         "Vì khả năng nhận thức không gian ý thức nằm ở thùy thái dương (đã bị hỏng), trong khi thói quen vận động tự động được lưu trữ độc lập ở hạch nền.",
+        "Vì ông cố tình trêu chọc các nhà khoa học để kéo dài cuộc nghiên cứu.",
         "Vì mùi của hạt phỉ quá mạnh khiến khứu giác kích hoạt trực tiếp cơ bắp chân.",
         "Vì vợ ông đã bí mật gắn thiết bị dẫn đường siêu nhỏ trong dép của ông."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Eugene không thể mô tả ngôi nhà bằng lời vì thùy thái dương bị phá hủy, nhưng thói quen đứng dậy đi lấy đồ ăn khi đói đã được 'khắc sâu' vào hạch nền dưới dạng phản xạ điều kiện."
     },
     {
@@ -69,68 +69,68 @@
       "question": "Điều gì xảy ra nếu bộ não con người không có khả năng tự động hóa các hành vi thành thói quen?",
       "options": [
         "Con người sẽ trở nên thông minh và sáng tạo hơn vì lúc nào cũng phải suy nghĩ cẩn thận.",
-        "Não bộ sẽ nhanh chóng bị quá tải và tê liệt vì phải tiêu tốn năng lượng khổng lồ để ra quyết định cho hàng trăm hành động nhỏ nhặt mỗi ngày.",
         "Trí nhớ dài hạn sẽ tăng gấp đôi dung lượng lưu trữ so với bình thường.",
+        "Não bộ sẽ nhanh chóng bị quá tải và tê liệt vì phải tiêu tốn năng lượng khổng lồ để ra quyết định cho hàng trăm hành động nhỏ nhặt mỗi ngày.",
         "Cơ thể sẽ không bao giờ mắc phải bất kỳ thói quen xấu nào như hút thuốc hay cắn móng tay."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Nếu không có thói quen, chúng ta sẽ kiệt sức khi phải cân nhắc cách đánh răng, cách đi bộ, cách cầm thìa hay cách lái xe mỗi buổi sáng, khiến não không còn năng lượng cho các quyết định sinh tồn quan trọng."
     },
     {
       "id": "q7",
       "question": "Tại sao thói quen sau khi đã hình thành lại cực kỳ khó bị xóa bỏ hoàn toàn khỏi bộ não?",
       "options": [
+        "Vì thói quen làm thay đổi vĩnh viễn cấu trúc xương sọ của con người.",
         "Vì hạch nền là cấu trúc không thể thay đổi sau khi con người bước qua tuổi 18.",
         "Vì các mạch thần kinh ghi nhận vòng lặp thói quen vẫn luôn nằm sâu trong não và sẵn sàng tái kích hoạt khi có gợi ý và phần thưởng quen thuộc xuất hiện.",
-        "Vì gen di truyền của con người tự động sao chép các thói quen xấu vào chuỗi ADN.",
-        "Vì thói quen làm thay đổi vĩnh viễn cấu trúc xương sọ của con người."
+        "Vì gen di truyền của con người tự động sao chép các thói quen xấu vào chuỗi ADN."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Vấn đề của não bộ là nó không thể phân biệt giữa thói quen tốt và thói quen xấu; một khi vòng lặp đã được ghi dấu trong hạch nền, nó sẽ ẩn mình và chỉ chờ tín hiệu kích hoạt phù hợp để trỗi dậy."
     },
     {
       "id": "q8",
       "question": "Khi một người lái xe trên tuyến đường quen thuộc hàng ngày và nhận ra mình đã đến nơi mà không nhớ rõ từng khúc cua vừa qua, hiện tượng này giải thích điều gì?",
       "options": [
-        "Hạch nền đã tiếp quản việc điều khiển xe trong khi vỏ não trước trán được giải phóng để suy nghĩ chuyện khác.",
         "Bộ não đã rơi vào trạng thái thôi miên cưỡng bức do ánh đèn đường.",
         "Người đó bị chứng mất trí nhớ tạm thời do căng thẳng công việc.",
+        "Hạch nền đã tiếp quản việc điều khiển xe trong khi vỏ não trước trán được giải phóng để suy nghĩ chuyện khác.",
         "Hệ thống lái tự động của xe hơi đã can thiệp mà người lái không biết."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Đây là ví dụ điển hình của việc 'nén khối thói quen': hạch nền đảm nhận việc lái xe theo lộ trình quen thuộc, giúp tâm trí tự do suy nghĩ về công việc hay kế hoạch tương lai."
     },
     {
       "id": "q9",
       "question": "Trong thí nghiệm của Ann Graybiel tại MIT, điều gì chứng minh rằng con chuột đã nhận biết được sự khác biệt giữa âm thanh báo hiệu rẽ trái và rẽ phải trong mê cung?",
       "options": [
-        "Con chuột kêu lên những tiếng khác nhau khi nghe thấy âm thanh.",
-        "Chuột chỉ chạy khi có sự hỗ trợ của ánh sáng đèn chiếu.",
         "Con chuột từ chối chạy nếu người huấn luyện không thay đổi loại socola.",
-        "Sau khi lặp lại nhiều lần, hoạt động não bộ của chuột lập tức chuyển hướng chính xác đến nhánh có phần thưởng ngay sau tiếng còi mà không cần dò dẫm."
+        "Sau khi lặp lại nhiều lần, hoạt động não bộ của chuột lập tức chuyển hướng chính xác đến nhánh có phần thưởng ngay sau tiếng còi mà không cần dò dẫm.",
+        "Con chuột kêu lên những tiếng khác nhau khi nghe thấy âm thanh.",
+        "Chuột chỉ chạy khi có sự hỗ trợ của ánh sáng đèn chiếu."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sau giai đoạn học hỏi, tiếng còi đóng vai trò là 'Gợi ý' (Cue) chuẩn xác, kích hoạt ngay lập tức 'Hoạt động thường nhật' (Routine) rẽ đúng hướng để nhận 'Phần thưởng' (Reward)."
     },
     {
       "id": "q10",
       "question": "Tại sao việc Eugene Pauly đi dạo hàng ngày lại khiến vợ ông (Beverly) hoảng sợ trong lần đầu tiên ông tự ý ra khỏi nhà?",
       "options": [
-        "Vì Eugene mang theo toàn bộ số tiền tiết kiệm trong người.",
-        "Vì Eugene thậm chí không thể nhớ tên con đường mình ở hay chỉ đường về nhà nếu được hỏi, nhưng ông vẫn tự quay về an toàn bằng thói quen vô thức.",
         "Vì khu phố có nhiều thú dữ nguy hiểm.",
-        "Vì Eugene chưa từng ra khỏi nhà một mình trong suốt 40 năm trước đó."
+        "Vì Eugene chưa từng ra khỏi nhà một mình trong suốt 40 năm trước đó.",
+        "Vì Eugene thậm chí không thể nhớ tên con đường mình ở hay chỉ đường về nhà nếu được hỏi, nhưng ông vẫn tự quay về an toàn bằng thói quen vô thức.",
+        "Vì Eugene mang theo toàn bộ số tiền tiết kiệm trong người."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Beverly hoảng sợ vì bà biết Eugene không thể nhớ địa chỉ hay nhận ra hình ảnh ngôi nhà trên bản đồ; nhưng bất ngờ là các cây cối và ngã rẽ trên đường đã vô thức dẫn lối cho ông quay về nhờ hạch nền."
     },
     {
       "id": "q11",
       "question": "Mối quan hệ giữa 'Vỏ não trước trán' (prefrontal cortex) và 'Hạch nền' (basal ganglia) trong quá trình hình thành một thói quen mới là gì?",
       "options": [
-        "Hạch nền làm việc cật lực lúc mới học, sau đó chuyển giao toàn bộ cho vỏ não trước trán khi đã quen.",
-        "Vỏ não trước trán xử lý các quyết định có ý thức ban đầu; khi hành vi lặp lại nhiều lần, quyền kiểm soát dần chuyển giao cho hạch nền xử lý tự động.",
         "Hai vùng này hoàn toàn không có sự liên hệ hay trao đổi thông tin với nhau.",
+        "Vỏ não trước trán xử lý các quyết định có ý thức ban đầu; khi hành vi lặp lại nhiều lần, quyền kiểm soát dần chuyển giao cho hạch nền xử lý tự động.",
+        "Hạch nền làm việc cật lực lúc mới học, sau đó chuyển giao toàn bộ cho vỏ não trước trán khi đã quen.",
         "Vỏ não trước trán chỉ hoạt động khi chúng ta ngủ, còn hạch nền hoạt động khi thức."
       ],
       "correctIndex": 1,
@@ -140,10 +140,10 @@
       "id": "q12",
       "question": "Tại sao việc hiểu rõ 'Vòng lặp thói quen' lại là chìa khóa để chúng ta có thể kiểm soát và thay đổi hành vi của chính mình?",
       "options": [
-        "Vì nó chứng minh rằng mọi thói quen xấu đều do lỗi của người khác gây ra.",
         "Vì nó giúp con người không cần phải ngủ mà vẫn có đầy đủ năng lượng.",
+        "Vì nó giúp chúng ta biết cách phẫu thuật loại bỏ hạch nền ra khỏi não.",
         "Vì một khi nhận diện được Gợi ý (tín hiệu kích hoạt) và Phần thưởng (nhu cầu thực sự), chúng ta có thể chủ động thay đổi Hoạt động thường nhật ở giữa.",
-        "Vì nó giúp chúng ta biết cách phẫu thuật loại bỏ hạch nền ra khỏi não."
+        "Vì nó chứng minh rằng mọi thói quen xấu đều do lỗi của người khác gây ra."
       ],
       "correctIndex": 2,
       "explanation": "Thói quen không thể bị xóa bỏ hoàn toàn nếu chỉ dùng ý chí đè nén; cách duy nhất là giải phẫu vòng lặp để giữ nguyên gợi ý và phần thưởng, từ đó chèn vào một thói quen thường nhật mới lành mạnh hơn."
@@ -152,10 +152,10 @@
       "id": "q13",
       "question": "Khi các nhà khoa học gắn cảm biến theo dõi Eugene Pauly chọn tranh để nhận phần thưởng, điều kỳ lạ gì đã xảy ra sau nhiều tuần thử nghiệm?",
       "options": [
+        "Eugene vẽ lại hoàn hảo tất cả các bức tranh bằng trí nhớ siêu phàm.",
         "Eugene nhớ được chính xác ngày đầu tiên ông làm bài kiểm tra này.",
-        "Eugene từ chối tham gia thí nghiệm vì cảm thấy quá nhàm chán.",
         "Eugene luôn khẳng định mình chưa từng thấy các bức tranh bao giờ, nhưng tay ông tự động chọn đúng bức tranh có phần thưởng với tỷ lệ gần 100%.",
-        "Eugene vẽ lại hoàn hảo tất cả các bức tranh bằng trí nhớ siêu phàm."
+        "Eugene từ chối tham gia thí nghiệm vì cảm thấy quá nhàm chán."
       ],
       "correctIndex": 2,
       "explanation": "Eugene nói rằng ông hoàn toàn đoán mò và không nhớ gì về các bức tranh, nhưng phản xạ của tay ông đã được hạch nền 'huấn luyện' để luôn nhấc đúng tấm bìa có dán miếng bìa thưởng bên dưới."
@@ -164,21 +164,21 @@
       "id": "q14",
       "question": "Điểm yếu lớn nhất của cơ chế thói quen trong não bộ con người là gì?",
       "options": [
-        "Thói quen làm cho cơ bắp bị teo nhỏ theo thời gian.",
-        "Bộ não không thể tự động phân biệt đâu là thói quen có hại và đâu là thói quen có lợi; nó chỉ đơn giản lưu trữ bất kỳ khuôn mẫu nào đem lại phần thưởng.",
+        "Hạch nền sẽ ngừng hoạt động vĩnh viễn nếu bị gián đoạn quá 3 ngày.",
         "Thói quen khiến con người không thể học thêm ngoại ngữ mới.",
-        "Hạch nền sẽ ngừng hoạt động vĩnh viễn nếu bị gián đoạn quá 3 ngày."
+        "Thói quen làm cho cơ bắp bị teo nhỏ theo thời gian.",
+        "Bộ não không thể tự động phân biệt đâu là thói quen có hại và đâu là thói quen có lợi; nó chỉ đơn giản lưu trữ bất kỳ khuôn mẫu nào đem lại phần thưởng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Não bộ tối ưu hóa hiệu suất một cách máy móc; nếu một thói quen xấu (như ăn đồ ngọt khi stress) mang lại phần thưởng xoa dịu tức thì, não sẽ tự động ghi nhớ và lặp lại mà không tự đánh giá tác hại lâu dài."
     },
     {
       "id": "q15",
       "question": "Từ Chương 1, bài học sâu sắc nhất về việc làm chủ bản thân là gì?",
       "options": [
-        "Muốn thành công thì phải loại bỏ 100% thói quen và luôn suy nghĩ cẩn trọng trong từng bước chân.",
-        "Đừng bao giờ tin tưởng vào bất kỳ phản xạ tự nhiên nào của cơ thể.",
         "Chỉ những người có trí nhớ siêu phàm mới có thể xây dựng được thói quen tốt.",
+        "Đừng bao giờ tin tưởng vào bất kỳ phản xạ tự nhiên nào của cơ thể.",
+        "Muốn thành công thì phải loại bỏ 100% thói quen và luôn suy nghĩ cẩn trọng trong từng bước chân.",
         "Nhận diện rằng thói quen không phải là số phận; chúng ta hoàn toàn có thể tái thiết kế hành vi nếu học cách quan sát và làm chủ vòng lặp thói quen."
       ],
       "correctIndex": 3,

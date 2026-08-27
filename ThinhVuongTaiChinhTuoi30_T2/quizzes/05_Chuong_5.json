@@ -9,69 +9,69 @@
       "question": "Lời khuyên 'Bình tĩnh nhìn nhận Tin tức nội bộ (Insider Tips)' trong đầu tư cảnh báo cạm bẫy chết người nào?",
       "options": [
         "Các công ty luôn phát miễn phí tin tức nội bộ cho tất cả người dân.",
-        "Tin tức nội bộ luôn luôn chính xác 100% và đem lại giàu có tức thì.",
         "Phần lớn 'tin mật' lan truyền ra ngoài thực chất là bẫy xả hàng (phân phối đỉnh) của các đội lái cá mập; đầu tư theo tin đồn không có nghiên cứu cơ bản là con đường ngắn nhất dẫn đến việc đu đỉnh và cháy tài khoản.",
-        "Tin tức nội bộ là tài liệu do nhà nước phát hành chính thức."
+        "Tin tức nội bộ là tài liệu do nhà nước phát hành chính thức.",
+        "Tin tức nội bộ luôn luôn chính xác 100% và đem lại giàu có tức thì."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Khi tin mật đã đến tai nhà đầu tư nhỏ lẻ, nó không còn là bí mật nữa mà là miếng mồi câu. Đầu tư thông minh phải dựa trên phân tích giá trị doanh nghiệp, không dựa vào tin đồn."
     },
     {
       "id": "q2",
       "question": "Nguyên tắc 'Đầu tư không như đánh bạc, phải để lại một con đường sống' đòi hỏi nhà đầu tư phải tuân thủ kỷ luật sống còn nào?",
       "options": [
-        "Bỏ toàn bộ tiền vào các sòng bạc hợp pháp.",
-        "Rút tiền đầu tư ra ngay khi có lãi 0.1%.",
         "Luôn luôn tất tay (All-in) vào một mã cổ phiếu duy nhất để tối đa hóa lợi nhuận.",
-        "Tuyệt đối không 'All-in' hay sử dụng đòn bẩy vay nợ quá mức vào các tài sản rủi ro; luôn duy trì tỷ trọng tiền mặt phòng thủ và quỹ khẩn cấp để không bao giờ bị dồn vào bước đường cùng khi thị trường sụp đổ."
+        "Bỏ toàn bộ tiền vào các sòng bạc hợp pháp.",
+        "Tuyệt đối không 'All-in' hay sử dụng đòn bẩy vay nợ quá mức vào các tài sản rủi ro; luôn duy trì tỷ trọng tiền mặt phòng thủ và quỹ khẩn cấp để không bao giờ bị dồn vào bước đường cùng khi thị trường sụp đổ.",
+        "Rút tiền đầu tư ra ngay khi có lãi 0.1%."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Trong đầu tư, sống sót (Survival) là ưu tiên số 1 trước khi nghĩ đến lợi nhuận. Luôn để lại đường lui để có cơ hội làm lại nếu thị trường xảy ra kịch bản xấu nhất."
     },
     {
       "id": "q3",
       "question": "Tại sao tác giả lại khẳng định: 'Đầu tư và quản lý tài chính - PHƯƠNG HƯỚNG QUAN TRỌNG HƠN TỐC ĐỘ HÀNG VẠN LẦN'?",
       "options": [
-        "Vì người đi chậm luôn được ngân hàng tặng tiền thưởng.",
-        "Vì thị trường tài chính cấm các giao dịch diễn ra quá nhanh.",
         "Vì tốc độ đầu tư không thể đo lường bằng các con số toán học.",
-        "Vì nếu đi sai hướng (đầu cơ cờ bạc, chạy theo bẫy đa cấp), bạn chạy càng nhanh thì sẽ càng nhanh chóng rơi xuống vực thẳm phá sản; đi đúng hướng dù chậm rãi nhưng kiên định sẽ chắc chắn cán đích tự do tài chính an toàn."
+        "Vì thị trường tài chính cấm các giao dịch diễn ra quá nhanh.",
+        "Vì nếu đi sai hướng (đầu cơ cờ bạc, chạy theo bẫy đa cấp), bạn chạy càng nhanh thì sẽ càng nhanh chóng rơi xuống vực thẳm phá sản; đi đúng hướng dù chậm rãi nhưng kiên định sẽ chắc chắn cán đích tự do tài chính an toàn.",
+        "Vì người đi chậm luôn được ngân hàng tặng tiền thưởng."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Phương hướng đúng (tích lũy tài sản giá trị, lãi kép dài hạn) đảm bảo bạn đi đến đích. Nôn nóng tốc độ trong khi sai phương hướng chỉ dẫn đến thảm kịch tài chính."
     },
     {
       "id": "q4",
       "question": "Ví dụ kinh điển '4.000 Won mỗi ngày (tiền một ly cà phê) -> 40 triệu Won sau 10 năm -> 3.8 tỷ Won sau 30 năm' chứng minh điều kỳ diệu nào?",
       "options": [
-        "Các quán cà phê là nơi đầu tư chứng khoán tốt nhất.",
+        "Uống cà phê mỗi ngày sẽ giúp bạn trở thành tỷ phú tự động.",
         "Giá của một ly cà phê sẽ tăng lên 3.8 tỷ Won trong tương lai.",
-        "Hiệu ứng Latte (Latte Factor): Những khoản chi tiêu vụn vặt bốc đồng hàng ngày nếu được tiết kiệm có kỷ luật và đầu tư sinh lời đều đặn với lãi kép sẽ biến thành một gia sản khổng lồ bảo đảm trọn đời hưu trí.",
-        "Uống cà phê mỗi ngày sẽ giúp bạn trở thành tỷ phú tự động."
+        "Các quán cà phê là nơi đầu tư chứng khoán tốt nhất.",
+        "Hiệu ứng Latte (Latte Factor): Những khoản chi tiêu vụn vặt bốc đồng hàng ngày nếu được tiết kiệm có kỷ luật và đầu tư sinh lời đều đặn với lãi kép sẽ biến thành một gia sản khổng lồ bảo đảm trọn đời hưu trí."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Hiệu ứng Latte Factor chứng minh sức mạnh của tích tiểu thành đại kết hợp với lãi kép: một khoản tiền nhỏ nhặt cắt giảm mỗi ngày có thể tạo nên cả một gia tài tuổi già."
     },
     {
       "id": "q5",
       "question": "Khái niệm 'Kiểm soát rủi ro, biết sớm - lợi sớm' hướng dẫn nhà đầu tư cách thức tiếp cận rủi ro như thế nào?",
       "options": [
-        "Nhận diện rõ các loại rủi ro (lạm phát, thị trường, lãi suất, thanh khoản), chủ động phân bổ tài sản đa tầng để dung hòa và biến rủi ro thành phần thưởng lợi nhuận có kiểm soát.",
-        "Giao toàn bộ quyền quyết định đầu tư cho người quen.",
         "Chỉ đầu tư vào các dự án cam kết lợi nhuận 50%/tháng.",
-        "Hoàn toàn sợ hãi và cất tiền mặt vào két sắt suốt đời."
+        "Giao toàn bộ quyền quyết định đầu tư cho người quen.",
+        "Hoàn toàn sợ hãi và cất tiền mặt vào két sắt suốt đời.",
+        "Nhận diện rõ các loại rủi ro (lạm phát, thị trường, lãi suất, thanh khoản), chủ động phân bổ tài sản đa tầng để dung hòa và biến rủi ro thành phần thưởng lợi nhuận có kiểm soát."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Hiểu biết rủi ro giúp bạn không sợ hãi mà biết cách quản trị, dùng sự đa dạng hóa làm lá chắn để tận dụng đà tăng trưởng của nền kinh tế."
     },
     {
       "id": "q6",
       "question": "Bí quyết chuyển hóa từ trạng thái 'Viêm màng túi' (luôn túng thiếu) sang 'Biết chi tiêu thông thái' bao gồm bước đột phá nhận thức nào?",
       "options": [
-        "Nhịn ăn nhịn uống tuyệt đối trong suốt 1 năm.",
+        "Mua sắm tất cả các món đồ mình thích vào dịp giảm giá.",
         "Chuyển từ tư duy 'Tiêu trước - Tiết kiệm phần còn lại' sang tư duy 'Trích lập tiết kiệm & đầu tư trước - Chỉ tiêu phần còn lại'.",
         "Đi vay thêm thật nhiều thẻ tín dụng mới để bù đắp thiếu hụt.",
-        "Mua sắm tất cả các món đồ mình thích vào dịp giảm giá."
+        "Nhịn ăn nhịn uống tuyệt đối trong suốt 1 năm."
       ],
       "correctIndex": 1,
       "explanation": "Đảo ngược dòng tiền: 'Trả cho bản thân trước' (Pay yourself first) bằng việc tự động hóa trích tiền đầu tư ngay khi nhận lương là bước ngoặt xóa tan căn bệnh viêm màng túi."
@@ -81,32 +81,32 @@
       "question": "Chiến lược đầu tư 'Lợi nhuận theo cấp số nhân' thực chất là sự kết hợp của bộ ba đòn bẩy nào?",
       "options": [
         "Mua vé số + Chơi cờ bạc + Đợi thừa kế tài sản.",
-        "(1) Kỷ luật tích lũy định kỳ dòng tiền tiết kiệm + (2) Danh mục tài sản tăng trưởng sinh lời vượt lạm phát + (3) Thời gian tái đầu tư liên tục của lãi kép.",
         "Bất động sản phân lô + Vay ngân hàng 100% + Lướt sóng ngắn hạn.",
-        "Tiền vay nặng lãi + Tin đồn nội bộ + Sự may mắn chớp nhoáng."
+        "Tiền vay nặng lãi + Tin đồn nội bộ + Sự may mắn chớp nhoáng.",
+        "(1) Kỷ luật tích lũy định kỳ dòng tiền tiết kiệm + (2) Danh mục tài sản tăng trưởng sinh lời vượt lạm phát + (3) Thời gian tái đầu tư liên tục của lãi kép."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Lợi nhuận cấp số nhân bền vững là sản phẩm của kiềng 3 chân: Vốn tích lũy kỷ luật + Tỷ suất sinh lời hợp lý + Thời gian tái đầu tư dài hạn."
     },
     {
       "id": "q8",
       "question": "Tại sao việc 'Xác định đúng mục tiêu' lại là mấu chốt quyết định thắng lợi trong đầu tư?",
       "options": [
+        "Mục tiêu rõ ràng (ví dụ: Quỹ học vấn cho con 10 năm tới, Quỹ hưu trí 25 năm tới) sẽ quyết định thời hạn đầu tư, mức độ chấp nhận rủi ro và công cụ phân bổ tài sản chính xác, tránh việc hành động cảm tính theo đám đông.",
         "Xác định mục tiêu giúp bạn không cần phải theo dõi thị trường tài chính.",
-        "Chỉ cần có mục tiêu là tiền lãi sẽ tự động chảy về tài khoản.",
         "Mục tiêu đầu tư luôn giống hệt nhau cho mọi người trong xã hội.",
-        "Mục tiêu rõ ràng (ví dụ: Quỹ học vấn cho con 10 năm tới, Quỹ hưu trí 25 năm tới) sẽ quyết định thời hạn đầu tư, mức độ chấp nhận rủi ro và công cụ phân bổ tài sản chính xác, tránh việc hành động cảm tính theo đám đông."
+        "Chỉ cần có mục tiêu là tiền lãi sẽ tự động chảy về tài khoản."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Mục tiêu định hình chiến lược. Đầu tư ngắn hạn cần sự an toàn thanh khoản, đầu tư dài hạn 20-30 năm cần tài sản tăng trưởng để hưởng lãi kép bùng nổ."
     },
     {
       "id": "q9",
       "question": "Phương châm 'Vì tương lai, hãy nắm chắc hiện tại' nhắc nhở chúng ta điều gì về sự cân bằng cuộc sống?",
       "options": [
+        "Không cần quan tâm đến gia đình khi đang thực hiện đầu tư.",
         "Chỉ sống cho ngày hôm nay và quên đi ngày mai.",
         "Hy sinh toàn bộ tuổi thanh xuân để đổi lấy một đống tiền khi về già.",
-        "Không cần quan tâm đến gia đình khi đang thực hiện đầu tư.",
         "Tập trung đầu tư cho tương lai không có nghĩa là tằn tiện khổ hạnh đến mức phá hủy sức khỏe và các mối quan hệ hiện tại; phải xây dựng một kế hoạch tài chính bền vững và đem lại niềm vui sống mỗi ngày."
       ],
       "correctIndex": 3,
@@ -116,24 +116,24 @@
       "id": "q10",
       "question": "Khi thị trường tài chính rơi vào giai đoạn điều chỉnh giảm sâu, nhà đầu tư áp dụng chiến lược 'Hiệu ứng ly cà phê' nên làm gì?",
       "options": [
-        "Dừng ngay việc trích tiền định kỳ vì sợ mất tiền.",
-        "Tiếp tục kiên định duy trì lệnh trích lập tự động mỗi ngày/mỗi tháng, tận dụng mức giá rẻ của thị trường để gom được nhiều tài sản hơn (bình quân giá vốn thấp hơn).",
         "Rút toàn bộ tiền lỗ ra để mua vàng cất giữ.",
-        "Đổi sang chơi các trò chơi may rủi khác."
+        "Đổi sang chơi các trò chơi may rủi khác.",
+        "Dừng ngay việc trích tiền định kỳ vì sợ mất tiền.",
+        "Tiếp tục kiên định duy trì lệnh trích lập tự động mỗi ngày/mỗi tháng, tận dụng mức giá rẻ của thị trường để gom được nhiều tài sản hơn (bình quân giá vốn thấp hơn)."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Nhà đầu tư tích lũy định kỳ yêu thích các đợt giảm giá của thị trường vì đó là cơ hội vàng để gom tài sản chất lượng cao với chi phí cực rẻ."
     },
     {
       "id": "q11",
       "question": "Điều gì phân biệt một người tiêu dùng 'Bốc đồng' với một người 'Chi tiêu thông thái'?",
       "options": [
-        "Người bốc đồng mua sắm để khẳng định cái tôi và thỏa mãn cảm xúc nhất thời; người thông thái chi tiêu dựa trên giá trị sử dụng thực tế và sự phù hợp với bức tranh tài chính tổng thể.",
+        "Không có sự khác biệt nào giữa hai người.",
         "Người bốc đồng luôn là người có thu nhập thấp hơn.",
         "Người thông thái không bao giờ mua bất kỳ món đồ nào mới.",
-        "Không có sự khác biệt nào giữa hai người."
+        "Người bốc đồng mua sắm để khẳng định cái tôi và thỏa mãn cảm xúc nhất thời; người thông thái chi tiêu dựa trên giá trị sử dụng thực tế và sự phù hợp với bức tranh tài chính tổng thể."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Chi tiêu thông thái là sự làm chủ cảm xúc: chi tiền cho những thứ tạo ra giá trị thực sự cho bản thân và gia đình, loại bỏ hoàn toàn chi tiêu vì sĩ diện."
     },
     {
@@ -141,8 +141,8 @@
       "question": "Tác hại lớn nhất của việc 'liên tục nhảy nhót mua đi bán lại các kênh đầu tư theo trào lưu' là gì?",
       "options": [
         "Bị bào mòn vốn bởi phí giao dịch, thuế, luôn rơi vào bẫy 'mua đỉnh bán đáy' theo tâm lý đám đông và triệt tiêu hoàn toàn sức mạnh tích lũy của lãi kép.",
-        "Làm cho ngân hàng không tính được lãi suất.",
         "Làm cho các sàn giao dịch bị quá tải.",
+        "Làm cho ngân hàng không tính được lãi suất.",
         "Làm cho các nhà đầu tư khác bị mất tiền oan."
       ],
       "correctIndex": 0,
@@ -152,36 +152,36 @@
       "id": "q13",
       "question": "Trong công thức làm giàu bền vững, yếu tố nào sau đây là yếu tố DUY NHẤT mà bạn có thể hoàn toàn KIỂM SOÁT 100%?",
       "options": [
-        "Tình hình địa chính trị toàn cầu.",
-        "Biến động tăng giảm của chỉ số thị trường chứng khoán.",
+        "Tỷ lệ tiết kiệm và thói quen kỷ luật chi tiêu hàng ngày của chính bản thân bạn.",
         "Chính sách lãi suất của các ngân hàng trung ương.",
-        "Tỷ lệ tiết kiệm và thói quen kỷ luật chi tiêu hàng ngày của chính bản thân bạn."
+        "Tình hình địa chính trị toàn cầu.",
+        "Biến động tăng giảm của chỉ số thị trường chứng khoán."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Bạn không thể kiểm soát thị trường hay nền kinh tế, nhưng bạn hoàn toàn kiểm soát được chiếc ví, tỷ lệ tiết kiệm và hành vi tài chính của chính mình."
     },
     {
       "id": "q14",
       "question": "Tầm nhìn cốt lõi của cuốn sách Thịnh Vượng Tài Chính Tuổi 30 - Tập 2 là gì?",
       "options": [
+        "Hướng dẫn cách trốn thuế thu nhập cá nhân.",
         "Dạy bạn cách trở thành triệu phú sau một đêm bằng các mánh khóe tài chính.",
         "Trang bị một hệ thống tư duy và công cụ hành động thực chiến toàn diện: từ xóa bỏ bẫy nợ, thiết lập kỷ luật dòng tiền, đến chiến lược đầu tư lãi kép để kiến tạo sự thịnh vượng và tự do đích thực.",
-        "Hướng dẫn cách trốn thuế thu nhập cá nhân.",
         "Khuyên bạn nên phụ thuộc hoàn toàn vào chế độ trợ cấp xã hội."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tập 2 là cẩm nang chuyển hóa toàn diện: từ nhận thức sai lầm sang hành động kỷ luật, từ bế tắc nợ nần sang tự do thịnh vượng bền vững."
     },
     {
       "id": "q15",
       "question": "Lời khuyên hành động tức thì đắt giá nhất sau khi khép lại toàn bộ 2 tập sách Thịnh Vượng Tài Chính Tuổi 30 là gì?",
       "options": [
+        "Hãy đi vay mượn tiền để mua vé số thử vận may.",
         "HÃY HÀNH ĐỘNG NGAY HÔM NAY: Kiểm kê tài sản ròng, cắt bỏ các khoản nợ xấu, cài đặt trích lập tích lũy tự động và bắt đầu hành trình đầu tư lãi kép cho 30 năm tuổi già thịnh vượng của chính bạn và gia đình!",
         "Hãy gác sách lại và tiếp tục lối sống cũ thêm 10 năm nữa.",
-        "Chờ đợi khi nào có người cho tiền rồi mới bắt đầu tiết kiệm.",
-        "Hãy đi vay mượn tiền để mua vé số thử vận may."
+        "Chờ đợi khi nào có người cho tiền rồi mới bắt đầu tiết kiệm."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Thông điệp tối thượng: Tri thức chỉ là tiềm năng sức mạnh, HÀNH ĐỘNG KỶ LUẬT NGAY TỪ HÔM NAY mới là chìa khóa mở ra cánh cửa tự do và thịnh vượng cuộc đời."
     }
   ]

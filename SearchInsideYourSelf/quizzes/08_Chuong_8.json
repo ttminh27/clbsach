@@ -8,20 +8,20 @@
       "id": "q1",
       "question": "Trong nghiên cứu kinh điển về các công ty vĩ đại của Jim Collins ('Từ Tốt Đến Vĩ Đại' - Good to Great), đặc điểm nổi bật nhất của các 'Nhà lãnh đạo Cấp độ 5' (Level 5 Leadership) là sự kết hợp nghịch lý nào?",
       "options": [
-        "Sự nhút nhát rụt rè kết hợp với sự may mắn ngẫu nhiên.",
         "Khả năng hùng biện khoa trương kết hợp với ngoại hình lộng lẫy.",
         "Sự khiêm nhường cá nhân sâu sắc (Personal humility) kết hợp với Ý chí kiên định sắt đá vì tổ chức (Professional will).",
-        "Sự độc đoán tàn nhẫn kết hợp với sự giàu có cá nhân."
+        "Sự độc đoán tàn nhẫn kết hợp với sự giàu có cá nhân.",
+        "Sự nhút nhát rụt rè kết hợp với sự may mắn ngẫu nhiên."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Nhà lãnh đạo Cấp độ 5 không bao giờ đặt cái tôi lên trên tổ chức; họ cực kỳ khiêm nhường nhưng có lòng quyết tâm sắt đá đưa công ty vươn tới sự vĩ đại."
     },
     {
       "id": "q2",
       "question": "Khái niệm 'Lãnh đạo phục vụ' (Servant leadership) được Chade-Meng Tan mô tả như thế nào?",
       "options": [
-        "Lãnh đạo phải phục vụ cơm nước cho các giám đốc cấp cao hơn.",
         "Lãnh đạo phải làm công việc bồi bàn và dọn dẹp vệ sinh cho nhân viên.",
+        "Lãnh đạo phải phục vụ cơm nước cho các giám đốc cấp cao hơn.",
         "Nhà lãnh đạo không xem mình là ông chủ cai trị mà xem mình là người phụng sự: trao quyền, gỡ bỏ các rào cản và tạo điều kiện tối ưu nhất để đội ngũ tỏa sáng và phát triển tiềm năng cao nhất.",
         "Lãnh đạo không cần chịu bất kỳ trách nhiệm nào về kết quả kinh doanh."
       ],
@@ -32,10 +32,10 @@
       "id": "q3",
       "question": "Làm thế nào một nhà lãnh đạo có thể 'Vừa có hiệu quả công việc cao' (Highly effective) mà 'Vừa được nhân viên yêu quý' (Deeply loved)?",
       "options": [
-        "Bằng cách luôn thỏa hiệp và dễ dãi với mọi sai phạm của nhân viên.",
+        "Bằng cách không bao giờ giao việc cho nhân viên.",
         "Bằng cách kết hợp giữa 'Tiêu chuẩn chất lượng khắt khe' (High standards) với 'Lòng trắc ẩn và sự quan tâm chân thành đến con người' (Deep care and Compassion).",
         "Bằng cách tặng tiền thưởng liên tục mỗi ngày cho nhân viên.",
-        "Bằng cách không bao giờ giao việc cho nhân viên."
+        "Bằng cách luôn thỏa hiệp và dễ dãi với mọi sai phạm của nhân viên."
       ],
       "correctIndex": 1,
       "explanation": "Khái niệm 'Thách thức trực tiếp nhưng quan tâm sâu sắc' (Radical candor): nhân viên tôn trọng và yêu quý lãnh đạo khi biết rằng sự nghiêm khắc đó xuất phát từ mong muốn giúp họ tiến bộ."
@@ -44,12 +44,12 @@
       "id": "q4",
       "question": "Nghiên cứu của trường kinh doanh Harvard về 'Những kẻ ngốc đáng yêu' (Lovable fools) so với 'Những kẻ tài ba khó chịu' (Competent jerks) cho thấy xu hướng lựa chọn cộng tác của con người là gì?",
       "options": [
-        "Mọi người luôn thích làm việc với kẻ tài ba khó chịu vì kết quả là số một.",
         "Mọi người có xu hướng từ chối làm việc với những kẻ tài ba nhưng độc hại; họ ưu tiên chọn những người ấm áp, dễ thương và có tinh thần hợp tác vì sự tin cậy là nền tảng của hiệu suất nhóm.",
-        "Mọi người không quan tâm đến tính cách của đồng nghiệp.",
-        "Mọi người chỉ chọn làm việc với người nhà."
+        "Mọi người luôn thích làm việc với kẻ tài ba khó chịu vì kết quả là số một.",
+        "Mọi người chỉ chọn làm việc với người nhà.",
+        "Mọi người không quan tâm đến tính cách của đồng nghiệp."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Môi trường độc hại giết chết sự sáng tạo; sự ấm áp và an toàn tâm lý là điều kiện tiên quyết để tài năng thực sự phát huy tác dụng."
     },
     {
@@ -57,9 +57,9 @@
       "question": "Trong bài tập thực hành 'Những cuộc trò chuyện khó khăn' (Difficult conversations), bước chuẩn bị tâm thức quan trọng nhất là gì?",
       "options": [
         "Chuyển từ tâm thế 'Tôi đúng - Bạn sai' (Right vs Wrong) sang tâm thế 'Tìm hiểu và Cùng giải quyết vấn đề' (Learning stance); tách biệt Ý định (Intent) với Tác động thực tế (Impact).",
-        "Viết thư đe dọa trước khi gặp mặt.",
         "Chuẩn bị sẵn các bằng chứng để dồn đối phương vào chân tường.",
-        "Thuê vệ sĩ đứng bảo vệ trong phòng họp."
+        "Thuê vệ sĩ đứng bảo vệ trong phòng họp.",
+        "Viết thư đe dọa trước khi gặp mặt."
       ],
       "correctIndex": 0,
       "explanation": "Mục đích của cuộc đối thoại khó khăn không phải là giành chiến thắng trong tranh cãi, mà là thấu hiểu nguyên nhân gốc rễ và cùng nhau tìm giải pháp cải thiện."
@@ -68,36 +68,36 @@
       "id": "q6",
       "question": "Tại sao việc 'Thừa nhận sai lầm và thể hiện sự bất toàn' (Vulnerability) của người lãnh đạo lại làm gia tăng sự gắn kết và uy tín của họ?",
       "options": [
+        "Vì người lãnh đạo sẽ không cần phải làm việc nữa.",
         "Vì nhân viên sẽ có cớ để hạ bệ người lãnh đạo đó.",
         "Sự chân thật và dũng cảm đối diện với thiếu sót phá vỡ sự xa cách, tạo ra sự an toàn tâm lý cho toàn bộ tổ chức dám thử nghiệm, dám thất bại và cùng nhau học hỏi đổi mới.",
-        "Vì người lãnh đạo sẽ không cần phải làm việc nữa.",
         "Vì lãnh đạo sẽ được công đoàn hỗ trợ tài chính."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Nghiên cứu của Brené Brown khẳng định: Sự tổn thương chân thật (Vulnerability) không phải là điểm yếu; đó là thước đo dũng cảm cao nhất của một nhà lãnh đạo xuất chúng."
     },
     {
       "id": "q7",
       "question": "Khái niệm 'Lòng trắc ẩn can trường' (Fierce compassion) khác với 'Lòng tốt nhu nhược' (Idiot compassion) ở điểm nào?",
       "options": [
-        "Lòng tốt nhu nhược là việc né tránh xung đột, sợ mất lòng người khác và dung túng cho sai trái; Lòng trắc ẩn can trường dám đưa ra những quyết định khó khăn, dám nói sự thật thẳng thắn vì lợi ích lâu dài của cá nhân và tổ chức.",
-        "Lòng trắc ẩn can trường sử dụng bạo lực thể xác.",
         "Lòng trắc ẩn can trường chỉ dành cho các tướng lĩnh quân đội.",
-        "Hai khái niệm này hoàn toàn giống nhau."
+        "Hai khái niệm này hoàn toàn giống nhau.",
+        "Lòng trắc ẩn can trường sử dụng bạo lực thể xác.",
+        "Lòng tốt nhu nhược là việc né tránh xung đột, sợ mất lòng người khác và dung túng cho sai trái; Lòng trắc ẩn can trường dám đưa ra những quyết định khó khăn, dám nói sự thật thẳng thắn vì lợi ích lâu dài của cá nhân và tổ chức."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Lòng trắc ẩn đích thực có cả sự dịu dàng của người mẹ và sự nghiêm khắc bảo vệ của người cha; nó không né tránh sự thật đau lòng nếu sự thật đó giúp người khác trưởng thành."
     },
     {
       "id": "q8",
       "question": "Điều gì tạo nên 'Trường hấp dẫn' (Charisma) thực sự của một nhà lãnh đạo chánh niệm?",
       "options": [
-        "Bộ trang phục hàng hiệu và những chiếc đồng hồ đắt tiền.",
-        "Giọng nói to phát ra từ loa phóng thanh.",
         "Khả năng nói dối không chớp mắt trước đám đông.",
-        "Sự 'Hiện diện trọn vẹn 100%' (Presence) khi ở bên cạnh người khác: khi bạn nói chuyện với họ, họ cảm thấy mình là người quan trọng nhất trên thế giới đối với bạn trong khoảnh khắc đó."
+        "Bộ trang phục hàng hiệu và những chiếc đồng hồ đắt tiền.",
+        "Sự 'Hiện diện trọn vẹn 100%' (Presence) khi ở bên cạnh người khác: khi bạn nói chuyện với họ, họ cảm thấy mình là người quan trọng nhất trên thế giới đối với bạn trong khoảnh khắc đó.",
+        "Giọng nói to phát ra từ loa phóng thanh."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Sự quyến rũ đích thực không phải là biểu diễn hào nhoáng; đó là món quà của sự hiện diện trọn vẹn và sự chú ý chân thành trao tặng cho người đối diện."
     },
     {
@@ -116,46 +116,46 @@
       "id": "q10",
       "question": "Tại sao các CEO vĩ đại như Bill George (Cựu CEO Medtronic) lại nhấn mạnh khái niệm 'Lãnh đạo đích thực' (Authentic Leadership)?",
       "options": [
-        "Vì lãnh đạo đích thực giúp tăng doanh số bán hàng ngay trong 24 giờ.",
         "Vì nhân viên luôn nhận ra sự giả tạo; chỉ khi lãnh đạo dẫn dắt bằng các giá trị cốt lõi chân thật và trái tim phục vụ, họ mới có thể truyền cảm hứng và xây dựng niềm tin bền vững qua nhiều thế hệ.",
+        "Vì lãnh đạo đích thực không cần phải đi làm mỗi ngày.",
         "Vì đây là quy định bắt buộc của sàn chứng khoán New York.",
-        "Vì lãnh đạo đích thực không cần phải đi làm mỗi ngày."
+        "Vì lãnh đạo đích thực giúp tăng doanh số bán hàng ngay trong 24 giờ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự chân thật là nền tảng của lòng tin; lãnh đạo đích thực là người sống nhất quán giữa lời nói và việc làm, lấy đạo đức làm kim chỉ nam."
     },
     {
       "id": "q11",
       "question": "Nghiên cứu của Google (Project Oxygen) về 8 phẩm chất của nhà quản lý xuất sắc nhất đã xếp yếu tố nào ở vị trí số 1?",
       "options": [
+        "Là người có mối quan hệ thân thiết với ban giám đốc cấp cao.",
         "Là người có trình độ kỹ thuật lập trình giỏi nhất nhóm.",
-        "Là một người huấn luyện giỏi (Be a good coach) – biết lắng nghe, trao quyền và quan tâm chân thành đến sự thành công và hạnh phúc của từng thành viên.",
         "Là người có khả năng giám sát và kiểm tra nhân viên 24/7.",
-        "Là người có mối quan hệ thân thiết với ban giám đốc cấp cao."
+        "Là một người huấn luyện giỏi (Be a good coach) – biết lắng nghe, trao quyền và quan tâm chân thành đến sự thành công và hạnh phúc của từng thành viên."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Dữ liệu thực nghiệm của Google khẳng định: Kỹ năng chuyên môn kỹ thuật xếp cuối cùng trong danh sách; năng lực lắng nghe, huấn luyện và thấu cảm (EQ) đứng ở vị trí số 1."
     },
     {
       "id": "q12",
       "question": "Làm thế nào một nhà lãnh đạo có thể giải quyết xung đột gay gắt giữa hai nhóm kỹ sư giỏi nhưng bất đồng quan điểm?",
       "options": [
+        "Sa thải cả hai nhóm kỹ sư để tuyển người mới.",
         "Tạo không gian an toàn tâm lý, đưa cả hai nhóm quay về với 'Mục đích chung cốt lõi' của dự án, lắng nghe sâu sắc các lo ngại của từng bên và khuyến khích họ cùng đồng sáng tạo giải pháp dung hòa tốt nhất.",
-        "Tung đồng xu để quyết định bên nào thắng.",
         "Ủng hộ bên nào nói to hơn.",
-        "Sa thải cả hai nhóm kỹ sư để tuyển người mới."
+        "Tung đồng xu để quyết định bên nào thắng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Giải quyết xung đột dựa trên chánh niệm là đưa các bên từ thế đối đầu sang thế cùng nhìn về một hướng: mục đích phụng sự người dùng và chất lượng sản phẩm."
     },
     {
       "id": "q13",
       "question": "Câu nói của Tổng thống Abraham Lincoln: 'Cách tốt nhất để tiêu diệt một kẻ thù là biến họ thành bạn' thể hiện nguyên lý lãnh đạo nào?",
       "options": [
-        "Việc quên đi các nguyên tắc pháp lý.",
+        "Sự đầu hàng yếu đuối trước nghịch cảnh.",
         "Chiến thuật quân sự lừa gạt đối phương.",
         "Sức mạnh vô song của lòng trắc ẩn và sự thấu cảm: chuyển hóa sự thù địch thành tình bằng hữu và sự đồng lòng vì đại nghĩa quốc gia.",
-        "Sự đầu hàng yếu đuối trước nghịch cảnh."
+        "Việc quên đi các nguyên tắc pháp lý."
       ],
       "correctIndex": 2,
       "explanation": "Lincoln là bậc thầy của Lãnh đạo Cấp độ 5: ông đưa cả những đối thủ chính trị gay gắt nhất vào nội các và dùng lòng bao dung để đoàn kết toàn dân tộc."
@@ -164,24 +164,24 @@
       "id": "q14",
       "question": "Điều gì xảy ra với 'Văn hóa doanh nghiệp' khi lòng trắc ẩn được thể chế hóa thành các chính sách cụ thể (như chế độ thai sản linh hoạt, ngày nghỉ chăm sóc sức khỏe tinh thần)?",
       "options": [
-        "Công ty sẽ bị phá sản vì nhân viên lười biếng.",
         "Tỷ lệ nghỉ việc giảm mạnh, mức độ gắn kết và lòng trung thành tăng vọt, nhân viên tự giác sáng tạo và cống hiến vượt trên cả sự mong đợi của ban điều hành.",
-        "Nhân viên sẽ không bao giờ đến công ty làm việc nữa.",
-        "Chính phủ sẽ tịch thu toàn bộ tài sản của doanh nghiệp."
+        "Chính phủ sẽ tịch thu toàn bộ tài sản của doanh nghiệp.",
+        "Công ty sẽ bị phá sản vì nhân viên lười biếng.",
+        "Nhân viên sẽ không bao giờ đến công ty làm việc nữa."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Doanh nghiệp yêu thương nhân viên thì nhân viên sẽ yêu thương khách hàng; lòng trắc ẩn là khoản đầu tư sinh lời cao nhất cho sự phát triển trường tồn."
     },
     {
       "id": "q15",
       "question": "Bài học then chốt rút ra từ Chương 8 về phong cách lãnh đạo thế kỷ 21 là gì?",
       "options": [
+        "Khả năng lãnh đạo vĩ đại nhất không đến từ sự độc đoán hay kho trương; nó tỏa sáng từ sự khiêm nhường, trái tim từ bi, sự chính trực và năng lực nâng đỡ người khác cùng vươn tới sự vĩ đại.",
         "Quyền lực đến từ sự sợ hãi và đàn áp.",
-        "Người tốt bụng không bao giờ có thể làm lãnh đạo thành công.",
         "Lãnh đạo chỉ cần quan tâm đến bảng cân đối kế toán tài chính.",
-        "Khả năng lãnh đạo vĩ đại nhất không đến từ sự độc đoán hay kho trương; nó tỏa sáng từ sự khiêm nhường, trái tim từ bi, sự chính trực và năng lực nâng đỡ người khác cùng vươn tới sự vĩ đại."
+        "Người tốt bụng không bao giờ có thể làm lãnh đạo thành công."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Lãnh đạo bằng tình yêu thương và sự thấu cảm là đỉnh cao của nghệ thuật quản trị; bạn vừa tạo ra kết quả phi thường, vừa được mọi người trân quý suốt đời."
     }
   ]

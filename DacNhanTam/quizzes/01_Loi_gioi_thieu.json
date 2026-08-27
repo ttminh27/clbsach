@@ -1,0 +1,188 @@
+{
+  "bookId": "DacNhanTam",
+  "chapterId": "01_Loi_gioi_thieu",
+  "chapterTitle": "Lời giới thiệu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo lời giới thiệu, 'Đắc Nhân Tâm' không chỉ là nghệ thuật đối nhân xử thế mà cốt lõi là nghệ thuật gì?",
+      "options": [
+        "Kỹ năng hùng biện trước đám đông để áp đặt quan điểm cá nhân.",
+        "Nghệ thuật thu phục lòng người bằng cách hiểu rõ bản thân, thành thật với chính mình và hiểu biết, quan tâm đến người khác.",
+        "Nghệ thuật tranh luận thắng thế trong mọi cuộc đàm phán kinh doanh.",
+        "Nghệ thuật che giấu cảm xúc thật để đạt được lợi ích vật chất."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lời giới thiệu chỉ rõ: Đắc Nhân Tâm khởi đầu bằng sự thành thật với chính mình, thấu hiểu và trân trọng những người xung quanh để đánh thức tiềm năng trong nhau."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao 'Đắc Nhân Tâm' được xem là cuốn sách đầu tiên và hay nhất mọi thời đại về nghệ thuật giao tiếp?",
+      "options": [
+        "Vì sách chỉ chứa các câu chuyện hư cấu hài hước.",
+        "Vì nó đã thay đổi cuộc đời của hàng triệu người, mở ra một thể loại sách hoàn toàn mới và định hình chuẩn mực sống tích cực.",
+        "Vì nó có số trang dài nhất trong lịch sử các sách kỹ năng.",
+        "Vì tác giả là một nhà chính trị gia quyền lực nhất thế giới."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cuốn sách tạo ra một cuộc cách mạng trong nhận thức về giao tiếp con người và trở thành tượng đài bất hủ của thể loại self-help trên toàn cầu."
+    },
+    {
+      "id": "q3",
+      "question": "Lời giới thiệu khẳng định điều gì về ranh giới giữa 'nghệ thuật thu phục lòng người' và 'sự thao túng gian xảo'?",
+      "options": [
+        "Thao túng gian xảo mang lại hiệu quả bền vững hơn sự chân thành.",
+        "Hai khái niệm này hoàn toàn là một, chỉ khác nhau ở mục tiêu cuối cùng.",
+        "Đắc Nhân Tâm chân chính phải xuất phát từ sự thành tâm, thiện chí và lòng trắc ẩn, nếu không nó chỉ là sự xu nịnh giả tạo vô giá trị.",
+        "Không cần quan tâm đến động cơ, chỉ cần kết quả đạt được mục đích."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự khác biệt cốt tử nằm ở động cơ: Đắc Nhân Tâm là xây dựng mối quan hệ chân thành cùng thắng, còn thao túng là mưu lợi cá nhân ích kỷ."
+    },
+    {
+      "id": "q4",
+      "question": "Theo bài giới thiệu, việc không còn giới hạn 'Đắc Nhân Tâm' ở khía cạnh kỹ xảo giao tiếp mà nâng lên tầm 'nhân cách sống' mang ý nghĩa gì?",
+      "options": [
+        "Chỉ áp dụng trong môi trường học thuật lý thuyết.",
+        "Làm cho cuốn sách trở nên khó hiểu và mang tính hàn lâm tôn giáo.",
+        "Khuyên người đọc không nên tham gia các hoạt động xã hội.",
+        "Biến giao tiếp thành bản chất của một lối sống tử tế, văn minh và tôn trọng nhân phẩm con người."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đắc Nhân Tâm vượt lên trên các thủ thuật bề ngoài để trở thành triết lý sống: sống tử tế, độ lượng và biết chia sẻ với đồng loại."
+    },
+    {
+      "id": "q5",
+      "question": "Yếu tố nào làm cho 'Đắc Nhân Tâm' giữ vững vị thế đầu bảng sách bán chạy nhất của New York Times trong suốt nhiều năm liền?",
+      "options": [
+        "Các chiến dịch giảm giá quy mô lớn của tác giả.",
+        "Tác phẩm có cốt truyện ly kỳ như một tiểu thuyết trinh thám.",
+        "Tính thực tiễn cao, các nguyên tắc dễ áp dụng và mang lại chuyển biến thần kỳ trong các mối quan hệ thực tế.",
+        "Nội dung sách được giữ bí mật và chỉ truyền tay nhau."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự đơn giản, sâu sắc và tính ứng dụng thực tế có thể kiểm chứng ngay trong đời sống thường nhật chính là lý do sách được yêu thích bền bỉ."
+    },
+    {
+      "id": "q6",
+      "question": "Khi đối mặt với người có tính cách khó chịu, người hiểu tinh thần 'Đắc Nhân Tâm' sẽ phản ứng như thế nào?",
+      "options": [
+        "Sử dụng quyền lực để trừng phạt và áp đặt.",
+        "Xa lánh và cắt đứt hoàn toàn mọi liên lạc.",
+        "Lập tức chỉ trích gay gắt để họ nhận ra khuyết điểm.",
+        "Tìm hiểu nguyên nhân sâu xa đằng sau hành vi của họ và tiếp cận bằng sự cảm thông, kiên nhẫn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đắc Nhân Tâm dạy chúng ta nhìn thấu hành vi bên ngoài để chạm tới nỗi đau hoặc mong muốn ẩn giấu bên trong mỗi con người."
+    },
+    {
+      "id": "q7",
+      "question": "Theo lời giới thiệu, một người chỉ chăm chú đọc sách mà không thực hành trong cuộc sống thì điều gì sẽ xảy ra?",
+      "options": [
+        "Người đó vẫn sẽ tự động trở thành một bậc thầy giao tiếp.",
+        "Họ sẽ trở nên kiêu ngạo vì biết nhiều nguyên tắc.",
+        "Người đó sẽ kiếm được nhiều tiền hơn mà không cần giao tiếp.",
+        "Kiến thức chỉ là lý thuyết suông và không mang lại bất kỳ sự chuyển hóa tích cực nào cho bản thân hay người xung quanh."
+      ],
+      "correctIndex": 3,
+      "explanation": "Học mà không hành thì vô ích. Đắc Nhân Tâm là cuốn cẩm nang của hành động, đòi hỏi sự kiên trì rèn luyện thói quen mỗi ngày."
+    },
+    {
+      "id": "q8",
+      "question": "Khái niệm 'chiến thắng trong lòng người' khác biệt như thế nào so với việc 'chiến thắng trong tranh luận'?",
+      "options": [
+        "Thắng tranh luận luôn tạo ra nhiều đối tác kinh doanh hơn.",
+        "Chiến thắng trong lòng người đạt được sự đồng thuận tự nguyện và tình cảm chân thành, trong khi thắng tranh luận thường để lại sự cay cú và rạn nứt.",
+        "Hai chiến thắng này có cùng một bản chất và kết quả như nhau.",
+        "Chiến thắng trong lòng người chỉ là sự nhượng bộ nhu nhược."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thắng một cuộc tranh cãi bằng lý lẽ đanh thép chỉ làm thỏa mãn cái tôi nhất thời nhưng đánh mất thiện cảm; thu phục lòng người mới mang lại sự gắn kết vĩnh cửu."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao tác phẩm này được dịch ra hầu hết các ngôn ngữ trên thế giới và được đón nhận ở mọi nền văn hóa?",
+      "options": [
+        "Bởi vì khát khao được lắng nghe, tôn trọng và yêu thương là ngôn ngữ chung của toàn thể nhân loại.",
+        "Do yêu cầu bắt buộc của các tổ chức giáo dục toàn cầu.",
+        "Vì sách được viết bằng tiếng Anh đơn giản.",
+        "Bởi vì tất cả các quốc gia đều có chung hệ thống luật pháp."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bản chất nhân tính là phổ quát. Dù ở bất kỳ nền văn hóa nào, con người đều khao khát sự thấu cảm, lời khen chân thành và sự tôn trọng."
+    },
+    {
+      "id": "q10",
+      "question": "Lời giới thiệu so sánh cuốn sách như một 'chiếc gương soi'. Người đọc nên soi mình vào đó như thế nào?",
+      "options": [
+        "Chỉ tìm kiếm những điểm mình đã làm tốt để tự mãn.",
+        "Đọc nhanh qua để giải trí lúc rảnh rỗi.",
+        "Tự nhìn nhận lại những định kiến, sự nóng nảy và cách ứng xử thiếu tế nhị của chính mình để không ngừng hoàn thiện.",
+        "Dùng sách để soi xét và phán xét lỗi lầm của người khác."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đắc Nhân Tâm là tấm gương để mỗi người tự soi rọi tâm thức, nhận diện những điểm mù trong giao tiếp của bản thân và chủ động thay đổi."
+    },
+    {
+      "id": "q11",
+      "question": "Thành công thực sự của một nhà lãnh đạo theo tinh thần Đắc Nhân Tâm được đo lường bằng tiêu chí nào?",
+      "options": [
+        "Khả năng truyền cảm hứng, khơi dậy sự nhiệt tình và giúp người khác phát huy tối đa tiềm năng của họ.",
+        "Số tiền tích lũy được trong tài khoản cá nhân.",
+        "Số lượng mệnh lệnh cứng rắn mà cấp dưới buộc phải tuân theo mà không dám phản kháng.",
+        "Sự vắng mặt hoàn toàn của các cuộc họp trao đổi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lãnh đạo xuất chúng không dùng quyền lực cưỡng chế mà dùng nghệ thuật truyền cảm hứng, tôn trọng và tin tưởng để dẫn dắt đội ngũ."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao trong xã hội số và truyền thông hiện đại, các nguyên lý của Đắc Nhân Tâm lại càng trở nên cấp thiết?",
+      "options": [
+        "Vì con người ngày nay không còn cần bạn bè thực tế ngoài đời.",
+        "Vì công nghệ khiến con người dễ giao tiếp máy móc, thiếu vắng sự kết nối cảm xúc chân thật và thấu cảm sâu sắc.",
+        "Vì không còn ai đọc sách giấy truyền thống nữa.",
+        "Do các thuật toán mạng xã hội đã tự động giải quyết mọi bất đồng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thế giới công nghệ tạo ra sự kết nối ảo nhanh chóng nhưng lại dễ gây ra sự cô đơn và xa cách; lòng chân thành và sự thấu cảm trực tiếp càng trở nên vô giá."
+    },
+    {
+      "id": "q13",
+      "question": "Ý nghĩa của việc 'đối xử với người khác theo cách họ muốn được đối xử' là gì?",
+      "options": [
+        "Đặt mình vào vị trí, góc nhìn và mong muốn thực tế của đối phương để thấu hiểu và đáp ứng nhu cầu cảm xúc của họ.",
+        "Chỉ quan tâm đến những người có địa vị cao trong xã hội.",
+        "Bắt buộc người khác phải tuân theo sở thích và thói quen của riêng mình.",
+        "Bỏ qua mọi nguyên tắc đạo đức để làm hài lòng người khác một cách mù quáng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đó là sự nâng cấp của Quy tắc Vàng: thấu hiểu sự khác biệt của từng cá nhân để ứng xử tôn trọng và phù hợp nhất với tâm lý của họ."
+    },
+    {
+      "id": "q14",
+      "question": "Theo thông điệp mở đầu, việc áp dụng Đắc Nhân Tâm sẽ mang lại lợi ích lớn nhất nào cho người thực hành?",
+      "options": [
+        "Miễn trừ mọi nghĩa vụ lao động trong xã hội.",
+        "Quyền kiểm soát và chỉ đạo cuộc sống của người khác.",
+        "Khả năng thắng tuyệt đối trong mọi cuộc kiện tụng tranh chấp.",
+        "Sự bình an trong tâm hồn, sự yêu mến chân thành từ mọi người và một cuộc sống trọn vẹn ý nghĩa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Gieo hạt mầm yêu thương và tôn trọng sẽ gặt hái sự kính trọng, tình bạn chân chính và một tâm hồn thanh thản, hạnh phúc."
+    },
+    {
+      "id": "q15",
+      "question": "Một kết luận then chốt từ lời giới thiệu là: Thay đổi người khác bắt đầu từ đâu?",
+      "options": [
+        "Bắt đầu từ việc tìm kiếm một môi trường sống hoàn toàn mới.",
+        "Bắt đầu từ việc ban hành các quy định xử phạt nghiêm ngặt.",
+        "Bắt đầu từ việc phê bình nghiêm khắc các thói hư tật xấu của họ.",
+        "Bắt đầu từ việc thay đổi chính nhận thức, thái độ và hành vi của bản thân mình trước."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bạn không thể thay đổi bất kỳ ai nếu chính bạn không chủ động chuyển hóa thái độ, sự thấu cảm và cách nhìn nhận của chính bản thân."
+    }
+  ]
+}

@@ -8,24 +8,24 @@
       "id": "q1",
       "question": "Theo phân loại trong chương 2, 'Năm giai đoạn của tuổi già' được chia như thế nào để giúp một người thiết kế lộ trình tài chính chính xác?",
       "options": [
+        "Giai đoạn độc thân, kết hôn, ly hôn, tái hôn và về già.",
         "Giai đoạn học sinh, sinh viên, người đi làm, quản lý và giám đốc.",
         "Giai đoạn chuẩn bị (20-30s), Tiền hưu trí (40-50s), Hưu trí hoạt động tích cực (60-65), Suy giảm thể lực (70s), và Phụ thuộc y tế/chăm sóc đặc biệt (80s+).",
-        "Giai đoạn dưới 30 tuổi và trên 30 tuổi.",
-        "Giai đoạn độc thân, kết hôn, ly hôn, tái hôn và về già."
+        "Giai đoạn dưới 30 tuổi và trên 30 tuổi."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Việc chia tuổi già thành 5 nấc thang rõ rệt giúp nhận diện đặc thù nhu cầu tài chính và thể chất của từng giai đoạn, từ lúc còn sức khỏe năng động đến khi cần chi phí y tế chăm sóc đặc biệt."
     },
     {
       "id": "q2",
       "question": "Tại sao việc kiểm tra 'Tài sản ròng' (Net Worth = Tổng tài sản - Tổng nợ) lại quan trọng hơn rất nhiều so với việc chỉ nhìn vào quy mô 'Tổng tài sản' bề nổi?",
       "options": [
-        "Vì ngân hàng chỉ cho phép người có tài sản ròng âm vay thêm tiền.",
-        "Vì tổng tài sản không bao giờ có thể quy đổi ra tiền mặt được.",
         "Vì một người sở hữu căn nhà 10 tỷ nhưng nợ ngân hàng 8 tỷ thì tài sản thực sự chỉ có 2 tỷ; nếu không trừ nợ, họ sẽ ảo tưởng về năng lực tài chính thực sự của mình.",
-        "Vì tài sản ròng quyết định số lượng bạn bè trên mạng xã hội của một người."
+        "Vì tổng tài sản không bao giờ có thể quy đổi ra tiền mặt được.",
+        "Vì tài sản ròng quyết định số lượng bạn bè trên mạng xã hội của một người.",
+        "Vì ngân hàng chỉ cho phép người có tài sản ròng âm vay thêm tiền."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Tổng tài sản có thể bị thổi phồng bởi nợ vay. Chỉ có tài sản ròng thực tế mới là nguồn lực đích thực bảo vệ một người trước các biến cố và nuôi sống họ khi về già."
     },
     {
@@ -33,33 +33,33 @@
       "question": "'Cuộc giằng co không cân sức' giữa Tiền học cho con cái và Tiền chuẩn bị cho tuổi già của cha mẹ thường dẫn đến sai lầm phổ biến nào trong các gia đình châu Á?",
       "options": [
         "Nhà trường hoàn trả lại 100% học phí cho cha mẹ khi con tốt nghiệp.",
+        "Cha mẹ không cho con cái đi học bất kỳ trường lớp nào để giữ tiền dưỡng già.",
         "Con cái tự đi làm thêm kiếm tiền nuôi toàn bộ gia đình từ năm 10 tuổi.",
-        "Cha mẹ dốc cạn toàn bộ thu nhập và tiền tích lũy vào các lớp học thêm đắt đỏ cho con, để rồi khi về già rơi vào cảnh rỗng túi và vô tình trở thành gánh nặng kinh tế đè ngược lại lên vai con cái.",
-        "Cha mẹ không cho con cái đi học bất kỳ trường lớp nào để giữ tiền dưỡng già."
+        "Cha mẹ dốc cạn toàn bộ thu nhập và tiền tích lũy vào các lớp học thêm đắt đỏ cho con, để rồi khi về già rơi vào cảnh rỗng túi và vô tình trở thành gánh nặng kinh tế đè ngược lại lên vai con cái."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Nhiều cha mẹ 'hy sinh mù quáng' dồn hết tài chính cho con học thêm xa xỉ mà bỏ quên quỹ hưu trí. Khi về già không có tiền, họ vô tình đẩy con cái vào thế khó, khiến cả hai thế hệ cùng rơi vào khủng hoảng."
     },
     {
       "id": "q4",
       "question": "Lợi ích cốt lõi nhất của việc 'Lập sổ tay ghi chép chi tiêu gia đình' theo hướng dẫn của tác giả là gì?",
       "options": [
-        "Để chứng minh với cơ quan thuế rằng mình không có thu nhập.",
         "Để phát hiện ra các khoản 'chi phí rò rỉ' vô hình (tiền cà phê, ăn ngoài lãng phí, đăng ký dịch vụ không dùng) và phân biệt rạch ròi giữa 'nhu cầu thiết yếu' (Need) và 'ham muốn nhất thời' (Want).",
+        "Để chứng minh với cơ quan thuế rằng mình không có thu nhập.",
         "Để có thể ghi nhớ chính xác giá của tất cả các mặt hàng trong siêu thị.",
         "Để ép buộc các thành viên trong gia đình phải nhịn ăn nhịn mặc tuyệt đối."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sổ chi tiêu là 'kính hiển vi tài chính' giúp cá nhân soi rõ các lỗ rò tiền bạc hàng ngày, từ đó tái phân bổ dòng tiền dư thừa vào các kênh đầu tư sinh lời."
     },
     {
       "id": "q5",
       "question": "Khi tìm cách cắt giảm chi tiêu, nguyên tắc thông minh nào sau đây giúp việc tiết kiệm duy trì được tính bền vững lâu dài?",
       "options": [
-        "Cắt giảm cực đoan mọi nhu cầu ăn uống dinh dưỡng để gom tiền gửi ngân hàng.",
+        "Không bao giờ sử dụng tiền mặt trong mọi giao dịch.",
         "Tập trung cắt giảm các khoản chi phí cố định lãng phí và mua sắm bốc đồng, trong khi vẫn duy trì các chi tiêu hợp lý cho sức khỏe, phát triển bản thân và gắn kết gia đình.",
         "Vay thêm nợ mới để chi trả cho các khoản tiêu xài cũ.",
-        "Không bao giờ sử dụng tiền mặt trong mọi giao dịch."
+        "Cắt giảm cực đoan mọi nhu cầu ăn uống dinh dưỡng để gom tiền gửi ngân hàng."
       ],
       "correctIndex": 1,
       "explanation": "Tiết kiệm thông minh không phải là tằn tiện khổ hạnh làm suy kiệt sức khỏe và tinh thần, mà là loại bỏ lãng phí vô ích để tối ưu hóa nguồn lực cho mục tiêu tương lai."
@@ -68,24 +68,24 @@
       "id": "q6",
       "question": "Phương pháp nâng cao thu nhập: 'Đầu tư vào công việc chuyên môn hiện tại' (Vốn tự thân) mang lại ưu thế vượt trội nào so với việc vội vã đầu tư tay ngang?",
       "options": [
-        "Công việc văn phòng luôn đảm bảo người làm sẽ trở thành tỷ phú sau 2 năm.",
-        "Làm việc chuyên môn thì không bao giờ phải chịu sự cạnh tranh từ đồng nghiệp.",
+        "Nâng cao chuyên môn là việc hoàn toàn không tốn thời gian và công sức.",
         "Nâng cao chuyên môn giúp gia tăng giá trị lao động, thăng tiến chức vụ và tạo ra dòng thu nhập chủ động vững chắc, giảm thiểu rủi ro thua lỗ do thiếu hiểu biết kinh doanh.",
-        "Nâng cao chuyên môn là việc hoàn toàn không tốn thời gian và công sức."
+        "Làm việc chuyên môn thì không bao giờ phải chịu sự cạnh tranh từ đồng nghiệp.",
+        "Công việc văn phòng luôn đảm bảo người làm sẽ trở thành tỷ phú sau 2 năm."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Năng lực chuyên môn là 'cỗ máy in tiền' an toàn nhất của mỗi người. Đầu tư nâng cao tay nghề và giá trị bản thân là khoản đầu tư có tỷ suất sinh lời cao nhất và rủi ro thấp nhất."
     },
     {
       "id": "q7",
       "question": "Tác giả cảnh báo điều gì khi một người có ý định 'Làm ăn riêng hoặc mở quán kinh doanh tay ngang' khi chưa trang bị đủ kiến thức và chuẩn bị tài chính?",
       "options": [
+        "Kinh doanh riêng là hành vi bị các tổ chức tài chính nghiêm cấm.",
         "Kinh doanh riêng luôn thành công 100% nếu có vốn lớn.",
         "Nguy cơ 'cháy sạch vốn tích lũy' do thiếu kinh nghiệm thị trường và quản trị dòng tiền, khiến tình hình tài chính gia đình càng lún sâu vào nợ nần và bi kịch.",
-        "Kinh doanh riêng là hành vi bị các tổ chức tài chính nghiêm cấm.",
         "Không ai được phép mở quán cà phê hoặc cửa hàng kinh doanh."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Rất nhiều người sau khi nghỉ việc đã vội vã dồn hết tiền hưu mở quán buôn bán theo phong trào và phá sản trong 1-2 năm đầu. Tác giả khuyên cần cực kỳ cẩn trọng, chỉ làm khi đã có năng lực và nghiên cứu kỹ."
     },
     {
@@ -93,8 +93,8 @@
       "question": "Khái niệm 'Tiết kiệm có mục đích' (Purpose-driven Savings) giúp khắc phục nhược điểm nào của việc tiết kiệm thông thường?",
       "options": [
         "Giúp tránh tình trạng tiết kiệm được một khoản rồi lại đem tiêu xài bừa bãi vào việc khác, bằng cách phân chia rõ ràng các quỹ: Quỹ hưu trí, Quỹ khẩn cấp, Quỹ học vấn cho con.",
-        "Giúp ngân hàng tự động tăng lãi suất tiền gửi lên gấp 5 lần.",
         "Làm cho người tiết kiệm không bao giờ phải trả thuế thu nhập cá nhân.",
+        "Giúp ngân hàng tự động tăng lãi suất tiền gửi lên gấp 5 lần.",
         "Cho phép người tiết kiệm được quyền rút tiền trước hạn mà không mất lãi."
       ],
       "correctIndex": 0,
@@ -104,10 +104,10 @@
       "id": "q9",
       "question": "Tại sao câu hỏi 'Liệu tôi phải chuẩn bị bao nhiêu cho tuổi già?' không có một con số cố định chung cho tất cả mọi người?",
       "options": [
-        "Vì các tác giả không biết cách tính toán các con số tài chính.",
+        "Vì chính phủ sẽ quyết định số tiền chi tiêu của từng người khi về già.",
         "Vì con số này phụ thuộc vào mức sống kỳ vọng, tình trạng sức khỏe, số năm dự kiến nghỉ hưu, tỷ lệ lạm phát và các nguồn thu nhập phụ trợ của từng gia đình cụ thể.",
-        "Vì mỗi người chỉ được phép sống thọ đến đúng 70 tuổi.",
-        "Vì chính phủ sẽ quyết định số tiền chi tiêu của từng người khi về già."
+        "Vì các tác giả không biết cách tính toán các con số tài chính.",
+        "Vì mỗi người chỉ được phép sống thọ đến đúng 70 tuổi."
       ],
       "correctIndex": 1,
       "explanation": "Mục tiêu tài chính hưu trí mang tính cá nhân hóa cao độ. Mỗi người có mức chi tiêu sinh hoạt, bối cảnh gia đình và mục tiêu lối sống khác nhau nên cần công thức tính riêng biệt."
@@ -116,72 +116,72 @@
       "id": "q10",
       "question": "Trong các khoản chi tiêu gia đình, đâu là 'kẻ đào ngạch tài chính' nguy hiểm nhất mà nhiều người thường xem nhẹ?",
       "options": [
+        "Các khoản thanh toán lãi thẻ tín dụng quay vòng và chi tiêu mua sắm thỏa mãn cảm xúc tức thời bằng nợ tiêu dùng.",
         "Tiền đóng bảo hiểm y tế bắt buộc theo quy định nhà nước.",
         "Tiền mua sách vở và tài liệu học tập bổ ích.",
-        "Các khoản thanh toán lãi thẻ tín dụng quay vòng và chi tiêu mua sắm thỏa mãn cảm xúc tức thời bằng nợ tiêu dùng.",
         "Tiền ăn uống cơ bản nấu tại nhà hàng ngày."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Lãi suất thẻ tín dụng tiêu dùng thường rất cao (20-30%/năm). Việc duy trì dư nợ thẻ và quẹt thẻ bốc đồng là lỗ thủng lớn nhất làm kiệt quệ dòng tiền tiết kiệm hàng tháng."
     },
     {
       "id": "q11",
       "question": "Một người tuyên bố: 'Tôi chỉ cần chuẩn bị tiền cho 10 năm đầu sau khi nghỉ hưu (từ 60 đến 70 tuổi) là đủ'. Lỗ hổng chí mạng trong lập luận này là gì?",
       "options": [
-        "Sau 70 tuổi con người không còn cần bất kỳ khoản chi phí sinh hoạt nào.",
         "Giai đoạn sau 70 tuổi và 80 tuổi mới là lúc chi phí y tế và chăm sóc đặc biệt tăng vọt cao nhất; cạn kiệt tiền ở giai đoạn này sẽ dẫn đến bế tắc và thảm cảnh tuyệt vọng.",
+        "Không có ai sống qua tuổi 70 trong thời đại ngày nay.",
         "Sau 70 tuổi ngân hàng sẽ tự động cấp tiền miễn phí cho người già.",
-        "Không có ai sống qua tuổi 70 trong thời đại ngày nay."
+        "Sau 70 tuổi con người không còn cần bất kỳ khoản chi phí sinh hoạt nào."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Nghịch lý là giai đoạn thể lực suy sụp nhất (sau 70-80 tuổi) lại là lúc tốn kém tiền bạc nhất cho bác sĩ, thuốc men và người chăm sóc. Không chuẩn bị cho giai đoạn này là sai lầm chết người."
     },
     {
       "id": "q12",
       "question": "Khi đối mặt với việc con cái đòi hỏi đi du học hoặc học trường quốc tế vượt quá khả năng tài chính của cha mẹ, lựa chọn tài chính khôn ngoan nhất là gì?",
       "options": [
-        "Thẳng thắn trao đổi về giới hạn ngân sách gia đình, cùng con tìm kiếm học bổng/vay vốn sinh viên có trách nhiệm, kiên quyết bảo vệ quỹ hưu trí cốt lõi để không tạo gánh nặng ngược lại cho con sau này.",
         "Cấm con không được tiếp tục học lên cấp bậc cao hơn.",
         "Vay tiền nặng lãi từ các tổ chức tín dụng đen để nộp học phí.",
-        "Cầm cố căn nhà duy nhất và rút toàn bộ quỹ hưu trí để đáp ứng mong muốn của con."
+        "Cầm cố căn nhà duy nhất và rút toàn bộ quỹ hưu trí để đáp ứng mong muốn của con.",
+        "Thẳng thắn trao đổi về giới hạn ngân sách gia đình, cùng con tìm kiếm học bổng/vay vốn sinh viên có trách nhiệm, kiên quyết bảo vệ quỹ hưu trí cốt lõi để không tạo gánh nặng ngược lại cho con sau này."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Dạy con hiểu về tài chính và giới hạn ngân sách là bài học giáo dục quý giá. Việc bảo vệ quỹ hưu trí cha mẹ chính là sự bảo bọc nhân văn nhất giúp con an tâm lập nghiệp trong tương lai."
     },
     {
       "id": "q13",
       "question": "Để bắt đầu kiểm soát tài chính cá nhân, bước đi đầu tiên và cấp thiết nhất cần làm ngay trong tuần này là gì?",
       "options": [
+        "Nghỉ việc tại công ty để ở nhà suy nghĩ kế hoạch làm giàu.",
         "Mua ngay một chiếc xe hơi đắt tiền để nâng cao uy tín xã hội.",
         "Thực hiện tổng kiểm kê tài sản và nợ, lập bảng theo dõi thu chi thực tế của gia đình trong 3 tháng gần nhất để nhìn rõ sự thật tài chính.",
-        "Rút toàn bộ tiền gửi ngân hàng chuyển sang mua vé số.",
-        "Nghỉ việc tại công ty để ở nhà suy nghĩ kế hoạch làm giàu."
+        "Rút toàn bộ tiền gửi ngân hàng chuyển sang mua vé số."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Bạn không thể quản lý thứ mà bạn không đo lường được. Kiểm kê tài sản ròng và theo dõi thu chi là điểm khởi đầu bắt buộc của mọi lộ trình tài chính thành công."
     },
     {
       "id": "q14",
       "question": "Mối liên hệ giữa việc 'nâng cao thu nhập' và 'kiểm soát chi tiêu' trong quản trị tài chính gia đình được ví như điều gì?",
       "options": [
-        "Hai việc hoàn toàn độc lập và không có bất kỳ mối liên hệ nào với nhau.",
         "Kiếm tiền là miệng phễu rót nước vào, còn kiểm soát chi tiêu là bịt kín đáy phễu; nếu đáy phễu thủng to thì nước rót vào bao nhiêu cũng sẽ chảy sạch ra ngoài.",
         "Chỉ cần kiếm được thật nhiều tiền thì đáy phễu có thủng bao nhiêu cũng không quan trọng.",
+        "Hai việc hoàn toàn độc lập và không có bất kỳ mối liên hệ nào với nhau.",
         "Chỉ cần bịt kín đáy phễu thì không cần phải rót thêm bất kỳ giọt nước nào vào."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Tăng thu nhập mà không kiểm soát chi tiêu thì chi tiêu sẽ tự động phình to tương ứng (định luật Parkinson về tài chính). Cần kết hợp cả hai: mở rộng nguồn thu và kiểm soát van xả chi tiêu."
     },
     {
       "id": "q15",
       "question": "Chương 2 nhấn mạnh 'Hạnh phúc tuổi già' thực sự được xây dựng trên trụ cột nào sau đây?",
       "options": [
+        "Việc sở hữu thật nhiều đồ hiệu và trang sức quý giá cất trong tủ.",
         "Sự giàu có vượt trội so với tất cả những người hàng xóm xung quanh.",
         "Sự bình an nội tâm đến từ việc sở hữu sức khỏe tốt, các mối quan hệ ấm áp và một nền tảng tài chính tự chủ vững vàng không phải phụ thuộc hay van xin bất kỳ ai.",
-        "Việc sở hữu thật nhiều đồ hiệu và trang sức quý giá cất trong tủ.",
         "Việc được xã hội ca ngợi là người từng tiêu xài hào nhoáng nhất."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Hạnh phúc đích thực của tuổi già là sự tự do, phẩm giá và bình an: không phải quỵ lụy con cháu vì tiền, không bị bóp nghẹt bởi viện phí và có thể tận hưởng trọn vẹn những năm tháng an nhàn."
     }
   ]

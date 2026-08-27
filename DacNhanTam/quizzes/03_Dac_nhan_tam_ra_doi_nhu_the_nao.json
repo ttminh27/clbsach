@@ -1,0 +1,188 @@
+{
+  "bookId": "DacNhanTam",
+  "chapterId": "03_Dac_nhan_tam_ra_doi_nhu_the_nao",
+  "chapterTitle": "Lời tác giả Dale Carnegie: “Đắc Nhân Tâm” ra đời như thế nào?",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo nghiên cứu của Viện Carnegie được tác giả trích dẫn, thành công tài chính của một người (kể cả trong lĩnh vực kỹ thuật) phụ thuộc vào những yếu tố nào?",
+      "options": [
+        "15% vào năng lực chuyên môn, 85% vào nhân cách, sự khéo léo trong giao tiếp và khả năng quản lý, lãnh đạo.",
+        "85% vào khả năng chuyên môn kỹ thuật, 15% vào các mối quan hệ xã hội.",
+        "50% do may mắn di truyền, 50% do bằng cấp trường đại học danh tiếng.",
+        "100% hoàn toàn do vốn đầu tư ban đầu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nghiên cứu mang tính đột phá chỉ ra rằng kỹ năng chuyên môn chỉ chiếm 15%, trong khi năng lực đối nhân xử thế và lãnh đạo đóng góp tới 85% vào thành công bền vững."
+    },
+    {
+      "id": "q2",
+      "question": "Cuộc khảo sát kéo dài hai năm của Đại học Chicago với 156 câu hỏi cho thấy mối quan tâm lớn nhất của người trưởng thành sau sức khỏe là gì?",
+      "options": [
+        "Cách ứng xử để được người khác quý trọng, tin tưởng và hiểu theo ý mình.",
+        "Cách kiếm tiền nhanh trên thị trường chứng khoán.",
+        "Các môn thể thao giải trí ngoài trời.",
+        "Các vấn đề chính trị quốc tế phức tạp."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau sức khỏe thể chất, con người khao khát nhất là thấu hiểu tâm lý nhân loại và nghệ thuật giao tiếp để hòa hợp và thành công với đồng loại."
+    },
+    {
+      "id": "q3",
+      "question": "Khi bắt đầu giảng dạy tại New York năm 1912, Dale Carnegie nhận ra học viên của mình thực sự thiếu kỹ năng gì nhất?",
+      "options": [
+        "Khả năng viết thư tay bằng bút máy.",
+        "Khả năng diễn thuyết trước công chúng kết hợp với nghệ thuật ứng xử tinh tế trong kinh doanh và giao tiếp xã hội.",
+        "Kỹ năng tính toán số học nhanh.",
+        "Kiến thức về luật thương mại quốc tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Học viên không chỉ cần kỹ năng nói mà trên hết cần nghệ thuật giao tiếp nhạy bén để giải quyết các mối quan hệ phức tạp hàng ngày."
+    },
+    {
+      "id": "q4",
+      "question": "Câu nói nổi tiếng của tỷ phú dầu mỏ John D. Rockefeller: 'Nếu có thể mua được khả năng đối nhân xử thế thì tôi sẵn sàng dốc hết hầu bao...' khẳng định điều gì?",
+      "options": [
+        "Nghệ thuật thu phục lòng người là phẩm chất quý giá và khan hiếm nhất, có giá trị vượt xa mọi của cải vật chất.",
+        "Người giàu không cần phải học kỹ năng giao tiếp.",
+        "Tiền bạc có thể thay thế hoàn toàn tình cảm con người.",
+        "Khả năng đối nhân xử thế là món hàng có thể mua bán dễ dàng ở bất kỳ đâu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rockefeller hiểu rằng mọi mỏ dầu hay nhà máy đều vô nghĩa nếu không có năng lực kết nối và dẫn dắt con người cùng chung chí hướng."
+    },
+    {
+      "id": "q5",
+      "question": "Để viết nên cuốn sách này, Dale Carnegie và cộng sự đã thực hiện quá trình nghiên cứu công phu như thế nào?",
+      "options": [
+        "Thu thập ý kiến ngẫu nhiên trên đường phố trong một ngày.",
+        "Chỉ ngồi trong phòng suy ngẫm lý thuyết trong vài tuần.",
+        "Dành hơn 15 năm nghiên cứu thực nghiệm, rà soát hàng ngàn tài liệu lịch sử, tiểu sử các vĩ nhân và trực tiếp phỏng vấn những người thành công nhất thế giới.",
+        "Sao chép nguyên văn một cuốn sách cổ từ thời Trung Cổ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác phẩm là kết tinh của 15 năm nghiên cứu thực nghiệm nghiêm túc, phỏng vấn thực tế từ Edison, Marconi đến Franklin D. Roosevelt và Clark Gable."
+    },
+    {
+      "id": "q6",
+      "question": "Hình ảnh cuốn sách phát triển từ 'một tấm thẻ bưu thiếp nhỏ' đến 'quyển sổ tay' rồi thành 'quyển sách hoàn chỉnh' minh chứng cho điều gì?",
+      "options": [
+        "Tác giả gặp khó khăn trong việc tìm nhà in.",
+        "Cuốn sách được nuôi dưỡng và hoàn thiện liên tục từ chính kinh nghiệm sống và phản hồi thực tế của hàng ngàn học viên qua thời gian.",
+        "Sách ban đầu chỉ là một trò chơi xếp hình.",
+        "Tác giả muốn kéo dài thời gian để thu thêm học phí."
+      ],
+      "correctIndex": 1,
+      "explanation": "Quyển sách lớn lên như một cơ thể sống, được kiểm chứng, điều chỉnh và hoàn thiện qua thực nghiệm đời sống của hàng triệu học viên thực tế."
+    },
+    {
+      "id": "q7",
+      "question": "Câu chuyện người quản lý 314 nhân viên từng bị ghét bỏ nhưng đã biến họ thành '314 người bạn thực sự' mang lại bài học then chốt nào?",
+      "options": [
+        "Người quản lý không nên nói chuyện trực tiếp với nhân viên cấp dưới.",
+        "Thay đổi triết lý quản lý từ áp đặt, chỉ trích sang động viên, thân thiện sẽ tạo ra luồng sinh khí mới và biến kẻ chống đối thành đồng minh trung thành.",
+        "Sa thải những nhân viên không đồng tình và tuyển người mới hoàn toàn.",
+        "Tăng lương gấp đôi là cách duy nhất để nhân viên yêu mến cấp trên."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sức mạnh của sự chuyển hóa: khi lãnh đạo từ bỏ thói chỉ trích và trao gửi sự tôn trọng chân thành, cả tổ chức sẽ thay đổi kỳ diệu."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao nhiều học viên điện thoại cho Dale Carnegie vào cả ngày Chủ nhật sau khi áp dụng các bài học?",
+      "options": [
+        "Họ muốn phàn nàn vì các bài học không có kết quả.",
+        "Họ quá phấn khích trước những kết quả kỳ diệu xảy ra ngoài sức tưởng tượng trong các mối quan hệ gia đình và công việc.",
+        "Họ muốn hỏi bài tập về nhà cho tuần tiếp theo.",
+        "Họ cần xin gia hạn thời gian nộp học phí."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiệu quả tức thì và sự tháo gỡ bất ngờ trong những mối quan hệ bế tắc lâu năm khiến học viên vô cùng kinh ngạc và xúc động."
+    },
+    {
+      "id": "q9",
+      "question": "Giáo sư William James của Đại học Harvard nhận định: 'Chúng ta mới chỉ sử dụng một phần nhỏ những khả năng thể chất và tinh thần vốn có'. Ý nghĩa của câu này đối với cuốn sách là gì?",
+      "options": [
+        "Con người nên ngủ nhiều hơn để bảo tồn năng lượng.",
+        "Không ai có thể thay đổi được số phận đã định trước.",
+        "Cuốn sách hướng tới việc đánh thức và giải phóng những tiềm năng vĩ đại còn đang ngủ quên trong nghệ thuật sống của mỗi người.",
+        "Thể lực quan trọng hơn nhiều so với trí tuệ tinh thần."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mục đích tối thượng của tác phẩm là giúp người đọc khai phá những nguồn tài nguyên tâm lý tiềm ẩn: lòng trắc ẩn, sự thấu hiểu và sức hút cá nhân."
+    },
+    {
+      "id": "q10",
+      "question": "Trích dẫn câu nói của triết gia Herbert Spencer: 'Mục đích tối thượng của giáo dục không phải là kiến thức - mà là hành động' nhằm mục đích gì?",
+      "options": [
+        "Chỉ trích toàn bộ hệ thống trường học chính quy.",
+        "Khuyến khích học viên hành động vội vã mà không cần suy nghĩ.",
+        "Khuyên người đọc không cần tích lũy kiến thức học thuật.",
+        "Khẳng định Đắc Nhân Tâm là cuốn sách thực hành; giá trị chỉ xuất hiện khi người đọc biến nguyên tắc thành hành động cụ thể mỗi ngày."
+      ],
+      "correctIndex": 3,
+      "explanation": "Biết mà không làm thì cũng như không biết. Cuốn sách đòi hỏi người đọc phải liên tục thực hành và trải nghiệm trong đời thực."
+    },
+    {
+      "id": "q11",
+      "question": "Theo Dale Carnegie, nếu người đọc xong 3 chương đầu mà không cảm thấy tiếp nhận được kinh nghiệm để ứng dụng thì điều đó có nghĩa là gì?",
+      "options": [
+        "Đó là một sự thất bại hoàn toàn đối với người đọc đó, và cuốn sách không còn cần thiết cho họ nữa.",
+        "Người đọc nên mua ngay cuốn sách tiếp theo.",
+        "Tác giả sẽ hoàn trả lại toàn bộ tiền mua sách.",
+        "Người đọc nên chuyển sang học các ngành khoa học tự nhiên."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả đặt ra tiêu chuẩn hiệu quả khắt khe: sách phải đem lại giá trị thực tế ngay lập tức từ những trang đầu tiên, nếu không nó đã thất bại."
+    },
+    {
+      "id": "q12",
+      "question": "Việc phỏng vấn các vĩ nhân như Thomas Edison, Franklin D. Roosevelt đã giúp Dale Carnegie đúc kết điều cốt lõi gì về bí quyết thành công?",
+      "options": [
+        "Các vĩ nhân đều có bí quyết siêu nhiên không ai học được.",
+        "Những người vĩ đại nhất luôn là những người nắm vững nghệ thuật tôn trọng và truyền cảm hứng cho những người cộng sự quanh họ.",
+        "Thành công chỉ đến khi bạn làm việc đơn độc và không tin tưởng ai.",
+        "Sự độc đoán và lạnh lùng là chìa khóa để giữ vững quyền lực."
+      ],
+      "correctIndex": 1,
+      "explanation": "Điểm chung của các bậc kỳ tài lãnh đạo là khả năng đối nhân xử thế xuất chúng: biết lắng nghe, tôn vinh và khơi gợi nhiệt huyết nơi người khác."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao các kỹ sư xuất sắc tại Philadelphia lại đăng ký tham gia lớp học đối nhân xử thế của Dale Carnegie đông đảo đến vậy?",
+      "options": [
+        "Để tìm kiếm các đối tác đầu tư mạo hiểm mới.",
+        "Vì họ bị cơ quan bắt buộc phải tham gia để đủ giờ công.",
+        "Họ nhận ra rằng chuyên môn máy móc giỏi chưa đủ để thăng tiến nếu thiếu kỹ năng giao tiếp, khả năng diễn đạt và lãnh đạo con người.",
+        "Vì lớp học của Carnegie dạy thêm về lập trình máy tính."
+      ],
+      "correctIndex": 2,
+      "explanation": "Những kỹ sư tài năng hiểu rằng giới hạn lớn nhất của họ không nằm ở kỹ thuật mà ở năng lực giao tiếp và dẫn dắt tập thể."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao Carnegie lại tự thừa nhận bản thân ông trong quá khứ 'đã có rất nhiều lần xử sự thiếu tế nhị'?",
+      "options": [
+        "Để tạo sự thương hại từ học viên.",
+        "Thể hiện sự khiêm tốn, trung thực và chứng minh rằng nghệ thuật đối nhân xử thế là quá trình học tập, rèn luyện suốt đời chứ không phải tài năng bẩm sinh.",
+        "Vì ông muốn từ bỏ công việc giảng dạy.",
+        "Đó là lời thú nhận pháp lý trong một vụ tranh chấp."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự trung thực của tác giả truyền cảm hứng mạnh mẽ: không ai hoàn hảo từ đầu, ai cũng có thể tiến bộ nếu có ý thức tự hoàn thiện mỗi ngày."
+    },
+    {
+      "id": "q15",
+      "question": "Theo nhận định của Tiến sĩ John G. Hibben (Hiệu trưởng ĐH Princeton), thước đo thực sự cho sự giáo dục của một con người là gì?",
+      "options": [
+        "Số lượng bằng cấp và học hàm học vị mà người đó sở hữu.",
+        "Khả năng ghi nhớ vanh vách các sự kiện lịch sử cổ đại.",
+        "Khả năng ứng xử khôn ngoan và nhân văn của người đó trước các tình huống của cuộc sống.",
+        "Tốc độ đọc và viết các văn bản chuyên ngành."
+      ],
+      "correctIndex": 2,
+      "explanation": "Học thức cao quý nhất không nằm trên giấy tờ bằng cấp mà thể hiện qua cách bạn đối đãi với tha nhân giữa những thử thách đời thường."
+    }
+  ]
+}

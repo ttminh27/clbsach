@@ -1,0 +1,188 @@
+{
+  "bookId": "DacNhanTam",
+  "chapterId": "Phan_1_Chuong_03_Ai_lam_duoc_dieu_duoi_day_nguoi_do_se_co_ca_the_gioi",
+  "chapterTitle": "Chương 3: Ai làm được điều dưới đây, người đó sẽ có cả thế giới",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Hình ảnh ẩn dụ đi câu cá của Dale Carnegie: 'Tại sao khi đi câu cá, chúng ta móc giun vào lưỡi câu chứ không phải món dâu tây dầm kem mà chúng ta thích ăn?' mang bài học sâu sắc nào?",
+      "options": [
+        "Muốn thu hút và thuyết phục người khác, phải nói về điều HỌ MUỐN và HỌ THÍCH, chứ không phải áp đặt sở thích hay nhu cầu của chính chúng ta lên họ.",
+        "Đi câu cá đòi hỏi sự kiên nhẫn hơn là kỹ năng giao tiếp.",
+        "Dâu tây dầm kem quá đắt đỏ để dùng làm mồi câu.",
+        "Cá thích ăn những món rẻ tiền hơn con người."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sai lầm phổ biến nhất của con người là luôn nói về điều MÌNH muốn; nghệ thuật thuyết phục là đặt mồi câu bằng thứ ĐỐI PHƯƠNG khao khát."
+    },
+    {
+      "id": "q2",
+      "question": "Câu chuyện Ralph Waldo Emerson và con trai dùng hết sức đẩy một con bê vào chuồng nhưng thất bại, trong khi cô hầu gái chỉ cần đưa ngón tay cho con bê mút để nó ngoan ngoãn đi theo minh họa cho điều gì?",
+      "options": [
+        "Vũ lực và sự ép buộc chỉ tạo ra phản xạ chống cự; thấu hiểu bản năng và đáp ứng nhu cầu tự nhiên của đối phương sẽ giải quyết vấn đề dễ dàng.",
+        "Con bê thích sữa hơn là thức ăn gia súc.",
+        "Emerson là một nhà triết học không có kinh nghiệm thực tế.",
+        "Phụ nữ luôn có thể lực tốt hơn đàn ông trong việc làm nông."
+      ],
+      "correctIndex": 0,
+      "explanation": "Emerson chỉ nghĩ đến điều ông muốn (bê vào chuồng), còn cô hầu gái nghĩ đến điều con bê muốn (được bú mẹ/mút ngón tay) để dẫn dắt nó tự nguyện bước vào."
+    },
+    {
+      "id": "q3",
+      "question": "Henry Ford đúc kết bí quyết thành công tuyệt đỉnh trong nghệ thuật đối nhân xử thế qua câu nói nào?",
+      "options": [
+        "'Hãy sản xuất những chiếc xe hơi rẻ nhất để đánh bại mọi đối thủ cạnh tranh'.",
+        "'Kỷ luật sắt đá là con đường duy nhất dẫn tới sự thịnh vượng'.",
+        "'Người làm kinh doanh không bao giờ được nhượng bộ trước khách hàng'.",
+        "'Nếu có một bí quyết thành công nào, thì nó nằm ở khả năng thấu hiểu góc nhìn của người khác và nhìn nhận sự việc từ góc độ của họ cũng như từ góc độ của chính mình'."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khả năng đồng cảm và nhìn nhận thế giới qua lăng kính của người khác chính là chìa khóa vàng của mọi cuộc thương lượng và lãnh đạo."
+    },
+    {
+      "id": "q4",
+      "question": "Cách Dale Carnegie xử lý khi khách sạn thông báo tăng giá thuê hội trường lên gấp 3 lần ngay trước ngày khai mạc khóa học mang lại bài học đàm phán kinh điển nào?",
+      "options": [
+        "Chấp nhận thanh toán toàn bộ số tiền tăng thêm mà không phản đối.",
+        "Kêu gọi các học viên đến biểu tình trước cửa khách sạn.",
+        "Lập tức tức giận, đe dọa kiện khách sạn ra tòa hoặc hủy hợp đồng ngay tại chỗ.",
+        "Đến gặp giám đốc, vẽ ra một tờ giấy phân tích hai cột 'Lợi ích' và 'Thiệt hại' cho CHÍNH KHÁCH SẠN nếu họ kiên quyết tăng giá — khiến giám đốc tự nguyện giảm giá chỉ còn tăng nhẹ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Carnegie không hề nhắc đến khó khăn của mình mà chỉ phân tích được - mất từ góc độ lợi nhuận và uy tín của khách sạn, khiến đối tác tự đưa ra quyết định có lợi cho cả hai bên."
+    },
+    {
+      "id": "q5",
+      "question": "Bí quyết giúp Dale Carnegie khiến hai người cháu trai đang học đại học viết thư hồi âm ngay lập tức mà không cần cha mẹ chúng nài nỉ là gì?",
+      "options": [
+        "Viết một bức thư hỏi thăm ân cần và nói rằng ông có gửi kèm một tờ 5 USD, nhưng 'cố tình quên' không nhét tiền vào phong bì — khiến chúng lập tức viết thư cảm ơn và nhắc khéo món quà.",
+        "Gửi tặng mỗi đứa một chiếc ô tô đắt tiền.",
+        "Nhờ cảnh sát địa phương đến trường kiểm tra tình hình của hai cháu.",
+        "Dọa cắt tiền trợ cấp hàng tháng nếu không viết thư."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đánh trúng sự tò mò và quyền lợi thiết thân của người nhận là cách kích hoạt hành động phản hồi nhanh nhất và tự nguyện nhất."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao bức thư chào hàng của công ty quảng cáo gửi cho các đài phát thanh bị Dale Carnegie đánh giá là 'thảm họa và ngớ ngẩn nhất'?",
+      "options": [
+        "Vì bức thư có quá nhiều lỗi chính tả tiếng Anh.",
+        "Toàn bộ bức thư chỉ nói về nhu cầu của công ty gửi ('Chúng tôi muốn...', 'Mục tiêu của chúng tôi là...'), hoàn toàn phớt lờ lợi ích và vấn đề của đài phát thanh nhận thư.",
+        "Vì bức thư được in trên loại giấy chất lượng kém.",
+        "Do công ty gửi thư không cung cấp số điện thoại liên hệ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Không ai quan tâm bạn muốn gì; khách hàng chỉ quan tâm việc bạn có thể giải quyết được vấn đề gì và đem lại lợi ích gì cho họ."
+    },
+    {
+      "id": "q7",
+      "question": "Khi một nhân viên muốn xin tăng lương hoặc đề xuất một dự án mới, cách tiếp cận thông minh nhất theo nguyên tắc này là gì?",
+      "options": [
+        "Chứng minh dự án mới hoặc sự đóng góp của mình sẽ giúp công ty gia tăng doanh thu, tiết kiệm chi phí và đạt được các mục tiêu chiến lược như thế nào.",
+        "So sánh mức lương của mình với các đồng nghiệp khác để đòi công bằng.",
+        "Kể lể về hoàn cảnh khó khăn tài chính gia đình và giá sinh hoạt tăng cao.",
+        "Đe dọa sẽ nghỉ việc ngay lập tức nếu không được đáp ứng yêu cầu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gắn kết mong muốn của mình với sự thành công và lợi ích thiết thực của cấp trên và tổ chức là con đường thuyết phục thuyết phục nhất."
+    },
+    {
+      "id": "q8",
+      "question": "Giáo sư tâm lý học Harry A. Overstreet trong cuốn sách 'Influencing Human Behavior' nhấn mạnh điều gì về hành vi con người?",
+      "options": [
+        "Khen ngợi là hình thức duy nhất để chi phối hành vi.",
+        "'Hành vi con người bắt nguồn từ những mong muốn sâu xa nhất của họ... ai làm được điều này sẽ có cả thế giới; ai không làm được sẽ đi trên con đường cô độc'.",
+        "Không có cách nào có thể tác động đến suy nghĩ của người khác.",
+        "Con người luôn hành động theo sự chỉ dẫn của pháp luật."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khơi gợi được mong muốn tự thân ở người khác là bí quyết tối thượng để nhận được sự cộng tác trung thành và nhiệt huyết."
+    },
+    {
+      "id": "q9",
+      "question": "Trong câu chuyện cậu bé không chịu ăn sáng và hay tè dầm, cha mẹ cậu đã giải quyết thành công như thế nào sau khi áp dụng nguyên tắc của Carnegie?",
+      "options": [
+        "Bỏ mặc cậu bé và chờ đợi cậu tự lớn lên.",
+        "Thuê bác sĩ tâm lý điều trị nội trú cho cậu bé.",
+        "Tìm hiểu điều cậu bé thực sự khao khát (được mặc đồ lót giống người lớn và tự nấu ăn), biến việc ăn sáng thành đặc quyền nấu nướng và mua cho cậu chiếc giường riêng của người lớn.",
+        "Đánh đòn và phạt cậu bé nhịn ăn cho đến khi biết vâng lời."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bằng cách trao cho đứa trẻ cảm giác tự chủ và thỏa mãn mong muốn được làm người lớn, mọi hành vi tiêu cực tự động biến mất không cần ép buộc."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao những người bán hàng xuất sắc không bao giờ 'bán sản phẩm' mà luôn 'bán giải pháp' cho khách hàng?",
+      "options": [
+        "Họ giúp khách hàng nhận ra sản phẩm sẽ giải quyết được nỗi đau, tiết kiệm thời gian hoặc gia tăng hạnh phúc cho cuộc sống của chính khách hàng như thế nào.",
+        "Vì bán giải pháp có giá thành đắt hơn nhiều lần.",
+        "Vì họ không có sản phẩm thực tế để trưng bày.",
+        "Nhằm trốn tránh trách nhiệm bảo hành sau bán hàng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khách hàng không mua máy khoan 5 phân; họ mua cái lỗ khoan 5 phân trên tường. Người bán hàng giỏi luôn tập trung vào kết quả mà khách hàng mong đợi."
+    },
+    {
+      "id": "q11",
+      "question": "Một người có lối sống vị kỷ, chỉ biết đòi hỏi người khác phục vụ mình mà không quan tâm đến cảm xúc của ai sẽ nhận lấy kết cục gì?",
+      "options": [
+        "Sẽ sớm bị cô lập, mọi người xa lánh và phải bước đi trên con đường cô độc không có tri kỷ hay người cộng sự chân thành nào.",
+        "Không gặp bất kỳ trở ngại nào trong cuộc sống.",
+        "Sẽ trở thành lãnh đạo tinh thần của cả cộng đồng.",
+        "Sẽ luôn thành công vang dội trên mọi mặt trận."
+      ],
+      "correctIndex": 0,
+      "explanation": "Luật nhân quả tâm lý: kẻ chỉ nghĩ đến mình sẽ bị cả thế giới quay lưng; người biết nghĩ cho người khác sẽ được cả thế giới đồng hành."
+    },
+    {
+      "id": "q12",
+      "question": "Điều kiện đạo đức cốt lõi khi áp dụng nguyên tắc 'gợi ý mong muốn ở người khác' là gì?",
+      "options": [
+        "Chỉ áp dụng với những người thân trong gia đình.",
+        "Chỉ cần bản thân mình đạt được mục tiêu, đối phương thiệt hại bao nhiêu không quan trọng.",
+        "Phải giữ bí mật tuyệt đối về các điều khoản thỏa thuận.",
+        "Phải tạo ra kết quả đôi bên cùng có lợi (Win-Win), mang lại giá trị thực sự cho đối phương chứ không phải sự lừa gạt, thao túng phục vụ lợi ích một chiều."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đắc Nhân Tâm không dạy mánh khóe lừa đảo; nghệ thuật thuyết phục chân chính phải dựa trên nền tảng đôi bên cùng thắng và tôn trọng quyền lợi của nhau."
+    },
+    {
+      "id": "q13",
+      "question": "Khi bạn muốn ai đó làm một việc gì đó cho bạn, câu hỏi đầu tiên bạn PHẢI tự hỏi chính mình là gì?",
+      "options": [
+        "'Làm cách nào để mình có thể khơi gợi ở người này Ý MUỐN TỰ NGUYỆN làm việc đó?'.",
+        "'Chi phí tối thiểu để thuê họ là bao nhiêu?'.",
+        "'Họ có dám từ chối lời đề nghị của mình không?'.",
+        "'Làm sao để mình ép họ làm việc này nhanh nhất?'."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thay đổi câu hỏi từ 'Làm sao để ép buộc' sang 'Làm sao để gợi ý sự tự nguyện' sẽ thay đổi hoàn toàn chiến lược giao tiếp và kết quả đạt được."
+    },
+    {
+      "id": "q14",
+      "question": "Câu chuyện người bán bảo hiểm Andrew Vermeer trở thành đại lý xuất sắc bằng cách nào khi tiếp cận các chủ trang trại?",
+      "options": [
+        "Nói xấu các công ty bảo hiểm đối thủ cạnh tranh.",
+        "Lắng nghe những lo âu của các chủ trang trại về mùa màng và tương lai gia đình họ, chỉ ra cách bảo hiểm bảo vệ thành quả lao động cả đời của họ.",
+        "Tặng các món quà đắt tiền trước khi giới thiệu gói bảo hiểm.",
+        "Nài nỉ họ mua bảo hiểm vì lòng thương hại."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chân thành quan tâm đến nỗi lo của khách hàng và cung cấp chiếc phao cứu sinh bảo vệ gia đình họ là bí quyết bán hàng đỉnh cao."
+    },
+    {
+      "id": "q15",
+      "question": "Tóm tắt cốt lõi của NGUYÊN TẮC 3 trong 'Đắc Nhân Tâm' là gì?",
+      "options": [
+        "Chỉ giao dịch với những người có chung sở thích.",
+        "Ép buộc người khác bằng các quy định chặt chẽ.",
+        "Gợi cho người khác ý muốn thực hiện điều bạn muốn họ làm.",
+        "Từ bỏ mọi mong muốn của bản thân để làm hài lòng người khác."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nguyên tắc số 3: Biết khơi gợi ở người khác niềm khao khát tự thân để họ hào hứng và tự nguyện hành động hướng tới mục tiêu chung."
+    }
+  ]
+}

@@ -9,59 +9,59 @@
       "question": "Tại sao Albert Einstein lại gọi 'Lãi kép' (Compound Interest) là 'Kỳ quan thứ 8 của thế giới' và đâu là nhân tố có sức mạnh đòn bẩy lớn nhất trong công thức lãi kép?",
       "options": [
         "Nhân tố quy mô số tiền ban đầu; chỉ người có hàng chục tỷ đồng mới tận dụng được lãi kép.",
+        "Nhân tố địa điểm gửi tiền; chỉ gửi tiền ở nước ngoài mới phát huy được lãi kép.",
         "Nhân tố may mắn; lãi kép chỉ hoạt động khi thị trường chứng khoán tăng giá liên tục không giảm.",
-        "Nhân tố THỜI GIAN; khi tiền lãi sinh ra tiếp tục được tái đầu tư để sinh lãi mới qua hàng chục năm, đường cong tài sản sẽ tăng trưởng theo hàm số mũ bùng nổ.",
-        "Nhân tố địa điểm gửi tiền; chỉ gửi tiền ở nước ngoài mới phát huy được lãi kép."
+        "Nhân tố THỜI GIAN; khi tiền lãi sinh ra tiếp tục được tái đầu tư để sinh lãi mới qua hàng chục năm, đường cong tài sản sẽ tăng trưởng theo hàm số mũ bùng nổ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Ma thuật của lãi kép nằm ở biến số Thời gian (n). Bắt đầu càng sớm thì quả cầu tuyết lãi kép lăn càng xa, tạo ra khối tài sản khổng lồ vượt xa tổng số tiền gốc thực tế bỏ ra."
     },
     {
       "id": "q2",
       "question": "Theo 'Quy tắc 72' trong tài chính, nếu bạn đầu tư với mức lợi suất bình quân 8%/năm, số năm cần thiết để số tiền đầu tư ban đầu của bạn TĂNG GẤP ĐÔI là bao nhiêu?",
       "options": [
-        "72 * 8 = 576 năm.",
         "72 / 8 = 9 năm.",
         "8 / 72 = 0.11 năm.",
+        "72 * 8 = 576 năm.",
         "72 - 8 = 64 năm."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Quy tắc 72 là công thức ước tính nhanh: Thời gian nhân đôi = 72 / (Tỷ suất sinh lời %). Với lợi suất 8%/năm, tài sản sẽ nhân đôi sau 72 / 8 = 9 năm."
     },
     {
       "id": "q3",
       "question": "Tại sao tác giả lại gọi 'Lạm phát' (Inflation) là 'Kẻ thù vô hình đáng sợ nhất' của người chuẩn bị quỹ hưu trí?",
       "options": [
+        "Vì lạm phát làm cho các ngân hàng tự động trừ tiền trong tài khoản của người dân mỗi ngày.",
         "Vì lạm phát làm tăng giá cổ phiếu lên vô hạn.",
-        "Vì lạm phát âm thầm bào mòn sức mua thực tế của đồng tiền tiết kiệm theo thời gian; một bát phở 30.000đ hôm nay sau 30 năm với lạm phát 5% có thể lên tới 130.000đ, khiến số tiền dưỡng già dự tính bị thiếu hụt trầm trọng.",
         "Vì lạm phát chỉ xảy ra đối với những người không gửi tiền vào ngân hàng.",
-        "Vì lạm phát làm cho các ngân hàng tự động trừ tiền trong tài khoản của người dân mỗi ngày."
+        "Vì lạm phát âm thầm bào mòn sức mua thực tế của đồng tiền tiết kiệm theo thời gian; một bát phở 30.000đ hôm nay sau 30 năm với lạm phát 5% có thể lên tới 130.000đ, khiến số tiền dưỡng già dự tính bị thiếu hụt trầm trọng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Lạm phát là thuế vô hình làm bốc hơi giá trị thực của tiền mặt. Nếu chỉ giữ tiền mặt hoặc gửi tiết kiệm lãi suất thấp hơn lạm phát thực tế, tài sản sẽ bị teo tóp nghiêm trọng khi về già."
     },
     {
       "id": "q4",
       "question": "Sự chuyển dịch tư duy từ 'Thời đại tiết kiệm' sang 'Thời đại đầu tư' bắt nguồn từ nguyên nhân kinh tế vĩ mô cốt lõi nào?",
       "options": [
+        "Nhà nước cấm người dân gửi tiết kiệm vào hệ thống ngân hàng.",
         "Thời kỳ lãi suất ngân hàng ở mức cao (12-15%) của giai đoạn tăng trưởng nóng đã qua; trong nền kinh tế hiện đại với lãi suất thực tế thấp, chỉ gửi tiết kiệm thuần túy chắc chắn sẽ thua lạm phát, đòi hỏi phải đầu tư vào các kênh tài sản sinh lời.",
         "Thị trường chứng khoán không còn bất kỳ rủi ro nào.",
-        "Nhà nước cấm người dân gửi tiết kiệm vào hệ thống ngân hàng.",
         "Đầu tư là cách duy nhất để không phải nộp thuế thu nhập."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Trong kỷ nguyên lãi suất thấp, lãi suất gửi tiết kiệm chỉ đủ bù đắp một phần lạm phát. Muốn bảo toàn và gia tăng giá trị tài sản hưu trí, cá nhân buộc phải học cách đầu tư bài bản."
     },
     {
       "id": "q5",
       "question": "Khái niệm 'Mạo hiểm là công cụ để đạt được lợi ích' (Risk vs Return) được các tác giả lý giải đúng đắn như thế nào?",
       "options": [
+        "Chấp nhận rủi ro có tính toán và hiểu biết (Calculated Risk), sử dụng việc phân bổ tài sản và đa dạng hóa danh mục đầu tư dài hạn để thu về tỷ suất sinh lời vượt trội hơn lạm phát.",
         "Hoàn toàn tránh né mọi rủi ro bằng cách chôn tiền mặt dưới lòng đất.",
         "Rủi ro càng cao thì tự động chắc chắn sẽ kiếm được càng nhiều tiền mà không cần học hỏi.",
-        "Chấp nhận rủi ro có tính toán và hiểu biết (Calculated Risk), sử dụng việc phân bổ tài sản và đa dạng hóa danh mục đầu tư dài hạn để thu về tỷ suất sinh lời vượt trội hơn lạm phát.",
         "Khuyên người đọc nên đem toàn bộ gia sản tham gia vào các canh bạc đầu cơ lướt sóng vô căn cứ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Không có lợi nhuận nào không đi kèm rủi ro. Người thông minh không trốn tránh rủi ro mà học cách đo lường, kiểm soát và sử dụng rủi ro như một đòn bẩy thông qua đa dạng hóa danh mục."
     },
     {
@@ -69,11 +69,11 @@
       "question": "Phương pháp đầu tư định kỳ vào quỹ mở / chứng chỉ quỹ (Dollar-Cost Averaging - DCA) mang lại lợi thế tâm lý và tài chính vượt trội nào cho nhà đầu tư cá nhân?",
       "options": [
         "Đảm bảo quỹ đầu tư không bao giờ có bất kỳ tháng nào bị giảm giá trị.",
+        "Giúp nhà đầu tư được nhận tiền lãi hàng ngày trực tiếp vào tài khoản thẻ.",
         "Giúp nhà đầu tư luôn luôn mua được đúng đáy và bán ra đúng đỉnh của thị trường chứng khoán.",
-        "Giúp loại bỏ yếu tố cảm xúc phán đoán thị trường, tự động mua được nhiều chứng chỉ quỹ hơn khi giá rẻ và ít hơn khi giá đắt, bình quân hóa giá vốn và tối ưu hóa lợi nhuận dài hạn.",
-        "Giúp nhà đầu tư được nhận tiền lãi hàng ngày trực tiếp vào tài khoản thẻ."
+        "Giúp loại bỏ yếu tố cảm xúc phán đoán thị trường, tự động mua được nhiều chứng chỉ quỹ hơn khi giá rẻ và ít hơn khi giá đắt, bình quân hóa giá vốn và tối ưu hóa lợi nhuận dài hạn."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Chiến lược DCA đầu tư đều đặn hàng tháng giúp nhà đầu tư cá nhân không bị cuốn vào tâm lý FOMO hay hoảng loạn bắt đáy, tận dụng biến động thị trường để hạ thấp giá vốn bình quân."
     },
     {
@@ -81,44 +81,44 @@
       "question": "Đâu là 'Nguyên tắc vàng' để thành công bền vững khi đầu tư vào các quỹ ủy thác đầu tư (Mutual Funds)?",
       "options": [
         "Liên tục mua bán hoán đổi giữa các quỹ hàng tuần để kiếm chênh lệch ngắn hạn.",
-        "Lựa chọn quỹ có lịch sử quản lý uy tín, chi phí quản lý hợp lý, kiên định duy trì kỷ luật tích lũy định kỳ dài hạn (ít nhất 5-10 năm) bất chấp các đợt rung lắc ngắn hạn của thị trường.",
+        "Rút toàn bộ tiền ra khỏi quỹ ngay khi thị trường vừa có đợt điều chỉnh giảm 5%.",
         "Chỉ đầu tư vào quỹ nào có tên gọi độc lạ nhất.",
-        "Rút toàn bộ tiền ra khỏi quỹ ngay khi thị trường vừa có đợt điều chỉnh giảm 5%."
+        "Lựa chọn quỹ có lịch sử quản lý uy tín, chi phí quản lý hợp lý, kiên định duy trì kỷ luật tích lũy định kỳ dài hạn (ít nhất 5-10 năm) bất chấp các đợt rung lắc ngắn hạn của thị trường."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Đầu tư quỹ là cuộc đua marathon dài hạn. Kỷ luật nắm giữ và tích lũy qua các chu kỳ kinh tế mới là yếu tố quyết định thắng lợi, chứ không phải việc lướt sóng nhảy ra nhảy vào."
     },
     {
       "id": "q8",
       "question": "Tại sao 'Bảo hiểm niên kim' (Annuity Insurance) lại được xem là 'chiếc đệm đỡ an toàn tối thượng' cho giai đoạn tuổi già?",
       "options": [
-        "Vì bảo hiểm niên kim cam kết trả lại gấp 10 lần số tiền đóng chỉ sau 1 năm.",
-        "Vì nó cung cấp dòng tiền chi trả đều đặn định kỳ suốt đời cho đến khi người thụ hưởng qua đời, giải quyết triệt để nỗi sợ hãi 'sống quá thọ mà hết tiền'.",
+        "Vì bảo hiểm niên kim thay thế hoàn toàn nhu cầu ăn uống hàng ngày.",
         "Vì mua bảo hiểm niên kim sẽ được miễn toàn bộ tiền điện nước trọn đời.",
-        "Vì bảo hiểm niên kim thay thế hoàn toàn nhu cầu ăn uống hàng ngày."
+        "Vì nó cung cấp dòng tiền chi trả đều đặn định kỳ suốt đời cho đến khi người thụ hưởng qua đời, giải quyết triệt để nỗi sợ hãi 'sống quá thọ mà hết tiền'.",
+        "Vì bảo hiểm niên kim cam kết trả lại gấp 10 lần số tiền đóng chỉ sau 1 năm."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Bảo hiểm niên kim hoạt động như một cỗ máy tạo lương hưu tư nhân trọn đời: sống bao lâu nhận tiền bấy lâu, vô hiệu hóa hoàn toàn rủi ro sống thọ hơn tiền tích lũy."
     },
     {
       "id": "q9",
       "question": "Mô hình 'Ba trụ cột hưu trí' chuẩn mực trong quản lý tài chính hiện đại bao gồm những tầng bảo vệ nào?",
       "options": [
-        "Sổ đỏ nhà ở, Xe ô tô và Đồ trang sức cá nhân.",
         "Trụ cột 1: Bảo hiểm xã hội quốc gia (Lương hưu cơ bản) - Trụ cột 2: Bảo hiểm hưu trí doanh nghiệp/công ty - Trụ cột 3: Quỹ tích lũy & Bảo hiểm niên kim cá nhân tự nguyện.",
+        "Tiền mặt ở nhà, Tiền gửi bạn bè và Tiền gửi họ hàng.",
         "Bảo hiểm xe máy, Bảo hiểm hỏa hoạn và Bảo hiểm du lịch.",
-        "Tiền mặt ở nhà, Tiền gửi bạn bè và Tiền gửi họ hàng."
+        "Sổ đỏ nhà ở, Xe ô tô và Đồ trang sức cá nhân."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Mô hình 3 trụ cột (Nhà nước - Doanh nghiệp - Cá nhân) là kiềng 3 chân vững chắc. Trông cậy vào một chân duy nhất của nhà nước là cực kỳ bấp bênh; tự thân xây dựng trụ cột thứ 3 mới đảm bảo thịnh vượng."
     },
     {
       "id": "q10",
       "question": "Giả sử hai người A và B cùng đầu tư với mức lợi nhuận 10%/năm: Người A đầu tư từ năm 25 tuổi đến 35 tuổi (10 năm) rồi dừng không đóng thêm; Người B từ 35 tuổi mới bắt đầu đóng đều đặn liên tục đến 60 tuổi (25 năm). Kết quả ở tuổi 60 là gì?",
       "options": [
-        "Người A sẽ bị mất hết tiền vì đã dừng đóng sau 10 năm.",
         "Người B chắc chắn sẽ có số tiền gấp đôi người A vì đóng tiền trong thời gian dài gấp 2.5 lần.",
         "Cả hai người sẽ có số tiền chính xác bằng 0.",
+        "Người A sẽ bị mất hết tiền vì đã dừng đóng sau 10 năm.",
         "Nhờ có thêm 10 năm sinh sôi lãi kép ban đầu, khối tài sản của người A ở tuổi 60 hoàn toàn có thể lớn hơn hoặc tương đương người B dù người A bỏ ra tổng vốn gốc ít hơn rất nhiều."
       ],
       "correctIndex": 3,
@@ -128,33 +128,33 @@
       "id": "q11",
       "question": "Tại sao việc chỉ gửi tiền vào 'Sổ tiết kiệm ngân hàng kỳ hạn ngắn' lại tiềm ẩn rủi ro tái đầu tư (Reinvestment Risk) khi lập kế hoạch 30 năm hưu trí?",
       "options": [
-        "Vì ngân hàng luôn từ chối cho người gửi tiền tái tục sổ tiết kiệm.",
         "Vì lãi suất ngân hàng biến động liên tục theo chu kỳ kinh tế; khi lãi suất giảm mạnh trong tương lai, nguồn thu nhập lãi dự tính sẽ sụt giảm nghiêm trọng làm vỡ kế hoạch dòng tiền hưu trí.",
-        "Vì sổ tiết kiệm chỉ có giá trị pháp lý trong vòng 30 ngày.",
-        "Vì tất cả các ngân hàng đều phá sản sau mỗi 5 năm."
+        "Vì ngân hàng luôn từ chối cho người gửi tiền tái tục sổ tiết kiệm.",
+        "Vì tất cả các ngân hàng đều phá sản sau mỗi 5 năm.",
+        "Vì sổ tiết kiệm chỉ có giá trị pháp lý trong vòng 30 ngày."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Gửi tiết kiệm ngắn hạn khiến dòng tiền chịu biến động lãi suất. Khi nền kinh tế bước vào chu kỳ lãi suất cận 0, thu nhập từ lãi tiền gửi sẽ teo tóp và không đủ trang trải sinh hoạt."
     },
     {
       "id": "q12",
       "question": "Lập kế hoạch tài chính cho 'Một gia đình hạnh phúc' đòi hỏi sự đồng thuận và tham gia của những ai?",
       "options": [
-        "Cả hai vợ chồng cần cởi mở chia sẻ, thống nhất mục tiêu tài chính chung, phân định rõ ngân sách và cùng nhau xây dựng kế hoạch hưu trí có sự thấu hiểu của con cái.",
-        "Chỉ cần nhờ người hàng xóm lên kế hoạch giúp.",
         "Chỉ riêng người đàn ông trụ cột trong gia đình tự quyết định và giấu kín mọi thông tin.",
+        "Chỉ cần nhờ người hàng xóm lên kế hoạch giúp.",
+        "Cả hai vợ chồng cần cởi mở chia sẻ, thống nhất mục tiêu tài chính chung, phân định rõ ngân sách và cùng nhau xây dựng kế hoạch hưu trí có sự thấu hiểu của con cái.",
         "Chỉ cần con cái quyết định toàn bộ việc chi tiêu của cha mẹ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Tài chính gia đình là công việc đồng đội. Nếu hai vợ chồng 'trống đánh xuôi kèn thổi ngược' trong chi tiêu và đầu tư thì không kế hoạch tài chính nào có thể thành công."
     },
     {
       "id": "q13",
       "question": "Khi thị trường tài chính xảy ra khủng hoảng sụt giảm mạnh, phản ứng chuẩn xác nhất của một nhà đầu tư quỹ hưu trí định kỳ dài hạn là gì?",
       "options": [
+        "Đi vay nợ nóng để mua thêm gấp 10 lần số lượng cổ phiếu rác.",
         "Khiếu nại cơ quan quản lý đóng cửa thị trường tài chính.",
         "Hoảng loạn bán tháo toàn bộ chứng chỉ quỹ ở đáy để rút tiền mặt về cất két.",
-        "Đi vay nợ nóng để mua thêm gấp 10 lần số lượng cổ phiếu rác.",
         "Bình tĩnh duy trì kỷ luật tích lũy định kỳ, xem đây là cơ hội tuyệt vời để mua được nhiều tài sản giá trị với mức giá 'siêu giảm giá' (Sale-off) nhằm gia tăng lợi nhuận bùng nổ khi thị trường hồi phục."
       ],
       "correctIndex": 3,
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Điều gì phân biệt một 'khoản đầu tư thông minh' với một 'trò cá cược đầu cơ' trong hoạch định quỹ tuổi già?",
       "options": [
-        "Đầu tư thông minh dựa trên nghiên cứu cơ bản, giá trị nội tại, tầm nhìn dài hạn và phân bổ rủi ro; còn đầu cơ dựa trên tin đồn, lòng tham ngắn hạn và mong muốn giàu nhanh sau một đêm.",
         "Đầu tư thông minh là việc mua bất động sản, đầu cơ là việc mua chứng chỉ quỹ.",
         "Đầu cơ luôn mang lại lợi nhuận chắc chắn hơn đầu tư.",
-        "Không có bất kỳ sự khác biệt nào giữa hai khái niệm."
+        "Không có bất kỳ sự khác biệt nào giữa hai khái niệm.",
+        "Đầu tư thông minh dựa trên nghiên cứu cơ bản, giá trị nội tại, tầm nhìn dài hạn và phân bổ rủi ro; còn đầu cơ dựa trên tin đồn, lòng tham ngắn hạn và mong muốn giàu nhanh sau một đêm."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Quỹ hưu trí là khoản tiền sinh mạng cho 30 năm cuối đời; tuyệt đối không được mang khoản tiền này đánh cược vào các trò đầu cơ lướt sóng theo phong trào thiếu hiểu biết."
     },
     {
@@ -177,11 +177,11 @@
       "question": "Lời kêu gọi 'Nào, bây giờ hãy bắt đầu!' ở cuối chương 3 truyền tải tinh thần cốt lõi nào?",
       "options": [
         "Hãy nghỉ việc ngay hôm nay để bắt đầu cuộc sống hưu trí.",
-        "Chỉ cần suy nghĩ tích cực là tiền bạc sẽ tự động sinh sôi mà không cần làm gì.",
         "Thời điểm hoàn hảo nhất để trồng cây là 20 năm trước, thời điểm tốt thứ hai là NGAY BÂY GIỜ; đừng trì hoãn thêm một ngày nào nữa trên hành trình tích lũy thịnh vượng.",
+        "Chỉ cần suy nghĩ tích cực là tiền bạc sẽ tự động sinh sôi mà không cần làm gì.",
         "Hãy chờ đợi thời điểm thị trường hoàn hảo nhất rồi mới bắt đầu hành động."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Hành động ngay lập tức là chìa khóa. Mọi lý thuyết tuyệt vời về lãi kép và đầu tư sẽ trở nên vô nghĩa nếu bạn không bắt đầu mở tài khoản và trích lập khoản tích lũy đầu tiên ngay hôm nay."
     }
   ]

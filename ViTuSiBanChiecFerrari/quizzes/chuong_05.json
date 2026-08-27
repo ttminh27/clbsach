@@ -9,31 +9,31 @@
       "question": "Câu chuyện ngụ ngôn bí truyền của Triết gia Raman gồm có bao nhiêu biểu tượng chính đại diện cho 7 nguyên tắc vàng?",
       "options": [
         "12 biểu tượng tương ứng với 12 cung hoàng đạo phương Tây.",
-        "7 biểu tượng: Khu vườn tuyệt đẹp, Ngọn hải đăng, Võ sĩ Sumo, Chiếc khố bằng dây cáp, Chiếc đồng hồ bấm giờ, Những bông hồng, Con đường kim cương.",
+        "5 biểu tượng: Kim, Mộc, Thủy, Hỏa, Thổ.",
         "3 biểu tượng: Chiếc xe Ferrari, Thanh kiếm samurai và Dãy núi tuyết Himalaya.",
-        "5 biểu tượng: Kim, Mộc, Thủy, Hỏa, Thổ."
+        "7 biểu tượng: Khu vườn tuyệt đẹp, Ngọn hải đăng, Võ sĩ Sumo, Chiếc khố bằng dây cáp, Chiếc đồng hồ bấm giờ, Những bông hồng, Con đường kim cương."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Câu chuyện ngụ ngôn kết nối khéo léo 7 hình ảnh biểu tượng thành một chuỗi sự kiện kỳ ảo, giúp người học dễ dàng nhớ trọn bộ 7 nguyên tắc khai sáng."
     },
     {
       "id": "q2",
       "question": "Trong câu chuyện ngụ ngôn, hình ảnh 'Khu vườn rực rỡ ngập tràn muôn hoa thơm ngát' tượng trưng cho điều gì?",
       "options": [
-        "Khu công viên giải trí công cộng tại trung tâm thủ đô New Delhi.",
-        "Một môi trường làm việc lý tưởng không có bất kỳ áp lực công việc nào.",
         "Sự phong phú của tài sản vật chất và bất động sản mà con người tích lũy.",
-        "Tâm trí con người: Mảnh đất màu mỡ cần được canh giữ, chăm sóc và gieo trồng những hạt giống tư duy tích cực mỗi ngày."
+        "Tâm trí con người: Mảnh đất màu mỡ cần được canh giữ, chăm sóc và gieo trồng những hạt giống tư duy tích cực mỗi ngày.",
+        "Một môi trường làm việc lý tưởng không có bất kỳ áp lực công việc nào.",
+        "Khu công viên giải trí công cộng tại trung tâm thủ đô New Delhi."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Khu vườn là tâm trí; nếu bạn không gieo hoa thơm (suy nghĩ tích cực), cỏ dại (lo âu, tiêu cực) sẽ tự động mọc đầy và phá hủy cuộc đời bạn."
     },
     {
       "id": "q3",
       "question": "Hình ảnh 'Ngọn hải đăng cao vút đứng sừng sững giữa khu vườn' biểu thị cho nguyên tắc nào?",
       "options": [
-        "Công trình kiến trúc phục vụ cho các tàu thuyền đi biển.",
         "Biểu tượng của sự cô độc và kiêu ngạo của một người thành đạt.",
+        "Công trình kiến trúc phục vụ cho các tàu thuyền đi biển.",
         "Theo đuổi mục đích sống (Purpose): Ngọn đèn soi đường chỉ lối, dẫn dắt con người vượt qua bão táp cuộc đời để cập bến bình an.",
         "Công cụ đo lường thời tiết và dự báo thiên tai của tu viện."
       ],
@@ -56,36 +56,36 @@
       "id": "q5",
       "question": "Hình ảnh võ sĩ Sumo mặc 'Chiếc khố được bện bằng những sợi dây cáp màu hồng' đại diện cho nguyên tắc nào?",
       "options": [
-        "Một công cụ bảo hộ lao động dành cho công nhân xây dựng ngọn hải đăng.",
         "Sức mạnh của tính kỷ luật và ý chí sắt đá (Self-Control & Willpower): Mỗi hành động kỷ luật nhỏ bé như một sợi chỉ mỏng, khi bện lại sẽ tạo thành sợi cáp thép bất khả chiến bại.",
         "Xu hướng thời trang độc đáo của các võ sĩ thi đấu quốc tế.",
-        "Sự thiếu thốn trang phục truyền thống của người dân miền núi tuyết."
+        "Sự thiếu thốn trang phục truyền thống của người dân miền núi tuyết.",
+        "Một công cụ bảo hộ lao động dành cho công nhân xây dựng ngọn hải đăng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Chiếc khố dây cáp nhắc nhở rằng kỷ luật không phải tự nhiên có mà được dệt nên từ hàng ngàn thói quen nhỏ lặp đi lặp lại hàng ngày."
     },
     {
       "id": "q6",
       "question": "Chi tiết võ sĩ Sumo vô tình giẫm phải 'Một chiếc đồng hồ bấm giờ bằng vàng rơi trên mặt đất và bị ngất xỉu' mang ý nghĩa gì?",
       "options": [
-        "Báo hiệu thời khắc nghỉ ngơi sau một ngày làm việc mệt nhọc.",
         "Sự nguy hiểm của các đồ vật kim loại nhọn đối với bàn chân trần.",
-        "Chiếc đồng hồ vàng là món đồ trang sức đắt tiền nhất trong câu chuyện.",
-        "Tôn trọng thời gian (Respecting Your Time): Thời gian là tài sản quý giá nhất, lãng phí thời gian sẽ làm tê liệt toàn bộ tiềm năng và sức mạnh của con người."
+        "Báo hiệu thời khắc nghỉ ngơi sau một ngày làm việc mệt nhọc.",
+        "Tôn trọng thời gian (Respecting Your Time): Thời gian là tài sản quý giá nhất, lãng phí thời gian sẽ làm tê liệt toàn bộ tiềm năng và sức mạnh của con người.",
+        "Chiếc đồng hồ vàng là món đồ trang sức đắt tiền nhất trong câu chuyện."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Đồng hồ vàng là biểu tượng của thời gian; khi con người không biết trân quý thời gian, mọi nội lực (võ sĩ Sumo) đều bị suy sụp và vô hiệu hóa."
     },
     {
       "id": "q7",
       "question": "Hương thơm ngào ngạt của 'Những bông hoa hồng vàng tuyệt đẹp nở rộ bên cạnh' đã đánh thức võ sĩ Sumo dậy, biểu thị cho bài học gì?",
       "options": [
-        "Tác dụng chữa say nắng của tinh dầu hoa hồng trong y học cổ truyền.",
         "Sở thích sưu tầm các loài hoa lạ của võ sĩ Sumo sau khi tỉnh dậy.",
-        "Loài hoa hồng vàng là loài hoa đắt giá nhất trên thị trường xuất khẩu.",
-        "Phụng sự tha nhân vị tha (Selflessly Serving Others): Lòng trắc ẩn và việc giúp đỡ người khác có sức mạnh hồi sinh tâm hồn và mang lại ý nghĩa tối thượng cho sự sống."
+        "Tác dụng chữa say nắng của tinh dầu hoa hồng trong y học cổ truyền.",
+        "Phụng sự tha nhân vị tha (Selflessly Serving Others): Lòng trắc ẩn và việc giúp đỡ người khác có sức mạnh hồi sinh tâm hồn và mang lại ý nghĩa tối thượng cho sự sống.",
+        "Loài hoa hồng vàng là loài hoa đắt giá nhất trên thị trường xuất khẩu."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Bông hoa hồng tượng trưng cho sự phụng sự; khi bạn mở lòng trao đi giá trị cho tha nhân, chính nguồn năng lượng yêu thương đó sẽ nâng đỡ và chữa lành cuộc đời bạn."
     },
     {
@@ -94,34 +94,34 @@
       "options": [
         "Phần thưởng vật chất khổng lồ mà võ sĩ nhận được sau khi thắng trận đấu.",
         "Ảo giác xuất hiện trong cơn mê sảng sau khi bị chấn thương đầu.",
-        "Sống trọn vẹn trong giây phút hiện tại (Embracing the Present): Hạnh phúc đích thực nằm trên từng bước chân của hiện tại chứ không phải ở đích đến tương lai.",
-        "Một con đường cao tốc hiện đại nối liền ngôi làng Sivana với thế giới bên ngoài."
+        "Một con đường cao tốc hiện đại nối liền ngôi làng Sivana với thế giới bên ngoài.",
+        "Sống trọn vẹn trong giây phút hiện tại (Embracing the Present): Hạnh phúc đích thực nằm trên từng bước chân của hiện tại chứ không phải ở đích đến tương lai."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Con đường kim cương là biểu tượng của hiện tại nhiệm màu; mỗi giây phút bạn đang thở, đang sống và yêu thương đều quý giá như một viên kim cương vô giá."
     },
     {
       "id": "q9",
       "question": "Tại sao câu chuyện ngụ ngôn này ban đầu lại khiến John cảm thấy kỳ quặc và buồn cười?",
       "options": [
-        "Vì John không thích các nhân vật hoạt hình trong văn hóa phương Đông.",
         "Vì Julian kể chuyện với một giọng điệu hài hước mang tính châm biếm.",
-        "Vì các hình ảnh tưởng chừng như vô lý và tương phản gay gắt (võ sĩ Sumo mặc khố dây cáp màu hồng giữa vườn hoa) thách thức lối tư duy logic cứng nhắc của một luật sư.",
-        "Vì câu chuyện được dịch sai nghĩa từ tiếng Hindi sang tiếng Anh."
+        "Vì câu chuyện được dịch sai nghĩa từ tiếng Hindi sang tiếng Anh.",
+        "Vì John không thích các nhân vật hoạt hình trong văn hóa phương Đông.",
+        "Vì các hình ảnh tưởng chừng như vô lý và tương phản gay gắt (võ sĩ Sumo mặc khố dây cáp màu hồng giữa vườn hoa) thách thức lối tư duy logic cứng nhắc của một luật sư."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Chính sự tương phản và kỳ lạ đó là chủ ý của các Hiền triết Sivana để 'bẻ gãy' sự bảo thủ của lý trí và in hằn các biểu tượng vào sâu trong trí nhớ dài hạn."
     },
     {
       "id": "q10",
       "question": "Julian đã giải thích như thế nào về mối liên kết giữa 7 biểu tượng trong câu chuyện?",
       "options": [
-        "Chúng là 7 cấp bậc tu luyện riêng biệt mà mỗi người chỉ được chọn 1 cấp bậc để thực hành suốt đời.",
         "Chúng tạo thành một tiến trình hoàn chỉnh: Kiểm soát tâm trí -> Xác định mục đích -> Rèn luyện bản thân -> Kỷ luật kiên trì -> Quản lý thời gian -> Phụng sự cuộc đời -> Tận hưởng hiện tại.",
+        "Chúng là 7 lời tiên tri về tương lai của nền kinh tế thế giới trong thế kỷ 21.",
         "Chúng là các câu đố mẹo dân gian không có sự liên quan logic nào về mặt hành vi.",
-        "Chúng là 7 lời tiên tri về tương lai của nền kinh tế thế giới trong thế kỷ 21."
+        "Chúng là 7 cấp bậc tu luyện riêng biệt mà mỗi người chỉ được chọn 1 cấp bậc để thực hành suốt đời."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Toàn bộ 7 biểu tượng tạo nên một chu trình phát triển nhân cách toàn diện và hoàn hảo từ trong ra ngoài (Inside-Out)."
     },
     {
@@ -129,9 +129,9 @@
       "question": "Nguyên lý 'Tâm thế của một môn sinh' (Student of Wisdom) yêu cầu người học phải có thái độ như thế nào?",
       "options": [
         "Tuyệt đối tuân theo mệnh lệnh của người hướng dẫn mà không bao giờ được đặt câu hỏi.",
-        "Chỉ học những kiến thức giúp mình kiếm được nhiều tiền trong thời gian ngắn nhất.",
+        "Xem nhẹ mọi kinh nghiệm thực tế và chỉ tin vào sách vở lý thuyết.",
         "Luôn duy trì sự hiếu kỳ, khát khao học hỏi không ngừng, không để sự hiểu biết hữu hạn biến thành rào cản tự mãn ngăn chặn sự tiến bộ.",
-        "Xem nhẹ mọi kinh nghiệm thực tế và chỉ tin vào sách vở lý thuyết."
+        "Chỉ học những kiến thức giúp mình kiếm được nhiều tiền trong thời gian ngắn nhất."
       ],
       "correctIndex": 2,
       "explanation": "Người có trí tuệ thực sự là người luôn thấy mình còn nhiều điều phải học; sự kiêu ngạo về tri thức là dấu chấm hết cho sự tiến bộ."
@@ -140,12 +140,12 @@
       "id": "q12",
       "question": "Ý nghĩa của màu hồng trên 'Chiếc khố bằng dây cáp' của võ sĩ Sumo là gì?",
       "options": [
-        "Màu sắc may mắn theo phong thủy của người dân Nhật Bản.",
-        "Màu áo thi đấu bắt buộc của hiệp hội Sumo quốc tế.",
+        "Nhắc nhở về sự nhẹ nhàng, tình yêu thương và lòng từ bi đối với bản thân trong suốt quá trình rèn luyện kỷ luật nghiêm ngặt.",
         "Dấu hiệu cảnh báo nguy hiểm đối với những người xung quanh.",
-        "Nhắc nhở về sự nhẹ nhàng, tình yêu thương và lòng từ bi đối với bản thân trong suốt quá trình rèn luyện kỷ luật nghiêm ngặt."
+        "Màu sắc may mắn theo phong thủy của người dân Nhật Bản.",
+        "Màu áo thi đấu bắt buộc của hiệp hội Sumo quốc tế."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Dây cáp thép tượng trưng cho kỷ luật sắt đá, nhưng màu hồng đại diện cho lòng trắc ẩn; kỷ luật tự giác phải được xây dựng trên tình yêu thương chứ không phải sự bạo lực nội tâm."
     },
     {
@@ -154,8 +154,8 @@
       "options": [
         "Vì người đọc không cần phải tư duy mà chỉ cần tưởng tượng hình ảnh.",
         "Vì một câu chuyện ngụ ngôn sinh động có thể được hồi tưởng lại ngay lập tức trong tâm trí bất cứ khi nào bạn đối diện với nghịch cảnh hay bế tắc.",
-        "Vì câu chuyện ngụ ngôn không có bản quyền tác giả nên có thể tự do sao chép.",
-        "Vì các cuốn sách dày thường chứa đựng những thông tin sai lệch về mặt khoa học."
+        "Vì các cuốn sách dày thường chứa đựng những thông tin sai lệch về mặt khoa học.",
+        "Vì câu chuyện ngụ ngôn không có bản quyền tác giả nên có thể tự do sao chép."
       ],
       "correctIndex": 1,
       "explanation": "Câu chuyện là chiếc 'móc neo' tâm lý (mental anchor); chỉ cần nhớ đến một hình ảnh (như ngọn hải đăng hay bông hoa hồng), toàn bộ bài học tương ứng sẽ lập tức hiện ra soi đường cho bạn."
@@ -164,24 +164,24 @@
       "id": "q14",
       "question": "Phản ứng của John sau khi nghe giải thích trọn vẹn ý nghĩa của 7 biểu tượng là gì?",
       "options": [
-        "Anh yêu cầu Julian phải viết cam kết bồi thường nếu phương pháp này không hiệu quả.",
-        "Sự thất vọng vì câu chuyện không có yếu tố phép thuật siêu nhiên như anh kỳ vọng.",
         "Sự thán phục sâu sắc trước sự tinh tế, uyên bác của các Hiền triết Sivana và háo hức muốn đi sâu vào chi tiết của từng nguyên tắc.",
-        "Sự nghi ngờ rằng Julian đã tự mình bịa ra toàn bộ câu chuyện để trêu chọc anh."
+        "Sự nghi ngờ rằng Julian đã tự mình bịa ra toàn bộ câu chuyện để trêu chọc anh.",
+        "Sự thất vọng vì câu chuyện không có yếu tố phép thuật siêu nhiên như anh kỳ vọng.",
+        "Anh yêu cầu Julian phải viết cam kết bồi thường nếu phương pháp này không hiệu quả."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "John đã nhận ra vẻ đẹp tuyệt mỹ và tính thực tiễn phi thường của hệ thống 7 biểu tượng, xóa tan mọi hoài nghi ban đầu."
     },
     {
       "id": "q15",
       "question": "Bài học then chốt kết thúc Chương 5 mở đường cho toàn bộ phần thực hành chi tiết tiếp theo là gì?",
       "options": [
-        "'Biết thôi chưa đủ, phải áp dụng; muốn thôi chưa đủ, phải hành động' - câu chuyện ngụ ngôn là tấm bản đồ, nhưng bạn phải tự mình bước đi trên con đường đó.",
         "Chỉ cần tưởng tượng về 7 biểu tượng mỗi ngày là cuộc sống sẽ tự động trở nên giàu có.",
         "Việc rèn luyện chỉ nên bắt đầu khi bạn đã nghỉ hưu và không còn vướng bận công việc.",
-        "Nên in câu chuyện ngụ ngôn ra giấy và treo ở phòng khách để trừ tà khí."
+        "Nên in câu chuyện ngụ ngôn ra giấy và treo ở phòng khách để trừ tà khí.",
+        "'Biết thôi chưa đủ, phải áp dụng; muốn thôi chưa đủ, phải hành động' - câu chuyện ngụ ngôn là tấm bản đồ, nhưng bạn phải tự mình bước đi trên con đường đó."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Tri thức chỉ là sức mạnh tiềm năng; nó chỉ trở thành sức mạnh thực sự khi được chuyển hóa thành các hành động kỷ luật bền bỉ mỗi ngày."
     }
   ]

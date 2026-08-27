@@ -128,6 +128,18 @@ const placeholderMetadata = {
     gradient: "from-blue-700 to-teal-900",
     themeColor: "#0369a1",
     status: "available"
+  },
+  "DacNhanTam": {
+    title: "Đắc Nhân Tâm",
+    originalTitle: "How to Win Friends and Influence People",
+    author: "Dale Carnegie",
+    translator: "First News - Trí Việt",
+    category: "Nghệ thuật giao tiếp & Phát triển bản thân",
+    tags: ["Đắc nhân tâm", "Giao tiếp", "Thu phục lòng người", "Ứng xử", "Lãnh đạo", "Thành công", "Tâm lý học"],
+    description: "Tác phẩm kinh điển nhất mọi thời đại về nghệ thuật đối nhân xử thế, thu phục lòng người và xây dựng các mối quan hệ bền vững, chân thành của Dale Carnegie.",
+    gradient: "from-amber-600 to-red-700",
+    themeColor: "#c2410c",
+    status: "available"
   }
 };
 
@@ -188,7 +200,7 @@ for (const bookId of bookDirs) {
   };
 
   const files = fs.readdirSync(bookPath);
-  let mdFiles = files.filter(f => f.endsWith('.md') && f.toLowerCase() !== 'readme.md');
+  let mdFiles = files.filter(f => f.endsWith('.md') && !['readme.md', 'muc_luc.md'].includes(f.toLowerCase()));
   let coverUrl = null;
   const coverCandidates = [
     'cover.jpg', 'cover.png', 'cover.jpeg', 'cover.webp',
@@ -252,9 +264,11 @@ for (const bookId of bookDirs) {
       title = chapterH1 || h1Matches[0];
     }
 
-    // Extract subtitle if exists
-    const matchH3 = content.match(/^###\s+(.+)$/m);
-    const subtitle = matchH3 ? matchH3[1].replace(/^\*+|\*+$/g, '').trim() : undefined;
+    // Extract subtitle if exists in header area
+    const headerLines = content.split('\n').slice(0, 15).join('\n');
+    const matchH3 = headerLines.match(/^###\s+(.+)$/m);
+    const rawSubtitle = matchH3 ? matchH3[1].replace(/^\*+|\*+$/g, '').trim() : undefined;
+    const subtitle = (rawSubtitle && !/^(chú thích|ghi chú|tham khảo|footnotes?)$/i.test(rawSubtitle)) ? rawSubtitle : undefined;
 
     // Word count & reading time estimate (~200 words per min)
     const wordCount = content.split(/\s+/).filter(Boolean).length;

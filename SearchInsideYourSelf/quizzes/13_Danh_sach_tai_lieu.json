@@ -8,9 +8,9 @@
       "id": "q1",
       "question": "Cuốn sách kinh điển nào của Daniel Goleman được giới thiệu đầu tiên trong danh mục sách về Trí thông minh cảm xúc?",
       "options": [
-        "'Chiến Tranh và Hòa Bình' của Tolstoy.",
-        "'Emotional Intelligence: Why It Can Matter More Than IQ' (Trí Tuệ Cảm Xúc: Vì Sao EQ Quan Trọng Hơn IQ).",
         "'Nhà Giả Kim' của Paulo Coelho.",
+        "'Emotional Intelligence: Why It Can Matter More Than IQ' (Trí Tuệ Cảm Xúc: Vì Sao EQ Quan Trọng Hơn IQ).",
+        "'Chiến Tranh và Hòa Bình' của Tolstoy.",
         "'Harry Potter và Hòn Đá Phù Thủy'."
       ],
       "correctIndex": 1,
@@ -20,24 +20,24 @@
       "id": "q2",
       "question": "Cuốn sách 'Full Catastrophe Living' (Sống Trọn Vẹn Trong Thảm Họa Cuộc Đời) của Jon Kabat-Zinn được gợi ý cho đối tượng độc giả nào?",
       "options": [
-        "Những người muốn học lái máy bay trực thăng cứu hộ.",
-        "Những người đang phải đối mặt với căng thẳng mãn tính, cơn đau thể xác, bệnh tật hoặc những khủng hoảng tâm lý nặng nề muốn học phương pháp MBSR để chữa lành.",
         "Những người thích xem phim về thảm họa thiên tai.",
-        "Trẻ em mầm non đang tập đọc."
+        "Trẻ em mầm non đang tập đọc.",
+        "Những người đang phải đối mặt với căng thẳng mãn tính, cơn đau thể xác, bệnh tật hoặc những khủng hoảng tâm lý nặng nề muốn học phương pháp MBSR để chữa lành.",
+        "Những người muốn học lái máy bay trực thăng cứu hộ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Cuốn sách hướng dẫn chi tiết toàn bộ chương trình MBSR 8 tuần giúp chuyển hóa mối quan hệ với nỗi đau và tìm thấy sự an lành giữa tâm bão cuộc đời."
     },
     {
       "id": "q3",
       "question": "Tác phẩm 'Mindset: The New Psychology of Success' của Giáo sư Carol Dweck (Đại học Stanford) trong danh mục đọc thêm phân tích về khái niệm đột phá nào?",
       "options": [
-        "Cách kiếm tiền trên thị trường chứng khoán trong 7 ngày.",
-        "Tư duy cố định (Fixed mindset) và Tư duy phát triển (Growth mindset).",
+        "Các loại thuốc tăng cường trí nhớ cho sinh viên.",
         "Nghệ thuật thôi miên đối phương trong đàm phán.",
-        "Các loại thuốc tăng cường trí nhớ cho sinh viên."
+        "Tư duy cố định (Fixed mindset) và Tư duy phát triển (Growth mindset).",
+        "Cách kiếm tiền trên thị trường chứng khoán trong 7 ngày."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tư duy phát triển (Growth mindset) tin rằng trí thông minh và phẩm chất có thể được rèn luyện qua nỗ lực – nền tảng cốt lõi cho việc học hỏi EQ."
     },
     {
@@ -45,35 +45,35 @@
       "question": "Cuốn sách 'The Miracle of Mindfulness' (Phép Lạ Của Sự Tỉnh Thức) của Thiền sư Thích Nhất Hạnh được Meng ca ngợi vì giá trị gì?",
       "options": [
         "Dạy các câu thần chú kỳ bí có thể làm biến mất đồ vật.",
-        "Vẻ đẹp thi ca giản dị, trong sáng và những bài thực hành chánh niệm nhẹ nhàng giúp người đọc chạm vào sự bình an và mầu nhiệm của sự sống ngay trong hiện tại.",
         "Hướng dẫn cách xây dựng chùa chiền tại châu Âu.",
+        "Vẻ đẹp thi ca giản dị, trong sáng và những bài thực hành chánh niệm nhẹ nhàng giúp người đọc chạm vào sự bình an và mầu nhiệm của sự sống ngay trong hiện tại.",
         "Cuốn sách chỉ dành riêng cho các nhà sư tu viện."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tác phẩm của Thiền sư Thích Nhất Hạnh là một viên ngọc quý truyền cảm hứng cho hàng triệu người phương Tây tiếp cận chánh niệm qua những hành vi giản dị như rửa bát, ăn cơm, mỉm cười."
     },
     {
       "id": "q5",
       "question": "Tác phẩm 'Buddha's Brain' (Bộ Não Của Phật) của Tiến sĩ Rick Hanson trong danh sách tài liệu giải thích điều gì?",
       "options": [
-        "Các quy tắc ăn chay của các nhà sư.",
-        "Lịch sử khảo cổ học về các bức tượng Phật thời cổ đại.",
         "Khoa học thần kinh thực hành về hạnh phúc, tình yêu thương và sự thông thái: cách tự điều chỉnh cấu trúc não bộ bằng các trải nghiệm tâm lý tích cực.",
-        "Phẫu thuật sọ não trong y học hiện đại."
+        "Phẫu thuật sọ não trong y học hiện đại.",
+        "Các quy tắc ăn chay của các nhà sư.",
+        "Lịch sử khảo cổ học về các bức tượng Phật thời cổ đại."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Rick Hanson kết hợp nhuần nhuyễn giữa tuệ giác Phật giáo cổ xưa và khoa học thần kinh hiện đại để hướng dẫn người đọc tự 'tái cấu trúc bộ não' vì hạnh phúc."
     },
     {
       "id": "q6",
       "question": "Cuốn sách 'Wherever You Go, There You Are' của Jon Kabat-Zinn mang lại thông điệp cốt lõi nào cho người mới bắt đầu thiền?",
       "options": [
-        "Dù bạn đi đâu, bạn vẫn luôn mang theo chính tâm trí mình; do đó hãy học cách an trú và tĩnh lặng ngay tại nơi bạn đang đứng mà không cần trốn chạy đi đâu.",
-        "Bạn phải đi du lịch khắp thế giới mới tìm thấy sự bình an.",
         "Địa lý quyết định 100% số phận của con người.",
-        "Bạn nên mua một chiếc la bàn định hướng bỏ túi."
+        "Dù bạn đi đâu, bạn vẫn luôn mang theo chính tâm trí mình; do đó hãy học cách an trú và tĩnh lặng ngay tại nơi bạn đang đứng mà không cần trốn chạy đi đâu.",
+        "Bạn nên mua một chiếc la bàn định hướng bỏ túi.",
+        "Bạn phải đi du lịch khắp thế giới mới tìm thấy sự bình an."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Bình an không nằm ở địa điểm bên ngoài; bình an là một trạng thái tâm thức có thể được nuôi dưỡng ở bất cứ nơi đâu bạn có mặt."
     },
     {
@@ -92,12 +92,12 @@
       "id": "q8",
       "question": "Cuốn sách 'Difficult Conversations: How to Discuss What Matters Most' của Nhóm Đàm phán Harvard trong danh mục đọc thêm hướng dẫn kỹ năng gì?",
       "options": [
-        "Khung phương pháp luận thực tế để xử lý những cuộc đối thoại xung đột, căng thẳng và nhạy cảm trong công việc và cuộc sống gia đình một cách hòa ái và hiệu quả.",
-        "Cách viết thư nặc danh chỉ trích đồng nghiệp.",
         "Cách nói tiếng nước ngoài trôi chảy trong 30 ngày.",
-        "Cách ngắt lời người khác mà không bị phát hiện."
+        "Cách ngắt lời người khác mà không bị phát hiện.",
+        "Cách viết thư nặc danh chỉ trích đồng nghiệp.",
+        "Khung phương pháp luận thực tế để xử lý những cuộc đối thoại xung đột, căng thẳng và nhạy cảm trong công việc và cuộc sống gia đình một cách hòa ái và hiệu quả."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Cẩm nang kinh điển giúp chuyển hóa những cuộc tranh cãi độc hại thành các cuộc đối thoại học hỏi mang tính xây dựng và gắn kết quan hệ."
     },
     {
@@ -105,80 +105,80 @@
       "question": "Tác phẩm 'Self-Compassion: The Proven Power of Being Kind to Yourself' của Tiến sĩ Kristin Neff trong danh sách tài liệu giải thích về điều gì?",
       "options": [
         "Sự nuông chiều bản thân và lười biếng trong công việc.",
-        "Khoa học và thực hành của 'Lòng trắc ẩn tự thân': cách đối xử tử tế, bao dung và nâng đỡ chính mình khi gặp thất bại, thay vì tự sỉ nhục và phán xét bản thân tàn nhẫn.",
         "Nghệ thuật tự chụp ảnh chân dung đẹp trên điện thoại.",
+        "Khoa học và thực hành của 'Lòng trắc ẩn tự thân': cách đối xử tử tế, bao dung và nâng đỡ chính mình khi gặp thất bại, thay vì tự sỉ nhục và phán xét bản thân tàn nhẫn.",
         "Cách sống ích kỷ không quan tâm đến người khác."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Kristin Neff tiên phong chứng minh: Lòng trắc ẩn tự thân mang lại sự kiên cường và sức khỏe tinh thần vượt trội hơn nhiều so với việc cố gắng theo đuổi lòng tự trọng hão huyền (Self-esteem)."
     },
     {
       "id": "q10",
       "question": "Cuốn sách 'Drive: The Surprising Truth About What Motivates Us' của Daniel Pink được đưa vào danh mục nhằm đào sâu chủ đề nào?",
       "options": [
-        "Cách ép buộc người khác làm việc bằng tiền thưởng.",
         "Cách thiết kế động cơ xe hơi tiết kiệm nhiên liệu.",
-        "Kỹ thuật lái xe an toàn trên đường cao tốc.",
-        "Bí mật khoa học về Động lực nội tại (Quyền tự chủ, Sự tinh thông và Mục đích) giúp tái định hình cách chúng ta làm việc, sáng tạo và lãnh đạo đội ngũ."
+        "Bí mật khoa học về Động lực nội tại (Quyền tự chủ, Sự tinh thông và Mục đích) giúp tái định hình cách chúng ta làm việc, sáng tạo và lãnh đạo đội ngũ.",
+        "Cách ép buộc người khác làm việc bằng tiền thưởng.",
+        "Kỹ thuật lái xe an toàn trên đường cao tốc."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Daniel Pink vạch trần sự lỗi thời của mô hình thưởng-phạt truyền thống và chỉ ra con đường đánh thức ngọn lửa đam mê tự thân của con người."
     },
     {
       "id": "q11",
       "question": "Tác phẩm 'Destructive Emotions: A Scientific Dialogue with the Dalai Lama' của Daniel Goleman tường thuật về sự kiện lịch sử nào?",
       "options": [
-        "Một cuộc thi tranh luận triết học giữa các trường đại học.",
         "Một phiên tòa xét xử tội phạm chiến tranh.",
-        "Một buổi hòa nhạc giao hưởng quốc tế.",
-        "Cuộc đối thoại khoa học đỉnh cao giữa các nhà thần kinh học hàng đầu thế giới và các thiền giả về bản chất của cảm xúc tiêu cực và phương pháp giáo dục tâm thức để hóa giải chúng."
+        "Một cuộc thi tranh luận triết học giữa các trường đại học.",
+        "Cuộc đối thoại khoa học đỉnh cao giữa các nhà thần kinh học hàng đầu thế giới và các thiền giả về bản chất của cảm xúc tiêu cực và phương pháp giáo dục tâm thức để hóa giải chúng.",
+        "Một buổi hòa nhạc giao hưởng quốc tế."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Biên niên sử khoa học ghi lại cuộc gặp gỡ lịch sử của Viện Tâm Thức và Đời Sống (Mind and Life Institute), đặt nền móng cho ngành khoa học thần kinh chiêm nghiệm (Contemplative neuroscience)."
     },
     {
       "id": "q12",
       "question": "Cuốn sách 'Radical Acceptance' (Chấp Nhận Hoàn Toàn) của Tara Brach trong danh sách tài liệu hướng dẫn kỹ năng tâm lý nào?",
       "options": [
+        "Chấp nhận ký mọi hợp đồng mua bán mà không cần đọc.",
         "Chấp nhận ăn tất cả các loại thức ăn không hợp khẩu vị.",
         "Ôm ấp và chấp nhận toàn bộ những cảm xúc, vết thương và sự bất toàn của chính mình với tâm từ bi bao la, chữa lành cảm giác 'mình không đủ tốt' đã ăn sâu vào tiềm thức.",
-        "Chấp nhận ký mọi hợp đồng mua bán mà không cần đọc.",
         "Đầu hàng số phận và chấp nhận làm nô lệ cho người khác."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tara Brach kết hợp tâm lý học trị liệu phương Tây và chánh niệm để giúp con người thoát khỏi ngục tù của sự tự căm ghét bản thân và tìm về sự tự do đích thực."
     },
     {
       "id": "q13",
       "question": "Tại sao danh mục tài liệu của Meng lại bao gồm cả sách về Khoa học Thần kinh, Tâm lý học, Kinh tế học lẫn Thiền học cổ truyền?",
       "options": [
-        "Vì để phát triển con người toàn diện, chúng ta cần một cái nhìn đa ngành (Interdisciplinary): kết hợp sự chính xác của khoa học phương Tây với chiều sâu tuệ giác phương Đông.",
-        "Vì Meng muốn chứng tỏ mình đã đọc rất nhiều sách.",
+        "Vì Meng không biết cuốn sách nào là hay nhất.",
         "Vì các nhà xuất bản ép buộc phải liệt kê đủ các thể loại sách.",
-        "Vì Meng không biết cuốn sách nào là hay nhất."
+        "Vì Meng muốn chứng tỏ mình đã đọc rất nhiều sách.",
+        "Vì để phát triển con người toàn diện, chúng ta cần một cái nhìn đa ngành (Interdisciplinary): kết hợp sự chính xác của khoa học phương Tây với chiều sâu tuệ giác phương Đông."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Sự tổng hòa tri thức đa chiều: sự thật chân chính luôn là điểm giao thoa giữa các ngành khoa học đỉnh cao và sự trải nghiệm trực tiếp của tâm thức."
     },
     {
       "id": "q14",
       "question": "Cách tốt nhất để tiếp cận danh sách các cuốn sách hay được giới thiệu trong phần này là gì?",
       "options": [
-        "Ép bản thân đọc xong tất cả trong vòng 1 tuần.",
-        "Chọn 1 hoặc 2 cuốn sách gây rung động và kích thích sự tò mò nhất của bạn hiện tại, đọc chậm rãi với tâm thế cởi mở và áp dụng từng bài tập vào cuộc sống thực tế.",
+        "Chỉ đọc phần mục lục của các cuốn sách.",
         "Mua toàn bộ 100 cuốn về xếp trên kệ sách để trang trí phòng khách.",
-        "Chỉ đọc phần mục lục của các cuốn sách."
+        "Ép bản thân đọc xong tất cả trong vòng 1 tuần.",
+        "Chọn 1 hoặc 2 cuốn sách gây rung động và kích thích sự tò mò nhất của bạn hiện tại, đọc chậm rãi với tâm thế cởi mở và áp dụng từng bài tập vào cuộc sống thực tế."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Học tập là hành trình cả đời; hãy chọn cuốn sách phù hợp với nhu cầu tâm hồn bạn lúc này và biến tri thức đọc được thành trải nghiệm sống động của bản thân."
     },
     {
       "id": "q15",
       "question": "Thông điệp đúc kết từ toàn bộ 'Danh mục tài liệu và sách hay nên đọc' là gì?",
       "options": [
-        "Tất cả những gì bạn cần biết đã có đủ trong cuốn sách SIY và không cần đọc thêm gì nữa.",
-        "Cuộc hành trình tìm kiếm bên trong bạn là một đại dương tri thức vô tận; cuốn sách SIY là cánh cửa mở ra cả một thế giới rộng lớn của sự hiểu biết, tỉnh thức và lòng trắc ẩn đang chờ đón bạn khám phá.",
         "Đọc sách là việc làm vô bổ làm mất thời gian kiếm tiền.",
+        "Cuộc hành trình tìm kiếm bên trong bạn là một đại dương tri thức vô tận; cuốn sách SIY là cánh cửa mở ra cả một thế giới rộng lớn của sự hiểu biết, tỉnh thức và lòng trắc ẩn đang chờ đón bạn khám phá.",
+        "Tất cả những gì bạn cần biết đã có đủ trong cuốn sách SIY và không cần đọc thêm gì nữa.",
         "Chỉ có các nhà bác học mới cần đọc sách."
       ],
       "correctIndex": 1,

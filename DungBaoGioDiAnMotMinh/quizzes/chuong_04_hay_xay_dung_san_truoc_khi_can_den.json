@@ -8,24 +8,24 @@
       "id": "q1",
       "question": "Ý nghĩa sâu xa nhất của câu ngạn ngữ 'Hãy đào giếng trước khi bạn chết khát' trong bối cảnh nghề nghiệp là gì?",
       "options": [
-        "Phải chủ động gieo trồng, vun đắp lòng tin và sự gắn kết với mọi người từ khi công việc đang thuận buồm xuôi gió, chứ không phải đợi đến khi thất nghiệp mới cầu cứu.",
         "Luôn luôn dự trữ nước sạch tại nơi làm việc để đề phòng sự cố.",
         "Nên đầu tư vào bất động sản có nguồn nước tự nhiên.",
-        "Chỉ nên giúp đỡ những người đang gặp hoàn cảnh bế tắc cùng cực."
+        "Chỉ nên giúp đỡ những người đang gặp hoàn cảnh bế tắc cùng cực.",
+        "Phải chủ động gieo trồng, vun đắp lòng tin và sự gắn kết với mọi người từ khi công việc đang thuận buồm xuôi gió, chứ không phải đợi đến khi thất nghiệp mới cầu cứu."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Mối quan hệ cần thời gian để bén rễ; tiếp cận người khác khi bạn đang 'khát' sự giúp đỡ sẽ chỉ mang lại cảm giác vụ lợi và bị từ chối."
     },
     {
       "id": "q2",
       "question": "Tại sao việc tiếp cận một người chỉ khi bạn đang cần một ân huệ khẩn cấp lại hầu như luôn luôn thất bại?",
       "options": [
+        "Vì các công ty cấm nhân viên giúp đỡ người ngoài tổ chức.",
         "Vì đối phương dễ dàng cảm nhận được sự tuyệt vọng và tính toán vị kỷ trong lời đề nghị, kích hoạt cơ chế phòng thủ và nghi ngại về động cơ của bạn.",
         "Vì những người thành công không bao giờ nghe điện thoại của người đang gặp khó khăn.",
-        "Vì các công ty cấm nhân viên giúp đỡ người ngoài tổ chức.",
         "Vì bạn không có đủ tiền để trả phí tư vấn cho họ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Lòng tin không thể xây dựng trong một sớm một chiều; sự gấp gáp mang tính vụ lợi sẽ phá hủy mọi cơ hội thiết lập một mối quan hệ chân chính."
     },
     {
@@ -44,22 +44,22 @@
       "id": "q4",
       "question": "Thói quen nào sau đây thể hiện việc 'đào giếng' liên tục và bền bỉ mỗi tuần?",
       "options": [
+        "Tham gia các buổi hội thảo chỉ để thu thập danh thiếp rồi bỏ vào ngăn kéo.",
         "Mỗi tuần dành ra 2-3 buổi ăn trưa hoặc uống cà phê để thăm hỏi, chia sẻ thông tin hữu ích với những người bạn cũ và đối tác tiềm năng mà không bàn chuyện mua bán.",
         "Gửi email tiếp thị sản phẩm tự động cho 500 khách hàng mỗi sáng thứ Hai.",
-        "Chỉ gọi điện cho đồng nghiệp cũ khi công ty hiện tại của bạn đang cắt giảm nhân sự.",
-        "Tham gia các buổi hội thảo chỉ để thu thập danh thiếp rồi bỏ vào ngăn kéo."
+        "Chỉ gọi điện cho đồng nghiệp cũ khi công ty hiện tại của bạn đang cắt giảm nhân sự."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Duy trì tương tác định kỳ không vụ lợi giúp các mối quan hệ luôn trong trạng thái 'ấm', sẵn sàng kích hoạt bất cứ khi nào bạn cần lời khuyên hay sự hỗ trợ."
     },
     {
       "id": "q5",
       "question": "Khi công ty của Keith Ferrazzi gặp khủng hoảng tài chính trong quá khứ, điều gì đã cứu sống doanh nghiệp của ông?",
       "options": [
-        "Một khoản tiền trúng số độc đắc ngẫu nhiên.",
-        "Mạng lưới những người bạn, cố vấn và đối tác trung thành mà ông đã tận tình giúp đỡ và gắn bó suốt nhiều năm trước đó đã đồng loạt chung tay hỗ trợ nguồn lực.",
         "Chính sách trợ cấp khẩn cấp từ chính phủ.",
-        "Việc ông sa thải toàn bộ nhân viên và bán hết tài sản cá nhân."
+        "Mạng lưới những người bạn, cố vấn và đối tác trung thành mà ông đã tận tình giúp đỡ và gắn bó suốt nhiều năm trước đó đã đồng loạt chung tay hỗ trợ nguồn lực.",
+        "Việc ông sa thải toàn bộ nhân viên và bán hết tài sản cá nhân.",
+        "Một khoản tiền trúng số độc đắc ngẫu nhiên."
       ],
       "correctIndex": 1,
       "explanation": "Mạng lưới quan hệ tin cậy chính là chiếc phao cứu sinh vĩ đại nhất trong giông bão; những người bạn từng giúp đỡ sẽ không bao giờ bỏ rơi bạn lúc hoạn nạn."
@@ -68,24 +68,24 @@
       "id": "q6",
       "question": "Tại sao tác giả lại nhấn mạnh rằng 'Đừng bao giờ biến mất khỏi tầm mắt của mọi người'?",
       "options": [
-        "Vì sự lãng quên diễn ra rất nhanh chóng; nếu bạn không duy trì sự hiện diện ấm áp và giá trị đều đặn, mối quan hệ sẽ dần nguội lạnh và biến mất.",
-        "Vì bạn cần phải theo dõi đối thủ cạnh tranh 24/7 để không bị cướp mất khách hàng.",
         "Vì các nền tảng mạng xã hội sẽ khóa tài khoản nếu bạn không đăng bài mỗi ngày.",
-        "Vì người quản lý sẽ đánh giá bạn thiếu năng lực nếu bạn không xuất hiện tại văn phòng."
+        "Vì người quản lý sẽ đánh giá bạn thiếu năng lực nếu bạn không xuất hiện tại văn phòng.",
+        "Vì sự lãng quên diễn ra rất nhanh chóng; nếu bạn không duy trì sự hiện diện ấm áp và giá trị đều đặn, mối quan hệ sẽ dần nguội lạnh và biến mất.",
+        "Vì bạn cần phải theo dõi đối thủ cạnh tranh 24/7 để không bị cướp mất khách hàng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "'Xa mặt cách lòng' là quy luật tâm lý tự nhiên; giữ liên lạc nhẹ nhàng định kỳ giúp hình ảnh của bạn luôn nằm trong tâm trí của những người quan trọng."
     },
     {
       "id": "q7",
       "question": "Một sinh viên mới tốt nghiệp chưa có nhiều kinh nghiệm nên bắt đầu 'đào giếng' từ đâu?",
       "options": [
-        "Thuê một công ty quan hệ công chúng (PR) để xây dựng hình ảnh cá nhân.",
-        "Chỉ tìm cách tiếp cận các CEO của các tập đoàn nằm trong danh sách Fortune 500.",
         "Chờ đến khi trở thành trưởng phòng mới bắt đầu kết nối với đồng nghiệp.",
-        "Bắt đầu từ chính thầy cô giáo, bạn bè cùng lớp, cựu sinh viên các khóa trước và những người quản lý trong kỳ thực tập bằng sự chủ động học hỏi và lễ phép."
+        "Chỉ tìm cách tiếp cận các CEO của các tập đoàn nằm trong danh sách Fortune 500.",
+        "Bắt đầu từ chính thầy cô giáo, bạn bè cùng lớp, cựu sinh viên các khóa trước và những người quản lý trong kỳ thực tập bằng sự chủ động học hỏi và lễ phép.",
+        "Thuê một công ty quan hệ công chúng (PR) để xây dựng hình ảnh cá nhân."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Vòng tròn gần gũi nhất chính là mảnh đất màu mỡ đầu tiên; những người bạn học hôm nay sẽ trở thành những giám đốc và đối tác chiến lược của bạn trong 10 năm tới."
     },
     {
@@ -93,11 +93,11 @@
       "question": "Khái niệm 'Mạng lưới an toàn xã hội' (Social Safety Net) mà cuốn sách đề cập được định nghĩa là gì?",
       "options": [
         "Các điều khoản bồi thường trong hợp đồng lao động doanh nghiệp.",
+        "Hệ thống bảo hiểm thất nghiệp do nhà nước chi trả hàng tháng.",
         "Một tài khoản tiết kiệm ngân hàng có kỳ hạn dài trên 10 năm.",
-        "Một tập hợp những mối quan hệ chân thành, sâu sắc sẵn sàng dang tay nâng đỡ, cung cấp nơi nương tựa tinh thần và cơ hội tài chính khi bạn vấp ngã.",
-        "Hệ thống bảo hiểm thất nghiệp do nhà nước chi trả hàng tháng."
+        "Một tập hợp những mối quan hệ chân thành, sâu sắc sẵn sàng dang tay nâng đỡ, cung cấp nơi nương tựa tinh thần và cơ hội tài chính khi bạn vấp ngã."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Không có bảo hiểm nào an toàn và quyền năng hơn một cộng đồng những người đồng hành thực sự yêu quý và tin tưởng vào nhân cách của bạn."
     },
     {
@@ -116,60 +116,60 @@
       "id": "q10",
       "question": "Tại sao việc duy trì liên lạc với những người bạn cũ từ thời thơ ấu hoặc trường đại học lại mang lại giá trị cảm xúc và niềm tin đặc biệt cao?",
       "options": [
-        "Vì những mối quan hệ này được hình thành từ khi bạn chưa có danh vọng hay tiền tài, dựa trên sự trong sáng và chân thực tuyệt đối.",
         "Vì bạn bè thời thơ ấu luôn có nghĩa vụ pháp lý phải giúp đỡ bạn.",
-        "Vì họ là những người duy nhất biết được các bí mật tiêu cực của bạn.",
-        "Vì việc kết bạn mới luôn tốn kém chi phí hơn việc giữ bạn cũ."
+        "Vì việc kết bạn mới luôn tốn kém chi phí hơn việc giữ bạn cũ.",
+        "Vì những mối quan hệ này được hình thành từ khi bạn chưa có danh vọng hay tiền tài, dựa trên sự trong sáng và chân thực tuyệt đối.",
+        "Vì họ là những người duy nhất biết được các bí mật tiêu cực của bạn."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Tình bạn gắn bó từ thuở hàn vi là chiếc mỏ neo tinh thần vững chắc nhất; họ yêu quý bạn vì chính con người bạn chứ không phải vì chức danh trên danh thiếp."
     },
     {
       "id": "q11",
       "question": "Khi bạn chuyển đổi sang một ngành nghề hoặc lĩnh vực hoàn toàn mới, chiến lược 'đào giếng' cần được kích hoạt như thế nào?",
       "options": [
-        "Giữ bí mật tuyệt đối về việc chuyển ngành để tránh bị người cũ đánh giá.",
-        "Tự học một mình trong 3 năm đầu tiên mà không tiếp xúc với bất kỳ ai trong ngành mới.",
         "Chỉ tham gia các hội nhóm ẩn danh trên mạng xã hội.",
-        "Chủ động tìm kiếm và khiêm tốn học hỏi từ các chuyên gia hàng đầu trong ngành mới, đồng thời tận dụng mạng lưới cũ làm cầu nối giới thiệu."
+        "Chủ động tìm kiếm và khiêm tốn học hỏi từ các chuyên gia hàng đầu trong ngành mới, đồng thời tận dụng mạng lưới cũ làm cầu nối giới thiệu.",
+        "Giữ bí mật tuyệt đối về việc chuyển ngành để tránh bị người cũ đánh giá.",
+        "Tự học một mình trong 3 năm đầu tiên mà không tiếp xúc với bất kỳ ai trong ngành mới."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Kết hợp giữa việc tôn trọng tri thức của chuyên gia trong ngành mới và đòn bẩy giới thiệu từ các mối quan hệ cũ sẽ giúp bạn rút ngắn thời gian hội nhập."
     },
     {
       "id": "q12",
       "question": "Hành động 'gieo hạt' (Seeding) trong nghệ thuật kết nối được mô tả như thế nào?",
       "options": [
-        "Đăng tải các thông tin quảng cáo bán hàng trên trang cá nhân của bạn bè.",
-        "Tặng hạt giống cây trồng cho tất cả khách hàng vào dịp đầu xuân.",
         "Mua cổ phiếu của các công ty khởi nghiệp nông nghiệp.",
-        "Liên tục gửi đi những cử chỉ tử tế nhỏ bé: một lời chúc mừng sinh nhật, một mẩu tin tức liên quan đến dự án của đối tác, một lời động viên khi họ gặp khó khăn."
+        "Liên tục gửi đi những cử chỉ tử tế nhỏ bé: một lời chúc mừng sinh nhật, một mẩu tin tức liên quan đến dự án của đối tác, một lời động viên khi họ gặp khó khăn.",
+        "Tặng hạt giống cây trồng cho tất cả khách hàng vào dịp đầu xuân.",
+        "Đăng tải các thông tin quảng cáo bán hàng trên trang cá nhân của bạn bè."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Những hạt mầm quan tâm chu đáo được gieo rải rác mỗi ngày sẽ âm thầm đâm chồi nảy lộc, tạo nên một khu rừng quan hệ xanh tốt bảo vệ sự nghiệp của bạn."
     },
     {
       "id": "q13",
       "question": "Tại sao việc xây dựng quan hệ từ sớm lại giúp bạn có lợi thế vượt trội trong các cuộc đàm phán kinh doanh sau này?",
       "options": [
-        "Vì khi đã có nền tảng tin cậy và hiểu biết lẫn nhau từ trước, cuộc đàm phán sẽ diễn ra trong bầu không khí hợp tác tìm giải pháp thay vì đối đầu nghi kỵ.",
-        "Vì đối tác sẽ cảm thấy xấu hổ và nhượng bộ toàn bộ quyền lợi cho bạn.",
         "Vì bạn có thể ép đối tác chấp nhận mức giá thấp hơn chi phí sản xuất.",
-        "Vì các cuộc đàm phán giữa những người quen biết không cần phải tuân thủ luật pháp."
+        "Vì các cuộc đàm phán giữa những người quen biết không cần phải tuân thủ luật pháp.",
+        "Vì đối tác sẽ cảm thấy xấu hổ và nhượng bộ toàn bộ quyền lợi cho bạn.",
+        "Vì khi đã có nền tảng tin cậy và hiểu biết lẫn nhau từ trước, cuộc đàm phán sẽ diễn ra trong bầu không khí hợp tác tìm giải pháp thay vì đối đầu nghi kỵ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Niềm tin được xây dựng từ trước giúp loại bỏ ma sát tâm lý, biến cuộc đàm phán thành tiến trình cùng sáng tạo giá trị đôi bên cùng thắng."
     },
     {
       "id": "q14",
       "question": "Điều gì là thước đo chính xác nhất cho thấy bạn đã 'đào được một cái giếng tốt'?",
       "options": [
-        "Khi bạn gặp khó khăn và cần một lời khuyên, có những người sẵn sàng bắt máy ngay trong đêm và dốc lòng hỗ trợ bạn mà không cần đắn đo.",
-        "Khi số lượng bạn bè trên mạng xã hội của bạn vượt qua con số 10.000 người.",
         "Khi bạn sở hữu một bộ sưu tập danh thiếp dày cộm từ các hội nghị.",
-        "Khi bạn được mời tham dự tất cả các bữa tiệc xa hoa trong giới thượng lưu."
+        "Khi số lượng bạn bè trên mạng xã hội của bạn vượt qua con số 10.000 người.",
+        "Khi bạn được mời tham dự tất cả các bữa tiệc xa hoa trong giới thượng lưu.",
+        "Khi bạn gặp khó khăn và cần một lời khuyên, có những người sẵn sàng bắt máy ngay trong đêm và dốc lòng hỗ trợ bạn mà không cần đắn đo."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Chất lượng của cái giếng được đo bằng độ sâu của lòng tin và sự sẵn lòng tương trợ trong nghịch cảnh, chứ không phải ở số lượng người quen hời hợt."
     },
     {

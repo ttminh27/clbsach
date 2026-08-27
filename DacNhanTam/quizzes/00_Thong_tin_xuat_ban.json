@@ -1,0 +1,188 @@
+{
+  "bookId": "DacNhanTam",
+  "chapterId": "00_Thong_tin_xuat_ban",
+  "chapterTitle": "Thông tin xuất bản & Lời tặng",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Lời đề tặng của Dale Carnegie: 'Xin gửi tặng người bạn thân yêu nhất của tôi - Homer Croy - người không cần đọc quyển sách này' hàm chứa thông điệp ngầm sâu sắc nào?",
+      "options": [
+        "Đây chỉ là một trò đùa xã giao không có hàm ý về phẩm chất con người.",
+        "Homer Croy là người đã bẩm sinh có lối sống chân thành, tinh tế và nghệ thuật ứng xử xuất sắc đến mức không cần giáo trình nào chỉ dạy.",
+        "Homer Croy là người mù chữ nên không thể đọc được sách.",
+        "Homer Croy là người phản đối kịch liệt các nguyên tắc giao tiếp được nêu trong sách."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lời đề tặng thể hiện sự tôn vinh cao nhất đối với một người bạn có nhân cách tự nhiên, đối đãi với người khác bằng sự tử tế và tinh tế từ trong tâm mà không cần qua trường lớp."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao bản quyền xuất bản tiếng Việt của 'Đắc Nhân Tâm' do First News - Trí Việt nắm giữ lại đặc biệt nhấn mạnh tính hợp pháp quốc tế theo Công ước Berne?",
+      "options": [
+        "Để biến cuốn sách thành tài liệu lưu hành nội bộ độc quyền.",
+        "Để ngăn cấm tất cả mọi người thảo luận về nội dung sách.",
+        "Để khẳng định giá trị tôn trọng quyền sở hữu trí tuệ, tạo tiền lệ chuẩn mực cho việc chuyển ngữ chính thức từ gia đình Dale Carnegie và Simon & Schuster.",
+        "Để tăng giá bán sách lên mức cao nhất có thể trên thị trường."
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc ký kết hợp đồng bản quyền chính thức theo Công ước Berne bảo vệ tính toàn vẹn của tác phẩm, tôn trọng công sức của tác giả và nâng cao văn hóa tôn trọng bản quyền tại Việt Nam."
+    },
+    {
+      "id": "q3",
+      "question": "Vai trò của Dorothy Carnegie (người vợ và cố vấn xuất bản) và Tiến sĩ Arthur R. Pell trong các ấn bản sửa đổi là gì?",
+      "options": [
+        "Chỉ thêm tên của họ vào bìa sách nhằm mục đích thương mại.",
+        "Cắt giảm bớt các ví dụ lịch sử để sách ngắn hơn một nửa.",
+        "Thay thế toàn bộ tư tưởng cốt lõi ban đầu của Dale Carnegie bằng các lý thuyết hiện đại hoàn toàn mới.",
+        "Cập nhật các ví dụ, bối cảnh thực tiễn phù hợp với thời đại mới nhưng vẫn giữ nguyên vẹn giá trị tinh thần bất biến của tác giả."
+      ],
+      "correctIndex": 3,
+      "explanation": "Các cộng sự và gia đình đã giúp hiệu đính, bổ sung bối cảnh thực tế cho phù hợp với thời đại mà không làm mất đi các nguyên lý đối nhân xử thế cốt lõi của Dale Carnegie."
+    },
+    {
+      "id": "q4",
+      "question": "Ý nghĩa của việc công ty Samsung tài trợ cho phiên bản ebook tiếng Việt của tác phẩm này là gì?",
+      "options": [
+        "Quảng cáo thương mại thuần túy để bán điện thoại thông minh.",
+        "Thử nghiệm một định dạng công nghệ mới chưa từng có trước đây.",
+        "Giới hạn người đọc chỉ trong nhóm nhân viên công ty.",
+        "Lan tỏa tri thức và giá trị sống tích cực, tinh thần giao tiếp nhân văn đến đông đảo cộng đồng độc giả Việt Nam."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự đồng hành của các doanh nghiệp trong việc phổ biến sách kinh điển mang sứ mệnh phụng sự cộng đồng, lan tỏa kỹ năng sống và văn hóa đọc rộng rãi."
+    },
+    {
+      "id": "q5",
+      "question": "Tên gốc tiếng Anh của cuốn sách là 'How to Win Friends and Influence People'. Cụm từ 'Đắc Nhân Tâm' trong bản dịch tiếng Việt mang sắc thái tư tưởng phương Đông sâu sắc như thế nào?",
+      "options": [
+        "Chỉ đơn thuần là kết bạn để mở rộng quan hệ làm ăn kinh tế.",
+        "Dùng uy quyền và tiền bạc để bắt người khác phải nghe theo ý mình.",
+        "Được lòng người từ sự chân thành, nhân ái và thấu hiểu tận tâm can, bắt nguồn từ cái tâm trong sáng.",
+        "Thu phục lòng người bằng mưu mô và thuật thao túng tâm lý."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Đắc Nhân Tâm' (được lòng người) trong văn hóa Á Đông không phải là thủ thuật bề nổi mà là sự cảm hóa xuất phát từ nhân đức, sự chân thành và thấu hiểu từ đáy lòng."
+    },
+    {
+      "id": "q6",
+      "question": "Việc cuốn sách được tái bản liên tục và cập nhật từ năm 1936 qua nhiều thập kỷ chứng minh điều gì về bản chất tâm lý con người?",
+      "options": [
+        "Sách chỉ bán được nhờ các chiến dịch tiếp thị truyền thông quy mô lớn.",
+        "Tâm lý và nhu cầu cảm xúc cơ bản của con người (muốn được tôn trọng, thấu hiểu, yêu thương) gần như không thay đổi theo thời gian.",
+        "Con người ngày nay hoàn toàn khác biệt so với con người thế kỷ 20 về mặt cảm xúc.",
+        "Kỹ năng giao tiếp chỉ là trào lưu nhất thời."
+      ],
+      "correctIndex": 1,
+      "explanation": "Công nghệ và xã hội thay đổi nhanh chóng, nhưng nhu cầu tâm lý nguyên bản của con người về sự công nhận, lòng trắc ẩn và sự tôn trọng vẫn luôn bất biến qua mọi thời đại."
+    },
+    {
+      "id": "q7",
+      "question": "Bản quyền ấn bản tiếng Việt năm 2008 của First News đánh dấu bước ngoặt gì trong việc tiếp cận tác phẩm kinh điển tại Việt Nam?",
+      "options": [
+        "Thay đổi hoàn toàn toàn bộ 30 nguyên tắc của tác giả.",
+        "Chỉ dành riêng cho các nhà ngoại giao chuyên nghiệp.",
+        "Cuốn sách bị giới hạn số lượng in dưới 1.000 bản.",
+        "Lần đầu tiên tác phẩm được dịch và in đầy đủ, có bản quyền hợp pháp quốc tế với văn phong tiếng Việt trau chuốt, hiện đại."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ấn bản 2008 có bản quyền chính thức đem lại cho độc giả bản dịch hoàn chỉnh, chuẩn xác và chuẩn mực về ngôn ngữ tiếng Việt hiện đại."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao việc bảo vệ bản quyền sách lại có mối liên hệ mật thiết với đạo đức ứng xử được đề cập trong chính cuốn sách?",
+      "options": [
+        "Tôn trọng quyền tác giả chính là biểu hiện cụ thể của sự công nhận, tôn trọng công sức và đóng góp của người khác.",
+        "Không có mối liên hệ nào giữa bản quyền và tinh thần cuốn sách.",
+        "Tác giả yêu cầu người đọc không chia sẻ bài học cho bất kỳ ai.",
+        "Bản quyền chỉ là vấn đề pháp lý thuần túy của các luật sư."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hành động tôn trọng chất xám và quyền tác giả phản ánh đúng tinh thần tôn trọng, biết ơn và đối xử công bằng mà 'Đắc Nhân Tâm' luôn truyền dạy."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao một quyển sách ra đời từ năm 1936 lại cần có 'Cố vấn xuất bản' và 'Trợ lý xuất bản' cho các ấn bản sau này?",
+      "options": [
+        "Để chuyển thể sách thành kịch bản phim truyền hình.",
+        "Để đảm bảo các thuật ngữ, ví dụ và ngôn ngữ vẫn giữ được sức sống hiện đại mà không làm sai lệch thông điệp nguyên bản.",
+        "Để loại bỏ tên của Dale Carnegie khỏi tác phẩm.",
+        "Nhằm viết lại toàn bộ cuốn sách theo dạng tiểu thuyết giả tưởng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự hiệu đính có chuyên môn giúp giữ cho tác phẩm luôn tươi mới, thích ứng với ngôn ngữ đương đại của từng thế hệ độc giả."
+    },
+    {
+      "id": "q10",
+      "question": "Theo trang thông tin xuất bản, đối tượng độc giả mà ấn bản ebook này hướng tới là ai?",
+      "options": [
+        "Tất cả mọi người mong muốn hoàn thiện bản thân, nâng cao khả năng giao tiếp và xây dựng cuộc sống hạnh phúc.",
+        "Chỉ dành cho sinh viên chuyên ngành ngoại giao.",
+        "Chỉ dành cho những người đang gặp thất bại trong kinh doanh.",
+        "Chỉ dành cho các giám đốc điều hành tập đoàn đa quốc gia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác phẩm được viết cho đại chúng, bất kể lứa tuổi, nghề nghiệp hay vị trí xã hội đều có thể học hỏi và áp dụng để sống tốt đẹp hơn."
+    },
+    {
+      "id": "q11",
+      "question": "Sự kết hợp giữa Nhà xuất bản Trẻ và First News - Trí Việt trong xuất bản sách thể hiện điều gì?",
+      "options": [
+        "Việc thử nghiệm in ấn trên các chất liệu giấy khác nhau.",
+        "Sự cạnh tranh gay gắt dẫn đến việc chia tách nội dung.",
+        "Sự hợp tác chặt chẽ giữa các đơn vị làm sách uy tín nhằm mang lại ấn phẩm đạt chất lượng nội dung và hình thức cao nhất.",
+        "Một dự án độc lập không có kế hoạch dài hạn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự hợp tác giữa các đơn vị phát hành và xuất bản hàng đầu đảm bảo cuốn sách đến tay bạn đọc với chất lượng biên tập và quy chuẩn in ấn tốt nhất."
+    },
+    {
+      "id": "q12",
+      "question": "Nếu một người đọc 'Đắc Nhân Tâm' chỉ với mục đích học mánh khóe để ép người khác mua hàng, người đó đã vi phạm tinh thần cơ bản nào của sách?",
+      "options": [
+        "Tính trung thực và lòng chân thành xuất phát từ cái tâm trong giao tiếp.",
+        "Nguyên tắc tiết kiệm chi phí trong bán hàng.",
+        "Quy định của các hiệp hội thương mại.",
+        "Kỹ năng thuyết trình trước đám đông."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dale Carnegie luôn nhấn mạnh: các nguyên tắc này chỉ có giá trị và sức mạnh thực sự khi xuất phát từ sự chân thành từ đáy lòng, không phải thủ thuật lừa dối."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao phần thông tin xuất bản lại nêu rõ quy định cấm sử dụng tác phẩm cho mục đích thương mại trái phép?",
+      "options": [
+        "Hạn chế tri thức tiếp cận với người nghèo.",
+        "Bảo đảm tác phẩm được lan tỏa đúng mục đích văn hóa phi lợi nhuận của chương trình tài trợ cộng đồng.",
+        "Bắt buộc người đọc phải trả phí theo từng chương.",
+        "Ngăn cản sinh viên đọc sách trong thư viện."
+      ],
+      "correctIndex": 1,
+      "explanation": "Quy định bảo vệ mục tiêu nhân văn của dự án tài trợ tri thức, tránh việc bị các đối tượng trục lợi thương mại trái pháp luật."
+    },
+    {
+      "id": "q14",
+      "question": "Chi tiết Homer Croy là người 'không cần đọc quyển sách này' phản ánh triết lý nào của Dale Carnegie về việc học tập?",
+      "options": [
+        "Chỉ những người thiếu đạo đức mới phải đọc sách.",
+        "Sách vở là vô ích và không ai cần học tập.",
+        "Việc đọc sách làm giảm đi tính sáng tạo cá nhân.",
+        "Mục tiêu cao nhất của việc rèn luyện là biến kỹ năng thành bản năng sống tự nhiên, chân thành."
+      ],
+      "correctIndex": 3,
+      "explanation": "Cuốn sách hướng tới việc rèn luyện nhận thức để mỗi người có thể hành xử nhân văn và tử tế như một phản xạ tự nhiên của nhân cách."
+    },
+    {
+      "id": "q15",
+      "question": "Từ trang thông tin xuất bản và lịch sử tác phẩm, điều gì tạo nên sức mạnh bền bỉ nhất cho một cuốn sách phát triển bản thân?",
+      "options": [
+        "Sự bảo chứng bởi giá trị thực chứng trong đời sống của hàng triệu người qua nhiều thế hệ.",
+        "Thời lượng phát sóng quảng cáo trên truyền hình.",
+        "Chiến lược giảm giá sâu trên các sàn thương mại.",
+        "Số lượng tranh ảnh màu rực rỡ bên trong sách."
+      ],
+      "correctIndex": 0,
+      "explanation": "Giá trị chân thực, hiệu quả thực tế và khả năng thay đổi cuộc đời của hàng triệu con người chính là thước đo bền vững nhất của một tác phẩm kinh điển."
+    }
+  ]
+}

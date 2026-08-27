@@ -8,10 +8,10 @@
       "id": "q1",
       "question": "Nguyên tắc tâm lý học số một khi tiếp xúc với những nhân vật quyền lực, tỷ phú và chính khách hàng đầu là gì?",
       "options": [
-        "Yêu cầu họ phải ký vào một bản cam kết bảo mật trước khi bắt đầu trò chuyện.",
+        "Nói thật to và khoe khoang về sự giàu có của gia đình mình để gây ấn tượng.",
         "Đối xử với họ như những con người bình thường, chân thành, tự tin, không khúm núm xu nịnh nhưng luôn giữ sự tôn trọng và hiểu rõ giá trị bản thân.",
-        "Quỳ gối hoặc cúi gập người 90 độ để thể hiện sự phục tùng tuyệt đối.",
-        "Nói thật to và khoe khoang về sự giàu có của gia đình mình để gây ấn tượng."
+        "Yêu cầu họ phải ký vào một bản cam kết bảo mật trước khi bắt đầu trò chuyện.",
+        "Quỳ gối hoặc cúi gập người 90 độ để thể hiện sự phục tùng tuyệt đối."
       ],
       "correctIndex": 1,
       "explanation": "Những nhân vật quyền lực đã quá mệt mỏi với những kẻ nịnh bợ giả tạo; họ khao khát những cuộc đối thoại chân thành, bình đẳng và thấu hiểu từ những người có thực tài."
@@ -21,11 +21,11 @@
       "question": "Tại sao thái độ 'khúm núm, tự ti' (Subservience) lại là kẻ thù số một giết chết mọi cơ hội hợp tác với những người quyền lực?",
       "options": [
         "Vì người tự ti thường có giọng nói quá nhỏ không thể nghe thấy qua micro.",
-        "Vì sự tự ti vi phạm các quy tắc nghi lễ ngoại giao quốc tế.",
         "Vì sự tự ti ngầm tuyên bố rằng bạn không có giá trị ngang tầm và không phải là một đối tác xứng đáng để họ trao gửi những trọng trách hay cơ hội chiến lược.",
-        "Vì những người quyền lực sẽ phạt tiền những ai có thái độ tự ti."
+        "Vì những người quyền lực sẽ phạt tiền những ai có thái độ tự ti.",
+        "Vì sự tự ti vi phạm các quy tắc nghi lễ ngoại giao quốc tế."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Kính trọng không đồng nghĩa với tự ti; sự tự tin đĩnh đạc và lòng tự trọng cá nhân là tấm vé thông hành bắt buộc để bước vào thế giới của các nhà lãnh đạo lớn."
     },
     {
@@ -33,9 +33,9 @@
       "question": "Cách thức Keith Ferrazzi chuẩn bị để trở thành một 'Đối tác trí tuệ' (Intellectual Partner) trước khi gặp một chính khách hay CEO là gì?",
       "options": [
         "Nghiên cứu sâu sắc những thách thức vĩ mô, các điểm nghẽn chiến lược mà nhân vật đó đang trăn trở và chuẩn bị sẵn những góc nhìn giải pháp độc đáo, thực tế.",
-        "Học thuộc lòng toàn bộ gia phả của gia đình nhân vật đó.",
         "Mua những món quà tặng xa xỉ có giá trị bằng một năm tiền lương.",
-        "Học cách bắt chước giọng nói và chữ ký của nhân vật đó."
+        "Học cách bắt chước giọng nói và chữ ký của nhân vật đó.",
+        "Học thuộc lòng toàn bộ gia phả của gia đình nhân vật đó."
       ],
       "correctIndex": 0,
       "explanation": "Mang lại giá trị trí tuệ đánh trúng nỗi đau chiến lược biến bạn thành một cố vấn giá trị thay vì một kẻ cầu xin ân huệ."
@@ -44,24 +44,24 @@
       "id": "q4",
       "question": "Nguyên lý 'Tìm kiếm những điểm yếu con người' (Humanizing the Powerful) giúp giải tỏa áp lực giao tiếp như thế nào?",
       "options": [
-        "Tìm kiếm những khuyết điểm ngoại hình của họ để tự an ủi bản thân.",
-        "Coi thường và không cần tôn trọng các quy định an ninh bảo vệ họ.",
         "Nhận ra rằng đằng sau danh vọng và quyền lực, họ cũng là những người cha, người mẹ có những nỗi lo lắng về con cái, sức khỏe và sự cô đơn trên đỉnh cao.",
-        "Thu thập các bằng chứng sai lầm trong quá khứ của họ để tống tiền."
+        "Thu thập các bằng chứng sai lầm trong quá khứ của họ để tống tiền.",
+        "Coi thường và không cần tôn trọng các quy định an ninh bảo vệ họ.",
+        "Tìm kiếm những khuyết điểm ngoại hình của họ để tự an ủi bản thân."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Nhìn thấy phần 'con người' đằng sau chiếc vương miện quyền lực giúp bạn giao tiếp bằng sự thấu cảm và tự tin từ trái tim đến trái tim."
     },
     {
       "id": "q5",
       "question": "Khi bạn may mắn có được 5 phút ngắn ngủi với một vị nguyên thủ hoặc CEO tập đoàn, cấu trúc trình bày chuẩn mực nhất là gì?",
       "options": [
-        "Đòi hỏi nhân vật đó phải ký ngay quyết định bổ nhiệm bạn vào chức vụ mới.",
-        "Kể toàn bộ lịch sử cuộc đời và tuổi thơ nghèo khó của bạn trong 4 phút.",
         "Dành toàn bộ 5 phút để đọc các bài thơ ca ngợi nhân vật đó.",
-        "Nêu rõ danh tính & bối cảnh kết nối trong 30 giây -> Trình bày trực diện giải pháp đột phá trong 2 phút -> Đề xuất một bước hành động tiếp theo cụ thể."
+        "Đòi hỏi nhân vật đó phải ký ngay quyết định bổ nhiệm bạn vào chức vụ mới.",
+        "Nêu rõ danh tính & bối cảnh kết nối trong 30 giây -> Trình bày trực diện giải pháp đột phá trong 2 phút -> Đề xuất một bước hành động tiếp theo cụ thể.",
+        "Kể toàn bộ lịch sử cuộc đời và tuổi thơ nghèo khó của bạn trong 4 phút."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Súc tích, sắc bén và đi thẳng vào trọng tâm là cách duy nhất để tôn trọng thời gian quý báu của những người nắm giữ vận mệnh lớn."
     },
     {
@@ -80,12 +80,12 @@
       "id": "q7",
       "question": "Quy tắc ứng xử về 'Bảo mật thông tin và Sự kín tiếng' (Discretion) khi làm việc với những người quyền lực đòi hỏi điều gì?",
       "options": [
-        "Tuyệt đối không khoe khoang, không chụp ảnh lén, không đem những câu chuyện riêng tư của họ ra làm đề tài bàn tán xã giao trên mạng xã hội.",
+        "Yêu cầu họ phải trả tiền cho sự im lặng của bạn.",
         "Kể lại những bí mật của họ cho tất cả bạn bè và đồng nghiệp nghe trong bữa tiệc.",
-        "Công khai toàn bộ nội dung các cuộc trò chuyện riêng tư lên các tờ báo lá cải.",
-        "Yêu cầu họ phải trả tiền cho sự im lặng của bạn."
+        "Tuyệt đối không khoe khoang, không chụp ảnh lén, không đem những câu chuyện riêng tư của họ ra làm đề tài bàn tán xã giao trên mạng xã hội.",
+        "Công khai toàn bộ nội dung các cuộc trò chuyện riêng tư lên các tờ báo lá cải."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Sự kín tiếng (Discretion) là tấm vé vàng duy nhất để được giữ lại trong vòng tròn thân tín; một lời nói hớ hênh khoe mẽ sẽ trục xuất bạn vĩnh viễn."
     },
     {
@@ -104,24 +104,24 @@
       "id": "q9",
       "question": "Tại sao việc 'giữ bình tĩnh và không bị choáng ngợp trước sự xa hoa' lại là bài kiểm tra bản lĩnh quan trọng khi bước vào thế giới thượng lưu?",
       "options": [
+        "Vì nếu bạn tỏ ra ngạc nhiên bạn sẽ bị bảo vệ mời ra khỏi phòng tiệc.",
         "Vì đó là quy định bắt buộc trong các nghi thức cung đình xưa.",
         "Vì những người giàu có luôn ghét những ai thích ngắm nhìn các bức tranh nghệ thuật.",
-        "Vì sự điềm đạm chứng minh bạn có sự vững vàng nội tâm, không bị khuất phục hay lóa mắt bởi những biểu tượng vật chất bên ngoài.",
-        "Vì nếu bạn tỏ ra ngạc nhiên bạn sẽ bị bảo vệ mời ra khỏi phòng tiệc."
+        "Vì sự điềm đạm chứng minh bạn có sự vững vàng nội tâm, không bị khuất phục hay lóa mắt bởi những biểu tượng vật chất bên ngoài."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Bản lĩnh đĩnh đạc xuất phát từ sự tự tôn nhân phẩm; vật chất chỉ là phương tiện, con người và nhân cách mới là chủ thể tối thượng."
     },
     {
       "id": "q10",
       "question": "Khi một nhân vật quyền lực đưa ra một lời đề nghị giúp đỡ, cách đón nhận thể hiện sự chín chắn là gì?",
       "options": [
-        "Bày tỏ lòng biết ơn chân thành, nêu rõ một mục tiêu cụ thể và thực tế mà sự giúp đỡ đó có thể tạo ra tác động lớn nhất, và cam kết nỗ lực thực thi.",
         "Đòi hỏi họ phải cho bạn gấp mười lần số tiền họ vừa đề nghị giúp đỡ.",
         "Từ chối ngay lập tức vì sợ mang nợ và cảm thấy bị xúc phạm.",
-        "Nhờ họ giải quyết luôn tất cả các vấn đề cá nhân của dòng họ bạn."
+        "Nhờ họ giải quyết luôn tất cả các vấn đề cá nhân của dòng họ bạn.",
+        "Bày tỏ lòng biết ơn chân thành, nêu rõ một mục tiêu cụ thể và thực tế mà sự giúp đỡ đó có thể tạo ra tác động lớn nhất, và cam kết nỗ lực thực thi."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Đón nhận thông minh: định hướng sự giúp đỡ vào đúng điểm đòn bẩy chiến lược và chứng minh bằng kết quả thực tế để không phụ lòng tin của họ."
     },
     {
@@ -130,8 +130,8 @@
       "options": [
         "Vì các lãnh đạo lớn luôn bị bao quanh bởi những kẻ chỉ biết nói những điều họ muốn nghe; một người dám nói sự thật khách quan với sự tôn trọng sẽ trở thành cố vấn vô giá.",
         "Vì người quyền lực không bao giờ biết cách tự mình tìm kiếm thông tin.",
-        "Vì nói sự thật sẽ giúp bạn được thăng chức ngay lập tức trong 24 giờ.",
-        "Vì pháp luật bắt buộc các cố vấn phải nói thật trong mọi trường hợp."
+        "Vì pháp luật bắt buộc các cố vấn phải nói thật trong mọi trường hợp.",
+        "Vì nói sự thật sẽ giúp bạn được thăng chức ngay lập tức trong 24 giờ."
       ],
       "correctIndex": 0,
       "explanation": "Sự thật là món hàng xa xỉ nhất trên đỉnh cao quyền lực; lòng can đảm nói lời trung thực với tinh thần xây dựng là phẩm chất của những bậc đại trượng phu."
@@ -140,9 +140,9 @@
       "id": "q12",
       "question": "Điều gì lý giải tại sao việc phụng sự các dự án phi lợi nhuận của các nhân vật quyền lực lại là cầu nối tiếp cận hiệu quả nhất?",
       "options": [
-        "Vì đó là cách duy nhất để được xuất hiện trong di chúc của các tỷ phú.",
-        "Vì tại không gian thiện nguyện, mọi ranh giới quyền lực bị xóa bỏ; bạn và họ cùng đứng chung trên một chiến tuyến vì những giá trị nhân văn cao đẹp.",
         "Vì bạn sẽ được nhận thù lao tình nguyện viên cao gấp đôi lương công chức.",
+        "Vì tại không gian thiện nguyện, mọi ranh giới quyền lực bị xóa bỏ; bạn và họ cùng đứng chung trên một chiến tuyến vì những giá trị nhân văn cao đẹp.",
+        "Vì đó là cách duy nhất để được xuất hiện trong di chúc của các tỷ phú.",
         "Vì các dự án từ thiện không bao giờ yêu cầu bạn phải có kinh nghiệm chuyên môn."
       ],
       "correctIndex": 1,
@@ -152,10 +152,10 @@
       "id": "q13",
       "question": "Khi bạn đại diện cho một doanh nghiệp nhỏ đàm phán với một tập đoàn quyền lực khổng lồ, tâm thế đúng đắn là gì?",
       "options": [
-        "Chấp nhận mọi điều khoản bất lợi và chịu lỗ vốn để được ký hợp đồng.",
+        "Đe dọa sẽ kiện tập đoàn lớn nếu họ không chấp nhận mức giá của bạn.",
         "Tự tin vào giá trị độc nhất và sự linh hoạt sáng tạo của doanh nghiệp mình; xem đây là cuộc đàm phán hợp tác cùng thắng giữa hai đối tác bình đẳng.",
         "Hủy bỏ cuộc đàm phán vì nghĩ rằng doanh nghiệp nhỏ không thể hợp tác với tập đoàn lớn.",
-        "Đe dọa sẽ kiện tập đoàn lớn nếu họ không chấp nhận mức giá của bạn."
+        "Chấp nhận mọi điều khoản bất lợi và chịu lỗ vốn để được ký hợp đồng."
       ],
       "correctIndex": 1,
       "explanation": "Kích thước không quyết định giá trị; sự đổi mới sáng tạo và tốc độ thực thi của doanh nghiệp nhỏ là mảnh ghép quý giá mà các tập đoàn khổng lồ luôn khao khát."
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Hành động nào sau đây là minh chứng cho việc duy trì mối quan hệ bền vững với một nhân vật quyền lực qua nhiều thập kỷ?",
       "options": [
-        "Vẫn giữ nguyên sự tôn trọng, lòng trung thành và sự quan tâm ấm áp ngay cả khi họ đã về hưu, rời khỏi vũ đài quyền lực và không còn mang lại lợi ích vật chất.",
-        "Lập tức cắt đứt liên lạc ngay trong ngày họ có quyết định thôi giữ chức vụ.",
         "Chỉ liên lạc lại khi họ được bổ nhiệm vào một vị trí quyền lực mới.",
-        "Yêu cầu họ phải hoàn trả lại tất cả các món quà bạn đã tặng trong quá khứ."
+        "Vẫn giữ nguyên sự tôn trọng, lòng trung thành và sự quan tâm ấm áp ngay cả khi họ đã về hưu, rời khỏi vũ đài quyền lực và không còn mang lại lợi ích vật chất.",
+        "Yêu cầu họ phải hoàn trả lại tất cả các món quà bạn đã tặng trong quá khứ.",
+        "Lập tức cắt đứt liên lạc ngay trong ngày họ có quyết định thôi giữ chức vụ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Tình nghĩa thủy chung khi đối phương mất đi quyền lực là thước đo vàng của nhân cách; sự tử tế trước sau như một là phẩm chất cao quý nhất của con người."
     },
     {
@@ -178,8 +178,8 @@
       "options": [
         "Quyền lực thực sự không nằm ở chiếc ghế địa vị, mà nằm ở nhân cách và sự phụng sự; hãy bước đi với sự tự tin của một người mang trong mình giá trị đích thực.",
         "Chỉ có những người sinh ra trong dòng dõi quý tộc mới có quyền tiếp cận quyền lực.",
-        "Quyền lực là một thứ xấu xa và người tử tế nên tránh xa mọi mối quan hệ quyền lực.",
-        "Hãy luôn dùng tiền bạc và sự xu nịnh để mua chuộc những người có quyền lực."
+        "Hãy luôn dùng tiền bạc và sự xu nịnh để mua chuộc những người có quyền lực.",
+        "Quyền lực là một thứ xấu xa và người tử tế nên tránh xa mọi mối quan hệ quyền lực."
       ],
       "correctIndex": 0,
       "explanation": "Đứng thẳng lưng, nhìn thẳng vào mắt và trao đi giá trị bằng cả tấm lòng; đó là cách duy nhất để bạn đồng hành cùng những người dẫn dắt thế giới."

@@ -9,68 +9,68 @@
       "question": "Mối quan hệ 'Người đỡ đầu' (Mentorship) được định nghĩa là gì trong hành trình phát triển sự nghiệp đỉnh cao?",
       "options": [
         "Việc tìm kiếm một người giàu có để xin nhận làm con nuôi hợp pháp.",
-        "Hợp đồng thuê gia sư dạy kèm các môn học tính toán theo giờ có trả phí.",
         "Mối quan hệ đồng hành thiêng liêng, nơi một người đi trước giàu trải nghiệm tận tâm truyền dạy trí tuệ, khai mở tiềm năng và bảo trợ cho một người trẻ có khát vọng vươn lên.",
-        "Mối quan hệ giao dịch thương mại mua bán các bí mật kinh doanh nội bộ."
+        "Mối quan hệ giao dịch thương mại mua bán các bí mật kinh doanh nội bộ.",
+        "Hợp đồng thuê gia sư dạy kèm các môn học tính toán theo giờ có trả phí."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Mentor là chiếc la bàn sống và chiếc đòn bẩy vĩ đại nhất; một người đỡ đầu xuất sắc có thể giúp bạn rút ngắn 10-20 năm thử và sai trong sự nghiệp."
     },
     {
       "id": "q2",
       "question": "Vòng tuần hoàn khép kín 'Tìm người đỡ đầu -> Trở thành người đỡ đầu -> Tiếp tục tìm người đỡ đầu mới' mang ý nghĩa triết lý sâu sắc nào?",
       "options": [
-        "Là cách duy nhất để tránh bị sa thải khi bước qua tuổi 40.",
-        "Là một quy định bắt buộc trong các bản cam kết thăng chức của các tập đoàn.",
         "Để đảm bảo bạn không bao giờ phải tự mình đưa ra các quyết định kinh doanh.",
-        "Sự tiến hóa của con người là một dòng chảy tiếp nối liên tục; bạn học hỏi từ thế hệ đi trước, trao truyền lại cho thế hệ đi sau và không ngừng nâng tầm nhận thức ở những nấc thang mới."
+        "Sự tiến hóa của con người là một dòng chảy tiếp nối liên tục; bạn học hỏi từ thế hệ đi trước, trao truyền lại cho thế hệ đi sau và không ngừng nâng tầm nhận thức ở những nấc thang mới.",
+        "Là một quy định bắt buộc trong các bản cam kết thăng chức của các tập đoàn.",
+        "Là cách duy nhất để tránh bị sa thải khi bước qua tuổi 40."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Đạo làm trò và đạo làm thầy hòa quyện làm một; sự kế thừa và lan tỏa ngọn lửa tri thức là động lực thúc đẩy nền văn minh nhân loại không ngừng tiến lên."
     },
     {
       "id": "q3",
       "question": "Hình tượng Đệ nhất phu nhân Eleanor Roosevelt được phân tích trong chương này như một tấm gương vĩ đại về điều gì?",
       "options": [
-        "Một người phụ nữ kiệt xuất đã không ngừng tìm kiếm các cố vấn trí tuệ vĩ đại để vượt qua bi kịch cá nhân, và sau đó trở thành người đỡ đầu che chở cho phong trào nhân quyền toàn cầu.",
+        "Một người phản đối mọi hoạt động cố vấn và đỡ đầu trong chính phủ Mỹ.",
         "Một chính trị gia chỉ lắng nghe ý kiến của các thành viên trong gia tộc Roosevelt.",
         "Một phu nhân tổng thống chỉ tập trung vào việc tổ chức các buổi tiệc dạ hội xa hoa.",
-        "Một người phản đối mọi hoạt động cố vấn và đỡ đầu trong chính phủ Mỹ."
+        "Một người phụ nữ kiệt xuất đã không ngừng tìm kiếm các cố vấn trí tuệ vĩ đại để vượt qua bi kịch cá nhân, và sau đó trở thành người đỡ đầu che chở cho phong trào nhân quyền toàn cầu."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Eleanor Roosevelt đã biến những nỗi đau đời mình thành suối nguồn trắc ẩn; bà nâng đỡ và trở thành điểm tựa tinh thần vĩ đại cho hàng triệu con người yếu thế trên thế giới."
     },
     {
       "id": "q4",
       "question": "Sai lầm lớn nhất của những người trẻ khi đi tìm Mentor là gì?",
       "options": [
+        "Đọc tất cả các cuốn sách và bài viết do Mentor đã từng xuất bản trước khi gặp mặt.",
         "Tiếp cận với tâm thế của một kẻ chỉ biết đòi hỏi, xin xỏ thời gian và sự giúp đỡ mà không hề suy nghĩ xem mình có thể đóng góp hoặc mang lại giá trị gì cho Mentor.",
         "Gửi email với tiêu đề quá ngắn gọn và lịch sự.",
-        "Đọc tất cả các cuốn sách và bài viết do Mentor đã từng xuất bản trước khi gặp mặt.",
         "Đến đúng giờ trong các buổi hẹn uống cà phê cùng Mentor."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Mentorship là đường hai chiều: người được đỡ đầu phải mang lại nguồn năng lượng tươi mới, sự tận tụy hỗ trợ công việc và lòng trung thành phụng sự Mentor."
     },
     {
       "id": "q5",
       "question": "Làm thế nào để một người trẻ chưa có tên tuổi có thể thu hút và chinh phục được một Mentor hàng đầu trong ngành?",
       "options": [
-        "Chứng minh tiềm năng xuất chúng thông qua các kết quả công việc cụ thể, thể hiện sự khát khao học hỏi mãnh liệt, tính kỷ luật sắt đá và sự phụng sự vô điều kiện cho các dự án của Mentor.",
         "Gửi thư đe dọa sẽ tố cáo các bí mật kinh doanh nếu Mentor từ chối giúp đỡ.",
-        "Nhờ cha mẹ gọi điện thoại ép buộc Mentor phải nhận đỡ đầu.",
-        "Đưa tiền mặt cho Mentor để trả tiền học phí tư vấn cá nhân."
+        "Đưa tiền mặt cho Mentor để trả tiền học phí tư vấn cá nhân.",
+        "Chứng minh tiềm năng xuất chúng thông qua các kết quả công việc cụ thể, thể hiện sự khát khao học hỏi mãnh liệt, tính kỷ luật sắt đá và sự phụng sự vô điều kiện cho các dự án của Mentor.",
+        "Nhờ cha mẹ gọi điện thoại ép buộc Mentor phải nhận đỡ đầu."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Người thầy giỏi luôn tìm kiếm hạt giống tốt; khi bạn chứng minh được ngọn lửa đam mê và sự tận tụy phi thường, người thầy sẽ tự khắc xuất hiện."
     },
     {
       "id": "q6",
       "question": "Nguyên tắc 'Hội đồng cố vấn cá nhân' (Personal Board of Advisors) khuyên bạn nên làm gì?",
       "options": [
-        "Thuê 100 chuyên gia tư vấn nước ngoài về làm việc toàn thời gian cho bạn.",
         "Thành lập một công ty cổ phần để trả lương hàng tháng cho các Mentor.",
         "Chỉ có một Mentor duy nhất trong suốt toàn bộ cuộc đời từ khi sinh ra đến khi chết.",
+        "Thuê 100 chuyên gia tư vấn nước ngoài về làm việc toàn thời gian cho bạn.",
         "Xây dựng một nhóm 3-5 Mentor thuộc các lĩnh vực khác nhau (chiến lược sự nghiệp, tài chính, đời sống tinh thần, chuyên môn kỹ thuật) để có được những lời khuyên đa chiều."
       ],
       "correctIndex": 3,
@@ -81,47 +81,47 @@
       "question": "Hành động nào thể hiện sự tôn trọng tối cao đối với thời gian quý báu của một người Mentor bận rộn?",
       "options": [
         "Liên tục gọi điện thoại vào lúc nửa đêm để hỏi những câu hỏi ngớ ngẩn.",
-        "Đến buổi gặp mà không có bất kỳ kế hoạch nào và ngồi tâm sự chuyện phiếm suốt 3 tiếng.",
         "Chuẩn bị sẵn danh sách các câu hỏi cụ thể, ngắn gọn, báo cáo kết quả thực thi các lời khuyên từ lần gặp trước và không bao giờ đến muộn dù chỉ 1 phút.",
+        "Đến buổi gặp mà không có bất kỳ kế hoạch nào và ngồi tâm sự chuyện phiếm suốt 3 tiếng.",
         "Yêu cầu Mentor phải viết hộ bản kế hoạch kinh doanh cho bạn."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Thực thi lời khuyên và báo cáo tiến độ thực tế là món quà tri ân tuyệt vời nhất mà mọi Mentor đều khao khát nhìn thấy ở học trò của mình."
     },
     {
       "id": "q8",
       "question": "Tại sao việc 'Trở thành người đỡ đầu cho thế hệ trẻ hơn' (Mentoring others) lại giúp chính bạn phát triển vượt bậc?",
       "options": [
-        "Vì dạy học là cách học tốt nhất; việc hướng dẫn người khác buộc bạn phải hệ thống hóa tri thức, rèn luyện sự kiên nhẫn và được tiếp nạp nguồn năng lượng trẻ trung đầy nhiệt huyết.",
-        "Vì những người trẻ sẽ làm việc không công cho bạn suốt đời.",
         "Vì bạn có thể thu tiền hoa hồng từ mỗi bước thăng tiến của học trò.",
+        "Vì những người trẻ sẽ làm việc không công cho bạn suốt đời.",
+        "Vì dạy học là cách học tốt nhất; việc hướng dẫn người khác buộc bạn phải hệ thống hóa tri thức, rèn luyện sự kiên nhẫn và được tiếp nạp nguồn năng lượng trẻ trung đầy nhiệt huyết.",
         "Vì bạn sẽ được nhà nước trao tặng danh hiệu giáo sư danh dự."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Khai sáng người khác chính là tự khai sáng bản thân; đứng ở vai trò người trao truyền giúp nâng tầm nhận thức và nuôi dưỡng năng lực lãnh đạo tối thượng."
     },
     {
       "id": "q9",
       "question": "Khi bạn nhận được một lời khuyên thẳng thắn, đau đớn nhưng chính xác từ Mentor về một khuyết điểm của mình, thái độ đúng đắn là gì?",
       "options": [
-        "Khiêm tốn lắng nghe, cảm ơn Mentor vì đã dũng cảm nói lời sự thật, và lập tức đề ra kế hoạch hành động sửa đổi khuyết điểm đó một cách triệt để.",
-        "Tức giận, tranh cãi và tuyên bố cắt đứt quan hệ với Mentor ngay lập tức.",
         "Bỏ cuộc vĩnh viễn và rơi vào trạng thái trầm cảm vì bị phê bình.",
-        "Đăng bài viết lên mạng xã hội tố cáo Mentor đối xử bất công với mình."
+        "Tức giận, tranh cãi và tuyên bố cắt đứt quan hệ với Mentor ngay lập tức.",
+        "Đăng bài viết lên mạng xã hội tố cáo Mentor đối xử bất công với mình.",
+        "Khiêm tốn lắng nghe, cảm ơn Mentor vì đã dũng cảm nói lời sự thật, và lập tức đề ra kế hoạch hành động sửa đổi khuyết điểm đó một cách triệt để."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Thuốc đắng dã tật, lời thật mất lòng; một Mentor dám chỉ ra điểm mù của bạn là báu vật vô giá giúp bạn tránh khỏi những vực thẳm sụp đổ sau này."
     },
     {
       "id": "q10",
       "question": "Điều gì là ranh giới phân biệt giữa 'Một Mentor chân chính' và 'Một kẻ thao túng, kiểm soát'?",
       "options": [
-        "Mentor chân chính luôn tặng tiền mặt cho học trò vào mỗi buổi sáng.",
         "Kẻ thao túng là người bắt buộc bạn phải đọc sách mỗi ngày.",
+        "Mentor chân chính luôn tôn trọng sự tự do ý chí, nâng đỡ bạn trở thành phiên bản tốt nhất của chính bạn; kẻ thao túng biến bạn thành bản sao phục tùng lợi ích của họ.",
         "Không có sự khác biệt; mọi mối quan hệ đỡ đầu đều mang tính kiểm soát.",
-        "Mentor chân chính luôn tôn trọng sự tự do ý chí, nâng đỡ bạn trở thành phiên bản tốt nhất của chính bạn; kẻ thao túng biến bạn thành bản sao phục tùng lợi ích của họ."
+        "Mentor chân chính luôn tặng tiền mặt cho học trò vào mỗi buổi sáng."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Mục tiêu tối thượng của người thầy vĩ đại là giúp học trò vượt qua chính mình và bước đi vững vàng trên đôi chân độc lập của họ."
     },
     {
@@ -130,58 +130,58 @@
       "options": [
         "Việc con cái trả tiền sinh hoạt phí hàng tháng cho cha mẹ.",
         "Một mô hình đào tạo bị cấm áp dụng trong các cơ quan nhà nước.",
-        "Các nhân viên trẻ tuổi đóng vai trò là Mentor hướng dẫn các nhà lãnh đạo cấp cao kỳ cựu về công nghệ mới, văn hóa mạng xã hội và tư duy của thế hệ trẻ.",
-        "Việc học trò bắt buộc các giáo sư đại học phải nộp bài tập về nhà."
+        "Việc học trò bắt buộc các giáo sư đại học phải nộp bài tập về nhà.",
+        "Các nhân viên trẻ tuổi đóng vai trò là Mentor hướng dẫn các nhà lãnh đạo cấp cao kỳ cựu về công nghệ mới, văn hóa mạng xã hội và tư duy của thế hệ trẻ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Học hỏi đa chiều: sự tươi mới của thế hệ trẻ bổ khuyết cho kinh nghiệm của thế hệ đi trước, tạo nên sự chuyển hóa văn hóa doanh nghiệp mạnh mẽ."
     },
     {
       "id": "q12",
       "question": "Khi một mối quan hệ đỡ đầu đã hoàn thành sứ mệnh lịch sử và bạn đã trưởng thành vượt bậc, cách chuyển hóa mối quan hệ là gì?",
       "options": [
+        "Lập tức tuyên chiến và tìm cách thôn tính công ty của Mentor cũ.",
         "Chuyển hóa từ mối quan hệ 'Thầy - Trò' sang mối quan hệ 'Đối tác chiến lược và Bạn tri kỷ đồng hành bình đẳng', luôn giữ trọn lòng kính trọng và biết ơn sâu sắc.",
         "Cắt đứt toàn bộ liên lạc và coi Mentor cũ là đối thủ cạnh tranh nguy hiểm.",
-        "Lập tức tuyên chiến và tìm cách thôn tính công ty của Mentor cũ.",
         "Yêu cầu Mentor cũ phải bồi thường tiền mặt cho thời gian bạn đã học việc."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Sự trưởng thành của học trò là niềm tự hào của người thầy; mối quan hệ sẽ thăng hoa thành tình bằng hữu tri giao cùng nhau phụng sự xã hội."
     },
     {
       "id": "q13",
       "question": "Tại sao việc 'không bao giờ nói xấu hoặc phản bội Mentor cũ' lại là nguyên tắc đạo đức thiêng liêng nhất?",
       "options": [
-        "Vì đạo lý tôn sư trọng đạo và sự trung thành là nền tảng của mọi mối quan hệ; kẻ phản bội người từng nâng đỡ mình sẽ bị toàn bộ thế giới kinh doanh tẩy chay.",
         "Vì Mentor cũ có quyền thu hồi lại toàn bộ bằng cấp của bạn.",
+        "Vì luật pháp hình sự quy định việc nói xấu Mentor là tội phản quốc.",
         "Vì các công ty bảo hiểm sẽ hủy bỏ hợp đồng nếu bạn nói xấu Mentor.",
-        "Vì luật pháp hình sự quy định việc nói xấu Mentor là tội phản quốc."
+        "Vì đạo lý tôn sư trọng đạo và sự trung thành là nền tảng của mọi mối quan hệ; kẻ phản bội người từng nâng đỡ mình sẽ bị toàn bộ thế giới kinh doanh tẩy chay."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Ăn quả nhớ kẻ trồng cây; lòng biết ơn và sự trung thủy trước sau như một là bảo chứng vàng son cho nhân cách của một nhà lãnh đạo chân chính."
     },
     {
       "id": "q14",
       "question": "Một người đang thành đạt có thể bắt đầu hành trình 'Trở thành Mentor' như thế nào để đóng góp cho xã hội?",
       "options": [
-        "Dành ra 2-4 giờ mỗi tháng để đồng hành, hướng dẫn 1-2 bạn trẻ có hoàn cảnh khó khăn nhưng giàu nghị lực thông qua các chương trình cố vấn uy tín.",
-        "Thu học phí 10.000 USD cho mỗi giờ nói chuyện cá nhân.",
         "Tự phong mình là bậc thầy tâm linh trên các diễn đàn mạng xã hội.",
+        "Thu học phí 10.000 USD cho mỗi giờ nói chuyện cá nhân.",
+        "Dành ra 2-4 giờ mỗi tháng để đồng hành, hướng dẫn 1-2 bạn trẻ có hoàn cảnh khó khăn nhưng giàu nghị lực thông qua các chương trình cố vấn uy tín.",
         "Chỉ nhận đỡ đầu những người có quan hệ họ hàng thân thích trong gia đình."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Trao đi ngọn lửa tri thức và tình thương yêu cho thế hệ trẻ là hành động đẹp đẽ nhất để bạn trả ơn cho cuộc đời và bất tử hóa di sản của mình."
     },
     {
       "id": "q15",
       "question": "Chân lý thiêng liêng nhất của chương 29 có thể đúc kết thành bài học nào?",
       "options": [
-        "Thành công thực sự là việc vượt qua tất cả mọi người mà không cần ai giúp đỡ.",
         "Hãy luôn giữ kín mọi bí quyết thành công để không ai có thể vượt qua bạn.",
-        "Không ai có thể tự mình thành công; hãy khiêm nhường tìm kiếm những bậc thầy dẫn đường, và khi chạm tới đỉnh cao, hãy cúi xuống dang tay nâng đỡ những người đi sau.",
-        "Người đỡ đầu chỉ mang lại sự phiền toái và làm chậm tốc độ phát triển của bạn."
+        "Người đỡ đầu chỉ mang lại sự phiền toái và làm chậm tốc độ phát triển của bạn.",
+        "Thành công thực sự là việc vượt qua tất cả mọi người mà không cần ai giúp đỡ.",
+        "Không ai có thể tự mình thành công; hãy khiêm nhường tìm kiếm những bậc thầy dẫn đường, và khi chạm tới đỉnh cao, hãy cúi xuống dang tay nâng đỡ những người đi sau."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Dòng chảy tiếp nối của trí tuệ và lòng nhân ái là khúc ca huy hoàng nhất của nhân loại; hãy sống như một chiếc cầu nối vững chắc đưa muôn người qua sông."
     }
   ]

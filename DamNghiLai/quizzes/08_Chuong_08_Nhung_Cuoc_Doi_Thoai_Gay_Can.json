@@ -9,23 +9,23 @@
       "question": "Khái niệm 'Phức tạp hóa các cuộc thảo luận' (Complexifying) được Adam Grant đề xuất nhằm giải quyết căn bệnh nhận thức nào của xã hội hiện đại?",
       "options": [
         "Việc kéo dài thời gian của các cuộc họp hội đồng quản trị lên gấp 10 lần.",
-        "Căn bệnh 'Nhị nguyên hóa đơn giản' (Binary Bias): Xu hướng nguy hiểm chia mọi vấn đề phức tạp thành hai phe đối lập trắng/đen, đúng/sai, thiện/ác tuyệt đối.",
         "Tình trạng học sinh sử dụng quá nhiều từ ngữ chuyên ngành phức tạp trong các bài thi văn học.",
+        "Căn bệnh 'Nhị nguyên hóa đơn giản' (Binary Bias): Xu hướng nguy hiểm chia mọi vấn đề phức tạp thành hai phe đối lập trắng/đen, đúng/sai, thiện/ác tuyệt đối.",
         "Sự gia tăng của các thuật toán mã hóa dữ liệu máy tính trong lĩnh vực ngân hàng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Thực tế cuộc sống có vô vàn sắc thái xám và nhiều góc nhìn đa chiều; việc đơn giản hóa nhị nguyên là cội nguồn của sự cực đoan, chia rẽ và thù hận xã hội."
     },
     {
       "id": "q2",
       "question": "Dự án 'Phòng thí nghiệm những cuộc đối thoại khó khăn' (Difficult Conversations Lab) của Peter Coleman tại Đại học Columbia phát hiện ra điều gì?",
       "options": [
-        "Mọi người đều tự động thay đổi quan điểm chính trị sau khi xem các biểu đồ thống kê.",
         "Khi các bài viết về các chủ đề gây tranh cãi gay gắt (như phá thai hay biến đổi khí hậu) được trình bày với nhiều góc nhìn đa chiều phức tạp, người đọc trở nên ôn hòa và cởi mở đối thoại hơn nhiều.",
+        "Không bao giờ nên thảo luận về các chủ đề gây tranh cãi trong các cơ quan nghiên cứu học thuật.",
         "Các cuộc tranh luận về chính trị luôn luôn dẫn đến bạo lực thể xác trong phòng thí nghiệm.",
-        "Không bao giờ nên thảo luận về các chủ đề gây tranh cãi trong các cơ quan nghiên cứu học thuật."
+        "Mọi người đều tự động thay đổi quan điểm chính trị sau khi xem các biểu đồ thống kê."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Khi nhận ra vấn đề không chỉ có hai mặt đối lập trắng/đen mà là một quang phổ nhiều màu sắc, não bộ sẽ thoát khỏi phản xạ phòng vệ nhị nguyên và sẵn sàng lắng nghe sâu sắc."
     },
     {
@@ -44,12 +44,12 @@
       "id": "q4",
       "question": "Khái niệm 'Sự an tâm về mặt nhận thức' (Epistemic Security) đối lập như thế nào với 'Sự phong phú về nhận thức' (Epistemic Richness)?",
       "options": [
-        "Sự an tâm nhận thức bám vào những câu trả lời đơn giản để xoa dịu nỗi sợ bất định; trong khi sự phong phú nhận thức chấp nhận sự phức tạp, bí ẩn và dám sống cùng những câu hỏi chưa có lời đáp.",
-        "Sự phong phú nhận thức chỉ xuất hiện ở những người có thu nhập cao trong xã hội.",
+        "Sự an tâm nhận thức là một chính sách bảo hiểm tài chính dành cho các nhà khoa học.",
         "Hai khái niệm này hoàn toàn giống nhau và đều chỉ trạng thái thông thái của con người.",
-        "Sự an tâm nhận thức là một chính sách bảo hiểm tài chính dành cho các nhà khoa học."
+        "Sự phong phú nhận thức chỉ xuất hiện ở những người có thu nhập cao trong xã hội.",
+        "Sự an tâm nhận thức bám vào những câu trả lời đơn giản để xoa dịu nỗi sợ bất định; trong khi sự phong phú nhận thức chấp nhận sự phức tạp, bí ẩn và dám sống cùng những câu hỏi chưa có lời đáp."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Kẻ cuồng tín luôn khao khát sự an tâm giả tạo của những khẩu hiệu đen/trắng; bậc đại trí dũng cảm đón nhận sự phức tạp và phong phú của thực tại muôn màu."
     },
     {
@@ -58,8 +58,8 @@
       "options": [
         "Từ chối trả lời mọi câu hỏi phỏng vấn của các nhà báo và phóng viên truyền hình.",
         "Chủ động nêu rõ các giới hạn của nghiên cứu, những điểm còn hoài nghi và những điều khoa học CHƯA BIẾT RÕ; sự trung thực đó nâng cao uy tín và lòng tin của công chúng gấp nhiều lần.",
-        "Khẳng định chắc nịch 100% rằng nghiên cứu của mình là chân lý vĩnh cửu tuyệt đối không thể sai.",
-        "Thuê một công ty quan hệ công chúng (PR) để xóa bỏ các bài viết phản biện trên mạng."
+        "Thuê một công ty quan hệ công chúng (PR) để xóa bỏ các bài viết phản biện trên mạng.",
+        "Khẳng định chắc nịch 100% rằng nghiên cứu của mình là chân lý vĩnh cửu tuyệt đối không thể sai."
       ],
       "correctIndex": 1,
       "explanation": "Khi nhà khoa học thể hiện sự khiêm nhường và minh bạch về những giới hạn dữ liệu, công chúng sẽ tin tưởng họ như một người tìm kiếm chân lý chứ không phải một kẻ rao giảng giáo điều."
@@ -68,21 +68,21 @@
       "id": "q6",
       "question": "Trong các cuộc tranh luận gia đình hoặc công sở, câu thần chú nào giúp 'Phức tạp hóa' và làm dịu ngay lập tức sự căng thẳng?",
       "options": [
-        "'Vấn đề này thực sự rất phức tạp và có nhiều khía cạnh; tôi tò mò muốn biết thêm góc nhìn của bạn về những điểm mà tôi có thể đang bỏ sót'.",
-        "'Tôi đúng 100% và bạn hoàn toàn sai lầm từ đầu đến cuối'.",
         "'Hãy im lặng và làm theo mệnh lệnh của tôi ngay lập tức'.",
+        "'Tôi đúng 100% và bạn hoàn toàn sai lầm từ đầu đến cuối'.",
+        "'Vấn đề này thực sự rất phức tạp và có nhiều khía cạnh; tôi tò mò muốn biết thêm góc nhìn của bạn về những điểm mà tôi có thể đang bỏ sót'.",
         "'Chúng ta không cần nói chuyện với nhau nữa vì bạn quá cứng đầu'."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Thừa nhận sự phức tạp và bày tỏ óc tò mò chân thành là chiếc van xả áp lực tâm lý hoàn hảo, biến cuộc đối đầu thành một cuộc thám hiểm chung tìm giải pháp."
     },
     {
       "id": "q7",
       "question": "Hiện tượng 'Cảm xúc đa tầng' (Emotional Complexity) trong những cuộc đối thoại gay cấn giúp con người điều gì?",
       "options": [
-        "Một triệu chứng tâm thần chỉ xuất hiện ở những nghệ sĩ biểu diễn sân khấu.",
-        "Nhận ra rằng bạn có thể VỪA cảm thấy tức giận VỪA cảm thấy yêu thương; VỪA cảm thấy bất an VỪA cảm thấy hy vọng; việc chấp nhận cảm xúc đa tầng giúp bạn không bị cảm xúc tiêu cực kiểm soát.",
         "Làm cho con người rơi vào trạng thái rối loạn đa nhân cách nguy hiểm.",
+        "Nhận ra rằng bạn có thể VỪA cảm thấy tức giận VỪA cảm thấy yêu thương; VỪA cảm thấy bất an VỪA cảm thấy hy vọng; việc chấp nhận cảm xúc đa tầng giúp bạn không bị cảm xúc tiêu cực kiểm soát.",
+        "Một triệu chứng tâm thần chỉ xuất hiện ở những nghệ sĩ biểu diễn sân khấu.",
         "Khiến cho bạn không thể đưa ra bất kỳ quyết định dứt khoát nào trong công việc."
       ],
       "correctIndex": 1,
@@ -92,33 +92,33 @@
       "id": "q8",
       "question": "Tại sao việc 'Đưa vào các câu chuyện cá nhân có tính mâu thuẫn' lại giúp giảm bớt sự cực đoan trong các vấn đề chính trị nhạy cảm?",
       "options": [
-        "Vì các câu chuyện đời thực luôn chứa đựng những tình huống ngoại lệ đầy trăn trở, buộc người nghe phải nhìn nhận vấn đề vượt ra ngoài các khẩu hiệu đảng phái cứng nhắc.",
-        "Vì các câu chuyện cá nhân giúp kéo dài thời gian phát biểu của các chính trị gia.",
         "Vì người nghe chỉ thích nghe những câu chuyện hài hước giải trí cuối tuần.",
-        "Vì các câu chuyện cá nhân luôn được chứng thực bởi công chứng viên tư pháp."
+        "Vì các câu chuyện cá nhân luôn được chứng thực bởi công chứng viên tư pháp.",
+        "Vì các câu chuyện đời thực luôn chứa đựng những tình huống ngoại lệ đầy trăn trở, buộc người nghe phải nhìn nhận vấn đề vượt ra ngoài các khẩu hiệu đảng phái cứng nhắc.",
+        "Vì các câu chuyện cá nhân giúp kéo dài thời gian phát biểu của các chính trị gia."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Hiện thực cuộc sống không tuân theo các tín điều giáo điều; khi đối diện với những nghịch lý nhân văn trong đời thực, sự cuồng tín buộc phải nhường chỗ cho sự thấu cảm."
     },
     {
       "id": "q9",
       "question": "Khái niệm 'Sự an toàn trong nhận thức về sự không hoàn hảo' (Comfort with Ambiguity) là phẩm chất nổi bật của nhóm người nào?",
       "options": [
-        "Những người từ chối sử dụng các thiết bị công nghệ hiện đại trong sinh hoạt.",
-        "Những học sinh luôn đạt điểm kém trong các kỳ thi trắc nghiệm chuẩn hóa.",
         "Những nhà tư tưởng đổi mới, các nhà khoa học đột phá và các nhà hòa giải vĩ đại - những người không sợ hãi trước những câu hỏi chưa có câu trả lời rõ ràng.",
-        "Những người mắc chứng lười suy nghĩ và không có mục tiêu sống."
+        "Những người từ chối sử dụng các thiết bị công nghệ hiện đại trong sinh hoạt.",
+        "Những người mắc chứng lười suy nghĩ và không có mục tiêu sống.",
+        "Những học sinh luôn đạt điểm kém trong các kỳ thi trắc nghiệm chuẩn hóa."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Tiến bộ nhân loại diễn ra ở vùng ranh giới mờ ảo giữa cái đã biết và cái chưa biết; người dũng cảm sống cùng sự mơ hồ là người sẽ khám phá ra những chân trời mới."
     },
     {
       "id": "q10",
       "question": "Bài học từ việc các chuyên gia đối thoại về vấn đề 'Bảo tồn thiên nhiên vs Khai thác kinh tế' là gì?",
       "options": [
+        "Không bao giờ có thể tìm thấy tiếng nói chung giữa các nhà môi trường và doanh nghiệp.",
         "Tất cả các hoạt động khai thác công nghiệp đều phải bị cấm đoán vĩnh viễn.",
         "Nền kinh tế luôn luôn quan trọng hơn môi trường sống trong mọi trường hợp.",
-        "Không bao giờ có thể tìm thấy tiếng nói chung giữa các nhà môi trường và doanh nghiệp.",
         "Khi các bên cùng nhau ngồi lại để xem xét toàn bộ hệ sinh thái phức tạp, họ phát hiện ra rằng bảo tồn bền vững chính là nền tảng bảo vệ nền kinh tế lâu dài, chứ không phải hai mục tiêu triệt tiêu lẫn nhau."
       ],
       "correctIndex": 3,
@@ -128,56 +128,56 @@
       "id": "q11",
       "question": "Tại sao việc 'Tránh sử dụng những từ ngữ tuyệt đối hóa' (như: 'Luôn luôn', 'Không bao giờ', 'Tất cả', 'Chắc chắn 100%') lại nâng cao chất lượng đối thoại?",
       "options": [
-        "Vì ngôn từ tuyệt đối hóa kích hoạt sự phản bác và chứng minh tính phi lý; trong khi ngôn từ xác suất (như: 'Thường thì', 'Trong nhiều trường hợp', 'Bằng chứng gợi ý') mở ra không gian trao đổi khoa học.",
-        "Vì sử dụng từ ngữ xác suất giúp bạn có thể thoái thác trách nhiệm khi dự án thất bại.",
         "Vì các từ ngữ tuyệt đối hóa bị cấm sử dụng trong các văn bản quy phạm pháp luật.",
+        "Vì sử dụng từ ngữ xác suất giúp bạn có thể thoái thác trách nhiệm khi dự án thất bại.",
+        "Vì ngôn từ tuyệt đối hóa kích hoạt sự phản bác và chứng minh tính phi lý; trong khi ngôn từ xác suất (như: 'Thường thì', 'Trong nhiều trường hợp', 'Bằng chứng gợi ý') mở ra không gian trao đổi khoa học.",
         "Vì ngôn từ tuyệt đối hóa chỉ dành riêng cho các nhà thơ viết văn học cổ điển."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Sự thận trọng trong ngôn từ là dấu chỉ của một tâm trí khoa học; nó mời gọi sự đóng góp ý kiến thay vì dựng lên bức tường thành của sự độc đoán."
     },
     {
       "id": "q12",
       "question": "Thí nghiệm về 'Tác động của việc trình bày biểu đồ có thanh sai số' (Error Bars) đối với niềm tin của công chúng cho thấy điều gì?",
       "options": [
-        "Thanh sai số làm cho công chúng mất niềm tin vào toàn bộ ngành khoa học tự nhiên.",
-        "Công chúng hoàn toàn không hiểu ý nghĩa của các thanh sai số trên đồ thị.",
         "Khi các nhà khoa học minh bạch hiển thị các thanh sai số và khoảng tin cậy trên biểu đồ, công chúng đánh giá nghiên cứu đó có độ tin cậy và tính trung thực khoa học cao hơn nhiều.",
-        "Các nhà khoa học không bao giờ được phép công bố những số liệu có sai số thống kê."
+        "Thanh sai số làm cho công chúng mất niềm tin vào toàn bộ ngành khoa học tự nhiên.",
+        "Các nhà khoa học không bao giờ được phép công bố những số liệu có sai số thống kê.",
+        "Công chúng hoàn toàn không hiểu ý nghĩa của các thanh sai số trên đồ thị."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Sự trung thực về các giới hạn đo lường không làm giảm giá trị của khoa học; ngược lại, nó chứng minh sự nghiêm cẩn và nâng cao uy tín của các nhà nghiên cứu."
     },
     {
       "id": "q13",
       "question": "Làm thế nào để giáo dục thế hệ trẻ có khả năng 'Tư duy đa chiều và chịu đựng được sự bất định' trong thế giới số?",
       "options": [
+        "Khuyến khích học sinh tìm kiếm nhiều nguồn tài liệu đối lập, phân tích động cơ của các nguồn tin và dạy các em rằng một vấn đề luôn có nhiều tầng bậc nguyên nhân phức tạp.",
         "Chỉ cho phép học sinh đọc một cuốn sách giáo khoa duy nhất do bộ giáo dục ban hành.",
         "Cấm học sinh sử dụng internet và mạng xã hội cho đến khi tốt nghiệp đại học.",
-        "Khuyến khích học sinh tìm kiếm nhiều nguồn tài liệu đối lập, phân tích động cơ của các nguồn tin và dạy các em rằng một vấn đề luôn có nhiều tầng bậc nguyên nhân phức tạp.",
         "Yêu cầu học sinh học thuộc lòng tất cả các định nghĩa mà không được phép thắc mắc."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Trang bị cho người trẻ năng lực tư duy phản biện và khả năng đón nhận sự phức tạp là món quà giáo dục quý giá nhất giúp các em không bị thao túng trong thời đại số."
     },
     {
       "id": "q14",
       "question": "Cảnh báo của Adam Grant về 'Sự nguy hiểm của các thuật toán mạng xã hội' đối với sự suy giảm năng lực tư duy phức tạp là gì?",
       "options": [
-        "Các thuật toán được thiết kế để giữ chân người dùng bằng cách liên tục mớm cho họ những nội dung giật gân, phân cực đen/trắng, làm thui chột khả năng tư duy đa chiều của não bộ.",
-        "Các thuật toán mạng xã hội sẽ tự động xóa tài khoản của những người có tư duy phản biện.",
         "Mạng xã hội phát ra bức xạ điện từ làm giảm thị lực của người sử dụng.",
-        "Mạng xã hội là công cụ duy nhất giúp con người đạt được sự thông thái tuyệt đối."
+        "Mạng xã hội là công cụ duy nhất giúp con người đạt được sự thông thái tuyệt đối.",
+        "Các thuật toán được thiết kế để giữ chân người dùng bằng cách liên tục mớm cho họ những nội dung giật gân, phân cực đen/trắng, làm thui chột khả năng tư duy đa chiều của não bộ.",
+        "Các thuật toán mạng xã hội sẽ tự động xóa tài khoản của những người có tư duy phản biện."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Thuật toán kiếm tiền từ sự phẫn nộ và chia rẽ; để bảo vệ sự sáng suốt của tâm trí, chúng ta phải chủ động thoát khỏi chiếc 'buồng vang thông tin' (Echo Chamber) của mạng xã hội."
     },
     {
       "id": "q15",
       "question": "Thông điệp đúc kết sâu sắc nhất của Chương 8 về nghệ thuật làm chủ những cuộc đối thoại gay cấn là gì?",
       "options": [
-        "'Tránh xa mọi cuộc đối thoại khó khăn để bảo vệ sự yên ổn tuyệt đối cho bản thân'.",
         "'Hãy luôn chọn một phe rõ ràng và kiên quyết tiêu diệt phe đối lập bằng mọi giá'.",
+        "'Tránh xa mọi cuộc đối thoại khó khăn để bảo vệ sự yên ổn tuyệt đối cho bản thân'.",
         "'Thế giới không vận hành theo hai màu đen và trắng; hãy can đảm đón nhận sự phức tạp muôn màu của thực tại và biến những cuộc tranh luận gay gắt thành những cuộc thám hiểm trí tuệ chung!'.",
         "'Những câu trả lời đơn giản và ngắn gọn luôn luôn là những câu trả lời chính xác nhất'."
       ],

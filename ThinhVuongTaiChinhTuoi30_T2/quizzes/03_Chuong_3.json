@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Nguyên nhân gốc rễ dẫn đến bi kịch phá sản của đồng nghiệp Song Huiseong là gì?",
       "options": [
-        "Do công ty giảm lương 5%.",
-        "Do anh mua quá nhiều sách để đọc.",
         "Do lạm dụng thẻ tín dụng mua sắm bốc đồng, vay nợ trả góp vượt quá khả năng chi trả và sử dụng đòn bẩy tài chính liều lĩnh để đầu cơ lướt sóng.",
-        "Do anh bị trộm toàn bộ tài sản trong nhà."
+        "Do anh bị trộm toàn bộ tài sản trong nhà.",
+        "Do anh mua quá nhiều sách để đọc.",
+        "Do công ty giảm lương 5%."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Song Huiseong là tấm gương điển hình của việc sụp đổ tài chính do nghiện quẹt thẻ tín dụng, nợ chồng nợ và dùng đòn bẩy mạo hiểm vượt khả năng chịu đựng."
     },
     {
@@ -21,11 +21,11 @@
       "question": "Tại sao tác giả lại ví việc 'Lạm dụng thẻ tín dụng' nguy hiểm 'giống như say rượu lái xe'?",
       "options": [
         "Vì các ngân hàng chỉ phát hành thẻ cho người say rượu.",
-        "Vì quẹt thẻ tín dụng sẽ bị cảnh sát giao thông xử phạt.",
+        "Vì quẹt thẻ làm người tiêu dùng mất đi cảm giác đau đớn khi phải trả tiền mặt ngay lập tức, làm tê liệt khả năng phán đoán tài chính và dẫn đến những cú va chạm phá sản thảm khốc.",
         "Vì thẻ tín dụng chỉ có thể sử dụng tại các quán rượu.",
-        "Vì quẹt thẻ làm người tiêu dùng mất đi cảm giác đau đớn khi phải trả tiền mặt ngay lập tức, làm tê liệt khả năng phán đoán tài chính và dẫn đến những cú va chạm phá sản thảm khốc."
+        "Vì quẹt thẻ tín dụng sẽ bị cảnh sát giao thông xử phạt."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Thanh toán bằng thẻ tạo ra ảo giác 'tiêu tiền miễn phí' trong 45 ngày, làm lu mờ lý trí chi tiêu và dễ dàng đẩy người dùng vào vòng xoáy nợ nần không lối thoát."
     },
     {
@@ -33,8 +33,8 @@
       "question": "'Nguyên tắc 30% khi vay nợ mua nhà' quy định điều gì để bảo đảm an toàn tài chính cho gia đình?",
       "options": [
         "Bạn phải trả trước 30% tiền cọc cho chủ nhà.",
-        "Chỉ được phép mua nhà có diện tích dưới 30 mét vuông.",
         "Phải hoàn trả toàn bộ khoản vay trong vòng 30 tháng.",
+        "Chỉ được phép mua nhà có diện tích dưới 30 mét vuông.",
         "Tổng số tiền gốc và lãi vay mua nhà phải trả hàng tháng KHÔNG ĐƯỢC VƯỢT QUÁ 30% tổng thu nhập hàng tháng của gia đình."
       ],
       "correctIndex": 3,
@@ -44,44 +44,44 @@
       "id": "q4",
       "question": "Lời khuyên của chuyên gia về việc 'Mua xe ô tô trả góp' cảnh báo cạm bẫy tiêu sản nào?",
       "options": [
-        "Xe ô tô là tài sản tăng giá gấp đôi sau khi lăn bánh.",
-        "Xe ô tô là tiêu sản mất giá nhanh nhất (khấu hao 10-20%/năm) cộng thêm chi phí nuôi xe đắt đỏ (xăng, bảo hiểm, bảo dưỡng, gửi xe); mua xe vượt sức bằng nợ trả góp sẽ bóp nghẹt dòng tiền gia đình.",
         "Người mua xe ô tô sẽ bị cấm sử dụng thẻ tín dụng.",
-        "Mua xe ô tô sẽ được miễn toàn bộ tiền xăng trọn đời."
+        "Mua xe ô tô sẽ được miễn toàn bộ tiền xăng trọn đời.",
+        "Xe ô tô là tài sản tăng giá gấp đôi sau khi lăn bánh.",
+        "Xe ô tô là tiêu sản mất giá nhanh nhất (khấu hao 10-20%/năm) cộng thêm chi phí nuôi xe đắt đỏ (xăng, bảo hiểm, bảo dưỡng, gửi xe); mua xe vượt sức bằng nợ trả góp sẽ bóp nghẹt dòng tiền gia đình."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Xe hơi là cỗ máy tiêu tiền. Vay nợ mua xe để thỏa mãn sĩ diện là sai lầm bào mòn nghiêm trọng năng lực tích lũy của người trẻ tuổi 30."
     },
     {
       "id": "q5",
       "question": "'Thanh toán tín dụng theo giai đoạn / Quay vòng nợ thẻ (Revolving Credit)' là cái bẫy nguy hiểm như thế nào?",
       "options": [
-        "Áp dụng mức lãi suất cắt cổ (20-30%/năm) trên phần dư nợ chưa trả; thanh toán mức tối thiểu chỉ trả được một phần nhỏ tiền lãi, khiến nợ gốc phình to theo lãi kép ngược.",
         "Giúp người dùng được giảm giá 50% cho các lần mua sắm tiếp theo.",
         "Làm cho điểm tín dụng của bạn luôn đạt mức tuyệt đối.",
-        "Là hình thức được nhà nước hỗ trợ xóa nợ tự động sau 1 năm."
+        "Là hình thức được nhà nước hỗ trợ xóa nợ tự động sau 1 năm.",
+        "Áp dụng mức lãi suất cắt cổ (20-30%/năm) trên phần dư nợ chưa trả; thanh toán mức tối thiểu chỉ trả được một phần nhỏ tiền lãi, khiến nợ gốc phình to theo lãi kép ngược."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Trả nợ tối thiểu thẻ tín dụng là chiếc bẫy lãi kép ngược: bạn trả tiền đều đặn nhưng nợ gốc không giảm mà lãi suất phình to theo thời gian."
     },
     {
       "id": "q6",
       "question": "'Hiệu ứng đòn bẩy của nợ nần' (Financial Leverage) trong đầu tư có tính chất hai lưỡi ra sao?",
       "options": [
-        "Đòn bẩy nợ chỉ có tác dụng khi đầu tư vào vàng miếng.",
-        "Đòn bẩy luôn luôn đảm bảo mang lại lợi nhuận 100% trong mọi tình huống.",
+        "Sử dụng đòn bẩy nợ không bao giờ phải chịu áp lực trả lãi.",
         "Khi thị trường tăng thì lãi lớn, nhưng khi thị trường giảm thì mức lỗ bị khuếch đại gấp nhiều lần và có thể xóa sạch toàn bộ vốn gốc, đẩy nhà đầu tư vào cảnh phá sản và nợ nần ngập đầu.",
-        "Sử dụng đòn bẩy nợ không bao giờ phải chịu áp lực trả lãi."
+        "Đòn bẩy luôn luôn đảm bảo mang lại lợi nhuận 100% trong mọi tình huống.",
+        "Đòn bẩy nợ chỉ có tác dụng khi đầu tư vào vàng miếng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Đòn bẩy tài chính khuếch đại cả lợi nhuận lẫn rủi ro. Dùng nợ để đầu cơ là con đường ngắn nhất dẫn đến thảm cảnh cháy tài khoản và phá sản."
     },
     {
       "id": "q7",
       "question": "'Bước 1: Xây dựng dự toán chi tiêu' được xem là bước đầu tiên để trở thành người giàu có vì lý do gì?",
       "options": [
-        "Để chứng minh mình không có tiền mua sắm cho gia đình.",
         "Để có danh sách chi tiêu nộp cho ban quản lý tòa nhà.",
+        "Để chứng minh mình không có tiền mua sắm cho gia đình.",
         "Để giới hạn chi tiêu ăn uống dưới mức 10.000 đồng mỗi ngày.",
         "Giúp bạn chủ động 'ra lệnh cho đồng tiền' đi đâu thay vì thụ động tự hỏi tiền của mình đã biến đi đâu mất vào cuối tháng."
       ],
@@ -93,9 +93,9 @@
       "question": "'Bước 2: Nguyên tắc trả nợ 70:30' trong chương 3 được hiểu chính xác là gì?",
       "options": [
         "Dành tối đa 70% thu nhập cho chi phí sinh hoạt thiết yếu được tinh giản tối đa, và quyết liệt trích 30% thu nhập hàng tháng để tập trung trả dứt điểm các khoản nợ xấu có lãi suất cao nhất.",
-        "Dành 70% thu nhập để đi du lịch và 30% để trả nợ.",
+        "Vay nợ 70% giá trị tài sản và trả nợ 30% sau 50 năm.",
         "Trả nợ vào ngày 30 hàng tháng và vay lại vào ngày 7.",
-        "Vay nợ 70% giá trị tài sản và trả nợ 30% sau 50 năm."
+        "Dành 70% thu nhập để đi du lịch và 30% để trả nợ."
       ],
       "correctIndex": 0,
       "explanation": "Nguyên tắc 70:30 là công thức thắt lưng buộc bụng có kiểm soát: giữ mức sống cơ bản trong 70% và dồn lực 30% dòng tiền tấn công xóa sạch nợ xấu."
@@ -104,60 +104,60 @@
       "id": "q9",
       "question": "Khi thực hiện 'Phương pháp trả nợ quả cầu tuyết' (Debt Snowball) hoặc 'Phương pháp tuyết lở' (Debt Avalanche), đâu là thứ tự trả nợ thông minh?",
       "options": [
-        "Ưu tiên trả các khoản nợ có lãi suất cao nhất trước (như nợ thẻ tín dụng, nợ nóng) hoặc trả dứt điểm các khoản nợ nhỏ nhất trước để tạo động lực tâm lý chiến thắng.",
         "Chỉ trả nợ cho ngân hàng nào có nhân viên thân thiện nhất.",
         "Vay thêm một khoản nợ mới lớn hơn để trả hết các khoản nợ cũ.",
-        "Trả đều mỗi món nợ 10.000 đồng mỗi tháng không phân biệt lãi suất."
+        "Trả đều mỗi món nợ 10.000 đồng mỗi tháng không phân biệt lãi suất.",
+        "Ưu tiên trả các khoản nợ có lãi suất cao nhất trước (như nợ thẻ tín dụng, nợ nóng) hoặc trả dứt điểm các khoản nợ nhỏ nhất trước để tạo động lực tâm lý chiến thắng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Chiến lược xóa nợ khoa học: Triệt hạ các khoản nợ lãi suất cao nhất để ngăn máu tài chính tiếp tục chảy, hoặc giải quyết nợ nhỏ để lấy đà tâm lý."
     },
     {
       "id": "q10",
       "question": "'Bước 3: Điều chỉnh triệt để cơ cấu tài sản' đòi hỏi một người đang ngập trong nợ nần phải dũng cảm làm gì?",
       "options": [
-        "Đi vay tiền bố mẹ già để tiếp tục duy trì mức sống xa hoa.",
         "Tiếp tục giữ lại xe sang và đồ hiệu để giữ thể diện với bạn bè.",
+        "Dũng cảm bán đi các tiêu sản đắt tiền (bán bớt xe hơi, chuyển sang căn hộ nhỏ hơn, thanh lý đồ hiệu không dùng) để gom tiền trả sạch nợ và hạ chi phí vận hành cuộc sống.",
         "Nghỉ việc để trốn tránh các chủ nợ.",
-        "Dũng cảm bán đi các tiêu sản đắt tiền (bán bớt xe hơi, chuyển sang căn hộ nhỏ hơn, thanh lý đồ hiệu không dùng) để gom tiền trả sạch nợ và hạ chi phí vận hành cuộc sống."
+        "Đi vay tiền bố mẹ già để tiếp tục duy trì mức sống xa hoa."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Tái cấu trúc quyết liệt đòi hỏi từ bỏ sĩ diện hão: thanh lý tiêu sản đắt đỏ để cứu lấy dòng tiền và giải phóng bản thân khỏi gông cùm nợ nần."
     },
     {
       "id": "q11",
       "question": "Lời cảnh báo 'Lòng tham sẽ gây ra tai họa khó lường' ở cuối chương phê phán cạm bẫy tâm lý nào?",
       "options": [
-        "Việc học thêm các khóa học nâng cao kỹ năng chuyên môn.",
-        "Việc mở thêm một sổ tiết kiệm tích lũy cho con.",
         "Mong muốn đạt tự do tài chính bằng sự chăm chỉ và kỷ luật.",
-        "Tâm lý muốn giàu nhanh trong chớp mắt (Get-rich-quick), tham gia vào các mô hình đầu tư siêu lợi nhuận lừa đảo hoặc vay nợ đánh bạc tài chính."
+        "Việc học thêm các khóa học nâng cao kỹ năng chuyên môn.",
+        "Tâm lý muốn giàu nhanh trong chớp mắt (Get-rich-quick), tham gia vào các mô hình đầu tư siêu lợi nhuận lừa đảo hoặc vay nợ đánh bạc tài chính.",
+        "Việc mở thêm một sổ tiết kiệm tích lũy cho con."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Lòng tham làm mờ mắt lý trí. Càng muốn giàu nhanh và nôn nóng gỡ nợ bằng các canh bạc rủi ro, con người càng dễ rơi vào bẫy lừa đảo và phá sản hoàn toàn."
     },
     {
       "id": "q12",
       "question": "Tại sao việc 'cắt thẻ tín dụng' lại là hành động trị liệu tâm lý tài chính hiệu quả cho người nghiện mua sắm?",
       "options": [
-        "Vì thẻ tín dụng có chứa chất độc hại.",
-        "Cắt thẻ tín dụng giúp loại bỏ hoàn toàn cám dỗ tiêu trước trả sau, buộc người mua phải quay về dùng tiền mặt hoặc thẻ ghi nợ (Debit Card) - chỉ tiêu số tiền mình thực sự đang có.",
         "Vì ngân hàng sẽ trả thưởng tiền mặt cho ai cắt thẻ.",
-        "Vì cắt thẻ tín dụng sẽ làm hỏng ví tiền của bạn."
+        "Vì cắt thẻ tín dụng sẽ làm hỏng ví tiền của bạn.",
+        "Vì thẻ tín dụng có chứa chất độc hại.",
+        "Cắt thẻ tín dụng giúp loại bỏ hoàn toàn cám dỗ tiêu trước trả sau, buộc người mua phải quay về dùng tiền mặt hoặc thẻ ghi nợ (Debit Card) - chỉ tiêu số tiền mình thực sự đang có."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Cắt thẻ là biện pháp 'cai nghiện' dứt khoát: chặn đứng nguồn bơm nợ bốc đồng và buộc bạn đối diện với giới hạn thực tế của ví tiền."
     },
     {
       "id": "q13",
       "question": "Mối quan hệ giữa 'Nợ xấu' và 'Sự tự do cá nhân' được mô tả như thế nào?",
       "options": [
-        "Người mang nợ xấu là nô lệ của chủ nợ và công việc; bạn không thể tự do lựa chọn công việc yêu thích hay dám từ bỏ môi trường độc hại vì áp lực phải trả nợ hàng tháng.",
-        "Càng có nhiều nợ xấu thì bạn càng được tự do làm những gì mình thích.",
+        "Nợ xấu là biểu hiện của người có vị thế xã hội cao.",
         "Nợ xấu không có bất kỳ ảnh hưởng nào đến tâm lý con người.",
-        "Nợ xấu là biểu hiện của người có vị thế xã hội cao."
+        "Người mang nợ xấu là nô lệ của chủ nợ và công việc; bạn không thể tự do lựa chọn công việc yêu thích hay dám từ bỏ môi trường độc hại vì áp lực phải trả nợ hàng tháng.",
+        "Càng có nhiều nợ xấu thì bạn càng được tự do làm những gì mình thích."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Nợ nần tước đoạt quyền tự do và phẩm giá. Bạn bị trói chặt vào chiếc bàn làm việc và không dám mạo hiểm theo đuổi ước mơ vì gánh nặng lãi vay đè nặng mỗi ngày."
     },
     {
@@ -165,23 +165,23 @@
       "question": "Để không bao giờ rơi vào vết xe đổ phá sản như Song Huiseong, nguyên tắc phòng thủ cốt tử là gì?",
       "options": [
         "Không bao giờ kiểm tra số dư tài khoản ngân hàng.",
-        "Tuyệt đối không vay nợ tiêu dùng cho các tiêu sản mất giá, duy trì quỹ khẩn cấp và luôn sống dưới mức thu nhập kiếm được.",
         "Chi tiêu toàn bộ tiền lương ngay trong ngày đầu tháng.",
-        "Chỉ vay nợ từ người thân thay vì vay ngân hàng."
+        "Chỉ vay nợ từ người thân thay vì vay ngân hàng.",
+        "Tuyệt đối không vay nợ tiêu dùng cho các tiêu sản mất giá, duy trì quỹ khẩn cấp và luôn sống dưới mức thu nhập kiếm được."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Quy tắc bất biến để an toàn tài chính: Sống dưới mức thu nhập (Live below your means), nói không với nợ tiêu dùng và luôn có quỹ dự phòng."
     },
     {
       "id": "q15",
       "question": "Bài học đắt giá nhất của Chương 3 trong hành trình vượt qua trở ngại tài chính là gì?",
       "options": [
-        "Nợ nần là số phận và không thể nào thoát ra được.",
         "Chỉ cần đổi số điện thoại là có thể xóa sạch mọi khoản nợ.",
         "Nhận thức rõ hiện thực, dũng cảm đoạn tuyệt với lối sống phô trương ảo ảnh và kiên trì thực hiện 3 bước (Lập dự toán - Trả nợ 70:30 - Tái cơ cấu tài sản) là con đường duy nhất để giải phóng tự do.",
+        "Nợ nần là số phận và không thể nào thoát ra được.",
         "Việc phá sản là một trải nghiệm thú vị nên thử một lần trong đời."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Chương 3 khẳng định: Thoát nợ và làm chủ tài chính là một cuộc chiến đòi hỏi sự trung thực với bản thân, kỷ luật thép và lộ trình hành động khoa học."
     }
   ]

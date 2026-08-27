@@ -9,11 +9,11 @@
       "question": "Lời dạy truyền thống 'Học chăm chỉ, đỗ đại học danh tiếng, kiếm việc lương cao là đủ' bộc lộ lỗ hổng chí mạng nào khi đặt trong bối cảnh 30 năm sau của người lao động?",
       "options": [
         "Thu nhập từ lương luôn tăng trưởng nhanh hơn tốc độ lạm phát trong mọi thời kỳ.",
-        "Các trường đại học danh tiếng sẽ tự động thu hồi bằng cấp sau 30 năm.",
         "Lương cao ở hiện tại không tự động đảm bảo sự an toàn tài chính cho 25-30 năm nghỉ hưu nếu thiếu đi kỹ năng quản trị tài sản và nhân giống đồng tiền.",
+        "Các trường đại học danh tiếng sẽ tự động thu hồi bằng cấp sau 30 năm.",
         "Những người học đại học đều không thể kiếm được việc làm trong tương lai."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Kiếm lương cao trong thời kỳ đi làm chỉ là bước khởi đầu; nếu không tích lũy và đầu tư, sau khi nghỉ hưu dòng thu nhập chấm dứt sẽ khiến người lao động rơi vào khủng hoảng."
     },
     {
@@ -32,69 +32,69 @@
       "id": "q3",
       "question": "Nghịch lý '30 năm đi làm nuôi 25 năm nghỉ hưu' đặt ra yêu cầu tài chính cấp bách nào cho người ở độ tuổi 30?",
       "options": [
-        "Chỉ cần trông đợi vào sự phụng dưỡng của con cái sau này.",
         "Phải hành động ngay để thiết lập kế hoạch tích lũy và đầu tư sinh lời theo cấp số nhân nhằm vượt qua bức tường ngăn cách giữa nghèo khó và giàu sang.",
         "Phải vay nợ ngân hàng tối đa để tiêu xài trước khi nghỉ hưu.",
-        "Phải lập tức từ bỏ công việc hiện tại để tìm kiếm cơ hội trúng số."
+        "Phải lập tức từ bỏ công việc hiện tại để tìm kiếm cơ hội trúng số.",
+        "Chỉ cần trông đợi vào sự phụng dưỡng của con cái sau này."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Khoảng thời gian tích lũy (30 năm) gần tương đương thời gian tiêu thụ (25-30 năm), đòi hỏi người trẻ tuổi 30 phải hành động kỷ luật và đầu tư thông minh ngay lập tức."
     },
     {
       "id": "q4",
       "question": "Tại sao việc sống thọ đến 85-90 tuổi lại đòi hỏi dự toán hưu trí phải cộng thêm các khoản dự phòng lớn hơn nhiều so với tuổi thọ 75?",
       "options": [
-        "Vì nhà nước sẽ ngừng chi trả mọi trợ cấp khi người dân vượt qua tuổi 80.",
         "Vì càng về sau, các căn bệnh tuổi già xuất hiện nhiều hơn và chi phí chăm sóc điều dưỡng y tế dài hạn tăng vọt khó lường.",
+        "Vì giá vé du lịch quốc tế tăng cao đối với người trên 80 tuổi.",
         "Vì sau 80 tuổi con người tiêu thụ lượng thức ăn gấp 3 lần bình thường.",
-        "Vì giá vé du lịch quốc tế tăng cao đối với người trên 80 tuổi."
+        "Vì nhà nước sẽ ngừng chi trả mọi trợ cấp khi người dân vượt qua tuổi 80."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sống thọ hơn 10-15 năm đồng nghĩa với việc đối mặt với giai đoạn suy kiệt thể lực, cần nhiều chi phí điều trị y tế và dịch vụ chăm sóc người già đắt đỏ."
     },
     {
       "id": "q5",
       "question": "Lời nhận xét 'Nếu được đọc cuốn sách này sớm, con đường đến với thành công của bạn sẽ bằng phẳng hơn' phản ánh giá trị gì của tri thức tài chính?",
       "options": [
-        "Hiểu biết tài chính sớm giúp bạn tránh được những 'học phí' đắt đỏ từ các sai lầm nợ nần và bẫy chi tiêu bốc đồng trong những năm tháng tuổi trẻ.",
-        "Đọc sách sẽ tự động biến bạn thành triệu phú mà không cần nỗ lực làm việc.",
         "Tri thức tài chính chỉ có tác dụng khi thị trường chứng khoán tăng điểm.",
+        "Đọc sách sẽ tự động biến bạn thành triệu phú mà không cần nỗ lực làm việc.",
+        "Hiểu biết tài chính sớm giúp bạn tránh được những 'học phí' đắt đỏ từ các sai lầm nợ nần và bẫy chi tiêu bốc đồng trong những năm tháng tuổi trẻ.",
         "Tri thức tài chính giúp bạn đi đường tắt bất hợp pháp."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Trang bị kiến thức sớm giúp người trẻ xây dựng hệ miễn dịch trước các bẫy tín dụng và tối ưu hóa thời gian sinh sôi của tài sản."
     },
     {
       "id": "q6",
       "question": "Hình ảnh ẩn dụ 'Ngắm mặt trời mọc trên biển Aegean hay ngồi ăn cháo trắng trong căn nhà nhỏ' nhắc nhở độc giả điều gì?",
       "options": [
-        "Ăn cháo trắng là phương pháp ăn kiêng tốt nhất cho người cao tuổi.",
+        "Sự khác biệt về số phận tuổi già là kết quả trực tiếp của việc bạn có chủ động thiết kế và quản trị tài chính ngay từ hôm nay hay không.",
         "Du lịch nước ngoài là nghĩa vụ bắt buộc của mọi người về hưu.",
         "Tất cả mọi người khi về già đều phải chuyển ra sống tại vùng biển.",
-        "Sự khác biệt về số phận tuổi già là kết quả trực tiếp của việc bạn có chủ động thiết kế và quản trị tài chính ngay từ hôm nay hay không."
+        "Ăn cháo trắng là phương pháp ăn kiêng tốt nhất cho người cao tuổi."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Bức tranh đối lập nhấn mạnh rằng chất lượng cuộc sống 30 năm cuối đời hoàn toàn do chính những quyết định tài chính ở tuổi 30 định đoạt."
     },
     {
       "id": "q7",
       "question": "Tác giả Go Deuk Seong nhấn mạnh 'vượt qua bức tường ngăn cách giữa nghèo khó và giàu sang' phụ thuộc vào yếu tố then chốt nào?",
       "options": [
-        "Sự thức tỉnh tư duy và phương pháp hoạch định tài chính đúng đắn từ các chuyên gia.",
+        "Số giờ làm thêm vào ban đêm tại công ty.",
         "Mức độ may mắn trong các trò chơi may rủi.",
         "Quy mô tài sản thừa kế từ cha mẹ.",
-        "Số giờ làm thêm vào ban đêm tại công ty."
+        "Sự thức tỉnh tư duy và phương pháp hoạch định tài chính đúng đắn từ các chuyên gia."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Bức tường ngăn cách không phải do số phận mà do khoảng cách về tư duy và phương pháp quản trị tài chính cá nhân."
     },
     {
       "id": "q8",
       "question": "Tập 2 của bộ sách được định vị tập trung giải quyết vấn đề cốt lõi nào so với Tập 1?",
       "options": [
-        "Hướng dẫn cách trốn tránh các nghĩa vụ nợ ngân hàng.",
         "Chỉ lặp lại các lý thuyết chung chung không có bảng tính.",
         "Tập trung vào việc kêu gọi đầu tư mạo hiểm không kiểm soát.",
+        "Hướng dẫn cách trốn tránh các nghĩa vụ nợ ngân hàng.",
         "Đi sâu vào các chiến lược hành động cụ thể, kỹ thuật phân bổ danh mục đầu tư, quản trị rủi ro nợ nần và xây dựng cỗ máy sinh lời thực tế."
       ],
       "correctIndex": 3,
@@ -116,24 +116,24 @@
       "id": "q10",
       "question": "Tại sao việc 'tính tỷ lệ lạm phát 4%' lại làm số tiền hưu trí cần chuẩn bị tăng vọt từ 300.000 Won lên 800.000 Won/tháng sau 25 năm?",
       "options": [
-        "Vì ngân hàng tự động tính thêm 4% phí duy trì tài khoản mỗi tháng.",
-        "Vì lạm phát làm tăng giá trị của tiền tiết kiệm gửi ngân hàng.",
         "Vì người dân tiêu dùng gấp đôi khi về già.",
-        "Vì quy luật giá trị tương lai của dòng tiền: lạm phát kép qua 25 năm làm giảm sức mua của đồng tiền xuống còn chưa đầy một nửa."
+        "Vì lạm phát làm tăng giá trị của tiền tiết kiệm gửi ngân hàng.",
+        "Vì quy luật giá trị tương lai của dòng tiền: lạm phát kép qua 25 năm làm giảm sức mua của đồng tiền xuống còn chưa đầy một nửa.",
+        "Vì ngân hàng tự động tính thêm 4% phí duy trì tài khoản mỗi tháng."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Sức mạnh bào mòn của lạm phát kép qua 2-3 thập kỷ khiến chi phí danh nghĩa tăng vọt chỉ để duy trì cùng một mức sống thực tế."
     },
     {
       "id": "q11",
       "question": "Lời khuyên 'Cuốn sách sẽ giúp bạn có thêm quyết tâm để làm lại từ đầu' dành cho ai?",
       "options": [
-        "Những người đã có hàng trăm tỷ đồng tài sản ròng.",
-        "Chỉ dành riêng cho sinh viên vừa tốt nghiệp đại học.",
+        "Những người đã bước qua tuổi 40-50 từng mắc sai lầm tài chính hoặc chưa có tích lũy, giúp họ lấy lại niềm tin và tái cơ cấu lại cuộc đời.",
         "Những người muốn từ bỏ hoàn toàn việc quản lý tiền bạc.",
-        "Những người đã bước qua tuổi 40-50 từng mắc sai lầm tài chính hoặc chưa có tích lũy, giúp họ lấy lại niềm tin và tái cơ cấu lại cuộc đời."
+        "Chỉ dành riêng cho sinh viên vừa tốt nghiệp đại học.",
+        "Những người đã có hàng trăm tỷ đồng tài sản ròng."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Không bao giờ là quá muộn để bắt đầu. Cuốn sách tiếp thêm dũng khí và cung cấp bản đồ hành động cho những ai muốn tái thiết lập lại trật tự tài chính cá nhân."
     },
     {
@@ -152,12 +152,12 @@
       "id": "q13",
       "question": "Theo tinh thần cuốn sách, người thực sự 'thông minh về tài chính' là người như thế nào?",
       "options": [
-        "Người biết cách chuyển hóa thu nhập từ sức lao động thành các tài sản sinh lời bền vững để đảm bảo cuộc sống thịnh vượng trọn đời.",
-        "Người kiếm được nhiều tiền nhất và tiêu xài hào nhoáng nhất.",
         "Người luôn từ chối mọi cơ hội đầu tư vì sợ rủi ro.",
-        "Người cất giữ toàn bộ tiền mặt dưới đệm giường."
+        "Người cất giữ toàn bộ tiền mặt dưới đệm giường.",
+        "Người kiếm được nhiều tiền nhất và tiêu xài hào nhoáng nhất.",
+        "Người biết cách chuyển hóa thu nhập từ sức lao động thành các tài sản sinh lời bền vững để đảm bảo cuộc sống thịnh vượng trọn đời."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Thông minh tài chính là năng lực biến thu nhập chủ động thành tài sản tạo thu nhập thụ động nuôi sống bản thân dài hạn."
     },
     {
@@ -165,23 +165,23 @@
       "question": "Thông điệp 'rũ bỏ những phiền muộn về tiền bạc' chỉ có thể đạt được khi nào?",
       "options": [
         "Khi bạn không bao giờ nghĩ đến tiền bạc nữa.",
+        "Khi bạn chuyển giao toàn bộ tài sản cho người khác quản lý.",
         "Khi bạn làm chủ được dòng tiền, xóa sạch các khoản nợ xấu và xây dựng được kế hoạch tài chính rõ ràng, vững chắc.",
-        "Khi bạn vay được một khoản tiền lớn từ ngân hàng.",
-        "Khi bạn chuyển giao toàn bộ tài sản cho người khác quản lý."
+        "Khi bạn vay được một khoản tiền lớn từ ngân hàng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự an tâm tài chính bắt nguồn từ việc kiểm soát và làm chủ dòng tiền, không còn bị chi phối bởi áp lực nợ nần và sự bất định."
     },
     {
       "id": "q15",
       "question": "Ý nghĩa bao trùm của Lời mở đầu Tập 2 là gì?",
       "options": [
+        "Khẳng định rằng số phận nghèo hay giàu đã được an bài từ trước.",
         "Khuyên mọi người nên dừng việc học tập để đi làm sớm.",
         "Là hồi chuông báo động về thực tế tài chính khốc liệt của tuổi già và mở ra cánh cửa giải pháp khoa học, khả thi cho mọi người.",
-        "Tuyên bố rằng việc tiết kiệm tiền là không cần thiết.",
-        "Khẳng định rằng số phận nghèo hay giàu đã được an bài từ trước."
+        "Tuyên bố rằng việc tiết kiệm tiền là không cần thiết."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Lời mở đầu vừa chỉ ra tính cấp bách của bài toán tài chính hưu trí vừa mang đến niềm hy vọng và công cụ giải pháp thực chứng."
     }
   ]

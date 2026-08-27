@@ -8,22 +8,22 @@
       "id": "q1",
       "question": "Thí nghiệm nổi tiếng của nhà tâm lý học Mark Muraven tại Đại học Case Western với hai nhóm đối tượng (một nhóm được ăn bánh quy socola thơm lừng, một nhóm chỉ được ăn củ cải sống) đã chứng minh điều gì về 'Sức mạnh ý chí' (Willpower)?",
       "options": [
-        "Ý chí là nguồn tài nguyên vô tận không bao giờ bị tiêu hao.",
         "Những người ăn đồ ngọt luôn có khả năng giải toán hình học giỏi hơn người ăn rau củ.",
-        "Ý chí không phải là một kỹ năng bẩm sinh cố định mà hoạt động giống như một 'khối cơ bắp' (muscle) – nó sẽ bị kiệt sức và suy yếu sau khi phải gồng mình kiềm chế cám dỗ trước đó.",
-        "Củ cải sống có chứa chất kích thích giúp tăng cường trí thông minh logic."
+        "Củ cải sống có chứa chất kích thích giúp tăng cường trí thông minh logic.",
+        "Ý chí là nguồn tài nguyên vô tận không bao giờ bị tiêu hao.",
+        "Ý chí không phải là một kỹ năng bẩm sinh cố định mà hoạt động giống như một 'khối cơ bắp' (muscle) – nó sẽ bị kiệt sức và suy yếu sau khi phải gồng mình kiềm chế cám dỗ trước đó."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Nhóm phải gồng mình nhịn bánh quy để ăn củ cải đã tiêu hao phần lớn năng lượng ý chí; khi bước vào bài toán hóc búa sau đó, họ bỏ cuộc nhanh hơn gấp đôi so với nhóm được ăn bánh quy thoải mái."
     },
     {
       "id": "q2",
       "question": "Nghiên cứu dài hạn về bài kiểm tra kẹo dẻo (Marshmallow Test) của Walter Mischel trên trẻ mầm non cho thấy điều gì về vai trò của ý chí đối với tương lai một con người?",
       "options": [
-        "Trẻ em không thể rèn luyện được ý chí trước năm 18 tuổi.",
+        "Trẻ em thích ăn kẹo dẻo sẽ trở thành các đầu bếp nổi tiếng.",
         "Khả năng trì hoãn sự thỏa mãn (tự chủ ý chí) lúc nhỏ là yếu tố dự báo thành công học tập, chỉ số hạnh phúc và thu nhập trưởng thành chính xác hơn cả chỉ số IQ.",
-        "Trí thông minh IQ quan trọng gấp 10 lần sức mạnh ý chí trong sự nghiệp.",
-        "Trẻ em thích ăn kẹo dẻo sẽ trở thành các đầu bếp nổi tiếng."
+        "Trẻ em không thể rèn luyện được ý chí trước năm 18 tuổi.",
+        "Trí thông minh IQ quan trọng gấp 10 lần sức mạnh ý chí trong sự nghiệp."
       ],
       "correctIndex": 1,
       "explanation": "Sức mạnh ý chí và khả năng trì hoãn thỏa mãn là chỉ số đơn lẻ quan trọng nhất dự báo thành công học tập, sức khỏe và sự nghiệp suốt đời của một cá nhân."
@@ -32,60 +32,60 @@
       "id": "q3",
       "question": "Tập đoàn Starbucks đã biến 'Sức mạnh ý chí' từ một nỗ lực cá nhân chập chờn thành một 'Thói quen tổ chức tự động' cho hàng trăm nghìn nhân viên bằng phương pháp nào?",
       "options": [
-        "Chỉ tuyển dụng những người sinh ra đã có tính cách điềm đạm tuyệt đối.",
         "Phạt tiền nặng những nhân viên có thái độ không vui vẻ với khách hàng.",
+        "Huấn luyện nhân viên cách nhận diện các 'Điểm ngoặt' (Inflection points) căng thẳng và lập sẵn kế hoạch hành động cụ thể trước khi tình huống bùng nổ (như quy trình LATTE).",
         "Cung cấp cà phê miễn phí liên tục để nhân viên không bao giờ cảm thấy mệt mỏi.",
-        "Huấn luyện nhân viên cách nhận diện các 'Điểm ngoặt' (Inflection points) căng thẳng và lập sẵn kế hoạch hành động cụ thể trước khi tình huống bùng nổ (như quy trình LATTE)."
+        "Chỉ tuyển dụng những người sinh ra đã có tính cách điềm đạm tuyệt đối."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Starbucks dạy nhân viên nhận biết các khoảnh khắc căng thẳng (khách hàng la mắng, máy pha cà phê hỏng) và diễn tập trước các bước phản ứng tự động để họ không phải dùng ý chí bộc phát lúc đó."
     },
     {
       "id": "q4",
       "question": "Quy trình LATTE nổi tiếng của Starbucks để xử lý các tình huống khách hàng giận dữ bao gồm các bước nào?",
       "options": [
+        "Phục vụ cà phê Latte miễn phí cho tất cả khách hàng đang xếp hàng.",
         "Cười trừ (Laugh) -> Bỏ qua (Avoid) -> Nói dối (Tell lies) -> Chuyển giao (Transfer) -> Kết thúc (End)",
-        "Lắng nghe (Listen) -> Ghi nhận phàn nàn (Acknowledge) -> Hành động khắc phục (Take action) -> Cảm ơn khách hàng (Thank) -> Giải thích lý do (Explain)",
         "Lắng nghe (Listen) -> Tranh luận (Argue) -> Đe dọa (Threaten) -> Trả lời (Tell) -> Thoát khỏi (Exit)",
-        "Phục vụ cà phê Latte miễn phí cho tất cả khách hàng đang xếp hàng."
+        "Lắng nghe (Listen) -> Ghi nhận phàn nàn (Acknowledge) -> Hành động khắc phục (Take action) -> Cảm ơn khách hàng (Thank) -> Giải thích lý do (Explain)"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "LATTE là quy trình chuẩn mực: Listen (Lắng nghe), Acknowledge (Ghi nhận), Take action (Hành động giải quyết), Thank (Cảm ơn), và Explain (Giải thích vì sao sự cố xảy ra)."
     },
     {
       "id": "q5",
       "question": "Khái niệm 'Điểm ngoặt' (Inflection point) trong việc rèn luyện ý chí được hiểu là gì?",
       "options": [
-        "Điểm số thấp nhất trong bài kiểm tra học kỳ.",
+        "Khoảnh khắc mà cơn đau đớn, sự cám dỗ, mệt mỏi hoặc cơn giận lên đến đỉnh điểm – nơi ý chí dễ bị sụp đổ nhất nếu không có một kế hoạch thói quen định sẵn.",
         "Thời điểm mặt trời lặn trong ngày làm việc.",
         "Khoảnh khắc một người đạt được giải thưởng cao nhất trong sự nghiệp.",
-        "Khoảnh khắc mà cơn đau đớn, sự cám dỗ, mệt mỏi hoặc cơn giận lên đến đỉnh điểm – nơi ý chí dễ bị sụp đổ nhất nếu không có một kế hoạch thói quen định sẵn."
+        "Điểm số thấp nhất trong bài kiểm tra học kỳ."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Điểm ngoặt là khoảnh khắc quyết định: ví dụ khi một bệnh nhân thay khớp gối cảm thấy đau đớn tột cùng khi đứng dậy, hoặc nhân viên gặp khách hàng la hét. Chuẩn bị sẵn kịch bản cho điểm ngoặt giúp vượt qua cám dỗ."
     },
     {
       "id": "q6",
       "question": "Trong nghiên cứu của bác sĩ Mark Muraven về những người phục hồi sau phẫu thuật thay khớp gối, điều gì phân biệt những người hồi phục nhanh gấp đôi so với nhóm còn lại?",
       "options": [
+        "Họ được tiêm loại thuốc giảm đau đắt tiền hơn.",
         "Họ có người thân ở bên cạnh chăm sóc 24/7.",
         "Họ viết sẵn vào sổ tay các kế hoạch cụ thể về việc họ sẽ vượt qua cơn đau như thế nào tại các thời điểm then chốt (ví dụ: 'Nếu cảm thấy đau khi bước đi, tôi sẽ hít thở sâu và bước tiếp từng bước').",
-        "Họ hoàn toàn không cảm thấy đau đớn sau phẫu thuật.",
-        "Họ được tiêm loại thuốc giảm đau đắt tiền hơn."
+        "Họ hoàn toàn không cảm thấy đau đớn sau phẫu thuật."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Những bệnh nhân thành công là những người lên kế hoạch chi tiết cho các điểm ngoặt đau đớn nhất (ví dụ: bước ra khỏi giường lúc sáng sớm) và xác định trước hành động cụ thể để vượt qua."
     },
     {
       "id": "q7",
       "question": "Khi ý chí được rèn luyện trong một lĩnh vực cụ thể (ví dụ: kiên trì tập gym hoặc học cách quản lý chi tiêu), điều gì xảy ra với các lĩnh vực khác trong cuộc sống?",
       "options": [
-        "Người đó sẽ mất khả năng cảm nhận niềm vui trong cuộc sống.",
         "Sức mạnh ý chí được tăng cường toàn diện như một khối cơ bắp dẻo dai, giúp người đó tự động kiên nhẫn hơn, ít mất bình tĩnh hơn và hoàn thành bài vở đúng hạn hơn.",
-        "Không có bất kỳ sự liên hệ nào giữa các hoạt động khác nhau.",
-        "Ý chí ở các lĩnh vực khác sẽ bị cạn kiệt hoàn toàn và người đó sẽ trở nên lười biếng trong công việc."
+        "Người đó sẽ mất khả năng cảm nhận niềm vui trong cuộc sống.",
+        "Ý chí ở các lĩnh vực khác sẽ bị cạn kiệt hoàn toàn và người đó sẽ trở nên lười biếng trong công việc.",
+        "Không có bất kỳ sự liên hệ nào giữa các hoạt động khác nhau."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Cơ bắp ý chí có tính lan tỏa: khi bạn rèn luyện sự tự chủ ở một lĩnh vực (dù là tập thể thao hay ghi chép tài chính), sức chịu đựng và kỷ luật của bạn ở mọi mặt khác đều được nâng cấp."
     },
     {
@@ -104,46 +104,46 @@
       "id": "q9",
       "question": "Howard Schultz (chủ tịch Starbucks) đã làm gì để trao cho nhân viên cảm giác tự chủ và gắn kết sâu sắc với thương hiệu?",
       "options": [
-        "Cắt giảm tiền lương để nhân viên phải nỗ lực làm việc kiếm tiền boa.",
         "Bắt nhân viên học thuộc lòng tất cả các bài diễn văn của ông.",
-        "Trao quyền cho nhân viên tùy biến quầy pha chế, tự giải quyết khiếu nại của khách hàng, cấp cổ phần công ty và lắng nghe ý kiến đóng góp từ các barista.",
-        "Cho phép nhân viên tự do quyết định giờ đóng mở cửa cửa hàng tùy thích."
+        "Cho phép nhân viên tự do quyết định giờ đóng mở cửa cửa hàng tùy thích.",
+        "Cắt giảm tiền lương để nhân viên phải nỗ lực làm việc kiếm tiền boa.",
+        "Trao quyền cho nhân viên tùy biến quầy pha chế, tự giải quyết khiếu nại của khách hàng, cấp cổ phần công ty và lắng nghe ý kiến đóng góp từ các barista."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Starbucks trao cho nhân viên quyền làm chủ không gian làm việc và quyền tự đưa ra giải pháp chăm sóc khách hàng; điều này nâng cao lòng tự trọng và tiếp thêm năng lượng ý chí cho họ."
     },
     {
       "id": "q10",
       "question": "Tại sao câu chuyện về chàng thanh niên Travis Leach (sinh ra trong gia đình nghiện ngập) lại trở thành minh chứng sống động cho sức mạnh đào tạo của Starbucks?",
       "options": [
-        "Vì anh chưa từng phải đối mặt với bất kỳ khách hàng khó tính nào.",
+        "Vì anh được thừa kế một khối tài sản lớn từ một khách hàng quen.",
         "Vì anh đã tìm thấy công thức pha chế một loại nước uống mới lạ.",
-        "Từ một người bốc đồng, dễ nổi giận và bỏ việc sau vài tuần, các khóa huấn luyện thói quen ý chí của Starbucks đã giúp anh làm chủ cảm xúc và thăng tiến trở thành quản lý hàng chục chi nhánh lớn.",
-        "Vì anh được thừa kế một khối tài sản lớn từ một khách hàng quen."
+        "Vì anh chưa từng phải đối mặt với bất kỳ khách hàng khó tính nào.",
+        "Từ một người bốc đồng, dễ nổi giận và bỏ việc sau vài tuần, các khóa huấn luyện thói quen ý chí của Starbucks đã giúp anh làm chủ cảm xúc và thăng tiến trở thành quản lý hàng chục chi nhánh lớn."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Travis không thiếu tài năng mà thiếu thói quen tự chủ ý chí; hệ thống đào tạo phản xạ trước điểm ngoặt của Starbucks đã dạy anh kỹ năng sống quan trọng nhất: làm chủ bản thân khi chịu áp lực."
     },
     {
       "id": "q11",
       "question": "Để biến việc thức dậy sớm vào 5 giờ sáng từ một cuộc chiến ý chí mệt mỏi thành một thói quen tự nhiên, bạn nên làm gì?",
       "options": [
-        "Thức trắng đêm để không phải thức dậy vào buổi sáng.",
-        "Lên kế hoạch cụ thể cho 'điểm ngoặt' lười biếng (chuẩn bị sẵn quần áo ấm, ly nước ấm đầu giường, để chuông báo thức ở xa giường và tự nhủ hành động đầu tiên là bật đèn và bước chân xuống sàn).",
         "Đặt 10 chiếc chuông báo thức cách nhau 1 phút và để ngay cạnh gối ngủ.",
-        "Uống thuốc ngủ liều cao vào lúc nửa đêm."
+        "Thức trắng đêm để không phải thức dậy vào buổi sáng.",
+        "Uống thuốc ngủ liều cao vào lúc nửa đêm.",
+        "Lên kế hoạch cụ thể cho 'điểm ngoặt' lười biếng (chuẩn bị sẵn quần áo ấm, ly nước ấm đầu giường, để chuông báo thức ở xa giường và tự nhủ hành động đầu tiên là bật đèn và bước chân xuống sàn)."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Bằng cách dự đoán trước điểm ngoặt lười biếng khi chuông reo và thiết lập sẵn một chuỗi hành động phản xạ vật lý không cần suy nghĩ, bạn loại bỏ hoàn toàn sự đắn đo tiêu hao ý chí."
     },
     {
       "id": "q12",
       "question": "Điều gì xảy ra với các nhà lãnh đạo hoặc nhân viên văn phòng vào cuối ngày làm việc sau khi đã phải ra hàng trăm quyết định liên tục?",
       "options": [
-        "Họ trở nên minh mẫn và quyết đoán hơn bao giờ hết.",
+        "Họ hoàn toàn miễn nhiễm với mọi cám dỗ đồ ngọt.",
         "Họ rơi vào trạng thái 'kiệt sức vì ra quyết định' (Decision fatigue), khiến họ dễ nổi nóng, ăn uống bốc đồng hoặc đưa ra các quyết định tài chính rủi ro hơn.",
         "Não bộ của họ tự động nạp đầy năng lượng mà không cần nghỉ ngơi.",
-        "Họ hoàn toàn miễn nhiễm với mọi cám dỗ đồ ngọt."
+        "Họ trở nên minh mẫn và quyết đoán hơn bao giờ hết."
       ],
       "correctIndex": 1,
       "explanation": "Ra quyết định tiêu tốn năng lượng ý chí trong cùng một bình chứa; khi cạn kiệt năng lượng vào cuối ngày, chúng ta dễ dàng đầu hàng trước các thói quen xấu nếu không có kỷ luật phòng ngừa."
@@ -152,21 +152,21 @@
       "id": "q13",
       "question": "Tại sao việc 'viết ra giấy' các kế hoạch phản ứng trước tình huống khó khăn lại hiệu quả hơn việc chỉ nghĩ trong đầu?",
       "options": [
-        "Vì giấy viết có chứa các chất hóa học kích thích trí não.",
         "Việc viết ra giúp cụ thể hóa các chi tiết hành động và khắc sâu các mệnh đề 'Nếu... Thì...' (If-Then planning) vào tiềm thức của hạch nền.",
-        "Vì viết ra giấy giúp chúng ta có bằng chứng để khoe với người khác.",
-        "Vì chữ viết tay làm tăng khả năng nhìn trong bóng tối."
+        "Vì giấy viết có chứa các chất hóa học kích thích trí não.",
+        "Vì chữ viết tay làm tăng khả năng nhìn trong bóng tối.",
+        "Vì viết ra giấy giúp chúng ta có bằng chứng để khoe với người khác."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Chiến lược 'Nếu... Thì...' được viết rõ ràng giúp não bộ lập trình sẵn phản xạ thần kinh; khi điều kiện 'Nếu' xuất hiện, hành động 'Thì' sẽ được kích hoạt tức thì mà không cần đắn đo."
     },
     {
       "id": "q14",
       "question": "Sự khác biệt căn bản giữa việc rèn luyện sức mạnh ý chí và việc học một kiến thức học thuật là gì?",
       "options": [
-        "Kiến thức học thuật có thể quên, còn ý chí một khi đã rèn luyện thì không bao giờ mất đi.",
-        "Học kiến thức đòi hỏi ghi nhớ lý thuyết, trong khi rèn luyện ý chí đòi hỏi phải liên tục đưa bản thân vào các bài tập thể lực và tinh thần thực tế để mở rộng dung lượng cơ bắp tự chủ.",
         "Ý chí chỉ có thể được di truyền qua gen của cha mẹ.",
+        "Học kiến thức đòi hỏi ghi nhớ lý thuyết, trong khi rèn luyện ý chí đòi hỏi phải liên tục đưa bản thân vào các bài tập thể lực và tinh thần thực tế để mở rộng dung lượng cơ bắp tự chủ.",
+        "Kiến thức học thuật có thể quên, còn ý chí một khi đã rèn luyện thì không bao giờ mất đi.",
         "Không có bất kỳ sự khác biệt nào giữa hai khái niệm."
       ],
       "correctIndex": 1,
@@ -176,10 +176,10 @@
       "id": "q15",
       "question": "Bài học then chốt rút ra từ Chương 5 về sự thành công của một cá nhân và tổ chức là gì?",
       "options": [
-        "Không cần rèn luyện ý chí nếu bạn có thật nhiều tiền.",
+        "Sức mạnh ý chí là thứ bẩm sinh có sẵn, ai không có thì phải chấp nhận thất bại.",
         "Sức mạnh ý chí có thể được đào tạo và biến thành một thói quen tự động thông qua việc chuẩn bị kịch bản cho các điểm ngoặt và trao quyền tự chủ cho bản thân cũng như nhân viên.",
-        "Starbucks thành công hoàn toàn nhờ vào vị ngon của hạt cà phê rang xay.",
-        "Sức mạnh ý chí là thứ bẩm sinh có sẵn, ai không có thì phải chấp nhận thất bại."
+        "Không cần rèn luyện ý chí nếu bạn có thật nhiều tiền.",
+        "Starbucks thành công hoàn toàn nhờ vào vị ngon của hạt cà phê rang xay."
       ],
       "correctIndex": 1,
       "explanation": "Ý chí là thói quen then chốt của sự thành công cá nhân. Bằng cách biến ý chí thành một phản xạ tự động trước nghịch cảnh, bất kỳ ai cũng có thể vươn lên làm chủ cuộc đời."

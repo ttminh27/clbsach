@@ -8,24 +8,24 @@
       "id": "q1",
       "question": "Cấu trúc 13 chương của cuốn sách phản ánh tiến trình chuyển hóa tâm thức nào của con người?",
       "options": [
-        "Quá trình tích lũy của cải từ nghèo khó đến khi mua được chiếc siêu xe đắt tiền.",
         "Một cuộc tranh tụng pháp lý kéo dài qua nhiều cấp tòa án tại Hoa Kỳ.",
         "Một chuỗi các sự kiện ngẫu nhiên không có sự liên kết logic về mặt phương pháp luận.",
-        "Từ khủng hoảng, sụp đổ bản ngã cũ -> Tìm kiếm minh triết -> Rèn luyện từng phẩm chất nội tâm -> Khai sáng và quay về phụng sự cộng đồng."
+        "Từ khủng hoảng, sụp đổ bản ngã cũ -> Tìm kiếm minh triết -> Rèn luyện từng phẩm chất nội tâm -> Khai sáng và quay về phụng sự cộng đồng.",
+        "Quá trình tích lũy của cải từ nghèo khó đến khi mua được chiếc siêu xe đắt tiền."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Toàn bộ tác phẩm được thiết kế theo hành trình người hùng (Hero's Journey): khủng hoảng đánh thức, vượt qua thử thách, tiếp nhận chân lý và trở về trao giá trị."
     },
     {
       "id": "q2",
       "question": "Tại sao 'Khu vườn kỳ diệu' (Làm chủ tâm trí) lại được đặt ở vị trí đầu tiên trong 7 biểu tượng ngụ ngôn?",
       "options": [
-        "Bởi vì đây là biểu tượng duy nhất có chứa hình ảnh màu sắc sống động.",
         "Bởi vì làm vườn là công việc chiếm nhiều thời gian nhất của cư dân Sivana.",
         "Bởi vì tác giả có sở thích làm vườn hoa hồng từ nhỏ.",
-        "Bởi vì tâm trí là gốc rễ của mọi suy nghĩ, cảm xúc và hành vi; nếu tâm trí chưa được kiểm soát thì không thể rèn luyện các phẩm chất khác."
+        "Bởi vì tâm trí là gốc rễ của mọi suy nghĩ, cảm xúc và hành vi; nếu tâm trí chưa được kiểm soát thì không thể rèn luyện các phẩm chất khác.",
+        "Bởi vì đây là biểu tượng duy nhất có chứa hình ảnh màu sắc sống động."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Tâm trí là điểm khởi đầu; chất lượng của tư duy quyết định chất lượng của cuộc sống, do đó làm chủ tâm trí là bài học nền móng số 1."
     },
     {
@@ -34,8 +34,8 @@
       "options": [
         "Mục đích sống là thứ được tạo ra trước, sau đó mới cần đến tâm trí để phê phán nó.",
         "Một tâm trí minh mẫn, không bị xao động bởi tạp niệm mới có đủ sự sáng suốt để nhận diện và kiên định đi theo mục đích sống cao cả.",
-        "Hai chương này hoàn toàn đối lập và mâu thuẫn về mặt triết lý thực hành.",
-        "Chương 8 chỉ nhắc lại những nội dung đã trình bày ở Chương 7 mà không có phát triển mới."
+        "Chương 8 chỉ nhắc lại những nội dung đã trình bày ở Chương 7 mà không có phát triển mới.",
+        "Hai chương này hoàn toàn đối lập và mâu thuẫn về mặt triết lý thực hành."
       ],
       "correctIndex": 1,
       "explanation": "Khi tâm trí được dọn dẹp sạch cỏ dại tiêu cực, con người mới nhìn thấy rõ ngọn hải đăng (mục đích sống) dẫn đường cho cuộc đời mình."
@@ -44,12 +44,12 @@
       "id": "q4",
       "question": "Tại sao Chương 9 (Triết lý Kaizen - Hoàn thiện bản thân) lại đi trước Chương 10 (Sức mạnh của kỷ luật)?",
       "options": [
-        "Kaizen là phương pháp quản trị kinh doanh của Nhật Bản còn kỷ luật là của phương Tây.",
-        "Kỷ luật là thứ có sẵn bẩm sinh nên không cần học trước.",
+        "Tác giả sắp xếp ngẫu nhiên theo thứ tự chữ cái của tên các chương.",
         "Để hoàn thiện bản thân thông qua 10 nghi thức, con người cần thấu hiểu giá trị của sự tiến bộ liên tục trước khi dùng kỷ luật sắt đá để duy trì chúng.",
-        "Tác giả sắp xếp ngẫu nhiên theo thứ tự chữ cái của tên các chương."
+        "Kaizen là phương pháp quản trị kinh doanh của Nhật Bản còn kỷ luật là của phương Tây.",
+        "Kỷ luật là thứ có sẵn bẩm sinh nên không cần học trước."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Hiểu rõ 'Tại sao cần hoàn thiện bản thân' (Kaizen) sẽ tạo ra động lực nội tại, sau đó kỷ luật (chiếc khố dây cáp) sẽ là công cụ thực thi bền bỉ."
     },
     {
@@ -57,9 +57,9 @@
       "question": "Vị trí của Chương 11 (Tôn trọng thời gian) mang thông điệp gì đối với người đang thực hành phát triển bản thân?",
       "options": [
         "Người tu tập không cần quan tâm đến thời gian và lịch trình công việc hàng ngày.",
-        "Thời gian chỉ có ý nghĩa đối với những người làm việc trong ngành tài chính chứng khoán.",
+        "Thời gian là thứ vô tận nên bạn có thể thoải mái dời các mục tiêu sang kiếp sau.",
         "Thời gian là tài sản quý giá nhất và có hạn; mọi tri thức và kế hoạch đều trở nên vô nghĩa nếu bạn trì hoãn và không quản lý thời gian hiệu quả.",
-        "Thời gian là thứ vô tận nên bạn có thể thoải mái dời các mục tiêu sang kiếp sau."
+        "Thời gian chỉ có ý nghĩa đối với những người làm việc trong ngành tài chính chứng khoán."
       ],
       "correctIndex": 2,
       "explanation": "Làm chủ thời gian chính là làm chủ cuộc sống; thời gian trôi qua không bao giờ lấy lại được, vì vậy người khôn ngoan phải bảo vệ từng giờ từng phút."
@@ -68,36 +68,36 @@
       "id": "q6",
       "question": "Tại sao 'Lòng trắc ẩn và Phụng sự tha nhân' lại được đặt ở Chương 12, gần cuối cuộc hành trình?",
       "options": [
-        "Khi cá nhân đã hoàn thiện về nội lực (tâm trí, mục đích, kỷ luật, thời gian), đỉnh cao của sự trưởng thành là mở rộng tình yêu thương để cống hiến cho xã hội.",
         "Phụng sự người khác là biện pháp cứu cánh cuối cùng khi việc phát triển cá nhân thất bại.",
+        "Chỉ khi nào sắp qua đời con người mới cần nghĩ đến việc giúp đỡ người khác.",
         "Phụng sự là việc đơn giản nhất nên để lại cuối cùng làm cho nhanh.",
-        "Chỉ khi nào sắp qua đời con người mới cần nghĩ đến việc giúp đỡ người khác."
+        "Khi cá nhân đã hoàn thiện về nội lực (tâm trí, mục đích, kỷ luật, thời gian), đỉnh cao của sự trưởng thành là mở rộng tình yêu thương để cống hiến cho xã hội."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Từ Thắng lợi cá nhân (làm chủ bản thân) tiến tới Thắng lợi tập thể (phụng sự tha nhân) là quy luật phát triển tự nhiên của một bậc đại trí."
     },
     {
       "id": "q7",
       "question": "Ý nghĩa biểu tượng của Chương 13 'Sống trong hiện tại' (Con đường trải kim cương) ở điểm kết thúc câu chuyện là gì?",
       "options": [
-        "Sau khi hoàn thành các bài học, người học trò sẽ được tặng một con đường làm bằng đá quý.",
         "Hạnh phúc không phải là một đích đến ở tương lai xa xôi mà là khả năng trân trọng và tận hưởng trọn vẹn từng viên kim cương trên từng bước chân hiện tại.",
-        "Đích đến của người tu sĩ là tìm thấy một mỏ kim cương thực sự trên dãy núi Himalaya.",
-        "Khuyên con người nên quên hết quá khứ và không cần lập bất kỳ kế hoạch nào cho tương lai."
+        "Khuyên con người nên quên hết quá khứ và không cần lập bất kỳ kế hoạch nào cho tương lai.",
+        "Sau khi hoàn thành các bài học, người học trò sẽ được tặng một con đường làm bằng đá quý.",
+        "Đích đến của người tu sĩ là tìm thấy một mỏ kim cương thực sự trên dãy núi Himalaya."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Kim cương nằm ngay dưới chân bạn trên con đường đời; sống trọn vẹn trong 'giây phút hiện tại' chính là bí quyết tối hậu của hạnh phúc suốt đời."
     },
     {
       "id": "q8",
       "question": "Sự xuất hiện của 10 Nghi thức sống rực rỡ trong cấu trúc sách đóng vai trò gì?",
       "options": [
-        "Một bản quy tắc làm việc nghiêm ngặt áp dụng tại các tòa án liên bang.",
-        "Các nghi thức tôn giáo bắt buộc phải tụng niệm trước bàn thờ mỗi sáng.",
         "Cung cấp bộ khung hành động thực tế mỗi ngày giúp chuyển hóa các tư tưởng triết học trừu tượng thành thói quen cụ thể.",
-        "Những bài tập thể dục thẩm mỹ dành riêng cho phụ nữ trung niên."
+        "Những bài tập thể dục thẩm mỹ dành riêng cho phụ nữ trung niên.",
+        "Các nghi thức tôn giáo bắt buộc phải tụng niệm trước bàn thờ mỗi sáng.",
+        "Một bản quy tắc làm việc nghiêm ngặt áp dụng tại các tòa án liên bang."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "10 nghi thức là cẩm nang thực hành hàng ngày (như thức dậy sớm, cô tịch, dinh dưỡng sống, đọc sách...) giúp nuôi dưỡng thân tâm bền vững."
     },
     {
@@ -105,23 +105,23 @@
       "question": "Tại sao 3 chương đầu tiên lại tập trung vào cuộc khủng hoảng của Julian Mantle thay vì giảng giải bí quyết ngay từ đầu?",
       "options": [
         "Để kéo dài số trang của cuốn sách theo yêu cầu của hợp đồng in ấn.",
+        "Để chứng minh rằng nghề luật sư là một nghề độc hại cần phải bài trừ.",
         "Tác giả muốn viết một cuốn tiểu thuyết hình sự trước khi chuyển hướng sang tâm lý.",
-        "Tạo dựng bối cảnh tâm lý chân thực về sự bế tắc của con người hiện đại, chứng minh rằng những giải pháp cũ đã hoàn toàn thất bại.",
-        "Để chứng minh rằng nghề luật sư là một nghề độc hại cần phải bài trừ."
+        "Tạo dựng bối cảnh tâm lý chân thực về sự bế tắc của con người hiện đại, chứng minh rằng những giải pháp cũ đã hoàn toàn thất bại."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Phải nhìn thấy tận cùng nỗi đau và sự sụp đổ của mô thức cũ thì tâm trí người đọc mới thực sự mở ra và khao khát tìm kiếm giải pháp mới."
     },
     {
       "id": "q10",
       "question": "Điểm độc đáo trong cách bố cục câu chuyện giữa Julian Mantle và người bạn John suốt đêm là gì?",
       "options": [
-        "Một bài thuyết trình đơn điệu một chiều từ người thầy mà học trò không được phép ngắt lời.",
         "Một cuộc đối thoại thân mật (dialogue) liên tục từ đêm đến sáng, tượng trưng cho hành trình chuyển từ bóng tối vô minh sang ánh sáng thức tỉnh.",
-        "Một cuộc tranh luận nảy lửa tại tòa án với sự tham gia của bồi thẩm đoàn.",
-        "Một buổi phỏng vấn truyền hình trực tiếp trước hàng triệu khán giả."
+        "Một bài thuyết trình đơn điệu một chiều từ người thầy mà học trò không được phép ngắt lời.",
+        "Một buổi phỏng vấn truyền hình trực tiếp trước hàng triệu khán giả.",
+        "Một cuộc tranh luận nảy lửa tại tòa án với sự tham gia của bồi thẩm đoàn."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Không gian đêm tàn nhường chỗ cho bình minh là phép ẩn dụ hoàn hảo cho sự chuyển hóa tâm thức từ u tối, kiệt quệ sang rực rỡ, hồi sinh."
     },
     {
@@ -129,23 +129,23 @@
       "question": "Tính hệ thống của '7 nguyên tắc giá trị muôn đời' được thể hiện như thế nào trong mục lục?",
       "options": [
         "Người đọc chỉ cần chọn duy nhất 1 nguyên tắc để thực hành và bỏ qua 6 nguyên tắc còn lại.",
-        "7 nguyên tắc hoạt động độc lập và hoàn toàn tách rời nhau mà không có sự liên quan.",
+        "Mỗi nguyên tắc là một mảnh ghép tương hỗ, cấu thành một vòng tròn trọn vẹn chăm sóc Thân - Tâm - Trí - Nghiệp của một con người.",
         "Các nguyên tắc được sắp xếp theo mức độ giảm dần về tầm quan trọng.",
-        "Mỗi nguyên tắc là một mảnh ghép tương hỗ, cấu thành một vòng tròn trọn vẹn chăm sóc Thân - Tâm - Trí - Nghiệp của một con người."
+        "7 nguyên tắc hoạt động độc lập và hoàn toàn tách rời nhau mà không có sự liên quan."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "7 nguyên tắc là một chỉnh thể hữu cơ; sự thiếu hụt bất kỳ yếu tố nào cũng sẽ khiến bánh xe cuộc đời bị khập khiễng và mất cân bằng."
     },
     {
       "id": "q12",
       "question": "Tại sao phần phụ lục 'Tác giả Robin Sharma' lại cần thiết cho toàn bộ tác phẩm?",
       "options": [
-        "Chứng minh tính xác thực và trải nghiệm sống của tác giả: ông cũng từng là một luật sư từ bỏ sự nghiệp hào nhoáng để tìm kiếm chân lý sống đích thực.",
-        "Nhằm mục đích quảng cáo các tour du lịch nghỉ dưỡng sang Ấn Độ của tác giả.",
         "Để liệt kê các giải thưởng văn học mà tác giả đã từng từ chối nhận.",
-        "Để cung cấp thông tin liên hệ giải quyết các tranh chấp bản quyền tác phẩm."
+        "Nhằm mục đích quảng cáo các tour du lịch nghỉ dưỡng sang Ấn Độ của tác giả.",
+        "Để cung cấp thông tin liên hệ giải quyết các tranh chấp bản quyền tác phẩm.",
+        "Chứng minh tính xác thực và trải nghiệm sống của tác giả: ông cũng từng là một luật sư từ bỏ sự nghiệp hào nhoáng để tìm kiếm chân lý sống đích thực."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Robin Sharma chính là hình mẫu ngoài đời thực của câu chuyện; ông đã tự mình trải qua sự chuyển hóa này trước khi đúc kết thành tác phẩm."
     },
     {
@@ -153,9 +153,9 @@
       "question": "Sự xuất hiện của 'Quy tắc 21 ngày ma thuật' trong tiến trình các chương mang lại ý nghĩa gì về mặt khoa học hành vi?",
       "options": [
         "Nhắc nhở rằng việc hình thành một nơ-ron thần kinh mới và thói quen mới đòi hỏi sự kiên trì liên tục tối thiểu 3 tuần lễ không ngắt quãng.",
-        "Chứng minh rằng sau 21 ngày con người không cần phải nỗ lực thêm bất cứ điều gì nữa.",
+        "Một con số mang tính chất bói toán và huyền bí phương Đông.",
         "Thời hạn bảo hành bắt buộc của các khóa học phát triển bản thân.",
-        "Một con số mang tính chất bói toán và huyền bí phương Đông."
+        "Chứng minh rằng sau 21 ngày con người không cần phải nỗ lực thêm bất cứ điều gì nữa."
       ],
       "correctIndex": 0,
       "explanation": "Não bộ cần thời gian để tái cấu trúc các đường mòn thần kinh; 21 ngày là ngưỡng tối thiểu để một hành vi có ý thức biến thành phản xạ tự nhiên."
@@ -164,12 +164,12 @@
       "id": "q14",
       "question": "Yếu tố nào liên kết giữa 'Trái tim hoa hồng' (Chương 6) và 'Những bông hồng ngát hương' (Chương 12)?",
       "options": [
-        "Cả hai chương đều nói về kỹ thuật cắm hoa nghệ thuật của Nhật Bản.",
         "Hình ảnh hoa hồng đi từ việc 'Tập trung tâm trí vào vẻ đẹp bên trong' đến việc 'Lan tỏa hương thơm tình yêu thương ra thế giới bên ngoài'.",
+        "Cả hai chương đều nói về kỹ thuật cắm hoa nghệ thuật của Nhật Bản.",
         "Hoa hồng là loài hoa duy nhất có thể sống sót trên đỉnh núi tuyết Himalaya.",
         "Sự lặp lại ngẫu nhiên do tác giả thiếu các hình ảnh ẩn dụ khác."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Hoa hồng là biểu tượng kép: vẻ đẹp tĩnh tại của tâm trí thuần khiết và hương thơm ngát của lòng vị tha phụng sự cuộc đời."
     },
     {
@@ -177,11 +177,11 @@
       "question": "Nếu ví cuốn sách như một tấm bản đồ, thì đích đến cuối cùng mà độc giả đạt được sau khi đi hết mục lục là gì?",
       "options": [
         "Trở thành một ẩn sĩ sống cô độc trên núi tuyết vĩnh viễn.",
-        "Tự do nội tâm đích thực và khả năng kiến tạo một cuộc đời rực rỡ, ý nghĩa và tràn đầy phúc lạc mỗi ngày.",
+        "Năng lực ghi nhớ toàn bộ văn bản luật pháp của Hoa Kỳ.",
         "Khả năng kiếm được hàng triệu đô-la trong ngành luật quốc tế.",
-        "Năng lực ghi nhớ toàn bộ văn bản luật pháp của Hoa Kỳ."
+        "Tự do nội tâm đích thực và khả năng kiến tạo một cuộc đời rực rỡ, ý nghĩa và tràn đầy phúc lạc mỗi ngày."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Cuốn sách trao cho bạn chiếc chìa khóa để mở cánh cửa tự do nội tâm, biến cuộc sống bình thường mỗi ngày thành một kiệt tác sống động."
     }
   ]

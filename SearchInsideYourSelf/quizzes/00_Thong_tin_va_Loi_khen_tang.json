@@ -8,24 +8,24 @@
       "id": "q1",
       "question": "Cựu Tổng thống Mỹ Jimmy Carter (Nobel Hòa bình) đã nhấn mạnh giá trị nào của cuốn sách 'Search Inside Yourself'?",
       "options": [
-        "Dạy người đọc cách trở thành một kỹ sư công nghệ thông tin.",
-        "Phê bình các công ty công nghệ đã làm suy thoái đạo đức xã hội.",
         "Cung cấp hướng dẫn chi tiết về bầu cử chính trị tại Mỹ.",
-        "Chỉ ra con đường kết hợp giữa sự an lạc nội tâm và hành động vì hòa bình thế giới thông qua việc rèn luyện tâm trí thực tiễn."
+        "Chỉ ra con đường kết hợp giữa sự an lạc nội tâm và hành động vì hòa bình thế giới thông qua việc rèn luyện tâm trí thực tiễn.",
+        "Phê bình các công ty công nghệ đã làm suy thoái đạo đức xã hội.",
+        "Dạy người đọc cách trở thành một kỹ sư công nghệ thông tin."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Tổng thống Jimmy Carter ca ngợi cuốn sách vì nó chỉ ra mối liên hệ chặt chẽ giữa sự bình an cá nhân và trách nhiệm phụng sự nền hòa bình chung của nhân loại."
     },
     {
       "id": "q2",
       "question": "Eric Schmidt (Cựu Chủ tịch & CEO của Google) nhận xét gì về vai trò của chương trình Search Inside Yourself đối với văn hóa doanh nghiệp Google?",
       "options": [
-        "Nó giúp Google cắt giảm được 30% ngân sách văn phòng phẩm.",
-        "Nó là một chương trình mang tính đột phá giúp các kỹ sư cải thiện sức khỏe tinh thần, nâng cao khả năng hợp tác và làm thay đổi sâu sắc cách mọi người làm việc cùng nhau.",
         "Nó là một khóa học bắt buộc nếu nhân viên muốn được nhận lương thưởng.",
-        "Nó giúp nhân viên Google viết code mà không cần nghỉ ngơi."
+        "Nó giúp nhân viên Google viết code mà không cần nghỉ ngơi.",
+        "Nó là một chương trình mang tính đột phá giúp các kỹ sư cải thiện sức khỏe tinh thần, nâng cao khả năng hợp tác và làm thay đổi sâu sắc cách mọi người làm việc cùng nhau.",
+        "Nó giúp Google cắt giảm được 30% ngân sách văn phòng phẩm."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Eric Schmidt khẳng định Search Inside Yourself đã trở thành một phần di sản văn hóa độc đáo của Google, chứng minh rằng sự tĩnh tại nội tâm là đòn bẩy cho năng suất đỉnh cao."
     },
     {
@@ -33,11 +33,11 @@
       "question": "Daniel Goleman (tác giả cuốn sách kinh điển 'Trí Tuệ Cảm Xúc') đánh giá thế nào về đóng góp của Chade-Meng Tan?",
       "options": [
         "Khóa học chỉ phù hợp cho những người có nhiều thời gian rảnh rỗi.",
-        "Meng là người duy nhất trên thế giới có chỉ số EQ tuyệt đối.",
         "Meng đã đưa Trí tuệ cảm xúc từ những khái niệm tâm lý học hàn lâm thành một bộ công cụ rèn luyện thực hành dựa trên khoa học não bộ và chánh niệm dễ áp dụng cho bất kỳ ai.",
-        "Meng đã sao chép hoàn toàn lý thuyết của ông mà không có cải tiến."
+        "Meng đã sao chép hoàn toàn lý thuyết của ông mà không có cải tiến.",
+        "Meng là người duy nhất trên thế giới có chỉ số EQ tuyệt đối."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Daniel Goleman đánh giá rất cao Meng vì đã 'khoa học hóa' và biến EQ thành một giáo trình rèn luyện thân tâm có thể đo lường và thực hành từng bước một."
     },
     {
@@ -46,8 +46,8 @@
       "options": [
         "Cách tiếp cận quá trang nghiêm và cứng nhắc khiến người đọc sợ hãi.",
         "Một sự hòa quyện tuyệt vời giữa sự nghiêm túc khoa học sâu sắc và phong cách hài hước hóm hỉnh, biến chánh niệm thành món quà dễ tiếp cận cho thế giới hiện đại.",
-        "Chánh niệm chỉ nên được thực hành trong các tu viện kín cổng cao tường.",
-        "Cuốn sách chỉ phù hợp cho sinh viên ngành y khoa."
+        "Cuốn sách chỉ phù hợp cho sinh viên ngành y khoa.",
+        "Chánh niệm chỉ nên được thực hành trong các tu viện kín cổng cao tường."
       ],
       "correctIndex": 1,
       "explanation": "Jon Kabat-Zinn khen ngợi Meng vì khả năng lồng ghép sự thông thái cổ xưa và khoa học thần kinh hiện đại bằng ngôn từ giản dị, dí dỏm và đầy sức sống."
@@ -56,48 +56,48 @@
       "id": "q5",
       "question": "Giáo sư Mirabai Bush (Đại học Massachusetts) nhấn mạnh điều gì về tính ứng dụng của SIY trong môi trường doanh nghiệp khốc liệt?",
       "options": [
-        "Doanh nghiệp nên sa thải các nhân viên quá nhạy cảm về cảm xúc.",
         "Lòng trắc ẩn và sự an tĩnh không phải là sự yếu đuối; chúng chính là nền tảng của sự kiên cường và khả năng lãnh đạo bền vững trong kỷ nguyên số.",
-        "Thiền định làm giảm tính cạnh tranh của các công ty đa quốc gia.",
-        "Chỉ có nhân viên cấp thấp mới cần học về cảm xúc."
+        "Doanh nghiệp nên sa thải các nhân viên quá nhạy cảm về cảm xúc.",
+        "Chỉ có nhân viên cấp thấp mới cần học về cảm xúc.",
+        "Thiền định làm giảm tính cạnh tranh của các công ty đa quốc gia."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Mirabai Bush khẳng định lòng trắc ẩn và sự tự nhận thức là sức mạnh cạnh tranh cốt lõi giúp các tổ chức đổi mới và phát triển bền vững."
     },
     {
       "id": "q6",
       "question": "Lời khen tặng từ Tiến sĩ John Teasdale (Đại học Oxford) nhấn mạnh yếu tố cốt lõi nào tạo nên sức hút của cuốn sách?",
       "options": [
+        "Cuốn sách có giá bán rất rẻ so với thị trường.",
         "Khả năng chuyển hóa trực giác tâm linh thành các kỹ năng thực tế có thể rèn luyện thông qua sự hiểu biết sâu sắc về sinh học thần kinh.",
         "Cuốn sách chỉ toàn các bài kiểm tra toán học phức tạp.",
-        "Cuốn sách có giá bán rất rẻ so với thị trường.",
         "Cuốn sách được viết bởi một cựu điệp viên quốc tế."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "John Teasdale đánh giá cao tính khoa học chuẩn xác và các phương pháp rèn luyện tâm trí đã được kiểm chứng bằng thực nghiệm thần kinh học."
     },
     {
       "id": "q7",
       "question": "Tại sao các chuyên gia nhân sự hàng đầu tại Thung lũng Silicon lại khuyên đọc Search Inside Yourself?",
       "options": [
-        "Để nhân viên bớt đòi tăng lương.",
-        "Vì cuốn sách hướng dẫn cách tắt thông báo điện thoại thông minh.",
         "Vì cuốn sách giải quyết tận gốc nguyên nhân của sự kiệt quệ tinh thần (burnout), giúp xây dựng khả năng tự phục hồi và thấu cảm trong các nhóm làm việc công nghệ cao.",
-        "Vì cuốn sách hướng dẫn lập trình ngôn ngữ C++."
+        "Để nhân viên bớt đòi tăng lương.",
+        "Vì cuốn sách hướng dẫn lập trình ngôn ngữ C++.",
+        "Vì cuốn sách hướng dẫn cách tắt thông báo điện thoại thông minh."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "SIY cung cấp liều thuốc giải độc cho căn bệnh kiệt sức và căng thẳng mãn tính của thời đại công nghệ, tái tạo năng lượng sáng tạo cho nhân sự."
     },
     {
       "id": "q8",
       "question": "Điểm chung nhất trong lời tựa và lời khen tặng của các học giả Nobel và lãnh đạo doanh nghiệp là gì?",
       "options": [
-        "Họ cho rằng công nghệ sẽ sớm thay thế hoàn toàn cảm xúc của con người.",
         "Họ khuyên mọi người nên từ bỏ cuộc sống thành thị để về nông thôn.",
-        "Họ đều là những người bạn thân thời thơ ấu của tác giả.",
-        "Họ cùng đồng thuận rằng sự phát triển tâm trí bên trong (Inner growth) phải song hành với sự phát triển công nghệ bên ngoài để tạo nên một tương lai nhân văn hơn."
+        "Họ cho rằng công nghệ sẽ sớm thay thế hoàn toàn cảm xúc của con người.",
+        "Họ cùng đồng thuận rằng sự phát triển tâm trí bên trong (Inner growth) phải song hành với sự phát triển công nghệ bên ngoài để tạo nên một tương lai nhân văn hơn.",
+        "Họ đều là những người bạn thân thời thơ ấu của tác giả."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Sự phát triển vượt bậc của công nghệ đòi hỏi con người phải nâng cấp phẩm chất nội tâm tương xứng; nếu không có lòng từ bi và EQ, sức mạnh công nghệ sẽ trở nên nguy hiểm."
     },
     {
@@ -105,45 +105,45 @@
       "question": "Tác giả Chade-Meng Tan được các nhân vật nổi tiếng trong sách gọi bằng biệt danh trìu mến nào?",
       "options": [
         "Kỹ sư toán học lạnh lùng nhất nước Mỹ.",
-        "A Jolly Good Fellow (Một người bạn dễ thương / Vui tính của Google).",
         "Vị Thầy Nghiêm Khắc Của Thung Lũng Silicon.",
-        "Người phát minh ra công cụ tìm kiếm Google."
+        "Người phát minh ra công cụ tìm kiếm Google.",
+        "A Jolly Good Fellow (Một người bạn dễ thương / Vui tính của Google)."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Meng nổi tiếng với chức danh chính thức tại Google là 'Jolly Good Fellow' – phản ánh tinh thần hóm hỉnh, ấm áp và luôn muốn mang lại nụ cười cho mọi người."
     },
     {
       "id": "q10",
       "question": "Thông điệp chính mà các nhà lãnh đạo tôn giáo và tâm linh gửi gắm khi ủng hộ cuốn sách này là gì?",
       "options": [
-        "Thiền định là nghi lễ chỉ dành riêng cho tầng lớp quý tộc.",
-        "Chỉ những người ăn chay mới có thể thiền định thành công.",
         "Mọi người nên từ bỏ tôn giáo của mình để theo một trường phái mới.",
-        "Các giá trị của sự chú ý, từ bi và bình an là di sản chung của toàn thể nhân loại, vượt qua mọi ranh giới tôn giáo hay niềm tin tín ngưỡng."
+        "Thiền định là nghi lễ chỉ dành riêng cho tầng lớp quý tộc.",
+        "Các giá trị của sự chú ý, từ bi và bình an là di sản chung của toàn thể nhân loại, vượt qua mọi ranh giới tôn giáo hay niềm tin tín ngưỡng.",
+        "Chỉ những người ăn chay mới có thể thiền định thành công."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Cuốn sách phi tôn giáo hóa các phương pháp rèn luyện tâm trí, giúp bất kỳ ai thuộc bất kỳ nền văn hóa hay tín ngưỡng nào cũng có thể hưởng lợi từ chánh niệm."
     },
     {
       "id": "q11",
       "question": "Lời khen tặng từ các nhà sáng lập startup công nghệ nhấn mạnh điều gì về tính thực tế của SIY?",
       "options": [
-        "Nó giúp startup gọi vốn đầu tư mạo hiểm nhanh hơn.",
-        "Nó cung cấp các bài tập 'vi mô' (micro-practices) chỉ mất vài giây đến vài phút mỗi ngày, cực kỳ phù hợp với nhịp sống bận rộn nghẹt thở của các nhà khởi nghiệp.",
+        "Nó giúp doanh nghiệp cắt giảm 100% thời gian họp hành.",
         "Nó dạy cách trốn thuế doanh nghiệp thông qua thiền định.",
-        "Nó giúp doanh nghiệp cắt giảm 100% thời gian họp hành."
+        "Nó giúp startup gọi vốn đầu tư mạo hiểm nhanh hơn.",
+        "Nó cung cấp các bài tập 'vi mô' (micro-practices) chỉ mất vài giây đến vài phút mỗi ngày, cực kỳ phù hợp với nhịp sống bận rộn nghẹt thở của các nhà khởi nghiệp."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Các bài tập trong SIY được thiết kế tinh gọn để có thể thực hành ngay trong lúc uống nước, đi bộ giữa hai phòng họp hoặc trước khi mở một email quan trọng."
     },
     {
       "id": "q12",
       "question": "Tại sao các nhà khoa học thần kinh lại hào hứng viết lời khen tặng cho cuốn sách này?",
       "options": [
-        "Vì tác giả đã trả tiền bản quyền rất cao cho các viện nghiên cứu.",
+        "Vì cuốn sách chứng minh rằng não bộ con người không cần oxy để hoạt động.",
         "Vì cuốn sách đã truyền tải những khám phá phức tạp về tính dẻo thần kinh (Neuroplasticity) và chức năng vỏ não thành những bài tập thực hành dễ hiểu cho công chúng.",
         "Vì tác giả là người đã chế tạo ra máy quét não fMRI.",
-        "Vì cuốn sách chứng minh rằng não bộ con người không cần oxy để hoạt động."
+        "Vì tác giả đã trả tiền bản quyền rất cao cho các viện nghiên cứu."
       ],
       "correctIndex": 1,
       "explanation": "Cuốn sách là cây cầu hoàn hảo kết nối giữa những công trình nghiên cứu hàn lâm trong phòng thí nghiệm với cuộc sống thường nhật của hàng triệu người."
@@ -152,24 +152,24 @@
       "id": "q13",
       "question": "Sự kết hợp giữa 'Tìm kiếm bên trong' (Search Inside) và 'Công cụ tìm kiếm bên ngoài' (Google Search) mang ý nghĩa ẩn dụ gì?",
       "options": [
-        "Tác giả muốn quảng cáo cho công cụ tìm kiếm của Google để tăng doanh thu quảng cáo.",
         "Nếu như Google giúp bạn tìm kiếm mọi thông tin trong thế giới dữ liệu bên ngoài, thì Search Inside Yourself giúp bạn tìm thấy sự bình an, thấu hiểu và tiềm năng vô tận bên trong chính tâm trí mình.",
+        "Tác giả muốn quảng cáo cho công cụ tìm kiếm của Google để tăng doanh thu quảng cáo.",
         "Đây chỉ là một trò chơi chữ ngẫu nhiên không có ý nghĩa.",
         "Tác giả muốn ám chỉ rằng thông tin bên ngoài quan trọng gấp trăm lần nội tâm bên trong."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Đây là ẩn dụ sâu sắc nhất của Meng: kỹ năng quan trọng nhất của thế kỷ 21 không chỉ là tìm kiếm thông tin bên ngoài, mà là làm chủ thuật toán của chính tâm trí bên trong."
     },
     {
       "id": "q14",
       "question": "Những lời nhận xét trong phần đầu sách khẳng định điều gì về đối tượng độc giả phù hợp nhất của tác phẩm?",
       "options": [
-        "Dành cho tất cả mọi người: từ kỹ sư, nhà quản lý, sinh viên, giáo viên đến bất kỳ ai khao khát nâng cao hiệu suất làm việc và tìm kiếm sự thanh thản trong tâm hồn.",
-        "Chỉ dành cho những người có chỉ số IQ trên 140.",
         "Chỉ dành cho những người cao tuổi đã nghỉ hưu.",
-        "Chỉ dành riêng cho các tu sĩ và những người muốn đi tu."
+        "Dành cho tất cả mọi người: từ kỹ sư, nhà quản lý, sinh viên, giáo viên đến bất kỳ ai khao khát nâng cao hiệu suất làm việc và tìm kiếm sự thanh thản trong tâm hồn.",
+        "Chỉ dành riêng cho các tu sĩ và những người muốn đi tu.",
+        "Chỉ dành cho những người có chỉ số IQ trên 140."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Bất kỳ ai có một bộ não và mong muốn sống một cuộc đời hạnh phúc, an lành và có ý nghĩa đều là đối tượng thụ hưởng giá trị của cuốn sách này."
     },
     {
@@ -177,11 +177,11 @@
       "question": "Bài học tổng quát rút ra từ toàn bộ phần 'Thông tin & Lời khen tặng' là gì?",
       "options": [
         "Một cuốn sách nổi tiếng chỉ nhờ vào sự quảng cáo của người nổi tiếng.",
-        "Search Inside Yourself là một phong trào chuyển hóa tâm thức được bảo chứng bởi các nhà khoa học, chính khách và doanh nhân hàng đầu thế giới – mở ra một kỷ nguyên mới của Trí tuệ cảm xúc thực tiễn.",
         "Trí tuệ cảm xúc không thể học được qua sách báo.",
+        "Search Inside Yourself là một phong trào chuyển hóa tâm thức được bảo chứng bởi các nhà khoa học, chính khách và doanh nhân hàng đầu thế giới – mở ra một kỷ nguyên mới của Trí tuệ cảm xúc thực tiễn.",
         "Thành công chỉ đến khi bạn làm việc 20 tiếng mỗi ngày."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự đồng thuận mạnh mẽ từ các học giả đoạt giải Nobel và lãnh đạo doanh nghiệp hàng đầu khẳng định SIY là kim chỉ nam cho sự phát triển con người toàn diện trong thế kỷ 21."
     }
   ]

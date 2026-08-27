@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Khái niệm 'Sự tự tin hữu cơ' (Organic self-confidence) trong Chương 4 được định nghĩa là gì?",
       "options": [
-        "Sự kiêu ngạo coi thường tất cả mọi người xung quanh.",
-        "Sự tự tin giả tạo được xây dựng bằng cách gào thét những câu khẩu hiệu trước gương mỗi sáng.",
         "Sự tự tin sâu sắc, vững chãi và tự nhiên nảy sinh từ sự thấu hiểu chân thật và khách quan về chính mình (nhận biết rõ cả điểm mạnh, điểm yếu và giới hạn của bản thân mà không tự lừa dối).",
-        "Sự tự tin chỉ có được sau khi bạn đã mua được xe hơi đắt tiền và nhà lầu."
+        "Sự kiêu ngạo coi thường tất cả mọi người xung quanh.",
+        "Sự tự tin chỉ có được sau khi bạn đã mua được xe hơi đắt tiền và nhà lầu.",
+        "Sự tự tin giả tạo được xây dựng bằng cách gào thét những câu khẩu hiệu trước gương mỗi sáng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Tự tin hữu cơ bắt nguồn từ Tự nhận thức (Self-awareness): khi bạn biết rõ con người thật của mình mà không cần che đậy hay phóng đại, bạn không còn sợ hãi bị người khác phán xét."
     },
     {
@@ -22,8 +22,8 @@
       "options": [
         "Thùy đảo chỉ chịu trách nhiệm điều khiển vị giác khi ăn đồ chua.",
         "Thùy đảo là trung tâm nhận thức cảm giác nội tại cơ thể (Interoception); cảm xúc luôn biểu hiện qua cơ thể đầu tiên, do đó thùy đảo càng phát triển thì bạn càng nhận diện cảm xúc nhanh và chính xác hơn.",
-        "Thùy đảo là vùng não lưu trữ các kiến thức về địa lý.",
-        "Thùy đảo hoàn toàn không có mối liên hệ nào với cảm xúc."
+        "Thùy đảo hoàn toàn không có mối liên hệ nào với cảm xúc.",
+        "Thùy đảo là vùng não lưu trữ các kiến thức về địa lý."
       ],
       "correctIndex": 1,
       "explanation": "Cảm xúc là hiện tượng tâm-sinh lý (như tim đập nhanh, thắt cơ bụng khi lo âu); thùy đảo giúp 'đọc' các tín hiệu cơ thể này để đưa cảm xúc lên tầng nhận thức có ý thức."
@@ -32,58 +32,58 @@
       "id": "q3",
       "question": "Bài tập 'Quét cơ thể' (Body scan) giúp rèn luyện điều gì cho tâm trí?",
       "options": [
-        "Giúp cơ thể phát ra tia X-quang để chẩn đoán gãy xương.",
-        "Rèn luyện khả năng di chuyển sự chú ý có chủ đích qua từng vùng cơ thể (từ ngón chân lên đỉnh đầu), nhận biết mọi cảm giác thô hoặc vi tế mà không phản ứng hay phán xét.",
         "Giúp cơ bắp tự động phát triển mà không cần tập gym.",
-        "Làm cho toàn bộ cơ thể bị tê liệt tạm thời."
+        "Giúp cơ thể phát ra tia X-quang để chẩn đoán gãy xương.",
+        "Làm cho toàn bộ cơ thể bị tê liệt tạm thời.",
+        "Rèn luyện khả năng di chuyển sự chú ý có chủ đích qua từng vùng cơ thể (từ ngón chân lên đỉnh đầu), nhận biết mọi cảm giác thô hoặc vi tế mà không phản ứng hay phán xét."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Quét cơ thể nâng cao độ phân giải của nhận thức thân thể (Somatosensory awareness), giúp phát hiện sớm các vùng căng thẳng và giải phóng chúng."
     },
     {
       "id": "q4",
       "question": "Tại sao nhà triết học Socrates lại khẳng định: 'Cuộc đời không được xem xét là cuộc đời không đáng sống'?",
       "options": [
-        "Vì nếu không có sự tự nhận thức và xem xét nội tâm, chúng ta chỉ sống như một cỗ máy phản xạ mù quáng theo bản năng và các tác động bên ngoài mà không có quyền tự quyết số phận.",
         "Vì Socrates là một thẩm phán của tòa án Athens.",
+        "Vì nếu không có sự tự nhận thức và xem xét nội tâm, chúng ta chỉ sống như một cỗ máy phản xạ mù quáng theo bản năng và các tác động bên ngoài mà không có quyền tự quyết số phận.",
         "Vì câu nói này giúp ông bán được nhiều sách hơn.",
         "Vì ông muốn mọi người phải liên tục tham gia các kỳ thi sát hạch."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Tự nhận thức là nền tảng của sự sống có ý thức và đạo đức; tự soi rọi chính mình giúp con người tiến hóa và sống một cuộc đời chân thật."
     },
     {
       "id": "q5",
       "question": "Sự khác biệt giữa 'Tự nhận thức' (Self-awareness) và 'Tự ám ảnh về bản thân' (Self-absorption / Rumination) là gì?",
       "options": [
-        "Không có sự khác biệt nào, cả hai đều là việc nghĩ về bản thân.",
-        "Tự nhận thức là sự quan sát khách quan, trong sáng và không phán xét đối với thân tâm; Tự ám ảnh là vòng luẩn quẩn của cái tôi bị mắc kẹt trong sự dằn vặt, lo âu và tự phán xét tiêu cực.",
+        "Tự ám ảnh giúp con người thông minh hơn tự nhận thức.",
         "Tự nhận thức chỉ xuất hiện ở người giàu, tự ám ảnh xuất hiện ở người nghèo.",
-        "Tự ám ảnh giúp con người thông minh hơn tự nhận thức."
+        "Không có sự khác biệt nào, cả hai đều là việc nghĩ về bản thân.",
+        "Tự nhận thức là sự quan sát khách quan, trong sáng và không phán xét đối với thân tâm; Tự ám ảnh là vòng luẩn quẩn của cái tôi bị mắc kẹt trong sự dằn vặt, lo âu và tự phán xét tiêu cực."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Tự nhận thức mở ra sự tự do và giải thoát; trong khi tự ám ảnh thu hẹp thế giới lại trong cái tôi vị kỷ và đau khổ."
     },
     {
       "id": "q6",
       "question": "Trong bài tập 'Khám phá các giá trị cốt lõi' (Discovering core values), câu hỏi nào giúp bạn làm sáng tỏ mục đích sống sâu xa nhất của mình?",
       "options": [
-        "Chiếc xe hơi nào đang là mốt thời thượng nhất năm nay?",
-        "Làm thế nào để đánh bại tất cả các đối thủ cạnh tranh trong ngành?",
         "Tôi có thể kiếm được bao nhiêu tiền trong 3 tháng tới?",
-        "'Điều gì thực sự có ý nghĩa và quan trọng nhất đối với tôi? Nếu chỉ còn một năm để sống, tôi muốn dành năng lượng của mình cho những giá trị nào?'"
+        "Làm thế nào để đánh bại tất cả các đối thủ cạnh tranh trong ngành?",
+        "'Điều gì thực sự có ý nghĩa và quan trọng nhất đối với tôi? Nếu chỉ còn một năm để sống, tôi muốn dành năng lượng của mình cho những giá trị nào?'",
+        "Chiếc xe hơi nào đang là mốt thời thượng nhất năm nay?"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Nhận diện giá trị cốt lõi đóng vai trò như chiếc la bàn nội tâm; khi hành động phù hợp với giá trị sâu kín của mình, bạn sẽ có được sự tự tin và bình an vững chắc."
     },
     {
       "id": "q7",
       "question": "Tại sao việc nhận biết và chấp nhận 'Điểm yếu và giới hạn của bản thân' lại là cội nguồn của sức mạnh chứ không phải sự hèn nhát?",
       "options": [
-        "Vì khi thừa nhận điểm yếu thì bạn không cần phải làm việc nữa.",
-        "Vì chỉ khi dũng cảm nhìn thẳng vào sự thật, bạn mới thoát khỏi nỗi sợ bị người khác phát hiện điểm yếu, và có cơ sở thực tế để học hỏi, cải thiện và nhờ sự trợ giúp của đồng đội.",
         "Vì mọi người xung quanh sẽ thương hại và cho bạn tiền.",
-        "Vì điểm yếu là thứ không bao giờ thay đổi được."
+        "Vì chỉ khi dũng cảm nhìn thẳng vào sự thật, bạn mới thoát khỏi nỗi sợ bị người khác phát hiện điểm yếu, và có cơ sở thực tế để học hỏi, cải thiện và nhờ sự trợ giúp của đồng đội.",
+        "Vì điểm yếu là thứ không bao giờ thay đổi được.",
+        "Vì khi thừa nhận điểm yếu thì bạn không cần phải làm việc nữa."
       ],
       "correctIndex": 1,
       "explanation": "Sự tự tin đích thực không phải là hoàn hảo không tì vết, mà là sự thoải mái với sự bất toàn của chính mình và luôn sẵn sàng học hỏi để tiến bộ."
@@ -92,12 +92,12 @@
       "id": "q8",
       "question": "Điều gì xảy ra với một nhà lãnh đạo có sự tự tin giả tạo (Ego-driven confidence) khi gặp phải một thất bại lớn trong kinh doanh?",
       "options": [
+        "Họ tự động được bầu làm tổng thống.",
         "Họ trở nên thông thái và khiêm nhường ngay lập tức.",
         "Cái tôi mong manh của họ dễ dàng sụp đổ, dẫn đến việc đổ lỗi cho cấp dưới, che giấu sai sót, nổi giận vô cớ và đưa ra những quyết định tuyệt vọng liều lĩnh.",
-        "Họ tự động được bầu làm tổng thống.",
         "Công ty của họ sẽ tự động phục hồi mà không cần làm gì."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự tự tin dựa trên cái tôi là tấm khiên rỗng; khi va chạm với nghịch cảnh, nó vỡ vụn và phơi bày sự hoảng loạn."
     },
     {
@@ -106,8 +106,8 @@
       "options": [
         "Cảm xúc là linh hồn huyền bí ngự trị trong tim.",
         "Cảm xúc là các 'Dữ liệu sinh lý' (Physiological data) chứa đựng thông tin quý giá về môi trường và nhu cầu nội tại, chứ không phải là bản chất con người bạn.",
-        "Cảm xúc là những sai lầm tiến hóa cần phải bị loại bỏ.",
-        "Cảm xúc là một loại virus tấn công hệ thần kinh."
+        "Cảm xúc là một loại virus tấn công hệ thần kinh.",
+        "Cảm xúc là những sai lầm tiến hóa cần phải bị loại bỏ."
       ],
       "correctIndex": 1,
       "explanation": "Cảm xúc là tín hiệu thông tin giúp ta định hướng cuộc sống; thay vì kìm nén hoặc làm nô lệ cho cảm xúc, ta học cách lắng nghe thông điệp mà dữ liệu đó mang lại."
@@ -116,21 +116,21 @@
       "id": "q10",
       "question": "Kỹ thuật 'Tách biệt giữa Bản thân và Cảm xúc' (De-identification) giúp bạn chuyển đổi ngôn ngữ nội tâm như thế nào?",
       "options": [
-        "Chuyển từ nói tiếng Việt sang nói tiếng La-tinh.",
         "Chuyển từ 'Tôi là người thất bại' sang 'Tôi là vị thần tối cao'.",
+        "Chuyển từ 'Tôi là cơn giận / Tôi đang phát điên' (đồng hóa) sang 'Có một cảm giác tức giận đang sinh khởi trong cơ thể tôi' (quan sát khách quan).",
         "Không nói bất kỳ từ nào trong 10 năm.",
-        "Chuyển từ 'Tôi là cơn giận / Tôi đang phát điên' (đồng hóa) sang 'Có một cảm giác tức giận đang sinh khởi trong cơ thể tôi' (quan sát khách quan)."
+        "Chuyển từ nói tiếng Việt sang nói tiếng La-tinh."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Khoảng cách ngôn ngữ tạo ra khoảng cách tâm lý: bạn nhận ra bạn là bầu trời bao la, còn cơn giận chỉ là một cơn dông bão bay ngang qua bầu trời đó."
     },
     {
       "id": "q11",
       "question": "Tại sao những người có năng lực 'Tự nhận thức' cao lại đưa ra các quyết định nghề nghiệp và cuộc sống chuẩn xác hơn?",
       "options": [
-        "Vì họ có khả năng dự đoán trước tương lai 100 năm.",
-        "Vì họ không bao giờ mắc phải bất kỳ sai lầm nào.",
         "Vì họ luôn nghe theo lời bói toán của các thầy phong thủy.",
+        "Vì họ không bao giờ mắc phải bất kỳ sai lầm nào.",
+        "Vì họ có khả năng dự đoán trước tương lai 100 năm.",
         "Vì họ hiểu rõ động cơ thực sự, niềm đam mê chân thực và các bẫy cảm xúc tiềm thức của mình, giúp họ không bị cuốn theo những kỳ vọng hão huyền của xã hội."
       ],
       "correctIndex": 3,
@@ -140,12 +140,12 @@
       "id": "q12",
       "question": "Bài tập 'Viết thư cho chính mình từ góc nhìn của một người bạn thông thái' (Wise friend letter) nhằm mục đích gì?",
       "options": [
+        "Kích hoạt lòng trắc ẩn tự thân (Self-compassion) và góc nhìn bao dung, khách quan của một người bạn yêu thương để khuyên nhủ bản thân vượt qua giai đoạn khó khăn.",
         "Để tự khen thưởng mình bằng tiền mặt.",
-        "Để kiểm tra xem chữ viết tay của bạn có đẹp không.",
         "Để gửi thư qua bưu điện cho người thân.",
-        "Kích hoạt lòng trắc ẩn tự thân (Self-compassion) và góc nhìn bao dung, khách quan của một người bạn yêu thương để khuyên nhủ bản thân vượt qua giai đoạn khó khăn."
+        "Để kiểm tra xem chữ viết tay của bạn có đẹp không."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Chúng ta thường đối xử với bản thân khắt khe hơn đối xử với bạn bè; bài tập này dạy ta cách làm bạn tốt với chính tâm hồn mình."
     },
     {
@@ -153,33 +153,33 @@
       "question": "Điều gì chứng minh rằng sự tự tin hữu cơ có tính 'lan tỏa' và truyền cảm hứng mạnh mẽ cho tập thể?",
       "options": [
         "Họ nói to hơn tất cả những người khác trong phòng họp.",
+        "Sự điềm đạm, khiêm nhường và vững chãi của họ tạo ra môi trường an toàn tâm lý, khuyến khích mọi người dám thẳng thắn bày tỏ ý kiến và sáng tạo không sợ hãi.",
         "Họ luôn tặng quà đắt tiền cho cấp dưới.",
-        "Người có tự tin hữu cơ luôn ép buộc mọi người phải làm theo ý mình.",
-        "Sự điềm đạm, khiêm nhường và vững chãi của họ tạo ra môi trường an toàn tâm lý, khuyến khích mọi người dám thẳng thắn bày tỏ ý kiến và sáng tạo không sợ hãi."
+        "Người có tự tin hữu cơ luôn ép buộc mọi người phải làm theo ý mình."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sự tự tin chân thật không cần phải chứng minh hay thị uy; sự vững vàng tự tại của họ tự khắc trở thành điểm tựa bình an cho cả đội ngũ."
     },
     {
       "id": "q14",
       "question": "Khi bạn cảm thấy tự ti và nghi ngờ năng lực của bản thân (Hội chứng kẻ giả mạo - Impostor Syndrome), bước tự nhận thức đầu tiên cần làm là gì?",
       "options": [
-        "Bỏ việc ngay lập tức và trốn trong phòng kín.",
         "Nhận biết và gọi tên cảm xúc đó: 'À, đây là cảm giác nghi ngờ bản thân đang xuất hiện; điều này là trải nghiệm con người phổ quát mà ai cũng từng trải qua khi học hỏi cái mới'.",
         "Cố gắng giả vờ như mình là chuyên gia giỏi nhất thế giới.",
+        "Bỏ việc ngay lập tức và trốn trong phòng kín.",
         "Trách mắng cha mẹ vì đã không khen ngợi mình lúc nhỏ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Nhận diện và bình thường hóa cảm xúc giúp giải tỏa sự mặc cảm; bạn nhận ra sự nghi ngờ chỉ là một trạng thái tâm lý tạm thời chứ không phải sự thật về năng lực của bạn."
     },
     {
       "id": "q15",
       "question": "Thông điệp cốt lõi từ Chương 4 về Sự tự tin hữu cơ là gì?",
       "options": [
-        "Bạn chỉ có thể tự tin khi đánh bại tất cả mọi người trên thế giới.",
+        "Tự nhận thức làm cho con người trở nên yếu đuối và nhút nhát.",
         "Sự tự tin đích thực là quả ngọt tự nhiên của Tự nhận thức; khi bạn thấu hiểu và chấp nhận trọn vẹn con người thật của mình, bạn bước đi trong cuộc đời với sự thanh thản, tự do và sức mạnh vô song.",
-        "Tự tin là thứ chỉ dành riêng cho các diễn viên điện ảnh.",
-        "Tự nhận thức làm cho con người trở nên yếu đuối và nhút nhát."
+        "Bạn chỉ có thể tự tin khi đánh bại tất cả mọi người trên thế giới.",
+        "Tự tin là thứ chỉ dành riêng cho các diễn viên điện ảnh."
       ],
       "correctIndex": 1,
       "explanation": "Tự tin hữu cơ là sự vững chãi mọc rễ sâu trong lòng đất của sự tự thấu hiểu; gió bão bên ngoài không thể quật ngã một cái cây có bộ rễ tự nhận thức vững chắc."

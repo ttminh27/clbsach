@@ -9,71 +9,71 @@
       "question": "Khái niệm 'Cột neo' (Anchors) trong một cộng đồng, tổ chức hoặc thành phố mới được hiểu là ai?",
       "options": [
         "Những nhân viên kế toán quản lý quỹ tiền mặt của công ty.",
+        "Những người luôn phản đối các ý kiến đổi mới trong các cuộc họp.",
         "Những chiếc mỏ neo bằng kim loại dùng để giữ tàu thuyền trên sông.",
-        "Những nhân vật trung tâm có uy tín tối cao, sở hữu mạng lưới quan hệ sâu rộng và là điểm tựa niềm tin dẫn dắt toàn bộ cộng đồng đó.",
-        "Những người luôn phản đối các ý kiến đổi mới trong các cuộc họp."
+        "Những nhân vật trung tâm có uy tín tối cao, sở hữu mạng lưới quan hệ sâu rộng và là điểm tựa niềm tin dẫn dắt toàn bộ cộng đồng đó."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Cột neo là linh hồn của cộng đồng; chinh phục được niềm tin của nhân vật cột neo đồng nghĩa với việc bạn mở khóa được sự chấp thuận của toàn bộ cộng đồng đó."
     },
     {
       "id": "q2",
       "question": "Chiến lược 'Đứng trên vai người khổng lồ' khi bước vào một môi trường mới đòi hỏi bạn phải làm gì trước tiên?",
       "options": [
-        "Cố gắng làm quen với tất cả hàng ngàn người cùng một lúc mà không có trọng tâm.",
         "Giấu kín danh tính và làm việc âm thầm trong bóng tối suốt 5 năm.",
+        "Xác định 1-2 'cột neo' quyền lực nhất, tìm hiểu sâu sắc về họ và tập trung phụng sự, mang lại giá trị thực chất để nhận được sự bảo trợ và giới thiệu của họ.",
         "Tuyên chiến và cạnh tranh trực tiếp với các nhân vật lãnh đạo kỳ cựu.",
-        "Xác định 1-2 'cột neo' quyền lực nhất, tìm hiểu sâu sắc về họ và tập trung phụng sự, mang lại giá trị thực chất để nhận được sự bảo trợ và giới thiệu của họ."
+        "Cố gắng làm quen với tất cả hàng ngàn người cùng một lúc mà không có trọng tâm."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Mượn uy tín của người khổng lồ: khi một nhân vật cột neo công khai khen ngợi và bảo lãnh cho bạn, toàn bộ cộng đồng sẽ tự động mở rộng vòng tay đón nhận bạn."
     },
     {
       "id": "q3",
       "question": "Làm thế nào để nhận diện chính xác ai là 'Cột neo thực sự' chứ không phải chỉ là người mang chức danh hình thức trong một tổ chức?",
       "options": [
-        "Người có phòng làm việc rộng nhất và đeo nhiều trang sức đắt tiền nhất.",
         "Người nói to nhất và thường xuyên ngắt lời người khác trong phòng họp.",
         "Người có tên đứng đầu tiên theo thứ tự bảng chữ cái trong danh bạ nội bộ.",
-        "Quan sát xem khi có vấn đề hệ trọng xảy ra, mọi người thường hướng mắt về ai để tìm kiếm lời khuyên và ai là người có tiếng nói quyết định sự đồng thuận."
+        "Quan sát xem khi có vấn đề hệ trọng xảy ra, mọi người thường hướng mắt về ai để tìm kiếm lời khuyên và ai là người có tiếng nói quyết định sự đồng thuận.",
+        "Người có phòng làm việc rộng nhất và đeo nhiều trang sức đắt tiền nhất."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Quyền lực ngầm và sự kính trọng thực chất của tập thể là dấu hiệu nhận biết cột neo đích thực, vượt xa những bảng hiệu chức danh trên cửa phòng."
     },
     {
       "id": "q4",
       "question": "Cách Keith Ferrazzi chinh phục các 'cột neo' tại các thành phố lớn như New York hay Los Angeles khi ông mới chuyển đến là gì?",
       "options": [
+        "Gửi thư đe dọa yêu cầu các cột neo phải giới thiệu ông với giới thượng lưu.",
         "Tìm hiểu những dự án từ thiện hoặc niềm đam mê nghệ thuật mà các cột neo đang theo đuổi, và trở thành tình nguyện viên nhiệt thành nhất cống hiến cho dự án đó.",
         "Mua những căn biệt thự đắt tiền ngay cạnh nhà của các cột neo.",
-        "Gửi thư đe dọa yêu cầu các cột neo phải giới thiệu ông với giới thượng lưu.",
         "Thuê các công ty thám tử tư theo dõi đời tư của các cột neo."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Đồng hành và cống hiến hết mình cho lý tưởng của cột neo là con đường chân chính và ngắn nhất để bước vào vòng tròn thân tín của họ."
     },
     {
       "id": "q5",
       "question": "Nguyên lý 'Làm họ hài lòng' (Making them look good) đối với một nhân vật cột neo được thực hiện như thế nào mà không bị biến thành sự nịnh bợ?",
       "options": [
+        "Luôn luôn đồng ý với mọi sai lầm của họ mà không bao giờ góp ý.",
         "Hỗ trợ họ hoàn thành xuất sắc các mục tiêu lớn, giúp các sự kiện của họ thành công rực rỡ và tôn vinh những đóng góp của họ một cách chân thành trước công chúng.",
-        "Tặng tiền mặt cho các thành viên trong gia đình họ.",
         "Nói những lời khen ngợi giả tạo và tâng bốc những thói hư tật xấu của họ.",
-        "Luôn luôn đồng ý với mọi sai lầm của họ mà không bao giờ góp ý."
+        "Tặng tiền mặt cho các thành viên trong gia đình họ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Phụng sự sự nghiệp và làm rạng danh uy tín của cột neo bằng năng lực thực chất và lòng trung thành là chuẩn mực cao nhất của sự hợp tác."
     },
     {
       "id": "q6",
       "question": "Tại sao việc chỉ có một 'cột neo' duy nhất lại tiềm ẩn rủi ro chiến lược cho sự nghiệp của bạn?",
       "options": [
-        "Vì các cột neo luôn có xu hướng ghen tị lẫn nhau.",
-        "Vì pháp luật cấm một người chỉ được có một người đỡ đầu duy nhất.",
         "Vì nếu nhân vật đó chuyển công tác, về hưu hoặc gặp biến cố, toàn bộ chỗ dựa uy tín của bạn có thể bị sụp đổ nếu bạn không kịp thời đa dạng hóa các cột neo khác.",
-        "Vì một cột neo sẽ đòi hỏi bạn phải làm việc 24/7 cho riêng họ."
+        "Vì một cột neo sẽ đòi hỏi bạn phải làm việc 24/7 cho riêng họ.",
+        "Vì pháp luật cấm một người chỉ được có một người đỡ đầu duy nhất.",
+        "Vì các cột neo luôn có xu hướng ghen tị lẫn nhau."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Đa dạng hóa điểm tựa: xây dựng mối quan hệ với 2-3 cột neo thuộc các lĩnh vực khác nhau tạo nên thế kiềng ba chân vững chắc cho sự nghiệp."
     },
     {
@@ -94,8 +94,8 @@
       "options": [
         "Bình tĩnh đón nhận, hoàn thành mọi nhiệm vụ nhỏ với sự chính trực, tỉ mỉ và vượt trên mong đợi để chứng minh nhân cách vàng của mình.",
         "Tỏ thái độ tức giận và từ chối thực hiện các nhiệm vụ được giao.",
-        "Tìm cách gian lận để hoàn thành công việc nhanh nhất có thể.",
-        "Rời bỏ tổ chức ngay lập tức vì cảm thấy bị xúc phạm."
+        "Rời bỏ tổ chức ngay lập tức vì cảm thấy bị xúc phạm.",
+        "Tìm cách gian lận để hoàn thành công việc nhanh nhất có thể."
       ],
       "correctIndex": 0,
       "explanation": "Người khôn ngoan luôn thử thách trước khi trao gửi niềm tin lớn; vượt qua bài kiểm tra bằng sự tận tụy sẽ mở toang cánh cửa dẫn đến kho báu quan hệ."
@@ -105,59 +105,59 @@
       "question": "Một người quản lý mới được bổ nhiệm vào một phòng ban có nhiều nhân viên kỳ cựu nên làm gì theo bài học chương 21?",
       "options": [
         "Sa thải toàn bộ nhân viên cũ để tuyển dụng đội ngũ mới hoàn toàn.",
+        "Áp đặt các quy chế kỷ luật hà khắc ngay trong ngày làm việc đầu tiên.",
         "Cô lập bản thân trong phòng làm việc và không tiếp xúc với nhân viên.",
-        "Tìm ra những 'cột neo tinh thần' trong số các nhân viên lâu năm, lắng nghe tâm tư, tôn trọng kinh nghiệm của họ và biến họ thành đồng minh dẫn dắt sự đổi mới.",
-        "Áp đặt các quy chế kỷ luật hà khắc ngay trong ngày làm việc đầu tiên."
+        "Tìm ra những 'cột neo tinh thần' trong số các nhân viên lâu năm, lắng nghe tâm tư, tôn trọng kinh nghiệm của họ và biến họ thành đồng minh dẫn dắt sự đổi mới."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Thu phục các thủ lĩnh không ngai là chìa khóa quản trị thành công; khi cột neo ủng hộ bạn, toàn bộ tập thể sẽ đồng lòng tiến bước."
     },
     {
       "id": "q10",
       "question": "Điều gì là điều cấm kỵ tuyệt đối có thể khiến bạn bị một nhân vật cột neo trục xuất vĩnh viễn khỏi mạng lưới của họ?",
       "options": [
-        "Việc chuyển sang sinh sống tại một thành phố khác.",
-        "Việc có quan điểm nghệ thuật khác biệt với cột neo.",
         "Việc đến muộn 5 phút trong một cuộc họp không quan trọng.",
-        "Sự phản bội lòng tin, tiết lộ bí mật nội bộ hoặc lợi dụng danh nghĩa của cột neo để đi lừa gạt, trục lợi bất chính từ những người khác."
+        "Sự phản bội lòng tin, tiết lộ bí mật nội bộ hoặc lợi dụng danh nghĩa của cột neo để đi lừa gạt, trục lợi bất chính từ những người khác.",
+        "Việc chuyển sang sinh sống tại một thành phố khác.",
+        "Việc có quan điểm nghệ thuật khác biệt với cột neo."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Lòng trung thành và sự chính trực là lằn ranh đỏ bất khả xâm phạm; một vết nhơ phản bội sẽ đóng sập mọi cánh cửa trong giới tinh hoa."
     },
     {
       "id": "q11",
       "question": "Cách bạn có thể 'trả ơn' xứng đáng nhất cho một nhân vật cột neo đã từng nâng đỡ bạn khi bạn đã thành đạt là gì?",
       "options": [
-        "Tiếp tục bảo vệ di sản, uy tín của họ và kế tục sứ mệnh bằng cách trở thành một 'cột neo' mới nâng đỡ các thế hệ tài năng trẻ tiếp theo (Pay it forward).",
-        "Gửi tặng họ một số tiền mặt lớn vào mỗi dịp cuối năm.",
         "Yêu cầu họ phải nghỉ hưu để nhường lại toàn bộ vị trí cho bạn.",
-        "Quên đi quá khứ vì cho rằng thành công hoàn toàn do tài năng của mình."
+        "Quên đi quá khứ vì cho rằng thành công hoàn toàn do tài năng của mình.",
+        "Gửi tặng họ một số tiền mặt lớn vào mỗi dịp cuối năm.",
+        "Tiếp tục bảo vệ di sản, uy tín của họ và kế tục sứ mệnh bằng cách trở thành một 'cột neo' mới nâng đỡ các thế hệ tài năng trẻ tiếp theo (Pay it forward)."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Sự đền đáp vĩ đại nhất đối với người thầy, người đỡ đầu là nhìn thấy học trò của mình tỏa sáng và tiếp tục lan tỏa ngọn lửa tử tế cho nhân loại."
     },
     {
       "id": "q12",
       "question": "Tại sao việc giúp một nhân vật cột neo kết nối với các nhân tài trẻ thuộc thế hệ mới (Gen Z, tài năng công nghệ) lại là món quà giá trị cao?",
       "options": [
-        "Vì đó là quy định bắt buộc trong luật giáo dục đào tạo.",
         "Vì các cột neo không biết cách sử dụng điện thoại thông minh.",
+        "Vì các cột neo kỳ cựu thường bị thiếu hụt góc nhìn và sự nhạy bén về các xu hướng công nghệ mới; bạn đóng vai trò là chiếc cầu nối cập nhật tương lai cho họ.",
         "Vì các nhân tài trẻ sẽ thay các cột neo trả tiền lương hàng tháng.",
-        "Vì các cột neo kỳ cựu thường bị thiếu hụt góc nhìn và sự nhạy bén về các xu hướng công nghệ mới; bạn đóng vai trò là chiếc cầu nối cập nhật tương lai cho họ."
+        "Vì đó là quy định bắt buộc trong luật giáo dục đào tạo."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Cung cấp dòng máu mới và tư duy đột phá giúp các nhà lãnh đạo kỳ cựu duy trì sự nhạy bén và tầm ảnh hưởng trong kỷ nguyên mới."
     },
     {
       "id": "q13",
       "question": "Khi hai nhân vật cột neo trong cùng một cộng đồng xảy ra mâu thuẫn đối đầu, vị thế khôn ngoan của bạn là gì?",
       "options": [
-        "Giữ sự độc lập chính trực, không tham gia vào các bè phái công kích, tôn trọng giá trị riêng của cả hai và nỗ lực kiến tạo sự hòa giải khi có cơ hội.",
-        "Lập tức chọn phe mạnh hơn và công khai tấn công phe yếu hơn.",
         "Rút toàn bộ tiền tiết kiệm rời khỏi thành phố đó ngay lập tức.",
-        "Kích động để mâu thuẫn giữa hai bên bùng nổ dữ dội hơn."
+        "Giữ sự độc lập chính trực, không tham gia vào các bè phái công kích, tôn trọng giá trị riêng của cả hai và nỗ lực kiến tạo sự hòa giải khi có cơ hội.",
+        "Kích động để mâu thuẫn giữa hai bên bùng nổ dữ dội hơn.",
+        "Lập tức chọn phe mạnh hơn và công khai tấn công phe yếu hơn."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Giữ vững sự chính trực và vượt lên trên các cuộc đấu đá phe phái giúp bạn bảo toàn uy tín và trở thành nhân vật trung gian đáng kính được cả hai bên nể trọng."
     },
     {
@@ -165,23 +165,23 @@
       "question": "Quy trình 4 giai đoạn phát triển mối quan hệ với một nhân vật cột neo diễn ra như thế nào?",
       "options": [
         "Nịnh bợ -> Tặng quà -> Nhờ vả -> Quên ơn.",
-        "Tìm kiếm -> Cạnh tranh -> Đánh bại -> Thay thế.",
         "Gặp mặt -> Vay tiền -> Làm việc -> Rời đi.",
-        "Nhận diện cột neo -> Tiếp cận bằng sự phụng sự không vụ lợi -> Chứng minh năng lực và sự chính trực -> Trở thành cánh tay phải và đối tác chiến lược đồng hành."
+        "Nhận diện cột neo -> Tiếp cận bằng sự phụng sự không vụ lợi -> Chứng minh năng lực và sự chính trực -> Trở thành cánh tay phải và đối tác chiến lược đồng hành.",
+        "Tìm kiếm -> Cạnh tranh -> Đánh bại -> Thay thế."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Tiến trình chuẩn mực đi từ sự khiêm tốn phụng sự, trui rèn lòng tin đến sự bình đẳng trong hợp tác chiến lược cùng kiến tạo kỳ tích."
     },
     {
       "id": "q15",
       "question": "Thông điệp tổng kết của Phần 3 (Biến nối kết thành bạn đồng hành) ở chương 21 là gì?",
       "options": [
-        "Mối quan hệ chỉ thực sự thăng hoa thành tình bạn đồng hành khi nó được neo giữ bởi sự quan tâm nhân văn sâu sắc, sự hào phóng môi giới và lòng trung thành chính trực.",
-        "Hãy luôn tìm cách khai thác triệt để các mối quan hệ để làm giàu nhanh chóng.",
         "Chỉ có những người giàu có mới có thể trở thành bạn đồng hành của nhau.",
+        "Hãy luôn tìm cách khai thác triệt để các mối quan hệ để làm giàu nhanh chóng.",
+        "Mối quan hệ chỉ thực sự thăng hoa thành tình bạn đồng hành khi nó được neo giữ bởi sự quan tâm nhân văn sâu sắc, sự hào phóng môi giới và lòng trung thành chính trực.",
         "Thành công trong cuộc sống là một cuộc đua đơn độc không cần ai giúp đỡ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Vượt lên trên những giao dịch thương mại tầm thường, những người bạn đồng hành cùng chung giá trị sẽ đưa nhau chạm tới đỉnh cao vinh quang và hạnh phúc trọn vẹn."
     }
   ]

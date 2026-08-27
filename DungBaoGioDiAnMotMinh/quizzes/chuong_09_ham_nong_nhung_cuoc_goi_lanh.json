@@ -8,12 +8,12 @@
       "id": "q1",
       "question": "Khái niệm 'Cuộc gọi lạnh' (Cold Call) và 'Cuộc gọi ấm' (Warm Call) khác nhau căn bản ở điểm nào?",
       "options": [
-        "Cuộc gọi ấm chỉ dành cho các cuộc gọi nội bộ trong gia đình.",
-        "Cuộc gọi lạnh luôn có thời lượng dài hơn 30 phút.",
         "Cuộc gọi lạnh là tiếp cận người lạ không có bối cảnh kết nối; cuộc gọi ấm tận dụng người quen chung, sự kiện tương đồng hoặc giá trị tìm hiểu trước để tạo lòng tin tức thì.",
-        "Cuộc gọi lạnh diễn ra vào mùa đông, còn cuộc gọi ấm diễn ra vào mùa hè."
+        "Cuộc gọi lạnh diễn ra vào mùa đông, còn cuộc gọi ấm diễn ra vào mùa hè.",
+        "Cuộc gọi ấm chỉ dành cho các cuộc gọi nội bộ trong gia đình.",
+        "Cuộc gọi lạnh luôn có thời lượng dài hơn 30 phút."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Nhiệt độ của cuộc gọi được quyết định bởi mức độ tin cậy và điểm chung ban đầu; làm ấm cuộc gọi giúp loại bỏ sự phòng thủ của người nghe."
     },
     {
@@ -21,56 +21,56 @@
       "question": "Quy tắc 4 bước để 'Hâm nóng một cuộc gọi lạnh' theo Keith Ferrazzi bao gồm những bước nào?",
       "options": [
         "Đọc toàn bộ hồ sơ công ty -> Chỉ trích đối thủ -> Yêu cầu ký hợp đồng -> Cúp máy.",
-        "Hỏi thăm sức khỏe -> Kể chuyện cá nhân -> Thuyết phục mua hàng -> Đòi tiền thanh toán.",
         "Nêu cầu nối/người quen chung -> Nêu giá trị đề xuất cho họ -> Nêu sự khẩn cấp/ngắn gọn -> Đề xuất một cuộc hẹn cụ thể.",
+        "Hỏi thăm sức khỏe -> Kể chuyện cá nhân -> Thuyết phục mua hàng -> Đòi tiền thanh toán.",
         "Chào hỏi xã giao -> Hát một bài hát -> Gửi tài liệu qua bưu điện -> Chờ đợi phản hồi."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Công thức 4 bước chuẩn mực: Tạo niềm tin qua cầu nối -> Đánh trúng nhu cầu đối tác -> Cam kết tiết kiệm thời gian -> Đưa ra bước đi tiếp theo rõ ràng."
     },
     {
       "id": "q3",
       "question": "Tại sao việc nhắc đến tên một 'Người quen chung đáng tin cậy' ngay trong 10 giây đầu tiên lại mang tính quyết định?",
       "options": [
-        "Nó chuyển giao tức thì uy tín và sự an tâm từ người bạn chung sang người gọi, biến người lạ thành một người 'thuộc cùng vòng tròn an toàn'.",
+        "Là quy định bắt buộc của các nhà mạng viễn thông khi thực hiện cuộc gọi kinh doanh.",
         "Khiến người nghe sợ hãi vì nghĩ rằng người quen chung đang theo dõi họ.",
-        "Để người nghe phải trả tiền cước cuộc gọi thay cho bạn.",
-        "Là quy định bắt buộc của các nhà mạng viễn thông khi thực hiện cuộc gọi kinh doanh."
+        "Nó chuyển giao tức thì uy tín và sự an tâm từ người bạn chung sang người gọi, biến người lạ thành một người 'thuộc cùng vòng tròn an toàn'.",
+        "Để người nghe phải trả tiền cước cuộc gọi thay cho bạn."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Mượn uy tín của cầu nối trung gian là cách nhanh nhất để vượt qua bức tường nghi ngại của những người bận rộn."
     },
     {
       "id": "q4",
       "question": "Trong 30 giây đầu của cuộc gọi tiếp cận, thông điệp nào sau đây cần phải được truyền tải rõ ràng nhất?",
       "options": [
-        "'Tôi có một ý tưởng/giải pháp cụ thể có thể giúp ích trực tiếp cho dự án mà anh/chị đang triển khai, và tôi chỉ xin 15 phút để trình bày tóm tắt'.",
-        "'Tôi đang rất cần một công việc và hy vọng công ty anh/chị có thể tuyển dụng tôi vào tuần tới'.",
+        "'Tôi muốn phỏng vấn anh/chị để viết sách về những sai lầm trong kinh doanh'.",
         "'Tôi muốn giới thiệu toàn bộ 50 dòng sản phẩm mà công ty chúng tôi đang sản xuất'.",
-        "'Tôi muốn phỏng vấn anh/chị để viết sách về những sai lầm trong kinh doanh'."
+        "'Tôi có một ý tưởng/giải pháp cụ thể có thể giúp ích trực tiếp cho dự án mà anh/chị đang triển khai, và tôi chỉ xin 15 phút để trình bày tóm tắt'.",
+        "'Tôi đang rất cần một công việc và hy vọng công ty anh/chị có thể tuyển dụng tôi vào tuần tới'."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Tập trung tuyệt đối vào lợi ích của người nghe và cam kết một khoảng thời gian ngắn gọn, không làm gián đoạn công việc của họ."
     },
     {
       "id": "q5",
       "question": "Tại sao tác giả lại khuyên chúng ta 'Tuyệt đối không bao giờ thực hiện một cuộc gọi lạnh thực sự'?",
       "options": [
-        "Vì trong thời đại thông tin, luôn luôn có cách để tìm hiểu thông tin đối tác, tìm ra điểm chung hoặc người quen chung trước khi nhấc máy.",
-        "Vì các cuộc gọi lạnh bị pháp luật quốc tế cấm hoàn toàn.",
+        "Vì điện thoại để bàn sẽ sớm bị khai tử trong tương lai.",
         "Vì người giàu không bao giờ sử dụng điện thoại di động.",
-        "Vì điện thoại để bàn sẽ sớm bị khai tử trong tương lai."
+        "Vì các cuộc gọi lạnh bị pháp luật quốc tế cấm hoàn toàn.",
+        "Vì trong thời đại thông tin, luôn luôn có cách để tìm hiểu thông tin đối tác, tìm ra điểm chung hoặc người quen chung trước khi nhấc máy."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Gọi một cuộc gọi hoàn toàn mù mờ thông tin là sự lười biếng; một nhà kết nối chuyên nghiệp luôn chuẩn bị để biến mọi cuộc gọi thành cuộc gọi ấm."
     },
     {
       "id": "q6",
       "question": "Ngữ điệu và năng lượng giọng nói khi gọi điện thoại có tác động như thế nào đến người nghe?",
       "options": [
-        "Nên nói thật nhanh và dồn dập để đối phương không kịp từ chối.",
-        "Nên nói với giọng điệu buồn bã để nhận được sự thương hại từ người nghe.",
         "Giọng nói không quan trọng bằng nội dung văn bản bạn đã gửi trước đó.",
+        "Nên nói với giọng điệu buồn bã để nhận được sự thương hại từ người nghe.",
+        "Nên nói thật nhanh và dồn dập để đối phương không kịp từ chối.",
         "Vì đối phương không nhìn thấy hình ảnh, giọng nói ấm áp, tự tin, rõ ràng và có nụ cười trong lời nói sẽ truyền tải 100% sự chuyên nghiệp và uy tín."
       ],
       "correctIndex": 3,
@@ -80,24 +80,24 @@
       "id": "q7",
       "question": "Khi đối phương phản hồi: 'Tôi đang rất bận, không có thời gian', cách xử lý tình huống xuất sắc nhất là gì?",
       "options": [
-        "Trách móc đối tác vì đã không tôn trọng cuộc gọi của bạn.",
-        "Cúp máy ngay lập tức và chặn số điện thoại của họ.",
         "Tiếp tục nói thật to và ép họ phải nghe hết bài thuyết trình bán hàng.",
-        "Đồng cảm ngay lập tức ('Tôi hoàn toàn hiểu anh/chị đang rất bận, chính vì vậy tôi chỉ xin phép gọi lại vào 8h30 sáng thứ Năm hoặc gửi email tóm tắt 3 dòng để anh/chị xem qua')."
+        "Đồng cảm ngay lập tức ('Tôi hoàn toàn hiểu anh/chị đang rất bận, chính vì vậy tôi chỉ xin phép gọi lại vào 8h30 sáng thứ Năm hoặc gửi email tóm tắt 3 dòng để anh/chị xem qua').",
+        "Cúp máy ngay lập tức và chặn số điện thoại của họ.",
+        "Trách móc đối tác vì đã không tôn trọng cuộc gọi của bạn."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Tôn trọng thời gian của họ, đưa ra lựa chọn linh hoạt và nhẹ nhàng rút lui có hẹn trước thể hiện sự tinh tế và đẳng cấp chuyên nghiệp."
     },
     {
       "id": "q8",
       "question": "Chiến lược sử dụng email để 'làm ấm' trước khi gọi điện thoại (Pre-call email) hoạt động như thế nào?",
       "options": [
+        "Gửi email ẩn danh để tạo sự tò mò cho đối tác.",
         "Gửi một email kèm 20 tệp tài liệu đính kèm dung lượng lớn.",
-        "Gửi một email cực kỳ ngắn gọn nêu rõ người giới thiệu, giá trị đề xuất và thông báo cụ thể thời điểm bạn sẽ gọi điện để trao đổi ngắn.",
         "Gửi email yêu cầu đối tác phải tự gọi lại cho bạn trước 5 giờ chiều.",
-        "Gửi email ẩn danh để tạo sự tò mò cho đối tác."
+        "Gửi một email cực kỳ ngắn gọn nêu rõ người giới thiệu, giá trị đề xuất và thông báo cụ thể thời điểm bạn sẽ gọi điện để trao đổi ngắn."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Email mở đường giúp đối tác nhận diện được tên bạn và bối cảnh khi chuông điện thoại reo, biến cuộc gọi thành một sự kiện đã được báo trước."
     },
     {
@@ -105,9 +105,9 @@
       "question": "Mục tiêu duy nhất và tối thượng của cuộc gọi tiếp cận đầu tiên là gì?",
       "options": [
         "Chốt được một cuộc hẹn gặp trực tiếp hoặc một cuộc trao đổi sâu hơn (15-20 phút), chứ không phải cố gắng bán hàng hay giải quyết mọi việc ngay trên điện thoại.",
+        "Thu thập thông tin đời tư cá nhân của đối tác.",
         "Ký kết hợp đồng kinh tế trị giá hàng triệu đô la ngay lập tức.",
-        "Thuyết phục đối tác chuyển tiền đặt cọc vào tài khoản của bạn.",
-        "Thu thập thông tin đời tư cá nhân của đối tác."
+        "Thuyết phục đối tác chuyển tiền đặt cọc vào tài khoản của bạn."
       ],
       "correctIndex": 0,
       "explanation": "Đừng tham lam giải quyết tất cả trong một cuộc gọi tiếp cận; mục đích duy nhất là mở cánh cửa cho cuộc gặp gỡ thực chất tiếp theo."
@@ -118,22 +118,22 @@
       "options": [
         "Vì đó là quy tắc ngữ pháp bắt buộc trong tiếng Anh thương mại.",
         "Vì lịch làm việc của mọi người luôn chỉ trống vào thứ Ba và thứ Năm.",
-        "Để chứng minh bạn là người cực kỳ bận rộn và không có thời gian rảnh.",
-        "Giúp giảm tải gánh nặng suy nghĩ cho đối tác và hướng tâm trí họ vào việc lựa chọn thời điểm phù hợp thay vì suy nghĩ xem có nên gặp hay không."
+        "Giúp giảm tải gánh nặng suy nghĩ cho đối tác và hướng tâm trí họ vào việc lựa chọn thời điểm phù hợp thay vì suy nghĩ xem có nên gặp hay không.",
+        "Để chứng minh bạn là người cực kỳ bận rộn và không có thời gian rảnh."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Kỹ thuật 'Đóng khung lựa chọn' (Alternative Choice) giúp đối tác dễ dàng kiểm tra lịch trình và đưa ra quyết định nhanh chóng."
     },
     {
       "id": "q11",
       "question": "Làm thế nào để vượt qua cảm giác chán nản khi phải thực hiện hàng chục cuộc gọi tiếp cận mỗi tuần?",
       "options": [
-        "Chỉ gọi điện cho những người bạn thân để đảm bảo không bị từ chối.",
+        "Dừng toàn bộ công việc kinh doanh và chuyển sang làm việc độc lập.",
         "Uống rượu bia trước khi gọi điện để giảm bớt ức chế tâm lý.",
-        "Xem mỗi lời từ chối là một bước tiến gần hơn đến một cái gật đầu thành công, tập trung vào việc hoàn thiện kỹ năng và không cá nhân hóa sự từ chối.",
-        "Dừng toàn bộ công việc kinh doanh và chuyển sang làm việc độc lập."
+        "Chỉ gọi điện cho những người bạn thân để đảm bảo không bị từ chối.",
+        "Xem mỗi lời từ chối là một bước tiến gần hơn đến một cái gật đầu thành công, tập trung vào việc hoàn thiện kỹ năng và không cá nhân hóa sự từ chối."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Quy luật xác suất trong bán hàng và kết nối: sự từ chối là một phần tất yếu của quá trình; giữ tâm thế học hỏi sẽ giúp bạn bền bỉ tiến lên."
     },
     {
@@ -141,19 +141,19 @@
       "question": "Một ví dụ thực tế về việc biến 'cuộc gọi lạnh thành ấm' thông qua một bài báo là gì?",
       "options": [
         "'Tôi muốn bán cho anh một gói bảo hiểm sau khi đọc bài báo về tai nạn giao thông'.",
-        "'Tôi là tác giả của tất cả các bài báo viết về ngành công nghiệp của anh'.",
+        "'Tôi vừa đọc bài phát biểu sâu sắc của anh trên tờ Forbes về chuyển đổi số và rất ấn tượng với quan điểm X; tôi có một nghiên cứu liên quan muốn chia sẻ thêm với anh'.",
         "'Tôi thấy công ty anh bị báo chí phê bình tuần trước nên muốn gọi điện chia buồn'.",
-        "'Tôi vừa đọc bài phát biểu sâu sắc của anh trên tờ Forbes về chuyển đổi số và rất ấn tượng với quan điểm X; tôi có một nghiên cứu liên quan muốn chia sẻ thêm với anh'."
+        "'Tôi là tác giả của tất cả các bài báo viết về ngành công nghiệp của anh'."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Bắt đầu bằng sự khen ngợi chân thành đối với thành tựu hoặc bài viết chuyên môn của đối tác là cách tiếp cận ấm áp và thông minh nhất."
     },
     {
       "id": "q13",
       "question": "Khi gọi điện cho một nhân vật rất quan trọng, điều gì cần chuẩn bị kỹ lưỡng nhất ngay trước mặt bạn?",
       "options": [
-        "Bản danh sách tất cả các đối thủ cạnh tranh của công ty bạn.",
         "Chiếc đồng hồ bấm giờ để kiểm tra xem cuộc gọi kéo dài bao nhiêu giây.",
+        "Bản danh sách tất cả các đối thủ cạnh tranh của công ty bạn.",
         "Một cốc cà phê nóng và một chiếc bánh ngọt.",
         "Bản ghi chú tóm tắt các luận điểm then chốt, thông tin về họ, câu hỏi mở và mục tiêu cuộc gọi được trình bày gọn gàng trong tầm mắt."
       ],
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Thông điệp cốt lõi nhất của chương 9 về nghệ thuật tiếp cận là gì?",
       "options": [
-        "Không có cuộc gọi nào là thực sự 'lạnh' nếu bạn đầu tư tâm huyết để tìm hiểu, bắc cầu niềm tin và trao gửi giá trị chân thành.",
-        "Hãy tránh xa mọi cuộc gọi điện thoại và chỉ giao tiếp qua tin nhắn văn bản.",
         "Cách tốt nhất để bán hàng là gọi điện ngẫu nhiên cho hàng ngàn người mỗi ngày.",
+        "Hãy tránh xa mọi cuộc gọi điện thoại và chỉ giao tiếp qua tin nhắn văn bản.",
+        "Không có cuộc gọi nào là thực sự 'lạnh' nếu bạn đầu tư tâm huyết để tìm hiểu, bắc cầu niềm tin và trao gửi giá trị chân thành.",
         "Chỉ những người có mối quan hệ thân thiết từ trước mới có thể hợp tác kinh doanh."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Sự chuẩn bị và lòng chân thành có thể làm tan chảy mọi bức tường băng giá, biến những người xa lạ thành những đối tác đồng hành trọn đời."
     }
   ]

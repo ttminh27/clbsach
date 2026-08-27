@@ -1,0 +1,188 @@
+{
+  "bookId": "DacNhanTam",
+  "chapterId": "Phan_1_Chuong_01_Muon_lay_mat_thi_dung_pha_to_ong",
+  "chapterTitle": "Chương 1: “Muốn lấy mật thì đừng phá tổ ong”",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Câu chuyện tên tội phạm khét tiếng Crowley 'Hai Súng' hay trùm mafia Al Capone luôn khẳng định mình là người lương thiện, vô tội minh chứng cho quy luật tâm lý nào?",
+      "options": [
+        "Tội phạm luôn có trí nhớ kém về các hành vi sai trái của mình.",
+        "Con người có xu hướng tự bào chữa 99% hành vi của mình và hầu như không bao giờ tự nhìn nhận mình sai, bất kể tội ác có nghiêm trọng đến đâu.",
+        "Hệ thống tư pháp thế kỷ 20 luôn xử oan người vô tội.",
+        "Chỉ những người có vấn đề về thần kinh mới tự bào chữa cho bản thân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Con người có cơ chế phòng vệ tâm lý cực kỳ mạnh mẽ để bảo vệ lòng tự ái và hình ảnh bản thân; 99% mọi người không bao giờ tự phê phán mình."
+    },
+    {
+      "id": "q2",
+      "question": "Theo Dale Carnegie, tại sao sự chỉ trích, phê phán trực diện lại là hành động 'vô bổ và nguy hiểm'?",
+      "options": [
+        "Vì luật pháp cấm việc góp ý giữa các cá nhân.",
+        "Vì nó chạm vào lòng kiêu hãnh cố chấp của con người, gây tổn thương ý thức về tầm quan trọng của họ, kích hoạt phản xạ chống đối và sinh ra sự căm thù.",
+        "Vì nó làm tốn năng lượng nói chuyện của người phê bình.",
+        "Do chỉ trích chỉ có tác dụng với trẻ em chứ không có tác dụng với người lớn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chỉ trích không thay đổi được hành vi tiêu cực mà chỉ tạo ra sự phòng thủ, bào chữa và làm rạn nứt vĩnh viễn mối quan hệ."
+    },
+    {
+      "id": "q3",
+      "question": "Thí nghiệm của nhà tâm lý học lỗi lạc B. F. Skinner về động vật và con người rút ra kết luận then chốt gì?",
+      "options": [
+        "Động vật và con người có cơ chế phản xạ hoàn toàn đối lập nhau.",
+        "Hình phạt nặng luôn mang lại sự vâng lời tuyệt đối và lâu dài.",
+        "Một cá thể được khen thưởng vì hành vi tốt sẽ học nhanh hơn và nhớ lâu hơn rất nhiều so với cá thể bị trừng phạt vì hành vi xấu.",
+        "Khen thưởng chỉ có tác dụng trong môi trường phòng thí nghiệm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khen ngợi và củng cố tích cực (positive reinforcement) kích thích động lực tự giác bên trong, trong khi trừng phạt chỉ tạo ra sự đối phó tạm thời hoặc oán giận ngầm."
+    },
+    {
+      "id": "q4",
+      "question": "Câu chuyện George B. Johnston thay đổi cách tiếp cận khiến công nhân tự giác đội mũ bảo hộ lao động mang lại bài học thực tế nào?",
+      "options": [
+        "Dùng quyền lực cấp trên và đe dọa sa thải là cách duy nhất để duy trì kỷ luật.",
+        "Thay vì quát tháo và áp đặt quy chế, hãy hỏi thăm sự thoải mái và giải thích ân cần về sự an toàn của chính họ để họ cảm nhận được sự quan tâm.",
+        "Lắp camera giám sát 24/7 ở mọi góc công trường.",
+        "Phát tiền thưởng trực tiếp mỗi lần công nhân đội nón."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi người lao động hiểu rằng quy định là vì quyền lợi và sự an toàn của chính bản thân họ (không phải vì sự áp đặt của sếp), họ sẽ tự nguyện tuân thủ."
+    },
+    {
+      "id": "q5",
+      "question": "Hình ảnh so sánh: 'Những lời chỉ trích giống như chim bồ câu đưa thư...' mang hàm ý cảnh báo gì?",
+      "options": [
+        "Lời chỉ trích sẽ bay đi rất xa và không bao giờ quay lại.",
+        "Chim bồ câu là loài vật không thích nghe lời phê bình.",
+        "Cần phải gửi thư phê bình thay vì nói trực tiếp.",
+        "Lời chỉ trích luôn luôn tìm đường quay trở về tấn công và làm tổn thương chính người đã phát ra nó."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự oán giận từ việc bị chỉ trích sẽ luôn tìm cơ hội phản hồi tiêu cực ngược lại người phê bình, hủy hoại uy tín và sự bình an của chính họ."
+    },
+    {
+      "id": "q6",
+      "question": "Biến cố suýt dẫn đến cuộc đấu kiếm sinh tử giữa chàng trai trẻ Abraham Lincoln và James Shields năm 1842 đã dạy cho Lincoln bài học đắt giá nào?",
+      "options": [
+        "Không nên tham gia vào các cuộc tranh luận chính trị.",
+        "Sự châm biếm, nhạo báng và phê phán công khai người khác là hành động dại dột, nguy hiểm có thể cướp đi tính mạng và danh dự vô ích.",
+        "Nên viết thư nặc danh thường xuyên hơn để tránh bị phát hiện.",
+        "Cần phải luyện tập kiếm thuật chăm chỉ hơn để tự vệ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Suýt chết vì sự bốc đồng và châm biếm người khác, Lincoln đã hoàn toàn từ bỏ thói quen công kích và trở thành bậc thầy về lòng bao dung và kiên nhẫn."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao Tổng thống Lincoln sau trận Gettysburg lại viết một bức thư chỉ trích cay đắng cho Tướng Meade vì để tướng Lee trốn thoát, nhưng lại KHÔNG BAO GIỜ GỬI ĐI?",
+      "options": [
+        "Bức thư bị thất lạc do bưu điện thời chiến tranh.",
+        "Lincoln phát hiện Tướng Meade là họ hàng xa của mình.",
+        "Do Bộ trưởng Quốc phòng Stanton ngăn cấm gửi thư.",
+        "Lincoln nhận ra rằng trút cơn giận chỉ giúp ông xả bức xúc nhất thời, nhưng sẽ khiến Meade đau khổ, nản lòng, từ chức và phá hủy tinh thần quân đội."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lincoln tự đặt mình vào vị trí của Meade giữa mưa bom bão đạn để thấu cảm nỗi sợ hãi và kiệt sức của cấp dưới, chọn giữ lại bức thư để bảo vệ sự đoàn kết của quân đội."
+    },
+    {
+      "id": "q8",
+      "question": "Khi vợ của Lincoln và những người xung quanh gay gắt chỉ trích người miền Nam trong cuộc Nội chiến, Lincoln đã điềm tĩnh nói câu gì bất hủ?",
+      "options": [
+        "'Đừng chỉ trích họ, vì nếu ở vào hoàn cảnh của họ, có lẽ chúng ta cũng sẽ hành xử như thế mà thôi'.",
+        "'Họ đáng bị trừng phạt bằng mọi giá'.",
+        "'Tôi không quan tâm đến suy nghĩ của người miền Nam'.",
+        "'Chúng ta hãy để lịch sử phán xét sau khi chiến tranh kết thúc'."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tầm vóc vĩ đại của Lincoln thể hiện qua sự thấu cảm tột cùng: hiểu rằng con người là sản phẩm của hoàn cảnh, môi trường và giáo dục."
+    },
+    {
+      "id": "q9",
+      "question": "Câu chuyện phi công thử nghiệm Bob Hoover ôm vai người thợ máy đã đổ nhầm nhiên liệu làm máy bay của ông chết máy giữa không trung dạy chúng ta điều gì?",
+      "options": [
+        "Bỏ nghề phi công vì quá nguy hiểm.",
+        "Tự mình kiểm tra nhiên liệu và không bao giờ tin tưởng bất kỳ thợ máy nào nữa.",
+        "Sa thải người thợ máy ngay lập tức và kiện ra tòa để đòi bồi thường.",
+        "Thay vì trừng phạt và đay nghiến sai lầm chết người, việc thể hiện sự tha thứ và niềm tin tuyệt đối ('Tôi tin ngày mai anh sẽ không bao giờ mắc lại lỗi này') sẽ thức tỉnh trách nhiệm và lòng tận tụy sâu sắc nhất."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lòng khoan dung độ lượng của Hoover đã biến một người thợ máy đang run rẩy vì tội lỗi thành một cộng sự trung thành và cẩn trọng bậc nhất suốt đời."
+    },
+    {
+      "id": "q10",
+      "question": "Câu nói của văn hào Thomas Carlyle: 'Một người vĩ đại được thể hiện qua cách anh ta đối xử với những con người nhỏ bé' có ý nghĩa gì?",
+      "options": [
+        "Thước đo phẩm giá và sự trưởng thành thực sự của một con người là thái độ tôn trọng, nhẫn nại và khoan dung đối với những người yếu thế hơn mình.",
+        "Người vĩ đại chỉ nên nói chuyện với người nghèo khổ.",
+        "Người giàu có cần phát tiền từ thiện thường xuyên.",
+        "Không nên phân biệt ranh giới giữa cấp trên và cấp dưới."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đối xử tử tế với người ngang hàng là bình thường; giữ sự tôn trọng và nhẫn nại với người dưới quyền hoặc phục vụ mình mới là dấu hiệu của nhân cách cao thượng."
+    },
+    {
+      "id": "q11",
+      "question": "Theo bài học, khi chúng ta giao tiếp với một con người, chúng ta không phải đang giao tiếp với một sinh vật thuần túy lý trí, mà là một sinh vật như thế nào?",
+      "options": [
+        "Sinh vật luôn tuân thủ các thuật toán logic toán học.",
+        "Sinh vật chỉ quan tâm đến các giá trị triết học hàn lâm.",
+        "Sinh vật hoàn toàn hành động theo bản năng hoang dã.",
+        "Sinh vật đầy cảm xúc, bị chi phối bởi định kiến, lòng kiêu hãnh và tính tự ái."
+      ],
+      "correctIndex": 3,
+      "explanation": "Con người vận hành bằng cảm xúc trước khi lý trí kịp can thiệp; đụng chạm đến lòng tự ái của họ là bạn kích hoạt toàn bộ hệ thống thù địch."
+    },
+    {
+      "id": "q12",
+      "question": "Benjamin Franklin thời trẻ rất kiêu ngạo nhưng về sau trở thành một trong những nhà ngoại giao khéo léo nhất lịch sử nước Mỹ nhờ bí quyết gì?",
+      "options": [
+        "'Tôi không nói xấu bất kỳ ai, và nói tất cả những điều tốt đẹp nhất mà tôi biết về mỗi người'.",
+        "Học cách im lặng và không bao giờ phát biểu ý kiến cá nhân.",
+        "Luôn chuẩn bị những lý lẽ sắc bén nhất để đánh bại đối thủ trong mọi cuộc tranh luận.",
+        "Dùng tiền bạc để mua chuộc các đại biểu tham gia hội nghị."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nguyên tắc vàng của Franklin là loại bỏ hoàn toàn sự gièm pha, chỉ tập trung nhìn nhận và tôn vinh những giá trị tốt đẹp ở người khác."
+    },
+    {
+      "id": "q13",
+      "question": "Nếu một người cha/mẹ liên tục cằn nhằn và chỉ trích con cái về những thói hư tật xấu, kết quả lâu dài theo tâm lý học là gì?",
+      "options": [
+        "Đứa trẻ sẽ hình thành tâm lý tự ti, xa lánh cha mẹ, chai lì cảm xúc hoặc trở nên nổi loạn, chống đối gay gắt hơn.",
+        "Đứa trẻ sẽ biết ơn cha mẹ suốt đời vì những lời mắng mỏ.",
+        "Đứa trẻ sẽ lập tức trở thành một thiên tài hoàn hảo.",
+        "Không có bất kỳ ảnh hưởng nào đến sự phát triển của trẻ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chỉ trích thường xuyên làm thui chột lòng tự tin và giết chết sự gắn kết tình cảm thiêng liêng giữa cha mẹ và con cái."
+    },
+    {
+      "id": "q14",
+      "question": "Câu ngạn ngữ nổi tiếng của phương Tây: 'Đừng phán xét để không bị phán xét' được Dale Carnegie diễn giải trong giao tiếp như thế nào?",
+      "options": [
+        "Không bao giờ đưa ra bất kỳ nhận xét chuyên môn nào trong công việc.",
+        "Bỏ qua mọi tội ác và giải tán các cơ quan hành pháp.",
+        "Hiểu tất cả là tha thứ tất cả; thay vì lên án, hãy cố gắng tìm hiểu nguyên nhân gốc rễ vì sao người ta lại suy nghĩ và hành động như vậy.",
+        "Luôn đồng ý với mọi yêu cầu của đối phương."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự thấu hiểu sinh ra lòng trắc ẩn và sự bao dung; phán xét chỉ thể hiện sự hẹp hòi và thiếu hiểu biết về bối cảnh của người khác."
+    },
+    {
+      "id": "q15",
+      "question": "Tóm tắt cốt lõi của NGUYÊN TẮC 1 trong 'Đắc Nhân Tâm' là gì?",
+      "options": [
+        "Khen ngợi người khác bằng những lời lẽ tâng bốc hoa mỹ.",
+        "Không chỉ trích, oán trách hay than phiền.",
+        "Luôn nhượng bộ trong mọi cuộc xung đột quyền lợi.",
+        "Im lặng trước mọi hành vi sai trái của xã hội."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nguyên tắc số 1 là nền móng của nghệ thuật đối nhân xử thế: Tuyệt đối kiềm chế thói quen chỉ trích, oán trách và than phiền về người khác."
+    }
+  ]
+}

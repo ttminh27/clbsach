@@ -8,20 +8,20 @@
       "id": "q1",
       "question": "Quan niệm sai lầm lớn nhất của những người thiếu kinh nghiệm đối với 'Người giữ cửa' (Gatekeepers - trợ lý, thư ký, lễ tân) là gì?",
       "options": [
-        "Coi họ là những 'chướng ngại vật phiền toái' cần phải vượt qua hoặc lừa gạt, thay vì nhận ra họ là những đồng minh chiến lược quyền lực nhất.",
-        "Coi họ là những người nắm giữ toàn bộ cổ phần của tập đoàn.",
         "Nghĩ rằng họ không biết sử dụng máy vi tính và điện thoại bàn.",
-        "Cho rằng họ là những người duy nhất được phép ký duyệt ngân sách chi tiêu."
+        "Coi họ là những người nắm giữ toàn bộ cổ phần của tập đoàn.",
+        "Cho rằng họ là những người duy nhất được phép ký duyệt ngân sách chi tiêu.",
+        "Coi họ là những 'chướng ngại vật phiền toái' cần phải vượt qua hoặc lừa gạt, thay vì nhận ra họ là những đồng minh chiến lược quyền lực nhất."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Trợ lý là cánh tay phải của sếp; đối xử thiếu tôn trọng với trợ lý đồng nghĩa với việc bạn tự tay đóng sập cánh cửa tiếp cận vị lãnh đạo đó vĩnh viễn."
     },
     {
       "id": "q2",
       "question": "Tại sao việc xây dựng mối quan hệ chân thành và tôn trọng với trợ lý của đối tác lại là chìa khóa vàng mở mọi cánh cửa?",
       "options": [
-        "Vì trợ lý là người duy nhất biết được mật khẩu máy tính của tổng giám đốc.",
         "Vì trợ lý luôn có thẩm quyền hủy bỏ các quyết định của hội đồng quản trị.",
+        "Vì trợ lý là người duy nhất biết được mật khẩu máy tính của tổng giám đốc.",
         "Vì trợ lý là người quản lý toàn bộ lịch trình, quyết định email hay cuộc gọi nào được ưu tiên chuyển tới sếp và có ảnh hưởng lớn đến tâm lý của sếp.",
         "Vì trợ lý là người trực tiếp trả lương cho bạn sau khi ký hợp đồng."
       ],
@@ -32,12 +32,12 @@
       "id": "q3",
       "question": "Hành vi nào sau đây thể hiện sự tôn trọng thực sự đối với người trợ lý/thư ký?",
       "options": [
-        "Hỏi tên họ, lắng nghe chân thành, ghi nhớ ngày sinh nhật, gửi lời cảm ơn và thấu hiểu những áp lực công việc mà họ đang phải gánh vác.",
         "Tặng những món quà đắt tiền trước mặt sếp của họ để gây sự chú ý.",
-        "Đến văn phòng và yêu cầu trợ lý phải phục vụ trà nước cho bạn ngay lập tức.",
-        "Bỏ qua trợ lý và cố gắng đi thẳng vào phòng riêng của tổng giám đốc."
+        "Bỏ qua trợ lý và cố gắng đi thẳng vào phòng riêng của tổng giám đốc.",
+        "Hỏi tên họ, lắng nghe chân thành, ghi nhớ ngày sinh nhật, gửi lời cảm ơn và thấu hiểu những áp lực công việc mà họ đang phải gánh vác.",
+        "Đến văn phòng và yêu cầu trợ lý phải phục vụ trà nước cho bạn ngay lập tức."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Đối xử với trợ lý như một đối tác quan trọng và thể hiện sự quan tâm tinh tế đến con người họ sẽ tạo ra một đồng minh trung thành tuyệt đối."
     },
     {
@@ -46,8 +46,8 @@
       "options": [
         "Các trợ lý luôn nhận tiền hối lộ để sắp xếp lịch hẹn cho người lạ.",
         "Khi bạn giúp đỡ và chăm sóc những người trợ lý, họ sẽ sẵn lòng sắp xếp cho bạn những khung giờ gặp mặt quý giá ngay cả trong những lịch trình bận rộn nhất.",
-        "Chỉ có những người làm nghề tiếp thị mới cần phải nói chuyện với trợ lý.",
-        "Các trợ lý thường không quan tâm đến sự thành công của công ty."
+        "Các trợ lý thường không quan tâm đến sự thành công của công ty.",
+        "Chỉ có những người làm nghề tiếp thị mới cần phải nói chuyện với trợ lý."
       ],
       "correctIndex": 1,
       "explanation": "Keith luôn đối xử với các trợ lý bằng sự hào phóng và tôn trọng tối cao; chính họ là người đã chủ động chèn lịch hẹn của Keith vào những khoảng trống bất ngờ của sếp."
@@ -56,96 +56,96 @@
       "id": "q5",
       "question": "Khi bị trợ lý từ chối kết nối máy hoặc từ chối lịch hẹn, câu hỏi tinh tế nào có thể giúp bạn lật ngược tình thế?",
       "options": [
-        "'Bạn có biết tôi là ai và tôi quen biết những ai trong tập đoàn này không?'.",
-        "'Tôi muốn nói chuyện với cấp trên của bạn ngay lập tức'.",
+        "'Tôi rất hiểu sếp của bạn đang rất bận. Bạn có thể tư vấn giúp tôi xem khi nào hoặc bằng cách nào là thuận tiện nhất để tôi có thể gửi thông tin này cho sếp không?'.",
         "'Tại sao bạn lại dám từ chối tôi khi chưa hỏi ý kiến của sếp bạn?'.",
-        "'Tôi rất hiểu sếp của bạn đang rất bận. Bạn có thể tư vấn giúp tôi xem khi nào hoặc bằng cách nào là thuận tiện nhất để tôi có thể gửi thông tin này cho sếp không?'."
+        "'Bạn có biết tôi là ai và tôi quen biết những ai trong tập đoàn này không?'.",
+        "'Tôi muốn nói chuyện với cấp trên của bạn ngay lập tức'."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Biến trợ lý thành chuyên gia tư vấn cho bạn: khi bạn cầu thị xin lời khuyên của họ, họ sẽ cảm thấy được tôn trọng và sẵn lòng chỉ dẫn cách tiếp cận tối ưu."
     },
     {
       "id": "q6",
       "question": "Một kỹ thuật thông minh để liên lạc trực tiếp với các lãnh đạo cấp cao mà không qua trợ lý (khi cần thiết) là gì?",
       "options": [
-        "Giả danh là bác sĩ riêng của gia đình lãnh đạo.",
+        "Gửi tin nhắn đe dọa vào số điện thoại khẩn cấp của công ty.",
         "Đến nhà riêng của lãnh đạo vào lúc nửa đêm.",
-        "Gọi điện vào các khung giờ ngoài giờ hành chính (sáng sớm từ 7h-8h hoặc chiều muộn sau 18h) khi các trợ lý đã về nhưng lãnh đạo vẫn đang làm việc một mình.",
-        "Gửi tin nhắn đe dọa vào số điện thoại khẩn cấp của công ty."
+        "Giả danh là bác sĩ riêng của gia đình lãnh đạo.",
+        "Gọi điện vào các khung giờ ngoài giờ hành chính (sáng sớm từ 7h-8h hoặc chiều muộn sau 18h) khi các trợ lý đã về nhưng lãnh đạo vẫn đang làm việc một mình."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Các CEO chăm chỉ thường đến sớm và về muộn; vào những thời điểm này, chính họ là người tự tay nhấc ống nghe điện thoại tại bàn làm việc."
     },
     {
       "id": "q7",
       "question": "Tại sao việc gửi một món quà nhỏ (như hoa, sách hay một tấm thiệp viết tay) cảm ơn trợ lý sau một sự kiện lại có sức mạnh phi thường?",
       "options": [
-        "Vì trợ lý sẽ bán lại món quà đó để lấy tiền mặt tiêu dùng.",
         "Vì trợ lý là những người làm việc cật lực sau cánh gà nhưng hiếm khi nhận được sự công nhận đích đáng từ các đối tác bên ngoài.",
+        "Vì trợ lý sẽ bán lại món quà đó để lấy tiền mặt tiêu dùng.",
         "Vì đó là nghĩa vụ pháp lý được ghi trong hợp đồng kinh tế.",
         "Vì sếp của họ sẽ trừ lương nếu trợ lý không nhận được quà tặng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Ghi nhận sự đóng góp thầm lặng của trợ lý chạm sâu vào lòng trắc ẩn của họ, biến bạn thành vị khách đáng mến và được ưu tiên nhất trong tâm trí họ."
     },
     {
       "id": "q8",
       "question": "Điều gì là điều cấm kỵ tuyệt đối khi giao tiếp với người giữ cửa qua điện thoại?",
       "options": [
-        "Tỏ thái độ trịch thượng, hách dịch, coi thường hoặc nói dối về mối quan hệ thân thiết giả tạo giữa bạn và sếp của họ.",
-        "Nói chuyện với giọng điệu lịch sự và nhã nhặn.",
+        "Nêu rõ tên công ty và mục đích cuộc gọi một cách trung thực.",
         "Hỏi thăm sức khỏe và cảm ơn họ vì đã nhấc máy.",
-        "Nêu rõ tên công ty và mục đích cuộc gọi một cách trung thực."
+        "Nói chuyện với giọng điệu lịch sự và nhã nhặn.",
+        "Tỏ thái độ trịch thượng, hách dịch, coi thường hoặc nói dối về mối quan hệ thân thiết giả tạo giữa bạn và sếp của họ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Trợ lý có trực giác cực kỳ nhạy bén để phát hiện những kẻ giả tạo; sự thiếu trung thực sẽ khiến bạn bị đưa ngay vào 'danh sách đen' vĩnh viễn."
     },
     {
       "id": "q9",
       "question": "Làm thế nào để biến người bảo vệ tòa nhà hoặc nhân viên lễ tân thành đồng minh giúp đỡ bạn?",
       "options": [
-        "Phàn nàn với ban quản lý tòa nhà về đồng phục của họ.",
         "Luôn luôn mỉm cười chào hỏi họ bằng sự ấm áp, tôn trọng, ghi nhớ tên họ và không bao giờ tỏ thái độ kẻ cả bề trên.",
-        "Đưa tiền boa cho họ mỗi khi bước qua cửa ra vào.",
-        "Bỏ qua họ vì họ không có quyền quyết định kinh doanh."
+        "Bỏ qua họ vì họ không có quyền quyết định kinh doanh.",
+        "Phàn nàn với ban quản lý tòa nhà về đồng phục của họ.",
+        "Đưa tiền boa cho họ mỗi khi bước qua cửa ra vào."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Nhân viên lễ tân và bảo vệ nắm giữ rất nhiều thông tin thực tế về lịch trình và tâm trạng của các lãnh đạo; sự tử tế của bạn sẽ được họ đền đáp bằng những thông tin quý giá."
     },
     {
       "id": "q10",
       "question": "Khi bạn muốn gửi một tài liệu quan trọng cho sếp, hành động nào thể hiện sự khôn ngoan đối với trợ lý?",
       "options": [
-        "Gửi tài liệu cho trợ lý xem trước và chân thành nhờ họ góp ý xem bản tóm tắt đã đủ ngắn gọn và phù hợp với phong cách đọc của sếp chưa.",
-        "Đóng dấu 'Tuyệt mật' và yêu cầu trợ lý không được phép mở tài liệu ra xem.",
+        "Yêu cầu trợ lý phải in tài liệu ra 100 bản sao ngay lập tức.",
         "Gửi tài liệu nặc danh không ghi tên người gửi.",
-        "Yêu cầu trợ lý phải in tài liệu ra 100 bản sao ngay lập tức."
+        "Đóng dấu 'Tuyệt mật' và yêu cầu trợ lý không được phép mở tài liệu ra xem.",
+        "Gửi tài liệu cho trợ lý xem trước và chân thành nhờ họ góp ý xem bản tóm tắt đã đủ ngắn gọn và phù hợp với phong cách đọc của sếp chưa."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Tôn trọng chuyên môn của trợ lý biến họ thành người cố vấn nội bộ đắc lực, giúp tài liệu của bạn được tối ưu hóa trước khi đến tay sếp."
     },
     {
       "id": "q11",
       "question": "Tại sao một người lãnh đạo thông minh luôn lắng nghe ý kiến đánh giá của trợ lý về các đối tác đến gặp mình?",
       "options": [
-        "Vì cách một đối tác đối xử với người trợ lý phản ánh chân thực nhân cách, sự trung thực và văn hóa ứng xử của họ khi không có sếp ở đó.",
-        "Vì trợ lý là người quyết định mức lương của đối tác sau cuộc gặp.",
+        "Vì đó là quy trình tuyển dụng bắt buộc của bộ phận nhân sự.",
         "Vì các giám đốc không có khả năng tự đánh giá năng lực của người khác.",
-        "Vì đó là quy trình tuyển dụng bắt buộc của bộ phận nhân sự."
+        "Vì trợ lý là người quyết định mức lương của đối tác sau cuộc gặp.",
+        "Vì cách một đối tác đối xử với người trợ lý phản ánh chân thực nhân cách, sự trung thực và văn hóa ứng xử của họ khi không có sếp ở đó."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Bài kiểm tra nhân cách thực thụ: kẻ giả tạo chỉ tử tế với người có quyền lực, trong khi người có nhân cách lớn luôn đối xử tử tế với tất cả mọi người."
     },
     {
       "id": "q12",
       "question": "Khi trợ lý thông báo: 'Sếp của tôi không quan tâm đến vấn đề này', cách phản hồi khéo léo nhất là gì?",
       "options": [
+        "'Hãy chuyển máy cho sếp của bạn ngay lập tức'.",
         "'Cảm ơn bạn đã chia sẻ thẳng thắn. Bạn có biết trong ban lãnh đạo công ty hiện nay ai là người đang phụ trách chính vấn đề này không để tôi liên hệ đúng người?'.",
-        "'Tôi chắc chắn sếp của bạn sẽ sa thải bạn nếu biết bạn đã nói câu này'.",
         "'Bạn không hiểu gì về kinh doanh nên mới nói như vậy'.",
-        "'Hãy chuyển máy cho sếp của bạn ngay lập tức'."
+        "'Tôi chắc chắn sếp của bạn sẽ sa thải bạn nếu biết bạn đã nói câu này'."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Không tranh cãi, giữ thái độ nhã nhặn và nhờ trợ lý điều hướng sang người phụ trách phù hợp sẽ mở ra một cánh cửa cơ hội mới trong cùng tổ chức."
     },
     {
@@ -153,11 +153,11 @@
       "question": "Thói quen nào sau đây giúp bạn duy trì mối quan hệ tuyệt vời với trợ lý của các đối tác quan trọng qua nhiều năm?",
       "options": [
         "Yêu cầu trợ lý phải cung cấp số điện thoại riêng của các đối tác khác.",
+        "Thỉnh thoảng gửi tin nhắn chúc mừng khi họ có bước tiến mới trong sự nghiệp hoặc gửi lời thăm hỏi khi biết công ty của họ vừa hoàn thành một dự án lớn.",
         "Gửi email tiếp thị hàng loạt vào hộp thư cá nhân của trợ lý.",
-        "Chỉ liên lạc với trợ lý khi bạn cần họ sắp xếp một cuộc hẹn khẩn cấp với sếp.",
-        "Thỉnh thoảng gửi tin nhắn chúc mừng khi họ có bước tiến mới trong sự nghiệp hoặc gửi lời thăm hỏi khi biết công ty của họ vừa hoàn thành một dự án lớn."
+        "Chỉ liên lạc với trợ lý khi bạn cần họ sắp xếp một cuộc hẹn khẩn cấp với sếp."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Chăm sóc mối quan hệ với trợ lý như một người bạn độc lập, chứ không phải như một công cụ bắc cầu tạm bợ."
     },
     {
@@ -165,9 +165,9 @@
       "question": "Sự khác biệt giữa việc 'lấy lòng giả tạo' và 'tôn trọng chân thành' đối với người giữ cửa nằm ở đâu?",
       "options": [
         "Tôn trọng chân thành xuất phát từ việc công nhận giá trị con người và vai trò thiết yếu của họ, duy trì nhất quán ngay cả khi bạn không cần sự giúp đỡ.",
-        "Tôn trọng chân thành là việc gửi email ngắn dưới 3 dòng.",
+        "Không có sự khác biệt; mọi hành vi đối xử tốt với trợ lý đều là giả tạo.",
         "Lấy lòng giả tạo là việc tặng hoa hồng vào ngày sinh nhật của họ.",
-        "Không có sự khác biệt; mọi hành vi đối xử tốt với trợ lý đều là giả tạo."
+        "Tôn trọng chân thành là việc gửi email ngắn dưới 3 dòng."
       ],
       "correctIndex": 0,
       "explanation": "Tính nhất quán và sự không vụ lợi theo thời gian là phép thử duy nhất phân biệt lòng tốt đích thực và những chiêu trò toan tính ngắn hạn."
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Bài học đắt giá nhất của chương 10 có thể đúc kết thành chân lý nào?",
       "options": [
-        "Chỉ có tiền bạc mới có thể mua được sự giúp đỡ của thư ký.",
-        "Đừng bao giờ xem thường bất kỳ ai; người giữ cửa hôm nay có thể là người mở ra vận mệnh vĩ đại cho bạn ngày mai.",
         "Cách duy nhất để thành công là trở thành trợ lý của một người nổi tiếng.",
-        "Người giữ cửa luôn là kẻ thù số một của những người làm kinh doanh."
+        "Người giữ cửa luôn là kẻ thù số một của những người làm kinh doanh.",
+        "Chỉ có tiền bạc mới có thể mua được sự giúp đỡ của thư ký.",
+        "Đừng bao giờ xem thường bất kỳ ai; người giữ cửa hôm nay có thể là người mở ra vận mệnh vĩ đại cho bạn ngày mai."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Trong thế giới kết nối, mọi vị trí đều mang một giá trị chiến lược; sự tử tế và tôn trọng bình đẳng là chiếc chìa khóa vạn năng mở mọi cánh cửa quyền lực."
     }
   ]
