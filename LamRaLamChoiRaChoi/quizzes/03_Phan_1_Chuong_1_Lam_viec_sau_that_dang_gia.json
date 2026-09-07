@@ -1,0 +1,188 @@
+{
+  "bookId": "LamRaLamChoiRaChoi",
+  "chapterId": "03_Phan_1_Chuong_1_Lam_viec_sau_that_dang_gia",
+  "chapterTitle": "Phần 1: Ý tưởng - Chương một: Làm việc sâu thật đáng giá",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Hiện tượng Nate Silver thu hút hơn 70% lượng truy cập vào trang web của tờ New York Times trong đêm bầu cử 2012 minh họa cho điều gì?",
+      "options": [
+        "Tầm quan trọng của việc quảng cáo trên truyền hình vào ban đêm.",
+        "Sự suy tàn hoàn toàn của báo chí truyền thống trước các bài thơ châm biếm.",
+        "Sức hút của các vụ scandal đời tư chính trị gia.",
+        "Sự trỗi dậy của nhóm 'Lao động có tay nghề cao' - những người biết làm chủ công nghệ phức tạp và phân tích dữ liệu để tạo ra giá trị phi thường trong nền kinh tế mới."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nate Silver là biểu tượng của nhóm lao động tay nghề cao: làm chủ các cỗ máy thông minh và mô hình dữ liệu để đưa ra dự báo chuẩn xác vượt trội."
+    },
+    {
+      "id": "q2",
+      "question": "David Heinemeier Hansson (DHH) - tác giả của Ruby on Rails - đại diện cho nhóm người chiến thắng nào trong phân tích của Erik Brynjolfsson và Andrew McAfee?",
+      "options": [
+        "Nhóm các quan chức quản lý viễn thông nhà nước.",
+        "Nhóm lao động phổ thông giá rẻ.",
+        "Nhóm chủ sở hữu vốn đầu tư mạo hiểm.",
+        "Nhóm 'Siêu sao' (Superstars) - những người có tài năng xuất sắc nhất trong thị trường có tính kết nối cao toàn cầu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Công nghệ kết nối toàn cầu cho phép các công ty thuê siêu sao lập trình giỏi nhất thế giới như DHH thay vì tuyển dụng nhân sự tầm trung tại địa phương."
+    },
+    {
+      "id": "q3",
+      "question": "Thuyết thị trường 'Người thắng ăn cả' (The Winner-Take-All Market) của nhà kinh tế học Sherwin Rosen giải thích điều gì về phần thưởng cho tài năng?",
+      "options": [
+        "Người đến sau trong thị trường luôn có lợi thế hơn người tiên phong.",
+        "Nghe một loạt ca sĩ hạng xoàng hát cũng không bằng nghe một nghệ sĩ xuất sắc trình diễn; phần thưởng khổng lồ chỉ dành cho người giỏi nhất thị trường.",
+        "Mọi người tham gia thị trường đều nhận được phần chia lợi nhuận như nhau.",
+        "Chất lượng sản phẩm không quan trọng bằng chiêu trò quảng cáo tiếp thị."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tài năng có tính thay thế không hoàn hảo; khi người mua tiếp cận được toàn cầu, người giỏi nhất (q cao nhất) sẽ thâu tóm phần lớn thị phần."
+    },
+    {
+      "id": "q4",
+      "question": "Theo hai nhà kinh tế học của MIT trong cuốn 'Race Against the Machine', cuộc 'Tái cơ cấu Vĩ đại' do công nghệ số mang lại gây ra hiện tượng gì trên thị trường lao động?",
+      "options": [
+        "Lương của mọi ngành nghề đều bị cào bằng như nhau.",
+        "Tất cả công việc của con người đều bị xóa sổ hoàn toàn trong vòng 5 năm.",
+        "Người lao động sẽ quay về làm nông nghiệp hàng loạt.",
+        "Nó phân cực thị trường: đè bẹp những ai làm công việc dễ tự động hóa, nhưng mang lại lợi ích bất đối xứng khổng lồ cho 3 nhóm: Lao động tay nghề cao, Siêu sao và Chủ sở hữu vốn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Cuộc tái cơ cấu chia rẽ thị trường lao động sâu sắc giữa những người bị máy móc thay thế và những người cưỡi trên lưng máy móc thông minh để bứt phá."
+    },
+    {
+      "id": "q5",
+      "question": "Để gia nhập vào nhóm những người chiến thắng trong nền kinh tế mới, bạn bắt buộc phải sở hữu hai năng lực cốt lõi nào?",
+      "options": [
+        "1. Khả năng nịnh bợ cấp trên; 2. Khả năng nói trôi chảy nhiều ngoại ngữ.",
+        "1. Năng lực đánh máy 10 ngón tốc độ cao; 2. Năng lực thức đêm liên tục nhiều tuần.",
+        "1. Năng lực nhanh chóng học hỏi và làm chủ những kiến thức phức tạp; 2. Năng lực sản xuất thành quả ở mức độ đỉnh cao cả về chất lượng lẫn tốc độ.",
+        "1. Kỹ năng quản lý tài khoản mạng xã hội; 2. Kỹ năng thiết kế đồ họa cơ bản."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đây là 2 năng lực nền tảng Newport rút ra: Nếu không học nhanh cái khó bạn sẽ tụt hậu; nếu không tạo ra sản phẩm xuất sắc bạn sẽ không cạnh tranh được."
+    },
+    {
+      "id": "q6",
+      "question": "Dưới góc độ khoa học thần kinh, chất 'Myelin' đóng vai trò kỳ diệu nào trong việc hình thành kỹ năng đỉnh cao khi con người tập trung sâu?",
+      "options": [
+        "Là một loại hoóc-môn kích thích cảm giác buồn ngủ và mệt mỏi.",
+        "Là lớp vỏ bọc lipid cách điện bao quanh các sợi trục thần kinh, được bồi đắp dày lên khi mạch nơ-ron được kích hoạt lặp đi lặp lại có chủ đích, giúp tín hiệu truyền đi nhanh hơn và chính xác hơn gấp nhiều lần.",
+        "Là chất độc thần kinh tiết ra khi con người quá căng thẳng cần phải giải tỏa.",
+        "Là chất dẫn truyền thần kinh chỉ xuất hiện khi con người chơi thể thao ngoài trời."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoa học chứng minh: Myelin hóa các sợi thần kinh chính là cơ chế sinh học của sự tinh thông. Chỉ có sự tập trung cao độ không xao nhãng mới kích thích tế bào chất keo bọc myelin cho đúng mạch thần kinh đó."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao việc vừa làm việc vừa thỉnh thoảng liếc nhìn tin nhắn điện thoại lại phá hủy quá trình myelin hóa và học tập sâu sắc?",
+      "options": [
+        "Vì tin nhắn điện thoại làm giảm lượng đường trong máu.",
+        "Vì pin điện thoại nhanh hết khiến người làm việc lo lắng.",
+        "Vì sự phân tán kích hoạt đồng thời nhiều mạch nơ-ron tạp nham khác nhau, khiến tế bào thần kinh không thể tập trung bồi đắp myelin cho một đường dẫn kỹ năng duy nhất.",
+        "Vì điện thoại phát ra tia bức xạ làm tan chảy chất myelin trong não."
+      ],
+      "correctIndex": 2,
+      "explanation": "Để tối ưu hóa sự myelin hóa, bạn cần kích hoạt cô lập một mạch thần kinh chuyên biệt ở cường độ cao, không để các mạch nơ-ron tạp khác xen vào làm loãng tín hiệu."
+    },
+    {
+      "id": "q8",
+      "question": "Luật Năng suất của Cal Newport được biểu diễn bằng phương trình nào sau đây?",
+      "options": [
+        "Công việc chất lượng cao = (Số cốc cà phê uống) + (Thời gian thức đêm)",
+        "Công việc chất lượng cao = (Thời gian bỏ ra) x (Cường độ tập trung)",
+        "Công việc chất lượng cao = (Số lượng người theo dõi trên mạng) x (May mắn)",
+        "Công việc chất lượng cao = (Số lượng email trả lời) / (Thời gian họp hành)"
+      ],
+      "correctIndex": 1,
+      "explanation": "High-Quality Work Produced = (Time Spent) x (Intensity of Focus). Nếu cường độ tập trung tiệm cận 0 do phân tâm, thời gian bỏ ra dù 10 tiếng cũng chỉ tạo ra kết quả xoàng xĩnh."
+    },
+    {
+      "id": "q9",
+      "question": "Nghiên cứu của Giáo sư kinh doanh Sophie Leroy về hiện tượng 'Chú ý dư thừa' (Attention Residue) đã phát hiện ra điều gì?",
+      "options": [
+        "Khi bạn chuyển từ Tác vụ A sang Tác vụ B, sự chú ý của bạn không chuyển đi trọn vẹn ngay; một phần dư lượng chú ý vẫn bị mắc kẹt lại ở Tác vụ A, làm suy giảm nghiêm trọng hiệu suất trên Tác vụ B.",
+        "Bộ não con người có thể chuyển đổi tức thì từ việc này sang việc khác mà không mất mát chút năng lượng nào.",
+        "Con người ghi nhớ tốt nhất các thông tin vô bổ sau khi ngủ dậy.",
+        "Chú ý dư thừa là hiện tượng chỉ xảy ra ở người cao tuổi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mỗi lần liếc mắt kiểm tra email dù chỉ 30 giây cũng để lại 'dư lượng chú ý' ở email đó, khiến não bộ bạn phải xử lý công việc chính với chỉ một phần công suất còn lại."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao những người tin rằng họ có thể 'làm việc đa nhiệm' (Multitasking) thành thạo lại là những nạn nhân chịu thiệt hại nặng nề nhất về nhận thức?",
+      "options": [
+        "Vì công ty sẽ bắt họ làm việc vào ngày cuối tuần.",
+        "Vì các thí nghiệm tâm lý của Clifford Nass chứng minh những người đa nhiệm thường xuyên bị tổn thương vĩnh viễn khả năng lọc thông tin rác, mất khả năng tập trung và bị ám ảnh bởi sự phân tâm.",
+        "Vì họ bị bạn bè xung quanh ghen tị và tẩy chay.",
+        "Vì đa nhiệm làm họ tiêu tốn quá nhiều tiền mua nhiều thiết bị điện tử."
+      ],
+      "correctIndex": 1,
+      "explanation": "Giáo sư Clifford Nass tại Stanford chứng minh: Não bộ của người thường xuyên đa nhiệm đã bị thoái hóa khả năng phân biệt cái gì quan trọng và cái gì là rác."
+    },
+    {
+      "id": "q11",
+      "question": "Nhà đầu tư mạo hiểm John Doerr (Kleiner Perkins) kiếm được hàng tỷ đô la từ Twitter, Google, Amazon đại diện cho nhóm người chiến thắng nào trong phân tích của MIT?",
+      "options": [
+        "Những người chuyên làm công việc hành chính văn phòng.",
+        "Những người nổi tiếng trên mạng xã hội.",
+        "Những người sở hữu vốn (Capital Owners) - những người có nguồn lực tài chính để đầu tư vào các công nghệ đột phá mới.",
+        "Những người lao động chân tay có tay nghề cao."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhóm thứ ba chiến thắng trong Kỷ nguyên Máy thông minh là nhóm sở hữu vốn để đầu tư vào các công nghệ và tài năng mới nhằm nhân bội tài sản."
+    },
+    {
+      "id": "q12",
+      "question": "Một sinh viên đại học thường xuyên vừa học vừa bật Facebook bên cạnh để 'tiện trao đổi bài tập' sẽ phải đối mặt với hệ lụy nào theo lý thuyết của Leroy và Newport?",
+      "options": [
+        "Khả năng lưu giữ kiến thức sâu bị phá vỡ hoàn toàn do chú ý dư thừa, việc học tốn gấp ba thời gian nhưng điểm số và sự thấu hiểu bài giảng vẫn rất thấp.",
+        "Sinh viên đó sẽ trở thành chuyên gia tâm lý học hành vi.",
+        "Sinh viên đó sẽ tốt nghiệp thủ khoa nhờ mạng lưới bạn bè rộng lớn.",
+        "Facebook sẽ tự động chặn tài khoản của sinh viên đó vì dùng quá nhiều."
+      ],
+      "correctIndex": 0,
+      "explanation": "Họ liên tục bị phân mảnh nhận thức, mất hàng giờ ngồi học nhưng thực tế thời lượng não thực sự xử lý bài giảng chỉ vỏn vẹn vài phút vụn vặt."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao tác giả lại lấy ví dụ về việc học một khung lập trình phức tạp hay học giải tích nâng cao để minh họa cho Deep Work?",
+      "options": [
+        "Vì các môn học này không cần sử dụng sách vở hay tài liệu.",
+        "Vì đây là các môn học duy nhất được giảng dạy ở đại học.",
+        "Vì những kiến thức này đòi hỏi phải xâu chuỗi nhiều tầng logic trừu tượng, nếu bị đứt mạch tư duy dù chỉ một giây bạn sẽ phải bắt đầu xây dựng lại toàn bộ chuỗi suy luận từ đầu.",
+        "Vì tác giả muốn khoe khoang kiến thức kỹ thuật của bản thân."
+      ],
+      "correctIndex": 2,
+      "explanation": "Các khái niệm trừu tượng phức tạp giống như một tòa tháp bài tinh tế; một cơn gió xao lãng nhỏ cũng đủ làm đổ sập toàn bộ lâu đài tư duy bạn đang xây dựng."
+    },
+    {
+      "id": "q14",
+      "question": "Điều kiện nào của nền kinh tế hiện đại khiến năng lực Deep Work trở thành 'siêu năng lực' (Superpower) trong thế kỷ 21?",
+      "options": [
+        "Trong khi thế giới xung quanh ngày càng trở nên nông cạn, phân tâm và phụ thuộc vào công nghệ dễ dãi, thì người sở hữu khả năng tập trung sâu trở thành của hiếm độc nhất vô nhị.",
+        "Các công ty công nghệ lớn cấm nhân viên sử dụng điện thoại.",
+        "Chính sách bảo hiểm y tế bắt buộc của các quốc gia phát triển.",
+        "Luật lao động quốc tế bắt buộc nhân viên phải làm việc sâu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi đại đa số mọi người tự nguyện nộp mình cho sự phân tâm, người giữ được kỷ luật tập trung sâu sẽ sở hữu một lợi thế cạnh tranh bất đối xứng khổng lồ."
+    },
+    {
+      "id": "q15",
+      "question": "Kết luận cốt lõi của Chương 1 là gì?",
+      "options": [
+        "Deep Work không chỉ là một sở thích lập dị của vài học giả, mà là kỹ năng sinh tồn và phát triển quyết định thành công kinh tế trong kỷ nguyên mới.",
+        "Công nghệ thông tin đang hủy hoại nền kinh tế toàn cầu.",
+        "Mọi người nên bỏ việc văn phòng để đi đầu tư mạo hiểm.",
+        "Lập trình là ngành nghề duy nhất có tương lai trong thế kỷ 21."
+      ],
+      "correctIndex": 0,
+      "explanation": "Deep Work là một năng lực kinh tế có tính quyết định sống còn: nó tạo ra sự khác biệt giữa người dẫn đầu thị trường và người bị bỏ lại phía sau."
+    }
+  ]
+}

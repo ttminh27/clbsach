@@ -1,0 +1,188 @@
+{
+  "bookId": "LamRaLamChoiRaChoi",
+  "chapterId": "04_Phan_1_Chuong_2_Trang_thai_lam_viec_sau_rat_it_khi_xuat_hien",
+  "chapterTitle": "Chương hai: Trạng thái làm việc sâu rất ít khi xuất hiện",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Xu hướng thiết kế 'Văn phòng mở' (Open-plan office) của Facebook hay Square được quảng bá với lý do gì, nhưng thực tế lại gây ra tác hại nào đối với Deep Work?",
+      "options": [
+        "Quảng bá để tiết kiệm tiền điện; tác hại là làm nhân viên bị cảm lạnh do điều hòa.",
+        "Quảng bá để nhân viên dễ dàng giám sát sếp; thực tế khiến sếp làm việc quá sức.",
+        "Quảng bá để tăng cường 'sự hợp tác ngẫu nhiên' (serendipitous collaboration); thực tế lại tạo ra môi trường ô nhiễm tiếng ồn và thị giác, liên tục cắt đứt dòng suy nghĩ sâu sắc của nhân viên.",
+        "Quảng bá để tổ chức tiệc tùng; thực tế làm hỏng sàn nhà văn phòng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Niềm tin ngây thơ rằng sự ngẫu nhiên sẽ đẻ ra sáng tạo đã biến các văn phòng mở thành những 'hội chợ sao lãng', tiêu diệt mọi cơ hội tư duy sâu độc lập."
+    },
+    {
+      "id": "q2",
+      "question": "Áp lực phản hồi tin nhắn tức thời (Instant Messaging như Slack, Hall, Teams) trong các doanh nghiệp bắt nguồn từ xu thế tâm lý nào?",
+      "options": [
+        "Yêu cầu bảo mật dữ liệu quốc tế của các ngân hàng.",
+        "Nhân viên muốn làm quen và kết bạn với đồng nghiệp mới.",
+        "Ảo tưởng rằng tốc độ phản hồi càng nhanh thì hiệu suất công việc càng cao, biến nhân viên thành những chiếc máy trả lời tự động luôn trong trạng thái gián đoạn.",
+        "Quy định bắt buộc của bộ luật lao động Hoa Kỳ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Văn hóa phản hồi ngay lập tức (culture of connectivity) mang lại cảm giác năng suất giả tạo nhưng thực chất xé nát ngày làm việc thành những khoảng trống vài phút."
+    },
+    {
+      "id": "q3",
+      "question": "'Nguyên lý ít tốn sức nhất' (The Principle of Least Resistance) trong môi trường công sở được Cal Newport định nghĩa là gì?",
+      "options": [
+        "Trong môi trường kinh doanh khi thiếu phản hồi rõ ràng về tác động của các hành vi lên lợi nhuận, con người có xu hướng thực hiện những hành vi dễ dàng nhất tại thời điểm đó.",
+        "Nhân viên luôn cố gắng đi thang máy thay vì đi cầu thang bộ.",
+        "Mọi cuộc họp đều phải kết thúc sớm trước 15 phút.",
+        "Các công ty luôn mua những chiếc máy tính có giá rẻ nhất trên thị trường."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nếu không có cơ chế đo lường rõ ràng, việc gửi email hỏi vu vơ, lập cuộc họp vô bổ hoặc nhắn tin tức thời là cách dễ nhất để trút bỏ trách nhiệm tư duy độc lập."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao việc không có kế hoạch làm việc cụ thể cho cả ngày lại khiến người lao động rơi thẳng vào cái bẫy của Nguyên lý ít tốn sức nhất?",
+      "options": [
+        "Vì phần mềm máy tính sẽ tự động khóa lại nếu không có kế hoạch.",
+        "Vì họ sẽ bị quên mất giờ ăn trưa.",
+        "Vì sếp sẽ khiển trách những người không viết nhật ký công việc.",
+        "Vì không có kế hoạch, tâm trí sẽ tự động mặc định chọn làm những việc dễ nhất, tức thời nhất (như kiểm tra hòm thư, mạng xã hội) thay vì lao vào việc khó."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tâm trí con người lười biếng theo bản năng sinh học; nếu không có rào chắn kỷ luật định hình trước, nó sẽ luôn chọn con đường phân tâm dễ dãi."
+    },
+    {
+      "id": "q5",
+      "question": "Hiện tượng 'Sự bận rộn như một đại diện của năng suất' (Busyness as a Proxy for Productivity) phát sinh trong lao động trí óc vì lý do cốt lõi nào?",
+      "options": [
+        "Vì cấp trên ép buộc nhân viên phải gõ bàn phím thật to để nghe tiếng lách cách.",
+        "Do giá trị của công việc tri thức rất khó đo lường cụ thể và rõ ràng, nên người lao động quay sang dùng các biểu hiện bên ngoài (gửi email liên tục, chạy lăng xăng, họp hành) để chứng minh giá trị bản thân với tổ chức.",
+        "Vì các phần mềm quản trị thời gian bắt buộc nhân viên phải mở nhiều cửa sổ.",
+        "Vì các nhân viên trí óc quá lười biếng và không muốn học hỏi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khác với công nhân nhà máy đếm được số sản phẩm tạo ra, người làm việc tri thức khó chứng minh năng suất nên họ dùng sự bận rộn bề ngoài như tấm bình phong che đậy."
+    },
+    {
+      "id": "q6",
+      "question": "Khái niệm 'Sự sùng bái Internet' (The Cult of the Internet) hay 'Technopoly' mà tác giả trích dẫn từ Neil Postman cảnh báo điều gì?",
+      "options": [
+        "Xã hội hiện đại có xu hướng ngây thơ mặc định rằng bất cứ thứ gì gắn liền với Internet, mạng xã hội hay công nghệ số đều tự động mang lại điều tốt lành và tiến bộ, không cho phép chất vấn tác hại của nó.",
+        "Người dùng nên tẩy chay hoàn toàn việc mua hàng qua mạng.",
+        "Các máy tính kết nối mạng sẽ tự phát triển ý thức và thống trị loài người.",
+        "Chính phủ nên đánh thuế thật nặng vào các nhà cung cấp dịch vụ mạng viễn thông."
+      ],
+      "correctIndex": 0,
+      "explanation": "Technopoly là trạng thái xã hội bị công nghệ mê hoặc, chấp nhận mọi phát minh kỹ thuật số một cách mù quáng mà không hề cân nhắc cái giá phải trả về năng lực nhận thức."
+    },
+    {
+      "id": "q7",
+      "question": "Khi tiểu thuyết gia Jonathan Franzen chỉ trích Twitter là sự phát triển mang tính ép buộc trong giới văn chương, tại sao ông lại bị dư luận truyền thông công kích dữ dội?",
+      "options": [
+        "Vì ông từ chối chia sẻ tiền bản quyền sách cho Twitter.",
+        "Vì ông viết sai chính tả trong bài phê bình của mình.",
+        "Vì ông khuyên mọi người nên đốt bỏ sách in truyền thống.",
+        "Vì ông đã dám chất vấn một 'tín điều' của thời đại số, chạm vào niềm tin mù quáng rằng mọi nghệ sĩ đều bắt buộc phải hiện diện và quảng bá bản thân trên mạng xã hội."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trong một xã hội Technopoly, bất kỳ ai dám chỉ ra sự vô nghĩa của các trào lưu số đều bị coi là kẻ lỗi thời, cổ hủ và trở thành mục tiêu công kích."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao các công ty lớn như tờ New York Times lại khuyến khích hơn 800 nhà báo, phóng viên của mình dùng Twitter thường xuyên dù nó tàn phá sự tập trung nghiên cứu sâu?",
+      "options": [
+        "Để nhân viên không đòi tăng lương hằng năm.",
+        "Họ bị cuốn theo niềm tin phổ biến rằng mạng xã hội là bắt buộc để tồn tại, mà không hề đo lường xem việc này có thực sự tạo ra bài báo chất lượng hơn hay chỉ làm loãng trí tuệ nhà báo.",
+        "Để Twitter trả tiền bản quyền quảng cáo cho tờ báo.",
+        "Để ban biên tập kiểm soát quan điểm chính trị của phóng viên."
+      ],
+      "correctIndex": 1,
+      "explanation": "Các tổ chức chạy theo trào lưu số vì quán tính bầy đàn; họ ngộ nhận sự hiện diện trên mạng là thước đo của tầm ảnh hưởng."
+    },
+    {
+      "id": "q9",
+      "question": "Nghịch lý lớn nhất được chứng minh trong Chương 2 là gì?",
+      "options": [
+        "Nhân viên văn phòng ghét công nghệ nhưng lại thích mua điện thoại mới.",
+        "Các kỹ sư phần mềm thường không biết cách gửi email.",
+        "Các công ty công nghệ có doanh thu cao nhất lại có nhân viên ít nhất.",
+        "Làm việc sâu đem lại giá trị kinh tế khổng lồ, nhưng văn hóa làm việc tại hầu hết các công ty hiện đại lại được thiết kế một cách vô thức để triệt tiêu mọi khả năng làm việc sâu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Từ văn phòng mở, Slack, họp liên miên đến văn hóa email 24/7 - các công ty đang tự tay bóp chết năng lực tư duy sâu của chính những nhân tài mà họ trả lương cao."
+    },
+    {
+      "id": "q10",
+      "question": "Theo Newport, tại sao các tổ chức lại khó lòng từ bỏ văn hóa gửi email liên tục?",
+      "options": [
+        "Vì các luật sư khuyến khích chỉ nên giao tiếp qua thư viết tay.",
+        "Vì gửi email là một công cụ giải trí vui vẻ nhất tại nơi làm việc.",
+        "Vì email cho phép mọi người trì hoãn việc lập kế hoạch dài hạn; họ có thể chuyển giao công việc và sự không chắc chắn sang người khác bất cứ lúc nào chỉ bằng một nút bấm.",
+        "Vì các nhà cung cấp dịch vụ email đe dọa kiện các công ty nếu ngừng dùng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Email là biểu hiện đỉnh cao của Nguyên lý ít tốn sức nhất: thay vì phải suy nghĩ thấu đáo để đưa ra chỉ dẫn rõ ràng một lần, người ta gửi 20 email ngắn chắp vá."
+    },
+    {
+      "id": "q11",
+      "question": "Một người quản lý tự hào tuyên bố: 'Phòng ban của tôi mỗi ngày gửi 2,5 triệu tin nhắn IM nội bộ' thực chất đang vô tình thừa nhận điều gì?",
+      "options": [
+        "Công ty sắp được nhận giải thưởng đổi mới sáng tạo công nghệ.",
+        "Hệ thống máy chủ của công ty sắp bị cháy do quá tải.",
+        "Tổ chức của ông ta đang phải gánh chịu sự phân mảnh chú ý ở quy mô khủng khiếp, nhân viên bị gián đoạn hàng triệu lần và hầu như không ai có thể tư duy sâu.",
+        "Đội ngũ của ông ta làm việc gắn kết và đoàn kết nhất hành tinh."
+      ],
+      "correctIndex": 2,
+      "explanation": "2,5 triệu tin nhắn đồng nghĩa với hàng triệu cú sốc gián đoạn nhận thức, biến nhân viên thành những người máy gõ phím phân tâm suốt cả ngày."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao việc đo lường cái giá của sự phân tâm trong nền kinh tế tri thức lại khó khăn hơn nhiều so với trong ngành sản xuất công nghiệp?",
+      "options": [
+        "Trong nhà máy nếu dây chuyền bị dừng 10 phút, sản lượng giảm thấy rõ; nhưng trong công việc trí óc, sự suy giảm chất lượng ý tưởng do phân tâm diễn ra vô hình và khó định lượng ngay bằng con số.",
+        "Vì người lao động trí óc không bao giờ chịu làm khảo sát.",
+        "Vì các công ty công nghệ luôn giấu kín báo cáo tài chính của mình.",
+        "Vì các nhà kinh tế học không quan tâm đến ngành công nghệ thông tin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự suy thoái trí tuệ và chất lượng ý tưởng không hiện lên trên đồng hồ bấm giờ, khiến sự phân tâm tiếp tục hoành hành mà không bị trừng phạt lập tức."
+    },
+    {
+      "id": "q13",
+      "question": "Theo tác giả, giải pháp duy nhất cho một cá nhân khi môi trường công sở xung quanh tràn ngập sự hời hợt là gì?",
+      "options": [
+        "Chủ động tự thiết lập các nguyên tắc và ranh giới thép cho bản thân, biến mình thành một ốc đảo làm việc sâu giữa đại dương sao lãng.",
+        "Nghỉ việc ngay lập tức và chuyển về sống ở nông thôn.",
+        "Viết đơn kiện ban giám đốc công ty lên tòa án lao động.",
+        "Cam chịu và hòa nhập vào dòng chảy phân tâm của đám đông."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bạn không thể chờ công ty tự thay đổi; bạn phải chủ động xây dựng pháo đài Deep Work cho chính sự nghiệp của mình."
+    },
+    {
+      "id": "q14",
+      "question": "Thuật ngữ 'Văn hóa kết nối' (Culture of Connectivity) khiến nhân viên luôn phải kiểm tra điện thoại vào ban đêm bắt nguồn từ đâu?",
+      "options": [
+        "Từ việc nhân viên muốn kiếm thêm tiền làm ngoài giờ.",
+        "Từ sự sợ hãi bỏ lỡ thông tin (FOMO) và áp lực vô hình rằng không phản hồi ngay sẽ bị coi là thiếu chuyên nghiệp hoặc lười biếng.",
+        "Từ các quy định nghiêm ngặt của tổ chức y tế thế giới.",
+        "Từ sự yêu thích mãnh liệt đối với công việc của họ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nỗi sợ vô hình bị coi là 'vô trách nhiệm' khi không trả lời tin nhắn ngay lập tức đã giam cầm nhân viên trong sự cảnh giác nhận thức liên tục, phá hủy sự bình an nội tâm."
+    },
+    {
+      "id": "q15",
+      "question": "Tóm lại, tại sao trạng thái làm việc sâu lại 'rất ít khi xuất hiện'?",
+      "options": [
+        "Vì thế giới thiếu các phòng làm việc yên tĩnh.",
+        "Vì làm việc sâu đòi hỏi nỗ lực nhận thức cao độ, trong khi các công cụ văn phòng và xu hướng văn hóa hiện đại lại khuyến khích con người chọn con đường dễ dãi, ít tốn sức nhất.",
+        "Vì các nhà khoa học đã chứng minh làm việc sâu có hại cho sức khỏe.",
+        "Vì con người sinh ra không ai có khả năng làm việc sâu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Deep Work đi ngược lại bản năng lười biếng tự nhiên và đi ngược lại các trào lưu thời thượng của văn phòng hiện đại, khiến nó trở thành một kỳ tích hiếm hoi."
+    }
+  ]
+}

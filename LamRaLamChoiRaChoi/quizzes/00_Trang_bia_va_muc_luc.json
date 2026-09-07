@@ -1,0 +1,188 @@
+{
+  "bookId": "LamRaLamChoiRaChoi",
+  "chapterId": "00_Trang_bia_va_muc_luc",
+  "chapterTitle": "Trang bìa & Thông tin sách",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Nhan đề tiếng Việt 'Làm ra làm, chơi ra chơi' truyền tải thông điệp cốt lõi nào của tác phẩm Deep Work?",
+      "options": [
+        "Khi làm việc cần tập trung tột độ không xao nhãng để đạt hiệu suất cao nhất, và khi nghỉ ngơi cần ngắt kết nối hoàn toàn để tái tạo năng lượng.",
+        "Chỉ trích những người đam mê công việc và không biết tận hưởng cuộc sống.",
+        "Cổ vũ lối sống buông bỏ mọi trách nhiệm nghề nghiệp để tìm kiếm tự do cá nhân.",
+        "Khuyên con người nên dành 50% thời gian làm việc và 50% thời gian vui chơi giải trí."
+      ],
+      "correctIndex": 0,
+      "explanation": "Triết lý của Cal Newport nhấn mạnh sự phân tách rạch ròi: làm việc sâu sắc không phân tâm giúp hoàn thành công việc nhanh hơn, từ đó bạn có thể nghỉ ngơi trọn vẹn mà không bị công việc ám ảnh."
+    },
+    {
+      "id": "q2",
+      "question": "Tác giả Cal Newport là ai và chuyên môn học thuật của ông đóng vai trò gì trong cách tiếp cận của cuốn sách?",
+      "options": [
+        "Một chuyên gia marketing truyền thông xã hội tại Thung lũng Silicon.",
+        "Một Giáo sư Khoa học Máy tính tại Đại học Georgetown, tiếp cận năng suất bằng tư duy logic, khoa học và thực nghiệm.",
+        "Một nhà tâm lý học lâm sàng chuyên chữa trị chứng nghiện điện thoại.",
+        "Một diễn giả truyền cảm hứng chuyên tổ chức các khóa học làm giàu nhanh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Là giáo sư khoa học máy tính tại Georgetown, Cal Newport phân tích 'làm việc sâu' dưới lăng kính khoa học nhận thức, kinh tế học và bằng chứng thực tế chứ không dùng sáo ngữ hay giáo điều."
+    },
+    {
+      "id": "q3",
+      "question": "Cuốn sách được cấu trúc thành hai phần chính: 'Ý tưởng' và 'Các quy tắc'. Mục đích sư phạm của cấu trúc này là gì?",
+      "options": [
+        "Phần 1 chỉ trích công nghệ, Phần 2 hướng dẫn cách lập trình phần mềm máy tính.",
+        "Hai phần hoàn toàn độc lập và người đọc có thể đọc Phần 2 trước mà không cần quan tâm Phần 1.",
+        "Phần 1 dành cho cấp quản lý doanh nghiệp, còn Phần 2 dành riêng cho nhân viên thực thi.",
+        "Phần 1 nhằm chứng minh lý do kinh tế và khoa học thần kinh tại sao Deep Work quý giá, trong khi Phần 2 cung cấp hệ thống công cụ hành động để rèn luyện nó."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trước khi yêu cầu độc giả thay đổi thói quen khó khăn ở Phần 2, Newport phải thuyết phục người đọc ở Phần 1 rằng Deep Work là lợi thế cạnh tranh sống còn trong nền kinh tế mới."
+    },
+    {
+      "id": "q4",
+      "question": "Thuật ngữ 'Deep Work' (Làm việc sâu) được Cal Newport định nghĩa chính xác là gì?",
+      "options": [
+        "Việc ngồi thiền trong văn phòng để tìm kiếm sự bình an nội tâm.",
+        "Làm việc liên tục trên 14 tiếng mỗi ngày mà không ngủ để vượt tiến độ.",
+        "Các hoạt động chuyên môn đòi hỏi nhận thức cao, được thực hiện trong trạng thái tập trung cao độ không xao nhãng, giúp phát triển năng lực và tạo ra giá trị mới khó sao chép.",
+        "Kỹ năng lập trình phần mềm tầng sâu trong hệ điều hành máy tính."
+      ],
+      "correctIndex": 2,
+      "explanation": "Deep Work là các nỗ lực chuyên môn ở giới hạn nhận thức, tạo ra giá trị đột phá và rất khó để người khác bắt chước hoặc tự động hóa."
+    },
+    {
+      "id": "q5",
+      "question": "Ngược lại với Deep Work, 'Shallow Work' (Làm việc hời hợt) được nhận diện bởi đặc điểm nào?",
+      "options": [
+        "Các công việc chân tay ngoài trời không sử dụng máy vi tính.",
+        "Những công việc đòi hỏi rất nhiều thời gian suy ngẫm nhưng không đem lại doanh thu ngay.",
+        "Các tác vụ mang tính hậu cần, không đòi hỏi nhận thức sâu, thường làm khi đang bị phân tâm, tạo ít giá trị mới và dễ dàng bị sao chép.",
+        "Những nhiệm vụ do các nhà nghiên cứu khoa học thực hiện trong phòng thí nghiệm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Shallow work bao gồm trả lời email liên tục, họp hành liên miên, lướt tin tức, xử lý giấy tờ lặt vặt - khiến bạn cảm thấy bận rộn nhưng thực chất không tạo ra giá trị thặng dư bền vững."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao trong kỷ nguyên AI và tự động hóa, kỹ năng Deep Work lại trở thành vũ khí cạnh tranh sống còn của người lao động trí óc?",
+      "options": [
+        "Bởi vì công việc hời hợt (Shallow Work) rất dễ bị tự động hóa bằng AI, chỉ có khả năng học nhanh kiến thức phức tạp và sáng tạo giải pháp đột phá thông qua Deep Work mới giúp con người giữ vững vị thế.",
+        "Bởi vì Deep Work yêu cầu con người ngừng sử dụng hoàn toàn máy tính và phần mềm.",
+        "Vì AI chỉ có thể hoạt động khi được con người kiểm tra email liên tục.",
+        "Vì Deep Work giúp con người đánh máy nhanh hơn các thuật toán máy học tính toán."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tự động hóa và AI sẽ quét sạch các công việc hậu cần, lặp đi lặp lại. Những người sống sót và phát triển rực rỡ là những người làm chủ được những công nghệ phức tạp và tạo ra giá trị mà máy móc chưa thể làm được."
+    },
+    {
+      "id": "q7",
+      "question": "Giả thuyết trung tâm (The Deep Work Hypothesis) xuyên suốt cuốn sách tuyên bố điều gì?",
+      "options": [
+        "Ai làm việc nhiều giờ nhất mỗi tuần sẽ luôn là người giàu có nhất.",
+        "Khả năng làm việc sâu đang ngày càng trở nên hiếm hoi, nhưng đồng thời lại ngày càng trở nên có giá trị cao trong nền kinh tế hiện đại.",
+        "Mạng xã hội sẽ sớm sụp đổ vì người dùng không còn thời gian truy cập.",
+        "Mọi nhân viên văn phòng nên làm việc từ xa để tránh tiếp xúc với đồng nghiệp."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là luận điểm nền tảng của cuốn sách: Sự khan hiếm của Deep Work kết hợp với giá trị kinh tế khổng lồ của nó tạo nên cơ hội vàng cho số ít người dám rèn luyện kỹ năng này."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao Cal Newport không tán thành các phương pháp quản lý thời gian truyền thống chỉ tập trung vào việc lập danh sách việc cần làm (To-do list)?",
+      "options": [
+        "Vì chỉ có người quản lý mới có quyền lập danh sách công việc.",
+        "Vì To-do list chỉ phù hợp với học sinh tiểu học.",
+        "Vì To-do list không phân biệt được bản chất giữa việc nông (Shallow) và việc sâu (Deep), khiến con người thường chọn làm việc dễ/hời hợt để gạch đầu dòng giải tỏa tâm lý giả tạo.",
+        "Vì việc viết To-do list làm tốn giấy mực không cần thiết."
+      ],
+      "correctIndex": 2,
+      "explanation": "Danh sách To-do đối xử bình đẳng với một email vô bổ và một báo cáo chiến lược quan trọng, tạo ra ảo giác hoàn thành nhiệm vụ trong khi công việc cốt lõi bị trì hoãn."
+    },
+    {
+      "id": "q9",
+      "question": "Sự xuất hiện của các công cụ mạng như Slack, mạng xã hội và email đã tạo ra sự xói mòn tinh thần nào đối với người lao động tri thức?",
+      "options": [
+        "Khiến mắt của họ bị suy giảm thị lực nghiêm trọng.",
+        "Làm phân mảnh sự chú ý thành vô số mảnh vụn, khiến não bộ mất dần khả năng duy trì tập trung kéo dài vào một mạch tư duy phức tạp.",
+        "Khiến chi phí tiền điện của các công ty tăng vọt.",
+        "Làm giảm tốc độ đường truyền internet toàn cầu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự ngắt quãng liên tục khiến não bộ bị tái cấu trúc thần kinh, trở nên nghiện kích thích mới và không thể chịu đựng được sự tĩnh lặng cần thiết cho tư duy sâu."
+    },
+    {
+      "id": "q10",
+      "question": "Theo logic của tác phẩm, việc một người cảm thấy 'bận rộn suốt cả ngày nhưng cuối ngày không hiểu mình đã làm được gì' là dấu hiệu điển hình của điều gì?",
+      "options": [
+        "Họ đang bị thiếu ngủ trầm trọng.",
+        "Công ty giao quá ít việc cho họ.",
+        "Họ đã đạt đến trạng thái làm việc sâu đỉnh cao.",
+        "Họ bị ngập trong công việc hời hợt (Shallow Work) và sự phân mảnh chú ý liên tục."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự bận rộn hời hợt tạo ra ảo giác năng suất nhưng không để lại thành quả cụ thể, bởi tâm trí chỉ phản ứng bị động với các kích thích bên ngoài."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao tác giả cho rằng Deep Work không chỉ là một kỹ năng làm việc mà còn là một 'nghệ thuật sống'?",
+      "options": [
+        "Vì năng lực kiểm soát sự chú ý giúp một cá nhân làm chủ tâm trí, tìm thấy ý nghĩa và sự thăng hoa nội tại thay vì bị cuốn theo những hỗn loạn bên ngoài.",
+        "Vì để làm việc sâu bạn bắt buộc phải đọc thơ ca cổ điển.",
+        "Vì Deep Work đòi hỏi phải mua các dụng cụ văn phòng nghệ thuật đắt tiền.",
+        "Vì người làm việc sâu thường là các họa sĩ và nhạc sĩ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chất lượng của sự chú ý quyết định chất lượng cuộc sống. Khi bạn làm chủ được sự chú ý, cuộc đời bạn được định hình bởi những điều sâu sắc và có ý nghĩa nhất."
+    },
+    {
+      "id": "q12",
+      "question": "Cuốn sách 'Làm ra làm, chơi ra chơi' hướng tới đối tượng độc giả chính nào?",
+      "options": [
+        "Những người muốn tìm bí quyết nghỉ hưu sớm trước tuổi 30.",
+        "Chỉ dành riêng cho các lập trình viên máy tính tại Thung lũng Silicon.",
+        "Chỉ dành cho các nhà văn, nhà thơ và nghệ sĩ tự do.",
+        "Bất kỳ ai kiếm sống bằng lao động trí tuệ và mong muốn đạt được thành tựu xuất sắc trong kỷ nguyên đầy xao lãng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Từ lập trình viên, nhà nghiên cứu, quản lý, biên tập viên cho đến sinh viên - bất cứ ai cần dùng trí não để giải quyết vấn đề đều cần Deep Work."
+    },
+    {
+      "id": "q13",
+      "question": "Một ngộ nhận phổ biến về làm việc sâu mà cuốn sách cảnh báo ngay từ đầu là gì?",
+      "options": [
+        "Tưởng rằng làm việc sâu chỉ cần có lòng quyết tâm tức thời là làm được ngay, mà không nhận ra đó là kỹ năng phải rèn luyện như cơ bắp.",
+        "Tưởng rằng làm việc sâu chỉ có thể thực hiện trên núi cao.",
+        "Tưởng rằng làm việc sâu sẽ khiến con người mất hết bạn bè trên mạng.",
+        "Tưởng rằng làm việc sâu đòi hỏi phải có bằng tiến sĩ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhiều người nghĩ chỉ cần muốn là có thể tập trung cả ngày. Thực tế khả năng tập trung sâu là một loại năng lực tinh thần đòi hỏi quá trình tôi luyện kỷ luật và thay đổi thói quen bài bản."
+    },
+    {
+      "id": "q14",
+      "question": "Trong phần mục lục của cuốn sách, 4 quy tắc rèn luyện Deep Work được xếp theo trình tự nào?",
+      "options": [
+        "Quy tắc 1: Dậy sớm -> Quy tắc 2: Tập thể dục -> Quy tắc 3: Ăn chay -> Quy tắc 4: Thiền định",
+        "Quy tắc 1: Làm việc sâu -> Quy tắc 2: Tận dụng sự buồn chán -> Quy tắc 3: Thoát khỏi truyền thông xã hội -> Quy tắc 4: Loại bỏ những thứ hời hợt",
+        "Quy tắc 1: Mua phần mềm -> Quy tắc 2: Thuê trợ lý -> Quy tắc 3: Đọc sách nhanh -> Quy tắc 4: Ghi nhớ siêu tốc",
+        "Quy tắc 1: Bỏ việc -> Quy tắc 2: Tắt mạng -> Quy tắc 3: Đi ngủ -> Quy tắc 4: Đi du lịch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là 4 quy tắc cốt lõi của Phần 2: Xây dựng thói quen làm việc sâu, rèn luyện não chịu đựng buồn chán, thanh lọc công cụ mạng và cắt giảm tối đa việc nông."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp kết luận sâu sắc nhất mà cuốn sách muốn gửi gắm tới người đọc là gì?",
+      "options": [
+        "Công nghệ là kẻ thù của loài người và chúng ta nên quay lại thời kỳ đồ đá.",
+        "Bạn nên từ bỏ mọi mối quan hệ xã hội để cống hiến trọn đời cho công việc.",
+        "Một cuộc đời làm việc sâu chính là một cuộc đời đáng sống, phong phú và tràn đầy ý nghĩa (A deep life is a good life).",
+        "Tiền bạc là thước đo duy nhất của sự thành công trong công việc."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cuối cùng, Deep Work không chỉ là một công cụ tối ưu hóa năng suất kinh tế, mà là một triết lý sống giúp con người khai phóng tiềm năng cao nhất của tâm trí."
+    }
+  ]
+}

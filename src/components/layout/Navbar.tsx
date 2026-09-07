@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
-import { BookOpen, Search, Moon, Sun, Library, X, Info, History, Menu } from 'lucide-react';
+import { BookOpen, Search, Moon, Sun, Library, X, Info, History, Menu, HelpCircle } from 'lucide-react';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import booksData from '../../data/books-manifest.json';
 import { Book } from '../../types/book';
@@ -98,6 +98,17 @@ export const Navbar: React.FC<NavbarProps> = ({ onToggleSidebar, isSidebarCollap
             >
               <Info className="h-4 w-4" />
               Giới Thiệu
+            </Link>
+            <Link
+              to="/guide"
+              className={`flex items-center gap-1.5 rounded-xl px-3.5 py-2 text-xs font-semibold transition-colors ${
+                location.pathname === '/guide' || location.pathname === '/huong-dan'
+                  ? 'bg-emerald-50 text-emerald-700 dark:bg-emerald-950/50 dark:text-emerald-400 font-bold'
+                  : 'text-slate-600 hover:bg-slate-100 hover:text-slate-900 dark:text-slate-300 dark:hover:bg-slate-800'
+              }`}
+            >
+              <HelpCircle className="h-4 w-4" />
+              Hướng Dẫn
             </Link>
             <Link
               to="/history"

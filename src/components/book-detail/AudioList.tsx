@@ -26,10 +26,10 @@ export const AudioList: React.FC<AudioListProps> = ({ book }) => {
         <div>
           <div className="inline-flex items-center gap-1.5 text-xs font-semibold text-emerald-700 dark:text-emerald-400 mb-1">
             <Sparkles className="h-3.5 w-3.5" />
-            28 Bài Tập Thiền & Tỉnh Thức
+            Danh Sách Audio ({book.audios.length} Bài)
           </div>
           <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
-            Các bài hướng dẫn thiền chánh niệm theo ngày đi kèm trong chương trình Search Inside Yourself.
+            Nghe audio đồng hành theo chương và bài học thực hành của sách.
           </p>
         </div>
 
@@ -38,7 +38,7 @@ export const AudioList: React.FC<AudioListProps> = ({ book }) => {
           className="inline-flex items-center justify-center gap-2 rounded-xl bg-emerald-600 px-5 py-2.5 text-xs font-bold text-white hover:bg-emerald-500 transition-all shadow-md shadow-emerald-600/20 shrink-0"
         >
           <Play className="h-3.5 w-3.5 fill-white" />
-          Phát Tất Cả (Từ Ngày 01)
+          Phát Audio Tất Cả
         </button>
       </div>
 
@@ -108,7 +108,7 @@ export const AudioList: React.FC<AudioListProps> = ({ book }) => {
                     </h4>
                   </div>
                   <p className="text-xs text-slate-400 dark:text-slate-500 truncate mt-1 flex items-center gap-2">
-                    <span>Hướng dẫn thiền thực hành</span>
+                    <span>Audio bài học thực hành</span>
                     {isThisTrackCurrent && (
                       <span className="text-emerald-600 dark:text-emerald-400 font-medium text-[11px]">
                         • Đang chọn

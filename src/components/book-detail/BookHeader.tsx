@@ -162,7 +162,7 @@ export const BookHeader: React.FC<BookHeaderProps> = ({ book, activeTab, onTabCh
                   }`}
                 >
                   <Headphones className="h-4 w-4" />
-                  {isAudioPlayingThisBook ? 'Đang Nghe Audio' : 'Phát Audio Thiền (28 Bài)'}
+                  {isAudioPlayingThisBook ? 'Đang Nghe Audio' : 'Phát Audio'}
                 </button>
               )}
             </div>

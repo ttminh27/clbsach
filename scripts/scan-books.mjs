@@ -140,6 +140,18 @@ const placeholderMetadata = {
     gradient: "from-amber-600 to-red-700",
     themeColor: "#c2410c",
     status: "available"
+  },
+  "LamRaLamChoiRaChoi": {
+    title: "Làm Ra Làm, Chơi Ra Chơi",
+    originalTitle: "Deep Work: Rules for Focused Success in a Distracted World",
+    author: "Cal Newport",
+    translator: "Mai Anh",
+    category: "Kỹ năng làm việc & Năng suất cá nhân",
+    tags: ["Deep Work", "Tập trung", "Năng suất", "Kỷ luật", "Phát triển bản thân", "Quản lý thời gian"],
+    description: "Tác phẩm kinh điển của Cal Newport về nghệ thuật 'Làm việc sâu' (Deep Work) – khả năng tập trung tột độ không xao nhãng trong một thế giới đầy phân tâm, giúp bạn làm chủ các kỹ năng phức tạp và tạo ra kết quả đột phá.",
+    gradient: "from-amber-600 to-stone-900",
+    themeColor: "#d97706",
+    status: "available"
   }
 };
 
@@ -206,7 +218,7 @@ for (const bookId of bookDirs) {
     'cover.jpg', 'cover.png', 'cover.jpeg', 'cover.webp',
     'p1_Im0.jpg', 'img_p001_01.jpeg', 'img-000.png',
     'bia_truoc.png', 'bia_truoc.jpg', 'cover_front.png', 'cover_front.jpg',
-    'image_001_4.jpeg', 'page_001_1.jpeg'
+    'image_001_4.jpeg', 'page_001_1.jpeg', 'page_1_img_1.jpeg'
   ];
   for (const c of coverCandidates) {
     if (fs.existsSync(path.resolve(bookPath, 'images', c))) {
@@ -226,14 +238,18 @@ for (const bookId of bookDirs) {
     const readmeContent = fs.readFileSync(readmePath, 'utf-8');
     const tocMatches = [...readmeContent.matchAll(/\[([^\]]+)\]\(([^)]+\.md)\)/g)];
     if (tocMatches.length > 0) {
-      orderedMdFiles = tocMatches.map(m => {
+      const parsed = [];
+      for (const m of tocMatches) {
         const titleText = m[1].trim();
         const file = m[2].trim();
-        if (titleText && !titleText.endsWith('.md')) {
-          tocTitles[file] = titleText;
+        if (mdFiles.includes(file) && !parsed.includes(file)) {
+          parsed.push(file);
+          if (titleText && !titleText.endsWith('.md')) {
+            tocTitles[file] = titleText;
+          }
         }
-        return file;
-      }).filter(f => mdFiles.includes(f));
+      }
+      orderedMdFiles = parsed;
     }
   }
 

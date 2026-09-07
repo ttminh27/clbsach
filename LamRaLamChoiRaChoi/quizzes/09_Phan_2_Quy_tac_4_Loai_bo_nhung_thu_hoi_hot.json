@@ -1,0 +1,188 @@
+{
+  "bookId": "LamRaLamChoiRaChoi",
+  "chapterId": "09_Phan_2_Quy_tac_4_Loai_bo_nhung_thu_hoi_hot",
+  "chapterTitle": "Quy tắc số 4: Loại bỏ những thứ hời hợt",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Thử nghiệm của công ty phần mềm 37signals (Basecamp) rút ngắn tuần làm việc từ 5 ngày xuống 4 ngày một tuần vào mùa hè đã chứng minh điều gì?",
+      "options": [
+        "Khách hàng đồng loạt hủy hợp đồng vì không được hỗ trợ vào thứ Sáu.",
+        "Mọi người đều phải làm việc 14 tiếng mỗi ngày để bù đắp.",
+        "Khi thời gian làm việc bị thu hẹp, nhân viên tự động cắt bỏ những hoạt động hời hợt vô bổ để tập trung vào việc cốt lõi; họ hoàn thành cùng một khối lượng công việc trong 4 ngày thay vì 5 ngày.",
+        "Nhân viên bị giảm sút 20% sản lượng và công ty bị thua lỗ nặng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Định luật Parkinson: Công việc tự nở ra để lấp đầy thời gian được phân bổ cho nó. Giới hạn thời gian ép tổ chức phải tống khứ việc hời hợt để cứu lấy việc sâu."
+    },
+    {
+      "id": "q2",
+      "question": "Chiến lược 'Lập kế hoạch cho từng phút trong ngày làm việc' (Schedule Every Minute of Your Day) bằng các khối thời gian (Time Blocking) được thực hiện như thế nào?",
+      "options": [
+        "Cài đặt báo thức kêu liên tục mỗi 60 giây trong suốt ngày làm việc.",
+        "Vào đầu mỗi ngày, chia lịch làm việc thành các khối thời gian cụ thể (30 phút, 60 phút), gán trước từng nhiệm vụ rõ ràng vào từng khối, và linh hoạt điều chỉnh lại các khối khi có việc phát sinh bất ngờ.",
+        "Để lịch trống hoàn toàn và làm việc theo bất kỳ yêu cầu nào sếp đưa ra.",
+        "Viết một danh sách 50 việc cần làm rồi cố gắng hoàn thành càng nhiều càng tốt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lập kế hoạch theo khối thời gian không phải là sự gò bó cứng nhắc, mà là sự chủ động kiểm soát: mỗi phút trong ngày đều có một mục đích được định sẵn."
+    },
+    {
+      "id": "q3",
+      "question": "Sự khác biệt căn bản giữa 'Người có kỷ luật phân bổ thời gian' và 'Kẻ độc đoán cứng nhắc' trong việc lập kế hoạch Time Blocking là gì?",
+      "options": [
+        "Người có kỷ luật không hoảng sợ khi lịch trình bị vỡ; họ bình thản dừng lại vài phút, vẽ lại các khối thời gian cho phần còn lại của ngày để tiếp tục làm chủ sự chú ý một cách có ý thức.",
+        "Không có bất kỳ sự khác biệt nào giữa hai người này.",
+        "Người có kỷ luật không bao giờ thay đổi bất kỳ khối thời gian nào dù có hỏa hoạn.",
+        "Kẻ độc đoán thường dùng bút màu xanh còn người kỷ luật dùng bút màu đen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mục tiêu không phải là tuân thủ lịch trình một cách mù quáng, mà là luôn duy trì ý thức về việc mình đang dùng thời gian vào việc gì thay vì để ngày trôi đi thụ động."
+    },
+    {
+      "id": "q4",
+      "question": "Để đánh giá chính xác một tác vụ cụ thể là 'Sâu' hay 'Hời hợt', Cal Newport đưa ra câu hỏi trắc nghiệm vàng nào?",
+      "options": [
+        "Tác vụ này có cần kết nối internet tốc độ cao hay không?",
+        "Sếp có trực tiếp khen ngợi khi bạn làm xong tác vụ này hay không?",
+        "Tác vụ này có tốn nhiều giấy in văn phòng hay không?",
+        "'Mất bao lâu để đào tạo một sinh viên mới tốt nghiệp đại học (thông minh nhưng chưa có chuyên môn sâu) làm được tác vụ này ở mức chấp nhận được?'"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nếu chỉ mất vài ngày hoặc vài tuần để hướng dẫn một người mới làm được (như làm slide tổng hợp, gửi email, họp lấy ý kiến), đó chắc chắn là việc hời hợt."
+    },
+    {
+      "id": "q5",
+      "question": "Nếu câu trả lời cho câu hỏi trên là 'Chỉ mất vài ngày hoặc vài tuần', thì điều đó nói lên điều gì về giá trị của tác vụ đó?",
+      "options": [
+        "Đó là công việc chỉ dành riêng cho các nhà khoa học đạt giải Nobel.",
+        "Đó là một tác vụ mang tính đột phá và quyết định vận mệnh công ty.",
+        "Đó là công việc hời hợt (Shallow Work), tạo ra rất ít giá trị thặng dư và dễ dàng bị thay thế, thuê ngoài hoặc tự động hóa trong tương lai gần.",
+        "Bạn nên dành 80% thời gian mỗi ngày cho tác vụ đó."
+      ],
+      "correctIndex": 2,
+      "explanation": "Độ khó trong việc đào tạo tỷ lệ thuận với giá trị thấu đáo của công việc; việc dễ học là việc có giá trị thị trường thấp."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao Cal Newport lại khuyên bạn nên thẳng thắn đề xuất với cấp trên về một 'Ngân sách thời gian làm việc hời hợt' (Shallow Work Budget)?",
+      "options": [
+        "Để xin phép sếp cho đi làm muộn và về sớm mỗi ngày.",
+        "Để yêu cầu công ty tăng thêm ngân sách mua sắm đồ ăn vặt.",
+        "Để làm rõ với cấp trên tỷ lệ phần trăm thời gian lý tưởng dành cho việc nông (ví dụ 30-50%), từ đó tạo ra một rào chắn chính thức giúp bạn từ chối các cuộc họp và email vô bổ.",
+        "Để chuyển toàn bộ việc khó cho đồng nghiệp khác làm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hầu hết các nhà quản lý đều muốn nhân viên tạo ra thành quả đột phá; khi bạn hỏi sếp muốn bạn dành bao nhiêu % cho việc nông, sếp sẽ nhận ra sự vô lý của các cuộc họp hành triền miên."
+    },
+    {
+      "id": "q7",
+      "question": "Chiến lược 'Năng suất theo lịch trình cố định' (Fixed-Schedule Productivity) mà Cal Newport áp dụng nghiêm ngặt cho bản thân quy định điều gì?",
+      "options": [
+        "Đặt ra một hạn chót bất di bất dịch trong ngày (ví dụ: kết thúc công việc lúc 5h30 chiều, không làm việc buổi tối và cuối tuần), sau đó làm việc ngược lại để loại bỏ mọi sự lãng phí nhằm bảo toàn hạn chót đó.",
+        "Cố định làm việc 16 tiếng mỗi ngày không kể thứ Bảy và Chủ nhật.",
+        "Chỉ làm việc khi nào thời tiết mát mẻ và trời mưa.",
+        "Lập lịch làm việc cố định cho cả 10 năm tiếp theo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rào chắn cứng 5h30 chiều buộc bạn phải cực kỳ tàn nhẫn với việc từ chối các dự án phụ vô bổ, các cuộc họp rác và việc lướt web giải trí để hoàn thành việc sâu đúng giờ."
+    },
+    {
+      "id": "q8",
+      "question": "Làm thế nào mà Newport vừa có thể xuất bản đều đặn các bài báo khoa học đỉnh cao, vừa viết sách best-seller mà vẫn luôn về nhà ăn tối lúc 5h30 chiều?",
+      "options": [
+        "Ông thuê các nhà văn khác viết hộ toàn bộ sách của mình.",
+        "Nhờ thực thi triệt để Năng suất theo lịch trình cố định: Ông tàn nhẫn nói 'KHÔNG' với hầu hết các lời mời họp vô bổ, từ chối việc nông và bảo vệ trọn vẹn các khối Deep Work mỗi sáng.",
+        "Ông không bao giờ kiểm tra hay chấm điểm bài tập của sinh viên.",
+        "Ông làm việc bí mật trong lúc ngủ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bí quyết không phải là làm thêm giờ, mà là thanh lọc không thương tiếc các hoạt động rác rưởi để dồn 100% công suất vào tác vụ cốt lõi."
+    },
+    {
+      "id": "q9",
+      "question": "Chiến lược 'Bộ lọc người gửi' (Sender Filters) trong quản trị email hoạt động như thế nào?",
+      "options": [
+        "Cài đặt phần mềm tự động xóa tất cả email gửi đến hòm thư của bạn.",
+        "Chỉ nhận email được viết bằng tiếng Latinh cổ.",
+        "Đưa ra các chỉ dẫn và kỳ vọng rõ ràng trên trang liên hệ cá nhân: người gửi phải tự nghiên cứu trước, đáp ứng các tiêu chí cụ thể và hiểu rằng bạn có thể sẽ không trả lời nếu thư không phù hợp.",
+        "Yêu cầu người gửi phải trả phí 10 đô la cho mỗi email gửi đến."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bộ lọc nâng cao ngưỡng nỗ lực của người gửi, ngăn chặn những câu hỏi lười biếng 'bạn có rảnh không' và lọc bớt 80% email rác trước khi chúng đến hộp thư."
+    },
+    {
+      "id": "q10",
+      "question": "Phương pháp 'Giao tiếp định hướng quy trình' (Process-Centric Communication) khi trả lời email có nghĩa là gì?",
+      "options": [
+        "Dùng các thuật toán AI để tự động trả lời email ngắn gọn trong 1 câu.",
+        "Khi nhận được một email yêu cầu phối hợp, thay vì trả lời qua lại nhiều lần, bạn dành thêm 2 phút suy nghĩ để vạch ra toàn bộ lộ trình từ điểm hiện tại đến khi việc hoàn tất trong MỘT EMAIL DUY NHẤT.",
+        "Chuyển tiếp toàn bộ email cho thư ký xử lý.",
+        "Luôn luôn trả lời bằng một cuộc gọi điện thoại video."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thay vì gửi 6 email qua lại 'bạn rảnh thứ mấy', 'mấy giờ', bạn chốt luôn: 'Nếu đồng ý phương án A, hãy gặp lúc 9h thứ Ba tại phòng họp; nếu không, chọn phương án B qua tài liệu này'."
+    },
+    {
+      "id": "q11",
+      "question": "Chiến lược 'Mẹo không trả lời' (The Tip of Not Responding) khuyên bạn KHÔNG NÊN trả lời những email nào?",
+      "options": [
+        "Các email có tệp đính kèm lớn hơn 5MB.",
+        "Các email mập mờ, câu hỏi không rõ ràng, đòi hỏi quá nhiều nỗ lực trả lời mà không phục vụ mục tiêu quan trọng, hoặc các email mà nếu không trả lời thì cũng chẳng có điều gì tồi tệ xảy ra.",
+        "Tất cả các email của sếp trực tiếp và ban giám đốc.",
+        "Các email gửi đến sau 12 giờ trưa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Học cách im lặng trước những email vô bổ là quyền lực tối thượng để bảo vệ tâm trí; người gửi sẽ tự tìm cách giải quyết vấn đề nếu thấy bạn không phản hồi."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao việc nói 'KHÔNG' với những dự án mới, lời mời tham gia ủy ban hay cơ hội hấp dẫn lại là phẩm chất bắt buộc của người làm việc sâu?",
+      "options": [
+        "Mỗi lời đồng ý dễ dãi với một việc hời hợt là một lời từ chối gián tiếp đối với kiệt tác mà bạn có thể tạo ra; không biết từ chối đồng nghĩa với việc tự nguyện để người khác định đoạt số phận của mình.",
+        "Vì nói không giúp bạn không bao giờ phải chịu trách nhiệm trước pháp luật.",
+        "Vì bạn sẽ bị phạt nếu nhận quá 3 dự án trong một năm.",
+        "Vì người làm việc sâu luôn có tính cách kiêu ngạo và ích kỷ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Warren Buffett từng nói: Sự khác biệt giữa người thành công và người cực kỳ thành công là người cực kỳ thành công nói 'KHÔNG' với hầu hết mọi thứ."
+    },
+    {
+      "id": "q13",
+      "question": "Một người dành 4 tiếng mỗi ngày để trả lời email và tham gia 5 cuộc họp ngắn nhưng luôn cảm thấy 'mình đang cống hiến hết mình cho công ty' thực chất đang mắc phải ảo tưởng nào?",
+      "options": [
+        "Họ nhầm lẫn giữa sự bận rộn cơ học và sự tạo ra giá trị đột phá; họ đang trở thành mắt xích thông tin dễ bị thay thế thay vì một tài sản trí tuệ vô giá.",
+        "Họ đang trên đường trở thành giám đốc điều hành xuất sắc.",
+        "Họ là người có chỉ số trí tuệ cảm xúc (EQ) cao nhất công ty.",
+        "Họ đang giúp công ty tiết kiệm chi phí vận hành văn phòng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Họ đang làm công việc của một chiếc máy định tuyến mạng; bất kỳ ai cũng có thể thay thế họ sau 2 tuần đào tạo."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao việc giới hạn thời gian làm việc (như kết thúc lúc 5h30 chiều) lại thực sự LÀM TĂNG chất lượng công việc sâu thay vì làm giảm nó?",
+      "options": [
+        "Vì ban giám đốc sẽ thưởng thêm tiền cho những người về đúng giờ.",
+        "Vì làm việc ít giờ hơn sẽ giúp máy tính không bị nóng máy.",
+        "Vì buổi tối các ý tưởng khoa học thường bị sai lệch.",
+        "Áp lực thời gian buộc não bộ phải tập trung với cường độ cao nhất, loại bỏ mọi sự chần chừ lãng phí, đồng thời đảm bảo chu kỳ phục hồi năng lượng tối ưu cho ngày hôm sau."
+      ],
+      "correctIndex": 3,
+      "explanation": "Biết rằng mình phải dừng lại lúc 5h30, bạn sẽ không dám lướt mạng nửa tiếng buổi chiều; sự khan hiếm thời gian tôn vinh giá trị của từng phút giây tập trung."
+    },
+    {
+      "id": "q15",
+      "question": "Tóm lại, mục đích cuối cùng của Quy tắc số 4: 'Loại bỏ những thứ hời hợt' là gì?",
+      "options": [
+        "Trở thành một người nhàn rỗi và không phải làm bất cứ việc gì.",
+        "Ép buộc mọi đồng nghiệp xung quanh phải làm việc theo phong cách của bạn.",
+        "Tẩy chay hoàn toàn việc sử dụng email trong toàn xã hội.",
+        "Cắt giảm và khoanh vùng công việc hời hợt xuống mức tối thiểu không thể tránh khỏi, giải phóng tối đa dung lượng thời gian và năng lượng tinh thần để đầu tư cho công việc sâu tạo ra thành tựu vĩ đại."
+      ],
+      "correctIndex": 3,
+      "explanation": "Xử lý việc nông như một thứ thuế bắt buộc phải nộp với mức tối thiểu nhất, dành toàn bộ gia tài thời gian quý báu cho việc kiến tạo giá trị sâu sắc."
+    }
+  ]
+}

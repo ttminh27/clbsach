@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { History, Headphones, Home, Info } from 'lucide-react';
+import { History, Headphones, Home, Info, HelpCircle } from 'lucide-react';
 import { useAudio } from '../../context/AudioContext';
 
 export const MobileNav: React.FC = () => {
@@ -32,6 +32,18 @@ export const MobileNav: React.FC = () => {
         >
           <Info className="h-5 w-5 mb-0.5" />
           Giới Thiệu
+        </Link>
+
+        <Link
+          to="/guide"
+          className={`flex flex-col items-center py-1 px-2.5 text-[11px] font-medium transition-colors ${
+            location.pathname === '/guide' || location.pathname === '/huong-dan'
+              ? 'text-emerald-600 dark:text-emerald-400 font-semibold'
+              : 'text-slate-500 dark:text-slate-400'
+          }`}
+        >
+          <HelpCircle className="h-5 w-5 mb-0.5" />
+          Hướng Dẫn
         </Link>
 
         <Link

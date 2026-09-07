@@ -11,6 +11,7 @@ import { ReaderPage } from './pages/ReaderPage';
 import { QuizPage } from './pages/QuizPage';
 import { HistoryPage } from './pages/HistoryPage';
 import { AboutPage } from './pages/AboutPage';
+import { GuidePage } from './pages/GuidePage';
 import { HistoryProvider } from './context/HistoryContext';
 import { AudioProvider } from './context/AudioContext';
 import { ReaderSettingsProvider } from './context/ReaderSettingsContext';
@@ -78,6 +79,8 @@ const AppLayout: React.FC = () => {
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/about" element={<AboutPage />} />
+            <Route path="/guide" element={<GuidePage />} />
+            <Route path="/huong-dan" element={<GuidePage />} />
             <Route path="/book/:bookId" element={<BookDetailPage />} />
             <Route
               path="/reader/:bookId/:chapterId"

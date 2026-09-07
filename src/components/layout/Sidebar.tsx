@@ -23,6 +23,7 @@ import {
   Pause,
   List,
   Menu,
+  HelpCircle,
 } from 'lucide-react';
 import booksData from '../../data/books-manifest.json';
 import { Book, Chapter } from '../../types/book';
@@ -473,6 +474,20 @@ export const Sidebar: React.FC<SidebarProps> = ({
                     )}
                   </div>
                 )}
+              </Link>
+
+              <Link
+                to="/guide"
+                onClick={() => window.innerWidth < 1024 && onClose()}
+                className={`flex items-center gap-3 rounded-xl px-3 py-2.5 text-xs font-semibold transition-colors ${
+                  isActive('/guide')
+                    ? 'bg-emerald-500 text-slate-950 font-bold shadow-xs'
+                    : 'text-slate-700 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
+                }`}
+                title="Hướng Dẫn Sử Dụng"
+              >
+                <HelpCircle className="h-4 w-4 shrink-0" />
+                {!isCollapsed && <span>Hướng Dẫn Sử Dụng</span>}
               </Link>
             </div>
 

@@ -1,0 +1,188 @@
+{
+  "bookId": "LamRaLamChoiRaChoi",
+  "chapterId": "01_Loi_gioi_thieu",
+  "chapterTitle": "Lời giới thiệu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Câu châm ngôn của Jack Canfield được trích dẫn ở đầu Lời giới thiệu mang hàm ý gì: 'Thành công không phải là phép màu nhiệm hay sự lừa gạt, nó chỉ đơn giản là học cách tập trung'?",
+      "options": [
+        "Những người làm việc chăm chỉ thường bị những kẻ dùng phép thuật lừa gạt.",
+        "Thành công chỉ đến với những người có năng khiếu thiên bẩm từ khi sinh ra.",
+        "Bản chất của thành công vượt trội không nằm ở bí quyết thần bí nào, mà là kỷ luật rèn luyện sự chú ý vào nhiệm vụ cốt lõi.",
+        "Tập trung là một điều vô cùng dễ dàng mà ai cũng làm được không cần học."
+      ],
+      "correctIndex": 2,
+      "explanation": "Jack Canfield chỉ ra rằng sự tập trung chính là cốt lõi nền tảng để tạo nên thành công thực tế, xóa bỏ ảo tưởng về những lối tắt hay phép màu."
+    },
+    {
+      "id": "q2",
+      "question": "Hiện tượng một người ngồi vào bàn làm việc rồi vô thức dành hàng giờ lướt Youtube, Facebook và tin tức phản ánh điều gì?",
+      "options": [
+        "Họ đang thực hiện quá trình nghiên cứu thị trường chuyên sâu.",
+        "Họ đang bị các thuật toán gây nghiện của công cụ mạng lôi kéo sự chú ý khỏi trạng thái tinh thần tối ưu.",
+        "Họ cần đổi sang một chiếc ghế làm việc mới êm ái hơn.",
+        "Họ là người có khả năng xử lý đa nhiệm xuất sắc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Công nghệ hiện đại được thiết kế có chủ đích để kích thích dopamine và bẫy sự chú ý của chúng ta, khiến việc tiến vào trạng thái tinh thần sâu trở nên vô cùng khó khăn."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao Lời giới thiệu lại khẳng định Cal Newport 'không hề đưa ra những lời khuyên xáo rỗng, mang tính lý thuyết hay giáo điều'?",
+      "options": [
+        "Vì cuốn sách của ông chỉ toàn hình ảnh minh họa không có chữ.",
+        "Vì ông chỉ viết các câu chuyện tiếu lâm giải trí.",
+        "Vì ông khuyên mọi người không cần đọc sách nữa.",
+        "Vì các khuyến nghị của ông đi ngược lại sự dễ dãi thông thường, dựa trên lý lẽ chặt chẽ và dám đề xuất những biện pháp quyết liệt như từ bỏ mạng xã hội."
+      ],
+      "correctIndex": 3,
+      "explanation": "Newport không khuyên những điều hiển nhiên vô thưởng vô phạt; ông thách thức trực diện thói quen của xã hội bằng những lập luận sắc bén và phương pháp thực chứng."
+    },
+    {
+      "id": "q4",
+      "question": "Khái niệm 'Deep Work' được giải thích ngắn gọn trong Lời giới thiệu là khả năng nào?",
+      "options": [
+        "Khả năng vừa nghe nhạc vừa trả lời email và nhắn tin cùng lúc.",
+        "Khả năng tập trung cao độ vào một nhiệm vụ khó nhằn mà không hề bị sao lãng.",
+        "Khả năng học thuộc lòng hàng trăm trang tài liệu trong một ngày.",
+        "Khả năng thức đêm để hoàn thành công việc trước hạn chót."
+      ],
+      "correctIndex": 1,
+      "explanation": "Deep work là khả năng tập trung toàn vẹn vào tác vụ đòi hỏi nhận thức cao mà không để bất kỳ yếu tố ngoại cảnh hay nội tâm nào cắt đứt mạch tư duy."
+    },
+    {
+      "id": "q5",
+      "question": "Theo Lời giới thiệu, kết quả thực tế mà việc làm chủ Deep Work mang lại cho bạn là gì?",
+      "options": [
+        "Được tăng lương ngay lập tức trong tuần đầu tiên áp dụng.",
+        "Được tất cả đồng nghiệp trên mạng xã hội ngưỡng mộ.",
+        "Tạo ra những kết quả tốt hơn trong thời gian ngắn hơn.",
+        "Không bao giờ phải đi làm việc tại văn phòng nữa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tập trung sâu đẩy năng suất và chất lượng lên tối đa, cho phép bạn hoàn thành khối lượng công việc khổng lồ trong thời lượng ít hơn hẳn."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao Lời giới thiệu khuyên rằng ngay cả khi bạn không muốn từ bỏ mạng xã hội, bạn vẫn rất nên đọc lý lẽ của Newport?",
+      "options": [
+        "Để học cách tranh cãi và chế giễu quan điểm của tác giả.",
+        "Để tìm cách hack tài khoản mạng xã hội của người khác.",
+        "Bởi vì lý lẽ của ông sẽ giúp bạn nhìn nhận rõ cái giá khổng lồ vô hình mà bạn đang phải trả cho những thú vui phân tâm hằng ngày.",
+        "Để biết cách tăng lượt thích và người theo dõi trên Instagram."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hiểu được chi phí cơ hội và tác hại thần kinh của mạng xã hội sẽ giúp bạn thức tỉnh và điều chỉnh hành vi sử dụng công nghệ một cách có ý thức."
+    },
+    {
+      "id": "q7",
+      "question": "Tình trạng 'dành cả ngày làm việc bị sao lãng bởi đám email và thông báo rồi băn khoăn mình đã làm được gì' thực chất là hệ quả của điều gì?",
+      "options": [
+        "Sự chuyển dịch vô thức từ lao động sáng tạo chủ động sang chế độ phản ứng bị động với các kích thích bên ngoài.",
+        "Do máy tính bị nhiễm virus phần mềm độc hại.",
+        "Do sếp giao quá nhiều công việc mang tính đột phá.",
+        "Do đường truyền internet của công ty quá chậm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi liên tục phản ứng với thông báo, bạn bị kéo vào dòng xoáy của người khác và đánh mất quyền làm chủ thời gian và sự chú ý của chính mình."
+    },
+    {
+      "id": "q8",
+      "question": "Điều gì tạo nên sự tương phản lớn nhất giữa một ngày làm việc 'hời hợt' và một ngày làm việc 'sâu'?",
+      "options": [
+        "Số lượng cuộc họp mà bạn đã tham gia.",
+        "Cảm giác mệt mỏi nhưng trống rỗng so với cảm giác nỗ lực tập trung và đạt được thành quả có ý nghĩa thực sự.",
+        "Số lượng email được gửi đi trong ngày.",
+        "Thời gian bạn ngồi trước màn hình vi tính."
+      ],
+      "correctIndex": 1,
+      "explanation": "Làm việc hời hợt gây kiệt sức tâm lý nhưng vô tích sự; làm việc sâu đòi hỏi năng lượng tinh thần nhưng mang lại cảm giác thỏa mãn và thành tựu rõ rệt."
+    },
+    {
+      "id": "q9",
+      "question": "Lời giới thiệu nhấn mạnh điều gì về vai trò của cuốn sách đối với người đọc hiện đại?",
+      "options": [
+        "Là một cuốn tiểu thuyết khoa học viễn tưởng thú vị.",
+        "Là một tài liệu kỹ thuật hướng dẫn cài đặt mạng máy tính nội bộ.",
+        "Là một cẩm nang thiết thực giải cứu người đọc khỏi sự phân tâm để đạt tới hiệu suất đỉnh cao.",
+        "Là một tập hợp các câu chuyện thành công làm giàu nhanh chóng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cuốn sách đóng vai trò như một phao cứu sinh dẫn đường cho những ai đang chìm đắm trong biển thông tin hỗn loạn của thế giới số."
+    },
+    {
+      "id": "q10",
+      "question": "Cụm từ 'học cách làm quen với sự hời hợt' trong Lời giới thiệu có thể được hiểu theo nghĩa tích cực nào trong phương pháp luận của Newport?",
+      "options": [
+        "Chấp nhận làm việc kém cỏi để không bị sếp giao thêm việc mới.",
+        "Nhận thức rõ ranh giới của công việc hời hợt để khoanh vùng, hạn chế và không để nó lấn át thời gian dành cho công việc sâu.",
+        "Khuyên chúng ta hãy trở thành những người sống cẩu thả và vô trách nhiệm.",
+        "Xem nhẹ mọi nguyên tắc đạo đức nghề nghiệp."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chúng ta không thể xóa bỏ 100% việc nông, nhưng phải 'nhận diện và khoanh vùng' nó để bảo vệ không gian cho việc sâu."
+    },
+    {
+      "id": "q11",
+      "question": "Theo logic của Lời giới thiệu, tại sao việc tập trung vào 'một nhiệm vụ khó nhằn' lại là chiếc chìa khóa quyết định sự nghiệp?",
+      "options": [
+        "Vì những việc dễ dàng ai cũng làm được và không mang lại giá trị khác biệt trên thị trường.",
+        "Vì nhiệm vụ khó sẽ không bao giờ cần phải kiểm tra kết quả.",
+        "Vì người làm việc khó luôn được giảm giờ làm mỗi ngày.",
+        "Vì người làm việc dễ thường bị sa thải sau 1 tuần."
+      ],
+      "correctIndex": 0,
+      "explanation": "Giá trị kinh tế tỷ lệ thuận với độ khó và tính khan hiếm của kỹ năng; giải quyết việc khó chính là nơi tạo ra thặng dư giá trị lớn nhất."
+    },
+    {
+      "id": "q12",
+      "question": "Một người cho rằng 'Tôi vừa mở Facebook vừa làm việc mà vẫn xong việc thì cần gì Deep Work' đã bỏ qua điểm cốt lõi nào?",
+      "options": [
+        "Họ đang vi phạm luật an ninh mạng quốc tế.",
+        "Facebook làm tốn pin máy tính xách tay.",
+        "Sếp của họ đang theo dõi màn hình máy tính qua camera.",
+        "Chất lượng công việc thực tế của họ đang ở mức tầm thường và họ đã mất gấp đôi thời gian so với khi tập trung trọn vẹn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự phân tâm vi mô làm giảm sút chất lượng tư duy nghiêm trọng (do hiện tượng chú ý dư thừa) mà người trong cuộc không hề hay biết."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao việc 'không nhận ra mình đã mất hàng giờ lướt mạng' lại là hiện tượng đáng sợ nhất của sự sao lãng?",
+      "options": [
+        "Vì người đó sẽ quên không ăn trưa đúng giờ.",
+        "Vì các trang mạng xã hội sẽ bị quá tải máy chủ.",
+        "Vì hóa đơn tiền điện thoại sẽ tăng lên vào cuối tháng.",
+        "Vì nó chứng minh sự xói mòn khả năng tự nhận thức và mất quyền tự chủ đối với hành vi của chính mình."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi sự phân tâm diễn ra ở mức vô thức, bạn đã đánh mất quyền kiểm soát tâm trí vào tay các thuật toán điều hướng chú ý."
+    },
+    {
+      "id": "q14",
+      "question": "Alpha Books lựa chọn phát hành cuốn sách này tại Việt Nam nhằm giải quyết vấn đề nhức nhối nào của thế hệ trẻ?",
+      "options": [
+        "Căn bệnh nghiện màn hình, mất tập trung và suy giảm năng suất làm việc trong thời đại chuyển đổi số.",
+        "Thiếu việc làm trong ngành nông nghiệp truyền thống.",
+        "Thiếu các kênh giải trí video ngắn hài hước.",
+        "Khó khăn trong việc mua sắm máy tính xách tay giá rẻ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cuốn sách là lời cảnh tỉnh và giải pháp kịp thời cho tình trạng nghiện công nghệ và suy giảm năng lực tư duy sâu của thế hệ trẻ."
+    },
+    {
+      "id": "q15",
+      "question": "Nếu phải tóm gọn tinh thần của Lời giới thiệu trong một câu khẩu hiệu hành động, câu nào sau đây chuẩn xác nhất?",
+      "options": [
+        "'Đoạn tuyệt xao nhãng, làm chủ tập trung để tạo ra kỳ tích!'",
+        "'Hãy online 24/7 để không bỏ lỡ bất kỳ cơ hội nào!'",
+        "'Làm việc nhiều hơn, ngủ ít hơn để thành triệu phú!'",
+        "'Hãy chuyển sang các công việc nhẹ nhàng để tránh căng thẳng!'"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đoạn tuyệt với sự xao nhãng và làm chủ năng lực tập trung sâu chính là chìa khóa mở cánh cửa đến những thành tựu xuất sắc."
+    }
+  ]
+}
