@@ -63,6 +63,8 @@ export interface Book {
   category: string;
   tags: string[];
   description: string;
+  authorBio?: string;
+  quote?: string;
   gradient: string;
   themeColor: string;
   status: 'available' | 'coming_soon';

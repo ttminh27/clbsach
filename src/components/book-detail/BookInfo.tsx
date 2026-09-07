@@ -1,6 +1,6 @@
 import React from 'react';
 import { Book } from '../../types/book';
-import { Info, Award, User, BookOpen, Quote } from 'lucide-react';
+import { Award, User, BookOpen, Quote } from 'lucide-react';
 
 interface BookInfoProps {
   book: Book;
@@ -28,9 +28,11 @@ export const BookInfo: React.FC<BookInfoProps> = ({ book }) => {
           <div className="font-bold text-sm text-slate-900 dark:text-white">
             {book.author}
           </div>
-          <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
-            Kỹ sư Jolly Good Fellow kỳ cựu của Google và là người sáng lập phong trào Search Inside Yourself.
-          </p>
+          {book.authorBio && (
+            <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
+              {book.authorBio}
+            </p>
+          )}
         </div>
 
         <div className="rounded-xl bg-slate-50 dark:bg-slate-800/60 p-4">
@@ -54,14 +56,16 @@ export const BookInfo: React.FC<BookInfoProps> = ({ book }) => {
         </div>
       </div>
 
-      <div className="rounded-2xl bg-emerald-50/70 dark:bg-emerald-950/20 border border-emerald-200/60 dark:border-emerald-900/30 p-5">
-        <div className="flex items-start gap-3">
-          <Quote className="h-6 w-6 text-emerald-600 dark:text-emerald-400 shrink-0 mt-0.5" />
-          <div className="text-xs sm:text-sm text-emerald-900 dark:text-emerald-200 italic leading-relaxed">
-            "Cuốn sách này và khóa học tại Google đại diện cho một trong những khía cạnh tuyệt vời nhất của văn hóa doanh nghiệp hiện đại: sự kết hợp hoàn hảo giữa khoa học não bộ, tâm lý học và thiền chánh niệm."
+      {book.quote && (
+        <div className="rounded-2xl bg-emerald-50/70 dark:bg-emerald-950/20 border border-emerald-200/60 dark:border-emerald-900/30 p-5">
+          <div className="flex items-start gap-3">
+            <Quote className="h-6 w-6 text-emerald-600 dark:text-emerald-400 shrink-0 mt-0.5" />
+            <div className="text-xs sm:text-sm text-emerald-900 dark:text-emerald-200 italic leading-relaxed">
+              "{book.quote}"
+            </div>
           </div>
         </div>
-      </div>
+      )}
     </div>
   );
 };
