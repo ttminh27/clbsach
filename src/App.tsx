@@ -25,7 +25,7 @@ declare global {
 
 const AppLayout: React.FC = () => {
   const location = useLocation();
-  const isReaderPage = location.pathname.startsWith('/reader/');
+  const isReaderPage = location.pathname.startsWith('/reader/') || location.pathname.startsWith('/read/');
   const isQuizPage = location.pathname.startsWith('/quiz/');
   const hideStandardNav = isReaderPage || isQuizPage;
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
@@ -84,6 +84,10 @@ const AppLayout: React.FC = () => {
             <Route path="/book/:bookId" element={<BookDetailPage />} />
             <Route
               path="/reader/:bookId/:chapterId"
+              element={<ReaderPage />}
+            />
+            <Route
+              path="/read/:bookId/:chapterId"
               element={<ReaderPage />}
             />
             <Route

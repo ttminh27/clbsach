@@ -29,8 +29,18 @@ export const ReaderPage: React.FC = () => {
   const [isQuizOpen, setIsQuizOpen] = useState<boolean>(false);
   const [scrollProgress, setScrollProgress] = useState<number>(0);
 
+  const cleanChapterId = chapterId ? chapterId.replace(/\.md$/i, '') : '';
   const book = books.find((b) => b.id === bookId);
-  const currentChapter = book?.chapters.find((c) => c.id === chapterId);
+  const currentChapter = book?.chapters.find(
+    (c) => c.id === cleanChapterId || c.id === chapterId || c.fileName === chapterId
+  );
+
+  // Normalize URL if chapterId has .md extension
+  useEffect(() => {
+    if (bookId && chapterId && chapterId.endsWith('.md') && currentChapter) {
+      navigate(`/reader/${bookId}/${currentChapter.id}`, { replace: true });
+    }
+  }, [bookId, chapterId, currentChapter, navigate]);
 
   // Initialize Web Speech TTS hook
   const tts = useTextToSpeech({
@@ -98,14 +108,23 @@ export const ReaderPage: React.FC = () => {
         setError(err.message || 'Lỗi tải nội dung chương.');
         setLoading(false);
       });
-  }, [bookId, chapterId]);
+  }, [bookId, currentChapter?.id]);
 
-  // Refresh TTS paragraphs once content is rendered
+  // Refresh TTS paragraphs & handle anchor hash once content is rendered
   useEffect(() => {
     if (!loading && content) {
       // Small timeout to allow ReactMarkdown DOM rendering to finalize
       const timer = setTimeout(() => {
         tts.collectParagraphsFromDOM();
+
+        // If URL has a hash anchor, scroll smoothly to target element
+        if (window.location.hash) {
+          const targetId = window.location.hash.slice(1);
+          const el = document.getElementById(targetId);
+          if (el) {
+            el.scrollIntoView({ behavior: 'smooth' });
+          }
+        }
       }, 200);
       return () => clearTimeout(timer);
     }

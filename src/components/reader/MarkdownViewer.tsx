@@ -1,8 +1,25 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import { X, ZoomIn, Volume2 } from 'lucide-react';
+
+const getSlug = (children: React.ReactNode): string | undefined => {
+  const extractText = (node: any): string => {
+    if (!node) return '';
+    if (typeof node === 'string' || typeof node === 'number') return String(node);
+    if (Array.isArray(node)) return node.map(extractText).join('');
+    if (node?.props?.children) return extractText(node.props.children);
+    return '';
+  };
+  const text = extractText(children).trim();
+  if (!text) return undefined;
+  return text
+    .toLowerCase()
+    .replace(/[^\w\s\u00C0-\u1EF9-]/g, '')
+    .replace(/\s+/g, '-');
+};
 
 interface MarkdownViewerProps {
   content: string;
@@ -19,6 +36,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
   isTTSSpeaking = false,
   onReadFromIndex,
 }) => {
+  const navigate = useNavigate();
   const { settings } = useReaderSettings();
   const [zoomImage, setZoomImage] = useState<{ src: string; alt: string } | null>(null);
 
@@ -78,9 +96,11 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
             h1: ({ node, ...props }) => {
               const idx = blockCounter++;
               const isActive = isTTSSpeaking && currentTTSIndex === idx;
+              const headingId = props.id || getSlug(props.children);
               return (
                 <div className="group relative">
                   <h1
+                    id={headingId}
                     data-tts-block={idx}
                     className={`mt-6 mb-6 text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900 dark:text-white border-b pb-4 border-slate-200 dark:border-slate-800 font-sans transition-all duration-300 ${
                       isActive
@@ -106,9 +126,11 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
             h2: ({ node, ...props }) => {
               const idx = blockCounter++;
               const isActive = isTTSSpeaking && currentTTSIndex === idx;
+              const headingId = props.id || getSlug(props.children);
               return (
                 <div className="group relative">
                   <h2
+                    id={headingId}
                     data-tts-block={idx}
                     className={`mt-10 mb-4 text-xl sm:text-2xl font-bold tracking-tight text-emerald-800 dark:text-emerald-400 font-sans transition-all duration-300 ${
                       isActive
@@ -134,9 +156,11 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
             h3: ({ node, ...props }) => {
               const idx = blockCounter++;
               const isActive = isTTSSpeaking && currentTTSIndex === idx;
+              const headingId = props.id || getSlug(props.children);
               return (
                 <div className="group relative">
                   <h3
+                    id={headingId}
                     data-tts-block={idx}
                     className={`mt-8 mb-3 text-lg sm:text-xl font-semibold text-slate-800 dark:text-slate-200 font-sans transition-all duration-300 ${
                       isActive
@@ -294,15 +318,90 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
               <td className="border-t border-slate-200 dark:border-slate-800 px-4 py-3" {...props} />
             ),
             // Custom Links
-            a: ({ node, href, ...props }) => (
-              <a
-                href={href}
-                className="text-emerald-600 dark:text-emerald-400 font-medium underline underline-offset-4 hover:text-emerald-500"
-                target={href?.startsWith('http') ? '_blank' : undefined}
-                rel={href?.startsWith('http') ? 'noopener noreferrer' : undefined}
-                {...props}
-              />
-            ),
+            a: ({ node, href, children, ...props }) => {
+              if (!href) {
+                return <span {...props}>{children}</span>;
+              }
+
+              // External links
+              if (
+                href.startsWith('http://') ||
+                href.startsWith('https://') ||
+                href.startsWith('mailto:') ||
+                href.startsWith('tel:')
+              ) {
+                return (
+                  <a
+                    href={href}
+                    className="text-emerald-600 dark:text-emerald-400 font-medium underline underline-offset-4 hover:text-emerald-500"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    {...props}
+                  >
+                    {children}
+                  </a>
+                );
+              }
+
+              // In-page hash anchor link (e.g. "#phan-1")
+              if (href.startsWith('#')) {
+                const targetHash = href.slice(1);
+                return (
+                  <a
+                    href={href}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      const targetEl = document.getElementById(targetHash);
+                      if (targetEl) {
+                        targetEl.scrollIntoView({ behavior: 'smooth' });
+                        window.history.pushState(null, '', href);
+                      }
+                    }}
+                    className="text-emerald-600 dark:text-emerald-400 font-medium underline underline-offset-4 hover:text-emerald-500 cursor-pointer"
+                    {...props}
+                  >
+                    {children}
+                  </a>
+                );
+              }
+
+              // Root-relative internal links (e.g. "/read/...")
+              if (href.startsWith('/')) {
+                return (
+                  <a
+                    href={href}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      navigate(href);
+                    }}
+                    className="text-emerald-600 dark:text-emerald-400 font-medium underline underline-offset-4 hover:text-emerald-500"
+                    {...props}
+                  >
+                    {children}
+                  </a>
+                );
+              }
+
+              // Internal chapter links (e.g. "chuong_01.md", "./01_Chuong_1.md", "02_chuong_2.md#phan-1")
+              const [rawFile, hash] = href.split('#');
+              const cleanFileName = rawFile.replace(/^\.\//, '').trim();
+              const targetChapterId = cleanFileName.replace(/\.md$/i, '');
+              const resolvedUrl = `/reader/${bookId}/${targetChapterId}${hash ? `#${hash}` : ''}`;
+
+              return (
+                <a
+                  href={resolvedUrl}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    navigate(resolvedUrl);
+                  }}
+                  className="text-emerald-600 dark:text-emerald-400 font-medium underline underline-offset-4 hover:text-emerald-500"
+                  {...props}
+                >
+                  {children}
+                </a>
+              );
+            },
           }}
         >
           {content}
