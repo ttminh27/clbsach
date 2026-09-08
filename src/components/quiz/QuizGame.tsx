@@ -11,12 +11,15 @@ import {
   X, 
   Lightbulb, 
   ChevronRight,
-  Eye
+  Eye,
+  MessageSquare
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { ChapterQuiz, QuizQuestion, Book, Chapter } from '../../types/book';
 import { useQuiz } from '../../context/QuizContext';
 import { trackCompleteQuiz } from '../../utils/analytics';
+import { CommentSection } from '../interaction/CommentSection';
+import { ReactionButton } from '../interaction/ReactionButton';
 
 interface QuizGameProps {
   quiz: ChapterQuiz;
@@ -39,6 +42,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
   const [isAnswered, setIsAnswered] = useState<boolean>(false);
   const [isCompleted, setIsCompleted] = useState<boolean>(false);
   const [isReviewMode, setIsReviewMode] = useState<boolean>(false);
+  const [openQuestionDiscussions, setOpenQuestionDiscussions] = useState<Record<string, boolean>>({});
 
   const existingResult = getQuizResult(book.id, chapter.id);
   const questions: QuizQuestion[] = quiz.questions || [];
@@ -164,7 +168,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
       };
     } else if (percent < 80) {
       feedback = {
-        badge: '🌟 ĐỘC GIẢ THÔNG THÁI',
+        badge: '🌟 ĐỌC GIẢ THÔNG THÁI',
         badgeColor: 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950/60 dark:text-emerald-300 border-emerald-300 dark:border-emerald-800',
         title: 'Rất Tốt! Bạn hiểu vững nội dung trọng tâm!',
         desc: 'Bạn đã nắm được các nguyên lý cốt lõi của chương. Hãy xem lại một vài câu chưa đúng để hoàn thiện kiến thức.',
@@ -388,6 +392,61 @@ export const QuizGame: React.FC<QuizGameProps> = ({
             <p className="text-xs sm:text-sm text-slate-700 dark:text-slate-300 leading-relaxed">
               {currentQuestion.explanation}
             </p>
+          </div>
+        )}
+
+        {/* Question Reactions & Discussion Toggle */}
+        {(isAnswered || isReviewMode) && (
+          <div className="mt-4 flex flex-col gap-3">
+            <div className="flex items-center justify-between gap-3 flex-wrap rounded-2xl bg-slate-100/70 dark:bg-slate-800/60 p-3 border border-slate-200/60 dark:border-slate-800">
+              <div className="flex items-center gap-2">
+                <span className="text-[11px] font-bold text-slate-500 dark:text-slate-400">
+                  Cảm xúc câu hỏi:
+                </span>
+                <ReactionButton
+                  targetType="quiz_question"
+                  targetId={`${book.id}:${chapter.id}:${currentQuestion.id}`}
+                  counts={{}}
+                  userReactions={[]}
+                  size="sm"
+                />
+              </div>
+
+              <button
+                type="button"
+                onClick={() => {
+                  setOpenQuestionDiscussions((prev) => ({
+                    ...prev,
+                    [currentQuestion.id]: !prev[currentQuestion.id],
+                  }));
+                }}
+                className="inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 px-3 py-1.5 text-xs font-bold text-slate-700 dark:text-slate-200 hover:border-emerald-400 dark:hover:border-emerald-500 transition-all shadow-2xs"
+              >
+                <MessageSquare className="h-3.5 w-3.5 text-emerald-600 dark:text-emerald-400" />
+                <span>
+                  {openQuestionDiscussions[currentQuestion.id]
+                    ? 'Đóng thảo luận'
+                    : 'Thảo luận câu hỏi này'}
+                </span>
+              </button>
+            </div>
+
+            {/* Accordion Discussion Box */}
+            {openQuestionDiscussions[currentQuestion.id] && (
+              <div className="animate-in fade-in slide-in-from-top-2 duration-200">
+                <CommentSection
+                  targetType="quiz_question"
+                  targetId={`${book.id}:${chapter.id}:${currentQuestion.id}`}
+                  bookId={book.id}
+                  chapterId={chapter.id}
+                  questionId={currentQuestion.id}
+                  title="Thảo Luận Câu Hỏi"
+                  subtitle="Chia sẻ cách suy luận, giải thích đáp án hoặc góp ý"
+                  showReactionDock={false}
+                  className="p-4 sm:p-5"
+                />
+              </div>
+            )}
           </div>
         )}
 

@@ -17,9 +17,11 @@ import {
   Check,
   Sparkles,
   Volume2,
+  MessageSquare,
 } from 'lucide-react';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import { useAudio } from '../../context/AudioContext';
+import { UserDropdown } from '../auth/UserDropdown';
 import { Book, Chapter } from '../../types/book';
 
 interface ReaderToolbarProps {
@@ -30,6 +32,7 @@ interface ReaderToolbarProps {
   isTTSActive?: boolean;
   isTTSSpeaking?: boolean;
   onToggleTTS?: () => void;
+  onOpenDiscussion?: () => void;
 }
 
 export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
@@ -40,6 +43,7 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
   isTTSActive = false,
   isTTSSpeaking = false,
   onToggleTTS,
+  onOpenDiscussion,
 }) => {
   const { settings, setTheme, setFontSize, setLineHeight, setFontFamily, setTextAlign, setMaxWidth, toggleBionicReading } =
     useReaderSettings();
@@ -275,7 +279,7 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
                           : 'border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-800'
                       }`}
                     >
-                      Serif (Lora)
+                      Serif (Sách)
                     </button>
                     <button
                       onClick={() => setFontFamily('sans')}
@@ -391,6 +395,21 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
               </div>
             )}
           </div>
+
+          {/* Discussion Trigger Button */}
+          {onOpenDiscussion && (
+            <button
+              onClick={onOpenDiscussion}
+              className="flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-all"
+              title="Mở bảng thảo luận chương sách"
+            >
+              <MessageSquare className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+              <span className="hidden md:inline">Thảo luận</span>
+            </button>
+          )}
+
+          {/* User Profile / Login Dropdown */}
+          <UserDropdown />
         </div>
       </div>
     </div>

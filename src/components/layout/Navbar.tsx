@@ -1,7 +1,9 @@
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
-import { BookOpen, Search, Moon, Sun, Library, X, Info, History, Menu, HelpCircle } from 'lucide-react';
+import { BookOpen, Search, Moon, Sun, Library, X, Info, History, Menu, HelpCircle, Shield } from 'lucide-react';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
+import { useAuth } from '../../context/AuthContext';
+import { UserDropdown } from '../auth/UserDropdown';
 import booksData from '../../data/books-manifest.json';
 import { Book } from '../../types/book';
 
@@ -18,6 +20,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onToggleSidebar, isSidebarCollap
   const location = useLocation();
   const navigate = useNavigate();
   const { settings, setTheme } = useReaderSettings();
+  const { user } = useAuth();
   const searchInputRef = useRef<HTMLInputElement>(null);
 
   const isDarkMode = settings.theme === 'dark' || settings.theme === 'oled';
@@ -121,6 +124,19 @@ export const Navbar: React.FC<NavbarProps> = ({ onToggleSidebar, isSidebarCollap
               <History className="h-4 w-4" />
               Lịch Sử Đọc
             </Link>
+            {user?.role === 'admin' && (
+              <Link
+                to="/admin"
+                className={`flex items-center gap-1.5 rounded-xl px-3.5 py-2 text-xs font-semibold transition-colors ${
+                  location.pathname === '/admin'
+                    ? 'bg-amber-50 text-amber-700 dark:bg-amber-950/50 dark:text-amber-400 font-bold'
+                    : 'text-amber-700 dark:text-amber-400 hover:bg-amber-50/60 dark:hover:bg-amber-950/40'
+                }`}
+              >
+                <Shield className="h-4 w-4 text-amber-600 dark:text-amber-400" />
+                Quản Trị
+              </Link>
+            )}
           </nav>
 
           {/* Right Actions */}
@@ -143,6 +159,9 @@ export const Navbar: React.FC<NavbarProps> = ({ onToggleSidebar, isSidebarCollap
             >
               {isDarkMode ? <Sun className="h-5 w-5 text-amber-400" /> : <Moon className="h-5 w-5" />}
             </button>
+
+            {/* User Dropdown / Login Button */}
+            <UserDropdown />
           </div>
         </div>
       </header>

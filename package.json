@@ -4,7 +4,13 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "concurrently -k -n \"FUNCTIONS,VITE\" -c \"magenta,cyan\" \"npm run dev:functions\" \"npm run dev:vite\"",
+    "dev:functions": "wrangler pages dev functions --ip 0.0.0.0 --port 8788 --d1 DB=clbsach_db",
+    "dev:vite": "vite --host 0.0.0.0 --port 3000",
+    "dev:remote": "VITE_REMOTE_API=1 vite --host 0.0.0.0 --port 3000",
+    "db:init": "wrangler d1 execute clbsach_db --local --file=./scripts/schema.sql",
+    "db:init:remote": "wrangler d1 execute clbsach_db --remote --file=./scripts/schema.sql",
+    "reset-password": "node scripts/reset-password.mjs",
     "build": "node scripts/scan-books.mjs && tsc && vite build",
     "scan": "node scripts/scan-books.mjs",
     "preview": "vite preview"
@@ -21,12 +27,14 @@
     "tailwind-merge": "^3.6.0"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^5.20260908.1",
     "@tailwindcss/vite": "^4.3.3",
     "@types/canvas-confetti": "^1.9.0",
     "@types/node": "^26.2.0",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.4",
     "@vitejs/plugin-react": "^6.1.0",
+    "concurrently": "^10.0.5",
     "tailwindcss": "^4.3.3",
     "typescript": "^7.0.2",
     "vite": "^8.2.2"

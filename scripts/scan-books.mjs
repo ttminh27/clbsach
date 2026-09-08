@@ -202,7 +202,7 @@ if (!fs.existsSync(publicBooksDir)) {
 // Find all book directories
 const entries = fs.readdirSync(rootDir, { withFileTypes: true });
 const bookDirs = entries
-  .filter(e => e.isDirectory() && !e.name.startsWith('.') && !['node_modules', 'public', 'src', 'scripts', 'dist'].includes(e.name))
+  .filter(e => e.isDirectory() && !e.name.startsWith('.') && !['node_modules', 'public', 'src', 'scripts', 'dist', 'functions'].includes(e.name))
   .map(e => e.name);
 
 console.log(`Found ${bookDirs.length} potential book folders:`, bookDirs);

@@ -26,9 +26,23 @@ echo "🔍 Đang quét danh mục sách & audio..."
 npm run scan
 
 # 3. Khởi động server
-echo "🚀 Đang khởi chạy web server..."
-echo "👉 Truy cập tại: http://localhost:3000"
-echo "👉 Nhấn Ctrl+C để dừng server."
-echo "------------------------------------------"
+if [ "$1" = "--remote" ]; then
+  echo "🌐 Đang khởi chạy web server kết nối Database REMOTE (https://clbsach.pages.dev)..."
+  echo "👉 Truy cập tại: http://localhost:3000"
+  echo "👉 Nhấn Ctrl+C để dừng server."
+  echo "------------------------------------------"
+  npm run dev:remote
+else
+  # 2.5 Kiểm tra và khởi tạo database D1 local
+  if [ ! -d ".wrangler/state/v3/d1" ]; then
+    echo "🗄️ Đang khởi tạo database Cloudflare D1 cục bộ..."
+    npm run db:init
+  fi
 
-npm run dev
+  echo "🚀 Đang khởi chạy web server (Local Database)..."
+  echo "👉 Truy cập tại: http://localhost:3000"
+  echo "👉 Nhấn Ctrl+C để dừng server."
+  echo "------------------------------------------"
+  npm run dev
+fi
+

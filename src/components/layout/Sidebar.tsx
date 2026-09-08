@@ -24,12 +24,14 @@ import {
   List,
   Menu,
   HelpCircle,
+  Shield,
 } from 'lucide-react';
 import booksData from '../../data/books-manifest.json';
 import { Book, Chapter } from '../../types/book';
 import { useHistory } from '../../context/HistoryContext';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import { useAudio } from '../../context/AudioContext';
+import { useAuth } from '../../context/AuthContext';
 
 const books: Book[] = booksData as Book[];
 
@@ -51,6 +53,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
   const { history } = useHistory();
   const { settings, setTheme } = useReaderSettings();
   const { playTrack, togglePlay, currentTrack, isPlaying, setIsAudioBarVisible } = useAudio();
+  const { user } = useAuth();
   const [searchFilter, setSearchFilter] = useState('');
   const [readerTab, setReaderTab] = useState<'chapters' | 'audios'>('chapters');
 
@@ -489,6 +492,29 @@ export const Sidebar: React.FC<SidebarProps> = ({
                 <HelpCircle className="h-4 w-4 shrink-0" />
                 {!isCollapsed && <span>Hướng Dẫn Sử Dụng</span>}
               </Link>
+
+              {user?.role === 'admin' && (
+                <Link
+                  to="/admin"
+                  onClick={() => window.innerWidth < 1024 && onClose()}
+                  className={`flex items-center gap-3 rounded-xl px-3 py-2.5 text-xs font-semibold transition-colors ${
+                    isActive('/admin')
+                      ? 'bg-amber-500 text-slate-950 font-bold shadow-xs'
+                      : 'text-amber-700 dark:text-amber-400 hover:bg-amber-50 dark:hover:bg-amber-950/40'
+                  }`}
+                  title="Trung Tâm Quản Trị"
+                >
+                  <Shield className="h-4 w-4 shrink-0 text-amber-600 dark:text-amber-400" />
+                  {!isCollapsed && (
+                    <div className="flex flex-1 items-center justify-between">
+                      <span>Quản Trị CLB</span>
+                      <span className="rounded-md bg-amber-200 dark:bg-amber-900/60 text-amber-900 dark:text-amber-300 px-1.5 py-0.2 text-[9px] font-extrabold uppercase">
+                        Admin
+                      </span>
+                    </div>
+                  )}
+                </Link>
+              )}
             </div>
 
             {/* Books List Header & Filter */}

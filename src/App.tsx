@@ -12,10 +12,13 @@ import { QuizPage } from './pages/QuizPage';
 import { HistoryPage } from './pages/HistoryPage';
 import { AboutPage } from './pages/AboutPage';
 import { GuidePage } from './pages/GuidePage';
+import { AdminPage } from './pages/AdminPage';
 import { HistoryProvider } from './context/HistoryContext';
 import { AudioProvider } from './context/AudioContext';
 import { ReaderSettingsProvider } from './context/ReaderSettingsContext';
 import { QuizProvider } from './context/QuizContext';
+import { AuthProvider } from './context/AuthContext';
+import { AuthModal } from './components/auth/AuthModal';
 
 declare global {
   interface Window {
@@ -95,6 +98,7 @@ const AppLayout: React.FC = () => {
               element={<QuizPage />}
             />
             <Route path="/history" element={<HistoryPage />} />
+            <Route path="/admin" element={<AdminPage />} />
             <Route path="*" element={<HomePage />} />
           </Routes>
         </main>
@@ -104,23 +108,26 @@ const AppLayout: React.FC = () => {
 
       <FloatingAudioBar isSidebarCollapsed={isSidebarCollapsed} />
       <AudioModal />
+      <AuthModal />
     </div>
   );
 };
 
 export function App() {
   return (
-    <HistoryProvider>
-      <AudioProvider>
-        <ReaderSettingsProvider>
-          <QuizProvider>
-            <Router>
-              <AppLayout />
-            </Router>
-          </QuizProvider>
-        </ReaderSettingsProvider>
-      </AudioProvider>
-    </HistoryProvider>
+    <AuthProvider>
+      <HistoryProvider>
+        <AudioProvider>
+          <ReaderSettingsProvider>
+            <QuizProvider>
+              <Router>
+                <AppLayout />
+              </Router>
+            </QuizProvider>
+          </ReaderSettingsProvider>
+        </AudioProvider>
+      </HistoryProvider>
+    </AuthProvider>
   );
 }
 

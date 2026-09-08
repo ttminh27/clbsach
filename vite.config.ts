@@ -2,6 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 import path from 'node:path';
+import https from 'node:https';
 import { fileURLToPath } from 'node:url';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -40,6 +41,23 @@ export default defineConfig({
   server: {
     port: 3000,
     host: '0.0.0.0',
-    allowedHosts: true
+    allowedHosts: true,
+    proxy: {
+      '/api': {
+        target: process.env.VITE_REMOTE_API === '1' ? 'https://clbsach.pages.dev' : 'http://127.0.0.1:8788',
+        changeOrigin: true,
+        secure: true,
+        agent: process.env.VITE_REMOTE_API === '1' ? new https.Agent({ keepAlive: false }) : undefined,
+        configure: (proxy) => {
+          proxy.on('error', (err, _req, res: any) => {
+            console.error('[Vite Proxy Error]', err.message);
+            if (res && !res.headersSent && typeof res.writeHead === 'function') {
+              res.writeHead(502, { 'Content-Type': 'application/json' });
+              res.end(JSON.stringify({ error: 'Proxy error: ' + err.message }));
+            }
+          });
+        },
+      },
+    },
   }
 });

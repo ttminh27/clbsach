@@ -6,6 +6,8 @@ import { TableOfContentsDrawer } from '../components/reader/TableOfContentsDrawe
 import { ChapterNavigation } from '../components/reader/ChapterNavigation';
 import { QuizModal } from '../components/quiz/QuizModal';
 import { TTSPlayerBar } from '../components/reader/TTSPlayerBar';
+import { CommentSection } from '../components/interaction/CommentSection';
+import { ChapterDiscussionDrawer } from '../components/interaction/ChapterDiscussionDrawer';
 import booksData from '../data/books-manifest.json';
 import { Book, Chapter } from '../types/book';
 import { useHistory } from '../context/HistoryContext';
@@ -27,6 +29,7 @@ export const ReaderPage: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [isTOCDrawerOpen, setIsTOCDrawerOpen] = useState<boolean>(false);
   const [isQuizOpen, setIsQuizOpen] = useState<boolean>(false);
+  const [isDiscussionDrawerOpen, setIsDiscussionDrawerOpen] = useState<boolean>(false);
   const [scrollProgress, setScrollProgress] = useState<number>(0);
 
   const cleanChapterId = chapterId ? chapterId.replace(/\.md$/i, '') : '';
@@ -88,7 +91,7 @@ export const ReaderPage: React.FC = () => {
         return res.text();
       })
       .then((text) => {
-        setContent(text);
+        setContent(text.normalize('NFC'));
         setLoading(false);
 
         // Save to reading history
@@ -219,6 +222,7 @@ export const ReaderPage: React.FC = () => {
         isTTSActive={tts.isPlayerVisible}
         isTTSSpeaking={tts.isPlaying}
         onToggleTTS={handleToggleTTS}
+        onOpenDiscussion={() => setIsDiscussionDrawerOpen(true)}
       />
 
       {/* Main Chapter Content */}
@@ -249,6 +253,18 @@ export const ReaderPage: React.FC = () => {
               currentChapter={currentChapter}
               onOpenQuiz={() => setIsQuizOpen(true)}
             />
+
+            {/* Discussion & Reactions on this Chapter */}
+            <div className="mx-auto max-w-3xl px-4 sm:px-6 pb-16">
+              <CommentSection
+                targetType="chapter"
+                targetId={`${book.id}:${currentChapter.id}`}
+                bookId={book.id}
+                chapterId={currentChapter.id}
+                title="Thảo Luận & Cảm Nghĩ Chương Sách"
+                subtitle={`Chia sẻ bài học tâm đắc hoặc góc nhìn của bạn về "${currentChapter.title}"`}
+              />
+            </div>
           </>
         )}
       </main>
@@ -307,6 +323,16 @@ export const ReaderPage: React.FC = () => {
         chapter={currentChapter}
         isOpen={isQuizOpen}
         onClose={() => setIsQuizOpen(false)}
+      />
+
+      {/* Chapter Discussion Drawer */}
+      <ChapterDiscussionDrawer
+        isOpen={isDiscussionDrawerOpen}
+        onClose={() => setIsDiscussionDrawerOpen(false)}
+        bookId={book.id}
+        chapterId={currentChapter.id}
+        bookTitle={book.title}
+        chapterTitle={currentChapter.title}
       />
     </div>
   );
