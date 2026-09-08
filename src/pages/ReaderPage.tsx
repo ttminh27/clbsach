@@ -37,14 +37,14 @@ export const ReaderPage: React.FC = () => {
   const getMaxWidthClass = () => {
     switch (settings.maxWidth) {
       case 'narrow':
-        return 'max-w-3xl';
+        return 'max-w-2xl';
       case 'wide':
-        return 'max-w-6xl';
+        return 'max-w-4xl';
       case 'full':
-        return 'max-w-7xl';
+        return 'max-w-6xl';
       case 'medium':
       default:
-        return 'max-w-5xl';
+        return 'max-w-3xl';
     }
   };
 
@@ -344,7 +344,7 @@ export const ReaderPage: React.FC = () => {
   }
 
   return (
-    <div className="min-h-screen pb-28">
+    <div className="min-h-screen pb-28 w-full max-w-full overflow-x-hidden">
       {/* Reader Toolbar */}
       <ReaderToolbar
         book={book}

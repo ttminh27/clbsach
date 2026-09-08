@@ -244,52 +244,64 @@ export const Sidebar: React.FC<SidebarProps> = ({
                     );
                   }
 
-                  return (
-                    <button
-                      key={chapter.id}
-                      onClick={() => handleChapterClick(chapter.id)}
-                      className={`group flex w-full items-center gap-3 rounded-xl p-2.5 text-left transition-all ${
-                        isCurrent
-                          ? 'bg-emerald-500 text-slate-950 font-bold shadow-xs'
-                          : isCompleted
-                          ? 'text-slate-700 hover:bg-emerald-50 dark:text-slate-300 dark:hover:bg-emerald-950/30'
-                          : 'text-slate-700 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
-                      }`}
-                    >
-                      <span
-                        className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-lg text-[10px] font-bold ${
+                    return (
+                      <button
+                        key={chapter.id}
+                        onClick={() => handleChapterClick(chapter.id)}
+                        title={chapter.title}
+                        className={`group flex w-full items-start gap-3 rounded-xl p-2.5 text-left transition-all ${
                           isCurrent
-                            ? 'bg-slate-950 text-emerald-400'
+                            ? 'bg-emerald-500 text-slate-950 font-bold shadow-xs'
                             : isCompleted
-                            ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300'
-                            : 'bg-slate-100 text-slate-500 dark:bg-slate-800 dark:text-slate-400'
+                            ? 'text-slate-800 hover:bg-emerald-50/80 dark:text-slate-200 dark:hover:bg-emerald-950/40'
+                            : 'text-slate-700 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
                         }`}
                       >
-                        {isCompleted ? <CheckCircle2 className="h-3.5 w-3.5" /> : idx + 1}
-                      </span>
-
-                      <div className="min-w-0 flex-1">
-                        <div className="flex items-center gap-1.5">
-                          <p className="truncate text-xs font-semibold">
-                            {chapter.title}
-                          </p>
-                        </div>
-                        <p
-                          className={`text-[10px] truncate mt-0.5 ${
-                            isCurrent ? 'text-slate-900/80 font-medium' : 'text-slate-400'
+                        <span
+                          className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-lg text-[10px] font-bold mt-0.5 ${
+                            isCurrent
+                              ? 'bg-slate-950 text-emerald-400'
+                              : isCompleted
+                              ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300 ring-1 ring-emerald-500/30'
+                              : 'bg-slate-100 text-slate-500 dark:bg-slate-800 dark:text-slate-400'
                           }`}
                         >
-                          ~{chapter.readingTimeMin}p • {chapter.wordCount} từ
-                        </p>
-                      </div>
-
-                      {isCurrent && (
-                        <span className="shrink-0 rounded bg-slate-950 px-1.5 py-0.2 text-[9px] font-bold text-white">
-                          Đang đọc
+                          {isCompleted ? <CheckCircle2 className="h-3.5 w-3.5 text-emerald-600 dark:text-emerald-400" /> : idx + 1}
                         </span>
-                      )}
-                    </button>
-                  );
+
+                        <div className="min-w-0 flex-1">
+                          <p className={`line-clamp-2 text-xs font-semibold leading-snug break-words ${
+                            isCurrent
+                              ? 'text-slate-950'
+                              : isCompleted
+                              ? 'text-slate-800 dark:text-slate-200'
+                              : 'text-slate-700 dark:text-slate-300'
+                          }`}>
+                            {chapter.title}
+                          </p>
+                          <div className="flex items-center gap-2 mt-1">
+                            <p
+                              className={`text-[10px] truncate ${
+                                isCurrent ? 'text-slate-900/80 font-medium' : 'text-slate-400 dark:text-slate-400'
+                              }`}
+                            >
+                              ~{chapter.readingTimeMin}p • {chapter.wordCount} từ
+                            </p>
+                            {isCompleted && !isCurrent && (
+                              <span className="inline-flex items-center text-[9px] font-semibold text-emerald-600 dark:text-emerald-400">
+                                Đã đọc
+                              </span>
+                            )}
+                          </div>
+                        </div>
+
+                        {isCurrent && (
+                          <span className="shrink-0 rounded-md bg-slate-950 px-1.5 py-0.5 text-[9px] font-bold text-white mt-0.5">
+                            Đang đọc
+                          </span>
+                        )}
+                      </button>
+                    );
                 })
               ) : (
                 /* Audio Playlist Items */

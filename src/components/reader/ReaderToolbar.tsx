@@ -74,29 +74,21 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
       </div>
 
       <div className="mx-auto flex h-14 max-w-7xl items-center justify-between px-2 sm:px-6 w-full">
-        {/* Left: Home, Back & TOC */}
+        {/* Left: Back to Book Detail & Mobile TOC button */}
         <div className="flex items-center gap-1 sm:gap-2 shrink-0">
           <Link
-            to="/"
-            className="hidden sm:flex items-center gap-1.5 rounded-lg p-2 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-colors"
-            title="Về Trang chủ"
-          >
-            <Home className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
-            <span>Trang chủ</span>
-          </Link>
-
-          <Link
             to={`/book/${book.id}`}
-            className="flex items-center gap-1 rounded-lg p-2 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-colors"
+            className="flex items-center gap-1.5 rounded-lg p-2 text-xs font-semibold text-slate-700 hover:bg-slate-100 dark:text-slate-200 dark:hover:bg-slate-800 transition-colors"
             title="Quay lại chi tiết sách"
           >
-            <ArrowLeft className="h-4 w-4" />
+            <ArrowLeft className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
             <span className="hidden sm:inline">Chi tiết sách</span>
           </Link>
 
+          {/* On Desktop, left sidebar already shows TOC. Only show TOC drawer button on mobile/tablet */}
           <button
             onClick={onOpenTOC}
-            className="flex items-center gap-1 sm:gap-1.5 rounded-lg bg-emerald-50 hover:bg-emerald-100 text-emerald-800 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/60 dark:text-emerald-300 px-2 sm:px-3 py-1.5 text-xs font-semibold transition-colors shrink-0"
+            className="lg:hidden flex items-center gap-1 sm:gap-1.5 rounded-lg bg-emerald-50 hover:bg-emerald-100 text-emerald-800 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/60 dark:text-emerald-300 px-2 sm:px-2.5 py-1.5 text-xs font-semibold transition-colors shrink-0"
             title="Mở mục lục các chương"
           >
             <List className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
@@ -105,13 +97,19 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
           </button>
         </div>
 
-        {/* Center: Chapter title truncate */}
-        <div className="hidden md:block max-w-sm text-center truncate px-2">
-          <p className="text-xs font-semibold text-slate-800 dark:text-slate-200 truncate">
+        {/* Center: Book & Chapter title with reading progress */}
+        <div className="hidden md:flex flex-col items-center justify-center max-w-sm lg:max-w-md text-center px-2">
+          <div className="flex items-center gap-1.5 text-[11px]">
+            <span className="font-bold uppercase tracking-wider text-slate-400 dark:text-slate-400 truncate max-w-[160px]">
+              {book.title}
+            </span>
+            <span className="text-slate-300 dark:text-slate-600">•</span>
+            <span className="inline-flex items-center gap-1 px-1.5 py-0.2 rounded-full text-[10px] font-semibold bg-emerald-50 dark:bg-emerald-950/60 text-emerald-600 dark:text-emerald-400">
+              Tiến độ {Math.round(scrollProgress)}%
+            </span>
+          </div>
+          <p className="text-xs font-bold text-slate-800 dark:text-slate-200 truncate max-w-sm">
             {currentChapter.title}
-          </p>
-          <p className="text-[10px] text-slate-400">
-            Tiến độ: {Math.round(scrollProgress)}%
           </p>
         </div>
 
@@ -129,17 +127,19 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
               title="Tìm kiếm trong chương này (Ctrl+F)"
             >
               <Search className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
-              <span className="hidden sm:inline">Tìm kiếm</span>
+              <span className="hidden lg:inline">Tìm kiếm</span>
             </button>
           )}
 
-          {/* Chapter Copy to Clipboard Menu */}
-          <ChapterCopyMenu
-            bookTitle={book.title}
-            chapterTitle={currentChapter.title}
-            chapterContent={chapterContent}
-            onCopied={onCopied || (() => {})}
-          />
+          {/* Chapter Copy to Clipboard Menu - hidden on small mobile to avoid overflow */}
+          <div className="hidden sm:block">
+            <ChapterCopyMenu
+              bookTitle={book.title}
+              chapterTitle={currentChapter.title}
+              chapterContent={chapterContent}
+              onCopied={onCopied || (() => {})}
+            />
+          </div>
 
           {/* TTS Web Speech Button */}
           {onToggleTTS && (
@@ -152,10 +152,10 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
                   ? 'bg-emerald-50 text-emerald-700 dark:bg-emerald-950/80 dark:text-emerald-300'
                   : 'text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
               }`}
-              title="Đọc nội dung bằng Web Speech API (TTS)"
+              title="Đọc tự động bằng AI Web Speech (TTS)"
             >
               <Volume2 className={`h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0 ${isTTSSpeaking ? 'animate-bounce' : ''}`} />
-              <span className="hidden sm:inline">Giọng đọc AI</span>
+              <span className="hidden lg:inline">Giọng đọc AI</span>
             </button>
           )}
 
@@ -171,13 +171,13 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
               }}
               className={`flex items-center gap-1 sm:gap-1.5 rounded-lg p-2 sm:px-2.5 sm:py-1.5 text-xs font-medium transition-all shrink-0 ${
                 isThisBookAudioPlaying
-                  ? 'bg-amber-100 text-amber-900 dark:bg-amber-950/80 dark:text-amber-300 animate-pulse'
+                  ? 'bg-amber-100 text-amber-900 dark:bg-amber-950/80 dark:text-amber-300 animate-pulse ring-1 ring-amber-500/50'
                   : 'text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
               }`}
-              title="Phát Audio đi kèm"
+              title={`Nghe audio thu âm sẵn (${book.audios.length} bài)`}
             >
               <Headphones className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
-              <span className="hidden sm:inline">Audio</span>
+              <span className="hidden lg:inline">Audio sách</span>
             </button>
           )}
 
@@ -436,17 +436,17 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
           )}
         </div>
 
-        {/* Discussion Trigger Button */}
+        {/* Discussion Trigger Button - hidden on mobile (accessible at bottom of chapter) */}
         {onOpenDiscussion && (
           <button
             onClick={onOpenDiscussion}
-            className="flex items-center gap-1 sm:gap-1.5 rounded-lg p-2 sm:px-2.5 sm:py-1.5 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-all shrink-0"
+            className="hidden sm:flex items-center gap-1 sm:gap-1.5 rounded-lg p-2 sm:px-2.5 sm:py-1.5 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-all shrink-0"
             title="Mở bảng thảo luận chương sách"
           >
             <MessageSquare className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
-              <span className="hidden md:inline">Thảo luận</span>
-            </button>
-          )}
+            <span className="hidden md:inline">Thảo luận</span>
+          </button>
+        )}
 
           {/* User Profile / Login Dropdown */}
           <UserDropdown />
