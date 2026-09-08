@@ -18,10 +18,12 @@ import {
   Sparkles,
   Volume2,
   MessageSquare,
+  Search,
 } from 'lucide-react';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import { useAudio } from '../../context/AudioContext';
 import { UserDropdown } from '../auth/UserDropdown';
+import { ChapterCopyMenu } from './ChapterCopyMenu';
 import { Book, Chapter } from '../../types/book';
 
 interface ReaderToolbarProps {
@@ -33,6 +35,10 @@ interface ReaderToolbarProps {
   isTTSSpeaking?: boolean;
   onToggleTTS?: () => void;
   onOpenDiscussion?: () => void;
+  chapterContent?: string;
+  isSearchOpen?: boolean;
+  onToggleSearch?: () => void;
+  onCopied?: (message: string) => void;
 }
 
 export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
@@ -44,6 +50,10 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
   isTTSSpeaking = false,
   onToggleTTS,
   onOpenDiscussion,
+  chapterContent = '',
+  isSearchOpen = false,
+  onToggleSearch,
+  onCopied,
 }) => {
   const { settings, setTheme, setFontSize, setLineHeight, setFontFamily, setTextAlign, setMaxWidth, toggleBionicReading } =
     useReaderSettings();
@@ -63,21 +73,21 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
         ></div>
       </div>
 
-      <div className="mx-auto flex h-14 max-w-7xl items-center justify-between px-3 sm:px-6">
+      <div className="mx-auto flex h-14 max-w-7xl items-center justify-between px-2 sm:px-6 w-full">
         {/* Left: Home, Back & TOC */}
-        <div className="flex items-center gap-1.5 sm:gap-2">
+        <div className="flex items-center gap-1 sm:gap-2 shrink-0">
           <Link
             to="/"
-            className="flex items-center gap-1.5 rounded-lg p-2 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-colors"
+            className="hidden sm:flex items-center gap-1.5 rounded-lg p-2 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-colors"
             title="Về Trang chủ"
           >
             <Home className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
-            <span className="hidden sm:inline">Trang chủ</span>
+            <span>Trang chủ</span>
           </Link>
 
           <Link
             to={`/book/${book.id}`}
-            className="flex items-center gap-1.5 rounded-lg p-2 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-colors"
+            className="flex items-center gap-1 rounded-lg p-2 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-colors"
             title="Quay lại chi tiết sách"
           >
             <ArrowLeft className="h-4 w-4" />
@@ -86,17 +96,17 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
 
           <button
             onClick={onOpenTOC}
-            className="flex items-center gap-1.5 rounded-lg bg-emerald-50 hover:bg-emerald-100 text-emerald-800 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/60 dark:text-emerald-300 px-3 py-1.5 text-xs font-semibold transition-colors"
+            className="flex items-center gap-1 sm:gap-1.5 rounded-lg bg-emerald-50 hover:bg-emerald-100 text-emerald-800 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/60 dark:text-emerald-300 px-2 sm:px-3 py-1.5 text-xs font-semibold transition-colors shrink-0"
             title="Mở mục lục các chương"
           >
-            <List className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
-            <span>Mục lục</span>
-            <span className="text-[11px] opacity-75">({currentChapter.order}/{book.chapters.length})</span>
+            <List className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+            <span className="hidden sm:inline">Mục lục</span>
+            <span className="text-[11px] opacity-85">({currentChapter.order}/{book.chapters.length})</span>
           </button>
         </div>
 
         {/* Center: Chapter title truncate */}
-        <div className="hidden md:block max-w-sm text-center">
+        <div className="hidden md:block max-w-sm text-center truncate px-2">
           <p className="text-xs font-semibold text-slate-800 dark:text-slate-200 truncate">
             {currentChapter.title}
           </p>
@@ -105,13 +115,37 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
           </p>
         </div>
 
-        {/* Right: Audio toggle, TTS & Reading Settings */}
-        <div className="flex items-center gap-1.5">
+        {/* Right: Search, Copy, Audio toggle, TTS & Reading Settings */}
+        <div className="flex items-center gap-0.5 sm:gap-1.5 shrink-0">
+          {/* Chapter In-Page Search Button */}
+          {onToggleSearch && (
+            <button
+              onClick={onToggleSearch}
+              className={`flex items-center gap-1 sm:gap-1.5 rounded-lg p-2 sm:px-2.5 sm:py-1.5 text-xs font-medium transition-all shrink-0 ${
+                isSearchOpen
+                  ? 'bg-emerald-100 text-emerald-900 dark:bg-emerald-950 dark:text-emerald-300 ring-1 ring-emerald-500/50 shadow-xs'
+                  : 'text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
+              }`}
+              title="Tìm kiếm trong chương này (Ctrl+F)"
+            >
+              <Search className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+              <span className="hidden sm:inline">Tìm kiếm</span>
+            </button>
+          )}
+
+          {/* Chapter Copy to Clipboard Menu */}
+          <ChapterCopyMenu
+            bookTitle={book.title}
+            chapterTitle={currentChapter.title}
+            chapterContent={chapterContent}
+            onCopied={onCopied || (() => {})}
+          />
+
           {/* TTS Web Speech Button */}
           {onToggleTTS && (
             <button
               onClick={onToggleTTS}
-              className={`flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-xs font-medium transition-all ${
+              className={`flex items-center gap-1 sm:gap-1.5 rounded-lg p-2 sm:px-2.5 sm:py-1.5 text-xs font-medium transition-all shrink-0 ${
                 isTTSSpeaking
                   ? 'bg-emerald-100 text-emerald-900 dark:bg-emerald-950 dark:text-emerald-300 ring-1 ring-emerald-500/50 shadow-xs'
                   : isTTSActive
@@ -120,7 +154,7 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
               }`}
               title="Đọc nội dung bằng Web Speech API (TTS)"
             >
-              <Volume2 className={`h-4 w-4 text-emerald-600 dark:text-emerald-400 ${isTTSSpeaking ? 'animate-bounce' : ''}`} />
+              <Volume2 className={`h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0 ${isTTSSpeaking ? 'animate-bounce' : ''}`} />
               <span className="hidden sm:inline">Giọng đọc AI</span>
             </button>
           )}
@@ -135,14 +169,14 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
                   setIsPlayerModalOpen(true);
                 }
               }}
-              className={`flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-xs font-medium transition-all ${
+              className={`flex items-center gap-1 sm:gap-1.5 rounded-lg p-2 sm:px-2.5 sm:py-1.5 text-xs font-medium transition-all shrink-0 ${
                 isThisBookAudioPlaying
                   ? 'bg-amber-100 text-amber-900 dark:bg-amber-950/80 dark:text-amber-300 animate-pulse'
                   : 'text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
               }`}
               title="Phát Audio đi kèm"
             >
-              <Headphones className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+              <Headphones className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
               <span className="hidden sm:inline">Audio</span>
             </button>
           )}
@@ -151,19 +185,24 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
           <div className="relative">
             <button
               onClick={() => setShowSettingsPopover(!showSettingsPopover)}
-              className={`flex items-center gap-1 rounded-lg p-2 text-xs font-medium transition-colors ${
+              className={`flex items-center gap-1 rounded-lg p-2 text-xs font-medium transition-colors shrink-0 ${
                 showSettingsPopover
                   ? 'bg-slate-200 dark:bg-slate-700 text-emerald-600'
                   : 'text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
               }`}
               title="Tùy chỉnh giao diện đọc (Font, Cỡ chữ, Nền)"
             >
-              <Type className="h-4 w-4" />
+              <Type className="h-4 w-4 shrink-0" />
             </button>
 
             {/* Popover Dropdown */}
             {showSettingsPopover && (
-              <div className="absolute right-0 top-12 z-50 w-80 rounded-2xl border border-slate-200 bg-white p-5 shadow-2xl dark:border-slate-800 dark:bg-slate-900 animate-in fade-in zoom-in-95 duration-150">
+              <>
+                <div
+                  className="fixed inset-0 z-40 bg-black/20 backdrop-blur-xs sm:hidden"
+                  onClick={() => setShowSettingsPopover(false)}
+                />
+                <div className="fixed inset-x-3 top-16 max-h-[85vh] overflow-y-auto sm:absolute sm:inset-auto sm:right-0 sm:top-12 sm:w-80 z-50 rounded-2xl border border-slate-200 bg-white p-5 shadow-2xl dark:border-slate-800 dark:bg-slate-900 animate-in fade-in zoom-in-95 duration-150">
                 <div className="flex items-center justify-between pb-3 border-b border-slate-100 dark:border-slate-800">
                   <h4 className="font-bold text-xs uppercase tracking-wider text-slate-500 dark:text-slate-400">
                     Tùy Chỉnh Chế Độ Đọc
@@ -393,17 +432,18 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
                   </div>
                 </div>
               </div>
-            )}
-          </div>
+            </>
+          )}
+        </div>
 
-          {/* Discussion Trigger Button */}
-          {onOpenDiscussion && (
-            <button
-              onClick={onOpenDiscussion}
-              className="flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-all"
-              title="Mở bảng thảo luận chương sách"
-            >
-              <MessageSquare className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+        {/* Discussion Trigger Button */}
+        {onOpenDiscussion && (
+          <button
+            onClick={onOpenDiscussion}
+            className="flex items-center gap-1 sm:gap-1.5 rounded-lg p-2 sm:px-2.5 sm:py-1.5 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-all shrink-0"
+            title="Mở bảng thảo luận chương sách"
+          >
+            <MessageSquare className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
               <span className="hidden md:inline">Thảo luận</span>
             </button>
           )}

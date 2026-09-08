@@ -1,9 +1,10 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
-import { X, ZoomIn, Volume2 } from 'lucide-react';
+import { X, ZoomIn, Volume2, Copy, Check, Quote } from 'lucide-react';
+import { copyToClipboard } from '../../utils/clipboard';
 
 const getSlug = (children: React.ReactNode): string | undefined => {
   const extractText = (node: any): string => {
@@ -21,24 +22,138 @@ const getSlug = (children: React.ReactNode): string | undefined => {
     .replace(/\s+/g, '-');
 };
 
+const CodeBlockWithCopy: React.FC<{ children: React.ReactNode; onCopied?: (msg: string) => void }> = ({
+  children,
+  onCopied,
+}) => {
+  const [copied, setCopied] = useState(false);
+
+  const handleCopy = async () => {
+    const text = String(children).replace(/\n$/, '');
+    const ok = await copyToClipboard(text);
+    if (ok) {
+      setCopied(true);
+      onCopied?.('Đã sao chép đoạn mã!');
+      setTimeout(() => setCopied(false), 2000);
+    }
+  };
+
+  return (
+    <div className="relative group my-6">
+      <button
+        onClick={handleCopy}
+        data-no-search="true"
+        className="absolute right-3 top-3 z-10 flex items-center gap-1 rounded-lg bg-slate-800/90 hover:bg-slate-700 text-slate-300 hover:text-white px-2 py-1 text-[11px] font-medium border border-slate-700 backdrop-blur-md opacity-0 group-hover:opacity-100 transition-opacity"
+        title="Sao chép đoạn mã này"
+      >
+        {copied ? (
+          <>
+            <Check className="h-3 w-3 text-emerald-400" />
+            <span className="text-emerald-400">Đã chép</span>
+          </>
+        ) : (
+          <>
+            <Copy className="h-3 w-3" />
+            <span>Sao chép</span>
+          </>
+        )}
+      </button>
+      <pre className="overflow-x-auto rounded-2xl bg-slate-900 p-4 text-xs font-mono text-emerald-400 border border-slate-800">
+        <code>{children}</code>
+      </pre>
+    </div>
+  );
+};
+
 interface MarkdownViewerProps {
   content: string;
   bookId: string;
+  bookTitle?: string;
+  chapterTitle?: string;
   currentTTSIndex?: number;
   isTTSSpeaking?: boolean;
   onReadFromIndex?: (index: number) => void;
+  onCopied?: (message: string) => void;
 }
 
 export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
   content,
   bookId,
+  bookTitle = '',
+  chapterTitle = '',
   currentTTSIndex = -1,
   isTTSSpeaking = false,
   onReadFromIndex,
+  onCopied,
 }) => {
   const navigate = useNavigate();
   const { settings } = useReaderSettings();
   const [zoomImage, setZoomImage] = useState<{ src: string; alt: string } | null>(null);
+  const [selectionTooltip, setSelectionTooltip] = useState<{
+    visible: boolean;
+    x: number;
+    y: number;
+    text: string;
+  }>({ visible: false, x: 0, y: 0, text: '' });
+  const articleRef = useRef<HTMLElement>(null);
+
+  // Monitor text selection within chapter
+  useEffect(() => {
+    const handleMouseUp = () => {
+      const selection = window.getSelection();
+      if (!selection || selection.isCollapsed) {
+        setSelectionTooltip((prev) => (prev.visible ? { ...prev, visible: false } : prev));
+        return;
+      }
+
+      const text = selection.toString().trim();
+      if (text.length >= 3 && articleRef.current?.contains(selection.anchorNode)) {
+        try {
+          const range = selection.getRangeAt(0);
+          const rect = range.getBoundingClientRect();
+          if (rect.width > 0 && rect.height > 0) {
+            setSelectionTooltip({
+              visible: true,
+              x: Math.max(10, Math.min(window.innerWidth - 180, rect.left + rect.width / 2 - 80)),
+              y: Math.max(10, rect.top - 46),
+              text,
+            });
+            return;
+          }
+        } catch {
+          // ignore
+        }
+      }
+      setSelectionTooltip((prev) => (prev.visible ? { ...prev, visible: false } : prev));
+    };
+
+    const handleMouseDown = (e: MouseEvent) => {
+      if ((e.target as HTMLElement).closest('[data-selection-tooltip="true"]')) {
+        return;
+      }
+      setSelectionTooltip((prev) => (prev.visible ? { ...prev, visible: false } : prev));
+    };
+
+    document.addEventListener('mouseup', handleMouseUp);
+    document.addEventListener('mousedown', handleMouseDown);
+    return () => {
+      document.removeEventListener('mouseup', handleMouseUp);
+      document.removeEventListener('mousedown', handleMouseDown);
+    };
+  }, []);
+
+  const handleCopySelectedText = async () => {
+    if (!selectionTooltip.text) return;
+    const citation = bookTitle && chapterTitle
+      ? `"${selectionTooltip.text}"\n\n— Trích từ: "${chapterTitle}", sách "${bookTitle}" (${window.location.href})`
+      : `"${selectionTooltip.text}"`;
+
+    const ok = await copyToClipboard(citation);
+    if (ok) {
+      onCopied?.('Đã sao chép đoạn trích dẫn vào clipboard!');
+      setSelectionTooltip((prev) => ({ ...prev, visible: false }));
+    }
+  };
 
   // Counter to sequentially index readable blocks during markdown rendering
   let blockCounter = 0;
@@ -71,7 +186,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
   };
 
   return (
-    <div className={`relative mx-auto ${getMaxWidthClass()} px-4 sm:px-8 py-8 transition-all duration-200`}>
+    <div className={`relative mx-auto ${getMaxWidthClass()} px-3 sm:px-8 py-6 sm:py-8 transition-all duration-200 w-full max-w-full overflow-x-clip`}>
       {/* Repeating Watermark "Healthier" */}
       <div
         aria-hidden="true"
@@ -82,7 +197,9 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
         }}
       />
       <article
-        className={`relative z-10 ${getFontFamilyClass()} prose-reader transition-all`}
+        ref={articleRef}
+        id="chapter-content-article"
+        className={`relative z-10 ${getFontFamilyClass()} prose-reader transition-all break-words overflow-x-clip w-full`}
         style={{
           fontSize: `${settings.fontSize}px`,
           lineHeight: settings.lineHeight,
@@ -104,7 +221,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
                     data-tts-block={idx}
                     className={`mt-6 mb-6 text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900 dark:text-white border-b pb-4 border-slate-200 dark:border-slate-800 font-sans transition-all duration-300 ${
                       isActive
-                        ? 'bg-emerald-500/10 dark:bg-emerald-500/20 ring-2 ring-emerald-500/50 rounded-xl p-3 -mx-3'
+                        ? 'bg-emerald-500/10 dark:bg-emerald-500/20 ring-2 ring-emerald-500/50 rounded-xl p-3 sm:-mx-3'
                         : ''
                     }`}
                     {...props}
@@ -134,7 +251,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
                     data-tts-block={idx}
                     className={`mt-10 mb-4 text-xl sm:text-2xl font-bold tracking-tight text-emerald-800 dark:text-emerald-400 font-sans transition-all duration-300 ${
                       isActive
-                        ? 'bg-emerald-500/10 dark:bg-emerald-500/20 ring-2 ring-emerald-500/50 rounded-xl p-3 -mx-3'
+                        ? 'bg-emerald-500/10 dark:bg-emerald-500/20 ring-2 ring-emerald-500/50 rounded-xl p-3 sm:-mx-3'
                         : ''
                     }`}
                     {...props}
@@ -164,7 +281,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
                     data-tts-block={idx}
                     className={`mt-8 mb-3 text-lg sm:text-xl font-semibold text-slate-800 dark:text-slate-200 font-sans transition-all duration-300 ${
                       isActive
-                        ? 'bg-emerald-500/10 dark:bg-emerald-500/20 ring-2 ring-emerald-500/50 rounded-xl p-2.5 -mx-2.5'
+                        ? 'bg-emerald-500/10 dark:bg-emerald-500/20 ring-2 ring-emerald-500/50 rounded-xl p-2.5 sm:-mx-2.5'
                         : ''
                     }`}
                     {...props}
@@ -196,7 +313,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
                     data-tts-block={idx}
                     className={`my-4 text-slate-800 dark:text-slate-200 leading-relaxed transition-all duration-300 ${
                       isActive
-                        ? 'bg-emerald-50/90 dark:bg-emerald-950/40 ring-2 ring-emerald-500/60 rounded-xl p-3.5 -mx-3.5 border-l-4 border-emerald-500 shadow-sm'
+                        ? 'bg-emerald-50/90 dark:bg-emerald-950/40 ring-2 ring-emerald-500/60 rounded-xl p-3 sm:-mx-3.5 border-l-4 border-emerald-500 shadow-sm'
                         : ''
                     }`}
                     {...props}
@@ -206,7 +323,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
                   {onReadFromIndex && (
                     <button
                       onClick={() => onReadFromIndex(idx)}
-                      className="absolute -right-2 sm:-right-8 top-2 opacity-0 group-hover:opacity-100 flex items-center justify-center h-7 w-7 rounded-full bg-emerald-100 hover:bg-emerald-200 text-emerald-700 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-emerald-400 shadow-xs transition-opacity"
+                      className="absolute right-1 sm:-right-8 top-2 hidden group-hover:flex items-center justify-center h-7 w-7 rounded-full bg-emerald-100 hover:bg-emerald-200 text-emerald-700 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-emerald-400 shadow-xs transition-opacity"
                       title="Đọc từ đoạn này"
                     >
                       <Volume2 className="h-3.5 w-3.5" />
@@ -300,9 +417,9 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
                 );
               }
               return (
-                <pre className="my-6 overflow-x-auto rounded-2xl bg-slate-900 p-4 text-xs font-mono text-emerald-400 border border-slate-800">
-                  <code {...props}>{children}</code>
-                </pre>
+                <CodeBlockWithCopy onCopied={onCopied}>
+                  {children}
+                </CodeBlockWithCopy>
               );
             },
             // Custom Tables
@@ -407,6 +524,28 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
           {content}
         </ReactMarkdown>
       </article>
+
+      {/* Floating Selection Copy Action Tooltip */}
+      {selectionTooltip.visible && (
+        <div
+          data-selection-tooltip="true"
+          data-no-search="true"
+          className="fixed z-40 animate-in fade-in zoom-in-95 duration-150"
+          style={{
+            left: `${selectionTooltip.x}px`,
+            top: `${selectionTooltip.y}px`,
+          }}
+        >
+          <button
+            onClick={handleCopySelectedText}
+            className="flex items-center gap-1.5 rounded-full bg-slate-900/95 text-white dark:bg-emerald-600 px-3.5 py-1.5 text-xs font-semibold shadow-xl border border-slate-700 dark:border-emerald-500 hover:scale-105 transition-transform backdrop-blur-md"
+            title="Sao chép đoạn trích dẫn kèm trích nguồn"
+          >
+            <Quote className="h-3.5 w-3.5 text-emerald-400 dark:text-emerald-100" />
+            <span>Sao chép trích dẫn</span>
+          </button>
+        </div>
+      )}
 
       {/* Image Lightbox Modal */}
       {zoomImage && (

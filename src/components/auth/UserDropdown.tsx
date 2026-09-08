@@ -33,10 +33,11 @@ export const UserDropdown: React.FC = () => {
     return (
       <button
         onClick={() => openAuthModal('Đăng nhập để lưu cảm nghĩ và tham gia thảo luận cùng CLB.')}
-        className="inline-flex items-center gap-1.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 px-3 py-1.5 text-xs font-bold text-white transition-all shadow-xs"
+        className="inline-flex items-center gap-1.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 p-2 sm:px-3 sm:py-1.5 text-xs font-bold text-white transition-all shadow-xs shrink-0"
+        title="Đăng nhập tài khoản"
       >
-        <LogIn className="h-3.5 w-3.5" />
-        <span>Đăng nhập</span>
+        <LogIn className="h-4 w-4 shrink-0" />
+        <span className="hidden sm:inline">Đăng nhập</span>
       </button>
     );
   }
@@ -78,7 +79,15 @@ export const UserDropdown: React.FC = () => {
 
       {/* Dropdown Menu */}
       {isOpen && (
-        <div className="absolute right-0 mt-2 w-64 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xl p-3 z-50 animate-in fade-in zoom-in-95 duration-100">
+        <>
+          <div
+            className="fixed inset-0 z-40 bg-black/20 backdrop-blur-xs sm:hidden"
+            onClick={() => {
+              setIsOpen(false);
+              setIsEditing(false);
+            }}
+          />
+          <div className="fixed inset-x-3 top-16 sm:absolute sm:inset-auto sm:right-0 sm:mt-2 sm:w-64 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xl p-3 z-50 animate-in fade-in zoom-in-95 duration-100">
           {!isEditing ? (
             <>
               {/* Profile Card */}
@@ -197,6 +206,7 @@ export const UserDropdown: React.FC = () => {
             </form>
           )}
         </div>
+      </>
       )}
 
       {/* Admin Users Management Modal */}

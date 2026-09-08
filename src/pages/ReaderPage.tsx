@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { ReaderToolbar } from '../components/reader/ReaderToolbar';
 import { MarkdownViewer } from '../components/reader/MarkdownViewer';
@@ -8,13 +8,22 @@ import { QuizModal } from '../components/quiz/QuizModal';
 import { TTSPlayerBar } from '../components/reader/TTSPlayerBar';
 import { CommentSection } from '../components/interaction/CommentSection';
 import { ChapterDiscussionDrawer } from '../components/interaction/ChapterDiscussionDrawer';
+import { ChapterSearchBar } from '../components/reader/ChapterSearchBar';
 import booksData from '../data/books-manifest.json';
 import { Book, Chapter } from '../types/book';
 import { useHistory } from '../context/HistoryContext';
 import { useAudio } from '../context/AudioContext';
+import { useReaderSettings } from '../context/ReaderSettingsContext';
 import { useTextToSpeech } from '../hooks/useTextToSpeech';
-import { Loader2, AlertCircle, Home } from 'lucide-react';
+import { Loader2, AlertCircle, Home, Check } from 'lucide-react';
 import { trackReadChapter } from '../utils/analytics';
+import {
+  findMatchesInElement,
+  applyCSSHighlights,
+  clearCSSHighlights,
+  scrollToMatch,
+  SearchMatch,
+} from '../utils/chapterSearch';
 
 const books: Book[] = booksData as Book[];
 
@@ -23,6 +32,21 @@ export const ReaderPage: React.FC = () => {
   const navigate = useNavigate();
   const { saveProgress } = useHistory();
   const { pause: pauseAudio, isPlaying: isAudioPlaying } = useAudio();
+  const { settings } = useReaderSettings();
+
+  const getMaxWidthClass = () => {
+    switch (settings.maxWidth) {
+      case 'narrow':
+        return 'max-w-3xl';
+      case 'wide':
+        return 'max-w-6xl';
+      case 'full':
+        return 'max-w-7xl';
+      case 'medium':
+      default:
+        return 'max-w-5xl';
+    }
+  };
 
   const [content, setContent] = useState<string>('');
   const [loading, setLoading] = useState<boolean>(true);
@@ -31,6 +55,24 @@ export const ReaderPage: React.FC = () => {
   const [isQuizOpen, setIsQuizOpen] = useState<boolean>(false);
   const [isDiscussionDrawerOpen, setIsDiscussionDrawerOpen] = useState<boolean>(false);
   const [scrollProgress, setScrollProgress] = useState<number>(0);
+
+  // Chapter In-page Search States
+  const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
+  const [searchQuery, setSearchQuery] = useState<string>('');
+  const [matches, setMatches] = useState<SearchMatch[]>([]);
+  const [activeMatchIndex, setActiveMatchIndex] = useState<number>(0);
+
+  // Toast notification state
+  const [toastMessage, setToastMessage] = useState<string | null>(null);
+  const toastTimeoutRef = useRef<any>(null);
+
+  const showToast = (msg: string) => {
+    if (toastTimeoutRef.current) clearTimeout(toastTimeoutRef.current);
+    setToastMessage(msg);
+    toastTimeoutRef.current = setTimeout(() => {
+      setToastMessage(null);
+    }, 2800);
+  };
 
   const cleanChapterId = chapterId ? chapterId.replace(/\.md$/i, '') : '';
   const book = books.find((b) => b.id === bookId);
@@ -147,20 +189,110 @@ export const ReaderPage: React.FC = () => {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  // Reset search when switching chapters
+  useEffect(() => {
+    clearCSSHighlights();
+    setIsSearchOpen(false);
+    setSearchQuery('');
+    setMatches([]);
+    setActiveMatchIndex(0);
+  }, [bookId, currentChapter?.id]);
+
+  // Search execution & highlight update
+  useEffect(() => {
+    if (!isSearchOpen || !searchQuery.trim() || loading) {
+      clearCSSHighlights();
+      setMatches([]);
+      setActiveMatchIndex(0);
+      return;
+    }
+
+    const timer = setTimeout(() => {
+      const articleEl = document.getElementById('chapter-content-article');
+      if (!articleEl) return;
+
+      const foundMatches = findMatchesInElement(articleEl, searchQuery);
+      setMatches(foundMatches);
+      setActiveMatchIndex(0);
+
+      if (foundMatches.length > 0) {
+        applyCSSHighlights(foundMatches, 0);
+        scrollToMatch(foundMatches[0]);
+      } else {
+        clearCSSHighlights();
+      }
+    }, 120);
+
+    return () => clearTimeout(timer);
+  }, [searchQuery, isSearchOpen, loading]);
+
+  const handleNextMatch = () => {
+    if (matches.length === 0) return;
+    const nextIdx = (activeMatchIndex + 1) % matches.length;
+    setActiveMatchIndex(nextIdx);
+    applyCSSHighlights(matches, nextIdx);
+    scrollToMatch(matches[nextIdx]);
+  };
+
+  const handlePrevMatch = () => {
+    if (matches.length === 0) return;
+    const prevIdx = (activeMatchIndex - 1 + matches.length) % matches.length;
+    setActiveMatchIndex(prevIdx);
+    applyCSSHighlights(matches, prevIdx);
+    scrollToMatch(matches[prevIdx]);
+  };
+
+  const handleJumpToMatch = (index: number) => {
+    if (index >= 0 && index < matches.length) {
+      setActiveMatchIndex(index);
+      applyCSSHighlights(matches, index);
+      scrollToMatch(matches[index]);
+    }
+  };
+
+  const handleCloseSearch = () => {
+    setIsSearchOpen(false);
+    clearCSSHighlights();
+  };
+
+  const handleToggleSearch = () => {
+    if (isSearchOpen) {
+      handleCloseSearch();
+    } else {
+      setIsSearchOpen(true);
+    }
+  };
+
   // Keyboard navigation shortcuts
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      // Don't trigger when user is typing in an input
-      if (['INPUT', 'TEXTAREA'].includes((e.target as HTMLElement).tagName)) return;
+      // Ctrl+F / Cmd+F opens chapter search
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        setIsSearchOpen(true);
+        return;
+      }
+
+      // Don't trigger when user is typing in an input unless it's Escape
+      if (['INPUT', 'TEXTAREA'].includes((e.target as HTMLElement).tagName)) {
+        if (e.key === 'Escape') {
+          handleCloseSearch();
+        }
+        return;
+      }
 
       if (e.key === 'Escape') {
+        if (isSearchOpen) {
+          handleCloseSearch();
+          return;
+        }
         setIsTOCDrawerOpen(false);
       }
     };
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, []);
+  }, [isSearchOpen]);
 
   const handleToggleTTS = () => {
     if (tts.isPlaying) {
@@ -223,6 +355,23 @@ export const ReaderPage: React.FC = () => {
         isTTSSpeaking={tts.isPlaying}
         onToggleTTS={handleToggleTTS}
         onOpenDiscussion={() => setIsDiscussionDrawerOpen(true)}
+        chapterContent={content}
+        isSearchOpen={isSearchOpen}
+        onToggleSearch={handleToggleSearch}
+        onCopied={showToast}
+      />
+
+      {/* In-page Chapter Search Bar */}
+      <ChapterSearchBar
+        isOpen={isSearchOpen}
+        onClose={handleCloseSearch}
+        query={searchQuery}
+        onQueryChange={setSearchQuery}
+        matches={matches}
+        activeMatchIndex={activeMatchIndex}
+        onNext={handleNextMatch}
+        onPrev={handlePrevMatch}
+        onJumpTo={handleJumpToMatch}
       />
 
       {/* Main Chapter Content */}
@@ -244,9 +393,12 @@ export const ReaderPage: React.FC = () => {
             <MarkdownViewer
               content={content}
               bookId={book.id}
+              bookTitle={book.title}
+              chapterTitle={currentChapter.title}
               currentTTSIndex={tts.currentParagraphIndex}
               isTTSSpeaking={tts.isPlaying || tts.isPaused}
               onReadFromIndex={handleReadFromIndex}
+              onCopied={showToast}
             />
             <ChapterNavigation
               book={book}
@@ -255,7 +407,7 @@ export const ReaderPage: React.FC = () => {
             />
 
             {/* Discussion & Reactions on this Chapter */}
-            <div className="mx-auto max-w-3xl px-4 sm:px-6 pb-16">
+            <div className={`mx-auto ${getMaxWidthClass()} px-4 sm:px-8 pb-16`}>
               <CommentSection
                 targetType="chapter"
                 targetId={`${book.id}:${currentChapter.id}`}
@@ -334,6 +486,17 @@ export const ReaderPage: React.FC = () => {
         bookTitle={book.title}
         chapterTitle={currentChapter.title}
       />
+
+      {/* Floating Toast Notification */}
+      {toastMessage && (
+        <div
+          data-no-search="true"
+          className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 flex items-center gap-2 rounded-2xl bg-slate-900/95 text-white dark:bg-emerald-800/95 px-5 py-3 shadow-2xl backdrop-blur-md border border-slate-700 dark:border-emerald-600 text-xs sm:text-sm font-semibold animate-in fade-in slide-in-from-bottom-3 duration-200"
+        >
+          <Check className="h-4 w-4 text-emerald-400 dark:text-emerald-200 shrink-0" />
+          <span>{toastMessage}</span>
+        </div>
+      )}
     </div>
   );
 };
