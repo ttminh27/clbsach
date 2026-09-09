@@ -19,11 +19,17 @@ import {
   Volume2,
   MessageSquare,
   Search,
+  Copy,
+  FileText,
+  Code2,
+  Link2,
+  Quote,
 } from 'lucide-react';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import { useAudio } from '../../context/AudioContext';
 import { UserDropdown } from '../auth/UserDropdown';
 import { ChapterCopyMenu } from './ChapterCopyMenu';
+import { copyToClipboard, stripMarkdownToPlainText } from '../../utils/clipboard';
 import { Book, Chapter } from '../../types/book';
 
 interface ReaderToolbarProps {
@@ -59,6 +65,63 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
     useReaderSettings();
   const { currentTrack, isPlaying, playTrack, togglePlay, setIsPlayerModalOpen } = useAudio();
   const [showSettingsPopover, setShowSettingsPopover] = useState(false);
+  const [selectedText, setSelectedText] = useState('');
+  const [justCopiedType, setJustCopiedType] = useState<string | null>(null);
+
+  const handleToggleSettings = () => {
+    const sel = window.getSelection();
+    if (sel && sel.toString().trim().length > 0) {
+      setSelectedText(sel.toString().trim());
+    } else {
+      setSelectedText('');
+    }
+    setShowSettingsPopover(!showSettingsPopover);
+  };
+
+  const handleCopyPlainText = async () => {
+    if (!chapterContent) return;
+    const plainText = stripMarkdownToPlainText(chapterContent);
+    const fullText = `📚 ${book.title}\n📖 ${currentChapter.title}\n\n${plainText}\n\n— Nguồn: CLB Đọc Sách (${window.location.href})`;
+    const ok = await copyToClipboard(fullText);
+    if (ok) {
+      setJustCopiedType('plain');
+      onCopied?.('Đã sao chép toàn bộ nội dung chương (văn bản thuần)!');
+      setTimeout(() => setJustCopiedType(null), 2000);
+    }
+  };
+
+  const handleCopyMarkdown = async () => {
+    if (!chapterContent) return;
+    const fullMd = `<!-- Sách: ${book.title} | Chương: ${currentChapter.title} -->\n\n${chapterContent}`;
+    const ok = await copyToClipboard(fullMd);
+    if (ok) {
+      setJustCopiedType('md');
+      onCopied?.('Đã sao chép nội dung định dạng Markdown!');
+      setTimeout(() => setJustCopiedType(null), 2000);
+    }
+  };
+
+  const handleCopyLink = async () => {
+    const link = window.location.href;
+    const textToCopy = `📖 Đọc "${currentChapter.title}" - ${book.title} tại:\n${link}`;
+    const ok = await copyToClipboard(textToCopy);
+    if (ok) {
+      setJustCopiedType('link');
+      onCopied?.('Đã sao chép liên kết chương sách!');
+      setTimeout(() => setJustCopiedType(null), 2000);
+    }
+  };
+
+  const handleCopySelection = async () => {
+    if (!selectedText) return;
+    const quoteText = `"${selectedText}"\n\n— Trích từ: "${currentChapter.title}", sách "${book.title}" (${window.location.href})`;
+    const ok = await copyToClipboard(quoteText);
+    if (ok) {
+      setJustCopiedType('selection');
+      onCopied?.('Đã sao chép đoạn trích dẫn đang chọn!');
+      setTimeout(() => setJustCopiedType(null), 2000);
+    }
+  };
 
   const isAudioAvailable = book.audios.length > 0;
   const isThisBookAudioPlaying = isPlaying && currentTrack?.bookId === book.id;
@@ -181,16 +244,16 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
             </button>
           )}
 
-          {/* Reading Display Settings Popover Trigger */}
+          {/* Reading Display Settings & Copy Popover Trigger */}
           <div className="relative">
             <button
-              onClick={() => setShowSettingsPopover(!showSettingsPopover)}
+              onClick={handleToggleSettings}
               className={`flex items-center gap-1 rounded-lg p-2 text-xs font-medium transition-colors shrink-0 ${
                 showSettingsPopover
                   ? 'bg-slate-200 dark:bg-slate-700 text-emerald-600'
                   : 'text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
               }`}
-              title="Tùy chỉnh giao diện đọc (Font, Cỡ chữ, Nền)"
+              title="Tùy chỉnh giao diện đọc & Sao chép nội dung"
             >
               <Type className="h-4 w-4 shrink-0" />
             </button>
@@ -428,6 +491,96 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
                       }`}
                     >
                       Tối đa
+                    </button>
+                  </div>
+                </div>
+
+                {/* Sao chép nội dung chương (Đặc biệt hữu ích trên Mobile) */}
+                <div className="mt-5 pt-4 border-t border-slate-100 dark:border-slate-800">
+                  <div className="flex items-center justify-between mb-2">
+                    <label className="text-xs font-semibold text-slate-700 dark:text-slate-300 flex items-center gap-1.5">
+                      <Copy className="h-3.5 w-3.5 text-emerald-600 dark:text-emerald-400" />
+                      <span>Sao Chép Nội Dung</span>
+                    </label>
+                    <span className="text-[10px] text-slate-400">Clipboard</span>
+                  </div>
+
+                  <div className="space-y-1.5 mt-2">
+                    {selectedText && (
+                      <button
+                        onClick={handleCopySelection}
+                        className="w-full flex items-center justify-between rounded-xl px-3 py-2 text-xs font-medium border border-amber-300 bg-amber-50/80 hover:bg-amber-100 text-amber-900 dark:border-amber-700 dark:bg-amber-950/40 dark:text-amber-300 transition-colors text-left"
+                      >
+                        <div className="flex items-center gap-2 min-w-0">
+                          <Quote className="h-4 w-4 text-amber-600 dark:text-amber-400 shrink-0" />
+                          <div className="truncate">
+                            <div className="font-semibold text-[11px]">Sao chép đoạn đang chọn</div>
+                            <div className="text-[10px] text-amber-700 dark:text-amber-400/80 truncate">"{selectedText.slice(0, 35)}..."</div>
+                          </div>
+                        </div>
+                        {justCopiedType === 'selection' ? (
+                          <Check className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                        ) : (
+                          <Copy className="h-3.5 w-3.5 text-amber-600 dark:text-amber-400 shrink-0 opacity-70" />
+                        )}
+                      </button>
+                    )}
+
+                    <div className="grid grid-cols-2 gap-2">
+                      <button
+                        onClick={handleCopyPlainText}
+                        disabled={!chapterContent}
+                        className="flex items-center justify-between rounded-xl p-2.5 text-xs font-medium border border-slate-200 bg-slate-50 hover:bg-emerald-50 hover:border-emerald-300 text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700 transition-colors text-left disabled:opacity-50"
+                        title="Sao chép toàn bộ văn bản thuần không kèm format"
+                      >
+                        <div className="flex items-center gap-2">
+                          <FileText className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                          <div>
+                            <div className="font-semibold text-[11px]">Văn bản thuần</div>
+                            <div className="text-[10px] text-slate-400">Dễ đọc & dán</div>
+                          </div>
+                        </div>
+                        {justCopiedType === 'plain' && (
+                          <Check className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0 animate-in zoom-in-50" />
+                        )}
+                      </button>
+
+                      <button
+                        onClick={handleCopyMarkdown}
+                        disabled={!chapterContent}
+                        className="flex items-center justify-between rounded-xl p-2.5 text-xs font-medium border border-slate-200 bg-slate-50 hover:bg-emerald-50 hover:border-emerald-300 text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700 transition-colors text-left disabled:opacity-50"
+                        title="Sao chép định dạng Markdown đầy đủ"
+                      >
+                        <div className="flex items-center gap-2">
+                          <Code2 className="h-4 w-4 text-indigo-600 dark:text-indigo-400 shrink-0" />
+                          <div>
+                            <div className="font-semibold text-[11px]">Markdown</div>
+                            <div className="text-[10px] text-slate-400">Giữ tiêu đề & format</div>
+                          </div>
+                        </div>
+                        {justCopiedType === 'md' && (
+                          <Check className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0 animate-in zoom-in-50" />
+                        )}
+                      </button>
+                    </div>
+
+                    <button
+                      onClick={handleCopyLink}
+                      className="w-full flex items-center justify-between rounded-xl px-3 py-2 text-xs font-medium border border-slate-200 bg-slate-50 hover:bg-emerald-50 hover:border-emerald-300 text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700 transition-colors text-left"
+                      title="Sao chép đường link tới chương sách hiện tại"
+                    >
+                      <div className="flex items-center gap-2">
+                        <Link2 className="h-4 w-4 text-blue-600 dark:text-blue-400 shrink-0" />
+                        <div>
+                          <div className="font-semibold text-[11px]">Sao chép liên kết chương</div>
+                          <div className="text-[10px] text-slate-400">Chia sẻ trực tiếp tới bài đọc này</div>
+                        </div>
+                      </div>
+                      {justCopiedType === 'link' ? (
+                        <Check className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0 animate-in zoom-in-50" />
+                      ) : (
+                        <Copy className="h-3.5 w-3.5 text-slate-400 shrink-0 opacity-60" />
+                      )}
                     </button>
                   </div>
                 </div>
