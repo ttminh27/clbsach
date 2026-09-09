@@ -111,37 +111,5 @@ input[type="range"]::-webkit-slider-thumb {
   box-shadow: 0 0 6px rgba(16, 185, 129, 0.4);
 }
 
-/* Reader Search Custom Highlights (CSS Highlight API) */
-::highlight(chapter-search-match) {
-  background-color: #fef08a; /* yellow-200 */
-  color: #0f172a;
-  border-radius: 2px;
-}
 
-::highlight(chapter-search-active) {
-  background-color: #f59e0b; /* amber-500 */
-  color: #ffffff;
-  font-weight: 700;
-  border-radius: 2px;
-}
-
-.dark ::highlight(chapter-search-match) {
-  background-color: #854d0e; /* yellow-800 */
-  color: #fef08a;
-}
-
-.dark ::highlight(chapter-search-active) {
-  background-color: #ea580c; /* orange-600 */
-  color: #ffffff;
-}
-
-html.sepia ::highlight(chapter-search-match) {
-  background-color: #fde68a;
-  color: #451a03;
-}
-
-html.sepia ::highlight(chapter-search-active) {
-  background-color: #d97706;
-  color: #ffffff;
-}
 

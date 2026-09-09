@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "75_Hay_bat_chuoc_ban_nhac_Coldplay",
+  "chapterTitle": "75. Hãy bắt chước ban nhạc Coldplay",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo triết lý của tác giả về 'Coldplay', sự khác biệt lớn nhất giữa một người làm việc bình thường và một 'lãnh đạo không chức danh' là gì?",
+      "options": [
+        "Khả năng hoàn thành đúng thời hạn công việc được giao.",
+        "Tư duy chuyển dịch từ làm việc theo nghĩa vụ sang tạo ra trải nghiệm có giá trị cho người thụ hưởng.",
+        "Năng lực kiểm soát đám đông bằng quyền lực cá nhân.",
+        "Kỹ năng tối ưu hóa nguồn lực kỹ thuật để giảm chi phí vận hành."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh vào việc 'mang đến một trải nghiệm', vượt xa việc chỉ hoàn thành nhiệm vụ. Đáp án A là mức độ tối thiểu, trong khi đáp án B phản ánh tư duy tạo ra giá trị gia tăng và kết nối cảm xúc."
+    },
+    {
+      "id": "q2",
+      "question": "Trong bối cảnh công sở, việc 'biến mọi người trở thành một phần của buổi biểu diễn' có ý nghĩa gì đối với một nhà lãnh đạo?",
+      "options": [
+        "Phân tán trách nhiệm cho cấp dưới để giảm bớt áp lực cá nhân.",
+        "Xây dựng văn hóa đồng kiến tạo, nơi sự gắn kết và lòng tự hào của tập thể được đề cao.",
+        "Sử dụng kỹ năng thuyết phục để ép buộc người khác làm theo ý muốn.",
+        "Tập trung vào khâu tổ chức hậu cần để đạt hiệu suất cao nhất."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự hòa mình của Coldplay cho thấy lãnh đạo không đứng ngoài tập thể mà phải tạo ra môi trường mà mọi cá nhân đều cảm thấy mình thuộc về và quan trọng."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao sự khiêm nhường và lòng trân trọng lại là công cụ lãnh đạo mạnh mẽ theo góc nhìn của tác giả?",
+      "options": [
+        "Vì đó là cách duy nhất để tránh bị đồng nghiệp đố kỵ.",
+        "Vì đó là những giá trị nhân văn tạo ra sợi dây liên kết bền vững và lòng trung thành.",
+        "Vì đó là chiến thuật ngoại giao để che giấu tham vọng cá nhân.",
+        "Vì nó làm giảm kỳ vọng của khách hàng để dễ quản lý hơn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lòng trân trọng giúp xây dựng niềm tin. Những đáp án khác mang tính thực dụng hoặc tiêu cực, không phản ánh sự 'kết nối' tâm hồn mà tác giả đề cập."
+    },
+    {
+      "id": "q4",
+      "question": "Nếu áp dụng tư duy của Coldplay vào một dự án kinh doanh, đâu là ưu tiên hàng đầu để tạo ra 'fan hâm mộ'?",
+      "options": [
+        "Tối ưu hóa lợi nhuận ngay trong giao dịch đầu tiên.",
+        "Tạo ra một hệ sinh thái trải nghiệm khiến khách hàng muốn quay lại.",
+        "Tập trung vào quảng cáo rầm rộ để thu hút khách hàng mới.",
+        "Cắt giảm nhân sự để tập trung nguồn lực vào sản phẩm cốt lõi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bản chất của Coldplay là sự trung thành của người hâm mộ bắt nguồn từ giá trị trải nghiệm, không phải chiêu trò tiếp thị ngắn hạn."
+    },
+    {
+      "id": "q5",
+      "question": "Lỗi tư duy nào thường gặp nhất khiến một cá nhân không thể trở thành 'Coldplay' trong lĩnh vực của mình?",
+      "options": [
+        "Thiếu vốn đầu tư cho các dự án cá nhân.",
+        "Tâm lý xem công việc là gánh nặng thay vì cơ hội để cống hiến giá trị.",
+        "Không có đủ kỹ năng kỹ thuật chuyên sâu.",
+        "Thiếu sự ủng hộ từ cấp trên hoặc đối tác."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi công việc bị xem là gánh nặng, người ta không bao giờ đạt được sự tận tâm và sáng tạo mà tác giả mô tả."
+    },
+    {
+      "id": "q6",
+      "question": "Sự cân bằng giữa 'tài năng' và 'sự phục vụ' trong ví dụ về Coldplay gợi mở điều gì cho sự phát triển bản thân?",
+      "options": [
+        "Tài năng là đủ nếu bạn biết cách quảng bá bản thân.",
+        "Tài năng mà thiếu sự tử tế và kết nối sẽ không thể tạo ra sự gắn kết bền lâu.",
+        "Sự phục vụ là yếu tố phụ, quan trọng nhất vẫn là kỹ năng nghiệp vụ.",
+        "Nên tập trung hoàn toàn vào sự phục vụ mà không cần trau dồi kỹ năng chuyên môn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ rõ 4 yếu tố, trong đó tài năng (bài hát tuyệt vời) và sự trân trọng/kết nối phải song hành."
+    },
+    {
+      "id": "q7",
+      "question": "Khi đối mặt với áp lực từ khách hàng khó tính, tư duy nào của 'Coldplay' giúp bạn giữ vững vị thế?",
+      "options": [
+        "Tách biệt cảm xúc để giữ sự chuyên nghiệp lạnh lùng.",
+        "Nhìn nhận sự khó tính đó là cơ hội để nâng cấp trải nghiệm và thể hiện sự tử tế.",
+        "Từ chối phục vụ để bảo vệ danh tiếng của bản thân.",
+        "Tìm cách né tránh giao tiếp trực tiếp để hạn chế xung đột."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lãnh đạo kiểu Coldplay chuyển hóa thử thách thành cơ hội để xây dựng lòng tin thông qua thái độ chân thành và sự khiêm nhường."
+    },
+    {
+      "id": "q8",
+      "question": "Để 'khiến mọi người phải đến với mình lần nữa', yếu tố nào trong hành vi lãnh đạo là then chốt?",
+      "options": [
+        "Giá cả cạnh tranh và ưu đãi hấp dẫn.",
+        "Sự khác biệt trong thái độ phục vụ tạo ra cảm xúc đặc biệt.",
+        "Sự chính xác và cứng nhắc trong quy trình.",
+        "Khả năng thuyết phục người khác bằng diễn thuyết."
+      ],
+      "correctIndex": 1,
+      "explanation": "Coldplay khiến người hâm mộ quay lại vì họ làm cho khán giả thấy mình đặc biệt - đó là chìa khóa cảm xúc."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao sự hoàn hảo trong dàn dựng (hậu cần) lại quan trọng đối với sự thành công theo quan điểm của tác giả?",
+      "options": [
+        "Vì đó là cách dễ dàng nhất để gây ấn tượng.",
+        "Vì sự chỉn chu thể hiện sự tôn trọng tối đa đối với người thụ hưởng.",
+        "Vì nó giúp giảm thiểu mọi sai sót trong quá trình vận hành.",
+        "Vì khách hàng chỉ quan tâm đến vẻ bề ngoài của sản phẩm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự chỉn chu, hoàn hảo trong tác phong làm việc là ngôn ngữ không lời thể hiện sự tôn trọng."
+    },
+    {
+      "id": "q10",
+      "question": "Phát biểu nào sau đây phản ánh đúng nhất tinh thần 'lãnh đạo không chức danh' khi ứng dụng bài học Coldplay?",
+      "options": [
+        "Tôi lãnh đạo vì tôi có quyền quyết định cao nhất.",
+        "Tôi là một người phục vụ xuất sắc trong lĩnh vực của mình.",
+        "Tôi cần thu phục nhân tâm bằng mọi giá để đảm bảo sự nghiệp.",
+        "Tôi chỉ làm tốt những gì nằm trong mô tả công việc của mình."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tư duy Coldplay xóa bỏ khoảng cách giữa lãnh đạo và người hâm mộ thông qua sự phục vụ đẳng cấp."
+    },
+    {
+      "id": "q11",
+      "question": "Đâu là bẫy tư duy lớn nhất của người thực hiện công việc theo kiểu 'công nghiệp hóa' thay vì 'nghệ thuật hóa'?",
+      "options": [
+        "Làm quá nhiều việc dẫn đến quá tải.",
+        "Làm việc theo cơ chế tự động, mất đi sự kết nối cảm xúc với khách hàng.",
+        "Thực hiện quá nhiều sáng tạo gây lãng phí nguồn lực.",
+        "Quá chú trọng vào giao tiếp mà bỏ quên hiệu suất."
+      ],
+      "correctIndex": 1,
+      "explanation": "Làm việc như một cỗ máy là trái ngược hoàn toàn với cách Coldplay truyền tải cảm xúc và kết nối con người."
+    },
+    {
+      "id": "q12",
+      "question": "Sự khiêm nhường của Coldplay giúp họ đạt được kết quả gì trong quan hệ với người hâm mộ?",
+      "options": [
+        "Khiến người hâm mộ thấy cần phải bao che cho sai lầm của họ.",
+        "Tạo ra một cộng đồng trung thành dựa trên sự đồng cảm và lòng biết ơn.",
+        "Giảm bớt sự mong đợi của người hâm mộ đối với sản phẩm.",
+        "Làm tăng giá trị thương hiệu nhờ sự khan hiếm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự khiêm nhường là cầu nối nhân văn giúp xóa nhòa ranh giới giữa ngôi sao và khán giả."
+    },
+    {
+      "id": "q13",
+      "question": "Việc coi khách hàng/đồng nghiệp là 'người hâm mộ' sẽ thay đổi hành vi của bạn như thế nào?",
+      "options": [
+        "Bạn sẽ luôn muốn trình diễn thay vì làm việc thật.",
+        "Bạn sẽ cẩn trọng và trân trọng từng tương tác, cố gắng tạo ra tác động tích cực nhất.",
+        "Bạn sẽ tìm cách thao túng cảm xúc của họ để đạt mục đích.",
+        "Bạn sẽ dành ít thời gian hơn cho công việc chuyên môn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tư duy này đặt trọng tâm vào giá trị của sự kết nối và chất lượng của từng điểm chạm (touchpoint)."
+    },
+    {
+      "id": "q14",
+      "question": "Trong bối cảnh khó khăn, đâu là thái độ của một 'lãnh đạo Coldplay' đối với khách hàng?",
+      "options": [
+        "Giải thích lý do khách quan để mong khách hàng thông cảm.",
+        "Nhận trách nhiệm và tập trung vào việc bù đắp bằng chất lượng trải nghiệm.",
+        "Chuyển hướng sự chú ý của khách hàng sang những điểm mạnh khác.",
+        "Tìm kiếm sự giúp đỡ từ đồng nghiệp để đối phó."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lãnh đạo đích thực luôn ưu tiên trải nghiệm khách hàng và thể hiện sự trân trọng chân thành, kể cả trong hoàn cảnh khó khăn."
+    },
+    {
+      "id": "q15",
+      "question": "Triết lý 'Hãy bắt chước ban nhạc Coldplay' của tác giả thực chất là lời kêu gọi về điều gì?",
+      "options": [
+        "Thay đổi công việc sang lĩnh vực giải trí.",
+        "Nâng tầm tư duy làm việc lên thành một nghệ thuật cống hiến và kết nối nhân tâm.",
+        "Phát triển kỹ năng hát và nhảy để thu hút người khác.",
+        "Sao chép y hệt các quy trình mà Coldplay đã sử dụng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lời kêu gọi không nằm ở hành động bắt chước bề nổi, mà là nâng tầm tư duy (mindset) trong mọi công việc bạn làm."
+    }
+  ]
+}

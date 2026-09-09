@@ -200,9 +200,13 @@ if (!fs.existsSync(publicBooksDir)) {
 }
 
 // Find all book directories
-const entries = fs.readdirSync(rootDir, { withFileTypes: true });
+const bookSourceDir = fs.existsSync(path.resolve(rootDir, 'book'))
+  ? path.resolve(rootDir, 'book')
+  : rootDir;
+
+const entries = fs.readdirSync(bookSourceDir, { withFileTypes: true });
 const bookDirs = entries
-  .filter(e => e.isDirectory() && !e.name.startsWith('.') && !['node_modules', 'public', 'src', 'scripts', 'dist', 'functions'].includes(e.name))
+  .filter(e => e.isDirectory() && !e.name.startsWith('.') && !['node_modules', 'public', 'src', 'scripts', 'dist', 'functions', 'book'].includes(e.name))
   .map(e => e.name);
 
 console.log(`Found ${bookDirs.length} potential book folders:`, bookDirs);
@@ -210,7 +214,7 @@ console.log(`Found ${bookDirs.length} potential book folders:`, bookDirs);
 const books = [];
 
 for (const bookId of bookDirs) {
-  const bookPath = path.resolve(rootDir, bookId);
+  const bookPath = path.resolve(bookSourceDir, bookId);
   const targetPublicPath = path.resolve(publicBooksDir, bookId);
 
   // Create symlink in public/books/ if not exists

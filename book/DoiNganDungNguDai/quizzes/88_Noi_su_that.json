@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "88_Noi_su_that",
+  "chapterTitle": "88. Nói sự thật",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Dựa trên triết lý của Robin Sharma, tại sao việc 'nói sự thật' lại được xem là phẩm chất tối thượng của một nhà lãnh đạo?",
+      "options": [
+        "Vì sự thật giúp xóa bỏ mọi mâu thuẫn cá nhân ngay lập tức",
+        "Vì sự thật tạo nên sự minh bạch tuyệt đối về lợi nhuận",
+        "Vì sự thật là nền tảng xây dựng lòng tin và tín nhiệm lâu dài",
+        "Vì sự thật khiến cấp dưới phải nể sợ và phục tùng"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nhấn mạnh việc thực hiện lời hứa và nói sự thật là để xây dựng lòng tin - 'tài sản' lớn nhất của một lãnh đạo. Các phương án khác mang tính thực dụng nhất thời hoặc áp đặt, không phản ánh tư duy quản trị dựa trên sự chính trực."
+    },
+    {
+      "id": "q2",
+      "question": "Khi tác giả nói 'nói sự thật – dù có run giọng', ông đang hàm ý gì về mối quan hệ giữa lòng can đảm và sự trung thực?",
+      "options": [
+        "Sự trung thực chỉ có giá trị khi nó khiến người nghe cảm thấy lo lắng",
+        "Nói sự thật thường đòi hỏi vượt qua nỗi sợ bị từ chối hoặc bị phản đối",
+        "Giọng nói run rẩy là dấu hiệu của việc thiếu kiến thức chuyên môn",
+        "Người thực sự trung thực là người không bao giờ cảm thấy sợ hãi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự run rẩy là biểu hiện của nỗi sợ hãi tâm lý khi đối diện với rủi ro bị phán xét. Tư duy lãnh đạo ở đây là hành động vượt lên trên nỗi sợ để giữ vững giá trị bản thân."
+    },
+    {
+      "id": "q3",
+      "question": "Trong bối cảnh công sở hiện đại, lời khuyên 'thinh lặng hứa ít nhưng cho nhiều' của tác giả có ý nghĩa chiến lược nào?",
+      "options": [
+        "Hạn chế giao tiếp để tránh bị lộ bí mật kinh doanh",
+        "Ưu tiên hành động cụ thể thay vì những lời hứa hẹn hoa mỹ gây ảo tưởng",
+        "Giảm thiểu sự kỳ vọng của khách hàng để dễ dàng đạt chỉ tiêu",
+        "Tiết kiệm năng lượng cho những việc quan trọng khác"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là tư duy của 'lãnh đạo hành động'. Sự khác biệt giữa người thành công và số đông nằm ở chỗ họ biến cam kết thành kết quả thay vì dùng ngôn từ để khỏa lấp sự thiếu hụt năng lực."
+    },
+    {
+      "id": "q4",
+      "question": "Thông điệp 'không vai nào là phụ' trong chương này có tác động thế nào đến tư duy lãnh đạo không chức danh?",
+      "options": [
+        "Mọi vị trí đều quan trọng như nhau trong bộ máy",
+        "Lãnh đạo là người có khả năng thay thế bất kỳ ai trong tổ chức",
+        "Mọi cá nhân đều có quyền lãnh đạo dù ở vị trí công việc khiêm tốn nhất",
+        "Chức danh chỉ là yếu tố hình thức không cần chú trọng"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định mỗi cá nhân đều có cơ hội gây ảnh hưởng. Điều này thay đổi tư duy thụ động của nhân viên thành tư duy chủ động, bất kể vị trí hiện tại."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao tác giả lại coi trọng hành động 'nói sự thật' hơn là 'nói lời hay ý đẹp'?",
+      "options": [
+        "Lời hay ý đẹp thường che đậy sự yếu kém trong tư duy",
+        "Sự thật có tính ổn định và xây dựng lòng tin lâu dài",
+        "Lời hay ý đẹp không tạo ra giá trị kinh tế",
+        "Người nói lời hay thường là kẻ xu nịnh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự thật tạo nền tảng tín nhiệm. Lời hoa mỹ có thể thu hút sự chú ý trong chốc lát nhưng không tạo ra sự bền vững và lòng tin - những yếu tố cốt lõi của lãnh đạo."
+    },
+    {
+      "id": "q6",
+      "question": "Một người lãnh đạo chân chính sẽ hành động như thế nào khi đối mặt với một vấn đề sai sót nghiêm trọng trong dự án?",
+      "options": [
+        "Dùng lời lẽ hoa mỹ để xoa dịu khách hàng và cấp trên",
+        "Im lặng chờ đợi thời cơ để đổ lỗi cho hoàn cảnh",
+        "Thừa nhận sự thật với giọng run nhưng thái độ cam kết sửa chữa",
+        "Tìm cách che đậy để tránh gây ảnh hưởng đến danh tiếng"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đúng với thông điệp: 'Nói sự thật - dù có run giọng'. Lãnh đạo không phải là người không biết sai, mà là người có đủ dũng khí để đối diện và chịu trách nhiệm."
+    },
+    {
+      "id": "q7",
+      "question": "Theo tư duy của chương này, việc 'cam kết trung thành với lời mình nói' mang lại hệ quả tích cực nào trong quản trị?",
+      "options": [
+        "Tăng cường sự kiểm soát đối với nhân viên",
+        "Loại bỏ hoàn toàn rủi ro trong kinh doanh",
+        "Tạo lập một hệ sinh thái dựa trên lòng tin và sự nhất quán",
+        "Giúp người lãnh đạo bớt phải suy nghĩ nhiều khi ra quyết định"
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi lời nói là cam kết, người lãnh đạo tạo ra một văn hóa trách nhiệm và sự tin cậy cao, là nền tảng để đội ngũ phát triển bền vững."
+    },
+    {
+      "id": "q8",
+      "question": "Sự khác biệt giữa 'người lãnh đạo thâm trầm' và những người thích dùng từ hoa mỹ là gì?",
+      "options": [
+        "Người lãnh đạo thâm trầm thường khó giao tiếp với nhân viên",
+        "Sự chênh lệch giữa lời hứa và hành động thực tế",
+        "Người lãnh đạo thâm trầm thường có ít tham vọng hơn",
+        "Sử dụng từ hoa mỹ giúp thể hiện trình độ học vấn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Người thành công vượt bậc hiểu rằng lời nói là cam kết. Kẻ tầm thường dùng lời hoa mỹ để lấp liếm sự thiếu hụt trong hành động thực tế."
+    },
+    {
+      "id": "q9",
+      "question": "Câu nói 'Mọi đam mê nghề nghiệp đều tuyệt vời nếu được theo đuổi một cách tuyệt vời' ám chỉ điều gì về tư duy phát triển bản thân?",
+      "options": [
+        "Đam mê là yếu tố duy nhất quyết định thành công",
+        "Sự vĩ đại nằm ở cách bạn làm công việc chứ không phải ở tên gọi công việc",
+        "Chỉ những nghề cao quý mới có thể theo đuổi một cách tuyệt vời",
+        "Bạn phải đổi nghề thường xuyên để tìm đam mê thực sự"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là tư duy về sự chủ động cá nhân: vĩ đại không phải là đích đến, mà là cách bạn thực thi công việc hằng ngày."
+    },
+    {
+      "id": "q10",
+      "question": "Điều gì là rào cản lớn nhất ngăn cản một cá nhân trở thành lãnh đạo trong công việc hàng ngày?",
+      "options": [
+        "Thiếu quyền hạn được bổ nhiệm bởi cấp trên",
+        "Nỗi sợ bị phán xét khi phải nói ra những sự thật khó nghe",
+        "Thiếu kỹ năng giao tiếp thuyết phục",
+        "Áp lực quá lớn từ môi trường cạnh tranh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ rõ: người lãnh đạo nói năng cởi mở, chân thành dù họ có sợ hãi. Nỗi sợ là rào cản ngăn cản sự chính trực và khả năng lãnh đạo tiềm ẩn."
+    },
+    {
+      "id": "q11",
+      "question": "Khi tác giả đề cập đến 'hàng ngàn lời hứa sáo rỗng', ông đang cảnh báo về điều gì trong môi trường doanh nghiệp?",
+      "options": [
+        "Sự suy giảm của kỹ năng viết lách",
+        "Văn hóa hình thức lấn át văn hóa thực thi và cam kết",
+        "Sự thiếu hụt nhân tài có khả năng ngoại giao",
+        "Tình trạng lạm phát ngôn từ trong truyền thông nội bộ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sáo rỗng nghĩa là thiếu giá trị thực. Cảnh báo này nhắm vào việc coi trọng vẻ bề ngoài hơn là thực chất kết quả."
+    },
+    {
+      "id": "q12",
+      "question": "Nếu áp dụng tư duy trong chương này, một nhân viên muốn tạo ảnh hưởng cần tập trung vào điều gì?",
+      "options": [
+        "Nói chuyện khéo léo để gây ấn tượng với sếp",
+        "Làm cho lời nói của mình trở thành cam kết thực tế",
+        "Tạo dựng mối quan hệ rộng rãi với đồng nghiệp",
+        "Chờ đợi cơ hội được cất nhắc trước khi bắt đầu hành động"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lãnh đạo không phải là chức danh, đó là hành động. Việc giữ lời hứa và thực thi là cách tốt nhất để tạo tầm ảnh hưởng."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao việc nói sự thật lại là một bài tập rèn luyện cho sự bản lĩnh?",
+      "options": [
+        "Vì sự thật giúp bạn không cần suy nghĩ nhiều",
+        "Vì nói sự thật đòi hỏi phải đối mặt với nỗi sợ tâm lý của chính mình",
+        "Vì chỉ những người có quyền lực mới được phép nói sự thật",
+        "Vì sự thật luôn luôn làm hài lòng mọi người xung quanh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bản lĩnh nằm ở việc giữ vững giá trị khi đối diện với nỗi sợ hãi. Nói sự thật là hành động can đảm nhất trong giao tiếp."
+    },
+    {
+      "id": "q14",
+      "question": "Trong quản trị nhân sự, tại sao người lãnh đạo lại nên ưu tiên 'cởi mở, chân thành, và động viên'?",
+      "options": [
+        "Để nhân viên không cảm thấy bị áp lực quá mức",
+        "Để xây dựng môi trường mà lòng tin được nuôi dưỡng thay vì sự nghi kỵ",
+        "Để tiết kiệm thời gian đào tạo nhân sự mới",
+        "Để tạo hình ảnh người lãnh đạo nhân từ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự cởi mở và chân thành trực tiếp tác động đến lòng tin, yếu tố giúp đội ngũ gắn kết và đạt hiệu quả tối đa."
+    },
+    {
+      "id": "q15",
+      "question": "Lựa chọn nào mô tả đúng nhất sự khác biệt giữa 'người bình thường' và 'người lãnh đạo' theo triết lý của Robin Sharma?",
+      "options": [
+        "Lãnh đạo có nhiều kinh nghiệm hơn người bình thường",
+        "Lãnh đạo biết cách làm người khác sợ hãi",
+        "Lãnh đạo gắn liền hành động với lời nói và chịu trách nhiệm với nó",
+        "Lãnh đạo là người có kỹ năng nói chuyện thuyết phục"
+      ],
+      "correctIndex": 2,
+      "explanation": "Triết lý của tác giả tập trung vào tính cam kết và trách nhiệm cá nhân (integrity) - sự nhất quán giữa lời nói và việc làm - đây là cốt lõi của sự vĩ đại."
+    }
+  ]
+}

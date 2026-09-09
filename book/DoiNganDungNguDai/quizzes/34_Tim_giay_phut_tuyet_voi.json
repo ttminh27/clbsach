@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "34_Tim_giay_phut_tuyet_voi",
+  "totalQuestions": 15,
+  "chapterTitle": "34. Tìm giây phút tuyệt vời",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao Robin Sharma lại khẳng định giây phút ngắm hoa ở bãi đậu xe 'quan trọng hơn nhiều' so với việc nói chuyện trước hàng ngàn người hay nhận tin từ nhà xuất bản?",
+      "options": [
+        "Vì những thành công lớn thường mang lại áp lực, còn thiên nhiên luôn mang lại sự bình yên tuyệt đối.",
+        "Vì giá trị cốt lõi của sự sống nằm ở khả năng hiện diện và kết nối với thực tại, thay vì chỉ đuổi theo các cột mốc thành tựu bên ngoài.",
+        "Vì tác giả muốn hạ thấp tầm quan trọng của danh vọng để độc giả bớt áp lực trong công việc.",
+        "Vì các sự kiện lớn chỉ mang tính nhất thời, còn vẻ đẹp thiên nhiên là vĩnh cửu và không bao giờ thay đổi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tư duy lãnh đạo thực thụ không phủ nhận thành công, nhưng nhận ra bẫy tâm lý 'trì hoãn hạnh phúc'. Nếu chỉ coi trọng các cột mốc lớn, ta sẽ sống trong trạng thái chờ đợi thay vì sống thực sự. Khả năng hiện diện (presence) chính là thước đo của một tâm trí tự do."
+    },
+    {
+      "id": "q2",
+      "question": "Trong bối cảnh quản trị hiệu suất, việc 'tìm giây phút tuyệt vời' dưới tán cây có thể bị coi là lãng phí thời gian. Lập luận nào sau đây phản biện lại định kiến đó một cách thuyết phục nhất?",
+      "options": [
+        "Dành thời gian cho thiên nhiên giúp tăng cường khả năng sáng tạo và phục hồi năng lượng tinh thần, từ đó tối ưu hóa hiệu suất làm việc lâu dài.",
+        "Lãng phí một vài phút không ảnh hưởng đến tiến độ chung của một dự án lớn.",
+        "Người lãnh đạo cần thể hiện mình là người biết tận hưởng cuộc sống để nhân viên noi theo.",
+        "Việc dừng lại giúp ta quên đi những áp lực công việc đang đè nặng để tinh thần thoải mái hơn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đây là tư duy về 'Quản trị năng lượng' thay vì 'Quản trị thời gian'. Những giây phút 'tĩnh' không phải là sự lười biếng mà là khoảng nghỉ chiến lược để tái tạo khả năng tập trung cao độ (Deep Work)."
+    },
+    {
+      "id": "q3",
+      "question": "Tác giả định nghĩa hạnh phúc là 'cảm giác cân xứng toàn vẹn'. Điều này ám chỉ sự chuyển đổi tư duy nào?",
+      "options": [
+        "Hạnh phúc là sự bằng lòng với những gì mình có và ngừng phấn đấu cho những mục tiêu xa vời.",
+        "Hạnh phúc là sự trung dung, không quá vui khi thành công và không quá buồn khi thất bại.",
+        "Từ tư duy 'chiếm hữu' (có thêm thành tựu mới vui) sang tư duy 'nhận thức' (nhận ra những giá trị sẵn có để tạo thế cân bằng cho tâm trí).",
+        "Sự cân bằng giữa thời gian dành cho gia đình và thời gian dành cho công việc cá nhân."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự 'cân xứng toàn vẹn' nghĩa là nhìn thấy bức tranh lớn. Khi gặp thử thách (phía tiêu cực), nếu ta không nhìn thấy những phúc lành sẵn có (phía tích cực) để đối trọng, tâm trí sẽ rơi vào trạng thái lệch lạc, dẫn đến kiệt sức và bi quan."
+    },
+    {
+      "id": "q4",
+      "question": "Câu nói 'Chỉ người chết mới không còn thử thách' phản ánh thái độ sống nào của một người có tư duy phát triển (Growth Mindset)?",
+      "options": [
+        "Chấp nhận thử thách như một phần tất yếu và là dấu hiệu của việc ta đang thực sự sống và hành động.",
+        "Coi thử thách là một hình phạt mà bất cứ ai còn sống cũng phải gánh chịu.",
+        "Tập trung vào việc giải quyết hết mọi vấn đề để có thể đạt đến trạng thái không còn thử thách.",
+        "Thử thách là điều không thể tránh khỏi nên tốt nhất là phớt lờ chúng để tìm kiếm niềm vui nhỏ bé."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tư duy lãnh đạo không tìm kiếm một cuộc đời dễ dàng, mà tìm kiếm sức mạnh để đối mặt với những thử thách khó khăn. Sự tồn tại của thử thách chứng minh bạn đang dấn thân và vận động."
+    },
+    {
+      "id": "q5",
+      "question": "Một người quản lý liên tục trì hoãn việc khen ngợi đội ngũ cho đến khi dự án kết thúc thành công rực rỡ. Theo triết lý của chương này, sai lầm lớn nhất của họ là gì?",
+      "options": [
+        "Họ đang quá khắt khe với nhân viên.",
+        "Họ vi phạm nguyên tắc 'vui thú trên đường đời', làm triệt tiêu động lực và niềm vui tự thân trong quá trình thực hiện mục tiêu.",
+        "Họ không hiểu rằng nhân viên cần được khen thưởng bằng vật chất hơn là lời nói.",
+        "Họ đang quá tập trung vào kết quả mà quên mất việc kiểm soát quy trình."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thành công là một hành trình, không phải đích đến. Nếu chỉ đợi đến đích mới ăn mừng, chúng ta sẽ bỏ lỡ những 'giây phút tuyệt vời' giúp nuôi dưỡng sự gắn kết và lòng nhiệt huyết xuyên suốt hành trình đó."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao tác giả lại nhấn mạnh rằng những giây phút tuyệt vời nhất 'hầu như đều miễn phí'?",
+      "options": [
+        "Vì những người nghèo cũng có quyền hạnh phúc như người giàu.",
+        "Để nhắc nhở rằng tiền bạc không mua được hạnh phúc thực sự trong cuộc sống.",
+        "Để phá vỡ ngụy biện rằng 'tôi cần thành công tài chính trước rồi mới có thể hạnh phúc'.",
+        "Vì thiên nhiên là tài sản chung của nhân loại không ai phải trả tiền để chiêm ngưỡng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bẫy tâm lý phổ biến là đặt điều kiện cho hạnh phúc gắn liền với điều kiện tài chính hoặc địa vị. Bằng cách chỉ ra những giá trị miễn phí, tác giả giải phóng độc giả khỏi sự lệ thuộc vào các yếu tố ngoại cảnh."
+    },
+    {
+      "id": "q7",
+      "question": "Hành động 'nhắm mắt và thưởng thức mùi hương' của Robin Sharma giữa bãi đậu xe phản ánh kỹ năng lãnh đạo bản thân nào?",
+      "options": [
+        "Kỹ năng quản lý cảm xúc trong tình huống khẩn cấp.",
+        "Kỹ năng chánh niệm (Mindfulness) – khả năng điều hướng sự tập trung vào hiện tại thay vì bị cuốn đi bởi những suy nghĩ về tương lai hoặc quá khứ.",
+        "Kỹ năng quan sát chi tiết để tìm kiếm cơ hội kinh doanh mới.",
+        "Kỹ năng thư giãn để chuẩn bị cho một bài thuyết trình quan trọng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lãnh đạo bản thân bắt đầu từ việc làm chủ sự chú ý. Trong một thế giới đầy xao nhãng, khả năng dừng lại để cảm nhận thực tại là một biểu hiện của sự tự chủ (self-mastery) cực cao."
+    },
+    {
+      "id": "q8",
+      "question": "Trong triết lý của chương này, việc 'tập trung hoàn thiện sự nghiệp' và 'vui thú trên đường đời' có mối quan hệ như thế nào?",
+      "options": [
+        "Đó là hai mục tiêu mâu thuẫn, cần phải biết hy sinh cái này cho cái kia tùy giai đoạn.",
+        "Đó là mối quan hệ cộng hưởng, nơi niềm vui trên đường đời là nhiên liệu cho sự bền bỉ trong sự nghiệp.",
+        "Việc vui thú là phần thưởng sau khi đã hoàn thiện sự nghiệp rực rỡ.",
+        "Sự nghiệp là ưu tiên hàng đầu, niềm vui chỉ là yếu tố phụ thêm nếu có thời gian."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả không khuyên từ bỏ sự nghiệp. Ông đề cao việc tích hợp cả hai. Một người thành đạt nhưng héo úa về tâm hồn không phải là hình mẫu lãnh đạo không chức danh mà tác giả hướng tới."
+    },
+    {
+      "id": "q9",
+      "question": "Nếu một nhân viên đang gặp khủng hoảng trong công việc, lời khuyên nào từ chương này sẽ mang tính 'nghịch lý' nhưng hiệu quả nhất?",
+      "options": [
+        "Hãy làm việc chăm chỉ hơn nữa để vượt qua khủng hoảng nhanh chóng.",
+        "Hãy tạm dừng lại, tìm một giây phút tuyệt vời nhỏ bé để lấy lại cảm giác 'cân xứng', từ đó có cái nhìn sáng suốt hơn về vấn đề.",
+        "Hãy phớt lờ những khó khăn và chỉ tập trung vào những điều tích cực.",
+        "Hãy tìm kiếm sự giúp đỡ từ những người thành công hơn mình."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi khủng hoảng, tâm trí thường bị 'đóng băng' trong tiêu cực. Việc tìm kiếm một khoảnh khắc đẹp giúp tái lập sự cân bằng hóa học trong não bộ (giảm cortisol, tăng dopamine), giúp tư duy giải quyết vấn đề hiệu quả hơn."
+    },
+    {
+      "id": "q10",
+      "question": "Cụm từ 'một đôi mắt sáng để thấy mọi việc' trong văn cảnh này ẩn dụ cho điều gì?",
+      "options": [
+        "Sức khỏe thể chất tốt để làm việc hiệu quả.",
+        "Sự tỉnh táo để không bị đối thủ lừa gạt.",
+        "Lòng biết ơn và khả năng nhận diện những giá trị vô hình thường bị xem là hiển nhiên.",
+        "Tầm nhìn chiến lược trong kinh doanh."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trong phát triển bản thân, 'thấy' không chỉ là thị giác mà là nhận thức. Chúng ta thường coi những thứ mình có là hiển nhiên cho đến khi mất đi. Biết ơn những điều cơ bản là nền tảng của sự vững chãi tâm lý."
+    },
+    {
+      "id": "q11",
+      "question": "Điều gì tạo nên sự khác biệt giữa 'người vĩ đại' và 'người tầm thường' trong việc trải nghiệm cuộc sống theo góc nhìn của Sharma?",
+      "options": [
+        "Người vĩ đại có nhiều giây phút tuyệt vời hơn vì họ giàu có hơn.",
+        "Người tầm thường chỉ thấy rắc rối, người vĩ đại chọn lọc để thấy cả rắc rối lẫn những món quà của cuộc sống.",
+        "Người vĩ đại không bao giờ gặp thử thách vì họ biết cách phòng tránh.",
+        "Người tầm thường quá bận rộn, còn người vĩ đại thì không cần làm việc nhiều."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự khác biệt nằm ở 'bộ lọc nhận thức'. Cùng một bãi đậu xe, người tầm thường chỉ thấy sự chật chội, người có tư duy vĩ đại thấy được vẻ đẹp của hoa nở. Lãnh đạo là khả năng nhìn thấy cơ hội và vẻ đẹp trong mọi hoàn cảnh."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao việc 'cười vui, thư giãn, phiêu lưu' lại được đặt cạnh việc 'hoàn thiện sự nghiệp'?",
+      "options": [
+        "Để nhắc nhở rằng chúng ta không nên quá nghiêm trọng hóa cuộc đời.",
+        "Vì tác giả muốn cuốn sách có nội dung nhẹ nhàng, dễ đọc.",
+        "Để giải thích rằng thành công mà không có niềm vui là một thất bại được ngụy trang.",
+        "Vì những hoạt động đó giúp mở rộng mạng lưới quan hệ xã hội cho sự nghiệp."
+      ],
+      "correctIndex": 2,
+      "explanation": "Một cuộc đời 'ngắn' mà chỉ có công việc là một cuộc đời lãng phí. Triết lý của Robin Sharma nhấn mạnh đến sự viên mãn toàn diện (Holistic Success), không chỉ là các con số trong tài khoản ngân hàng."
+    },
+    {
+      "id": "q13",
+      "question": "Khi đối mặt với một dự án thất bại, một người áp dụng tư duy 'Tìm giây phút tuyệt vời' sẽ phản ứng như thế nào?",
+      "options": [
+        "Cố gắng ép mình phải cười để quên đi nỗi buồn thất bại.",
+        "Chấp nhận nỗi buồn, nhưng vẫn nhận ra mình còn sức khỏe và gia đình để lấy làm điểm tựa hồi phục.",
+        "Tự nhủ rằng thất bại là chuyện nhỏ vì cuộc sống còn nhiều hoa đẹp.",
+        "Bỏ mặc dự án để đi du lịch và tìm kiếm sự thư giãn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đó là sự 'cân xứng toàn vẹn'. Bạn không phủ nhận thất bại, nhưng bạn không để nó định nghĩa toàn bộ con người bạn. Bạn dùng những 'phúc lành' khác để giữ cho lòng tự trọng và ý chí không bị sụp đổ hoàn toàn."
+    },
+    {
+      "id": "q14",
+      "question": "Thông điệp ẩn sâu nhất của việc đậu xe dưới tán cây là gì?",
+      "options": [
+        "Nên đi làm sớm để tìm được chỗ đậu xe đẹp.",
+        "Sự kỳ diệu luôn tồn tại trong những điều bình thường nhất, nếu chúng ta đủ chậm lại để nhận ra.",
+        "Môi trường làm việc cần có nhiều cây xanh để nhân viên hạnh phúc.",
+        "Tác giả là một người rất yêu thiên nhiên và thơ mộng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cuộc sống không thiếu những điều kỳ diệu, nó chỉ thiếu những đôi mắt biết quan sát. Đây là bài học về sự thức tỉnh tâm linh và nhận thức trong đời sống thường nhật."
+    },
+    {
+      "id": "q15",
+      "question": "Từ tiêu đề 'Đời ngắn đừng ngủ dài', chương này đóng góp ý nghĩa gì cho tổng thể tư tưởng của cuốn sách?",
+      "options": [
+        "Khuyên mọi người thức dậy sớm để ngắm hoa trước khi làm việc.",
+        "Giải thích rằng 'đừng ngủ dài' không chỉ là bớt ngủ cơ học, mà là đừng 'ngủ quên' trước những vẻ đẹp và giá trị sống ngay bên cạnh mình.",
+        "Nhắc nhở rằng thời gian có hạn nên phải làm việc liên tục không ngừng nghỉ.",
+        "Cảnh báo về việc lãng phí thời gian vào những việc không mang lại tiền bạc."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ngủ dài' là một trạng thái ẩn dụ cho việc sống vô thức, sống như một cỗ máy. 'Thức tỉnh' nghĩa là biết trân trọng hiện tại và những giá trị cốt lõi, dù là nhỏ bé nhất, để mỗi ngày sống đều thực sự có ý nghĩa."
+    }
+  ]
+}

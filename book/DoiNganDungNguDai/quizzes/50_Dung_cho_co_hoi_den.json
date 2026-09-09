@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "50_Dung_cho_co_hoi_den",
+  "chapterTitle": "50. Đừng chờ cơ hội đến",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Trong chương này, tác giả thừa nhận tính nóng nảy của mình. Bài học lớn nhất từ việc này đối với một nhà lãnh đạo là gì?",
+      "options": [
+        "Phải kìm nén mọi cảm xúc tiêu cực để giữ hình ảnh chuyên nghiệp",
+        "Biết cách chuyển hóa điểm yếu cá nhân thành đòn bẩy cho hành động",
+        "Chỉ cần là người hoàn hảo thì mới có thể dẫn dắt người khác",
+        "Tính nóng nảy là tố chất cần thiết nhất của mọi doanh nhân"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ ra rằng điểm yếu có thể là nguồn sức mạnh nếu biết cách định hướng. Đáp án A sai vì giả tạo, C sai vì không ai hoàn hảo, D sai vì nóng nảy không phải điều kiện đủ."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao tác giả lại khẳng định 'Đôi khi nếu muốn thấy sự thay đổi tốt đẹp, bạn phải đích thân nắm sự việc trong tay'?",
+      "options": [
+        "Vì không ai trong đội ngũ có đủ năng lực để làm việc đó",
+        "Vì việc ủy quyền là biểu hiện của sự thiếu trách nhiệm",
+        "Vì sự thay đổi thực sự thường đòi hỏi người lãnh đạo phải bước ra khỏi vùng an toàn và dấn thân",
+        "Vì cấp dưới thường cố tình trì hoãn công việc để chờ lệnh"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tư duy lãnh đạo không phải là làm thay, mà là dấn bước tiên phong khi người khác do dự. Đáp án A và D là suy diễn chủ quan, B sai về quản trị học."
+    },
+    {
+      "id": "q3",
+      "question": "Trong bối cảnh công sở, khi gặp một vấn đề trì trệ kéo dài, thái độ nào phản ánh đúng tinh thần của chương này?",
+      "options": [
+        "Kiên nhẫn chờ cấp trên đưa ra hướng giải quyết cụ thể",
+        "Đề xuất giải pháp và chủ động nhận trách nhiệm khởi xướng thực thi",
+        "Phân tích kỹ các lỗi sai của đồng nghiệp để không bị liên đới",
+        "Đợi đến khi các thành viên khác đạt được đồng thuận rồi mới tham gia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự chủ động là chìa khóa của 'lãnh đạo không chức danh'. Các phương án còn lại đều là tư duy nạn nhân hoặc người thụ động chờ đợi."
+    },
+    {
+      "id": "q4",
+      "question": "Tác giả nói mình là 'công trình còn đang dở dang'. Tư duy này giúp ích gì cho quá trình phát triển bản thân?",
+      "options": [
+        "Dễ dàng bào chữa cho các sai lầm trong quá khứ",
+        "Luôn duy trì thái độ cầu tiến và học hỏi không ngừng",
+        "Giảm bớt áp lực từ sự kỳ vọng của xã hội",
+        "Tập trung hoàn toàn vào việc sửa chữa lỗi sai thay vì phát triển thế mạnh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tư duy 'dở dang' giúp ta giữ tâm thế của người học trò, thúc đẩy tăng trưởng liên tục. Đáp án A là sự ngụy biện, D là cách tư duy thiếu cân bằng."
+    },
+    {
+      "id": "q5",
+      "question": "Theo triết lý của tác giả, đâu là sự khác biệt giữa 'người chờ cơ hội' và 'người lãnh đạo sự thay đổi'?",
+      "options": [
+        "Người lãnh đạo thay đổi không cần đến đồng đội",
+        "Người lãnh đạo thay đổi sẵn sàng chấp nhận rủi ro khi những người khác còn do dự",
+        "Người lãnh đạo thay đổi luôn có nhiều thời gian rảnh rỗi hơn",
+        "Người lãnh đạo thay đổi chỉ tập trung vào tài năng cá nhân thay vì tập thể"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khả năng hành động khi mọi người khác còn chần chừ chính là định nghĩa của bản lĩnh. Các phương án khác hiểu sai hoàn toàn về sự cộng tác."
+    },
+    {
+      "id": "q6",
+      "question": "Nếu phải đối mặt với một thay đổi cần thực hiện nhanh chóng, nhưng đội nhóm của bạn muốn chần chừ, bạn nên chọn cách nào?",
+      "options": [
+        "Ép buộc họ làm theo ý mình bằng quyền lực cấp trên",
+        "Tự mình thực hiện mọi công việc để đảm bảo tốc độ",
+        "Truyền cảm hứng và dấn thân làm bước đầu tiên để khơi gợi tinh thần làm việc",
+        "Chờ đợi thêm thời gian để mọi người cảm thấy thoải mái hơn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lãnh đạo là người truyền lửa và tiên phong, không phải người độc tài hay người làm thay. Đáp án C thể hiện tư duy lãnh đạo thực thụ."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao việc 'đợi ai đó dấn bước đầu tiên' lại là một cái bẫy tâm lý?",
+      "options": [
+        "Nó tạo ra sự an toàn giả tạo nhưng làm tê liệt sự phát triển cá nhân",
+        "Nó giúp ta tiết kiệm năng lượng cho những việc quan trọng hơn",
+        "Nó là cách tốt nhất để tránh bị chỉ trích nếu kế hoạch thất bại",
+        "Nó là biểu hiện của sự khiêm tốn cần có trong văn hóa làm việc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự chờ đợi làm mất đi quyền tự quyết và biến bản thân thành người thụ động. C và D là các ngụy biện về sự an toàn."
+    },
+    {
+      "id": "q8",
+      "question": "Tác giả đề cập: 'Tất nhiên ta cần đồng đội'. Điều này ngụ ý gì về mối quan hệ giữa tốc độ cá nhân và hiệu quả tập thể?",
+      "options": [
+        "Càng nhiều đồng đội thì tốc độ càng chậm, nên hãy làm một mình",
+        "Tốc độ cá nhân là yếu tố duy nhất quyết định thành công",
+        "Sự chủ động cá nhân là ngòi nổ, nhưng thành tựu bền vững cần sự cộng tác có chọn lọc",
+        "Giao việc cho người khác là cách nhanh nhất để chối bỏ trách nhiệm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đúng là cần tốc độ cá nhân để bắt đầu, nhưng sự xuất chúng cần sự kết hợp đa dạng tài năng. Các đáp án khác sai về bản chất cộng tác."
+    },
+    {
+      "id": "q9",
+      "question": "Cách tư duy của tác giả về 'tốc độ' nên được hiểu như thế nào cho đúng trong quản trị?",
+      "options": [
+        "Làm mọi thứ vội vàng để đuổi kịp đối thủ",
+        "Làm cho xong việc là ưu tiên hàng đầu, chất lượng không quan trọng",
+        "Là sự quyết liệt trong hành động và cam kết với kết quả, thay vì trì hoãn",
+        "Luôn thay đổi mục tiêu nếu kết quả không đến tức thì"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tốc độ ở đây là sự quyết đoán và thái độ làm việc hiệu quả, không phải là sự cẩu thả hay hấp tấp."
+    },
+    {
+      "id": "q10",
+      "question": "Khi bạn nhận thấy mình là người duy nhất nhìn thấy một cơ hội thay đổi, hành động nào là thể hiện sự xuất chúng?",
+      "options": [
+        "Giữ im lặng cho đến khi được hỏi ý kiến",
+        "Đợi sếp ra lệnh thì mới thực hiện",
+        "Can đảm khởi xướng thay đổi và lôi cuốn người khác tham gia",
+        "Viết một bản kế hoạch dài và chờ đợi sự đồng thuận hoàn toàn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Người xuất chúng dám bước ra ngoài vùng an toàn để hiện thực hóa tầm nhìn của mình, bất chấp sự đồng thuận ban đầu chưa có."
+    },
+    {
+      "id": "q11",
+      "question": "Thái độ nào của một cá nhân sẽ làm chậm tiến trình đổi mới của một tổ chức nhất?",
+      "options": [
+        "Hỏi quá nhiều câu hỏi phản biện",
+        "Thói quen chờ đợi người khác bắt đầu để mình chỉ việc hưởng ứng",
+        "Mong muốn hoàn thành công việc quá nhanh",
+        "Đưa ra quá nhiều ý tưởng nhưng không bắt tay làm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tâm lý chờ đợi của tập thể tạo nên sự trì trệ. Phương án B là gốc rễ của sự thụ động."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao việc tự nhận mình là người 'không phải chuyên gia' lại là một tư duy lãnh đạo mạnh mẽ?",
+      "options": [
+        "Vì nó giúp bạn tránh được trách nhiệm khi thất bại",
+        "Vì nó giúp bạn duy trì sự khiêm tốn và cởi mở với những cách làm mới",
+        "Vì nó khiến người khác không kỳ vọng quá nhiều vào bạn",
+        "Vì nó chứng tỏ bạn là người không có năng lực thực tế"
+      ],
+      "correctIndex": 1,
+      "explanation": "Người lãnh đạo xuất chúng biết rằng họ không biết tất cả, từ đó họ luôn sẵn sàng học hỏi và tìm kiếm giải pháp sáng tạo."
+    },
+    {
+      "id": "q13",
+      "question": "Khái niệm 'Đại diện của sự xuất chúng' trong bài viết liên quan mật thiết đến yếu tố nào?",
+      "options": [
+        "Sự hoàn hảo về mặt kỹ năng chuyên môn",
+        "Khả năng thu phục lòng người bằng uy quyền",
+        "Sự chủ động, can đảm và chịu trách nhiệm với sự thay đổi",
+        "Thói quen làm việc độc lập không cần ai hỗ trợ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả định nghĩa xuất chúng là dám dẫn đầu, dám dấn thân và không chờ đợi ngoại cảnh."
+    },
+    {
+      "id": "q14",
+      "question": "Nếu mục tiêu là 'kết quả', nhưng quy trình hiện tại lại quá chậm chạp, bạn sẽ áp dụng triết lý gì từ bài viết?",
+      "options": [
+        "Chấp nhận quy trình vì đó là kỷ luật",
+        "Tìm cách cải tiến hoặc vượt qua quy trình để đạt được kết quả một cách đạo đức",
+        "Đổ lỗi cho hệ thống cũ kỹ nên không thể làm gì khác",
+        "Chờ cấp trên thay đổi quy trình rồi mới bắt đầu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đừng để quy trình giết chết cơ hội. Người lãnh đạo tìm cách tối ưu hóa kết quả trong khi vẫn giữ vững đạo đức."
+    },
+    {
+      "id": "q15",
+      "question": "Điều gì là rào cản lớn nhất ngăn con người đạt được sự xuất chúng theo tinh thần của chương này?",
+      "options": [
+        "Thiếu nguồn lực tài chính",
+        "Sự chờ đợi sự cho phép hoặc thời điểm hoàn hảo",
+        "Thiếu sự công nhận từ cấp trên",
+        "Thiếu kỹ năng chuyên môn chuyên sâu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nỗi sợ hãi và thói quen chờ đợi là những 'tử huyệt' của sự phát triển cá nhân. Khi ta bắt đầu, ta đã là người dẫn đầu."
+    }
+  ]
+}

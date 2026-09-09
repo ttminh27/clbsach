@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "76_Doi_ngan_dung_ngu_dai",
+  "chapterTitle": "76. Đời ngắn đừng ngủ dài",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo góc nhìn của Robin Sharma, việc 'ngủ quá nhiều' thực chất là biểu hiện của vấn đề gì trong tư duy lãnh đạo bản thân?",
+      "options": [
+        "Sự thiếu hụt về thể chất cần được bù đắp",
+        "Sự ưu tiên cảm giác an toàn ngắn hạn hơn mục tiêu dài hạn",
+        "Một hình thức nạp năng lượng cần thiết cho người làm sáng tạo",
+        "Sự thiếu hụt về kỹ năng quản lý thời gian khoa học"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả coi việc ngủ quá nhiều là sự đánh đổi sự vĩ đại cho những giây phút thoải mái trên nệm ấm. Đây là tư duy về sự ưu tiên, nơi người ta chọn 'vùng an toàn' thay vì 'sự vượt trội'."
+    },
+    {
+      "id": "q2",
+      "question": "Nghịch lý 'giấc ngủ kéo theo giấc ngủ' mà tác giả đề cập phản ánh thực trạng tâm lý nào trong đời sống hiện đại?",
+      "options": [
+        "Sự suy giảm chất lượng giấc ngủ do ánh sáng xanh",
+        "Hiệu ứng tích tụ của sự trì hoãn và trạng thái ỳ trong tinh thần",
+        "Cơ chế sinh học bị phá vỡ bởi nhịp sống công nghiệp",
+        "Sự phụ thuộc vào các công cụ hỗ trợ giấc ngủ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ ra rằng khi chúng ta buông thả bản thân trong trạng thái ngủ, ta tạo ra một vòng lặp tâm lý: càng chiều chuộng bản thân, ý chí càng giảm, dẫn đến nhu cầu nghỉ ngơi càng lớn."
+    },
+    {
+      "id": "q3",
+      "question": "Khi tác giả khẳng định 'ta đã thua trong cuộc chiến với giường nệm', ông muốn ám chỉ điều gì về kỷ luật bản thân?",
+      "options": [
+        "Chúng ta thiếu thiết bị giường nệm đạt chuẩn",
+        "Sự thất bại trong việc kiểm soát các ham muốn bản năng",
+        "Kỹ năng lập kế hoạch cho buổi sáng chưa tối ưu",
+        "Chúng ta quá xem trọng sức khỏe hơn mục tiêu sự nghiệp"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chiến thắng giường nệm là biểu tượng của việc kiểm soát ý chí. Ai không chiến thắng được sự thoải mái tức thời ngay khi vừa thức dậy sẽ khó có thể chiến thắng trong các thử thách lớn hơn của cuộc đời."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao việc ngủ ít hơn lại được coi là công cụ để 'sống nhiều hơn' trong bối cảnh phát triển tiềm năng con người?",
+      "options": [
+        "Vì thời gian dư thừa giúp làm được nhiều việc hơn",
+        "Vì giới hạn thời gian buộc bộ não phải làm việc hiệu quả và tập trung hơn",
+        "Vì việc cắt giảm giấc ngủ làm tăng nồng độ adrenaline trong máu",
+        "Vì đó là thước đo duy nhất để đánh giá sự vĩ đại"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tư duy vĩ đại không chỉ là về số lượng công việc, mà là về việc nhận thức được giá trị của thời gian. Giới hạn thời gian giúp ta ưu tiên những việc quan trọng, loại bỏ sự tầm thường."
+    },
+    {
+      "id": "q5",
+      "question": "Cách hiểu đúng nhất về thông điệp 'Sau khi chết rồi, bạn sẽ có dư thời gian để ngủ' của Benjamin Franklin là gì?",
+      "options": [
+        "Khuyến khích con người làm việc quá sức đến kiệt quệ",
+        "Nhấn mạnh sự hữu hạn của kiếp người để thúc đẩy hành động",
+        "Phê phán những người mắc bệnh trầm cảm",
+        "Khuyên mọi người nên cắt giảm giấc ngủ xuống mức tối thiểu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là lời nhắc nhở về tính cấp bách (urgency) của cuộc sống. Thay vì trì hoãn, chúng ta nên tối đa hóa sự đóng góp trong khi còn cơ hội."
+    },
+    {
+      "id": "q6",
+      "question": "Sự khác biệt cốt lõi giữa một người 'vĩ đại' và người 'tầm thường' trong cách ứng xử với sự mệt mỏi buổi sáng là gì?",
+      "options": [
+        "Người vĩ đại không bao giờ biết mệt",
+        "Người vĩ đại chọn hành động dựa trên mục đích thay vì cảm xúc nhất thời",
+        "Người vĩ đại có sức khỏe bẩm sinh tốt hơn",
+        "Người vĩ đại làm việc vào ban đêm thay vì ban ngày"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lãnh đạo bản thân là biết tách biệt giữa cảm giác (buồn ngủ, lười biếng) và nghĩa vụ (mục tiêu). Người tầm thường để cảm xúc dẫn lối, người vĩ đại để mục tiêu dẫn lối."
+    },
+    {
+      "id": "q7",
+      "question": "Thông điệp của chương này phản bác quan điểm nào dưới đây về thành công?",
+      "options": [
+        "Thành công đòi hỏi sự kiên trì",
+        "Thành công là kết quả của việc cân bằng cuộc sống và công việc",
+        "Thành công đòi hỏi sự hy sinh những sự thoải mái ngắn hạn",
+        "Thành công là kết quả của năng khiếu thiên bẩm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả thách thức quan niệm 'cân bằng' theo kiểu chiều chuộng bản thân quá mức. Ông cho rằng để đạt được sự xuất sắc, đôi khi ta phải chọn sự không cân bằng (tập trung cao độ cho mục tiêu) thay vì sự êm ấm."
+    },
+    {
+      "id": "q8",
+      "question": "Việc quá yêu 'chăn mến gối' được tác giả ẩn dụ cho điều gì trong tâm lý học quản trị bản thân?",
+      "options": [
+        "Nhu cầu cơ bản về sự an toàn",
+        "Trạng thái trì trệ, không chịu thoát khỏi vùng an toàn",
+        "Sự thiếu hụt kỹ năng quản trị cảm xúc",
+        "Một dạng rối loạn giấc ngủ phổ biến"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Chăn mến gối' là biểu tượng cho vùng an toàn (comfort zone), nơi mọi tiềm năng bị thui chột vì sự thiếu kỷ luật và trì hoãn."
+    },
+    {
+      "id": "q9",
+      "question": "Nếu một người luôn cảm thấy 'càng ngủ càng buồn ngủ', giải pháp triết học nào phù hợp với tư duy của tác giả?",
+      "options": [
+        "Tăng cường thực phẩm bổ sung năng lượng",
+        "Tăng cường kỷ luật và sự vận động để phá vỡ quán tính tâm lý",
+        "Thay đổi loại nệm đang sử dụng",
+        "Đi khám bác sĩ để tìm nguyên nhân bệnh lý"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả tin vào sức mạnh của ý chí và tư duy. Phá vỡ quán tính là hành động cần thiết để thoát khỏi vòng lặp tiêu cực của sự ỳ ạch."
+    },
+    {
+      "id": "q10",
+      "question": "Theo quan điểm bài viết, tại sao việc 'đổi mới' và 'phát huy tài năng' khó thực hiện với những người thích ngủ nướng?",
+      "options": [
+        "Vì họ không có thời gian để học hỏi",
+        "Vì sự nuông chiều bản thân làm tê liệt khả năng chịu đựng thử thách",
+        "Vì môi trường ngủ nướng làm giảm IQ",
+        "Vì họ không có đủ tiền để đầu tư phát triển"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự đổi mới và phát huy tài năng cần sự khổ luyện và kiên trì. Nếu ngay cả việc dậy sớm còn không làm được, việc thực hiện các dự án thay đổi bản thân lớn lao sẽ trở nên bất khả thi."
+    },
+    {
+      "id": "q11",
+      "question": "Trong bối cảnh lãnh đạo, thái độ đối với việc ngủ nướng phản ánh điều gì về giá trị cốt lõi của một cá nhân?",
+      "options": [
+        "Khả năng quản lý tài chính",
+        "Sự tôn trọng đối với sứ mệnh cá nhân",
+        "Khả năng làm việc nhóm",
+        "Gu thẩm mỹ cá nhân"
+      ],
+      "correctIndex": 1,
+      "explanation": "Người có sứ mệnh lớn hiểu rằng thời gian là hữu hạn. Việc ngủ nướng cho thấy sự ưu tiên cá nhân chưa đặt sứ mệnh cao hơn sự thỏa mãn giác quan."
+    },
+    {
+      "id": "q12",
+      "question": "Điều gì là rào cản lớn nhất ngăn con người đạt tới sự vĩ đại theo lập luận của Robin Sharma?",
+      "options": [
+        "Hoàn cảnh kinh tế",
+        "Sự tầm thường do chính thói quen nhỏ nhặt hàng ngày tạo ra",
+        "Thiếu sự dẫn dắt của người thầy giỏi",
+        "Áp lực từ xã hội"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh rằng chính sự tầm thường trong thói quen (như việc ngủ quá nhiều) đã hút hết tiềm năng của con người, khiến họ lãng phí cuộc đời."
+    },
+    {
+      "id": "q13",
+      "question": "Phát biểu nào sau đây là sự tóm tắt chính xác nhất triết lý của chương này?",
+      "options": [
+        "Hãy ngủ đủ 8 tiếng để đảm bảo sức khỏe",
+        "Đừng để sự thoải mái nhất thời đánh cắp cơ hội tạo nên sự vĩ đại",
+        "Ngủ là sự lãng phí thời gian lớn nhất của con người",
+        "Hãy tìm cách làm việc trong khi ngủ để tối ưu hóa năng suất"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương này không phủ nhận vai trò của giấc ngủ (cần thiết để khỏe mạnh), nhưng cảnh báo về việc 'ngủ quá nhiều' do yêu sự thoải mái, dẫn đến việc mất đi tiềm năng sống."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao 'ngủ ít hơn để sống nhiều hơn' không phải là lời khuyên làm việc kiệt sức?",
+      "options": [
+        "Vì tác giả ủng hộ việc làm việc thông minh hơn là làm việc chăm chỉ",
+        "Vì tác giả chỉ khuyên nên dậy sớm để bắt đầu ngày mới một cách ý nghĩa",
+        "Vì tác giả tin rằng con người không cần ngủ",
+        "Vì tác giả cho rằng giấc ngủ là khái niệm tâm lý không phải sinh lý"
+      ],
+      "correctIndex": 1,
+      "explanation": "Điểm mấu chốt là chất lượng sống (sống nhiều hơn) chứ không phải là sự hành xác. Dậy sớm giúp người ta kiểm soát ngày mới với sự chủ động và tỉnh táo."
+    },
+    {
+      "id": "q15",
+      "question": "Khi đối mặt với sự cám dỗ của việc ngủ nướng, tư duy lãnh đạo bản thân cần được áp dụng là:",
+      "options": [
+        "Ngủ thêm 5 phút để có sức khỏe tốt hơn",
+        "Đặt câu hỏi: 'Việc này giúp mình tiến gần hơn đến mục tiêu vĩ đại không?'",
+        "Bỏ qua vì đó chỉ là việc nhỏ",
+        "Thỏa thuận với bản thân rằng hôm nay sẽ làm bù vào buổi tối"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lãnh đạo bản thân là sự kết nối hành động nhỏ với mục tiêu lớn. Nhận thức rằng việc ngủ nướng là một sự từ bỏ tiềm năng sẽ giúp ta có động lực đứng dậy."
+    }
+  ]
+}

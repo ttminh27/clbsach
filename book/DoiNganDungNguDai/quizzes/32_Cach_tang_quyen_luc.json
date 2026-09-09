@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "32_Cach_tang_quyen_luc",
+  "chapterTitle": "32. Cách tăng quyền lực",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo triết lý của tác giả, nghịch lý lớn nhất của quyền lực lãnh đạo là gì?",
+      "options": [
+        "Càng giữ quyền lực chặt chẽ, người lãnh đạo càng khó bị thay thế",
+        "Quyền lực thực sự tăng lên khi bạn biết cách chia sẻ và trao quyền cho người khác",
+        "Quyền lực chỉ có giá trị khi nó được khẳng định bằng chức danh trên danh thiếp",
+        "Sự phục tùng của cấp dưới là thước đo duy nhất để đánh giá sức mạnh lãnh đạo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh quyền lực không phải là tài nguyên hữu hạn để sở hữu mà là năng lượng cần lan tỏa. Phương án 1 và 3 là tư duy kiểm soát truyền thống, còn phương án 4 nhầm lẫn giữa sự phục tùng và sự tận tâm."
+    },
+    {
+      "id": "q2",
+      "question": "Vì sao việc 'lãnh đạo không cần danh phận' lại là một chiến lược gia tăng quyền lực cho cá nhân?",
+      "options": [
+        "Nó giúp cá nhân né tránh trách nhiệm khi có sai sót xảy ra",
+        "Nó tạo ra sự phụ thuộc của cấp trên vào năng lực của bạn",
+        "Nó xây dựng tầm ảnh hưởng dựa trên sự tôn trọng tự nguyện thay vì áp đặt",
+        "Nó giúp bạn tiết kiệm năng lượng bằng cách không làm những việc không thuộc trách nhiệm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lãnh đạo không danh phận nhấn mạnh vào giá trị bản thân (value-add). Phương án 3 phản ánh tư duy tạo dựng tầm ảnh hưởng tự thân, trong khi các phương án khác thể hiện sự ích kỷ hoặc tư duy tránh né."
+    },
+    {
+      "id": "q3",
+      "question": "Dưới góc độ quản trị nhóm, tư duy 'năm người giỏi nhất trong nhóm' thường dẫn đến rủi ro nào?",
+      "options": [
+        "Xung đột về quyền lợi và cái tôi cá nhân thay vì mục tiêu chung",
+        "Làm tăng chi phí vận hành do mức lương của các ngôi sao",
+        "Giảm sự sáng tạo vì quá nhiều người muốn dẫn dắt",
+        "Khiến quy trình làm việc trở nên cứng nhắc và khó kiểm soát"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi có quá nhiều cá nhân xuất sắc nhưng thiếu sự kết nối, sự cạnh tranh nội bộ thường lấn át mục tiêu chung. Câu hỏi đòi hỏi hiểu sự khác biệt giữa 'nhân tài' và 'nhóm làm việc hiệu quả'."
+    },
+    {
+      "id": "q4",
+      "question": "Khi bạn trao quyền cho nhân viên, hành động nào dưới đây là biểu hiện của người lãnh đạo hiểu sai triết lý 'gia tăng quyền lực'?",
+      "options": [
+        "Ủy thác công việc kèm theo sự hướng dẫn chi tiết",
+        "Giao việc nhưng vẫn kiểm soát mọi bước thực hiện nhỏ nhặt",
+        "Trao quyền gắn liền với sự tin tưởng vào khả năng của họ",
+        "Khuyến khích nhân viên tự đưa ra quyết định trong phạm vi của mình"
+      ],
+      "correctIndex": 1,
+      "explanation": "Giao việc nhưng kiểm soát (micromanagement) thực chất là không tin tưởng. Đây là bẫy của những người lãnh đạo sợ mất quyền kiểm soát, khiến nhân viên mất động lực."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao việc 'đối xử với nhân viên bằng lòng tôn trọng' lại là một công cụ lãnh đạo mang tính chiến lược?",
+      "options": [
+        "Vì tôn trọng giúp nhà lãnh đạo dễ dàng sa thải nhân viên khi cần",
+        "Vì tôn trọng tạo nên một môi trường làm việc hòa thuận để dễ quản lý",
+        "Vì đó là nền tảng để xây dựng sự cam kết và tận hiến tự nguyện của cấp dưới",
+        "Vì nó là yêu cầu đạo đức tối thiểu trong văn hóa doanh nghiệp hiện đại"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mục đích chiến lược không phải là làm hài lòng nhân viên, mà là tạo ra sự cam kết (commitment) - yếu tố then chốt để đạt được thành công bền vững."
+    },
+    {
+      "id": "q6",
+      "question": "Sự khác biệt cốt lõi giữa 'Quyền lực chức danh' và 'Quyền lực thực sự' là gì?",
+      "options": [
+        "Quyền lực chức danh là tĩnh, quyền lực thực sự là động",
+        "Quyền lực chức danh dựa trên sự áp đặt, quyền lực thực sự dựa trên sự lan tỏa niềm đam mê",
+        "Quyền lực chức danh dành cho quản lý, quyền lực thực sự dành cho chủ sở hữu",
+        "Quyền lực chức danh có thời hạn, quyền lực thực sự là vĩnh viễn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ rõ: chức danh chỉ là cái mác, quyền lực thật sự là kết quả của việc truyền cảm hứng và xây dựng đội ngũ."
+    },
+    {
+      "id": "q7",
+      "question": "Nếu một nhà lãnh đạo muốn đội ngũ 'sát cánh với mình', bước đầu tiên họ cần làm là gì?",
+      "options": [
+        "Tăng lương và phúc lợi cho toàn đội",
+        "Sát cánh với đội ngũ trong mọi thử thách",
+        "Thiết lập kỷ luật nghiêm ngặt để mọi người tuân thủ",
+        "Yêu cầu đội ngũ phải hiểu tầm nhìn cá nhân của mình trước"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quy luật 'có qua có lại' trong quản trị: bạn phải là người tiên phong cho thấy hành động trước khi mong đợi sự tận hiến từ người khác."
+    },
+    {
+      "id": "q8",
+      "question": "Việc đầu tư cho nhóm 'vượt trội' mang lại lợi ích gián tiếp gì cho nhà lãnh đạo?",
+      "options": [
+        "Họ sẽ ít cần sự hướng dẫn hơn trong tương lai",
+        "Họ sẽ trở thành những đối thủ tiềm năng của bạn",
+        "Bạn được giải phóng khỏi các chi tiết nhỏ để tập trung vào tầm nhìn xa hơn",
+        "Bạn sẽ giảm bớt được khối lượng công việc cá nhân phải chịu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mục tiêu của lãnh đạo là giải phóng bản thân khỏi các vụn vặt để tập trung vào chiến lược. Nếu nhóm vượt trội, nhà lãnh đạo mới có không gian để phát triển bản thân và tổ chức."
+    },
+    {
+      "id": "q9",
+      "question": "Lựa chọn nào mô tả tốt nhất tư duy của một nhà lãnh đạo 'đơn giản' theo phong cách Robin Sharma?",
+      "options": [
+        "Tập trung vào những nguyên lý phức tạp để tối ưu hóa hiệu suất",
+        "Tin vào sức mạnh của các giá trị cốt lõi đơn giản nhưng thực hiện kỷ luật",
+        "Luôn thay đổi phương pháp để thích nghi với sự thay đổi của thị trường",
+        "Ưu tiên việc quản lý con người hơn là quản lý quy trình"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả tự nhận mình là người đơn giản. Sự đơn giản ở đây không phải là thiếu sót, mà là việc nắm giữ những quy luật cơ bản của con người để áp dụng vào lãnh đạo."
+    },
+    {
+      "id": "q10",
+      "question": "Khi đối mặt với một nhân viên có năng lực, cách hành xử nào dưới đây phản ánh sự gia tăng quyền lực cho nhà lãnh đạo?",
+      "options": [
+        "Luôn phê bình để họ không kiêu ngạo",
+        "Cho phép họ tỏa sáng và tạo không gian để họ lãnh đạo",
+        "Giữ lại những thông tin quan trọng để đảm bảo họ vẫn cần mình",
+        "Luôn giám sát chặt chẽ để đảm bảo kết quả đúng ý mình"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự tự tin của nhà lãnh đạo được thể hiện qua việc để cấp dưới tỏa sáng. Việc kìm hãm nhân tài là biểu hiện của sự yếu kém và thiếu tầm nhìn."
+    },
+    {
+      "id": "q11",
+      "question": "Điều gì ngăn cản một nhà lãnh đạo trung bình thực hiện việc 'cho đi quyền lực'?",
+      "options": [
+        "Sự thiếu hụt thời gian đào tạo nhân sự",
+        "Nỗi sợ rằng khi người khác giỏi lên, vị trí của mình bị đe dọa",
+        "Sự không tin tưởng vào hệ thống tuyển dụng của công ty",
+        "Nhân viên thường không muốn nhận thêm trách nhiệm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nỗi sợ sự thay thế (insecurity) là rào cản tâm lý lớn nhất khiến người lãnh đạo không dám trao quyền."
+    },
+    {
+      "id": "q12",
+      "question": "Để 'đội ngũ leo lên đỉnh núi chiến lược', người lãnh đạo phải làm gì ngoài việc chỉ ra hướng đi?",
+      "options": [
+        "Cung cấp lộ trình leo chi tiết từng bước",
+        "Lan tỏa niềm đam mê và mục đích của đỉnh núi đó",
+        "Sẵn sàng thay thế những người mệt mỏi trong quá trình leo",
+        "Tạo ra sự cạnh tranh giữa các nhóm để tăng tốc độ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Con người cần động lực (lý do tại sao - why) để vượt khó, không chỉ đơn thuần là kỹ thuật leo (how). Niềm đam mê là chất xúc tác cho sự bền bỉ."
+    },
+    {
+      "id": "q13",
+      "question": "Câu nói của Richard Kovacevich phản ánh chân lý nào về quản trị nhân sự?",
+      "options": [
+        "Nhóm làm việc cần nhiều ngôi sao để thành công",
+        "Sự hòa hợp và hiệu quả tập thể quan trọng hơn tài năng cá nhân rời rạc",
+        "Lãnh đạo nên tập trung vào việc quản lý từng cá nhân một",
+        "Số lượng nhân sự quan trọng hơn chất lượng của họ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhiều ngôi sao không tạo ra một đội vô địch nếu họ không biết cách kết hợp (cohesion). Đó là sự khác biệt giữa năng lực cộng dồn và sức mạnh tổng hợp (synergy)."
+    },
+    {
+      "id": "q14",
+      "question": "Tư duy 'lãnh đạo không cần danh phận' đòi hỏi cá nhân phải phát triển kỹ năng nào hàng đầu?",
+      "options": [
+        "Kỹ năng chính trị trong tổ chức",
+        "Sự tự lãnh đạo (self-leadership) và trách nhiệm cá nhân",
+        "Kỹ năng thuyết phục cấp trên",
+        "Khả năng làm việc độc lập mà không cần hỗ trợ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Muốn lãnh đạo người khác mà không có quyền lực chức danh, bạn phải tự lãnh đạo bản thân đến mức xuất sắc, tạo ra sự nể phục tự nhiên từ mọi người xung quanh."
+    },
+    {
+      "id": "q15",
+      "question": "Tại sao việc 'giao phó' lại trực tiếp làm tăng sự tận tâm của đội ngũ?",
+      "options": [
+        "Vì nó giúp họ nhận lương cao hơn",
+        "Vì con người cảm thấy có trách nhiệm hơn khi họ cảm thấy mình có quyền quyết định và sự tin tưởng",
+        "Vì nó giúp nhân viên bớt áp lực từ các chỉ thị trực tiếp",
+        "Vì nó giúp họ có thời gian rảnh rỗi hơn để sáng tạo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trao quyền tạo ra quyền sở hữu (ownership). Khi nhân viên cảm thấy mình đóng vai trò quan trọng trong kết quả, họ tự nhiên sẽ cống hiến hết mình."
+    }
+  ]
+}

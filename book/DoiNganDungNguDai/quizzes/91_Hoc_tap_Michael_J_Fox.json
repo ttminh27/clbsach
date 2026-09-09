@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "91_Hoc_tap_Michael_J_Fox",
+  "chapterTitle": "91. Học tập Michael J. Fox",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao tác giả lại cho rằng những trải nghiệm đau đớn là 'phúc lành' tiềm ẩn trong việc phát triển năng lực lãnh đạo?",
+      "options": [
+        "Vì chúng loại bỏ những thứ phù phiếm và buộc ta tập trung vào giá trị cốt lõi",
+        "Vì chúng giúp con người đạt được sự đồng cảm từ người khác để dễ dàng quản trị hơn",
+        "Vì chúng là bằng chứng cho sự kém may mắn và cần được bù đắp bằng sự thành công",
+        "Vì chúng tạo ra một vỏ bọc cứng rắn khiến lãnh đạo không bị ảnh hưởng bởi cảm xúc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đau đớn là bộ lọc loại bỏ sự tầm thường. Khi đối mặt với nghịch cảnh, sự ưu tiên của con người thay đổi, từ đó phát hiện ra năng lực lãnh đạo đích thực thay vì vẻ ngoài hào nhoáng."
+    },
+    {
+      "id": "q2",
+      "question": "Trong bối cảnh công việc, lời khuyên của tác giả về việc 'đối mặt với nghịch cảnh' hàm ý điều gì cho nhà lãnh đạo?",
+      "options": [
+        "Nên chủ động tìm kiếm thất bại để rèn luyện bản lĩnh",
+        "Nên nhìn nhận áp lực là cơ hội để bóc tách những ưu tiên không quan trọng",
+        "Nên che giấu những khó khăn để giữ hình ảnh quyền lực",
+        "Nên đổ lỗi cho hoàn cảnh để giảm bớt áp lực tâm lý"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lãnh đạo thực thụ không tìm kiếm khổ đau, nhưng họ dùng áp lực làm đòn bẩy để nhận diện những gì thực sự quan trọng, giúp tối ưu hóa nguồn lực cá nhân."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao sự 'dễ dàng' thường được coi là một bẫy tư duy đối với sự phát triển cá nhân?",
+      "options": [
+        "Vì sự dễ dàng dẫn đến sự thiếu hụt tài chính",
+        "Vì sự dễ dàng không bao giờ kéo dài mãi mãi",
+        "Vì sự dễ dàng giam hãm con người trong các mối bận tâm nông cạn",
+        "Vì sự dễ dàng thường đi kèm với những người xấu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tư duy 'dễ dàng' khiến con người thỏa mãn với bề nổi. Sự phát triển chỉ xảy ra khi ta rời bỏ vùng an toàn, nơi những bận tâm nông cạn không còn chỗ đứng."
+    },
+    {
+      "id": "q4",
+      "question": "Làm thế nào để ứng dụng triết lý 'cái chết là đích đến chung' vào việc rèn luyện sự quyết đoán trong quản trị?",
+      "options": [
+        "Tận dụng nỗi sợ cái chết để làm việc quá sức",
+        "Sử dụng nhận thức về sự hữu hạn để buông bỏ cái tôi và những lo âu vụn vặt",
+        "Tập trung tối đa vào việc tích lũy tài sản trước khi quá muộn",
+        "Từ bỏ mọi mục tiêu dài hạn để sống cho hiện tại"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi nhận ra sự hữu hạn của đời người, cái tôi (lòng kiêu hãnh) trở nên vô nghĩa, giúp nhà lãnh đạo đưa ra quyết định dựa trên giá trị bền vững thay vì sợ hãi hay sĩ diện."
+    },
+    {
+      "id": "q5",
+      "question": "Theo góc nhìn của tác giả, mối quan hệ giữa 'sự khôn ngoan' và 'nghịch cảnh' là gì?",
+      "options": [
+        "Nghịch cảnh là tác nhân làm suy giảm sự sáng tạo",
+        "Khôn ngoan là kết quả trực tiếp của việc học từ những trải nghiệm đau đớn",
+        "Sự khôn ngoan ngăn cản con người gặp phải nghịch cảnh",
+        "Nghịch cảnh và khôn ngoan là hai khái niệm đối lập hoàn toàn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đau đớn là trường học khắc nghiệt nhất, nơi kiến thức sách vở chuyển hóa thành sự khôn ngoan thâm sâu thông qua trải nghiệm thực tế."
+    },
+    {
+      "id": "q6",
+      "question": "Một người đang gặp thất bại trong sự nghiệp có thể học được gì từ cách Michael J. Fox đối diện với căn bệnh của mình?",
+      "options": [
+        "Chấp nhận buông xuôi vì đó là số phận",
+        "Học cách trân trọng những giá trị cốt lõi còn lại thay vì than khóc điều đã mất",
+        "Cố gắng che đậy thất bại để giữ vị thế",
+        "Đòi hỏi sự giúp đỡ vô điều kiện từ xã hội"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fox cho thấy việc chấp nhận nghịch cảnh không phải là đầu hàng, mà là sử dụng nó như một chất xúc tác để tái khám phá giá trị đích thực trong đời."
+    },
+    {
+      "id": "q7",
+      "question": "Sự khác biệt giữa 'tỏa sáng' ở đây và 'thành công thông thường' là gì?",
+      "options": [
+        "Tỏa sáng là trở nên nổi tiếng trong khi thành công là giàu có",
+        "Tỏa sáng là vượt trội thông qua việc sống đúng với giá trị cốt lõi, còn thành công thông thường thường chạy theo số đông",
+        "Không có sự khác biệt, hai khái niệm này là một",
+        "Tỏa sáng chỉ dành cho những người bệnh tật, còn thành công dành cho người khỏe mạnh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thành công thông thường hay chạy theo thước đo ngoại cảnh, trong khi 'tỏa sáng' theo nghĩa của tác giả là sự vượt trội từ nội tâm, bất chấp hoàn cảnh bên ngoài."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao lòng kiêu hãnh thường được xem là rào cản ngăn cản sự thăng tiến của bản thân?",
+      "options": [
+        "Vì kiêu hãnh làm mất thời gian quý báu",
+        "Vì kiêu hãnh khiến ta khó lòng lắng nghe và học hỏi điều quan trọng từ nghịch cảnh",
+        "Vì kiêu hãnh không giúp ta đạt được thành tích cao",
+        "Vì kiêu hãnh làm giảm sự tự tin cần thiết"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lòng kiêu hãnh (cái tôi lớn) chặn đứng sự nhìn nhận khách quan về bản thân, khiến con người bám víu vào những thứ phù phiếm thay vì chấp nhận thực tại để tiến hóa."
+    },
+    {
+      "id": "q9",
+      "question": "Khi đối mặt với sự tối tăm của hoàn cảnh, hành động lãnh đạo cao nhất là gì?",
+      "options": [
+        "Chịu đựng trong im lặng",
+        "Trở thành nguồn sáng thông qua sự chân thật và lòng can đảm",
+        "Tìm mọi cách để thoát khỏi nghịch cảnh bằng mọi giá",
+        "Phân tích nguyên nhân và đổ lỗi cho các yếu tố khách quan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lãnh đạo không phải là người tránh xa bóng tối, mà là người lan tỏa giá trị tích cực và làm gương cho người khác ngay trong những hoàn cảnh khó khăn nhất."
+    },
+    {
+      "id": "q10",
+      "question": "Triết lý về việc 'những điều vô nghĩa rơi rụng' dạy ta điều gì về quản lý thời gian?",
+      "options": [
+        "Cần làm việc nhiều hơn để không có thời gian nghĩ về điều vô nghĩa",
+        "Cần chủ động thanh lọc các mối bận tâm nông cạn để dành năng lượng cho những giá trị cốt lõi",
+        "Cần tập trung vào việc quản lý thời gian theo các tiêu chuẩn xã hội đặt ra",
+        "Không cần quan tâm đến thời gian vì cuộc đời là hữu hạn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quản lý thời gian thực chất là quản lý sự tập trung. Những điều vô nghĩa chiếm dụng nguồn lực; nhận thức được chúng là bước đầu của một cuộc đời có ý nghĩa."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao việc thể hiện trọn vẹn khả năng lại khó khăn trong trạng thái 'dễ dàng'?",
+      "options": [
+        "Vì môi trường dễ dàng không có ai để cạnh tranh",
+        "Vì khi dễ dàng, con người thiếu động lực để khai phá hết tiềm năng ẩn giấu",
+        "Vì khi dễ dàng, con người thường thiếu hụt nguồn lực tài chính",
+        "Vì sự dễ dàng thường bị xã hội đánh giá thấp"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tiềm năng thực sự của con người thường là 'biến số', chỉ lộ diện khi có áp lực. Sự dễ dàng nuôi dưỡng thói quen trì trệ."
+    },
+    {
+      "id": "q12",
+      "question": "Nếu áp dụng triết lý của Fox vào giao tiếp công sở, bạn nên làm gì?",
+      "options": [
+        "Luôn tỏ ra mạnh mẽ và không bao giờ bộc lộ yếu điểm",
+        "Thể hiện sự chân thật, minh bạch về những khó khăn để gắn kết đồng đội",
+        "Dùng sự kiêu hãnh để áp đặt quan điểm",
+        "Tránh né mọi cuộc tranh luận gây tranh cãi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự chân thật về khó khăn (như cách Fox nói về căn bệnh) là biểu hiện của lòng can đảm, giúp tạo ra sự kết nối chân thành và niềm tin trong tập thể."
+    },
+    {
+      "id": "q13",
+      "question": "Nghịch lý lớn nhất trong việc đối diện với thời khắc khó khăn là gì?",
+      "options": [
+        "Càng chạy trốn khó khăn, ta càng thấy nó đến gần",
+        "Những thứ khiến ta đau đớn nhất lại chính là thứ giúp ta khai mở tiềm năng tốt đẹp nhất",
+        "Càng thành công thì con người càng cảm thấy đau đớn",
+        "Lòng can đảm chỉ xuất hiện khi ta không còn gì để mất"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là nghịch lý của sự phát triển: sự đau đớn không phải là kẻ thù, mà là công cụ để ta tìm thấy phiên bản tốt nhất của chính mình."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao việc 'thưởng thức những món quà mỗi ngày' lại quan trọng đối với nhà lãnh đạo?",
+      "options": [
+        "Vì nó giúp làm giảm áp lực công việc",
+        "Vì nó giữ cho tinh thần luôn tỉnh táo và kết nối với ý nghĩa sống thực tại",
+        "Vì đó là cách duy nhất để thu phục lòng người",
+        "Vì nó tạo ra hình ảnh một người lãnh đạo biết hưởng thụ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự kết nối với những món quà nhỏ bé giúp nhà lãnh đạo không bị cuốn vào vòng xoáy áp lực, giữ được sự tỉnh thức để ra quyết định đúng đắn."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp về 'sự tỏa sáng ngay lúc này' phản ánh điều gì về tư duy lãnh đạo?",
+      "options": [
+        "Lãnh đạo phải chờ đợi thời cơ chín muồi",
+        "Lãnh đạo là hành động trong hiện tại, không phụ thuộc vào việc xóa bỏ mọi rào cản quá khứ",
+        "Lãnh đạo chỉ tỏa sáng khi đạt đến đỉnh cao sự nghiệp",
+        "Lãnh đạo cần sự công nhận từ bên ngoài mới có thể tỏa sáng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tư duy lãnh đạo vượt trội là tư duy không trì hoãn. Mọi điều kiện để trở nên vĩ đại đều đã có sẵn trong hiện tại, chỉ chờ sự lựa chọn của bản thân."
+    }
+  ]
+}

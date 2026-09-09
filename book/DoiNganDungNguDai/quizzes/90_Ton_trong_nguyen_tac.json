@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "90_Ton_trong_nguyen_tac",
+  "chapterTitle": "90. Tôn trọng nguyên tắc",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Dựa trên nghiên cứu của Sirota Survey, nghịch lý lớn nhất giữa nhận thức và thực tế trong quản trị nhân sự là gì?",
+      "options": [
+        "Các nhà quản lý tin rằng sự tôn trọng là hiển nhiên, trong khi đa số nhân viên lại cảm thấy thiếu hụt sự tôn trọng.",
+        "Sự tôn trọng không ảnh hưởng đến lòng trung thành của nhân viên như các công cụ tài chính.",
+        "Nhân viên chỉ cảm thấy được tôn trọng khi họ được tăng lương thay vì được lắng nghe.",
+        "Quản lý cấp cao thường đánh giá sai khả năng làm việc của nhân viên cấp dưới."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nghịch lý ở đây là khoảng cách giữa cái mà nhà quản lý cho là 'hiển nhiên' với trải nghiệm thực tế của 79% nhân viên không cảm thấy được tôn trọng đúng mức."
+    },
+    {
+      "id": "q2",
+      "question": "Tác giả ngụ ý gì khi khẳng định 'Việc giúp nhân viên cảm thấy họ đặc biệt nên là điều ưu tiên hàng đầu'?",
+      "options": [
+        "Tạo ra đặc quyền riêng biệt để phân hóa năng suất giữa các nhóm nhân viên.",
+        "Nhận diện và nuôi dưỡng giá trị độc bản của mỗi cá nhân như một nguồn lực cạnh tranh.",
+        "Xây dựng môi trường mà ở đó mọi người không cần nỗ lực vẫn được công nhận.",
+        "Giảm thiểu áp lực công việc để nhân viên cảm thấy thoải mái nhất."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cảm thấy đặc biệt không phải là đặc quyền, mà là cảm giác được trân trọng giá trị riêng biệt mà mỗi cá nhân đóng góp cho tổ chức."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao việc cho phép nhân viên 'chấp nhận rủi ro và tự do thất bại' lại là một hình thức tôn trọng?",
+      "options": [
+        "Vì nó giúp công ty tiết kiệm chi phí đào tạo lại nhân viên.",
+        "Vì thất bại là công cụ duy nhất để kiểm tra sự trung thành của nhân viên.",
+        "Vì đó là cách thể hiện sự tin tưởng tuyệt đối vào khả năng phục hồi và phát triển của con người.",
+        "Vì lãnh đạo quá bận rộn để kiểm soát từng chi tiết công việc của nhân viên."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tôn trọng không chỉ là sự tử tế, mà là việc trao quyền và chấp nhận rủi ro – điều này chứng minh niềm tin vào sự trưởng thành của nhân viên."
+    },
+    {
+      "id": "q4",
+      "question": "Nếu một nhà lãnh đạo chỉ thực hiện 'lắng nghe' như một kỹ thuật giao tiếp thay vì tôn trọng thực sự, điều gì sẽ xảy ra?",
+      "options": [
+        "Nhân viên sẽ cảm thấy bị thao túng và lòng trung thành sẽ suy giảm.",
+        "Hiệu suất làm việc sẽ tăng lên trong ngắn hạn và duy trì dài hạn.",
+        "Văn hóa doanh nghiệp sẽ trở nên chuyên nghiệp và hiện đại hơn.",
+        "Mục tiêu của tổ chức sẽ được hoàn thành nhanh hơn nhờ phản hồi tốt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự thiếu thành thật trong thái độ (lắng nghe kỹ thuật) dễ dàng bị phát hiện, phá vỡ niềm tin – cốt lõi của sự tôn trọng."
+    },
+    {
+      "id": "q5",
+      "question": "Mối quan hệ giữa 'Tôn trọng' và 'Hiệu suất' trong bài viết được định nghĩa như thế nào?",
+      "options": [
+        "Tôn trọng là kết quả của việc đạt được hiệu suất cao.",
+        "Hiệu suất là công cụ để đo lường mức độ tôn trọng trong tổ chức.",
+        "Tôn trọng tạo ra sự tự tin, và sự tự tin là đòn bẩy cho hiệu suất.",
+        "Hiệu suất chỉ có thể đạt được khi loại bỏ yếu tố cảm xúc như sự tôn trọng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả xây dựng chuỗi logic: Tôn trọng -> Sự tự tin -> Hiệu suất. Điều này khẳng định yếu tố tâm lý là nền tảng của năng suất lao động."
+    },
+    {
+      "id": "q6",
+      "question": "Để giữ chân người tài, tại sao việc xây dựng lòng trung thành thông qua sự tôn trọng lại quan trọng hơn các chính sách phúc lợi đơn thuần?",
+      "options": [
+        "Vì phúc lợi là chi phí, còn tôn trọng là khoản đầu tư tạo ra sự gắn kết bền vững.",
+        "Vì người tài thường không quan tâm đến phúc lợi tài chính.",
+        "Vì sự tôn trọng rẻ hơn và dễ áp dụng hơn so với việc xây dựng chính sách phúc lợi.",
+        "Vì các đối thủ cạnh tranh không thể sao chép chính sách phúc lợi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Phúc lợi là yếu tố ngoại cảnh, còn sự tôn trọng là yếu tố nội tại tạo ra lòng trung thành, khó bị thay thế bởi vật chất."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao việc 'đúng giờ' được xem là một chiến lược tôn trọng?",
+      "options": [
+        "Vì nó giúp quy trình làm việc không bị gián đoạn.",
+        "Vì nó là minh chứng cho việc trân trọng thời gian và nguồn lực của người khác.",
+        "Vì đó là quy định bắt buộc của bất kỳ doanh nghiệp thành công nào.",
+        "Vì nó thể hiện khả năng kiểm soát bản thân của nhân viên cấp dưới."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự tôn trọng không chỉ dành cho con người mà còn dành cho thời gian của họ – nguồn tài nguyên không thể tái tạo."
+    },
+    {
+      "id": "q8",
+      "question": "Trong tư duy của lãnh đạo không chức danh, tại sao việc khuyến khích 'sự ngay thẳng và trung thực' lại là ưu tiên?",
+      "options": [
+        "Để quản lý dễ dàng phát hiện lỗi sai của nhân viên.",
+        "Để đảm bảo không có sự cạnh tranh không lành mạnh trong công ty.",
+        "Vì sự trung thực tạo nền tảng cho một môi trường mà ở đó mọi người cảm thấy an toàn để cống hiến.",
+        "Để cắt giảm thời gian họp hành và trao đổi không cần thiết."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự ngay thẳng giảm bớt nhu cầu phòng thủ, tạo không gian an toàn cho sự trung thực, từ đó thúc đẩy sự phát triển."
+    },
+    {
+      "id": "q9",
+      "question": "Điều gì là sai lầm phổ biến nhất của các nhà quản lý khi tiếp cận nguyên tắc tôn trọng nhân viên?",
+      "options": [
+        "Họ cho rằng tôn trọng là việc tặng thưởng vật chất định kỳ.",
+        "Họ tin rằng sự tôn trọng là điều 'hiển nhiên' nên không cần phải nỗ lực thực hành chủ động.",
+        "Họ quá chú trọng vào việc đào tạo kỹ năng hơn là thái độ.",
+        "Họ sợ rằng tôn trọng quá mức sẽ khiến nhân viên mất kỷ luật."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự chủ quan coi tôn trọng là 'điều hiển nhiên' khiến nó trở thành điểm mù của các nhà quản lý."
+    },
+    {
+      "id": "q10",
+      "question": "Tác giả muốn ám chỉ điều gì thông qua việc liệt kê các chiến lược như 'nói vui lòng', 'viết lời nhắn cảm ơn'?",
+      "options": [
+        "Sự tôn trọng được biểu hiện qua những hành vi nhỏ nhặt, nhất quán thay vì những cử chỉ vĩ đại mang tính sự kiện.",
+        "Đây là những cách giúp lãnh đạo xây dựng hình ảnh tốt đẹp trước công chúng.",
+        "Các kỹ năng giao tiếp này là yếu tố quan trọng hơn cả năng lực chuyên môn.",
+        "Đó là những chiến lược bắt buộc để nhân viên cảm thấy áp lực phải làm việc tốt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Văn hóa tôn trọng được tích lũy từ những hành vi nhỏ hằng ngày, tạo nên sự bền vững cho mối quan hệ."
+    },
+    {
+      "id": "q11",
+      "question": "Khi một người lãnh đạo hướng dẫn nhân viên nhận ra tiềm năng, họ đang thực hiện hành vi tôn trọng nào?",
+      "options": [
+        "Tôn trọng ý kiến của nhân viên về lộ trình thăng tiến.",
+        "Tôn trọng khát vọng muốn trở nên giỏi hơn của con người.",
+        "Tôn trọng thời gian làm việc của cấp dưới bằng cách tối ưu hóa đào tạo.",
+        "Tôn trọng quy trình tuyển dụng bằng cách đào tạo đúng người."
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc hỗ trợ phát triển tiềm năng là sự ghi nhận giá trị và khát khao của nhân viên, đó là hình thức tôn trọng cao nhất."
+    },
+    {
+      "id": "q12",
+      "question": "Sự trung thành của nhân viên với công ty thường là hệ quả của:",
+      "options": [
+        "Lương thưởng và phúc lợi vượt trội so với thị trường.",
+        "Cảm giác được thuộc về và được tôn trọng trong môi trường làm việc.",
+        "Sự sợ hãi về việc thay đổi công việc trong môi trường bất ổn.",
+        "Sự gắn bó với những người đồng nghiệp thân thiết."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nghiên cứu chỉ ra sự tương quan thuận giữa mức độ cảm thấy được tôn trọng và lòng trung thành."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao việc khuyến khích tinh thần sáng tạo lại liên quan đến việc tôn trọng nhân viên?",
+      "options": [
+        "Vì nó giúp lãnh đạo giảm tải công việc nghiên cứu và phát triển.",
+        "Vì sự sáng tạo là cách duy nhất để nhân viên được tăng lương.",
+        "Vì khi cho phép sáng tạo, bạn đang thừa nhận rằng trí tuệ của nhân viên là một tài sản giá trị.",
+        "Vì nhân viên sáng tạo sẽ ít có khả năng nghỉ việc hơn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khuyến khích sáng tạo là cách trao quyền và công nhận trí tuệ của cấp dưới, một minh chứng sâu sắc của sự tôn trọng."
+    },
+    {
+      "id": "q14",
+      "question": "Trong tư duy quản trị, sự khác biệt giữa 'Quản lý' và 'Lãnh đạo' khi áp dụng nguyên tắc tôn trọng là gì?",
+      "options": [
+        "Quản lý coi tôn trọng là quy trình, Lãnh đạo coi tôn trọng là triết lý sống.",
+        "Quản lý tập trung vào tôn trọng nhân viên giỏi, Lãnh đạo tôn trọng tất cả nhân viên.",
+        "Quản lý tôn trọng nhân viên để lấy hiệu quả, Lãnh đạo tôn trọng vì niềm tin vào con người.",
+        "Không có sự khác biệt vì cả hai đều cần tôn trọng để hoàn thành công việc."
+      ],
+      "correctIndex": 2,
+      "explanation": "Động cơ của việc tôn trọng phản ánh bản chất của người lãnh đạo: công cụ hóa sự tôn trọng (quản lý) so với giá trị nhân bản (lãnh đạo)."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp cốt lõi của chương 90 là gì?",
+      "options": [
+        "Tôn trọng là yếu tố bắt buộc để có lương cao.",
+        "Sự tôn trọng ở nơi công sở là một cơ hội chiến lược để tối ưu hóa tiềm năng con người.",
+        "Chỉ cần nói cảm ơn là đủ để quản lý tốt một đội ngũ nhân viên.",
+        "Nghiên cứu khoa học là bằng chứng duy nhất chứng minh sự tôn trọng là cần thiết."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả không chỉ nói về đạo đức, mà nhấn mạnh sự tôn trọng là một chiến lược quản trị chưa được khai thác đúng mức."
+    }
+  ]
+}

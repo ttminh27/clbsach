@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "42_Loi_noi_yem_the",
+  "chapterTitle": "42. Lời nói yếm thế",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo quan điểm của Robin Sharma, tại sao việc kiểm soát ngôn từ lại là yếu tố then chốt để đạt tới tầm vóc của một nhà lãnh đạo?",
+      "options": [
+        "Ngôn từ tạo ra hình ảnh chuyên nghiệp trong mắt cấp dưới",
+        "Ngôn từ định hình cảm xúc và cách ta giải mã thực tại",
+        "Ngôn từ giúp che giấu sự bất ổn nội tâm khi gặp khó khăn",
+        "Ngôn từ là công cụ duy nhất để thuyết phục người khác"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh ngôn từ không chỉ là giao tiếp, mà là lăng kính định hình cảm xúc và cách ta đối mặt với thực tại. Chọn sai (phương án 0, 2, 3) đều tập trung vào bề nổi của ngôn từ, trong khi bản chất là sự thay đổi tư duy từ bên trong."
+    },
+    {
+      "id": "q2",
+      "question": "Trong tình huống người đàn ông tại Starbucks tỏ ra 'thảm hại' vì hết món, sai lầm lớn nhất về tư duy của anh ta là gì?",
+      "options": [
+        "Anh ta không tìm phương án thay thế",
+        "Anh ta quá kỳ vọng vào sự hoàn hảo của dịch vụ",
+        "Anh ta tự trao quyền kiểm soát cảm xúc của mình cho ngoại cảnh",
+        "Anh ta thiếu kỹ năng giao tiếp với nhân viên"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bẫy tư duy của người bình thường là đổ lỗi hoàn cảnh khiến mình 'thảm hại'. Lãnh đạo không chức danh hiểu rằng phản ứng (thái độ) là tài sản duy nhất ta sở hữu hoàn toàn."
+    },
+    {
+      "id": "q3",
+      "question": "Khi đối mặt với một sự kiện ngoài ý muốn, sự khác biệt cốt lõi giữa 'người vượt trội' và 'người tầm thường' nằm ở đâu?",
+      "options": [
+        "Cách họ chọn ngôn từ để phản ứng",
+        "Mức độ chịu đựng của họ với nghịch cảnh",
+        "Số lượng các lựa chọn họ liệt kê ra",
+        "Khả năng né tránh hoàn toàn sự kiện tiêu cực"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cả hai đều đối mặt với cùng sự kiện, nhưng người vượt trội làm chủ ngôn từ phản ứng, từ đó làm chủ trạng thái cảm xúc, thay vì bị nó chi phối."
+    },
+    {
+      "id": "q4",
+      "question": "Câu nói 'Sao lại xảy ra với tôi chứ?' phản ánh tư duy gì?",
+      "options": [
+        "Tư duy tìm kiếm nguyên nhân khách quan",
+        "Tư duy nạn nhân (Victim Mindset)",
+        "Tư duy phản biện có hệ thống",
+        "Tư duy tập trung vào giải pháp"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là mẫu câu điển hình của tư duy nạn nhân, nơi cá nhân tự đặt mình vào thế bị động và mất khả năng kiểm soát tình huống."
+    },
+    {
+      "id": "q5",
+      "question": "Lãnh đạo không chức danh coi mỗi thử thách là một cơ hội để làm gì?",
+      "options": [
+        "Chứng minh năng lực cá nhân với cộng đồng",
+        "Rèn luyện khả năng chịu đựng nỗi đau",
+        "Luyện tập quyền lựa chọn phản ứng của bản thân",
+        "Tối ưu hóa các nguồn lực xung quanh"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sức mạnh của lãnh đạo không nằm ở việc kiểm soát hoàn cảnh, mà nằm ở việc nhận ra ta luôn có hàng trăm lựa chọn trong cách đáp lại, đó là bài tập tinh thần quan trọng nhất."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao ngôn từ 'yếm thế' lại có khả năng hủy hoại tiềm năng của một cá nhân?",
+      "options": [
+        "Vì chúng làm giảm sự uy tín của bản thân với người xung quanh",
+        "Vì chúng tạo ra một vòng lặp tâm lý tiêu cực định hướng hành động",
+        "Vì chúng tiêu tốn năng lượng trí tuệ",
+        "Vì chúng khiến người khác xa lánh và không muốn hợp tác"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngôn từ không chỉ là lời nói, chúng là những 'lệnh' điều khiển não bộ. Lời nói yếm thế tạo ra niềm tin giới hạn, khiến cá nhân vô tình thực hiện những hành vi củng cố niềm tin sai lầm đó."
+    },
+    {
+      "id": "q7",
+      "question": "Để trở thành người vượt trội, khi đối mặt với một thất bại nhỏ, điều đầu tiên bạn nên làm là gì?",
+      "options": [
+        "Phân tích lỗi sai để không lặp lại",
+        "Chấp nhận nỗi đau và im lặng",
+        "Thay đổi cách mô tả sự việc bằng ngôn từ tích cực hơn",
+        "Tìm kiếm sự giúp đỡ từ người xung quanh"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thay đổi ngôn từ là bước đầu tiên để thay đổi góc nhìn. Chỉ khi góc nhìn thay đổi, các hành động tiếp theo mới có thể mang tính xây dựng thay vì suy sụp."
+    },
+    {
+      "id": "q8",
+      "question": "Triết lý 'làm chủ phản ứng' có ý nghĩa gì trong bối cảnh công sở hiện đại?",
+      "options": [
+        "Luôn phải tỏ ra vui vẻ dù có chuyện gì xảy ra",
+        "Giữ sự tỉnh táo và trách nhiệm cá nhân trước mọi khó khăn không mong đợi",
+        "Tránh việc tranh luận với đồng nghiệp để bảo toàn năng lượng",
+        "Ưu tiên việc hoàn thành công việc bất chấp cảm xúc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Làm chủ phản ứng không có nghĩa là giả tạo (vui vẻ giả tạo), mà là sự bình tĩnh, trách nhiệm và khả năng lựa chọn cách đáp lại sao cho hiệu quả nhất."
+    },
+    {
+      "id": "q9",
+      "question": "Điều gì ngăn cản một cá nhân từ bỏ ngôn từ yếm thế?",
+      "options": [
+        "Sự lười biếng trong tư duy",
+        "Nỗi sợ phải chịu trách nhiệm về chính cuộc đời mình",
+        "Sự thiếu hụt về kiến thức chuyên môn",
+        "Thói quen xã hội hóa từ môi trường xung quanh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc đổ lỗi cho hoàn cảnh (dùng ngôn từ yếm thế) là cơ chế tự bảo vệ để không phải nhận trách nhiệm. Khi thừa nhận mình có quyền lựa chọn, bạn buộc phải chịu trách nhiệm hoàn toàn về kết quả của chính mình."
+    },
+    {
+      "id": "q10",
+      "question": "Theo logic của chương này, việc thay đổi ngôn từ sẽ dẫn đến kết quả nào sau đây?",
+      "options": [
+        "Thế giới bên ngoài sẽ thay đổi theo mong muốn của bạn",
+        "Bạn sẽ đạt được thành công ngay lập tức",
+        "Thay đổi cách tiếp cận thực tại và mở ra các khả năng mới",
+        "Bạn sẽ trở thành một người lãnh đạo có quyền lực cao nhất"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ngôn từ mới tạo ra tư duy mới, tư duy mới tạo ra hành động mới, và từ đó, các kết quả mới sẽ xuất hiện thông qua việc tiếp cận thực tại một cách khác biệt."
+    },
+    {
+      "id": "q11",
+      "question": "Vì sao tác giả nói 'biết dùng ngôn từ của người vượt trội, bạn sẽ hướng đến cuộc đời vượt trội'?",
+      "options": [
+        "Vì ngôn từ định nghĩa bản sắc cá nhân",
+        "Vì ngôn từ là công cụ giao tiếp hiệu quả nhất",
+        "Vì sự nhất quán giữa ngôn từ và tư duy tạo ra kỷ luật thép",
+        "Vì ngôn từ phản ánh tâm thế của người đã chiến thắng chính mình"
+      ],
+      "correctIndex": 3,
+      "explanation": "Người vượt trội không dùng ngôn từ 'thảm hại' vì họ đã chiến thắng được cái tôi yếu đuối bên trong mình. Ngôn từ là tấm gương phản chiếu tâm thế đó."
+    },
+    {
+      "id": "q12",
+      "question": "Nếu phải đối mặt với một tình huống bế tắc, thái độ nào sau đây là sự thực hành tốt nhất của 'làm chủ phản ứng'?",
+      "options": [
+        "Dừng lại, quan sát và chọn một cách mô tả tình huống giúp mình tiến lên",
+        "Tìm cách đổ lỗi cho hoàn cảnh để giảm bớt áp lực",
+        "Cố gắng lờ đi cảm giác tiêu cực và tiếp tục công việc",
+        "Tìm sự đồng cảm từ người khác để thấy mình không cô đơn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khoảng nghỉ (dừng lại, quan sát) là không gian tự do giữa sự kiện và phản ứng. Đây chính là nơi bản lĩnh của nhà lãnh đạo được tôi luyện."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao việc 'không bao giờ có nụ cười' ở nhân vật Starbucks lại là một chi tiết quan trọng trong bài học này?",
+      "options": [
+        "Để nhấn mạnh anh ta là người khó tính",
+        "Để minh họa cho việc mất kết nối với thực tại do cảm xúc tiêu cực chi phối",
+        "Để chỉ ra rằng nhân viên bán hàng đã gây ác cảm",
+        "Để cho thấy anh ta là người sống nội tâm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi con người bị mắc kẹt trong ngôn từ yếm thế, họ mất khả năng nhìn thấy các lựa chọn khác hoặc cơ hội kết nối, dẫn đến trạng thái đóng kín, thảm hại và thiếu linh hoạt."
+    },
+    {
+      "id": "q14",
+      "question": "Sự đánh đổi khi chọn 'ngôn từ của người vượt trội' là gì?",
+      "options": [
+        "Phải từ bỏ sự thoải mái của việc than vãn",
+        "Phải đối mặt với sự cô đơn vì ít người hiểu",
+        "Phải từ bỏ các mối quan hệ xã hội cũ",
+        "Phải hy sinh thời gian để rèn luyện tư duy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Than vãn (dùng ngôn từ yếm thế) rất dễ chịu vì nó giúp ta trốn tránh trách nhiệm. Từ bỏ nó là từ bỏ một 'vùng an toàn' độc hại để bước vào vùng trưởng thành đầy áp lực nhưng viên mãn."
+    },
+    {
+      "id": "q15",
+      "question": "Nếu coi cuộc sống là một chuỗi các 'sự kiện', vai trò của con người là gì?",
+      "options": [
+        "Là nạn nhân phải thích nghi với mọi thứ",
+        "Là người biên kịch nên kịch bản phản ứng cho mỗi sự kiện đó",
+        "Là người quan sát trung lập không cảm xúc",
+        "Là người tìm cách thay đổi sự kiện theo ý mình"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ta không kiểm soát được mọi sự kiện (hết chai latte, mưa, tắc đường), nhưng ta là biên kịch chịu trách nhiệm cho câu thoại (phản ứng) của mình trong mọi phân cảnh đó."
+    }
+  ]
+}

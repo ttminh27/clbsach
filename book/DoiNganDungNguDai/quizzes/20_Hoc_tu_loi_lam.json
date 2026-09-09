@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "20_Hoc_tu_loi_lam",
+  "chapterTitle": "20. Học từ lỗi lầm",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo tác giả, dấu hiệu rõ ràng nhất cho thấy một người đang 'đi ngược lại với bài học cuộc đời' khi phạm lỗi lầm là gì?",
+      "options": [
+        "Cảm thấy hối hận sâu sắc về lỗi lầm đó",
+        "Lặp lại chính lỗi lầm cũ trong quá khứ",
+        "Không tìm được người để chia sẻ về lỗi lầm",
+        "Chưa đạt được thành công như mong đợi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh việc mắc lỗi là bình thường, nhưng lặp lại lỗi cũ chứng tỏ sự thiếu tỉnh táo và thiếu quan sát bài học mà cuộc đời đã gửi tới. Các phương án khác mang tính cảm xúc hoặc kết quả, không phản ánh sự 'bế tắc' trong quá trình phát triển bản thân."
+    },
+    {
+      "id": "q2",
+      "question": "Trong tình huống gặp Eric Clapton, tư duy nào của tác giả đã giúp ông vượt qua nỗi sợ bị từ chối?",
+      "options": [
+        "Tin rằng mình là một người quan trọng",
+        "Đánh giá xác suất thành công cao hơn thất bại",
+        "Chấp nhận sự đánh đổi: cơ hội được gặp gỡ quý giá hơn rủi ro bị từ chối",
+        "Cố gắng tạo ấn tượng tốt nhất có thể"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nhấn mạnh vào việc nhận diện giá trị của cơ hội so với cái giá của sự e dè. Đây là tư duy của người lãnh đạo: nhìn vào khả năng đạt được thay vì nỗi sợ bị ngó lơ."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao tác giả lại khẳng định 'không có thời điểm nào là lý tưởng để chộp lấy cơ hội'?",
+      "options": [
+        "Vì thời điểm lý tưởng chỉ là ảo tưởng của trí não để trì hoãn hành động",
+        "Vì cơ hội luôn xuất hiện vào lúc con người bận rộn nhất",
+        "Vì thế giới luôn thay đổi không ngừng",
+        "Vì con người không bao giờ đủ khả năng kiểm soát hoàn cảnh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tư duy này chỉ ra bẫy trì hoãn (procrastination). Con người thường chờ đợi sự hoàn hảo (thời điểm lý tưởng) để ra quyết định, trong khi sự phát triển thực sự nằm ở việc hành động bất chấp sự không hoàn hảo."
+    },
+    {
+      "id": "q4",
+      "question": "Việc học từ lỗi lầm theo quan điểm của chương này đóng vai trò gì trong hành trình phát triển cá nhân?",
+      "options": [
+        "Là cách để không bao giờ phải hối tiếc",
+        "Là tiền đề để xây dựng lòng tự trọng",
+        "Là phương tiện để 'bước gần đến chân thiện mỹ'",
+        "Là công cụ để đạt được thành công tài chính nhanh chóng"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nâng tầm việc học từ lỗi lầm từ hành động sửa sai kỹ thuật lên thành một triết lý tu thân, hướng tới giá trị cao đẹp hơn là sự tiến bộ hữu hình."
+    },
+    {
+      "id": "q5",
+      "question": "Khi đối diện với một cơ hội bất ngờ, phản ứng nào sau đây phản ánh đúng tư duy của 'người làm chủ cuộc đời'?",
+      "options": [
+        "Đánh giá kỹ rủi ro rồi mới hành động",
+        "Phân tích xem mình có xứng đáng với cơ hội đó không",
+        "Tận dụng ngay lập tức vì hiểu rằng cơ hội có hạn",
+        "Chờ đợi cơ hội đó quay lại vào lần sau"
+      ],
+      "correctIndex": 2,
+      "explanation": "Người làm chủ hiểu rằng cuộc sống đầy rẫy sự bất định; hành động quyết đoán là cách duy nhất để nắm bắt tiềm năng mà cuộc đời mang lại."
+    },
+    {
+      "id": "q6",
+      "question": "Đâu là bẫy tư duy nguy hiểm nhất khi con người mắc phải lỗi lầm?",
+      "options": [
+        "Tự trách bản thân quá mức",
+        "Tập trung vào cảm giác xấu hổ thay vì tìm bài học ẩn giấu",
+        "Dành quá nhiều thời gian để biện minh cho lỗi lầm",
+        "So sánh mình với người khác"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự xấu hổ thường chặn đứng khả năng học hỏi. Khi tập trung vào cái tôi (tôi đã làm sai), ta bỏ lỡ sự thật khách quan (bài học để tiến bộ)."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao tác giả nói 'mỗi cuộc nói chuyện đều hình thành con người mình'?",
+      "options": [
+        "Mỗi tương tác là một cơ hội để khẳng định vị thế bản thân",
+        "Mỗi tương tác đều tích lũy thêm kiến thức mới",
+        "Mỗi tương tác đều là kết quả của sự lựa chọn và định hình nên trải nghiệm sống của chúng ta",
+        "Mỗi tương tác đều giúp cải thiện kỹ năng giao tiếp"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tư duy sâu sắc ở đây là mỗi lựa chọn hành động nhỏ nhất cũng đều góp phần xây dựng nhân cách và bản sắc cá nhân (Personal identity)."
+    },
+    {
+      "id": "q8",
+      "question": "Lựa chọn nào sau đây phản ánh đúng nhất định nghĩa về 'cơ hội' trong chương này?",
+      "options": [
+        "Sự may mắn ngẫu nhiên đến với người biết chờ đợi",
+        "Một tình huống có khả năng thúc đẩy sự phát triển cá nhân",
+        "Một sự kiện đem lại lợi ích về vật chất",
+        "Việc kết nối với những người nổi tiếng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả không định nghĩa cơ hội theo nghĩa danh lợi (gặp người nổi tiếng), mà coi đó là chất xúc tác để trưởng thành và học hỏi."
+    },
+    {
+      "id": "q9",
+      "question": "Trong quản trị bản thân, việc 'biết sửa chữa lỗi lầm' (như cách tác giả làm sau vụ Harvey Keitel) nói lên điều gì?",
+      "options": [
+        "Đó là minh chứng cho tinh thần trách nhiệm và cam kết với sự tiến bộ",
+        "Đó là cách để giữ uy tín với mọi người xung quanh",
+        "Đó là biểu hiện của người biết nhận thua",
+        "Đó là cách để tránh sự chỉ trích từ cộng đồng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cam kết sửa sai là sự chuyển dịch từ thái độ bị động (nhận lỗi) sang chủ động (thay đổi hành vi). Đây là phẩm chất cốt lõi của người lãnh đạo hiệu quả."
+    },
+    {
+      "id": "q10",
+      "question": "Điều gì ngăn cản con người 'chộp lấy cơ hội' trong hầu hết các trường hợp?",
+      "options": [
+        "Sự thiếu hụt kỹ năng",
+        "Nỗi sợ bị phán xét hoặc thất bại",
+        "Sự bận rộn với các công việc thường nhật",
+        "Thiếu sự hỗ trợ từ người khác"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nỗi sợ (fear of rejection/judgment) là rào cản nội tại lớn nhất. Tác giả thừa nhận ông cũng 'tim đập rộn ràng' nhưng đã chọn hành động bất chấp nỗi sợ đó."
+    },
+    {
+      "id": "q11",
+      "question": "Cách ứng xử nào sau đây là 'tầm thường' nhất theo tư duy của Robin Sharma?",
+      "options": [
+        "Thất bại và bỏ cuộc",
+        "Thất bại, không rút ra bài học và tiếp tục mắc lỗi đó",
+        "Không bao giờ dám thử vì sợ thất bại",
+        "Chỉ làm những gì an toàn và quen thuộc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Người tầm thường không phải là người không giỏi, mà là người không có khả năng tự điều chỉnh (self-correcting). Mắc lỗi không đáng sợ bằng việc không tiến bộ sau lỗi đó."
+    },
+    {
+      "id": "q12",
+      "question": "Tư duy nào là nền tảng để tránh được sự hối tiếc?",
+      "options": [
+        "Luôn lập kế hoạch chi tiết cho mọi thứ",
+        "Tận dụng mọi khả năng dù có rủi ro",
+        "Luôn lắng nghe lời khuyên của người khác",
+        "Tập trung vào kết quả sau cùng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hối tiếc thường đến từ những gì ta đã không làm (omission). Tác giả khuyên hãy 'chộp lấy' vì 'nếu không thử, sao bạn biết được'."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao việc 'không chú ý' lại là nguyên nhân gây ra việc lặp lại lỗi lầm?",
+      "options": [
+        "Thiếu sự quan sát làm ta mất đi khả năng nhận diện các bài học cuộc sống",
+        "Vì con người quá bận rộn với đời sống hiện đại",
+        "Vì sự chú ý đòi hỏi quá nhiều năng lượng trí não",
+        "Vì chúng ta thường bị phân tâm bởi các yếu tố bên ngoài"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự chú ý (presence) là tiền đề của việc học hỏi. Nếu không tỉnh thức và quan sát bản thân, ta không bao giờ nhận ra bài học ẩn sau lỗi sai."
+    },
+    {
+      "id": "q14",
+      "question": "Khi tác giả nói 'đừng lựa chọn sự hối tiếc', ông đang muốn nhắn nhủ điều gì về triết lý hành động?",
+      "options": [
+        "Hãy hành động quyết liệt để tránh phải ân hận vì đã bỏ lỡ",
+        "Hãy suy nghĩ thật kỹ để không bao giờ phải làm sai",
+        "Hãy chấp nhận mọi rủi ro để có cuộc sống thú vị",
+        "Hãy luôn lựa chọn những quyết định an toàn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thông điệp là: nỗi đau của sự thất bại khi thử nghiệm còn nhẹ hơn nỗi đau của sự hối tiếc khi chưa bao giờ dám thử."
+    },
+    {
+      "id": "q15",
+      "question": "Kết quả của việc 'chộp lấy cơ hội' trong câu chuyện với Eric Clapton cho thấy điều gì?",
+      "options": [
+        "Kết nối với người nổi tiếng là cách tốt nhất để thành công",
+        "Cuộc sống luôn đền đáp cho sự dũng cảm bước ra khỏi vùng an toàn",
+        "Giao tiếp xã hội là kỹ năng quan trọng nhất",
+        "Chúng ta nên chủ động làm phiền người khác nếu có thể"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả muốn chỉ ra rằng sự dũng cảm bước ra khỏi vùng an toàn mở ra những trải nghiệm vô giá. Dù cơ hội đó là ngẫu nhiên, kết quả tích cực là phần thưởng cho người dám nắm bắt."
+    }
+  ]
+}

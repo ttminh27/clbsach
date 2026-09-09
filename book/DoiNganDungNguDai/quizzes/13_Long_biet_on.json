@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "13_Long_biet_on",
+  "chapterTitle": "13. Lòng biết ơn",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo triết lý của tác giả, mối quan hệ giữa lòng biết ơn và sự phát triển cá nhân là gì?",
+      "options": [
+        "Biết ơn là hệ quả của thành công",
+        "Biết ơn là công cụ giúp duy trì trạng thái tích cực để đón nhận thêm giá trị",
+        "Biết ơn là sự chấp nhận thực tại để tránh nỗ lực không cần thiết",
+        "Biết ơn là phương pháp giúp con người giảm bớt sự cạnh tranh trong công việc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh nguyên lý 'trân trọng điều gì, điều đó sẽ phát triển'. Biết ơn không phải là sự tự mãn, mà là tư duy tập trung vào các phúc lành hiện có để tạo ra đà tăng trưởng."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao tác giả đề nghị việc liệt kê danh sách 50 điều biết ơn thay vì chỉ vài điều hiển nhiên?",
+      "options": [
+        "Để kiểm tra trí nhớ và sự kiên nhẫn",
+        "Để tạo ra một bài tập rèn luyện kỷ luật khắc nghiệt",
+        "Để thay đổi bộ lọc nhận thức, buộc não bộ tìm kiếm sự tích cực trong những chi tiết nhỏ nhất",
+        "Để người đọc cảm thấy tội lỗi vì họ vốn đang có nhiều hơn họ nghĩ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc yêu cầu con số lớn (50) buộc người đọc phải mở rộng phạm vi quan sát ra ngoài những điều hiển nhiên, từ đó tái định hình bộ lọc của tâm trí."
+    },
+    {
+      "id": "q3",
+      "question": "Khi đối mặt với một nhân sự luôn phàn nàn về khối lượng công việc, tư duy nào của chương này giúp họ thay đổi?",
+      "options": [
+        "So sánh nỗi khổ của mình với những người bất hạnh hơn",
+        "Chuyển sự tập trung từ những áp lực sang việc biết ơn cơ hội được lao động và giá trị công việc mang lại",
+        "Chấp nhận rằng công việc là điều không thể tránh khỏi trong đời",
+        "Tự động hóa công việc để giảm tải ngay lập tức"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lòng biết ơn là cách thay đổi góc nhìn. Bằng cách trân trọng công việc, người đó sẽ thay đổi trạng thái tâm trí từ nạn nhân sang người làm chủ, từ đó hiệu suất cũng sẽ tự nhiên tăng lên."
+    },
+    {
+      "id": "q4",
+      "question": "Trong bối cảnh lãnh đạo, thái độ không xem bất cứ điều gì là 'hiển nhiên' mang lại lợi ích gì?",
+      "options": [
+        "Tạo ra sự xa cách cần thiết với nhân viên",
+        "Khuyến khích sự tôn trọng lẫn nhau và xây dựng văn hóa gắn kết dựa trên sự ghi nhận",
+        "Giảm thiểu nhu cầu khen thưởng tài chính cho đội ngũ",
+        "Khiến lãnh đạo trở nên khắt khe và chi tiết hơn trong quản lý"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự hiển nhiên là kẻ thù của lòng biết ơn và sự gắn kết. Lãnh đạo biết ơn sẽ thúc đẩy tinh thần làm việc của tập thể thông qua việc ghi nhận giá trị thực sự của mỗi cá nhân."
+    },
+    {
+      "id": "q5",
+      "question": "Sự khác biệt cốt lõi giữa 'lòng biết ơn' của tác giả và 'sự lạc quan tếu táo' (toxic positivity) là gì?",
+      "options": [
+        "Lòng biết ơn đòi hỏi việc liệt kê cụ thể các giá trị hiện hữu, không phải là trốn tránh thực tại khó khăn",
+        "Lòng biết ơn chỉ dành cho những người đã đạt được thành công",
+        "Lạc quan tếu táo mang lại kết quả nhanh hơn",
+        "Không có sự khác biệt giữa hai khái niệm này"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lòng biết ơn trong bài viết dựa trên sự trân trọng những gì đang có thực sự (kể cả những điều nhỏ bé), trong khi lạc quan tếu táo thường mang tính phủ nhận những khó khăn hiện hữu."
+    },
+    {
+      "id": "q6",
+      "question": "Việc biết ơn những người xa lạ như người nông dân, công nhân là biểu hiện của tư duy nào?",
+      "options": [
+        "Tư duy phụ thuộc vào hệ thống xã hội",
+        "Tư duy hệ sinh thái: hiểu rằng thành quả của cá nhân là sự cộng hưởng từ nỗ lực của cộng đồng",
+        "Tư duy tôn giáo về lòng trắc ẩn",
+        "Tư duy hướng ngoại nhằm thu hút sự chú ý của người khác"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là tư duy hệ sinh thái, giúp con người nhận thức sâu sắc về mối liên hệ hữu cơ giữa các cá nhân, giảm bớt cái tôi vị kỷ và gia tăng sự kết nối."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao việc so sánh cuộc đời mình với những người bất hạnh (như trường hợp người phụ nữ trong bài) lại có thể thúc đẩy sự phát triển cá nhân?",
+      "options": [
+        "Để cảm thấy tự hào về bản thân",
+        "Để tạo ra cảm giác tội lỗi và bắt buộc phải thay đổi",
+        "Để phá vỡ ảo tưởng về sự 'bất hạnh' do chính mình tự xây dựng và nhận ra những phước lành đang bị bỏ lỡ",
+        "Để biện minh cho việc không cần nỗ lực thêm nữa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đây là sự thay đổi góc nhìn từ thiếu thốn sang dư dả. Khi hiểu rằng có những người mất đi nhiều hơn, ta sẽ tập trung vào tiềm năng của bản thân thay vì những giới hạn."
+    },
+    {
+      "id": "q8",
+      "question": "Trong quản lý thời gian, việc áp dụng lòng biết ơn có tác dụng gì?",
+      "options": [
+        "Giúp làm việc nhanh hơn bằng cách bỏ qua chi tiết",
+        "Giúp ưu tiên những việc quan trọng bằng cách trân trọng giá trị cốt lõi của thời gian",
+        "Làm chậm tiến độ vì mất quá nhiều thời gian suy tư",
+        "Không có tác động vì biết ơn là trạng thái cảm xúc, không phải công cụ quản lý"
+      ],
+      "correctIndex": 1,
+      "explanation": "Biết ơn thời gian nghĩa là trân trọng từng khoảnh khắc, từ đó giúp cá nhân tránh sa đà vào các hoạt động vô nghĩa, giúp tập trung vào mục tiêu quan trọng nhất."
+    },
+    {
+      "id": "q9",
+      "question": "Đâu là bẫy tư duy mà người đọc dễ mắc phải nhất khi đọc chương này?",
+      "options": [
+        "Cho rằng biết ơn là đủ, không cần hành động quyết liệt",
+        "Cho rằng biết ơn chỉ dành cho người yếu đuối",
+        "Cho rằng 50 là con số quá nhỏ để liệt kê",
+        "Cho rằng biết ơn là bản năng, không cần rèn luyện"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đây là lỗi ngụy biện phổ biến nhất: tin rằng tư duy tích cực có thể thay thế cho hành động. Tác giả ngụ ý biết ơn là nền tảng tâm thế, không phải điểm dừng của hành trình."
+    },
+    {
+      "id": "q10",
+      "question": "Theo triết lý của tác giả, viễn cảnh cuộc đời thay đổi là kết quả của yếu tố nào?",
+      "options": [
+        "Thay đổi hoàn cảnh bên ngoài trước",
+        "Sự thay đổi về tâm thế quan sát và đánh giá thực tại",
+        "Sự may mắn ngẫu nhiên trong cuộc sống",
+        "Việc từ bỏ mọi tham vọng cá nhân"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi thay đổi những gì ta trân trọng, bộ lọc của não bộ sẽ thay đổi, dẫn đến cách chúng ta phản ứng với thế giới và từ đó kết quả cuộc đời sẽ biến đổi theo."
+    },
+    {
+      "id": "q11",
+      "question": "Nếu một người thất bại trong việc tìm thấy 50 điều để biết ơn, điều đó phản ánh điều gì?",
+      "options": [
+        "Cuộc sống của họ quá bế tắc",
+        "Tâm trí họ đang bị đóng khung trong thói quen tập trung vào những thiếu hụt",
+        "Họ là người quá khiêm tốn",
+        "Họ chưa đủ thông minh để nhận ra mọi thứ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vấn đề nằm ở sự tập trung (locus of attention). Khi tâm trí chỉ quen tìm 'lỗi', nó sẽ mù quáng trước những giá trị khác."
+    },
+    {
+      "id": "q12",
+      "question": "Lòng biết ơn đóng góp gì vào việc xây dựng 'lãnh đạo không chức danh'?",
+      "options": [
+        "Giúp lãnh đạo dễ dàng ra lệnh hơn",
+        "Xây dựng tầm ảnh hưởng thông qua việc chân thành trân trọng sự đóng góp của mọi người xung quanh",
+        "Cho phép lãnh đạo thoái thác trách nhiệm",
+        "Tạo ra một hình ảnh hào nhoáng về người lãnh đạo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lãnh đạo không chức danh dựa trên sự ảnh hưởng và kết nối. Người lãnh đạo biết ơn tạo ra môi trường mà mọi người cảm thấy được coi trọng, từ đó họ tự nguyện cống hiến."
+    },
+    {
+      "id": "q13",
+      "question": "Câu 'Điều gì bạn đánh giá cao sẽ bắt đầu gia tăng giá trị' ám chỉ logic nào?",
+      "options": [
+        "Quy luật kinh tế thị trường",
+        "Cơ chế tâm lý: khi ta trân trọng điều gì, ta đầu tư thời gian và năng lượng vào nó, khiến nó trở nên chất lượng hơn",
+        "Sự kỳ diệu mang tính tâm linh",
+        "Sự tự mãn khi hài lòng với những gì đang có"
+      ],
+      "correctIndex": 1,
+      "explanation": "Logic ở đây là sự tập trung. Nơi nào sự chú ý hướng đến, năng lượng sẽ đổ vào, và đó là nơi tạo ra sự phát triển."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao tác giả lại nhắc đến việc biết ơn cả những điều nhỏ như 'người bán hàng' hay 'người phục vụ'?",
+      "options": [
+        "Để tỏ ra là người lịch sự",
+        "Để chứng minh mình là người có giáo dục",
+        "Để xóa bỏ ranh giới giai cấp và nhận thức về sự phụ thuộc lẫn nhau trong cuộc sống",
+        "Để thực hiện một nghi thức xã giao"
+      ],
+      "correctIndex": 2,
+      "explanation": "Biết ơn những người làm công việc phục vụ giúp phá bỏ sự kiêu ngạo của bản ngã và nuôi dưỡng sự thấu cảm, vốn là phẩm chất quan trọng của người có tư duy lớn."
+    },
+    {
+      "id": "q15",
+      "question": "Làm thế nào để duy trì 'thái độ biết ơn' như một kỷ luật cá nhân thay vì là một cảm xúc nhất thời?",
+      "options": [
+        "Đợi đến khi có chuyện vui mới cảm thấy biết ơn",
+        "Biến nó thành một thói quen hàng ngày (như lên danh sách) để rèn luyện tư duy bền bỉ",
+        "Chỉ biết ơn khi gặp những thành tựu lớn",
+        "Để mọi thứ diễn ra tự nhiên theo cảm xúc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lòng biết ơn là một cơ bắp tâm trí. Nếu không biến thành kỷ luật (thói quen, danh sách), nó sẽ chỉ là một cảm xúc thoáng qua."
+    }
+  ]
+}

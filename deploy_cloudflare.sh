@@ -40,15 +40,14 @@ npm run build
 echo ""
 echo "🔍 Đang rà soát và loại bỏ file dư thừa trong $BUILD_DIR..."
 
-# 4.1 Xóa thư mục raw (chứa file PDF gốc, docx, tài liệu thô không dùng cho web)
-rm -rf "$BUILD_DIR"/books/*/raw
-rm -rf "$BUILD_DIR"/books/*/**/raw
+# 4.1 Xóa thư mục raw và thư mục cache không dùng cho web
+find "$BUILD_DIR" -type d \( -name "raw" -o -name "__pycache__" \) -exec rm -rf {} + 2>/dev/null || true
 
 # 4.2 Xóa các định dạng file không phục vụ web runtime
 find "$BUILD_DIR" -type f \( -name "*.pdf" -o -name "*.docx" -o -name "*.doc" -o -name "*.zip" -o -name "*.rar" -o -name "*.tar.gz" \) -exec rm -f {} +
 
-# 4.3 Xóa file hệ thống và file tạm
-find "$BUILD_DIR" -type f \( -name ".DS_Store" -o -name "Thumbs.db" -o -name "*.tmp" -o -name "*.bak" -o -name "*.log" -o -name "*.orig" \) -exec rm -f {} +
+# 4.3 Xóa file hệ thống, file script phụ trợ và file tạm
+find "$BUILD_DIR" -type f \( -name ".DS_Store" -o -name "Thumbs.db" -o -name "*.tmp" -o -name "*.bak" -o -name "*.log" -o -name "*.orig" -o -name "*.py" -o -name "*.pyc" -o -name ".gitkeep" \) -exec rm -f {} +
 
 # 4.4 Xóa các thư mục rỗng
 find "$BUILD_DIR" -type d -empty -delete 2>/dev/null || true

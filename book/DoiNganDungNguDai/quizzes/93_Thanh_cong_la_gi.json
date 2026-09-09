@@ -1,0 +1,188 @@
+{
+  "bookId": "DoiNganDungNguDai",
+  "chapterId": "93_Thanh_cong_la_gi",
+  "chapterTitle": "93. Thành công là gì?",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo quan điểm của Robin Sharma về thành công, yếu tố nào sau đây đóng vai trò là 'động cơ' duy trì kỷ luật cá nhân trong dài hạn?",
+      "options": [
+        "Sự tích lũy tài sản và vị thế xã hội",
+        "Việc theo đuổi những ước mơ vĩ đại",
+        "Sự ổn định và an toàn trong sự nghiệp",
+        "Sự công nhận từ những người xung quanh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh ước mơ là thứ 'đánh thức ta dậy sớm' và đong đầy hy vọng, chuyển hóa từ sự ép buộc sang động lực tự thân."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao tác giả lại nhấn mạnh 'quá trình' quan trọng hơn 'kết quả' trong định nghĩa về thành công?",
+      "options": [
+        "Vì kết quả là thứ không thể kiểm soát được",
+        "Vì thành công thực sự nằm ở cách ta sống và trải nghiệm mỗi ngày",
+        "Vì tập trung vào kết quả dễ dẫn đến thất bại",
+        "Vì quá trình là nơi ta che giấu khuyết điểm bản thân"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tư duy lãnh đạo tập trung vào việc kiến tạo cuộc đời thông qua hành động hàng ngày, thay vì chỉ chăm chăm vào đích đến ngắn hạn."
+    },
+    {
+      "id": "q3",
+      "question": "Lời khuyên của Mark Twain về việc 'quẳng dây neo' ám chỉ điều gì trong phát triển bản thân?",
+      "options": [
+        "Từ bỏ những mối quan hệ gia đình",
+        "Phá bỏ những ràng buộc tâm lý và sự an toàn ảo",
+        "Thay đổi công việc liên tục để tìm cảm hứng",
+        "Phủ nhận quá khứ và kinh nghiệm cá nhân"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dây neo là biểu tượng của vùng an toàn và nỗi sợ thay đổi. Để phát triển, người lãnh đạo phải dám từ bỏ sự ổn định để thám hiểm tiềm năng."
+    },
+    {
+      "id": "q4",
+      "question": "Nếu một người đạt được mọi mục tiêu tài chính nhưng cảm thấy trống rỗng, theo logic của chương này, họ đã thiếu yếu tố nào?",
+      "options": [
+        "Sự phản ánh giá trị và niềm tin sâu xa của bản thân",
+        "Sự kiên nhẫn để chờ đợi thời cơ tiếp theo",
+        "Kỹ năng quản lý tài chính hiệu quả",
+        "Sự cạnh tranh gay gắt với đối thủ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thành công theo tác giả đòi hỏi sự đồng nhất giữa cuộc sống bên ngoài và giá trị cốt lõi bên trong. Thiếu điều này là sự thành công bề ngoài nhưng thất bại bên trong."
+    },
+    {
+      "id": "q5",
+      "question": "Theo góc nhìn của Robin Sharma, tại sao 'vui thú' lại là một phần của thành công?",
+      "options": [
+        "Vì vui thú giúp giảm bớt căng thẳng công việc",
+        "Vì ý nghĩa cuộc đời gắn liền với việc tận hưởng hành trình",
+        "Vì con người chỉ làm việc hiệu quả khi đang vui",
+        "Vì vui thú là đích đến cuối cùng của con người"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự vui thú không phải là hưởng lạc thụ động, mà là sự hài lòng trong quá trình sống thật với chính mình, khiến hành trình trở nên có ý nghĩa."
+    },
+    {
+      "id": "q6",
+      "question": "Trong quản trị nhân sự, việc áp dụng triết lý 'thành công là sống thật với giá trị bản thân' giúp lãnh đạo điều gì?",
+      "options": [
+        "Giảm thiểu rủi ro khi đưa ra quyết định sai lầm",
+        "Tạo ra văn hóa làm việc trung thực và truyền cảm hứng",
+        "Tăng cường quyền kiểm soát đối với nhân viên",
+        "Tối ưu hóa lợi nhuận trong ngắn hạn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi lãnh đạo sống thật với giá trị, họ trở thành hình mẫu, thúc đẩy nhân viên kết nối với giá trị của chính họ, tạo sự gắn kết bền vững."
+    },
+    {
+      "id": "q7",
+      "question": "Sự 'hối tiếc' mà Mark Twain nhắc đến xuất phát từ đâu?",
+      "options": [
+        "Những quyết định sai lầm trong quá khứ",
+        "Sự thiếu hụt về tài chính",
+        "Việc lựa chọn sự an toàn thay vì mạo hiểm phát triển",
+        "Việc tin tưởng sai người"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nỗi đau của việc 'không làm' (sợ hãi, thụ động) lớn hơn nỗi đau của việc thử và thất bại. Đây là cốt lõi của việc dám sống trọn vẹn."
+    },
+    {
+      "id": "q8",
+      "question": "Khi đối mặt với rào cản thay đổi, tư duy của một người thực sự thành công là gì?",
+      "options": [
+        "Dừng lại để đánh giá lại năng lực",
+        "Chấp nhận rủi ro và tìm kiếm cơ hội từ sự không chắc chắn",
+        "Tìm kiếm sự hỗ trợ từ những người đã thành công",
+        "Kiên định giữ nguyên chiến lược cũ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thành công đòi hỏi sự linh hoạt và dũng cảm đối diện với sự không chắc chắn, thay vì co cụm trong những cách làm cũ đã quen thuộc."
+    },
+    {
+      "id": "q9",
+      "question": "Sống thật với con người mình (theo bài đọc) có ý nghĩa như thế nào trong sự nghiệp?",
+      "options": [
+        " Giúp ta xây dựng thương hiệu cá nhân giả tạo để thu hút",
+        "Giúp ta đưa ra các quyết định nhất quán với bản ngã thay vì chạy theo xu hướng",
+        "Giúp ta dễ dàng thỏa hiệp với đối tác",
+        "Giúp ta tránh được mọi sự chỉ trích từ cộng đồng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự nhất quán (integrity) giữa nội tâm và hành động tạo ra sức mạnh nội lực và niềm tin, vốn là nền tảng của lãnh đạo."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao lại nói 'đời ngắn' lại là một lời nhắc nhở để sống thành công?",
+      "options": [
+        "Vì thời gian hạn hẹp nên cần kiếm tiền nhanh",
+        "Vì thời gian là nguồn lực khan hiếm để thực hiện sứ mệnh cá nhân",
+        "Vì đời ngắn nên không cần quan tâm đến kết quả",
+        "Vì chúng ta nên dành thời gian cho bản thân thay vì người khác"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tính hữu hạn của cuộc đời là áp lực tích cực để chúng ta ưu tiên những điều quan trọng thay vì lãng phí vào sự sợ hãi hay trì hoãn."
+    },
+    {
+      "id": "q11",
+      "question": "Một người đang trong vùng an toàn (comfort zone) sẽ cảm thấy thế nào về định nghĩa thành công trong bài đọc?",
+      "options": [
+        "Họ cảm thấy an tâm vì sự thành công đó là bền vững",
+        "Họ cảm thấy bị đe dọa bởi sự cần thiết phải 'dong buồm xa bến đỗ'",
+        "Họ cảm thấy thành công là điều quá dễ dàng",
+        "Họ thấy mình đã thành công hoàn hảo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vùng an toàn tạo ra ảo tưởng về thành công. Việc 'dong buồm' đòi hỏi vượt qua nỗi sợ hãi, vốn là phản ứng tâm lý bình thường của con người."
+    },
+    {
+      "id": "q12",
+      "question": "Đâu là biểu hiện của tư duy 'người vượt trội' khi theo đuổi ước mơ?",
+      "options": [
+        "Luôn tìm kiếm con đường nhanh nhất, ít trở ngại nhất",
+        "Chấp nhận sự khó khăn như một phần tất yếu của quá trình rèn luyện",
+        "Ưu tiên sự công nhận của xã hội hơn niềm hạnh phúc cá nhân",
+        "Thành công chỉ khi mọi ước mơ đều trở thành hiện thực"
+      ],
+      "correctIndex": 1,
+      "explanation": "Người vượt trội hiểu rằng bản chất của quá trình là sự rèn luyện, và sự kháng cự từ khó khăn là minh chứng cho việc họ đang phát triển."
+    },
+    {
+      "id": "q13",
+      "question": "Điều gì ngăn cản một cá nhân thực hiện định nghĩa thành công này?",
+      "options": [
+        "Thiếu điều kiện kinh tế",
+        "Sự sợ hãi về việc rời bỏ cái quen thuộc và nỗi sợ bị phán xét",
+        "Thiếu sự hướng dẫn của người cố vấn",
+        "Sự cạnh tranh từ xã hội"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phần lớn sự trì trệ nằm ở tâm lý sợ hãi (nỗi sợ thay đổi) chứ không phải do thiếu nguồn lực bên ngoài."
+    },
+    {
+      "id": "q14",
+      "question": "Sự đánh đổi trong triết lý của tác giả là gì?",
+      "options": [
+        "Đánh đổi thời gian cá nhân lấy thu nhập ngắn hạn",
+        "Đánh đổi sự an toàn hiện tại lấy sự tự do và viên mãn dài hạn",
+        "Đánh đổi các mối quan hệ lấy sự nghiệp cá nhân",
+        "Đánh đổi sự trung thực lấy kết quả công việc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lãnh đạo vĩ đại hiểu rõ cái giá của sự an toàn là sự tầm thường. Họ chấp nhận sự không chắc chắn để đổi lại sự tăng trưởng bền vững."
+    },
+    {
+      "id": "q15",
+      "question": "Nếu phải chọn một từ khóa mô tả 'Thành công' theo Robin Sharma, từ đó là gì?",
+      "options": [
+        "Đích đến",
+        "Sứ mệnh",
+        "Hành trình",
+        "Tài sản"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nhấn mạnh 'quá trình' và 'hành trình'. Thành công không phải là điểm cuối, mà là cách ta vận hành cuộc sống hàng ngày theo giá trị của mình."
+    }
+  ]
+}
