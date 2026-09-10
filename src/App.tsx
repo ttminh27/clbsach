@@ -67,7 +67,7 @@ const AppLayout: React.FC = () => {
 
       {/* Main App Content Container */}
       <div
-        className={`flex-1 flex flex-col min-w-0 max-w-full overflow-x-hidden transition-all duration-300 ${
+        className={`flex-1 flex flex-col min-w-0 max-w-full transition-all duration-300 ${
           isSidebarCollapsed ? 'lg:pl-20' : 'lg:pl-80'
         }`}
       >

@@ -20,7 +20,7 @@ html,
 body {
   width: 100%;
   max-width: 100%;
-  overflow-x: hidden;
+  overflow-x: clip;
   position: relative;
 }
 
@@ -32,7 +32,6 @@ body {
 #root {
   width: 100%;
   max-width: 100%;
-  overflow-x: hidden;
   min-height: 100vh;
 }
 

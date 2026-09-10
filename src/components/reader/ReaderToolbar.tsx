@@ -136,7 +136,7 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
         ></div>
       </div>
 
-      <div className="mx-auto flex h-14 max-w-7xl items-center justify-between px-2 sm:px-6 w-full">
+      <div className="mx-auto flex h-14 max-w-7xl items-center justify-between gap-2 sm:gap-4 px-3 sm:px-6 w-full">
         {/* Left: Back to Book Detail & Mobile TOC button */}
         <div className="flex items-center gap-1 sm:gap-2 shrink-0">
           <Link
@@ -161,17 +161,17 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
         </div>
 
         {/* Center: Book & Chapter title with reading progress */}
-        <div className="hidden md:flex flex-col items-center justify-center max-w-sm lg:max-w-md text-center px-2">
-          <div className="flex items-center gap-1.5 text-[11px]">
-            <span className="font-bold uppercase tracking-wider text-slate-400 dark:text-slate-400 truncate max-w-[160px]">
+        <div className="hidden md:flex flex-1 min-w-0 flex-col items-center justify-center max-w-xs sm:max-w-sm lg:max-w-md xl:max-w-lg text-center px-1 sm:px-2">
+          <div className="flex items-center gap-1.5 text-[11px] max-w-full">
+            <span className="font-bold uppercase tracking-wider text-slate-400 dark:text-slate-400 truncate max-w-[120px] lg:max-w-[180px]">
               {book.title}
             </span>
-            <span className="text-slate-300 dark:text-slate-600">•</span>
-            <span className="inline-flex items-center gap-1 px-1.5 py-0.2 rounded-full text-[10px] font-semibold bg-emerald-50 dark:bg-emerald-950/60 text-emerald-600 dark:text-emerald-400">
+            <span className="text-slate-300 dark:text-slate-600 shrink-0">•</span>
+            <span className="inline-flex items-center gap-1 px-1.5 py-0.2 rounded-full text-[10px] font-semibold bg-emerald-50 dark:bg-emerald-950/60 text-emerald-600 dark:text-emerald-400 shrink-0">
               Tiến độ {Math.round(scrollProgress)}%
             </span>
           </div>
-          <p className="text-xs font-bold text-slate-800 dark:text-slate-200 truncate max-w-sm">
+          <p className="text-xs font-bold text-slate-800 dark:text-slate-200 truncate w-full">
             {currentChapter.title}
           </p>
         </div>
@@ -190,7 +190,7 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
               title="Tìm kiếm trong chương này (Ctrl+F)"
             >
               <Search className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
-              <span className="hidden lg:inline">Tìm kiếm</span>
+              <span className="hidden xl:inline">Tìm kiếm</span>
             </button>
           )}
 
@@ -218,7 +218,7 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
               title="Đọc tự động bằng AI Web Speech (TTS)"
             >
               <Volume2 className={`h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0 ${isTTSSpeaking ? 'animate-bounce' : ''}`} />
-              <span className="hidden lg:inline">Giọng đọc AI</span>
+              <span className="hidden xl:inline">Giọng đọc AI</span>
             </button>
           )}
 
@@ -240,7 +240,7 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
               title={`Nghe audio thu âm sẵn (${book.audios.length} bài)`}
             >
               <Headphones className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
-              <span className="hidden lg:inline">Audio sách</span>
+              <span className="hidden xl:inline">Audio sách</span>
             </button>
           )}
 
@@ -597,7 +597,7 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
             title="Mở bảng thảo luận chương sách"
           >
             <MessageSquare className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
-            <span className="hidden md:inline">Thảo luận</span>
+            <span className="hidden xl:inline">Thảo luận</span>
           </button>
         )}
 

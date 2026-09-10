@@ -344,7 +344,7 @@ export const ReaderPage: React.FC = () => {
   }
 
   return (
-    <div className="min-h-screen pb-28 w-full max-w-full overflow-x-hidden">
+    <div className="min-h-screen pb-28 w-full max-w-full">
       {/* Reader Toolbar */}
       <ReaderToolbar
         book={book}

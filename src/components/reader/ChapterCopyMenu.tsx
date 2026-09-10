@@ -115,8 +115,8 @@ export const ChapterCopyMenu: React.FC<ChapterCopyMenuProps> = ({
         ) : (
           <Copy className="h-4 w-4 text-slate-600 dark:text-slate-300 shrink-0" />
         )}
-        <span className="hidden sm:inline">Sao chép</span>
-        <ChevronDown className="hidden sm:inline h-3 w-3 opacity-60 ml-0.5" />
+        <span className="hidden xl:inline">Sao chép</span>
+        <ChevronDown className="hidden xl:inline h-3 w-3 opacity-60 ml-0.5" />
       </button>
 
       {/* Popover Dropdown Menu */}
