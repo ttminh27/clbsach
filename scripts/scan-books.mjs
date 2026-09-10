@@ -176,6 +176,20 @@ const placeholderMetadata = {
     gradient: "from-amber-600 to-stone-900",
     themeColor: "#d97706",
     status: "available"
+  },
+  "DieuYNghiaNhat": {
+    title: "The ONE Thing – Điều Ý Nghĩa Nhất Trong Từng Khoảnh Khắc Cuộc Đời",
+    originalTitle: "The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results",
+    author: "Gary Keller & Jay Papasan",
+    authorBio: "Gary Keller là nhà đồng sáng lập và Chủ tịch HĐQT của Keller Williams Realty - một trong những công ty bất động sản lớn nhất thế giới. Jay Papasan là Phó chủ tịch điều hành tại KellerINK và cựu biên tập viên cấp cao tại HarperCollins.",
+    quote: "Nếu săn hai con thỏ cùng lúc, bạn sẽ chẳng bắt được con nào.",
+    translator: "Tuấn Trương",
+    category: "Hiệu suất & Phát triển bản thân",
+    tags: ["The One Thing", "Tập trung", "Năng suất", "Hiệu suất", "Phát triển bản thân", "Quản lý thời gian"],
+    description: "Khám phá chân lý đơn giản đến bất ngờ đằng sau những kết quả phi thường: bí quyết loại bỏ xao nhãng, giải phóng tiềm năng và làm chủ điều quan trọng nhất trong từng khoảnh khắc cuộc đời.",
+    gradient: "from-blue-600 via-indigo-700 to-slate-900",
+    themeColor: "#2563eb",
+    status: "available"
   }
 };
 

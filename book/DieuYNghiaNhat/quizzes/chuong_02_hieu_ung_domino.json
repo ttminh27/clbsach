@@ -1,0 +1,203 @@
+{
+  "bookId": "DieuYNghiaNhat",
+  "chapterId": "chuong_02_hieu_ung_domino",
+  "chapterTitle": "Chương 2: Hiệu ứng domino",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khám phá vật lý chấn động của Lorne Whitehead đăng trên tạp chí Vật lý Mỹ năm 1983 về hiệu ứng domino là gì?",
+      "options": [
+        "Một quân domino không chỉ đánh đổ được quân có cùng kích thước mà còn có khả năng đánh đổ một quân cờ có kích thước lớn hơn nó 50% (gấp rưỡi).",
+        "Các quân domino chỉ có thể đổ nếu được xếp trên một mặt phẳng tuyệt đối không có ma sát.",
+        "Năng lượng giải phóng từ chuỗi domino luôn bị tiêu hao hoàn toàn sau quân cờ thứ 10.",
+        "Lực tác động lên quân domino đầu tiên phải lớn hơn trọng lượng của toàn bộ chuỗi domino cộng lại."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lorne Whitehead đã chứng minh một quân domino nhỏ bé có thể xô đổ một quân lớn hơn 1,5 lần nhờ sự chuyển hóa thế năng và động năng tích tụ. Phát hiện này biến hiệu ứng domino từ một chuỗi phản ứng dây chuyền tuyến tính đơn thuần thành một phản ứng dây chuyền cấp số nhân có sức mạnh khuếch đại phi thường.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "Thí nghiệm mô phỏng của Exploratorium năm 2001 (chuỗi 8 quân domino cấp số nhân từ 5cm đến 1m) kết thúc bằng một \"tiếng rầm lớn\". Thí nghiệm này chứng minh nguyên lý phát triển nào?",
+      "options": [
+        "Các vật thể bằng gỗ dán luôn phát ra âm thanh lớn hơn khi va đập vào sàn nhà.",
+        "Một hành động khởi đầu vô cùng nhỏ bé và khiêm tốn có thể tích lũy và giải phóng nguồn năng lượng khổng lồ nếu được sắp đặt theo chuỗi đòn bẩy lũy tiến.",
+        "Muốn tạo ra kết quả lớn thì ngay từ bước đầu tiên bắt buộc phải dùng công cụ khổng lồ.",
+        "Hiệu ứng dây chuyền chỉ có giá trị trình diễn trong phòng thí nghiệm chứ không ứng dụng được vào thực tiễn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Quân domino đầu tiên chỉ cao 5cm và chỉ cần một cú chạm nhẹ bằng đầu ngón tay. Nhưng qua 8 bước khuếch đại cấp số nhân, quân cuối cùng cao gần 1m đổ xuống với một lực chấn động. Điều này khẳng định: Bạn không cần phải bắt đầu bằng một hành động vĩ đại; bạn chỉ cần bắt đầu bằng một hành vi đúng đắn nhỏ bé nhưng có tính lũy tiến.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q3",
+      "question": "Trong chuỗi domino cấp số nhân, quân thứ 18 cao bằng tháp nghiêng Pisa, quân 23 cao hơn tháp Eiffel, quân 31 vượt đỉnh Everest 1.000m và quân thứ 57 có thể chạm tới Mặt Trăng. Ẩn dụ này gửi gắm thông điệp chiến lược nào?",
+      "options": [
+        "Để bay lên mặt trăng, các nhà khoa học NASA nên sử dụng quân cờ domino thay vì tên lửa đẩy.",
+        "Thành công lớn đòi hỏi con người phải liên tục thay đổi mục tiêu sau mỗi 10 bước tiến.",
+        "Chiều cao của các công trình kiến trúc cổ đại đều tuân theo tỷ lệ vàng của hiệu ứng domino.",
+        "Những mục tiêu tưởng chừng không tưởng đều có thể chinh phục được nếu bạn kiên trì xây dựng chuỗi hành động tuần tự có tính khuếch đại từ những việc nhỏ nhất."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khoảng cách từ Trái Đất lên Mặt Trăng (~384.400 km) là con số không tưởng đối với một quân domino 5cm. Nhưng thông qua 57 bước nhân lũy tiến (1,5^56), điều không tưởng đó hoàn toàn trở thành hiện thực toán học. Trong sự nghiệp, những thành tựu vĩ đại nhất đều bắt đầu từ những thói quen hay quyết định hàng ngày tưởng chừng nhỏ nhặt nhưng được nhân cấp theo thời gian.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao Gary Keller lại nhấn mạnh: \"Những thành quả đáng kinh ngạc thường diễn ra theo TUẦN TỰ, chứ KHÔNG ĐỒNG THỜI\"?",
+      "options": [
+        "Vì não bộ con người chỉ hoạt động được khi làm việc vào ban ngày và nghỉ ngơi vào ban đêm.",
+        "Vì luật pháp cấm các doanh nghiệp triển khai nhiều dự án cùng một năm tài chính.",
+        "Vì năng lượng thành công được xây dựng theo cơ chế tích lũy đòn bẩy: việc đúng đắn này phải làm xong mới giải phóng lực đẩy cho việc đúng đắn tiếp theo, làm đồng thời sẽ triệt tiêu lực.",
+        "Vì làm việc đồng thời luôn tiết kiệm thời gian hơn nhưng tác giả thích sự tuần tự hơn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bản chất của hiệu ứng domino là tính tuần tự (sequentially): Quân cờ này phải đổ thì mới truyền lực đánh gục quân cờ tiếp theo. Nếu bạn cố gắng làm đổ 10 quân domino cùng một lúc, bạn sẽ phải phân tán lực đẩy cho cả 10 quân và kết quả là chẳng quân nào đủ lực để đổ. Thành công bền vững là sự tích lũy có trật tự thời gian, việc trước làm nền tảng đòn bẩy cho việc sau.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q5",
+      "question": "So sánh kỷ lục thế giới ở Hà Lan (hơn 4,4 triệu quân cùng kích cỡ) và thí nghiệm của Lorne Whitehead (quân sau lớn gấp rưỡi quân trước), đâu là điểm khác biệt cốt lõi về tư duy?",
+      "options": [
+        "Kỷ lục ở Hà Lan khó thực hiện hơn vì sử dụng nhiều màu sắc hơn thí nghiệm của Whitehead.",
+        "Kỷ lục ở Hà Lan đại diện cho chuỗi tuyến tính (làm nhiều việc cùng tầm vóc), còn Whitehead đại diện cho chuỗi cấp số nhân (hành động nhỏ kích hoạt thành tựu khổng lồ vượt tầm vóc ban đầu).",
+        "Thí nghiệm của Whitehead tốn kém chi phí hơn việc mua 4,4 triệu quân domino nhựa.",
+        "Cả hai thí nghiệm đều chứng minh rằng kích thước của quân domino không có bất kỳ ảnh hưởng nào đến năng lượng giải phóng."
+      ],
+      "correctIndex": 1,
+      "explanation": "4,4 triệu quân ở Leeuwarden giải phóng năng lượng lớn (tương đương 545 cái hít đất) nhưng là phản ứng dây chuyền tuyến tính: quân này đổ chỉ làm đổ quân bằng nó. Thí nghiệm của Whitehead mở ra chiều kích tư duy hoàn toàn mới: Chuỗi cấp số nhân. Trong cuộc sống, nếu chỉ lặp đi lặp lại những việc cùng mức độ, bạn chỉ có sự tăng trưởng tuyến tính; muốn có đột phá ngoạn mục, bạn phải tạo ra chuỗi hành động có tính đòn bẩy lũy tiến.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q6",
+      "question": "Thách thức lớn nhất khi áp dụng hiệu ứng domino vào cuộc sống thực tế so với việc chơi trò xếp domino là gì?",
+      "options": [
+        "Cuộc sống không bao giờ xếp sẵn các quân cờ thành hàng ngay ngắn và nói cho bạn biết 'Hãy bắt đầu từ quân này', mà bạn phải tự mình tìm ra quân cờ chủ chốt giữa muôn vàn hỗn độn.",
+        "Chi phí mua sắm các thiết bị hỗ trợ xếp domino trong đời thực quá đắt đỏ.",
+        "Người khác sẽ luôn tìm cách xô đổ các quân cờ của bạn trước khi bạn kịp tác động lực.",
+        "Trọng lực của Trái Đất trong phòng kín khác với trọng lực ngoài môi trường xã hội."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả chỉ rõ: 'Đánh đổ các domino không khó... Tuy nhiên, hiệu ứng domino trong thực tế phức tạp hơn một chút. Bởi cuộc sống không sắp sẵn mọi thứ cho bạn và nói rằng: Anh nên bắt đầu từ đây'. Người thành công vượt trội ở chỗ họ có tầm nhìn và khả năng phân tích để nhận diện đâu là quân cờ then chốt cần tác động lực trước tiên.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q7",
+      "question": "Nguyên lý \"Thành công nối tiếp thành công\" (Success builds on success) trong Chương 2 được vận hành theo quy luật tích lũy nào?",
+      "options": [
+        "Dồn hết tiền bạc vào một canh bạc may rủi duy nhất để đổi đời sau một đêm.",
+        "Trông chờ vào sự thừa kế tài sản từ thế hệ trước mà không cần nỗ lực bản thân.",
+        "Mỗi thành công nhỏ khi hoàn thành sẽ giải phóng thế năng và nâng vị thế của bạn lên một tầm cao mới, tạo động lực và đòn bẩy lớn hơn để chinh phục mục tiêu tiếp theo.",
+        "Sao chép y hệt mô hình thành công của người khác mà không cần điều chỉnh theo hoàn cảnh cá nhân."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thành công không phải là một sự kiện cô lập rời rạc, mà là một quá trình tích lũy động năng. Khi bạn hoàn thành xuất sắc một việc quan trọng, bạn không chỉ giải quyết được việc đó mà còn tích lũy thêm uy tín, kỹ năng, sự tự tin và nguồn lực. Thế năng mới này chính là bệ phóng lớn hơn để bạn tiếp tục xô đổ mục tiêu to lớn kế tiếp.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q8",
+      "question": "Chương sách khẳng định: Người hiểu sâu biết rộng, người có kỹ năng bậc thầy, hay người sở hữu khối tài sản lớn đều có một điểm chung cốt lõi là:",
+      "options": [
+        "Họ đều sở hữu chỉ số IQ trên 160 và tốt nghiệp từ các trường đại học danh tiếng hàng đầu.",
+        "Họ được sinh ra trong các gia đình quý tộc và không bao giờ gặp bất kỳ nghịch cảnh nào.",
+        "Họ làm việc liên tục 20 tiếng mỗi ngày mà không cần ngủ suốt nhiều năm liền.",
+        "Họ đã kiên trì áp dụng hiệu ứng domino tuần tự qua thời gian: tri thức tích lũy từ học hỏi mỗi ngày, kỹ năng tôi luyện qua thực hành liên tục, và tài sản tích lũy qua đầu tư kỷ luật."
+      ],
+      "correctIndex": 3,
+      "explanation": "Keller đúc kết: 'Một người hiểu sâu biết rộng hẳn là đã trau dồi kiến thức theo thời gian. Một người thành thạo các kỹ năng chắc chắn đã thục luyện rất nhiều. Một người giàu có chắc chắn tích lũy trong nhiều năm. Thời gian chính là chiếc chìa khóa quan trọng... Thành công được xây dựng một cách tuần tự'. Không có sự vĩ đại nào diễn ra sau một đêm; tất cả đều là quả ngọt của chuỗi domino được kích hoạt kiên trì qua năm tháng.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "Nếu một người cố gắng đẩy 10 quân domino cùng một lúc thay vì tập trung vào quân domino đầu tiên, hậu quả tất yếu theo phân tích của chương là gì?",
+      "options": [
+        "Lực tác động bị phân tán mỏng mảnh, không có quân cờ nào nhận đủ động lượng cần thiết để đổ, toàn bộ chuỗi phản ứng bị tê liệt và kết quả là đình trệ hoàn toàn.",
+        "Cả 10 quân cờ sẽ đổ nhanh hơn gấp 10 lần so với việc chỉ đẩy một quân cờ.",
+        "Người đó sẽ nhận được sự khen ngợi của cấp trên vì tinh thần làm việc đa năng xông xáo.",
+        "Các quân cờ sẽ tự động sắp xếp lại thành một vòng tròn khép kín."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đây là sai lầm kinh điển của tư duy ôm đồm. Năng lượng cá nhân bị xé lẻ thành 10 phần nhỏ. Thay vì tạo ra một cú hích dứt khoát làm đổ quân đầu tiên để kích hoạt phản ứng dây chuyền tự động, người này phải chạy qua chạy lại gồng gánh cả 10 việc và cuối cùng kiệt sức mà không việc nào thành tựu trọn vẹn.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao việc xác định SAI quân domino đầu tiên lại gây ra sự lãng phí nguồn lực ghê gớm, ngay cả khi người đó hành động vô cùng quyết liệt?",
+      "options": [
+        "Vì quân domino sai sẽ phát nổ và phá hủy toàn bộ các quân cờ xung quanh nó.",
+        "Vì nếu xô đổ một quân cờ không nằm trong chuỗi đòn bẩy, động năng giải phóng ra sẽ bị tiêu tán vô ích vào hư không và không thể kích hoạt quân cờ tiếp theo đổ xuống.",
+        "Vì trọng tài cuộc thi sẽ truất quyền thi đấu của người chơi ngay lập tức.",
+        "Vì các quân domino tiếp theo sẽ tự động biến thành các rào cản bằng bê tông cốt thép."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác động lực cực mạnh vào sai mục tiêu cũng tệ hại như không làm gì cả, thậm chí còn tai hại hơn vì hao tổn sức lực. Nếu quân cờ bạn đẩy không kết nối trực tiếp với chuỗi giá trị (ví dụ: dành cả ngày chỉnh sửa phông chữ slide thay vì hoàn thiện nội dung bán hàng cốt lõi), cú ngã của nó chẳng tạo ra bất kỳ tác động dây chuyền nào tới kết quả kinh doanh cuối cùng.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q11",
+      "question": "Hiện tượng \"tiềm năng thành công lũy tiến\" (geometric progression of success) giải thích điều gì về sự phát triển vượt bậc của các doanh nghiệp kỳ lân công nghệ?",
+      "options": [
+        "Họ luôn chi tiêu nhiều tiền cho quảng cáo hơn doanh thu thực tế thu về.",
+        "Họ dựa hoàn toàn vào các chính sách trợ giá độc quyền từ chính phủ sở tại.",
+        "Giai đoạn đầu tăng trưởng có vẻ chậm chạp và khiêm tốn, nhưng khi chuỗi domino đòn bẩy chạm đến điểm bùng phát, tốc độ tăng trưởng và quy mô giá trị sẽ bùng nổ theo cấp số nhân.",
+        "Doanh nghiệp kỳ lân không cần quan tâm đến trải nghiệm của khách hàng mà chỉ cần vốn đầu tư mạo hiểm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chuỗi cấp số nhân có đặc tính: các bước đầu tiên trông rất nhỏ bé (quân 1 chỉ 5cm, quân 2 chỉ 7.5cm...). Nhưng khi bước sang nửa sau chuỗi, mỗi bước nhảy vọt có quy mô bằng cả tòa tháp hay ngọn núi. Các doanh nghiệp vĩ đại thường dành nhiều năm kiên trì hoàn thiện quân cờ công nghệ nền tảng, để rồi khi bứt phá, quy mô tăng trưởng của họ vượt xa mọi dự đoán thông thường.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q12",
+      "question": "Thời gian đóng vai trò gì trong việc hiện thực hóa hiệu ứng domino trong cuộc sống cá nhân?",
+      "options": [
+        "Thời gian chỉ là một ảo giác tâm lý và không ảnh hưởng gì đến kết quả công việc.",
+        "Thời gian giúp chúng ta quên đi những thất bại trong quá khứ để bắt đầu lại từ đầu.",
+        "Thời gian càng trôi nhanh thì các quân domino càng tự động đổ mà không cần bất kỳ lực tác động nào.",
+        "Thời gian là chất xúc tác cần thiết để chuỗi phản ứng dây chuyền tuần tự có đủ không gian tích lũy và chuyển hóa thế năng thành thành quả khổng lồ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả khẳng định: 'Thời gian chính là chiếc chìa khóa quan trọng, là điểm mấu chốt của vấn đề'. Không thể đòi hỏi quân thứ 31 (cao hơn Everest) đổ ngay lập tức khi bạn vừa mới chạm vào quân 5cm. Bạn phải cho thời gian để từng quân cờ tuần tự truyền động lượng cho nhau. Nôn nóng đốt cháy giai đoạn sẽ làm đứt gãy chuỗi domino tự nhiên.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q13",
+      "question": "Tình huống: Một nhân viên văn phòng muốn trở thành tác giả viết sách nhưng cảm thấy bất khả thi vì nghĩ đến việc phải viết 300 trang sách. Áp dụng hiệu ứng domino của Whitehead, hành động thông minh nhất của người này là gì?",
+      "options": [
+        "Xin nghỉ việc ngay lập tức để nhốt mình trong phòng viết liên tục 24 tiếng/ngày trong 2 tuần.",
+        "Xác định quân domino đầu tiên vừa sức: cam kết viết đều đặn đúng 200 từ chất lượng vào một khung giờ cố định mỗi sáng, dùng đòn bẩy tích lũy đó để tạo đà cho toàn bộ cuốn sách.",
+        "Thuê người viết hộ toàn bộ cuốn sách rồi đứng tên mình trên bìa sách để tiết kiệm thời gian.",
+        "Đợi đến khi nào có thật nhiều cảm hứng sáng tạo và cuộc sống hoàn toàn rảnh rỗi mới bắt đầu viết."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mục tiêu 300 trang là quân domino khổng lồ ở cuối chuỗi. Cố gắng xô đổ nó ngay từ ngày đầu sẽ gây choáng ngợp và tê liệt. Quân domino 5cm ở đây chính là viết 200 từ mỗi sáng. Hành động nhỏ bé này giải phóng cảm giác hoàn thành mỗi ngày, tạo thói quen viết bền vững, tích lũy động lực để xô đổ các chương sách và cuối cùng tạo nên tác phẩm hoàn chỉnh.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q14",
+      "question": "Câu danh ngôn của BJ Thornton: \"Mọi thay đổi lớn đều có khởi đầu như hiệu ứng domino\" cảnh báo chúng ta tránh bẫy tư duy nào?",
+      "options": [
+        "Bẫy tự mãn khi đã đạt được một vài thành tựu nhỏ ban đầu.",
+        "Bẫy xem thường những người có hoàn cảnh khó khăn hơn mình.",
+        "Bẫy ảo tưởng rằng muốn thay đổi lớn thì nhất thiết phải bắt đầu bằng một hành động kinh thiên động địa, từ đó dẫn đến trì hoãn vì thấy bản thân chưa đủ lực.",
+        "Bẫy chi tiêu quá mức vào các trò chơi giải trí vô bổ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Rất nhiều người trì hoãn ước mơ vì nghĩ rằng: 'Thay đổi lớn đòi hỏi hành động khổng lồ tương xứng ngay từ đầu'. Câu nói của Thornton và hiệu ứng domino đập tan ảo tưởng này: Thay đổi vĩ đại nhất luôn bắt nguồn từ một tác động cực nhỏ vào đúng mắt xích quan trọng nhất. Nhận thức này giải phóng con người khỏi sự tự ti và khuyến khích hành động ngay lập tức.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "Mối liên kết chiến lược giữa \"quân domino hiện tại\" và \"bức tranh mục tiêu dài hạn\" được mô tả như thế nào trong chương?",
+      "options": [
+        "Quân domino hiện tại chính là hiện thân thu nhỏ của mục tiêu tối thượng; hạ gục nó chính là bước đi chuẩn xác nhất đưa bạn tiến gần đến bức tranh vĩ mô.",
+        "Quân domino hiện tại hoàn toàn độc lập và không liên quan gì đến tương lai dài hạn.",
+        "Bạn chỉ nên tập trung vào bức tranh vĩ mô và bỏ mặc quân domino hiện tại cho người khác lo.",
+        "Quân domino hiện tại phải luôn luôn là công việc dễ chịu nhất và mang lại tiền thưởng ngay tức thì."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách nêu rõ: 'Hiệu ứng domino được áp dụng cho bức tranh tổng thể như công việc hoặc doanh nghiệp của bạn; nó cũng được áp dụng cho những thời khắc ra quyết định nhỏ nhất trong ngày'. Người có tư duy The ONE Thing luôn kết nối được hành động của 5 phút tiếp theo với sứ mệnh 5 năm tới. Mỗi cú hích hôm nay đều phục vụ trực tiếp cho việc xô đổ mục tiêu tối thượng mai sau.",
+      "difficulty": "hard"
+    }
+  ]
+}

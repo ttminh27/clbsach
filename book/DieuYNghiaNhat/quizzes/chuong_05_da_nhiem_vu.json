@@ -1,0 +1,203 @@
+{
+  "bookId": "DieuYNghiaNhat",
+  "chapterId": "chuong_05_da_nhiem_vu",
+  "chapterTitle": "Chương 5: Đa nhiệm vụ",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Thuật ngữ 'đa nhiệm' (multitasking) nguyên gốc được tạo ra vào những năm 1960 để mô tả đối tượng nào, và việc con người áp dụng thuật ngữ này cho bản thân đã dẫn đến ngộ nhận căn bản gì?",
+      "options": [
+        "Mô tả máy tính chia sẻ luân phiên một bộ xử lý (CPU) cho nhiều tác vụ tại từng thời điểm; con người đã ngộ nhận biến nó thành khả năng một cá nhân xử lý đồng thời nhiều việc cùng lúc.",
+        "Mô tả các dây chuyền lắp ráp tự động trong ngành công nghiệp ô tô; con người ngộ nhận rằng cơ thể sinh học có thể vận hành chính xác như máy móc cơ khí.",
+        "Mô tả kỹ năng phản xạ chiến đấu của phi công quân sự; con người ngộ nhận rằng bất kỳ ai cũng có thể rèn luyện phản xạ đó trong môi trường văn phòng.",
+        "Mô tả các thí nghiệm tâm lý học hành vi về phản xạ có điều kiện của Pavlov; con người ngộ nhận rằng sự tập trung có thể nhân bản tự động."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả chỉ rõ: Thuật ngữ 'đa nhiệm' ra đời thập niên 1960 để mô tả máy tính xử lý luân phiên trên một CPU tốc độ 10 MHz. Ngay cả máy tính cũng chỉ xử lý một đoạn mã tại một thời điểm, nhưng tốc độ chuyển đổi tạo ảo giác về sự đồng thời. Việc con người gán khái niệm này cho bộ não đã tạo nên lời dối trá rằng chúng ta có thể tập trung chú ý vào nhiều việc cùng một lúc.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q2",
+      "question": "Nghiên cứu của Giáo sư Clifford Nass tại Đại học Stanford năm 2009 trên 262 sinh viên đã đưa ra phát hiện mang tính phản trực giác nào về những người tự nhận mình giỏi đa nhiệm?",
+      "options": [
+        "Những người đa nhiệm thường xuyên có chỉ số IQ cao hơn và khả năng ghi nhớ không gian vượt trội so với nhóm làm việc đơn nhiệm.",
+        "Những người đa nhiệm tần suất cao thực chất là 'những người nghiện điều không thích hợp' (suckers for irrelevancy) và thể hiện sự kém cỏi trên mọi tiêu chí đo lường hiệu suất.",
+        "Đa nhiệm giúp tăng tốc độ phản xạ thị giác nhưng làm suy giảm khả năng thấu cảm và trí tuệ cảm xúc.",
+        "Hiệu quả của người đa nhiệm chỉ phụ thuộc vào độ tuổi sinh học: người trẻ dưới 25 tuổi hoàn toàn có thể đa nhiệm mà không tổn hao năng lượng nhận thức."
+      ],
+      "correctIndex": 1,
+      "explanation": "Clifford Nass ban đầu kỳ vọng sẽ khám phá ra 'năng lực bí mật' của những người đa nhiệm xuất sắc. Tuy nhiên, kết quả thực nghiệm chứng minh rằng người đa nhiệm thường xuyên bị phân tán bởi những kích thích thứ yếu vô nghĩa, không thể phân loại thông tin quan trọng và thực hiện kém hơn ở mọi bài kiểm tra so với người ít đa nhiệm.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q3",
+      "question": "Hình ảnh ẩn dụ 'nghệ sĩ xiếc đang tung hứng ba quả bóng' được tác giả sử dụng nhằm vạch trần bản chất thật sự nào của các hoạt động đa nhiệm?",
+      "options": [
+        "Tung hứng chứng minh rằng con người có thể huấn luyện hai bán cầu não hoạt động độc lập để kiểm soát đồng thời các mục tiêu khác nhau.",
+        "Tung hứng cho thấy nếu không có sự phối hợp tập thể, một cá nhân sẽ lập tức đánh rơi tất cả các quả bóng mục tiêu.",
+        "Tung hứng không phải là xử lý đồng thời, mà là sự luân chuyển cực nhanh giữa các hành vi 'bắt - ném' riêng lẻ từng quả bóng tại từng thời điểm (task-switching).",
+        "Tung hứng đại diện cho sự cân bằng hoàn hảo giữa 5 khía cạnh cốt lõi của cuộc sống mà bất kỳ ai cũng phải duy trì liên tục."
+      ],
+      "correctIndex": 2,
+      "explanation": "Quan sát ngẫu nhiên cho cảm giác ba quả bóng bay cùng lúc, nhưng thực tế nghệ sĩ chỉ bắt và ném từng quả bóng một tại một thời điểm nhất định. Hiện tượng mà mọi người gọi là đa nhiệm thực chất chỉ là khả năng 'luân chuyển công việc' (task-switching) liên tục qua lại, chứ không hề có hai tác vụ nhận thức nào được giải quyết song song.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q4",
+      "question": "Theo nghiên cứu của Tiến sĩ David Meyer, chi phí chuyển đổi công việc (task-switching cost) xảy ra qua hai giai đoạn nào và để lại hậu quả thời gian ra sao đối với các tác vụ phức tạp?",
+      "options": [
+        "Giai đoạn từ chối và giai đoạn chấp nhận; não bộ mất cố định đúng 5 phút để làm quen với bất kỳ tác vụ nào mới.",
+        "Giai đoạn phân rã tế bào thần kinh và giai đoạn tái sinh synap; thời gian thực hiện bị kéo dài thêm từ 5% đến 10%.",
+        "Giai đoạn ghi nhớ dữ liệu cũ và giai đoạn kích hoạt sóng não theta; chỉ những công việc chân tay mới chịu tổn thất thời gian.",
+        "Giai đoạn quyết định chuyển đổi và giai đoạn kích hoạt bộ quy tắc mới; đối với công việc phức tạp, thời gian tổn thất có thể tăng thêm từ 25% lên đến hơn 100%."
+      ],
+      "correctIndex": 3,
+      "explanation": "David Meyer chỉ ra hai bước của việc chuyển đổi: (1) Quyết định chuyển hướng và (2) Kích hoạt các 'quy tắc' cho công việc mới. Với việc đơn giản (gấp quần áo khi xem TV), chi phí nhỏ; nhưng với việc trí óc phức tạp (như xử lý bảng tính rồi chuyển sang thảo luận chiến lược kinh doanh), thời gian phụ trội do tái định hướng bối cảnh có thể tăng từ 25% lên tới trên 100%.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q5",
+      "question": "Dưới góc độ khoa học thần kinh về 'các kênh trong não bộ', tại sao việc vừa lái xe vừa nghe người đồng hành miêu tả chi tiết cách sắp xếp nội thất phòng khách lại tạo ra nguy cơ tai nạn nghiêm trọng?",
+      "options": [
+        "Vì việc tưởng tượng hình ảnh nội thất kích hoạt vỏ não thị giác, gây xung đột và chiếm dụng cùng kênh xử lý thị giác mà mắt đang cần dùng để quan sát xe cộ phía trước.",
+        "Vì thùy trán trước bị ngắt mạch điện sinh học tức thời khi phải tiếp nhận từ ngữ liên quan đến không gian ba chiều.",
+        "Vì âm thanh nói chuyện trong không gian kín kích hoạt phản xạ phòng vệ của hạch hạnh nhân làm giảm nhịp tim và phản xạ chân phanh.",
+        "Vì não bộ chỉ có khả năng xử lý thông tin thính giác khi cơ thể ở trạng thái tĩnh tuyệt đối, không được chuyển động."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bộ não có các kênh xử lý khác nhau. Khi vợ/chồng miêu tả phòng khách, vỏ não thị giác được huy động để tưởng tượng món đồ nội thất. Do kênh thị giác bị chiếm dụng trong tâm trí, bạn sẽ 'nhìn thấy' chiếc ghế sofa mới thay vì nhìn thấy chiếc ô tô đang phanh gấp ngay trước mặt. Xung đột nội tại giữa hai tác vụ cùng chia sẻ tài nguyên nhận thức dẫn đến điểm mù chết người.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q6",
+      "question": "Nguyên nhân sinh học thần kinh sâu xa nào khiến nhân viên văn phòng ngày nay bị cám dỗ kiểm tra email, tin nhắn hoặc đổi cửa sổ làm việc trung bình tới gần 37 lần mỗi giờ?",
+      "options": [
+        "Sự suy giảm hormone melatonin trong điều kiện ánh sáng xanh ép buộc nhân viên phải liên tục tìm kiếm thông tin mới để không buồn ngủ.",
+        "Cảm giác kích thích khi chuyển đổi tác vụ tạo ra những đợt bùng phát Dopamine ngắn hạn mang lại cảm giác thỏa mãn giả tạo, lâu dần tạo thành thói quen gây nghiện.",
+        "Áp lực xã hội từ các điều khoản bảo mật thông tin buộc người lao động phải làm mới hộp thư để tránh bị rò rỉ dữ liệu.",
+        "Sự thiếu hụt glucose trong thùy trán trước khiến não bộ tự động đóng các ứng dụng nặng để chuyển sang các ứng dụng nhẹ hơn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương 5 phân tích rằng việc chuyển đổi tác vụ trên các phương tiện truyền thông kích thích não phóng thích Dopamine - chất dẫn truyền thần kinh mang lại cảm giác hưng phấn tạm thời. Cơn nghiện Dopamine này khiến người làm việc nhầm lẫn giữa sự bận rộn hời hợt với năng suất thực tế, khiến họ không chịu nổi trạng thái tĩnh tại cần thiết cho tư duy sâu sắc.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q7",
+      "question": "Một nhân viên văn phòng cho rằng: 'Tôi vẫn hoàn thành công việc dù vừa mở cửa sổ viết báo cáo tài chính vừa mở tab chat giải đáp thắc mắc của đồng nghiệp'. Theo số liệu thống kê trong sách, nhân viên này đang phải trả giá đắt nhất ở khía cạnh nào?",
+      "options": [
+        "Mất khoảng 5% thời gian trong ngày và làm bàn phím mau hỏng hơn do thao tác phím tắt quá nhiều.",
+        "Tăng nguy cơ bị sa thải ngay lập tức do hệ thống giám sát của công ty ghi nhận hoạt động không liên tục.",
+        "Mất trung bình khoảng 28% thời gian mỗi ngày cho sự kém hiệu quả do gián đoạn, đồng thời chất lượng phân tích tài chính bị suy giảm do não bị phân tán sự chú ý.",
+        "Bị giảm khả năng thính giác vĩnh viễn do tiếng chuông thông báo tin nhắn xuất hiện quá dồn dập."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nghiên cứu được trích dẫn trong sách chỉ ra rằng: Người lao động bị gián đoạn trung bình 11 phút một lần và mất tới 1/3 ngày làm việc (khoảng 28% thời gian thiếu hiệu quả) chỉ để khởi động lại tâm trí sau các phiền nhiễu. Thêm vào đó, việc phân tán tài nguyên ở thùy trán trước khiến các phân tích số liệu phức tạp dễ xuất hiện sai sót nghiêm trọng.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q8",
+      "question": "Trong danh sách tác hại của đa nhiệm đối với tư duy ra quyết định, nghịch lý nhận thức nào sau đây được tác giả nhấn mạnh?",
+      "options": [
+        "Người đa nhiệm có xu hướng chỉ tin tưởng các số liệu thống kê từ thế kỷ trước và từ chối các xu hướng thị trường hiện đại.",
+        "Người đa nhiệm thường đưa ra quyết định quá nhanh chóng đến mức không cần thu thập bất kỳ dữ liệu nào.",
+        "Người đa nhiệm luôn từ chối công nghệ mới vì lo sợ các phần mềm sẽ can thiệp vào quá trình suy nghĩ độc lập của họ.",
+        "Người đa nhiệm dễ đưa ra quyết định sai lầm vì não bộ họ có xu hướng ưa chuộng thông tin mới xuất hiện hơn thông tin cũ, bất kể thông tin cũ có giá trị thực tiễn cao hơn nhiều."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chương 5 liệt kê rõ: Những người đa nhiệm thường phạm sai lầm nhiều hơn bởi họ mắc hội chứng thiên vị sự mới lạ (novelty bias) - họ thích thông tin mới hơn thông tin cũ, ngay cả khi thông tin cũ có giá trị chiến lược quyết định hơn nhiều. Đa nhiệm làm xói mòn khả năng cân nhắc sâu sắc và đánh giá trọng số của thông tin.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q9",
+      "question": "Loạt bài điều tra 'Dẫn đến sự mất tập trung' của Matt Richtel đoạt giải Pulitzer năm 2009 đưa ra con số cảnh báo nào về tác hại thực tế của việc vừa lái xe vừa sử dụng điện thoại?",
+      "options": [
+        "Sự phân tâm khi lái xe chiếm 16% nguyên nhân tử vong do tai nạn giao thông; nói chuyện điện thoại ngốn tới 40% sự tập trung và gây nguy hiểm ngang với người say rượu.",
+        "Lái xe dùng điện thoại làm tăng 90% số vụ va chạm nhưng hầu hết các vụ tai nạn này không gây tổn hại về sức khỏe.",
+        "Chỉ có hành vi nhắn tin bằng hai tay mới gây nguy hiểm, còn gọi điện thoại rảnh tay qua Bluetooth không hề làm giảm sự tập trung của tài xế.",
+        "Người lái xe vừa gọi điện vừa lái xe chỉ bị chậm phản xạ trong 3 giây đầu tiên của cuộc gọi, sau đó não bộ sẽ tự điều chỉnh về trạng thái bình thường."
+      ],
+      "correctIndex": 0,
+      "explanation": "Báo cáo của Richtel chứng minh bị phân tâm khi lái xe gây ra 16% số vụ tử vong do tai nạn giao thông (gần 500.000 người bị thương mỗi năm). Kể cả khi nói chuyện phiếm rảnh tay, não vẫn bị ngốn 40% sự tập trung vào nội dung cuộc gọi, khiến mức độ phản xạ kém ngang ngửa người đang say xỉn.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q10",
+      "question": "Tác giả Dave Crenshaw nhận định: 'Khi chúng ta quan tâm đến mọi người với sự ngắt quãng, gián đoạn, cái giá chúng ta phải trả không chỉ là thời gian. Chúng ta sẽ phá hỏng các mối quan hệ.' Ý nghĩa sâu sắc của nhận định này là gì?",
+      "options": [
+        "Sự gián đoạn trong giao tiếp khiến người khác cảm thấy bị thiệt thòi về mặt kinh tế do mất thời gian chờ đợi phản hồi.",
+        "Sự tập trung trọn vẹn là món quà quý giá nhất thể hiện sự tôn trọng; việc nửa vời chú ý vừa phá vỡ sự kết nối cảm xúc vừa ngầm gửi đi thông điệp coi thường đối phương.",
+        "Các cuộc trò chuyện bị ngắt quãng sẽ khiến người tham gia mắc chứng rối loạn ngôn ngữ và khó biểu đạt cảm xúc chân thực.",
+        "Trong các mối quan hệ xã hội, việc dùng điện thoại khi nói chuyện chỉ bị coi là bất lịch sự trong các nền văn hóa phương Đông truyền thống."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mối quan hệ con người đòi hỏi sự kết nối hiện sinh chân thực. Khi bạn vừa trò chuyện với người thân/đồng nghiệp vừa liếc nhìn màn hình điện thoại, bạn đã biến họ thành ưu tiên hạng hai. Điều bị phá hỏng không đơn thuần là thời gian cuộc nói chuyện, mà chính là sự tin tưởng, thấu hiểu và gắn kết tình cảm sâu sắc giữa người với người.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao chúng ta sẵn sàng đòi hỏi sự tập trung 100% tuyệt đối từ một bác sĩ phẫu thuật tim hay phi công lái máy bay, nhưng lại dễ dãi chấp nhận thói quen đa nhiệm phân tán trong công việc chuyên môn của chính mình?",
+      "options": [
+        "Vì nghề bác sĩ và phi công nhận mức lương cao gấp hàng chục lần nhân viên văn phòng nên phải chịu áp lực cao hơn.",
+        "Vì các thiết bị y tế và máy bay không hỗ trợ tính năng kết nối Internet nên chuyên gia buộc phải tập trung.",
+        "Vì hậu quả của phẫu thuật và hàng không diễn ra tức thì và nhìn thấy được ngay, còn trong công việc thường nhật, cái giá của sự thiếu tập trung tích lũy ngấm ngầm và phá hoại sự nghiệp dần dần.",
+        "Vì công việc văn phòng vốn dĩ đơn giản và không có bất kỳ rủi ro nào ảnh hưởng đến tài chính hay sự nghiệp của doanh nghiệp."
+      ],
+      "correctIndex": 2,
+      "explanation": "Gary Keller chỉ ra tiêu chuẩn kép vô lý này: Chúng ta không chấp nhận bác sĩ vừa mổ tim vừa check tin nhắn, nhưng lại tự cho phép mình làm việc cốt lõi với tâm trí bị xé nhỏ. Chỉ vì công việc không gây chết người ngay lập tức trên bàn mổ không có nghĩa là nó không quan trọng; trên thực tế, việc mất 1/3 cuộc đời làm việc vì xao nhãng có thể làm sụp đổ cả một sự nghiệp hoặc đưa công ty đến bờ vực phá sản.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q12",
+      "question": "Hiện tượng 'tư duy con khỉ' (monkey mind) mà nhà thơ Billy Collins và các tín đồ Phật giáo đề cập trong chương sách mang hàm ý gì về bản chất của sự mất tập trung?",
+      "options": [
+        "Con người có nguồn gốc tiến hóa từ loài linh trưởng nên việc sao nhãng là một lỗi di truyền không thể khắc phục.",
+        "Sự tập trung của con người chỉ có thể duy trì tốt nhất khi làm việc ngoài không gian thiên nhiên hoang dã.",
+        "Người làm việc đa nhiệm thực chất có sự nhanh nhẹn và khéo léo vượt trội giống như loài khỉ leo cây.",
+        "Sự xao nhãng là một xu hướng tự nhiên của tâm trí luôn nhảy nhót không ngừng nghỉ từ ý nghĩ này sang ý nghĩ khác; đa nhiệm chỉ là cái tên mỹ miều đánh lừa bản thân trước sự buông thả của tâm trí."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nhà thơ Billy Collins nhận xét: 'Chúng tôi gọi đó là đa nhiệm, nghe như một năng lực siêu phàm... nhưng tín đồ Phật giáo gọi đó là tư duy con khỉ'. Với trung bình 4.000 suy nghĩ mỗi ngày đổi hướng liên tục cứ mỗi 14 giây, việc tâm trí nhảy nhót là một quán tính tự nhiên. Người tự hào mình đa nhiệm thực chất chỉ đang thả rông cho 'tư duy con khỉ' dẫn dắt bản thân chạy theo những kích thích vụn vặt.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q13",
+      "question": "Xét về phương diện quản lý dự án và năng suất cá nhân, việc ôm đồm nhiều đầu việc lớn cùng một lúc tạo ra cái bẫy nguy hiểm nào đối với tiến độ tổng thể?",
+      "options": [
+        "Bị kẹt giữa nhiều việc dở dang, chi phí tái khởi động bối cảnh liên tục tích lũy làm kéo dài thời gian hoàn thành của tất cả các dự án vượt xa dự kiến ban đầu.",
+        "Làm cho các phần mềm quản lý tác vụ bị quá tải cơ sở dữ liệu và không thể đồng bộ hóa dữ liệu trên đám mây.",
+        "Khiến ngân sách dự án tự động tăng lên gấp đôi do phải chi trả thêm thuế thu nhập doanh nghiệp vãng lai.",
+        "Buộc người quản lý phải tuyển dụng thêm nhân sự bán thời gian để xử lý các công việc đã hoàn thành xong trước hạn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi làm song song nhiều việc, mỗi lần rời một tác vụ dở dang để nhảy sang tác vụ khác, bạn để lại các đầu mối chưa hoàn tất. Khi quay lại, bạn phải mất thời gian nhớ lại mình đang làm đến đâu, kiểm tra lại bối cảnh cũ. Kết quả là không có việc nào đạt độ hoàn thiện cao, và tổng thời gian làm tất cả các việc cùng lúc luôn dài hơn nhiều so với việc giải quyết dứt điểm từng việc một theo thứ tự ưu tiên.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q14",
+      "question": "Nếu một người cho rằng việc nhai kẹo cao su khi đang đi bộ chứng minh con người có khả năng 'đa nhiệm', tác giả sẽ giải thích sự khác biệt cốt lõi giữa hai trạng thái này như thế nào?",
+      "options": [
+        "Nhai kẹo cao su là hành vi có hại cho men răng nên không được coi là một nhiệm vụ lao động chân chính.",
+        "Nhai kẹo cao su và đi bộ là các hành vi vận động sinh học được kiểm soát bởi các vùng não tiềm thức, không cạnh tranh tài nguyên xử lý có ý thức ở thùy trán trước.",
+        "Đi bộ kích hoạt hệ thống thần kinh giao cảm giúp não bộ nhân đôi khả năng tập trung nhận thức của thùy thái dương.",
+        "Mọi hành vi diễn ra ngoài môi trường tự nhiên đều không tiêu tốn năng lượng glucose của cơ thể."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhiều hành động vật lý (như thở, nhai, đi lại) diễn ra tự động nhờ các vùng não nguyên thủy điều khiển mà không cần ý thức can thiệp. Vì vậy không có xung đột giữa các kênh thần kinh. Nhưng khi một hành động đòi hỏi sự suy nghĩ, tính toán hoặc xử lý thông tin phức tạp tại thùy trán trước, tài nguyên chú ý lập tức bị giới hạn và không thể chia sẻ cho một tác vụ trí tuệ thứ hai mà không bị tổn thất.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "Đâu là bài học hành động quyết định nhất mà một người theo đuổi nguyên lý 'The ONE Thing' cần rút ra từ Chương 5?",
+      "options": [
+        "Hãy loại bỏ hoàn toàn máy tính và điện thoại thông minh khỏi đời sống làm việc để tránh cám dỗ đa nhiệm.",
+        "Chỉ nên làm việc trong các phòng cách âm tuyệt đối để ngăn chặn mọi gián đoạn âm thanh từ môi trường xung quanh.",
+        "Chấp nhận rằng sự xao nhãng là tự nhiên, nhưng phải chủ động dập tắt lời dối trá đa nhiệm bằng cách xác định việc quan trọng nhất tại mỗi thời điểm và dành trọn vẹn sự chú ý cho nó.",
+        "Lên lịch làm việc theo mô hình xoay vòng: mỗi 15 phút đổi sang một dự án hoàn toàn mới để giữ cho não luôn hưng phấn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thông điệp cốt lõi của Chương 5: Xao nhãng là điều khó tránh khỏi, nhưng đa nhiệm là một lựa chọn sai lầm và tự hủy hoại hiệu suất. Để đạt được kết quả phi thường, ta không được ru ngủ bản thân rằng mình có thể làm tốt hai việc cùng lúc. Hãy xác định quân cờ domino then chốt - Điều Quan Trọng Nhất - và bảo vệ sự tập trung tuyệt đối cho nó cho đến khi hoàn thành.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "concurrently -k -n \"FUNCTIONS,VITE\" -c \"magenta,cyan\" \"npm run dev:functions\" \"npm run dev:vite\"",
-    "dev:functions": "wrangler pages dev functions --ip 0.0.0.0 --port 8788 --d1 DB=clbsach_db",
+    "dev:functions": "bash -c 'until wrangler pages dev functions --ip 0.0.0.0 --port 8788 --d1 DB=clbsach_db; do echo \"[wrangler] crashed or exited, restarting in 1s...\"; sleep 1; done'",
     "dev:vite": "vite --host 0.0.0.0 --port 3000",
     "dev:remote": "VITE_REMOTE_API=1 vite --host 0.0.0.0 --port 3000",
     "db:init": "wrangler d1 execute clbsach_db --local --file=./scripts/schema.sql",
