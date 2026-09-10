@@ -1,0 +1,3 @@
+# THÔNG TIN XUẤT BẢN
+
+James Clear Vũ Phi Yên - Trần Quỳnh Như dịch Chịu trách nhiệm xuất bản: GIÁM ĐỐC - TỔNG BIÊN TẬP TS. TRẦN ĐOÀN LÂM Biên tập: Phạm Bích Ngọc Biên tập Phương Nam: Hồ Ngọc Bảo Khanh Thiết kế bìa: Tú Khuyên Trình bày: Nhung Trần Sửa bản in: Bảo Khanh ĐƠN VỊ LIÊN KẾT CÔNG TY TNHH MTV SÁCH PHƯƠNG NAM NHÀ XUẤT BẢN THẾ GIỚI In 3.000 bản, khổ 14.5x20.5cm, tại Công ty Cổ phần In Gia Định. Địa chỉ: 9D Nơ Trang Long, Phường 7, Quận Bình Thạnh, TP. Hồ Chí Minh. Số xác nhận ĐKXB: 1637 - 2021/CXBIPH/02-95/ThG. Quyết định xuất bản số: 556/QĐ-ThG cấp ngày 18.05.2021. In xong và nộp lưu chiểu năm 2021 . Mã ISBN: 978-604-77-9612-0.

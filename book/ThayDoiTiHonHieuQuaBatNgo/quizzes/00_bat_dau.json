@@ -1,0 +1,188 @@
+{
+  "bookId": "ThayDoiTiHonHieuQuaBatNgo",
+  "chapterId": "00_bat_dau",
+  "chapterTitle": "Bắt đầu: Định nghĩa nguyên tử & Bản chất của thói quen",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Thuật ngữ 'nguyên tử' (atomic) trong tiêu đề 'Atomic Habits' mang hai tầng nghĩa triết học cốt lõi nào?",
+      "options": [
+        "Một lượng cực nhỏ không thể phân chia của hệ thống lớn, đồng thời là khởi nguyên của nguồn năng lượng và sức mạnh bùng nổ to lớn.",
+        "Một hạt vật chất vô cơ không có sự sống, tượng trưng cho tính máy móc và vô cảm của thói quen.",
+        "Một phản ứng hạt nhân nguy hiểm cảnh báo sự hủy diệt nếu con người để thói quen xấu chi phối.",
+        "Kỹ thuật phân tách mục tiêu lớn thành các phần việc hành chính nhỏ trong quản trị doanh nghiệp hiện đại."
+      ],
+      "correctIndex": 0,
+      "explanation": "Định nghĩa đầu sách chỉ rõ: 'atomic' vừa là đơn vị cực nhỏ trong một hệ thống lớn hơn, vừa là cội nguồn của sức mạnh và năng lượng phi thường khi được tích tụ."
+    },
+    {
+      "id": "q2",
+      "question": "Bản chất của một 'thói quen' (habit) theo định nghĩa khoa học nhận thức được trích dẫn ở đầu sách là gì?",
+      "options": [
+        "Một sự ép buộc vô thức từ xã hội khiến con người mất đi quyền tự do lựa chọn.",
+        "Một nếp sinh hoạt hoặc thực hành định kỳ, trở thành phản xạ tự động đáp ứng với một bối cảnh hay tình huống cụ thể.",
+        "Một chuỗi các hành vi bốc đồng do cảm xúc chi phối tại một thời điểm nhất thời.",
+        "Sự rèn luyện ý chí khắc kỷ đòi hỏi năng lượng tinh thần tối đa trong từng giây phút thực hiện."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thói quen là phản xạ tự động hóa được phát triển để não bộ giải quyết các tình huống định kỳ mà không cần tốn hao tài nguyên nhận thức có ý thức."
+    },
+    {
+      "id": "q3",
+      "question": "Nếu coi thói quen như một 'nguyên tử', thì cuộc sống và thành tựu của một con người tương ứng với khái niệm nào trong vật lý/hóa học?",
+      "options": [
+        "Các phân tử và hợp chất vĩ mô phức tạp được hình thành từ sự kết hợp của vô số nguyên tử.",
+        "Một khoảng chân không không chứa bất kỳ trật tự hay mối liên kết nào.",
+        "Năng lượng nhiệt ngẫu nhiên bị tiêu tán vào không gian xung quanh.",
+        "Một vụ nổ đột ngột chỉ xảy ra một lần duy nhất rồi biến mất hoàn toàn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tương tự như các phân tử cấu thành nên mọi vật chất phức tạp từ các nguyên tử tí hon, toàn bộ cuộc sống và kết quả của chúng ta là tập hợp phân tử vĩ mô được kiến tạo từ những thói quen nguyên tử lặp lại mỗi ngày."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao hầu hết mọi người lại coi thường sức mạnh của những thay đổi nhỏ cỡ 'nguyên tử' trong đời sống hằng ngày?",
+      "options": [
+        "Bởi vì não người chỉ có khả năng ghi nhận các số đo vật lý vĩ mô.",
+        "Vì các thay đổi tí hon không mang lại phản hồi kết quả tức thì trong hiện tại, khiến ảo tưởng 'không có gì thay đổi' dễ dàng đánh lừa nhận thức.",
+        "Bởi vì xã hội luôn trừng phạt nghiêm khắc những người bắt đầu từ các bước nhỏ.",
+        "Vì các thói quen nhỏ đòi hỏi nhiều tiền bạc và tài chính hơn các quyết định đột phá lớn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoảng cách thời gian giữa hành động nhỏ và kết quả tích lũy tạo ra sự trễ phản hồi, khiến con người lầm tưởng rằng một hành động nhỏ lẻ không tạo ra sự khác biệt."
+    },
+    {
+      "id": "q5",
+      "question": "Một người quyết định đọc 1 trang sách mỗi đêm. Hành động này phản ánh đúng nhất khía cạnh nào của 'thói quen nguyên tử'?",
+      "options": [
+        "Sự đầu hàng trước mục tiêu đọc 100 cuốn sách mỗi năm.",
+        "Đơn vị cấu thành nhỏ nhất nhưng có khả năng duy trì tính liên tục và giữ vững căn tính người đọc sách.",
+        "Một phương pháp lãng phí thời gian vì 1 trang không cung cấp đủ kiến thức học thuật chuyên sâu.",
+        "Một bài kiểm tra độ kiên nhẫn cưỡng ép do thiếu động lực nội tại."
+      ],
+      "correctIndex": 1,
+      "explanation": "1 trang sách là một 'nguyên tử' hành vi: nó cực kỳ dễ thực hiện, giữ cho mạch thói quen không bị đứt gãy và khẳng định căn tính 'tôi là người đọc sách'."
+    },
+    {
+      "id": "q6",
+      "question": "Theo định nghĩa về thói quen là 'phản xạ tự động', lợi ích tiến hóa lớn nhất mà cơ chế này mang lại cho não bộ con người là gì?",
+      "options": [
+        "Loại bỏ hoàn toàn cảm xúc tiêu cực và căng thẳng trong cuộc sống.",
+        "Tiết kiệm dung lượng bộ nhớ làm việc (working memory) và năng lượng tinh thần để giải quyết các mối đe dọa hoặc cơ hội mới.",
+        "Khiến cơ thể chuyển sang trạng thái ngủ sâu ngay trong khi đang làm việc.",
+        "Giúp con người không bao giờ mắc sai lầm trong các quyết định kinh doanh phức tạp."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi một chuỗi hành vi được tự động hóa thành thói quen, vỏ não trước trán không cần tiêu tốn glucose quý giá để cân nhắc từng chi tiết, giải phóng năng lượng cho các tác vụ tư duy cấp cao."
+    },
+    {
+      "id": "q7",
+      "question": "Sự khác biệt căn bản giữa 'thói quen nguyên tử' và 'mục tiêu lớn mang tính cách mạng' nằm ở điểm nào?",
+      "options": [
+        "Thói quen nguyên tử tập trung vào vi cấu trúc và vận hành hệ thống hằng ngày, trong khi mục tiêu lớn thường chỉ chú trọng vào đích đến bề nổi.",
+        "Thói quen nguyên tử chỉ dành cho người hướng nội, còn mục tiêu lớn dành cho người hướng ngoại.",
+        "Mục tiêu lớn đem lại kết quả bền vững hơn vì nó truyền cảm hứng mạnh mẽ hơn nhiều lần.",
+        "Thói quen nguyên tử loại bỏ hoàn toàn nhu cầu phải có kỷ luật cá nhân."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thói quen nguyên tử nhắm vào vi hạt của tiến trình hàng ngày (hệ thống) thay vì viễn cảnh kết quả cuối cùng (mục tiêu)."
+    },
+    {
+      "id": "q8",
+      "question": "Trong cụm từ 'Phản xạ tự động đối với tình huống cụ thể', cụm từ 'tình huống cụ thể' nhấn mạnh yếu tố nào sau đây?",
+      "options": [
+        "Ý chí trừu tượng bên trong tâm trí người hành động.",
+        "Bối cảnh môi trường và các gợi ý kích hoạt (cues) đóng vai trò mồi lửa cho thói quen.",
+        "Số tiền người đó sẵn sàng chi trả để đạt được mục tiêu.",
+        "Sự ngẫu nhiên hoàn toàn không thể đoán trước được của hành vi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thói quen không tự sinh ra trong chân không; chúng luôn gắn chặt với một bối cảnh môi trường, địa điểm, thời gian hoặc gợi ý kích hoạt cụ thể."
+    },
+    {
+      "id": "q9",
+      "question": "Nếu một thói quen tiêu cực bị lặp lại đều đặn mỗi ngày như một 'nguyên tử xấu', tác động tích tụ của nó sẽ ra sao theo logic đầu sách?",
+      "options": [
+        "Nó sẽ tự động bị cơ thể đào thải sau 21 ngày theo chu kỳ sinh học.",
+        "Nó cũng nhân lên theo cấp số nhân và âm thầm bào mòn, dẫn đến khủng hoảng nghiêm trọng trong dài hạn.",
+        "Nó chỉ ảnh hưởng đến tâm trạng nhất thời và không để lại bất kỳ di chứng nào trên thực tế.",
+        "Nó sẽ tự triệt tiêu khi người đó đọc sách phát triển bản thân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cơ chế nguyên tử hoạt động hai chiều: thói quen tốt tích lũy thành kỳ tích, thói quen xấu tích lũy thành thảm họa khôn lường."
+    },
+    {
+      "id": "q10",
+      "question": "Ý niệm 'khởi thủy của nguồn năng lượng to lớn' trong khái niệm atomic habits gợi ý điều gì về khởi đầu của các bước chuyển mình cá nhân?",
+      "options": [
+        "Cần phải có một biến cố kinh hoàng thì con người mới bắt đầu thay đổi được.",
+        "Những cú chuyển mình vĩ đại nhất đều bắt nguồn từ những hạt mầm hành động cực kỳ khiêm tốn và vô hình.",
+        "Năng lượng thay đổi chỉ đến từ việc tham gia các hội thảo truyền động lực lớn.",
+        "Người không có tài năng bẩm sinh sẽ không bao giờ kích hoạt được nguồn năng lượng nguyên tử này."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mọi thành quả to lớn đều khởi đầu từ một mắt xích hành vi đơn lẻ, tưởng chừng nhỏ bé nhưng chứa đựng tiềm năng bùng nổ khi được lặp lại hàng nghìn lần."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao việc dùng từ 'nguyên tử' lại chính xác hơn là dùng từ 'nhỏ nhặt' (small) hay 'tầm thường' (trivial)?",
+      "options": [
+        "Vì 'nguyên tử' gợi lên tính cấu trúc khoa học chặt chẽ và nguồn năng lượng nội tại tiềm tàng, trong khi 'nhỏ nhặt' dễ bị nhầm là không quan trọng.",
+        "Vì tác giả muốn gây ấn tượng với giới học giả vật lý lượng tử tại các trường đại học hàng đầu.",
+        "Vì từ nguyên tử nghe kỳ bí và kích thích sự tò mò thương mại tốt hơn.",
+        "Vì các thói quen chỉ có thể được quan sát dưới kính hiển vi chuyên dụng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Từ 'atomic' hàm chứa cả hai thuộc tính: đơn vị nhỏ nhất của một hệ sinh thái và sức mạnh tiềm tàng khổng lồ, vượt xa nghĩa hẹp của chữ 'nhỏ bé'."
+    },
+    {
+      "id": "q12",
+      "question": "Một người luôn tự động mở tủ lạnh tìm đồ ngọt mỗi khi bước vào bếp sau giờ làm việc căng thẳng. Theo định nghĩa đầu sách, đây là:",
+      "options": [
+        "Một dấu hiệu cho thấy người đó mắc bệnh tiểu đường di truyền.",
+        "Một phản xạ tự động hóa được gắn với tình huống bối cảnh cụ thể để giải quyết cảm giác căng thẳng.",
+        "Một hành động đòi hỏi tính toán lý trí và phân tích tài chính sâu sắc.",
+        "Một sự cố ngẫu nhiên không có tính quy luật lặp lại."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là biểu hiện mẫu mực của thói quen: nếp sinh hoạt định kỳ, phản xạ tự động gắn với gợi ý không gian (nhà bếp) và trạng thái (căng thẳng)."
+    },
+    {
+      "id": "q13",
+      "question": "Mối quan hệ giữa 'đơn vị không thể tách nhỏ hơn' và 'sự dễ dàng thực hiện' được hiểu như thế nào?",
+      "options": [
+        "Càng nhỏ thì càng khó nhận biết nên càng khó thực hiện.",
+        "Khi hành vi được thu nhỏ về kích thước nguyên tử, rào cản tâm lý và ma sát hành động giảm xuống gần như bằng không, khiến việc bắt đầu trở nên khả thi.",
+        "Đơn vị càng nhỏ thì càng đòi hỏi chi phí đầu tư công cụ hỗ trợ phức tạp.",
+        "Không có mối liên hệ nào giữa kích thước hành vi và khả năng duy trì hành vi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi hành vi được phân rã thành đơn nguyên tử, lực cản kháng cự từ não bộ biến mất, cho phép thói quen cắm rễ vào thực tế mà không cần nỗ lực ý chí phi thường."
+    },
+    {
+      "id": "q14",
+      "question": "Điều gì quyết định một nếp sinh hoạt trở thành 'phản xạ tự động' thay vì là một hành động có chủ đích?",
+      "options": [
+        "Số tiền được hứa thưởng sau khi hoàn thành hành động.",
+        "Tần suất lặp lại hành vi trong một bối cảnh ổn định đến mức các liên kết thần kinh tự kích hoạt.",
+        "Gen di truyền từ cha mẹ quyết định sẵn các phản xạ từ lúc mới sinh.",
+        "Thời gian tính bằng số ngày tuyệt đối trôi qua kể từ ngày bắt đầu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tần suất lặp lại trong bối cảnh nhất quán kích thích quá trình myelin hóa và tái cấu trúc synap thần kinh, biến hành động có ý thức thành phản xạ tự động."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp ẩn sâu mà phần định nghĩa 'Bắt đầu' muốn gửi gắm đến người đọc trước khi bước vào cuốn sách là gì?",
+      "options": [
+        "Bạn cần phải đập bỏ toàn bộ cuộc đời cũ và tái sinh thành một con người hoàn toàn mới chỉ sau một đêm.",
+        "Hãy trân trọng và làm chủ các hạt mầm hành vi vi mô mỗi ngày, vì chính chúng đang âm thầm vận hành và định hình quỹ đạo số phận của bạn.",
+        "Chỉ những người nghiên cứu vật lý nguyên tử mới có đủ tư duy áp dụng phương pháp này.",
+        "Đọc sách là thói quen duy nhất bạn cần để đạt được mọi thành công trong xã hội."
+      ],
+      "correctIndex": 1,
+      "explanation": "Toàn bộ tác phẩm đặt nền móng trên chân lý: làm chủ các vi hạt thói quen hằng ngày chính là làm chủ cỗ máy kiến tạo vận mệnh đời người."
+    }
+  ]
+}

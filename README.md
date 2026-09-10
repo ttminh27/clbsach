@@ -44,20 +44,21 @@ Một ứng dụng web hiện đại, tinh gọn và tối ưu dành cho Câu l�
 
 ```text
 clbsach/
-├── 7ThoiQuenHieuQua/         # Thư mục dữ liệu sách: 7 Thói Quen Của Người Thành Đạt
-├── DoiNganDungNguDai/        # Thư mục dữ liệu sách: Đời Ngắn Đừng Ngủ Dài
-├── DungBaoGioDiAnMotMinh/    # Thư mục dữ liệu sách: Đừng Bao Giờ Đi Ăn Một Mình
-├── SearchInsideYourSelf/     # Dữ liệu sách & audio: Search Inside Yourself
-│   ├── 00_Loi_gioi_thieu.md
-│   ├── 01_Chuong_1.md
-│   ├── ...
-│   ├── audio/                # Các bài hướng dẫn audio thiền / thực hành (.mp3)
-│   └── images/               # Hình ảnh minh họa & ảnh bìa
-├── SucManhCuaThoiQuen/       # Thư mục dữ liệu sách: Sức Mạnh Của Thói Quen
-├── ThinhVuongTaiChinhTuoi30_T1/ # Thư mục dữ liệu sách: Thịnh Vượng Tài Chính Tuổi 30 (Tập 1)
-├── ThinhVuongTaiChinhTuoi30_T2/ # Thư mục dữ liệu sách: Thịnh Vượng Tài Chính Tuổi 30 (Tập 2)
-├── ThinkAgain/               # Thư mục dữ liệu sách: Dám Nghĩ Lại
-├── ViTuSiBanChiecFerrari/    # Thư mục dữ liệu sách: Vị Tu Sĩ Bán Chiếc Ferrari
+├── book/                         # Thư mục chứa dữ liệu các đầu sách Markdown
+│   ├── 7ThoiQuenHieuQua/         # Thư mục dữ liệu sách: 7 Thói Quen Của Người Thành Đạt
+│   ├── ChienThangConQuyTrongBan/ # Thư mục dữ liệu sách: Chiến Thắng Con Quỷ Trong Bạn (Outwitting the Devil)
+│   ├── DacNhanTam/               # Thư mục dữ liệu sách: Đắc Nhân Tâm
+│   ├── DamNghiLai/               # Thư mục dữ liệu sách: Dám Nghĩ Lại
+│   ├── DieuYNghiaNhat/           # Thư mục dữ liệu sách: The ONE Thing - Điều Ý Nghĩa Nhất
+│   ├── DoiNganDungNguDai/        # Thư mục dữ liệu sách: Đời Ngắn Đừng Ngủ Dài
+│   ├── DungBaoGioDiAnMotMinh/    # Thư mục dữ liệu sách: Đừng Bao Giờ Đi Ăn Một Mình
+│   ├── LamRaLamChoiRaChoi/       # Thư mục dữ liệu sách: Làm Ra Làm, Chơi Ra Chơi (Deep Work)
+│   ├── SearchInsideYourSelf/     # Dữ liệu sách & audio: Search Inside Yourself
+│   ├── SucManhCuaThoiQuen/       # Thư mục dữ liệu sách: Sức Mạnh Của Thói Quen
+│   ├── ThayDoiTiHonHieuQuaBatNgo/# Thư mục dữ liệu sách: Thay Đổi Tí Hon, Hiệu Quả Bất Ngờ (Atomic Habits)
+│   ├── ThinhVuongTaiChinhTuoi30_T1/ # Thư mục dữ liệu sách: Thịnh Vượng Tài Chính Tuổi 30 (Tập 1)
+│   ├── ThinhVuongTaiChinhTuoi30_T2/ # Thư mục dữ liệu sách: Thịnh Vượng Tài Chính Tuổi 30 (Tập 2)
+│   └── ViTuSiBanChiecFerrari/    # Thư mục dữ liệu sách: Vị Tu Sĩ Bán Chiếc Ferrari
 ├── public/                   # Tài nguyên tĩnh & Symlinks sách cho runtime
 │   ├── _redirects            # Cấu hình định tuyến SPA cho Cloudflare Pages
 │   └── favicon.svg

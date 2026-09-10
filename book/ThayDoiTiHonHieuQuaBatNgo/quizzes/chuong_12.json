@@ -1,0 +1,188 @@
+{
+  "bookId": "ThayDoiTiHonHieuQuaBatNgo",
+  "chapterId": "chuong_12",
+  "chapterTitle": "Chương 12: Quy luật nỗ lực ít nhất",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "'Quy luật nỗ lực ít nhất' (The Law of Least Effort) trong sinh học và vật lý khẳng định nguyên lý cơ bản nào về hành vi sinh vật?",
+      "options": [
+        "Mọi sinh vật trong tự nhiên luôn ưu tiên lựa chọn phương án tiêu tốn ít năng lượng nhất để đạt được cùng một kết quả.",
+        "Sinh vật luôn chọn con đường gian khổ nhất để rèn luyện ý chí sinh tồn.",
+        "Năng lượng là vô hạn và các loài động vật luôn tìm cách lãng phí năng lượng.",
+        "Chỉ có loài người mới biết cách tiết kiệm năng lượng thể xác."
+      ],
+      "correctIndex": 0,
+      "explanation": "Năng lượng là quý giá và hữu hạn; não bộ được tiến hóa lập trình để bảo toàn năng lượng tối đa, do đó hành vi nào càng ít ma sát và ít tốn sức sẽ càng dễ được lựa chọn."
+    },
+    {
+      "id": "q2",
+      "question": "Trong việc hình thành thói quen, khái niệm 'Ma sát' (Friction) được hiểu là gì?",
+      "options": [
+        "Lực cản vật lý giữa hai bề mặt chuyển động trượt lên nhau.",
+        "Tổng số các rào cản, khó khăn, sự bất tiện hoặc các bước trung gian cần thiết để bắt đầu thực hiện một hành vi.",
+        "Sự bất đồng quan điểm gay gắt giữa hai người bạn thân.",
+        "Chi phí lãi suất khi vay tiền ngân hàng thương mại."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ma sát là mọi thứ cản trở bạn hành động: để tập gym mà phòng tập cách xa 10km, quần áo chưa giặt, giày để lung tung... thì ma sát cực lớn, khiến bạn dễ dàng đầu hàng."
+    },
+    {
+      "id": "q3",
+      "question": "Chiến lược 'Giảm ma sát' (Reduce friction) cho thói quen tốt nhằm mục đích gì?",
+      "options": [
+        "Loại bỏ tối đa các bước cản trở trung gian để hành vi đúng đắn trở thành con đường có ít lực cản nhất (the path of least resistance).",
+        "Làm cho công việc trở nên nhàm chán đến mức không buồn làm nữa.",
+        "Giúp giảm nhiệt độ ma sát của các thiết bị máy móc trong nhà.",
+        "Khuyến khích việc sống lười biếng và không cần phải nỗ lực."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi bạn giảm số bước cần làm để bắt đầu (ví dụ: soạn sẵn quần áo tập ngay mép giường), rào cản tâm lý biến mất, thói quen tốt diễn ra dễ dàng như nước chảy xuôi dòng."
+    },
+    {
+      "id": "q4",
+      "question": "Ngược lại, chiến lược 'Tăng ma sát' (Increase friction) được áp dụng để tiêu diệt thói quen xấu như thế nào?",
+      "options": [
+        "Tạo ra càng nhiều bước phiền toái, khoảng cách vật lý và sự bất tiện giữa bạn và thói quen xấu càng tốt, khiến việc thực hiện nó trở nên quá mệt mỏi.",
+        "Bôi dầu mỡ lên các thiết bị điện tử để không cầm nắm được.",
+        "Cắt đứt toàn bộ nguồn điện sinh hoạt trong gia đình.",
+        "Tự giam mình trong phòng kín có khóa bảo mật 3 lớp."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ví dụ: tháo pin điều khiển tivi cất ở phòng khác, rút phích cắm tủ lạnh... Khi số bước thực hiện thói quen xấu tăng lên, não bộ lười biếng sẽ tự động bỏ cuộc."
+    },
+    {
+      "id": "q5",
+      "question": "Chiến lược 'Tái thiết lập căn phòng' (Resetting the room) trước khi rời đi mang lại lợi ích gì cho việc xây dựng thói quen?",
+      "options": [
+        "Làm tăng độ bền của đồ nội thất bằng gỗ tự nhiên.",
+        "Chuẩn bị sẵn không gian ngăn nắp để phục vụ cho mục đích sử dụng tiếp theo, giảm ma sát khởi đầu về mức 0 cho lần hành động tới.",
+        "Để chuẩn bị đón tiếp các vị khách bất ngờ ghé thăm nhà.",
+        "Giúp chủ nhà tiết kiệm được chi phí thuê người dọn dẹp theo giờ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dọn sạch bồn rửa chén ngay sau khi ăn tối, để thảm tập yoga sẵn ở sàn... bạn đang gửi một món quà giảm ma sát cho chính mình trong tương lai, giúp việc bắt đầu lần sau cực kỳ trơn tru."
+    },
+    {
+      "id": "q6",
+      "question": "'Chiến lược 20 giây' (The 20-Second Rule) do nhà tâm lý học Shawn Achor nghiên cứu chứng minh điều gì về hành vi con người?",
+      "options": [
+        "Mọi thói quen đều có thể hoàn thành trọn vẹn trong vòng đúng 20 giây.",
+        "Chỉ cần giảm bớt hoặc tăng thêm khoảng 20 giây ma sát khởi đầu cho một hành động là đủ để làm thay đổi hoàn toàn khả năng thực hiện hay từ bỏ hành động đó.",
+        "Con người chỉ có khả năng nín thở tối đa 20 giây khi tập luyện thể thao.",
+        "Sau 20 giây không hành động, não bộ sẽ tự động rơi vào trạng thái ngủ sâu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Achor cất đàn guitar vào tủ quần áo (tốn thêm 20 giây để lấy) -> bỏ tập suốt nhiều tuần; khi ông lấy đàn ra để ngay giữa phòng (tiết kiệm 20 giây) -> ông tập luyện đều đặn 21 ngày liên tiếp."
+    },
+    {
+      "id": "q7",
+      "question": "Một người nghiện mua sắm online trên điện thoại mỗi đêm. Ứng dụng quy luật 'Tăng ma sát' nào sau đây là hiệu quả nhất để ngăn chặn hành vi này?",
+      "options": [
+        "Xóa các thông tin thẻ tín dụng đã lưu tự động trên trang web mua sắm và đăng xuất khỏi ứng dụng sau mỗi lần dùng, buộc phải nhập lại từ đầu bằng tay.",
+        "Tự nhắc nhở bản thân rằng mình là một người nghèo khó.",
+        "Dán nhãn cảnh báo lên mặt sau của chiếc thẻ tín dụng.",
+        "Nhờ bạn bè trên mạng xã hội giữ hộ toàn bộ tiền lương."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi phải đứng dậy tìm ví, lấy thẻ, nhập lại 16 chữ số và mã bảo mật, ma sát thời gian tăng lên; khoảng trễ đó đủ để lý trí thức tỉnh và dập tắt cơn bốc đồng."
+    },
+    {
+      "id": "q8",
+      "question": "Các công ty công nghệ lớn (như Amazon, Netflix, TikTok) đã tối ưu hóa Quy luật nỗ lực ít nhất để thu hút người dùng bằng cách nào?",
+      "options": [
+        "Bắt buộc người dùng phải làm bài kiểm tra kiến thức trước khi mở ứng dụng.",
+        "Triệt tiêu ma sát đến mức tối đa: tính năng mua hàng bằng 1 cú nhấp chuột (1-Click ordering), tự động phát tập tiếp theo (Autoplay), vuốt màn hình liên tục không cần bấm nút.",
+        "Yêu cầu người dùng phải trả phí dịch vụ bằng tiền xu trực tiếp.",
+        "Gửi thư tay đến từng gia đình để mời sử dụng dịch vụ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Họ biến việc tiếp tục tiêu thụ thành con đường nỗ lực bằng 0: bạn không cần làm gì cả, video tiếp theo tự chạy, hàng hóa tự mua chỉ với một chạm nhẹ trên màn hình."
+    },
+    {
+      "id": "q9",
+      "question": "Khái niệm 'Thời khắc quyết định' (Decisive moments) được mô tả trong Chương 12 là những khoảnh khắc nào trong ngày?",
+      "options": [
+        "Những thời khắc bạn ký kết các hợp đồng kinh doanh triệu đô la.",
+        "Những lựa chọn cực nhỏ chỉ diễn ra trong vài giây nhưng có tính định hướng và quyết định toàn bộ chuỗi hành vi của bạn trong vài giờ tiếp theo.",
+        "Khoảnh khắc đồng hồ điểm đúng 12 giờ đêm giao thừa đón năm mới.",
+        "Lúc bạn nhận được kết quả thông báo trúng tuyển đại học."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ví dụ: thời khắc quyết định đi xe vào phòng tập hay lái xe thẳng về nhà; thời khắc quyết định cầm điều khiển tivi hay cầm cuốn sách. Lựa chọn 2 giây đó định đoạt 2 tiếng tiếp theo."
+    },
+    {
+      "id": "q10",
+      "question": "Một người muốn ăn nhiều salad rau củ hơn nhưng thường lười chuẩn bị vào mỗi bữa ăn. Cách chuẩn bị môi trường giảm ma sát tốt nhất vào ngày Chủ nhật là:",
+      "options": [
+        "Mua thật nhiều hạt giống rau về cất trong kho để tự trồng.",
+        "Rửa sạch, gọt vỏ, cắt sẵn rau củ và chia vào các hộp thủy tinh tiện lợi để trong tầm mắt của tủ lạnh, sẵn sàng gắp ăn ngay trong tuần.",
+        "Xem các chương trình dạy nấu ăn của các đầu bếp hàng đầu thế giới.",
+        "Tự hứa với bản thân rằng từ thứ Hai mình sẽ trở thành người thích thái rau."
+      ],
+      "correctIndex": 1,
+      "explanation": "Gộp toàn bộ ma sát sơ chế vào một buổi rảnh rỗi cuối tuần: khi đói vào các ngày trong tuần, hành vi ăn rau củ trở nên nhanh chóng và thuận tiện ngang ngửa việc bóc một gói bim bim."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao việc chọn một phòng tập gym 'nằm ngay trên cung đường đi làm về mỗi ngày' lại quan trọng hơn việc chọn một phòng tập 'rộng đẹp hiện đại nhưng cách nhà 15km'?",
+      "options": [
+        "Vì phòng tập trên đường đi làm có chi phí rẻ hơn phòng tập xa nhà.",
+        "Vì nó giảm thiểu tối đa ma sát địa lý; ghé vào tập không làm đảo lộn lịch trình di chuyển hàng ngày của bạn, trong khi đi thêm 15km là một trở ngại ma sát khổng lồ.",
+        "Vì cung đường đi làm về luôn có cảnh quan thiên nhiên đẹp hơn.",
+        "Bởi vì phòng tập gần công ty luôn có nhiều huấn luyện viên giỏi hơn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoảng cách địa lý là ma sát vật lý hàng đầu: một thói quen hòa vào dòng chảy di chuyển tự nhiên có tỷ lệ duy trì cao hơn gấp nhiều lần một thói quen đòi hỏi rẽ hướng phức tạp."
+    },
+    {
+      "id": "q12",
+      "question": "Nguyên lý 'Chuẩn bị trước cho hành động' (Priming the environment) có thể ứng dụng cho thói quen viết lách buổi sáng như thế nào?",
+      "options": [
+        "Tối hôm trước, mở sẵn tài liệu Word trên màn hình máy tính, để sẵn cây bút và cốc nước trên bàn làm việc sạch sẽ, chỉ việc ngồi xuống là viết ngay.",
+        "Cất máy tính vào trong két sắt có mật mã khóa nhiều lớp.",
+        "Thức trắng đêm để suy nghĩ xem ngày mai mình nên viết về chủ đề gì.",
+        "Nhờ người thân giấu bàn phím máy tính đi để tạo sự tò mò vào buổi sáng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi mọi thứ đã được bày sẵn mời gọi, ma sát tâm lý giảm về 0; bạn không phải tốn thời gian dọn dẹp bàn, cắm sạc máy tính hay tìm file, loại bỏ mọi lý do để trì hoãn."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao câu ngạn ngữ: 'Hãy làm cho điều đúng đắn trở nên dễ dàng và điều sai trái trở nên khó khăn' lại là tôn chỉ của việc quản trị hành vi?",
+      "options": [
+        "Vì con người vốn dĩ là sinh vật lười biếng; khi điều tốt dễ làm hơn điều xấu, tự nhiên bản năng sẽ dẫn dắt chúng ta chọn điều tốt mà không cần gồng mình cố gắng.",
+        "Vì điều đúng đắn luôn mang lại lợi ích tài chính ngay trong 24 giờ đầu tiên.",
+        "Bởi vì luật pháp các nước đều quy định bắt buộc như vậy.",
+        "Vì điều sai trái luôn đòi hỏi chi phí đầu tư công cụ máy móc đắt tiền."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thay vì bắt con người phải chiến đấu chống lại bản năng sinh học lười biếng, hãy nắn dòng chảy bản năng đó phục vụ cho mình bằng cách bôi trơn thói quen tốt và gài bẫy thói quen xấu."
+    },
+    {
+      "id": "q14",
+      "question": "Một sinh viên muốn ngừng thói quen nằm lướt điện thoại trên giường ngủ mỗi tối. Hành động 'Tăng ma sát' triệt để nhất là:",
+      "options": [
+        "Mua một chiếc điện thoại có màn hình lớn hơn để nhìn đỡ mỏi mắt.",
+        "Cắm sạc điện thoại ở góc bàn cách xa giường ngủ ít nhất 3 mét, buộc bản thân phải bước chân xuống giường mới chạm vào được.",
+        "Để điện thoại dưới gối và bật chế độ rung nhẹ.",
+        "Tự nhủ rằng nằm lướt điện thoại trong bóng tối sẽ làm hỏng mắt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoảng cách 3 mét là rào cản ma sát thể xác: việc phải chui ra khỏi chăn ấm vào mùa đông để lấy điện thoại là rào cản quá lớn khiến não bộ chọn phương án dễ hơn là ngủ tiếp."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp cốt lõi của Chương 12 đối với Quy luật 3 (Khiến nó dễ dàng) được đúc kết là:",
+      "options": [
+        "Đừng cố gắng rèn luyện ý chí phi thường để vượt qua khó khăn; hãy tập trung loại bỏ khó khăn để hành động trở nên dễ dàng tự nhiên.",
+        "Hãy chọn những mục tiêu tầm thường nhất để không bao giờ bị thất bại.",
+        "Mọi nỗ lực giảm bớt công sức đều là biểu hiện của sự suy đồi nhân cách.",
+        "Chỉ có máy móc mới cần được bôi trơn để giảm ma sát chuyển động."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ý chí là giải pháp hạ sách; giảm thiểu ma sát môi trường là thượng sách. Hãy kiến tạo một cuộc sống mà ở đó việc làm điều đúng đắn là lựa chọn thuận tiện nhất."
+    }
+  ]
+}

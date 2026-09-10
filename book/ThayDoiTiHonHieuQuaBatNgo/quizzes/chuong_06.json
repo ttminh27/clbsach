@@ -1,0 +1,188 @@
+{
+  "bookId": "ThayDoiTiHonHieuQuaBatNgo",
+  "chapterId": "chuong_06",
+  "chapterTitle": "Chương 6: Động lực đang bị thổi phồng; Môi trường có ý nghĩa hơn",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Nghiên cứu của bác sĩ Anne Thorndike tại căng-tin Bệnh viện Đa khoa Massachusetts đã làm thay đổi thói quen uống nước ngọt của hàng ngàn người bằng cách nào?",
+      "options": [
+        "Tăng giá bán nước ngọt có gas lên gấp ba lần giá cũ.",
+        "Không dùng bất kỳ lời khuyên hay áp lực tâm lý nào; chỉ sắp xếp lại không gian vật lý bằng cách đặt thêm nước suối cạnh các quầy đồ ăn và tủ lạnh.",
+        "Dán các hình ảnh cảnh báo rùng rợn về bệnh tiểu đường lên vỏ lon nước ngọt.",
+        "Cấm hoàn toàn nhân viên y tế mang đồ uống ngọt vào bệnh viện."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thorndike áp dụng 'kiến trúc lựa chọn' (choice architecture): trong 3 tháng, lượng tiêu thụ soda giảm 11.4% trong khi nước đóng chai tăng 25.8% chỉ nhờ thay đổi vị trí bày bán."
+    },
+    {
+      "id": "q2",
+      "question": "Hiện tượng con người thường lựa chọn sản phẩm hoặc hành động dựa trên những gì hiển hiện trước mắt được chi phối bởi nguyên lý nhận thức nào?",
+      "options": [
+        "Thị giác là giác quan mạnh mẽ và chiếm ưu thế áp đảo nhất trong việc tiếp nhận và xử lý thông tin của não người (khoảng 10 triệu trong 11 triệu thụ thể cảm giác).",
+        "Con người chỉ có khả năng ghi nhớ các đồ vật có màu sắc sặc sỡ.",
+        "Khứu giác của con người đã hoàn toàn thoái hóa trong thế giới hiện đại.",
+        "Sự ngẫu nhiên hoàn toàn không có bất kỳ quy luật sinh học nào."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khoảng một nửa bộ não dành cho việc thị giác; do đó, các gợi ý trực quan (visual cues) là chất xúc tác mạnh mẽ nhất kích hoạt hành vi con người."
+    },
+    {
+      "id": "q3",
+      "question": "Khái niệm 'Hiệu ứng gợi ý từ môi trường' (Context-dependent memory & behavior) chỉ ra rằng:",
+      "options": [
+        "Hành vi của con người không xuất phát từ ý chí nội tại độc lập, mà là phản ứng được kích hoạt bởi mối quan hệ tương tác với không gian môi trường xung quanh.",
+        "Môi trường xung quanh hoàn toàn không ảnh hưởng đến người có ý chí sắt đá.",
+        "Chỉ những người sống ở nông thôn mới chịu ảnh hưởng của môi trường tự nhiên.",
+        "Mọi thói quen đều có thể duy trì tốt như nhau ở bất kỳ không gian nào."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhà kinh tế học Kurt Lewin từng viết phương trình hành vi: B = f(P, E) - Hành vi (Behavior) là hàm số của Con người (Person) và Môi trường (Environment)."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao việc đặt một đĩa táo tươi ngay giữa bàn ăn phòng khách lại giúp gia đình ăn nhiều trái cây hơn là cất chúng trong ngăn kéo tủ lạnh?",
+      "options": [
+        "Vì quả táo để ngoài trời sẽ chín nhanh và ngọt hơn trong tủ lạnh.",
+        "Vì gợi ý thị giác được phơi bày rõ ràng và dễ thấy; những thứ bị cất giấu khuất tầm mắt sẽ nhanh chóng bị não bộ lãng quên (Out of sight, out of mind).",
+        "Vì ngăn kéo tủ lạnh có nhiệt độ làm hỏng cấu trúc vitamin của hoa quả.",
+        "Vì đĩa táo ở phòng khách có tác dụng phong thủy thu hút tài lộc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Gợi ý càng dễ thấy thì càng dễ kích hoạt hành vi. Cất hoa quả vào ngăn kéo sâu dưới đáy tủ lạnh đồng nghĩa với việc đưa nó vào vùng lãng quên vô hình."
+    },
+    {
+      "id": "q5",
+      "question": "Nguyên tắc thiết kế môi trường: 'Một không gian, Một công dụng' (One space, one use) mang lại lợi ích gì cho việc tập trung?",
+      "options": [
+        "Tiết kiệm chi phí mua sắm bàn ghế cho gia đình.",
+        "Giúp não bộ xây dựng mối liên kết thần kinh duy nhất và rõ ràng giữa một bối cảnh cụ thể với một loại hành vi nhất định, loại bỏ sự xao nhãng.",
+        "Bắt buộc bạn phải mua một căn biệt thự có ít nhất 20 phòng riêng biệt.",
+        "Làm tăng giá trị bất động sản của ngôi nhà bạn đang sở hữu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nếu giường ngủ chỉ dùng để ngủ, bạn sẽ ngủ rất nhanh. Nếu bạn vừa ngủ, vừa xem phim, vừa làm việc trên giường, não sẽ bối rối không biết nên kích hoạt trạng thái nào."
+    },
+    {
+      "id": "q6",
+      "question": "Một sinh viên thường xuyên bị xao nhãng bởi game và mạng xã hội khi ngồi vào bàn học trong phòng ngủ. Theo lời khuyên trong Chương 6, giải pháp môi trường hiệu quả nhất là gì?",
+      "options": [
+        "Dán khẩu hiệu 'Phải đỗ thủ khoa' lên tường phòng ngủ.",
+        "Tạo ra một bối cảnh mới hoàn toàn tách biệt: đến thư viện trường hoặc quán cà phê yên tĩnh chỉ dành riêng cho việc học tập.",
+        "Tự tát vào mặt mình mỗi khi có ý nghĩ muốn chơi game.",
+        "Mua một chiếc máy tính chơi game cấu hình mạnh hơn để làm việc nhanh hơn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bắt đầu một thói quen mới trong một bối cảnh mới dễ dàng hơn nhiều so với việc cố gắng xây thói quen mới giữa một môi trường chứa đầy các gợi ý cũ cạnh tranh."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao việc cố gắng duy trì thói quen tích cực trong một môi trường chứa đầy gợi ý tiêu cực lại là một cuộc chiến thất bại được báo trước?",
+      "options": [
+        "Vì bạn đang liên tục ép ý chí hữu hạn của mình phải chiến đấu chống lại các kích thích tự nhiên của môi trường không ngừng nghỉ mỗi phút giây.",
+        "Vì môi trường tiêu cực luôn phát ra các bước sóng bức xạ phá hủy động lực.",
+        "Vì người sống trong môi trường đó sẽ bị xã hội tẩy chay.",
+        "Không có lý do nào; một người có ý chí mạnh mẽ luôn chiến thắng mọi môi trường."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ý chí là tài nguyên cạn kiệt nhanh chóng; người thông minh không gồng mình chịu đựng cám dỗ mà chủ động thiết kế lại không gian để cám dỗ không xuất hiện."
+    },
+    {
+      "id": "q8",
+      "question": "Ví dụ về người đàn ông chia các thiết bị công nghệ theo công năng: máy tính bảng chỉ đọc sách, điện thoại chỉ liên lạc, máy tính bàn chỉ làm việc nhằm áp dụng quy luật nào?",
+      "options": [
+        "Phân định ranh giới bối cảnh số (Digital context boundary), ngăn không cho thói quen giải trí xâm lấn vào không gian của thói quen tập trung.",
+        "Khoe khoang sự giàu có về trang thiết bị điện tử với đồng nghiệp.",
+        "Giúp các hãng sản xuất thiết bị công nghệ tăng trưởng doanh số bán hàng.",
+        "Đề phòng trường hợp một thiết bị bị mất trộm hoặc hư hỏng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong không gian số, một thiết bị có thể là một môi trường; phân định rõ công năng cho từng thiết bị giúp não bộ không bị lẫn lộn giữa chế độ giải trí và làm việc sâu."
+    },
+    {
+      "id": "q9",
+      "question": "Câu nói: 'Môi trường là bàn tay vô hình nhào nặn nên hành vi con người' hàm ý điều gì sâu sắc nhất?",
+      "options": [
+        "Chúng ta không có quyền tự do lựa chọn và hoàn toàn là những cỗ máy vô hồn.",
+        "Đa phần các quyết định hằng ngày của chúng ta là sự đáp ứng tự nhiên đối với các gợi ý sẵn có và rõ ràng nhất trong tầm mắt, hơn là sự cân nhắc duy lý sâu xa.",
+        "Chỉ có các nhà môi trường học mới hiểu được cách thay đổi thói quen.",
+        "Thời tiết và khí hậu quyết định 100% mức thu nhập của một quốc gia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Con người chọn những gì thuận tiện và hiển hiện nhất trước mặt; người làm chủ môi trường chính là người nắm dây cương điều khiển hành vi của chính mình."
+    },
+    {
+      "id": "q10",
+      "question": "Nếu bạn muốn hình thành thói quen tập đàn guitar mỗi tối, sắp xếp không gian nào sau đây phản ánh đúng tinh thần của Chương 6?",
+      "options": [
+        "Cất cây đàn cẩn thận trong bao da có khóa và để trên nóc tủ quần áo trong phòng kho.",
+        "Mua một cây chân để đàn và đặt cây đàn guitar ngay giữa phòng khách, cạnh chiếc ghế bạn thường ngồi nghỉ sau giờ làm.",
+        "Nhờ một người bạn cất giữ hộ cây đàn và chỉ lấy về vào dịp cuối tuần.",
+        "Dán ảnh chụp cây đàn guitar lên màn hình khóa của điện thoại thông minh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Biến gợi ý trở nên rõ ràng và không thể bỏ qua: cây đàn nằm ngay trước mắt sẽ mời gọi bạn cầm lên chơi; cây đàn trong tủ kín sẽ bị bụi phủ qua năm tháng."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao việc chuyển nhà, đổi công ty hoặc đi du lịch lại là thời điểm vàng để tái lập và xây dựng những thói quen mới?",
+      "options": [
+        "Vì chi phí sinh hoạt ở nơi mới luôn rẻ hơn nơi ở cũ.",
+        "Vì toàn bộ mạng lưới các gợi ý cũ đã bị cắt đứt, tâm trí được giải phóng khỏi các lối mòn phản xạ tự động quen thuộc và sẵn sàng đón nhận cấu trúc mới.",
+        "Vì bạn không còn phải chịu sự giám sát của pháp luật địa phương.",
+        "Vì không khí ở nơi mới luôn chứa nhiều oxy hơn nơi ở cũ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong bối cảnh mới toanh, không có gợi ý cũ nào kích hoạt thói quen xấu cũ; bạn có một tờ giấy trắng tinh khôi để tự do vẽ nên hệ sinh thái thói quen mong muốn."
+    },
+    {
+      "id": "q12",
+      "question": "Một gia đình nhận thấy họ xem tivi quá nhiều mỗi buổi tối. Cách sắp xếp lại phòng khách nào sau đây giúp giảm thói quen xem tivi hiệu quả nhất?",
+      "options": [
+        "Mua một chiếc tivi màn hình cong to hơn gấp đôi chiếc cũ.",
+        "Quay tất cả các ghế sofa hướng về phía giá sách hoặc cửa sổ nhìn ra vườn thay vì hướng thẳng vào màn hình tivi, đồng thời cất điều khiển vào ngăn kéo.",
+        "Dán giấy ghi chú 'Đừng xem tivi' lên viền màn hình tivi.",
+        "Rút phích cắm tivi và vứt chiếc tivi ra ngoài bãi rác ngay trong đêm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thay đổi kiến trúc phòng khách: biến tivi từ tâm điểm chú ý thành thứ khuất tầm mắt sẽ khiến hành vi bật tivi không còn là phản xạ mặc định mỗi khi ngồi xuống."
+    },
+    {
+      "id": "q13",
+      "question": "Trong kinh doanh bán lẻ, kỹ thuật đặt các sản phẩm đắt tiền hoặc đồ ăn vặt ở vị trí 'ngang tầm mắt' trên kệ siêu thị được gọi là gì và liên hệ thế nào với thói quen?",
+      "options": [
+        "Bẫy giá cả ngẫu nhiên không có tính toán chiến lược.",
+        "Ứng dụng thị giác: Các món đồ ở ngang tầm mắt được mua nhiều nhất; tương tự trong đời sống, những thói quen có gợi ý ngang tầm mắt sẽ được thực hiện thường xuyên nhất.",
+        "Một quy định bắt buộc của tổ chức thương mại quốc tế.",
+        "Phương pháp bảo quản hàng hóa tránh bị chuột bọ cắn phá."
+      ],
+      "correctIndex": 1,
+      "explanation": "Các nhà bán lẻ hiểu rất rõ: vị trí thị giác quyết định hành vi mua sắm; bạn phải trở thành 'kiến trúc sư trưởng' cho chính không gian sống của mình như một siêu thị thông minh."
+    },
+    {
+      "id": "q14",
+      "question": "Điều gì phân biệt một 'người thiết kế môi trường' (Environment designer) với một 'nạn nhân của môi trường' (Environment victim)?",
+      "options": [
+        "Người thiết kế chủ động kiến tạo không gian sống sao cho các gợi ý thói quen tốt luôn hiển hiện và gợi ý thói quen xấu bị triệt tiêu, thay vì thụ động phó mặc cho hoàn cảnh.",
+        "Người thiết kế có bằng cấp kiến trúc sư chuyên nghiệp từ các trường đại học lớn.",
+        "Người thiết kế không bao giờ cảm thấy mệt mỏi hay chán nản.",
+        "Nạn nhân của môi trường luôn là những người không có tiền bạc."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bạn có thể là kiến trúc sư của cuộc đời mình hoặc là con rối của hoàn cảnh; sự chủ động sắp đặt không gian sống quyết định bạn ở vị thế nào."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp cốt lõi của Chương 6 có thể đúc kết thành chân lý hành động nào?",
+      "options": [
+        "Hãy ngừng tìm kiếm động lực vô hình; hãy bắt đầu thiết kế lại môi trường hữu hình xung quanh bạn.",
+        "Động lực nội tại là thứ duy nhất quyết định thành bại của một đời người.",
+        "Không gian sống bừa bộn là biểu hiện của những thiên tài nghệ thuật vĩ đại.",
+        "Mọi nỗ lực thay đổi không gian đều vô nghĩa nếu gen di truyền không thuận lợi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Động lực chập chờn như thời tiết; môi trường ổn định như địa hình. Hãy để địa hình môi trường nâng đỡ bạn tiến về phía trước một cách tự nhiên nhất."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "bookId": "ThayDoiTiHonHieuQuaBatNgo",
+  "chapterId": "chuong_10",
+  "chapterTitle": "Chương 10: Truy tìm và điều chỉnh căn nguyên của thói quen xấu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo James Clear, các thói quen xấu hiện đại (như nghiện lướt Facebook, ăn đồ ăn vặt, chơi game thâu đêm) thực chất là gì?",
+      "options": [
+        "Sự thoái hóa đạo đức hoàn toàn của thế hệ trẻ ngày nay.",
+        "Các giải pháp hiện đại cho những nhu cầu tiến hóa nguyên thủy sâu xa của con người (tiết kiệm calo, kết nối bầy đàn, giảm bất an).",
+        "Kết quả của việc bị nhiễm các loại virus làm tổn thương thùy trán.",
+        "Những hành vi hoàn toàn vô lý không có bất kỳ cơ sở sinh học nào."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ví dụ: lướt Instagram đáp ứng nhu cầu nguyên thủy về sự chấp thuận xã hội; ăn khoai tây chiên đáp ứng nhu cầu tích trữ calo quý hiếm. Bản năng cổ xưa gặp gỡ công cụ hiện đại tạo nên thói quen xấu."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao việc nói: 'Tôi hút thuốc lá để giảm căng thẳng' lại chỉ là một ảo tưởng nhận thức do não bộ tự đánh lừa?",
+      "options": [
+        "Vì khói thuốc thực chất chỉ giải tỏa cơn căng thẳng do chính sự thiếu hụt nicotine từ điếu thuốc trước đó gây ra, chứ không giải quyết căng thẳng cuộc sống.",
+        "Vì hút thuốc làm hạ nhiệt độ cơ thể xuống mức đóng băng.",
+        "Bởi vì nicotine là chất làm tăng lượng oxy trong phổi.",
+        "Vì thuốc lá hoàn toàn không chứa bất kỳ chất hóa học nào tác động lên thần kinh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Người không hút thuốc không có cơn căng thẳng do thiếu nicotine; người nghiện thuốc lầm tưởng hút thuốc mang lại bình an, trong khi nó chỉ tạm thời xoa dịu triệu chứng nghiện do chính nó tạo ra."
+    },
+    {
+      "id": "q3",
+      "question": "Cơ chế 'Bộ não là một cỗ máy dự đoán' (The Brain is a Prediction Machine) vận hành như thế nào trong việc tạo ra Khát khao (Craving)?",
+      "options": [
+        "Não bộ có khả năng nhìn thấu tương lai và đoán trước kết quả xổ số.",
+        "Khi bắt gặp một gợi ý môi trường, não bộ lập tức so sánh với trải nghiệm trong quá khứ và dự đoán: 'Lần trước làm việc này ta cảm thấy dễ chịu, làm lại đi!', tạo ra cảm giác thèm muốn.",
+        "Não bộ chỉ hoạt động khi nhận được chỉ thị từ cơ quan thị giác.",
+        "Não bộ luôn dự đoán mọi việc theo hướng tiêu cực và bi quan nhất."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khát khao là khoảng cách giữa trạng thái hiện tại và trạng thái dự đoán trong tương lai. Gợi ý không trực tiếp tạo ra thói quen; chính sự dự đoán của não về phần thưởng mới khơi dậy cơn thèm."
+    },
+    {
+      "id": "q4",
+      "question": "Kỹ thuật 'Tái định khung tâm trí' (Reframing your mindset) bằng cách thay đổi một từ ngữ duy nhất từ 'Tôi PHẢI làm...' (I have to) sang từ nào giúp thay đổi hoàn toàn năng lượng hành động?",
+      "options": [
+        "'Tôi ĐƯỢC làm...' (I get to...).",
+        "'Tôi BỊ BẮT BUỘC làm...'",
+        "'Tôi GHÉT PHẢI làm...'",
+        "'Tôi KHÔNG THỂ làm...'"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chuyển từ 'Tôi phải dậy sớm đi làm' sang 'Tôi ĐƯỢC thức dậy khỏe mạnh và có một công việc để làm': biến một gánh nặng thành một đặc ân và cơ hội, kích hoạt cảm xúc biết ơn và hào hứng."
+    },
+    {
+      "id": "q5",
+      "question": "Một người thường xuyên cảm thấy hồi hộp, tim đập nhanh và lo sợ trước khi bước lên sân khấu thuyết trình. Cách 'tái định khung nhận thức' thông minh nhất theo Chương 10 là gì?",
+      "options": [
+        "Uống thuốc ngủ liều cao để làm chậm nhịp tim ngay lập tức.",
+        "Tự nhủ với bản thân: 'Cơ thể mình không phải đang sợ hãi; tim đập nhanh và adrenaline tăng vọt là dấu hiệu cơ thể đang chuẩn bị năng lượng tối đa để giúp mình bùng nổ trên sân khấu!'.",
+        "Bỏ chạy khỏi khán phòng và từ chối bài thuyết trình.",
+        "Tin rằng mình đang bị ma quỷ ám quẻ và cần phải đi giải hạn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phản ứng sinh lý của sự sợ hãi và sự phấn khích là hoàn toàn giống nhau (tim đập nhanh, thở gấp); cách bạn dán nhãn nhận thức cho trạng thái đó sẽ quyết định hành vi tiếp theo."
+    },
+    {
+      "id": "q6",
+      "question": "Để triệt tiêu một thói quen xấu, Quy luật Nghịch đảo của Nguyên tắc 2 là 'Make it unattractive' (Khiến nó kém hấp dẫn). Phương pháp cốt lõi để thực hiện quy luật này là:",
+      "options": [
+        "Làm nổi bật những mặt trái, cái giá đắt đỏ và tác hại tiêu cực sâu sắc của thói quen đó, làm cho não bộ mất đi sự thèm muốn dự đoán phần thưởng.",
+        "Thuê người khác đánh đập mình mỗi khi thực hiện thói quen xấu.",
+        "Dán các hình ảnh kinh dị lên toàn bộ đồ đạc trong nhà.",
+        "Cố gắng quên đi sự tồn tại của thói quen đó bằng cách thôi miên."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mọi thói quen xấu chỉ tồn tại chừng nào bạn còn liên kết nó với một lợi ích ảo tưởng nào đó; khi bạn vạch trần ảo tưởng và thấy rõ cái giá phải trả, sự hấp dẫn sẽ tự khắc tiêu tan."
+    },
+    {
+      "id": "q7",
+      "question": "Cuốn sách 'Cách dễ dàng để bỏ thuốc lá' (The Easy Way to Stop Smoking) của Allen Carr đã giúp hàng triệu người cai thuốc thành công nhờ áp dụng triệt để chiến lược nào trong Chương 10?",
+      "options": [
+        "Mô tả chi tiết các căn bệnh ung thư phổi rùng rợn kèm hình ảnh kinh dị.",
+        "Tái định khung toàn bộ các niềm tin của người hút thuốc: chứng minh rằng thuốc lá không hề mang lại sự thư giãn, tự tin hay giải tỏa, mà chỉ là cái bẫy nô lệ hóa tinh thần.",
+        "Cung cấp các bài thuốc lá điện tử chứa chất gây nôn mửa.",
+        "Ép người đọc phải thề độc trước các biểu tượng tôn giáo."
+      ],
+      "correctIndex": 1,
+      "explanation": "Carr không dọa dẫm; ông dùng lý lẽ để bóc trần từng lời ngụy biện của người nghiện, khiến điếu thuốc từ một 'người bạn an ủi' trở thành 'kẻ hút máu gớm ghiếc', làm mất sạch sức hấp dẫn."
+    },
+    {
+      "id": "q8",
+      "question": "Khái niệm 'Nghi thức tạo động lực' (Motivation Ritual) được James Clear hướng dẫn thực hiện như thế nào để kích hoạt trạng thái tập trung đỉnh cao?",
+      "options": [
+        "Thực hiện một chuỗi hành động nhỏ cố định (như bật đèn bàn, đeo tai nghe, hít 3 hơi thở sâu) ngay trước khi làm việc, để sau một thời gian, chuỗi đó trở thành mồi lửa kích hoạt sự tập trung.",
+        "Hô to khẩu hiệu chiến thắng 100 lần trước gương mỗi khi thức dậy.",
+        "Đốt hương trầm và nhảy múa theo điệu nhảy nguyên thủy của các bộ lạc.",
+        "Chờ đợi cho đến khi có một tia sét đánh ngang bầu trời."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bằng cách liên kết một hành động thể chất đơn giản với một trạng thái tinh thần tích cực, bạn tạo ra một công tắc phản xạ: chỉ cần bật công tắc nghi thức, não bộ sẽ tự động chuyển trạng thái."
+    },
+    {
+      "id": "q9",
+      "question": "Câu chuyện vận động viên Ed Latimore tạo ra nghi thức đeo tai nghe để viết sách minh họa cho nguyên lý nào?",
+      "options": [
+        "Âm nhạc có lời luôn giúp con người trở thành nhà văn vĩ đại.",
+        "Anh liên kết hành động đeo tai nghe chụp tai với trạng thái 'viết lách nghiêm túc'; chỉ cần đeo tai nghe lên (kể cả không bật nhạc), não bộ của anh đã tự động khóa vào chế độ tập trung cao độ.",
+        "Tai nghe có tác dụng ngăn chặn sóng điện từ phá hủy tế bào não.",
+        "Anh muốn giả vờ điếc để không phải nói chuyện với người xung quanh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là phản xạ có điều kiện: tai nghe trở thành gợi ý vật lý được gắn chặt với trạng thái làm việc sâu, giúp anh lập tức bước vào vùng tập trung mà không tốn công trì hoãn."
+    },
+    {
+      "id": "q10",
+      "question": "Một người thường xuyên cảm thấy việc tập thể dục là 'cực hình khổ hạnh'. Câu hỏi nào sau đây giúp người đó tái định khung để thấy việc tập luyện hấp dẫn hơn?",
+      "options": [
+        "'Tại sao mình lại lười biếng và yếu đuối đến mức này?'",
+        "'Làm thế nào để cảm nhận việc tập luyện hôm nay là cơ hội xây dựng sức mạnh và sự dẻo dai giúp mình sống thọ để chơi đùa cùng con cháu sau này?'",
+        "'Liệu mình có thể thuê ai đó tập thể dục thay mình được không?'",
+        "'Tập thể dục tốn bao nhiêu tiền viện phí nếu bị chấn thương?'"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thay đổi câu hỏi tự vấn sẽ thay đổi trọng tâm chú ý của não bộ: chuyển từ cảm giác mệt mỏi tức thời sang giá trị sống thiêng liêng và sức mạnh dài hạn mà cơ thể được đón nhận."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao việc chỉ trích hoặc cấm đoán thói quen xấu của người khác bằng sự giận dữ thường phản tác dụng và khiến họ làm lén lút nhiều hơn?",
+      "options": [
+        "Vì sự giận dữ làm tăng cảm giác căng thẳng và bất an của họ, mà chính cảm giác căng thẳng đó lại là căn nguyên thúc đẩy họ tìm về thói quen xấu để xoa dịu nội tâm.",
+        "Vì người khác luôn có ác cảm bẩm sinh với những lời khuyên đúng đắn.",
+        "Bởi vì thói quen xấu có khả năng phát ra sóng từ trường chống lại sự giận dữ.",
+        "Vì luật pháp không cho phép can thiệp vào hành vi của người khác."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vòng lặp luẩn quẩn: Căng thẳng -> Tìm đến thói quen xấu để trốn tránh -> Bị chỉ trích -> Căng thẳng tăng cao -> Càng thèm thói quen xấu hơn. Muốn cắt đứt phải giải quyết căn nguyên căng thẳng."
+    },
+    {
+      "id": "q12",
+      "question": "Khi bạn nhận ra rằng chiếc bánh ngọt đầy đường không thực sự giải quyết được nỗi buồn công việc mà chỉ để lại cảm giác tội lỗi và mệt mỏi sau 10 phút, bạn đang áp dụng:",
+      "options": [
+        "Biện pháp thôi miên giải tỏa năng lượng tiêu cực.",
+        "Quy luật nghịch đảo 2: Làm cho thói quen xấu mất đi sức hấp dẫn bằng cách phơi bày sự thật về phần thưởng giả tạo của nó.",
+        "Phương pháp nhịn ăn cực đoan để giảm cân cấp tốc.",
+        "Kỹ thuật chuyển đổi thói quen xấu thành thói quen trung tính."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi ảo tưởng về sự thỏa mãn bị bóc trần bởi nhận thức sáng suốt, khát khao sẽ suy yếu; bạn nhận ra chiếc bánh không phải là phần thưởng mà là một cái bẫy năng lượng."
+    },
+    {
+      "id": "q13",
+      "question": "Khái niệm 'Khát khao bề mặt' (Surface craving) khác với 'Động cơ sâu xa' (Underlying motive) như thế nào?",
+      "options": [
+        "Khát khao bề mặt là hành vi cụ thể bạn thấy thèm (như mở điện thoại xem video TikTok), trong khi động cơ sâu xa là nhu cầu sinh học nguyên thủy bên dưới (như trốn tránh sự buồn chán).",
+        "Khát khao bề mặt chỉ xuất hiện ở ngoài trời, động cơ sâu xa chỉ xuất hiện ở trong nhà.",
+        "Chúng hoàn toàn giống nhau và không có bất kỳ điểm khác biệt nào.",
+        "Khát khao bề mặt do gen quyết định, động cơ sâu xa do thời tiết quyết định."
+      ],
+      "correctIndex": 0,
+      "explanation": "Động cơ sâu xa không đổi qua hàng vạn năm (sinh tồn, sinh sản, kết nối, hòa nhập); chỉ có các thói quen bề mặt là thay đổi theo thời đại và công nghệ."
+    },
+    {
+      "id": "q14",
+      "question": "Làm thế nào để tạo ra một 'thói quen thay thế' hoàn hảo cho một thói quen xấu dựa trên Chương 10?",
+      "options": [
+        "Cố gắng triệt tiêu hoàn toàn động cơ sâu xa của con người.",
+        "Giữ nguyên động cơ sâu xa (ví dụ: cần giải tỏa căng thẳng sau giờ làm), nhưng tìm một hành vi mới lành mạnh hơn (như đi dạo 15 phút) để đáp ứng cùng động cơ đó thay cho hành vi cũ (nhậu nhẹt).",
+        "Bắt buộc bản thân không được có bất kỳ ham muốn nào trong cuộc sống.",
+        "Chuyển sang một thói quen xấu khác ít nguy hiểm hơn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bạn không thể triệt tiêu nhu cầu sinh học gốc; chìa khóa là tìm một phản hồi lành mạnh hơn nhưng vẫn thỏa mãn trọn vẹn cùng một động cơ ngầm bên dưới."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp cốt lõi của Chương 10 gửi gắm điều gì về cách chúng ta làm chủ cảm xúc và khát khao của mình?",
+      "options": [
+        "Cảm xúc và khát khao là những phản ứng cố định không bao giờ có thể can thiệp được.",
+        "Bằng cách thay đổi cách nhìn nhận và dự đoán của não bộ về một sự việc (tái định khung), bạn hoàn toàn có thể lập trình lại cảm xúc và mức độ hấp dẫn của bất kỳ hành vi nào.",
+        "Chỉ có thuốc điều trị tâm thần mới có khả năng làm chủ cảm xúc con người.",
+        "Hãy kìm nén mọi cảm xúc tiêu cực sâu vào trong lòng để trở nên mạnh mẽ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chúng ta không phản ứng với thực tại khách quan; chúng ta phản ứng với câu chuyện mà não bộ diễn dịch về thực tại đó. Thay đổi câu chuyện diễn dịch chính là thay đổi khát khao."
+    }
+  ]
+}

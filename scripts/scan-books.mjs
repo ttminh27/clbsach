@@ -190,6 +190,34 @@ const placeholderMetadata = {
     gradient: "from-blue-600 via-indigo-700 to-slate-900",
     themeColor: "#2563eb",
     status: "available"
+  },
+  "ThayDoiTiHonHieuQuaBatNgo": {
+    title: "Thay Đổi Tí Hon, Hiệu Quả Bất Ngờ",
+    originalTitle: "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    author: "James Clear",
+    authorBio: "Chuyên gia hàng đầu thế giới về thói quen và sự cải thiện bản thân liên tục, diễn giả danh tiếng và tác giả cuốn sách bán chạy số 1 theo New York Times.",
+    quote: "Thành công là sản phẩm của các thói quen hằng ngày – không phải của một cuộc biến hình một-lần-trong-đời.",
+    translator: "Vũ Phi Yên - Trần Quỳnh Như",
+    category: "Tâm lý học hành vi & Phát triển bản thân",
+    tags: ["Atomic Habits", "Thói quen", "Kỷ luật", "Năng suất", "Phát triển bản thân", "Tâm lý học"],
+    description: "Cuốn sách kinh điển và thực tế bậc nhất về nghệ thuật xây dựng thói quen tốt và loại bỏ thói quen xấu thông qua 4 nguyên tắc cốt lõi: Rõ ràng, Hấp dẫn, Dễ dàng và Tạo cảm giác thỏa mãn.",
+    gradient: "from-amber-500 via-orange-600 to-red-700",
+    themeColor: "#ea580c",
+    status: "available"
+  },
+  "ChienThangConQuyTrongBan": {
+    title: "Chiến Thắng Con Quỷ Trong Bạn",
+    originalTitle: "Outwitting the Devil: The Secret to Freedom and Success",
+    author: "Napoleon Hill",
+    authorBio: "Tác giả của cuốn sách kinh điển 'Think and Grow Rich' (13 nguyên tắc nghĩ giàu, làm giàu), nhà triết học về thành công cá nhân hàng đầu nước Mỹ và thế giới.",
+    quote: "Nỗi sợ hãi là công cụ của quỷ dữ do con người tạo ra. Tự tin vào chính bản thân mình vừa là vũ khí giúp con người đánh bại quỷ dữ vừa là công cụ để con người tạo dựng nên một cuộc sống huy hoàng.",
+    translator: "Thanh Minh",
+    category: "Tâm lý học thành công & Khai phóng tiềm năng",
+    tags: ["Napoleon Hill", "Tư duy tích cực", "Vượt qua nỗi sợ", "Nhịp điệu thôi miên", "Kỷ luật tự giác", "Thành công"],
+    description: "Kiệt tác bị giấu kín suốt 72 năm của Napoleon Hill, vén màn cuộc đối thoại kỳ lạ với Con Quỷ để bóc trần cách nỗi sợ hãi, sự buông thả và nhịp điệu thôi miên giam cầm 98% nhân loại, trao cho bạn chiếc chìa khóa để giành lại quyền làm chủ tâm trí.",
+    gradient: "from-rose-900 via-stone-900 to-amber-950",
+    themeColor: "#991b1b",
+    status: "available"
   }
 };
 
@@ -256,16 +284,42 @@ for (const bookId of bookDirs) {
   const files = fs.readdirSync(bookPath);
   let mdFiles = files.filter(f => f.endsWith('.md') && !['readme.md', 'muc_luc.md'].includes(f.toLowerCase()));
   let coverUrl = null;
-  const coverCandidates = [
+  const explicitCovers = [
     'cover.jpg', 'cover.png', 'cover.jpeg', 'cover.webp',
-    'p1_Im0.jpg', 'img_p001_01.jpeg', 'img-000.png',
+    'cover.PNG', 'cover.JPG',
     'bia_truoc.png', 'bia_truoc.jpg', 'cover_front.png', 'cover_front.jpg',
-    'image_001_4.jpeg', 'page_001_1.jpeg', 'page_1_img_1.jpeg'
+    'bia.png', 'bia.jpg'
   ];
-  for (const c of coverCandidates) {
+  for (const c of explicitCovers) {
     if (fs.existsSync(path.resolve(bookPath, 'images', c))) {
       coverUrl = `/books/${bookId}/images/${c}`;
       break;
+    }
+    if (fs.existsSync(path.resolve(bookPath, c))) {
+      coverUrl = `/books/${bookId}/${c}`;
+      break;
+    }
+  }
+
+  const readmePath = path.resolve(bookPath, 'README.md');
+  if (!coverUrl && fs.existsSync(readmePath)) {
+    const readmeContent = fs.readFileSync(readmePath, 'utf-8');
+    const coverMatch = readmeContent.match(/!\[.*?\]\((images\/[^)]+)\)/i) || readmeContent.match(/!\[.*?\]\(([^)]+\.(?:jpe?g|png|webp))\)/i);
+    if (coverMatch && fs.existsSync(path.resolve(bookPath, coverMatch[1]))) {
+      coverUrl = `/books/${bookId}/${coverMatch[1]}`;
+    }
+  }
+
+  if (!coverUrl) {
+    const fallbackCandidates = [
+      'img_p001_xref7.jpeg', 'p1_Im0.jpg', 'img_p001_01.jpeg', 'img-000.png',
+      'image_001_4.jpeg', 'page_001_1.jpeg', 'page_1_img_1.jpeg'
+    ];
+    for (const c of fallbackCandidates) {
+      if (fs.existsSync(path.resolve(bookPath, 'images', c))) {
+        coverUrl = `/books/${bookId}/images/${c}`;
+        break;
+      }
     }
   }
 
@@ -273,7 +327,6 @@ for (const bookId of bookDirs) {
   const audioFiles = fs.existsSync(audioDir) ? fs.readdirSync(audioDir).filter(f => f.endsWith('.mp3') || f.endsWith('.m4a') || f.endsWith('.wav')) : [];
 
   // Check if README.md has TOC ordering
-  const readmePath = path.resolve(bookPath, 'README.md');
   let orderedMdFiles = [];
   const tocTitles = {};
   if (fs.existsSync(readmePath)) {

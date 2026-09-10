@@ -1,7 +1,7 @@
 # MỤC LỤC - ĐẮC NHÂN TÂM
 ### *HOW TO WIN FRIENDS & INFLUENCE PEOPLE* — DALE CARNEGIE
 
-![Mục lục Đắc Nhân Tâm](images/page_319_illustration.jpeg)
+![Bìa sách Đắc Nhân Tâm](images/cover.png)
 
 ---
 
