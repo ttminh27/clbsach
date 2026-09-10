@@ -1,0 +1,188 @@
+{
+  "bookId": "NgheThuatSong",
+  "chapterId": "00_dan_nhap",
+  "chapterTitle": "Dẫn Nhập: Môn Bơi Lội Học",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Ý nghĩa ẩn dụ sâu sắc nhất của câu chuyện 'Môn Bơi Lội Học' đối với người tìm kiếm sự giải thoát là gì?",
+      "options": [
+        "Học vị học thuật cao cấp là trở ngại duy nhất khiến con người không thể học bơi.",
+        "Những người lao động chân tay và thủy thủ luôn có đạo đức tốt hơn giới giáo sư trí thức.",
+        "Sự tích lũy tri thức lý thuyết uyên bác về cuộc đời là vô dụng khi hiểm nguy sinh tử ập đến; điều duy nhất cứu rỗi con người là kỹ năng thực chứng bằng kinh nghiệm bản thân.",
+        "Mọi ngành khoa học tự nhiên như Địa chất học, Hải dương học đều sai lầm và cần phải loại bỏ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vị giáo sư thông thạo Địa chất, Hải dương, Khí tượng nhưng không biết bơi thì mất cả mạng sống khi tàu chìm. Tương tự, nếu chỉ đọc sách, bàn luận triết học tôn giáo uyên bác mà không trực tiếp 'xuống nước' thực hành thanh lọc tâm, ta hoàn toàn bất lực trước sóng gió khổ đau của đời người."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao con người lại có xu hướng hướng ngoại và cảm thấy việc tự quan sát nội tâm là kỳ quặc, 'như nhìn chăm chăm vào khung thử màu trên tivi'?",
+      "options": [
+        "Vì tâm trí con người từ nhỏ đã bị điều kiện hóa rằng thực tại chỉ nằm ở thế giới khách quan bên ngoài qua các kích thích giác quan.",
+        "Vì thế giới nội tâm không hề có cấu trúc hay quy luật nào để nghiên cứu.",
+        "Vì khoa học hiện đại đã chứng minh bên trong cơ thể con người không có gì ngoài xương thịt vô tri.",
+        "Vì việc nhìn vào nội tâm chỉ dành riêng cho những người thất bại ngoài xã hội."
+      ],
+      "correctIndex": 0,
+      "explanation": "Con người luôn bị điều kiện hóa để tin rằng thế giới thật chỉ nằm ở bên ngoài và ta chỉ sống khi tiếp nhận kích thích ngoại giới. Do đó, việc quay lại khảo sát tương tác thân - tâm bên trong ban đầu có vẻ tẻ nhạt, vô bổ, nhưng thực tế toàn bộ vũ trụ chỉ hiện hữu với ta ngay tại đây và bây giờ trong thân tâm này."
+    },
+    {
+      "id": "q3",
+      "question": "Quan niệm cho rằng thiền định là một 'sự trốn tránh cuộc đời' bị Thiền sư Goenka phản bác bằng luận điểm nào?",
+      "options": [
+        "Thiền định đòi hỏi phải cắt đứt vĩnh viễn mọi quan hệ gia đình và xã hội để đạt an lạc tuyệt đối.",
+        "Vipassana không phải trốn chạy mà là phương tiện nhập thế tích cực, dũng cảm đối diện với thực tại trần trụi của chính mình để chữa lành và phục vụ tha nhân.",
+        "Thiền định giúp phát triển các năng lực thôi miên để thao túng hoàn cảnh bên ngoài.",
+        "Thiền sinh chỉ cần nhắm mắt tĩnh tâm, mọi vấn đề cơm áo gạo tiền bên ngoài sẽ tự động biến mất."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vipassana không khuyến khích sự lẩn tránh trách nhiệm. Khóa thiền giống như việc vào bệnh viện để phẫu thuật phục hồi sức khỏe tinh thần, sau đó trở lại đời sống với sự vững chãi, từ bi và hành động hữu ích hơn cho xã hội."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao trong khóa thiền 10 ngày, thiền sinh được yêu cầu tuân thủ 'Sự im lặng thánh thiện' (Noble Silence) và đình chỉ mọi hoạt động đọc, viết, nghi lễ?",
+      "options": [
+        "Để cô lập tâm trí trong môi trường 'vô trùng', ngăn không cho tâm phóng dật tìm cách biện hộ hoặc trốn tránh cuộc phẫu thuật nội tâm sâu thẳm.",
+        "Để trừng phạt những sai lầm đạo đức mà thiền sinh đã phạm phải trong quá khứ.",
+        "Để biến mọi người thành những người tu sĩ ẩn dật câm lặng suốt đời.",
+        "Vì ban tổ chức không muốn thiền sinh tranh cãi về các vấn đề chính trị và kinh tế."
+      ],
+      "correctIndex": 0,
+      "explanation": "Việc im lặng, không đọc, không viết, không thực hiện nghi thức tạo ra một phòng mổ 'vô trùng'. Mọi tương tác hay ghi chép đều là cơ hội để bản ngã suy diễn, biện minh và phân tán sự chú ý khỏi việc quan sát thực tại vi tế trên thân tâm."
+    },
+    {
+      "id": "q5",
+      "question": "Ẩn dụ 'cuộc phẫu thuật nặn mủ một vết thương' minh chứng cho quy luật tâm lý nào trong quá trình hành thiền?",
+      "options": [
+        "Thiền tập phải luôn luôn đem lại cảm giác êm dịu, nếu thấy đau đớn là đã tập sai phương pháp.",
+        "Vết thương tâm lý có thể tự lành mà không cần can thiệp nếu ta cứ phớt lờ nó.",
+        "Càng tạo thêm nhiều nỗi đau thể xác thì tâm trí càng nhanh chóng giác ngộ.",
+        "Khi bắt đầu chạm đến các tầng bất tịnh sâu kín, tâm sẽ bộc lộ sự dao động, bứt rứt và kháng cự dữ dội; đây là dấu hiệu của việc mủ độc đang được trục xuất."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mổ vết thương và nặn mủ ra rất đau đớn, nhưng đó là điều kiện tất yếu để lành bệnh. Thiền Vipassana khuấy động những căng thẳng, ô nhiễm tích tụ lâu năm trong vô thức, khiến thiền sinh trải qua giai đoạn bồn chồn khó chịu trước khi đạt được sự nhẹ nhõm thực sự."
+    },
+    {
+      "id": "q6",
+      "question": "Tác giả so sánh việc con người thường nhìn nhận bản thân với hành động 'soi gương chọn góc mặt đẹp'. Bài học rút ra cho hành giả Vipassana là gì?",
+      "options": [
+        "Nên tránh soi gương vì việc đó nuôi dưỡng tính tự cao tự đại.",
+        "Bản ngã luôn có xu hướng tự lừa dối bằng cách chỉ muốn nhìn thấy những phẩm chất đáng khen ngợi và che giấu tật xấu; Vipassana buộc ta đối diện toàn bộ sự thật không cắt xén.",
+        "Chỉ cần tập trung vào những suy nghĩ tích cực, mọi khuyết điểm sẽ tự biến mất.",
+        "Sự quan sát nội tâm chỉ hiệu quả khi ta đạt đến trạng thái hoàn hảo không tì vết."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thông thường chúng ta chỉ muốn thấy hình ảnh lý tưởng mà mình tạo ra trong đầu. Vipassana là tấm gương chân thực không thiên vị, buộc hành giả phải quan sát trực tiếp cả những khía cạnh tăm tối, giận dữ, bất an mà trước nay bản ngã cố tình né tránh."
+    },
+    {
+      "id": "q7",
+      "question": "Khái niệm 'Cố gắng mà không gắng sức' (effort without tension) trong khóa thiền phản ánh nghệ thuật điều tâm nào?",
+      "options": [
+        "Sự tỉnh thức thoải mái, duy trì nỗ lực liên tục để hướng tâm vào thực tại nhưng không kèm theo sự căng thẳng hay tâm mong cầu kết quả.",
+        "Từ bỏ mọi kỷ luật và để tâm trí buông trôi theo sự lười biếng tự nhiên.",
+        "Dùng ý chí sắt đá ép buộc tâm trí không được có bất kỳ suy nghĩ nào.",
+        "Chỉ ngồi thiền khi nào cảm thấy thực sự có cảm hứng và tâm trí hoàn toàn thanh thản."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nếu nỗ lực kèm theo sự gồng mình, tham cầu thành quả thì tâm sẽ rơi vào căng thẳng mệt mỏi; nếu buông xuôi thì rơi vào hôn trầm thụ động. 'Cố gắng mà không gắng sức' là trạng thái quân bình giữa sự tỉnh thức cảnh giác và sự buông xả thư thái."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao trong 3 ngày rưỡi đầu khóa thiền, thiền sinh chỉ được dạy thực hành quan sát hơi thở tự nhiên (Ānāpāna) mà chưa vào Vipassana?",
+      "options": [
+        "Vì Ānāpāna là một phương pháp dễ dàng để giải trí và giết thời gian chờ đợi giảng viên.",
+        "Vì Đức Phật quy định ai muốn học thiền tuệ đều phải đổi sang tôn giáo mới trong 3 ngày đầu.",
+        "Vì tâm trí thông thường quá thô tháo, dao động và phân tán; cần phải mài sắc sự chú tâm trên một đối tượng tự nhiên để đạt định lực cần thiết trước khi phẫu thuật tầng sâu.",
+        "Vì hơi thở là bộ phận duy nhất của cơ thể không bao giờ thay đổi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tâm trí bình thường giống như một con dao cùn lụt đầy tạp niệm. 3 ngày rưỡi thực hành Ānāpāna rèn luyện định lực (Samādhi), mài sắc tâm trí thành chiếc dao mổ tinh vi để bước vào ngày thứ 4 thâm nhập thực tại vi tế của thân tâm."
+    },
+    {
+      "id": "q9",
+      "question": "Điểm phân biệt cốt lõi giữa 'nghiên cứu về chân lý' và 'kinh nghiệm trực tiếp chân lý' trong Dẫn nhập là gì?",
+      "options": [
+        "Nghiên cứu mang lại bằng cấp danh giá, còn kinh nghiệm chỉ mang lại sự mơ hồ.",
+        "Không có sự khác biệt nào; hễ hiểu sâu về mặt triết học thì tâm sẽ tự động sạch hết phiền não.",
+        "Kinh nghiệm chỉ dành cho người mù chữ, còn người có học thức thì tư duy lý luận là đủ.",
+        "Nghiên cứu chỉ dừng lại ở các khái niệm tri thức và niềm tin vay mượn; chỉ có kinh nghiệm trực tiếp trên thân tâm mới phá vỡ được các phản ứng vô thức và đem lại tự do."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự hiểu biết khái niệm (intellectual understanding) dù đúng đắn đến đâu cũng chỉ là tấm bản đồ, không thể thay thế việc thực sự đặt chân lên mảnh đất thực tế. Chỉ có trực nghiệm trên thân tâm mới có năng lực thay đổi tập quán phản ứng của tiềm thức."
+    },
+    {
+      "id": "q10",
+      "question": "Hình ảnh 'mặt hồ trên núi lúc rạng đông' mô tả trạng thái tâm nào của hành giả khi vượt qua giai đoạn đấu tranh gian khổ ban đầu?",
+      "options": [
+        "Tâm trí bị đông cứng như băng giá, không còn cảm giác hay cảm xúc gì đối với đời sống.",
+        "Tâm trí chìm sâu vào giấc ngủ vô thức không còn biết gì xung quanh.",
+        "Tâm an tịnh, phẳng lặng đến mức soi chiếu rõ ràng mọi sự kiện xung quanh đồng thời để lộ bản chất sâu kín tận đáy lòng.",
+        "Tâm trí trôi nổi bồng bềnh trong những ảo giác xuất thần huyền bí."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi vượt qua sự vật lộn của bản ngã, tâm đạt tới sự định tĩnh trong suốt: vừa phản chiếu trung thực thực tại khách quan mà không bị bóp méo, vừa thấu suốt những chuyển biến vi tế tận đáy sâu tiềm thức."
+    },
+    {
+      "id": "q11",
+      "question": "Dòng truyền thừa của kỹ thuật Vipassana được Thiền sư Goenka giới thiệu có ý nghĩa gì về tính xác thực của phương pháp?",
+      "options": [
+        "Kỹ thuật này được bảo tồn nguyên vẹn qua các thế hệ thiền sư Miến Điện (từ Ledi Sayadaw, Saya U Thet đến Sayagyi U Ba Khin), giữ đúng tinh thần thực hành nguyên thủy của Đức Phật mà không bị pha tạp giáo điều.",
+        "Đây là một phương pháp hoàn toàn mới do chính Thiền sư Goenka sáng lập vào thế kỷ 20.",
+        "Phương pháp này chỉ có hiệu lực đối với những người mang quốc tịch Miến Điện hoặc Ấn Độ.",
+        "Dòng truyền thừa chứng minh rằng cần phải có quyền năng thần thông truyền từ thầy sang trò mới đắc đạo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Truyền thống Sayagyi U Ba Khin gìn giữ kỹ thuật như một phương pháp thực nghiệm khoa học, nhấn mạnh tính phi tông phái, phù hợp chính xác với kinh điển nguyên thủy và kiểm chứng được bằng kết quả thực tế."
+    },
+    {
+      "id": "q12",
+      "question": "Vì sao tác giả cảnh báo: 'Đừng bao giờ dùng cuốn sách này để tự luyện tập phương pháp thiền Vipassana tại nhà'?",
+      "options": [
+        "Vì kỹ thuật này được giữ độc quyền và cần phải đóng tiền bản quyền trước khi thực hành.",
+        "Vì sách đã bị lược bớt những câu thần chú bí mật chỉ được truyền miệng.",
+        "Vì Vipassana tác động sâu vào tiềm thức; nếu không có môi trường kỷ luật hỗ trợ và người thầy giàu kinh nghiệm dẫn dắt, hành giả dễ đi chệch hướng hoặc gặp bất ổn tâm lý.",
+        "Vì việc tự hành thiền tại nhà là hành vi phạm pháp theo luật pháp quốc tế."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hành thiền thâm nhập sâu vào các tầng lớp vô thức phức tạp. Thiền sinh đối diện với những bất tịnh sâu kín cần có một khuôn viên an toàn, cách ly ngoại giới và sự hướng dẫn chuẩn xác của thiền sư để xử lý những khủng hoảng tâm lý phát sinh."
+    },
+    {
+      "id": "q13",
+      "question": "Điều gì xảy ra vào ngày thứ 10 của khóa thiền khi 'Sự im lặng thánh thiện' được dỡ bỏ?",
+      "options": [
+        "Thiền sinh lập tức rời trung tâm thiền để trở về nhà ngay trong đêm.",
+        "Thiền sinh được phép tranh luận gay gắt để bảo vệ quan điểm triết học của mình.",
+        "Khóa thiền kết thúc hoàn toàn và không còn buổi thiền nào nữa.",
+        "Thiền sinh bắt đầu nói chuyện để bước vào giai đoạn chuyển tiếp tâm lý, hòa nhập dần trở lại với đời sống giao tiếp xã hội kèm theo tâm từ ái (Mettā)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ngày thứ 10 là bước đệm thiết yếu: giải tỏa sự im lặng, thực hành thiền Từ ái (Mettā-bhāvanā) và chia sẻ trải nghiệm, giúp tâm thức thiền sinh không bị sốc khi chuyển từ trạng thái lắng đọng nội tâm cực độ trở lại đời sống thường nhật."
+    },
+    {
+      "id": "q14",
+      "question": "Nếu một người tham dự khóa thiền 10 ngày nhưng liên tục vi phạm 5 giới đạo đức (ví dụ nói dối, lén lút giao tiếp), kết quả thực hành của người đó sẽ ra sao?",
+      "options": [
+        "Vẫn đạt được giác ngộ như thường vì trí tuệ không liên quan gì đến hành vi đạo đức bề ngoài.",
+        "Định lực sẽ phát triển nhanh hơn do tâm trí được tự do phá vỡ mọi quy tắc gò bó.",
+        "Thiền sư sẽ sử dụng năng lực tâm linh để gánh chịu thay toàn bộ hậu quả cho thiền sinh.",
+        "Tâm trí sẽ không thể đạt được sự lắng dịu vô trùng; sự xao động do hành vi sai trái gây ra sẽ ngăn cản việc quan sát các cảm giác vi tế."
+      ],
+      "correctIndex": 3,
+      "explanation": "Giới hạnh (Sīla) là nền tảng tối thượng của thiền. Bất kỳ hành động phá giới nào cũng kích hoạt sự bứt rứt, hối hận hoặc dao động trong tâm, khiến tâm không thể đạt được định (Samādhi) để phát triển tuệ (Paññā)."
+    },
+    {
+      "id": "q15",
+      "question": "Từ nguyên gốc 'Vipassanā' trong tiếng Pāli phản ánh thái độ nhận thức nào mà hành giả cần duy trì?",
+      "options": [
+        "Tưởng tượng ra những cảnh tượng thiên đàng huy hoàng để quên đi thực tại đau khổ.",
+        "Quan sát thực tại đúng như bản chất thật của nó (như thực như chân), không thêm bớt qua lăng kính định kiến, ưa thích hay ghét bỏ.",
+        "Phân tích mọi sự vật theo hệ thống lý luận triết học phức tạp.",
+        "Thôi miên bản thân để không còn cảm giác đau đớn trên cơ thể."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Passanā' là nhìn thấy; tiền tố 'Vi' có nghĩa là một cách đặc biệt, sâu sắc và khách quan. Vipassanā nghĩa là nhìn thấy sự vật đúng như thật (yathā-bhūta), chứ không phải như ta mong muốn hay tưởng tượng."
+    }
+  ]
+}

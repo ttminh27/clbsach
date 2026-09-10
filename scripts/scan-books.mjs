@@ -218,6 +218,20 @@ const placeholderMetadata = {
     gradient: "from-rose-900 via-stone-900 to-amber-950",
     themeColor: "#991b1b",
     status: "available"
+  },
+  "NgheThuatSong": {
+    title: "Nghệ Thuật Sống",
+    originalTitle: "The Art of Living: Vipassana Meditation as taught by S. N. Goenka",
+    author: "William Hart & S. N. Goenka",
+    authorBio: "William Hart là thiền sư phụ tá lâu năm của Thiền sư S. N. Goenka. Thiền sư S. N. Goenka (1924–2013) là bậc thầy thiền định Vipassana lỗi lạc người Ấn Độ, người đã có công truyền bá phương pháp thiền Vipassana thực nghiệm không giáo điều ra khắp thế giới.",
+    quote: "Sống trong hiện tại, hòa hợp với chính mình và hòa hợp với vạn vật xung quanh – đó chính là Nghệ Thuật Sống.",
+    translator: "United Buddhist Publisher",
+    category: "Tâm lý học & Thiền chánh niệm",
+    tags: ["Vipassana", "Thiền định", "Chánh niệm", "Tâm thức", "Bình an nội tâm", "Nghệ thuật sống", "Phật giáo"],
+    description: "Tác phẩm kinh điển trình bày toàn diện, hệ thống và chuẩn xác về phương pháp hành thiền Vipassana theo sự giảng dạy của Thiền sư S. N. Goenka, giúp con người thanh lọc tâm, giải thoát khổ đau và tìm thấy sự bình an, hòa hợp đích thực ngay trong đời sống hiện tại.",
+    gradient: "from-emerald-800 via-teal-900 to-stone-900",
+    themeColor: "#15803d",
+    status: "available"
   }
 };
 

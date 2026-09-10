@@ -1,0 +1,188 @@
+{
+  "bookId": "NgheThuatSong",
+  "chapterId": "chuong_02",
+  "chapterTitle": "Chương 2: Điểm Khởi Đầu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Sự khác biệt cốt lõi nhất giữa sự khám phá về vật chất của các nhà vật lý lượng tử hiện đại và sự chứng ngộ của Đức Phật là gì?",
+      "options": [
+        "Đức Phật cho rằng vật chất là vĩnh cửu, trong khi các nhà khoa học chứng minh vật chất là hư vô.",
+        "Các nhà khoa học không tin vào sự tồn tại của các hạt hạ nguyên tử.",
+        "Nhà khoa học khám phá ra hạt hạ nguyên tử bằng thiết bị đo lường bên ngoài với động cơ tri thức và bản thân vẫn đầy đau khổ; Đức Phật trực nghiệm bản chất vi tử (kalāpas) bằng tâm định tĩnh nội tại với mục đích giải thoát sinh tử.",
+        "Khoa học lượng tử chỉ áp dụng cho vũ trụ bao la, còn tuệ giác của Phật chỉ áp dụng cho đạo đức xã hội."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhà khoa học đạt giải Nobel dùng buồng bọt bóng nhận ra vi tử sinh diệt 10^22 lần mỗi giây nhưng chỉ là tri thức trí óc, tâm vẫn bất an. Đức Phật trực nghiệm dòng sinh diệt liên tục của kalapas trên chính thân mình, nhờ đó dứt bỏ hoàn toàn sự chấp thủ vào thân thể và đạt giải thoát hoàn toàn."
+    },
+    {
+      "id": "q2",
+      "question": "Tiến trình vật chất (Rūpa) cấu tạo nên cơ thể con người theo tuệ giác của Đức Phật có bản chất thực tại tối hậu là gì?",
+      "options": [
+        "Một khối vật chất rắn chắc, cố định và trường tồn từ lúc sinh ra đến khi chết.",
+        "Một tập hợp các linh hồn nhỏ bé đang chờ ngày phán xét.",
+        "Một ảo ảnh quang học hoàn toàn không có bất kỳ đặc tính vật lý nào.",
+        "Một dòng chảy không ngừng nghỉ của các đơn vị bất khả phân (kalāpas) sinh ra và diệt mất trong từng khoảnh khắc ngắn ngủi hơn một phần tỷ giây."
+      ],
+      "correctIndex": 3,
+      "explanation": "Thực tại bề ngoài trông có vẻ đặc chắc, nhưng ở mức độ vi mô, toàn bộ cơ thể là dòng rung động sinh diệt liên tục của các kalapas phô diễn 4 đặc tính căn bản: đất (chất đặc, trọng lượng), nước (sức gắn kết), lửa (nhiệt độ), và gió (chuyển động)."
+    },
+    {
+      "id": "q3",
+      "question": "Trong 4 tiến trình tinh thần (Nāma), tiến trình 'Thức' (Viññāṇa) đóng vai trò gì trong việc xử lý thông tin giác quan?",
+      "options": [
+        "Ghi nhận khách quan, trần trụi sự tiếp xúc giữa giác quan và đối tượng mà không hề dán nhãn, định giá hay phân biệt tốt xấu.",
+        "Đánh giá và phân loại xem đối tượng đó là người quen hay kẻ thù.",
+        "Tạo ra cảm giác sung sướng tột cùng hoặc đau đớn dữ dội.",
+        "Kích hoạt hành động tấn công hoặc bỏ chạy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thức (Viññāṇa) là sự hay biết thuần túy, bộ phận tiếp nhận thụ động chỉ làm nhiệm vụ ghi nhận dữ kiện thô của trải nghiệm khi giác quan tiếp xúc với cảnh mà chưa hề có sự can thiệp của ý niệm hay phán xét."
+    },
+    {
+      "id": "q4",
+      "question": "Tiến trình 'Tưởng' (Saññā) bắt đầu can thiệp vào nhận thức của con người như thế nào?",
+      "options": [
+        "Tạo ra hơi thở giúp cơ thể duy trì sự sống.",
+        "Nhận diện, phân loại, dán nhãn và đưa ra sự đánh giá tích cực hay tiêu cực dựa trên kho tàng ký ức và định kiến quá khứ.",
+        "Xóa sạch toàn bộ ký ức để tâm trở về trạng thái vô thức.",
+        "Tự động chữa lành các tổn thương tế bào của cơ thể."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tưởng (Saññā) đối chiếu dữ liệu thô từ Thức với trải nghiệm quá khứ để đặt tên, phân loại và dán nhãn giá trị (tốt - xấu, đáng ưa - đáng ghét), biến một âm thanh vô hại thành 'lời khen ngọt ngào' hoặc 'lời lăng mạ cay độc'."
+    },
+    {
+      "id": "q5",
+      "question": "Cảm thọ (Vedanā) phát sinh trên cơ thể phụ thuộc trực tiếp vào yếu tố tâm lý nào đi trước nó?",
+      "options": [
+        "Số lượng thức ăn mà người đó đã tiêu thụ trong ngày.",
+        "Nhiệt độ môi trường phòng ở của thiền sinh.",
+        "Sự đánh giá và dán nhãn tích cực hay tiêu cực của Tưởng (Saññā).",
+        "Tên gọi hành chính của người đó trong giấy khai sinh."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi dữ kiện chưa được đánh giá, cảm giác trên thân là trung tính. Nhưng ngay khi Saññā gắn mác tích cực (lời khen), một cảm giác dễ chịu nổi lên trên thân; khi Saññā gắn mác tiêu cực (lời chê), một cảm giác khó chịu, bỏng rát lập tức xuất hiện."
+    },
+    {
+      "id": "q6",
+      "question": "Khâu nào trong 4 tiến trình của tâm là nguyên nhân thực sự trực tiếp tạo tác Nghiệp mới (Kamma) và trói buộc con người vào luân hồi?",
+      "options": [
+        "Thức (Viññāṇa) - vì nó mở cửa cho dữ liệu đi vào.",
+        "Hành (Saṅkhāra) - phản ứng ưa thích (tham ái) hoặc chán ghét (sân hận) đối với cảm thọ vừa khởi sinh.",
+        "Tưởng (Saññā) - vì nó chứa đựng bộ nhớ lưu trữ.",
+        "Thọ (Vedanā) - vì nó là tín hiệu báo hiệu sự việc xảy ra."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ba phần đầu (Thức, Tưởng, Thọ) chỉ là sự tiếp nhận và tiêu hóa thông tin thụ động. Chỉ khi Hành (Saṅkhāra) khởi động phản ứng yêu thích (muốn kéo dài) hoặc xua đuổi (muốn tống khứ), chuỗi nghiệp quả mới được hình thành và xoay chuyển tương lai."
+    },
+    {
+      "id": "q7",
+      "question": "Ẩn dụ về 'ngọn lửa cây nến' và 'dòng nước con sông' trong Chương 2 dùng để bác bỏ niềm tin bản năng sai lầm nào của nhân loại?",
+      "options": [
+        "Ảo tưởng rằng bên trong ta tồn tại một 'bản ngã' (cái tôi) độc lập, bất biến và liên tục qua thời gian.",
+        "Niềm tin rằng con người không có khả năng tư duy sáng tạo.",
+        "Ý niệm cho rằng ánh sáng mặt trời quan trọng hơn ánh sáng đèn điện.",
+        "Quan điểm cho rằng thiên nhiên không hề có sự biến đổi theo mùa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dòng sông trông như một thực thể cố định nhưng thực chất từng giọt nước liên tục trôi qua; ngọn nến trông như đứng yên nhưng thực chất là các đợt phát xạ năng lượng mới liên tục thay thế nhau. Tương tự, 'cái tôi' chỉ là sự tiếp nối chớp nhoáng của các tiến trình tâm - vật lý."
+    },
+    {
+      "id": "q8",
+      "question": "Khi một thiền sinh phương Tây hỏi: 'Tâm có phải chỉ nằm trong não bộ hay không?', Thiền sư Goenka đã trả lời như thế nào?",
+      "options": [
+        "Tâm hoàn toàn chỉ khu trú trong bán cầu não trái và tế bào thần kinh trung ương.",
+        "Tâm hiện diện khắp toàn bộ cơ thể, ở bất cứ nơi nào có sự cảm nhận (cảm thọ) thì ở đó có sự hiện diện của tâm.",
+        "Tâm không hề tồn tại trong cơ thể mà bay lơ lửng ngoài không gian.",
+        "Tâm chỉ xuất hiện khi con người chìm vào giấc ngủ mơ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Quan niệm phương Tây thường đồng nhất tâm với trí óc trong hộp sọ. Trong thực chứng Vipassana, tâm và thân tương tác chặt chẽ; bất cứ nơi nào trên thân có cảm giác sinh khởi, ở đó tiến trình tâm đang hoạt động."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao việc nhận thức rằng 'không có một cái tôi bất biến' (Vô ngã - Anattā) lại là chìa khóa then chốt để dứt trừ đau khổ?",
+      "options": [
+        "Vì nó giúp con người trở nên vô trách nhiệm với mọi hành vi của mình.",
+        "Vì khi không có cái tôi thì ta không cần phải làm việc kiếm sống nữa.",
+        "Vì nó khiến con người rơi vào trạng thái hư vô và trầm cảm sâu sắc.",
+        "Vì khi nhận ra không có thực thể 'cái tôi' để sở hữu hay bị tổn thương, ta chấm dứt thói quen bám víu và tự động hóa giải mọi căng thẳng nội tâm."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mọi đau khổ đều bắt nguồn từ sự chấp ngã: 'tôi bị xúc phạm', 'tài sản của tôi bị mất mát', 'khoái lạc của tôi bị gián đoạn'. Khi thấy rõ vạn pháp chỉ là dòng chảy vô thường không chủ thể, tâm sẽ buông xả sự bám chấp và tìm thấy sự bình an tuyệt đối."
+    },
+    {
+      "id": "q10",
+      "question": "Nếu một người cho rằng: 'Kẻ khác sỉ nhục tôi là nguyên nhân duy nhất khiến tôi đau khổ', Thiền sư Goenka sẽ phân tích tình huống này như thế nào?",
+      "options": [
+        "Không ai có thể gây khổ cho bạn; chính bạn tự làm khổ mình bằng cách tạo ra phản ứng sân hận và căng thẳng bên trong tâm trước lời sỉ nhục đó.",
+        "Đúng vậy, kẻ sỉ nhục là thủ phạm hoàn toàn và phải bị pháp luật trừng phạt nghiêm khắc nhất.",
+        "Bạn nên sỉ nhục lại đối phương để lấy lại sự cân bằng năng lượng tinh thần.",
+        "Nỗi đau đó là do sự sắp đặt của định mệnh mà bạn không thể thay đổi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lời nói của đối phương chỉ là một chấn động âm thanh bên ngoài. Sự đau khổ chỉ bùng phát khi tâm ta tiếp nhận, dán nhãn tiêu cực và tạo ra phản ứng tức giận thiêu đốt chính mình. Nếu ta giữ được tâm bình thản không phản ứng, lời xúc phạm hoàn toàn bất lực."
+    },
+    {
+      "id": "q11",
+      "question": "Hình ảnh 'tưới nước cho từng cái cây trong khu rừng bị héo úa' hàm chứa triết lý hành động xã hội nào của Vipassana?",
+      "options": [
+        "Chỉ cần bảo vệ tài nguyên môi trường tự nhiên là mọi xung đột xã hội sẽ tự chấm dứt.",
+        "Nhà nước nên bắt buộc mọi người dân phải đi trồng rừng mỗi năm.",
+        "Muốn cải tạo xã hội và mang lại hòa bình thế giới, ta phải bắt đầu từ việc chuyển hóa và thanh lọc nội tâm của từng cá nhân riêng lẻ.",
+        "Các hoạt động cứu trợ nhân đạo cộng đồng là hoàn toàn vô ích và lãng phí thời gian."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khu rừng không phải một thực thể trừu tượng tách rời các cây. Muốn rừng xanh tốt, từng thân cây phải khỏe mạnh. Xã hội chỉ thực sự hòa bình khi từng con người trong đó biết cách dập tắt ngọn lửa sân hận và tham lam trong tâm mình."
+    },
+    {
+      "id": "q12",
+      "question": "Lý do sâu xa nào khiến Thiền sư Goenka từ chối gắn nhãn phương pháp của mình là 'Đại thừa' (Mahāyāna) hay 'Tiểu thừa' (Hīnayāna)?",
+      "options": [
+        "Vì ông muốn sáng lập ra một tông phái thứ ba hoàn toàn mới mang tên mình.",
+        "Vì chính quyền địa phương cấm đoán việc nhắc đến các danh xưng Phật giáo truyền thống.",
+        "Vì các tông phái đó không có kinh điển bằng tiếng Anh.",
+        "Vì Dhamma (Chân lý) là quy luật phổ quát của tự nhiên dành cho toàn nhân loại, việc chia chẻ thành các tông phái làm thu hẹp và bóp méo tinh thần giải thoát bao la của Đức Phật."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Yāna' vốn có nghĩa là cỗ xe chở hành giả đến đích, nhưng đã bị biến thành ranh giới chia rẽ bè phái. Bản chất của Chân lý là phi tông phái; quy luật vận hành của tâm và thân không mang nhãn hiệu tôn giáo nào."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao trong đời sống thường nhật chúng ta vẫn phải dùng các khái niệm 'tôi', 'anh', 'tên gọi' dù trên thực tế tối hậu chúng không có thực?",
+      "options": [
+        "Vì chúng ta không có đủ dũng khí để sống một cách khác biệt với đám đông.",
+        "Vì ngôn ngữ quy ước (chân đế vs tục đế) là công cụ giao tiếp thực tiễn cần thiết để xã hội vận hành, miễn là trong thâm tâm ta không bị mê mờ bám chấp vào chúng.",
+        "Vì pháp luật bắt buộc mọi công dân phải có tên họ trên giấy tờ tùy thân.",
+        "Vì Đức Phật dạy rằng ngôn ngữ thế tục có quyền năng tối thượng hơn thực tại nội tâm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đức Phật phân biệt giữa chân lý quy ước (tục đế) và chân lý tối hậu (chân đế). Để sinh hoạt bình thường, ta vẫn dùng tên gọi và đại từ nhân xưng, nhưng bậc trí tuệ hiểu rõ bản chất vô ngã bên dưới lớp vỏ ngôn từ đó."
+    },
+    {
+      "id": "q14",
+      "question": "Khi đối diện với một người đang thực hiện hành vi bạo lực hoặc sai trái, hành giả Vipassana được khuyên ngăn chặn với trạng thái tâm lý nào?",
+      "options": [
+        "Quyết liệt ngăn chặn hành vi xấu ác nhưng lòng tràn ngập thiện ý và tình thương, xem kẻ đó là một bệnh nhân đang phát điên vì nọc độc vô minh.",
+        "Căm thù tột độ để tạo ra sức mạnh thể chất áp đảo đối phương.",
+        "Thờ ơ, lạnh lùng vì cho rằng kẻ đó đang tự tạo nghiệp và sẽ bị quả báo.",
+        "Cầu nguyện xin thần linh trừng phạt kẻ đó bằng sấm sét."
+      ],
+      "correctIndex": 0,
+      "explanation": "Người làm điều ác thực chất là nạn nhân đầu tiên của cơn giận và vô minh của chính họ. Ngăn chặn họ là cứu cả nạn nhân lẫn kẻ thủ ác, và hành động này chỉ đạt hiệu quả tối ưu khi xuất phát từ sự bình tĩnh và lòng bi mẫn, không pha lẫn oán hờn."
+    },
+    {
+      "id": "q15",
+      "question": "Khoảng thời gian sinh tồn của một hạt hạ nguyên tử (kalāpa) được mô tả trong chương sách là bao lâu?",
+      "options": [
+        "Khoảng vài phút sau mỗi chu kỳ hô hấp.",
+        "Tồn tại cố định suốt đời người và chỉ tan biến sau khi hỏa táng.",
+        "Kéo dài đúng 24 giờ theo chu kỳ ngày và đêm của trái đất.",
+        "Ngắn hơn một phần tỷ giây đồng hồ, sinh và diệt liên tục như một làn sóng rung động vô tận."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đức Phật đã chứng nghiệm rằng vi tử kalāpa có chu kỳ sinh diệt cực kỳ chớp nhoáng (ngắn hơn 1 phần tỷ giây), chứng minh tính vô thường rốt ráo (Anicca) của mọi cấu trúc vật chất."
+    }
+  ]
+}
