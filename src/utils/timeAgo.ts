@@ -1,6 +1,6 @@
-export function formatTimeAgo(isoString: string): string {
+export function formatTimeAgo(timeInput: string | number | Date): string {
   try {
-    const date = new Date(isoString);
+    const date = new Date(timeInput);
     const now = new Date();
     const diffSec = Math.floor((now.getTime() - date.getTime()) / 1000);
 

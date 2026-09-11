@@ -36,11 +36,13 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     }
 
     // Run parallel queries
-    const [userCountRow, commentCountRow, reactionCountRow, distributionRows] = await Promise.all([
+    const [userCountRow, commentCountRow, reactionCountRow, distributionRows, readerCountRow, readingBooksRow] = await Promise.all([
       env.DB.prepare('SELECT COUNT(*) as count FROM users').first() as any,
       env.DB.prepare('SELECT COUNT(*) as count FROM comments WHERE is_deleted = 0').first() as any,
       env.DB.prepare('SELECT COUNT(*) as count FROM reactions').first() as any,
       env.DB.prepare('SELECT reaction_type, COUNT(*) as count FROM reactions GROUP BY reaction_type').all(),
+      env.DB.prepare('SELECT COUNT(DISTINCT user_id) as count FROM reading_history').first().catch(() => ({ count: 0 })) as any,
+      env.DB.prepare('SELECT COUNT(*) as count FROM reading_history').first().catch(() => ({ count: 0 })) as any,
     ]);
 
     const reactionDistribution: Record<string, number> = {};
@@ -54,6 +56,8 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
           totalUsers: Number(userCountRow?.count) || 0,
           totalComments: Number(commentCountRow?.count) || 0,
           totalReactions: Number(reactionCountRow?.count) || 0,
+          totalActiveReaders: Number(readerCountRow?.count) || 0,
+          totalReadingBooks: Number(readingBooksRow?.count) || 0,
           reactionDistribution,
         },
       }),

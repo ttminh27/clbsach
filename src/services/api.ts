@@ -1,5 +1,6 @@
-import { User, AuthResponse, AdminStats, AdminComment, AdminReaction } from '../types/auth';
+import { User, AuthResponse, AdminStats, AdminComment, AdminReaction, AdminReadingProgressItem } from '../types/auth';
 import { CommentItem, ReactionSummary, TargetType, ReactionType } from '../types/interaction';
+import { ReadingProgress, HistoryMap } from '../types/book';
 
 const TOKEN_KEY = 'clb_auth_token';
 
@@ -222,6 +223,52 @@ export const adminApi = {
 
   async deleteReaction(reactionId: string): Promise<{ success: boolean; message: string }> {
     return request<{ success: boolean; message: string }>(`/api/admin/reactions?reactionId=${encodeURIComponent(reactionId)}`, {
+      method: 'DELETE',
+    });
+  },
+
+  async getReadingProgress(params?: {
+    userId?: string;
+    bookId?: string;
+    q?: string;
+  }): Promise<{ items: AdminReadingProgressItem[]; total: number }> {
+    const sp = new URLSearchParams();
+    if (params?.userId) sp.append('userId', params.userId);
+    if (params?.bookId) sp.append('bookId', params.bookId);
+    if (params?.q) sp.append('q', params.q);
+    const qs = sp.toString() ? `?${sp.toString()}` : '';
+    return request<{ items: AdminReadingProgressItem[]; total: number }>(`/api/admin/reading-progress${qs}`);
+  },
+};
+
+// 5. Reading History API (D1 Database for logged-in users)
+export const historyApi = {
+  async getHistory(): Promise<{ history: HistoryMap }> {
+    return request<{ history: HistoryMap }>('/api/history');
+  },
+
+  async saveProgress(progress: ReadingProgress): Promise<{ success: boolean }> {
+    return request<{ success: boolean }>('/api/history', {
+      method: 'POST',
+      body: JSON.stringify(progress),
+    });
+  },
+
+  async syncHistory(items: ReadingProgress[]): Promise<{ success: boolean }> {
+    return request<{ success: boolean }>('/api/history', {
+      method: 'POST',
+      body: JSON.stringify({ items }),
+    });
+  },
+
+  async clearHistoryForBook(bookId: string): Promise<{ success: boolean }> {
+    return request<{ success: boolean }>(`/api/history?bookId=${encodeURIComponent(bookId)}`, {
+      method: 'DELETE',
+    });
+  },
+
+  async clearAllHistory(): Promise<{ success: boolean }> {
+    return request<{ success: boolean }>('/api/history', {
       method: 'DELETE',
     });
   },

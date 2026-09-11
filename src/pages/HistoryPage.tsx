@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { History, BookOpen, Clock, Trash2, ArrowRight, CheckCircle2 } from 'lucide-react';
+import { History, BookOpen, Clock, Trash2, ArrowRight, CheckCircle2, Cloud, HardDrive } from 'lucide-react';
 import { useHistory } from '../context/HistoryContext';
 import booksData from '../data/books-manifest.json';
 import { Book } from '../types/book';
@@ -8,7 +8,7 @@ import { Book } from '../types/book';
 const books: Book[] = booksData as Book[];
 
 export const HistoryPage: React.FC = () => {
-  const { history, clearHistoryForBook, clearAllHistory } = useHistory();
+  const { history, isCloudSync, clearHistoryForBook, clearAllHistory } = useHistory();
   const historyList = Object.values(history).sort((a, b) => b.lastReadAt - a.lastReadAt);
 
   useEffect(() => {
@@ -17,14 +17,29 @@ export const HistoryPage: React.FC = () => {
 
   return (
     <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-8">
-      <div className="flex items-center justify-between pb-6 border-b border-slate-200 dark:border-slate-800 mb-8">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-6 border-b border-slate-200 dark:border-slate-800 mb-8">
         <div>
-          <h1 className="text-2xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
-            <History className="h-6 w-6 text-emerald-600 dark:text-emerald-400" />
-            Lịch Sử & Tiến Độ Đọc
-          </h1>
-          <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
-            Ghi nhớ tự động các chương bạn đã và đang đọc dở trên thiết bị này.
+          <div className="flex items-center gap-2">
+            <h1 className="text-2xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
+              <History className="h-6 w-6 text-emerald-600 dark:text-emerald-400" />
+              Lịch Sử & Tiến Độ Đọc
+            </h1>
+            {isCloudSync ? (
+              <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[11px] font-semibold bg-emerald-50 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-300 border border-emerald-200/60 dark:border-emerald-900/40">
+                <Cloud className="h-3 w-3" />
+                Đồng bộ tài khoản (D1)
+              </span>
+            ) : (
+              <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[11px] font-semibold bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">
+                <HardDrive className="h-3 w-3" />
+                Trên thiết bị này
+              </span>
+            )}
+          </div>
+          <p className="text-xs text-slate-500 dark:text-slate-400 mt-1.5">
+            {isCloudSync
+              ? 'Tiến độ đọc của bạn được tự động sao lưu an toàn vào cơ sở dữ liệu tài khoản, tiếp tục đọc trên mọi thiết bị.'
+              : 'Đang ghi nhận tạm trên trình duyệt thiết bị này. Đăng nhập tài khoản để đồng bộ tiến độ đọc qua mọi thiết bị!'}
           </p>
         </div>
 

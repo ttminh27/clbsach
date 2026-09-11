@@ -23,10 +23,15 @@ import {
   UserCheck,
   UserX,
   ExternalLink,
+  BookOpen,
+  Clock,
+  ChevronDown,
+  ChevronUp,
+  BookmarkCheck,
 } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import { adminApi } from '../services/api';
-import { User, AdminStats, AdminComment, AdminReaction } from '../types/auth';
+import { User, AdminStats, AdminComment, AdminReaction, AdminReadingProgressItem } from '../types/auth';
 import { REACTION_DEFINITIONS } from '../types/interaction';
 import { AvatarIcon, getAvatarBg } from '../components/auth/AvatarPresets';
 import { formatTimeAgo } from '../utils/timeAgo';
@@ -39,8 +44,8 @@ export const AdminPage: React.FC = () => {
   const { user, isAuthenticated, isLoading: isAuthLoading, openAuthModal } = useAuth();
   const navigate = useNavigate();
 
-  // Active Tab: 'users' | 'comments' | 'reactions'
-  const [activeTab, setActiveTab] = useState<'users' | 'comments' | 'reactions'>('users');
+  // Active Tab: 'users' | 'reading-progress' | 'comments' | 'reactions'
+  const [activeTab, setActiveTab] = useState<'users' | 'reading-progress' | 'comments' | 'reactions'>('users');
 
   // Stats
   const [stats, setStats] = useState<AdminStats | null>(null);
@@ -50,6 +55,14 @@ export const AdminPage: React.FC = () => {
   const [users, setUsers] = useState<User[]>([]);
   const [userSearch, setUserSearch] = useState('');
   const [usersLoading, setUsersLoading] = useState(false);
+
+  // Tab 2: Reading Progress state
+  const [readingProgress, setReadingProgress] = useState<AdminReadingProgressItem[]>([]);
+  const [progressSearch, setProgressSearch] = useState('');
+  const [progressBookFilter, setProgressBookFilter] = useState('');
+  const [progressUserFilter, setProgressUserFilter] = useState('');
+  const [progressLoading, setProgressLoading] = useState(false);
+  const [expandedProgressIds, setExpandedProgressIds] = useState<Record<string, boolean>>({});
 
   // User Action Modals
   const [resetTargetUser, setResetTargetUser] = useState<User | null>(null);
@@ -64,14 +77,14 @@ export const AdminPage: React.FC = () => {
   const [deleteTargetUser, setDeleteTargetUser] = useState<User | null>(null);
   const [deletingUser, setDeletingUser] = useState(false);
 
-  // Tab 2: Comments state
+  // Tab 3: Comments state
   const [comments, setComments] = useState<AdminComment[]>([]);
   const [commentSearch, setCommentSearch] = useState('');
   const [commentStatusFilter, setCommentStatusFilter] = useState<'all' | 'active' | 'deleted'>('all');
   const [commentUserFilter, setCommentUserFilter] = useState<string>('');
   const [commentsLoading, setCommentsLoading] = useState(false);
 
-  // Tab 3: Reactions state
+  // Tab 4: Reactions state
   const [reactions, setReactions] = useState<AdminReaction[]>([]);
   const [reactionTypeFilter, setReactionTypeFilter] = useState<string>('');
   const [reactionTargetFilter, setReactionTargetFilter] = useState<string>('');
@@ -158,11 +171,33 @@ export const AdminPage: React.FC = () => {
     }
   };
 
+  // 5. Fetch Reading Progress
+  const loadReadingProgress = async (
+    search = progressSearch,
+    bookId = progressBookFilter,
+    userId = progressUserFilter
+  ) => {
+    setProgressLoading(true);
+    try {
+      const res = await adminApi.getReadingProgress({
+        q: search,
+        bookId,
+        userId,
+      });
+      setReadingProgress(res.items);
+    } catch (err: any) {
+      showNotification(err.message || 'Không thể tải tiến độ đọc của người dùng.', true);
+    } finally {
+      setProgressLoading(false);
+    }
+  };
+
   // Load initial data when admin authenticated
   useEffect(() => {
     if (isAuthenticated && user?.role === 'admin') {
       loadStats();
       loadUsers();
+      loadReadingProgress();
       loadComments();
       loadReactions();
     }
@@ -173,12 +208,14 @@ export const AdminPage: React.FC = () => {
     if (!isAuthenticated || user?.role !== 'admin') return;
     if (activeTab === 'users') {
       loadUsers();
+    } else if (activeTab === 'reading-progress') {
+      loadReadingProgress();
     } else if (activeTab === 'comments') {
       loadComments();
     } else if (activeTab === 'reactions') {
       loadReactions();
     }
-  }, [activeTab, commentStatusFilter, commentUserFilter, reactionTypeFilter, reactionTargetFilter, reactionUserFilter]);
+  }, [activeTab, commentStatusFilter, commentUserFilter, reactionTypeFilter, reactionTargetFilter, reactionUserFilter, progressBookFilter, progressUserFilter]);
 
   // User Actions: Password Reset
   const handleExecuteResetPassword = async (e: React.FormEvent) => {
@@ -296,13 +333,16 @@ export const AdminPage: React.FC = () => {
   };
 
   // Quick switch to tab filtered by user
-  const handleFilterByUser = (userId: string, targetTab: 'comments' | 'reactions') => {
+  const handleFilterByUser = (userId: string, targetTab: 'comments' | 'reactions' | 'reading-progress') => {
     if (targetTab === 'comments') {
       setCommentUserFilter(userId);
       setActiveTab('comments');
-    } else {
+    } else if (targetTab === 'reactions') {
       setReactionUserFilter(userId);
       setActiveTab('reactions');
+    } else {
+      setProgressUserFilter(userId);
+      setActiveTab('reading-progress');
     }
   };
 
@@ -401,19 +441,20 @@ export const AdminPage: React.FC = () => {
             onClick={() => {
               loadStats();
               if (activeTab === 'users') loadUsers();
+              if (activeTab === 'reading-progress') loadReadingProgress();
               if (activeTab === 'comments') loadComments();
               if (activeTab === 'reactions') loadReactions();
             }}
             className="flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-xs font-semibold text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-800 shadow-xs transition-colors"
           >
-            <RefreshCw className={`h-3.5 w-3.5 ${statsLoading || usersLoading || commentsLoading || reactionsLoading ? 'animate-spin text-emerald-600' : ''}`} />
+            <RefreshCw className={`h-3.5 w-3.5 ${statsLoading || usersLoading || commentsLoading || reactionsLoading || progressLoading ? 'animate-spin text-emerald-600' : ''}`} />
             <span>Làm mới dữ liệu</span>
           </button>
         </div>
       </div>
 
       {/* Metrics Overview Cards */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
         {/* Total Users */}
         <div className="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800/80 shadow-xs flex items-center gap-4">
           <div className="w-12 h-12 rounded-2xl bg-emerald-50 dark:bg-emerald-950/60 text-emerald-600 dark:text-emerald-400 flex items-center justify-center shrink-0">
@@ -423,6 +464,19 @@ export const AdminPage: React.FC = () => {
             <p className="text-xs font-semibold text-slate-500 dark:text-slate-400">Tổng Đọc Giả</p>
             <h3 className="text-2xl font-black text-slate-900 dark:text-white mt-0.5">
               {stats?.totalUsers ?? '...'}
+            </h3>
+          </div>
+        </div>
+
+        {/* Active Readers */}
+        <div className="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800/80 shadow-xs flex items-center gap-4">
+          <div className="w-12 h-12 rounded-2xl bg-teal-50 dark:bg-teal-950/60 text-teal-600 dark:text-teal-400 flex items-center justify-center shrink-0">
+            <BookOpen className="h-6 w-6" />
+          </div>
+          <div>
+            <p className="text-xs font-semibold text-slate-500 dark:text-slate-400">Đang Đọc Sách</p>
+            <h3 className="text-2xl font-black text-slate-900 dark:text-white mt-0.5">
+              {stats?.totalActiveReaders ?? '...'}
             </h3>
           </div>
         </div>
@@ -468,10 +522,10 @@ export const AdminPage: React.FC = () => {
       </div>
 
       {/* Main Tabs Navigation */}
-      <div className="flex border-b border-slate-200 dark:border-slate-800">
+      <div className="flex border-b border-slate-200 dark:border-slate-800 overflow-x-auto">
         <button
           onClick={() => setActiveTab('users')}
-          className={`flex items-center gap-2 pb-3.5 px-4 text-sm font-bold border-b-2 transition-colors ${
+          className={`flex items-center gap-2 pb-3.5 px-4 text-sm font-bold border-b-2 transition-colors whitespace-nowrap ${
             activeTab === 'users'
               ? 'border-emerald-600 text-emerald-600 dark:border-emerald-400 dark:text-emerald-400'
               : 'border-transparent text-slate-500 hover:text-slate-800 dark:hover:text-slate-300'
@@ -485,8 +539,23 @@ export const AdminPage: React.FC = () => {
         </button>
 
         <button
+          onClick={() => setActiveTab('reading-progress')}
+          className={`flex items-center gap-2 pb-3.5 px-4 text-sm font-bold border-b-2 transition-colors whitespace-nowrap ${
+            activeTab === 'reading-progress'
+              ? 'border-emerald-600 text-emerald-600 dark:border-emerald-400 dark:text-emerald-400'
+              : 'border-transparent text-slate-500 hover:text-slate-800 dark:hover:text-slate-300'
+          }`}
+        >
+          <BookOpen className="h-4 w-4" />
+          <span>Tiến Độ Đọc Sách</span>
+          <span className="px-2 py-0.5 rounded-full text-xs bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">
+            {readingProgress.length}
+          </span>
+        </button>
+
+        <button
           onClick={() => setActiveTab('comments')}
-          className={`flex items-center gap-2 pb-3.5 px-4 text-sm font-bold border-b-2 transition-colors ${
+          className={`flex items-center gap-2 pb-3.5 px-4 text-sm font-bold border-b-2 transition-colors whitespace-nowrap ${
             activeTab === 'comments'
               ? 'border-emerald-600 text-emerald-600 dark:border-emerald-400 dark:text-emerald-400'
               : 'border-transparent text-slate-500 hover:text-slate-800 dark:hover:text-slate-300'
@@ -501,7 +570,7 @@ export const AdminPage: React.FC = () => {
 
         <button
           onClick={() => setActiveTab('reactions')}
-          className={`flex items-center gap-2 pb-3.5 px-4 text-sm font-bold border-b-2 transition-colors ${
+          className={`flex items-center gap-2 pb-3.5 px-4 text-sm font-bold border-b-2 transition-colors whitespace-nowrap ${
             activeTab === 'reactions'
               ? 'border-emerald-600 text-emerald-600 dark:border-emerald-400 dark:text-emerald-400'
               : 'border-transparent text-slate-500 hover:text-slate-800 dark:hover:text-slate-300'
@@ -608,8 +677,16 @@ export const AdminPage: React.FC = () => {
                         <td className="py-4 px-4 whitespace-nowrap">
                           <div className="flex items-center gap-3 text-xs">
                             <button
-                              onClick={() => handleFilterByUser(u.id, 'comments')}
+                              onClick={() => handleFilterByUser(u.id, 'reading-progress')}
                               className="flex items-center gap-1 text-slate-600 dark:text-slate-400 hover:text-emerald-600 transition-colors"
+                              title="Xem tiến độ đọc sách của đọc giả này"
+                            >
+                              <BookOpen className="h-3.5 w-3.5 text-emerald-500" />
+                              <span>{u.readingCount ?? 0}</span>
+                            </button>
+                            <button
+                              onClick={() => handleFilterByUser(u.id, 'comments')}
+                              className="flex items-center gap-1 text-slate-600 dark:text-slate-400 hover:text-sky-600 transition-colors"
                               title="Xem bình luận của đọc giả này"
                             >
                               <MessageSquare className="h-3.5 w-3.5 text-sky-500" />
@@ -632,6 +709,16 @@ export const AdminPage: React.FC = () => {
 
                         <td className="py-4 px-6 whitespace-nowrap text-right">
                           <div className="flex items-center justify-end gap-1.5">
+                            {/* View Reading Progress */}
+                            <button
+                              onClick={() => handleFilterByUser(u.id, 'reading-progress')}
+                              className="flex items-center gap-1 px-2.5 py-1.5 rounded-xl bg-slate-100 hover:bg-emerald-50 text-slate-700 hover:text-emerald-700 dark:bg-slate-800 dark:hover:bg-emerald-950/60 dark:text-slate-300 dark:hover:text-emerald-400 text-xs font-semibold transition-colors"
+                              title="Xem tiến độ đọc của đọc giả này"
+                            >
+                              <BookOpen className="h-3.5 w-3.5" />
+                              <span>Tiến độ</span>
+                            </button>
+
                             {/* Reset Password */}
                             <button
                               onClick={() => {
@@ -683,7 +770,241 @@ export const AdminPage: React.FC = () => {
       )}
 
       {/* ========================================================================= */}
-      {/* TAB 2: COMMENTS MANAGEMENT                                                */}
+      {/* TAB 2: READING PROGRESS MANAGEMENT                                        */}
+      {/* ========================================================================= */}
+      {activeTab === 'reading-progress' && (
+        <div className="space-y-6">
+          {/* Filters Bar */}
+          <div className="flex flex-col md:flex-row gap-3 items-stretch md:items-center justify-between">
+            <div className="flex flex-col sm:flex-row gap-2.5 flex-1">
+              {/* Search */}
+              <div className="relative flex-1">
+                <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 h-4 w-4 text-slate-400" />
+                <input
+                  type="text"
+                  placeholder="Tìm theo tên độc giả, email, tên sách..."
+                  value={progressSearch}
+                  onChange={(e) => setProgressSearch(e.target.value)}
+                  onKeyDown={(e) => e.key === 'Enter' && loadReadingProgress()}
+                  className="w-full pl-10 pr-4 py-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-sm focus:outline-hidden focus:ring-2 focus:ring-emerald-500"
+                />
+              </div>
+
+              {/* Book Filter */}
+              <select
+                value={progressBookFilter}
+                onChange={(e) => setProgressBookFilter(e.target.value)}
+                className="px-3 py-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-xs font-medium text-slate-700 dark:text-slate-200 focus:outline-hidden"
+              >
+                <option value="">Tất cả sách ({books.length})</option>
+                {books.map((b) => (
+                  <option key={b.id} value={b.id}>
+                    {b.title}
+                  </option>
+                ))}
+              </select>
+
+              {/* User filter tag if active */}
+              {progressUserFilter && (
+                <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-50 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-300 text-xs font-semibold whitespace-nowrap">
+                  <span>
+                    Lọc theo: {users.find((u) => u.id === progressUserFilter)?.name || 'Độc giả'}
+                  </span>
+                  <button
+                    onClick={() => setProgressUserFilter('')}
+                    className="hover:text-rose-600 ml-1 font-bold"
+                    title="Bỏ lọc theo độc giả"
+                  >
+                    ✕
+                  </button>
+                </div>
+              )}
+            </div>
+
+            <button
+              onClick={() => loadReadingProgress()}
+              className="flex items-center justify-center gap-1.5 px-4 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-semibold shadow-xs transition-colors"
+            >
+              <Search className="h-3.5 w-3.5" />
+              <span>Tìm kiếm</span>
+            </button>
+          </div>
+
+          {/* Reading Progress Content */}
+          <div className="space-y-3">
+            {progressLoading ? (
+              <div className="p-12 text-center text-slate-400 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800">
+                <Loader2 className="h-7 w-7 animate-spin mx-auto mb-2 text-emerald-500" />
+                <p className="text-xs">Đang tải tiến độ đọc của độc giả...</p>
+              </div>
+            ) : readingProgress.length === 0 ? (
+              <div className="p-12 text-center text-slate-500 bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800">
+                <BookOpen className="h-8 w-8 mx-auto mb-2 text-slate-300 dark:text-slate-700" />
+                <p className="text-sm font-semibold">Chưa có tiến độ đọc nào từ người dùng có đăng nhập.</p>
+                <p className="text-xs text-slate-400 mt-1">
+                  Khi người dùng đăng nhập và đọc sách, tiến độ sẽ tự động lưu vào cơ sở dữ liệu D1 và hiển thị tại đây.
+                </p>
+              </div>
+            ) : (
+              readingProgress.map((item) => {
+                const book = books.find((b) => b.id === item.bookId);
+                const totalChapters = book?.totalChapters || 1;
+                const completedCount = item.completedChapterIds?.length || 0;
+                const calculatedPercent = Math.min(100, Math.max(item.progressPercent, Math.round((completedCount / totalChapters) * 100)));
+                const isExpanded = Boolean(expandedProgressIds[item.id]);
+
+                return (
+                  <div
+                    key={item.id}
+                    className="p-5 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800/80 shadow-xs hover:border-emerald-200 dark:hover:border-emerald-800/60 transition-all space-y-4"
+                  >
+                    {/* Header Row: User Info & Meta */}
+                    <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-slate-100 dark:border-slate-800/70">
+                      <div className="flex items-center gap-3">
+                        <div className={`w-10 h-10 rounded-2xl flex items-center justify-center shrink-0 shadow-2xs ${getAvatarBg(item.userAvatar)}`}>
+                          <AvatarIcon avatarId={item.userAvatar} className="h-5 w-5" />
+                        </div>
+                        <div className="min-w-0">
+                          <div className="flex items-center gap-2 flex-wrap">
+                            <h4 className="font-bold text-slate-900 dark:text-white text-sm truncate">
+                              {item.userName}
+                            </h4>
+                            {item.userRole === 'admin' && (
+                              <span className="px-1.5 py-0.5 rounded-md text-[10px] font-bold bg-amber-100 dark:bg-amber-950 text-amber-700 dark:text-amber-400 border border-amber-200/50 dark:border-amber-900/40">
+                                Quản trị viên
+                              </span>
+                            )}
+                            <span className="text-xs text-slate-400">
+                              {item.userEmail}
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div className="flex items-center gap-2 text-xs text-slate-400 shrink-0">
+                        <Clock className="h-3.5 w-3.5" />
+                        <span title={new Date(item.lastReadAt).toLocaleString('vi-VN')}>
+                          Đọc gần nhất: {formatTimeAgo(item.lastReadAt)}
+                        </span>
+                        {!progressUserFilter && (
+                          <button
+                            onClick={() => setProgressUserFilter(item.userId)}
+                            className="ml-2 text-[11px] font-semibold text-emerald-600 dark:text-emerald-400 hover:underline"
+                          >
+                            Chỉ xem người này
+                          </button>
+                        )}
+                      </div>
+                    </div>
+
+                    {/* Book & Progress Row */}
+                    <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
+                      {/* Book info */}
+                      <div className="flex items-center gap-3 min-w-0 flex-1">
+                        <div className="h-16 w-12 shrink-0 overflow-hidden rounded-xl bg-slate-100 dark:bg-slate-800 shadow-xs border border-slate-200/60 dark:border-slate-800">
+                          {book?.coverUrl ? (
+                            <img src={book.coverUrl} alt="" className="h-full w-full object-cover" />
+                          ) : (
+                            <div className="h-full w-full bg-emerald-700 flex items-center justify-center font-bold text-[10px] text-white p-1 text-center">
+                              {item.bookTitle.slice(0, 3)}
+                            </div>
+                          )}
+                        </div>
+                        <div className="min-w-0 flex-1">
+                          <Link
+                            to={`/book/${item.bookId}`}
+                            className="font-bold text-sm text-slate-900 dark:text-white hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors truncate block"
+                          >
+                            {book?.title || item.bookTitle}
+                          </Link>
+                          <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5 truncate">
+                            Đang dừng tại: <span className="font-semibold text-emerald-600 dark:text-emerald-400">{item.lastChapterTitle || `Chương ${item.lastChapterOrder}`}</span>
+                          </p>
+                          <div className="flex items-center gap-2 text-[11px] text-slate-400 mt-1">
+                            <span>{completedCount}/{totalChapters} chương hoàn thành</span>
+                            <span>•</span>
+                            <span className="font-bold text-emerald-600 dark:text-emerald-400">{calculatedPercent}%</span>
+                          </div>
+                        </div>
+                      </div>
+
+                      {/* Progress Bar & Actions */}
+                      <div className="flex flex-col sm:flex-row sm:items-center gap-3 md:w-80 shrink-0">
+                        <div className="flex-1 space-y-1">
+                          <div className="h-2.5 w-full bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+                            <div
+                              className="h-full bg-gradient-to-r from-emerald-500 to-teal-500 rounded-full transition-all duration-300"
+                              style={{ width: `${calculatedPercent}%` }}
+                            />
+                          </div>
+                        </div>
+
+                        <div className="flex items-center gap-2 shrink-0">
+                          {item.completedChapterIds?.length > 0 && (
+                            <button
+                              onClick={() =>
+                                setExpandedProgressIds((prev) => ({
+                                  ...prev,
+                                  [item.id]: !prev[item.id],
+                                }))
+                              }
+                              className="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50 dark:bg-slate-800/60 text-xs font-semibold text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+                              title="Xem danh sách chương đã hoàn thành"
+                            >
+                              <span>{isExpanded ? 'Ẩn' : 'Chi tiết'}</span>
+                              {isExpanded ? (
+                                <ChevronUp className="h-3.5 w-3.5" />
+                              ) : (
+                                <ChevronDown className="h-3.5 w-3.5" />
+                              )}
+                            </button>
+                          )}
+
+                          <Link
+                            to={`/reader/${item.bookId}/${item.lastChapterId}`}
+                            className="inline-flex items-center gap-1 px-3 py-1.5 rounded-xl bg-emerald-50 hover:bg-emerald-100 text-emerald-700 dark:bg-emerald-950/60 dark:hover:bg-emerald-900/60 dark:text-emerald-300 text-xs font-semibold transition-colors"
+                            title="Mở chương độc giả đang đọc"
+                          >
+                            <span>Mở đọc</span>
+                            <ExternalLink className="h-3.5 w-3.5" />
+                          </Link>
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* Expandable Completed Chapters Section */}
+                    {isExpanded && item.completedChapterIds?.length > 0 && (
+                      <div className="pt-3 border-t border-slate-100 dark:border-slate-800 text-xs animate-in fade-in duration-150">
+                        <p className="font-semibold text-slate-500 dark:text-slate-400 mb-2 flex items-center gap-1.5">
+                          <BookmarkCheck className="h-4 w-4 text-emerald-600" />
+                          <span>Các chương đã hoàn thành ({item.completedChapterIds.length}):</span>
+                        </p>
+                        <div className="flex flex-wrap gap-1.5">
+                          {item.completedChapterIds.map((chId) => {
+                            const ch = book?.chapters.find((c) => c.id === chId);
+                            return (
+                              <span
+                                key={chId}
+                                className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-emerald-50/80 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 border border-emerald-200/50 dark:border-emerald-900/30 text-[11px] font-medium"
+                              >
+                                <Check className="h-3 w-3 text-emerald-600" />
+                                <span>{ch?.title || chId}</span>
+                              </span>
+                            );
+                          })}
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                );
+              })
+            )}
+          </div>
+        </div>
+      )}
+
+      {/* ========================================================================= */}
+      {/* TAB 3: COMMENTS MANAGEMENT                                                */}
       {/* ========================================================================= */}
       {activeTab === 'comments' && (
         <div className="space-y-6">

@@ -10,6 +10,7 @@ export interface User {
   updatedAt?: string;
   commentCount?: number;
   reactionCount?: number;
+  readingCount?: number;
 }
 
 export interface AuthResponse {
@@ -23,6 +24,8 @@ export interface AdminStats {
   totalUsers: number;
   totalComments: number;
   totalReactions: number;
+  totalActiveReaders?: number;
+  totalReadingBooks?: number;
   reactionDistribution: Record<string, number>;
 }
 
@@ -58,4 +61,24 @@ export interface AdminReaction {
   userAvatar: string;
   reactionType: ReactionType;
   createdAt: string;
+}
+
+export interface AdminReadingProgressItem {
+  id: string;
+  userId: string;
+  userName: string;
+  userEmail: string;
+  userAvatar: string;
+  userRole: 'member' | 'admin';
+  bookId: string;
+  bookTitle: string;
+  lastChapterId: string;
+  lastChapterTitle: string;
+  lastChapterOrder: number;
+  progressPercent: number;
+  scrollRatio: number;
+  completedChapterIds: string[];
+  lastReadAt: number;
+  createdAt: string;
+  updatedAt: string;
 }

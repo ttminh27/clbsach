@@ -42,7 +42,8 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     let query = `
       SELECT u.id, u.email, u.name, u.avatar, u.role, u.created_at, u.updated_at,
         (SELECT COUNT(*) FROM comments c WHERE c.user_id = u.id AND c.is_deleted = 0) as comment_count,
-        (SELECT COUNT(*) FROM reactions r WHERE r.user_id = u.id) as reaction_count
+        (SELECT COUNT(*) FROM reactions r WHERE r.user_id = u.id) as reaction_count,
+        (SELECT COUNT(*) FROM reading_history rh WHERE rh.user_id = u.id) as reading_count
       FROM users u
     `;
     let bindings: any[] = [];
@@ -70,6 +71,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
       updatedAt: u.updated_at,
       commentCount: Number(u.comment_count) || 0,
       reactionCount: Number(u.reaction_count) || 0,
+      readingCount: Number(u.reading_count) || 0,
     }));
 
     return new Response(JSON.stringify({ users }), {
@@ -161,10 +163,11 @@ export const onRequestDelete: PagesFunction<Env> = async (context) => {
       });
     }
 
-    // Delete comments, reactions, and user
+    // Delete comments, reactions, reading history, and user
     await env.DB.batch([
       env.DB.prepare('DELETE FROM reactions WHERE user_id = ?').bind(userId),
       env.DB.prepare('DELETE FROM comments WHERE user_id = ?').bind(userId),
+      env.DB.prepare('DELETE FROM reading_history WHERE user_id = ?').bind(userId),
       env.DB.prepare('DELETE FROM users WHERE id = ?').bind(userId),
     ]);
 
