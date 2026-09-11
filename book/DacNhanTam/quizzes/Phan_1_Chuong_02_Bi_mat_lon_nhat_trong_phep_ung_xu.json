@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Theo Sigmund Freud và triết gia John Dewey, động lực sâu xa và mãnh liệt nhất thôi thúc mọi hành vi của con người là gì?",
+      "question": "Theo Sigmund Freud và John Dewey, động lực sâu xa và mãnh liệt nhất thôi thúc mọi hành vi của con người là gì?",
       "options": [
-        "Nhu cầu tích lũy vàng bạc và của cải vật chất.",
-        "Nhu cầu ngủ và nghỉ ngơi.",
-        "Khát khao trở thành người vĩ đại - 'Khao khát được cảm thấy mình quan trọng' (the desire to be important).",
-        "Nỗi sợ hãi cái chết và bệnh tật."
+        "Khát khao được cảm thấy mình quan trọng, được thể hiện bản thân và nhận được sự công nhận từ những người xung quanh.",
+        "Nhu cầu tích lũy tài sản vật chất và tiền bạc để đảm bảo một cuộc sống an toàn, tiện nghi và đầy đủ cho bản thân.",
+        "Sự thúc đẩy từ bản năng sinh tồn cơ bản như ăn uống, ngủ nghỉ và duy trì nòi giống để tồn tại trong xã hội hiện đại.",
+        "Nỗi sợ hãi bị xã hội đào thải hoặc bị người khác đánh giá thấp, dẫn đến việc phải nỗ lực để đạt được địa vị cao."
       ],
-      "correctIndex": 2,
-      "explanation": "John Dewey gọi đó là 'sự thèm khát được quan trọng'; đây là một trong những nhu cầu tâm lý sâu thẳm nhất, ít khi được thỏa mãn đầy đủ ở con người."
+      "correctIndex": 0,
+      "explanation": "John Dewey và Freud đều nhấn mạnh rằng khao khát được cảm thấy mình quan trọng là nhu cầu tâm lý sâu sắc nhất của con người."
     },
     {
       "id": "q2",
-      "question": "Dale Carnegie so sánh 'khao khát được công nhận và tôn trọng' với những nhu cầu sinh học nào của con người?",
+      "question": "Dale Carnegie so sánh 'khao khát được công nhận' với nhu cầu nào của con người trong cuộc sống hàng ngày?",
       "options": [
-        "Nó là một thứ xa xỉ phẩm không cần thiết cho sự sống.",
-        "Nó là một sự thèm khát âm ỉ, dai dẳng như cơn đói thức ăn hay sự khát nước, nhưng lại rất hiếm khi được người khác nuôi dưỡng.",
-        "Nó chỉ xuất hiện ở những người có quyền lực chính trị.",
-        "Nó sẽ tự động biến mất khi con người già đi."
+        "Nó giống như nhu cầu được giải trí sau những giờ làm việc căng thẳng, giúp con người tái tạo lại năng lượng tinh thần.",
+        "Nó là một sự thèm khát dai dẳng, cấp bách như cơn đói thức ăn hay sự khát nước, nhưng lại ít khi được thỏa mãn.",
+        "Nó tương tự như nhu cầu được sở hữu những món đồ công nghệ hiện đại để khẳng định phong cách sống cá nhân trước xã hội.",
+        "Nó giống như nhu cầu được nghỉ ngơi sau một hành trình dài, giúp cơ thể phục hồi sức khỏe và tinh thần một cách tự nhiên."
       ],
       "correctIndex": 1,
-      "explanation": "Con người khao khát được khen ngợi và đánh giá cao chẳng khác nào cơ thể đói khát thức ăn; ai nuôi dưỡng được cơn khát tâm hồn này sẽ nắm giữ trái tim của người khác."
+      "explanation": "Carnegie ví sự khao khát được tán thưởng như cơn đói, một nhu cầu tâm lý không thể thiếu để duy trì sự cân bằng tinh thần."
     },
     {
       "id": "q3",
-      "question": "Bí quyết giúp Charles Schwab được Andrew Carnegie trả mức lương kỷ lục hơn 1 triệu USD/năm (tương đương hàng chục triệu USD ngày nay) là gì?",
+      "question": "Bí quyết giúp Charles Schwab được Andrew Carnegie trả mức lương kỷ lục là gì?",
       "options": [
-        "Khả năng cắt giảm tối đa chi phí nhân công và ép làm thêm giờ.",
-        "Khả năng khơi dậy lòng nhiệt huyết ở nhân viên thông qua việc khen ngợi chân thành và khuyến khích những nỗ lực dù nhỏ nhất.",
-        "Ông là chuyên gia kỹ thuật luyện thép giỏi nhất thế giới.",
-        "Khả năng thao túng giá thép trên thị trường tài chính."
+        "Khả năng quản lý tài chính xuất sắc giúp tập đoàn thép tiết kiệm hàng triệu đô la chi phí vận hành mỗi năm tài chính.",
+        "Kiến thức chuyên môn sâu rộng về kỹ thuật luyện thép giúp ông vượt xa các đối thủ cạnh tranh trong ngành công nghiệp.",
+        "Khả năng khơi dậy lòng nhiệt huyết ở nhân viên thông qua việc khen ngợi chân thành và khuyến khích những nỗ lực nhỏ.",
+        "Khả năng thiết lập các quy trình làm việc nghiêm ngặt để ép buộc nhân viên phải đạt hiệu suất cao nhất trong mọi dự án."
       ],
-      "correctIndex": 1,
-      "explanation": "Schwab thừa nhận: 'Khả năng khơi dậy lòng nhiệt tình ở con người là tài sản quý nhất... Tôi luôn sẵn lòng khen ngợi và rất ngần ngại khi tìm lỗi'."
+      "correctIndex": 2,
+      "explanation": "Schwab tin rằng sự tán thưởng chân thành là chìa khóa để phát huy tối đa tiềm năng và lòng nhiệt huyết của nhân viên."
     },
     {
       "id": "q4",
-      "question": "Sự khác biệt bản chất giữa 'Khen ngợi chân thành' (Appreciation) và 'Nịnh hót giả tạo' (Flattery) là gì?",
+      "question": "Sự khác biệt bản chất giữa 'Khen ngợi chân thành' và 'Nịnh hót giả tạo' là gì?",
       "options": [
-        "Khen ngợi chỉ dành cho cấp dưới, nịnh hót chỉ dành cho cấp trên.",
-        "Khen ngợi xuất phát từ đáy lòng, vô tư, tôn trọng sự thật; nịnh hót xuất phát từ cửa miệng, vụ lợi, giả dối và vị kỷ.",
-        "Nịnh hót luôn được mọi người yêu thích hơn khen ngợi.",
-        "Hai khái niệm này hoàn toàn đồng nghĩa và có tác động như nhau."
+        "Khen ngợi là hành động dành cho cấp dưới để khích lệ, còn nịnh hót là hành động dành cho cấp trên để đạt mục đích cá nhân.",
+        "Khen ngợi là sự công nhận dựa trên kết quả công việc cụ thể, còn nịnh hót là sự tán dương dựa trên những lời nói hoa mỹ.",
+        "Khen ngợi là cách giao tiếp lịch sự trong xã hội, còn nịnh hót là cách giao tiếp thiếu văn hóa và gây ra sự khó chịu.",
+        "Khen ngợi xuất phát từ tấm lòng, vô tư và tôn trọng sự thật; nịnh hót xuất phát từ cửa miệng, vụ lợi và giả dối."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự chân thành đến từ cái tâm trong sáng và sự quan sát tinh tế; nịnh hót là chiếc mặt nạ rẻ tiền mà người có óc phân định sẽ nhanh chóng khinh thường."
+      "correctIndex": 3,
+      "explanation": "Sự khác biệt nằm ở động cơ: khen ngợi là vô tư, còn nịnh hót là ích kỷ và có mục đích vụ lợi."
     },
     {
       "id": "q5",
-      "question": "Hiện tượng nhiều người bị suy nhược thần kinh hoặc tìm đến thế giới hoang tưởng (ảo tưởng mình là hoàng đế, nữ hoàng) phản ánh điều đau lòng nào về xã hội?",
+      "question": "Hiện tượng nhiều người tìm đến thế giới hoang tưởng phản ánh điều gì về nhu cầu con người?",
       "options": [
-        "Họ bị nhiễm các loại virus kỳ lạ trong không khí.",
-        "Do họ đọc quá nhiều tiểu thuyết hư cấu.",
-        "Họ quá khao khát được cảm thấy mình quan trọng trong thế giới thực nhưng bị bỏ rơi, phủ nhận và đối xử lạnh nhạt nên phải tìm kiếm sự công nhận trong cõi ảo tưởng.",
-        "Vì họ không muốn làm việc để kiếm sống."
+        "Họ khao khát được cảm thấy mình quan trọng trong thực tế nhưng bị chối bỏ, nên phải tìm sự công nhận trong cõi ảo.",
+        "Họ bị ảnh hưởng bởi các tác động tiêu cực từ môi trường sống và sự thiếu hụt các kỹ năng giao tiếp cơ bản với xã hội.",
+        "Họ đang cố gắng trốn tránh những trách nhiệm nặng nề mà cuộc sống thực tế đặt lên vai họ mỗi ngày trong công việc.",
+        "Họ đang gặp phải những vấn đề về sức khỏe tâm thần do di truyền hoặc do lối sống không lành mạnh kéo dài nhiều năm."
       ],
-      "correctIndex": 2,
-      "explanation": "Các bác sĩ tâm thần chỉ ra rằng cơn khát được cảm nhận giá trị bản thân mãnh liệt đến mức có thể đẩy con người vào ảo giác để được thỏa mãn nhu cầu đó."
+      "correctIndex": 0,
+      "explanation": "Khi thực tế không đáp ứng được nhu cầu cảm thấy mình quan trọng, con người có xu hướng tìm đến ảo tưởng để tự thỏa mãn."
     },
     {
       "id": "q6",
-      "question": "Tại sao George Washington muốn được gọi là 'Tổng thống Hợp chúng quốc Hoa Kỳ', Columbus xin danh hiệu 'Đô đốc Đại dương', và Catherine Đại đế từ chối mở những bức thư không có tước hiệu hoàng gia?",
+      "question": "Tại sao các vĩ nhân như Washington hay Catherine Đại đế lại chú trọng đến danh hiệu và tước vị?",
       "options": [
-        "Họ muốn kiếm thêm tiền phụ cấp từ ngân sách quốc gia.",
-        "Vì họ bị ám ảnh bởi các thủ tục hành chính phức tạp.",
-        "Họ muốn dọa dẫm các quốc gia láng giềng.",
-        "Đó là biểu hiện đỉnh cao của khao khát khẳng định tầm quan trọng và vị thế danh dự của bản thân trước nhân loại."
+        "Họ muốn sử dụng những danh hiệu này để củng cố quyền lực chính trị và kiểm soát các đối thủ trong bộ máy nhà nước.",
+        "Đó là biểu hiện của khao khát khẳng định tầm quan trọng và vị thế danh dự của bản thân trước nhân loại và lịch sử.",
+        "Họ tin rằng những tước hiệu cao quý sẽ giúp họ nhận được sự kính trọng tuyệt đối từ những người dân trong quốc gia.",
+        "Họ muốn tạo ra một khoảng cách xã hội cần thiết để duy trì trật tự và kỷ cương trong các mối quan hệ ngoại giao."
       ],
-      "correctIndex": 3,
-      "explanation": "Từ bậc quân vương đến thường dân, nhu cầu được thừa nhận danh dự và tầm quan trọng là động lực chi phối mạnh mẽ nhất trong lịch sử loài người."
+      "correctIndex": 1,
+      "explanation": "Ngay cả những người vĩ đại nhất cũng không thoát khỏi nhu cầu được công nhận và khẳng định tầm quan trọng của bản thân."
     },
     {
       "id": "q7",
-      "question": "Thói quen phổ biến và tai hại nhất của đa số các bậc cha mẹ và người quản lý trong giao tiếp hàng ngày là gì?",
+      "question": "Thói quen phổ biến và tai hại nhất của đa số các bậc cha mẹ và người quản lý là gì?",
       "options": [
-        "Tặng quá nhiều quà cáp vật chất cho cấp dưới.",
-        "Không bao giờ giao việc cho người khác làm.",
-        "Xem sự nỗ lực và đóng góp của người khác là điều hiển nhiên, nhưng sẵn sàng quát tháo, chỉ trích ngay khi có một lỗi lầm nhỏ xảy ra.",
-        "Khen ngợi quá nhiều khiến người khác trở nên tự cao."
+        "Thường xuyên đặt ra những tiêu chuẩn quá cao khiến cho người khác cảm thấy áp lực và không thể hoàn thành công việc.",
+        "Quá chú trọng vào việc khen ngợi những thành tích nhỏ nhặt mà quên đi việc rèn luyện kỷ luật cho cấp dưới hoặc con cái.",
+        "Xem sự nỗ lực của người khác là điều hiển nhiên, nhưng sẵn sàng chỉ trích gay gắt ngay khi có một lỗi lầm nhỏ.",
+        "Thường xuyên so sánh thành tích của người này với người khác để tạo ra sự cạnh tranh không lành mạnh trong tập thể."
       ],
       "correctIndex": 2,
-      "explanation": "'Khi ta làm tốt không ai nhớ, khi ta mắc lỗi không ai quên' — đây là căn bệnh cố hữu giết chết động lực và lòng nhiệt thành của nhân sự và người thân."
+      "explanation": "Việc coi sự cống hiến là đương nhiên và chỉ tập trung vào lỗi lầm sẽ giết chết động lực của người khác."
     },
     {
       "id": "q8",
-      "question": "Câu chuyện người vợ tham gia phong trào nhà thờ yêu cầu chồng viết ra 6 điều ông muốn bà thay đổi để trở thành người vợ tốt hơn mang lại bài học cảm động nào?",
+      "question": "Câu chuyện người vợ yêu cầu chồng liệt kê 6 điều cần thay đổi mang lại bài học gì?",
       "options": [
-        "Người chồng thuê chuyên gia tâm lý đến đánh giá vợ.",
-        "Người chồng suy nghĩ cả đêm và gửi tặng vợ bó hoa hồng cùng mảnh giấy: 'Anh không thể nghĩ ra điều gì muốn em thay đổi. Anh yêu em như chính con người em' — khiến người vợ xúc động rơi nước mắt.",
-        "Người chồng từ chối tham gia và đệ đơn ly hôn.",
-        "Người chồng đã viết một danh sách dài 20 trang để phê bình vợ."
+        "Việc thẳng thắn góp ý những điểm yếu của đối phương là cách tốt nhất để xây dựng một mối quan hệ bền vững lâu dài.",
+        "Người chồng nên dành thời gian để suy nghĩ kỹ lưỡng trước khi đưa ra những nhận xét về tính cách của người bạn đời.",
+        "Sự thay đổi bản thân là điều kiện tiên quyết để duy trì hạnh phúc trong hôn nhân và sự hòa hợp giữa hai người vợ chồng.",
+        "Sự trân trọng và chấp nhận vô điều kiện có sức mạnh hàn gắn và thăng hoa tình yêu mạnh hơn bất kỳ lời phê bình nào."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự trân trọng và chấp nhận vô điều kiện có sức mạnh hàn gắn và thăng hoa tình yêu mạnh hơn bất kỳ danh sách góp ý sửa đổi nào."
+      "correctIndex": 3,
+      "explanation": "Sự trân trọng chân thành có tác động tích cực hơn nhiều so với việc chỉ trích hoặc yêu cầu đối phương thay đổi."
     },
     {
       "id": "q9",
-      "question": "Danh ngôn của Ralph Waldo Emerson: 'Mỗi người tôi gặp đều vượt trội tôi ở một điểm nào đó, và tôi học được điều đó từ họ' thể hiện thái độ sống cốt lõi nào?",
+      "question": "Danh ngôn của Emerson về việc học hỏi từ người khác thể hiện thái độ sống nào?",
       "options": [
-        "Thói quen bắt chước mù quáng hành vi của người khác.",
-        "Sự tự ti, mặc cảm về năng lực của bản thân trước đám đông.",
-        "Sự lười biếng trong việc tự phát triển chuyên môn.",
-        "Sự khiêm nhường thực sự và tinh thần tôn trọng chân thành giá trị độc đáo của từng con người mà chúng ta gặp gỡ."
+        "Sự khiêm nhường thực sự và tinh thần tôn trọng chân thành giá trị độc đáo của từng con người mà chúng ta gặp gỡ.",
+        "Sự cởi mở trong việc tiếp thu những kiến thức mới từ mọi tầng lớp xã hội để nâng cao trình độ hiểu biết của bản thân.",
+        "Sự tự tin vào khả năng của mình nhưng vẫn luôn biết lắng nghe những ý kiến đóng góp từ những người xung quanh mình.",
+        "Sự khôn ngoan trong việc chọn lọc những người bạn tốt để học hỏi và tránh xa những người có ảnh hưởng tiêu cực đến mình."
       ],
-      "correctIndex": 3,
-      "explanation": "Khi nhìn thấy điểm ưu việt ở người khác, lời khen ngợi của chúng ta sẽ tự nhiên trở nên chân thực, sâu sắc và không bao giờ vướng mùi nịnh hót."
+      "correctIndex": 0,
+      "explanation": "Khi nhìn thấy điểm ưu việt ở người khác, chúng ta sẽ dễ dàng dành cho họ sự trân trọng và lời khen chân thành."
     },
     {
       "id": "q10",
-      "question": "Tại sao việc khen ngợi những nỗ lực nhỏ nhất lại có tác động tâm lý mạnh mẽ đến những người đang gặp khó khăn hoặc thất bại?",
+      "question": "Tại sao việc khen ngợi những nỗ lực nhỏ nhất lại có tác động tâm lý mạnh mẽ?",
       "options": [
-        "Nó chỉ có tác dụng đánh lừa cảm xúc trong vài phút.",
-        "Nó làm họ ảo tưởng và không cần cố gắng nữa.",
+        "Nó giúp người nhận cảm thấy tự tin hơn vào khả năng của mình và từ đó họ sẽ làm việc hiệu quả hơn trong tương lai.",
         "Nó tiếp thêm niềm tin vào giá trị bản thân, thắp lên hy vọng và trao cho họ sức mạnh nội tại để vượt qua khủng hoảng.",
-        "Vì nó giúp họ quên đi việc phải trả nợ tài chính."
+        "Nó tạo ra một môi trường làm việc tích cực nơi mọi người cảm thấy được quan tâm và đánh giá đúng mức năng lực cá nhân.",
+        "Nó là một cách hiệu quả để xây dựng lòng trung thành của nhân viên đối với tổ chức trong suốt quá trình làm việc lâu dài."
       ],
-      "correctIndex": 2,
-      "explanation": "Một lời khen đúng lúc trong cơn tăm tối có thể cứu rỗi cả một cuộc đời, đánh thức lòng tự trọng và tiềm năng tưởng chừng đã tắt lịm."
+      "correctIndex": 1,
+      "explanation": "Lời khen đúng lúc có thể đánh thức lòng tự trọng và tiềm năng tưởng chừng đã tắt lịm ở một con người."
     },
     {
       "id": "q11",
-      "question": "Điều gì xảy ra với tâm lý của một người phục vụ nhà hàng, người lao công hoặc tài xế khi họ nhận được một lời cảm ơn chân thành kèm lời khen cụ thể?",
+      "question": "Điều gì xảy ra với tâm lý của người phục vụ khi nhận được lời cảm ơn chân thành?",
       "options": [
-        "Họ sẽ bỏ việc ngay lập tức.",
-        "Họ cảm thấy công việc thầm lặng của mình được tôn trọng, phẩm giá được nâng cao và phục vụ với sự vui vẻ, tận tâm hơn hẳn.",
-        "Họ sẽ đòi tăng tiền boa lên gấp đôi.",
-        "Họ cảm thấy bị làm phiền và nghi ngờ người khách."
+        "Họ sẽ cảm thấy ngạc nhiên vì không quen với việc khách hàng thể hiện sự lịch sự trong quá trình phục vụ tại nhà hàng.",
+        "Họ sẽ coi đó là một sự khích lệ để cố gắng làm việc chăm chỉ hơn nhằm đạt được những phần thưởng tài chính cao hơn.",
+        "Họ cảm thấy công việc thầm lặng của mình được tôn trọng, phẩm giá được nâng cao và phục vụ với sự tận tâm hơn hẳn.",
+        "Họ sẽ cảm thấy áp lực hơn vì phải duy trì chất lượng phục vụ tốt nhất để làm hài lòng những khách hàng khó tính."
       ],
-      "correctIndex": 1,
-      "explanation": "Lời cảm kích chân thành công nhận sự hiện diện và giá trị lao động của họ như những con người có phẩm giá, xua tan nỗi mệt nhọc thường nhật."
+      "correctIndex": 2,
+      "explanation": "Lời cảm kích chân thành công nhận giá trị lao động và phẩm giá của con người, xua tan nỗi mệt nhọc thường nhật."
     },
     {
       "id": "q12",
-      "question": "Tại sao nịnh hót (flattery) về lâu dài luôn là một chiến lược giao tiếp thất bại và phản tác dụng?",
+      "question": "Tại sao nịnh hót về lâu dài luôn là một chiến lược giao tiếp thất bại?",
       "options": [
-        "Vì nịnh hót quá tốn kém tiền bạc.",
-        "Bởi vì lời nịnh hót chỉ có thể nói một lần duy nhất.",
-        "Vì nó nông cạn, vị kỷ; người thông minh sẽ nhận ra sự thao túng và cảm thấy bị coi thường trí tuệ, dẫn đến sự xa lánh và coi khinh.",
-        "Vì xã hội có luật xử phạt tội nịnh hót."
+        "Vì nó đòi hỏi người sử dụng phải có kỹ năng diễn xuất tốt để không bị người khác phát hiện ra sự giả dối trong lời nói.",
+        "Vì nó tạo ra những kỳ vọng sai lệch khiến cho người nhận không thể phát triển được những năng lực thực sự của bản thân.",
+        "Vì nó làm mất đi sự tin tưởng lẫn nhau trong các mối quan hệ xã hội và gây ra những hiểu lầm không đáng có về sau.",
+        "Vì nó nông cạn, vị kỷ; người thông minh sẽ nhận ra sự thao túng và cảm thấy bị coi thường trí tuệ, dẫn đến xa lánh."
       ],
-      "correctIndex": 2,
-      "explanation": "Nịnh hót là đồng tiền giả; kẻ dùng tiền giả sớm muộn cũng sẽ bị phát giác và mất hết uy tín trong các mối quan hệ nghiêm túc."
+      "correctIndex": 3,
+      "explanation": "Nịnh hót là đồng tiền giả; kẻ dùng tiền giả sớm muộn cũng sẽ bị phát giác và mất uy tín trong các mối quan hệ."
     },
     {
       "id": "q13",
-      "question": "Một trong những bài tập thực hành được khuyến nghị để rèn luyện thói quen khen ngợi là gì?",
+      "question": "Một trong những bài tập thực hành để rèn luyện thói quen khen ngợi là gì?",
       "options": [
-        "Học thuộc 100 câu khen có sẵn để nói với bất kỳ ai gặp trên đường.",
-        "Chờ đợi người khác khen mình trước rồi mới khen lại.",
-        "Rời bỏ sự tập trung vào cái tôi của mình trong một khoảng thời gian để chân thành quan sát và tìm kiếm những phẩm chất tốt đẹp ở người khác.",
-        "Chỉ khen ngợi những người mang lại lợi ích tài chính trực tiếp cho mình."
+        "Rời bỏ sự tập trung vào cái tôi của mình để chân thành quan sát và tìm kiếm những phẩm chất tốt đẹp ở người khác.",
+        "Thực hiện việc khen ngợi người khác mỗi ngày như một nhiệm vụ bắt buộc để cải thiện kỹ năng giao tiếp của bản thân.",
+        "Ghi chép lại những lời khen ngợi mà mình đã nhận được để có thể học hỏi cách khen ngợi người khác một cách hiệu quả.",
+        "Tập trung vào việc tìm kiếm những điểm mạnh của người khác để có thể đưa ra những lời nhận xét tích cực và chính xác."
       ],
-      "correctIndex": 2,
-      "explanation": "Phải dẹp bỏ cái tôi ích kỷ thì đôi mắt và trái tim mới đủ sáng để nhận ra những điều tuyệt vời nơi người khác và cất lời tán thưởng."
+      "correctIndex": 0,
+      "explanation": "Phải dẹp bỏ cái tôi ích kỷ thì trái tim mới đủ sáng để nhận ra những điều tuyệt vời nơi người khác."
     },
     {
       "id": "q14",
-      "question": "Triết gia William James từng khẳng định: 'Nguyên lý sâu xa nhất trong bản tính con người là sự thèm khát được khen ngợi'. Từ 'thèm khát' (craving) ở đây mang sắc thái gì?",
+      "question": "Từ 'thèm khát' (craving) trong nguyên lý của William James mang sắc thái gì?",
       "options": [
-        "Sự tham lam ích kỷ của những người có tính xấu.",
-        "Một căn bệnh tâm thần cần được điều trị y khoa.",
-        "Một nhu cầu bức thiết, nhức nhối và mãnh liệt từ sâu thẳm tâm can mà con người luôn tìm kiếm trong vô vọng suốt cuộc đời.",
-        "Một ý thích thoáng qua có thể có hoặc không."
+        "Một ý thích thoáng qua có thể có hoặc không tùy thuộc vào hoàn cảnh sống và môi trường làm việc của mỗi cá nhân.",
+        "Một nhu cầu bức thiết, nhức nhối và mãnh liệt từ sâu thẳm tâm can mà con người luôn tìm kiếm trong vô vọng suốt đời.",
+        "Một sự khao khát mang tính chất tiêu cực cần được kiểm soát để không ảnh hưởng đến sự phát triển của nhân cách con người.",
+        "Một nhu cầu tâm lý bình thường mà ai cũng có thể dễ dàng thỏa mãn thông qua các hoạt động xã hội hàng ngày của mình."
       ],
-      "correctIndex": 2,
-      "explanation": "'Craving' là cơn khát cồn cào; đáp ứng được cơn khát tâm hồn này bằng sự chân thành là chìa khóa mở toang mọi cánh cửa lòng người."
+      "correctIndex": 1,
+      "explanation": "Craving là cơn khát cồn cào; đáp ứng được cơn khát tâm hồn này bằng sự chân thành là chìa khóa mở lòng người."
     },
     {
       "id": "q15",
       "question": "Tóm tắt cốt lõi của NGUYÊN TẮC 2 trong 'Đắc Nhân Tâm' là gì?",
       "options": [
-        "Sử dụng các lời tâng bốc hoa mỹ để làm vui lòng người nghe.",
-        "Chỉ cảm ơn khi nhận được quà tặng vật chất.",
-        "Khen ngợi mọi lúc mọi nơi bất kể đúng sai.",
-        "Thành thật khen ngợi và biết ơn người khác."
+        "Luôn luôn tìm cách khen ngợi mọi người xung quanh để tạo ra một bầu không khí vui vẻ và hòa đồng trong tập thể.",
+        "Sử dụng những lời khen ngợi một cách khéo léo để đạt được mục đích cá nhân trong các mối quan hệ xã hội phức tạp.",
+        "Thành thật khen ngợi và biết ơn người khác vì những gì họ đã đóng góp cho công việc và cuộc sống của chúng ta.",
+        "Tập trung vào việc bày tỏ lòng biết ơn đối với những người đã giúp đỡ mình trong những lúc khó khăn nhất của cuộc đời."
       ],
-      "correctIndex": 3,
-      "explanation": "Nguyên tắc số 2: Luôn dành cho người khác sự cảm kích chân thành và những lời khen ngợi xuất phát từ đáy lòng biết ơn."
+      "correctIndex": 2,
+      "explanation": "Nguyên tắc 2 nhấn mạnh việc dành cho người khác sự cảm kích chân thành và những lời khen ngợi từ đáy lòng."
     }
   ]
 }

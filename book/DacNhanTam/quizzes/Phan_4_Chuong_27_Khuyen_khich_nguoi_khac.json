@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Thí nghiệm nổi tiếng của nhà tâm lý học lỗi lạc B. F. Skinner về động vật và con người rút ra định luật vĩnh cửu nào về sự khen ngợi?",
+      "question": "Theo B. F. Skinner, việc khen ngợi những tiến bộ dù là nhỏ nhất mang lại kết quả bền vững nào trong việc thay đổi hành vi?",
       "options": [
-        "Con người không có nhu cầu được khen ngợi khi làm việc.",
-        "Khen ngợi làm cho động vật trở nên lười biếng hơn.",
-        "Khen ngợi những bước tiến bộ dù nhỏ nhất sẽ củng cố hành vi tốt; chỉ trích và trừng phạt chỉ làm thui chột tiềm năng và không bao giờ mang lại sự tiến bộ thực chất.",
-        "Trừng phạt bằng roi vọt luôn mang lại kết quả nhanh hơn."
+        "Khen ngợi giúp củng cố các hành vi tích cực và làm giảm dần các sai sót một cách tự nhiên mà không gây ra sự phản kháng.",
+        "Khen ngợi chỉ có tác dụng nhất thời và cần phải đi kèm với các hình phạt nghiêm khắc để duy trì kỷ luật trong dài hạn.",
+        "Việc khen ngợi quá thường xuyên sẽ làm đối phương nảy sinh tâm lý tự mãn và ngừng nỗ lực để đạt được những tầm cao mới.",
+        "Khen ngợi chỉ thực sự hiệu quả đối với trẻ em hoặc động vật xiếc chứ không mang lại tác động rõ rệt với người trưởng thành."
       ],
-      "correctIndex": 2,
-      "explanation": "Khen ngợi từng sự tiến bộ nhỏ (Praise the slightest improvement) là chiếc chìa khóa vạn năng đánh thức tiềm năng to lớn đang ngủ quên trong mỗi con người."
+      "correctIndex": 0,
+      "explanation": "Skinner chứng minh rằng sự khích lệ giúp nuôi dưỡng các thói quen tốt, trong khi sự chỉ trích chỉ tạo ra sự chống đối."
     },
     {
       "id": "q2",
-      "question": "Huyền thoại âm nhạc thế giới Enrico Caruso thời niên thiếu từng bị thầy giáo dạy nhạc chê bai thậm tệ: 'Cậu không có giọng hát, giọng cậu nghe như tiếng gió rít qua cửa sổ'. Điều gì đã cứu vớt sự nghiệp của ông?",
+      "question": "Yếu tố then chốt nào đã giúp Enrico Caruso vượt qua lời chê bai của thầy giáo để trở thành ca sĩ opera vĩ đại nhất thế giới?",
       "options": [
-        "Ông đã từ bỏ âm nhạc để đi làm thợ cơ khí.",
-        "Người mẹ nghèo tần tảo đã ôm lấy ông, tin tưởng tuyệt đối vào tài năng của con, hy sinh từng đồng xu mua giày mới để cho ông học hát và không ngừng ngợi ca sự tiến bộ của ông mỗi ngày.",
-        "Ông phẫu thuật dây thanh quản để thay đổi giọng hát.",
-        "Ông được một tỷ phú nhận làm con nuôi."
+        "Sự nỗ lực tự thân của ông nhằm chứng minh lời nhận xét của người thầy giáo đầu tiên là hoàn toàn sai lầm và thiếu khách quan.",
+        "Sự khích lệ bền bỉ và niềm tin tuyệt đối của người mẹ nghèo đã tiếp thêm sức mạnh giúp ông kiên trì theo đuổi đam mê âm nhạc.",
+        "Việc ông may mắn tìm được một người thầy mới có phương pháp giảng dạy hiện đại và phù hợp hơn với chất giọng đặc biệt của mình.",
+        "Sự thay đổi về cấu tạo thanh quản khi trưởng thành đã giúp ông sở hữu một giọng hát thiên phú mà không cần quá nhiều nỗ lực."
       ],
       "correctIndex": 1,
-      "explanation": "Niềm tin và sự khích lệ bền bỉ của người mẹ đã biến một cậu bé bị chê là bất tài thành giọng ca tenor vĩ đại nhất trong lịch sử nhân loại."
+      "explanation": "Lời khen và sự tin tưởng của người mẹ là nguồn động lực lớn nhất giúp Caruso thay đổi hoàn toàn định mệnh của cuộc đời mình."
     },
     {
       "id": "q3",
-      "question": "Đại văn hào Charles Dickens thời trẻ từng nghèo khổ đến mức phải làm việc dán nhãn lọ xi đánh giày trong nhà kho đầy chuột. Bước ngoặt nào đã thay đổi số phận của ông?",
+      "question": "Sự kiện nào được coi là bước ngoặt quan trọng nhất giúp Charles Dickens thoát khỏi cảnh nghèo khó để trở thành nhà văn nổi tiếng?",
       "options": [
-        "Một biên tập viên đã gửi thư khen ngợi nồng nhiệt bản thảo truyện ngắn đầu tiên mà ông gửi đi trong đêm tối — lời khen đó đã thắp sáng ngọn lửa tự tin và thay đổi vĩnh viễn cuộc đời ông.",
-        "Trúng số độc đắc tại thành phố London.",
-        "Ông bỏ trốn sang châu Mỹ để làm lại cuộc đời.",
-        "Ông được bổ nhiệm làm giám đốc nhà máy xi đánh giày."
+        "Ông đã quyết định từ bỏ công việc dán nhãn chai xi đánh giày để dành toàn bộ thời gian cho việc học tập và rèn luyện kỹ năng viết.",
+        "Gia đình ông bất ngờ nhận được một khoản thừa kế lớn giúp ông có điều kiện tiếp cận với nền giáo dục cao cấp tại thủ đô Luân Đôn.",
+        "Một biên tập viên đã công nhận tài năng của ông qua việc xuất bản truyện ngắn đầu tiên và dành cho ông những lời khen quý giá.",
+        "Sự giúp đỡ về mặt tài chính từ một người bạn thân thiết đã cho phép ông xuất bản những tác phẩm đầu tay mà không lo về chi phí."
       ],
-      "correctIndex": 0,
-      "explanation": "Một lời khen đúng lúc từ một người có uy tín có sức mạnh cứu rỗi cả một số phận, biến một cậu bé nghèo khổ thành tượng đài văn học thế giới."
+      "correctIndex": 2,
+      "explanation": "Sự thừa nhận và khen ngợi đúng lúc đã đáp ứng khao khát được đánh giá đúng đắn, giúp Dickens có thêm tự tin để tỏa sáng."
     },
     {
       "id": "q4",
-      "question": "Tại sao việc 'khen ngợi chung chung, sáo rỗng' (ví dụ: 'Làm tốt lắm') lại KHÔNG hiệu quả bằng việc 'khen ngợi cụ thể vào từng điểm tiến bộ'?",
+      "question": "Tại sao Dale Carnegie nhấn mạnh rằng lời khen ngợi cần phải cụ thể và chân thành thay vì những lời tán dương chung chung?",
       "options": [
-        "Bởi vì người nghe không thích nghe những lời khen dài dòng.",
-        "Khen ngợi cụ thể chứng minh bạn đã thực sự quan sát tỉ mỉ, hiểu rõ công sức của họ; nó giúp người nghe nhận biết chính xác hành vi đúng đắn để tiếp tục phát huy.",
-        "Do khen ngợi cụ thể có thể dùng để tính điểm thưởng tài chính.",
-        "Vì khen ngợi chung chung tốn ít từ ngữ hơn."
+        "Những lời khen cụ thể giúp người nói thể hiện được sự am hiểu chuyên môn và tạo dựng uy tín cá nhân đối với người được khen ngợi.",
+        "Khen ngợi chi tiết là một kỹ thuật tâm lý giúp người nói dễ dàng điều khiển hành vi của người khác theo ý muốn chủ quan của mình.",
+        "Việc khen ngợi quá chi tiết sẽ giúp tiết kiệm thời gian trong việc đào tạo và hướng dẫn nhân viên thực hiện các nhiệm vụ mới.",
+        "Lời khen cụ thể chứng tỏ sự quan tâm sâu sắc và giúp người nghe nhận ra chính xác những điểm mạnh cần được tiếp tục phát huy."
       ],
-      "correctIndex": 1,
-      "explanation": "Tính cụ thể tạo nên giá trị chân thực của lời khen; chỉ rõ sự tiến bộ ở điểm nào giúp đối phương tự tin lặp lại hành vi xuất sắc đó."
+      "correctIndex": 3,
+      "explanation": "Tính cụ thể tạo nên giá trị chân thực, giúp đối phương cảm thấy được tôn trọng và hiểu rõ lộ trình để đạt tới thành công."
     },
     {
       "id": "q5",
-      "question": "Câu chuyện người cha dạy cậu con trai chơi bóng chày đã biến cậu bé từ một đứa trẻ nhút nhát, sợ bóng thành cầu thủ xuất sắc của trường bằng cách nào?",
+      "question": "Trong câu chuyện về gia đình Ringelspaugh, phương pháp nào đã giúp các con của ông thay đổi những hành vi sai trái một cách hiệu quả?",
       "options": [
-        "Không bao giờ chỉ trích những lần trượt; chỉ cần con vung gậy đúng tư thế hoặc chạm nhẹ vào bóng, người cha lập tức reo hò, ngợi ca sự tiến bộ vượt bậc của con.",
-        "Quát mắng mỗi khi con đánh trượt bóng.",
-        "Cấm con không được chơi bất kỳ môn thể thao nào khác.",
-        "Thuê huấn luyện viên bóng chày chuyên nghiệp từ giải ngoại hạng."
+        "Họ quyết định tập trung khen ngợi những hành động đúng đắn và lờ đi những lỗi lầm nhỏ thay vì quát mắng như thói quen trước đây.",
+        "Họ thiết lập một hệ thống phần thưởng vật chất giá trị để khuyến khích các con thực hiện đầy đủ các quy tắc ứng xử trong gia đình.",
+        "Họ áp dụng các hình phạt nghiêm khắc kết hợp với việc giải thích lý do sai phạm để các con tự nhận thức và sửa đổi hành vi của mình.",
+        "Họ yêu cầu các con tự viết bản kiểm điểm mỗi khi mắc lỗi để chúng tự thấy được trách nhiệm của bản thân đối với các hành vi sai trái."
       ],
       "correctIndex": 0,
-      "explanation": "Khen ngợi nỗ lực và sự tiến bộ nhỏ bé từng ngày xây dựng nên lòng tự tin sắt đá, giúp đứa trẻ vượt qua nỗi sợ hãi để vươn tới sự thuần thục."
+      "explanation": "Thay thế sự chỉ trích bằng việc công nhận những tiến bộ nhỏ giúp trẻ tự tin và tự giác hình thành những thói quen tốt đẹp hơn."
     },
     {
       "id": "q6",
-      "question": "Triết gia người Mỹ William James từng khẳng định: 'So với những gì chúng ta có thể đạt được, chúng ta mới chỉ tỉnh thức có một nửa...'. Lời khen ngợi đóng vai trò gì trong việc này?",
+      "question": "Triết lý của William James về việc con người mới chỉ sử dụng một phần nhỏ khả năng của mình ám chỉ điều gì về sự khen ngợi?",
       "options": [
-        "Chỉ có tác dụng với những người có học thức cao.",
-        "Lời khen ngợi như ánh nắng ấm áp đánh thức những hạt mầm tài năng vĩ đại đang nằm sâu dưới mảnh đất tâm hồn cằn cỗi vì thiếu vắng sự khích lệ.",
-        "Làm suy giảm chỉ số thông minh của con người.",
-        "Làm cho con người tiếp tục ngủ say trong sự tự mãn."
+        "Con người thường có xu hướng lười biếng và chỉ thực sự làm việc hiệu quả khi nhận được những lời khen ngợi từ những người xung quanh.",
+        "Sự khen ngợi chính là nguồn lực quý giá giúp đánh thức và giải phóng những tiềm năng to lớn đang còn ngủ yên trong mỗi con người.",
+        "Lời khen ngợi là một công cụ hỗ trợ cần thiết nhưng không thể thay thế được các chương trình đào tạo kỹ năng chuyên môn bài bản.",
+        "Khả năng của con người là hữu hạn và lời khen chỉ có tác dụng giúp họ cảm thấy hài lòng hơn với những gì mình đang sở hữu hiện tại."
       ],
       "correctIndex": 1,
-      "explanation": "Khả năng của con người là vô hạn; sự khích lệ chân thành chính là chất xúc tác diệu kỳ giải phóng những nguồn năng lượng sáng tạo khổng lồ."
+      "explanation": "Khen ngợi là chất xúc tác giúp con người vượt qua giới hạn tự thân để đạt được những thành tựu mà họ chưa từng nghĩ tới."
     },
     {
       "id": "q7",
-      "question": "Khi bạn quản lý một nhân viên đang gặp khủng hoảng tự ti về năng lực, chiến lược huấn luyện hiệu quả nhất theo chương này là gì?",
+      "question": "Khi đối mặt với một người đang thiếu tự tin vào năng lực bản thân, cách tiếp cận nào theo đúng tinh thần của chương 27 là hiệu quả nhất?",
       "options": [
-        "Chia nhỏ công việc thành các bước đơn giản, kiên nhẫn ghi nhận và khen ngợi từng bước hoàn thành thành công để phục hồi lòng tự tin từng chút một.",
-        "Chuyển nhân viên đó sang làm công việc tạp vụ.",
-        "So sánh nhân viên đó với người giỏi nhất công ty mỗi ngày.",
-        "Giao cho nhân viên đó nhiệm vụ khó khăn nhất để thử thách."
+        "Hãy đưa ra những lời phê bình thẳng thắn về những thiếu sót để họ nhận ra thực tế và nỗ lực hơn trong việc hoàn thiện bản thân mình.",
+        "Hãy so sánh họ với những cá nhân xuất sắc khác để tạo ra sự cạnh tranh lành mạnh và thúc đẩy tinh thần cầu tiến trong công việc.",
+        "Hãy tìm kiếm và khen ngợi những nỗ lực nhỏ nhất của họ để xây dựng lại lòng tự tôn và tạo động lực cho những bước tiến tiếp theo.",
+        "Hãy giao cho họ những nhiệm vụ cực kỳ khó khăn để họ tự khám phá ra những khả năng tiềm ẩn của mình thông qua quá trình thử thách."
       ],
-      "correctIndex": 0,
-      "explanation": "Tích tiểu thành đại: chuỗi những chiến thắng nhỏ được ghi nhận liên tục sẽ tái thiết lòng tự tin và đưa nhân sự trở lại đỉnh cao phong độ."
+      "correctIndex": 2,
+      "explanation": "Sự khích lệ từng bước giúp phục hồi niềm tin, biến những tiến bộ nhỏ thành nền tảng vững chắc cho những thành công lớn lao."
     },
     {
       "id": "q8",
-      "question": "Câu chuyện cậu bé H. G. Wells (nhà văn khoa học viễn tưởng vĩ đại) từng bị đuổi việc khỏi tiệm vải vì bị coi là kẻ đần độn đã đổi đời nhờ điều gì?",
+      "question": "Lời khuyên của người thầy cũ đã tác động như thế nào đến cuộc đời của H. G. Wells khi ông đang tuyệt vọng với công việc dán nhãn?",
       "options": [
-        "Được thừa kế một gia tài kếch xù từ người bác.",
-        "Tham gia vào quân đội hoàng gia Anh.",
-        "Tự mình mở một cửa hàng bán vải mới.",
-        "Một hiệu trưởng trường học đã phát hiện niềm đam mê đọc sách của ông, khen ngợi trí tưởng tượng phong phú và khuyến khích ông theo đuổi sự nghiệp viết lách."
+        "Người thầy đã cung cấp cho ông những kiến thức chuyên môn cần thiết để ông có thể tìm kiếm một công việc văn phòng ổn định tại London.",
+        "Sự giúp đỡ về tài chính của người thầy đã giúp ông trang trải cuộc sống trong những ngày đầu tiên khi mới bắt đầu sự nghiệp viết lách.",
+        "Lời khuyên của người thầy đã giúp ông nhận ra rằng mình cần phải kiên nhẫn hơn với công việc hiện tại để chờ đợi những cơ hội mới.",
+        "Lời khẳng định về trí thông minh và năng lực của ông đã thắp lên hy vọng, giúp ông có đủ dũng khí để theo đuổi sự nghiệp văn chương."
       ],
       "correctIndex": 3,
-      "explanation": "Một con mắt tinh đời nhìn ra viên ngọc thô và một lời khích lệ đúng lúc đã trao tặng cho nhân loại một trong những bộ óc viễn tưởng vĩ đại nhất."
+      "explanation": "Sự công nhận năng lực từ một người có uy tín có thể thay đổi hoàn toàn thế giới quan và định hướng tương lai của một cá nhân."
     },
     {
       "id": "q9",
-      "question": "Tại sao phần lớn các bậc cha mẹ và người quản lý lại rất 'hào phóng lời chỉ trích nhưng vô cùng keo kiệt lời khen ngợi'?",
+      "question": "Tại sao nhiều người thường có xu hướng chỉ trích lỗi lầm thay vì khen ngợi sự tiến bộ của người khác trong giao tiếp hàng ngày?",
       "options": [
-        "Do quy định của xã hội bắt buộc phải chỉ trích.",
-        "Vì lời chỉ trích không mất tiền mua.",
-        "Đó là thói quen xấu thâm căn cố đế của bản năng vị kỷ: coi điều tốt là hiển nhiên và chỉ nhăm nhe bắt bẻ những lỗi lầm nhỏ nhặt.",
-        "Bởi vì lời khen ngợi bị đánh thuế thu nhập."
+        "Do thói quen tâm lý coi những điều tốt đẹp là hiển nhiên và chỉ tập trung vào những sai sót để thể hiện quyền lực hoặc sự ưu tú.",
+        "Vì họ tin rằng sự chỉ trích sẽ mang lại kết quả nhanh chóng và hiệu quả hơn trong việc điều chỉnh hành vi của người dưới quyền mình.",
+        "Do họ lo ngại rằng việc khen ngợi quá nhiều sẽ khiến người khác trở nên kiêu ngạo và không còn tôn trọng các quy tắc chung của tập thể.",
+        "Bởi vì việc tìm ra lỗi sai thường dễ dàng hơn nhiều so với việc quan sát và ghi nhận những nỗ lực thầm lặng của những người xung quanh."
       ],
-      "correctIndex": 2,
-      "explanation": "Đây là căn bệnh mù lòa cảm xúc nguy hiểm nhất; hãy đảo ngược phương trình đó: hào phóng lời khen chân thành và triệt tiêu thói quen chỉ trích."
+      "correctIndex": 0,
+      "explanation": "Đây là một sai lầm phổ biến trong ứng xử; việc đảo ngược thói quen này sẽ mang lại những kết quả kỳ diệu trong các mối quan hệ."
     },
     {
       "id": "q10",
-      "question": "Điều gì xảy ra với tâm lý của một người già cô đơn trong viện dưỡng lão khi họ được nhân viên điều dưỡng chân thành khen ngợi bức tranh họ vừa vẽ?",
+      "question": "Tác động tâm lý tích cực nhất của một lời khen chân thành đối với một người đang gặp khó khăn trong cuộc sống là gì?",
       "options": [
-        "Họ cảm thấy bị làm phiền và xé nát bức tranh.",
-        "Không có bất kỳ tác động tâm lý nào đối với người già.",
-        "Họ yêu cầu được chuyển sang viện dưỡng lão khác.",
-        "Đôi mắt họ bừng sáng niềm vui, cảm thấy cuộc đời mình vẫn còn ý nghĩa, giá trị tồn tại được tôn vinh và tinh thần trở nên minh mẫn, khỏe khoắn hơn hẳn."
+        "Nó giúp họ tạm thời quên đi những nỗi đau thực tại và cảm thấy hài lòng với những gì mình đang có dù hoàn cảnh vẫn rất khó khăn.",
+        "Nó mang lại cảm giác được trân trọng và thắp lên niềm tin vào giá trị bản thân, giúp họ có thêm nghị lực để vượt qua nghịch cảnh.",
+        "Nó tạo ra một áp lực vô hình khiến họ phải nỗ lực nhiều hơn nữa để không làm phụ lòng mong đợi của người đã dành lời khen cho mình.",
+        "Nó giúp họ nhận ra rằng mình vẫn còn rất nhiều cơ hội để thành công nếu biết cách tận dụng sự giúp đỡ từ những người xung quanh mình."
       ],
-      "correctIndex": 3,
-      "explanation": "Ở bất kỳ độ tuổi nào, sự công nhận và khích lệ vẫn là dưỡng chất ngọt ngào nhất nuôi dưỡng niềm vui sống và phẩm giá con người."
+      "correctIndex": 1,
+      "explanation": "Lời khen chân thành là nguồn dinh dưỡng tinh thần thiết yếu, giúp con người tìm thấy ý nghĩa và sức mạnh để vươn lên."
     },
     {
       "id": "q11",
-      "question": "Một lời khen ngợi thành thật về sự tiến bộ có thể thay đổi tương lai của một phạm nhân trong trại cải tạo như thế nào?",
+      "question": "Làm thế nào để một lời khen ngợi về sự tiến bộ có thể giúp một người lầm lỗi thay đổi thái độ và hành vi của mình?",
       "options": [
-        "Làm cho phạm nhân tìm cách vượt ngục.",
-        "Làm cho phạm nhân đòi hỏi thêm các đặc quyền giam giữ.",
-        "Thắp lên niềm tin rằng họ hoàn toàn có khả năng hoàn lương, khơi dậy lòng tự trọng và thúc đẩy họ tích cực học nghề để tái hòa nhập cộng đồng.",
-        "Không có bất kỳ tác dụng nào đối với tội phạm."
+        "Bằng cách so sánh sự tiến bộ của họ với những người thành công khác để khơi dậy lòng tự trọng và ý chí quyết tâm thay đổi số phận.",
+        "Bằng cách hứa hẹn những phần thưởng vật chất hấp dẫn nếu họ duy trì được những hành vi tốt đẹp trong một khoảng thời gian nhất định.",
+        "Bằng cách ghi nhận những thay đổi tích cực dù nhỏ, ta giúp họ nhìn thấy một phiên bản tốt đẹp hơn của chính mình để nỗ lực hướng tới.",
+        "Bằng cách nhắc lại những sai lầm trong quá khứ để họ thấy được sự khác biệt rõ rệt và giá trị của những hành động đúng đắn hiện tại."
       ],
       "correctIndex": 2,
-      "explanation": "Khi một người lầm lỗi nhìn thấy tia sáng hy vọng về sự phục thiện được người khác ghi nhận, họ sẽ dốc sức bước ra khỏi bóng tối tội lỗi."
+      "explanation": "Sự công nhận giúp khơi dậy lòng tự trọng, là động lực mạnh mẽ nhất thúc đẩy quá trình hoàn lương và hoàn thiện nhân cách."
     },
     {
       "id": "q12",
-      "question": "Tại sao việc so sánh sự tiến bộ của một người với 'chính bản thân họ trong quá khứ' lại tốt hơn nhiều so với việc so sánh họ với người khác?",
+      "question": "Tại sao việc so sánh sự tiến bộ của một người với chính họ trong quá khứ lại mang lại hiệu quả giáo dục cao hơn?",
       "options": [
-        "So sánh với người khác dễ sinh ra mặc cảm tự ti hoặc đố kỵ; so sánh với chính họ trong quá khứ tạo ra động lực tự hoàn thiện bền vững và lành mạnh.",
-        "Do quy định của các hiệp hội giáo dục quốc tế.",
-        "Bởi vì mọi người đều có xuất phát điểm giống hệt nhau.",
-        "Vì quá khứ không thể thay đổi được."
+        "Việc so sánh với quá khứ giúp người quản lý dễ dàng đánh giá được hiệu suất làm việc và đưa ra các quyết định khen thưởng công bằng.",
+        "Đây là phương pháp duy nhất để đo lường sự thành công của một cá nhân trong những môi trường làm việc có tính cạnh tranh cực kỳ cao.",
+        "So sánh với chính mình giúp con người luôn cảm thấy tự tin và không bao giờ phải lo lắng về những áp lực từ phía các đối thủ cạnh tranh.",
+        "Cách tiếp cận này giúp cá nhân tập trung vào sự phát triển tự thân, tránh được tâm lý đố kỵ hoặc mặc cảm khi so sánh với người khác."
       ],
-      "correctIndex": 0,
-      "explanation": "Thước đo thành công đích thực là sự tiến bộ của chính bạn ngày hôm nay so với ngày hôm qua; tôn vinh sự tiến bộ đó giúp xây dựng nội lực vững chắc."
+      "correctIndex": 3,
+      "explanation": "Tôn vinh sự tiến bộ cá nhân tạo ra động lực nội sinh bền vững, giúp mỗi người không ngừng hoàn thiện theo lộ trình riêng của mình."
     },
     {
       "id": "q13",
-      "question": "Câu chuyện người thầy giáo khen ngợi một nét chữ đẹp duy nhất trong bài viết nguệch ngoạc của một học sinh cá biệt mang lại bài học sư phạm nào?",
+      "question": "Nghệ thuật sư phạm trong việc khen ngợi một điểm sáng duy nhất giữa nhiều sai sót mang lại bài học gì cho người lãnh đạo?",
       "options": [
-        "Người thầy giáo đã chấm điểm sai quy chế chuyên môn.",
-        "Bài tập viết chữ là môn học không cần thiết.",
-        "Bằng cách tập trung vào điểm sáng duy nhất đó để tán thưởng, người thầy đã truyền cảm hứng khiến cậu học trò nỗ lực rèn luyện để cả trang vở đều đẹp như nét chữ đó.",
-        "Cậu học trò từ chối viết bài trong các tiết học sau."
+        "Tập trung vào điểm tích cực sẽ tạo ra cảm hứng và niềm tin, giúp đối phương tự giác khắc phục những thiếu sót còn lại một cách bền bỉ.",
+        "Việc khen ngợi một điểm sáng là cách để xoa dịu tâm lý trước khi đưa ra những lời phê bình nghiêm khắc về những sai lầm nghiêm trọng.",
+        "Người lãnh đạo cần phải biết cách che giấu những khuyết điểm của nhân viên để duy trì sự đoàn kết và tinh thần làm việc trong tập thể.",
+        "Khen ngợi một điểm nhỏ giúp người lãnh đạo xây dựng hình ảnh một người bao dung và dễ tính trong mắt các nhân viên dưới quyền của mình."
       ],
-      "correctIndex": 2,
-      "explanation": "Tìm kiếm đốm lửa nhỏ để thổi bùng lên ngọn đuốc sáng là nghệ thuật sư phạm đỉnh cao; khen ngợi điểm tốt sẽ lan tỏa và lấn át dần những điểm xấu."
+      "correctIndex": 0,
+      "explanation": "Khen ngợi điểm tốt giúp lan tỏa năng lượng tích cực, khiến người khác muốn xứng đáng với lời khen đó bằng cách hoàn thiện bản thân."
     },
     {
       "id": "q14",
-      "question": "Phần thưởng cao quý nhất mà người trao đi lời khen ngợi và sự khích lệ nhận được là gì?",
+      "question": "Giá trị nhân văn sâu sắc nhất mà việc thực hiện Nguyên tắc 27 mang lại cho cả người trao và người nhận là gì?",
       "options": [
-        "Hạnh phúc thiêng liêng khi được chứng kiến sự trưởng thành, tỏa sáng và thay đổi kỳ diệu trong cuộc đời của những con người mà mình đã nâng đỡ.",
-        "Không có bất kỳ phần thưởng nào cả.",
-        "Một tấm huy chương vàng từ chính quyền địa phương.",
-        "Được nhận hoa hồng tài chính từ người được khen."
+        "Khả năng thiết lập một mạng lưới quan hệ rộng rãi dựa trên sự ủng hộ và lòng biết ơn của những người đã từng nhận được lời khen ngợi.",
+        "Sự kết nối chân thành giữa những tâm hồn, nơi tiềm năng con người được trân trọng và chắp cánh để tạo nên những thay đổi kỳ diệu.",
+        "Việc tạo ra một môi trường làm việc vui vẻ, nơi mọi người luôn dành cho nhau những lời tán dương để giảm bớt áp lực và căng thẳng.",
+        "Sự gia tăng đáng kể về năng suất lao động và lợi nhuận kinh tế nhờ vào việc khích lệ tinh thần làm việc của đội ngũ nhân viên cấp dưới."
       ],
-      "correctIndex": 0,
-      "explanation": "Trở thành người thắp sáng tiềm năng của đồng loại là sứ mệnh cao quý nhất, mang lại niềm hạnh phúc và ý nghĩa sống trọn vẹn nhất trần đời."
+      "correctIndex": 1,
+      "explanation": "Trở thành người thắp sáng tiềm năng của người khác là một sứ mệnh cao cả, mang lại hạnh phúc và sự phát triển cho cả cộng đồng."
     },
     {
       "id": "q15",
-      "question": "Tóm tắt cốt lõi của NGUYÊN TẮC 27 trong 'Đắc Nhân Tâm' là gì?",
+      "question": "Thông điệp cốt lõi nhất mà Dale Carnegie muốn truyền tải thông qua Nguyên tắc 27: 'Khuyến khích người khác' là gì?",
       "options": [
-        "Chỉ khen ngợi khi người khác đạt được thành tích hoàn hảo 100%.",
-        "Khen ngợi quá đà để tâng bốc người nghe.",
-        "Chỉ trích mọi sai sót để thúc đẩy người khác tiến bộ nhanh hơn.",
-        "Thật lòng khen ngợi sự tiến bộ, dù nhỏ nhất, ở người khác."
+        "Hãy sử dụng lời khen như một công cụ giao tiếp khéo léo để đạt được sự đồng thuận và hợp tác từ phía đối tác trong các cuộc đàm phán.",
+        "Hãy luôn mỉm cười và nói những lời ngọt ngào với mọi người xung quanh để xây dựng một hình ảnh cá nhân thân thiện và dễ gần trong xã hội.",
+        "Hãy luôn chân thành ghi nhận và ngợi ca mọi sự tiến bộ, dù là nhỏ nhất, để giúp người khác phát triển hoàn thiện những tiềm năng vốn có.",
+        "Hãy học cách bỏ qua mọi lỗi lầm của người khác và chỉ tập trung vào việc nói về những ưu điểm để duy trì các mối quan hệ tốt đẹp lâu dài."
       ],
-      "correctIndex": 3,
-      "explanation": "Nguyên tắc số 27: Hãy luôn chân thành ngợi ca mọi sự tiến bộ, dù là nhỏ nhất, ở những người xung quanh."
+      "correctIndex": 2,
+      "explanation": "Nguyên tắc này nhấn mạnh vào sự chân thành và việc nuôi dưỡng sự tiến bộ, là chìa khóa để trở thành một nhà lãnh đạo xuất sắc."
     }
   ]
 }

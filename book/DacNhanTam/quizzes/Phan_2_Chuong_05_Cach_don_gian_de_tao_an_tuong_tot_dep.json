@@ -6,180 +6,180 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Hành động đơn giản, không tốn một xu nhưng có sức mạnh tức thì phá vỡ mọi rào cản phòng thủ và thắp sáng không gian giao tiếp là gì?",
+      "question": "Hành động đơn giản nào có sức mạnh tức thì phá vỡ mọi rào cản phòng thủ và thắp sáng không gian giao tiếp giữa người với người?",
       "options": [
-        "Một tấm danh thiếp mạ vàng sang trọng.",
-        "Một nụ cười chân thành, rạng rỡ xuất phát từ trái tim.",
-        "Một lời khen ngợi phóng đại về ngoại hình.",
-        "Một cái bắt tay thật chặt đến mức gây đau."
+        "Một nụ cười chân thành, rạng rỡ xuất phát từ trái tim giúp truyền đi thông điệp thiện chí và sự quý mến đối với đối phương.",
+        "Một lời khen ngợi đầy hoa mỹ về ngoại hình hoặc trang phục để tạo sự chú ý và lấy lòng người đối diện ngay từ lần đầu.",
+        "Một cái bắt tay thật chặt và kéo dài để thể hiện sự tự tin, bản lĩnh cũng như quyền lực của bản thân trong giao tiếp.",
+        "Một tấm danh thiếp mạ vàng sang trọng nhằm khẳng định địa vị xã hội và sự chuyên nghiệp của bản thân trong công việc."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Nụ cười chân thành là sứ giả của thiện chí; nó truyền đi thông điệp không lời: 'Tôi rất vui được gặp bạn, sự hiện diện của bạn làm tôi hạnh phúc'."
     },
     {
       "id": "q2",
-      "question": "Tại sao nụ cười gượng gạo, giả tạo (nụ cười cơ học bề ngoài) không những không có tác dụng mà còn gây phản cảm?",
+      "question": "Tại sao nụ cười gượng gạo, giả tạo (nụ cười cơ học bề ngoài) không những không có tác dụng mà còn gây phản cảm cho người đối diện?",
       "options": [
-        "Trực giác con người dễ dàng nhận biết nụ cười không có linh hồn; nó tạo cảm giác bị thao túng, mỉa mai hoặc giả dối.",
-        "Bởi vì nụ cười gượng gạo luôn phát ra âm thanh lạ.",
-        "Vì nó làm hỏng cơ mặt của người cười.",
-        "Do luật thương mại nghiêm cấm cười giả tạo trong bán hàng."
+        "Nụ cười giả tạo thường làm thay đổi cấu trúc cơ mặt một cách bất thường, khiến người đối diện cảm thấy sợ hãi và khó chịu.",
+        "Trực giác con người dễ dàng nhận biết nụ cười thiếu linh hồn, tạo cảm giác bị thao túng, mỉa mai hoặc thiếu sự chân thành.",
+        "Việc mỉm cười không xuất phát từ cảm xúc thật sẽ làm tiêu tốn năng lượng của người cười mà không mang lại giá trị kết nối.",
+        "Nụ cười thiếu tự nhiên thường bị coi là hành vi thiếu tôn trọng quy tắc giao tiếp xã hội trong các môi trường chuyên nghiệp."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Chỉ có nụ cười xuất phát từ sự ấm áp nội tâm và thiện cảm thật sự mới có sức mạnh sưởi ấm tâm hồn người khác."
     },
     {
       "id": "q3",
-      "question": "Nhiều tập đoàn viễn thông lớn huấn luyện nhân viên chăm sóc khách hàng 'phải mỉm cười khi nói chuyện qua điện thoại' vì lý do khoa học nào?",
+      "question": "Tại sao các tập đoàn lớn huấn luyện nhân viên chăm sóc khách hàng phải mỉm cười khi nói chuyện qua điện thoại với người khác?",
       "options": [
-        "Nhằm rút ngắn thời lượng của cuộc gọi thoại.",
-        "Nụ cười làm thay đổi khẩu hình và dây thanh quản, truyền tải năng lượng tích cực, sự ấm áp và niềm nở qua từng âm sắc giọng nói đến tai người nghe.",
-        "Để nhân viên không bị buồn ngủ trong giờ làm việc.",
-        "Để kiểm tra camera giám sát nội bộ của công ty."
+        "Việc mỉm cười giúp nhân viên duy trì sự tập trung cao độ vào nội dung công việc và tránh được những sai sót trong khi giao tiếp.",
+        "Nụ cười giúp nhân viên cảm thấy thoải mái hơn khi phải đối mặt với những khách hàng khó tính hoặc những khiếu nại phức tạp.",
+        "Nụ cười làm thay đổi khẩu hình và âm sắc, truyền tải năng lượng tích cực, sự ấm áp và niềm nở đến tai người nghe hiệu quả.",
+        "Các công ty muốn tạo ra một tiêu chuẩn dịch vụ đồng nhất để nâng cao hình ảnh thương hiệu trong mắt khách hàng toàn cầu."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Nụ cười 'xuyên qua dây cáp điện thoại': người nghe không nhìn thấy mặt bạn nhưng hoàn toàn cảm nhận được sự tươi vui trong từng âm thanh."
     },
     {
       "id": "q4",
-      "question": "Câu chuyện nhà môi giới chứng khoán William B. Steinhardt thay đổi hoàn toàn cuộc sống hôn nhân và công việc chỉ bằng cách nào?",
+      "question": "Câu chuyện của William B. Steinhardt cho thấy sự thay đổi cuộc sống hôn nhân và công việc đến từ quyết định đơn giản nào?",
       "options": [
-        "Bỏ công việc chứng khoán để đi du lịch vòng quanh thế giới.",
-        "Mua một căn biệt thự mới đắt tiền cho gia đình.",
-        "Học thêm một bằng tiến sĩ kinh tế tài chính.",
-        "Quyết định mỉm cười chào vợ mỗi sáng, mỉm cười với nhân viên thang máy, đồng nghiệp và khách hàng mỗi ngày."
+        "Thay đổi hoàn toàn phong cách ăn mặc và thái độ làm việc để trở nên lịch lãm, chuyên nghiệp hơn trong mắt mọi người xung quanh.",
+        "Dành nhiều thời gian hơn cho các hoạt động thiện nguyện và cộng đồng để tìm lại niềm vui và ý nghĩa trong cuộc sống cá nhân.",
+        "Học cách lắng nghe và thấu hiểu quan điểm của người khác thay vì chỉ tập trung vào những mong muốn cá nhân của bản thân mình.",
+        "Quyết định mỉm cười chào vợ mỗi sáng, mỉm cười với nhân viên thang máy, đồng nghiệp và khách hàng mỗi ngày một cách chân thành."
       ],
       "correctIndex": 3,
       "explanation": "Steinhardt từ một người ủ rũ đã trở thành người hạnh phúc và thành công nhất nhờ quyết định mỉm cười và lan tỏa sự tươi vui mỗi ngày."
     },
     {
       "id": "q5",
-      "question": "Thuyết cảm xúc của triết gia William James chỉ ra mối liên hệ tương hỗ kỳ diệu giữa 'hành động' và 'cảm xúc' như thế nào?",
+      "question": "Thuyết cảm xúc của triết gia William James chỉ ra mối liên hệ tương hỗ kỳ diệu giữa hành động và cảm xúc như thế nào?",
       "options": [
-        "Hành động hoàn toàn không có ảnh hưởng gì đến cảm xúc nội tâm.",
-        "Hành động và cảm xúc đi liền với nhau. Bằng cách chủ động điều khiển hành động (vốn nằm trong tầm kiểm soát ý chí), ta có thể gián tiếp điều chỉnh và làm chủ cảm xúc của chính mình.",
-        "Cảm xúc luôn xuất hiện trước và không thể thay đổi được.",
-        "Con người phải đợi khi nào thật vui thì mới được phép mỉm cười."
+        "Bằng cách chủ động điều khiển hành động vốn nằm trong tầm kiểm soát ý chí, ta có thể gián tiếp điều chỉnh cảm xúc của mình.",
+        "Cảm xúc luôn là yếu tố quyết định hành động, vì vậy con người không thể thay đổi cảm xúc nếu không có sự tác động từ bên ngoài.",
+        "Hành động và cảm xúc là hai thực thể độc lập, không có sự tác động qua lại lẫn nhau trong quá trình hình thành tâm lý con người.",
+        "Con người chỉ có thể thay đổi cảm xúc thông qua việc rèn luyện tư duy logic và kiểm soát các suy nghĩ tiêu cực trong tâm trí."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Nếu bạn không cảm thấy vui, hãy chủ động mỉm cười, ngồi thẳng lưng và hát một giai điệu vui tươi; tâm trí sẽ tự động chuyển hóa theo trạng thái của cơ thể."
     },
     {
       "id": "q6",
-      "question": "Câu tục ngữ cổ của người Trung Hoa được trích dẫn trong chương: 'Người không biết mỉm cười thì đừng...' mang bài học kinh doanh nào?",
+      "question": "Câu tục ngữ cổ của người Trung Hoa được trích dẫn trong chương mang bài học kinh doanh quan trọng nào cho các thương nhân?",
       "options": [
-        "'...đừng bao giờ đi vay tiền ngân hàng'.",
-        "'...đừng bao giờ mở hiệu buôn'.",
-        "'...đừng tham gia vào chính trường'.",
-        "'...đừng ra ngoài đường vào ban đêm'."
+        "Người không biết mỉm cười thì đừng bao giờ đi vay tiền ngân hàng, vì sự uy tín luôn gắn liền với vẻ mặt tươi tắn, lạc quan.",
+        "Người không biết mỉm cười thì đừng mở hiệu buôn, vì thái độ niềm nở là vốn liếng quan trọng nhất để thu hút khách hàng.",
+        "Người không biết mỉm cười thì đừng bao giờ tham gia vào chính trường, vì nụ cười là vũ khí sắc bén nhất của mọi chính trị gia.",
+        "Người không biết mỉm cười thì đừng bao giờ ra ngoài đường vào ban đêm, vì sự u ám sẽ thu hút những điều không may mắn đến."
       ],
       "correctIndex": 1,
       "explanation": "Một khuôn mặt cau có, lạnh lùng sẽ xua đuổi tài lộc và khách hàng; sự niềm nở, tươi cười là vốn liếng kinh doanh quan trọng nhất."
     },
     {
       "id": "q7",
-      "question": "Khi bạn gặp một người khách hàng đang vô cùng giận dữ và căng thẳng, phản ứng bằng một nụ cười điềm tĩnh, ân cần có tác dụng tâm lý gì?",
+      "question": "Khi bạn gặp một khách hàng đang vô cùng giận dữ, phản ứng bằng một nụ cười điềm tĩnh, ân cần có tác dụng tâm lý gì?",
       "options": [
-        "Làm cho khách hàng càng tức giận hơn vì nghĩ mình bị trêu chọc.",
-        "Làm dịu cơn thịnh nộ, hạ nhiệt bầu không khí căng thẳng và gửi tín hiệu hòa giải, sẵn sàng lắng nghe giải quyết vấn đề.",
-        "Khiến khách hàng bỏ về mà không cần giải quyết sự việc.",
-        "Lập tức biến giao dịch thành một trò đùa."
+        "Khiến khách hàng cảm thấy bị coi thường và càng tức giận hơn vì họ nghĩ rằng bạn đang trêu chọc sự nghiêm trọng của sự việc.",
+        "Giúp bạn khẳng định vị thế của người làm chủ tình huống và khiến khách hàng phải tự cảm thấy xấu hổ về hành vi của mình.",
+        "Làm dịu cơn thịnh nộ, hạ nhiệt bầu không khí căng thẳng và gửi tín hiệu hòa giải, sẵn sàng lắng nghe để giải quyết vấn đề.",
+        "Tạo ra một khoảng lặng cần thiết để cả hai bên có thể suy nghĩ lại về những mâu thuẫn đang tồn tại trong giao dịch hiện tại."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự điềm tĩnh và nụ cười hòa nhã là liều thuốc giải độc cho cơn giận; bạn không thể dập tắt ngọn lửa bằng cách đổ thêm dầu thù hằn."
     },
     {
       "id": "q8",
-      "question": "Đoạn văn thơ ca ngợi nụ cười trong mùa Giáng sinh mô tả nụ cười có đặc tính quý giá nào?",
+      "question": "Đoạn văn thơ ca ngợi nụ cười trong mùa Giáng sinh mô tả nụ cười có đặc tính quý giá nào đối với con người?",
       "options": [
-        "Nó làm giàu cho người nhận mà không làm nghèo đi người trao tặng; nó chỉ tồn tại trong khoảnh khắc nhưng ký ức về nó có thể kéo dài suốt đời.",
-        "Nó chỉ có giá trị vào những ngày lễ hội lớn.",
-        "Nó là món hàng xa xỉ chỉ người giàu mới mua được.",
-        "Nó có thể dùng để thanh toán thay thế cho tiền mặt."
+        "Nó là một món hàng xa xỉ chỉ những người giàu có mới có thể sở hữu và trao tặng cho những người kém may mắn hơn trong xã hội.",
+        "Nó có giá trị tinh thần to lớn chỉ trong những ngày lễ hội lớn, giúp con người quên đi những khó khăn của cuộc sống thường nhật.",
+        "Nó có thể dùng để thanh toán thay thế cho tiền mặt trong các giao dịch thương mại, giúp thúc đẩy nền kinh tế phát triển mạnh.",
+        "Nó làm giàu cho người nhận mà không làm nghèo đi người trao tặng; nó tồn tại trong khoảnh khắc nhưng ký ức có thể kéo dài."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Nụ cười là món quà kỳ diệu: cho đi không mất vốn nhưng tạo ra nguồn tài sản tình cảm vô giá cho cả người nhận lẫn người cho."
     },
     {
       "id": "q9",
       "question": "Nếu một người đang trải qua nỗi buồn sâu sắc, lời khuyên thực tế để họ lấy lại nụ cười và năng lượng sống là gì?",
       "options": [
-        "Than phiền với tất cả bạn bè trên mạng xã hội.",
-        "Xem các bộ phim bi kịch để giải tỏa cảm xúc.",
-        "Khóa mình trong phòng tối và không tiếp xúc với ánh sáng.",
-        "Tập trung suy nghĩ về những điều may mắn, biết ơn trong cuộc sống, hít thở sâu và chủ động mỉm cười trước gương."
+        "Tập trung suy nghĩ về những điều may mắn, biết ơn trong cuộc sống, hít thở sâu và chủ động mỉm cười trước gương mỗi ngày.",
+        "Than phiền với tất cả bạn bè trên mạng xã hội để nhận được sự đồng cảm và chia sẻ từ những người xung quanh trong lúc khó khăn.",
+        "Xem các bộ phim bi kịch để giải tỏa cảm xúc tiêu cực, giúp tâm hồn trở nên nhẹ nhàng và thanh thản hơn sau những nỗi đau.",
+        "Khóa mình trong phòng tối và không tiếp xúc với ánh sáng để có thời gian tĩnh lặng, suy ngẫm về những sai lầm của bản thân."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Nuôi dưỡng lòng biết ơn và thực hành nụ cười thể lý là phương thuốc tự nhiên mạnh mẽ nhất để nâng đỡ tinh thần vượt qua khủng hoảng."
     },
     {
       "id": "q10",
       "question": "Tác động của một nụ cười rạng rỡ trong một buổi phỏng vấn xin việc đối với nhà tuyển dụng là gì?",
       "options": [
-        "Tạo ấn tượng về một ứng viên tự tin, lạc quan, có tinh thần đồng đội cao và mang lại nguồn năng lượng tích cực cho văn hóa công ty.",
-        "Không có bất kỳ tác động nào so với điểm số học bạ.",
-        "Làm nhà tuyển dụng nghi ngờ ứng viên thiếu nghiêm túc.",
-        "Khiến cuộc phỏng vấn bị hủy bỏ ngay lập tức."
+        "Không có bất kỳ tác động nào so với điểm số học bạ, vì nhà tuyển dụng chỉ quan tâm đến năng lực chuyên môn của ứng viên đó.",
+        "Tạo ấn tượng về một ứng viên tự tin, lạc quan, có tinh thần đồng đội cao và mang lại năng lượng tích cực cho văn hóa công ty.",
+        "Làm nhà tuyển dụng nghi ngờ ứng viên thiếu nghiêm túc và không đủ khả năng để đảm nhận những trọng trách lớn trong công việc.",
+        "Khiến cuộc phỏng vấn bị hủy bỏ ngay lập tức vì nhà tuyển dụng cho rằng ứng viên đang cố gắng che giấu sự thiếu hụt về kỹ năng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Nhà tuyển dụng luôn muốn làm việc cùng những người tích cực, dễ gần và có khả năng hòa nhập văn hóa tổ chức xuất sắc."
     },
     {
       "id": "q11",
       "question": "Tại sao trẻ sơ sinh và trẻ nhỏ lại nhận được tình yêu thương vô điều kiện từ mọi người xung quanh?",
       "options": [
-        "Do trẻ em luôn mang lại lợi ích kinh tế cho gia đình.",
-        "Vì trẻ em không bao giờ khóc lóc.",
-        "Vì trẻ em có thể nói được nhiều thứ tiếng.",
-        "Nụ cười trong veo, hồn nhiên và không toan tính của trẻ thơ có sức mạnh lay động trực tiếp vào bản năng yêu thương sâu thẳm của con người."
+        "Do trẻ em luôn mang lại lợi ích kinh tế cho gia đình và xã hội, nên mọi người đều có xu hướng yêu quý và bảo vệ chúng.",
+        "Vì trẻ em không bao giờ khóc lóc hay gây ra rắc rối, nên chúng luôn nhận được sự quan tâm đặc biệt từ những người xung quanh.",
+        "Nụ cười trong veo, hồn nhiên và không toan tính của trẻ thơ có sức mạnh lay động trực tiếp vào bản năng yêu thương con người.",
+        "Vì trẻ em có khả năng học hỏi nhanh chóng và thể hiện sự thông minh vượt trội ngay từ khi còn rất nhỏ trong môi trường sống."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Sự ngây thơ và nụ cười không phòng vệ của trẻ nhỏ là biểu hiện thuần khiết nhất của niềm vui sống, đánh thức lòng trắc ẩn nơi người lớn."
     },
     {
       "id": "q12",
       "question": "Điều gì xảy ra với hệ miễn dịch và sức khỏe thể chất của một người duy trì thói quen mỉm cười và sống lạc quan mỗi ngày?",
       "options": [
-        "Hệ miễn dịch bị suy giảm do cơ mặt hoạt động quá mức.",
-        "Cơ thể sản sinh các hormone hạnh phúc (endorphin, serotonin), giảm nồng độ cortisol gây stress, giúp tim mạch khỏe mạnh và nâng cao sức đề kháng.",
-        "Không có bất kỳ mối liên hệ nào giữa nụ cười và thể chất.",
-        "Làm tăng nguy cơ mắc các bệnh về đường hô hấp."
+        "Hệ miễn dịch bị suy giảm do cơ mặt hoạt động quá mức, dẫn đến việc cơ thể dễ mắc phải các bệnh truyền nhiễm thông thường.",
+        "Không có bất kỳ mối liên hệ nào giữa nụ cười và thể chất, vì sức khỏe phụ thuộc hoàn toàn vào chế độ ăn uống và tập luyện.",
+        "Làm tăng nguy cơ mắc các bệnh về đường hô hấp do việc cười quá nhiều khiến cơ thể mất đi lượng oxy cần thiết cho các tế bào.",
+        "Cơ thể sản sinh các hormone hạnh phúc, giảm nồng độ cortisol gây stress, giúp tim mạch khỏe mạnh và nâng cao sức đề kháng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Khoa học y học chứng minh nụ cười và tinh thần lạc quan là thần dược tự nhiên giúp tăng cường hệ miễn dịch và kéo dài tuổi thọ."
     },
     {
       "id": "q13",
       "question": "Khi bạn bước vào một căn phòng đầy những người xa lạ, cách nhanh nhất để biến không khí xa cách thành thân thiện là gì?",
       "options": [
-        "Lớn tiếng phê bình cách bài trí nội thất của căn phòng.",
-        "Chủ động mỉm cười ấm áp và gửi lời chào niềm nở đến những người ở gần bạn nhất.",
-        "Chờ đợi có người đến bắt chuyện trước rồi mới đáp lời.",
-        "Đứng im ở góc phòng và quan sát với ánh mắt dò xét."
+        "Chủ động mỉm cười ấm áp và gửi lời chào niềm nở đến những người ở gần bạn nhất để phá vỡ sự e dè của người đối diện.",
+        "Lớn tiếng phê bình cách bài trí nội thất của căn phòng để thu hút sự chú ý của mọi người và bắt đầu một cuộc tranh luận.",
+        "Chờ đợi có người đến bắt chuyện trước rồi mới đáp lời để giữ thái độ khiêm tốn và tránh những rủi ro trong giao tiếp xã hội.",
+        "Đứng im ở góc phòng và quan sát với ánh mắt dò xét để tìm hiểu tính cách của từng người trước khi quyết định làm quen."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Nụ cười là chiếc chìa khóa vạn năng mở toang cánh cửa e dè của người lạ, thiết lập ngay lập tức vùng an toàn tâm lý giữa những người chưa quen."
     },
     {
       "id": "q14",
-      "question": "Một người có kiến thức chuyên môn uyên thâm nhưng khuôn mặt luôn cau có, cau mày khó chịu sẽ gặp trở ngại gì trong sự nghiệp?",
+      "question": "Một người có kiến thức chuyên môn uyên thâm nhưng khuôn mặt luôn cau có sẽ gặp trở ngại gì trong sự nghiệp?",
       "options": [
-        "Sẽ nhận được nhiều giải thưởng về phong cách lãnh đạo.",
-        "Sẽ luôn được bổ nhiệm vào các vị trí lãnh đạo cao nhất.",
-        "Không gặp bất kỳ trở ngại nào trong công việc.",
-        "Rất khó thu hút cộng sự giỏi, cấp dưới xa lánh, đối tác e ngại hợp tác và khó thăng tiến lên các vị trí quản lý cấp cao."
+        "Sẽ nhận được nhiều giải thưởng về phong cách lãnh đạo nghiêm túc, giúp họ khẳng định uy tín trong ngành nghề mình đang theo đuổi.",
+        "Rất khó thu hút cộng sự giỏi, cấp dưới xa lánh, đối tác e ngại hợp tác và khó thăng tiến lên các vị trí quản lý cấp cao.",
+        "Sẽ luôn được bổ nhiệm vào các vị trí lãnh đạo cao nhất vì sự nghiêm túc của họ được coi là tiêu chuẩn vàng trong công việc.",
+        "Không gặp bất kỳ trở ngại nào trong công việc vì năng lực chuyên môn luôn là yếu tố duy nhất quyết định sự thành công cá nhân."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Thái độ quyết định độ cao; không ai muốn làm việc lâu dài dưới quyền một người quản lý luôn tỏa ra năng lượng tiêu cực và u ám."
     },
     {
       "id": "q15",
-      "question": "Tóm tắt cốt lõi của NGUYÊN TẮC 5 trong 'Đắc Nhân Tâm' là gì?",
+      "question": "Tóm tắt cốt lõi của NGUYÊN TẮC 5 trong cuốn sách Đắc Nhân Tâm của Dale Carnegie là gì?",
       "options": [
-        "Hãy giữ vẻ mặt nghiêm nghị trong mọi hoàn cảnh.",
-        "Cười thật to để át tiếng nói của người khác.",
-        "Hãy mỉm cười!",
-        "Chỉ cười khi có người khác làm trò cười cho bạn."
+        "Hãy giữ vẻ mặt nghiêm nghị trong mọi hoàn cảnh để thể hiện sự chuyên nghiệp và uy quyền của bản thân trong các cuộc giao tiếp.",
+        "Cười thật to để át tiếng nói của người khác, giúp bạn giành ưu thế trong các cuộc thảo luận và khẳng định quan điểm cá nhân.",
+        "Hãy luôn mỉm cười bằng sự chân thành từ trái tim để sưởi ấm các mối quan hệ và lan tỏa niềm vui sống cho mọi người xung quanh.",
+        "Chỉ cười khi có người khác làm trò cười cho bạn, vì đó là cách duy nhất để giữ gìn hình ảnh lịch sự và điềm đạm trước đám đông."
       ],
       "correctIndex": 2,
       "explanation": "Nguyên tắc số 5: Hãy luôn mỉm cười bằng sự chân thành từ trái tim để sưởi ấm các mối quan hệ và lan tỏa niềm vui sống."

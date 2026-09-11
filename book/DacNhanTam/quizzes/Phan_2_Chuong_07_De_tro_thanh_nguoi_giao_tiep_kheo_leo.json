@@ -6,72 +6,72 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Nghịch lý thú vị trong câu chuyện Dale Carnegie được một nhà thực vật học ca ngợi là 'người trò chuyện thú vị và thông thái nhất' tại bữa tiệc tối là gì?",
+      "question": "Nghịch lý thú vị trong câu chuyện Dale Carnegie được một nhà thực vật học ca ngợi là 'người trò chuyện thú vị nhất' tại bữa tiệc tối là gì?",
       "options": [
-        "Carnegie hầu như không nói gì cả, ông chỉ chăm chú lắng nghe nhà thực vật học say mê nói về chuyên môn của mình với sự hào hứng và ngưỡng mộ chân thành.",
-        "Carnegie đã thuyết trình say sưa về các loài hoa quý suốt 3 tiếng đồng hồ.",
-        "Carnegie đã tranh luận và bác bỏ toàn bộ giả thuyết của nhà khoa học.",
-        "Carnegie đã tặng cho nhà thực vật học một cây phong lan đắt giá."
+        "Carnegie hầu như không nói gì cả, ông chỉ chăm chú lắng nghe nhà thực vật học say mê nói về chuyên môn với sự hào hứng.",
+        "Carnegie đã thuyết trình say sưa về các loài hoa quý suốt ba tiếng đồng hồ để thể hiện sự hiểu biết sâu rộng của bản thân.",
+        "Carnegie đã tranh luận và bác bỏ toàn bộ giả thuyết của nhà khoa học để chứng minh quan điểm cá nhân là hoàn toàn đúng đắn.",
+        "Carnegie đã tặng cho nhà thực vật học một cây phong lan đắt giá để lấy lòng và tạo ấn tượng mạnh mẽ với vị khách mời này."
       ],
       "correctIndex": 0,
       "explanation": "Nghệ thuật trò chuyện đỉnh cao không phải là nói hay, mà là biết lắng nghe chăm chú; người biết lắng nghe là người bạn trò chuyện cuốn hút nhất."
     },
     {
       "id": "q2",
-      "question": "Tại sao khách hàng hay than phiền gay gắt nhất, thậm chí thù địch nhất của Công ty Điện thoại New York lại trở thành khách hàng trung thành và thanh toán toàn bộ hóa đơn tồn đọng?",
+      "question": "Tại sao khách hàng hay than phiền gay gắt nhất của Công ty Điện thoại New York lại trở thành khách hàng trung thành sau đó?",
       "options": [
-        "Khách hàng nhận ra mình đã nhầm lẫn số điện thoại.",
-        "Công ty đã miễn phí dịch vụ trọn đời cho khách hàng này.",
-        "Công ty đã kiện ông ta ra tòa và phong tỏa tài khoản ngân hàng.",
-        "Một nhân viên đại diện đã kiên nhẫn đến ngồi nghe ông ta trút hết mọi bực tức, bất bình trong suốt 4 buổi gặp kéo dài nhiều giờ mà không hề ngắt lời hay phản bác."
+        "Khách hàng nhận ra mình đã nhầm lẫn số điện thoại nên cảm thấy xấu hổ và tự nguyện thanh toán toàn bộ hóa đơn tồn đọng cũ.",
+        "Một đại diện đã kiên nhẫn ngồi nghe ông ta trút hết mọi bực tức trong bốn buổi gặp kéo dài mà không hề ngắt lời phản bác.",
+        "Công ty đã miễn phí dịch vụ trọn đời cho khách hàng này để xoa dịu cơn giận dữ và ngăn chặn các vụ kiện tụng kéo dài.",
+        "Công ty đã kiện ông ta ra tòa và phong tỏa tài khoản ngân hàng khiến ông ta buộc phải chấp nhận thanh toán mọi khoản nợ."
       ],
-      "correctIndex": 3,
-      "explanation": "Khách hàng hung hãn thực chất là người đang thèm khát cảm giác được quan trọng và được lắng nghe; khi được xả hết ấm ức và được công nhận, cơn giận tự biến mất."
+      "correctIndex": 1,
+      "explanation": "Khách hàng hung hãn thực chất là người đang thèm khát cảm giác được quan trọng và được lắng nghe; khi được xả hết ấm ức, cơn giận tự biến mất."
     },
     {
       "id": "q3",
       "question": "Sai lầm tai hại và phổ biến nhất của những người bị coi là 'kẻ bất lịch sự, nhàm chán và vô duyên trong giao tiếp' là gì?",
       "options": [
-        "Chỉ chăm chăm nói về bản thân, cướp lời khi người khác đang nói, không bao giờ chịu lắng nghe và luôn hướng mọi chủ đề về cái tôi của mình.",
-        "Mặc trang phục không hợp thời trang.",
-        "Đặt quá nhiều câu hỏi gợi mở cho người đối diện.",
-        "Nói quá nhỏ khiến người khác không nghe rõ."
+        "Mặc trang phục không hợp thời trang hoặc thiếu chỉn chu khiến người đối diện cảm thấy không được tôn trọng trong cuộc gặp.",
+        "Đặt quá nhiều câu hỏi gợi mở cho người đối diện khiến họ cảm thấy như đang bị thẩm vấn trong một cuộc điều tra căng thẳng.",
+        "Chỉ chăm chăm nói về bản thân, cướp lời khi người khác đang nói và luôn hướng mọi chủ đề về cái tôi cá nhân của mình.",
+        "Nói quá nhỏ khiến người khác không nghe rõ nội dung cần truyền đạt, dẫn đến sự hiểu lầm đáng tiếc trong quá trình giao tiếp."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Kẻ chỉ biết nói về mình là kẻ ích kỷ và thiếu giáo dục; họ đầu độc mọi cuộc trò chuyện bằng sự tự phụ mù quáng của bản thân."
     },
     {
       "id": "q4",
       "question": "Nhà văn lỗi lạc Charles Eliot (nguyên Hiệu trưởng Đại học Harvard) nhận định điều gì về bí quyết thành công trong giao tiếp?",
       "options": [
-        "'Không có bí quyết cao siêu nào trong giao tiếp thương mại thành công ngoài việc dành sự chú ý trọn vẹn, tuyệt đối cho người đang nói chuyện với bạn. Không có điều gì tâng bốc người khác bằng sự chú tâm đó'.",
-        "Nghệ thuật sử dụng từ ngữ hoa mỹ để áp đảo đối phương.",
-        "Khả năng ghi nhớ toàn bộ từ điển bách khoa toàn thư.",
-        "Tốc độ phản biện nhanh chóng trong vòng 3 giây."
+        "Nghệ thuật sử dụng từ ngữ hoa mỹ để áp đảo đối phương là cách nhanh nhất để khẳng định vị thế và quyền lực của cá nhân.",
+        "Khả năng ghi nhớ toàn bộ từ điển bách khoa toàn thư giúp bạn luôn có chủ đề để nói và không bao giờ bị rơi vào im lặng.",
+        "Tốc độ phản biện nhanh chóng trong vòng ba giây là chìa khóa để giành chiến thắng trong mọi cuộc tranh luận gay gắt nhất.",
+        "Không có bí quyết nào cao siêu ngoài việc dành sự chú ý trọn vẹn cho người đang nói chuyện với bạn để tôn vinh họ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Lắng nghe với 100% sự hiện diện và chú tâm là hình thức tôn vinh phẩm giá con người cao quý nhất mà không lời tâng bốc nào sánh bằng."
     },
     {
       "id": "q5",
       "question": "Bí quyết giúp Sigmund Freud thu phục được sự cởi mở tuyệt đối từ các bệnh nhân tâm thần phức tạp nhất là gì?",
       "options": [
-        "Thái độ lắng nghe chăm chú vô song, ánh mắt ấm áp, không phán xét, khiến bệnh nhân cảm thấy mọi suy nghĩ thầm kín nhất của họ đều được trân trọng và thấu hiểu.",
-        "Kể về những câu chuyện cuộc đời của chính bác sĩ.",
-        "Thôi miên cưỡng bức bằng ánh mắt sắc lạnh.",
-        "Cho bệnh nhân uống các loại thuốc an thần mạnh."
+        "Thái độ lắng nghe chăm chú vô song, ánh mắt ấm áp, không phán xét khiến bệnh nhân cảm thấy suy nghĩ của họ được trân trọng.",
+        "Kể về những câu chuyện cuộc đời của chính bác sĩ để tạo sự gần gũi và giúp bệnh nhân cảm thấy thoải mái hơn khi chia sẻ.",
+        "Thôi miên cưỡng bức bằng ánh mắt sắc lạnh để kiểm soát tâm trí bệnh nhân và buộc họ phải nói ra những bí mật thầm kín nhất.",
+        "Cho bệnh nhân uống các loại thuốc an thần mạnh để họ rơi vào trạng thái mơ màng và dễ dàng bộc lộ những ức chế tâm lý sâu."
       ],
       "correctIndex": 0,
       "explanation": "Freud tạo ra một không gian tâm lý an toàn tuyệt đối bằng sự lắng nghe thấu cảm, giải phóng những ức chế sâu kín nhất trong tâm hồn con người."
     },
     {
       "id": "q6",
-      "question": "Tại sao nhiều cuộc hôn nhân rơi vào bế tắc và ly hôn chỉ vì thiếu vắng kỹ năng lắng nghe?",
+      "question": "Tại sao nhiều cuộc hôn nhân rơi vào bế tắc và ly hôn chỉ vì thiếu vắng kỹ năng lắng nghe trong đời sống hàng ngày?",
       "options": [
-        "Vì cả hai vợ chồng đều không biết nấu ăn.",
-        "Vợ chồng không còn lắng nghe tâm tư, nỗi vất vả và cảm xúc của nhau; mỗi người chỉ lo chỉ trích, cằn nhằn hoặc im lặng lạnh lùng đối phó.",
-        "Bởi vì họ sống ở những thành phố quá ồn ào.",
-        "Do không có cùng sở thích xem phim truyền hình."
+        "Vì cả hai vợ chồng đều không biết nấu ăn ngon để giữ lửa hạnh phúc gia đình qua những bữa cơm tối đầm ấm và đầy đủ.",
+        "Vợ chồng không còn lắng nghe tâm tư, nỗi vất vả của nhau; mỗi người chỉ lo chỉ trích, cằn nhằn hoặc im lặng lạnh lùng.",
+        "Bởi vì họ sống ở những thành phố quá ồn ào khiến cho việc giao tiếp trở nên khó khăn và gây ra nhiều hiểu lầm tai hại.",
+        "Do không có cùng sở thích xem phim truyền hình vào mỗi buổi tối nên họ không tìm được tiếng nói chung trong các cuộc vui."
       ],
       "correctIndex": 1,
       "explanation": "Tổn thương lớn nhất trong hôn nhân là cảm giác cô đơn ngay bên cạnh bạn đời vì tiếng lòng của mình không bao giờ được lắng nghe và thấu cảm."
@@ -80,34 +80,34 @@
       "id": "q7",
       "question": "Khi một người bạn đang kể về thành tích, chuyến đi hoặc sở thích của họ, hành động thể hiện bạn là người giao tiếp tinh tế là gì?",
       "options": [
-        "Chăm chú lắng nghe, đặt những câu hỏi gợi mở hào hứng để khuyến khích họ chia sẻ sâu hơn về những trải nghiệm đáng tự hào của họ.",
-        "Nhìn đồng hồ liên tục và lướt điện thoại di động.",
-        "Lập tức ngắt lời để kể về chuyến đi còn hoành tráng hơn của bạn.",
-        "Đổi chủ đề sang vấn đề thời tiết ngay lập tức."
+        "Nhìn đồng hồ liên tục và lướt điện thoại di động để thể hiện rằng bạn là người bận rộn và có nhiều việc quan trọng cần làm.",
+        "Lập tức ngắt lời để kể về chuyến đi còn hoành tráng hơn của bạn nhằm thu hút sự chú ý của mọi người về phía bản thân mình.",
+        "Chăm chú lắng nghe, đặt những câu hỏi gợi mở hào hứng để khuyến khích họ chia sẻ sâu hơn về những trải nghiệm đáng tự hào.",
+        "Đổi chủ đề sang vấn đề thời tiết ngay lập tức để tránh việc phải nghe những câu chuyện mà bạn cảm thấy không mấy hứng thú."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Khuyến khích người khác nói về những điều họ tự hào là món quà tinh thần hào phóng, biến bạn thành người bạn tri kỷ đáng tin cậy nhất."
     },
     {
       "id": "q8",
-      "question": "Khái niệm 'Lắng nghe chủ động' (Active Listening) khác biệt như thế nào so với việc 'nghe thụ động'?",
+      "question": "Khái niệm 'Lắng nghe chủ động' (Active Listening) khác biệt như thế nào so với việc 'nghe thụ động' thông thường?",
       "options": [
-        "Lắng nghe chủ động đòi hỏi sự tập trung toàn bộ tâm trí, quan sát ngôn ngữ cơ thể, nắm bắt cảm xúc ẩn sau lời nói và phản hồi bằng sự thấu hiểu chân thành.",
-        "Lắng nghe chủ động là vừa nghe vừa làm việc riêng trên máy tính.",
-        "Hai hình thức này hoàn toàn giống nhau về mặt kỹ thuật.",
-        "Nghe thụ động giúp tiết kiệm thời gian hơn nhiều."
+        "Lắng nghe chủ động là vừa nghe vừa làm việc riêng trên máy tính để tối ưu hóa thời gian trong một ngày làm việc bận rộn.",
+        "Hai hình thức này hoàn toàn giống nhau về mặt kỹ thuật, chỉ khác nhau ở cách người nghe thể hiện thái độ ra bên ngoài thôi.",
+        "Nghe thụ động giúp tiết kiệm thời gian hơn nhiều vì bạn không cần phải suy nghĩ hay phân tích những gì người khác đang nói.",
+        "Lắng nghe chủ động đòi hỏi sự tập trung toàn bộ tâm trí, quan sát ngôn ngữ cơ thể và phản hồi bằng sự thấu hiểu chân thành."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Lắng nghe chủ động là lắng nghe bằng cả khối óc, đôi mắt và trái tim; không chỉ nghe câu chữ mà cảm nhận trọn vẹn thế giới nội tâm của người nói."
     },
     {
       "id": "q9",
-      "question": "Câu chuyện vị thương gia mua vải Julien Detmer tại New York đã biến một đối tác bán hàng khó tính thành bạn thân nhờ cách tiếp cận nào?",
+      "question": "Câu chuyện vị thương gia mua vải Julien Detmer đã biến một đối tác bán hàng khó tính thành bạn thân nhờ cách tiếp cận nào?",
       "options": [
-        "Đến hỏi xin ý kiến và lời khuyên của đối tác về kinh nghiệm kinh doanh ngành len dạ thời kỳ đầu, ngồi hàng giờ để nghe ông ta say sưa kể về sự nghiệp oanh liệt của mình.",
-        "Giảm giá đơn hàng xuống mức lỗ vốn.",
-        "Mời đối tác đi ăn tại nhà hàng sang trọng nhất khu Manhattan.",
-        "Gửi thư khiếu nại lên hiệp hội dệt may."
+        "Kiên nhẫn ngồi nghe đối tác xả hết bực tức, sau đó cảm ơn vì họ đã chỉ ra sai sót để công ty có cơ hội sửa chữa kịp thời.",
+        "Giảm giá đơn hàng xuống mức lỗ vốn để đối tác cảm thấy hài lòng và tiếp tục duy trì mối quan hệ kinh doanh lâu dài với mình.",
+        "Mời đối tác đi ăn tại nhà hàng sang trọng nhất khu Manhattan để thể hiện sự giàu có và đẳng cấp của công ty mình đang quản lý.",
+        "Gửi thư khiếu nại lên hiệp hội dệt may để gây áp lực buộc đối tác phải xin lỗi và tiếp tục mua hàng của công ty mình như cũ."
       ],
       "correctIndex": 0,
       "explanation": "Hỏi xin lời khuyên và trân trọng kinh nghiệm sống của người khác là cách khôn ngoan nhất để biến một người phòng thủ thành người bảo trợ thân thiết."
@@ -116,72 +116,72 @@
       "id": "q10",
       "question": "Tại sao việc 'không ngắt lời khi người khác đang nói' lại là bài học kỷ luật bản thân khó khăn nhất đối với đa số mọi người?",
       "options": [
-        "Do tốc độ nói của mọi người thường quá chậm.",
-        "Vì hơi thở của con người không thể giữ quá 10 giây.",
-        "Vì ngắt lời là thói quen được dạy trong các trường học.",
-        "Cái tôi bản năng luôn thôi thúc chúng ta muốn thể hiện kiến thức, áp đặt quan điểm và chứng minh mình thông minh hơn người đối diện."
+        "Do tốc độ nói của mọi người thường quá chậm khiến người nghe cảm thấy sốt ruột và muốn nói nhanh hơn để tiết kiệm thời gian.",
+        "Cái tôi bản năng luôn thôi thúc chúng ta muốn thể hiện kiến thức, áp đặt quan điểm và chứng minh mình thông minh hơn người khác.",
+        "Vì hơi thở của con người không thể giữ quá mười giây nên việc im lặng lắng nghe là một thử thách sinh học rất khó vượt qua.",
+        "Vì ngắt lời là thói quen được dạy trong các trường học để học sinh thể hiện sự nhanh nhạy và tư duy phản biện trước giáo viên."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Kiềm chế ham muốn cướp lời đòi hỏi sự trưởng thành cảm xúc cao độ; người làm chủ được cái tôi mới có thể kiên nhẫn trao không gian nói cho tha nhân."
     },
     {
       "id": "q11",
-      "question": "Trong nghệ thuật đàm phán, người nói nhiều hơn thường rơi vào thế bất lợi nào?",
+      "question": "Trong nghệ thuật đàm phán, người nói nhiều hơn thường rơi vào thế bất lợi nào trong quá trình thương thảo?",
       "options": [
-        "Dễ để lộ thông tin cơ mật, để lộ điểm yếu và không thu thập được nhu cầu, động cơ thực sự của đối phương để đưa ra chiến lược phù hợp.",
-        "Bị đối phương đánh giá là người quá ít nói.",
-        "Bắt buộc phải ký hợp đồng ngay tại chỗ.",
-        "Bị mệt mỏi thanh quản và mất giọng sau cuộc họp."
+        "Bị đối phương đánh giá là người quá ít nói nên không thể hiện được sự nhiệt tình cần thiết để chốt đơn hàng thành công nhanh chóng.",
+        "Bắt buộc phải ký hợp đồng ngay tại chỗ mà không có thời gian suy nghĩ kỹ lưỡng về các điều khoản quan trọng trong bản hợp đồng.",
+        "Dễ để lộ thông tin cơ mật, để lộ điểm yếu và không thu thập được nhu cầu, động cơ thực sự của đối phương để đưa ra chiến lược.",
+        "Bị mệt mỏi thanh quản và mất giọng sau cuộc họp kéo dài khiến cho hình ảnh của bạn trở nên thiếu chuyên nghiệp trong mắt đối tác."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Nói nhiều làm lộ sơ hở; lắng nghe giúp bạn thu thập toàn bộ dữ liệu, nắm bắt tâm lý đối thủ và làm chủ bàn cờ đàm phán."
     },
     {
       "id": "q12",
-      "question": "Một câu hỏi gợi mở thông minh (open-ended question) có tác dụng gì trong việc kích hoạt cuộc đối thoại?",
+      "question": "Một câu hỏi gợi mở thông minh (open-ended question) có tác dụng gì trong việc kích hoạt cuộc đối thoại sâu sắc?",
       "options": [
-        "Chỉ cho phép người trả lời nói 'Có' hoặc 'Không'.",
-        "Tạo cơ hội và không gian để đối phương tự do bày tỏ quan điểm, cảm xúc và chia sẻ sâu sắc về những trải nghiệm cá nhân của họ.",
-        "Làm cho người nghe cảm thấy như đang bị thẩm vấn hình sự.",
-        "Kết thúc cuộc trò chuyện trong thời gian ngắn nhất."
+        "Chỉ cho phép người trả lời nói 'Có' hoặc 'Không' để bạn có thể kiểm soát hoàn toàn hướng đi của cuộc trò chuyện theo ý muốn.",
+        "Làm cho người nghe cảm thấy như đang bị thẩm vấn hình sự khiến họ trở nên dè dặt và không muốn chia sẻ thêm bất cứ điều gì.",
+        "Kết thúc cuộc trò chuyện trong thời gian ngắn nhất để bạn có thể chuyển sang chủ đề khác mà bạn cảm thấy hứng thú hơn nhiều.",
+        "Tạo cơ hội và không gian để đối phương tự do bày tỏ quan điểm, cảm xúc và chia sẻ sâu sắc về những trải nghiệm cá nhân của họ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Câu hỏi mở ('Làm thế nào...', 'Anh cảm thấy thế nào về...') là chìa khóa tháo gỡ sự dè dặt và dẫn lối cho một cuộc chuyện trò sâu sắc, thú vị."
     },
     {
       "id": "q13",
-      "question": "Điều gì tạo nên sức hút khó cưỡng của một người bạn tâm tình lý tưởng?",
+      "question": "Điều gì tạo nên sức hút khó cưỡng của một người bạn tâm tình lý tưởng trong mắt những người đang gặp khó khăn?",
       "options": [
-        "Khả năng vay mượn tiền bạc không tính lãi.",
-        "Khả năng giữ kín bí mật, lắng nghe với sự kiên nhẫn bao dung và làm cho người tâm sự cảm thấy nhẹ lòng, được thấu hiểu trọn vẹn.",
-        "Khả năng đưa ra hàng loạt lời khuyên phán xét ngay lập tức.",
-        "Sở hữu nhiều đồ dùng công nghệ hiện đại."
+        "Khả năng giữ kín bí mật, lắng nghe với sự kiên nhẫn bao dung và làm cho người tâm sự cảm thấy nhẹ lòng, được thấu hiểu.",
+        "Khả năng vay mượn tiền bạc không tính lãi để giúp đỡ bạn bè vượt qua những giai đoạn khủng hoảng tài chính trong cuộc sống.",
+        "Khả năng đưa ra hàng loạt lời khuyên phán xét ngay lập tức để giúp người đối diện nhận ra lỗi lầm của họ một cách nhanh chóng.",
+        "Sở hữu nhiều đồ dùng công nghệ hiện đại để có thể chia sẻ những xu hướng mới nhất cho bạn bè cùng biết và cùng sử dụng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Người ta tìm đến bạn tâm tình không phải để xin bài học đạo đức, mà để tìm kiếm một bến đỗ an toàn nơi tâm hồn họ được lắng nghe không điều kiện."
     },
     {
       "id": "q14",
-      "question": "Nếu muốn người khác xa lánh bạn, chế giễu sau lưng bạn và thậm chí khinh bỉ bạn, bạn chỉ cần làm theo công thức nào?",
+      "question": "Nếu muốn người khác xa lánh, chế giễu sau lưng và khinh bỉ bạn, bạn chỉ cần làm theo công thức nào dưới đây?",
       "options": [
-        "Luôn luôn giúp đỡ người nghèo khó.",
-        "Không bao giờ lắng nghe ai, nói liên tục về mình, ngắt lời người khác ngay khi họ mở miệng và tự cho mình là trung tâm vũ trụ.",
-        "Mỉm cười với mọi người xung quanh.",
-        "Mỗi ngày đọc một cuốn sách hay."
+        "Luôn luôn giúp đỡ người nghèo khó và những người gặp hoạn nạn trong cuộc sống mà không cần bất kỳ sự đền đáp nào từ họ.",
+        "Không bao giờ lắng nghe ai, nói liên tục về mình, ngắt lời người khác ngay khi họ mở miệng và tự cho mình là trung tâm.",
+        "Mỉm cười với mọi người xung quanh để tạo ra bầu không khí thân thiện và cởi mở trong mọi cuộc gặp gỡ xã giao hàng ngày.",
+        "Mỗi ngày đọc một cuốn sách hay để trau dồi kiến thức và hoàn thiện bản thân trở thành một người có ích cho cộng đồng."
       ],
       "correctIndex": 1,
       "explanation": "Đây là lời cảnh tỉnh đanh thép của Carnegie về chân dung của một kẻ vị kỷ: tự chôn vùi uy tín bằng cái tôi hợm hĩnh và chiếc mồm không ngừng khoe khoang."
     },
     {
       "id": "q15",
-      "question": "Tóm tắt cốt lõi của NGUYÊN TẮC 7 trong 'Đắc Nhân Tâm' là gì?",
+      "question": "Tóm tắt cốt lõi của NGUYÊN TẮC 7 trong cuốn sách 'Đắc Nhân Tâm' của Dale Carnegie là gì?",
       "options": [
-        "Biết lắng nghe và khuyến khích người khác nói về vấn đề của họ.",
-        "Học cách diễn thuyết thật to để lấn át đám đông.",
-        "Chỉ lắng nghe những người đồng tình với quan điểm của mình.",
-        "Tránh mọi cuộc tiếp xúc xã hội để không phải nói chuyện."
+        "Học cách diễn thuyết thật to để lấn át đám đông và khẳng định vị thế của bản thân trong mọi cuộc thảo luận nhóm quan trọng.",
+        "Chỉ lắng nghe những người đồng tình với quan điểm của mình để củng cố niềm tin và tránh những tranh cãi không cần thiết.",
+        "Biết lắng nghe và khuyến khích người khác nói về vấn đề của họ để họ cảm thấy mình là người quan trọng và được trân trọng.",
+        "Tránh mọi cuộc tiếp xúc xã hội để không phải nói chuyện với người lạ và giữ cho tâm trí luôn được bình yên, thanh thản."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Nguyên tắc số 7: Hãy trở thành một người biết lắng nghe chăm chú và khích lệ người khác tự hào nói về bản thân họ."
     }
   ]

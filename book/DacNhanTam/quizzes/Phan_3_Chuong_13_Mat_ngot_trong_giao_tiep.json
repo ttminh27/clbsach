@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Câu chuyện ngụ ngôn nổi tiếng của Aesop về cuộc thi tài giữa Thần Gió Bắc và Thần Mặt Trời mang bài học sâu sắc nào?",
+      "question": "Câu chuyện ngụ ngôn của Aesop về cuộc thi giữa Gió và Mặt Trời mang lại bài học cốt lõi nào về nghệ thuật thuyết phục?",
       "options": [
-        "Cả hai vị thần đều thất bại trong cuộc thi.",
-        "Gió Bắc luôn mạnh hơn Mặt Trời trong mùa đông.",
-        "Cơn gió giận dữ, hung bạo chỉ khiến người bộ hành siết chặt áo khoác hơn; tia nắng ấm áp, dịu dàng của Mặt Trời đã khiến người đó tự nguyện cởi bỏ áo khoác — Sự thân thiện, dịu dàng luôn mạnh hơn bạo lực và giận dữ.",
-        "Người bộ hành nên mang theo nhiều áo khoác dự phòng."
+        "Sự dịu dàng và ấm áp của Mặt Trời dễ dàng cảm hóa lòng người hơn là sự cưỡng ép, hung bạo của những cơn gió giận dữ.",
+        "Sức mạnh của sự áp đặt và uy quyền là công cụ duy nhất để buộc người khác phải thay đổi quan điểm theo ý muốn cá nhân.",
+        "Việc sử dụng các biện pháp mạnh mẽ và quyết liệt ngay từ đầu sẽ giúp người lãnh đạo khẳng định được vị thế của mình.",
+        "Sự kiên trì trong việc gây áp lực liên tục sẽ khiến đối phương dần dần cảm thấy mệt mỏi và phải chấp nhận nhượng bộ."
       ],
-      "correctIndex": 2,
-      "explanation": "Mật ngọt chết ruồi; sự ấm áp, chân tình và thái độ hòa nhã có sức mạnh cảm hóa tự nguyện vượt trội hơn muôn ngàn cơn thịnh nộ gầm thét."
+      "correctIndex": 0,
+      "explanation": "Sự tử tế và thái độ hòa nhã có sức mạnh cảm hóa tự nguyện vượt trội hơn muôn ngàn cơn thịnh nộ gầm thét, đúng như triết lý của Dale Carnegie."
     },
     {
       "id": "q2",
-      "question": "Cách John D. Rockefeller Jr. đối thoại thành công với hàng ngàn công nhân mỏ than Colorado đang đình công bạo loạn đẫm máu vào năm 1915 là gì?",
+      "question": "Rockefeller đã làm gì để hòa giải thành công với những người thợ mỏ đang đình công trong cuộc khủng hoảng tại Colorado?",
       "options": [
-        "Mở đầu bài diễn văn bằng sự thân thiện tột cùng, gọi họ là 'những người bạn thân thiết', chân thành chia sẻ về sự gắn kết gia đình và tinh thần đồng đội — biến sự thù hận thành sự hợp tác hòa bình.",
-        "Thuê quân đội có vũ trang đến đàn áp và bắt giữ toàn bộ ban lãnh đạo công đoàn.",
-        "Tuyên bố tăng lương gấp 5 lần ngay trong đêm.",
-        "Đóng cửa vĩnh viễn toàn bộ các mỏ than tại Colorado."
+        "Ông sử dụng quyền lực kinh tế để đe dọa cắt đứt nguồn thu nhập của gia đình những người thợ mỏ đang tham gia đình công.",
+        "Ông tiếp cận họ bằng sự chân thành, khiêm tốn, lắng nghe khó khăn của gia đình họ để xây dựng lòng tin và sự đồng cảm.",
+        "Ông thuê các chuyên gia đàm phán để đưa ra những lý lẽ logic nhằm bác bỏ mọi yêu sách của công đoàn trong cuộc họp.",
+        "Ông tập trung vào việc chỉ ra những sai lầm trong tư duy của người lao động để họ tự nhận thấy sự vô lý khi đình công."
       ],
-      "correctIndex": 0,
-      "explanation": "Rockefeller đã chinh phục những trái tim đang sôi sục căm hờn bằng sự khiêm nhường, thân thiện và thấu cảm sâu sắc, hóa giải một trong những cuộc khủng hoảng lao động tồi tệ nhất lịch sử Mỹ."
+      "correctIndex": 1,
+      "explanation": "Rockefeller đã chinh phục những trái tim đang sôi sục căm hờn bằng sự khiêm nhường, thân thiện và thấu cảm sâu sắc, hóa giải xung đột."
     },
     {
       "id": "q3",
-      "question": "Câu nói bất hủ của Abraham Lincoln: 'Một giọt mật ngọt bắt được nhiều ruồi hơn một thùng nước đắng...' hàm chứa quy luật tâm lý nào?",
+      "question": "Câu nói của Lincoln: 'Một giọt mật ngọt bắt được nhiều ruồi hơn một thùng nước đắng' hàm chứa quy luật tâm lý nào?",
       "options": [
-        "Nước đắng không có giá trị sử dụng trong đời sống.",
-        "Nên sử dụng đồ ngọt trong các bữa tiệc ngoại giao.",
-        "Muốn thuyết phục một người đồng thuận với lý lẽ của bạn, trước hết bạn phải chứng minh cho họ thấy bạn là một NGƯỜI BẠN CHÂN THÀNH của họ; sự thân thiện là giọt mật ngọt mở toang trái tim họ.",
-        "Ruồi là loài côn trùng rất thích đồ ngọt."
+        "Việc sử dụng những lời khen ngợi giả tạo và ngọt ngào là cách nhanh nhất để đạt được mục đích trong mọi cuộc đàm phán.",
+        "Sự thẳng thắn và gay gắt trong ngôn từ là phương pháp hiệu quả để người khác nhận ra lỗi sai và thay đổi quan điểm.",
+        "Muốn thuyết phục người khác đồng thuận, bạn phải chứng minh mình là người bạn chân thành trước khi đưa ra các lý lẽ.",
+        "Người lãnh đạo cần phải giữ khoảng cách và sự lạnh lùng để duy trì uy tín cũng như sự tôn trọng từ phía nhân viên."
       ],
       "correctIndex": 2,
-      "explanation": "Trái tim là cánh cửa dẫn vào khối óc; nếu bạn không mở được cánh cửa cảm xúc bằng sự thân thiện, mọi lý lẽ đanh thép đều bị dội ngược ra ngoài."
+      "explanation": "Trái tim là cánh cửa dẫn vào khối óc; nếu bạn không mở được cánh cửa cảm xúc bằng sự thân thiện, mọi lý lẽ đanh thép đều bị dội ngược."
     },
     {
       "id": "q4",
-      "question": "Câu chuyện anh chàng O. L. Straub thuê nhà bị tăng giá quá mức đã khiến ông chủ nhà khó tính tự nguyện giảm giá thuê bằng cách nào?",
+      "question": "O. L. Straub đã làm gì để chủ nhà khó tính tự nguyện giảm tiền thuê nhà mà không cần phải tranh cãi hay gây áp lực?",
       "options": [
-        "Viết một bức thư vô cùng lịch thiệp, khen ngợi sự tuyệt vời của căn nhà và cách quản lý chu đáo của chủ nhà, nói rằng anh rất muốn ở lại nhưng tài chính cá nhân không cho phép — khiến chủ nhà xúc động tự đề nghị giảm tiền.",
-        "Phá hoại đồ đạc trong nhà trước khi chuyển đi.",
-        "Gửi thư đe dọa kiện chủ nhà ra tòa án thành phố.",
-        "Tổ chức biểu tình trước cửa văn phòng chủ nhà."
+        "Ông đe dọa sẽ chuyển đi ngay lập tức và kiện chủ nhà ra tòa nếu không chịu giảm giá thuê theo yêu cầu của hợp đồng.",
+        "Ông tập hợp những người thuê nhà khác để cùng gây sức ép buộc chủ nhà phải thay đổi chính sách giá thuê hiện tại.",
+        "Ông cố tình trì hoãn việc thanh toán tiền thuê nhà hàng tháng để buộc chủ nhà phải chủ động liên lạc và thương lượng.",
+        "Ông viết thư bày tỏ sự trân trọng đối với căn nhà, khen ngợi cách quản lý của chủ nhà và chia sẻ khó khăn tài chính."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Sự tử tế và lời khen chân thành đã đánh trúng khao khát được công nhận là một người chủ nhà công bằng, hào hiệp của đối phương."
     },
     {
       "id": "q5",
-      "question": "Khi bạn bước vào một cơ quan công quyền hoặc một phòng giao dịch với khuôn mặt tươi cười, thái độ thân thiện và lời chào ấm áp, kết quả bạn nhận được là gì?",
+      "question": "Khi bạn tiếp cận một người đang có ác cảm với mình bằng thái độ thân thiện, điều gì thường xảy ra trong tâm lý họ?",
       "options": [
-        "Bị nhân viên nghi ngờ và kéo dài thời gian xử lý.",
-        "Không có bất kỳ sự khác biệt nào so với việc cau có.",
-        "Bị yêu cầu nộp thêm nhiều khoản phí phát sinh.",
-        "Nhân viên tiếp nhận cảm nhận được sự tôn trọng, giải tỏa bớt áp lực công việc và nhiệt tình hỗ trợ giải quyết hồ sơ của bạn một cách nhanh chóng, chu đáo nhất."
+        "Sự phòng thủ của họ sẽ dần được gỡ bỏ, tạo điều kiện cho một cuộc đối thoại cởi mở và xây dựng dựa trên sự tôn trọng.",
+        "Họ sẽ cảm thấy nghi ngờ về động cơ của bạn và trở nên cảnh giác hơn trước những lời nói hoặc hành động tiếp theo đó.",
+        "Họ sẽ coi đó là dấu hiệu của sự yếu đuối và tiếp tục gia tăng áp lực để giành lấy lợi thế trong cuộc giao tiếp.",
+        "Họ sẽ cảm thấy khó chịu vì cho rằng bạn đang cố gắng thao túng cảm xúc của họ bằng những biểu hiện giả tạo bên ngoài."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Thái độ của bạn định hình phản xạ của người khác; gieo sự thân thiện sẽ gặt hái sự ưu tiên và tận tâm hỗ trợ từ mọi người xung quanh."
     },
     {
       "id": "q6",
-      "question": "Tại sao việc sử dụng tối hậu thư, đe dọa hoặc dùng vũ lực để ép buộc người khác luôn dẫn đến sự thất bại chiến lược dài hạn?",
+      "question": "Tại sao việc sử dụng tối hậu thư hoặc đe dọa để ép buộc người khác thường dẫn đến sự thất bại trong dài hạn?",
       "options": [
-        "Bởi vì người bị đe dọa sẽ ngay lập tức trở nên giàu có hơn.",
-        "Sự ép buộc sinh ra sự phục tùng giả tạo trong nỗi căm phẫn ngấm ngầm; đối phương sẽ chờ đợi cơ hội thuận lợi nhất để phản kháng hoặc phá hoại ngầm thỏa thuận.",
-        "Vì tối hậu thư tốn kém chi phí in ấn văn bản.",
-        "Do các cơ quan luật pháp luôn cấm dùng tối hậu thư."
+        "Việc đe dọa làm giảm đi uy tín cá nhân và khiến bạn trở thành người bị cô lập trong các mối quan hệ xã hội sau này.",
+        "Sự ép buộc chỉ tạo ra sự phục tùng tạm thời trong căm phẫn, khiến đối phương chờ đợi cơ hội để phản kháng lại bạn.",
+        "Sử dụng vũ lực hoặc đe dọa là hành vi vi phạm đạo đức nghiêm trọng mà xã hội hiện đại luôn lên án và bài trừ mạnh.",
+        "Các biện pháp cưỡng chế thường tốn kém thời gian và công sức hơn nhiều so với việc thuyết phục bằng lý lẽ thông thường."
       ],
       "correctIndex": 1,
-      "explanation": "Cưỡng bức chỉ khuất phục được thể xác nhưng tạo ra mầm mống nổi loạn trong tâm hồn; chỉ có sự đồng thuận từ tình bằng hữu mới tạo nên sự gắn kết vĩnh cửu."
+      "explanation": "Cưỡng bức chỉ khuất phục được thể xác nhưng tạo ra mầm mống nổi loạn trong tâm hồn; chỉ có sự đồng thuận mới tạo nên sự gắn kết."
     },
     {
       "id": "q7",
-      "question": "Câu chuyện người kỹ sư điện Dean Woodcock giải quyết bức xúc của công nhân lắp đặt cột điện cao thế trên sân vườn nhà dân bằng cách nào?",
+      "question": "Cách tiếp cận nào là tối ưu nhất khi bạn cần giải quyết một vấn đề gây tranh cãi với người khác?",
       "options": [
-        "Dùng quyền thu hồi đất của chính quyền để cưỡng chế thi công.",
-        "Bồi thường một khoản tiền lớn gấp 10 lần giá trị đất.",
-        "Đến tận nhà trò chuyện thân mật, khen ngợi vườn cây kiểng tuyệt đẹp của gia chủ, lắng nghe nỗi lo của họ và khéo léo điều chỉnh vị trí cột điện để bảo vệ tối đa cảnh quan vườn cây.",
-        "Hủy bỏ toàn bộ dự án đường dây điện quốc gia."
+        "Trình bày ngay lập tức các bằng chứng và lý lẽ logic để chứng minh rằng quan điểm của đối phương là hoàn toàn sai lầm.",
+        "Sử dụng quyền hạn hoặc vị thế của mình để áp đặt giải pháp mà bạn cho là tốt nhất cho cả hai phía trong cuộc tranh luận.",
+        "Bắt đầu bằng sự lắng nghe chân thành, khen ngợi những điểm tích cực của họ và tìm kiếm các lợi ích chung cho đôi bên.",
+        "Giữ thái độ im lặng và chờ đợi đối phương tự nhận ra sai lầm của mình trước khi đưa ra các đề xuất giải quyết vấn đề."
       ],
       "correctIndex": 2,
-      "explanation": "Sự tôn trọng tài sản và cảm xúc của người dân kết hợp với giải pháp linh hoạt đã biến sự phản đối kịch liệt thành sự hợp tác vui vẻ."
+      "explanation": "Sự tôn trọng cảm xúc của người khác kết hợp với giải pháp linh hoạt đã biến sự phản đối kịch liệt thành sự hợp tác vui vẻ."
     },
     {
       "id": "q8",
-      "question": "Một bức thư đòi nợ bắt đầu bằng lời hăm dọa kiện tụng so với một bức thư bắt đầu bằng sự thấu hiểu khó khăn và gợi ý lộ trình trả nợ thân thiện mang lại sự khác biệt gì?",
+      "question": "Sự khác biệt giữa một bức thư đòi nợ đầy đe dọa và một bức thư đầy sự thấu hiểu là gì?",
       "options": [
-        "Cả hai bức thư đều không có tác dụng trong thực tế.",
-        "Bức thư thân thiện làm cho con nợ từ chối trả tiền hoàn toàn.",
-        "Bức thư thân thiện giữ gìn được lòng tự trọng của con nợ, tạo động lực hợp tác và giúp thu hồi nợ thành công gấp nhiều lần mà không đánh mất khách hàng trong tương lai.",
-        "Bức thư hăm dọa luôn thu hồi được 100% nợ trong 24 giờ."
+        "Bức thư đe dọa luôn mang lại kết quả nhanh chóng vì nó đánh vào nỗi sợ hãi và sự lo lắng của người đang mắc nợ bạn.",
+        "Cả hai cách tiếp cận đều không có tác dụng vì người nợ tiền thường đã có ý định trốn tránh nghĩa vụ từ trước đó.",
+        "Bức thư thấu hiểu thường bị coi là thiếu chuyên nghiệp và làm giảm đi sự nghiêm túc trong các giao dịch tài chính.",
+        "Bức thư thấu hiểu giữ được lòng tự trọng của con nợ, tạo động lực hợp tác và giúp thu hồi nợ hiệu quả hơn rất nhiều."
       ],
-      "correctIndex": 2,
-      "explanation": "Khi bị dồn vào chân tường bằng sự thù địch, con nợ dễ buông xuôi hoặc trốn tránh; sự đồng cảm và thiện chí tạo điều kiện để họ nỗ lực hoàn trả nghĩa vụ."
+      "correctIndex": 3,
+      "explanation": "Khi bị dồn vào chân tường bằng sự thù địch, con nợ dễ buông xuôi; sự đồng cảm tạo điều kiện để họ nỗ lực hoàn trả nghĩa vụ."
     },
     {
       "id": "q9",
-      "question": "Daniel Webster (nhà hùng biện lừng danh nước Mỹ) khi tranh luận trước tòa án luôn mở đầu bằng phong thái như thế nào?",
+      "question": "Tại sao thái độ điềm đạm và khiêm tốn lại là vũ khí mạnh mẽ nhất trong các cuộc tranh luận?",
       "options": [
-        "Đọc nguyên văn toàn bộ hiến pháp từ đầu đến cuối.",
-        "Yêu cầu bồi thẩm đoàn phải bỏ phiếu theo ý mình ngay lập tức.",
-        "Đập bàn quát tháo và công kích cá nhân luật sư đối phương.",
-        "Lời lẽ hòa nhã, thái độ điềm đạm, khiêm tốn, coi bồi thẩm đoàn như những người bạn thông thái cùng tìm kiếm công lý chân chính."
+        "Nó giúp đối phương không cảm thấy bị tấn công, từ đó họ sẵn sàng lắng nghe và cân nhắc các quan điểm của bạn hơn.",
+        "Nó giúp bạn tiết kiệm năng lượng và tránh được những căng thẳng không cần thiết trong suốt quá trình tranh luận gay gắt.",
+        "Nó tạo ra hình ảnh một người thông thái, giúp bạn dễ dàng áp đặt ý chí của mình lên người khác một cách tự nhiên.",
+        "Nó là cách duy nhất để bạn có thể giành chiến thắng tuyệt đối trước những đối thủ có tư duy logic và sắc bén hơn."
       ],
-      "correctIndex": 3,
-      "explanation": "Sức mạnh thuyết phục của Webster nằm ở sự trang nhã và thân thiện; ông không ép buộc bồi thẩm đoàn mà nhẹ nhàng dẫn dắt họ cùng đồng thuận với kết luận của ông."
+      "correctIndex": 0,
+      "explanation": "Sức mạnh thuyết phục nằm ở sự trang nhã; bạn không ép buộc đối phương mà nhẹ nhàng dẫn dắt họ cùng đồng thuận với kết luận của mình."
     },
     {
       "id": "q10",
-      "question": "Điều gì tạo nên sự khác biệt giữa một 'thái độ thân thiện thực sự' và một 'nụ cười đãi bôi xảo quyệt'?",
+      "question": "Điều gì phân biệt một thái độ thân thiện thực sự với một nụ cười xã giao mang tính chất vụ lợi?",
       "options": [
-        "Thái độ thân thiện chỉ dành cho người giàu có.",
-        "Nụ cười đãi bôi luôn có âm thanh lớn hơn.",
-        "Thái độ thân thiện thực sự bắt nguồn từ tình yêu thương, sự tôn trọng chân thành và mong muốn mang lại điều tốt lành cho đối phương, không phụ thuộc vào việc có lợi ích ngay hay không.",
-        "Không có bất kỳ sự khác biệt nào trong tâm lý học."
+        "Nụ cười xã giao thường có tác dụng nhanh hơn trong việc lấy lòng người khác so với sự thân thiện chân thành từ tâm.",
+        "Sự thân thiện thực sự bắt nguồn từ lòng tôn trọng chân thành và mong muốn mang lại điều tốt lành cho người khác.",
+        "Sự thân thiện thực sự chỉ có thể được thể hiện thông qua những món quà vật chất có giá trị cao dành cho đối phương.",
+        "Không có sự khác biệt nào đáng kể vì cả hai đều nhằm mục đích đạt được sự đồng thuận từ phía người đối diện mình."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự chân thành là thứ không thể làm giả; sự ấm áp toát ra từ ánh mắt và tấm lòng vị tha sẽ chạm tới tầng cảm xúc sâu nhất của con người."
+      "correctIndex": 1,
+      "explanation": "Sự chân thành là thứ không thể làm giả; sự ấm áp toát ra từ tấm lòng vị tha sẽ chạm tới tầng cảm xúc sâu nhất của con người."
     },
     {
       "id": "q11",
-      "question": "Khi bạn gặp một người đang trong trạng thái vô cùng kích động và giận dữ, phản ứng bằng một giọng nói chậm rãi, trầm ấm và từ tốn có tác dụng gì?",
+      "question": "Khi đối diện với một người đang giận dữ, việc giữ giọng nói trầm ấm và từ tốn có tác dụng gì?",
       "options": [
-        "Khiến đối phương bỏ đi ngay lập tức.",
-        "Không có bất kỳ ảnh hưởng nào đến tâm lý đối phương.",
-        "Tạo ra hiệu ứng đồng bộ hóa thần kinh (neural entrainment), kéo nhịp tim và cảm xúc của đối phương hạ nhiệt dần theo nhịp điệu điềm tĩnh của bạn.",
-        "Làm cho người đó càng thêm điên tiết."
+        "Nó làm cho đối phương cảm thấy bị coi thường và có thể khiến họ trở nên giận dữ hơn so với lúc ban đầu của cuộc hội thoại.",
+        "Nó giúp bạn duy trì sự kiểm soát tuyệt đối đối với tình huống và khẳng định vị thế của mình trong cuộc tranh luận.",
+        "Nó giúp hạ nhiệt cảm xúc của đối phương, tạo ra sự bình tĩnh lan tỏa và giúp cuộc đối thoại trở nên dễ dàng hơn.",
+        "Nó không có tác dụng gì vì người đang giận dữ thường không đủ tỉnh táo để nhận ra sự thay đổi trong giọng nói của bạn."
       ],
       "correctIndex": 2,
-      "explanation": "Sự điềm tĩnh có tính lây lan; giọng nói dịu dàng và từ tốn là chiếc mỏ neo kéo con tàu cảm xúc đang giông bão trở về vùng biển phẳng lặng."
+      "explanation": "Sự điềm tĩnh có tính lây lan; giọng nói dịu dàng và từ tốn là chiếc mỏ neo kéo con tàu cảm xúc đang giông bão trở về vùng phẳng lặng."
     },
     {
       "id": "q12",
-      "question": "Tại sao trong ngành hàng không và y tế cấp cứu, các phi công và bác sĩ luôn được huấn luyện giữ thái độ cực kỳ điềm tĩnh và thân thiện trong mọi tình huống khẩn cấp?",
+      "question": "Tại sao các chuyên gia trong tình huống khẩn cấp luôn được huấn luyện để giữ thái độ điềm tĩnh?",
       "options": [
-        "Vì đó là quy định thẩm mỹ trong ngành.",
-        "Để tiết kiệm oxy trong khoang máy bay.",
-        "Sự bình tĩnh và thân thiện ngăn chặn sự hoảng loạn tập thể, duy trì sự minh mẫn của não bộ và giúp các bên phối hợp xử lý sự cố hiệu quả nhất.",
-        "Nhằm tránh việc phải bồi thường bảo hiểm."
+        "Việc giữ thái độ điềm tĩnh là một yêu cầu về mặt hình ảnh chuyên nghiệp để tạo niềm tin cho khách hàng và công chúng.",
+        "Sự điềm tĩnh giúp họ tránh được các trách nhiệm pháp lý nếu có những sai sót xảy ra trong quá trình xử lý sự cố.",
+        "Việc giữ bình tĩnh giúp họ tiết kiệm thời gian và hoàn thành công việc nhanh hơn so với những người hay lo lắng.",
+        "Sự bình tĩnh giúp ngăn chặn hoảng loạn tập thể, duy trì sự minh mẫn để đưa ra các quyết định chính xác và hiệu quả."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự hoảng loạn và giận dữ làm tê liệt tư duy phản biện; sự điềm tĩnh và nhã nhặn là nền tảng của mọi quyết định sinh tử chính xác."
+      "correctIndex": 3,
+      "explanation": "Sự hoảng loạn và giận dữ làm tê liệt tư duy phản biện; sự điềm tĩnh và nhã nhặn là nền tảng của mọi quyết định chính xác."
     },
     {
       "id": "q13",
-      "question": "Hành động nào sau đây là biểu hiện cụ thể của việc 'bắt đầu bằng thái độ thân thiện' trong một cuộc đàm phán hợp đồng căng thẳng?",
+      "question": "Hành động nào thể hiện việc bắt đầu bằng thái độ thân thiện trong một cuộc đàm phán hợp đồng?",
       "options": [
-        "Đưa ra các điều khoản phạt nặng nề ngay trang đầu tiên của hợp đồng.",
-        "Bắt đầu bằng lời cảm ơn chân thành về sự hiện diện của đối tác, khẳng định thiện chí hợp tác lâu dài và nhấn mạnh các mục tiêu chung tốt đẹp của cả hai bên.",
-        "Yêu cầu đối tác phải ký thỏa thuận bảo mật trước khi nói chuyện.",
-        "Chỉ trích các sai sót trong quá khứ của đối tác."
+        "Bắt đầu bằng lời cảm ơn về sự hiện diện của đối tác và khẳng định thiện chí hợp tác lâu dài vì lợi ích chung.",
+        "Đưa ra các điều khoản phạt nặng nề ngay từ đầu để đối tác hiểu rõ sự nghiêm túc của bạn trong hợp đồng này.",
+        "Yêu cầu đối tác phải ký thỏa thuận bảo mật thông tin trước khi bắt đầu bất kỳ cuộc thảo luận nào về nội dung.",
+        "Chỉ trích các sai sót trong quá khứ của đối tác để họ nhận ra tầm quan trọng của việc tuân thủ các điều khoản mới."
       ],
-      "correctIndex": 1,
-      "explanation": "Thiết lập một khởi đầu ấm áp và khẳng định giá trị hợp tác chung sẽ định hình toàn bộ không khí đàm phán theo hướng xây dựng, hòa giải."
+      "correctIndex": 0,
+      "explanation": "Thiết lập một khởi đầu ấm áp và khẳng định giá trị hợp tác chung sẽ định hình toàn bộ không khí đàm phán theo hướng xây dựng."
     },
     {
       "id": "q14",
-      "question": "Danh ngôn của ngạn ngữ Ba Tư: 'Dùng nắm đấm thì không ai mở lòng, dùng nụ cười thì mở được cả cổng thành' củng cố bài học nào?",
+      "question": "Ngạn ngữ: 'Dùng nắm đấm thì không ai mở lòng, dùng nụ cười thì mở được cả cổng thành' củng cố bài học nào?",
       "options": [
-        "Bạo lực và áp đặt chỉ tạo ra tường thành phòng thủ kiên cố; sự thân thiện, hòa nhã là chìa khóa mở toang mọi pháo đài tâm lý kiên cố nhất.",
-        "Cần phải phá hủy các cổng thành để giao thương.",
-        "Người Ba Tư không thích tham gia các cuộc chiến tranh.",
-        "Cổng thành ngày xưa được xây dựng bằng vật liệu kém chất lượng."
+        "Việc sử dụng sức mạnh quân sự là cách duy nhất để chinh phục những vùng đất mới và mở rộng tầm ảnh hưởng của mình.",
+        "Bạo lực chỉ tạo ra sự phòng thủ; sự thân thiện, hòa nhã là chìa khóa mở toang mọi pháo đài tâm lý kiên cố nhất.",
+        "Nụ cười là một kỹ thuật giao tiếp đơn giản mà bất kỳ ai cũng có thể học được để đạt được mục đích cá nhân nhanh.",
+        "Cổng thành là biểu tượng của sự kiên cố, vì vậy cần phải có những phương pháp đặc biệt để có thể vượt qua được nó."
       ],
-      "correctIndex": 0,
-      "explanation": "Sức mạnh mềm của sự tử tế và thân thiện có khả năng xuyên phá mọi bức tường định kiến mà không cần tốn một phát súng."
+      "correctIndex": 1,
+      "explanation": "Sức mạnh mềm của sự tử tế và thân thiện có khả năng xuyên phá mọi bức tường định kiến mà không cần tốn một phát súng nào."
     },
     {
       "id": "q15",
-      "question": "Tóm tắt cốt lõi của NGUYÊN TẮC 13 trong 'Đắc Nhân Tâm' là gì?",
+      "question": "Tóm tắt cốt lõi của Nguyên tắc 13 trong cuốn sách Đắc Nhân Tâm là gì?",
       "options": [
-        "Sử dụng sự giận dữ để khẳng định uy quyền ban đầu.",
-        "Luôn bắt đầu bằng việc đưa ra các yêu cầu khắt khe.",
-        "Luôn bắt đầu bằng một thái độ thân thiện.",
-        "Chỉ thân thiện sau khi đối phương đã nhượng bộ."
+        "Luôn luôn giữ thái độ nghiêm túc và lạnh lùng để người khác không thể đoán biết được suy nghĩ thực sự của bản thân.",
+        "Chỉ nên thể hiện sự thân thiện sau khi đã đạt được những thỏa thuận có lợi cho mình trong các cuộc đàm phán lớn.",
+        "Hãy luôn luôn mở đầu mọi cuộc giao tiếp, thương lượng và xử lý bất đồng bằng một thái độ thân thiện và chân thành.",
+        "Sử dụng sự giận dữ một cách có kiểm soát để khẳng định uy quyền và buộc đối phương phải nhượng bộ trong giao tiếp."
       ],
       "correctIndex": 2,
-      "explanation": "Nguyên tắc số 13: Hãy luôn luôn mở đầu mọi cuộc giao tiếp, thương lượng và xử lý bất đồng bằng một thái độ thân thiện và chân thành."
+      "explanation": "Nguyên tắc số 13 nhấn mạnh rằng thái độ thân thiện là nền tảng quan trọng nhất để xây dựng mối quan hệ và thuyết phục người khác."
     }
   ]
 }

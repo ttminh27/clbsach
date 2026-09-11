@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Hành động của Hoàng đế Napoleon Bonaparte khi lập ra 'Huân chương Bắc Đẩu Bội Tinh' (Legion of Honor) và trao tặng 15.000 huân chương cho các binh sĩ của mình thể hiện sự am hiểu sâu sắc quy luật tâm lý nào?",
+      "question": "Napoleon Bonaparte đã trao tặng 15.000 huân chương Bắc Đẩu Bội Tinh cho binh sĩ. Hành động này thể hiện điều gì?",
       "options": [
-        "Huân chương có thể dùng để đổi lấy lương thực thời chiến.",
-        "Con người khao khát danh dự và sự tôn vinh đến mức sẵn sàng chiến đấu quả cảm và hy sinh cả tính mạng vì một dải ruy-băng danh dự tượng trưng cho sự công nhận của tổ quốc.",
-        "Napoleon muốn tiêu hết số kim loại tồn kho trong hoàng cung.",
-        "Binh sĩ thích sưu tầm các đồ trang sức bằng kim loại sáng bóng."
+        "Ông hiểu rằng danh dự và sự công nhận là động lực tinh thần mạnh mẽ giúp con người vượt qua mọi giới hạn bản thân.",
+        "Ông muốn tạo ra một hệ thống phân cấp xã hội mới để dễ dàng kiểm soát tư tưởng của các binh sĩ trong quân đội.",
+        "Ông tin rằng việc ban tặng các vật phẩm hữu hình sẽ giúp binh sĩ trung thành tuyệt đối với chế độ của hoàng đế.",
+        "Ông cho rằng việc tặng thưởng huân chương là cách tiết kiệm ngân sách quốc gia hiệu quả nhất thay vì tăng lương bổng."
       ],
-      "correctIndex": 1,
-      "explanation": "Napoleon từng thốt lên: 'Người ta gọi đó là những món đồ chơi trẻ con, nhưng chính những món đồ chơi này dẫn dắt cả một đạo quân vĩ đại!'. Danh dự và sự tôn vinh có sức mạnh vượt xa mọi của cải vật chất."
+      "correctIndex": 0,
+      "explanation": "Napoleon hiểu rằng con người khao khát được tôn vinh. Những món đồ chơi danh dự có sức mạnh dẫn dắt con người hành động."
     },
     {
       "id": "q2",
-      "question": "Câu chuyện người quản lý khu vui chơi trẻ em giải quyết việc một cậu bé chuyên giẫm nát các luống hoa bằng cách nào?",
+      "question": "Cách bà Ernest Gent giải quyết vấn đề những đứa trẻ chạy bừa lên thảm cỏ nhà bà thể hiện nguyên tắc nào?",
       "options": [
-        "Đánh đòn và cấm cậu bé không bao giờ được bước vào công viên nữa.",
-        "Nhổ bỏ toàn bộ luống hoa và thay bằng sân bê tông.",
-        "Thuê bảo vệ có vũ trang đứng gác quanh luống hoa.",
-        "Phong cho cậu bé danh hiệu 'Đội trưởng Vệ tinh Bảo vệ Môi trường Công viên' và trao cho cậu nhiệm vụ danh dự ngăn cản những đứa trẻ khác giẫm lên luống hoa — khiến cậu bé hoàn thành nhiệm vụ với sự tự hào cao độ."
+        "Thiết lập một hàng rào bảo vệ kiên cố và treo biển cảnh báo nghiêm khắc để ngăn chặn hành vi xâm phạm của trẻ em.",
+        "Trao cho đứa trẻ nghịch ngợm nhất danh hiệu thám tử để cậu bé cảm thấy mình có trách nhiệm bảo vệ thảm cỏ đó.",
+        "Thương lượng với phụ huynh của những đứa trẻ để yêu cầu họ quản lý con cái chặt chẽ hơn khi chơi đùa ngoài sân.",
+        "Tổ chức các buổi trò chuyện giáo dục về ý thức bảo vệ môi trường để trẻ em tự giác thay đổi hành vi của mình."
       ],
-      "correctIndex": 3,
-      "explanation": "Trao danh hiệu và ủy thác trách nhiệm danh dự biến một kẻ phá hoại nghịch ngợm thành người bảo vệ mẫn cán và gương mẫu nhất."
+      "correctIndex": 1,
+      "explanation": "Bằng cách trao quyền và danh hiệu, bà đã biến kẻ phá hoại thành người bảo vệ, khiến cậu bé tự hào thực hiện nhiệm vụ."
     },
     {
       "id": "q3",
-      "question": "Khi bạn cần nhờ một đồng nghiệp đảm nhận một công việc vất vả, ngoài giờ mà ai cũng ngại làm, nghệ thuật giao việc đỉnh cao theo nguyên tắc này là gì?",
+      "question": "Khi muốn nhờ một người thực hiện công việc tẻ nhạt, nghệ thuật giao việc theo Dale Carnegie là gì?",
       "options": [
-        "Tự mình làm một mình và tỏ thái độ oán hận tập thể.",
-        "Đe dọa trừ lương nếu không ai chịu nhận việc.",
-        "Nhấn mạnh tầm quan trọng đặc biệt của nhiệm vụ, tôn vinh năng lực chuyên môn và sự tin cậy tuyệt đối của họ, biến việc đó thành một đặc quyền danh dự được tổ chức giao phó.",
-        "Bốc thăm ngẫu nhiên và ép buộc người bốc trúng phải làm."
+        "Giải thích rõ ràng về các quy trình kỹ thuật và yêu cầu họ phải hoàn thành đúng thời hạn để không ảnh hưởng tập thể.",
+        "Đưa ra các phần thưởng vật chất hấp dẫn để kích thích sự quan tâm của họ đối với công việc vốn rất nhàm chán này.",
+        "Nhấn mạnh tầm quan trọng của nhiệm vụ và tôn vinh năng lực của họ để họ cảm thấy tự hào khi được tin tưởng giao phó.",
+        "Sử dụng quyền lực của người lãnh đạo để ra lệnh trực tiếp nhằm đảm bảo công việc được thực hiện một cách nhanh chóng."
       ],
       "correctIndex": 2,
-      "explanation": "Biến gánh nặng thành đặc quyền danh dự giúp người nhận cảm thấy tự hào, được trọng dụng và vui vẻ hoàn thành nhiệm vụ với trách nhiệm cao nhất."
+      "explanation": "Khi người khác cảm thấy mình quan trọng và được tin tưởng, họ sẽ vui vẻ thực hiện công việc với tinh thần trách nhiệm."
     },
     {
       "id": "q4",
-      "question": "Quy trình 6 bước tâm lý để 'làm cho người khác vui vẻ thực hiện đề nghị của bạn' bao gồm những yếu tố cốt lõi nào?",
+      "question": "Tại sao việc bổ nhiệm cô nhân viên lười biếng làm tổng quản trông coi giá cả lại thay đổi thái độ của cô?",
       "options": [
-        "Chỉ áp dụng các quy định của pháp luật hành chính.",
-        "Ra lệnh, đe dọa, kiểm tra, trừng phạt, trừ lương và sa thải.",
-        "1. Thành thật; 2. Nắm rõ mục tiêu; 3. Đồng cảm với mong muốn của đối phương; 4. Xem xét lợi ích họ nhận được; 5. Gắn kết lợi ích đó với đề nghị của bạn; 6. Đưa ra đề nghị bằng sự tôn vinh danh dự.",
-        "Nói dối, tâng bốc mù quáng, hối lộ tiền bạc và ép ký cam kết."
+        "Cô sợ rằng nếu không làm tốt công việc mới này thì sẽ bị sa thải ngay lập tức theo quy định của cửa hàng thực phẩm.",
+        "Việc được quản lý giá cả giúp cô có cơ hội tiếp xúc nhiều hơn với khách hàng và cải thiện kỹ năng giao tiếp cá nhân.",
+        "Cô cảm thấy hài lòng vì được làm việc trong môi trường chuyên nghiệp hơn thay vì chỉ dán nhãn giá như công việc cũ.",
+        "Chức vụ mới mang lại cho cô cảm giác mình quan trọng và có trách nhiệm, từ đó cô tự giác thay đổi thái độ làm việc."
       ],
-      "correctIndex": 2,
-      "explanation": "Đây là công thức chuẩn mực kết hợp giữa sự thấu cảm quyền lợi đôi bên và nghệ thuật tôn vinh phẩm giá để đạt được sự đồng thuận tự nguyện cao nhất."
+      "correctIndex": 3,
+      "explanation": "Sự tin tưởng và trao quyền thay đổi hoàn toàn thái độ của một người, biến sự lười biếng thành tinh thần trách nhiệm."
     },
     {
       "id": "q5",
-      "question": "Câu chuyện người mẹ giải quyết việc cậu con trai lười biếng không chịu đi đổ rác bằng cách nào?",
+      "question": "Cách Tổng thống Wilson mời McAdoo vào nội các thể hiện sự khéo léo trong việc tôn vinh người khác như thế nào?",
       "options": [
-        "Cắt tiền tiêu vặt và không cho con ăn tối.",
-        "Tự mẹ đi đổ rác suốt cả đời.",
-        "Phong cho con chức vụ 'Tổng quản vệ sinh và an toàn gia đình', giao chìa khóa thùng rác và khen ngợi con là chàng trai trụ cột bảo vệ sức khỏe cho cả nhà — khiến cậu bé tự giác đổ rác mỗi ngày.",
-        "Thuê người giúp việc toàn thời gian."
+        "Ông khiến McAdoo cảm thấy rằng việc chấp nhận vị trí Bộ trưởng là một ân huệ to lớn mà McAdoo dành cho Tổng thống.",
+        "Ông nhấn mạnh rằng McAdoo là ứng cử viên duy nhất có đủ năng lực chuyên môn để đảm nhận vị trí quan trọng này lúc đó.",
+        "Ông hứa hẹn sẽ tạo mọi điều kiện thuận lợi nhất để McAdoo có thể thực hiện các cải cách tài chính theo ý muốn cá nhân.",
+        "Ông bày tỏ sự ngưỡng mộ đối với những thành tựu mà McAdoo đã đạt được trong sự nghiệp luật sư trước khi vào nội các."
       ],
-      "correctIndex": 2,
-      "explanation": "Trao cho đứa trẻ một chức danh danh dự và ý thức về vai trò 'trụ cột gia đình' biến công việc quét dọn tẻ nhạt thành niềm tự hào của một người đàn ông trưởng thành."
+      "correctIndex": 0,
+      "explanation": "Cách mời khéo léo khiến người được mời cảm thấy mình quan trọng và đang giúp đỡ người khác, tạo ra sự tự nguyện cao."
     },
     {
       "id": "q6",
-      "question": "Tại sao các chức danh công việc trong doanh nghiệp hiện đại (như 'Chuyên viên tư vấn khách hàng cao cấp', 'Đại sứ thương hiệu') lại có sức hút tuyển dụng lớn hơn các chức danh truyền thống (như 'Nhân viên bán hàng')?",
+      "question": "Đại tá House đã làm gì để thuyết phục Bryan chấp nhận việc mình không được chọn làm đặc phái viên hòa bình?",
       "options": [
-        "Chức danh danh dự nâng cao vị thế xã hội, lòng tự hào nghề nghiệp và thôi thúc nhân sự nỗ lực hành xử chuyên nghiệp, đẳng cấp tương xứng với danh xưng đó.",
-        "Bởi vì nhân viên không cần phải làm việc khi có chức danh mới.",
-        "Do các chức danh mới được miễn thuế thu nhập cá nhân.",
-        "Vì các chức danh dài hơn nhìn đẹp mắt hơn trên danh thiếp."
+        "Ông giải thích rằng Tổng thống đã có kế hoạch khác cho Bryan và sẽ thông báo cụ thể trong một cuộc họp sắp tới.",
+        "Ông khéo léo ám chỉ rằng vị trí của Bryan trong chính phủ quá quan trọng nên không thể rời đi làm việc khác được.",
+        "Ông đưa ra các lý do khách quan về tình hình chính trị châu Âu để Bryan thấy rằng việc đi lại là không cần thiết.",
+        "Ông hứa sẽ chia sẻ mọi thông tin mật từ chuyến đi để Bryan có thể nắm bắt tình hình và đưa ra các chỉ đạo kịp."
       ],
-      "correctIndex": 0,
-      "explanation": "Tôn vinh vị thế nghề nghiệp qua danh xưng là nghệ thuật quản trị nhân tâm hiện đại, thúc đẩy lòng tự hào và trách nhiệm cống hiến vượt bậc."
+      "correctIndex": 1,
+      "explanation": "House đã tôn vinh tầm quan trọng của Bryan, khiến ông hài lòng thay vì cảm thấy bị gạt ra khỏi kế hoạch quan trọng."
     },
     {
       "id": "q7",
-      "question": "Câu chuyện một vị bộ trưởng từ chối lời mời diễn thuyết của nhiều tổ chức nhưng đã vui vẻ nhận lời đến nói chuyện cho một hiệp hội nhỏ nhờ cách tiếp cận nào?",
+      "question": "Theo Dale Carnegie, nghệ thuật gợi ý để người khác thực hiện điều mình mong muốn đòi hỏi điều gì?",
       "options": [
-        "Tổ chức nhỏ đã trả mức thù lao diễn thuyết cao gấp 10 lần các nơi khác.",
-        "Đe dọa sẽ tố cáo vị bộ trưởng lên thủ tướng.",
-        "Tổ chức một cuộc biểu tình trước cửa bộ.",
-        "Họ gửi thư bày tỏ sự ngưỡng mộ sâu sắc, tôn vinh ngài như 'người thầy tinh thần duy nhất có thể định hướng tương lai cho thế hệ trẻ của hiệp hội' — khiến vị bộ trưởng xúc động và nhận lời ngay."
+        "Khả năng thuyết phục bằng lý lẽ sắc bén và các bằng chứng thực tế để người khác không thể từ chối đề nghị của mình.",
+        "Việc nắm bắt tâm lý đối phương để đưa ra những lời khen ngợi có tính toán nhằm đạt được mục đích cá nhân nhanh.",
+        "Sự kiên trì rèn luyện và một lòng quan tâm chân thành đến người khác để thấu hiểu nhu cầu và mong muốn của họ.",
+        "Sự khéo léo trong việc sử dụng ngôn từ để che giấu mục đích thực sự đằng sau những lời đề nghị đầy thiện chí đó."
       ],
-      "correctIndex": 3,
-      "explanation": "Tôn vinh sứ mệnh tinh thần cao cả của một con người có sức nặng lay động tâm can vượt xa mọi sự cám dỗ về tiền tài vật chất."
+      "correctIndex": 2,
+      "explanation": "Sự chân thành là nền tảng. Nếu không có sự quan tâm thực sự, các kỹ thuật chỉ là sự thao túng vô hồn và thiếu bền vững."
     },
     {
       "id": "q8",
-      "question": "Khi bạn cần từ chối một lời đề nghị nhưng vẫn muốn giữ trọn vẹn mối quan hệ tốt đẹp và tôn vinh đối phương, cách làm khôn ngoan nhất là gì?",
+      "question": "Tại sao việc tôn vinh người khác lại là một nghệ thuật lãnh đạo hiệu quả trong việc thay đổi hành vi?",
       "options": [
-        "Gửi thư chê bai lời đề nghị đó là tẻ nhạt và không xứng tầm với bạn.",
-        "Im lặng không trả lời và chặn mọi liên lạc.",
-        "Bày tỏ sự trân trọng và biết ơn sâu sắc vì họ đã tin tưởng nghĩ đến bạn, giải thích lý do bất khả kháng một cách chân thành và nhiệt tình giới thiệu một nhân vật xuất sắc khác thay thế.",
-        "Yêu cầu đối phương phải trả phí bồi thường thời gian đọc thư."
+        "Việc tôn vinh giúp người lãnh đạo dễ dàng kiểm soát hành vi của nhân viên mà không cần phải sử dụng các biện pháp.",
+        "Tôn vinh là cách nhanh nhất để xây dựng hình ảnh người lãnh đạo nhân từ trong mắt cấp dưới và cộng đồng xã hội.",
+        "Khi được tôn vinh, nhân viên sẽ cảm thấy áp lực phải làm việc tốt hơn để xứng đáng với sự kỳ vọng của lãnh đạo.",
+        "Con người có xu hướng thay đổi thái độ khi họ cảm thấy mình được tôn trọng và vui vẻ thực hiện điều được gợi ý."
       ],
-      "correctIndex": 2,
-      "explanation": "Nghệ thuật từ chối trang nhã giữ gìn thể diện và lòng tự trọng của người mời, biến lời từ chối thành một cơ hội thắt chặt thêm tình bằng hữu."
+      "correctIndex": 3,
+      "explanation": "Tôn vinh tạo ra động lực nội tại. Khi người ta cảm thấy vui vẻ, họ sẽ tự nguyện thay đổi hành vi theo hướng tích cực."
     },
     {
       "id": "q9",
-      "question": "Tại sao việc phong tặng các danh hiệu danh dự (như 'Nhân viên của năm', 'Chiến sĩ thi đua') phải luôn đi kèm với sự công nhận thực chất, minh bạch và công bằng?",
+      "question": "Câu chuyện về cậu bé nhặt lê cho thấy điều gì về cách đặt vấn đề để khuyến khích người khác?",
       "options": [
-        "Nếu danh hiệu bị trao bừa bãi hoặc vì thiên vị vụ lợi, nó sẽ mất đi giá trị thiêng liêng, trở thành trò hề lố bịch và gây ra sự phẫn nộ, chia rẽ trong nội bộ tập thể.",
-        "Để tránh việc phải in lại giấy khen.",
-        "Do quy định của các tổ chức từ thiện.",
-        "Vì danh hiệu bắt buộc phải được công chứng tại ủy ban nhân dân."
+        "Việc đặt ra một thử thách thú vị kèm theo phần thưởng danh dự giúp biến công việc tẻ nhạt thành trò chơi hấp dẫn.",
+        "Việc sử dụng tiền bạc làm phần thưởng là cách duy nhất để thúc đẩy trẻ em hoàn thành các công việc nhà khó khăn.",
+        "Việc đe dọa lấy lại tiền nếu làm sót quả lê là phương pháp giáo dục nghiêm khắc cần thiết để rèn luyện tính kỷ.",
+        "Việc giao cho trẻ em những công việc đòi hỏi sự tỉ mỉ giúp chúng phát triển kỹ năng quan sát và tính kiên nhẫn."
       ],
       "correctIndex": 0,
-      "explanation": "Sự tôn vinh chỉ có giá trị khi nó đại diện cho sự công bằng và phẩm giá thực chất; sự gian dối sẽ phá hủy hoàn toàn ý nghĩa cao quý của danh dự."
+      "explanation": "Biến công việc thành một cuộc đánh cược thú vị khiến cậu bé tự giác làm việc mà không cần sự thúc ép hay nhắc nhở."
     },
     {
       "id": "q10",
-      "question": "Câu chuyện vị giám đốc công ty in ấn giải quyết việc khách hàng khó tính liên tục đòi sửa đổi thiết kế vào phút chót bằng cách nào?",
+      "question": "Nguyên tắc 30 của Đắc Nhân Tâm nhấn mạnh điều gì trong giao tiếp và quản lý con người?",
       "options": [
-        "Từ chối in và kiện khách hàng ra tòa.",
-        "Đến gặp khách hàng, tôn vinh gu thẩm mỹ bậc thầy và sự am hiểu nghệ thuật tinh tế của khách hàng, sau đó nhờ khách hàng cùng ký duyệt bản in cuối cùng như một 'tác phẩm nghệ thuật hoàn mỹ' — khiến khách hàng vui vẻ ký ngay.",
-        "Tăng giá in lên gấp đôi để phạt khách hàng.",
-        "Tự ý in theo mẫu cũ mà không hỏi ý kiến khách hàng."
+        "Hãy luôn giữ thái độ khiêm tốn và lắng nghe ý kiến của người khác để xây dựng mối quan hệ bền vững lâu dài.",
+        "Hãy luôn biết tôn vinh người khác, làm cho họ cảm thấy tự hào và vui vẻ thực hiện những đề nghị của bạn.",
+        "Hãy luôn khen ngợi sự tiến bộ của người khác dù là nhỏ nhất để họ có thêm động lực phát triển bản thân hơn.",
+        "Hãy luôn đặt mình vào vị trí của người khác để thấu hiểu những khó khăn và mong muốn của họ trong cuộc sống."
       ],
       "correctIndex": 1,
-      "explanation": "Tôn vinh sự khắt khe của khách hàng như một 'gu thẩm mỹ bậc thầy' biến sự khó tính thành niềm tự hào đồng sáng tạo một tác phẩm nghệ thuật đỉnh cao."
+      "explanation": "Đây là cốt lõi của nguyên tắc 30: tôn vinh để người khác tự nguyện hành động vì họ cảm thấy mình quan trọng và tự hào."
     },
     {
       "id": "q11",
-      "question": "Điều gì tạo nên sức mạnh cảm hóa của một bức thư tri ân viết tay từ người đứng đầu tập đoàn gửi đến gia đình của nhân viên xuất sắc?",
+      "question": "Theo Dale Carnegie, nhiệm vụ quan trọng nhất của con người trong cuộc sống là gì?",
       "options": [
-        "Để kiểm tra địa chỉ nhà riêng của nhân viên.",
-        "Bức thư được viết bằng mực in đắt tiền.",
-        "Nó tôn vinh sự hy sinh thầm lặng của gia đình phía sau thành công của nhân viên, mang lại niềm tự hào vô bờ bến cho cha mẹ, vợ con và gắn kết sự trung thành trọn đời.",
-        "Bức thư có giá trị thế chấp tại ngân hàng."
+        "Nỗ lực làm việc để tích lũy tài sản và khẳng định vị thế cá nhân trong xã hội đầy cạnh tranh và khắc nghiệt này.",
+        "Không ngừng học hỏi và rèn luyện kỹ năng để trở thành người dẫn đầu trong lĩnh vực chuyên môn mà mình theo đuổi.",
+        "Sống và mang đến cho mình cùng những người xung quanh sự thanh bình, hạnh phúc và đánh thức tiềm năng của họ.",
+        "Xây dựng các mối quan hệ xã hội rộng rãi để có thể hỗ trợ lẫn nhau trong công việc và cuộc sống hàng ngày."
       ],
       "correctIndex": 2,
-      "explanation": "Tôn vinh gia đình nhân viên là đỉnh cao của văn hóa doanh nghiệp nhân văn; niềm tự hào của người thân là nguồn động lực cống hiến thiêng liêng nhất."
+      "explanation": "Carnegie tin rằng mục đích cao cả nhất là giúp đỡ người khác phát triển và sống hạnh phúc, đó là giá trị nhân văn nhất."
     },
     {
       "id": "q12",
-      "question": "Khi bạn muốn một người bạn tình nguyện làm người dẫn chương trình (MC) cho buổi họp lớp cũ, câu đề nghị tôn vinh nhất là gì?",
+      "question": "Tại sao Napoleon lại gọi các huân chương là đồ chơi dù bị chỉ trích là làm điều trẻ con?",
       "options": [
-        "'Cả lớp đều đồng lòng rằng chỉ có sự duyên dáng, hài hước và nhiệt huyết của bạn mới có thể kết nối tất cả mọi người và tạo nên một buổi họp lớp đáng nhớ nhất đời!'.",
-        "'Không ai chịu làm MC cả, thôi thì bạn làm tạm nhé!'.",
-        "'Chúng tôi sẽ trả thù lao cho bạn như một MC đi thuê'.",
-        "'Nếu bạn không làm MC, chúng tôi sẽ hủy buổi họp lớp'."
+        "Ông muốn đáp trả những lời chỉ trích bằng thái độ coi thường để khẳng định quyền lực tuyệt đối của một hoàng đế.",
+        "Ông tin rằng việc tạo ra các biểu tượng danh dự sẽ giúp quân đội của mình trở nên khác biệt so với các quốc gia.",
+        "Ông cho rằng việc tặng huân chương là cách đơn giản để làm hài lòng các tướng lĩnh mà không tốn nhiều công sức.",
+        "Ông hiểu rằng những món đồ chơi danh dự đó có khả năng chi phối con người và dẫn dắt họ thực hiện điều vĩ đại."
       ],
-      "correctIndex": 0,
-      "explanation": "Khẳng định vị thế độc nhất không thể thay thế của người bạn biến lời nhờ vả thành một sứ mệnh kết nối thiêng liêng đầy tự hào."
+      "correctIndex": 3,
+      "explanation": "Napoleon nhận ra sức mạnh của tâm lý con người: họ sẵn sàng hy sinh vì danh dự hơn là vì những lợi ích vật chất thông thường."
     },
     {
       "id": "q13",
-      "question": "Tổng kết toàn bộ 30 nguyên tắc của 'Đắc Nhân Tâm', kim chỉ nam xuyên suốt định hướng mọi hành vi đối nhân xử thế là gì?",
+      "question": "Việc áp dụng nguyên tắc tôn vinh người khác mang lại hiệu quả như thế nào trong thực tế?",
       "options": [
-        "Tránh né mọi xung đột và sống tách biệt khỏi xã hội.",
-        "Xuất phát từ CÁI TÂM chân thành, lòng yêu thương con người sâu sắc, sự tôn trọng phẩm giá tha nhân và khát khao mang lại hạnh phúc, sự tiến bộ cho đồng loại.",
-        "Sử dụng các thủ thuật tâm lý khéo léo để điều khiển người khác theo ý mình.",
-        "Tích lũy quyền lực và tiền bạc bằng mọi giá."
+        "Dù hiệu quả chỉ đạt được 10% thì đó cũng đã là một thành công lớn trong việc thay đổi thái độ của người khác.",
+        "Nó đảm bảo rằng mọi người sẽ luôn đồng ý với đề nghị của bạn mà không bao giờ có bất kỳ sự phản đối nào xảy ra.",
+        "Nó giúp bạn hoàn toàn kiểm soát được hành vi của người khác theo đúng ý muốn cá nhân mà không cần phải nỗ lực.",
+        "Nó là phương pháp vạn năng có thể áp dụng trong mọi tình huống để giải quyết các xung đột phức tạp nhất hiện nay."
       ],
-      "correctIndex": 1,
-      "explanation": "Linh hồn của Đắc Nhân Tâm là TÌNH YÊU THƯƠNG và SỰ CHÂN THÀNH; không có cái tâm trong sáng, mọi kỹ xảo đều biến thành trò diễn xuất vô hồn."
+      "correctIndex": 0,
+      "explanation": "Carnegie thực tế, ông không hứa hẹn sự hoàn hảo, nhưng khẳng định rằng dù chỉ một chút thay đổi cũng là thành công."
     },
     {
       "id": "q14",
-      "question": "Hành trình thực hành 'Đắc Nhân Tâm' sau khi đọc xong cuốn sách nên được tiếp diễn như thế nào trong cuộc đời bạn?",
+      "question": "Điều gì là yếu tố then chốt để việc tôn vinh người khác không trở thành sự nịnh hót giả tạo?",
       "options": [
-        "Mở lớp dạy lại cho người khác để thu học phí cao.",
-        "Chỉ áp dụng khi cần thăng chức trong công việc.",
-        "Biến các bài học thành phản xạ tự nhiên mỗi ngày, kiên trì tự soi xét, rèn luyện sự thấu cảm và không ngừng lan tỏa sự tử tế, yêu thương đến muôn người.",
-        "Cất sách lên giá và quên hết mọi nguyên tắc."
+        "Việc lựa chọn thời điểm thích hợp để đưa ra lời khen ngợi nhằm đạt được mục đích cá nhân một cách khéo léo nhất.",
+        "Sự chân thành trong lời nói và hành động xuất phát từ lòng yêu thương và tôn trọng phẩm giá của người khác.",
+        "Việc sử dụng các từ ngữ hoa mỹ và trang trọng để làm cho lời khen trở nên ấn tượng và đáng nhớ hơn trong lòng.",
+        "Việc tìm hiểu kỹ về sở thích của đối phương để đưa ra những lời khen đúng trọng tâm và làm họ cảm thấy hài."
       ],
-      "correctIndex": 2,
-      "explanation": "Đắc Nhân Tâm không phải là đích đến mà là một hành trình tu dưỡng trọn đời: sống tử tế hơn mỗi ngày để biến thế giới quanh ta thành một nơi ngập tràn yêu thương."
+      "correctIndex": 1,
+      "explanation": "Sự chân thành là ranh giới giữa nghệ thuật Đắc Nhân Tâm và sự nịnh hót. Thiếu sự chân thành, mọi lời khen đều vô nghĩa."
     },
     {
       "id": "q15",
-      "question": "Tóm tắt cốt lõi của NGUYÊN TẮC 30 trong 'Đắc Nhân Tâm' là gì?",
+      "question": "George Adams đã nói gì về những điểm cao trào trong cuộc sống của con người?",
       "options": [
-        "Tự tôn vinh bản thân trong mọi cuộc trò chuyện.",
-        "Chỉ tôn vinh những người giàu có và quyền lực.",
-        "Tôn vinh người khác, làm cho họ vui vẻ thực hiện đề nghị của bạn.",
-        "Ép buộc người khác bằng các hình phạt nghiêm khắc."
+        "Những thành công rực rỡ trong cuộc đời mỗi người đều là kết quả của sự nỗ lực không ngừng nghỉ và ý chí kiên.",
+        "Mỗi người đều có những khoảnh khắc tỏa sáng riêng biệt nhờ vào tài năng thiên bẩm và sự may mắn trong cuộc sống.",
+        "Có những điểm cao trào trong cuộc sống, và hầu hết chúng đều đến từ sự khích lệ của một ai đó dành cho mình.",
+        "Sự khích lệ từ bản thân là yếu tố quan trọng nhất giúp con người vượt qua những thử thách khó khăn nhất đời mình."
       ],
       "correctIndex": 2,
-      "explanation": "Nguyên tắc số 30: Hãy luôn biết tôn vinh người khác, làm cho họ cảm thấy tự hào và vui vẻ thực hiện những đề nghị hoặc nhiệm vụ được trao gửi."
+      "explanation": "Lời khích lệ đúng lúc có thể thay đổi cuộc đời một con người, đó là sức mạnh của việc tôn vinh và ghi nhận người khác."
     }
   ]
 }
