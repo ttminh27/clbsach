@@ -1,188 +1,188 @@
 {
   "bookId": "DamNghiLai",
   "chapterId": "00_Mo_Dau",
-  "chapterTitle": "Mở Đầu: Tái tư duy - Sức mạnh của việc biết mình không biết",
+  "chapterTitle": "Mở Đầu: Thoát Khỏi Biển Lửa Nhận Thức",
   "totalQuestions": 15,
   "questions": [
     {
       "id": "q1",
-      "question": "Trong thảm kịch cháy rừng Mann Gulch năm 1949, hành động 'kỳ dị' nào đã cứu sống đội trưởng lính cứu hỏa nhảy dù Wagner Dodge trong khi 12 đồng đội của ông thiệt mạng?",
+      "question": "Trong thảm kịch Mann Gulch năm 1949, hành động ứng biến sáng tạo nào đã giúp đội trưởng Wagner Dodge sống sót qua biển lửa?",
       "options": [
-        "Ông châm lửa đốt một đám cháy thoát hiểm (Escape Fire) ngay trước mặt, rồi nằm úp mặt xuống vùng tro tàn vừa cháy hết để ngọn lửa chính quét qua đầu.",
-        "Ông chạy thục mạng với tốc độ tối đa vượt qua đỉnh sườn núi dốc trước khi ngọn lửa đuổi kịp.",
-        "Ông nhảy xuống dòng sông Montana gần đó và lặn sâu dưới nước cho đến khi đám cháy đi qua.",
-        "Ông trèo lên ngọn cây cao nhất trong rừng để tránh xa sức nóng của ngọn lửa dưới mặt đất."
+        "Chủ động châm lửa đốt bãi cỏ trước mặt để dọn sạch nhiên liệu rồi nằm úp mặt xuống vùng đất đã cháy rụi thở qua khăn ướt.",
+        "Tận dụng triệt để các kỹ thuật đào rãnh ngăn lửa tiêu chuẩn đã được huấn luyện bài bản trong chương trình cứu hỏa quốc gia.",
+        "Dẫn dắt toàn đội dốc toàn lực chạy ngược lên đỉnh núi đá với niềm tin rằng thể lực dẻo dai sẽ thắng được tốc độ đám cháy.",
+        "Nhanh chóng tìm kiếm một hang đá sâu dưới lòng khe núi để ẩn nấp và chờ đợi ngọn lửa cháy quét qua hết phần cây cỏ phía trên."
       ],
       "correctIndex": 0,
-      "explanation": "Wagner Dodge đã có một khoảnh khắc tái tư duy thiên tài: Ông nhận ra không thể chạy thoát ngọn lửa đang lao tới với tốc độ 48km/h, nên đã dùng lửa để đốt sạch nhiên liệu tạo ra vùng an toàn không còn gì để cháy."
+      "explanation": "Wagner Dodge đã ứng biến tạo ra lối thoát hiểm bằng lửa (escape fire): đốt sạch đám cỏ trước mặt để ngọn lửa chính không còn nhiên liệu bốc lên."
     },
     {
       "id": "q2",
-      "question": "Tại sao 12 người lính cứu hỏa dày dạn kinh nghiệm dưới quyền Wagner Dodge lại không làm theo lệnh nằm xuống vùng tro tàn của ông mà tiếp tục chạy thục mạng?",
+      "question": "Tại sao mười hai đồng đội của Wagner Dodge lại không làm theo lời kêu gọi cùng ẩn nấp vào bãi đất cháy của ông?",
       "options": [
-        "Họ tin rằng sức khỏe thể lực vượt trội của mình đủ để chạy thắng ngọn lửa dốc.",
-        "Họ không nghe thấy tiếng hét của đội trưởng do tiếng gió bão gầm rú quá lớn.",
-        "Họ có mâu thuẫn cá nhân từ trước và cố tình bất tuân mệnh lệnh của Dodge.",
-        "Họ bị mắc kẹt trong mô thức tư duy cũ (Lửa là kẻ thù cần phải chạy trốn), không thể tái tư duy trong tích tắc rằng ngọn lửa của đội trưởng là giải pháp sinh tồn."
+        "Vì địa hình dốc đứng nhiều đá sỏi khiến họ không thể nghe thấy tiếng còi hiệu lệnh khẩn cấp được phát ra từ người chỉ huy.",
+        "Vì trong cơn hoảng loạn, hành động đốt thêm lửa đi ngược hoàn toàn phản xạ bản năng chữa cháy và tháo chạy đã ăn sâu vào họ.",
+        "Vì họ nhận thấy lớp khói độc bốc lên từ bãi cỏ cháy của Dodge quá dày đặc nên quyết định tiếp tục chạy tìm khoảng đất trống.",
+        "Vì quy chế kỷ luật của lực lượng cứu hỏa trên không nghiêm cấm cấp dưới tự ý thay đổi chiến thuật khi chưa có lệnh văn bản."
       ],
-      "correctIndex": 3,
-      "explanation": "Trong cơn hoảng loạn, con người có xu hướng bám chặt vào các phản xạ bản năng quen thuộc nhất; họ không thể tiếp nhận một ý tưởng 'ngược đời' hoàn toàn trái ngược với kinh nghiệm cũ."
+      "correctIndex": 1,
+      "explanation": "Khi đối diện hiểm nguy tột cùng, con người quay về phản xạ tự động; việc châm thêm lửa chạy ngược đời khiến họ nghĩ Dodge bị mất trí."
     },
     {
       "id": "q3",
-      "question": "Chi tiết những người lính cứu hỏa thiệt mạng vẫn mang theo những chiếc rìu và xẻng nặng nề trên lưng khi chạy trốn phơi bày hiện tượng tâm lý nào?",
+      "question": "Theo nhà tâm lý học Karl Weick, lý do sâu xa khiến nhiều lính cứu hỏa không chịu vứt bỏ trang bị nặng khi tháo chạy là gì?",
       "options": [
-        "Hiện tượng 'Đóng băng hành vi' (Behavioral Freezing): Bám chặt vào các công cụ định danh nghề nghiệp quen thuộc ngay cả khi chúng đang trực tiếp kéo lùi và giết chết bạn.",
-        "Họ sợ bị phạt trừ lương nếu làm mất trang thiết bị của lực lượng kiểm lâm.",
-        "Họ hy vọng sẽ dùng xẻng để đào hố ẩn nấp trên đỉnh núi.",
-        "Họ muốn giữ lại dụng cụ để tự vệ trước các loài thú dữ trong rừng."
+        "Họ lo ngại sẽ phải chịu trách nhiệm bồi thường tài chính đắt đỏ nếu làm thất lạc các trang bị đắt tiền của cơ quan kiểm lâm.",
+        "Họ tin tưởng tuyệt đối rằng những chiếc rìu và cưa máy sẽ là công cụ sinh tồn duy nhất giúp họ phát quang bụi rậm khi bị mắc kẹt.",
+        "Vứt bỏ trang bị đồng nghĩa với thừa nhận thất bại và đánh mất căn tính cốt lõi của người lính cứu hỏa, kích hoạt khủng hoảng hiện sinh.",
+        "Các dụng cụ cứu hỏa được thiết kế chuyên dụng đeo dính chặt vào cơ thể khiến họ không thể thao tác tháo gỡ kịp lúc đang chạy gấp."
       ],
-      "correctIndex": 0,
-      "explanation": "Dụng cụ cứu hỏa là bản sắc của họ; buông bỏ dụng cụ đồng nghĩa với việc thừa nhận thất bại và mất kiểm soát, khiến họ không dám vứt bỏ gánh nặng để chạy nhanh hơn."
+      "correctIndex": 2,
+      "explanation": "Karl Weick nhận định đồ nghề chính là thứ định danh người lính cứu hỏa; việc buông bỏ công cụ khiến họ cảm thấy đánh mất chính bản thân mình."
     },
     {
       "id": "q4",
-      "question": "Adam Grant đã sử dụng câu chuyện Mann Gulch như một phép ẩn dụ sâu sắc cho điều gì trong cuộc sống hiện đại?",
+      "question": "Adam Grant đối chiếu sự khác biệt giữa \"Trí thông minh\" và \"Năng lực tái tư duy\" trong bối cảnh thế giới biến động như thế nào?",
       "options": [
-        "Tầm quan trọng của việc rèn luyện thể lực chạy bộ cự ly ngắn cho thanh niên.",
-        "Con người chúng ta thường ôm giữ khư khư những giả định, định kiến và công cụ tư duy lỗi thời khi đối mặt với các cuộc khủng hoảng mới, dẫn đến sự diệt vong thay vì dám 'đốt đám cháy thoát hiểm' cho tâm trí.",
-        "Sự nguy hiểm của các hoạt động dã ngoại mạo hiểm tại các công viên quốc gia Hoa Kỳ.",
-        "Kỹ thuật chữa cháy rừng chuyên nghiệp đòi hỏi phải được trang bị máy bay hiện đại."
+        "Trí thông minh giúp nâng cao khả năng hùng biện áp đảo đối phương, còn tái tư duy giúp xây dựng các liên minh chính trị nơi công sở.",
+        "Trí thông minh là năng lực ghi nhớ lượng dữ liệu khổng lồ, còn tái tư duy là kỹ thuật sáng tạo nghệ thuật vượt ra ngoài khuôn khổ.",
+        "Trí thông minh chỉ phát huy hiệu quả trong lĩnh vực khoa học tự nhiên, trong khi tái tư duy là năng lực dành riêng cho quản trị xã hội.",
+        "Trí thông minh là khả năng tư duy và học hỏi, nhưng tái tư duy là năng lực hoài nghi những hiểu biết cũ và quên đi điều đã lỗi thời."
       ],
-      "correctIndex": 1,
-      "explanation": "Hầu hết chúng ta không chết vì lửa rừng thực tế, nhưng chúng ta chết mòn trong sự nghiệp và cuộc sống vì không chịu buông bỏ 'chiếc rìu tư duy cũ' khi hoàn cảnh đã thay đổi hoàn toàn."
+      "correctIndex": 3,
+      "explanation": "Trí thông minh truyền thống chỉ giúp giải quyết vấn đề nhanh hơn, nhưng nếu thiếu năng lực tái tư duy và unlearn, bạn sẽ giải quyết sai vấn đề mới."
     },
     {
       "id": "q5",
-      "question": "Tại sao trong một thế giới biến động nhanh (VUCA), 'Năng lực tái tư duy' lại trở thành kỹ năng sinh tồn quan trọng hơn cả 'Trí thông minh'?",
+      "question": "Nghiên cứu về \"Ảo tưởng trực giác ban đầu\" (First instinct fallacy) trong các bài thi trắc nghiệm đưa ra kết luận bất ngờ nào?",
       "options": [
-        "Trí thông minh chỉ giúp bạn xử lý nhanh các vấn đề trong khuôn khổ quy luật cũ, nhưng tái tư duy giúp bạn nhận ra khi nào các quy luật cũ đã sụp đổ để thiết lập quy luật mới.",
-        "Vì các thuật toán trí tuệ nhân tạo (AI) đã thay thế hoàn toàn nhu cầu tư duy logic của con người.",
-        "Vì những người có IQ cao thường có xu hướng lười biếng và không chịu làm việc nhóm.",
-        "Vì trí thông minh là thứ không thể rèn luyện được sau tuổi 20."
+        "Đa số các lần học sinh cân nhắc sửa lại đáp án ban đầu đều chuyển từ sai thành đúng, trái ngược với niềm tin giữ nguyên linh cảm.",
+        "Học sinh thay đổi câu trả lời thường xuyên nhất luôn đạt điểm số thấp hơn nhóm kiên định với trực giác xuất hiện ngay từ đầu.",
+        "Trực giác ban đầu luôn phản ánh chính xác tiềm thức chuyên môn nên việc xem xét lại chỉ làm tăng thêm sự hoang mang và lãng phí thời gian.",
+        "Việc sửa lại đáp án chỉ mang lại hiệu quả tích cực đối với các môn khoa học tự nhiên nhưng lại gây tác hại đối với các môn xã hội."
       ],
       "correctIndex": 0,
-      "explanation": "Càng thông minh và có nhiều kinh nghiệm, bạn càng dễ rơi vào cái bẫy tự tin thái quá; chỉ có năng lực tái tư duy mới giúp bạn liên tục thích ứng với thực tại mới."
+      "explanation": "Nghiên cứu tổng hợp chỉ ra phần lớn việc sửa đáp án là từ sai sang đúng; mấu chốt là sự sẵn sàng xem xét lại thay vì cố chấp bám lấy linh cảm đầu."
     },
     {
       "id": "q6",
-      "question": "Thí nghiệm kinh điển về 'Bài toán trắc nghiệm đổi câu trả lời' (Changing answers on multiple-choice tests) được Adam Grant dẫn chứng mang lại kết quả bất ngờ nào?",
+      "question": "Khái niệm \"Kẻ hà tiện nhận thức\" (Cognitive misers) được dùng để giải thích cơ chế tâm lý nào của con người?",
       "options": [
-        "Linh cảm đầu tiên luôn luôn chính xác trong 99% các tình huống kiểm tra trắc nghiệm.",
-        "Việc đổi câu trả lời chỉ có tác dụng đối với các môn khoa học tự nhiên như toán và lý.",
-        "100% học sinh đổi câu trả lời đều bị điểm kém hơn so với người giữ nguyên đáp án ban đầu.",
-        "Phần lớn các trường hợp học sinh xóa câu trả lời đầu tiên để chọn câu trả lời mới sau khi suy nghĩ lại đều chuyển từ 'SAI' thành 'ĐÚNG', trái ngược với niềm tin phổ biến 'hãy tin vào linh cảm đầu tiên'."
+        "Xu hướng tích lũy tri thức một cách ích kỷ nhằm trục lợi cá nhân thay vì chia sẻ và đóng góp cho sự phát triển của cộng đồng học thuật.",
+        "Xu hướng chọn sự nhàn hạ của việc giữ nguyên nhận thức cũ thay vì chấp nhận tiêu tốn năng lượng để vật lộn với những ý tưởng mới mẻ.",
+        "Thói quen tính toán chi phí cơ hội quá mức trước khi ra quyết định khiến con người đánh mất các cơ hội hành động mang tính đột phá.",
+        "Tâm lý luôn đánh giá thấp trí tuệ của người khác nhằm duy trì cảm giác vượt trội giả tạo về năng lực chuyên môn của bản thân mình."
       ],
-      "correctIndex": 3,
-      "explanation": "Nghiên cứu chứng minh: Nghi ngờ trực giác ban đầu và dũng cảm suy xét lại (rethinking) mang lại kết quả chính xác vượt trội hơn nhiều so với việc cố chấp bám lấy linh cảm đầu tiên."
+      "correctIndex": 1,
+      "explanation": "Chúng ta là những kẻ hà tiện tư duy: ưa thích sự thoải mái của định kiến cũ hơn là đối mặt với sự bất định và tiêu hao năng lượng khi tái tư duy."
     },
     {
       "id": "q7",
-      "question": "Tại sao con người lại có xu hướng bám chấp mù quáng vào 'Linh cảm đầu tiên' (First Instinct Fallacy) dù bằng chứng cho thấy suy nghĩ lại tốt hơn?",
+      "question": "Hiện tượng \"Mắc kẹt và đóng băng\" (Seizing and freezing) được Kruglanski và Webster mô tả phản ánh điều gì?",
       "options": [
-        "Vì các giáo viên luôn phạt điểm nặng những bài thi có vết tẩy xóa.",
-        "Vì não bộ con người bị lập trình tự động cấm xóa các vết mực trên giấy thi.",
-        "Vì linh cảm đầu tiên là món quà di truyền từ tổ tiên thời tiền sử.",
-        "Vì nỗi đau tâm lý khi 'đổi từ đúng thành sai' để lại sự hối tiếc cay đắng hơn nhiều so với việc 'sai vì giữ nguyên đáp án cũ', khiến não bộ có xu hướng né tránh rủi ro thay đổi."
+        "Trạng thái hoảng sợ tột độ khiến não bộ tạm thời tê liệt và mất khả năng chỉ huy vận động cơ bắp trước các tình huống hiểm nghèo.",
+        "Thói quen do dự kéo dài không dám đưa ra kết luận cuối cùng vì luôn lo sợ phải chịu trách nhiệm cá nhân trước những rủi ro phát sinh.",
+        "Sự đóng kín nhận thức: ưa thích sự chắc chắn của niềm tin có sẵn và kiên quyết từ chối tiếp nhận thông tin trái ngược với quan điểm cũ.",
+        "Nhu cầu bắt chước hành vi của đám đông nhằm tìm kiếm sự an toàn tâm lý và hòa nhập nhanh chóng vào môi trường xã hội xa lạ mới."
       ],
-      "correctIndex": 3,
-      "explanation": "Tâm lý sợ hối tiếc (Regret Aversion) khiến chúng ta nhớ rất lâu những lần đổi đáp án sai và quên mất hàng chục lần đổi đáp án đúng, tạo nên ảo tưởng rằng trực giác đầu tiên luôn chuẩn xác."
+      "correctIndex": 2,
+      "explanation": "Mắc kẹt và đóng băng là tình trạng tâm trí nắm chặt lấy một phán đoán ban đầu rồi đóng băng lại, từ chối mọi chứng cứ mâu thuẫn để bảo vệ niềm tin."
     },
     {
       "id": "q8",
-      "question": "Khái niệm 'Mảng vôi hóa tư duy' (Cognitive Entrenchment) được tác giả mô tả như thế nào?",
+      "question": "Sự thật sinh học về câu chuyện ngụ ngôn nổi tiếng \"Con ếch luộc\" (The boiling frog) phơi bày nghịch lý thú vị nào?",
       "options": [
-        "Khi một chuyên gia tích lũy quá nhiều kinh nghiệm trong một lĩnh vực, các mô thức tư duy của họ trở nên cứng nhắc và họ bị mù quáng trước những góc nhìn mới mẻ mang tính đột phá.",
-        "Một kỹ thuật ghi nhớ nhanh các định luật vật lý bằng sơ đồ tư duy.",
-        "Hiện tượng lắng đọng canxi trong các mạch máu não gây suy giảm trí nhớ ở người cao tuổi.",
-        "Trạng thái tâm lý hưng phấn tột độ khi giải thành công một bài toán khó."
+        "Con ếch trong thí nghiệm thực tế hoàn toàn không có hệ thống thụ cảm nhiệt độ nên không thể nhận biết được sự nguy hiểm của nước sôi.",
+        "Loài ếch có khả năng thích nghi sinh học tuyệt vời với nước nóng nhờ lớp màng nhầy đặc biệt giúp bảo vệ các cơ quan nội tạng bên trong.",
+        "Các nhà khoa học chứng minh việc luộc ếch từ từ chỉ là câu chuyện hư cấu được dàn dựng bởi các phong trào bảo vệ động vật hoang dã.",
+        "Con ếch thực tế sẽ nhảy ra khi nước nóng dần; kẻ thực sự thiếu khả năng tái tư duy tình huống chính là con người khi tin mù quáng vào nó."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự chuyên nghiệp có thể trở thành cái bẫy; khi bạn quá thành thạo lối mòn cũ, bạn sẽ trở thành tù nhân của chính sự thành công trong quá khứ của mình."
+      "correctIndex": 3,
+      "explanation": "Thực tế con ếch sẽ nhảy ra khi nước nóng lên; kẻ thất bại trong việc tái tư duy không phải con ếch mà chính là chúng ta khi chấp nhận huyền thoại đó."
     },
     {
       "id": "q9",
-      "question": "Tại sao việc 'Tái tư duy' lại gây ra cảm giác khó chịu và đau đớn về mặt tâm lý đối với hầu hết mọi người?",
+      "question": "Bài học đắt giá mà chính Adam Grant đúc kết khi bỏ lỡ cơ hội phát triển mạng xã hội Harvard trước cả Mark Zuckerberg là gì?",
       "options": [
-        "Nó làm tăng nồng độ axit uric trong máu gây ra các cơn đau khớp cấp tính.",
-        "Nó đe dọa sự ổn định của cái tôi và buộc con người phải đối mặt với sự bất an, hoài nghi và cảm giác dễ tổn thương khi nhận ra mình đã từng sai lầm.",
-        "Nó đòi hỏi con người phải chi trả một khoản chi phí tài chính rất lớn cho các bài kiểm tra tâm lý.",
-        "Nó làm giảm lượng đường huyết trong cơ thể sau mỗi lần suy nghĩ."
+        "Ông và các bạn đã bị trói buộc bởi giả định cũ rằng mạng trực tuyến chỉ để liên lạc với người ở xa, bỏ lỡ tiềm năng kết nối rộng lớn.",
+        "Họ đã thiếu nguồn vốn đầu tư tài chính mạo hiểm ban đầu để có thể cạnh tranh sòng phẳng với các tập đoàn công nghệ lớn tại Thung lũng Silicon.",
+        "Họ quá tập trung vào việc hoàn thiện các thuật toán bảo mật phức tạp thay vì nhanh chóng tung sản phẩm mẫu ra thị trường để thử nghiệm.",
+        "Việc phân chia quyền sở hữu trí tuệ không rõ ràng giữa các sáng lập viên đã dẫn đến những bất đồng nội bộ không thể giải quyết dứt điểm."
       ],
-      "correctIndex": 1,
-      "explanation": "Tư duy bám giữ mang lại cảm giác an toàn giả tạo; trong khi tái tư duy đòi hỏi sự dũng cảm bước vào vùng bất định và phá bỏ cấu trúc niềm tin cũ."
+      "correctIndex": 0,
+      "explanation": "Grant cùng nhóm bạn đã đóng nhóm e-group khi vào trường vì nghĩ gần nhau thì không cần công cụ trực tuyến; giả định hẹp hòi đó làm họ mất cơ hội."
     },
     {
       "id": "q10",
-      "question": "Trong ví dụ về việc 'Chẩn đoán y khoa', tại sao các bác sĩ giỏi nhất lại là những người thường xuyên nghi ngờ kết luận đầu tiên của chính mình?",
+      "question": "Phương pháp \"Quản trị dựa trên chứng cứ\" (Evidence-based management) mà Adam Grant theo đuổi đòi hỏi nhà lãnh đạo điều gì?",
       "options": [
-        "Vì họ hoàn toàn không có sự tự tin vào trình độ chuyên môn của bản thân.",
-        "Vì họ muốn kéo dài thời gian khám bệnh để thu thêm tiền viện phí của bệnh nhân.",
-        "Vì việc chủ động tìm kiếm các chẩn đoán phân biệt và triệu chứng phản chứng giúp họ tránh được bẫy chẩn đoán sớm sai lầm và cứu sống bệnh nhân.",
-        "Vì đây là quy định bắt buộc trong quy trình bảo hiểm y tế quốc tế."
+        "Luôn tuyệt đối tuân thủ các quy trình vận hành chuẩn mực đã được kiểm nghiệm qua nhiều thập kỷ trong các ngành công nghiệp truyền thống.",
+        "Chủ động rà soát, kiểm chứng các giả định quản lý bằng dữ liệu thực nghiệm xác thực thay vì dựa vào linh cảm hay kinh nghiệm cá nhân.",
+        "Thường xuyên tổ chức các cuộc trưng cầu dân ý nội bộ để đảm bảo mọi quyết sách chiến lược đều nhận được sự đồng thuận tuyệt đối của nhân viên.",
+        "Ủy quyền hoàn toàn quyền ra quyết định kinh doanh cho các thuật toán phân tích dữ liệu lớn và trí tuệ nhân tạo tự động thế hệ mới."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự tự tin thái quá trong y khoa là nguyên nhân hàng đầu của các sai sót chết người; người bác sĩ xuất sắc luôn giữ tâm thế của một nhà điều tra khoa học cẩn trọng."
+      "correctIndex": 1,
+      "explanation": "Quản trị dựa trên chứng cứ đòi hỏi từ bỏ các thói quen quản lý cảm tính, coi mọi giải pháp là giả thuyết và liên tục kiểm chứng bằng dữ liệu khách quan."
     },
     {
       "id": "q11",
-      "question": "Câu chuyện về các nhà thiên văn học mất hàng chục năm để chấp nhận Sao Diêm Vương không phải là một hành tinh chứng minh điều gì?",
+      "question": "Adam Grant dẫn chứng các biến cố năm 2020 (đại dịch COVID-19 và phong trào chống phân biệt chủng tộc) nhằm nhấn mạnh điều gì?",
       "options": [
-        "Ngay cả cộng đồng khoa học tinh hoa cũng gặp phải sự kháng cự tâm lý mãnh liệt khi phải từ bỏ những niềm tin đã ăn sâu vào sách giáo khoa và văn hóa đại chúng.",
-        "Kính thiên văn quang học thời xưa có chất lượng quá kém không thể nhìn rõ vũ trụ.",
-        "Sao Diêm Vương thực sự đã thay đổi quỹ đạo bay và biến mất khỏi hệ mặt trời.",
-        "Các nhà khoa học không quan tâm đến các hành tinh nằm ở rìa ngoài của dải ngân hà."
+        "Sự bất lực hoàn toàn của các thể chế y tế công cộng và hệ thống tư pháp hình sự hiện đại trước các thách thức phức tạp toàn cầu.",
+        "Tầm quan trọng của việc duy trì ổn định kinh tế vĩ mô trên hết trước khi giải quyết các xung đột liên quan đến công bằng xã hội.",
+        "Thực tế phũ phàng buộc mỗi cá nhân và cộng đồng phải chất vấn các giả định hiển nhiên lâu đời và cập nhật \"hiến pháp tư duy\" của chính mình.",
+        "Sự phân cực xã hội sâu sắc là kết quả tất yếu của quá trình toàn cầu hóa và không thể đảo ngược bằng bất kỳ nỗ lực đối thoại nào."
       ],
-      "correctIndex": 0,
-      "explanation": "Tái tư duy tập thể là một tiến trình đầy cam go; con người có xu hướng bảo vệ những tín niệm quen thuộc ngay cả khi các bằng chứng thiên văn mới đã rõ mười mươi."
+      "correctIndex": 2,
+      "explanation": "Các cuộc khủng hoảng năm 2020 phá vỡ mọi điều hiển nhiên, đòi hỏi chúng ta phải có tính mềm dẻo nhận thức để sửa đổi các hiến pháp tư duy cố hữu."
     },
     {
       "id": "q12",
-      "question": "Điều gì là rào cản lớn nhất ngăn cản một công ty công nghệ tái tư duy sản phẩm của mình trước các làn sóng đổi mới?",
+      "question": "Bi kịch lớn nhất của thảm họa Mann Gulch được tác giả chỉ ra dưới góc độ hệ thống của Cục Kiểm lâm Hoa Kỳ là gì?",
       "options": [
-        "Sự tự mãn với thành công rực rỡ trong quá khứ và sự bảo thủ của ban lãnh đạo bám chặt vào 'con gà đẻ trứng vàng' hiện tại (như trường hợp của Kodak hay BlackBerry).",
-        "Chính sách bảo hộ độc quyền quá mức của các cơ quan quản lý thị trường.",
-        "Sự khan hiếm các kỹ sư lập trình phần mềm trên thị trường lao động toàn cầu.",
-        "Sự thiếu thốn nguồn vốn đầu tư từ các quỹ đầu tư mạo hiểm Thung lũng Silicon."
+        "Trang thiết bị bảo hộ lao động của lực lượng cứu hỏa trên không thời kỳ đó có chất lượng quá lạc hậu và không chịu được nhiệt độ cao.",
+        "Công tác dự báo thời tiết khí tượng thủy văn khu vực miền núi không đưa ra cảnh báo kịp thời về sự xuất hiện của các cơn gió giật mạnh.",
+        "Việc phân công đội trưởng Wagner Dodge chỉ huy đội lính trẻ chưa từng làm việc chung đã gây ra sự mất đoàn kết nghiêm trọng trong lúc nguy cấp.",
+        "Quy định kéo dài cả thế kỷ bắt buộc dập tắt mọi đám cháy rừng trước 10h sáng đã khiến củi khô tích tụ tạo nên thảm họa không cần thiết."
       ],
-      "correctIndex": 0,
-      "explanation": "Thành công trong quá khứ là kẻ thù nguy hiểm nhất của thành công trong tương lai; các công ty vĩ đại sụp đổ không phải vì họ kém cỏi, mà vì họ từ chối tái tư duy khi còn đang ở đỉnh cao."
+      "correctIndex": 3,
+      "explanation": "Quy định dập tắt mọi đám cháy vô tình triệt tiêu chu kỳ sinh thái tự nhiên, khiến rừng rậm rạp tích tụ củi khô gây bùng phát trận cháy hủy diệt Mann Gulch."
     },
     {
       "id": "q13",
-      "question": "Adam Grant so sánh 'Năng lực tái tư duy' như một dạng bài tập thể dục nào cho não bộ?",
+      "question": "Vụ cháy núi Storm King năm 1994 khiến 14 lính cứu hỏa tử nạn lặp lại bài học đau đớn nào về sự bám chấp công cụ?",
       "options": [
-        "Bài tập giữ thăng bằng trên một chân để kiểm tra chức năng tiền đình.",
-        "Bài tập rèn luyện sự dẻo dai và linh hoạt nhận thức (Cognitive Flexibility): Giúp tâm trí không bị xơ cứng và luôn sẵn sàng uốn cong trước những luồng gió mới của sự thật.",
-        "Bài tập nâng tạ nặng nhằm tăng kích thước khối lượng các tế bào thần kinh.",
-        "Bài tập chạy nước rút 100 mét để kích thích phản xạ bản năng tức thì."
+        "Họ vẫn ôm khư khư cưa máy và ba lô nặng trên lưng khi chạy trốn, dù bỏ lại đồ nghề có thể giúp họ di chuyển nhanh hơn 15 đến 20 phần trăm.",
+        "Họ từ chối sử dụng bản đồ vệ tinh dẫn đường mới vì quá quen thuộc với các lối mòn truyền thống trong khu bảo tồn thiên nhiên bang Colorado.",
+        "Họ đã không kịp thời thông báo vị trí chính xác cho đội cứu hộ trên không vì quá tập trung vào việc bảo quản hệ thống điện đàm quân sự.",
+        "Họ đã cố gắng dập lửa bằng bình chữa cháy cầm tay thay vì nhanh chóng di tản khỏi hẻm núi sâu theo quy trình an toàn của ngành lâm nghiệp."
       ],
-      "correctIndex": 1,
-      "explanation": "Tâm trí giống như một khối cơ; nếu bạn không liên tục kéo giãn và uốn dẻo nó bằng các góc nhìn đối lập, nó sẽ bị co cứng và giòn gãy trước những biến cố bất ngờ."
+      "correctIndex": 0,
+      "explanation": "Báo cáo điều tra xác nhận lính cứu hỏa đã có thể thoát chết lên đỉnh đồi nếu buông bỏ cưa máy và trang bị nặng nề đang ghì họ lại."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc 'Học cách cười vào những sai lầm ngớ ngẩn trong quá khứ của mình' lại là dấu hiệu của một người có năng lực tái tư duy cao?",
+      "question": "Theo nhận định của Norman Maclean được trích dẫn trong sách, nếu Socrates làm đội trưởng ở Mann Gulch thì điều gì sẽ xảy ra?",
       "options": [
-        "Vì cười nhiều sẽ làm giảm nguy cơ mắc các bệnh về tim mạch và huyết áp.",
-        "Vì nó giúp bạn che giấu sự kém cỏi trước mặt các đối thủ cạnh tranh.",
-        "Đó là một cử chỉ bắt buộc trong các nghi thức giao tiếp của giới doanh nhân phương Tây.",
-        "Nó chứng tỏ bạn đã trưởng thành vượt bậc so với con người cũ của mình; sự tự trào nhẹ nhõm giải phóng bạn khỏi gánh nặng của cái tôi hoàn hảo hão huyền."
+        "Socrates sẽ dùng nghệ thuật đối thoại bậc thầy để thuyết phục toàn đội bình tĩnh tìm ra hang đá an toàn ẩn nấp qua cơn đại nạn.",
+        "Socrates và toàn bộ đội lính cứu hỏa chắc chắn đã biến thành tro trong lúc còn đang ngồi lại cân nhắc, đàm đạo xem phải làm gì.",
+        "Triết lý sâu sắc của Socrates sẽ khai sáng cho những người lính cứu hỏa trẻ tuổi lòng dũng cảm phi thường để chiến đấu tới cùng với ngọn lửa.",
+        "Socrates sẽ nhanh chóng phát hiện hướng gió đổi chiều nhờ sự thông thái triết học và dẫn đường cho cả đội chạy thoát xuống dòng sông Missouri."
       ],
-      "correctIndex": 3,
-      "explanation": "Người có thể mỉm cười nói: 'Tôi đã từng sai lầm ngây thơ như thế đấy' là người đã hoàn toàn tự do; họ không còn cần phải phòng thủ hay ngụy biện cho cái tôi trong quá khứ."
+      "correctIndex": 1,
+      "explanation": "Trong biển lửa khẩn cấp, việc tư duy chậm rãi đối thoại kiểu Socrates sẽ biến cả đội thành tro; điều cứu Dodge là khả năng tái tư duy nhanh nhạy."
     },
     {
       "id": "q15",
-      "question": "Thông điệp cốt lõi đọng lại sau phần Mở đầu về thảm kịch Mann Gulch là gì?",
+      "question": "Dấu hiệu chân chính của sự trưởng thành về mặt trí tuệ được tác giả đúc kết ở phần cuối bài Mở đầu là gì?",
       "options": [
-        "'Đừng để sự xác tín mù quáng trở thành chiếc quan tài chôn vùi cuộc đời bạn; hãy luôn sẵn sàng vứt bỏ chiếc rìu tư duy cũ và đốt lên ngọn lửa tái tư duy để sinh tồn và tỏa sáng!'.",
-        "'Hãy tránh xa các khu rừng quốc gia vào mùa khô hạn để bảo đảm an toàn tính mạng'.",
-        "'Chạy bộ với tốc độ nhanh là kỹ năng duy nhất quyết định sự sống còn của con người'.",
-        "'Tuyệt đối không bao giờ tin tưởng vào mệnh lệnh của những người chỉ huy trong cơn hoảng loạn'."
+        "Khả năng xây dựng được hệ tư tưởng triết lý cá nhân kiên cố bất khả xâm phạm trước mọi thử thách và biến động của thời đại mới.",
+        "Năng lực duy trì sự tự tin tuyệt đối vào tính đúng đắn của bản thân ngay cả khi bị đám đông xung quanh cô lập và hoài nghi dữ dội.",
+        "Biết rõ thời điểm nên từ bỏ những công cụ nhận thức quý báu nhất của mình và sẵn sàng gạt bỏ những phần xơ cứng trong căn tính cá nhân.",
+        "Kỹ năng phản biện lão luyện giúp bảo vệ thành công mọi quyết định của tổ chức trước sự chỉ trích của các bên liên quan trên thị trường."
       ],
-      "correctIndex": 0,
-      "explanation": "Câu chuyện Mann Gulch là bản tuyên ngôn bất hủ về sức mạnh cứu rỗi của sự tái tư duy: Trong giờ phút hiểm nghèo nhất, khả năng nghĩ khác đi là ranh giới duy nhất giữa sự sống và cái chết."
+      "correctIndex": 2,
+      "explanation": "Trưởng thành trí tuệ là biết lúc nào nên buông bỏ các công cụ nhận thức quen thuộc và những phần lỗi thời trong căn tính để thích ứng và phát triển."
     }
   ]
 }

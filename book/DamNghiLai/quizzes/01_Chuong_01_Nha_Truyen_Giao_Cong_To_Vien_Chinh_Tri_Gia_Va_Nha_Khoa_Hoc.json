@@ -1,188 +1,188 @@
 {
   "bookId": "DamNghiLai",
   "chapterId": "01_Chuong_01_Nha_Truyen_Giao_Cong_To_Vien_Chinh_Tri_Gia_Va_Nha_Khoa_Hoc",
-  "chapterTitle": "Chương 1: Nhà truyền giáo, công tố viên, chính trị gia và nhà khoa học",
+  "chapterTitle": "Chương 1: Nhà Truyền Giáo, Công Tố Viên, Chính Trị Gia Và Nhà Khoa Học Bước Vào Tâm Trí Bạn",
   "totalQuestions": 15,
   "questions": [
     {
       "id": "q1",
-      "question": "Theo nghiên cứu của nhà tâm lý học Phil Tetlock, con người khi suy nghĩ và giao tiếp thường rơi vào 3 chế độ tự vệ tâm lý nào?",
+      "question": "Bi kịch sụp đổ thị phần của BlackBerry và nhà sáng lập thiên tài Mike Lazaridis phản ánh bài học đắt giá nào?",
       "options": [
-        "Nhà truyền giáo (Bảo vệ và rao giảng niềm tin của mình), Công tố viên (Tìm kẽ hở kết tội người khác sai), và Chính trị gia (Vận động lôi kéo sự đồng tình của số đông).",
-        "Cha mẹ (Kiểm soát), Trẻ con (Bốc đồng), và Người lớn (Trưởng thành lý trí).",
-        "Người lạc quan (Luôn tin tưởng), Người bi quan (Luôn sợ hãi), và Người thực dụng (Luôn tính toán).",
-        "Bác sĩ (Chữa trị), Luật sư (Bào chữa), và Kỹ sư (Thiết kế chế tạo)."
+        "Sự tự tin thái quá vào bàn phím vật lý đã biến thành cái bẫy bảo thủ khiến họ kiên quyết từ chối trào lưu màn hình cảm ứng.",
+        "Sự thiếu hụt nguồn lực tài chính nghiên cứu phát triển trước sức ép cạnh tranh khốc liệt từ các tập đoàn công nghệ đa quốc gia.",
+        "Sự quản lý lỏng lẻo trong dây chuyền sản xuất phần cứng khiến chất lượng sản phẩm suy giảm nghiêm trọng so với tiêu chuẩn ngành.",
+        "Việc chậm trễ mở rộng chuỗi cung ứng sang các thị trường mới nổi khiến thương hiệu đánh mất vị thế dẫn đầu vào tay các đối thủ mới."
       ],
       "correctIndex": 0,
-      "explanation": "3 chế độ này khiến chúng ta bị cuốn vào mục tiêu thắng thua hoặc lấy lòng người khác thay vì mục tiêu khám phá chân lý khách quan."
+      "explanation": "Mike Lazaridis là kỹ sư thiên tài nhưng mắc kẹt trong thành công quá khứ; ông xem điện thoại cảm ứng là trò đồ chơi hao pin và từ chối tái tư duy."
     },
     {
       "id": "q2",
-      "question": "Điểm khác biệt mang tính cách mạng của 'Chế độ tư duy của Nhà khoa học' (Thinking like a scientist) so với 3 chế độ trên là gì?",
+      "question": "Theo nhà tâm lý học Philip Tetlock, con người rơi vào chế độ \"Nhà truyền giáo\" (Preacher) trong trường hợp nào?",
       "options": [
-        "Nhà khoa học coi ý kiến của mình chỉ là các giả thuyết cần kiểm chứng; họ chủ động tìm kiếm dữ liệu phản biện và sẵn sàng thay đổi khi giả thuyết sai.",
-        "Nhà khoa học chỉ tin vào các công thức toán học và từ chối mọi cảm xúc con người.",
-        "Nhà khoa học luôn mặc áo choàng trắng và làm việc trong các phòng thí nghiệm vô trùng.",
-        "Nhà khoa học không bao giờ đưa ra bất kỳ kết luận hay quyết định dứt khoát nào."
+        "Khi nhận thấy đối phương có sơ hở lập luận và ta tìm mọi cách để chứng minh quan điểm của đối phương hoàn toàn sai lầm.",
+        "Khi những niềm tin thiêng liêng của ta bị đe dọa, ta chuyển sang rao giảng để bảo vệ và truyền bá lý tưởng của bản thân.",
+        "Khi ta cố gắng tìm kiếm sự ủng hộ của số đông và sẵn sàng nói những điều làm vừa lòng người nghe để lấy phiếu bầu.",
+        "Khi ta xem mọi ý kiến cá nhân chỉ là giả thuyết tạm thời và tích cực tìm kiếm dữ liệu thực nghiệm để kiểm chứng."
       ],
-      "correctIndex": 0,
-      "explanation": "Tư duy khoa học là tìm kiếm sự thật hơn là bảo vệ cái tôi; sự khiêm nhường về tri thức và óc tò mò là hai động cơ chính thúc đẩy tiến trình này."
+      "correctIndex": 1,
+      "explanation": "Tetlock phân tích: khi niềm tin cốt lõi bị thách thức, ta trở thành nhà truyền giáo bảo vệ giáo lý; khi thấy người khác sai, ta thành công tố viên; khi cần ủng hộ, ta thành chính trị gia."
     },
     {
       "id": "q3",
-      "question": "Bi kịch của nhà sáng lập BlackBerry - Mike Lazaridis - được phân tích trong Chương 1 là minh chứng điển hình cho cái bẫy nào?",
+      "question": "Điểm khác biệt mang tính cách mạng của chế độ \"Nhà khoa học\" (Scientist) so với ba chế độ còn lại là gì?",
       "options": [
-        "Bị mắc kẹt trong chế độ Nhà truyền giáo và Công tố viên: Quá say mê với bàn phím cứng và tính bảo mật của BlackBerry đến mức mù quáng lên án màn hình cảm ứng của Apple.",
-        "Sự phản bội của các đối tác sản xuất phần cứng tại các nước châu Á.",
-        "Việc bị chính phủ Hoa Kỳ cấm lưu hành sản phẩm do các quy định về an ninh mạng.",
-        "Sự thiếu thốn tài chính và không có đủ nguồn vốn để sản xuất linh kiện điện thoại."
+        "Đòi hỏi cá nhân phải sở hữu bằng cấp chuyên môn cao cấp và làm việc trong môi trường phòng thí nghiệm hiện đại chuẩn quốc tế.",
+        "Kỹ năng sử dụng các thuật toán thống kê phức tạp nhằm chứng minh các kết luận nghiên cứu của mình là hoàn toàn chuẩn xác.",
+        "Luôn coi ý kiến là giả thuyết cần kiểm chứng, đón nhận dữ liệu mới với sự tò mò và sẵn sàng thay đổi khi nhận ra mình sai.",
+        "Khả năng thuyết phục đám đông chấp nhận các lý thuyết khoa học mới thông qua các kỹ thuật truyền thông và diễn thuyết lôi cuốn."
       ],
-      "correctIndex": 0,
-      "explanation": "Mike Lazaridis là một thiên tài kỹ thuật nhưng lại thất bại trong việc tái tư duy thị trường; ông rao giảng ưu điểm của bàn phím cứng và chế giễu màn hình cảm ứng cho đến khi quá muộn."
+      "correctIndex": 2,
+      "explanation": "Tư duy như nhà khoa học không cần bằng cấp khoa học; đó là thái độ coi ý kiến là giả thuyết, xuất phát từ khiêm nhường, hoài nghi lành mạnh và tìm kiếm dữ liệu."
     },
     {
       "id": "q4",
-      "question": "Điều gì đã thực sự giúp Steve Jobs và Apple tạo ra cuộc cách mạng iPhone, trái ngược với huyền thoại về 'thiên tài độc đoán'?",
+      "question": "Điều gì đã thực sự giúp Apple tạo ra cuộc cách mạng iPhone, trái ngược với huyền thoại về một Steve Jobs toàn năng độc đoán?",
       "options": [
-        "Apple đã mua lại toàn bộ bằng sáng chế điện thoại di động từ tập đoàn Nokia.",
-        "Ban đầu Jobs kịch liệt phản đối làm điện thoại di động; chính đội ngũ kỹ sư đã kiên trì 'thuyết phục Jobs tái tư duy' bằng cách chứng minh Apple có thể giữ nguyên ADN máy tính của mình.",
-        "Steve Jobs đã tự mình viết toàn bộ mã nguồn của hệ điều hành iOS trong 1 tuần.",
-        "Steve Jobs bị ép buộc bởi các cổ đông lớn trên sàn chứng khoán phố Wall."
+        "Steve Jobs đã tự mình phác thảo toàn bộ bản thiết kế màn hình cảm ứng đầu tiên trong sự bảo mật tuyệt đối của văn phòng cá nhân.",
+        "Hội đồng quản trị Apple đã sử dụng quyền phủ quyết pháp lý để ép buộc Jobs phải từ bỏ dòng máy tính truyền thống sang điện thoại di động.",
+        "Nguồn ngân sách vô hạn từ doanh thu máy nghe nhạc iPod đã cho phép các kỹ sư tự do thử nghiệm hàng trăm mẫu điện thoại khác nhau.",
+        "Các kỹ sư tài ba đã tiếp cận Jobs như những nhà khoa học, kiên trì đặt câu hỏi phản biện và thuyết phục ông tái tư duy giả định của mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Sức mạnh của Apple nằm ở một đội ngũ dám chất vấn sếp và khả năng tái tư duy của chính Steve Jobs khi ông chấp nhận thay đổi suy nghĩ trước những luận điểm sắc bén của cộng sự."
+      "correctIndex": 3,
+      "explanation": "Steve Jobs ban đầu kịch liệt phản đối làm điện thoại; nhóm kỹ sư của ông đã khéo léo thách thức định kiến của Jobs bằng tư duy khoa học để đưa ông vào chu trình tái tư duy."
     },
     {
       "id": "q5",
-      "question": "Nghiên cứu về 'Thiên kiến tôi không có thiên kiến' (I'm not biased bias) chỉ ra nghịch lý đáng kinh ngạc nào về những người thông minh?",
+      "question": "Nghiên cứu thực nghiệm tại Ý của các nhà kinh tế học về các công ty khởi nghiệp được đào tạo \"Tư duy như nhà khoa học\" cho thấy kết quả gì?",
       "options": [
-        "Chỉ số IQ không có bất kỳ mối tương quan nào với năng lực tư duy phản biện.",
-        "Người có chỉ số IQ càng cao và kỹ năng toán học càng giỏi thì càng dễ rơi vào cái bẫy tự tin rằng mình hoàn toàn khách quan, từ đó càng khó nhận ra những sai lệch trong tư duy của mình.",
-        "Người thông minh luôn nhận diện được tất cả các điểm mù nhận thức của bản thân ngay lập tức.",
-        "Những người kém thông minh luôn có xu hướng tự nhận mình là người có nhiều định kiến nhất."
+        "Nhóm đào tạo tư duy khoa học đạt doanh thu cao gấp hơn 40 lần và chuyển hướng mô hình kinh doanh nhanh gấp đôi nhóm đối chứng.",
+        "Nhóm đào tạo tư duy khoa học mất nhiều thời gian thử nghiệm trong phòng lab khiến sản phẩm bị chậm ra mắt thị trường hơn bình thường.",
+        "Không có sự khác biệt đáng kể nào về mặt tài chính giữa hai nhóm vì yếu tố quyết định thành bại phụ thuộc vào quy mô vốn đầu tư mạo hiểm.",
+        "Nhóm khởi nghiệp tư duy khoa học gặp khó khăn nghiêm trọng trong việc tiếp cận khách hàng do quá phụ thuộc vào các phân tích học thuật."
       ],
-      "correctIndex": 1,
-      "explanation": "Trí thông minh có thể trở thành vũ khí chống lại sự thật: Người thông minh rất giỏi ngụy biện và bẻ cong dữ liệu để bảo vệ cho những định kiến ưa thích của mình."
+      "correctIndex": 0,
+      "explanation": "Nghiên cứu của Camuffo và cộng sự chứng minh những nhà sáng lập tư duy như nhà khoa học coi giả định là giả thuyết, kiểm chứng nhanh và thích ứng vượt trội."
     },
     {
       "id": "q6",
-      "question": "Thí nghiệm về 'Đạo luật kiểm soát súng đạn' với các chuyên gia toán học giỏi đã chứng minh điều gì về 'Thiên kiến xác nhận'?",
+      "question": "Thí nghiệm của Dan Kahan về việc giải bài toán thống kê liên quan đến kiểm soát súng đạn phơi bày sự thật cay đắng nào?",
       "options": [
-        "Khi dữ liệu mâu thuẫn với hệ tư tưởng chính trị của họ, các tài năng toán học phân tích sai sót nghiêm trọng hơn nhiều so với khi giải các bài toán trung tính về da liễu.",
-        "Người giỏi toán luôn đưa ra kết quả phân tích số liệu chính xác 100% trong mọi chủ đề tranh luận.",
-        "Tất cả các nhà toán học đều có cùng một quan điểm chính trị giống hệt nhau.",
-        "Dữ liệu số học có khả năng tự động thay đổi quan điểm chính trị của con người mà không cần giải thích."
+        "Những người có kỹ năng toán học kém thường dễ dàng thay đổi quan điểm chính trị khi được tiếp cận với các số liệu thống kê chuẩn xác.",
+        "Những người giỏi toán nhất lại giải sai bài toán nhiều nhất khi dữ liệu mâu thuẫn với niềm tin ý thức hệ chính trị của bản thân họ.",
+        "Hầu hết mọi người đều hoàn toàn khách quan khi phân tích số liệu khoa học bất kể niềm tin chính trị cá nhân của mình thuộc đảng phái nào.",
+        "Khả năng tính toán số học hoàn toàn độc lập với các thiên kiến nhận thức và luôn dẫn dắt con người đến với kết luận logic đúng đắn."
       ],
-      "correctIndex": 0,
-      "explanation": "Hệ tư tưởng làm mù quáng logic; khi cảm xúc và niềm tin thiêng liêng bị đe dọa, năng lực toán học siêu việt bị biến thành công cụ bóp méo dữ liệu."
+      "correctIndex": 1,
+      "explanation": "Thí nghiệm Dan Kahan chứng minh người thông minh và giỏi toán thường dùng trí tuệ để hợp lý hóa và bảo vệ niềm tin ý thức hệ hơn là đi tìm sự thật."
     },
     {
       "id": "q7",
-      "question": "Vòng lặp tái tư duy (Rethinking Cycle) bắt đầu từ bước nền tảng nào và diễn tiến ra sao?",
+      "question": "Nghịch lý về bẫy \"Tôi không có thiên kiến\" (I'm not biased bias) chỉ ra đặc điểm tâm lý đáng ngạc nhiên nào của người thông minh?",
       "options": [
-        "Học thuộc sách giáo khoa -> Làm bài thi điểm cao -> Đi làm kiếm tiền -> Nghỉ hưu -> Kết thúc.",
-        "Nghi ngờ tất cả mọi thứ -> Rơi vào tuyệt vọng -> Từ bỏ mọi nỗ lực -> Cô lập bản thân -> Thất bại.",
-        "Sự tự tin tuyệt đối -> Rao giảng chân lý -> Kết tội người khác -> Buộc đối phương đầu hàng -> Thắng lợi.",
-        "Tính khiêm nhường (Biết mình chưa biết) -> Sự hoài nghi (Chất vấn niềm tin) -> Óc tò mò (Tìm kiếm thông tin mới) -> Khám phá mới (Cập nhật quan điểm) -> Càng khiêm nhường hơn."
+        "Người thông minh thường ít khi tham gia vào các cuộc tranh luận xã hội vì lo sợ sẽ làm tổn thương tình cảm của những người xung quanh.",
+        "Người có chỉ số IQ cao luôn chủ động thừa nhận sự thiếu sót trong suy nghĩ của mình trước khi người khác kịp thời đưa ra lời chỉ trích.",
+        "Người thông minh nhận diện rất nhanh lỗi sai của người khác nhưng lại mù quáng trước các thiên kiến nhận thức của chính mình.",
+        "Trí thông minh cao giúp triệt tiêu hoàn toàn các định kiến tiềm thức, giúp cá nhân luôn đưa ra các phán đoán công tâm và chuẩn xác nhất."
       ],
-      "correctIndex": 3,
-      "explanation": "Vòng lặp tái tư duy là một vòng xoắn ốc đi lên; sự khiêm nhường mở cánh cửa cho sự hoài nghi lành mạnh, thúc đẩy óc tò mò khám phá và liên tục làm mới tri thức."
+      "correctIndex": 2,
+      "explanation": "Càng thông minh, bạn càng dễ rơi vào bẫy điểm mù thiên kiến: bạn nhanh nhạy vạch ra lỗi của người khác nhưng lại dùng trí thông minh để bao biện cho chính mình."
     },
     {
       "id": "q8",
-      "question": "Ngược lại, 'Vòng lặp cố chấp' (Overconfidence Cycle) giam cầm con người trong cái bẫy nào?",
+      "question": "Vòng lặp cố chấp / tự tin thái quá (Overconfidence Cycle) giam cầm con người trong chuỗi phản ứng tâm lý tiêu cực nào?",
       "options": [
-        "Lắng nghe quá nhiều người -> Trở nên ba phải -> Bị người khác lợi dụng -> Kiệt quệ.",
-        "Sự sợ hãi -> Thiếu tự tin -> Không dám hành động -> Thất bại -> Tự ti.",
-        "Học quá nhiều sách -> Bị loạn kiến thức -> Mất phương hướng -> Không đưa ra được quyết định.",
-        "Niềm tự phụ -> Sự xác tín mù quáng -> Thiên kiến xác nhận/mong chờ -> Sự xác tín huyễn hoặc -> Trì trệ ngủ quên trên chiến thắng (Hội chứng mèo béo)."
+        "Bắt đầu từ sự hoài nghi sâu sắc -> dẫn đến nỗi sợ hãi bất định -> thúc đẩy hành vi tìm kiếm thông tin -> rơi vào trạng thái kiệt quệ tinh thần.",
+        "Khởi đầu từ sự tò mò vô tư -> mở rộng các mối quan hệ xã hội -> đối mặt với sự bất đồng gay gắt -> thu mình vào thế giới nội tâm khép kín.",
+        "Bắt nguồn từ sự tự ti năng lực -> chấp nhận thỏa hiệp với cấp trên -> đánh mất bản sắc cá nhân -> lệ thuộc hoàn toàn vào quyết định tập thể.",
+        "Khởi đầu từ niềm tự hào -> sinh ra xác tín mù quáng -> kích hoạt thiên kiến xác nhận và mong muốn -> kết thúc bằng sự củng cố định kiến cũ."
       ],
       "correctIndex": 3,
-      "explanation": "Tự phụ sinh ra xác tín hão huyền; khi chỉ tìm kiếm những bằng chứng củng cố niềm tin cũ và gạt bỏ sự thật, con người tự đẩy mình vào ngõ cụt của sự lỗi thời."
+      "explanation": "Chu trình tự tin thái quá vận hành: Tự hào (Pride) -> Xác tín (Conviction) -> Thiên kiến xác nhận/mong muốn -> Củng cố niềm tin (Validation), đóng chặt cửa tái tư duy."
     },
     {
       "id": "q9",
-      "question": "Khái niệm 'Hội chứng mèo béo' (Fat-Cat Syndrome) được đề cập trong việc Mike Lazaridis tán dương BlackBerry năm 2011 ám chỉ điều gì?",
+      "question": "Vòng lặp tái tư duy (Rethinking Cycle) bắt đầu từ thái độ nhận thức nền tảng nào và diễn tiến ra sao?",
       "options": [
-        "Một căn bệnh dị ứng lông động vật xuất hiện ở các nhà quản lý cấp cao.",
-        "Chính sách nuôi mèo cảnh trong khuôn viên các công ty công nghệ tại Thung lũng Silicon.",
-        "Tình trạng trì trệ, thỏa mãn và ngủ quên trên đỉnh vinh quang trong quá khứ, coi thường những đột phá công nghệ mới nổi của đối thủ.",
-        "Tình trạng béo phì của các nhân viên văn phòng do lười vận động thể chất."
+        "Bắt đầu từ sự Khiêm nhường nhận thức -> kích hoạt sự Hoài nghi -> dẫn tới lòng Tò mò khám phá -> mở ra những Phát hiện chân lý mới mẻ.",
+        "Bắt đầu từ sự Tự tin tuyệt đối vào bản lĩnh -> chủ động Tranh biện áp đảo đối thủ -> khẳng định Uy tín cá nhân -> duy trì vị thế dẫn đầu.",
+        "Bắt đầu từ việc Tích lũy tri thức hàn lâm -> áp dụng Triệt để quy trình chuẩn -> loại bỏ Hoàn toàn rủi ro -> đạt tới trạng thái hoàn hảo.",
+        "Bắt đầu từ sự Thỏa hiệp lập trường -> tiếp thu Ý kiến số đông -> điều chỉnh Hành vi bề ngoài -> xây dựng hình ảnh hòa nhã nơi công sở."
       ],
-      "correctIndex": 2,
-      "explanation": "'Mèo béo' sau khi no nê sẽ trở nên chậm chạp và mất đi bản năng săn mồi nhạy bén; các doanh nghiệp thống trị thị trường thường chết vì sự tự mãn này."
+      "correctIndex": 0,
+      "explanation": "Chu trình tái tư duy: Sự khiêm nhường trí tuệ (Humility) -> Sự hoài nghi (Doubt) -> Tính tò mò (Curiosity) -> Khám phá mới (Discovery) -> nuôi dưỡng khiêm nhường."
     },
     {
       "id": "q10",
-      "question": "Tại sao các tổng thống vĩ đại nhất trong lịch sử nước Mỹ (theo nghiên cứu của các nhà khoa học chính trị) lại có đặc điểm chung là 'Hiếu kỳ và cởi mở'?",
+      "question": "Khái niệm \"Hội chứng mèo béo\" (Fat-cat syndrome) gắn liền với Mike Lazaridis năm 2011 cảnh báo về cạm bẫy nào?",
       "options": [
-        "Họ xem các quyết định chính sách như những cuộc thử nghiệm khoa học cần liên tục theo dõi, lắng nghe ý kiến đa chiều và sẵn sàng đảo chiều chính sách khi tình thế thay đổi.",
-        "Họ hoàn toàn không có bất kỳ lập trường chính trị nhất quán nào trong suốt nhiệm kỳ.",
-        "Họ dành toàn bộ thời gian tại Nhà Trắng để đọc các tiểu thuyết khoa học viễn tưởng.",
-        "Họ luôn luôn nhượng bộ và làm theo tất cả các yêu cầu của phe đối lập trong quốc hội."
+        "Tình trạng doanh nghiệp chi tiêu lãng phí vào các tiện ích xa xỉ cho dàn lãnh đạo cao cấp khiến dòng tiền hoạt động bị thâm hụt nặng nề.",
+        "Sự tự mãn và ngủ quên trên chiến thắng của kẻ ở đỉnh cao quyền lực, từ chối lắng nghe các tín hiệu cảnh báo về sự thay đổi thời cuộc.",
+        "Xu hướng mở rộng quy mô bộ máy nhân sự quá cồng kềnh dẫn đến tình trạng trì trệ quan liêu và suy giảm năng suất lao động nghiêm trọng.",
+        "Thói quen nuông chiều các đối tác khách hàng truyền thống mà phớt lờ việc tìm kiếm phát triển tệp khách hàng tiềm năng thế hệ trẻ mới."
       ],
-      "correctIndex": 0,
-      "explanation": "Những nhà lãnh đạo kiệt xuất nhất không phải là những kẻ cứng đầu rao giảng giáo điều, mà là những nhà khoa học chính trị thực thụ luôn cầu thị chân lý khách quan."
+      "correctIndex": 1,
+      "explanation": "Lazaridis tự hào BlackBerry có hàng chục triệu người dùng, coi các đối thủ là trò chơi nhất thời; sự tự mãn của kẻ thắng cuộc đã dẫn tới sự diệt vong."
     },
     {
       "id": "q11",
-      "question": "Nghiên cứu về các doanh nhân khởi nghiệp tại Ý được đào tạo 'Tư duy như nhà khoa học' mang lại kết quả kinh doanh đột phá nào?",
+      "question": "Theo nghiên cứu của các nhà khoa học chính trị, phẩm chất chung nổi bật nhất ở các vị tổng thống vĩ đại của nước Mỹ là gì?",
       "options": [
-        "Họ chuyển toàn bộ hoạt động kinh doanh sang nghiên cứu công nghệ sinh học.",
-        "Họ từ chối mọi hoạt động tiếp thị quảng cáo vì cho rằng sản phẩm khoa học tự bán được.",
-        "Họ đạt doanh thu cao hơn gấp đôi, thu hút khách hàng nhanh hơn và linh hoạt chuyển hướng mô hình kinh doanh (pivot) sớm hơn khi thị trường phản hồi tiêu cực.",
-        "Họ đều nộp đơn phá sản trong vòng 3 tháng đầu tiên do thiếu vốn."
+        "Sự kiên định sắt đá và không bao giờ chịu lùi bước trước bất kỳ sức ép ngoại giao hay sự phản đối quyết liệt nào từ công chúng.",
+        "Kỹ năng diễn thuyết lôi cuốn lòng người kết hợp với khả năng vận động tranh cử bậc thầy trên các phương tiện truyền thông đại chúng.",
+        "Lòng hiếu kỳ và sự cởi mở trí tuệ: sẵn sàng lắng nghe các chuyên gia phản biện và linh hoạt điều chỉnh chính sách khi cần thiết.",
+        "Bản lĩnh quyết đoán độc lập tuyệt đối, không để cho các phân tích dữ liệu hay ý kiến của đội ngũ cố vấn làm lung lay mục tiêu ban đầu."
       ],
       "correctIndex": 2,
-      "explanation": "Khi xem mô hình kinh doanh là các giả thuyết cần thử nghiệm nhanh và rẻ, doanh nhân sẽ không bị gắn chặt cái tôi vào ý tưởng ban đầu và dễ dàng xoay trục thành công."
+      "explanation": "Nghiên cứu về các tổng thống Mỹ (như Lincoln, FDR, Washington) cho thấy mẫu số chung không phải sự cố chấp kiên định mà là lòng tò mò và sự cởi mở nhận thức."
     },
     {
       "id": "q12",
-      "question": "Bài học từ câu chuyện nhà tâm lý học Stephen Greenspan bị lừa mất 1/3 tài sản tiết kiệm vào mô hình lừa đảo Ponzi của Bernie Madoff là gì?",
+      "question": "Bài học từ việc Stephen Greenspan - tác giả cuốn \"Biên niên sử về sự nhẹ dạ\" - bị lừa mất tài sản hưu trí vào tay Bernie Madoff là gì?",
       "options": [
-        "Ngay cả chuyên gia nghiên cứu về tâm lý nhẹ dạ cả tin cũng có thể bị lừa khi họ tắt chế độ Nhà khoa học và rơi vào chế độ Nhà truyền giáo/Chính trị gia trong quyết định tài chính.",
-        "Các giáo sư tâm lý học là những người có thu nhập thấp nhất trong xã hội.",
-        "Mô hình Ponzi là một hình thức đầu tư tài chính siêu lợi nhuận hoàn toàn hợp pháp.",
-        "Không bao giờ được phép gửi tiền tiết kiệm vào bất kỳ ngân hàng hay quỹ đầu tư nào."
+        "Các chuyên gia tài chính Phố Wall sở hữu những thủ đoạn lừa đảo tinh vi đến mức không một cơ quan hành pháp nào có thể phát hiện kịp.",
+        "Sự phát triển của thị trường tài chính hiện đại đã khiến cho mọi cuốn sách nghiên cứu tâm lý học cổ điển trở nên hoàn toàn vô giá trị.",
+        "Mọi khoản đầu tư tài chính cá nhân cần phải được ủy thác hoàn toàn cho các ngân hàng trung ương quản lý để tránh rủi ro phá sản.",
+        "Kiến thức chuyên môn sâu rộng không bảo vệ bạn khỏi sự nhẹ dạ nếu bạn không áp dụng tư duy hoài nghi khoa học vào chính quyết định của mình."
       ],
-      "correctIndex": 0,
-      "explanation": "Greenspan đã để mong muốn được làm vừa lòng người bạn tư vấn (Chính trị gia) và sự xác tín của người thân (Truyền giáo) lấn át tư duy điều tra khoa học khách quan."
+      "correctIndex": 3,
+      "explanation": "Greenspan viết cuốn sách bách khoa về sự nhẹ dạ cả tin nhưng lại gửi tiền cho Madoff; điều đó chứng minh ai cũng có thể bị lừa nếu buông lỏng tái tư duy."
     },
     {
       "id": "q13",
-      "question": "Sự khác biệt trong phản ứng khi bị người khác chỉ ra sai sót giữa 'Chế độ Công tố viên' và 'Chế độ Nhà khoa học' là gì?",
+      "question": "Khi đối diện với lời phản biện chỉ ra sai sót, phản ứng khác biệt giữa chế độ Công tố viên và chế độ Nhà khoa học là gì?",
       "options": [
-        "Công tố viên lập tức nhận lỗi và từ chức ngay tại chỗ.",
-        "Công tố viên xem đó là một cuộc tấn công vào cái tôi và dồn lực phản bác lại; Nhà khoa học xem đó là một điểm dữ liệu mới quý giá giúp mình đến gần sự thật hơn.",
-        "Nhà khoa học luôn dùng vũ lực để giải quyết các tranh luận học thuật.",
-        "Cả hai chế độ đều có phản ứng hoàn toàn giống nhau không có sự khác biệt."
+        "Công tố viên quyết liệt vạch lỗi để bảo vệ lập luận của mình, còn Nhà khoa học tò mò tìm hiểu góc nhìn đối lập để tiến gần chân lý hơn.",
+        "Công tố viên lập tức nhượng bộ để tránh xung đột, còn Nhà khoa học sử dụng các thuật toán máy tính để kiểm chứng lại các tham số logic.",
+        "Công tố viên chuyển sang thuyết phục đám đông đứng về phía mình, còn Nhà khoa học lập tức từ bỏ đề tài nghiên cứu đang theo đuổi.",
+        "Công tố viên tìm kiếm sự can thiệp của pháp luật, còn Nhà khoa học viết đơn kiến nghị lên các tạp chí chuyên ngành để yêu cầu đính chính."
       ],
-      "correctIndex": 1,
-      "explanation": "Nhà khoa học không quan tâm ai đúng ai sai; mục tiêu duy nhất là tìm ra chân lý; vì vậy khi ai đó chỉ ra lỗi sai, họ chân thành cảm ơn vì đã giúp tiết kiệm thời gian mò mẫm."
+      "correctIndex": 0,
+      "explanation": "Công tố viên coi phản biện là cuộc chiến thắng - thua và tìm cách hạ gục đối phương; nhà khoa học xem phản biện là manh mối quý giá để hoàn thiện tri thức."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc 'Tư duy cởi mở chủ động' (Actively Open-Minded Thinking) lại đòi hỏi nhiều năng lượng hơn lối tư duy bảo thủ thông thường?",
+      "question": "Sự khác biệt căn bản giữa \"Thiên kiến xác nhận\" (Confirmation bias) và \"Thiên kiến mong muốn\" (Desirability bias) là gì?",
       "options": [
-        "Nó làm tăng nhiệt độ cơ thể lên mức gây sốt cao liên tục.",
-        "Nó đòi hỏi bạn phải đồng ý với mọi ý kiến trái chiều mà không cần suy xét.",
-        "Nó bắt buộc con người phải học thuộc toàn bộ các từ điển bách khoa toàn thư.",
-        "Nó đòi hỏi chúng ta phải chủ động tìm kiếm các lý do vì sao mình CÓ THỂ SAI, thay vì chỉ thỏa mãn với những bằng chứng chứng minh mình ĐÚNG."
+        "Thiên kiến xác nhận xuất hiện ở người có trình độ học vấn thấp, còn thiên kiến mong muốn chỉ xảy ra ở giới tinh hoa chính trị xã hội.",
+        "Thiên kiến xác nhận là chỉ chú ý điều phù hợp với niềm tin sẵn có; thiên kiến mong muốn là chỉ tin vào điều bản thân mong muốn xảy ra.",
+        "Thiên kiến xác nhận liên quan đến cảm xúc yêu ghét cá nhân, còn thiên kiến mong muốn thuần túy xuất phát từ sự tính toán lợi ích kinh tế.",
+        "Thiên kiến xác nhận giúp củng cố tinh thần lạc quan, còn thiên kiến mong muốn lại đẩy cá nhân vào tâm lý bi quan lo âu thái quá."
       ],
-      "correctIndex": 3,
-      "explanation": "Tìm kiếm bằng chứng phản chứng là hành vi đi ngược lại xu hướng tự nhiên của não bộ (vốn ưa chuộng sự xác nhận quen thuộc); nó đòi hỏi kỷ luật ý chí và sự dũng cảm cao độ."
+      "correctIndex": 1,
+      "explanation": "Confirmation bias: thấy những gì củng cố niềm tin hiện có (seeing what leads us to believe); Desirability bias: thấy những gì mình muốn nó thành sự thật (seeing what we want to believe)."
     },
     {
       "id": "q15",
-      "question": "Kết luận đắt giá nhất của Chương 1 về việc làm chủ nhận thức là gì?",
+      "question": "Kết luận sâu sắc nhất của Chương 1 về việc làm chủ nhận thức cá nhân trong cuộc sống là gì?",
       "options": [
-        "'Trí thông minh là tài sản vĩnh viễn bảo đảm cho bạn sự thành công mà không cần học thêm'.",
-        "'Mục đích của việc học tập không phải là để khẳng định niềm tin cũ của bản thân, mà cốt để niềm tin của chúng ta liên tục được tiến hóa và triển nở theo sự thật'.",
-        "'Hãy luôn tìm cách chứng minh mình đúng trong mọi cuộc tranh luận nơi công sở'.",
-        "'Hãy luôn bám chặt vào linh cảm đầu tiên vì trực giác không bao giờ đánh lừa bạn'."
+        "Cần phải rèn luyện sự kiên định tuyệt đối với mọi niềm tin ban đầu để xây dựng một bản sắc cá nhân vững vàng và đáng tin cậy trong xã hội.",
+        "Hãy học cách trở thành một chính trị gia khôn khéo để dễ dàng hòa nhập và tranh thủ sự ủng hộ của các nhóm quyền lực nơi làm việc.",
+        "Đừng để các ý kiến biến thành niềm tin tôn giáo bất khả xâm phạm; hãy coi mọi suy nghĩ là giả thuyết và luôn giữ tinh thần khoa học.",
+        "Thành công trong sự nghiệp đòi hỏi bạn phải biến bản thân thành một công tố viên không khoan nhượng trước các sai sót của đồng nghiệp."
       ],
-      "correctIndex": 1,
-      "explanation": "Hãy trút bỏ tấm áo giáp của nhà truyền giáo, công tố viên và chính trị gia để khoác lên mình chiếc kính lúp của nhà khoa học: tò mò, khiêm nhường và luôn khao khát học hỏi."
+      "correctIndex": 2,
+      "explanation": "Grant khuyên: Đừng để ý tưởng biến thành căn tính tôn giáo; hãy đón nhận sự khiêm nhường, luôn kiểm chứng giả định và tư duy như một nhà khoa học."
     }
   ]
 }

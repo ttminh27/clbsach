@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Khái niệm 'Tâm lý an toàn' (Psychological Safety) do giáo sư Amy Edmondson (Harvard) nghiên cứu có vai trò sống còn như thế nào đối với một tổ chức?",
+      "question": "Khái niệm 'an toàn tâm lý' (Psychological Safety) do giáo sư Amy Edmondson nghiên cứu được định nghĩa chính xác là gì?",
       "options": [
-        "Một môi trường làm việc thoải mái nơi nhân viên không cần phải hoàn thành bất kỳ chỉ tiêu nào.",
-        "Hệ thống camera an ninh và lực lượng bảo vệ túc trực 24/7 tại trụ sở làm việc.",
-        "Một chính sách bảo hiểm y tế toàn diện chi trả 100% viện phí cho nhân viên công ty.",
-        "Một môi trường văn hóa nơi nhân viên cảm thấy hoàn toàn an tâm lên tiếng nói ra sự thật, chỉ ra lỗi sai của sếp, đề xuất ý tưởng mới mà không sợ bị trừng phạt, trả thù hay làm bẽ mặt."
+        "Bầu không khí tôn trọng, tin cậy để mọi người tự do nêu băn khoăn hay chỉ ra sai sót mà không sợ bị trả đũa hay làm bẽ mặt.",
+        "Môi trường làm việc thư giãn, dễ chịu, nơi các nhà quản lý luôn nói lời hòa nhã và né tránh mọi cuộc tranh luận bất đồng ý kiến.",
+        "Chính sách bảo hiểm việc làm trọn đời nhằm giúp nhân viên loại bỏ hoàn toàn các áp lực về chỉ tiêu doanh số và đánh giá KPI.",
+        "Cơ chế khen thưởng vật chất dồi dào nhằm khích lệ tinh thần lạc quan và sự hài lòng tuyệt đối của nhân viên tại nơi làm việc."
       ],
-      "correctIndex": 3,
-      "explanation": "Tâm lý an toàn không phải là sự nuông chiều dễ dãi; đó là nền tảng để sự thật được lưu thông thông suốt, giúp tổ chức phát hiện và ngăn chặn các thảm họa từ trong trứng nước."
+      "correctIndex": 0,
+      "explanation": "Amy Edmondson chỉ ra rằng an toàn tâm lý không phải là sự dễ dãi hay tạo môi trường êm ấm, mà là việc tạo ra niềm tin để nhân viên dám lên tiếng, mạo hiểm và học hỏi."
     },
     {
       "id": "q2",
-      "question": "Thảm họa nổ tàu con thoi Columbia năm 2003 của NASA được phân tích trong Chương 10 bắt nguồn từ lỗ hổng văn hóa nguy hiểm nào?",
+      "question": "Sai lầm nhận thức cốt lõi dẫn đến sự cố suýt làm phi hành gia Luca Parmitano ngạt thở ngoài không gian năm 2013 là gì?",
       "options": [
-        "Sự thiếu vắng tâm lý an toàn: Các kỹ sư cấp dưới đã phát hiện nguy cơ miếng xốp cách nhiệt va vào cánh tàu nhưng bị ban lãnh đạo dập tắt tiếng nói phản biện vì văn hóa 'quá tự tin và bám chặt vào quy trình cũ'.",
-        "Hệ thống máy tính của NASA bị nhiễm virus độc hại từ mạng internet.",
-        "Sự cố thời tiết bão mặt trời bất ngờ xảy ra ngoài tầm kiểm soát của các nhà khoa học.",
-        "Một cuộc tấn công tên lửa bí mật từ một quốc gia thù địch ngoài không gian."
+        "Phi hành gia đã che giấu dấu hiệu trục trặc vì lo sợ trung tâm điều khiển sẽ lập tức hủy bỏ chuyến bay và xử phạt bản thân.",
+        "Mọi người vội vàng chấp nhận giả định nước rò từ túi nước mà không ai chịu đặt câu hỏi đào sâu tìm hiểu nguyên nhân gốc.",
+        "Trung tâm điều khiển mặt đất bị mất liên lạc vô tuyến do ảnh hưởng bất ngờ từ cơn bão từ trường cực mạnh ngoài không gian.",
+        "Các kỹ sư mặt đất đã cắt giảm bớt các bước kiểm tra an toàn áp suất định kỳ nhằm đẩy nhanh tiến độ của sứ mệnh ngoài vũ trụ."
       ],
-      "correctIndex": 0,
-      "explanation": "NASA không thiếu những bộ óc thiên tài, nhưng họ thiếu một môi trường văn hóa cho phép cấp dưới chất vấn cấp trên; sự im lặng vì sợ hãi đã phải trả giá bằng sinh mạng của 7 phi hành gia."
+      "correctIndex": 1,
+      "explanation": "Trong chuyến đi bộ tuần trước đó, Luca thấy vài giọt nước và mọi người đều mặc định cho rằng đó là do túi nước uống bị rò rỉ mà không ai truy vấn bằng chứng, khiến thảm họa suýt xảy ra ở chuyến đi tiếp theo."
     },
     {
       "id": "q3",
-      "question": "Câu nói độc hại nhất trong bất kỳ doanh nghiệp nào: 'ĐÂY LÀ CÁCH CHÚNG TA VẪN LÀM TỪ TRƯỚC ĐẾN GIỜ' (That's the way we've always done it) biểu thị căn bệnh gì?",
+      "question": "Các thảm kịch tàu con thoi Challenger (1986) và Columbia (2003) tại NASA đã phơi bày lỗ hổng văn hóa tổ chức nguy hiểm nào?",
       "options": [
-        "Sự lười biếng tư duy và chứng xơ cứng tổ chức: Biến thói quen cũ thành giáo điều bất khả xâm phạm, từ chối mọi sự đổi mới và tự đẩy mình vào con đường diệt vong.",
-        "Sự tự hào chính đáng về truyền thống lịch sử lâu đời của một thương hiệu quốc tế.",
-        "Một khẩu hiệu tiếp thị hiệu quả nhằm thu hút những khách hàng cao tuổi.",
-        "Một nguyên tắc quản trị chất lượng bắt buộc theo tiêu chuẩn ISO 9001."
+        "Sự thiếu hụt trầm trọng nguồn ngân sách nghiên cứu khiến các nhà khoa học buộc phải sử dụng các linh kiện cơ khí đã quá hạn.",
+        "Quá phụ thuộc vào các thuật toán máy tính mô phỏng tự động mà bỏ qua năng lực đánh giá thực tế của các phi hành gia kỳ cựu.",
+        "Văn hóa xem trọng hiệu quả khiến các cảnh báo bị phớt lờ, lấy thành công quá khứ để hợp thức hóa những quy trình đầy rủi ro.",
+        "Sự bất đồng gay gắt giữa ban giám đốc điều hành và các nhà khoa học vật lý khiến các quyết định kỹ thuật luôn bị đình trệ."
       ],
-      "correctIndex": 0,
-      "explanation": "Thế giới liên tục vận động; những phương pháp mang lại thành công cho bạn trong quá khứ chính là những chiếc bẫy chết người sẽ giết chết bạn trong tương lai nếu không chịu tái tư duy."
+      "correctIndex": 2,
+      "explanation": "Tại NASA, văn hóa xem trọng hiệu quả đã dẫn đến bẫy tự tin thái quá: vì các chuyến bay trước mảng xốp hay vòng chữ O có trục trặc nhỏ mà tàu vẫn về an toàn, họ cho rằng rủi ro đó là chấp nhận được."
     },
     {
       "id": "q4",
-      "question": "Mối quan hệ giữa 'Tâm lý an toàn' (Psychological Safety) và 'Tiêu chuẩn trách nhiệm cao' (High Accountability) tạo nên môi trường nào?",
+      "question": "Nghiên cứu ban đầu của Amy Edmondson về sai sót y khoa tại các bệnh viện đã dẫn đến phát hiện bất ngờ và sâu sắc nào?",
       "options": [
-        "'Vùng lo âu sợ hãi' (Anxiety Zone): Nơi áp lực đè nặng nhưng không ai dám nói ra sự thật.",
-        "'Vùng học tập và đổi mới' (Learning Zone): Nơi nhân viên dám thử nghiệm những điều mới, dám chịu trách nhiệm cao về kết quả và liên tục cùng nhau cải tiến quy trình.",
-        "'Vùng thờ ơ' (Apathy Zone): Nơi không ai quan tâm đến bất kỳ điều gì diễn ra trong công ty.",
-        "'Vùng an nhàn thoải mái' (Comfort Zone): Nơi mọi người vui vẻ nhưng không tạo ra bất kỳ đột phá nào."
+        "Các bệnh viện có trang thiết bị máy móc hiện đại nhất lại là nơi xảy ra nhiều trường hợp biến chứng nguy hiểm do lỗi sơ suất nhất.",
+        "Những bác sĩ có học hàm giáo sư thường che giấu sai sót nhiều hơn so với các y tá và sinh viên thực tập mới vào nghề.",
+        "Cảm giác an toàn tâm lý cao luôn khiến nhân viên y tế chủ quan và gây ra tỷ lệ biến chứng thực tế cao hơn bình thường.",
+        "Nhóm có an toàn tâm lý cao thực tế ít gây sai sót hơn, nhưng họ báo cáo nhiều hơn vì không sợ bị khiển trách hay trừng phạt."
       ],
-      "correctIndex": 1,
-      "explanation": "Tâm lý an toàn không làm giảm trách nhiệm; ngược lại, khi kết hợp với tiêu chuẩn cao, nó tạo ra mảnh đất màu mỡ nhất cho sự xuất chúng và lòng dũng cảm đổi mới."
+      "correctIndex": 3,
+      "explanation": "Ban đầu các nhóm an toàn tâm lý có số vụ sai sót tự báo cáo cao hơn; nhưng người quan sát độc lập phát hiện họ thực tế ít phạm lỗi hơn vì việc cởi mở báo cáo giúp họ tìm ra nguyên nhân và khắc phục tận gốc."
     },
     {
       "id": "q5",
-      "question": "Bệnh viện áp dụng văn hóa 'Thực hành học tập từ sai sót y khoa' (Blameless Post-Mortems) đạt được kết quả phi thường nào?",
+      "question": "Để kích hoạt văn hóa học hỏi và chất vấn các giả định tại NASA, phi hành gia kiêm nhà lãnh đạo Ellen Ochoa đã làm gì?",
       "options": [
-        "Số lượng báo cáo sai sót tăng lên (vì y bác sĩ không còn sợ bị phạt), nhưng TỶ LỆ TỬ VONG THỰC TẾ CỦA BỆNH NHÂN LẠI GIẢM MẠNH vì các lỗ hổng hệ thống được khắc phục ngay lập tức.",
-        "Chi phí mua sắm trang thiết bị y tế tăng vọt lên gấp 10 lần.",
-        "Tất cả các bác sĩ đều bị tước chứng chỉ hành nghề y khoa quốc tế.",
-        "Bệnh viện phải đóng cửa vĩnh viễn do bị bệnh nhân kiện tụng quá nhiều."
+        "Luôn mang theo các mẩu ghi chú chứa những câu hỏi cốt lõi như 'Làm sao bạn biết điều đó?' và 'Hậu quả sẽ là gì nếu giả định sai?'.",
+        "Yêu cầu cách chức ngay lập tức những nhà quản lý đã phê duyệt các chuyến bay có trục trặc kỹ thuật trong quá khứ của đơn vị.",
+        "Tự mình kiểm tra chi tiết từng linh kiện cơ khí trên tàu con thoi thay vì tin tưởng vào báo cáo nghiệm thu của các cấp phó.",
+        "Tổ chức các khóa huấn luyện bắt buộc về kỹ năng hùng biện và tranh cãi để nhân viên cấp dưới tự tin hơn khi đối đầu với sếp."
       ],
       "correctIndex": 0,
-      "explanation": "Nơi nào sai sót bị giấu giếm, nơi đó tai họa sẽ lặp lại; nơi nào sai sót được công khai mổ xẻ không phán xét, nơi đó trí tuệ tập thể sẽ được nâng cấp để bảo vệ sinh mạng con người."
+      "explanation": "Ellen Ochoa chuẩn bị sẵn các câu hỏi cốt lõi để chất vấn các tiền đề và giả định, giúp mọi người nhìn nhận lại những điểm không chắc chắn mà không cảm thấy bị công kích cá nhân."
     },
     {
       "id": "q6",
-      "question": "Tại sao việc các nhà lãnh đạo 'Công khai chia sẻ về những sai lầm và quyết định thất bại của chính mình' lại có sức mạnh giải phóng đội ngũ?",
+      "question": "Nghiên cứu của Adam Grant và Constantinos Coutifaris tại các doanh nghiệp chỉ ra cách hiệu quả nhất để lãnh đạo tạo dựng an toàn tâm lý là gì?",
       "options": [
-        "Đây là một chiêu trò PR nhằm mục đích trốn tránh việc phải trả tiền thưởng cuối năm.",
-        "Nó bình thường hóa sự không hoàn hảo, xóa bỏ nỗi sợ hãi và làm gương cho nhân viên thấy rằng việc thừa nhận lỗi sai là một hành vi dũng cảm được tôn vinh trong tổ chức.",
-        "Nó làm giảm giá trị thương hiệu của công ty trên thị trường tuyển dụng nhân sự.",
-        "Nó chứng minh rằng ban giám đốc hoàn toàn bất lực và cần phải bị thay thế ngay."
+        "Chủ động đến từng phòng ban yêu cầu nhân viên chỉ ra những điểm yếu kém trong phong cách điều hành của mình vào mỗi tuần.",
+        "Chia sẻ cởi mở về những sai lầm bản thân từng mắc phải trong quá khứ và công khai những mục tiêu phát triển đang cần hoàn thiện.",
+        "Tổ chức các buổi liên hoan ăn mừng hoành tráng sau mỗi quý để xóa nhòa khoảng cách cấp bậc giữa lãnh đạo và các nhân viên.",
+        "Thuê các chuyên gia tư vấn tâm lý độc lập từ bên ngoài về trò chuyện riêng tư định kỳ với từng thành viên trong công ty."
       ],
       "correctIndex": 1,
-      "explanation": "Sự yếu đuối chân thật của người lãnh đạo (Vulnerability) là nguồn gốc của niềm tin vững chắc nhất; khi sếp dám nhận sai, nhân viên sẽ không còn phải diễn kịch hoàn hảo giả tạo."
+      "explanation": "Hành động người lãnh đạo chia sẻ về bài học từ những lời phê bình trong quá khứ và các khía cạnh bản thân đang nỗ lực cải thiện đã bình thường hóa sự không hoàn hảo và tạo dựng sự an toàn tâm lý bền vững suốt một năm."
     },
     {
       "id": "q7",
-      "question": "Quy tắc 'Quyền lực của sự phủ quyết mang tính xây dựng' (Constructive Dissent) trong các công ty đổi mới sáng tạo được thực thi như thế nào?",
+      "question": "Theo phân tích trong cuốn sách, nguy cơ tiềm ẩn lớn nhất của việc tôn sùng khái niệm 'các phương pháp tối ưu' (best practices) là gì?",
       "options": [
-        "Tất cả các dự án mới đều phải bị hủy bỏ nếu có ít nhất 1 phiếu chống.",
-        "Bất kỳ nhân viên nào ở bất kỳ cấp bậc nào cũng có quyền bấm nút dừng dây chuyền sản xuất hoặc chất vấn dự án nếu phát hiện ra rủi ro nghiêm trọng về an toàn hoặc chất lượng.",
-        "Nhân viên phải nộp phạt tiền mặt nếu ý kiến phản biện của mình không được thông qua.",
-        "Chỉ có chủ tịch hội đồng quản trị mới có quyền đưa ra ý kiến phản đối các quyết định."
+        "Làm tăng đáng kể chi phí đào tạo nhân sự mới do các tài liệu hướng dẫn quy trình vận hành trở nên quá dày và phức tạp.",
+        "Dễ khiến các đối thủ cạnh tranh trên thị trường nhanh chóng sao chép toàn bộ mô hình kinh doanh độc quyền của tổ chức.",
+        "Hàm ý rằng giải pháp đã đạt đến độ hoàn hảo, khiến tổ chức đóng băng tư duy và ngừng tìm kiếm những cách làm tốt hơn nữa.",
+        "Khiến nhân viên có thói quen ỷ lại vào sách vở hướng dẫn thay vì tự giác hoàn thành các công việc đột xuất được giao."
       ],
-      "correctIndex": 1,
-      "explanation": "Như triết lý 'Dây giật Andon' của Toyota: Trao quyền cho người công nhân nhỏ nhất dừng cả nhà máy để sửa lỗi là bí quyết tạo nên chất lượng sản phẩm huyền thoại."
+      "correctIndex": 2,
+      "explanation": "Khái niệm 'phương pháp tối ưu' ngụ ý tiến trình học hỏi đã chạm đích. Một khi quy trình bị đóng băng, mọi người ngừng đặt câu hỏi và bỏ qua cơ hội tìm kiếm những phương thức ưu việt hơn."
     },
     {
       "id": "q8",
-      "question": "Hiện tượng 'Sự im lặng của tổ chức' (Organizational Silence) gây ra hậu quả tàn khốc nào cho doanh nghiệp?",
+      "question": "Theo mô hình ma trận của Amy Edmondson, sự kết hợp giữa 'an toàn tâm lý cao' và 'trách nhiệm cao' sẽ tạo ra môi trường nào?",
       "options": [
-        "Các vấn đề mục ruỗng âm thầm tích tụ bên dưới lớp vỏ bọc bình yên giả tạo cho đến một ngày phát nổ thành những cuộc khủng hoảng tài chính hoặc pháp lý không thể cứu vãn.",
-        "Giúp công ty duy trì được sự hòa thuận và gắn kết tuyệt đối giữa các phòng ban.",
-        "Làm giảm chi phí hóa đơn tiền điện thoại liên lạc nội bộ của công ty.",
-        "Đây là dấu hiệu của một tổ chức làm việc vô cùng chuyên nghiệp và hiệu quả."
+        "'Vùng an phận' (Comfort Zone): Mọi người đối xử tử tế với nhau nhưng không có động lực tạo ra bất kỳ bước tiến bộ đột phá nào.",
+        "'Vùng lo âu' (Anxiety Zone): Áp lực hoàn thành công việc đè nặng nhưng không một ai dám lên tiếng cảnh báo về các rủi ro hệ thống.",
+        "'Vùng thờ ơ' (Apathy Zone): Nhân viên làm việc chiếu lệ để lấy lương mà hoàn toàn không quan tâm đến sự phát triển của tập thể.",
+        "'Vùng học tập' (Learning Zone): Nơi mọi người cảm thấy tự do thử nghiệm, sẵn sàng thừa nhận sai sót để cùng nhau tiến bộ."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự im lặng không phải là đồng thuận; sự im lặng là tiếng chuông báo tử của một nền văn hóa nơi nhân viên đã hoàn toàn mất niềm tin và từ bỏ việc đóng góp ý kiến."
+      "correctIndex": 3,
+      "explanation": "Khi có cả an toàn tâm lý lẫn trách nhiệm cao, tổ chức bước vào 'Vùng học tập' (Learning Zone), nơi mọi người dũng cảm dấn thân vào các thử nghiệm mới và học hỏi sâu sắc từ những vấp váp."
     },
     {
       "id": "q9",
-      "question": "Làm thế nào để phân biệt giữa 'Một cuộc thử nghiệm thất bại có giá trị' (Intelligent Failure) và 'Một sai lầm do cẩu thả lười biếng'?",
+      "question": "Sự khác biệt then chốt giữa 'chịu trách nhiệm về quy trình' (Process Accountability) và 'chịu trách nhiệm về kết quả' là gì?",
       "options": [
-        "Mọi thất bại đều hoàn toàn giống nhau và đều phải chịu mức kỷ luật như nhau.",
-        "Thất bại có giá trị là những thất bại không làm mất bất kỳ một đồng tiền vốn nào.",
-        "Thất bại có giá trị diễn ra khi bạn thử nghiệm một ý tưởng mới trong phạm vi kiểm soát có chuẩn bị kỹ lưỡng và mang lại dữ liệu học tập đột phá; trong khi cẩu thả là việc lặp lại lỗi cũ do vô trách nhiệm.",
-        "Sai lầm do cẩu thả luôn được ban giám đốc khen thưởng và khuyến khích tái diễn."
+        "Đánh giá mức độ cẩn trọng khi cân nhắc các phương án trước khi ra quyết định, thay vì chỉ căn cứ vào kết quả thành hay bại.",
+        "Đòi hỏi nhân viên phải hoàn thành tất cả các báo cáo hành chính đúng giờ bất kể hiệu quả thực tế của công việc đạt mức nào.",
+        "Trao toàn quyền tự quyết cho cấp dưới mà ban lãnh đạo không cần phải giám sát hay can thiệp vào tiến độ triển khai dự án.",
+        "Tập trung khen thưởng những người đem lại doanh số bán hàng cao nhất bất chấp họ sử dụng phương pháp đúng hay sai luật."
       ],
-      "correctIndex": 2,
-      "explanation": "Tổ chức xuất sắc tôn vinh những 'thất bại thông minh' vì đó là học phí của sự đổi mới; đồng thời kiên quyết loại trừ sự cẩu thả và vô kỷ luật."
+      "correctIndex": 0,
+      "explanation": "Chịu trách nhiệm về quy trình đánh giá tính thấu đáo trong việc thu thập thông tin, phản biện và cân nhắc rủi ro trước khi quyết định, giúp tránh được bẫy 'ăn may' từ những quy trình tồi."
     },
     {
       "id": "q10",
-      "question": "Chiến lược 'Định kỳ tổ chức ngày Tái tư duy quy trình' (Rethinking Day) trong doanh nghiệp có mục đích gì?",
+      "question": "Theo 'Bảng điểm tái tư duy' (Rethinking Scorecard) được giới thiệu trong sách, một quyết định có quy trình tồi nhưng mang lại kết quả tốt được xếp vào loại gì?",
       "options": [
-        "Cho phép nhân viên nghỉ làm ở nhà để dọn dẹp nhà cửa cá nhân.",
-        "Tổ chức ngày hội thể thao kéo co và nhảy bao bố cho nhân viên toàn công ty.",
-        "Một ngày lễ kỷ niệm truyền thống không có bất kỳ hoạt động thảo luận công việc nào.",
-        "Toàn bộ công ty cùng nhau rà soát lại tất cả các quy trình, biểu mẫu, cuộc họp định kỳ và dũng cảm xóa bỏ những thủ tục rườm rà, lỗi thời không còn tạo ra giá trị."
+        "Một bước đột phá ngoạn mục chứng minh sự sáng suốt vượt bậc của ban lãnh đạo trong bối cảnh thị trường nhiều biến động.",
+        "Sự may mắn ngẫu nhiên (dumb luck), tiềm ẩn hiểm họa lớn vì dễ ru ngủ tổ chức tiếp tục lặp lại những phương pháp liều lĩnh.",
+        "Một thử nghiệm thông minh cần được nhân rộng thành quy trình chuẩn áp dụng cho tất cả các phòng ban trong toàn doanh nghiệp.",
+        "Một thành công bền vững khẳng định năng lực quản trị rủi ro xuất sắc của đội ngũ kỹ sư trước những khó khăn chưa từng thấy."
       ],
-      "correctIndex": 3,
-      "explanation": "Quy trình giống như rêu bám trên đáy tàu; nếu không định kỳ cạo rác và tái tư duy, con tàu doanh nghiệp sẽ ngày càng trở nên nặng nề và chậm chạp."
+      "correctIndex": 1,
+      "explanation": "Nếu quy trình đưa ra quyết định hời hợt nhưng kết quả lại tốt, đó chỉ là may mắn (dumb luck). Khen ngợi kết quả này sẽ vô cùng nguy hiểm vì cổ súy tổ chức bám lấy những chiến lược tồi."
     },
     {
       "id": "q11",
-      "question": "Tại sao việc 'Tách biệt giữa Đánh giá năng lực sáng tạo và Đánh giá kết quả ngắn hạn' lại thúc đẩy nhân viên dám nghĩ lớn?",
+      "question": "Nghiên cứu về các khoản vay nợ xấu tại hệ thống ngân hàng bang California đã đưa ra bài học quản trị sâu sắc nào?",
       "options": [
-        "Đây là một quy định bắt buộc của bộ luật lao động quốc tế.",
-        "Vì kết quả ngắn hạn hoàn toàn không có ý nghĩa gì đối với sự tồn tại của doanh nghiệp.",
-        "Để nhân viên có thể thoải mái lười biếng mà vẫn nhận đủ tiền lương hàng tháng.",
-        "Nếu chỉ đánh giá dựa trên kết quả ngắn hạn, nhân viên sẽ chỉ chọn những dự án an toàn tầm thường; khi đánh giá dựa trên tư duy đột phá, họ sẽ dám dấn thân vào những sứ mệnh vĩ đại."
+        "Cần tuyệt đối cấm việc cho vay đối với những khách hàng từng có lịch sử trả nợ chậm trễ dù chỉ một lần trong quá khứ.",
+        "Các nhà quản lý tín dụng luôn có khả năng dự đoán chính xác khả năng vỡ nợ của khách hàng dựa trên linh cảm nghề nghiệp.",
+        "Tách bạch người duyệt vay ban đầu với người đánh giá nợ sau này giúp loại bỏ thôi thúc biện bạch và dễ dàng xóa nợ xấu.",
+        "Nên tự động gia hạn tất cả các khoản vay cũ để hỗ trợ doanh nghiệp vượt qua giai đoạn khủng hoảng suy thoái kinh tế chung."
       ],
-      "correctIndex": 3,
-      "explanation": "Muốn hái được quả ngọt đột phá, bạn phải chấp nhận rủi ro thất bại trên đường đi; người lãnh đạo thông thái bảo vệ những kẻ dám mạo hiểm vì sự đổi mới của tổ chức."
+      "correctIndex": 2,
+      "explanation": "Người đã phê duyệt khoản vay ban đầu thường có xu hướng leo thang cam kết để bảo vệ quyết định của mình. Khi giao cho nhân sự mới đánh giá, họ sẽ khách quan nhận diện và cắt bỏ các khoản nợ khó đòi."
     },
     {
       "id": "q12",
-      "question": "Bài học từ việc hãng hàng không vũ trụ SpaceX liên tục thử nghiệm nổ tên lửa nguyên mẫu ban đầu là gì?",
+      "question": "Tại Amazon, quy định đọc bản báo cáo 6 trang trong im lặng và nguyên tắc 'bất đồng nhưng vẫn cam kết' (disagree and commit) nhằm mục đích gì?",
       "options": [
-        "Họ coi mỗi vụ nổ là một bài kiểm tra giới hạn chịu đựng (Fail Fast, Learn Faster), trích xuất hàng triệu gigabyte dữ liệu để cải tiến và tái tư duy thiết kế với tốc độ vượt bậc so với các đối thủ.",
-        "SpaceX là một công ty kỹ thuật yếu kém không có khả năng chế tạo tên lửa an toàn.",
-        "NASA đã chấm dứt toàn bộ hợp đồng hợp tác với SpaceX vì các sự cố nổ tên lửa.",
-        "Các vụ nổ tên lửa chỉ nhằm mục đích tạo hiệu ứng truyền thông giật gân trên mạng xã hội."
+        "Cắt giảm tối đa thời lượng các cuộc họp để nhân viên có thêm thời gian trả lời email và xử lý các đơn hàng của khách.",
+        "Kiểm tra năng lực đọc hiểu và viết văn nghị luận của các ứng viên trước khi xem xét bổ nhiệm vào vị trí giám đốc điều hành.",
+        "Ngăn chặn hoàn toàn các ý kiến phản biện trái chiều nhằm duy trì sự thống nhất tuyệt đối trong đội ngũ quản lý cấp cao.",
+        "Loại bỏ các bài thuyết trình hào nhoáng, tránh tư duy tập thể và thúc đẩy việc thử nghiệm các ý tưởng mới dù còn bất đồng."
       ],
-      "correctIndex": 0,
-      "explanation": "Tốc độ tái tư duy quyết định tốc độ đổi mới; người dám thử nghiệm và học hỏi nhanh nhất từ những thất bại có kiểm soát sẽ là người thống trị tương lai."
+      "correctIndex": 3,
+      "explanation": "Báo cáo 6 trang thúc đẩy tư duy sâu sắc, đọc im lặng giúp tránh bị ảnh hưởng bởi tâm lý bầy đàn, và 'bất đồng nhưng vẫn cam kết' giúp công ty dám đánh cược thử nghiệm mà không đòi hỏi chứng minh tuyệt đối."
     },
     {
       "id": "q13",
-      "question": "Làm thế nào một nhân viên cấp dưới có thể 'Góp ý phản biện cho sếp' một cách khéo léo mà không làm sếp phật lòng?",
+      "question": "Bước chuyển biến quan trọng nhất trong văn hóa an toàn phóng tàu của NASA sau khi Ellen Ochoa bỏ phiếu chống năm 2007 là gì?",
       "options": [
-        "Công khai đăng bài chỉ trích sếp trên các diễn đàn mạng xã hội ẩn danh.",
-        "Đặt câu hỏi gợi mở, trình bày dưới góc độ 'một góc nhìn bổ sung dựa trên dữ liệu mới' và khẳng định mục tiêu chung là bảo đảm thành công cao nhất cho dự án của sếp.",
-        "Tuyệt đối im lặng và làm theo mệnh lệnh sai lầm của sếp để sếp tự chịu hậu quả.",
-        "Gửi đơn khiếu nại nặc danh lên hội đồng quản trị công ty."
+        "Chuyển từ việc bắt người phản đối chứng minh chuyến bay mất an toàn sang việc buộc cả đội chứng minh nó đủ an toàn.",
+        "Bãi bỏ hoàn toàn quyền bỏ phiếu của các kỹ sư cấp dưới để tập trung quyền quyết định tối hậu vào giám đốc trung tâm không gian.",
+        "Chỉ cho phép tiến hành phóng tàu vào những ngày có thời tiết nắng ấm tuyệt đối nhằm triệt tiêu nguy cơ hỏng hóc thiết bị đo.",
+        "Áp dụng hình thức bỏ phiếu kín hoàn toàn để các thành viên trong hội đồng không biết ai là người đã bỏ phiếu phản đối kế hoạch."
       ],
-      "correctIndex": 1,
-      "explanation": "Nghệ thuật phản biện ngược lên trên đòi hỏi sự tinh tế: Biến ý kiến phản biện thành món quà đóng góp cho sự thành công chung thay vì một cuộc tấn công vào cái tôi quyền lực."
+      "correctIndex": 0,
+      "explanation": "Trước đây trách nhiệm thuộc về người phản đối phải chứng minh việc phóng là mất an toàn. Sau đó, trách nhiệm được đảo ngược: cả đội phải chứng minh điều kiện phóng là đủ an toàn mới được tiến hành."
     },
     {
       "id": "q14",
-      "question": "Vai trò của 'Văn hóa học tập suốt đời' (Learning Culture) đối với việc duy trì sự trường tồn của một tập thể là gì?",
+      "question": "Tại Quỹ Gates, hành động quay video bà Melinda Gates đọc to những lời phê bình khắt khe của nhân viên mang lại hiệu ứng gì?",
       "options": [
-        "Giúp công ty không bao giờ phải chịu sự cạnh tranh từ các đối thủ mới nổi.",
-        "Biến tổ chức thành một thực thể sống liên tục tự thích ứng, tự làm mới và tự tiến hóa trước mọi biến động khôn lường của thị trường toàn cầu.",
-        "Bắt buộc tất cả nhân viên phải có ít nhất 2 bằng thạc sĩ và 1 bằng tiến sĩ.",
-        "Làm tăng thời lượng đào tạo lý thuyết lên chiếm 80% thời gian làm việc mỗi ngày."
+        "Làm xói mòn uy tín lãnh đạo của ban điều hành và khiến các tổ chức tài trợ quốc tế quyết định rút bớt nguồn vốn viện trợ.",
+        "Xóa bỏ khoảng cách quyền lực, truyền cảm hứng để nhân viên dám bộc lộ thiếu sót và tạo động lực học hỏi trong toàn tổ chức.",
+        "Giúp ban lãnh đạo phát hiện và sa thải những nhân viên có thái độ bất mãn hoặc có những nhận xét tiêu cực về người quản lý.",
+        "Tạo ra một chiến dịch truyền thông giật gân trên mạng xã hội nhằm quảng bá hình ảnh thân thiện của quỹ trước công chúng."
       ],
       "correctIndex": 1,
-      "explanation": "Tổ chức không thể phát triển vượt quá năng lực học hỏi của các thành viên trong đó; một tập thể biết liên tục tái tư duy là một tập thể bất khả chiến bại."
+      "explanation": "Khi một lãnh đạo cấp cao như Melinda Gates dám cởi bỏ vỏ bọc hoàn hảo và đón nhận lời chê bai một cách cầu thị, nhân viên cảm thấy an tâm để đối diện với nhược điểm của chính mình và dám nói thẳng."
     },
     {
       "id": "q15",
-      "question": "Thông điệp đắt giá nhất của Chương 10 về việc phá bỏ thói quen cũ trong tổ chức là gì?",
+      "question": "Thông điệp cốt lõi của Chương 10 'Đây không phải cách chúng ta vẫn làm trước giờ' đối với sự sống còn của doanh nghiệp là gì?",
       "options": [
-        "'Nhân viên cấp dưới không bao giờ có quyền được chất vấn các quyết định của lãnh đạo'.",
-        "'Đừng để câu nói 'Đây là cách chúng ta vẫn làm từ trước tới giờ' trở thành bài văn tế tiễn đưa doanh nghiệp của bạn; hãy xây dựng một văn hóa an toàn tâm lý nơi mọi giả định đều được can đảm tái tư duy mỗi ngày!'.",
-        "'Hãy giữ nguyên mọi quy trình cũ vì sự thay đổi luôn luôn mang lại rủi ro phá sản'.",
-        "'Quy trình làm việc là thứ bất biến và không bao giờ được phép chỉnh sửa'."
+        "Doanh nghiệp muốn tồn tại lâu dài phải kiên định bám giữ những giá trị truyền thống và triệt để tránh mọi sự thay đổi mạo hiểm.",
+        "Quy trình vận hành chuẩn là kim chỉ nam bất biến, mọi hành vi nghi ngờ quy trình cũ đều là biểu hiện của sự thiếu trung thành.",
+        "Tổ chức cần xây dựng văn hóa học tập kết hợp giữa an toàn tâm lý và trách nhiệm quy trình để không ngừng tái tư duy mỗi ngày.",
+        "Thành công tài chính trong quá khứ là bằng chứng đáng tin cậy nhất bảo đảm rằng chiến lược hiện tại sẽ tiếp tục thắng lợi."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự đổi mới vĩ đại nhất bắt đầu từ sự dũng cảm chất vấn những điều quen thuộc nhất; hãy biến nơi làm việc thành một phòng thí nghiệm của sự sáng tạo và thấu hiểu."
+      "correctIndex": 2,
+      "explanation": "Chương 10 nhấn mạnh: Đừng để thói quen cũ biến thành giáo điều; chỉ khi kết hợp an toàn tâm lý với ý thức trách nhiệm về quy trình, tổ chức mới trở thành một môi trường học tập bền vững."
     }
   ]
 }

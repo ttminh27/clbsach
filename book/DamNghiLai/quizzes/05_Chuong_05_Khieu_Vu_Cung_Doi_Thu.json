@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Tại sao Adam Grant lại ví nghệ thuật đàm phán đỉnh cao như một 'Điệu khiêu vũ hòa nhịp' (Dancing) thay vì một 'Trận chiến tranh đấu' (Warfare)?",
+      "question": "Tại sao Adam Grant lại ví nghệ thuật đàm phán đỉnh cao như một 'Điệu khiêu vũ' (dance) thay vì một trận chiến?",
       "options": [
-        "Vì khiêu vũ giúp giảm bớt lượng calo tiêu thụ trong quá trình tranh luận căng thẳng.",
-        "Vì đàm phán kinh tế chỉ diễn ra trong các buổi tiệc dạ hội khiêu vũ sang trọng.",
-        "Trong trận chiến, mục tiêu là tiêu diệt đối phương; trong điệu khiêu vũ, mục tiêu là dẫn dắt, hòa nhịp và cùng nhau tạo nên sự uyển chuyển để cả hai bên cùng tiến về phía trước.",
-        "Vì các nhà đàm phán chuyên nghiệp bắt buộc phải học nhảy tango trước khi ký hợp đồng."
+        "Đàm phán không phải để khuất phục đối phương, mà là sự hòa nhịp linh hoạt để cùng dẫn dắt nhau đến giải pháp tối ưu.",
+        "Người đàm phán giỏi cần phải nhượng bộ hoàn toàn trước mọi yêu sách ban đầu nhằm chiếm trọn thiện cảm của phía đối tác.",
+        "Mục tiêu then chốt là dùng các lý lẽ áp đảo để buộc đối thủ phải răm rắp tuân theo từng bước đi đã được sắp đặt từ trước.",
+        "Hai bên cần thỏa hiệp cào bằng mọi lợi ích cốt lõi ngay từ phút đầu tiên để tránh xảy ra những tranh luận làm mất thời gian."
       ],
-      "correctIndex": 2,
-      "explanation": "Xem đối phương là bạn nhảy giúp bạn không kích hoạt cơ chế phòng vệ của họ; bạn nhún nhường đúng lúc, tìm điểm chung và nhẹ nhàng dẫn dắt họ tái tư duy quan điểm của mình."
+      "correctIndex": 0,
+      "explanation": "Đàm phán không phải là trận kéo co giằng co sức lực, mà là điệu khiêu vũ không biên đạo sẵn: ta cần linh hoạt lùi một bước để mở đường cho đối tác tiến lên cùng nhịp."
     },
     {
       "id": "q2",
-      "question": "Sai lầm kinh điển nhất của những người đàm phán kém cỏi khi cố gắng thuyết phục người khác là gì?",
+      "question": "Nghiên cứu của Neil Rackham về các chuyên gia đàm phán lão luyện đã chỉ ra điểm khác biệt cốt tử nào trong khâu chuẩn bị?",
       "options": [
-        "Đưa ra quá ít thông tin số liệu thống kê trong bài phát biểu.",
-        "Ném ra quá nhiều luận điểm dồn dập (Argument Dilution): Luận điểm yếu sẽ làm loãng và hủy hoại sức nặng của những luận điểm mạnh nhất, trao cho đối phương cơ hội phản công.",
-        "Mỉm cười quá nhiều trong suốt cuộc trò chuyện.",
-        "Sử dụng ngôn ngữ cơ thể quá tự tin và đĩnh đạc."
+        "Họ tập trung toàn bộ thời gian chuẩn bị để thu thập hàng loạt chứng cứ nhằm phản bác và vùi dập mọi lập luận của phía bên kia.",
+        "Họ dành hơn một phần ba thời gian lập kế hoạch để tìm kiếm các điểm chung tiềm năng mà hai bên có thể cùng nhau đồng thuận.",
+        "Họ chuẩn bị sẵn các biện pháp gây áp lực tâm lý mạnh mẽ để buộc đối phương phải nhượng bộ ngay trong những phút thương thảo đầu.",
+        "Họ chỉ tập trung vào việc bảo vệ các điều khoản cứng nhắc của phe mình mà không cần quan tâm đến mục tiêu của đối tác đàm phán."
       ],
       "correctIndex": 1,
-      "explanation": "Nhiều lý lẽ không bằng lý lẽ đắt giá nhất; khi bạn đưa ra 10 lý do, đối phương chỉ cần bẻ gãy lý do yếu nhất là có thể bác bỏ toàn bộ lập luận của bạn."
+      "explanation": "Trong khi người đàm phán trung bình chỉ lên kế hoạch tấn công và phòng thủ, các bậc thầy đàm phán dành hơn 1/3 kế hoạch để phác thảo các điểm chung nhằm tạo tiếng nói đồng thuận."
     },
     {
       "id": "q3",
-      "question": "Nhà đàm phán vô địch thế giới Harish Natarajan đã làm điều kỳ diệu nào trong trận tranh biện lịch sử với Siêu máy tính Project Debater của IBM?",
+      "question": "Tại sao các nhà thương thuyết tài ba thường đưa ra rất ít luận điểm thay vì dồn dập nhiều lý lẽ khác nhau?",
       "options": [
-        "Ông nói với tốc độ 500 từ mỗi phút khiến hệ thống xử lý ngôn ngữ của AI bị treo.",
-        "Ông từ chối tranh biện và tuyên bố máy tính không có tư cách nói chuyện với con người.",
-        "Ông đã bí mật ngắt nguồn điện của siêu máy tính để giành phần thắng.",
-        "Thay vì dồn dập tấn công kho dữ liệu khổng lồ của AI, ông chủ động thừa nhận các điểm hợp lý của đối phương, tìm kiếm các giá trị chung và đặt những câu hỏi đánh thẳng vào chiều sâu nhân văn."
+        "Vì việc đưa ra quá nhiều lý lẽ sẽ làm đối phương cảm thấy choáng ngợp và lập tức chấp nhận toàn bộ yêu sách mà không cần đắn đo.",
+        "Vì họ muốn tiết kiệm thời gian đàm phán để nhanh chóng chuyển sang các giai đoạn ký kết hợp đồng kinh tế mang tính thực thi cao.",
+        "Vì một luận điểm yếu sẽ làm loãng đi các luận điểm mạnh, tạo cơ hội cho đối phương bám vào sơ hở đó để bác bỏ toàn bộ đề xuất.",
+        "Vì họ lo sợ đối phương sẽ sao chép các ý tưởng chiến lược độc đáo nếu họ vô tình tiết lộ quá nhiều thông tin cơ mật trong cuộc họp."
       ],
-      "correctIndex": 3,
-      "explanation": "Harish đã biến cuộc đối đầu thành một điệu khiêu vũ: Ông không tranh cãi về dữ liệu khô khan mà kết nối với khán giả bằng sự thấu cảm, khiêm nhường và những câu hỏi thức tỉnh lương tri."
+      "correctIndex": 2,
+      "explanation": "Neil Rackham cảnh báo: Một luận điểm yếu sẽ làm loãng luận điểm mạnh. Càng tung ra nhiều lý lẽ, đối phương càng dễ bám vào điểm yếu nhất để hạ gục toàn bộ đề xuất của bạn."
     },
     {
       "id": "q4",
-      "question": "Kỹ thuật 'Chủ động thừa nhận điểm đúng của đối phương' (Conceding Valid Points) mang lại sức mạnh thuyết phục bất ngờ nào?",
+      "question": "Trong cuộc tranh biện với cỗ máy trí tuệ nhân tạo Project Debater (Debra), Harish Natarajan đã đảo ngược tình thế bằng chiến lược nào?",
       "options": [
-        "Nó chứng minh bạn là một người biết lắng nghe, công tâm và khách quan, khiến đối phương giảm bớt sự phòng vệ và cũng cởi mở thừa nhận các luận điểm của bạn.",
-        "Nó chứng minh rằng bạn đã hoàn toàn đầu hàng và chấp nhận thất bại trong cuộc đàm phán.",
-        "Đây là một thủ thuật tâm lý bất hợp pháp bị cấm trong các tòa án quốc tế.",
-        "Nó làm cho đối phương cảm thấy kiêu ngạo và tự động mắc sai lầm ngớ ngẩn sau đó."
+        "Anh sử dụng số lượng dữ kiện và số liệu thống kê khổng lồ vượt trội để áp đảo hoàn toàn kho tri thức nhân tạo của siêu máy tính.",
+        "Anh tập trung công kích vào những lỗi ngữ pháp và hạn chế về mặt biểu cảm cơ thể của hệ thống trí tuệ nhân tạo trên sân khấu lớn.",
+        "Anh né tránh bàn về thực trạng nghèo đói và chỉ tập trung vào các khái niệm triết học trừu tượng nhằm gây bối rối cho thuật toán.",
+        "Anh thừa nhận những điểm đúng của đối thủ, tập trung vào hai luận điểm cốt lõi và đặt ra nhiều câu hỏi gợi mở cho khán giả."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi bạn thể hiện sự công bằng bằng cách công nhận những điểm sáng trong lập luận của đối phương, bạn đã vô hiệu hóa tâm lý đối đầu và mở ra không gian cho sự đồng thuận."
+      "correctIndex": 3,
+      "explanation": "Harish giành chiến thắng nhờ tìm điểm chung với đối thủ, tập trung trau chuốt chỉ 2 luận điểm then chốt và liên tục đặt 6 câu hỏi gợi suy ngẫm cho khán giả thay vì dội bom dữ kiện."
     },
     {
       "id": "q5",
-      "question": "Tại sao việc 'Đặt câu hỏi tò mò' lại có sức mạnh thay đổi suy nghĩ của người khác gấp nhiều lần việc 'Đưa ra các câu khẳng định đanh thép'?",
+      "question": "Kỹ thuật tranh biện kiểu 'Người sắt' (Steel man) mà Harish áp dụng đối lập với ngụy biện 'Người rơm' (Straw man) ở điểm nào?",
       "options": [
-        "Vì người hỏi luôn là người có quyền lực cao hơn người trả lời trong xã hội.",
-        "Câu khẳng định kích hoạt cơ chế phòng thủ tự vệ; câu hỏi kích hoạt quá trình tự suy ngẫm nội tâm, giúp đối phương tự mình nhận ra lỗ hổng trong niềm tin cũ và tự thay đổi.",
-        "Vì câu khẳng định bị coi là hành vi thô lỗ trong văn hóa giao tiếp phương Tây.",
-        "Vì câu hỏi giúp bạn kéo dài thời gian để nghĩ ra chiêu trò lừa dối đối phương."
+        "Nó tập trung vào phiên bản lập luận vững chắc và thuyết phục nhất của đối phương thay vì chọc vào chỗ sơ hở dễ công kích.",
+        "Nó cố tình bóp méo luận điểm của đối thủ thành một phiên bản ngô nghê nhằm biến họ thành trò cười trước mặt đông đảo khán giả.",
+        "Nó sử dụng các thuật ngữ chuyên môn phức tạp để làm cho lập luận của bản thân trở nên bất khả xâm phạm trước mọi sự chất vấn.",
+        "Nó phủ nhận sạch trơn mọi dữ liệu đối phương đưa ra để xây dựng một hệ thống lý lẽ hoàn toàn mới dựa trên định kiến cá nhân."
       ],
-      "correctIndex": 1,
-      "explanation": "Không ai thích bị người khác bảo phải nghĩ như thế nào; sự thuyết phục tối thượng là nghệ thuật đặt câu hỏi dẫn dắt để đối phương tự mình 'khai sinh' ra kết luận mới."
+      "correctIndex": 0,
+      "explanation": "Tranh biện người sắt (steel man) là thừa nhận và phản biện phiên bản mạnh mẽ nhất của đối thủ; điều này thể hiện thái độ tôn trọng, tư duy khoa học và củng cố độ tin cậy của lập luận."
     },
     {
       "id": "q6",
-      "question": "Kỹ thuật 'Hỏi về Cơ chế thực thi' (How) thay vì 'Hỏi về Lý do' (Why) giải tỏa sự cực đoan chính trị như thế nào?",
+      "question": "Nghiên cứu của Neil Rackham cho thấy tỷ lệ đặt câu hỏi của các chuyên gia đàm phán xuất sắc có đặc điểm gì nổi bật?",
       "options": [
-        "Cả hai câu hỏi này đều khiến cuộc tranh luận trở nên bế tắc và căng thẳng hơn.",
-        "Hỏi 'Tại sao' (Why) sẽ khiến đối phương lập tức đồng ý với quan điểm của bạn.",
-        "Hỏi 'Như thế nào' (How) giúp bạn có thêm nhiều công thức toán học phức tạp.",
-        "Khi yêu cầu người có quan điểm cực đoan giải thích CHI TIẾT CÁCH THỨC CHÍNH SÁCH VẬN HÀNH từ đầu đến cuối, họ sẽ tự nhận ra sự phức tạp và lỗ hổng kiến thức của mình, từ đó trở nên ôn hòa hơn."
+        "Họ hiếm khi đặt câu hỏi vì cho rằng việc hỏi sẽ bộc lộ sự thiếu hiểu biết và làm suy giảm vị thế chuyên môn của họ trên bàn đàm phán.",
+        "Bình quân cứ năm phát ngôn họ đưa ra thì có ít nhất một câu hỏi, đóng vai trò dẫn dắt tinh tế để đối phương tự bước lên phía trước.",
+        "Họ liên tục đặt những câu hỏi bẫy đóng dạng đúng sai nhằm dồn đối phương vào chân tường và tước bỏ hoàn toàn quyền tự do phản biện.",
+        "Họ chỉ đặt câu hỏi ở giai đoạn cuối buổi họp để thăm dò xem đối phương có phát hiện ra những điểm sơ hở trong hợp đồng hay không."
       ],
-      "correctIndex": 3,
-      "explanation": "Khi được hỏi 'Tại sao', người ta chỉ việc lặp lại những khẩu hiệu cảm xúc; nhưng khi bị hỏi 'Bạn sẽ thực thi chính sách đó từng bước như thế nào?', ảo tưởng về sự hiểu biết sẽ sụp đổ."
+      "correctIndex": 1,
+      "explanation": "Ít nhất 1/5 phát ngôn của chuyên gia đàm phán là câu hỏi. Đặt câu hỏi giúp đối phương không cảm thấy bị kiểm soát, kích thích tính tò mò và mở đường cho họ tự tái tư duy."
     },
     {
       "id": "q7",
-      "question": "Thói quen 'Diễn giải lại quan điểm của đối phương bằng sự tôn trọng' (Paraphrasing) đóng vai trò gì trong đàm phán?",
+      "question": "Thử nghiệm kêu gọi quyên góp từ cựu sinh viên của Adam Grant đã phát hiện ra điều gì bất ngờ khi kết hợp hai lý do thuyết phục?",
       "options": [
-        "Một bài tập rèn luyện khả năng phát âm chuẩn xác của người phiên dịch.",
-        "Để chế giễu và làm méo mó các lập luận của đối phương trước mặt người nghe.",
-        "Xác nhận rằng bạn đã thực sự thấu hiểu trọn vẹn thông điệp của họ trước khi đưa ra phản hồi, ngăn chặn các hiểu lầm và xây dựng lòng tin sâu sắc.",
-        "Để ghi âm lại làm bằng chứng pháp lý kiện tụng sau này."
+        "Tỷ lệ đóng góp tăng gấp ba lần nhờ sự tác động cộng hưởng mạnh mẽ giữa tinh thần trách nhiệm xã hội và mong muốn được ghi nhận.",
+        "Cựu sinh viên cảm thấy vô cùng hào hứng và sẵn lòng đóng góp số tiền lớn hơn nhiều khi nhận được thông điệp đa dạng về mục tiêu.",
+        "Tỷ lệ quyên góp giảm hơn một nửa vì việc dồn dập đưa ra nhiều lý do khiến người nghe cảnh giác và kích hoạt cơ chế phòng vệ tâm lý.",
+        "Không có bất kỳ sự thay đổi nào về tỷ lệ ủng hộ do quyết định quyên góp hoàn toàn phụ thuộc vào mức thu nhập thực tế của mỗi người."
       ],
       "correctIndex": 2,
-      "explanation": "Khi đối phương cảm thấy mình được lắng nghe và thấu hiểu một cách trọn vẹn, họ sẽ không còn cảm giác cần phải gào thét hay bảo vệ quan điểm một cách mù quáng nữa."
+      "explanation": "Khi kết hợp 2 thông điệp thuyết phục, tỷ lệ quyên góp giảm từ 6.5% xuống dưới 3%. Việc dồn dập nêu nhiều lý do khiến người nghe hoài nghi rằng mình đang bị thao túng và dựng khiên phòng thủ."
     },
     {
       "id": "q8",
-      "question": "Tại sao các chuyên gia đàm phán hàng đầu lại thường xuyên bộc lộ 'Sự tò mò chân thành về cảm xúc của đối phương'?",
+      "question": "Trong thử nghiệm thúc đẩy cổ động viên bóng rổ đến sân, thông điệp nào mang lại tỷ lệ tham dự cao nhất?",
       "options": [
-        "Bởi vì bên dưới mọi lập luận lý trí cứng nhắc luôn là một nhu cầu cảm xúc sâu kín (như nỗi sợ hãi, lòng tự trọng hay mong muốn được công nhận) cần được giải tỏa trước.",
-        "Để tìm kiếm điểm yếu cảm xúc nhằm mục đích tống tiền đối phương sau này.",
-        "Vì các chuyên gia đàm phán đều là những người mắc chứng tò mò bệnh lý.",
-        "Để làm cho đối phương bật khóc và tự động ký kết hợp đồng bất lợi."
+        "Bức thư kêu gọi đầy nhiệt huyết từ chính huấn luyện viên trưởng nhấn mạnh tầm quan trọng của việc cổ vũ tinh thần cho các cầu thủ.",
+        "Bản tin cảnh báo nguy cơ đội bóng mất ưu thế sân nhà nếu khán đài không được lấp đầy bởi các cổ động viên trung thành của câu lạc bộ.",
+        "Chính sách giảm giá vé đặc biệt và tặng quà lưu niệm cho những người hâm mộ cam kết có mặt tại sân thi đấu suốt cả mùa giải.",
+        "Một câu hỏi gợi mở đơn giản: 'Bạn có dự định sẽ đến xem trận đấu không?', trao quyền tự do lựa chọn cho chính cổ động viên."
       ],
-      "correctIndex": 0,
-      "explanation": "Logic không bao giờ thắng được cảm xúc; nếu bạn không chạm tới và xoa dịu được nút thắt cảm xúc của đối phương, mọi lý lẽ sắc bén nhất đều vô nghĩa."
+      "correctIndex": 3,
+      "explanation": "Câu hỏi đơn giản 'Bạn có dự định đến xem trận đấu không?' nâng tỷ lệ tham dự lên 85% (so với 76% của thông điệp từ đội bóng), vì nó trao quyền tự quyết và thúc đẩy hành vi tự thuyết phục."
     },
     {
       "id": "q9",
-      "question": "Sai lầm của việc 'Xem người bất đồng quan điểm là Kẻ thù cần phải bị đánh bại' là gì?",
+      "question": "Chiến lược thứ năm mà các chuyên gia đàm phán lão luyện thường áp dụng vượt trội so với người bình thường là gì?",
       "options": [
-        "Nó làm giảm giá trị cổ phiếu của công ty trên thị trường chứng khoán.",
-        "Nó vi phạm các quy tắc về lễ tân ngoại giao của Liên Hợp Quốc.",
-        "Nó biến cuộc đối thoại thành một trận chiến một mất một còn; khi đối phương cảm thấy bị đe dọa sinh tồn về mặt cái tôi, họ sẽ bám chặt vào niềm tin cũ hơn bao giờ hết.",
-        "Nó khiến bạn phải chi trả thêm chi phí an ninh bảo vệ phòng họp."
+        "Họ công khai chia sẻ cảm nhận về tiến trình đối thoại và kiểm tra mức độ thấu hiểu cảm xúc của đôi bên để hạ nhiệt căng thẳng.",
+        "Họ giữ gương mặt lạnh lùng và hoàn toàn che giấu cảm xúc thật để đối phương không thể nắm bắt được tâm lý hay ý đồ chiến lược.",
+        "Họ lập tức rời khỏi bàn đàm phán mỗi khi xuất hiện bất đồng nhằm gây áp lực buộc đối tác phải đưa ra nhượng bộ lớn hơn sau đó.",
+        "Họ liên tục chuyển đổi chủ đề nói chuyện sang các vấn đề cá nhân nhằm phân tán sự chú ý của đối thủ khỏi các điều khoản nhạy cảm."
       ],
-      "correctIndex": 2,
-      "explanation": "Hiệu ứng phản tác dụng (Backfire Effect): Càng tấn công gay gắt, đối phương càng xây dựng pháo đài bảo vệ niềm tin kiên cố hơn; chỉ có sự cởi mở mới làm tan chảy băng giá."
+      "correctIndex": 0,
+      "explanation": "Các bậc thầy đàm phán thường gọi tên cảm xúc và thảo luận về tiến trình: 'Tôi cảm thấy băn khoăn về phản ứng của bạn - liệu tôi có hiểu đúng không?'. Điều này chuyển hướng đối đầu sang thấu hiểu."
     },
     {
       "id": "q10",
-      "question": "Adam Grant đã chia sẻ kinh nghiệm gì khi đối thoại với những người phủ nhận khoa học biến đổi khí hậu?",
+      "question": "Khi đối phương bắt đầu tỏ ra thù địch và mất kiểm soát trong cuộc tranh luận, phản ứng khôn ngoan nhất là gì?",
       "options": [
-        "Không tranh cãi về dữ liệu nhiệt độ; thay vào đó, đặt câu hỏi: 'Điều gì hoặc bằng chứng cụ thể nào có thể khiến bạn thay đổi suy nghĩ về vấn đề này?'.",
-        "Gửi cho họ hàng ngàn trang tài liệu nghiên cứu khoa học chuyên sâu qua email.",
-        "Đồng ý hoàn toàn với quan điểm của họ để tránh xảy ra tranh cãi.",
-        "Mắng mỏ họ là những kẻ dốt nát và từ chối nói chuyện tiếp."
+        "Đáp trả bằng thái độ gay gắt tương tự để chứng minh bản lĩnh và không cho phép đối phương lấn lướt trong cuộc đối đầu quan điểm.",
+        "Bước sang một bên, giữ sự điềm tĩnh và chuyển hướng cuộc trò chuyện từ nội dung bất đồng sang cách thức hai người đang tương tác.",
+        "Lập tức im lặng rút lui hoàn toàn khỏi cuộc thảo luận để mặc cho đối phương tự nhận thức được sự thô lỗ trong hành vi của chính họ.",
+        "Đưa ra hàng loạt bằng chứng khoa học có tính xác thực cao để chứng minh rằng cảm xúc giận dữ của họ là hoàn toàn phi lý trí."
       ],
-      "correctIndex": 0,
-      "explanation": "Câu hỏi 'Bằng chứng nào có thể làm bạn đổi ý?' là chiếc gương chiếu yêu: Nếu họ trả lời 'Không có gì', họ đang ở chế độ sùng đạo mù quáng; nếu họ đưa ra điều kiện, cánh cửa tái tư duy đã mở."
+      "correctIndex": 1,
+      "explanation": "Xem tranh luận là điệu khiêu vũ cho phép ta 'bước sang bên': tạm dừng tranh cãi nội dung để đối thoại về cách thức đối thoại. Thái độ điềm tĩnh và lắng nghe sẽ làm cơn bão cảm xúc lắng xuống."
     },
     {
       "id": "q11",
-      "question": "Vai trò của 'Sự linh hoạt trong việc thay đổi chiến thuật đàm phán' được ví như điều gì?",
+      "question": "Tại sao Adam Grant lại từ bỏ lời khuyên cũ 'Thể hiện ý kiến mạnh mẽ nhưng bám lỏng lẻo' mà ông từng viết trong cuốn 'Originals'?",
       "options": [
-        "Một chiếc xe ủi đất hạng nặng san phẳng mọi công trình trên đường đi.",
-        "Một dòng nước mềm mại len lỏi qua các kẽ đá; khi gặp vật cản cứng, nước không đâm đầu vào đá mà nhẹ nhàng chuyển dòng để tiếp tục chảy về biển lớn.",
-        "Một chiếc búa sắt đập tan tất cả các đồ vật thủy tinh xung quanh.",
-        "Một tảng đá hoa cương bất động không bao giờ xê dịch trước gió bão."
+        "Vì các nhà lãnh đạo hiện đại không còn coi trọng sự kiên định mà chỉ muốn tìm kiếm những nhân viên luôn dễ tính và biết vâng lời.",
+        "Vì việc bám lỏng lẻo vào quan điểm cá nhân sẽ khiến bạn bị coi là thiếu chính kiến và dễ dàng bị thao túng trong mọi cuộc họp bàn.",
+        "Vì sự quả quyết ban đầu dễ phản tác dụng; truyền đạt quan điểm với sự tự tin khiêm nhường sẽ mở đường cho đối thoại đa chiều hơn.",
+        "Vì các chuyên gia tâm lý đã chứng minh rằng sự tự tin thái quá luôn là vũ khí hiệu quả nhất để thuyết phục đám đông nghe theo mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Sức mạnh mềm (Soft Power) luôn có sức công phá bền bỉ và sâu sắc hơn bạo lực; sự uyển chuyển trong đàm phán giúp bạn vượt qua mọi sự ngoan cố cứng nhắc."
+      "correctIndex": 2,
+      "explanation": "Sự mạnh miệng ban đầu khiến người nghe đóng cửa tâm trí và coi ta là kẻ giáo điều. Thể hiện sự tự tin vừa phải và thừa nhận điểm chưa chắc chắn sẽ kích thích tò mò và mở đường cho đối thoại."
     },
     {
       "id": "q12",
-      "question": "Tại sao việc 'Tạo cho đối phương một lối thoát giữ thể diện' (Saving Face) lại là chìa khóa vàng để họ chấp nhận đổi ý?",
+      "question": "Nghiên cứu tại phòng xử án về tính thuyết phục của nhân chứng chuyên gia và thông điệp hai mặt đã chỉ ra điều gì?",
       "options": [
-        "Để người khác không biết rằng bạn vừa mới giành chiến thắng trong cuộc đàm phán.",
-        "Không ai muốn bị coi là kẻ ngu ngốc hay kẻ thất bại; khi bạn trao cho họ một lý do cao đẹp để thay đổi ('Trước đây bạn thiếu dữ liệu, nay có dữ liệu mới'), họ sẽ vui vẻ đổi ý.",
-        "Đây là một phong tục mê tín dị đoan của các thương nhân phương Đông.",
-        "Để bạn có thể ép buộc họ ký thêm các phụ lục hợp đồng có lợi cho bạn."
+        "Các nhân chứng thể hiện sự quả quyết tuyệt đối và không chút do dự luôn giành được sự tin tưởng cao nhất từ phía bồi thẩm đoàn.",
+        "Việc chỉ trình bày một mặt có lợi cho thân chủ mà giấu nhẹm các bằng chứng bất lợi là chiến lược đàm phán thành công nhất tại tòa.",
+        "Bồi thẩm đoàn luôn bác bỏ lời khai của những chuyên gia thừa nhận rằng họ có những điểm chưa thực sự chắc chắn về mặt kỹ thuật.",
+        "Các chuyên gia bộc lộ sự tự tin vừa phải và trình bày thông điệp hai mặt được đánh giá là đáng tin cậy và có sức thuyết phục hơn."
       ],
-      "correctIndex": 1,
-      "explanation": "Hãy xây cho đối phương một chiếc cầu vàng để họ rút lui trong danh dự; khi không bị đe dọa mất thể diện, con người sẽ dễ dàng bước sang lập trường mới."
+      "correctIndex": 3,
+      "explanation": "Nhân chứng bộc lộ sự tự tin vừa phải và thông điệp hai mặt (thừa nhận cả ưu và nhược điểm) được đánh giá là trung thực, khách quan và có sức thuyết phục cao hơn hẳn người tự tin thái quá."
     },
     {
       "id": "q13",
-      "question": "Kỹ thuật 'Đo lường mức độ tự tin trên thang điểm 1-10' giúp người được hỏi điều gì?",
+      "question": "Bài học đắt giá từ câu chuyện ứng tuyển vị trí Giám đốc Sản phẩm của Michele Hansen là gì?",
       "options": [
-        "Một trò chơi đố vui toán học nhằm mục đích thư giãn giữa giờ giải lao.",
-        "Giúp tính toán chính xác số điểm thưởng thi đua của nhân viên trong tháng.",
-        "Để xác định xem đối phương có đủ điều kiện vay vốn ngân hàng hay không.",
-        "Nếu họ chấm 8/10, hỏi tiếp: 'Tại sao không phải là 10/10? Điều gì khiến bạn còn 2 điểm hoài nghi?'; câu hỏi này sẽ tự động kích hoạt quá trình tự chất vấn và tái tư duy của họ."
+        "Chủ động thừa nhận những thiếu sót chính đáng của bản thân giúp tạo dựng lòng tin và làm nổi bật các thế mạnh thực sự then chốt.",
+        "Tự tin khoe khoang về những thành tích phi thường trong quá khứ là cách duy nhất để gây ấn tượng mạnh với hội đồng tuyển dụng.",
+        "Tìm cách che giấu triệt để các lỗ hổng kinh nghiệm bằng cách chuyển hướng cuộc phỏng vấn sang những kỹ năng mềm không thể đo lường.",
+        "Chấp nhận hạ thấp mức lương kỳ vọng ngay từ đầu để bù đắp cho việc thiếu hụt các chứng chỉ chuyên môn theo yêu cầu của công ty."
       ],
-      "correctIndex": 3,
-      "explanation": "Bằng cách hướng sự chú ý vào phần hoài nghi còn lại (2 điểm), bạn đã khéo léo mời họ tự mình khám phá những lỗ hổng trong lập luận của chính họ."
+      "correctIndex": 0,
+      "explanation": "Michele Hansen bắt đầu thư ứng tuyển bằng việc thừa nhận điểm yếu (thiếu bằng cấp tài chính/kinh nghiệm 10 năm); sự thành thật này hóa giải nghi ngại và làm nổi bật năng lực học hỏi vượt bậc."
     },
     {
       "id": "q14",
-      "question": "Thái độ đúng đắn nhất sau khi kết thúc một cuộc đàm phán thành công là gì?",
+      "question": "Thuật ngữ 'Kẻ bắt nạt bằng lý luận' (Logic Bully) mà sinh viên Jamie gán cho Adam Grant mang ý nghĩa cảnh tỉnh nào?",
       "options": [
-        "Lập tức cắt đứt mọi liên lạc để tránh việc đối phương thay đổi ý định.",
-        "Bày tỏ lòng biết ơn chân thành về một cuộc trò chuyện sâu sắc, tôn vinh sự đóng góp của đối phương và cùng nhau cam kết thực thi giải pháp chung.",
-        "Hả hê ăn mừng và công khai chế giễu sự thua cuộc của đối phương trên mạng xã hội.",
-        "Yêu cầu đối phương phải quỳ xuống xin lỗi vì những tranh cãi trong quá khứ."
+        "Người nói sử dụng các dữ liệu ngụy tạo và lập luận sai trái để cố tình lừa gạt người nghe chấp nhận một kế hoạch phi thực tế.",
+        "Dùng các lý lẽ quá chặt chẽ để dồn ép đối phương, khiến họ không thể phản bác nhưng trong lòng càng thêm kháng cự và bảo thủ.",
+        "Thể hiện sự thiếu tôn trọng bằng cách liên tục ngắt lời và dùng các từ ngữ xúc phạm danh dự cá nhân của người đang đối thoại.",
+        "Bỏ qua các nguyên tắc tư duy phản biện để lôi kéo người khác ủng hộ quan điểm chính trị của bản thân một cách mù quáng."
       ],
       "correctIndex": 1,
-      "explanation": "Đích đến của đàm phán chân chính không phải là sự khuất phục của kẻ bại trận, mà là sự đồng lòng của hai người bạn nhảy cùng hướng tới một tương lai tốt đẹp hơn."
+      "explanation": "Kẻ bắt nạt bằng lý luận dồn ép đối phương bằng dữ kiện sắc bén đến mức họ không thể cãi lại nhưng lại nảy sinh tâm lý uất ức, phòng thủ và càng khăng khăng bám chặt lấy niềm tin cũ."
     },
     {
       "id": "q15",
-      "question": "Thông điệp đắt giá nhất của Chương 5 về nghệ thuật khiêu vũ cùng đối thủ là gì?",
+      "question": "Thông điệp cốt lõi của Chương 5 về nghệ thuật khiêu vũ cùng đối thủ trong đối thoại và thuyết phục là gì?",
       "options": [
-        "'Hãy sử dụng mọi thủ đoạn đàm phán sắc bén nhất để tiêu diệt đối thủ cạnh tranh'.",
-        "'Bạn không thể ép buộc một tâm trí phải thay đổi bằng sức mạnh của sự áp đặt; bạn chỉ có thể mở ra một không gian an toàn để đối phương tự mình khiêu vũ bước sang miền đất của sự thật!'.",
-        "'Đừng bao giờ nhượng bộ hay lắng nghe bất kỳ ý kiến nào của phe đối lập'.",
-        "'Tranh luận bằng sự gào thét là cách nhanh nhất để giành chiến thắng trong mọi cuộc thương lượng'."
+        "Muốn người khác thay đổi nhận thức, bạn phải dùng các đòn bẩy lý lẽ sắc bén nhất để đè bẹp hoàn toàn hệ thống niềm tin của họ.",
+        "Cách tốt nhất để giành chiến thắng trong một cuộc tranh luận là nhượng bộ tuyệt đối để bảo vệ mối quan hệ tình cảm lâu dài.",
+        "Thuyết phục không phải là cuộc chiến thắng thua mà là mời đối phương cùng khiêu vũ, để họ tự tìm thấy lý do thay đổi từ chính mình.",
+        "Một nhà đàm phán bậc thầy là người luôn nắm thế chủ động dẫn dắt và không bao giờ để cho đối tác có cơ hội bước lên phía trước."
       ],
-      "correctIndex": 1,
-      "explanation": "Thuyết phục không phải là cuộc chiến tranh giành phần thắng; đó là nghệ thuật hòa nhịp, lắng nghe và dẫn dắt tâm trí cùng hướng tới sự thật và sự thấu hiểu."
+      "correctIndex": 2,
+      "explanation": "Thuyết phục không phải là đè bẹp người khác bằng lý lẽ mà là cùng họ hòa nhịp khiêu vũ: tôn trọng lập luận vững chắc của họ, đặt câu hỏi gợi mở để họ tự khám phá và tự thay đổi góc nhìn."
     }
   ]
 }

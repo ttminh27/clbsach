@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Phương pháp 'Phỏng vấn tạo động lực' (Motivational Interviewing - MI) được phát triển ban đầu bởi William Miller và Stephen Rollnick nhằm mục đích gì?",
+      "question": "Hiện tượng 'Kháng thể tâm lý' xuất hiện như thế nào khi các cơ quan y tế cố gắng giáo dục người dân về sự an toàn của vắc-xin?",
       "options": [
-        "Phương pháp thôi miên lâm sàng nhằm xóa sạch ký ức đau buồn trong quá khứ.",
-        "Một kỹ thuật tra khảo tù nhân chiến tranh để khai thác thông tin tình báo quân sự.",
-        "Một bài kiểm tra trắc nghiệm tuyển dụng dành cho các giám đốc kinh doanh cấp cao.",
-        "Giúp những người nghiện rượu, nghiện ma túy tự khám phá ra động lực nội tại để thay đổi hành vi thông qua việc lắng nghe thấu cảm và đặt câu hỏi dẫn dắt, thay vì ép buộc hay giáo huấn."
+        "Việc dội bom bằng số liệu và phủ định nỗi sợ chỉ khiến người nghe kích hoạt cơ chế tự vệ và bám chặt hơn vào sự hoài nghi ban đầu.",
+        "Người dân lập tức thay đổi quan điểm và hoàn toàn tin tưởng vào y học hiện đại sau khi được xem các bằng chứng khoa học đối chứng.",
+        "Các bậc phụ huynh chỉ kháng cự khi chi phí tiêm chủng vượt quá khả năng chi trả kinh tế thực tế của gia đình họ tại thời điểm đó.",
+        "Chiến dịch truyền thông giáo huấn luôn mang lại hiệu quả tuyệt đối trong việc dập tắt mọi tin đồn thất thiệt trong cộng đồng dân tộc."
       ],
-      "correctIndex": 3,
-      "explanation": "MI là nghệ thuật khơi gợi động lực tự thân: Bạn không thể rót động lực vào người khác; bạn chỉ có thể giúp họ tìm thấy ngọn lửa khao khát thay đổi đã có sẵn bên trong họ."
+      "correctIndex": 0,
+      "explanation": "Các thử nghiệm tại Đức và Mỹ cho thấy dội bom dữ kiện về vắc-xin chỉ phản tác dụng: nỗ lực áp đặt sự thật tạo ra kháng thể tâm lý, khiến người nghe càng quả quyết từ chối tiêm chủng hơn."
     },
     {
       "id": "q2",
-      "question": "Bác sĩ nhi khoa Arnaud Gagneur tại Quebec (Canada) đã áp dụng Phỏng vấn tạo động lực như thế nào để thuyết phục các bà mẹ do dự tiêm vắc-xin cho con?",
+      "question": "Bác sĩ Arnaud Gagneur đã tạo ra bước ngoặt với bà mẹ Marie-Hélène Étienne-Rousseau bằng phương pháp tiếp cận nào?",
       "options": [
-        "Đe dọa sẽ tước quyền nuôi con nếu họ không ký giấy đồng ý tiêm chủng ngay lập tức.",
-        "Không bao giờ chỉ trích hay giảng giải y khoa; ông ngồi lắng nghe với sự tôn trọng tuyệt đối những nỗi sợ của người mẹ, thừa nhận tình yêu thương của họ và nhẹ nhàng hỏi về mong muốn bảo vệ sức khỏe cho con.",
-        "Chi trả tiền mặt cho mỗi mũi tiêm vắc-xin được thực hiện thành công.",
-        "Từ chối chữa bệnh cho những đứa trẻ chưa được tiêm phòng đầy đủ."
+        "Cảnh báo nghiêm khắc về nguy cơ pháp lý và phạt tiền nếu cô tiếp tục từ chối tiêm chủng phòng bệnh sởi cho đứa con sơ sinh Tobie.",
+        "Không phán xét, lắng nghe những âu lo và khẳng định sự tôn trọng tuyệt đối đối với quyền tự quyết của cô như một người mẹ tận tâm.",
+        "Mời các chuyên gia tâm lý học hàng đầu đến nhà để thuyết phục gia đình cô từ bỏ các quan niệm y học dân gian phản khoa học.",
+        "Đưa ra các tài liệu nghiên cứu lâm sàng dày hàng trăm trang chứng minh các phản bác về chứng tự kỷ là hoàn toàn vô căn cứ."
       ],
       "correctIndex": 1,
-      "explanation": "Bằng cách công nhận tình yêu thương của người mẹ và lắng nghe không phán xét, bác sĩ Gagneur đã giúp tỷ lệ tiêm chủng cho trẻ sơ sinh tăng vọt một cách kỳ diệu."
+      "explanation": "Arnaud không rao giảng hay ép buộc; ông lắng nghe nỗi lo của Marie-Hélène và khẳng định tôn trọng quyền tự quyết của cô. Câu nói tôn vinh thiên chức làm mẹ của cô đã làm tan chảy sự phòng thủ."
     },
     {
       "id": "q3",
-      "question": "Tại sao việc 'Thuyết giảng và đưa ra hàng loạt số liệu y khoa đao to búa lớn' lại khiến những người do dự vắc-xin càng trở nên kiên quyết từ chối?",
+      "question": "Phương pháp 'Phỏng vấn tạo động lực' (Motivational Interviewing) của William Miller và Stephen Rollnick dựa trên triết lý nền tảng nào?",
       "options": [
-        "Vì họ không tin vào trình độ học vấn của các bác sĩ bệnh viện công.",
-        "Vì họ cảm thấy sự tự chủ (Autonomy) và lòng tự trọng của mình bị tấn công; phản xạ tự nhiên của tâm lý phản kháng (Reactance) là chống đối quyết liệt để bảo vệ quyền tự quyết.",
-        "Vì việc tiêm vắc-xin luôn gây ra các tác dụng phụ nguy hiểm chết người.",
-        "Vì các con số y khoa quá phức tạp khiến họ bị đau đầu và mệt mỏi."
+        "Con người là sinh vật thụ động và chỉ thay đổi khi phải đối mặt với các hình thức kỷ luật nghiêm ngặt hoặc áp lực từ xã hội.",
+        "Chuyên gia tham vấn cần phải đóng vai trò người chỉ huy quyết đoán để định hướng từng hành vi cụ thể cho thân chủ của mình.",
+        "Rất khó để ép buộc người khác thay đổi; cách tốt nhất là giữ tấm gương để họ tự khám phá mâu thuẫn nội tại và tìm ra động lực tự thân.",
+        "Mọi hành vi nghiện ngập hay chống đối đều bắt nguồn từ sự thiếu hụt thông tin chính xác về các hậu quả tiêu cực trong tương lai."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi con người cảm thấy bị ép buộc tước mất quyền lựa chọn, họ sẽ lập tức kháng cự; người thuyết phục khôn ngoan luôn tôn trọng quyền tự do quyết định của đối phương."
+      "correctIndex": 2,
+      "explanation": "Miller & Rollnick khởi xướng Phỏng vấn tạo động lực dựa trên tiền đề: Ta không thể áp đặt người khác thay đổi; vai trò của ta là giữ tấm gương để họ tự nhận ra mâu thuẫn nội tâm và tự quyết định đổi thay."
     },
     {
       "id": "q4",
-      "question": "4 nguyên tắc cốt lõi của phương pháp Phỏng vấn tạo động lực (MI) bao gồm những yếu tố nào?",
+      "question": "Ba kỹ thuật mấu chốt cấu thành tiến trình Phỏng vấn tạo động lực bao gồm những yếu tố nào sau đây?",
       "options": [
-        "1. Rao giảng đạo đức -> 2. Kết tội sai lầm -> 3. Bác bỏ ý kiến đối lập -> 4. Tuyên bố chiến thắng.",
-        "1. Im lặng hoàn toàn -> 2. Gật đầu đồng ý -> 3. Không đưa ra lời khuyên -> 4. Rời đi.",
-        "1. Đe dọa trừng phạt -> 2. Hứa hẹn tiền thưởng -> 3. Ép buộc ký cam kết -> 4. Giám sát nghiêm ngặt.",
-        "1. Đặt câu hỏi mở -> 2. Lắng nghe phản ánh thấu cảm -> 3. Khẳng định và củng cố mong muốn thay đổi -> 4. Tóm tắt và hướng dẫn họ tự lập kế hoạch hành động."
+        "Đưa ra lời khuyên chuyên gia, tranh luận logic sắc bén và kiểm tra mức độ tuân thủ quy trình điều trị của thân chủ theo từng tuần.",
+        "Phân tích các lỗi lầm trong quá khứ, đặt câu hỏi đóng kiểm tra kiến thức và yêu cầu thân chủ ký cam kết hành vi trước tập thể.",
+        "Áp dụng liệu pháp sốc tâm lý, cô lập đối tượng khỏi các thói quen tiêu cực và khen thưởng vật chất cho mỗi tiến bộ nhỏ đạt được.",
+        "Đặt những câu hỏi mở gợi suy nghĩ, thực hành lắng nghe có suy ngẫm và khẳng định mong muốn cùng khả năng thay đổi của đối phương."
       ],
       "correctIndex": 3,
-      "explanation": "Đây là quy trình 4 bước giúp người đối thoại tự nhận thức ra mâu thuẫn giữa hành vi hiện tại với giá trị cốt lõi mà họ hằng mong muốn, từ đó tự nguyện chuyển hóa."
+      "explanation": "Ba kỹ thuật cốt lõi của Phỏng vấn tạo động lực là: (1) Đặt câu hỏi mở, (2) Lắng nghe phản chiếu (reflective listening), và (3) Khẳng định mong muốn, năng lực thay đổi của thân chủ."
     },
     {
       "id": "q5",
-      "question": "Hình tượng 'Điều tra viên nhã nhặn' (The Gentle Investigator) trong chương này có phong thái làm việc như thế nào?",
+      "question": "Trong Phỏng vấn tạo động lực, tại sao chuyên gia tâm lý Theresa Moyers lại ví 'Lời nói khuyến khích thay đổi' (Change Talk) như một mối chỉ vàng?",
       "options": [
-        "Luôn luôn ghi âm lén các cuộc trò chuyện để tìm kiếm bằng chứng phạm tội.",
-        "Tiếp cận người đối thoại với sự tò mò chân thành, không thành kiến, coi đối phương như một chuyên gia về chính cuộc đời họ và cùng họ khám phá những giải pháp mới.",
-        "Sử dụng kính lúp và đèn chiếu sáng công suất lớn để tra khảo nghi phạm trong phòng tối.",
-        "Ra lệnh cho đối phương phải trả lời tất cả các câu hỏi trong vòng 5 giây."
+        "Vì đó là manh mối quý giá bộc lộ động lực tự thân của thân chủ, người phỏng vấn chỉ cần nắm bắt và khéo léo kéo sợi chỉ đó lên.",
+        "Vì đó là lời cam kết chắc chắn chứng minh thân chủ đã hoàn toàn từ bỏ thói quen xấu và không bao giờ tái phạm trong tương lai.",
+        "Vì đó là tín hiệu cho thấy người phỏng vấn có thể lập tức chuyển sang chế độ ra lệnh và giao bài tập thực hành cụ thể cho thân chủ.",
+        "Vì nó giúp chuyên gia tiết kiệm được nhiều giờ tham vấn tâm lý đắt đỏ và nhanh chóng kết thúc ca can thiệp một cách mỹ mãn."
       ],
-      "correctIndex": 1,
-      "explanation": "Điều tra viên nhã nhặn không tìm cách bắt tội; họ đóng vai người đồng hành tò mò giúp đối phương tự soi chiếu và khám phá ra những sự thật mới về bản thân."
+      "correctIndex": 0,
+      "explanation": "Change talk phản ánh khao khát thay đổi nội tại. Moyers ví nó như 'mối chỉ vàng': người phỏng vấn tinh tế sẽ nắm lấy mối chỉ này để dẫn dắt thân chủ tự mở rộng lý do muốn đổi thay."
     },
     {
       "id": "q6",
-      "question": "Câu hỏi thần kỳ nào thường được sử dụng trong Phỏng vấn tạo động lực để khơi dậy ngọn lửa thay đổi?",
+      "question": "'Phản xạ muốn sửa cho đúng' (The Righting Reflex) là gì và tại sao người tham vấn giỏi cần phải kiềm chế nó?",
       "options": [
-        "'Bạn có muốn nhận được một khoản tiền thưởng lớn nếu làm theo lời tôi không?'.",
-        "'Bạn có biết rằng nếu không thay đổi bạn sẽ bị xã hội trừng phạt thích đáng không?'.",
-        "'Điều gì là quan trọng nhất đối với bạn trong cuộc sống hiện nay, và hành vi hiện tại đang giúp ích hay cản trở bạn đạt được điều đó như thế nào?'.",
-        "'Tại sao bạn lại có thể ngu ngốc và cứng đầu đến mức như vậy?'."
+        "Là thói quen trì hoãn việc đưa ra chẩn đoán y khoa khiến bệnh nhân cảm thấy hoang mang và đánh mất niềm tin vào bác sĩ điều trị.",
+        "Là thôi thúc bản năng muốn lập tức sửa sai và đưa ra giải pháp cho người khác, nhưng hành động này chỉ kích hoạt sự kháng cự.",
+        "Là xu hướng tự trách bản thân khi không thể thuyết phục được người đối diện từ bỏ những quan niệm sai lầm về mặt khoa học.",
+        "Là phản ứng tự nhiên đòi hỏi mọi việc phải được giải quyết theo quy chuẩn hoàn hảo tuyệt đối mà không chấp nhận sai số."
       ],
-      "correctIndex": 2,
-      "explanation": "Câu hỏi này đặt hành vi sai lầm vào thế đối chiếu với mục tiêu sống cao đẹp của chính họ, tạo ra động lực nội tại mạnh mẽ thúc đẩy sự tái tư duy."
+      "correctIndex": 1,
+      "explanation": "Righting reflex là thói quen vội vã 'chỉnh cho đúng' và nhồi nhét giải pháp. Khi người nghe cảm thấy bị áp đặt và tước quyền tự chủ, phản xạ tự nhiên của họ là cãi lại và giữ nguyên hiện trạng."
     },
     {
       "id": "q7",
-      "question": "Tại sao 'Lắng nghe phản ánh' (Reflective Listening) lại là kỹ năng khó nhất nhưng mang lại hiệu quả chuyển hóa cao nhất?",
+      "question": "Adam Grant đã rút ra bài học xương máu nào từ sự thất bại của buổi tư vấn cho Jeff - CEO công ty công nghệ sinh học?",
       "options": [
-        "Vì kỹ năng này chỉ có thể thực hiện được khi bạn đang ở trạng thái thôi miên sâu.",
-        "Vì nó làm cho người nghe bị mất năng lượng và đau rát cổ họng.",
-        "Vì lắng nghe phản ánh đòi hỏi bạn phải học thuộc lòng các thuật ngữ tâm thần học.",
-        "Nó đòi hỏi bạn phải kìm nén thôi thúc muốn đưa ra lời khuyên hay phán xét, tập trung nắm bắt cảm xúc và diễn giải lại chính xác những gì đối phương đang cảm nhận."
+        "Không nên nhận lời tham vấn cho các nhà khoa học vì họ có cái tôi quá lớn và không bao giờ chịu lắng nghe lời khuyên của người khác.",
+        "Cần phải trực tiếp soạn thảo bản tuyên bố tầm nhìn thay cho CEO để bảo đảm thông điệp được truyền tải một cách hoàn hảo nhất.",
+        "Chỉ giúp thân chủ nhận thức việc cần thay đổi là chưa đủ; cần phải đồng hành giúp họ lên kế hoạch và cách thức triển khai cụ thể.",
+        "Phỏng vấn tạo động lực hoàn toàn không phù hợp để áp dụng trong môi trường kinh doanh khốc liệt như các công ty khởi nghiệp."
       ],
-      "correctIndex": 3,
-      "explanation": "Bản năng của con người là thích đưa ra lời khuyên (Righting Reflex); kìm nén được thôi thúc sửa lưng người khác để lắng nghe thuần khiết là đỉnh cao của sự trưởng thành cảm xúc."
+      "correctIndex": 2,
+      "explanation": "Grant đã giúp Jeff nhận ra sự cần thiết của việc công bố tầm nhìn nhưng bỏ qua bước thảo luận về cách thức thực hiện (How). Kết quả là phần trình bày lúng túng của Jeff khiến công ty bị đóng cửa."
     },
     {
       "id": "q8",
-      "question": "Hiệu ứng 'Thôi thúc muốn sửa chữa sai sót của người khác' (The Righting Reflex) thường dẫn đến hậu quả thảm hại nào trong giao tiếp?",
+      "question": "Kỹ thuật 'Tóm tắt' (Summarizing) ở cuối buổi đối thoại trong Phỏng vấn tạo động lực đóng vai trò quan trọng như thế nào?",
       "options": [
-        "Nó khiến cho người nghe lập tức làm theo 100% lời khuyên của bạn.",
-        "Khi bạn nhảy vào chỉnh đốn và bảo người khác phải làm gì, họ sẽ tự động lùi lại, tìm kiếm mọi lý lẽ để biện hộ cho hành vi cũ và càng bám chặt vào cái sai hơn.",
-        "Nó giúp bạn trở thành chuyên gia tư vấn được trả thù lao cao nhất.",
-        "Nó làm tăng huyết áp của người nói lên mức nguy hiểm."
+        "Giúp người phỏng vấn chấm điểm mức độ hợp tác của thân chủ và ghi chép hồ sơ bệnh án theo đúng tiêu chuẩn hành nghề y tế.",
+        "Buộc đối phương phải thừa nhận những mâu thuẫn logic trong lập luận của họ để không thể tiếp tục bào chữa cho sự trì trệ.",
+        "Cho phép người phỏng vấn đưa ra những kết luận đanh thép nhằm khẳng định uy quyền học thuật và kinh nghiệm chuyên môn của mình.",
+        "Hệ thống lại các lý do thay đổi của thân chủ, kiểm tra độ thấu hiểu và mở đường cho việc bàn bạc các bước hành động tiếp theo."
       ],
-      "correctIndex": 1,
-      "explanation": "Càng ép buộc sửa sai, đối phương càng phản kháng; muốn người khác thay đổi, hãy ngừng bảo họ phải làm gì và bắt đầu lắng nghe họ nhiều hơn."
+      "correctIndex": 3,
+      "explanation": "Tóm tắt giúp phản ánh lại bức tranh toàn cảnh về mong muốn thay đổi của đối phương, xác nhận không hiểu sai ý và tạo cầu nối tự nhiên để chuyển sang lập kế hoạch hành động cụ thể."
     },
     {
       "id": "q9",
-      "question": "Trong trường hợp người đối thoại hoàn toàn chưa sẵn sàng thay đổi (giai đoạn tiền suy ngẫm), thái độ đúng đắn của người dẫn dắt là gì?",
+      "question": "Nhà đàm phán hòa bình Betty Bigombe đã áp dụng nghệ thuật lắng nghe như thế nào để tiếp cận thủ lĩnh phiến quân Joseph Kony?",
       "options": [
-        "Nhờ công an địa phương can thiệp cưỡng chế thay đổi hành vi.",
-        "Ép buộc họ phải ký giấy cam kết thay đổi trong vòng 24 giờ tới.",
-        "Tôn trọng sự chưa sẵn sàng của họ, gieo một hạt giống câu hỏi mở để họ tự chiêm nghiệm và giữ cho cánh cửa đối thoại luôn rộng mở trong tương lai.",
-        "Mắng mỏ và cắt đứt quan hệ ngay lập tức vì họ là người vô vọng."
+        "Bà kiên nhẫn ngồi hàng giờ bên đống lửa ở các trại tị nạn, lắng nghe mọi uất ức mà không phán xét, khiến họ coi bà như người mẹ.",
+        "Bà đe dọa sử dụng sức mạnh quân sự kết hợp với các lệnh trừng phạt kinh tế khốc liệt để buộc lực lượng phiến quân phải đầu hàng.",
+        "Bà tổ chức các buổi hội thảo truyền thông rầm rộ nhằm vạch trần tội ác chiến tranh của phiến quân trước sự chứng kiến quốc tế.",
+        "Bà hứa hẹn trao các đặc quyền chính trị và tài chính khổng lồ cho các chỉ huy phiến quân nếu họ đồng ý tham gia đàm phán."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự chuyển hóa cần thời gian chín muồi; một câu hỏi gieo đúng lúc sẽ âm thầm nảy mầm trong tâm trí họ cho đến một ngày họ tự mình quay lại tìm câu trả lời."
+      "correctIndex": 0,
+      "explanation": "Betty Bigombe đến các trại tị nạn với sự khiêm nhường: 'Tôi không đến để giáo huấn, tôi đến để lắng nghe'. Sự tận tâm không phán xét giúp bà chiếm trọn lòng tin của người dân và thủ lĩnh phiến quân."
     },
     {
       "id": "q10",
-      "question": "Tại sao việc 'Tôn trọng quyền tự quyết' (Autonomy Support) lại là bí mật tối thượng giúp con người từ bỏ các thói quen nghiện ngập độc hại?",
+      "question": "Khái niệm 'Sức hút nghịch đảo' (Inverse Charisma) được dùng để mô tả phẩm chất độc đáo nào của một người lắng nghe tuyệt vời?",
       "options": [
-        "Vì quyền tự quyết giúp họ không phải chi trả tiền viện phí điều trị.",
-        "Khi con người cảm nhận rằng quyết định thay đổi là do CHÍNH HỌ LỰA CHỌN tự do chứ không phải do ai ép buộc, họ sẽ có trách nhiệm và cam kết kiên trì đến cùng.",
-        "Vì người nghiện rượu luôn có khả năng tự chữa lành mà không cần bác sĩ.",
-        "Vì luật pháp quốc tế nghiêm cấm việc điều trị cai nghiện bắt buộc."
+        "Khả năng thao túng tâm lý đám đông bằng những ngôn từ hoa mỹ và phong thái đĩnh đạc của một chính trị gia dày dạn kinh nghiệm.",
+        "Khả năng tạo ra sự chú tâm sâu sắc đến mức khiến người đối thoại cảm thấy bản thân họ mới là người thông minh và đầy thấu cảm.",
+        "Sự tự tin thái quá của một diễn giả có khả năng áp đặt quan điểm cá nhân lên toàn bộ hội trường mà không ai dám phản bác.",
+        "Năng lực ghi nhớ chính xác từng chi tiết kỹ thuật phức tạp trong lời nói của đối phương để sau đó sử dụng làm vũ khí phản biện."
       ],
       "correctIndex": 1,
-      "explanation": "Động lực nội sinh (Intrinsic Motivation) là động lực bền vững duy nhất; con người chỉ thực sự thay đổi khi họ muốn thay đổi vì chính cuộc đời của họ."
+      "explanation": "Sức hút thông thường làm ta thấy người nói lôi cuốn; 'sức hút nghịch đảo' (inverse charisma) là năng lực lắng nghe tận tụy khiến người đang nói cảm thấy họ thông minh, sâu sắc và bộc lộ phiên bản tốt nhất."
     },
     {
       "id": "q11",
-      "question": "Bài học từ việc áp dụng Phỏng vấn tạo động lực trong quản trị doanh nghiệp và lãnh đạo đội ngũ là gì?",
+      "question": "Tại sao việc 'Khẳng định quyền tự quyết' (Autonomy Support) lại là chìa khóa vàng giúp hóa giải sự phòng thủ tâm lý?",
       "options": [
-        "Áp dụng hình phạt trừ lương đối với những nhân viên không chịu lắng nghe sếp.",
-        "Lãnh đạo không cần phải tham gia vào bất kỳ cuộc họp hay đối thoại nào với nhân viên.",
-        "Nhà lãnh đạo nên để nhân viên tự do làm bất cứ điều gì họ thích mà không cần chỉ tiêu.",
-        "Thay vì ra lệnh áp đặt chỉ tiêu từ trên xuống, nhà lãnh đạo xuất sắc đặt câu hỏi khơi gợi để nhân viên tự mình nhìn thấy vấn đề và tự đề xuất giải pháp đột phá."
+        "Vì nó giúp người phỏng vấn hoàn toàn thoái thác trách nhiệm nếu các quyết định sau đó của đối phương dẫn đến những hậu quả xấu.",
+        "Vì con người chỉ đồng ý làm việc chăm chỉ hơn khi họ được ban lãnh đạo giao phó những nhiệm vụ có tính chất sống còn đối với công ty.",
+        "Vì khi không cảm thấy bị kiểm soát hay tước đoạt tự do lựa chọn, con người mới có đủ sự thoải mái tâm lý để tự nguyện thay đổi.",
+        "Vì quyền tự quyết là một khái niệm triết học trừu tượng buộc đối phương phải suy nghĩ nghiêm túc về nghĩa vụ công dân của họ."
       ],
-      "correctIndex": 3,
-      "explanation": "Nhân viên sẽ cam kết 100% với những kế hoạch mà họ tham gia kiến tạo; lãnh đạo bằng câu hỏi là nghệ thuật giải phóng tiềm năng sáng tạo của tập thể."
+      "correctIndex": 2,
+      "explanation": "Khi bị ra lệnh, con người chống đối để bảo vệ tự do (hiện tượng phản kháng tâm lý). Nhắc nhở rằng họ có toàn quyền quyết định sẽ loại bỏ áp lực và mở đường cho sự tự tái tư duy chân thành."
     },
     {
       "id": "q12",
-      "question": "Kỹ thuật 'Tóm tắt hai mặt mâu thuẫn' (Summarizing Ambivalence) được thực hiện như thế nào trong đối thoại?",
+      "question": "Cảnh báo quan trọng nhất của Miller và Rollnick khi áp dụng Phỏng vấn tạo động lực trong cuộc sống là gì?",
       "options": [
-        "Ghi âm lại cuộc nói chuyện và phát lại trên loa phóng thanh của công ty.",
-        "Chỉ nhắc lại những điểm tiêu cực và bỏ qua toàn bộ những điểm tích cực của đối phương.",
-        "Yêu cầu đối phương phải viết bản kiểm điểm tự phê bình dài 10 trang giấy.",
-        "'Một mặt bạn cảm thấy rất thoải mái với thói quen cũ, nhưng mặt khác bạn cũng rất lo lắng về sức khỏe tương lai của con mình...'; giúp họ tự nhìn rõ sự giằng xé nội tâm."
+        "Phương pháp này chỉ nên được thực hiện bởi các bác sĩ tâm thần được cấp chứng chỉ hành nghề chính thức của chính phủ liên bang.",
+        "Không được áp dụng kỹ thuật này cho trẻ em dưới mười tám tuổi vì não bộ của chúng chưa hoàn thiện khả năng tư duy phản biện.",
+        "Thời gian của mỗi buổi phỏng vấn bắt buộc phải kéo dài ít nhất ba tiếng đồng hồ liên tục thì mới phát huy được tác dụng thực tế.",
+        "Tuyệt đối không được biến nó thành công cụ thao túng tâm lý; mục đích phải thực sự chân thành vì lợi ích cao nhất của đối phương."
       ],
       "correctIndex": 3,
-      "explanation": "Phản ánh trung thực sự giằng xé nội tâm mà không phán xét giúp đối phương tự nhận ra rằng họ không thể tiếp tục đứng mãi ở ngã ba đường mâu thuẫn này nữa."
+      "explanation": "Phỏng vấn tạo động lực phải xuất phát từ mong muốn chân thành giúp đỡ đối phương. Nếu bị biến thành chiêu trò thao túng hay lừa gạt, người nghe sẽ nhận ra ngay và dựng rào cản phòng vệ kiên cố."
     },
     {
       "id": "q13",
-      "question": "Tại sao một người mẹ do dự vắc-xin sau khi được bác sĩ Arnaud Gagneur lắng nghe lại rơi nước mắt và tự nguyện đồng ý tiêm chủng cho con?",
+      "question": "Kết quả nghiên cứu thực nghiệm của bác sĩ Arnaud Gagneur tại các nhà hộ sản ở Quebec cho thấy tác động ấn tượng nào?",
       "options": [
-        "Vì bà đã hoàn toàn mất trí nhớ sau một ca phẫu thuật gây mê.",
-        "Vì bà sợ bị cảnh sát bắt giữ nếu tiếp tục từ chối tiêm vắc-xin cho con.",
-        "Vì bệnh viện thông báo sẽ tặng quà miễn phí cho những đứa trẻ tiêm chủng sớm.",
-        "Vì đây là lần đầu tiên có một bác sĩ thực sự tôn trọng, lắng nghe nỗi sợ hãi của bà mà không phán xét bà là người mẹ tồi tệ, giúp bà cởi bỏ gánh nặng phòng vệ."
+        "Tỷ lệ các bà mẹ đồng ý tiêm chủng đầy đủ cho con trong hai năm tiếp theo tăng đáng kể chỉ sau một buổi phỏng vấn duy nhất tại viện.",
+        "Toàn bộ người dân trong tỉnh Quebec đã lập tức xóa bỏ mọi phong trào chống vắc-xin chỉ trong vòng vài tuần sau khi triển khai dự án.",
+        "Các bệnh viện đã có thể sa thải bớt nhân sự y tế nhờ vào việc người dân tự động đăng ký tiêm chủng qua hệ thống phần mềm trực tuyến.",
+        "Chính quyền bang đã tiết kiệm được hàng tỷ đô-la chi phí y tế nhờ vào việc hủy bỏ hoàn toàn các chương trình quảng cáo truyền thống."
       ],
-      "correctIndex": 3,
-      "explanation": "Sự thấu cảm chữa lành sự sợ hãi; khi người mẹ cảm thấy tình yêu thương của mình dành cho con được công nhận, bà sẽ mở lòng đón nhận những kiến thức khoa học bảo vệ con."
+      "correctIndex": 0,
+      "explanation": "Nghiên cứu của Arnaud cho thấy chỉ sau một buổi phỏng vấn tạo động lực tại nhà hộ sản, tỷ lệ trẻ được tiêm ngừa đầy đủ trong 2 năm tiếp theo tăng thêm 9% - một bước chuyển biến hành vi lâu dài ấn tượng."
     },
     {
       "id": "q14",
-      "question": "Làm thế nào để áp dụng Phỏng vấn tạo động lực để giúp một người bạn thân từ bỏ thói quen trì hoãn?",
+      "question": "Nghịch lý tâm lý nào sau đây được ghi nhận phổ biến trong việc đánh giá kỹ năng lắng nghe của các nhà quản lý nơi công sở?",
       "options": [
-        "Cắt đứt tình bạn cho đến khi họ trở thành một người chăm chỉ.",
-        "Làm thay toàn bộ công việc cho họ để họ có thời gian nghỉ ngơi.",
-        "Liên tục mắng mỏ và nhắc nhở họ về sự lười biếng mỗi ngày.",
-        "Hỏi họ về ước mơ lớn nhất của họ, nhẹ nhàng hỏi thói quen trì hoãn đang cản trở ước mơ đó ra sao, và hỏi họ muốn thực hiện bước đi nhỏ bé nào đầu tiên ngay hôm nay."
+        "Hầu hết các nhà lãnh đạo đều thừa nhận mình lắng nghe rất kém nhưng lại kiên quyết từ chối tham gia các khóa đào tạo giao tiếp.",
+        "Có đến 94% các nhà quản lý bị cấp dưới đánh giá là kém lắng nghe lại tự chấm điểm bản thân có kỹ năng lắng nghe tốt hoặc rất tốt.",
+        "Những người có khả năng nói chuyện lưu loát nhất luôn là những người có thói quen kiên nhẫn lắng nghe tâm sự của nhân viên cấp dưới.",
+        "Nhân viên cấp dưới thường có xu hướng đánh giá cao kỹ năng lắng nghe của những vị sếp có tính cách độc đoán và hay lớn tiếng."
       ],
-      "correctIndex": 3,
-      "explanation": "Đừng làm cảnh sát đạo đức; hãy là chiếc gương soi dịu dàng giúp bạn của bạn tự nhìn thấy khoảng cách giữa con người hiện tại và con người vĩ đại mà họ khao khát trở thành."
+      "correctIndex": 1,
+      "explanation": "Một minh họa điển hình của hiệu ứng Dunning-Kruger: 94% nhà quản lý bị nhân viên phàn nàn là không biết lắng nghe lại tự chấm điểm mình có kỹ năng lắng nghe từ mức tốt đến rất tốt."
     },
     {
       "id": "q15",
-      "question": "Thông điệp đắt giá nhất của Chương 7 về nghệ thuật mở khóa tâm trí người khác là gì?",
+      "question": "Thông điệp sâu sắc nhất của Chương 7 về nghệ thuật lắng nghe và khai mở tâm trí người khác là gì?",
       "options": [
-        "'Mọi nỗ lực thuyết phục người khác đều là vô ích và không nên lãng phí thời gian'.",
-        "'Hãy sử dụng quyền lực và vị thế xã hội để ép buộc người khác phải tuân lệnh'.",
-        "'Số liệu khoa học là công cụ duy nhất có khả năng thay đổi niềm tin của con người'.",
-        "'Bạn không thể thay đổi suy nghĩ của người khác bằng sự tranh cãi gay gắt; bạn chỉ có thể giúp họ tự tìm thấy động lực và lý do để tự thay đổi chính mình bằng sự lắng nghe và thấu cảm!'."
+        "Lắng nghe là một chiến thuật đàm phán tạm thời nhằm thu thập các điểm yếu của đối thủ để chuẩn bị cho đòn phản công quyết định.",
+        "Cách duy nhất để thay đổi hành vi của người khác là sử dụng quyền lực tổ chức kết hợp với các biện pháp chế tài kinh tế nghiêm khắc.",
+        "Lắng nghe chân thành là trao tặng sự chú tâm; giúp người khác tự cất tiếng nói là cách hiệu quả nhất để họ tự thuyết phục chính mình.",
+        "Một chuyên gia giỏi là người luôn có sẵn câu trả lời cho mọi vấn đề và không cần lãng phí thời gian để hỏi han cảm xúc của người nghe."
       ],
-      "correctIndex": 3,
-      "explanation": "Sức mạnh chuyển hóa con người không nằm ở sự áp đặt từ bên ngoài mà nằm ở sự thức tỉnh từ bên trong; hãy là người thắp lên ngọn lửa tự nhận thức trong tim tha nhân."
+      "correctIndex": 2,
+      "explanation": "Lắng nghe chân thành là món quà vô giá của sự chú tâm. Ta không thể áp đặt sự thay đổi; khi được lắng nghe với sự tôn trọng và thấu cảm, con người sẽ tự tìm thấy động lực để tái tư duy và đổi thay."
     }
   ]
 }

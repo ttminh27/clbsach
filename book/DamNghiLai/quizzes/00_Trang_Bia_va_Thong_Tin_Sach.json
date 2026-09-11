@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Phụ đề của cuốn sách 'Sức mạnh của việc biết mình không biết' (The Power of Knowing What You Don’t Know) mang ý nghĩa cốt lõi gì?",
+      "question": "Phụ đề \"Sức mạnh của việc biết mình không biết\" (The Power of Knowing What You Don’t Know) mang thông điệp cốt lõi nào?",
       "options": [
-        "Chứng minh rằng kiến thức khoa học hoàn toàn vô dụng trong cuộc sống hiện đại.",
-        "Sự thông thái thực sự bắt đầu từ việc nhận thức được giới hạn của tri thức hiện tại và mở rộng tâm trí để liên tục học hỏi và cập nhật quan điểm.",
-        "Lời khuyên con người không nên học hành nhiều để giữ cho đầu óc luôn trống rỗng.",
-        "Khẳng định rằng những người không có bằng cấp luôn thành công hơn những người có học vấn."
+        "Khả năng nhận thức rõ giới hạn tri thức để mở rộng tâm trí, sẵn sàng hoài nghi và liên tục cập nhật góc nhìn mới.",
+        "Tầm quan trọng của việc tích lũy tri thức chuyên sâu nhằm củng cố các luận điểm vững chắc và chiếm ưu thế khi tranh biện.",
+        "Khuyến nghị con người nên từ bỏ tư duy duy lý để hoàn toàn đặt trọn niềm tin vào linh cảm trực giác trước biến động lớn.",
+        "Xác quyết rằng sự tự tin kiên định vào vốn hiểu biết sẵn có là nền tảng vững chắc nhất đem lại thành công bền vững."
       ],
-      "correctIndex": 1,
-      "explanation": "Adam Grant khẳng định: Trong một thế giới thay đổi chóng mặt, năng lực quan trọng nhất không phải là bạn biết bao nhiêu, mà là khả năng nhận ra những gì bạn chưa biết để tái tư duy."
+      "correctIndex": 0,
+      "explanation": "Adam Grant khẳng định: Trong một thế giới thay đổi chóng mặt, năng lực quan trọng nhất không phải là biết bao nhiêu, mà là nhận ra những gì mình chưa biết để chủ động tái tư duy."
     },
     {
       "id": "q2",
-      "question": "Tại sao tác giả Adam Grant lại xem 'Khả năng từ bỏ những kiến thức cũ' (Unlearning) quan trọng không kém việc tiếp thu kiến thức mới?",
+      "question": "Tại sao Adam Grant lại xem \"năng lực từ bỏ những điều đã học\" (unlearning) có vai trò sống còn trong thời đại biến động?",
       "options": [
-        "Bởi vì các trường đại học yêu cầu sinh viên phải quên hết kiến thức phổ thông trước khi nhập học.",
-        "Bởi vì kiến thức cũ lỗi thời có thể trở thành những mảng vôi hóa tư duy, giam cầm con người trong những giả định sai lầm và ngăn cản sự tiến bộ.",
-        "Bởi vì bộ não con người có dung lượng lưu trữ rất nhỏ và cần xóa dữ liệu cũ để tránh quá tải.",
-        "Để người đọc phải mua thêm nhiều cuốn sách mới mỗi năm."
+        "Vì khối lượng dữ liệu mới bùng nổ theo cấp số nhân khiến não bộ buộc phải chủ động giải phóng bớt ký ức cũ để duy trì hiệu suất.",
+        "Vì kiến thức cũ lỗi thời dễ tạo thành mảng tư duy xơ cứng, giam cầm con người trong định kiến và cản trở sự thích ứng linh hoạt.",
+        "Vì việc chủ động quên đi toàn bộ thành tựu trong quá khứ là tiền đề bắt buộc giúp kích hoạt trạng thái sáng tạo đột phá ở mỗi cá nhân.",
+        "Vì tri thức chuyên môn sâu thường gây cản trở và khiến con người mất đi sự nhạy bén tự nhiên trước các vấn đề thực tiễn đa dạng."
       ],
       "correctIndex": 1,
-      "explanation": "Lời nguyền của sự hiểu biết cũ là nó tạo ra sự xác tín giả tạo; nếu không biết 'học cách quên đi cái cũ' (unlearn), bạn sẽ không thể tái cấu trúc tư duy phù hợp với thực tế mới."
+      "explanation": "Lời nguyền của kiến thức cũ là nó tạo ra sự xác tín giả tạo; nếu không học cách từ bỏ cái cũ (unlearn), con người sẽ bị mắc kẹt trong những mảng vôi hóa nhận thức."
     },
     {
       "id": "q3",
-      "question": "Khái niệm 'Tái tư duy' (Rethinking) được định nghĩa xuyên suốt cuốn sách là gì?",
+      "question": "Khái niệm \"Tái tư duy\" (Rethinking) được tác giả định nghĩa xuyên suốt cuốn sách là gì?",
       "options": [
-        "Một bộ kỹ năng và lối sống chủ động: Liên tục chất vấn các niềm tin của mình, tìm kiếm bằng chứng phản biện và dũng cảm thay đổi suy nghĩ khi đối diện sự thật.",
-        "Phương pháp đàm phán nhằm mục đích làm rối loạn tư duy của đối thủ cạnh tranh.",
-        "Một căn bệnh tâm lý khiến con người mất khả năng ghi nhớ các quyết định trong quá khứ.",
-        "Hành động do dự, thiếu quyết đoán và liên tục thay đổi ý kiến tùy theo số đông."
+        "Nghệ thuật khéo léo biến chuyển lập trường để tìm kiếm sự đồng thuận từ số đông và duy trì các mối quan hệ xã hội luôn hòa thuận.",
+        "Kỹ năng điều chỉnh linh hoạt các lập luận hùng biện nhằm mục đích thuyết phục và dẫn dắt đối phương chấp nhận quan điểm của mình.",
+        "Thói quen chủ động chất vấn niềm tin của bản thân, đón nhận dữ liệu mới và dũng cảm hiệu chỉnh suy nghĩ trước sự thật khách quan.",
+        "Trạng thái thận trọng cân nhắc kỹ lưỡng mọi khía cạnh của vấn đề trước khi đưa ra quyết định cuối cùng để triệt tiêu rủi ro sai sót."
       ],
-      "correctIndex": 0,
-      "explanation": "Tái tư duy không phải là sự yếu đuối hay ba phải; đó là biểu hiện cao nhất của sự chính trực về trí tuệ và lòng can đảm theo đuổi chân lý khách quan."
+      "correctIndex": 2,
+      "explanation": "Tái tư duy không phải là sự do dự hay thiếu kiên định; đó là lòng dũng cảm theo đuổi chân lý khách quan và sẵn sàng hiệu chỉnh niềm tin khi có bằng chứng mới."
     },
     {
       "id": "q4",
-      "question": "Adam Grant thuộc nhóm chuyên gia hàng đầu trong lĩnh vực nào tại trường Kinh doanh Wharton?",
+      "question": "Adam Grant hiện là giáo sư chuyên nghiên cứu và giảng dạy lĩnh vực nào tại Trường Kinh doanh Wharton?",
       "options": [
-        "Luật hình sự và tranh tụng quốc tế.",
-        "Tâm lý học tổ chức và hành vi con người (Organizational Psychology).",
-        "Phân tích tài chính phái sinh và đầu tư bất động sản.",
-        "Kỹ thuật công nghệ vũ trụ và hàng không học."
+        "Phân tích chiến lược đầu tư tài chính mạo hiểm và dự báo các chu kỳ biến động của thị trường chứng khoán quốc tế trong tương lai.",
+        "Khoa học dữ liệu hành vi người tiêu dùng và các giải pháp tối ưu hóa trải nghiệm khách hàng trong nền kinh tế số đầy cạnh tranh.",
+        "Quản trị quan hệ quốc tế, giải quyết khủng hoảng ngoại giao và thương lượng các hiệp định hợp tác kinh tế đa phương xuyên quốc gia.",
+        "Tâm lý học tổ chức và hành vi con người, chuyên sâu về động lực làm việc, sự sáng tạo và văn hóa tư duy cởi mở trong tập thể."
       ],
-      "correctIndex": 1,
-      "explanation": "Adam Grant là giáo sư tâm lý học tổ chức hàng đầu tại Wharton, chuyên nghiên cứu về động lực làm việc, sự sáng tạo và văn hóa tư duy cởi mở."
+      "correctIndex": 3,
+      "explanation": "Adam Grant là giáo sư tâm lý học tổ chức hàng đầu tại Wharton, chuyên nghiên cứu về động lực làm việc, văn hóa cởi mở và phương pháp quản trị dựa trên chứng cứ."
     },
     {
       "id": "q5",
-      "question": "Tại sao việc 'Được dịch và phát hành tại Việt Nam' của cuốn sách 'Dám Nghĩ Lại' lại nhận được sự quan tâm lớn từ giới trẻ và doanh nghiệp?",
+      "question": "Theo thông tin xuất bản, đơn vị nào nắm giữ bản quyền xuất bản ấn bản tiếng Việt của tác phẩm \"Dám Nghĩ Lại\"?",
       "options": [
-        "Vì cuốn sách hướng dẫn cách đầu tư tiền ảo sinh lời nhanh nhất.",
-        "Vì cuốn sách cung cấp công cụ tư duy phản biện thiết yếu giúp thích ứng với sự biến đổi kinh tế, chuyển đổi số và những định kiến xã hội cũ.",
-        "Vì cuốn sách chứa đựng các bài kiểm tra trắc nghiệm tuyển dụng bắt buộc của các tập đoàn đa quốc gia.",
-        "Vì đây là tác phẩm văn học viễn tưởng đầu tiên được xuất bản song ngữ."
+        "Công ty Văn hóa Sáng tạo Trí Việt – First News, theo thỏa thuận hợp đồng chuyển giao bản quyền thông qua Inkwell Management LLC.",
+        "Nhà xuất bản Trẻ, phối hợp cùng các học giả viện nghiên cứu giáo dục và tâm lý học hành vi thuộc Đại học Quốc gia Thành phố Hồ Chí Minh.",
+        "Nhà xuất bản Tổng hợp Thành phố Hồ Chí Minh, thông qua chương trình hợp tác giao lưu văn hóa xuất bản quốc tế giữa các hiệp hội sách.",
+        "Công ty Cổ phần Sách Alpha Books, liên kết với Hội đồng Khoa học Xã hội Hoa Kỳ để chuyển ngữ và phát hành rộng rãi tại thị trường Việt Nam."
       ],
-      "correctIndex": 1,
-      "explanation": "Trong bối cảnh biến đổi nhanh chóng của kỷ nguyên số, năng lực tái tư duy và linh hoạt nhận thức là chìa khóa sống còn cho cả cá nhân lẫn tổ chức tại Việt Nam."
+      "correctIndex": 0,
+      "explanation": "Ấn bản tiếng Việt của tác phẩm do First News - Trí Việt giữ bản quyền xuất bản và phát hành theo hợp đồng chuyển giao với tác giả thông qua Inkwell Management LLC."
     },
     {
       "id": "q6",
-      "question": "Thông điệp về '3 cấp độ tái tư duy' được giới thiệu trong cấu trúc tác phẩm bao gồm những cấp độ nào?",
+      "question": "Cấu trúc tác phẩm \"Dám Nghĩ Lại\" được phân chia thành 3 phần chính phản ánh 3 cấp độ tái tư duy nào?",
       "options": [
-        "Tái tư duy cấp độ gia đình -> Cấp độ công ty -> Cấp độ quốc tế.",
-        "Tái tư duy cá nhân (Cập nhật quan điểm bản thân) -> Tái tư duy liên cá nhân (Mở khóa tâm trí người khác) -> Tái tư duy tập thể (Xây dựng cộng đồng học tập suốt đời).",
-        "Tái tư duy quá khứ -> Tái tư duy hiện tại -> Tái tư duy tương lai.",
-        "Tái tư duy tài chính -> Tái tư duy sức khỏe -> Tái tư duy công nghệ."
+        "Tái tư duy trong quá khứ nhằm đúc kết bài học -> Tái tư duy hiện tại để hành động -> Tái tư duy tương lai để hoạch định chiến lược phát triển.",
+        "Tái tư duy cá nhân (cập nhật quan điểm bản thân) -> Tái tư duy liên cá nhân (mở khóa tâm trí người khác) -> Tái tư duy tập thể trong tổ chức.",
+        "Tái tư duy cấp độ gia đình và người thân -> Tái tư duy môi trường công sở đồng nghiệp -> Tái tư duy thể chế xã hội và văn hóa cộng đồng quốc gia.",
+        "Tái tư duy tài chính cá nhân -> Tái tư duy sự nghiệp chuyên môn -> Tái tư duy các giá trị triết lý và thế giới quan cuộc sống của mỗi con người."
       ],
       "correctIndex": 1,
-      "explanation": "Tác phẩm đi từ việc làm chủ tư duy của chính mình, nghệ thuật đối thoại thuyết phục người khác, đến việc kiến tạo văn hóa học hỏi trong tổ chức và xã hội."
+      "explanation": "Sách dẫn dắt người đọc qua 3 cấp độ phát triển: làm chủ tư duy cá nhân, mở khóa đối thoại liên cá nhân và kiến tạo văn hóa học hỏi tập thể trong tổ chức."
     },
     {
       "id": "q7",
-      "question": "Sự khác biệt lớn nhất giữa một người có 'Tư duy đóng' (Fixed/Closed Mindset) và người thực hành 'Tái tư duy' là gì?",
+      "question": "Điểm khác biệt căn bản giữa người có \"tư duy đóng\" và người thực hành \"tái tư duy\" khi đối diện với dữ liệu mới là gì?",
       "options": [
-        "Người tư duy đóng luôn có chỉ số IQ cao hơn người tái tư duy.",
-        "Người tái tư duy không bao giờ có bất kỳ niềm tin hay nguyên tắc sống nào.",
-        "Người tư duy đóng xem việc thay đổi ý kiến là thất bại hay phản bội lý tưởng; người tái tư duy xem việc thay đổi ý kiến khi có dữ liệu mới là dấu hiệu của sự trưởng thành.",
-        "Người tư duy đóng chỉ làm việc trong các cơ quan nhà nước."
+        "Người tư duy đóng chỉ chú trọng mục tiêu ngắn hạn, trong khi người tái tư duy luôn ưu tiên xây dựng tầm nhìn chiến lược dài hạn cho tập thể.",
+        "Người tư duy đóng có khả năng phản biện sắc bén hơn nhưng lại thiếu lòng kiên nhẫn khi phải làm việc nhóm với người có quan điểm bất đồng.",
+        "Người tư duy đóng coi thay đổi ý kiến là thất bại danh dự; người tái tư duy xem việc hiệu chỉnh quan điểm là dấu hiệu của sự trưởng thành.",
+        "Người tư duy đóng dễ dao động trước sức ép dư luận xã hội, trong khi người tái tư duy tuyệt đối bảo vệ lập trường của bản thân đến cùng."
       ],
       "correctIndex": 2,
-      "explanation": "Với người thực hành tái tư duy, mục tiêu tối thượng là tìm ra sự thật chứ không phải chứng minh rằng cái tôi của mình luôn luôn đúng."
+      "explanation": "Người thực hành tái tư duy không gắn chặt cái tôi với niềm tin ban đầu, họ trân trọng sự thật khách quan hơn việc cố chứng minh bản thân luôn đúng."
     },
     {
       "id": "q8",
-      "question": "Tại sao cuốn sách lại nhấn mạnh việc 'Tách rời cái tôi (Ego) khỏi các ý kiến và niềm tin (Beliefs)'?",
+      "question": "Vì sao tác giả nhấn mạnh sự cần thiết của việc \"tách rời bản ngã (cái tôi) khỏi các ý kiến và niềm tin\"?",
       "options": [
-        "Để bạn có thể thoải mái vi phạm pháp luật mà không cảm thấy có lỗi.",
-        "Tách rời cái tôi giúp bạn không cần phải chịu trách nhiệm về lời nói của mình.",
-        "Để người khác không thể nhận diện được danh tính thực sự của bạn.",
-        "Khi bạn không đồng nhất bản thân với các quan điểm của mình, việc phát hiện ra mình sai sẽ không làm tổn thương lòng tự trọng, mà trở thành niềm vui được học hỏi."
+        "Nhằm giúp cá nhân dễ dàng thỏa hiệp với yêu cầu của cấp trên để đạt được sự thăng tiến ổn định trong môi trường làm việc nhiều cạnh tranh.",
+        "Nhằm loại bỏ hoàn toàn các cảm xúc cá nhân, biến con người thành cỗ máy duy lý thuần túy khi đưa ra mọi quyết sách kinh doanh phức tạp.",
+        "Nhằm giảm bớt trách nhiệm cá nhân đối với những sai sót do các dự án tập thể gây ra, từ đó bảo vệ danh tiếng nghề nghiệp của chính mình.",
+        "Vì khi không đồng nhất bản thân với quan điểm, việc phát hiện sai sót sẽ không làm tổn thương lòng tự trọng mà trở thành cơ hội học hỏi mới."
       ],
       "correctIndex": 3,
-      "explanation": "Nếu niềm tin là danh tính của bạn, bất kỳ sự phản biện nào cũng là mối đe dọa sinh tử; nhưng nếu bạn định nghĩa mình là 'người luôn tò mò học hỏi', việc sửa sai là một niềm vinh hạnh."
+      "explanation": "Nếu xem ý kiến là danh tính, sự phản biện sẽ bị coi là mối đe dọa sinh tử; nhưng nếu xem mình là người luôn học hỏi, việc sửa sai sẽ trở thành niềm vui."
     },
     {
       "id": "q9",
-      "question": "Cảnh báo của Adam Grant về 'Sự gia tăng theo cấp số nhân của thông tin nhưng lại giảm sút về chiều sâu nhận thức' phản ánh thực trạng nào?",
+      "question": "Adam Grant cảnh báo nghịch lý nào về sự phát triển nhận thức của con người trong kỷ nguyên bùng nổ thông tin?",
       "options": [
-        "Bộ não con người đang bị teo nhỏ dần theo thời gian do bức xạ điện thoại.",
-        "Học sinh ngày nay không còn khả năng đọc các văn bản dài hơn 2 trang.",
-        "Các thư viện sách giấy trên thế giới sắp bị phá hủy hoàn toàn.",
-        "Con người ngày càng tiêu thụ nhiều thông tin nhanh trên mạng nhưng lại dễ bị thao túng bởi các thiên kiến xác nhận và các thuật toán phân cực xã hội."
+        "Khối lượng dữ liệu tiếp cận tăng theo cấp số nhân nhưng chiều sâu tư duy và mức độ cởi mở trước quan điểm trái chiều lại có xu hướng suy giảm.",
+        "Năng lực tiếp thu công nghệ của giới trẻ vượt xa thế hệ đi trước nhưng kỹ năng giao tiếp ứng xử trong thực tế đời sống lại ngày một thụt lùi.",
+        "Sự phụ thuộc vào các thuật toán mạng xã hội khiến con người mất dần phản xạ tư duy độc lập và suy giảm khả năng ghi nhớ thông tin cơ bản.",
+        "Các công cụ tìm kiếm trực tuyến mang lại câu trả lời tức thì khiến cho khả năng kiên trì giải quyết các vấn đề học thuật phức tạp bị xói mòn."
       ],
-      "correctIndex": 3,
-      "explanation": "Nhiều thông tin hơn không đồng nghĩa với thông thái hơn; nếu không có năng lực tái tư duy phản biện, chúng ta chỉ càng củng cố thêm những định kiến có sẵn."
+      "correctIndex": 0,
+      "explanation": "Nhiều thông tin hơn không tự động mang lại sự thông thái; nếu thiếu năng lực tái tư duy phản biện, chúng ta chỉ càng củng cố thêm các thiên kiến có sẵn."
     },
     {
       "id": "q10",
-      "question": "Tại sao cuốn sách lại được ví như một 'Liều thuốc giải độc cho sự tự phụ về tri thức'?",
+      "question": "Tại sao cuốn sách \"Dám Nghĩ Lại\" lại được ví như một \"liều thuốc giải độc cho sự tự phụ về tri thức\"?",
       "options": [
-        "Bởi vì nó chứng minh rằng tất cả các giáo sư đại học đều không có kiến thức thực tế.",
-        "Bởi vì nó hướng dẫn cách dùng thuốc an thần để giảm bớt sự tự tin thái quá.",
-        "Bởi vì cuốn sách chỉ trích tất cả những ai có ước mơ vươn lên làm lãnh đạo.",
-        "Bởi vì nó bóc trần những ảo tưởng về sự hiểu biết của chính chúng ta, đưa chúng ta trở về với sự khiêm nhường khoa học để tiếp tục khám phá thế giới."
+        "Vì nó chứng minh toàn bộ các lý thuyết kinh tế học cổ điển đã hoàn toàn sai lầm và không thể áp dụng vào bối cảnh thương trường đương đại.",
+        "Vì nó bóc trần những ảo tưởng về sự hiểu biết của chính ta, đưa con người trở về với sự khiêm nhường khoa học để không ngừng khám phá thế giới.",
+        "Vì nó cung cấp các kỹ thuật tâm lý tinh vi giúp người đọc nhanh chóng vạch trần lỗ hổng lập luận và áp đảo hoàn toàn các đối thủ trong tranh luận.",
+        "Vì nó khẳng định kinh nghiệm thực tiễn lâu năm của các chuyên gia đầu ngành luôn đáng tin cậy hơn mọi phân tích số liệu thống kê trong nghiên cứu."
       ],
-      "correctIndex": 3,
-      "explanation": "Hiểm họa lớn nhất của nhân loại không phải là sự ngu dốt, mà là ảo tưởng rằng mình đã biết hết mọi thứ; 'Dám Nghĩ Lại' chính là chiếc búa đập tan ảo tưởng đó."
+      "correctIndex": 1,
+      "explanation": "Hiểm họa lớn của tri thức không phải là sự thiếu hiểu biết, mà là ảo tưởng rằng mình đã biết hết mọi sự; cuốn sách kéo ta khỏi cái bẫy tự phụ đó."
     },
     {
       "id": "q11",
-      "question": "Thông điệp về 'Mạng lưới phản biện' (Challenge Network) được gợi mở ngay từ đầu sách đóng vai trò gì?",
+      "question": "Trong cấu trúc tư duy của sách, \"Mạng lưới phản biện\" (Challenge Network) đóng vai trò then chốt nào?",
       "options": [
-        "Một nhóm hacker chuyên nghiệp kiểm tra lỗ hổng bảo mật của các trang web.",
-        "Những đối thủ cạnh tranh luôn tìm cách hạ bệ uy tín của bạn nơi công sở.",
-        "Một mạng xã hội bí mật dành riêng cho các nhà khoa học đạt giải Nobel.",
-        "Nhóm những người bạn và đồng nghiệp đáng tin cậy dám chỉ ra những điểm mù, sai sót trong suy nghĩ của bạn để giúp bạn hoàn thiện hơn."
+        "Một nhóm các đối thủ cạnh tranh gay gắt trên thương trường giúp tổ chức luôn duy trì trạng thái cảnh giác cao độ trước mọi nguy cơ tiềm ẩn.",
+        "Một nhóm đồng nghiệp thân thiết luôn tán thành, khích lệ và đồng cảm để bảo vệ tinh thần lạc quan cùng sự tự tin của ta trước khó khăn thử thách.",
+        "Tập hợp những người đáng tin cậy dám thẳng thắn chỉ ra điểm mù, hoài nghi các giả định và giúp ta phòng tránh những sai lầm chiến lược nguy hại.",
+        "Hội đồng các chuyên gia độc lập có thẩm quyền phê duyệt hoặc bác bỏ toàn bộ các sáng kiến chiến lược trước khi đưa vào triển khai thực tế."
       ],
-      "correctIndex": 3,
-      "explanation": "Chúng ta không chỉ cần 'Mạng lưới ủng hộ' (Support Network) để cổ vũ, mà còn vô cùng cần 'Mạng lưới phản biện' để ngăn ta không lao đầu vào những quyết định sai lầm."
+      "correctIndex": 2,
+      "explanation": "Ta không chỉ cần mạng lưới ủng hộ để cổ vũ tinh thần, mà còn vô cùng cần mạng lưới phản biện dám thẳng thắn vạch ra các điểm mù nhận thức."
     },
     {
       "id": "q12",
-      "question": "Tại sao việc 'Tư duy như một nhà khoa học' (Thinking like a scientist) lại là sợi chỉ đỏ xuyên suốt toàn bộ tác phẩm?",
+      "question": "Vì sao \"Tư duy như một nhà khoa học\" (Thinking like a scientist) là nguyên lý xuyên suốt cuốn sách?",
       "options": [
-        "Vì nhà khoa học là những người duy nhất không bao giờ mắc sai lầm trong cuộc sống.",
-        "Vì tác giả muốn tất cả độc giả phải chuyển nghề sang làm việc trong các phòng thí nghiệm hóa học.",
-        "Vì nhà khoa học luôn coi ý kiến của mình chỉ là giả thuyết cần kiểm chứng; họ chủ động tìm kiếm dữ liệu thực tế và vui vẻ thay đổi khi giả thuyết bị bác bỏ.",
-        "Vì các phương pháp khoa học tự nhiên luôn ưu việt hơn các ngành khoa học xã hội."
+        "Vì các nhà nghiên cứu khoa học tự nhiên luôn sở hữu phương pháp luận chuẩn xác tuyệt đối và không bao giờ phạm sai sót trong các quyết sách lớn.",
+        "Vì tác giả kỳ vọng mọi độc giả nên từ bỏ công việc kinh doanh hiện tại để chuyển sang theo đuổi sự nghiệp nghiên cứu học thuật chuyên sâu lâu dài.",
+        "Vì phương pháp thực nghiệm khoa học tự nhiên là công cụ duy nhất có thể giải quyết dứt điểm các xung đột ý thức hệ và mâu thuẫn chính trị xã hội.",
+        "Vì nhà khoa học luôn coi ý kiến là giả thuyết cần kiểm chứng, chủ động tìm bằng chứng phản bác và sẵn sàng thay đổi khi dữ liệu thực tế thay đổi."
       ],
-      "correctIndex": 2,
-      "explanation": "Tư duy khoa học là thái độ cởi mở chủ động: đặt câu hỏi, kiểm chứng giả thuyết, hoài nghi lành mạnh và tôn trọng sự thật khách quan hơn cái tôi cá nhân."
+      "correctIndex": 3,
+      "explanation": "Tư duy khoa học là thái độ khiêm nhường chủ động: luôn kiểm chứng giả thuyết bằng dữ liệu thực nghiệm và tôn trọng sự thật hơn cái tôi cá nhân."
     },
     {
       "id": "q13",
-      "question": "Mối nguy hiểm của việc 'Rơi vào chế độ Nhà truyền giáo, Công tố viên hoặc Chính trị gia' trong đời sống hàng ngày là gì?",
+      "question": "Mối nguy hại của việc rơi vào 3 chế độ: Nhà truyền giáo, Công tố viên và Chính trị gia trong đời sống hàng ngày là gì?",
       "options": [
-        "Bạn sẽ bị phạt tiền do vi phạm các quy định về phát ngôn tại nơi công cộng.",
-        "Bạn sẽ mất đi khả năng nói chuyện lưu loát trước đám đông.",
-        "Bạn sẽ trở nên quá bận rộn với việc rao giảng mình đúng, kết tội người khác sai hoặc làm vừa lòng số đông đến mức hoàn toàn mù quáng trước sự thật.",
-        "Bạn sẽ bị ép buộc phải tham gia vào các chiến dịch tranh cử chính trị."
+        "Khiến tâm trí trở thành pháo đài bảo vệ niềm tin cũ, chỉ mải mê rao giảng, kết tội hay mị dân mà hoàn toàn mù quáng trước sự thật khách quan.",
+        "Làm cho khả năng đàm phán bị suy yếu nghiêm trọng do đối phương dễ dàng nhận diện và khai thác điểm yếu trong tính cách cùng lập trường bản thân.",
+        "Khiến cá nhân bị cô lập hoàn toàn khỏi tập thể do luôn thể hiện thái độ đối đầu gay gắt và thiếu tôn trọng các chuẩn mực giao tiếp nơi công sở.",
+        "Khiến các quyết định đầu tư kinh doanh bị chậm trễ vì mất quá nhiều thời gian để phân tích và hòa giải các ý kiến bất đồng từ các bên liên quan."
       ],
-      "correctIndex": 2,
-      "explanation": "3 chế độ tư duy tự vệ này biến tâm trí thành pháo đài bảo vệ niềm tin cũ, cắt đứt hoàn toàn khả năng tiếp nhận thông tin mới và sửa sai."
+      "correctIndex": 0,
+      "explanation": "Ba chế độ này khiến con người bận rộn bảo vệ quan điểm có sẵn, công kích đối phương hoặc làm vừa lòng số đông thay vì tìm kiếm sự thật khách quan."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc 'Dám thừa nhận mình không biết' lại là biểu hiện của sự tự tin cao độ chứ không phải sự tự ti?",
+      "question": "Tại sao việc dũng cảm thừa nhận \"tôi không biết\" lại là biểu hiện của sự tự tin vững chắc (khiêm nhường tự tin)?",
       "options": [
-        "Bởi vì bạn đủ an tâm về năng lực học hỏi và giá trị bản thân đến mức không cần phải giả vờ hoàn hảo để bảo vệ thể diện trước mắt người khác.",
-        "Bởi vì đây là chiêu trò nhằm đánh lừa đối phương hạ thấp cảnh giác.",
-        "Bởi vì người không biết gì sẽ không bao giờ bị giao các nhiệm vụ khó khăn.",
-        "Bởi vì xã hội luôn ưu tiên giúp đỡ những người có hoàn cảnh khó khăn."
+        "Vì đây là một chiến thuật tâm lý khôn ngoan nhằm che giấu năng lực thực sự để khiến đối thủ chủ quan và mất đi sự cảnh giác trong đàm phán.",
+        "Vì bạn đủ an tâm về năng lực học hỏi của bản thân đến mức không cần phải giả vờ hoàn hảo nhằm bảo vệ thể diện trước ánh nhìn của người khác.",
+        "Vì trong văn hóa doanh nghiệp hiện đại, người khiêm tốn thừa nhận yếu kém luôn được cấp trên ưu ái bỏ qua các chỉ tiêu đánh giá hiệu suất áp lực.",
+        "Vì việc từ chối đưa ra nhận định chuyên môn giúp bạn bảo toàn uy tín cá nhân và tránh phải chịu trách nhiệm pháp lý khi dự án gặp phải thất bại."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự khiêm nhường tự tin (Confident Humility): Tin tưởng vào năng lực học tập của bản thân trong tương lai, đồng thời khiêm tốn thừa nhận những thiếu sót ở hiện tại."
+      "correctIndex": 1,
+      "explanation": "Sự khiêm nhường tự tin là niềm tin vững chắc vào khả năng học hỏi và phát triển của bản thân, đi cùng sự tỉnh táo nhận diện giới hạn tri thức hiện tại."
     },
     {
       "id": "q15",
-      "question": "Mục tiêu tối thượng mà cuốn sách 'Dám Nghĩ Lại' muốn trang bị cho mỗi độc giả là gì?",
+      "question": "Mục tiêu chuyển hóa lớn nhất mà tác phẩm \"Dám Nghĩ Lại\" muốn đem lại cho mỗi độc giả là gì?",
       "options": [
-        "Trở thành một người có tư duy cởi mở, sở hữu sự nhanh nhạy về mặt trí tuệ và xây dựng được một cuộc sống liên tục phát triển, không bị mắc kẹt trong những niềm tin lỗi thời.",
-        "Trở thành một diễn giả chuyên nghiệp nổi tiếng trên toàn thế giới.",
-        "Khả năng dự đoán chính xác 100% kết quả các kỳ bầu cử tổng thống.",
-        "Năng lực tranh luận và đánh bại tất cả mọi người trong mọi cuộc hội thảo học thuật."
+        "Rèn luyện kỹ năng tranh biện bậc thầy để có thể phản bác và đánh bại mọi quan điểm trái chiều xuất hiện trong các cuộc thảo luận chuyên môn.",
+        "Sở hữu năng lực phân tích tâm lý xuất sắc nhằm dễ dàng thấu suốt điểm yếu của đối tác và giành quyền kiểm soát trong mọi tình huống giao tiếp.",
+        "Giải phóng tâm trí khỏi sự giam cầm của các định kiến lỗi thời, hình thành thói quen tò mò học hỏi và dũng cảm hiệu chỉnh lại hệ thống niềm tin.",
+        "Xây dựng một hệ thống niềm tin kiên định bất biến giúp bản thân đứng vững trước mọi luồng ý kiến trái chiều và các biến động lớn của thời đại."
       ],
-      "correctIndex": 0,
-      "explanation": "Cuốn sách trao cho bạn sự tự do tư tưởng: giải phóng bạn khỏi sự ngục tù của các định kiến cũ để sống một cuộc đời linh hoạt, thông thái và tràn đầy sự khám phá."
+      "correctIndex": 2,
+      "explanation": "Tác phẩm hướng tới việc giải phóng con người khỏi những mảng vôi hóa tư duy, mở ra một lối sống linh hoạt, không ngừng học hỏi và hoàn thiện bản thân."
     }
   ]
 }

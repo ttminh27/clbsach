@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Thí nghiệm tâm lý về sự thù địch giữa cổ động viên bóng chày Red Sox và Yankees chỉ ra nguyên nhân sâu xa của các định kiến phe nhóm (In-group vs Out-group) là gì?",
+      "question": "Sự kình địch thể thao giữa Boston Red Sox và New York Yankees minh họa điều gì về khuôn mẫu suy nghĩ và định kiến nhóm?",
       "options": [
-        "Con người có xu hướng 'Đồng nhất hóa quá mức' nhóm của mình (coi phe mình là tốt đẹp, đạo đức) và 'Phi nhân bản hóa' phe đối lập (coi phe kia là xấu xa, ngu ngốc).",
-        "Do ban tổ chức giải đấu cố tình kích động bạo lực để bán vé xem trận đấu.",
-        "Sự khác biệt về gen di truyền giữa các nhóm cổ động viên ở hai thành phố khác nhau.",
-        "Chất lượng trang phục thi đấu của hai đội bóng có sự chênh lệch lớn về giá tiền."
+        "Định kiến khiến chúng ta gắn chặt lòng tự tôn vào thành bại của phe mình và căm ghét đối thủ chỉ vì nhãn mác bề ngoài.",
+        "Sự kình địch là dấu hiệu cho thấy các cổ động viên có hiểu biết sâu sắc về chiến thuật thi đấu chuyên nghiệp của môn bóng chày.",
+        "Các nhóm đối đầu truyền kiếp luôn duy trì sự thù địch vì họ có những khác biệt không thể dung hòa về mặt phẩm chất đạo đức.",
+        "Mối hiềm khích thể thao giúp tăng cường tư duy phản biện và thúc đẩy các cá nhân luôn nhìn nhận đối thủ một cách khách quan."
       ],
       "correctIndex": 0,
-      "explanation": "Định kiến phe nhóm biến những con người bình thường thành những kẻ thù hận mù quáng; chúng ta đánh giá cá nhân dựa trên nhãn mác tập thể thay vì phẩm chất thực sự của họ."
+      "explanation": "Định kiến nhóm biến sự kình địch thành bản sắc cá nhân; người hâm mộ căm ghét đối thủ không phải vì đối thủ xấu xa mà vì nhu cầu khẳng định bản thân và sự thuộc về nhóm của mình."
     },
     {
       "id": "q2",
-      "question": "Phương pháp hiệu quả nhất để phá vỡ sự thù địch giữa hai nhóm đối đầu gay gắt là gì?",
+      "question": "Câu chuyện về nhạc sĩ da đen Daryl Davis và các hội viên KKK mang lại bài học mang tính bước ngoặt nào?",
       "options": [
-        "Tạo ra một 'Danh tính chung bao trùm' (Common Identity) và buộc hai nhóm phải cùng nhau hợp tác giải quyết một mục tiêu sống còn chung (Superordinate Goal).",
-        "Tổ chức một cuộc tranh luận truyền hình trực tiếp để hai nhóm đấu khẩu phân định thắng thua.",
-        "Chia tách hai nhóm ra xa nhau vĩnh viễn và cấm mọi sự tiếp xúc gặp gỡ.",
-        "Phát thật nhiều tiền thưởng cho nhóm có số lượng cổ động viên đông hơn."
+        "Cách duy nhất để cảm hóa những kẻ phân biệt chủng tộc cực đoan là tổ chức các cuộc đối đầu nảy lửa trước công luận và truyền thông.",
+        "Bằng sự hiếu kỳ chân thành và thái độ lắng nghe không thù địch, anh đã khiến hàng trăm thành viên KKK thức tỉnh và rời bỏ hội.",
+        "Muốn phá vỡ định kiến thâm căn cố đế, trước hết cần phải chấp nhận mọi yêu sách bất công của đối phương để tạo dựng thiện cảm ban đầu.",
+        "Sự thù hận chủng tộc là bản năng sinh học không thể thay đổi, trừ khi có sự can thiệp mạnh mẽ từ các điều luật trừng phạt nghiêm khắc."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi cùng chung một kẻ thù hoặc một sứ mệnh lớn hơn (ví dụ: cùng là những người yêu bóng chày chân chính), ranh giới thù địch phe phái sẽ tự động tan biến."
+      "correctIndex": 1,
+      "explanation": "Daryl Davis không đối đầu thù địch mà đặt câu hỏi chân thành: 'Làm sao bạn ghét tôi khi chưa biết tôi?'. Sự lắng nghe và kết bạn của anh đã khiến hàng trăm thành viên KKK tự nguyện từ bỏ hội kín."
     },
     {
       "id": "q3",
-      "question": "Hiện tượng 'Sự phân cực giả tạo' (False Polarization) trên các phương tiện truyền thông xã hội phản ánh thực tế nào?",
+      "question": "Hiện tượng 'Phân cực nhóm' (Group Polarization) diễn ra như thế nào khi những người có cùng định kiến ngồi lại với nhau?",
       "options": [
-        "Số đông người dân thực ra có quan điểm ôn hòa và nhiều điểm chung hơn ta tưởng, nhưng các thuật toán mạng xã hội lại khuếch đại những tiếng nói cực đoan ở hai đầu thái cực.",
-        "Tất cả mọi người trong xã hội đều đang chuẩn bị tham gia vào các cuộc chiến tranh bạo lực.",
-        "Các phương tiện truyền thông xã hội luôn phản ánh chính xác 100% tâm lý của toàn thể nhân dân.",
-        "Mọi người không còn quan tâm đến các vấn đề chính trị và xã hội nữa."
+        "Họ nhanh chóng nhận ra những điểm cực đoan trong suy nghĩ của mình và dần dần điều chỉnh quan điểm về mức cân bằng và ôn hòa hơn.",
+        "Sự đa dạng góc nhìn trong nhóm sẽ tự động triệt tiêu các thành kiến cũ, giúp tập thể đưa ra các quyết định sáng suốt và công tâm.",
+        "Thảo luận với người cùng chí hướng đẩy niềm tin ban đầu lên mức cực đoan hơn và đào sâu thêm sự thù địch với phe đối lập.",
+        "Các thành viên có xu hướng bác bỏ ý kiến của người dẫn đầu để bảo vệ tính độc lập và sự khác biệt trong tư duy nhận thức của cá nhân."
       ],
-      "correctIndex": 0,
-      "explanation": "Truyền thông ưa chuộng kịch tính; những kẻ gào thét hung hăng nhất chiếm sóng nhiều nhất, tạo nên ảo tưởng rằng xã hội đang bị chia rẽ sâu sắc không thể hàn gắn."
+      "correctIndex": 2,
+      "explanation": "Hiện tượng phân cực nhóm chỉ ra rằng khi những người có sẵn thành kiến tương tác với nhau, quan điểm của họ không hề ôn hòa đi mà càng trở nên cực đoan, bảo thủ và thù địch hơn với phe khác."
     },
     {
       "id": "q4",
-      "question": "Kỹ thuật 'Tái định hình nhân vật đối lập' (Humanizing the Rival) giúp chúng ta điều gì trong nhận thức?",
+      "question": "Thí nghiệm tâm lý về lòng trung thành của sinh viên hai trường Đại học Bang Ohio và Michigan đã phát hiện ra điều gì?",
       "options": [
-        "Để chứng minh rằng phe đối lập hoàn toàn không có bất kỳ hiểu biết nào.",
-        "Nhận ra rằng đằng sau nhãn mác phe đối lập cũng là một con người bằng xương bằng thịt với những nỗi sợ hãi, ước mơ và tình yêu thương gia đình giống hệt như chúng ta.",
-        "Một bài tập rèn luyện kỹ năng vẽ tranh chân dung nghệ thuật.",
-        "Giúp bạn tìm ra điểm yếu của đối thủ để tấn công hiệu quả hơn trên mạng xã hội."
+        "Sinh viên luôn duy trì chuẩn mực đạo đức liêm chính tuyệt đối bất kể người hưởng lợi hay chịu thiệt hại thuộc về ngôi trường nào.",
+        "Sinh viên chỉ sẵn sàng cạnh tranh sòng phẳng trong khuôn khổ các giải đấu thể thao chứ không bao giờ gian lận trong học thuật.",
+        "Mối kình địch trường học giúp các sinh viên rèn luyện tinh thần cởi mở và dễ dàng đồng cảm với hoàn cảnh khó khăn của đối thủ.",
+        "Tỷ lệ sẵn sàng nói dối tăng gấp bốn lần nếu đối tượng bị lừa là sinh viên trường đối thủ, chứng minh định kiến làm lu mờ đạo đức."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi nhìn thấy tính người trong đối thủ, sự căm ghét trừu tượng sẽ bị thay thế bằng sự thấu cảm; đó là bước đầu tiên để hòa giải mọi xung đột."
+      "correctIndex": 3,
+      "explanation": "Thí nghiệm cho thấy sinh viên sẵn sàng nói dối nhiều gấp 4 lần nếu đối phương là sinh viên trường kình địch (Michigan vs Ohio State), chứng minh định kiến nhóm có thể bẻ cong cả chuẩn mực đạo đức."
     },
     {
       "id": "q5",
-      "question": "Câu chuyện về Daryl Davis - nhạc sĩ da đen đã thuyết phục hơn 200 thành viên nhóm phân biệt chủng tộc Ku Klux Klan (KKK) từ bỏ tổ chức - dựa trên bí quyết nào?",
+      "question": "Tại sao Giả thuyết 1 - khơi gợi 'Căn tính chung' (như cùng là người yêu bóng chày) lại thất bại trong việc giảm thù địch giữa Red Sox và Yankees?",
       "options": [
-        "Ông chủ động kết bạn, ngồi uống cà phê lắng nghe họ với sự tôn trọng và đặt câu hỏi: 'Làm sao bạn có thể ghét tôi khi bạn thậm chí còn chưa biết tôi là ai?'.",
-        "Ông đã dùng vũ lực và đe dọa vũ khí để ép buộc họ phải ký giấy từ bỏ tổ chức.",
-        "Ông trả cho mỗi thành viên KKK một khoản tiền 5.000 USD để mua lại chiếc áo choàng trắng.",
-        "Ông tổ chức các cuộc biểu tình bạo động phản đối trước trụ sở của nhóm KKK."
+        "Vì trừ khi đối phương rơi vào tình huống nguy cấp, ý thức về căn tính chung thường bị xem là sáo rỗng và không đủ xóa bỏ ác cảm.",
+        "Vì cổ động viên hai đội bóng này thực chất không có bất kỳ điểm tương đồng nào về tình yêu thể thao để có thể tạo nên cầu nối chung.",
+        "Vì việc nhắc nhở về điểm chung khiến các cổ động viên cảm thấy bản sắc của họ bị đe dọa nên họ càng gia tăng bạo lực trên sân đấu.",
+        "Vì ý thức về căn tính chung chỉ phát huy tác dụng ở các vấn đề chính trị phức tạp chứ không phù hợp trong thể thao đối kháng."
       ],
       "correctIndex": 0,
-      "explanation": "Daryl Davis đã dùng vũ khí tối thượng của lòng nhân ái và sự kiên nhẫn đối thoại; khi đối mặt trực tiếp với một con người bằng xương bằng thịt tử tế, định kiến phân biệt chủng tộc tự sụp đổ."
+      "explanation": "Căn tính chung chỉ thúc đẩy giúp đỡ trong tình huống nguy cấp (như thí nghiệm cổ động viên Man United); trong điều kiện thường, họ chỉ cười trừ và bảo đối thủ 'yêu bóng chày nhưng hâm mộ nhầm đội'."
     },
     {
       "id": "q6",
-      "question": "Tại sao việc 'Tranh cãi bằng số liệu thống kê khô khan' lại hoàn toàn vô dụng trong việc xóa bỏ các định kiến ăn sâu vào tiềm thức?",
+      "question": "Tại sao Giả thuyết 2 - 'Nhân tính hóa đối thủ' (Humanizing the Rival) qua các câu chuyện cá nhân cảm động lại không giúp xóa bỏ định kiến về cả nhóm?",
       "options": [
-        "Vì các con số thống kê luôn chứa đựng các sai sót toán học.",
-        "Vì số liệu thống kê chỉ có tác dụng trong ngành kế toán tài chính.",
-        "Vì người có định kiến thường là những người không biết đọc chữ số.",
-        "Vì định kiến không được hình thành bằng logic mà được hình thành bằng cảm xúc và bản sắc nhóm; muốn thay đổi nó phải thông qua trải nghiệm cảm xúc và sự kết nối trực tiếp."
+        "Vì những câu chuyện cá nhân luôn bị người nghe vạch trần là sự giả tạo và không đáng tin cậy trong các cuộc cạnh tranh khốc liệt.",
+        "Vì người nghe coi cá nhân dễ mến đó chỉ là một ngoại lệ cá biệt (subtyping), trong khi định kiến tiêu cực về cả nhóm vẫn y nguyên.",
+        "Vì sự đồng cảm với một cá nhân sẽ lập tức chuyển hóa thành thái độ thù ghét sâu sắc hơn đối với các thành viên còn lại trong nhóm đó.",
+        "Vì bộ não con người không có khả năng phân biệt giữa phẩm chất của một cá nhân riêng lẻ và đặc tính chung của toàn thể cộng đồng."
       ],
-      "correctIndex": 3,
-      "explanation": "Bạn không thể dùng lý trí để gỡ bỏ một điều mà người ta không dùng lý trí để tin vào; chỉ có những câu chuyện chân thật và sự chạm vào trái tim mới lay chuyển được niềm tin thâm căn cố đế."
+      "correctIndex": 1,
+      "explanation": "Cơ chế tâm lý 'phân nhóm phụ' (subtyping): Khi gặp một người tốt ở phe đối lập, ta chỉ coi họ là 'trường hợp ngoại lệ cá biệt' chứ không chịu cập nhật hay tái tư duy định kiến về toàn bộ nhóm đó."
     },
     {
       "id": "q7",
-      "question": "Thí nghiệm 'Lý thuyết tiếp xúc liên nhóm' (Intergroup Contact Theory) của Gordon Allport chứng minh điều gì?",
+      "question": "Phúng dụ về 'Con tàu của Theseus' được Adam Grant liên hệ với các thương hiệu thể thao nhằm mục đích gì?",
       "options": [
-        "Chỉ cần xem hình ảnh của nhau qua màn hình tivi là định kiến sẽ tự động biến mất.",
-        "Tiếp xúc trực tiếp giữa hai nhóm thù địch luôn luôn dẫn đến các cuộc ẩu đả bạo lực đẫm máu.",
-        "Hai nhóm khác biệt về văn hóa không bao giờ có thể sống hòa bình cùng nhau.",
-        "Khi hai nhóm thù địch được tiếp xúc trực tiếp trong điều kiện bình đẳng, cùng hợp tác và có sự ủng hộ của chuẩn mực xã hội, định kiến sẽ giảm sút rõ rệt."
+        "Nhằm chứng minh rằng giá trị của một câu lạc bộ thể thao nằm ở bề dày lịch sử và truyền thống thi đấu kiên cường qua nhiều thập kỷ.",
+        "Nhằm kêu gọi các nhà quản lý đội bóng bảo tồn nguyên vẹn đội hình ban đầu để duy trì lòng trung thành của người hâm mộ.",
+        "Nhằm chỉ ra tính phi lý của định kiến khi nhân sự và sân bãi đều đã đổi mới; người hâm mộ thực chất chỉ đang cổ vũ màu áo.",
+        "Nhằm giải thích cơ chế kinh tế đằng sau việc chuyển nhượng các cầu thủ ngôi sao giữa những câu lạc bộ bóng chày chuyên nghiệp hàng đầu."
       ],
-      "correctIndex": 3,
-      "explanation": "Khoảng cách địa lý sinh ra quái vật tưởng tượng; sự gặp gỡ trực tiếp và cùng nhau làm việc xóa tan những bóng ma định kiến mà sự cô lập đã tạo ra."
+      "correctIndex": 2,
+      "explanation": "Con tàu Theseus đã thay sạch mọi tấm ván gỗ cũng như đội bóng đã thay sạch cầu thủ, huấn luyện viên, sân bãi. Jerry Seinfeld châm biếm: Chúng ta thực chất chỉ đang hò hét cổ vũ cho những chiếc áo đấu!"
     },
     {
       "id": "q8",
-      "question": "Hiện tượng 'Thiên kiến quy kết cơ bản' (Fundamental Attribution Error) trong việc phán xét phe đối lập hoạt động như thế nào?",
+      "question": "Trong thí nghiệm tương ớt và bài toán khó của Adam Grant & Tim Kundro, điều gì đã thực sự khiến các cổ động viên giảm bớt ác cảm với đối thủ?",
       "options": [
-        "Khi phe mình thành công, ta cho rằng đó là do may mắn tình cờ.",
-        "Không bao giờ đưa ra bất kỳ lời phán xét nào đối với hành vi của người khác.",
-        "Khi phe mình làm sai, ta đổ lỗi cho HOÀN CẢNH; nhưng khi phe đối lập làm sai, ta lập tức quy kết đó là do BẢN CHẤT XẤU XA của họ.",
-        "Luôn luôn nhận lỗi về phần mình trong mọi tình huống thất bại."
+        "Khi họ được thưởng một khoản tiền lớn nếu đồng ý chọn mức độ cay thấp nhất cho đĩa thức ăn của các cổ động viên đội đối phương.",
+        "Khi họ được lắng nghe các chuyên gia xã hội học phân tích cặn kẽ về nguồn gốc kinh tế và văn hóa của mối kình địch thể thao lâu đời.",
+        "Khi họ được yêu cầu liệt kê các phẩm chất tích cực về những thành tích thi đấu xuất sắc của các tuyển thủ đội kình địch.",
+        "Khi họ tự suy ngẫm về tính ngẫu nhiên và tùy tiện của mối hiềm khích (chẳng hạn nếu sinh ra ở nơi khác thì bản thân đã cổ vũ đội đó)."
       ],
-      "correctIndex": 2,
-      "explanation": "Tiêu chuẩn kép trong phán xét là nguồn gốc nuôi dưỡng sự tự mãn của phe mình và sự căm thù đối với phe khác; người có tư duy khoa học luôn áp dụng cùng một thước đo khách quan cho cả hai bên."
+      "correctIndex": 3,
+      "explanation": "Yếu tố tạo đột phá là suy ngẫm về tính tùy tiện (arbitrariness) của định kiến: nếu sinh ra ở New York thay vì Boston, ta đã yêu Yankees. Nhận thức này khiến họ chọn tương ớt ít cay và bài toán dễ hơn."
     },
     {
       "id": "q9",
-      "question": "Tại sao việc 'Tự chất vấn nguồn gốc định kiến của chính mình' lại là bài tập giải độc tư duy mạnh mẽ?",
+      "question": "Bản chất của kỹ thuật 'Tư duy giả định phản thực tế' (Counterfactual Thinking) là gì?",
       "options": [
-        "Để bạn có cớ đổ lỗi cho cha mẹ về những thất bại trong sự nghiệp của mình.",
-        "Giúp bạn nhận ra rằng nhiều định kiến của mình thực chất chỉ là những niềm tin tiếp thu thụ động từ cha mẹ, bạn bè hay truyền thông mà chưa từng được kiểm chứng.",
-        "Đây là một bài kiểm tra tâm lý bắt buộc để được cấp bằng lái xe.",
-        "Để bạn xóa sạch toàn bộ ký ức thời thơ ấu ra khỏi não bộ."
+        "Tưởng tượng cuộc đời sẽ ra sao nếu hoàn cảnh xuất thân thay đổi, từ đó nhận ra tính ngẫu nhiên của niềm tin và tháo dỡ định kiến.",
+        "Xây dựng các kịch bản đối phó bi quan nhất để chuẩn bị tâm lý vững vàng trước những thất bại khó tránh khỏi trong tương lai gần.",
+        "Đặt bản thân vào vị trí của đối thủ để tìm ra những điểm yếu cốt tử trong hệ thống lập luận của họ nhằm chuẩn bị cho cuộc tranh biện.",
+        "Hồi tưởng lại những quyết định sai lầm trong quá khứ để tự trừng phạt bản thân và nhắc nhở mình không được lặp lại hành vi tương tự."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi tự hỏi 'Tôi bắt đầu tin điều này từ khi nào và tại sao?', bạn sẽ giật mình nhận ra mình đang là tù nhân của những chiếc hộp tư tưởng do người khác áp đặt."
+      "correctIndex": 0,
+      "explanation": "Tư duy phản thực tế giúp ta nhận ra niềm tin hiện tại phần lớn do hoàn cảnh ngẫu nhiên nhào nặn. Khi nhận ra bản thân hoàn toàn có thể mang quan điểm ngược lại, tính khiêm nhường nhận thức được đánh thức."
     },
     {
       "id": "q10",
-      "question": "Vai trò của 'Nghệ thuật kể chuyện thấu cảm' (Empathetic Storytelling) trong việc hàn gắn sự chia rẽ xã hội là gì?",
+      "question": "Dạng câu hỏi nào sau đây có sức mạnh kích hoạt tư duy giả định phản thực tế hiệu quả nhất ở đối phương?",
       "options": [
-        "Giúp người nghe bước vào thế giới nội tâm của người khác, trải nghiệm những nỗi đau của họ và nhận ra những mẫu số chung của tình người vượt lên trên mọi lằn ranh chia rẽ.",
-        "Để ru ngủ người nghe trong các hội nghị chính trị kéo dài.",
-        "Để bán được nhiều sách tiểu thuyết văn học trên thị trường.",
-        "Nhằm mục đích làm sai lệch các dữ kiện lịch sử đã được công nhận."
+        "\"Tại sao bạn lại có thể tin vào những quan điểm sai lầm và thiếu căn cứ khoa học như vậy trong suốt một thời gian dài vừa qua?\"",
+        "\"Liệu bạn có giữ niềm tin và định kiến này không nếu bạn sinh ra ở một nền văn hóa khác hoặc trong một gia đình thuộc phe đối lập?\"",
+        "\"Bạn có sẵn sàng từ bỏ lập trường của mình ngay bây giờ nếu tôi đưa ra được những số liệu thống kê chứng minh bạn hoàn toàn sai lầm?\"",
+        "\"Ai là người có tầm ảnh hưởng lớn nhất đã truyền dạy cho bạn những nguyên tắc đạo đức và định hướng nghề nghiệp trong cuộc sống?\""
       ],
-      "correctIndex": 0,
-      "explanation": "Câu chuyện là cây cầu kết nối tâm hồn; khi lắng nghe câu chuyện đời của một người, chúng ta không còn nhìn họ như một 'kẻ thù đại diện cho phe kia' mà như một người anh em đồng loại."
+      "correctIndex": 1,
+      "explanation": "Câu hỏi giả định về bối cảnh xuất thân buộc đối phương khám phá căn nguyên niềm tin, nhận ra tính ngẫu nhiên của lập trường và kích hoạt mong muốn tìm hiểu những góc nhìn khác."
     },
     {
       "id": "q11",
-      "question": "Tại sao việc 'Tìm kiếm điểm tương đồng kỳ lạ giữa hai đối thủ' lại có sức mạnh giải tỏa căng thẳng nhanh chóng?",
+      "question": "Quan sát của nhà tâm lý học George Kelly về cơ chế phòng vệ niềm tin của con người chỉ ra điều gì?",
       "options": [
-        "Nó chứng minh rằng hai đối thủ thực chất là anh em sinh đôi bị thất lạc từ nhỏ.",
-        "Đây là một chiêu trò thôi miên tâm lý được áp dụng trong ảo thuật.",
-        "Nó tạo ra sự ngạc nhiên thú vị (Counter-attitudinal Wonder), bẻ gãy mô thức phân loại nhị nguyên 'chúng ta vs họ' trong não bộ.",
-        "Nó giúp hai bên ký kết các thỏa thuận gian lận thương mại bí mật."
+        "Con người luôn sẵn sàng vứt bỏ lăng kính thực tại cũ kỹ ngay khi tiếp cận với các bằng chứng khoa học có độ tin cậy vượt trội.",
+        "Hệ thống niềm tin cá nhân được xây dựng dựa trên sự tính toán lý trí thuần túy và không hề bị chi phối bởi yếu tố cảm xúc xã hội.",
+        "Khi lăng kính thực tại bị đe dọa, con người trở nên đặc biệt thù địch và uốn dẻo tâm trí để bảo vệ những điều sâu thẳm biết là sai.",
+        "Chúng ta chỉ nảy sinh sự hoài nghi đối với những ý kiến đến từ các thành viên trong gia đình hoặc những người bạn thân thiết nhất."
       ],
       "correctIndex": 2,
-      "explanation": "Ví dụ: Cả hai đều cùng yêu thích một ban nhạc rock hay cùng có con gái học mẫu giáo; chi tiết nhỏ bé đó lập tức kéo họ về cùng một chiến tuyến của tình người."
+      "explanation": "Kelly nhận thấy niềm tin là lăng kính thực tại. Khi lăng kính bị đe dọa vỡ vụn, con người trở thành những nghệ sĩ uốn dẻo tâm trí, thù địch bảo vệ những định kiến mà thâm tâm biết là vô lý."
     },
     {
       "id": "q12",
-      "question": "Cảnh báo của tác giả về 'Cái bẫy của sự tự phụ đạo đức' (Moral Superiority) trong các phong trào xã hội là gì?",
+      "question": "'Hiệu ứng toàn cảnh' (Overview Effect) mà các phi hành gia như Edgar Mitchell và Jeff Ashby trải nghiệm trong không gian là gì?",
       "options": [
-        "Chỉ có những người theo tôn giáo mới có khả năng làm từ thiện.",
-        "Khi một nhóm tự cho mình là đại diện duy nhất cho sự thánh thiện và chính nghĩa, họ sẽ dễ dàng biện minh cho các hành vi bạo lực và bức hại tàn nhẫn đối với những người bất đồng chính kiến.",
-        "Sự thánh thiện luôn mang lại hòa bình vĩnh cửu cho toàn thế giới.",
-        "Các phong trào xã hội không bao giờ mắc phải bất kỳ sai lầm nào."
+        "Cảm giác choáng ngợp trước sự bao la của vũ trụ khiến họ nhận ra những nỗ lực khám phá khoa học của loài người là vô cùng nhỏ bé.",
+        "Sự sợ hãi tột cùng trước sự cô độc ngoài không gian thúc đẩy họ khao khát nhanh chóng hoàn thành nhiệm vụ để trở về Trái Đất an toàn.",
+        "Niềm kiêu hãnh dân tộc dâng cao tột độ khi chứng kiến thành tựu công nghệ vũ trụ vĩ đại mà quốc gia của họ đã dày công đạt được.",
+        "Góc nhìn bao quát Trái Đất mỏng manh làm tan biến định kiến chính trị vụn vặt và đánh thức cảm giác gắn kết với toàn thể nhân loại."
       ],
-      "correctIndex": 1,
-      "explanation": "Những tội ác tồi tệ nhất trong lịch sử nhân loại thường được nhân danh 'chính nghĩa tuyệt đối'; sự khiêm nhường đạo đức là liều vắc-xin ngăn chặn sự cuồng tín."
+      "correctIndex": 3,
+      "explanation": "Khi ngắm nhìn Trái Đất từ không gian như một chấm xanh mỏng manh không đường biên giới, các phi hành gia trải nghiệm hiệu ứng toàn cảnh: các xung đột chính trị trở nên vụn vặt trước căn tính nhân loại chung."
     },
     {
       "id": "q13",
-      "question": "Làm thế nào để một cá nhân có thể trở thành 'Chiếc cầu nối hòa giải' giữa các nhóm đang xung đột gay gắt?",
+      "question": "Thí nghiệm của Mark Levine với các cổ động viên bóng đá Manchester United đã chứng minh điều gì về lòng vị tha?",
       "options": [
-        "Đứng về phía nhóm mạnh hơn để nhanh chóng kết thúc cuộc xung đột.",
-        "Cung cấp vũ khí và tài chính cho cả hai bên để họ tự quyết định thắng thua.",
-        "Lắng nghe trọn vẹn nỗi niềm của cả hai phía, từ chối tham gia vào trò chơi đổ lỗi, tìm kiếm các điểm đồng thuận và dẫn dắt cuộc đối thoại hướng về tương lai.",
-        "Tuyệt đối im lặng và không bao giờ can thiệp vào bất kỳ vấn đề nào."
+        "Khi được định khung là những người yêu bóng đá nói chung, họ sẵn sàng chạy đến cứu giúp một nạn nhân mặc áo đấu của đội kình địch.",
+        "Họ từ chối giúp đỡ bất kỳ ai không mặc chiếc áo đồng phục truyền thống của câu lạc bộ Manchester United dù gặp tai nạn nghiêm trọng.",
+        "Họ chỉ hỗ trợ người bị nạn nếu có sự chứng kiến và ghi nhận của các phương tiện truyền thông thể thao đang tác nghiệp tại hiện trường.",
+        "Lòng trắc ẩn của con người hoàn toàn không bị ảnh hưởng bởi việc nạn nhân có thuộc về nhóm đối lập hay nhóm thân thuộc hay không."
       ],
-      "correctIndex": 2,
-      "explanation": "Người hòa giải chân chính là người có trái tim đủ lớn để thấu hiểu nỗi đau của cả hai bờ chiến tuyến và có sự thông thái để xây dựng cây cầu nối liền sự hiểu biết."
+      "correctIndex": 0,
+      "explanation": "Khi được gợi nhắc về tình yêu bóng đá nói chung (căn tính bao quát), 70% cổ động viên Man United đã cứu giúp nạn nhân mặc áo Liverpool (so với chỉ 30% khi định danh là fan Man United)."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc 'Chấp nhận sự phức tạp của tính cách con người' lại giúp chúng ta bớt ác cảm với người khác?",
+      "question": "Rào cản lớn nhất mà nhà tâm lý học Herbert Kelman gặp phải trong các cuộc hội thảo hòa bình giữa Israel và Palestine là gì?",
       "options": [
-        "Vì không ai hoàn toàn là thiên thần hay ác quỷ; mỗi con người là một bức tranh đa sắc với cả những điểm tốt đẹp lẫn những vết thương tâm lý cần được chữa lành.",
-        "Đây là một lý thuyết chỉ áp dụng trong việc chẩn đoán các bệnh tâm thần nặng.",
-        "Vì con người sinh ra đã được lập trình sẵn là hoàn toàn xấu xa.",
-        "Vì điều đó giúp bạn không cần phải đánh giá năng lực làm việc của nhân viên."
+        "Các đại diện hai bên từ chối ngồi chung phòng họp và bác bỏ mọi nỗ lực đối thoại hòa giải của các chuyên gia tâm lý quốc tế.",
+        "Họ có thể thấu cảm và kết bạn với nhau như những cá nhân tin cậy, nhưng vẫn bám chặt vào định kiến tiêu cực về tập thể của đối phương.",
+        "Họ nhanh chóng đồng thuận trên văn bản nhưng không thể thực thi vào thực tế do thiếu nguồn lực tài chính từ các tổ chức hỗ trợ.",
+        "Các bên tham gia cuộc họp đều coi đối phương là những nhà khoa học khách quan nên dễ dàng chấp nhận mọi giải pháp chính trị đưa ra."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi từ bỏ lăng kính nhị nguyên trắng - đen đơn giản hóa, chúng ta sẽ nhìn nhận mọi người với lòng trắc ẩn và sự bao dung sâu sắc hơn."
+      "correctIndex": 1,
+      "explanation": "Hội thảo hòa bình giúp các đại diện thấu hiểu nhau như những người bạn cá nhân, nhưng khi trở về cộng đồng, họ lại coi bạn mình là ngoại lệ và tiếp tục giữ định kiến căm ghét tập thể đối lập."
     },
     {
       "id": "q15",
-      "question": "Thông điệp đắt giá nhất của Chương 6 về việc vượt qua ác cảm và định kiến là gì?",
+      "question": "Thông điệp sâu sắc nhất của Chương 6 về việc loại bỏ ác cảm và định kiến nhóm là gì?",
       "options": [
-        "'Sự thù hận là động lực mạnh mẽ nhất thúc đẩy sự phát triển của nền kinh tế'.",
-        "'Ác cảm che mờ lý trí và giam cầm chúng ta trong sự thù hận; hãy can đảm nhìn vượt qua nhãn mác phe phái để nhìn thấy vẻ đẹp thiêng liêng của tình người trong mỗi cá nhân!'.",
-        "'Hãy luôn cảnh giác và nghi ngờ tất cả những người không cùng tôn giáo hay đảng phái với mình'.",
-        "'Định kiến là bản năng sinh học không thể thay đổi được của loài người'."
+        "Cách duy nhất để loại bỏ định kiến xã hội là ban hành các đạo luật nghiêm khắc trừng phạt mọi hành vi phân biệt đối xử nơi công cộng.",
+        "Chúng ta chỉ có thể hóa giải sự thù hận khi hai nhóm đối đầu có một kẻ thù chung đe dọa trực tiếp đến sự sinh tồn của cả hai phía.",
+        "Định kiến bắt nguồn từ sự ngẫu nhiên của hoàn cảnh; nhìn ra tính tùy tiện của niềm tin là chìa khóa mở ra sự thấu cảm và tái tư duy.",
+        "Hòa nhập tập thể đòi hỏi cá nhân phải đồng hóa niềm tin của mình và từ bỏ mọi sự hoài nghi đối với các khuôn mẫu tư duy của cộng đồng."
       ],
-      "correctIndex": 1,
-      "explanation": "Chỉ khi chúng ta dũng cảm tái tư duy về 'kẻ thù' của mình, chúng ta mới thực sự giải thoát bản thân khỏi sự ngục tù của lòng thù hận và mở ra con đường hòa bình đích thực."
+      "correctIndex": 2,
+      "explanation": "Ác cảm nhóm thường chỉ là sản phẩm ngẫu nhiên của địa lý và thói quen gia đình. Nhận diện tính tùy tiện này giúp ta cởi bỏ chiếc áo giáp định kiến và mở lòng với những người ở bên kia chiến tuyến."
     }
   ]
 }

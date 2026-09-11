@@ -1,188 +1,188 @@
 {
   "bookId": "DamNghiLai",
   "chapterId": "03_Chuong_03_Niem_Vui_Khi_Sai",
-  "chapterTitle": "Chương 3: Niềm vui khi sai",
+  "chapterTitle": "Chương 3: Niềm Vui Khi Sai",
   "totalQuestions": 15,
   "questions": [
     {
       "id": "q1",
-      "question": "Tại sao nhà kinh tế học lỗi lạc John Maynard Keynes lại có câu nói nổi tiếng: 'Khi dữ liệu thực tế thay đổi, tôi thay đổi suy nghĩ của mình. Còn ngài thì sao?'?",
+      "question": "Phản ứng đặc biệt của nhà tâm lý học đoạt giải Nobel Danny Kahneman khi phát hiện mình sai là gì?",
       "options": [
-        "Nhằm mục đích châm biếm các đối thủ cạnh tranh trên thị trường chứng khoán London.",
-        "Khẳng định sự chính trực về trí tuệ: Thay đổi quan điểm khi đối diện với bằng chứng mới là biểu hiện của sự thông thái chứ không phải sự phản bội hay thiếu nhất quán.",
-        "Thừa nhận rằng các lý thuyết kinh tế học của ông hoàn toàn không có giá trị áp dụng.",
-        "Để giải thích lý do tại sao ông thường xuyên vi phạm các cam kết hợp đồng kinh tế."
+        "Nở nụ cười rạng rỡ và thích thú thốt lên rằng việc phát hiện sai sót đồng nghĩa với việc bản thân đang bớt sai hơn trước.",
+        "Lập tức tìm kiếm các luận điểm ngụy biện tinh vi để bảo vệ danh tiếng học thuật và uy tín cá nhân trước giới nghiên cứu.",
+        "Triệu tập cuộc họp khẩn cấp với các cộng sự để rà soát lại toàn bộ dữ liệu thống kê nhằm tìm ra lỗi của người phản biện.",
+        "Cảm thấy thất vọng sâu sắc và quyết định tạm ngừng mọi hoạt động nghiên cứu tâm lý học thực nghiệm trong một thời gian dài."
       ],
-      "correctIndex": 1,
-      "explanation": "Một nhà tư tưởng vĩ đại luôn coi trọng sự thật hơn sự nhất quán mù quáng; khi thực tế đã khác đi, việc bám giữ kết luận cũ là hành vi ngu ngốc nhất."
+      "correctIndex": 0,
+      "explanation": "Danny Kahneman thực sự vui mừng khi phát hiện mình sai vì với ông, nhận ra sai lầm là bằng chứng của việc đã học hỏi thêm điều mới và bớt sai hơn."
     },
     {
       "id": "q2",
-      "question": "Cảm xúc 'Niềm vui khi phát hiện mình sai' (The Joy of Being Wrong) mang lại lợi ích tâm lý to lớn nào cho con người?",
+      "question": "Khái niệm \"Cái tôi toàn trị\" (Totalitarian ego) do nhà tâm lý học Anthony Greenwald đề xuất ám chỉ điều gì?",
       "options": [
-        "Nó giúp bạn được mọi người xung quanh khen ngợi vì tính hài hước.",
-        "Nó giúp bạn có cớ để từ bỏ công việc hiện tại và đi du lịch nghỉ dưỡng.",
-        "Nó giải phóng bạn khỏi sự ngục tù của ảo tưởng: Khoảnh khắc nhận ra mình sai là khoảnh khắc bạn vừa trở nên bớt ngu ngốc hơn và hiểu biết hơn so với một giây trước đó.",
-        "Nó chứng minh rằng bạn là người không cần phải chịu trách nhiệm về các hậu quả."
+        "Mong muốn kiểm soát và áp đặt toàn bộ các quan điểm chính trị cá nhân lên tất cả các thành viên trong gia đình và nơi làm việc.",
+        "Cơ chế tâm lý tự động kiểm duyệt và bóp méo thông tin phản biện nhằm bảo vệ hình ảnh toàn hảo của cái tôi cá nhân.",
+        "Thói quen độc đoán trong quản lý doanh nghiệp, từ chối trao quyền và không cho phép nhân viên cấp dưới bày tỏ ý kiến phản biện.",
+        "Trạng thái rối loạn tâm lý khiến cá nhân luôn ảo tưởng mình là người duy nhất nắm giữ các giải pháp giải cứu thế giới."
       ],
-      "correctIndex": 2,
-      "explanation": "Phát hiện mình sai không phải là mất đi cái gì, mà là được giải thoát khỏi một điều sai lầm; đó là một sự nâng cấp nhận thức đáng để ăn mừng."
+      "correctIndex": 1,
+      "explanation": "Cái tôi toàn trị hoạt động như một nhà nước độc tài bên trong tâm trí: kiểm duyệt các ký ức khó chịu, bóp méo sự thật để giữ hình ảnh ta luôn đúng."
     },
     {
       "id": "q3",
-      "question": "Dự án nghiên cứu 'Siêu dự báo' (Superforecasting) của Phil Tetlock phát hiện ra phẩm chất cốt lõi nào của những người dự đoán tương lai chuẩn xác nhất?",
+      "question": "Tại sao việc \"gắn niềm tin cá nhân vào căn tính (bản ngã)\" lại là một trong những trở ngại nhận thức lớn nhất?",
       "options": [
-        "Họ không phải là những người có chỉ số IQ cao nhất hay nắm giữ bí mật siêu máy tính, mà là những người có 'tần suất cập nhật và điều chỉnh dự báo' cao nhất khi có tin tức mới.",
-        "Họ là những nhà chiêm tinh học sử dụng các thuật toán bói toán cổ xưa.",
-        "Họ là những người luôn kiên định giữ vững 100% dự đoán ban đầu bất chấp mọi biến cố.",
-        "Họ là những chuyên gia chỉ đưa ra dự đoán về những sự kiện đã xảy ra trong quá khứ."
+        "Vì nó khiến bạn dễ dàng bị đối phương lợi dụng điểm yếu tâm lý để thao túng trong các cuộc đàm phán hợp đồng kinh tế lớn.",
+        "Vì các chuẩn mực xã hội hiện đại luôn yêu cầu mỗi cá nhân phải liên tục thay đổi phong cách sống để thích ứng xu hướng mới.",
+        "Vì khi xem ý kiến là con người mình, bất kỳ sự phản biện nào cũng bị xem như đe dọa sinh tử, kích hoạt phản xạ thù địch.",
+        "Vì việc kiên định với một niềm tin duy nhất sẽ cản trở nghiêm trọng cơ hội thăng tiến vào các vị trí lãnh đạo cấp cao của công ty."
       ],
-      "correctIndex": 0,
-      "explanation": "Những Siêu dự báo viên (Superforecasters) xuất sắc nhất có thói quen tái tư duy liên tục: Họ xem mỗi tin tức mới là một cơ hội để tinh chỉnh xác suất dự đoán của mình từng chút một."
+      "correctIndex": 2,
+      "explanation": "Nếu bạn đồng nhất niềm tin với danh tính bản thân, việc thừa nhận mình sai sẽ giống như hủy hoại chính mình, khiến bạn cố sống cố chết phòng thủ."
     },
     {
       "id": "q4",
-      "question": "Tại sao việc 'Định nghĩa bản thân bằng các giá trị cốt lõi (như sự trung thực, lòng trắc ẩn, sự học hỏi)' lại ưu việt hơn 'Định nghĩa bản thân bằng các ý kiến/niềm tin cụ thể'?",
+      "question": "Adam Grant đưa ra giải pháp nào để giúp chúng ta giải phóng bản thân khỏi sự bám chấp mù quáng vào ý kiến cũ?",
       "options": [
-        "Định nghĩa bằng giá trị chỉ phù hợp cho những người làm công tác tôn giáo.",
-        "Giá trị là chiếc la bàn định hướng bất biến, trong khi ý kiến là các công cụ linh hoạt; khi thay đổi ý kiến để phù hợp với sự thật, bạn không bị khủng hoảng bản sắc cá nhân.",
-        "Giá trị cốt lõi giúp bạn không cần phải tuân thủ các quy định của pháp luật.",
-        "Ý kiến cụ thể giúp bạn dễ dàng tranh luận và áp đảo người khác hơn."
+        "Hãy học cách chấp nhận thỏa hiệp với quan điểm của số đông nhằm duy trì mối quan hệ hòa thuận và giảm bớt căng thẳng nhận thức.",
+        "Hãy thường xuyên thay đổi công việc và môi trường sống để không bị ràng buộc bởi bất kỳ định kiến văn hóa cục bộ truyền thống nào.",
+        "Hãy rèn luyện kỹ năng tranh biện sắc bén nhằm bác bỏ mọi lời chỉ trích trước khi chúng kịp gây tổn hại đến sự tự tin của bản thân.",
+        "Hãy neo căn tính vào các giá trị cốt lõi như tính tò mò và sự chính trực, thay vì neo vào những ý kiến hay kết luận cụ thể."
       ],
-      "correctIndex": 1,
-      "explanation": "Nếu danh tính của bạn gắn liền với một ý kiến chính trị hay học thuyết cứng nhắc, việc từ bỏ nó giống như tự xé bỏ chính mình; nhưng nếu danh tính là 'người tìm kiếm sự thật', việc đổi ý kiến là hoàn toàn tự nhiên."
+      "correctIndex": 3,
+      "explanation": "Định nghĩa bản thân bằng các giá trị (như người học hỏi, theo đuổi sự thật) thay vì ý kiến; khi đó việc thay đổi ý kiến trở thành cách bảo vệ giá trị học hỏi."
     },
     {
       "id": "q5",
-      "question": "Thí nghiệm tâm lý của Danny Kahneman (nhà tâm lý học đoạt giải Nobel) khi phát hiện lý thuyết của mình sai đã diễn ra như thế nào?",
+      "question": "Văn hóa \"Ý tưởng tài năng\" (Idea meritocracy) tại tập đoàn Bridgewater của Ray Dalio vận hành dựa trên nguyên lý nào?",
       "options": [
-        "Đôi mắt ông bừng sáng rực rỡ, ông cười lớn đầy thích thú và thốt lên: 'Thật tuyệt vời! Tôi đã hoàn toàn sai! Giờ chúng ta có một khám phá mới thú vị hơn nhiều!'.",
-        "Ông lập tức tiêu hủy toàn bộ các bản thảo nghiên cứu và rời khỏi trường đại học.",
-        "Ông đệ đơn kiện nhóm nghiên cứu trẻ đã dám phản bác lại luận điểm của ông.",
-        "Ông rơi vào trạng thái trầm cảm nặng nề suốt nhiều tháng liền."
+        "Khuyến khích mọi người công khai chỉ ra sai lầm, đánh giá minh bạch bằng dữ liệu và tôn vinh hành động dũng cảm sửa sai.",
+        "Ưu tiên trao quyền ra quyết định tối cao cho các chuyên gia có thâm niên công tác lâu năm nhất trong từng lĩnh vực chuyên môn của công ty.",
+        "Tổ chức các cuộc bỏ phiếu kín định kỳ để nhân viên bầu chọn những ý tưởng kinh doanh có mức độ khả thi tài chính cao nhất.",
+        "Thiết lập hệ thống phân cấp quyền lực nghiêm ngặt nhằm đảm bảo mọi mệnh lệnh của ban điều hành được thực thi tuyệt đối."
       ],
       "correctIndex": 0,
-      "explanation": "Một bậc đại trí thực sự tìm thấy niềm vui thuần khiết trong việc phát hiện ra chân lý mới, ngay cả khi chân lý đó chứng minh các công trình trước đây của mình là chưa hoàn thiện."
+      "explanation": "Tại Bridgewater, Ray Dalio tạo ra văn hóa nơi mọi người được ghi nhận khi phát hiện và sửa chữa sai lầm, coi sự thật quan trọng hơn thể diện cá nhân."
     },
     {
       "id": "q6",
-      "question": "Khái niệm 'Sự gắn kết danh tính thái quá' (Identity Foreclosure) gây ra tác hại gì đối với sự phát triển của một con người?",
+      "question": "Dự án Siêu dự báo (Good Judgment Project) của Phil Tetlock phát hiện phẩm chất cốt lõi nào của những người dự báo chuẩn xác nhất?",
       "options": [
-        "Làm tăng khả năng trúng cử vào các vị trí lãnh đạo cấp cao trong chính phủ.",
-        "Giúp bạn hoàn thành các bài thi tốt nghiệp với điểm số tuyệt đối.",
-        "Không gây ra bất kỳ tác hại nào đối với sự nghiệp lâu dài.",
-        "Khóa chặt bản thân vào một nhãn mác duy nhất từ quá sớm (như: 'Tôi là người hướng nội', 'Tôi dốt toán'), khiến bạn từ chối mọi cơ hội thử nghiệm và mở rộng tiềm năng bản thân."
+        "Họ đều là những chuyên gia phân tích kinh tế đầu ngành sở hữu các hệ sinh thái máy tính phân tích dữ liệu thị trường vô cùng hiện đại.",
+        "Họ không cố chấp bảo vệ dự đoán ban đầu mà liên tục cập nhật xác suất khi có dữ liệu mới với tần suất cao gấp nhiều lần.",
+        "Họ sở hữu trực giác tâm linh nhạy bén cho phép nhìn thấu các bước ngoặt lịch sử trước khi chúng diễn ra trong thực tế đời sống.",
+        "Họ luôn kiên định bảo vệ lập trường phân tích ban đầu đến cùng bất chấp những biến động nhiễu loạn ngắn hạn của thị trường."
       ],
-      "correctIndex": 3,
-      "explanation": "Những nhãn mác tự áp đặt là những song sắt vô hình; khi bạn từ chối tái định nghĩa bản thân, bạn đang tự giam mình trong một phiên bản hạn hẹp của quá khứ."
+      "correctIndex": 1,
+      "explanation": "Các siêu dự báo viên không thông minh vượt trội, nhưng họ cập nhật niềm tin liên tục; mỗi thông tin mới là cơ hội để điều chỉnh lại xác suất."
     },
     {
       "id": "q7",
-      "question": "Tại sao việc 'Tự trào và cười nhạo bản thân' (Self-Deprecation) lại là một công cụ tâm lý mạnh mẽ giúp tăng cường năng lực phục hồi?",
+      "question": "Bài học từ nhà siêu dự báo Andrew Hall trong cuộc bầu cử tổng thống Mỹ năm 2016 là gì?",
       "options": [
-        "Đây là một chiêu thức để trốn tránh việc phải xin lỗi người khác khi làm sai.",
-        "Nó phá vỡ lớp vỏ bọc căng thẳng của sự tự phụ, nhắc nhở bạn rằng bạn chỉ là một con người bình thường đang trong quá trình hoàn thiện và không cần phải gồng mình hoàn hảo.",
-        "Nó làm giảm nồng độ dopamine trong não bộ gây ra sự mệt mỏi.",
-        "Nó khiến người khác xem thường và không bao giờ giao việc quan trọng cho bạn."
+        "Ông đã tin tưởng tuyệt đối vào các cuộc thăm dò ý kiến cử tri trên các phương tiện thông tin đại chúng lớn của quốc gia để đưa ra dự báo.",
+        "Ông đã sử dụng các thuật toán mạng xã hội tự động để theo dõi số lượng người theo dõi các ứng cử viên tổng thống hàng ngày.",
+        "Ông liên tục cập nhật dữ liệu từ các hạt bầu cử nhỏ để nâng dần xác suất của Donald Trump, không để định kiến chính trị chi phối.",
+        "Ông đã quyết định rút khỏi dự án dự báo vì nhận thấy các phương pháp thống kê truyền thống không thể áp dụng vào chính trị."
       ],
-      "correctIndex": 1,
-      "explanation": "Người không biết tự cười mình sẽ luôn cảm thấy bị xúc phạm và tổn thương trước mọi lời chỉ trích; người biết tự cười mình là người sở hữu sự tự do nội tâm bất khả chiến bại."
+      "correctIndex": 2,
+      "explanation": "Andrew Hall đã gạt bỏ sự yêu ghét cá nhân, liên tục cập nhật dữ liệu từng hạt nhỏ để nhận ra cơ hội chiến thắng của Trump khi người khác phớt lờ."
     },
     {
       "id": "q8",
-      "question": "Thói quen 'Đặt câu hỏi phản biện cho chính ý tưởng tuyệt vời nhất của mình' (Red Teaming) vận hành như thế nào?",
+      "question": "Lời khuyên kinh điển trong phim Chiến tranh giữa các vì sao \"Bạn phải quên đi những gì đã học\" (Hiệu ứng Yoda) mang thông điệp gì?",
       "options": [
-        "Đóng vai trò là đối thủ cạnh tranh nguy hiểm nhất của chính mình: Tự tìm kiếm mọi kẽ hở, rủi ro và điểm yếu trong kế hoạch của mình để khắc phục trước khi đưa ra thị trường.",
-        "Hủy bỏ toàn bộ kế hoạch ngay khi xuất hiện một ý kiến phản đối đầu tiên.",
-        "Thuê một nhóm luật sư chuyên nghiệp đi kiện các đối thủ cạnh tranh trên thị trường.",
-        "Bắt buộc tất cả nhân viên phải mặc đồng phục màu đỏ trong các buổi họp."
+        "Khuyên con người nên từ bỏ các chương trình giáo dục hàn lâm để hòa mình hoàn toàn vào cuộc sống hoang dã nơi thiên nhiên đầy thử thách mới.",
+        "Nhắc nhở học sinh cần xóa sạch toàn bộ kiến thức phổ thông trước khi bước vào giảng đường đại học để tiếp thu tư duy mới.",
+        "Cảnh báo rằng việc đọc quá nhiều sách triết học phương Tây sẽ làm suy giảm trực giác tâm linh truyền thống của con người.",
+        "Muốn tiếp thu chân lý mới, ta buộc phải chủ động giải phóng tâm trí khỏi các thói quen và giả định đã lỗi thời trong quá khứ."
       ],
-      "correctIndex": 0,
-      "explanation": "Tự phản biện (Red Teaming) giúp bạn kiểm tra độ bền của ý tưởng trong môi trường an toàn, biến các điểm yếu thành pháo đài vững chắc trước khi đối mặt với thực tế."
+      "correctIndex": 3,
+      "explanation": "Hiệu ứng Yoda nhấn mạnh việc học cách quên (unlearning): dỡ bỏ các mô thức cũ đã ăn sâu trong tiềm thức là tiền đề để tiếp nhận thực tại mới."
     },
     {
       "id": "q9",
-      "question": "Tại sao những người có 'Tư duy toàn vẹn' (Total Integrity) lại coi việc ngụy biện và bẻ cong sự thật là một sự sỉ nhục đối với phẩm giá của mình?",
+      "question": "Biểu đồ \"Trình tự thời gian học cái mới\" được tác giả minh họa trong sách chỉ ra chặng đường nhận thức nào?",
       "options": [
-        "Bởi vì họ sợ bị cơ quan thuế xử phạt nếu phát hiện sai sót số liệu.",
-        "Bởi vì họ hiểu rằng sự thật không phụ thuộc vào ý muốn chủ quan của con người; việc cố tình lừa dối chính mình là hình thức tự hủy hoại nhân cách tồi tệ nhất.",
-        "Bởi vì xã hội luôn trừng phạt nghiêm khắc những người thay đổi quan điểm.",
-        "Bởi vì họ muốn xây dựng hình ảnh thánh thiện để bán khóa học trực tuyến."
+        "Trải qua các bước: Tôi không biết gì -> Nó phức tạp hơn tôi nghĩ -> Tôi không hiểu gì -> Tôi bắt đầu hiểu -> Tôi hoàn toàn không hiểu gì.",
+        "Khởi đầu từ sự hoài nghi sâu sắc -> dần tiếp thu kiến thức nền tảng -> đạt tới sự tự tin tuyệt đối -> trở thành chuyên gia am tường.",
+        "Bắt đầu từ việc học thuộc lòng các quy trình -> áp dụng thành thạo vào thực tế -> loại bỏ hoàn toàn sai sót -> đạt tới đỉnh cao hoàn hảo.",
+        "Xuất phát từ sự tự ti năng lực -> nhận được sự hướng dẫn của cố vấn -> bộc phát tài năng sáng tạo -> làm chủ hoàn toàn lĩnh vực mới."
       ],
-      "correctIndex": 1,
-      "explanation": "Chính trực về trí tuệ là nền tảng của mọi phẩm hạnh; người có lương tri sáng suốt thà chịu cảm giác khó chịu nhất thời của sự sửa sai còn hơn sống trong lâu đài cát của sự dối trá."
+      "correctIndex": 0,
+      "explanation": "Đồ thị học tập thực tế: Biết một chút tưởng hiểu -> thấy phức tạp -> hoang mang -> bắt đầu hiểu -> lại nhận ra mình còn quá nhiều điều chưa hiểu."
     },
     {
       "id": "q10",
-      "question": "Thí nghiệm về 'Sự chuyển biến niềm tin của các nhà khoa học đối với hiện tượng biến đổi khí hậu' cho thấy điều gì?",
+      "question": "Tại sao việc mỉm cười và tự trào trước những sai lầm ngây thơ trong quá khứ lại là dấu hiệu của sự tự do tinh thần?",
       "options": [
-        "Dữ liệu khí tượng thủy văn hoàn toàn không có độ tin cậy khoa học.",
-        "Khi các bằng chứng thực nghiệm về sự nóng lên toàn cầu tích lũy ngày càng nhiều, các nhà khoa học có tư duy cởi mở đã nhanh chóng từ bỏ các mô hình cũ để chấp nhận thực tế mới.",
-        "Hiện tượng biến đổi khí hậu chỉ là một trò lừa bịp của các công ty truyền thông.",
-        "Tất cả các nhà khoa học đều từ chối thay đổi mô hình nghiên cứu đã công bố trong quá khứ."
+        "Vì điều đó giúp bạn dễ dàng che đậy sự thiếu sót chuyên môn trước mặt cấp trên và giảm thiểu rủi ro bị xử lý kỷ luật trong công việc.",
+        "Vì nó chứng minh bạn đã tách rời bản ngã hiện tại khỏi cái sai trong quá khứ, không còn cần phòng thủ để bảo vệ sự hoàn hảo giả tạo.",
+        "Vì nụ cười hài hước là công cụ tâm lý giúp bạn chuyển hướng sự chú ý của dư luận khỏi các hậu quả pháp lý nghiêm trọng đã gây ra.",
+        "Vì trong giao tiếp xã hội, người thường xuyên cười cợt các sai sót của bản thân luôn được xem là người dễ dãi và thiếu chính kiến."
       ],
       "correctIndex": 1,
-      "explanation": "Sức mạnh của cộng đồng khoa học chân chính là khả năng tự sửa sai tiệm tiến; chân lý không được định đoạt bằng niềm tin của số đông mà bằng sức nặng của bằng chứng thực tế."
+      "explanation": "Khi có thể cười vào sai lầm của mình, bạn đã tự do; bạn nhận ra quá khứ mình từng sai, nhưng hiện tại đã khôn ngoan hơn mà không làm tổn thương cái tôi."
     },
     {
       "id": "q11",
-      "question": "Làm thế nào để xây dựng một văn hóa gia đình nơi 'Việc thừa nhận sai lầm được hoan nghênh thay vì bị trừng phạt'?",
+      "question": "Phản ứng của Danny Kahneman khi được Adam Grant chỉ ra nghiên cứu tâm lý của ông có điểm thiếu sót cho thấy điều gì?",
       "options": [
-        "Phạt đòn thật nặng mỗi khi con cái làm vỡ đồ đạc trong nhà để rèn kỷ luật.",
-        "Cha mẹ chủ động chia sẻ cởi mở về những lỗi lầm của chính mình, khen ngợi con cái khi con dũng cảm nhận lỗi và cùng con phân tích bài học rút ra.",
-        "Bỏ qua mọi lỗi lầm của con cái và không cần đưa ra bất kỳ sự uốn nắn nào.",
-        "Tuyệt đối không bao giờ để con cái biết cha mẹ đã từng mắc bất kỳ sai sót nào."
+        "Sự tự ái học thuật sâu sắc của các nhà khoa học lớn tuổi khi bị các đồng nghiệp thuộc thế hệ trẻ hơn công khai đặt câu hỏi nghi vấn.",
+        "Sự hoài nghi tuyệt đối vào độ tin cậy của các phương pháp nghiên cứu tâm lý học thực nghiệm đương đại đang được áp dụng rộng rãi.",
+        "Tinh thần khiêm nhường học thuật vĩ đại: ông không giận dữ bảo vệ danh tiếng mà chân thành cảm ơn vì được khai sáng thêm góc nhìn mới.",
+        "Kỹ năng né tránh xung đột khôn khéo của một học giả lão thành nhằm giữ gìn mối quan hệ hợp tác nghiên cứu lâu dài giữa hai trường."
       ],
-      "correctIndex": 1,
-      "explanation": "Trẻ em không sợ thất bại, chúng chỉ sợ sự phán xét và trừng phạt; khi cha mẹ làm gương về sự khiêm nhường nhận lỗi, con cái sẽ phát triển tư duy cầu tiến vượt bậc."
+      "correctIndex": 2,
+      "explanation": "Danny Kahneman chứng minh nhân cách của một nhà khoa học vĩ đại: niềm vui tìm ra sự thật luôn lớn hơn sự tổn thương của cái tôi khi bị chỉ ra sai sót."
     },
     {
       "id": "q12",
-      "question": "Tại sao việc 'Thừa nhận mình sai trong một cuộc tranh luận' lại nâng cao uy tín và sức thuyết phục của bạn trong mắt người nghe?",
+      "question": "Tại sao việc thẳng thắn thừa nhận mình sai trong một cuộc tranh luận lại nâng cao uy tín và sức thuyết phục của bạn?",
       "options": [
-        "Nó khiến đối phương cảm thấy thương hại và tự động nhường phần thắng cho bạn.",
-        "Nó giúp cuộc tranh luận kết thúc nhanh chóng để mọi người đi về nghỉ ngơi.",
-        "Đây là một quy tắc bắt buộc trong các cuộc thi tranh biện quốc tế.",
-        "Nó chứng minh bạn là một người công tâm, biết lắng nghe lý lẽ và coi trọng sự thật hơn thắng thua cá nhân, khiến những luận điểm đúng sau này của bạn càng đáng tin cậy hơn."
+        "Vì nó khiến cho đối phương cảm thấy thương hại và sẵn sàng nhượng bộ những điều khoản hợp đồng quan trọng nhất cho phía bạn.",
+        "Vì đây là một chiến thuật tâm lý tinh vi nhằm làm cho đối phương mất cảnh giác để bạn dễ dàng tung ra đòn phản biện quyết định sau đó.",
+        "Vì các quy tắc tranh biện quốc tế luôn dành điểm cộng ưu tiên cho những thí sinh có thái độ nhã nhặn và biết nhận lỗi trước ban giám khảo.",
+        "Vì nó khẳng định bạn là người trung thực, tôn trọng sự thật khách quan hơn thể diện cá nhân, khiến người nghe hoàn toàn tin tưởng bạn."
       ],
       "correctIndex": 3,
-      "explanation": "Người cứng đầu cố cãi chày cãi cối sẽ mất sạch uy tín; người dám mỉm cười nói 'Luận điểm này của bạn rất sắc bén, tôi đã sai ở điểm này' sẽ chiếm trọn sự tôn trọng của tất cả mọi người."
+      "explanation": "Thừa nhận sai không làm bạn yếu đi; nó chứng minh bạn là người tìm kiếm sự thật chứ không phải kẻ hiếu thắng, khiến uy tín của bạn tăng vọt."
     },
     {
       "id": "q13",
-      "question": "Khái niệm 'Sự linh hoạt nhận thức' (Cognitive Flexibility) đóng vai trò như một bộ giảm xóc tâm lý như thế nào trước những biến cố bất ngờ?",
+      "question": "Khi một dự đoán bị thực tế chứng minh là sai, câu hỏi chuẩn mực của người sở hữu tư duy khoa học là gì?",
       "options": [
-        "Giúp bạn nhanh chóng hấp thu cú sốc, từ bỏ kế hoạch cũ không còn khả thi và lập tức tái cấu trúc giải pháp mới mà không rơi vào trạng thái tê liệt hay trầm cảm.",
-        "Giúp bạn không bao giờ phải chịu bất kỳ cảm xúc buồn bã hay đau đớn nào.",
-        "Làm giảm áp lực tài chính thông qua việc vay mượn tiền từ các quỹ tín dụng.",
-        "Bảo đảm rằng mọi dự án kinh doanh của bạn sẽ luôn luôn sinh lời 100%."
+        "\"Dữ liệu quan trọng nào mình đã bỏ sót và giả định nào của mình cần phải được nghiêm túc hiệu chỉnh lại ngay từ bây giờ?\"",
+        "\"Làm thế nào để diễn giải lại các số liệu thống kê nhằm chứng minh rằng dự đoán ban đầu của mình về cơ bản vẫn hoàn toàn đúng?\"",
+        "\"Ai là người phải chịu trách nhiệm chính về những sai lệch thông tin đầu vào đã dẫn đến sự thất bại của mô hình phân tích này?\"",
+        "\"Làm sao để nhanh chóng xóa bỏ các dấu vết của dự báo sai sót này khỏi hệ thống lưu trữ trước khi ban giám đốc phát hiện ra?\""
       ],
       "correctIndex": 0,
-      "explanation": "Cây sậy mềm dẻo uốn mình theo cơn bão sẽ sống sót, trong khi cây cổ thụ cứng nhắc sẽ bị quật gãy; sự linh hoạt nhận thức là lá chắn sinh tồn mạnh mẽ nhất của tâm trí."
+      "explanation": "Nhà khoa học không hỏi ai sai hay làm sao để bào chữa, mà hỏi mình đã bỏ lỡ dữ liệu gì để nâng cấp giả thuyết và học hỏi."
     },
     {
       "id": "q14",
-      "question": "Bài tập thực hành 'Danh sách những điều tôi từng tin chắc nhưng hóa ra đã hoàn toàn sai' (The List of My Wrong Beliefs) có tác dụng gì?",
+      "question": "Nhận định: \"Khi dữ liệu thực tế thay đổi, tôi thay đổi suy nghĩ của mình. Còn ngài thì sao?\" thể hiện tinh thần nào?",
       "options": [
-        "Không mang lại bất kỳ giá trị thực tế nào cho sự phát triển cá nhân.",
-        "Giúp hạ nhiệt cái tôi, nuôi dưỡng tính khiêm nhường lành mạnh và nhắc nhở chúng ta rằng những niềm tin chắc nịch hiện tại cũng có thể đang chứa đựng nhiều sai sót.",
-        "Để in ra làm tài liệu tự phê bình trong các buổi sinh hoạt đảng phái.",
-        "Để lưu trữ làm bằng chứng chứng minh mình là người không có lập trường."
+        "Sự ba phải và thiếu lập trường vững chắc của các chính khách cơ hội luôn sẵn sàng thay đổi quan điểm theo chiều gió của dư luận xã hội.",
+        "Tinh thần khoa học thực nghiệm: tôn trọng chứng cứ khách quan và dũng cảm từ bỏ giáo điều khi bối cảnh thực tế chuyển dịch.",
+        "Chiến lược kinh doanh mạo hiểm nhằm liên tục gây bất ngờ cho các đối thủ cạnh tranh trên thị trường tài chính quốc tế đầy biến động.",
+        "Thái độ mỉa mai coi thường các nguyên tắc đạo đức truyền thống của các nhà kinh tế học tư bản trong thời kỳ khủng hoảng kinh tế."
       ],
       "correctIndex": 1,
-      "explanation": "Nhìn lại danh sách những điều mình từng sai là liều vắc-xin tốt nhất chống lại căn bệnh tự phụ; nó giữ cho tâm trí luôn ở trạng thái tỉnh thức, khiêm nhường và sẵn sàng tái tư duy."
+      "explanation": "Câu nói nổi tiếng này tôn vinh sự linh hoạt nhận thức: dữ liệu là tối thượng; khi dữ liệu thay đổi, việc thay đổi suy nghĩ là hành động sáng suốt nhất."
     },
     {
       "id": "q15",
-      "question": "Thông điệp đắt giá nhất khép lại Chương 3 về 'Niềm vui khi sai' là gì?",
+      "question": "Thông điệp cốt lõi khép lại Chương 3 về \"Niềm vui khi phát hiện mình sai\" là gì?",
       "options": [
-        "'Mỗi lần bạn nhận ra mình sai là một lần bạn vừa thoát khỏi sự ngu dốt của chính mình; hãy mỉm cười đón nhận sự thật và tận hưởng niềm vui bất tận của sự khai sáng!'.",
-        "'Sai lầm là một điều sỉ nhục và không bao giờ được phép tha thứ cho bản thân'.",
-        "'Hãy cố gắng che giấu mọi sai lầm của mình bằng mọi giá để bảo vệ uy tín'.",
-        "'Người thông minh là người không bao giờ thay đổi bất kỳ quan điểm nào trong đời'."
+        "Sai lầm là một điều sỉ nhục cần phải tránh bằng mọi giá nếu bạn muốn duy trì hình ảnh một chuyên gia hoàn hảo trong mắt xã hội ngày nay.",
+        "Việc liên tục phạm sai lầm là bằng chứng rõ ràng nhất cho thấy cá nhân hoàn toàn không phù hợp với các công việc đòi hỏi tư duy logic.",
+        "Phát hiện mình sai là khoảnh khắc kỳ diệu chứng minh bạn vừa học thêm điều mới và tiến bộ, bớt sai hơn ngày hôm qua.",
+        "Sự trưởng thành của con người được đo lường bằng số lượng các cuộc tranh luận mà bạn đã giành chiến thắng áp đảo trước đối thủ."
       ],
-      "correctIndex": 0,
-      "explanation": "Đừng sợ sai; hãy sợ việc bám chặt lấy cái sai trong suốt cả một đời người; niềm vui khi phát hiện mình sai chính là bước nhảy vọt của một tâm hồn tự do và thông thái."
+      "correctIndex": 2,
+      "explanation": "Niềm vui khi sai là đỉnh cao của giải phóng tư duy: Bạn không còn sợ sai, mà chào đón sai lầm như món quà khai sáng giúp bạn tiến bộ không ngừng."
     }
   ]
 }

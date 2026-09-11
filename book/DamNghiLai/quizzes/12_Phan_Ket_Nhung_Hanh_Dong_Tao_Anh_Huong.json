@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Trong 30 hành động tạo ảnh hưởng của cuốn sách, hành động cốt lõi đầu tiên ở cấp độ 'TÁI TƯ DUY CÁ NHÂN' là gì?",
+      "question": "Tại sao ban đầu Adam Grant định để phần kết của cuốn sách là một trang giấy trắng, và lý do ông thay đổi ý định là gì?",
       "options": [
-        "Tập thể dục cường độ cao 3 tiếng mỗi ngày tại phòng tập thể hình.",
-        "Tư duy như một nhà khoa học: Luôn coi các ý kiến của mình là giả thuyết cần kiểm chứng, chủ động tìm kiếm các điểm dữ liệu phản biện và khiêm nhường cập nhật góc nhìn.",
-        "Mua sắm các thiết bị công nghệ tiên tiến nhất để tự động hóa công việc.",
-        "Đọc thuộc lòng tất cả các bài viết của tác giả Adam Grant trên mạng xã hội."
+        "Muốn biểu đạt tính mở của tư duy, nhưng mạng lưới phản biện khuyên rằng đoạn kết nên là bệ phóng khơi nguồn đối thoại cho độc giả.",
+        "Nhà xuất bản yêu cầu cắt giảm bớt số trang in để tiết kiệm chi phí phát hành nhưng sau đó đồng ý tài trợ toàn bộ kinh phí dự án.",
+        "Tác giả cảm thấy hoàn toàn cạn kiệt ý tưởng mới sau khi đã hoàn thành toàn bộ mười một chương sách chuyên sâu về tâm lý học tổ chức.",
+        "Muốn tạo ra một trò đùa bất ngờ nhằm trêu chọc giới phê bình văn học nhưng bị gia đình can ngăn vì sợ làm tổn hại danh tiếng cá nhân."
       ],
-      "correctIndex": 1,
-      "explanation": "Tư duy khoa học là nền móng của mọi sự chuyển hóa; khi bạn từ bỏ cái tôi giáo điều để đón nhận óc tò mò thực nghiệm, bạn sẽ liên tục tiến hóa nhận thức."
+      "correctIndex": 0,
+      "explanation": "Ban đầu tác giả muốn để một trang trắng để biểu thị tư duy luôn mở; nhưng hai sinh viên phản biện đã thuyết phục ông rằng đoạn kết là điểm bắt đầu của độc giả, nên trình bày các đúc kết thực tiễn."
     },
     {
       "id": "q2",
-      "question": "Hành động nào giúp bạn thiết lập một 'Mạng lưới phản biện' (Challenge Network) hiệu quả trong cuộc sống?",
+      "question": "Câu nói của nhà vật lý Max Planck về việc các chân lý khoa học chiến thắng nhờ 'các đối thủ già đi và chết đi' được Grant nhìn nhận ra sao?",
       "options": [
-        "Thuê một công ty thám tử tư nhân theo dõi các đối thủ cạnh tranh trên thị trường.",
-        "Chủ động mời những người có tư duy độc lập, thẳng thắn và khó tính chỉ ra những điểm mù, lỗ hổng trong các kế hoạch của bạn và trao thưởng cho sự phản biện chân thành của họ.",
-        "Chỉ kết bạn với những người luôn luôn đồng ý và ca ngợi mọi ý kiến của bạn.",
-        "Lập một nhóm chat bí mật trên mạng xã hội để nói xấu các đồng nghiệp khác."
+        "Hoàn toàn đồng tình vì não bộ người già không còn khả năng tái cấu trúc các nơ-ron thần kinh để tiếp nhận tri thức hiện đại mới mẻ.",
+        "Không đồng tình; ông tin mỗi cá nhân đều có thể tái tư duy nếu biết rèn luyện thói quen suy nghĩ như một nhà khoa học.",
+        "Xem đây là quy luật tiến hóa sinh học bất biến chi phối toàn bộ tiến trình phát triển của các ngành khoa học tự nhiên và xã hội.",
+        "Đề xuất cần đẩy nhanh việc chuyển giao quyền lực trong viện nghiên cứu cho thế hệ trẻ để xóa bỏ hoàn toàn các tư tưởng học thuật cũ."
       ],
       "correctIndex": 1,
-      "explanation": "Mạng lưới phản biện là tấm gương soi chiếu những hạt bụi trong mắt bạn; người dám nói sự thật khó nghe chính là người bạn quý giá nhất trên con đường hoàn thiện."
+      "explanation": "Max Planck cho rằng sự thay thế thế hệ nhanh hơn sự đổi ý của một người; nhưng Grant không tin điều đó là định mệnh vì mọi cá nhân đều có năng lực tái tư duy nếu biết tư duy như nhà khoa học."
     },
     {
       "id": "q3",
-      "question": "Ở cấp độ 'TÁI TƯ DUY LIÊN CÁ NHÂN', kỹ thuật quan trọng nhất trong việc thuyết phục người khác là gì?",
+      "question": "Nghiên cứu về những nhà dự đoán tài ba (superforecasters) ở Chương 3 được nhắc lại ở Phần Kết cho thấy điều gì về giới hạn tái tư duy?",
       "options": [
-        "Thực hành Phỏng vấn tạo động lực: Lắng nghe nhiều hơn nói, đặt các câu hỏi mở khơi gợi và giúp đối phương tự mình khám phá ra lý do để thay đổi.",
-        "Đưa ra 20 luận điểm số liệu thống kê dồn dập để đè bẹp đối phương trong tranh luận.",
-        "Sử dụng các chiêu trò tâm lý thao túng để ép buộc đối phương ký hợp đồng.",
-        "Tỏ thái độ tức giận và gào thét thật to để thị uy quyền lực trước đám đông."
+        "Những người xuất sắc nhất không bao giờ thay đổi dự đoán ban đầu vì họ có trực giác phi thường vượt trội hơn người bình thường.",
+        "Việc thay đổi ý kiến quá nhiều lần trong một bài kiểm tra sẽ làm giảm độ chính xác và khiến người dự đoán mất tự tin vào bản thân.",
+        "Họ cập nhật dự đoán 4 lần cho mỗi câu hỏi thay vì 2 lần; việc tái tư duy mang lại lợi ích lớn mà hầu như không có mặt trái.",
+        "Các chuyên gia dự đoán chỉ dựa vào thuật toán phân tích dữ liệu lớn trên máy tính mà không vận dụng trực giác hay tư duy phản biện."
       ],
-      "correctIndex": 0,
-      "explanation": "Thuyết phục không phải là sự áp đặt từ bên ngoài mà là sự khai mở từ bên trong; hãy là người hướng dẫn nhã nhặn giúp đối phương tự mở cánh cửa tâm trí của chính họ."
+      "correctIndex": 2,
+      "explanation": "Dữ liệu cho thấy các siêu dự đoán gia cập nhật dự báo 4 lần/câu hỏi; điều này chứng tỏ con người không cần tái tư duy quá nhiều lần để hưởng lợi ích và việc xem xét lại hầu như không có mặt tiêu cực."
     },
     {
       "id": "q4",
-      "question": "Hành động nào giúp chúng ta 'Phức tạp hóa các vấn đề phân cực' trong các cuộc trò chuyện hàng ngày?",
+      "question": "Phong cách lãnh đạo của Tổng thống Franklin D. Roosevelt trong cuộc Đại suy thoái 1932 được xem là hình mẫu của điều gì?",
       "options": [
-        "Chủ động từ bỏ các từ ngữ tuyệt đối hóa (trắng/đen), thừa nhận các sắc thái xám và đưa vào các câu hỏi khám phá sự đan xen phức tạp của vấn đề.",
-        "Buộc tất cả mọi người phải chọn một phe rõ ràng trong vòng 10 giây.",
-        "Đồng ý với tất cả mọi ý kiến mà không cần đưa ra bất kỳ sự phân tích nào.",
-        "Cấm mọi người thảo luận về bất kỳ chủ đề nào có liên quan đến chính trị xã hội."
+        "Lối tư duy của nhà truyền giáo với niềm tin sắt đá rằng chỉ có một học thuyết kinh tế duy nhất có thể giải cứu toàn bộ nền tài chính.",
+        "Chiến thuật của chính trị gia tài ba, luôn tìm cách làm hài lòng mọi phe phái đối lập mà không bao giờ đưa ra các quyết định dứt khoát.",
+        "Sự tự tin thái quá của một nhà cầm quyền độc đoán, bác bỏ hoàn toàn mọi ý kiến phản biện từ các cố vấn và chuyên gia kinh tế độc lập.",
+        "Tinh thần khiêm nhường tự tin của nhà khoa học: Dũng cảm thử nghiệm táo bạo không ngừng, dám nhận sai khi thất bại để thử cách khác."
       ],
-      "correctIndex": 0,
-      "explanation": "Phức tạp hóa là liều thuốc giải độc cho sự cuồng tín; nó đưa cuộc đối thoại từ sự thù địch nhị nguyên trở về với sự thấu hiểu đa chiều và nhân bản."
+      "correctIndex": 3,
+      "explanation": "FDR nổi tiếng với tuyên ngôn: 'Chọn một phương án và thử nghiệm: nếu thất bại, thẳng thắn thừa nhận và thử cách khác. Nhưng trên hết, phải thử cách gì đó'. Đó là sự khiêm nhường tự tin của nhà khoa học."
     },
     {
       "id": "q5",
-      "question": "Ở cấp độ 'TÁI TƯ DUY TẬP THỂ', hành động cốt lõi để xây dựng một tổ chức học tập là gì?",
+      "question": "Hành động 2 trong 'Tái tư duy cá nhân' khuyên: 'Xác định căn tính bản thân dựa trên các giá trị, thay vì quan điểm' có ý nghĩa gì?",
       "options": [
-        "Kiến tạo môi trường An toàn tâm lý (Psychological Safety) kết hợp với Tiêu chuẩn trách nhiệm cao: Tôn vinh các cuộc thử nghiệm thông minh và học tập từ sai sót.",
-        "Bãi bỏ toàn bộ các cuộc họp phản biện và chỉ thực hiện mệnh lệnh của ban giám đốc.",
-        "Tổ chức các cuộc thi đua nội bộ khốc liệt để sa thải 10% nhân viên cuối bảng mỗi quý.",
-        "Phạt trừ lương thật nặng đối với bất kỳ nhân viên nào mắc phải sai lầm trong công việc."
+        "Giúp ta không bị mắc kẹt vào niềm tin cũ, coi sự tò mò và linh hoạt là bản sắc thay vì cố chấp bảo vệ một ý kiến nhất thời đã lỗi thời.",
+        "Khuyên ta liên tục thay đổi các nguyên tắc đạo đức cốt lõi tùy theo biến động hoàn cảnh xã hội để tối đa hóa các lợi ích vật chất riêng.",
+        "Yêu cầu ta từ bỏ toàn bộ mọi quan điểm cá nhân để hòa nhập hoàn toàn vào các suy nghĩ và cảm xúc của đám đông xung quanh nơi làm việc.",
+        "Khuyên con người không nên đưa ra bất kỳ nhận định nào trước các sự kiện xã hội để giữ cho tâm trí luôn ở trạng thái trung lập tuyệt đối."
       ],
       "correctIndex": 0,
-      "explanation": "An toàn tâm lý giải phóng tiếng nói của sự thật; khi nhân viên không sợ hãi sự trừng phạt, tổ chức sẽ sở hữu nguồn trí tuệ tập thể vô tận để liên tục đổi mới."
+      "explanation": "Khi định nghĩa bản thân là người đề cao sự học hỏi, tò mò và linh hoạt (giá trị), ta sẽ dễ dàng từ bỏ các quan điểm cũ khi có dữ liệu mới mà không cảm thấy bản ngã bị đe dọa."
     },
     {
       "id": "q6",
-      "question": "Tại sao việc 'Phá bỏ những quy trình cũ không còn tạo ra giá trị' lại là một thói quen vệ sinh tổ chức bắt buộc?",
+      "question": "Theo Hành động 8, sự khác biệt căn bản giữa 'mạng lưới hỗ trợ' (support network) và 'mạng lưới phản biện' (challenge network) là gì?",
       "options": [
-        "Nó giúp công ty cắt giảm toàn bộ đội ngũ nhân sự quản lý cấp trung.",
-        "Nó ngăn chặn căn bệnh xơ cứng và tê liệt của bộ máy, giải phóng thời gian và năng lượng sáng tạo của nhân viên cho những mục tiêu chiến lược đột phá.",
-        "Nó làm tăng số lượng các biểu mẫu giấy tờ hành chính cần phải ký duyệt.",
-        "Đây là một phong tục truyền thống của các công ty công nghệ tại Thung lũng Silicon."
+        "Mạng lưới hỗ trợ gồm các nhà tài trợ vốn, trong khi mạng lưới phản biện gồm các luật sư chịu trách nhiệm giải quyết các tranh chấp pháp lý.",
+        "Mạng lưới hỗ trợ gồm những người cổ vũ tiếp thêm dũng khí; mạng lưới phản biện gồm những người phê bình thấu đáo chỉ ra lỗ hổng tư duy.",
+        "Mạng lưới phản biện luôn tìm cách hạ thấp uy tín của bạn, trong khi mạng lưới hỗ trợ sẽ bảo vệ bạn trước mọi sự công kích từ đối thủ ngoài.",
+        "Mạng lưới hỗ trợ chỉ cần khi khởi nghiệp, còn mạng lưới phản biện chỉ phát huy tác dụng khi công ty đã trở thành tập đoàn đa quốc gia lớn."
       ],
       "correctIndex": 1,
-      "explanation": "Quy trình thừa thãi là gông cùm của sự sáng tạo; tổ chức thông thái định kỳ thanh lọc các thủ tục lỗi thời để duy trì sự nhanh nhạy và linh hoạt."
+      "explanation": "Ta cần mạng lưới hỗ trợ để cổ vũ tinh thần, nhưng cũng rất cần mạng lưới thử thách/phản biện gồm những người phê bình thấu đáo nhất để chất vấn tư duy và chỉ ra điểm mù của ta."
     },
     {
       "id": "q7",
-      "question": "Hành động nào giúp các bậc phụ huynh và giáo viên nuôi dưỡng thế hệ trẻ có 'Tư duy của nhà khoa học'?",
+      "question": "Tại sao Hành động 11 trong phần giao tiếp lại khuyên nên đặt câu hỏi 'làm thế nào' (how) thay vì hỏi 'tại sao' (why)?",
       "options": [
-        "Phạt điểm kém những học sinh dám đưa ra ý kiến trái chiều với giáo viên.",
-        "Dạy trẻ cách chất vấn sách giáo khoa, khuyến khích các em đặt những câu hỏi mở và tổ chức các bài học thực nghiệm khám phá thay vì chỉ học vẹt trả bài.",
-        "Bắt buộc học sinh phải học thuộc lòng toàn bộ sách giáo khoa từ trang đầu đến trang cuối.",
-        "Cấm trẻ em tham gia vào các hoạt động thảo luận và tranh biện nhóm."
+        "Vì câu hỏi 'làm thế nào' giúp kéo dài thời gian đối thoại khi bạn chưa kịp chuẩn bị các số liệu thực chứng để phản bác lại lập luận của họ.",
+        "Vì câu hỏi 'tại sao' vi phạm quy tắc ngoại giao chuẩn mực trong các cuộc đàm phán thương mại quốc tế theo thông lệ của các nước phương Tây.",
+        "Hỏi 'tại sao' khiến người ta củng cố định kiến; hỏi 'làm thế nào' buộc họ giải thích cơ chế thực thi, từ đó nhận ra giới hạn hiểu biết.",
+        "Hỏi 'làm thế nào' tạo điều kiện để bạn phô diễn vốn kiến thức chuyên sâu và áp đặt giải pháp kỹ thuật của mình lên toàn bộ dự án nhóm."
       ],
-      "correctIndex": 1,
-      "explanation": "Nuôi dưỡng tinh thần khoa học cho trẻ thơ là đầu tư cho tương lai của nhân loại; hãy dạy các em biết cách tư duy chứ không phải bảo các em phải nghĩ cái gì."
+      "correctIndex": 2,
+      "explanation": "Khi giải thích 'tại sao', người ta thường bám chặt vào cảm xúc và giáo điều. Khi buộc phải giải thích 'làm thế nào' để ý tưởng vận hành, họ nhận ra sự phức tạp và các lỗ hổng tri thức của chính mình."
     },
     {
       "id": "q8",
-      "question": "Thói quen 'Định kỳ thực hiện bài kiểm tra sức khỏe cuộc đời và sự nghiệp' giúp cá nhân điều gì?",
+      "question": "Nguyên lý 'ít hơn thường mang lại nhiều hơn' (Hành động 15) trong nghệ thuật tranh luận và thuyết phục có nghĩa là gì?",
       "options": [
-        "Đảm bảo rằng bạn sẽ không bao giờ gặp phải bất kỳ thất bại nào trong đời.",
-        "Kịp thời phát hiện khi nào mình đang rơi vào cái bẫy tầm nhìn đường hầm hay chi phí chìm, từ đó dũng cảm tái cấu trúc mục tiêu và hướng đi mới phù hợp.",
-        "Giúp bạn tích lũy đủ số tiền để mua lại chiếc xe Ferrari đắt giá nhất.",
-        "Giúp bạn luôn luôn duy trì được mức lương cao nhất trong công ty."
+        "Nên dùng càng ít từ chuyên môn càng tốt để tránh làm cho người nghe cảm thấy bối rối trước các thuật ngữ khoa học mới lạ và phức tạp.",
+        "Chỉ nên tham gia đối thoại khi nhóm không quá ba người để đảm bảo mọi người đều có đủ thời gian trình bày quan điểm riêng.",
+        "Nên giữ im lặng trong suốt cuộc tranh luận và chỉ đưa ra kết luận khi các bên tham gia đã hoàn toàn kiệt sức vì cãi vã.",
+        "Đừng đưa quá nhiều lý lẽ làm loãng thông điệp; hãy tập trung vào vài luận điểm vững chắc nhất để đối phương không thể bẻ gãy."
       ],
-      "correctIndex": 1,
-      "explanation": "Cuộc đời là một hành trình liên tục tự hiệu chỉnh; kiểm tra định kỳ giúp bạn giữ vững bánh lái và không bao giờ bị trôi dạt vào bến bờ của sự nuối tiếc."
+      "correctIndex": 3,
+      "explanation": "Nếu chất đống quá nhiều lý lẽ, đối phương sẽ nhắm vào điểm yếu nhất trong số đó để bác bỏ toàn bộ. Hãy tập trung vào những luận điểm thuyết phục và đắt giá nhất."
     },
     {
       "id": "q9",
-      "question": "Làm thế nào để thực hành 'Niềm vui khi phát hiện mình sai' trong các cuộc trò chuyện hàng ngày?",
+      "question": "Kỹ thuật 'đối thoại về cuộc đối thoại' (conversation about the conversation - Hành động 17) nên được áp dụng khi nào?",
       "options": [
-        "Tuyệt đối im lặng và không bao giờ nói chuyện với người đó nữa.",
-        "Khi ai đó chứng minh bạn sai bằng dữ liệu xác thực, hãy mỉm cười nói: 'Cảm ơn bạn! Tôi vừa học được một điều mới tuyệt vời từ bạn!' thay vì xù lông phòng vệ.",
-        "Lập tức đổi chủ đề nói chuyện sang một vấn đề khác để đánh lạc hướng.",
-        "Tìm kiếm điểm yếu cá nhân của người đó để công kích lại nhằm gỡ gạc thể diện."
+        "Khi cảm xúc hai bên bắt đầu căng thẳng; tạm dừng nội dung để bộc bạch cảm xúc, thấu hiểu và điều chỉnh quy trình trao đổi.",
+        "Vào đầu mỗi ngày làm việc nhằm phổ biến lại toàn bộ quy chế giao tiếp ứng xử nội bộ cho toàn thể nhân viên trong văn phòng.",
+        "Khi bạn nhận thấy đối phương hoàn toàn đuối lý và bạn muốn ghi lại biên bản cuộc họp để làm bằng chứng xử phạt sau này.",
+        "Chỉ dùng trong các phiên tòa khi luật sư bào chữa cần khiếu nại về hành vi vi phạm tố tụng của hội đồng xét xử tại tòa án."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự thanh thản đón nhận sai sót là dấu hiệu của một tâm hồn tự do và bản lĩnh trí tuệ cao thượng; nó biến mọi cuộc trò chuyện thành một bữa tiệc của tri thức."
+      "correctIndex": 0,
+      "explanation": "Khi tranh luận trở nên gay gắt, các nhà thương thuyết tài ba chuyển hướng từ nội dung sang quy trình: bộc lộ cảm xúc thất bại/bức xúc và mời đối phương chia sẻ cảm nhận để cùng tái định hình cuộc trò chuyện."
     },
     {
       "id": "q10",
-      "question": "Tại sao việc 'Tách biệt giữa ý kiến cá nhân và bản sắc cốt lõi' lại là chìa khóa của sự giải phóng tinh thần?",
+      "question": "Ý nghĩa của việc 'đa chiều hóa các chủ đề gây tranh cãi' và 'không né tránh các cảnh báo giới hạn' (Hành động 18 & 19) là gì?",
       "options": [
-        "Để bạn có thể tự do lừa dối người khác mà không cảm thấy cắn rứt lương tâm.",
-        "Để người khác không thể nhận diện được tính cách thực sự của bạn.",
-        "Đây là một phương pháp điều trị tâm lý dành riêng cho các bệnh nhân mất trí nhớ.",
-        "Bạn hiểu rằng bạn không PHẢI LÀ ý kiến của bạn; bạn là một con người đang không ngừng học hỏi; việc thay đổi một ý kiến cũ chỉ là hành động thay một chiếc áo đã chật."
+        "Làm suy giảm uy tín của tác giả vì công chúng xã hội luôn đòi hỏi những kết luận trắng đen dứt khoát và tuyệt đối không có ngoại lệ.",
+        "Giúp người nghe thoát khỏi cái bẫy tư duy nhị nguyên phân cực, nhìn nhận các vùng xám và kích thích trí tò mò khám phá sâu hơn.",
+        "Tạo cớ để tác giả trốn tránh trách nhiệm giải trình nếu các dự đoán thực nghiệm tương lai không diễn ra đúng như mong đợi.",
+        "Nhằm kéo dài dung lượng các bài viết để đáp ứng đầy đủ tiêu chuẩn xuất bản khắt khe của các tạp chí nghiên cứu khoa học uy tín."
       ],
-      "correctIndex": 3,
-      "explanation": "Khi danh tính của bạn là 'người tìm kiếm chân lý', bạn sẽ không bao giờ sợ hãi sự phản biện; bạn sẵn sàng buông bỏ mọi chiếc áo ý kiến cũ để khoác lên mình sự thật mới."
+      "correctIndex": 1,
+      "explanation": "Việc thừa nhận các mảng xám, các điều kiện giới hạn và biến số đối lập không làm giảm độ tin cậy mà giúp phá vỡ sự phân cực nhị nguyên, khơi gợi sự tò mò và đối thoại cởi mở ở người nghe."
     },
     {
       "id": "q11",
-      "question": "Hành động nào giúp giảm thiểu sự phân cực và ác cảm giữa các nhóm xã hội đối lập?",
+      "question": "Hành động 21 khuyên cha mẹ tổ chức các buổi 'mổ xẻ sự thật' hằng tuần bên bàn ăn nhằm rèn luyện kỹ năng gì cho trẻ?",
       "options": [
-        "Chia cắt đất nước thành các khu vực địa lý riêng biệt cho từng đảng phái.",
-        "Cấm tất cả các phương tiện truyền thông đăng tin về các quan điểm trái chiều.",
-        "Tổ chức các cuộc biểu tình bạo động để áp đảo phe đối lập trên đường phố.",
-        "Tập trung vào những giá trị con người chung, cùng nhau hợp tác trong các dự án cộng đồng ý nghĩa và lắng nghe câu chuyện đời thực của nhau với sự thấu cảm."
+        "Kỹ năng tranh luận gay gắt để luôn giành phần thắng tuyệt đối trong mọi cuộc cãi vã với các bạn đồng trang lứa tại trường học hiện nay.",
+        "Khả năng ghi nhớ siêu việt để học thuộc lòng mọi câu chuyện cổ tích và thần thoại nhằm phục vụ cho bài kiểm tra môn ngữ văn.",
+        "Giúp trẻ nhận ra ngộ nhận thời thơ ấu, làm quen với việc từ bỏ niềm tin sai và hình thành thói quen kiểm chứng sự thật khách quan.",
+        "Kỹ năng phát hiện hành vi nói dối của người lớn thông qua phân tích ngôn ngữ cơ thể và biểu cảm ánh mắt trong giao tiếp ở nhà."
       ],
-      "correctIndex": 3,
-      "explanation": "Tình người vượt lên trên mọi ranh giới chính trị; khi chúng ta cùng nhau phục vụ một mục đích cao cả hơn, sự thù hận phe phái sẽ tự động tan biến."
+      "correctIndex": 2,
+      "explanation": "Những buổi 'mổ xẻ sự thật' gia đình giúp trẻ em thấy rằng việc nhận ra mình sai là điều bình thường và thú vị, từ đó rèn luyện tư duy của người xác minh dữ kiện ngay từ thuở nhỏ."
     },
     {
       "id": "q12",
-      "question": "Tại sao việc 'Nuôi dưỡng tính tò mò về những điều kỳ lạ và nghịch lý' lại là nhiên liệu của sự sáng tạo đột phá?",
+      "question": "Tại sao trong các tổ chức học tập, Adam Grant lại khuyên nên 'từ bỏ các phương pháp tối ưu' (Hành động 24)?",
       "options": [
-        "Tính tò mò là một căn bệnh tâm lý cần phải được điều trị bằng thuốc an thần.",
-        "Bởi vì những phát kiến vĩ đại nhất trong lịch sử luôn nảy sinh từ khoảnh khắc một ai đó nhìn vào một điều quen thuộc và tự hỏi: 'Khoan đã, tại sao nó lại như vậy?'.",
-        "Vì người tò mò luôn có nhiều thời gian rảnh rỗi hơn những người bận rộn.",
-        "Vì tính tò mò giúp bạn thu thập được nhiều tin đồn giật gân của người nổi tiếng."
+        "Vì việc áp dụng các phương pháp này đòi hỏi nguồn kinh phí đầu tư phần mềm quản trị quá đắt đỏ so với ngân sách của các công ty nhỏ.",
+        "Vì các phương pháp tối ưu thường do chuyên gia ngoại quốc đề xuất nên không phù hợp với văn hóa làm việc của người phương Đông.",
+        "Nhằm tạo điều kiện để mọi nhân viên làm việc tùy tiện theo cảm hứng mà không cần tuân theo bất kỳ một quy tắc chuyên môn nào.",
+        "Vì nhãn dán 'tối ưu' ngụ ý tiến trình đã hoàn tất, gây tự mãn và cản trở việc không ngừng tái tư duy tìm kiếm giải pháp tốt hơn."
       ],
-      "correctIndex": 1,
-      "explanation": "Óc tò mò là chiếc kính viễn vọng mở ra những thế giới mới; người không ngừng tò mò là người nắm giữ chìa khóa của những phát minh làm thay đổi nhân loại."
+      "correctIndex": 3,
+      "explanation": "Cụm từ 'phương pháp tối ưu' ngụ ý rằng giải pháp hoàn hảo đã đạt được. Để tổ chức liên tục học hỏi, cần chuyển sang ý thức trách nhiệm quy trình và không ngừng tìm kiếm cách làm tốt hơn."
     },
     {
       "id": "q13",
-      "question": "Hành động thực hành 'Đánh giá lại những cuốn sách và bộ phim yêu thích trong quá khứ' mang lại nhận thức gì?",
+      "question": "Lợi ích thiết thực của việc 'vứt bỏ kế hoạch mười năm' và chỉ lập kế hoạch 1-2 năm (Hành động 27) là gì?",
       "options": [
-        "Giúp bạn nhận ra nhận thức và trải nghiệm sống của mình đã tiến hóa sâu sắc đến mức nào so với con người của bạn 5 hoặc 10 năm trước.",
-        "Để bạn tìm cớ chỉ trích tác giả và đạo diễn của các tác phẩm nghệ thuật đó.",
-        "Để yêu cầu nhà xuất bản phải hoàn trả lại tiền mua sách cho bạn.",
-        "Không mang lại bất kỳ giá trị nhận thức nào đối với sự phát triển cá nhân."
+        "Giúp ta duy trì sự linh hoạt để cởi mở đón nhận cơ hội mới, tránh bẫy leo thang cam kết khi hoàn cảnh thay đổi theo thời gian.",
+        "Giúp các nhà đầu tư không cần trích lập các quỹ dự phòng rủi ro dài hạn trong chiến lược mở rộng kinh doanh của doanh nghiệp mình.",
+        "Chứng minh rằng sự kiên trì là không cần thiết đối với sự thành bại của một đời người trong kỷ nguyên kinh tế số biến đổi nhanh.",
+        "Cho phép doanh nghiệp tùy ý hủy hợp đồng lao động với nhân viên mà không phải bồi thường bất kỳ khoản chi phí thôi việc nào theo luật."
       ],
       "correctIndex": 0,
-      "explanation": "Đọc lại một cuốn sách cũ bằng đôi mắt mới là chiếc thước đo tuyệt vời về sự trưởng thành tâm hồn; bạn nhận ra thế giới không đổi, chính bạn đã được nâng cấp."
+      "explanation": "Sở thích và đam mê phát triển theo thời gian; chỉ hoạch định trước 1-2 năm giúp ta giải phóng khỏi tầm nhìn đường hầm và giữ tâm thế sẵn sàng tái tư duy khi bối cảnh cuộc sống thay đổi."
     },
     {
       "id": "q14",
-      "question": "Làm thế nào để xây dựng thói quen 'Tái tư duy như một lối sống hàng ngày' (A Way of Life)?",
+      "question": "Khuyến nghị dành riêng một khoảng thời gian cố định hằng tuần cho việc 'tái tư duy và xóa học' (Hành động 30) giúp ích gì cho tác giả?",
       "options": [
-        "Bắt buộc tất cả các thành viên trong gia đình phải đọc thuộc lòng cuốn sách mỗi tối.",
-        "Tham gia các khóa tu khổ hạnh trong rừng sâu suốt 10 năm liên tục.",
-        "Chờ đợi khi nào xã hội thay đổi hoàn toàn thì mới bắt đầu rèn luyện bản thân.",
-        "Bắt đầu từ những việc nhỏ mỗi ngày: Dừng lại 10 giây trước khi phán xét, tự hỏi 'Tôi có thể đang bỏ sót điều gì?', và luôn giữ tâm thế khiêm nhường tò mò trước mọi người bạn gặp."
+        "Giúp ông hoàn thành các bản thảo nhanh gấp đôi nhờ kỹ năng đánh máy tốc độ cao và thói quen làm việc độc lập không bị ai quấy rầy.",
+        "Chủ động tìm đến mạng lưới phản biện để rà soát các giả định cũ, liên tục cập nhật góc nhìn mới trước các quyết định lớn.",
+        "Tạo cơ hội để tác giả nghỉ ngơi, ngắt kết nối công nghệ và không cần trả lời bất kỳ bức thư điện tử nào từ các đối tác nghiên cứu.",
+        "Giúp ông giám sát chặt chẽ bài giảng của trợ giảng trong khoa nhằm đảm bảo tính đồng nhất tuyệt đối trong chương trình đào tạo."
       ],
-      "correctIndex": 3,
-      "explanation": "Tái tư duy không phải là một sự kiện nhất thời; đó là hơi thở của một tâm trí tỉnh thức, một thói quen phản xạ tự nhiên giúp bạn luôn tươi mới và an lạc mỗi ngày."
+      "correctIndex": 1,
+      "explanation": "Adam Grant lên lịch định kỳ hàng tuần cho việc tái tư duy và 'xóa học' (unlearn), tham vấn mạng lưới thử thách để phát hiện những ý tưởng cần xem xét lại, như cách ông xem xét lại cách phát âm từ mayonnaise."
     },
     {
       "id": "q15",
-      "question": "Thông điệp đúc kết truyền cảm hứng tối hậu của 30 hành động tạo ảnh hưởng là gì?",
+      "question": "Tinh thần cốt lõi bao trùm 30 hành động tạo ảnh hưởng khép lại cuốn sách 'Dám Nghĩ Lại' là gì?",
       "options": [
-        "'Hãy luôn tìm cách chứng minh mình đúng trong mọi hoàn cảnh để chiếm ưu thế'.",
-        "'Trí thông minh là tài sản bất biến và bạn không cần phải học thêm bất kỳ điều gì nữa'.",
-        "'Hãy giữ vững mọi niềm tin cũ của bạn vì sự thay đổi luôn luôn mang lại đau khổ'.",
-        "'Thế giới thuộc về những người không ngừng học hỏi, không ngừng từ bỏ cái cũ và không ngừng tái tư duy; hãy dũng cảm bước đi và thắp sáng ngọn lửa của sự thông thái trong cuộc đời bạn!'."
+        "Tái tư duy là thiên phú của số ít thiên tài xuất chúng, người bình thường chỉ nên tập trung kiên định với mục tiêu đã định sẵn.",
+        "Để thành công trong cuộc sống, con người bắt buộc phải thay đổi toàn bộ mọi nguyên tắc đạo đức cốt lõi theo trào lưu của đám đông ngoài kia.",
+        "Tái tư duy là một lối sống: Biến tính khiêm nhường thành sức mạnh, sự hoài nghi thành học hỏi và coi cuộc đời là hành trình khám phá.",
+        "Một khi đã ra quyết định, người lãnh đạo tuyệt đối không được phép nghĩ lại để tránh gây ra tâm lý hoang mang cho toàn thể cấp dưới."
       ],
-      "correctIndex": 3,
-      "explanation": "Tương lai thuộc về những người dám nghĩ lại; hãy biến sự khiêm nhường thành sức mạnh, biến sự tò mò thành ngọn đuốc và can đảm kiến tạo một cuộc đời rực rỡ phi thường."
+      "correctIndex": 2,
+      "explanation": "Phần Kết đúc kết rằng tái tư duy là một lối sống: giữ sự khiêm nhường về những điều chưa biết, tò mò khám phá cái mới và dũng cảm đón nhận niềm vui khi nhận ra mình đã từng sai lầm."
     }
   ]
 }

@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Phương pháp giảng dạy đột phá của giáo viên lịch sử Erin McCarthy tại Wisconsin được Adam Grant ca ngợi là gì?",
+      "question": "Phương pháp giảng dạy môn lịch sử đầy sáng tạo của cô Erin McCarthy tại bang Wisconsin được Adam Grant đánh giá cao vì điều gì?",
       "options": [
-        "Bắt buộc học sinh phải học thuộc lòng toàn bộ các mốc năm tháng lịch sử trong sách giáo khoa.",
-        "Cho học sinh xem các bộ phim hành động Hollywood để học về các cuộc chiến tranh cổ đại.",
-        "Cấm học sinh đọc bất kỳ tài liệu lịch sử nào ngoài cuốn sách do nhà trường cấp.",
-        "Bà yêu cầu học sinh đóng vai những thám tử lịch sử: Đọc các sách giáo khoa từ các thời kỳ khác nhau, phát hiện ra những sai sót, định kiến và tự mình 'viết lại sách giáo khoa'."
+        "Cho học sinh đối chiếu sách giáo khoa cũ năm 1940 để phát hiện định kiến, điểm thiếu sót và tự tay viết lại một chương lịch sử.",
+        "Yêu cầu học sinh ghi nhớ chuẩn xác từng niên đại và biến cố đã được hội đồng chuyên môn kiểm duyệt trong giáo trình hiện hành.",
+        "Tập trung rèn luyện kỹ năng làm bài trắc nghiệm nhanh nhằm giúp học sinh đạt điểm tuyệt đối trong các kỳ thi chuẩn hóa toàn bang.",
+        "Khuyến khích học sinh đóng kịch tái hiện các danh nhân để khơi gợi cảm xúc hào hùng thay vì chất vấn những tư liệu lịch sử gốc."
       ],
-      "correctIndex": 3,
-      "explanation": "Bằng cách dạy học sinh rằng kiến thức lịch sử không phải là bất biến mà liên tục được viết lại dựa trên các bằng chứng khảo cổ mới, bà đã khơi dậy niềm đam mê tư duy phản biện của học sinh."
+      "correctIndex": 0,
+      "explanation": "Cô Erin McCarthy đã giao trích đoạn sách giáo khoa năm 1940 để học sinh nhận ra tri thức lịch sử luôn vận động, phát hiện những góc nhìn bị bỏ sót và tự mình nghiên cứu viết lại sách."
     },
     {
       "id": "q2",
-      "question": "Mô hình 'Lớp học thụ động truyền thống' (Thầy đọc - Trò chép) gây ra tác hại gì đối với năng lực tái tư duy của học sinh?",
+      "question": "Theo Adam Grant, hạn chế lớn nhất của mô hình thuyết giảng một chiều truyền thống (thầy đọc - trò chép) trong giáo dục là gì?",
       "options": [
-        "Không gây ra bất kỳ tác hại nào đối với sự phát triển trí tuệ của trẻ em.",
-        "Huấn luyện học sinh trở thành những kẻ tiếp nhận thông tin thụ động, nhầm lẫn việc ghi nhớ thuộc lòng với sự hiểu biết thực sự và sợ hãi trước những câu hỏi mở.",
-        "Giúp học sinh tự động trở thành những nhà khoa học đột phá mà không cần rèn luyện.",
-        "Làm tăng khả năng tư duy sáng tạo và phản biện độc lập của học sinh lên mức tối đa."
+        "Làm tiêu tốn quá nhiều kinh phí in ấn tài liệu học tập và khiến giáo viên mất nhiều thời gian chuẩn bị bài giảng trước mỗi kỳ thi.",
+        "Biến học sinh thành những người tiếp nhận thụ động, củng cố ảo tưởng hiểu biết và làm thui chột thói quen chủ động tái tư duy.",
+        "Tạo áp lực tâm lý quá nặng nề khiến phần lớn học sinh có xu hướng bỏ học sớm để tham gia vào thị trường lao động phổ thông.",
+        "Khiến học sinh chỉ chú trọng đến các hoạt động ngoại khóa tự phát mà xem nhẹ những kiến thức nền tảng của môn học khoa học."
       ],
       "correctIndex": 1,
-      "explanation": "Khi giáo dục chỉ tập trung vào việc truyền đạt câu trả lời có sẵn thay vì dạy cách đặt câu hỏi chất vấn, nó đang giết chết tính tò mò tự nhiên của đứa trẻ."
+      "explanation": "Lối giảng giải một chiều tạo ra cảm giác hiểu bài giả tạo (ảo tưởng hiểu biết), tước đi cơ hội để học sinh vật lộn với vấn đề và thực hành kỹ năng tái tư duy."
     },
     {
       "id": "q3",
-      "question": "Phương pháp 'Học tập dựa trên vấn đề' (Problem-Based Learning) và 'Lớp học đảo ngược' (Flipped Classroom) mang lại lợi ích gì?",
+      "question": "Nghiên cứu của nhà vật lý đoạt giải Nobel Carl Wieman và các cộng sự về phương pháp học chủ động (Active Learning) đã chỉ ra điều gì?",
       "options": [
-        "Cho phép học sinh ngủ trong giờ học lý thuyết và chỉ làm bài kiểm tra vào cuối kỳ.",
-        "Chỉ áp dụng cho những học sinh có hoàn cảnh gia đình đặc biệt khó khăn.",
-        "Bãi bỏ hoàn toàn vai trò của giáo viên trong nhà trường.",
-        "Đặt học sinh vào trung tâm của bài toán thực tế, khuyến khích các em tự tìm tòi dữ liệu, tranh luận nhóm và tái cấu trúc hiểu biết thông qua quá trình thử và sai."
+        "Sinh viên cảm thấy rất hào hứng khi giải bài tập nhóm nhưng điểm thi thực tế lại thấp hơn nhiều so với khi nghe giảng truyền thống.",
+        "Các bài giảng sinh động của giáo sư nổi tiếng luôn mang lại hiệu quả tiếp thu kiến thức chuyên sâu vượt trội cho mọi sinh viên.",
+        "Sinh viên ngỡ mình học được nhiều từ bài giảng trôi chảy, nhưng kết quả kiểm tra cho thấy họ hiểu sâu hơn nhờ tự học chủ động.",
+        "Cả hai phương pháp đều mang lại kết quả thi cử hoàn toàn tương đương nhau nếu thời lượng học tập trên lớp được giữ cố định."
       ],
-      "correctIndex": 3,
-      "explanation": "Học tập chủ động (Active Learning) buộc não bộ phải vận động, kiểm chứng các giả thuyết và tiếp thu kiến thức sâu sắc gấp nhiều lần so với nghe giảng một chiều."
+      "correctIndex": 2,
+      "explanation": "Nghiên cứu cho thấy sinh viên trải qua 'ảo tưởng về sự trôi chảy': họ thích nghe giảng giải vì đỡ tốn sức não, nhưng bài thi thực tế chứng minh học chủ động giúp hiểu sâu và nhớ lâu hơn."
     },
     {
       "id": "q4",
-      "question": "Tại sao việc dạy học sinh 'Chất vấn các tiền đề của chính giáo viên' lại là một bước tiến vĩ đại trong sư phạm?",
+      "question": "Thuật ngữ 'hiệu ứng điếng người' (dumbstruck effect) được Adam Grant dùng để mô tả hiện tượng tâm lý nào ở người học?",
       "options": [
-        "Nó khiến cho lớp học trở nên hỗn loạn và mất trật tự kỷ luật.",
-        "Nó phá vỡ sự sùng bái quyền uy mù quáng, dạy cho học sinh hiểu rằng chân lý khoa học thuộc về bằng chứng khách quan chứ không thuộc về vị trí hay bằng cấp của người nói.",
-        "Nó làm giảm uy tín và quyền lực của ban giám hiệu nhà trường.",
-        "Đây là một hành vi vi phạm nghiêm trọng đạo đức tôn sư trọng đạo truyền thống."
+        "Trạng thái hoảng loạn của thí sinh khi gặp phải một câu hỏi hoàn toàn xa lạ trong đề thi tốt nghiệp trung học phổ thông quốc gia.",
+        "Sự bất lực của học sinh khi giáo viên yêu cầu thực hiện thí nghiệm vật lý phức tạp mà không cung cấp tài liệu hướng dẫn từ trước.",
+        "Cảm giác chán nản cùng cực khi phải ngồi nghe một bài thuyết trình khô khan, rời rạc và hoàn toàn thiếu các ví dụ thực tiễn sinh động.",
+        "Khán giả bị cuốn hút bởi tài hùng biện lôi cuốn của diễn giả đến mức trở nên thụ động và ngừng chất vấn tính logic của nội dung."
       ],
-      "correctIndex": 1,
-      "explanation": "Người thầy vĩ đại không đào tạo ra những môn đệ phục tùng; người thầy vĩ đại đào tạo ra những bộ óc tự do có khả năng vượt qua chính người thầy của mình."
+      "correctIndex": 3,
+      "explanation": "Hiệu ứng điếng người xảy ra khi một diễn giả quá lôi cuốn khiến người nghe bị 'bỏ bùa', tiếp nhận thông điệp mà không suy xét kỹ lưỡng hay phản biện các luận điểm cốt lõi."
     },
     {
       "id": "q5",
-      "question": "Thí nghiệm về 'Tác động của việc học từ bài giảng xuất sắc vs Học chủ động' của nhà vật lý Nobel Carl Wieman cho thấy điều gì?",
+      "question": "Phong cách giảng dạy độc đáo của triết gia Robert Nozick tại Đại học Harvard phản ánh tinh thần tái tư duy như thế nào?",
       "options": [
-        "Sinh viên CẢM THẤY mình học được nhiều hơn từ bài giảng một chiều trôi chảy (ảo tưởng hiểu biết), nhưng KẾT QUẢ KIỂM TRA THỰC TẾ lại chứng minh họ hiểu sâu và nhớ lâu hơn nhiều từ lớp học chủ động.",
-        "Sinh viên không thể tiếp thu được bất kỳ kiến thức vật lý nào nếu không có máy tính cá nhân.",
-        "Nghe giảng một chiều luôn mang lại điểm số cao gấp đôi so với lớp học chủ động.",
-        "Cả hai phương pháp đều mang lại kết quả học tập hoàn toàn giống nhau."
+        "Mỗi năm ông đều dạy một chủ đề hoàn toàn mới để cùng sinh viên khám phá và liên tục tái tư duy về các quan điểm triết học.",
+        "Ông kiên trì giảng dạy một giáo trình duy nhất suốt bốn mươi năm nhằm hoàn thiện hệ thống lý thuyết đạt đến mức chuẩn mực cao nhất.",
+        "Ông chỉ nhận những sinh viên đạt điểm tuyệt đối vào lớp để đảm bảo các buổi tranh luận triết học diễn ra với chất lượng cao nhất.",
+        "Ông biên soạn những bộ đề thi chuẩn hóa cực kỳ khắt khe nhằm kiểm tra năng lực ghi nhớ chi tiết của sinh viên về lịch sử triết học."
       ],
       "correctIndex": 0,
-      "explanation": "Ảo tưởng về sự trôi chảy (Fluency Illusion): Khi nghe một bài giảng mượt mà, não bộ bị đánh lừa rằng mình đã hiểu; chỉ khi tự tay vật lộn giải quyết vấn đề, kiến thức mới thực sự được khắc sâu."
+      "explanation": "Robert Nozick nổi tiếng với việc mỗi năm dạy một môn mới vì 'Tôi tư duy qua các môn mình dạy', biến lớp học thành nơi thầy và trò cùng nhau tái tư duy thay vì chỉ truyền đạt kiến thức sẵn có."
     },
     {
       "id": "q6",
-      "question": "Bài tập 'Vẽ một nhà khoa học' (Draw-a-Scientist Test) qua các thập kỷ phản ánh sự thay đổi nhận thức quan trọng nào của xã hội?",
+      "question": "Khi giao bài tập làm podcast hoặc video phản biện cho sinh viên, Adam Grant đã bất ngờ phát hiện ra điều gì ở nhóm sinh viên xuất sắc?",
       "options": [
-        "Tỷ lệ học sinh vẽ nhà khoa học là NỮ GIỚI đã tăng từ dưới 1% trong thập niên 1960 lên hơn 28% trong những năm gần đây, chứng minh định kiến giới đang dần được tái tư duy.",
-        "Không có bất kỳ sự thay đổi nào trong hình ảnh vẽ nhà khoa học suốt 60 năm qua.",
-        "Tất cả học sinh ngày nay đều vẽ nhà khoa học là những robot trí tuệ nhân tạo.",
-        "Học sinh không còn biết nhà khoa học là gì do sự phát triển của trò chơi điện tử."
+        "Những sinh viên có học lực trung bình thường hoàn toàn bỏ cuộc và không nộp bài tập đúng thời hạn quy định của môn học đưa ra.",
+        "Những sinh viên đạt điểm A là những người chật vật nhất vì họ có xu hướng cầu toàn và vô cùng sợ hãi trước nguy cơ mình bị sai.",
+        "Các sinh viên xuất sắc luôn nhanh chóng đưa ra những giải pháp đột phá nhờ nền tảng kiến thức lý thuyết vững vàng từ năm nhất.",
+        "Sinh viên chỉ quan tâm đến điểm số thi đua cá nhân mà từ chối hợp tác nhóm để xây dựng các kịch bản phản biện mang tính đa chiều."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự thay đổi trong nét vẽ của trẻ thơ là tấm gương phản chiếu sự tiến bộ của giáo dục: Chúng ta đang dần giải phóng tâm trí thế hệ trẻ khỏi những khuôn mẫu định kiến cũ."
+      "correctIndex": 1,
+      "explanation": "Nghiên cứu cho thấy những sinh viên giỏi (straight-A students) thường xuất sắc trong việc tuân theo khuôn mẫu cũ nhưng lại ngần ngại chấp nhận rủi ro và sợ sai khi phải tư duy đột phá."
     },
     {
       "id": "q7",
-      "question": "Tại sao việc đưa 'Lịch sử của những sai lầm khoa học' vào chương trình giảng dạy lại có giá trị giáo dục to lớn?",
+      "question": "Sáng kiến 'Dear Penn Freshman' của nữ sinh viên Lauren McCann tại lớp học của Adam Grant mang lại giá trị tái tư duy gì?",
       "options": [
-        "Học sinh sẽ nhận ra rằng khoa học không phải là một tập hợp các giáo điều bất biến, mà là một hành trình liên tục tự sửa sai đầy dũng cảm của các bộ óc vĩ đại.",
-        "Nhằm mục đích giải trí và gây cười cho học sinh trong giờ học.",
-        "Để làm giảm bớt thời lượng học các môn khoa học tự nhiên trong nhà trường.",
-        "Để chứng minh rằng tất cả các nhà khoa học trong quá khứ đều là những kẻ lừa đảo."
+        "Một diễn đàn trực tuyến hướng dẫn các tân sinh viên bí quyết đạt điểm cao trong các kỳ thi học kỳ mà không tốn nhiều công sức.",
+        "Một trang mạng hỗ trợ sinh viên khiếu nại các chính sách học phí và dịch vụ ăn ở tại ký túc xá lên ban giám hiệu nhà trường.",
+        "Khuyến khích sinh viên viết thư cho chính mình năm nhất để nhìn nhận lại những lựa chọn sai lầm về ngành học và mục tiêu nghề nghiệp.",
+        "Một câu lạc bộ kết nối sinh viên với các cựu học sinh thành đạt nhằm tìm kiếm cơ hội thực tập có thu nhập cao tại các tập đoàn lớn."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi thấy các bậc thiên tài như Einstein hay Newton cũng từng mắc sai lầm và liên tục tái tư duy, học sinh sẽ không còn sợ hãi thất bại và nuôi dưỡng tinh thần dám dấn thân."
+      "correctIndex": 2,
+      "explanation": "Lauren McCann gợi ý các sinh viên viết thư cho phiên bản năm nhất của chính mình, giúp họ nhận ra sự cần thiết của việc tái tư duy về việc chọn ngành, điểm số và định hướng cuộc đời."
     },
     {
       "id": "q8",
-      "question": "Khái niệm 'Sự tò mò nhận thức' (Epistemic Curiosity) được nuôi dưỡng trong môi trường học đường như thế nào?",
+      "question": "Tại sao thầy giáo Ron Berger lại khuyến khích học sinh 'ôm trọn sự bối rối' khi đối mặt với một bài toán hóc búa?",
       "options": [
-        "Bằng cách giao thật nhiều bài tập về nhà lặp đi lặp lại để học sinh không có thời gian rảnh.",
-        "Bằng cách tạo ra những 'Khoảng trống tri thức' (Knowledge Gaps): Cho học sinh thấy những điều kỳ lạ, những nghịch lý chưa có lời giải để kích thích khao khát tự mình tìm tòi khám phá.",
-        "Bằng cách phạt điểm thật nặng những học sinh không làm bài tập đúng hạn.",
-        "Bằng cách cấm học sinh sử dụng thư viện điện tử của trường học."
+        "Vì giáo viên muốn kéo dài thời gian tiết học để không phải chuẩn bị thêm các nội dung bài giảng mới cho buổi học tiếp theo.",
+        "Nhằm phân loại học sinh có năng khiếu bẩm sinh với những học sinh chậm tiến để áp dụng các hình thức kỷ luật học đường phù hợp.",
+        "Để rèn luyện khả năng chịu đựng áp lực tâm lý trong môi trường cạnh tranh điểm số khốc liệt giữa các học sinh trong cùng lớp.",
+        "Vì bối rối là tín hiệu quý giá cho thấy tư duy sắp bước vào vùng đất mới, kích hoạt trí tò mò thay vì vội vàng tìm câu trả lời mẫu."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự tò mò chỉ bùng cháy khi con người nhận thức được rằng 'có một điều quan trọng mà mình chưa biết'; tạo ra khoảng trống tri thức là nghệ thuật sư phạm đỉnh cao."
+      "correctIndex": 3,
+      "explanation": "Ron Berger xem bối rối là một phần tự nhiên và cần thiết của quá trình học tập sâu; nó báo hiệu học sinh đang đứng trước một câu đố mới và mở ra cơ hội khám phá khoa học thực thụ."
     },
     {
       "id": "q9",
-      "question": "Tại sao việc khuyến khích học sinh 'Thảo luận về các bài báo khoa học có kết quả trái ngược nhau' lại rèn luyện tư duy nhà khoa học?",
+      "question": "Câu chuyện học sinh Austin vẽ con bướm qua nhiều bản nháp trong lớp học của Ron Berger minh họa cho nguyên lý sư phạm nào?",
       "options": [
-        "Đây là một bài kiểm tra tốc độ đọc hiểu tiếng Anh của học sinh chuyên ngữ.",
-        "Để kéo dài thời gian của tiết học mà giáo viên không cần phải chuẩn bị bài giảng.",
-        "Để học sinh tìm cách chế giễu tác giả của bài báo có kết quả kém hơn.",
-        "Học sinh buộc phải phân tích phương pháp luận, cỡ mẫu, độ tin cậy của dữ liệu thay vì chỉ tin vào kết luận một cách mù quáng, từ đó làm chủ tư duy phản biện thực chứng."
+        "Chất lượng vượt trội là kết quả của quá trình tái tư duy liên tục thông qua việc đón nhận những góp ý phản biện cụ thể từ bạn bè.",
+        "Trẻ em chỉ có thể tiến bộ vượt bậc nếu được giáo viên trực tiếp cầm tay chỉ việc và vẽ mẫu từng nét chuẩn xác ngay từ ban đầu.",
+        "Học sinh tiểu học cần phải hoàn thành tác phẩm thật nhanh trong lần thử đầu tiên để rèn luyện tính quyết đoán và sự tự tin cá nhân.",
+        "Việc sửa đổi bài vẽ nhiều lần sẽ làm thui chột khả năng sáng tạo tự nhiên và làm giảm niềm yêu thích nghệ thuật của con trẻ."
       ],
-      "correctIndex": 3,
-      "explanation": "Đó là cách các nhà khoa học thực thụ làm việc; việc mổ xẻ dữ liệu đối lập giúp học sinh hiểu rằng khoa học là một cuộc đối thoại không ngừng nghỉ dựa trên bằng chứng."
+      "correctIndex": 0,
+      "explanation": "Cậu bé Austin học lớp một đã biến một bản vẽ nguệch ngoạc thành bức tranh bướm chuẩn xác khoa học nhờ trải qua 4-5 bản nháp với những phản hồi góp ý mang tính xây dựng từ các bạn cùng lớp."
     },
     {
       "id": "q10",
-      "question": "Sự nguy hiểm của việc 'Dạy học theo phương pháp ghi nhớ để phục vụ thi cử' (Teaching to the Test) đối với tương lai của một quốc gia là gì?",
+      "question": "Theo Ron Berger, để các buổi phê bình và phản biện đồng đẳng trong lớp học đạt hiệu quả cao, học sinh cần tuân thủ nguyên tắc gì?",
       "options": [
-        "Làm tăng tỷ lệ đỗ đại học của toàn thể học sinh lên mức 100%.",
-        "Tạo ra một thế hệ những người máy sinh học chỉ biết tuân theo quy trình có sẵn, hoàn toàn bất lực và tê liệt trước những vấn đề mới lạ chưa từng có tiền lệ.",
-        "Giúp quốc gia tiết kiệm được ngân sách đầu tư cho giáo dục và đào tạo.",
-        "Không gây ra bất kỳ ảnh hưởng nào đối với nền kinh tế tri thức tương lai."
+        "Chỉ đưa ra những lời khen ngợi chung chung để bảo vệ lòng tự trọng và tránh gây tổn thương tâm lý cho người thực hiện tác phẩm.",
+        "Tập trung nhận xét cụ thể vào sản phẩm chứ không phê phán con người, diễn đạt góp ý dưới dạng câu hỏi khiêm nhường và gợi mở.",
+        "Người nhận xét phải thể hiện thái độ gay gắt và chấm điểm thật khắt khe để tạo áp lực giúp tác giả nỗ lực hơn trong lần làm lại.",
+        "Chỉ những học sinh có điểm số cao nhất lớp mới có quyền đưa ra nhận xét phản biện đối với sản phẩm của các bạn học sinh khác."
       ],
       "correctIndex": 1,
-      "explanation": "Trong kỷ nguyên AI, những gì có thể ghi nhớ máy móc sẽ bị máy móc thay thế; thứ duy nhất giúp con người vượt trội là năng lực tư duy phản biện, sáng tạo và tái tư duy."
+      "explanation": "Ron Berger dạy học sinh phê bình tác phẩm chứ không phê bình tác giả, nói 'Mình nghĩ...' thay vì phán xét tuyệt đối, và dùng câu hỏi như 'Bạn thử cân nhắc liệu có nên...'."
     },
     {
       "id": "q11",
-      "question": "Phương pháp 'Đánh giá đồng đẳng' (Peer Review) trong lớp học mang lại lợi ích nhận thức nào cho học sinh?",
+      "question": "Phân tích tổng hợp (meta-analysis) từ 225 nghiên cứu trên 46.000 sinh viên ngành STEM đã đưa ra kết luận gì về học chủ động?",
       "options": [
-        "Học sinh học được cách đưa ra phản hồi xây dựng cho bạn bè và quan trọng hơn, học được cách nhìn nhận bài làm của chính mình dưới lăng kính phản biện khách quan của người khác.",
-        "Giúp giáo viên không cần phải chấm bài thi của học sinh vào cuối kỳ.",
-        "Tạo ra sự cạnh tranh ghen ghét và chia rẽ bè phái trong tập thể lớp học.",
-        "Để học sinh có cơ hội bắt lỗi và hạ điểm thi đua của những người mình không thích."
+        "Học chủ động chỉ phù hợp với những sinh viên khối ngành khoa học xã hội chứ không mang lại lợi ích rõ rệt cho các môn kỹ thuật số.",
+        "Sinh viên học theo phương pháp chủ động có tỷ lệ thi trượt cao hơn do thiếu sự hướng dẫn bài bản và chi tiết từ các giảng viên.",
+        "Sinh viên học theo phương pháp truyền thống có điểm số thấp hơn và tỷ lệ thi trượt cao gấp 1,55 lần so với lớp học tập chủ động.",
+        "Phương pháp học truyền thống giúp tiết kiệm hàng triệu đô-la chi phí cơ sở vật chất mà vẫn đảm bảo chất lượng đầu ra xuất sắc."
       ],
-      "correctIndex": 0,
-      "explanation": "Đánh giá đồng đẳng rèn luyện năng lực tự phản tỉnh; khi học cách nhận xét bài của người khác, học sinh cũng tự động nâng cao tiêu chuẩn chất lượng cho chính bài làm của mình."
+      "correctIndex": 2,
+      "explanation": "Nghiên cứu của Freeman et al. chứng minh sinh viên học theo lối thuyết giảng truyền thống có điểm số kém hơn nửa điểm và tỷ lệ trượt cao gấp 1,55 lần so với sinh viên học theo phương pháp chủ động."
     },
     {
       "id": "q12",
-      "question": "Tại sao một nền giáo dục xuất sắc phải là nền giáo dục 'Dạy học sinh cách KHÔNG BIẾT một cách thông thái' (How to be skillfully ignorant)?",
+      "question": "Tại sao việc đưa 'lịch sử của các sai lầm khoa học' vào chương trình giảng dạy lại giúp học sinh rèn luyện tư duy nhà khoa học?",
       "options": [
-        "Khuyến khích học sinh từ bỏ việc học và không cần tham gia các kỳ thi quốc gia.",
-        "Giúp học sinh ý thức rõ ranh giới hiểu biết của mình, biết cách đặt những câu hỏi đúng đắn và biết tìm kiếm dữ liệu ở đâu thay vì tự mãn với những kiến thức nông cạn.",
-        "Để học sinh luôn luôn trả lời 'Em không biết' trong tất cả các bài kiểm tra miệng.",
-        "Một triết lý giáo dục cổ hủ đã bị loại bỏ hoàn toàn trong thế kỷ 21."
+        "Nhằm mục đích giải trí và giúp học sinh có cái nhìn châm biếm về sự lạc hậu của nền khoa học kỹ thuật trong các thế kỷ trước.",
+        "Để chứng minh rằng mọi lý thuyết khoa học hiện đại đều có nguy cơ sai lầm và học sinh không cần phải tin vào bất kỳ dữ liệu nào.",
+        "Giúp nhà trường giảm bớt thời lượng thực hành thí nghiệm tốn kém và tập trung vào việc học lý thuyết trên các sách giáo khoa cũ.",
+        "Cho thấy khoa học là hành trình dũng cảm tự sửa sai liên tục, giúp học sinh bớt sợ thất bại và nuôi dưỡng đức khiêm nhường tri thức."
       ],
-      "correctIndex": 1,
-      "explanation": "Nhà thần kinh học Stuart Firestein tại Đại học Columbia khẳng định: Sự thông thái thực sự nằm ở việc nhận diện được những vùng đất vô minh để định hướng cho những cuộc thám hiểm tri thức mới."
+      "correctIndex": 3,
+      "explanation": "Khi học sinh hiểu rằng ngay cả các vĩ nhân như Einstein hay Newton cũng từng sai lầm và liên tục tái tư duy, các em sẽ hiểu bản chất thực sự của khoa học và không còn sợ hãi khi mình mắc lỗi."
     },
     {
       "id": "q13",
-      "question": "Bài học từ việc thiết kế lại các bài tập thực hành hóa học trong nhà trường theo hướng 'Thử nghiệm mở' (Open-Ended Labs) là gì?",
+      "question": "Nguyên tắc nào sau đây KHÔNG thuộc bộ hướng dẫn tư duy như người xác minh dữ kiện mà giáo viên lịch sử rèn luyện cho học sinh?",
       "options": [
-        "Giúp nhà trường cắt giảm tối đa chi phí mua sắm hóa chất thí nghiệm.",
-        "Thay vì làm theo công thức có sẵn để đạt kết quả biết trước, học sinh được tự do thiết kế thí nghiệm để kiểm chứng một câu hỏi mở, trải nghiệm sự hồi hộp của khám phá thực sự.",
-        "Tất cả các thí nghiệm mở đều thất bại và gây nguy hiểm cho phòng thí nghiệm.",
-        "Học sinh được phép tự do trộn các hóa chất nguy hiểm mà không cần đồ bảo hộ."
+        "Luôn xem cấp bậc học hàm và danh tiếng xã hội của người phát ngôn là bảo chứng tuyệt đối cho tính chính xác của mọi thông tin.",
+        "Chất vấn và kiểm chứng thông tin đa chiều thay vì đơn thuần tiếp nhận thụ động mọi điều được in trong các tài liệu giáo khoa.",
+        "Nhận thức rõ ràng rằng người truyền đạt lại thông tin thường không phải là nguồn gốc phát sinh ban đầu của dữ liệu lịch sử đó.",
+        "Chủ động truy vấn xem quan điểm của ai đang được trình bày và tiếng nói của nhóm người nào đang bị gạt ra ngoài lề trang sách."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi phòng thí nghiệm trở thành nơi thám hiểm thực sự chứ không phải màn kịch diễn lại công thức cũ, ngọn lửa đam mê khoa học chân chính sẽ bùng cháy trong tim học sinh."
+      "correctIndex": 0,
+      "explanation": "Người xác minh dữ kiện từ chối xem cấp bậc và sự nổi tiếng là bảo chứng cho độ tin cậy; họ luôn truy vấn nguồn gốc bằng chứng khách quan."
     },
     {
       "id": "q14",
-      "question": "Làm thế nào phụ huynh có thể nuôi dưỡng thói quen 'Tái tư duy mỗi ngày' cho con cái ngay trên bàn ăn tối gia đình?",
+      "question": "Làm thế nào để cha mẹ có thể khuyến khích thói quen tái tư duy ở con cái ngay trong các bữa ăn tối gia đình thường ngày?",
       "options": [
-        "Cấm con không được phép nói chuyện hay bày tỏ ý kiến trong suốt bữa ăn.",
-        "Thay vì hỏi: 'Hôm nay con được mấy điểm?', hãy hỏi: 'Hôm nay con đã đặt câu hỏi thú vị nào ở trường?' và 'Hôm nay con đã phát hiện ra điều gì mà trước đây con từng nghĩ sai?'.",
-        "Yêu cầu con phải đọc thuộc lòng các bài văn mẫu trước khi được phép ăn cơm.",
-        "So sánh điểm số của con với con cái của những người hàng xóm xung quanh."
+        "Kiểm tra nghiêm khắc xem con có thuộc hết các bài văn mẫu và công thức toán học đã được thầy cô giáo giao trên lớp hay không.",
+        "Tổ chức các cuộc trò chuyện 'mổ xẻ sự thật', chia sẻ những điều mình từng nghĩ sai và khen ngợi con khi đặt những câu hỏi sâu sắc.",
+        "Yêu cầu con giữ trật tự tuyệt đối trong bữa ăn để rèn luyện tính kỷ luật và sự tôn trọng đối với những người lớn tuổi trong nhà.",
+        "Thường xuyên so sánh điểm số thi cử của con với các bạn đồng trang lứa để tạo động lực cạnh tranh mạnh mẽ giúp con vươn lên."
       ],
       "correctIndex": 1,
-      "explanation": "Những câu hỏi của cha mẹ định hình thang giá trị của đứa trẻ; khi việc tò mò đặt câu hỏi và dám thừa nhận sai lầm được tán dương, đứa trẻ sẽ lớn lên với một tâm thế tự tin và cởi mở phi thường."
+      "explanation": "Adam Grant chia sẻ gia đình ông thường có những buổi 'mổ xẻ sự thật' trên bàn ăn, bàn về những điều từng tin nhưng sau đó nhận ra là sai, giúp con trẻ hình thành phản xạ tò mò và cởi mở đón nhận cái mới."
     },
     {
       "id": "q15",
-      "question": "Thông điệp đắt giá nhất của Chương 9 về cuộc cách mạng viết lại sách giáo khoa là gì?",
+      "question": "Thông điệp cốt lõi nhất của Chương 9 'Viết lại sách giáo khoa' về sứ mệnh đích thực của giáo dục là gì?",
       "options": [
-        "'Học thuộc lòng là con đường duy nhất dẫn đến sự thành đạt trong xã hội hiện đại'.",
-        "'Giáo dục không phải là việc đổ đầy một chiếc bình rỗng bằng những giáo điều cũ, mà là việc thắp sáng một ngọn lửa tò mò và trao cho học sinh lòng dũng cảm liên tục viết lại hiểu biết của mình về thế giới!'.",
-        "'Sách giáo khoa luôn luôn đúng và không một ai có quyền được chất vấn nội dung trong sách'.",
-        "'Hãy đốt bỏ toàn bộ sách giáo khoa và không cần đến trường học nữa'."
+        "Giáo dục là quá trình truyền thụ nguyên vẹn khối lượng tri thức bất biến từ thế hệ trước sang thế hệ sau qua các bài giảng mẫu.",
+        "Mục tiêu tối thượng của nhà trường là đào tạo ra những cá nhân xuất sắc có khả năng vượt qua mọi kỳ thi chuẩn hóa quốc tế khắt khe.",
+        "Người thầy vĩ đại không chỉ dạy những tri thức mới mà dạy cách tư duy mới, trao cho học sinh công cụ để liên tục tự học suốt đời.",
+        "Học sinh cần tuân thủ tuyệt đối các quan điểm chính thống trong sách giáo khoa để bảo tồn tính thống nhất của nền học thuật quốc gia."
       ],
-      "correctIndex": 1,
-      "explanation": "Sách giáo khoa chỉ là điểm khởi đầu, không phải là đích đến cuối cùng; một nền giáo dục khai phóng là nền giáo dục dạy học sinh trở thành những tác giả tự viết nên tương lai của chính mình."
+      "correctIndex": 2,
+      "explanation": "Chương 9 đúc kết: Giáo viên giỏi dạy những tư duy mới, giáo viên xuất chúng dạy những cách tư duy mới. Giáo dục là rèn luyện thói quen không ngừng tái tư duy qua các bản nháp của cuộc đời."
     }
   ]
 }
