@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Năm thành phần cốt lõi của Trí tuệ cảm xúc (EQ) theo mô hình của Daniel Goleman bao gồm những gì?",
+      "question": "Định nghĩa kinh điển về Trí thông minh cảm xúc (EQ) của Peter Salovey và John D. Mayer năm 1990 bao gồm những năng lực nào?",
       "options": [
-        "1. Ngoại hình, 2. Giọng nói, 3. Trang phục, 4. Bằng cấp, 5. Tiền bạc",
-        "1. Đọc nhanh, 2. Viết nhanh, 3. Tính nhẩm, 4. Hát hay, 5. Vẽ đẹp",
-        "1. IQ, 2. Chiều cao, 3. Cân nặng, 4. Tốc độ, 5. Sức mạnh",
-        "1. Tự nhận thức (Self-awareness), 2. Tự điều chỉnh/Tự chủ (Self-regulation), 3. Tự tạo động lực (Motivation), 4. Sự đồng cảm (Empathy), 5. Kỹ năng xã hội (Social skills)"
+        "Khả năng theo dõi cảm xúc của mình và người khác, phân biệt chúng và dùng thông tin đó để dẫn dắt tư duy, hành động.",
+        "Năng lực ghi nhớ thông tin nhanh chóng và xử lý các bài toán logic phức tạp dưới áp lực cao của công việc.",
+        "Năng lực che giấu hoàn toàn các phản ứng xúc cảm cá nhân nhằm duy trì sự khách quan tuyệt đối trong giao tiếp.",
+        "Khả năng thao túng và thuyết phục người khác tuân theo kế hoạch của mình trong các cuộc đàm phán thương mại."
       ],
-      "correctIndex": 3,
-      "explanation": "Mô hình 5 trụ cột của Goleman: Tự nhận thức (biết mình), Tự chủ (quản lý mình), Tự tạo động lực (thúc đẩy mình), Đồng cảm (thấu hiểu người) và Kỹ năng xã hội (kết nối và dẫn dắt)."
+      "correctIndex": 0,
+      "explanation": "Peter Salovey và John D. Mayer định nghĩa EQ là: 'Khả năng theo dõi cảm xúc và cảm giác của mình cũng như của người khác, phân biệt chúng, và sử dụng thông tin này để dẫn dắt tư duy và hành động của mình'."
     },
     {
       "id": "q2",
-      "question": "Tại sao các nghiên cứu về nhân sự hàng đầu thế giới lại khẳng định EQ là yếu tố phân biệt số một giữa một 'nhà quản lý xuất sắc' và một 'nhà quản lý trung bình'?",
+      "question": "Theo mô hình của Daniel Goleman được trích dẫn trong Chương 1, năm miền năng lực cấu thành nên EQ bao gồm những gì?",
       "options": [
-        "Vì người có EQ cao luôn chịu làm việc ngoài giờ mà không đòi lương.",
-        "Vì EQ giúp nhà quản lý tiết kiệm tiền thưởng cho nhân viên.",
-        "Vì ở cấp độ lãnh đạo, tất cả mọi người đều có IQ và kỹ năng chuyên môn tương đương nhau; sự khác biệt quyết định nằm ở khả năng thấu cảm, gắn kết đội ngũ và xử lý khủng hoảng cảm xúc.",
-        "Vì các bài thi EQ dễ gian lận điểm số hơn bài thi IQ."
+        "1. Trực giác tâm linh, 2. Khả năng chịu đựng áp lực, 3. Kỹ năng thuyết trình, 4. Tính kỷ luật, 5. Năng lượng tích cực.",
+        "1. Tự nhận thức, 2. Tự điều chỉnh, 3. Tự tạo động lực, 4. Sự đồng cảm, 5. Các kỹ năng xã hội trong tương tác.",
+        "1. Chỉ số thông minh logic, 2. Tốc độ đọc hiểu, 3. Khả năng ghi nhớ, 4. Tư duy trừu tượng, 5. Phản xạ ngôn ngữ.",
+        "1. Kỹ năng đàm phán, 2. Quản lý thời gian, 3. Xử lý khủng hoảng, 4. Xây dựng mạng lưới quan hệ, 5. Lãnh đạo nhóm."
       ],
-      "correctIndex": 2,
-      "explanation": "IQ và kỹ năng kỹ thuật chỉ là vé vào cửa; năng lực tạo động lực cho con người, quản lý xung đột và xây dựng sự tin cậy (EQ) chiếm hơn 80% yếu tố tạo nên sự xuất chúng của một lãnh đạo."
+      "correctIndex": 1,
+      "explanation": "Năm lĩnh vực của Goleman gồm: Tự nhận thức (Self-awareness), Tự điều chỉnh (Self-regulation), Động lực (Motivation), Đồng cảm (Empathy) và Kỹ năng xã hội (Social skills)."
     },
     {
       "id": "q3",
-      "question": "Trong khóa học SIY, 'Khả năng chú ý' (Attention) được ví như công cụ gì đối với Trí thông minh cảm xúc?",
+      "question": "Nghiên cứu của Martin Seligman tại tập đoàn bảo hiểm MetLife về nhân viên bán hàng đã chứng minh điều gì về người lạc quan?",
       "options": [
-        "Một chiếc khiên che chắn không cho cảm xúc đi vào đầu.",
-        "Một chiếc búa tạ dùng để đập vỡ cảm xúc tiêu cực.",
-        "Một chiếc kính hiển vi và đèn pin: khả năng chú ý sắc bén giúp soi rọi vào các biểu hiện cảm xúc tinh vi nhất trong thân tâm trước khi chúng bộc phát thành hành động mất kiểm soát.",
-        "Một chiếc đồng hồ đếm ngược thời gian làm việc."
+        "Nhân viên bi quan luôn đạt doanh số bán hàng cao hơn nhờ việc luôn dự đoán trước mọi rủi ro có thể phát sinh.",
+        "Những người lạc quan thường có xu hướng bỏ việc sớm hơn do họ nhanh chóng cảm thấy nhàm chán với công việc cũ.",
+        "Nhân viên có thái độ lạc quan bán được nhiều hơn 37% trong hai năm đầu và vượt trội 88% ở nhóm tuyển dụng đặc biệt.",
+        "Thái độ tinh thần không tạo ra bất kỳ sự khác biệt đáng kể nào đối với kết quả kinh doanh so với kỹ năng bán lẻ."
       ],
       "correctIndex": 2,
-      "explanation": "Rèn luyện sự chú ý mang lại độ phân giải cao cho tâm trí; bạn có thể 'nhìn thấy' cảm xúc ở độ nét cao, nhận diện được sự thay đổi nhịp tim, sự căng thẳng cơ bắp trước khi cơn giận bùng nổ."
+      "explanation": "Seligman phát hiện: các đại lý bảo hiểm lạc quan bán được nhiều hơn các đồng nghiệp bi quan 37% trong hai năm đầu; nhóm được tuyển riêng vì tính lạc quan bán vượt trội 88% so với nhóm bi quan."
     },
     {
       "id": "q4",
-      "question": "Sự khác biệt căn bản giữa 'Tự nhận thức' (Self-awareness) và việc 'Đồng hóa với cảm xúc' (Identifying with emotion) là gì?",
+      "question": "Nghiên cứu của David McClelland về các nhà quản lý tại một tập đoàn thực phẩm và đồ uống toàn cầu chỉ ra điều gì?",
       "options": [
-        "Tự nhận thức là nhận biết: 'Tôi đang trải nghiệm một cơn giận' (chủ thể quan sát khách quan); đồng hóa với cảm xúc là: 'Tôi chính là cơn giận' (bị cảm xúc hoàn toàn chiếm đoạt và điều khiển).",
-        "Đồng hóa với cảm xúc giúp con người trở nên dũng cảm hơn.",
-        "Không có sự khác biệt nào giữa hai trạng thái.",
-        "Tự nhận thức là việc kể cho mọi người biết mình đang tức giận."
+        "Trí thông minh cảm xúc chỉ có ích đối với các nhân viên cấp thấp chứ không mang lại giá trị cho cấp quản lý.",
+        "Kỹ năng lập trình máy tính là yếu tố quyết định số một giúp tăng trưởng lợi nhuận của toàn bộ phòng ban.",
+        "Những nhà quản lý nghiêm khắc và độc đoán luôn tạo ra tỷ suất lợi nhuận cao hơn những người giàu lòng trắc ẩn.",
+        "Các nhà quản lý có năng lực EQ vượt trội giúp bộ phận của họ vượt chỉ tiêu lợi nhuận hàng năm từ 15% đến 20%."
       ],
-      "correctIndex": 0,
-      "explanation": "Khoảng cách nhận thức: Khi chuyển từ 'Tôi giận' sang 'Tôi đang nhận biết cơn giận trong tâm', bạn tách cái tôi ra khỏi cảm xúc và có quyền tự do lựa chọn cách phản ứng khôn ngoan."
+      "correctIndex": 3,
+      "explanation": "Nghiên cứu của McClelland chỉ ra những nhà lãnh đạo sở hữu điểm mạnh ở các năng lực EQ giúp đơn vị của họ vượt mục tiêu lợi nhuận năm từ 15 đến 20%, trong khi nhóm thiếu EQ kém mục tiêu 20%."
     },
     {
       "id": "q5",
-      "question": "Tại sao các kỹ sư tại Google ban đầu có thể hoài nghi về các khóa học kỹ năng mềm nhưng lại nhiệt tình đón nhận khóa học Search Inside Yourself?",
+      "question": "Khái niệm 'Nhà lãnh đạo Cấp độ 5' trong nghiên cứu kinh điển của Jim Collins (Từ tốt đến vĩ đại) sở hữu đặc điểm nghịch lý nào?",
       "options": [
-        "Vì Google tặng điện thoại miễn phí cho ai tham gia khóa học.",
-        "Vì khóa học không yêu cầu người tham gia phải làm bài tập.",
-        "Vì khóa học được tổ chức tại các bãi biển du lịch nổi tiếng.",
-        "Vì khóa học được xây dựng dựa trên nền tảng khoa học thần kinh chuẩn xác, có dữ liệu thực nghiệm rõ ràng, logic chặt chẽ và không mang màu sắc huyền bí tôn giáo."
+        "Sự hòa quyện độc đáo giữa đức tính khiêm nhường cá nhân sâu sắc và một ý chí kiên định mãnh liệt trong công việc.",
+        "Luôn đưa ra các quyết định độc đoán và hoàn toàn phớt lờ ý kiến đóng góp của các chuyên gia cấp dưới.",
+        "Khả năng trình diễn diễn thuyết hoa mỹ trước truyền thông kết hợp với tính cách phô trương quyền lực cá nhân.",
+        "Sẵn sàng hy sinh toàn bộ lợi ích lâu dài của doanh nghiệp để tối đa hóa các mục tiêu lợi nhuận ngắn hạn."
       ],
-      "correctIndex": 3,
-      "explanation": "Kỹ sư yêu thích dữ liệu và khoa học; khi thiền và EQ được giải thích dưới góc độ cấu trúc thần kinh, tính dẻo não bộ và hiệu suất nhận thức, họ hào hứng tham gia như nâng cấp phần mềm cho não."
+      "correctIndex": 0,
+      "explanation": "Jim Collins nhận thấy tất cả các công ty vĩ đại đều được lãnh đạo bởi những nhà lãnh đạo Cấp độ 5: những người kết hợp giữa sự khiêm tốn cá nhân và ý chí nghề nghiệp kiên cường."
     },
     {
       "id": "q6",
-      "question": "Nghiên cứu về chỉ số EQ tại các tập đoàn lớn chỉ ra rằng những nhân viên có EQ cao mang lại lợi ích tài chính nào cho doanh nghiệp?",
+      "question": "Theo Chade-Meng Tan, điều quan trọng nhất mà trí thông minh cảm xúc mang lại cho mỗi cá nhân là gì?",
       "options": [
-        "Họ không bao giờ sử dụng điện thoại hay internet của công ty.",
-        "Họ có năng suất bán hàng cao hơn vượt trội, tỷ lệ gắn bó với công ty cao hơn, giảm thiểu chi phí tuyển dụng và tạo ra môi trường làm việc sáng tạo, ít xung đột.",
-        "Họ giúp công ty trốn thuế một cách hợp pháp.",
-        "Họ chấp nhận làm việc 7 ngày mỗi tuần không cần ngày nghỉ."
+        "Khả năng tích lũy tài sản vật chất nhanh chóng và sở hữu nhiều danh hiệu danh giá trong mắt xã hội hiện đại.",
+        "Khả năng tạo ra các điều kiện nền tảng vững chắc cho hạnh phúc đích thực và an lạc nội tâm sâu xa của chính mình.",
+        "Năng lực tránh né được toàn bộ mọi thất bại và không bao giờ gặp phải những khó khăn, trở ngại trong sự nghiệp.",
+        "Kỹ năng kiểm soát và bắt buộc những người xung quanh phải luôn cư xử hòa nhã và đồng thuận với ý kiến của mình."
       ],
       "correctIndex": 1,
-      "explanation": "Dữ liệu kinh tế cho thấy các nhân viên bán hàng có EQ cao tại L'Oreal bán nhiều hơn 2,5 triệu USD so với đồng nghiệp; các công ty chú trọng EQ có tỷ lệ giữ chân nhân tài cao hơn 50%."
+      "explanation": "Meng khẳng định: 'Có lẽ điều quan trọng nhất là trí thông minh cảm xúc tạo ra các điều kiện cho hạnh phúc... Khi bạn phát triển được sự an bình và niềm vui nội tại, nó sẽ không phụ thuộc vào hoàn cảnh bên ngoài.'"
     },
     {
       "id": "q7",
-      "question": "Tại sao tác giả Chade-Meng Tan khẳng định: 'Trí thông minh cảm xúc hoàn toàn có thể được đào tạo và rèn luyện như một kỹ năng kỹ thuật'?",
+      "question": "Để trau dồi trí thông minh cảm xúc một cách hiệu quả nhất, bước khởi đầu tất yếu mà Meng đề xuất là gì?",
       "options": [
-        "Vì có thể học thuộc lòng bảng câu hỏi EQ trong 2 ngày.",
-        "Vì EQ dựa trên các mạch thần kinh cụ thể trong não bộ; và bất kỳ mạch thần kinh nào cũng có thể được tăng cường độ dày và khả năng kết nối thông qua sự lặp lại bài tập chú ý và phản xạ tâm lý.",
-        "Vì EQ có thể được sao chép qua một chiếc USB cắm vào đầu.",
-        "Vì các trường đại học đã có chứng chỉ thạc sĩ về cảm xúc."
+        "Đọc thuộc lòng toàn bộ các cuốn sách giáo khoa chuyên ngành tâm lý học hành vi của các viện nghiên cứu lớn.",
+        "Tham gia các khóa huấn luyện kỹ năng giao tiếp và nghệ thuật diễn thuyết trước đám đông hàng tuần.",
+        "Rèn luyện sự chú ý để tạo ra một tâm trí vừa an bình vừa sáng suốt, làm nền tảng cho mọi nhận thức sau đó.",
+        "Tập thói quen ghi chép nhật ký chi tiết về các lỗi sai của đồng nghiệp sau mỗi buổi họp dự án căng thẳng."
       ],
-      "correctIndex": 1,
-      "explanation": "Khoa học thần kinh chứng minh các vùng não điều khiển sự tự chủ và thấu cảm (như thùy đảo và vỏ não trước trán) sẽ dày lên sau khi rèn luyện chánh niệm; EQ là một năng lực sinh học có thể tôi luyện."
+      "correctIndex": 2,
+      "explanation": "Meng chỉ rõ: muốn phát triển EQ thì nền tảng cốt lõi là rèn luyện sự chú ý. Một khả năng chú ý sắc bén, vừa thư giãn vừa cảnh giác, là điều kiện tiên quyết cho tự nhận thức."
     },
     {
       "id": "q8",
-      "question": "Trong bài tập thực hành 'Ngồi yên lặng 2 phút' ở Chương 1, mục đích cốt lõi không phải là đạt được sự trống rỗng hoàn hảo mà là gì?",
+      "question": "Trạng thái tâm trí tối ưu được hình thành từ việc rèn luyện sự chú ý được tác giả mô tả là gì?",
       "options": [
-        "Cố gắng ngủ một giấc ngắn để lấy lại sức.",
-        "Đếm xem có bao nhiêu chiếc xe chạy ngoài đường.",
-        "Tập làm quen với việc chuyển đổi từ chế độ 'Làm việc liên tục' (Doing mode) sang chế độ 'Hiện diện thuần khiết' (Being mode), quan sát thân tâm trong sự tĩnh lặng.",
-        "Kiểm tra xem nhịp tim có đập nhanh hơn bình thường không."
+        "Một trạng thái tâm trí vô thức hoàn toàn, không còn cảm nhận được bất kỳ âm thanh hay hình ảnh nào xung quanh.",
+        "Sự căng thẳng tập trung tuyệt đối đòi hỏi người thực hành phải gồng cứng toàn bộ cơ bắp và ép chặt suy nghĩ.",
+        "Trạng thái phấn khích cao độ với nhịp tim nhanh và năng lượng bùng nổ liên tục trong suốt ngày dài làm việc.",
+        "Trạng thái vừa thư giãn vừa cảnh giác trong cùng một lúc, tương tự như sự tập trung của vận động viên đỉnh cao."
       ],
-      "correctIndex": 2,
-      "explanation": "Chỉ cần 2 phút dừng lại để chuyển từ trạng thái hối hả 'làm việc' sang trạng thái 'hiện diện' tĩnh lặng đã đủ để thiết lập lại hệ thần kinh và làm dịu áp lực nhận thức."
+      "correctIndex": 3,
+      "explanation": "Trạng thái lý tưởng của tâm trí qua rèn luyện chú ý là 'vừa thư giãn vừa cảnh giác' (relaxed and alert at the same time), giúp tâm trí tĩnh lặng nhưng cực kỳ nhạy bén."
     },
     {
       "id": "q9",
-      "question": "Điều gì xảy ra với 'Hạch hạnh nhân' (Amygdala - trung tâm xử lý nỗi sợ và phản ứng chiến-hay-biến) khi một người thực hành chánh niệm đều đặn sau 8 tuần?",
+      "question": "Nghiên cứu của Tiến sĩ Sara Lazar tại Trường Y Harvard đã chứng minh điều gì về não bộ của những người thiền định lâu năm?",
       "options": [
-        "Hạch hạnh nhân phình to gấp 3 lần và trở nên hung dữ hơn.",
-        "Kích thước và mật độ chất xám của hạch hạnh nhân giảm đi, đồng thời các kết nối giữa vỏ não trước trán và hạch hạnh nhân được củng cố, giúp con người ít bị kích động và bình tĩnh hơn trước các mối đe dọa.",
-        "Hạch hạnh nhân di chuyển sang phía bên kia của não bộ.",
-        "Hạch hạnh nhân ngừng hoạt động hoàn toàn và biến mất."
+        "Họ có các vùng vỏ não dày hơn đáng kể ở những khu vực liên quan đến sự chú ý và quá trình xử lý cảm giác.",
+        "Não của họ bị co rút lại ở các vùng chịu trách nhiệm về trí nhớ hình ảnh và tư duy không gian đa chiều.",
+        "Não bộ của họ ngừng hoàn toàn việc tiêu thụ oxy và glucose trong suốt thời gian diễn ra bài tập thiền tọa.",
+        "Tất cả các tế bào nơ-ron thần kinh ở bán cầu não phải bị thay thế bởi các mô liên kết sợi collagen mềm mại."
       ],
-      "correctIndex": 1,
-      "explanation": "Nghiên cứu của Đại học Harvard (Dr. Sara Lazar) chứng minh sau 8 tuần thiền chánh niệm, hạch hạnh nhân co nhỏ lại, giúp giảm phản ứng lo âu và tăng cường khả năng tự chủ cảm xúc."
+      "correctIndex": 0,
+      "explanation": "Sara Lazar và đồng nghiệp phát hiện những người thực hành thiền có vỏ não dày hơn ở các vùng não liên quan đến sự chú ý, xử lý cảm giác và tự nhận thức (như vỏ não trước trán và thùy đảo)."
     },
     {
       "id": "q10",
-      "question": "Tại sao việc rèn luyện EQ lại giúp tăng cường sự sáng tạo và khả năng giải quyết vấn đề kỹ thuật của các kỹ sư?",
+      "question": "Khái niệm 'Tính dẻo của não' (Neuroplasticity) mang lại niềm hy vọng to lớn nào cho việc rèn luyện con người?",
       "options": [
-        "Vì kỹ sư sẽ không cần sử dụng máy tính nữa.",
-        "Một tâm trí ít bị chi phối bởi sự lo lắng và nỗi sợ thất bại sẽ mở ra không gian cho tư duy phân kỳ, tăng cường khả năng nhìn thấy các mối liên hệ mới và đưa ra giải pháp đột phá.",
-        "Vì sự sáng tạo chỉ xuất hiện khi con người khóc thật nhiều.",
-        "Vì cảm xúc giúp các thuật toán tự động sửa lỗi."
+        "Chứng minh rằng các bệnh lý tâm thần di truyền có thể được chữa khỏi hoàn toàn mà không cần bất kỳ can thiệp nào.",
+        "Khẳng định rằng não bộ có thể biến đổi cấu trúc và chức năng thông qua quá trình trải nghiệm và rèn luyện lặp lại.",
+        "Cho thấy con người có thể phát triển thêm các giác quan sinh học hoàn toàn mới sau khi bước vào tuổi trung niên.",
+        "Cho rằng dung tích sọ não sẽ tiếp tục tăng trưởng vô hạn nếu chúng ta liên tục tiếp nạp thông tin công nghệ."
       ],
       "correctIndex": 1,
-      "explanation": "Khi não bộ thoát khỏi trạng thái cảnh giác sinh tồn do stress, các vùng mạng lưới chế độ mặc định (default mode network) và vỏ não trước trán phối hợp nhịp nhàng, kích hoạt sự sáng tạo đỉnh cao."
+      "explanation": "Tính dẻo của não chứng minh não bộ không hề cố định sau tuổi trưởng thành mà liên tục thay đổi theo trải nghiệm: những gì bạn suy nghĩ và thực hành thường xuyên sẽ tái định hình mạng nơ-ron của não."
     },
     {
       "id": "q11",
-      "question": "Khái niệm 'Thùy đảo' (Insula) trong não bộ có chức năng gì trong việc phát triển Trí tuệ cảm xúc?",
+      "question": "Định nghĩa về 'Chánh niệm' (Mindfulness) của Jon Kabat-Zinn được Meng trích dẫn bao gồm ba yếu tố cốt lõi nào?",
       "options": [
-        "Lưu trữ các mật khẩu tài khoản ngân hàng.",
-        "Thùy đảo là trung tâm xử lý nhận thức cảm giác nội tại cơ thể (Interoception); rèn luyện chánh niệm giúp thùy đảo phát triển, giúp bạn cảm nhận rõ nét các tín hiệu sinh học của cảm xúc trong cơ thể.",
-        "Điều khiển việc nhai thức ăn trong miệng.",
-        "Giúp cơ thể bơi lội dưới nước giỏi hơn."
+        "Chú ý một cách ngẫu nhiên, hướng về các ký ức trong quá khứ, và luôn phân tích đúng sai về mặt đạo đức.",
+        "Cố gắng loại bỏ hoàn toàn suy nghĩ, duy trì hơi thở thật nông, và nhắm nghiền mắt để trốn tránh thực tại.",
+        "Chú ý có chủ đích, trong giây phút hiện tại, và với thái độ không phán xét đối với các trải nghiệm đang diễn ra.",
+        "Tập trung cao độ vào công việc kỹ thuật, phớt lờ mọi cảm xúc của cơ thể, và đẩy nhanh tiến độ làm việc nhóm."
       ],
-      "correctIndex": 1,
-      "explanation": "Thùy đảo giúp bạn 'nghe' được tiếng nói của cơ thể (nhịp tim, hơi thở, cảm giác thắt nghẹn ở cổ họng); nhận thức cảm giác cơ thể là chìa khóa gốc rễ của sự tự nhận thức cảm xúc."
+      "correctIndex": 2,
+      "explanation": "Định nghĩa của Jon Kabat-Zinn: 'chú ý theo một cách đặc biệt: có chủ đích, trong giây phút hiện tại, và không phán xét'."
     },
     {
       "id": "q12",
-      "question": "Một người có IQ 160 nhưng EQ thấp thường gặp phải vấn đề gì nghiêm trọng trong môi trường làm việc hiện đại?",
+      "question": "Trong bài tập thực hành 'Thiền trong hai phút' ở cuối Chương 1, Meng đưa ra hai sự lựa chọn tiếp cận nào cho người học?",
       "options": [
-        "Họ luôn bị điểm kém trong các kỳ thi toán quốc tế.",
-        "Họ không biết cách sử dụng chuột máy tính.",
-        "Họ dễ rơi vào trạng thái cô lập, thiếu kiên nhẫn với người khác, không chịu lắng nghe ý kiến phản biện, tạo ra môi trường độc hại và không thể dẫn dắt các dự án quy mô lớn.",
-        "Họ không thể nói được bất kỳ ngôn ngữ nào ngoài tiếng mẹ đẻ."
+        "Hoặc là nín thở trong suốt hai phút, hoặc là hít thở thật nhanh và gấp gáp để kích thích nhịp tim.",
+        "Hoặc là ngồi bất động trong tư thế kiết già đau đớn, hoặc là đi bộ vòng quanh phòng làm việc thật nhanh.",
+        "Hoặc là đọc một bài kinh dài liên tục, hoặc là tưởng tượng ra những hình ảnh trừu tượng nhiều màu sắc.",
+        "Hoặc là chú ý nhẹ nhàng vào hơi thở, hoặc đơn giản chỉ là chuyển từ trạng thái 'làm' sang trạng thái 'hiện hữu'."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự kiêu ngạo trí tuệ và thiếu thấu cảm khiến người có IQ cao nhưng EQ thấp trở thành rào cản cho sự hợp tác nhóm; họ có thể giải toán một mình nhưng không thể cùng ai làm nên việc lớn."
+      "correctIndex": 3,
+      "explanation": "Meng đưa ra 2 cách tiếp cận cho bài tập 2 phút: Cách 1 là chú ý nhẹ nhàng vào hơi thở; Cách 2 chỉ đơn giản là không làm gì cả, chuyển từ trạng thái 'Doing' sang trạng thái 'Being'."
     },
     {
       "id": "q13",
-      "question": "Trong chương trình SIY, thiền định được định nghĩa đơn giản nhất dưới dạng một bài tập rèn luyện tâm trí là gì?",
+      "question": "Bài tập 'Một hơi thở tỉnh thức' (One mindful breath) được tác giả xem là điều gì trong quá trình rèn luyện tâm trí?",
       "options": [
-        "Một phương pháp thôi miên chữa bách bệnh.",
-        "Việc ngồi im lặng và nghĩ về những sai lầm trong quá khứ.",
-        "Động tác thể dục cho tâm trí: giữ sự chú ý trên một đối tượng (như hơi thở); khi tâm xao lãng, nhận biết và đưa sự chú ý quay trở lại đối tượng đó.",
-        "Một buổi biểu diễn nghệ thuật yoga phức tạp."
+        "Đơn vị rèn luyện chánh niệm cơ bản nhất: chỉ cần trọn vẹn trong một hơi thở duy nhất là bạn đã thực hành thiền.",
+        "Một bài kiểm tra thể lực đo lường dung tích phổi của các kỹ sư làm việc trong môi trường văn phòng máy lạnh.",
+        "Một bài tập khởi động bắt buộc phải thực hiện đủ 100 lần liên tiếp trước khi bắt đầu bất kỳ cuộc họp nào.",
+        "Phương pháp thở y khoa khẩn cấp chỉ được áp dụng khi người thực hành rơi vào trạng thái sốc cảm xúc nặng nề."
       ],
-      "correctIndex": 2,
-      "explanation": "Cơ chế thiền như tập tạ: Mỗi lần tâm trí đi lang thang và bạn nhận biết rồi kéo nó về hơi thở, đó là một lần bạn thực hiện động tác 'nâng tạ chú ý' làm khỏe cơ bắp tinh thần."
+      "correctIndex": 0,
+      "explanation": "Meng dạy rằng một hơi thở tỉnh thức là đơn vị cơ bản và mạnh mẽ nhất của thiền: bạn chú ý trọn vẹn từ lúc bắt đầu hít vào, khoảnh khắc chuyển giao, cho đến khi thở ra hoàn toàn."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc phát triển EQ lại có thể mang lại 'Hạnh phúc tự thân' không phụ thuộc vào hoàn cảnh bên ngoài?",
+      "question": "Tại sao tác giả lại ví việc rèn luyện tâm trí bằng chánh niệm tương tự như việc tập thể dục thể hình?",
       "options": [
-        "Vì người có EQ cao sẽ không bao giờ phải chịu đau đớn khi ốm đau.",
-        "Vì người có EQ cao sẽ luôn trúng số độc đắc.",
-        "Vì khi bạn làm chủ được tâm trí và cảm xúc của mình, bạn không còn bị các biến cố bên ngoài hay những lời khen chê nhất thời làm lung lay sự bình an nội tại.",
-        "Vì thế giới bên ngoài sẽ tự động thay đổi theo ý muốn của người có EQ cao."
+        "Vì cả hai hoạt động đều đòi hỏi bạn phải đầu tư nhiều tiền bạc vào các phòng tập hiện đại và thuê huấn luyện viên.",
+        "Vì mỗi lần nhận ra tâm trí bị phân tâm và nhẹ nhàng đưa nó quay lại hơi thở tương tự như một lần nâng tạ cơ bắp.",
+        "Vì thực hành thiền sẽ lập tức làm tiêu hao lượng calo trong cơ thể tương đương với việc chạy bộ mười cây số.",
+        "Vì việc tập thiền cũng đòi hỏi bạn phải nâng các vật nặng bằng đầu để rèn luyện độ cứng của các đốt sống cổ."
       ],
-      "correctIndex": 2,
-      "explanation": "Hạnh phúc đích thực không phải là kiểm soát hoàn cảnh bên ngoài (điều bất khả thi), mà là làm chủ tâm thế và phản ứng bên trong trước mọi thăng trầm của cuộc đời."
+      "correctIndex": 1,
+      "explanation": "Bộ não giống như cơ bắp; mỗi lần bạn nhận thấy tâm mình đi lang thang và nhẹ nhàng mang sự chú ý quay về với đối tượng, đó chính là một cái 'hít tạ' (rep) giúp củng cố cơ bắp chú ý."
     },
     {
       "id": "q15",
-      "question": "Thông điệp đúc kết từ Chương 1 dành cho mọi người đọc là gì?",
+      "question": "Thông điệp cốt lõi đầy khích lệ mà nhan đề Chương 1 gửi gắm tới tất cả độc giả là gì?",
       "options": [
-        "Chỉ những người làm nghệ thuật mới cần học về cảm xúc.",
-        "IQ quan trọng hơn EQ trong mọi tình huống của cuộc sống.",
-        "Trí thông minh cảm xúc là một năng lực có thể rèn luyện bằng phương pháp khoa học; bất kỳ ai (dù là một kỹ sư khô khan nhất) cũng có thể trở thành bậc thầy làm chủ cảm xúc và sống một cuộc đời an hòa, xuất sắc.",
-        "Cảm xúc là thứ không thể kiểm soát được bằng ý thức con người."
+        "Chỉ những người làm nghề kỹ sư công nghệ mới có đủ năng lực tư duy logic để hiểu được bản chất của thiền định.",
+        "Kỹ năng cảm xúc là năng khiếu bẩm sinh của phụ nữ và nam giới làm ngành kỹ thuật rất khó có thể tiếp thu được.",
+        "Trí thông minh cảm xúc không phải tố chất thần bí mà là kỹ năng rèn luyện được, ngay cả một kỹ sư cũng thành công.",
+        "Các kỹ sư nên từ bỏ hoàn toàn công việc kỹ thuật chuyên môn để chuyển sang nghiên cứu triết học và tâm lý học."
       ],
       "correctIndex": 2,
-      "explanation": "Không ai bị giới hạn bởi tính cách bẩm sinh: EQ là một tập hợp các kỹ năng có thể rèn luyện thông qua chánh niệm, mở ra cánh cửa dẫn đến thành công bền vững và bình an nội tâm."
+      "explanation": "Chương 1 khẳng định EQ không phải là năng khiếu bẩm sinh hay sự mơ hồ, mà là một tập hợp các năng lực có thể rèn luyện dựa trên khoa học, và ngay cả những người lý tính, khô khan nhất như kỹ sư cũng có thể thăng hoa."
     }
   ]
 }

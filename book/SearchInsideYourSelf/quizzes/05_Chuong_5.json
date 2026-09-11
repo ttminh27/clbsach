@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Hình ảnh ẩn dụ 'Điều khiển cảm xúc như thuần dưỡng một con ngựa bất kham' trong Chương 5 mang ý nghĩa gì?",
+      "question": "Hình ảnh ẩn dụ 'Điều khiển cảm xúc như thuần dưỡng một con ngựa' mang hàm ý sâu sắc nào về sự tự chủ?",
       "options": [
-        "Bạn phải đi mua một con ngựa thực sự để tập cưỡi.",
-        "Cảm xúc giống như một con ngựa hoang dã mạnh mẽ: nếu bỏ mặc nó sẽ gây hỗn loạn, nếu đè nén nó sẽ nổi loạn; giải pháp là thuần dưỡng nó bằng sự kiên nhẫn, thấu hiểu và yêu thương để biến sức mạnh của nó thành động lực phục vụ cho ta.",
-        "Cảm xúc là thứ không thể kiểm soát được dưới bất kỳ hình thức nào.",
-        "Phải dùng roi vọt và bạo lực để giết chết con ngựa cảm xúc."
+        "Không kìm nén hay thả rông cảm xúc; mà xây dựng mối quan hệ thấu hiểu, kiên nhẫn dẫn dắt năng lượng cảm xúc.",
+        "Phải dùng roi vọt và xiềng xích bạo lực để đè bẹp hoàn toàn mọi cảm xúc hoang dã nảy sinh trong tâm trí.",
+        "Cần phải loại bỏ hoàn toàn cảm xúc để biến bản thân thành một cỗ máy tính toán hoàn toàn vô cảm và lạnh lùng.",
+        "Khuyên người tập nên dành thời gian tham gia các môn thể thao đua ngựa để rèn luyện lòng dũng cảm cá nhân."
       ],
-      "correctIndex": 1,
-      "explanation": "Thuần dưỡng cảm xúc không phải là triệt tiêu cảm xúc; đó là nghệ thuật làm bạn và dẫn dắt năng lượng cảm xúc phục vụ cho mục đích sống cao đẹp."
+      "correctIndex": 0,
+      "explanation": "Thuần dưỡng con ngựa không phải là giết chết nó hay thả rông nó phá phách, mà là kết bạn, hiểu bản tính của nó và nhẹ nhàng định hướng sức mạnh to lớn của nó phục vụ cho mục tiêu cao đẹp."
     },
     {
       "id": "q2",
-      "question": "Quy trình 5 bước nổi tiếng SBNRR (đọc là 'Sib-ner') để làm chủ các phản ứng cảm xúc tiêu cực bao gồm các bước theo đúng thứ tự nào?",
+      "question": "Theo Chade-Meng Tan, sai lầm phổ biến nhất của con người khi nói về 'Tự điều chỉnh cảm xúc' (Self-regulation) là gì?",
       "options": [
-        "1. Dừng lại (Stop) -> 2. Hít thở (Breathe) -> 3. Nhận biết (Notice) -> 4. Phản ánh/Suy ngẫm (Reflect) -> 5. Phản hồi khôn ngoan (Respond)",
-        "1. Hét lên -> 2. Đập phá -> 3. Bỏ chạy -> 4. Hối hận -> 5. Xin lỗi",
-        "1. Phán xét -> 2. Tranh luận -> 3. Đổ lỗi -> 4. Tấn công -> 5. Bỏ qua",
-        "1. Ngủ -> 2. Ăn -> 3. Uống -> 4. Đi dạo -> 5. Làm việc"
+        "Nghĩ rằng tự điều chỉnh cảm xúc là việc chia sẻ hết mọi nỗi bực bội của mình lên các trang mạng xã hội.",
+        "Lầm tưởng rằng tự điều chỉnh đồng nghĩa với việc đè nén, kìm kẹp hoặc trốn tránh các cảm xúc tiêu cực của mình.",
+        "Cho rằng chỉ những người có học vị tiến sĩ tâm lý mới có khả năng kiểm soát được cơn nóng giận của bản thân.",
+        "Tin rằng việc ăn nhiều đồ ngọt là phương pháp tốt nhất để làm dịu đi những căng thẳng trong công việc."
       ],
-      "correctIndex": 0,
-      "explanation": "SBNRR là công cụ vàng của SIY: Stop (Dừng phản xạ tự động), Breathe (Làm dịu hệ thần kinh), Notice (Cảm nhận biểu hiện trên thân tâm), Reflect (Đặt góc nhìn thấu cảm), Respond (Hành động khôn ngoan)."
+      "correctIndex": 1,
+      "explanation": "Tự điều chỉnh không phải là kìm nén (suppression) hay chối bỏ cảm xúc. Kìm nén chỉ đẩy cảm xúc vào vô thức và gây hại cho sức khỏe; tự điều chỉnh là làm việc hòa hợp với cảm xúc một cách sáng suốt."
     },
     {
       "id": "q3",
-      "question": "Tại sao Bước 1: 'Dừng lại' (Stop) trong quy trình SBNRR lại mang tính quyết định sự thành bại?",
+      "question": "Hình ảnh ẩn dụ 'Giống như viết trên nước' trong Chương 5 mô tả trạng thái giải thoát cảm xúc nào?",
       "options": [
-        "Vì dừng lại giúp bạn kịp thời ghi âm giọng nói của đối phương.",
-        "Vì dừng lại làm cho tim ngừng đập trong vài giây.",
-        "Vì nó ngăn chặn 'sự chiếm quyền điều khiển của hạch hạnh nhân' và phá vỡ chuỗi phản ứng dây chuyền bốc đồng vô thức, tạo ra một khoảnh khắc vàng cho tự do ý chí xuất hiện.",
-        "Vì dừng lại là hành động đầu hàng trước đối thủ."
+        "Các cảm xúc tiêu cực sẽ tồn tại vĩnh viễn trong tâm trí giống như vết mực dầu không thể nào tẩy xóa được.",
+        "Mọi nỗ lực ghi nhớ các bài học trong công việc đều sẽ bị trôi tuột đi như nước chảy qua kẽ ngón tay của bạn.",
+        "Khi tâm trí không bám chấp hay thêm thắt suy nghĩ, cảm xúc sinh khởi rồi tự tan biến nhẹ nhàng như nét chữ trên mặt nước.",
+        "Tâm trí con người luôn luôn bị ô nhiễm bởi các luồng thông tin độc hại từ môi trường mạng xã hội bên ngoài."
       ],
       "correctIndex": 2,
-      "explanation": "Khoảnh khắc 'Dừng lại' là chiếc phanh khẩn cấp ngăn đoàn tàu cảm xúc lao xuống vực thẳm của sự mất kiểm soát."
+      "explanation": "Cảm xúc tự nó chỉ kéo dài vài giây nếu không được 'tiếp nhiên liệu' bởi suy nghĩ phán xét. Khi có chánh niệm, cảm xúc nổi lên rồi biến mất như nét vẽ trên nước: không để lại vết hằn hay tổn thương."
     },
     {
       "id": "q4",
-      "question": "Ở Bước 3: 'Nhận biết' (Notice) của quy trình SBNRR, người thực hành nên hướng sự chú ý vào đâu đầu tiên?",
+      "question": "Cơ chế thần kinh học về 'Chiếm quyền điều khiển của hạch hạnh nhân' (Amygdala Hijack) diễn ra như thế nào?",
       "options": [
-        "Vào camera an ninh của tòa nhà.",
-        "Vào các cảm giác thể chất đang diễn ra trong chính cơ thể mình: nhịp tim đập nhanh, lồng ngực thắt nghẹn, cơ hàm căng cứng hay nhiệt độ nóng lên ở mặt.",
-        "Vào những khuyết điểm và lỗi sai của người đang làm mình giận.",
-        "Vào dự báo thời tiết của ngày mai."
+        "Tủy sống tự động phát ra các xung điện cực mạnh làm tê liệt hoàn toàn mọi dây thần kinh vận động của cơ thể.",
+        "Hệ thống miễn dịch lập tức sản sinh kháng thể tấn công vào các tế bào thần kinh gây ra hiện tượng mất trí nhớ tạm thời.",
+        "Vỏ não trước trán cắt đứt hoàn toàn nguồn cung cấp máu tới các cơ quan cảm giác để bảo vệ tính mạng con người.",
+        "Hạch hạnh nhân kích hoạt phản ứng sinh tồn chiến-hay-biến trước khi vỏ não trước trán kịp phân tích logic sự việc."
       ],
-      "correctIndex": 1,
-      "explanation": "Nhận biết cảm xúc qua cơ thể (Somatic awareness) giúp bạn 'nối đất' cảm xúc, không bị cuốn vào vòng xoáy của những suy nghĩ suy diễn độc hại trong đầu."
+      "correctIndex": 3,
+      "explanation": "Hạch hạnh nhân (Amygdala) là hệ thống báo động thời tiền sử: khi cảm thấy bị đe dọa, nó kích hoạt phản xạ 'chiến-hay-biến' bốc đồng trong tích tắc, bỏ qua sự kiểm soát của vỏ não trước trán (Prefrontal Cortex)."
     },
     {
       "id": "q5",
-      "question": "Ở Bước 4: 'Phản ánh/Suy ngẫm' (Reflect), câu hỏi tự vấn nào giúp bạn chuyển hóa cơn giận thành sự thấu cảm?",
+      "question": "Mô hình quy trình 5 bước giải quyết kích thích cảm xúc SBNRR (Đường ray phía bắc Siberia) bao gồm những bước nào?",
       "options": [
-        "'Người này có đang chịu nỗi đau hay áp lực gì không? Người này giống như tôi cũng muốn được hạnh phúc và tránh khổ đau? Cách giải quyết nào mang lại lợi ích lâu dài cho cả hai?'",
-        "'Làm sao để trừng phạt kẻ này đau đớn nhất?'",
-        "'Người này có nhiều tiền hơn tôi không?'",
-        "'Tại sao số phận của tôi lại bất hạnh như thế này?'"
+        "1. Stop (Dừng) -> 2. Breathe (Thở) -> 3. Notice (Nhận biết) -> 4. Reflect (Suy ngẫm) -> 5. Respond (Phản hồi).",
+        "1. Sợ hãi -> 2. Bỏ chạy -> 3. Nổi giận -> 4. Rút lui -> 5. Rên rỉ vì thất bại trong cuộc sống thường nhật.",
+        "1. Suy nghĩ -> 2. Bàn bạc -> 3. Nói chuyện -> 4. Ra lệnh -> 5. Rút kinh nghiệm sâu sắc sau mỗi dự án lớn.",
+        "1. So sánh -> 2. Bắt chước -> 3. Né tránh -> 4. Rút lui -> 5. Rửa tay thật sạch trước khi vào phòng họp."
       ],
       "correctIndex": 0,
-      "explanation": "Suy ngẫm mở rộng tầm nhìn: bạn nhìn thấy bức tranh toàn cảnh và bản chất tương thuộc của con người, biến mâu thuẫn thành cơ hội hợp tác giải quyết vấn đề."
+      "explanation": "Mô hình SBNRR gồm: 1. Stop (Dừng lại khi bị kích hoạt); 2. Breathe (Hít thở sâu); 3. Notice (Nhận biết cảm giác cơ thể); 4. Reflect (Suy ngẫm nguyên nhân và bối cảnh); 5. Respond (Phản hồi sáng suốt)."
     },
     {
       "id": "q6",
-      "question": "Sự khác biệt căn bản giữa việc 'Phản ứng bốc đồng' (Reacting) và 'Phản hồi khôn ngoan' (Responding) ở Bước 5 là gì?",
+      "question": "Trong quy trình SBNRR, bước đầu tiên 'Stop' (Dừng lại) có ý nghĩa sống còn như thế nào đối với tâm trí?",
       "options": [
-        "Phản ứng là hành vi nô lệ vô thức bị điều khiển bởi bản năng cơn giận; Phản hồi là hành động có ý thức, được soi sáng bởi trí tuệ và lòng từ bi vì lợi ích cao nhất của tình huống.",
-        "Phản ứng luôn mang lại kết quả tốt hơn phản hồi.",
-        "Phản hồi là việc im lặng bỏ đi không bao giờ quay lại.",
-        "Không có sự khác biệt nào giữa hai từ này."
+        "Dừng toàn bộ mọi công việc của công ty để đi du lịch nghỉ dưỡng dài ngày ở một hòn đảo xa xôi hẻo lánh.",
+        "Tạo ra một khoảng dừng thiêng liêng giữa kích thích và phản ứng, ngăn chặn thói quen phản xạ vô thức bốc đồng.",
+        "Ép buộc tim phải ngừng đập tạm thời trong vài giây để não bộ thiết lập lại toàn bộ các tế bào thần kinh.",
+        "Yêu cầu đối phương phải lập tức im lặng và rời khỏi phòng họp ngay khi bất đồng quan điểm bắt đầu xuất hiện."
       ],
-      "correctIndex": 0,
-      "explanation": "Tự do thực sự nằm ở năng lực phản hồi: bạn là người làm chủ hành vi của mình thay vì để hoàn cảnh bên ngoài kéo dây điều khiển như con rối."
+      "correctIndex": 1,
+      "explanation": "Bước 'Dừng lại' tạo ra khoảng trống nhận thức giữa kích thích và phản xạ. Nhà tâm thần học Viktor Frankl từng nói: 'Ở giữa kích thích và phản ứng có một khoảng không gian. Trong khoảng không gian đó là quyền tự do lựa chọn của chúng ta.'"
     },
     {
       "id": "q7",
-      "question": "Nhà tâm thần học Viktor Frankl (tác giả cuốn 'Đi Tìm Lẽ Sống') đã viết câu nói bất hủ nào về tự do lựa chọn?",
+      "question": "Tại bước 'Notice' (Nhận biết) của mô hình SBNRR, người thực hành được hướng dẫn hướng sự chú ý vào đâu?",
       "options": [
-        "'Con người hoàn toàn bất lực trước số phận'.",
-        "'Giữa kích thích và phản ứng luôn có một khoảng không gian. Trong khoảng không gian đó chính là tự do và quyền năng lựa chọn phản ứng của chúng ta. Trong phản ứng đó chính là sự trưởng thành và hạnh phúc của chúng ta'.",
-        "'Hãy tránh xa tất cả những người làm bạn tổn thương'.",
-        "'Tiền bạc là thước đo duy nhất của sự thành công'."
+        "Quan sát nét mặt và thái độ giận dữ của đối phương để tìm kiếm bằng chứng tố cáo hành vi sai trái của họ.",
+        "Kiểm tra lại toàn bộ số dư tài khoản ngân hàng để bảo đảm mình có đủ tài chính bồi thường thiệt hại nếu có.",
+        "Hướng sự chú ý vào bên trong để nhận diện những biến đổi sinh lý trên cơ thể: tim đập nhanh, nghẹn họng, căng cơ.",
+        "Tìm kiếm chiếc chìa khóa phòng làm việc để khóa chặt cửa lại không cho bất kỳ ai bước vào làm phiền mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Đây là chân lý vĩ đại nhất của tâm lý học nhân văn: khoảng không gian giữa kích thích và phản ứng chính là nơi phẩm giá và tự do của con người tỏa sáng."
+      "correctIndex": 2,
+      "explanation": "Bước 'Nhận biết': mang sự chú ý vào thân thể – cảm nhận nhịp tim, sự co thắt ở bụng, lồng ngực hay cơ mặt. Bằng cách chuyển sự chú ý từ câu chuyện trong đầu sang cảm giác thân thể, bạn làm nguội cơn bốc đồng."
     },
     {
       "id": "q8",
-      "question": "Khái niệm 'Tự chủ cảm xúc' (Self-regulation) KHÔNG đồng nghĩa với điều gì sau đây?",
+      "question": "Tại bước 'Reflect' (Suy ngẫm) của SBNRR, những câu hỏi tự vấn hữu ích mà bạn nên tự đặt ra cho mình là gì?",
       "options": [
-        "Việc kìm nén, chôn vùi cảm xúc vào bên trong và giả vờ như mình không cảm thấy gì (Emotional suppression).",
-        "Khả năng giữ được sự bình tĩnh trước nghịch cảnh.",
-        "Khả năng trì hoãn sự thỏa mãn nhất thời vì mục tiêu lâu dài.",
-        "Khả năng phục hồi nhanh sau những thất vọng."
+        "Làm thế nào để trả đũa đối phương đau đớn nhất mà không để lại bất kỳ dấu vết hay bằng chứng nào cho thấy mình làm?",
+        "Ai là người sẽ phải chịu trách nhiệm bồi thường toàn bộ chi phí phát sinh do cuộc tranh cãi căng thẳng này gây ra?",
+        "Tại sao số phận của mình luôn luôn bất hạnh và tại sao tất cả mọi người xung quanh đều âm mưu chống lại mình?",
+        "Cảm xúc này đến từ đâu? Chuyện gì đang thực sự xảy ra ở đây? Phản ứng nào sẽ mang lại kết quả tốt đẹp nhất?"
       ],
-      "correctIndex": 0,
-      "explanation": "Kìm nén cảm xúc là độc hại (làm tăng huyết áp và gây bệnh lý); Tự chủ cảm xúc là nhận biết trọn vẹn cảm xúc nhưng làm chủ hành vi thể hiện ra ngoài một cách khôn ngoan."
+      "correctIndex": 3,
+      "explanation": "Bước Suy ngẫm: kích hoạt vỏ não trước trán bằng các câu hỏi tỉnh thức: 'Cảm xúc này bắt nguồn từ đâu? Có phải cái tôi của mình đang bị đe dọa? Đâu là sự thật và đâu là câu chuyện do mình thêu dệt?'."
     },
     {
       "id": "q9",
-      "question": "Khi bạn nhận được một email gay gắt mang tính xúc phạm cá nhân từ khách hàng, cách áp dụng SBNRR tốt nhất là gì?",
+      "question": "Câu chuyện hài hước 'Để không bóp cổ mẹ vợ' của Meng minh họa cho ứng dụng thực tế nào của bài học?",
       "options": [
-        "Khóc lóc suốt cả ngày trong phòng vệ sinh.",
-        "Dừng lại (không chạm vào bàn phím), Hít thở sâu 3 nhịp, Nhận biết sự nóng ran ở mặt, Suy ngẫm về áp lực của khách hàng, và Phản hồi bằng một cuộc gọi điềm tĩnh, chuyên nghiệp.",
-        "Xóa email đó và giả vờ như chưa từng nhận được.",
-        "Lập tức viết một email mắng lại gay gắt gấp đôi và gửi cho toàn công ty."
+        "Áp dụng khoảng dừng chánh niệm và quy trình SBNRR để làm chủ các phản ứng cảm xúc căng thẳng trong đời sống gia đình.",
+        "Cách mua những món quà đắt tiền để lấy lòng các thành viên trong gia đình mỗi dịp nghỉ lễ tết hàng năm.",
+        "Phương pháp né tránh việc gặp gỡ người thân bằng cách liên tục viện lý do bận rộn đi công tác nước ngoài.",
+        "Kỹ năng tranh luận logic giúp bạn luôn luôn giành chiến thắng trong mọi cuộc cãi vã với các bậc phụ huynh."
       ],
-      "correctIndex": 1,
-      "explanation": "SBNRR biến một nguy cơ khủng hoảng ngoại giao thành cơ hội chứng minh sự chuyên nghiệp và biến khách hàng giận dữ thành đối tác trung thành."
+      "correctIndex": 0,
+      "explanation": "Meng dùng câu chuyện đùa về các mối quan hệ gia đình nhạy cảm để nhấn mạnh rằng chánh niệm và khoảng dừng nhận thức là chiếc phao cứu sinh giúp chuyển hóa các xung đột gia đình gay gắt thành sự hòa ái."
     },
     {
       "id": "q10",
-      "question": "Nghiên cứu về 'Tính tự chủ' của trẻ em trong thí nghiệm kẹo dẻo của Walter Mischel cho thấy những đứa trẻ thành công đã sử dụng chiến lược tâm lý nào?",
+      "question": "Khái niệm 'Tập buông thả' (Letting go) trong Chương 5 được tác giả làm rõ với ý nghĩa thực chất là gì?",
       "options": [
-        "Ăn trộm viên kẹo rồi nói dối người làm thí nghiệm.",
-        "Chằm chằm nhìn vào viên kẹo và gồng mình chịu đựng.",
-        "Khóc to để người lớn cho thêm kẹo.",
-        "Chiến lược 'Phân tán sự chú ý có chủ đích' và 'Tái đóng khung nhận thức' (như tưởng tượng viên kẹo chỉ là một bức tranh vẽ hoặc nhắm mắt hát một bài hát vui vẻ)."
+        "Từ bỏ hoàn toàn mọi lý tưởng sống và buông xuôi mặc cho dòng đời đưa đẩy đến đâu thì đến.",
+        "Chấm dứt việc nắm giữ, bám chấp hay xua đuổi trải nghiệm; cho phép mọi thứ hiện hữu và tự do rời đi tự nhiên.",
+        "Bán hết toàn bộ tài sản và đồ đạc có giá trị trong nhà để chuyển vào sống trong các khu rừng sâu hẻo lánh.",
+        "Không bao giờ nhận lời giúp đỡ bất kỳ ai vì cho rằng mọi người phải tự chịu trách nhiệm về số phận của mình."
       ],
-      "correctIndex": 3,
-      "explanation": "Tự chủ không phải là gồng mình khổ sở; đó là kỹ năng điều hướng sự chú ý và tái cấu trúc góc nhìn một cách thông minh."
+      "correctIndex": 1,
+      "explanation": "Buông thả không phải là buông xuôi vô trách nhiệm; buông thả (letting go) là dừng việc chống cự thực tại hay bám chặt lấy cảm xúc, để tâm trí tự do thanh thản như bầu trời rộng mở."
     },
     {
       "id": "q11",
-      "question": "Tại sao việc 'Đặt tên cho cảm xúc' (Name it to tame it) lại có tác dụng kỳ diệu làm dịu cơn giận theo khoa học não bộ?",
+      "question": "Nguyên tắc chung để đối diện và giải quyết sự đau đớn cảm xúc được Meng đúc kết bao gồm điều gì?",
       "options": [
-        "Vì đặt tên cảm xúc làm cho họng phát ra sóng siêu âm làm tan cơn giận.",
-        "Vì đặt tên cảm xúc giúp bạn ghi nhớ nó để sau này trả thù.",
-        "Việc gọi tên cảm xúc bằng ngôn ngữ (ví dụ: 'Tôi đang cảm thấy thất vọng') kích hoạt vỏ não trước trán bên phải, từ đó ức chế và làm giảm hoạt động điện của hạch hạnh nhân.",
-        "Vì đây là câu thần chú cổ xưa của các pháp sư."
+        "Lập tức uống rượu bia hoặc dùng các chất kích thích để làm tê liệt hoàn toàn các tế bào cảm giác của não bộ.",
+        "Liên tục gọi điện thoại than vãn với tất cả bạn bè trong danh bạ để tìm kiếm sự thương hại của mọi người.",
+        "Chuyển đổi sự chú ý từ câu chuyện phán xét trong đầu sang việc cảm nhận trực tiếp cảm giác thể xác với lòng từ bi.",
+        "Cố gắng ngủ liên tục 24 tiếng mỗi ngày để thời gian tự động xóa nhòa toàn bộ những kỷ niệm đau buồn trong quá khứ."
       ],
       "correctIndex": 2,
-      "explanation": "Chuyển cảm xúc từ dạng trải nghiệm mơ hồ sang dạng nhãn dán ngôn ngữ giúp vỏ não lý trí tiếp quản quyền kiểm soát từ hệ thống cảm xúc nguyên thủy."
+      "explanation": "Nguyên tắc xử lý nỗi đau cảm xúc: tách biệt thực tế khỏi câu chuyện thêu dệt trong đầu; đem lòng trắc ẩn ôm ấp cảm giác khó chịu trên cơ thể thay vì chống cự hay đổ lỗi."
     },
     {
       "id": "q12",
-      "question": "Làm thế nào để phục hồi nhanh sau khi bạn lỡ mất bình tĩnh và nổi nóng với người khác?",
+      "question": "Tại sao việc 'Đặt tên cho cảm xúc' (Affect labeling) lại có tác dụng kỳ diệu làm dịu cơn bão cảm xúc trong não bộ?",
       "options": [
-        "Tự sỉ nhục bản thân là kẻ tồi tệ không xứng đáng được sống.",
-        "Cắt đứt liên lạc với người đó vĩnh viễn.",
-        "Đổ lỗi hoàn toàn cho người kia vì đã kích động bạn trước.",
-        "Thực hành lòng trắc ẩn tự thân: tha thứ cho sự bất toàn của mình, học bài học từ sai lầm, chân thành xin lỗi người bị tổn thương và tiếp tục rèn luyện."
+        "Vì việc nói ra các từ ngữ sẽ làm tiêu hao toàn bộ lượng oxy dự trữ trong thanh quản và phổi của người thực hành.",
+        "Vì việc đặt tên sẽ giúp bạn dễ dàng lập hồ sơ bệnh án để gửi cho các công ty bảo hiểm chi trả tiền khám bệnh.",
+        "Vì ma quỷ và các thế lực tà thuật trong tâm trí sẽ sợ hãi và biến mất ngay khi tên của chúng bị con người vạch trần.",
+        "Vì việc gọi tên chính xác cảm xúc kích hoạt vỏ não trước trán, từ đó phát tín hiệu ức chế hoạt động của hạch hạnh nhân."
       ],
       "correctIndex": 3,
-      "explanation": "Vấp ngã là một phần của hành trình rèn luyện; tha thứ cho chính mình và dũng cảm sửa sai là biểu hiện cao nhất của sự trưởng thành cảm xúc."
+      "explanation": "Nghiên cứu của Matthew Lieberman tại UCLA chứng minh: khi bạn gọi tên cảm xúc ('Đây là sự tức giận', 'Đây là nỗi sợ'), vỏ não trước trán hoạt động và lập tức làm giảm cường độ kích hoạt của hạch hạnh nhân."
     },
     {
       "id": "q13",
-      "question": "Trong môi trường làm việc nhóm, một người có khả năng tự chủ cảm xúc cao đóng vai trò là gì?",
+      "question": "Trong bài thơ 'Những con quái vật của tôi' ở cuối chương, Meng đã thể hiện thái độ chuyển hóa nào đối với các góc tối tâm lý?",
       "options": [
-        "Là người có quyền quyết định mức lương của các thành viên.",
-        "Là 'Chiếc van giảm áp' và 'Mỏ neo điềm tĩnh' giúp nhóm duy trì sự ổn định, không bị cuốn vào hoảng loạn trong các cuộc khủng hoảng dự án.",
-        "Là người không bao giờ lên tiếng trong các cuộc họp.",
-        "Là người làm việc hộ tất cả mọi người trong nhóm."
+        "Mời những con quái vật (sợ hãi, bất an, tham lam) ngồi xuống uống trà, lắng nghe và ôm ấp chúng bằng lòng từ bi.",
+        "Cầm kiếm xông vào tiêu diệt và săn đuổi toàn bộ các con quái vật cho đến khi chúng bị tuyệt diệt hoàn toàn.",
+        "Xây dựng những bức tường phòng thủ kiên cố bằng bê tông cốt thép để nhốt chặt các con quái vật trong tầng hầm tối.",
+        "Cầu xin sự cứu rỗi từ các vị thần linh siêu nhiên để xua đuổi các thế lực bóng tối ra khỏi tâm trí của mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự điềm tĩnh của một cá nhân có tính lan tỏa và bảo vệ cả tập thể khỏi sự sụp đổ tâm lý khi gặp sóng gió."
+      "correctIndex": 0,
+      "explanation": "Meng dùng ẩn dụ thơ ca ấm áp: thay vì chiến đấu chống lại những cảm xúc đen tối bên trong, ông mời chúng uống trà, thấu hiểu nguyên nhân đau khổ của chúng và thuần hóa chúng bằng tình yêu thương."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc thực hành SBNRR đều đặn mỗi ngày lại làm thay đổi cấu trúc vật lý của não bộ?",
+      "question": "Mối liên hệ nhân quả giữa 'Khả năng tự điều chỉnh' (Self-regulation) và 'Sự tự tin nội tại' được giải thích là gì?",
       "options": [
-        "Vì não bộ sẽ ngừng tiêu thụ năng lượng sau khi thực hành SBNRR.",
-        "Vì não bộ sẽ tiết ra chất keo dán các nơ-ron lại với nhau.",
-        "Theo nguyên lý thần kinh Hebbian ('Neurons that fire together, wire together'): mỗi lần bạn chọn dừng lại và hít thở thay vì nổi giận, đường mòn thần kinh tự chủ sẽ dày lên và trở thành phản xạ tự nhiên mới.",
-        "Vì SBNRR làm tăng kích thước của hộp sọ."
+        "Người tự điều chỉnh cảm xúc tốt luôn nhận được điểm thưởng cao trong các kỳ đánh giá hiệu suất nhân sự hàng năm.",
+        "Khi bạn biết mình có năng lực làm chủ các cơn bão cảm xúc mà không bị cuốn trôi, bạn sẽ không còn sợ hãi bất kỳ nghịch cảnh nào.",
+        "Tự điều chỉnh cảm xúc giúp khuôn mặt của bạn trở nên xinh đẹp hơn và thu hút được nhiều sự chú ý của mọi người.",
+        "Không có bất kỳ mối liên hệ nào giữa hai yếu tố này vì chúng thuộc về hai bán cầu não hoàn toàn độc lập với nhau."
       ],
-      "correctIndex": 2,
-      "explanation": "Tính dẻo thần kinh biến những nỗ lực có ý thức ban đầu thành bản năng tự động; bạn trở thành người điềm đạm từ trong bản chất sinh học."
+      "correctIndex": 1,
+      "explanation": "Sự tự tin đích thực nảy sinh khi bạn nhận ra: bất kể nghịch cảnh ngoài đời có khó khăn hay cảm xúc có bùng phát đến đâu, bạn vẫn có công cụ và nội lực để làm chủ bản thân, bình tĩnh vượt qua giông bão."
     },
     {
       "id": "q15",
-      "question": "Bài học then chốt rút ra từ Chương 5 về việc làm chủ cảm xúc là gì?",
+      "question": "Thông điệp cốt lõi đúc kết từ toàn bộ Chương 5 là gì?",
       "options": [
-        "Chỉ có những người không có trái tim mới làm chủ được cảm xúc.",
-        "Cách tốt nhất để làm chủ cảm xúc là không giao tiếp với bất kỳ ai.",
-        "Bạn không thể ngăn những cơn sóng cảm xúc ập đến, nhưng bạn hoàn toàn có thể học cách lướt trên những con sóng đó bằng quy trình SBNRR và lòng thấu cảm chân thành.",
-        "Cảm xúc là thứ không thể kiểm soát được, tốt nhất là mặc kệ nó."
+        "Cảm xúc tiêu cực là dấu hiệu của sự yếu đuối và những người thành công không bao giờ được phép có cảm xúc tiêu cực.",
+        "Cách tốt nhất để giải quyết xung đột nơi làm việc là luôn luôn nhượng bộ và đồng ý với mọi ý kiến của đối phương.",
+        "Tự chủ không phải là triệt tiêu cảm xúc mà là làm chủ nghệ thuật chuyển hóa cảm xúc thành nguồn năng lượng trí tuệ.",
+        "Mỗi nhân viên nên học cách che giấu toàn bộ cảm xúc của mình để tránh bị cấp trên đánh giá là thiếu chuyên nghiệp."
       ],
       "correctIndex": 2,
-      "explanation": "Bạn không phải là nô lệ của cảm xúc; với sự rèn luyện chánh niệm, bạn là vị thuyền trưởng dũng cảm lướt qua mọi cơn bão biển của tâm hồn."
+      "explanation": "Chương 5 đúc kết nghệ thuật tự điều chỉnh: thuần dưỡng cảm xúc như kết bạn với một chú ngựa dũng mãnh – chuyển hóa năng lượng cảm xúc thành sức mạnh nội tâm và hành động sáng suốt."
     }
   ]
 }

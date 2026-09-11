@@ -1,188 +1,188 @@
 {
   "bookId": "SearchInsideYourSelf",
   "chapterId": "00_Mo_dau",
-  "chapterTitle": "Mở đầu: Tìm kiếm bên trong bạn - Rèn luyện khả năng chú ý",
+  "chapterTitle": "Mở đầu - Tìm Kiếm Bên Trong Bạn",
   "totalQuestions": 15,
   "questions": [
     {
       "id": "q1",
-      "question": "Trong nghiên cứu khoa học thần kinh về Matthieu Ricard ('người đàn ông hạnh phúc nhất thế giới'), chỉ số đo lường hạnh phúc trong não bộ được xác định dựa trên cơ chế nào?",
+      "question": "Chade-Meng Tan đã mở đầu chương bằng câu nói nổi tiếng của triết gia La Mã Marcus Aurelius nhằm nhấn mạnh điều gì?",
       "options": [
-        "Mức độ tích tụ canxi trong xương sọ.",
-        "Số lượng nơ-ron thần kinh ở tiểu não.",
-        "Mức độ hoạt động điện não tương đối giữa vỏ não trước trán bên trái (cảm xúc tích cực) so với vỏ não trước trán bên phải (cảm xúc tiêu cực).",
-        "Kích thước của tuyến yên khi nhìn vào ánh sáng mặt trời."
+        "Hạnh phúc là phần thưởng danh giá chỉ dành riêng cho những ai vượt qua các kỳ thi tuyển sinh khắc nghiệt.",
+        "Hãy nhìn vào bên trong tâm trí mình; bởi vì đó chính là suối nguồn chân thực của mọi điều tốt đẹp.",
+        "Thế giới vật chất bên ngoài là ảo ảnh và con người cần phải từ bỏ mọi của cải để đạt sự bình an.",
+        "Số phận con người đã được định đoạt từ khi sinh ra và lý trí không thể thay đổi được dòng chảy cuộc đời."
       ],
-      "correctIndex": 2,
-      "explanation": "Khoa học thần kinh đo lường tỷ lệ hoạt động của vỏ não trước trán bên trái (gắn liền với niềm vui, sự nhiệt huyết) so với bên phải; kết quả quét não của Matthieu Ricard vượt trội hơn bất kỳ đối tượng nào từng được đo."
+      "correctIndex": 1,
+      "explanation": "Meng trích dẫn lời Marcus Aurelius: 'Hãy nhìn vào bên trong; đó là suối nguồn của mọi điều tốt đẹp.'"
     },
     {
       "id": "q2",
-      "question": "Khóa đào tạo Search Inside Yourself (SIY) ban đầu được thiết kế tại Google với mục tiêu cốt lõi là gì?",
+      "question": "Nhân vật được giới truyền thông mệnh danh là 'người hạnh phúc nhất thế giới' được Meng nhắc đến là ai?",
       "options": [
-        "Cắt giảm tiền lương của kỹ sư bằng cách tặng các buổi thiền miễn phí.",
-        "Giúp các kỹ sư phát triển Trí tuệ cảm xúc (EQ) dựa trên nền tảng khoa học thần kinh và thiền chánh niệm để nâng cao hiệu suất làm việc, khả năng lãnh đạo và nuôi dưỡng an bình nội tâm.",
-        "Chuẩn bị cho nhân viên chuyển sang sống tại các tu viện Tây Tạng.",
-        "Dạy nhân viên Google cách viết code nhanh gấp đôi mà không cần ngủ."
+        "Thiền sư Thích Nhất Hạnh, tác giả của cuốn sách kinh điển Phép lạ của sự tỉnh thức nổi tiếng thế giới.",
+        "Đức Đạt-lai Lạt-ma, nhà lãnh đạo tinh thần Phật giáo Tây Tạng từng được trao tặng giải Nobel Hòa bình.",
+        "Matthieu Ricard, một tiến sĩ di truyền học phân tử người Pháp sau này trở thành một nhà sư Tây Tạng.",
+        "Jon Kabat-Zinn, người sáng lập chương trình Giảm căng thẳng dựa trên Chánh niệm tại đại học y khoa."
       ],
-      "correctIndex": 1,
-      "explanation": "Chade-Meng Tan đã khéo léo đóng gói thiền chánh niệm và EQ thành một chương trình thực hành khoa học, thực tế và hữu ích cho dân công nghệ và doanh nghiệp."
+      "correctIndex": 2,
+      "explanation": "Meng giới thiệu: 'Tên ông là Matthieu Ricard... Năm 1972, sau khi hoàn thành chương trình tiến sỹ về di truyền học phân tử tại Học viện Pasteur, ông quyết định trở thành một nhà sư Tây Tạng.'"
     },
     {
       "id": "q3",
-      "question": "Ba bước căn bản cấu thành nên toàn bộ chương trình Search Inside Yourself bao gồm những gì?",
+      "question": "Chỉ số hạnh phúc trong não bộ của Matthieu Ricard được các nhà khoa học thần kinh đo lường bằng phương pháp nào?",
       "options": [
-        "1. Tập thể dục -> 2. Ăn chay -> 3. Đọc kinh",
-        "1. Rèn luyện khả năng chú ý (Attention training) -> 2. Tự nhận thức và làm chủ bản thân (Self-knowledge and Self-mastery) -> 3. Xây dựng các thói quen tâm trí hữu ích (Creating useful mental habits).",
-        "1. Học thuộc lòng -> 2. Thi kiểm tra -> 3. Nhận chứng chỉ",
-        "1. Lập kế hoạch -> 2. Đầu tư tài chính -> 3. Nghỉ hưu sớm"
+        "Đo lường nồng độ canxi và lượng dịch lỏng tích tụ trong các xoang hộp sọ khi tiếp xúc với ánh sáng mạnh.",
+        "Đếm tổng số lượng tế bào thần kinh hoạt động tại tiểu não trong trạng thái cơ thể vận động liên tục.",
+        "Đo hoạt động tương đối giữa vỏ não trước trán bên trái (tích cực) so với vỏ não trước trán bên phải (tiêu cực).",
+        "Đo lường kích thước và trọng lượng vật lý của tuyến yên khi đối tượng nhìn vào các hình ảnh cảm xúc."
       ],
-      "correctIndex": 1,
-      "explanation": "Cấu trúc 3 bước của SIY: Rèn luyện khả năng chú ý để có tâm trí ổn định -> Dùng sự chú ý đó để thấu hiểu bản thân -> Tạo các thói quen tâm trí vì lợi ích của người khác."
+      "correctIndex": 2,
+      "explanation": "Meng giải thích: 'đó là đo mức độ hoạt động tương đối giữa một phần thuộc vỏ não trước trán bên trái với một phần thuộc vỏ não trước trán bên phải. Bên trái càng mạnh so với bên phải bao nhiêu thì càng có nhiều cảm xúc tích cực bấy nhiêu... Quét não của Matthieu cho thấy độ hạnh phúc của ông hoàn toàn nằm ngoài biểu đồ.'"
     },
     {
       "id": "q4",
-      "question": "Hiện tượng Matthieu Ricard có thể kiểm soát và triệt tiêu 'Phản xạ giật mình tự nhiên' (Startle reflex) khi nghe tiếng súng nổ minh chứng điều gì?",
+      "question": "Ngoài mức độ hạnh phúc kỷ lục, não của Matthieu Ricard còn đạt được thành tựu phi thường nào được khoa học công nhận?",
       "options": [
-        "Ông đã uống thuốc an thần cực mạnh trước buổi kiểm tra.",
-        "Ông bị khiếm thính và không nghe thấy âm thanh lớn.",
-        "Phản xạ giật mình chỉ là một trò đùa của các nhà khoa học.",
-        "Tâm trí con người hoàn toàn có khả năng rèn luyện để giữ được sự tĩnh lặng tuyệt đối ngay cả trước những kích thích sinh học phản xạ mạnh mẽ nhất."
+        "Khả năng học thuộc lòng chính xác một cuốn bách khoa toàn thư hàng ngàn trang chỉ sau một lần đọc lướt qua.",
+        "Khả năng ngăn cản phản xạ giật mình tự nhiên của cơ thể khi nghe thấy những tiếng nổ to và bất chợt.",
+        "Khả năng điều chỉnh nhịp tim đập chậm lại còn 5 nhịp một phút trong trạng thái hoàn toàn tỉnh táo.",
+        "Khả năng duy trì nhiệt độ cơ thể không đổi trong môi trường buồng lạnh âm 30 độ C mà không cần mặc áo ấm."
       ],
-      "correctIndex": 3,
-      "explanation": "Phản xạ giật mình là phản ứng tự động của thân não trước tiếng nổ lớn; việc một thiền giả có thể duy trì sự điềm tĩnh trọn vẹn chứng minh tính dẻo dai và khả năng làm chủ thần kinh phi thường qua thiền tập."
+      "correctIndex": 1,
+      "explanation": "Meng kể: 'Ông trở thành người đầu tiên được khoa học công nhận có thể ngăn cản phản xạ giật mình tự nhiên của cơ thể – hiện tượng cơ mặt co giật nhanh để phản ứng lại những tiếng động to và bất chợt.'"
     },
     {
       "id": "q5",
-      "question": "Tại sao việc 'Rèn luyện khả năng chú ý' (Attention training) lại là nền tảng số một bắt buộc phải có trước khi phát triển Trí thông minh cảm xúc (EQ)?",
+      "question": "Trong bài kiểm tra phát hiện 'những biểu hiện vi tế' (micro-expressions) trên gương mặt, kết quả của Matthieu Ricard ra sao?",
       "options": [
-        "Vì nếu không chú ý thì không thể thi đỗ các kỳ thi trắc nghiệm.",
-        "Vì khả năng chú ý giúp ghi nhớ số điện thoại tốt hơn.",
-        "Vì một tâm trí ổn định và sáng suốt là điều kiện tiên quyết để quan sát các luồng cảm xúc và suy nghĩ nội tâm một cách khách quan mà không bị cuốn vào chúng.",
-        "Vì sự chú ý làm tăng tốc độ lưu thông máu trong cơ thể."
+        "Ông chỉ đạt kết quả ở mức trung bình giống như phần lớn các tình nguyện viên chưa từng qua đào tạo.",
+        "Ông có tỷ lệ đoán sai cao hơn người bình thường do tâm trí của người tu hành không quan tâm đến cảm xúc.",
+        "Dù không qua đào tạo, ông thể hiện tốt hơn 2 độ lệch chuẩn so với bình thường, vượt qua mọi chuyên gia.",
+        "Ông từ chối thực hiện bài kiểm tra này vì cho rằng việc đọc nét mặt người khác là hành vi thiếu lịch sự."
       ],
       "correctIndex": 2,
-      "explanation": "Khả năng chú ý sắc bén và không phán xét là chiếc kính hiển vi giúp bạn nhìn thấy rõ nét cảm xúc khi chúng vừa chớm nở, từ đó có thể tự nhận thức và tự điều chỉnh hiệu quả."
+      "explanation": "Meng viết: 'Matthieu và một thiền sinh khác, cả hai đều không được học, nhưng đều thể hiện hai độ lệch chuẩn tốt hơn bình thường, vượt qua mọi chuyên gia đã qua đào tạo.'"
     },
     {
       "id": "q6",
-      "question": "Tính dẻo thần kinh (Neuroplasticity) là gì và tại sao nó lại là tin vui cho tất cả mọi người muốn rèn luyện EQ?",
+      "question": "Chính sách độc đáo nào của Google đã tạo điều kiện cho nhóm của Meng phát triển khóa học Tìm Kiếm Bên Trong Bạn?",
       "options": [
-        "Khả năng xương sọ có thể uốn dẻo khi va chạm mạnh.",
-        "Khả năng của não bộ tự tái cấu trúc, tạo thêm các kết nối thần kinh mới thông qua việc lặp lại các bài tập rèn luyện tâm trí ở bất kỳ độ tuổi nào.",
-        "Khả năng não bộ tự phục hồi sau khi bị đóng băng.",
-        "Một loại nhựa dẻo y tế dùng để cấy ghép vào não người."
+        "Chính sách thưởng 50.000 đô la tiền mặt cho bất kỳ nhân viên nào xuất bản được một cuốn sách bán chạy.",
+        "Chính sách cho phép các kỹ sư sử dụng 20% thời gian làm việc cho các dự án không thuộc công việc chính.",
+        "Chương trình tài trợ học bổng toàn phần cho tất cả các nhân viên muốn theo học văn bằng tiến sĩ triết học.",
+        "Quy định bắt buộc mỗi kỹ sư phải dành ra 5 giờ mỗi tuần để tham gia các hoạt động công ích xã hội."
       ],
       "correctIndex": 1,
-      "explanation": "Tính dẻo thần kinh khẳng định bộ não giống như cơ bắp; bất kỳ ai cũng có thể rèn luyện lòng trắc ẩn, sự bình an và trí tuệ cảm xúc thông qua thực hành đều đặn."
+      "explanation": "Meng giải thích: 'Để tạo điều kiện cho sự đổi mới, Google hào phóng cho phép các kỹ sư của mình sử dụng 20% thời gian cho các dự án không thuộc công việc chính của họ. Nhóm chúng tôi đã sử dụng “20% thời gian” của mình để thực hiện cái mà sau này trở thành khóa học Tìm Kiếm Bên Trong Bạn.'"
     },
     {
       "id": "q7",
-      "question": "Tại sao tác giả Chade-Meng Tan lại tự nhận mình là 'A Jolly Good Fellow' (Người bạn dễ thương) tại Google?",
+      "question": "Sau thành công ban đầu của khóa học, Meng đã trở thành kỹ sư đầu tiên trong lịch sử Google thực hiện bước chuyển dịch nào?",
       "options": [
-        "Vì công ty Google bắt buộc tất cả kỹ sư phải đổi chức danh.",
-        "Vì ông không có bất kỳ kỹ năng lập trình nào.",
-        "Vì ông muốn trở thành diễn viên hài kịch độc thoại.",
-        "Để làm giảm bớt tính nghiêm trọng và biến việc rèn luyện tâm linh/thiền định thành một trải nghiệm vui vẻ, hài hước và gần gũi cho tất cả mọi người."
+        "Rời khỏi bộ phận kỹ thuật để gia nhập People Ops (phòng nhân lực) nhằm quản lý chương trình đào tạo này.",
+        "Được bổ nhiệm làm thành viên chính thức của Hội đồng Quản trị phụ trách các vấn đề đạo đức công nghệ.",
+        "Chuyển hẳn sang làm người đại diện phát ngôn truyền thông của Google trước các cơ quan lập pháp quốc tế.",
+        "Thành lập một công ty con độc lập chuyên kinh doanh các ứng dụng theo dõi giấc ngủ và thiền trên di động."
       ],
-      "correctIndex": 3,
-      "explanation": "Meng dùng sự hài hước và tự trào để phá vỡ định kiến rằng thiền là sự khổ hạnh khô khan; ông biến hành trình tìm kiếm bên trong thành niềm vui tươi sáng."
+      "correctIndex": 0,
+      "explanation": "Meng viết: 'Cuối cùng, tôi trở thành kỹ sư đầu tiên trong lịch sử Google rời khỏi bộ phận kỹ thuật để gia nhập People Ops (cái tên chúng tôi đặt cho phòng nhân lực) nhằm quản lý chương trình này...'"
     },
     {
       "id": "q8",
-      "question": "Khái niệm 'Chánh niệm' (Mindfulness) được Jon Kabat-Zinn định nghĩa chính xác nhất là gì?",
+      "question": "Việc một kỹ sư như Meng giảng dạy về trí tuệ cảm xúc mang lại lợi ích bất ngờ nào cho khóa học?",
       "options": [
-        "Ngồi bất động trên đệm suốt 8 tiếng mỗi ngày.",
-        "Cố gắng xóa sạch 100% mọi ý nghĩ ra khỏi đầu và không suy nghĩ gì cả.",
-        "Tự thôi miên bản thân để quên đi các nỗi buồn.",
-        "Khả năng chú ý có chủ đích, trong giây phút hiện tại, và không phán xét đối với bất kỳ trải nghiệm nào đang diễn ra."
+        "Giúp khóa học được các trường kỹ thuật công nhận và quy đổi trực tiếp thành tín chỉ tốt nghiệp đại học.",
+        "Đảm bảo nền tảng khoa học vững chắc, tính thực tiễn công việc và dịch ngôn ngữ thiền sang ngôn ngữ thực tế.",
+        "Giúp loại bỏ hoàn toàn các bài tập thở truyền thống để thay thế bằng các phần mềm mô phỏng trên máy tính.",
+        "Tạo điều kiện để công ty cắt giảm chi phí thuê các chuyên gia tâm lý học lâm sàng đắt đỏ từ bên ngoài."
       ],
-      "correctIndex": 3,
-      "explanation": "Chánh niệm là nghệ thuật sống trong hiện tại: chú ý có ý thức vào những gì đang diễn ra ở thân và tâm với thái độ cởi mở, tò mò và không phán xét hay chối bỏ."
+      "correctIndex": 1,
+      "explanation": "Meng chỉ ra 3 lợi ích: 1. Có nền tảng khoa học vững chắc vì tâm trí hoài nghi của kỹ sư; 2. Có kinh nghiệm áp dụng thực tế nơi công sở; 3. Dịch các bài giảng sang ngôn ngữ thực dụng dễ hiểu (như 'nhận thức cảm xúc ở độ phân giải cao hơn')."
     },
     {
       "id": "q9",
-      "question": "Tại sao một người kỹ sư công nghệ lại cần đến Trí thông minh cảm xúc (EQ) để thăng tiến trong sự nghiệp?",
+      "question": "Khi 'dịch' ngôn ngữ thiền truyền thống sang ngôn ngữ kỹ sư, Meng đã diễn giải cụm từ 'chú tâm sâu hơn đến cảm xúc' là gì?",
       "options": [
-        "Để có thể viết code bằng cảm xúc thay vì bằng logic.",
-        "Vì EQ giúp máy tính chạy nhanh hơn 20%.",
-        "Vì khi lên các vị trí lãnh đạo, kỹ năng kỹ thuật chỉ là điều kiện cần; khả năng thấu hiểu đồng nghiệp, giải quyết mâu thuẫn, truyền cảm hứng và làm việc nhóm (EQ) mới là yếu tố quyết định thành bại.",
-        "Vì công ty công nghệ sẽ sa thải bất kỳ ai không có chứng chỉ EQ."
+        "Lập trình lại các phản xạ nơ-ron cảm xúc bằng các dòng mã nguồn logic có điều kiện chặt chẽ.",
+        "Nhận thức quá trình cảm xúc ở độ phân giải cao hơn: thấy lúc nó xuất hiện, biến mất và các biến đổi nhỏ.",
+        "Nén các tín hiệu cảm xúc tiêu cực xuống mức dung lượng thấp nhất để giải phóng bộ nhớ não bộ.",
+        "Cách ly hoàn toàn các cảm xúc bộc phát vào một vùng an toàn bảo mật trước khi đưa ra quyết định."
       ],
-      "correctIndex": 2,
-      "explanation": "Nghiên cứu của Google (Project Oxygen) cho thấy các nhà quản lý xuất sắc nhất không phải là người code giỏi nhất mà là người có EQ cao, biết lắng nghe và nâng đỡ đội ngũ."
+      "correctIndex": 1,
+      "explanation": "Meng viết: 'Ví dụ, nếu ngôn ngữ thiền là “chú tâm sâu hơn đến các cảm xúc”, thì tôi sẽ nói là “nhận thức quá trình cảm xúc ở độ phân giải cao hơn”, rồi sau đó giải thích thêm rằng, đó là khả năng nhận thức một cảm xúc vào đúng khoảnh khắc nó xuất hiện, khoảnh khắc nó biến mất, và tất cả những thay đổi nhỏ diễn ra ở giữa.'"
     },
     {
       "id": "q10",
-      "question": "Điều gì chứng minh rằng thiền định không phải là một hình thức tôn giáo huyền bí mà là một phương pháp rèn luyện khoa học?",
+      "question": "Trường hợp của trưởng phòng kỹ thuật Bill Duane minh họa lợi ích công việc nào sau khi học Tìm Kiếm Bên Trong Bạn?",
       "options": [
-        "Người thiền định có thể bay lơ lửng trên không trung.",
-        "Tất cả các tôn giáo trên thế giới đều cấm thiền định.",
-        "Thiền được bán dưới dạng các viên thuốc nén tại hiệu thuốc tây.",
-        "Các máy quét não fMRI và điện não đồ ghi nhận sự thay đổi cấu trúc vật lý thực sự của não bộ (tăng độ dày chất xám vùng tự chủ, thu nhỏ hạch hạnh nhân xử lý stress) sau vài tuần tập luyện."
+        "Anh giảm giờ làm việc xuống còn bốn ngày một tuần, học cách lắng nghe, kiểm soát cơn giận và vẫn được thăng chức.",
+        "Anh đã từ bỏ hoàn toàn công việc quản lý để chuyển sang làm lập trình viên tự do làm việc từ xa tại nhà.",
+        "Anh đã sáng chế ra thuật toán tìm kiếm dữ liệu mới giúp công ty tăng trưởng doanh thu thêm 20% mỗi quý.",
+        "Anh học được kỹ năng thương lượng sắc bén giúp cắt giảm được một nửa nhân sự trong nhóm dự án của mình."
       ],
-      "correctIndex": 2,
-      "explanation": "Hàng trăm nghiên cứu khoa học thần kinh từ Harvard, Stanford và Viện Max Planck đã chứng minh thiền làm thay đổi giải phẫu học thần kinh có thể đo lường được."
+      "correctIndex": 0,
+      "explanation": "Meng kể: 'Bill Duane, đã nhận ra tầm quan trọng của việc sử dụng thời gian một cách chất lượng, vì vậy anh đã giảm bớt giờ làm việc xuống còn bốn ngày một tuần. Sau khi làm vậy, anh đã được thăng chức... học được cách lắng nghe tốt hơn, kiểm soát cơn giận... “học cách tách biệt các câu chuyện ra khỏi thực tế”'."
     },
     {
       "id": "q11",
-      "question": "Trong bài tập 'Một hơi thở tỉnh thức' (One mindful breath), người thực hành cần làm gì?",
+      "question": "Kỹ sư kinh doanh Blaise Pabon đã áp dụng thành công những kỹ năng của SIY vào công việc của mình như thế nào?",
       "options": [
-        "Mang toàn bộ sự chú ý trọn vẹn và nhẹ nhàng vào một hơi thở duy nhất từ lúc bắt đầu hít vào cho đến khi thở ra hoàn toàn.",
-        "Hít vào thật mạnh để làm phồng lồng ngực hết cỡ.",
-        "Cố gắng nín thở trong 3 phút liên tục.",
-        "Đếm nhịp thở từ 1 đến 1.000 không được sai."
+        "Học cách nói chuyện át giọng đối thủ cạnh tranh và gây áp lực tâm lý buộc khách hàng phải ký hợp đồng ngay.",
+        "Bình tĩnh vượt qua sự phản đối trong các buổi trình diễn sản phẩm, nói chuyện mềm mỏng và trung thực.",
+        "Sử dụng kỹ thuật thôi miên bằng mắt để thuyết phục các nhà đầu tư mạo hiểm rót thêm vốn cho công ty.",
+        "Tự động hóa hoàn toàn các email chào hàng để không phải trực tiếp gặp gỡ và tiếp xúc với khách hàng."
       ],
-      "correctIndex": 0,
-      "explanation": "Chỉ cần trọn vẹn trong một hơi thở duy nhất là một chu kỳ rèn luyện chú ý hoàn chỉnh; nó là điểm tựa nhanh chóng đưa tâm trí quay về với hiện tại."
+      "correctIndex": 1,
+      "explanation": "Meng ghi: 'Với Blaise Pabon, một kỹ sư kinh doanh, Tìm Kiếm Bên Trong Bạn giúp anh trở nên đáng tin cậy hơn... bình tĩnh vượt qua sự phản đối trong suốt các buổi trình diễn sản phẩm, nói chuyện một cách mềm mỏng với các đối thủ, can đảm và trung thực khi nói với khách hàng...'"
     },
     {
       "id": "q12",
-      "question": "Khi bạn đang thực hành chú tâm vào hơi thở mà tâm trí bỗng nhiên bị phân tâm bởi suy nghĩ về bữa tối, thái độ đúng đắn là gì?",
+      "question": "Ba bước căn bản cấu thành nên toàn bộ giáo trình Tìm Kiếm Bên Trong Bạn bao gồm những gì?",
       "options": [
-        "Đi ăn tối ngay lập tức.",
-        "Cố gắng dùng ý chí gào thét trong đầu để xua đuổi suy nghĩ đó.",
-        "Tự trách mắng bản thân là kẻ kém cỏi và lập tức bỏ thiền.",
-        "Mỉm cười nhận biết rằng tâm trí vừa đi lang thang, rồi nhẹ nhàng đưa sự chú ý quay trở lại với hơi thở mà không hề phán xét hay bực bội."
+        "1. Tập thể lực cơ bản -> 2. Thực hiện chế độ ăn kiêng thanh lọc -> 3. Nghiên cứu kinh điển tôn giáo cổ đại.",
+        "1. Học thuộc lòng lý thuyết -> 2. Làm bài kiểm tra trắc nghiệm -> 3. Nhận chứng chỉ chứng nhận năng lực.",
+        "1. Rèn luyện sự chú ý -> 2. Tự phát triển kiến thức và làm chủ bản thân -> 3. Tạo các thói quen hữu ích cho tâm.",
+        "1. Lập mục tiêu tài chính cá nhân -> 2. Đầu tư chứng khoán mạo hiểm -> 3. Nghỉ hưu sớm trước tuổi bốn mươi."
       ],
-      "correctIndex": 3,
-      "explanation": "Khoảnh khắc bạn nhận ra tâm trí bị phân tâm chính là khoảnh khắc của tỉnh thức; nhẹ nhàng đưa tâm về hơi thở là động tác hít tạ làm tăng sức mạnh cơ bắp chú ý."
+      "correctIndex": 2,
+      "explanation": "Meng nêu rõ ba bước của SIY: '1. Rèn luyện khả năng chú ý; 2. Tự phát triển kiến thức và tự làm chủ bản thân; 3. Tạo ra các thói quen hữu ích cho tâm.'"
     },
     {
       "id": "q13",
-      "question": "Mục tiêu 'Hòa bình thế giới' (World peace) được tác giả liên kết với khóa học SIY như thế nào?",
+      "question": "Tại sao 'Rèn luyện khả năng chú ý' (Attention training) lại là bước đi nền tảng số một bắt buộc của SIY?",
       "options": [
-        "Bằng cách chế tạo ra các vũ khí thông minh ngăn chặn chiến tranh.",
-        "Nếu mỗi cá nhân tìm thấy sự bình an nội tâm thông qua thiền và phát triển lòng từ bi đối với người khác, sự an bình đó sẽ lan tỏa từ gia đình, tổ chức ra toàn thể nhân loại một cách tự nhiên.",
-        "Bằng cách bắt tất cả mọi người trên thế giới phải cùng nói một thứ tiếng.",
-        "Bằng cách ký kết các hiệp định ngoại giao quốc tế trên giấy tờ."
+        "Vì sự chú ý giúp con người tăng tốc độ đọc sách và ghi nhớ số liệu kỹ thuật nhanh hơn gấp nhiều lần.",
+        "Vì chú ý là nền tảng của mọi năng lực cảm xúc và nhận thức, tạo ra một tâm trí vừa an bình vừa sáng suốt.",
+        "Vì nếu không rèn luyện sự chú ý thì học viên sẽ không thể vượt qua các bài thi tuyển dụng đầu vào tại Google.",
+        "Vì khả năng chú ý cao độ sẽ giúp loại bỏ hoàn toàn nhu cầu giao tiếp xã hội ngoài đời thực của cá nhân."
       ],
       "correctIndex": 1,
-      "explanation": "Hòa bình thế giới bắt đầu từ sự an bình bên trong mỗi cá nhân; khi con người thoát khỏi sự thúc đẩy của lòng tham và giận dữ, thế giới sẽ tự khắc trở nên hòa ái."
+      "explanation": "Meng viết: 'Chú ý là nền tảng của mọi năng lực cảm xúc và nhận thức cao hơn. Do đó, bất cứ giáo trình rèn luyện trí thông minh cảm xúc nào cũng đều phải bắt đầu với việc rèn luyện khả năng chú ý. Ý tưởng ở đây là rèn luyện khả năng chú ý để tạo ra một tâm trí vừa an bình vừa sáng suốt.'"
     },
     {
       "id": "q14",
-      "question": "Tại sao việc rèn luyện EQ lại giúp con người tăng khả năng chống chịu stress và phục hồi sau thất bại (Resilience)?",
+      "question": "Thói quen tâm trí hữu ích mà Meng gợi ý người học nên rèn luyện mỗi khi gặp bất kỳ ai là gì?",
       "options": [
-        "Vì nó giúp con người không bao giờ gặp bất kỳ khó khăn nào trong đời.",
-        "Vì nó làm tê liệt hoàn toàn các dây thần kinh cảm giác đau đớn.",
-        "Vì nó giúp chúng ta nhận diện cảm xúc đau khổ như những hiện tượng tâm lý thoáng qua thay vì đồng hóa bản thân với chúng, từ đó giữ được sự điềm tĩnh để tìm giải pháp.",
-        "Vì nó giúp chúng ta quên đi mọi trách nhiệm với gia đình."
+        "Ý nghĩ bản năng đầu tiên xuất hiện trong đầu là: 'Tôi muốn người này được hạnh phúc'.",
+        "Nhanh chóng đánh giá xem đối phương có thể mang lại lợi ích tài chính gì cho công việc của mình.",
+        "Phân tích ngay lập tức các khuyết điểm về ngoại hình và phong cách ăn mặc của người đối diện.",
+        "Giữ thái độ cảnh giác cao độ để tránh bị người khác lợi dụng hoặc lừa dối trong giao tiếp thường ngày."
       ],
-      "correctIndex": 2,
-      "explanation": "EQ tạo ra một khoảng không gian nhận thức giữa kích thích và phản ứng; bạn quan sát cơn giận hay nỗi buồn mà không bị chúng cuốn trôi, giữ vững sự bình tĩnh sáng suốt."
+      "correctIndex": 0,
+      "explanation": "Meng viết: 'Hãy tưởng tượng rằng bất cứ khi nào bạn gặp ai đó, ý nghĩ đầu tiên, theo bản năng, theo thói quen của bạn là, tôi muốn người này được hạnh phúc. Có những thói quen như vậy sẽ thay đổi mọi thứ ở nơi làm việc...'"
     },
     {
       "id": "q15",
-      "question": "Thông điệp mở đầu cuốn sách 'Search Inside Yourself' có thể tóm gọn lại là gì?",
+      "question": "Khóa học Tìm Kiếm Bên Trong Bạn ban đầu tại Google có thời lượng học tập là bao lâu?",
       "options": [
-        "Cảm xúc là kẻ thù của lý trí và cần phải bị triệt tiêu hoàn toàn.",
-        "Mọi kho báu về sự bình an, hạnh phúc, hiệu suất đỉnh cao và lòng từ bi đều đã có sẵn bên trong bạn; tất cả những gì bạn cần là học cách rèn luyện khả năng chú ý để khám phá chúng.",
-        "Muốn tìm kiếm hạnh phúc, bạn phải rời bỏ công việc và đi đến những vùng đất xa xôi.",
-        "Chỉ những người làm việc tại Google mới có cơ hội phát triển bản thân."
+        "Khóa học cấp tốc diễn ra liên tục trong 3 ngày cuối tuần tại một khu nghỉ dưỡng sinh thái ngoài trời.",
+        "Chương trình rèn luyện chuyên sâu kéo dài suốt một năm học với 200 giờ thực hành thiền tọa trên đệm.",
+        "Tổng cộng 20 tiếng học tập được bố trí trải dài trong suốt bảy tuần dành cho các nhân viên bình thường.",
+        "Một buổi hội thảo nhập môn duy nhất kéo dài 2 tiếng đồng hồ kết hợp giải đáp thắc mắc trực tiếp."
       ],
-      "correctIndex": 1,
-      "explanation": "Hãy tìm kiếm bên trong bạn (Search Inside Yourself); suối nguồn của sự thông tuệ và hạnh phúc đích thực luôn nằm ở sự chú ý tỉnh thức và trái tim từ bi của chính bạn."
+      "correctIndex": 2,
+      "explanation": "Meng ghi: 'nhưng họ vẫn có thể thay đổi cuộc đời chỉ trong 20 tiếng học tập trải dài trong bảy tuần.'"
     }
   ]
 }

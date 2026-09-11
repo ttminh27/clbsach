@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Khám phá khoa học thần kinh về 'Tế bào thần kinh gương' (Mirror neurons) của Giacomo Rizzolatti đã chứng minh điều gì về bản chất của sự đồng cảm?",
+      "question": "Phát hiện khoa học thần kinh đột phá về 'Hệ thống nơ-ron gương' (Mirror neurons) trên loài khỉ cho thấy điều gì?",
       "options": [
-        "Não bộ con người được 'lập trình sinh học' để mô phỏng và cảm nhận trực tiếp cảm xúc, nỗi đau và ý định của người khác như thể chúng đang diễn ra trong chính cơ thể mình.",
-        "Tế bào thần kinh gương làm cho mắt người sáng hơn trong bóng tối.",
-        "Tế bào thần kinh gương chỉ tồn tại ở các loài chim di cư.",
-        "Sự đồng cảm là một kỹ năng nhân tạo hoàn toàn trái với quy luật tự nhiên."
+        "Các nơ-ron thần kinh bắn tín hiệu cả khi đối tượng tự làm một hành động lẫn khi quan sát người khác làm hành động đó.",
+        "Các nơ-ron này chỉ kích hoạt khi con vật nhìn thấy hình ảnh phản chiếu của chính mình trong một tấm gương phẳng.",
+        "Bộ não loài khỉ có khả năng ghi nhớ đường đi trong rừng rậm tốt hơn gấp mười lần so với khả năng của con người.",
+        "Hệ thần kinh vận động hoàn toàn độc lập và không bao giờ chịu ảnh hưởng bởi các kích thích hình ảnh từ bên ngoài."
       ],
       "correctIndex": 0,
-      "explanation": "Khi bạn thấy người khác mỉm cười hay bị đau, tế bào thần kinh gương trong não bạn kích hoạt y hệt như bạn đang trải nghiệm điều đó; đây là nền tảng sinh học của lòng thấu cảm."
+      "explanation": "Giacomo Rizzolatti và đồng nghiệp phát hiện nơ-ron gương: chúng bắn tín hiệu cả khi bạn cầm quả chuối lẫn khi bạn nhìn người khác cầm quả chuối, là nền tảng sinh học cho sự đồng cảm tự nhiên."
     },
     {
       "id": "q2",
-      "question": "Ba cấp độ của 'Sự đồng cảm' (Empathy) được Daniel Goleman và Chade-Meng Tan phân tích bao gồm những gì?",
+      "question": "Hình ảnh ẩn dụ 'Điệu tango của bộ não' (Brain tango) được Meng sử dụng nhằm giải thích hiện tượng nào?",
       "options": [
-        "1. Đồng cảm gia đình, 2. Đồng cảm bạn bè, 3. Đồng cảm người lạ.",
-        "1. Đồng cảm nhận thức (Cognitive empathy - Tôi hiểu bạn nghĩ gì), 2. Đồng cảm cảm xúc (Emotional empathy - Tôi cảm nhận nỗi đau của bạn), 3. Đồng cảm trắc ẩn (Compassionate empathy - Tôi muốn hành động để giúp bạn).",
-        "1. Đồng cảm thấp, 2. Đồng cảm trung bình, 3. Đồng cảm cao.",
-        "1. Đồng cảm bằng lời nói, 2. Đồng cảm bằng tiền, 3. Đồng cảm bằng quà tặng."
+        "Sự rung lắc bất thường của các mạch máu não khi con người khiêu vũ các điệu nhảy cổ điển của phương Tây.",
+        "Khi hai người kết nối và đồng cảm sâu sắc, hoạt động não bộ của họ đồng điệu và ăn khớp nhịp nhàng với nhau.",
+        "Sự xung đột dữ dội giữa hai bán cầu não trái và não phải khi con người rơi vào trạng thái bế tắc tinh thần.",
+        "Hiện tượng các tế bào nơ-ron tự động di chuyển vị trí từ thùy đỉnh sang thùy trán sau mỗi giấc ngủ sâu."
       ],
       "correctIndex": 1,
-      "explanation": "Đồng cảm trọn vẹn tiến triển từ sự thấu hiểu lý trí -> rung động cảm xúc -> thôi thúc hành động phụng sự và giúp đỡ (Lòng trắc ẩn)."
+      "explanation": "Nghiên cứu của Uri Hasson tại Princeton chứng minh: khi người nghe thực sự thấu hiểu người nói, các vùng não của họ đồng bộ hóa theo thời gian thực như hai vũ công nhảy điệu tango ăn ý."
     },
     {
       "id": "q3",
-      "question": "Bài tập thực hành kinh điển nổi tiếng nhất của chương trình SIY có tên là gì?",
+      "question": "Chade-Meng Tan nhấn mạnh sự khác biệt căn bản giữa 'Đồng cảm' (Empathy) và việc 'Đồng ý' (Agreeing) là gì?",
       "options": [
-        "Bài tập 'Tranh luận để giành phần thắng'.",
-        "Bài tập 'Nhìn chằm chằm không chớp mắt'.",
-        "Bài tập 'Giống như tôi' (Just Like Me) và bài tập 'Cầu chúc cho người khác hạnh phúc' (Loving-kindness).",
-        "Bài tập 'Tôi giỏi hơn bạn rất nhiều'."
+        "Đồng cảm bắt buộc bạn phải chấp nhận và tán thành 100% mọi hành vi sai trái cũng như quan điểm của đối phương.",
+        "Đồng ý là phẩm chất thuộc về cảm xúc nội tâm, trong khi đồng cảm là kỹ năng xã giao hình thức bên ngoài.",
+        "Đồng cảm là thấu hiểu cảm xúc và góc nhìn của người khác từ bên trong mà không nhất thiết phải đồng tình với họ.",
+        "Hai khái niệm này hoàn toàn đồng nghĩa với nhau và không thể tách rời trong bất kỳ cuộc đàm phán nào."
       ],
       "correctIndex": 2,
-      "explanation": "'Just Like Me' là bài tập biến đổi tâm thức: nhìn một người bất kỳ (kể cả người mình không thích) và thầm nhủ: 'Người này cũng có thân thể và tâm trí giống như tôi. Người này cũng có những nỗi đau và khát khao hạnh phúc giống như tôi'."
+      "explanation": "Đồng cảm không có nghĩa là đồng ý. Bạn có thể hoàn toàn thấu hiểu vì sao đối phương cảm thấy tức giận hay thất vọng, nhưng vẫn kiên định không đồng tình với cách hành xử hoặc đề xuất của họ."
     },
     {
       "id": "q4",
-      "question": "Khi thực hành bài tập 'Giống như tôi' (Just Like Me) đối với một đồng nghiệp khó tính mà bạn đang có xích mích, hiệu ứng tâm lý nào xuất hiện?",
+      "question": "Thực hành bài tập 'Cũng như mình mà thôi' (Just Like Me) nhằm mục đích chuyển hóa tâm thức nào?",
       "options": [
-        "Đồng nghiệp đó sẽ tự động chuyển công tác sang phòng khác.",
-        "Bạn sẽ lập tức đầu hàng và nhận mọi lỗi sai về mình.",
-        "Sự phòng thủ và định kiến bị xóa bỏ; bạn nhìn thấy nhân tính chung (Common humanity) bên dưới vẻ ngoài khó chịu của họ, từ đó mở ra lòng bao dung và hướng tiếp cận hòa giải nhẹ nhàng.",
-        "Bạn sẽ mất đi khả năng đàm phán trong công việc."
+        "Tìm kiếm các điểm giống nhau về ngoại hình và sở thích thời trang giữa bạn và những người xung quanh.",
+        "So sánh khối tài sản và thành tích sự nghiệp của bạn với người khác để tìm kiếm động lực vượt qua họ.",
+        "Ép buộc mọi người phải điều chỉnh thói quen sinh hoạt và quan điểm sống cho hoàn toàn giống với bản thân bạn.",
+        "Nhận ra người khác cũng khao khát hạnh phúc và sợ hãi đau khổ như mình, từ đó xóa bỏ định kiến và khoảng cách."
       ],
-      "correctIndex": 2,
-      "explanation": "Nhận ra 'nhân tính chung' giúp hạ gục cái tôi đối đầu: ta nhận ra họ cũng đang chịu đựng căng thẳng và bất an, từ đó chuyển từ tâm thế thù địch sang tâm thế hợp tác."
+      "correctIndex": 3,
+      "explanation": "Bài tập 'Cũng như mình mà thôi': 'Người này có thân thể và tâm trí giống như tôi. Người này muốn được hạnh phúc giống như tôi. Người này muốn thoát khỏi đau khổ giống như tôi.' Nó đánh tan ảo tưởng cách biệt."
     },
     {
       "id": "q5",
-      "question": "Bài tập 'Tạo thói quen tâm trí chúc phúc cho người khác trong 10 giây' (10-second wishing someone happiness) được thực hiện như thế nào?",
+      "question": "Thực hành 'Thiền yêu thương' (Loving-kindness) trong lớp học SIY được hướng dẫn với những lời chúc cốt lõi nào?",
       "options": [
-        "Chạy lại ôm chầm lấy người đó và nói to trước đám đông.",
-        "Bất cứ khi nào bạn nhìn thấy một người bất kỳ bước qua trước mặt, hãy thầm nhủ trong tâm trí: 'Tôi mong cho người này được hạnh phúc và bình an' mà không cần họ biết.",
-        "Nhìn đồng hồ đếm ngược 10 giây rồi bỏ đi.",
-        "Chuyển tiền vào tài khoản ngân hàng của họ trong 10 giây."
+        "Chúc cho người này được an bình, được hạnh phúc, được khỏe mạnh và luôn được che chở khỏi mọi khổ đau.",
+        "Chúc cho người đối diện kiếm được thật nhiều tiền bạc và nhanh chóng thăng tiến vượt bậc trong công ty.",
+        "Chúc cho đối phương luôn luôn nhường nhịn và đồng ý với tất cả mọi ý kiến đóng góp của bạn trong cuộc họp.",
+        "Chúc cho các đối thủ cạnh tranh trên thị trường sớm phá sản để công ty của bạn chiếm lĩnh toàn bộ thị phần."
       ],
-      "correctIndex": 1,
-      "explanation": "Thói quen tâm trí này là bí quyết hạnh phúc của Meng: khi tâm trí bạn tràn ngập thiện ý đối với người khác, chính bạn là người đầu tiên được tắm mát trong năng lượng an lành đó."
+      "correctIndex": 0,
+      "explanation": "Thiền yêu thương khởi sinh tâm từ bi vô điều kiện: chúc cho đối phương được an bình, được hạnh phúc, tràn đầy tình yêu và tự do khỏi khổ đau, gieo hạt giống của sự hòa ái."
     },
     {
       "id": "q6",
-      "question": "Hiện tượng 'Kiệt sức vì thấu cảm' (Empathic distress / Compassion fatigue) xảy ra khi nào và cách khắc phục theo khoa học não bộ là gì?",
+      "question": "Tại sao bài tập 'Cũng như mình mà thôi' và 'Yêu thương' lại có khả năng cứu vãn các cuộc hôn nhân đang khủng hoảng?",
       "options": [
-        "Xảy ra khi bạn chỉ dừng lại ở 'Đồng cảm cảm xúc' (hút lấy nỗi đau của người khác vào mình mà không có lối thoát); giải pháp là nâng cấp lên 'Lòng trắc ẩn' (Compassion) – hướng năng lượng thành tình thương và hành động hỗ trợ tích cực.",
-        "Cách khắc phục là trở nên vô cảm và lạnh lùng với tất cả mọi người.",
-        "Xảy ra khi bạn ăn quá nhiều đồ ngọt.",
-        "Xảy ra khi bạn không được trả tiền làm việc thiện."
+        "Vì nó giúp hai vợ chồng có thể cùng nhau tham gia các khóa học kinh doanh để kiếm thêm thu nhập phụ.",
+        "Vì nó giúp chuyển dịch từ tâm thế đối đầu phòng thủ sang sự thấu cảm bao dung và nhìn nhận đối phương như con người.",
+        "Vì nó buộc người bạn đời phải ký cam kết từ bỏ hoàn toàn mọi quyền tự do cá nhân trong đời sống gia đình.",
+        "Vì nó giúp xóa sạch toàn bộ các ký ức về những kỷ niệm buồn bã trong quá khứ của cả hai người."
       ],
-      "correctIndex": 0,
-      "explanation": "Nghiên cứu của Tania Singer chứng minh: Đồng cảm thuần túy kích hoạt vùng đau đớn trong não; trong khi Lòng trắc ẩn (Loving-kindness) kích hoạt vùng tưởng thưởng và tình mẫu tử, mang lại sức mạnh phục hồi."
+      "correctIndex": 1,
+      "explanation": "Khi xung đột gia đình xảy ra, ta thường biến bạn đời thành 'kẻ thù'. Bài tập 'Cũng như mình mà thôi' phá vỡ sự đối đầu, giúp ta nhìn thấy nỗi đau và tổn thương của người kia, mở lối cho sự tha thứ."
     },
     {
       "id": "q7",
-      "question": "Tại sao các nhà đàm phán xuất sắc nhất thế giới (như cựu chuyên gia đàm phán con tin FBI Chris Voss) luôn đặt 'Sự đồng cảm chiến lược' (Tactical empathy) lên hàng đầu?",
+      "question": "Một trong ba giả định hữu ích mà Meng luôn áp dụng mỗi khi bắt đầu chủ trì một cuộc họp tại Google là gì?",
       "options": [
-        "Vì đàm phán bằng súng đạn quá tốn kém.",
-        "Vì khi đối phương cảm thấy những nhu cầu, nỗi sợ và quan điểm của họ được lắng nghe và thấu hiểu trọn vẹn, sự phòng thủ của hạch hạnh nhân sẽ dịu xuống, mở đường cho sự hợp tác thực chất.",
-        "Vì luật pháp quốc tế bắt buộc phải đồng cảm.",
-        "Để lừa gạt và thôi miên đối phương."
+        "Người có mức lương cao nhất trong phòng họp luôn luôn là người nắm giữ câu trả lời chính xác nhất.",
+        "Tất cả những ai phản đối ý kiến của người chủ trì cuộc họp đều phải bị xử lý kỷ luật nghiêm khắc ngay lập tức.",
+        "Tất cả các thành viên tham dự cuộc họp đều là những người có ý định tốt và mong muốn điều tốt đẹp nhất.",
+        "Cuộc họp chỉ được phép kết thúc khi toàn bộ ngân sách dự án đã được chi tiêu hết sạch cho các hoạt động."
       ],
-      "correctIndex": 1,
-      "explanation": "Đồng cảm không phải là đồng ý với đối phương; đồng cảm là thấu hiểu thế giới quan của họ. Khi người khác cảm thấy được thấu hiểu, nút thắt bế tắc sẽ được tháo gỡ."
+      "correctIndex": 2,
+      "explanation": "Ba giả định của Meng: 1. Tôi chỉ là một người bình thường; 2. Mọi người ở đây đều là những người tốt với ý định tốt; 3. Chúng ta ở đây để cùng nhau giải quyết vấn đề chung."
     },
     {
       "id": "q8",
-      "question": "Hình ảnh 'Điệu tango của bộ não' (The neural tango) trong giao tiếp của con người được hiểu là gì?",
+      "question": "Trong bài tập 'Lắng nghe đồng cảm' (Empathic listening), người nghe cần chú ý tiếp nhận những tầng thông tin nào?",
       "options": [
-        "Một loại bệnh truyền nhiễm qua đường thần kinh.",
-        "Sự va chạm vật lý giữa hai hộp sọ khi nói chuyện.",
-        "Hiện tượng cộng hưởng thần kinh (Neural resonance): khi hai người thực sự thấu cảm và lắng nghe nhau, các mẫu hình sóng não của họ đồng bộ hóa nhịp nhàng như hai vũ công đang hòa chung một điệu nhảy.",
-        "Một điệu nhảy khiêu vũ trong các buổi dạ tiệc."
+        "Chỉ ghi nhớ các số liệu tài chính cụ thể và hoàn toàn phớt lờ thái độ cảm xúc cũng như ngôn ngữ cơ thể của người nói.",
+        "Bật máy ghi âm để lưu trữ làm bằng chứng pháp lý bảo vệ bản thân nếu sau này xảy ra tranh chấp quyền lợi.",
+        "Tìm kiếm những điểm sai ngữ pháp và lỗi phát âm của người nói để kịp thời góp ý sửa chữa ngay sau buổi nói chuyện.",
+        "Lắng nghe cả nội dung lời nói, cảm xúc ẩn sau ngôn từ và những nhu cầu sâu kín chưa được diễn đạt thành lời."
       ],
-      "correctIndex": 2,
-      "explanation": "Nghiên cứu quét não của Uri Hasson tại Princeton chứng minh: giao tiếp sâu sắc tạo ra sự kết nối và đồng điệu sóng não kỳ diệu giữa người nói và người nghe."
+      "correctIndex": 3,
+      "explanation": "Lắng nghe đồng cảm diễn ra ở ba cấp độ: nghe nội dung (lời nói), nghe cảm xúc (tâm trạng, tông giọng, ánh mắt) và nghe nhu cầu sâu kín (những gì người nói thực sự khao khát)."
     },
     {
       "id": "q9",
-      "question": "Điều gì là rào cản lớn nhất ngăn cản con người thực hành lòng thấu cảm với người khác?",
+      "question": "Kỹ thuật 'Tự nói chuyện' (Self-talk) sau bài tập lắng nghe đồng cảm giúp học viên điều gì?",
       "options": [
-        "Việc đọc quá nhiều sách khoa học.",
-        "Thời tiết quá nóng hoặc quá lạnh.",
-        "Sự thiếu thốn về trang thiết bị công nghệ.",
-        "Tâm lý 'Chúng ta đối đầu với Họ' (In-group vs Out-group bias) và thói quen dán nhãn, phi nhân hóa những người có quan điểm, xuất thân hoặc ngoại hình khác biệt với mình."
+        "Nhận thức rõ những phản ứng cảm xúc và phán xét tự động nảy sinh bên trong mình trong suốt quá trình lắng nghe.",
+        "Tập luyện kỹ năng nói một mình trước gương để chuẩn bị đi thi tuyển làm diễn viên kịch nghệ chuyên nghiệp.",
+        "Tự thuyết phục bản thân rằng mình là người có kỹ năng giao tiếp xuất sắc nhất trong toàn bộ phòng đào tạo.",
+        "Lên kế hoạch chi tiết để tránh né việc phải gặp gỡ và trò chuyện với người bạn thực hành đó trong tương lai."
       ],
-      "correctIndex": 3,
-      "explanation": "Cái bẫy chia rẽ 'Phe ta' và 'Phe địch' khiến não bộ tự động tắt công tắc thấu cảm; bài tập 'Giống như tôi' chính là chiếc chìa khóa phá tan ranh giới nhân tạo này."
+      "correctIndex": 0,
+      "explanation": "Tự nói chuyện (Reflective debrief) giúp người nghe nhìn lại trải nghiệm nội tâm của mình: những lúc nào tâm trí bị kích động, khi nào khởi lên ý muốn ngắt lời, qua đó hiểu thêm về chính mình."
     },
     {
       "id": "q10",
-      "question": "Trong môi trường chăm sóc y tế, các bác sĩ có chỉ số thấu cảm cao mang lại kết quả điều trị vượt trội như thế nào?",
+      "question": "Tại sao Meng lại ví 'Khả năng nhận thức tổ chức' (Organizational awareness) chính là sự đồng cảm ở cấp độ cao?",
       "options": [
-        "Họ có thể chữa khỏi bệnh chỉ bằng cách nhìn vào mắt bệnh nhân.",
-        "Bệnh nhân của họ tuân thủ phác đồ điều trị tốt hơn, ít biến chứng hơn, vết thương lành nhanh hơn và tỷ lệ kiện tụng y khoa giảm về mức gần bằng 0.",
-        "Họ bán được nhiều thuốc đắt tiền hơn cho bệnh nhân.",
-        "Họ không cần thực hiện các xét nghiệm máu."
+        "Vì nó giúp bạn dễ dàng nắm giữ chìa khóa của tất cả các phòng làm việc bí mật trong trụ sở công ty.",
+        "Vì nó là năng lực cảm nhận mạng lưới quan hệ vô hình, dòng chảy quyền lực và bầu không khí cảm xúc của toàn tập thể.",
+        "Vì nó giúp các kỹ sư công nghệ có thể hack vào hệ thống email nội bộ của ban giám đốc điều hành.",
+        "Vì nó bắt buộc bạn phải nhớ được ngày sinh nhật của tất cả các nhân viên trong tập đoàn đa quốc gia."
       ],
       "correctIndex": 1,
-      "explanation": "Sự thấu cảm và ấm áp của bác sĩ kích hoạt hiệu ứng xoa dịu tâm lý, giảm stress sinh học ở bệnh nhân, giúp hệ thống miễn dịch tự nhiên của cơ thể hoạt động tối ưu."
+      "explanation": "Nhận thức tổ chức là sự đồng cảm mở rộng: không chỉ hiểu một cá nhân, mà cảm nhận được các động lực chính trị, văn hóa ngầm, mối liên kết và nhu cầu cảm xúc của toàn bộ hệ thống tổ chức."
     },
     {
       "id": "q11",
-      "question": "Làm thế nào để thực hành lòng trắc ẩn đối với một người đã gây tổn thương sâu sắc cho bạn?",
+      "question": "Nghệ thuật 'Khen ngợi mọi người một cách tinh tế' theo hướng dẫn của tác giả đòi hỏi điều gì?",
       "options": [
-        "Nhận ra rằng hành vi độc hại của họ bắt nguồn từ sự ngu muội, nỗi đau đớn và những vết thương tâm lý chưa được chữa lành của chính họ; tha thứ không phải là dung túng sai trái mà là tự giải thoát tâm mình khỏi chất độc hận thù.",
-        "Ép bản thân phải trở thành bạn thân ngay lập tức với họ.",
-        "Quên đi hoàn toàn danh tính của mình.",
-        "Tìm cách trả thù gấp đôi để họ nếm mùi đau khổ."
+        "Sử dụng những lời tâng bốc hoa mỹ quá đà trước mặt đám đông bất kể người đó có thành tích hay không.",
+        "Chỉ khen ngợi những nhân vật có chức vụ quyền hạn cao hơn mình để tìm kiếm cơ hội thăng tiến nghề nghiệp.",
+        "Khen ngợi chân thành, cụ thể vào nỗ lực và quá trình thực hiện thay vì chỉ đưa ra những lời khen sáo rỗng bề ngoài.",
+        "Gửi email khen ngợi hàng loạt bằng phần mềm tự động hóa tới tất cả mọi người trong công ty vào sáng thứ Hai."
       ],
-      "correctIndex": 0,
-      "explanation": "Lòng trắc ẩn cho ta thấy: kẻ làm tổn thương người khác thực chất là người đang đau khổ tột cùng; nhìn thấy gốc rễ của sự vô minh giúp ta dứt bỏ xiềng xích oán hận."
+      "correctIndex": 2,
+      "explanation": "Khen ngợi tinh tế bắt nguồn từ sự quan sát chân thành: khen cụ thể hành động tốt đẹp, công nhận nỗ lực vượt khó và phẩm chất của họ, tạo nguồn động viên sâu sắc thay vì xã giao đãi bôi."
     },
     {
       "id": "q12",
-      "question": "Khái niệm 'Lòng tốt không vụ lợi' (Loving-kindness / Metta) mang lại lợi ích gì cho sức khỏe của người thực hành?",
+      "question": "Khi bạn bắt đầu một cuộc trò chuyện với suy nghĩ 'Tôi muốn người này được hạnh phúc', điều kỳ diệu gì sẽ xảy ra?",
       "options": [
-        "Nghiên cứu của Barbara Fredrickson chứng minh thực hành Metta giúp gia tăng độ dài của Telomere (đầu mút nhiễm sắc thể làm chậm lão hóa), tăng cường hormone gắn kết Oxytocin và kéo dài tuổi thọ.",
-        "Làm cho xương khớp biến thành kim cương.",
-        "Làm cho người thực hành không bao giờ cần ăn uống.",
-        "Giúp con người có khả năng đọc được tương lai."
+        "Đối phương sẽ ngay lập tức chuyển toàn bộ tiền tiết kiệm trong tài khoản ngân hàng của họ cho bạn vay.",
+        "Cuộc trò chuyện sẽ bị kéo dài thêm nhiều tiếng đồng hồ mà không đưa ra được bất kỳ kết luận cụ thể nào.",
+        "Bạn sẽ không cần phải lắng nghe đối phương nói gì nữa vì lòng tốt đã tự động giải quyết mọi vấn đề.",
+        "Tông giọng và ngôn ngữ cơ thể của bạn trở nên ấm áp, tạo ra bầu không khí an toàn tâm lý giúp đối phương mở lòng."
       ],
-      "correctIndex": 0,
-      "explanation": "Khoa học di truyền biểu sinh khẳng định: nuôi dưỡng tình yêu thương vô điều kiện có tác dụng sinh học tái tạo tế bào và làm chậm quá trình lão hóa ở cấp độ ADN."
+      "correctIndex": 3,
+      "explanation": "Ý định chân thành phát ra các tín hiệu phi ngôn ngữ vi tế (ánh mắt, nụ cười, tư thế); đối phương cảm nhận được sự an toàn và chân thành một cách vô thức, từ đó dỡ bỏ các rào cản phòng vệ."
     },
     {
       "id": "q13",
-      "question": "Tại sao sự thấu cảm lại là 'Vũ khí bí mật' của các nhà thiết kế sản phẩm (Product designers) tại Thung lũng Silicon?",
+      "question": "Thói quen tư duy nào sau đây là đặc trưng của một người sở hữu chỉ số đồng cảm cao nơi công sở?",
       "options": [
-        "Vì nó giúp họ vẽ biểu đồ màu sắc đẹp mắt hơn.",
-        "Vì thiết kế sản phẩm không đòi hỏi kiến thức kỹ thuật.",
-        "Vì chỉ khi thực sự thấu cảm sâu sắc với nỗi đau, sự thất vọng và nhu cầu tiềm ẩn của người dùng, họ mới có thể tạo ra những sản phẩm công nghệ có trải nghiệm trực quan, dễ dùng và chạm tới trái tim khách hàng.",
-        "Vì người dùng luôn thích những sản phẩm phức tạp khó hiểu."
+        "Tự động đặt mình vào hoàn cảnh của người khác, tò mò tìm hiểu góc nhìn của họ trước khi đưa ra kết luận.",
+        "Luôn luôn phán xét đồng nghiệp qua những sai sót nhỏ nhặt và công khai chỉ trích họ trong các cuộc họp chung.",
+        "Giả định rằng tất cả mọi người xung quanh đều đang tìm cách cạnh tranh và hãm hại sự nghiệp của mình.",
+        "Chỉ quan tâm đến cảm xúc của bản thân và hoàn toàn bàng quan trước mọi khó khăn của những người trong nhóm."
       ],
-      "correctIndex": 2,
-      "explanation": "Thiết kế lấy con người làm trung tâm (Human-centered design) bắt đầu bằng sự thấu cảm; không có thấu cảm, công nghệ chỉ là những dòng code vô hồn."
+      "correctIndex": 0,
+      "explanation": "Người có chỉ số đồng cảm cao luôn có thói quen tinh thần phản xạ: 'Nếu mình ở vị trí của họ, với hoàn cảnh và áp lực đó, mình sẽ cảm thấy thế nào?'. Họ tìm hiểu trước khi kết luận."
     },
     {
       "id": "q14",
-      "question": "Bài tập 'Nhận diện điểm tốt đẹp ở người khác' (Noticing goodness in others) giúp tái lập trình não bộ như thế nào?",
+      "question": "Nghiên cứu của Tania Singer tại Viện Max Planck đã chứng minh điều gì về khả năng rèn luyện lòng đồng cảm?",
       "options": [
-        "Làm cho bạn trở nên cả tin và dễ bị lừa gạt.",
-        "Khắc phục 'Xu hướng thiên kiến tiêu cực' (Negativity bias) tiến hóa của não bộ – huấn luyện tâm trí chủ động phát hiện những nét đẹp, lòng tốt và phẩm chất đáng quý ở mọi người xung quanh.",
-        "Xóa bỏ hoàn toàn trí nhớ về những người xấu.",
-        "Giúp bạn nhìn thấy các thiên thần bay lơ lửng."
+        "Sự đồng cảm là năng khiếu di truyền cố định từ khi sinh ra và hoàn toàn không thể cải thiện qua luyện tập.",
+        "Các mạch thần kinh đồng cảm trong não bộ có thể được tăng cường và làm dày lên thông qua các bài tập thiền từ bi.",
+        "Việc thực hành đồng cảm quá nhiều sẽ làm suy giảm chỉ số thông minh logic IQ của các nhà khoa học.",
+        "Đồng cảm chỉ xuất hiện ở những người có chế độ ăn hoàn toàn bằng thảo mộc tự nhiên trong nhiều năm."
       ],
       "correctIndex": 1,
-      "explanation": "Não bộ tự nhiên dính chặt vào tiêu cực như băng dính gai (velcro) nhưng trượt qua tích cực như chảo chống dính (teflon); bài tập này đảo ngược thiên kiến để nhìn thấy ánh sáng trong lòng người."
+      "explanation": "Tania Singer chứng minh tính dẻo thần kinh của sự đồng cảm: thông qua thiền từ bi (Compassion/Loving-kindness training), các mạng lưới nơ-ron liên quan đến thấu cảm và yêu thương thực sự phát triển mạnh mẽ."
     },
     {
       "id": "q15",
-      "question": "Thông điệp cốt lõi từ Chương 7 về Sự đồng cảm là gì?",
+      "question": "Thông điệp cốt lõi đúc kết từ toàn bộ Chương 7 là gì?",
       "options": [
-        "Sự đồng cảm không phải là một đức tính xa xỉ viển vông; đó là sợi dây liên kết thiêng liêng nhất kết nối trái tim với trái tim, là chiếc cầu bắc qua sự cô đơn và là nền tảng của một xã hội chan chứa tình người.",
-        "Sự đồng cảm làm giảm tính kỷ luật của quân đội.",
-        "Mỗi con người là một hòn đảo cô độc hoàn toàn tách biệt.",
-        "Đồng cảm chỉ nên dành cho những người trong gia đình."
+        "Sự đồng cảm là một điểm yếu tâm lý nguy hiểm khiến các nhà quản lý doanh nghiệp trở nên do dự và thiếu quyết đoán.",
+        "Bạn chỉ nên đồng cảm với những người có cùng quan điểm chính trị và tôn giáo tín ngưỡng với bản thân mình.",
+        "Đồng cảm là chiếc cầu nối kỳ diệu của nhân loại; rèn luyện sự đồng cảm mang lại sự hòa hợp, gắn kết và hiệu quả đỉnh cao.",
+        "Công nghệ hiện đại sẽ sớm thay thế hoàn toàn nhu cầu đồng cảm và thấu hiểu trực tiếp giữa con người với nhau."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi chúng ta nhìn người khác qua lăng kính 'Giống như tôi', thế giới không còn kẻ thù; chỉ còn những người bạn đồng hành đang cùng nhau học bài học làm người trên Trái Đất."
+      "correctIndex": 2,
+      "explanation": "Chương 7 khẳng định: Sự đồng cảm là năng lực tối thượng kết nối con người. Khi ta thấu hiểu người khác như chính mình, ta mở ra cánh cửa của lòng tin, sự hợp tác sáng tạo và hạnh phúc bền lâu."
     }
   ]
 }
