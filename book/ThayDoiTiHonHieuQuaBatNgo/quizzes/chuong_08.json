@@ -8,82 +8,82 @@
       "id": "q1",
       "question": "Thí nghiệm của nhà sinh vật học Nikolaas Tinbergen với những con ngỗng xám và mô hình quả trứng giả khổng lồ đã khám phá ra hiện tượng sinh học nào?",
       "options": [
-        "Hiện tượng ngỗng xám có khả năng đếm số lượng trứng chính xác tuyệt đối.",
-        "Kích thích siêu bình thường (Supernormal stimuli): Bản năng động vật bị thu hút mạnh mẽ hơn bởi phiên bản phóng đại nhân tạo của một kích thích tự nhiên.",
-        "Sự suy giảm thị lực nghiêm trọng của các loài chim di cư.",
-        "Tập tính từ bỏ con cái của động vật hoang dã khi bị giam cầm."
+        "Bản năng nhận diện con non dựa trên tín hiệu âm thanh tần số thấp thay vì hình ảnh thị giác trực quan của quả trứng.",
+        "Cơ chế phòng vệ tự nhiên luôn kích hoạt mạnh mẽ hơn trước bất kỳ vật thể có kích thước phóng đại nào ở gần tổ chim.",
+        "Kích thích siêu bình thường: bản năng sinh vật bị thu hút mãnh liệt hơn bởi phiên bản phóng đại của kích thích tự nhiên.",
+        "Hiện tượng in vết hành vi có điều kiện khiến chim mẹ chỉ gắn bó với các vật thể có hoa văn và màu sắc tương phản cao."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tinbergen nhận thấy chim bỏ rơi quả trứng thật nhỏ bé của mình để ấp quả trứng giả to đùng có chấm đỏ phóng đại; não bộ tiến hóa bị mê hoặc bởi các kích thích phóng đại."
     },
     {
       "id": "q2",
       "question": "Ngành công nghiệp thực phẩm chế biến hiện đại đã tạo ra các 'kích thích siêu bình thường' cho con người bằng cách kết hợp hoàn hảo những yếu tố nào?",
       "options": [
-        "Sự kết hợp bùng nổ giữa Đường, Muối và Chất béo ở mức độ cực đoan mà tự nhiên hoang dã không bao giờ có được.",
-        "Các loại thảo mộc hữu cơ không chứa calo.",
-        "Bao bì đóng gói làm bằng chất liệu tự phân hủy sinh học.",
-        "Mùi hương hoa hồng tự nhiên nhập khẩu từ châu Âu."
+        "Sự phối trộn tinh vi giữa chất tạo ngọt nhân tạo không calo cùng các hương liệu tổng hợp nhằm kích thích khứu giác.",
+        "Tỷ lệ phối trộn hoàn hảo giữa muối, đường và chất béo vượt xa mọi nồng độ thường gặp trong môi trường tự nhiên hoang dã.",
+        "Việc bổ sung các chất điều vị tổng hợp nhằm đánh lừa tín hiệu no tự nhiên của dạ dày truyền về trung tâm thần kinh.",
+        "Công nghệ chế biến nhiệt độ cao làm biến tính cấu trúc protein nhằm tạo độ giòn kích thích cảm giác nhai của vòm miệng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Não người nguyên thủy tiến hóa để săn lùng calo quý hiếm; thực phẩm siêu chế biến khuếch đại tối đa bộ ba đường-muối-béo, kích hoạt cơn sốt dopamine vượt ngưỡng tự nhiên."
     },
     {
       "id": "q3",
       "question": "Các mạng xã hội hiện đại (Facebook, Instagram, TikTok) được xem là kích thích siêu bình thường của nhu cầu tiến hóa nguyên thủy nào?",
       "options": [
-        "Nhu cầu sinh tồn trước các loài thú dữ săn mồi.",
-        "Nhu cầu kết nối xã hội, nhận được sự tán thưởng, chấp thuận và khẳng định vị thế trong bầy đàn.",
-        "Nhu cầu tích trữ củi khô để sưởi ấm qua mùa đông.",
-        "Nhu cầu tìm kiếm nguồn nước sạch dưới lòng đất."
+        "Nhu cầu kết nối bộ lạc nguyên thủy, khao khát được xã hội đón nhận, tán thưởng và khẳng định vị thế trong cộng đồng.",
+        "Nhu cầu cảnh giác thường trực trước các hiểm họa môi trường để kịp thời tìm kiếm nơi trú ẩn an toàn cho bản thân.",
+        "Nhu cầu tích lũy tri thức khách quan và thông tin mới để nâng cao năng lực sinh tồn trước áp lực cạnh tranh tự nhiên.",
+        "Nhu cầu bộc lộ bản sắc độc lập nhằm tách biệt cá nhân khỏi những quy chuẩn văn hóa có phần khắt khe của tập thể."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Một nút 'Like' hay thông báo tin nhắn là phiên bản siêu phóng đại của tín hiệu chấp thuận bầy đàn, khiến não bộ tiết dopamine liên tục như đang trúng thưởng xã hội."
     },
     {
       "id": "q4",
       "question": "Phát hiện mang tính cách mạng của các nhà khoa học thần kinh về chất dẫn truyền Dopamine là gì?",
       "options": [
-        "Dopamine chỉ được tiết ra khi bạn thực sự trải nghiệm và nhận được phần thưởng vật chất.",
-        "Dopamine tăng vọt ở giai đoạn KỲ VỌNG phần thưởng (Anticipation) chứ không phải vào thời điểm nhận phần thưởng.",
-        "Dopamine là chất độc thần kinh làm suy giảm tuổi thọ tế bào não.",
-        "Dopamine hoàn toàn không có mối liên hệ nào với hành vi con người."
+        "Dopamine chỉ được sản sinh sau khi hành động hoàn tất nhằm củng cố cảm giác mãn nguyện và phục hồi trạng thái tĩnh.",
+        "Nồng độ dopamine duy trì ở mức cố định trong suốt quá trình trải nghiệm và chỉ suy giảm khi xuất hiện ức chế mới.",
+        "Dopamine đóng vai trò như chất ức chế xung thần kinh cực đoan để bảo vệ các tế bào não khỏi trạng thái kiệt quệ kéo dài.",
+        "Dopamine tăng vọt ngay từ giai đoạn dự đoán và kỳ vọng phần thưởng chứ không phải lúc thực tế đón nhận phần thưởng đó."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Chính khao khát và sự kỳ vọng (Desire/Anticipation) thúc đẩy hành động, không phải sự thỏa mãn sau đó. Cảm giác mong ngóng món quà thường hưng phấn hơn lúc mở gói quà."
     },
     {
       "id": "q5",
       "question": "Thí nghiệm triệt tiêu dopamine ở chuột bạch cho thấy hiện tượng bi kịch nào đối với hành vi sinh tồn?",
       "options": [
-        "Chuột trở nên hung dữ và cắn xé các đồng loại xung quanh.",
-        "Chuột mất hoàn toàn ý chí và động lực sống; chúng từ chối ăn uống dù thức ăn đặt ngay trước miệng và chết đói vì không có khát khao hành động.",
-        "Chuột phát triển trí thông minh vượt trội và tìm cách trốn khỏi lồng.",
-        "Chuột không bao giờ cảm thấy mệt mỏi và chạy liên tục trên bánh xe."
+        "Chuột hoàn toàn mất khả năng nhận thức vị giác và nôn mửa ngay khi tiếp xúc với bất kỳ dạng thức ăn hay nước uống nào.",
+        "Chuột rơi vào trạng thái kích động cực độ, liên tục chạy quanh lồng và cắn xé đồng loại do mất kiểm soát hành vi.",
+        "Chuột mất toàn bộ động lực sống nên từ chối ăn uống và chấp nhận chết đói dù thức ăn ngon được đặt ngay trước miệng.",
+        "Chuột mất toàn bộ phản xạ vận động cơ bản khiến các chi bị tê liệt dù tín hiệu nhận biết thức ăn của não vẫn hoạt động."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Nếu không có dopamine, khát khao biến mất; và khi không có khát khao, ngay cả việc há miệng nuốt thức ăn để sinh tồn cũng không thể diễn ra."
     },
     {
       "id": "q6",
       "question": "Kỹ thuật 'Gom cụm cám dỗ' (Temptation Bundling) do giáo sư Katy Milkman nghiên cứu dựa trên nguyên lý tâm lý học hành vi nào?",
       "options": [
-        "Nguyên lý Premack: Một hành vi có xác suất xảy ra cao (việc bạn MUỐN làm) có thể dùng làm phần thưởng để củng cố một hành vi có xác suất thấp (việc bạn CẦN làm).",
-        "Thuyết chọn lọc tự nhiên của Charles Darwin.",
-        "Thuyết tương đối hẹp của Albert Einstein.",
-        "Nguyên lý bàn tay vô hình của Adam Smith."
+        "Thuyết định vị xã hội: cá nhân sẽ gia tăng nỗ lực hành động khi được đặt trong một môi trường có tính cạnh tranh cao.",
+        "Nguyên lý Premack: hành vi có xác suất xảy ra cao có thể dùng làm mồi thưởng để củng cố cho hành vi ít hấp dẫn hơn.",
+        "Hiệu ứng Diderot: việc tiếp nhận một phần thưởng mới sẽ kích hoạt liên tiếp một chuỗi nhu cầu tiêu dùng bổ sung khác.",
+        "Định luật Yerkes-Dodson: hiệu suất hành động chỉ đạt tối ưu khi áp lực tâm lý được duy trì ở mức độ vừa phải thích hợp."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Nguyên lý Premack chỉ ra: bạn có thể tận dụng một sở thích hấp dẫn để kéo theo một nhiệm vụ khó khăn bằng cách quy định: 'Chỉ được làm việc X (muốn) sau khi làm việc Y (cần)'."
     },
     {
       "id": "q7",
       "question": "Câu chuyện kỹ sư Ronan Byrne ở Ireland minh họa cho kỹ thuật Gom cụm cám dỗ thông qua sáng chế độc đáo nào?",
       "options": [
-        "Anh chế tạo ra chiếc xe đạp tập thể dục kết nối với máy tính, chỉ cho phép Netflix phát phim khi anh đạp xe ở một tốc độ nhất định.",
-        "Anh thiết kế tủ lạnh tự động khóa chặt nếu không nhận diện được dấu vân tay sau khi chạy bộ 5km.",
-        "Anh lập trình máy tính tự động xóa dữ liệu nếu anh ngủ dậy muộn sau 6 giờ sáng.",
-        "Anh tạo ra ứng dụng tự động trừ tiền ngân hàng nếu anh không đọc sách."
+        "Lập trình xe đạp tập thể dục kết nối máy tính, chỉ phát sóng Netflix khi anh duy trì được tốc độ đạp xe theo quy định.",
+        "Thiết lập tài khoản ngân hàng tự động chuyển tiền phạt cho quỹ từ thiện mỗi khi anh bỏ lỡ buổi tập luyện thể lực sáng.",
+        "Chế tạo thiết bị đeo tay thông minh tự động phát tín hiệu rung cảnh báo mỗi khi cơ thể ở trạng thái tĩnh quá ba mươi phút.",
+        "Cài đặt tiện ích khóa toàn bộ các trang mạng xã hội trên máy tính và chỉ mở lại sau khi hoàn thành cự ly chạy bộ hàng ngày."
       ],
       "correctIndex": 0,
       "explanation": "Byrne thích xem phim trên Netflix nhưng ghét tập thể dục; anh lập trình để Netflix chỉ chạy khi bàn đạp xe quay đủ nhanh, biến việc tập thể dục thành điều kiện để được giải trí."
@@ -92,82 +92,82 @@
       "id": "q8",
       "question": "Công thức kết hợp đỉnh cao giữa 'Chồng thói quen' và 'Gom cụm cám dỗ' được James Clear xây dựng như thế nào?",
       "options": [
-        "1. Sau khi [THÓI QUEN HIỆN TẠI], tôi sẽ [THÓI QUEN TÔI CẦN] -> 2. Sau khi [THÓI QUEN TÔI CẦN], tôi sẽ [THÓI QUEN TÔI MUỐN].",
-        "1. Trước khi làm việc, tôi sẽ giải trí thật đã -> 2. Sau khi mệt mỏi, tôi sẽ đi ngủ.",
-        "1. Tôi sẽ làm mọi việc tôi muốn -> 2. Tôi sẽ từ chối mọi việc tôi cần.",
-        "1. Sau khi ngủ dậy, tôi sẽ xem tivi -> 2. Sau khi xem tivi, tôi sẽ lướt mạng xã hội."
+        "1. Sau khi [THÓI QUEN HIỆN TẠI], tôi sẽ làm [VIỆC MUỐN LÀM] -> 2. Sau khi [VIỆC MUỐN LÀM], tôi quay lại công việc cần làm.",
+        "1. Trước khi thực hiện [VIỆC CẦN LÀM], tôi tự thưởng [VIỆC MUỐN LÀM] -> 2. Khi mệt mỏi, tôi dừng mọi công việc hiện tại.",
+        "1. Sau khi hoàn thành [VIỆC MUỐN LÀM], tôi thực hiện [THÓI QUEN CẦN LÀM] -> 2. Sau đó trở về trạng thái nghỉ ngơi tĩnh.",
+        "1. Sau khi [THÓI QUEN HIỆN TẠI], tôi sẽ làm [THÓI QUEN CẦN LÀM] -> 2. Sau [THÓI QUEN CẦN LÀM], tôi làm [THÓI QUEN MUỐN LÀM]."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Ví dụ: 1. Sau khi pha cà phê [hiện tại], tôi sẽ đọc 1 bài báo chuyên ngành [cần] -> 2. Sau khi đọc xong bài báo, tôi sẽ lướt Facebook 5 phút [muốn]."
     },
     {
       "id": "q9",
       "question": "Tại sao việc lướt xem các bức ảnh đồ ăn ngon trên mạng xã hội lại khiến chúng ta chảy nước miếng và thèm ăn hơn cả khi đang đói?",
       "options": [
-        "Vì màn hình điện thoại phát ra các phân tử mùi hương nhân tạo.",
-        "Vì não bộ giải phóng dopamine trong quá trình dự đoán và tưởng tượng về phần thưởng vị giác sắp được tận hưởng.",
-        "Vì mắt người có khả năng tiêu hóa calo từ xa.",
-        "Do hiệu ứng quang học làm tăng nhiệt độ cơ thể."
+        "Do phản xạ có điều kiện của hệ tiêu hóa tự động tăng tiết dịch vị mỗi khi mắt tiếp xúc với nguồn ánh sáng xanh phát ra.",
+        "Vì hình ảnh màu sắc sống động kích thích dạ dày co bóp rỗng ngay cả khi cơ thể vừa mới được nạp đủ lượng dưỡng chất.",
+        "Vì não bộ giải phóng dopamine trong quá trình dự đoán và tưởng tượng về phần thưởng vị giác sắp sửa được thụ hưởng.",
+        "Do cơ chế bù trừ thị giác khiến não bộ lầm tưởng rằng cơ thể đang rơi vào trạng thái thiếu hụt calo nghiêm trọng cấp bách."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Cơ chế dự đoán của não bộ cực kỳ mạnh mẽ: hình ảnh gợi ý kích hoạt sự bùng nổ dopamine dự báo phần thưởng, tạo ra phản ứng thể chất thực tế như tiết nước bọt."
     },
     {
       "id": "q10",
       "question": "Quy luật 2 của việc Thay đổi Hành vi là 'Make it attractive' (Khiến nó hấp dẫn). Cơ sở sinh học thần kinh của quy luật này nhắm vào việc khai thác:",
       "options": [
-        "Mạch truyền dẫn dopamine trong não bộ để tạo ra sự khát khao và thúc đẩy hành động.",
-        "Lượng canxi tích tụ trong các khớp xương của cơ thể.",
-        "Tốc độ lưu thông máu trong gan và thận.",
-        "Khả năng hấp thụ vitamin D từ ánh sáng mặt trời."
+        "Sự phóng thích serotonin nhằm duy trì cảm giác thỏa mãn và thanh thản của tâm trí sau khi hoàn thành nhiệm vụ khó khăn.",
+        "Mạch truyền dẫn dopamine trong não bộ để thổi bùng cảm giác khao khát và cung cấp động lực mạnh mẽ thôi thúc hành vi.",
+        "Nồng độ hormone endorphin tăng cao giúp gây tê liệt cảm giác nhức mỏi và căng thẳng khi đối diện thử thách khắc nghiệt.",
+        "Sự ức chế hormone cortisol trong tuyến thượng thận nhằm ngăn chặn phản ứng phòng vệ trốn chạy của hệ thống thần kinh."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Một thói quen càng hấp dẫn thì càng kích hoạt nhiều dopamine; lượng dopamine càng cao thì xung lực thúc đẩy biến thành hành động càng mãnh liệt."
     },
     {
       "id": "q11",
       "question": "Một nhân viên bán hàng ghét gọi điện chào khách nhưng lại thích xem video bóng đá trên YouTube. Áp dụng Gom cụm cám dỗ, anh ta nên thiết lập quy tắc nào?",
       "options": [
-        "Xem bóng đá cả ngày để có tinh thần thoải mái rồi mới gọi điện vào buổi tối.",
-        "Chỉ được phép xem 1 video điểm tin bóng đá sau khi đã hoàn thành 5 cuộc gọi chào hàng cho khách.",
-        "Vừa gọi điện thoại vừa bật video bóng đá hết công suất loa ngoài.",
-        "Bỏ nghề bán hàng để chuyển sang làm bình luận viên bóng đá."
+        "Chỉ cho phép bản thân xem một video điểm tin bóng đá sau khi đã hoàn thành đủ chỉ tiêu năm cuộc gọi chào hàng cho khách.",
+        "Vừa mở video các trận cầu đỉnh cao vừa tiến hành gọi điện thoại để giảm bớt sự căng thẳng mỗi khi bị đối tác từ chối thẳng.",
+        "Dành trọn buổi sáng xem các chương trình thể thao để nạp đầy năng lượng phấn chấn trước khi bắt đầu công việc buổi chiều.",
+        "Tự thưởng một ngày nghỉ ngơi trọn vẹn để theo dõi bóng đá bất cứ khi nào thuyết phục được một khách hàng ký hợp đồng mua."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Biến sở thích giải trí hấp dẫn thành phần thưởng gắn chặt sau hành vi cần làm, tạo động lực để nhanh chóng vượt qua cảm giác ngại ngùng gọi điện."
     },
     {
       "id": "q12",
       "question": "Tại sao các máy đánh bạc (Slot machines) ở sòng bạc Las Vegas lại có khả năng gây nghiện cực kỳ khủng khiếp đối với não người?",
       "options": [
-        "Vì các ghế ngồi ở sòng bạc được thiết kế quá êm ái.",
-        "Vì chúng kết hợp kích thích siêu bình thường (ánh sáng chớp nháy, âm thanh chiến thắng phóng đại) với cơ chế phần thưởng biến đổi kích thích dopamine tột độ.",
-        "Vì không khí trong sòng bạc chứa các loại khí gây mê nhẹ.",
-        "Vì người chơi luôn luôn kiếm được nhiều tiền hơn số vốn bỏ ra."
+        "Vì không gian sòng bạc sử dụng ánh sáng vàng ấm và âm nhạc êm dịu làm suy giảm khả năng tính toán rủi ro của người chơi.",
+        "Do quy luật xác suất toán học luôn tạo ảo tưởng tâm lý rằng người chơi chắc chắn sẽ giành chiến thắng ở lượt quay kế tiếp.",
+        "Vì hệ thần kinh bị ru ngủ bởi các chu kỳ chuyển động lặp đơn điệu khiến người tham gia mất dần nhận thức về thời gian thực.",
+        "Vì chúng kết hợp kích thích siêu bình thường với cơ chế phần thưởng biến đổi kích thích dopamine bùng nổ liên tục."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Máy đánh bạc là đỉnh cao của việc biến hành vi thành kích thích siêu bình thường: sự kỳ vọng thắng lớn liên tục được bơm dopamine nhờ âm thanh và ánh sáng chiến thắng giả tạo."
     },
     {
       "id": "q13",
       "question": "Mối quan hệ giữa 'sự mong muốn' (Wanting) và 'sự yêu thích' (Liking) trong hệ thần kinh được phân định như thế nào?",
       "options": [
-        "Chúng là một và được điều khiển bởi cùng một vùng não bộ duy nhất.",
-        "Chúng thuộc về hai hệ thống thần kinh riêng biệt: hệ thống 'Mong muốn' (do Dopamine chi phối) thúc đẩy bạn tìm kiếm, còn hệ thống 'Yêu thích' (do Opioid chi phối) tạo cảm giác sảng khoái khi thụ hưởng.",
-        "Sự mong muốn luôn xuất hiện sau khi bạn đã thực sự yêu thích một món đồ.",
-        "Sự yêu thích có sức mạnh thúc đẩy hành vi mạnh hơn sự mong muốn gấp 100 lần."
+        "Chúng là cùng một trạng thái tâm lý đồng nhất và hoàn toàn do mạng lưới thụ thể dopamine phụ trách điều hòa xuyên suốt.",
+        "Hệ thống yêu thích luôn chiếm ưu thế vượt trội về mặt diện tích thần kinh và trực tiếp dẫn dắt các quyết định hành động.",
+        "Chúng tách biệt: 'mong muốn' do dopamine thúc đẩy hành động, còn 'yêu thích' do opioid tạo cảm giác thỏa mãn thụ hưởng.",
+        "Hệ thống mong muốn chỉ tồn tại ở động vật bậc thấp, trong khi con người chỉ đưa ra lựa chọn dựa trên mức độ yêu thích."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Khoa học thần kinh chứng minh: hệ thống 'muốn' lớn hơn và mạnh hơn hệ thống 'thích' rất nhiều. Chúng ta thường hành động vì cơn thèm muốn thúc bách hơn là vì niềm vui thực tế sau đó."
     },
     {
       "id": "q14",
       "question": "Một người muốn tạo thói quen kiểm tra email công việc tồn đọng vào mỗi buổi sáng. Cách nào sau đây giúp thói quen đó trở nên hấp dẫn hơn?",
       "options": [
-        "Tự dọa dẫm bản thân rằng mình sẽ bị đuổi việc nếu không trả lời email.",
-        "Gắn thói quen đó với một nghi thức thú vị: nhâm nhi tách cà phê đặc sản yêu thích trong khi xử lý hòm thư.",
-        "Mở 50 tab email cùng lúc để tạo áp lực thời gian.",
-        "Chỉ kiểm tra email khi đã uống say rượu."
+        "Cố gắng chịu đựng cảm giác ngột ngạt bằng cách tự gây áp lực rằng bản thân sẽ bị khiển trách nếu không phản hồi kịp thời.",
+        "Ghép nối việc xử lý hộp thư với một nghi thức yêu thích như nhâm nhi tách cà phê thơm ngon vào đầu giờ làm việc mỗi ngày.",
+        "Mở đồng loạt tất cả email cùng lúc và trả lời thật vội vã nhằm nhanh chóng giải phóng bản thân khỏi cảm giác phiền toái đó.",
+        "Tự đặt ra hình phạt cắt giảm khẩu phần ăn trưa yêu thích nếu chưa giải quyết xong các thư từ tồn đọng trước mười hai giờ."
       ],
       "correctIndex": 1,
       "explanation": "Kết hợp một tác vụ buồn tẻ với một trải nghiệm giác quan thú vị (hương vị cà phê ngon) làm dịu đi cảm giác khó chịu và tạo sự hào hứng bắt đầu."
@@ -176,10 +176,10 @@
       "id": "q15",
       "question": "Bài học then chốt rút ra từ Chương 8 để áp dụng vào đời sống là gì?",
       "options": [
-        "Nếu bạn muốn một thói quen tốt được hình thành vững chắc, bạn phải tìm cách liên kết nó với những cảm xúc tích cực và sự thỏa mãn mong đợi, biến nó thành điều khó cưỡng.",
-        "Chỉ những hành vi mang tính khổ hạnh và đau đớn mới mang lại sự tiến bộ thực sự.",
-        "Hãy loại bỏ hoàn toàn dopamine ra khỏi cơ thể để đạt được sự bình an nội tâm.",
-        "Không bao giờ được phép tự thưởng cho bản thân dưới bất kỳ hình thức nào."
+        "Để xây dựng thói quen vững chắc, cần chủ động gắn kết hành vi đó với sự kỳ vọng phần thưởng, biến nó thành điều khó cưỡng.",
+        "Thói quen tốt chỉ có thể hình thành thông qua sự khắc kỷ nghiêm ngặt và sự triệt tiêu hoàn toàn mọi mong muốn hưởng thụ.",
+        "Cách duy nhất để loại bỏ triệt để thói quen xấu là cách ly tuyệt đối bản thân khỏi mọi tác nhân kích thích trong môi trường.",
+        "Mọi hành vi con người đều do gien di truyền định đoạt từ trước nên việc điều chỉnh tâm lý cá nhân ít mang lại hiệu quả cao."
       ],
       "correctIndex": 0,
       "explanation": "Bản chất con người luôn hướng về sự hấp dẫn; khôn ngoan ghép thói quen tốt với các mồi nhử dopamine lành mạnh sẽ giúp bạn duy trì hành vi mà không cần gượng ép."

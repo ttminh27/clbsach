@@ -8,181 +8,181 @@
       "id": "q1",
       "question": "Chiến lược mang tính triết lý mà huấn luyện viên Dave Brailsford đã áp dụng để vực dậy đội đua xe đạp Anh từ con số không được gọi là gì?",
       "options": [
-        "Chiến lược cú nhảy vĩ đại (The Giant Leap Strategy).",
-        "Tích lũy lợi ích cận biên / cải thiện vi tiểu (Aggregation of marginal gains).",
-        "Thanh lọc nhân sự toàn diện (Total personnel purification).",
-        "Đầu tư công nghệ áp đảo đối thủ (Technology domination)."
+        "Chiến lược tối ưu hóa nguồn lực tập trung nhằm tạo ra bước đột phá vượt bậc trong các cuộc tranh tài quốc tế đỉnh cao.",
+        "Triết lý thanh lọc nhân sự toàn diện kết hợp đào tạo kỷ luật thép để nâng cao ý chí chiến đấu bền bỉ của các tay đua.",
+        "Triết lý tích lũy lợi ích cận biên: tìm kiếm những cải thiện vi tiểu 1% trong mọi khía cạnh thực hiện của đội tuyển.",
+        "Chiến lược chuyển đổi công nghệ đột phá nhằm tạo lợi thế kỹ thuật áp đảo tuyệt đối trước mọi đối thủ cạnh tranh lớn."
       ],
-      "correctIndex": 1,
-      "explanation": "Brailsford định nghĩa triết lý này là: chia nhỏ mọi khía cạnh liên quan đến việc đạp xe và cải thiện mỗi phần dù chỉ 1%, khi cộng gộp lại sẽ tạo ra sự gia tăng đột phá."
+      "correctIndex": 2,
+      "explanation": "Brailsford định nghĩa triết lý này là: chia nhỏ mọi yếu tố liên quan đến việc đạp xe và cải thiện mỗi phần dù chỉ 1%, khi cộng gộp lại sẽ tạo nên sự chuyển mình đột phá."
     },
     {
       "id": "q2",
       "question": "Việc sơn màu trắng bên trong thành xe tải chở đồ của đội British Cycling nhằm mục đích tinh tế nào sau đây?",
       "options": [
-        "Để xe trông sang trọng và thu hút các nhà tài trợ thương mại lớn.",
-        "Giúp dễ dàng phát hiện các hạt bụi nhỏ li ti có thể bám vào các bộ phận tinh chỉnh của xe đạp làm giảm hiệu năng.",
-        "Để phản xạ ánh sáng mặt trời giúp giảm nhiệt độ bên trong xe.",
-        "Để các tay đua có thể dùng bút dạ viết mục tiêu thi đấu lên thành xe."
+        "Tạo ấn tượng về tính chuyên nghiệp và thẩm mỹ hiện đại nhằm thu hút các nhà tài trợ thương mại lớn trong ngành xe đạp.",
+        "Giúp dễ dàng phát hiện những hạt bụi li ti có thể bám vào các bộ phận đã được tinh chỉnh làm giảm hiệu năng xe đua.",
+        "Giúp phản xạ ánh sáng mặt trời để giữ cho nhiệt độ bên trong xe luôn duy trì ở mức tối ưu cho các thiết bị công nghệ.",
+        "Giúp các kỹ thuật viên và vận động viên dễ dàng ghi chú các thông số kỹ thuật thi đấu trực tiếp lên bề mặt vách xe."
       ],
       "correctIndex": 1,
-      "explanation": "Đây là ví dụ kinh điển về việc tìm kiếm 1% cải thiện ở những nơi không ai ngờ tới: một hạt bụi bám vào xích xe cũng có thể làm giảm hiệu suất vận hành của xe đua."
+      "explanation": "Đây là ví dụ điển hình về việc tìm kiếm 1% cải thiện ở nơi không ngờ tới: một hạt bụi nhỏ bám vào xích xe cũng có thể làm suy giảm hiệu năng cơ học của xe đạp."
     },
     {
       "id": "q3",
       "question": "Công thức toán học về sự tích lũy thói quen trong Chương 1 chứng minh điều gì sau một năm nỗ lực?",
       "options": [
-        "Tốt hơn 1% mỗi ngày trong 365 ngày giúp bạn giỏi hơn gấp khoảng 37,78 lần (1.01^365 ≈ 37.78).",
-        "Tốt hơn 1% mỗi ngày giúp bạn tăng thêm đúng 3,65 lần hiệu suất ban đầu.",
-        "Tệ đi 1% mỗi ngày không ảnh hưởng gì vì cơ thể có cơ chế bù trừ sinh học.",
-        "Cả việc tăng 1% hay giảm 1% đều dẫn về cùng một kết quả trung bình sau một chu kỳ năm."
+        "Tốt hơn 1% mỗi ngày trong 365 ngày giúp bạn tiến bộ gấp gần 38 lần (1.01^365 ≈ 37.78), còn giảm 1% kéo kết quả về gần 0.",
+        "Cải thiện 1% mỗi ngày sẽ giúp năng lực thực tế của bạn tăng lên chính xác 3,65 lần so với mốc xuất phát điểm ban đầu.",
+        "Nỗ lực 1% mỗi ngày chỉ tạo ra sự thay đổi ở mức trung bình do cơ thể luôn có cơ chế thích nghi để cân bằng sinh học.",
+        "Cả việc tăng hay giảm 1% mỗi ngày đều sẽ bị triệt tiêu dần theo thời gian bởi các biến số ngẫu nhiên khó lường trước."
       ],
       "correctIndex": 0,
-      "explanation": "Toán học lãi kép cho thấy: 1.01^365 ≈ 37.78 (tốt hơn gần 38 lần), trong khi 0.99^365 ≈ 0.03 (suy giảm gần về 0). Thói quen chính là lãi kép của sự tự cải thiện."
+      "explanation": "Quy luật lãi kép cho thấy: 1.01^365 ≈ 37.78 (tiến bộ gần 38 lần), trong khi 0.99^365 ≈ 0.03 (suy giảm gần về 0). Thói quen là lãi kép của sự tự cải thiện."
     },
     {
       "id": "q4",
       "question": "Khái niệm 'Cao nguyên tiềm năng tiềm ẩn' (Plateau of Latent Potential) giải thích hiện tượng tâm lý phổ biến nào?",
       "options": [
-        "Cảm giác chán nản và muốn bỏ cuộc trong những tuần hay tháng đầu tiên vì nỗ lực bỏ ra dường như chưa tạo ra bất kỳ kết quả hữu hình nào.",
-        "Hiện tượng đạt đỉnh cao phong độ quá sớm khiến vận động viên mất động lực phấn đấu.",
-        "Khả năng học tập không giới hạn của bộ não khi được nghe nhạc cổ điển.",
-        "Trạng thái kiệt sức mãn tính do làm việc quá 80 giờ mỗi tuần."
+        "Cảm giác thỏa mãn tự mãn xuất hiện quá sớm khi vừa đạt được những thành tích ban đầu khiến cá nhân ngừng phấn đấu tiếp.",
+        "Hiện tượng kiệt sức tinh thần mãn tính xảy ra khi một người cố gắng duy trì cùng lúc quá nhiều thói quen đòi hỏi kỷ luật cao.",
+        "Sự bối rối và mất phương hướng của não bộ khi phải tiếp nhận cùng lúc một lượng kiến thức chuyên môn quá lớn trong ngày.",
+        "Cảm giác nản lòng khi nỗ lực kiên trì trong thời gian đầu dường như chưa mang lại bất kỳ kết quả hữu hình hay tiến bộ nào."
       ],
-      "correctIndex": 0,
-      "explanation": "Mọi quá trình tích lũy đều cần vượt qua thung lũng thất vọng (Valley of Disappointment) trước khi chạm tới ngưỡng bùng nổ; trong giai đoạn đầu, năng lượng được lưu trữ dưới dạng tiềm năng chưa bộc lộ."
+      "correctIndex": 3,
+      "explanation": "Mọi quá trình tích lũy đều cần vượt qua 'Thung lũng thất vọng'; trong giai đoạn đầu, năng lượng được lưu trữ dưới dạng tiềm năng và chỉ bộc lộ khi chạm ngưỡng tới hạn."
     },
     {
       "id": "q5",
       "question": "Hình ảnh ẩn dụ 'khối băng đặt trong căn phòng tăng nhiệt độ từ -4°C lên 0°C' minh họa sâu sắc cho nguyên lý nào?",
       "options": [
-        "Nhiệt độ phòng tăng không có tác dụng gì đối với trạng thái vật chất của khối băng.",
-        "Công sức bỏ ra từ -4°C lên -1°C không hề bị lãng phí; nó đang được tích lũy và chuyển hóa, cho đến khi chạm mốc 0°C thì băng mới bắt đầu tan chảy rõ rệt.",
-        "Khối băng chỉ có thể tan chảy nếu ta dùng búa đập vỡ nó ngay từ đầu.",
-        "Sự nóng lên toàn cầu là mối đe dọa lớn nhất đối với thói quen của con người."
+        "Những nỗ lực ban đầu khi chưa tạo ra kết quả nhìn thấy được đều là sự tiêu hao năng lượng lãng phí không thể thu hồi lại.",
+        "Muốn tạo ra sự thay đổi trạng thái mang tính đột phá thì bắt buộc phải áp dụng những cú hích áp lực cực lớn ngay từ đầu.",
+        "Nỗ lực từ -4°C lên -1°C không hề vô ích mà đang tích lũy năng lượng, cho đến ngưỡng tới hạn 0°C thì sự bứt phá mới bộc lộ.",
+        "Tốc độ biến đổi của sự vật phụ thuộc hoàn toàn vào tác động nhiệt của môi trường ngoài chứ không phải nội lực tích lũy."
       ],
-      "correctIndex": 1,
-      "explanation": "Từ -4°C đến -1°C băng vẫn chưa tan, nhưng nhiệt lượng không mất đi; nó tạo nền móng để ở 0°C cú chuyển pha diễn ra. Đột phá là kết quả của vô số hành động tích lũy trước đó."
+      "correctIndex": 2,
+      "explanation": "Nhiệt lượng tăng từ -4°C lên -1°C không làm đá tan ngay nhưng không hề mất đi; nó chuẩn bị nền tảng để tại 0°C cú chuyển pha diễn ra. Đột phá là kết quả của vô số hành động trước đó."
     },
     {
       "id": "q6",
       "question": "Theo James Clear, sự khác biệt bản chất giữa 'Mục tiêu' (Goals) và 'Hệ thống' (Systems) là gì?",
       "options": [
-        "Mục tiêu là về những kết quả bạn muốn đạt được; Hệ thống là về các quá trình và thói quen dẫn đến những kết quả đó.",
-        "Mục tiêu là việc của cấp quản lý; Hệ thống là việc của nhân viên thực thi cấp dưới.",
-        "Mục tiêu có thể đo lường bằng con số; Hệ thống hoàn toàn mang tính cảm tính trừu tượng.",
-        "Không có sự khác biệt; hai thuật ngữ này hoàn toàn đồng nghĩa và có thể thay thế cho nhau."
+        "Mục tiêu là những kỳ vọng trừu tượng của cá nhân, trong khi hệ thống là bản kế hoạch hành động chi tiết của tập thể.",
+        "Mục tiêu là kết quả cụ thể mà bạn mong muốn đạt được, còn hệ thống là tập hợp các quá trình và thói quen dẫn tới kết quả đó.",
+        "Mục tiêu là công việc định hướng của các nhà lãnh đạo cấp cao, còn hệ thống là quy trình vận hành dành cho cấp thừa hành.",
+        "Mục tiêu mang tính chất cố định lâu dài, trong khi hệ thống chỉ là các biện pháp tạm thời được áp dụng để giải quyết tình thế."
       ],
-      "correctIndex": 0,
-      "explanation": "Nếu bạn là huấn luyện viên, mục tiêu là đoạt chức vô địch; hệ thống là cách đội bạn tuyển chọn vận động viên, quản lý buổi tập và chế độ dinh dưỡng hàng ngày."
+      "correctIndex": 1,
+      "explanation": "Nếu bạn là huấn luyện viên, mục tiêu là vô địch giải đấu; hệ thống là cách thức tuyển mộ cầu thủ, quản lý trợ lý và tổ chức các buổi tập luyện hàng ngày."
     },
     {
       "id": "q7",
       "question": "Vấn đề số 1 của việc chỉ tập trung vào mục tiêu được nêu trong Chương 1 là: 'Người thắng và kẻ thua đều có cùng mục tiêu'. Nhận định này mang hàm ý gì?",
       "options": [
-        "Mọi vận động viên tham gia Olympic đều muốn giành huy chương vàng, do đó bản thân mục tiêu không thể là yếu tố phân định người chiến thắng.",
-        "Mục tiêu là thứ độc hại và các tổ chức thể thao nên cấm vận động viên đặt mục tiêu.",
-        "Chỉ những người thua cuộc mới cần đặt mục tiêu để tự an ủi bản thân.",
-        "Chiến thắng hoàn toàn phụ thuộc vào việc ai hô khẩu hiệu mục tiêu to hơn trong lễ xuất quân."
+        "Bản thân mục tiêu không phải yếu tố phân định thành bại, bởi cả người thắng lẫn kẻ thua đều khao khát cùng một kết quả.",
+        "Mục tiêu là thứ gây ảo tưởng tâm lý nguy hại và các tổ chức chuyên nghiệp nên loại bỏ hoàn toàn việc đặt kỳ vọng dài hạn.",
+        "Chỉ những người nắm chắc phần thắng mới cần công bố mục tiêu, còn kẻ thua cuộc thường che giấu tham vọng để tránh dư luận.",
+        "Chiến thắng phụ thuộc hoàn toàn vào mức độ quyết tâm và tần suất nhắc lại mục tiêu của mỗi cá nhân trước khi bước vào trận."
       ],
       "correctIndex": 0,
-      "explanation": "Cả người vô địch lẫn người bị loại đều khao khát vị trí số 1. Thứ tạo nên khác biệt phân hóa thành tích duy nhất chính là hệ thống hành động mà người thắng áp dụng."
+      "explanation": "Mọi vận động viên thi đấu Olympic đều muốn giành huy chương vàng. Do đó, mục tiêu không thể là thứ phân biệt người thắng kẻ thua; hệ thống thực thi mới là yếu tố quyết định."
     },
     {
       "id": "q8",
       "question": "Tại sao việc 'đạt được mục tiêu' thường chỉ mang lại sự thay đổi mang tính nhất thời (Vấn đề số 2 của mục tiêu)?",
       "options": [
-        "Vì sau khi đạt mục tiêu, con người sẽ ngay lập tức bị suy giảm trí nhớ.",
-        "Vì bạn chỉ vừa chữa trị triệu chứng bề mặt mà không hề thay đổi nguyên nhân gốc rễ (hệ thống) dẫn đến kết quả đó.",
-        "Vì các mục tiêu luôn tự động biến mất khỏi bảng kế hoạch sau 24 giờ.",
-        "Bởi vì tiền thưởng từ mục tiêu sẽ bị lạm phát làm hao mòn theo thời gian."
+        "Vì não bộ con người có cơ chế nhanh chóng thích nghi và trở nên nhàm chán với các phần thưởng đạt được sau thời gian ngắn.",
+        "Vì sau khi đạt được thành tích mong muốn, các yếu tố môi trường xung quanh sẽ tự động thay đổi khiến kết quả bị xóa bỏ.",
+        "Vì mục tiêu luôn bị ảnh hưởng bởi sự biến động của thời gian và lạm phát xã hội nên giá trị của nó sẽ suy giảm dần theo năm.",
+        "Vì bạn chỉ vừa can thiệp vào triệu chứng bề mặt mà không hề thay đổi hệ thống thói quen gốc rễ đã sinh ra kết quả đó."
       ],
-      "correctIndex": 1,
-      "explanation": "Ví dụ: dọn dẹp căn phòng bừa bộn chỉ giải quyết kết quả tức thời. Nếu bạn không thay đổi thói quen bạ đâu vứt đó (hệ thống), căn phòng sẽ bừa bộn trở lại chỉ sau vài ngày."
+      "correctIndex": 3,
+      "explanation": "Dọn dẹp căn phòng bừa bộn chỉ giải quyết kết quả tạm thời. Nếu không thay đổi thói quen bừa bãi (hệ thống), căn phòng sẽ nhanh chóng lộn xộn trở lại."
     },
     {
       "id": "q9",
       "question": "Hiện tượng 'hạnh phúc bị trì hoãn' (Vấn đề số 3 của mục tiêu) đẩy con người vào cái bẫy tư duy nào?",
       "options": [
-        "Tự nhủ rằng: 'Chỉ khi nào tôi đạt được mục tiêu X, tôi mới cho phép bản thân được hạnh phúc và hài lòng'.",
-        "Tiêu hết toàn bộ số tiền tiết kiệm trước khi hoàn thành dự án kinh doanh.",
-        "Luôn cảm thấy hạnh phúc tột cùng ngay cả khi công việc kinh doanh đang phá sản.",
-        "Từ chối mọi sự giúp đỡ từ bạn bè và người thân xung quanh."
+        "Tin rằng việc hưởng thụ ở hiện tại sẽ làm suy giảm ý chí chiến đấu nên chủ động tước bỏ mọi niềm vui giải trí trong đời sống.",
+        "Cảm giác bất an thường trực rằng những thành quả đạt được hôm nay chỉ là may mắn nhất thời và sẽ biến mất trong tương lai gần.",
+        "Mắc kẹt trong ảo tưởng sai lầm: 'Chỉ khi nào tôi đạt được mục tiêu X, tôi mới cho phép bản thân được hạnh phúc và hài lòng'.",
+        "Xu hướng liên tục so sánh thành tựu của bản thân với những người xung quanh khiến niềm vui đạt mục tiêu bị giảm sút trầm trọng."
       ],
-      "correctIndex": 0,
-      "explanation": "Tư duy lấy mục tiêu làm trung tâm tạo ra sự xung đột nhị phân giả tạo: hoặc thành công và hạnh phúc, hoặc thất bại và đau khổ; nó tước đoạt niềm vui trong quá trình thực hiện hệ thống."
+      "correctIndex": 2,
+      "explanation": "Tư duy lấy mục tiêu làm trung tâm tạo ra cái bẫy lưỡng phân: hoặc thành công và hạnh phúc, hoặc thất bại và đau khổ; nó trì hoãn niềm vui cho đến khi chạm đích."
     },
     {
       "id": "q10",
       "question": "Hiện tượng 'hiệu ứng yo-yo' ở những người sau khi hoàn thành cuộc thi chạy marathon minh họa cho vấn đề nào của mục tiêu?",
       "options": [
-        "Mục tiêu xung đột với sự tiến bộ dài hạn: khi vạch đích biến mất, không còn động lực thúc đẩy, họ ngừng tập luyện hoàn toàn.",
-        "Họ không đủ thể lực để tiếp tục tham gia các môn thể thao phối hợp khác.",
-        "Chạy marathon làm tổn thương vĩnh viễn hệ thống cơ xương khớp của vận động viên.",
-        "Chế độ ăn kiêng trong giải chạy quá tốn kém để có thể duy trì lâu dài."
+        "Thể lực con người sẽ tự động suy giảm mạnh mẽ sau khi chạm đỉnh phong độ do cơ chế bảo tồn nguồn năng lượng của cơ thể.",
+        "Mục tiêu xung đột với sự tiến bộ dài hạn: khi vạch đích biến mất và không còn mục tiêu thúc đẩy, họ ngừng tập luyện hoàn toàn.",
+        "Việc hoàn thành một mục tiêu quá lớn sẽ kích hoạt cảm giác tự mãn vô thức khiến cá nhân không còn hứng thú với chạy bộ nữa.",
+        "Chế độ dinh dưỡng và sinh hoạt khắt khe trong quá trình luyện tập marathon gây tổn thương tâm lý khiến họ dễ buông thả bản thân."
       ],
-      "correctIndex": 0,
-      "explanation": "Mục tiêu chỉ tạo động lực ngắn hạn hướng về vạch đích. Khi vạch đích đã qua, nếu không có hệ sinh thái thói quen giữ chân, hành vi cũ sẽ quay trở lại."
+      "correctIndex": 1,
+      "explanation": "Mục tiêu chỉ tạo động lực ngắn hạn hướng về vạch đích. Khi cuộc đua kết thúc, nếu không có hệ thống thói quen duy trì, hành vi tập luyện sẽ biến mất."
     },
     {
       "id": "q11",
       "question": "Câu châm ngôn nổi tiếng: 'Bạn không vươn lên tầm của mục tiêu, bạn rơi xuống ngang mức của hệ thống' mang ý nghĩa triết lý gì?",
       "options": [
-        "Đặt mục tiêu cao là điều hoàn toàn vô nghĩa và nên hạ thấp mọi kỳ vọng.",
-        "Trong những thời khắc căng thẳng và áp lực nhất, năng lực thực tế của bạn sẽ thoái lui về đúng mức độ rèn luyện mà các thói quen nền tảng của bạn đã xây dựng.",
-        "Hệ thống máy móc luôn thông minh và vượt trội hơn trí tuệ con người.",
-        "Mọi mục tiêu vĩ đại đều sẽ tự động thành hiện thực mà không cần nỗ lực."
+        "Trong hoàn cảnh áp lực, năng lực thực tế của bạn sẽ thoái lui về đúng mức độ chuẩn bị mà hệ thống thói quen nền tảng tạo dựng.",
+        "Đặt mục tiêu tham vọng là việc làm hoàn toàn vô ích, do đó bạn nên hạ thấp các kỳ vọng để bảo vệ bản thân khỏi sự thất vọng.",
+        "Một hệ thống tự động hóa hoàn chỉnh có thể vận hành hiệu quả mà không cần đến sự định hướng hay can thiệp của mục tiêu cá nhân.",
+        "Năng lực của con người luôn bị giới hạn bởi các quy chuẩn của hệ thống xã hội nên không ai có thể vượt qua hoàn cảnh hiện tại."
       ],
-      "correctIndex": 1,
-      "explanation": "Châm ngôn gốc từ nhà thơ Hy Lạp Archilochus nhắc nhở: hy vọng hay mục tiêu cao xa không cứu được bạn; chính sự vững chắc của hệ thống thói quen mới quyết định kết cục."
+      "correctIndex": 0,
+      "explanation": "Châm ngôn nhắc nhở: hy vọng hay mục tiêu cao xa không cứu được bạn trong thời khắc thử thách; chính sự vững chắc của hệ thống thói quen mới quyết định kết quả."
     },
     {
       "id": "q12",
-      "question": "Một người muốn giảm cân nhưng quỹ đạo hiện tại là mỗi ngày uống thêm 1 lon nước ngọt và ăn thêm 1 gói khoai tây chiên. Theo Chương 1, điều gì quan trọng hơn đối với tương lai của người này?",
+      "question": "Một người muốn giảm cân nhưng quỹ đạo hiện tại là mỗi ngày uống thêm 1 lon nước ngọt và ăn 1 gói snack. Theo Chương 1, điều gì quan trọng hơn đối với tương lai người này?",
       "options": [
-        "Cân nặng hiện tại hiển thị trên bàn cân buổi sáng.",
-        "Quỹ đạo thói quen hàng ngày, vì nó là chỉ dấu tiên đoán chính xác bạn sẽ ở đâu sau 5 đến 10 năm nữa.",
-        "Ý chí quyết tâm mãnh liệt trong ngày đầu năm mới.",
-        "Bộ quần áo tập gym đắt tiền mà người đó vừa mua sắm."
+        "Chỉ số cân nặng và lượng mỡ cơ thể đo được trên bàn cân điện tử vào mỗi buổi sáng sau khi thức dậy và thực hiện bài tập thể dục.",
+        "Lời cam kết mạnh mẽ và ý chí quyết tâm cao độ được người đó tuyên bố trước gia đình vào thời khắc đầu năm mới đầy hứng khởi.",
+        "Số tiền người đó đã đầu tư để mua thẻ hội viên phòng gym cao cấp và các gói thực phẩm chức năng hỗ trợ giảm cân nhanh chóng.",
+        "Quỹ đạo của các thói quen lặp lại hàng ngày, vì đó là chỉ dấu tiên đoán chính xác thể trạng của người đó sau 5 đến 10 năm nữa."
       ],
-      "correctIndex": 1,
-      "explanation": "Clear nhấn mạnh: 'Bạn nên quan tâm đến quỹ đạo hiện tại của mình hơn là kết quả hiện tại'. Kết quả chỉ là thước đo trễ của những thói quen đã qua."
+      "correctIndex": 3,
+      "explanation": "Clear nhấn mạnh: bạn nên quan tâm đến quỹ đạo hiện tại hơn là kết quả trước mắt. Kết quả hiện tại chỉ là thước đo trễ của những thói quen trong quá khứ."
     },
     {
       "id": "q13",
       "question": "Cụm từ 'Kết quả của bạn là thước đo chậm (lagging measure) của các thói quen' được chứng minh qua ví dụ nào?",
       "options": [
-        "Tài sản ròng là thước đo chậm của thói quen tài chính; cân nặng là thước đo chậm của thói quen ăn uống; kiến thức là thước đo chậm của thói quen học tập.",
-        "Đồng hồ đeo tay chạy chậm lại khi pin sắp hết năng lượng.",
-        "Tốc độ mạng internet bị giảm vào các khung giờ cao điểm ban đêm.",
-        "Nhiệt kế đo thân nhiệt chỉ cho kết quả chính xác sau khi ngậm 10 phút."
+        "Trạng thái tinh thần của bạn phản ánh trực tiếp mức độ căng thẳng phát sinh từ các áp lực công việc và giao tiếp xã hội gần đây.",
+        "Sự thành bại của một dự án khởi nghiệp phụ thuộc vào mức độ nhạy bén của người sáng lập trước các cơ hội thị trường bất ngờ.",
+        "Tài sản là thước đo chậm của thói quen tài chính; cân nặng là của thói quen ăn uống; tri thức là của thói quen học tập tích lũy.",
+        "Năng suất lao động của một cá nhân trong ngày làm việc phản ánh chính xác chất lượng của giấc ngủ sinh học đêm hôm trước đó."
       ],
-      "correctIndex": 0,
-      "explanation": "Mọi trạng thái hiện tại bạn đang có (tiền bạc, tri thức, sức khỏe, sự bừa bộn) đều là kết quả phản ánh có độ trễ thời gian của chuỗi hành vi trong quá khứ."
+      "correctIndex": 2,
+      "explanation": "Mọi trạng thái hiện tại (tiền bạc, tri thức, sức khỏe, sự ngăn nắp) đều là kết quả phản ánh có độ trễ thời gian của chuỗi thói quen lặp lại trong quá khứ."
     },
     {
       "id": "q14",
       "question": "Hiệu ứng 'lệch hướng 3,5 độ của chiếc máy bay rời sân bay Los Angeles' được dùng để diễn giải điều gì?",
       "options": [
-        "Nguy cơ tai nạn hàng không luôn tiềm ẩn ở mọi chuyến bay thương mại.",
-        "Một thay đổi cực nhỏ trong thói quen lúc xuất phát (chỉ vài độ) sẽ tạo ra sự khác biệt khổng lồ về điểm đến cuối cùng sau một hành trình dài (đáp xuống Washington thay vì New York).",
-        "Phi công cần phải hoàn toàn dựa vào hệ thống định vị tự động thay vì can thiệp thủ công.",
-        "Khoảng cách địa lý giữa các bang của nước Mỹ đang ngày càng giãn rộng."
+        "Tầm quan trọng của hệ thống định vị tự động hiện đại trong việc loại bỏ hoàn toàn các sai số chủ quan của phi công khi bay xa.",
+        "Một điều chỉnh cực nhỏ trong quỹ đạo xuất phát sẽ tích lũy thành sự dịch chuyển khổng lồ về điểm đến cuối cùng sau chặng dài.",
+        "Sự nguy hiểm tiềm ẩn của những sai sót kỹ thuật ngẫu nhiên trong ngành hàng không thương mại nếu không được khắc phục kịp thời.",
+        "Khoảng cách địa lý rộng lớn giữa các vùng lãnh thổ đòi hỏi phi hành đoàn phải duy trì sự tập trung cao độ trong suốt chuyến bay."
       ],
       "correctIndex": 1,
-      "explanation": "Ẩn dụ đường bay LAX minh họa: 1% thay đổi quỹ đạo hôm nay trông như không đáng kể, nhưng tích lũy qua thời gian dài sẽ đưa bạn đến một điểm đến hoàn toàn khác trong cuộc đời."
+      "explanation": "Chệch 3,5 độ tại LAX khiến máy bay đáp xuống Washington D.C thay vì New York. Một thói quen tốt hay xấu 1% hôm nay sẽ đưa cuộc đời bạn đến những đích đến hoàn toàn khác."
     },
     {
       "id": "q15",
-      "question": "Người thợ đập đá gõ búa 100 lần vào tảng đá mà không có một vết nứt, nhưng ở nhát búa thứ 101 tảng đá vỡ đôi. Bài học rút ra cho việc xây dựng thói quen là gì?",
+      "question": "Người thợ đập đá gõ búa 100 lần vào tảng đá mà không có vết nứt, nhưng ở nhát búa thứ 101 tảng đá vỡ đôi. Bài học rút ra cho việc xây dựng thói quen là gì?",
       "options": [
-        "99 nhát búa đầu tiên là hoàn toàn lãng phí năng lượng và vô dụng.",
-        "Nhát búa thứ 101 vỡ đôi tảng đá không phải nhờ riêng một mình nó, mà là nhờ toàn bộ 100 nhát búa kiên trì trước đó cộng dồn lại.",
-        "Người thợ đập đá nên đổi sang dùng máy khoan hiện đại hơn.",
-        "Tảng đá tự vỡ là do các yếu tố địa chất ngẫu nhiên dưới lòng đất."
+        "Nhát búa thứ 101 làm vỡ đá không phải nhờ sức mạnh đơn lẻ của nó, mà là kết quả cộng dồn của 100 nhát búa kiên trì trước đó.",
+        "Những nhát búa đầu tiên chỉ có tác dụng thăm dò điểm yếu cơ học của khối đá chứ không đóng góp vào quá trình phá vỡ cấu trúc đá.",
+        "Chỉ khi người thợ đập đá dồn toàn bộ sức mạnh và ý chí vào một cú đánh quyết định thì sự biến đổi vật chất mới xảy ra tức thì.",
+        "Sự kiên trì là yếu tố cần thiết nhưng việc lựa chọn đúng góc tiếp xúc chính xác của chiếc búa mới là điều kiện đủ để thành công."
       ],
-      "correctIndex": 1,
-      "explanation": "Đây là câu trích dẫn kinh điển của Jacob Riis: thành quả đột phá trông như một khoảnh khắc kỳ diệu, nhưng thực chất là quả ngọt được sinh ra từ cả trăm lần tích lũy thầm lặng trước đó."
+      "correctIndex": 0,
+      "explanation": "Trích ngôn của Jacob Riis nhắc nhở: thành quả bứt phá trông như một khoảnh khắc kỳ diệu, nhưng thực chất là kết quả tích lũy của toàn bộ nỗ lực âm thầm trước đó."
     }
   ]
 }

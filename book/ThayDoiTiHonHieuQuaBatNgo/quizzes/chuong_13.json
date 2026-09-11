@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Nội dung phát biểu chuẩn xác của 'Quy tắc hai phút' (The Two-Minute Rule) trong việc bắt đầu thói quen mới là gì?",
+      "question": "Nội dung phát biểu chuẩn xác của \"Quy tắc hai phút\" (The Two-Minute Rule) trong việc bắt đầu thói quen mới là gì?",
       "options": [
-        "'Sau mỗi hai phút làm việc, bạn phải nghỉ ngơi giải trí trong mười lăm phút'.",
-        "'Khi bạn bắt đầu một thói quen mới, nó nên mất ít hơn hai phút để thực hiện'.",
-        "'Mọi thói quen vĩ đại đều phải được hoàn thành trọn vẹn trong đúng hai phút'.",
-        "'Nếu một việc mất nhiều hơn hai phút để làm, bạn nên bỏ qua và không làm nữa'."
+        "Bạn phải hoàn thành trọn vẹn toàn bộ các mục tiêu quan trọng trong ngày với thời lượng tối đa là hai phút.",
+        "Sau mỗi chu kỳ làm việc hai phút thì bạn bắt buộc phải dành mười lăm phút nghỉ ngơi để phục hồi sự tập trung.",
+        "Khi bạn bắt đầu một thói quen mới, hành vi khởi đầu đó chỉ nên kéo dài không quá hai phút để thực hiện.",
+        "Nếu một công việc phát sinh đòi hỏi nhiều hơn hai phút xử lý thì bạn nên trì hoãn lại sang một thời điểm khác."
       ],
-      "correctIndex": 1,
-      "explanation": "Quy tắc 2 phút hướng dẫn: 'Đọc sách mỗi đêm' thu nhỏ thành 'Đọc 1 trang'; 'Chạy bộ 5km' thu nhỏ thành 'Xỏ giày chạy bộ'; 'Gấp quần áo' thu nhỏ thành 'Gấp 1 chiếc tất'."
+      "correctIndex": 2,
+      "explanation": "Quy tắc 2 phút phát biểu: 'Khi bạn bắt đầu một thói quen mới, nó chỉ nên kéo dài không quá hai phút'. Đọc sách thành đọc một trang, chạy marathon thành xỏ giày chạy bộ."
     },
     {
       "id": "q2",
-      "question": "Triết lý nền tảng quan trọng bậc nhất mà James Clear nhấn mạnh trong Chương 13 là: 'Bạn phải...'",
+      "question": "Triết lý nền tảng quan trọng bậc nhất mà James Clear nhấn mạnh trong Chương 13 là: \"Bạn phải...\"",
       "options": [
-        "...tối ưu hóa trước khi chuẩn hóa hành vi.",
-        "...chuẩn hóa trước khi tối ưu hóa (Standardize before you optimize).",
-        "...làm giàu trước khi bắt đầu rèn luyện thói quen cá nhân.",
-        "...tìm được người tài trợ tài chính trước khi thực hiện dự án."
+        "Tối ưu hóa quy trình trước khi chuẩn hóa hành động nhằm tiết kiệm thời gian và công sức một cách triệt để.",
+        "Chuẩn hóa trước khi tối ưu hóa, bởi vì bạn không thể cải thiện một thói quen vốn dĩ chưa hề tồn tại.",
+        "Chuẩn bị đầy đủ nguồn lực tài chính vững chắc trước khi bắt tay thực hiện bất kỳ mục tiêu phát triển nào.",
+        "Chờ đợi cho đến khi bản thân đạt trạng thái cảm hứng hoàn hảo nhất rồi mới bắt đầu rèn luyện nề nếp mới."
       ],
       "correctIndex": 1,
-      "explanation": "Bạn không thể cải thiện hay nâng tầm một thói quen vốn dĩ chưa hề tồn tại! Trước khi mơ mộng chạy marathon 42km, bạn phải chuẩn hóa thói quen xỏ giày bước ra cửa mỗi ngày."
+      "explanation": "Tác giả nhấn mạnh: 'Chuẩn hóa trước khi tối ưu hóa'. Bạn phải học kỹ năng có mặt sẵn sàng và duy trì sự hiện diện đều đặn trước khi muốn nâng cao cường độ hay chi tiết tinh vi."
     },
     {
       "id": "q3",
-      "question": "Khái niệm 'Thói quen cổng vào' (Gateway Habit) trong Quy tắc hai phút có chức năng gì?",
+      "question": "Khái niệm \"Thói quen cửa ngõ\" (Gateway Habit) trong Quy tắc hai phút đóng vai trò gì trong việc thay đổi hành vi?",
       "options": [
-        "Nó là một hành động mở màn cực nhỏ và cực dễ, đóng vai trò như chiếc chìa khóa mở cánh cổng dẫn dắt bạn bước vào một chuỗi hành vi lớn hơn một cách tự nhiên.",
-        "Nó là mật khẩu dùng để đăng nhập vào các ứng dụng bảo mật của ngân hàng.",
-        "Nó là nghi thức đóng cửa nhà trước khi đi làm vào buổi sáng.",
-        "Nó là bài tập thở giúp hạ huyết áp cấp tốc trong vòng hai phút."
+        "Là hành động nhỏ mở màn dễ dàng giúp dẫn dắt bạn tiến vào chuỗi hành vi hiệu suất lớn hơn một cách tự nhiên.",
+        "Là rào cản tâm lý ngăn chặn bạn tiếp xúc với những cám dỗ độc hại xung quanh trong suốt cả ngày làm việc.",
+        "Là bài tập thể chất ngắn giúp kích hoạt tuần hoàn máu và nâng cao nhịp tim ngay trước khi đi ngủ mỗi tối.",
+        "Là phương pháp kiểm soát thời gian làm việc nghiêm ngặt nhằm tránh rơi vào trạng thái kiệt quệ tinh thần."
       ],
       "correctIndex": 0,
-      "explanation": "Gần như mọi thói quen lớn đều có một hành vi cổng vào dẫn dắt: thay quần áo tập thể dục là cổng vào của buổi tập 1 tiếng; ngồi vào bàn mở vở là cổng vào của 2 tiếng học tập."
+      "explanation": "Thói quen cửa ngõ là phiên bản 2 phút cực dễ (như xỏ giày chạy bộ, mở cuốn tập ra) giúp phá vỡ sức ỳ và tự nhiên dẫn bạn bước vào con đường làm việc hiệu quả hơn."
     },
     {
       "id": "q4",
-      "question": "Biên đạo múa huyền thoại người Mỹ Twyla Tharp duy trì thói quen tập thể dục mỗi sáng suốt hàng chục năm bằng nghi thức cổng vào độc đáo nào?",
+      "question": "Biên đạo múa lừng danh Twyla Tharp đã duy trì nếp tập luyện suốt nhiều thập kỷ nhờ nghi thức khởi đầu nào mỗi sáng?",
       "options": [
-        "Uống 5 quả trứng gà sống ngay sau khi vừa thức dậy.",
-        "Bước ra khỏi nhà lúc 5h30 sáng, vẫy một chiếc taxi và bảo tài xế chở đến phòng tập; nghi thức không phải là buổi tập, mà là hành động bước lên xe taxi.",
-        "Chạy bộ 10km quanh công viên trung tâm trước khi ăn sáng.",
-        "Gọi điện thoại cho huấn luyện viên cá nhân để xin lời khuyên mỗi ngày."
+        "Tự ép bản thân phải hoàn thành trọn vẹn một trăm động tác gập bụng đầy thử thách ngay khi vừa thức dậy.",
+        "Uống một cốc nước ép thảo mộc đặc biệt và ngồi thiền tĩnh tâm ba mươi phút trước khi bước ra khỏi phòng ngủ.",
+        "Gọi điện thoại trao đổi cùng huấn luyện viên thể hình riêng để củng cố quyết tâm tập luyện cho ngày mới.",
+        "Bước ra khỏi nhà lúc 5:30 sáng và vẫy một chiếc taxi; nghi thức không phải buổi tập mà chính là chiếc taxi."
       ],
-      "correctIndex": 1,
-      "explanation": "Tharp chia sẻ: Khoảnh khắc khó khăn nhất là bước ra khỏi cửa và vẫy taxi; một khi đã ngồi trên xe, phần việc còn lại của buổi tập tự khắc diễn ra theo đúng quỹ đạo."
+      "correctIndex": 3,
+      "explanation": "Twyla Tharp chia sẻ nghi thức của bà là khoảnh khắc bước ra đường vẫy taxi và bảo tài xế điểm đến. Khi bước lên xe, nghi thức hoàn tất và các hành động tiếp theo diễn ra tự nhiên."
     },
     {
       "id": "q5",
-      "question": "Tại sao việc áp dụng Quy tắc hai phút (ví dụ: chỉ chạy bộ 2 phút rồi dừng lại) nghe có vẻ 'ngớ ngẩn và giả tạo' nhưng lại mang lại hiệu quả tâm lý sâu sắc?",
+      "question": "Tại sao việc chỉ thực hiện một hành động nhỏ trong hai phút (như đọc một trang sách) lại có giá trị tâm lý to lớn?",
       "options": [
-        "Vì nó giúp cơ bắp đốt cháy mỡ thừa với tốc độ ánh sáng trong 2 phút đó.",
-        "Vì mục tiêu ban đầu không phải là kết quả của việc tập luyện, mà là làm chủ nghệ thuật 'Xuất hiện' (Mastering the art of showing up) và củng cố căn tính con người mới.",
-        "Vì người chạy bộ 2 phút sẽ được nhận huy chương từ ban tổ chức.",
-        "Bởi vì não bộ con người chỉ có khả năng duy trì sự sống trong 2 phút vận động."
+        "Vì hai phút tập trung ngắn ngủi có thể giúp não bộ ghi nhớ kiến thức sâu sắc hơn cả một giờ đọc sách dài.",
+        "Vì nó giúp giải phóng toàn bộ năng lượng dư thừa trong cơ thể và ngăn ngừa sự phát triển của stress mãn tính.",
+        "Vì nó rèn luyện nghệ thuật có mặt sẵn sàng và đóng vai trò như một lá phiếu củng cố căn tính con người mới.",
+        "Vì hành vi hai phút sẽ ngay lập tức kích hoạt hormone đốt cháy mỡ thừa trong cơ thể mà không tốn công sức."
       ],
-      "correctIndex": 1,
-      "explanation": "Một trang sách tốt hơn không đọc trang nào; 2 phút hít đất tốt hơn không tập buổi nào. Việc xuất hiện mỗi ngày khẳng định với não bộ rằng: 'Tôi là người không bao giờ bỏ cuộc'."
+      "correctIndex": 2,
+      "explanation": "Ý tưởng không phải là chỉ làm một việc nhỏ, mà là thành thục thói quen xuất hiện. Xuất hiện mỗi ngày dù chỉ 2 phút là bằng chứng xác nhận kiểu người bạn muốn trở thành."
     },
     {
       "id": "q6",
-      "question": "Câu chuyện người đàn ông đã giảm hơn 45kg bằng cách đến phòng tập gym nhưng 'tự đặt ra quy tắc nghiêm ngặt là không được ở lại quá 5 phút' trong 6 tuần đầu minh họa cho điều gì?",
+      "question": "Câu chuyện người đàn ông giảm hơn 45kg nhờ quy tắc \"chỉ ở lại phòng gym không quá 5 phút\" minh họa cho bài học nào?",
       "options": [
-        "Sự lười biếng và thiếu tôn trọng ban quản lý phòng tập thể hình.",
-        "Chiến lược thiết lập thói quen vững chắc: anh ta biến việc 'đến phòng tập' thành một bản năng không thể chối từ trước khi nâng cao thời gian và cường độ tập luyện.",
-        "Phương pháp tập luyện bí mật của các lực lượng đặc nhiệm quân đội.",
-        "Nỗi sợ hãi không gian kín của những người mắc hội chứng tâm lý sợ đám đông."
+        "Tập luyện thể thao cường độ cực cao trong thời gian ngắn luôn mang lại hiệu quả vượt trội hơn tập luyện dài.",
+        "Thiết lập nền tảng thói quen xuất hiện vững chắc như một bản năng trước khi nâng cao thời lượng rèn luyện.",
+        "Chỉ những người có huấn luyện viên riêng nghiêm khắc mới có thể kiểm soát được thời gian tập luyện tại gym.",
+        "Việc tập luyện dưới năm phút giúp cơ thể tránh được hoàn toàn các chấn thương nguy hiểm về cơ và khớp xương."
       ],
       "correctIndex": 1,
-      "explanation": "Sau 6 tuần chỉ đến gym 5 phút rồi về, anh nhận ra: 'Mình luôn luôn xuất hiện ở đây mỗi ngày; bây giờ ở lại thêm một chút cũng chẳng sao'. Nền móng đã vững, ngôi nhà mới xây cao được."
+      "explanation": "Anh ấy tập 5 phút rồi về suốt nhiều tuần để biến việc đến phòng gym thành một phản xạ tự nhiên. Khi sự hiện diện đã được chuẩn hóa, việc ở lại tập lâu hơn diễn ra rất dễ dàng."
     },
     {
       "id": "q7",
-      "question": "Kỹ thuật 'Định hình thói quen' (Habit Shaping) qua các giai đoạn từ dễ đến khó được triển khai theo tiến trình nào?",
+      "question": "Kỹ thuật \"Định hình thói quen\" (Habit Shaping) hướng dẫn chúng ta nâng cấp hành vi theo tiến trình nào sau đây?",
       "options": [
-        "Giai đoạn 1: Làm quen (2 phút) -> Giai đoạn 2: Mở rộng -> Giai đoạn 3: Nâng cao -> Giai đoạn 4: Tinh thông chuyên nghiệp.",
-        "Giai đoạn 1: Làm việc cật lực 24/7 -> Giai đoạn 2: Nghỉ ngơi hoàn toàn suốt 1 năm.",
-        "Giai đoạn 1: Mua sắm công cụ -> Giai đoạn 2: Đăng bài khoe lên mạng xã hội.",
-        "Giai đoạn 1: Thất bại cay đắng -> Giai đoạn 2: Từ bỏ vĩnh viễn không làm lại."
+        "Thành thạo hai phút đầu tiên của bước nhỏ nhất, biến nó thành nếp quen trước khi tiến lên cấp độ kế tiếp.",
+        "Đột phá giới hạn bản thân bằng cách đặt mục tiêu tối đa ngay từ ngày đầu tiên để rèn luyện sức chịu đựng.",
+        "Thay đổi liên tục nhiều mục tiêu khác nhau sau mỗi hai phút để não bộ không cảm thấy buồn chán đơn điệu.",
+        "Chờ đợi cho đến khi hoàn toàn tự tin về mặt tinh thần rồi mới chuyển sang thực hiện các bài tập nâng cao."
       ],
       "correctIndex": 0,
-      "explanation": "Tiến trình bậc thang: Bắt đầu bằng việc mặc đồ tập (Giai đoạn 1) -> Bước ra ngoài đi bộ 10 phút (Giai đoạn 2) -> Đi bộ 10.000 bước (Giai đoạn 3) -> Chạy bộ 5km (Giai đoạn 4)."
+      "explanation": "Định hình thói quen: bắt đầu bằng việc làm chủ 2 phút đầu của hành vi nhỏ nhất (thay đồ tập), rồi tiến lên bước trung gian (đi bộ 10 phút), trước khi đạt tới thói quen hoàn chỉnh."
     },
     {
       "id": "q8",
-      "question": "Một người muốn hình thành thói quen đọc sách 30 cuốn/năm nhưng thường xuyên trì hoãn vì thấy cuốn sách quá dày. Bước thu nhỏ theo Quy tắc hai phút là:",
+      "question": "Một người muốn rèn luyện thói quen đọc sách mỗi ngày nhưng liên tục bỏ cuộc thì nên áp dụng Quy tắc hai phút thế nào?",
       "options": [
-        "Mỗi tối trước khi ngủ, mở cuốn sách ra và đọc đúng 1 trang duy nhất.",
-        "Đọc lướt phần mục lục của 100 cuốn sách trong vòng một buổi chiều.",
-        "Nhờ người khác đọc tóm tắt cuốn sách và kể lại cho mình nghe.",
-        "Mua máy đọc sách đắt tiền nhất trên thị trường hiện nay."
+        "Mua thật nhiều sách hay và đặt chúng trên bàn làm việc để tạo cảm giác thôi thúc mỗi khi nhìn vào bìa sách.",
+        "Lắng nghe các bản tóm tắt sách bằng âm thanh với tốc độ phát nhanh trong lúc đang bận rộn làm việc khác.",
+        "Tự đặt hình phạt sẽ không được xem phim giải trí vào cuối tuần nếu không đọc hết ba mươi trang sách mỗi ngày.",
+        "Thu nhỏ mục tiêu về hành động mở sách ra và đọc đúng một trang mỗi đêm trước khi chìm vào giấc ngủ sâu."
       ],
-      "correctIndex": 0,
-      "explanation": "Đọc 1 trang sách chỉ tốn chưa đầy 1 phút; ma sát khởi đầu biến mất hoàn toàn. Thường thì một khi đã đọc xong trang đầu tiên, bạn sẽ có đà đọc tiếp trang thứ hai và thứ ba."
+      "correctIndex": 3,
+      "explanation": "Đọc một trang sách chỉ tốn chưa đầy 2 phút, loại bỏ mọi lý do trì hoãn. Khi đã hoàn thành trang đầu tiên, bạn thường sẽ có đà để đọc tiếp trang tiếp theo một cách nhẹ nhàng."
     },
     {
       "id": "q9",
-      "question": "Tại sao Quy tắc hai phút lại là liều thuốc giải độc hiệu quả nhất cho 'Căn bệnh trì hoãn' (Procrastination)?",
+      "question": "Tại sao Quy tắc hai phút lại được xem là giải pháp hữu hiệu hàng đầu để đánh bại chứng bệnh trì hoãn?",
       "options": [
-        "Vì sự trì hoãn bắt nguồn từ nỗi sợ hãi trước quy mô khổng lồ của nhiệm vụ; khi nhiệm vụ bị thu nhỏ về 2 phút, não bộ không còn cảm giác bị đe dọa và sẵn sàng hành động.",
-        "Vì quy tắc này ép buộc con người phải hoàn thành mọi việc trước 2 phút.",
-        "Vì trì hoãn là một thói quen chỉ có thể chữa trị bằng phẫu thuật thần kinh.",
-        "Bởi vì nó làm tăng lượng đường trong máu giúp con người tỉnh táo ngay lập tức."
+        "Vì nó lập trình lại đồng hồ sinh học giúp con người thức dậy sớm hơn mà không cần đến sự hỗ trợ của báo thức.",
+        "Vì quy tắc này ép buộc mọi người phải chạy đua với thời gian để hoàn thành tất cả nhiệm vụ trong hai phút.",
+        "Vì nó phá vỡ sự quá tải tâm lý, biến bước khởi đầu thành việc quá đỗi dễ dàng khiến não bộ không còn e ngại.",
+        "Vì nó loại bỏ hoàn toàn cảm giác buồn ngủ và mệt mỏi thể xác ngay sau khi chúng ta bắt tay vào hành động."
       ],
-      "correctIndex": 0,
-      "explanation": "Bộ não trì hoãn khi nó cảm thấy quá tải trước gánh nặng nhiệm vụ; chia nhỏ việc thành hành động 2 phút giúp phá vỡ sức ỳ tâm lý và kích hoạt động lượng (momentum)."
+      "correctIndex": 2,
+      "explanation": "Trì hoãn xuất hiện khi não sợ hãi quy mô công việc quá lớn. Thu nhỏ hành động về 2 phút giúp bước qua ngưỡng kháng cự tâm lý, tạo ra đà quán tính để tiếp tục công việc."
     },
     {
       "id": "q10",
-      "question": "Nếu một người sau khi làm xong 2 phút (ví dụ viết được 2 câu văn) nhưng hôm đó thực sự quá mệt mỏi và không muốn làm tiếp, người đó nên làm gì?",
+      "question": "Nếu áp dụng Quy tắc hai phút mà cảm thấy như mình đang tự lừa dối bản thân, tác giả khuyên bạn nên làm gì?",
       "options": [
-        "Tự sỉ vả bản thân vì đã thất bại thảm hại.",
-        "Cho phép bản thân dừng lại ngay lập tức và tự hào vì mình đã hoàn thành mục tiêu 2 phút và giữ vững mạch xuất hiện ngày hôm đó.",
-        "Ép buộc bản thân phải thức trắng đêm viết cho đủ 10 trang bản thảo.",
-        "Xóa bỏ toàn bộ 2 câu văn vừa viết vì chúng chưa hoàn hảo."
+        "Tăng gấp đôi thời gian thực hiện lên bốn phút để tạo thêm áp lực tâm lý thúc đẩy bản thân cố gắng hơn nữa.",
+        "Thực hiện hành vi trong đúng hai phút rồi bắt buộc phải dừng lại, biến hai phút thành toàn bộ quá trình.",
+        "Từ bỏ hoàn toàn thói quen đó và tìm kiếm một mục tiêu khác dễ dàng hơn để bản thân không bị căng thẳng.",
+        "Tìm kiếm một người bạn đồng hành nghiêm khắc để giám sát và ép buộc bản thân phải làm việc nhiều giờ liền."
       ],
       "correctIndex": 1,
-      "explanation": "Quy tắc 2 phút không phải là cái bẫy để lừa bản thân làm việc 2 tiếng; nếu bạn dừng lại sau 2 phút, bạn vẫn chiến thắng! Bạn đã giữ được chuỗi thói quen không bị đứt đoạn."
+      "explanation": "Nếu cảm thấy khiên cưỡng, hãy đặt quy tắc: làm đúng 2 phút rồi ngừng hẳn (chạy bộ 2 phút rồi dừng, đọc 1 trang rồi gấp sách). Lúc này 2 phút trở thành toàn bộ mục tiêu."
     },
     {
       "id": "q11",
-      "question": "Khái niệm 'Quán tính hành vi' (Behavioral Inertia) - vật đứng yên sẽ có xu hướng đứng yên, vật chuyển động sẽ tiếp tục chuyển động - liên hệ thế nào với Quy tắc hai phút?",
+      "question": "Khái niệm \"Thời khắc quyết định\" (Decisive moments) được tác giả phân tích trong Chương 13 có ý nghĩa gì?",
       "options": [
-        "Nó chứng minh rằng con người không nên vận động để bảo toàn năng lượng quán tính.",
-        "Khoảnh khắc bắt đầu chuyển động là lúc tốn nhiều năng lượng kháng cự nhất; vượt qua được 2 phút đầu tiên, quán tính chuyển động sẽ tự động đẩy bạn tiếp tục làm việc.",
-        "Quán tính hành vi chỉ áp dụng cho các vật thể cơ học vô tri vô giác.",
-        "Nó làm cho thói quen bị chậm lại sau mỗi chu kỳ 2 phút."
+        "Những lựa chọn tí hon chỉ diễn ra trong vài giây nhưng quyết định quỹ đạo hành vi trong nhiều giờ kế tiếp.",
+        "Những sự kiện bước ngoặt trọng đại chỉ xuất hiện một vài lần duy nhất trong toàn bộ cuộc đời của con người.",
+        "Khoảnh khắc bạn ký kết các hợp đồng kinh tế lớn hoặc đưa ra những quyết định đầu tư mang tính sống còn.",
+        "Thời điểm bạn thức giấc vào buổi sáng và quyết định xem mình có nên tiếp tục ngủ nướng thêm hay không."
       ],
-      "correctIndex": 1,
-      "explanation": "Tương tự như định luật vạn vật của Newton: việc khó nhất là đẩy cỗ xe lăn bánh từ trạng thái đứng yên; một khi cỗ xe đã chuyển bánh sau 2 phút, việc giữ cho nó tiếp tục chạy nhẹ nhàng hơn rất nhiều."
+      "correctIndex": 0,
+      "explanation": "Mỗi ngày có nhiều thời khắc quyết định (như 5:15 chiều chọn thay đồ tập hay nằm sofa xem phim). Lựa chọn vài giây tại ngã ba đường này sẽ định hình vài tiếng tiếp theo của bạn."
     },
     {
       "id": "q12",
-      "question": "Thói quen 'Gấp quần áo sạch cho vào tủ' có thể được thu nhỏ theo Quy tắc hai phút thành hành động khởi đầu nào?",
+      "question": "Lời khuyên của nhà văn Ernest Hemingway và chuyên gia Greg McKeown về việc xây dựng thói quen viết lách là gì?",
       "options": [
-        "Mua thêm 3 chiếc tủ quần áo mới bằng gỗ sồi.",
-        "Gấp đúng một chiếc áo thun hoặc phân loại một đôi tất.",
-        "Vứt toàn bộ quần áo sạch xuống sàn nhà để tiện lấy mặc.",
-        "Đem toàn bộ quần áo ra tiệm giặt ủi công nghiệp bên ngoài."
+        "Luôn viết liên tục cho đến khi cạn kiệt toàn bộ ý tưởng để không bỏ sót bất kỳ dòng cảm xúc quý giá nào.",
+        "Chỉ nên bắt tay vào viết khi bản thân đã tìm được một không gian hoàn toàn yên tĩnh và cách ly xã hội.",
+        "Cố gắng ép bản thân viết vượt chỉ tiêu mỗi ngày nhằm nhanh chóng hoàn thành bản thảo trước thời hạn định sẵn.",
+        "Luôn dừng việc viết lách lại khi bản thân vẫn đang cảm thấy ổn và viết ít hơn cảm giác muốn viết của mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Nhìn đống quần áo khổng lồ khiến bạn ngán ngẩm trì hoãn; tự nhủ 'mình chỉ gấp đúng 1 chiếc áo này thôi' giúp bạn bắt tay vào việc ngay, và thường bạn sẽ tiện tay gấp hết cả đống."
+      "correctIndex": 3,
+      "explanation": "Greg McKeown và Ernest Hemingway khuyên luôn dừng lại khi còn cảm thấy ổn, viết ít hơn mức mình muốn để luôn ở dưới ngưỡng nặng nề, giữ cho thói quen không trở thành gánh nặng."
     },
     {
       "id": "q13",
-      "question": "Một người muốn xây dựng thói quen thiền định 30 phút mỗi ngày. Phiên bản 2 phút chuẩn xác nhất của thói quen này là:",
+      "question": "Thói quen dọn dẹp quần áo sau khi giặt có thể được thu nhỏ về phiên bản hai phút nào để dễ dàng bắt đầu?",
       "options": [
-        "Ngồi xếp bằng trên đệm, nhắm mắt lại và hít thở sâu trọn vẹn trong đúng 60 giây đến 2 phút.",
-        "Đi đến Tây Tạng tham gia khóa tu khổ hạnh trong 3 tháng.",
-        "Đọc thuộc lòng các kinh văn cổ xưa bằng tiếng Phạn.",
-        "Mua chuông xoay Tây Tạng đắt tiền về trưng bày trong phòng khách."
+        "Đem toàn bộ quần áo bẩn ra tiệm giặt sấy bên ngoài để tiết kiệm tối đa thời gian và công sức của bản thân.",
+        "Mua sắm thêm nhiều móc treo đồ cao cấp và phân loại tủ quần áo thành nhiều ngăn chứa đồ chuyên biệt.",
+        "Bắt đầu bằng việc gấp một chiếc áo hoặc một đôi tất, tạo đà tâm lý thuận lợi để hoàn thành phần còn lại.",
+        "Thu dọn toàn bộ quần áo trong phòng ngủ và cất vào thùng chứa lớn để không gian trông gọn gàng hơn."
       ],
-      "correctIndex": 0,
-      "explanation": "Bắt đầu bằng việc ngồi xuống đệm và thở sâu trong 1-2 phút; khi việc ngồi lên đệm mỗi sáng đã trở thành phản xạ tự nhiên không thể thiếu, việc kéo dài thời gian thiền sẽ đến rất dễ dàng."
+      "correctIndex": 2,
+      "explanation": "Nhìn cả đống đồ giặt dễ gây ngán ngẩm trì hoãn; thu nhỏ thành 'gấp một đôi tất' giúp bắt tay vào làm ngay tức khắc, và khi đã bắt đầu, bạn thường sẽ tiện tay gấp nốt."
     },
     {
       "id": "q14",
-      "question": "Điều gì là sai lầm nguy hiểm nhất mà mọi người thường mắc phải ngay sau khi áp dụng Quy tắc hai phút được vài ngày?",
+      "question": "Đâu là sai lầm nguy hiểm nhất mà người thực hiện thường mắc phải sau vài ngày đầu áp dụng Quy tắc hai phút?",
       "options": [
-        "Làm việc quá ít và không chịu cải thiện thêm.",
-        "Quá nôn nóng nâng độ khó lên quá nhanh (từ 2 phút nhảy vọt lên 2 tiếng), phá vỡ ngưỡng chịu đựng của thói quen non nớt và khiến sự trì hoãn quay trở lại.",
-        "Quên không bấm đồng hồ đếm ngược 120 giây.",
-        "Kể cho quá nhiều người nghe về quy tắc hai phút."
+        "Không ghi chép chi tiết nhật ký thời gian hoàn thành từng hành động nhỏ vào cuối mỗi ngày sinh hoạt.",
+        "Quá nôn nóng đốt cháy giai đoạn, nâng độ khó lên quá nhanh khiến sức ỳ và sự trì hoãn cũ quay trở lại.",
+        "Quên không bấm đồng hồ đếm ngược chính xác một trăm hai mươi giây khi bắt đầu thực hiện hành động nhỏ.",
+        "Chia sẻ bí quyết quy tắc hai phút cho quá nhiều người quen biết trước khi bản thân đạt được thành tựu."
       ],
       "correctIndex": 1,
-      "explanation": "Sai lầm chí mạng là đốt cháy giai đoạn: vừa làm quen được 3 ngày đã vội ép mình tập nặng gấp 10 lần; hãy kiên nhẫn để hạt mầm thói quen bén rễ thật chắc trước khi cho nó vươn cành."
+      "explanation": "Sai lầm lớn nhất là vừa làm 2 phút được vài ngày đã vội vã tăng lên 1-2 tiếng, vượt qua ngưỡng chịu đựng khi thói quen chưa kịp bén rễ, khiến thói quen bị gãy đổ."
     },
     {
       "id": "q15",
-      "question": "Thông điệp đúc kết sâu sắc nhất của Chương 13 đối với hành trình phát triển bản thân là:",
+      "question": "Thông điệp đúc kết sâu sắc nhất của tác giả James Clear về Quy tắc hai phút trong Chương 13 là gì?",
       "options": [
-        "Một thói quen không hoàn hảo vẫn luôn luôn vượt trội hơn gấp ngàn lần một kế hoạch hoàn hảo không bao giờ được thực hiện.",
-        "Chỉ những người làm việc từ 16 tiếng mỗi ngày mới xứng đáng thành công.",
-        "Quy tắc hai phút chỉ dành riêng cho những người lười biếng và không có tham vọng.",
-        "Mọi hành động nhỏ bé đều sẽ biến mất không để lại dấu vết trong tương lai."
+        "Thà làm ít hơn mức kỳ vọng ban đầu còn hơn là không làm gì cả, vì hành động tí hon giúp nuôi dưỡng căn tính.",
+        "Mọi mục tiêu vĩ đại trong cuộc đời đều bắt buộc phải được chia nhỏ và hoàn thành dứt điểm trong hai phút.",
+        "Chỉ những hành động đòi hỏi nỗ lực phi thường và kéo dài hàng giờ mới tạo ra được sự chuyển hóa thực sự.",
+        "Quy tắc hai phút chỉ là giải pháp tạm thời dành cho những người thiếu hụt trầm trọng năng lực tập trung."
       ],
       "correctIndex": 0,
-      "explanation": "Đừng coi thường 2 phút: 2 phút viết dở vẫn là viết, 2 phút đi bộ vẫn là vận động. Hành động tí hon giữ cho ngọn lửa căn tính của bạn luôn cháy sáng qua từng ngày."
+      "explanation": "Tác giả kết luận: 'Thà làm ít hơn mình mong đợi vẫn còn hơn không làm gì cả'. Một cái hít đất hay một trang sách vẫn giữ vững ngọn lửa căn tính của bạn mỗi ngày."
     }
   ]
 }

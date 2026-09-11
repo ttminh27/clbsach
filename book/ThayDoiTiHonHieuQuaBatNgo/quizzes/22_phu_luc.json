@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Khi áp dụng Quy luật 1 (Khiến nó rõ ràng) vào quản trị doanh nghiệp, một nhà lãnh đạo thông minh nên làm gì để nhân viên không bỏ sót các nhiệm vụ quan trọng?",
+      "question": "Khi ứng dụng Quy luật 1 (Khiến nó rõ ràng) vào quản trị doanh nghiệp, nhà lãnh đạo nên thiết kế môi trường làm việc như thế nào?",
       "options": [
-        "Gửi 100 email nhắc nhở mỗi ngày với các ký tự in hoa toàn bộ.",
-        "Thiết kế quy trình làm việc trực quan (như bảng Kanban hiển thị các giai đoạn công việc) và ấn định rõ ràng: Ai làm gì, vào thời gian nào và nộp ở đâu.",
-        "Lắp đặt camera giám sát trên từng bàn làm việc của nhân viên.",
-        "Phạt tiền nhân viên mỗi khi họ hỏi về quy trình công việc."
+        "Ban hành các chỉ thị bằng văn bản chi tiết kèm theo quy định xử phạt nghiêm khắc đối với mọi sai sót quy trình.",
+        "Tổ chức các buổi họp giao ban hằng ngày để liên tục nhắc nhở và đôn đốc nhân viên hoàn thành tiến độ dự án.",
+        "Trực quan hóa tiến độ bằng bảng công việc và ấn định rõ ràng ai chịu trách nhiệm, thời hạn và địa điểm bàn giao.",
+        "Tăng cường tần suất kiểm tra đột xuất nhằm duy trì trạng thái tập trung cao độ của toàn bộ đội ngũ nhân sự."
       ],
-      "correctIndex": 1,
-      "explanation": "Trong doanh nghiệp, sự mơ hồ là kẻ thù của hiệu suất; trực quan hóa tiến độ công việc và áp dụng Ý định thực thi cho từng dự án giúp loại bỏ hoàn toàn sự lúng túng."
+      "correctIndex": 2,
+      "explanation": "Trong doanh nghiệp, sự mơ hồ là kẻ thù của hiệu suất. Trực quan hóa luồng công việc (như Kanban) và thiết lập Ý định thực thi rõ ràng giúp loại bỏ lúng túng và kích hoạt hành động tự giác."
     },
     {
       "id": "q2",
-      "question": "Các công ty thiết kế sản phẩm hàng đầu (như Apple, Uber) đã vận dụng Quy luật 3 (Khiến nó dễ dàng) để đánh bại các đối thủ cạnh tranh như thế nào?",
+      "question": "Các công ty công nghệ hàng đầu (như Apple hay Uber) đã vận dụng Quy luật 3 (Khiến nó dễ dàng) để tạo ưu thế cạnh tranh vượt trội ra sao?",
       "options": [
-        "Bán sản phẩm với mức giá rẻ hơn giá vốn sản xuất.",
-        "Triệt tiêu tối đa ma sát sử dụng: giảm số lần bấm nút, đơn giản hóa giao diện đến mức một đứa trẻ 5 tuổi cũng có thể thao tác mượt mà trong vài giây.",
-        "Bắt buộc người dùng phải đọc cuốn hướng dẫn sử dụng dày 500 trang trước khi dùng.",
-        "Chỉ bán sản phẩm cho những người có thẻ hội viên đặc biệt."
+        "Cung cấp đa dạng tính năng phức tạp để người dùng có nhiều lựa chọn tùy biến theo sở thích cá nhân riêng biệt.",
+        "Triệt tiêu tối đa ma sát sử dụng, giảm thiểu số lần bấm nút để trải nghiệm của khách hàng diễn ra tức thì.",
+        "Đầu tư ngân sách khổng lồ vào các chiến dịch quảng cáo truyền thông nhằm thay đổi nhận thức của khách hàng.",
+        "Hạ giá thành sản phẩm xuống mức thấp nhất thị trường để thu hút người dùng chấp nhận các thao tác phức tạp."
       ],
       "correctIndex": 1,
-      "explanation": "Uber thành công vì nó giảm ma sát gọi taxi xuống mức 1 chạm trên màn hình; iPhone thành công vì nó loại bỏ bàn phím cứng phức tạp; sản phẩm nào ít ma sát nhất sẽ chiến thắng thị trường."
+      "explanation": "Uber thắng lớn vì giảm ma sát gọi xe xuống một cú chạm; iPhone thành công vì loại bỏ bàn phím vật lý rườm rà. Sản phẩm nào giảm thiểu ma sát tốt nhất sẽ chiến thắng trên thị trường."
     },
     {
       "id": "q3",
-      "question": "Trong việc nuôi dạy con cái, cha mẹ nên áp dụng Quy luật 1 (Khiến nó rõ ràng) như thế nào để giúp trẻ hình thành thói quen đọc sách?",
+      "question": "Trong việc nuôi dạy con cái, cha mẹ nên áp dụng Quy luật 1 (Khiến nó rõ ràng) như thế nào để khơi gợi thói quen đọc sách ở trẻ?",
       "options": [
-        "Cất sách cẩn thận trong tủ kính có khóa trên tầng cao nhất.",
-        "Tạo ra một góc đọc sách ấm cúng với những cuốn truyện tranh sinh động được bày sẵn bìa ra ngoài ngay trong tầm với tay của trẻ ở phòng khách.",
-        "Ép trẻ phải ngồi yên trên ghế suốt 3 tiếng mỗi buổi tối để đọc sách.",
-        "Đe dọa sẽ cắt tiền tiêu vặt nếu trẻ không đọc hết một cuốn bách khoa toàn thư."
+        "Bày sẵn những cuốn sách hấp dẫn quay bìa ra ngoài ngay trong tầm mắt và tầm với của trẻ ở không gian sinh hoạt.",
+        "Đặt ra quy định nghiêm ngặt yêu cầu trẻ phải ngồi vào bàn đọc sách đủ ba mươi phút mỗi ngày sau giờ tan học.",
+        "Thường xuyên giảng giải về tầm quan trọng của tri thức và nhắc nhở trẻ về những tấm gương danh nhân hiếu học.",
+        "Cất giữ sách cẩn thận trong tủ kính có khóa để trẻ hiểu được giá trị quý báu của việc giữ gìn tài liệu học tập."
       ],
-      "correctIndex": 1,
-      "explanation": "Trẻ em phản ứng nhạy bén với gợi ý thị giác; một góc đọc sách mời gọi với những cuốn sách bìa đẹp ngang tầm mắt sẽ tự nhiên kích hoạt sự tò mò của đứa trẻ."
+      "correctIndex": 0,
+      "explanation": "Trẻ em phản ứng nhạy bén với tín hiệu thị giác. Những cuốn sách bìa bắt mắt nằm ngay tầm với sẽ đóng vai trò mồi nhử trực quan khơi gợi tính tò mò tự nhiên thay vì sự ép buộc."
     },
     {
       "id": "q4",
-      "question": "Áp dụng Quy luật 2 (Khiến nó hấp dẫn) vào việc dạy con làm bài tập về nhà có thể được thực hiện thông qua kỹ thuật nào?",
+      "question": "Kỹ thuật 'Gom cụm cám dỗ' (Temptation Bundling) theo Quy luật 2 (Khiến nó hấp dẫn) được ứng dụng hiệu quả trong việc dạy trẻ học bài như thế nào?",
       "options": [
-        "Kỹ thuật Gom cụm cám dỗ: 'Sau khi con hoàn thành xong 2 bài toán [Cần làm], hai bố con mình sẽ cùng nhau chơi trò xếp hình Lego 15 phút [Muốn làm]'.",
-        "Cho trẻ uống nước ngọt có gas trong lúc đang giải toán khó.",
-        "Hứa sẽ mua tặng trẻ một chiếc xe hơi khi trẻ tròn 18 tuổi.",
-        "So sánh trẻ với những đứa con hoàn hảo của người hàng xóm để kích thích sự ghen tị."
+        "Hứa hẹn sẽ thưởng một chuyến du lịch xa xỉ vào cuối năm nếu trẻ đạt danh hiệu học sinh xuất sắc toàn diện.",
+        "Cho phép trẻ vừa ăn đồ ngọt yêu thích vừa làm bài tập để giảm bớt cảm giác căng thẳng trong quá trình học.",
+        "So sánh kết quả học tập của trẻ với bạn bè cùng lớp nhằm khơi gợi bản năng ganh đua và khát khao khẳng định mình.",
+        "Ghép nối việc giải xong bài tập cần làm với một hoạt động vui chơi muốn làm cùng cha mẹ ngay sau khi hoàn thành."
       ],
-      "correctIndex": 0,
-      "explanation": "Gom cụm cám dỗ kết hợp nhiệm vụ học tập với một hoạt động vui chơi gắn kết tình cảm, biến việc làm bài tập thành cây cầu dẫn đến niềm vui thay vì gánh nặng áp bức."
+      "correctIndex": 3,
+      "explanation": "Gom cụm cám dỗ liên kết hành vi [Cần làm: giải bài tập] với hành vi [Muốn làm: chơi trò chơi cùng cha mẹ], giúp nhiệm vụ học tập trở thành chiếc cầu nối dẫn tới phần thưởng hấp dẫn."
     },
     {
       "id": "q5",
-      "question": "Tại sao việc cha mẹ khen ngợi: 'Con đã rất kiên trì nỗ lực giải bài toán này!' lại tốt hơn nhiều so với việc khen: 'Con thông minh quá!' theo tâm lý học hành vi?",
+      "question": "Vì sao tâm lý học hành vi khuyến nghị cha mẹ nên khen ngợi nỗ lực ('Con đã rất kiên trì!') thay vì khen tố chất bẩm sinh ('Con thông minh quá!')?",
       "options": [
-        "Vì khen thông minh sẽ làm cho trẻ cảm thấy ngượng ngùng trước bạn bè.",
-        "Khen nỗ lực xây dựng 'Tư duy phát triển' (Growth Mindset) gắn liền với thói quen kiên trì; khen thông minh tạo ra nỗi sợ thất bại vì trẻ sợ mất đi nhãn 'thông minh' khi gặp bài toán khó.",
-        "Vì từ ngữ 'kiên trì' nghe có vẻ học thuật và trang trọng hơn.",
-        "Khen thông minh bị các chuyên gia tâm lý học cấm hoàn toàn."
+        "Vì lời khen về sự thông minh sẽ khiến đứa trẻ nhanh chóng bị bạn bè xung quanh ghen ghét và cô lập trong lớp.",
+        "Do khen nỗ lực giúp trẻ tự động ghi nhớ kiến thức học thuật lâu hơn so với việc khen ngợi tư chất bẩm sinh.",
+        "Khen nỗ lực giúp xây dựng tư duy phát triển gắn với tính bền bỉ, trong khi khen tố chất tạo ra nỗi sợ thất bại.",
+        "Vì trẻ em chỉ thực sự cảm thấy hạnh phúc khi những cố gắng thể chất cụ thể của mình được người lớn nhìn nhận."
       ],
-      "correctIndex": 1,
-      "explanation": "Khen ngợi nỗ lực củng cố căn tính: 'Tôi là người kiên định đối mặt thử thách'; nó khuyến khích hành vi lặp lại, trong khi khen tố chất khiến trẻ né tránh rủi ro."
+      "correctIndex": 2,
+      "explanation": "Nghiên cứu của Carol Dweck chỉ ra rằng khen nỗ lực củng cố căn tính của người kiên trì vượt khó. Khen tố chất bẩm sinh khiến trẻ sợ rủi ro vì sợ đánh mất danh xưng 'thông minh' khi gặp thử thách."
     },
     {
       "id": "q6",
-      "question": "Trong môi trường doanh nghiệp, Quy luật 4 (Khiến nó thỏa mãn) bị vi phạm nghiêm trọng nhất khi nhà quản lý mắc phải sai lầm nào?",
+      "question": "Trong văn hóa doanh nghiệp, sai lầm phổ biến nào của nhà quản lý đã vi phạm nghiêm trọng Quy luật 4 (Khiến nó tạo cảm giác thỏa mãn)?",
       "options": [
-        "Tổ chức quá nhiều buổi tiệc liên hoan cuối năm cho nhân viên.",
-        "Chỉ trích dữ dội và trừng phạt ngay lập tức những sai sót nhỏ của nhân viên, nhưng lại hoàn toàn im lặng và không bao giờ công nhận những nỗ lực thầm lặng hay đóng góp tốt của họ.",
-        "Trả lương cho nhân viên đúng ngày quy định hàng tháng.",
-        "Cung cấp cà phê và trà miễn phí tại khu vực nhà ăn công ty."
+        "Không cung cấp các chương trình đào tạo kỹ năng chuyên sâu định kỳ cho toàn bộ đội ngũ nhân sự trong công ty.",
+        "Trừng phạt nặng nề sai sót nhỏ nhưng lại phớt lờ và không bao giờ công nhận những nỗ lực thầm lặng của nhân viên.",
+        "Đặt ra mức thù lao quá cao khiến nhân viên nảy sinh tâm lý ỷ lại và giảm sút động lực cống hiến lâu dài cho tổ chức.",
+        "Tổ chức quá nhiều sự kiện gắn kết nội bộ làm phân tán thời gian làm việc chuyên môn của các phòng ban chuyên trách."
       ],
       "correctIndex": 1,
-      "explanation": "Khi hành vi tốt không được tưởng thưởng (thỏa mãn) mà chỉ gặp sự dửng dưng, còn sai sót nhỏ bị trừng phạt, nhân viên sẽ chuyển sang chế độ phòng thủ và ngừng cống hiến thói quen tốt."
+      "explanation": "Những hành vi được tưởng thưởng sẽ được lặp lại; hành vi bị trừng phạt sẽ bị né tránh. Nếu việc làm tốt bị ngó lơ còn sai sót bị chỉ trích gay gắt, nhân viên sẽ chuyển sang chế độ phòng thủ và ngừng đóng góp."
     },
     {
       "id": "q7",
-      "question": "Phương pháp 'Quy tắc hai phút' có thể ứng dụng cho việc trẻ em dọn dẹp đồ chơi sau khi chơi xong như thế nào?",
+      "question": "Phương pháp 'Quy tắc hai phút' (Two-Minute Rule) được áp dụng để rèn luyện thói quen thu dọn đồ chơi cho trẻ nhỏ như thế nào?",
       "options": [
-        "Bắt trẻ phải cất toàn bộ 50 món đồ chơi vào đúng vị trí hoàn hảo trong vòng 2 phút.",
-        "Bắt đầu bằng một bước cực nhỏ: 'Con chỉ cần nhặt đúng 1 món đồ chơi yêu thích nhất bỏ vào chiếc giỏ màu đỏ này thôi!'.",
-        "Tự mình dọn dẹp toàn bộ đồ chơi cho trẻ để tiết kiệm thời gian.",
-        "Vứt toàn bộ đồ chơi ra ngoài thùng rác để dạy cho trẻ một bài học đau đớn."
+        "Khởi đầu bằng một bước cực nhỏ và dễ dàng như nhặt đúng một món đồ chơi bỏ vào giỏ để triệt tiêu sức ỳ ban đầu.",
+        "Đặt đồng hồ bấm giờ đúng hai phút và yêu cầu trẻ phải dọn sạch toàn bộ căn phòng trước khi chuông báo reo lên.",
+        "Cha mẹ trực tiếp làm mẫu trong hai phút đầu tiên rồi yêu cầu đứa trẻ tự hoàn thành toàn bộ phần việc còn lại.",
+        "Đưa ra phần thưởng bánh kẹo nếu trẻ có thể hoàn thành việc dọn dẹp đồ đạc trong khoảng thời gian hai phút đó."
       ],
-      "correctIndex": 1,
-      "explanation": "Giảm ma sát khởi đầu về mức 0: khi việc nhặt 1 món đồ chơi quá dễ dàng, trẻ sẽ hào hứng làm ngay; và sau khi đã nhặt món đầu tiên, việc nhặt tiếp các món còn lại diễn ra rất tự nhiên."
+      "correctIndex": 0,
+      "explanation": "Giảm ma sát khởi đầu về mức tối thiểu: khi hành động nhặt 1 món đồ chơi quá dễ dàng, trẻ sẽ hào hứng bắt đầu ngay; và sau khi đã nhấc món đầu tiên, việc tiếp tục dọn dẹp sẽ diễn ra tự nhiên."
     },
     {
       "id": "q8",
-      "question": "Một công ty muốn xây dựng văn hóa 'Đổi mới sáng tạo' trong toàn thể nhân viên. Ứng dụng Quy luật 2 (áp lực xã hội từ nhóm thân cận) nghĩa là:",
+      "question": "Để xây dựng văn hóa cải tiến liên tục trong tổ chức, nhà lãnh đạo nên ứng dụng Quy luật 2 (sức mạnh bầy đàn từ nhóm thân cận) như thế nào?",
       "options": [
-        "Thuê các diễn giả truyền cảm hứng về nói chuyện 1 lần duy nhất trong năm.",
-        "Công khai tôn vinh và trao giải thưởng hàng tháng cho các ý tưởng cải tiến nhỏ của nhân viên, biến việc thử nghiệm và đóng góp ý tưởng thành chuẩn mực được tôn trọng trong công ty.",
-        "Ép buộc mọi nhân viên phải nộp ít nhất 50 sáng kiến mỗi tuần nếu không muốn bị đuổi việc.",
-        "Treo khẩu hiệu 'Sáng tạo hay là chết' ở khắp các hành lang văn phòng."
+        "Đưa ra các chỉ tiêu cải tiến bắt buộc vào bản đánh giá hiệu suất hằng tháng kèm theo mức phạt nếu không đạt.",
+        "Mời các chuyên gia bên ngoài về thuyết giảng định kỳ để tạo động lực tinh thần cho toàn thể cán bộ nhân viên.",
+        "Bảo mật toàn bộ thông tin về các cải tiến xuất sắc để tránh tạo ra sự cạnh tranh tiêu cực giữa các phòng ban chuyên môn.",
+        "Công khai tôn vinh các sáng kiến nhỏ, biến việc chủ động cải tiến thành một chuẩn mực được toàn thể nhóm coi trọng."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi sự đổi mới được tôn vinh công khai trước bầy đàn, bản năng khao khát được công nhận xã hội sẽ thúc đẩy mọi người tự nguyện thi đua đóng góp sáng kiến."
+      "correctIndex": 3,
+      "explanation": "Con người có bản năng khao khát hòa nhập và được tập thể thừa nhận. Khi việc cải tiến nhỏ được tôn vinh công khai, chuẩn mực bầy đàn sẽ thúc đẩy mọi người tự nguyện noi theo."
     },
     {
       "id": "q9",
-      "question": "Để ngăn chặn thói quen trẻ em nghiện xem tivi hoặc chơi iPad sau giờ học, ứng dụng Quy luật Nghịch đảo 3 (Khiến nó khó khăn / Tăng ma sát) là:",
+      "question": "Nhằm hạn chế việc trẻ nhỏ dán mắt vào màn hình tivi hay máy tính bảng, cách áp dụng Quy luật nghịch đảo 3 (Khiến nó khó khăn) chuẩn xác là gì?",
       "options": [
-        "Cất iPad vào ngăn kéo có khóa và rút phích cắm tivi sau mỗi lần xem, cất điều khiển lên nóc tủ lạnh.",
-        "Ngồi bên cạnh và liên tục quát mắng trẻ trong suốt thời gian trẻ xem tivi.",
-        "Mua cho mỗi đứa trẻ một chiếc iPad riêng để chúng không tranh giành nhau.",
-        "Cắt đứt toàn bộ mạng internet của cả khu dân cư."
+        "Liên tục ngồi bên cạnh nhắc nhở và phân tích cho trẻ hiểu về các tác hại nguy hiểm của ánh sáng xanh nhân tạo.",
+        "Đặt ra các hình phạt nghiêm khắc như cắt tiền tiêu vặt mỗi khi bắt gặp đứa trẻ tự ý sử dụng các thiết bị điện tử.",
+        "Tăng tối đa ma sát vật lý bằng cách cất thiết bị vào tủ khóa và rút phích cắm tivi cất điều khiển lên vị trí cao.",
+        "Thay thế hoàn toàn màn hình tivi bằng các thiết bị giải trí công nghệ mới có tính năng giới hạn thời gian tự động."
       ],
-      "correctIndex": 0,
-      "explanation": "Tăng rào cản vật lý: chiếc điều khiển ở trên cao và phích cắm bị rút tạo ra ma sát khiến trẻ không thể tự ý bật màn hình một cách vô thức, buộc trẻ phải tìm các trò chơi vận động khác."
+      "correctIndex": 2,
+      "explanation": "Tăng ma sát chuyển hành vi từ chế độ tự động sang có ý thức. Rút phích cắm và cất điều khiển lên cao tạo ra rào cản vật lý đủ lớn để ngăn chặn phản xạ bật màn hình vô thức."
     },
     {
       "id": "q10",
-      "question": "Chiến lược 'Bảng sao khen thưởng' (Star Chart) trong nuôi dạy con cái thực chất là ứng dụng của công cụ hành vi nào trong cuốn sách?",
+      "question": "Công cụ 'Bảng sao khen thưởng' (Star Chart) thường dùng cho trẻ em thực chất là sự phối hợp của các nguyên lý hành vi nào trong cuốn sách?",
       "options": [
-        "Bảng điểm thói quen và Công cụ theo dõi thói quen (Habit Tracker) kết hợp Phần thưởng thị giác tức thì.",
-        "Hợp đồng tài chính thế chấp tài sản của gia đình.",
-        "Phương pháp giáo dục trừng phạt nghiêm khắc thời cổ đại.",
-        "Một trò chơi may rủi hoàn toàn không có tính quy luật."
+        "Kỹ thuật gom cụm cám dỗ kết hợp với việc gia tăng ma sát hành vi nhằm hạn chế tối đa các phản ứng chống đối của trẻ.",
+        "Công cụ theo dõi thói quen kết hợp với phản hồi thị giác tức thì giúp tạo cảm giác thỏa mãn và tiến bộ rõ ràng.",
+        "Bản hợp đồng cam kết trách nhiệm xã hội sử dụng áp lực trừng phạt để ép buộc đứa trẻ phải tuân thủ nghiêm ngặt.",
+        "Phương pháp bắc cầu ý định thực thi nhằm gắn kết các nhiệm vụ học tập phức tạp vào lịch trình sinh hoạt hằng ngày."
       ],
-      "correctIndex": 0,
-      "explanation": "Mỗi ngôi sao vàng dán lên bảng sau khi đánh răng là một bằng chứng thị giác hữu hình đầy thỏa mãn (Quy luật 1 và 4), giúp trẻ nhìn thấy sự tiến bộ tích lũy từng ngày."
+      "correctIndex": 1,
+      "explanation": "Dán một ngôi sao lên bảng theo dõi ngay sau khi hoàn thành công việc là bằng chứng thị giác rõ ràng (Quy luật 1) và mang lại cảm giác thỏa mãn tức thì (Quy luật 4)."
     },
     {
       "id": "q11",
-      "question": "Khi áp dụng nguyên tắc 'Một không gian, Một công dụng' cho con trẻ học tập tại nhà, cha mẹ nên thiết kế góc học tập ra sao?",
+      "question": "Nguyên tắc 'Một không gian, Một công dụng' (Chương 6) được ứng dụng như thế nào khi thiết kế góc học tập tại nhà cho trẻ?",
       "options": [
-        "Cho trẻ ngồi học bài ngay trên giường ngủ cạnh đống thú bông và đồ chơi giải trí.",
-        "Bố trí một chiếc bàn học riêng biệt trong góc yên tĩnh, trên bàn CHỈ CÓ sách vở và đèn học, tuyệt đối không để đồ chơi hay màn hình điện thoại.",
-        "Cho trẻ vừa học bài vừa bật tivi xem hoạt hình để kích thích trí tưởng tượng.",
-        "Cho trẻ ngồi học ở bất kỳ đâu trong nhà tùy theo sở thích ngẫu hứng mỗi ngày."
+        "Bố trí chiếc bàn chuyên biệt chỉ dành riêng cho việc học tập, tuyệt đối không để lẫn đồ chơi hay màn hình giải trí.",
+        "Kết hợp góc học tập ngay trong phòng ngủ để trẻ cảm thấy gần gũi, thoải mái và bớt căng thẳng khi làm bài tập về nhà.",
+        "Cho phép trẻ tự do thay đổi vị trí học tập khắp nơi trong nhà để kích thích sự sáng tạo và tư duy ngẫu hứng mỗi ngày.",
+        "Trang trí thật nhiều tranh ảnh sinh động và đồ chơi yêu thích xung quanh bàn học để tạo nguồn cảm hứng tích cực cho trẻ."
       ],
-      "correctIndex": 1,
-      "explanation": "Không gian thuần khiết tạo ra phản xạ thuần khiết: khi ngồi vào chiếc bàn chỉ có sách vở, não bộ của trẻ tự động khóa vào chế độ tập trung học tập mà không bị xao nhãng cạnh tranh."
+      "correctIndex": 0,
+      "explanation": "Không gian thuần khiết tạo nên tín hiệu thuần khiết. Khi ngồi vào chiếc bàn chỉ dùng để học, não bộ đứa trẻ sẽ tự động kích hoạt trạng thái tập trung mà không bị phân tán bởi các gợi ý giải trí."
     },
     {
       "id": "q12",
-      "question": "Trong doanh nghiệp, tại sao các 'Hành động một lần' (như chuẩn hóa biểu mẫu quy trình, cài đặt phần mềm tự động hóa báo cáo) lại mang lại lợi ích tài chính khổng lồ?",
+      "question": "Trong môi trường doanh nghiệp, vì sao các 'Hành động một lần' (One-time actions) như tự động hóa quy trình hay chuẩn hóa biểu mẫu lại có giá trị to lớn?",
       "options": [
-        "Vì chúng giúp doanh nghiệp có lý do để sa thải bớt nhân viên.",
-        "Chúng loại bỏ vĩnh viễn hàng ngàn giờ lao động lãng phí do sai sót thủ công của con người lặp đi lặp lại mỗi tháng, giúp bộ máy vận hành trơn tru với ma sát bằng 0.",
-        "Vì các biểu mẫu quy trình có thể đem bán cho các công ty đối thủ cạnh tranh.",
-        "Bởi vì công nghệ phần mềm luôn làm tăng giá cổ phiếu trên sàn giao dịch."
+        "Chúng giúp ban lãnh đạo dễ dàng tinh giảm bộ máy nhân sự và cắt giảm tối đa các chi phí vận hành trong tương lai.",
+        "Các giải pháp phần mềm tự động hóa luôn là yếu tố hàng đầu giúp doanh nghiệp nâng cao giá trị vốn hóa thị trường.",
+        "Chúng triệt tiêu hoàn toàn nhu cầu trao đổi trực tiếp giữa các nhân viên, từ đó loại bỏ các mâu thuẫn nội bộ phát sinh.",
+        "Chúng chỉ cần đầu tư thiết lập một lần nhưng giúp triệt tiêu ma sát và sai sót thủ công, tạo đòn bẩy năng suất bền vững."
       ],
-      "correctIndex": 1,
-      "explanation": "Tự động hóa quy trình một lần là đòn bẩy năng suất tối thượng: bạn đầu tư thời gian một lần để hưởng lợi nhuận tiết kiệm chi phí và thời gian mãi mãi về sau."
+      "correctIndex": 3,
+      "explanation": "Đầu tư thời gian một lần để tạo biểu mẫu chuẩn hay phần mềm tự động sẽ khóa chặt hành vi hiệu quả trong tương lai, giải phóng hàng ngàn giờ lao động thủ công lãng phí."
     },
     {
       "id": "q13",
-      "question": "Làm thế nào để cha mẹ làm gương (Role modeling) cho con cái về thói quen đọc sách dựa trên nguyên lý 'Bắt chước người thân cận' (Chương 9)?",
+      "question": "Dựa trên cơ chế 'Bắt chước người thân cận' (Chương 9), cách hiệu quả nhất để cha mẹ truyền cảm hứng đọc sách cho con là gì?",
       "options": [
-        "Cầm điện thoại lướt mạng xã hội và liên tục thúc ép con phải đọc sách.",
-        "Chính cha mẹ cũng ngồi xuống đọc một cuốn sách yêu thích mỗi tối; khi trẻ thấy hành vi đọc sách là bình thường và được người lớn say mê, chúng sẽ tự nhiên bắt chước theo.",
-        "Thuê gia sư về nhà đọc sách cho con nghe trong khi cha mẹ đi xem phim.",
-        "Mua 1000 cuốn sách về trưng bày trong tủ kính mà không bao giờ mở ra."
+        "Thường xuyên mua thật nhiều sách đắt tiền về chất đầy giá sách để tạo nên một không gian học thức sang trọng trong nhà.",
+        "Thuê các chuyên gia giáo dục hoặc gia sư giỏi về đọc sách và giảng giải các bài học đạo đức cho trẻ nghe mỗi tuần.",
+        "Chính cha mẹ phải làm gương bằng việc đọc sách say mê mỗi ngày, biến việc đọc thành một chuẩn mực tự nhiên của gia đình.",
+        "Đặt ra các hình phạt nghiêm khắc nếu đứa trẻ dành nhiều thời gian xem tivi thay vì ngồi vào bàn đọc các cuốn sách kinh điển."
       ],
-      "correctIndex": 1,
-      "explanation": "Trẻ em không nghe những gì cha mẹ nói; trẻ em bắt chước những gì cha mẹ làm. Văn hóa gia đình là tấm gương phản chiếu thói quen sống động nhất."
+      "correctIndex": 2,
+      "explanation": "Trẻ em bắt chước những gì cha mẹ làm chứ không nghe những gì cha mẹ thuyết giảng. Khi thấy cha mẹ trân trọng sách, việc đọc sẽ trở thành văn hóa tự nhiên của gia đình."
     },
     {
       "id": "q14",
-      "question": "Một nhà quản lý muốn xây dựng thói quen 'Đi làm đúng giờ' cho đội ngũ nhân viên. Cách tiếp cận toàn diện theo 4 quy luật là:",
+      "question": "Một nhà quản lý muốn xây dựng văn hóa 'Đi làm đúng giờ' cho nhân viên nên áp dụng đồng bộ 4 Quy luật Thay đổi Hành vi như thế nào?",
       "options": [
-        "1. Làm rõ ràng: bảng chấm công trực quan -> 2. Hấp dẫn: bữa sáng miễn phí cho người đến sớm -> 3. Dễ dàng: linh hoạt 15 phút tránh kẹt xe -> 4. Thỏa mãn: vinh danh cuối tuần.",
-        "Đe dọa sẽ sa thải bất kỳ ai đi muộn 1 phút ngay trong ngày đầu tiên áp dụng.",
-        "Khuyên nhân viên nên ngủ lại văn phòng công ty suốt cả tuần.",
-        "Không cần làm gì cả; sự đúng giờ là phẩm chất bẩm sinh không thể rèn luyện."
+        "Ban hành quy định trừ lương nặng đối với người đi muộn và thưởng tiền mặt trực tiếp cho nhân viên đến sớm nhất mỗi ngày.",
+        "Kết hợp bảng chấm công rõ ràng, phục vụ cà phê đầu giờ, tạo điều kiện di chuyển dễ dàng và công nhận sự chuyên cần.",
+        "Yêu cầu các trưởng bộ phận trực tiếp đứng tại cửa văn phòng để điểm danh và kiểm điểm công khai những người đi làm trễ.",
+        "Lắp đặt hệ thống nhận diện khuôn mặt công nghệ cao và tự động gửi thông báo vi phạm đến toàn thể người thân của nhân viên."
       ],
-      "correctIndex": 0,
-      "explanation": "Kết hợp đồng bộ cả 4 quy luật tạo thành một hệ sinh thái nâng đỡ: vừa có gợi ý rõ ràng, vừa có mồi nhử hấp dẫn (bữa sáng), vừa giảm ma sát giao thông, vừa có sự công nhận xã hội."
+      "correctIndex": 1,
+      "explanation": "Phối hợp đồng bộ 4 quy luật: Gợi ý rõ ràng (bảng chấm công trực quan), Hấp dẫn (cà phê buổi sáng), Dễ dàng (linh hoạt nhẹ nhàng hỗ trợ di chuyển), Thỏa mãn (vinh danh nỗ lực đúng giờ)."
     },
     {
       "id": "q15",
-      "question": "Bài học đúc kết lớn nhất của phần Phụ lục dành cho các nhà lãnh đạo và các bậc phụ huynh là gì?",
+      "question": "Triết lý sâu sắc nhất mà phần Phụ lục gửi gắm đến các nhà lãnh đạo và các bậc phụ huynh trong việc định hình hành vi con người là gì?",
       "options": [
-        "Bạn không thể ép buộc con người thay đổi bằng sự áp bức; nhưng bạn có thể thiết kế một hệ thống môi trường thông minh nơi mà các hành vi tốt đẹp trở thành lựa chọn tự nhiên và hạnh phúc nhất của họ.",
-        "Quyền lực độc tài là công cụ duy nhất để duy trì trật tự gia đình và xã hội.",
-        "Mọi đứa trẻ sinh ra đều có bản tính lười biếng không thể uốn nắn.",
-        "Doanh nghiệp chỉ cần tập trung vào lợi nhuận và không cần quan tâm đến con người."
+        "Hãy đóng vai trò kiến trúc sư thiết kế môi trường, nơi hành vi đúng đắn trở thành lựa chọn tự nhiên và thuận lợi nhất.",
+        "Kỷ luật nghiêm khắc và quyền lực tuyệt đối là công cụ duy nhất có thể duy trì trật tự và sự vâng lời trong một tập thể.",
+        "Con người sinh ra vốn dĩ mang bản tính lười biếng, do đó cần phải liên tục bị thúc ép bằng các đòn bẩy tài chính cụ thể.",
+        "Cách duy nhất để chuyển hóa một con người là tác động trực tiếp vào ý chí và niềm tin tâm linh sâu kín của cá nhân đó."
       ],
       "correctIndex": 0,
-      "explanation": "Đỉnh cao của nghệ thuật lãnh đạo và giáo dục là trở thành người kiến tạo môi trường: khi các quy luật hành vi được sắp đặt khéo léo, con người sẽ tự động tỏa sáng theo cách tốt đẹp nhất."
+      "explanation": "Đỉnh cao của sự dẫn dắt là nghệ thuật kiến tạo môi trường: khi các gợi ý, sự hấp dẫn, độ dễ dàng và sự thỏa mãn được sắp đặt khéo léo, con người sẽ tự nguyện phát triển hành vi tốt đẹp."
     }
   ]
 }

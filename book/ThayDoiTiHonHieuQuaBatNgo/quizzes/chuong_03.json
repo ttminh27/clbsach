@@ -8,181 +8,181 @@
       "id": "q1",
       "question": "Thí nghiệm chiếc hộp câu đố (Puzzle box) của nhà tâm lý học Edward Thorndike với những con mèo đói năm 1898 đã chứng minh quy luật hành vi nền tảng nào?",
       "options": [
-        "Quy luật hiệu ứng (Law of Effect): Các hành vi kéo theo kết quả thỏa mãn có xu hướng được lặp lại; các hành vi mang lại cảm giác khó chịu sẽ ít lặp lại hơn.",
-        "Quy luật chọn lọc tự nhiên của Darwin áp dụng trong phòng thí nghiệm.",
-        "Thuyết phản xạ có điều kiện tiết nước bọt của Pavlov.",
-        "Quy luật bảo toàn năng lượng trong cơ học thần kinh động vật."
+        "Thuyết điều kiện hóa của Pavlov: Các kích thích trung tính khi kết hợp với thức ăn sẽ tạo phản xạ tiết dịch vị tự nhiên.",
+        "Nguyên lý bắt chước xã hội của Bandura: Sinh vật học tập hành vi mới nhanh nhất thông qua việc quan sát hành động đồng loại.",
+        "Quy luật hiệu ứng (Law of Effect): Hành vi đi kèm kết quả vừa ý có xu hướng lặp lại, còn hệ quả khó chịu sẽ ít lặp lại hơn.",
+        "Định luật ức chế phản xạ có điều kiện của Skinner: Hành vi tự động tiêu biến hoàn toàn khi không nhận được sự củng cố từ ngoài."
       ],
-      "correctIndex": 0,
-      "explanation": "Thorndike quan sát thấy mèo thoát khỏi hộp nhanh hơn sau mỗi lần thử nhờ hành vi đạp cần gạt mang lại phần thưởng thức ăn (kết quả thỏa mãn được não ghi nhớ)."
+      "correctIndex": 2,
+      "explanation": "Thorndike phát hiện ra Quy luật hiệu ứng: các hành vi đem lại kết quả vừa ý sẽ được củng cố và lặp lại, còn hành vi mang lại cảm giác khó chịu sẽ bị triệt tiêu dần."
     },
     {
       "id": "q2",
       "question": "Bốn giai đoạn cấu thành nên 'Vòng lặp thói quen' (The Habit Loop) được James Clear hệ thống hóa theo đúng trình tự thời gian là gì?",
       "options": [
-        "1. Kế hoạch -> 2. Nỗ lực -> 3. Đánh giá -> 4. Tận hưởng.",
-        "1. Gợi ý (Cue) -> 2. Khát khao (Craving) -> 3. Phản hồi/Hành động (Response) -> 4. Phần thưởng (Reward).",
-        "1. Mục tiêu -> 2. Động lực -> 3. Ý chí -> 4. Thành công.",
-        "1. Kích thích -> 2. Phân tích -> 3. Lựa chọn -> 4. Kết thúc."
+        "1. Mục tiêu (Goal) -> 2. Động lực (Motivation) -> 3. Nỗ lực hành động (Effort) -> 4. Thành tựu đạt được (Achievement).",
+        "1. Gợi ý/Tín hiệu (Cue) -> 2. Khao khát (Craving) -> 3. Phản hồi/Hành động (Response) -> 4. Phần thưởng (Reward).",
+        "1. Kế hoạch (Plan) -> 2. Kích thích (Trigger) -> 3. Thực thi quy trình (Routine) -> 4. Đánh giá kết quả (Feedback).",
+        "1. Cảm xúc (Emotion) -> 2. Nhận thức (Cognition) -> 3. Lựa chọn hành vi (Action) -> 4. Thỏa mãn nội tâm (Satisfaction)."
       ],
       "correctIndex": 1,
-      "explanation": "Đây là chu trình 4 bước thần kinh học của mọi thói quen: Gợi ý kích hoạt Khát khao, Khát khao thúc đẩy Phản hồi, và Phản hồi mang lại Phần thưởng thỏa mãn khát khao ban đầu."
+      "explanation": "Chu trình 4 bước của mọi thói quen gồm: Gợi ý (Cue) kích hoạt Khao khát (Craving), thúc đẩy Phản hồi (Response) và mang lại Phần thưởng (Reward)."
     },
     {
       "id": "q3",
       "question": "Trong vòng lặp thói quen, giai đoạn nào đóng vai trò là 'động lực thúc đẩy' (motivational force) đằng sau mọi hành vi?",
       "options": [
-        "Gợi ý (Cue).",
-        "Khát khao (Craving).",
-        "Phản hồi (Response).",
-        "Phần thưởng (Reward)."
+        "Khao khát (Craving) - vì nếu không có mong muốn đổi trạng thái nội tâm, con người sẽ không có bất kỳ lý do nào để hành động.",
+        "Gợi ý (Cue) - vì đây là tác nhân kích thích ban đầu xuất hiện từ môi trường ngoài để đánh thức toàn bộ các giác quan cơ thể.",
+        "Phản hồi (Response) - vì đây là hành vi giải phóng năng lượng và trực tiếp quyết định việc thói quen có thành công hay không.",
+        "Phần thưởng (Reward) - vì đây là mục tiêu tối hậu mang lại cảm giác thỏa mãn giúp hoàn tất toàn bộ chu trình của hành vi."
       ],
-      "correctIndex": 1,
-      "explanation": "Không có khát khao, bạn không có lý do để hành động. Thứ bạn khát khao không phải bản thân hành động, mà là sự thay đổi trong trạng thái nội tâm mà hành động đó mang lại."
+      "correctIndex": 0,
+      "explanation": "Không có khao khát thì không có lý do để hành động. Thứ ta khao khát không phải bản thân hành vi mà là sự thay đổi trạng thái nội tâm mà nó đem lại."
     },
     {
       "id": "q4",
       "question": "Tại sao một người không thực sự khát khao việc 'hút thuốc lá' hay 'bật tivi', mà thực chất họ đang khát khao điều gì?",
       "options": [
-        "Họ khát khao khói thuốc làm đen phổi và tia bức xạ từ màn hình tivi.",
-        "Họ khát khao trạng thái cảm xúc được giải tỏa căng thẳng hoặc trạng thái được phân tâm khỏi sự buồn chán mà hành động đó đem lại.",
-        "Họ muốn tiêu xài tiền bạc để kích thích nền kinh tế quốc gia phát triển.",
-        "Họ bị thôi miên bởi các tập đoàn truyền thông đa quốc gia."
+        "Họ khao khát được thỏa mãn các kích thích giác quan trực tiếp từ khói thuốc và hình ảnh sống động trên màn hình tivi mỗi ngày.",
+        "Họ khao khát thể hiện bản thân và khẳng định phong cách sống tự do, không bị ràng buộc bởi các quy chuẩn xã hội nghiêm ngặt.",
+        "Họ khao khát tìm kiếm các thông tin thời sự mới nhất hoặc nạp thêm năng lượng nicotin để duy trì sự tỉnh táo cho công việc.",
+        "Họ khao khát sự biến chuyển cảm xúc nội tâm: giải tỏa căng thẳng thần kinh hoặc chấm dứt cảm giác buồn chán trống rỗng."
       ],
-      "correctIndex": 1,
-      "explanation": "Khát khao luôn nhắm vào sự biến chuyển cảm xúc (từ bồn chồn sang bình tĩnh, từ buồn chán sang phấn khích), thói quen chỉ là công cụ trung gian đáp ứng khát khao đó."
+      "correctIndex": 3,
+      "explanation": "Khao khát luôn nhắm vào sự biến đổi cảm xúc (từ bồn chồn sang dễ chịu, từ buồn chán sang phân tâm giải trí); thói quen chỉ là giải pháp trung gian."
     },
     {
       "id": "q5",
       "question": "Giai đoạn 'Phản hồi' (Response) có thể diễn ra hay không phụ thuộc vào hai yếu tố then chốt nào?",
       "options": [
-        "Mức độ giàu có của bạn và thời tiết ngày hôm đó.",
-        "Mức độ động lực của bạn (khát khao có lớn hơn lực cản không) và khả năng thực tế của bạn (bạn có đủ năng lực làm việc đó không).",
-        "Ý kiến đóng góp của những người theo dõi trên mạng xã hội.",
-        "Sự xuất hiện của các ngôi sao may mắn trên bầu trời đêm."
+        "Cường độ của tín hiệu gợi ý môi trường và số lượng người cùng tham gia thực hiện hành vi đó với bạn tại cùng thời điểm.",
+        "Mức độ tỉnh táo của hệ thần kinh vào thời điểm đó và sự hỗ trợ kịp thời từ các công cụ kỹ thuật số theo dõi hành vi cá nhân.",
+        "Mức độ động lực (khao khát có đủ lớn để vượt qua lực cản không) và khả năng thực tế (bạn có đủ năng lực làm điều đó không).",
+        "Mức độ am hiểu lý thuyết về thói quen của cá nhân và kinh nghiệm xử lý các tình huống khủng hoảng tâm lý trong quá khứ."
       ],
-      "correctIndex": 1,
-      "explanation": "Một phản hồi chỉ xuất hiện khi khát khao đủ mạnh để vượt qua ma sát và hành vi đó nằm trong tầm năng lực thể chất hoặc tinh thần của bạn tại thời điểm đó."
+      "correctIndex": 2,
+      "explanation": "Phản hồi chỉ diễn ra khi động lực đủ lớn để vượt qua ma sát và hành vi đó nằm trong tầm năng lực thể chất hoặc tinh thần của bạn."
     },
     {
       "id": "q6",
       "question": "Hai mục đích sinh học nguyên thủy tối thượng của 'Phần thưởng' (Reward) trong tiến hóa là gì?",
       "options": [
-        "1. Thỏa mãn khát khao của chúng ta và 2. Dạy cho não bộ biết hành động nào đáng được ghi nhớ cho tương lai.",
-        "1. Làm cho chúng ta giàu có hơn và 2. Khoe khoang với các cá thể khác trong bầy.",
-        "1. Tiêu diệt các đối thủ cạnh tranh và 2. Kéo dài giấc ngủ sinh học.",
-        "1. Giảm thiểu nhịp tim và 2. Kích thích tăng trưởng chiều cao xương khớp."
+        "1. Kéo dài tuổi thọ của cá thể và 2. Nâng cao vị thế cạnh tranh sinh tồn của bản thân trước các loài săn mồi ngoài tự nhiên.",
+        "1. Thỏa mãn khao khát của chúng ta trong khoảnh khắc và 2. Dạy cho não bộ biết hành động nào đáng được ghi nhớ cho tương lai.",
+        "1. Kích thích sự phát triển kích thước vỏ não và 2. Loại bỏ hoàn toàn cảm giác sợ hãi trước những biến cố bất ngờ môi trường.",
+        "1. Tối ưu hóa việc tiêu hao năng lượng cơ bắp và 2. Duy trì trạng thái cân bằng nội môi sinh học cho toàn bộ cơ thể dài lâu."
       ],
-      "correctIndex": 0,
-      "explanation": "Phần thưởng mang lại sự thỏa mãn tức thì (xoa dịu cơn thèm) và cung cấp tín hiệu phản hồi để não bộ lưu vết: 'Hành vi này giúp ta dễ chịu, lần sau gặp gợi ý này hãy làm lại'."
+      "correctIndex": 1,
+      "explanation": "Phần thưởng có 2 mục đích sinh học cốt lõi: thỏa mãn cơn thèm khát trong hiện tại và dạy cho não bộ lưu nhớ hành vi hiệu quả cho tương lai."
     },
     {
       "id": "q7",
-      "question": "Nếu loại bỏ bất kỳ một trong bốn giai đoạn (Gợi ý, Khát khao, Phản hồi, Phần thưởng), điều gì sẽ xảy ra với thói quen?",
+      "question": "Nếu loại bỏ bất kỳ một trong bốn giai đoạn (Gợi ý, Khao khát, Phản hồi, Phần thưởng), điều gì sẽ xảy ra với thói quen?",
       "options": [
-        "Thói quen vẫn vận hành bình thường nhờ sức mạnh của tiềm thức.",
-        "Hành vi sẽ không bao giờ trở thành một thói quen tự động hóa được.",
-        "Thói quen sẽ chuyển hóa thành một căn bệnh tâm lý di truyền.",
-        "Não bộ sẽ tự động tạo ra một giai đoạn thứ năm để thay thế."
+        "Hành vi sẽ không bao giờ trở thành thói quen tự động hóa hoàn chỉnh; thói quen sẽ bị triệt tiêu ở mắt xích bị thiếu hụt.",
+        "Thói quen vẫn tiếp tục vận hành bình thường nhờ vào sức mạnh quán tính của tiềm thức và các phản xạ vận động đã ghi sâu từ trước.",
+        "Não bộ sẽ tự động huy động năng lực ý chí để bù đắp cho giai đoạn bị khuyết thiếu nhằm duy trì tính liên tục của hành động đó.",
+        "Hành vi sẽ chuyển hóa thành một trạng thái ám ảnh cưỡng chế tâm lý do sự mất cân bằng giữa các chất dẫn truyền thần kinh não bộ."
       ],
-      "correctIndex": 1,
-      "explanation": "Không có gợi ý -> thói quen không khởi phát; không có khát khao -> không có động lực; hành vi quá khó -> không thể phản hồi; không có phần thưởng -> não không lưu nhớ."
+      "correctIndex": 0,
+      "explanation": "Thiếu gợi ý -> không khởi phát; thiếu khao khát -> không có động lực; hành vi quá khó -> không thể phản hồi; thiếu phần thưởng -> não không lưu nhớ."
     },
     {
       "id": "q8",
       "question": "Bốn Quy luật Thay đổi Hành vi (Four Laws of Behavior Change) do James Clear đúc kết để XÂY DỰNG thói quen tốt tương ứng với 4 bước là gì?",
       "options": [
-        "1. Make it obvious (Khiến nó rõ ràng) -> 2. Make it attractive (Khiến nó hấp dẫn) -> 3. Make it easy (Khiến nó dễ dàng) -> 4. Make it satisfying (Khiến nó thỏa mãn).",
-        "1. Nghĩ lớn -> 2. Làm nhanh -> 3. Thất bại sớm -> 4. Đứng dậy mạnh mẽ.",
-        "1. Lập ngân sách -> 2. Thuê cố vấn -> 3. Mua sắm dụng cụ -> 4. Bắt đầu tập.",
-        "1. Cắt đứt quan hệ -> 2. Nhịn ăn gián đoạn -> 3. Thiền định -> 4. Viết nhật ký."
+        "1. Khiến nó có kế hoạch rõ ràng -> 2. Giàu cảm hứng -> 3. Có tính kỷ luật -> 4. Đem lại lợi ích thiết thực dài lâu.",
+        "1. Thiết lập mục tiêu rõ ràng -> 2. Động lực mạnh mẽ -> 3. Nỗ lực ý chí cao -> 4. Tự khen thưởng thành tích đạt được.",
+        "1. Nhận thức môi trường sống -> 2. Khơi dậy khát khao -> 3. Rèn luyện sự kiên nhẫn -> 4. Ghi nhận sự tiến bộ bản thân.",
+        "1. Khiến nó rõ ràng (Make it obvious) -> 2. Hấp dẫn (Make it attractive) -> 3. Dễ dàng (Make it easy) -> 4. Thỏa mãn."
       ],
-      "correctIndex": 0,
-      "explanation": "4 quy luật này ánh xạ hoàn hảo vào 4 giai đoạn sinh học thần kinh: Gợi ý -> Rõ ràng; Khát khao -> Hấp dẫn; Phản hồi -> Dễ dàng; Phần thưởng -> Thỏa mãn."
+      "correctIndex": 3,
+      "explanation": "4 quy luật xây dựng thói quen tốt: 1. Khiến nó rõ ràng (Gợi ý); 2. Khiến nó hấp dẫn (Khao khát); 3. Khiến nó dễ dàng (Phản hồi); 4. Khiến nó thỏa mãn (Phần thưởng)."
     },
     {
       "id": "q9",
       "question": "Để PHÁ BỎ một thói quen xấu, Bốn Quy luật Nghịch đảo (Inversion of the Four Laws) được phát biểu chính xác như thế nào?",
       "options": [
-        "1. Khiến nó vô hình (Invisible) -> 2. Khiến nó kém hấp dẫn (Unattractive) -> 3. Khiến nó khó khăn (Difficult) -> 4. Khiến nó không thỏa mãn (Unsatisfying).",
-        "1. Trừng phạt bản thân -> 2. Nhịn đói -> 3. Khóa cửa phòng -> 4. Tự cô lập.",
-        "1. Quên nó đi -> 2. Ghét bỏ nó -> 3. Than vãn về nó -> 4. Từ bỏ hy vọng.",
-        "1. Đốt cháy quá khứ -> 2. Đổi nghề nghiệp -> 3. Tìm bạn mới -> 4. Xóa mạng xã hội."
+        "1. Loại bỏ mục tiêu xấu -> 2. Kìm nén ham muốn tiêu cực -> 3. Tăng cường nỗ lực ý chí -> 4. Trừng phạt khi tái phạm.",
+        "1. Né tránh hoàn cảnh cũ -> 2. Tự thuyết phục bằng lý trí -> 3. Nhờ người giám sát nhắc nhở -> 4. Tước bỏ quyền lợi.",
+        "1. Khiến nó vô hình (Invisible) -> 2. Kém hấp dẫn (Unattractive) -> 3. Khó khăn (Difficult) -> 4. Không thỏa mãn.",
+        "1. Lãng quên gợi ý kích thích -> 2. Gây áp lực tâm lý -> 3. Tự cô lập khỏi xã hội -> 4. Chấp nhận thất bại tạm thời."
       ],
-      "correctIndex": 0,
-      "explanation": "Bằng cách đảo ngược 4 quy luật, ta triệt tiêu thói quen xấu tận gốc: giấu gợi ý đi, làm mất đi sức hấp dẫn, tăng tối đa rào cản thực hiện và gán hậu quả tức thì."
+      "correctIndex": 2,
+      "explanation": "Đảo ngược 4 quy luật để xóa thói quen xấu: 1. Khiến nó vô hình; 2. Khiến nó kém hấp dẫn; 3. Khiến nó khó khăn; 4. Khiến nó không thỏa mãn."
     },
     {
       "id": "q10",
       "question": "Giai đoạn nào trong vòng lặp 4 bước thuộc về 'Pha vấn đề' (The Problem Phase) và giai đoạn nào thuộc về 'Pha giải pháp' (The Solution Phase)?",
       "options": [
-        "Pha vấn đề: Gợi ý & Khát khao; Pha giải pháp: Phản hồi & Phần thưởng.",
-        "Pha vấn đề: Toàn bộ 4 giai đoạn đều là vấn đề.",
-        "Pha vấn đề: Phản hồi & Phần thưởng; Pha giải pháp: Gợi ý & Khát khao.",
-        "Pha vấn đề chỉ xuất hiện ở thói quen xấu, thói quen tốt chỉ có pha giải pháp."
+        "Pha vấn đề gồm Gợi ý và Phản hồi (khi nhận diện và thử nghiệm); Pha giải pháp gồm Khao khát và Phần thưởng (khi gặt hái kết quả).",
+        "Pha vấn đề gồm Gợi ý và Khao khát (khi bạn nhận ra điều cần đổi); Pha giải pháp gồm Phản hồi và Phần thưởng (khi bạn hành động).",
+        "Pha vấn đề gồm Khao khát và Phản hồi (khi nỗ lực tìm cách); Pha giải pháp gồm Gợi ý và Phần thưởng (khi củng cố niềm tin mới).",
+        "Toàn bộ 4 giai đoạn đều thuộc về pha vấn đề trong thói quen xấu, và đều thuộc về pha giải pháp đối với các thói quen lành mạnh."
       ],
-      "correctIndex": 0,
-      "explanation": "Pha vấn đề là khi bạn nhận ra có điều gì đó cần thay đổi (gợi ý nhận biết, khát khao mong muốn đổi trạng thái); Pha giải pháp là khi bạn hành động và gặt hái kết quả xoa dịu vấn đề đó."
+      "correctIndex": 1,
+      "explanation": "Pha vấn đề (Gợi ý & Khao khát) là khi bạn nhận ra có điều gì đó cần thay đổi; Pha giải pháp (Phản hồi & Phần thưởng) là khi bạn hành động để giải quyết vấn đề đó."
     },
     {
       "id": "q11",
-      "question": "Một người nhìn thấy thông báo tin nhắn trên điện thoại rung lên (Gợi ý). Họ muốn biết ai đã nhắn tin cho mình (Khát khao). Họ cầm điện thoại lên mở khóa (Phản hồi). Họ đọc được tin nhắn vui từ bạn thân (Phần thưởng). Vòng lặp này minh họa cho:",
+      "question": "Một người nhìn thấy thông báo tin nhắn rung lên, muốn biết ai nhắn, mở khóa điện thoại và đọc được tin nhắn vui. Vòng lặp này minh họa cho:",
       "options": [
-        "Một hành vi ngẫu nhiên không thể giải thích bằng sinh học.",
-        "Cơ chế 4 bước khép kín vận hành trong vòng vài giây biến việc kiểm tra điện thoại thành phản xạ vô thức.",
-        "Dấu hiệu của việc thiết bị điện tử bị nhiễm mã độc.",
-        "Nhu cầu giao tiếp chỉ có ở loài linh trưởng bậc cao."
+        "Chu trình 4 bước diễn ra tự động trong tích tắc: Gợi ý (rung), Khao khát (tò mò), Phản hồi (mở khóa), Phần thưởng (vui vẻ).",
+        "Trạng thái nghiện thiết bị số nghiêm trọng do hệ thống kiểm soát xung động của thùy trán đã bị mất khả năng ức chế hành vi.",
+        "Một hành vi ngẫu nhiên thuần túy xuất phát từ phản xạ có điều kiện không điều kiện của các thụ thể cảm giác xúc giác trên da.",
+        "Quá trình tiếp nhận thông tin thụ động không liên quan đến cơ chế học tập phần thưởng hay sự củng cố dopamine của não bộ."
       ],
-      "correctIndex": 1,
-      "explanation": "Ví dụ đời thường này cho thấy vòng lặp 4 bước diễn ra hàng trăm lần mỗi ngày trong vô thức, giải thích vì sao ta vô tình mở điện thoại mà không hề suy nghĩ."
+      "correctIndex": 0,
+      "explanation": "Ví dụ đời thường này cho thấy chu trình 4 bước diễn ra hàng trăm lần mỗi ngày trong vô thức, biến hành vi cầm điện thoại thành một phản xạ tự động."
     },
     {
       "id": "q12",
       "question": "Tại sao việc chỉ dùng 'nghị lực ý chí' để cưỡng chế bản thân tập thể dục mà không áp dụng 4 quy luật lại khiến bạn nhanh chóng kiệt sức?",
       "options": [
-        "Vì cơ bắp không thể phát triển nếu không có thực phẩm bổ sung chuyên dụng.",
-        "Vì bạn đang cố thực hiện hành vi mà gợi ý thì mờ nhạt, cảm giác thì kém hấp dẫn, rào cản thì quá khó và kết quả thì chưa thấy thỏa mãn ngay lập tức.",
-        "Vì ý chí của con người được lập trình để chống lại việc vận động thể chất.",
-        "Bởi vì tập thể dục làm suy giảm lượng oxy lên não bộ vĩnh viễn."
+        "Vì cơ thể con người không được thiết kế về mặt sinh học để thực hiện các bài tập vận động cường độ cao trong nhiều ngày liên tục.",
+        "Vì việc dùng ý chí đòi hỏi sự tập trung liên tục của bán cầu não phải khiến lượng đường huyết trong não suy giảm nhanh chóng.",
+        "Vì tập thể dục mà không có sự đồng hành của huấn luyện viên cá nhân sẽ luôn tạo ra cảm giác đơn độc và hoài nghi về hiệu quả.",
+        "Vì bạn đang bơi ngược dòng khi gợi ý vô hình, hành động kém hấp dẫn, rào cản quá khó và kết quả không thỏa mãn tức thì."
       ],
-      "correctIndex": 1,
-      "explanation": "Chống lại cả 4 quy luật tự nhiên của não bộ bằng ý chí trần trụi cũng giống như chèo thuyền ngược dòng thác xiết; bạn sẽ kiệt sức trước khi thói quen kịp hình thành."
+      "correctIndex": 3,
+      "explanation": "Chống lại cả 4 quy luật tự nhiên bằng ý chí trần trụi cũng giống như chèo thuyền ngược dòng thác; bạn sẽ kiệt sức trước khi thói quen kịp định hình."
     },
     {
       "id": "q13",
       "question": "Mối liên hệ giữa Quy luật 1 (Khiến nó rõ ràng) và nhận thức môi trường của các giác quan là gì?",
       "options": [
-        "Quy luật 1 chỉ có tác dụng trong môi trường phòng tối cách âm.",
-        "Các gợi ý thị giác và môi trường chiếm phần lớn tài nguyên xử lý của não người; làm gợi ý trở nên hiển hiện rõ ràng trước mắt sẽ kích hoạt vòng lặp hành vi tự nhiên nhất.",
-        "Khứu giác là giác quan duy nhất có khả năng kích hoạt thói quen nguyên tử.",
-        "Gợi ý càng mờ ảo và bí ẩn thì càng kích thích sự tò mò của con người."
+        "Thính giác là giác quan nhạy bén nhất để kích hoạt hành vi, do đó thói quen nên được gắn liền với âm thanh báo thức.",
+        "Các giác quan con người hoạt động độc lập với thói quen, do đó việc thay đổi không gian sống không ảnh hưởng hành vi.",
+        "Thị giác chiếm phần lớn tài nguyên của não; biến gợi ý thành tín hiệu trực quan là cách kích hoạt hành vi tự nhiên nhất.",
+        "Gợi ý càng ẩn giấu tinh vi và bất ngờ thì càng kích thích sự tò mò và tạo ra động lực thực hiện hành vi mạnh mẽ cho não."
       ],
-      "correctIndex": 1,
-      "explanation": "Hơn 50% dung lượng não bộ dành cho việc xử lý thị giác; biến gợi ý thành tín hiệu hiển hiện trực quan là cách hiệu quả nhất để kích hoạt hành vi mong muốn."
+      "correctIndex": 2,
+      "explanation": "Khoảng 50% dung lượng não bộ dành cho việc xử lý thị giác; biến gợi ý thành tín hiệu trực quan hiển hiện trước mắt là cách hiệu quả nhất để kích hoạt thói quen."
     },
     {
       "id": "q14",
       "question": "Nếu một hành động mang lại cảm giác 'không thỏa mãn' (vi phạm Quy luật 4), não bộ sẽ phản ứng như thế nào trong tương lai khi gặp lại gợi ý cũ?",
       "options": [
-        "Não bộ sẽ bỏ qua gợi ý đó hoặc chủ động chỉ đạo cơ thể né tránh hành động, ngăn không cho thói quen được củng cố.",
-        "Não bộ sẽ bắt buộc cơ thể phải làm lại hành động đó gấp đôi số lần.",
-        "Não bộ sẽ tự động xóa sạch vùng ký ức liên quan đến gợi ý đó.",
-        "Không có phản ứng nào vì cảm xúc không liên quan đến học tập hành vi."
+        "Não bộ sẽ kích hoạt phản ứng bù trừ dopamine để ép buộc cơ thể phải lặp lại hành động đó nhiều lần hơn cho đến khi đạt thỏa mãn.",
+        "Não bộ sẽ lưu tín hiệu cảnh báo và có xu hướng né tránh hành động đó, ngăn không cho thói quen được củng cố trong tương lai.",
+        "Não bộ sẽ tự động xóa sạch toàn bộ ký ức thị giác và thính giác liên quan đến gợi ý đó để giải phóng dung lượng hồi hải mã.",
+        "Não bộ không có phản ứng thay đổi nào vì cảm giác thỏa mãn chỉ là một trạng thái cảm xúc chứ không ảnh hưởng đến phản xạ."
       ],
-      "correctIndex": 0,
-      "explanation": "Định luật hiệu ứng của Thorndike chỉ rõ: trải nghiệm khó chịu hay trừng phạt sẽ phát tín hiệu ức chế thần kinh, khiến hành vi bị triệt tiêu dần khỏi danh mục phản xạ."
+      "correctIndex": 1,
+      "explanation": "Quy luật hiệu ứng của Thorndike chỉ rõ: trải nghiệm khó chịu hay không thỏa mãn sẽ phát tín hiệu ức chế thần kinh, khiến não bộ né tránh lặp lại hành vi trong tương lai."
     },
     {
       "id": "q15",
-      "question": "Bốn Quy luật Thay đổi Hành vi có thể xem như là gì đối với tâm lý học con người?",
+      "question": "Bốn Quy luật Thay đổi Hành vi có thể xem như là gì đối với tâm lý học hành vi con người?",
       "options": [
-        "Một bộ quy tắc đạo đức tôn giáo nghiêm ngặt bắt buộc mọi người phải tuân thủ.",
-        "Một bộ khung tích hợp các công cụ đòn bẩy tâm lý dựa trên cơ chế sinh học tiến hóa, giúp ta dễ dàng định hình hoặc tái cấu trúc bất kỳ thói quen nào.",
-        "Một công thức toán học trừu tượng chỉ áp dụng được trong môi trường máy tính.",
-        "Một phương pháp thôi miên chữa bệnh của thế kỷ 19."
+        "Một bộ công cụ tích hợp đòn bẩy tâm lý học dựa trên cơ chế tiến hóa não bộ, giúp ta chủ động thiết kế hoặc tái cấu trúc thói quen.",
+        "Một tập hợp các nguyên tắc đạo đức nghiêm ngặt đòi hỏi cá nhân phải rèn luyện ý chí khắc kỷ để đạt tới sự hoàn hảo nhân cách.",
+        "Một học thuyết phân tâm học cổ điển tập trung vào việc giải mã các xung đột vô thức bị dồn nén từ thời thơ ấu trong nhân cách.",
+        "Một mô hình quản trị hiệu suất tổ chức thuần túy chỉ có thể áp dụng hiệu quả trong môi trường doanh nghiệp và huấn luyện thể thao."
       ],
-      "correctIndex": 1,
-      "explanation": "4 quy luật cung cấp một bộ công cụ thực hành vạn năng dựa trên cấu trúc sinh học thần kinh, cho phép con người chủ động can thiệp vào bất kỳ mắt xích nào của hành vi."
+      "correctIndex": 0,
+      "explanation": "4 quy luật cung cấp một bộ đòn bẩy vạn năng dựa trên cấu trúc sinh học tiến hóa của hệ thần kinh, cho phép con người can thiệp hiệu quả vào bất kỳ thói quen nào."
     }
   ]
 }

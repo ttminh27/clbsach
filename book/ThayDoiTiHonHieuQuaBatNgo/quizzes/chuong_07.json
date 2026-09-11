@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Nghiên cứu mang tính bước ngoặt của nhà nghiên cứu Lee Robins năm 1971 về các binh sĩ Mỹ nghiện heroin trong chiến tranh Việt Nam đã phát hiện ra sự thật kinh ngạc nào?",
+      "question": "Phát hiện chấn động của nhà nghiên cứu Lee Robins năm 1971 về các binh sĩ Mỹ từng nghiện heroin ở Việt Nam là gì?",
       "options": [
-        "Khoảng 20% binh lính nghiện nặng ở Việt Nam, nhưng khi trở về nhà tại Mỹ, có tới 90% trong số họ tự động cai nghiện hoàn toàn mà không cần qua trại phục hồi chức năng.",
-        "100% binh sĩ nghiện ma túy tiếp tục tái nghiện suốt phần đời còn lại.",
-        "Heroin ở Việt Nam không có tính chất gây nghiện sinh học thực sự.",
-        "Quân đội Mỹ đã phát minh ra loại vắc-xin miễn nhiễm với chất kích thích."
+        "Hầu hết tất cả binh lính đều bị phụ thuộc sinh học vĩnh viễn và không bao giờ có thể cai nghiện thành công.",
+        "Các binh sĩ chỉ có thể từ bỏ heroin sau khi trải qua ít nhất hai năm điều trị trong trại cai nghiện tập trung.",
+        "Khoảng 90% binh sĩ nghiện đã dứt bỏ hoàn toàn việc dùng heroin khi trở về nhà mà không cần trị liệu đặc biệt.",
+        "Tỷ lệ tái nghiện của những quân nhân phục viên tại Mỹ cao gấp đôi so với thời gian họ còn đóng quân tại chỗ."
       ],
-      "correctIndex": 0,
-      "explanation": "Phát hiện này làm đảo lộn quan niệm y khoa thời đó: sự nghiện ngập gắn chặt với bối cảnh môi trường; khi toàn bộ gợi ý (căng thẳng chiến trường, bạn nghiện, sự sẵn có của thuốc) biến mất, thói nghiện tự sụp đổ."
+      "correctIndex": 2,
+      "explanation": "Robins phát hiện ra rằng khi trở về Mỹ, chỉ 5% lính tái nghiện trong 1 năm và 12% trong 3 năm. Khoảng 9/10 binh sĩ đã dứt bỏ hoàn toàn cơn nghiện khi môi trường thay đổi triệt để."
     },
     {
       "id": "q2",
-      "question": "Tại sao tỷ lệ tái nghiện của những người nghiện ma túy thông thường sau khi rời trại cai nghiện trở về nhà lại cao tới 90%?",
+      "question": "Tại sao tỷ lệ tái nghiện của những người từ trại cai nghiện trở về nhà thông thường lại lên đến 90%?",
       "options": [
-        "Vì trại cai nghiện không cung cấp đủ chế độ dinh dưỡng cần thiết.",
-        "Vì họ quay trở lại đúng môi trường sống cũ - nơi chứa đầy các gợi ý xã hội, con người và bối cảnh quen thuộc đã từng kích hoạt cơn thèm thuốc trước đây.",
-        "Vì gen di truyền của họ không có khả năng chống lại chất gây nghiện.",
-        "Bởi vì các loại thuốc cai nghiện làm tổn thương vĩnh viễn hệ thần kinh."
+        "Do các phác đồ điều trị y tế hiện đại chưa thể loại bỏ được độc tố tích tụ sâu bên trong tủy xương con người.",
+        "Vì họ quay trở lại đúng môi trường sống cũ ngập tràn các tín hiệu và bối cảnh từng kích hoạt cơn nghiện trước đây.",
+        "Vì sự nhu nhược về mặt đạo đức và bản tính thiếu kỷ luật bẩm sinh khiến họ không thể chống lại cám dỗ xã hội.",
+        "Do hệ miễn dịch của những người này bị suy giảm vĩnh viễn khiến họ mất đi khả năng tự chủ về mặt hành vi."
       ],
       "correctIndex": 1,
-      "explanation": "Trong trại cai nghiện, gợi ý bị triệt tiêu nên người bệnh bình phục; nhưng khi trả họ về đúng bối cảnh cũ, các gợi ý lập tức kích hoạt lại toàn bộ vòng lặp khát khao cũ."
+      "explanation": "Trong trại cai nghiện, các tín hiệu bị loại bỏ; nhưng khi trở về nhà với đầy đủ bạn nghiện, căng thẳng và địa điểm cũ, các tín hiệu lập tức kích hoạt lại thói quen cũ."
     },
     {
       "id": "q3",
-      "question": "Chương 7 đã bóc trần 'huyền thoại về sự tự chủ và kỷ luật thép' như thế nào?",
+      "question": "Nghiên cứu hiện đại trong Chương 7 đã bóc trần huyền thoại về những người có 'kỷ luật thép phi thường' như thế nào?",
       "options": [
-        "Những người có vẻ ngoài kỷ luật phi thường thực chất không phải có ý chí siêu phàm để chống cự cám dỗ, mà là họ cấu trúc cuộc sống để KHÔNG PHẢI đối mặt với cám dỗ.",
-        "Khả năng tự chủ là một năng lực siêu nhiên chỉ có ở các thiền sư đắc đạo.",
-        "Kỷ luật cá nhân là một khái niệm hoàn toàn lừa đảo do các công ty tiếp thị bịa ra.",
-        "Người có kỷ luật cao là những người không có cảm xúc hỷ nộ ái ố bình thường."
+        "Họ không hề có sức mạnh ý chí siêu phàm mà là những người khéo léo kiến thiết cuộc sống để ít đối mặt với cám dỗ.",
+        "Họ sở hữu cấu trúc vỏ não trước trán vượt trội giúp kháng cự mọi cám dỗ mà không hề tiêu hao năng lượng tinh thần.",
+        "Khả năng kỷ luật cao thực chất chỉ là một phẩm chất bẩm sinh được quy định bởi các chuỗi gen di truyền cá nhân.",
+        "Họ là những người rèn luyện được khả năng triệt tiêu hoàn toàn cảm xúc và ham muốn vật chất ngay từ thời niên thiếu."
       ],
       "correctIndex": 0,
-      "explanation": "Nghiên cứu tâm lý học hiện đại chứng minh: người 'kỷ luật thép' dành ít thời gian hơn trong các tình huống cám dỗ. Tránh né cám dỗ dễ dàng hơn nhiều so với việc cưỡng lại cám dỗ."
+      "explanation": "Người kiểm soát bản thân tốt nhất là người ít phải dùng đến sự tự chủ nhất. Họ xây dựng môi trường sống khuôn phép để không phải tốn ý chí cưỡng lại cám dỗ."
     },
     {
       "id": "q4",
-      "question": "Quy luật Nghịch đảo của Nguyên tắc 1 (The Inversion of the 1st Law) được áp dụng để triệt tiêu thói quen xấu là:",
+      "question": "Nghịch đảo của Nguyên tắc số 1 (Khiến nó rõ ràng) được tác giả đề xuất để xóa bỏ thói quen xấu là gì?",
       "options": [
-        "Make it invisible (Khiến nó trở nên vô hình).",
-        "Make it painful (Khiến nó đau đớn).",
-        "Make it illegal (Khiến nó phi pháp).",
-        "Make it boring (Khiến nó nhàm chán)."
+        "Khiến cho hành vi xấu trở nên đau đớn và tạo ra cảm giác sợ hãi tột cùng mỗi khi nghĩ đến việc thực hiện nó.",
+        "Gia tăng các hình phạt tài chính thật nặng nề nhằm răn đe bản thân không được phép tái diễn sai lầm trong tương lai.",
+        "Tìm kiếm một người giám sát nghiêm khắc để theo dõi và kiểm soát mọi cử chỉ hành động của bạn từng phút giây.",
+        "Khiến cho tín hiệu kích hoạt trở nên không còn rõ ràng hoặc biến nó thành vô hình trong môi trường sống của bạn."
       ],
-      "correctIndex": 0,
-      "explanation": "Nếu muốn loại bỏ một thói quen tiêu cực, bước đầu tiên và cơ bản nhất là loại bỏ gợi ý kích hoạt nó ra khỏi tầm mắt và môi trường sống của bạn."
+      "correctIndex": 3,
+      "explanation": "Nghịch đảo của Quy tắc 1 là 'Khiến nó không còn rõ ràng' (Make it invisible) - loại bỏ hoặc giảm bớt sự tiếp xúc với tín hiệu kích hoạt thói quen xấu."
     },
     {
       "id": "q5",
-      "question": "Hiện tượng 'Cue-induced craving' (Cơn thèm do gợi ý kích hoạt) giải thích vì sao một người cai nghiện có thể tái phát cơn thèm sau nhiều năm dù cơ thể đã hết phụ thuộc sinh học?",
+      "question": "Câu chuyện nhà trị liệu Patty Olwell thèm hút thuốc trở lại khi cưỡi ngựa sau nhiều năm cai thuốc chứng minh điều gì?",
       "options": [
-        "Vì một khi đường mòn thần kinh của thói quen đã được ghi vào não bộ, nó gần như không bao giờ bị xóa bỏ hoàn toàn; chỉ cần gợi ý cũ xuất hiện, cơn thèm lập tức thức giấc.",
-        "Vì chất gây nghiện vẫn còn lưu trữ trong tủy xương sau 50 năm.",
-        "Vì não bộ tự động sản sinh ra chất gây nghiện khi gặp thời tiết lạnh.",
-        "Do sự can thiệp của các yếu tố tâm linh không giải thích được."
+        "Mọi nỗ lực từ bỏ thói quen xấu đều vô ích vì cơ thể con người không bao giờ thoát khỏi sự phụ thuộc vào nicotine.",
+        "Nicotine có khả năng lưu trữ ký ức hóa học vĩnh viễn trong các tế bào phổi và sẵn sàng bùng phát khi vận động mạnh.",
+        "Các rãnh thần kinh thói quen đã mã hóa trong não bộ không bị xóa sạch và sẽ bùng phát khi gặp lại tín hiệu môi trường.",
+        "Thói quen cưỡi ngựa làm giảm lượng oxy lên não khiến các cơ chế kiểm soát ý thức tạm thời bị tê liệt hoàn toàn."
       ],
-      "correctIndex": 0,
-      "explanation": "Não bộ không quên các giải pháp mang lại phần thưởng trong quá khứ; các rãnh thần kinh chỉ ở trạng thái ngủ yên và sẽ bùng cháy trở lại nếu tiếp xúc lại với gợi ý kích thích."
+      "correctIndex": 2,
+      "explanation": "Bạn có thể phá bỏ một thói quen nhưng không thể quên nó hoàn toàn; các đường mòn thần kinh đã mã hóa trong não bộ sẽ trỗi dậy ngay khi tín hiệu cũ xuất hiện trở lại."
     },
     {
       "id": "q6",
-      "question": "Tại sao chiến lược 'tự kiềm chế' (Self-control) chỉ là một giải pháp ngắn hạn chứ không thể là chiến lược dài hạn?",
+      "question": "Tại sao các kỹ thuật giáo dục gây xấu hổ (như chiếu ảnh phổi nám đen cho người hút thuốc) thường phản tác dụng?",
       "options": [
-        "Vì kiềm chế liên tục gây tiêu hao năng lượng tinh thần khổng lồ, và bạn chỉ cần một khoảnh khắc mệt mỏi, căng thẳng hay mất tập trung là cám dỗ sẽ chiến thắng.",
-        "Vì kiềm chế làm tăng nguy cơ mắc các bệnh tim mạch cấp tính.",
-        "Bởi vì xã hội luôn chế giễu những người cố gắng kiềm chế bản thân.",
-        "Vì kiềm chế chỉ có tác dụng với trẻ em dưới 10 tuổi."
+        "Vì hình ảnh gây sốc làm kích thích tuyến thượng thận tiết ra hormone khiến cơ thể cảm thấy hưng phấn và tò mò hơn.",
+        "Sự xấu hổ và lo lắng làm gia tăng mức độ căng thẳng, khiến người nghiện lại tìm về thói quen cũ để xoa dịu cảm xúc.",
+        "Người nghiện thuốc lá thường có xu hướng phản kháng tâm lý bằng cách gia tăng hành vi để chứng tỏ sự bất cần đời.",
+        "Não bộ con người tự động xóa bỏ những hình ảnh ghê rợn ra khỏi ký ức ngắn hạn nhằm bảo vệ trạng thái cân bằng nội môi."
       ],
-      "correctIndex": 0,
-      "explanation": "Bạn có thể kiềm chế cơn thèm 1 lần, 2 lần, nhưng bạn không thể thắng một môi trường độc hại hàng nghìn lần liên tiếp. Môi trường luôn chiến thắng ý chí trong dài hạn."
+      "correctIndex": 1,
+      "explanation": "Thói quen xấu tự nuôi dưỡng chính nó: bạn lo lắng về sức khỏe nên bạn hút thuốc để giảm lo lắng; làm họ sợ hãi càng thúc đẩy họ tìm đến thói quen quen thuộc để đối phó."
     },
     {
       "id": "q7",
-      "question": "Một người làm việc tại nhà liên tục bị phân tâm bởi việc kiểm tra điện thoại thông minh. Biện pháp nào sau đây thể hiện đúng tinh thần 'Khiến nó vô hình'?",
+      "question": "Hiện tượng 'Thèm muốn do tín hiệu gợi ý' (Cue-induced wanting) được các nhà khoa học mô tả như thế nào?",
       "options": [
-        "Để điện thoại ngay cạnh bàn phím máy tính và tự nhắc mình không được chạm vào nó.",
-        "Tắt chuông và để điện thoại ở một căn phòng khác trong suốt 4 tiếng làm việc buổi sáng.",
-        "Dán một tờ giấy ghi chữ 'Cấm sờ vào' lên mặt lưng của điện thoại.",
-        "Cài đặt một hình nền điện thoại thật xấu xí để làm mất hứng thú."
+        "Một tác nhân kích thích bên ngoài có thể châm ngòi cho cơn thèm muốn tức thì ngay cả khi ý thức chưa kịp nhận biết.",
+        "Cơn thèm muốn chỉ xuất hiện khi cơ thể thực sự bị thiếu hụt các chất dinh dưỡng hoặc năng lượng sinh học cần thiết.",
+        "Sự thèm muốn là kết quả của việc con người suy nghĩ và cân nhắc kỹ lưỡng về lợi ích của phần thưởng trong tương lai.",
+        "Hiện tượng này chỉ xảy ra ở những người có tổn thương thực thể tại vùng dưới đồi và hạch hạnh nhân trong não bộ."
       ],
-      "correctIndex": 1,
-      "explanation": "Để điện thoại ở phòng khác cắt đứt hoàn toàn gợi ý thị giác và âm thanh, đồng thời tạo ra khoảng cách vật lý khiến thói quen xấu trở nên vô hình."
+      "correctIndex": 0,
+      "explanation": "Thí nghiệm cho thấy chỉ cần cho người nghiện nhìn thấy hình ảnh chất gây nghiện trong 0,033 giây (quá nhanh để ý thức nhận ra), lộ trình phần thưởng trong não đã bùng nổ cơn thèm muốn."
     },
     {
       "id": "q8",
-      "question": "Nếu một người cảm thấy mình liên tục tự ti và đố kỵ sau khi lướt Instagram, hành động 'Khiến nó vô hình' phù hợp nhất là:",
+      "question": "Vì sao chiến lược 'tự kiềm chế' (Self-control) đơn thuần chỉ là một giải pháp ngắn hạn chứ không thể lâu dài?",
       "options": [
-        "Nhắn tin chỉ trích những người đăng ảnh đẹp trên mạng xã hội.",
-        "Hủy theo dõi (unfollow) hoặc ẩn các tài khoản kích hoạt cảm giác tiêu cực đó ra khỏi bảng tin của mình.",
-        "Cố gắng kiếm thật nhiều tiền để đăng ảnh sang chảnh hơn đối thủ.",
-        "Mua thêm nhiều tài khoản phụ để theo dõi ngầm."
+        "Bởi vì việc kiềm chế bản thân liên tục sẽ làm đảo lộn chu kỳ giấc ngủ tự nhiên và gây ra tình trạng suy nhược trầm trọng.",
+        "Xã hội hiện đại luôn khuyến khích việc tiêu dùng tự do khiến người kiềm chế cảm thấy bị cô lập và lạc lõng với bạn bè.",
+        "Ý chí kiềm chế chỉ có tác dụng đối với trẻ nhỏ chứ hoàn toàn mất đi hiệu lực khi con người bước vào tuổi trưởng thành.",
+        "Sức mạnh ý chí là tài nguyên hữu hạn; bạn không thể liên tục gồng mình chống lại các cám dỗ ngập tràn quanh môi trường."
       ],
-      "correctIndex": 1,
-      "explanation": "Loại bỏ nguồn phát gợi ý tiêu cực ra khỏi không gian số là cách tự vệ tâm lý hiệu quả nhất; bạn không thể đố kỵ với những thứ bạn không nhìn thấy."
+      "correctIndex": 3,
+      "explanation": "Trong ngắn hạn bạn có thể cưỡng lại cám dỗ một vài lần, nhưng về lâu dài ta là sản phẩm của môi trường; không ai có thể duy trì thói quen tốt mãi trong một môi trường đầy rẫy tín hiệu tiêu cực."
     },
     {
       "id": "q9",
-      "question": "Câu ngạn ngữ: 'Người khôn ngoan giải quyết vấn đề, bậc vĩ nhân tránh né vấn đề' được tác giả vận dụng để ca ngợi điều gì trong kiểm soát hành vi?",
+      "question": "Một người làm việc tại nhà thường xuyên bị chiếc điện thoại làm phân tâm nên áp dụng nguyên tắc Chương 7 như thế nào?",
       "options": [
-        "Sự hèn nhát và xu hướng bỏ trốn trước mọi thử thách cuộc sống.",
-        "Trí tuệ của việc chủ động thiết kế một môi trường sống trong sạch để không bao giờ phải tốn công sức đấu tranh với các cám dỗ độc hại.",
-        "Phương pháp ủy quyền toàn bộ công việc khó khăn cho cấp dưới giải quyết.",
-        "Thói quen sống ẩn dật trong rừng sâu tách biệt khỏi nền văn minh."
+        "Để điện thoại ngay trước bàn làm việc và luôn tự nhủ bản thân phải rèn luyện ý chí không được phép chạm tay vào màn hình.",
+        "Dán những tờ giấy ghi chú mang nội dung đe dọa lên màn hình điện thoại để nhắc nhở bản thân về mục tiêu sự nghiệp.",
+        "Để điện thoại ở một căn phòng khác hoàn toàn tách biệt trong suốt khoảng thời gian dành cho các công việc quan trọng.",
+        "Chuyển điện thoại sang chế độ rung và thường xuyên kiểm tra thông báo mỗi mười lăm phút để tránh cảm giác bồn chồn."
       ],
-      "correctIndex": 1,
-      "explanation": "Đỉnh cao của sự tự chủ không phải là chiến thắng trong cuộc vật lộn với cám dỗ, mà là thông minh cấu trúc cuộc sống để trận chiến đó không bao giờ xảy ra."
+      "correctIndex": 2,
+      "explanation": "Cách thực tế nhất để phá bỏ thói quen xấu là biến tín hiệu thành vô hình: cất điện thoại sang phòng khác trong vài giờ sẽ loại bỏ hoàn toàn kích thích gây mất tập trung."
     },
     {
       "id": "q10",
-      "question": "Tại sao việc loại bỏ một gợi ý xấu lại dễ dàng hơn nhiều so với việc cố gắng 'chống lại' khát khao khi gợi ý đó đã đập vào mắt?",
+      "question": "Nếu việc theo dõi mạng xã hội liên tục kích thích cảm giác ghen tị và tự ti, biện pháp hiệu quả nhất là gì?",
       "options": [
-        "Vì một khi gợi ý đã xâm nhập vào giác quan, chuỗi phản ứng sinh hóa dopamine và xung lực thần kinh lập tức được kích hoạt, khiến việc ngăn chặn hành vi trở nên cực kỳ gian nan.",
-        "Vì gợi ý thị giác luôn có trọng lượng vật lý đè nặng lên cơ thể.",
-        "Vì con người không có khả năng suy nghĩ khi mở mắt.",
-        "Bởi vì việc chống lại khát khao bị pháp luật nghiêm cấm."
+        "Tích cực đăng tải nhiều hình ảnh sang chảnh hơn để chứng tỏ giá trị bản thân và cạnh tranh trực tiếp với người khác.",
+        "Hủy theo dõi hoặc ẩn các tài khoản kích hoạt cảm xúc tiêu cực để triệt tiêu nguồn phát tín hiệu gây độc hại đó.",
+        "Cố gắng rèn luyện tinh thần bao dung và lòng vị tha bằng cách ngồi thiền ba mươi phút sau mỗi lần lướt mạng xã hội.",
+        "Bình luận chỉ trích những người phô trương cuộc sống hào nhoáng để giải tỏa sự ức chế tâm lý dồn nén bên trong mình."
       ],
-      "correctIndex": 0,
-      "explanation": "Ngăn chặn đám cháy từ lúc chưa có tia lửa dễ hơn dập tắt một ngọn lửa đã bén vào xăng; triệt tiêu gợi ý là dập tắt tia lửa ngay từ trong trứng nước."
+      "correctIndex": 1,
+      "explanation": "Bỏ theo dõi (unfollow) các tài khoản kích thích lòng đố kỵ là cách loại bỏ tận gốc tín hiệu thị giác, bảo vệ tâm trí khỏi các so sánh độc hại."
     },
     {
       "id": "q11",
-      "question": "Một người muốn cai nghiện đồ ăn vặt vào ban đêm nhưng trong tủ bếp luôn chứa đầy bánh ngọt và bim bim. Lời khuyên chính xác nhất dành cho người này là:",
+      "question": "Câu ngạn ngữ 'Người khôn ngoan giải quyết vấn đề, bậc vĩ nhân tránh né vấn đề' hàm ý điều gì trong kiểm soát thói quen?",
       "options": [
-        "Hãy rèn luyện ý chí bằng cách ngồi nhìn đống bánh kẹo đó 30 phút mỗi tối mà không ăn.",
-        "Loại bỏ toàn bộ đồ ăn vặt ra khỏi nhà; không mua chúng khi đi siêu thị, bởi vì nếu trong nhà không có sẵn thì gợi ý sẽ hoàn toàn vô hình.",
-        "Chỉ ăn bánh kẹo khi đồng hồ điểm đúng nửa đêm.",
-        "Thuê bảo vệ canh gác tủ bếp suốt đêm."
+        "Đỉnh cao của kỷ luật không phải là gắng gượng đấu tranh với cám dỗ mà là chủ động thiết kế để cám dỗ không xuất hiện.",
+        "Những người thành công vĩ đại luôn tìm cách thoái thác các nhiệm vụ khó khăn và giao lại toàn bộ trách nhiệm cho người khác.",
+        "Cách tốt nhất để đối phó với khó khăn trong cuộc sống là từ bỏ các mục tiêu lớn và chấp nhận sống một đời an phận thủ thường.",
+        "Bạn chỉ nên tập trung giải quyết các vấn đề dễ dàng và phớt lờ hoàn toàn các rắc rối phức tạp để duy trì sự bình yên nội tâm."
       ],
-      "correctIndex": 1,
-      "explanation": "Quy tắc vàng của việc giảm cân tại nhà: Nếu có đồ ăn vặt trong tầm với, sớm muộn gì bạn cũng sẽ ăn; loại bỏ chúng khỏi ngôi nhà biến gợi ý thành con số không."
+      "correctIndex": 0,
+      "explanation": "Thay vì tốn năng lượng giải quyết các cuộc đấu tranh nội tâm với cám dỗ, bậc thầy kiểm soát hành vi sắp đặt cuộc sống sao cho cám dỗ không thể tiếp cận."
     },
     {
       "id": "q12",
-      "question": "Điều gì chứng minh rằng 'sự nghiện ngập' không thuần túy là một khiếm khuyết đạo đức cá nhân mà chịu sự chi phối mãnh liệt của bối cảnh?",
+      "question": "Một người muốn từ bỏ thói quen ăn vặt vào đêm khuya nên cấu trúc lại căn bếp của mình theo cách nào?",
       "options": [
-        "Thực tế là 90% lính Mỹ nghiện heroin đã cai nghiện thành công tự nhiên chỉ nhờ việc thay đổi toàn bộ môi trường sống từ Việt Nam trở về quê hương.",
-        "Các nhà tù không bao giờ có tội phạm ma túy.",
-        "Ma túy là chất hoàn toàn có lợi cho sức khỏe tim mạch.",
-        "Mọi người đều có khả năng tự cai nghiện sau đúng 3 ngày."
+        "Khóa tủ bếp bằng ổ khóa mật khẩu phức tạp và giấu chìa khóa ở nơi thật khó tìm vào mỗi buổi tối trước khi đi ngủ.",
+        "Đặt bánh kẹo trên bàn ăn và luyện tập ngồi nhìn chúng ba mươi phút mỗi tối mà không ăn để rèn luyện tính kiên định.",
+        "Viết một bản cam kết chi tiết về những tác hại khôn lường của đường đối với vòng eo và dán lên cửa tủ để tự cảnh cáo.",
+        "Loại bỏ hoàn toàn đồ ăn vặt ra khỏi nhà và không mua dự trữ khi đi siêu thị để biến tín hiệu kích hoạt thành vô hình."
       ],
-      "correctIndex": 0,
-      "explanation": "Nghiên cứu Lee Robins là đòn giáng mạnh vào định kiến đạo đức: hành vi tiêu cực là kết quả của sự tương tác giữa con người với một môi trường chứa đầy các gợi ý độc hại."
+      "correctIndex": 3,
+      "explanation": "Nếu trong nhà không có sẵn đồ ăn vặt, tín hiệu kích hoạt sẽ hoàn toàn vô hình; bạn không thể ăn thứ mà căn bếp không hề có."
     },
     {
       "id": "q13",
-      "question": "Tại sao những người có chỉ số tự chủ cao nhất trong các bài kiểm tra tâm lý học lại thường là những người ít khi phải dùng đến sự tự chủ nhất trong ngày?",
+      "question": "Vì sao việc chủ động dập tắt một tín hiệu xấu từ sớm lại dễ dàng hơn nhiều so với việc cưỡng lại ham muốn khi đã thấy nó?",
       "options": [
-        "Vì họ gian lận trong các bài kiểm tra tâm lý học.",
-        "Vì họ đã khéo léo sắp đặt môi trường sống và làm việc ngăn nắp, tách biệt khỏi các nguồn gây phân tâm, nên họ không bị đặt vào thế phải kiềm chế.",
-        "Vì họ ngủ suốt 18 tiếng mỗi ngày nên không có thời gian phạm sai lầm.",
-        "Bởi vì họ không có bất kỳ ham muốn hay cảm xúc con người nào."
+        "Vì tín hiệu thị giác mang trọng lượng vật lý đè nặng lên các nơ-ron thần kinh khiến não bộ bị tê liệt khả năng tư duy.",
+        "Do việc cưỡng lại ham muốn sẽ làm suy giảm lượng oxy cung cấp cho các cơ bắp gây ra cảm giác đau nhức toàn thân thể.",
+        "Khi tín hiệu đã lọt vào tầm mắt, phản ứng sinh hóa dopamine lập tức bùng nổ khiến xung lực hành động khó bị dập tắt.",
+        "Bởi vì xã hội luôn có những định kiến khắt khe lên án những người cố gắng chống lại ham muốn tự nhiên của bản năng."
       ],
-      "correctIndex": 1,
-      "explanation": "Nghịch lý của sự tự chủ: người giỏi tự chủ nhất là người ít phải tự chủ nhất; họ chiến thắng bằng chiến lược phòng ngừa không gian thay vì năng lực chịu đựng."
+      "correctIndex": 2,
+      "explanation": "Khi bạn chú ý đến cái gì đó, bạn bắt đầu muốn nó. Tín hiệu kích hoạt đường dẫn phần thưởng sinh hóa trong não gần như ngay lập tức, khiến việc kháng cự trở nên vô cùng tốn sức."
     },
     {
       "id": "q14",
-      "question": "Nếu một người muốn ngừng chơi trò chơi điện tử thâu đêm, biện pháp 'Khiến nó vô hình' nào sau đây mang tính triệt để nhất?",
+      "question": "Một người muốn cắt giảm thời gian chơi điện tử thâu đêm nên thực hiện biện pháp nào theo tinh thần Chương 7?",
       "options": [
-        "Sau mỗi lần chơi, tháo dây nguồn và cất máy chơi game vào hộp, đặt sâu trong tủ quần áo trên tầng gác mái.",
-        "Để máy chơi game ngay trước bàn học và bật sẵn màn hình chờ.",
-        "Nhắc nhở bản thân rằng chơi game là hành động lãng phí thời gian của tuổi trẻ.",
-        "Chơi game với âm lượng nhỏ nhất có thể."
+        "Chơi game với âm lượng nhỏ nhất và tắt hết đèn trong phòng để bản thân nhanh chóng cảm thấy buồn ngủ mà dừng lại.",
+        "Tháo rời toàn bộ dây cáp nguồn và cất máy chơi game vào hộp kín đặt sâu trong tủ sau mỗi lần kết thúc buổi chơi.",
+        "Nhắc nhở bản thân rằng chơi game là sự lãng phí tuổi trẻ và ép mình phải đọc sách chuyên ngành mỗi khi thèm chơi.",
+        "Đặt máy chơi game ngay trước bàn làm việc để kiểm tra xem ý chí của mình có đủ sức cưỡng lại sức hút của nó hay không."
       ],
-      "correctIndex": 0,
-      "explanation": "Tháo dây và cất máy lên gác mái vừa khiến gợi ý biến mất hoàn toàn khỏi tầm nhìn, vừa tạo ra rào cản ma sát vật lý cực lớn ngăn cản hành vi bột phát."
+      "correctIndex": 1,
+      "explanation": "Rút dây nguồn và cất máy chơi game vào tủ sau mỗi lần chơi vừa khiến tín hiệu thị giác biến mất, vừa tạo rào cản vật lý ngăn phản xạ chơi bộc phát."
     },
     {
       "id": "q15",
-      "question": "Tóm kết lại tinh thần của Chương 7, bí quyết thực sự đằng sau khả năng tự chủ bền vững là:",
+      "question": "Tóm lại, bí mật thực sự đằng sau khả năng tự chủ bền vững theo James Clear trong Chương 7 là gì?",
       "options": [
-        "Tập trung rèn luyện cơ bắp ý chí để có thể chịu đựng mọi đau đớn.",
-        "Tạo ra một môi trường sống mà ở đó các gợi ý cho thói quen tốt luôn hiển hiện rõ ràng, còn các gợi ý cho thói quen xấu thì hoàn toàn vô hình.",
-        "Trốn tránh mọi giao tiếp xã hội và sống cô độc suốt đời.",
-        "Dựa dẫm hoàn toàn vào sự nhắc nhở của người khác."
+        "Biến các tín hiệu của thói quen tốt trở nên rõ ràng và làm cho các tín hiệu của thói quen xấu trở nên vô hình.",
+        "Tận dụng mọi thời gian rảnh rỗi để tôi luyện sức chịu đựng của ý chí trước những thử thách khắc nghiệt nhất của đời sống.",
+        "Cắt đứt mọi mối quan hệ xã hội để sống một cuộc đời biệt lập nhằm tránh xa tất cả những cám dỗ tiêu cực từ môi trường ngoài.",
+        "Tìm kiếm một người cố vấn nghiêm khắc để giám sát và trừng phạt bản thân mỗi khi có dấu hiệu buông thả và thiếu kỷ luật."
       ],
-      "correctIndex": 1,
-      "explanation": "Tự chủ thực chất là nghệ thuật thiết kế môi trường: làm cho điều đúng đắn trở nên hiển hiện và làm cho điều sai trái trở nên vô hình."
+      "correctIndex": 0,
+      "explanation": "Bí mật đằng sau khả năng tự chủ không phải là rèn luyện ý chí phi thường mà là tối ưu hóa môi trường: làm cho tín hiệu tốt rõ ràng và tín hiệu xấu trở nên vô hình."
     }
   ]
 }

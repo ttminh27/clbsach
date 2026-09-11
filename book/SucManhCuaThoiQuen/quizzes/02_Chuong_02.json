@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Chiến dịch quảng cáo kem đánh răng Pepsodent huyền thoại của Claude Hopkins đầu thế kỷ 20 đã dựa trên quy luật tạo lập thói quen cốt lõi nào?",
+      "question": "Chiến lược quảng cáo kem đánh răng Pepsodent huyền thoại của Claude Hopkins đã thành công nhờ vào yếu tố cốt lõi nào?",
       "options": [
-        "Đe dọa người tiêu dùng về nguy cơ mất răng toàn bộ nếu không dùng kem đánh răng.",
-        "Xác định một Gợi ý đơn giản, rõ ràng (cảm giác có màng bám trên răng) và một Phần thưởng hấp dẫn (nụ cười trắng sáng, xinh đẹp).",
-        "Tặng kèm bàn chải đánh răng miễn phí cho mọi hộ gia đình tại Mỹ.",
-        "Giảm giá sản phẩm xuống mức rẻ nhất thị trường để cạnh tranh với xà phòng."
+        "Cung cấp các số liệu nghiên cứu y khoa phức tạp chứng minh tác hại nguy hiểm của sâu răng đối với tính mạng.",
+        "Nhận diện một gợi ý phổ biến (lớp màng bám trên răng) và gắn liền với một phần thưởng hấp dẫn (nụ cười rạng rỡ).",
+        "Cam kết hoàn tiền gấp đôi cho mọi khách hàng nếu răng không trắng sáng hơn chỉ sau ba ngày sử dụng sản phẩm.",
+        "Hợp tác độc quyền với tất cả các phòng khám nha khoa trên toàn quốc để bắt buộc bệnh nhân phải mua sản phẩm."
       ],
       "correctIndex": 1,
-      "explanation": "Hopkins đã tìm ra công thức vàng: Gợi ý rõ ràng (chiếc màng bám nhớp nháp trên răng mà ai cũng cảm nhận được khi lướt lưỡi qua) + Phần thưởng rõ ràng (hàm răng trắng sáng và nụ cười quyến rũ)."
+      "explanation": "Hopkins tạo ra thói quen đánh răng cho hàng triệu người Mỹ bằng cách tìm ra một gợi ý giản đơn (lớp màng mờ trên răng mà ai cũng cảm nhận được bằng lưỡi) và phần thưởng trực quan (nụ cười trắng đẹp, quyến rũ)."
     },
     {
       "id": "q2",
-      "question": "Yếu tố bí mật thứ ba mà các nhà khoa học thần kinh phát hiện ra sau này, đóng vai trò là 'động cơ' thúc đẩy Vòng lặp thói quen vận hành tự động là gì?",
+      "question": "Thành phần bí mật nào trong Pepsodent đã vô tình tạo ra một \"cơn thèm muốn\" xúc giác khiến khách hàng không thể thiếu nó?",
       "options": [
-        "Sự ép buộc từ gia đình và xã hội.",
-        "Sự suy giảm của hormone adrenaline trong máu.",
-        "Nỗi sợ hãi bị trừng phạt nếu không hoàn thành hành vi.",
-        "Cơn thèm muốn (Craving) – sự khao khát phần thưởng được dự đoán trước ngay khi nhìn thấy gợi ý."
+        "Chất ngọt nhân tạo đậm đặc tạo cảm giác hưng phấn cho vị giác ngay khi kem vừa tiếp xúc với bề mặt lưỡi.",
+        "Một hoạt chất an thần nhẹ giúp người dùng giảm bớt căng thẳng tâm lý sau những giờ làm việc mệt mỏi.",
+        "Tinh dầu bạc hà và axit xitric tạo cảm giác the mát, châm chích sảng khoái chứng minh miệng đã thực sự sạch.",
+        "Một loại bột huỳnh quang an toàn giúp hàm răng phản chiếu ánh sáng tự nhiên trở nên lấp lánh hơn bình thường."
       ],
-      "correctIndex": 3,
-      "explanation": "Chỉ gợi ý và phần thưởng là chưa đủ để tạo thói quen bền vững; thói quen chỉ thực sự bám rễ khi gợi ý kích hoạt một 'Cơn thèm muốn' (Craving) mãnh liệt đối với phần thưởng sắp tới."
+      "correctIndex": 2,
+      "explanation": "Tinh dầu bạc hà và axit xitric tạo cảm giác tê mát, châm chích trên nướu và lưỡi. Cảm giác xúc giác cụ thể này trở thành bằng chứng cho thấy kem đang hoạt động, tạo nên cơn thèm muốn cảm giác sạch sẽ the mát mỗi sáng."
     },
     {
       "id": "q3",
-      "question": "Tại sao sản phẩm xịt khử mùi Febreze của tập đoàn Procter & Gamble (P&G) suýt nữa bị khai tử trong giai đoạn đầu ra mắt dù có công thức hóa học khử mùi vượt trội?",
+      "question": "Tại sao sản phẩm xịt khử mùi Febreze của tập đoàn P&G ban đầu lại thất bại thảm hại dù sở hữu công nghệ triệt tiêu mùi hôi vượt trội?",
       "options": [
-        "Vì chai xịt dễ bị tắc vòi phun sau vài lần sử dụng.",
-        "Vì sản phẩm có mùi hương quá nồng khiến vật nuôi trong nhà khó chịu.",
-        "Vì mùi hôi là thứ mà người sống trong nhà quen dần (khứu giác thích nghi) nên họ không ngửi thấy, dẫn đến việc thiếu một 'Gợi ý' để kích hoạt hành vi xịt Febreze.",
-        "Vì giá bán của sản phẩm quá đắt đỏ so với thu nhập bình quân của người dân."
+        "Vì giá thành của một chai xịt Febreze quá đắt đỏ so với thu nhập bình quân của các hộ gia đình lao động thời đó.",
+        "Vì sản phẩm chứa các hóa chất dễ gây kích ứng đường hô hấp khiến người tiêu dùng tẩy chay ngay từ lần đầu ra mắt.",
+        "Vì người sống trong môi trường có mùi hôi nồng nặc bị quen mùi (khứu giác thích nghi), do đó thiếu đi gợi ý kích hoạt thói quen.",
+        "Vì bao bì thiết kế của sản phẩm quá giống thuốc trừ sâu khiến khách hàng ngần ngại sử dụng trong không gian sống."
       ],
       "correctIndex": 2,
-      "explanation": "Người phụ nữ nuôi 9 con mèo không hề ngửi thấy mùi hôi trong nhà vì mũi bà đã bão hòa thích nghi; do thiếu tín hiệu gợi ý nhận biết mùi hôi, bà không có lý do để nhớ ra việc sử dụng Febreze."
+      "explanation": "Hiện tượng thích nghi khứu giác khiến những người nuôi nhiều thú cưng hoặc nhà có mùi hôi nặng không còn ngửi thấy mùi đó nữa. Do không nhận biết được gợi ý (mùi hôi), họ không có lý do để sử dụng Febreze thường xuyên."
     },
     {
       "id": "q4",
-      "question": "Đội ngũ tiếp thị của P&G đã thay đổi chiến lược cho Febreze như thế nào để biến sản phẩm thành hiện tượng toàn cầu mang về hàng tỷ đô-la?",
+      "question": "Để cứu vãn doanh số Febreze, đội ngũ tiếp thị của P&G đã tái định vị sản phẩm này như thế nào trong vòng lặp thói quen?",
       "options": [
-        "Chi gấp 10 lần ngân sách quảng cáo truyền hình để ép người tiêu dùng mua thử.",
-        "Tái định vị Febreze từ một chất tẩy mùi hôi thành 'phần thưởng hoàn tất' (với mùi hương hoa dễ chịu) ở bước cuối cùng sau khi dọn dẹp phòng ốc sạch sẽ.",
-        "Chuyển sang bán Febreze cho các bệnh viện và nhà xác thay vì hộ gia đình.",
-        "Đổi tên sản phẩm và hạ giá bán xuống mức 1 đô-la."
+        "Họ biến việc xịt Febreze thành phần thưởng thơm tho chào đón sau khi hoàn thành xong chuỗi dọn dẹp phòng ốc.",
+        "Họ quảng cáo Febreze như một loại thuốc xịt côn trùng chuyên dụng cho các trang trại chăn nuôi gia súc lớn.",
+        "Họ bắt buộc nhân viên tiếp thị phải đến gõ cửa từng nhà để trực tiếp xịt thử sản phẩm vào rèm cửa phòng khách.",
+        "Họ giảm giá sản phẩm xuống mức gần như cho không để kích thích nhu cầu mua sắm tích trữ của người tiêu dùng."
       ],
-      "correctIndex": 1,
-      "explanation": "Thay vì định vị khử mùi hôi (thứ người ta không ngửi thấy), P&G gắn Febreze vào cuối thói quen dọn dẹp: dọn phòng xong (Gợi ý) -> xịt Febreze (Hành động) -> tận hưởng căn phòng thơm ngát sảng khoái (Phần thưởng tạo sự thèm muốn)."
+      "correctIndex": 0,
+      "explanation": "P&G nhận ra Febreze không nên là giải pháp trị mùi hôi (vốn thiếu gợi ý), mà là phần thưởng hương thơm tươi mát cho một căn phòng đã được dọn sạch sẽ (dọn giường xong -> xịt Febreze -> ngửi mùi thơm thỏa mãn)."
     },
     {
       "id": "q5",
-      "question": "Trong thí nghiệm của nhà khoa học thần kinh Wolfram Schultz trên chú khỉ Julio, đồ thị điện não ghi nhận điều gì khi Julio đã thuần thục việc gạt cần sau khi thấy ánh sáng để uống nước quả?",
+      "question": "Trong thí nghiệm của nhà thần kinh học Wolfram Schultz trên chú khỉ Julio, biểu đồ phát xung dopamine thay đổi như thế nào khi thói quen đã vững chắc?",
       "options": [
-        "Julio chỉ tiết dopamine nếu lượng nước quả tăng gấp ba lần bình thường.",
-        "Não bộ của Julio hoàn toàn không tiết ra dopamine nữa vì đã quá quen thuộc.",
-        "Dopamine chỉ bùng nổ khi giọt nước quả thực sự chạm vào lưỡi của Julio.",
-        "Dopamine bùng nổ mạnh mẽ ngay khoảnh khắc ánh sáng lóe lên (Gợi ý), báo hiệu não bộ đã bắt đầu 'thèm muốn' và dự đoán trước phần thưởng."
+        "Dopamine chỉ tăng vọt khi giọt nước ép ngọt ngào thực sự chạm vào đầu lưỡi của chú khỉ sau khi hoàn thành nhiệm vụ.",
+        "Dopamine duy trì ở mức thấp liên tục và không hề có bất kỳ biến động nào trong suốt toàn bộ quá trình thử nghiệm.",
+        "Dopamine tăng vọt ngay khi tín hiệu hình ảnh xuất hiện trên màn hình, báo trước sự thèm muốn giọt nước ép sắp tới.",
+        "Dopamine giảm mạnh xuống dưới mức cơ bản mỗi khi chú khỉ nhìn thấy tín hiệu kích hoạt xuất hiện trên màn hình."
       ],
-      "correctIndex": 3,
-      "explanation": "Schultz chứng minh sự dịch chuyển thần kinh: khi thói quen đã vững chắc, cảm giác thỏa mãn (dopamine) xuất hiện ngay khi gợi ý xuất hiện – đó chính là cơ chế sinh học của sự thèm muốn (craving)."
+      "correctIndex": 2,
+      "explanation": "Khi thói quen đã hình thành, tế bào dopamine không còn chờ đến khi nhận phần thưởng mới phát xung; chúng bùng nổ ngay khi gợi ý xuất hiện, thể hiện sự thèm muốn và dự đoán phần thưởng trong não bộ."
     },
     {
       "id": "q6",
-      "question": "Điều gì xảy ra trong não bộ của khỉ Julio khi ánh sáng bật lên nhưng nước quả không chảy ra hoặc bị pha loãng?",
+      "question": "Điều gì xảy ra trong não bộ của chú khỉ Julio khi tín hiệu kích hoạt xuất hiện nhưng vòi nước ép lại bị khóa lại?",
       "options": [
-        "Não bộ của Julio tự động kích hoạt khả năng nói tiếng người.",
-        "Khỉ Julio lập tức ngủ gục xuống bàn thí nghiệm.",
-        "Đồ thị dopamine sụt giảm đột ngột và chuyển thành các xung điện biểu thị sự ức chế, giận dữ và thất vọng tột cùng.",
-        "Julio không có bất kỳ phản ứng cảm xúc nào khác biệt."
+        "Mức dopamine tiếp tục tăng cao gấp đôi để thúc đẩy chú khỉ nỗ lực đập mạnh vào cần gạt nhằm tìm kiếm thức ăn.",
+        "Các tế bào thần kinh dopamine sụt giảm đột ngột dưới mức bình thường, gây ra cảm giác thất vọng và giận dữ tột độ.",
+        "Bộ não của chú khỉ ngay lập tức chuyển sang trạng thái ngủ sâu để bảo tồn năng lượng tiêu hao vô ích trước đó.",
+        "Vùng hồi hải mã của chú khỉ lập tức xóa sạch mọi ký ức về hình ảnh tín hiệu vừa xuất hiện trên màn hình máy tính."
       ],
-      "correctIndex": 2,
-      "explanation": "Khi sự kỳ vọng phần thưởng bị phá vỡ, sự thèm muốn không được đáp ứng sẽ biến thành cảm giác hụt hẫng và cáu giận thần kinh; đây là lý do tại sao người nghiện lại bứt rứt khi không được đáp ứng thói quen."
+      "correctIndex": 1,
+      "explanation": "Khi sự mong đợi (thèm muốn) không được đáp ứng, dopamine sụp đổ mạnh mẽ. Sự sụt giảm sinh hóa này gây ra cảm giác ức chế, đau khổ và thất vọng, là động lực khiến kẻ nghiện thèm thuốc cồn cào."
     },
     {
       "id": "q7",
-      "question": "Tại sao thành phần tinh dầu bạc hà và axit citric trong kem đánh răng Pepsodent lại tạo nên thành công quyết định dù chúng không có tác dụng làm sạch mảng bám?",
+      "question": "Tại sao các nhà sản xuất dầu gội đầu và bột giặt luôn bổ sung chất tạo bọt, dù bọt xà phòng không giúp tẩy sạch hơn?",
       "options": [
-        "Chúng có tác dụng gây tê giúp người dùng không cảm thấy đau răng.",
-        "Chúng tạo ra cảm giác the mát, châm chích sảng khoái trên nướu và lưỡi – cung cấp một bằng chứng thể chất rõ ràng để não bộ 'thèm muốn' cảm giác sạch sẽ đó sau khi đánh răng.",
-        "Chúng biến kem đánh răng thành một loại kẹo có thể nuốt được.",
-        "Chúng giúp răng phát sáng lấp lánh trong bóng tối."
+        "Bọt xà phòng tạo ra một phần thưởng cảm giác trực quan, giúp người dùng cảm nhận rõ rệt việc làm sạch đang diễn ra.",
+        "Bọt xà phòng là một chất diệt khuẩn tự nhiên bắt buộc phải có theo quy định an toàn vệ sinh của chính phủ liên bang.",
+        "Bọt xà phòng giúp tăng trọng lượng thể tích của chai dung dịch nhằm đánh lừa thị giác về lượng sản phẩm bên trong.",
+        "Bọt xà phòng đóng vai trò làm mát bề mặt da đầu để ngăn ngừa tình trạng kích ứng da do hóa chất tẩy rửa gây nên."
       ],
-      "correctIndex": 1,
-      "explanation": "Cảm giác the mát the châm chích của bạc hà đóng vai trò là tín hiệu xúc giác cụ thể chứng minh 'miệng đã sạch'. Người dùng bắt đầu thèm muốn cảm giác tê mát đó mỗi sáng, nếu thiếu nó họ cảm thấy miệng chưa sạch."
+      "correctIndex": 0,
+      "explanation": "Bọt xà phòng không làm tăng khả năng tẩy rửa của hóa chất, nhưng nó mang lại phần thưởng giác quan (thấy bọt trắng, cảm nhận độ mịn), tạo ra sự thỏa mãn và cơn thèm bọt mỗi khi tắm gội."
     },
     {
       "id": "q8",
-      "question": "Tại sao các công ty dầu gội và nước rửa chén luôn cố tình bổ sung chất tạo bọt hóa học dù bọt xà phòng không đóng vai trò chính trong việc tẩy rửa vết bẩn?",
+      "question": "Yếu tố vô hình thứ tư nào là động cơ thúc đẩy toàn bộ vòng lặp thói quen vận hành một cách tự động và mạnh mẽ?",
       "options": [
-        "Bọt xà phòng ngăn chặn vi khuẩn sinh sôi trong không khí.",
-        "Bọt xà phòng là một 'phần thưởng cảm giác' trực quan giúp người tiêu dùng tin rằng xà phòng đang hoạt động hiệu quả, tạo ra sự thèm muốn được thấy bọt xốp khi tắm rửa.",
-        "Bọt giúp làm tăng trọng lượng của chai nước rửa chén để bán được giá cao hơn.",
-        "Bọt xà phòng giúp bảo vệ môi trường chống lại biến đổi khí hậu."
+        "Sự áp đặt kỷ luật từ môi trường giáo dục nghiêm khắc của gia đình và nhà trường trong suốt giai đoạn trưởng thành.",
+        "Nỗi sợ hãi thường trực trước các hình phạt về thể xác hoặc sự trừng phạt về mặt tài chính từ phía xã hội bên ngoài.",
+        "Sự thèm muốn tiềm thức (Craving) gắn kết chặt chẽ giữa tín hiệu gợi ý kích hoạt ban đầu và phần thưởng mong đợi.",
+        "Mức độ thông minh logic và năng lực tư duy trừu tượng vượt trội của cá nhân trong việc giải quyết vấn đề nan giải."
       ],
-      "correctIndex": 1,
-      "explanation": "Người tiêu dùng không cảm nhận được vi khuẩn bị tiêu diệt, nhưng bọt xốp trắng mịn mang lại cảm giác thỏa mãn về mặt thị giác và xúc giác, tạo nên thói quen thèm bọt khi tắm gội."
+      "correctIndex": 2,
+      "explanation": "Gợi ý và phần thưởng chỉ định hình cấu trúc, chính sự thèm muốn (Craving) – khao khát thần kinh đón nhận phần thưởng ngay khi thấy gợi ý – mới là động cơ thúc đẩy vòng lặp thói quen xoay chuyển tự động."
     },
     {
       "id": "q9",
-      "question": "Để xây dựng một thói quen tập thể dục mới vào mỗi buổi sáng, việc kết hợp Gợi ý và Phần thưởng cần tạo ra được 'Cơn thèm muốn' như thế nào?",
+      "question": "Để xây dựng một thói quen tập thể dục bền vững mỗi sáng, bước quan trọng nhất theo nguyên lý thèm muốn là gì?",
       "options": [
-        "Chỉ cần mua một đôi giày đắt tiền và để trong tủ kín là đủ.",
-        "Không cần bất kỳ gợi ý nào, chỉ cần cầu nguyện mỗi đêm trước khi ngủ.",
-        "Đặt giày chạy cạnh giường (Gợi ý), chạy xong tự thưởng một ly sinh tố ngon hoặc cảm giác tự hào giải phóng endorphin (Phần thưởng), để não thèm muốn cảm giác sảng khoái đó mỗi khi thấy đôi giày.",
-        "Ép bản thân chạy 20km ngay trong ngày đầu tiên dù đau đớn đến đâu."
+        "Đầu tư mua sắm toàn bộ trang thiết bị tập luyện đắt tiền nhất và thuê huấn luyện viên cá nhân theo sát mỗi bước đi.",
+        "Ép buộc bản thân phải thực hiện các bài tập thể lực cường độ cao liên tục trong nhiều giờ mà không có ngày nghỉ ngơi.",
+        "Tuyệt đối kiêng khem mọi thực phẩm có đường và chất béo để cơ thể luôn ở trong trạng thái đói năng lượng tập luyện.",
+        "Chọn một gợi ý rõ ràng và cho phép bản thân thèm muốn một phần thưởng cụ thể sau buổi tập như endorphin sảng khoái."
       ],
-      "correctIndex": 2,
-      "explanation": "Để thói quen chạy bộ bám rễ, bạn phải cho phép bản thân dự đoán và thèm muốn một phần thưởng rõ ràng (như luồng hormone endorphin sau khi chạy hay ly sinh tố yêu thích) ngay khi nhìn thấy đôi giày chạy bộ."
+      "correctIndex": 3,
+      "explanation": "Nghiên cứu chỉ ra những người duy trì tập luyện lâu năm luôn có một gợi ý đơn giản (như để giày cạnh giường) và dự đoán, thèm muốn một phần thưởng rõ ràng (cảm giác endorphin hưng phấn, ly sinh tố mát lành)."
     },
     {
       "id": "q10",
-      "question": "Tại sao nhiều người nghiện kiểm tra thông báo điện thoại (Facebook, Email) liên tục suốt cả ngày?",
+      "question": "Tại sao hành vi liên tục kiểm tra thông báo trên điện thoại thông minh lại dễ dàng trở thành một chứng nghiện khó bỏ?",
       "options": [
-        "Vì pin điện thoại sẽ cạn nhanh hơn nếu không mở khóa màn hình thường xuyên.",
-        "Vì âm thanh 'ting' hoặc màn hình sáng lên (Gợi ý) kích hoạt sự thèm muốn dopaminergic đối với cảm giác được kết nối xã hội hoặc sự tò mò về điều mới mẻ.",
-        "Vì đây là phản xạ bẩm sinh có từ thời kỳ đồ đá của loài người.",
-        "Vì tất cả các tin nhắn gửi đến đều là những cảnh báo khẩn cấp đe dọa tính mạng."
+        "Âm thanh báo hoặc màn hình sáng lên kích hoạt sự thèm muốn dopamine đối với thông tin mới hoặc sự công nhận xã hội.",
+        "Người dùng luôn có nghĩa vụ pháp lý bắt buộc phải phản hồi mọi tin nhắn khẩn cấp từ các cơ quan quản lý nhà nước.",
+        "Bộ nhớ đệm của điện thoại sẽ tự động xóa sạch dữ liệu liên lạc nếu người dùng không mở khóa thiết bị thường xuyên.",
+        "Ánh sáng xanh từ màn hình phát ra một loại sóng điện từ làm tê liệt hoàn toàn chức năng kiểm soát của thùy trán."
       ],
-      "correctIndex": 1,
-      "explanation": "Âm thanh thông báo đóng vai trò là gợi ý kích hoạt sự thèm muốn nhận được thông tin mới hoặc sự công nhận xã hội; việc mở màn hình mang lại một phần thưởng nhỏ xíu giải phóng dopamine tức thì."
+      "correctIndex": 0,
+      "explanation": "Âm thanh thông báo đóng vai trò gợi ý, kích hoạt sự thèm muốn đón nhận điều mới mẻ hoặc sự gắn kết xã hội; thao tác mở khóa màn hình mang lại phần thưởng dopamine nhỏ bé nhưng xảy ra liên tục."
     },
     {
       "id": "q11",
-      "question": "Sự khác biệt căn bản giữa việc 'biết điều gì đó có lợi' và việc 'hình thành một thói quen thực sự' là gì?",
+      "question": "Sự khác biệt căn bản giữa việc \"biết một hành vi có lợi\" và việc \"biến nó thành một thói quen thực thụ\" là gì?",
       "options": [
-        "Không có sự khác biệt nào, chỉ cần biết có lợi là sẽ tự động làm hàng ngày.",
-        "Biết có lợi chỉ là nhận thức lý trí ở vỏ não; thói quen chỉ hình thành khi não bộ xuất hiện 'cơn thèm muốn tiềm thức' thôi thúc hành động để đón nhận phần thưởng dự kiến.",
-        "Thói quen đòi hỏi phải có giấy chứng nhận y khoa trước khi thực hiện.",
-        "Nhận thức có lợi chỉ áp dụng cho động vật, con người hoạt động bằng cảm tính."
+        "Biết có lợi dựa vào sự khuyên bảo của người khác, còn thói quen đòi hỏi cá nhân phải trải qua một biến cố lớn.",
+        "Hành vi chỉ trở thành thói quen khi não bộ sản sinh ra một cơn thèm muốn vô thức đối với phần thưởng gắn liền với nó.",
+        "Thói quen đòi hỏi sự tham gia của các hormone tăng trưởng cơ bắp, trong khi sự hiểu biết chỉ cần tế bào thần kinh thị giác.",
+        "Không có bất kỳ sự khác biệt nào; hễ con người nhận thức rõ lợi ích của một việc thì hành vi sẽ tự động lặp lại."
       ],
       "correctIndex": 1,
-      "explanation": "Hàng triệu người biết ăn rau và tập thể dục là tốt nhưng không làm, vì họ chưa tạo ra được cơ chế thần kinh thèm muốn cảm giác thỏa mãn hoặc phần thưởng gắn liền với hành vi đó."
+      "explanation": "Nhận thức lợi ích chỉ nằm ở vùng tư duy có ý thức của vỏ não; thói quen chỉ bám rễ sâu vào hạch nền khi xuất hiện một cơn thèm muốn tiềm thức thôi thúc hành động để đón nhận phần thưởng dự kiến."
     },
     {
       "id": "q12",
-      "question": "Tại sao Claude Hopkins từng thất bại khi cố gắng bán các sản phẩm khác trước Pepsodent bằng cách chỉ giải thích tính năng khoa học thuần túy?",
+      "question": "Khi đối mặt với cám dỗ của một thói quen xấu (như ăn đồ ngọt lúc căng thẳng), tại sao ý chí thường dễ bị đánh bại?",
       "options": [
-        "Vì các sản phẩm đó đều là hàng giả kém chất lượng.",
-        "Vì giải thích tính năng chỉ tác động vào tư duy logic mà không đánh trúng vào tín hiệu kích hoạt cụ thể và sự thèm muốn cảm xúc của khách hàng.",
-        "Vì các tờ báo từ chối đăng quảng cáo của ông.",
-        "Vì người dân thời đó không biết đọc chữ trên báo chí."
+        "Vì tín hiệu căng thẳng kích hoạt cơn thèm muốn dopamine mãnh liệt mà ý chí kiệt quệ không đủ sức chống cự liên tục.",
+        "Vì đồ ngọt chứa các chất hóa học có khả năng phá hủy vĩnh viễn cấu trúc phân tử của các tế bào thần kinh thùy trán.",
+        "Vì hệ tiêu hóa của con người được lập trình để ngừng hoạt động hoàn toàn nếu không được nạp đường sau mỗi bốn giờ.",
+        "Vì não bộ xem đồ ngọt là phương thuốc giải độc sinh học bắt buộc phải có để thanh lọc các độc tố do stress sinh ra."
       ],
-      "correctIndex": 1,
-      "explanation": "Quảng cáo dựa trên tính năng khô khan không kích hoạt được vòng lặp thói quen; chìa khóa của Hopkins là tìm ra tín hiệu đời thường (màng bám răng) và vẽ nên khát khao sắc đẹp quyến rũ."
+      "correctIndex": 0,
+      "explanation": "Khi gợi ý xuất hiện (stress), não bộ bùng nổ cơn thèm muốn cảm giác thư giãn mà đường mang lại; nếu không có hành vi thay thế, cơn thèm dopamine này sẽ nhanh chóng đè bẹp sự kiềm chế của ý chí mệt mỏi."
     },
     {
       "id": "q13",
-      "question": "Khi nào một hành vi ăn kiêng giảm cân có nguy cơ sụp đổ cao nhất theo quy luật của sự thèm muốn?",
+      "question": "Nghiên cứu thần kinh học của Wolfram Schultz đã chứng minh điều gì mang tính đột phá về bản chất của \"sự thèm muốn\"?",
       "options": [
-        "Khi họ nhìn thấy tín hiệu quen thuộc (như đi ngang qua tiệm bánh ngọt hay mùi bơ thơm) và não bộ lập tức bùng nổ cơn thèm đường mãnh liệt mà không có thói quen thay thế tương đương.",
-        "Khi họ ăn quá nhiều rau xanh và protein nạc.",
-        "Khi họ ngủ đủ 8 tiếng mỗi đêm.",
-        "Khi người ăn kiêng uống quá nhiều nước lọc trong ngày."
+        "Thèm muốn là một ảo giác tâm lý hoàn toàn không để lại bất kỳ dấu vết vật lý hay sinh hóa nào trong hệ thống não bộ.",
+        "Thèm muốn chỉ xuất hiện ở các loài động vật bậc thấp, còn con người hoàn toàn miễn nhiễm trước các kích thích phản xạ.",
+        "Thèm muốn chỉ có thể được tạo ra thông qua các hợp chất kích thích hóa học mạnh mẽ như nicotin hoặc cocain ngoại sinh.",
+        "Thèm muốn là một phản xạ sinh học đo lường được thông qua sự phát xung sớm của các tế bào dopamine trước phần thưởng."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi gợi ý quen thuộc xuất hiện, não tự động phóng thích dopamine dự đoán phần thưởng ngọt ngào; nếu không có hành động thay thế mang lại phần thưởng xoa dịu tương tự, cơn thèm muốn sẽ đánh bại ý chí."
+      "correctIndex": 3,
+      "explanation": "Schultz chứng minh thèm muốn là một hiện tượng sinh học có thật: tế bào thần kinh dopamine phát xung dự đoán phần thưởng ngay khi nhìn thấy tín hiệu, biến kỳ vọng tâm lý thành động lực sinh học cụ thể."
     },
     {
       "id": "q14",
-      "question": "Điều gì chứng minh rằng 'cơn thèm muốn' là một phản xạ sinh học có thể đo lường được chứ không chỉ là khái niệm trừu tượng?",
+      "question": "Tại sao Claude Hopkins từng thất bại trong các chiến dịch quảng cáo sản phẩm trước đó khi chỉ giải thích công dụng thuần túy?",
       "options": [
-        "Các thiết bị đo điện não và nồng độ hóa chất thần kinh ghi nhận sự tăng đột biến của chất dẫn truyền dopamine và xung điện thần kinh trước cả khi phần thưởng thực sự xuất hiện.",
-        "Nó làm thay đổi màu mắt của người tham gia nghiên cứu.",
-        "Nó làm tăng chiều cao của đối tượng thí nghiệm sau mỗi bài kiểm tra.",
-        "Nó khiến nhiệt độ cơ thể hạ xuống mức đóng băng trong vài giây."
+        "Vì thị trường lúc bấy giờ đang trong tình trạng khủng hoảng kinh tế khiến người tiêu dùng không có tiền mua sắm hàng hóa.",
+        "Vì quảng cáo chỉ thuần lý tính không khơi dậy được gợi ý cảm giác cụ thể và sự thèm muốn cảm xúc đối với phần thưởng.",
+        "Vì chính quyền các bang ban hành lệnh cấm quảng cáo các sản phẩm chăm sóc sức khỏe cá nhân trên báo chí chính thống.",
+        "Vì chất lượng của các sản phẩm thử nghiệm trước đó hoàn toàn không đem lại bất kỳ hiệu quả thực tế nào cho người dùng."
       ],
-      "correctIndex": 0,
-      "explanation": "Nghiên cứu thần kinh học của Wolfram Schultz và các cộng sự đã ghi lại chính xác hoạt động của các tế bào thần kinh sản sinh dopamine khi não bắt đầu dự đoán và khao khát phần thưởng."
+      "correctIndex": 1,
+      "explanation": "Việc trình bày tính năng khoa học khô khan chỉ tác động vào nhận thức lý trí nhưng không kích hoạt được vòng lặp thói quen; Pepsodent thành công nhờ gắn liền với gợi ý giác quan và cơn thèm muốn vẻ đẹp quyến rũ."
     },
     {
       "id": "q15",
-      "question": "Quy tắc vàng rút ra từ Chương 2 để tạo lập bất kỳ thói quen mới nào cho bản thân hoặc khách hàng là gì?",
+      "question": "Quy tắc vàng hoàn chỉnh được đúc kết từ Chương 2 để kiến tạo thành công một thói quen mới trong đời sống là gì?",
       "options": [
-        "Thực hiện hành động liên tục trong 100 ngày mà không cần quan tâm đến phần thưởng.",
-        "Bắt buộc người khác phải làm theo bằng các hình phạt nghiêm khắc nhất.",
-        "Chọn một Gợi ý đơn giản và rõ ràng + Xác định một Phần thưởng cụ thể và hấp dẫn + Nuôi dưỡng Cơn thèm muốn liên kết giữa gợi ý và phần thưởng đó.",
-        "Loại bỏ hoàn toàn cảm xúc ra khỏi quá trình rèn luyện bản thân."
+        "Bắt buộc bản thân thực hiện hành vi trong 21 ngày liên tục bất kể điều kiện môi trường xung quanh có thuận lợi hay không.",
+        "Tìm kiếm một người giám sát có thẩm quyền để theo dõi và áp dụng các chế tài xử phạt nặng nề mỗi khi ta bỏ bê tập luyện.",
+        "Cắt bỏ hoàn toàn mọi giao lưu xã hội để tập trung 100% năng lượng tinh thần vào một mục tiêu phát triển cá nhân duy nhất.",
+        "Chọn một Gợi ý đơn giản, xác định một Phần thưởng rõ ràng và nuôi dưỡng một Cơn thèm muốn liên kết chặt chẽ hai yếu tố đó."
       ],
-      "correctIndex": 2,
-      "explanation": "Công thức tạo thói quen mới hoàn chỉnh: Gợi ý rõ ràng + Phần thưởng hấp dẫn + Nuôi dưỡng sự thèm muốn (Craving) gắn kết chặt chẽ hai yếu tố trên với nhau."
+      "correctIndex": 3,
+      "explanation": "Công thức hoàn chỉnh để tạo thói quen: Gợi ý rõ ràng + Phần thưởng hấp dẫn + Nuôi dưỡng sự thèm muốn (Craving) liên kết chúng lại, biến kỳ vọng phần thưởng thành động lực thôi thúc tự động."
     }
   ]
 }

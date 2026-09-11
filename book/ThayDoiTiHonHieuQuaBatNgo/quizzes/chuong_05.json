@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Nghiên cứu về việc tập thể dục trên 248 người tại Anh cho thấy nhóm thứ ba đạt tỷ lệ tuân thủ lên tới 91% (gấp hơn 2 lần hai nhóm còn lại) nhờ áp dụng công cụ nào?",
+      "question": "Nghiên cứu về việc tập thể dục trên 248 người tại Anh cho thấy nhóm thứ ba đạt tỷ lệ tuân thủ lên tới 91% nhờ áp dụng công cụ nào?",
       "options": [
-        "Nhận khoản tiền thưởng 100 bảng Anh cho mỗi buổi tập hoàn thành.",
-        "Ý định thực thi (Implementation Intentions): Lên kế hoạch chính xác về Thời gian và Địa điểm họ sẽ tập thể dục.",
-        "Được xem các video truyền động lực đầy xúc động về sức khỏe tim mạch.",
-        "Tập luyện dưới sự giám sát nghiêm khắc của các sĩ quan quân đội."
+        "Nhận phần thưởng tài chính tương xứng sau mỗi lần hoàn thành buổi tập thể dục theo đúng lịch trình đề ra.",
+        "Tham gia các buổi thảo luận nhóm chuyên sâu để khơi dậy tinh thần trách nhiệm và lòng quyết tâm kiên trì.",
+        "Ý định thực thi: Lên kế hoạch cụ thể xác định rõ thời gian và địa điểm họ sẽ thực hiện bài tập thể dục.",
+        "Được xem các tài liệu video truyền cảm hứng mạnh mẽ về việc giảm thiểu nguy cơ mắc bệnh tim mạch vành."
       ],
-      "correctIndex": 1,
-      "explanation": "Hai nhóm đầu (chỉ theo dõi hoặc đọc tài liệu truyền cảm hứng) chỉ đạt 35-38%. Nhóm thứ ba viết ra câu cam kết: 'Tôi sẽ tập thể dục 20 phút vào [ngày/giờ] tại [địa điểm]' đạt kết quả áp đảo 91%."
+      "correctIndex": 2,
+      "explanation": "Nhóm thứ ba điền vào câu cam kết xác định rõ thời gian và địa điểm tập luyện ('vào ngày X, lúc Y giờ, tại địa điểm Z') đạt tỷ lệ tuân thủ 91%, gấp hơn hai lần hai nhóm còn lại."
     },
     {
       "id": "q2",
       "question": "Công thức chuẩn của một 'Ý định thực thi' (Implementation Intention) theo hướng dẫn của James Clear là gì?",
       "options": [
-        "'Tôi hy vọng tôi sẽ [HÀNH ĐỘNG] khi tôi cảm thấy có cảm hứng và năng lượng dồi dào'.",
-        "'Tôi sẽ [HÀNH ĐỘNG] vào lúc [THỜI GIAN] tại [ĐỊA ĐIỂM]'.",
-        "'Tôi sẽ cố gắng hết sức để làm việc chăm chỉ hơn bạn bè xung quanh'.",
-        "'Nếu ngày mai trời đẹp, tôi sẽ bắt đầu một cuộc sống hoàn toàn mới'."
+        "Tôi hy vọng mình sẽ [HÀNH ĐỘNG] khi cơ thể cảm thấy tràn đầy nguồn cảm hứng và năng lượng tích cực nhất.",
+        "Tôi sẽ thực hiện [HÀNH VI NÀO ĐÓ] vào lúc [THỜI GIAN CỤ THỂ] tại [ĐỊA ĐIỂM CỤ THỂ ĐÃ ĐỊNH TRƯỚC].",
+        "Tôi cam kết nỗ lực hết mình để duy trì [HÀNH VI TỐT] trong suốt cả tuần mà không hề bỏ lỡ một ngày nào cả.",
+        "Nếu ngày mai điều kiện thời tiết và công việc thuận lợi, tôi sẽ dành trọn vẹn thời gian để rèn luyện thói quen."
       ],
       "correctIndex": 1,
-      "explanation": "Công thức này loại bỏ hoàn toàn sự mơ hồ: nó ấn định rõ ràng Hành vi, Khung thời gian và Tọa độ không gian, biến ý định trừu tượng thành mệnh lệnh dứt khoát."
+      "explanation": "Công thức 'Tôi sẽ [HÀNH VI] vào lúc [THỜI GIAN] ở [ĐỊA ĐIỂM]' gắn chặt hành vi với hai tín hiệu tự nhiên mạnh nhất là thời gian và không gian."
     },
     {
       "id": "q3",
-      "question": "Tại sao việc nói: 'Tôi sẽ ăn uống lành mạnh hơn' hay 'Tôi sẽ đọc sách nhiều hơn' thường dẫn đến thất bại?",
+      "question": "Tại sao những lời tự nhủ như 'Tôi sẽ ăn uống lành mạnh hơn' hay 'Tôi sẽ đọc sách nhiều hơn' thường dẫn đến thất bại?",
       "options": [
-        "Bởi vì những câu nói này quá mơ hồ, không cung cấp cho não bộ một gợi ý cụ thể về thời điểm và địa điểm để hành động, khiến bạn dễ dàng trì hoãn.",
-        "Bởi vì ăn uống lành mạnh và đọc sách là những mục tiêu quá tốn kém.",
-        "Bởi vì não bộ con người có ác cảm bẩm sinh với các loại sách vở và rau xanh.",
-        "Bởi vì xã hội không ủng hộ những người có lối sống lành mạnh."
+        "Chúng quá mơ hồ và không cung cấp cho não bộ tín hiệu cụ thể về thời gian và địa điểm để bắt đầu hành động.",
+        "Bản tính tự nhiên của con người luôn có xu hướng né tránh những hoạt động đòi hỏi sự tập trung tư duy nghiêm túc.",
+        "Người thực hiện chưa xây dựng được hệ thống hình phạt đủ nghiêm khắc để răn đe sự lười biếng nội tại của mình.",
+        "Mức độ cam kết bằng lời nói thiếu đi giá trị ràng buộc pháp lý so với các văn bản ký kết chính thức bên ngoài."
       ],
       "correctIndex": 0,
-      "explanation": "Khi kế hoạch thiếu cụ thể, bạn phải liên tục đưa ra quyết định mới trong ngày; khi mệt mỏi, não bộ sẽ tự động chọn con đường trì hoãn hoặc thói quen cũ dễ dàng hơn."
+      "explanation": "Khi kế hoạch thiếu tính tường minh, ta thường phó mặc cho may rủi và chờ đợi cảm hứng; sự mơ hồ khiến bạn dễ dàng thỏa hiệp và trì hoãn."
     },
     {
       "id": "q4",
-      "question": "'Hiệu ứng Diderot' (Diderot Effect) - được đặt theo tên nhà triết học người Pháp Denis Diderot - mô tả hiện tượng tâm lý tiêu dùng nào?",
+      "question": "'Hiệu ứng Diderot' (Diderot Effect) - được đặt theo tên nhà triết học Denis Diderot - mô tả hiện tượng tâm lý nào?",
       "options": [
-        "Việc sở hữu một món đồ mới (chiếc áo choàng đỏ tươi) thường dẫn đến một vòng xoáy mua sắm các món đồ mới khác để tương xứng với nó.",
-        "Xu hướng tiết kiệm từng đồng xu lẻ và cất giấu dưới gối nằm.",
-        "Cảm giác căm ghét tất cả các đồ dùng công nghệ hiện đại.",
-        "Thói quen tặng toàn bộ tài sản cho người nghèo sau khi đạt giác ngộ."
+        "Cảm giác hối tiếc và dằn vặt sâu sắc sau khi tiêu pha một khoản tiền lớn vào các mặt hàng xa xỉ phẩm đắt đỏ.",
+        "Xu hướng tích trữ của cải vật chất một cách cực đoan nhằm tìm kiếm cảm giác an toàn trước tương lai bất định.",
+        "Mong muốn rũ bỏ toàn bộ tiện nghi hiện đại để quay trở về với lối sống tối giản nguyên thủy ban đầu của mình.",
+        "Việc sở hữu một món đồ mới thường châm ngòi cho một vòng xoáy mua sắm liên hoàn những vật dụng tiếp theo sau đó."
       ],
-      "correctIndex": 0,
-      "explanation": "Sau khi được tặng chiếc áo choàng nhung đỏ tuyệt đẹp, Diderot thấy bàn ghế cũ kỹ không còn hợp nữa, dẫn đến việc ông thay mới bàn, ghế, tranh vẽ, rơi vào nợ nần."
+      "correctIndex": 3,
+      "explanation": "Sau khi mua chiếc áo choàng đỏ lộng lẫy, Diderot liên tục mua thêm thảm mới, tranh mới, bàn ghế mới để tương xứng; đây là vòng xoáy tiêu dùng dây chuyền."
     },
     {
       "id": "q5",
-      "question": "James Clear đã vận dụng bản chất của Hiệu ứng Diderot để phát triển phương pháp nào trong việc xây dựng thói quen?",
+      "question": "James Clear đã vận dụng bản chất liên kết hành vi của Hiệu ứng Diderot để phát triển phương pháp nào?",
       "options": [
-        "Phương pháp cai nghiện mua sắm bằng cách cắt thẻ tín dụng.",
-        "Chiến lược 'Chồng thói quen' (Habit Stacking): Gắn một thói quen mới vào sau một thói quen hiện có đã vững chắc.",
-        "Phương pháp cô lập bản thân trong phòng trống không có đồ đạc.",
-        "Chiến lược chi tiêu toàn bộ tiền lương trong ngày đầu tiên của tháng."
+        "Chiến lược cắt giảm chi tiêu không cần thiết nhằm duy trì sự thanh thản và tỉnh thức trong tâm trí của bạn.",
+        "Kỹ thuật thiết lập các cam kết xã hội công khai để tạo động lực kiên trì cho các mục tiêu khó khăn phía trước.",
+        "Chiến lược Chồng lớp thói quen: Xếp một thói quen mới lên trên một thói quen hiện có đã vững chắc từ trước.",
+        "Phương pháp chia nhỏ mục tiêu thành các bước vi mô nhằm giảm bớt sự phản kháng tâm lý ban đầu của bản thân."
       ],
-      "correctIndex": 1,
-      "explanation": "Thay vì dùng hiệu ứng dây chuyền cho việc mua sắm tiêu sản, ta dùng nó để kết nối hành vi: hoàn thành một thói quen hiện tại sẽ trở thành gợi ý tự nhiên kích hoạt thói quen tiếp theo."
+      "correctIndex": 2,
+      "explanation": "Hành vi con người không diễn ra đơn lẻ; hoàn thành một việc sẽ tạo đà cho việc tiếp theo. Chồng lớp thói quen tận dụng chuỗi liên kết này để xây dựng thói quen tốt."
     },
     {
       "id": "q6",
-      "question": "Công thức của phương pháp 'Chồng thói quen' (Habit Stacking - do GS. BJ Fogg sáng tạo và Clear hoàn thiện) là gì?",
+      "question": "Công thức cốt lõi của phương pháp 'Chồng lớp thói quen' (Habit Stacking - do GS. BJ Fogg khởi xướng) là gì?",
       "options": [
-        "'Trước khi đi ngủ, tôi sẽ tự hứa ngày mai sẽ làm nhiều việc hơn'.",
-        "'Sau khi [THÓI QUEN HIỆN TẠI], tôi sẽ [THÓI QUEN MỚI]'.",
-        "'Trong khi [LÀM VIỆC], tôi sẽ [LƯỚT MẠNG XÃ HỘI]'.",
-        "'Mỗi khi [CẢM THẤY BUỒN], tôi sẽ [ĂN ĐỒ NGỌT]'."
+        "Trước khi bắt đầu [MỤC TIÊU LỚN], tôi sẽ dành mười lăm phút để chuẩn bị tinh thần sẵn sàng và hào hứng.",
+        "Sau khi thực hiện xong [THÓI QUEN HIỆN TẠI], tôi sẽ bắt tay làm ngay [THÓI QUEN MỚI MONG MUỐN ĐÃ ĐỊNH].",
+        "Trong khi đang làm [HÀNH ĐỘNG HẰNG NGÀY], tôi sẽ kết hợp đồng thời thực hiện [HÀNH VI TÍCH CỰC] cùng lúc.",
+        "Bất cứ khi nào cảm thấy [HÀO HỨNG VÀ THOẢI MÁI], tôi sẽ tập trung rèn luyện [KỸ NĂNG QUAN TRỌNG] của mình."
       ],
       "correctIndex": 1,
-      "explanation": "Ví dụ: 'Sau khi tôi rót ly cà phê buổi sáng [thói quen hiện tại], tôi sẽ thiền định trong một phút [thói quen mới]'."
+      "explanation": "Công thức: 'Sau khi làm [THÓI QUEN HIỆN TẠI], tôi sẽ làm [THÓI QUEN MỚI]'. Thói quen cũ đã có sẵn mạng nơ-ron mạnh mẽ, đóng vai trò mỏ neo cho thói quen mới."
     },
     {
       "id": "q7",
-      "question": "Tại sao việc chọn 'thói quen hiện tại' làm mỏ neo trong Chồng thói quen lại mang lại hiệu quả vượt trội so với việc dựa vào thời gian trên đồng hồ?",
+      "question": "Vì sao việc chọn 'thói quen hiện tại' làm mỏ neo trong Chồng lớp thói quen lại vượt trội hơn dựa vào giờ giấc đồng hồ?",
       "options": [
-        "Vì đồng hồ có thể bị hết pin hoặc chạy sai giờ ngẫu nhiên.",
-        "Vì thói quen hiện tại đã có sẵn một mạng lưới thần kinh vững chắc trong não, đóng vai trò như một mỏ neo kích hoạt gợi ý rõ ràng và tự nhiên.",
-        "Vì con người không có khả năng đọc các chữ số điện tử trên màn hình.",
-        "Vì thời gian trên đồng hồ luôn làm tăng mức độ căng thẳng của tim."
+        "Thói quen hiện tại đã có sẵn mạng nơ-ron liên kết vững chắc, đóng vai trò tín hiệu kích hoạt tự nhiên trong ngày.",
+        "Thời gian trên đồng hồ mang tính nhân tạo nên dễ gây ra cảm giác căng thẳng và áp lực vô hình cho não bộ.",
+        "Các mốc giờ cố định thường bị đảo lộn bởi những cuộc hẹn đột xuất từ đồng nghiệp hoặc người thân xung quanh.",
+        "Nhịp sinh học của cơ thể con người không bao giờ đồng bộ hoàn toàn với chu kỳ thời gian của đồng hồ kim cương."
       ],
-      "correctIndex": 1,
-      "explanation": "Một thói quen đã định hình (đánh răng, pha cà phê, cởi giày) mang tần số xuất hiện ổn định và tín hiệu vật lý rõ rệt hơn nhiều so với một mốc thời gian trừu tượng."
+      "correctIndex": 0,
+      "explanation": "Một thói quen đã định hình (đánh răng, pha cà phê, cởi giày) có tín hiệu vật lý và ngữ cảnh cụ thể, giúp kích hoạt hành vi mới dễ dàng hơn một con số giờ trừu tượng."
     },
     {
       "id": "q8",
-      "question": "Một người muốn hình thành thói quen biết ơn mỗi ngày. Ứng dụng chuỗi Chồng thói quen nào sau đây là hợp lý và thực tế nhất?",
+      "question": "Một người muốn hình thành thói quen thực hành lòng biết ơn mỗi ngày. Ứng dụng Chồng lớp thói quen nào là hợp lý nhất?",
       "options": [
-        "'Sau khi tôi ngồi xuống bàn ăn tối, tôi sẽ nói một điều tôi cảm thấy biết ơn đã xảy ra trong ngày hôm nay'.",
-        "'Bất cứ khi nào rảnh rỗi trong tuần, tôi sẽ cố gắng nghĩ về sự biết ơn'.",
-        "'Tôi sẽ viết nhật ký biết ơn dài 50 trang mỗi khi có cảm xúc dâng trào'.",
-        "'Sau khi trúng số độc đắc, tôi sẽ cảm ơn tất cả những người xung quanh'."
+        "Bất cứ khi nào rảnh rỗi trong ngày làm việc, tôi sẽ tự nhắc nhở bản thân về những điều may mắn đã có trong đời.",
+        "Tôi sẽ viết nhật ký biết ơn dài năm trang giấy mỗi khi tâm trạng cảm thấy xúc động và thăng hoa nhất trong tuần.",
+        "Mỗi khi nhận được sự giúp đỡ từ người khác, tôi sẽ lập tức mua quà đắt tiền để đền đáp xứng đáng lại cho họ.",
+        "Sau khi ngồi xuống bàn dùng bữa tối, tôi sẽ nói to một điều mà bản thân cảm thấy biết ơn đã xảy ra trong ngày."
       ],
-      "correctIndex": 0,
-      "explanation": "Gắn hành vi tí hon (nói 1 điều biết ơn) vào một mỏ neo có tính quy luật hàng ngày (ngồi xuống bàn ăn tối) đảm bảo tính khả thi và tần suất lặp lại liên tục."
+      "correctIndex": 3,
+      "explanation": "Gắn hành động tí hon (nói một điều biết ơn) vào một mỏ neo chắc chắn diễn ra hằng ngày (ngồi xuống bàn ăn tối) là cách ứng dụng chuẩn xác của Chồng lớp thói quen."
     },
     {
       "id": "q9",
-      "question": "Sai lầm phổ biến nhất khi mọi người thực hiện Chồng thói quen ở giai đoạn bắt đầu là gì?",
+      "question": "Sai lầm phổ biến nhất của người mới áp dụng Chồng lớp thói quen khiến kế hoạch dễ bị đổ vỡ là gì?",
       "options": [
-        "Chọn một thói quen mỏ neo diễn ra quá thường xuyên trong ngày.",
-        "Gán một thói quen mới quá lớn, quá mơ hồ hoặc chọn mỏ neo có thời điểm diễn ra không ổn định trong ngày.",
-        "Không thông báo kế hoạch thói quen lên trang cá nhân mạng xã hội.",
-        "Uống quá ít nước lọc trong khi thực hiện thói quen mới."
+        "Chọn một thói quen mỏ neo diễn ra quá thường xuyên khiến bản thân bị ngập tràn trong các đầu việc nhỏ nhặt.",
+        "Không chia sẻ rộng rãi kế hoạch rèn luyện lên mạng xã hội để nhận được sự giám sát từ cộng đồng bạn bè xung quanh.",
+        "Chọn tín hiệu kích hoạt quá mơ hồ hoặc đặt thói quen mới vào thời điểm hoàn cảnh đang đầy xáo trộn và bận rộn.",
+        "Cố gắng gắn kết hành vi mới với một thói quen tích cực thay vì kết nối với một hành động trung tính thường nhật."
       ],
-      "correctIndex": 1,
-      "explanation": "Ví dụ: 'Sau khi nghỉ trưa, tôi sẽ tập thể dục' là quá mơ hồ (nghỉ trưa ở đâu? mấy giờ? tập cái gì?). Mỏ neo và hành vi mới đều phải cực kỳ cụ thể và có quy mô vừa sức."
+      "correctIndex": 2,
+      "explanation": "Tín hiệu kích hoạt phải cực kỳ đặc hiệu và có cùng tần suất. Nếu chọn tín hiệu mơ hồ ('khi nghỉ trưa') hoặc thời điểm hỗn loạn, thói quen sẽ nhanh chóng thất bại."
     },
     {
       "id": "q10",
-      "question": "Điều gì quyết định sự thành công của một chuỗi Chồng thói quen gồm nhiều hành vi liên tiếp nhau (Habit Stack Chain)?",
+      "question": "Yếu tố then chốt nào quyết định sự thành công khi liên kết nhiều thói quen thành một chuỗi dài liên hoàn?",
       "options": [
-        "Mỗi mắt xích hành vi phải tự nhiên dẫn dắt và tạo tiền đề thuận lợi cho mắt xích hành vi tiếp theo diễn ra trơn tru.",
-        "Chuỗi đó phải bao gồm ít nhất 50 hành vi khác nhau trong một buổi sáng.",
-        "Bạn phải hoàn thành chuỗi hành vi trong trạng thái nhịn thở hoàn toàn.",
-        "Tất cả các hành vi trong chuỗi đều phải liên quan trực tiếp đến việc kiếm tiền."
+        "Chuỗi thói quen phải bao gồm ít nhất mười hành động khác nhau để tối đa hóa hiệu suất làm việc của buổi sáng.",
+        "Mỗi hành vi hoàn thành phải tạo ra quán tính tự nhiên và trở thành tín hiệu kích hoạt hành vi tiếp theo diễn ra.",
+        "Tất cả các hoạt động trong chuỗi đều phải tạo ra giá trị tài chính trực tiếp cho người thực hiện chúng mỗi ngày.",
+        "Bạn phải hoàn thành toàn bộ chuỗi thói quen với tốc độ thật nhanh mà không được phép nghỉ ngơi chút nào giữa chừng."
       ],
-      "correctIndex": 0,
-      "explanation": "Một chuỗi thói quen lý tưởng vận hành như những quân cờ domino: cởi giày -> để giày vào kệ -> lấy quần áo tập thể dục -> thay đồ -> xỏ giày chạy bộ."
+      "correctIndex": 1,
+      "explanation": "Trong một chuỗi chồng lớp, hành vi trước phải đóng vai trò là tín hiệu tự nhiên khởi phát hành vi sau, giống như chuỗi hiệu ứng domino đổ liên hoàn."
     },
     {
       "id": "q11",
-      "question": "Để lựa chọn được 'mỏ neo' phù hợp cho thói quen mới, câu hỏi tự vấn nào sau đây mang tính dẫn dắt hiệu quả nhất?",
+      "question": "Để tìm được 'mỏ neo' vững chắc cho thói quen mới, câu hỏi tự vấn nào sau đây mang tính dẫn dắt hiệu quả nhất?",
       "options": [
-        "'Việc gì tôi luôn luôn làm mỗi ngày mà không bao giờ bỏ sót (như thức dậy, đánh răng, bước ra khỏi xe)?'",
-        "'Người giàu nhất thế giới đang làm gì vào lúc 4 giờ sáng?'",
-        "'Làm sao để tôi không phải làm bất kỳ việc gì mà vẫn có kết quả?'",
-        "'Tại sao cuộc đời lại bất công và bắt tôi phải nỗ lực rèn luyện?'"
+        "Những hành động quen thuộc nào tôi chắc chắn thực hiện đều đặn mỗi ngày mà không bao giờ bỏ sót trong cuộc sống?",
+        "Những thói quen buổi sáng nào của các tỷ phú nổi tiếng trên thế giới mà tôi nên học hỏi và sao chép theo ngay?",
+        "Làm sao để tôi có thể loại bỏ hoàn toàn các thói quen cũ nhằm xây dựng một thời gian biểu mới tinh từ đầu?",
+        "Đâu là những hành vi mang lại cảm giác hưng phấn tột độ giúp tôi có động lực bứt phá ngay lập tức mỗi buổi sáng?"
       ],
       "correctIndex": 0,
-      "explanation": "Bằng cách rà soát Bảng điểm thói quen để tìm ra các hành vi chắc chắn xảy ra 100% mỗi ngày, bạn sẽ tìm được những mỏ neo hoàn hảo để móc thói quen mới vào."
+      "explanation": "Mỏ neo tốt nhất là những sự việc chắc chắn xảy ra 100% mỗi ngày (thức dậy, đánh răng, cởi giày, tắt đèn, mặt trời lặn) để gắn hành vi mới vào."
     },
     {
       "id": "q12",
-      "question": "Mối liên hệ giữa 'Ý định thực thi' và việc vượt qua sự mệt mỏi cuối ngày được giải thích như thế nào?",
+      "question": "Mối liên hệ giữa 'Ý định thực thi' và hiện tượng cạn kiệt ý chí (Decision Fatigue) được giải thích như thế nào?",
       "options": [
-        "Ý định thực thi giúp loại bỏ hoàn toàn cảm giác mệt mỏi thể xác.",
-        "Khi đã có ý định thực thi định sẵn, bạn không cần tốn năng lượng ý chí để đắn đo 'có nên làm không, làm ở đâu, làm lúc nào'; bạn chỉ việc thực hiện theo kịch bản đã lập trình.",
-        "Ý định thực thi chỉ phát huy tác dụng vào buổi sáng sớm trước bình minh.",
-        "Nó bắt buộc bạn phải uống thêm các loại đồ uống tăng lực chứa nhiều caffeine."
+        "Ý định thực thi giúp cơ thể loại bỏ hoàn toàn cảm giác mệt mỏi thể chất sau một ngày làm việc mệt nhoài ngoài xã hội.",
+        "Kế hoạch định trước sẽ kích thích não bộ tiết ra lượng lớn hormone hưng phấn để chống lại cơn buồn ngủ kéo đến.",
+        "Phương pháp này chỉ phát huy tối đa công dụng vào buổi sáng sớm khi năng lượng tinh thần còn nguyên vẹn và minh mẫn.",
+        "Khi thời gian và nơi chốn đã ấn định sẵn, bạn không cần tốn ý chí để đắn đo xem có nên làm hay không tại thời điểm đó."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự mệt mỏi làm tê liệt khả năng ra quyết định (Decision Fatigue). Khi kế hoạch đã được ấn định sẵn thời gian và địa điểm, bạn hành động như một phản xạ mà không cần tranh luận nội tâm."
+      "correctIndex": 3,
+      "explanation": "Khi đến thời điểm hành động đã định trước, bạn không cần phải đưa ra quyết định nữa. Bạn chỉ việc thực thi theo kịch bản có sẵn, giải phóng áp lực cho ý chí."
     },
     {
       "id": "q13",
-      "question": "Nếu một người muốn dùng Ý định thực thi để từ chối các lời mời nhậu nhẹt có hại cho sức khỏe, cấu trúc 'Nếu... Thì...' (If-Then planning) nào sau đây là tối ưu?",
+      "question": "Nếu muốn dùng Ý định thực thi để từ chối các lời rủ rê nhậu nhẹt có hại, cấu trúc 'Nếu... Thì...' nào là tối ưu?",
       "options": [
-        "'Nếu ai đó rủ tôi đi uống bia tối nay, tôi sẽ mắng họ thậm tệ'.",
-        "'Nếu đồng nghiệp rủ tôi đi nhậu sau giờ làm, tôi sẽ mỉm cười cảm ơn và nói: Tôi đã có lịch chạy bộ cùng câu lạc bộ lúc 18h'.",
-        "'Nếu có ai rủ đi chơi, tôi sẽ tắt nguồn điện thoại và trốn trong nhà vệ sinh'.",
-        "'Nếu bị rủ rê, tôi sẽ đi uống một chút rồi về sớm trước nửa đêm'."
+        "Nếu có ai mời đi uống rượu sau giờ làm, tôi sẽ mắng họ gay gắt vì đã không tôn trọng lối sống lành mạnh của tôi.",
+        "Nếu bị đồng nghiệp rủ rê tụ tập, tôi sẽ tắt chuông điện thoại và lén rời khỏi văn phòng thật nhanh chóng vào cuối ngày.",
+        "Nếu ai đó rủ tôi đi nhậu sau giờ làm, tôi sẽ cảm ơn lịch sự và nói mình đã có lịch tập thể thao lúc 18 giờ.",
+        "Nếu được mời tham gia tiệc tùng tối nay, tôi sẽ nhận lời nhưng chỉ ngồi uống nước lọc trong góc phòng cho hết giờ."
       ],
-      "correctIndex": 1,
-      "explanation": "Cấu trúc 'Nếu tình huống X xảy ra, tôi sẽ phản hồi bằng hành động Y' giúp chuẩn bị trước phản xạ ứng phó xã hội lịch thiệp nhưng dứt khoát, bảo vệ ranh giới cá nhân."
+      "correctIndex": 2,
+      "explanation": "Cấu trúc 'Khi tình huống X xảy ra, tôi sẽ phản ứng Y' giúp chuẩn bị sẵn phản xạ xã hội lịch sự nhưng kiên quyết, loại bỏ sự ngập ngừng khó xử."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc ghi chép cụ thể thời gian và địa điểm lại có sức mạnh hơn nhiều so với việc chỉ ghi lời hứa trong đầu?",
+      "question": "Tại sao việc viết ra cụ thể thời gian và địa điểm lại có sức mạnh vượt trội so với việc chỉ tự hứa trong đầu?",
       "options": [
-        "Vì nét mực trên giấy phát ra từ trường kích thích não bộ tập trung.",
-        "Việc viết ra biến một ý niệm mơ hồ thành một cam kết cụ thể với thực tại, tạo ra tín hiệu kích hoạt rõ ràng khi thời gian và không gian đó xuất hiện.",
-        "Vì luật pháp quy định mọi cam kết cá nhân phải được lập thành văn bản.",
-        "Bởi vì người khác có thể đọc được và ép buộc bạn phải thực hiện."
+        "Nét mực trên giấy phát ra năng lượng từ trường giúp kích thích các tế bào thần kinh hoạt động mạnh mẽ hơn bình thường.",
+        "Biến mong muốn mơ hồ thành một cam kết cụ thể, giúp bạn dễ dàng nói không với những xao nhãng chen ngang vào lịch trình.",
+        "Não bộ con người hoàn toàn không có khả năng ghi nhớ thông tin trừ khi nó được viết thành văn bản giấy rõ ràng.",
+        "Việc ghi chép tạo ra nỗi sợ hãi thất bại trước người khác, từ đó ép buộc bản thân phải hành động liên tục không ngừng."
       ],
       "correctIndex": 1,
-      "explanation": "Tính cụ thể (Specificity) là kẻ thù số một của sự trì hoãn. Khi thời gian và địa điểm đã được khóa chặt, não bộ nhận diện thời khắc đó như một kích thích hành động không thể chối từ."
+      "explanation": "Càng cụ thể về những gì mình muốn và nơi chốn thực hiện, bạn càng dễ từ chối những đòi hỏi vụn vặt làm chệch hướng mục tiêu."
     },
     {
       "id": "q15",
-      "question": "Tóm lại, Quy luật 1 (Khiến nó rõ ràng) trong Chương 5 trang bị cho độc giả hai vũ khí thực chiến mạnh mẽ nhất là:",
+      "question": "Tóm lại, Chương 5 trang bị cho bạn hai công cụ thực tiễn mạnh mẽ nhất của Nguyên tắc 1 (Khiến nó rõ ràng) là gì?",
       "options": [
-        "Ý chí quyết tâm và Sự trừng phạt bản thân.",
-        "Ý định thực thi (Implementation Intentions) và Chiến lược Chồng thói quen (Habit Stacking).",
-        "Xem video truyền cảm hứng và Đọc sách self-help mỗi ngày.",
-        "Uống thực phẩm chức năng và Thuê huấn luyện viên cá nhân."
+        "Ý định thực thi (kế hoạch thời gian/địa điểm) và Chồng lớp thói quen (gắn hành vi mới vào hành vi cũ đã có).",
+        "Sức mạnh ý chí kiên định vượt khó và cơ chế tự trừng phạt nghiêm khắc mỗi khi bản thân trễ nải mục tiêu đề ra.",
+        "Tìm kiếm người đồng hành lý tưởng và thiết lập bảng theo dõi thói quen chi tiết trên các ứng dụng di động hiện đại.",
+        "Đọc sách tạo động lực mỗi ngày và thường xuyên hình dung về viễn cảnh thành công rực rỡ trong tương lai xa của mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Đây là hai kỹ thuật nền tảng của Quy luật 1: Ý định thực thi gắn hành vi với Thời gian/Địa điểm, còn Chồng thói quen gắn hành vi mới với Thói quen cũ."
+      "correctIndex": 0,
+      "explanation": "Ý định thực thi tạo ra kế hoạch rõ ràng về thời gian và địa điểm; Chồng lớp thói quen liên kết hành vi mới với một thói quen hằng ngày vững chắc."
     }
   ]
 }

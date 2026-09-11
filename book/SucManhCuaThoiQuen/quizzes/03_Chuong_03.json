@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Theo 'Nguyên tắc vàng để thay đổi thói quen' (The Golden Rule of Habit Change), quy trình nào sau đây là chính xác và bền vững nhất?",
+      "question": "Nội dung cốt lõi của \"Nguyên tắc vàng để thay đổi thói quen\" được Charles Duhigg đúc kết là gì?",
       "options": [
-        "Dùng ý chí đè bẹp cả Gợi ý, Hoạt động thường nhật và Phần thưởng cùng một lúc.",
-        "Thay đổi Gợi ý liên tục mỗi ngày và từ chối mọi loại Phần thưởng.",
-        "Giữ nguyên Gợi ý cũ, giữ nguyên Phần thưởng cũ, nhưng chèn vào một Hoạt động thường nhật (Routine) mới.",
-        "Chuyển đến một môi trường hoàn toàn cô lập để xóa sạch mọi ký ức về thói quen cũ."
+        "Dập tắt hoàn toàn tín hiệu kích hoạt ban đầu và dùng kỷ luật thép để triệt tiêu mọi nhu cầu phần thưởng trong não bộ.",
+        "Giữ nguyên Gợi ý cũ, mang lại Phần thưởng cũ, nhưng chèn vào một Lề thói hành động hoàn toàn mới ở giữa vòng lặp.",
+        "Thay đổi toàn bộ môi trường sống xung quanh và cắt đứt liên lạc với những người quen cũ để bắt đầu lại từ đầu.",
+        "Chỉ tập trung vào việc gia tăng sức chịu đựng của ý chí mà không cần bận tâm đến cấu trúc gợi ý kích thích xung quanh."
       ],
-      "correctIndex": 2,
-      "explanation": "Quy tắc vàng chỉ ra rằng bạn không thể dập tắt một thói quen xấu; bạn chỉ có thể biến đổi nó bằng cách giữ nguyên tín hiệu kích hoạt (Cue) và cảm giác thỏa mãn mong muốn (Reward), nhưng thay thế hành động thường nhật (Routine) ở giữa."
+      "correctIndex": 1,
+      "explanation": "Nguyên tắc vàng khẳng định thói quen xấu không thể bị triệt tiêu hoàn toàn; muốn thay đổi, ta phải giữ nguyên gợi ý kích hoạt và phần thưởng thỏa mãn, chỉ thay thế lề thói thực thi ở giữa."
     },
     {
       "id": "q2",
-      "question": "Huấn luyện viên Tony Dungy đã áp dụng nguyên tắc vàng của thói quen như thế nào để vực dậy đội bóng yếu kém Tampa Bay Buccaneers?",
+      "question": "Triết lý huấn luyện đột phá của huấn luyện viên bóng bầu dục Tony Dungy dựa trên nguyên lý then chốt nào?",
       "options": [
-        "Rút gọn sơ đồ thi đấu, huấn luyện các cầu thủ phản ứng tự động trước một số ít tín hiệu gợi ý thị giác trên sân để họ hành động theo thói quen nhanh hơn đối thủ mà không cần đắn đo suy nghĩ.",
-        "Ép các cầu thủ tập luyện thể lực 18 tiếng mỗi ngày không nghỉ.",
-        "Bắt các cầu thủ học thuộc lòng hơn 500 chiến thuật phức tạp mới mỗi tuần.",
-        "Thay thế toàn bộ đội hình bằng các cầu thủ ngôi sao từ giải bóng đá châu Âu."
+        "Yêu cầu cầu thủ học thuộc lòng hàng trăm chiến thuật phức tạp để đối phó linh hoạt với mọi biến số trên sân cỏ.",
+        "Trừng phạt nghiêm khắc các cầu thủ mắc sai lầm bằng các bài tập thể lực cực hạn ngay sau khi kết thúc trận đấu.",
+        "Không dạy chiến thuật mới lạ mà rèn luyện phản xạ tự động trước tín hiệu thực địa, giúp cầu thủ hành động không do dự.",
+        "Tuyển mộ các ngôi sao đắt giá nhất từ các câu lạc bộ đối thủ danh tiếng nhằm áp đảo đối phương bằng tài năng cá nhân vượt trội."
       ],
-      "correctIndex": 0,
-      "explanation": "Dungy nhận ra rằng việc đắn đo suy nghĩ trên sân cỏ làm cầu thủ chậm lại một phần tích tắc. Ông huấn luyện họ tự động hóa phản xạ trước các tín hiệu gợi ý cụ thể để đưa ra hành động thường nhật chuẩn xác với tốc độ tối đa."
+      "correctIndex": 2,
+      "explanation": "Dungy nhận thấy sự do dự giết chết tốc độ; ông đơn giản hóa các phương án và huấn luyện cầu thủ phản xạ tự động trước các tín hiệu gợi ý quen thuộc của đối phương mà không cần mất thời gian suy nghĩ."
     },
     {
       "id": "q3",
-      "question": "Tổ chức Hội Người Nghiện Rượu Ẩn Danh (Alcoholics Anonymous - AA) thành công trong việc giúp hàng triệu người cai nghiện chủ yếu dựa trên cơ chế tâm lý nào?",
+      "question": "Tại sao các đội bóng của Tony Dungy thường thi đấu xuất sắc ở vòng loại nhưng lại gục ngã ở các trận cầu sinh tử (Playoffs)?",
       "options": [
-        "Yêu cầu các thành viên nộp toàn bộ tài sản cá nhân cho tổ chức để tránh mua rượu.",
-        "Sử dụng các loại thuốc gây nôn mửa mỗi khi người tham gia nhìn thấy rượu.",
-        "Xác định chính xác Gợi ý (như lo âu, cô đơn, căng thẳng) và Phần thưởng (sự xoa dịu, giải tỏa, kết nối) của việc uống rượu, sau đó thay thế hành vi uống rượu bằng hành vi chia sẻ và kết nối với người đồng cảnh ngộ trong nhóm.",
-        "Cách ly người nghiện rượu trong các trung tâm biệt lập suốt 10 năm."
+        "Do thể lực của các cầu thủ bị quá tải sau chuỗi trận kéo dài mà ban huấn luyện không có kế hoạch xoay tua hợp lý.",
+        "Khi áp lực lên đến đỉnh điểm trong trận cầu sinh tử, cầu thủ thiếu niềm tin vững chắc và bản năng cũ trỗi dậy lấn át.",
+        "Do đối thủ đã giải mã thành công toàn bộ chiến thuật đơn giản của Dungy và đưa ra các bài phối hợp khắc chế hiệu quả.",
+        "Do trọng tài thường có xu hướng xử ép đội bóng của Dungy trong những thời khắc then chốt của các trận đấu loại trực tiếp."
       ],
-      "correctIndex": 2,
-      "explanation": "AA không tấn công vào cơn say sinh học mà nhắm vào thói quen: người ta uống rượu để xoa dịu lo âu và tìm sự kết nối; AA cung cấp một hoạt động thường nhật mới (chia sẻ trong nhóm 90 ngày) mang lại đúng phần thưởng xoa dịu và đồng cảm đó."
+      "correctIndex": 1,
+      "explanation": "Trong các trận đấu loại trực tiếp nghẹt thở, khi thói quen mới chưa đi kèm với Niềm tin (Belief) sắt đá, sự căng thẳng tột độ khiến cầu thủ nghi ngờ phương pháp và vô thức quay lại thói quen suy nghĩ luẩn quẩn cũ."
     },
     {
       "id": "q4",
-      "question": "Yếu tố quan trọng nào đóng vai trò quyết định giúp một người duy trì thói quen mới khi gặp phải những biến cố hoặc khủng hoảng cực độ trong cuộc sống?",
+      "question": "Tổ chức Người nghiện rượu vô danh (Alcoholics Anonymous - AA) giúp các hội viên cai nghiện thành công nhờ cơ chế nào?",
       "options": [
-        "Niềm tin (Belief) – niềm tin rằng mọi chuyện sẽ tốt đẹp hơn và tin rằng mình thực sự có khả năng thay đổi, thường được củng cố mạnh mẽ nhất trong một cộng đồng hoặc nhóm hỗ trợ.",
-        "Khả năng chịu đựng đau đớn thể xác vượt trội.",
-        "Việc quên đi toàn bộ những sai lầm đã phạm phải trong quá khứ.",
-        "Một khoản tiền thưởng tài chính lớn hứa hẹn trong tương lai."
+        "Cung cấp các loại thuốc phong tỏa thần kinh đặc hiệu nhằm tạo ra phản xạ nôn mửa mỗi khi ngửi thấy mùi cồn.",
+        "Sử dụng các biện pháp cô lập thể xác nghiêm ngặt để người nghiện không thể tiếp cận rượu trong suốt một năm ròng.",
+        "Giữ nguyên gợi ý căng thẳng và phần thưởng xoa dịu, nhưng thay thế hành vi uống rượu bằng việc tâm tình và sẻ chia.",
+        "Tập trung giáo dục về tác hại kinh tế và pháp lý của rượu nhằm đánh thức lương tri và trách nhiệm công dân của người nghiện."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi áp lực và khủng hoảng ập đến, các thói quen cũ rất dễ trỗi dậy. Nghiên cứu chứng minh rằng 'Niềm tin' (được tôi luyện trong một môi trường cộng đồng) là thành tố cốt tử giúp cá nhân tin rằng mình có thể vượt qua cám dỗ mà không cần quay lại thói quen cũ."
+      "correctIndex": 2,
+      "explanation": "AA không triệt tiêu nhu cầu giải tỏa căng thẳng hay tìm kiếm sự kết nối (phần thưởng); họ thay thế lề thói uống rượu tại quán bar bằng việc tham gia các buổi sinh hoạt nhóm và trò chuyện với người bảo trợ."
     },
     {
       "id": "q5",
-      "question": "Tại sao đội bóng của Tony Dungy thường chơi rất hay ở vòng bảng nhưng lại bất ngờ gục ngã ở các trận đấu Play-off quyết định trong những năm đầu?",
+      "question": "Yếu tố tâm lý mang tính quyết định giúp người nghiện không bị tái nghiện khi biến cố thảm khốc ập đến là gì?",
       "options": [
-        "Vì các cầu thủ bị thiếu hụt dinh dưỡng trầm trọng trước trận đấu.",
-        "Vì khi áp lực trận đấu lên đến đỉnh điểm nghẹt thở, các cầu thủ mất niềm tin vào hệ thống thói quen mới và quay lại lối tư duy cũ, đắn đo suy nghĩ dẫn đến mắc sai lầm.",
-        "Vì đối thủ gian lận bằng cách nghe trộm chiến thuật của đội.",
-        "Vì sân đấu Play-off có kích thước lớn hơn sân đấu thông thường."
+        "Việc ký kết một bản cam kết pháp lý có tính ràng buộc cao với chính quyền địa phương và người thân trong gia đình.",
+        "Nỗi sợ hãi tột độ trước nguy cơ bị mất việc làm hoặc bị tước quyền nuôi con nếu tái phạm hành vi uống rượu.",
+        "Sự gia tăng đột biến của thu nhập cá nhân giúp họ chi trả cho các hoạt động giải trí xa xỉ và các chuyến du lịch nghỉ dưỡng.",
+        "Niềm tin rằng mọi chuyện rồi sẽ tốt đẹp hơn và tin vào một điểm tựa tinh thần lớn lao nâng đỡ bản thân trong nghịch cảnh."
       ],
-      "correctIndex": 1,
-      "explanation": "Dưới áp lực tột độ của trận play-off, các cầu thủ chưa có đủ 'Niềm tin' sắt đá vào thói quen mới nên đã vô thức nghi ngờ và quay lại cách xử lý cũ có tính toán, làm chậm nhịp độ và nhận thất bại."
+      "correctIndex": 3,
+      "explanation": "Các nhà nghiên cứu phát hiện khi gặp khủng hoảng cực hạn (như người thân mất), kỹ thuật thay thế thói quen đơn thuần có thể gục ngã; chính Niềm tin sâu sắc (vào bản thân, tập thể, hoặc đấng tối cao) giúp họ đứng vững."
     },
     {
       "id": "q6",
-      "question": "Trong trường hợp cô gái Mandy mắc chứng nghiện cắn móng tay đến mức rỉ máu, nhà tâm lý học đã hướng dẫn cô đảo ngược thói quen (habit reversal training) bằng cách nào?",
+      "question": "Trong liệu pháp đảo ngược thói quen điều trị chứng cắn móng tay cho cô gái Mandy, bước đầu tiên mang tính sống còn là gì?",
       "options": [
-        "Đeo bao tay sắt cả ngày lẫn đêm để ngăn tay chạm vào miệng.",
-        "Phạt tiền mỗi lần cô đưa tay lên miệng cắn móng.",
-        "Thôi miên để cô quên mất mình có ngón tay.",
-        "Nhận diện Gợi ý (cảm giác căng tức ở đầu ngón tay khi buồn chán) và thay thế bằng Hoạt động mới (cho tay vào túi quần hoặc cầm chặt bút) để tạo ra Phần thưởng thỏa mãn thể chất tương đương mà không làm tổn thương ngón tay."
+        "Huấn luyện nhận thức: giúp Mandy nhận diện chính xác cảm giác căng thẳng hoặc kích thích đầu ngón tay kích hoạt hành vi.",
+        "Bôi các dung dịch hóa chất có vị đắng ngắt lên toàn bộ mười đầu ngón tay để tạo cảm giác ghê sợ bản năng tức thì.",
+        "Yêu cầu người thân liên tục la mắng và giám sát chặt chẽ mọi cử chỉ cử động của đôi bàn tay cô suốt cả ngày dài.",
+        "Bắt buộc cô phải đeo găng tay len dày cả ngày lẫn đêm để ngăn chặn sự tiếp xúc vật lý giữa răng và móng tay."
       ],
-      "correctIndex": 3,
-      "explanation": "Kỹ thuật đảo ngược thói quen giúp Mandy nhận biết tín hiệu kích hoạt (cảm giác ngứa ngáy căng thẳng ở đầu ngón tay) và thay hành động cắn móng bằng việc nắm chặt đồ vật hoặc gõ nhẹ ngón tay để nhận được sự giải tỏa tương đương."
+      "correctIndex": 0,
+      "explanation": "Bước đầu tiên trong liệu pháp đảo ngược thói quen là nâng cao nhận thức (Awareness training): Mandy phải học cách nhận diện cảm giác ngứa ngáy ở đầu ngón tay hoặc sự bồn chồn (gợi ý) trước khi cắn móng."
     },
     {
       "id": "q7",
-      "question": "Tại sao Bill Wilson (người sáng lập AA) lại đưa khái niệm 'Đấng Quyền Năng Cao Hơn' (Higher Power) vào chương trình 12 bước cai nghiện?",
+      "question": "Khi đã nhận biết được gợi ý, Mandy được bác sĩ Nathan Azrin hướng dẫn thực hiện \"phản ứng cạnh tranh\" như thế nào?",
       "options": [
-        "Vì ông muốn kiểm soát tâm lý của toàn bộ các thành viên trong hội.",
-        "Để biến AA thành một tôn giáo chính thức nhằm được miễn thuế.",
-        "Để tạo ra một nền tảng niềm tin giúp người nghiện tin rằng việc hồi phục là có thể, vì họ được tiếp sức bởi một sức mạnh lớn hơn chính bản thân mình.",
-        "Để ép buộc các thành viên phải tham gia vào các nghi lễ huyền bí."
+        "Mỗi khi cảm thấy muốn cắn móng, cô lập tức đút tay vào túi quần hoặc cầm chặt một cây bút để ngăn hành vi cắn.",
+        "Cô phải lập tức rời khỏi phòng và chạy bộ ba vòng quanh khu nhà để phân tán sự tập trung của hệ thống thần kinh.",
+        "Cô tự véo mạnh vào bắp đùi để tạo ra cảm giác đau đớn dữ dội nhằm lấn át cơn thèm muốn cắn móng tay vô thức.",
+        "Cô dùng băng dính y tế quấn kín chặt các đầu ngón tay để không thể đưa vào miệng cắn trong bất kỳ tình huống nào."
       ],
-      "correctIndex": 2,
-      "explanation": "Khoa học thần kinh nhận thấy 'Niềm tin' có tác dụng tái cấu trúc cách não bộ nhìn nhận nghịch cảnh; việc tin vào một điểm tựa tinh thần lớn lao giúp người cai nghiện củng cố niềm tin vào năng lực chuyển hóa của chính mình."
+      "correctIndex": 0,
+      "explanation": "Bác sĩ dạy Mandy một phản ứng cạnh tranh (competing response): hễ nhận thấy gợi ý kích hoạt, cô lập tức đút tay vào túi hoặc nắm chặt bút, tạo ra sự thỏa mãn thể chất tương đương mà không làm tổn thương móng tay."
     },
     {
       "id": "q8",
-      "question": "Điều gì đã giúp Tony Dungy cuối cùng dẫn dắt Indianapolis Colts giành chức vô địch Super Bowl lịch sử năm 2007?",
+      "question": "Biến cố gia đình đau thương nào đã giúp đội bóng Indianapolis Colts tìm thấy niềm tin tập thể để vô địch Super Bowl 2007?",
       "options": [
-        "Họ thay đổi toàn bộ ban huấn luyện ngay trước thềm trận chung kết.",
-        "Ông đã từ bỏ hoàn toàn phương pháp thói quen và quay lại huấn luyện truyền thống.",
-        "Sau biến cố bi thảm mất đi người con trai, toàn đội bóng đã gắn kết trong tình yêu thương và niềm tin sâu sắc vào nhau cũng như vào phương pháp của Dungy, giúp họ không còn nao núng dưới áp lực.",
-        "Họ may mắn vì đối thủ bị chấn thương toàn bộ cầu thủ chủ chốt."
+        "Toàn bộ ban huấn luyện quyết định từ chức để nhường quyền điều hành chuyên môn cho các cầu thủ kỳ cựu tự quản lý.",
+        "Cầu thủ ngôi sao số một của đội bóng tuyên bố giải nghệ khiến các đồng đội phải thi đấu với hơn 200% phong độ vốn có.",
+        "Nỗi đau mất con trai của Tony Dungy đã gắn kết toàn đội bóng trong tình yêu thương và niềm tin sắt son vào triết lý của ông.",
+        "Chủ sở hữu câu lạc bộ hứa thưởng một khoản tiền mặt khổng lồ chưa từng có cho mỗi cầu thủ nếu họ giành được chức vô địch Super Bowl."
       ],
       "correctIndex": 2,
-      "explanation": "Nỗi đau và sự đồng cảm sau biến cố gia đình của Dungy đã tôi luyện một niềm tin tập thể mãnh liệt cho đội bóng; khi bước vào Super Bowl, các cầu thủ thi đấu với niềm tin trọn vẹn và thực hiện thói quen chuẩn xác từng centimet."
+      "explanation": "Sự kiện con trai Dungy tự sát đã tạo ra làn sóng đồng cảm và gắn kết phi thường; các cầu thủ không còn thi đấu chỉ vì danh vọng mà vì tình đồng đội và niềm tin tuyệt đối vào hệ thống của Dungy, giúp họ vượt qua áp lực."
     },
     {
       "id": "q9",
-      "question": "Nếu một người có thói quen ăn đồ ngọt mỗi khi bị stress trong công việc, bước can thiệp đúng đắn nhất theo Nguyên tắc vàng là gì?",
+      "question": "Nếu một nhân viên văn phòng có thói quen ăn vặt đồ ngọt mỗi chiều để xoa dịu stress, giải pháp chuẩn xác theo Nguyên tắc vàng là gì?",
       "options": [
-        "Tự tát vào mặt mỗi khi nghĩ đến bánh ngọt.",
-        "Bỏ việc ngay lập tức để không bao giờ bị stress nữa.",
-        "Cố gắng chịu đựng cơn stress mà không làm gì cho đến khi kiệt sức.",
-        "Giữ nguyên Gợi ý (nhận biết khi nào cơ thể bị stress) và Phần thưởng (cần sự thư giãn, xoa dịu), nhưng thay thế việc ăn bánh ngọt bằng việc đi bộ 5 phút, uống trà hoa cúc hoặc trò chuyện với bạn bè."
+        "Nhốt mình trong phòng làm việc kín và nhịn ăn hoàn toàn để trừng phạt cơ thể mỗi khi có cảm giác thèm ăn đồ ngọt.",
+        "Nộp đơn xin nghỉ việc ngay lập tức để trốn tránh mọi áp lực căng thẳng từ cấp trên và khách hàng trong công việc.",
+        "Cố gắng gồng mình chịu đựng sự ức chế mà không tìm bất kỳ cách thức giải tỏa lành mạnh nào cho đến khi hết giờ làm việc tại công sở.",
+        "Giữ nguyên gợi ý căng thẳng và phần thưởng giải tỏa, nhưng thay bằng việc đi dạo vài phút hoặc uống một tách trà nóng."
       ],
       "correctIndex": 3,
-      "explanation": "Bạn không thể triệt tiêu cảm giác stress (Gợi ý) hay nhu cầu được xoa dịu (Phần thưởng); giải pháp là tìm một hành động thường nhật lành mạnh đáp ứng chính xác nhu cầu giải tỏa đó."
+      "explanation": "Nguyên tắc vàng chỉ ra rằng không thể loại bỏ gợi ý căng thẳng hay nhu cầu được thư giãn; cách bền vững là thay thế hành động ăn vặt bằng một thói quen lành mạnh khác (đi dạo, uống trà) mang lại sự thư thái tương tự."
     },
     {
       "id": "q10",
-      "question": "Nghiên cứu của nhà tâm lý học Todd Heatherton về những người thay đổi cuộc đời thành công cho thấy vai trò của 'Cộng đồng' (Group) là gì?",
+      "question": "Nghiên cứu của nhà tâm lý học Todd Heatherton chỉ ra sức mạnh then chốt của \"Cộng đồng\" trong việc biến đổi thói quen là gì?",
       "options": [
-        "Cộng đồng thay thế hoàn toàn nhu cầu rèn luyện cá nhân.",
-        "Cộng đồng giúp các thành viên cho nhau vay tiền khi gặp khó khăn tài chính.",
-        "Cộng đồng chỉ có tác dụng gây áp lực cưỡng bức chứ không tạo ra động lực thực sự.",
-        "Khi một người nhìn thấy những người khác trong nhóm làm được điều tương tự, niềm tin rằng 'mình cũng có thể thay đổi' được củng cố và biến thành hiện thực."
+        "Cộng đồng giúp chia sẻ gánh nặng tài chính và tạo điều kiện kinh tế thuận lợi cho các thành viên nghèo khó vươn lên thoát cảnh bần hàn.",
+        "Nhìn thấy những người khác chuyển biến giúp củng cố niềm tin vững chắc rằng bản thân mình cũng hoàn toàn có thể thay đổi.",
+        "Cộng đồng thay thế toàn bộ nỗ lực rèn luyện cá nhân thông qua các quy định kỷ luật mang tính áp đặt cưỡng bức.",
+        "Cộng đồng hoạt động như một cơ quan tư pháp thu nhỏ có quyền tước đoạt quyền công dân của những ai vi phạm cam kết."
       ],
-      "correctIndex": 3,
-      "explanation": "Sự thay đổi xảy ra dễ dàng hơn rất nhiều khi có sự đồng hành của một tập thể; nhìn thấy người khác vượt qua cám dỗ giúp não bộ tiếp nhận niềm tin rằng sự biến đổi là hoàn toàn khả thi."
+      "correctIndex": 1,
+      "explanation": "Sự biến đổi cá nhân trở nên dễ dàng và bền vững hơn rất nhiều khi có cộng đồng; chứng kiến những người cùng cảnh ngộ vượt qua khó khăn giúp não bộ tiếp nhận niềm tin rằng sự thay đổi là khả thi."
     },
     {
       "id": "q11",
-      "question": "Tại sao việc cố gắng dùng 'ý chí thuần túy' để dập tắt một thói quen xấu (như hút thuốc) thường chỉ hiệu quả trong thời gian ngắn rồi lại tái nghiện?",
+      "question": "Tại sao việc dùng \"ý chí thô bạo\" để cưỡng chế một thói quen nghiện ngập lâu năm thường dẫn đến nguy cơ tái phát rất cao?",
       "options": [
-        "Vì thuốc lá có chứa các hạt kim loại nặng không thể đào thải ra ngoài.",
-        "Vì gợi ý thần kinh và cơn thèm muốn phần thưởng vẫn còn nguyên vẹn trong hạch nền; khi ý chí suy giảm (do mệt mỏi hoặc căng thẳng), thói quen cũ sẽ lập tức tái kích hoạt nếu không có hành vi thay thế.",
-        "Vì phổi tự động đòi hỏi khói thuốc sau mỗi 24 giờ.",
-        "Vì người hút thuốc không có lương tâm và đạo đức."
+        "Vì ý chí là tài nguyên hữu hạn; khi gặp nghịch cảnh lớn, nếu không có lề thói thay thế, não bộ sẽ quay lại thói quen cũ.",
+        "Vì cơ thể con người không có khả năng thích nghi với bất kỳ sự thay đổi sinh hoạt nào sau tuổi ba mươi lăm.",
+        "Vì các hóa chất gây nghiện sẽ vĩnh viễn biến đổi cấu trúc gen di truyền khiến con người mất hoàn toàn ý chí tự do.",
+        "Vì việc kiềm chế cảm xúc sẽ tự động kích hoạt các phản ứng viêm nhiễm nguy hiểm trong toàn bộ hệ thống tuần hoàn máu."
       ],
-      "correctIndex": 1,
-      "explanation": "Thói quen không thể bị tiêu diệt hoàn toàn; nếu bạn chỉ đè nén mà không cung cấp một lối thoát hành vi mới mang lại phần thưởng tương đương, mạch thói quen cũ sẽ bùng phát ngay khi bạn kiệt sức."
+      "correctIndex": 0,
+      "explanation": "Đè nén bằng ý chí không làm mất đi vòng lặp thói quen trong não; khi ý chí suy kiệt do căng thẳng hoặc kiệt sức, các đường dẫn thần kinh cũ trong hạch nền sẽ tái kích hoạt nếu thiếu một hành vi thay thế khả dĩ."
     },
     {
       "id": "q12",
-      "question": "Trong thí nghiệm cai nghiện cắn móng tay của Mandy, 'Thẻ ghi chép thói quen' (Habit log) đóng vai trò then chốt như thế nào?",
+      "question": "Vai trò chủ yếu của việc sử dụng nhật ký theo dõi thói quen trong liệu pháp hành vi là gì?",
       "options": [
-        "Dùng để nộp cho cơ quan công an kiểm tra hàng tuần.",
-        "Giúp luyện chữ đẹp cho các ngón tay bớt run rẩy.",
-        "Giúp cô nâng cao mức độ nhận thức có ý thức về các 'Gợi ý' vô thức vốn kích hoạt hành vi cắn móng tay mà trước đó cô không hề để ý.",
-        "Dùng để tính tiền phạt sau mỗi lần vi phạm."
+        "Thu thập bằng chứng cụ thể để người thân có thể đối chất và chỉ trích các sai phạm của cá nhân một cách thuyết phục.",
+        "Buộc bộ não phải đưa các gợi ý kích hoạt từ tầng tiềm thức vô diện ra ngoài ánh sáng của sự nhận biết có ý thức.",
+        "Rèn luyện kỹ năng viết văn sáng tạo và nâng cao khả năng diễn đạt cảm xúc phức tạp cho các bệnh nhân tâm thần.",
+        "Chứng minh rằng người bệnh hoàn toàn không có bất kỳ khuyết điểm hành vi nào đáng kể trong đời sống thường nhật."
       ],
-      "correctIndex": 2,
-      "explanation": "Phần lớn thói quen diễn ra trong vô thức; việc ghi nhật ký buộc não bộ phải nhận diện rõ ràng các thời điểm, cảm xúc và bối cảnh kích hoạt thói quen, đưa chúng từ tiềm thức ra ánh sáng nhận thức."
+      "correctIndex": 1,
+      "explanation": "Phần lớn thói quen xấu xảy ra hoàn toàn tự động; việc ghi nhật ký theo dõi buộc vỏ não trước trán phải chú ý và nhận diện các yếu tố kích hoạt tinh vi, từ đó mở đường cho sự can thiệp có chủ đích."
     },
     {
       "id": "q13",
-      "question": "Khi nào việc thay đổi thói quen trở thành một phần vĩnh viễn trong căn tính (identity) của một người?",
+      "question": "Khi nào một sự thay đổi thói quen tích cực mới thực sự trở thành một phần bản sắc (identity) vĩnh viễn của một cá nhân?",
       "options": [
-        "Khi họ không chỉ thực hiện hành vi mới một cách máy móc, mà thực sự tin rằng 'mình là kiểu người đó' (ví dụ: 'Tôi là một người không uống rượu' thay vì 'Tôi đang cố nhịn rượu').",
-        "Khi họ chuyển đổi quốc tịch sang một nước phát triển hơn.",
-        "Khi họ đạt được tuổi 60.",
-        "Khi người đó chi trả hơn 100.000 USD cho các khóa học phát triển bản thân."
+        "Khi cá nhân đó đạt được độ tuổi trung niên và không còn nhu cầu khám phá những trải nghiệm phiêu lưu mạo hiểm mới.",
+        "Khi cá nhân được cấp chứng chỉ tốt nghiệp từ một khóa đào tạo kỹ năng sống chuyên nghiệp được quốc tế công nhận.",
+        "Khi họ không còn cảm thấy mình đang gồng mình chịu đựng, mà thực tâm tin rằng mình chính là hiện thân của lối sống mới đó.",
+        "Khi họ nhận được sự khen ngợi tán dương và sự công nhận chính thức từ toàn thể cộng đồng cư dân nơi họ sinh sống và làm việc hằng ngày."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự chuyển hóa sâu sắc nhất diễn ra khi thói quen gắn liền với căn tính và niềm tin cá nhân; khi một người tin rằng sự thay đổi là một phần bản chất của mình, thói quen sẽ trở nên bất khả xâm phạm."
+      "correctIndex": 2,
+      "explanation": "Thói quen bền vững nhất khi nó hòa nhập vào căn tính (identity) và hệ giá trị: người đó không còn nghĩ \"tôi đang cố nhịn rượu\" mà xác quyết rằng \"tôi là một người không uống rượu\", tin tưởng vào con người mới của mình."
     },
     {
       "id": "q14",
-      "question": "Điều gì chứng minh phương pháp của Tony Dungy không chỉ đúng trong thể thao mà còn đúng trong quản trị doanh nghiệp?",
+      "question": "Trong quản trị kinh doanh hiện đại, bài học đắt giá nhất từ triết lý thói quen của Tony Dungy là gì?",
       "options": [
-        "Doanh nghiệp không cần thuê nhân sự có trình độ cao nếu có thói quen.",
-        "Mọi nhân viên đều thích chơi bóng bầu dục trong giờ làm việc.",
-        "Các tổ chức hàng đầu đều chuẩn hóa quy trình phản ứng tự động trước các tín hiệu thị trường và khủng hoảng để nhân viên ra quyết định chuẩn xác với tốc độ cao nhất.",
-        "Dungy đã trở thành triệu phú nhờ bán bản quyền sách dạy bóng đá."
+        "Chuẩn hóa các quy trình phản ứng nhanh trước các tín hiệu thị trường giúp đội ngũ hành động quyết đoán và chuẩn xác.",
+        "Cắt giảm tối đa số lượng nhân sự cấp dưới để ban điều hành có thể trực tiếp đưa ra mọi quyết định tác nghiệp nhỏ lẻ.",
+        "Loại bỏ hoàn toàn các buổi họp định kỳ để nhân viên tự do sáng tạo theo cảm hứng cá nhân mà không cần quy tắc.",
+        "Bắt buộc mọi phòng ban phải áp dụng cùng một khuôn mẫu báo cáo tài chính hàng ngày bất kể lĩnh vực hoạt động."
       ],
-      "correctIndex": 2,
-      "explanation": "Trong kinh doanh cũng như thể thao, việc xây dựng các thói quen phản xạ tự động trước tín hiệu thực tế giúp đội ngũ hành động nhanh hơn, nhất quán hơn và giảm thiểu sai sót do do dự."
+      "correctIndex": 0,
+      "explanation": "Cũng như trên sân bóng, các doanh nghiệp hàng đầu thiết lập các thói quen tác nghiệp chuẩn mực (routines) trước các tín hiệu khủng hoảng hoặc cơ hội thị trường, giúp nhân viên phản ứng tức thì không chậm trễ."
     },
     {
       "id": "q15",
-      "question": "Thông điệp cốt lõi từ Chương 3 có thể tóm gọn lại là gì?",
+      "question": "Thông điệp tổng kết sâu sắc nhất về bản chất của sự biến đổi con người được khẳng định trong Chương 3 là gì?",
       "options": [
-        "Nếu bạn có một thói quen xấu, bạn là kẻ thất bại không có cơ hội làm lại.",
-        "Chỉ có những người theo tôn giáo mới có thể từ bỏ được thói quen xấu.",
-        "Bạn không thể dập tắt thói quen xấu mà phải chuyển hóa nó; và để thói quen mới bền vững qua giông bão, bạn cần Niềm tin được nâng đỡ bởi một Cộng đồng.",
-        "Cách tốt nhất để bỏ rượu là uống cà phê thật nhiều."
+        "Con người hoàn toàn có thể xóa sạch quá khứ lầm lỗi chỉ sau một đêm nếu tham gia vào các khóa học truyền cảm hứng.",
+        "Sự biến đổi đòi hỏi công nghệ can thiệp thần kinh hiện đại và chỉ dành riêng cho những người có điều kiện kinh tế cao.",
+        "Những ai đã vướng vào thói quen tiêu cực thì vĩnh viễn không thể làm lại cuộc đời vì hệ thần kinh đã bị hủy hoại.",
+        "Ta không thể tiêu diệt thói quen cũ mà phải chuyển hóa lề thói; và để bền vững qua giông bão, ta cần Niềm tin trong Cộng đồng."
       ],
-      "correctIndex": 2,
-      "explanation": "Công thức biến đổi toàn diện: Áp dụng Nguyên tắc vàng (thay thế hoạt động thường nhật) + Xây dựng Niềm tin sắt đá + Tìm kiếm một Cộng đồng đồng hành hỗ trợ."
+      "correctIndex": 3,
+      "explanation": "Tam giác biến đổi của Chương 3: Áp dụng Nguyên tắc vàng (chuyển hóa lề thói, giữ gợi ý và phần thưởng) + Kiến tạo Niềm tin vào khả năng thay đổi + Nương tựa vào sức mạnh nâng đỡ của một Cộng đồng đồng hành."
     }
   ]
 }

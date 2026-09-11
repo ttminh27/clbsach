@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Khung làm việc thực hành 4 bước (4-step framework) để chẩn đoán và thay đổi bất kỳ thói quen nào được tác giả đúc kết trong Phụ lục bao gồm các bước theo thứ tự nào?",
+      "question": "Khung làm việc thực hành 4 bước (4-step framework) để chẩn đoán và thay đổi một thói quen gồm những bước nào?",
       "options": [
-        "1. Xóa tài khoản mạng xã hội -> 2. Đổi nhà mới -> 3. Bỏ việc -> 4. Đổi tên",
-        "1. Xác định thói quen thường nhật (Routine) -> 2. Thử nghiệm với các phần thưởng khác nhau (Rewards) -> 3. Tách biệt gợi ý kích hoạt (Cue) -> 4. Thiết lập một kế hoạch hành động cụ thể (Plan)",
-        "1. Tự phạt bản thân -> 2. Cầu nguyện -> 3. Kiêng khem -> 4. Bỏ cuộc",
-        "1. Mua sách mới -> 2. Lập thời gian biểu -> 3. Thuê huấn luyện viên -> 4. Uống thuốc bổ"
+        "Xác định mục tiêu lớn lao -> Tìm người đồng hành kỷ luật sắt đá -> Thiết lập chế tài xử phạt nghiêm khắc -> Đánh giá kết quả đạt được.",
+        "Nhận diện Lề thói -> Thử nghiệm các Phần thưởng khác nhau -> Tách biệt Gợi ý kích hoạt -> Thiết lập Kế hoạch hành động cụ thể.",
+        "Phân tích ADN -> Uống thuốc can thiệp thần kinh -> Thiền định trong không gian tĩnh lặng -> Tự thôi miên tiềm thức mỗi tối.",
+        "Loại bỏ căng thẳng công việc -> Thay đổi nơi cư trú -> Cắt đứt các mối quan hệ cũ -> Bắt đầu rèn luyện từ con số không."
       ],
       "correctIndex": 1,
-      "explanation": "Khung 4 bước chuẩn mực khoa học: 1. Nhận diện hành vi thường nhật (Routine), 2. Thử nghiệm phần thưởng để tìm nhu cầu thực sự (Rewards), 3. Tách biệt tín hiệu kích hoạt (Cue), 4. Thiết lập kế hoạch If-Then (Plan)."
+      "explanation": "Khung làm việc 4 bước thực hành của Duhigg: 1. Nhận diện lề thói; 2. Thử nghiệm với các phần thưởng; 3. Cô lập gợi ý kích hoạt; 4. Thiết lập kế hoạch hành động cụ thể (If-Then)."
     },
     {
       "id": "q2",
-      "question": "Trong ví dụ cá nhân của chính tác giả Charles Duhigg về thói quen xấu: 'Chiều nào lúc 3h30 cũng đứng dậy đi lên căng tin mua một chiếc bánh quy socola và buôn chuyện', Bước 1 (Xác định hành vi thường nhật) được xác định là gì?",
+      "question": "Trong ví dụ cá nhân của Charles Duhigg về thói quen ăn bánh quy mỗi chiều, bước đầu tiên \"Nhận diện lề thói\" là gì?",
       "options": [
-        "Cảm giác đói cồn cào trong dạ dày.",
-        "Thời gian 3h30 chiều mỗi ngày làm việc.",
-        "Hành động đứng dậy, đi thang máy lên tầng trên, mua bánh quy socola và đứng nói chuyện phiếm với đồng nghiệp.",
-        "Việc tiêu tốn tiền bạc vào đồ ăn ngọt."
+        "Cảm giác thèm ăn đường và đồ ngọt xuất hiện đột ngột vào lúc ba giờ ba mươi phút chiều mỗi ngày làm việc.",
+        "Khoản tiền mặt ông phải chi trả để mua bánh nướng tại quầy thu ngân của nhà ăn tòa nhà.",
+        "Hành động đứng dậy, đi thang máy lên tầng 11, mua bánh quy sô-cô-la và vừa ăn vừa trò chuyện.",
+        "Nỗi ân hận và cảm giác tội lỗi sau khi nhận ra mình đã tăng hơn 3,6 kg trong vài tháng."
       ],
       "correctIndex": 2,
-      "explanation": "Bước 1 là quan sát chính xác chuỗi hành vi thể chất rõ ràng nhất: đứng dậy, đi lên căng tin, mua bánh và trò chuyện – đó chính là Hoạt động thường nhật (Routine)."
+      "explanation": "Lề thói (Routine) là chuỗi hành vi cụ thể có thể quan sát được: đứng dậy khỏi bàn làm việc, đi lên tầng 11, mua bánh và trò chuyện với các đồng nghiệp."
     },
     {
       "id": "q3",
-      "question": "Tại sao ở Bước 2, tác giả lại phải 'Thử nghiệm với các phần thưởng khác nhau' (Experiment with rewards) trong nhiều ngày liên tiếp?",
+      "question": "Tại sao ở Bước 2, tác giả lại phải \"Thử nghiệm với các phần thưởng khác nhau\" thay vì chỉ bỏ ăn bánh quy?",
       "options": [
-        "Để tiêu hết tiền lẻ có trong ví.",
-        "Để thử xem loại bánh nào ngon nhất trong tòa nhà.",
-        "Để kiểm tra xem căng tin có giảm giá các món đồ ăn khác không.",
-        "Để giải mã xem 'Cơn thèm muốn thực sự' (Craving) bên dưới thói quen là gì: là do đói bụng thực sự, cần đường nạp năng lượng, buồn chán cần giải lao, hay khao khát được giao tiếp xã hội với đồng nghiệp."
+        "Để tìm hiểu xem loại bánh kẹo nào có giá thành rẻ nhất nhằm tiết kiệm ngân sách chi tiêu tài chính cá nhân hằng ngày của bản thân.",
+        "Để kiểm tra xem đầu bếp nhà ăn có sử dụng các nguyên liệu đảm bảo tiêu chuẩn vệ sinh an toàn thực phẩm hay không.",
+        "Để giải mã chính xác khao khát thần kinh thực sự đang ẩn giấu bên dưới hành vi (đói bụng, cần đường, hay cần giải lao).",
+        "Để làm quen với tất cả các nhân viên phục vụ mới được tuyển dụng vào làm việc tại căng tin của tòa soạn báo."
       ],
-      "correctIndex": 3,
-      "explanation": "Phần thưởng thực sự thường bị ẩn giấu; việc thử các phần thưởng thay thế (ngày 1 ăn táo, ngày 2 uống trà, ngày 3 đi dạo, ngày 4 chỉ nói chuyện không ăn) giúp xác định chính xác nhu cầu cốt lõi của não bộ."
+      "correctIndex": 2,
+      "explanation": "Não bộ tìm kiếm phần thưởng vô thức; bạn phải thử các phần thưởng thay thế (ăn táo, uống cà phê, đi dạo, trò chuyện) để xem điều gì thực sự dập tắt cơn thôi thúc."
     },
     {
       "id": "q4",
-      "question": "Kết quả thử nghiệm ở Bước 2 của Charles Duhigg cho thấy phần thưởng thực sự khiến ông đứng dậy mua bánh quy mỗi chiều là gì?",
+      "question": "Kết quả thử nghiệm ở Bước 2 của Charles Duhigg cho thấy phần thưởng thực sự của thói quen ăn bánh quy là gì?",
       "options": [
-        "Ông hoàn toàn không đói bánh quy, mà ông khao khát sự giao tiếp xã hội và giải tỏa buồn chán (được nói chuyện phiếm với đồng nghiệp 10 phút sau nhiều giờ ngồi máy tính).",
-        "Ông muốn sưu tập các hóa đơn mua hàng ở căng tin.",
-        "Cơ thể ông bị thiếu đường huyết trầm trọng.",
-        "Ông thích mùi vị của bột mì nướng giòn."
+        "Nhu cầu giải tỏa sự cô đơn và tìm kiếm sự tương tác xã hội thông qua việc trò chuyện cùng đồng nghiệp.",
+        "Nhu cầu bổ sung lượng calo cấp bách do cơ thể bị tụt đường huyết nghiêm trọng sau nhiều giờ viết lách.",
+        "Cơn nghiện hương vị bơ sữa béo ngậy đặc trưng của món bánh sô-cô-la nướng giòn rụm tại nhà ăn tầng mười một.",
+        "Khao khát được vận động đôi chân sau quãng thời gian ngồi làm việc liên tục trên chiếc ghế xoay văn phòng."
       ],
       "correctIndex": 0,
-      "explanation": "Khi ông thử đi bộ sang bàn đồng nghiệp nói chuyện 10 phút mà không ăn gì, sau 15 phút ông vẫn cảm thấy hoàn toàn thỏa mãn; điều này chứng minh nhu cầu thực sự là giao tiếp chứ không phải chiếc bánh quy."
+      "explanation": "Khi Duhigg thử đi dạo sang bàn đồng nghiệp tán gẫu 10 phút mà không ăn bánh, cơn thèm muốn biến mất hoàn toàn; ông phát hiện nhu cầu thực sự là giao tiếp xã hội và giải lao trí não."
     },
     {
       "id": "q5",
-      "question": "Theo nghiên cứu của các nhà khoa học hành vi, hầu hết mọi Gợi ý kích hoạt (Cues) trong cuộc sống đều rơi vào một trong 5 nhóm phạm trù nào?",
+      "question": "Theo nghiên cứu hành vi học, hầu hết mọi \"Gợi ý kích hoạt\" thói quen đều thuộc về một trong 5 nhóm nào?",
       "options": [
-        "1. Cân nặng, 2. Chiều cao, 3. Nhóm máu, 4. Tuổi tác, 5. Giới tính",
-        "1. Màu sắc, 2. Nhiệt độ, 3. Độ ẩm, 4. Ánh sáng, 5. Gió",
-        "1. Địa điểm (Location), 2. Thời gian (Time), 3. Trạng thái cảm xúc (Emotional state), 4. Những người xung quanh (Other people), 5. Hành động liền trước đó (Immediately preceding action)",
-        "1. Tiền bạc, 2. Xe cộ, 3. Nhà cửa, 4. Điện thoại, 5. Máy tính"
+        "Thời tiết, Mức thu nhập cá nhân, Tình trạng hôn nhân, Chế độ ăn uống và Sở thích âm nhạc.",
+        "Địa điểm, Thời gian, Trạng thái cảm xúc, Những người xung quanh và Hành động ngay trước đó.",
+        "Độ tuổi, Giới tính sinh học, Trình độ học vấn, Quốc tịch cư trú và Định hướng nghề nghiệp.",
+        "Cân nặng cơ thể, Nhịp tim sinh học, Huyết áp động mạch, Lượng đường trong máu và Nhiệt độ môi trường."
       ],
-      "correctIndex": 2,
-      "explanation": "5 phạm trù phổ quát của mọi tín hiệu kích hoạt: Địa điểm, Thời gian, Trạng thái cảm xúc, Người ở cùng, và Hành vi vừa xảy ra ngay trước đó."
+      "correctIndex": 1,
+      "explanation": "5 nhóm gợi ý kinh điển: 1. Địa điểm (ở đâu); 2. Thời gian (mấy giờ); 3. Trạng thái cảm xúc (đang thấy thế nào); 4. Những người xung quanh (ở cùng ai); 5. Hành động ngay trước đó (vừa làm xong việc gì)."
     },
     {
       "id": "q6",
-      "question": "Ở Bước 3 (Tách biệt gợi ý), phương pháp ghi chép nhật ký mỗi khi cơn thôi thúc thói quen xuất hiện cần trả lời 5 câu hỏi nào?",
+      "question": "Ở Bước 3 (Tách biệt gợi ý), phương pháp ghi chép nhật ký 5 câu hỏi mỗi khi cơn thôi thúc xuất hiện có mục đích gì?",
       "options": [
-        "1. Bạn ăn gì sáng nay? 2. Bạn mặc áo màu gì? 3. Thời tiết thế nào? 4. Bạn có tập thể dục không? 5. Bạn ngủ bao nhiêu tiếng?",
-        "Tôi là ai? Tôi đến từ đâu? Tôi đi về đâu? Tôi có tiền không? Hôm nay là thứ mấy?",
-        "1. Giá cổ phiếu bao nhiêu? 2. Xe bạn còn xăng không? 3. Điện thoại còn bao nhiêu pin? 4. Ai đang gọi bạn? 5. Bạn nợ bao nhiêu tiền?",
-        "1. Bạn đang ở đâu? 2. Mấy giờ rồi? 3. Trạng thái cảm xúc của bạn là gì? 4. Có ai ở xung quanh bạn không? 5. Hành động nào vừa diễn ra ngay trước đó?"
+        "Thu thập dữ liệu thực nghiệm để tìm ra mẫu số chung kích hoạt thói quen giữa hàng loạt biến số ngẫu nhiên.",
+        "Ghi lại bằng chứng cụ thể để nộp cho chuyên gia tư vấn tâm lý xem xét trong các buổi trị liệu hành vi định kỳ hằng tuần tại phòng khám.",
+        "Rèn luyện thói quen viết văn miêu tả và nâng cao vốn từ vựng tiếng Anh trong môi trường làm việc công sở.",
+        "Chứng minh cho cấp trên thấy rằng áp lực công việc quá tải là nguyên nhân duy nhất dẫn đến việc ăn vặt."
       ],
-      "correctIndex": 3,
-      "explanation": "Trả lời đều đặn 5 câu hỏi này trong 3-5 ngày liên tiếp sẽ làm lộ diện mẫu hình lặp lại duy nhất kích hoạt thói quen của bạn (ví dụ: luôn là lúc 3h30 chiều khi vừa xong một công việc)."
+      "correctIndex": 0,
+      "explanation": "Bằng cách trả lời 5 câu hỏi mỗi khi muốn ăn bánh, Duhigg nhận thấy dữ liệu hội tụ về một gợi ý duy nhất: thời gian (khoảng 3h30 chiều) sau khi viết bài vài tiếng."
     },
     {
       "id": "q7",
-      "question": "Sau khi trả lời 5 câu hỏi trong vài ngày, Charles Duhigg phát hiện ra Gợi ý kích hoạt chính xác cho thói quen của ông là gì?",
+      "question": "Sau khi ghi chép dữ liệu trong vài ngày, Charles Duhigg đã phát hiện ra gợi ý kích hoạt thói quen của mình là gì?",
       "options": [
-        "Mùi bánh quy bay từ căng tin xuống phòng làm việc.",
-        "Sự xuất hiện của một đồng nghiệp rủ rê đi ăn.",
-        "Cảm giác đau lưng do ngồi ghế cứng.",
-        "Yếu tố Thời gian: luôn rơi vào khoảng 3h00 đến 3h30 chiều mỗi ngày, khi mức năng lượng giảm nhẹ và cần một khoảng nghỉ giữa giờ làm việc."
+        "Cảm giác giận dữ và ức chế tột độ mỗi khi bài viết bị tổng biên tập tòa soạn yêu cầu chỉnh sửa lại.",
+        "Thời điểm khoảng 3 giờ 30 phút chiều mỗi ngày, sau một chuỗi thời gian tập trung làm việc mệt mỏi.",
+        "Sự rủ rê nhiệt tình của các đồng nghiệp ngồi cùng bàn làm việc mỗi khi họ chuẩn bị đi ăn nhẹ buổi chiều.",
+        "Mùi hương bánh quy nướng thơm lừng bay theo đường thông gió từ tầng mười một xuống phòng làm việc của ông."
       ],
-      "correctIndex": 3,
-      "explanation": "Dữ liệu cho thấy bất kể ông đang ở đâu, cảm xúc thế nào hay ở cùng ai, cứ đến khoảng 3h30 chiều là tín hiệu thời gian lại kích hoạt cơn thôi thúc cần giải lao và nói chuyện."
+      "correctIndex": 1,
+      "explanation": "Bất kể ông đang viết bài gì, tâm trạng vui hay buồn, cứ đến khoảng 3h30 chiều là gợi ý thời gian lại kích hoạt nhu cầu đứng dậy đi tìm người trò chuyện."
     },
     {
       "id": "q8",
-      "question": "Ở Bước 4 (Thiết lập kế hoạch hành động cụ thể), công thức thực thi 'Nếu... Thì...' (Implementation Intention) được tác giả xây dựng như thế nào để thay thế thói quen ăn bánh quy?",
+      "question": "Ở Bước 4, công thức thực thi \"Nếu... Thì...\" (Implementation Intention) được tác giả thiết lập thế nào?",
       "options": [
-        "'Nếu thèm bánh quy, tôi sẽ xin nghỉ việc sớm để về nhà ngủ'.",
-        "'Vào lúc 3h30 mỗi chiều (Gợi ý), tôi sẽ đi bộ sang bàn của một đồng nghiệp và trò chuyện trong 10 phút (Hoạt động thường nhật mới), sau đó quay lại làm việc (Phần thưởng thỏa mãn nhu cầu kết nối)'.",
-        "'Vào lúc 3h30, tôi sẽ mua 5 chiếc bánh quy để ăn bù cho cả tuần'.",
-        "'Nếu đến 3h30 chiều, tôi sẽ tự phạt mình nhịn ăn tối'."
+        "Nếu muốn ăn bánh quy lúc ba giờ rưỡi, tôi sẽ tự phạt mình nhịn ăn toàn bộ bữa tối cùng gia đình.",
+        "Nếu cảm thấy mệt mỏi vào buổi chiều, tôi sẽ lập tức nộp đơn xin về sớm để ngủ bù cho ngày hôm trước.",
+        "Vào lúc 3h30, tôi sẽ mua năm chiếc bánh quy sô-cô-la cùng lúc để ăn một thể cho đỡ mất công đi lại.",
+        "Đến 3h30 chiều (Gợi ý), tôi sẽ đi sang bàn đồng nghiệp trò chuyện 10 phút (Lề thói mới) để giải tỏa (Phần thưởng)."
       ],
-      "correctIndex": 1,
-      "explanation": "Kế hoạch If-Then rõ ràng: Khi gợi ý 3h30 xuất hiện, thay vì đi mua bánh quy (Routine cũ), ông đi tìm đồng nghiệp trò chuyện 10 phút (Routine mới) để nhận đúng phần thưởng kết nối xã hội."
+      "correctIndex": 3,
+      "explanation": "Kế hoạch If-Then chuẩn xác: giữ nguyên gợi ý (3h30 chiều), giữ nguyên phần thưởng (giao tiếp xã hội, thư giãn), chỉ thay lề thói cũ (mua bánh) bằng lề thói mới (nói chuyện 10 phút với đồng nghiệp)."
     },
     {
       "id": "q9",
-      "question": "Tại sao trong những ngày đầu thực hiện kế hoạch mới, tác giả lại phải đặt chuông báo thức vào lúc 3h30 chiều?",
+      "question": "Tại sao trong những ngày đầu thực hiện kế hoạch mới, tác giả lại phải cài đặt chuông báo thức vào lúc 3h30 chiều?",
       "options": [
-        "Để kiểm tra xem chuông điện thoại có hoạt động tốt không.",
-        "Để thông báo cho cả phòng biết ông chuẩn bị đi nói chuyện phiếm.",
-        "Để nhắc ông uống thuốc hạ sốt.",
-        "Để chủ động đón đầu khoảnh khắc xuất hiện Gợi ý, nhắc nhở ý thức thực hiện hành động mới trước khi hạch nền vô thức tự động dẫn chân ông đi lên căng tin theo thói quen cũ."
+        "Để nhắc nhở đồng nghiệp trong cơ quan chuẩn bị tinh thần tiếp đón ông đến trò chuyện giải lao.",
+        "Để báo hiệu cho toàn bộ phòng ban biết đã đến giờ giải lao tự do theo quy chế lao động nội bộ.",
+        "Để kiểm tra độ nhạy và âm lượng phát chuông của chiếc đồng hồ đeo tay mới mua từ tuần trước.",
+        "Để chủ động đón đầu gợi ý, nhắc nhở ý thức can thiệp trước khi hạch nền tự động dẫn bước chân lên nhà ăn."
       ],
       "correctIndex": 3,
-      "explanation": "Đặt báo thức giúp kích hoạt sự chú ý có ý thức ngay tại thời điểm gợi ý xuất hiện, ngăn chặn não bộ trượt vào chế độ lái tự động theo quán tính cũ."
+      "explanation": "Chuông báo thức giúp kích hoạt sự chú ý có ý thức ngay tại thời điểm gợi ý xuất hiện, ngăn chặn não bộ trượt vào chế độ lái tự động của thói quen cũ."
     },
     {
       "id": "q10",
-      "question": "Nếu bạn áp dụng khung 4 bước để bỏ thói quen lướt điện thoại vô thức mỗi tối trước khi đi ngủ, Bước 2 (thử nghiệm phần thưởng) có thể giúp bạn phát hiện điều gì?",
+      "question": "Nếu áp dụng khung 4 bước để bỏ thói quen lướt điện thoại vô thức trước khi ngủ, Bước 2 có thể giúp ta nhận ra điều gì?",
       "options": [
-        "Bạn là một chuyên gia đánh giá công nghệ điện thoại.",
-        "Bạn không thực sự cần xem video ngắn, mà não bạn đang tìm kiếm sự thư giãn xoa dịu sau ngày dài căng thẳng; phần thưởng này có thể được thay thế bằng việc đọc một cuốn tiểu thuyết nhẹ nhàng hoặc nghe nhạc êm dịu.",
-        "Lướt điện thoại giúp bạn giảm cân nhanh chóng.",
-        "Điện thoại phát ra bức xạ làm bạn ngủ ngon hơn."
+        "Mắt của chúng ta có khả năng chịu đựng ánh sáng xanh tốt hơn người bình thường gấp nhiều lần.",
+        "Ta không thực sự cần xem video ngắn, mà não đang khao khát sự xoa dịu sau ngày dài căng thẳng mệt mỏi.",
+        "Việc sử dụng mạng xã hội ban đêm là một nghĩa vụ bắt buộc để duy trì vị thế xã hội trong công việc.",
+        "Chiếc điện thoại thông minh đang bị nhiễm mã độc cần phải được cài đặt lại toàn bộ hệ điều hành."
       ],
       "correctIndex": 1,
-      "explanation": "Nhiều người lướt mạng xã hội vì não cần giải tỏa áp lực cuối ngày; khi nhận diện được phần thưởng này, bạn có thể thay bằng việc đọc sách giấy hoặc nghe audio thiền mà không bị ánh sáng xanh kích thích."
+      "explanation": "Thử nghiệm phần thưởng giúp ta nhận ra nhu cầu thực sự là được thư giãn xoa dịu thần kinh; từ đó ta có thể thay bằng việc đọc sách giấy hoặc nghe nhạc êm dịu mà không cần nhìn vào màn hình."
     },
     {
       "id": "q11",
-      "question": "Khi thử nghiệm phần thưởng ở Bước 2, kỹ thuật 'Viết ra 3 từ đầu tiên xuất hiện trong đầu và đợi 15 phút' có tác dụng gì?",
+      "question": "Khi thử nghiệm phần thưởng ở Bước 2, kỹ thuật \"Viết ra 3 từ đầu tiên xuất hiện trong đầu và chờ 15 phút\" nhằm mục đích gì?",
       "options": [
-        "Viết 3 từ giúp nâng cao sự tự nhận thức cảm xúc, và khoảng dừng 15 phút giúp kiểm chứng xem cơn thèm muốn ban đầu đã thực sự được thỏa mãn bởi phần thưởng mới hay chưa.",
-        "Để rèn luyện khả năng gõ bàn phím tốc độ cao.",
-        "Giúp bạn kiểm tra xem mình có bị mất trí nhớ tạm thời hay không.",
-        "Giúp bạn sáng tác một bài thơ ngắn mỗi ngày."
+        "Viết ra giúp nhận diện cảm xúc, và khoảng dừng 15 phút giúp kiểm chứng xem cơn thèm muốn đã thực sự tan biến chưa.",
+        "Rèn luyện khả năng phản xạ ngôn ngữ nhanh và kiểm tra xem trí nhớ ngắn hạn của người tham gia có bị suy giảm bất thường hay không.",
+        "Tạo bằng chứng cụ thể để chứng minh cho gia đình thấy mình đang nỗ lực rèn luyện kỷ luật bản thân.",
+        "Giúp cơ thể tiêu hóa hết lượng thức ăn vừa nạp vào trước khi bắt đầu thực hiện bài tập thể chất tiếp theo."
       ],
       "correctIndex": 0,
-      "explanation": "Sau 15 phút, nếu cơn thôi thúc vẫn còn, chứng tỏ phần thưởng bạn vừa thử không phải là nhu cầu thực sự; nếu cơn thôi thúc biến mất hoàn toàn, bạn đã tìm trúng đích khao khát của não bộ."
+      "explanation": "Nếu sau 15 phút bạn vẫn muốn ăn bánh, phần thưởng đó không đúng; nếu cơn thèm muốn biến mất, bạn đã tìm trúng khao khát thực sự mà não bộ đang đòi hỏi."
     },
     {
       "id": "q12",
-      "question": "Tại sao việc thay đổi thói quen đôi khi đòi hỏi sự kiên trì thử nghiệm qua nhiều tuần chứ không thể thành công chỉ sau 1 đêm?",
+      "question": "Tại sao việc thay đổi một thói quen lâu năm đòi hỏi sự kiên nhẫn thử nghiệm qua nhiều tuần chứ không thể có kết quả sau một đêm?",
       "options": [
-        "Vì các tế bào não phải mất ít nhất 10 năm mới có thể thích nghi với cái mới.",
-        "Vì thói quen chỉ có thể thay đổi vào những năm nhuận.",
-        "Vì việc giải mã chính xác các gợi ý vi tế và phần thưởng ẩn giấu là một quá trình điều tra khoa học cần thời gian quan sát, điều chỉnh và tinh chỉnh kế hoạch phù hợp với từng cá nhân.",
-        "Vì bạn phải chờ đợi sự cho phép của các chuyên gia tâm lý học."
+        "Vì các tế bào thần kinh của con người chỉ có thể tái tạo lại vào những chu kỳ nhất định của mặt trăng.",
+        "Vì pháp luật quy định một thói quen chỉ được công nhận là đã thay đổi sau khi có xác nhận của bác sĩ gia đình.",
+        "Vì việc giải mã chính xác gợi ý và phần thưởng ẩn giấu là một quá trình điều tra khoa học đòi hỏi thử và sai.",
+        "Vì cơ thể cần thời gian để đào thải toàn bộ các độc tố tích tụ trong gan và thận trước khi hình thành thói quen mới."
       ],
       "correctIndex": 2,
-      "explanation": "Không có con người nào giống hệt con người nào; việc tìm ra chính xác gợi ý và phần thưởng đòi hỏi sự kiên nhẫn thử nghiệm khoa học trên chính bản thân mình."
+      "explanation": "Không có công thức chung vạn năng; việc tìm ra chính xác gợi ý kích hoạt và phần thưởng thỏa mãn đòi hỏi sự kiên nhẫn điều tra thực nghiệm trên chính bản thân mình."
     },
     {
       "id": "q13",
-      "question": "Điều gì sẽ xảy ra nếu bạn cố gắng thay đổi thói quen mà bỏ qua Bước 3 (không xác định được Gợi ý kích hoạt)?",
+      "question": "Điều gì sẽ xảy ra nếu một người cố gắng thay đổi thói quen xấu mà bỏ qua Bước 3 (không xác định Gợi ý kích hoạt)?",
       "options": [
-        "Bạn sẽ tiết kiệm được 50% thời gian thay đổi thói quen.",
-        "Bạn sẽ luôn bị bất ngờ và bị động khi cơn thôi thúc vô thức ập đến, và bạn sẽ không biết chính xác thời điểm nào cần kích hoạt kế hoạch hành động thay thế.",
-        "Thói quen mới sẽ tự động hình thành nhanh hơn.",
-        "Bạn sẽ không bao giờ cảm thấy buồn ngủ nữa."
+        "Họ sẽ tiết kiệm được rất nhiều thời gian và năng lượng tư duy vì bỏ qua được các bước phân tích rườm rà.",
+        "Họ sẽ hoàn toàn miễn nhiễm trước mọi sự cám dỗ từ môi trường xung quanh mà không cần đến ý chí kiềm chế.",
+        "Họ sẽ tự động xây dựng được các thói quen tích cực mới nhanh hơn nhờ sự trợ giúp của bản năng tự nhiên.",
+        "Họ sẽ luôn bị bất ngờ khi cơn thôi thúc vô thức ập đến và không biết thời điểm nào cần kích hoạt kế hoạch thay thế."
       ],
-      "correctIndex": 1,
-      "explanation": "Nếu không biết đâu là tín hiệu khởi động vòng lặp (gợi ý), bạn sẽ luôn bị hành vi tự động vượt mặt trước khi kịp nhận ra mình đang làm gì."
+      "correctIndex": 3,
+      "explanation": "Nếu không biết đâu là ngòi nổ (gợi ý), bạn sẽ luôn bị thói quen cũ chiếm quyền kiểm soát trước khi kịp nhận ra mình đang làm gì, khiến kế hoạch thay thế trở nên vô hiệu."
     },
     {
       "id": "q14",
-      "question": "Khung 4 bước trong Phụ lục chứng minh điều gì về bản chất của cuốn sách 'Sức Mạnh Của Thói Quen'?",
+      "question": "Khung làm việc 4 bước trong phần Phụ lục chứng minh điều gì về bản chất ứng dụng của cuốn sách \"Sức Mạnh Của Thói Quen\"?",
       "options": [
-        "Đây là một cẩm nang hành động thực tiễn trao cho người đọc một bộ công cụ chẩn đoán khoa học để tự làm chủ và tái định hình bất kỳ hành vi nào trong cuộc sống cá nhân, sự nghiệp và tổ chức.",
-        "Đây là một cuốn sách lý thuyết hàn lâm thuần túy không có tính ứng dụng.",
-        "Cuốn sách chỉ dành riêng cho các nhà khoa học tại các viện nghiên cứu y khoa.",
-        "Cuốn sách khuyên mọi người nên sống thuận theo tự nhiên mà không cần kỷ luật."
+        "Đây là cẩm nang hành động thực tiễn cung cấp bộ công cụ chẩn đoán khoa học để độc giả tự làm chủ hành vi của mình.",
+        "Đây là một công trình nghiên cứu thuần túy học thuật chỉ dành riêng cho giới chuyên gia tâm thần học tham khảo.",
+        "Đây là một tập hợp các câu chuyện truyền cảm hứng nhưng hoàn toàn không có bất kỳ phương pháp thực thi cụ thể nào.",
+        "Đây là tài liệu hướng dẫn bắt buộc dành cho các sĩ quan quân đội trong việc huấn luyện tân binh tại chiến trường."
       ],
       "correctIndex": 0,
-      "explanation": "Cuốn sách kết hợp giữa những khám phá khoa học thần kinh đỉnh cao và phương pháp luận thực hành rõ ràng, biến những hiểu biết trừu tượng thành công cụ thay đổi cuộc đời cho mọi độc giả."
+      "explanation": "Cuốn sách không chỉ giải thích khoa học thần kinh trừu tượng mà kết thúc bằng một hướng dẫn thực hành chẩn đoán cụ thể, trao quyền cho độc giả tự thiết kế lại cuộc đời mình."
     },
     {
       "id": "q15",
-      "question": "Lời khuyên ý nghĩa nhất mà tác giả Charles Duhigg gửi gắm cho độc giả khi bắt đầu hành trình thay đổi thói quen là gì?",
+      "question": "Lời khuyên ý nghĩa nhất mà tác giả Charles Duhigg gửi gắm cho độc giả khi bắt đầu áp dụng khung 4 bước là gì?",
       "options": [
-        "Hãy kiên nhẫn với chính mình, nhìn nhận sự thay đổi như một cuộc thí nghiệm thú vị; khi hiểu được cơ chế vận hành của thói quen, bạn nắm trong tay sức mạnh để tái kiến thiết bất kỳ điều gì bạn mong muốn trong cuộc đời.",
-        "Hãy giữ kín mọi mục tiêu và không bao giờ chia sẻ với bất kỳ ai.",
-        "Đừng bao giờ bắt đầu thay đổi nếu bạn đã bước qua tuổi 40.",
-        "Hãy đòi hỏi sự hoàn hảo tuyệt đối ngay từ ngày đầu tiên và không bao giờ được phép vấp ngã."
+        "Phải đòi hỏi sự hoàn hảo tuyệt đối ngay từ ngày đầu tiên và tự trừng phạt bản thân nếu vô tình phạm phải sai lầm nhỏ.",
+        "Hãy giữ bí mật tuyệt đối về kế hoạch của mình và không cho phép bất kỳ ai biết về những khó khăn mình đang gặp phải.",
+        "Hãy nhìn nhận sự thay đổi như một cuộc thử nghiệm khoa học thú vị; kiên nhẫn giải mã và bạn sẽ làm chủ được số phận.",
+        "Chỉ nên bắt đầu rèn luyện khi cuộc sống hoàn toàn ổn định và không còn bất kỳ áp lực mưu sinh cơm áo gạo tiền nào."
       ],
-      "correctIndex": 0,
-      "explanation": "Thay đổi là một hành trình thử nghiệm và hoàn thiện liên tục. Với sự thấu hiểu khoa học về thói quen, không có giới hạn nào cho sự phát triển và hoàn thiện bản thân của bạn."
+      "correctIndex": 2,
+      "explanation": "Thay đổi thói quen không phải là cuộc chiến trừng phạt bản thân; đó là một cuộc thí nghiệm khoa học thú vị. Khi thấu hiểu cách thức vận hành của cỗ máy thói quen, bạn nắm trong tay chìa khóa tự do."
     }
   ]
 }

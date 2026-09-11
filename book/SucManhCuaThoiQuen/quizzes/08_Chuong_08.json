@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Tại sao vụ bắt giữ bà Rosa Parks tại Montgomery (Alabama) năm 1955 lại thổi bùng lên Phong trào Dân quyền vĩ đại làm thay đổi lịch sử nước Mỹ, trong khi các vụ bắt giữ tương tự trước đó đều chìm vào quên lãng?",
+      "question": "Tại sao vụ bắt giữ bà Rosa Parks năm 1955 lại bùng nổ thành phong trào tẩy chay xe buýt lịch sử tại Montgomery?",
       "options": [
-        "Vì chính quyền thành phố Montgomery chủ động kêu gọi người dân biểu tình.",
-        "Vì Rosa Parks là một nữ triệu phú giàu có nhất bang Alabama.",
-        "Vì Rosa Parks có mạng lưới 'Liên kết mạnh' (Strong ties) rộng khắp trong các hội nhóm xã hội địa phương, khiến bạn bè lập tức hành động vì tình thân ái cá nhân để bảo vệ bà.",
-        "Vì các tài xế xe buýt quyết định đình công đòi tăng lương vào ngày hôm sau."
+        "Vì bà là một chính trị gia đối lập nổi tiếng đang nắm giữ các chức vụ quyền lực cao nhất trong chính quyền bang.",
+        "Vì tòa án liên bang đã ra phán quyết xóa bỏ chế độ phân biệt chủng tộc trên toàn quốc ngay trước ngày bà bị bắt giữ.",
+        "Vì các tổ chức nhân quyền quốc tế đã bí mật chi trả hàng triệu đô-la để thuê người biểu tình xuống đường tuần hành.",
+        "Vì bà sở hữu mạng lưới mối liên kết xã hội sâu rộng và đa dạng, khiến vụ bắt giữ kích hoạt thói quen tình bạn rộng khắp."
       ],
-      "correctIndex": 2,
-      "explanation": "Rosa Parks là người phụ nữ được yêu mến ở nhiều tầng lớp xã hội (từ thợ may, nhà thờ đến thanh niên); tình bạn và sự gắn kết cá nhân sâu sắc (strong ties) đã thôi thúc cộng đồng lập tức đứng lên bảo vệ bà."
+      "correctIndex": 3,
+      "explanation": "Trước Rosa Parks đã có những người khác bị bắt vì từ chối nhường ghế (như thiếu nữ Claudette Colvin), nhưng Parks tham gia rất nhiều hội nhóm tôn giáo, may vá, từ thiện; tình bạn sâu rộng của bà kích hoạt sự phẫn nộ tập thể."
     },
     {
       "id": "q2",
-      "question": "Ba giai đoạn phát triển của một phong trào xã hội thành công theo phân tích của cuốn sách bao gồm những thói quen nào?",
+      "question": "Theo phân tích của Charles Duhigg, ba giai đoạn tuần tự kiến tạo nên một phong trào xã hội thành công là gì?",
       "options": [
-        "1. Khởi xướng từ chính phủ -> 2. Ban hành luật -> 3. Cưỡng chế thực thi",
-        "1. Bạo lực -> 2. Đàm phán -> 3. Ký kết hiệp ước",
-        "1. Bắt đầu từ thói quen xã hội của các 'Mối liên kết mạnh' (bạn thân) -> 2. Lan rộng nhờ thói quen của các 'Mối liên kết yếu' (áp lực ngang hàng giữa người quen) -> 3. Bền vững nhờ các nhà lãnh đạo tạo dựng 'Thói quen căn tính mới' cho cộng đồng.",
-        "1. Tuyên truyền báo chí -> 2. Thu gom tiền tài trợ -> 3. Bầu cử tổng thống"
+        "Thói quen tình bạn (liên kết mạnh) -> Thói quen cộng đồng (liên kết yếu và áp lực ngang hàng) -> Thói quen căn tính mới.",
+        "Kích động bạo lực vũ trang -> Đàm phán nhượng bộ chính trị trên bàn hội nghị -> Ký kết các hiệp ước hòa bình quốc tế.",
+        "Thu hút tài trợ từ các tập đoàn tài chính lớn -> Tuyên truyền trên truyền hình quốc gia -> Ban hành các sắc lệnh cưỡng chế.",
+        "Xây dựng đảng phái chính trị độc lập -> Tranh cử các vị trí lãnh đạo địa phương -> Thay đổi toàn bộ hiến pháp quốc gia."
       ],
-      "correctIndex": 2,
-      "explanation": "Công thức chuyển động xã hội: Mối liên kết mạnh khơi mào ngọn lửa -> Mối liên kết yếu lan tỏa khắp mạng lưới xã hội qua áp lực ngang hàng -> Thói quen căn tính mới biến phong trào thành một lối sống tự duy trì."
+      "correctIndex": 0,
+      "explanation": "Mô hình 3 giai đoạn: Phong trào bắt đầu từ thói quen tình bạn (liên kết mạnh); mở rộng nhờ thói quen cộng đồng và áp lực ngang hàng (liên kết yếu); và bền vững nhờ lãnh đạo truyền dẫn thói quen căn tính mới."
     },
     {
       "id": "q3",
-      "question": "Khái niệm 'Sức mạnh của các Mối liên kết yếu' (The Strength of Weak Ties) do nhà xã hội học Mark Granovetter phát hiện có vai trò gì trong việc lan tỏa một phong trào?",
+      "question": "Khái niệm \"Sức mạnh của các mối liên kết yếu\" (The Strength of Weak Ties) của Mark Granovetter mang ý nghĩa gì?",
       "options": [
-        "Mối liên kết yếu giúp giảm chi phí in ấn tài liệu biểu tình.",
-        "Mối liên kết yếu (những người quen biết sơ giao, đồng nghiệp khác phòng, bạn của bạn) đóng vai trò là những cây cầu nối bắc qua các nhóm xã hội biệt lập, giúp lan tỏa thông tin và tạo ra áp lực ngang hàng trên diện rộng.",
-        "Mối liên kết yếu là những mối quan hệ vô dụng không có giá trị truyền thông tin.",
-        "Mối liên kết yếu chỉ tồn tại trên các nền tảng mạng xã hội hiện đại."
+        "Những người bạn thân thiết nhất trong gia đình luôn là nguồn cung cấp thông tin việc làm và cơ hội kinh doanh tốt nhất.",
+        "Những mối quan hệ xã giao sơ cấp kết nối các nhóm xã hội khác nhau, giúp thông tin và trào lưu lan truyền rộng khắp.",
+        "Các mối quan hệ làm ăn ngắn hạn thường thiếu sự trung thành và dễ dàng đổ vỡ khi đối mặt với các khủng hoảng lớn.",
+        "Sự gắn kết lỏng lẻo giữa các cá nhân sẽ tự động triệt tiêu mọi xung đột văn hóa trong các tổ chức đa quốc gia hiện đại."
       ],
       "correctIndex": 1,
-      "explanation": "Bạn thân thường chia sẻ cùng một nhóm thông tin, nhưng 'người quen' (liên kết yếu) là cầu nối đưa thông điệp sang các vòng tròn xã hội hoàn toàn mới, biến một vụ việc cục bộ thành một phong trào toàn thành phố."
+      "explanation": "Granovetter chứng minh những người quen sơ giao (liên kết yếu) đóng vai trò là những cây cầu nối các mạng lưới xã hội khép kín; các ý tưởng, cơ hội việc làm và trào lưu mới chủ yếu lan truyền qua những mắt xích này."
     },
     {
       "id": "q4",
-      "question": "Cơ chế 'Áp lực ngang hàng' (Peer pressure / Peer habits) buộc những người không quen biết Rosa Parks vẫn tham gia tẩy chay xe buýt suốt hơn 1 năm trời như thế nào?",
+      "question": "Cơ chế \"Áp lực ngang hàng\" (Peer pressure / Peer habits) đã buộc những người bàng quan tham gia tẩy chay xe buýt ra sao?",
       "options": [
-        "Nếu một người bước lên xe buýt, họ sẽ bị bạn bè, hàng xóm và các mối quan hệ xã giao nhìn nhận là kẻ phản bội cộng đồng; nỗi sợ mất đi sự tôn trọng xã hội đã tạo thành một thói quen tuân thủ tập thể.",
-        "Họ được nhận tiền thưởng mỗi ngày từ ban tổ chức phong trào.",
-        "Tất cả các tuyến xe buýt trong thành phố đều bị phá hủy hoàn toàn.",
-        "Họ bị cảnh sát đe dọa phạt tù nếu bước lên xe buýt."
+        "Họ bị ban tổ chức phong trào đe dọa tịch thu nhà cửa và tước đoạt toàn bộ tài sản nếu nhìn thấy bước lên xe buýt.",
+        "Sự tham gia được kỳ vọng như một chuẩn mực xã hội tại nhà thờ và khu phố; không tham gia đồng nghĩa với sự cô lập.",
+        "Chính quyền thành phố ban hành lệnh cấm xe buýt hoạt động khiến người dân không còn bất kỳ lựa chọn đi lại nào khác.",
+        "Mỗi người tham gia tẩy chay đều được các nhà tài trợ phong trào phát tiền trợ cấp sinh hoạt đắt đỏ hằng ngày."
       ],
-      "correctIndex": 0,
-      "explanation": "Thói quen ngang hàng vận hành dựa trên chuẩn mực xã hội: con người luôn khao khát được cộng đồng chấp nhận; khi cả khu phố đều đi bộ, áp lực xã hội vô hình khiến bất kỳ ai cũng ngại ngần bước lên xe buýt."
+      "correctIndex": 1,
+      "explanation": "Áp lực ngang hàng vận hành thông qua các thói quen xã hội: khi mọi người xung quanh (bạn bè, hàng xóm, bạn đi lễ nhà thờ) đều tẩy chay, việc đi xe buýt sẽ phải trả giá bằng việc mất uy tín và bị cộng đồng xa lánh."
     },
     {
       "id": "q5",
-      "question": "Mục sư trẻ Martin Luther King Jr. đã làm gì để duy trì phong trào tẩy chay xe buýt kéo dài suốt 381 ngày bất chấp bạo lực và sự khủng bố của những kẻ phân biệt chủng tộc?",
+      "question": "Khi ngôi nhà riêng bị đánh bom và đám đông vũ trang chuẩn bị trả thù, Martin Luther King Jr. đã làm gì để định hình phong trào?",
       "options": [
-        "Kêu gọi người biểu tình vũ trang và tấn công lại cảnh sát.",
-        "Khuyên mọi người từ bỏ cuộc đấu tranh để bảo toàn mạng sống.",
-        "Chuyển hóa phong trào từ một cuộc phản đối giận dữ thông thường thành một 'Thói quen tâm linh và căn tính mới': dạy người dân thói quen yêu thương kẻ thù, tha thứ và kiên định bất bạo động theo tinh thần Cơ Đốc giáo.",
-        "Di chuyển toàn bộ người dân da đen sang một tiểu bang khác sinh sống."
+        "Ông khuyên đám đông nhanh chóng giải tán và bí mật đưa gia đình di tản sang một tiểu bang an toàn hơn ở miền Bắc.",
+        "Ông tuyên bố thành lập lực lượng dân quân tự vệ có vũ trang để sẵn sàng đối đầu trực diện với lực lượng cảnh sát địa phương.",
+        "Ông yêu cầu chính quyền liên bang ngay lập tức ban bố tình trạng thiết quân luật và bắt giữ toàn bộ quan chức thành phố.",
+        "Ông bước ra hiên nhà kêu gọi hạ vũ khí, biến lòng căm thù thành thói quen bất bạo động và tình yêu thương kẻ thù."
       ],
-      "correctIndex": 2,
-      "explanation": "King đã trao cho cộng đồng một thói quen căn tính vĩ đại: khi bị ném bom vào nhà, ông dạy họ không trả thù mà đáp lại bằng tình yêu và phẩm giá, biến người biểu tình thành những chiến sĩ tự nguyện của công lý."
+      "correctIndex": 3,
+      "explanation": "King đã ban tặng cho phong trào một thói quen phản xạ mới: đáp lại bạo lực bằng sự tha thứ và bất bạo động. Thói quen căn tính này đã nâng tầm cuộc đấu tranh từ một cuộc phản kháng cục bộ thành một biểu tượng đạo đức bất diệt."
     },
     {
       "id": "q6",
-      "question": "Nhà mục sư Rick Warren đã xây dựng Nhà thờ Saddleback từ một nhóm nhỏ thành đại giáo đoàn với hơn 20.000 tín đồ bằng cách cấu trúc các 'Thói quen cộng đồng' như thế nào?",
+      "question": "Mục sư Rick Warren đã áp dụng chiến lược nào để phát triển Saddleback thành một trong những đại giáo đoàn lớn nhất nước Mỹ?",
       "options": [
-        "Thuê các diễn viên Hollywood đến thuyết giảng hàng tuần.",
-        "Phát các chương trình ca nhạc giải trí suốt cả ngày chủ nhật.",
-        "Chia nhỏ giáo đoàn thành hàng nghìn 'Nhóm tế bào nhỏ' (Small groups) sinh hoạt tại nhà riêng hàng tuần, biến việc học kinh thánh và chia sẻ cuộc sống thành một thói quen xã hội tự quản gắn kết bền chặt.",
-        "Bắt buộc mọi người phải quyên góp 50% thu nhập hàng tháng."
+        "Tổ chức các buổi hòa nhạc rock hoành tráng ngoài trời và tặng quà miễn phí để thu hút thanh thiếu niên ham vui.",
+        "Yêu cầu các tín đồ phải đóng góp 50% thu nhập hằng tháng và ký cam kết trung thành tuyệt đối với cá nhân người sáng lập.",
+        "Chia nhỏ giáo đoàn thành các nhóm nhỏ thân mật tự quản tại nhà, trao quyền và tạo thói quen sinh hoạt gắn kết cá nhân.",
+        "Chi tiền mua lại toàn bộ các đài phát thanh và truyền hình địa phương để phát sóng bài giảng độc quyền suốt 24 giờ."
       ],
       "correctIndex": 2,
-      "explanation": "Warren nhận ra các bài giảng lớn không giữ chân được tín đồ; ông xây dựng mạng lưới các nhóm nhỏ 6-8 người gặp nhau hàng tuần để ăn tối và cầu nguyện, biến tôn giáo thành thói quen gắn kết xã hội thân mật."
+      "explanation": "Warren nhận ra đám đông lớn dễ tan rã; ông tổ chức giáo dân thành các tế bào nhóm nhỏ (small groups) từ 6-8 người sinh hoạt tại nhà, biến đức tin thành các thói quen thực hành xã hội tự quản và hỗ trợ lẫn nhau."
     },
     {
       "id": "q7",
-      "question": "Tại sao việc chỉ có các 'Mối liên kết mạnh' (Strong ties) là chưa đủ để một phong trào lan rộng thành cuộc cách mạng?",
+      "question": "Tại sao chỉ dựa vào các \"Mối liên kết mạnh\" (Strong ties) thì một cuộc vận động xã hội khó có thể tạo nên bước ngoặt lịch sử?",
       "options": [
-        "Vì các nhóm liên kết mạnh có quy mô hạn chế và thường tạo thành các 'ốc đảo khép kín'; nếu không có các mối liên kết yếu bắc cầu, thông điệp sẽ không bao giờ vượt ra ngoài phạm vi nhóm bạn bè ban đầu.",
-        "Vì bạn thân không bao giờ dám tham gia vào các hoạt động mạo hiểm.",
-        "Vì bạn thân thường hay cãi nhau và chia rẽ nội bộ.",
-        "Vì pháp luật cấm các nhóm bạn thân tụ tập quá 5 người."
+        "Vì bạn bè thân thiết thường dễ nảy sinh mâu thuẫn cá nhân và cạnh tranh quyền lợi kinh tế nội bộ gay gắt theo thời gian.",
+        "Vì các nhóm bạn thân thường có quy mô quá nhỏ hẹp và khép kín, không thể tự mình lan truyền thông điệp ra toàn xã hội.",
+        "Vì các mối liên kết mạnh luôn bị cơ quan an ninh nhà nước giám sát chặt chẽ hơn bất kỳ hình thức liên lạc xã giao nào.",
+        "Vì luật pháp cấm công dân thành lập các hội nhóm bạn bè có số lượng thành viên vượt quá mười người tham gia cùng lúc."
       ],
-      "correctIndex": 0,
-      "explanation": "Liên kết mạnh thắp lên ngọn lửa ban đầu nhưng bị cô lập trong phạm vi hẹp; chỉ khi các mắt xích liên kết yếu được kích hoạt, phong trào mới có thể lan truyền theo cấp số nhân trong toàn xã hội."
+      "correctIndex": 1,
+      "explanation": "Mối liên kết mạnh (tình bạn thân thiết) chỉ tạo ra tia lửa ban đầu nhưng giới hạn trong nhóm nhỏ; phong trào chỉ có thể bùng phát thành làn sóng rộng lớn khi vượt qua biên giới nhóm qua các mối liên kết yếu."
     },
     {
       "id": "q8",
-      "question": "Khi ngôi nhà của Martin Luther King Jr. bị đánh bom và đám đông giận dữ mang theo vũ khí chuẩn bị trả thù, hành động lịch sử của ông đã thể hiện điều gì?",
+      "question": "Điều gì đã giúp hàng chục nghìn người da đen ở Montgomery kiên trì đi bộ 10-15 km mỗi ngày suốt hơn 380 ngày đêm?",
       "options": [
-        "Ông bỏ trốn ra cửa sau để tránh bị cảnh sát bắt giữ.",
-        "Ông bước ra hiên nhà và kêu gọi mọi người hạ vũ khí, thực hành thói quen tha thứ: 'Chúng ta không thể giải quyết vấn đề này bằng bạo lực; chúng ta phải đáp trả thù ghét bằng tình yêu thương'.",
-        "Ông tuyên bố rút lui khỏi phong trào dân quyền.",
-        "Ông kích động đám đông đốt phá các tòa nhà chính quyền."
+        "Họ được các công ty giày thể thao tài trợ trang thiết bị tập luyện chuyên nghiệp và bảo hiểm y tế miễn phí suốt một năm.",
+        "Hành vi đi bộ đã được chuyển hóa thành một \"thói quen căn tính\" – biểu tượng của phẩm giá, lòng tự trọng và sự kiêu hãnh.",
+        "Cảnh sát địa phương đã tịch thu và phá hủy toàn bộ các phương tiện giao thông cá nhân của cộng đồng người da màu trong bang.",
+        "Họ bắt buộc phải đi bộ theo một hợp đồng lao động đặc biệt có điều khoản phạt tiền rất nặng nếu sử dụng phương tiện cơ giới."
       ],
       "correctIndex": 1,
-      "explanation": "Khoảnh khắc đó đã định hình thói quen phản ứng bất bạo động cho cả phong trào: chuyển hóa cơn giận dữ hủy diệt thành sức mạnh đạo đức bền bỉ khiến đối phương phải khuất phục."
+      "explanation": "Đi bộ không còn là sự chịu đựng khổ sở mà trở thành một biểu tượng của lòng kiêu hãnh và căn tính mới của một cộng đồng đang đứng lên vì nhân phẩm; như một cụ bà chia sẻ: \"Chân tôi mỏi, nhưng tâm hồn tôi thanh thản\"."
     },
     {
       "id": "q9",
-      "question": "Tại sao các mạng xã hội hiện đại (như Facebook, X/Twitter, TikTok) lại có khả năng tạo ra các trào lưu và phong trào xã hội với tốc độ chóng mặt?",
+      "question": "Tại sao các mạng xã hội hiện đại lại có khả năng khuếch đại các trào lưu xã hội với tốc độ chóng mặt chưa từng có?",
       "options": [
-        "Vì chúng tối ưu hóa việc kết nối hàng triệu 'Mối liên kết yếu' (Weak ties), giúp lan tỏa các tín hiệu gợi ý và tạo ra áp lực ngang hàng trực tuyến tức thì chỉ sau vài cú nhấp chuột.",
-        "Vì mạng xã hội trả tiền mặt cho mọi tài khoản tham gia trào lưu.",
-        "Vì các thuật toán mạng xã hội tự động bắt người dùng phải chia sẻ bài viết.",
-        "Vì mọi người trên mạng xã hội đều là bạn thân ngoài đời của nhau."
+        "Chúng kết nối hàng triệu mối liên kết yếu xuyên biên giới, lan tỏa tín hiệu gợi ý và tạo áp lực đồng thuận tức thì.",
+        "Các nền tảng mạng xã hội chi trả tiền mặt trực tiếp cho mỗi tài khoản cá nhân có hành vi chia sẻ bài viết của trào lưu.",
+        "Thuật toán mạng xã hội khóa vĩnh viễn các tài khoản từ chối tham gia bình luận về các chủ đề thảo luận đang thịnh hành.",
+        "Mọi người dùng trên không gian mạng đều có mối quan hệ bạn bè ruột thịt ngoài đời thực với người khởi xướng trào lưu."
       ],
       "correctIndex": 0,
-      "explanation": "Mạng xã hội là siêu xa lộ của các liên kết yếu: một thông điệp có thể nhảy qua hàng nghìn vòng tròn quan hệ trong vài giây, kích hoạt thói quen đồng thuận xã hội trên quy mô toàn cầu."
+      "explanation": "Mạng xã hội số hóa và nhân bản vô hạn các mối liên kết yếu; một thông điệp có thể lan truyền qua hàng triệu vòng tròn quan hệ trong tích tắc, tạo ra áp lực xã hội và thói quen đồng thuận nhanh chóng."
     },
     {
       "id": "q10",
-      "question": "Trong một công ty, việc xây dựng 'văn hóa hợp tác liên phòng ban' nên bắt đầu từ việc khai thác mạng lưới nào?",
+      "question": "Trong quản trị nội bộ doanh nghiệp, làm thế nào để phá vỡ các \"tháp cô lập thông tin\" (silos) giữa các phòng ban?",
       "options": [
-        "Chỉ cho phép giám đốc điều hành đưa ra các quyết định hợp tác.",
-        "Cấm các phòng ban nói chuyện với nhau nếu không có email chính thức.",
-        "Ép các trưởng phòng phải đi ăn nhậu cùng nhau mỗi ngày.",
-        "Tạo cơ hội cho các 'Mối liên kết yếu' giữa các nhân viên cấp dưới từ các phòng ban khác nhau giao lưu (như không gian cà phê chung, câu lạc bộ sách, dự án chéo), phá vỡ các tháp cô lập thông tin (silos)."
+        "Cấm các nhân viên giao tiếp trực tiếp với nhau và bắt buộc mọi thông tin phải được truyền đạt bằng văn bản đóng dấu mật.",
+        "Sa thải toàn bộ các trưởng phòng ban hiện tại và bổ nhiệm một giám đốc duy nhất trực tiếp quản lý toàn bộ các dự án.",
+        "Bắt buộc mọi nhân viên phải đổi vị trí chỗ ngồi làm việc ngẫu nhiên mỗi sáng đầu giờ để tránh hình thành tình bạn thân thiết.",
+        "Tạo ra các không gian giao lưu chung và dự án liên chức năng để phát triển các mối liên kết yếu tự nhiên giữa nhân viên."
       ],
       "correctIndex": 3,
-      "explanation": "Những cuộc trò chuyện tình cờ bên máy pha cà phê giữa các nhân viên khác phòng ban (liên kết yếu) thường là nơi nảy sinh những ý tưởng sáng tạo và sự phối hợp hiệu quả nhất trong doanh nghiệp."
+      "explanation": "Các mối liên kết yếu giữa nhân viên khác phòng ban (gặp gỡ ở quầy cà phê, sinh hoạt câu lạc bộ, dự án chéo) là chìa khóa phá vỡ tư duy cát cứ phòng ban, thúc đẩy sự chia sẻ tri thức và hợp tác sáng tạo."
     },
     {
       "id": "q11",
-      "question": "Điều gì biến những người dân thường ở Montgomery sẵn sàng đi bộ 10-15 km mỗi ngày trong mưa rét suốt hơn 1 năm trời để tẩy chay xe buýt?",
+      "question": "Điểm khác biệt căn bản giữa một \"đám đông nổi loạn nhất thời\" (mob) và một \"phong trào xã hội bền vững\" là gì?",
       "options": [
-        "Chính quyền thành phố tịch thu toàn bộ xe buýt trong bang.",
-        "Họ không có tiền để mua vé xe buýt.",
-        "Họ muốn rèn luyện thể lực để tham gia thế vận hội Olympic.",
-        "Việc đi bộ đã chuyển hóa từ một nghĩa vụ gượng ép thành một 'Huy hiệu danh dự' và thói quen thể hiện lòng tự trọng của một cộng đồng đang đứng lên vì phẩm giá con người."
+        "Đám đông bộc phát theo cảm xúc giận dữ và tan rã nhanh; phong trào bền vững dựa trên thói quen tự giác và căn tính mới.",
+        "Đám đông nổi loạn luôn có số lượng người tham gia đông đảo hơn gấp nhiều lần so với các phong trào xã hội có tổ chức.",
+        "Phong trào xã hội chỉ tồn tại được khi nhận được sự bảo trợ tài chính và vũ khí quân sự từ các thế lực nước ngoài.",
+        "Đám đông nổi loạn luôn có sự dẫn dắt của các chuyên gia chiến lược chính trị được đào tạo bài bản từ các viện nghiên cứu."
       ],
-      "correctIndex": 3,
-      "explanation": "Khi hành vi đi bộ trở thành biểu tượng của sự kiêu hãnh và căn tính tập thể, người dân tự hào chịu đựng gian khổ; một cụ bà nổi tiếng đã nói: 'Chân tôi mệt, nhưng tâm hồn tôi được nghỉ ngơi'."
+      "correctIndex": 0,
+      "explanation": "Cảm xúc phẫn nộ sẽ nhanh chóng nguội lạnh; một phong trào xã hội chỉ có thể trường tồn và chiến thắng khi các nhà lãnh đạo chuyển hóa năng lượng đám đông thành các thói quen kỷ luật tự giác và một căn tính chung bền vững."
     },
     {
       "id": "q12",
-      "question": "Tại sao các chiến dịch marketing truyền miệng (Word-of-mouth marketing) thành công nhất luôn nhắm vào các 'Mối liên kết yếu'?",
+      "question": "Tại sao các chiến dịch tiếp thị truyền miệng (Word-of-mouth) thành công nhất thường nhắm vào các liên kết yếu?",
       "options": [
-        "Vì pháp luật cấm bán hàng cho bạn bè thân thiết.",
-        "Vì lời giới thiệu từ một người quen xã giao thường mang tính khách quan và có khả năng tiếp cận các tệp khách hàng hoàn toàn mới mà thương hiệu chưa từng chạm tới.",
-        "Vì quảng cáo cho người quen sơ giao luôn rẻ hơn quảng cáo cho người nhà.",
-        "Vì các mối liên kết yếu luôn tin tưởng tuyệt đối vào mọi lời đồn đại."
+        "Vì chi phí tiếp thị qua các mối quan hệ sơ giao luôn được các công ty quảng cáo chiết khấu cao hơn quan hệ thân thiết.",
+        "Vì người tiêu dùng không bao giờ tin tưởng vào lời khuyên mua sắm của những người thân trong gia đình hoặc bạn bè thân mật.",
+        "Vì thông điệp qua liên kết yếu có khả năng thâm nhập vào các phân khúc khách hàng hoàn toàn mới mà thương hiệu chưa tiếp cận.",
+        "Vì các mối liên kết yếu luôn bị ràng buộc bởi các quy định pháp luật bắt buộc phải dùng thử sản phẩm mới được giới thiệu."
       ],
-      "correctIndex": 1,
-      "explanation": "Thông tin qua liên kết yếu có độ phủ rộng và độ tin cậy xã hội cao; một gợi ý tự nhiên từ người quen ở chỗ làm việc thường có sức thuyết phục mua hàng rất mạnh mẽ."
+      "correctIndex": 2,
+      "explanation": "Bạn thân thường có nguồn thông tin giống nhau; những người quen sơ giao (liên kết yếu) lại thuộc về các mạng lưới xã hội khác nhau, mang thông điệp sản phẩm tiếp cận những nhóm khách hàng hoàn toàn mới mẻ."
     },
     {
       "id": "q13",
-      "question": "Sự khác biệt giữa một 'đám đông nổi loạn nhất thời' (mob) và một 'phong trào xã hội bền vững' (social movement) nằm ở đâu?",
+      "question": "Bài học quản trị quan trọng nhất từ mô hình tổ chức các nhóm nhỏ của Rick Warren tại Saddleback là gì?",
       "options": [
-        "Đám đông bộc phát chỉ dựa trên cảm xúc giận dữ tức thời và tan rã nhanh chóng; phong trào bền vững được dẫn dắt bởi các thói quen kỷ luật tự giác, sự lãnh đạo có tổ chức và một hệ giá trị căn tính mới.",
-        "Đám đông nổi loạn có nhiều người tham gia hơn phong trào xã hội.",
-        "Phong trào xã hội luôn được các tập đoàn tài chính tài trợ.",
-        "Đám đông nổi loạn chỉ xảy ra vào ban đêm."
+        "Trao quyền tự chủ cho các nhóm tế bào nhỏ giúp tổ chức mở rộng quy mô phi thường mà vẫn giữ được sự gắn kết cá nhân sâu sắc.",
+        "Tập trung toàn bộ quyền lực ra quyết định vào tay người đứng đầu để đảm bảo tính nhất quán tuyệt đối trong giáo lý.",
+        "Ngăn cấm các thành viên tự ý tổ chức sinh hoạt riêng ngoài khuôn viên chính thức của trụ sở giáo đoàn trung ương.",
+        "Chỉ tập trung nguồn lực phát triển vào các tín đồ có khả năng tài chính dồi dào và địa vị xã hội vượt trội trong cộng đồng."
       ],
       "correctIndex": 0,
-      "explanation": "Cảm xúc giận dữ sẽ nguội lạnh theo thời gian; một phong trào chỉ có thể tồn tại qua nhiều năm tháng khi nó được củng cố bằng các thói quen tổ chức và thói quen tinh thần của cộng đồng."
+      "explanation": "Mô hình phi tập trung hóa dựa trên các thói quen tự quản của nhóm nhỏ cho phép Saddleback mở rộng quy mô không giới hạn mà không bị xơ cứng quan liêu, biến mỗi tín đồ thành một nhà lãnh đạo tích cực."
     },
     {
       "id": "q14",
-      "question": "Bài học từ Rick Warren về việc quản trị các hội nhóm tự nguyện là gì?",
+      "question": "Sự thất bại của các cuộc tẩy chay trước Rosa Parks tại Montgomery phản ánh điều gì về thói quen xã hội?",
       "options": [
-        "Không nên để các thành viên gặp nhau quá thường xuyên.",
-        "Hãy trao cho các thành viên công cụ và thói quen tự quản lý, để họ tự vận hành trong các nhóm nhỏ thân mật, từ đó tổ chức có thể mở rộng quy mô không giới hạn mà không bị xơ cứng.",
-        "Chỉ tập trung vào những người có địa vị cao trong xã hội.",
-        "Hãy kiểm soát chặt chẽ từng cử chỉ của thành viên bằng quyền lực tuyệt đối."
+        "Người dân thời đó hoàn toàn hài lòng với các chính sách phân biệt chủng tộc và không hề có nhu cầu đòi lại quyền công dân.",
+        "Các nạn nhân trước đó không có tiền đóng tiền bảo lãnh tại ngoại nên các luật sư từ chối tiếp nhận hồ sơ khiếu kiện lên tòa.",
+        "Nếu thiếu đi một mạng lưới thói quen xã hội đa dạng và một người lãnh đạo có uy tín, sự phẫn nộ sẽ nhanh chóng bị dập tắt.",
+        "Chính quyền thành phố thời kỳ trước đã áp dụng các biện pháp thưởng tiền mặt cho những ai từ chối tham gia biểu tình đường phố."
       ],
-      "correctIndex": 1,
-      "explanation": "Mô hình phi tập trung hóa dựa trên thói quen tự quản của các nhóm nhỏ giúp tổ chức duy trì sự thân mật cá nhân ngay cả khi quy mô mở rộng lên đến hàng chục nghìn người."
+      "correctIndex": 2,
+      "explanation": "Trước Parks, những vụ bắt giữ tương tự đã xảy ra nhưng không thể bùng nổ thành phong trào vì thiếu các mối liên kết xã hội sâu rộng cần thiết để kích hoạt thói quen phản kháng tập thể trong cộng đồng."
     },
     {
       "id": "q15",
-      "question": "Thông điệp cốt lõi từ Chương 8 về sức mạnh của thói quen xã hội là gì?",
+      "question": "Thông điệp chung cuộc sâu sắc nhất từ Chương 8 về mối liên hệ giữa thói quen và sự thay đổi xã hội là gì?",
       "options": [
-        "Những cuộc chuyển hóa xã hội vĩ đại nhất không bắt đầu từ những điều kỳ vĩ, mà bắt đầu từ những thói quen kết nối tình bạn, lan tỏa qua mạng lưới cộng đồng và được dẫn dắt bởi những thói quen căn tính cao đẹp.",
-        "Mọi phong trào xã hội đều do các thế lực bên ngoài sắp đặt.",
-        "Để thay đổi xã hội thì bạo lực là con đường duy nhất.",
-        "Các cá nhân đơn lẻ không bao giờ có thể làm thay đổi được dòng chảy lịch sử."
+        "Mọi biến động lịch sử thực chất chỉ là những sự kiện ngẫu nhiên hoàn toàn nằm ngoài tầm kiểm soát của cộng đồng dân cư.",
+        "Cách duy nhất để cải tạo xã hội là sử dụng sức mạnh quân sự áp đảo nhằm cưỡng chế người dân tuân thủ các luật pháp mới.",
+        "Sự chuyển hóa xã hội bắt đầu từ thói quen tình bạn, nhân rộng qua liên kết cộng đồng và trường tồn nhờ thói quen căn tính mới.",
+        "Các cá nhân đơn lẻ hoàn toàn bất lực và không thể đóng góp bất kỳ vai trò nào trong việc định hình các phong trào lịch sử."
       ],
-      "correctIndex": 0,
-      "explanation": "Sức mạnh của thói quen khi được nhân bản ở quy mô xã hội có thể lật đổ những định chế bất công kiên cố nhất và kiến tạo nên những trang sử mới cho nhân loại."
+      "correctIndex": 2,
+      "explanation": "Các phong trào vĩ đại nhất lịch sử vận hành nhờ thói quen xã hội: khởi phát từ thói quen tình bạn (liên kết mạnh), lan tỏa qua áp lực cộng đồng (liên kết yếu), và khắc sâu vào lịch sử nhờ các thói quen căn tính cao đẹp."
     }
   ]
 }

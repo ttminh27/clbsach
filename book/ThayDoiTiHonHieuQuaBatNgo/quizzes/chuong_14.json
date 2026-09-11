@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Câu chuyện đại văn hào người Pháp Victor Hugo gom toàn bộ quần áo sang trọng cất vào tủ có khóa và nhờ người hầu giữ chìa khóa vào mùa thu năm 1830 nhằm mục đích gì?",
+      "question": "Vào mùa thu năm 1830, đại văn hào Victor Hugo đã gom hết quần áo và khóa vào rương lớn nhằm mục đích gì?",
       "options": [
-        "Chuẩn bị trang phục để tham gia một buổi dạ vũ hoàng gia bí mật.",
-        "Tự tước đoạt phương tiện ra khỏi nhà để ép buộc bản thân phải ngồi vào bàn viết và hoàn thành kiệt tác 'Thằng gù nhà thờ Đức Bà' đúng hạn hợp đồng.",
-        "Tránh bị trộm cắp trong thời kỳ bạo loạn chính trị tại Paris.",
-        "Thực hiện một nghi lễ tôn giáo khổ hạnh thời trung cổ."
+        "Chuẩn bị những bộ trang phục dạ hội sang trọng để tham gia các buổi tiếp đãi xã giao cùng giới quý tộc Paris.",
+        "Bảo vệ những bộ âu phục đắt giá của mình khỏi nguy cơ bị trộm cắp trong thời kỳ bất ổn chính trị tại Pháp.",
+        "Tự tước bỏ phương tiện ra ngoài để buộc bản thân phải ngồi vào bàn hoàn thành bản thảo cuốn sách đúng thời hạn.",
+        "Thực hiện một nghi thức khổ hạnh đặc biệt nhằm tìm kiếm nguồn cảm hứng nghệ thuật mới mẻ cho văn học."
       ],
-      "correctIndex": 1,
-      "explanation": "Hugo tạo ra một 'thiết bị cam kết' hoàn hảo: không có quần áo để mặc ra đường, ông không còn lý do nào để ra ngoài gặp bạn bè hay trì hoãn, và bản thảo đã hoàn thành trước thời hạn."
+      "correctIndex": 2,
+      "explanation": "Hugo tạo ra một công cụ cam kết: không có quần áo ra đường, ông chỉ có thể quấn khăn choàng ngồi viết điên cuồng trong phòng, và hoàn thành Thằng gù Nhà thờ Đức Bà trước hạn 2 tuần."
     },
     {
       "id": "q2",
-      "question": "Thuật ngữ 'Thiết bị cam kết' (Commitment Device) trong kinh tế học hành vi được định nghĩa là gì?",
+      "question": "Thuật ngữ \"Công cụ cam kết\" (Commitment Device) trong tâm lý học và kinh tế học hành vi được định nghĩa là gì?",
       "options": [
-        "Một hợp đồng pháp lý bắt buộc phải có chữ ký của luật sư công chứng.",
-        "Một sự lựa chọn được đưa ra trong hiện tại nhằm khóa chặt hành vi của bạn trong tương lai, làm cho thói quen tốt trở thành tất yếu và thói quen xấu trở thành bất khả.",
-        "Một thiết bị điện tử có khả năng giật điện khi bạn vi phạm kỷ luật.",
-        "Một loại ứng dụng theo dõi GPS được cài đặt trên điện thoại người thân."
+        "Một văn bản cam kết pháp lý bắt buộc phải có chữ ký của luật sư đại diện nhằm đảm bảo tính ràng buộc cao nhất.",
+        "Một lựa chọn được bạn thực hiện ở hiện tại nhằm kiểm soát và khóa chặt hành vi của chính mình trong tương lai.",
+        "Một thiết bị báo động điện tử thông minh có khả năng phát ra âm thanh cảnh báo mỗi khi bạn làm sai kế hoạch.",
+        "Một hệ thống bảng kiểm chi tiết giúp các nhà quản lý theo dõi sát sao từng hành vi nhỏ của cấp dưới mỗi ngày."
       ],
       "correctIndex": 1,
-      "explanation": "Thiết bị cam kết là cách bạn ở hiện tại bảo vệ bạn ở tương lai khỏi chính sự yếu lòng của mình: bạn kiểm soát hành động tương lai bằng cách tước đi quyền lựa chọn xấu."
+      "explanation": "Công cụ cam kết là cách bạn ở hiện tại khóa chặt bạn ở tương lai, giúp bạn hưởng lợi từ các ý định tốt đẹp trước khi bạn kịp trở thành nạn nhân của sự yếu lòng trước cám dỗ."
     },
     {
       "id": "q3",
-      "question": "Phát minh 'Máy tính tiền tự động' (Cash Register) của John Henry Patterson vào năm 1879 đã chấm dứt hoàn toàn tình trạng thất thoát doanh thu của quán bar nhờ cơ chế nào?",
+      "question": "Chiếc máy tính tiền tự động do James Ritty sáng chế đã giúp John Henry Patterson chấm dứt nạn nhân viên trộm cắp nhờ cơ chế nào?",
       "options": [
-        "Cắt giảm 50% lương của tất cả các nhân viên phục vụ.",
-        "Biến hành vi gian lận và trộm cắp tiền bạc thành bất khả thi: chiếc máy tự động khóa tiền bên trong và phát ra tiếng 'ting' vang dội mỗi khi ngăn kéo mở ra.",
-        "Thuê các thám tử tư cải trang làm khách uống rượu để theo dõi nhân viên.",
-        "Bắt buộc khách hàng phải thanh toán bằng thẻ căn cước công dân."
+        "Tự động khóa tiền và biên lai sau mỗi giao dịch, biến hành vi gian lận thành điều bất khả thi trong thực tế.",
+        "Ghi lại hình ảnh nhân viên bằng hệ thống quang học sơ khai để làm bằng chứng xử phạt trước cơ quan chức năng.",
+        "Cắt giảm bớt một nửa số lượng nhân viên thu ngân để chủ cửa hàng có thể trực tiếp giám sát từng giao dịch.",
+        "Tạo ra áp lực tâm lý thường trực khiến nhân viên luôn sợ hãi sẽ bị phát hiện nếu có hành vi gian dối tiền bạc."
       ],
-      "correctIndex": 1,
-      "explanation": "Patterson không cố gắng dạy đạo đức cho nhân viên; ông thay đổi công nghệ để hành vi trộm cắp trở nên bất khả thi về mặt cấu trúc (Inversion of 3rd Law: Make it impossible)."
+      "correctIndex": 0,
+      "explanation": "Patterson không cố gắng rèn đạo đức nhân viên; ông ứng dụng chiếc máy tính tiền tự động khóa tiền sau mỗi lần thanh toán, biến hành vi xấu thành điều bất khả thi về mặt cấu trúc."
     },
     {
       "id": "q4",
-      "question": "Khái niệm 'Hành động một lần' (One-time actions) trong việc tự động hóa thói quen có nghĩa là gì?",
+      "question": "Khái niệm \"Hành động một lần\" (One-time actions) trong việc xây dựng thói quen mang lại giá trị cốt lõi nào?",
       "options": [
-        "Một việc bạn chỉ cần làm đúng một lần duy nhất trong đời, nhưng nó tiếp tục mang lại lợi ích và tự động hóa các hành vi tốt mãi mãi về sau.",
-        "Một sai lầm nghiêm trọng bạn chỉ được phép mắc phải một lần duy nhất.",
-        "Một kỳ thi tốt nghiệp quốc gia chỉ diễn ra một lần trong đời học sinh.",
-        "Một chuyến du lịch vòng quanh thế giới chỉ kéo dài đúng 24 giờ."
+        "Là những sai lầm cá nhân nghiêm trọng mà bạn chỉ được phép phạm phải một lần duy nhất trong toàn bộ sự nghiệp.",
+        "Là những kỳ thi sát hạch năng lực đặc biệt chỉ diễn ra một lần duy nhất trong suốt thời gian đi học.",
+        "Là các chuyến trải nghiệm khám phá thế giới chỉ kéo dài trong vòng hai mươi bốn giờ đồng hồ ngắn ngủi.",
+        "Là những lựa chọn đơn lẻ ban đầu nhưng tiếp tục tự động hóa và tạo ra giá trị bền bỉ tăng dần theo thời gian."
       ],
-      "correctIndex": 0,
-      "explanation": "Ví dụ: mua một tấm nệm tốt (tự động cải thiện giấc ngủ mỗi đêm suốt 10 năm), cài đặt chế độ tự động trích lương tiết kiệm (tự động tích lũy tài sản mỗi tháng mà không cần nhớ)."
+      "correctIndex": 3,
+      "explanation": "Hành động một lần chỉ tốn một chút nỗ lực ban đầu nhưng tạo ra lợi ích lâu bền về sau (mua nệm tốt ngủ ngon 10 năm, cài tự động trích lương tiết kiệm suốt đời)."
     },
     {
       "id": "q5",
-      "question": "Hành động 'một lần' nào sau đây giúp tự động hóa thói quen tiết kiệm tài chính cá nhân hiệu quả nhất?",
+      "question": "Hành động một lần nào sau đây giúp tự động hóa việc tiết kiệm tài chính cá nhân một cách bền vững nhất?",
       "options": [
-        "Mỗi tuần tự viết một lời hứa tiết kiệm tiền dán lên tủ lạnh.",
-        "Thiết lập lệnh trích xuất tự động 10% tiền lương ngay trong ngày nhận lương chuyển thẳng vào quỹ đầu tư hưu trí trước khi bạn kịp nhìn thấy số tiền đó.",
-        "Giấu tiền mặt vào nhiều phong bì khác nhau dưới đáy tủ quần áo.",
-        "Chờ đến ngày cuối cùng của tháng xem còn thừa bao nhiêu tiền thì đem đi gửi ngân hàng."
+        "Dán các khẩu hiệu nhắc nhở tiết kiệm tiền lên gương soi trong phòng ngủ và ngay trên màn hình khóa điện thoại.",
+        "Cuối mỗi tháng gom toàn bộ số tiền còn dư thừa trong ví để gửi vào một tài khoản ngân hàng không kỳ hạn.",
+        "Cài đặt lệnh tự động trích một phần tiền lương chuyển thẳng vào quỹ tiết kiệm hưu trí ngay khi nhận lương.",
+        "Giấu một khoản tiền mặt cố định vào nhiều phong bì kín khác nhau dưới đáy tủ quần áo trong gia đình mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Tự động trích xuất loại bỏ hoàn toàn yếu tố ý chí và cảm xúc: tiền được cất đi trước khi bạn có cơ hội tiêu xài, biến thói quen tích lũy tài sản thành quy trình tự động 100%."
+      "correctIndex": 2,
+      "explanation": "Cài đặt tự động trích lương giúp tiền tiết kiệm được cất đi trước khi bạn kịp nhìn thấy hoặc tiêu xài, loại bỏ hoàn toàn sự phụ thuộc vào ý chí hay cảm xúc nhất thời."
     },
     {
       "id": "q6",
-      "question": "Tại sao việc 'đăng ký gói thành viên phòng tập gym trả tiền trước cả năm không hoàn lại' đôi khi lại không phải là một thiết bị cam kết hiệu quả cho việc đi tập?",
+      "question": "Tại sao việc \"trả tiền trước cho gói tập gym cả năm không hoàn lại\" thường không phải công cụ cam kết tốt để đi tập?",
       "options": [
-        "Vì các phòng tập gym thường bị đóng cửa sau vài tuần hoạt động.",
-        "Vì chi phí chìm (sunk cost) đã xảy ra trong quá khứ; đến từng buổi tập cụ thể trong tuần, nó không tạo ra hậu quả hay ma sát đau đớn tức thì nào nếu bạn quyết định nằm nhà ngủ tiếp.",
-        "Vì tập gym không mang lại lợi ích sức khỏe thực sự.",
-        "Bởi vì tiền tệ luôn bị mất giá do lạm phát thị trường."
+        "Vì hầu hết các phòng tập thể hình thương mại hiện nay đều tiềm ẩn nguy cơ phá sản hoặc ngừng hoạt động đột ngột.",
+        "Vì chi phí chìm đã xảy ra trong quá khứ, không tạo ra lực cản hay hậu quả tức thì nào nếu hôm nay bạn nằm nhà.",
+        "Vì việc tập luyện thể hình thường xuyên không mang lại sự thay đổi rõ rệt cho sức khỏe tinh thần dài hạn.",
+        "Vì giá trị đồng tiền luôn bị sụt giảm theo thời gian do các tác động khó lường của lạm phát trên thị trường."
       ],
       "correctIndex": 1,
-      "explanation": "Tiền đã mất rồi nên không tạo được rào cản ngăn cản sự lười biếng hôm nay; một thiết bị cam kết tốt phải tác động trực tiếp vào khoảnh khắc ra quyết định hằng ngày."
+      "explanation": "Số tiền đã trả xong trong quá khứ trở thành chi phí chìm; vào một buổi chiều mỏi mệt, việc không đi tập chẳng gây thêm tổn thất tức thì nào, nên không ngăn được sự lười biếng."
     },
     {
       "id": "q7",
-      "question": "Một nhà văn muốn tập trung viết sách mà không bị sa đà vào việc kiểm tra tin tức mạng xã hội. Ứng dụng công nghệ nào sau đây đóng vai trò như một thiết bị cam kết?",
+      "question": "Bộ hẹn giờ ngắt điện internet vào đúng 10 giờ tối của tác giả Nir Eyal đóng vai trò như một công cụ cam kết vì lý do gì?",
       "options": [
-        "Cài đặt phần mềm chặn internet (như Freedom hoặc Forest) tự động khóa toàn bộ quyền truy cập mạng trong 4 tiếng làm việc buổi sáng.",
-        "Mở sẵn 10 tab báo mạng để tiện đọc lướt khi rảnh rỗi.",
-        "Mua một chiếc bàn phím máy tính có gắn đèn LED phát sáng rực rỡ.",
-        "Đăng dòng trạng thái lên Facebook thông báo rằng mình sắp bắt đầu viết sách."
+        "Nó tự động ngắt kết nối mạng, biến tín hiệu internet thành chiếc đồng hồ báo thức buộc cả nhà phải đi ngủ.",
+        "Nó giúp tiết kiệm một lượng lớn điện năng tiêu thụ cho gia đình trong suốt khoảng thời gian ban đêm nghỉ ngơi.",
+        "Nó ngăn chặn sự xâm nhập của các loại mã độc điện tử vào hệ thống máy tính cá nhân khi không có người dùng.",
+        "Nó rèn luyện khả năng ghi nhớ thời gian cho các thành viên mà không cần đến sự hỗ trợ của thiết bị thông minh."
       ],
       "correctIndex": 0,
-      "explanation": "Phần mềm khóa mạng tước bỏ khả năng đầu hàng trước cám dỗ; khi ngón tay vô thức gõ phím tìm kiếm mạng, màn hình bị khóa chặt, buộc não bộ phải quay lại với trang viết."
+      "explanation": "Khi internet bị cắt tự động vào 10 giờ tối, mọi người đều hiểu đã đến giờ ngủ; công cụ này tước bỏ sự cám dỗ thức khuya lướt web mà không cần phải đấu tranh tư tưởng."
     },
     {
       "id": "q8",
-      "question": "Chiến lược sử dụng chiếc két sắt có hẹn giờ (Kitchen Safe / Time-locking container) để nhốt điện thoại hoặc đồ ăn ngọt áp dụng nguyên lý nào?",
+      "question": "Lợi thế vượt trội nhất của việc ứng dụng công nghệ hiện đại vào việc tự động hóa thói quen của con người là gì?",
       "options": [
-        "Biến thói quen xấu thành bất khả thi trong khoảng thời gian định trước: một khi nắp đã đóng và bấm giờ, bạn không thể mở ra dù cho cơn thèm có trỗi dậy dữ dội đến đâu.",
-        "Bảo quản thực phẩm tránh bị vi khuẩn xâm nhập.",
-        "Làm tăng độ bền của pin điện thoại thông minh.",
-        "Tạo ra âm thanh báo động xua đuổi các loài côn trùng."
+        "Giúp con người không cần phải tích lũy thêm bất kỳ kiến thức hay kỹ năng chuyên môn phức tạp nào khác.",
+        "Biến toàn bộ mọi người trở thành những cá nhân hoàn hảo mà không cần trải qua quá trình rèn luyện gian nan.",
+        "Làm cho các thiết bị máy móc trở nên thông minh và có khả năng thay thế hoàn toàn tư duy của con người.",
+        "Chuyển hóa các hành động phức tạp thành quy trình tự động, đảm bảo hành vi đúng đắn chắc chắn sẽ xảy ra."
       ],
-      "correctIndex": 0,
-      "explanation": "Bạn dùng lý trí sáng suốt ở phút thứ nhất để khóa chặt sự yếu lòng ở phút thứ 30; chiếc hộp hẹn giờ biến việc phá vỡ kỷ luật thành điều bất khả thi về mặt vật lý."
+      "correctIndex": 3,
+      "explanation": "Công nghệ là cách đáng tin cậy nhất đảm bảo hành vi đúng sẽ diễn ra, giải phóng trí nhớ và năng lượng tinh thần cho các nhiệm vụ sáng tạo hơn mà máy móc chưa thể làm."
     },
     {
       "id": "q9",
-      "question": "Hành động 'Hủy đăng ký (Unsubscribe) khỏi tất cả các email quảng cáo và bản tin mua sắm' là một ví dụ về:",
+      "question": "Hành động \"hủy đăng ký (unsubscribe) khỏi tất cả các email quảng cáo mua sắm\" minh họa cho nguyên lý nào?",
       "options": [
-        "Hành vi thô lỗ đối với các doanh nghiệp thương mại điện tử.",
-        "Hành động một lần giúp loại bỏ vĩnh viễn hàng trăm gợi ý mua sắm độc hại xâm nhập vào hòm thư của bạn mỗi ngày.",
-        "Cách làm giảm dung lượng bộ nhớ của máy chủ bưu chính quốc tế.",
-        "Phương pháp cai nghiện việc đọc chữ trên màn hình vi tính."
+        "Thái độ bài trừ cực đoan đối với các hoạt động tiếp thị kinh doanh hợp pháp của các doanh nghiệp bán lẻ.",
+        "Cách làm giảm tải dung lượng lưu trữ thư từ trên các máy chủ bưu chính viễn thông quốc tế hiện đại.",
+        "Hành động một lần giúp xóa bỏ vĩnh viễn hàng trăm gợi ý tiêu cực xâm nhập vào tâm trí của bạn mỗi ngày.",
+        "Giải pháp tạm thời để bảo vệ thông tin tài khoản cá nhân khỏi các nguy cơ lừa đảo trực tuyến nguy hiểm."
       ],
-      "correctIndex": 1,
-      "explanation": "Chỉ mất 5 phút bấm nút Unsubscribe một lần, nhưng bạn bảo vệ được sự bình an tinh thần và túi tiền của mình khỏi hàng ngàn cám dỗ trong suốt những năm tháng tiếp theo."
+      "correctIndex": 2,
+      "explanation": "Chỉ mất vài phút nhấn nút hủy đăng ký một lần duy nhất, bạn đã loại bỏ vĩnh viễn vô số gợi ý mua sắm cám dỗ gõ cửa hộp thư mỗi ngày trong tương lai."
     },
     {
       "id": "q10",
-      "question": "Tại sao việc sử dụng bát đĩa cỡ nhỏ hơn khi ăn cơm lại được xếp vào nhóm 'Hành động một lần' kiến tạo thói quen tốt?",
+      "question": "Tại sao việc chuyển sang sử dụng bát đĩa có kích thước nhỏ hơn lại được xếp vào nhóm hành động một lần hiệu quả?",
       "options": [
-        "Vì bát đĩa nhỏ có giá thành rẻ hơn bát đĩa to rất nhiều.",
-        "Nó tự động định lượng khẩu phần ăn nhỏ hơn (Hiệu ứng Delboeuf) mà không đòi hỏi bạn phải liên tục đấu tranh ý chí kiềm chế việc gắp thức ăn mỗi bữa.",
-        "Vì rửa bát đĩa nhỏ giúp tiết kiệm 100% lượng nước sinh hoạt.",
-        "Bát đĩa nhỏ giúp thức ăn nguội nhanh hơn tránh bị bỏng lưỡi."
+        "Vì những bộ bát đĩa nhỏ có giá thành rẻ hơn nhiều so với các loại bát đĩa kích thước lớn trên thị trường.",
+        "Vì nó tự động thu nhỏ khẩu phần ăn của bạn mà không đòi hỏi phải liên tục đấu tranh ý chí trong từng bữa ăn.",
+        "Vì việc sử dụng bát đĩa kích cỡ nhỏ sẽ giúp gia đình bạn tiết kiệm được tối đa lượng nước rửa chén mỗi ngày.",
+        "Vì bát đĩa nhỏ giúp thức ăn nguội nhanh chóng hơn, hạn chế tối đa nguy cơ gây bỏng nhiệt cho vòm họng."
       ],
       "correctIndex": 1,
-      "explanation": "Bạn chỉ cần đổi bộ bát đĩa 1 lần duy nhất trong đời; sau đó, kiến trúc vật lý của chiếc bát sẽ tự động kiểm soát lượng calo bạn nạp vào cơ thể trong mọi bữa ăn tương lai."
+      "explanation": "Bạn chỉ cần đổi bộ bát đĩa một lần duy nhất; kiến trúc vật lý của chiếc đĩa nhỏ sẽ tự động cắt giảm lượng calo nạp vào trong mọi bữa ăn tương lai mà không cần gắng gượng."
     },
     {
       "id": "q11",
-      "question": "Trong lịch sử thần thoại Hy Lạp, người anh hùng Odysseus đã yêu cầu các thủy thủ trói chặt mình vào cột buồm và nhét sáp ong vào tai họ trước khi đi qua đảo của các nàng tiên cá Sirens nhằm mục đích gì?",
+      "question": "Điển tích người anh hùng Odysseus (Ulysses) tự trói mình vào cột buồm trước bài ca của các nàng Siren phản ánh điều gì?",
       "options": [
-        "Để thể hiện sức mạnh cơ bắp phi thường trước các đối thủ.",
-        "Đây là hình mẫu cổ điển đầu tiên của 'Thiết bị cam kết': biết trước tiếng hát mê hoặc sẽ làm mình mất trí, ông chủ động tước bỏ quyền tự do hành động để cứu sống chính mình và con tàu.",
-        "Để trừng phạt bản thân vì đã để thua trận chiến thành Troy.",
-        "Để chuẩn bị cho một cuộc lặn sâu xuống đáy biển tìm kho báu."
+        "Bản chất của hiệp ước Ulysses: chủ động khóa chặt hành động tương lai khi tâm trí bản thân còn đang sáng suốt.",
+        "Sự thiếu tự tin vào năng lực thể chất và sức mạnh cơ bắp của người chỉ huy trước những hiểm nguy ngoài biển cả.",
+        "Một phong tục cổ xưa của các thủy thủ Hy Lạp nhằm xoa dịu cơn giận dữ của các vị thần biển cả thời cổ đại.",
+        "Bài học về việc không nên lắng nghe bất kỳ lời khuyên nào từ những người đồng hành trong các chuyến hải trình."
       ],
-      "correctIndex": 1,
-      "explanation": "Odysseus hiểu rõ sự yếu đuối của bản năng con người trước cám dỗ chết người; sợi dây trói vào cột buồm chính là cam kết ràng buộc hiện tại cho sự an toàn tương lai."
+      "correctIndex": 0,
+      "explanation": "Odysseus hiểu dục vọng trước tiếng hát Siren sẽ khiến mình mất trí, nên đã bảo thủy thủ trói chặt mình vào cột buồm từ trước. Đây là nguồn gốc khái niệm 'hợp đồng Ulysses' hay công cụ cam kết."
     },
     {
       "id": "q12",
-      "question": "Một người thường xuyên thức khuya vì xem tivi trong phòng ngủ. Giải pháp 'Hành động một lần' triệt để nhất để giải quyết dứt điểm vấn đề này là:",
+      "question": "Biện pháp nào sau đây thể hiện một \"hành động một lần\" triệt để nhằm chấm dứt thói quen thức khuya xem tivi trong phòng ngủ?",
       "options": [
-        "Chuyển chiếc tivi vĩnh viễn ra khỏi phòng ngủ và mang tặng hoặc bán đi.",
-        "Dán giấy nhắc nhở 'Ngủ sớm trước 23h' lên màn hình tivi.",
-        "Cài đặt chuông báo thức reo inh ỏi mỗi 15 phút một lần.",
-        "Uống trà an thần trong khi vẫn nằm xem phim trên tivi."
+        "Dán một tờ giấy ghi chú màu đỏ nhắc nhở bản thân phải tắt tivi đúng 23 giờ lên mép dưới của màn hình máy tính.",
+        "Cài đặt chuông báo thức trên điện thoại reo liên tục ba mươi phút một lần để nhắc nhở bản thân chuẩn bị đi ngủ.",
+        "Pha một cốc trà thảo mộc thơm ấm để uống trong lúc nằm trên giường xem tiếp các chương trình truyền hình yêu thích.",
+        "Tháo dỡ và chuyển hẳn tivi ra khỏi phòng ngủ, loại bỏ vĩnh viễn nguồn cơn cám dỗ khỏi không gian nghỉ ngơi."
       ],
-      "correctIndex": 0,
-      "explanation": "Chỉ tốn 15 phút bê chiếc tivi ra khỏi phòng ngủ một lần duy nhất, bạn đã vĩnh viễn tiêu diệt nguồn gốc gợi ý và ma sát khiến việc xem tivi ban đêm trở thành bất khả thi."
+      "correctIndex": 3,
+      "explanation": "Chỉ tốn một lần khuân tivi ra khỏi phòng ngủ, bạn đã vĩnh viễn xóa sạch nguồn phát tín hiệu và biến việc xem tivi trên giường thành điều bất khả thi."
     },
     {
       "id": "q13",
-      "question": "Khi công nghệ được tận dụng đúng đắn để tự động hóa thói quen, lợi ích tâm lý lớn nhất mà con người nhận được là gì?",
+      "question": "Nhận định của triết gia Alfred North Whitehead: \"Văn minh tiến bộ nhờ mở rộng số lượng hoạt động ta làm mà không cần nghĩ\" nhấn mạnh điều gì?",
       "options": [
-        "Con người không cần phải suy nghĩ hay học tập bất kỳ điều gì nữa.",
-        "Nó giải phóng hoàn toàn dung lượng não bộ và ý chí hữu hạn khỏi các tác vụ vụn vặt thường nhật, dành trọn tâm trí cho các công việc sáng tạo và ý nghĩa hơn.",
-        "Mọi người đều trở thành những tỷ phú công nghệ mà không cần lao động.",
-        "Cơ thể con người sẽ tự động ngừng lão hóa sinh học."
+        "Con người ngày càng trở nên thụ động và đánh mất khả năng tư duy độc lập khi xã hội phát triển văn minh.",
+        "Các hoạt động chân tay truyền thống cần phải được loại bỏ hoàn toàn để nhường chỗ cho các thiết bị hiện đại.",
+        "Tự động hóa thói quen giúp giải phóng dung lượng não bộ và ý chí để tập trung vào những nấc thang phát triển cao hơn.",
+        "Mọi quy trình sinh hoạt trong đời sống cá nhân bắt buộc phải được lập trình máy móc như trong các nhà máy."
       ],
-      "correctIndex": 1,
-      "explanation": "Như triết gia Alfred North Whitehead từng nói: Nền văn minh tiến bộ bằng cách gia tăng số lượng các hoạt động quan trọng mà chúng ta có thể thực hiện mà không cần nghĩ về chúng."
+      "correctIndex": 2,
+      "explanation": "Tác giả trích dẫn Whitehead để khẳng định: mỗi thói quen ta tự động hóa (qua công nghệ hay công cụ cam kết) sẽ giải phóng thời gian và tinh lực quý giá cho những việc lớn lao hơn."
     },
     {
       "id": "q14",
-      "question": "Một nhân viên văn phòng muốn ngừng thói quen ăn đồ ngọt tại nơi làm việc đã nhờ đồng nghiệp giữ hộ chìa khóa ngăn kéo đựng đồ ăn và chỉ cho phép mở ra vào chiều thứ Sáu. Đây là ví dụ của:",
+      "question": "Chiến lược nhờ trợ lý cài đặt lại mật khẩu mạng xã hội vào sáng thứ Hai và gửi lại vào chiều thứ Sáu của tác giả nhằm mục đích gì?",
       "options": [
-        "Sự phụ thuộc bệnh lý và thiếu năng lực làm chủ bản thân.",
-        "Thiết bị cam kết mang tính xã hội: gài thêm rào cản con người để biến việc ăn vặt ngẫu hứng hàng ngày thành điều cực kỳ bất tiện và khó khăn.",
-        "Một trò chơi đùa cợt vô hại không mang lại bất kỳ kết quả thực tế nào.",
-        "Hành vi vi phạm quy chế an ninh nội bộ của doanh nghiệp."
+        "Kiểm tra mức độ trung thực và tính bảo mật thông tin của trợ lý riêng trong quá trình hợp tác làm việc lâu dài.",
+        "Biến thói quen lướt mạng vô bổ thành điều bất khả thi trong tuần làm việc, giúp bản thân tập trung viết sách.",
+        "Tạo dựng hình ảnh một tác giả bận rộn và bí ẩn đối với cộng đồng độc giả hâm mộ trên các nền tảng số hiện nay.",
+        "Tiết kiệm chi phí dịch vụ viễn thông di động bằng cách hạn chế tối đa lưu lượng dữ liệu truy cập internet."
       ],
       "correctIndex": 1,
-      "explanation": "Tận dụng người khác để tạo rào cản ma sát: bạn không thể tự ý mở ngăn kéo khi thèm ăn, muốn mở phải giải thích với đồng nghiệp, tạo ra khoảng dừng ngăn chặn cơn bốc đồng."
+      "explanation": "Khi bị đổi mật khẩu và đăng xuất khỏi mọi thiết bị suốt tuần, việc lướt mạng trở thành điều bất khả; sự thèm muốn tự biến mất và tác giả có trọn vẹn sự tập trung cho công việc viết lách."
     },
     {
       "id": "q15",
-      "question": "Quy luật Nghịch đảo của Nguyên tắc 3: 'Make it difficult / Make it impossible' (Khiến nó khó khăn / bất khả) đóng vai trò gì trong bản đồ thói quen?",
+      "question": "Quy luật nghịch đảo của Nguyên tắc số 3: \"Khiến nó khó khăn / bất khả\" đóng vai trò phòng thủ ra sao trong bản đồ hành vi?",
       "options": [
-        "Nó là bức tường phòng thủ kiên cố nhất giúp bạn tự động bảo vệ bản thân khỏi những thói quen tự hủy hoại mà không cần dựa dẫm vào sức mạnh ý chí chập chờn.",
-        "Nó là công cụ để trừng phạt những người không đạt được mục tiêu.",
-        "Nó bắt buộc cuộc sống của con người phải luôn phức tạp và đau khổ.",
-        "Nó chỉ có thể áp dụng được trong các trại giam quân đội nghiêm ngặt."
+        "Biến thói quen xấu thành điều không thể thực hiện, bảo vệ bạn khỏi sự sa ngã mà không cần tiêu tốn năng lượng ý chí.",
+        "Tạo ra các hình thức kỷ luật trừng phạt nghiêm khắc để khiến bản thân luôn cảm thấy ân hận sau mỗi lần phạm lỗi.",
+        "Bắt buộc môi trường xung quanh phải luôn tràn ngập những chướng ngại vật phức tạp để thử thách sự kiên nhẫn.",
+        "Loại bỏ hoàn toàn mọi niềm vui giải trí trong cuộc sống thường ngày để duy trì trạng thái nghiêm túc tối đa."
       ],
       "correctIndex": 0,
-      "explanation": "Đỉnh cao của việc cai bỏ thói quen xấu không phải là cố gắng nhịn, mà là biến nó thành điều không thể làm được; khi con đường xấu bị chặn đứng, bạn bắt buộc phải đi trên con đường đúng."
+      "explanation": "Cách tốt nhất để xóa bỏ thói quen xấu là biến nó thành điều không thực tế hoặc bất khả thi. Khi con đường sai trái bị chặn đứng bằng lực cản tối đa, bạn không còn phải vật lộn với ý chí."
     }
   ]
 }

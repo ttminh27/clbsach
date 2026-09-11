@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Sự so sánh đối chiếu giữa hai huyền thoại Olympic - kình ngư Michael Phelps và vận động viên chạy cự ly Hicham El Guerrouj - đã chứng minh chân lý sinh học nào?",
+      "question": "Sự so sánh giữa Michael Phelps và Hicham El Guerrouj chứng minh điều gì về vai trò của thể hình di truyền?",
       "options": [
-        "Cả hai đều có thể vô địch thế giới ở môn thể thao của người kia nếu họ chăm chỉ tập luyện như nhau.",
-        "Cấu trúc gen và thể hình tự nhiên quyết định lĩnh vực mà cơ hội thành công của bạn là cao nhất: Phelps (thân dài, chân ngắn) sinh ra để bơi; El Guerrouj (chân dài, thân mảnh) sinh ra để chạy.",
-        "Michael Phelps thành công thuần túy nhờ may mắn ngẫu nhiên.",
-        "El Guerrouj có thể lực tốt hơn Phelps gấp nhiều lần."
+        "Cả hai đều có thể vô địch thế giới ở môn của đối phương nếu họ kiên trì rèn luyện như nhau.",
+        "Sự nỗ lực rèn luyện hoàn toàn có thể xóa bỏ mọi rào cản về chiều cao và sải tay trong thể thao.",
+        "Cấu trúc gen định hình lĩnh vực tạo lợi thế tối đa: Phelps sinh ra để bơi còn El Guerrouj để chạy.",
+        "Yếu tố di truyền chỉ quyết định thành tích ở giai đoạn đầu chứ không ảnh hưởng tới đỉnh cao."
       ],
-      "correctIndex": 1,
-      "explanation": "Hai người có cùng chiều cao (1m93 vs 1m75 nhưng chiều dài chân như nhau): Phelps có sải tay dài và chân ngắn như mái chèo (lợi thế bơi lội nhưng bất lợi chạy); hoán đổi môn thi đấu thì cả hai đều thất bại."
+      "correctIndex": 2,
+      "explanation": "Phelps cao 1m93 nhưng chân ngắn, lưng dài và nặng 88kg (tuyệt hảo cho bơi); El Guerrouj cao 1m76, chân dài, lưng ngắn và chỉ nặng 63kg (lý tưởng chạy cự ly). Hoán đổi môn thi đấu thì cả hai đều mất lợi thế."
     },
     {
       "id": "q2",
-      "question": "Theo James Clear, mối quan hệ chính xác giữa 'Gen di truyền' (Genes) và 'Sự nỗ lực rèn luyện' được đúc kết như thế nào?",
+      "question": "Theo James Clear, mối quan hệ chính xác giữa gen di truyền và sự nỗ lực rèn luyện được đúc kết như thế nào?",
       "options": [
-        "Gen định đoạt 100% số phận và nỗ lực chỉ là điều vô nghĩa.",
-        "Gen không định đoạt số phận của bạn; chúng chỉ xác định bạn có lợi thế tự nhiên ở lĩnh vực nào. Chúng mách bảo bạn NÊN nỗ lực tập trung vào đâu.",
-        "Gen hoàn toàn không ảnh hưởng gì đến khả năng thành công của con người.",
-        "Chỉ những người có gen đột biến mới có thể trở thành người tốt."
+        "Gen định đoạt toàn bộ số phận và nỗ lực chỉ mang tính chất phụ họa cho thành công của một người.",
+        "Gen không định đoạt số phận mà làm rõ cơ hội, chỉ dẫn bạn nên tập trung nỗ lực chăm chỉ vào đâu.",
+        "Gen hoàn toàn không tác động đến năng lực thực tế nếu con người có đủ quyết tâm và ý chí thép.",
+        "Chỉ những người sở hữu đột biến gen đặc biệt mới có thể xây dựng được các thói quen xuất chúng."
       ],
       "correctIndex": 1,
-      "explanation": "Gen không loại bỏ nhu cầu làm việc chăm chỉ; nó làm rõ bạn nên làm việc chăm chỉ ở đâu để đạt hiệu quả tối đa. Chọn đúng sân chơi biến nỗ lực thành đòn bẩy bùng nổ."
+      "explanation": "Bác sĩ Gabor Maté viết: 'Gen mở đường, chứ nó không định trước'. Gen không triệt tiêu nhu cầu làm việc chăm chỉ; nó bảo ta nên chăm chỉ làm những việc gì để phát huy tối đa tiềm lực."
     },
     {
       "id": "q3",
-      "question": "Chiến lược cân bằng giữa 'Khám phá' (Explore) và 'Khai thác' (Exploit) trong việc tìm kiếm thói quen và sự nghiệp phù hợp được áp dụng như thế nào?",
+      "question": "Chiến lược cân bằng giữa 'Khám phá' (Explore) và 'Khai thác' (Exploit) được James Clear đề xuất ra sao?",
       "options": [
-        "Giai đoạn đầu cuộc đời/dự án, hãy tích cực Khám phá rộng rãi nhiều lĩnh vực khác nhau; khi tìm thấy điều mình có lợi thế và hứng thú, hãy chuyển sang tập trung Khai thác sâu tới 80-90% nguồn lực.",
-        "Chỉ Khám phá suốt đời mà không bao giờ Khai thác bất kỳ kỹ năng nào.",
-        "Chỉ Khai thác công việc đầu tiên bạn làm từ năm 18 tuổi cho đến lúc nghỉ hưu.",
-        "Khám phá và Khai thác là hai khái niệm chỉ áp dụng trong ngành khai khoáng mỏ địa chất."
+        "Ban đầu hãy mở rộng khám phá nhiều lĩnh vực, sau đó tập trung khai thác khoảng 80-90% giải pháp tối ưu.",
+        "Chỉ nên dành trọn đời để thử nghiệm các lĩnh vực mới nhằm tối đa hóa trải nghiệm sống của bản thân.",
+        "Cần kiên định khai thác duy nhất một công việc đầu tiên bạn chọn từ tuổi trưởng thành tới khi nghỉ hưu.",
+        "Luôn chia đều 50% thời gian cho khám phá cơ hội mới và 50% thời gian cho công việc chuyên môn hiện tại."
       ],
       "correctIndex": 0,
-      "explanation": "Khám phá giúp bạn thử nghiệm và nhận diện thế mạnh; Khai thác giúp bạn đạt tới đỉnh cao tinh thông. Tỷ lệ tối ưu theo lý thuyết toán học là dành khoảng 80% khai thác và 20% tiếp tục khám phá."
+      "explanation": "Chiến lược explore/exploit: khi bắt đầu, hãy khám phá rộng rãi; khi tìm thấy điều phù hợp, hãy dồn 80-90% công sức khai thác thế mạnh đó và giữ 10-20% tiếp tục thử nghiệm cái mới."
     },
     {
       "id": "q4",
-      "question": "Câu hỏi tự vấn then chốt số 1: 'Việc gì khiến tôi cảm thấy như đang chơi trong khi người khác lại thấy như đang cày cuốc cực nhọc?' giúp bạn nhận diện điều gì?",
+      "question": "Câu hỏi tự vấn then chốt số 1: 'Cái gì khiến tôi dễ chịu, nhưng là gánh nặng với người khác?' giúp nhận diện điều gì?",
       "options": [
-        "Sự lười biếng và thiếu nghiêm túc của bạn đối với công việc.",
-        "Sở trường và thiên hướng tự nhiên độc đáo của bạn: nơi mà bạn có thể chịu đựng sự mệt mỏi và lặp đi lặp lại dễ dàng hơn nhiều so với người bình thường.",
-        "Một trò chơi điện tử trực tuyến mới ra mắt trên thị trường.",
-        "Dấu hiệu của việc bạn đang làm việc dưới mức năng lực thực tế."
+        "Mức độ ích kỷ cá nhân khi luôn chọn những việc nhẹ nhàng để tránh né trách nhiệm trong tập thể.",
+        "Dấu hiệu cảnh báo cho thấy bạn đang làm việc dưới mức năng lực thực tế và thiếu tinh thần thử thách.",
+        "Khả năng thích ứng của bạn trước những biến động bất ngờ của thị trường lao động trong tương lai.",
+        "Sở trường tự nhiên nơi bạn xử lý khó khăn dễ dàng hơn số đông và có thể kiên trì bền bỉ dài lâu."
       ],
-      "correctIndex": 1,
-      "explanation": "Công việc khiến người khác khổ sở nhưng bạn lại say mê làm không biết chán chính là chỉ dấu thép của sở trường tự nhiên; ở sân chơi đó, bạn sẽ dễ dàng đánh bại đối thủ."
+      "correctIndex": 3,
+      "explanation": "Dấu hiệu cho thấy bạn sinh ra để làm một công việc không phải là bạn có yêu thích nó hay không, mà là bạn có thể xử lý các khó khăn của nó dễ dàng hơn những người khác hay không."
     },
     {
       "id": "q5",
-      "question": "Câu hỏi số 2: 'Việc gì khiến tôi quên đi khái niệm thời gian?' gắn liền với trạng thái tâm lý đỉnh cao nào?",
+      "question": "Câu hỏi tự vấn số 2: 'Cái gì khiến tôi quên béng đi thời gian?' liên quan trực tiếp đến trạng thái tâm lý nào?",
       "options": [
-        "Hội chứng mất trí nhớ tạm thời.",
-        "Trạng thái 'Dòng chảy' (Flow state) của Mihaly Csikszentmihalyi: khi năng lực của bạn ăn khớp hoàn hảo với độ khó của nhiệm vụ, tạo ra sự tập trung nhập tâm tuyệt đối.",
-        "Trạng thái hôn mê do thiếu ngủ kéo dài.",
-        "Cảm giác buồn chán tột cùng khi nghe bài giảng lý thuyết."
+        "Sự thiếu tập trung mãn tính do thói quen đa nhiệm và lạm dụng mạng xã hội trong lúc làm việc.",
+        "Hội chứng kiệt quệ cảm xúc khi con người bị quá tải thông tin từ môi trường làm việc căng thẳng.",
+        "Trạng thái 'Vào guồng' (Flow) khi năng lực của bạn hòa quyện hoàn hảo với độ khó của nhiệm vụ.",
+        "Hiện tượng trì hoãn nhận thức khiến não bộ tự động né tránh những quyết định mang tính chiến lược."
       ],
-      "correctIndex": 1,
-      "explanation": "Trạng thái Dòng chảy chỉ xuất hiện khi hành vi vừa vặn với sở trường và hứng thú nội tại; đó là mảnh đất màu mỡ nhất để thói quen thăng hoa thành sự tinh thông."
+      "correctIndex": 2,
+      "explanation": "Vào guồng (Flow) là trạng thái tâm lý khi bạn tập trung toàn bộ sự chú ý vào nhiệm vụ trước mắt, quên đi thời gian và ngoại cảnh, mang lại sự thỏa mãn và hiệu suất đỉnh cao."
     },
     {
       "id": "q6",
-      "question": "Câu hỏi số 3: 'Tôi nhận được phản hồi (khen ngợi/thành tích) vượt trội hơn người bình thường ở lĩnh vực nào?' giúp bạn phát hiện:",
+      "question": "Câu hỏi tự vấn số 3: 'Tôi có được thành quả tốt hơn những người bình thường ở nơi nào?' mang ý nghĩa gì?",
       "options": [
-        "Những người bạn đang nịnh bợ bạn một cách giả tạo.",
-        "Nơi mà năng lực tự nhiên của bạn tạo ra kết quả cao hơn mức trung bình của xã hội với cùng một lượng nỗ lực bỏ ra.",
-        "Các kênh mạng xã hội có thuật toán phân phối nội dung tốt nhất.",
-        "Sự bất công của hệ thống giáo dục hiện đại."
+        "Khuyến khích thái độ tự cao tự đại và so sánh hơn thua tiêu cực với những người đồng nghiệp gần gũi.",
+        "Giúp bạn nhận diện phản hồi khách quan từ thực tế nơi công sức của bạn tạo ra đòn bẩy vượt trội.",
+        "Nhắc nhở bạn cần phải che giấu thế mạnh cá nhân để tránh tạo ra sự đố kỵ trong môi trường làm việc.",
+        "Chứng minh rằng bạn không cần phải tiếp tục rèn luyện thêm nữa khi đã đạt thành tích cao hơn người khác."
       ],
       "correctIndex": 1,
-      "explanation": "Sự tán thưởng tự nhiên từ thế giới bên ngoài là tấm gương khách quan phản chiếu lợi thế cạnh tranh tiềm ẩn mà đôi khi chính bản thân bạn coi là điều hiển nhiên."
+      "explanation": "So sánh lành mạnh giúp ta nhận ra lĩnh vực mình có lợi thế tự nhiên: nơi mà cùng một lượng nỗ lực bỏ ra, bạn thu về kết quả nhanh hơn và chất lượng hơn mức trung bình."
     },
     {
       "id": "q7",
-      "question": "Nếu bạn nhận thấy mình không có lợi thế di truyền tự nhiên ở một môn thể thao hoặc ngành nghề truyền thống, chiến lược đột phá mà James Clear đề xuất là gì?",
+      "question": "Nếu không thể chiến thắng bằng cách trở nên giỏi hơn trong một trò chơi có sẵn, bạn nên làm gì?",
       "options": [
-        "Chấp nhận số phận thất bại và sống một cuộc đời tầm thường.",
-        "Tự tạo ra một trò chơi mới bằng cách kết hợp 2-3 kỹ năng khác nhau nơi bạn nằm trong top 25%, tạo nên một tổ hợp độc bản không có đối thủ cạnh tranh.",
-        "Dùng các chất kích thích cấm để cưỡng chế thay đổi thể trạng sinh học.",
-        "Liên tục phàn nàn về sự bất công của tạo hóa trên mạng xã hội."
+        "Tạo ra một trò chơi mới bằng cách kết hợp các kỹ năng ở mức khá để hình thành lợi thế độc bản.",
+        "Bỏ cuộc hoàn toàn và chuyển sang một lĩnh vực không đòi hỏi bất kỳ sự cạnh tranh chuyên môn nào.",
+        "Gia tăng gấp ba lần thời gian luyện tập mỗi ngày để cố gắng vượt qua giới hạn sinh học bẩm sinh.",
+        "Chờ đợi cơ hội may mắn xuất hiện khi các đối thủ cạnh tranh hàng đầu phạm phải sai lầm nghiêm trọng."
       ],
-      "correctIndex": 1,
-      "explanation": "Chiến lược Scott Adams (tác giả truyện Dilbert): ông không phải họa sĩ giỏi nhất, cũng không phải người hài hước nhất hay am hiểu kinh doanh nhất, nhưng ông đứng số 1 thế giới ở giao điểm của cả 3 yếu tố đó."
+      "correctIndex": 0,
+      "explanation": "Chiến lược của Scott Adams (tác giả Dilbert): kết hợp các kỹ năng ở top 25% (vẽ khá + khiếu hài hước + kiến thức kinh doanh) để tạo ra sân chơi độc nhất vô nhị không có đối thủ."
     },
     {
       "id": "q8",
-      "question": "Mô hình tính cách 'Năm phẩm chất lớn' (Big Five Personality Traits) - Gồm: Cởi mở, Tận tâm, Hướng ngoại, Dễ chịu, và Nhạy cảm - có mối liên hệ thế nào với việc xây dựng thói quen?",
+      "question": "Mô hình tính cách 'Năm Nét Lớn' (Big Five) có ý nghĩa ứng dụng thế nào đối với việc xây dựng thói quen?",
       "options": [
-        "Các thói quen chỉ thành công khi bạn cố gắng thay đổi hoàn toàn tính cách bẩm sinh của mình.",
-        "Mỗi kiểu tính cách bẩm sinh phù hợp với những chiến lược thói quen khác nhau: người hướng ngoại dễ tập gym đông người, người nhạy cảm cao cần môi trường yên tĩnh.",
-        "Tính cách không có bất kỳ mối liên hệ sinh học nào với hành vi con người.",
-        "Chỉ những người có điểm Tận tâm tuyệt đối mới có thể xây dựng được thói quen tốt."
+        "Nó chứng minh rằng tính cách là yếu tố cố định và con người không thể thay đổi bất kỳ hành vi nào.",
+        "Nó yêu cầu mọi người phải rèn luyện để sở hữu mức điểm tối đa ở cả năm nét tính cách nói trên.",
+        "Nó chỉ ra rằng các thói quen rèn luyện thể chất chỉ phù hợp với những người có tính cách hướng ngoại.",
+        "Nó giúp bạn thiết kế thói quen phù hợp với bản tính tự nhiên thay vì mù quáng sao chép người khác."
       ],
-      "correctIndex": 1,
-      "explanation": "Xây dựng thói quen phải thuận theo bản tính tự nhiên (Build habits that work for your personality); ép một người hướng nội tập luyện giữa đám đông ồn ào sẽ chỉ tạo thêm ma sát kháng cự."
+      "correctIndex": 3,
+      "explanation": "Hãy xây dựng thói quen phù hợp với tính cách của mình: người hướng nội không nên ép mình vào phòng tập đông đúc; hãy chọn hoạt động tự nhiên khiến bạn cảm thấy thỏa mãn nhất."
     },
     {
       "id": "q9",
-      "question": "Một người có tính cách 'Nhạy cảm cao' (High Neuroticism - hay lo âu, dễ căng thẳng) nên chọn thói quen thư giãn buổi tối nào phù hợp nhất với bản năng?",
+      "question": "Một người có tính tận tâm thấp (thường hay bừa bộn, tự phát) nên ưu tiên chiến lược nào nhất?",
       "options": [
-        "Tham gia các bữa tiệc khiêu vũ sôi động thâu đêm với người lạ.",
-        "Viết nhật ký xả cảm xúc, đọc sách nhẹ nhàng trong không gian tĩnh lặng và thiền định thở sâu.",
-        "Xem các bộ phim kinh dị giật gân có âm thanh rùng rợn.",
-        "Chơi các trò chơi điện tử đối kháng có tính cạnh tranh gay gắt."
+        "Ép buộc bản thân ngồi thiền bốn tiếng mỗi ngày để rèn luyện ý chí kiểm soát cảm xúc sắt đá.",
+        "Tìm kiếm một công việc tự do hoàn toàn không có bất kỳ thời hạn hay quy định ràng buộc nào.",
+        "Dựa vào thiết kế môi trường sống và làm việc để giảm thiểu ma sát và ngăn ngừa sự lộn xộn.",
+        "Uống các loại thực phẩm chức năng bổ não nhằm nâng cao chỉ số tập trung chú ý tức thì."
       ],
-      "correctIndex": 1,
-      "explanation": "Lựa chọn thói quen tương thích với hệ thần kinh: người dễ lo âu cần các gợi ý mang tính làm dịu và bao bọc an toàn để cân bằng lại trục cảm xúc."
+      "correctIndex": 2,
+      "explanation": "Người có tính tận tâm thấp khó ngăn nắp tự nhiên, do đó họ cần dựa nhiều vào việc thiết kế môi trường xung quanh (sắp đặt vật dụng rõ ràng, giảm gợi ý xấu) để duy trì kỷ luật."
     },
     {
       "id": "q10",
-      "question": "Tại sao việc 'Chọn đúng cuộc chơi' (Playing the right game) lại khiến Quy luật 3 (Khiến nó dễ dàng) được nhân lên gấp bội phần?",
+      "question": "Hình ảnh ẩn dụ: 'Nước sôi làm nhừ khoai tây nhưng lại làm rắn quả trứng' mang hàm ý sâu sắc nào?",
       "options": [
-        "Vì trò chơi đúng sẽ có giải thưởng tiền mặt trao tận tay mỗi ngày.",
-        "Khi bạn làm việc đúng với sở trường tự nhiên, công việc tiến triển trơn tru, ít ma sát kháng cự nội tâm và bạn tiến bộ nhanh hơn người khác rất nhiều lần.",
-        "Vì người khác sẽ làm hộ bạn toàn bộ các phần việc khó khăn.",
-        "Bởi vì gen di truyền sẽ tự động hoàn thành bài tập thay cho bạn."
+        "Môi trường khắc nghiệt luôn hủy hoại ý chí con người bất kể họ có bản chất sinh học như thế nào.",
+        "Cùng một hoàn cảnh nhưng bản chất khác nhau sẽ tạo ra phản ứng khác nhau; hãy chọn nơi phát huy bản chất.",
+        "Mọi người đều phải thay đổi bản thân để trở nên cứng cỏi như quả trứng khi đối mặt với thử thách.",
+        "Sự mềm mỏng của khoai tây luôn mang lại khả năng sinh tồn tốt hơn sự cứng cáp của quả trứng chín."
       ],
       "correctIndex": 1,
-      "explanation": "Bơi xuôi dòng nước luôn dễ hơn bơi ngược dòng; khi thói quen ăn khớp với tài năng thiên bẩm, việc rèn luyện trở thành niềm vui tự nhiên thay vì cuộc vật lộn mệt mỏi."
+      "explanation": "Bạn không thể chọn mình là khoai hay trứng, nhưng có quyền chọn chơi trò mà việc cứng hay mềm mang lại lợi thế. Hãy đặt bản thân vào môi trường nơi thiên hướng tự nhiên của bạn trở thành ưu thế."
     },
     {
       "id": "q11",
-      "question": "Nghịch lý của câu nói: 'Năng khiếu bẩm sinh chỉ có ý nghĩa khi những người có năng khiếu không chịu làm việc chăm chỉ' được giải thích là gì?",
+      "question": "Chiến lược 'Chuyên môn hóa hẹp' (Specialization) giúp một người bình thường chiến thắng như thế nào?",
       "options": [
-        "Người có tài năng không bao giờ cần phải nỗ lực rèn luyện.",
-        "Nếu bạn không có gen bơi lội như Michael Phelps, bạn vẫn có thể sống khỏe mạnh và bơi giỏi; nhưng nếu muốn vô địch Olympic, bạn bắt buộc phải có CẢ năng khiếu gen lẫn sự chăm chỉ tột cùng.",
-        "Sự chăm chỉ có thể xóa bỏ hoàn toàn các giới hạn cấu trúc xương của con người.",
-        "Tài năng chỉ là một khái niệm bịa đặt không có thật trong thể thao."
+        "Càng thông thạo một kỹ năng đặc thù trong phạm trù hẹp, bạn càng giảm bớt đối thủ cạnh tranh trực tiếp.",
+        "Nó đòi hỏi bạn phải từ bỏ toàn bộ các mối quan hệ xã hội để tập trung duy nhất vào công việc nghiên cứu.",
+        "Nó đảm bảo bạn sẽ trở thành người giàu có nhất trong xã hội chỉ sau một khoảng thời gian ngắn nỗ lực.",
+        "Nó giúp bạn hoàn thành mọi mục tiêu mà không cần phải trải qua quá trình rèn luyện gian khổ mỗi ngày."
       ],
-      "correctIndex": 1,
-      "explanation": "Chăm chỉ đánh bại tài năng khi tài năng lười biếng; nhưng ở đỉnh cao tuyệt đối của nhân loại, kẻ chiến thắng là kẻ vừa có thiên phú di truyền hoàn hảo vừa có kỷ luật rèn luyện thép."
+      "correctIndex": 0,
+      "explanation": "Chuyên môn hóa giúp vượt qua bất lợi di truyền: ngay cả người tập thể hình khổng lồ cũng có thể thua vận động viên vật tay chuyên nghiệp vì kỹ năng của họ cực kỳ đặc thù trong phạm trù hẹp."
     },
     {
       "id": "q12",
-      "question": "Một người có ngón tay ngắn và thô nhưng rất yêu âm nhạc. Thay vì ép mình trở thành nghệ sĩ độc tấu đàn hạc cổ điển, người đó nên làm gì theo tư duy Chương 18?",
+      "question": "Nguy cơ lớn nhất khi bạn sao chép nguyên văn lịch trình rèn luyện của một người nổi tiếng là gì?",
       "options": [
-        "Từ bỏ âm nhạc vĩnh viễn và đi làm công việc hành chính.",
-        "Khám phá các nhạc cụ hoặc vai trò âm nhạc khác phù hợp hơn với cấu trúc bàn tay và thế mạnh của mình, như chơi trống, chơi kèn trumpet hoặc sản xuất âm nhạc điện tử.",
-        "Phẫu thuật kéo dài xương ngón tay tại bệnh viện chỉnh hình.",
-        "Cố gắng tập luyện 20 tiếng mỗi ngày để bẻ gãy các khớp ngón tay."
+        "Bạn sẽ nhanh chóng bị kiệt quệ tài chính do phải chi trả chi phí bản quyền phong cách sống.",
+        "Lịch trình đó sẽ khiến bạn bị cô lập hoàn toàn khỏi gia đình và các mối quan hệ xã hội quen thuộc.",
+        "Bộ não của bạn sẽ tự động từ chối tiếp nhận thông tin mới do xung đột nhận thức nghiêm trọng.",
+        "Thói quen đó được thiết kế cho gen và tính cách của họ, chưa chắc đã phù hợp với bản thể của bạn."
       ],
-      "correctIndex": 1,
-      "explanation": "Đừng cố đập đầu vào bức tường cấu trúc sinh học; hãy chuyển hướng sang sân chơi nơi mà đặc điểm của bạn không còn là điểm yếu mà thậm chí trở thành lợi thế cạnh tranh."
+      "correctIndex": 3,
+      "explanation": "Không có thói quen nào là 'một kích cỡ vừa cho tất cả'. Sao chép thói quen của người khác mà không xét tới tính cách, thể trạng và bối cảnh cá nhân sẽ dẫn đến ma sát kháng cự và thất bại."
     },
     {
       "id": "q13",
-      "question": "Điều gì là nguy cơ lớn nhất khi bạn mù quáng sao chép 100% lịch trình thói quen của một người nổi tiếng (như Elon Musk hay Steve Jobs)?",
+      "question": "Tại sao James Clear lại tự thiết kế chuyên ngành 'Cơ sinh học' (Biomechanics) cho mình ở đại học?",
       "options": [
-        "Bạn sẽ bị kiện vì tội vi phạm bản quyền lối sống cá nhân.",
-        "Lịch trình đó được tối ưu hóa cho cấu trúc gen, thể lực, tính cách và bối cảnh độc nhất của họ; ép nó vào cuộc đời bạn có thể gây kiệt sức và thất bại cay đắng.",
-        "Bạn sẽ ngay lập tức trở thành một tỷ phú công nghệ giống họ.",
-        "Điện thoại của bạn sẽ tự động xóa hết các ứng dụng giải trí."
+        "Vì nhà trường bắt buộc mọi sinh viên xuất sắc đều phải tự tạo ra chuyên ngành nghiên cứu độc lập.",
+        "Để né tránh hoàn toàn việc phải tham gia các kỳ thi kiểm tra đánh giá năng lực học tập cuối kỳ.",
+        "Để kết hợp các môn mình yêu thích và tránh rơi vào cái bẫy so sánh năng lực với những bạn học khác.",
+        "Nhằm mục đích rút ngắn thời gian đào tạo đại học từ bốn năm xuống còn hai năm để đi làm sớm."
       ],
-      "correctIndex": 1,
-      "explanation": "Thói quen không phải là chiếc áo 'một kích cỡ vừa cho tất cả' (One size fits all); bạn phải may đo thói quen theo đúng kích cỡ tính cách và sinh học của chính mình."
+      "correctIndex": 2,
+      "explanation": "Clear nhận thấy mình không đủ xuất sắc ở từng môn đơn lẻ như vật lý hay sinh học, nên ông tự tạo ra sân chơi riêng bằng cách kết hợp chúng, vừa học môn mình thích vừa tránh bẫy so sánh."
     },
     {
       "id": "q14",
-      "question": "Chiến lược 'Chuyên môn hóa hẹp' (Specialization) giúp tạo ra lợi thế cạnh tranh độc quyền như thế nào?",
+      "question": "Khi chưa nỗ lực làm việc chăm chỉ bằng người mà bạn đang ngưỡng mộ, bạn không nên làm điều gì?",
       "options": [
-        "Càng thu hẹp phạm vi chuyên môn vào một giao điểm độc đáo, số lượng đối thủ cạnh tranh càng giảm xuống gần bằng không, giúp bạn dễ dàng trở thành người giỏi nhất.",
-        "Nó bắt buộc bạn phải từ bỏ mọi mối quan hệ xã hội xung quanh.",
-        "Nó làm tăng chi phí đóng thuế thu nhập cá nhân hàng năm.",
-        "Chuyên môn hóa hẹp chỉ dành riêng cho các nhà khoa học vũ trụ."
+        "Tìm hiểu các phương pháp rèn luyện khoa học mà họ đã từng áp dụng trong suốt sự nghiệp thi đấu.",
+        "Vội vã biện giải rằng mọi thành tựu vượt bậc của họ thuần túy chỉ đến từ vận may và gen di truyền.",
+        "Đặt ra những mục tiêu phấn đấu cụ thể để từng bước rút ngắn khoảng cách trình độ với người đó.",
+        "Ghi nhận sự kiên trì và kỷ luật phi thường mà họ đã bỏ ra qua hàng ngàn ngày tập luyện miệt mài."
       ],
-      "correctIndex": 0,
-      "explanation": "Nếu bạn không thể thắng trong cuộc đua chung của số đông, hãy tạo ra một đường đua mới nơi bạn là vận động viên duy nhất thi đấu; đó là cách thông minh nhất để làm chủ cuộc chơi."
+      "correctIndex": 1,
+      "explanation": "Clear nhấn mạnh: Chừng nào bạn chưa làm việc chăm chỉ như người mà bạn ngưỡng mộ, thì đừng biện giải rằng thành công của họ chỉ là do may mắn hay gen di truyền tốt hơn."
     },
     {
       "id": "q15",
-      "question": "Thông điệp đúc kết sâu sắc nhất của Chương 18 về gen và sự nỗ lực là:",
+      "question": "Lời khuyên đúc kết quan trọng nhất của Chương 18 về cách tiếp cận sự nỗ lực là gì?",
       "options": [
-        "Gen mang lại cho bạn một bàn cờ thuận lợi; nhưng chính các thói quen hằng ngày mới là người chơi các quân cờ đó để quyết định ván thắng cuộc đời.",
-        "Hãy đổ lỗi cho cha mẹ vì đã truyền lại bộ gen không hoàn hảo cho bạn.",
-        "Năng khiếu là thứ duy nhất quyết định bạn là ai trong xã hội.",
-        "Không có bất kỳ sự khác biệt sinh học nào giữa các cá nhân con người."
+        "Hãy chăm chỉ làm những việc mà bản thân cảm thấy dễ thực hiện và phù hợp với thiên hướng tự nhiên.",
+        "Luôn chọn những việc khó khăn nhất mà người khác né tránh để chứng tỏ ý chí kiên định của bản thân.",
+        "Chỉ tập trung vào những lĩnh vực mang lại danh vọng và thu nhập tài chính cao nhất trong xã hội.",
+        "Hãy để số phận tự định đoạt cuộc đời và không cần phải bận tâm xây dựng thêm các thói quen mới."
       ],
       "correctIndex": 0,
-      "explanation": "Bộ gen chia cho bạn những quân bài; việc chơi những quân bài đó thông minh và kiên trì đến mức nào thông qua thói quen nguyên tử là hoàn toàn phụ thuộc vào bạn."
+      "explanation": "'Hãy chăm chỉ làm những gì dễ thực hiện' (Work hard on the things that come easy). Khi thói quen thuận theo tự nhiên, bạn sẽ thấy thỏa mãn và có thể kiên trì bền bỉ trên chặng đường dài."
     }
   ]
 }

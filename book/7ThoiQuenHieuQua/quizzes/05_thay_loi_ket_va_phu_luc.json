@@ -1,188 +1,188 @@
 {
   "bookId": "7ThoiQuenHieuQua",
   "chapterId": "05_thay_loi_ket_va_phu_luc",
-  "chapterTitle": "Thay lời kết & Phụ lục",
+  "chapterTitle": "Thay lời kết và Phụ lục",
   "totalQuestions": 15,
   "questions": [
     {
       "id": "q1",
       "question": "Trong phần hỏi đáp ở Thay lời kết, trước câu hỏi liệu có muốn thay đổi hay thêm bớt gì trong 7 Thói quen sau hàng chục năm kiểm chứng, Stephen Covey đã trả lời như thế nào?",
       "options": [
-        "7 thói quen dựa trên các nguyên tắc phổ quát bất biến của tự nhiên nên cốt lõi của chúng không hề thay đổi; có chăng chỉ là bối cảnh thời đại mới làm cho việc áp dụng chúng trở nên cấp thiết hơn bao giờ hết.",
-        "Ông muốn hủy bỏ hoàn toàn 3 thói quen đầu tiên vì cho rằng chúng không còn hợp thời.",
-        "Ông muốn bổ sung thêm 20 thói quen mới để bắt kịp xu hướng trí tuệ nhân tạo.",
-        "Ông thừa nhận các nguyên tắc trong sách chỉ đúng trong giai đoạn thế kỷ 20."
+        "Ông muốn bãi bỏ hoàn toàn 3 thói quen đầu tiên vì cho rằng tư duy độc lập cá nhân không còn phù hợp với bối cảnh kinh tế số hiện đại.",
+        "7 thói quen dựa trên các nguyên tắc tự nhiên bất biến nên cốt lõi không đổi; bối cảnh mới chỉ làm việc áp dụng chúng trở nên cấp thiết hơn.",
+        "Ông muốn bổ sung thêm hàng chục thói quen mới để bắt kịp sự phát triển của các thuật toán trí tuệ nhân tạo và kinh tế dữ liệu lớn.",
+        "Ông thừa nhận toàn bộ mô hình này chỉ có giá trị thực tiễn trong thế kỷ 20 và cần được thay thế hoàn toàn bằng một học thuyết quản trị mới."
       ],
-      "correctIndex": 0,
-      "explanation": "Covey khẳng định các nguyên tắc tự nhiên giống như định luật vạn vật hấp dẫn: chúng không thay đổi theo thời gian hay công nghệ. Thách thức thời đại số càng lớn thì nhu cầu neo giữ vào nguyên tắc càng trở nên sống còn."
+      "correctIndex": 1,
+      "explanation": "Covey khẳng định các nguyên tắc nền tảng không bao giờ thay đổi vì chúng là các quy luật tự nhiên của vũ trụ; chỉ có cách thức áp dụng và bối cảnh thời đại công nghệ số thay đổi, đòi hỏi con người càng phải bám chặt vào các nguyên tắc cốt lõi hơn."
     },
     {
       "id": "q2",
       "question": "Khi được hỏi thói quen nào là KHÓ THỰC HÀNH NHẤT đối với chính bản thân mình, Stephen Covey đã thành thật thừa nhận đó là thói quen nào?",
       "options": [
-        "Thói quen 1: Luôn chủ động.",
-        "Thói quen 3: Ưu tiên cho điều quan trọng nhất.",
-        "Thói quen 2: Bắt đầu từ mục tiêu đã được xác định.",
-        "Thói quen 5: Lắng nghe và thấu hiểu (Seek First to Understand, Then to Be Understood)."
+        "Thói quen 1 (Luôn chủ động): Vì việc kiềm chế các phản xạ bản năng trước những kích thích tiêu cực bất ngờ từ môi trường đòi hỏi nỗ lực rất lớn.",
+        "Thói quen 3 (Ưu tiên điều quan trọng nhất): Vì các áp lực khẩn cấp vụn vặt hàng ngày luôn có xu hướng lấn át các mục tiêu chiến lược dài hạn.",
+        "Thói quen 2 (Bắt đầu từ mục tiêu xác định): Vì việc giữ vững tầm nhìn sứ mệnh giữa muôn vàn ngã rẽ cuộc đời luôn là thử thách ý chí cam go.",
+        "Thói quen 5 (Lắng nghe và thấu hiểu): Vì bản năng con người luôn khao khát được người khác hiểu mình trước thay vì kiên nhẫn thấu hiểu người khác."
       ],
       "correctIndex": 3,
-      "explanation": "Covey chia sẻ rằng bản năng tự nhiên của con người luôn muốn bảo vệ cái tôi, muốn giải thích và áp đặt quan điểm của mình trước. Việc thực sự lắng nghe thấu cảm đòi hỏi sự kiềm chế cái tôi cực kỳ lớn và sự khiêm nhường sâu sắc."
+      "explanation": "Covey thừa nhận Thói quen 5 (Lắng nghe và thấu hiểu) là thói quen khó khăn nhất đối với ông, vì khi bạn nghĩ mình đã có kinh nghiệm và giải pháp đúng đắn, bản năng tự nhiên sẽ thôi thúc bạn muốn lên tiếng, khuyên bảo và phán xét thay vì khiêm tốn lắng nghe người khác."
     },
     {
       "id": "q3",
       "question": "Khái niệm 'Thói quen thứ 8' (The 8th Habit) được tác giả gợi mở phát triển tiếp nối từ 7 thói quen cốt lõi mang nội dung gì?",
       "options": [
-        "Tìm ra tiếng nói (Voice) độc đáo của chính mình và truyền cảm hứng cho người khác tìm ra tiếng nói của họ.",
-        "Học cách kiếm thật nhiều tiền trong thời gian ngắn nhất trên thị trường tài chính.",
-        "Sử dụng mạng xã hội để trở thành người có tầm ảnh hưởng lớn nhất.",
-        "Tự động hóa toàn bộ công việc quản trị bằng máy tính."
+        "Tìm ra tiếng nói (Voice) độc đáo đầy ý nghĩa của chính mình, đồng thời truyền cảm hứng và giúp đỡ người khác tìm ra tiếng nói của họ.",
+        "Nắm bắt các chiến lược đầu tư tài chính phái sinh phức tạp nhằm mục đích tích lũy tài sản khổng lồ trong khoảng thời gian ngắn nhất.",
+        "Tận dụng tối đa sức mạnh lan truyền của các nền tảng mạng xã hội để xây dựng thương hiệu cá nhân thành người nổi tiếng có tầm ảnh hưởng.",
+        "Tự động hóa hoàn toàn quy trình ra quyết định quản trị của tổ chức bằng việc ứng dụng các phần mềm máy tính phân tích dữ liệu chuyên sâu."
       ],
       "correctIndex": 0,
-      "explanation": "Thói quen thứ 8 đưa con người từ 'Sự Thành Đạt' (Effectiveness) lên tầm cao của 'Sự Vĩ Đại' (Greatness): Khám phá sứ mệnh độc bản của bản thân và nâng đỡ, khơi dậy tiềm năng vô hạn ở những người xung quanh."
+      "explanation": "Thói quen thứ 8 (The 8th Habit: From Effectiveness to Greatness) là: 'Tìm ra tiếng nói của chính mình và truyền cảm hứng cho người khác tìm ra tiếng nói của họ' - đưa con người từ tầm mức Hiệu quả (Effectiveness) vươn lên tầm mức Vĩ đại (Greatness)."
     },
     {
       "id": "q4",
       "question": "Tại sao Stephen Covey luôn từ chối việc mọi người xem ông như một 'vị thánh' hay một người hoàn hảo không bao giờ mắc lỗi?",
       "options": [
-        "Vì ông luôn tự nhận mình chỉ là một người học trò đang nỗ lực học tập và đấu tranh từng ngày để sống theo các nguyên tắc tự nhiên giống như tất cả mọi người.",
-        "Vì ông sợ bị cơ quan thuế điều tra thu nhập.",
-        "Vì ông không muốn tiếp tục giảng dạy về chủ đề quản trị nữa.",
-        "Vì ông cho rằng sự hoàn hảo chỉ dành riêng cho các nhà lãnh đạo chính trị."
+        "Vì ông lo ngại danh xưng tôn vinh quá mức sẽ thu hút sự chú ý của các cơ quan quản lý tài chính và thuế vụ đối với nguồn doanh thu bản quyền.",
+        "Vì ông đã có kế hoạch rút lui hoàn toàn khỏi công việc nghiên cứu học thuật để tận hưởng cuộc sống an nhàn riêng tư bên cạnh người thân.",
+        "Vì ông tự nhận mình chỉ là một người học trò đang nỗ lực học tập và không ngừng đấu tranh mỗi ngày để sống theo các nguyên tắc giống như mọi người.",
+        "Vì theo triết lý của ông, sự hoàn hảo nhân cách là phẩm chất độc quyền chỉ có ở những nhà lãnh đạo chính trị nắm giữ quyền lực nhà nước."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự khiêm nhường tột bậc của Covey: Ông luôn phân biệt rõ ràng giữa 'Thông điệp' (các nguyên tắc tự nhiên vĩnh cửu) và 'Sứ giả' (bản thân ông — một con người bình thường cũng có những lúc yếu lòng và phải liên tục rèn luyện)."
+      "correctIndex": 2,
+      "explanation": "Covey luôn giữ thái độ khiêm nhường sâu sắc; ông coi các nguyên tắc là ngọn hải đăng bất biến còn chính ông cũng chỉ là một người lữ hành đang nỗ lực học hỏi và vật lộn mỗi ngày để sống đúng với những nguyên tắc đó."
     },
     {
       "id": "q5",
       "question": "Làm thế nào để áp dụng 7 Thói quen vào việc xây dựng 'Văn hóa tổ chức / Doanh nghiệp xuất sắc'?",
       "options": [
-        "Chuyển hóa 7 thói quen cá nhân thành các quy chuẩn văn hóa chung: Tinh thần chủ động, Sứ mệnh rõ ràng, Kỷ luật ưu tiên, Hợp tác cùng thắng, Giao tiếp thấu cảm và Văn hóa học tập đổi mới liên tục.",
-        "Chỉ cần treo các khẩu hiệu 7 thói quen trên tường văn phòng làm việc.",
-        "Sa thải toàn bộ những nhân viên chưa đọc xong cuốn sách này.",
-        "Bắt buộc nhân viên học thuộc lòng từng câu chữ trong sách để làm bài thi định kỳ."
+        "Treo thật nhiều băng rôn khẩu hiệu về 7 thói quen dọc theo các hành lang công ty mà không cần tổ chức các khóa đào tạo chuyển hóa nhận thức.",
+        "Chuyển hóa 7 thói quen thành quy chuẩn văn hóa chung: Tinh thần chủ động, Sứ mệnh rõ ràng, Kỷ luật ưu tiên, Cùng thắng và Học tập đổi mới liên tục.",
+        "Lập tức thanh trừng và sa thải toàn bộ những nhân sự chưa hoàn thành việc nghiên cứu cuốn sách hoặc chưa đạt điểm tối đa trong các kỳ sát hạch.",
+        "Bắt buộc toàn bộ cán bộ công nhân viên phải học thuộc lòng từng định nghĩa học thuật trong cuốn sách để đối phó với các đợt kiểm tra nội bộ."
       ],
-      "correctIndex": 0,
-      "explanation": "Văn hóa doanh nghiệp là tập hợp các thói quen chung của toàn thể nhân viên. Khi các nguyên tắc của 7 thói quen trở thành 'hệ điều hành' trong cách ứng xử hàng ngày, tổ chức sẽ đạt tới hiệu quả vượt bậc và bền vững."
+      "correctIndex": 1,
+      "explanation": "7 thói quen không chỉ dành cho cá nhân mà là hệ điều hành cho văn hóa tổ chức: nhân viên chủ động, mục tiêu sứ mệnh đồng thuận, kỷ luật thực thi góc II, hợp tác cùng thắng và văn hóa lắng nghe, hiệp lực đổi mới liên tục."
     },
     {
       "id": "q6",
       "question": "Theo phân tích trong phần phụ lục, đâu là sự khác biệt giữa việc 'Đọc để biết' và 'Đọc để giảng dạy lại cho người khác' (Teaching to Learn)?",
       "options": [
-        "Khi đọc với tâm thế sẽ chia sẻ và hướng dẫn lại cho người khác trong vòng 48 giờ, mức độ thấu hiểu, ghi nhớ và cam kết thực hành của bạn sẽ tăng vọt gấp nhiều lần.",
-        "Đọc để giảng dạy lại sẽ làm mất nhiều thời gian hơn mà không mang lại lợi ích gì.",
-        "Chỉ những người có bằng thạc sĩ trở lên mới được phép chia sẻ cuốn sách này.",
-        "Đọc để biết giúp bạn giữ kín được các bí quyết thành công cho riêng mình."
+        "Khi đọc với tâm thế sẽ chia sẻ lại cho người khác trong 48 giờ, mức độ thấu hiểu, ghi nhớ và cam kết thực hành của bạn sẽ tăng vọt gấp nhiều lần.",
+        "Việc chia sẻ tri thức cho người khác làm lãng phí rất nhiều thời gian quý báu mà hoàn toàn không mang lại giá trị gia tăng nào cho bản thân.",
+        "Chỉ những học giả có học vị giáo sư hoặc chuyên gia đào tạo cấp cao mới có đủ tư cách pháp lý để chia sẻ các nguyên lý trong cuốn sách này.",
+        "Đọc để biết giúp bạn bảo mật tuyệt đối các bí quyết làm giàu và thành công cho riêng mình mà không để các đối thủ cạnh tranh nắm bắt được."
       ],
       "correctIndex": 0,
-      "explanation": "Covey khuyên người đọc hãy áp dụng ngay quy tắc 'Học để dạy lại': Đây là phương pháp tối ưu nhất để nội tâm hóa tri thức và tạo chuyển biến hành vi sâu sắc."
+      "explanation": "Cách học tốt nhất là dạy lại cho người khác. Khi bạn tiếp cận tri thức với ý định truyền đạt lại cho người khác trong vòng 48 giờ, tâm thế của bạn thay đổi từ thụ động sang chủ động, giúp việc tiếp thu và nội tâm hóa nguyên lý đạt hiệu quả tối ưu."
     },
     {
       "id": "q7",
       "question": "Trong bối cảnh gia đình, điều gì xảy ra khi cha mẹ cùng con cái cùng nhau thảo luận và viết nên 'Bản Tuyên ngôn sứ mệnh gia đình' (Family Mission Statement)?",
       "options": [
-        "Gia đình sẽ có một bộ quy chuẩn giá trị chung bất biến để định hướng ứng xử, giải quyết bất đồng và tạo sự gắn kết thiêng liêng giữa các thế hệ.",
-        "Con cái sẽ không bao giờ phạm bất kỳ lỗi lầm nào nữa.",
-        "Cha mẹ không cần phải chi tiền cho các hoạt động giáo dục của con cái.",
-        "Mọi việc trong nhà sẽ được tự động giải quyết mà không cần ai làm gì."
+        "Các đứa trẻ trong gia đình sẽ được lập trình hoàn hảo để không bao giờ mắc phải bất kỳ lỗi lầm hay thiếu sót nào trong quá trình trưởng thành.",
+        "Cha mẹ sẽ được miễn trừ hoàn toàn các chi phí tài chính dành cho việc học tập và phát triển kỹ năng ngoại khóa của con cái trong tương lai.",
+        "Gia đình có một bộ quy chuẩn giá trị chung bất biến để định hướng ứng xử, giải quyết bất đồng và kiến tạo sự gắn kết thiêng liêng giữa các thế hệ.",
+        "Mọi mâu thuẫn đời thường sẽ tự động biến mất vĩnh viễn mà không đòi hỏi bất kỳ nỗ lực lắng nghe hay thấu cảm nào từ các thành viên gia đình."
       ],
-      "correctIndex": 0,
-      "explanation": "Bản tuyên ngôn sứ mệnh gia đình là chiếc la bàn chung; khi có mâu thuẫn hay khó khăn, mọi thành viên đều có thể quy chiếu về những giá trị cốt lõi mà cả nhà đã cùng nhau cam kết."
+      "correctIndex": 2,
+      "explanation": "Bản tuyên ngôn sứ mệnh gia đình đóng vai trò như một bản hiến pháp chung: nó định hướng các giá trị cốt lõi, tạo ra nền tảng chung để cha mẹ và con cái cùng soi chiếu khi có xung đột và gắn kết mọi thành viên với nhau."
     },
     {
       "id": "q8",
       "question": "Tại sao việc rơi lại vào những thói quen xấu cũ (thụ động, đổ lỗi, ích kỷ) là điều hoàn toàn bình thường trong quá trình rèn luyện?",
       "options": [
-        "Vì lực hút của thói quen cũ rất mạnh; điều quan trọng không phải là bạn không bao giờ vấp ngã, mà là bạn có năng lực tự ý thức để nhanh chóng nhận diện, xin lỗi và quay trở lại quỹ đạo nguyên tắc.",
-        "Vì môi trường xã hội hoàn toàn chống lại sự tiến bộ của con người.",
-        "Vì con người sinh ra vốn dĩ không thể thay đổi được bản tính.",
-        "Vì 7 thói quen chỉ là lý thuyết viển vông không thể áp dụng trong thực tế."
+        "Vì môi trường xã hội bên ngoài luôn mang tính chất áp bức thù địch và chắc chắn sẽ bóp nghẹt mọi ý chí hoàn thiện nhân cách của mỗi con người.",
+        "Vì bản tính sinh học của con người là bất di bất dịch, mọi cố gắng rèn luyện thói quen tốt chỉ là những nỗ lực vô vọng chống lại định mệnh.",
+        "Vì bộ 7 thói quen thực chất chỉ là những lý thuyết kinh viện xa rời thực tế đời sống và hoàn toàn không có tính ứng dụng trong cuộc sống thường nhật.",
+        "Lực hút thói quen cũ rất mạnh; điều cốt lõi không phải là không bao giờ vấp ngã, mà là tự ý thức để nhanh chóng nhận diện và quay lại nguyên tắc."
       ],
-      "correctIndex": 0,
-      "explanation": "Tên lửa trên đường bay lên mặt trăng bị lệch quỹ đạo 90% thời gian, nhưng hệ thống điều hướng liên tục điều chỉnh nó trở lại đường bay. Rèn luyện tính cách là quá trình liên tục tự nhận thức và tự điều chỉnh."
+      "correctIndex": 3,
+      "explanation": "Thói quen cũ có lực hấp dẫn ghê gớm giống như trọng lực của Trái Đất. Trưởng thành là một hành trình tiến lên theo đường xoắn ốc; việc vấp ngã là điều tự nhiên, điều quan trọng là khả năng tự ý thức, dũng cảm nhận lỗi và kiên định tiếp tục rèn luyện."
     },
     {
       "id": "q9",
       "question": "Mối quan hệ giữa 7 Thói quen và 'Sự bình an nội tâm' (Inner Peace) được tác giả tổng kết như thế nào?",
       "options": [
-        "Sự bình an nội tâm chân chính không phải là sự vắng bóng của khó khăn bên ngoài, mà là sự hòa hợp tuyệt đối giữa hành động thực tế với các nguyên tắc và lương tâm sâu thẳm bên trong bạn.",
-        "Bình an chỉ có thể đạt được khi bạn sở hữu hàng triệu đô la trong tài khoản ngân hàng.",
-        "Bình an là việc trốn lên núi cao sống tách biệt hoàn toàn với xã hội loài người.",
-        "Bình an là trạng thái chỉ xuất hiện khi không có bất kỳ ai làm bạn phật lòng."
+        "Bình an nội tâm là trạng thái tâm lý chỉ có thể đạt được khi bạn đã tích lũy thành công hàng triệu đô la trong các tài khoản tiết kiệm ngân hàng.",
+        "Bình an nội tâm không phải là vắng bóng nghịch cảnh, mà là sự hòa hợp tuyệt đối giữa hành vi thực tế với nguyên tắc và tiếng nói lương tâm sâu thẳm.",
+        "Bình an đích thực đòi hỏi cá nhân phải từ bỏ mọi bổn phận xã hội và rút lui lên vùng núi cao sống ẩn dật hoàn toàn tách biệt khỏi thế giới con người.",
+        "Bình an tâm hồn chỉ có thể xuất hiện khi bạn kiểm soát được tất cả mọi người xung quanh và không để bất kỳ ai có hành động làm trái ý muốn của mình."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi bạn sống chính trực, không có sự phân rã giữa lời nói và việc làm, lấy nguyên tắc làm gốc rễ, tâm hồn bạn sẽ luôn được neo giữ trong sự bình an vững chãi bất chấp mọi nghịch cảnh xung quanh."
+      "correctIndex": 1,
+      "explanation": "Sự bình an nội tâm chân chính không phụ thuộc vào hoàn cảnh thuận lợi bên ngoài, mà bắt nguồn từ sự thanh thản khi biết rằng lối sống, hành vi và các quyết định hàng ngày của bạn hoàn toàn chính trực và hòa hợp với các nguyên tắc tự nhiên."
     },
     {
       "id": "q10",
       "question": "Điểm cốt lõi nhất giúp phân biệt người 'Có năng lực thành công lớn' với kẻ 'Cơ hội nhất thời' là gì?",
       "options": [
-        "Người thành công lớn xây dựng sự nghiệp dựa trên nền tảng Đạo đức tính cách (Character Ethic) vững chắc, trong khi kẻ cơ hội chỉ dựa vào thủ thuật đối phó bề nổi (Personality Ethic).",
-        "Kẻ cơ hội luôn làm việc chăm chỉ hơn người thành công lớn.",
-        "Người thành công lớn không bao giờ gặp bất kỳ thất bại nào trong đời.",
-        "Kẻ cơ hội có trình độ học vấn cao hơn người thành công lớn."
+        "Người thành công lớn xây dựng sự nghiệp trên nền Đạo đức tính cách (Character Ethic), còn kẻ cơ hội chỉ dựa vào thủ thuật đối phó (Personality Ethic).",
+        "Kẻ cơ hội luôn thể hiện sự cần cù và nỗ lực làm việc với thời lượng vượt trội hơn hẳn so với những người có năng lực xây dựng thành công bền vững.",
+        "Người thành công lớn là những bậc kỳ tài may mắn chưa từng phải đối mặt với bất kỳ sự thất bại hay vấp ngã nào trong suốt toàn bộ cuộc đời của mình.",
+        "Kẻ cơ hội luôn sở hữu các văn bằng học thuật và chứng chỉ chuyên môn quốc tế danh giá hơn nhiều so với những cá nhân thành công nhờ vào tính cách."
       ],
       "correctIndex": 0,
-      "explanation": "Thành công thực sự và lâu bền (Enduring Greatness) luôn bắt nguồn từ chiều sâu tính cách; những kỹ xảo chớp nhoáng có thể mang lại lợi ích nhất thời nhưng sẽ nhanh chóng tự sụp đổ."
+      "explanation": "Thành công bền vững và vĩ đại luôn bắt nguồn từ chiều sâu tính cách (Character Ethic) với sự chính trực, can đảm và thấu hiểu; trong khi kẻ cơ hội chỉ dựa vào các thủ thuật giao tiếp và kỹ xảo bề ngoài (Personality Ethic), sớm muộn cũng sẽ bị quy luật tự nhiên đào thải."
     },
     {
       "id": "q11",
       "question": "Khi đối mặt với một người có tính cách vô cùng độc hại (toxic), thường xuyên chỉ trích và muốn hạ bệ bạn, cách ứng xử theo 7 thói quen là gì?",
       "options": [
-        "Giữ vững Vòng tròn Ảnh hưởng của mình, không để sự cay nghiệt của họ kiểm soát cảm xúc bạn; đối xử với họ bằng sự tôn trọng nhưng kiên định đặt ra ranh giới và chọn 'Win/Win hoặc Không giao kèo'.",
-        "Trả đũa ngay lập tức bằng những lời lẽ xúc phạm tương tự để khẳng định vị thế.",
-        "Cam chịu chấp nhận trở thành nạn nhân và bỏ rơi mọi mục tiêu của mình.",
-        "Tìm cách nói xấu họ với tất cả những người xung quanh để cô lập họ."
+        "Lập tức trả đũa bằng những ngôn từ công kích nhắm thẳng vào các điểm yếu cá nhân của đối phương để khẳng định quyền lực và vị thế của mình.",
+        "Cam chịu chấp nhận thân phận nạn nhân, từ bỏ toàn bộ các mục tiêu chính đáng và tự cô lập bản thân trong sự sợ hãi cùng nỗi uất ức kéo dài.",
+        "Chủ động phát động các chiến dịch tung tin đồn sau lưng để làm hoen ố uy tín xã hội của đối phương và lôi kéo đồng minh cô lập họ trong tập thể.",
+        "Làm chủ Vòng tròn Ảnh hưởng, không để sự cay nghiệt kiểm soát cảm xúc; giữ thái độ tôn trọng nhưng kiên định ranh giới và chọn 'Không giao kèo'."
       ],
-      "correctIndex": 0,
-      "explanation": "Người chủ động không để người khác quyết định phản ứng của mình. Bằng cách giữ vững nhân cách và không bị cuốn vào vòng xoáy tiêu cực, bạn bảo toàn năng lượng và uy tín của chính mình."
+      "correctIndex": 3,
+      "explanation": "Người chủ động không để hành vi của người khác quyết định giá trị hay cảm xúc của mình. Họ tập trung vào Vòng tròn Ảnh hưởng, từ chối tham gia vào trò chơi Thắng/Thua và dũng cảm chọn 'Không giao kèo' (No Deal) để bảo vệ sự chính trực của bản thân."
     },
     {
       "id": "q12",
       "question": "Tại sao việc 'Thành thật xin lỗi khi rút tiền nhầm từ Tài khoản tình cảm' lại đòi hỏi lòng dũng cảm to lớn?",
       "options": [
-        "Vì bạn phải hạ thấp cái tôi vị kỷ của mình xuống, công khai thừa nhận sai lầm và đặt giá trị mối quan hệ lên trên sự tự ái cá nhân.",
-        "Vì xin lỗi đồng nghĩa với việc bạn phải bồi thường một số tiền mặt rất lớn.",
-        "Vì lời xin lỗi sẽ làm cho đối phương luôn luôn xem thường bạn trong tương lai.",
-        "Vì pháp luật quy định người xin lỗi là người phải chịu toàn bộ án phí."
+        "Vì hành động xin lỗi đồng nghĩa với việc bạn phải chịu trách nhiệm bồi thường những khoản tổn thất tài chính cực kỳ lớn theo các quy định pháp luật.",
+        "Vì lời xin lỗi công khai chắc chắn sẽ khiến đối phương luôn nhìn nhận bạn với thái độ xem thường và mất đi vị thế đàm phán trong tất cả các giao dịch.",
+        "Vì bạn phải hạ thấp cái tôi vị kỷ của mình xuống, công khai thừa nhận sai lầm và đặt giá trị của mối quan hệ lên trên sự tự ái cá nhân của bản thân.",
+        "Vì trong các quy chuẩn tố tụng dân sự, bên nào chủ động nói lời xin lỗi trước sẽ tự động bị tuyên xử là bên phải chi trả toàn bộ án phí và bồi thường."
       ],
-      "correctIndex": 0,
-      "explanation": "'Chỉ người thực sự làm chủ bản thân và có lòng tự trọng nội tại vững chắc mới có thể chân thành nói lời xin lỗi'. Kẻ yếu thế thường bao biện và tìm cách đổ lỗi để che giấu sự bất an."
+      "correctIndex": 2,
+      "explanation": "Một lời xin lỗi chân thành là một khoản tiền gửi khổng lồ vào Tài khoản tình cảm, nhưng nó đòi hỏi sự tự tin nội tâm và lòng dũng cảm to lớn để gạt bỏ cái tôi vị kỷ, thừa nhận sự thiếu sót của bản thân vì sự trân trọng đối với mối quan hệ."
     },
     {
       "id": "q13",
       "question": "Thước đo giá trị của một cuốn sách như '7 Thói quen để thành đạt' đối với cuộc đời bạn phụ thuộc vào điều gì nhất?",
       "options": [
-        "Tốc độ bạn đọc xong cuốn sách trong bao nhiêu giờ.",
-        "Việc bạn lưu giữ cuốn sách trên kệ sách đẹp nhất trong phòng khách.",
-        "Số lượng lời khen ngợi bạn đăng lên mạng xã hội về cuốn sách.",
-        "Mức độ bạn can đảm đưa những nguyên lý trong sách vào thử nghiệm thực tế và biến chúng thành những thói quen sống hàng ngày của chính mình."
+        "Tốc độ đọc lướt và thời gian kỷ lục bạn hoàn thành việc quét qua các trang sách mà không cần bận tâm đến việc ghi chú hay suy ngẫm sâu sắc.",
+        "Vị trí trang trọng nơi bạn lưu giữ cuốn sách trên những chiếc kệ trưng bày sang trọng nhất trong không gian phòng khách của gia đình mình.",
+        "Số lượng những bài viết chia sẻ và lượt tương tác tán thưởng bạn thu hút được trên mạng xã hội khi đăng tải các câu trích dẫn từ tác phẩm.",
+        "Mức độ bạn can đảm đưa những nguyên lý trong sách vào thử nghiệm thực tế và chuyển hóa chúng thành những thói quen sống kỷ luật mỗi ngày."
       ],
       "correctIndex": 3,
-      "explanation": "Giá trị của tri thức không nằm ở việc tích lũy thông tin, mà ở sự chuyển hóa nhân cách và chất lượng cuộc sống thực tế mà nó tạo ra cho bạn và những người xung quanh."
+      "explanation": "'Biết mà không làm thì không thực sự là biết'. Giá trị của cuốn sách không nằm ở số trang bạn đọc hay kiến thức bạn ghi nhớ, mà nằm ở mức độ chuyển hóa thực sự trong cách bạn sống, làm việc và đối đãi với mọi người xung quanh mỗi ngày."
     },
     {
       "id": "q14",
       "question": "Thông điệp tâm huyết nhất mà Tiến sĩ Stephen R. Covey muốn gửi gắm tới bạn đọc trước khi khép lại trang sách là gì?",
       "options": [
-        "Hãy nhớ rằng bạn là người kiến tạo cuộc đời mình; hãy sống trọn vẹn với các nguyên tắc, phụng sự con người và để lại một di sản tốt đẹp cho thế giới.",
-        "Hãy tìm mọi cách để trở thành người giàu có nhất trong dòng họ của bạn.",
-        "Hãy tránh xa mọi khó khăn và chọn con đường dễ dàng nhất để đi.",
-        "Hãy luôn nghi ngờ lòng tốt của tất cả những người xung quanh."
+        "Hãy vận dụng triệt để mọi kỹ năng xã giao và chiến lược đàm phán sắc bén để trở thành nhân vật giàu có và quyền lực nhất trong dòng họ của bạn.",
+        "Bạn chính là người kiến tạo cuộc đời mình; hãy sống trung thành với các nguyên tắc, phụng sự con người và để lại một di sản ý nghĩa cho cuộc đời.",
+        "Hãy luôn chọn cho mình những con đường bằng phẳng, ít rủi ro nhất và tránh né mọi thử thách cam go để bảo toàn sự yên ổn và thanh thản cá nhân.",
+        "Hãy duy trì sự hoài nghi cảnh giác cao độ trước lòng tốt của người khác vì trên thương trường không có chỗ cho sự ngây thơ và tình cảm chân thành."
       ],
-      "correctIndex": 0,
-      "explanation": "Cuộc đời là một hành trình kiến tạo ý nghĩa: Sống, Yêu thương, Học hỏi và Để lại di sản (To Live, To Love, To Learn, To Leave a Legacy)."
+      "correctIndex": 1,
+      "explanation": "Thông điệp cốt lõi và xuyên suốt của tác phẩm: Chúng ta không phải nạn nhân của hoàn cảnh mà là người kiến tạo số phận; hãy sống một cuộc đời có mục đích, lấy nguyên tắc làm ngọn hải đăng, phụng sự tha nhân và để lại di sản tốt đẹp cho cuộc đời."
     },
     {
       "id": "q15",
       "question": "Sau khi đã hoàn thành toàn bộ nội dung cuốn sách và các thử thách quiz, bước tiếp theo đúng đắn nhất theo tinh thần 'Vòng xoáy ốc đi lên' là gì?",
       "options": [
-        "Chọn ra 1-2 thói quen bạn thấy mình còn yếu nhất để tập trung rèn luyện chuyên sâu trong 30 ngày tới, đồng thời chia sẻ những bài học này cho một người thân hoặc đồng nghiệp.",
-        "Tự mãn rằng mình đã nắm vững toàn bộ nghệ thuật thành công và không cần học thêm gì nữa.",
-        "Cất cuốn sách vào tủ và quay trở lại toàn bộ những thói quen sinh hoạt cũ trước đây.",
-        "Chỉ trích những người xung quanh vì họ chưa đọc và làm theo cuốn sách này."
+        "Chọn 1-2 thói quen bạn thấy mình còn yếu nhất để tập trung rèn luyện trong 30 ngày tới, đồng thời chủ động chia sẻ những bài học này cho người khác.",
+        "Tự mãn rằng mình đã thấu suốt toàn bộ bí quyết thành công vĩ đại và không cần phải dành thêm thời gian học hỏi hay rèn luyện bất kỳ điều gì nữa.",
+        "Cất cuốn sách vào góc tủ kín và nhanh chóng quay trở lại với toàn bộ các nếp sinh hoạt cùng những phản xạ hành vi bốc đồng thoải mái như trước đây.",
+        "Sử dụng những tiêu chuẩn đạo đức trong sách như một công cụ phán xét để chỉ trích, lên án những khiếm khuyết của đồng nghiệp và người thân xung quanh."
       ],
       "correctIndex": 0,
-      "explanation": "Hành trình vạn dặm bắt đầu từ một bước chân: Chọn mục tiêu rèn luyện cụ thể và lan tỏa tri thức bằng sự phụng sự chính là cách tốt nhất để tiếp tục vòng xoáy phát triển vươn lên."
+      "explanation": "Tiếp tục vòng xoáy ốc đi lên bằng hành động cụ thể: chọn thói quen cần cải thiện nhất, cam kết rèn luyện kiên trì trong 30 ngày và chia sẻ, giảng dạy lại những điều đã học cho người khác để củng cố sự chuyển biến nội tâm của chính mình."
     }
   ]
 }
