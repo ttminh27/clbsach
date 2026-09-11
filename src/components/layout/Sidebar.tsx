@@ -659,7 +659,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
                   </button>
 
                   <span className="text-[10px] font-mono text-slate-400">
-                    v1.0.0
+                    v1.1.0
                   </span>
                 </div>
               ) : (

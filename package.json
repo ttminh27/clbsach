@@ -1,7 +1,7 @@
 {
   "name": "clbsach",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "dev": "concurrently -k -n \"FUNCTIONS,VITE\" -c \"magenta,cyan\" \"npm run dev:functions\" \"npm run dev:vite\"",
