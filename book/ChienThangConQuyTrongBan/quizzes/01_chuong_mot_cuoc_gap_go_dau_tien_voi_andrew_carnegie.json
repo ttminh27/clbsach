@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Thử thách chấn động mà ông trùm thép Andrew Carnegie đã đặt ra cho chàng phóng viên trẻ 25 tuổi Napoleon Hill vào năm 1908 là gì?",
+      "question": "Thử thách mà Andrew Carnegie đặt ra cho chàng thanh niên Napoleon Hill trong cuộc gặp gỡ năm 1908 là gì?",
       "options": [
-        "Yêu cầu Hill viết một bài báo ca ngợi các nhà máy sản xuất thép của tập đoàn Carnegie.",
-        "Cầm đồng hồ bấm giờ và cho Hill đúng 60 giây để quyết định: Có dám cống hiến 20 năm cuộc đời nghiên cứu 500 người thành công để xây dựng triết lý thành công đầu tiên cho nhân loại mà KHÔNG nhận bất kỳ thù lao tài chính nào từ Carnegie không?",
-        "Bắt Hill phải đầu tư toàn bộ số tiền tiết kiệm ít ỏi của mình vào cổ phiếu ngành đường sắt.",
-        "Thách thức Hill thi đấu cờ vua với ông trong 3 ngày liên tiếp."
+        "Dành ít nhất 20 năm nghiên cứu các nguyên nhân thành công và thất bại mà không nhận thù lao tài chính từ ông.",
+        "Viết một loạt bài phóng sự chuyên sâu khen ngợi quy trình sản xuất thép của tập đoàn Carnegie trên các nhật báo lớn.",
+        "Bỏ ra 5 năm làm việc tại các nhà xưởng luyện kim để thấu hiểu đời sống cực nhọc của công nhân ngành thép thời đó.",
+        "Đầu tư toàn bộ số tiền tiết kiệm cá nhân vào thị trường chứng khoán nhằm chứng minh tư duy làm giàu trên thực tế."
       ],
-      "correctIndex": 1,
-      "explanation": "Carnegie muốn kiểm tra năng lực ra quyết định nhanh chóng và dứt khoát của một con người: Hill đã trả lời 'Có!' ở giây thứ 29, và quyết định đó đã định hình toàn bộ lịch sử phát triển bản thân của thế giới."
+      "correctIndex": 0,
+      "explanation": "Andrew Carnegie đã thử thách Hill dành ít nhất 20 năm nỗ lực không ngừng nghỉ để hệ thống hóa triết lý thành công và thất bại đầu tiên cho nhân loại mà không hề nhận bất kỳ khoản thù lao nào từ ông."
     },
     {
       "id": "q2",
-      "question": "Tại sao Andrew Carnegie lại kiên quyết từ chối chi trả tiền công hay tài trợ tài chính cho công trình nghiên cứu 20 năm của Napoleon Hill?",
+      "question": "Theo Carnegie, tại sao việc nghiên cứu những người thất bại lại quan trọng không kém việc nghiên cứu người thành công?",
       "options": [
-        "Vì Carnegie là một kẻ keo kiệt bủn xỉn không muốn chi tiền cho thanh niên.",
-        "Vì ông tin rằng nếu được trả lương, Hill sẽ trở thành một kẻ làm thuê lười biếng; sự thiếu thốn tiền bạc sẽ buộc Hill phải tự mình áp dụng chính các triết lý thành công để sinh tồn và chứng minh tính hiệu quả của chúng.",
-        "Vì Carnegie sắp phá sản tại thời điểm diễn ra cuộc phỏng vấn.",
-        "Vì pháp luật nước Mỹ thời đó cấm các tỷ phú tài trợ cho các nhà báo."
+        "Vì người thất bại chiếm số đông trong xã hội nên sẽ cung cấp một tập dữ liệu thống kê phong phú về kinh tế.",
+        "Vì nghiên cứu người thất bại sẽ dạy cho chúng ta biết những điều gì không nên làm để tránh vết xe đổ đó.",
+        "Vì tâm lý của những người thất bại thường cởi mở và dễ dàng chia sẻ bí mật đời tư hơn người giàu có thành đạt.",
+        "Vì các trường đại học chỉ quan tâm đến các trường hợp phá sản kinh doanh để đưa vào giáo trình giảng dạy."
       ],
       "correctIndex": 1,
-      "explanation": "Carnegie nói rõ: 'Nếu tôi chu cấp tiền bạc, anh sẽ chỉ là một người làm công; triết lý này phải được chứng minh bởi một người tự lực cánh sinh từ bàn tay trắng vượt qua nghịch cảnh'."
+      "explanation": "Carnegie giải thích rằng nghe có vẻ mâu thuẫn nhưng bạn sẽ học được cách làm thế nào để thành công từ những thất bại nhiều hơn từ những thành công, bởi vì họ sẽ dạy bạn những điều bạn không nên làm."
     },
     {
       "id": "q3",
-      "question": "Giai đoạn khủng hoảng tinh thần tồi tệ nhất của Napoleon Hill xảy ra sau biến cố bi thảm nào trong sự nghiệp của ông?",
+      "question": "Nhận định của Andrew Carnegie về khiếm khuyết lớn nhất của hệ thống giáo dục nhà trường thời đó là gì?",
       "options": [
-        "Bị mất toàn bộ tài liệu phỏng vấn trong một vụ cướp trên tàu hỏa.",
-        "Vụ ám sát đối tác kinh doanh Don Mellett và những lời đe dọa sát hại từ các băng đảng tội phạm ngầm, buộc Hill phải sống ẩn dật trong nỗi sợ hãi kinh hoàng suốt gần một năm trời.",
-        "Bị Đại học Georgetown từ chối cấp bằng cử nhân luật học.",
-        "Sự thất bại của việc xuất bản tờ tạp chí thời trang đầu tiên."
+        "Trường học quá chú trọng vào việc đào tạo kỹ năng thực hành kiếm tiền mà xem nhẹ các giá trị đạo đức căn bản.",
+        "Học phí tại các trường đại học quá đắt đỏ khiến cho tầng lớp thanh niên nghèo khó hoàn toàn không có cơ hội học.",
+        "Nhà trường dạy học sinh tích lũy kiến thức trừu tượng nhưng không dạy họ cách vận dụng kiến thức đó vào cuộc đời.",
+        "Đội ngũ giảng viên thiếu kinh nghiệm nghiên cứu khoa học và chỉ sao chép lại những giáo trình cũ kỹ thời xưa."
       ],
-      "correctIndex": 1,
-      "explanation": "Biến cố Mellett bị bắn chết khiến Hill rơi vào trạng thái hoảng loạn tột độ; ông trốn chui trốn nhủi, run rẩy sau những tấm rèm cửa và bị nỗi sợ hãi tê liệt toàn bộ ý chí."
+      "correctIndex": 2,
+      "explanation": "Carnegie phê phán: Trường lớp yêu cầu người trẻ dành 4-8 năm để tích lũy kiến thức trừu tượng nhưng lại không hề dạy họ phải làm gì với những kiến thức đó để đạt được thành công trong cuộc sống."
     },
     {
       "id": "q4",
-      "question": "Khái niệm 'Cái tôi khác' (The Other Self) đã xuất hiện và lên tiếng trong tâm thức Napoleon Hill vào thời khắc nào?",
+      "question": "Sau khi đúc kết 17 nguyên tắc thành công và 30 nguyên nhân thất bại, Hill nhận ra công trình của mình còn thiếu điều gì?",
       "options": [
-        "Khi ông đang ngồi ăn tối sang trọng cùng Andrew Carnegie tại biệt thự lộng lẫy.",
-        "Vào lúc nửa đêm, khi ông chạm đáy tuyệt vọng, cô độc bước đi trong màn đêm lạnh giá và cảm thấy hoàn toàn bất lực trước ngõ cụt cuộc đời.",
-        "Lúc ông vừa nhận được khoản nhuận bút cuốn sách đầu tay.",
-        "Khi ông đang phát biểu trước hàng ngàn sinh viên tại hội trường lớn."
+        "Thiếu các bảng biểu thống kê tài chính và số liệu định lượng chi tiết về mức thu nhập thực tế của người phỏng vấn.",
+        "Thiếu sự phê chuẩn chính thức của chính phủ liên bang để đưa công trình vào giảng dạy trong các trường công lập.",
+        "Thiếu sự đồng thuận của các tập đoàn xuất bản lớn tại New York để được bảo đảm nguồn vốn phát hành toàn cầu.",
+        "Mới chỉ là bộ khung lý thuyết và còn thiếu 'tâm hồn' - thứ chỉ đến sau khi ông trải nghiệm và khám phá cái tôi khác."
       ],
-      "correctIndex": 1,
-      "explanation": "'Cái tôi khác' chỉ thức tỉnh khi bản ngã con người bị dồn vào chân tường và đầu hàng hoàn toàn: một giọng nói vô hình đanh thép bỗng vang lên từ sâu thẳm tâm can ra lệnh cho ông."
+      "correctIndex": 3,
+      "explanation": "Hill nhận ra 17 nguyên tắc và 30 nguyên nhân mới chỉ là bộ khung; nó cần được đắp thêm trải nghiệm thực tế và đặc biệt là 'tâm hồn' - thứ chỉ xuất hiện sau khi ông khám phá ra 'cái tôi khác' qua các bước ngoặt cuộc đời."
     },
     {
       "id": "q5",
-      "question": "Mệnh lệnh đầu tiên đầy uy quyền mà 'Cái tôi khác' đưa ra để giải thoát Napoleon Hill khỏi sự tê liệt sợ hãi là gì?",
+      "question": "Căn bệnh tinh thần tồi tệ nào đã khiến Napoleon Hill rơi vào bế tắc tột cùng tại Columbus, Ohio vào mùa thu năm 1923?",
       "options": [
-        "'Hãy quay về nhà, thu dọn hành lý và bỏ trốn sang châu Âu ngay lập tức!'.",
-        "'Hãy đứng thẳng người lên, ngẩng cao đầu và rời khỏi nơi ẩn nấp này ngay trong đêm; hãy đến Philadelphia và hoàn thành sứ mệnh của ngươi!'.",
-        "'Hãy vay mượn tiền của bạn bè để mở một cửa hàng bán lẻ'.",
-        "'Hãy quên đi lời hứa với Andrew Carnegie vì nó quá viển vông'."
+        "Căn bệnh do dự - biết 17 nguyên tắc thành công nhưng hoàn toàn bất lực không biết cách áp dụng chúng cho chính mình.",
+        "Căn bệnh kiêu ngạo tột cùng - cho rằng mình đã nắm giữ mọi chân lý cuộc đời nên từ chối lắng nghe lời khuyên người thân.",
+        "Nỗi ám ảnh sợ hãi bệnh tật - luôn lo lắng rằng sức khỏe thể chất suy giảm sẽ cản trở con đường theo đuổi sự nghiệp.",
+        "Sự hoang tưởng về danh vọng - chi tiêu phung phí toàn bộ tiền bạc vào những dự án xa xỉ nhằm phô trương hình thức."
       ],
-      "correctIndex": 1,
-      "explanation": "Mệnh lệnh dứt khoát không khoan nhượng: 'Ngươi đã hành động như một kẻ hèn nhát; hãy đứng dậy, bước ra ngoài thế giới và đối mặt với sứ mệnh của mình mà không được sợ hãi'."
+      "correctIndex": 0,
+      "explanation": "Hill tự thú nhận: Trong gần hai tháng ở Columbus, ông mắc phải căn bệnh tồi tệ nhất của con người là 'Do dự'. Ông nắm rõ 17 nguyên tắc thành công nhưng lại không biết cách áp dụng chúng cho chính bản thân mình."
     },
     {
       "id": "q6",
-      "question": "Sự việc kỳ lạ nào đã xảy ra khi Hill cần 50 USD để đổ xăng và sinh tồn trên đường đến Philadelphia nhưng trong túi hoàn toàn rỗng không?",
+      "question": "Biến cố bi thảm nào tại Canton, Ohio năm 1926 đã đẩy Napoleon Hill vào trạng thái tê liệt bởi nỗi sợ hãi kéo dài hơn một năm?",
       "options": [
-        "Ông nhặt được một chiếc ví rơi đầy tiền trên vỉa hè.",
-        "Ông tình cờ gặp lại một người quen cũ (Albert L. Pelton), và người này đã chủ động đưa cho ông một tấm séc trước cả khi Hill kịp mở lời xin giúp đỡ.",
-        "Ông vào cướp một trạm xăng bên đường.",
-        "Một người lạ mặt hảo tâm đã cho ông đi nhờ xe suốt chặng đường."
+        "Tòa soạn báo của ông bị hỏa hoạn thiêu rụi toàn bộ máy móc in ấn và hàng ngàn bản thảo quý giá chưa kịp xuất bản.",
+        "Đối tác Donald Mellett bị tội phạm sát hại và Hill nhận được lời đe dọa bắn chết, buộc ông phải lẩn trốn trong sợ hãi.",
+        "Vụ lừa đảo tài chính của cộng sự thân cận khiến ông gánh món nợ khổng lồ và đối mặt với nguy cơ bị phạt tù giam.",
+        "Chiến dịch bài trừ các diễn giả truyền cảm hứng của các tổ chức tôn giáo bảo thủ tại địa phương diễn ra gay gắt."
       ],
       "correctIndex": 1,
-      "explanation": "Sự trùng hợp kỳ diệu của đức tin: khi bạn hành động với sự xác định tuyệt đối theo mệnh lệnh của 'Cái tôi khác', các cánh cửa nguồn lực dường như tự động mở ra một cách kỳ bí."
+      "explanation": "Sau khi nhà báo Don Mellett bị sát hại vì chống tham nhũng, Hill nhận được cuộc gọi nặc danh đe dọa sẽ bắn chết ông trong vòng một giờ, buộc ông phải chạy trốn đến vùng núi Tây Virginia và sống trong nỗi sợ hãi tột cùng."
     },
     {
       "id": "q7",
-      "question": "Theo phân tích của Hill, tại sao 'Cái tôi khác' không bao giờ xuất hiện khi con người đang sống trong nhung lụa và dễ dàng đạt được mọi thứ?",
+      "question": "Trong thời gian lẩn trốn tại vùng núi Tây Virginia, tâm trạng xấu hổ nhất mà Napoleon Hill phải đối diện mỗi ngày là gì?",
       "options": [
-        "Vì 'Cái tôi khác' chỉ thích những người nghèo khổ và căm ghét người giàu.",
-        "Vì sự thoải mái và tự mãn ru ngủ tiềm thức; chỉ khi trải qua thất bại cay đắng và đau khổ tột cùng, lớp vỏ kiêu ngạo của bản ngã mới vỡ vụn, nhường chỗ cho sức mạnh tâm linh thức giấc.",
-        "Vì 'Cái tôi khác' là một căn bệnh tâm lý chỉ phát tác khi cơ thể suy dinh dưỡng.",
-        "Bởi vì Andrew Carnegie đã cài đặt mật mã tâm lý chỉ kích hoạt khi Hill gặp khó khăn."
+        "Phải sống phụ thuộc vào viện trợ tài chính định kỳ của quỹ từ thiện Carnegie mà không làm ra sản phẩm tương xứng.",
+        "Bị bạn bè và người quen gửi thư chê cười vì đã bỏ dở sự nghiệp diễn thuyết đang trên đà phát triển rất rực rỡ.",
+        "Từng đi dạy thiên hạ cách làm chủ nỗi sợ và thành công, nay chính mình lại run rẩy, vô dụng và trốn chui trốn nhủi.",
+        "Không thể tiếp tục chi trả tiền học phí đắt đỏ cho các con theo học tại các trường tư thục danh tiếng ở thành phố."
       ],
-      "correctIndex": 1,
-      "explanation": "Nghịch cảnh là chiếc máy nghiền đập tan sự kiêu ngạo giả tạo của con người; chỉ khi bạn thừa nhận sự bất lực của bản ngã nông cạn, nguồn năng lượng vô biên sâu thẳm mới tiếp quản quyền điều khiển."
+      "correctIndex": 2,
+      "explanation": "Hill cảm thấy nhục nhã tột cùng vì ông từng đi khắp nơi diễn thuyết dạy người khác áp dụng 17 nguyên tắc thành công và vượt qua sợ hãi, nhưng lúc này chính ông lại bị nỗi sợ hãi làm tê liệt và trở nên bất lực hơn cả 25.000 người thất bại."
     },
     {
       "id": "q8",
-      "question": "Quy luật 'Chuyển bại thành thắng' (Turning failure into victory) được Napoleon Hill đúc kết từ trải nghiệm đầu đời của mình là gì?",
+      "question": "Bước ngoặt thức tỉnh đưa Napoleon Hill thoát khỏi sự tê liệt sợ hãi đã diễn ra tại đâu vào mùa thu năm 1927?",
       "options": [
-        "Mỗi thất bại đều mang trong mình hạt mầm của một lợi ích tương đương hoặc thậm chí lớn hơn rất nhiều lần.",
-        "Thất bại là dấu hiệu rõ ràng cho thấy bạn nên từ bỏ vĩnh viễn mục tiêu đó.",
-        "Chỉ cần giả vờ như thất bại chưa từng xảy ra thì mọi chuyện sẽ tự tốt đẹp.",
-        "Thất bại luôn luôn là do lỗi lầm của những người làm việc cùng bạn."
+        "Trong phòng cầu nguyện thanh tịnh của một nhà thờ cổ kính tại trung tâm thủ đô Washington vào một buổi sáng sớm.",
+        "Trên chuyến xe lửa tốc hành từ Virginia về New York sau khi ông gặp gỡ một vị luật sư bảo vệ nhân quyền nổi tiếng.",
+        "Tại văn phòng làm việc của một doanh nhân giàu có ở Pittsburgh khi ông được trao cơ hội làm việc trong ngành thép.",
+        "Khi ông đi bộ hàng trăm vòng quanh tòa nhà trường học trên đồi, kiên quyết tìm lối thoát trước khi quay về nhà."
       ],
-      "correctIndex": 0,
-      "explanation": "Đây là một trong những hòn đá tảng của triết lý Hill: không có thất bại vĩnh viễn, chỉ có những bài học rèn luyện tạm thời ẩn chứa cơ hội đột phá vĩ đại cho những ai biết tìm kiếm."
+      "correctIndex": 3,
+      "explanation": "Vào mùa thu 1927, Hill đi bộ tới trường học trên đỉnh đồi ở Tây Virginia, đi vòng quanh hàng trăm bận và liên tục tự nhủ phải tìm ra lối thoát. Tại đây, 'cái tôi khác' đã bừng tỉnh và giải thoát ông khỏi nhà tù tâm lý."
     },
     {
       "id": "q9",
-      "question": "Chi tiết Andrew Carnegie nói: 'Những người quyết định chậm chạp nhưng lại thay đổi quyết định nhanh chóng là những kẻ không bao giờ thành công' nhằm nhấn mạnh phẩm chất nào?",
+      "question": "Mệnh lệnh đanh thép đầu tiên mà 'Cái tôi khác' truyền tới tâm trí Hill trên đỉnh đồi trăng sáng ở Tây Virginia là gì?",
       "options": [
-        "Sự cứng đầu và bảo thủ mù quáng trong mọi trường hợp.",
-        "Năng lực đưa ra quyết định nhanh chóng, dứt khoát và kiên định bám đuổi quyết định đó đến cùng trừ phi có lý do chính đáng để thay đổi.",
-        "Thói quen ký kết hợp đồng mà không cần đọc nội dung điều khoản.",
-        "Khả năng tranh luận to tiếng để áp đảo đối phương trong cuộc họp."
+        "'Ngày mai, hãy lên xe và đến Philadelphia, ở đó cậu sẽ được tài trợ để xuất bản triết lý về thành công của mình.'",
+        "'Hãy từ bỏ vĩnh viễn công việc viết sách vì cuộc đời đã chứng minh cậu không có đủ tài năng để lãnh đạo người khác.'",
+        "'Hãy quay về Canton đối mặt với bọn tội phạm bằng vũ lực để chứng minh lòng can đảm của một người đàn ông dũng cảm.'",
+        "'Hãy dùng toàn bộ số tiền còn lại mua vé tàu sang châu Âu lánh nạn cho đến khi tình hình nước Mỹ ổn định trở lại.'"
       ],
-      "correctIndex": 1,
-      "explanation": "Carnegie thử thách Hill trong 60 giây chính vì nguyên tắc này: kẻ buông thả luôn do dự không dám quyết định, nhưng lại từ bỏ quyết định trong chớp mắt ngay khi gặp trở ngại đầu tiên."
+      "correctIndex": 0,
+      "explanation": "'Cái tôi khác' đã phát ra mệnh lệnh rõ ràng, dứt khoát như của một sĩ quan chỉ huy: 'Ngày mai, hãy lên xe và đến Philadelphia, ở đó cậu sẽ được tài trợ để xuất bản triết lý về thành công của mình'."
     },
     {
       "id": "q10",
-      "question": "Khi Hill bước vào căn phòng khách sạn tại Philadelphia theo chỉ dẫn vô hình, ông đã bắt đầu viết tác phẩm mang tính bước ngoặt nào cho sự nghiệp của mình?",
+      "question": "Khi Hill lo lắng vì không có xu nào trong túi cho chuyến đi Philadelphia, 'Cái tôi khác' đã chỉ dẫn ông điều gì?",
       "options": [
-        "Cuốn sách 'Think and Grow Rich'.",
-        "Bộ sách đồ sộ 8 tập 'Luật Thành Công' (The Law of Success).",
-        "Bản thảo đầu tiên của 'Chiến thắng Con Quỷ trong bạn'.",
-        "Một cuốn hồi ký cá nhân về thời thơ ấu tại vùng núi Virginia."
+        "Đến ngân hàng địa phương thế chấp chiếc xe ô tô cũ đang đi để lấy một khoản tiền mặt khẩn cấp chi tiêu đi đường.",
+        "Hãy vay người anh rể 50 đô la và người anh rể sẵn sàng cho vay (thậm chí còn gợi ý đưa 100 đô la nhưng Hill chỉ lấy 50).",
+        "Bán chiếc máy đánh chữ cá nhân cho người hàng xóm để có đủ tiền trang trải xăng xe và chi phí ăn uống dọc hành trình.",
+        "Tìm gặp nhà tài trợ Albert L. Pelton trên đường đi để nhận khoản tiền ứng trước bản quyền sách xuất bản đầu tay."
       ],
       "correctIndex": 1,
-      "explanation": "Tại Philadelphia, dưới sự dẫn dắt của 'Cái tôi khác', toàn bộ tri thức 20 năm nghiên cứu đã tuôn trào trên ngòi bút của ông, tạo thành bộ đại công trình 'Luật Thành Công' vang danh thế giới."
+      "explanation": "'Cái tôi khác' đã ra lệnh dứt khoát: 'Hãy vay anh rể cậu 50 đôla và anh ta sẽ cho cậu vay'. Khi Hill hỏi vay, người anh rể sẵn lòng cho vay và thậm chí bảo lấy 100 đôla, nhưng Hill chỉ nhận đúng 50 đôla theo lệnh."
     },
     {
       "id": "q11",
-      "question": "Cảm giác 'Nghi ngờ' (Doubt) được Hill mô tả như thế nào trong những tháng ngày ông trốn tránh sứ mệnh?",
+      "question": "Mệnh lệnh lạ lùng mà 'Cái tôi khác' đưa ra ngay khi Hill vừa đặt chân tới thành phố Philadelphia là gì?",
       "options": [
-        "Một người bạn đồng hành thông minh giúp ông bảo toàn tính mạng.",
-        "Một thứ chất độc tinh thần gặm nhấm, phá hủy lòng tự tin và mở toang cánh cửa tâm trí cho Con Quỷ tràn vào khống chế.",
-        "Một phương pháp tư duy phản biện khoa học cần được phát huy tối đa.",
-        "Một trạng thái cảm xúc tự nhiên không gây ra bất kỳ tác hại nào."
+        "Lập tức tìm một nhà trọ bình dân giá rẻ ở ngoại ô để tiết kiệm từng đồng xu cuối cùng cho các công việc in ấn sách.",
+        "Đến ngay trụ sở tòa thị chính thành phố xin gặp thị trưởng để trình bày về triết lý thành công của người dân Mỹ.",
+        "Thuê một dãy phòng tại khách sạn sang trọng bậc nhất và hành xử như một người tự tin có đầy đủ tiền bạc trong ví.",
+        "Gửi ngay bản thảo tới tất cả các nhà in trong vùng và chấp nhận chia đôi lợi nhuận với bất kỳ ai chịu nhận in."
       ],
-      "correctIndex": 1,
-      "explanation": "Nghi ngờ chính là anh em sinh đôi của sợ hãi; khi bạn nghi ngờ năng lực và sứ mệnh của mình, ngọn lửa hành động bị dập tắt và bạn trở thành con mồi ngon cho sự buông thả."
+      "correctIndex": 2,
+      "explanation": "'Cái tôi khác' buộc Hill phải gạt bỏ tư duy nghèo nàn bằng cách thuê cả một dãy phòng tại khách sạn sang trọng nhất Philadelphia, tip 1 đôla cho nhân viên và cư xử như thể ông có tất cả số tiền mình muốn."
     },
     {
       "id": "q12",
-      "question": "Tại sao việc 'Cái tôi khác' bắt Hill phải đối mặt trực tiếp với những nỗi sợ hãi lớn nhất lại là con đường duy nhất để giải thoát ông?",
+      "question": "Theo lời chỉ dẫn từ 'Cái tôi khác', hai thực thể cùng chiếm giữ cơ thể của mỗi con người được thúc đẩy bởi điều gì?",
       "options": [
-        "Vì nỗi sợ hãi chỉ là một bóng ma tâm lý; khi bạn dũng cảm bước thẳng vào nó, ảo tưởng sợ hãi sẽ lập tức tan biến như làn sương dưới ánh mặt trời.",
-        "Vì đối mặt với nỗi sợ sẽ giúp bạn rèn luyện cơ bắp thể xác khỏe hơn.",
-        "Bởi vì luật pháp quy định mọi công dân phải dũng cảm trong thời chiến.",
-        "Vì kẻ thù sẽ tự động bỏ chạy khi thấy bạn bước ra ngoài đường."
+        "Một thực thể thúc đẩy bởi lòng tham vật chất cá nhân, thực thể còn lại được thúc đẩy bởi danh vọng và quyền lực xã hội.",
+        "Một thực thể thúc đẩy bởi lý trí khoa học logic, thực thể còn lại được thúc đẩy bởi những cảm xúc nghệ thuật ngẫu hứng.",
+        "Một thực thể thúc đẩy bởi ý chí sinh tồn bản năng, thực thể còn lại được thúc đẩy bởi sự lười biếng và ham thích an nhàn.",
+        "Một thực thể được thúc đẩy bởi niềm tin (phản ứng với nỗi sợ), thực thể kia thúc đẩy bởi nỗi sợ (phản ứng với niềm tin)."
       ],
-      "correctIndex": 0,
-      "explanation": "Càng trốn chạy, nỗi sợ càng phình to; khoảnh khắc Hill bước ra khỏi căn phòng trốn tránh, ông nhận ra bóng ma đe dọa thực chất không hề có quyền lực thực tế nào trên con người ông."
+      "correctIndex": 3,
+      "explanation": "'Cái tôi khác' tiết lộ rằng trong mỗi con người luôn có hai thực thể: một thực thể được thúc đẩy bởi niềm tin và phản ứng với nỗi sợ; thực thể còn lại được thúc đẩy bởi nỗi sợ và phản ứng với niềm tin."
     },
     {
       "id": "q13",
-      "question": "Mối quan hệ giữa sự chỉ đạo của 'Cái tôi khác' và niềm tin tôn giáo truyền thống được Hill diễn giải như thế nào?",
+      "question": "Nguyên tắc hoạt động cốt lõi của 'Cái tôi khác' (thực thể niềm tin) được chỉ dẫn cho Napoleon Hill là gì?",
       "options": [
-        "'Cái tôi khác' là một tà thuyết đối nghịch hoàn toàn với mọi tôn giáo.",
-        "'Cái tôi khác' chính là nhịp cầu kết nối tâm trí cá nhân với Trí tuệ Vô hạn (Infinite Intelligence) - nguồn năng lượng vũ trụ mà tôn giáo thường gọi là Thượng đế.",
-        "'Cái tôi khác' chỉ là ảo giác do thiếu ngủ kéo dài tạo nên.",
-        "Không có mối liên hệ nào; đó là hai thế giới hoàn toàn tách biệt."
+        "Không tạo ra phép màu trái quy luật tự nhiên, không làm thay việc cho bạn, chỉ đưa ra chỉ dẫn sáng suốt để hành động.",
+        "Tự động giải quyết mọi khó khăn nợ nần tài chính mà con người không cần phải bắt tay vào bất kỳ kế hoạch thực tế nào.",
+        "Có khả năng tiên tri chính xác tương lai và loại trừ hoàn toàn mọi rủi ro thất bại trên con đường khởi nghiệp kinh doanh.",
+        "Đòi hỏi con người phải tham gia vào các nghi thức cầu nguyện huyền bí kéo dài nhiều ngày trong trạng thái nhịn ăn kham khổ."
       ],
-      "correctIndex": 1,
-      "explanation": "Hill không coi 'Cái tôi khác' là điều mê tín ma quái; ông xem đó là sự biểu hiện của phần tâm linh thiêng liêng, nơi con người chạm vào trí tuệ tối cao của vũ trụ thông qua đức tin."
+      "correctIndex": 0,
+      "explanation": "'Cái tôi khác' khẳng định nó không tạo ra phép màu đi ngược lại quy luật tự nhiên, và 'trên tất cả, cậu phải hiểu thật rõ rằng cái tôi khác sẽ không làm việc giúp cậu, nó chỉ đưa ra những hướng dẫn sáng suốt'."
     },
     {
       "id": "q14",
-      "question": "Bài học đắt giá nhất mà chàng trai trẻ Napoleon Hill rút ra từ cuộc phỏng vấn 3 ngày với tỷ phú Andrew Carnegie là gì?",
+      "question": "Khi tiếp cận người có khả năng tài trợ 25.000 đô la tại Philadelphia, 'Cái tôi khác' đã ra điều kiện nghiêm ngặt nào?",
       "options": [
-        "Thành công là kết quả của việc áp dụng những nguyên tắc khoa học rõ ràng và nhất quán, chứ không phải do may rủi hay đặc quyền giai cấp.",
-        "Chỉ những người sản xuất thép mới có thể trở thành tỷ phú tại nước Mỹ.",
-        "Không bao giờ được tin tưởng những lời hứa của những người giàu có.",
-        "Nghề phóng viên báo chí là nghề kiếm được nhiều tiền nhất thế giới."
+        "Phải mang theo giấy giới thiệu viết tay của tỷ phú Andrew Carnegie để tạo dựng uy tín tuyệt đối trước đối tác lớn.",
+        "Phải đàm phán bằng các thuật ngữ giao dịch kinh doanh thông thường và tuyệt đối KHÔNG nhắc gì đến 'Cái tôi khác'.",
+        "Phải cam kết chuyển nhượng 80% lợi nhuận từ tiền bán sách trong mười năm đầu tiên cho nhà tài trợ xuất bản đó.",
+        "Phải yêu cầu đối tác thanh toán toàn bộ chi phí bằng vàng ròng trước khi bàn giao bản thảo viết tay của công trình."
       ],
-      "correctIndex": 0,
-      "explanation": "Carnegie đã khai sáng cho Hill: thành công có công thức và quy luật chính xác như toán học; nhiệm vụ của Hill là hệ thống hóa công thức đó cho toàn thể nhân loại cùng sử dụng."
+      "correctIndex": 1,
+      "explanation": "'Cái tôi khác' căn dặn: Hãy đưa ra yêu cầu với các thuật ngữ như trong các giao dịch kinh doanh thông thường, và đừng nói bất cứ điều gì liên quan đến 'cái tôi khác', nếu không sẽ gặp thất bại tạm thời."
     },
     {
       "id": "q15",
-      "question": "Chương 1 đóng vai trò là chiếc chìa khóa mở màn cho cuốn sách bằng cách chứng minh điều gì về tác giả?",
+      "question": "Ý nghĩa then chốt của việc Napoleon Hill soi gương tại căn phòng khách sạn Philadelphia sau khi nhận mệnh lệnh là gì?",
       "options": [
-        "Napoleon Hill là một thiên tài bẩm sinh chưa bao giờ nếm mùi thất bại hay sợ hãi.",
-        "Trước khi có thể chất vấn và chiến thắng Con Quỷ, chính tác giả đã phải trải qua những cuộc vật lộn đẫm máu với con quỷ sợ hãi trong chính bản thân mình và tìm ra lối thoát.",
-        "Tác giả chỉ đơn thuần ghi chép lại lời của Andrew Carnegie mà không có trải nghiệm thực tế.",
-        "Cuốn sách chỉ là một bài tập viết văn hư cấu để kiếm tiền nhuận bút."
+        "Ông nhận thấy ngoại hình thể chất của mình đã già đi trông thấy sau chuỗi ngày dài lẩn trốn bọn tội phạm nguy hiểm.",
+        "Ông kiểm tra lại trang phục sang trọng xem có phù hợp với chuẩn mực của giới quý tộc thượng lưu nước Mỹ hay không.",
+        "Biểu cảm trên khuôn mặt ông đã chuyển từ nghi ngờ, sợ hãi sang dũng cảm, tin tưởng khi thực thể niềm tin tiếp quản.",
+        "Ông nhận ra mình đang bị ảo giác do kiệt sức và quyết định hủy bỏ kế hoạch tìm kiếm nguồn tài trợ xuất bản sách đó."
       ],
-      "correctIndex": 1,
-      "explanation": "Tính chân thực và quyền năng của cuốn sách nằm ở chỗ: Hill không rao giảng đạo đức từ trên tháp ngà; ông chia sẻ từ chính trải nghiệm cận kề cái chết và sự hồi sinh kỳ diệu của bản thân."
+      "correctIndex": 2,
+      "explanation": "Khi Hill bước đến soi gương, ông thấy biểu cảm trên khuôn mặt mình đã hoàn toàn chuyển từ nghi ngờ sang dũng cảm và tin tưởng, khẳng định sự tiếp quản vững chắc của thực thể niềm tin."
     }
   ]
 }

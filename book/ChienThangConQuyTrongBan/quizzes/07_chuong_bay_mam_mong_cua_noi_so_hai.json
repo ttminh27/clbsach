@@ -5,184 +5,184 @@
   "totalQuestions": 15,
   "questions": [
     {
-      "question": "Con Quỷ đã lợi dụng các định chế tôn giáo và nhà thờ truyền thống như thế nào để phục vụ cho mục tiêu của nó?",
+      "id": "q1",
+      "question": "Con Quỷ đã lợi dụng các định chế tôn giáo và nhà thờ như thế nào để phục vụ cho mục tiêu của nó?",
       "options": [
-        "Nó phá hủy các nhà thờ và cấm đoán việc cầu nguyện",
-        "Nó biến các nhà thờ thành nơi buôn bán vũ khí",
-        "Nó dùng nhà thờ làm bình phong để gieo rắc hạt mầm sợ hãi địa ngục và cảm giác tội lỗi, khiến con người mất tự tin và rơi vào thói buông thả",
-        "Nó ép buộc tất cả các linh mục phải công khai tôn thờ Quỷ vương"
-      ],
-      "correctIndex": 2,
-      "explanation": "Con Quỷ tiết lộ mẹo xảo quyệt: nó không chiếm nhà thờ, mà mượn nhà thờ giữ cho con người luôn sợ hãi địa ngục; chừng nào con người còn sợ, Quỷ còn kiểm soát.",
-      "id": "q1"
-    },
-    {
-      "question": "Theo lời Con Quỷ, tại sao nó không công khai ra mặt chiếm đoạt thế giới mà lại ẩn mình qua các 'đại lý'?",
-      "options": [
-        "Vì nó quá nhút nhát và sợ ánh sáng mặt trời",
-        "Vì sự ngụy trang giúp nó giấu kín chân tướng; nếu nó công khai xuất hiện, con người sẽ tỉnh ngộ và quay về với Trí tuệ Vô hạn",
-        "Vì nó không có đủ tiền để thành lập một tổ chức chính thức",
-        "Vì pháp luật trần gian có thể bắt giam nó vào tù"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ dùng đồng minh và vỏ bọc ngụy trang để con người không nhận ra kẻ thù thực sự, từ đó âm thầm gieo rắc sự ngờ vực và sợ hãi.",
-      "id": "q2"
-    },
-    {
-      "question": "Nhịp điệu thôi miên tác động như thế nào đến môi trường sống của một cộng đồng (ví dụ Đại lộ số 5 New York so với một khu ổ chuột)?",
-      "options": [
-        "Nhịp điệu thôi miên chỉ tác động đến cá nhân, hoàn toàn không ảnh hưởng đến địa danh",
-        "Nhịp điệu của mỗi khu vực được tích lũy từ suy nghĩ và thói quen chung của cư dân, sau đó cố định lại và hút những người có tần số tư duy tương ứng",
-        "Nhịp điệu thôi miên làm giá bất động sản ở khu ổ chuột tăng vọt",
-        "Chính phủ quyết định nhịp điệu của từng con phố bằng các sắc lệnh hành chính"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ chỉ ra: mỗi đường phố, cộng đồng đều có nhịp điệu riêng cố định qua thời gian, thu hút những con người có tư duy tương đồng ('đồng bệnh tương liên').",
-      "id": "q3"
-    },
-    {
-      "question": "Tại sao câu thành ngữ 'Đồng bệnh tương liên' (Birds of a feather flock together) lại là một minh chứng thực tế cho nhịp điệu thôi miên?",
-      "options": [
-        "Vì các loài chim có tập tính di cư tránh rét theo bầy",
-        "Vì nhịp điệu thôi miên hoạt động như một thỏi nam châm thu hút những trạng thái tinh thần và hoàn cảnh đồng dạng lại với nhau",
-        "Vì người nghèo bị luật pháp bắt buộc phải sống chung một khu phố",
-        "Vì các căn bệnh truyền nhiễm lây lan nhanh trong không khí"
-      ],
-      "correctIndex": 1,
-      "explanation": "Nhịp điệu thôi miên như nam châm: người cùng tần số tư duy tiêu cực sẽ tự tìm đến và củng cố sự buông thả của nhau, người thành công hút cơ hội thành công.",
-      "id": "q4"
-    },
-    {
-      "question": "Con Quỷ có thể làm thay đổi cấu trúc di truyền sinh học ban đầu của một con người hay không?",
-      "options": [
-        "Có, nó có thể biến đổi DNA của con người bất cứ lúc nào",
-        "Không, nó không thể đổi bản chất sinh học kế thừa từ tổ tiên, nhưng nó có thể biến đổi và cố định hóa ảnh hưởng của môi trường sống lên người đó",
-        "Có, nó biến con người thành những sinh vật đột biến gien",
-        "Nó có thể thay đổi nhóm máu nhưng không đổi được màu mắt"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ thú nhận: nó không thay đổi được cơ thể sinh học thừa hưởng từ tổ tiên, nhưng qua nhịp điệu thôi miên, nó biến ảnh hưởng môi trường thành định mệnh vĩnh cửu.",
-      "id": "q5"
-    },
-    {
-      "question": "Làm thế nào để một đứa trẻ sinh ra trong cảnh nghèo đói và ngu dốt có thể phá vỡ được 'vòng xoáy môi trường' của mình?",
-      "options": [
-        "Chấp nhận số phận và cam chịu hoàn cảnh để tích đức cho kiếp sau",
-        "Trông chờ vào tiền trợ cấp xã hội của nhà nước",
-        "Phát triển ý thức tự chủ, xác định mục tiêu rõ ràng và tạo dựng nhịp điệu tư duy tích cực trước khi bị nhịp điệu môi trường khống chế hoàn toàn",
-        "Bỏ học và tham gia vào các hoạt động đỏ đen để đổi đời chớp nhoáng"
-      ],
-      "correctIndex": 2,
-      "explanation": "Con người có đặc quyền vượt lên hoàn cảnh nếu nhận thức và áp dụng mục tiêu xác định, tự thiết lập nhịp điệu suy nghĩ riêng trước khi bị môi trường đồng hóa.",
-      "id": "q6"
-    },
-    {
-      "question": "Napoleon Hill coi nguồn sức mạnh tối thượng giúp con người giải phóng khỏi mọi nỗi sợ hãi chính là gì?",
-      "options": [
-        "Vũ khí hạt nhân và sức mạnh quân sự",
-        "Trí tuệ Vô hạn (Infinite Intelligence) / Sự hiểu biết chân chính về các quy luật vũ trụ",
-        "Sự bảo bọc tuyệt đối từ các tổ chức từ thiện",
-        "Việc tích trữ thật nhiều vàng bạc trong két sắt"
-      ],
-      "correctIndex": 1,
-      "explanation": "Hill định nghĩa Chúa trời hay Trí tuệ Vô hạn chính là nguồn năng lượng tích cực, sự thật và trí tuệ chân chính giải phóng con người khỏi sợ hãi.",
-      "id": "q7"
-    },
-    {
-      "question": "Điều gì xảy ra khi một người có 'nhịp điệu đòi hỏi thành công' (demanding success)?",
-      "options": [
-        "Người đó trở nên ngạo mạn và bị xã hội xa lánh",
-        "Sự đòi hỏi đó trở thành thói quen, nhịp điệu thôi miên tiếp quản và luật hấp dẫn đồng điệu biến nó thành vật tương đương trong thực tế",
-        "Người đó sẽ thất bại thảm hại vì không biết nhún nhường",
-        "Nhịp điệu thôi miên sẽ trừng phạt người đó vì dám tham vọng"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ khẳng định: người thành công đòi hỏi thành công và sẵn sàng trả giá; đòi hỏi đó thành thói quen và nhịp điệu thôi miên biến nó thành hiện thực.",
-      "id": "q8"
-    },
-    {
-      "question": "Sáu hạt mầm sợ hãi cơ bản mà Con Quỷ thường xuyên gieo vào tâm trí con người gồm những nỗi sợ nào?",
-      "options": [
-        "Sợ độ cao, sợ bóng tối, sợ nước sâu, sợ côn trùng, sợ sấm sét, sợ không gian hẹp",
-        "Sợ nghèo đói, sợ bị chỉ trích, sợ ốm đau, sợ mất đi tình yêu thương, sợ tuổi già, và sợ cái chết",
-        "Sợ mất chức, sợ đi máy bay, sợ nói trước đám đông, sợ thi rớt, sợ bị phạt, sợ ma",
-        "Sợ động đất, sợ núi lửa, sợ sóng thần, sợ hạn hán, sợ bão cát, sợ dịch bệnh"
-      ],
-      "correctIndex": 1,
-      "explanation": "Sáu nỗi sợ hãi cơ bản kinh điển trong triết lý Napoleon Hill: Nghèo đói, Bị chỉ trích, Ốm đau, Mất đi tình yêu thương, Tuổi già và Cái chết.",
-      "id": "q9"
-    },
-    {
-      "question": "Tại sao nỗi sợ bị chỉ trích (fear of criticism) lại nguy hiểm không kém gì nỗi sợ nghèo đói?",
-      "options": [
-        "Vì nó phá hủy sự sáng tạo, làm tê liệt óc dám nghĩ dám làm và buộc con người phải sống theo khuôn mẫu dư luận",
-        "Vì nó trực tiếp gây ra các căn bệnh tim mạch nguy hiểm",
-        "Vì nó làm giảm thu nhập của một người xuống 50% ngay lập tức",
-        "Vì người bị chỉ trích sẽ bị tước quyền công dân"
+        "Dùng nhà thờ làm vỏ bọc để duy trì nỗi sợ địa ngục và Quỷ dữ, khiến con người buông thả vì hoang mang lo sợ.",
+        "Chủ động phá hủy toàn bộ cơ sở thờ tự và ban hành các lệnh cấm đoán nghiêm ngặt đối với mọi nghi lễ cầu nguyện.",
+        "Biến các tu viện và nhà thờ thành nơi tàng trữ vũ khí quân sự bí mật nhằm chuẩn bị phát động các cuộc chiến tranh.",
+        "Ép buộc tất cả các chức sắc tôn giáo phải công khai ký kết các giao ước trung thành tuyệt đối với thế lực bóng tối."
       ],
       "correctIndex": 0,
-      "explanation": "Nỗi sợ bị chỉ trích cướp đi sự độc lập tư duy, khiến con người buông thả theo số đông để tránh bị đàm tiếu, tự nguyện dâng quyền tự chủ cho Quỷ.",
-      "id": "q10"
+      "explanation": "Con Quỷ tiết lộ mẹo xảo quyệt: nó không chiếm nhà thờ, mà mượn nhà thờ để giữ cho con người luôn sợ hãi địa ngục và Quỷ dữ; chừng nào con người còn sợ, Quỷ còn kiểm soát."
     },
     {
-      "question": "Trong đối thoại, Hill chất vấn Con Quỷ về vai trò của nó trong cuộc Đại suy thoái kinh tế và chiến tranh. Quỷ đã trả lời như thế nào?",
+      "id": "q2",
+      "question": "Theo Con Quỷ, tại sao nó không công khai ra mặt chiếm đoạt thế giới mà lại ẩn mình qua các 'đại lý'?",
       "options": [
-        "Nó phủ nhận và đổ lỗi hoàn toàn cho sự phát triển khoa học kỹ thuật",
-        "Nó tuyên bố nó đứng sau những biến cố đó thông qua việc kích động lòng tham, nỗi sợ hãi và sự buông thả tập thể của các nhà lãnh đạo",
-        "Nó thừa nhận chiến tranh là do thiên tai khí hậu gây ra",
-        "Nó khẳng định chiến tranh chỉ là tai nạn bất khả kháng"
+        "Vì nó lo sợ các cơ quan tư pháp và lực lượng cảnh sát quốc tế sẽ khởi tố và tống giam nó vào các nhà tù kiên cố.",
+        "Vì vỏ bọc đại lý giúp nó che giấu chân tướng; nếu lộ diện, con người sẽ tỉnh ngộ và tìm về với Trí tuệ Vô hạn.",
+        "Vì nó không có đủ nguồn ngân sách tài chính cần thiết để đăng ký thành lập một tổ chức công khai mang tầm thế giới.",
+        "Vì bản tính của nó rất nhút nhát và sợ tiếp xúc với ánh sáng mặt trời tự nhiên cũng như chốn đông người ồn ào."
       ],
       "correctIndex": 1,
-      "explanation": "Con Quỷ tự hào nhận mình khuấy động chính trị, suy thoái và chiến tranh bằng cách thao túng nỗi sợ, sự nghi kỵ và lòng tham của con người.",
-      "id": "q11"
+      "explanation": "Con Quỷ dùng đồng minh và vỏ bọc ngụy trang để con người không nhận ra kẻ thù thực sự; nếu Quỷ ra mặt công khai, con người sẽ thức tỉnh và quay về với nguồn sức mạnh chân chính."
     },
     {
-      "question": "Khái niệm 'vật hối lộ tiêu cực' (negative bribes) mà Con Quỷ sử dụng nhằm mục đích gì?",
+      "id": "q3",
+      "question": "Nhịp điệu thôi miên tác động như thế nào đến môi trường sống của một cộng đồng (Đại lộ số 5 so với khu ổ chuột)?",
       "options": [
-        "Trao tiền mặt trực tiếp cho các quan chức tham nhũng",
-        "Thỏa mãn những ham muốn mù quáng tức thời (dâm ô, trả thù, lười biếng, rượu chè) để đổi lấy quyền kiểm soát linh hồn và tâm trí nạn nhân",
-        "Cung cấp học bổng cho các sinh viên nghèo học giỏi",
-        "Xây dựng các công trình công cộng miễn phí"
+        "Quy luật này chỉ chi phối các cá nhân riêng lẻ chứ hoàn toàn không để lại bất kỳ dấu ấn nào lên không gian địa lý.",
+        "Nó khiến cho giá trị bất động sản tại các khu vực ổ chuột nghèo nàn đột ngột tăng vọt lên ngang tầm phố thượng lưu.",
+        "Nó tích lũy và cố định nhịp điệu suy nghĩ chung của cư dân theo thời gian, rồi hút về những con người có cùng tần số.",
+        "Chính quyền địa phương quy định và áp đặt nhịp điệu sinh hoạt cho từng con phố thông qua các sắc lệnh hành chính."
       ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ dùng những khoái lạc nhất thời, tính lười biếng, sự trả thù... làm 'vật hối lộ' để nạn nhân sẵn sàng đánh đổi tự do tư duy của mình.",
-      "id": "q12"
+      "correctIndex": 2,
+      "explanation": "Mỗi đường phố và cộng đồng đều có nhịp điệu tư duy tích lũy riêng; theo thời gian, nhịp điệu đó trở nên cố định và thu hút những người có suy nghĩ, hoàn cảnh tương đồng đến sinh sống."
     },
     {
-      "question": "Sự thích nghi tự nhiên của cây cối ở vùng nhiệt đới và vùng hàn đới được dùng làm ẩn dụ cho điều gì trong tâm trí?",
+      "id": "q4",
+      "question": "Tại sao câu thành ngữ 'Đồng bệnh tương liên' lại là một minh chứng thực tế cho quy luật nhịp điệu thôi miên?",
       "options": [
-        "Sự biến đổi khí hậu toàn cầu đang diễn ra nhanh chóng",
-        "Tâm trí con người cũng bị hoàn cảnh và thói quen xung quanh nhào nặn y hệt như thiên nhiên bắt cây cỏ phải thích ứng với khí hậu",
-        "Con người nên chuyển đến vùng nhiệt đới để sinh sống hạnh phúc hơn",
-        "Hệ thực vật có trí thông minh vượt trội hơn con người"
+        "Vì tập tính sinh học bẩm sinh của các loài chim di cư luôn đòi hỏi chúng phải bay theo đàn để tránh các cơn bão lớn.",
+        "Vì chính phủ tại nhiều quốc gia luôn áp dụng chính sách quy hoạch bắt buộc người nghèo phải cư trú tập trung một nơi.",
+        "Vì các chứng bệnh truyền nhiễm nguy hiểm thường có xu hướng bùng phát rất nhanh tại các khu dân cư đông đúc thiếu vệ sinh.",
+        "Vì nhịp điệu thôi miên hoạt động như nam châm, tự động hút những người có cùng trạng thái tinh thần và thói quen lại với nhau."
       ],
-      "correctIndex": 1,
-      "explanation": "Thiên nhiên uốn nắn sinh vật thích nghi với khí hậu; tương tự, hoàn cảnh xã hội sẽ nhào nặn tâm trí thụ động nếu cá nhân không tự lập nhịp điệu riêng.",
-      "id": "q13"
+      "correctIndex": 3,
+      "explanation": "Nhịp điệu thôi miên vận hành như một thỏi nam châm: những người có cùng suy nghĩ tiêu cực hoặc buông thả sẽ tự động tụ tập và củng cố sự nghèo khó, tuyệt vọng của nhau."
     },
     {
-      "question": "Điểm mấu chốt để chuyển hóa 'nỗi sợ hãi' thành 'sức mạnh hành động' là gì?",
+      "id": "q5",
+      "question": "Con Quỷ có thể làm thay đổi bản chất của cơ thể sinh học mà con người thừa hưởng do di truyền hay không?",
       "options": [
-        "Tìm kiếm một chỗ ẩn nấp an toàn và chờ đợi giông bão qua đi",
-        "Thừa nhận nỗi sợ hãi và dùng mục tiêu xác định để định hướng tâm trí tập trung vào giải pháp thay vì hậu quả tiêu cực",
-        "Phủ nhận hoàn toàn sự tồn tại của nỗi sợ và hành động liều lĩnh",
-        "Uống rượu để làm tê liệt hệ thần kinh tạm thời"
-      ],
-      "correctIndex": 1,
-      "explanation": "Đối mặt với sợ hãi bằng mục tiêu xác định: khi tâm trí tràn ngập kế hoạch hành động cụ thể, không còn chỗ trống cho sự sợ hãi nảy nở.",
-      "id": "q14"
-    },
-    {
-      "question": "Vì sao việc nghiên cứu quy luật 'Nhịp điệu thôi miên' lại là sự khai sáng mang tính giải phóng cho độc giả?",
-      "options": [
-        "Vì nó cho thấy con người không còn là nạn nhân vô vọng của số phận mà có thể làm chủ số phận bằng cách chủ động chọn lựa thói quen tư duy",
-        "Vì nó giúp độc giả có thể biểu diễn các trò ảo thuật kiếm tiền",
-        "Vì nó chứng minh rằng không cần làm việc vẫn có thể thành công",
-        "Vì nó phủ nhận toàn bộ các phát hiện của y học hiện đại"
+        "Không thể thay đổi bản chất di truyền sinh học ban đầu, nhưng có thể điều khiển và cố định hóa ảnh hưởng của môi trường sống.",
+        "Có thể thay đổi hoàn toàn bộ mã di truyền của bất cứ ai ngay khi người đó bước vào giai đoạn trưởng thành về mặt nhận thức.",
+        "Có thể biến đổi các đặc điểm thể chất bên ngoài như màu mắt và chiều cao nhưng không thể can thiệp vào suy nghĩ tinh thần.",
+        "Không thể can thiệp vào bất kỳ điều gì liên quan đến cuộc đời con người vì con người hoàn toàn tự do theo thuyết định mệnh."
       ],
       "correctIndex": 0,
-      "explanation": "Hiểu nhịp điệu thôi miên giúp con người thức tỉnh: vận mệnh không phải ngẫu nhiên mà là sự kết tinh của thói quen tư duy được vũ trụ khuếch đại.",
-      "id": "q15"
+      "explanation": "Con Quỷ thú nhận: nó bất lực trước cấu trúc sinh học tổ tiên để lại, nhưng qua nhịp điệu thôi miên, nó biến mọi tác động tiêu cực của môi trường sống thành thói quen cố định suốt đời."
+    },
+    {
+      "id": "q6",
+      "question": "Làm thế nào một người sinh ra trong nghèo đói và thiếu thốn có thể giải phóng bản thân khỏi ảnh hưởng môi trường?",
+      "options": [
+        "Cam chịu số phận an bài và chờ đợi sự ban phát trợ cấp từ ngân sách nhà nước hoặc các hội cứu trợ từ thiện xã hội.",
+        "Xác định mục tiêu rõ ràng và chủ động tạo lập nhịp điệu tư duy riêng trước khi bị nhịp điệu môi trường đồng hóa tiêu cực.",
+        "Tham gia vào các trò may rủi đỏ đen với hy vọng trúng số độc đắc để nhanh chóng thay đổi hoàn cảnh kinh tế gia đình.",
+        "Cắt đứt mọi mối quan hệ họ hàng và chuyển đến sống ẩn dật tại các hang đá hẻo lánh trên núi cao để giữ tâm thanh tịnh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Con người có đặc quyền tự thiết lập nhịp điệu tư duy riêng thông qua mục tiêu xác định; nếu hành động dứt khoát trước khi nhịp điệu môi trường kịp khóa chặt, họ hoàn toàn có thể vươn lên thành công."
+    },
+    {
+      "id": "q7",
+      "question": "Napoleon Hill chỉ ra nguồn sức mạnh tối thượng giúp con người được giải thoát khỏi mọi nỗi sợ hãi là gì?",
+      "options": [
+        "Sở hữu kho vũ khí quân sự tối tân và các liên minh quân sự bảo trợ an ninh trên quy mô toàn cầu.",
+        "Tích lũy lượng vàng bạc và tiền tệ khổng lồ để bảo đảm an sinh trọn đời bất chấp mọi khủng hoảng.",
+        "Sự thấu hiểu các quy luật tự nhiên và kết nối trí tuệ với nguồn sức mạnh của Trí tuệ Vô hạn.",
+        "Sự bảo hộ tuyệt đối từ các tổ chức tín ngưỡng có quy mô đồ sộ và truyền thống lịch sử lâu đời."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hill nhấn mạnh: Trí tuệ Vô hạn (hay Thượng đế chân chính) biểu hiện qua các quy luật tự nhiên bất biến; sự thấu hiểu sự thật và làm chủ tâm trí là liều thuốc duy nhất dập tắt mọi sợ hãi."
+    },
+    {
+      "id": "q8",
+      "question": "Điều gì sẽ xảy ra khi một người có thói quen kiên định 'đòi hỏi thành công' và sẵn sàng trả giá cho nó?",
+      "options": [
+        "Người đó sẽ bị quy luật tự nhiên trừng phạt vì đã biểu lộ lòng tham lam và sự thiếu khiêm tốn trước tạo hóa.",
+        "Người đó nhanh chóng rơi vào kiệt quệ và mất hết các mối quan hệ xã hội vì đặt mục tiêu quá cao so với thực tế.",
+        "Các định chế tài chính sẽ từ chối hợp tác vì coi người đó là một đối tượng có mức độ rủi ro kinh doanh quá lớn.",
+        "Đòi hỏi đó biến thành thói quen, nhịp điệu thôi miên tiếp quản và luật hấp dẫn biến nó thành hiện thực tương đương."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi một người biết rõ điều mình muốn, kiên quyết đòi hỏi và sẵn sàng trả giá xứng đáng, đòi hỏi đó trở thành thói quen vững chắc; nhịp điệu thôi miên sẽ tiếp quản và biến nó thành kết quả thực tế."
+    },
+    {
+      "id": "q9",
+      "question": "Nếu một người không chủ động áp dụng nhịp điệu thôi miên để đạt mục tiêu mong muốn, điều gì sẽ diễn ra?",
+      "options": [
+        "Quy luật này sẽ tự động vận hành để cuốn tâm trí vào thói buông thả và tạo ra những kết quả tiêu cực không mong đợi.",
+        "Quy luật sẽ tạm ngừng hoạt động để chờ đợi cho đến khi cá nhân đó trưởng thành và đưa ra quyết định dứt khoát hơn.",
+        "Tâm trí người đó sẽ duy trì trạng thái hoàn toàn cân bằng và không chịu bất kỳ tác động nào từ môi trường bên ngoài.",
+        "Người đó sẽ tự động được thần may mắn ban phát những cơ hội nghề nghiệp thuận lợi mà không cần phải tốn công sức."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhịp điệu thôi miên là quy luật tự động vận hành: nếu con người không chủ động áp dụng nó cho mục tiêu tích cực, nó sẽ mặc định củng cố những ảnh hưởng tiêu cực và buông thả của môi trường."
+    },
+    {
+      "id": "q10",
+      "question": "Ẩn dụ về sự thích nghi của cây cối ở vùng nhiệt đới và vùng hàn đới trong Chương Bảy phản ánh điều gì?",
+      "options": [
+        "Con người cần phải di cư đến các vùng khí hậu ấm áp để phát triển tối đa tiềm năng trí tuệ và sự sáng tạo bản thân.",
+        "Tự nhiên ép sinh vật thích nghi khí hậu, cũng như hoàn cảnh sẽ nhào nặn tâm trí thụ động nếu không có tư duy độc lập.",
+        "Hệ thực vật trên trái đất sở hữu năng lực thích ứng linh hoạt và sức chịu đựng vượt trội hơn nhiều so với con người.",
+        "Biến đổi khí hậu toàn cầu đang diễn ra quá nhanh khiến cho quy luật nhịp điệu thôi miên không thể vận hành bình thường."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thiên nhiên uốn nắn mọi sinh vật phải tự điều chỉnh theo khí hậu; tương tự, hoàn cảnh sống sẽ nhào nặn và đồng hóa tâm trí con người nếu cá nhân không chủ động thiết lập nhịp điệu tư duy riêng."
+    },
+    {
+      "id": "q11",
+      "question": "Khi Napoleon Hill chất vấn Con Quỷ về vai trò trong các cuộc suy thoái kinh tế và chiến tranh, Quỷ đã thừa nhận gì?",
+      "options": [
+        "Nó hoàn toàn vô can và khẳng định các cuộc khủng hoảng xảy ra chỉ là do chu kỳ tự nhiên của các vì sao trên trời.",
+        "Nó cho rằng đó là do thiên tai và sự biến đổi khí hậu khắc nghiệt làm suy giảm sản lượng nông nghiệp toàn cầu.",
+        "Nó đứng sau điều khiển thông qua các đại lý chính trị, kích động sự tham lam, nghi kỵ và gieo rắc nỗi sợ hãi tập thể.",
+        "Nó phân tích rằng các cuộc chiến tranh và suy thoái kinh tế đơn thuần chỉ là những sự cố kỹ thuật của hệ thống tài chính."
+      ],
+      "correctIndex": 2,
+      "explanation": "Con Quỷ tự hào nhận nó tham gia sâu sắc vào chính trị và chiến tranh thông qua việc thao túng các nhà lãnh đạo, gieo rắc nghi kỵ và nỗi sợ hãi để thúc đẩy con người tàn sát lẫn nhau."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao Con Quỷ lại tuyên bố rằng việc con người không hiểu đúng về Chúa trời và sợ hãi địa ngục lại có lợi cho nó?",
+      "options": [
+        "Vì điều đó giúp Con Quỷ thu được nguồn tài chính dồi dào từ các khoản tiền quyên góp của các tín đồ nghèo khó khắp nơi.",
+        "Vì nó có thể dễ dàng xây dựng thêm nhiều đền đài nguy nga để thờ phụng bóng tối ngay tại các thành phố lớn trên thế giới.",
+        "Vì các nhà chức trách tôn giáo sẽ tự nguyện trao lại quyền quản lý các cơ sở giáo dục và y tế công cộng cho Con Quỷ cai quản.",
+        "Vì chỉ cần con người còn sợ hãi, họ sẽ không dám tự mình suy nghĩ độc lập và trở thành con mồi dễ dãi cho thói quen buông thả."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chừng nào con người còn chìm đắm trong sợ hãi và mê tín, họ sẽ không dám sử dụng tâm trí và lý trí độc lập của mình; từ đó rơi thẳng vào mạng nhện buông thả của Con Quỷ."
+    },
+    {
+      "id": "q13",
+      "question": "Đặc quyền DUY NHẤT mà tạo hóa ban tặng giúp con người vượt trội hơn muôn loài muôn vật trong vũ trụ là gì?",
+      "options": [
+        "Quyền tự do lựa chọn tư duy và thiết lập nhịp điệu suy nghĩ riêng trước khi bị môi trường bên ngoài khống chế.",
+        "Khả năng xây dựng các công trình kiến trúc kiên cố và tạo ra các loại vũ khí cơ học có sức công phá vô cùng lớn.",
+        "Tuổi thọ sinh học kéo dài hàng trăm năm và sức đề kháng tuyệt đối trước mọi căn bệnh truyền nhiễm nguy hiểm nhất.",
+        "Quyền năng điều khiển quỹ đạo chuyển động của các thiên thể trong vũ trụ nhờ vào sự trợ giúp của máy móc hiện đại."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong khi cây cỏ và muôn thú buộc phải thích nghi thụ động với môi trường tự nhiên, duy chỉ có con người sở hữu đặc quyền lựa chọn suy nghĩ và định hình nhịp điệu tư duy cho riêng mình."
+    },
+    {
+      "id": "q14",
+      "question": "Điểm khác biệt lớn nhất quyết định vận mệnh thành hay bại giữa các cá nhân theo Con Quỷ là gì?",
+      "options": [
+        "Sự chênh lệch ngẫu nhiên về tài sản thừa kế mà cha mẹ để lại cho mỗi người khi bước vào cuộc đời lập nghiệp.",
+        "Nhịp điệu suy nghĩ của từng người: nghĩ về thành công sẽ hút thành công, nghĩ về thất bại sẽ hút tai họa tương ứng.",
+        "Số lượng các tấm bằng đại học danh giá và các chứng chỉ chuyên môn cao cấp mà người đó tích lũy trong quá trình đi học.",
+        "Vận may ngẫu nhiên xuất hiện theo chu kỳ các năm thuận lợi trong biểu đồ phong thủy tử vi của từng cá nhân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thói quen tư duy tạo nên nhịp điệu suy nghĩ của mỗi người: người nuôi dưỡng ý nghĩ thành công và giàu sang sẽ thu hút các cơ hội tương ứng; người sợ hãi và cam chịu sẽ thu hút thất bại."
+    },
+    {
+      "id": "q15",
+      "question": "Để đảo ngược quy luật nhịp điệu thôi miên từ tiêu cực sang phục vụ thành công, Con Quỷ tuyên bố cần áp dụng điều gì?",
+      "options": [
+        "Thực hiện các nghi lễ trừ tà cổ xưa và đọc những lời thề nguyền đoạn tuyệt với thế giới vật chất trần tục mỗi ngày.",
+        "Chờ đợi sự can thiệp của các đấng cứu thế siêu nhiên giải phóng bản thân khỏi những áp bức khắc nghiệt của xã hội.",
+        "Hiểu và áp dụng bảy nguyên tắc tâm lý giúp kiểm soát tâm trí và bắt cuộc sống mang lại những điều mình mong muốn.",
+        "Từ bỏ hoàn toàn các mục tiêu cá nhân và chọn lối sống ẩn dật hoàn toàn biệt lập với mọi biến động của cộng đồng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ở cuối chương 7, Con Quỷ tiết lộ rằng để đảo ngược nhịp điệu thôi miên phục vụ cho mình, con người cần thấu hiểu và thực hành bảy nguyên tắc tâm lý nhằm làm chủ tâm trí và số phận."
     }
   ]
 }

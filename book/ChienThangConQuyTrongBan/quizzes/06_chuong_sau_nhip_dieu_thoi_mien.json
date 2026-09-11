@@ -5,184 +5,184 @@
   "totalQuestions": 15,
   "questions": [
     {
-      "question": "Quy luật tự nhiên tối cao mà Con Quỷ sử dụng để biến những thói quen tạm thời của con người thành sự kiểm soát vĩnh viễn được gọi là gì?",
+      "id": "q1",
+      "question": "Quy luật tự nhiên tối cao mà Con Quỷ sử dụng để biến thói quen tạm thời thành sự kiểm soát vĩnh viễn là gì?",
       "options": [
-        "Quy luật cộng hưởng sinh học (Biological Resonance)",
-        "Nhịp điệu thôi miên (Hypnotic Rhythm)",
-        "Thuyết tương đối hẹp (Special Relativity)",
-        "Định luật bảo toàn năng lượng cơ học (Mechanical Conservation)"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ định danh quy luật này là 'Nhịp điệu thôi miên' (Hypnotic rhythm) - quy luật phổ quát của tự nhiên giúp củng cố và cố định mọi thói quen.",
-      "id": "q1"
-    },
-    {
-      "question": "Trong vũ trụ tự nhiên, 'Nhịp điệu thôi miên' thể hiện vai trò gì theo lời giải thích của Con Quỷ?",
-      "options": [
-        "Duy trì sự cân bằng hoàn hảo giữa các vì sao, hành tinh, bốn mùa và tính cố định của các loài (hạt sồi luôn mọc thành cây sồi)",
-        "Tạo ra các vụ nổ siêu tân tinh để hủy diệt các dải ngân hà",
-        "Làm chậm tốc độ ánh sáng trong môi trường chân không",
-        "Xóa bỏ hoàn toàn định luật vạn vật hấp dẫn của Newton"
+        "Nhịp điệu thôi miên (Hypnotic Rhythm), quy luật tự nhiên phổ quát giúp cố định và vĩnh cửu hóa mọi thói quen.",
+        "Quy luật cộng hưởng sinh học, cơ chế giúp kết nối các tế bào thần kinh vận động trên toàn bộ cơ thể con người.",
+        "Định luật bảo toàn cơ năng, nguyên lý vật lý giúp duy trì chuyển động ổn định của các vật thể rắn.",
+        "Thuyết tương đối hẹp, học thuyết miêu tả mối quan hệ mật thiết giữa không gian và thời gian vũ trụ."
       ],
       "correctIndex": 0,
-      "explanation": "Nhịp điệu thôi miên duy trì trật tự và cân bằng vũ trụ: giữ các hành tinh trên quỹ đạo, điều hòa thời tiết và đảm bảo hạt giống loài nào sinh ra loài đó.",
-      "id": "q2"
+      "explanation": "Con Quỷ định danh quy luật này là 'Nhịp điệu thôi miên' (Hypnotic rhythm) - quy luật phổ quát của tự nhiên giúp củng cố và cố định vĩnh viễn mọi thói quen suy nghĩ hay hành động."
     },
     {
-      "question": "Con Quỷ so sánh quá trình hình thành nhịp điệu thôi miên trong tâm trí giống như hiện tượng nào trong thực tế?",
+      "id": "q2",
+      "question": "Trong trật tự vũ trụ tự nhiên, 'Nhịp điệu thôi miên' thể hiện vai trò căn bản nào theo lời giải thích của Con Quỷ?",
       "options": [
-        "Một trận động đất bất ngờ làm sụp đổ các tòa nhà kiên cố",
-        "Học một bản nhạc: các nốt nhạc được lặp đi lặp lại cho đến khi giai điệu hòa quyện và tự động hóa thành nhịp điệu cố định",
-        "Một tia sét đánh ngẫu nhiên giữa trời quang mây tạnh",
-        "Ngọn lửa bùng cháy dữ dội khi có gió bão thổi qua"
+        "Tạo ra các vụ nổ siêu tân tinh ngẫu nhiên nhằm phân tán vật chất và phá hủy các dải ngân hà đã già cỗi.",
+        "Duy trì sự cân bằng vĩnh cửu giữa các thiên thể, điều hòa bốn mùa và cố định đặc tính của từng loài sinh vật.",
+        "Kích hoạt các biến động địa chất bất thường làm thay đổi hình thái các lục địa sau từng chu kỳ thiên niên kỷ.",
+        "Làm chậm dần tốc độ truyền dẫn ánh sáng trong môi trường chân không để duy trì trật tự cho các hành tinh."
       ],
       "correctIndex": 1,
-      "explanation": "Quỷ lấy ví dụ học nhạc: lúc đầu nhớ từng nốt, lặp lại nhiều lần sẽ thành giai điệu nhịp nhàng ăn sâu vào tâm trí không thể quên.",
-      "id": "q3"
+      "explanation": "Nhịp điệu thôi miên duy trì trật tự và cân bằng vũ trụ: giữ các vì sao và hành tinh trên quỹ đạo, điều hòa bốn mùa và đảm bảo hạt sồi chỉ mọc thành cây sồi chứ không thể thành cây thông."
     },
     {
-      "question": "Điểm tới hạn (tiêu cự) mà tại đó một thói quen KHÔNG THỂ bị phá vỡ nữa được Con Quỷ ví như điều gì?",
+      "id": "q3",
+      "question": "Con Quỷ đã so sánh quá trình hình thành nhịp điệu thôi miên trong tâm trí với hoạt động quen thuộc nào?",
       "options": [
-        "Một tảng đá lăn xuống vực thẳm",
-        "Một chiếc lá rơi rụng vào mùa thu",
-        "Một vật thể nổi dập dềnh cho đến khi bị hút chặt vào tâm của một vòng xoáy nước khổng lồ",
-        "Một đám mây tan biến dưới ánh mặt trời buổi sớm"
+        "Một cơn lốc xoáy nhiệt đới bất ngờ quét qua bình nguyên và cuốn bay mọi công trình xây dựng kiên cố trên đường đi.",
+        "Một tia chớp lóe sáng rực rỡ xé toạc bầu trời đêm giông bão rồi nhanh chóng tan biến vào trong màn đêm tối.",
+        "Việc học nhạc: các nốt nhạc được lặp đi lặp lại cho đến khi giai điệu hòa quyện và tự động hóa thành phản xạ.",
+        "Quá trình nung chảy kim loại trong các lò luyện thép khổng lồ để đúc nên những cỗ máy công nghiệp hiện đại."
       ],
       "correctIndex": 2,
-      "explanation": "Con Quỷ ví nhịp điệu thôi miên như vòng xoáy nước: thói quen lặp lại đến khi bị nhịp điệu tiếp quản sẽ cố định vĩnh viễn, tự nhiên khóa chặt nó lại.",
-      "id": "q4"
+      "explanation": "Quỷ lấy ví dụ học nhạc: ban đầu người học phải ghi nhớ từng nốt nhạc, nhờ lặp đi lặp lại mà giai điệu và nhịp điệu hòa quyện, ăn sâu vào tiềm thức và trở thành bản năng."
     },
     {
-      "question": "Bản chất thực sự của quy luật 'Nhịp điệu thôi miên' là thiện hay ác?",
+      "id": "q4",
+      "question": "Điểm tới hạn mà tại đó một thói quen KHÔNG THỂ bị phá vỡ được Con Quỷ ví với hiện tượng tự nhiên nào?",
       "options": [
-        "Hoàn toàn tà ác vì nó do chính Con Quỷ sáng tạo ra để hại loài người",
-        "Hoàn toàn thánh thiện và chỉ phục vụ cho những người theo đạo",
-        "Là một quy luật tự nhiên trung lập; nó cố định bất kỳ thói quen tư duy nào chiếm ưu thế, dù là nghèo đói, sợ hãi hay giàu sang, tự chủ",
-        "Chỉ mang tính ngẫu nhiên và không tuân theo bất kỳ nguyên lý nào"
+        "Một ngọn núi lửa ngủ yên hàng ngàn năm bỗng nhiên phun trào dung nham bao phủ các thung lũng xung quanh.",
+        "Một chiếc lá vàng úa nhẹ nhàng lìa cành và trôi dạt vô định theo làn gió thoảng trong một buổi chiều thu.",
+        "Một tảng băng trôi khổng lồ dần tan chảy dưới ánh nắng mặt trời rực rỡ khi trôi dạt về vùng xích đạo ấm áp.",
+        "Một vật thể trôi dập dềnh trên sông cho đến khi bị cuốn chặt vào tâm của vòng xoáy nước và quay tròn bất tận."
+      ],
+      "correctIndex": 3,
+      "explanation": "Con Quỷ ví nhịp điệu thôi miên như vòng xoáy nước: một vật có thể trôi nổi dập dềnh cho tới khi bị hút vào tâm vòng xoáy thì sẽ bị quay tròn vĩnh viễn không thể thoát ra được nữa."
+    },
+    {
+      "id": "q5",
+      "question": "Bản chất thực sự của quy luật 'Nhịp điệu thôi miên' được phân tích trong cuốn sách là mang tính chất gì?",
+      "options": [
+        "Là một quy luật tự nhiên trung tính, nó cố định bất kỳ thói quen tư duy chủ đạo nào được lặp đi lặp lại.",
+        "Là một thứ ma thuật hắc ám hoàn toàn tà ác do Con Quỷ tạo ra để hủy diệt ý chí tự do của toàn nhân loại.",
+        "Là một đặc ân thiêng liêng chỉ ban phát cho những tín đồ sùng đạo có lòng tin thuần khiết vào đấng tối cao.",
+        "Là một hiện tượng tâm lý ngẫu nhiên, không tuân theo bất kỳ nguyên lý nhân quả nào trong thế giới vật chất."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhịp điệu thôi miên là quy luật tự nhiên hoàn toàn trung lập: nếu bạn gieo sợ hãi và buông thả, nó cố định sự thất bại; nếu bạn gieo mục tiêu xác định và kỷ luật, nó nhân bội thành công phi thường."
+    },
+    {
+      "id": "q6",
+      "question": "Theo khẳng định của Con Quỷ, 'bước cuối cùng của thói quen' (the final stage of habit) được định nghĩa là gì?",
+      "options": [
+        "Sự suy giảm dần dần về thể lực và trí nhớ của con người sau một thời gian dài duy trì các hành động cũ.",
+        "Nhịp điệu: khi tự nhiên tiếp quản thói quen lặp lại và biến nó thành một chuyển động tự động không thể đảo ngược.",
+        "Sự can thiệp kịp thời của luật pháp xã hội nhằm ngăn chặn các hành vi lệch chuẩn gây phương hại cho cả cộng đồng.",
+        "Sự lãng quên hoàn toàn về nguồn gốc thói quen khiến nạn nhân không còn nhớ lý do mình bắt đầu hành động đó."
+      ],
+      "correctIndex": 1,
+      "explanation": "Con Quỷ chỉ rõ: Nhịp điệu chính là bước cuối cùng của thói quen; bất cứ suy nghĩ hay hành động nào lặp đi lặp lại cuối cùng cũng chiếm được một tỷ lệ trong nhịp điệu và được tự nhiên tiếp quản."
+    },
+    {
+      "id": "q7",
+      "question": "Isaac Newton đã phát hiện ra Định luật vạn vật hấp dẫn, nhưng theo Con Quỷ, ông đã dừng bước ở điểm nào?",
+      "options": [
+        "Ông không thể đo lường chính xác quỹ đạo của mặt trăng và tốc độ tự quay của trái đất quanh mặt trời.",
+        "Ông đã không kết hợp lý thuyết hấp dẫn với các nguyên lý nhiệt động lực học trong nghiên cứu cơ học cổ điển.",
+        "Ông chưa nhận ra quy luật giữ các hành tinh cân bằng cũng chính là quy luật nhịp điệu cố định tâm trí con người.",
+        "Ông đã thất bại trong việc áp dụng định luật hấp dẫn để giải thích nguồn gốc hình thành của các đại dương."
       ],
       "correctIndex": 2,
-      "explanation": "Nhịp điệu thôi miên là quy luật tự nhiên vô tư: nếu bạn nuôi dưỡng sợ hãi, nó biến bạn thành kẻ thất bại; nếu bạn nuôi dưỡng mục tiêu rõ ràng, nó mang lại thành công phi thường.",
-      "id": "q5"
+      "explanation": "Newton mới chỉ khám phá khía cạnh vật lý của lực hấp dẫn giữ Trái Đất cân bằng, mà chưa đi đủ xa để nhận ra chính quy luật phổ quát đó (nhịp điệu thôi miên) cũng chi phối và cố định tâm trí con người."
     },
     {
-      "question": "Theo Con Quỷ, 'bước cuối cùng của thói quen' (the final stage of habit) là gì?",
+      "id": "q8",
+      "question": "Mối liên hệ nhân quả giữa thói quen 'buông thả' và quy luật 'nhịp điệu thôi miên' vận hành như thế nào?",
       "options": [
-        "Sự lãng quên của người thực hiện",
-        "Nhịp điệu (Rhythm) - khi thói quen được tự nhiên tiếp quản và biến thành phản xạ tự động vĩnh viễn",
-        "Sự can thiệp của pháp luật xã hội",
-        "Sự mệt mỏi về mặt thể chất"
+        "Buông thả là phương thuốc tự nhiên mầu nhiệm giúp giải phóng tâm trí con người khỏi sự trói buộc của nhịp điệu thôi miên.",
+        "Nhịp điệu thôi miên sẽ chủ động tiến hành thanh lọc và tiêu diệt những cá nhân có thói quen sống buông thả trong xã hội.",
+        "Hai khái niệm này hoàn toàn độc lập và không có bất kỳ điểm giao thoa nào trong quá trình phát triển tâm thức.",
+        "Buông thả mở đường cho suy nghĩ tiêu cực, và nhịp điệu thôi miên sẽ khóa chặt thói quen đó thành bản án vĩnh viễn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Con Quỷ chỉ cần khiến con người bắt đầu buông thả, sau đó quy luật nhịp điệu thôi miên của tự nhiên sẽ tự động cuốn nạn nhân vào guồng quay và khóa chặt họ trong sự kiểm soát của Quỷ."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao những người có mục tiêu xác định lại có thể khai thác sức mạnh của nhịp điệu thôi miên để thành công?",
+      "options": [
+        "Vì nhịp điệu thôi miên sẽ cố định thói quen tư duy tích cực, biến kế hoạch rõ ràng thành kết quả vật chất tương ứng.",
+        "Vì họ được thần linh ban cho quyền năng đặc biệt để điều khiển tâm lý của những người xung quanh theo ý muốn cá nhân.",
+        "Vì họ không cần phải nỗ lực làm việc vất vả mà vẫn có thể dựa vào vận may ngẫu nhiên để đạt được sự thịnh vượng bền vững.",
+        "Vì họ sở hữu những bí kíp thuật thôi miên gia truyền giúp thao túng suy nghĩ của đối tác trong mọi cuộc đàm phán kinh doanh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi một người kiên trì duy trì mục tiêu rõ ràng và thói quen kỷ luật, quy luật nhịp điệu thôi miên sẽ tiếp quản, nhân bội năng lượng tích cực và biến các ý tưởng đó thành thành tựu thực tế."
+    },
+    {
+      "id": "q10",
+      "question": "Hiện tượng 'nghèo lại hoàn nghèo' hoặc 'người giàu càng thêm giàu' được giải thích như thế nào qua quy luật này?",
+      "options": [
+        "Do sự an bài nghiệt ngã của số phận tiền định trong lá số tử vi mà con người không có cách nào thay đổi được.",
+        "Do tâm trí chấp nhận nghèo đói hay thịnh vượng được nhịp điệu thôi miên cố định, biến tư duy thành thực tế tương ứng.",
+        "Do chính sách tiền tệ và hệ thống thuế khóa của các chính phủ luôn ưu ái cho những tập đoàn công nghiệp độc quyền.",
+        "Do sự chênh lệch ngẫu nhiên về tài nguyên thiên nhiên giữa các vùng địa lý khác nhau trên bề mặt trái đất hiện nay."
       ],
       "correctIndex": 1,
-      "explanation": "Quỷ khẳng định: 'Nhịp điệu là bước cuối cùng của thói quen! Bất cứ suy nghĩ nào lặp đi lặp lại cuối cùng cũng chiếm được một tỷ lệ trong nhịp điệu.'",
-      "id": "q6"
+      "explanation": "Nghèo đói hay giàu có đều bắt nguồn từ trạng thái tinh thần: tâm trí sợ hãi và chấp nhận nghèo khó sẽ bị nhịp điệu thôi miên khóa chặt vào nghèo đói; ngược lại tư duy thịnh vượng sẽ thu hút giàu có."
     },
     {
-      "question": "Làm thế nào một người có thể phá vỡ một thói quen xấu trước khi quá muộn?",
+      "id": "q11",
+      "question": "Theo lời Con Quỷ, vũ khí ưa thích nhất mà nó sử dụng để đẩy con người vào vòng xoáy nhịp điệu thôi miên là gì?",
       "options": [
-        "Chờ đợi cho đến khi hoàn cảnh tự động thay đổi",
-        "Phải phá vỡ và thay thế nó bằng thói quen tích cực trước khi nó bị nhịp điệu thôi miên cố định hóa",
-        "Uống thật nhiều thuốc an thần để quên đi thói quen đó",
-        "Cầu xin Con Quỷ tha thứ và hủy bỏ giao ước"
-      ],
-      "correctIndex": 1,
-      "explanation": "Muốn phá vỡ thói quen xấu, phải hành động quyết liệt trước khi nó đạt đến ngưỡng bị nhịp điệu thôi miên tiếp quản và đóng băng.",
-      "id": "q7"
-    },
-    {
-      "question": "Isaac Newton đã phát hiện ra Định luật vạn vật hấp dẫn, nhưng theo Con Quỷ, ông đã chưa đi đủ xa ở điểm nào?",
-      "options": [
-        "Ông không tính toán được khối lượng của mặt trăng",
-        "Ông không nhận ra rằng chính quy luật giữ các hành tinh cân bằng cũng chính là quy luật nhịp điệu chi phối và cố định tâm trí con người",
-        "Ông đã bỏ qua các tác động của từ trường trái đất",
-        "Ông không áp dụng định luật hấp dẫn vào việc chế tạo động cơ hơi nước"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ nhận định Newton mới chỉ thấy biểu hiện vật lý của lực hấp dẫn mà chưa nhận ra quy luật bao trùm ấy (nhịp điệu thôi miên) cũng chi phối tư duy con người.",
-      "id": "q8"
-    },
-    {
-      "question": "Mối liên hệ nhân quả giữa thói quen 'buông thả' và 'nhịp điệu thôi miên' là gì?",
-      "options": [
-        "Buông thả là chiếc phao cứu sinh giúp con người thoát khỏi nhịp điệu thôi miên",
-        "Buông thả mở cửa cho suy nghĩ tiêu cực, và nhịp điệu thôi miên sẽ cố định thói quen buông thả đó khiến nạn nhân trở thành nô lệ vĩnh viễn của Quỷ",
-        "Nhịp điệu thôi miên sẽ tự động tiêu diệt những ai sống buông thả",
-        "Hai khái niệm này hoàn toàn độc lập và không có liên hệ gì với nhau"
-      ],
-      "correctIndex": 1,
-      "explanation": "Kẻ buông thả để cho tâm trí trôi nổi; nhịp điệu thôi miên sẽ cuộn kẻ đó vào guồng quay cố định, biến sự buông thả thành bản tính vĩnh viễn không thể đảo ngược.",
-      "id": "q9"
-    },
-    {
-      "question": "Tại sao những người có mục tiêu xác định (definiteness of purpose) lại có thể tận dụng nhịp điệu thôi miên để trở nên bất khả chiến bại?",
-      "options": [
-        "Vì họ được nhượng quyền sử dụng phép thuật của Con Quỷ",
-        "Vì khi liên tục lặp lại các ý niệm về mục tiêu và hành động kiên quyết, nhịp điệu thôi miên sẽ tự động khuếch đại và biến mong muốn đó thành kết quả thực tế",
-        "Vì họ không phải lao động vất vả mà tiền tài tự khắc chảy về",
-        "Vì họ có khả năng thôi miên người khác bằng ánh mắt"
-      ],
-      "correctIndex": 1,
-      "explanation": "Nhịp điệu thôi miên là đòn bẩy tự nhiên: khi được áp dụng có ý thức cho mục tiêu xác định, nó củng cố thói quen kỷ luật và hút mọi nguồn lực về phía người đó.",
-      "id": "q10"
-    },
-    {
-      "question": "Hiện tượng 'nghèo lại hoàn nghèo' hoặc 'người giàu càng thêm giàu' được giải thích như thế nào dưới lăng kính nhịp điệu thôi miên?",
-      "options": [
-        "Do sự phân bổ tài nguyên ngẫu nhiên không có quy luật của vũ trụ",
-        "Do chính sách thuế khóa độc quyền của các chính phủ",
-        "Tư duy nghèo khó hay tư duy thịnh vượng khi lặp lại sẽ bị nhịp điệu thôi miên khóa chặt, biến trạng thái tinh thần đó thành môi trường thực tế tương ứng",
-        "Do số phận tiền định trong lá số tử vi của từng cá nhân"
+        "Nỗi sợ mất đi việc làm trong các giai đoạn nền kinh tế lâm vào khủng hoảng tài chính và lạm phát tăng vọt.",
+        "Nỗi sợ cô đơn khi bị những người thân yêu trong gia đình và bạn bè thân thiết ruồng bỏ trong nghịch cảnh.",
+        "Nỗi sợ chết, vì tính bất định và sự thiếu hiểu biết về cõi sau khiến con người hoảng loạn và bỏ bê việc dùng lý trí.",
+        "Nỗi sợ già nua làm suy giảm sức mạnh thể chất và nhan sắc của con người khi bước vào lứa tuổi trung niên."
       ],
       "correctIndex": 2,
-      "explanation": "Tâm trí suy nghĩ về điều gì thì nhịp điệu thôi miên biến điều đó thành hiện thực: người sợ nghèo sẽ hút nghèo đói; người tin vào thịnh vượng sẽ hút cơ hội.",
-      "id": "q11"
+      "explanation": "Con Quỷ ưa thích nhất nỗi sợ chết vì sự bí ẩn không thể chứng minh về thế giới bên kia dễ làm con người hoảng loạn nhất; khi sợ hãi, con người ngừng tư duy độc lập và rơi vào bẫy buông thả."
     },
     {
-      "question": "Con Quỷ kiểm soát linh hồn con người sau khi chết bằng cách nào?",
+      "id": "q12",
+      "question": "Tại sao các nhà khoa học chân chính lại hoàn toàn nằm ngoài tầm kiểm soát của Con Quỷ?",
       "options": [
-        "Bắt nhốt linh hồn vào những chiếc bình thủy tinh phép thuật",
-        "Bằng chính thói quen buông thả đã bị nhịp điệu thôi miên trói chặt từ khi nạn nhân còn sống trên trần thế",
-        "Đưa linh hồn qua sông Styx bằng thuyền của người lái đò",
-        "Dùng dây xích sắt nung đỏ trói vào cổng địa ngục"
+        "Vì họ được các học viện khoa học danh tiếng bảo vệ nghiêm ngặt bằng các hàng rào pháp lý quốc tế vô cùng chặt chẽ.",
+        "Vì họ không bao giờ quan tâm đến các vấn đề xã hội hay tiền bạc mà chỉ đắm chìm trong các công thức toán học khô khan.",
+        "Vì họ không có cảm xúc tự nhiên của con người nên không bao giờ cảm thấy sợ hãi trước những rủi ro của cuộc đời mình.",
+        "Vì họ biết tự suy nghĩ, luôn tìm kiếm sự thật khách quan qua các quy luật tự nhiên và phân tích nguyên nhân - kết quả."
+      ],
+      "correctIndex": 3,
+      "explanation": "Các nhà khoa học thực thụ tự tư duy cho chính mình, tôn thờ tôn giáo của sự thật và quy luật tự nhiên, phân tích thực tế dựa trên nguyên nhân và hệ quả nên Quỷ không thể dùng sợ hãi hay mê tín thao túng họ."
+    },
+    {
+      "id": "q13",
+      "question": "Yếu tố quyết định đã giúp Napoleon Hill phá vỡ sự buông thả và thoát khỏi vòng kiểm soát của Con Quỷ là gì?",
+      "options": [
+        "Sự phối hợp trí tuệ (Trí tuệ Ưu tú) giữa ông và vợ mình, giúp nâng cao năng lực nhận thức để ép Con Quỷ phải thú tội.",
+        "Việc ông tích lũy được khối tài sản tài chính kếch xù sau nhiều năm làm cố vấn cho các tỷ phú công nghiệp hàng đầu nước Mỹ.",
+        "Lời tuyên thệ từ bỏ hoàn toàn mọi tham vọng vật chất trần tục để quy y vào một dòng tu khổ hạnh biệt lập trên núi cao.",
+        "Một lá bùa may mắn cổ truyền được truyền lại từ tổ tiên giúp bảo vệ chủ nhân khỏi các nguồn năng lượng tà ác vô hình."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi Hill và vợ hợp nhất trí tuệ thông qua nguyên lý Trí tuệ Ưu tú (Master Mind), họ kết nối được với Trí tuệ Vô hạn và tạo ra sức mạnh tinh thần vượt trội, khiến Con Quỷ hoàn toàn bất lực."
+    },
+    {
+      "id": "q14",
+      "question": "Bước khởi đầu quan trọng nhất để một người có thể phá vỡ thói quen buông thả trước khi quá muộn là gì?",
+      "options": [
+        "Ngồi im chờ đợi cho đến khi các điều kiện thuận lợi của hoàn cảnh xã hội tự động xuất hiện để giúp đỡ bản thân mình.",
+        "Một khao khát cháy bỏng để phá vỡ thói quen đó, cùng ý thức hành động dứt khoát trước khi nhịp điệu kịp cố định hóa nó.",
+        "Chỉ cần làm một người lương thiện và giữ tâm hồn trong sáng thì tự nhiên mọi thói quen tiêu cực sẽ tự khắc tiêu biến mất.",
+        "Tìm kiếm các chuyên gia thôi miên chuyên nghiệp để xóa bỏ hoàn toàn ký ức về những sai lầm và vấp ngã trong quá khứ xa xưa."
       ],
       "correctIndex": 1,
-      "explanation": "Quỷ tuyên bố: sự kiểm soát sau cái chết chỉ là sự tiếp nối tất yếu của tình trạng buông thả đã bị nhịp điệu thôi miên đóng băng ngay lúc còn sống.",
-      "id": "q12"
+      "explanation": "Con Quỷ tiết lộ: bước đầu tiên là phải có một khao khát cháy bỏng để đoạn tuyệt thói quen buông thả; và phải hành động trước khi tự nhiên dùng nhịp điệu thôi miên đóng băng thói quen đó."
     },
     {
-      "question": "Đặc quyền DUY NHẤT mà tạo hóa ban tặng cho con người vượt trội hơn muôn loài muôn vật trong vũ trụ là gì?",
+      "id": "q15",
+      "question": "Quan điểm của Con Quỷ về khái niệm 'vận may' (luck) và 'phép màu' (miracle) trong cuộc sống là gì?",
       "options": [
-        "Khả năng sống thọ hơn tất cả các sinh vật khác",
-        "Đặc quyền lựa chọn suy nghĩ và tự thiết lập nhịp điệu tư duy của riêng mình trước khi bị môi trường bên ngoài áp đặt",
-        "Khả năng nhìn thấy các thực thể tâm linh bằng mắt thường",
-        "Quyền năng làm thay đổi quỹ đạo quay của các hành tinh"
-      ],
-      "correctIndex": 1,
-      "explanation": "Cây cối và muôn thú buộc phải thích nghi thụ động với nhịp điệu môi trường; chỉ có con người mới có quyền năng tự chọn luồng tư duy và nhịp điệu cho bản thân.",
-      "id": "q13"
-    },
-    {
-      "question": "Nếu một người không chủ động thiết lập nhịp điệu tư duy cho đời mình, điều gì chắc chắn sẽ xảy ra?",
-      "options": [
-        "Người đó sẽ sống một cuộc đời trung dung và hoàn toàn tự do",
-        "Tự nhiên sẽ để người đó nghỉ ngơi trong sự thanh thản tuyệt đối",
-        "Nhịp điệu môi trường bên ngoài (thường là hỗn loạn, sợ hãi và tiêu cực) sẽ tự động tiếp quản và nhào nặn cuộc đời họ",
-        "Người đó sẽ tự động trở thành một vị thánh cứu thế"
+        "Vận may là một quyền năng siêu nhiên có thật, thường xuyên quyết định sự thành bại của đa số người trên trần gian này.",
+        "Phép màu là những hiện tượng can thiệp thần thánh phá vỡ hoàn toàn các quy luật vật lý và trật tự vốn có của tự nhiên.",
+        "Chúng không hề tồn tại thật sự, mà chỉ là những từ ngữ do con người tưởng tượng ra để biện minh cho điều mình chưa hiểu.",
+        "Vận may chỉ xuất hiện và mỉm cười với những người biết dâng lễ vật thịnh soạn tại các đền miếu linh thiêng vào ngày rằm."
       ],
       "correctIndex": 2,
-      "explanation": "Tâm trí không chịu để trống: nếu không tự gieo hạt giống mục tiêu, nhịp điệu môi trường bên ngoài sẽ tràn vào gieo rắc cỏ dại và sự buông thả.",
-      "id": "q14"
-    },
-    {
-      "question": "Thông điệp triết học sâu sắc nhất của chương 'Nhịp điệu thôi miên' đối với sự phát triển cá nhân là gì?",
-      "options": [
-        "Số phận của con người đã được an bài từ trước, cố gắng cũng vô ích",
-        "Thói quen là định mệnh: hãy cẩn trọng với từng ý nghĩ lặp lại mỗi ngày, vì vũ trụ sẽ dùng nhịp điệu thôi miên biến chúng thành bản án hoặc kỳ tích trọn đời",
-        "Thôi miên là một trò ảo thuật giải trí không nên tin theo",
-        "Cần phải tránh xa thiên nhiên vì các quy luật vũ trụ đều chống lại con người"
-      ],
-      "correctIndex": 1,
-      "explanation": "Ý nghĩa tối thượng: Nhịp điệu thôi miên là bộ máy khuếch đại thói quen; làm chủ thói quen suy nghĩ chính là nắm giữ chiếc chìa khóa định đoạt số phận.",
-      "id": "q15"
+      "explanation": "Con Quỷ khẳng định không có quy luật tự nhiên nào gọi là vận may hay phép màu; mọi sự tồn tại đều có nguyên nhân xác định, và con người dùng hai từ đó như một cái cớ ngụy biện cho sự thiếu hiểu biết của mình."
     }
   ]
 }

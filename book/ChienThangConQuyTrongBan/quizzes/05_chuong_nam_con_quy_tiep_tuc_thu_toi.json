@@ -5,184 +5,184 @@
   "totalQuestions": 15,
   "questions": [
     {
+      "id": "q1",
       "question": "Trong cuộc phỏng vấn ở Chương Năm, điều gì là thứ duy nhất khiến Con Quỷ thực sự khiếp sợ?",
       "options": [
-        "Những lời nguyền rủa và bùa chú của các pháp sư cổ đại",
-        "Sự thật (Truth) - bởi sự thật giải phóng con người khỏi mọi nỗi sợ hãi mà Quỷ dùng để thống trị",
-        "Sức mạnh cơ bắp và sự giàu có vượt trội của các tỷ phú",
-        "Sự suy tàn của các định chế ngân hàng quốc tế"
+        "Sự thật khách quan, vì nó giúp con người nhận thức đúng đắn và tự giải thoát khỏi xiềng xích của nỗi sợ hãi.",
+        "Sức mạnh quân sự và vũ khí hủy diệt hàng loạt của các siêu cường quốc có thể xóa sổ các cơ sở tôn giáo.",
+        "Sự phát triển vượt bậc của nền kinh tế thị trường cùng sự gia tăng nhanh chóng của các tập đoàn tài chính.",
+        "Các nghi lễ tôn giáo huyền bí cùng những câu thần chú trừ tà cổ xưa được truyền lại qua nhiều thế hệ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Napoleon Hill chỉ rõ rằng Con Quỷ không sợ con người có cuộc đời ngắn ngủi, mà chỉ sợ duy nhất Sự Thật vì sự thật giúp con người giải thoát khỏi mọi nỗi sợ hãi mà Quỷ dùng để thống trị."
+    },
+    {
+      "id": "q2",
+      "question": "Con Quỷ thừa nhận bản chất thực sự của nó trong vũ trụ là gì khi đối đáp với Napoleon Hill?",
+      "options": [
+        "Một thực thể siêu nhiên có cánh đen và sừng nhọn ngự trị trong lòng đất để trừng phạt linh hồn kẻ xấu.",
+        "Một nguyên lý hoặc dạng năng lượng tiêu cực đại diện cho mặt tối, chỉ tồn tại trong tâm trí người sợ hãi.",
+        "Một hiện tượng ảo giác tâm thần do áp lực công việc và căng thẳng xã hội tích tụ lâu ngày tạo thành.",
+        "Một thế lực tâm linh huyền bí ngoài không gian đang tìm cách kiểm soát nền văn minh của loài người."
       ],
       "correctIndex": 1,
-      "explanation": "Napoleon Hill chỉ ra rằng Con Quỷ không sợ con người có cuộc đời ngắn ngủi, nhưng sợ Sự Thật vì sự thật giúp con người giải thoát khỏi gông cùm sợ hãi.",
-      "id": "q1"
+      "explanation": "Con Quỷ tự nhận: ta là một nguyên tắc hay một dạng năng lượng thể hiện mặt tiêu cực của mọi vấn đề, và ta chỉ tồn tại trong tâm trí những người sợ hãi chứ không phải con quỷ mang hình hài cụ thể."
     },
     {
-      "question": "Con Quỷ thừa nhận bản chất thực sự của nó trong vũ trụ là gì?",
-      "options": [
-        "Một sinh vật có sừng, đuôi nhọn và cầm đinh ba sống dưới ngọn lửa dung nham",
-        "Một người ngoài hành tinh sở hữu công nghệ tâm linh siêu việt",
-        "Một nguyên tắc hoặc một dạng năng lượng tiêu cực đại diện cho mặt tối của vạn vật, chỉ tồn tại trong tâm trí những người sợ hãi",
-        "Một sản phẩm hư cấu hoàn toàn không có bất kỳ tác động nào lên thực tế vật chất"
-      ],
-      "correctIndex": 2,
-      "explanation": "Con Quỷ tự nhận: 'Ta là một nguyên tắc hay một dạng năng lượng thể hiện mặt tiêu cực của mọi vấn đề... và ta chỉ tồn tại trong tâm trí những người sợ hãi'.",
-      "id": "q2"
-    },
-    {
+      "id": "q3",
       "question": "Vũ khí chết người nào được Con Quỷ gọi là 'cạm bẫy có thể giết chết cả những gã khổng lồ lẫn lũ tí hon'?",
       "options": [
-        "Sự đe dọa vũ lực trực diện",
-        "Sự tâng bốc (flattery) và nịnh hót",
-        "Sự nghèo khổ cùng cực",
-        "Bệnh tật mãn tính không thuốc chữa"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ thừa nhận 'tâng bốc' là một trong những vũ khí nguy hiểm nhất vì nó ru ngủ và đánh bại cả những nhân vật kiệt xuất lẫn người bình thường.",
-      "id": "q3"
-    },
-    {
-      "question": "Tại sao sự tâng bốc lại có sức mạnh thao túng ghê gớm đối với tâm lý con người?",
-      "options": [
-        "Vì nó mang lại lợi ích tài chính tức thì cho người được nghe",
-        "Vì nó kích thích các hormone làm tăng tuổi thọ sinh học",
-        "Vì nó đánh trúng vào hai điểm yếu phổ biến và sâu xa nhất của bản ngã: lòng kiêu hãnh và tính tự cao",
-        "Vì nó là một yêu cầu bắt buộc trong tất cả các hợp đồng pháp lý"
+        "Sự đe dọa vũ lực trực diện từ các thế lực cai trị hà khắc nhằm bẻ gãy hoàn toàn ý chí phản kháng tự nhiên.",
+        "Sự bần cùng hóa về mặt tài chính khiến con người kiệt quệ sức lực và rơi vào cảnh túng quẫn không lối thoát.",
+        "Thói tâng bốc và nịnh hót tinh vi đánh trúng vào hai tử huyệt của bản ngã là lòng kiêu hãnh và tính tự cao.",
+        "Những cơn bạo bệnh bất ngờ xảy đến làm suy kiệt thể chất và khiến nạn nhân mất hết niềm tin vào cuộc đời."
       ],
       "correctIndex": 2,
-      "explanation": "Con Quỷ phân tích: tâng bốc đánh trực diện vào 'lòng kiêu hãnh và tính tự cao' - thứ dây trói vô hình khiến nạn nhân mất cảnh giác và dần buông lỏng tự chủ.",
-      "id": "q4"
+      "explanation": "Con Quỷ thừa nhận tâng bốc là cạm bẫy vô giá, thứ vũ khí hữu ích nhất có thể hạ gục cả vĩ nhân lẫn người bình thường vì nó ru ngủ sự cảnh giác và bẫy con người vào thói buông thả."
     },
     {
-      "question": "Ai là những người MIỄN NHIỄM hoặc khó bị sa vào bẫy tâng bốc của Con Quỷ nhất?",
+      "id": "q4",
+      "question": "Tại sao sự tâng bốc lại có sức mạnh thao túng ghê gớm đối với tâm lý con người như Con Quỷ thú nhận?",
       "options": [
-        "Những người không buông thả, có tư duy độc lập và hiểu rõ giá trị thực chất của bản thân",
-        "Những người sở hữu khối tài sản khổng lồ và không cần thêm lời khen",
-        "Những người hoài nghi tất cả mọi người và sống hoàn toàn cô độc",
-        "Những người theo đuổi lối sống khổ hạnh và từ bỏ mọi quan hệ xã hội"
+        "Vì nó mang lại những lợi ích vật chất tức thì giúp nạn nhân dễ dàng thăng tiến nhanh trong sự nghiệp.",
+        "Vì nó thúc đẩy não bộ sản sinh hormone hưng phấn và giúp cải thiện đáng kể sức khỏe thể chất con người.",
+        "Vì nó là chuẩn mực giao tiếp bắt buộc trong các nghi thức ngoại giao chuyên nghiệp tại các định chế lớn.",
+        "Vì nó đánh trúng điểm yếu phổ biến nhất của bản ngã: kích động lòng kiêu hãnh và ru ngủ sự cảnh giác lý trí."
+      ],
+      "correctIndex": 3,
+      "explanation": "Con Quỷ giải thích: tâng bốc có sức lôi kéo ghê gớm vì đánh trúng hai điểm yếu phổ biến nhất của con người là lòng kiêu hãnh và tính tự cao, biến chúng thành sợi dây trói chặt nạn nhân."
+    },
+    {
+      "id": "q5",
+      "question": "Theo lời Con Quỷ, nhóm người nào có khả năng MIỄN NHIỄM hoặc khó bị sa vào bẫy tâng bốc nhất?",
+      "options": [
+        "Những người không buông thả, có tư duy độc lập và luôn nhận thức rõ giá trị thực chất của bản thân.",
+        "Những người giàu có sở hữu khối tài sản kết xù nên không còn tha thiết với bất kỳ lời tán dương nào.",
+        "Những người có tính hoài nghi cực đoan, luôn sống khép kín và từ chối mọi sự tương tác trong xã hội.",
+        "Những học giả uyên bác có học vị tiến sĩ và thông thạo các nguyên lý tâm lý học hành vi hiện đại."
       ],
       "correctIndex": 0,
-      "explanation": "Con Quỷ nói: 'Những người không buông thả không dễ dàng bị tâng bốc.' Họ biết rõ năng lực và giới hạn của mình nên lời nịnh hót không làm họ mù quáng.",
-      "id": "q5"
+      "explanation": "Con Quỷ khẳng định những người không buông thả không dễ bị tâng bốc vì họ làm chủ được tâm trí, tự đánh giá đúng năng lực và giới hạn của mình nên không bị những lời nịnh nọt làm mù quáng."
     },
     {
-      "question": "Napoleon Hill giải thích vì sao ông liên tục lặp lại các câu hỏi mấu chốt với Con Quỷ?",
+      "id": "q6",
+      "question": "Napoleon Hill giải thích vì sao ông liên tục lặp lại các câu hỏi mấu chốt khi chất vấn Con Quỷ?",
       "options": [
-        "Vì ông bị đãng trí và không ghi chép kịp các câu trả lời",
-        "Sự lặp lại tạo nên sức mạnh giúp độc giả khắc sâu và đối chiếu lời thú tội của Quỷ với chính trải nghiệm sống của bản thân họ",
-        "Để kéo dài thời gian phỏng vấn nhằm kiếm thêm tiền nhuận bút",
-        "Vì Con Quỷ cố tình trả lời bằng nhiều thứ tiếng khác nhau"
+        "Vì tác giả muốn kéo dài thời gian phỏng vấn nhằm thu thập thêm tài liệu để xuất bản nhiều cuốn sách.",
+        "Vì sự nhắc lại tạo nên sức mạnh giúp độc giả khắc sâu và đối chiếu lời Quỷ với chính trải nghiệm sống.",
+        "Vì Con Quỷ liên tục thay đổi lời khai khiến người phỏng vấn hoang mang và không kịp ghi chép chi tiết.",
+        "Vì tác giả muốn chứng minh sự vượt trội về tài hùng biện của mình trước mặt Con Quỷ trong cuộc đối thoại."
       ],
       "correctIndex": 1,
-      "explanation": "Hill khẳng định: 'Sự nhắc lại có sức mạnh riêng của nó... để các nạn nhân có thể xác nhận cuộc phỏng vấn bằng chính trải nghiệm của họ.'",
-      "id": "q6"
+      "explanation": "Hill nhấn mạnh rằng sự lặp lại có sức mạnh riêng, giúp độc giả khắc sâu các luận điểm cốt tử và dùng chính trải nghiệm thực tế của bản thân để xác minh tính chính xác của cuộc phỏng vấn."
     },
     {
-      "question": "Theo lời Con Quỷ, các 'đại lý' của nó thường sử dụng sự tâng bốc trong các mối quan hệ quốc tế và xã hội nhằm mục đích gì?",
+      "id": "q7",
+      "question": "Theo lời thú tội của Con Quỷ, các 'đại lý' của nó dùng sự tâng bốc trong xã hội nhằm mục đích gì?",
       "options": [
-        "Thiết lập nền hòa bình lâu dài giữa các cường quốc",
-        "Khuyến khích hoạt động thương mại tự do và mở cửa biên giới",
-        "Len lỏi vào sự tự tin của đối phương để khai thác bí mật và kích động xung đột, chiến tranh",
-        "Tạo dựng hình ảnh từ thiện cho các nhà lãnh đạo độc tài"
+        "Xây dựng các tổ chức từ thiện quốc tế nhằm cải thiện điều kiện sống cho những người nghèo khổ nhất.",
+        "Thúc đẩy các hiệp định thương mại tự do và tạo sự tin tưởng tuyệt đối giữa các nhà lãnh đạo tài chính.",
+        "Len lỏi vào sự tự tin của đối phương để khai thác thông tin cơ mật và kích động xung đột, chiến tranh.",
+        "Giúp các chính trị gia học cách lắng nghe và dung hòa các quan điểm đối lập trong bộ máy nhà nước."
       ],
       "correctIndex": 2,
-      "explanation": "Con Quỷ tiết lộ tâng bốc là cạm bẫy chủ yếu để len lỏi vào sự tự tin của các bên, từ đó thu thập tin tức và phát động chiến tranh, mâu thuẫn.",
-      "id": "q7"
+      "explanation": "Con Quỷ tiết lộ rằng tâng bốc là cạm bẫy chủ yếu mà các đại lý của nó dùng để thâm nhập vào sự tự tin của con người, từ đó thu thập tin tức cần thiết nhằm kích động thù hằn và phát động chiến tranh."
     },
     {
-      "question": "Thái độ của Con Quỷ như thế nào khi Napoleon Hill bắt đầu bày tỏ sự tự đắc về việc khống chế được nó?",
+      "id": "q8",
+      "question": "Khi Napoleon Hill tỏ ý tự đắc vì đã khống chế được Con Quỷ, Con Quỷ đã lập tức phản ứng ra sao?",
       "options": [
-        "Nó sụp đổ hoàn toàn và biến mất vào hư vô",
-        "Nó lập tức dùng chính mưu châm chọc và tâng bốc ngược lại để kích thích lòng tự kiêu của Hill, hy vọng ông rơi vào bẫy của nó",
-        "Nó đe dọa sẽ ám hại gia đình ông bằng tai nạn",
-        "Nó đề nghị chia sẻ một nửa của cải thế gian cho Hill"
+        "Nó tỏ ra sợ hãi tột cùng và van xin tác giả dừng cuộc thẩm vấn để bảo toàn bí mật của vương quốc bóng tối.",
+        "Nó đe dọa sẽ dùng quyền năng siêu nhiên để hủy hoại sức khỏe thể chất cùng sự nghiệp của gia đình tác giả.",
+        "Nó đề nghị trao tặng cho tác giả một kho báu vật chất khổng lồ nhằm mua chuộc sự im lặng của ông suốt đời.",
+        "Nó dùng chính đòn tâng bốc ngược lại để kích thích lòng tự kiêu của Hill, hy vọng ông rơi vào bẫy buông thả."
       ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ lập tức cảnh báo rằng lời thú tội này sẽ đẩy lòng kiêu căng của Hill lên cực điểm, mưu toan dùng chính sự tâng bốc để gài bẫy tác giả.",
-      "id": "q8"
+      "correctIndex": 3,
+      "explanation": "Con Quỷ lập tức cảnh báo rằng cuộc thẩm vấn sẽ đẩy lòng kiêu căng của Hill lên đến cực điểm, toan dùng chính sự tâng bốc để gài bẫy tác giả vào chiếc lưới tự cao tự đại."
     },
     {
-      "question": "Hill đã đáp trả lại đòn tâm lý 'kích thích lòng tự kiêu' của Con Quỷ bằng nguyên tắc nào?",
+      "id": "q9",
+      "question": "Napoleon Hill đã đáp trả lại mưu toan kích thích lòng tự kiêu của Con Quỷ bằng nguyên tắc nào?",
       "options": [
-        "Ông khẳng định sự hiểu biết chân chính không vấy bẩn bởi thói khoe khoang tầm thường, và sự thật không sợ bất kỳ lời nhạo báng nào",
-        "Ông lập tức xin lỗi Con Quỷ và rút lại câu hỏi trước đó",
-        "Ông tuyên bố bản thân là người hoàn hảo không bao giờ phạm sai lầm",
-        "Ông dùng những lời thóa mạ nặng nề để dằn mặt Con Quỷ"
+        "Hiểu biết chân chính không vấy bẩn bởi sự khoe khoang tầm thường, và sự thật là thứ duy nhất kháng cự nhạo báng.",
+        "Thừa nhận rằng bản thân là một vĩ nhân kiệt xuất có trí tuệ siêu phàm vượt qua mọi cạm bẫy trần tục của Con Quỷ.",
+        "Lập tức hạ giọng xin lỗi Con Quỷ và hứa sẽ không bao giờ nhắc lại những câu hỏi mang tính khiêu khích nữa.",
+        "Sử dụng những lời thóa mạ nặng nề và các tín hiệu tôn giáo huyền bí nhằm trấn áp hoàn toàn sự ngạo mạn của Quỷ."
       ],
       "correctIndex": 0,
-      "explanation": "Hill tỉnh táo đáp: 'Thứ hiểu biết ta dùng để khống chế ngươi không tự vấy bẩn nó với những đam mê tầm thường của thói khoe khoang. Sự thật là thứ duy nhất kháng cự lại nhạo báng.'",
-      "id": "q9"
+      "explanation": "Hill khẳng định: thứ hiểu biết dùng để khống chế Quỷ không tự vấy bẩn với những đam mê tầm thường của thói khoe khoang, và sự thật là thứ duy nhất trên đời có thể kháng cự lại sự nhạo báng."
     },
     {
-      "question": "Con Quỷ sử dụng ham muốn tình dục và sự tâng bốc như một cặp bài trùng như thế nào để khống chế con người?",
+      "id": "q10",
+      "question": "Con Quỷ giải thích về mối liên hệ giữa nghệ thuật tâng bốc và sự quyến rũ tình dục như thế nào?",
       "options": [
-        "Dùng tình dục để hủy hoại thể lực và dùng tâng bốc để phá hủy tài chính",
-        "Dùng tâng bốc để mở đường cho sự quyến rũ tình dục, hoặc dùng tâng bốc để thao túng những người không bị hấp dẫn bởi tình dục",
-        "Ép buộc con người phải sống độc thân suốt đời để gia tăng nỗi sợ hãi",
-        "Thay thế hoàn toàn nhu cầu tình cảm bằng các cuộc thi sắc đẹp"
+        "Tình dục luôn là công cụ duy nhất có thể thao túng con người, còn tâng bốc chỉ là một yếu tố phụ họa mờ nhạt.",
+        "Tâng bốc đánh vào lòng tự cao của đối phương và phát huy tác dụng cực mạnh khi sức hút tình dục thất bại.",
+        "Phụ nữ không bao giờ sử dụng tâng bốc mà chỉ dựa hoàn toàn vào nhan sắc tự nhiên để chi phối tâm lý đàn ông.",
+        "Sự kết hợp giữa tâng bốc và tình dục chỉ có tác dụng đối với những người già cả chứ không ảnh hưởng giới trẻ."
       ],
       "correctIndex": 1,
-      "explanation": "Con Quỷ giải thích tâng bốc là cạm bẫy chính giúp quyến rũ, và phụ nữ cũng dùng nó để thao túng đàn ông, đặc biệt với những người miễn nhiễm với sức hút tình dục.",
-      "id": "q10"
+      "explanation": "Con Quỷ chỉ ra rằng tâng bốc là cạm bẫy hữu hiệu nhất mà phụ nữ dùng để kiểm soát đàn ông (bán cho người đàn ông lòng tự cao của chính anh ta), đặc biệt phát huy tác dụng khi sức hấp dẫn tình dục không hiệu quả."
     },
     {
-      "question": "Một người có thói quen 'tự tâng bốc' (tự lừa dối bản thân về khả năng của mình) sẽ đối mặt với rủi ro gì?",
+      "id": "q11",
+      "question": "Theo lời Con Quỷ trong Chương Năm, tại sao thất bại lại là một trong những mưu kế hiệu quả nhất của nó?",
       "options": [
-        "Trở nên thành công vượt bậc nhờ ảo tưởng sức mạnh",
-        "Đóng kín tâm trí trước những góp ý chân thành, mất liên lạc với thực tế và dễ dàng trượt dài vào thói buông thả",
-        "Được xã hội tôn vinh như một thiên tài tự tin",
-        "Tự động tích lũy được tư duy phản biện sắc bén"
-      ],
-      "correctIndex": 1,
-      "explanation": "Tự tâng bốc khiến con người tự cao, không còn nỗ lực tự rèn luyện hay học hỏi từ sai lầm, trở thành mồi ngon cho thói buông thả.",
-      "id": "q11"
-    },
-    {
-      "question": "Theo cuộc trò chuyện, 'địa ngục' thực sự theo quan điểm được phơi bày trong cuốn sách nằm ở đâu?",
-      "options": [
-        "Ở một hố sâu vô tận dưới lòng đất chứa đầy dung nham sau khi con người qua đời",
-        "Ở trên các hành tinh xa xôi trong hệ mặt trời",
-        "Ngay trên trần gian này, trong tâm trí của những người bị đày đọa bởi sợ hãi, buông thả, nghèo khó và tuyệt vọng",
-        "Chỉ là một câu chuyện cổ tích không hề có thực dưới bất kỳ hình thức nào"
+        "Vì thất bại tiêu diệt hoàn toàn nguồn vốn kinh doanh khiến nạn nhân không bao giờ có cơ hội khởi nghiệp lại.",
+        "Vì thất bại khiến các định chế tài chính quốc tế ngừng cho vay và đẩy xã hội vào khủng hoảng kéo dài vô tận.",
+        "Vì nó phá vỡ tinh thần, tự tin và phần lớn mọi người sẽ buông thả ngay sau khi vấp ngã từ hai đến ba lần.",
+        "Vì luật pháp tự nhiên quy định rằng bất cứ ai thất bại một lần thì chắc chắn sẽ thất bại trong suốt cuộc đời."
       ],
       "correctIndex": 2,
-      "explanation": "Con Quỷ và tác giả khẳng định địa ngục hiển hiện ngay trên mặt đất, do chính tâm trí con người tạo ra khi đầu hàng nỗi sợ hãi và buông thả.",
-      "id": "q12"
+      "explanation": "Con Quỷ tuyên bố thất bại phá vỡ tinh thần, hủy hoại sự tự tin và dập tắt lòng nhiệt tình; chưa tới một phần mười người tiếp tục cố gắng sau hai đến ba lần thất bại, còn lại đều buông thả."
     },
     {
-      "question": "Tại sao Con Quỷ lại khẳng định rằng những người biết sử dụng trí tuệ của mình thì Quỷ hoàn toàn bất lực trước họ?",
+      "id": "q12",
+      "question": "Sự khác biệt căn bản giữa người buông thả và người kiên định khi đối diện với thất bại là gì?",
       "options": [
-        "Vì Chúa trực tiếp bảo vệ họ bằng lá chắn thiên thần vô hình",
-        "Vì Quỷ chỉ có thể tiếp cận qua những khoảng trống của sự sợ hãi, mê tín và thiếu suy nghĩ; người kiểm soát được tâm trí không để lại khe hở nào cho Quỷ thâm nhập",
-        "Vì những người này luôn mang theo các vật phẩm phong thủy may mắn",
-        "Vì Quỷ ký hiệp ước không xâm phạm với những người có bằng cấp"
+        "Người buông thả tìm đến sự giúp đỡ của chính phủ, còn người kiên định luôn vay mượn từ bạn bè và người thân.",
+        "Người buông thả luôn chấp nhận hoàn cảnh số phận, trong khi người kiên định tìm cách đổ lỗi cho môi trường sống.",
+        "Người buông thả dễ dàng thành công ở lần thử tiếp theo, còn người kiên định phải trải qua nhiều năm đau khổ.",
+        "Người kiên định nhận ra hạt mầm thành công tương đương trong thất bại tạm thời, còn kẻ buông thả coi đó là cớ từ bỏ."
       ],
-      "correctIndex": 1,
-      "explanation": "Tâm trí tự chủ và có mục đích xác định không có chỗ cho sự do dự, sợ hãi hay buông thả - những công cụ duy nhất mà Quỷ sở hữu.",
-      "id": "q13"
+      "correctIndex": 3,
+      "explanation": "Mọi thất bại đều mang trong nó hạt mầm của thành công tương đương. Người không buông thả coi đó là bài học bước đệm, còn kẻ buông thả lấy đó làm cái cớ để thoái thác nỗ lực."
     },
     {
-      "question": "Khi một người khen ngợi người khác một cách chân thành thay vì tâng bốc giả tạo, điều đó khác biệt ở điểm nào theo triết lý của sách?",
+      "id": "q13",
+      "question": "Con Quỷ định nghĩa như thế nào về 'tuyên truyền' - thứ vũ khí lợi hại bậc nhất mà nó sử dụng?",
       "options": [
-        "Lời khen chân thành dựa trên sự thật và công nhận giá trị khách quan, còn tâng bốc dựa trên sự dối trá nhằm thao túng tư lợi",
-        "Khen chân thành luôn đi kèm tiền thưởng, còn tâng bốc chỉ dùng lời nói",
-        "Không có điểm khác biệt, mọi lời khen ngợi đều là công cụ của Con Quỷ",
-        "Lời khen chân thành chỉ dành cho người thân trong gia đình"
+        "Là bất cứ mưu kế nào tác động đến tâm trí con người mà họ không hề hay biết nguồn gốc hay sự tác động đó.",
+        "Là những bản tin thời sự công khai được phát sóng trên hệ thống đài phát thanh quốc gia vào mỗi buổi tối.",
+        "Là những tài liệu giảng dạy chính thống được biên soạn bởi các chuyên gia giáo dục hàng đầu tại đại học.",
+        "Là những chiến dịch quảng bá sản phẩm thương mại được đăng ký bản quyền minh bạch với cơ quan nhà nước."
       ],
       "correctIndex": 0,
-      "explanation": "Tâng bốc mang tính vụ lợi, kích thích bản ngã mù quáng của đối phương để thao túng, trong khi sự công nhận chân thực bắt nguồn từ sự thật và tinh thần xây dựng.",
-      "id": "q14"
+      "explanation": "Con Quỷ định nghĩa: Tuyên truyền là bất cứ mưu kế, kế hoạch hay biện pháp nào được sử dụng để tác động đến con người mà họ không hề hay biết rằng mình đang bị tác động hay nguồn gốc tác động ở đâu."
     },
     {
-      "question": "Bài học lớn nhất mà người đọc có thể rút ra từ việc Con Quỷ 'tiếp tục thú tội' trong chương này là gì?",
+      "id": "q14",
+      "question": "Theo Con Quỷ, tại sao người giàu có đột ngột lại dễ trở thành nạn nhân của thói buông thả hơn?",
       "options": [
-        "Muốn thành công phải học cách nịnh bợ cấp trên khéo léo hơn",
-        "Để không bị thao túng, con người phải cảnh giác cao độ trước những lời tâng bốc vuốt ve bản ngã và liên tục rà soát động cơ của chính mình",
-        "Nên tránh xa mọi mối quan hệ xã hội để không bị ai khen chê",
-        "Chỉ cần có niềm tin tôn giáo thì không kẻ nào có thể lừa dối được mình"
+        "Vì họ không còn nhận được sự hỗ trợ từ các tổ chức tín dụng và quỹ đầu tư mạo hiểm trên thị trường tài chính.",
+        "Vì họ thiếu kỷ luật tự giác rèn luyện từ lao động, dễ bị Quỷ lôi kéo qua bội thực, tình dục, rượu và cờ bạc.",
+        "Vì khối tài sản quá lớn khiến họ bị các đối thủ cạnh tranh dùng vũ lực đe dọa và tước đoạt toàn bộ tự do.",
+        "Vì chính phủ luôn ban hành các mức thuế thu nhập đặc biệt cao khiến họ mất hết động lực phấn đấu trong đời."
       ],
       "correctIndex": 1,
-      "explanation": "Cốt lõi bài học: tự nhận thức bản thân, không để lòng kiêu hãnh bị lung lạc bởi sự tâng bốc xảo quyệt, luôn giữ tâm trí tỉnh táo và độc lập.",
-      "id": "q15"
+      "explanation": "Người giàu xổi hoặc thừa kế đột ngột thường thiếu kỷ luật tự giác (thứ chỉ tôi luyện qua lao động kiên trì), do đó nhanh chóng bị Quỷ khống chế thông qua thói buông thả trong ăn uống, tình dục, cờ bạc và rượu chè."
+    },
+    {
+      "id": "q15",
+      "question": "Nguyên tắc cốt lõi nhất để tự bảo vệ bản thân và phá vỡ vĩnh viễn thói quen buông thả là gì?",
+      "options": [
+        "Tích lũy một lượng của cải vật chất thật lớn để không bao giờ phải lo lắng về những biến động của thị trường.",
+        "Tìm kiếm sự bảo hộ của các giáo phái tâm linh để cầu xin sự che chở trước những thử thách nghiệt ngã của đời.",
+        "Xác định thật rõ mục tiêu cần làm, tập thói quen ra quyết định dứt khoát và không để suy nghĩ dở dang trong tâm trí.",
+        "Lựa chọn lối sống an phận thủ thường, tránh mọi cạnh tranh và thử thách phức tạp trong công việc hằng ngày."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi Hill yêu cầu đúc kết 10 biện pháp chống buông thả thành một công thức duy nhất, Con Quỷ thừa nhận: Hãy xác định thật rõ mọi việc cần làm và không bao giờ để suy nghĩ dở dang trong tâm trí, tập thói quen ra quyết định rõ ràng trong mọi việc."
     }
   ]
 }

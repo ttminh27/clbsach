@@ -1,188 +1,188 @@
 {
   "bookId": "ViTuSiBanChiecFerrari",
   "chapterId": "chuong_05",
-  "chapterTitle": "Chương 5: Môn Sinh Của Trí Tuệ",
+  "chapterTitle": "Chương 5: Môn Đệ Của Các Nhà Hiền Triết",
   "totalQuestions": 15,
   "questions": [
     {
       "id": "q1",
-      "question": "Câu chuyện ngụ ngôn bí truyền của Triết gia Raman gồm có bao nhiêu biểu tượng chính đại diện cho 7 nguyên tắc vàng?",
+      "question": "Câu danh ngôn mở đầu chương của triết gia Alfred Lord Whitehead gửi gắm thông điệp gì về ước mơ?",
       "options": [
-        "12 biểu tượng tương ứng với 12 cung hoàng đạo phương Tây.",
-        "5 biểu tượng: Kim, Mộc, Thủy, Hỏa, Thổ.",
-        "3 biểu tượng: Chiếc xe Ferrari, Thanh kiếm samurai và Dãy núi tuyết Himalaya.",
-        "7 biểu tượng: Khu vườn tuyệt đẹp, Ngọn hải đăng, Võ sĩ Sumo, Chiếc khố bằng dây cáp, Chiếc đồng hồ bấm giờ, Những bông hồng, Con đường kim cương."
+        "Mơ ước của những kẻ mộng mơ vĩ đại không bao giờ hoàn thành trọn vẹn, bởi vì chúng luôn được nâng lên những tầm cao mới.",
+        "Ước mơ chỉ là những ảo tưởng hão huyền nếu người mơ mộng không có đủ tiềm lực tài chính vững mạnh để biến chúng thành hiện thực.",
+        "Mọi giấc mơ thời tuổi trẻ sẽ dần phai nhạt và biến mất khi con người phải đối mặt với những lo toan cơm áo gạo tiền hàng ngày.",
+        "Kẻ có nhiều ước mơ nhất thường là những người thiếu thực tế và dễ gặp phải thất bại nặng nề nhất trên con đường sự nghiệp."
       ],
-      "correctIndex": 3,
-      "explanation": "Câu chuyện ngụ ngôn kết nối khéo léo 7 hình ảnh biểu tượng thành một chuỗi sự kiện kỳ ảo, giúp người học dễ dàng nhớ trọn bộ 7 nguyên tắc khai sáng."
+      "correctIndex": 0,
+      "explanation": "Câu nói trích dẫn ở đầu chương: 'Mơ ước của những kẻ mộng mơ vĩ đại không bao giờ được hoàn thành, bởi chúng luôn được nâng lên những tầm cao mới' của Alfred Lord Whitehead."
     },
     {
       "id": "q2",
-      "question": "Trong câu chuyện ngụ ngôn, hình ảnh 'Khu vườn rực rỡ ngập tràn muôn hoa thơm ngát' tượng trưng cho điều gì?",
+      "question": "Tâm trạng và dòng suy nghĩ của John khi ngồi lắng nghe Julian chia sẻ trong văn phòng lúc tám giờ tối là gì?",
       "options": [
-        "Sự phong phú của tài sản vật chất và bất động sản mà con người tích lũy.",
-        "Tâm trí con người: Mảnh đất màu mỡ cần được canh giữ, chăm sóc và gieo trồng những hạt giống tư duy tích cực mỗi ngày.",
-        "Một môi trường làm việc lý tưởng không có bất kỳ áp lực công việc nào.",
-        "Khu công viên giải trí công cộng tại trung tâm thủ đô New Delhi."
+        "John cảm thấy bực bội và sốt ruột vì câu chuyện dài dòng đang làm gián đoạn việc soạn thảo hồ sơ vụ án khẩn cấp vào sáng mai.",
+        "John nhận ra tâm hồn mình đã trở nên hoen gỉ, nhớ lại niềm say mê thuở trẻ và tự hỏi liệu có thể làm mới vận mệnh của bản thân.",
+        "John hoàn toàn hoài nghi và cho rằng Julian chỉ đang thổi phồng những trải nghiệm bình thường thành câu chuyện huyền bí hão huyền.",
+        "John cảm thấy ghen tị trước cuộc sống tự do tự tại của bạn mình và muốn vay tiền của Julian để đi du lịch khám phá phương Đông."
       ],
       "correctIndex": 1,
-      "explanation": "Khu vườn là tâm trí; nếu bạn không gieo hoa thơm (suy nghĩ tích cực), cỏ dại (lo âu, tiêu cực) sẽ tự động mọc đầy và phá hủy cuộc đời bạn."
+      "explanation": "John nhận thấy tâm hồn mình đã hoen gỉ; anh tự hỏi niềm đam mê thuở trẻ đã đi đâu khi những điều giản đơn từng khiến anh vui sướng, và nghĩ đã đến lúc làm mới vận mệnh mình."
     },
     {
       "id": "q3",
-      "question": "Hình ảnh 'Ngọn hải đăng cao vút đứng sừng sững giữa khu vườn' biểu thị cho nguyên tắc nào?",
+      "question": "Yếu tố nào ở Julian đã giúp anh nhanh chóng được cộng đồng Sivana quý mến và đón nhận như một thành viên gia đình?",
       "options": [
-        "Biểu tượng của sự cô độc và kiêu ngạo của một người thành đạt.",
-        "Công trình kiến trúc phục vụ cho các tàu thuyền đi biển.",
-        "Theo đuổi mục đích sống (Purpose): Ngọn đèn soi đường chỉ lối, dẫn dắt con người vượt qua bão táp cuộc đời để cập bến bình an.",
-        "Công cụ đo lường thời tiết và dự báo thiên tai của tu viện."
+        "Khả năng cung cấp tài chính dồi dào và những món quà công nghệ hiện đại mà anh đã cất công mang từ phương Tây sang tặng làng.",
+        "Sức mạnh thể chất vượt trội giúp anh hoàn thành xuất sắc các công việc lao động nặng nhọc nhất trên các sườn núi dốc cheo leo.",
+        "Niềm khao khát kiến thức mãnh liệt kết hợp cùng tư duy sắc bén được tôi luyện qua nhiều năm tranh tụng tại các phiên tòa lớn.",
+        "Kỹ năng chữa bệnh bằng y học hiện đại giúp anh điều trị dứt điểm các bệnh lý xương khớp thường gặp cho các già làng Sivana."
       ],
       "correctIndex": 2,
-      "explanation": "Ngọn hải đăng là mục đích cuộc đời; sống có mục đích rõ ràng giúp con người không bao giờ bị lạc lối giữa biển đời đầy biến động."
+      "explanation": "Julian kể rằng niềm khao khát kiến thức, kết hợp với tư duy sắc bén mài giũa qua nhiều năm chiến đấu trong các phiên tòa, đã khiến anh trở thành thành viên danh dự được yêu quý trong gia đình Sivana."
     },
     {
       "id": "q4",
-      "question": "Chi tiết 'Một võ sĩ Sumo Nhật Bản to lớn nặng 400 pound bước ra từ ngọn hải đăng' tượng trưng cho khái niệm gì?",
+      "question": "Mối quan hệ truyền dạy tri thức giữa Yogi Raman và môn đệ Julian Mantle được miêu tả mang tính chất như thế nào?",
       "options": [
-        "Hình phạt thể xác dành cho những môn sinh không hoàn thành bài tập thiền định.",
-        "Môn thể thao võ thuật truyền thống được cư dân Sivana yêu thích nhất.",
-        "Triết lý Kaizen - Sự hoàn thiện và làm chủ bản thân không ngừng nghỉ thông qua việc rèn luyện Thân - Tâm - Trí mỗi ngày.",
-        "Sự xâm lược của văn hóa Nhật Bản vào nền văn minh dãy Himalaya."
+        "Một mối quan hệ hợp đồng đào tạo chuyên nghiệp với những điều khoản khắt khe về việc bảo mật thông tin pháp lý của tu viện.",
+        "Mối quan hệ thứ bậc nghiêm ngặt nơi người học trò phải phục tùng tuyệt đối và không bao giờ được phép đặt câu hỏi chất vấn thầy.",
+        "Một tình bạn xã giao bình thường giữa hai luật sư từng trải muốn tìm kiếm sự đồng cảm sau những cú sốc thất bại trên thương trường.",
+        "Yogi Raman giống như một người cha nhân từ hơn là một người thầy, luôn sẵn lòng trút hết vốn tri thức vô giá truyền lại cho anh."
       ],
-      "correctIndex": 2,
-      "explanation": "Võ sĩ Sumo tượng trưng cho sức mạnh thể chất và tinh thần phi thường được tôi luyện qua quá trình kỷ luật hoàn thiện bản thân liên tục (Kaizen)."
+      "correctIndex": 3,
+      "explanation": "Nhà hiền triết trở nên giống như một người cha của Julian hơn là một người thầy dù họ chỉ cách nhau vài tuổi; Yogi Raman tích lũy tri thức nhiều đời và sẵn lòng chia sẻ tất cả với Julian."
     },
     {
       "id": "q5",
-      "question": "Hình ảnh võ sĩ Sumo mặc 'Chiếc khố được bện bằng những sợi dây cáp màu hồng' đại diện cho nguyên tắc nào?",
+      "question": "Thời điểm và nội dung các buổi học hàng ngày giữa Yogi Raman và Julian tại Sivana diễn ra như thế nào?",
       "options": [
-        "Sức mạnh của tính kỷ luật và ý chí sắt đá (Self-Control & Willpower): Mỗi hành động kỷ luật nhỏ bé như một sợi chỉ mỏng, khi bện lại sẽ tạo thành sợi cáp thép bất khả chiến bại.",
-        "Xu hướng thời trang độc đáo của các võ sĩ thi đấu quốc tế.",
-        "Sự thiếu thốn trang phục truyền thống của người dân miền núi tuyết.",
-        "Một công cụ bảo hộ lao động dành cho công nhân xây dựng ngọn hải đăng."
+        "Bắt đầu từ trước bình minh, Yogi Raman truyền dạy các nguyên tắc cổ xưa về ý nghĩa sống, sự sáng tạo, hạnh phúc và trường thọ.",
+        "Vào lúc giữa trưa nắng gắt, hai người cùng nhau thực hiện các bài tập yoga cường độ cao để thử thách sức chịu đựng thể xác.",
+        "Vào lúc nửa đêm thanh vắng, Yogi Raman đọc các câu thần chú bí truyền bên ngọn lửa thiêng để thanh tẩy nghiệp chướng quá khứ.",
+        "Chỉ diễn ra vào các ngày cuối tuần khi toàn thể cư dân trong làng hoàn thành xong công việc dọn dẹp đền và hái hoa hồng rừng."
       ],
       "correctIndex": 0,
-      "explanation": "Chiếc khố dây cáp nhắc nhở rằng kỷ luật không phải tự nhiên có mà được dệt nên từ hàng ngàn thói quen nhỏ lặp đi lặp lại hàng ngày."
+      "explanation": "Bắt đầu từ trước bình minh, Yogi Raman ngồi cùng vị môn đệ nhiệt tình, đổ đầy tâm trí anh với những hiểu biết sâu sắc về ý nghĩa cuộc sống, sinh lực, sáng tạo, hạnh phúc viên mãn và trường thọ."
     },
     {
       "id": "q6",
-      "question": "Chi tiết võ sĩ Sumo vô tình giẫm phải 'Một chiếc đồng hồ bấm giờ bằng vàng rơi trên mặt đất và bị ngất xỉu' mang ý nghĩa gì?",
+      "question": "Hai nguyên tắc nền tảng luôn song hành mà Julian lĩnh hội được để ngăn chặn sự hỗn loạn và khủng hoảng trong đời là gì?",
       "options": [
-        "Sự nguy hiểm của các đồ vật kim loại nhọn đối với bàn chân trần.",
-        "Báo hiệu thời khắc nghỉ ngơi sau một ngày làm việc mệt nhọc.",
-        "Tôn trọng thời gian (Respecting Your Time): Thời gian là tài sản quý giá nhất, lãng phí thời gian sẽ làm tê liệt toàn bộ tiềm năng và sức mạnh của con người.",
-        "Chiếc đồng hồ vàng là món đồ trang sức đắt tiền nhất trong câu chuyện."
+        "Nguyên tắc tích lũy của cải vật chất dự phòng và việc duy trì các mối quan hệ ngoại giao rộng rãi trong giới thượng lưu xã hội.",
+        "Nguyên tắc tự chủ (Self-control) và tinh thần trách nhiệm với bản thân (Personal responsibility) trong mọi hoàn cảnh sống.",
+        "Nguyên tắc tuyệt đối tuân theo các tín ngưỡng cổ xưa và việc từ bỏ toàn bộ quyền tự quyết cá nhân cho số phận định đoạt.",
+        "Nguyên tắc làm việc không ngừng nghỉ suốt ngày đêm và việc cự tuyệt mọi hoạt động vui chơi giải trí để duy trì kỷ luật thép."
       ],
-      "correctIndex": 2,
-      "explanation": "Đồng hồ vàng là biểu tượng của thời gian; khi con người không biết trân quý thời gian, mọi nội lực (võ sĩ Sumo) đều bị suy sụp và vô hiệu hóa."
+      "correctIndex": 1,
+      "explanation": "Julian hiểu hai nguyên tắc luôn đi đôi với nhau là sự tự chủ và trách nhiệm bản thân sẽ giúp anh không tiếp tục sa vào sự hỗn loạn của các cơn khủng hoảng như cuộc sống phương Tây trước đây."
     },
     {
       "id": "q7",
-      "question": "Hương thơm ngào ngạt của 'Những bông hoa hồng vàng tuyệt đẹp nở rộ bên cạnh' đã đánh thức võ sĩ Sumo dậy, biểu thị cho bài học gì?",
+      "question": "Bên cạnh những giờ đàm đạo triết học, Yogi Raman và Julian thường cùng nhau chia sẻ những khoảnh khắc tĩnh lặng nào?",
       "options": [
-        "Sở thích sưu tầm các loài hoa lạ của võ sĩ Sumo sau khi tỉnh dậy.",
-        "Tác dụng chữa say nắng của tinh dầu hoa hồng trong y học cổ truyền.",
-        "Phụng sự tha nhân vị tha (Selflessly Serving Others): Lòng trắc ẩn và việc giúp đỡ người khác có sức mạnh hồi sinh tâm hồn và mang lại ý nghĩa tối thượng cho sự sống.",
-        "Loài hoa hồng vàng là loài hoa đắt giá nhất trên thị trường xuất khẩu."
+        "Cùng nhau đi săn bắt thú rừng và hái lượm thảo mộc quý hiếm trên các vách đá cheo leo vào những đêm trăng tròn mùa thu mát mẻ.",
+        "Cùng nhau tham gia các buổi biểu diễn vũ đạo truyền thống và ca hát các bài thánh ca cùng với toàn thể cư dân trong làng hoa.",
+        "Ngắm mặt trời đỏ rực mọc trên đồng cỏ, nghỉ ngơi thiền định trong thinh lặng và dạo bước xuyên rừng thông để đàm đạo sự đời.",
+        "Cùng nhau ngồi chép lại các bản thảo kinh viện cổ trên các phiến đá phẳng đặt dọc theo bờ suối chảy xiết ngoài rìa thung lũng."
       ],
       "correctIndex": 2,
-      "explanation": "Bông hoa hồng tượng trưng cho sự phụng sự; khi bạn mở lòng trao đi giá trị cho tha nhân, chính nguồn năng lượng yêu thương đó sẽ nâng đỡ và chữa lành cuộc đời bạn."
+      "explanation": "Hai thầy trò cùng ngắm mặt trời nhô lên từ đồng cỏ xanh chân núi, nghỉ ngơi trong những lần thiền định tận hưởng sự thinh lặng, hoặc dạo bước xuyên rừng thông thảo luận triết học."
     },
     {
       "id": "q8",
-      "question": "Hình ảnh cuối cùng: 'Võ sĩ Sumo tỉnh dậy, nhìn thấy một con đường trải đầy kim cương lấp lánh và vui sướng nhảy múa bước đi' tượng trưng cho điều gì?",
+      "question": "Dấu hiệu chuyển hóa đầu tiên về mặt nhận thức của Julian xuất hiện sau ba tuần tu tập tại Sivana là gì?",
       "options": [
-        "Phần thưởng vật chất khổng lồ mà võ sĩ nhận được sau khi thắng trận đấu.",
-        "Ảo giác xuất hiện trong cơn mê sảng sau khi bị chấn thương đầu.",
-        "Một con đường cao tốc hiện đại nối liền ngôi làng Sivana với thế giới bên ngoài.",
-        "Sống trọn vẹn trong giây phút hiện tại (Embracing the Present): Hạnh phúc đích thực nằm trên từng bước chân của hiện tại chứ không phải ở đích đến tương lai."
+        "Khả năng nhịn ăn liên tục trong nhiều ngày mà cơ thể vẫn duy trì được mức năng lượng dồi dào để làm việc nặng nhọc trên núi.",
+        "Khả năng ghi nhớ chuẩn xác từng trang sách trong các thư tịch cổ chỉ sau một lần đọc lướt qua dưới ánh sáng mặt trời ban trưa.",
+        "Khả năng dự đoán chuẩn xác những biến động thời tiết cực đoan sắp xảy ra trên đỉnh Hy Mã Lạp Sơn trước nhiều giờ đồng hồ.",
+        "Bắt đầu rung động và chú ý sâu sắc đến vẻ đẹp của những điều bình dị nhất như bầu trời đêm đầy sao hay tấm mạng nhện sau mưa."
       ],
       "correctIndex": 3,
-      "explanation": "Con đường kim cương là biểu tượng của hiện tại nhiệm màu; mỗi giây phút bạn đang thở, đang sống và yêu thương đều quý giá như một viên kim cương vô giá."
+      "explanation": "Chỉ sau ba tuần ở Sivana, Julian có những dấu hiệu đầu tiên về sự phát triển bản thân: anh bắt đầu chú ý đến vẻ đẹp trong những điều bình dị nhất, từ bầu trời đêm đầy sao đến vẻ quyến rũ của mạng nhện sau mưa."
     },
     {
       "id": "q9",
-      "question": "Tại sao câu chuyện ngụ ngôn này ban đầu lại khiến John cảm thấy kỳ quặc và buồn cười?",
+      "question": "Sau một tháng kiên trì áp dụng phương pháp của các hiền triết, thế giới nội tâm và thể chất của Julian đã đổi thay ra sao?",
       "options": [
-        "Vì Julian kể chuyện với một giọng điệu hài hước mang tính châm biếm.",
-        "Vì câu chuyện được dịch sai nghĩa từ tiếng Hindi sang tiếng Anh.",
-        "Vì John không thích các nhân vật hoạt hình trong văn hóa phương Đông.",
-        "Vì các hình ảnh tưởng chừng như vô lý và tương phản gay gắt (võ sĩ Sumo mặc khố dây cáp màu hồng giữa vườn hoa) thách thức lối tư duy logic cứng nhắc của một luật sư."
+        "Vun đắp được sự bình an thanh thản, trở nên vui vẻ, sáng tạo hơn; cơ thể thon gọn săn chắc và khuôn mặt ngời sáng sức sống.",
+        "Hoàn toàn mất đi mọi ký ức về nghề luật sư cũ và chỉ có thể suy nghĩ bằng ngôn ngữ biểu tượng cổ của các bậc chân tu vùng núi.",
+        "Cơ thể trở nên bất khả xâm phạm trước giá rét và có thể đi chân trần trên những tảng băng tuyết vĩnh cửu mà không cảm thấy lạnh.",
+        "Cảm thấy nhàm chán với cuộc sống tĩnh lặng và bắt đầu lập kế hoạch bí mật rời bỏ thung lũng Sivana để trở về thành phố lớn."
       ],
-      "correctIndex": 3,
-      "explanation": "Chính sự tương phản và kỳ lạ đó là chủ ý của các Hiền triết Sivana để 'bẻ gãy' sự bảo thủ của lý trí và in hằn các biểu tượng vào sâu trong trí nhớ dài hạn."
+      "correctIndex": 0,
+      "explanation": "Trong một tháng, anh vun đắp cảm giác bình yên thanh thản chưa từng có ở phương Tây, vui vẻ, thoải mái, sáng tạo hơn; cơ thể thừa cân trở nên săn chắc, khuôn mặt nhợt nhạt được thay bằng sức sống sáng ngời."
     },
     {
       "id": "q10",
-      "question": "Julian đã giải thích như thế nào về mối liên kết giữa 7 biểu tượng trong câu chuyện?",
+      "question": "Chân lý quan trọng nhất về sự thành công mà Julian đã đúc kết được sau quá trình chiêm nghiệm tại Sivana là gì?",
       "options": [
-        "Chúng tạo thành một tiến trình hoàn chỉnh: Kiểm soát tâm trí -> Xác định mục đích -> Rèn luyện bản thân -> Kỷ luật kiên trì -> Quản lý thời gian -> Phụng sự cuộc đời -> Tận hưởng hiện tại.",
-        "Chúng là 7 lời tiên tri về tương lai của nền kinh tế thế giới trong thế kỷ 21.",
-        "Chúng là các câu đố mẹo dân gian không có sự liên quan logic nào về mặt hành vi.",
-        "Chúng là 7 cấp bậc tu luyện riêng biệt mà mỗi người chỉ được chọn 1 cấp bậc để thực hành suốt đời."
+        "Thành công chỉ thực sự có giá trị khi bạn sở hữu khối tài sản kếch xù và được xã hội công nhận bằng những danh hiệu cao quý nhất.",
+        "Thành công bên ngoài sẽ vô nghĩa nếu không có thành công bên trong; có một khoảng cách vô cùng to lớn giữa an lạc và giàu có.",
+        "Muốn thành công trong cuộc đời thì con người buộc phải chấp nhận hy sinh sức khỏe thể chất và hạnh phúc gia đình thời tuổi trẻ.",
+        "Thành công bên trong tâm hồn là điều viển vông hão huyền của những kẻ thất bại không có khả năng cạnh tranh ngoài xã hội thực tế."
       ],
-      "correctIndex": 0,
-      "explanation": "Toàn bộ 7 biểu tượng tạo nên một chu trình phát triển nhân cách toàn diện và hoàn hảo từ trong ra ngoài (Inside-Out)."
+      "correctIndex": 1,
+      "explanation": "Julian nhận ra: 'Thành công bên ngoài sẽ không có ý nghĩa nếu chúng ta không thành công ở bên trong. Có một sự khác biệt vô cùng to lớn giữa sự an lạc và sự giàu có.'"
     },
     {
       "id": "q11",
-      "question": "Nguyên lý 'Tâm thế của một môn sinh' (Student of Wisdom) yêu cầu người học phải có thái độ như thế nào?",
+      "question": "Trong quá khứ khi còn là một luật sư kiêu ngạo, Julian từng có thái độ xem thường như thế nào đối với việc tu dưỡng bản thân?",
       "options": [
-        "Tuyệt đối tuân theo mệnh lệnh của người hướng dẫn mà không bao giờ được đặt câu hỏi.",
-        "Xem nhẹ mọi kinh nghiệm thực tế và chỉ tin vào sách vở lý thuyết.",
-        "Luôn duy trì sự hiếu kỳ, khát khao học hỏi không ngừng, không để sự hiểu biết hữu hạn biến thành rào cản tự mãn ngăn chặn sự tiến bộ.",
-        "Chỉ học những kiến thức giúp mình kiếm được nhiều tiền trong thời gian ngắn nhất."
+        "Anh luôn bí mật nghiên cứu các sách tâm lý học để tìm cách thao túng tâm lý các bồi thẩm viên trong những phiên tòa phức tạp.",
+        "Anh chủ động tài trợ tiền cho các trung tâm thiền định nhưng từ chối tham gia vì cho rằng mình không có đủ thời gian rảnh rỗi.",
+        "Anh từng cười khinh bỉ những ai cố gắng cải thiện cuộc sống nội tâm và cho rằng điều duy nhất đáng bận tâm là lo hưởng thụ cuộc sống.",
+        "Anh luôn tìm cách chỉ trích công khai các tổ chức tôn giáo trên các phương tiện truyền thông báo chí lớn của thành phố New York."
       ],
       "correctIndex": 2,
-      "explanation": "Người có trí tuệ thực sự là người luôn thấy mình còn nhiều điều phải học; sự kiêu ngạo về tri thức là dấu chấm hết cho sự tiến bộ."
+      "explanation": "Julian thú nhận: 'Khi còn là một luật sư danh giá, tôi đã từng cười khinh khi tất cả những người đang cố gắng cải thiện cuộc sống bên ngoài lẫn cuộc sống nội tâm của mình. Tôi đã nghĩ, \"Lo mà hưởng thụ cuộc sống đi!\".'"
     },
     {
       "id": "q12",
-      "question": "Ý nghĩa của màu hồng trên 'Chiếc khố bằng dây cáp' của võ sĩ Sumo là gì?",
+      "question": "Luận điểm sâu sắc nào được Julian khẳng định về mối quan hệ giữa việc yêu thương bản thân và việc chăm sóc tha nhân?",
       "options": [
-        "Nhắc nhở về sự nhẹ nhàng, tình yêu thương và lòng từ bi đối với bản thân trong suốt quá trình rèn luyện kỷ luật nghiêm ngặt.",
-        "Dấu hiệu cảnh báo nguy hiểm đối với những người xung quanh.",
-        "Màu sắc may mắn theo phong thủy của người dân Nhật Bản.",
-        "Màu áo thi đấu bắt buộc của hiệp hội Sumo quốc tế."
+        "Người biết yêu thương bản thân là người luôn biết cách tích lũy thật nhiều tiền của để không bao giờ phải nhờ cậy sự giúp đỡ của ai.",
+        "Hy sinh toàn bộ hạnh phúc và sức khỏe của bản thân cho người khác mới là đỉnh cao tối thượng của lòng vị tha và lòng nhân đạo.",
+        "Tình yêu thương con người chỉ là khái niệm đạo đức giả tạo được dựng lên nhằm xoa dịu những bất công giai cấp trong xã hội.",
+        "Không thể chăm sóc hay yêu thương người khác nếu chưa biết tự chăm sóc và yêu thương chính bản thân mình một cách trọn vẹn."
       ],
-      "correctIndex": 0,
-      "explanation": "Dây cáp thép tượng trưng cho kỷ luật sắt đá, nhưng màu hồng đại diện cho lòng trắc ẩn; kỷ luật tự giác phải được xây dựng trên tình yêu thương chứ không phải sự bạo lực nội tâm."
+      "correctIndex": 3,
+      "explanation": "Julian dạy: 'Làm sao bạn có thể chăm sóc cho người khác khi chưa thể tự chăm sóc chính mình? Làm sao bạn có thể làm được việc tốt khi bạn không cảm thấy mình khỏe khoắn? Tôi không thể yêu thương anh nếu tôi chưa thể yêu thương chính mình.'"
     },
     {
       "id": "q13",
-      "question": "Tại sao việc ghi nhớ câu chuyện ngụ ngôn này lại quan trọng hơn việc học thuộc lòng các cuốn sách dày hàng trăm trang?",
+      "question": "Tại sao sau khi bộc bạch những tâm sự sâu kín, Julian lại thoáng bối rối và gửi lời xin lỗi đến người bạn John?",
       "options": [
-        "Vì người đọc không cần phải tư duy mà chỉ cần tưởng tượng hình ảnh.",
-        "Vì một câu chuyện ngụ ngôn sinh động có thể được hồi tưởng lại ngay lập tức trong tâm trí bất cứ khi nào bạn đối diện với nghịch cảnh hay bế tắc.",
-        "Vì các cuốn sách dày thường chứa đựng những thông tin sai lệch về mặt khoa học.",
-        "Vì câu chuyện ngụ ngôn không có bản quyền tác giả nên có thể tự do sao chép."
+        "Vì trước đây anh chưa từng mở lòng sâu sắc đến vậy với ai, và sự thức tỉnh tâm linh khiến anh khao khát chia sẻ điều mình biết.",
+        "Vì anh nhận ra mình đã vô tình tiết lộ những bí mật cấm kỵ của giáo phái Sivana mà Yogi Raman đã nghiêm cấm truyền ra ngoài.",
+        "Vì anh lo sợ John sẽ sử dụng những lời tâm sự chân thành này để làm bằng chứng bôi nhọ uy tín danh dự của anh trước công chúng.",
+        "Vì anh cảm thấy xấu hổ khi nhớ lại những trò đùa tinh quái mà mình từng làm để trêu chọc các đồng nghiệp trẻ trong hãng luật cũ."
       ],
-      "correctIndex": 1,
-      "explanation": "Câu chuyện là chiếc 'móc neo' tâm lý (mental anchor); chỉ cần nhớ đến một hình ảnh (như ngọn hải đăng hay bông hoa hồng), toàn bộ bài học tương ứng sẽ lập tức hiện ra soi đường cho bạn."
+      "correctIndex": 0,
+      "explanation": "Đột nhiên Julian bối rối: 'Trước giờ, tôi chưa bao giờ mở lòng mình với ai như thế này. Cho tôi xin lỗi nhé, John. Chỉ là tôi đã trải nghiệm sự thanh lọc to lớn như thế... đến mức tôi cảm thấy người khác cũng cần phải biết những gì tôi biết.'"
     },
     {
       "id": "q14",
-      "question": "Phản ứng của John sau khi nghe giải thích trọn vẹn ý nghĩa của 7 biểu tượng là gì?",
+      "question": "Khi John khẩn thiết hỏi liệu các phương pháp ở Sivana có hiệu quả với mình không, Julian đã đáp lại bằng chân lý nào?",
       "options": [
-        "Sự thán phục sâu sắc trước sự tinh tế, uyên bác của các Hiền triết Sivana và háo hức muốn đi sâu vào chi tiết của từng nguyên tắc.",
-        "Sự nghi ngờ rằng Julian đã tự mình bịa ra toàn bộ câu chuyện để trêu chọc anh.",
-        "Sự thất vọng vì câu chuyện không có yếu tố phép thuật siêu nhiên như anh kỳ vọng.",
-        "Anh yêu cầu Julian phải viết cam kết bồi thường nếu phương pháp này không hiệu quả."
+        "Phương pháp này chỉ có hiệu quả nếu John đồng ý trả một khoản học phí tương đương với giá trị chiếc xe Ferrari cũ của Julian.",
+        "'Khi học trò sẵn sàng, người thầy sẽ xuất hiện'; John và xã hội đã sẵn sàng, và Julian hẹn tối mai sẽ đến nhà John để chia sẻ.",
+        "Phương pháp chỉ phát huy tác dụng đối với những người có cấu trúc gen sinh học đặc biệt và có nhóm máu tương thích với tu sĩ.",
+        "John cần phải nộp đơn xin nghỉ việc tại tòa án và sang Ấn Độ tu tập ít nhất sáu tháng thì phương pháp mới bắt đầu có hiệu nghiệm."
       ],
-      "correctIndex": 0,
-      "explanation": "John đã nhận ra vẻ đẹp tuyệt mỹ và tính thực tiễn phi thường của hệ thống 7 biểu tượng, xóa tan mọi hoài nghi ban đầu."
+      "correctIndex": 1,
+      "explanation": "Julian nhanh chóng trả lời: 'Khi học trò đã sẵn sàng, người thầy sẽ xuất hiện... Tôi xin hứa sẽ chia sẻ những kiến thức cổ xưa của họ với anh. Hãy kiên nhẫn. Tôi sẽ gặp lại anh vào tối mai, giờ này, tại nhà anh.'"
     },
     {
       "id": "q15",
-      "question": "Bài học then chốt kết thúc Chương 5 mở đường cho toàn bộ phần thực hành chi tiết tiếp theo là gì?",
+      "question": "Cảm xúc và suy nghĩ của John sau khi tắt đèn văn phòng và bước vào đêm hè oi ả ở cuối Chương 5 là gì?",
       "options": [
-        "Chỉ cần tưởng tượng về 7 biểu tượng mỗi ngày là cuộc sống sẽ tự động trở nên giàu có.",
-        "Việc rèn luyện chỉ nên bắt đầu khi bạn đã nghỉ hưu và không còn vướng bận công việc.",
-        "Nên in câu chuyện ngụ ngôn ra giấy và treo ở phòng khách để trừ tà khí.",
-        "'Biết thôi chưa đủ, phải áp dụng; muốn thôi chưa đủ, phải hành động' - câu chuyện ngụ ngôn là tấm bản đồ, nhưng bạn phải tự mình bước đi trên con đường đó."
+        "Cảm thấy nhẹ nhõm vì cuối cùng cũng tống khứ được người khách phiền toái để có thể toàn tâm tập trung cho vụ kiện Hamilton.",
+        "Cảm thấy hoang mang sợ hãi trước viễn cảnh hãng luật có thể bị kiện vì những phát ngôn thiếu căn cứ khoa học của Julian Mantle.",
+        "Cảm thấy thế giới nhỏ bé, suy ngẫm về đại dương tri thức bao la, khát khao sinh lực và linh cảm mình cũng có một sứ mệnh cao cả.",
+        "Quyết định sẽ gọi điện ngay cho Jenny để yêu cầu vợ chuẩn bị hành lý cho chuyến bay sang Ấn Độ ngay trong đêm hôm đó."
       ],
-      "correctIndex": 3,
-      "explanation": "Tri thức chỉ là sức mạnh tiềm năng; nó chỉ trở thành sức mạnh thực sự khi được chuyển hóa thành các hành động kỷ luật bền bỉ mỗi ngày."
+      "correctIndex": 2,
+      "explanation": "John ngồi lặng yên, nhận ra thế giới quả nhỏ bé, nghĩ đến đại dương tri thức vô tận, thèm cảm giác thức dậy tràn đầy sức sống và tự hỏi liệu mình có sứ mệnh cao cả nào đó trước khi bước ra đêm hè oi bức."
     }
   ]
 }

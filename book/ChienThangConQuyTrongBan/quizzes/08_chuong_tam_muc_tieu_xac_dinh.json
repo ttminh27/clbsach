@@ -5,184 +5,184 @@
   "totalQuestions": 15,
   "questions": [
     {
-      "question": "Nguyên tắc đầu tiên và quan trọng nhất trong 7 nguyên tắc để đạt được tự do tinh thần và vật chất là gì?",
+      "id": "q1",
+      "question": "Nguyên tắc đầu tiên và quan trọng nhất trong 7 nguyên tắc để con người giành quyền tự do tinh thần và vật chất là gì?",
       "options": [
-        "Học từ nghịch cảnh (Learning from adversity)",
-        "Làm chủ bản thân (Self-discipline)",
-        "Mục tiêu xác định (Definiteness of purpose)",
-        "Thận trọng (Caution)"
+        "Mục tiêu xác định, khởi điểm mang tính nền tảng giúp đóng chặt cánh cửa tâm trí trước mọi cạm bẫy của Con Quỷ.",
+        "Kiểm soát môi trường xung quanh bằng việc chuyển đến sinh sống tại những quốc gia phát triển có nền kinh tế ổn định.",
+        "Học từ nghịch cảnh để biến các thất bại tài chính thành cơ hội tích lũy thêm các khoản vay nợ mới từ ngân hàng.",
+        "Sự hòa hợp tuyệt đối với thiên nhiên thông qua các khóa thiền định tĩnh tâm kéo dài tại các tu viện biệt lập."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mục tiêu xác định (Definiteness of purpose) là nguyên tắc nền tảng đầu tiên trong 7 nguyên tắc tự do, giúp con người đóng chặt tâm trí trước thói quen buông thả."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao Con Quỷ lại khẳng định nguyên tắc 'Mục tiêu xác định' là đòn giáng chí mạng vào vương quốc của nó?",
+      "options": [
+        "Vì nó khiến các phương tiện truyền thông đại chúng phá sản do người dân không còn quan tâm đến quảng cáo nữa.",
+        "Vì mục tiêu xác định giúp con người đóng chặt tâm trí, khiến Quỷ không thể len lỏi vào gieo rắc sự buông thả.",
+        "Vì những người có mục tiêu xác định sẽ lập tức thành lập các liên minh quân sự để tiêu diệt các tổ chức tôn giáo.",
+        "Vì nó xóa bỏ hoàn toàn nhu cầu sử dụng tiền tệ và của cải vật chất trong các giao dịch kinh tế hằng ngày của xã hội."
+      ],
+      "correctIndex": 1,
+      "explanation": "Con Quỷ thú nhận: mục tiêu xác định giúp con người đóng chặt cánh cửa tâm trí; Quỷ hoàn toàn bất lực và không thể lôi kéo hay lung lạc những người có kế hoạch rõ ràng và kiên định."
+    },
+    {
+      "id": "q3",
+      "question": "Theo Con Quỷ, mọi người sinh ra đều có đặc quyền về sự xác định, nhưng tại sao 98% nhân loại lại đánh mất nó?",
+      "options": [
+        "Do bị các định chế chính trị thu hồi quyền tự do công dân bằng các văn bản pháp luật độc tài mang tính áp đặt.",
+        "Do sự thiếu hụt các tố chất thông minh bẩm sinh trong bộ mã gen di truyền được kế thừa từ thời tiền sử xa xưa.",
+        "Do họ trì hoãn, không rèn luyện thường xuyên và để cho thói quen do dự, mơ hồ chiếm đoạt tâm trí trong đời sống.",
+        "Do điều kiện thời tiết khắc nghiệt tại các vùng khí hậu nghèo nàn đã bóp chết mọi nỗ lực vươn lên của con người."
       ],
       "correctIndex": 2,
-      "explanation": "Mục tiêu xác định (Definiteness of purpose) là nguyên tắc nền tảng đầu tiên mở đầu cho toàn bộ triết lý chiến thắng Con Quỷ.",
-      "id": "q1"
+      "explanation": "Mọi người sinh ra đều có đặc quyền tự quyết, nhưng 98% đánh mất nó vì họ trì hoãn, lười biếng thực hành và để sự do dự, mơ hồ chi phối các hoạt động hằng ngày."
     },
     {
-      "question": "Tại sao Con Quỷ lại tuyên bố nguyên tắc 'Mục tiêu xác định' là đòn giáng chí mạng vào vương quốc của nó?",
+      "id": "q4",
+      "question": "Napoleon Hill so sánh việc rèn luyện 'Mục tiêu xác định' giống với hoạt động phát triển nào của con người?",
       "options": [
-        "Vì mục tiêu xác định đóng chặt cánh cửa tâm trí con người, khiến Quỷ không thể cài cắm mầm mống buông thả hay lừa gạt bằng những lời hứa hẹn",
-        "Vì nó làm giảm doanh thu quảng cáo của các phương tiện truyền thông",
-        "Vì những người có mục tiêu xác định không bao giờ tham gia quân đội",
-        "Vì nó khiến con người không còn cần đến tiền bạc trong cuộc sống"
+        "Việc tích trữ thật nhiều vàng bạc trong các kho bảo mật ngân hàng để phòng ngừa khủng hoảng tài chính toàn cầu.",
+        "Việc xây dựng những tòa lâu đài cát nguy nga bên bờ biển mặc cho từng đợt sóng thủy triều dâng cao cuốn trôi đi.",
+        "Việc đặt cược toàn bộ gia tài vào những trò chơi đỏ đen trong các sòng bạc với hy vọng đổi đời chỉ sau một đêm.",
+        "Việc rèn luyện thể chất: năng lực tư duy mục tiêu cũng giống như cơ bắp, chỉ phát triển khi được vận động có hệ thống."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mục tiêu xác định cũng như cơ bắp thể chất: nó phải được sử dụng liên tục, kỷ luật và có hệ thống trong mọi lĩnh vực thì mới duy trì và phát triển sức mạnh bền bỉ."
+    },
+    {
+      "id": "q5",
+      "question": "Vũ khí 'tiếp thị và quảng cáo' mà Con Quỷ sử dụng để kéo con người ra khỏi mục tiêu xác định là gì?",
+      "options": [
+        "Những lời hứa hẹn ngọt ngào và cho phép họ thỏa thích nuông chiều những cảm xúc cùng thói quen suy nghĩ dễ dãi.",
+        "Tung ra hàng loạt các chiến dịch giảm giá quy mô lớn trên thị trường hàng tiêu dùng vào các dịp lễ tết hàng năm.",
+        "Tài trợ cho các sự kiện thể thao quốc tế để quảng bá thương hiệu cá nhân của các chính trị gia biến chất khắp nơi.",
+        "Phát hành những cuốn sách hướng dẫn kỹ năng sống miễn phí chứa đựng các thông điệp tâm linh mang tính trừu tượng."
       ],
       "correctIndex": 0,
-      "explanation": "Con Quỷ thừa nhận kẻ có mục tiêu rõ ràng và kế hoạch kiên định sẽ đóng chặt tâm trí; Quỷ hoàn toàn bất lực và không thể lôi kéo họ vào thói buông thả.",
-      "id": "q2"
+      "explanation": "Con Quỷ tự nhận nó tiếp thị và quảng cáo giỏi hơn: nó lôi kéo con người rời khỏi mục tiêu xác định bằng những lời hứa hẹn dễ dãi và cho họ thỏa thích nuông chiều những thói quen suy nghĩ nhất thời."
     },
     {
-      "question": "Mọi người khi sinh ra đều có đặc quyền về sự xác định, nhưng tại sao có tới 98% nhân loại đánh mất đặc quyền này?",
+      "id": "q6",
+      "question": "Bảy nguyên tắc tự do vĩ đại được liệt kê trong Chương Tám KHÔNG bao gồm yếu tố nào sau đây?",
       "options": [
-        "Do bị chính quyền thu hồi bằng văn bản pháp lý",
-        "Do họ trì hoãn, không chịu rèn luyện và để thói quen do dự, buông thả chiếm đoạt tâm trí trong các hoạt động thường nhật",
-        "Do thiếu hụt gen thông minh di truyền từ thời tiền sử",
-        "Do điều kiện khí hậu trên trái đất không đồng đều"
+        "Làm chủ bản thân và Học từ nghịch cảnh để tôi luyện bản lĩnh trước những biến cố bất ngờ của đời sống xã hội.",
+        "Phó mặc số phận cho định mệnh an bài và sẵn sàng chấp nhận mọi sự thỏa hiệp buông xuôi trước khó khăn thử thách.",
+        "Kiểm soát ảnh hưởng của môi trường xung quanh cùng việc tận dụng sức mạnh thời gian để tích lũy trí khôn ngoan.",
+        "Sự hòa hợp trong môi trường sống và đức tính cẩn trọng khi cân nhắc mọi kế hoạch hành động thực tế mỗi ngày."
       ],
       "correctIndex": 1,
-      "explanation": "Quỷ cho biết: đặc quyền xác định chỉ duy trì được bằng cách thực hành liên tục; 98% đánh mất vì họ gác lại, lười biếng và để sự mơ hồ chi phối.",
-      "id": "q3"
+      "explanation": "7 nguyên tắc bao gồm: Mục tiêu xác định, Làm chủ bản thân, Học từ nghịch cảnh, Kiểm soát môi trường, Thời gian, Hòa hợp, và Thận trọng. Tuyệt đối không có chỗ cho sự phó mặc số phận hay thỏa hiệp buông xuôi."
     },
     {
-      "question": "Napoleon Hill so sánh việc rèn luyện 'Mục tiêu xác định' giống với hoạt động rèn luyện nào của con người?",
+      "id": "q7",
+      "question": "Sự thiếu dứt khoát (indecision) đóng vai trò gì trong việc hình thành thói quen buông thả theo lời Con Quỷ?",
       "options": [
-        "Việc rèn luyện cơ thể khỏe mạnh: cơ bắp chỉ phát triển khi được vận động liên tục và có hệ thống",
-        "Việc chơi trò chơi may rủi trong sòng bạc",
-        "Việc xây dựng một lâu đài cát trên bãi biển khi thủy triều dâng",
-        "Việc tích trữ lương thực trong mùa đông lạnh giá"
-      ],
-      "correctIndex": 0,
-      "explanation": "Hill khẳng định: mục tiêu xác định cũng như cơ bắp thể chất, phải được sử dụng liên tục và có hệ thống trong mọi sinh hoạt mới có được sức mạnh bền vững.",
-      "id": "q4"
-    },
-    {
-      "question": "Theo lời Con Quỷ, vũ khí tiếp thị (quảng cáo) mà nó dùng để kéo con người ra khỏi mục tiêu xác định là gì?",
-      "options": [
-        "Những lời hứa hẹn hão huyền và cho con người thỏa thích nuông chiều những thói quen suy nghĩ thèm muốn nhất thời",
-        "Tung ra các tờ rơi quảng cáo giảm giá vào dịp lễ tết",
-        "Tài trợ cho các giải đấu thể thao lớn trên toàn cầu",
-        "Tặng quà miễn phí tận nhà cho các hộ gia đình"
-      ],
-      "correctIndex": 0,
-      "explanation": "Quỷ khoe nó bán hàng và quảng cáo giỏi hơn: nó hứa hẹn những điều ngọt ngào, cho nạn nhân 'ăn' những suy nghĩ dễ dãi để họ từ bỏ tính kiên định.",
-      "id": "q5"
-    },
-    {
-      "question": "Bảy nguyên tắc tự do vĩ đại được liệt kê trong chương Tám KHÔNG bao gồm yếu tố nào sau đây?",
-      "options": [
-        "Làm chủ bản thân và Học từ nghịch cảnh",
-        "Kiểm soát môi trường xung quanh và Thời gian",
-        "Phó mặc cho định mệnh và Chấp nhận thỏa hiệp vô điều kiện",
-        "Sự hòa hợp và Thận trọng"
+        "Là một dấu hiệu tích cực của lòng khiêm tốn và sự cẩn trọng khoa học trước các quyết định mang tính mạo hiểm.",
+        "Chỉ là một phản xạ tâm lý tạm thời hoàn toàn vô hại, không để lại bất kỳ di chứng nào cho sự phát triển nhân cách.",
+        "Là bước đệm trực tiếp dẫn tới buông thả; chỉ cần một thoáng do dự, nạn nhân lập tức rơi vào vòng kiểm soát của Quỷ.",
+        "Là một phẩm chất ngoại giao cần thiết giúp các doanh nhân tránh được các xung đột lợi ích gay gắt trên thương trường."
       ],
       "correctIndex": 2,
-      "explanation": "7 nguyên tắc là: Mục tiêu xác định, Làm chủ bản thân, Học từ nghịch cảnh, Kiểm soát môi trường, Thời gian, Hòa hợp, và Thận trọng. Không có chỗ cho sự phó mặc định mệnh.",
-      "id": "q6"
+      "explanation": "Sự chần chừ, thiếu dứt khoát chính là cánh cửa mở đường cho thói buông thả; ngay khi một người do dự hay không xác định về điều mình muốn, Quỷ sẽ lập tức nhảy vào kiểm soát."
     },
     {
-      "question": "Thế nào là 'sự không dứt khoát' (indecision) và nó liên quan như thế nào đến thói quen buông thả?",
+      "id": "q8",
+      "question": "Theo Con Quỷ, tại sao tình yêu không được kiểm soát lại có thể trở thành một cạm bẫy vô cùng nguy hiểm?",
       "options": [
-        "Không dứt khoát là một biểu hiện của sự cẩn thận tối đa cần được khuyến khích",
-        "Không dứt khoát chính là bước đệm trực tiếp dẫn tới buông thả; khi một người không dứt khoát, họ tự đặt mình vào trạng thái trôi nổi vô định",
-        "Không dứt khoát chỉ xảy ra khi một người có quá nhiều tiền bạc",
-        "Không dứt khoát là một đức tính tốt giúp tránh khỏi xung đột với mọi người"
+        "Vì tình yêu luôn dẫn đến sự đổ vỡ tài chính trong các vụ kiện tụng ly hôn tốn kém tại các tòa án gia đình hiện nay.",
+        "Vì nó khiến con người mất đi khả năng cảm thụ nghệ thuật và làm suy giảm nghiêm trọng sức khỏe tim mạch thể chất.",
+        "Vì tình yêu bị các tổ chức tôn giáo cổ hủ cấm đoán và coi là một tội lỗi chống lại các quy chuẩn đạo đức truyền thống.",
+        "Vì nó che mờ lý trí, làm tê liệt sức mạnh của ý chí và khiến con người mất cảnh giác trước thói quen sống buông thả."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự thiếu quyết đoán và không dứt khoát chính là mầm mống dẫn thẳng vào thói quen buông thả, tạo cơ hội cho Con Quỷ nhảy vào cầm lái.",
-      "id": "q7"
+      "correctIndex": 3,
+      "explanation": "Tình yêu là cảm xúc mãnh liệt có thể che mờ lý trí và làm suy yếu ý chí; nếu không được kiểm soát bởi kỷ luật và mục tiêu xác định, nó sẽ trở thành mồi nhử nguy hiểm dẫn thẳng đến thói buông thả."
     },
     {
-      "question": "Điều gì phân biệt một 'người mơ mộng hão huyền' với một người sở hữu 'mục tiêu xác định'?",
+      "id": "q9",
+      "question": "Con Quỷ giải thích về mối quan hệ giữa 'kế hoạch' và 'mục tiêu xác định' khi theo đuổi thành công ra sao?",
       "options": [
-        "Người mơ mộng có ước mơ lớn hơn người có mục tiêu xác định",
-        "Người có mục tiêu xác định gắn liền khát vọng với kế hoạch cụ thể, hành động kiên trì và sẵn sàng trả giá, trong khi người mơ mộng chỉ mong ước thụ động",
-        "Người mơ mộng luôn ghi chép ước mơ ra sổ tay còn người có mục tiêu thì không",
-        "Người mơ mộng thường có nhiều bằng cấp học thuật hơn"
-      ],
-      "correctIndex": 1,
-      "explanation": "Mục tiêu xác định đòi hỏi kế hoạch rõ ràng, kỷ luật thực thi và sự từ chối mọi thỏa hiệp buông xuôi, khác xa với những ảo tưởng viển vông.",
-      "id": "q8"
-    },
-    {
-      "question": "Khi đối mặt với sự trì hoãn (procrastination), người có mục tiêu xác định sẽ xử lý như thế nào?",
-      "options": [
-        "Chờ đợi đến khi có cảm hứng hoàn hảo mới bắt đầu làm việc",
-        "Quyết định dứt khoát và hành động ngay lập tức theo kế hoạch đã vạch sẵn, không để sự do dự làm phân tán tâm trí",
-        "Giao phó công việc khó khăn cho người khác thực hiện thay",
-        "Tự an ủi rằng ngày mai làm cũng chưa muộn"
-      ],
-      "correctIndex": 1,
-      "explanation": "Tính xác định là thuốc giải độc cho trì hoãn: hành động có kỷ luật và dứt khoát ngay tại thời điểm hiện tại ngăn chặn thói buông thả hình thành.",
-      "id": "q9"
-    },
-    {
-      "question": "Theo Con Quỷ, điều gì xảy ra với các linh hồn khi Napoleon Hill xuất bản lời thú tội về 'Mục tiêu xác định'?",
-      "options": [
-        "Các linh hồn sẽ nổi giận và trừng phạt tác giả",
-        "Cánh cổng địa ngục bị mở tung, giải thoát cho hàng triệu nô lệ đang sống và bảo vệ những linh hồn chưa chào đời khỏi cạm bẫy của Quỷ",
-        "Không có gì thay đổi vì con người quá lười để đọc sách",
-        "Con Quỷ sẽ chuyển sang hành tinh khác để sinh sống"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ than khóc rằng công bố nguyên tắc này sẽ giải phóng hàng triệu con người khỏi vòng nô lệ vô hình mà nó dày công gây dựng.",
-      "id": "q10"
-    },
-    {
-      "question": "Mối liên kết chặt chẽ giữa 'Mục tiêu xác định' và quy luật 'Nhịp điệu thôi miên' được mô tả ra sao?",
-      "options": [
-        "Mục tiêu xác định tiêu diệt nhịp điệu thôi miên hoàn toàn",
-        "Mục tiêu xác định định hướng dòng chảy tư duy, còn nhịp điệu thôi miên sẽ cố định và tự động hóa con đường đó thành thành tựu thực tế",
-        "Hai quy luật này triệt tiêu lẫn nhau khiến tâm trí rơi vào bế tắc",
-        "Nhịp điệu thôi miên chỉ hỗ trợ cho những mục tiêu bất chính"
-      ],
-      "correctIndex": 1,
-      "explanation": "Mục tiêu xác định cung cấp bánh lái và bản thiết kế, còn nhịp điệu thôi miên là động cơ tự nhiên củng cố và biến kế hoạch thành hiện thực.",
-      "id": "q11"
-    },
-    {
-      "question": "Tại sao việc có mục tiêu nhưng kế hoạch lại 'mơ hồ, chung chung' lại nguy hiểm không kém gì việc không có mục tiêu?",
-      "options": [
-        "Vì nó tạo ra ảo tưởng rằng mình đang tiến bộ trong khi thực chất vẫn đang buông thả theo những biến số ngẫu nhiên của cuộc sống",
-        "Vì nó vi phạm các điều khoản bảo hiểm y tế",
-        "Vì nó khiến bạn bè ghen tị và tìm cách phá hoại",
-        "Vì nó đòi hỏi quá nhiều chi phí đầu tư ban đầu"
+        "Một kế hoạch tồi nhưng rõ ràng vẫn có thể dẫn tới thành công nếu được theo đuổi kiên trì với mục tiêu xác định.",
+        "Chỉ những kế hoạch hoàn hảo tuyệt đối được các chuyên gia tài chính phê duyệt mới có cơ hội mang lại thắng lợi.",
+        "Mục tiêu xác định chỉ có giá trị lý thuyết, còn sự linh hoạt thay đổi mục tiêu liên tục mới là bí quyết làm giàu.",
+        "Kế hoạch kinh doanh không đóng vai trò gì đáng kể vì thành công hoàn toàn phụ thuộc vào sự may rủi của thị trường."
       ],
       "correctIndex": 0,
-      "explanation": "Một mục tiêu chung chung ('tôi muốn giàu', 'tôi muốn hạnh phúc') không có tính xác định, chỉ là sự tự lừa dối và nạn nhân vẫn là kẻ buông thả trôi dạt.",
-      "id": "q12"
+      "explanation": "Quỷ thừa nhận: Mục tiêu xác định cộng với kế hoạch xác định thường sẽ giành được thắng lợi; thậm chí một kế hoạch kém nếu được thực thi dứt khoát và rõ ràng vẫn tốt hơn một kế hoạch hay mà mơ hồ."
     },
     {
-      "question": "Sự dũng cảm thừa thắng xông lên của Napoleon Hill trong cuộc đối thoại ở chương này dạy cho chúng ta bài học gì?",
+      "id": "q10",
+      "question": "Sự khác biệt căn bản giữa một người có mục tiêu xác định và một kẻ buông thả khi đối diện thất bại tạm thời là gì?",
       "options": [
-        "Nên tỏ ra kiêu ngạo khi đối thủ tỏ ra yếu thế",
-        "Khi đã nắm bắt được nguyên lý đúng đắn và cốt lõi, hãy kiên quyết theo đuổi đến cùng với mục tiêu xác định, không nhân nhượng trước sự chống đối",
-        "Luôn luôn thỏa hiệp để giữ hòa khí đôi bên",
-        "Nên dừng lại ngay khi đạt được thành công nhỏ đầu tiên"
+        "Người có mục tiêu sẽ lập tức từ bỏ và chuyển hướng sang một ngành nghề hoàn toàn mới để tránh bị tổn thất tài sản.",
+        "Người có mục tiêu xác định chỉ thay đổi kế hoạch thực thi chứ không bao giờ thay đổi mục đích tối hậu của bản thân.",
+        "Người buông thả sẽ kiên trì chịu đựng đau khổ suốt đời, còn người có mục tiêu xác định luôn nhờ cậy người khác giúp.",
+        "Cả hai đều chấp nhận đầu hàng số phận như nhau vì thất bại chứng minh rằng năng lực cá nhân không thể vượt qua rào cản."
       ],
       "correctIndex": 1,
-      "explanation": "Tác giả kiên định ép Con Quỷ khai sạch bí mật dù nó van xin: bài học về sự quyết liệt theo đuổi chân lý với mục tiêu xác định không gì lay chuyển.",
-      "id": "q13"
+      "explanation": "Người hành động có mục tiêu xác định coi thất bại chỉ là tạm thời và là động lực để nỗ lực hơn; khi kế hoạch này không thành, họ đổi kế hoạch khác nhưng không bao giờ từ bỏ mục tiêu."
     },
     {
-      "question": "Đối với một người trẻ tuổi đang đứng trước ngưỡng cửa cuộc đời, hành động cấp thiết nhất theo chương 8 là gì?",
+      "id": "q11",
+      "question": "Tại sao Con Quỷ lại cảnh báo rằng 'mọi nguyên tắc tốt đẹp đều mang trong nó một hạt mầm hiểm họa tương đương'?",
       "options": [
-        "Cứ vui chơi thoải mái vì tuổi trẻ chỉ đến một lần trong đời",
-        "Chờ đợi cha mẹ sắp đặt sẵn sự nghiệp và hôn nhân cho mình",
-        "Xác định rõ ràng mục tiêu cuộc đời mình muốn hướng tới và lên kế hoạch rèn luyện kỷ luật ngay từ hôm nay để bảo vệ tâm trí",
-        "Bắt chước phong cách sống của các ngôi sao mạng xã hội nổi tiếng"
+        "Vì mọi nỗ lực hướng thiện đều bị các quy luật vật lý tự nhiên đào thải theo nguyên lý chọn lọc giống loài khắc nghiệt.",
+        "Vì lòng tốt luôn bị những kẻ cơ hội lợi dụng để chiếm đoạt tài sản và đẩy người lương thiện vào cảnh bần cùng khốn khó.",
+        "Vì nếu không đi kèm với mục tiêu xác định, bất kỳ phẩm chất hay thói quen tốt nào cũng có thể trượt vào sự buông thả.",
+        "Vì Con Quỷ sở hữu quyền năng vô hạn có thể đảo ngược thiện thành ác ngay trong nháy mắt mà không cần đến thời gian."
       ],
       "correctIndex": 2,
-      "explanation": "Phải xác lập mục tiêu xác định càng sớm càng tốt trước khi thói quen buông thả của môi trường và xã hội đóng băng tâm trí qua nhịp điệu thôi miên.",
-      "id": "q14"
+      "explanation": "Mọi thói quen hay mục đích tốt đẹp (như tình yêu, sự thật...), trừ phi được dẫn dắt bởi mục tiêu xác định và kỷ luật kiên trì, đều có thể bị biến tướng và dẫn con người vào thói quen buông thả."
     },
     {
-      "question": "Đâu là câu thần chú tinh thần tóm gọn bản chất của Chương Tám?",
+      "id": "q12",
+      "question": "Theo quy luật bù trừ, những kế hoạch bất công và phi đạo đức sẽ đối mặt với rào cản chí mạng nào theo thời gian?",
       "options": [
-        "Mọi sự tùy duyên, nước chảy bèo trôi",
-        "Biết chính xác mình muốn gì, có kế hoạch rõ ràng để đạt được nó và đóng chặt cửa tâm trí trước mọi lời rủ rê buông thả",
-        "Hãy sống cho ngày hôm nay và quên đi ngày mai",
-        "Thành công chỉ dành cho những người may mắn sinh ra trong gia đình giàu có"
+        "Sự giám sát chặt chẽ của các cơ quan tình báo quốc tế và các hiệp hội bảo vệ người tiêu dùng tại các nước phương Tây.",
+        "Sự tẩy chay tức thì của toàn thể cộng đồng mạng xã hội khiến cho doanh nghiệp bị mất hết doanh thu chỉ sau một tuần.",
+        "Sự suy kiệt về nguồn nhân lực có trình độ cao do các chuyên gia từ chối làm việc cho các tổ chức kinh doanh mờ ám.",
+        "Thời gian là kẻ thù của sự phi đạo đức; quy luật bù trừ tất yếu sẽ giáng trả những hậu quả tương xứng lên kẻ gieo nhân xấu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Những kế hoạch phi đạo đức có thể đem lại thành công tạm thời, nhưng theo thời gian - người bạn của công lý và kẻ thù của bất công - quy luật bù trừ sẽ thực thi công lý, ai gieo nhân nào sẽ gặt quả nấy."
+    },
+    {
+      "id": "q13",
+      "question": "Quá trình một đứa trẻ bị Con Quỷ cài cắm mầm mống buông thả diễn ra chủ yếu qua cơ chế tâm lý tự nhiên nào?",
+      "options": [
+        "Thói quen bắt chước: tiếp thu vô thức nỗi sợ hãi, thành kiến và sự mơ hồ từ cha mẹ, thầy cô và người giảng đạo.",
+        "Sự đe dọa vũ lực trực tiếp từ các tổ chức tội phạm có tổ chức hoạt động ngoài vòng pháp luật tại địa phương.",
+        "Các trò chơi điện tử bạo lực và nội dung độc hại trên các nền tảng mạng xã hội không được kiểm duyệt chặt chẽ.",
+        "Sự ép buộc về mặt thể chất thông qua các hình phạt khắc nghiệt tại các trường giáo dưỡng dành cho trẻ vị thành niên."
+      ],
+      "correctIndex": 0,
+      "explanation": "Từ khi còn nhỏ, đứa trẻ hình thành thói quen bắt chước người lớn; nếu cha mẹ, thầy cô hay người giảng đạo biểu lộ nỗi sợ hãi, thành kiến và mơ hồ, đứa trẻ sẽ đón nhận vào tiềm thức và trở nên buông thả."
+    },
+    {
+      "id": "q14",
+      "question": "Con Quỷ sử dụng mưu kế nào để tái chiếm quyền kiểm soát đối với những người đã tạm thoát khỏi nó nhờ mục tiêu xác định?",
+      "options": [
+        "Tạo ra các vụ phá sản kinh tế bất ngờ nhằm tước đoạt toàn bộ tiền bạc và cơ sở vật chất mà họ đã dày công tích lũy.",
+        "Kích động lòng tham quyền lực và sự tự cao quá mức, đẩy họ vào thói quen xâm phạm quyền lợi của những người khác.",
+        "Thuê các sát thủ chuyên nghiệp để ám hại thể chất của nạn nhân nhằm triệt tiêu hoàn toàn ý chí hành động kiên quyết.",
+        "Gieo rắc các căn bệnh hiểm nghèo không có thuốc chữa để buộc họ phải từ bỏ mọi tham vọng và mục đích trong cuộc sống."
       ],
       "correctIndex": 1,
-      "explanation": "Bản chất mục tiêu xác định: sự rõ ràng tuyệt đối về mong muốn, kế hoạch thực thi dứt khoát và sự tự chủ khép kín trước mọi cám dỗ buông thả.",
-      "id": "q15"
+      "explanation": "Quỷ giành lại nạn nhân bằng cách thổi phồng cái tôi, lòng tham quyền lực và sự tự phụ khiến họ xâm phạm quyền lợi của người khác; khi đó quy luật bù trừ sẽ kéo họ trở lại sự kiểm soát của Quỷ."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp cốt lõi nhất của nguyên tắc 'Mục tiêu xác định' gửi gắm tới người đọc qua Chương Tám là gì?",
+      "options": [
+        "Hãy chuẩn bị sẵn sàng một khoản tài chính dự phòng thật lớn để có thể sống an nhàn khi gặp phải thất bại tạm thời.",
+        "Hãy học cách thỏa hiệp khéo léo với mọi nghịch cảnh để duy trì cuộc sống bình yên và tránh né mọi sự đối đầu phức tạp.",
+        "Biết chính xác mình muốn gì, kiên trì theo đuổi kế hoạch rõ ràng và kiên quyết đóng chặt tâm trí trước mọi sự buông thả.",
+        "Hãy đặt trọn niềm tin vào các thế lực tâm linh thần bí để được che chở trên con đường tìm kiếm danh vọng và sự giàu sang."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cốt lõi bài học: Biết chính xác mong muốn, lập kế hoạch rõ ràng, rèn luyện sự xác định như cơ bắp mỗi ngày và từ chối mọi do dự để hoàn toàn làm chủ vận mệnh bản thân."
     }
   ]
 }

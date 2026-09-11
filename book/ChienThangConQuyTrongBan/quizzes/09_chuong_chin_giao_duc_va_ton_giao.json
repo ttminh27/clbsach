@@ -5,184 +5,184 @@
   "totalQuestions": 15,
   "questions": [
     {
-      "question": "Khi một người đạt được điều mình muốn nhờ áp dụng mục tiêu xác định, nhưng sau đó nhận ra mình không còn muốn nó nữa, giải pháp là gì?",
+      "id": "q1",
+      "question": "Khi một người đạt được điều mình muốn nhờ mục tiêu xác định, nhưng sau đó nhận ra mình không còn muốn nó nữa, giải pháp là gì?",
       "options": [
-        "Phải cam chịu gắn bó với nó suốt đời như một hình phạt",
-        "Áp dụng chính nguyên tắc xác định đó để dứt khoát rũ bỏ những thứ không còn mong muốn; một cuộc sống hạnh phúc tự nó luôn gạt bỏ điều tiêu cực",
-        "Chuyển sang trạng thái buông thả để quên đi sai lầm",
-        "Than vãn với bạn bè để tìm kiếm sự đồng cảm"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ cho biết: nguyên tắc xác định dùng để thu hút thứ mình muốn cũng chính là công cụ dứt khoát loại bỏ thứ không mong muốn; chấp nhận sự khó chịu là buông thả.",
-      "id": "q1"
-    },
-    {
-      "question": "Con Quỷ có quan điểm như thế nào về những cuộc hôn nhân không còn sự hòa hợp giữa hai tâm trí?",
-      "options": [
-        "Mọi cuộc hôn nhân đều do trời định và các bên buộc phải chịu đựng đau khổ cùng nhau",
-        "Sự bất hòa và xung đột tâm trí tất yếu dẫn đến thói quen buông thả; ép buộc những tâm trí không hòa hợp ở bên nhau chỉ tạo thêm cơ hội cho Quỷ",
-        "Hôn nhân chỉ có giá trị khi sinh được thật nhiều con cái",
-        "Các cặp vợ chồng nên thiền định cùng nhau để hòa giải mọi mâu thuẫn mà không cần thay đổi"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ thừa nhận nhiều cuộc hôn nhân do chính nó sắp đặt; sự bất hòa tâm trí phá hủy năng lượng sáng tạo và đẩy cả hai vào thói buông thả.",
-      "id": "q2"
-    },
-    {
-      "question": "Theo lời khẳng định gây tranh cãi của Con Quỷ, trách nhiệm cao nhất và trước hết của mỗi con người là gì?",
-      "options": [
-        "Trách nhiệm phụng sự dòng họ và đất nước trên hết",
-        "Trách nhiệm hy sinh bản thân vô điều kiện vì người khác",
-        "Trách nhiệm với chính bản thân mình: tìm ra phương thức để sống một cuộc đời trọn vẹn, tự chủ và hạnh phúc",
-        "Trách nhiệm làm hài lòng mọi kỳ vọng của những người xung quanh"
-      ],
-      "correctIndex": 2,
-      "explanation": "Con Quỷ tuyên bố: 'Chẳng có trách nhiệm nào cao hơn trách nhiệm với chính bản thân mình! Mỗi người nợ bản thân việc tìm ra cuộc sống đầy đủ và hạnh phúc trước tiên.'",
-      "id": "q3"
-    },
-    {
-      "question": "Theo phân tích trong chương sách, các bậc cha mẹ thường mắc phải 'cảm giác sai lầm về trách nhiệm' như thế nào đối với con cái?",
-      "options": [
-        "Bắt con cái phải đi làm việc quá sớm từ khi còn nhỏ",
-        "Nuông chiều và làm thay mọi việc khiến đứa trẻ ỷ lại, thay vì để con tự mình tìm kiếm và nỗ lực gặt hái tri thức đầu đời",
-        "Không cho con cái tiếp cận với các phương tiện truyền thông hiện đại",
-        "Ép con cái phải học các trường chuyên lớp chọn đắt đỏ"
-      ],
-      "correctIndex": 1,
-      "explanation": "Cha mẹ lầm tưởng nuông chiều làm thay là thương con, nhưng thực chất đang tước đoạt cơ hội tự lực của trẻ, biến những món quà bảo bọc thành lời nguyền buông thả.",
-      "id": "q4"
-    },
-    {
-      "question": "Napoleon Hill nhận định như thế nào về nghịch cảnh và thất bại trong chương này?",
-      "options": [
-        "Thất bại là dấu chấm hết cho mọi hoài bão của con người",
-        "Nghịch cảnh và thất bại luôn mang trong mình hạt mầm của một lợi ích tương đương hoặc lớn hơn, đóng vai trò như một người thầy nghiêm khắc nhưng khôn ngoan",
-        "Thất bại là do sự trừng phạt định mệnh của các vị thần linh",
-        "Nghịch cảnh chỉ xảy ra với những người kém may mắn và thiếu đạo đức"
-      ],
-      "correctIndex": 1,
-      "explanation": "Quy luật bù trừ tự nhiên: mọi thất bại tạm thời đều chứa đựng hạt mầm của lợi ích tương đương, giúp tôi luyện ý chí và đánh thức tư duy độc lập.",
-      "id": "q5"
-    },
-    {
-      "question": "Lời cầu nguyện chỉ thực sự mang lại kết quả tích cực khi nào theo góc nhìn triết học của cuốn sách?",
-      "options": [
-        "Khi người cầu nguyện quỳ gối liên tục nhiều giờ liền trong nhà thờ",
-        "Khi lời cầu nguyện dựa trên niềm tin tích cực, lòng biết ơn và kế hoạch hành động xác định, chứ không phải dựa trên nỗi sợ hãi hay van xin sự ban ơn lười biếng",
-        "Khi lời cầu nguyện được kèm theo các khoản cúng dường tiền bạc lớn",
-        "Khi người cầu nguyện đọc thuộc lòng các bài kinh cổ bằng tiếng Latin"
-      ],
-      "correctIndex": 1,
-      "explanation": "Cầu nguyện trong sợ hãi chỉ thu hút thêm sợ hãi (qua nhịp điệu thôi miên); cầu nguyện chân chính là sự hòa hợp tâm trí với Trí tuệ Vô hạn bằng niềm tin và hành động.",
-      "id": "q6"
-    },
-    {
-      "question": "Trong bản đề xuất cải cách giáo dục của Napoleon Hill (được thảo luận trong chương), trường học nên tập trung vào điều gì nhất?",
-      "options": [
-        "Tăng cường các kỳ thi sát hạch ghi nhớ dữ liệu và số liệu lịch sử",
-        "Dạy học sinh phương pháp tư duy độc lập, nghệ thuật làm chủ bản thân và kỹ năng ứng dụng tri thức vào cuộc sống thực tiễn",
-        "Bắt buộc tất cả học sinh phải học thuộc lòng các tác phẩm kinh điển",
-        "Thay thế hoàn toàn giáo viên bằng các bài giảng ghi âm sẵn"
-      ],
-      "correctIndex": 1,
-      "explanation": "Cải cách cốt lõi: chuyển từ nhồi nhét lý thuyết sang rèn luyện tư duy độc lập, thói quen có mục tiêu xác định và khả năng tự giải quyết vấn đề của học sinh.",
-      "id": "q7"
-    },
-    {
-      "question": "Học sinh nên được dạy nhìn nhận thế nào về 'thất bại tạm thời' (temporary defeat) ngay từ ghế nhà trường?",
-      "options": [
-        "Là điều đáng xấu hổ cần phải che giấu trước bạn bè và thầy cô",
-        "Là một phần tất yếu của quá trình học hỏi, một bài kiểm tra để tìm ra phương pháp đúng đắn hơn chứ không phải là sự phán xét năng lực vĩnh viễn",
-        "Là bằng chứng chứng minh học sinh đó không có khiếu học tập",
-        "Là lý do chính đáng để từ bỏ môn học đó ngay lập tức"
-      ],
-      "correctIndex": 1,
-      "explanation": "Trường học mới cần dạy rằng thất bại chỉ là bài học phản hồi; học cách đứng dậy và rút kinh nghiệm từ sai lầm là kỹ năng sống quan trọng nhất.",
-      "id": "q8"
-    },
-    {
-      "question": "Tại sao tôn giáo truyền thống dựa trên sự sợ hãi lại bị Napoleon Hill xem là 'đồng minh đắc lực' của Con Quỷ?",
-      "options": [
-        "Vì các giáo sĩ đều là những người xấu xa cố ý hại tín đồ",
-        "Vì giáo lý lấy nỗi sợ làm căn bản làm tê liệt lý trí, ngăn cản sự tìm tòi tự do và biến con người thành những tín đồ thụ động, dễ buông thả",
-        "Vì nhà thờ thu quá nhiều tiền công đức của người nghèo",
-        "Vì các tôn giáo không cho phép tín đồ sử dụng khoa học kỹ thuật"
-      ],
-      "correctIndex": 1,
-      "explanation": "Tôn giáo lấy nỗi sợ làm trọng tâm biến tâm trí con người thành mảnh đất màu mỡ cho sự bất an; người sợ hãi không dám tự suy nghĩ độc lập.",
-      "id": "q9"
-    },
-    {
-      "question": "Một nền tôn giáo mới mẻ và chân chính theo gợi ý của tác phẩm nên được xây dựng trên nền tảng nào?",
-      "options": [
-        "Những giáo điều thần bí không thể kiểm chứng bằng thực nghiệm",
-        "Niềm tin, tình yêu thương, sự hòa hợp với các quy luật tự nhiên và phát huy tiềm năng vô hạn bên trong mỗi con người",
-        "Sự phân biệt rạch ròi giữa các đẳng cấp xã hội khác nhau",
-        "Những nghi thức hiến tế tốn kém và phức tạp"
-      ],
-      "correctIndex": 1,
-      "explanation": "Tôn giáo tích cực dựa trên niềm tin và tình yêu thương, khuyến khích con người kết nối với Trí tuệ Vô hạn thông qua sự tự chủ và phụng sự nhân loại.",
-      "id": "q10"
-    },
-    {
-      "question": "Khi Con Quỷ cố tình sa đà vào những câu trả lời trừu tượng, mơ hồ, Hill đã làm gì?",
-      "options": [
-        "Ông lập tức chấp nhận và chuyển sang chủ đề khác",
-        "Ông vạch trần mưu mẹo mập mờ của Quỷ và kiên quyết kéo cuộc thảo luận trở lại những vấn đề cụ thể, thiết thực với đời sống hàng ngày",
-        "Ông dừng cuộc phỏng vấn và bỏ đi ngủ",
-        "Ông nhờ các chuyên gia tâm lý học trả lời thay"
-      ],
-      "correctIndex": 1,
-      "explanation": "Hill tỉnh táo chặn đứng thủ đoạn: ông cảnh cáo Quỷ không được né tránh bằng các lý lẽ mơ hồ mà phải trả lời thẳng thắn vào các vấn đề cụ thể của đời sống.",
-      "id": "q11"
-    },
-    {
-      "question": "Điều gì tạo nên sự khác biệt giữa người 'ích kỷ tiêu cực' và người 'có trách nhiệm với bản thân trước tiên'?",
-      "options": [
-        "Người có trách nhiệm với bản thân tự hoàn thiện mình để có đủ năng lực và nguồn lực giúp đỡ người khác một cách thực chất, thay vì trở thành gánh nặng của xã hội",
-        "Người ích kỷ tiêu cực luôn quyên góp tiền từ thiện nhiều hơn",
-        "Không có sự khác biệt nào, cả hai đều đáng bị xã hội lên án",
-        "Người có trách nhiệm với bản thân luôn từ chối mọi sự giúp đỡ từ gia đình"
+        "Áp dụng chính nguyên tắc xác định để rũ bỏ những thứ không mong muốn, vì cuộc sống hạnh phúc luôn tự gạt bỏ điều tiêu cực.",
+        "Phải cam chịu gắn bó với nó suốt đời như một hình phạt cho sự thiếu kiên định trong việc lựa chọn mục tiêu ban đầu của mình.",
+        "Chuyển sang trạng thái buông thả để quên đi sai lầm và chờ đợi cơ hội mới đến một cách tự nhiên mà không cần nỗ lực thêm.",
+        "Than vãn với bạn bè hoặc người thân để tìm kiếm sự đồng cảm và hy vọng rằng hoàn cảnh sẽ tự thay đổi theo hướng tốt đẹp."
       ],
       "correctIndex": 0,
-      "explanation": "Tự lo cho bản thân có một cuộc sống đủ đầy và vững vàng là tiền đề tiên quyết để cống hiến giá trị thực sự cho người khác mà không làm phiền lụy ai.",
-      "id": "q12"
+      "explanation": "Con Quỷ khẳng định rằng nguyên tắc xác định là công cụ hai chiều: dùng để thu hút và cũng dùng để dứt khoát loại bỏ những thứ không còn phù hợp."
     },
     {
-      "question": "Quan điểm của cuốn sách về 'các món quà bất ngờ của tự nhiên' (như tài sản thừa kế khổng lồ không do tự tay làm ra) là gì?",
+      "id": "q2",
+      "question": "Con Quỷ có quan điểm như thế nào về những cuộc hôn nhân không còn sự hòa hợp giữa hai tâm trí?",
       "options": [
-        "Đó luôn là phước lành tuyệt đối bảo đảm hạnh phúc trọn đời",
-        "Chúng thường trở thành một lời nguyền nếu người nhận thiếu kỷ luật và mục tiêu xác định, dễ dàng đẩy họ vào sự trụy lạc và buông thả",
-        "Chúng nên được giao nộp toàn bộ cho ngân sách nhà nước",
-        "Chúng không gây ảnh hưởng gì đến tâm lý người thừa kế"
+        "Mọi cuộc hôn nhân đều do trời định và các bên buộc phải chịu đựng đau khổ cùng nhau để hoàn thành thỏa thuận đã cam kết.",
+        "Sự bất hòa tâm trí tất yếu dẫn đến thói quen buông thả, nên việc ép buộc những tâm trí không hòa hợp ở bên nhau là sai lầm.",
+        "Hôn nhân chỉ có giá trị khi sinh được thật nhiều con cái, vì vậy mọi mâu thuẫn cá nhân cần được gạt bỏ vì lợi ích gia đình.",
+        "Các cặp vợ chồng nên thiền định cùng nhau để hòa giải mọi mâu thuẫn mà không cần thay đổi bản chất hay mục tiêu cá nhân."
       ],
       "correctIndex": 1,
-      "explanation": "Hill lưu ý: của cải từ trên trời rơi xuống mà không qua nỗ lực tự thân thường làm thui chột ý chí, biến thành lời nguyền đẩy nạn nhân vào thói buông thả.",
-      "id": "q13"
+      "explanation": "Con Quỷ cho rằng việc ép buộc những tâm trí không hòa hợp ở bên nhau chỉ tạo thêm cơ hội cho thói quen buông thả và thiếu quyết đoán."
     },
     {
+      "id": "q3",
+      "question": "Theo lời khẳng định gây tranh cãi của Con Quỷ, trách nhiệm cao nhất và trước hết của mỗi con người là gì?",
+      "options": [
+        "Trách nhiệm phụng sự dòng họ và đất nước trên hết, vì cá nhân chỉ là một phần nhỏ bé trong sự tồn tại của cộng đồng lớn.",
+        "Trách nhiệm hy sinh bản thân vô điều kiện vì người khác, coi đó là thước đo duy nhất cho đạo đức và giá trị của một con người.",
+        "Trách nhiệm với chính bản thân mình: tìm ra phương thức để sống một cuộc đời trọn vẹn, tự chủ và hạnh phúc mỗi ngày.",
+        "Trách nhiệm làm hài lòng mọi kỳ vọng của những người xung quanh để duy trì sự ổn định và tránh những xung đột không đáng có."
+      ],
+      "correctIndex": 2,
+      "explanation": "Con Quỷ tuyên bố không có trách nhiệm nào cao hơn trách nhiệm với bản thân, vì đó là nền tảng để có năng lượng giúp đỡ người khác."
+    },
+    {
+      "id": "q4",
+      "question": "Theo phân tích trong chương sách, các bậc cha mẹ thường mắc phải 'cảm giác sai lầm về trách nhiệm' như thế nào đối với con cái?",
+      "options": [
+        "Bắt con cái phải đi làm việc quá sớm từ khi còn nhỏ để rèn luyện tính tự lập mà không quan tâm đến sự phát triển tâm lý.",
+        "Không cho con cái tiếp cận với các phương tiện truyền thông hiện đại vì sợ chúng bị ảnh hưởng bởi những tư tưởng tiêu cực.",
+        "Ép con cái phải học các trường chuyên lớp chọn đắt đỏ để đảm bảo tương lai mà không chú trọng đến sở thích thực sự của trẻ.",
+        "Nuông chiều và làm thay mọi việc khiến đứa trẻ ỷ lại, thay vì để con tự mình tìm kiếm và nỗ lực gặt hái tri thức đầu đời."
+      ],
+      "correctIndex": 3,
+      "explanation": "Cha mẹ lầm tưởng nuông chiều là thương con, nhưng thực chất đang tước đoạt cơ hội tự lực, biến sự bảo bọc thành lời nguyền buông thả."
+    },
+    {
+      "id": "q5",
+      "question": "Napoleon Hill nhận định như thế nào về nghịch cảnh và thất bại trong chương này?",
+      "options": [
+        "Nghịch cảnh và thất bại luôn mang trong mình hạt mầm của một lợi ích tương đương, đóng vai trò như người thầy vô cùng khôn ngoan.",
+        "Thất bại là dấu chấm hết cho mọi hoài bão của con người, là bằng chứng cho thấy họ không có đủ năng lực để đạt được thành công.",
+        "Thất bại là do sự trừng phạt định mệnh của các vị thần linh dành cho những người không biết tuân thủ các quy luật đạo đức.",
+        "Nghịch cảnh chỉ xảy ra với những người kém may mắn và thiếu đạo đức, vì vậy họ cần phải chấp nhận số phận của mình một cách."
+      ],
+      "correctIndex": 0,
+      "explanation": "Quy luật bù trừ tự nhiên cho thấy mọi thất bại tạm thời đều chứa đựng hạt mầm của lợi ích tương đương, giúp tôi luyện ý chí con người."
+    },
+    {
+      "id": "q6",
+      "question": "Lời cầu nguyện chỉ thực sự mang lại kết quả tích cực khi nào theo góc nhìn triết học của cuốn sách?",
+      "options": [
+        "Khi người cầu nguyện quỳ gối liên tục nhiều giờ liền trong nhà thờ để thể hiện sự thành tâm và lòng tôn kính với đấng tối cao.",
+        "Khi lời cầu nguyện dựa trên niềm tin tích cực và kế hoạch hành động xác định, thay vì dựa trên nỗi sợ hãi hay van xin lười biếng.",
+        "Khi lời cầu nguyện được kèm theo các khoản cúng dường tiền bạc lớn để chứng minh sự cam kết của mình với các tổ chức tôn giáo.",
+        "Khi người cầu nguyện đọc thuộc lòng các bài kinh cổ bằng tiếng Latin mà không cần hiểu rõ ý nghĩa sâu xa của những lời đó."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cầu nguyện trong sợ hãi chỉ thu hút thêm sợ hãi; cầu nguyện chân chính là sự hòa hợp tâm trí với Trí tuệ Vô hạn bằng niềm tin và hành động."
+    },
+    {
+      "id": "q7",
+      "question": "Trong bản đề xuất cải cách giáo dục của Napoleon Hill, trường học nên tập trung vào điều gì nhất?",
+      "options": [
+        "Tăng cường các kỳ thi sát hạch ghi nhớ dữ liệu và số liệu lịch sử để đảm bảo học sinh có nền tảng kiến thức rộng lớn nhất.",
+        "Bắt buộc tất cả học sinh phải học thuộc lòng các tác phẩm kinh điển để rèn luyện trí nhớ và khả năng ngôn ngữ của bản thân.",
+        "Dạy học sinh phương pháp tư duy độc lập, nghệ thuật làm chủ bản thân và kỹ năng ứng dụng tri thức vào cuộc sống thực tiễn.",
+        "Thay thế hoàn toàn giáo viên bằng các bài giảng ghi âm sẵn để đảm bảo tính đồng nhất trong việc truyền đạt kiến thức cho trẻ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cải cách cốt lõi là chuyển từ nhồi nhét lý thuyết sang rèn luyện tư duy độc lập, thói quen có mục tiêu xác định và khả năng tự giải quyết."
+    },
+    {
+      "id": "q8",
+      "question": "Học sinh nên được dạy nhìn nhận thế nào về 'thất bại tạm thời' ngay từ ghế nhà trường?",
+      "options": [
+        "Là điều đáng xấu hổ cần phải che giấu trước bạn bè và thầy cô để giữ gìn danh dự và uy tín của bản thân trong môi trường học.",
+        "Là bằng chứng chứng minh học sinh đó không có khiếu học tập và nên chuyển sang các lĩnh vực khác phù hợp với khả năng hơn.",
+        "Là lý do chính đáng để từ bỏ môn học đó ngay lập tức nhằm tránh lãng phí thời gian vào những việc không mang lại kết quả tốt.",
+        "Là một phần tất yếu của quá trình học hỏi, một bài kiểm tra để tìm ra phương pháp đúng đắn hơn thay vì là sự phán xét năng lực."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trường học mới cần dạy rằng thất bại chỉ là bài học phản hồi; học cách đứng dậy và rút kinh nghiệm là kỹ năng sống quan trọng nhất."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao tôn giáo truyền thống dựa trên sự sợ hãi lại bị Napoleon Hill xem là 'đồng minh đắc lực' của Con Quỷ?",
+      "options": [
+        "Vì giáo lý lấy nỗi sợ làm căn bản làm tê liệt lý trí, ngăn cản sự tìm tòi tự do và biến con người thành tín đồ thụ động.",
+        "Vì các giáo sĩ đều là những người xấu xa cố ý hại tín đồ để trục lợi cá nhân thông qua các hoạt động quyên góp tiền bạc.",
+        "Vì nhà thờ thu quá nhiều tiền công đức của người nghèo khiến họ không còn đủ nguồn lực để phát triển cuộc sống cá nhân mình.",
+        "Vì các tôn giáo không cho phép tín đồ sử dụng khoa học kỹ thuật để cải thiện đời sống vật chất và tinh thần của chính họ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tôn giáo lấy nỗi sợ làm trọng tâm biến tâm trí con người thành mảnh đất màu mỡ cho sự bất an; người sợ hãi không dám tự suy nghĩ độc lập."
+    },
+    {
+      "id": "q10",
+      "question": "Một nền tôn giáo mới mẻ và chân chính theo gợi ý của tác phẩm nên được xây dựng trên nền tảng nào?",
+      "options": [
+        "Những giáo điều thần bí không thể kiểm chứng bằng thực nghiệm để tạo ra sự tôn nghiêm và bí ẩn cho các tổ chức tôn giáo.",
+        "Niềm tin, tình yêu thương, sự hòa hợp với các quy luật tự nhiên và phát huy tiềm năng vô hạn bên trong mỗi con người.",
+        "Sự phân biệt rạch ròi giữa các đẳng cấp xã hội khác nhau để duy trì trật tự và sự ổn định trong cộng đồng tín đồ của mình.",
+        "Những nghi thức hiến tế tốn kém và phức tạp để thể hiện lòng thành kính tuyệt đối đối với các đấng tối cao trong vũ trụ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tôn giáo tích cực dựa trên niềm tin và tình yêu thương, khuyến khích con người kết nối với Trí tuệ Vô hạn thông qua sự tự chủ và phụng sự."
+    },
+    {
+      "id": "q11",
+      "question": "Khi Con Quỷ cố tình sa đà vào những câu trả lời trừu tượng, mơ hồ, Hill đã làm gì?",
+      "options": [
+        "Ông lập tức chấp nhận và chuyển sang chủ đề khác để tránh làm mất thời gian của cả hai bên trong cuộc đối thoại căng thẳng.",
+        "Ông dừng cuộc phỏng vấn và bỏ đi ngủ vì cảm thấy thất vọng trước thái độ không hợp tác của đối phương trong cuộc đối thoại.",
+        "Ông vạch trần mưu mẹo mập mờ của Quỷ và kiên quyết kéo cuộc thảo luận trở lại những vấn đề cụ thể, thiết thực với đời sống.",
+        "Ông nhờ các chuyên gia tâm lý học trả lời thay để đảm bảo tính chính xác và khoa học cho những vấn đề đang được thảo luận."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hill tỉnh táo chặn đứng thủ đoạn: ông cảnh cáo Quỷ không được né tránh bằng các lý lẽ mơ hồ mà phải trả lời thẳng thắn vào các vấn đề cụ thể."
+    },
+    {
+      "id": "q12",
+      "question": "Điều gì tạo nên sự khác biệt giữa người 'ích kỷ tiêu cực' và người 'có trách nhiệm với bản thân trước tiên'?",
+      "options": [
+        "Người ích kỷ tiêu cực luôn quyên góp tiền từ thiện nhiều hơn để che đậy bản chất thật sự của mình trước mắt mọi người xung quanh.",
+        "Không có sự khác biệt nào, cả hai đều đáng bị xã hội lên án vì chỉ biết quan tâm đến lợi ích cá nhân mà quên đi cộng đồng.",
+        "Người có trách nhiệm với bản thân luôn từ chối mọi sự giúp đỡ từ gia đình để chứng minh khả năng tự lập của mình với thế giới.",
+        "Người có trách nhiệm tự hoàn thiện mình để có đủ năng lực giúp đỡ người khác thực chất, thay vì trở thành gánh nặng xã hội."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tự lo cho bản thân có một cuộc sống đủ đầy và vững vàng là tiền đề tiên quyết để cống hiến giá trị thực sự cho người khác mà không làm phiền."
+    },
+    {
+      "id": "q13",
+      "question": "Quan điểm của cuốn sách về 'các món quà bất ngờ của tự nhiên' là gì?",
+      "options": [
+        "Chúng thường trở thành lời nguyền nếu người nhận thiếu kỷ luật và mục tiêu xác định, dễ đẩy họ vào sự trụy lạc và buông thả.",
+        "Đó luôn là phước lành tuyệt đối bảo đảm hạnh phúc trọn đời cho bất cứ ai may mắn nhận được những món quà quý giá từ tự nhiên.",
+        "Chúng nên được giao nộp toàn bộ cho ngân sách nhà nước để đảm bảo sự công bằng cho tất cả mọi người trong xã hội hiện đại.",
+        "Chúng không gây ảnh hưởng gì đến tâm lý người thừa kế vì bản chất con người là không thay đổi dù có sở hữu tài sản lớn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hill lưu ý: của cải từ trên trời rơi xuống mà không qua nỗ lực tự thân thường làm thui chột ý chí, biến thành lời nguyền đẩy nạn nhân vào buông thả."
+    },
+    {
+      "id": "q14",
       "question": "Trường học lý tưởng theo Hill cần dạy học sinh thái độ như thế nào đối với tiền bạc và sự giàu có?",
       "options": [
-        "Coi tiền bạc là nguồn gốc của mọi tội lỗi cần phải tránh xa",
-        "Hiểu rằng tiền bạc là thước đo giá trị của dịch vụ hữu ích mà một người cống hiến cho xã hội, và làm giàu chân chính đòi hỏi sự phục vụ tương đương",
-        "Khuyên học sinh nên làm giàu bằng mọi thủ đoạn nhanh nhất có thể",
-        "Không bao giờ nhắc đến vấn đề tài chính trong môi trường sư phạm"
+        "Coi tiền bạc là nguồn gốc của mọi tội lỗi cần phải tránh xa để giữ gìn tâm hồn trong sáng và tránh những cám dỗ của vật chất.",
+        "Tiền bạc là thước đo giá trị của dịch vụ hữu ích mà một người cống hiến, và làm giàu đòi hỏi sự phục vụ tương đương thực tế.",
+        "Khuyên học sinh nên làm giàu bằng mọi thủ đoạn nhanh nhất có thể để đạt được vị thế cao trong xã hội cạnh tranh khốc liệt này.",
+        "Không bao giờ nhắc đến vấn đề tài chính trong môi trường sư phạm vì đó là chủ đề nhạy cảm không phù hợp với giáo dục phổ thông."
       ],
       "correctIndex": 1,
-      "explanation": "Tiền bạc không phải tội lỗi mà là kết quả tất yếu của việc cung cấp dịch vụ hữu ích với mục tiêu xác định; cần giáo dục tài chính lành mạnh cho học sinh.",
-      "id": "q14"
+      "explanation": "Tiền bạc không phải tội lỗi mà là kết quả tất yếu của việc cung cấp dịch vụ hữu ích với mục tiêu xác định; cần giáo dục tài chính lành mạnh."
     },
     {
-      "question": "Tổng kết lại cuộc đối thoại xuyên suốt Chương Chín, chiếc chìa khóa tối thượng để giải phóng con người khỏi mọi gông cùm tâm lý là gì?",
+      "id": "q15",
+      "question": "Tổng kết lại cuộc đối thoại xuyên suốt Chương Chín, chiếc chìa khóa tối thượng để giải phóng con người là gì?",
       "options": [
-        "Sự vâng lời tuyệt đối trước mọi uy quyền của các định chế xã hội",
-        "Sự tỉnh thức, tư duy độc lập có mục tiêu xác định, sống đúng với bản thân và hòa hợp với các quy luật bất biến của tự nhiên",
-        "Chờ đợi sự cứu rỗi từ bên ngoài mà không cần nỗ lực bản thân",
-        "Chối bỏ mọi trách nhiệm và chọn lối sống ẩn dật nơi hoang dã"
+        "Sự vâng lời tuyệt đối trước mọi uy quyền của các định chế xã hội để duy trì sự bình yên và trật tự cho cộng đồng chung sống.",
+        "Chờ đợi sự cứu rỗi từ bên ngoài mà không cần nỗ lực bản thân vì con người quá nhỏ bé trước những sức mạnh vĩ đại của vũ trụ.",
+        "Sự tỉnh thức, tư duy độc lập có mục tiêu xác định, sống đúng với bản thân và hòa hợp với các quy luật bất biến của tự nhiên.",
+        "Chối bỏ mọi trách nhiệm và chọn lối sống ẩn dật nơi hoang dã để tránh xa những cám dỗ và áp lực của xã hội hiện đại ngày nay."
       ],
-      "correctIndex": 1,
-      "explanation": "Chiếc chìa khóa vạn năng: làm chủ tâm trí bằng tư duy độc lập, có mục tiêu xác định và hành động hòa nhịp với các quy luật vũ trụ chân chính.",
-      "id": "q15"
+      "correctIndex": 2,
+      "explanation": "Chiếc chìa khóa vạn năng: làm chủ tâm trí bằng tư duy độc lập, có mục tiêu xác định và hành động hòa nhịp với các quy luật vũ trụ chân chính."
     }
   ]
 }

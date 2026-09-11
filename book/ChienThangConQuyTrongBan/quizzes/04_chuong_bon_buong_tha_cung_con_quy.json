@@ -5,184 +5,184 @@
   "totalQuestions": 15,
   "questions": [
     {
+      "id": "q1",
       "question": "Theo lời thú nhận của Con Quỷ, vũ khí lợi hại nhất mà nó sử dụng để khống chế và kiểm soát 98% loài người bắt nguồn từ thói quen nào?",
       "options": [
-        "Thói quen hưởng thụ vật chất xa hoa và lười vận động",
-        "Thói quen buông thả (drifting) - để bản thân bị dẫn dắt bởi hoàn cảnh bên ngoài và lười suy nghĩ cho chính mình",
-        "Thói quen chỉ trích xã hội và chống đối các quy chuẩn tôn giáo",
-        "Thói quen tham lam tiền bạc và bất chấp đạo đức để tích lũy tài sản"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ thừa nhận 'buông thả' (drifting) là vũ khí lợi hại nhất: những người không chịu suy nghĩ độc lập, để mặc hoàn cảnh chi phối và không có mục đích sống rõ ràng chính là nạn nhân dễ sa bẫy nhất.",
-      "id": "q1"
-    },
-    {
-      "question": "Dấu hiệu cốt lõi nhất để phân biệt một người có tư duy độc lập với một kẻ buông thả theo định nghĩa của Con Quỷ là gì?",
-      "options": [
-        "Người có tư duy độc lập có học vị cao hơn và đọc nhiều sách hơn kẻ buông thả",
-        "Người có tư duy độc lập có nhiều của cải và địa vị xã hội vượt trội",
-        "Người biết suy nghĩ cho bản thân không chấp nhận bất cứ điều gì mà không qua suy xét, trong khi kẻ buông thả thụ động đón nhận mọi biến cố cuộc đời mà không phản kháng",
-        "Người buông thả không bao giờ có ý kiến, còn người tư duy độc lập luôn tranh cãi để bảo vệ ý kiến"
-      ],
-      "correctIndex": 2,
-      "explanation": "Kẻ buông thả chấp nhận bất cứ thứ gì cuộc đời ném vào mà không phản kháng, lười dùng não bộ và vay mượn quan điểm từ người khác (chính là do Quỷ cấy vào).",
-      "id": "q2"
-    },
-    {
-      "question": "Con Quỷ cho biết nó thâm nhập vào tâm trí con người thông qua hai cánh cửa nền tảng nào?",
-      "options": [
-        "Bệnh tật thể xác và sự cô lập xã hội",
-        "Di truyền tự nhiên (trước khi sinh) và môi trường sống / thói quen (sau khi sinh)",
-        "Sự bất mãn trong công việc và nghèo đói gia đình",
-        "Sách báo đồi trụy và các hình thức giải trí không lành mạnh"
-      ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ giải thích hai cánh cửa: thứ nhất là 'di truyền tự nhiên' chuẩn bị khiếm khuyết trước khi sinh, thứ hai là lợi dụng 'môi trường sống' để thiết lập thói quen kiểm soát tâm trí sau khi sinh.",
-      "id": "q3"
-    },
-    {
-      "question": "Trong số chín cánh cửa tâm trí mà Con Quỷ lợi dụng để lẻn vào dưới danh nghĩa 'những suy nghĩ của chính nạn nhân', yếu tố nào sau đây là vũ khí đắc lực nhất?",
-      "options": [
-        "Nỗi sợ hãi, mê tín, tham lam, giận dữ và tính lười nhác",
-        "Lòng trắc ẩn, tình yêu thương đồng loại và sự nhẫn nại",
-        "Khát khao phiêu lưu mạo hiểm và sự tò mò học thuật",
-        "Ý chí tự do và ước mơ vượt lên nghịch cảnh"
+        "Thói quen buông thả, để bản thân bị dẫn dắt bởi hoàn cảnh bên ngoài và từ bỏ quyền tự chủ suy nghĩ cho chính bản thân mình.",
+        "Thói quen hưởng thụ vật chất xa hoa, lười vận động và luôn tìm kiếm sự an nhàn trong mọi khía cạnh của cuộc sống thường nhật.",
+        "Thói quen chỉ trích xã hội, chống đối các quy chuẩn tôn giáo và luôn hoài nghi về mọi giá trị đạo đức truyền thống hiện hành.",
+        "Thói quen tham lam tiền bạc, bất chấp đạo đức để tích lũy tài sản và luôn khao khát quyền lực thống trị người khác mỗi ngày."
       ],
       "correctIndex": 0,
-      "explanation": "Con Quỷ liệt kê 9 cánh cửa: nỗi sợ hãi, mê tín, tính hám lợi, tham lam, thói dâm ô, sự trả thù, cơn giận dữ, sự phù phiếm và tính lười nhác.",
-      "id": "q4"
+      "explanation": "Con Quỷ khẳng định 'buông thả' là vũ khí lợi hại nhất vì nó khiến con người từ bỏ tư duy độc lập, để hoàn cảnh chi phối."
     },
     {
-      "question": "Tại sao Con Quỷ lại cảnh báo và cầu xin Napoleon Hill KHÔNG được xuất bản trò xảo quyệt thứ hai của nó?",
+      "id": "q2",
+      "question": "Dấu hiệu cốt lõi nhất để phân biệt một người có tư duy độc lập với một kẻ buông thả theo định nghĩa của Con Quỷ là gì?",
       "options": [
-        "Vì trò này sẽ tiết lộ danh tính của những chính trị gia nổi tiếng đương thời",
-        "Vì nó phơi bày sự tiếp tay vô thức của phụ huynh, giáo viên và các nhà truyền giáo trong việc triệt tiêu khả năng tự tư duy của trẻ em",
-        "Vì trò này là bí mật ma thuật có thể khiến Con Quỷ bị tiêu diệt vật lý ngay lập tức",
-        "Vì nó sẽ làm sụp đổ hoàn toàn nền kinh tế tư bản của nước Mỹ thời bấy giờ"
+        "Người tư duy độc lập thường có học vị cao và đọc nhiều sách hơn, trong khi kẻ buông thả thường có trình độ học vấn rất thấp kém.",
+        "Người tư duy độc lập không chấp nhận bất cứ điều gì mà không qua suy xét, trong khi kẻ buông thả thụ động đón nhận mọi biến cố.",
+        "Người tư duy độc lập luôn sở hữu nhiều của cải và địa vị xã hội, trong khi kẻ buông thả thường sống trong cảnh nghèo khó túng thiếu.",
+        "Người tư duy độc lập luôn tranh cãi để bảo vệ ý kiến cá nhân, trong khi kẻ buông thả không bao giờ có bất kỳ quan điểm riêng nào."
       ],
       "correctIndex": 1,
-      "explanation": "Trò xảo quyệt nhất của Con Quỷ là dùng chính cha mẹ, thầy cô giáo và nhà truyền giáo để phá vỡ tư duy độc lập của trẻ em bằng nỗi sợ và sự áp đặt quan điểm có sẵn.",
-      "id": "q5"
+      "explanation": "Kẻ buông thả lười dùng não bộ, chấp nhận mọi thứ cuộc đời ném vào mà không phản kháng, trái ngược với người biết tư duy độc lập."
     },
     {
+      "id": "q3",
+      "question": "Con Quỷ cho biết nó thâm nhập vào tâm trí con người thông qua hai cánh cửa nền tảng nào để thiết lập sự kiểm soát lâu dài?",
+      "options": [
+        "Thông qua sự bất mãn trong công việc hàng ngày và nỗi lo âu về nghèo đói gia đình mà con người phải đối mặt trong suốt cuộc đời.",
+        "Thông qua các hình thức giải trí không lành mạnh và sự cô lập xã hội khiến con người mất đi kết nối với cộng đồng xung quanh.",
+        "Thông qua di truyền tự nhiên trước khi sinh và lợi dụng môi trường sống để thiết lập thói quen kiểm soát tâm trí sau khi sinh.",
+        "Thông qua bệnh tật thể xác kéo dài và sự suy giảm trí nhớ tự nhiên khiến con người dễ dàng bị thao túng bởi các thế lực bên ngoài."
+      ],
+      "correctIndex": 2,
+      "explanation": "Con Quỷ dùng di truyền để tạo khiếm khuyết và môi trường sống để hình thành thói quen, từ đó thống trị tâm trí con người."
+    },
+    {
+      "id": "q4",
+      "question": "Trong số chín cánh cửa tâm trí mà Con Quỷ lợi dụng để lẻn vào dưới danh nghĩa 'những suy nghĩ của chính nạn nhân', yếu tố nào là vũ khí đắc lực nhất?",
+      "options": [
+        "Lòng trắc ẩn, tình yêu thương đồng loại, sự nhẫn nại, lòng vị tha, tính trung thực, sự khiêm tốn và tinh thần đoàn kết cộng đồng.",
+        "Khát khao phiêu lưu mạo hiểm, sự tò mò học thuật, niềm đam mê nghệ thuật, sự sáng tạo và tinh thần đổi mới không ngừng nghỉ.",
+        "Ý chí tự do, ước mơ vượt lên nghịch cảnh, niềm tin vào bản thân, sự kiên trì và khả năng chịu đựng áp lực trong mọi hoàn cảnh.",
+        "Nỗi sợ hãi, mê tín, tính hám lợi, tham lam, thói dâm ô, sự trả thù, cơn giận dữ, sự phù phiếm và tính lười nhác của con người."
+      ],
+      "correctIndex": 3,
+      "explanation": "Con Quỷ liệt kê chín đặc tính tiêu cực này là những cánh cửa giúp nó thâm nhập và kiểm soát tâm trí ở mọi độ tuổi."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao Con Quỷ lại cảnh báo và cầu xin Napoleon Hill KHÔNG được xuất bản trò xảo quyệt thứ hai của nó trong cuốn sách?",
+      "options": [
+        "Vì nó phơi bày sự tiếp tay vô thức của phụ huynh, giáo viên và các nhà truyền giáo trong việc triệt tiêu khả năng tự tư duy của trẻ.",
+        "Vì trò này sẽ tiết lộ danh tính của những chính trị gia nổi tiếng đương thời đang bí mật làm việc cho thế lực của Con Quỷ hiện nay.",
+        "Vì nó là bí mật ma thuật có thể khiến Con Quỷ bị tiêu diệt vật lý ngay lập tức nếu bị phơi bày trước công chúng rộng rãi toàn cầu.",
+        "Vì nó sẽ làm sụp đổ hoàn toàn nền kinh tế tư bản của nước Mỹ thời bấy giờ và gây ra sự hỗn loạn trong trật tự xã hội hiện tại."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trò này liên quan đến việc cha mẹ và giáo viên vô tình phá hủy tư duy độc lập của trẻ, điều mà Quỷ muốn giấu kín."
+    },
+    {
+      "id": "q6",
       "question": "Theo phân tích trong chương sách, việc cha mẹ làm giúp bài tập về nhà hoặc bảo bọc con cái quá mức dẫn đến hậu quả nguy hiểm nào?",
       "options": [
-        "Làm tăng tính sáng tạo nhưng làm giảm trí nhớ của trẻ",
-        "Giúp đứa trẻ yêu thương cha mẹ hơn nhưng ghét bỏ thầy cô giáo",
-        "Hủy hoại sự tự tin của trẻ và khiến trẻ ngầm hiểu rằng bản thân không có khả năng tự giải quyết vấn đề, từ đó hình thành thói quen buông thả",
-        "Khiến trẻ đạt điểm số cao vượt trội nhưng mất đi sự khéo léo trong giao tiếp xã hội"
+        "Làm tăng tính sáng tạo nhưng lại làm giảm trí nhớ của trẻ, khiến chúng trở nên phụ thuộc vào sự hướng dẫn của người lớn trong mọi việc.",
+        "Hủy hoại sự tự tin của trẻ và khiến trẻ ngầm hiểu rằng bản thân không có khả năng tự giải quyết vấn đề, từ đó hình thành thói buông thả.",
+        "Giúp đứa trẻ yêu thương cha mẹ hơn nhưng lại ghét bỏ thầy cô giáo, tạo ra sự mất cân bằng trong các mối quan hệ xã hội của trẻ nhỏ.",
+        "Khiến trẻ đạt điểm số cao vượt trội nhưng lại mất đi sự khéo léo trong giao tiếp xã hội và khả năng làm việc nhóm với bạn bè đồng lứa."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự 'giúp đỡ' thái quá của cha mẹ hủy hoại lòng tự tin của trẻ, khiến trẻ nghĩ rằng cha mẹ không tin mình làm được và triệt tiêu động lực tư duy độc lập.",
-      "id": "q6"
+      "correctIndex": 1,
+      "explanation": "Sự bảo bọc thái quá khiến trẻ mất tự tin và không học được cách tự tư duy, dẫn đến việc dễ dàng buông thả."
     },
     {
+      "id": "q7",
       "question": "Con Quỷ đã lợi dụng các nhà truyền giáo truyền thống gieo rắc nỗi sợ hãi lớn nhất nào vào tâm trí trẻ thơ để khống chế chúng?",
       "options": [
-        "Nỗi sợ nghèo đói và thất nghiệp",
-        "Nỗi sợ cô đơn và bị bạn bè tẩy chay",
-        "Nỗi sợ hãi phải xuống địa ngục và sự trừng phạt vĩnh hằng",
-        "Nỗi sợ bóng tối và cái chết bất đắc kỳ tử"
+        "Nỗi sợ nghèo đói và thất nghiệp trong tương lai, khiến trẻ luôn lo lắng về sự ổn định tài chính thay vì phát triển tư duy sáng tạo.",
+        "Nỗi sợ cô đơn và bị bạn bè tẩy chay trong môi trường học đường, khiến trẻ luôn tìm cách hòa nhập bằng cách đánh mất cá tính riêng.",
+        "Nỗi sợ hãi phải xuống địa ngục và sự trừng phạt vĩnh hằng, điều làm tê liệt khả năng suy luận lý trí của trẻ từ tấm bé.",
+        "Nỗi sợ bóng tối và cái chết bất đắc kỳ tử, khiến trẻ luôn cảm thấy bất an và cần sự che chở của các thế lực tâm linh huyền bí."
       ],
       "correctIndex": 2,
-      "explanation": "Con Quỷ cho biết việc gieo vào tâm trí đứa trẻ nỗi sợ hãi địa ngục làm tê liệt khả năng suy luận lý trí từ tấm bé, khiến chúng dễ buông thả suốt đời.",
-      "id": "q7"
+      "explanation": "Nỗi sợ địa ngục là công cụ mạnh mẽ nhất để làm tê liệt khả năng tư duy độc lập của trẻ em ngay từ khi còn nhỏ."
     },
     {
+      "id": "q8",
       "question": "Lời chỉ trích cốt lõi nhất của Napoleon Hill đối với hệ thống trường học công thời đại của ông là gì?",
       "options": [
-        "Thu học phí quá cao khiến con em gia đình nghèo không thể tiếp cận",
-        "Hệ thống chỉ nhồi nhét thông tin ghi nhớ máy móc thay vì dạy học sinh cách suy nghĩ độc lập và làm chủ trí tuệ của chính mình",
-        "Cơ sở vật chất xuống cấp và thiếu các lớp rèn luyện thể chất",
-        "Thời lượng học quá dài khiến trẻ em không có thời gian phụ giúp gia đình"
+        "Thu học phí quá cao khiến con em gia đình nghèo không thể tiếp cận, tạo ra sự bất bình đẳng trong cơ hội phát triển trí tuệ xã hội.",
+        "Cơ sở vật chất xuống cấp và thiếu các lớp rèn luyện thể chất, khiến học sinh không có đủ sức khỏe để theo đuổi các mục tiêu học tập.",
+        "Thời lượng học quá dài khiến trẻ em không có thời gian phụ giúp gia đình, làm giảm đi giá trị đạo đức của sự lao động chân chính.",
+        "Hệ thống chỉ nhồi nhét thông tin ghi nhớ máy móc thay vì dạy học sinh cách suy nghĩ độc lập và làm chủ trí tuệ của chính mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Con Quỷ thừa nhận các trường học giúp nó bằng 'những gì họ không dạy': dạy về mọi thứ trừ cách tư duy độc lập và cách sử dụng trí tuệ của riêng học sinh.",
-      "id": "q8"
+      "correctIndex": 3,
+      "explanation": "Hệ thống giáo dục thất bại vì không dạy trẻ cách tư duy độc lập, mà chỉ dạy cách chấp nhận tư duy của người khác."
     },
     {
+      "id": "q9",
       "question": "Điều gì biến những đứa trẻ mẫu giáo đầy háo hức, sáng tạo trở thành những học sinh trung học thụ động, sợ hãi và chỉ ngồi cuối lớp?",
       "options": [
-        "Sự biến đổi hormone tuổi dậy thì làm suy giảm trí thông minh tự nhiên",
-        "Áp lực tài chính đè nặng lên các em khi bước vào tuổi trưởng thành",
-        "Môi trường giáo dục phạt lỗi sai và áp đặt quyền lực, khiến học sinh chọn cách thụ động để tự bảo vệ mình khỏi sự chế nhạo và trù dập",
-        "Sự phát triển của công nghệ và các thiết bị giải trí đại chúng"
+        "Môi trường giáo dục phạt lỗi sai và áp đặt quyền lực, khiến học sinh chọn cách thụ động để tự bảo vệ mình khỏi sự chế nhạo và trù dập.",
+        "Sự biến đổi hormone tuổi dậy thì làm suy giảm trí thông minh tự nhiên, khiến học sinh mất đi sự tò mò và nhiệt huyết học tập ban đầu.",
+        "Áp lực tài chính đè nặng lên các em khi bước vào tuổi trưởng thành, khiến học sinh chỉ quan tâm đến việc kiếm tiền thay vì học hỏi.",
+        "Sự phát triển của công nghệ và các thiết bị giải trí đại chúng, khiến học sinh mất tập trung vào các bài giảng trên lớp của thầy cô."
       ],
-      "correctIndex": 2,
-      "explanation": "Trong ghi chú phân tích của chương, tác giả chỉ ra trường học dạy trẻ rằng đáp án luôn ở trong tay thầy cô; mắc lỗi sẽ bị chê cười nên học sinh chọn im lặng thụ động để an toàn.",
-      "id": "q9"
+      "correctIndex": 0,
+      "explanation": "Sự sợ hãi bị chế nhạo khi mắc lỗi khiến học sinh không còn dám tham gia vào quá trình học hỏi và tư duy độc lập."
     },
     {
+      "id": "q10",
       "question": "Con Quỷ định nghĩa thế nào về 'những tư duy đúng đắn' (accurate thinking) và tác động của nó đối với sự tồn tại của nó?",
       "options": [
-        "Tư duy đúng đắn giúp con người tích lũy tài sản nhanh chóng mà Quỷ có thể dễ dàng đánh thuế",
-        "Tư duy đúng đắn chỉ là một triết lý lý thuyết không có ảnh hưởng gì đến quyền năng của Quỷ",
-        "Tư duy đúng đắn là thứ vũ khí có thể giết chết Con Quỷ; nó không thể tồn tại trong tâm trí của những người tư duy tích cực, rõ ràng và có mục tiêu",
-        "Tư duy đúng đắn thúc đẩy các cuộc chiến tranh giáo phái giúp Quỷ mở rộng địa bàn"
-      ],
-      "correctIndex": 2,
-      "explanation": "Con Quỷ khẳng định: 'Những tư duy đúng đắn có thể giết chết ta. Ta không thể tồn tại trong tâm trí của những người biết tư duy đúng đắn.'",
-      "id": "q10"
-    },
-    {
-      "question": "Mối quan hệ liên đới giữa các thói quen buông thả được Con Quỷ mô tả như thế nào?",
-      "options": [
-        "Buông thả trong một lĩnh vực sẽ được bù đắp bằng sự quyết tâm trong lĩnh vực khác",
-        "Các thói quen có tính liên kết chặt chẽ; khi một người bắt đầu buông thả ở một hướng đi thì chẳng mấy chốc sẽ buông thả trên mọi hướng đi",
-        "Thói quen buông thả chỉ giới hạn trong công việc chứ không lây lan sang đời sống hôn nhân",
-        "Thói quen buông thả chỉ xuất hiện ở tuổi thanh niên và tự động biến mất khi về già"
+        "Tư duy đúng đắn giúp con người tích lũy tài sản nhanh chóng mà Con Quỷ có thể dễ dàng đánh thuế và kiểm soát thông qua lòng tham.",
+        "Tư duy đúng đắn là vũ khí có thể giết chết Con Quỷ; nó không thể tồn tại trong tâm trí của những người tư duy tích cực và rõ ràng.",
+        "Tư duy đúng đắn chỉ là một triết lý lý thuyết không có ảnh hưởng gì đến quyền năng của Con Quỷ trong việc thống trị tâm trí con người.",
+        "Tư duy đúng đắn thúc đẩy các cuộc chiến tranh giáo phái giúp Con Quỷ mở rộng địa bàn và gieo rắc sự chia rẽ trong cộng đồng nhân loại."
       ],
       "correctIndex": 1,
-      "explanation": "Con Quỷ chỉ ra tính chất dây chuyền: 'Các thói quen có mối liên hệ với nhau. Khi đã buông thả một hướng đi, chẳng mấy chốc ngươi sẽ buông thả mọi hướng đi.'",
-      "id": "q11"
+      "explanation": "Con Quỷ không thể tồn tại trong tâm trí của những người biết tư duy đúng đắn, vì đó là kẻ thù của sự sợ hãi và buông thả."
     },
     {
-      "question": "Tại sao Con Quỷ lại muốn các bậc phụ huynh áp đặt đức tin chính trị và tôn giáo của chính họ lên con cái?",
+      "id": "q11",
+      "question": "Mối quan hệ liên đới giữa các thói quen buông thả được Con Quỷ mô tả như thế nào trong quá trình kiểm soát tâm trí?",
       "options": [
-        "Để tạo nên sự gắn kết gia đình truyền thống vững mạnh",
-        "Để duy trì quyền kiểm soát xuyên thế hệ: khi đã khống chế được cha mẹ, nó mượn tay cha mẹ để khóa chặt tâm trí con cái mà không cần tốn thêm công sức",
-        "Vì Con Quỷ tôn trọng lòng hiếu thảo và trật tự thứ bậc trong gia đình",
-        "Nhằm giúp những đứa trẻ kế thừa tài sản của tổ tiên một cách trọn vẹn"
+        "Buông thả trong một lĩnh vực sẽ được bù đắp bằng sự quyết tâm trong lĩnh vực khác, tạo ra sự cân bằng cần thiết cho cuộc sống con người.",
+        "Thói quen buông thả chỉ giới hạn trong công việc chứ không lây lan sang đời sống hôn nhân hay các mối quan hệ xã hội khác của nạn nhân.",
+        "Các thói quen có tính liên kết chặt chẽ; khi một người bắt đầu buông thả ở một hướng đi thì chẳng mấy chốc sẽ buông thả trên mọi hướng.",
+        "Thói quen buông thả chỉ xuất hiện ở tuổi thanh niên và tự động biến mất khi về già, khi con người đã có đủ kinh nghiệm sống thực tế."
+      ],
+      "correctIndex": 2,
+      "explanation": "Con Quỷ nhấn mạnh tính dây chuyền: buông thả một hướng sẽ dẫn đến buông thả mọi hướng, tạo điều kiện cho nó kiểm soát hoàn toàn."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao Con Quỷ lại muốn các bậc phụ huynh áp đặt đức tin chính trị và tôn giáo của chính họ lên con cái mình?",
+      "options": [
+        "Để tạo nên sự gắn kết gia đình truyền thống vững mạnh, giúp con người cảm thấy an toàn hơn trong một thế giới đầy rẫy những biến động.",
+        "Vì Con Quỷ tôn trọng lòng hiếu thảo và trật tự thứ bậc trong gia đình, coi đó là nền tảng để duy trì sự ổn định của xã hội loài người.",
+        "Nhằm giúp những đứa trẻ kế thừa tài sản của tổ tiên một cách trọn vẹn và phát huy được các giá trị đạo đức tốt đẹp của dòng họ mình.",
+        "Để duy trì quyền kiểm soát xuyên thế hệ: khi đã khống chế được cha mẹ, nó mượn tay họ để khóa chặt tâm trí con cái mà không tốn công."
+      ],
+      "correctIndex": 3,
+      "explanation": "Việc bắt con cái tin theo cha mẹ là cách Quỷ duy trì sự kiểm soát tâm trí từ thế hệ này sang thế hệ khác một cách tự động."
+    },
+    {
+      "id": "q13",
+      "question": "Hệ thống giáo dục lý tưởng mà Con Quỷ vô cùng khiếp sợ sẽ có đặc điểm then chốt nào trong việc phát triển trí tuệ?",
+      "options": [
+        "Học sinh được khuyến khích tự khám phá, còn thầy cô đóng vai trò người hướng dẫn phát triển trí tuệ từ bên trong của từng cá nhân.",
+        "Tăng gấp đôi số lượng bài kiểm tra tiêu chuẩn hóa và áp dụng kỷ luật quân đội để đảm bảo học sinh luôn tuân thủ mọi quy định nhà trường.",
+        "Miễn toàn bộ học phí và cấp bằng tốt nghiệp tự động cho tất cả học sinh để giảm bớt áp lực thi cử và tạo sự bình đẳng trong giáo dục.",
+        "Loại bỏ hoàn toàn các môn khoa học tự nhiên và chỉ tập trung vào thần học để giúp học sinh hiểu rõ hơn về các giá trị tâm linh cao cả."
+      ],
+      "correctIndex": 0,
+      "explanation": "Quỷ sợ hệ thống cho phép học sinh tự phát triển trí tuệ từ bên trong, vì nó phá hủy mục tiêu biến học sinh thành kẻ buông thả."
+    },
+    {
+      "id": "q14",
+      "question": "Khi một người cho phép hoàn cảnh bên ngoài quyết định số phận mình, người đó đang rơi vào tình trạng gì theo lời Con Quỷ?",
+      "options": [
+        "Sự thích ứng sinh học hoàn hảo theo thuyết tiến hóa, giúp con người tồn tại tốt hơn trong những môi trường sống khắc nghiệt nhất.",
+        "Trở thành một kẻ buông thả trọn vẹn, tự nguyện trao quyền làm chủ tâm trí cho thế lực của Con Quỷ mà không hề hay biết.",
+        "Thái độ khiêm nhường và nhẫn nhịn đáng ca ngợi theo các chuẩn mực đạo đức cổ điển, giúp con người đạt được sự bình an trong tâm hồn.",
+        "Rèn luyện sự kiên nhẫn để đón nhận thời cơ lớn hơn trong tương lai, khi mà các yếu tố ngoại cảnh trở nên thuận lợi hơn cho cá nhân."
       ],
       "correctIndex": 1,
-      "explanation": "Con Quỷ chia sẻ thủ đoạn: buộc cha mẹ dạy con tin y hệt mình để sự kiểm soát tâm trí được tự động chuyển giao từ thế hệ này sang thế hệ khác.",
-      "id": "q12"
+      "explanation": "Để hoàn cảnh chi phối thay vì tự mình làm chủ tâm trí chính là định nghĩa chuẩn xác nhất về thói buông thả mà Quỷ khai thác."
     },
     {
-      "question": "Hệ thống giáo dục lý tưởng mà Con Quỷ vô cùng khiếp sợ sẽ có đặc điểm then chốt nào?",
-      "options": [
-        "Tăng gấp đôi số lượng bài kiểm tra tiêu chuẩn hóa và kỷ luật quân đội",
-        "Miễn toàn bộ học phí và cấp bằng tốt nghiệp tự động cho tất cả học sinh",
-        "Học sinh được khuyến khích trở thành người tự khám phá, còn thầy cô đóng vai trò người hướng dẫn phát triển trí tuệ từ bên trong của từng cá nhân",
-        "Loại bỏ hoàn toàn các môn khoa học tự nhiên và chỉ tập trung vào thần học"
-      ],
-      "correctIndex": 2,
-      "explanation": "Con Quỷ lo sợ một ngày ai đó đảo ngược hệ thống: học sinh tự chủ tư duy, còn giáo viên chỉ hướng dẫn phương pháp phát triển trí tuệ từ bên trong học sinh.",
-      "id": "q13"
-    },
-    {
-      "question": "Khi một người cho phép hoàn cảnh bên ngoài (dư luận, hoàn cảnh kinh tế, may rủi) quyết định số phận mình, người đó đang rơi vào tình trạng gì?",
-      "options": [
-        "Sự thích ứng sinh học hoàn hảo theo thuyết tiến hóa",
-        "Thái độ khiêm nhường và nhẫn nhịn đáng ca ngợi theo các chuẩn mực đạo đức cổ điển",
-        "Trở thành một 'kẻ buông thả' trọn vẹn, tự nguyện trao quyền làm chủ tâm trí cho thế lực của Con Quỷ",
-        "Rèn luyện sự kiên nhẫn để đón nhận thời cơ lớn hơn trong tương lai"
-      ],
-      "correctIndex": 2,
-      "explanation": "Để hoàn cảnh bên ngoài kiểm soát tâm trí thay vì tự mình làm chủ chính là định nghĩa chuẩn xác nhất về thói buông thả mà Con Quỷ khai thác.",
-      "id": "q14"
-    },
-    {
+      "id": "q15",
       "question": "Tại sao vợ của Napoleon Hill ban đầu lại kiên quyết ngăn cản ông xuất bản cuốn sách 'Chiến Thắng Con Quỷ Trong Bạn'?",
       "options": [
-        "Bà lo sợ cuốn sách sẽ thất bại về mặt thương mại và làm khánh kiệt gia đình",
-        "Bà nhận thấy nội dung cuốn sách quá trừu tượng và không mang lại giá trị thực tiễn",
-        "Bà lo ngại sự phản đối gay gắt, tẩy chay từ các tổ chức tôn giáo, trường học và công chúng trước những đòn tấn công thẳng thắn vào hệ thống niềm tin truyền thống",
-        "Bà muốn giữ bản quyền cuốn sách để cho các con thừa kế sau này"
+        "Bà lo sợ cuốn sách sẽ thất bại về mặt thương mại và làm khánh kiệt gia đình, khiến cuộc sống của họ trở nên khó khăn và thiếu ổn định.",
+        "Bà nhận thấy nội dung cuốn sách quá trừu tượng và không mang lại giá trị thực tiễn cho độc giả trong việc giải quyết các vấn đề đời sống.",
+        "Bà lo ngại sự phản đối gay gắt, tẩy chay từ các tổ chức tôn giáo, trường học trước những đòn tấn công thẳng thắn vào hệ thống niềm tin.",
+        "Bà muốn giữ bản quyền cuốn sách để cho các con thừa kế sau này, coi đó là một tài sản trí tuệ quý giá cần được bảo tồn cho thế hệ sau."
       ],
       "correctIndex": 2,
-      "explanation": "Ghi chú trong chương 4 tiết lộ vợ của Napoleon Hill lo sợ phản ứng dữ dội từ nhà thờ và hệ thống giáo dục nên đã bắt ông hứa không xuất bản khi bà còn sống.",
-      "id": "q15"
+      "explanation": "Vợ ông lo sợ phản ứng dữ dội từ các định chế xã hội vì cuốn sách phơi bày sự thật về cách họ vô tình tiếp tay cho Con Quỷ."
     }
   ]
 }
