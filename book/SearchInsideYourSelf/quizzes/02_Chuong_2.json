@@ -8,10 +8,10 @@
       "id": "q1",
       "question": "Ý nghĩa ẩn dụ của câu nói 'Hãy thở như thể cuộc đời bạn phụ thuộc vào nó' trong Chương 2 là gì?",
       "options": [
-        "Hơi thở là chiếc cầu nối kỳ diệu đưa tâm trí trở về với sự sống thực tại đang diễn ra trong từng khoảnh khắc.",
-        "Nhắc nhở rằng nếu ngừng thở thì chúng ta sẽ chết ngay lập tức, do đó phải liên tục đếm số lần thở mỗi phút.",
-        "Khuyên người tập nên luyện tập các bài tập nín thở dưới nước để tăng cường khả năng chịu đựng của lá phổi.",
-        "Cảnh báo về tình trạng ô nhiễm không khí tại các đô thị lớn đang ảnh hưởng tiêu cực tới đường hô hấp của bạn."
+        "Hơi thở là chiếc cầu nối kỳ diệu giúp tâm trí quay về với sự sống thực tại đang diễn ra trong từng khoảnh khắc hiện tại.",
+        "Lời nhắc nhở rằng nếu ngừng thở thì chúng ta sẽ chết ngay lập tức, do đó phải liên tục đếm số lần thở mỗi phút mỗi giờ.",
+        "Khuyên người tập nên luyện tập các bài tập nín thở dưới nước để tăng cường khả năng chịu đựng của lá phổi và cơ hoành.",
+        "Cảnh báo về tình trạng ô nhiễm không khí tại các đô thị lớn đang ảnh hưởng tiêu cực tới đường hô hấp của mỗi cá nhân."
       ],
       "correctIndex": 0,
       "explanation": "Hơi thở luôn xảy ra trong khoảnh khắc hiện tại; chú tâm vào hơi thở như thể cuộc đời phụ thuộc vào nó là lời nhắc nhở sâu sắc về việc sống tỉnh thức trọn vẹn ngay bây giờ và ở đây."
@@ -20,10 +20,10 @@
       "id": "q2",
       "question": "Meng đã dùng hình ảnh ẩn dụ nào để giải thích quan điểm 'Hạnh phúc là trạng thái mặc định của tâm trí'?",
       "options": [
-        "Hình ảnh một dòng sông chảy xiết chỉ trở nên phẳng lặng khi mùa đông lạnh giá làm nước đóng thành băng tuyết.",
-        "Bầu trời xanh trong trẻo luôn luôn có sẵn; mây mù và bão tố có thể che khuất nhưng không làm mất đi bầu trời xanh.",
-        "Một bức tranh nghệ thuật đắt giá bị lãng quên trong nhà kho tối chỉ chờ có người đến lau sạch lớp bụi bặm bên ngoài.",
-        "Một cỗ máy tính hiện đại luôn cần phải được cài đặt lại hệ điều hành sau mỗi thời gian dài sử dụng liên tục."
+        "Tâm trí giống như một dòng sông chảy xiết chỉ trở nên phẳng lặng khi mùa đông lạnh giá làm nước đóng thành băng tuyết.",
+        "Tâm trí giống như bầu trời xanh luôn sẵn có, mây mù và bão tố chỉ là những hiện tượng tạm thời che khuất vẻ trong trẻo.",
+        "Tâm trí giống như một bức tranh nghệ thuật đắt giá bị lãng quên trong nhà kho tối chờ người đến lau sạch lớp bụi bặm.",
+        "Tâm trí giống như một cỗ máy tính hiện đại luôn cần phải được cài đặt lại hệ điều hành sau mỗi thời gian dài sử dụng."
       ],
       "correctIndex": 1,
       "explanation": "Meng ví tâm trí như bầu trời xanh: sự an bình và hạnh phúc luôn là bản chất tự nhiên sẵn có; những suy nghĩ lo âu, giận dữ chỉ là những đám mây trôi qua che khuất tạm thời."
@@ -32,10 +32,10 @@
       "id": "q3",
       "question": "Hai phẩm chất tâm thức tưởng chừng đối lập nhưng cần phải được kết hợp hài hòa trong thiền là gì?",
       "options": [
-        "Sự căng thẳng tột độ và sự sợ hãi thất bại trong công việc.",
-        "Sự mơ màng buồn ngủ và sự suy nghĩ lan man về tương lai.",
-        "Sự cảnh giác nhạy bén và sự buông lỏng thư giãn toàn thân.",
-        "Lòng kiêu hãnh cá nhân và sự phán xét khắt khe với người khác."
+        "Sự căng thẳng tột độ và sự sợ hãi thất bại trong công việc để tạo động lực mạnh mẽ cho quá trình rèn luyện tinh thần.",
+        "Sự mơ màng buồn ngủ và sự suy nghĩ lan man về tương lai để giúp tâm trí thoát khỏi những áp lực của thực tại hiện hữu.",
+        "Sự cảnh giác nhạy bén và sự buông lỏng thư giãn toàn thân để tâm trí vừa ổn định vừa không bị căng thẳng quá mức.",
+        "Lòng kiêu hãnh cá nhân và sự phán xét khắt khe với người khác nhằm duy trì kỷ luật nghiêm ngặt trong suốt quá trình thiền."
       ],
       "correctIndex": 2,
       "explanation": "Trạng thái thiền lý tưởng đòi hỏi sự cân bằng tinh tế giữa Cảnh giác (Alertness) và Thư giãn (Relaxation), tương tự như dây đàn không quá chùng cũng không quá căng."
@@ -44,10 +44,10 @@
       "id": "q4",
       "question": "Khi ngồi thiền, tư thế của cột sống lưng được tác giả khuyên nên giữ như thế nào cho chuẩn xác?",
       "options": [
-        "Cúi gập người về phía trước để giảm bớt áp lực đè nặng lên các khớp xương chậu và cơ hông.",
-        "Gồng thật cứng các cơ lưng và ưỡn ngực hết cỡ về phía trước để mở rộng dung tích khoang lồng ngực.",
-        "Dựa lưng hoàn toàn vào thành ghế hoặc nằm ngửa thẳng chân trên sàn nhà để tránh bị mỏi lưng.",
-        "Thẳng đứng và trang nghiêm nhưng thoải mái tự nhiên, giống như một chồng tiền xu xếp ngay ngắn."
+        "Cúi gập người về phía trước để giảm bớt áp lực đè nặng lên các khớp xương chậu và cơ hông trong suốt thời gian ngồi thiền.",
+        "Gồng thật cứng các cơ lưng và ưỡn ngực hết cỡ về phía trước để mở rộng dung tích khoang lồng ngực giúp hơi thở sâu hơn.",
+        "Dựa lưng hoàn toàn vào thành ghế hoặc nằm ngửa thẳng chân trên sàn nhà để tránh bị mỏi lưng và duy trì sự thoải mái tối đa.",
+        "Thẳng đứng và trang nghiêm nhưng thoải mái tự nhiên, giống như một chồng tiền xu xếp chồng lên nhau một cách vững chãi."
       ],
       "correctIndex": 3,
       "explanation": "Tư thế ngồi thiền chuẩn: lưng thẳng như một chồng tiền xu xếp chồng lên nhau (thẳng tự nhiên, vững chãi nhưng không gồng cứng), vai thả lỏng, đầu cân bằng."
@@ -56,10 +56,10 @@
       "id": "q5",
       "question": "Khi bạn đang thiền mà một cảm giác khó chịu hoặc ngứa ngáy xuất hiện trên cơ thể, bước xử lý đầu tiên là gì?",
       "options": [
-        "Thừa nhận sự có mặt của cảm giác đó với sự nhận biết tỉnh thức mà không vội vàng phản ứng ngay.",
-        "Lập tức đưa tay lên gãi thật mạnh để dập tắt ngay cơn ngứa và không làm gián đoạn bài tập thiền.",
-        "Tự trách bản thân thiếu kỷ luật và cố gắng dùng ý chí gồng mình chịu đựng cơn ngứa trong đau đớn.",
-        "Mở mắt ra ngay lập tức và dừng toàn bộ bài tập thiền vì cho rằng cơ thể mình không phù hợp với việc ngồi."
+        "Thừa nhận sự có mặt của cảm giác đó với sự nhận biết tỉnh thức mà không vội vàng phản ứng hay phán xét nó là tốt xấu.",
+        "Lập tức đưa tay lên gãi thật mạnh để dập tắt ngay cơn ngứa và không làm gián đoạn bài tập thiền đang diễn ra suôn sẻ.",
+        "Tự trách bản thân thiếu kỷ luật và cố gắng dùng ý chí gồng mình chịu đựng cơn ngứa trong đau đớn để rèn luyện sự kiên trì.",
+        "Mở mắt ra ngay lập tức và dừng toàn bộ bài tập thiền vì cho rằng cơ thể mình không phù hợp với việc ngồi thiền tĩnh lặng."
       ],
       "correctIndex": 0,
       "explanation": "Bước đầu tiên trong quy trình xử lý cảm giác khó chịu: 'Thừa nhận' (Acknowledge) – chỉ đơn giản nhận biết và gọi tên cảm giác đang sinh khởi trên cơ thể."
@@ -68,10 +68,10 @@
       "id": "q6",
       "question": "Bốn bước tiếp cận chánh niệm đối với những cảm giác khó chịu trên thân thể gồm những bước nào theo thứ tự?",
       "options": [
-        "1. Kìm nén -> 2. Đánh lạc hướng -> 3. Uống thuốc an thần -> 4. Quên đi hoàn toàn cảm giác đó.",
-        "1. Thừa nhận -> 2. Trải nghiệm không phán xét -> 3. Duy trì chú tâm nếu cần phản ứng -> 4. Buông thả nó.",
-        "1. Chối bỏ -> 2. Tức giận -> 3. Thương lượng với bản thân -> 4. Chấp nhận sự khó chịu trong bất lực.",
-        "1. Phân tích nguyên nhân -> 2. Tìm kiếm triệu chứng trên mạng -> 3. Thay đổi tư thế ngồi -> 4. Bỏ cuộc."
+        "1. Kìm nén cảm giác, 2. Đánh lạc hướng tâm trí, 3. Uống thuốc an thần nhẹ, 4. Quên đi hoàn toàn cảm giác khó chịu đó.",
+        "1. Thừa nhận, 2. Trải nghiệm không phán xét, 3. Duy trì chú tâm nếu cần phản ứng, 4. Buông thả cảm giác đó đi.",
+        "1. Chối bỏ sự khó chịu, 2. Tức giận với bản thân, 3. Thương lượng với cảm giác, 4. Chấp nhận sự khó chịu trong bất lực.",
+        "1. Phân tích nguyên nhân gốc rễ, 2. Tìm kiếm triệu chứng trên mạng, 3. Thay đổi tư thế ngồi, 4. Bỏ cuộc giữa chừng bài tập."
       ],
       "correctIndex": 1,
       "explanation": "Quy trình 4 bước của Meng: 1. Thừa nhận (Acknowledge); 2. Trải nghiệm mà không phán xét hay phản ứng; 3. Nếu cần phản ứng, hãy duy trì sự chú tâm; 4. Buông thả nó (Let it go)."
@@ -80,22 +80,22 @@
       "id": "q7",
       "question": "Nếu cơn ngứa quá khó chịu và bạn quyết định phải gãi, thái độ chánh niệm đòi hỏi bạn làm điều gì?",
       "options": [
-        "Gãi thật nhanh và giấu giếm để không cho người bên cạnh nhận ra bạn đang cử động cơ thể.",
-        "Dừng thở hoàn toàn trong lúc gãi để não bộ tập trung xử lý tín hiệu thần kinh cảm giác ngứa ngáy.",
-        "Tiếp tục duy trì sự chú tâm trọn vẹn vào ý định cử động tay, cảm giác các ngón tay chạm vào da và sự giải tỏa.",
-        "Vừa gãi vừa tự trách móc bản thân đã không đủ sự kiên nhẫn và ý chí kiên định như các thiền giả."
+        "Gãi thật nhanh và giấu giếm để không cho người bên cạnh nhận ra bạn đang cử động cơ thể làm mất đi sự trang nghiêm của thiền.",
+        "Dừng thở hoàn toàn trong lúc gãi để não bộ tập trung xử lý tín hiệu thần kinh cảm giác ngứa ngáy một cách hiệu quả nhất.",
+        "Tiếp tục duy trì sự chú tâm trọn vẹn vào ý định cử động tay, cảm giác các ngón tay chạm vào da và sự giải tỏa sau đó.",
+        "Vừa gãi vừa tự trách móc bản thân đã không đủ sự kiên nhẫn và ý chí kiên định như các thiền giả chuyên nghiệp khác."
       ],
       "correctIndex": 2,
       "explanation": "Nếu chọn phản ứng: 'hãy tiếp tục duy trì sự chú tâm'. Quan sát ý định muốn gãi, chuyển động của cánh tay, sự tiếp xúc của đầu ngón tay với da và cảm giác dễ chịu sau đó."
     },
     {
       "id": "q8",
-      "question": "Thí nghiệm khoa học về 'Cái nháy mắt của sự chú ý' (Attentional Blink) của Heleen Slagter và Richard Davidson kiểm tra điều gì?",
+      "question": "Thí nghiệm khoa học về 'Cái nháy mắt của sự chú ý' (Attentional Blink) của các nhà nghiên cứu kiểm tra điều gì?",
       "options": [
-        "Tốc độ chớp mắt sinh học của con người khi tiếp xúc với các luồng ánh sáng chói chang trong phòng thí nghiệm.",
-        "Khả năng điều khiển các cơ mí mắt cử động độc lập với nhau của các hành giả thực hành thiền lâu năm.",
-        "Mức độ suy giảm thị lực của nhân viên văn phòng sau 8 tiếng liên tục nhìn vào màn hình máy vi tính.",
-        "Khả năng của não bộ phát hiện mục tiêu thứ hai xuất hiện rất nhanh ngay sau mục tiêu thứ nhất trong dòng dữ liệu."
+        "Tốc độ chớp mắt sinh học của con người khi tiếp xúc với các luồng ánh sáng chói chang trong phòng thí nghiệm hiện đại.",
+        "Khả năng điều khiển các cơ mí mắt cử động độc lập với nhau của các hành giả thực hành thiền định trong thời gian lâu năm.",
+        "Mức độ suy giảm thị lực của nhân viên văn phòng sau 8 tiếng liên tục nhìn vào màn hình máy vi tính cường độ cao hàng ngày.",
+        "Khả năng của não bộ phát hiện mục tiêu thứ hai xuất hiện rất nhanh ngay sau mục tiêu thứ nhất trong dòng dữ liệu liên tục."
       ],
       "correctIndex": 3,
       "explanation": "Nhiệm vụ cái nháy mắt chú ý kiểm tra hiện tượng khi hai mục tiêu xuất hiện cách nhau nửa giây, người bình thường thường bỏ sót mục tiêu 2 vì não bị kẹt lại ở mục tiêu 1."
@@ -104,10 +104,10 @@
       "id": "q9",
       "question": "Kết quả nghiên cứu về 'Cái nháy mắt của sự chú ý' ở nhóm người tham gia khóa thiền 3 tháng cho thấy điều gì?",
       "options": [
-        "Họ giảm đáng kể hiện tượng nháy mắt chú ý; não phân bổ tài nguyên hiệu quả hơn và bắt được cả hai mục tiêu.",
-        "Họ bị suy giảm khả năng tập trung do não bộ rơi vào trạng thái thụ động và phản xạ vận động chậm chạp.",
-        "Họ hoàn toàn không thể phát hiện được bất kỳ mục tiêu nào do mắt bị mỏi sau thời gian dài nhắm mắt thiền định.",
-        "Kết quả đo đạc điện não đồ không ghi nhận bất kỳ sự khác biệt nào giữa nhóm thiền và nhóm đối chứng."
+        "Họ giảm đáng kể hiện tượng nháy mắt chú ý; não bộ phân bổ tài nguyên hiệu quả hơn và bắt được cả hai mục tiêu dễ dàng.",
+        "Họ bị suy giảm khả năng tập trung do não bộ rơi vào trạng thái thụ động và phản xạ vận động trở nên chậm chạp hơn hẳn.",
+        "Họ hoàn toàn không thể phát hiện được bất kỳ mục tiêu nào do mắt bị mỏi sau thời gian dài nhắm mắt thiền định liên tục.",
+        "Kết quả đo đạc điện não đồ không ghi nhận bất kỳ sự khác biệt nào đáng kể giữa nhóm thiền và nhóm đối chứng thông thường."
       ],
       "correctIndex": 0,
       "explanation": "Nghiên cứu chứng minh: sau 3 tháng thiền, sự chú ý trở nên linh hoạt hơn, não không bị 'kẹt' vào mục tiêu đầu tiên nên giảm cái nháy mắt chú ý, phát hiện mục tiêu thứ hai tốt hơn."
@@ -116,10 +116,10 @@
       "id": "q10",
       "question": "Sự khác biệt căn bản giữa một tâm trí được rèn luyện thiền và một tâm trí chưa rèn luyện khi gặp kích thích là gì?",
       "options": [
-        "Tâm trí rèn luyện sẽ loại bỏ hoàn toàn mọi cảm giác đau đớn thể xác và không bao giờ cảm nhận được chúng.",
-        "Tâm trí rèn luyện phân bổ tài nguyên nhận thức linh hoạt, không bị dính mắc hay kẹt cứng vào kích thích trước đó.",
-        "Tâm trí chưa rèn luyện luôn có tốc độ phản ứng nhanh nhạy và chính xác hơn trong mọi tình huống bất ngờ.",
-        "Tâm trí rèn luyện luôn luôn suy nghĩ logic và không bao giờ đưa ra bất kỳ quyết định nào dựa trên trực giác."
+        "Tâm trí rèn luyện sẽ loại bỏ hoàn toàn mọi cảm giác đau đớn thể xác và không bao giờ cảm nhận được chúng trong mọi hoàn cảnh.",
+        "Tâm trí rèn luyện phân bổ tài nguyên nhận thức linh hoạt, không bị dính mắc hay kẹt cứng vào kích thích trước đó xảy ra.",
+        "Tâm trí chưa rèn luyện luôn có tốc độ phản ứng nhanh nhạy và chính xác hơn trong mọi tình huống bất ngờ xảy ra trong cuộc sống.",
+        "Tâm trí rèn luyện luôn luôn suy nghĩ logic và không bao giờ đưa ra bất kỳ quyết định nào dựa trên trực giác cá nhân nhạy bén."
       ],
       "correctIndex": 1,
       "explanation": "Tâm trí qua rèn luyện thiền sở hữu sự linh hoạt nhận thức cao: nó nắm bắt thông tin hiệu quả và sẵn sàng buông xả để tiếp nhận thông tin mới mà không bị dính mắc."
@@ -128,10 +128,10 @@
       "id": "q11",
       "question": "Trong bài tập thực hành thiền chánh niệm cơ bản, đối tượng mỏ neo được tác giả khuyên dùng phổ biến nhất là gì?",
       "options": [
-        "Một hình ảnh phức tạp về một ngọn núi tuyết hùng vĩ được tưởng tượng rõ nét trong tâm trí người tập.",
-        "Một bài hát êm dịu hoặc những bản nhạc hòa tấu không lời được phát lặp đi lặp lại qua tai nghe chống ồn.",
-        "Dòng chảy tự nhiên của hơi thở đi vào và đi ra tại vùng cửa mũi hoặc sự phập phồng của cơ bụng.",
-        "Một ngọn nến đang cháy sáng được đặt cách tầm mắt người thực hành khoảng nửa mét trong phòng tối."
+        "Một hình ảnh phức tạp về một ngọn núi tuyết hùng vĩ được tưởng tượng rõ nét trong tâm trí người tập để tạo sự tập trung.",
+        "Một bài hát êm dịu hoặc những bản nhạc hòa tấu không lời được phát lặp đi lặp lại qua tai nghe chống ồn chuyên dụng cao.",
+        "Dòng chảy tự nhiên của hơi thở đi vào và đi ra tại vùng cửa mũi hoặc sự phập phồng của cơ bụng theo từng nhịp thở.",
+        "Một ngọn nến đang cháy sáng được đặt cách tầm mắt người thực hành khoảng nửa mét trong phòng tối để định hướng sự chú ý."
       ],
       "correctIndex": 2,
       "explanation": "Mỏ neo phổ biến và tự nhiên nhất là hơi thở: cảm nhận luồng không khí đi qua lỗ mũi hoặc sự phồng xẹp của cơ bụng theo từng nhịp thở tự nhiên."
@@ -140,10 +140,10 @@
       "id": "q12",
       "question": "Khi bạn nhận ra tâm trí mình đã đi lang thang suy nghĩ về công việc trong lúc đang thiền, bạn nên làm gì?",
       "options": [
-        "Dùng toàn bộ sức mạnh ý chí để xua đuổi các suy nghĩ đó ra khỏi đầu một cách gay gắt và quyết liệt nhất.",
-        "Ngay lập tức tự véo vào tay mình để phạt bản thân vì đã để tâm trí xao nhãng và không tập trung thiền định.",
-        "Mở mắt ra ghi chép lại toàn bộ các ý nghĩ về công việc đó vào sổ tay rồi mới quay lại tiếp tục bài tập thở.",
-        "Mỉm cười thừa nhận sự phân tâm, buông bỏ suy nghĩ đó và nhẹ nhàng đưa sự chú ý quay trở lại với hơi thở."
+        "Dùng toàn bộ sức mạnh ý chí để xua đuổi các suy nghĩ đó ra khỏi đầu một cách gay gắt và quyết liệt nhất có thể ngay lập tức.",
+        "Ngay lập tức tự véo vào tay mình để phạt bản thân vì đã để tâm trí xao nhãng và không tập trung thiền định như đã định.",
+        "Mở mắt ra ghi chép lại toàn bộ các ý nghĩ về công việc đó vào sổ tay rồi mới quay lại tiếp tục bài tập thở như bình thường.",
+        "Mỉm cười thừa nhận sự phân tâm, buông bỏ suy nghĩ đó và nhẹ nhàng đưa sự chú ý quay trở lại với hơi thở của chính mình."
       ],
       "correctIndex": 3,
       "explanation": "Khoảnh khắc nhận ra mình xao nhãng chính là khoảnh khắc của chánh niệm; chỉ cần mỉm cười, chấp nhận và nhẹ nhàng đưa sự chú ý trở về với mỏ neo hơi thở mà không phán xét."
@@ -152,22 +152,22 @@
       "id": "q13",
       "question": "Thời lượng thực hành thiền ngồi được Meng khuyến nghị cho những người mới bắt đầu là bao lâu?",
       "options": [
-        "Chỉ cần bắt đầu với khoảng thời gian rất ngắn, thậm chí chỉ một vài phút mỗi ngày, quan trọng là sự đều đặn.",
-        "Bắt đầu ngay lập tức với các buổi ngồi thiền liên tục 2 tiếng đồng hồ mỗi sáng sớm để rèn luyện ý chí thép.",
-        "Phải ngồi thiền tối thiểu 45 phút mỗi lần thì các nơ-ron thần kinh mới bắt đầu có sự biến đổi sinh học rõ rệt.",
-        "Không nên ấn định thời gian mà chỉ ngồi khi nào cảm thấy thực sự buồn bực và gặp phải thất bại trong cuộc sống."
+        "Chỉ cần bắt đầu với khoảng thời gian rất ngắn, thậm chí chỉ một vài phút mỗi ngày, quan trọng nhất là sự đều đặn bền bỉ.",
+        "Bắt đầu ngay lập tức với các buổi ngồi thiền liên tục 2 tiếng đồng hồ mỗi sáng sớm để rèn luyện ý chí thép cho tâm trí mình.",
+        "Phải ngồi thiền tối thiểu 45 phút mỗi lần thì các nơ-ron thần kinh mới bắt đầu có sự biến đổi sinh học rõ rệt và hiệu quả.",
+        "Không nên ấn định thời gian mà chỉ ngồi khi nào cảm thấy thực sự buồn bực và gặp phải thất bại trong cuộc sống hàng ngày."
       ],
       "correctIndex": 0,
       "explanation": "Meng khuyên người mới bắt đầu nên tập từ lượng thời gian rất nhỏ (thậm chí 1-2 phút) để hình thành thói quen vững chắc, làm ít hơn mức tối đa bạn có thể để luôn cảm thấy hứng thú."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc kiểm soát hơi thở một cách gượng ép (như cố hít thật sâu, thở thật dài) lại KHÔNG được khuyến khích trong thiền chánh niệm?",
+      "question": "Tại sao việc kiểm soát hơi thở một cách gượng ép lại KHÔNG được khuyến khích trong thiền chánh niệm?",
       "options": [
-        "Vì kiểm soát hơi thở sẽ làm tiêu hao quá nhiều lượng đường glucose và oxy dự trữ trong các tế bào não bộ.",
+        "Vì kiểm soát hơi thở sẽ làm tiêu hao quá nhiều lượng đường glucose và oxy dự trữ trong các tế bào não bộ của người thực hành.",
         "Vì chánh niệm là quan sát hơi thở tự nhiên như nó vốn là, chứ không phải là bài tập điều khiển hay can thiệp hơi thở.",
-        "Vì việc hít thở sâu liên tục sẽ khiến cơ hoành bị tổn thương vĩnh viễn và gây khó thở kéo dài sau đó.",
-        "Vì chỉ có các bác sĩ chuyên khoa hô hấp mới có đủ thẩm quyền hướng dẫn kỹ thuật thay đổi nhịp thở cho bạn."
+        "Vì việc hít thở sâu liên tục sẽ khiến cơ hoành bị tổn thương vĩnh viễn và gây khó thở kéo dài sau đó cho người tập thiền.",
+        "Vì chỉ có các bác sĩ chuyên khoa hô hấp mới có đủ thẩm quyền hướng dẫn kỹ thuật thay đổi nhịp thở cho bạn một cách an toàn."
       ],
       "correctIndex": 1,
       "explanation": "Chánh niệm là nghệ thuật quan sát thực tại khách quan; ta để cơ thể tự thở theo nhịp điệu tự nhiên của nó và chỉ đơn giản có mặt để nhận biết hơi thở đó mà không can thiệp."
@@ -176,10 +176,10 @@
       "id": "q15",
       "question": "Lợi ích cốt lõi nhất của việc rèn luyện sự chú ý vào hơi thở đối với đời sống công sở hàng ngày là gì?",
       "options": [
-        "Giúp nhân viên không cần phải ngủ trưa mà vẫn duy trì được 100% năng lượng làm việc cho đến tận nửa đêm.",
-        "Giúp lập trình viên có thể nhớ được toàn bộ các mã lệnh phức tạp mà không cần phải tra cứu tài liệu.",
-        "Tạo ra một khoảng dừng sáng suốt giữa tác nhân kích thích và phản ứng, giúp lựa chọn hành vi khôn ngoan hơn.",
-        "Làm cho tất cả các áp lực và xung đột công việc tự động biến mất mà người thực hành không cần giải quyết."
+        "Giúp nhân viên không cần phải ngủ trưa mà vẫn duy trì được 100% năng lượng làm việc cho đến tận nửa đêm mà không thấy mệt.",
+        "Giúp lập trình viên có thể nhớ được toàn bộ các mã lệnh phức tạp mà không cần phải tra cứu tài liệu kỹ thuật trong quá trình.",
+        "Tạo ra một khoảng dừng sáng suốt giữa tác nhân kích thích và phản ứng, giúp lựa chọn hành vi khôn ngoan hơn trong công việc.",
+        "Làm cho tất cả các áp lực và xung đột công việc tự động biến mất mà người thực hành không cần phải giải quyết trực tiếp."
       ],
       "correctIndex": 2,
       "explanation": "Rèn luyện chú ý giúp tạo ra 'khoảng dừng nhận thức': thay vì phản ứng bốc đồng trước một email gay gắt hay lời chỉ trích, bạn nhận biết cảm xúc và lựa chọn phản ứng điềm tĩnh, trí tuệ."

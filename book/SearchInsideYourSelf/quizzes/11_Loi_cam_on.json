@@ -6,171 +6,171 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Meng mở đầu Lời cảm ơn bằng câu danh ngôn nổi tiếng của Isaac Newton nhằm bày tỏ thái độ gì?",
+      "question": "Meng mở đầu Lời cảm ơn bằng câu danh ngôn của Isaac Newton nhằm bày tỏ thái độ gì?",
       "options": [
-        "Bày tỏ sự khiêm nhường sâu sắc khi thừa nhận mọi thành quả của mình đều nhờ đứng trên vai những người khổng lồ.",
-        "Tự hào khẳng định rằng mình là một nhà toán học kiệt xuất có tầm nhìn xa hơn tất cả các nhà khoa học đương thời.",
-        "Chứng minh rằng các định luật vật lý cơ học cổ điển hoàn toàn có thể áp dụng vào việc giải thích tâm lý học.",
-        "Lời nhắc nhở độc giả nên đọc thêm các cuốn sách lịch sử khoa học tự nhiên trước khi bắt đầu thực hành thiền."
+        "Thể hiện sự khiêm nhường khi thừa nhận thành quả của mình là nhờ đứng trên vai những người khổng lồ đi trước.",
+        "Khẳng định tầm nhìn chiến lược của mình vượt xa các nhà khoa học đương thời trong việc ứng dụng trí tuệ nhân tạo.",
+        "Nhấn mạnh rằng mọi định luật vật lý cơ học cổ điển đều có thể áp dụng để giải thích các trạng thái tâm lý.",
+        "Gợi ý độc giả nên tìm đọc các tài liệu lịch sử khoa học tự nhiên trước khi bắt đầu thực hành thiền định sâu."
       ],
       "correctIndex": 0,
-      "explanation": "Meng trích dẫn Newton: 'Nếu tôi nhìn được xa hơn một chút thì đó là nhờ đứng trên vai của những người khổng lồ'. Ông nhấn mạnh trí tuệ không phải do ông tạo ra mà ông chỉ là người chuyển ngữ khiêm tốn."
+      "explanation": "Meng trích dẫn Newton để khẳng định trí tuệ không phải do ông tạo ra, ông chỉ là người chuyển ngữ khiêm tốn."
     },
     {
       "id": "q2",
       "question": "Meng gọi suối nguồn chính của trí tuệ mà ông luôn biết ơn và học hỏi bằng cái tên thân mật nào?",
       "options": [
-        "Người bạn thông thái và có tầm nhìn xa tại Thung lũng Silicon.",
-        "'Ông Già', danh xưng thân thương mà tác giả dùng để gọi Đức Phật.",
-        "Vị thuyền trưởng dũng cảm chèo lái con tàu trí tuệ của nhân loại.",
-        "Người kỹ sư lập trình đầu tiên của vũ trụ và vạn vật muôn loài."
+        "Ông gọi là 'Người Khổng Lồ', danh xưng dành cho những bậc thầy đã truyền dạy thiền định cho ông tại Sri Lanka.",
+        "Ông gọi là 'Ông Già', một danh xưng thân thương mà tác giả dùng để chỉ Đức Phật trong trái tim của chính mình.",
+        "Ông gọi là 'Người Chuyển Ngữ', danh xưng dành cho những người đã giúp ông hiểu được các văn bản cổ xưa nhất.",
+        "Ông gọi là 'Người Thầy Vĩ Đại', danh xưng dành cho những vị thiền sư đã khai mở tâm trí ông tại Thung lũng."
       ],
       "correctIndex": 1,
-      "explanation": "Meng viết: 'Trước tiên, tôi muốn gửi lời cảm ơn đến suối nguồn chính của trí tuệ đó. Ông là người rất thân thiết với tôi và tôi quen thuộc với các lời dạy của ông đến mức... tôi đã đặt cho ông một cái tên thân mật là “Ông Già”. Còn những người khác gọi ông là Phật.'"
+      "explanation": "Meng viết: 'Ông là người rất thân thiết với tôi... tôi đã đặt cho ông một cái tên thân mật là “Ông Già”.'"
     },
     {
       "id": "q3",
       "question": "Ai là người thầy dạy thiền đầu tiên trong cuộc đời của Chade-Meng Tan được ông tri ân?",
       "options": [
-        "Tiến sĩ tâm thần học Jon Kabat-Zinn.",
-        "Giáo sư tâm lý học Daniel Goleman.",
-        "Thầy Godwin Samararatne quá cố.",
-        "Thiền sư Norman Fischer tại California."
+        "Đó là Jon Kabat-Zinn, người đã tiên phong đưa các phương pháp thiền định vào trong nền y tế phổ thông hiện đại.",
+        "Đó là Daniel Goleman, người đã giúp Meng hệ thống hóa các kiến thức về trí thông minh cảm xúc cho nhân loại.",
+        "Đó là Godwin Samararatne, người thầy đầu tiên đã dẫn dắt Meng bước vào con đường thực hành thiền định sâu sắc.",
+        "Đó là Đức Đạt-lai Lạt-ma, người đã truyền dạy cho Meng về lòng từ bi và tính hài hước trong cuộc sống đời."
       ],
       "correctIndex": 2,
-      "explanation": "Meng ghi rõ: 'Đó là Godwin Samararatne quá cố (thầy dạy thiền đầu tiên của tôi); những người đáng kính, Sangye Khadro, Bhikkhu Bodhi...'"
+      "explanation": "Meng ghi rõ: 'Đó là Godwin Samararatne quá cố (thầy dạy thiền đầu tiên của tôi)'."
     },
     {
       "id": "q4",
-      "question": "Kỷ niệm đặc biệt và ấm áp nào giữa Đức Đạt-lai Lạt-ma và Meng được ông nhắc đến với lòng biết ơn?",
+      "question": "Kỷ niệm đặc biệt nào giữa Đức Đạt-lai Lạt-ma và Meng được ông nhắc đến với lòng biết ơn?",
       "options": [
-        "Ngài đã trao tặng cho Meng một chiếc áo choàng tu sĩ truyền thống Tây Tạng bằng lụa quý giá.",
-        "Ngài đã đồng ý trở thành thành viên danh dự của Hội đồng Quản trị tập đoàn công nghệ Google.",
+        "Ngài đã trao tặng cho Meng một chiếc áo choàng tu sĩ truyền thống Tây Tạng bằng lụa quý giá trong buổi lễ lớn.",
+        "Ngài đã đồng ý trở thành thành viên danh dự của Hội đồng Quản trị tập đoàn công nghệ Google tại California.",
         "Ngài đã trực tiếp ký tên vào bản hợp đồng thành lập chi nhánh văn phòng của Google tại thủ đô New Delhi.",
-        "Ngài đã ôm Meng vào ngày sinh nhật thứ 40 của ông, giúp ông nhẹ nhàng bước qua cột mốc tuổi tác này."
+        "Ngài đã ôm Meng vào ngày sinh nhật thứ 40, giúp ông cảm thấy nhẹ nhàng hơn khi bước qua cột mốc tuổi tác này."
       ],
       "correctIndex": 3,
-      "explanation": "Meng kể: 'Tôi biết ơn Đức Đạt-lai Lạt-ma vì đã làm gương cho trí tuệ vĩ đại, lòng từ bi, và tính hài hước... cũng như vì đã ôm tôi vào ngày sinh nhật thứ 40. Ông gần như đã giúp tôi chịu đựng được việc bước qua tuổi 40.'"
+      "explanation": "Meng kể: 'Đức Đạt-lai Lạt-ma... đã ôm tôi vào ngày sinh nhật thứ 40. Ông gần như đã giúp tôi chịu đựng được việc bước qua tuổi 40.'"
     },
     {
       "id": "q5",
       "question": "Người phụ nữ xinh đẹp đã giới thiệu cho Meng về Chúa Jesus và cuộc đời Ngài thời đại học là ai?",
       "options": [
-        "Cindy, người phụ nữ mà sau này Meng đã thuyết phục cưới làm vợ.",
-        "Christina Marini, người trợ lý nghiên cứu tài năng của dự án.",
-        "Mirabai Bush, giám đốc sáng lập Trung tâm Tư duy Thiền.",
-        "Karen May, người phụ trách nhân sự cấp cao tại Google."
+        "Đó là Cindy, người phụ nữ mà sau này Meng đã thuyết phục thành công để cô ấy đồng ý kết hôn cùng với ông.",
+        "Đó là Christina Marini, người trợ lý nghiên cứu tài năng đã hỗ trợ Meng trong suốt quá trình viết cuốn sách.",
+        "Đó là Mirabai Bush, giám đốc sáng lập Trung tâm Tư duy Thiền, người đã truyền cảm hứng cho Meng rất nhiều.",
+        "Đó là Karen May, người quản lý cấp cao tại Google, người được Meng gọi là Nữ hoàng Đồng cảm của công ty."
       ],
       "correctIndex": 0,
-      "explanation": "Meng viết: 'Tôi cảm ơn một người phụ nữ xinh đẹp mà tôi đã gặp ở trường đại học, Cindy, vì đã giới thiệu Ngài với tôi. Sau đó, tôi đã lừa thành công, ý tôi là, thuyết phục cô ấy cưới tôi.'"
+      "explanation": "Meng viết: 'Tôi cảm ơn một người phụ nữ xinh đẹp mà tôi đã gặp ở trường đại học, Cindy, vì đã giới thiệu Ngài với tôi.'"
     },
     {
       "id": "q6",
-      "question": "Câu chuyện về 'Ba chàng trai trẻ rất tài năng' gồm Danny, Richie và Jon đại diện cho ba nhân vật lịch sử nào?",
+      "question": "Câu chuyện về 'Ba chàng trai trẻ rất tài năng' gồm Danny, Richie và Jon đại diện cho ai?",
       "options": [
-        "Daniel Kahneman, Richard Thaler và John Maynard Keynes trong lĩnh vực kinh tế học hành vi hiện đại.",
+        "Daniel Kahneman, Richard Thaler và John Maynard Keynes, những người tiên phong trong lĩnh vực kinh tế học hành vi.",
         "Daniel Goleman (phổ biến EQ), Richard Davidson (khoa học thần kinh) và Jon Kabat-Zinn (đưa thiền vào y tế).",
-        "Dan Gilbert, Richard Bandler và John Grinder trong các phong trào lập trình ngôn ngữ tư duy NLP.",
-        "Danny Hillis, Richard Stallman và John Carmack trong lịch sử phát triển phần mềm mã nguồn mở máy tính."
+        "Dan Gilbert, Richard Bandler và John Grinder, những người sáng lập ra các phong trào lập trình ngôn ngữ tư duy.",
+        "Danny Hillis, Richard Stallman và John Carmack, những nhân vật lịch sử trong quá trình phát triển phần mềm máy."
       ],
       "correctIndex": 1,
-      "explanation": "Meng tri ân 'những người khổng lồ': Danny là Daniel Goleman (phổ biến EQ), Richie là Richard J. Davidson (tiên phong khoa học thần kinh về thiền), và Jon là Jon Kabat-Zinn (đưa thiền vào y tế và văn hóa đại chúng)."
+      "explanation": "Meng tri ân ba người khổng lồ đã tạo nền tảng cho sự thành công của chương trình Tìm Kiếm Bên Trong Bạn."
     },
     {
       "id": "q7",
-      "question": "Tại sao Meng lại khẳng định rằng nếu thiếu một trong ba người (Danny, Richie, Jon) thì SIY sẽ không thể thành công?",
+      "question": "Tại sao Meng khẳng định nếu thiếu một trong ba người (Danny, Richie, Jon) thì SIY sẽ không thành công?",
       "options": [
-        "Vì họ là ba cổ đông sáng lập duy nhất chịu góp vốn tài chính để thành lập công ty đào tạo kỹ năng này.",
-        "Vì họ nắm giữ bản quyền pháp lý duy nhất đối với các thuật toán phần mềm tìm kiếm dữ liệu trên máy tính.",
-        "Vì thành công của SIY là sự hội tụ hoàn hảo giữa Trí tuệ cảm xúc (Danny), Khoa học thần kinh (Richie) và Chánh niệm (Jon).",
-        "Vì nếu không có chữ ký bảo lãnh của ba người thì tập đoàn Google sẽ không cấp thẻ ra vào tòa nhà cho Meng."
+        "Vì họ là ba cổ đông sáng lập duy nhất chịu góp vốn tài chính để thành lập công ty đào tạo kỹ năng này tại Mỹ.",
+        "Vì họ nắm giữ bản quyền pháp lý duy nhất đối với các thuật toán phần mềm tìm kiếm dữ liệu trên máy tính cá nhân.",
+        "Vì thành công của SIY là sự hội tụ hoàn hảo giữa Trí tuệ cảm xúc, Khoa học thần kinh và Chánh niệm thực hành.",
+        "Vì nếu không có chữ ký bảo lãnh của ba người thì tập đoàn Google sẽ không cấp thẻ ra vào tòa nhà cho tác giả."
       ],
       "correctIndex": 2,
-      "explanation": "Nếu Danny không phổ biến EQ, Richie không tiên phong khoa học thần kinh chứng minh thiền, hay Jon không đưa thiền vào y tế đại chúng, thì nền móng cho Tìm Kiếm Bên Trong Bạn sẽ không thể tồn tại."
+      "explanation": "Meng nhấn mạnh sự đóng góp của mỗi người là không thể thay thế trong việc xây dựng nền tảng cho SIY."
     },
     {
       "id": "q8",
-      "question": "Ai là vị 'thánh bảo hộ' đầu tiên đã phê duyệt cho khóa học SIY khi đang làm Giám đốc Đại học Google (GoogleEDU)?",
+      "question": "Ai là vị 'thánh bảo hộ' đầu tiên đã phê duyệt cho khóa học SIY khi đang làm Giám đốc Đại học Google?",
       "options": [
-        "Eric Schmidt, Giám đốc điều hành tập đoàn Google.",
-        "Paul Russell, người quản lý cấp cao tại GoogleEDU.",
-        "Sergey Brin, đồng sáng lập công cụ tìm kiếm Google.",
-        "Peter Allen, Giám đốc GoogleEDU vào thời điểm ban đầu."
+        "Eric Schmidt, Giám đốc điều hành tập đoàn Google, người đã trực tiếp cấp ngân sách cho các dự án đào tạo.",
+        "Paul Russell, người quản lý cấp cao tại GoogleEDU, người đã hỗ trợ nhiệt tình cho các giảng viên của dự án.",
+        "Sergey Brin, đồng sáng lập công cụ tìm kiếm Google, người đã ủng hộ các sáng kiến về sức khỏe tinh thần nhân.",
+        "Peter Allen, người đã trở thành vị thánh bảo hộ đầu tiên của chương trình khi đang là Giám đốc Đại học Google."
       ],
       "correctIndex": 3,
-      "explanation": "Meng viết: 'Tôi cũng muốn cảm ơn những vị sếp đầu tiên của GoogleEDU... đặc biệt là Peter Allen vì đã trở thành vị “thánh bảo hộ” đầu tiên của chúng tôi khi đang là Giám đốc Đại học Google...'"
+      "explanation": "Meng viết: 'đặc biệt là Peter Allen vì đã trở thành vị “thánh bảo hộ” đầu tiên của chúng tôi khi đang là Giám đốc Đại học Google.'"
     },
     {
       "id": "q9",
       "question": "Paul Russell thường đùa một cách khiêm tốn rằng đóng góp lớn nhất của ông đối với khóa học SIY là gì?",
       "options": [
-        "Đóng góp lớn nhất của ông là đã 'không nói không' trước đề xuất của Meng.",
-        "Đã trực tiếp viết ra toàn bộ các bài tập thở chánh niệm trong giáo trình.",
-        "Đã tự nguyện trích 50% tiền lương hàng tháng để tài trợ cho dự án.",
-        "Đã đích thân đứng lớp giảng dạy thay cho Meng mỗi khi Meng đi vắng."
+        "Đóng góp lớn nhất của ông là đã 'không nói không' trước những đề xuất táo bạo của Meng cho chương trình này.",
+        "Đã trực tiếp viết ra toàn bộ các bài tập thở chánh niệm trong giáo trình để giảng dạy cho các nhân viên công ty.",
+        "Đã tự nguyện trích 50% tiền lương hàng tháng của mình để tài trợ cho các hoạt động nghiên cứu của dự án SIY.",
+        "Đã đích thân đứng lớp giảng dạy thay cho Meng mỗi khi Meng đi vắng để đảm bảo tiến độ của khóa học đào tạo."
       ],
       "correctIndex": 0,
-      "explanation": "Meng kể về Paul Russell, người quản lý đã phê duyệt và hỗ trợ nhiệt tình: 'Paul thường đùa một cách khiêm tốn rằng đóng góp lớn nhất của ông đối với Tìm Kiếm Bên Trong Bạn là “không nói không”'."
+      "explanation": "Meng kể về Paul Russell: 'Paul thường đùa một cách khiêm tốn rằng đóng góp lớn nhất của ông... là “không nói không”'."
     },
     {
       "id": "q10",
       "question": "Người quản lý xuất sắc mà Meng gọi bằng biệt danh trìu mến 'Nữ hoàng Đồng cảm' tại Google là ai?",
       "options": [
-        "Erica Fox, chuyên gia đàm phán quốc tế giàu kinh nghiệm của tập đoàn.",
-        "Karen May, người cho thấy làm một người quản lý biết đồng cảm là thế nào.",
-        "Sara McCleskey, tình nguyện viên nhiệt tình và tích cực của dự án SIY.",
-        "Yvonne Ginsberg, giảng viên chính thức xuất sắc của chương trình đào tạo."
+        "Erica Fox, chuyên gia đàm phán quốc tế giàu kinh nghiệm của tập đoàn, người đã hỗ trợ Meng trong các dự án lớn.",
+        "Karen May, người đã cho thấy làm một người quản lý biết đồng cảm là thế nào trong môi trường làm việc áp lực.",
+        "Sara McCleskey, tình nguyện viên nhiệt tình và tích cực của dự án SIY, người đã giúp đỡ rất nhiều cho tác giả.",
+        "Yvonne Ginsberg, giảng viên chính thức xuất sắc của chương trình đào tạo, người đã dạy cho Meng nhiều điều quý."
       ],
       "correctIndex": 1,
-      "explanation": "Meng viết: 'Tôi đặc biệt muốn cảm ơn Karen [May]... bà đã cho thấy làm một người quản lý biết đồng cảm là như thế nào. Karen là người biết đồng cảm nhất mà tôi từng làm việc cùng; tôi gọi bà là Nữ hoàng Đồng cảm.'"
+      "explanation": "Meng viết: 'Tôi đặc biệt muốn cảm ơn Karen [May]... Karen là người biết đồng cảm nhất mà tôi từng làm việc cùng'."
     },
     {
       "id": "q11",
-      "question": "Người bạn thân thiết đã vẽ các bức tranh biếm họa minh họa vô cùng hài hước và độc đáo trong cuốn sách là ai?",
+      "question": "Người bạn thân thiết đã vẽ các bức tranh biếm họa minh họa vô cùng hài hước và độc đáo trong sách là ai?",
       "options": [
-        "Jill Stracko, cựu trưởng bộ phận viết chuyên nghiệp của Nhà Trắng nước Mỹ.",
-        "Gideon Weil, người biên tập sách chuyên nghiệp tại nhà xuất bản HarperOne.",
-        "Colin Goh, nhà làm phim, người vẽ hoạt hình từng đạt giải và có bằng luật.",
-        "Mark Tauber, giám đốc điều hành kỳ cựu của nhà xuất bản sách tại New York."
+        "Jill Stracko, cựu trưởng bộ phận viết chuyên nghiệp của Nhà Trắng nước Mỹ, người cố vấn cho Meng về viết lách.",
+        "Gideon Weil, người biên tập sách chuyên nghiệp tại nhà xuất bản HarperOne, người đã làm việc cùng với tác giả.",
+        "Colin Goh, nhà làm phim, người vẽ hoạt hình từng đạt giải thưởng và có bằng luật, bạn thân thiết của tác giả.",
+        "Mark Tauber, giám đốc điều hành kỳ cựu của nhà xuất bản sách tại New York, người đã xuất bản cuốn sách này ra."
       ],
       "correctIndex": 2,
-      "explanation": "Meng giới thiệu: 'Đứng đầu trong số đó là Colin Goh, bạn của tôi, một cố vấn và người vẽ tranh minh họa. Colin là nhà làm phim, người vẽ hoạt hình từng đạt giải thưởng và có bằng luật...'"
+      "explanation": "Meng giới thiệu: 'Đứng đầu trong số đó là Colin Goh, bạn của tôi, một cố vấn và người vẽ tranh minh họa.'"
     },
     {
       "id": "q12",
       "question": "Meng bày tỏ sự biết ơn sâu sắc đối với cha mẹ mình vì sự nuôi nấng và che chở trong bối cảnh nào?",
       "options": [
-        "Trong những năm tháng khó khăn của cuộc nội chiến khốc liệt tại các nước châu Âu vào thế kỷ trước.",
-        "Trong môi trường sống nghiêm ngặt tại một tu viện Phật giáo cổ truyền ở vùng núi Tây Tạng xa xôi.",
-        "Tại một trang trại trồng nho hẻo lánh ở vùng nông thôn nước Pháp trước khi gia đình sang định cư tại Mỹ.",
-        "Trong suốt những năm tháng tuổi thơ ở châu Á và giúp ông tránh xa các rắc rối trong quá trình lớn lên."
+        "Trong những năm tháng khó khăn của cuộc nội chiến khốc liệt tại các nước châu Âu vào thế kỷ trước đầy biến động.",
+        "Trong môi trường sống nghiêm ngặt tại một tu viện Phật giáo cổ truyền ở vùng núi Tây Tạng xa xôi và hẻo lánh.",
+        "Tại một trang trại trồng nho hẻo lánh ở vùng nông thôn nước Pháp trước khi gia đình sang định cư tại Mỹ sinh sống.",
+        "Trong suốt những năm tháng tuổi thơ ở châu Á và giúp ông tránh xa các rắc rối trong quá trình lớn lên tại đây."
       ],
       "correctIndex": 3,
-      "explanation": "Meng viết: 'Tôi xin gửi lời cảm ơn sâu sắc đến bố mẹ tôi vì đã nuôi tôi khôn lớn, che chở tôi (trong suốt những năm tháng tuổi thơ ở châu Á thì đây không phải là việc đơn giản) và giúp tôi tránh xa các rắc rối...'"
+      "explanation": "Meng viết: 'Tôi xin gửi lời cảm ơn sâu sắc đến bố mẹ tôi vì đã nuôi tôi khôn lớn, che chở tôi (trong suốt những năm tháng tuổi thơ ở châu Á)'."
     },
     {
       "id": "q13",
       "question": "Người được Meng trìu mến gọi là 'tình yêu lớn nhất đời tôi' ở phần cuối Lời cảm ơn là ai?",
       "options": [
-        "Con gái của ông, cô bé Angel, vì đã đáp lại tình yêu thương lớn lao của người cha.",
-        "Công cụ tìm kiếm thông tin trên mạng Internet của tập đoàn công nghệ Google.",
-        "Ngôi trường đại học kỹ thuật nơi ông đã từng theo học văn bằng kỹ sư máy tính.",
-        "Tập bản thảo cuốn sách đầu tay mà ông đã dành nhiều năm tâm huyết biên soạn."
+        "Con gái của ông, cô bé Angel, vì đã đáp lại tình yêu thương lớn lao của người cha trong suốt cuộc đời mình.",
+        "Công cụ tìm kiếm thông tin trên mạng Internet của tập đoàn công nghệ Google, nơi đã tạo ra sự nghiệp cho ông.",
+        "Ngôi trường đại học kỹ thuật nơi ông đã từng theo học văn bằng kỹ sư máy tính trước khi gia nhập Google làm.",
+        "Tập bản thảo cuốn sách đầu tay mà ông đã dành nhiều năm tâm huyết biên soạn để chia sẻ trí tuệ với mọi người."
       ],
       "correctIndex": 0,
-      "explanation": "Meng xúc động viết: 'Cuối cùng, tôi rất biết ơn con gái tôi, Angel, vì đã trở thành tình yêu lớn nhất đời tôi và vì đã đáp lại tình yêu đó.'"
+      "explanation": "Meng xúc động viết: 'Cuối cùng, tôi rất biết ơn con gái tôi, Angel, vì đã trở thành tình yêu lớn nhất đời tôi'."
     },
     {
       "id": "q14",
-      "question": "Bài thơ tiếng Phạn cổ (Sanskrit) mà Meng dùng để kết lại toàn bộ Lời cảm ơn là câu thần chú nổi tiếng nào?",
+      "question": "Bài thơ tiếng Phạn cổ (Sanskrit) mà Meng dùng để kết lại toàn bộ Lời cảm ơn là câu thần chú nào?",
       "options": [
-        "Om Mani Padme Hum trong truyền thống Phật giáo Mật tông Tây Tạng.",
-        "Gate, gate, paragate, parasamgate, bodhi svaha (trong Bát Nhã Ba La Mật Đa tâm kinh).",
-        "Lokah Samastah Sukhino Bhavantu trong các nghi thức cầu nguyện của đạo Hindu.",
-        "Om Shanti Shanti Shanti nhằm nguyện cầu sự bình an cho ba cõi giới của vũ trụ."
+        "Om Mani Padme Hum trong truyền thống Phật giáo Mật tông Tây Tạng nhằm cầu nguyện sự bình an cho mọi chúng sinh.",
+        "Gate, gate, paragate, parasamgate, bodhi svaha (trong Bát Nhã Ba La Mật Đa tâm kinh) để chúc phúc mọi người.",
+        "Lokah Samastah Sukhino Bhavantu trong các nghi thức cầu nguyện của đạo Hindu để mong cầu hạnh phúc cho thế.",
+        "Om Shanti Shanti Shanti nhằm nguyện cầu sự bình an cho ba cõi giới của vũ trụ bao la trong các buổi thiền."
       ],
       "correctIndex": 1,
-      "explanation": "Meng kết lại bằng câu thần chú Tâm Kinh: 'Gate, gate. Paragate. Parasamgate. Bodhi svaha!' (Qua rồi, qua rồi, qua bờ bên kia rồi, tất cả cùng qua bờ bên kia rồi, hoan nghênh đến với sự giác ngộ!)."
+      "explanation": "Meng kết lại bằng câu thần chú Tâm Kinh: 'Gate, gate. Paragate. Parasamgate. Bodhi svaha!'"
     },
     {
       "id": "q15",
@@ -178,11 +178,11 @@
       "options": [
         "Sự tự phụ cho rằng một cá nhân đơn độc có thể tự mình tạo nên tất cả mọi thành tựu vĩ đại mà không cần ai giúp.",
         "Lời khuyên các kỹ sư trẻ nên sớm rời bỏ công việc kỹ thuật để tìm kiếm các mối quan hệ với những người nổi tiếng.",
-        "Lòng biết ơn sâu xa và nhận thức về tính tương thuộc: mọi điều kỳ diệu đều là quả ngọt của sự chung tay từ vô số con người.",
-        "Khẳng định rằng thiền định là con đường duy nhất giúp con người đạt được sự giàu có và thành công về mặt tài chính."
+        "Lòng biết ơn sâu xa và nhận thức về tính tương thuộc: mọi điều kỳ diệu đều là quả ngọt của sự chung tay từ cộng.",
+        "Khẳng định rằng thiền định là con đường duy nhất giúp con người đạt được sự giàu có và thành công về tài chính."
       ],
       "correctIndex": 2,
-      "explanation": "Lời cảm ơn là minh chứng tuyệt đẹp cho lòng tri ân và tính tương thuộc (Interconnectedness). Không ai là một ốc đảo; mọi công trình giá trị đều được vun đắp từ tình thương, trí tuệ và sự tương trợ của cộng đồng."
+      "explanation": "Lời cảm ơn là minh chứng tuyệt đẹp cho lòng tri ân và tính tương thuộc (Interconnectedness) của con người."
     }
   ]
 }

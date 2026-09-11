@@ -8,181 +8,181 @@
       "id": "q1",
       "question": "Daniel Goleman kể rằng ấn tượng đầu tiên của ông về văn hóa Google được định hình bởi điều gì?",
       "options": [
-        "Những dòng code thuật toán máy tính phức tạp hiển thị trên các màn hình kích thước lớn khắp văn phòng.",
         "Chân dung Chade-Meng Tan, người nhân viên lễ tân không chính thức và là người bạn tốt luôn vui vẻ của Google.",
-        "Không gian kiến trúc văn phòng tràn ngập đồ chơi sáng tạo và những chiếc cầu trượt màu sắc rực rỡ.",
-        "Hệ thống nhà ăn miễn phí phục vụ các món ăn thượng hạng suốt ngày đêm dành cho tất cả các lập trình viên."
+        "Hệ thống cơ sở hạ tầng công nghệ hiện đại cùng những thuật toán tìm kiếm tối ưu hóa hiệu suất làm việc toàn cầu.",
+        "Không gian làm việc sáng tạo với những tiện ích giải trí độc đáo giúp nhân viên cân bằng giữa công việc và đời sống.",
+        "Sự hiện diện của các chuyên gia hàng đầu thế giới thường xuyên đến diễn thuyết tại trụ sở chính của tập đoàn Google."
       ],
-      "correctIndex": 1,
-      "explanation": "Daniel Goleman mở đầu: 'Ấn tượng đầu tiên của tôi về Google được định hình bởi Chade-Meng Tan, hay Meng. Meng là nhân viên lễ tân không chính thức của công ty, người bạn tốt luôn vui vẻ của Google...'"
+      "correctIndex": 0,
+      "explanation": "Goleman xác nhận ấn tượng đầu tiên về Google được định hình bởi Meng, người nhân viên lễ tân không chính thức và đầy sự vui vẻ."
     },
     {
       "id": "q2",
       "question": "Bài báo trên trang nhất của tờ New York Times đã gọi Meng bằng danh xưng nổi tiếng nào?",
       "options": [
-        "Vị thiền sư thông thái và bí ẩn nhất của toàn bộ khu công nghệ Thung lũng Silicon nước Mỹ.",
-        "Kỹ sư phần mềm sở hữu mức thu nhập và lượng cổ phiếu thưởng cao nhất tại tập đoàn công nghệ Google.",
-        "Cái anh chàng Google đó ('that Google guy'), người có trí thông minh xã hội khiến khách luôn thấy như ở nhà.",
-        "Nhà sáng chế tương lai đang nỗ lực tái định hình cách loài người tương tác với dữ liệu máy tính."
+        "Vị kỹ sư phần mềm xuất sắc nhất sở hữu khả năng kết nối con người thông qua các nền tảng công nghệ số hiện đại.",
+        "Cái anh chàng Google đó, người có trí thông minh xã hội khiến khách luôn cảm thấy như đang ở nhà của chính mình.",
+        "Nhà lãnh đạo tinh thần ẩn mình trong hình hài một kỹ sư công nghệ đang nỗ lực thay đổi văn hóa làm việc tại Mỹ.",
+        "Người tiên phong trong việc ứng dụng các phương pháp thiền định cổ xưa vào môi trường làm việc áp lực cao tại Google."
       ],
-      "correctIndex": 2,
-      "explanation": "Goleman viết: 'bài báo đăng trên trang nhất của tờ New York Times, rằng Meng nổi tiếng là “cái anh chàng Google đó”, người kỹ sư đặc biệt có trí thông minh xã hội đủ cao để khiến bất kỳ vị khách nào cũng ngay lập tức cảm thấy như đang ở nhà...'"
+      "correctIndex": 1,
+      "explanation": "Tờ New York Times gọi Meng là 'cái anh chàng Google đó' nhờ trí thông minh xã hội giúp khách cảm thấy thoải mái ngay lập tức."
     },
     {
       "id": "q3",
       "question": "Theo Daniel Goleman, sự kết hợp diệu kỳ nào đã khiến Chade-Meng Tan trở thành một người thực sự đặc biệt?",
       "options": [
-        "Sự kết hợp giữa khả năng lập trình siêu hạng và tài năng diễn thuyết lôi cuốn trước hàng ngàn khán giả.",
-        "Sự kết hợp diệu kỳ giữa khả năng phân tích hệ thống tuyệt vời của một kỹ sư và trái tim vàng của anh.",
-        "Sự hòa quyện giữa tinh thần kinh doanh mạo hiểm quyết đoán và kỹ năng quản lý tài chính doanh nghiệp chặt chẽ.",
-        "Khả năng nghiên cứu y học thực nghiệm chuyên sâu cùng với kinh nghiệm tham chính ngoại giao quốc tế lâu năm."
+        "Sự hòa quyện giữa tư duy logic sắc bén của một lập trình viên và kỹ năng quản trị nhân sự cấp cao tại tập đoàn lớn.",
+        "Khả năng kết hợp giữa kiến thức chuyên môn về công nghệ thông tin và sự am hiểu sâu sắc về các triết lý nhân sinh.",
+        "Sự kết hợp diệu kỳ giữa khả năng phân tích hệ thống tuyệt vời của một kỹ sư và trái tim vàng đầy lòng trắc ẩn.",
+        "Sự giao thoa giữa năng lực giải quyết vấn đề phức tạp và khả năng truyền cảm hứng cho cộng đồng thông qua diễn thuyết."
       ],
-      "correctIndex": 1,
-      "explanation": "Daniel Goleman khẳng định: 'Nhưng đó không phải là điều khiến Meng trở nên đặc biệt, mà đó là sự kết hợp diệu kỳ giữa khả năng phân tích hệ thống tuyệt vời và trái tim vàng của anh.'"
+      "correctIndex": 2,
+      "explanation": "Goleman nhấn mạnh sự đặc biệt của Meng nằm ở sự kết hợp giữa khả năng phân tích hệ thống và trái tim vàng của anh."
     },
     {
       "id": "q4",
       "question": "Khi được mời đến diễn thuyết trong chuỗi bài giảng Authors@Google, ban đầu Daniel Goleman cảm thấy vị thế của mình như thế nào?",
       "options": [
-        "Ông tự tin rằng bài giảng của mình chắc chắn sẽ làm thay đổi toàn bộ văn hóa làm việc của Google.",
-        "Ông lo lắng mình sẽ bị ban giám đốc phản đối gay gắt vì mang các lý thuyết tâm lý vào công ty công nghệ.",
-        "Ông nghĩ mình chỉ như một thú vui nữa cho nhân viên, nằm giữa một buổi mát-xa và quyền uống sô-đa thoải mái.",
-        "Ông hy vọng sẽ nhận được một hợp đồng tư vấn quản trị nhân sự dài hạn và béo bở với tập đoàn Google."
+        "Ông cảm thấy lo lắng vì cho rằng các kỹ sư tại Google sẽ không quan tâm đến những lý thuyết về trí tuệ cảm xúc cá nhân.",
+        "Ông tự tin rằng bài giảng của mình sẽ mang lại những thay đổi tích cực cho văn hóa làm việc tại tập đoàn công nghệ.",
+        "Ông cảm thấy mình là một diễn giả quan trọng được mời đến để định hướng tư duy cho đội ngũ nhân sự cấp cao của Google.",
+        "Ông nghĩ mình chỉ như một thú vui giải trí nằm giữa một buổi mát-xa và quyền được uống sô-đa thoải mái tại công ty."
       ],
-      "correctIndex": 2,
-      "explanation": "Goleman chia sẻ: 'Tôi cảm thấy mình chỉ như một thú vui nữa trong vô số thú vui mà nhân viên ở đây nổi tiếng là được hưởng, một cái gì đó nằm giữa một buổi mát-xa và quyền được uống sô-đa thoải mái.'"
+      "correctIndex": 3,
+      "explanation": "Goleman cảm thấy mình chỉ là một thú vui nhỏ trong vô số đặc quyền mà nhân viên Google được hưởng tại nơi làm việc."
     },
     {
       "id": "q5",
       "question": "Tại sao Goleman lại hoài nghi về mức độ quan tâm của nhân viên Google đối với chủ đề kỹ năng mềm trước buổi diễn thuyết?",
       "options": [
-        "Vì công ty Google quy định nhân viên chỉ được phép tham dự các hội thảo chuyên môn về khoa học máy tính tính toán.",
-        "Vì Google là pháo đài tri thức toàn những người có điểm SAT cao ngất ngưởng, một công ty toàn kẻ cứng đầu kỹ thuật.",
-        "Vì các buổi nói chuyện trước đó của các diễn giả tâm lý học đều không có người tham dự và bị hủy bỏ.",
-        "Vì thời điểm đó phong trào rèn luyện trí tuệ cảm xúc chưa từng được biết đến tại các nước phương Tây."
+        "Vì Google là pháo đài tri thức toàn những người có điểm SAT cao ngất ngưởng, một công ty toàn những kẻ cứng đầu kỹ thuật.",
+        "Vì ông cho rằng các kỹ sư công nghệ thường chỉ tập trung vào các vấn đề logic và bỏ qua các giá trị về cảm xúc con người.",
+        "Vì ông tin rằng môi trường làm việc tại Google quá áp lực khiến nhân viên không có thời gian để học hỏi kỹ năng mềm.",
+        "Vì ông nghĩ rằng những người làm việc trong lĩnh vực công nghệ thông tin thường có xu hướng bài trừ các lý thuyết tâm lý."
       ],
-      "correctIndex": 1,
-      "explanation": "Goleman giải thích: 'Trong pháo đài tri thức này – điểm SAT của bạn cần phải nằm trong nhóm đứng đầu thì mới được cân nhắc làm việc tại Google – một công ty công nghệ thông tin toàn những kẻ cứng đầu, tôi không nghĩ sẽ có ai đó thích nghe về kỹ năng mềm.'"
+      "correctIndex": 0,
+      "explanation": "Goleman hoài nghi vì Google là nơi tập trung những thiên tài kỹ thuật, những người thường ưu tiên logic hơn kỹ năng mềm."
     },
     {
       "id": "q6",
       "question": "Thực tế diễn ra tại phòng diễn thuyết lớn nhất khu Googleplex hôm đó đã khiến Daniel Goleman ngạc nhiên ra sao?",
       "options": [
-        "Phòng diễn thuyết đông nghịt người, hết đám này đến đám khác tràn vào hội trường cho thấy sự quan tâm rất lớn.",
-        "Chỉ có khoảng mười kỹ sư trẻ tham dự và hầu hết mọi người đều ngồi mở máy tính xách tay làm việc riêng.",
-        "Khán phòng hoàn toàn trống rỗng do hầu hết các kỹ sư đều bận xử lý sự cố máy chủ đột xuất vào phút chót.",
-        "Hội trường chỉ toàn các nhà quản lý nhân sự tham gia còn các kỹ sư kỹ thuật đều từ chối tham dự."
+        "Khán phòng chật kín người tham dự với sự hào hứng đặc biệt dành cho các chủ đề về trí tuệ cảm xúc và thiền định.",
+        "Phòng diễn thuyết đông nghịt người, hết đám này đến đám khác tràn vào hội trường cho thấy sự quan tâm rất lớn của họ.",
+        "Sự hiện diện của đông đảo nhân viên đã chứng minh rằng họ thực sự khao khát tìm kiếm sự cân bằng trong cuộc sống.",
+        "Số lượng người tham gia vượt quá dự kiến ban đầu khiến ban tổ chức phải mở thêm nhiều phòng họp trực tuyến khác nhau."
       ],
-      "correctIndex": 0,
-      "explanation": "Goleman kể: 'lúc bước chân vào phòng diễn thuyết, căn phòng lớn nhất khu Googleplex, tôi đã rất ngạc nhiên khi thấy nơi đây đông nghịt người, hết đám này đến đám khác đang tràn vào trong hội trường. Rõ ràng là có một sự quan tâm rất lớn.'"
+      "correctIndex": 1,
+      "explanation": "Goleman ngạc nhiên vì hội trường đông nghịt người, trái ngược với dự đoán ban đầu của ông về sự thờ ơ của các kỹ sư."
     },
     {
       "id": "q7",
-      "question": "Meng đã 'đảo ngược trí thông minh cảm xúc của một kỹ sư' (reverse-engineered) như thế nào theo quan sát của Goleman?",
+      "question": "Meng đã 'đảo ngược trí thông minh cảm xúc của một kỹ sư' như thế nào theo quan sát của Goleman?",
       "options": [
-        "Anh chuyển hóa toàn bộ các bảng khảo sát tâm lý thành các thuật toán phần mềm tự động hóa trên máy chủ đám mây.",
-        "Anh chứng minh rằng trí thông minh cảm xúc chỉ là phản xạ có điều kiện và hoàn toàn có thể lập trình được bằng máy.",
+        "Anh phân tích các thành phần của trí tuệ cảm xúc thành những thuật toán logic có thể lập trình được trên máy tính.",
+        "Anh chuyển đổi các khái niệm tâm lý học trừu tượng thành những bài tập thực hành cụ thể cho các kỹ sư công nghệ.",
         "Anh nhận thấy hiểu biết bản thân là cốt lõi của EQ, và thiền định chính là phương pháp rèn luyện tốt nhất cho điều đó.",
-        "Anh đã loại bỏ hoàn toàn các yếu tố cảm xúc chủ quan để quy đổi mọi hành vi ứng xử ra các thang điểm số cụ thể."
+        "Anh chứng minh rằng trí tuệ cảm xúc có thể được đo lường và cải thiện thông qua các phương pháp khoa học hiện đại."
       ],
       "correctIndex": 2,
-      "explanation": "Goleman viết: 'chỉ có Meng là người có khả năng đảo ngược trí thông minh cảm xúc của một kỹ sư. Anh tách nó ra rồi ghép nó lại với một sự am hiểu tuyệt vời: anh thấy được rằng hiểu biết bản thân chính là cốt lõi của trí thông minh cảm xúc, và phương pháp tốt nhất để làm điều đó là thiền.'"
+      "explanation": "Meng tách trí tuệ cảm xúc ra, phân tích nó và nhận ra hiểu biết bản thân là cốt lõi, với thiền là phương pháp rèn luyện."
     },
     {
       "id": "q8",
-      "question": "Tên gọi khóa học 'Search Inside Yourself' (Tìm Kiếm Bên Trong Bạn) tại Đại học Google mang ý nghĩa thú vị nào?",
+      "question": "Tên gọi khóa học 'Search Inside Yourself' tại Đại học Google mang ý nghĩa thú vị nào?",
       "options": [
-        "Là một tên gọi nhằm ngầm chê bai các công cụ tìm kiếm dữ liệu truyền thống trên mạng Internet lúc bấy giờ.",
-        "Là một cái tên cực kỳ phù hợp và hóm hỉnh đối với một công ty chuyên về công cụ tìm kiếm trên mạng như Google.",
-        "Là quy định bắt buộc của phòng đào tạo nội bộ Google nhằm tạo nhận diện thương hiệu cho mọi khóa học kỹ năng.",
-        "Là tên một dự án phần mềm trí tuệ nhân tạo bí mật được chuyển đổi mục đích sử dụng sang đào tạo nhân sự."
+        "Là một thông điệp mạnh mẽ khuyến khích nhân viên tìm kiếm những giá trị cốt lõi bên trong tâm hồn của chính mình.",
+        "Là tên gọi phản ánh đúng bản chất của việc ứng dụng công nghệ tìm kiếm vào quá trình phát triển trí tuệ cảm xúc.",
+        "Là một cách chơi chữ thông minh nhằm thu hút sự chú ý của các kỹ sư đối với các khóa học về phát triển bản thân.",
+        "Là một cái tên cực kỳ phù hợp và hóm hỉnh đối với một công ty chuyên về công cụ tìm kiếm trên mạng như Google."
       ],
-      "correctIndex": 1,
-      "explanation": "Goleman nhận xét: 'Khi Meng công bố khóa học này tại Đại học Google, nó có tên (rất phù hợp với một công ty chuyên về tìm kiếm trên mạng) là Tìm Kiếm Bên Trong Bạn (Search Inside Yourself).'"
+      "correctIndex": 3,
+      "explanation": "Tên gọi này rất phù hợp với Google, một công ty nổi tiếng toàn cầu về công cụ tìm kiếm dữ liệu trên mạng."
     },
     {
       "id": "q9",
       "question": "Trong số các cộng sự mà Meng mời hợp tác, ai là Giám đốc sáng lập Trung tâm Tư duy Thiền trong Xã hội?",
       "options": [
-        "Nhà khoa học thần kinh Philippe Goldin thuộc Đại học Stanford.",
-        "Thiền sư Norman Fischer, nguyên Viện trưởng Trung tâm Thiền San Francisco.",
-        "Tiến sĩ Jon Kabat-Zinn thuộc Trường Y Đại học Massachusetts.",
-        "Giáo sư Mirabai Bush, người bạn lâu năm và đồng nghiệp của Daniel Goleman."
+        "Giáo sư Mirabai Bush, người bạn lâu năm và cũng là đồng nghiệp đáng kính của tác giả Daniel Goleman.",
+        "Thiền sư Norman Fischer, một chuyên gia nổi tiếng trong việc giảng dạy thiền định tại các tổ chức lớn ở Mỹ.",
+        "Tiến sĩ Jon Kabat-Zinn, người tiên phong trong việc đưa các phương pháp thiền định vào lĩnh vực y học hiện đại.",
+        "Nhà nghiên cứu tâm lý học hàng đầu thế giới chuyên về lĩnh vực trí tuệ cảm xúc và phát triển tiềm năng con người."
       ],
-      "correctIndex": 3,
-      "explanation": "Goleman giới thiệu: 'người bạn lâu năm và cũng là đồng nghiệp của tôi, Mirabai Bush, Giám đốc sáng lập Trung tâm Tư duy Thiền trong Xã hội.'"
+      "correctIndex": 0,
+      "explanation": "Goleman xác nhận Mirabai Bush là Giám đốc sáng lập Trung tâm Tư duy Thiền trong Xã hội và là bạn lâu năm của ông."
     },
     {
       "id": "q10",
       "question": "Khía cạnh 'trái tim vàng' của Meng được Daniel Goleman minh họa qua hành động và mong muốn nào của anh?",
       "options": [
-        "Meng đã dành toàn bộ tiền lương kỹ sư của mình để mua cổ phiếu tặng lại cho các nhân viên mới vào công ty.",
+        "Anh luôn sẵn lòng giúp đỡ các đồng nghiệp trong công việc và dành thời gian để lắng nghe những khó khăn của họ.",
         "Bản năng của anh là chia sẻ lợi ích khóa học cho bất kỳ ai muốn thử, trao tặng nó như món quà của Google cho thế giới.",
-        "Anh thành lập một quỹ từ thiện tài trợ cho các dự án xây dựng bệnh viện nhi khoa tại các nước đang phát triển.",
-        "Anh tình nguyện nhận làm thêm ca đêm thay cho các đồng nghiệp có con nhỏ để họ có thời gian nghỉ ngơi."
+        "Anh mong muốn lan tỏa lòng từ bi và sự an bình nội tại đến với tất cả mọi người thông qua các chương trình đào tạo.",
+        "Anh dành phần lớn thời gian và tâm huyết để xây dựng một cộng đồng nhân ái dựa trên nền tảng của sự thấu hiểu nhau."
       ],
       "correctIndex": 1,
-      "explanation": "Goleman viết: 'bản năng của anh là chia sẻ nó với bất kỳ ai muốn thử chứ không chỉ những người đủ may mắn được tham gia một khóa học của Google... “Trao nó đi như một trong những món quà của Google đối với thế giới”.'"
+      "explanation": "Trái tim vàng của Meng thể hiện qua mong muốn chia sẻ khóa học như một món quà của Google dành cho thế giới."
     },
     {
       "id": "q11",
       "question": "Mục đích sống tối thượng mà Meng đã nhiệt tình chia sẻ với Goleman ngay trong lần đầu gặp gỡ là gì?",
       "options": [
-        "Xây dựng Google trở thành tập đoàn công nghệ có giá trị vốn hóa thị trường lớn nhất trong lịch sử nhân loại.",
+        "Xây dựng một nền tảng công nghệ giúp con người kết nối với nhau một cách sâu sắc hơn trong kỷ nguyên số hiện nay.",
+        "Tạo ra những thay đổi tích cực trong môi trường làm việc tại Google để nhân viên có thể phát huy tối đa tiềm năng.",
         "Đem lại hòa bình thế giới thông qua việc lan tỏa rộng rãi lòng từ bi và sự an bình nội tại cho mọi người.",
-        "Chứng minh rằng các kỹ sư máy tính có thể trở thành những nhà lãnh đạo chính trị xuất sắc nhất thế kỷ 21.",
-        "Tạo ra một bộ bách khoa toàn thư kỹ thuật số lưu trữ toàn bộ các kinh nghiệm thiền định của nhân loại."
+        "Phát triển các phương pháp thiền định khoa học nhằm giúp con người giảm bớt căng thẳng trong cuộc sống hiện đại."
       ],
-      "correctIndex": 1,
-      "explanation": "Goleman viết: 'lần đầu tiên tôi gặp Meng, anh đã rất nhiệt tình nói với tôi rằng mục đích sống của anh là đem lại hòa bình thế giới thông qua lan tỏa lòng từ bi và sự an bình nội tại.'"
+      "correctIndex": 2,
+      "explanation": "Meng chia sẻ mục đích sống của mình là đem lại hòa bình thế giới thông qua việc lan tỏa lòng từ bi và sự an bình."
     },
     {
       "id": "q12",
       "question": "Hình ảnh ẩn dụ đặc sắc nhất mà Daniel Goleman dùng để miêu tả về Chade-Meng Tan ở cuối Lời nói đầu là gì?",
       "options": [
-        "Một nhà bác học viễn tưởng đang chế tạo cỗ máy thời gian cho tâm trí con người.",
-        "Một hiệp sĩ công nghệ đơn độc chiến đấu chống lại sự khô khan của các cỗ máy tính toán.",
-        "Một vị Bồ Tát ẩn mình, và với sự ra đời của cuốn sách thì có thể bỏ từ 'ẩn mình' đi.",
-        "Một vị thuyền trưởng dũng cảm đang chèo lái con thuyền trí tuệ vượt qua đại dương bão tố."
+        "Một người dẫn đường tận tụy đang nỗ lực đưa trí tuệ cảm xúc đến với cộng đồng kỹ sư công nghệ trên toàn cầu.",
+        "Một nhà hiền triết hiện đại đang kết hợp những giá trị cổ xưa với công nghệ tiên tiến để giúp ích cho nhân loại.",
+        "Một người bạn đồng hành đáng tin cậy luôn sẵn sàng chia sẻ những kiến thức quý báu về sự an bình trong tâm hồn.",
+        "Một vị Bồ Tát ẩn mình, và với sự ra đời của cuốn sách này thì có thể bỏ từ ẩn mình đi để gọi tên anh."
       ],
-      "correctIndex": 2,
-      "explanation": "Goleman viết: 'Khi hiểu rõ Meng hơn, tôi nhận ra anh ấy không phải một kỹ sư bình thường; anh ấy là một vị Bồ Tát ẩn mình. Và với sự xuất hiện của cuốn sách này, tôi nghĩ mình sẽ phải bỏ từ “ẩn mình” đi.'"
+      "correctIndex": 3,
+      "explanation": "Goleman gọi Meng là một vị Bồ Tát ẩn mình và cho rằng cuốn sách này đã làm lộ rõ vai trò đó của anh."
     },
     {
       "id": "q13",
       "question": "Lời nói đầu của Daniel Goleman chứng thực điều gì về hiệu quả thực tế của khóa học SIY đối với học viên tại Google?",
       "options": [
-        "Khóa học giúp 100% người tham gia được thăng chức lên vị trí quản lý chỉ sau ba tháng học tập.",
-        "Rất nhiều người tham gia khóa học tại Google đã thực sự thay đổi hoàn toàn cuộc sống của chính mình.",
-        "Khóa học giúp các kỹ sư tăng gấp đôi tốc độ phát hiện lỗi phần mềm trong các dự án công nghệ lớn.",
-        "Đa số học viên đã quyết định nghỉ việc tại tập đoàn để theo đuổi con đường tu tập thiền định chuyên nghiệp."
+        "Rất nhiều người tham gia khóa học tại Google đã thực sự thay đổi hoàn toàn cuộc sống của chính bản thân họ.",
+        "Khóa học đã giúp các nhân viên tại Google cải thiện đáng kể hiệu suất làm việc và khả năng sáng tạo trong công việc.",
+        "Hầu hết các học viên đều cảm thấy hài lòng với những kiến thức bổ ích mà khóa học mang lại cho sự nghiệp của họ.",
+        "Khóa học đã tạo ra một làn sóng thay đổi tích cực trong văn hóa làm việc và sự gắn kết giữa các nhân viên Google."
       ],
-      "correctIndex": 1,
-      "explanation": "Goleman chứng thực: 'Và bạn sẽ thấy rằng, rất nhiều người tham gia khóa học tại Google đã thay đổi hoàn toàn.'"
+      "correctIndex": 0,
+      "explanation": "Goleman khẳng định rằng rất nhiều người tham gia khóa học tại Google đã thay đổi hoàn toàn cuộc sống của họ."
     },
     {
       "id": "q14",
       "question": "Phương châm lựa chọn phương pháp thực hành của Meng và đội ngũ phát triển khóa học SIY là gì?",
       "options": [
-        "Ưu tiên tuyệt đối các nghi lễ truyền thống mang tính huyền bí để tạo sự tò mò và tôn kính cho học viên.",
-        "Chỉ áp dụng các bài tập do chính các kỹ sư của tập đoàn Google tự sáng tạo ra mà không dùng tài liệu cũ.",
+        "Kết hợp các kỹ thuật thiền định truyền thống với những nghiên cứu khoa học mới nhất về não bộ và tâm lý con người.",
         "Chọn lọc những phương pháp hay nhất từ các phương pháp đã được kiểm chứng kỹ càng để tạo cuộc sống ý thức và an bình.",
-        "Liên tục thử nghiệm các trào lưu rèn luyện tinh thần mới nhất trên Internet bất kể có cơ sở khoa học hay không."
+        "Ưu tiên các phương pháp thực hành đơn giản, dễ áp dụng và mang lại hiệu quả cao cho những người bận rộn hiện nay.",
+        "Xây dựng một lộ trình đào tạo bài bản dựa trên sự kết hợp giữa lý thuyết tâm lý học và các bài tập thực hành thiền."
       ],
-      "correctIndex": 2,
-      "explanation": "Goleman nhận định: 'Meng và đội của anh cũng chọn lọc những phương pháp hay nhất từ các phương pháp đã được kiểm chứng kỹ càng để tạo ra một cuộc sống đầy ý thức và bình an, tốt đẹp và hạnh phúc.'"
+      "correctIndex": 1,
+      "explanation": "Meng và đội ngũ đã chọn lọc những phương pháp tốt nhất, đã được kiểm chứng để tạo ra cuộc sống đầy ý thức và bình an."
     },
     {
       "id": "q15",
       "question": "Thông điệp bao trùm mà Daniel Goleman muốn truyền tải tới độc giả thông qua bài Lời nói đầu là gì?",
       "options": [
+        "Trí tuệ cảm xúc là yếu tố then chốt quyết định sự thành công của mỗi cá nhân trong môi trường làm việc hiện đại.",
+        "Việc kết hợp giữa công nghệ và thiền định là xu hướng tất yếu của tương lai trong việc phát triển tiềm năng con người.",
         "Kỹ năng mềm và sự phát triển nội tâm hoàn toàn có thể học được, rèn luyện được và có giá trị chuyển hóa sâu sắc.",
-        "Các công ty công nghệ nên bắt buộc tất cả nhân viên phải tham gia các khóa học thiền định hàng tuần.",
-        "Chỉ những cá nhân có điểm kiểm tra IQ và SAT xuất sắc mới có đủ khả năng rèn luyện trí tuệ cảm xúc.",
-        "Thành công tài chính và danh tiếng xã hội là thước đo duy nhất chuẩn xác cho sự viên mãn của con người."
+        "Mỗi cá nhân đều có khả năng tự tìm kiếm sự an bình và hạnh phúc bên trong chính mình thông qua việc rèn luyện tâm trí."
       ],
-      "correctIndex": 0,
-      "explanation": "Daniel Goleman khẳng định trí tuệ cảm xúc dựa trên thiền là một phương pháp khoa học, thiết thực và có thể giúp biến đổi mạnh mẽ đời sống của bất kỳ ai tiếp cận nó với tâm thế cởi mở."
+      "correctIndex": 2,
+      "explanation": "Goleman muốn nhấn mạnh rằng kỹ năng mềm và sự phát triển nội tâm là những thứ có thể học và rèn luyện được."
     }
   ]
 }

@@ -8,22 +8,22 @@
       "id": "q1",
       "question": "Mục đích quan trọng nhất của phần 'Chú thích' chi tiết ở cuối cuốn sách Search Inside Yourself là gì?",
       "options": [
-        "Cung cấp đầy đủ các bằng chứng học thuật thực chứng, nghiên cứu khoa học thần kinh làm điểm tựa vững chắc cho các bài tập.",
-        "Kéo dài độ dày của cuốn sách để nhà xuất bản có thể tăng giá bán bìa trên thị trường sách quốc tế.",
-        "Liệt kê danh sách tất cả các nhân viên đã từng làm việc tại tập đoàn Google từ ngày thành lập đến nay.",
-        "Bảo vệ bản quyền phần mềm tìm kiếm độc quyền của Google trước các vụ kiện tụng thương mại quốc tế."
+        "Cung cấp các bằng chứng học thuật thực chứng và nghiên cứu thần kinh học làm điểm tựa vững chắc cho các bài tập thực hành.",
+        "Liệt kê danh sách các nhân viên đã đóng góp vào dự án tại Google để ghi nhận công lao của họ trong quá trình phát triển.",
+        "Bảo vệ bản quyền các thuật toán tìm kiếm độc quyền của Google trước những vụ kiện tụng thương mại quốc tế phức tạp hiện nay.",
+        "Kéo dài độ dày của cuốn sách để nhà xuất bản có thể tăng giá bán bìa trên thị trường sách quốc tế một cách hiệu quả nhất."
       ],
       "correctIndex": 0,
-      "explanation": "Là một kỹ sư, Meng coi trọng tính khoa học thực chứng: phần chú thích cung cấp chính xác các nguồn nghiên cứu khoa học từ các tạp chí y khoa và thần kinh học uy tín, bảo đảm độ tin cậy tuyệt đối."
+      "explanation": "Tác giả là một kỹ sư, nên ông coi trọng tính khoa học thực chứng: phần chú thích cung cấp nguồn nghiên cứu từ các tạp chí y khoa uy tín, bảo đảm độ tin cậy tuyệt đối."
     },
     {
       "id": "q2",
       "question": "Bài báo khoa học đầu tiên định nghĩa về 'Trí thông minh cảm xúc' năm 1990 được xuất bản bởi ai trong phần Chú thích Chương 1?",
       "options": [
-        "Daniel Goleman và Richard Boyatzis trên tạp chí Harvard Business Review.",
-        "Peter Salovey và John D. Mayer trên tạp chí Imagination, Cognition and Personality.",
-        "Sigmund Freud và Carl Jung trong các kỷ yếu phân tâm học châu Âu cổ điển.",
-        "Martin Seligman và Mihaly Csikszentmihalyi trên tạp chí American Psychologist."
+        "Daniel Goleman và Richard Boyatzis trên tạp chí quản trị kinh doanh Harvard danh tiếng dành cho các nhà lãnh đạo doanh nghiệp.",
+        "Peter Salovey và John D. Mayer trên tạp chí chuyên ngành về trí tưởng tượng, nhận thức và nhân cách của con người hiện đại.",
+        "Sigmund Freud và Carl Jung trong các kỷ yếu phân tâm học châu Âu cổ điển được xuất bản vào đầu thế kỷ hai mươi tại Áo.",
+        "Martin Seligman và Mihaly Csikszentmihalyi trên tạp chí tâm lý học Hoa Kỳ về các nghiên cứu hành vi con người đương đại."
       ],
       "correctIndex": 1,
       "explanation": "Chú thích 1 của Chương 1 trích dẫn bài báo gốc mang tính khai phá: Peter Salovey và John D. Mayer, 'Emotional Intelligence', Imagination, Cognition and Personality (1990)."
@@ -32,157 +32,157 @@
       "id": "q3",
       "question": "Công trình nghiên cứu khoa học thần kinh của Sara Lazar (Trường Y Harvard) được trích dẫn chứng minh điều gì về não bộ?",
       "options": [
-        "Não bộ con người hoàn toàn không thể tái cấu trúc hay biến đổi các khớp thần kinh sau tuổi trưởng thành.",
-        "Thiền định làm giảm số lượng tế bào thần kinh đệm và làm tăng nguy cơ suy giảm trí nhớ ở người cao tuổi.",
-        "Người thực hành thiền có vỏ não dày hơn ở các vùng chịu trách nhiệm về sự chú ý và nhận thức giác quan.",
-        "Việc tập thở chánh niệm làm giảm lượng máu lưu thông đến các vùng thùy trán và thùy đỉnh của bán cầu não."
+        "Não bộ con người hoàn toàn không thể tái cấu trúc hay biến đổi các khớp thần kinh sau khi đã bước qua độ tuổi trưởng thành.",
+        "Thiền định làm giảm số lượng tế bào thần kinh đệm và làm tăng nguy cơ suy giảm trí nhớ ở người cao tuổi trong xã hội.",
+        "Người thực hành thiền có vỏ não dày hơn ở các vùng chịu trách nhiệm về sự chú ý và nhận thức giác quan của con người.",
+        "Việc tập thở chánh niệm làm giảm lượng máu lưu thông đến các vùng thùy trán và thùy đỉnh của bán cầu não người thực hành."
       ],
       "correctIndex": 2,
-      "explanation": "Sara Lazar và cộng sự (2005) tại Harvard công bố nghiên cứu trên NeuroReport chứng minh người thiền có cấu trúc vỏ não dày hơn tại thùy đảo và vỏ não trước trán – vùng não phụ trách chú ý và tự nhận thức."
+      "explanation": "Sara Lazar và cộng sự (2005) tại Harvard công bố nghiên cứu trên NeuroReport chứng minh người thiền có cấu trúc vỏ não dày hơn tại thùy đảo và vỏ não trước trán."
     },
     {
       "id": "q4",
       "question": "Thí nghiệm tiêm phòng cúm kinh điển của Richard Davidson và Jon Kabat-Zinn (2003) chứng minh tác động sinh học nào của thiền?",
       "options": [
-        "Nhóm người thực hành thiền bị dị ứng nặng nề với tất cả các thành phần hóa học có trong vắc-xin phòng cúm.",
-        "Hoàn toàn không có bất kỳ sự thay đổi sinh học nào về lượng kháng thể giữa hai nhóm tham gia thử nghiệm.",
-        "Thiền định làm suy giảm chức năng của các tế bào bạch cầu và khiến hệ miễn dịch của cơ thể bị tê liệt.",
-        "Nhóm người học thiền 8 tuần sản sinh lượng kháng thể chống virus cúm cao hơn vượt trội so với nhóm đối chứng."
+        "Nhóm người thực hành thiền bị dị ứng nặng nề với tất cả các thành phần hóa học có trong vắc-xin phòng cúm mùa hàng năm.",
+        "Hoàn toàn không có bất kỳ sự thay đổi sinh học nào về lượng kháng thể giữa hai nhóm tham gia thử nghiệm lâm sàng này.",
+        "Thiền định làm suy giảm chức năng của các tế bào bạch cầu và khiến hệ miễn dịch của cơ thể bị tê liệt hoàn toàn sau đó.",
+        "Nhóm người học thiền tám tuần sản sinh lượng kháng thể chống virus cúm cao hơn vượt trội so với nhóm đối chứng không thiền."
       ],
       "correctIndex": 3,
-      "explanation": "Nghiên cứu công bố năm 2003 trên Psychosomatic Medicine: sau 8 tuần thực hành MBSR, những người thiền có sự gia tăng kháng thể phòng cúm vượt trội so với nhóm không thiền, chứng minh thiền củng cố hệ miễn dịch."
+      "explanation": "Nghiên cứu công bố năm 2003 trên Psychosomatic Medicine: sau 8 tuần thực hành MBSR, những người thiền có sự gia tăng kháng thể phòng cúm vượt trội so với nhóm không thiền."
     },
     {
       "id": "q5",
       "question": "Nghiên cứu của Philippe Goldin tại Đại học Stanford về khóa học SIY kiểm tra tác động đối với chứng rối loạn tâm lý nào?",
       "options": [
-        "Chứng lo âu xã hội (Social Anxiety Disorder), cho thấy SIY giúp giảm lo âu và tăng cường khả năng tự điều chỉnh.",
-        "Chứng rối loạn ám ảnh cưỡng chế (OCD) mức độ nghiêm trọng ở các bệnh nhân nội trú tại bệnh viện.",
-        "Chứng mất ngủ kinh niên do làm việc ca đêm kéo dài của các phi công lái máy bay thương mại quốc tế.",
-        "Hội chứng sợ không gian kín của các thợ mỏ làm việc trong các hầm khai thác than sâu dưới lòng đất."
+        "Chứng lo âu xã hội, cho thấy khóa học SIY giúp giảm lo âu và tăng cường khả năng tự điều chỉnh cảm xúc của người tham gia.",
+        "Chứng rối loạn ám ảnh cưỡng chế mức độ nghiêm trọng ở các bệnh nhân nội trú tại các bệnh viện tâm thần lớn trên thế giới.",
+        "Chứng mất ngủ kinh niên do làm việc ca đêm kéo dài của các phi công lái máy bay thương mại quốc tế trong nhiều năm liền.",
+        "Hội chứng sợ không gian kín của các thợ mỏ làm việc trong các hầm khai thác than sâu dưới lòng đất trong thời gian dài."
       ],
       "correctIndex": 0,
-      "explanation": "Philippe Goldin và các cộng sự tại Stanford nghiên cứu các học viên SIY mắc chứng lo âu xã hội, phát hiện khóa học giúp giảm rõ rệt triệu chứng lo âu và kích hoạt các vùng não điều chỉnh cảm xúc hiệu quả hơn."
+      "explanation": "Philippe Goldin và các cộng sự tại Stanford nghiên cứu các học viên SIY mắc chứng lo âu xã hội, phát hiện khóa học giúp giảm rõ rệt triệu chứng lo âu và kích hoạt vùng não điều chỉnh cảm xúc."
     },
     {
       "id": "q6",
-      "question": "Công trình nghiên cứu đoạt giải Nobel của Elizabeth Blackburn về Telomere được trích dẫn liên quan đến tác động nào của thiền?",
+      "question": "Công trình nghiên cứu về Telomere được trích dẫn trong sách liên quan đến tác động nào của việc thực hành thiền định?",
       "options": [
-        "Thiền định làm đột biến chuỗi xoắn kép DNA và tạo ra các loại protein sinh học hoàn toàn mới lạ cho cơ thể.",
+        "Thiền định làm đột biến chuỗi xoắn kép DNA và tạo ra các loại protein sinh học hoàn toàn mới lạ cho cơ thể con người.",
         "Giảm stress mãn tính thông qua chánh niệm giúp duy trì độ dài của Telomere và kích hoạt enzyme Telomerase chống lão hóa.",
-        "Telomere của các thiền giả bị co ngắn lại nhanh chóng khiến các tế bào già cỗi bị tiêu diệt sớm hơn bình thường.",
+        "Telomere của các thiền giả bị co ngắn lại nhanh chóng khiến các tế bào già cỗi bị tiêu diệt sớm hơn bình thường nhiều.",
         "Độ dài của đầu mút nhiễm sắc thể Telomere hoàn toàn không chịu bất kỳ tác động nào từ trạng thái căng thẳng tâm lý."
       ],
       "correctIndex": 1,
-      "explanation": "Elizabeth Blackburn và Elissa Epel chứng minh: căng thẳng tâm lý làm ngắn Telomere (đầu mút bảo vệ nhiễm sắc thể), gây lão hóa sớm; trong khi thiền và giảm stress giúp bảo vệ độ dài Telomere và kích hoạt Telomerase."
+      "explanation": "Căng thẳng tâm lý làm ngắn Telomere, gây lão hóa sớm; trong khi thiền và giảm stress giúp bảo vệ độ dài Telomere và kích hoạt Telomerase."
     },
     {
       "id": "q7",
-      "question": "Nghiên cứu của Heleen Slagter và Richard Davidson (2007) về 'Nhiệm vụ cái nháy mắt chú ý' được công bố trên tạp chí danh tiếng nào?",
+      "question": "Nghiên cứu của Heleen Slagter và Richard Davidson (2007) về 'Nhiệm vụ cái nháy mắt chú ý' được công bố trên tạp chí nào?",
       "options": [
-        "Tạp chí Nature Neuroscience chuyên về các bệnh lý thần kinh cơ bắp.",
-        "Tạp chí kinh tế học The Economist số ra tháng cuối năm.",
-        "Tạp chí khoa học sinh học hàng đầu thế giới PLoS Biology.",
-        "Báo điện tử công nghệ của tập đoàn phần mềm máy tính quốc tế."
+        "Tạp chí Nature Neuroscience chuyên về các bệnh lý thần kinh cơ bắp và những tiến bộ mới nhất trong lĩnh vực y sinh học.",
+        "Tạp chí kinh tế học The Economist số ra tháng cuối năm với các bài phân tích về xu hướng phát triển của xã hội hiện đại.",
+        "Tạp chí khoa học sinh học hàng đầu thế giới PLoS Biology, nơi công bố các nghiên cứu về sự phân bổ nguồn lực não bộ.",
+        "Báo điện tử công nghệ của tập đoàn phần mềm máy tính quốc tế chuyên đưa tin về các phát minh mới trong lĩnh vực kỹ thuật."
       ],
       "correctIndex": 2,
       "explanation": "Nghiên cứu 'Mental Training Affects Distribution of Limited Brain Resources' của Slagter, Davidson và cộng sự được đăng trên tạp chí mở danh tiếng PLoS Biology (2007)."
     },
     {
       "id": "q8",
-      "question": "Khái niệm 'Đặt tên cảm xúc' (Affect Labeling) của Matthew Lieberman tại UCLA được chứng minh qua kỹ thuật chẩn đoán hình ảnh nào?",
+      "question": "Khái niệm 'Đặt tên cảm xúc' của Matthew Lieberman tại UCLA được chứng minh qua kỹ thuật chẩn đoán hình ảnh nào?",
       "options": [
-        "Chụp X-quang lồng ngực và xét nghiệm nồng độ axit dịch vị dạ dày sau các bữa ăn có nhiều chất béo.",
-        "Kiểm tra thị lực mắt bằng bảng chữ cái tiêu chuẩn quốc tế trong phòng khám chuyên khoa nhãn khoa.",
-        "Đo điện tâm đồ liên tục trong suốt 24 giờ bằng thiết bị cảm biến đeo cổ tay không dây rất hiện đại.",
-        "Chụp cộng hưởng từ chức năng fMRI, cho thấy hạch hạnh nhân giảm kích hoạt khi cảm xúc được gọi tên."
+        "Chụp X-quang lồng ngực và xét nghiệm nồng độ axit dịch vị dạ dày sau các bữa ăn có nhiều chất béo trong phòng thí nghiệm.",
+        "Kiểm tra thị lực mắt bằng bảng chữ cái tiêu chuẩn quốc tế trong phòng khám chuyên khoa nhãn khoa hiện đại bậc nhất hiện nay.",
+        "Đo điện tâm đồ liên tục trong suốt hai mươi bốn giờ bằng thiết bị cảm biến đeo cổ tay không dây rất hiện đại và tiện lợi.",
+        "Chụp cộng hưởng từ chức năng fMRI, cho thấy hạch hạnh nhân giảm kích hoạt khi cảm xúc được gọi tên bằng ngôn ngữ cụ thể."
       ],
       "correctIndex": 3,
-      "explanation": "Matthew Lieberman (2007) dùng fMRI chứng minh rằng khi người tham gia gọi tên cảm xúc bằng từ ngữ, vùng vỏ não trước trán bụng bên (VLPFC) kích hoạt và ức chế trực tiếp phản ứng báo động của hạch hạnh nhân (Amygdala)."
+      "explanation": "Matthew Lieberman (2007) dùng fMRI chứng minh rằng khi người tham gia gọi tên cảm xúc bằng từ ngữ, vùng vỏ não trước trán kích hoạt và ức chế phản ứng của hạch hạnh nhân."
     },
     {
       "id": "q9",
-      "question": "Nghiên cứu của Wallace Bachman về các chỉ huy Hải quân Hoa Kỳ (SYMLOG analysis) trong Chú thích Chương 1 rút ra bài học gì?",
+      "question": "Nghiên cứu của Wallace Bachman về các chỉ huy Hải quân Hoa Kỳ trong Chú thích Chương 1 rút ra bài học gì?",
       "options": [
-        "Các chỉ huy xuất sắc nhất là những người vừa ấm áp, quan tâm đồng đội, vừa quyết đoán và hướng tới mục tiêu cao.",
-        "Những chỉ huy nghiêm khắc độc đoán luôn duy trì được tính kỷ luật và sẵn sàng chiến đấu cao nhất cho quân đội.",
-        "Năng lực thể chất bơi lội là tiêu chuẩn duy nhất quyết định sự thăng tiến của một sĩ quan chỉ huy tàu ngầm.",
-        "Chỉ huy quân sự không bao giờ được phép lắng nghe hay đồng cảm với những khó khăn của cấp dưới dưới quyền."
+        "Các chỉ huy xuất sắc nhất là những người vừa ấm áp, quan tâm đồng đội, vừa quyết đoán và hướng tới mục tiêu cao nhất.",
+        "Những chỉ huy nghiêm khắc độc đoán luôn duy trì được tính kỷ luật và sẵn sàng chiến đấu cao nhất cho quân đội quốc gia.",
+        "Năng lực thể chất bơi lội là tiêu chuẩn duy nhất quyết định sự thăng tiến của một sĩ quan chỉ huy tàu ngầm hiện đại.",
+        "Chỉ huy quân sự không bao giờ được phép lắng nghe hay đồng cảm với những khó khăn của cấp dưới dưới quyền của mình."
       ],
       "correctIndex": 0,
-      "explanation": "Wallace Bachman (1988) nghiên cứu các chỉ huy tàu quân sự: những người chỉ huy xuất chúng nhất không phải là người hung hăng hay lạnh lùng; họ là những người kết hợp giữa sự ấm áp, đồng cảm và sự quyết đoán kỷ luật."
+      "explanation": "Wallace Bachman (1988) nghiên cứu các chỉ huy tàu quân sự: những người chỉ huy xuất chúng nhất kết hợp giữa sự ấm áp, đồng cảm và sự quyết đoán kỷ luật."
     },
     {
       "id": "q10",
-      "question": "Nghiên cứu của Giacomo Rizzolatti về nơ-ron gương (Mirror neurons) được thực hiện tại trường đại học danh tiếng nào của nước Ý?",
+      "question": "Nghiên cứu của Giacomo Rizzolatti về nơ-ron gương được thực hiện tại trường đại học danh tiếng nào của nước Ý?",
       "options": [
-        "Đại học Tổng hợp Roma La Sapienza lâu đời và danh tiếng tại thủ đô nước Ý.",
-        "Đại học Parma (University of Parma), nơi phát hiện ra hệ thống nơ-ron gương.",
-        "Viện Công nghệ Hoàng gia Milan hiện đại bậc nhất tại khu vực miền bắc nước Ý.",
-        "Trường Đại học Nghệ thuật và Khoa học Florence tại vùng đất Tuscany thơ mộng."
+        "Đại học Tổng hợp Roma La Sapienza lâu đời và danh tiếng tại thủ đô nước Ý với bề dày lịch sử hàng trăm năm qua.",
+        "Đại học Parma, nơi các nhà khoa học đã phát hiện ra hệ thống nơ-ron gương trong vỏ não tiền vận động của loài khỉ.",
+        "Viện Công nghệ Hoàng gia Milan hiện đại bậc nhất tại khu vực miền bắc nước Ý chuyên về các nghiên cứu kỹ thuật cao.",
+        "Trường Đại học Nghệ thuật và Khoa học Florence tại vùng đất Tuscany thơ mộng nơi hội tụ nhiều trí thức lớn của thế giới."
       ],
       "correctIndex": 1,
-      "explanation": "Giacomo Rizzolatti và nhóm nghiên cứu tại Đại học Parma (Ý) đã phát hiện ra nơ-ron gương ở vỏ não tiền vận động của loài khỉ vào những năm 1990, đặt nền móng sinh học cho khoa học về sự đồng cảm."
+      "explanation": "Giacomo Rizzolatti và nhóm nghiên cứu tại Đại học Parma (Ý) đã phát hiện ra nơ-ron gương ở vỏ não tiền vận động của loài khỉ vào những năm 1990."
     },
     {
       "id": "q11",
-      "question": "Chú thích về cuốn sách 'Trí thông minh xã hội' (Social Intelligence) của Daniel Goleman nhấn mạnh khái niệm sinh học nào?",
+      "question": "Chú thích về cuốn sách 'Trí thông minh xã hội' của Daniel Goleman nhấn mạnh khái niệm sinh học nào?",
       "options": [
-        "Hệ thống tuần hoàn khép kín hoàn toàn của các mạch máu nuôi dưỡng tế bào tủy sống con người.",
-        "Định luật bảo toàn năng lượng sinh học trong các phản ứng hóa sinh của cơ bắp khi vận động mạnh.",
-        "Cơ chế 'Vòng phản hồi hở' (Open-loop) của hệ viền não: tâm trạng con người có tính lan truyền.",
-        "Quá trình phân chia tế bào gốc phôi thai tự nhiên trong những tuần lễ đầu tiên của thai kỳ."
+        "Hệ thống tuần hoàn khép kín hoàn toàn của các mạch máu nuôi dưỡng tế bào tủy sống con người trong mọi điều kiện sống.",
+        "Định luật bảo toàn năng lượng sinh học trong các phản ứng hóa sinh của cơ bắp khi con người vận động mạnh hàng ngày.",
+        "Cơ chế vòng phản hồi hở của hệ viền não, cho thấy tâm trạng con người có tính lan truyền tự nhiên giữa các cá nhân.",
+        "Quá trình phân chia tế bào gốc phôi thai tự nhiên trong những tuần lễ đầu tiên của thai kỳ trong cơ thể người mẹ."
       ],
       "correctIndex": 2,
-      "explanation": "Goleman phân tích hệ thống vòng lặp hở (Open-loop system): não bộ con người được thiết kế để liên tục tiếp nhận và đồng điệu với trạng thái cảm xúc của người khác, làm cho cảm xúc có tính lan truyền tự nhiên."
+      "explanation": "Goleman phân tích hệ thống vòng lặp hở: não bộ con người được thiết kế để liên tục tiếp nhận và đồng điệu với trạng thái cảm xúc của người khác."
     },
     {
       "id": "q12",
-      "question": "Nghiên cứu của Tania Singer về lòng từ bi (Compassion) chỉ ra sự khác biệt giữa 'Đồng cảm với nỗi đau' và 'Từ bi' là gì?",
+      "question": "Nghiên cứu của Tania Singer về lòng từ bi chỉ ra sự khác biệt giữa 'Đồng cảm với nỗi đau' và 'Từ bi' là gì?",
       "options": [
-        "Đồng cảm chỉ có ở người trưởng thành, trong khi lòng từ bi là phản xạ bẩm sinh biến mất sau khi lớn lên.",
-        "Lòng từ bi luôn luôn gây ra sự kiệt quệ cảm xúc nhanh hơn nhiều so với việc chỉ đơn thuần đồng cảm với nỗi đau.",
+        "Đồng cảm chỉ có ở người trưởng thành, trong khi lòng từ bi là phản xạ bẩm sinh biến mất sau khi lớn lên trong xã hội.",
+        "Lòng từ bi luôn luôn gây ra sự kiệt quệ cảm xúc nhanh hơn nhiều so với việc chỉ đơn thuần đồng cảm với nỗi đau khổ.",
         "Hai trạng thái này hoàn toàn kích hoạt chung các vùng não giống hệt nhau và không thể phân biệt trên máy quét fMRI.",
         "Đồng cảm với nỗi đau kích hoạt mạng lưới đau khổ; trong khi lòng từ bi kích hoạt mạng lưới tưởng thưởng và yêu thương."
       ],
       "correctIndex": 3,
-      "explanation": "Tania Singer phát hiện: đồng cảm thuần túy với đau khổ kích hoạt mạng lưới đau (pain matrix), dễ gây kiệt sức (empathy fatigue); trong khi rèn luyện Từ bi (Compassion) kích hoạt mạng lưới tình thương, dopamine và oxytocin, tái tạo năng lượng."
+      "explanation": "Tania Singer phát hiện: đồng cảm thuần túy kích hoạt mạng lưới đau, dễ gây kiệt sức; trong khi rèn luyện Từ bi kích hoạt mạng lưới tình thương, tái tạo năng lượng."
     },
     {
       "id": "q13",
       "question": "Trong chú thích về hormone Oxytocin, chất dẫn truyền thần kinh này được mệnh danh là phân tử sinh học của điều gì?",
       "options": [
-        "Phân tử của lòng tin, sự gắn kết xã hội, tình yêu thương và sự hào hiệp giữa con người với nhau.",
-        "Phân tử kích thích sự sợ hãi và thúc đẩy phản ứng bỏ chạy khẩn cấp trước kẻ thù hung dữ.",
-        "Hormone duy nhất chịu trách nhiệm về việc tích tụ chất béo dưới da khi ăn quá nhiều calo.",
-        "Hóa chất gây nghiện nguy hiểm làm phá hủy các tế bào nơ-ron dẫn truyền xung thần kinh."
+        "Phân tử của lòng tin, sự gắn kết xã hội, tình yêu thương và sự hào hiệp giữa con người với nhau trong cuộc sống.",
+        "Phân tử kích thích sự sợ hãi và thúc đẩy phản ứng bỏ chạy khẩn cấp trước kẻ thù hung dữ trong môi trường tự nhiên.",
+        "Hormone duy nhất chịu trách nhiệm về việc tích tụ chất béo dưới da khi ăn quá nhiều calo trong các bữa ăn hàng ngày.",
+        "Hóa chất gây nghiện nguy hiểm làm phá hủy các tế bào nơ-ron dẫn truyền xung thần kinh trong não bộ con người hiện đại."
       ],
       "correctIndex": 0,
-      "explanation": "Oxytocin thường được gọi là 'hormone gắn kết' hay 'phân tử đạo đức': nó gia tăng khi con người cảm nhận sự an toàn, thấu cảm, lòng tin và sự kết nối yêu thương, làm giảm mức độ cortisol gây căng thẳng."
+      "explanation": "Oxytocin thường được gọi là 'hormone gắn kết' hay 'phân tử đạo đức': nó gia tăng khi con người cảm nhận sự an toàn, thấu cảm, lòng tin và sự kết nối yêu thương."
     },
     {
       "id": "q14",
-      "question": "Nghiên cứu của Martin Seligman về 'Phong cách giải thích' (Explanatory style) được xuất bản trong cuốn sách kinh điển nào?",
+      "question": "Nghiên cứu của Martin Seligman về 'Phong cách giải thích' được xuất bản trong cuốn sách kinh điển nào?",
       "options": [
-        "Authentic Happiness: Hướng dẫn thực hành tâm lý học tích cực để đạt được hạnh phúc đích thực.",
-        "Learned Optimism: How to Change Your Mind and Your Life (Lạc quan học được) của Martin Seligman.",
-        "Flourish: Tầm nhìn đột phá mới về sự thăng hoa, niềm hạnh phúc và cuộc sống trọn vẹn ý nghĩa.",
-        "What You Can Change and What You Can't: Khám phá những điều bạn có thể và không thể thay đổi."
+        "Authentic Happiness: Hướng dẫn thực hành tâm lý học tích cực để đạt được hạnh phúc đích thực trong cuộc sống con người.",
+        "Learned Optimism: How to Change Your Mind and Your Life của Martin Seligman, phân tích về sự lạc quan học được.",
+        "Flourish: Tầm nhìn đột phá mới về sự thăng hoa, niềm hạnh phúc và cuộc sống trọn vẹn ý nghĩa trong thế giới hiện đại.",
+        "What You Can Change and What You Can't: Khám phá những điều bạn có thể và không thể thay đổi trong tâm lý con người."
       ],
       "correctIndex": 1,
-      "explanation": "Chú thích 4 của Chương 1 trích dẫn cuốn sách kinh điển của Martin Seligman: Learned Optimism: How to Change Your Mind and Your Life (1990), phân tích sự khác biệt giữa phong cách giải thích lạc quan và bi quan."
+      "explanation": "Chú thích 4 của Chương 1 trích dẫn cuốn sách kinh điển của Martin Seligman: Learned Optimism: How to Change Your Mind and Your Life (1990)."
     },
     {
       "id": "q15",
       "question": "Giá trị cốt lõi đúc kết từ toàn bộ phần 'Chú thích & Nghiên cứu khoa học' của cuốn sách là gì?",
       "options": [
-        "Chứng minh rằng thiền định chỉ là một liệu pháp tâm lý giả dược (placebo) không có cơ sở khoa học thực tế.",
-        "Cho thấy các nhà khoa học phương Tây hoàn toàn bác bỏ tất cả các bài tập thiền có nguồn gốc từ phương Đông.",
-        "Khẳng định Chánh niệm và Trí tuệ cảm xúc là các phương pháp rèn luyện có nền tảng khoa học thần kinh chuẩn xác.",
+        "Chứng minh rằng thiền định chỉ là một liệu pháp tâm lý giả dược không có cơ sở khoa học thực tế trong y học hiện đại.",
+        "Cho thấy các nhà khoa học phương Tây hoàn toàn bác bỏ tất cả các bài tập thiền có nguồn gốc từ phương Đông cổ xưa.",
+        "Khẳng định Chánh niệm và Trí tuệ cảm xúc là các phương pháp rèn luyện có nền tảng khoa học thần kinh chuẩn xác nhất.",
         "Khuyên người đọc chỉ nên tin vào những trải nghiệm tâm linh kỳ bí mà không cần quan tâm đến các dữ liệu thực nghiệm."
       ],
       "correctIndex": 2,
-      "explanation": "Phần chú thích đồ sộ là minh chứng hùng hồn nhất: Search Inside Yourself không phải là những lời khuyên đạo đức sáo rỗng, mà là một công trình khoa học ứng dụng được bảo chứng bởi các phòng thí nghiệm thần kinh học hàng đầu thế giới."
+      "explanation": "Phần chú thích đồ sộ là minh chứng hùng hồn nhất: Search Inside Yourself không phải là lời khuyên sáo rỗng, mà là công trình khoa học ứng dụng được bảo chứng."
     }
   ]
 }

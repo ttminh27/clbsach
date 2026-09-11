@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Chade-Meng Tan đã mở đầu chương bằng câu nói nổi tiếng của triết gia La Mã Marcus Aurelius nhằm nhấn mạnh điều gì?",
+      "question": "Chade-Meng Tan đã mở đầu chương bằng câu nói của Marcus Aurelius nhằm mục đích truyền tải thông điệp cốt lõi nào?",
       "options": [
-        "Hạnh phúc là phần thưởng danh giá chỉ dành riêng cho những ai vượt qua các kỳ thi tuyển sinh khắc nghiệt.",
-        "Hãy nhìn vào bên trong tâm trí mình; bởi vì đó chính là suối nguồn chân thực của mọi điều tốt đẹp.",
-        "Thế giới vật chất bên ngoài là ảo ảnh và con người cần phải từ bỏ mọi của cải để đạt sự bình an.",
-        "Số phận con người đã được định đoạt từ khi sinh ra và lý trí không thể thay đổi được dòng chảy cuộc đời."
+        "Hãy nhìn vào bên trong tâm trí mình; bởi vì đó chính là suối nguồn chân thực của mọi điều tốt đẹp trong cuộc sống.",
+        "Hạnh phúc đích thực là phần thưởng danh giá chỉ dành riêng cho những người vượt qua được các kỳ thi tuyển sinh khó.",
+        "Thế giới vật chất bên ngoài là ảo ảnh và con người cần phải từ bỏ mọi của cải để đạt được sự bình an nội tại.",
+        "Số phận con người đã được định đoạt từ khi sinh ra và lý trí không thể thay đổi được dòng chảy của cuộc đời mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Meng trích dẫn lời Marcus Aurelius: 'Hãy nhìn vào bên trong; đó là suối nguồn của mọi điều tốt đẹp.'"
+      "correctIndex": 0,
+      "explanation": "Tác giả trích dẫn Marcus Aurelius để nhấn mạnh rằng việc quay vào bên trong là chìa khóa để tìm thấy sự an bình và hạnh phúc."
     },
     {
       "id": "q2",
-      "question": "Nhân vật được giới truyền thông mệnh danh là 'người hạnh phúc nhất thế giới' được Meng nhắc đến là ai?",
+      "question": "Nhân vật được giới truyền thông mệnh danh là 'người hạnh phúc nhất thế giới' trong chương sách này là ai?",
       "options": [
-        "Thiền sư Thích Nhất Hạnh, tác giả của cuốn sách kinh điển Phép lạ của sự tỉnh thức nổi tiếng thế giới.",
-        "Đức Đạt-lai Lạt-ma, nhà lãnh đạo tinh thần Phật giáo Tây Tạng từng được trao tặng giải Nobel Hòa bình.",
-        "Matthieu Ricard, một tiến sĩ di truyền học phân tử người Pháp sau này trở thành một nhà sư Tây Tạng.",
-        "Jon Kabat-Zinn, người sáng lập chương trình Giảm căng thẳng dựa trên Chánh niệm tại đại học y khoa."
+        "Thiền sư Thích Nhất Hạnh, tác giả của cuốn sách kinh điển Phép lạ của sự tỉnh thức nổi tiếng trên toàn thế giới hiện nay.",
+        "Matthieu Ricard, một tiến sĩ di truyền học phân tử người Pháp sau này đã quyết định trở thành một nhà sư Tây Tạng.",
+        "Đức Đạt-lai Lạt-ma, nhà lãnh đạo tinh thần Phật giáo Tây Tạng từng được trao tặng giải thưởng Nobel Hòa bình danh giá.",
+        "Jon Kabat-Zinn, người sáng lập chương trình Giảm căng thẳng dựa trên Chánh niệm tại đại học y khoa danh tiếng thế giới."
       ],
-      "correctIndex": 2,
-      "explanation": "Meng giới thiệu: 'Tên ông là Matthieu Ricard... Năm 1972, sau khi hoàn thành chương trình tiến sỹ về di truyền học phân tử tại Học viện Pasteur, ông quyết định trở thành một nhà sư Tây Tạng.'"
+      "correctIndex": 1,
+      "explanation": "Matthieu Ricard là nhân vật được nhắc đến với danh hiệu này nhờ vào các nghiên cứu khoa học về não bộ của ông."
     },
     {
       "id": "q3",
       "question": "Chỉ số hạnh phúc trong não bộ của Matthieu Ricard được các nhà khoa học thần kinh đo lường bằng phương pháp nào?",
       "options": [
-        "Đo lường nồng độ canxi và lượng dịch lỏng tích tụ trong các xoang hộp sọ khi tiếp xúc với ánh sáng mạnh.",
-        "Đếm tổng số lượng tế bào thần kinh hoạt động tại tiểu não trong trạng thái cơ thể vận động liên tục.",
+        "Đo lường nồng độ canxi và lượng dịch lỏng tích tụ trong các xoang hộp sọ khi đối tượng tiếp xúc với ánh sáng mạnh.",
+        "Đếm tổng số lượng tế bào thần kinh hoạt động tại tiểu não trong trạng thái cơ thể đang vận động liên tục không nghỉ.",
         "Đo hoạt động tương đối giữa vỏ não trước trán bên trái (tích cực) so với vỏ não trước trán bên phải (tiêu cực).",
-        "Đo lường kích thước và trọng lượng vật lý của tuyến yên khi đối tượng nhìn vào các hình ảnh cảm xúc."
+        "Đo lường kích thước và trọng lượng vật lý của tuyến yên khi đối tượng nhìn vào các hình ảnh gợi cảm xúc mạnh mẽ."
       ],
       "correctIndex": 2,
-      "explanation": "Meng giải thích: 'đó là đo mức độ hoạt động tương đối giữa một phần thuộc vỏ não trước trán bên trái với một phần thuộc vỏ não trước trán bên phải. Bên trái càng mạnh so với bên phải bao nhiêu thì càng có nhiều cảm xúc tích cực bấy nhiêu... Quét não của Matthieu cho thấy độ hạnh phúc của ông hoàn toàn nằm ngoài biểu đồ.'"
+      "explanation": "Sự cân bằng giữa vỏ não trước trán trái và phải là thước đo khoa học cho mức độ hạnh phúc của Matthieu Ricard."
     },
     {
       "id": "q4",
       "question": "Ngoài mức độ hạnh phúc kỷ lục, não của Matthieu Ricard còn đạt được thành tựu phi thường nào được khoa học công nhận?",
       "options": [
-        "Khả năng học thuộc lòng chính xác một cuốn bách khoa toàn thư hàng ngàn trang chỉ sau một lần đọc lướt qua.",
-        "Khả năng ngăn cản phản xạ giật mình tự nhiên của cơ thể khi nghe thấy những tiếng nổ to và bất chợt.",
-        "Khả năng điều chỉnh nhịp tim đập chậm lại còn 5 nhịp một phút trong trạng thái hoàn toàn tỉnh táo.",
-        "Khả năng duy trì nhiệt độ cơ thể không đổi trong môi trường buồng lạnh âm 30 độ C mà không cần mặc áo ấm."
+        "Khả năng học thuộc lòng chính xác một cuốn bách khoa toàn thư hàng ngàn trang chỉ sau một lần đọc lướt qua nhanh.",
+        "Khả năng điều chỉnh nhịp tim đập chậm lại còn 5 nhịp một phút trong trạng thái cơ thể hoàn toàn tỉnh táo bình thường.",
+        "Khả năng duy trì nhiệt độ cơ thể không đổi trong môi trường buồng lạnh âm 30 độ C mà không cần mặc thêm áo ấm.",
+        "Khả năng ngăn cản phản xạ giật mình tự nhiên của cơ thể khi nghe thấy những tiếng nổ to và bất chợt trong phòng."
       ],
-      "correctIndex": 1,
-      "explanation": "Meng kể: 'Ông trở thành người đầu tiên được khoa học công nhận có thể ngăn cản phản xạ giật mình tự nhiên của cơ thể – hiện tượng cơ mặt co giật nhanh để phản ứng lại những tiếng động to và bất chợt.'"
+      "correctIndex": 3,
+      "explanation": "Matthieu Ricard là người đầu tiên được khoa học công nhận có khả năng kiểm soát phản xạ giật mình tự nhiên."
     },
     {
       "id": "q5",
-      "question": "Trong bài kiểm tra phát hiện 'những biểu hiện vi tế' (micro-expressions) trên gương mặt, kết quả của Matthieu Ricard ra sao?",
+      "question": "Trong bài kiểm tra phát hiện 'những biểu hiện vi tế' trên gương mặt, kết quả của Matthieu Ricard ra sao?",
       "options": [
-        "Ông chỉ đạt kết quả ở mức trung bình giống như phần lớn các tình nguyện viên chưa từng qua đào tạo.",
-        "Ông có tỷ lệ đoán sai cao hơn người bình thường do tâm trí của người tu hành không quan tâm đến cảm xúc.",
-        "Dù không qua đào tạo, ông thể hiện tốt hơn 2 độ lệch chuẩn so với bình thường, vượt qua mọi chuyên gia.",
-        "Ông từ chối thực hiện bài kiểm tra này vì cho rằng việc đọc nét mặt người khác là hành vi thiếu lịch sự."
+        "Dù không qua đào tạo, ông thể hiện tốt hơn 2 độ lệch chuẩn so với bình thường, vượt qua mọi chuyên gia đã học.",
+        "Ông chỉ đạt kết quả ở mức trung bình giống như phần lớn các tình nguyện viên chưa từng qua đào tạo bài bản nào.",
+        "Ông có tỷ lệ đoán sai cao hơn người bình thường do tâm trí của người tu hành không quan tâm đến cảm xúc người.",
+        "Ông từ chối thực hiện bài kiểm tra này vì cho rằng việc đọc nét mặt người khác là hành vi thiếu lịch sự và tế nhị."
       ],
-      "correctIndex": 2,
-      "explanation": "Meng viết: 'Matthieu và một thiền sinh khác, cả hai đều không được học, nhưng đều thể hiện hai độ lệch chuẩn tốt hơn bình thường, vượt qua mọi chuyên gia đã qua đào tạo.'"
+      "correctIndex": 0,
+      "explanation": "Kết quả này cho thấy khả năng nhận thức cảm xúc vượt trội của Matthieu Ricard mà không cần qua đào tạo."
     },
     {
       "id": "q6",
       "question": "Chính sách độc đáo nào của Google đã tạo điều kiện cho nhóm của Meng phát triển khóa học Tìm Kiếm Bên Trong Bạn?",
       "options": [
-        "Chính sách thưởng 50.000 đô la tiền mặt cho bất kỳ nhân viên nào xuất bản được một cuốn sách bán chạy.",
-        "Chính sách cho phép các kỹ sư sử dụng 20% thời gian làm việc cho các dự án không thuộc công việc chính.",
-        "Chương trình tài trợ học bổng toàn phần cho tất cả các nhân viên muốn theo học văn bằng tiến sĩ triết học.",
-        "Quy định bắt buộc mỗi kỹ sư phải dành ra 5 giờ mỗi tuần để tham gia các hoạt động công ích xã hội."
+        "Chính sách thưởng 50.000 đô la tiền mặt cho bất kỳ nhân viên nào xuất bản được một cuốn sách bán chạy toàn cầu.",
+        "Chính sách cho phép các kỹ sư sử dụng 20% thời gian làm việc cho các dự án không thuộc công việc chính của họ.",
+        "Chương trình tài trợ học bổng toàn phần cho tất cả các nhân viên muốn theo học văn bằng tiến sĩ triết học tại Mỹ.",
+        "Quy định bắt buộc mỗi kỹ sư phải dành ra 5 giờ mỗi tuần để tham gia các hoạt động công ích xã hội tại địa phương."
       ],
       "correctIndex": 1,
-      "explanation": "Meng giải thích: 'Để tạo điều kiện cho sự đổi mới, Google hào phóng cho phép các kỹ sư của mình sử dụng 20% thời gian cho các dự án không thuộc công việc chính của họ. Nhóm chúng tôi đã sử dụng “20% thời gian” của mình để thực hiện cái mà sau này trở thành khóa học Tìm Kiếm Bên Trong Bạn.'"
+      "explanation": "Chính sách '20% thời gian' là cơ sở để nhóm của Meng xây dựng giáo trình Tìm Kiếm Bên Trong Bạn."
     },
     {
       "id": "q7",
-      "question": "Sau thành công ban đầu của khóa học, Meng đã trở thành kỹ sư đầu tiên trong lịch sử Google thực hiện bước chuyển dịch nào?",
+      "question": "Sau thành công ban đầu của khóa học, Meng đã thực hiện bước chuyển dịch nghề nghiệp nào tại Google?",
       "options": [
+        "Được bổ nhiệm làm thành viên chính thức của Hội đồng Quản trị phụ trách các vấn đề đạo đức công nghệ toàn cầu.",
+        "Chuyển hẳn sang làm người đại diện phát ngôn truyền thông của Google trước các cơ quan lập pháp quốc tế lớn.",
         "Rời khỏi bộ phận kỹ thuật để gia nhập People Ops (phòng nhân lực) nhằm quản lý chương trình đào tạo này.",
-        "Được bổ nhiệm làm thành viên chính thức của Hội đồng Quản trị phụ trách các vấn đề đạo đức công nghệ.",
-        "Chuyển hẳn sang làm người đại diện phát ngôn truyền thông của Google trước các cơ quan lập pháp quốc tế.",
-        "Thành lập một công ty con độc lập chuyên kinh doanh các ứng dụng theo dõi giấc ngủ và thiền trên di động."
+        "Thành lập một công ty con độc lập chuyên kinh doanh các ứng dụng theo dõi giấc ngủ và thiền trên di động cá nhân."
       ],
-      "correctIndex": 0,
-      "explanation": "Meng viết: 'Cuối cùng, tôi trở thành kỹ sư đầu tiên trong lịch sử Google rời khỏi bộ phận kỹ thuật để gia nhập People Ops (cái tên chúng tôi đặt cho phòng nhân lực) nhằm quản lý chương trình này...'"
+      "correctIndex": 2,
+      "explanation": "Meng chuyển sang bộ phận nhân sự để tập trung phát triển và quản lý chương trình Tìm Kiếm Bên Trong Bạn."
     },
     {
       "id": "q8",
       "question": "Việc một kỹ sư như Meng giảng dạy về trí tuệ cảm xúc mang lại lợi ích bất ngờ nào cho khóa học?",
       "options": [
-        "Giúp khóa học được các trường kỹ thuật công nhận và quy đổi trực tiếp thành tín chỉ tốt nghiệp đại học.",
-        "Đảm bảo nền tảng khoa học vững chắc, tính thực tiễn công việc và dịch ngôn ngữ thiền sang ngôn ngữ thực tế.",
-        "Giúp loại bỏ hoàn toàn các bài tập thở truyền thống để thay thế bằng các phần mềm mô phỏng trên máy tính.",
-        "Tạo điều kiện để công ty cắt giảm chi phí thuê các chuyên gia tâm lý học lâm sàng đắt đỏ từ bên ngoài."
+        "Giúp khóa học được các trường kỹ thuật công nhận và quy đổi trực tiếp thành tín chỉ tốt nghiệp đại học chính quy.",
+        "Giúp loại bỏ hoàn toàn các bài tập thở truyền thống để thay thế bằng các phần mềm mô phỏng trên máy tính hiện đại.",
+        "Tạo điều kiện để công ty cắt giảm chi phí thuê các chuyên gia tâm lý học lâm sàng đắt đỏ từ bên ngoài thị trường.",
+        "Đảm bảo nền tảng khoa học vững chắc, tính thực tiễn công việc và dịch ngôn ngữ thiền sang ngôn ngữ thực tế."
       ],
-      "correctIndex": 1,
-      "explanation": "Meng chỉ ra 3 lợi ích: 1. Có nền tảng khoa học vững chắc vì tâm trí hoài nghi của kỹ sư; 2. Có kinh nghiệm áp dụng thực tế nơi công sở; 3. Dịch các bài giảng sang ngôn ngữ thực dụng dễ hiểu (như 'nhận thức cảm xúc ở độ phân giải cao hơn')."
+      "correctIndex": 3,
+      "explanation": "Kỹ năng của một kỹ sư giúp khóa học trở nên thực tế, khoa học và dễ tiếp cận hơn với mọi người."
     },
     {
       "id": "q9",
-      "question": "Khi 'dịch' ngôn ngữ thiền truyền thống sang ngôn ngữ kỹ sư, Meng đã diễn giải cụm từ 'chú tâm sâu hơn đến cảm xúc' là gì?",
+      "question": "Khi 'dịch' ngôn ngữ thiền sang ngôn ngữ kỹ sư, Meng đã diễn giải cụm từ 'chú tâm sâu hơn đến cảm xúc' là gì?",
       "options": [
-        "Lập trình lại các phản xạ nơ-ron cảm xúc bằng các dòng mã nguồn logic có điều kiện chặt chẽ.",
         "Nhận thức quá trình cảm xúc ở độ phân giải cao hơn: thấy lúc nó xuất hiện, biến mất và các biến đổi nhỏ.",
-        "Nén các tín hiệu cảm xúc tiêu cực xuống mức dung lượng thấp nhất để giải phóng bộ nhớ não bộ.",
-        "Cách ly hoàn toàn các cảm xúc bộc phát vào một vùng an toàn bảo mật trước khi đưa ra quyết định."
+        "Lập trình lại các phản xạ nơ-ron cảm xúc bằng các dòng mã nguồn logic có điều kiện chặt chẽ và chính xác cao.",
+        "Nén các tín hiệu cảm xúc tiêu cực xuống mức dung lượng thấp nhất để giải phóng bộ nhớ cho não bộ con người.",
+        "Cách ly hoàn toàn các cảm xúc bộc phát vào một vùng an toàn bảo mật trước khi đưa ra quyết định quan trọng."
       ],
-      "correctIndex": 1,
-      "explanation": "Meng viết: 'Ví dụ, nếu ngôn ngữ thiền là “chú tâm sâu hơn đến các cảm xúc”, thì tôi sẽ nói là “nhận thức quá trình cảm xúc ở độ phân giải cao hơn”, rồi sau đó giải thích thêm rằng, đó là khả năng nhận thức một cảm xúc vào đúng khoảnh khắc nó xuất hiện, khoảnh khắc nó biến mất, và tất cả những thay đổi nhỏ diễn ra ở giữa.'"
+      "correctIndex": 0,
+      "explanation": "Meng sử dụng ngôn ngữ kỹ thuật để mô tả quá trình nhận thức cảm xúc một cách chi tiết và thực dụng."
     },
     {
       "id": "q10",
       "question": "Trường hợp của trưởng phòng kỹ thuật Bill Duane minh họa lợi ích công việc nào sau khi học Tìm Kiếm Bên Trong Bạn?",
       "options": [
+        "Anh đã từ bỏ hoàn toàn công việc quản lý để chuyển sang làm lập trình viên tự do làm việc từ xa tại nhà riêng.",
         "Anh giảm giờ làm việc xuống còn bốn ngày một tuần, học cách lắng nghe, kiểm soát cơn giận và vẫn được thăng chức.",
-        "Anh đã từ bỏ hoàn toàn công việc quản lý để chuyển sang làm lập trình viên tự do làm việc từ xa tại nhà.",
-        "Anh đã sáng chế ra thuật toán tìm kiếm dữ liệu mới giúp công ty tăng trưởng doanh thu thêm 20% mỗi quý.",
-        "Anh học được kỹ năng thương lượng sắc bén giúp cắt giảm được một nửa nhân sự trong nhóm dự án của mình."
+        "Anh đã sáng chế ra thuật toán tìm kiếm dữ liệu mới giúp công ty tăng trưởng doanh thu thêm 20% mỗi quý năm.",
+        "Anh học được kỹ năng thương lượng sắc bén giúp cắt giảm được một nửa nhân sự trong nhóm dự án của mình nhanh."
       ],
-      "correctIndex": 0,
-      "explanation": "Meng kể: 'Bill Duane, đã nhận ra tầm quan trọng của việc sử dụng thời gian một cách chất lượng, vì vậy anh đã giảm bớt giờ làm việc xuống còn bốn ngày một tuần. Sau khi làm vậy, anh đã được thăng chức... học được cách lắng nghe tốt hơn, kiểm soát cơn giận... “học cách tách biệt các câu chuyện ra khỏi thực tế”'."
+      "correctIndex": 1,
+      "explanation": "Bill Duane đã cải thiện hiệu quả làm việc và sự cân bằng cuộc sống thông qua các kỹ năng học được."
     },
     {
       "id": "q11",
       "question": "Kỹ sư kinh doanh Blaise Pabon đã áp dụng thành công những kỹ năng của SIY vào công việc của mình như thế nào?",
       "options": [
-        "Học cách nói chuyện át giọng đối thủ cạnh tranh và gây áp lực tâm lý buộc khách hàng phải ký hợp đồng ngay.",
-        "Bình tĩnh vượt qua sự phản đối trong các buổi trình diễn sản phẩm, nói chuyện mềm mỏng và trung thực.",
-        "Sử dụng kỹ thuật thôi miên bằng mắt để thuyết phục các nhà đầu tư mạo hiểm rót thêm vốn cho công ty.",
-        "Tự động hóa hoàn toàn các email chào hàng để không phải trực tiếp gặp gỡ và tiếp xúc với khách hàng."
+        "Học cách nói chuyện át giọng đối thủ cạnh tranh và gây áp lực tâm lý buộc khách hàng phải ký hợp đồng ngay lập.",
+        "Sử dụng kỹ thuật thôi miên bằng mắt để thuyết phục các nhà đầu tư mạo hiểm rót thêm vốn cho công ty của mình.",
+        "Bình tĩnh vượt qua sự phản đối trong các buổi trình diễn sản phẩm, nói chuyện mềm mỏng và trung thực với khách.",
+        "Tự động hóa hoàn toàn các email chào hàng để không phải trực tiếp gặp gỡ và tiếp xúc với khách hàng thường xuyên."
       ],
-      "correctIndex": 1,
-      "explanation": "Meng ghi: 'Với Blaise Pabon, một kỹ sư kinh doanh, Tìm Kiếm Bên Trong Bạn giúp anh trở nên đáng tin cậy hơn... bình tĩnh vượt qua sự phản đối trong suốt các buổi trình diễn sản phẩm, nói chuyện một cách mềm mỏng với các đối thủ, can đảm và trung thực khi nói với khách hàng...'"
+      "correctIndex": 2,
+      "explanation": "Blaise Pabon trở nên đáng tin cậy và hiệu quả hơn trong công việc nhờ khả năng bình tĩnh và trung thực."
     },
     {
       "id": "q12",
-      "question": "Ba bước căn bản cấu thành nên toàn bộ giáo trình Tìm Kiếm Bên Trong Bạn bao gồm những gì?",
+      "question": "Ba bước căn bản cấu thành nên toàn bộ giáo trình Tìm Kiếm Bên Trong Bạn bao gồm những nội dung nào?",
       "options": [
-        "1. Tập thể lực cơ bản -> 2. Thực hiện chế độ ăn kiêng thanh lọc -> 3. Nghiên cứu kinh điển tôn giáo cổ đại.",
-        "1. Học thuộc lòng lý thuyết -> 2. Làm bài kiểm tra trắc nghiệm -> 3. Nhận chứng chỉ chứng nhận năng lực.",
-        "1. Rèn luyện sự chú ý -> 2. Tự phát triển kiến thức và làm chủ bản thân -> 3. Tạo các thói quen hữu ích cho tâm.",
-        "1. Lập mục tiêu tài chính cá nhân -> 2. Đầu tư chứng khoán mạo hiểm -> 3. Nghỉ hưu sớm trước tuổi bốn mươi."
+        "1. Tập thể lực cơ bản -> 2. Thực hiện chế độ ăn kiêng thanh lọc -> 3. Nghiên cứu kinh điển tôn giáo cổ đại lâu đời.",
+        "1. Học thuộc lòng lý thuyết -> 2. Làm bài kiểm tra trắc nghiệm -> 3. Nhận chứng chỉ chứng nhận năng lực chuyên môn.",
+        "1. Lập mục tiêu tài chính cá nhân -> 2. Đầu tư chứng khoán mạo hiểm -> 3. Nghỉ hưu sớm trước tuổi bốn mươi tuổi.",
+        "1. Rèn luyện sự chú ý -> 2. Tự phát triển kiến thức và làm chủ bản thân -> 3. Tạo các thói quen hữu ích cho tâm."
       ],
-      "correctIndex": 2,
-      "explanation": "Meng nêu rõ ba bước của SIY: '1. Rèn luyện khả năng chú ý; 2. Tự phát triển kiến thức và tự làm chủ bản thân; 3. Tạo ra các thói quen hữu ích cho tâm.'"
+      "correctIndex": 3,
+      "explanation": "Đây là ba trụ cột chính tạo nên cấu trúc của giáo trình Tìm Kiếm Bên Trong Bạn tại Google."
     },
     {
       "id": "q13",
-      "question": "Tại sao 'Rèn luyện khả năng chú ý' (Attention training) lại là bước đi nền tảng số một bắt buộc của SIY?",
+      "question": "Tại sao 'Rèn luyện khả năng chú ý' lại là bước đi nền tảng số một bắt buộc của giáo trình SIY?",
       "options": [
-        "Vì sự chú ý giúp con người tăng tốc độ đọc sách và ghi nhớ số liệu kỹ thuật nhanh hơn gấp nhiều lần.",
-        "Vì chú ý là nền tảng của mọi năng lực cảm xúc và nhận thức, tạo ra một tâm trí vừa an bình vừa sáng suốt.",
+        "Vì sự chú ý là nền tảng của mọi năng lực cảm xúc và nhận thức, tạo ra một tâm trí vừa an bình vừa sáng suốt.",
+        "Vì sự chú ý giúp con người tăng tốc độ đọc sách và ghi nhớ số liệu kỹ thuật nhanh hơn gấp nhiều lần bình thường.",
         "Vì nếu không rèn luyện sự chú ý thì học viên sẽ không thể vượt qua các bài thi tuyển dụng đầu vào tại Google.",
-        "Vì khả năng chú ý cao độ sẽ giúp loại bỏ hoàn toàn nhu cầu giao tiếp xã hội ngoài đời thực của cá nhân."
+        "Vì khả năng chú ý cao độ sẽ giúp loại bỏ hoàn toàn nhu cầu giao tiếp xã hội ngoài đời thực của cá nhân mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Meng viết: 'Chú ý là nền tảng của mọi năng lực cảm xúc và nhận thức cao hơn. Do đó, bất cứ giáo trình rèn luyện trí thông minh cảm xúc nào cũng đều phải bắt đầu với việc rèn luyện khả năng chú ý. Ý tưởng ở đây là rèn luyện khả năng chú ý để tạo ra một tâm trí vừa an bình vừa sáng suốt.'"
+      "correctIndex": 0,
+      "explanation": "Sự chú ý là nền tảng cần thiết để phát triển trí thông minh cảm xúc và nhận thức cao hơn."
     },
     {
       "id": "q14",
       "question": "Thói quen tâm trí hữu ích mà Meng gợi ý người học nên rèn luyện mỗi khi gặp bất kỳ ai là gì?",
       "options": [
-        "Ý nghĩ bản năng đầu tiên xuất hiện trong đầu là: 'Tôi muốn người này được hạnh phúc'.",
-        "Nhanh chóng đánh giá xem đối phương có thể mang lại lợi ích tài chính gì cho công việc của mình.",
-        "Phân tích ngay lập tức các khuyết điểm về ngoại hình và phong cách ăn mặc của người đối diện.",
-        "Giữ thái độ cảnh giác cao độ để tránh bị người khác lợi dụng hoặc lừa dối trong giao tiếp thường ngày."
+        "Nhanh chóng đánh giá xem đối phương có thể mang lại lợi ích tài chính gì cho công việc của mình trong tương lai.",
+        "Ý nghĩ bản năng đầu tiên xuất hiện trong đầu là: 'Tôi muốn người này được hạnh phúc' một cách chân thành.",
+        "Phân tích ngay lập tức các khuyết điểm về ngoại hình và phong cách ăn mặc của người đối diện trong cuộc gặp.",
+        "Giữ thái độ cảnh giác cao độ để tránh bị người khác lợi dụng hoặc lừa dối trong giao tiếp thường ngày tại công."
       ],
-      "correctIndex": 0,
-      "explanation": "Meng viết: 'Hãy tưởng tượng rằng bất cứ khi nào bạn gặp ai đó, ý nghĩ đầu tiên, theo bản năng, theo thói quen của bạn là, tôi muốn người này được hạnh phúc. Có những thói quen như vậy sẽ thay đổi mọi thứ ở nơi làm việc...'"
+      "correctIndex": 1,
+      "explanation": "Việc rèn luyện ý tốt chân thành giúp tạo ra sự tin tưởng và hợp tác hiệu quả trong công việc."
     },
     {
       "id": "q15",
-      "question": "Khóa học Tìm Kiếm Bên Trong Bạn ban đầu tại Google có thời lượng học tập là bao lâu?",
+      "question": "Khóa học Tìm Kiếm Bên Trong Bạn ban đầu tại Google có thời lượng học tập tổng cộng là bao lâu?",
       "options": [
-        "Khóa học cấp tốc diễn ra liên tục trong 3 ngày cuối tuần tại một khu nghỉ dưỡng sinh thái ngoài trời.",
-        "Chương trình rèn luyện chuyên sâu kéo dài suốt một năm học với 200 giờ thực hành thiền tọa trên đệm.",
+        "Khóa học cấp tốc diễn ra liên tục trong 3 ngày cuối tuần tại một khu nghỉ dưỡng sinh thái ngoài trời yên tĩnh.",
+        "Chương trình rèn luyện chuyên sâu kéo dài suốt một năm học với 200 giờ thực hành thiền tọa trên đệm mỗi ngày.",
         "Tổng cộng 20 tiếng học tập được bố trí trải dài trong suốt bảy tuần dành cho các nhân viên bình thường.",
-        "Một buổi hội thảo nhập môn duy nhất kéo dài 2 tiếng đồng hồ kết hợp giải đáp thắc mắc trực tiếp."
+        "Một buổi hội thảo nhập môn duy nhất kéo dài 2 tiếng đồng hồ kết hợp giải đáp thắc mắc trực tiếp tại văn phòng."
       ],
       "correctIndex": 2,
-      "explanation": "Meng ghi: 'nhưng họ vẫn có thể thay đổi cuộc đời chỉ trong 20 tiếng học tập trải dài trong bảy tuần.'"
+      "explanation": "Khóa học được thiết kế với 20 tiếng học tập trải dài trong bảy tuần để đạt hiệu quả tối ưu."
     }
   ]
 }

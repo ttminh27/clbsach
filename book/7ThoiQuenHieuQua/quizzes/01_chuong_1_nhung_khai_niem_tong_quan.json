@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Stephen Covey phân biệt 'Đạo đức tính cách' (Character Ethic) và 'Đạo đức cá tính' (Personality Ethic). Sự khác biệt cốt lõi nhất giữa hai trường phái này là gì?",
+      "question": "Sự khác biệt cốt lõi giữa 'Đạo đức tính cách' và 'Đạo đức cá tính' theo quan điểm của Stephen Covey là gì?",
       "options": [
-        "Đạo đức cá tính tập trung phát triển ý thức độc lập và dũng cảm nội tâm, còn Đạo đức tính cách chỉ chú trọng các kỹ xảo giao tiếp xã giao.",
-        "Đạo đức tính cách dựa trên các nguyên tắc nền tảng bên trong như chính trực và khiêm tốn, còn Đạo đức cá tính chú trọng vào kỹ xảo bề ngoài và hình ảnh xã hội.",
-        "Đạo đức tính cách chỉ phù hợp trong phạm vi quản trị gia đình, còn Đạo đức cá tính là kim chỉ nam duy nhất quyết định thành công của các doanh nhân trên thương trường.",
-        "Cả hai trường phái đều có bản chất tương đồng về triết lý, chỉ khác biệt về cách dùng thuật ngữ văn phong giữa thời kỳ thế kỷ 19 và thời kỳ hiện đại ngày nay."
+        "Đạo đức tính cách dựa trên các nguyên tắc nền tảng như chính trực, khiêm tốn, còn Đạo đức cá tính chú trọng kỹ xảo.",
+        "Đạo đức cá tính tập trung phát triển ý thức độc lập và dũng cảm nội tâm, còn Đạo đức tính cách chỉ chú trọng xã giao.",
+        "Đạo đức tính cách chỉ phù hợp trong phạm vi quản trị gia đình, còn Đạo đức cá tính là kim chỉ nam cho doanh nhân.",
+        "Cả hai trường phái đều có bản chất tương đồng về triết lý, chỉ khác biệt về cách dùng thuật ngữ giữa các thời kỳ."
       ],
-      "correctIndex": 1,
-      "explanation": "Đạo đức tính cách (thịnh hành trong 150 năm đầu lịch sử nước Mỹ) dựa trên các nguyên tắc bất biến như sự chính trực, khiêm tốn, dũng cảm, kiên nhẫn. Đạo đức cá tính (sau Thế chiến I) chuyển sang chú trọng kỹ năng ứng xử, hình ảnh công chúng và các thủ thuật tạo thiện cảm bề ngoài."
+      "correctIndex": 0,
+      "explanation": "Đạo đức tính cách dựa trên các nguyên tắc bất biến như sự chính trực, khiêm tốn, dũng cảm. Đạo đức cá tính chuyển sang chú trọng kỹ năng ứng xử, hình ảnh công chúng và các thủ thuật tạo thiện cảm bề ngoài."
     },
     {
       "id": "q2",
-      "question": "Thí nghiệm về bức tranh 'Cô gái trẻ' và 'Bà lão' trong chương 1 rút ra bài học sâu sắc nào về 'Mô thức' (Paradigm)?",
+      "question": "Thí nghiệm về bức tranh 'Cô gái trẻ' và 'Bà lão' trong chương 1 rút ra bài học gì về 'Mô thức' (Paradigm)?",
       "options": [
-        "Thị giác và nhận thức của con người luôn có xu hướng bị sai lệch khi tiếp xúc với các tác phẩm nghệ thuật trừu tượng có độ tương phản cao.",
-        "Mọi người sẽ luôn đạt được sự đồng thuận tuyệt đối nếu được cung cấp đầy đủ dữ liệu khách quan mà không bị chi phối bởi cảm xúc cá nhân.",
-        "Trong mọi tình huống xung đột nhận thức xã hội, chỉ có một góc nhìn duy nhất phản ánh chân lý tuyệt đối còn các góc nhìn khác đều sai lầm.",
-        "Chúng ta nhìn nhận thực tại không phải như bản chất nó vốn là, mà nhìn qua lăng kính được định hình bởi kinh nghiệm và sự cài đặt tâm lý sẵn có."
+        "Thị giác và nhận thức của con người luôn có xu hướng bị sai lệch khi tiếp xúc với các tác phẩm nghệ thuật trừu tượng.",
+        "Chúng ta nhìn nhận thực tại không phải như bản chất vốn có, mà qua lăng kính định hình bởi kinh nghiệm và tâm lý.",
+        "Mọi người sẽ luôn đạt được sự đồng thuận tuyệt đối nếu được cung cấp đầy đủ dữ liệu khách quan không bị chi phối.",
+        "Trong mọi tình huống xung đột nhận thức xã hội, chỉ có một góc nhìn duy nhất phản ánh chân lý tuyệt đối và đúng đắn."
       ],
-      "correctIndex": 3,
-      "explanation": "Thí nghiệm chứng minh rằng hai người có thể cùng nhìn vào một sự vật nhưng nhìn thấy hai điều hoàn toàn khác nhau, và cả hai đều đúng dưới góc nhìn của họ. Chúng ta nhìn thế giới qua lăng kính của những điều kiện và trải nghiệm trong quá khứ."
+      "correctIndex": 1,
+      "explanation": "Thí nghiệm chứng minh rằng hai người có thể cùng nhìn vào một sự vật nhưng thấy hai điều khác nhau, vì chúng ta nhìn thế giới qua lăng kính của những điều kiện và trải nghiệm trong quá khứ."
     },
     {
       "id": "q3",
-      "question": "Hiện tượng 'Chuyển biến mô thức' (Paradigm Shift) được minh họa bằng câu chuyện Stephen Covey trên chuyến tàu điện ngầm ở New York (người cha và những đứa trẻ nghịch ngợm) chứng minh điều gì?",
+      "question": "Câu chuyện trên tàu điện ngầm về người cha và những đứa trẻ nghịch ngợm minh họa điều gì về 'Chuyển biến mô thức'?",
       "options": [
-        "Khi thấu hiểu được bối cảnh sâu xa và nguyên nhân cốt lõi của vấn đề, nhận thức và cảm xúc của chúng ta sẽ biến chuyển tức thì từ tức giận sang thấu cảm.",
-        "Trong không gian công cộng, việc áp đặt kỷ luật nghiêm khắc và lập tức nhắc nhở hành vi vô ý thức là giải pháp hiệu quả nhất để duy trì trật tự chung.",
-        "Người trưởng thành nên học cách kìm nén cảm xúc cá nhân và hoàn toàn làm ngơ trước những hành vi gây rối của người khác để bảo vệ sự bình yên nội tâm.",
-        "Sự kiên nhẫn và lòng vị tha chỉ có thể được kích hoạt khi đối phương chủ động bày tỏ lời xin lỗi chân thành về những rắc rối họ đã gây ra cho cộng đồng."
+        "Trong không gian công cộng, việc áp đặt kỷ luật nghiêm khắc và nhắc nhở hành vi vô ý thức là giải pháp hiệu quả nhất.",
+        "Người trưởng thành nên học cách kìm nén cảm xúc cá nhân và hoàn toàn làm ngơ trước những hành vi gây rối của người lạ.",
+        "Khi thấu hiểu bối cảnh sâu xa và nguyên nhân cốt lõi, nhận thức và cảm xúc của chúng ta sẽ biến chuyển sang thấu cảm.",
+        "Sự kiên nhẫn và lòng vị tha chỉ có thể được kích hoạt khi đối phương chủ động bày tỏ lời xin lỗi chân thành với ta."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi người cha chia sẻ rằng vợ ông vừa qua đời ở bệnh viện một giờ trước và ông cùng các con đang bàng hoàng chưa biết xử trí ra sao, Covey ngay lập tức thay đổi mô thức: sự bực bội biến mất, nhường chỗ cho sự thấu cảm và mong muốn giúp đỡ chân thành."
+      "correctIndex": 2,
+      "explanation": "Khi người cha chia sẻ về cái chết của vợ, Covey ngay lập tức thay đổi mô thức: sự bực bội biến mất, nhường chỗ cho sự thấu cảm và mong muốn giúp đỡ chân thành."
     },
     {
       "id": "q4",
-      "question": "Nguyên lý 'Từ trong ra ngoài' (Inside-Out) của Covey phê phán sai lầm căn bản nào trong cách con người giải quyết xung đột?",
+      "question": "Nguyên lý 'Từ trong ra ngoài' (Inside-Out) của Covey phê phán sai lầm nào trong cách con người giải quyết xung đột?",
       "options": [
-        "Dành quá nhiều thời gian để tự kiểm điểm bản thân và nhân nhượng đối phương thay vì sử dụng quyền lực pháp lý để bảo vệ các lợi ích hợp pháp của mình.",
-        "Tập trung đầu tư quá mức vào các chứng chỉ chuyên môn hàn lâm mà xem nhẹ việc rèn luyện các kỹ năng giao tiếp ngoại giao cần thiết trong môi trường làm việc.",
-        "Mong muốn người khác hoặc hoàn cảnh bên ngoài phải thay đổi trước, trong khi chính bản thân không chịu nhìn nhận và chuyển hóa mô thức tư duy từ bên trong.",
-        "Tìm kiếm sự thỏa hiệp tập thể thông qua việc nhượng bộ ý chí cá nhân thay vì kiên định bảo vệ các nguyên tắc hành động mang tính độc đoán của người lãnh đạo."
+        "Dành quá nhiều thời gian để tự kiểm điểm bản thân và nhân nhượng đối phương thay vì sử dụng quyền lực pháp lý bảo vệ.",
+        "Tập trung đầu tư quá mức vào các chứng chỉ chuyên môn hàn lâm mà xem nhẹ việc rèn luyện các kỹ năng giao tiếp ngoại giao.",
+        "Tìm kiếm sự thỏa hiệp tập thể thông qua việc nhượng bộ ý chí cá nhân thay vì kiên định bảo vệ các nguyên tắc hành động.",
+        "Mong muốn người khác hoặc hoàn cảnh bên ngoài phải thay đổi trước, trong khi bản thân không chịu chuyển hóa mô thức."
       ],
-      "correctIndex": 2,
-      "explanation": "Tiến trình 'Từ trong ra ngoài' nhấn mạnh rằng mọi sự chuyển biến thực sự phải bắt đầu từ chính bản thân mình (bắt đầu từ động cơ, tính cách, mô thức nội tại) trước khi mong đợi người khác hoặc hoàn cảnh bên ngoài thay đổi."
+      "correctIndex": 3,
+      "explanation": "Tiến trình 'Từ trong ra ngoài' nhấn mạnh rằng mọi sự chuyển biến thực sự phải bắt đầu từ chính bản thân mình (động cơ, tính cách, mô thức) trước khi mong đợi người khác thay đổi."
     },
     {
       "id": "q5",
-      "question": "Theo định nghĩa của tác giả, một 'Thói quen' (Habit) hiệu quả được hình thành tại điểm giao nhau của 3 yếu tố nào?",
+      "question": "Theo định nghĩa của tác giả, một 'Thói quen' hiệu quả được hình thành tại điểm giao nhau của ba yếu tố nào sau đây?",
       "options": [
+        "Tri thức (Biết cái gì và tại sao), Kỹ năng (Làm như thế nào) và Khát vọng/Ước muốn (Động lực nội tại muốn làm).",
         "Nguồn lực tài chính dồi dào, mối quan hệ xã hội rộng rãi và cơ hội thị trường thuận lợi tại từng thời điểm cụ thể.",
-        "Tri thức (Biết cái gì & Tại sao), Kỹ năng (Làm như thế nào) và Khát vọng/Ước muốn (Động lực nội tại muốn làm).",
         "Môi trường công tác lý tưởng, công cụ hỗ trợ công nghệ tiên tiến và kỷ luật bắt buộc do tổ chức ban hành từ cấp trên.",
-        "Sự công nhận của tập thể, áp lực cạnh tranh từ đồng nghiệp và phần thưởng kinh tế xứng đáng sau mỗi đợt hoàn thành nhiệm vụ."
+        "Sự công nhận của tập thể, áp lực cạnh tranh từ đồng nghiệp và phần thưởng kinh tế xứng đáng sau mỗi đợt hoàn thành."
       ],
-      "correctIndex": 1,
-      "explanation": "Thói quen được xác định là giao điểm của Tri thức (Knowledge - tri thức lý thuyết, biết làm gì và tại sao làm), Kỹ năng (Skill - biết làm thế nào), và Khát vọng/Ước muốn (Desire - động lực, muốn làm)."
+      "correctIndex": 0,
+      "explanation": "Thói quen được xác định là giao điểm của Tri thức (biết làm gì và tại sao), Kỹ năng (biết làm thế nào), và Khát vọng (động lực, muốn làm)."
     },
     {
       "id": "q6",
-      "question": "Trong 'Quá trình trưởng thành liên tục' (Continuum of Maturity), thứ tự phát triển tự nhiên và tất yếu của một con người là gì?",
+      "question": "Trong 'Quá trình trưởng thành liên tục', thứ tự phát triển tự nhiên và tất yếu của một con người là gì?",
       "options": [
-        "Từ trạng thái Phụ thuộc (Dependence) tiến lên Độc lập (Independence), và phát triển đỉnh cao ở Tương thuộc (Interdependence).",
-        "Từ trạng thái Phụ thuộc (Dependence) chuyển ngay sang Tương thuộc (Interdependence), sau đó mới hoàn thiện tính Độc lập (Independence).",
-        "Từ trạng thái Độc lập (Independence) quay về Phụ thuộc (Dependence), rồi mới hòa nhập vào môi trường Tương thuộc (Interdependence).",
-        "Từ trạng thái Tương thuộc (Interdependence) rút lui về Độc lập (Independence), và cuối cùng hướng đến sự Tự do tuyệt đối ngoài xã hội."
+        "Từ trạng thái Phụ thuộc chuyển ngay sang Tương thuộc, sau đó mới hoàn thiện tính Độc lập của cá nhân trong xã hội.",
+        "Từ trạng thái Phụ thuộc tiến lên Độc lập, và phát triển đỉnh cao ở trạng thái Tương thuộc trong các mối quan hệ.",
+        "Từ trạng thái Độc lập quay về Phụ thuộc, rồi mới hòa nhập vào môi trường Tương thuộc để tạo ra các kết quả chung.",
+        "Từ trạng thái Tương thuộc rút lui về Độc lập, và cuối cùng hướng đến sự Tự do tuyệt đối ngoài xã hội loài người."
       ],
-      "correctIndex": 0,
-      "explanation": "Quá trình trưởng thành phát triển theo nấc thang tự nhiên: Phụ thuộc (mô thức 'Bạn' - cần người khác chăm lo/chịu trách nhiệm) -> Độc lập (mô thức 'Tôi' - tự chủ, tự chịu trách nhiệm) -> Tương thuộc (mô thức 'Chúng ta' - hợp tác, cùng nhau tạo kết quả vượt trội)."
+      "correctIndex": 1,
+      "explanation": "Quá trình trưởng thành phát triển theo nấc thang: Phụ thuộc (cần người khác chăm lo) -> Độc lập (tự chủ, tự chịu trách nhiệm) -> Tương thuộc (hợp tác, cùng nhau tạo kết quả vượt trội)."
     },
     {
       "id": "q7",
-      "question": "Tại sao Stephen Covey khẳng định một người ở trạng thái 'Phụ thuộc' không thể thực hành thành công sự 'Tương thuộc' chân chính?",
+      "question": "Tại sao Stephen Covey khẳng định người ở trạng thái 'Phụ thuộc' không thể thực hành thành công sự 'Tương thuộc'?",
       "options": [
-        "Vì người có tâm lý phụ thuộc thường thiếu thốn các nguồn lực tài chính cá nhân cần thiết để góp vốn hợp tác bình đẳng trong các dự án quy mô lớn.",
-        "Vì mô hình tương thuộc đòi hỏi người tham gia phải có các bằng cấp quản trị quốc tế chuyên sâu để xử lý các xung đột chiến lược phức tạp trong nhóm.",
-        "Vì người chưa làm chủ được bản thân và thiếu nền tảng độc lập vững chắc thì mọi 'hợp tác' chỉ là sự dựa dẫm, thỏa hiệp yếu ớt hoặc bị thao túng.",
-        "Vì văn hóa hiện đại chỉ tôn vinh những kỳ tích cá nhân của những anh hùng đơn độc có khả năng giải quyết mọi thách thức mà không cần ai đồng hành."
+        "Vì người có tâm lý phụ thuộc thường thiếu thốn các nguồn lực tài chính cá nhân cần thiết để góp vốn hợp tác bình đẳng.",
+        "Vì mô hình tương thuộc đòi hỏi người tham gia phải có các bằng cấp quản trị quốc tế chuyên sâu để xử lý xung đột.",
+        "Vì người chưa làm chủ được bản thân thì mọi sự hợp tác chỉ là dựa dẫm, thỏa hiệp yếu ớt hoặc bị thao túng.",
+        "Vì văn hóa hiện đại chỉ tôn vinh những kỳ tích cá nhân của những anh hùng đơn độc có khả năng giải quyết mọi thách."
       ],
       "correctIndex": 2,
-      "explanation": "Sự tương thuộc là lựa chọn chỉ dành cho những người đã có sự độc lập. Người chưa làm chủ được bản thân (còn phụ thuộc) không thể chọn sự tương thuộc vì họ không có đủ tính tự chủ nội tâm, sự tự tôn và kỷ luật để đóng góp bình đẳng trong mối quan hệ tương thuộc."
+      "explanation": "Sự tương thuộc là lựa chọn chỉ dành cho người đã có sự độc lập. Người chưa làm chủ được bản thân không thể chọn sự tương thuộc vì họ thiếu tính tự chủ và kỷ luật để đóng góp bình đẳng."
     },
     {
       "id": "q8",
-      "question": "Định nghĩa về 'Sự Hiệu Quả' (Effectiveness) của Covey được biểu diễn qua phương trình Cân bằng P/PC. Trong đó 'P' và 'PC' lần lượt đại diện cho điều gì?",
+      "question": "Định nghĩa về 'Sự Hiệu Quả' của Covey được biểu diễn qua phương trình Cân bằng P/PC. P và PC đại diện cho điều gì?",
       "options": [
-        "P đại diện cho Lợi nhuận ròng (Profit) thu được, còn PC đại diện cho Tổng chi phí vốn (Production Cost) bỏ ra trong kỳ kinh doanh.",
-        "P đại diện cho Quyền lực tổ chức (Power) ban hành, còn PC đại diện cho Uy tín và danh tiếng cá nhân (Personal Credibility) trong tập thể.",
-        "P đại diện cho Bản kế hoạch hành động (Plan), còn PC đại diện cho Năng lực kiểm soát quy trình vận hành (Process Control) của bộ máy.",
-        "P đại diện cho Kết quả/Sản phẩm mong muốn (Production), còn PC đại diện cho Năng lực/Khả năng sản sinh ra kết quả đó (Production Capability)."
+        "P đại diện cho Lợi nhuận ròng thu được, còn PC đại diện cho Tổng chi phí vốn bỏ ra trong một kỳ kinh doanh cụ thể.",
+        "P đại diện cho Quyền lực tổ chức ban hành, còn PC đại diện cho Uy tín và danh tiếng cá nhân trong tập thể làm việc.",
+        "P đại diện cho Bản kế hoạch hành động, còn PC đại diện cho Năng lực kiểm soát quy trình vận hành của bộ máy quản lý.",
+        "P đại diện cho Kết quả/Sản phẩm mong muốn, còn PC đại diện cho Năng lực/Khả năng sản sinh ra kết quả đó bền vững."
       ],
       "correctIndex": 3,
-      "explanation": "Hiệu quả thực sự nằm trong sự cân bằng giữa hai yếu tố: P (Production - kết quả/sản lượng mong muốn, ví dụ: quả trứng vàng) và PC (Production Capability - năng lực/khả năng sản xuất, ví dụ: con ngỗng đẻ trứng vàng)."
+      "explanation": "Hiệu quả thực sự nằm trong sự cân bằng giữa P (Production - kết quả mong muốn, ví dụ: quả trứng vàng) và PC (Production Capability - năng lực sản xuất, ví dụ: con ngỗng đẻ trứng vàng)."
     },
     {
       "id": "q9",
-      "question": "Một người quản lý liên tục ép nhân viên làm thêm giờ kiệt sức để hoàn thành vượt mức chỉ tiêu doanh số quý này, khiến tinh thần đội ngũ rệu rã và nhiều nhân sự giỏi xin nghỉ việc. Hành vi này vi phạm nguyên tắc P/PC như thế nào?",
+      "question": "Một người quản lý vắt kiệt sức nhân viên để đạt chỉ tiêu quý, khiến đội ngũ rệu rã. Hành vi này vi phạm P/PC thế nào?",
       "options": [
-        "Đầu tư quá mức nguồn lực tài chính vào việc chăm lo đời sống nhân viên (PC) khiến chi phí vận hành doanh nghiệp tăng vọt ngoài dự toán ban đầu.",
-        "Tối đa hóa sản lượng trước mắt (P) bằng cách vắt kiệt và hủy hoại năng lực sản xuất dài hạn (PC), dẫn đến sự suy tàn và sụp đổ trong tương lai.",
-        "Vi phạm các tiêu chuẩn kế toán và quy chế chia thưởng hoa hồng của công ty khiến ban kiểm soát nội bộ phải tiến hành thanh tra toàn diện đội ngũ.",
-        "Không khai thác triệt để tiềm năng cạnh tranh của thị trường và bỏ lỡ thời cơ bứt phá doanh thu chiến lược so với các đối thủ cùng ngành hàng."
+        "Tối đa hóa sản lượng trước mắt bằng cách hủy hoại năng lực sản xuất dài hạn, dẫn đến sự suy tàn trong tương lai.",
+        "Đầu tư quá mức nguồn lực tài chính vào việc chăm lo đời sống nhân viên khiến chi phí vận hành doanh nghiệp tăng vọt.",
+        "Vi phạm các tiêu chuẩn kế toán và quy chế chia thưởng hoa hồng của công ty khiến ban kiểm soát phải tiến hành thanh.",
+        "Không khai thác triệt để tiềm năng cạnh tranh của thị trường và bỏ lỡ thời cơ bứt phá doanh thu so với đối thủ cạnh."
       ],
-      "correctIndex": 1,
-      "explanation": "Người quản lý này đang tập trung tuyệt đối vào P ngắn hạn mà vắt kiệt 'con ngỗng' PC (tinh thần, sức khỏe và lòng trung thành của nhân viên), dẫn đến mất mát nguồn lực quý giá nhất của tổ chức."
+      "correctIndex": 0,
+      "explanation": "Người quản lý này đang tập trung tuyệt đối vào P ngắn hạn mà vắt kiệt 'con ngỗng' PC (tinh thần, sức khỏe và lòng trung thành của nhân viên), dẫn đến mất mát nguồn lực quý giá nhất."
     },
     {
       "id": "q10",
-      "question": "Trong bối cảnh tài sản vật chất (ví dụ: một chiếc máy móc hoặc xe hơi), việc bảo trì định kỳ thể hiện khía cạnh nào trong mô hình P/PC?",
+      "question": "Trong bối cảnh tài sản vật chất như máy móc, việc bảo trì định kỳ thể hiện khía cạnh nào trong mô hình P/PC?",
       "options": [
-        "Chăm sóc và bảo dưỡng năng lực sản xuất (PC) để thiết bị luôn vận hành ổn định và liên tục mang lại sản phẩm hoặc giá trị sử dụng (P) lâu bền.",
-        "Chỉ tập trung vào việc gia tăng sản lượng khai thác tối đa (P) mà không cần bận tâm đến việc bảo dưỡng hay thay thế linh kiện kỹ thuật của máy.",
-        "Gia tăng các khoản chi phí phát sinh không cần thiết làm suy giảm biên lợi nhuận ròng của bộ phận vận hành thiết bị trong suốt chu kỳ kinh doanh.",
-        "Thực hiện một quy trình hành chính mang tính hình thức theo sổ tay hướng dẫn mà không mang lại bất kỳ lợi ích kinh tế thực tế nào cho máy móc."
+        "Chỉ tập trung vào việc gia tăng sản lượng khai thác tối đa mà không cần bận tâm đến việc bảo dưỡng hay thay thế linh.",
+        "Chăm sóc và bảo dưỡng năng lực sản xuất để thiết bị luôn vận hành ổn định và mang lại giá trị sử dụng lâu bền.",
+        "Gia tăng các khoản chi phí phát sinh không cần thiết làm suy giảm biên lợi nhuận ròng của bộ phận vận hành thiết bị.",
+        "Thực hiện một quy trình hành chính mang tính hình thức theo sổ tay hướng dẫn mà không mang lại bất kỳ lợi ích kinh tế."
       ],
-      "correctIndex": 0,
-      "explanation": "Bảo dưỡng định kỳ là hành động đầu tư vào PC (giữ gìn năng lực sản xuất) để chiếc xe/máy móc tiếp tục mang lại P (phục vụ việc đi lại, sản xuất) mà không bị hỏng hóc giữa chừng."
+      "correctIndex": 1,
+      "explanation": "Bảo dưỡng định kỳ là hành động đầu tư vào PC (giữ gìn năng lực sản xuất) để thiết bị tiếp tục mang lại P (phục vụ sản xuất) mà không bị hỏng hóc giữa chừng."
     },
     {
       "id": "q11",
-      "question": "Trong mối quan hệ giữa cha mẹ và con cái, 'PC' được thể hiện rõ ràng nhất qua yếu tố nào?",
+      "question": "Trong mối quan hệ giữa cha mẹ và con cái, yếu tố 'PC' được thể hiện rõ ràng nhất qua hành động nào sau đây?",
       "options": [
-        "Điểm số học tập xuất sắc và các bằng khen thành tích cao mà đứa trẻ đạt được qua các kỳ thi tuyển chọn nghiêm ngặt tại trường học.",
-        "Hệ thống các biện pháp xử phạt nghiêm khắc được áp dụng mỗi khi đứa trẻ không tuân thủ các quy định sinh hoạt do cha mẹ đặt ra.",
-        "Giá trị vật chất của các món đồ chơi và thiết bị điện tử hiện đại mà cha mẹ mua sắm để đáp ứng nguyện vọng giải trí của đứa con.",
-        "Sự tin tưởng, thái độ lắng nghe thấu cảm và tình cảm chân thành được vun đắp bền bỉ mỗi ngày trong tài khoản tình cảm giữa cha mẹ và con."
+        "Điểm số học tập xuất sắc và các bằng khen thành tích cao mà đứa trẻ đạt được qua các kỳ thi tuyển chọn nghiêm ngặt.",
+        "Hệ thống các biện pháp xử phạt nghiêm khắc được áp dụng mỗi khi đứa trẻ không tuân thủ các quy định sinh hoạt gia.",
+        "Sự tin tưởng, thái độ lắng nghe thấu cảm và tình cảm chân thành được vun đắp bền bỉ mỗi ngày giữa cha mẹ và con.",
+        "Giá trị vật chất của các món đồ chơi và thiết bị điện tử hiện đại mà cha mẹ mua sắm để đáp ứng nguyện vọng giải."
       ],
-      "correctIndex": 3,
-      "explanation": "Trong quan hệ cha mẹ - con cái, P là sự vâng lời, hợp tác của con; còn PC chính là mối quan hệ gắn kết tình cảm, niềm tin và sự thấu hiểu được xây dựng hàng ngày giữa cha mẹ và con cái."
+      "correctIndex": 2,
+      "explanation": "Trong quan hệ cha mẹ - con cái, P là sự vâng lời, hợp tác của con; còn PC chính là mối quan hệ gắn kết tình cảm, niềm tin và sự thấu hiểu được xây dựng hàng ngày."
     },
     {
       "id": "q12",
-      "question": "Sự khác biệt cốt lõi giữa 'Nguyên tắc' (Principles) và 'Giá trị' (Values) là gì?",
+      "question": "Sự khác biệt cốt lõi giữa 'Nguyên tắc' (Principles) và 'Giá trị' (Values) là gì theo tư duy của Stephen Covey?",
       "options": [
-        "Giá trị là các định luật khoa học bất biến theo thời gian, trong khi Nguyên tắc chỉ là các quy ước xã giao thay đổi theo từng thời kỳ lịch sử.",
-        "Nguyên tắc chỉ có giá trị thực tiễn trong các quy luật vật lý tự nhiên, hoàn toàn không thể ứng dụng vào việc định hướng hành vi con người.",
-        "Nguyên tắc là các quy luật tự nhiên khách quan và phổ quát, còn Giá trị là niềm tin chủ quan được cá nhân hoặc tổ chức tự lựa chọn tôn sùng.",
-        "Hai khái niệm này hoàn toàn đồng nghĩa và có thể dùng thay thế cho nhau mà không làm thay đổi bản chất của các học thuyết tâm lý ứng xử."
+        "Giá trị là các định luật khoa học bất biến theo thời gian, trong khi Nguyên tắc chỉ là các quy ước xã giao thay đổi.",
+        "Nguyên tắc chỉ có giá trị thực tiễn trong các quy luật vật lý tự nhiên, hoàn toàn không thể ứng dụng vào hành vi.",
+        "Hai khái niệm này hoàn toàn đồng nghĩa và có thể dùng thay thế cho nhau mà không làm thay đổi bản chất học thuyết.",
+        "Nguyên tắc là quy luật tự nhiên khách quan và phổ quát, còn Giá trị là niềm tin chủ quan do cá nhân tự lựa chọn."
       ],
-      "correctIndex": 2,
-      "explanation": "Nguyên tắc là lãnh thổ khách quan (quy luật tự nhiên, chân lý phổ quát như sự công bằng, chính trực, tình yêu thương); còn giá trị là bản đồ chủ quan (những điều mà một cá nhân hay tổ chức xem là quan trọng, dù giá trị đó có thể đúng hoặc sai so với nguyên tắc)."
+      "correctIndex": 3,
+      "explanation": "Nguyên tắc là lãnh thổ khách quan (quy luật tự nhiên như sự chính trực, công bằng); còn giá trị là bản đồ chủ quan (những điều cá nhân xem là quan trọng, dù có thể đúng hoặc sai)."
     },
     {
       "id": "q13",
-      "question": "Một người cố gắng học các khóa học cấp tốc về 'kỹ năng thuyết phục khách hàng' nhưng trong lòng luôn có ý định trục lợi và xem thường khách hàng. Theo nguyên lý Đạo đức tính cách, kết quả dài hạn sẽ là gì?",
+      "question": "Người học kỹ năng thuyết phục nhưng trong lòng muốn trục lợi khách hàng sẽ dẫn đến kết quả dài hạn như thế nào?",
       "options": [
-        "Kỹ thuật giao tiếp điêu luyện sẽ khỏa lấp hoàn toàn sự thiếu hụt đạo đức và giúp duy trì mối quan hệ đối tác sinh lời trọn đời.",
-        "Đối phương sẽ sớm cảm nhận được sự hai mặt và động cơ trục lợi, dẫn đến việc niềm tin bị phá vỡ hoàn toàn và mối quan hệ sẽ tan vỡ.",
-        "Khách hàng trên thương trường chỉ quan tâm đến giá cả sản phẩm chứ không bao giờ chú ý đến nhân cách hay sự chân thành của người bán.",
-        "Sự mưu mẹo và thao túng tâm lý chính là chìa khóa duy nhất giúp tổ chức xây dựng được văn hóa bán hàng xuất sắc và phát triển bền vững."
+        "Đối phương sẽ sớm cảm nhận được sự hai mặt và động cơ trục lợi, dẫn đến niềm tin bị phá vỡ và mối quan hệ tan.",
+        "Kỹ thuật giao tiếp điêu luyện sẽ khỏa lấp hoàn toàn sự thiếu hụt đạo đức và giúp duy trì mối quan hệ đối tác sinh.",
+        "Khách hàng trên thương trường chỉ quan tâm đến giá cả sản phẩm chứ không bao giờ chú ý đến nhân cách người bán.",
+        "Sự mưu mẹo và thao túng tâm lý chính là chìa khóa duy nhất giúp tổ chức xây dựng được văn hóa bán hàng xuất sắc."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi thiếu đi sự chân thành và chính trực nội tâm, các kỹ năng giao tiếp sẽ trở thành thủ thuật thao túng; người khác sớm muộn sẽ cảm nhận được sự giả dối, dẫn đến sự đổ vỡ hoàn toàn của niềm tin trong dài hạn."
+      "correctIndex": 0,
+      "explanation": "Khi thiếu đi sự chân thành và chính trực nội tâm, các kỹ năng giao tiếp trở thành thủ thuật thao túng; người khác sớm muộn sẽ cảm nhận được sự giả dối, dẫn đến sự đổ vỡ niềm tin."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc thay đổi hành vi bề ngoài mà không thay đổi 'Mô thức' tư duy cốt lõi chỉ mang lại kết quả hạn chế và ngắn hạn?",
+      "question": "Tại sao thay đổi hành vi bề ngoài mà không thay đổi 'Mô thức' tư duy cốt lõi chỉ mang lại kết quả ngắn hạn?",
       "options": [
-        "Vì hành vi là sản phẩm tự nhiên của cách chúng ta nhìn nhận thế giới; nếu lăng kính mô thức không đổi thì thói quen cũ sẽ nhanh chóng quay lại.",
-        "Vì các chương trình đào tạo hành vi đều có chất lượng học thuật rất kém và không được các chuyên gia tâm lý học hàng đầu công nhận rộng rãi.",
-        "Vì bộ não con người không có khả năng sinh học để kiểm soát các phản xạ cơ bắp khi phải đối diện với các tình huống xung đột giao tiếp hàng ngày.",
-        "Vì hành vi và lời nói bên ngoài hoàn toàn độc lập, tách rời và không chịu sự chi phối nào từ các niềm tin hay thế giới quan nội tâm bên trong."
+        "Vì các chương trình đào tạo hành vi đều có chất lượng học thuật rất kém và không được các chuyên gia tâm lý công.",
+        "Vì hành vi là sản phẩm tự nhiên của cách nhìn nhận thế giới; nếu lăng kính mô thức không đổi, thói quen cũ sẽ quay.",
+        "Vì bộ não con người không có khả năng sinh học để kiểm soát các phản xạ cơ bắp khi phải đối diện với tình huống.",
+        "Vì hành vi và lời nói bên ngoài hoàn toàn độc lập, tách rời và không chịu sự chi phối nào từ các niềm tin nội tâm."
       ],
-      "correctIndex": 0,
-      "explanation": "Hành vi và thái độ chảy ra từ mô thức nhận thức. Nếu chúng ta chỉ tỉa cành lá (thay đổi hành vi bề mặt) mà không đụng đến gốc rễ (mô thức tư duy), kết quả sẽ chỉ mang tính tạm thời và mọi chuyện sẽ nhanh chóng quay về quỹ đạo cũ."
+      "correctIndex": 1,
+      "explanation": "Hành vi và thái độ chảy ra từ mô thức nhận thức. Nếu chúng ta chỉ tỉa cành lá (thay đổi hành vi bề mặt) mà không đụng đến gốc rễ (mô thức), kết quả sẽ chỉ mang tính tạm thời."
     },
     {
       "id": "q15",
-      "question": "Mối quan hệ giữa 3 nhóm thói quen trong cấu trúc 7 thói quen được thiết kế như thế nào?",
+      "question": "Mối quan hệ giữa các nhóm thói quen trong cấu trúc 7 thói quen được thiết kế như thế nào để đạt hiệu quả?",
       "options": [
-        "Người đọc có thể tùy ý lựa chọn thực hành bất kỳ thói quen nào mà không cần tuân theo bất kỳ một trình tự phát triển nhận thức logic nào.",
-        "Cần rèn luyện thành thạo nhóm Thắng lợi tập thể (Thói quen 4, 5, 6) trước để tạo dựng hình ảnh uy tín rồi mới hoàn thiện bản thân sau.",
-        "Thói quen 1-3 tạo Thắng lợi cá nhân (làm chủ bản thân); Thói quen 4-6 tạo Thắng lợi tập thể (tương thuộc); và Thói quen 7 liên tục đổi mới.",
-        "Thói quen 7 là thói quen duy nhất có giá trị cốt lõi, còn sáu thói quen ban đầu chỉ là những bước chuẩn bị mang tính phụ trợ không bắt buộc."
+        "Người đọc có thể tùy ý lựa chọn thực hành bất kỳ thói quen nào mà không cần tuân theo bất kỳ trình tự phát triển nào.",
+        "Cần rèn luyện thành thạo nhóm Thắng lợi tập thể trước để tạo dựng hình ảnh uy tín rồi mới hoàn thiện bản thân sau.",
+        "Thói quen 1-3 tạo Thắng lợi cá nhân; Thói quen 4-6 tạo Thắng lợi tập thể; và Thói quen 7 liên tục đổi mới bản thân.",
+        "Thói quen 7 là thói quen duy nhất có giá trị cốt lõi, còn sáu thói quen ban đầu chỉ là những bước chuẩn bị phụ trợ."
       ],
       "correctIndex": 2,
-      "explanation": "Cấu trúc 7 thói quen đi theo trình tự logic chặt chẽ: Thói quen 1, 2, 3 dẫn dắt từ Phụ thuộc lên Độc lập (Thắng lợi cá nhân); Thói quen 4, 5, 6 dẫn dắt từ Độc lập lên Tương thuộc (Thắng lợi tập thể); Thói quen 7 (Rèn giũa bản thân) bao bọc và liên tục tái tạo cả 4 phương diện cuộc sống."
+      "explanation": "Cấu trúc 7 thói quen đi theo trình tự logic: 1-3 dẫn dắt từ Phụ thuộc lên Độc lập (Thắng lợi cá nhân); 4-6 dẫn dắt từ Độc lập lên Tương thuộc (Thắng lợi tập thể); 7 tái tạo bản thân."
     }
   ]
 }
