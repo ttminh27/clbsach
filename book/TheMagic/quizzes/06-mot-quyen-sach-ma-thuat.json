@@ -1,0 +1,188 @@
+{
+  "bookId": "TheMagic",
+  "chapterId": "06-mot-quyen-sach-ma-thuat",
+  "chapterTitle": "Một quyển sách ma thuật",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Trích dẫn của John F. Kennedy ở đầu chương đặt ra tiêu chuẩn cao nhất nào cho việc biểu lộ lòng biết ơn?",
+      "options": [
+        "Không chỉ dừng lại ở lời nói nơi đầu môi mà phải biến lòng biết ơn thành phương châm sống thực tế.",
+        "Phải xây dựng các đài tưởng niệm công cộng để ghi danh những đóng góp to lớn của các vị anh hùng.",
+        "Bắt buộc phải quyên góp một phần lớn thu nhập cá nhân vào các tổ chức cứu trợ nhân đạo xã hội.",
+        "Phải tổ chức các ngày lễ kỷ niệm định kỳ hàng năm với sự tham gia của đông đảo người dân cả nước."
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu nói của Tổng thống Kennedy khẳng định rằng đỉnh cao của sự tri ân không phải là thốt ra những lời cảm ơn hoa mỹ, mà là hiện thực hóa và sống trọn vẹn với tinh thần biết ơn đó trong từng hành động hàng ngày."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao tác giả lại thiết kế chương trình thực hành kéo dài chính xác trong 28 ngày liên tục?",
+      "options": [
+        "Vì đây là chu kỳ chuẩn để hoàn tất các thủ tục pháp lý thành lập một doanh nghiệp kinh doanh mới.",
+        "Nhằm tạo đủ thời gian để tái cấu trúc nơ-ron não bộ và khắc sâu thói quen vào tầng tiềm thức sâu.",
+        "Để độc giả có thể sắp xếp thời gian trùng khớp với lịch nghỉ phép hàng năm của cơ quan làm việc.",
+        "Vì các trường đại học quốc tế đều áp dụng khung thời gian bốn tuần cho một học trình lý thuyết."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoa học hành vi chỉ ra rằng cần một chuỗi ngày thực hành tập trung liên tục (28 ngày) để các nơ-ron thần kinh tạo đường mòn mới, biến lòng biết ơn từ nỗ lực ý thức thành phản xạ tự nhiên của tiềm thức."
+    },
+    {
+      "id": "q3",
+      "question": "Logic sư phạm nào chi phối việc sắp xếp 12 bài tập đầu tiên tập trung vào quá khứ và hiện tại?",
+      "options": [
+        "Tác giả muốn độc giả giải quyết xong các tranh chấp tài sản cũ trước khi tính đến tương lai sau.",
+        "Quá khứ là nguồn năng lượng duy nhất có thật, trong khi các mục tiêu tương lai chỉ là ảo tưởng.",
+        "Nhằm giúp người đọc hồi tưởng lại những sai lầm thời thơ ấu để thực hiện việc sám hối ăn năn sâu.",
+        "Việc trân trọng những gì đang có là nền tảng năng lượng bắt buộc trước khi có thể đón nhận cái mới."
+      ],
+      "correctIndex": 3,
+      "explanation": "Quy luật vũ trụ khẳng định nếu không biết ơn những gì mình đã và đang nhận được, cánh cửa năng lượng sẽ bị đóng lại; 12 bài tập đầu tiên giải phóng các tắc nghẽn quá khứ và tạo nền móng vững chắc để đón nhận thêm."
+    },
+    {
+      "id": "q4",
+      "question": "Mười bài tập tiếp theo (từ ngày 13 đến ngày 22) hướng trọng tâm vào khía cạnh nào của người thực hành?",
+      "options": [
+        "Rèn luyện kỹ năng đàm phán thương mại nhằm gia tăng khả năng cạnh tranh trên thị trường tài chính.",
+        "Khám phá các phương pháp chữa lành tự nhiên thông qua chế độ ăn kiêng và thảo dược bản địa cổ.",
+        "Ứng dụng sức mạnh của lòng biết ơn để biến những ước mơ và mong muốn tương lai thành hiện thực.",
+        "Học cách từ bỏ mọi tham vọng cá nhân để tìm kiếm sự an phận trong một đời sống thanh bần giản dị."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sau khi đã thanh toán lòng biết ơn cho quá khứ và hiện tại, 10 bài tập tiếp theo hướng năng lượng vào các mục tiêu, khát vọng tương lai, sử dụng lòng biết ơn như nam châm thu hút ước mơ thành hiện thực."
+    },
+    {
+      "id": "q5",
+      "question": "Sáu bài tập cuối cùng (từ ngày 23 đến ngày 28) nâng trải nghiệm của người thực hành lên tầm cao nào?",
+      "options": [
+        "Huấn luyện độc giả trở thành những diễn giả truyền cảm hứng chuyên nghiệp trên các diễn đàn lớn.",
+        "Vận dụng lòng biết ơn sâu sắc để nâng đỡ người khác, hóa giải tiêu cực và xử lý các thách thức.",
+        "Hướng dẫn các phương pháp đầu tư mạo hiểm nhằm nhân đôi khối lượng tài sản trong thời gian ngắn.",
+        "Tách biệt hoàn toàn bản thân khỏi xã hội để đạt đến trạng thái thiền định nhập định tuyệt đối."
+      ],
+      "correctIndex": 1,
+      "explanation": "Giai đoạn cuối đưa lòng biết ơn thẩm thấu vào từng tế bào cơ thể và tâm hồn, mở rộng năng lượng từ việc hoàn thiện bản thân sang việc giúp đỡ người khác, chuyển hóa lỗi lầm và hóa giải mọi nghịch cảnh tiêu cực."
+    },
+    {
+      "id": "q6",
+      "question": "Quy tắc 'nếu bỏ lỡ một ngày thì phải quay lại ba ngày trước đó' dựa trên nguyên lý tâm lý học nào?",
+      "options": [
+        "Duy trì đà quán tính tâm thức và ngăn chặn sự gián đoạn làm suy yếu mạch liên kết thần kinh mới.",
+        "Áp dụng hình phạt nghiêm khắc nhằm tạo ra nỗi sợ hãi để ép buộc người đọc phải tuân thủ kỷ luật.",
+        "Tăng thời gian sử dụng cuốn sách để người đọc không thể cho người khác mượn sách quá nhanh chóng.",
+        "Đảm bảo người đọc phải thuộc lòng toàn bộ từng câu chữ trong các chương sách đã được xuất bản."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi hình thành một thói quen thần kinh mới, sự đứt quãng làm mất đà quán tính rung động; việc lùi lại 3 ngày giúp khôi phục tần số tích cực, bảo toàn năng lượng và củng cố sự bền vững của tiềm thức."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao tác giả lại yêu cầu người đọc đọc bài tập của ngày hôm sau ngay từ buổi tối hôm trước?",
+      "options": [
+        "Để kiểm tra xem người đọc có thực sự dành đủ thời gian đọc sách trước khi đi ngủ mỗi đêm hay không.",
+        "Tránh tình trạng người đọc ngủ quên vào buổi sáng và làm lỡ mất các công việc hành chính tại công sở.",
+        "Giúp tâm trí có sự chuẩn bị vô thức từ trong giấc ngủ và chuẩn bị sẵn các vật dụng cần thiết sáng mai.",
+        "Vì bài tập buổi tối có tính chất quan trọng hơn và có thể thay thế hoàn toàn cho bài tập buổi sáng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Một số bài tập bắt đầu ngay khi vừa thức dậy hoặc đòi hỏi phải chuẩn bị vật dụng (như ảnh, hòn đá); đọc trước từ tối hôm trước giúp tiềm thức ấp ủ bài tập trong đêm và sẵn sàng kích hoạt ngay khi mở mắt."
+    },
+    {
+      "id": "q8",
+      "question": "Nếu một người không thể thực hiện 28 ngày liên tục mà chọn cách giãn cách bài tập, hệ quả là gì?",
+      "options": [
+        "Phép màu sẽ bị đảo ngược hoàn toàn và biến thành những điều xui xẻo ập đến trong đời sống hàng ngày.",
+        "Người đó sẽ bị tước quyền áp dụng phương pháp này vĩnh viễn theo các quy tắc bảo mật của cuốn sách.",
+        "Bộ não sẽ tự động xóa sạch mọi ký ức về các bài tập đã làm và buộc phải bắt đầu lại từ đầu tiên.",
+        "Hiệu quả chuyển hóa vẫn diễn ra nhưng người đó sẽ mất nhiều thời gian hơn để thấy kết quả rõ rệt."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả nêu rõ nếu chọn làm 1 bài trong vài ngày hoặc 1 bài mỗi tuần thì phương pháp vẫn có tác dụng cải thiện, chỉ có điều tốc độ chuyển hóa sẽ chậm hơn và mất nhiều thời gian hơn so với 28 ngày tập trung liên tục."
+    },
+    {
+      "id": "q9",
+      "question": "Khái niệm 'bộ não được đi dây lại' (rewire the brain) sau 28 ngày thực hành đề cập đến hiện tượng nào?",
+      "options": [
+        "Tính khả biến của não bộ khi các xung thần kinh mới hình thành thói quen tư duy tích cực tự động.",
+        "Sự can thiệp của các trường sóng điện từ nhân tạo tác động vào cấu trúc vật lý của vỏ não người.",
+        "Quá trình hồi phục các tế bào thần kinh bị tổn thương sau những chấn thương sọ não nghiêm trọng.",
+        "Hiện tượng thôi miên sâu khiến người thực hành hoàn toàn mất đi khả năng tư duy phản biện độc lập."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Đi dây lại' là ẩn dụ cho tính khả biến thần kinh (neuroplasticity): sự lặp lại kiên trì 28 ngày tạo lập các liên kết nơ-ron mới, khiến lòng biết ơn trở thành phản ứng mặc định tự nhiên của não bộ trước mọi tình huống."
+    },
+    {
+      "id": "q10",
+      "question": "Khi lập danh sách ước mơ, tại sao tác giả nhấn mạnh chỉ cần viết rõ 'CÁI GÌ' mà không cần bận tâm 'LÀM THẾ NÀO'?",
+      "options": [
+        "Vì việc lập kế hoạch chi tiết là trách nhiệm của các cơ quan quản lý nhà nước chứ không phải cá nhân.",
+        "Vì người đọc không đủ trình độ chuyên môn để tự xây dựng các lộ trình tài chính phức tạp cho mình.",
+        "Vì nhiệm vụ của tâm trí là định hướng mục tiêu, còn cách thức hiển lộ sẽ do quy luật vũ trụ an bài.",
+        "Vì mọi nỗ lực hành động thực tế của con người đều là vô ích trước sự sắp đặt của số phận định mệnh."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trách nhiệm của ý thức là xác định đích đến thật rõ ràng (Cái gì); nếu cố toan tính cách thức (Làm thế nào), lý trí hạn hẹp sẽ nảy sinh nghi ngờ và giới hạn các cơ hội vô tận mà vũ trụ có thể sắp đặt."
+    },
+    {
+      "id": "q11",
+      "question": "Việc phân loại danh sách ước mơ thành 6 lĩnh vực chính (sức khỏe, công việc, tiền bạc, quan hệ...) nhằm mục đích gì?",
+      "options": [
+        "Phục vụ cho việc thống kê xã hội học của các viện nghiên cứu kinh tế về nhu cầu tiêu dùng người dân.",
+        "Giúp người đọc có cái nhìn toàn diện, cân bằng và xác lập định hướng rõ ràng cho mọi mặt cuộc sống.",
+        "Buộc người đọc phải cam kết chi tiêu tiền bạc một cách đồng đều vào tất cả các lĩnh vực được nêu ra.",
+        "Nhằm chứng minh rằng chỉ những ai có nhiều tham vọng vật chất mới xứng đáng thực hành lòng biết ơn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phân nhóm giúp người thực hành không bị thiên lệch vào một khía cạnh duy nhất (như chỉ cầu tiền), mà hướng tới sự phát triển hài hòa, trọn vẹn và cân bằng trên toàn bộ các phương diện quan trọng của cuộc đời."
+    },
+    {
+      "id": "q12",
+      "question": "Hành động gạch bỏ một mục tiêu ra khỏi danh sách khi đã đạt được mang lại hiệu ứng tâm lý nào?",
+      "options": [
+        "Tạo ra cảm giác hụt hẫng và trống rỗng vì không còn mục tiêu nào để tiếp tục phấn đấu trong đời sống.",
+        "Nhắc nhở người thực hành phải nhanh chóng chia sẻ tài sản đó cho những người nghèo khổ xung quanh mình.",
+        "Giúp người đọc tiết kiệm diện tích trang giấy để không phải mua thêm sổ tay ghi chép mới tốn kém tiền.",
+        "Củng cố niềm tin vững chắc vào hiệu quả của phương pháp và giải phóng năng lượng đón nhận điều mới."
+      ],
+      "correctIndex": 3,
+      "explanation": "Gạch bỏ một ước mơ đã thành hiện thực mang lại sự khích lệ to lớn, khẳng định rằng quy luật đang vận hành xuất sắc, đồng thời dọn sạch chỗ trong tâm trí để tiếp tục kiến tạo những ước mơ mới."
+    },
+    {
+      "id": "q13",
+      "question": "Sau khi hoàn thành 28 ngày, việc mở ngẫu nhiên một trang sách để thực hành cho ngày hôm đó dựa trên quy luật nào?",
+      "options": [
+        "Luật hấp dẫn: tâm thức hiện tại của bạn sẽ tự động thu hút đúng bài tập phù hợp nhất với nhu cầu lúc đó.",
+        "Tính ngẫu nhiên toán học thuần túy của việc lật mở các trang sách vật lý mà không có bất kỳ ý nghĩa nào.",
+        "Một trò chơi bói toán giải trí giúp người đọc giảm bớt sự buồn chán trong những ngày nghỉ cuối tuần dài.",
+        "Quy định bắt buộc của nhà xuất bản nhằm khuyến khích độc giả lật giở toàn bộ các trang sách nhiều lần."
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo nguyên lý của Luật hấp dẫn, không có sự ngẫu nhiên vô nghĩa; khi bạn tập trung và mở trang sách, chính rung động nội tâm của bạn tại thời điểm đó sẽ thu hút chính xác bài tập mà bạn đang cần nhất."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao tác giả khẳng định không một ai có thể 'biết ơn quá mức' hoặc cuộc sống 'trở nên thần kỳ quá mức'?",
+      "options": [
+        "Vì lòng biết ơn là một loại tài nguyên hữu hạn cần phải được sử dụng tiết kiệm để tránh cạn kiệt sớm.",
+        "Vì lòng biết ơn là dòng chảy năng lượng tích cực vô tận, càng mở rộng thì cuộc đời càng thăng hoa hơn.",
+        "Vì xã hội luôn đặt ra một giới hạn chuẩn mực về mức độ hạnh phúc mà một người bình thường được phép có.",
+        "Vì nếu biết ơn quá nhiều thì con người sẽ bị ảo tưởng và mất đi khả năng sinh tồn trong thế giới thực."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lòng biết ơn là nguồn năng lượng thuần khiết vô tận; nó không có giới hạn trần, do đó con người càng thực hành sâu sắc bao nhiêu thì sự kỳ diệu, an lạc và trù phú của cuộc đời càng rộng mở bấy nhiêu."
+    },
+    {
+      "id": "q15",
+      "question": "Bản chất thực sự của việc thực hiện 28 bài tập ma thuật là gì?",
+      "options": [
+        "Một khóa tu khổ hạnh nhằm thanh lọc thể xác thông qua việc nhịn ăn và thức khuya cầu nguyện mỗi ngày.",
+        "Một chiến dịch tiếp thị truyền thông xã hội nhằm quảng bá phong cách sống mới của giới thượng lưu Tây.",
+        "Một tiến trình rèn luyện nhận thức bài bản để biến lòng biết ơn từ hành vi rời rạc thành bản năng tự nhiên.",
+        "Một bài kiểm tra trí nhớ nhằm đánh giá khả năng ghi nhớ thông tin chi tiết của người đọc qua các trang."
+      ],
+      "correctIndex": 2,
+      "explanation": "28 ngày không phải nghi lễ tôn giáo hay bài tập hình thức, mà là một quy trình huấn luyện tâm thức bài bản giúp dịch chuyển toàn diện lăng kính nhận thức, biến lòng biết ơn thành bản chất sống thứ hai."
+    }
+  ]
+}

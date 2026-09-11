@@ -1,0 +1,188 @@
+{
+  "bookId": "TheMagic",
+  "chapterId": "04-mot-phep-thuat-vi-dai-duoc-tiet-lo",
+  "chapterTitle": "Một phép thuật vĩ đại được tiết lộ",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao đoạn văn trong sách Phúc âm Matthew từng bị hiểu lầm là bất công suốt nhiều thế kỷ?",
+      "options": [
+        "Vì nó yêu cầu người giàu phải phân phát toàn bộ tài sản cho người nghèo khó trong xã hội.",
+        "Vì nếu đọc theo nghĩa đen, nó dường như thiên vị người giàu và tước đoạt của người nghèo.",
+        "Vì văn bản cổ này bị các dịch giả thời trung cổ cố tình sửa đổi nhằm phục vụ giới quý tộc.",
+        "Vì đoạn kinh văn khuyên con người nên từ bỏ mọi nỗ lực lao động để chờ đợi ân huệ siêu nhiên."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi đọc nguyên văn chưa hé lộ từ bị giấu ('Người có sẽ được cho thêm... người không có sẽ bị lấy đi'), câu kinh tạo cảm giác bất công vô lý vì dường như người giàu lại được ưu ái thêm, còn người khốn khó lại bị tước đoạt sạch."
+    },
+    {
+      "id": "q2",
+      "question": "Việc điền thêm cụm từ 'sự biết ơn' đã giải mã câu đố trong đoạn kinh văn Matthew theo nguyên lý nào?",
+      "options": [
+        "Biến một mệnh đề có vẻ bất công thành quy luật tâm thức công bằng và khách quan của tự nhiên.",
+        "Chứng minh rằng các văn bản tôn giáo cổ xưa đều chỉ là những câu chuyện ngụ ngôn ẩn dụ suông.",
+        "Ép buộc các tín đồ phải đóng góp tài chính nhiều hơn cho giáo hội để duy trì sự thịnh vượng.",
+        "Phủ nhận hoàn toàn vai trò của các định luật khoa học vật lý trong việc giải thích đời sống."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi từ 'sự biết ơn' được bổ sung, nghịch lý được giải tỏa hoàn toàn: người có lòng biết ơn thì rung động đủ đầy sẽ hút thêm sự dư dả, còn người vô ơn thì tâm thức thiếu thốn sẽ làm tiêu tán cả những gì đang có."
+    },
+    {
+      "id": "q3",
+      "question": "Sự tương đồng giữa câu kinh Koran và sách Phúc âm Matthew khẳng định tính chất gì của lòng biết ơn?",
+      "options": [
+        "Cả hai tôn giáo đều bắt buộc tín đồ phải tham gia vào các cuộc thập tự chinh mở rộng đức tin.",
+        "Lòng biết ơn chỉ có giá trị thực tế trong bối cảnh văn hóa của các nước phương Tây và Trung Đông.",
+        "Lòng biết ơn là một điều răn nghiêm ngặt nhằm trừng phạt những ai có tư tưởng hoài nghi tôn giáo.",
+        "Lòng biết ơn là một quy luật vũ trụ phổ quát, vượt lên trên mọi ranh giới tín ngưỡng và thời đại."
+      ],
+      "correctIndex": 3,
+      "explanation": "Dù xuất hiện trong Kinh thánh hay kinh Koran, nguyên lý về lòng biết ơn đều nhất quán: biết ơn mang lại sự gia tăng sung túc, vô ơn dẫn đến sự trừng phạt tự nhiên; điều này khẳng định đây là quy luật vũ trụ phổ quát áp dụng cho mọi người."
+    },
+    {
+      "id": "q4",
+      "question": "Mối liên hệ giữa Luật hấp dẫn và lòng biết ơn được tác giả giải thích cụ thể như thế nào?",
+      "options": [
+        "Luật hấp dẫn chỉ hoạt động đối với vật chất hữu hình, còn lòng biết ơn tác động đến linh hồn.",
+        "Lòng biết ơn giúp con người loại bỏ hoàn toàn các suy nghĩ tiêu cực ra khỏi não bộ vĩnh viễn.",
+        "Cảm xúc biết ơn phát ra năng lượng tích cực như nam châm thu hút thêm nhiều sự đủ đầy tương ứng.",
+        "Hai khái niệm này hoàn toàn độc lập và không có bất kỳ điểm tương đồng nào về mặt cơ chế vận hành."
+      ],
+      "correctIndex": 2,
+      "explanation": "Luật hấp dẫn chi phối năng lượng vũ trụ theo nguyên lý 'những gì giống nhau hút nhau'; lòng biết ơn biến tâm thức thành một thỏi nam châm mang tần số đủ đầy, từ đó tự nhiên thu hút những hoàn cảnh thịnh vượng tương ứng."
+    },
+    {
+      "id": "q5",
+      "question": "Khi một người liên tục suy nghĩ than phiền về nợ nần và bế tắc, Luật hấp dẫn sẽ tạo ra hệ quả gì?",
+      "options": [
+        "Hấp dẫn thêm nhiều tình huống thiếu thốn và khó khăn tương ứng với sự tập trung tiêu cực đó.",
+        "Buộc người đó phải thay đổi công việc ngay lập tức để tìm kiếm nguồn thu nhập ổn định hơn.",
+        "Tự động kích hoạt cơ chế phòng vệ của tiềm thức để bảo vệ người đó khỏi các chủ nợ gay gắt.",
+        "Khiến các khoản nợ tự động biến mất nhờ sự can thiệp kỳ diệu của các quy luật vật lý tự nhiên."
+      ],
+      "correctIndex": 0,
+      "explanation": "Luật hấp dẫn phản hồi chính xác theo suy nghĩ và cảm giác; khi một người liên tục tập trung vào nợ nần, thiếu tiền hay bế tắc, họ phát ra năng lượng thiếu hụt và sẽ tiếp tục thu hút thêm những hoàn cảnh khó khăn tương tự."
+    },
+    {
+      "id": "q6",
+      "question": "Việc tác giả đối chiếu lòng biết ơn với Định luật 3 của Isaac Newton nhằm mục đích học thuật nào?",
+      "options": [
+        "Chứng minh rằng các nhà khoa học vĩ đại thời xưa đều là những nhà thần bí học theo thuyết huyền bí.",
+        "Đặt nền tảng logic duy lý cho thấy mỗi hành động biết ơn cho đi ắt có sự hồi đáp nhận lại tương xứng.",
+        "Bác bỏ hoàn toàn các quan điểm khoa học thực nghiệm để thay thế bằng các lý thuyết siêu hình học.",
+        "Khẳng định rằng các hiện tượng tâm lý học hoàn toàn có thể đo đạc chính xác bằng các công thức vật lý."
+      ],
+      "correctIndex": 1,
+      "explanation": "Định luật Newton 'mọi hành động luôn có phản lực đối nghịch và cân bằng' được áp dụng để giải thích: hành động CHO ĐI lòng biết ơn chân thành luôn tạo ra sự đáp trả cân bằng là việc NHẬN ĐƯỢC sự đủ đầy tương ứng từ vũ trụ."
+    },
+    {
+      "id": "q7",
+      "question": "Hành động Chúa Jesus nói lời 'cảm ơn' trước khi thực hiện các phép màu mang hàm ý tâm linh sâu sắc nào?",
+      "options": [
+        "Phép màu chỉ xảy ra khi có sự hiện diện của một đám đông tín đồ chứng kiến và cầu nguyện nhiệt thành.",
+        "Lời cảm ơn là một thủ tục bắt buộc để thông báo cho các thiên thần bắt đầu can thiệp vào trần thế.",
+        "Khẳng định niềm tin tuyệt đối vào kết quả kỳ diệu đã hiện hữu ngay từ trước khi nó hiển lộ hữu hình.",
+        "Đó là cách thức duy nhất để thuyết phục những người hoài nghi tin vào uy quyền thần thánh của mình."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nói lời cảm ơn trước khi phép màu diễn ra thể hiện niềm tin tuyệt đối và trạng thái tâm thức đã đón nhận trọn vẹn ơn phước; chính trạng thái biết ơn đón đầu này kích hoạt năng lượng kỳ diệu biến ước muốn thành hiện thực."
+    },
+    {
+      "id": "q8",
+      "question": "Lời dạy của thủ lĩnh Tecumseh: 'Nếu bạn thấy không có lý do để cảm ơn, lỗi lầm sẽ ở với bạn' ngụ ý điều gì?",
+      "options": [
+        "Con người sinh ra đã mang tội lỗi nguyên thủy và phải không ngừng sám hối trước các đấng sáng tạo.",
+        "Tự nhiên có xu hướng trừng phạt nghiêm khắc những ai không biết ơn bằng cách tước đi sinh mạng.",
+        "Xã hội có quyền phán xét và cách ly những cá nhân không thể hiện sự hòa nhập với cộng đồng bản địa.",
+        "Phúc lành luôn hiện hữu dồi dào, việc không nhận ra là do tâm trí cá nhân bị che mờ bởi sự vô ơn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự sống, ánh sáng ban mai, hơi thở và thức ăn luôn là những ân huệ vô giá sẵn có mỗi ngày; nếu ai đó không tìm thấy lý do để cảm ơn thì vấn đề không nằm ở ngoại cảnh mà nằm ở sự vô cảm và mù quáng trong tâm thức của chính họ."
+    },
+    {
+      "id": "q9",
+      "question": "Chi tiết Albert Einstein cảm ơn người khác hàng trăm lần mỗi ngày phản ánh phẩm chất nhận thức nào của ông?",
+      "options": [
+        "Ý thức sâu sắc về sự phụ thuộc lẫn nhau giữa các cá nhân và lòng khiêm nhường trước đóng góp của tha nhân.",
+        "Nhu cầu xây dựng mạng lưới quan hệ ngoại giao rộng lớn để tìm kiếm nguồn tài trợ nghiên cứu khoa học.",
+        "Thói quen bị ám ảnh cưỡng chế xuất phát từ những áp lực nghiên cứu vật lý lý thuyết kéo dài nhiều năm.",
+        "Chiến lược truyền thông nhằm xây dựng hình tượng một nhà bác học thân thiện trước mắt công chúng quốc tế."
+      ],
+      "correctIndex": 0,
+      "explanation": "Einstein nhận thức sâu sắc rằng mọi tiện nghi và thành tựu của ông đều được xây dựng trên công sức lao động của vô số người khác; lòng biết ơn thường trực giúp tâm trí ông luôn kết nối hài hòa và đón nhận những trực giác vĩ đại."
+    },
+    {
+      "id": "q10",
+      "question": "Isaac Newton giải thích thành công của mình bằng câu nói 'đứng trên vai người khổng lồ', thể hiện điều gì?",
+      "options": [
+        "Niềm tự hào về thể chất cao lớn vượt trội của bản thân so với các nhà nghiên cứu cùng thời đại.",
+        "Sự phụ thuộc hoàn toàn vào các thiết bị đo đạc thiên văn khổng lồ do chính phủ Anh tài trợ chế tạo.",
+        "Lòng tri ân sâu sắc đối với tri thức nền tảng của các thế hệ tiền nhân đã mở đường cho khám phá của ông.",
+        "Sự thừa nhận rằng ông không hề có bất kỳ đóng góp sáng tạo nào mới mẻ cho nền cơ học cổ điển nhân loại."
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu nói nổi tiếng của Newton là lời tôn vinh và tri ân những nhà khoa học đi trước; ông hiểu rằng các thành quả đột phá của mình chỉ có thể đạt được nhờ kế thừa và phát triển từ nền tảng vững chắc mà tiền nhân để lại."
+    },
+    {
+      "id": "q11",
+      "question": "Rhonda Byrne mô tả cuộc sống của bà 6 năm trước khi biết đến phép màu như thế nào?",
+      "options": [
+        "Giàu có tột bậc nhưng luôn cảm thấy nhàm chán và khao khát tìm kiếm một tôn giáo mới để quy y.",
+        "Bề ngoài có vẻ bình thường nhưng bên trong ngập trong nợ nần, căng thẳng, kiệt sức và chỉ đang tồn tại.",
+        "Hoàn toàn mất trí nhớ sau một tai nạn giao thông nghiêm trọng và phải học lại mọi kỹ năng sống cơ bản.",
+        "Sống trong một cộng đồng tu kín biệt lập và không quan tâm đến bất kỳ nhu cầu vật chất trần tục nào."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chia sẻ trải nghiệm chân thật: bà từng nợ nần chồng chất mỗi tháng, làm việc kiệt sức nhưng không đủ chi trả, luôn sống trong sự stress ngầm ẩn và chỉ đơn thuần là 'tồn tại' từ hóa đơn này sang hóa đơn khác."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao việc chỉ nói lời 'cảm ơn' xã giao trong những dịp hiếm hoi không làm một người trở thành người có lòng biết ơn?",
+      "options": [
+        "Vì xã hội hiện đại đòi hỏi sự cảm ơn phải được quy đổi ra các giá trị quà tặng vật chất tương xứng.",
+        "Vì những từ ngữ đó đã bị mất đi ý nghĩa ban đầu do bị lặp lại quá nhiều trong các thông điệp quảng cáo.",
+        "Vì lời cảm ơn xã giao chỉ được nói ra trước mặt người lạ nhằm mục đích xây dựng hình ảnh bản thân tốt.",
+        "Vì đó chỉ là phản xạ hình thức nơi đầu môi, thiếu đi sự rung động cảm xúc chân thành sâu kín bên trong."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nói lời cảm ơn theo thói quen lịch sự chỉ là nghi thức xã giao bề nổi; lòng biết ơn thực sự đòi hỏi sự chú tâm nhận thức và cảm xúc rung động trân trọng từ trái tim mới có thể tạo ra sức mạnh chuyển hóa cuộc đời."
+    },
+    {
+      "id": "q13",
+      "question": "Sau khi thực hành lòng biết ơn hàng ngày, sự chuyển hóa nổi bật nhất về mặt thể chất của tác giả là gì?",
+      "options": [
+        "Khả năng nhìn thấu đồ vật trong bóng tối và không cần phải ngủ quá ba tiếng mỗi ngày.",
+        "Năng lượng và sức khỏe gia tăng ngoạn mục, cảm thấy khỏe khoắn hơn cả giai đoạn 20 tuổi.",
+        "Chữa lành hoàn toàn các dị tật bẩm sinh mà không cần bất kỳ sự can thiệp y khoa nào.",
+        "Cơ thể đạt được sự miễn nhiễm tuyệt đối trước mọi loại chất độc và virus nguy hiểm nhất."
+      ],
+      "correctIndex": 1,
+      "explanation": "Rhonda Byrne chia sẻ rằng sau khi thực hành lòng biết ơn, mức độ năng lượng và thể trạng của bà cải thiện vượt bậc, cảm thấy tràn trề sinh lực và khỏe mạnh hơn cả thời điểm bà còn ở tuổi 20."
+    },
+    {
+      "id": "q14",
+      "question": "Bài học đắt giá nhất rút ra từ sự biến chuyển toàn diện của tác giả từ nợ nần sang sung túc là gì?",
+      "options": [
+        "Hoàn cảnh bên ngoài chỉ thực sự thay đổi khi trạng thái tâm thức bên trong được chuyển hóa triệt để.",
+        "Tiền bạc là thước đo duy nhất để đánh giá một con người có thực hành lòng biết ơn thành công hay không.",
+        "Con người nên từ bỏ mọi kế hoạch chi tiêu thực tế để phó thác toàn bộ tài chính cho sự may rủi tự nhiên.",
+        "Muốn hết nợ nần thì cách duy nhất là phải vay mượn thêm từ bạn bè để tạo cảm giác mình luôn giàu có."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nỗ lực làm việc cực nhọc trong trạng thái tâm lý lo âu thiếu thốn không thể giải quyết gốc rễ vấn đề; chỉ khi tác giả thay đổi tần số rung động bên trong bằng lòng biết ơn mỗi ngày, hoàn cảnh tài chính và đời sống bên ngoài mới đảo chiều thần kỳ."
+    },
+    {
+      "id": "q15",
+      "question": "Cụm từ 'Sợi chỉ vàng của sự biết ơn' trong tác phẩm mang hàm nghĩa biểu tượng nào?",
+      "options": [
+        "Một món trang sức đắt giá được các vị vua chúa cổ đại sử dụng trong các nghi thức hiến tế thần linh.",
+        "Một công thức luyện kim bí truyền giúp biến đổi kim loại thường thành vàng ròng có giá trị kinh tế.",
+        "Một nguyên lý tâm thức xuyên suốt nối kết mọi nền văn minh, văn hóa và tôn giáo lớn trong lịch sử.",
+        "Sợi dây liên kết bí mật giữa các tổ chức tài chính toàn cầu nhằm điều phối thị trường tiền tệ thế giới."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Sợi chỉ vàng' là ẩn dụ cho chân lý xuyên thời gian: dù ở bất kỳ tôn giáo nào hay nền văn minh nào từ cổ chí kim, thực hành lòng biết ơn luôn là cốt lõi tinh thần mang lại sự hưng thịnh và hòa hợp cho con người."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "bookId": "TheMagic",
+  "chapterId": "08-ngay-02-hon-da-ma-thuat",
+  "chapterTitle": "Ngày 2: Hòn Đá Ma Thuật",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Danh ngôn của Charles Dickens mở đầu chương nhấn mạnh phương pháp tư duy tích cực nào?",
+      "options": [
+        "Tập trung trân trọng vô số phúc lành hiện có thay vì chìm đắm vào vài điều bất hạnh nhỏ bé.",
+        "Đòi hỏi mọi cá nhân phải quên đi toàn bộ ký ức đau buồn để sống trong sự vô lo tuyệt đối.",
+        "Khuyên con người nên tránh xa các biến cố xã hội để duy trì cuộc sống thanh tịnh nơi thôn quê.",
+        "Nhấn mạnh việc tích lũy tài sản vật chất là cách thức duy nhất để vượt qua những nỗi bất hạnh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Charles Dickens khuyên chúng ta hãy suy ngẫm về những phúc lành dồi dào mà ai cũng có rất nhiều trong hiện tại, thay vì dồn tâm trí vào một vài điều bất hạnh không như ý vốn ai cũng phải trải qua đôi lần."
+    },
+    {
+      "id": "q2",
+      "question": "Về mặt tâm lý học thần kinh, hòn đá ma thuật đóng vai trò như thế nào trong đời sống hàng ngày?",
+      "options": [
+        "Một vật phẩm phong thủy thần bí có khả năng phát ra các luồng sóng điện từ chữa lành bệnh tật.",
+        "Một món đồ trang sức đắt tiền thể hiện sự sang trọng và đẳng cấp của người thực hành phương pháp.",
+        "Một mỏ neo vật lý cụ thể giúp kích hoạt phản xạ có điều kiện nhắc nhở tâm trí về lòng biết ơn.",
+        "Một công cụ kiểm tra sức mạnh cơ bắp của bàn tay thông qua áp lực nắm giữ trước giờ đi ngủ đêm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hòn đá đóng vai trò như một điểm neo xúc giác (physical anchor): khi nhìn thấy hoặc cầm vào hòn đá, não bộ lập tức kích hoạt phản xạ có điều kiện đã được rèn luyện, nhắc nhở tâm trí chuyển hướng về lòng biết ơn."
+    },
+    {
+      "id": "q3",
+      "question": "Câu chuyện người cha dùng hòn đá biết ơn để cứu con trai trong lời kể của Lee Brower mang bài học gì?",
+      "options": [
+        "Niềm tin tôn giáo cuồng nhiệt có thể thay thế hoàn toàn cho mọi phác đồ điều trị y học hiện đại.",
+        "Sức mạnh tập trung của tâm thức vào sức khỏe và lòng biết ơn có thể tạo nên sự hồi phục kỳ diệu.",
+        "Người cha nên mua những loại đá quý hiếm nhất trên thế giới để cầu nguyện cho sự sống của con.",
+        "Các bậc phụ huynh phải tự mình gánh chịu mọi đau đớn thay cho con cái bằng những lời thề nguyền."
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu chuyện trong The Secret minh chứng sức mạnh kỳ diệu của lòng biết ơn tập trung: người cha kiên trì mang hòn đá và tri ân sức khỏe của con trai mỗi ngày đã kích hoạt sự chuyển biến kỳ diệu giúp cậu bé hồi phục."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao hòn đá ma thuật lại cần có các đặc điểm như trơn nhẵn, vừa lòng bàn tay và không có cạnh sắc?",
+      "options": [
+        "Để tránh việc làm rách ga trải giường hoặc làm vỡ đồng hồ báo thức khi lỡ tay làm rơi trong đêm.",
+        "Nhằm tuân thủ các quy chuẩn khắt khe về địa chất học trong việc phân loại các khoáng vật tự nhiên.",
+        "Giúp người dùng có thể dễ dàng cất giấu khỏi sự tò mò của những người sống cùng trong một gia đình.",
+        "Tạo cảm giác dễ chịu, thư thái khi chạm vào, giúp tâm trí nhanh chóng đi vào trạng thái bình an sâu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Một hòn đá vừa vặn, trơn láng, không sắc nhọn mang lại cảm giác dễ chịu và thân thiện khi xúc chạm; sự thư thái của xúc giác giúp giải tỏa căng thẳng cơ thể và dẫn dắt tâm trí vào trạng thái tĩnh lặng an lành."
+    },
+    {
+      "id": "q5",
+      "question": "Vị trí đặt hòn đá ma thuật ngay cạnh giường ngủ (gần đồng hồ báo thức) nhằm mục đích gì?",
+      "options": [
+        "Đảm bảo người thực hành chắc chắn sẽ nhìn thấy nó vào khoảnh khắc chuẩn bị khép lại một ngày sống.",
+        "Tăng tính thẩm mỹ cho không gian phòng ngủ theo các nguyên lý sắp đặt nội thất hiện đại phương Tây.",
+        "Ngăn chặn bức xạ điện từ phát ra từ các thiết bị báo thức điện tử có thể gây hại cho hệ thần kinh.",
+        "Giúp người thực hành dễ dàng tìm thấy nó trong bóng tối khi có các tình huống khẩn cấp xảy ra đêm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đặt cạnh giường ngủ hoặc đồng hồ báo thức là vị trí chiến lược giúp tạo ra tín hiệu nhắc nhở trực quan không thể bỏ lỡ, đảm bảo người thực hành luôn nhớ cầm hòn đá trước khi chìm vào giấc ngủ."
+    },
+    {
+      "id": "q6",
+      "question": "Quy trình tìm kiếm 'điều tốt nhất' đã xảy ra trong ngày mang lại hiệu ứng nhận thức sâu sắc nào?",
+      "options": [
+        "Thôi thúc con người so sánh thành tích của bản thân với bạn bè để tìm ra sự vượt trội cá nhân mình.",
+        "Buộc não bộ phải rà soát qua toàn bộ các sự kiện tốt đẹp, từ đó tái hiện vô số cảm xúc tích cực.",
+        "Khiến người thực hành lãng quên các nhiệm vụ chưa hoàn thành và trở nên thiếu trách nhiệm công việc.",
+        "Giúp người đọc phát hiện ra những sai lầm của người khác trong ngày để đưa ra lời chỉ trích đúng lúc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Để chọn ra một điều 'tốt nhất', tâm trí buộc phải tua lại toàn bộ diễn biến trong ngày và sàng lọc qua hàng loạt điều tốt đẹp; quá trình này vô tình khiến ta sống lại và tri ân vô số niềm vui nhỏ bé trong ngày."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao việc đi ngủ trong trạng thái biết ơn lại đặc biệt quan trọng đối với tâm lý học tiềm thức?",
+      "options": [
+        "Giúp giảm lượng tiêu thụ điện năng trong gia đình vì người thực hành sẽ chìm vào giấc ngủ rất nhanh.",
+        "Ngăn ngừa hoàn toàn hiện tượng mộng du và ác mộng mà không cần sử dụng các liệu pháp y khoa điều trị.",
+        "Lập trình tiềm thức trong suốt đêm với tần số đủ đầy, thay vì để tâm trí trăn trở với nỗi âu lo.",
+        "Làm cho các giấc mơ ban đêm trở nên rõ nét để người thực hành có thể dự đoán được kết quả xổ số ngày."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ý nghĩ cuối cùng trước khi ngủ sẽ được tiềm thức tiếp nhận và xử lý liên tục trong suốt 7-8 tiếng của giấc ngủ; đi ngủ với lòng biết ơn giúp tiềm thức nuôi dưỡng sự an lạc và tái tạo năng lượng dồi dào."
+    },
+    {
+      "id": "q8",
+      "question": "Sự kết hợp giữa bài tập buổi sáng (Đếm phúc lành) và bài tập buổi tối (Hòn đá ma thuật) tạo nên điều gì?",
+      "options": [
+        "Một lịch trình sinh hoạt cứng nhắc khiến người thực hành hoàn toàn mất đi sự linh hoạt trong đời sống.",
+        "Một gánh nặng tâm lý bắt buộc người đọc phải luôn ghi nhớ bài tập thay vì tập trung vào công việc lớn.",
+        "Một sự phân định rạch ròi giữa các hoạt động tinh thần buổi sáng và các mục tiêu vật chất vào ban đêm.",
+        "Một chu trình năng lượng khép kín, đảm bảo con người bắt đầu và kết thúc mỗi ngày trong sự đủ đầy trọn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hai bài tập này tạo thành đôi cánh nâng đỡ: mở đầu ngày mới bằng 10 phúc lành và kết thúc ngày bằng hòn đá biết ơn, tạo thành một khung năng lượng bảo vệ và thu hút liên tục 24/7."
+    },
+    {
+      "id": "q9",
+      "question": "Nếu một ngày diễn ra với nhiều sự cố bực bội, người thực hành nên áp dụng bài tập hòn đá ma thuật ra sao?",
+      "options": [
+        "Bỏ qua bài tập tối hôm đó vì việc cố gắng tìm kiếm điều tốt trong nghịch cảnh là hành vi giả tạo ép.",
+        "Kiên nhẫn lọc tìm điều may mắn nhỏ nhất còn sót lại để nhận ra phúc lành vẫn luôn hiện diện xung quanh.",
+        "Đập vỡ hòn đá để giải tỏa những bức xúc ức chế dồn nén trước khi tìm kiếm một hòn đá ma thuật mới thay.",
+        "Cầm hòn đá và liệt kê toàn bộ những người đã gây ra sự cố cho mình để nhắc nhở bản thân trả đũa sau."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngay cả trong những ngày tồi tệ nhất, vẫn luôn có những ân huệ nhỏ bé (một ly nước mát, một tin nhắn hỏi thăm, sự an toàn); việc kiên nhẫn tìm ra điều tốt nhất giúp bẻ gãy mạch bi quan và cứu vãn tâm trạng trước khi ngủ."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao tác giả cho rằng việc dùng hòn đá ma thuật dường như đơn giản nhưng lại tạo ra chuyển hóa kỳ diệu?",
+      "options": [
+        "Tính đơn giản giúp thói quen dễ duy trì đều đặn mỗi ngày, trong khi sự lặp lại kiên trì tạo sức mạnh.",
+        "Vì hòn đá có cấu trúc phân tử đặc biệt có khả năng lưu giữ toàn bộ ký ức của người cầm vào trong nó.",
+        "Do tác giả đã làm phép chúc phúc lên từng trang sách trước khi xuất bản ra thị trường cho người đọc.",
+        "Vì người thực hành không cần phải suy nghĩ bất cứ điều gì mà chỉ cần cầm hòn đá lên rồi đặt xuống ngay."
+      ],
+      "correctIndex": 0,
+      "explanation": "Những phương pháp quá phức tạp thường dễ bị bỏ cuộc; chính sự giản dị, dễ thực hiện của hòn đá giúp người thực hành dễ dàng duy trì kỷ luật mỗi tối, và chính tính liên tục bền bỉ đó kiến tạo nên kỳ tích."
+    },
+    {
+      "id": "q11",
+      "question": "Thời gian duy trì bài tập Hòn Đá Ma Thuật trong cuốn sách được quy định như thế nào?",
+      "options": [
+        "Chỉ áp dụng duy nhất trong 2 ngày đầu tiên để người đọc làm quen với các khái niệm thực hành cơ bản nhất.",
+        "Thực hiện gián đoạn mỗi tuần một lần vào tối chủ nhật để tổng kết toàn bộ các sự kiện trong tuần qua.",
+        "Lặp lại vào mỗi buổi tối trước khi đi ngủ trong suốt 26 ngày tiếp theo của toàn bộ lộ trình chuyển hóa.",
+        "Chỉ cần thực hiện vào những đêm trăng rằm để hấp thu tối đa các năng lượng tinh tú từ ngoài vũ trụ vào."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bài tập này bắt đầu từ Ngày 2 và được tác giả yêu cầu thực hiện đều đặn vào tất cả các buổi tối trong suốt 26 ngày tiếp theo của chương trình 28 ngày."
+    },
+    {
+      "id": "q12",
+      "question": "Bản chất của hành động nắm chặt hòn đá trong lòng bàn tay thể hiện điều gì về mặt cơ thể học?",
+      "options": [
+        "Sự nỗ lực vận động cơ bắp nhằm tăng cường lưu thông khí huyết cho các đầu ngón tay của người lớn tuổi.",
+        "Một nghi thức thề nguyền bắt buộc của các hiệp hội huyền học phương Tây cổ xưa được lưu truyền lại nay.",
+        "Cách thức đánh thức xúc giác để làm gián đoạn các cơn buồn ngủ bất chợt ập đến vào buổi tối muộn màng.",
+        "Sự thu gom sự chú ý từ những suy nghĩ tản mạn bên ngoài về một điểm tập trung xúc giác hiện hữu tại đây."
+      ],
+      "correctIndex": 3,
+      "explanation": "Cảm giác xúc giác khi nắm chặt một vật thể có sức nặng và độ mịn màng trong lòng bàn tay giúp kéo tâm trí đang bay bổng, lo toan trở về trọn vẹn với giây phút hiện tại và điểm tập trung cảm xúc duy nhất."
+    },
+    {
+      "id": "q13",
+      "question": "Tác giả gợi ý có thể tìm Hòn Đá Ma Thuật ở những nơi nào trong đời sống thường nhật?",
+      "options": [
+        "Trong vườn nhà, bờ sông, suối, biển, công viên, nhờ người thân hoặc dùng một viên đá quý sẵn có ở nhà.",
+        "Chỉ được phép mua từ các cửa hàng phong thủy chuyên nghiệp có giấy chứng nhận chất lượng kiểm định đá.",
+        "Bắt buộc phải khai thác từ các đỉnh núi cao hiểm trở ở dãy Himalaya để đảm bảo độ tinh khiết tối đa.",
+        "Phải đặt hàng trực tiếp từ trang web chính thức của tác giả Rhonda Byrne để nhận được viên đá có phép."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh hòn đá có thể đến từ bất kỳ đâu xung quanh bạn: trong vườn, bãi biển, bờ suối, công viên, được tặng bởi người thân hoặc một viên đá quý có sẵn; bản thân hòn đá không cần đắt tiền, điều quan trọng là cảm giác tốt khi cầm."
+    },
+    {
+      "id": "q14",
+      "question": "Điểm khác biệt căn bản giữa bài tập 'Đếm những phúc lành' và 'Hòn đá ma thuật' là gì?",
+      "options": [
+        "Bài tập buổi sáng yêu cầu nói to, còn bài tập hòn đá ma thuật buổi tối bắt buộc phải viết thành văn bản.",
+        "Bài tập sáng mở rộng phạm vi ra 10 điều chi tiết, còn bài tập tối cô đọng tâm thức vào 1 điều tốt nhất.",
+        "Bài tập sáng dành cho việc giải quyết các mối quan hệ, bài tập tối chỉ tập trung vào lĩnh vực tiền bạc.",
+        "Bài tập sáng có thể bỏ qua nếu bận rộn, trong khi bài tập hòn đá ma thuật ban đêm là bài tập duy nhất."
+      ],
+      "correctIndex": 1,
+      "explanation": "Buổi sáng ta rèn luyện khả năng quan sát mở rộng bằng cách ghi nhận 10 điều biết ơn khác nhau; trong khi buổi tối ta rèn luyện năng lực chọn lọc và tập trung sâu vào một hạt nhân tích cực nhất trong ngày."
+    },
+    {
+      "id": "q15",
+      "question": "Lời nhắc nhở ma thuật ở cuối Ngày 2 yêu cầu người đọc chuẩn bị điều gì cho ngày kế tiếp?",
+      "options": [
+        "Chuẩn bị một khoản tiền mặt để tiến hành quyên góp cho một tổ chức từ thiện xã hội ngay vào buổi sáng.",
+        "Dọn dẹp sạch sẽ toàn bộ không gian phòng khách để đón tiếp những vị khách quý bất ngờ ghé thăm nhà mình.",
+        "Thu thập các bức ảnh của những người trong mối quan hệ thân thiết để thực hiện bài tập ma thuật Ngày 3.",
+        "Mua một cuốn sổ tay khổ lớn mới để ghi chép toàn bộ các giấc mơ xuất hiện trong đêm trước khi tỉnh dậy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nhắc nhở người đọc đọc trước bài tập Ngày 3 vì bạn sẽ cần phải tìm kiếm và thu thập ảnh của 3 người trong mối quan hệ thân thiết nhất trước khi bắt đầu bài tập sáng mai."
+    }
+  ]
+}

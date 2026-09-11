@@ -1,0 +1,188 @@
+{
+  "bookId": "TheMagic",
+  "chapterId": "14-ngay-08-nguyen-lieu-ma-thuat",
+  "chapterTitle": "Ngày 8: Nguyên Liệu Ma Thuật",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Mục đích của việc tác giả gợi nhắc trạng thái đói cồn cào chỉ sau vài giờ không ăn uống là gì?",
+      "options": [
+        "Cảnh báo nguy cơ tụt đường huyết nghiêm trọng dẫn đến hôn mê sâu đối với những người mắc bệnh tiểu đường.",
+        "Thức tỉnh ta thấy sự phụ thuộc sống còn vào thực phẩm, phá vỡ thói quen xem bữa ăn mỗi ngày là chuyện hiển nhiên.",
+        "Khuyên người đọc nên áp dụng các phương pháp nhịn ăn gián đoạn để thanh lọc độc tố tích tụ trong cơ thể.",
+        "Hướng dẫn cách thức tiết kiệm chi tiêu bằng việc cắt giảm khẩu phần ăn hàng ngày trong giai đoạn khủng hoảng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi đói, cơ thể bủn rủn, tâm trí lẫn lộn; điều này nhắc nhở ta rằng không có thức ăn thì ta không thể sống và suy nghĩ, do đó thực phẩm là món quà vô giá cần được tri ân."
+    },
+    {
+      "id": "q2",
+      "question": "Hình ảnh so sánh chuỗi cung ứng thực phẩm toàn cầu như một 'dàn nhạc ngoạn mục' mang hàm nghĩa triết lý nào?",
+      "options": [
+        "Đằng sau mỗi mẩu thức ăn nhỏ bé là sự hiệp lực âm thầm, kỳ công của hàng triệu con người và giới tự nhiên trên Trái Đất.",
+        "Ngành nông nghiệp công nghệ cao hiện đại cần được vận hành bởi các phần mềm trí tuệ nhân tạo phối hợp chính xác.",
+        "Các đầu bếp chuyên nghiệp cần phải có sự thăng hoa nghệ thuật giống như các nhạc trưởng chỉ huy dàn nhạc giao hưởng.",
+        "Âm nhạc cổ điển có khả năng kích thích cây trồng phát triển nhanh hơn và cho ra sản lượng hoa quả nhiều hơn bình thường."
+      ],
+      "correctIndex": 0,
+      "explanation": "Từ người gieo trồng, tưới tiêu, chăm sóc, thu hoạch, vận chuyển xuyên đêm đến chế biến, phân phối... tạo nên một dàn nhạc ngoạn mục để thức ăn có mặt trên đĩa của bạn."
+    },
+    {
+      "id": "q3",
+      "question": "Trích dẫn của Loren Eiseley: 'Nếu có ma thuật trên hành tinh này thì nó sẽ chứa trong nước' nhấn mạnh vai trò gì của nước?",
+      "options": [
+        "Nước là một hợp chất hóa học đơn giản gồm hai nguyên tử hydro và một nguyên tử oxy có thể dễ dàng tổng hợp được.",
+        "Nước có khả năng hòa tan mọi chất rắn trong tự nhiên để tạo thành các dung dịch khoáng chất phục vụ cho nông nghiệp.",
+        "Nước là huyết mạch tạo nên và duy trì mọi sự sống, vận hành hầu hết các hoạt động sản xuất công nghiệp của loài người.",
+        "Nước biển chiếm ba phần tư diện tích địa cầu và là nguồn cung cấp hơi ẩm chính cho các chu kỳ mưa gió toàn cầu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nước không chỉ duy trì cơ thể sống mà còn dùng để trồng trọt, nấu ăn, làm mát động cơ, cứu mạng ở bệnh viện, đào khoáng sản, sản xuất nhựa, kính, kim loại, thuốc men..."
+    },
+    {
+      "id": "q4",
+      "question": "Theo lập luận của tác giả, lòng biết ơn đối với thực phẩm và nước uống có thể tạo ra tác động vĩ mô nào trên quy mô toàn cầu?",
+      "options": [
+        "Làm giảm lượng rác thải nhựa công nghiệp trôi nổi trên các đại dương nhờ sự gia tăng ý thức bảo vệ môi trường biển.",
+        "Thúc đẩy các tổ chức tài chính quốc tế xóa nợ hoàn toàn cho các quốc gia nghèo tại khu vực châu Phi cận Sahara.",
+        "Tạo ra các cuộc đàm phán thương mại tự do giúp hạ giá thành các mặt hàng lương thực thiết yếu tại các siêu thị lớn.",
+        "Theo quy luật hành động - phản hồi, sự biết ơn tập thể sẽ thu hút sự dư dả, góp phần đẩy lùi nạn đói nghèo trên thế giới."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả chỉ ra theo luật hấp dẫn và định luật thứ 3 Newton, tác động của sự biết ơn đại chúng sẽ tạo ra sự hồi đáp ngang bằng, thay đổi sự khan hiếm thực phẩm và nước cho nhân loại."
+    },
+    {
+      "id": "q5",
+      "question": "Mối liên hệ giữa niềm tin cổ xưa về việc 'thanh lọc thức ăn bằng lòng biết ơn' và 'Hiệu ứng người quan sát' trong vật lý lượng tử là gì?",
+      "options": [
+        "Vật lý lượng tử đã bác bỏ hoàn toàn những quan niệm mê tín thời cổ xưa về năng lượng vô hình của các lời cầu nguyện.",
+        "Ý thức và sự tập trung biết ơn của con người có thể làm biến đổi cấu trúc năng lượng, giúp thức ăn trở nên tinh khiết hơn.",
+        "Cả hai khái niệm đều khẳng định rằng mắt người phát ra các tia bức xạ có thể tiêu diệt vi khuẩn bám trên đồ ăn tươi sống.",
+        "Hiệu ứng người quan sát chỉ áp dụng cho các hạt hạ nguyên tử trong chân không chứ không liên quan đến vật chất sinh học."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiệu ứng người quan sát trong lượng tử chứng minh việc quan sát làm biến đổi đối tượng; tương tự, ý thức biết ơn của ta có thể thay đổi cấu trúc năng lượng, thanh lọc thức ăn và nước uống."
+    },
+    {
+      "id": "q6",
+      "question": "Thí nghiệm đơn giản về việc 'ngậm và tập trung vào vị của thức ăn trong miệng' chứng minh điều gì về mặt cảm giác?",
+      "options": [
+        "Thực phẩm công nghiệp hiện đại sử dụng quá nhiều chất điều vị tổng hợp nên cần phải nhai thật kỹ để giảm độc tố.",
+        "Thời gian nuốt thức ăn càng chậm thì lượng enzym tiêu hóa tiết ra càng ít làm ảnh hưởng xấu đến chức năng dạ dày.",
+        "Năng lượng tập trung và lòng biết ơn lập tức đánh thức các thụ thể vị giác, khiến hương vị bùng nổ thơm ngon hơn hẳn.",
+        "Khả năng cảm thụ mùi vị phụ thuộc hoàn toàn vào cấu trúc gen di truyền chứ không chịu tác động của sự chú ý tâm trí."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi tập trung thưởng thức và biết ơn, hương vị dường như bùng nổ; khi ăn xao nhãng không tập trung, hương vị giảm hẳn. Đó là năng lượng của sự chú tâm và biết ơn."
+    },
+    {
+      "id": "q7",
+      "question": "Hành động vẫy ngón tay hoặc hình dung cầm lọ rắc 'bụi ma thuật' lên món ăn trước khi dùng có ý nghĩa tâm lý gì?",
+      "options": [
+        "Cụ thể hóa ý niệm lòng biết ơn thành một nghi thức trực quan sinh động, giúp tâm trí thực sự thấu cảm sự thanh lọc diệu kỳ.",
+        "Một động tác thể dục ngón tay nhẹ nhàng giúp kích thích các huyệt đạo ở đầu chi trước khi cầm đũa hoặc thìa ăn cơm.",
+        "Một cách bắt chước các nhân vật trong truyện cổ tích để làm cho trẻ em trong gia đình cảm thấy hứng thú ăn rau củ hơn.",
+        "Phương pháp tự thôi miên nhằm đánh lừa cảm giác đói giúp giảm cân hiệu quả mà không cần dùng đến thuốc ức chế thèm ăn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tưởng tượng rắc bụi ma thuật biến lòng biết ơn thành 'nguyên liệu diệu kỳ' hữu hình trong tâm thức, giúp người thực hành kết nối sâu sắc và chân thành với sự tri ân."
+    },
+    {
+      "id": "q8",
+      "question": "Tác giả hướng dẫn xử lý như thế nào nếu trong ngày bạn nhận ra mình đã quên nói lời cảm ơn trước khi ăn uống?",
+      "options": [
+        "Lập tức nhịn ăn hoàn toàn bữa tiếp theo để phạt bản thân vì đã thiếu kỷ luật trong việc rèn luyện thói quen ma thuật.",
+        "Uống ngay một ly nước lớn và đọc to mười lần câu thần chú cảm ơn để bù đắp lại lượng năng lượng thiếu hụt trong ngày.",
+        "Bỏ qua sự việc và tự nhủ rằng lòng biết ơn trong suy nghĩ lúc đi ngủ có thể thay thế toàn bộ các bài tập ban ngày.",
+        "Nhắm mắt lại, tua ngược tâm trí về 1-2 giây trước khi ăn uống và nói từ cảm ơn; nếu quên nhiều lần, hãy làm lại ngày mai."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả dặn: ngay khi nhớ ra, hãy nhắm mắt lại, quay lại suy nghĩ về thời điểm 1-2 giây trước khi ăn uống và nói từ ma thuật; nếu quên nhiều lần hãy lặp lại bài tập vào ngày hôm sau."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao tác giả lại gọi lòng biết ơn đối với thức ăn và nước uống là 'sợi chỉ vàng rực rỡ' trong cuộc đời bạn?",
+      "options": [
+        "Vì nó là bài tập tốn kém nhất đòi hỏi người thực hành phải mua sắm những thực phẩm hữu cơ đắt tiền nhất trên thị trường.",
+        "Vì nó kết nối xuyên suốt, nâng tầm và bảo hộ cho tất cả những gì bạn yêu quý, trân trọng và ước mơ trong cuộc sống.",
+        "Vì sợi chỉ vàng là một biểu tượng phong thủy truyền thống mang lại tài lộc dồi dào cho các chủ nhà hàng và quán ăn.",
+        "Vì nó là phương pháp duy nhất giúp người thực hành chữa lành mọi chứng dị ứng thực phẩm mạn tính nguy hiểm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả viết: 'sự biết ơn của bạn cho thực phẩm và nước... sẽ dệt nên sợi chỉ vàng rực rỡ xuyên qua tất cả những gì có ý nghĩa với bạn, tất cả những gì bạn yêu, và tất cả những gì bạn mơ'."
+    },
+    {
+      "id": "q10",
+      "question": "Lý do vì sao trong xã hội hiện đại, con người thường dễ dàng lãng quên việc cảm ơn trước mỗi bữa ăn?",
+      "options": [
+        "Do luật pháp các quốc gia tiên tiến nghiêm cấm thực hiện các nghi thức tôn giáo công khai tại các địa điểm ăn uống công cộng.",
+        "Do chất lượng vệ sinh an toàn thực phẩm ngày càng giảm sút khiến người tiêu dùng luôn mang tâm lý hoài nghi và lo sợ.",
+        "Do nhịp sống hối hả, thức ăn sẵn có thừa mứa khiến con người ăn uống vội vã trong vô thức mà quên đi nguồn cội sự sống.",
+        "Do chi phí cho một bữa ăn tại các nhà hàng hiện đại đã bao gồm phí dịch vụ nên thực khách không cảm thấy cần phải biết ơn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhịp sống gấp gáp của thế kỷ 21 cùng sự tiện lợi của thực phẩm làm con người quên mất sự kỳ công đằng sau bữa ăn, biến hành động ăn uống thành phản xạ máy móc thiếu sự chú tâm."
+    },
+    {
+      "id": "q11",
+      "question": "Theo logic của chương, điều gì khẳng định mức độ sâu sắc nhất của lòng biết ơn mà một người có thể chạm tới?",
+      "options": [
+        "Khả năng rung động và cảm nhận lòng tri ân chân thành đối với những điều bình dị, thiết yếu nhất như cơm ăn và nước uống.",
+        "Số lượng tài sản vật chất và tiền bạc mà bạn có thể quyên góp cho các chương trình cứu trợ nạn đói của Liên Hợp Quốc.",
+        "Khả năng đọc thuộc lòng toàn bộ các bài kinh tạ ơn cổ xưa bằng tiếng Phạn hoặc tiếng Latin mà không cần nhìn tài liệu.",
+        "Việc kiêng khem tất cả các món ăn có nguồn gốc từ động vật để chuyển sang chế độ dinh dưỡng thuần thực vật khắt khe."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả chỉ rõ: 'Trở nên biết ơn cho những điều đơn giản trong cuộc sống, như thức ăn và nước uống, là một trong những sự biểu lộ sâu sắc nhất của sự biết ơn'."
+    },
+    {
+      "id": "q12",
+      "question": "Việc biết ơn nước uống có ý nghĩa bao quát như thế nào đối với nền văn minh nhân loại theo phân tích trong bài?",
+      "options": [
+        "Nước chỉ có vai trò giải khát đơn thuần cho cơ thể người chứ không tham gia vào các tiến trình công nghiệp nặng phức tạp.",
+        "Nước là thành tố quyết định vận hành năng lượng, y tế, giao thông, xây dựng và mọi sản phẩm tiện nghi xung quanh chúng ta.",
+        "Nước là nguồn tài nguyên vô tận không bao giờ cạn kiệt nên con người có thể sử dụng thoải mái mà không cần bảo tồn.",
+        "Biết ơn nước là trách nhiệm độc quyền của các công ty cấp thoát nước đô thị chứ không liên quan đến từng người dân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả liệt kê hàng loạt ứng dụng của nước: làm mát động cơ, chạy bệnh viện, chất đốt, khai khoáng, làm nhựa, kính, kim loại, thuốc men, xây nhà... Không có nước thì toàn bộ nền văn minh sụp đổ."
+    },
+    {
+      "id": "q13",
+      "question": "Câu ngạn ngữ mở đầu của W. J. Cameron 'Một trái tim biết ơn có hội hè không dứt' mang thông điệp cốt lõi nào?",
+      "options": [
+        "Những người có lối sống lạc quan luôn tổ chức các bữa tiệc tùng xa hoa để phô trương sự giàu có của gia đình mình.",
+        "Chỉ những ai tham gia vào các lễ hội tôn giáo truyền thống hàng năm mới có thể lĩnh hội được sự bình an nội tâm.",
+        "Người nuôi dưỡng lòng biết ơn luôn tìm thấy niềm hân hoan, sự phong phú và vị ngọt ngào của cuộc sống trong từng khoảnh khắc.",
+        "Trái tim con người chỉ thực sự khỏe mạnh khi được kích thích bởi tiếng nhạc rộn rã trong các buổi dạ hội khiêu vũ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi có lòng biết ơn, mỗi bữa ăn, mỗi ngụm nước và mỗi khoảnh khắc đều trở thành một ngày hội hoan ca của tâm hồn, tràn đầy sự trân quý và ngọt ngào."
+    },
+    {
+      "id": "q14",
+      "question": "Trước khi ăn một miếng bánh hay uống một ngụm nước, yêu cầu tối thiểu của bài tập Ngày 8 là gì?",
+      "options": [
+        "Dành một khoảnh khắc nhìn vào thứ chuẩn bị ăn uống, và trong tâm trí hoặc bằng lời nói ra từ ma thuật 'cảm ơn'.",
+        "Phải đọc to một bài văn tạ ơn dài ba đoạn trước sự chứng kiến của tất cả những người cùng ngồi chung mâm cơm.",
+        "Rửa tay bằng nước ấm đúng quy trình y tế bảy bước để đảm bảo vô trùng tuyệt đối trước khi chạm vào đồ ăn.",
+        "Kiểm tra hàm lượng calo và các chất phụ gia ghi trên bao bì sản phẩm để bảo đảm không vượt quá chỉ số cho phép."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hướng dẫn thực hành: 'dành một khoảnh khắc để nhìn vào những gì bạn đang chuẩn bị ăn hoặc uống, và trong thâm tâm hoặc bằng lời nói, hãy nói từ ma thuật, cảm ơn!'."
+    },
+    {
+      "id": "q15",
+      "question": "Tại sao tác giả lại cảnh báo 'Bạn không thể bỏ lỡ một ngày nào để xây dựng sự biết ơn – những giấc mơ của bạn tùy thuộc vào điều đó'?",
+      "options": [
+        "Vì nếu bạn bỏ lỡ một ngày, hợp đồng bảo hiểm nhân thọ của bạn sẽ lập tức bị hủy bỏ hiệu lực bồi thường theo quy định.",
+        "Vì não bộ sẽ tự động xóa sạch các nơ-ron thần kinh tích cực nếu không được kích hoạt liên tục trong vòng 12 giờ đồng hồ.",
+        "Vì tác giả muốn bán thêm các khóa học đào tạo trực tuyến chuyên sâu dành cho những học viên bị gián đoạn việc học tập.",
+        "Vì lòng biết ơn là nguồn nhiên liệu liên tục kiến tạo tương lai; sự ngắt quãng làm suy giảm đà vận hành của luật hấp dẫn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lòng biết ơn là quá trình xây dựng động lượng (momentum) liên tục cho tâm thức để thu hút ước mơ; nếu lơ là ngắt quãng, dòng chảy ma thuật sẽ bị chậm lại."
+    }
+  ]
+}

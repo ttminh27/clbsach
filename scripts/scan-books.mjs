@@ -232,6 +232,20 @@ const placeholderMetadata = {
     gradient: "from-emerald-800 via-teal-900 to-stone-900",
     themeColor: "#15803d",
     status: "available"
+  },
+  "TheMagic": {
+    title: "The Magic (Phép Màu)",
+    originalTitle: "The Magic",
+    author: "Rhonda Byrne",
+    authorBio: "Nhà văn, nhà sản xuất truyền hình người Úc, tác giả của hiện tượng toàn cầu 'The Secret' (Luật Hấp Dẫn) và bộ sách thay đổi cuộc đời hàng triệu người trên thế giới.",
+    quote: "Người nào đã có sẵn sẽ được ban tặng thêm và người đó sẽ có dư dả đủ đầy. Người nào không có sẵn thì thậm chí những gì người đó đã có cũng sẽ bị tước đi.",
+    translator: "Nguyễn Văn Thảo",
+    category: "Triết lý sống & Tỉnh thức",
+    tags: ["The Magic", "Phép màu", "Lòng biết ơn", "Rhonda Byrne", "28 ngày thực hành", "Luật hấp dẫn", "Tư duy tích cực"],
+    description: "Tác phẩm kinh điển mở ra cánh cửa phép màu nhiệm màu trong đời thực qua 28 ngày thực hành lòng biết ơn sâu sắc, giúp chuyển hóa sức khỏe, tiền bạc, sự nghiệp, các mối quan hệ và biến mọi ước mơ thành hiện thực.",
+    gradient: "from-amber-600 via-yellow-600 to-amber-900",
+    themeColor: "#b45309",
+    status: "available"
   }
 };
 

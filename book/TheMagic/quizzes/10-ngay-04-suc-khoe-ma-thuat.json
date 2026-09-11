@@ -1,0 +1,188 @@
+{
+  "bookId": "TheMagic",
+  "chapterId": "10-ngay-04-suc-khoe-ma-thuat",
+  "chapterTitle": "Ngày 4: Sức Khỏe Ma Thuật",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Câu ngạn ngữ Ý 'Một người hưởng thụ sức khỏe tốt chính là giàu có, mặc dù anh ta không biết' chỉ ra thiên kiến tâm lý phổ biến nào ở con người?",
+      "options": [
+        "Con người chỉ xem trọng tài chính hữu hình mà quên rằng thể chất tráng kiện là nền tảng tối thượng tạo ra của cải.",
+        "Con người có xu hướng coi sức khỏe là điều hiển nhiên và chỉ nhận thức được giá trị khi đã đánh mất trạng thái đó.",
+        "Con người luôn đánh giá thấp chi phí điều trị y tế cho đến khi phải đối mặt với những cơn đau bệnh hiểm nghèo phát sinh.",
+        "Con người thường ngộ nhận rằng việc chăm chỉ lao động kiếm sống quan trọng hơn việc gìn giữ thể lực mỗi ngày."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ ra rằng đa số chúng ta xem sức khỏe là điều đương nhiên, chỉ khi ngã bệnh hoặc mất đi sức khỏe thì mới giật mình nhận ra không có sức khỏe là không có gì cả."
+    },
+    {
+      "id": "q2",
+      "question": "Theo góc nhìn của cuốn sách, tại sao nhiều người dù duy trì lối sống khoa học và tập luyện chăm chỉ vẫn có thể bị suy giảm sức khỏe?",
+      "options": [
+        "Bởi vì họ thiếu đi lòng biết ơn sâu sắc đối với cơ thể, làm gián đoạn dòng chảy năng lượng nuôi dưỡng sự sống dồi dào.",
+        "Bởi vì môi trường sống ô nhiễm và chế độ dinh dưỡng công nghiệp triệt tiêu toàn bộ nỗ lực rèn luyện thể thao hàng ngày.",
+        "Bởi vì cường độ vận động quá mức gây quá tải cho các nhóm cơ bắp và làm cạn kiệt nguồn năng lượng dự trữ sinh học.",
+        "Bởi vì các yếu tố di truyền tiêu cực luôn có sức mạnh vượt trội hơn bất kỳ chế độ tập luyện hay ăn uống lành mạnh nào."
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo nguyên lý của The Magic, bên cạnh lối sống lành mạnh, lòng biết ơn là yếu tố sống còn; nếu không biết ơn những gì nhận được, theo quy luật thì ngay cả những gì đang có cũng sẽ bị lấy đi."
+    },
+    {
+      "id": "q3",
+      "question": "Nhận định của John Henry Jowett: 'Lòng biết ơn là vắc-xin, kháng độc tố, và là chất khử trùng' hàm ý cơ chế điều hòa nào của tâm thức đối với thể chất?",
+      "options": [
+        "Lòng biết ơn có khả năng tiêu diệt trực tiếp các vi khuẩn gây bệnh trong đường ruột như một loại dược phẩm tự nhiên.",
+        "Lòng biết ơn tạo ra phản xạ có điều kiện giúp hệ miễn dịch phát hiện sớm các mầm bệnh lạ xâm nhập vào trong cơ thể.",
+        "Lòng biết ơn giải tỏa stress và lo âu, ngăn chặn sự suy thoái tế bào và kích hoạt cơ chế tự phục hồi của sinh thể.",
+        "Lòng biết ơn kích thích tuyến thượng thận sản sinh adrenaline liên tục nhằm gia tăng sức chịu đựng của hệ cơ bắp."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khoa học đã chứng minh stress và áp lực là căn nguyên của nhiều bệnh tật; lòng biết ơn xoa dịu tâm trí, giải tỏa căng thẳng và thúc đẩy tốc độ lành bệnh nhanh hơn."
+    },
+    {
+      "id": "q4",
+      "question": "Dấu hiệu rõ ràng nhất cho thấy một người đang sống trong trạng thái 'sức khỏe suy giảm' theo lập luận của tác giả là gì?",
+      "options": [
+        "Chỉ số xét nghiệm máu định kỳ vượt quá ngưỡng an toàn cho phép và xuất hiện các cơn sốt cao kéo dài liên tục.",
+        "Khả năng thích nghi kém trước những thay đổi thời tiết thất thường cùng các triệu chứng mất ngủ kinh niên xảy ra.",
+        "Không thể hoàn thành các bài kiểm tra thể lực tiêu chuẩn và thường xuyên gặp chấn thương trong sinh hoạt thường nhật.",
+        "Luôn cảm thấy cuộc sống nặng nề như một nỗ lực gượng gạo, thiếu sức sống và không cảm nhận được sự trẻ trung tươi mới."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả chỉ rõ nếu bạn cảm thấy nặng nề, cuộc sống như một nỗ lực gượng gạo để vượt qua, hoặc không thấy trẻ hơn tuổi thì bạn đang sống với sức khỏe suy giảm do thiếu lòng biết ơn."
+    },
+    {
+      "id": "q5",
+      "question": "Khi thực hành bài tập biết ơn đôi chân và bàn chân, ý nghĩa sâu xa nhất cần được khai mở trong nhận thức là gì?",
+      "options": [
+        "Đôi chân là bộ phận nâng đỡ toàn bộ trọng lượng cơ thể giúp chúng ta tự tin diện những trang phục đẹp đẽ khi ra ngoài.",
+        "Đôi chân giúp tăng cường tuần hoàn máu từ các chi dưới về tim nhằm duy trì huyết áp ổn định cho hệ tim mạch khỏe mạnh.",
+        "Khả năng đi lại độc lập của đôi chân chính là món quà ban tặng quyền tự do cơ bản nhất để khám phá và thụ hưởng đời sống.",
+        "Đôi bàn chân là nơi chứa đựng các huyệt đạo quan trọng kết nối trực tiếp với toàn bộ lục phủ ngũ tạng trong sinh vật."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đôi chân cho phép ta di chuyển, bước vào bếp uống nước, đi dạo bờ biển, v.v., và quan trọng nhất: 'Khả năng đi lại cho chúng ta sự tự do để hưởng thụ cuộc sống'."
+    },
+    {
+      "id": "q6",
+      "question": "Thực hành tập trung vào lý do 'TẠI SAO bạn biết ơn' từng bộ phận trên cơ thể mang lại tác động tâm lý - nhận thức nào?",
+      "options": [
+        "Giúp thỏa mãn tính tò mò khoa học về mặt giải phẫu học và sinh lý học của các cơ quan phức tạp bên trong cơ thể.",
+        "Kích hoạt cảm xúc rung động chân thành từ bên trong thay vì chỉ lặp lại những câu từ sáo rỗng trên bề mặt ý thức.",
+        "Giúp người thực hành ghi nhớ chính xác vị trí chức năng sinh học của từng tế bào để thuận tiện cho việc trị liệu.",
+        "Tạo thói quen phân tích logic các hiện tượng tự nhiên nhằm nâng cao chỉ số thông minh cảm xúc cho người tham gia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh: 'khi bạn nghĩ về TẠI SAO bạn biết ơn, điều đó sẽ giúp bạn cảm nhận sự biết ơn sâu sắc hơn và thấy những kết quả đáng kinh ngạc trong cơ thể mình'."
+    },
+    {
+      "id": "q7",
+      "question": "Gợi ý 'hãy thử bịt mắt lại trong một giờ' của tác giả nhằm tạo ra bước chuyển hóa nhận thức nào ở người đọc?",
+      "options": [
+        "Chuyển từ thái độ xem thị lực là điều tất nhiên sang sự trân quý sâu sắc vai trò định hướng đời sống của đôi mắt.",
+        "Rèn luyện khả năng định hướng bằng thính giác và xúc giác để phòng ngừa nguy cơ suy giảm thị lực khi về già.",
+        "Giúp hệ thần kinh thị giác được nghỉ ngơi tuyệt đối sau thời gian dài tiếp xúc với các màn hình thiết bị điện tử.",
+        "Thử nghiệm phương pháp thiền định bóng tối nhằm gia tăng sự tập trung tinh thần trước khi thực hiện bài tập mới."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi thử bịt mắt trong một giờ và cố gắng làm những việc thường ngày, ta mới thấu hiểu sự bất tiện tột cùng và từ đó nhận thức sâu sắc rằng thị lực không phải là điều nghiễm nhiên."
+    },
+    {
+      "id": "q8",
+      "question": "Khía cạnh kỳ diệu nhất của các cơ quan nội tạng được tác giả nhấn mạnh nhằm khơi dậy lòng tri ân là gì?",
+      "options": [
+        "Khả năng tự sao chép DNA hoàn hảo mà không hề xảy ra bất kỳ sai sót nào trong suốt chu kỳ phân bào liên tục.",
+        "Khả năng dự trữ năng lượng sinh hóa khổng lồ giúp cơ thể vượt qua những giai đoạn thiếu thốn thức ăn dài ngày.",
+        "Cấu trúc giải phẫu tinh xảo đến mức các nhà khoa học hiện đại chưa thể chế tạo ra các vật liệu nhân tạo thay thế.",
+        "Sự vận hành liên tục, tự động thanh lọc và tái tạo sự sống suốt 24/7 mà không cần ta phải bận tâm suy nghĩ hay chỉ đạo."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả lưu ý các bộ phận đang liên tục thanh lọc, làm sạch và làm mới hoàn toàn tự động mà thậm chí không cần chúng ta phải có ý thức hay suy nghĩ về điều đó."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao tác giả lại khẳng định trái tim là cơ quan màu nhiệm nhất, vượt lên trên mọi giác quan và bộ phận khác?",
+      "options": [
+        "Bởi vì trái tim là cội nguồn bơm truyền dòng nhựa sống liên tục đến nuôi dưỡng mọi tế bào và cơ quan trong toàn bộ cơ thể.",
+        "Bởi vì nhịp đập của trái tim phát ra từ trường sinh học mạnh nhất điều khiển cảm xúc và tư duy logic của con người.",
+        "Bởi vì trái tim là cơ quan duy nhất không bao giờ có nguy cơ mệt mỏi hay thoái hóa tế bào trong suốt cuộc đời con người.",
+        "Bởi vì cấu tạo các van tim hoạt động hoàn toàn bằng cơ học tự nhiên mà không cần bất kỳ tín hiệu thần kinh kích thích nào."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả chỉ rõ: 'Trái tim bạn điều hành cuộc sống của mọi cơ quan khác, bởi vì trái tim đã giữ sự sống lưu chuyển tới mọi cơ quan trong cơ thể bạn'."
+    },
+    {
+      "id": "q10",
+      "question": "Hành động viết dòng chữ 'MÓN QUÀ CỦA SỨC KHỎE LÀ GIỮ CHO TÔI SỐNG' và đặt nơi dễ thấy đóng vai trò gì trong tâm lý học nhận thức?",
+      "options": [
+        "Một lời nhắc nhở người thân trong gia đình cần chú ý quan tâm và chăm sóc sức khỏe của bản thân nhiều hơn mỗi ngày.",
+        "Một phương thức trang trí không gian làm việc nhằm tạo ấn tượng về lối sống tích cực đối với khách hàng và đồng nghiệp.",
+        "Một mỏ neo thị giác liên tục ngắt quãng dòng suy nghĩ vô thức, đưa tâm trí quay về nhận thức trân trọng sự sống hiện hữu.",
+        "Một cam kết mang tính biểu tượng giúp loại bỏ hoàn toàn các thói quen sinh hoạt có hại như thức khuya hay ăn vặt."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tấm thẻ đóng vai trò như một mỏ neo thị giác (visual anchor), giúp ngắt mạch lo toan thường nhật và kích hoạt lòng biết ơn ít nhất 4 lần mỗi ngày."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao phương pháp yêu cầu 'đọc thật chậm từng chữ một' khi nhìn thấy tấm thẻ sức khỏe?",
+      "options": [
+        "Để người đọc kiểm tra xem mình có phát âm đúng ngữ pháp và âm điệu chuẩn xác của thông điệp được viết ra hay không.",
+        "Để tâm trí có đủ khoảng lặng thẩm thấu ngữ nghĩa và chuyển hóa ngôn từ thành xung động cảm xúc biết ơn chân thực.",
+        "Để kéo dài thời gian nghỉ ngơi giữa các ca làm việc căng thẳng giúp mắt được thư giãn và giảm áp lực thị giác.",
+        "Để đảm bảo bộ não có thể ghi nhớ chính xác từng ký tự chữ cái vào vùng trí nhớ dài hạn phục vụ cho các ngày sau."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đọc chậm rãi từng chữ giúp ngăn cản phản xạ đọc lướt máy móc, tạo không gian nội tâm để cảm xúc biết ơn món quà sức khỏe được bộc lộ sâu sắc."
+    },
+    {
+      "id": "q12",
+      "question": "Quan điểm của tác giả về mối quan hệ giữa lòng biết ơn và các phương pháp y học truyền thống là gì?",
+      "options": [
+        "Lòng biết ơn kết hợp với y học chính thống sẽ tạo ra sức mạnh cộng hưởng tối ưu, đẩy nhanh quá trình hồi phục kỳ diệu.",
+        "Lòng biết ơn có thể thay thế hoàn toàn mọi đơn thuốc và phác đồ điều trị của bệnh viện đối với mọi chứng bệnh nan y.",
+        "Y học truyền thống chỉ chữa phần ngọn thể xác còn lòng biết ơn chữa bệnh tâm lý nên hai lĩnh vực này hoàn toàn tách biệt.",
+        "Chỉ khi các liệu pháp y học cổ truyền thất bại thì bệnh nhân mới nên tìm đến sức mạnh ma thuật của lòng biết ơn cơ thể."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả viết: 'Nếu lòng biết ơn được sử dụng kết hợp với những phương pháp chữa trị truyền thống, bạn sẽ thấy sức khỏe hoàn toàn thay đổi, cùng với sự hồi phục và những phép màu mà bạn chưa bao giờ thấy trước đó'."
+    },
+    {
+      "id": "q13",
+      "question": "Theo phân tích trong chương, cảm giác thân thể (xúc giác) giữ vai trò cốt lõi nào đối với sự kết nối con người?",
+      "options": [
+        "Giúp cơ thể phát hiện tức thì những biến đổi của nhiệt độ môi trường bên ngoài để điều hòa thân nhiệt nội tại ổn định.",
+        "Là công cụ duy nhất giúp con người định hình không gian ba chiều khi các giác quan khác bị tổn thương hoặc mất mát.",
+        "Giúp hệ thần kinh trung ương kích thích phản xạ tự vệ rút lui trước những tác nhân gây tổn thương vật lý nguy hiểm.",
+        "Cho phép ta trao đi và đón nhận tình yêu thông qua cái ôm nồng ấm hay cái chạm tay đầy ý nghĩa giữa người với người."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả chỉ rõ: 'Cảm giác của thân thể giúp bạn âu yếm những người yêu thương với một cái ôm nồng ấm, và cảm nhận việc chạm tay từ người này sang người khác là một trong những thứ quý giá nhất trong cuộc sống'."
+    },
+    {
+      "id": "q14",
+      "question": "Theo nguyên lý của The Magic, khi một người bắt đầu thực hành biết ơn sức khỏe một cách sâu sắc, chuyển biến tức thì nào sẽ diễn ra?",
+      "options": [
+        "Các chỉ số nhịp tim và huyết áp sẽ lập tức trở về mức hoàn hảo ngay cả khi đang vận động thể lực ở cường độ cao.",
+        "Các cơn đau nhức nhỏ thuyên giảm, sẹo mờ dần, đồng thời năng lượng, sức sống và niềm vui sống gia tăng trông thấy.",
+        "Thị lực và thính lực phục hồi 100% về trạng thái nguyên bản mà không cần sự can thiệp của kính thuốc hay máy trợ thính.",
+        "Người thực hành sẽ không bao giờ bị lây nhiễm bất kỳ loại virus cảm cúm nào nữa trong suốt khoảng đời còn lại."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nêu: 'Những sự đau nhức nhỏ, những nốt hay sẹo sẽ biến mất một cách thần kỳ, và bạn sẽ nhận thấy năng lượng, sức sống, và sự hạnh phúc gia tăng rõ rệt'."
+    },
+    {
+      "id": "q15",
+      "question": "Quy luật tương hỗ giữa lòng biết ơn và sức khỏe được đúc kết thành nguyên lý then chốt nào trong chương?",
+      "options": [
+        "Mức độ biết ơn thể chất chỉ phát huy tác dụng khi kết hợp với chế độ ăn chay trường và ngồi thiền ít nhất hai giờ mỗi ngày.",
+        "Sức khỏe phụ thuộc hoàn toàn vào số lần bạn đọc lời cảm ơn to thành tiếng trước mặt mọi người xung quanh trong một tuần.",
+        "Mức độ biết ơn chính xác là tỷ lệ sức khỏe gia tăng, và mức độ thiếu biết ơn cũng tương ứng với mức độ sức khỏe suy giảm.",
+        "Lòng biết ơn chỉ có khả năng bảo vệ sức khỏe hiện tại chứ không thể làm đảo ngược quá trình lão hóa tự nhiên của con người."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định: 'Mức độ mà bạn biết ơn cho sức khỏe của mình chính xác là mức độ mà sức khỏe của bạn sẽ gia tăng thần kỳ, và mức độ mà bạn không biết ơn cũng chính xác là mức độ mà sức khỏe của bạn sẽ giảm xuống'."
+    }
+  ]
+}

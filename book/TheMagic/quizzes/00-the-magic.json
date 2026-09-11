@@ -1,0 +1,188 @@
+{
+  "bookId": "TheMagic",
+  "chapterId": "00-the-magic",
+  "chapterTitle": "The Magic",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao tác giả lại chọn lời mở đầu từ The Emerald Tablet (khoảng 5.000–3.000 TCN) thay vì một danh ngôn hiện đại?",
+      "options": [
+        "Khẳng định quy luật này là một chân lý cổ xưa mang tính vĩnh hằng và phổ quát.",
+        "Chứng minh phương pháp này chỉ dành cho những bậc hiền triết uyên bác thời cổ.",
+        "Nhằm tạo ra một phong cách huyền bí để kích thích sự tò mò của người phương Tây.",
+        "Muốn nhấn mạnh lòng biết ơn là một nghi lễ ma thuật mang tính tôn giáo cổ xưa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trích dẫn từ The Emerald Tablet nhằm khẳng định quy luật của lòng biết ơn không phải là phát minh nhất thời của thời hiện đại, mà là chân lý cổ xưa mang tính quy luật vĩnh cửu của vũ trụ đã được nhân loại khám phá từ hàng ngàn năm trước."
+    },
+    {
+      "id": "q2",
+      "question": "Cụm từ 'sự huy hoàng của toàn thế giới' trong The Emerald Tablet theo triết lý cuốn sách mang hàm ý sâu sắc nào?",
+      "options": [
+        "Quyền lực thống trị chính trị và sự giàu có tột bậc về mặt vật chất trên bình diện xã hội.",
+        "Trạng thái đủ đầy toàn diện từ nội tâm thanh thản cho đến sự thịnh vượng trong đời thực.",
+        "Sự công nhận của toàn thể nhân loại đối với các thành tựu danh vọng của một cá nhân xuất chúng.",
+        "Việc sở hữu mọi nguồn lực tự nhiên để áp đặt ý chí chủ quan lên hoàn cảnh sống xung quanh."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Sự huy hoàng của toàn thế giới' không ám chỉ danh vọng hay quyền lực áp đặt, mà là trạng thái viên mãn, hài hòa trọn vẹn cả về tinh thần, sức khỏe, các mối quan hệ và sự sung túc vật chất khi sống thuận theo quy luật tự nhiên."
+    },
+    {
+      "id": "q3",
+      "question": "Khi tác giả chúc cuốn sách 'mở ra một thế giới mới cho bạn', sự thay đổi này diễn ra theo cơ chế cốt lõi nào?",
+      "options": [
+        "Thế giới vật chất bên ngoài sẽ lập tức tự động sắp xếp lại mà không cần sự thay đổi nội tâm.",
+        "Hoàn cảnh xung quanh biến chuyển kỳ diệu nhờ những phép thuật huyền bí vượt ngoài quy luật tự nhiên.",
+        "Lăng kính nhận thức thay đổi từ tâm thức bên trong khiến thực tại bên ngoài chuyển hóa tương ứng.",
+        "Các khó khăn trần tục biến mất hoàn toàn giúp con người bước vào một cõi tồn tại siêu thực vĩnh hằng."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Thế giới mới' xuất hiện khi con người chuyển hóa tâm thức từ tập trung vào thiếu thốn sang tri ân phúc lành; sự biến đổi nội tâm này định hình lại toàn bộ trải nghiệm thực tế và hoàn cảnh bên ngoài theo nguyên lý tương ứng."
+    },
+    {
+      "id": "q4",
+      "question": "Mục đích của tác giả khi nhấn mạnh 'mang đến cho bạn niềm vui trong cả cuộc đời bạn' phản ánh tính chất gì của lòng biết ơn?",
+      "options": [
+        "Một phương tiện khẩn cấp chỉ nên dùng khi rơi vào nghịch cảnh bế tắc nhằm tìm kiếm sự giải thoát.",
+        "Một phản xạ xúc cảm tức thời xuất hiện sau khi con người nhận được những món quà vật chất bất ngờ.",
+        "Một biện pháp tinh thần tạm thời giúp giải tỏa căng thẳng sau những áp lực đời thường kéo dài.",
+        "Một lối sống liên tục và bền vững giúp duy trì năng lượng tích cực xuyên suốt hành trình cuộc đời."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả hướng tới 'niềm vui trong cả cuộc đời', điều này chứng minh lòng biết ơn không phải là một giải pháp tình thế hay cảm xúc nhất thời, mà là một thái độ sống cốt lõi, lâu dài và bền bỉ để nuôi dưỡng hạnh phúc đích thực."
+    },
+    {
+      "id": "q5",
+      "question": "Việc đề tặng cuốn sách 'cho bạn, và cho thế giới' thể hiện quy luật tương tác xã hội nào của tâm thức?",
+      "options": [
+        "Trách nhiệm bắt buộc của mỗi cá nhân là phải gánh vác mọi khổ đau của nhân loại bằng đức hy sinh.",
+        "Sự chuyển hóa nội tâm tích cực của từng cá nhân sẽ tạo ra hiệu ứng cộng hưởng lan tỏa đến cộng đồng.",
+        "Lòng biết ơn chỉ phát huy tối đa công năng khi một người thực hiện việc từ thiện trên quy mô toàn cầu.",
+        "Con người phải thay đổi toàn bộ xã hội xung quanh trước khi có thể đạt được sự an lạc cho chính mình."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mỗi cá nhân chuyển hóa tâm thức sẽ lan tỏa năng lượng tích cực, lòng nhân ái và sự tử tế đến những người xung quanh. Sự thay đổi của từng cá thể chính là hạt mầm kiến tạo sự chuyển biến hài hòa cho cả thế giới."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao The Emerald Tablet lại liên kết 'phương thức này' (lòng biết ơn) với thành công tối thượng của con người?",
+      "options": [
+        "Vì lòng biết ơn là trạng thái hòa hợp hoàn hảo với dòng chảy tự nhiên và các quy luật vận hành vũ trụ.",
+        "Vì đây là một câu thần chú bí mật có thể bẻ cong các quy tắc vật lý thông thường một cách siêu nhiên.",
+        "Vì nó giúp một người dễ dàng thao túng cảm xúc của người khác để phục vụ cho các mục tiêu tư lợi.",
+        "Vì phương thức này buộc các thế lực siêu hình phải ban phát những ân huệ đặc biệt cho người thực hành."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong triết lý Hermes cổ đại, 'phương thức' này đưa tâm trí con người hòa nhịp với nguyên lý sáng tạo của vũ trụ; khi con người đồng điệu với quy luật tự nhiên, sự đủ đầy và thành tựu huy hoàng sẽ tự nhiên hiển lộ."
+    },
+    {
+      "id": "q7",
+      "question": "Theo ngữ cảnh mở đầu tác phẩm, mối liên hệ giữa 'niềm vui trọn đời' và việc đọc The Magic được hiểu như thế nào?",
+      "options": [
+        "Cuốn sách cung cấp những kiến thức lý thuyết trừu tượng đủ để độc giả đạt đến sự giác ngộ tức thì.",
+        "Độc giả chỉ cần đọc qua một lần toàn bộ văn bản là có thể tự động đón nhận sự giàu có trọn đời.",
+        "Tác phẩm trao cho người đọc chiếc chìa khóa thực hành để tự thân mở ra trạng thái hân hoan bền vững.",
+        "Cuốn sách là một vật phẩm mang năng lượng thần kỳ bảo vệ người sở hữu khỏi mọi hiểm nguy cuộc sống."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cuốn sách không phải là một bùa chú nhiệm màu mà là một cẩm nang hướng dẫn thực hành; niềm vui trọn đời chỉ đến khi độc giả chủ động nắm bắt chiếc chìa khóa phương pháp để rèn luyện tâm trí mỗi ngày."
+    },
+    {
+      "id": "q8",
+      "question": "Sự đối lập sâu sắc nhất giữa 'thế giới mới' mà cuốn sách đề cập và 'thế giới cũ' của một người chưa thực hành là gì?",
+      "options": [
+        "Sự dịch chuyển từ một môi trường sống nghèo khó sang một không gian sống xa hoa và đẳng cấp hơn.",
+        "Sự thay đổi từ trạng thái bị phụ thuộc hoàn toàn sang vị thế kiểm soát tuyệt đối toàn bộ người khác.",
+        "Sự chuyển biến từ môi trường sống đầy cạnh tranh sang một xã hội hoàn hảo không còn sự bất công.",
+        "Sự chuyển dịch từ tâm thế thiếu thốn và bất an sang trạng thái trù phú và tin cậy vào dòng chảy sự sống."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự khác biệt cốt lõi không nằm ở vị trí địa lý hay địa vị xã hội, mà là bước chuyển hóa tâm thức từ trạng thái thường trực cảm thấy thiếu hụt, lo sợ sang trạng thái nhận biết sự trù phú và bình an trong từng khoảnh khắc sống."
+    },
+    {
+      "id": "q9",
+      "question": "Thuật ngữ 'The Magic' trong nhan đề tác phẩm mang ý nghĩa triết học sâu xa nào?",
+      "options": [
+        "Năng lực biến chuyển kỳ diệu của thực tại xuất hiện khi con người vận dụng đúng đắn quy luật tự nhiên.",
+        "Những phép màu siêu nhiên đi ngược lại các nguyên lý khoa học và các định luật vật lý thực chứng.",
+        "Kỹ thuật thôi miên tâm lý giúp một người thoát khỏi những hiện thực nghiệt ngã của đời sống hàng ngày.",
+        "Một nghi thức cổ xưa giúp người thực hành liên lạc với các đấng sáng thế để cầu xin sự che chở đặc biệt."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ma thuật' ở đây không phải trò ảo thuật huyền bí vi phạm quy luật vật lý, mà là kết quả kỳ diệu và đáng kinh ngạc xảy ra trong đời sống khi con người hiểu và kích hoạt sức mạnh vô hình của lòng biết ơn."
+    },
+    {
+      "id": "q10",
+      "question": "Khi một độc giả tiếp cận lời mở đầu này với thái độ hoài nghi thuần túy, rào cản nhận thức nào sẽ xuất hiện?",
+      "options": [
+        "Khả năng tư duy logic phản biện của độc giả sẽ giúp họ dễ dàng phát hiện các lỗ hổng của quy luật.",
+        "Độc giả sẽ lập tức tìm ra phương pháp rút ngắn thời gian thực hành để đạt kết quả nhanh chóng hơn.",
+        "Sự đóng kín tâm trí khiến họ bỏ lỡ cơ hội chiêm nghiệm và thể nghiệm những biến chuyển vi tế nội tâm.",
+        "Sự nghi ngờ sẽ gia tăng sức mạnh tiềm thức giúp người đọc thu hút được nhiều phúc lành bất ngờ hơn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hoài nghi tiêu cực tạo ra một bộ lọc định kiến, ngăn cản tâm trí mở rộng để quan sát và thực hành; khi không trải nghiệm thực tế, người đó sẽ không bao giờ có thể tự kiểm chứng được sự chuyển hóa của lòng biết ơn."
+    },
+    {
+      "id": "q11",
+      "question": "Đoạn văn mở đầu gợi ý điều gì về vai trò chủ động của người đọc trong hành trình này?",
+      "options": [
+        "Người đọc hoàn toàn bị động chờ đợi phép màu tự động đến mà không cần nỗ lực rèn luyện tâm trí.",
+        "Phép màu chỉ được kích hoạt khi người đọc chủ động đón nhận và áp dụng phương thức vào đời sống.",
+        "Độc giả chỉ cần đóng góp tài chính vào các quỹ cộng đồng là có thể nhận lại sự huy hoàng toàn diện.",
+        "Tác giả sẽ đóng vai trò người cứu rỗi duy nhất chịu trách nhiệm về thành công hay thất bại của họ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mặc dù tác giả gửi lời nguyện chúc, nhưng chính người đọc phải là người quyết định mở lòng, tiếp nhận tri thức và biến phương thức đó thành hành động cụ thể để tạo ra phép màu cho cuộc đời mình."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao mục đích của tác giả không dừng lại ở cá nhân người đọc mà hướng đến 'cho thế giới'?",
+      "options": [
+        "Vì sự thịnh vượng của cá nhân không thể tồn tại nếu nền kinh tế toàn cầu không tăng trưởng nhanh.",
+        "Vì tác giả muốn xây dựng một phong trào xã hội rộng lớn nhằm tôn vinh danh tiếng của cuốn sách.",
+        "Vì lòng biết ơn là một nghĩa vụ đạo đức mà mỗi công dân toàn cầu bắt buộc phải chấp hành nghiêm ngặt.",
+        "Vì sự thăng hoa tâm thức của từng cá nhân là viên gạch nền tảng kiến tạo một thế giới an lạc và hòa hợp."
+      ],
+      "correctIndex": 3,
+      "explanation": "Thế giới là một mạng lưới tương thuộc. Một thế giới hòa bình, thịnh vượng và hạnh phúc chỉ có thể được tạo dựng từ những cá nhân có nội tâm tràn đầy niềm vui, sự trân trọng và lòng biết ơn sâu sắc."
+    },
+    {
+      "id": "q13",
+      "question": "Nhận định nào dưới đây phản ánh chính xác nhất bản chất của 'phương thức' được ẩn dụ từ thời cổ đại?",
+      "options": [
+        "Đó là một thái độ sống và nhận thức nhất quán được duy trì có ý thức trong mọi hoàn cảnh thực tại.",
+        "Đó là những câu thần chú bí mật chỉ được truyền khẩu giữa các đạo sĩ cao cấp trong các hội kín.",
+        "Đó là chuỗi hành động ép buộc tâm trí phải phủ nhận hoàn toàn mọi nỗi đau và khó khăn thực tế.",
+        "Đó là việc tích lũy các nghi thức cúng bái phức tạp nhằm làm hài lòng các thế lực tự nhiên vô hình."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Phương thức' của The Magic không phải thần chú hay nghi lễ mê tín, mà là việc định hình lại tư duy, cảm xúc và thái độ sống hướng vào sự trân trọng những điều tốt lành hiện hữu trong từng phút giây."
+    },
+    {
+      "id": "q14",
+      "question": "Lời chúc 'nguyện cho The Magic mang đến cho bạn niềm vui' ngụ ý gì về mối quan hệ giữa niềm vui và thành công?",
+      "options": [
+        "Niềm vui chỉ là một sản phẩm phụ ngẫu nhiên xuất hiện sau khi con người đã đạt được mọi ước muốn.",
+        "Niềm vui nội tại chính là cội nguồn và nền tảng năng lượng giúp thu hút mọi thành quả rực rỡ khác.",
+        "Con người buộc phải trải qua nhiều đau khổ gian truân trước khi có quyền tận hưởng niềm vui trọn vẹn.",
+        "Niềm vui là một trạng thái cảm xúc nông cạn cần được tiết chế để tập trung vào mục tiêu thực dụng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo quy luật hấp dẫn, niềm vui và sự an lạc nội tâm là tần số rung động tích cực mạnh mẽ nhất; nó là nguyên nhân và cội nguồn thu hút những điều tốt đẹp, chứ không chỉ là kết quả bị động của thành công ngoại cảnh."
+    },
+    {
+      "id": "q15",
+      "question": "Bằng cách kết nối The Emerald Tablet với mục đích trao gửi niềm vui, tác giả ngầm xác lập thông điệp cốt lõi nào?",
+      "options": [
+        "Tri thức cổ xưa chỉ có giá trị khi được giải mã dưới dạng các công thức khoa học thực nghiệm phức tạp.",
+        "Mọi bí ẩn của vũ trụ đều nằm ngoài khả năng thấu hiểu của những người không có căn cơ tâm linh sâu dày.",
+        "Bí mật vĩ đại nhất của sự sống cổ xưa thực chất là một nguyên lý giản dị mang lại hạnh phúc cho con người.",
+        "Thế giới chỉ có thể được cứu rỗi nếu con người khôi phục lại các nghi lễ huyền học của nền văn minh cổ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả muốn truyền tải thông điệp rằng chân lý tối cao của nhân loại hàng ngàn năm qua không phải điều gì cao siêu, trừu tượng hay khó tiếp cận, mà chính là nguyên lý nuôi dưỡng lòng biết ơn để tìm thấy niềm vui trọn vẹn trong cuộc sống."
+    }
+  ]
+}

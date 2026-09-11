@@ -1,0 +1,188 @@
+{
+  "bookId": "TheMagic",
+  "chapterId": "03-ban-co-tin-vao-phep-thuat",
+  "chapterTitle": "Bạn có tin vào phép thuật?",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Ý nghĩa triết học sâu xa trong câu danh ngôn của Roald Dahl: 'Những ai không tin vào phép thuật sẽ không bao giờ tìm thấy nó' là gì?",
+      "options": [
+        "Niềm tin đóng vai trò như lăng kính định hình và quyết định phạm vi nhận thức thực tại.",
+        "Thế giới vật chất chỉ tồn tại dựa trên những ảo tưởng vô căn cứ do con người tự thêu dệt.",
+        "Con người cần phải tin vào những câu chuyện cổ tích hoang đường để trốn tránh áp lực.",
+        "Phép thuật là một đặc quyền siêu nhiên chỉ ban phát cho những người tôn sùng thần thánh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu danh ngôn chỉ ra nguyên lý nhận thức: niềm tin mở ra khả năng đón nhận và quan sát thực tại; người mang tâm thế hoài nghi đóng chặt cánh cửa giác quan sẽ không bao giờ có thể nhìn thấy những điều kỳ diệu vốn luôn hiện hữu."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao trẻ thơ lại có khả năng cảm nhận niềm vui kỳ diệu từ những điều nhỏ bé như giọt sương hay chiếc lá lạ?",
+      "options": [
+        "Vì não bộ của trẻ em chưa phát triển đầy đủ các trung khu xử lý cảm giác phức tạp.",
+        "Vì tâm trí trẻ thơ thuần khiết, chưa bị định kiến thực dụng và sự lo âu che mờ nhận thức.",
+        "Vì trẻ em luôn luôn được bao bọc trong một môi trường sống hoàn hảo không có khó khăn.",
+        "Vì trẻ nhỏ được tiếp xúc thường xuyên với các câu chuyện huyền bí từ người lớn kể lại."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trẻ em sống trọn vẹn trong khoảnh khắc hiện tại với sự hiếu kỳ nguyên sơ, không bị trói buộc bởi những toan tính vụ lợi hay nỗi lo âu thường nhật, nhờ đó chúng nhìn thấy vẻ đẹp thần tiên trong những chi tiết giản dị nhất."
+    },
+    {
+      "id": "q3",
+      "question": "Điều gì khiến trẻ em tin tưởng tuyệt đối vào việc Ông già Noel có thể tặng quà cho mọi đứa trẻ mà không cần bận tâm về cách thức?",
+      "options": [
+        "Trẻ em thiếu khả năng tính toán thời gian và không gian một cách chính xác theo logic.",
+        "Người lớn thường xuyên đưa ra những bằng chứng giả mạo để đánh lừa nhận thức của trẻ.",
+        "Bản năng của trẻ em luôn tìm kiếm các nguồn cung cấp vật chất miễn phí từ người khác.",
+        "Tâm thức trẻ thơ tập trung trọn vẹn vào sự kỳ diệu của kết quả thay vì giới hạn lý tính."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trẻ thơ có khả năng tuyệt vời là tin tưởng hoàn toàn vào kết quả tốt đẹp mà không để tâm trí lý tính phán xét hay giới hạn bởi câu hỏi 'làm sao có thể'; chính sự tin tưởng thuần khiết đó tạo nên trạng thái đón nhận trọn vẹn."
+    },
+    {
+      "id": "q4",
+      "question": "Nguyên nhân cốt lõi nào khiến thế giới quan kỳ diệu thời thơ ấu dần mờ nhạt và biến mất khi con người trưởng thành?",
+      "options": [
+        "Do sự thay đổi tự nhiên của cấu trúc hormone trong cơ thể theo tiến trình sinh học.",
+        "Do hệ thống giáo dục hiện đại loại bỏ hoàn toàn các môn học về nghệ thuật và hội họa.",
+        "Do gánh nặng trách nhiệm, lo âu cơm áo và những va vấp thực tế làm chai sạn tâm hồn.",
+        "Do sự phát triển của công nghệ thông tin làm con người mất đi nhu cầu giao tiếp thực tế."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi bước vào tuổi trưởng thành, con người phải đối mặt với áp lực trách nhiệm, sự thất bại và nỗi lo sợ sinh kế; những trải nghiệm tiêu cực này dần tích tụ thành sự vỡ mộng, biến niềm tin diệu kỳ thành sự chai sạn, hoài nghi."
+    },
+    {
+      "id": "q5",
+      "question": "Hiện tượng người lớn thích ở bên cạnh trẻ em phản ánh nhu cầu tâm lý sâu kín nào?",
+      "options": [
+        "Khao khát được kết nối lại với trạng thái hồn nhiên, tươi mới và tràn đầy sức sống.",
+        "Nhu cầu thể hiện quyền uy và sự vượt trội về kiến thức trước những tâm hồn non nớt.",
+        "Mong muốn tìm kiếm một đối tượng dễ sai bảo để giải tỏa những bức xúc trong công việc.",
+        "Trách nhiệm bắt buộc của xã hội nhằm đảm bảo sự an toàn cho các thế hệ tương lai."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả chỉ ra rằng người lớn thích ở bên trẻ nhỏ vì điều đó giúp họ sống lại những cảm xúc thuần khiết, vui tươi và tràn đầy niềm tin kỳ diệu mà chính họ đã vô tình đánh mất trong quá trình trưởng thành."
+    },
+    {
+      "id": "q6",
+      "question": "Tác giả phê phán điều gì khi tuyên bố rằng 'quan điểm về cuộc sống của những người lớn vỡ mộng là sai'?",
+      "options": [
+        "Sự phát triển vượt bậc của khoa học kỹ thuật đã phủ nhận toàn bộ thế giới tinh thần.",
+        "Lối sống buông thả của người trẻ khi không chịu gánh vác các trách nhiệm xã hội lớn.",
+        "Xu hướng đóng khung thực tại vào sự bế tắc và đánh mất niềm tin vào tiềm năng kỳ diệu.",
+        "Việc các bậc phụ huynh cấm đoán con trẻ đọc những tác phẩm văn học thiếu nhi kinh điển."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định góc nhìn của những người lớn vỡ mộng là sai lầm vì họ nhầm tưởng khó khăn hiện tại là bản chất tối hậu của cuộc sống, từ đó từ chối nhìn nhận sức mạnh vô hạn của lòng biết ơn và các quy luật kỳ diệu của vũ trụ."
+    },
+    {
+      "id": "q7",
+      "question": "Theo tác giả, 'phép thuật' trong đời sống của một người trưởng thành biểu hiện cụ thể qua hình thức nào?",
+      "options": [
+        "Những biến cố siêu nhiên làm thay đổi các quy luật vật lý và trật tự vũ trụ thông thường.",
+        "Sự đan kết đồng bộ kỳ diệu của các sự kiện ngẫu nhiên giúp biến ước mơ thành hiện thực.",
+        "Khả năng nhìn thấu tương lai và điều khiển suy nghĩ của người khác bằng năng lượng bí ẩn.",
+        "Việc nhận được những khoản tiền lớn từ trên trời rơi xuống mà không cần nỗ lực lao động."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phép màu trong đời thực không phải là ảo thuật biến hóa, mà là sự xuất hiện ngoạn mục của các cơ hội, con người và sự kiện được đan kết một cách hoàn hảo vượt ngoài sự tính toán để hiện thực hóa ước mơ."
+    },
+    {
+      "id": "q8",
+      "question": "Khái niệm 'lãnh địa vô hình' (invisible realm) trong tác phẩm mô tả không gian vận hành nào của cuộc sống?",
+      "options": [
+        "Một cõi giới huyền bí ma quái nơi các linh hồn trú ngụ và can thiệp vào trần thế.",
+        "Không gian ảo trên mạng internet nơi thông tin được truyền tải với tốc độ ánh sáng.",
+        "Những khu vực hoang dã hẻo lánh mà khoa học hiện đại chưa từng đặt chân tới khảo sát.",
+        "Mạng lưới quy luật tự nhiên và tâm thức vi tế điều phối sự sắp đặt của các sự kiện sống."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Lãnh địa vô hình' là chiều kích của năng lượng, suy nghĩ, cảm xúc và các quy luật tự nhiên (như luật hấp dẫn); dù mắt thường không nhìn thấy được nhưng đây chính là cội nguồn chi phối và định hình thực tại vật chất hữu hình."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao sự hồi hộp và phấn khích lại gia tăng khi con người nhận ra phép thuật làm việc trong 'lãnh địa vô hình'?",
+      "options": [
+        "Vì con người luôn thích thú trước những trò may rủi đỏ đen có tính chất bất ngờ cao.",
+        "Vì ta không cần kiểm soát từng bước đi mà được trải nghiệm sự an bài tài tình của tự nhiên.",
+        "Vì sự bí ẩn giúp con người dễ dàng trốn tránh trách nhiệm cá nhân khi gặp phải thất bại.",
+        "Vì điều đó chứng minh con người không có bất kỳ quyền tự quyết nào đối với vận mệnh mình."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cảm giác kỳ thú xuất hiện khi con người buông bỏ nhu cầu kiểm soát vi mô hạn hẹp của lý trí để tin tưởng và chiêm ngưỡng cách thức tinh tế, phi thường mà vũ trụ liên kết vạn vật để mang lại điều kỳ diệu."
+    },
+    {
+      "id": "q10",
+      "question": "Điểm khác biệt mấu chốt giữa niềm tin của đứa trẻ và niềm tin có ý thức của người thực hành The Magic là gì?",
+      "options": [
+        "Đứa trẻ tin nhờ ngây thơ vô điều kiện, còn người lớn tin nhờ sự thấu hiểu quy luật sâu sắc.",
+        "Đứa trẻ tin vào những điều có thật, trong khi người lớn chỉ tưởng tượng ra những điều viển vông.",
+        "Đứa trẻ chỉ tin vào người thân, trong khi người lớn đặt niềm tin vào các thế lực siêu nhiên.",
+        "Đứa trẻ tin để nhận phần thưởng, còn người lớn thực hành chỉ vì muốn né tránh các khó khăn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Niềm tin của trẻ thơ là sự ngây thơ tự nhiên bản năng; trong khi niềm tin của người thực hành The Magic là sự thấu hiểu có ý thức, nắm bắt nguyên lý vận hành của tâm trí và kiên trì rèn luyện để tạo ra kết quả thực tế."
+    },
+    {
+      "id": "q11",
+      "question": "Câu hỏi 'Bạn có sẵn sàng để thấy phép thuật một lần nữa?' đặt người đọc trước thách thức tâm lý nào?",
+      "options": [
+        "Bắt buộc phải chi trả một khoản tài chính lớn để tham gia vào khóa huấn luyện chuyển hóa.",
+        "Phải từ bỏ hoàn toàn các mối quan hệ xã hội cũ để bước vào một cộng đồng tâm linh mới.",
+        "Dũng cảm gỡ bỏ lớp vỏ bọc hoài nghi chai sạn để mở lòng đón nhận những trải nghiệm mới.",
+        "Phải chứng minh được năng lực thần giao cách cảm trước khi được quyền đọc các chương tiếp."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đây là lời kêu gọi người đọc dám can đảm bước ra khỏi định kiến bảo thủ và thói quen bi quan của người lớn vỡ mộng, để một lần nữa mở rộng tâm thức và sẵn sàng trải nghiệm một phương cách sống mới."
+    },
+    {
+      "id": "q12",
+      "question": "Câu kết chương dẫn dắt về 'hai ngàn năm trước, khi kiến thức bị ẩn giấu trong những văn bản thiêng liêng' nhằm tạo ra hiệu ứng gì?",
+      "options": [
+        "Hạn chế độc giả của cuốn sách trong phạm vi các tín đồ của một tôn giáo cụ thể ở Trung Đông.",
+        "Phủ nhận giá trị của nền văn minh hiện đại và kêu gọi con người quay về lối sống thời cổ đại.",
+        "Biến toàn bộ cuốn sách thành một công trình nghiên cứu khảo cổ học thuần túy về văn tự cổ.",
+        "Khơi gợi sự tôn kính và kết nối độc giả với cội nguồn tri thức trường tồn qua bao thế kỷ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đoạn kết này đóng vai trò nhịp cầu sư phạm lôi cuốn, đưa người đọc từ những chiêm nghiệm đời thường bước vào hành trình khám phá chiều sâu lịch sử của những văn bản cổ xưa chứa đựng bí mật chuyển hóa cuộc đời."
+    },
+    {
+      "id": "q13",
+      "question": "Sự vỡ mộng của người lớn thường dẫn tới cạm bẫy tư duy nguy hại nào đối với cuộc sống hàng ngày?",
+      "options": [
+        "Khiến con người trở nên quá tự tin vào năng lực cá nhân và từ chối mọi sự giúp đỡ bên ngoài.",
+        "Đóng chặt tâm trí vào sự bất an và coi các khó khăn, giới hạn là bản chất bất biến của đời sống.",
+        "Thúc đẩy con người chi tiêu phung phí vào các thú vui ngắn hạn để khỏa lấp nỗi cô đơn nội tâm.",
+        "Làm gia tăng sự tò mò khám phá những vùng đất mới lạ để tìm kiếm cơ hội khởi nghiệp mạo hiểm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi vỡ mộng, con người tin rằng khó khăn và thiếu thốn là quy luật tất yếu không thể thay đổi; tư duy đóng kín này khiến họ từ chối hy vọng, ngừng nuôi dưỡng lòng biết ơn và tiếp tục thu hút thêm sự bế tắc."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao tác giả khẳng định cuộc sống người lớn có thể 'kỳ diệu nhiều hơn cả những gì bạn nghĩ khi là một đứa trẻ'?",
+      "options": [
+        "Vì người lớn có khả năng nhận thức sâu sắc để trực tiếp tham gia kiến tạo thực tại mong muốn.",
+        "Vì người lớn sở hữu nhiều tiền bạc và quyền lực để mua sắm bất kỳ thứ gì mình cảm thấy thích.",
+        "Vì người lớn không còn bị ràng buộc bởi sự giám sát và các quy định nghiêm ngặt từ cha mẹ.",
+        "Vì cuộc sống hiện đại đem lại nhiều công nghệ giải trí vượt xa những đồ chơi thời xa xưa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trẻ em trải nghiệm kỳ diệu một cách thụ động qua trí tưởng tượng; trong khi người trưởng thành khi nắm vững quy luật lòng biết ơn có thể chủ động sáng tạo và hiện thực hóa những kỳ tích vĩ đại trong mọi khía cạnh cuộc đời."
+    },
+    {
+      "id": "q15",
+      "question": "Tinh thần cốt lõi của Chương 3 đóng vai trò gì trong cấu trúc tâm lý của toàn bộ cuốn sách?",
+      "options": [
+        "Cung cấp các công thức toán học logic để người đọc tính toán tần suất rung động của tâm thức.",
+        "Giải thích các hiện tượng hóa học thần kinh xảy ra bên trong bộ não khi con người mơ mộng.",
+        "Phá vỡ định kiến hoài nghi, đánh thức niềm tin nguyên sơ và chuẩn bị tâm thế cho người đọc.",
+        "Đưa ra các bài tập thể chất bắt buộc nhằm thanh lọc cơ thể trước khi tiến hành cầu nguyện."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương 3 là bước chuẩn bị tâm lý nền tảng: giải phóng tâm trí khỏi sự hoài nghi yếm thế, khơi dậy niềm tin và sự hào hứng nguyên sơ của đứa trẻ bên trong, mở đường cho việc tiếp nhận tri thức ở các chương sau."
+    }
+  ]
+}
