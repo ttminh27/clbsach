@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Tại sao Albert Einstein lại gọi 'Lãi kép' (Compound Interest) là 'Kỳ quan thứ 8 của thế giới' và đâu là nhân tố có sức mạnh đòn bẩy lớn nhất trong công thức lãi kép?",
+      "question": "Theo nội dung chương sách, đâu là nhân tố cốt lõi tạo nên sức mạnh đòn bẩy của lãi kép trong việc xây dựng quỹ hưu trí?",
       "options": [
-        "Nhân tố quy mô số tiền ban đầu; chỉ người có hàng chục tỷ đồng mới tận dụng được lãi kép.",
-        "Nhân tố địa điểm gửi tiền; chỉ gửi tiền ở nước ngoài mới phát huy được lãi kép.",
-        "Nhân tố may mắn; lãi kép chỉ hoạt động khi thị trường chứng khoán tăng giá liên tục không giảm.",
-        "Nhân tố THỜI GIAN; khi tiền lãi sinh ra tiếp tục được tái đầu tư để sinh lãi mới qua hàng chục năm, đường cong tài sản sẽ tăng trưởng theo hàm số mũ bùng nổ."
+        "Sự kết hợp giữa tỉ suất lợi nhuận cao và thời gian đầu tư dài hạn giúp tài sản tăng trưởng theo hàm số mũ bùng nổ.",
+        "Việc tập trung tối đa nguồn vốn vào một kênh đầu tư duy nhất để đạt được mức lợi nhuận đột biến trong thời gian ngắn.",
+        "Khả năng dự báo chính xác các biến động của thị trường tài chính để thực hiện các giao dịch mua bán tối ưu hàng ngày.",
+        "Việc duy trì mức chi tiêu tối thiểu trong suốt quá trình làm việc để dồn toàn bộ thu nhập vào các tài khoản tiết kiệm."
       ],
-      "correctIndex": 3,
-      "explanation": "Ma thuật của lãi kép nằm ở biến số Thời gian (n). Bắt đầu càng sớm thì quả cầu tuyết lãi kép lăn càng xa, tạo ra khối tài sản khổng lồ vượt xa tổng số tiền gốc thực tế bỏ ra."
+      "correctIndex": 0,
+      "explanation": "Sức mạnh của lãi kép đến từ hai nguồn chính là tỉ suất lợi nhuận và thời gian. Thời gian càng dài, hiệu ứng lãi kép càng mạnh mẽ như quả cầu tuyết lăn xuống dốc."
     },
     {
       "id": "q2",
-      "question": "Theo 'Quy tắc 72' trong tài chính, nếu bạn đầu tư với mức lợi suất bình quân 8%/năm, số năm cần thiết để số tiền đầu tư ban đầu của bạn TĂNG GẤP ĐÔI là bao nhiêu?",
+      "question": "Tại sao tác giả nhấn mạnh rằng việc nâng cao tỉ suất lợi nhuận là chìa khóa để giải quyết bài toán tài chính tuổi già?",
       "options": [
-        "72 / 8 = 9 năm.",
-        "8 / 72 = 0.11 năm.",
-        "72 * 8 = 576 năm.",
-        "72 - 8 = 64 năm."
+        "Vì tỉ suất lợi nhuận cao là cách duy nhất để bù đắp cho việc chi tiêu quá mức trong giai đoạn còn đang làm việc.",
+        "Vì việc tăng tỉ suất lợi nhuận giúp gia tăng tốc độ tích lũy tài sản đáng kể mà không cần phải tăng thêm vốn gốc.",
+        "Vì các ngân hàng chỉ cung cấp các sản phẩm có tỉ suất lợi nhuận cao cho những khách hàng có thu nhập ổn định hàng tháng.",
+        "Vì việc tập trung vào tỉ suất lợi nhuận giúp nhà đầu tư loại bỏ hoàn toàn các rủi ro liên quan đến lạm phát kinh tế."
       ],
-      "correctIndex": 0,
-      "explanation": "Quy tắc 72 là công thức ước tính nhanh: Thời gian nhân đôi = 72 / (Tỷ suất sinh lời %). Với lợi suất 8%/năm, tài sản sẽ nhân đôi sau 72 / 8 = 9 năm."
+      "correctIndex": 1,
+      "explanation": "Tỉ suất lợi nhuận cao hơn giúp tốc độ gia tăng tài sản nhanh hơn đáng kể, giúp giải quyết giới hạn của việc tiết kiệm đơn thuần."
     },
     {
       "id": "q3",
-      "question": "Tại sao tác giả lại gọi 'Lạm phát' (Inflation) là 'Kẻ thù vô hình đáng sợ nhất' của người chuẩn bị quỹ hưu trí?",
+      "question": "Sự khác biệt cơ bản giữa lãi đơn và lãi kép được minh họa qua ví dụ của các nhân vật trong chương sách là gì?",
       "options": [
-        "Vì lạm phát làm cho các ngân hàng tự động trừ tiền trong tài khoản của người dân mỗi ngày.",
-        "Vì lạm phát làm tăng giá cổ phiếu lên vô hạn.",
-        "Vì lạm phát chỉ xảy ra đối với những người không gửi tiền vào ngân hàng.",
-        "Vì lạm phát âm thầm bào mòn sức mua thực tế của đồng tiền tiết kiệm theo thời gian; một bát phở 30.000đ hôm nay sau 30 năm với lạm phát 5% có thể lên tới 130.000đ, khiến số tiền dưỡng già dự tính bị thiếu hụt trầm trọng."
+        "Lãi đơn chỉ áp dụng cho các khoản tiền gửi ngắn hạn dưới một năm, trong khi lãi kép áp dụng cho các khoản đầu tư dài.",
+        "Lãi đơn mang lại lợi nhuận cao hơn lãi kép trong giai đoạn đầu, nhưng lãi kép lại vượt trội hơn ở giai đoạn cuối.",
+        "Lãi kép tính lãi trên cả tiền vốn gốc và số tiền lãi đã phát sinh, tạo ra sự chênh lệch lớn theo thời gian dài.",
+        "Lãi kép là phương thức tính lãi dựa trên tổng số vốn ban đầu, còn lãi đơn dựa trên số tiền lãi cộng dồn hàng năm."
       ],
-      "correctIndex": 3,
-      "explanation": "Lạm phát là thuế vô hình làm bốc hơi giá trị thực của tiền mặt. Nếu chỉ giữ tiền mặt hoặc gửi tiết kiệm lãi suất thấp hơn lạm phát thực tế, tài sản sẽ bị teo tóp nghiêm trọng khi về già."
+      "correctIndex": 2,
+      "explanation": "Lãi kép tính lãi trên tiền lãi tích lũy, tạo ra hiệu ứng lũy kế khiến tài sản tăng trưởng nhanh hơn nhiều so với lãi đơn."
     },
     {
       "id": "q4",
-      "question": "Sự chuyển dịch tư duy từ 'Thời đại tiết kiệm' sang 'Thời đại đầu tư' bắt nguồn từ nguyên nhân kinh tế vĩ mô cốt lõi nào?",
+      "question": "Tại sao việc bắt đầu chuẩn bị cho tuổi già càng sớm càng tốt lại mang lại lợi thế tài chính vượt trội?",
       "options": [
-        "Nhà nước cấm người dân gửi tiết kiệm vào hệ thống ngân hàng.",
-        "Thời kỳ lãi suất ngân hàng ở mức cao (12-15%) của giai đoạn tăng trưởng nóng đã qua; trong nền kinh tế hiện đại với lãi suất thực tế thấp, chỉ gửi tiết kiệm thuần túy chắc chắn sẽ thua lạm phát, đòi hỏi phải đầu tư vào các kênh tài sản sinh lời.",
-        "Thị trường chứng khoán không còn bất kỳ rủi ro nào.",
-        "Đầu tư là cách duy nhất để không phải nộp thuế thu nhập."
+        "Bắt đầu sớm giúp nhà đầu tư có thể nghỉ hưu sớm hơn dự định mà không cần phải quan tâm đến tỉ suất lợi nhuận đầu tư.",
+        "Việc bắt đầu sớm cho phép nhà đầu tư có thể rút vốn gốc ra bất cứ lúc nào mà không làm ảnh hưởng đến lãi suất kép.",
+        "Bắt đầu sớm giúp nhà đầu tư có đủ thời gian để học hỏi các kỹ năng đầu cơ lướt sóng nhằm tối đa hóa lợi nhuận nhanh.",
+        "Bắt đầu sớm giúp tận dụng tối đa thời gian để lãi kép phát huy tác dụng, tạo ra sự chênh lệch tài sản rất lớn."
       ],
-      "correctIndex": 1,
-      "explanation": "Trong kỷ nguyên lãi suất thấp, lãi suất gửi tiết kiệm chỉ đủ bù đắp một phần lạm phát. Muốn bảo toàn và gia tăng giá trị tài sản hưu trí, cá nhân buộc phải học cách đầu tư bài bản."
+      "correctIndex": 3,
+      "explanation": "Thời gian là nhân tố thứ hai của lãi kép. Bắt đầu sớm giúp tận dụng thời gian dài để đạt được hiệu quả tích lũy tối đa."
     },
     {
       "id": "q5",
-      "question": "Khái niệm 'Mạo hiểm là công cụ để đạt được lợi ích' (Risk vs Return) được các tác giả lý giải đúng đắn như thế nào?",
+      "question": "Theo lời khuyên của Jang Un Woo, tại sao việc chỉ tiết kiệm đơn thuần không phải là đáp án cho tuổi già?",
       "options": [
-        "Chấp nhận rủi ro có tính toán và hiểu biết (Calculated Risk), sử dụng việc phân bổ tài sản và đa dạng hóa danh mục đầu tư dài hạn để thu về tỷ suất sinh lời vượt trội hơn lạm phát.",
-        "Hoàn toàn tránh né mọi rủi ro bằng cách chôn tiền mặt dưới lòng đất.",
-        "Rủi ro càng cao thì tự động chắc chắn sẽ kiếm được càng nhiều tiền mà không cần học hỏi.",
-        "Khuyên người đọc nên đem toàn bộ gia sản tham gia vào các canh bạc đầu cơ lướt sóng vô căn cứ."
+        "Vì thời gian làm việc ngày càng ngắn và tuổi già ngày càng dài, tiết kiệm đơn thuần không đủ bù đắp chi phí sống.",
+        "Vì các ngân hàng thường xuyên thay đổi chính sách lãi suất khiến cho việc tiết kiệm trở nên không còn an toàn nữa.",
+        "Vì tiết kiệm đơn thuần chỉ phù hợp với những người có thu nhập thấp và không có khả năng tham gia vào đầu tư tài.",
+        "Vì việc tiết kiệm tiền mặt tại nhà sẽ khiến giá trị tài sản bị giảm sút do các loại thuế thu nhập cá nhân hàng năm."
       ],
       "correctIndex": 0,
-      "explanation": "Không có lợi nhuận nào không đi kèm rủi ro. Người thông minh không trốn tránh rủi ro mà học cách đo lường, kiểm soát và sử dụng rủi ro như một đòn bẩy thông qua đa dạng hóa danh mục."
+      "explanation": "Với thời gian tuổi già kéo dài, việc chỉ tiết kiệm mà không đầu tư để hưởng lãi kép sẽ không đủ để duy trì mức sống."
     },
     {
       "id": "q6",
-      "question": "Phương pháp đầu tư định kỳ vào quỹ mở / chứng chỉ quỹ (Dollar-Cost Averaging - DCA) mang lại lợi thế tâm lý và tài chính vượt trội nào cho nhà đầu tư cá nhân?",
+      "question": "Trong chương sách, các nhân vật đã so sánh kết quả đầu tư 100 triệu won với các tỉ suất lợi nhuận khác nhau để làm gì?",
       "options": [
-        "Đảm bảo quỹ đầu tư không bao giờ có bất kỳ tháng nào bị giảm giá trị.",
-        "Giúp nhà đầu tư được nhận tiền lãi hàng ngày trực tiếp vào tài khoản thẻ.",
-        "Giúp nhà đầu tư luôn luôn mua được đúng đáy và bán ra đúng đỉnh của thị trường chứng khoán.",
-        "Giúp loại bỏ yếu tố cảm xúc phán đoán thị trường, tự động mua được nhiều chứng chỉ quỹ hơn khi giá rẻ và ít hơn khi giá đắt, bình quân hóa giá vốn và tối ưu hóa lợi nhuận dài hạn."
+        "Để thuyết phục người đọc rằng chỉ nên đầu tư vào các sản phẩm có tỉ suất lợi nhuận cố định từ các ngân hàng lớn.",
+        "Để chứng minh rằng sự chênh lệch nhỏ về tỉ suất lợi nhuận sẽ dẫn đến kết quả tài sản khổng lồ sau nhiều năm.",
+        "Để chỉ ra rằng việc đầu tư vào bất động sản luôn mang lại lợi nhuận cao hơn so với các sản phẩm tài chính khác.",
+        "Để cảnh báo người đọc về những rủi ro tiềm ẩn khi cố gắng tìm kiếm các cơ hội đầu tư có tỉ suất lợi nhuận cao."
       ],
-      "correctIndex": 3,
-      "explanation": "Chiến lược DCA đầu tư đều đặn hàng tháng giúp nhà đầu tư cá nhân không bị cuốn vào tâm lý FOMO hay hoảng loạn bắt đáy, tận dụng biến động thị trường để hạ thấp giá vốn bình quân."
+      "correctIndex": 1,
+      "explanation": "Biểu đồ so sánh cho thấy sự khác biệt về tỉ suất lợi nhuận tạo ra khoảng cách tài sản rất lớn sau 25-30 năm đầu tư."
     },
     {
       "id": "q7",
-      "question": "Đâu là 'Nguyên tắc vàng' để thành công bền vững khi đầu tư vào các quỹ ủy thác đầu tư (Mutual Funds)?",
+      "question": "Tại sao Chei Kyoeng Won lại ví việc đầu tư ngắn hạn rồi rút vốn giống như việc 'hái quả xanh'?",
       "options": [
-        "Liên tục mua bán hoán đổi giữa các quỹ hàng tuần để kiếm chênh lệch ngắn hạn.",
-        "Rút toàn bộ tiền ra khỏi quỹ ngay khi thị trường vừa có đợt điều chỉnh giảm 5%.",
-        "Chỉ đầu tư vào quỹ nào có tên gọi độc lạ nhất.",
-        "Lựa chọn quỹ có lịch sử quản lý uy tín, chi phí quản lý hợp lý, kiên định duy trì kỷ luật tích lũy định kỳ dài hạn (ít nhất 5-10 năm) bất chấp các đợt rung lắc ngắn hạn của thị trường."
+        "Vì việc rút vốn sớm sẽ khiến nhà đầu tư phải chịu các khoản phí phạt rất cao từ các tổ chức tài chính quản lý quỹ.",
+        "Vì đầu tư ngắn hạn không bao giờ mang lại lợi nhuận, chỉ có đầu tư dài hạn mới đảm bảo được sự an toàn tài chính.",
+        "Vì lãi kép cần thời gian dài để phát huy hiệu quả, việc rút vốn sớm khiến nhà đầu tư mất đi cơ hội tăng trưởng.",
+        "Vì việc hái quả xanh là hành động thể hiện sự thiếu kiên nhẫn và thiếu kiến thức về các chu kỳ kinh tế thị trường."
       ],
-      "correctIndex": 3,
-      "explanation": "Đầu tư quỹ là cuộc đua marathon dài hạn. Kỷ luật nắm giữ và tích lũy qua các chu kỳ kinh tế mới là yếu tố quyết định thắng lợi, chứ không phải việc lướt sóng nhảy ra nhảy vào."
+      "correctIndex": 2,
+      "explanation": "Lãi kép cần thời gian để tăng trưởng như cây cần thời gian để quả chín. Rút vốn sớm là tự cắt đứt tiềm năng tăng trưởng."
     },
     {
       "id": "q8",
-      "question": "Tại sao 'Bảo hiểm niên kim' (Annuity Insurance) lại được xem là 'chiếc đệm đỡ an toàn tối thượng' cho giai đoạn tuổi già?",
+      "question": "Thông điệp chính mà các nhân vật muốn truyền tải qua cuộc trò chuyện về tuổi già là gì?",
       "options": [
-        "Vì bảo hiểm niên kim thay thế hoàn toàn nhu cầu ăn uống hàng ngày.",
-        "Vì mua bảo hiểm niên kim sẽ được miễn toàn bộ tiền điện nước trọn đời.",
-        "Vì nó cung cấp dòng tiền chi trả đều đặn định kỳ suốt đời cho đến khi người thụ hưởng qua đời, giải quyết triệt để nỗi sợ hãi 'sống quá thọ mà hết tiền'.",
-        "Vì bảo hiểm niên kim cam kết trả lại gấp 10 lần số tiền đóng chỉ sau 1 năm."
+        "Nên tìm kiếm sự giúp đỡ từ các chuyên gia tài chính để họ quản lý toàn bộ số tiền tiết kiệm của gia đình mình.",
+        "Việc chuẩn bị cho tuổi già là trách nhiệm của chính phủ, cá nhân chỉ cần tập trung làm việc và chi tiêu hợp lý.",
+        "Nên đầu tư vào các loại bảo hiểm có lãi suất cao nhất để đảm bảo cuộc sống sung túc mà không cần phải lo lắng gì.",
+        "Cần chủ động lập kế hoạch tài chính sớm, tận dụng sức mạnh lãi kép và hiểu rõ các nhân tố ảnh hưởng đến đầu tư."
       ],
-      "correctIndex": 2,
-      "explanation": "Bảo hiểm niên kim hoạt động như một cỗ máy tạo lương hưu tư nhân trọn đời: sống bao lâu nhận tiền bấy lâu, vô hiệu hóa hoàn toàn rủi ro sống thọ hơn tiền tích lũy."
+      "correctIndex": 3,
+      "explanation": "Chương sách nhấn mạnh việc tự chủ tài chính thông qua hiểu biết về lãi kép, tỉ suất lợi nhuận và thời gian đầu tư."
     },
     {
       "id": "q9",
-      "question": "Mô hình 'Ba trụ cột hưu trí' chuẩn mực trong quản lý tài chính hiện đại bao gồm những tầng bảo vệ nào?",
+      "question": "Khi Kim Min Seok lo lắng về việc không có đáp án cho tuổi già, Jang Un Woo đã gợi ý giải pháp nào?",
       "options": [
-        "Trụ cột 1: Bảo hiểm xã hội quốc gia (Lương hưu cơ bản) - Trụ cột 2: Bảo hiểm hưu trí doanh nghiệp/công ty - Trụ cột 3: Quỹ tích lũy & Bảo hiểm niên kim cá nhân tự nguyện.",
-        "Tiền mặt ở nhà, Tiền gửi bạn bè và Tiền gửi họ hàng.",
-        "Bảo hiểm xe máy, Bảo hiểm hỏa hoạn và Bảo hiểm du lịch.",
-        "Sổ đỏ nhà ở, Xe ô tô và Đồ trang sức cá nhân."
+        "Sử dụng linh hoạt tỉ suất lợi nhuận và hiểu rõ sức mạnh của lãi kép để giải quyết các vấn đề tài chính cá nhân.",
+        "Cắt giảm toàn bộ các khoản chi tiêu không cần thiết và chuyển sang làm thêm nhiều công việc khác để tăng thu nhập.",
+        "Đầu tư toàn bộ số tiền tiết kiệm vào các dự án bất động sản tiềm năng để thu về lợi nhuận cao trong thời gian ngắn.",
+        "Chuyển đổi công việc sang các lĩnh vực có thu nhập cao hơn để có thể tiết kiệm được nhiều tiền hơn mỗi tháng."
       ],
       "correctIndex": 0,
-      "explanation": "Mô hình 3 trụ cột (Nhà nước - Doanh nghiệp - Cá nhân) là kiềng 3 chân vững chắc. Trông cậy vào một chân duy nhất của nhà nước là cực kỳ bấp bênh; tự thân xây dựng trụ cột thứ 3 mới đảm bảo thịnh vượng."
+      "explanation": "Jang Un Woo khẳng định đáp án nằm ở tỉ suất lợi nhuận và việc ứng dụng lãi kép để tối ưu hóa khả năng tiết kiệm."
     },
     {
       "id": "q10",
-      "question": "Giả sử hai người A và B cùng đầu tư với mức lợi nhuận 10%/năm: Người A đầu tư từ năm 25 tuổi đến 35 tuổi (10 năm) rồi dừng không đóng thêm; Người B từ 35 tuổi mới bắt đầu đóng đều đặn liên tục đến 60 tuổi (25 năm). Kết quả ở tuổi 60 là gì?",
+      "question": "Tại sao Chei Kyoeng Won lại nhấn mạnh rằng việc chuẩn bị cho tuổi già không nên chần chừ?",
       "options": [
-        "Người B chắc chắn sẽ có số tiền gấp đôi người A vì đóng tiền trong thời gian dài gấp 2.5 lần.",
-        "Cả hai người sẽ có số tiền chính xác bằng 0.",
-        "Người A sẽ bị mất hết tiền vì đã dừng đóng sau 10 năm.",
-        "Nhờ có thêm 10 năm sinh sôi lãi kép ban đầu, khối tài sản của người A ở tuổi 60 hoàn toàn có thể lớn hơn hoặc tương đương người B dù người A bỏ ra tổng vốn gốc ít hơn rất nhiều."
+        "Vì các sản phẩm tài chính dành cho tuổi già thường có giới hạn về độ tuổi tham gia và sẽ tăng phí theo thời gian.",
+        "Vì chuẩn bị sớm dù chỉ một ngày cũng mang lại lợi thế lớn nhờ vào hiệu ứng tích lũy của lãi kép theo thời gian.",
+        "Vì thị trường tài chính luôn biến động, bắt đầu sớm giúp nhà đầu tư có thêm thời gian để sửa chữa các sai lầm.",
+        "Vì việc trì hoãn sẽ khiến nhà đầu tư mất đi cơ hội được hưởng các ưu đãi đặc biệt từ các ngân hàng và bảo hiểm."
       ],
-      "correctIndex": 3,
-      "explanation": "Đây là nghịch lý kinh điển chứng minh sức mạnh của lãi kép và thời gian: Người bắt đầu sớm với số vốn nhỏ tận dụng đà tăng theo hàm mũ sẽ dễ dàng đánh bại người bắt đầu muộn dù người sau đóng nhiều tiền hơn."
+      "correctIndex": 1,
+      "explanation": "Sự chênh lệch tài sản giữa việc bắt đầu sớm và muộn là rất lớn, do đó không nên trì hoãn việc chuẩn bị cho tuổi già."
     },
     {
       "id": "q11",
-      "question": "Tại sao việc chỉ gửi tiền vào 'Sổ tiết kiệm ngân hàng kỳ hạn ngắn' lại tiềm ẩn rủi ro tái đầu tư (Reinvestment Risk) khi lập kế hoạch 30 năm hưu trí?",
+      "question": "Theo chương sách, yếu tố nào khiến cho lãi kép trở nên 'đáng sợ' theo hướng tích cực?",
       "options": [
-        "Vì lãi suất ngân hàng biến động liên tục theo chu kỳ kinh tế; khi lãi suất giảm mạnh trong tương lai, nguồn thu nhập lãi dự tính sẽ sụt giảm nghiêm trọng làm vỡ kế hoạch dòng tiền hưu trí.",
-        "Vì ngân hàng luôn từ chối cho người gửi tiền tái tục sổ tiết kiệm.",
-        "Vì tất cả các ngân hàng đều phá sản sau mỗi 5 năm.",
-        "Vì sổ tiết kiệm chỉ có giá trị pháp lý trong vòng 30 ngày."
+        "Khả năng tự động điều chỉnh các khoản đầu tư để luôn đạt được mức lợi nhuận cao nhất trong mọi điều kiện thị trường.",
+        "Việc các tổ chức tài chính luôn ưu tiên áp dụng lãi kép cho tất cả các khách hàng tham gia vào các quỹ đầu tư.",
+        "Tốc độ gia tăng tài sản sẽ tăng lên theo hàm số mũ, tạo ra sự khác biệt khổng lồ sau một khoảng thời gian dài.",
+        "Sự ổn định của lãi kép giúp nhà đầu tư không bao giờ phải lo lắng về các rủi ro liên quan đến lạm phát kinh tế."
       ],
-      "correctIndex": 0,
-      "explanation": "Gửi tiết kiệm ngắn hạn khiến dòng tiền chịu biến động lãi suất. Khi nền kinh tế bước vào chu kỳ lãi suất cận 0, thu nhập từ lãi tiền gửi sẽ teo tóp và không đủ trang trải sinh hoạt."
+      "correctIndex": 2,
+      "explanation": "Tốc độ gia tăng tài sản của lãi kép tăng lên theo thời gian, tạo ra sự bùng nổ tài sản mà nhiều người không ngờ tới."
     },
     {
       "id": "q12",
-      "question": "Lập kế hoạch tài chính cho 'Một gia đình hạnh phúc' đòi hỏi sự đồng thuận và tham gia của những ai?",
+      "question": "Kim Min Seok đã nhận ra điều gì sau khi nghe giải thích về lãi kép từ hai người bạn?",
       "options": [
-        "Chỉ riêng người đàn ông trụ cột trong gia đình tự quyết định và giấu kín mọi thông tin.",
-        "Chỉ cần nhờ người hàng xóm lên kế hoạch giúp.",
-        "Cả hai vợ chồng cần cởi mở chia sẻ, thống nhất mục tiêu tài chính chung, phân định rõ ngân sách và cùng nhau xây dựng kế hoạch hưu trí có sự thấu hiểu của con cái.",
-        "Chỉ cần con cái quyết định toàn bộ việc chi tiêu của cha mẹ."
+        "Anh nhận ra rằng việc tiết kiệm tiền là không cần thiết nếu anh có thể tìm được các cơ hội đầu tư lợi nhuận cao.",
+        "Anh nhận ra rằng hai người bạn của mình đã giấu kín bí quyết làm giàu và anh cần phải học hỏi từ họ nhiều hơn.",
+        "Anh nhận ra rằng việc chuẩn bị cho tuổi già là một công việc rất dễ dàng và anh có thể hoàn thành trong thời gian.",
+        "Anh nhận ra mình đã bỏ lỡ cơ hội tận dụng lãi kép và cần phải thay đổi tư duy đầu tư ngay từ thời điểm này."
       ],
-      "correctIndex": 2,
-      "explanation": "Tài chính gia đình là công việc đồng đội. Nếu hai vợ chồng 'trống đánh xuôi kèn thổi ngược' trong chi tiêu và đầu tư thì không kế hoạch tài chính nào có thể thành công."
+      "correctIndex": 3,
+      "explanation": "Kim Min Seok hiểu ra tầm quan trọng của lãi kép và cảm thấy cần phải hành động ngay để cải thiện tương lai tài chính."
     },
     {
       "id": "q13",
-      "question": "Khi thị trường tài chính xảy ra khủng hoảng sụt giảm mạnh, phản ứng chuẩn xác nhất của một nhà đầu tư quỹ hưu trí định kỳ dài hạn là gì?",
+      "question": "Tại sao việc hiểu về lãi kép lại quan trọng đối với những người đang chuẩn bị cho tuổi già?",
       "options": [
-        "Đi vay nợ nóng để mua thêm gấp 10 lần số lượng cổ phiếu rác.",
-        "Khiếu nại cơ quan quản lý đóng cửa thị trường tài chính.",
-        "Hoảng loạn bán tháo toàn bộ chứng chỉ quỹ ở đáy để rút tiền mặt về cất két.",
-        "Bình tĩnh duy trì kỷ luật tích lũy định kỳ, xem đây là cơ hội tuyệt vời để mua được nhiều tài sản giá trị với mức giá 'siêu giảm giá' (Sale-off) nhằm gia tăng lợi nhuận bùng nổ khi thị trường hồi phục."
+        "Nó giúp nhà đầu tư có cái nhìn đúng đắn về giá trị của thời gian và tỉ suất lợi nhuận trong việc tích lũy tài.",
+        "Nó giúp nhà đầu tư có thể tự mình quản lý các danh mục đầu tư mà không cần phải nhờ đến sự tư vấn của chuyên gia.",
+        "Nó giúp nhà đầu tư có thể dự đoán chính xác số tiền mình sẽ có trong tương lai mà không cần phải tính toán nhiều.",
+        "Nó giúp nhà đầu tư có thể tránh được tất cả các rủi ro tài chính có thể xảy ra trong suốt quá trình đầu tư dài."
       ],
-      "correctIndex": 3,
-      "explanation": "Nhà đầu tư dài hạn hiểu rằng suy thoái là cơ hội gom tài sản giá rẻ. Việc bán tháo trong hoảng loạn chính là hành vi tự biến 'lỗ trên giấy' thành 'lỗ thực tế vĩnh viễn'."
+      "correctIndex": 0,
+      "explanation": "Hiểu về lãi kép giúp người chuẩn bị tuổi già biết cách tối ưu hóa nguồn lực và thời gian để đạt mục tiêu tài chính."
     },
     {
       "id": "q14",
-      "question": "Điều gì phân biệt một 'khoản đầu tư thông minh' với một 'trò cá cược đầu cơ' trong hoạch định quỹ tuổi già?",
+      "question": "Theo chương sách, sự khác biệt giữa lãi đơn và lãi kép thể hiện rõ nhất ở thời điểm nào?",
       "options": [
-        "Đầu tư thông minh là việc mua bất động sản, đầu cơ là việc mua chứng chỉ quỹ.",
-        "Đầu cơ luôn mang lại lợi nhuận chắc chắn hơn đầu tư.",
-        "Không có bất kỳ sự khác biệt nào giữa hai khái niệm.",
-        "Đầu tư thông minh dựa trên nghiên cứu cơ bản, giá trị nội tại, tầm nhìn dài hạn và phân bổ rủi ro; còn đầu cơ dựa trên tin đồn, lòng tham ngắn hạn và mong muốn giàu nhanh sau một đêm."
+        "Sự khác biệt chỉ xuất hiện trong năm đầu tiên của khoản đầu tư, sau đó cả hai sẽ có kết quả tương đương nhau.",
+        "Sự khác biệt trở nên rõ rệt và tăng dần theo thời gian, đặc biệt là sau một khoảng thời gian đầu tư dài hạn.",
+        "Sự khác biệt chỉ xuất hiện khi nhà đầu tư quyết định rút toàn bộ số tiền gốc và lãi ra khỏi tài khoản ngân hàng.",
+        "Sự khác biệt không đáng kể và không ảnh hưởng nhiều đến tổng số tiền tích lũy được sau nhiều năm đầu tư dài."
       ],
-      "correctIndex": 3,
-      "explanation": "Quỹ hưu trí là khoản tiền sinh mạng cho 30 năm cuối đời; tuyệt đối không được mang khoản tiền này đánh cược vào các trò đầu cơ lướt sóng theo phong trào thiếu hiểu biết."
+      "correctIndex": 1,
+      "explanation": "Thời gian càng dài, sự chênh lệch giữa lãi đơn và lãi kép càng lớn, minh chứng cho sức mạnh của lãi kép."
     },
     {
       "id": "q15",
-      "question": "Lời kêu gọi 'Nào, bây giờ hãy bắt đầu!' ở cuối chương 3 truyền tải tinh thần cốt lõi nào?",
+      "question": "Lời khuyên của Chei Kyoeng Won về việc chuẩn bị cho tuổi già là gì?",
       "options": [
-        "Hãy nghỉ việc ngay hôm nay để bắt đầu cuộc sống hưu trí.",
-        "Thời điểm hoàn hảo nhất để trồng cây là 20 năm trước, thời điểm tốt thứ hai là NGAY BÂY GIỜ; đừng trì hoãn thêm một ngày nào nữa trên hành trình tích lũy thịnh vượng.",
-        "Chỉ cần suy nghĩ tích cực là tiền bạc sẽ tự động sinh sôi mà không cần làm gì.",
-        "Hãy chờ đợi thời điểm thị trường hoàn hảo nhất rồi mới bắt đầu hành động."
+        "Nên tập trung vào việc tăng thu nhập hàng tháng để có thể tiết kiệm được nhiều tiền hơn cho cuộc sống về già sau.",
+        "Nên tìm kiếm các cơ hội đầu tư có lợi nhuận cao nhất có thể để nhanh chóng đạt được mục tiêu tài chính của mình.",
+        "Nên bắt đầu càng sớm càng tốt và kiên trì đầu tư để tận dụng tối đa sức mạnh của lãi kép trong thời gian dài.",
+        "Nên dành thời gian để học hỏi các kỹ năng đầu tư chuyên sâu để có thể tự quản lý tài sản của mình một cách tốt."
       ],
-      "correctIndex": 1,
-      "explanation": "Hành động ngay lập tức là chìa khóa. Mọi lý thuyết tuyệt vời về lãi kép và đầu tư sẽ trở nên vô nghĩa nếu bạn không bắt đầu mở tài khoản và trích lập khoản tích lũy đầu tiên ngay hôm nay."
+      "correctIndex": 2,
+      "explanation": "Bắt đầu sớm và kiên trì là chìa khóa để tận dụng lãi kép, giúp đạt được sự thịnh vượng tài chính khi về già."
     }
   ]
 }

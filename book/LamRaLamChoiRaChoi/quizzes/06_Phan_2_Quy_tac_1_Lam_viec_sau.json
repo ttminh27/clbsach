@@ -6,24 +6,24 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Mô hình kiến trúc 'Cỗ máy Eudaimonia' của David Dewane được thiết kế gồm 5 phòng thẳng hàng (Phòng trưng bày -> Salon -> Thư viện -> Văn phòng -> Phòng làm việc sâu) nhằm mục đích gì?",
+      "question": "Mô hình kiến trúc 'Cỗ máy Eudaimonia' của David Dewane được thiết kế gồm 5 phòng thẳng hàng nhằm mục đích gì?",
       "options": [
-        "Để khách tham quan có thể ngắm nhìn các nhân viên làm việc mà không làm phiền họ.",
-        "Tạo ra một hành trình tâm lý từng bước chuyển đổi nhận thức: từ sự truyền cảm hứng, trao đổi ý tưởng, nghiên cứu tài liệu, chuẩn bị hậu cần cho đến căn phòng cô lập hoàn toàn để làm việc sâu đỉnh cao.",
-        "Để tiết kiệm chi phí xây dựng hành lang chung trong tòa nhà.",
-        "Để nhân viên có thể tập thể dục đi bộ nhiều hơn trong giờ làm việc."
+        "Tạo ra một hành trình tâm lý từng bước chuyển đổi nhận thức từ sự truyền cảm hứng, trao đổi ý tưởng đến làm việc sâu.",
+        "Tối ưu hóa không gian vật lý để tiết kiệm chi phí xây dựng hành lang chung và tăng mật độ sử dụng diện tích tòa nhà.",
+        "Thiết lập một quy trình kiểm soát nhân sự nghiêm ngặt nhằm giám sát hiệu suất làm việc của từng cá nhân trong tòa nhà.",
+        "Tạo ra một môi trường làm việc mở để khuyến khích sự tương tác ngẫu nhiên giữa các đồng nghiệp trong cùng dự án lớn."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Cấu trúc không có hành lang phụ ép người dùng phải đi qua từng lớp chuyển hóa tâm lý, gột rửa sự xao lãng trước khi bước vào phòng sâu tối thượng."
     },
     {
       "id": "q2",
-      "question": "Nghiên cứu về 'Sự cạn kiệt ý chí' (Ego Depletion) của nhà tâm lý học Roy Baumeister chỉ ra sai lầm chết người nào của những người muốn làm việc sâu?",
+      "question": "Nghiên cứu về 'Sự cạn kiệt ý chí' của Roy Baumeister chỉ ra sai lầm phổ biến nào của những người muốn làm việc sâu?",
       "options": [
-        "Nghĩ rằng con người không bao giờ có thể kiểm soát được hành vi của mình.",
-        "Tưởng rằng ý chí là nguồn tài nguyên vô hạn và chỉ cần 'quyết tâm' là có thể chống lại mọi cám dỗ phân tâm suốt cả ngày.",
-        "Tin rằng ăn nhiều đồ ngọt sẽ làm giảm khả năng tập trung.",
-        "Cho rằng ý chí chỉ có tác dụng trong việc cai thuốc lá."
+        "Cho rằng việc làm việc sâu chỉ mang lại hiệu quả khi được thực hiện trong môi trường văn phòng mở có nhiều sự tương tác.",
+        "Tin rằng ý chí là nguồn tài nguyên vô hạn và chỉ cần quyết tâm cao độ là có thể chống lại mọi cám dỗ suốt cả ngày.",
+        "Nghĩ rằng khả năng tập trung sâu là một năng khiếu bẩm sinh mà không thể rèn luyện thông qua các thói quen hàng ngày.",
+        "Tin rằng việc nghỉ ngơi giữa giờ làm việc sẽ làm giảm đáng kể năng suất và sự sáng tạo của người lao động trí óc."
       ],
       "correctIndex": 1,
       "explanation": "Ý chí giống như một bó cơ hữu hạn; nếu bạn phải liên tục dùng ý chí để đấu tranh với việc có mở Facebook hay không, bạn sẽ nhanh chóng kiệt sức và đầu hàng."
@@ -32,154 +32,154 @@
       "id": "q3",
       "question": "Để không phải tiêu tốn nguồn ý chí quý giá vào việc chống lại cám dỗ, Cal Newport đề xuất giải pháp nền tảng nào?",
       "options": [
-        "Thuê một bảo vệ đứng sau lưng cầm roi nhắc nhở.",
-        "Uống thuốc an thần trước khi làm việc.",
-        "Nghi thức hóa (Ritualize): Thiết lập các thói quen, quy trình và môi trường cố định để việc bước vào trạng thái làm việc sâu diễn ra tự động và tốn ít sức lực nhất.",
-        "Chỉ làm việc khi nào có cảm hứng tự nhiên dâng trào."
+        "Tăng cường rèn luyện khả năng chịu đựng áp lực bằng cách cố tình làm việc trong môi trường có nhiều tiếng ồn và xao lãng.",
+        "Sử dụng các ứng dụng công nghệ hiện đại để khóa toàn bộ các trang mạng xã hội trong suốt thời gian làm việc trong ngày.",
+        "Nghi thức hóa việc thiết lập các thói quen, quy trình và môi trường cố định để trạng thái làm việc sâu diễn ra tự động.",
+        "Thay đổi hoàn toàn lịch trình làm việc hàng ngày để tránh sự nhàm chán và duy trì sự hứng khởi cho não bộ liên tục."
       ],
       "correctIndex": 2,
       "explanation": "Nghi thức hóa biến sự tập trung thành thói quen tự động, triệt tiêu nhu cầu phải đưa ra quyết định hay dùng ý chí gượng ép."
     },
     {
       "id": "q4",
-      "question": "'Triết lý Tu sĩ' (The Monastic Philosophy) về sắp xếp lịch trình Deep Work được đặc trưng bởi điều gì?",
+      "question": "'Triết lý Tu sĩ' về sắp xếp lịch trình làm việc sâu được đặc trưng bởi phương pháp tiếp cận nào dưới đây?",
       "options": [
-        "Loại bỏ hoặc giảm thiểu triệt để tất cả các nghĩa vụ hời hợt, cô lập bản thân gần như hoàn toàn khỏi thế giới bên ngoài để cống hiến trọn vẹn cho mục tiêu sâu sắc duy nhất (như Donald Knuth, Neal Stephenson).",
-        "Chia ngày làm việc thành các khoảng thời gian 25 phút Pomodoro.",
-        "Vừa làm việc vừa đọc kinh thánh.",
-        "Chỉ làm việc vào ban đêm và ngủ vào ban ngày."
+        "Chia nhỏ ngày làm việc thành các khoảng thời gian ngắn để đảm bảo sự cân bằng giữa công việc chuyên môn và giao tiếp.",
+        "Tận dụng mọi khoảng thời gian trống trong ngày để thực hiện các công việc đòi hỏi sự tập trung cao độ nhất có thể.",
+        "Kết hợp hài hòa giữa việc làm việc sâu tại văn phòng và các hoạt động xã hội để duy trì mối quan hệ với đồng nghiệp.",
+        "Loại bỏ hoặc giảm thiểu triệt để các nghĩa vụ hời hợt, cô lập bản thân khỏi thế giới để cống hiến cho mục tiêu sâu sắc."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Triết lý Tu sĩ tối đa hóa Deep Work bằng cách cắt đứt mọi mối liên hệ hời hợt; họ không dùng email, không nhận lời mời họp, hoàn toàn ẩn dật."
     },
     {
       "id": "q5",
-      "question": "'Triết lý Hai thái cực' (The Bimodal Philosophy) mà Carl Jung đã áp dụng hoạt động theo nguyên tắc nào?",
+      "question": "'Triết lý Hai thái cực' mà Carl Jung đã áp dụng hoạt động theo nguyên tắc cốt lõi nào dưới đây?",
       "options": [
-        "Phân chia cuộc sống thành những khoảng thời gian cách biệt rõ ràng: một khoảng dành hoàn toàn cho làm việc sâu tuyệt đối (vài ngày, vài tuần), khoảng còn lại dành cho công việc thường nhật và giao tiếp xã hội.",
-        "Vừa làm việc văn phòng vừa làm thêm công việc kinh doanh tự do.",
-        "Làm việc cật lực trong 1 năm rồi nghỉ ngơi hoàn toàn trong 1 năm tiếp theo.",
-        "Một nửa ngày làm việc vui vẻ, nửa ngày còn lại cáu gắt."
+        "Phân chia cuộc sống thành những khoảng thời gian cách biệt rõ ràng cho làm việc sâu tuyệt đối và công việc thường nhật.",
+        "Luân phiên thay đổi môi trường làm việc giữa không gian yên tĩnh và không gian sôi động để kích thích sự sáng tạo mới.",
+        "Dành toàn bộ thời gian trong ngày cho công việc chuyên môn và chỉ dành thời gian nghỉ ngơi vào cuối tuần hoặc lễ tết.",
+        "Ưu tiên thực hiện các công việc khó khăn vào buổi sáng và để lại các công việc hành chính cho buổi chiều muộn mỗi ngày."
       ],
       "correctIndex": 0,
       "explanation": "Jung phân tách: khi ở Tháp Bollingen ông là một tu sĩ làm việc sâu; khi về Zurich ông khám bệnh lâm sàng và giảng dạy như người bình thường."
     },
     {
       "id": "q6",
-      "question": "Tại sao 'Triết lý Nhịp điệu' (The Rhythmic Philosophy) lại là phương pháp thực tế và dễ áp dụng nhất cho hầu hết người lao động hiện đại?",
+      "question": "Tại sao 'Triết lý Nhịp điệu' lại được coi là phương pháp thực tế và dễ áp dụng nhất cho người lao động hiện đại?",
       "options": [
-        "Nó không đòi hỏi người làm việc phải hoàn thành bất kỳ mục tiêu nào.",
-        "Nó biến Deep Work thành một thói quen hàng ngày vào những khung giờ cố định bất di bất dịch (ví dụ 6h - 8h sáng mỗi ngày), áp dụng nguyên tắc 'chuỗi không đứt đoạn' (Don't break the chain) của Jerry Seinfeld.",
-        "Vì nó cho phép người làm việc vừa nghe nhạc vừa gõ văn bản.",
-        "Nó cho phép người làm việc ngủ nướng vào các ngày trong tuần."
+        "Nó cho phép người lao động linh hoạt thay đổi thời gian làm việc tùy thuộc vào khối lượng công việc thực tế mỗi ngày.",
+        "Nó biến làm việc sâu thành thói quen hàng ngày vào những khung giờ cố định để tạo ra chuỗi thành tích không đứt đoạn.",
+        "Nó tập trung vào việc hoàn thành các mục tiêu ngắn hạn thay vì theo đuổi các dự án dài hạn đòi hỏi sự tập trung cao.",
+        "Nó khuyến khích người lao động làm việc theo nhóm để cùng nhau duy trì nhịp độ tập trung trong suốt cả ngày làm việc."
       ],
       "correctIndex": 1,
       "explanation": "Đều đặn như nhịp đồng hồ mỗi sáng giúp việc tập trung trở thành phản xạ tự nhiên mà không cần phải lập kế hoạch phức tạp hay cách ly dài ngày."
     },
     {
       "id": "q7",
-      "question": "'Triết lý Nhà báo' (The Journalistic Philosophy) như Walter Isaacson thực hiện đòi hỏi điều kiện tiên quyết nào ở người áp dụng?",
+      "question": "'Triết lý Nhà báo' đòi hỏi điều kiện tiên quyết nào ở người áp dụng để đạt được hiệu quả cao nhất?",
       "options": [
-        "Năng lực chuyển đổi tâm trí tức thì từ trạng thái bình thường sang tập trung sâu bất cứ khi nào có khoảng trống 20-30 phút; đòi hỏi sự tự tin cao độ và kinh nghiệm dày dạn mà người mới bắt đầu không nên thử.",
-        "Khả năng phỏng vấn người lạ trên đường phố.",
-        "Phải có thẻ nhà báo quốc tế được chính phủ cấp.",
-        "Kỹ năng chụp ảnh phóng sự chuyên nghiệp."
+        "Khả năng duy trì sự tập trung liên tục trong nhiều giờ liền mà không cần bất kỳ sự nghỉ ngơi hay gián đoạn nào xảy ra.",
+        "Kỹ năng quản lý thời gian tuyệt vời để có thể hoàn thành nhiều công việc khác nhau trong cùng một khoảng thời gian ngắn.",
+        "Năng lực chuyển đổi tâm trí tức thì từ trạng thái bình thường sang tập trung sâu bất cứ khi nào có khoảng trống thời gian.",
+        "Sự hỗ trợ từ một đội ngũ trợ lý đắc lực để xử lý các công việc hành chính và các yêu cầu giao tiếp từ bên ngoài."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Chuyển chế độ tư duy chớp nhoáng rất dễ làm suy kiệt ý chí nếu bạn chưa tôi luyện bộ não đủ vững vàng; người mới áp dụng cách này thường thất bại thảm hại."
     },
     {
       "id": "q8",
-      "question": "Chiến lược 'Cử chỉ hoành tráng' (The Grand Gesture) - như việc J.K. Rowling chi hàng ngàn đô la thuê phòng khách sạn 5 sao sang trọng The Balmoral để viết Harry Potter - mang lại hiệu quả tâm lý nào?",
+      "question": "Chiến lược 'Cử chỉ hoành tráng' mang lại hiệu quả tâm lý nào cho người thực hiện công việc chuyên sâu?",
       "options": [
-        "Để tránh phải dọn dẹp phòng ngủ cá nhân.",
-        "Để khoe sự giàu có với giới truyền thông quốc tế.",
-        "Để thưởng thức các món ăn ngon của khách sạn.",
-        "Bằng việc đánh đổi một nguồn lực lớn (tiền bạc, khoảng cách, công sức), bạn đã phát đi một tín hiệu mạnh mẽ tới tiềm thức rằng nhiệm vụ này có tầm quan trọng sống còn, kích hoạt mức độ cam kết tinh thần cao nhất."
+        "Tạo ra một môi trường làm việc sang trọng giúp người lao động cảm thấy tự tin hơn vào năng lực của bản thân mình.",
+        "Giúp người lao động tách biệt hoàn toàn khỏi các yếu tố gây xao lãng từ môi trường làm việc thông thường hàng ngày.",
+        "Tăng cường sự kết nối với những người có cùng mục tiêu làm việc sâu để cùng nhau chia sẻ kinh nghiệm và kiến thức.",
+        "Đánh đổi nguồn lực lớn để phát đi tín hiệu mạnh mẽ tới tiềm thức rằng nhiệm vụ này có tầm quan trọng sống còn."
       ],
       "correctIndex": 3,
       "explanation": "Hành động đầu tư lớn tạo ra áp lực tâm lý lành mạnh buộc não bộ phải tập trung tương xứng với quy mô của sự đánh đổi."
     },
     {
       "id": "q9",
-      "question": "Khung thực thi 4DX (4 Nguyên tắc Thực thi của McChesney & Covey) được Newport áp dụng vào Deep Work bao gồm những nguyên tắc nào?",
+      "question": "Khung thực thi 4DX được Newport áp dụng vào làm việc sâu bao gồm những nguyên tắc cốt lõi nào?",
       "options": [
-        "1. Mua máy tính mới; 2. Đổi chỗ ngồi; 3. Uống cà phê; 4. Tắt chuông điện thoại.",
-        "1. Làm nhanh; 2. Làm nhiều; 3. Báo cáo sếp; 4. Nhận thưởng.",
-        "1. Tập trung vào điều cực kỳ quan trọng; 2. Hành động dựa trên chỉ số dẫn dắt; 3. Giữ bảng điểm thuyết phục; 4. Tạo nhịp điệu trách nhiệm.",
-        "1. Lập nhóm; 2. Phân chia việc; 3. Họp hàng ngày; 4. Đánh giá cuối năm."
+        "Tập trung vào điều cực kỳ quan trọng, hành động dựa trên chỉ số dẫn dắt, giữ bảng điểm thuyết phục và tạo nhịp điệu trách nhiệm.",
+        "Lập kế hoạch chi tiết hàng ngày, ưu tiên công việc khó nhất, đánh giá kết quả hàng tuần và khen thưởng kịp thời cho nhân viên.",
+        "Phân chia công việc theo nhóm, thiết lập quy trình làm việc chuẩn, giám sát tiến độ thường xuyên và tối ưu hóa nguồn lực.",
+        "Xác định mục tiêu dài hạn, xây dựng lộ trình thực hiện, theo dõi các chỉ số tụt hậu và điều chỉnh chiến lược khi cần thiết."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "4DX là hệ thống thực thi kinh điển: WIG (Wildly Important Goal), Lead Measures (số giờ Deep Work tích lũy), Scoreboard (bảng theo dõi trực quan) và Accountability (rà soát định kỳ)."
     },
     {
       "id": "q10",
-      "question": "Tại sao trong 4DX, 'Chỉ số dẫn dắt' (Lead Measure) - số giờ làm việc sâu thực tế - lại quan trọng hơn 'Chỉ số tụt hậu' (Lag Measure) - số lượng bài báo khoa học xuất bản?",
+      "question": "Tại sao trong 4DX, 'Chỉ số dẫn dắt' lại quan trọng hơn 'Chỉ số tụt hậu' đối với người làm việc sâu?",
       "options": [
-        "Vì chỉ số dẫn dắt giúp bạn được tăng lương nhanh hơn.",
-        "Vì chỉ số tụt hậu không thể đếm được bằng số học.",
-        "Vì các nhà nghiên cứu không thích các con số thống kê tụt hậu.",
-        "Vì chỉ số tụt hậu là kết quả cuối cùng mà bạn không thể trực tiếp kiểm soát ngay hôm nay, trong khi chỉ số dẫn dắt là hành vi bạn hoàn toàn làm chủ và nó trực tiếp thúc đẩy kết quả cuối cùng."
+        "Chỉ số dẫn dắt dễ dàng đo lường và ghi chép lại hơn so với các chỉ số tụt hậu thường mang tính chất định tính phức tạp.",
+        "Chỉ số dẫn dắt là hành vi bạn hoàn toàn làm chủ và nó trực tiếp thúc đẩy kết quả cuối cùng mà bạn mong muốn đạt được.",
+        "Chỉ số tụt hậu thường không phản ánh chính xác nỗ lực thực tế mà người lao động đã bỏ ra trong suốt quá trình làm việc.",
+        "Chỉ số dẫn dắt giúp người lao động cảm thấy tự tin hơn khi nhìn thấy sự tiến bộ rõ rệt trong công việc hàng ngày của mình."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Bạn không thể ép bài báo tự viết ra hôm nay, nhưng bạn hoàn toàn kiểm soát được việc mình có ngồi làm việc sâu đủ 4 tiếng hay không. Tập trung vào hành vi dẫn dắt sẽ tự khắc đẻ ra kết quả."
     },
     {
       "id": "q11",
-      "question": "Chiến lược 'Lười biếng có mục đích' (Be Lazy) và nghi thức đóng sổ cuối ngày (Shutdown Ritual) đem lại lợi ích gì cho khả năng làm việc sâu ngày hôm sau?",
+      "question": "Chiến lược 'Lười biếng có mục đích' và nghi thức đóng sổ cuối ngày đem lại lợi ích gì cho khả năng làm việc sâu?",
       "options": [
-        "Giúp nhân viên trốn tránh trách nhiệm giải trình với cấp trên.",
-        "Giúp bạn có thêm thời gian để cày phim bộ vào ban đêm.",
-        "Cho phép tâm trí nghỉ ngơi hoàn toàn, tái tạo năng lượng ý chí (thông qua Lý thuyết Phục hồi Sự chú ý - ART) và để tiềm thức vô thức tiếp tục ủ các giải pháp cho bài toán phức tạp.",
-        "Giúp tiết kiệm chi phí tiền điện tại văn phòng."
+        "Giúp người lao động có thêm thời gian để tham gia các hoạt động giải trí nhằm cân bằng cuộc sống và công việc hàng ngày.",
+        "Tạo điều kiện để người lao động có thể chuẩn bị tốt hơn cho các công việc hành chính sẽ thực hiện vào ngày hôm sau.",
+        "Cho phép tâm trí nghỉ ngơi hoàn toàn, tái tạo năng lượng ý chí và để tiềm thức tiếp tục ủ các giải pháp cho bài toán.",
+        "Giảm bớt áp lực công việc và giúp người lao động cảm thấy thoải mái hơn khi đối mặt với những thách thức mới mỗi ngày."
       ],
       "correctIndex": 2,
       "explanation": "Làm việc nửa vời vào buổi tối chỉ làm kiệt quệ năng lượng mà không tạo ra giá trị; ngắt kết nối hoàn toàn là điều kiện bắt buộc để ngày hôm sau não bộ tràn đầy sinh lực."
     },
     {
       "id": "q12",
-      "question": "Nghi thức đóng sổ cuối ngày (Shutdown Ritual) của Cal Newport kết thúc bằng câu thần chú nào để giải tỏa hiệu ứng Zeigarnik?",
+      "question": "Nghi thức đóng sổ cuối ngày của Cal Newport kết thúc bằng câu thần chú nào để giải tỏa hiệu ứng Zeigarnik?",
       "options": [
-        "'Đóng sổ hoàn tất!' (Shutdown complete!)",
-        "'Thế là xong việc của ngày hôm nay!'",
-        "'Cuối cùng cũng được nghỉ ngơi!'",
-        "'Hẹn gặp lại ngày mai nhé!'"
+        "Câu khẳng định 'Ngày mai sẽ tốt hơn!' để tạo động lực cho bản thân tiếp tục cố gắng trong những ngày làm việc tiếp theo.",
+        "Câu tổng kết 'Công việc đã xong!' để đánh dấu sự kết thúc của một ngày làm việc đầy nỗ lực và đạt được nhiều kết quả.",
+        "Câu chào tạm biệt 'Hẹn gặp lại ngày mai!' để chuẩn bị tâm thế sẵn sàng cho những nhiệm vụ mới đang chờ đợi phía trước.",
+        "Câu xác nhận 'Đóng sổ hoàn tất!' để phát tín hiệu cho não bộ biết rằng mọi thứ đã an toàn để ngừng suy nghĩ về công việc."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Bằng cách rà soát toàn bộ công việc, lên kế hoạch cho ngày mai và nói câu xác nhận 'Shutdown complete', Newport phát tín hiệu cho não bộ biết rằng mọi thứ đã an toàn để ngừng suy nghĩ về công việc."
     },
     {
       "id": "q13",
-      "question": "Hiệu ứng Zeigarnik (Zeigarnik Effect) trong tâm lý học giải thích hiện tượng nào xảy ra khi bạn không có nghi thức kết thúc công việc?",
+      "question": "Hiệu ứng Zeigarnik trong tâm lý học giải thích hiện tượng nào xảy ra khi bạn không có nghi thức kết thúc công việc?",
       "options": [
-        "Bạn sẽ cảm thấy đói bụng vào nửa đêm.",
-        "Bộ não sẽ liên tục bị ám ảnh và nhắc nhở về những nhiệm vụ còn dang dở, cướp đi sự bình an trong buổi tối và phá vỡ giấc ngủ của bạn.",
-        "Bộ não sẽ tự động quên hết mọi việc chưa làm.",
-        "Bộ não sẽ ghi nhớ tốt hơn các công thức toán học cổ đại."
+        "Bộ não liên tục bị ám ảnh về những nhiệm vụ còn dang dở, cướp đi sự bình an trong buổi tối và phá vỡ giấc ngủ của bạn.",
+        "Người lao động sẽ cảm thấy khó khăn hơn trong việc tập trung vào các công việc cá nhân sau khi đã kết thúc giờ làm việc.",
+        "Khả năng ghi nhớ các thông tin quan trọng liên quan đến công việc sẽ bị suy giảm đáng kể nếu không được tổng kết lại.",
+        "Người lao động sẽ mất đi sự hứng thú đối với công việc và cảm thấy mệt mỏi khi phải bắt đầu lại vào ngày hôm sau đó."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Các việc dang dở sẽ liên tục gửi tín hiệu báo động trong tâm trí; một kế hoạch rõ ràng để xử lý chúng vào ngày mai là cách duy nhất tắt đi tiếng chuông báo động này."
     },
     {
       "id": "q14",
       "question": "Một người cố gắng làm việc sâu 8 tiếng liên tục mỗi ngày ngay từ tuần đầu tiên thường sẽ gặp phải kết cục nào?",
       "options": [
-        "Họ sẽ trở thành thiên tài khoa học ngay lập tức.",
-        "Họ sẽ được thăng chức làm giám đốc điều hành.",
-        "Họ sẽ không bao giờ cảm thấy mệt mỏi nữa.",
-        "Họ sẽ nhanh chóng bị kiệt quệ tinh thần (burnout) và sụp đổ, vì nghiên cứu của Anders Ericsson chứng minh ngay cả các chuyên gia hàng đầu thế giới cũng chỉ duy trì được tối đa 4 tiếng Deep Work thực sự mỗi ngày."
+        "Họ sẽ đạt được hiệu suất làm việc vượt trội so với những người chỉ làm việc sâu trong khoảng thời gian ngắn hơn mỗi ngày.",
+        "Họ sẽ nhanh chóng bị kiệt quệ tinh thần và sụp đổ vì giới hạn sinh học chỉ cho phép duy trì tối đa 4 tiếng tập trung.",
+        "Họ sẽ dần dần thích nghi với cường độ làm việc cao và trở thành những chuyên gia hàng đầu trong lĩnh vực của mình.",
+        "Họ sẽ cảm thấy hài lòng với thành quả đạt được và tiếp tục duy trì thói quen làm việc này trong suốt sự nghiệp của mình."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Giới hạn sinh học của con người chỉ cho phép tối đa khoảng 4 tiếng tập trung sâu mỗi ngày đối với người đã rèn luyện lâu năm; người mới chỉ duy trì được khoảng 1 tiếng."
     },
     {
       "id": "q15",
-      "question": "Khi thiết kế nghi thức làm việc sâu (Deep Work Ritual), ba yếu tố cốt lõi nào bạn bắt buộc phải xác định rõ ràng trước khi bắt đầu?",
+      "question": "Khi thiết kế nghi thức làm việc sâu, ba yếu tố cốt lõi nào bạn bắt buộc phải xác định rõ ràng trước khi bắt đầu?",
       "options": [
-        "Danh sách những người bạn sẽ gọi điện trò chuyện trong giờ giải lao.",
-        "Bạn sẽ nghe thể loại nhạc gì và ăn món gì trong khi làm việc.",
-        "1. Địa điểm làm việc và thời lượng; 2. Quy tắc làm việc (cấm những gì, làm như thế nào); 3. Cách hỗ trợ công việc (cà phê, tài liệu, vận động thể chất).",
-        "Bạn sẽ mặc quần áo gì, đi giày gì và đeo đồng hồ gì."
+        "Danh sách các công việc cần hoàn thành, thời gian nghỉ ngơi giữa giờ, và các công cụ hỗ trợ cần thiết cho quá trình làm việc.",
+        "Mục tiêu cụ thể của phiên làm việc, phương pháp đánh giá kết quả, và cách thức xử lý các tình huống phát sinh bất ngờ.",
+        "Địa điểm làm việc và thời lượng, quy tắc làm việc cụ thể, và cách hỗ trợ công việc để tối ưu hóa sự tập trung cao độ.",
+        "Thời gian bắt đầu và kết thúc, các nguồn tài liệu tham khảo cần thiết, và cách thức liên lạc với đồng nghiệp khi cần thiết."
       ],
       "correctIndex": 2,
       "explanation": "Nghi thức phải định rõ: Ở đâu, bao lâu, với luật lệ nào và bằng sự hỗ trợ gì để tâm trí không còn bất kỳ sự mơ hồ nào khi bước vào phiên tập trung."

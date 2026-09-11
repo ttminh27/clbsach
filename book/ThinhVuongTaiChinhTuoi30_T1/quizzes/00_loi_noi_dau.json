@@ -1,187 +1,187 @@
 {
-  "bookId": "ThinhVuongTaiChinhTuoi30_T1",
-  "chapterId": "00_loi_noi_dau",
+  "bookId": "thinh-vuong-tai-chinh-tuoi-30-tap-1",
+  "chapterId": "00-loi-noi-dau",
   "chapterTitle": "Lời nói đầu",
   "totalQuestions": 15,
   "questions": [
     {
       "id": "q1",
-      "question": "Tại sao tác giả Nguyễn Mạnh Hùng lại dùng cụm từ 'mù chữ về quản lý tài chính' để mô tả thực trạng của nhiều người hiện nay?",
+      "question": "Tại sao tác giả Nguyễn Mạnh Hùng lại dùng cụm từ \"mù chữ về quản lý tài chính\" để mô tả thực trạng của nhiều người hiện nay?",
       "options": [
-        "Vì đa số mọi người không biết cách đọc các báo cáo tài chính kiểm toán phức tạp của doanh nghiệp.",
-        "Vì người trẻ ngày nay không chịu gửi tiền tiết kiệm vào các ngân hàng thương mại nhà nước.",
-        "Vì thị trường giáo dục đại học hoàn toàn không đào tạo các ngành liên quan đến kế toán và tài chính.",
-        "Vì nhiều người tuy có thu nhập tốt nhưng thiếu hoàn toàn kiến thức về phân biệt tài sản - tiêu sản, thu nhập thụ động và quản trị dòng tiền cá nhân."
+        "Vì nhiều người có thu nhập tốt nhưng thiếu hẳn kiến thức nền tảng về tài sản, tiêu sản và dòng tiền cá nhân.",
+        "Vì phần lớn người lao động không nắm vững các thuật ngữ kế toán chuyên sâu và kỹ thuật đọc báo cáo tài chính.",
+        "Vì người trẻ ngày nay thường lơ là việc mở sổ tiết kiệm tại ngân hàng và chỉ đầu tư theo phong trào xã hội.",
+        "Vì các trường đại học hiện nay hoàn toàn không đào tạo các học phần kế toán hay kỹ năng phân tích dòng tiền."
       ],
-      "correctIndex": 3,
-      "explanation": "Tác giả chỉ ra rằng rất nhiều người có học vấn và thu nhập nhưng lại 'mù chữ tài chính' khi không hiểu các khái niệm nền tảng như tài sản, tiêu sản, thu nhập thụ động hay tự do tài chính, dẫn đến việc làm việc cật lực cả đời mà vẫn rơi vào bất an tài chính."
+      "correctIndex": 0,
+      "explanation": "Tác giả chỉ ra rằng rất nhiều người có học vấn và thu nhập nhưng lại \"mù chữ tài chính\" khi không hiểu các khái niệm nền tảng như tài sản, tiêu sản, thu nhập thụ động hay tự do tài chính, dẫn đến việc làm việc cật lực cả đời mà vẫn rơi vào bất an tài chính."
     },
     {
       "id": "q2",
-      "question": "Hình ảnh ẩn dụ 'móng nhà' và 'vun trồng cây tài chính' trong Lời nói đầu thể hiện quy luật căn bản nào trong hoạch định tài chính cá nhân?",
+      "question": "Hình ảnh ẩn dụ \"móng nhà\" và \"vun trồng cây tài chính\" trong Lời nói đầu thể hiện quy luật căn bản nào trong hoạch định tài chính cá nhân?",
       "options": [
-        "Việc tiết kiệm chỉ có ý nghĩa khi thị trường tài chính rơi vào giai đoạn khủng hoảng suy thoái.",
-        "Muốn giàu nhanh cần phải đầu tư vào các kênh tài chính có đòn bẩy lớn ngay từ đầu.",
-        "Chỉ những người sở hữu bất động sản (móng nhà) mới có thể đạt được tự do tài chính bền vững.",
-        "Tài chính tương lai không thể tự nhiên vững mạnh nếu thiếu đi sự tích lũy kỷ luật và chuẩn bị nền tảng tri thức từ những năm tháng tuổi trẻ."
+        "Chỉ cần kiếm thật nhiều tiền ở giai đoạn đỉnh cao sự nghiệp thì tuổi già tự khắc sẽ được an nhàn sung túc.",
+        "Sự thịnh vượng tuổi già phụ thuộc vào nền móng tích lũy kỷ luật và kiến thức được xây dựng từ khi còn trẻ.",
+        "Tuổi trẻ nên tập trung tối đa cho trải nghiệm cá nhân, việc tích lũy tài chính chỉ cần bắt đầu sau tuổi 45.",
+        "Tài chính vững chắc chỉ có thể đạt được nếu sở hữu bất động sản thừa kế có giá trị lớn từ thế hệ đi trước."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Giống như xây nhà cần móng chắc và trồng cây cần chăm bón từ rễ, sự thịnh vượng tuổi già phụ thuộc hoàn toàn vào những hạt mầm và nền tảng tài chính được xây dựng từ tuổi 20-30."
     },
     {
       "id": "q3",
-      "question": "Theo lập luận của tác giả, lý do cốt lõi khiến cuốn sách 'Thịnh vượng tài chính tuổi 30' là ấn phẩm cần thiết cho MỌI NGƯỜI là gì?",
+      "question": "Theo lập luận của tác giả, lý do cốt lõi khiến cuốn sách \"Thịnh vượng tài chính tuổi 30\" là ấn phẩm cần thiết cho MỌI NGƯỜI là gì?",
       "options": [
-        "Vì ai cũng sẽ già đi và giai đoạn tuổi già là một sự thật tất yếu đòi hỏi phải có sự chuẩn bị tài chính chu đáo từ sớm.",
-        "Vì cuốn sách hướng dẫn cách đầu cơ chứng khoán sinh lời gấp nhiều lần trong thời gian ngắn.",
-        "Vì chỉ có người ở độ tuổi 30 mới có khả năng tiếp thu các lý thuyết kinh tế hiện đại.",
-        "Vì cuốn sách là điều kiện bắt buộc để tham gia vào các diễn đàn doanh nhân khởi nghiệp."
+        "Vì cuốn sách cung cấp các công thức đầu tư mạo hiểm giúp nhân đôi tài sản nhanh chóng sau một vài năm đầu.",
+        "Vì bất kỳ ai bước sang tuổi 30 cũng bắt buộc phải thành lập doanh nghiệp riêng để tự chủ nguồn thu nhập.",
+        "Vì tuổi già là quy luật tất yếu ai cũng phải đối mặt và đòi hỏi sự chuẩn bị tài chính chu đáo từ rất sớm.",
+        "Vì toàn bộ người lao động đều sẽ bị cắt giảm trợ cấp hưu trí xã hội ngay khi rời khỏi thị trường lao động."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Tác giả nhấn mạnh: ai cũng có tuổi già và không ai có thể tránh khỏi quy luật thời gian, do đó việc chuẩn bị tài chính cho tuổi già là nhu cầu bắt buộc của mọi cá nhân."
     },
     {
       "id": "q4",
-      "question": "Một người 25 tuổi cho rằng: 'Tôi còn quá trẻ, thu nhập hiện tại chưa cao nên chưa cần quan tâm đến tự do tài chính hay hưu trí'. Lời nói đầu phản biện quan điểm này như thế nào?",
+      "question": "Một người 25 tuổi cho rằng: \"Tôi còn quá trẻ, thu nhập hiện tại chưa cao nên chưa cần quan tâm đến tự do tài chính hay hưu trí\". Lời nói đầu phản biện quan điểm này như thế nào?",
       "options": [
-        "Thời điểm 25 tuổi chỉ nên tập trung làm việc thiện nguyện thay vì lo nghĩ về tiền bạc cá nhân.",
-        "Người trẻ dưới 30 tuổi nên vay nợ tiêu dùng tối đa để tận hưởng cuộc sống trước khi phải chịu trách nhiệm.",
-        "Chuẩn bị càng sớm thì áp lực tài chính càng nhẹ nhàng và tận dụng được tối đa sức mạnh của thời gian để kiến tạo tương lai an nhàn.",
-        "Chỉ khi nào thu nhập đạt mức giám đốc thì mới nên bắt đầu học cách quản lý tiền bạc."
+        "Thu nhập thấp ở giai đoạn tuổi trẻ là rào cản tuyệt đối khiến mọi nỗ lực tiết kiệm hay đầu tư đều trở nên vô nghĩa.",
+        "Chỉ khi chạm mốc thu nhập trăm triệu mỗi tháng thì việc học hỏi quản lý tài chính mới đem lại hiệu quả.",
+        "Người trẻ nên chi tiêu hết tiền lương để tận hưởng thanh xuân vì tuổi già vẫn còn cách xa hàng chục năm nữa.",
+        "Chuẩn bị càng sớm thì áp lực tài chính càng nhẹ nhờ sức mạnh thời gian và lãi kép kiến tạo nên nền tảng vững vàng."
       ],
-      "correctIndex": 2,
-      "explanation": "Càng trẻ tuổi càng cần đọc và chuẩn bị sớm vì thời gian chính là đòn bẩy tài chính lớn nhất giúp giảm bớt gánh nặng tích lũy và vun trồng 'cây tài chính' vững chắc."
+      "correctIndex": 3,
+      "explanation": "Càng trẻ tuổi càng cần đọc và chuẩn bị sớm vì thời gian chính là đòn bẩy tài chính lớn nhất giúp giảm bớt gánh nặng tích lũy và vun trồng \"cây tài chính\" vững chắc."
     },
     {
       "id": "q5",
-      "question": "Sự khác biệt căn bản giữa 'Tài sản' và 'Tiêu sản' mà người muốn đạt tự do tài chính phải thấu hiểu là gì?",
+      "question": "Sự khác biệt căn bản giữa \"Tài sản\" và \"Tiêu sản\" mà người muốn đạt tự do tài chính phải thấu hiểu là gì?",
       "options": [
-        "Tài sản là vật có giá trị lớn hơn 1 tỷ đồng, còn tiêu sản là vật có giá trị dưới 100 triệu đồng.",
-        "Tài sản là những thứ do cha mẹ để lại, tiêu sản là những thứ bản thân tự mua sắm.",
-        "Tài sản mang lại dòng tiền hoặc gia tăng giá trị vào túi bạn theo thời gian, trong khi tiêu sản liên tục rút tiền ra khỏi túi bạn để vận hành và duy trì.",
-        "Tài sản chỉ bao gồm vàng và ngoại tệ, tiêu sản bao gồm xe máy và quần áo."
+        "Tài sản mang lại dòng tiền hoặc tăng giá trị theo thời gian, còn tiêu sản liên tục rút tiền khỏi túi để duy trì.",
+        "Tài sản là tất cả các vật dụng đắt đỏ sở hữu trong nhà, còn tiêu sản là các hóa đơn dịch vụ hàng ngày.",
+        "Tài sản chỉ bao gồm vàng dự trữ và tiền gửi tiết kiệm ngân hàng, còn tiêu sản là các khoản đầu tư kinh doanh.",
+        "Tài sản luôn đem lại lợi nhuận ngay lập tức, còn tiêu sản là những món đồ không thể bán lại trên thị trường."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Trong tư duy tài chính hiện đại, tài sản đưa tiền vào túi (tạo dòng tiền hoặc tăng trưởng giá trị), còn tiêu sản lấy tiền ra khỏi túi (chi phí duy trì, khấu hao, hao tổn giá trị)."
     },
     {
       "id": "q6",
       "question": "Tại sao các chương trình tọa đàm, câu lạc bộ về quản lý tài chính ngày càng thu hút đông đảo người tham gia theo quan sát của tác giả?",
       "options": [
-        "Vì việc tham gia các hội thảo sẽ được cấp vốn đầu tư miễn phí không hoàn lại.",
-        "Vì đây là các chương trình mang tính giải trí thời thượng của giới trẻ thành thị.",
-        "Vì các ngân hàng bắt buộc người dân phải có chứng chỉ tài chính mới được mở tài khoản.",
-        "Vì xã hội đang dần nhận thức được rằng chỉ làm việc chăm chỉ mà thiếu kỹ năng quản lý tài chính thì không thể bảo đảm an toàn cuộc sống dài hạn."
+        "Vì tham gia hội thảo tài chính là con đường duy nhất giúp người tham dự nhận được các cơ hội kinh doanh độc quyền.",
+        "Vì xã hội nhận ra chỉ làm việc chăm chỉ mà thiếu kỹ năng quản lý tài chính thì không thể bảo đảm tương lai.",
+        "Vì các tổ chức ngân hàng bắt buộc người dân phải có chứng chỉ tài chính cá nhân trước khi cấp thẻ tín dụng.",
+        "Vì mọi người tin rằng các khóa học ngắn hạn sẽ tiết lộ những mẹo làm giàu thần tốc mà không cần lao động."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sự chuyển biến nhận thức của xã hội xuất phát từ thực tế: làm việc cật lực để kiếm tiền là chưa đủ, mà việc quản trị và nhân giống đồng tiền mới quyết định tương lai thịnh vượng."
     },
     {
       "id": "q7",
-      "question": "Khái niệm 'Thu nhập thụ động' đóng vai trò như thế nào trong việc quyết định chất lượng cuộc sống khi về già?",
+      "question": "Khái niệm \"Thu nhập thụ động\" đóng vai trò như thế nào trong việc quyết định chất lượng cuộc sống khi về già?",
       "options": [
-        "Là nguồn thu duy nhất giúp một người duy trì mức sống ổn định và độc lập tài chính khi sức lao động trực tiếp đã suy giảm hoặc chấm dứt.",
-        "Là khoản tiền thưởng một lần duy nhất từ công ty trước khi nghỉ hưu.",
-        "Là khoản vay ngân hàng để trang trải chi phí y tế tuổi già.",
-        "Là nguồn thu không quan trọng vì khi về già con người không còn nhu cầu tiêu xài."
+        "Là khoản tiền thưởng định kỳ từ doanh nghiệp mà người lao động mặc nhiên được hưởng suốt đời sau khi nghỉ hưu.",
+        "Là nguồn tiền phụ trợ không quá quan trọng vì nhu cầu chi tiêu sinh hoạt khi về già sẽ tự động giảm về mức tối thiểu.",
+        "Là nguồn thu chủ lực duy trì mức sống ổn định và tự chủ khi sức lao động trực tiếp đã suy giảm hoặc chấm dứt.",
+        "Là khoản lợi nhuận khổng lồ từ các giao dịch đầu cơ ngắn hạn giúp chi trả mọi chi phí sinh hoạt mà không chịu rủi ro."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Thu nhập thụ động (từ cổ tức, lãi suất, bất động sản cho thuê, bản quyền...) là chìa khóa nuôi sống tuổi già khi con người không còn sức khỏe để bán sức lao động kiếm thu nhập chủ động."
     },
     {
       "id": "q8",
       "question": "Nếu một người chi tiêu toàn bộ số tiền kiếm được vào tiện nghi xa xỉ ở tuổi 30 và không tích lũy, kịch bản khả dĩ nhất ở tuổi 70 của họ là gì?",
       "options": [
-        "Họ sẽ tự động được nhà nước chu cấp mức sống xa hoa tương đương.",
-        "Họ sẽ rơi vào khủng hoảng tài chính, phụ thuộc vào trợ cấp xã hội hoặc phải tiếp tục lao động cực nhọc bất chấp tuổi tác và bệnh tật.",
-        "Họ chắc chắn sẽ nhận được sự bảo bọc hoàn toàn vô điều kiện từ con cái mà không gặp bất kỳ áp lực nào.",
-        "Tài sản tiêu sản của họ sẽ tự động tăng giá gấp hàng chục lần."
+        "Tự động nhận được mức lương hưu nhà nước tương đương với phong cách sống xa hoa thời điểm còn trẻ tuổi.",
+        "Chắc chắn được con cháu chu cấp đầy đủ mọi tiện nghi sinh hoạt mà không gặp bất kỳ áp lực kinh tế hay mâu thuẫn nào.",
+        "Các món đồ xa xỉ đã mua sắm trong quá khứ sẽ tự động gia tăng giá trị gấp nhiều lần để nuôi sống tuổi già.",
+        "Rơi vào khủng hoảng tài chính, phụ thuộc vào trợ cấp hoặc buộc phải tiếp tục lao động cực nhọc khi sức khỏe cạn kiệt."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Không chuẩn bị nền tảng tài chính từ sớm đồng nghĩa với việc đẩy tuổi già vào cảnh bấp bênh, túng thiếu và buộc phải làm việc cực nhọc khi thể lực đã cạn kiệt."
     },
     {
       "id": "q9",
       "question": "Tác giả mong muốn độc giả làm gì sau khi tiếp cận các bài học trong cuốn sách?",
       "options": [
-        "Ngay lập tức áp dụng vào việc thiết lập kế hoạch tài chính cá nhân, thay đổi thói quen chi tiêu và lan tỏa văn hóa quản lý tài chính cho cộng đồng.",
-        "Chờ đến khi bước sang tuổi 50 mới bắt đầu thực hành các nguyên tắc.",
-        "Rút toàn bộ tiền tiết kiệm để mua các tài sản đầu cơ rủi ro cao.",
-        "Chỉ đọc để tích lũy kiến thức lý thuyết cho các kỳ thi học thuật."
+        "Áp dụng ngay vào việc lập kế hoạch tài chính cá nhân, đổi thói quen chi tiêu và lan tỏa văn hóa quản lý dòng tiền.",
+        "Chờ đợi đến khi chạm mốc năm mươi tuổi và sự nghiệp ổn định hoàn toàn mới bắt đầu thực hành các nguyên tắc tài chính.",
+        "Rút toàn bộ tiền tiết kiệm khẩn cấp để dồn vốn tham gia vào các kênh đầu tư mạo hiểm nhằm kiếm lời nhanh chóng.",
+        "Chỉ tiếp thu kiến thức trên phương diện lý thuyết học thuật phục vụ cho các kỳ thi kinh tế mà không cần hành động."
       ],
       "correctIndex": 0,
       "explanation": "Thông điệp cốt lõi là hành động thực tế: thay đổi nhận thức, áp dụng vào cuộc sống của chính mình và cùng xây dựng cộng đồng có văn hóa tài chính lành mạnh."
     },
     {
       "id": "q10",
-      "question": "Mối quan hệ giữa việc 'làm giàu' và 'quản lý tài chính cá nhân' được định vị như thế nào trong tư duy của cuốn sách?",
+      "question": "Mối quan hệ giữa việc \"làm giàu\" và \"quản lý tài chính cá nhân\" được định vị như thế nào trong tư duy của cuốn sách?",
       "options": [
-        "Quản lý tài chính chỉ nhằm mục đích cắt giảm chi tiêu đến mức tằn tiện khổ hạnh.",
-        "Làm giàu là mục tiêu duy nhất, còn quản lý tài chính chỉ là thủ tục phụ trợ không cần thiết.",
-        "Quản lý tài chính là chiếc bình giữ nước; nếu kiếm được nhiều tiền mà không biết quản lý thì tài sản cũng sẽ thất thoát và tan biến.",
-        "Chỉ những người đã cực kỳ giàu có mới cần học cách quản lý tài chính."
+        "Quản lý tài chính chỉ mang tính chất thủ tục sổ sách rườm rà, năng lực kiếm tiền mới là yếu tố quyết định duy nhất.",
+        "Quản lý tài chính là bình giữ nước; nếu kiếm được nhiều tiền mà không biết giữ thì tài sản cũng sẽ tiêu tán hết.",
+        "Quản lý tài chính đồng nghĩa với lối sống tằn tiện kham khổ, triệt tiêu mọi niềm vui và sự tận hưởng của cuộc sống.",
+        "Chỉ những gia đình đã sở hữu khối tài sản hàng trăm tỷ đồng mới cần bận tâm đến việc lập kế hoạch quản lý chi tiêu."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Kiếm tiền (làm giàu) và giữ tiền (quản lý tài chính) là hai mặt của một đồng xu. Không biết quản lý tài chính thì kiếm được bao nhiêu tiền cũng sẽ rơi vào cảnh rỗng túi khi về già."
     },
     {
       "id": "q11",
       "question": "Tại sao việc phụ thuộc hoàn toàn vào con cái khi về già lại không còn là một giải pháp an toàn trong xã hội hiện đại?",
       "options": [
-        "Vì các viện dưỡng lão hiện đại đều hoàn toàn miễn phí cho tất cả mọi người.",
-        "Vì áp lực chi phí sinh hoạt, nuôi dạy con cái và cạnh tranh kinh tế của thế hệ trẻ ngày nay rất lớn, khiến việc phụ thuộc trở thành gánh nặng bào mòn mối quan hệ gia đình.",
-        "Vì con cái ngày nay không còn ai có thu nhập từ công việc văn phòng.",
-        "Vì pháp luật hiện đại cấm con cái phụng dưỡng cha mẹ."
+        "Vì pháp luật hiện đại quy định nghiêm ngặt rằng con cái không còn nghĩa vụ phụng dưỡng cha mẹ khi họ về hưu.",
+        "Vì tất cả các viện dưỡng lão trong xã hội hiện đại đều cung cấp dịch vụ chăm sóc hoàn toàn miễn phí cho mọi công dân.",
+        "Vì chi phí sinh hoạt và nuôi dạy con cái của người trẻ rất lớn, tạo áp lực nặng nề và dễ bào mòn quan hệ gia đình.",
+        "Vì thế hệ con cái ngày nay hầu như không ai có khả năng tìm kiếm được việc làm hay tạo ra thu nhập ổn định."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Bối cảnh kinh tế xã hội hiện đại đặt áp lực cực lớn lên thế hệ trẻ; người già tự chủ tài chính không chỉ bảo vệ bản thân mà còn là cách nâng đỡ và gìn giữ hạnh phúc cho con cái."
     },
     {
       "id": "q12",
-      "question": "Khái niệm 'Tự do tài chính' theo hàm ý của Lời nói đầu có thể hiểu chính xác nhất là gì?",
+      "question": "Khái niệm \"Tự do tài chính\" theo hàm ý của Lời nói đầu có thể hiểu chính xác nhất là gì?",
       "options": [
-        "Sở hữu thật nhiều tiền mặt cất giữ trong két sắt tại nhà.",
-        "Việc được phép tiêu xài không giới hạn vào bất kỳ thứ gì mình thích mỗi ngày.",
-        "Trạng thái mà các nguồn thu nhập thụ động đủ sức chi trả cho phong cách sống mong muốn mà không bắt buộc phải đánh đổi thời gian và sức khỏe để làm việc mưu sinh.",
-        "Việc nghỉ việc ngay lập tức ở tuổi 20 mà không cần nguồn tài chính dự phòng."
+        "Trạng thái tích trữ được một lượng tiền mặt khổng lồ cất giấu trong két sắt để không bao giờ phải lo lắng đầu tư.",
+        "Khả năng chi tiêu mua sắm mọi món đồ xa xỉ không giới hạn mỗi ngày mà không cần quan tâm đến số dư tài khoản.",
+        "Việc lập tức nghỉ việc ở độ tuổi đôi mươi để đi du lịch khắp nơi mà không cần nguồn tài chính dự phòng ổn định.",
+        "Trạng thái dòng tiền thụ động đủ chi trả phong cách sống mà không buộc phải bán thời gian và sức khỏe mưu sinh."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Tự do tài chính là khi dòng tiền thụ động từ tài sản tích lũy đủ để trang trải cuộc sống, giải phóng con người khỏi áp lực cơm áo gạo tiền để sống trọn vẹn và an lạc."
     },
     {
       "id": "q13",
-      "question": "Việc so sánh những cuốn sách kinh điển về làm giàu như 'Think and Grow Rich' với 'Thịnh vượng tài chính tuổi 30' cho thấy điều gì?",
+      "question": "Việc so sánh những cuốn sách kinh điển về làm giàu như \"Think and Grow Rich\" với \"Thịnh vượng tài chính tuổi 30\" cho thấy điều gì?",
       "options": [
-        "Các nguyên lý tài chính và tư duy thịnh vượng là những bài học mang tính kế thừa, thực tiễn và cần được cụ thể hóa theo từng chặng đời của mỗi cá nhân.",
-        "Tất cả các cuốn sách về tài chính đều có nội dung hoàn toàn giống hệt nhau.",
-        "Đọc sách làm giàu chỉ dành cho các học giả nghiên cứu kinh tế vĩ mô.",
-        "Không có cuốn sách nào có thể giúp thay đổi được hoàn cảnh tài chính thực tế."
+        "Tư duy thịnh vượng là bài học kế thừa liên tục và cần được cụ thể hóa thành hành động thực tế theo từng chặng đời.",
+        "Các cuốn sách tài chính xuất bản ở những thời kỳ khác nhau đều chỉ sao chép lại một công thức làm giàu duy nhất.",
+        "Việc đọc sách tài chính chỉ mang tính chất nghiên cứu học thuật vĩ mô chứ hoàn toàn không giúp cải thiện tình hình.",
+        "Các bài học làm giàu của phương Tây hoàn toàn không thể áp dụng vào điều kiện kinh tế và xã hội tại Việt Nam."
       ],
       "correctIndex": 0,
       "explanation": "Các tác phẩm kinh điển mở đường về tư duy, trong khi cuốn sách này cung cấp bản đồ hành động thực tế cho chặng đường hưu trí và quản lý tài chính từ tuổi 30."
     },
     {
       "id": "q14",
-      "question": "Nếu một người cho rằng: 'Hạnh phúc tuổi già chỉ phụ thuộc vào sức khỏe, tiền bạc không có vai trò gì', nhận định nào sau đây là phản biện sắc bén nhất?",
+      "question": "Nếu một người cho rằng: \"Hạnh phúc tuổi già chỉ phụ thuộc vào sức khỏe, tiền bạc không có vai trò gì\", nhận định nào sau đây là phản biện sắc bén nhất?",
       "options": [
-        "Chăm sóc y tế cho người già ở mọi nơi trên thế giới đều không tốn chi phí.",
-        "Người có tiền thì không bao giờ mắc bất kỳ căn bệnh tuổi già nào.",
-        "Tiền bạc là yếu tố duy nhất quyết định sự sống còn của con người.",
-        "Sức khỏe tuổi già luôn đi kèm với chi phí y tế và chăm sóc y khoa gia tăng; thiếu thốn tài chính sẽ trực tiếp hủy hoại chất lượng chăm sóc sức khỏe và tinh thần an yên."
+        "Chăm sóc sức khỏe y tế toàn diện cho người già ở mọi quốc gia trên thế giới đều được miễn phí hoàn toàn.",
+        "Tuổi già đi kèm chi phí y tế gia tăng; thiếu tài chính sẽ trực tiếp hủy hoại chất lượng điều trị và sự an yên.",
+        "Người sở hữu nhiều tiền bạc sẽ có sức đề kháng tuyệt đối và không bao giờ mắc phải bất kỳ căn bệnh hiểm nghèo nào.",
+        "Tiền bạc là yếu tố duy nhất quyết định sự sống còn, trong khi sức khỏe thể chất hoàn toàn không có ý nghĩa gì."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Sức khỏe và tài chính gắn liền hữu cơ với nhau; tuổi già ốm đau mà không có nguồn tài chính đảm bảo sẽ biến gánh nặng y tế thành bi kịch cho chính mình và gia đình."
     },
     {
       "id": "q15",
       "question": "Thông điệp đắt giá nhất mà Lời nói đầu muốn gửi gắm đến người trẻ ở tuổi 20-30 là gì?",
       "options": [
-        "Hãy đầu tư vào các kênh mạo hiểm để mong đổi đời sau một đêm.",
-        "Hãy tập trung tận hưởng tuổi trẻ vì tuổi già là chuyện của tương lai rất xa xôi.",
-        "Hãy để dành toàn bộ trách nhiệm lo cho tuổi già cho quỹ bảo hiểm nhà nước.",
-        "Thời gian là tài sản vô giá; hãy đánh thức tư duy tài chính và hành động ngay từ hôm nay để kiến tạo một tuổi già độc lập, an nhàn và thịnh vượng."
+        "Hãy dồn hết vốn liếng để lướt sóng tài chính mạo hiểm với hy vọng đổi đời và đạt tự do tài chính sau một đêm.",
+        "Hãy tập trung tận hưởng tuổi trẻ bằng những chuyến du lịch xa xỉ vì tuổi già là chuyện xa xôi không cần tính đến.",
+        "Thời gian là tài sản quý giá; hãy thức tỉnh tài chính và hành động sớm để chủ động tạo dựng tuổi già an nhàn.",
+        "Hãy phó thác toàn bộ trách nhiệm bảo đảm cuộc sống hưu trí tương lai cho quỹ trợ cấp xã hội của nhà nước."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Thông điệp xuyên suốt: Hành động ngay từ tuổi 20-30, tận dụng đòn bẩy thời gian và kiến thức tài chính để chủ động định đoạt chất lượng cuộc sống 30 năm tuổi già của chính mình."
     }
   ]

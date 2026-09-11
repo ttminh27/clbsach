@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Định nghĩa phổ quát của Đức Phật về 'hành động thiện' và 'hành động bất thiện' vượt lên trên mọi ranh giới tôn giáo và truyền thống là gì?",
+      "question": "Định nghĩa phổ quát của Đức Phật về 'hành động thiện' và 'hành động bất thiện' vượt lên trên mọi ranh giới tôn giáo là gì?",
       "options": [
-        "Bất thiện là vi phạm các tập tục nghi lễ của bộ tộc; thiện là tuân thủ nghiêm ngặt các ngày ăn chay.",
-        "Bất cứ hành động nào làm hại, phá vỡ sự bình an và hòa hợp của người khác (và bản thân) là bất thiện; hành động nào giúp đỡ, vun đắp bình an và hòa hợp cho muôn loài là thiện.",
-        "Thiện là hành động mang lại nhiều lợi nhuận tài chính nhất cho gia đình mình.",
-        "Bất thiện chỉ áp dụng cho những tội phạm bị tòa án pháp luật kết án."
+        "Hành động gây hại, làm xáo trộn bình an của người khác là bất thiện; hành động giúp đỡ, tạo dựng hòa hợp là thiện lành.",
+        "Hành động thiện là tuân thủ các nghi lễ tôn giáo truyền thống; hành động bất thiện là làm trái các quy định của giáo hội.",
+        "Hành động thiện là những việc mang lại lợi ích kinh tế cho cộng đồng; hành động bất thiện là những việc gây thua lỗ lớn.",
+        "Hành động thiện là những việc được xã hội công nhận là tốt đẹp; hành động bất thiện là những việc bị pháp luật cấm đoán."
       ],
-      "correctIndex": 1,
-      "explanation": "Đức Phật gạt bỏ những quy ước tông phái hạn hẹp. Thước đo đạo đức khách quan của tự nhiên là: Hễ hành vi nào gây tổn thương, bức bối cho sinh linh khác và thiêu đốt tâm người thực hiện thì đó là bất thiện, ngược lại là thiện lành."
+      "correctIndex": 0,
+      "explanation": "Đức Phật định nghĩa thiện và bất thiện dựa trên tác động thực tế đến sự bình an và hòa hợp của người khác, thay vì dựa vào các quy ước tôn giáo hay xã hội hạn hẹp."
     },
     {
       "id": "q2",
       "question": "Tại sao Giới hạnh (Sīla) lại là điều kiện tiên quyết, không thể thiếu để phát triển Định (Samādhi) và Tuệ (Paññā)?",
       "options": [
-        "Khi phạm vào các hành vi bất thiện (sát sinh, trộm cắp, nói dối...), tâm lập tức bị khuấy động bởi sự kích động, sợ hãi, cắn rứt lương tâm; trong một mặt nước ao bị khuấy bùn đục ngầu, ta không thể nào nhìn thấy đáy ao (không thể nội quán).",
-        "Vì nếu không giữ giới thì ban quản lý khóa thiền sẽ phạt tiền thiền sinh.",
-        "Vì Đức Phật muốn xây dựng một hệ thống giáo hội có kỷ luật sắt.",
-        "Vì giữ giới giúp cơ thể đốt cháy nhiều năng lượng hơn khi ngồi thiền."
+        "Vì giữ giới giúp thiền sinh đạt được sự tập trung cao độ ngay lập tức mà không cần phải trải qua quá trình rèn luyện lâu dài.",
+        "Khi phạm hành vi bất thiện, tâm bị khuấy động bởi sự bồn chồn, hối hận; tâm không an tĩnh thì không thể thực hiện nội quán.",
+        "Vì các quy tắc giới hạnh được thiết kế để rèn luyện cơ thể trở nên dẻo dai, giúp thiền sinh ngồi thiền được lâu hơn bình thường.",
+        "Vì nếu không giữ giới, thiền sinh sẽ không được các thiền sư cho phép tham gia vào các khóa tu tập chuyên sâu về thiền định."
       ],
-      "correctIndex": 0,
-      "explanation": "Nội quán đòi hỏi tâm trí phải cực kỳ an tĩnh và trong suốt. Khi ta làm điều ác, tâm trí bùng cháy ngọn lửa tội lỗi và bấn loạn. Không có một tâm an tịnh xuất phát từ đời sống trong sạch (Sīla), việc thực hành thiền định và phát triển tuệ giác chỉ là ảo tưởng."
+      "correctIndex": 1,
+      "explanation": "Giới hạnh giúp tâm trí không bị xao động bởi sự hối hận hay bồn chồn do hành vi bất thiện gây ra, tạo nền tảng an tĩnh cần thiết để phát triển định và tuệ."
     },
     {
       "id": "q3",
-      "question": "Ý nghĩa của câu chuyện ngụ ngôn 'Toa thuốc của bác sĩ' trong Chương 5 là gì?",
+      "question": "Ý nghĩa của việc thực hành giới luật được ví như 'toa thuốc của bác sĩ' trong chương sách là gì?",
       "options": [
-        "Bác sĩ luôn kê những loại thuốc đắt tiền nhất để trục lợi từ bệnh nhân nghèo.",
-        "Y học phương Tây vượt trội hoàn toàn so với các phương pháp chữa bệnh cổ truyền.",
-        "Người bệnh chỉ cần có niềm tin tuyệt đối là cơ thể sẽ tự động sản sinh kháng thể.",
-        "Việc tôn sùng bác sĩ, học thuộc lòng và tụng niệm toa thuốc suốt ngày đêm, hoặc đeo toa thuốc như một bùa hộ mệnh không bao giờ chữa khỏi bệnh; người bệnh bắt buộc phải uống thuốc theo đúng chỉ dẫn mới có thể bình phục."
+        "Giới luật giống như một toa thuốc quý giá mà người bệnh chỉ cần giữ gìn cẩn thận trong túi là bệnh sẽ tự động tiêu tan.",
+        "Bác sĩ là người duy nhất có quyền quyết định liều lượng giới luật cho bệnh nhân để đạt được sự giải thoát khỏi đau khổ.",
+        "Việc tụng niệm hay đeo giới luật như bùa hộ mệnh không chữa được khổ; người bệnh phải thực hành đúng mới có thể bình phục.",
+        "Việc học thuộc lòng các giới luật là cách duy nhất để người bệnh hiểu rõ căn nguyên của bệnh tật và tìm ra phương pháp."
       ],
-      "correctIndex": 3,
-      "explanation": "Đức Phật là vị đại y vương, Pháp (Dhamma) là toa thuốc trị bệnh khổ đau. Tụng kinh, bái lạy Phật hay đeo kinh chú vào cổ mà không chịu 'uống thuốc' (nghĩa là không giữ giới, không hành thiền thanh lọc tâm) thì muôn đời vẫn là kẻ mang bệnh trầm kha."
+      "correctIndex": 2,
+      "explanation": "Giới luật là công cụ thực hành để chuyển hóa tâm thức; chỉ việc hiểu biết lý thuyết hay thực hiện nghi thức mà không áp dụng vào đời sống thì không mang lại kết quả."
     },
     {
       "id": "q4",
-      "question": "Tại sao một người khi làm hại kẻ khác (như lừa đảo, sát hại, xúc phạm) thì bản thân người đó luôn là 'nạn nhân đầu tiên' hứng chịu đau khổ?",
+      "question": "Tại sao người làm hại kẻ khác lại được xem là 'nạn nhân đầu tiên' hứng chịu đau khổ từ chính hành động của mình?",
       "options": [
-        "Vì họ luôn bị camera an ninh ghi hình và cảnh sát bắt giữ ngay lập tức.",
-        "Để thực hiện một hành vi độc ác ra bên ngoài, trong tâm người đó bắt buộc phải khởi sinh và bị thiêu đốt trước bởi các chất độc cực mạnh: lòng tham lam, sân hận và ác ý tột độ.",
-        "Vì linh hồn của nạn nhân sẽ quay lại báo thù trong giấc ngủ.",
-        "Vì luật pháp quốc tế luôn trừng phạt nghiêm khắc mọi hành vi sai trái."
+        "Vì luật nhân quả sẽ khiến người đó gặp phải những tai nạn bất ngờ trong cuộc sống ngay sau khi thực hiện hành vi sai trái.",
+        "Vì xã hội sẽ cô lập và trừng phạt người đó, khiến họ rơi vào trạng thái cô đơn và đau khổ kéo dài trong suốt cuộc đời.",
+        "Vì linh hồn của người bị hại sẽ luôn ám ảnh và gây ra những cơn ác mộng kinh hoàng cho kẻ thủ ác trong mỗi giấc ngủ đêm.",
+        "Để thực hiện hành vi độc ác, tâm người đó phải khởi sinh và bị thiêu đốt bởi sự tham lam, sân hận và vô minh tột độ."
       ],
-      "correctIndex": 1,
-      "explanation": "Không ai có thể ném than hồng vào người khác mà bàn tay mình không bị bỏng trước. Trước khi một lời chửi rủa hay nhát dao vung ra, ngọn lửa sân hận và bất tịnh đã bùng cháy tàn phá hệ thần kinh và sự bình an của chính kẻ thủ ác."
+      "correctIndex": 3,
+      "explanation": "Hành động bất thiện đòi hỏi sự khởi sinh của các trạng thái tâm tiêu cực như tham, sân, si, vốn đã gây đau khổ cho chính người thực hiện ngay tại thời điểm đó."
     },
     {
       "id": "q5",
-      "question": "Tiêu chuẩn của 'Chánh ngữ' (Sammā Vācā) đòi hỏi những yếu tố nào ngoài việc 'nói sự thật'?",
+      "question": "Tiêu chuẩn của 'Chánh ngữ' (Sammā Vācā) đòi hỏi những yếu tố nào ngoài việc nói sự thật?",
       "options": [
-        "Phải nói với giọng điệu to lớn và sử dụng các thuật ngữ triết học uyên bác.",
-        "Chỉ nói những điều người nghe muốn nghe dù điều đó hoàn toàn sai lệch thực tế.",
-        "Lời nói phải chân thật, mang tính xây dựng, hàn gắn chia rẽ, hòa hợp, dịu dàng, ấm lòng người và được nói ra đúng thời điểm thích hợp.",
-        "Hoàn toàn im lặng tuyệt đối suốt cả cuộc đời không giao tiếp với bất kỳ ai."
+        "Lời nói phải chân thật, mang tính xây dựng, hòa hợp, dịu dàng, ấm lòng người và được nói ra đúng thời điểm thích hợp.",
+        "Lời nói phải luôn luôn ngắn gọn, súc tích và không bao giờ được phép sử dụng các từ ngữ mang tính chất cảm xúc cá nhân.",
+        "Lời nói phải luôn luôn làm hài lòng người nghe, bất kể điều đó có đúng với sự thật hay thực tế đang diễn ra hay không.",
+        "Lời nói phải được chuẩn bị kỹ lưỡng từ trước và phải tuân theo các quy tắc ngữ pháp nghiêm ngặt của ngôn ngữ hiện đại."
       ],
-      "correctIndex": 2,
-      "explanation": "Chánh ngữ không chỉ là không nói dối. Lời nói thật nhưng ác ý, nhục mạ, đâm thọc gây chia rẽ hoặc nói lời tầm phào vô bổ cũng là bất tịnh. Chánh ngữ phải vừa đúng sự thật, vừa có thiện ý và được cất lên đúng lúc để mang lại lợi ích và hòa khí."
+      "correctIndex": 0,
+      "explanation": "Chánh ngữ không chỉ là sự thật mà còn là sự hòa hợp, thiện ý và tính thời điểm để lời nói thực sự mang lại lợi ích cho người nghe."
     },
     {
       "id": "q6",
-      "question": "Trong 5 giới căn bản của người cư sĩ, tại sao giới 'Tránh uống rượu và các chất gây say' (Surāmerayamajjapamādaṭṭhānā) lại được xem là giới có tính chất phòng hộ the chốt?",
+      "question": "Tại sao giới 'Tránh uống rượu và các chất gây say' lại được xem là giới có tính chất phòng hộ the chốt?",
       "options": [
-        "Vì khi chất say làm tê liệt lý trí và sự tỉnh thức, con người mất hết khả năng tự chủ và có thể dễ dàng vi phạm cả 4 giới còn lại (sát sinh, trộm cắp, tà dâm, nói dối) trong sự mê muội.",
-        "Vì sản xuất rượu tiêu tốn quá nhiều ngũ cốc của ngành nông nghiệp.",
-        "Vì rượu có vị cay nồng không phù hợp với khẩu vị của người tu thiền.",
-        "Vì đồ uống có cồn làm tăng nguy cơ mắc bệnh tiểu đường."
+        "Vì việc sử dụng các chất gây say sẽ làm suy giảm sức khỏe thể chất, khiến người tu tập không đủ năng lượng để hành thiền.",
+        "Khi chất say làm tê liệt lý trí, con người mất khả năng tự chủ và dễ dàng vi phạm các giới còn lại trong sự mê muội.",
+        "Vì các chất gây say thường có giá thành rất cao, việc tiêu thụ chúng sẽ làm lãng phí nguồn tài chính của người tu tập.",
+        "Vì việc uống rượu sẽ làm cho hơi thở của người tu tập trở nên nặng mùi, gây khó chịu cho những người xung quanh khi thiền."
       ],
-      "correctIndex": 0,
-      "explanation": "Chất say phá hủy sự tự chủ và chánh niệm. Một người tỉnh táo có thể giữ được đạo đức, nhưng khi say xỉn, bức tường kiểm soát tâm lý sụp đổ, người đó có thể phạm vào những tội ác kinh hoàng nhất mà bình thường không bao giờ dám nghĩ tới."
+      "correctIndex": 1,
+      "explanation": "Chất gây say làm suy yếu khả năng kiểm soát tâm trí, khiến người ta dễ dàng rơi vào các hành vi bất thiện khác mà bình thường họ sẽ tránh."
     },
     {
       "id": "q7",
-      "question": "Sự khác biệt cốt lõi giữa việc thực hành 5 giới trong đời sống thường nhật và việc giữ 8 giới trong khóa thiền chuyên sâu là gì?",
+      "question": "Sự khác biệt cốt lõi giữa việc thực hành 5 giới thường nhật và 8 giới trong khóa thiền chuyên sâu là gì?",
       "options": [
-        "8 giới nâng cao mức độ buông bỏ bằng cách chuyển từ tránh tà dâm sang tiết dục hoàn toàn (brahmacariya), đồng thời cắt giảm các kích thích giác quan hưởng thụ (ăn phi thời, son phấn ca múa, giường cao sang) để tâm đạt sự an tĩnh tuyệt đối cho việc nội quán.",
-        "5 giới dành cho người nghèo, 8 giới chỉ dành cho giới quý tộc.",
-        "8 giới bắt buộc thiền sinh phải từ bỏ quyền công dân của mình.",
-        "Giữ 8 giới cho phép người tu được quyền phán xét lỗi lầm của người khác."
+        "5 giới dành cho người mới bắt đầu, trong khi 8 giới là bắt buộc đối với những người đã có kinh nghiệm tu tập lâu năm.",
+        "8 giới yêu cầu người tu tập phải từ bỏ hoàn toàn mọi tài sản cá nhân và sống cuộc đời ẩn dật trong các hang động.",
+        "8 giới nâng cao sự buông bỏ bằng cách tiết dục hoàn toàn và cắt giảm các kích thích giác quan để tâm đạt sự an tĩnh.",
+        "5 giới chỉ áp dụng cho các hoạt động trong gia đình, còn 8 giới áp dụng cho các hoạt động trong môi trường công sở."
       ],
-      "correctIndex": 0,
-      "explanation": "Trong khóa thiền phẫu thuật tâm, 8 giới đóng vai trò như môi trường vô trùng cao độ: dập tắt ngọn lửa tình dục và các cám dỗ giải trí giác quan bề nổi, giúp tâm dồn toàn bộ năng lượng vi tế vào việc khảo sát các ngóc ngách sâu thẳm của tiềm thức."
+      "correctIndex": 2,
+      "explanation": "8 giới tạo môi trường chuyên sâu hơn bằng cách loại bỏ các kích thích giác quan và ham muốn tình dục, giúp tâm tập trung tối đa cho nội quán."
     },
     {
       "id": "q8",
       "question": "Thế nào là 'Chánh mạng' (Sammā Ājīva) theo định nghĩa sâu sắc của Giáo pháp?",
       "options": [
-        "Lựa chọn nghề nghiệp có thu nhập cao nhất để có tiền cúng dường xây chùa.",
-        "Từ bỏ hoàn toàn mọi công việc làm ăn và sống dựa vào sự trợ cấp của xã hội.",
-        "Kiếm sống bằng một nghề nghiệp chân chính, không trực tiếp hoặc gián tiếp gây hại, giết chóc, bóc lột hay tổn hại đến sự an lành của các chúng sinh khác.",
-        "Làm việc cho các cơ quan công quyền nhà nước."
+        "Làm bất cứ công việc gì mang lại thu nhập cao để có thể đóng góp nhiều hơn cho các hoạt động từ thiện của xã hội hiện nay.",
+        "Chỉ làm những công việc được xã hội tôn vinh và có địa vị cao để đảm bảo sự ổn định cho cuộc sống của bản thân gia đình.",
+        "Từ bỏ mọi công việc làm ăn để sống dựa hoàn toàn vào sự cúng dường của những người xung quanh trong cộng đồng xã hội.",
+        "Kiếm sống bằng nghề nghiệp chân chính, không trực tiếp hoặc gián tiếp gây hại, giết chóc hay tổn hại đến chúng sinh."
       ],
-      "correctIndex": 2,
-      "explanation": "Chánh mạng đòi hỏi phương tiện sinh nhai không được xây dựng trên máu, nước mắt hay sự suy đồi của người khác (tránh buôn bán vũ khí, buôn người, thịt sống, chất say và chất độc). Nuôi sống thân mạng bằng nghề tổn hại sinh linh sẽ tạo ra chướng ngại tâm lý khổng lồ ngăn chặn sự giải thoát."
+      "correctIndex": 3,
+      "explanation": "Chánh mạng là phương thức sinh nhai không gây hại cho người khác, không khuyến khích hành vi bất thiện và không dựa trên sự bóc lột."
     },
     {
       "id": "q9",
-      "question": "Nếu một người giữ giới chỉ vì 'nỗi sợ hãi bị thần linh trừng phạt' hoặc 'mong muốn được khen ngợi là người thánh thiện', sự giữ giới đó có đạt hiệu quả giải thoát tối ưu không?",
+      "question": "Nếu một người giữ giới chỉ vì sợ hãi bị trừng phạt hoặc mong muốn được khen ngợi, sự giữ giới đó có đạt hiệu quả không?",
       "options": [
-        "Đạt hiệu quả tối đa vì sợ hãi là động lực tâm lý mạnh mẽ nhất.",
-        "Hoàn toàn vô ích và người đó sẽ phải xuống địa ngục ngay lập tức.",
-        "Chỉ cần hành động bề ngoài đúng thì động cơ bên trong hoàn toàn không quan trọng.",
-        "Không tối ưu; đó chỉ là sự kiềm chế bề ngoài gắn liền với tâm tham (danh vọng) hoặc tâm sân (sợ hãi). Giới hạnh chân chính phải xuất phát từ sự thấu hiểu định luật tự nhiên và lòng từ bi tự đáy lòng."
+        "Không tối ưu; đó chỉ là sự kiềm chế gắn liền với tham danh hoặc sợ hãi. Giới hạnh chân chính phải xuất phát từ lòng từ.",
+        "Đạt hiệu quả tối đa vì sự sợ hãi là động lực mạnh mẽ nhất giúp con người tuân thủ các quy tắc đạo đức một cách nghiêm túc.",
+        "Đạt hiệu quả cao vì việc giữ giới dù với động cơ nào cũng đều mang lại lợi ích cho xã hội và sự bình an cho cộng đồng.",
+        "Không đạt hiệu quả vì chỉ có những người đã đạt đến trình độ giác ngộ cao mới có thể giữ giới một cách thực sự hiệu quả."
       ],
-      "correctIndex": 3,
-      "explanation": "Giới giữ vì sợ hãi hoặc tham danh vẫn bị ô nhiễm bởi bản ngã. Giới hạnh chân chính nở hoa khi người ta hiểu quy luật: làm hại người là tự hại mình, và tự nhiên phát khởi tình thương xót muôn loài nên không nỡ xâm phạm sinh mệnh hay quyền lợi của ai."
+      "correctIndex": 0,
+      "explanation": "Giới hạnh thực sự phải xuất phát từ sự thấu hiểu định luật tự nhiên và lòng từ bi, thay vì bị thúc đẩy bởi các động cơ vị kỷ như sợ hãi hay danh vọng."
     },
     {
       "id": "q10",
-      "question": "Quan niệm cho rằng 'Người làm việc ác nhưng biết cúng dường thật nhiều tiền cho đền chùa thì sẽ hóa giải hết tội lỗi' bị Chương 5 bác bỏ bằng nguyên lý nào?",
+      "question": "Quan niệm 'Người làm việc ác nhưng cúng dường nhiều tiền sẽ hóa giải hết tội lỗi' bị bác bỏ bằng nguyên lý nào?",
       "options": [
-        "Các vị tu sĩ không nhận tiền quyên góp từ những người phạm tội.",
-        "Ngân hàng không cho phép chuyển nhượng tài sản phi pháp vào đền chùa.",
-        "Cúng dường chỉ có tác dụng nếu được thực hiện vào những ngày nhật thực.",
-        "Định luật tự nhiên vận hành không thiên vị; của cải vật chất không thể mua chuộc được quy luật Kamma. Tâm bất thiện khi làm ác đã gieo nhân đau khổ và quả báo đen tối là điều tất yếu."
+        "Các vị tu sĩ có quyền từ chối nhận tiền cúng dường từ những người mà họ biết là đã từng thực hiện các hành vi sai trái.",
+        "Định luật tự nhiên không thiên vị; của cải vật chất không thể mua chuộc được quy luật Kamma hay xóa bỏ nhân quả đã gieo.",
+        "Việc cúng dường chỉ có giá trị tâm linh khi người cúng dường đã thực hiện đầy đủ các nghi lễ sám hối trước các vị thần.",
+        "Số tiền cúng dường phải được sử dụng vào các mục đích xây dựng công trình công cộng thì mới có thể hóa giải được tội lỗi."
       ],
-      "correctIndex": 3,
-      "explanation": "Thiên nhiên không có sự hối lộ. Giết người cướp của rồi mang một phần chiến lợi phẩm dâng lên bàn thờ thần thánh không thể biến nhân ác thành quả thiện. Hành vi đó chỉ thể hiện sự vô minh và bám chấp mù quáng vào nghi thức (Sīlabbatupādāna)."
+      "correctIndex": 1,
+      "explanation": "Quy luật nhân quả vận hành khách quan, không thể dùng vật chất để hối lộ hay thay đổi kết quả của những hành động bất thiện đã thực hiện."
     },
     {
       "id": "q11",
-      "question": "Hiện tượng một người miệng nói lời ngon ngọt, khen ngợi trước mặt nhưng sau lưng lại vu oan, chia rẽ bạn bè vi phạm khía cạnh nào của Chánh ngữ?",
+      "question": "Hiện tượng miệng nói lời ngon ngọt nhưng sau lưng lại vu oan, chia rẽ bạn bè vi phạm khía cạnh nào của Chánh ngữ?",
       "options": [
-        "Nói lời đâm thọc, ly gián (Pisuṇa-vācā) và nói dối (Musā-vādā).",
-        "Nói lời thô bạo (Pharusa-vācā).",
-        "Nói lời phù phiếm vô ích (Samphappalāpa).",
-        "Nói quá nhỏ khiến người khác không nghe rõ."
+        "Vi phạm vào việc nói lời thô bạo, xúc phạm người khác bằng những từ ngữ nặng nề gây tổn thương đến tâm lý của người nghe.",
+        "Vi phạm vào việc nói lời phù phiếm, vô ích, làm mất thời gian của bản thân và người khác mà không mang lại lợi ích gì.",
+        "Vi phạm nghiêm trọng vào việc nói lời đâm thọc, ly gián và nói dối, gây mất lòng tin và phá vỡ sự hòa hợp xã hội.",
+        "Vi phạm vào việc nói lời quá nhỏ khiến người khác không nghe rõ, gây ra sự hiểu lầm không đáng có trong giao tiếp hằng ngày."
       ],
-      "correctIndex": 0,
-      "explanation": "Chánh ngữ bài trừ 4 tật xấu của khẩu nghiệp: nói dối, nói đâm thọc chia rẽ tình bạn, nói lời cay độc chửi rủa, và nói chuyện nhảm nhí mất thời gian. Nói ngọt trước mặt nhưng đâm sau lưng là khẩu nghiệp cực nặng hủy hoại lòng tin xã hội."
+      "correctIndex": 2,
+      "explanation": "Hành vi nói hai lời, đâm thọc gây chia rẽ là một trong những khẩu nghiệp nặng nề nhất, phá hủy sự đoàn kết và lòng tin giữa con người với nhau."
     },
     {
       "id": "q12",
-      "question": "Tại sao Đức Phật lại nhấn mạnh: 'Không làm các việc ác' đứng trước 'Thành tựu mọi điều lành' trong lời dạy tóm lược giáo huấn?",
+      "question": "Tại sao Đức Phật nhấn mạnh 'Không làm các việc ác' trước 'Thành tựu mọi điều lành' trong lời dạy tóm lược giáo huấn?",
       "options": [
-        "Vì việc tránh làm điều ác dễ thực hiện hơn việc làm điều thiện.",
-        "Vì làm điều ác tiêu tốn nhiều thời gian hơn làm việc thiện.",
-        "Vì nếu không ngăn chặn những vết nứt rò rỉ của hành vi xấu ác (không bịt đáy thuyền thủng), thì mọi công đức tích lũy từ điều thiện sẽ bị tiêu tan và cuốn trôi hết.",
-        "Vì Đức Phật chỉ quan tâm đến các điều luật mang tính chất cấm đoán."
+        "Vì việc tránh làm điều ác là một nhiệm vụ dễ dàng hơn nhiều so với việc thực hiện các hành động thiện lành trong cuộc sống.",
+        "Vì Đức Phật cho rằng việc làm điều thiện chỉ là bước phụ, còn việc ngăn chặn điều ác mới là mục tiêu chính của giáo pháp.",
+        "Vì việc làm điều thiện đòi hỏi nhiều thời gian và nguồn lực tài chính hơn so với việc chỉ đơn giản là tránh làm điều ác.",
+        "Nếu không ngăn chặn các hành vi xấu ác, mọi công đức tích lũy từ điều thiện sẽ bị tiêu tan và cuốn trôi hết sạch."
       ],
-      "correctIndex": 2,
-      "explanation": "Trước khi đổ sữa tươi tinh khiết vào bình, ta phải cọ rửa thật sạch chất độc cặn bã trong bình đó. Nếu tiếp tục tạo nghiệp ác làm hại người khác thì tâm trí luôn trong tình trạng bốc cháy; những việc thiện nhỏ nhoi bề nổi không đủ để dập tắt ngọn lửa ấy."
+      "correctIndex": 3,
+      "explanation": "Giống như việc làm sạch bình trước khi đổ sữa, ta phải loại bỏ các hành vi bất thiện để tâm không còn bị bốc cháy, từ đó việc làm thiện mới có giá trị."
     },
     {
       "id": "q13",
-      "question": "Một thẩm phán tuyên án tử hình một kẻ sát nhân hàng loạt với tâm oán ghét tột cùng khác với một vị thẩm phán tuyên án đúng luật pháp nhưng lòng tràn ngập lòng trắc ẩn xót thương như thế nào?",
+      "question": "Sự khác biệt giữa thẩm phán tuyên án với tâm oán ghét và thẩm phán tuyên án với lòng trắc ẩn nằm ở đâu?",
       "options": [
-        "Bản án của vị thẩm phán thứ hai sẽ không có hiệu lực pháp lý.",
-        "Hành vi pháp lý thể xác giống nhau, nhưng vị thẩm phán hành động với tâm sân hận đang tạo nghiệp bất thiện cho chính mình; vị thẩm phán hành động với tâm bi mẫn và trách nhiệm công lý giữ được tâm thanh tịnh.",
-        "Cả hai vị thẩm phán đều tạo nghiệp ác ngang nhau và chắc chắn xuống địa ngục.",
-        "Tâm trạng của người thẩm phán không có bất kỳ mối liên hệ nào với quy luật tâm lý."
+        "Hành vi pháp lý giống nhau, nhưng người hành động với tâm sân hận tạo nghiệp bất thiện, người có lòng bi mẫn giữ tâm thanh tịnh.",
+        "Bản án của vị thẩm phán có lòng trắc ẩn sẽ không có hiệu lực pháp lý vì nó thiếu đi sự nghiêm minh cần thiết của luật pháp.",
+        "Cả hai vị thẩm phán đều tạo ra nghiệp ác ngang nhau vì hành động tước đoạt quyền tự do của người khác luôn là điều bất thiện.",
+        "Tâm trạng của người thẩm phán không có bất kỳ mối liên hệ nào với quy luật tâm lý hay kết quả của nghiệp báo sau này cả."
       ],
-      "correctIndex": 1,
-      "explanation": "Nghiệp nằm ở ý định (Cetanā). Thừa hành pháp luật để bảo vệ xã hội nhưng để tâm mình bị vẩn đục bởi lòng thù hận cá nhân thì chính mình bị tổn thương tâm linh. Duy trì lòng thương xót đối với cả kẻ phạm tội giúp người thi hành công lý không bị vấy bẩn bởi độc tố sân hận."
+      "correctIndex": 0,
+      "explanation": "Nghiệp nằm ở ý định. Hành động giống nhau nhưng ý định khác nhau sẽ dẫn đến kết quả tâm linh khác nhau cho chính người thực hiện hành động đó."
     },
     {
       "id": "q14",
-      "question": "Lời khẳng định 'Thiên đàng và địa ngục có thể trải nghiệm ngay trong đời này và ngay bên trong bản thân ta' có ý nghĩa thực chứng là gì?",
+      "question": "Lời khẳng định 'Thiên đàng và địa ngục có thể trải nghiệm ngay trong đời này' có ý nghĩa thực chứng là gì?",
       "options": [
-        "Dưới lòng đất có các mỏ khoáng sản nóng bỏng và trên đỉnh núi cao có không khí mát mẻ.",
-        "Khi tâm tràn ngập sân hận, đố kỵ và tham lam, ta sống trong ngọn lửa hỏa ngục của sự bức bối, cắn rứt ngay tại đây; khi tâm trong sạch, từ bi và bình an, ta nếm trải thiên đàng thanh tịnh ngay trong từng hơi thở hiện tại.",
-        "Các nhà thiên văn học đã tìm thấy tọa độ của các cõi trời bằng kính viễn vọng.",
-        "Con người nên tập làm quen với nhiệt độ cao để chuẩn bị cho tương lai sau khi chết."
+        "Dưới lòng đất có các mỏ khoáng sản nóng bỏng và trên đỉnh núi cao có không khí mát mẻ, đó là nơi thiên đàng và địa ngục.",
+        "Khi tâm tràn ngập sân hận, ta sống trong địa ngục nội tâm; khi tâm trong sạch, từ bi, ta nếm trải thiên đàng ngay tại đây.",
+        "Các nhà thiên văn học đã tìm thấy tọa độ của các cõi trời bằng kính viễn vọng hiện đại nhất trong vũ trụ bao la này.",
+        "Con người nên tập làm quen với nhiệt độ cao trong cuộc sống hằng ngày để chuẩn bị cho tương lai sau khi chết đi về sau."
       ],
       "correctIndex": 1,
-      "explanation": "Thiên đàng hay địa ngục trước hết là trạng thái của tâm thức. Kẻ ôm lòng oán thù đang tự giam mình trong chảo lửa địa ngục nội tâm mỗi ngày; người sống đức hạnh, quảng đại đang tận hưởng sự mát lành, an lạc của thiên giới ngay trong thực tại hiện tiền."
+      "explanation": "Thiên đàng và địa ngục là trạng thái tâm thức. Sự an lạc hay đau khổ được trải nghiệm ngay trong hiện tại dựa trên chất lượng của tâm."
     },
     {
       "id": "q15",
       "question": "Mối quan hệ hữu cơ giữa 3 trụ cột Giới (Sīla), Định (Samādhi) và Tuệ (Paññā) được so sánh tốt nhất với hình ảnh nào?",
       "options": [
-        "Ba chiếc xe hơi chạy đua độc lập trên ba làn đường cao tốc khác nhau.",
-        "Ba cuốn sách giáo khoa được lưu trữ trong thư viện trường đại học.",
-        "Cái kiềng 3 chân nâng đỡ chiếc nồi giải thoát: Giới là mảnh đất bằng phẳng, Định là ngọn lửa tập trung cao độ, và Tuệ là sự chín muồi của thức ăn giác ngộ.",
-        "Ba giai đoạn tuổi tác: thiếu niên học Giới, trung niên học Định, về già học Tuệ."
+        "Ba chiếc xe hơi chạy đua độc lập trên ba làn đường cao tốc khác nhau để cùng hướng về một đích đến là sự giải thoát.",
+        "Ba cuốn sách giáo khoa được lưu trữ trong thư viện trường đại học để học sinh có thể tra cứu bất cứ khi nào cần thiết.",
+        "Cái kiềng ba chân nâng đỡ nồi giải thoát: Giới là nền tảng, Định là sự tập trung, Tuệ là sự chín muồi của giác ngộ.",
+        "Ba giai đoạn tuổi tác của con người: thiếu niên học Giới, trung niên học Định, và về già mới bắt đầu học về Tuệ giác."
       ],
       "correctIndex": 2,
-      "explanation": "Ba phần của Bát Chánh Đạo không tách rời mà hỗ trợ nhau mật thiết: Sīla tạo nền móng vững chắc không xao động; Samādhi hội tụ năng lượng tâm thức thành một mũi nhọn sắc bén; Paññā dùng mũi nhọn đó thâm nhập và cắt đứt tận gốc rễ vô minh."
+      "explanation": "Ba yếu tố này hỗ trợ nhau chặt chẽ: Giới tạo nền tảng, Định tập trung năng lượng, và Tuệ thâm nhập thực tại để cắt đứt vô minh."
     }
   ]
 }

@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Thử nghiệm ngắt kết nối mạng trong 25 ngày (#UnPlug) của chuyên gia truyền thông xã hội Baratunde Thurston đã đem lại kết quả bất ngờ nào?",
+      "question": "Kết quả thử nghiệm ngắt kết nối mạng 25 ngày của Baratunde Thurston cho thấy điều gì về cuộc sống khi không có Internet?",
       "options": [
-        "Anh nhận ra cuộc sống không hề sụp đổ mà ngược lại, sự căng thẳng tan biến, tâm hồn bình an trở lại, anh có thể thưởng thức đồ ăn và nói chuyện sâu sắc với người lạ.",
-        "Anh quyết định đi tu và từ bỏ toàn bộ tài sản cá nhân.",
-        "Sự nghiệp của anh bị sụp đổ hoàn toàn và anh bị các công ty đối tác kiện ra tòa.",
-        "Anh nhận được hàng ngàn email đe dọa từ người hâm mộ."
+        "Anh nhận ra cuộc sống vẫn vận hành bình thường, sự căng thẳng giảm bớt và anh tìm lại được khả năng tập trung vào thực tại.",
+        "Anh nhận thấy sự nghiệp bị đình trệ hoàn toàn do thiếu thông tin cập nhật và mất kết nối với các đối tác kinh doanh quan trọng.",
+        "Anh cảm thấy cô lập hoàn toàn với xã hội, dẫn đến trạng thái trầm cảm và mất phương hướng trong các hoạt động thường nhật.",
+        "Anh nhận ra rằng việc ngắt kết nối không mang lại lợi ích gì đáng kể vì các công việc của anh phụ thuộc hoàn toàn vào mạng."
       ],
       "correctIndex": 0,
-      "explanation": "Thurston phát hiện ra sự thật chấn động: thế giới vẫn vận hành hoàn hảo mà không cần đến sự hiện diện trực tuyến 24/7 của anh."
+      "explanation": "Thurston nhận ra rằng thế giới không sụp đổ khi anh ngắt kết nối, thay vào đó anh có được sự tĩnh lặng và tập trung tốt hơn."
     },
     {
       "id": "q2",
-      "question": "'Cách tiếp cận vì bất kỳ lợi ích nào' (The Any-Benefit Approach to Network Tool Selection) bị Newport chỉ trích vì ngụy biện logic nào?",
+      "question": "Tại sao Cal Newport chỉ trích 'tư duy lợi-ích-nào-cũng-được' trong việc lựa chọn và sử dụng các công cụ mạng xã hội hiện nay?",
       "options": [
-        "Nó yêu cầu các kỹ sư phần mềm phải làm việc miễn phí cho cộng đồng.",
-        "Nó chỉ phù hợp với những người trên 60 tuổi.",
-        "Nó cho rằng một công cụ mạng chỉ cần mang lại MỘT CHÚT LỢI ÍCH nhỏ nhoi (hoặc tiềm năng bỏ lỡ cơ hội) thì đã đủ để biện minh cho việc sử dụng nó, mà hoàn toàn lờ đi chi phí cơ hội và tác hại khổng lồ mà nó gây ra.",
-        "Nó bắt buộc người dùng phải trả phí thuê bao quá cao hàng tháng."
+        "Nó khuyến khích người dùng từ bỏ hoàn toàn Internet, gây ra sự đứt gãy trong giao tiếp và làm giảm hiệu suất làm việc chuyên môn.",
+        "Nó biện minh cho việc sử dụng công cụ dựa trên những lợi ích nhỏ lẻ mà bỏ qua các tác hại lớn về thời gian và sự tập trung.",
+        "Nó buộc người dùng phải dành quá nhiều chi phí tài chính để duy trì các tài khoản mạng xã hội nhằm phục vụ mục đích giải trí.",
+        "Nó tạo ra sự phụ thuộc quá mức vào các thuật toán đề xuất, khiến người dùng mất khả năng tự đưa ra quyết định cá nhân độc lập."
       ],
-      "correctIndex": 2,
-      "explanation": "Đây là cái bẫy chết người: viện cớ Facebook giúp giữ liên lạc với một người bạn cũ để biện minh cho việc đốt 2 tiếng mỗi ngày lướt bảng tin rác."
+      "correctIndex": 1,
+      "explanation": "Tư duy này bỏ qua chi phí cơ hội và các tác động tiêu cực, chỉ tập trung vào những lợi ích hời hợt để biện minh cho việc sử dụng."
     },
     {
       "id": "q3",
-      "question": "'Cách tiếp cận của người thợ thủ công' (The Craftsman Approach to Tool Selection) đề xuất tiêu chuẩn lựa chọn công cụ mạng như thế nào?",
+      "question": "Phương pháp 'người-lao-động-chân-tay' trong lựa chọn công cụ mạng yêu cầu người dùng phải thực hiện điều gì trước tiên?",
       "options": [
-        "Hỏi ý kiến của tất cả người thân trước khi cài đặt một ứng dụng.",
-        "Xác định rõ ràng các mục tiêu cốt lõi trong sự nghiệp và đời sống cá nhân; chỉ sử dụng một công cụ nếu tác động tích cực của nó vượt trội rõ rệt so với tác động tiêu cực đối với các mục tiêu đó.",
-        "Dùng thử tất cả các ứng dụng mới nhất trên App Store rồi xóa sau 1 tuần.",
-        "Chỉ sử dụng những công cụ làm bằng kim loại thủ công thời cổ đại."
+        "Thử nghiệm tất cả các công cụ mới nhất trên thị trường để tìm ra ứng dụng phù hợp nhất với nhu cầu công việc và giải trí cá nhân.",
+        "Tham khảo ý kiến của các chuyên gia công nghệ hàng đầu để cài đặt những phần mềm tối ưu nhất cho việc quản lý thời gian làm việc.",
+        "Xác định các yếu tố cốt lõi quyết định thành công và hạnh phúc, sau đó chỉ dùng công cụ nếu lợi ích vượt xa tác hại tiêu cực.",
+        "Loại bỏ hoàn toàn mọi thiết bị kỹ thuật số khỏi không gian làm việc để đảm bảo sự tập trung tuyệt đối vào các nhiệm vụ quan trọng."
       ],
-      "correctIndex": 1,
-      "explanation": "Người thợ rèn không mua chiếc cưa máy nếu nó làm hỏng đường búa tinh xảo; người lao động trí óc phải thẩm định công cụ mạng khắt khe như một nghệ nhân."
+      "correctIndex": 2,
+      "explanation": "Phương pháp này yêu cầu đánh giá công cụ dựa trên mục tiêu lớn hơn, tương tự cách nông dân đánh giá giá trị của máy móc nông nghiệp."
     },
     {
       "id": "q4",
-      "question": "Định luật Pareto (Quy tắc 80/20) áp dụng vào việc lựa chọn công cụ mạng khẳng định điều gì?",
+      "question": "Trong ví dụ về nông trại Smith Meadows, tại sao Forrest Pritchard quyết định loại bỏ chiếc máy ép cỏ khô khỏi trang trại?",
       "options": [
-        "80% người dùng mạng xã hội là những người không có việc làm.",
-        "20% các bài đăng trên mạng xã hội là tin tức giả mạo.",
-        "80% thời gian của bạn nên dành cho Facebook và 20% cho công việc.",
-        "80% thành quả và thành công thực sự của bạn đến từ 20% các hoạt động cốt lõi; việc phân tán năng lượng vào các công cụ mạng chỉ đóng góp vào phần 80% vụn vặt mang lại ít giá trị nhất."
+        "Vì chiếc máy ép cỏ thường xuyên bị hỏng hóc, gây tốn kém chi phí sửa chữa và làm gián đoạn quá trình sản xuất nông sản của trang trại.",
+        "Vì anh muốn chuyển đổi hoàn toàn sang mô hình nông nghiệp hữu cơ không sử dụng bất kỳ loại máy móc cơ khí nào trong quá trình sản xuất.",
+        "Vì việc sở hữu máy ép cỏ làm giảm giá trị thương hiệu của nông trại trong mắt khách hàng tại các chợ nông sản ở Washington D.C.",
+        "Vì chi phí cơ hội của việc tự làm cỏ khô quá lớn, anh có thể dùng thời gian đó cho các hoạt động tạo ra dòng tiền hiệu quả hơn."
       ],
       "correctIndex": 3,
-      "explanation": "Tập trung bảo vệ 20% hoạt động quan trọng nhất sẽ tạo ra phần lớn thành tựu cuộc đời; đừng để các công cụ mạng vụn vặt cướp đi tài nguyên cho phần cốt lõi này."
+      "explanation": "Pritchard ưu tiên sự màu mỡ của đất và hiệu quả kinh tế tổng thể, thay vì chỉ nhìn vào lợi ích trực tiếp của việc tự làm cỏ khô."
     },
     {
       "id": "q5",
-      "question": "Quy trình 'Thử nghiệm cai nghiện mạng xã hội 30 ngày' (The 30-Day Quit Social Media Test) của Newport yêu cầu bạn thực hiện như thế nào?",
+      "question": "Theo Cal Newport, tại sao các nhà văn nổi tiếng như Malcolm Gladwell hay Michael Lewis lại chọn không sử dụng mạng xã hội Twitter?",
       "options": [
-        "Đăng một dòng trạng thái dài thông báo cho toàn bộ bạn bè biết bạn sắp cai nghiện mạng xã hội trong 30 ngày.",
-        "Âm thầm ngắt kết nối và ngừng sử dụng hoàn toàn các nền tảng mạng xã hội trong 30 ngày MÀ KHÔNG THÔNG BÁO trước cho bất kỳ ai trên mạng.",
-        "Chỉ sử dụng mạng xã hội trên máy tính bàn và xóa ứng dụng trên điện thoại.",
-        "Nhờ bạn thân đổi mật khẩu tài khoản mạng xã hội của mình."
+        "Họ nhận thấy mạng xã hội không đóng góp đáng kể vào giá trị cốt lõi của công việc viết lách và sự nghiệp sáng tạo của bản thân.",
+        "Họ lo ngại rằng việc tương tác trực tiếp trên mạng xã hội sẽ làm lộ các ý tưởng sáng tạo chưa được công bố trong các tác phẩm mới.",
+        "Họ không có đủ thời gian để quản lý các tài khoản mạng xã hội do lịch trình làm việc dày đặc và các chuyến công tác liên tục.",
+        "Họ tin rằng việc giữ khoảng cách với độc giả trên mạng xã hội sẽ tạo ra sự bí ẩn, giúp tăng doanh số bán sách của họ hiệu quả."
       ],
-      "correctIndex": 1,
-      "explanation": "Không thông báo trước để tránh sự kịch tính giả tạo và để kiểm tra một cách khách quan xem thế giới có thực sự nhận ra sự vắng mặt của bạn hay không."
+      "correctIndex": 0,
+      "explanation": "Họ tập trung vào chất lượng tác phẩm thay vì những tương tác hời hợt, khẳng định rằng mạng xã hội không phải là yếu tố quyết định thành công."
     },
     {
       "id": "q6",
-      "question": "Sau 30 ngày âm thầm ngắt kết nối mạng xã hội, hai câu hỏi cốt tử bạn phải tự trả lời để quyết định có dùng lại hay không là gì?",
+      "question": "Tại sao việc sử dụng các công cụ mạng xã hội lại được ví như việc rơi vào trạng thái 'kết nối siêu nhiễu loạn' đối với người lao động?",
       "options": [
-        "1. Tôi có nhớ các video ngắn hài hước không? 2. Bạn bè có giận tôi không?",
-        "1. Tôi đã giảm được bao nhiêu cân? 2. Tôi đã tiết kiệm được bao nhiêu tiền điện?",
-        "1. Có bao nhiêu người gửi email tìm tôi? 2. Mạng xã hội đó có tính năng mới nào không?",
-        "1. Cuộc sống của tôi trong 30 ngày qua có thực sự tồi tệ đi hoặc chịu thiệt hại đáng kể không? 2. Có ai thực sự quan tâm hoặc bận tâm về việc tôi vắng mặt trên mạng không?"
+        "Vì các nền tảng này thường xuyên thay đổi giao diện, khiến người dùng mất nhiều thời gian để học cách sử dụng lại các tính năng mới.",
+        "Vì chúng được thiết kế để gây nghiện, liên tục cướp đi thời gian và sự chú ý cần thiết cho các mục tiêu chuyên môn quan trọng.",
+        "Vì sự cạnh tranh giữa các nền tảng mạng xã hội khiến người dùng bị quá tải bởi lượng thông tin quảng cáo khổng lồ mỗi ngày.",
+        "Vì việc kết nối liên tục với mạng xã hội làm giảm khả năng tương tác trực tiếp giữa con người với con người trong đời thực."
       ],
-      "correctIndex": 3,
-      "explanation": "Đại đa số mọi người giật mình nhận ra: cuộc sống tốt đẹp hơn nhiều khi không có mạng xã hội, và chẳng có ai thực sự bận tâm về việc họ ngừng đăng bài."
+      "correctIndex": 1,
+      "explanation": "Các công cụ này được thiết kế để tối đa hóa sự chú ý của người dùng, gây ra sự sao lãng và làm suy giảm khả năng làm việc sâu."
     },
     {
       "id": "q7",
-      "question": "Tại sao Cal Newport lại cho rằng việc các nhà văn hay học giả dành nhiều giờ tương tác trên Twitter để 'xây dựng thương hiệu cá nhân' thường là một ảo tưởng tự dối mình?",
+      "question": "Khi đánh giá một công cụ mạng, tại sao chúng ta cần phải thận trọng với những lợi ích nhỏ nhoi mà nó mang lại cho người dùng?",
       "options": [
-        "Thước đo giá trị thực sự của một tác giả là chất lượng cuốn sách họ viết ra; thời gian lãng phí trên mạng xã hội chỉ tạo ra ảo giác nổi tiếng hời hợt nhưng làm suy giảm chất lượng tác phẩm để đời.",
-        "Vì các nhà xuất bản chỉ tuyển dụng những người không dùng mạng xã hội.",
-        "Vì Twitter cấm các nhà văn đăng tải bài viết học thuật.",
-        "Vì độc giả ngày nay không còn ai đọc sách in nữa."
+        "Vì các lợi ích đó thường chỉ là ảo tưởng do các công ty công nghệ tạo ra nhằm thu hút người dùng đăng ký sử dụng dịch vụ mới.",
+        "Vì việc phụ thuộc vào các lợi ích nhỏ sẽ khiến người dùng mất đi khả năng sáng tạo và tư duy phản biện trong công việc hàng ngày.",
+        "Vì những lợi ích nhỏ đó thường không đủ để bù đắp cho sự mất mát về thời gian và khả năng tập trung vào các mục tiêu dài hạn.",
+        "Vì các lợi ích đó thường đi kèm với các rủi ro về bảo mật thông tin cá nhân mà người dùng không thể kiểm soát được hoàn toàn."
       ],
-      "correctIndex": 0,
-      "explanation": "Nếu bạn viết nên một tác phẩm xuất sắc như Harry Potter, cả thế giới sẽ săn đón bạn; nếu sách bạn dở tệ, 1 triệu người theo dõi trên Twitter cũng không cứu vãn được."
+      "correctIndex": 2,
+      "explanation": "Việc chấp nhận bất kỳ lợi ích nào mà không cân nhắc kỹ lưỡng sẽ dẫn đến việc sử dụng vô độ, gây hại cho khả năng làm việc sâu."
     },
     {
       "id": "q8",
-      "question": "Khái niệm 'Kinh tế chú ý' (The Attention Economy) của các tập đoàn Big Tech vận hành dựa trên cơ chế bóc lột nào?",
+      "question": "Theo tác giả, sự khác biệt chính giữa phương pháp 'người-lao-động-chân-tay' và 'lợi-ích-nào-cũng-được' nằm ở điểm nào?",
       "options": [
-        "Ép buộc người dùng phải mua các sản phẩm phần cứng mới.",
-        "Thu tiền phí sử dụng của người dùng theo từng phút online.",
-        "Họ thuê các kỹ sư hành vi hàng đầu để biến ứng dụng thành những chiếc máy đánh bạc kỹ thuật số (kéo để tải lại, thông báo đỏ, thuật toán đề xuất), đánh cắp thời gian và sự chú ý của bạn để bán cho các nhà quảng cáo.",
-        "Thu thập dữ liệu để bán cho các tổ chức chính phủ."
+        "Phương pháp người-lao-động-chân-tay tập trung vào việc tối ưu hóa chi phí tài chính thay vì tập trung vào quản lý thời gian cá nhân.",
+        "Phương pháp người-lao-động-chân-tay khuyến khích người dùng sử dụng công nghệ mới nhất để nâng cao hiệu suất làm việc chuyên môn.",
+        "Phương pháp người-lao-động-chân-tay ưu tiên các hoạt động giải trí thay vì các mục tiêu phát triển sự nghiệp dài hạn của cá nhân.",
+        "Phương pháp người-lao-động-chân-tay đòi hỏi tác động tích cực phải lớn hơn tác động tiêu cực đối với các yếu tố cốt lõi."
       ],
-      "correctIndex": 2,
-      "explanation": "Nếu bạn không phải trả tiền cho sản phẩm, chính sự chú ý và dữ liệu tâm lý của bạn là sản phẩm đang bị đem ra đấu giá."
+      "correctIndex": 3,
+      "explanation": "Phương pháp người-lao-động-chân-tay đặt ra tiêu chuẩn khắt khe hơn, yêu cầu công cụ phải thực sự hỗ trợ các mục tiêu quan trọng nhất."
     },
     {
       "id": "q9",
-      "question": "Chiến lược 'Đừng dùng Internet để giải trí mặc định' (Don't Use the Internet for Default Entertainment) khuyên bạn nên làm gì với thời gian rảnh rỗi?",
+      "question": "Tại sao việc áp dụng phương pháp lựa chọn công cụ cẩn thận lại là một quá trình đòi hỏi sự thực hành và thử nghiệm liên tục?",
       "options": [
-        "Đăng ký tất cả các gói dịch vụ phát video trực tuyến có trên thị trường.",
-        "Hãy đi ngủ ngay lập tức mỗi khi có thời gian rảnh.",
-        "Hãy chủ động lên kế hoạch chất lượng cao cho thời gian rảnh rỗi của bạn (đọc sách, rèn luyện kỹ năng, sinh hoạt gia đình) TRƯỚC KHI các thuật toán mạng xã hội lên kế hoạch giùm bạn.",
-        "Luôn mang theo một chiếc máy tính bảng để xem phim truyền hình."
+        "Vì không có công thức đơn giản nào để xác định chính xác tác động của mỗi công cụ đối với các mục tiêu cá nhân khác nhau.",
+        "Vì các công cụ mạng luôn thay đổi tính năng, buộc người dùng phải liên tục cập nhật kiến thức để đánh giá lại giá trị của chúng.",
+        "Vì mỗi người có một môi trường làm việc khác nhau, đòi hỏi sự linh hoạt trong việc lựa chọn công cụ phù hợp với từng hoàn cảnh.",
+        "Vì việc từ bỏ các công cụ mạng xã hội đòi hỏi sự hỗ trợ từ cộng đồng để duy trì thói quen mới trong thời gian dài hạn nhất."
       ],
-      "correctIndex": 2,
-      "explanation": "Arnold Bennett trong 'Làm thế nào để sống 24 giờ một ngày' chỉ ra: Nếu bạn để thời gian rảnh trôi qua vô định, bạn sẽ tự động rơi vào sự phân tâm số rẻ tiền và kiệt quệ."
+      "correctIndex": 0,
+      "explanation": "Việc xác định những gì quan trọng nhất và đánh giá tác động của công cụ là một quá trình cá nhân hóa, không thể áp dụng máy móc."
     },
     {
       "id": "q10",
-      "question": "Tại sao việc cai nghiện mạng xã hội lại khiến một số người cảm thấy bứt rứt, trống rỗng và lo âu trong những ngày đầu tiên?",
+      "question": "Trong bối cảnh lao động trí óc, tại sao các công cụ mạng không nên được coi là những thứ đặc biệt hay mang tính cách mạng?",
       "options": [
-        "Vì bạn bè sẽ nghĩ rằng họ đã qua đời.",
-        "Vì cơ thể họ bị thiếu hụt vitamin D do ở trong nhà quá nhiều.",
-        "Vì họ sợ thế giới sẽ xảy ra chiến tranh mà họ không biết.",
-        "Đó là triệu chứng cai nghiện dopamine thực sự; não bộ đã quen với các liều kích thích liên tục nên khi rơi vào tĩnh lặng nó sẽ phát tín hiệu hoảng loạn để đòi hỏi kích thích."
+        "Chúng thường xuyên gây ra sự phân tâm, làm giảm khả năng sáng tạo của người lao động trí óc trong các dự án đòi hỏi sự tập trung.",
+        "Chúng chỉ là công cụ hỗ trợ công việc, giống như cây búa của thợ rèn, cần được đánh giá dựa trên hiệu quả thực tế mang lại.",
+        "Chúng không thể thay thế được kỹ năng tư duy và kinh nghiệm chuyên môn mà người lao động đã tích lũy qua nhiều năm làm việc.",
+        "Chúng chỉ là những sản phẩm thương mại được thiết kế để thu lợi nhuận từ sự chú ý của người dùng thay vì hỗ trợ công việc thực sự."
       ],
-      "correctIndex": 3,
-      "explanation": "Nghiện mạng xã hội là một chứng nghiện hành vi có thật về mặt sinh hóa; vượt qua những ngày cai đầu tiên là thử thách bản lĩnh để lấy lại tự do tinh thần."
+      "correctIndex": 1,
+      "explanation": "Việc coi công cụ mạng là công cụ bình thường giúp người lao động có thái độ hoài nghi và thực tế hơn khi quyết định sử dụng chúng."
     },
     {
       "id": "q11",
-      "question": "Một người biện bạch: 'Tôi dùng Facebook vì thỉnh thoảng có khách hàng tiềm năng nhắn tin hỏi mua hàng' nên được khuyên điều gì theo phương pháp thợ thủ công?",
+      "question": "Tại sao việc sử dụng mạng xã hội để duy trì các mối quan hệ xã hội thường bị tác giả đánh giá là hời hợt và thiếu chiều sâu?",
       "options": [
-        "Hãy chi tiền mua quảng cáo Facebook nhiều hơn.",
-        "Hãy đo lường khách quan: Doanh thu từ vài khách hàng lẻ tẻ đó có bù đắp nổi hàng trăm giờ làm việc sâu bị đánh cắp và sự suy giảm năng lực cốt lõi của doanh nghiệp hay không? Nếu không, hãy chuyển kênh liên lạc sang email hoặc hotline.",
-        "Hãy đóng cửa doanh nghiệp ngay lập tức.",
-        "Hãy tuyển thêm 10 nhân viên chỉ để trực tin nhắn Facebook."
+        "Vì các nền tảng mạng xã hội thường xuyên bị lỗi kỹ thuật, gây gián đoạn quá trình giao tiếp giữa bạn bè và người thân trong gia đình.",
+        "Vì việc kết bạn trên mạng xã hội thường dựa trên các thuật toán gợi ý, không phản ánh đúng sở thích và tính cách của người dùng.",
+        "Vì các tương tác qua lại bằng tin nhắn ngắn gọn không thể thay thế được sự hiện diện trọn vẹn và kết nối thực tế giữa con người.",
+        "Vì người dùng thường có xu hướng xây dựng hình ảnh giả tạo trên mạng xã hội, khiến các mối quan hệ trở nên thiếu sự chân thành."
       ],
-      "correctIndex": 1,
-      "explanation": "Không thể dùng một lợi ích nhỏ nhoi bất định để biện minh cho một tổn thất chắc chắn và khổng lồ về mặt nhận thức và thời gian."
+      "correctIndex": 2,
+      "explanation": "Những tương tác hời hợt trên mạng không thể trở thành trung tâm trong đời sống xã hội hoặc mang lại hạnh phúc thực sự cho con người."
     },
     {
       "id": "q12",
-      "question": "Mối quan hệ bạn bè thực sự trên thế giới thực khác biệt như thế nào so với việc tương tác qua lại bằng nút 'Like' trên mạng xã hội?",
+      "question": "Theo tác giả, tại sao việc từ bỏ tư duy 'lợi-ích-nào-cũng-được' lại quan trọng đối với những người muốn nuôi dưỡng thói quen làm việc sâu?",
       "options": [
-        "Nút Like là sự lười biếng giao tiếp, tạo ra kết nối hời hợt giả tạo; tình bạn thực sự đòi hỏi sự hiện diện trọn vẹn, lắng nghe sâu sắc và cùng chia sẻ trải nghiệm thực tế.",
-        "Tương tác trên mạng xã hội tốn nhiều tiền hơn gặp gỡ ngoài đời.",
-        "Không có bất kỳ sự khác biệt nào giữa hai hình thức.",
-        "Bạn bè trên mạng xã hội luôn trung thành hơn bạn bè ngoài đời."
+        "Vì nó giúp người dùng tiết kiệm được một khoản chi phí đáng kể khi không phải trả phí cho các dịch vụ mạng xã hội cao cấp hiện nay.",
+        "Vì nó giúp người dùng tránh được các rủi ro về bảo mật thông tin cá nhân khi tham gia vào các cộng đồng trực tuyến không an toàn.",
+        "Vì nó giúp người dùng cải thiện sức khỏe thể chất bằng cách giảm thời gian ngồi trước màn hình máy tính trong suốt cả ngày dài.",
+        "Vì nó giúp giải phóng thời gian và sự chú ý khỏi những kẻ thù rình rập, cho phép tập trung vào các nhiệm vụ có giá trị cao."
       ],
-      "correctIndex": 0,
-      "explanation": "Mạng xã hội đã thương mại hóa và làm rẻ rúng hóa các mối quan hệ con người thành những cú nhấp chuột vô hồn."
+      "correctIndex": 3,
+      "explanation": "Làm việc sâu đòi hỏi sự tập trung cao độ, điều này không thể đạt được nếu bạn liên tục bị phân tâm bởi các công cụ mạng xã hội."
     },
     {
       "id": "q13",
-      "question": "Cal Newport có sử dụng tài khoản mạng xã hội nào (Facebook, Twitter, Instagram, TikTok) không?",
+      "question": "Chiến lược nào được tác giả đề xuất để giúp người dùng tăng cường mối quan hệ tinh tế hơn với các công cụ mạng của mình?",
       "options": [
-        "Ông chỉ sử dụng một tài khoản ẩn danh để theo dõi người khác.",
-        "Ông từng dùng nhưng đã bị các nền tảng khóa tài khoản.",
-        "Ông không hề mở bất kỳ tài khoản mạng xã hội nào trong suốt cuộc đời mình và vẫn là một Giáo sư thành đạt, tác giả best-seller toàn cầu.",
-        "Ông sử dụng tất cả và có hàng triệu người theo dõi trên mỗi nền tảng."
+        "Kết hợp các chiến lược xem xét công cụ từ nhiều góc độ khác nhau để giành lại quyền kiểm soát thời gian và sự chú ý cá nhân.",
+        "Sử dụng các ứng dụng quản lý thời gian để giới hạn số giờ truy cập vào các trang web giải trí trong suốt thời gian làm việc chính.",
+        "Tắt tất cả các thông báo từ các ứng dụng mạng xã hội trên điện thoại để tránh bị làm phiền trong khi đang thực hiện công việc sâu.",
+        "Chỉ sử dụng mạng xã hội vào những khung giờ cố định trong ngày để đảm bảo không ảnh hưởng đến hiệu suất làm việc của bản thân."
       ],
-      "correctIndex": 2,
-      "explanation": "Bản thân Newport là minh chứng sống hùng hồn nhất: Bạn hoàn toàn có thể đạt đến đỉnh cao sự nghiệp và có tầm ảnh hưởng lớn mà không cần bất kỳ tài khoản mạng xã hội nào."
+      "correctIndex": 0,
+      "explanation": "Việc kết hợp nhiều chiến lược giúp người dùng có cái nhìn toàn diện và kiểm soát tốt hơn các công cụ mạng trong cuộc sống hàng ngày."
     },
     {
       "id": "q14",
-      "question": "Điều gì xảy ra với khả năng đọc sâu các cuốn sách dày của một người sau khi họ từ bỏ mạng xã hội trong một thời gian?",
+      "question": "Tại sao việc chấp nhận trạng thái bị sao lãng hiện tại như một điều không thể tránh khỏi lại là một sai lầm trong lao động trí óc?",
       "options": [
-        "Khả năng đọc sâu và thấu hiểu các văn bản phức tạp dần được phục hồi kỳ diệu, tâm trí lấy lại sự kiên nhẫn và thưởng thức niềm vui của sự suy ngẫm tĩnh lặng.",
-        "Họ sẽ không còn hứng thú với bất kỳ cuốn sách nào nữa.",
-        "Họ sẽ đọc sách với tốc độ chậm hơn trước.",
-        "Khả năng đọc bị suy giảm do họ không biết xu hướng sách mới trên mạng."
+        "Vì nó khiến người lao động cảm thấy tự ti về khả năng của mình khi không thể theo kịp các xu hướng công nghệ mới nhất hiện nay.",
+        "Vì nó ngăn cản người lao động tìm kiếm các giải pháp thay thế hiệu quả hơn để bảo vệ sự tập trung và nâng cao năng suất làm việc.",
+        "Vì nó làm giảm động lực phát triển bản thân của người lao động khi họ chấp nhận sự tầm thường thay vì nỗ lực đạt đến đỉnh cao.",
+        "Vì nó tạo ra một môi trường làm việc tiêu cực, nơi sự sao lãng được coi là tiêu chuẩn thay vì là một vấn đề cần được giải quyết."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi giải phóng não bộ khỏi các video 15 giây và bài đăng vụn vặt, mạch nơ-ron đọc sâu (deep reading) sẽ tái kích hoạt và đưa bạn trở lại với thế giới tri thức uyên bác."
+      "correctIndex": 1,
+      "explanation": "Chấp nhận sự sao lãng khiến chúng ta rơi vào vết xe đổ, không thể cải thiện khả năng làm việc sâu và đạt được thành công bền vững."
     },
     {
       "id": "q15",
-      "question": "Thông điệp dứt khoát nhất của Quy tắc số 3 là gì?",
+      "question": "Thông điệp cốt lõi mà tác giả muốn truyền tải qua chương về việc thoát khỏi truyền thông xã hội là gì?",
       "options": [
-        "Hãy dùng mạng xã hội thông minh hơn bằng cách bật chế độ tối (dark mode).",
-        "Hãy thẳng tay thanh lọc các công cụ mạng gây phân tâm; từ chối quyền kiểm soát của các thuật toán để giành lại quyền sở hữu cuộc đời và trí tuệ của chính bạn.",
-        "Mọi công nghệ hiện đại đều là tội lỗi của xã hội.",
-        "Hãy chuyển sang sử dụng máy tính bảng thay cho điện thoại."
+        "Hãy từ bỏ hoàn toàn Internet để quay trở lại với lối sống truyền thống, nơi con người có thể tập trung vào các giá trị tinh thần.",
+        "Hãy sử dụng mạng xã hội một cách có chọn lọc bằng cách chỉ kết nối với những người thực sự quan trọng trong cuộc sống cá nhân.",
+        "Hãy chủ động kiểm soát các công cụ mạng để phục vụ mục tiêu lớn hơn, thay vì để chúng kiểm soát thời gian và sự chú ý của bạn.",
+        "Hãy tìm kiếm các công cụ mạng mới có tính năng bảo mật cao hơn để bảo vệ thông tin cá nhân khỏi các cuộc tấn công trực tuyến."
       ],
-      "correctIndex": 1,
-      "explanation": "Đừng ngây thơ thỏa hiệp với những công cụ được thiết kế để thao túng bạn; hãy dũng cảm cắt bỏ những thứ cản trở bạn trở nên vĩ đại."
+      "correctIndex": 2,
+      "explanation": "Mục tiêu là làm chủ công cụ, biến chúng thành phương tiện hỗ trợ cho sự thành công và hạnh phúc thay vì để chúng gây hại cho bản thân."
     }
   ]
 }

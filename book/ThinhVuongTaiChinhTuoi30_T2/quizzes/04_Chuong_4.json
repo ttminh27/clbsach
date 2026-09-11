@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Bảng tính 'Chi phí cần thiết của gia đình trong vòng 55 năm (từ 31 tuổi đến 85 tuổi)' trong chương 4 chỉ ra cấu trúc chi tiêu mang tính quy luật nào của đời người?",
+      "question": "Bảng tính 'Chi phí cần thiết của gia đình trong vòng 55 năm' trong chương 4 chỉ ra quy luật nào của đời người?",
       "options": [
-        "Chi tiêu của con người hoàn toàn không thay đổi từ lúc sinh ra đến lúc qua đời.",
-        "Cuộc đời có các đỉnh chi tiêu khổng lồ đan xen: Mua nhà và nuôi con nhỏ (30s) -> Học đại học và kết hôn cho con (40-50s) -> Chi phí sinh hoạt hưu trí và chăm sóc y tế đột biến (60-85s).",
-        "Chi phí mua sắm quần áo luôn chiếm 80% tổng chi tiêu cuộc đời.",
-        "Giai đoạn từ 60 đến 85 tuổi là giai đoạn hoàn toàn không phát sinh bất kỳ chi phí nào."
+        "Cuộc đời có các đỉnh chi tiêu khổng lồ đan xen: Mua nhà và nuôi con nhỏ (30s) -> Học đại học cho con (40-50s) -> Hưu trí (60-85s).",
+        "Chi tiêu của con người hoàn toàn không thay đổi từ lúc bắt đầu đi làm cho đến khi qua đời ở độ tuổi ngoài 80 như dự kiến.",
+        "Giai đoạn từ 60 đến 85 tuổi là giai đoạn hoàn toàn không phát sinh bất kỳ chi phí nào do con cái đã trưởng thành tự lập.",
+        "Chi phí mua sắm quần áo và giải trí cá nhân luôn chiếm 80% tổng chi tiêu trong suốt cuộc đời của một người lao động bình thường."
       ],
-      "correctIndex": 1,
-      "explanation": "Bảng tính 55 năm phác họa toàn cảnh các đỉnh lũ chi phí: nếu không nhìn thấy bức tranh tổng thể từ sớm, người ta sẽ dễ dàng bị cuốn trôi khi các đợt sóng chi tiêu ập đến đồng thời."
+      "correctIndex": 0,
+      "explanation": "Bảng tính phác họa toàn cảnh các đỉnh lũ chi phí, giúp người đọc nhận diện sớm để không bị cuốn trôi khi các đợt sóng chi tiêu ập đến."
     },
     {
       "id": "q2",
-      "question": "Tại sao tác giả lại khẳng định: 'Kẻ thù lớn nhất của cuộc sống sau khi nghỉ hưu là BỎ LỠ THỜI CƠ'?",
+      "question": "Tại sao tác giả khẳng định: 'Kẻ thù lớn nhất của cuộc sống sau khi nghỉ hưu là BỎ LỠ THỜI CƠ'?",
       "options": [
-        "Vì cơ hội trúng vé số chỉ xuất hiện đúng một lần ở tuổi 20.",
-        "Vì thời gian tích lũy không bao giờ quay trở lại; bỏ lỡ những năm tháng tuổi 30-40 đồng nghĩa với việc tự tước đi sức mạnh của lãi kép và đẩy bản thân vào thế bất khả thi khi bắt đầu ở tuổi 50.",
-        "Vì sau khi nghỉ hưu tất cả các ngân hàng đều từ chối phục vụ.",
-        "Vì giá nhà ở tương lai sẽ luôn rẻ hơn hiện tại."
+        "Vì cơ hội trúng vé số hoặc các khoản đầu tư may mắn chỉ xuất hiện đúng một lần duy nhất trong cuộc đời mỗi người ở độ tuổi 20.",
+        "Thời gian tích lũy không quay lại; bỏ lỡ những năm tháng tuổi 30-40 đồng nghĩa với việc tự tước đi sức mạnh của lãi kép tài chính.",
+        "Vì sau khi nghỉ hưu tất cả các ngân hàng đều từ chối phục vụ và không cho phép người già mở tài khoản tiết kiệm mới để tích lũy.",
+        "Vì giá nhà ở và chi phí sinh hoạt trong tương lai sẽ luôn rẻ hơn hiện tại nên việc tích lũy sớm là một sự lãng phí tài nguyên."
       ],
       "correctIndex": 1,
-      "explanation": "Thời cơ vàng của hưu trí chính là tuổi trẻ. Trì hoãn 10 năm sẽ khiến cái giá phải trả để bù đắp tăng lên gấp bội, thậm chí vượt quá khả năng tài chính của một đời người."
+      "explanation": "Thời cơ vàng của hưu trí chính là tuổi trẻ. Trì hoãn 10 năm sẽ khiến cái giá phải trả để bù đắp tăng lên gấp bội, vượt quá khả năng."
     },
     {
       "id": "q3",
-      "question": "Hiện tượng 'Nút thắt cổ chai tài chính ở tuổi 50' (The Age 50 Financial Bottleneck) xảy ra do sự hội tụ của những áp lực nào?",
+      "question": "Hiện tượng 'Nút thắt cổ chai tài chính ở tuổi 50' xảy ra do sự hội tụ của những áp lực nào?",
       "options": [
-        "Việc phải mua thêm 5 chiếc xe hơi mới.",
-        "Chi phí nuôi con học đại học/kết hôn đạt đỉnh + Nguy cơ bị sa thải/về hưu non từ doanh nghiệp + Thời gian chuẩn bị cho tuổi già chỉ còn lại chưa đầy 5-10 năm.",
-        "Việc phải thi lại bằng tốt nghiệp đại học.",
-        "Không có bất kỳ áp lực nào ở tuổi 50."
+        "Việc phải mua thêm nhiều tài sản cố định như xe hơi hạng sang và bất động sản nghỉ dưỡng để chuẩn bị cho cuộc sống về hưu an nhàn.",
+        "Việc phải thi lại bằng tốt nghiệp đại học hoặc các chứng chỉ nghề nghiệp để có thể tiếp tục làm việc trong môi trường cạnh tranh.",
+        "Chi phí nuôi con học đại học đạt đỉnh, nguy cơ bị sa thải cao và thời gian chuẩn bị cho tuổi già chỉ còn lại chưa đầy 10 năm.",
+        "Không có bất kỳ áp lực nào đáng kể ở tuổi 50 vì đây là độ tuổi mà thu nhập của người lao động thường đạt mức cao nhất trong đời."
       ],
-      "correctIndex": 1,
-      "explanation": "Tuổi 50 là thời điểm dễ vỡ trận nhất: chi phí gia đình lớn nhất trong khi rủi ro mất việc làm cao nhất và thời gian đệm cho hưu trí gần như cạn kiệt."
+      "correctIndex": 2,
+      "explanation": "Tuổi 50 là thời điểm dễ vỡ trận nhất: chi phí gia đình lớn nhất trong khi rủi ro mất việc làm cao nhất và thời gian đệm cho hưu trí cạn kiệt."
     },
     {
       "id": "q4",
-      "question": "Nếu một người đợi đến năm 50 tuổi mới bắt đầu tiết kiệm cho 30 năm tuổi già (từ 60 đến 90 tuổi), họ sẽ phải đối mặt với khó khăn toán học nào?",
+      "question": "Nếu đợi đến năm 50 tuổi mới bắt đầu tiết kiệm cho 30 năm tuổi già, họ sẽ đối mặt với khó khăn toán học nào?",
       "options": [
-        "Số tiền cần tích lũy sẽ tự động giảm đi một nửa.",
-        "Họ sẽ tự động được nhà nước chu cấp 100% chi phí.",
-        "Họ không được phép gửi tiền vào bất kỳ ngân hàng nào.",
-        "Họ chỉ có 10 năm đi làm để tích lũy số tiền nuôi sống 30 năm nghỉ hưu, đồng nghĩa với việc phải tiết kiệm tới 70-80% thu nhập mỗi tháng - một điều gần như không tưởng."
+        "Số tiền cần tích lũy sẽ tự động giảm đi một nửa nhờ vào các chính sách hỗ trợ đặc biệt của chính phủ dành cho người cao tuổi.",
+        "Họ sẽ tự động được nhà nước chu cấp toàn bộ chi phí sinh hoạt hàng tháng mà không cần phải thực hiện bất kỳ khoản tiết kiệm nào.",
+        "Họ không được phép gửi tiền vào bất kỳ ngân hàng nào vì các tổ chức tài chính chỉ nhận tiền gửi của những người dưới 50 tuổi.",
+        "Chỉ có 10 năm đi làm để tích lũy nuôi sống 30 năm nghỉ hưu, đòi hỏi phải tiết kiệm tới 70-80% thu nhập - điều gần như không tưởng."
       ],
       "correctIndex": 3,
-      "explanation": "Toán học tài chính không có phép màu cho sự chậm trễ: Dùng 10 năm đi làm để nuôi 30 năm tiêu thụ đòi hỏi tỷ lệ tiết kiệm phi thực tế nếu không có đòn bẩy thời gian tích lũy từ trước."
+      "explanation": "Toán học tài chính không có phép màu cho sự chậm trễ: Dùng 10 năm đi làm để nuôi 30 năm tiêu thụ đòi hỏi tỷ lệ tiết kiệm phi thực tế."
     },
     {
       "id": "q5",
-      "question": "Tính toán chi phí hưu trí trong chương 4 nhấn mạnh rằng: Mức sống hưu trí tối thiểu cần đạt bao nhiêu phần trăm so với mức thu nhập trước khi nghỉ hưu?",
+      "question": "Mức sống hưu trí tối thiểu cần đạt bao nhiêu phần trăm so với mức thu nhập trước khi nghỉ hưu?",
       "options": [
-        "Chỉ cần 10% là đủ sống.",
-        "Hoàn toàn bằng 0% vì người già không cần tiêu tiền.",
-        "Phải gấp 500% so với mức thu nhập cũ.",
-        "Khoảng 60% - 70% mức thu nhập trước hưu để duy trì sự thoải mái, dinh dưỡng và các chi phí y tế phát sinh mà không bị rơi vào cú sốc giảm mức sống đột ngột."
+        "Khoảng 60% - 70% mức thu nhập trước hưu để duy trì sự thoải mái, dinh dưỡng và các chi phí y tế phát sinh mà không bị sốc.",
+        "Chỉ cần 10% thu nhập trước khi nghỉ hưu là đủ để trang trải mọi nhu cầu cơ bản vì người già thường có lối sống rất giản dị.",
+        "Hoàn toàn bằng 0% vì người già không cần tiêu tiền và mọi nhu cầu của họ đều được con cái hoặc xã hội chi trả hoàn toàn.",
+        "Phải gấp 500% so với mức thu nhập cũ để có thể tận hưởng cuộc sống xa hoa và đi du lịch khắp thế giới sau khi đã nghỉ hưu."
       ],
-      "correctIndex": 3,
-      "explanation": "Tỷ lệ thay thế thu nhập (Income Replacement Ratio) chuẩn mực là 60-70%. Mức này đảm bảo chất lượng cuộc sống và phẩm giá không bị suy giảm nghiêm trọng."
+      "correctIndex": 0,
+      "explanation": "Tỷ lệ thay thế thu nhập chuẩn mực là 60-70%. Mức này đảm bảo chất lượng cuộc sống và phẩm giá không bị suy giảm nghiêm trọng."
     },
     {
       "id": "q6",
       "question": "Tại sao việc 'chỉ dựa vào lương hưu bảo hiểm xã hội cơ bản' lại KHÔNG THỂ đảm bảo một tuổi già thịnh vượng?",
       "options": [
-        "Vì lương hưu cơ bản chỉ dành riêng cho quân đội.",
-        "Vì bảo hiểm xã hội không chi trả bằng tiền mặt.",
-        "Vì nhà nước sẽ ngừng phát lương hưu sau 1 năm.",
-        "Vì bảo hiểm xã hội cơ bản chỉ được thiết kế để chi trả mức sàn an sinh tối thiểu (khoảng 20-30% thu nhập trước hưu), không đủ bù đắp trượt giá và chi phí y tế cao cấp."
+        "Vì lương hưu cơ bản chỉ dành riêng cho các đối tượng là quân đội hoặc những người có công với cách mạng trong thời chiến.",
+        "Vì bảo hiểm xã hội chỉ thiết kế để chi trả mức sàn an sinh tối thiểu, không đủ bù đắp trượt giá và chi phí y tế cao cấp.",
+        "Vì bảo hiểm xã hội không chi trả bằng tiền mặt mà chỉ chi trả bằng các loại phiếu mua hàng tại các siêu thị nhà nước.",
+        "Vì nhà nước sẽ ngừng phát lương hưu sau 1 năm kể từ khi người lao động chính thức nộp đơn xin nghỉ hưu theo quy định chung."
       ],
-      "correctIndex": 3,
-      "explanation": "Lương hưu nhà nước là lưới an sinh chống đói nghèo cơ bản, không phải là tấm vé đảm bảo cuộc sống an nhàn thịnh vượng. Trụ cột cá nhân tự nguyện mới là yếu tố quyết định."
+      "correctIndex": 1,
+      "explanation": "Lương hưu nhà nước là lưới an sinh chống đói nghèo cơ bản, không phải là tấm vé đảm bảo cuộc sống an nhàn thịnh vượng."
     },
     {
       "id": "q7",
-      "question": "Khái niệm 'Dòng tiền ròng hưu trí' (Net Retirement Cashflow) được tính toán dựa trên công thức cơ bản nào?",
+      "question": "Khái niệm 'Dòng tiền ròng hưu trí' được tính toán dựa trên công thức cơ bản nào?",
       "options": [
-        "Tổng chi phí mua sắm hàng hiệu hàng năm.",
-        "Tổng thu nhập thụ động mỗi tháng (Lương hưu + Lãi niên kim + Cổ tức/Cho thuê) TRỪ ĐI Chi phí sinh hoạt & Viện phí dự kiến mỗi tháng.",
-        "Tổng số tiền vay nợ ngân hàng cộng với tiền lương cũ.",
-        "Số lượng bất động sản nhân với số tuổi."
+        "Tổng chi phí mua sắm hàng hiệu hàng năm cộng với các khoản chi phí đi du lịch nước ngoài của gia đình trong suốt cả năm.",
+        "Tổng số tiền vay nợ ngân hàng cộng với tiền lương cũ trước khi nghỉ hưu để xác định khả năng chi trả các khoản nợ cũ.",
+        "Tổng thu nhập thụ động mỗi tháng (Lương hưu + Lãi niên kim + Cổ tức) TRỪ ĐI Chi phí sinh hoạt & Viện phí dự kiến mỗi tháng.",
+        "Số lượng bất động sản nhân với số tuổi của người nghỉ hưu để tính toán giá trị tài sản ròng hiện có tại thời điểm đó."
       ],
-      "correctIndex": 1,
-      "explanation": "Dòng tiền ròng dương (Thu nhập thụ động > Chi phí sinh hoạt) là chìa khóa vàng giúp người cao tuổi sống tự tại mà không bao giờ phải lo sợ cạn kiệt tiền gốc."
+      "correctIndex": 2,
+      "explanation": "Dòng tiền ròng dương là chìa khóa vàng giúp người cao tuổi sống tự tại mà không bao giờ phải lo sợ cạn kiệt tiền gốc."
     },
     {
       "id": "q8",
-      "question": "Sai lầm phổ biến khi lập kế hoạch hưu trí là 'quên tính yếu tố trượt giá của đồng tiền'. Nếu lạm phát 4%/năm, sức mua của 1 tỷ đồng sau 24 năm sẽ còn lại tương đương bao nhiêu hiện tại?",
+      "question": "Nếu lạm phát 4%/năm, sức mua của 1 tỷ đồng sau 24 năm sẽ còn lại tương đương bao nhiêu hiện tại?",
       "options": [
-        "Khoảng 1 tỷ đồng không đổi.",
-        "Tăng lên thành 5 tỷ đồng sức mua.",
-        "Chỉ còn tương đương khoảng gần 400 triệu đồng sức mua thực tế (giảm hơn một nửa giá trị).",
-        "Bị giảm hoàn toàn về 0 đồng."
+        "Khoảng 1 tỷ đồng không đổi vì tiền mặt luôn giữ nguyên giá trị danh nghĩa bất kể tình hình lạm phát của nền kinh tế.",
+        "Tăng lên thành 5 tỷ đồng sức mua nhờ vào lãi suất kép của ngân hàng luôn cao hơn mức lạm phát trung bình hàng năm.",
+        "Bị giảm hoàn toàn về 0 đồng vì sau 24 năm các loại tiền tệ hiện tại sẽ bị thay thế bởi các loại tiền điện tử mới hoàn toàn.",
+        "Chỉ còn tương đương khoảng gần 400 triệu đồng sức mua thực tế do tác động của việc trượt giá tiền tệ theo thời gian."
       ],
-      "correctIndex": 2,
-      "explanation": "Quy tắc 72: Với lạm phát 4%, sau 72/4 = 18 năm giá cả tăng gấp đôi, tức giá trị tiền tệ giảm một nửa. Sau 24 năm, sức mua thực tế chỉ còn chưa đầy 40%."
+      "correctIndex": 3,
+      "explanation": "Quy tắc 72: Với lạm phát 4%, sau 18 năm giá cả tăng gấp đôi. Sau 24 năm, sức mua thực tế chỉ còn chưa đầy 40%."
     },
     {
       "id": "q9",
-      "question": "Tại sao việc 'đầu tư vào sức khỏe và duy trì lối sống lành mạnh ở tuổi 30-40' lại được xem là chiến lược phòng ngừa chi phí hưu trí hiệu quả nhất?",
+      "question": "Tại sao việc 'đầu tư vào sức khỏe ở tuổi 30-40' lại được xem là chiến lược phòng ngừa chi phí hưu trí hiệu quả?",
       "options": [
-        "Vì tập thể dục sẽ được các công ty tài chính trả thưởng tiền mặt.",
-        "Vì người có sức khỏe tốt sẽ không bao giờ cần phải ăn cơm.",
-        "Vì một cơ thể khỏe mạnh giúp giảm thiểu tối đa các đợt nằm viện tốn kém hàng trăm triệu đồng ở tuổi 70-80, bảo toàn nguyên vẹn quỹ tài chính dưỡng già.",
-        "Vì người khỏe mạnh không cần phải tham gia giao thông."
+        "Vì một cơ thể khỏe mạnh giúp giảm thiểu tối đa các đợt nằm viện tốn kém ở tuổi 70-80, bảo toàn nguyên vẹn quỹ tài chính.",
+        "Vì tập thể dục thường xuyên sẽ được các công ty tài chính trả thưởng tiền mặt hàng tháng để khuyến khích lối sống lành mạnh.",
+        "Vì người có sức khỏe tốt sẽ không bao giờ cần phải ăn cơm hay tiêu tốn tiền bạc cho các nhu cầu sinh hoạt cơ bản hàng ngày.",
+        "Vì người khỏe mạnh không cần phải tham gia giao thông công cộng nên tiết kiệm được rất nhiều chi phí đi lại hàng ngày."
       ],
-      "correctIndex": 2,
-      "explanation": "Phòng bệnh hơn chữa bệnh. Giữ gìn thể lực và tinh thần là cách cắt giảm 'khoản chi phí đột biến' lớn nhất của tuổi già một cách chủ động."
+      "correctIndex": 0,
+      "explanation": "Phòng bệnh hơn chữa bệnh. Giữ gìn thể lực và tinh thần là cách cắt giảm 'khoản chi phí đột biến' lớn nhất của tuổi già."
     },
     {
       "id": "q10",
       "question": "Chiến lược 'Đa dạng hóa nguồn thu nhập hưu trí' giúp loại bỏ rủi ro nào sau đây?",
       "options": [
-        "Rủi ro phụ thuộc vào một nguồn duy nhất; nếu một kênh bị suy giảm (ví dụ bất động sản đóng băng hoặc lãi suất ngân hàng giảm), các nguồn khác (bảo hiểm niên kim, cổ tức) vẫn đảm bảo dòng tiền sinh hoạt liên tục.",
-        "Rủi ro phải đóng thuế thu nhập cá nhân quá thấp.",
-        "Rủi ro có quá nhiều tài sản thừa kế cho con cháu.",
-        "Rủi ro không tiêu hết tiền trước khi qua đời."
+        "Rủi ro phải đóng thuế thu nhập cá nhân quá thấp cho nhà nước khi bạn đã bước vào độ tuổi nghỉ hưu theo quy định hiện hành.",
+        "Rủi ro phụ thuộc vào một nguồn duy nhất; nếu một kênh bị suy giảm, các nguồn khác vẫn đảm bảo dòng tiền sinh hoạt liên tục.",
+        "Rủi ro có quá nhiều tài sản thừa kế cho con cháu dẫn đến việc tranh chấp tài sản giữa các thành viên trong gia đình.",
+        "Rủi ro không tiêu hết tiền trước khi qua đời khiến cho số tiền tiết kiệm bị lãng phí và không mang lại giá trị sử dụng."
       ],
-      "correctIndex": 0,
-      "explanation": "Đa dạng hóa nguồn thu tạo ra sự kiên cố: các dòng tiền từ nhiều kênh độc lập hỗ trợ lẫn nhau, đảm bảo sự an toàn tuyệt đối trước mọi biến động kinh tế."
+      "correctIndex": 1,
+      "explanation": "Đa dạng hóa nguồn thu tạo ra sự kiên cố: các dòng tiền từ nhiều kênh độc lập hỗ trợ lẫn nhau trước mọi biến động kinh tế."
     },
     {
       "id": "q11",
-      "question": "Để không bỏ lỡ thời cơ vàng ở tuổi 30, quy tắc 'Bắt đầu nhỏ nhưng đều đặn' (Start small, act consistently) mang lại sức mạnh gì?",
+      "question": "Để không bỏ lỡ thời cơ vàng ở tuổi 30, quy tắc 'Bắt đầu nhỏ nhưng đều đặn' mang lại sức mạnh gì?",
       "options": [
-        "Dù chỉ bắt đầu với 1-2 triệu đồng mỗi tháng nhưng việc tạo lập thói quen kỷ luật và để lãi kép lăn bánh sớm sẽ tạo ra khối tài sản vượt trội so với việc chờ có nhiều tiền mới làm.",
-        "Giúp bạn được miễn toàn bộ các loại thuế.",
-        "Không mang lại bất kỳ kết quả nào nếu số tiền ban đầu quá nhỏ.",
-        "Giúp bạn ngay lập tức trở thành tỷ phú đô la sau 1 tháng."
+        "Giúp bạn được miễn toàn bộ các loại thuế thu nhập cá nhân và thuế tài sản trong suốt quãng thời gian còn lại của cuộc đời.",
+        "Không mang lại bất kỳ kết quả nào nếu số tiền ban đầu quá nhỏ so với mức chi phí sinh hoạt đắt đỏ của xã hội hiện đại.",
+        "Dù chỉ bắt đầu với số tiền nhỏ nhưng việc tạo lập thói quen kỷ luật và để lãi kép lăn bánh sớm sẽ tạo ra tài sản vượt trội.",
+        "Giúp bạn ngay lập tức trở thành tỷ phú đô la sau 1 tháng thực hiện nhờ vào các chiến lược đầu tư mạo hiểm có lợi nhuận cao."
       ],
-      "correctIndex": 0,
-      "explanation": "Kỷ luật và thời gian quan trọng hơn quy mô vốn ban đầu. Một hạt mầm nhỏ gieo sớm sẽ lớn thành cây đại thụ che bóng mát cho 30 năm tuổi già."
+      "correctIndex": 2,
+      "explanation": "Kỷ luật và thời gian quan trọng hơn quy mô vốn ban đầu. Một hạt mầm nhỏ gieo sớm sẽ lớn thành cây đại thụ cho tuổi già."
     },
     {
       "id": "q12",
-      "question": "Quan niệm sai lầm 'Tôi sẽ làm việc đến chết nên không cần chuẩn bị quỹ hưu trí' tiềm ẩn nguy cơ bi kịch nào?",
+      "question": "Quan niệm 'Tôi sẽ làm việc đến chết nên không cần chuẩn bị quỹ hưu trí' tiềm ẩn nguy cơ bi kịch nào?",
       "options": [
-        "Cơ thể con người không phải cỗ máy vĩnh cửu; bệnh tật, tai nạn hoặc suy giảm trí lực bất ngờ có thể tước đoạt khả năng lao động bất cứ lúc nào, đẩy người không có tích lũy vào đường cùng.",
-        "Làm việc liên tục sẽ tự động chữa khỏi mọi căn bệnh hiểm nghèo.",
-        "Người làm việc cả đời không bao giờ phải chịu sự cạnh tranh của lao động trẻ.",
-        "Tất cả các công ty đều bắt buộc nhân viên phải làm việc đến 100 tuổi."
+        "Làm việc liên tục sẽ tự động chữa khỏi mọi căn bệnh hiểm nghèo mà con người có thể gặp phải trong suốt quá trình lao động.",
+        "Người làm việc cả đời không bao giờ phải chịu sự cạnh tranh khốc liệt của lực lượng lao động trẻ tuổi trong thị trường.",
+        "Tất cả các công ty đều bắt buộc nhân viên phải làm việc đến 100 tuổi mới được phép nghỉ hưu theo chính sách của nhà nước.",
+        "Cơ thể không phải cỗ máy vĩnh cửu; bệnh tật hoặc suy giảm trí lực bất ngờ có thể tước đoạt khả năng lao động bất cứ lúc nào."
       ],
-      "correctIndex": 0,
-      "explanation": "Ý chí làm việc có thể có nhưng thể lực và cơ hội thị trường không cho phép. Giả định mình luôn khỏe mạnh để đi làm kiếm sống cả đời là ảo tưởng nguy hiểm nhất."
+      "correctIndex": 3,
+      "explanation": "Ý chí làm việc có thể có nhưng thể lực và cơ hội thị trường không cho phép. Giả định mình luôn khỏe mạnh là ảo tưởng nguy hiểm."
     },
     {
       "id": "q13",
       "question": "Bảng kế hoạch 55 năm cuộc đời nên được xem là tài liệu như thế nào đối với mỗi gia đình?",
       "options": [
-        "Tài liệu mật chỉ dành riêng cho cơ quan công an.",
-        "Tờ giấy vô giá trị chỉ dùng để giải trí.",
-        "Một bản tính toán chết không bao giờ được phép chỉnh sửa.",
-        "Chiếc la bàn tài chính định hướng dài hạn, cần được gia đình mang ra soi chiếu và cập nhật lại mỗi năm một lần để điều chỉnh cho sát với thực tế cuộc sống."
+        "Chiếc la bàn tài chính định hướng dài hạn, cần được gia đình mang ra soi chiếu và cập nhật lại mỗi năm một lần cho thực tế.",
+        "Tài liệu mật chỉ dành riêng cho cơ quan công an hoặc các tổ chức tài chính lớn để quản lý thông tin cá nhân của công dân.",
+        "Tờ giấy vô giá trị chỉ dùng để giải trí trong những lúc rảnh rỗi vì cuộc đời luôn thay đổi không theo bất kỳ quy luật nào.",
+        "Một bản tính toán chết không bao giờ được phép chỉnh sửa vì mọi con số đã được tính toán kỹ lưỡng dựa trên dữ liệu quá khứ."
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanation": "Kế hoạch 55 năm là la bàn cuộc đời: định hướng mục tiêu và liên tục được hiệu chỉnh để thích nghi với những ngã rẽ của số phận."
     },
     {
       "id": "q14",
       "question": "Thời điểm hoàn hảo nhất để một người nhận thức và hành động vì quỹ hưu trí là khi nào?",
       "options": [
-        "Khi đã bước sang tuổi 75.",
-        "Khi con cái đã lập gia đình và ra ở riêng.",
-        "Ngay trong những năm tháng tuổi 20-30 khi bắt đầu kiếm được những đồng lương đầu tiên của sự nghiệp.",
-        "Khi nhận được quyết định nghỉ hưu từ ban giám đốc công ty."
+        "Khi đã bước sang tuổi 75 và bắt đầu cảm thấy sức khỏe suy giảm rõ rệt so với thời kỳ còn trẻ trung và sung sức trước đây.",
+        "Ngay trong những năm tháng tuổi 20-30 khi bắt đầu kiếm được những đồng lương đầu tiên của sự nghiệp lao động cá nhân.",
+        "Khi con cái đã lập gia đình và ra ở riêng, lúc đó cha mẹ mới có đủ thời gian và tài chính để lo cho bản thân mình.",
+        "Khi nhận được quyết định nghỉ hưu từ ban giám đốc công ty, đó là lúc cần phải bắt đầu tính toán lại toàn bộ tài chính."
       ],
-      "correctIndex": 2,
-      "explanation": "Khởi đầu càng sớm thì hành trình càng nhẹ nhàng. Tuổi 20-30 là thời điểm vàng với lợi thế thời gian dài nhất và chi phí trích lập hàng tháng thấp nhất."
+      "correctIndex": 1,
+      "explanation": "Khởi đầu càng sớm thì hành trình càng nhẹ nhàng. Tuổi 20-30 là thời điểm vàng với lợi thế thời gian dài nhất và chi phí thấp."
     },
     {
       "id": "q15",
       "question": "Thông điệp đắt giá nhất của Chương 4 gửi tới người đọc là gì?",
       "options": [
-        "Hãy để con cái tự quyết định tương lai tài chính của cha mẹ.",
-        "Hãy trì hoãn việc lo cho tương lai để tận hưởng hết tuổi thanh xuân.",
-        "Mọi kế hoạch tài chính dài hạn đều không thể thực hiện được trong thực tế.",
-        "Đừng để sự thờ ơ và chần chừ cướp mất thời cơ quý giá nhất của cuộc đời; hãy nhìn thẳng vào bức tranh 55 năm và hành động ngay từ hôm nay để bảo vệ phẩm giá tuổi già của chính bạn."
+        "Hãy để con cái tự quyết định tương lai tài chính của cha mẹ vì đó là trách nhiệm của thế hệ sau đối với thế hệ đi trước.",
+        "Hãy trì hoãn việc lo cho tương lai để tận hưởng hết tuổi thanh xuân vì cuộc sống hiện tại mới là điều quan trọng nhất.",
+        "Đừng để sự thờ ơ cướp mất thời cơ; hãy nhìn thẳng vào bức tranh 55 năm và hành động ngay để bảo vệ phẩm giá tuổi già.",
+        "Mọi kế hoạch tài chính dài hạn đều không thể thực hiện được trong thực tế vì biến động kinh tế luôn nằm ngoài tầm kiểm soát."
       ],
-      "correctIndex": 3,
-      "explanation": "Chương 4 là lời cảnh tỉnh dứt khoát: Bỏ lỡ thời cơ hưu trí là sai lầm không thể cứu vãn; hãy nắm bắt thời gian và hành động ngay lập tức."
+      "correctIndex": 2,
+      "explanation": "Chương 4 là lời cảnh tỉnh dứt khoát: Bỏ lỡ thời cơ hưu trí là sai lầm không thể cứu vãn; hãy nắm bắt thời gian và hành động ngay."
     }
   ]
 }

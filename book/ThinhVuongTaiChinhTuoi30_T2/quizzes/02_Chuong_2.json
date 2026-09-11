@@ -8,22 +8,22 @@
       "id": "q1",
       "question": "Biến cố 'Thông báo thu hồi nhà ở của công ty' giáng một đòn tâm lý mạnh mẽ vào Choe Socheon, giúp anh nhận thức ra sự thật tài chính phũ phàng nào?",
       "options": [
-        "Thu hồi nhà ở là điều hoàn toàn không ảnh hưởng gì đến cuộc sống gia đình.",
-        "Nhà ở công ty là tài sản thuộc quyền sở hữu vĩnh viễn của nhân viên.",
-        "Sự an toàn dựa trên phúc lợi công ty chỉ là tạm bợ; nếu không tự xây dựng nền tảng tài sản độc lập, một biến cố chính sách nhỏ cũng có thể đẩy cả gia đình vào cảnh bấp bênh mất chỗ ở.",
-        "Công ty luôn luôn chăm lo nhà ở trọn đời cho toàn bộ nhân viên."
+        "Sự an toàn từ phúc lợi công ty chỉ là tạm bợ; nếu không tự xây dựng tài sản độc lập, biến cố nhỏ sẽ đẩy gia đình vào cảnh bấp bênh.",
+        "Việc công ty thu hồi nhà ở là chiến lược kinh doanh sai lầm, gây ra sự bất mãn lớn trong nội bộ nhân viên và làm giảm hiệu suất làm việc.",
+        "Nhà ở phúc lợi là tài sản thuộc quyền sở hữu vĩnh viễn của nhân viên, nên việc công ty thu hồi là hành vi vi phạm nghiêm trọng các cam kết.",
+        "Khủng hoảng kinh tế là cơ hội để nhân viên yêu cầu công ty tăng lương, nhằm bù đắp cho những khó khăn phát sinh từ việc phải chuyển chỗ ở."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Nhà tập thể công ty ru ngủ người lao động trong sự an tâm giả tạo. Khi công ty thu hồi, người không có tích lũy sẽ lập tức đối mặt với khủng hoảng an cư."
     },
     {
       "id": "q2",
-      "question": "Khi tìm đến 'Thỉnh giáo chuyên gia quản lý tài chính', điều đầu tiên chuyên gia yêu cầu Choe Socheon thực hiện là gì?",
+      "question": "Khi tìm đến chuyên gia quản lý tài chính, điều đầu tiên chuyên gia yêu cầu Choe Socheon thực hiện để bắt đầu quá trình thay đổi là gì?",
       "options": [
-        "Nghỉ việc tại công ty ngay lập tức.",
-        "Lập 'Bảng kê khai toàn diện tài sản và nợ' cùng 'Bảng dòng tiền thu chi thực tế' để bóc tách rõ ràng tình trạng sức khỏe tài chính hiện tại.",
-        "Chuyển toàn bộ tiền cho chuyên gia giữ hộ.",
-        "Vay ngay 1 tỷ Won để mua cổ phiếu đầu cơ."
+        "Chuyên gia yêu cầu anh phải ngay lập tức cắt giảm toàn bộ các khoản chi tiêu cho du lịch và giải trí để dồn tiền trả nợ ngân hàng.",
+        "Lập bảng kê khai toàn diện tài sản và nợ cùng bảng dòng tiền thu chi thực tế để bóc tách rõ ràng tình trạng sức khỏe tài chính hiện tại.",
+        "Chuyên gia đề nghị anh nên tìm kiếm một công việc làm thêm ngoài giờ hành chính để tăng thu nhập nhằm giải quyết các khoản nợ cấp bách.",
+        "Chuyên gia khuyên anh nên bán chiếc xe việt dã đang sở hữu để lấy một khoản vốn đầu tư vào các kênh tài chính có lãi suất cao hơn."
       ],
       "correctIndex": 1,
       "explanation": "Khám sức khỏe tài chính bắt đầu từ số liệu thực tế: tài sản thực, các khoản nợ và dòng tiền ra vào mỗi tháng."
@@ -32,22 +32,22 @@
       "id": "q3",
       "question": "Theo chuyên gia hoạch định tài chính, sai lầm lớn nhất của những người có thu nhập khá nhưng vẫn nghèo là gì?",
       "options": [
-        "Họ xem 'thu nhập cao' đồng nghĩa với 'giàu có', tiêu xài hết sạch số tiền kiếm được và không có cơ chế chuyển hóa thu nhập thành tài sản sinh dòng tiền thụ động.",
-        "Họ làm việc quá ít giờ trong ngày.",
-        "Họ không biết chữ.",
-        "Họ đóng quá ít bảo hiểm xã hội."
+        "Họ thường xuyên thay đổi công việc để tìm kiếm mức lương cao hơn mà không chú trọng đến việc xây dựng kỹ năng chuyên môn bền vững.",
+        "Họ quá tập trung vào việc tiết kiệm tiền trong tài khoản ngân hàng mà bỏ lỡ các cơ hội đầu tư sinh lời từ thị trường chứng khoán.",
+        "Họ xem thu nhập cao đồng nghĩa với giàu có, tiêu xài hết sạch số tiền kiếm được và không có cơ chế chuyển hóa thu nhập thành tài sản.",
+        "Họ không biết cách quản lý thời gian hiệu quả, dẫn đến việc phải chi tiêu quá nhiều cho các dịch vụ hỗ trợ cuộc sống hàng ngày."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Thu nhập là dòng chảy (flow), tài sản là hồ chứa (stock). Thu nhập cao mà hồ chứa bị thủng đáy thì không bao giờ trở nên giàu có thực sự."
     },
     {
       "id": "q4",
       "question": "Chuyên gia tài chính nhấn mạnh vai trò của 'Khoản dự phòng khẩn cấp' đối với một gia đình đang có ý định đầu tư như thế nào?",
       "options": [
-        "Là khoản tiền dùng để mua sắm hàng hiệu khi có dịp lễ tết.",
-        "Là khoản tiền không cần thiết và làm lãng phí cơ hội sinh lời.",
-        "Là khoản tiền gửi vào các kênh mạo hiểm nhất.",
-        "Là 'tấm đệm sinh mạng' giúp gia đình không bị vỡ trận khi mất việc hoặc ốm đau, bảo vệ các danh mục đầu tư dài hạn không bị bán tháo trong hoảng loạn."
+        "Là khoản tiền dùng để mua sắm các thiết bị gia dụng cần thiết nhằm nâng cao chất lượng cuộc sống và giảm bớt áp lực công việc nhà.",
+        "Là số vốn dự phòng để tham gia vào các thương vụ đầu tư mạo hiểm nhằm tìm kiếm lợi nhuận đột biến trong thời gian ngắn hạn nhất.",
+        "Là khoản tiền gửi tiết kiệm có kỳ hạn tại ngân hàng để hưởng lãi suất ổn định, giúp gia đình có thêm thu nhập thụ động hàng tháng.",
+        "Là tấm đệm sinh mạng giúp gia đình không bị vỡ trận khi mất việc hoặc ốm đau, bảo vệ các danh mục đầu tư dài hạn không bị bán tháo."
       ],
       "correctIndex": 3,
       "explanation": "Quỹ khẩn cấp (Emergency Fund) là lá chắn tiên quyết bảo vệ gia đình trước các cú sốc và giữ cho kế hoạch đầu tư dài hạn không bị gián đoạn."
@@ -56,132 +56,132 @@
       "id": "q5",
       "question": "Trong các khoản chi tiêu hàng tháng, chuyên gia khuyên Choe Socheon nên phân loại các khoản chi theo tiêu chí nào để dễ dàng cắt giảm?",
       "options": [
-        "Chi tiêu ban ngày và chi tiêu ban đêm.",
-        "Chi tiêu thiết yếu bắt buộc (Cần - Need) và Chi tiêu tùy ý/thỏa mãn cảm xúc (Muốn - Want).",
-        "Chi tiêu bằng tiền giấy và chi tiêu bằng tiền xu.",
-        "Chi tiêu cho người thân và chi tiêu cho người ngoài."
+        "Phân loại chi tiêu thiết yếu bắt buộc để duy trì cuộc sống và chi tiêu tùy ý nhằm thỏa mãn các nhu cầu cảm xúc hoặc sĩ diện.",
+        "Phân loại các khoản chi tiêu theo thời gian thực hiện trong ngày, từ đó xác định những khung giờ mà gia đình thường tiêu tiền nhiều.",
+        "Phân loại chi tiêu dựa trên phương thức thanh toán bằng tiền mặt hoặc thẻ tín dụng để kiểm soát tốt hơn dòng tiền ra vào hàng tháng.",
+        "Phân loại chi tiêu cho các thành viên trong gia đình để xác định ai là người có thói quen tiêu xài hoang phí nhất trong nhà mình."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Phân biệt rạch ròi giữa Need (cần để sống và làm việc) và Want (mong muốn thỏa mãn sĩ diện/cảm xúc) là chìa khóa để tìm ra thặng dư tiết kiệm."
     },
     {
       "id": "q6",
-      "question": "Chuyên gia tài chính giải mã 'Bí quyết làm giàu thực sự của giới thượng lưu' không nằm ở việc may mắn trúng số mà nằm ở điều gì?",
+      "question": "Chuyên gia tài chính giải mã bí quyết làm giàu thực sự của giới thượng lưu không nằm ở việc may mắn trúng số mà nằm ở điều gì?",
       "options": [
-        "Khả năng dự đoán chính xác tương lai 100%.",
-        "Việc vay nợ nhiều nhất có thể từ các ngân hàng.",
-        "Kỷ luật tài chính sắt đá, sự thấu hiểu về giá trị thời gian của tiền bạc, quản trị rủi ro chặt chẽ và kiên trì để lãi kép vận hành qua nhiều thập kỷ.",
-        "Việc tiêu xài phô trương để thu hút đối tác kinh doanh."
+        "Khả năng dự đoán chính xác các biến động của thị trường chứng khoán để thực hiện các giao dịch mua bán tài sản ngắn hạn hiệu quả.",
+        "Kỷ luật tài chính sắt đá, sự thấu hiểu về giá trị thời gian của tiền bạc và kiên trì để lãi kép vận hành qua nhiều thập kỷ.",
+        "Việc tận dụng tối đa các khoản vay nợ từ ngân hàng để mở rộng quy mô kinh doanh và gia tăng tài sản cá nhân một cách nhanh chóng.",
+        "Việc duy trì các mối quan hệ xã hội rộng rãi với những người giàu có để học hỏi kinh nghiệm và tìm kiếm các cơ hội đầu tư mới."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Giàu có bền vững là kết quả của thói quen, kỷ luật, tư duy quản trị rủi ro và sự kiên nhẫn để lãi kép phát huy ma thuật qua thời gian."
     },
     {
       "id": "q7",
-      "question": "Tại sao việc vay nợ mua nhà quá lớn khi chưa có tích lũy vững chắc lại bị chuyên gia cảnh báo là 'chiếc còng số 8 tài chính'?",
+      "question": "Tại sao việc vay nợ mua nhà quá lớn khi chưa có tích lũy vững chắc lại bị chuyên gia cảnh báo là chiếc còng số 8 tài chính?",
       "options": [
-        "Vì mua nhà là hành vi bất hợp pháp.",
-        "Vì giá nhà ở thành phố không bao giờ tăng giá.",
-        "Vì ngân hàng sẽ tịch thu nhà sau đúng 1 năm vay.",
-        "Vì nghĩa vụ trả lãi và gốc hàng tháng sẽ nuốt chửng toàn bộ thu nhập thặng dư, tước đoạt cơ hội đầu tư sinh lời khác và biến người vay thành nô lệ công việc không dám nghỉ ngơi."
+        "Vì giá trị của bất động sản có thể giảm mạnh trong tương lai, khiến người vay phải gánh chịu khoản nợ lớn hơn giá trị thực của căn nhà.",
+        "Vì ngân hàng có quyền tịch thu căn nhà bất cứ lúc nào nếu người vay không đảm bảo được tiến độ thanh toán nợ gốc hàng tháng đúng hạn.",
+        "Vì nghĩa vụ trả lãi và gốc hàng tháng sẽ nuốt chửng thu nhập thặng dư, tước đoạt cơ hội đầu tư và biến người vay thành nô lệ.",
+        "Vì việc sở hữu một căn nhà quá lớn sẽ làm tăng chi phí bảo trì và các loại thuế liên quan, gây áp lực lên ngân sách gia đình hàng năm."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Vay quá sức biến căn nhà thành gánh nặng bào mòn chất lượng sống và triệt tiêu mọi cơ hội gia tăng tài sản hưu trí của người trẻ."
     },
     {
       "id": "q8",
-      "question": "Lời khuyên của chuyên gia về việc 'Bảo hiểm nhân thọ và sức khỏe' trong cấu trúc tài chính gia đình là gì?",
+      "question": "Lời khuyên của chuyên gia về việc sử dụng bảo hiểm nhân thọ và sức khỏe trong cấu trúc tài chính gia đình là gì?",
       "options": [
-        "Nên mua càng nhiều hợp đồng bảo hiểm càng tốt, chiếm 80% thu nhập.",
-        "Chỉ người trên 70 tuổi mới được phép tham gia bảo hiểm.",
-        "Bảo hiểm là trò lừa đảo không nên mua bất kỳ hợp đồng nào.",
-        "Bảo hiểm là công cụ chuyển giao rủi ro không thể thiếu để bảo vệ cột trụ tài chính gia đình trước các biến cố bạo bệnh, tử vong hoặc mất sức lao động đột ngột."
+        "Nên mua càng nhiều hợp đồng bảo hiểm từ các công ty khác nhau để đảm bảo rằng mọi rủi ro đều được chi trả một cách đầy đủ nhất.",
+        "Chỉ nên tham gia bảo hiểm khi đã có nguồn thu nhập ổn định và dư dả, vì đây là khoản chi phí không mang lại lợi nhuận trực tiếp.",
+        "Bảo hiểm là hình thức đầu tư sinh lời cao, nên cần ưu tiên dành phần lớn thu nhập hàng tháng để đóng phí cho các hợp đồng này.",
+        "Bảo hiểm là công cụ chuyển giao rủi ro không thể thiếu để bảo vệ cột trụ tài chính gia đình trước các biến cố bệnh tật đột ngột."
       ],
       "correctIndex": 3,
       "explanation": "Bảo hiểm là trụ cột phòng thủ. Chi phí mua bảo hiểm hợp lý (khoảng 8-10% thu nhập) giúp bảo vệ toàn bộ thành quả tích lũy trước các rủi ro sức khỏe bất ngờ."
     },
     {
       "id": "q9",
-      "question": "Chuyên gia tài chính nhấn mạnh 'Mục tiêu tài chính' cần phải thỏa mãn tiêu chí nào sau đây để có thể thực thi thành công?",
+      "question": "Chuyên gia tài chính nhấn mạnh mục tiêu tài chính cần phải thỏa mãn tiêu chí nào sau đây để có thể thực thi thành công?",
       "options": [
-        "Mục tiêu phải phụ thuộc hoàn toàn vào sự giúp đỡ của người khác.",
-        "Mục tiêu chỉ cần giữ bí mật không ghi chép ra giấy.",
-        "Tiêu chuẩn SMART: Cụ thể, Đo lường được, Khả thi, Thực tế và Có thời hạn rõ ràng (ví dụ: Tích lũy 500 triệu sau 5 năm với 8 triệu/tháng).",
-        "Mục tiêu càng mơ hồ và bay bổng càng tốt."
+        "Tiêu chuẩn SMART: Cụ thể, đo lường được, khả thi, thực tế và có thời hạn rõ ràng để tạo ra bản đồ hành động hiệu quả nhất.",
+        "Mục tiêu cần phải mang tính chất dài hạn và mơ hồ để không gây áp lực quá lớn lên tâm lý của người thực hiện trong quá trình.",
+        "Mục tiêu phải phụ thuộc hoàn toàn vào sự hỗ trợ tài chính từ gia đình hoặc người thân để đảm bảo tính an toàn cho kế hoạch.",
+        "Mục tiêu chỉ cần được ghi nhớ trong đầu mà không cần phải viết ra giấy để tránh việc người khác biết được kế hoạch của mình."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Một mục tiêu định lượng theo tiêu chuẩn SMART sẽ cung cấp bản đồ hành động rõ ràng và giúp dễ dàng đo lường tiến độ thực hiện."
     },
     {
       "id": "q10",
       "question": "Khi đối mặt với việc bị thu hồi nhà ở, chuyên gia khuyên Choe Socheon nên có thái độ và hành động chiến lược nào?",
       "options": [
-        "Xem đây là hồi chuông cảnh tỉnh đắt giá để chấm dứt sự ỷ lại, nhanh chóng cơ cấu lại tài chính và chủ động tìm kiếm giải pháp an cư phù hợp với khả năng thực tế.",
-        "Suy sụp tinh thần và trách móc công ty vô ơn.",
-        "Bỏ trốn khỏi thành phố để không phải trả tiền thuê nhà.",
-        "Đi vay nặng lãi để mua ngay một biệt thự đắt tiền để trả đũa."
+        "Nên tìm cách khiếu nại quyết định của công ty lên các cơ quan chức năng để đòi lại quyền lợi cư trú cho bản thân và các đồng nghiệp.",
+        "Xem đây là hồi chuông cảnh tỉnh để chấm dứt sự ỷ lại, nhanh chóng cơ cấu lại tài chính và chủ động tìm kiếm giải pháp an cư.",
+        "Nên vay mượn tiền từ bạn bè để mua một căn nhà mới nhằm khẳng định vị thế và không để công ty coi thường khả năng tài chính.",
+        "Nên chấp nhận số phận và chờ đợi sự giúp đỡ từ phía công ty hoặc các tổ chức xã hội trong việc tìm kiếm chỗ ở mới ổn định."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Khủng hoảng là cơ hội thức tỉnh. Biến cố giúp cá nhân dứt bỏ sự an phận, chủ động kiểm soát số phận tài chính của chính mình."
     },
     {
       "id": "q11",
-      "question": "Theo chuyên gia, việc đầu tư vào các kênh tài sản sinh lời (như chứng chỉ quỹ, cổ phiếu giá trị) nên được tiến hành theo nguyên tắc nào?",
+      "question": "Theo chuyên gia, việc đầu tư vào các kênh tài sản sinh lời như chứng chỉ quỹ hay cổ phiếu giá trị nên được tiến hành theo nguyên tắc nào?",
       "options": [
-        "Bỏ toàn bộ trứng vào một giỏ duy nhất có lãi suất hứa hẹn cao nhất.",
-        "Liên tục mua bán theo tin đồn trên các diễn đàn mạng xã hội.",
-        "Rút tiền đầu tư ra ngay sau khi có lãi 1%.",
-        "Đa dạng hóa danh mục, đầu tư định kỳ dài hạn và chỉ đầu tư vào những gì mình thực sự hiểu rõ."
+        "Bỏ toàn bộ số tiền tiết kiệm vào một kênh đầu tư duy nhất có lãi suất hứa hẹn cao nhất để tối đa hóa lợi nhuận trong thời gian.",
+        "Liên tục mua bán các loại cổ phiếu dựa trên tin đồn trên các diễn đàn mạng xã hội để tận dụng các đợt sóng tăng giá ngắn hạn.",
+        "Đa dạng hóa danh mục, đầu tư định kỳ dài hạn và chỉ đầu tư vào những loại tài sản mà bản thân thực sự hiểu rõ về bản chất.",
+        "Rút toàn bộ số tiền đầu tư ra khỏi thị trường ngay sau khi đạt được mức lợi nhuận nhỏ để đảm bảo an toàn cho nguồn vốn gốc."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Nguyên tắc đầu tư chuyên nghiệp: hiểu rõ tài sản, đa dạng hóa để quản trị rủi ro và kiên định với chiến lược dài hạn."
     },
     {
       "id": "q12",
-      "question": "Tại sao chuyên gia lại khuyên không nên coi việc 'tăng ca làm thêm giờ đến kiệt sức' là giải pháp duy nhất để cải thiện tài chính?",
+      "question": "Tại sao chuyên gia lại khuyên không nên coi việc tăng ca làm thêm giờ đến kiệt sức là giải pháp duy nhất để cải thiện tài chính?",
       "options": [
-        "Vì công ty sẽ sa thải những ai làm việc chăm chỉ.",
-        "Vì sức lao động thể chất có giới hạn trần và sẽ suy giảm theo tuổi tác; giải pháp căn cơ là phải xây dựng cỗ máy tài sản tự làm việc và sinh tiền thay cho con người.",
-        "Vì làm thêm giờ sẽ bị phạt thuế gấp 10 lần.",
-        "Vì tăng ca làm thêm giờ không được công ty trả lương."
+        "Vì việc làm thêm giờ quá nhiều sẽ khiến nhân viên bị công ty đánh giá thấp về năng suất làm việc trong giờ hành chính chính thức.",
+        "Vì thu nhập từ việc làm thêm giờ thường bị đánh thuế rất cao, khiến số tiền thực nhận không đáng kể so với công sức bỏ ra.",
+        "Vì làm thêm giờ sẽ ảnh hưởng đến sức khỏe tinh thần và làm giảm khả năng sáng tạo của nhân viên trong các dự án quan trọng.",
+        "Vì sức lao động thể chất có giới hạn và sẽ suy giảm theo tuổi tác; giải pháp căn cơ là xây dựng cỗ máy tài sản tự sinh tiền."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Bán thời gian lấy tiền có trần thu nhập vật lý. Chỉ khi học cách bắt tiền làm việc cho mình (tạo tài sản sinh lời), con người mới có thể đạt được tự do tài chính thực sự."
     },
     {
       "id": "q13",
       "question": "Thước đo thành công thực sự sau buổi gặp gỡ chuyên gia tài chính đối với Choe Socheon là gì?",
       "options": [
-        "Việc anh xin chữ ký của chuyên gia để đóng khung treo tường.",
-        "Việc anh lập tức bắt tay vào hành động thực tế: cắt giảm chi tiêu, mở tài khoản tích lũy riêng và thảo luận cùng vợ để thay đổi thói quen quản trị gia đình.",
-        "Việc anh yêu cầu chuyên gia cam kết làm giàu hộ mình.",
-        "Việc anh khoe với đồng nghiệp về kiến thức mình vừa học được."
+        "Việc anh bắt tay vào hành động thực tế: cắt giảm chi tiêu, mở tài khoản tích lũy và thảo luận cùng vợ để thay đổi thói quen.",
+        "Việc anh xin được chữ ký của chuyên gia để đóng khung treo tường như một kỷ niệm đáng nhớ về buổi gặp gỡ đầy ý nghĩa vừa qua.",
+        "Việc anh yêu cầu chuyên gia cam kết làm giàu hộ mình để đảm bảo rằng anh sẽ không bao giờ phải lo lắng về tiền bạc nữa.",
+        "Việc anh khoe với đồng nghiệp về những kiến thức tài chính mình vừa học được để khẳng định sự hiểu biết vượt trội của bản thân."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Giá trị của lời khuyên chỉ nằm ở sự hành động. Biến kiến thức thành thói quen và kỷ luật mới là chìa khóa mở cánh cửa thịnh vượng."
     },
     {
       "id": "q14",
       "question": "Theo chuyên gia tài chính, lý do khiến nhiều người e ngại gặp chuyên gia tư vấn tài chính là gì?",
       "options": [
-        "Nỗi sợ phải đối mặt với sự thật về các khoản nợ và sự lãng phí chi tiêu của chính mình, cùng tâm lý tự ti về tình trạng tài chính hiện tại.",
-        "Vì các chuyên gia tài chính không biết tiếng Việt.",
-        "Vì không có bất kỳ chuyên gia tài chính nào tồn tại trên thị trường.",
-        "Vì tư vấn tài chính là việc làm bị pháp luật ngăn cấm."
+        "Vì các chuyên gia tài chính thường yêu cầu mức phí tư vấn rất cao mà không đảm bảo rằng kế hoạch sẽ mang lại lợi nhuận ngay.",
+        "Nỗi sợ phải đối mặt với sự thật về các khoản nợ và sự lãng phí chi tiêu của chính mình, cùng tâm lý tự ti về tình trạng tài chính.",
+        "Vì người ta tin rằng việc quản lý tài chính là vấn đề cá nhân và không muốn bất kỳ ai can thiệp vào các quyết định chi tiêu.",
+        "Vì họ cho rằng các chuyên gia tài chính chỉ quan tâm đến việc bán các sản phẩm tài chính để nhận hoa hồng từ phía công ty."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Tâm lý trốn tránh sự thật là rào cản lớn nhất. Người ta sợ nhìn vào con số nợ và thói quen xấu của mình, khiến vấn đề ngày càng lún sâu."
     },
     {
       "id": "q15",
-      "question": "Thông điệp cốt lõi của Chương 2: 'Thỉnh giáo chuyên gia quản lý tài chính' là gì?",
+      "question": "Thông điệp cốt lõi của Chương 2: Thỉnh giáo chuyên gia quản lý tài chính là gì?",
       "options": [
-        "Quản lý tài chính là một môn khoa học có phương pháp và nguyên tắc rõ ràng; khi gặp bế tắc, hãy chủ động học hỏi chuyên gia, dũng cảm đối diện thực tại và thiết lập lại lộ trình tài chính một cách khoa học.",
-        "Chỉ cần có chuyên gia tài chính thì bạn không cần phải làm việc nữa.",
-        "Làm giàu là bí quyết gia truyền không thể học hỏi được.",
-        "Mọi lời khuyên tài chính đều vô ích trong thời kỳ khủng hoảng."
+        "Chỉ cần tìm được một chuyên gia tài chính giỏi thì bạn không cần phải làm việc chăm chỉ nữa vì tiền sẽ tự động sinh sôi nảy nở.",
+        "Làm giàu là một bí quyết gia truyền không thể học hỏi được, nên việc tìm kiếm sự tư vấn từ người khác là hoàn toàn vô ích.",
+        "Quản lý tài chính là một môn khoa học có phương pháp; khi gặp bế tắc, hãy chủ động học hỏi chuyên gia và thiết lập lại lộ trình.",
+        "Mọi lời khuyên tài chính đều trở nên vô ích trong thời kỳ khủng hoảng kinh tế, vì vậy hãy cứ để mọi thứ diễn ra tự nhiên nhất."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Chương 2 nhấn mạnh tinh thần cầu thị và tính khoa học của quản lý tài chính cá nhân: học hỏi phương pháp đúng để làm chủ tương lai."
     }
   ]

@@ -1,187 +1,187 @@
 {
-  "bookId": "ThinhVuongTaiChinhTuoi30_T1",
-  "chapterId": "00_loi_tua",
+  "bookId": "thinh-vuong-tai-chinh-tuoi-30-tap-1",
+  "chapterId": "00-loi-tua",
   "chapterTitle": "Lời tựa",
   "totalQuestions": 15,
   "questions": [
     {
       "id": "q1",
-      "question": "Tại sao các tác giả lại bác bỏ công thức truyền thống 'Tuổi già bắt đầu từ độ tuổi 40'?",
+      "question": "Tại sao các tác giả lại bác bỏ công thức truyền thống \"Tuổi già bắt đầu từ độ tuổi 40\"?",
       "options": [
-        "Vì tuổi 40 là thời điểm tất cả mọi người đã hoàn thành nghĩa vụ nuôi dạy con cái.",
-        "Vì nguyên tắc cốt lõi của trù bị tuổi già là 'càng sớm càng tốt'; chờ đến tuổi 40 mới bắt đầu là đã lãng phí mất giai đoạn tích lũy vàng với sức mạnh đòn bẩy lãi kép lớn nhất.",
-        "Vì ở tuổi 40 con người vẫn chưa có đủ khả năng tài chính để mở tài khoản ngân hàng.",
-        "Vì sau tuổi 40 con người không còn phải chịu rủi ro về sức khỏe và lạm phát."
+        "Vì nguyên tắc cốt lõi là càng sớm càng tốt; chờ đến tuổi 40 là đã lãng phí mất giai đoạn đòn bẩy lãi kép quý giá nhất.",
+        "Vì sau tuổi 40 con người sẽ mất hoàn toàn khả năng lao động chuyên môn và không còn cơ hội kiếm thêm thu nhập.",
+        "Vì các quỹ đầu tư tài chính chỉ mở cửa tiếp nhận vốn ủy thác đối với những người trẻ nằm trong độ tuổi đôi mươi.",
+        "Vì nhà nước sẽ ngừng cung cấp các chính sách an sinh xã hội cho những ai bắt đầu tham gia bảo hiểm sau tuổi 40."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Bắt đầu ở tuổi 40 là quá muộn vì đã bỏ lỡ 15-20 năm tích lũy thời trẻ. Quy tắc vàng là chuẩn bị càng sớm thì chi phí trích lập hàng tháng càng nhỏ và đạt hiệu quả tối ưu."
     },
     {
       "id": "q2",
-      "question": "Theo thống kê được nêu trong Lời tựa, tại sao thời gian tuổi già thực tế của các cặp vợ chồng lại kéo dài tới gần 30 năm chứ không phải 15-20 năm như nhiều người lầm tưởng?",
+      "question": "Theo số liệu trong Lời tựa, tại sao thời gian tuổi già thực tế của các cặp vợ chồng lại kéo dài tới gần 30 năm?",
       "options": [
-        "Do người dân sau khi nghỉ hưu vẫn tiếp tục đi làm công nhật thêm 15 năm.",
-        "Do các tác giả tính gộp cả thời gian học đại học vào thời gian tuổi già.",
-        "Do tuổi thọ trung bình của nhân loại ngày càng tăng và phụ nữ thường có tuổi thọ cao hơn nam giới từ 3 đến 7 năm.",
-        "Do độ tuổi nghỉ hưu theo quy định của nhà nước bị kéo lùi về năm 40 tuổi."
+        "Vì tuổi thọ của phụ nữ luôn ngắn hơn nam giới nên thời gian hưu trí của gia đình bị kéo dài ra một cách bất thường.",
+        "Vì tuổi thọ trung bình ngày càng tăng và người vợ thường sống thọ hơn người chồng từ ba đến bảy năm tuổi.",
+        "Vì độ tuổi nghỉ hưu bắt buộc tại các doanh nghiệp hiện nay đang bị đẩy xuống rất sớm ngay từ mốc bốn mươi tuổi.",
+        "Vì hệ thống y tế hiện đại đã phát minh ra các loại thuốc đặc trị giúp con người duy trì tuổi thọ trên một thế kỷ."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Nhiều người chỉ ước tính tuổi thọ nam giới (~17 năm sau hưu), nhưng tuổi thọ nữ giới cao hơn 3-7 tuổi và xu hướng sống thọ tăng lên khiến thời gian hưu trí của cặp vợ chồng kéo dài tới ~27-30 năm."
     },
     {
       "id": "q3",
-      "question": "Mối tương quan '30 năm làm việc và 30 năm tuổi già' dẫn đến kết luận tài chính mang tính chấn động nào?",
+      "question": "Mối tương quan \"30 năm làm việc và 30 năm tuổi già\" dẫn đến kết luận tài chính mang tính chấn động nào?",
       "options": [
-        "Chỉ cần đi làm chăm chỉ thì tiền lương hưu nhà nước sẽ tự động bù đắp 100% thu nhập cũ.",
-        "Thời gian làm việc ngắn hơn rất nhiều so với thời gian nghỉ ngơi nên không thể tính toán được.",
-        "Bạn chỉ cần tiết kiệm 5% thu nhập mỗi tháng là đủ trang trải cho 30 năm hưu trí.",
-        "Nếu chỉ dùng phương pháp tiết kiệm đơn thuần không sinh lời, bạn buộc phải để dành tới 50% thu nhập trong suốt 30 năm đi làm chỉ để nuôi sống 30 năm nghỉ hưu với mức sống tương đương."
+        "Bạn bắt buộc phải chi tiêu toàn bộ tiền lương hàng tháng để nâng cao mức sống trước khi bước vào tuổi già khó nhọc.",
+        "Bạn có thể hoàn toàn an tâm vào chế độ hưu trí nhà nước mà không cần phải chủ động tiết kiệm thêm bất kỳ khoản nào.",
+        "Nếu chỉ tiết kiệm đơn thuần không đầu tư, bạn phải để dành một nửa thu nhập suốt đời đi làm mới đủ sống khi về hưu.",
+        "Chỉ những người làm việc trong cơ quan nhà nước mới có thể sống sót an nhàn qua ba mươi năm tuổi già hưu trí."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Nếu 30 năm đi làm phải nuôi 30 năm tuổi già mà không có đòn bẩy đầu tư sinh lời, một người phải để dành 1/2 (50%) thu nhập mỗi tháng – một con số gần như bất khả thi nếu không có kế hoạch đầu tư bài bản."
     },
     {
       "id": "q4",
       "question": "Đối với nhóm độc giả ở độ tuổi 40 hoặc 50, các tác giả khuyên họ nên tiếp cận cuốn sách với tâm thế và mục tiêu gì?",
       "options": [
-        "Từ bỏ mọi nỗ lực tích lũy vì đã quá muộn để thay đổi tình hình tài chính.",
-        "Dành toàn bộ tài sản hiện có vào các canh bạc đầu cơ siêu rủi ro để gỡ gạc.",
-        "Chuyển toàn bộ gánh nặng tài chính sang cho con cái gánh vác thay mình.",
-        "Xoáy sâu vào việc tìm ra con đường ngắn nhất, tái cơ cấu tài sản quyết liệt để bù đắp lại khoảng thời gian đã mất."
+        "Từ bỏ mọi nỗ lực tài chính vì thời gian đã quá muộn để có thể thay đổi cục diện cuộc sống hưu trí sau này.",
+        "Dồn toàn bộ tiền tích lũy dưỡng già vào các mô hình kinh doanh mạo hiểm với mong muốn nhân số vốn sau vài tháng.",
+        "Chuyển giao toàn bộ trách nhiệm phụng dưỡng tuổi già cho con cháu gánh vác thông qua các thỏa thuận dân sự.",
+        "Tập trung tìm kiếm lộ trình ngắn nhất và tái cơ cấu tài sản quyết liệt để bù đắp lại khoảng thời gian đã mất."
       ],
       "correctIndex": 3,
       "explanation": "Dù bắt đầu muộn ở tuổi 40-50, độc giả vẫn có thể cải thiện tình hình nếu tập trung tìm ra con đường ngắn nhất, thắt chặt chi tiêu và tái cấu trúc danh mục đầu tư hiệu quả."
     },
     {
       "id": "q5",
-      "question": "Tại sao việc 'quá khứ vất vả nhưng hiện tại sung túc, hiện tại khó khăn nhưng tương lai an lạc' lại được xem là lựa chọn khôn ngoan hơn việc tiêu xài hoang phí lúc trẻ?",
+      "question": "Tại sao việc \"quá khứ vất vả nhưng hiện tại sung túc, hiện tại khó khăn nhưng tương lai an lạc\" lại là lựa chọn khôn ngoan?",
       "options": [
-        "Vì xã hội chỉ tôn trọng những người chi tiêu tằn tiện trong quá khứ.",
-        "Vì tuổi trẻ có sức khỏe, khả năng thích ứng và thời gian để kiếm tiền, trong khi tuổi già không còn thể lực để chịu đựng sự nghèo đói và thiếu thốn.",
-        "Vì tiêu xài lúc trẻ sẽ bị cơ quan thuế phạt tiền nặng.",
-        "Vì người già không có nhu cầu giải trí và giao tiếp xã hội."
+        "Vì tuổi trẻ còn thể lực và thời gian để kiếm tiền, còn tuổi già rất khó thích ứng với cảnh túng thiếu bần hàn.",
+        "Vì chi tiêu hoang phí thời trẻ sẽ kích thích tinh thần phấn đấu và giúp kiếm lại số tiền đã mất một cách dễ dàng.",
+        "Vì người già thường không có nhiều nhu cầu sinh hoạt nên việc chịu đựng thiếu thốn tài chính là điều đơn giản.",
+        "Vì xã hội luôn ưu tiên trao các cơ hội việc làm lương cao cho những người lao động đã bước qua tuổi nghỉ hưu."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Khi còn trẻ, con người còn sức lao động và khả năng phục hồi trước khó khăn; nhưng rơi vào nghèo khó ở tuổi già là bi kịch lớn nhất vì không còn sức khỏe lẫn cơ hội làm lại từ đầu."
     },
     {
       "id": "q6",
-      "question": "Lời tựa ví cuốn sách như 'ngọn hải đăng tỏa sáng'. Vai trò thực sự của ngọn hải đăng này đối với độc giả là gì?",
+      "question": "Lời tựa ví cuốn sách như \"ngọn hải đăng tỏa sáng\". Vai trò thực sự của ngọn hải đăng này đối với độc giả là gì?",
       "options": [
-        "Là cẩm nang hướng dẫn cách trốn thuế hợp pháp cho doanh nghiệp tư nhân.",
-        "Là kim chỉ nam đánh thức ý thức ngủ quên về tuổi già và định hướng lộ trình hành động thiết thực giữa biển đời tài chính biến động.",
-        "Là tài liệu cam kết đem lại lợi nhuận 100% cho mọi khoản đầu tư.",
-        "Là cuốn bách khoa toàn thư giải quyết mọi vấn đề chuyên môn chi tiết của từng cá nhân."
+        "Cung cấp cẩm nang bách khoa toàn thư giải quyết triệt để mọi vướng mắc kinh tế của từng gia đình độc giả.",
+        "Đánh thức ý thức chuẩn bị tuổi già và định hướng lộ trình tài chính thực tế giữa những biến động của cuộc đời.",
+        "Đưa ra các dự báo chính xác tuyệt đối về biến động của thị trường chứng khoán và giá vàng trong ba mươi năm tới.",
+        "Thay thế hoàn toàn vai trò tư vấn của các chuyên gia hoạch định tài chính và ngân hàng thương mại hiện nay."
       ],
       "correctIndex": 1,
       "explanation": "Cuốn sách không phải bách thư vạn năng mà là ngọn hải đăng định hướng, thức tỉnh những ai còn mơ hồ và vạch ra nguyên tắc chuẩn bị tài chính đúng đắn."
     },
     {
       "id": "q7",
-      "question": "Phân tích ngược mệnh đề 'Nguyên tắc quan trọng nhất lo cho tuổi già là càng nhanh càng tốt' dẫn đến chân lý nào?",
+      "question": "Phân tích ngược mệnh đề \"Nguyên tắc quan trọng nhất lo cho tuổi già là càng nhanh càng tốt\" dẫn đến chân lý nào?",
       "options": [
-        "Chuẩn bị ở bất kỳ độ tuổi nào cũng đòi hỏi số tiền trích lập hàng tháng y hệt nhau.",
-        "Càng chậm trễ thì cái giá phải trả càng đắt đỏ và rủi ro tuổi già càng khủng khiếp.",
-        "Thời gian không có bất kỳ ảnh hưởng nào đến kết quả tích lũy tài chính.",
-        "Càng bắt đầu muộn thì thị trường tài chính càng ưu đãi lãi suất cao hơn."
+        "Càng bắt đầu muộn thì nhà nước sẽ càng hỗ trợ thêm nhiều chính sách an sinh xã hội đặc biệt cho người cao tuổi.",
+        "Việc trì hoãn chuẩn bị tài chính không gây ra bất kỳ ảnh hưởng nào nếu thu nhập tương lai tăng trưởng liên tục.",
+        "Càng chậm trễ thì cái giá phải trả càng đắt đỏ và rủi ro rơi vào nghèo khó khi về già càng trở nên khủng khiếp.",
+        "Chỉ cần bắt đầu chuẩn bị trước khi về hưu một vài năm là hoàn toàn đủ để xây dựng một quỹ hưu trí thảnh thơi."
       ],
-      "correctIndex": 1,
-      "explanation": "'Càng nhanh càng tốt' đồng nghĩa với 'càng chậm càng xấu'. Trì hoãn 10 năm sẽ khiến số tiền bạn phải tích lũy mỗi tháng tăng lên gấp 3-4 lần để đạt cùng một mục tiêu hưu trí."
+      "correctIndex": 2,
+      "explanation": "\"Càng nhanh càng tốt\" đồng nghĩa với \"càng chậm càng xấu\". Trì hoãn 10 năm sẽ khiến số tiền bạn phải tích lũy mỗi tháng tăng lên gấp 3-4 lần để đạt cùng một mục tiêu hưu trí."
     },
     {
       "id": "q8",
       "question": "Tại sao việc tính toán chi phí tuổi già lại KHÔNG NÊN bao gồm tiền mua nhà hay tiền học cho con cái?",
       "options": [
-        "Vì chi phí hưu trí là khoản quỹ độc lập thuần túy phục vụ cho việc duy trì sự sống và sinh hoạt cá nhân trong 30 năm không đi làm, cần phải được bảo vệ nguyên vẹn.",
-        "Vì tiền học cho con cái luôn được các tổ chức xã hội tài trợ 100%.",
-        "Vì đây là các khoản chi tiêu đã diễn ra trong quá khứ và không bao giờ lặp lại.",
-        "Vì mua nhà là khoản đầu tư luôn tự sinh lời vô hạn mà không tốn chi phí."
+        "Vì chi phí mua nhà và tiền học cho con cái sẽ luôn được các tổ chức tín dụng nhà nước hỗ trợ chi trả toàn bộ.",
+        "Vì con cái sau khi tốt nghiệp đại học sẽ có trách nhiệm hoàn trả lại toàn bộ chi phí nuôi dưỡng mà cha mẹ đã đầu tư.",
+        "Vì giá trị nhà ở sẽ tự động chuyển hóa thành dòng tiền chi tiêu hàng ngày mà không cần phải thực hiện giao dịch.",
+        "Vì quỹ hưu trí là khoản độc lập bảo đảm sự sống trong 30 năm không làm việc, cần được bảo vệ nguyên vẹn và tách biệt."
       ],
-      "correctIndex": 0,
-      "explanation": "Chi phí hưu trí phải là một quỹ riêng biệt. Nếu nhập nhằng lấy tiền hưu trí để mua nhà vượt sức hoặc chi trả học phí đắt đỏ cho con, người ta sẽ đối mặt với cảnh 'giàu tài sản nhưng rỗng tiền mặt' khi về già."
+      "correctIndex": 3,
+      "explanation": "Chi phí hưu trí phải là một quỹ riêng biệt. Nếu nhập nhằng lấy tiền hưu trí để mua nhà vượt sức hoặc chi trả học phí đắt đỏ cho con, người ta sẽ đối mặt với cảnh \"giàu tài sản nhưng rỗng tiền mặt\" khi về già."
     },
     {
       "id": "q9",
-      "question": "Thông điệp 'Hãy hành động ngay sau khi gập cuốn sách này lại' nhấn mạnh yếu tố quyết định nào trong quản lý tài chính?",
+      "question": "Thông điệp \"Hãy hành động ngay sau khi gập cuốn sách này lại\" nhấn mạnh yếu tố quyết định nào trong quản lý tài chính?",
       "options": [
-        "Sức mạnh của tính kỷ luật và sự chuyển hóa nhận thức thành hành vi thực tế tức thì thay vì chỉ dừng lại ở sự đồng cảm trên trang sách.",
-        "Việc mua thêm thật nhiều sách khác về trưng bày trên giá.",
-        "Việc đọc sách nhanh để đi thi lấy chứng chỉ tài chính.",
-        "Tính lý thuyết hàn lâm của các mô hình kinh tế học."
+        "Tính kỷ luật và sự chuyển hóa nhận thức thành hành động cụ thể thay vì chỉ dừng lại ở cảm xúc đồng cảm lý thuyết.",
+        "Sự vội vã đổ tiền vào các kênh đầu tư mạo hiểm trên thị trường mà không cần dành thời gian phân tích rủi ro kỹ lưỡng.",
+        "Việc ngay lập tức vay mượn người thân để mở rộng quy mô kinh doanh vượt quá năng lực quản lý của bản thân.",
+        "Chấm dứt công việc văn phòng hiện tại để theo đuổi các khóa học làm giàu nhanh chóng trên mạng xã hội."
       ],
       "correctIndex": 0,
       "explanation": "Giá trị của tri thức tài chính chỉ phát huy khi được thực thi bằng hành động cụ thể: cắt giảm chi tiêu, mở tài khoản tích lũy, mua bảo hiểm hưu trí ngay lập tức."
     },
     {
       "id": "q10",
-      "question": "Nếu một người 60 tuổi đọc cuốn sách này, tác giả khuyên họ nên làm điều gì có ích nhất?",
+      "question": "Nếu một người 60 tuổi đọc cuốn sách này, tác giả khuyên họ nên làm điều gì có ích nhất cho gia đình?",
       "options": [
-        "Đọc để thấu hiểu và truyền đạt lại những bài học xương máu cho con cháu, giúp thế hệ sau không lặp lại vết xe đổ thiếu chuẩn bị.",
-        "Bỏ qua cuốn sách vì nó không còn bất kỳ giá trị nào cho lứa tuổi của họ.",
-        "Khởi nghiệp kinh doanh mạo hiểm để tìm kiếm vận may.",
-        "Rút toàn bộ tiền tiết kiệm chia đều cho tất cả bạn bè."
+        "Dùng toàn bộ số tiền tiết kiệm dưỡng già để thử sức khởi nghiệp kinh doanh nhằm tìm kiếm nguồn lợi nhuận đột phá.",
+        "Truyền đạt bài học tài chính cho con cháu để giúp thế hệ sau không lặp lại vết xe đổ thiếu chuẩn bị hưu trí.",
+        "Yêu cầu con cái phải chịu trách nhiệm tài chính hoàn toàn và chu cấp mọi nhu cầu sinh hoạt xa hoa hàng ngày.",
+        "Bán hết toàn bộ tài sản hiện có để chia đều cho con cái nhằm tránh các tranh chấp thừa kế phát sinh về sau."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Người trên 55-60 tuổi có thể trở thành người truyền cảm hứng và trao tặng tri thức quý báu này cho con cháu để thế hệ sau chủ động kiến tạo tương lai từ sớm."
     },
     {
       "id": "q11",
       "question": "Tại sao nhiều người thường có xu hướng đánh giá thấp thời gian tuổi già của mình (chỉ nghĩ khoảng 10-15 năm)?",
       "options": [
-        "Do các công ty bảo hiểm cố tình đưa ra thông tin sai lệch.",
-        "Do họ chỉ nhìn vào tuổi thọ của thế hệ ông bà trong thời kỳ chiến tranh và y tế chưa phát triển, mà không nhận ra y học hiện đại đã nâng tuổi thọ lên mức kỷ lục.",
-        "Do họ tin rằng tuổi nghỉ hưu sẽ được dời đến năm 85 tuổi.",
-        "Do tỷ lệ tử vong ở người trẻ tuổi ngày càng giảm mạnh."
+        "Do họ tin rằng quy định pháp luật sẽ nâng độ tuổi lao động bắt buộc lên tới bảy mươi lăm tuổi trong tương lai.",
+        "Do mọi người thường kỳ vọng sẽ tích lũy đủ số vốn lớn để nghỉ hưu sớm và tha hồ tận hưởng cuộc sống từ tuổi ba mươi lăm.",
+        "Do nhìn vào tuổi thọ thế hệ trước mà không nhận ra y học hiện đại đã kéo dài tuổi thọ con người lên mức kỷ lục.",
+        "Do các số liệu thống kê về tuổi thọ trung bình trên các phương tiện truyền thông hoàn toàn không có độ tin cậy."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tâm lý định kiến từ quá khứ khiến nhiều người nghĩ tuổi thọ chỉ tầm 70 tuổi, trong khi hiện nay sống đến 80-90 tuổi là phổ biến, dẫn đến việc chuẩn bị quỹ hưu trí quá mỏng so với thực tế."
     },
     {
       "id": "q12",
       "question": "Nhân vật anh Kim Min Seok (35 tuổi) được chọn làm hình tượng trung tâm trong cuốn sách nhằm phản ánh điều gì?",
       "options": [
-        "Một cá nhân thất bại hoàn toàn trong sự nghiệp và không có việc làm ổn định.",
-        "Một doanh nhân triệu phú đã đạt tự do tài chính từ năm 25 tuổi.",
-        "Đại diện tiêu biểu cho tầng lớp trung lưu thành thị: có vị trí công việc tốt, thu nhập khá nhưng đang đứng trước ngã rẽ rủi ro tài chính vì chưa có kế hoạch hưu trí rõ ràng.",
-        "Một chuyên gia tài chính lão luyện với hàng chục danh mục đầu tư sinh lời."
+        "Một doanh nhân thành đạt vượt bậc đã sớm đạt tự do tài chính và không còn bất kỳ nỗi lo lắng nào về tiền bạc.",
+        "Một người thất bại toàn diện trong sự nghiệp, gánh chịu nợ nần chồng chất và hoàn toàn mất niềm tin vào cuộc sống.",
+        "Một chuyên gia tài chính lão luyện luôn đưa ra những lời khuyên đầu tư chuẩn xác cho toàn thể đồng nghiệp cơ quan.",
+        "Hình mẫu trung lưu điển hình: lương tốt nhưng đối mặt rủi ro lớn vì mải lo hiện tại mà bỏ quên kế hoạch hưu trí."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Kim Min Seok là tấm gương phản chiếu của hàng triệu người trẻ hiện đại: lương khá, vị trí tốt nhưng bị cuốn vào vòng xoáy chi tiêu gia đình và nợ nần mà quên mất tương lai 30 năm sau."
     },
     {
       "id": "q13",
-      "question": "Yếu tố nào sau đây là 'cái bẫy tâm lý' lớn nhất khiến người tuổi 20-30 thờ ơ với việc trù bị hưu trí?",
+      "question": "Yếu tố nào sau đây là \"cái bẫy tâm lý\" lớn nhất khiến người tuổi 20-30 thờ ơ với việc trù bị hưu trí?",
       "options": [
-        "Tất cả các trường đại học đều cấm sinh viên tiết kiệm tiền.",
-        "Khoảng cách thời gian 30 năm tạo ra ảo giác rằng tuổi già còn quá xa xôi và luôn có thể bắt đầu vào 'ngày mai'.",
-        "Người trẻ không có quyền mở tài khoản tích lũy hưu trí.",
-        "Thị trường tài chính không có bất kỳ sản phẩm nào dành cho người trẻ."
+        "Khoảng cách 30 năm tạo ảo giác rằng tuổi già còn xa, dẫn đến ưu tiên thỏa mãn tiêu dùng trước mắt hơn tương lai.",
+        "Nỗi sợ hãi thái quá về các đợt khủng hoảng kinh tế khiến họ không dám giữ tiền mặt hay tham gia bất kỳ quỹ hưu trí nào.",
+        "Niềm tin chắc chắn rằng tiền lương của bản thân sẽ tăng trưởng đều đặn gấp đôi sau mỗi năm làm việc cống hiến.",
+        "Sự thỏa mãn với các khoản trợ cấp an sinh xã hội mà nhà nước cam kết chi trả đầy đủ cho toàn bộ người lao động."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Ảo giác về thời gian khiến người trẻ ưu tiên thỏa mãn nhu cầu tiêu dùng trước mắt (instant gratification) và trì hoãn việc chuẩn bị dài hạn, dẫn đến việc khi nhận ra thì đã muộn."
     },
     {
       "id": "q14",
       "question": "Theo các tác giả, việc một người sống thọ hơn dự kiến mà KHÔNG có tiền tích lũy nên được nhìn nhận là gì?",
       "options": [
-        "Một niềm hạnh phúc tuyệt đối không tì vết.",
-        "Một thành tựu tài chính xuất sắc.",
-        "Một cơ hội để nhà nước hỗ trợ nhà ở miễn phí.",
-        "Một 'rủi ro tuổi thọ' (Longevity Risk) đè nặng lên chất lượng sống và danh dự của chính bản thân họ."
+        "Một cơ hội may mắn để tiếp tục cống hiến năng lực lao động và mở rộng các mối quan hệ xã hội trong những năm tháng cuối đời.",
+        "Một \"rủi ro tuổi thọ\" biến món quà trường thọ thành bi kịch túng thiếu và bào mòn danh dự của chính bản thân.",
+        "Một hiện tượng ngẫu nhiên của cuộc sống mà bản thân không thể và cũng không cần phải chuẩn bị từ trước đó.",
+        "Một động lực mạnh mẽ thúc đẩy con cháu trong gia đình phải nỗ lực làm việc cật lực để phụng dưỡng cha mẹ."
       ],
-      "correctIndex": 3,
-      "explanation": "Trong tài chính, 'rủi ro tuổi thọ' là rủi ro sống lâu hơn số tiền bạn có. Sống thọ mà không có tiền dưỡng già là một thảm kịch dai dẳng kéo dài hàng thập kỷ."
+      "correctIndex": 1,
+      "explanation": "Trong tài chính, \"rủi ro tuổi thọ\" là rủi ro sống lâu hơn số tiền bạn có. Sống thọ mà không có tiền dưỡng già là một thảm kịch dai dẳng kéo dài hàng thập kỷ."
     },
     {
       "id": "q15",
       "question": "Tóm tắt ngắn gọn triết lý xuyên suốt của Lời tựa trong một câu văn là gì?",
       "options": [
-        "Chỉ cần làm việc chăm chỉ ở công ty thì mọi vấn đề về già sẽ tự khắc được giải quyết.",
-        "Con cái có nghĩa vụ nuôi dưỡng cha mẹ vô điều kiện khi cha mẹ về hưu.",
-        "Tiết kiệm là quốc sách và không nên đầu tư vào bất kỳ kênh nào khác.",
-        "30 năm tuổi già là tương lai chắc chắn sẽ đến; hãy thức tỉnh, từ bỏ ảo tưởng và hành động ngay từ hôm nay để làm chủ số phận tài chính của chính mình."
+        "Hãy tập trung kiếm thật nhiều tiền bằng mọi giá để xây dựng cơ ngơi lộng lẫy và khẳng định vị thế trước bạn bè.",
+        "Tuổi già chỉ là chuyện may rủi của số phận, mọi kế hoạch tài chính dài hạn đều sẽ bị hoàn cảnh xô đẩy làm thay đổi hết.",
+        "30 năm tuổi già là tương lai chắc chắn sẽ đến; hãy hành động ngay hôm nay để làm chủ vận mệnh tài chính của mình.",
+        "Chỉ cần đầu tư thành công một vài thương vụ bất động sản thì cả đời bạn sẽ không bao giờ phải lo nghĩ về tiền."
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanation": "Lời tựa là lời hiệu triệu thức tỉnh: đối diện trực diện với thực tế 30 năm tuổi già và hành động ngay lập tức để làm chủ tương lai."
     }
   ]

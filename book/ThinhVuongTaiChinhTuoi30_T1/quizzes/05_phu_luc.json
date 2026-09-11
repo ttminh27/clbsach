@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Nguyên tắc 1: 'Thành công trong công việc' nhấn mạnh vai trò của công việc hiện tại đối với sự thịnh vượng tài chính dài hạn như thế nào?",
+      "question": "Nguyên tắc 1 nhấn mạnh vai trò của công việc hiện tại đối với sự thịnh vượng tài chính dài hạn như thế nào?",
       "options": [
-        "Công việc chỉ mang lại sự mệt mỏi và không có giá trị tài chính nào.",
-        "Công việc chính là nguồn cội tạo ra dòng tiền dương đều đặn và là 'tài sản vô hình' lớn nhất cung cấp vốn gốc liên tục cho toàn bộ cỗ máy đầu tư hưu trí của bạn.",
-        "Chỉ cần đầu tư chứng khoán thì có thể bỏ bê hoàn toàn công việc chuyên môn.",
-        "Công việc hiện tại chỉ là chỗ tạm bợ không cần phải nỗ lực cống hiến."
+        "Công việc là nguồn tạo dòng tiền ổn định, đóng vai trò là nền tảng cốt lõi cung cấp vốn gốc cho mọi kế hoạch đầu tư.",
+        "Công việc chỉ là phương tiện tạm thời để duy trì cuộc sống, không đóng góp đáng kể vào việc xây dựng tài sản dài hạn.",
+        "Việc tập trung vào công việc chuyên môn sẽ làm giảm thời gian nghiên cứu các chiến lược đầu tư tài chính hiệu quả cao.",
+        "Thu nhập từ công việc chỉ nên dùng cho chi tiêu sinh hoạt, không nên coi đó là nguồn vốn để thực hiện đầu tư tài sản."
       ],
-      "correctIndex": 1,
-      "explanation": "Xuất sắc trong chuyên môn tạo ra dòng tiền thu nhập ổn định và bền bỉ. Đó là 'mẹ đẻ' của mọi khoản tích lũy; không có dòng tiền từ công việc thì lấy đâu ra vốn để đầu tư sinh lời."
+      "correctIndex": 0,
+      "explanation": "Công việc tạo ra dòng tiền ổn định, là nền tảng để hình thành các chiến lược đầu tư an toàn và bền vững cho tương lai."
     },
     {
       "id": "q2",
-      "question": "Nguyên tắc 2: 'Hãy nhớ 1/3 cuộc đời của bạn là tuổi già' mang lại bài học cảnh tỉnh nhận thức nào?",
+      "question": "Nguyên tắc 2 về 1/3 cuộc đời là tuổi già mang lại bài học cảnh tỉnh nhận thức nào cho người trẻ tuổi?",
       "options": [
-        "Nếu sống đến 90 tuổi và nghỉ hưu lúc 60 tuổi, bạn sẽ có tới 30 năm (tương đương 1/3 cuộc đời) hoàn toàn không có thu nhập lương công sở nhưng vẫn phải chi tiêu hàng ngày; coi thường 1/3 này là tự hủy hoại cuộc đời.",
-        "Tuổi già chỉ là một giai đoạn ngắn ngủi không đáng để bận tâm.",
-        "Chỉ có 1/3 dân số thế giới có thể sống đến tuổi già.",
-        "Con người chỉ thực sự sống trong 20 năm đầu đời."
+        "Tuổi già là giai đoạn nghỉ ngơi hoàn toàn, nên không cần phải lo lắng về vấn đề tài chính hay các kế hoạch chi tiêu.",
+        "Thời gian nghỉ hưu chiếm khoảng 1/3 cuộc đời, đòi hỏi sự chuẩn bị tài chính nghiêm túc để tránh rơi vào cảnh túng thiếu.",
+        "Việc chuẩn bị cho tuổi già chỉ nên bắt đầu khi đã đạt được những thành công nhất định trong sự nghiệp và tài chính.",
+        "Thời gian nghỉ hưu là khoảng thời gian ngắn ngủi, không đáng để chúng ta phải hy sinh các nhu cầu hưởng thụ hiện tại."
       ],
-      "correctIndex": 0,
-      "explanation": "30 năm hưu trí bằng đúng thời gian từ lúc bạn sinh ra đến khi 30 tuổi. Không ai có thể sống vui vẻ suốt 1/3 chặng đời đó nếu hoàn toàn tay trắng và không có kế hoạch tài chính."
+      "correctIndex": 1,
+      "explanation": "Với thời gian nghỉ hưu kéo dài, việc không chuẩn bị tài chính sẽ khiến 1/3 cuộc đời trở nên mờ mịt và đầy lo âu."
     },
     {
       "id": "q3",
-      "question": "Tại sao Nguyên tắc 3 lại chỉ ra rằng 'Lạm phát hưu trí' (Retirement Inflation) thường cao hơn rất nhiều so với chỉ số giá tiêu dùng CPI thông thường?",
+      "question": "Tại sao Nguyên tắc 3 chỉ ra rằng lạm phát hưu trí thường cao hơn so với chỉ số giá tiêu dùng CPI thông thường?",
       "options": [
-        "Vì các hiệu thuốc luôn tăng giá gấp 10 lần đối với người cao tuổi.",
-        "Vì người cao tuổi phải nộp thêm các khoản phí dịch vụ đô thị đặc biệt.",
-        "Vì cơ cấu chi tiêu của người cao tuổi tập trung lớn vào dịch vụ y tế, thuốc men, điều dưỡng và chăm sóc sức khỏe - những nhóm dịch vụ luôn có tốc độ tăng giá nhanh hơn nhiều so với giỏ hàng hóa cơ bản.",
-        "Vì người già thích mua sắm các thiết bị công nghệ đắt đỏ hơn người trẻ."
+        "Các loại thuế phí dành cho người cao tuổi tăng cao theo từng năm, làm giảm đáng kể giá trị thực của khoản tiền tiết kiệm.",
+        "Người cao tuổi thường có xu hướng tiêu dùng các mặt hàng xa xỉ phẩm, dẫn đến việc chịu ảnh hưởng mạnh từ lạm phát cao.",
+        "Cơ cấu chi tiêu người già tập trung vào y tế và chăm sóc sức khỏe, nhóm dịch vụ có tốc độ tăng giá nhanh hơn hàng hóa.",
+        "Chỉ số CPI không phản ánh đúng thực tế vì nó chỉ tính toán dựa trên các mặt hàng thiết yếu của người trẻ tuổi đi làm."
       ],
       "correctIndex": 2,
-      "explanation": "Tốc độ trượt giá của chi phí y tế và chăm sóc cá nhân (Medical Inflation) trên toàn cầu luôn cao gấp 1.5 - 2 lần CPI thông thường. Tính toán hưu trí bằng CPI cơ bản sẽ dẫn đến thiếu hụt dòng tiền nghiêm trọng."
+      "explanation": "Chi phí y tế tăng nhanh hơn CPI, khiến sức mua của đồng tiền giảm mạnh nếu không được tính toán kỹ trong kế hoạch hưu trí."
     },
     {
       "id": "q4",
-      "question": "Nguyên tắc 4: 'Càng trì hoãn, càng thêm gánh nặng' được minh chứng qua quy luật tài chính nào?",
+      "question": "Nguyên tắc 4 về việc trì hoãn chuẩn bị cho tuổi già được minh chứng qua quy luật tài chính nào?",
       "options": [
-        "Quy luật giá vàng sẽ tự động giảm sau mỗi 10 năm trì hoãn.",
-        "Quy luật số tiền cần trích lập mỗi tháng sẽ tăng theo cấp số nhân nếu bạn bắt đầu muộn 10-15 năm do đánh mất thời gian tích lũy của lãi kép.",
-        "Quy luật mọi người sẽ tự động trở nên giàu có sau tuổi 50.",
-        "Quy luật ngân hàng sẽ từ chối mở tài khoản cho người trên 40 tuổi."
+        "Việc bắt đầu chuẩn bị sớm sẽ làm giảm đi cơ hội đầu tư vào các tài sản rủi ro cao nhưng mang lại lợi nhuận đột biến.",
+        "Những người bắt đầu chuẩn bị muộn thường có thu nhập cao hơn, nên họ có thể dễ dàng bù đắp lại thời gian đã bỏ lỡ.",
+        "Quy luật tài chính cho thấy việc tiết kiệm quá sớm sẽ làm giảm chất lượng cuộc sống hiện tại của người trẻ tuổi đi làm.",
+        "Trì hoãn khiến gánh nặng tài chính tăng theo cấp số nhân do mất đi lợi thế của thời gian và sức mạnh lãi kép tích lũy."
       ],
-      "correctIndex": 1,
-      "explanation": "Để có cùng một số tiền hưu trí, người bắt đầu ở tuổi 40 phải trích lập số tiền hàng tháng gấp 3-4 lần so với người bắt đầu từ tuổi 25. Trì hoãn là kẻ cắp tài sản tàn nhẫn nhất."
+      "correctIndex": 3,
+      "explanation": "Bắt đầu sớm giúp tận dụng lãi kép, giảm áp lực tài chính hàng tháng so với việc bắt đầu muộn khi tuổi đã cao."
     },
     {
       "id": "q5",
-      "question": "Tại sao Nguyên tắc 5 khẳng định: 'Chuẩn bị cho tuổi già phải được ưu tiên lên vị trí HÀNG ĐẦU' ngay cả trước các mục tiêu nâng cấp nhà cửa hay chi tiêu cho con cái?",
+      "question": "Tại sao Nguyên tắc 5 khẳng định chuẩn bị cho tuổi già phải được ưu tiên hàng đầu trước các mục tiêu khác?",
       "options": [
-        "Vì pháp luật cấm việc nâng cấp nhà cửa khi chưa đủ 60 tuổi.",
-        "Vì người già không có quyền được sống trong những ngôi nhà tiện nghi.",
-        "Vì con cái không bao giờ có khả năng tự kiếm tiền mưu sinh.",
-        "Vì bạn có thể vay tiền để mua nhà, con bạn có thể vay tiền để đi học đại học, nhưng TUYỆT ĐỐI KHÔNG CÓ NGÂN HÀNG NÀO CHO VAY TIỀN ĐỂ DƯỠNG GIÀ."
+        "Vì không có tổ chức tài chính nào cho vay vốn để dưỡng già, trong khi giáo dục hay nhà ở đều có các giải pháp hỗ trợ.",
+        "Việc ưu tiên cho con cái là trách nhiệm đạo đức cao cả, nên cần phải gác lại các kế hoạch tài chính cá nhân của bản thân.",
+        "Mua nhà và đầu tư cho con cái là những tài sản có khả năng sinh lời cao hơn so với việc tiết kiệm cho tuổi già.",
+        "Chuẩn bị cho tuổi già là việc làm mang tính cá nhân, không quan trọng bằng việc xây dựng nền tảng cho thế hệ tương lai."
       ],
-      "correctIndex": 3,
-      "explanation": "Chân lý tài chính kinh điển: Học vấn có học bổng/vay vốn sinh viên, mua nhà có thế chấp ngân hàng; nhưng không có bất kỳ tổ chức nào cho vay vốn để trang trải sinh hoạt hưu trí tuổi già."
+      "correctIndex": 0,
+      "explanation": "Khác với giáo dục hay nhà ở, tuổi già không có nguồn hỗ trợ vay vốn, nên cần được ưu tiên nguồn lực ngay từ đầu."
     },
     {
       "id": "q6",
-      "question": "Nghịch lý sâu sắc trong Nguyên tắc 6: 'Những sản phẩm an toàn cũng không thể đảm bảo cho một tương lai an toàn' cảnh báo điều gì?",
+      "question": "Nghịch lý trong Nguyên tắc 6 cảnh báo điều gì về các sản phẩm tài chính an toàn?",
       "options": [
-        "Các sản phẩm như tiền mặt hoặc gửi tiết kiệm ngân hàng lãi suất thấp mang lại 'cảm giác an toàn giả tạo' trong ngắn hạn nhưng lại là rủi ro mất sức mua lớn nhất trước lạm phát trong dài hạn 20-30 năm.",
-        "Người tiết kiệm sẽ bị phạt tiền nếu không đầu tư vào chứng khoán.",
-        "Chỉ có các sản phẩm cá cược cờ bạc mới là nơi trú ẩn an toàn thực sự.",
-        "Tất cả các ngân hàng thương mại đều không an toàn."
+        "Đầu tư vào các sản phẩm an toàn là cách duy nhất để bảo vệ tài sản trước những biến động khó lường của thị trường tài chính.",
+        "Các sản phẩm an toàn ngắn hạn như tiền mặt có thể gây rủi ro mất sức mua lớn do lạm phát bào mòn giá trị trong dài hạn.",
+        "Các sản phẩm tài chính an toàn thường có mức lợi nhuận cao hơn so với các kênh đầu tư mạo hiểm trong thời gian dài hạn.",
+        "Việc lựa chọn các sản phẩm an toàn sẽ giúp nhà đầu tư tránh được mọi rủi ro liên quan đến sự thay đổi của nền kinh tế."
       ],
-      "correctIndex": 0,
-      "explanation": "An toàn trong ngắn hạn (không thấy tiền sụt giảm danh nghĩa) lại là cái chết từ từ trong dài hạn (lạm phát bào mòn sức mua). Tránh né rủi ro thị trường bằng cách ôm tiền mặt chính là tự chuốc lấy rủi ro mất giá."
+      "correctIndex": 1,
+      "explanation": "Sự an toàn về danh nghĩa trong ngắn hạn thường đi kèm với rủi ro mất giá thực tế do lạm phát trong dài hạn."
     },
     {
       "id": "q7",
-      "question": "Nguyên tắc 7: 'Luôn luôn sẵn sàng cho mọi sự thay đổi' đòi hỏi một cá nhân phải xây dựng năng lực gì?",
+      "question": "Nguyên tắc 7 đòi hỏi cá nhân phải xây dựng năng lực gì để đối phó với sự thay đổi của thời đại?",
       "options": [
-        "Việc từ chối tham gia vào bất kỳ hoạt động kinh tế nào.",
-        "Việc thay đổi công việc liên tục mỗi tháng một lần.",
-        "Năng lực dự đoán chính xác 100% các cuộc khủng hoảng kinh tế toàn cầu.",
-        "Năng lực linh hoạt thích ứng, chủ động cập nhật kiến thức tài chính mới, duy trì quỹ khẩn cấp và sẵn sàng điều chỉnh kế hoạch danh mục khi hoàn cảnh kinh tế - xã hội biến chuyển."
+        "Khả năng dự đoán chính xác các xu hướng kinh tế toàn cầu để đưa ra các quyết định đầu tư mang lại lợi nhuận cao nhất.",
+        "Việc duy trì một danh mục đầu tư cố định trong suốt nhiều thập kỷ để đảm bảo tính ổn định và an toàn cho tài sản.",
+        "Năng lực linh hoạt thích ứng, chủ động cập nhật kiến thức tài chính và sẵn sàng điều chỉnh kế hoạch khi hoàn cảnh thay đổi.",
+        "Năng lực từ chối mọi sự thay đổi của thị trường để giữ vững quan điểm và chiến lược tài chính đã đề ra từ ban đầu."
       ],
-      "correctIndex": 3,
-      "explanation": "Thế giới tài chính không ngừng biến động. Người sống sót và thịnh vượng là người có tư duy linh hoạt, trang bị sẵn phương án dự phòng và không ngừng nâng cao nhận thức."
+      "correctIndex": 2,
+      "explanation": "Thế giới biến động không ngừng, khả năng linh hoạt và cập nhật kiến thức là chìa khóa để bảo vệ kế hoạch hưu trí."
     },
     {
       "id": "q8",
-      "question": "Theo Nguyên tắc 8, tại sao việc 'Lập bảng cân đối thu chi mỗi năm một lần và ghi chép sổ chi tiêu' lại mang tính cốt tử?",
+      "question": "Theo Nguyên tắc 8, việc lập bảng cân đối thu chi hàng năm mang lại lợi ích gì?",
       "options": [
-        "Để nộp phạt cho các cơ quan kiểm toán nhà nước.",
-        "Giống như việc khám sức khỏe định kỳ cho cơ thể, bảng cân đối tài sản hàng năm giúp soi rõ tiến độ gia tăng tài sản ròng, phát hiện sớm các nguy cơ nợ xấu và điều chỉnh thói quen chi tiêu kịp thời.",
-        "Để có bằng chứng khoe khoang với bạn bè vào dịp cuối năm.",
-        "Để xóa toàn bộ lịch sử chi tiêu cũ khỏi bộ nhớ."
+        "Việc lập bảng cân đối chỉ mang tính chất thống kê, không có tác động trực tiếp đến việc cải thiện tình hình tài chính.",
+        "Giúp người dùng có thể so sánh mức chi tiêu của mình với những người xung quanh để điều chỉnh lối sống cho phù hợp.",
+        "Là công cụ để quản lý các khoản đầu tư chứng khoán, giúp tối ưu hóa lợi nhuận thu được từ các danh mục tài sản khác.",
+        "Giúp soi rõ tiến độ gia tăng tài sản ròng, phát hiện sớm các nguy cơ nợ xấu và điều chỉnh thói quen chi tiêu kịp thời."
       ],
-      "correctIndex": 1,
-      "explanation": "Bảng cân đối tài sản và sổ chi tiêu là 'báo cáo tài chính cá nhân'. Khám sức khỏe tài chính mỗi năm một lần giúp bạn nắm chắc mình đang tiến gần hay thụt lùi so với mục tiêu tự do tài chính."
+      "correctIndex": 3,
+      "explanation": "Bảng cân đối tài chính như một bản khám sức khỏe, giúp kiểm soát dòng tiền và đảm bảo đi đúng hướng mục tiêu."
     },
     {
       "id": "q9",
-      "question": "Nguyên tắc 9: 'Trước tiên cần sống khỏe và sống vui' định vị mối quan hệ giữa Sức khỏe và Tài chính như thế nào?",
+      "question": "Nguyên tắc 9 định vị mối quan hệ giữa sức khỏe và tài chính như thế nào?",
       "options": [
-        "Sống vui vẻ đồng nghĩa với việc tiêu xài hoang phí toàn bộ tiền tích lũy.",
-        "Chỉ cần có nhiều tiền thì tự động sẽ có sức khỏe hoàn hảo không cần tập luyện.",
-        "Tài chính là số 1, sức khỏe có thể đánh đổi hoàn toàn để kiếm tiền.",
-        "Sức khỏe là số 1 đứng đầu, tiền bạc của cải là những số 0 theo sau; nếu mất đi số 1 thì mọi số 0 đều trở nên hoàn toàn vô nghĩa và tài sản tích lũy sẽ tiêu tán vào viện phí."
+        "Sức khỏe là tài sản gốc quý giá nhất, nếu mất đi thì mọi thành quả tài chính tích lũy đều trở nên vô nghĩa và tiêu tán.",
+        "Tài chính là yếu tố quan trọng nhất, sức khỏe có thể được cải thiện bằng cách sử dụng tiền bạc để mua các dịch vụ y tế.",
+        "Việc tập trung rèn luyện sức khỏe quá mức sẽ làm giảm thời gian và nguồn lực dành cho việc phát triển sự nghiệp tài chính.",
+        "Sức khỏe và tài chính là hai lĩnh vực độc lập, không có sự tác động qua lại lẫn nhau trong suốt quá trình chuẩn bị già."
       ],
-      "correctIndex": 3,
-      "explanation": "Sức khỏe thể chất và tinh thần là tài sản gốc quý giá nhất. Rèn luyện sức khỏe từ trẻ là khoản đầu tư giảm thiểu chi phí y tế tuổi già hiệu quả và thông minh nhất."
+      "correctIndex": 0,
+      "explanation": "Sức khỏe là nền tảng, không có sức khỏe thì mọi tài sản tích lũy sẽ nhanh chóng bị tiêu hao vào chi phí chữa bệnh."
     },
     {
       "id": "q10",
-      "question": "Một người dành 20 năm tuổi trẻ làm việc kiệt sức 16 tiếng/ngày, ăn uống thất thường và bỏ qua rèn luyện thể chất để kiếm thật nhiều tiền. Nguyên tắc 9 phê phán điều này như thế nào?",
+      "question": "Nguyên tắc 9 phê phán việc dùng sức khỏe đổi lấy tiền bạc như thế nào?",
       "options": [
-        "Đây là hình mẫu hoàn hảo đáng được khen ngợi tuyệt đối.",
-        "Đó là một sai lầm bi kịch: dùng sức khỏe tuổi trẻ đổi lấy tiền bạc, để rồi khi về già phải dùng toàn bộ số tiền đó (thậm chí không đủ) để mua lại sức khỏe và chịu đựng nỗi đau bệnh tật.",
-        "Làm việc không nghỉ ngơi là cách duy nhất để đạt tự do tài chính.",
-        "Sức khỏe của con người không bao giờ bị ảnh hưởng bởi thói quen sinh hoạt."
+        "Đây là chiến lược cần thiết trong giai đoạn đầu của sự nghiệp để tạo ra nền tảng tài chính vững chắc cho tương lai sau.",
+        "Đó là sai lầm bi kịch khi phải dùng toàn bộ số tiền tích lũy để mua lại sức khỏe đã mất khi về già do làm việc quá sức.",
+        "Việc làm việc kiệt sức là biểu hiện của sự cống hiến và là cách nhanh nhất để đạt được tự do tài chính sớm nhất có thể.",
+        "Sức khỏe của con người là vô hạn, nên việc làm việc quá sức không gây ra bất kỳ ảnh hưởng tiêu cực nào đến tuổi già."
       ],
       "correctIndex": 1,
-      "explanation": "Đổi sức khỏe lấy tiền rồi lại lấy tiền mua sức khỏe là một vòng luẩn quẩn bi thảm. Một kế hoạch tài chính chân chính phải đồng hành cùng lối sống lành mạnh, cân bằng và bền vững."
+      "explanation": "Đánh đổi sức khỏe lấy tiền là vòng luẩn quẩn, vì khi về già tiền không thể mua lại được sức khỏe đã bị hủy hoại."
     },
     {
       "id": "q11",
-      "question": "Nếu một người chỉ thực hiện tốt việc 'Kiếm tiền giỏi' (Nguyên tắc 1) nhưng hoàn toàn phớt lờ 'Kiểm soát lạm phát và bẫy an toàn' (Nguyên tắc 3 & 6), kết cục tài chính dài hạn sẽ là gì?",
+      "question": "Nếu chỉ kiếm tiền giỏi mà phớt lờ lạm phát, kết cục tài chính dài hạn sẽ là gì?",
       "options": [
-        "Tất cả các khoản tiền gửi ngân hàng sẽ tự động tăng giá trị gấp đôi.",
-        "Họ vẫn chắc chắn trở thành triệu phú hưu trí an nhàn.",
-        "Nhà nước sẽ bù đắp toàn bộ phần chênh lệch thâm hụt lạm phát.",
-        "Tài sản danh nghĩa có thể tăng nhưng sức mua thực tế bị teo tóp nghiêm trọng, khiến mức sống tuổi già bị sụt giảm nặng nề so với kỳ vọng ban đầu."
+        "Họ vẫn có thể đạt được sự an nhàn khi về già vì số tiền tích lũy được vẫn đảm bảo giá trị thực theo thời gian dài.",
+        "Nhà nước sẽ có các chính sách hỗ trợ để bù đắp phần chênh lệch thâm hụt do lạm phát gây ra cho người dân về hưu.",
+        "Tài sản danh nghĩa có thể tăng nhưng sức mua thực tế bị teo tóp nghiêm trọng, khiến mức sống tuổi già bị sụt giảm nặng.",
+        "Các khoản tiền gửi ngân hàng sẽ tự động tăng giá trị để bù đắp cho sự mất giá của đồng tiền do lạm phát gây ra hàng năm."
       ],
-      "correctIndex": 3,
-      "explanation": "Kiếm tiền giỏi mà không biết bảo vệ trước lạm phát và đầu tư sai kênh thì thành quả lao động cả đời sẽ bị thời gian và lạm phát 'bốc hơi' âm thầm."
+      "correctIndex": 2,
+      "explanation": "Kiếm tiền mà không bảo vệ trước lạm phát sẽ khiến thành quả lao động bị mất giá trị thực theo thời gian."
     },
     {
       "id": "q12",
-      "question": "Tại sao việc duy trì một tinh thần lạc quan, các mối quan hệ xã hội ấm áp và niềm vui sống (Nguyên tắc 9) lại giúp bảo vệ tài sản hưu trí?",
+      "question": "Tại sao tinh thần lạc quan và các mối quan hệ xã hội lại giúp bảo vệ tài sản hưu trí?",
       "options": [
-        "Vì tinh thần vui vẻ giúp giảm thiểu nguy cơ mắc các bệnh tâm lý, suy nhược thần kinh và trầm cảm tuổi già, từ đó giảm đáng kể gánh nặng chi phí y tế và chăm sóc tinh thần tốn kém.",
-        "Vì người vui vẻ sẽ được ngân hàng giảm lãi suất vay nợ.",
-        "Vì niềm vui sống sẽ tự động sinh ra tiền mặt mỗi tháng.",
-        "Vì có nhiều bạn bè sẽ giúp chia đều các khoản nợ cá nhân."
+        "Người có tinh thần lạc quan thường được các ngân hàng ưu tiên giảm lãi suất khi vay nợ để đầu tư cho các dự án cá nhân.",
+        "Việc duy trì các mối quan hệ xã hội giúp người già có thể dễ dàng vay mượn tiền từ bạn bè khi gặp khó khăn tài chính.",
+        "Niềm vui sống và sự kết nối xã hội sẽ tự động sinh ra thu nhập thụ động giúp trang trải các chi phí sinh hoạt hàng ngày.",
+        "Giúp giảm thiểu nguy cơ mắc các bệnh tâm lý và trầm cảm tuổi già, từ đó giảm đáng kể gánh nặng chi phí y tế tốn kém."
       ],
-      "correctIndex": 0,
-      "explanation": "Sức khỏe tâm thần và cảm giác kết nối xã hội là liều thuốc trường thọ tự nhiên. Một tuổi già nhiều tiếng cười và bạn bè giúp nâng cao chất lượng sống và tránh được các chi phí trị liệu đắt đỏ."
+      "correctIndex": 3,
+      "explanation": "Sức khỏe tinh thần tốt giúp tránh được các bệnh lý tốn kém, bảo vệ tài sản khỏi các chi phí y tế không đáng có."
     },
     {
       "id": "q13",
-      "question": "Bộ '9 Nguyên tắc trù bị cho tuổi già' ở phần Phụ lục đóng vai trò gì trong cấu trúc tổng thể của cuốn sách?",
+      "question": "Phụ lục 9 nguyên tắc đóng vai trò gì trong cấu trúc tổng thể của cuốn sách?",
       "options": [
-        "Là những nội dung đọc thêm mang tính giải trí không bắt buộc.",
-        "Là bản 'Tuyên ngôn & Bộ quy tắc cốt lõi' cô đọng toàn bộ triết lý, phương pháp và kim chỉ nam hành động xuyên suốt mà mỗi độc giả cần ghi nhớ và soi chiếu lại trong suốt cuộc đời.",
-        "Là các điều khoản hợp đồng bắt buộc của ngân hàng.",
-        "Là tài liệu dành riêng cho các cơ quan thanh tra tài chính nhà nước."
+        "Là bản tuyên ngôn và bộ quy tắc cốt lõi cô đọng toàn bộ triết lý, phương pháp hành động mà độc giả cần ghi nhớ suốt đời.",
+        "Là những nội dung đọc thêm mang tính giải trí, không bắt buộc phải thực hiện để đạt được sự thịnh vượng tài chính cá nhân.",
+        "Là các điều khoản hợp đồng bắt buộc mà độc giả phải tuân thủ khi tham gia các chương trình đầu tư của tác giả cuốn sách.",
+        "Là tài liệu dành riêng cho các chuyên gia tài chính để tham khảo khi tư vấn cho khách hàng về kế hoạch hưu trí dài hạn."
       ],
-      "correctIndex": 1,
-      "explanation": "Phụ lục 9 nguyên tắc là tinh hoa đúc kết của toàn bộ cuốn sách, đóng vai trò như bản 'Hiến pháp tài chính cá nhân' định hướng hành vi của độc giả trên chặng đường dài."
+      "correctIndex": 0,
+      "explanation": "Đây là tinh hoa đúc kết, đóng vai trò như kim chỉ nam định hướng hành vi cho độc giả trên chặng đường tài chính."
     },
     {
       "id": "q14",
-      "question": "Khi kết hợp Nguyên tắc 4 (Hành động ngay) và Nguyên tắc 5 (Ưu tiên hàng đầu), quyết định tài chính đầu tiên một người trẻ 30 tuổi nên làm ngay tháng này là gì?",
+      "question": "Quyết định tài chính đầu tiên một người trẻ 30 tuổi nên làm ngay tháng này là gì?",
       "options": [
-        "Chờ đến dịp sinh nhật 40 tuổi mới bắt đầu tìm hiểu về quỹ đầu tư.",
-        "Rút toàn bộ tiền tiết kiệm đưa cho bạn bè mượn kinh doanh.",
-        "Mở một tài khoản tích lũy/quỹ đầu tư hưu trí định kỳ, thiết lập lệnh trích chuyển tự động hàng tháng ngay sau khi nhận lương trước khi phân bổ cho các chi tiêu khác.",
-        "Vay tiền mua một chiếc điện thoại đời mới nhất để tự thưởng."
+        "Chờ đến dịp sinh nhật 40 tuổi mới bắt đầu tìm hiểu về các quỹ đầu tư để đảm bảo có đủ kiến thức trước khi tham gia.",
+        "Mở tài khoản tích lũy hưu trí, thiết lập lệnh trích chuyển tự động hàng tháng ngay sau khi nhận lương trước khi chi tiêu.",
+        "Rút toàn bộ tiền tiết kiệm hiện có để đưa cho bạn bè mượn kinh doanh nhằm tìm kiếm cơ hội gia tăng tài sản nhanh chóng.",
+        "Vay tiền để mua một chiếc điện thoại đời mới nhất nhằm tự thưởng cho bản thân sau những ngày làm việc vất vả vừa qua."
       ],
-      "correctIndex": 2,
-      "explanation": "Hành động thực tế và ưu tiên hàng đầu được cụ thể hóa bằng việc thiết lập tài khoản hưu trí tự động ngay lập tức, biến kỷ luật tài chính thành một thói quen tự động hóa."
+      "correctIndex": 1,
+      "explanation": "Thiết lập thói quen tiết kiệm tự động là bước đi quan trọng nhất để hiện thực hóa các nguyên tắc tài chính đã học."
     },
     {
       "id": "q15",
       "question": "Thông điệp đúc kết trọn vẹn nhất của 9 Nguyên tắc trù bị cho tuổi già là gì?",
       "options": [
-        "Tiền bạc là thứ duy nhất quyết định giá trị của một con người.",
-        "Tuổi già là điều đáng sợ và con người không thể làm gì để thay đổi.",
-        "Chỉ cần dựa vào may mắn và sự giúp đỡ của xã hội là đủ để có tuổi già hạnh phúc.",
-        "Một tuổi già thịnh vượng, an nhàn và phẩm giá không phải là sản phẩm của sự may mắn ngẫu nhiên, mà là kết quả của sự lựa chọn đúng đắn, tri thức tài chính sáng suốt, kỷ luật hành động từ sớm và một lối sống lành mạnh trọn đời."
+        "Tiền bạc là yếu tố duy nhất quyết định giá trị của một con người và sự hạnh phúc trong suốt quãng thời gian về già sau này.",
+        "Tuổi già là điều đáng sợ và con người không thể làm gì để thay đổi được số phận đã được định sẵn từ khi còn trẻ tuổi.",
+        "Tuổi già thịnh vượng là kết quả của sự lựa chọn đúng đắn, tri thức tài chính, kỷ luật hành động và lối sống lành mạnh.",
+        "Chỉ cần dựa vào sự may mắn và sự giúp đỡ của xã hội là đủ để có một cuộc sống tuổi già hạnh phúc và đầy đủ tiện nghi."
       ],
-      "correctIndex": 3,
-      "explanation": "Thông điệp tối hậu: Tuổi già hạnh phúc và thịnh vượng là một 'công trình kiến trúc' do chính bạn thiết kế và xây dựng từng ngày bằng tri thức, kỷ luật, tình yêu thương và sự chuẩn bị nghiêm túc từ tuổi trẻ."
+      "correctIndex": 2,
+      "explanation": "Tuổi già hạnh phúc là công trình do chính bạn thiết kế bằng tri thức, kỷ luật và sự chuẩn bị nghiêm túc từ sớm."
     }
   ]
 }
