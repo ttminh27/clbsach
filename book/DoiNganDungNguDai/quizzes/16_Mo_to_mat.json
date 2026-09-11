@@ -6,182 +6,182 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Tại sao tác giả lấy ví dụ về người cha để quên con trong xe hơi để minh họa cho khái niệm 'lãnh đạo'?",
+      "question": "Tại sao tác giả lấy ví dụ về người cha để quên con trong xe hơi để minh họa cho khái niệm lãnh đạo?",
       "options": [
-        "Để phê phán hành vi vi phạm đạo đức cá nhân cụ thể",
-        "Để làm nổi bật sự thiếu hụt ý thức trong những hành động tự động hóa hàng ngày",
-        "Để nhấn mạnh sự nguy hiểm của việc uống cà phê quá nhiều",
-        "Để kêu gọi cải thiện luật giao thông"
+        "Để làm nổi bật sự thiếu hụt ý thức trong những hành động tự động hóa khiến con người bỏ quên các giá trị cốt lõi.",
+        "Để phê phán hành vi vi phạm đạo đức cá nhân cụ thể nhằm kêu gọi sự thay đổi trong các quy định về an toàn giao thông.",
+        "Để nhấn mạnh rằng sự bận rộn trong công việc hàng ngày là nguyên nhân chính dẫn đến các tai nạn đáng tiếc hiện nay.",
+        "Để chứng minh rằng việc ưu tiên những nhu cầu cá nhân nhỏ nhặt là bản năng tự nhiên không thể thay đổi của con người."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả không tập trung vào việc chỉ trích cá nhân, mà dùng tình huống này làm ẩn dụ cho việc chúng ta thường 'ngủ quên' trong các thói quen vô thức, dẫn đến việc ưu tiên những lợi ích tầm thường hơn những giá trị cốt lõi."
+      "correctIndex": 0,
+      "explanation": "Tác giả dùng ví dụ này làm ẩn dụ cho việc chúng ta thường sống trong trạng thái 'tự động hóa', dẫn đến việc ưu tiên những lợi ích tầm thường hơn những giá trị cốt lõi."
     },
     {
       "id": "q2",
-      "question": "Câu nói của Bertrand Russell 'Hầu hết người ta thà chết còn hơn phải suy nghĩ' ám chỉ điều gì trong bối cảnh lãnh đạo bản thân?",
+      "question": "Câu nói của Bertrand Russell 'Hầu hết người ta thà chết còn hơn phải suy nghĩ' ám chỉ điều gì trong lãnh đạo bản thân?",
       "options": [
-        "Sự lười biếng về thể chất là bản tính con người",
-        "Suy nghĩ sâu sắc đòi hỏi sự tiêu tốn năng lượng và lòng dũng cảm đối mặt với sự thật",
-        "Triết học là một lĩnh vực không thực tế trong kinh doanh",
-        "Con người sợ cái chết hơn là sợ sai lầm"
+        "Con người thường có xu hướng sợ hãi cái chết hơn là sợ phải đối mặt với những sai lầm trong quá trình tư duy logic.",
+        "Suy nghĩ sâu sắc đòi hỏi sự tiêu tốn năng lượng và lòng dũng cảm để đối diện với những sự thật khó chịu về bản thân.",
+        "Sự lười biếng về mặt trí tuệ là một bản tính cố hữu khiến con người không bao giờ muốn thay đổi hiện trạng cuộc sống.",
+        "Triết học là một lĩnh vực trừu tượng không mang lại giá trị thực tế cho những người đang nỗ lực phát triển sự nghiệp."
       ],
       "correctIndex": 1,
-      "explanation": "Việc tư duy sâu đòi hỏi ta phải đối diện với nỗi sợ và thay đổi hiện trạng (status quo), điều mà nhiều người thường né tránh để ở lại vùng an toàn (tâm lý lười tư duy)."
+      "explanation": "Việc tư duy sâu đòi hỏi ta phải đối diện với nỗi sợ và thay đổi hiện trạng, điều mà nhiều người thường né tránh để ở lại vùng an toàn."
     },
     {
       "id": "q3",
       "question": "Trong văn hóa doanh nghiệp, 'mở to mắt' giúp nhân viên thoát khỏi tư duy 'người làm công ăn lương' như thế nào?",
       "options": [
-        "Giúp họ đòi hỏi quyền lợi cá nhân tốt hơn",
-        "Giúp họ nhìn thấy những vấn đề tiềm ẩn và chủ động chịu trách nhiệm thay vì chờ mệnh lệnh",
-        "Giúp họ tránh né được những sai lầm của cấp trên",
-        "Giúp họ làm việc nhanh hơn để sớm được về nhà"
+        "Giúp họ có khả năng đòi hỏi quyền lợi cá nhân tốt hơn thông qua việc hiểu rõ các quy định pháp luật về lao động hiện hành.",
+        "Giúp họ tránh né được những sai lầm của cấp trên bằng cách luôn giữ thái độ trung lập trong các cuộc họp quan trọng.",
+        "Giúp họ nhìn thấy những vấn đề tiềm ẩn và chủ động chịu trách nhiệm thay vì chờ đợi mệnh lệnh từ cấp trên đưa xuống.",
+        "Giúp họ hoàn thành công việc nhanh hơn để có thể sớm về nhà và dành thời gian cho các sở thích cá nhân ngoài giờ làm."
       ],
-      "correctIndex": 1,
-      "explanation": "Lãnh đạo không chức danh là sự chủ động. Khi 'mở to mắt', bạn không chỉ nhìn thấy công việc, mà thấy được giá trị và tác động của nó, từ đó chuyển dịch từ trạng thái thụ động sang chủ động."
+      "correctIndex": 2,
+      "explanation": "Lãnh đạo không chức danh là sự chủ động. Khi 'mở to mắt', bạn thấy được giá trị và tác động của công việc, từ đó chuyển dịch sang trạng thái chủ động."
     },
     {
       "id": "q4",
-      "question": "Sự khác biệt căn bản giữa 'con người' và các loài động vật khác theo quan điểm tác giả là gì?",
+      "question": "Sự khác biệt căn bản giữa con người và các loài động vật khác theo quan điểm của tác giả là gì?",
       "options": [
-        "Khả năng giao tiếp bằng ngôn ngữ phức tạp",
-        "Khả năng sinh tồn trong các môi trường khắc nghiệt",
-        "Khả năng tự hồi tưởng, đánh giá và định hướng tư duy hành động",
-        "Khả năng xây dựng các công trình kiến trúc"
+        "Khả năng giao tiếp bằng ngôn ngữ phức tạp giúp con người xây dựng các xã hội văn minh và phát triển nền kinh tế toàn cầu.",
+        "Khả năng sinh tồn trong các môi trường khắc nghiệt nhờ vào việc sử dụng công cụ và kỹ thuật tiên tiến trong lao động.",
+        "Khả năng xây dựng các công trình kiến trúc vĩ đại để lưu giữ lịch sử và văn hóa cho các thế hệ mai sau của nhân loại.",
+        "Khả năng bước ra khỏi bản thân để hồi tưởng, đánh giá và định hướng lại các tư tưởng cũng như hành động của chính mình."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả nhấn mạnh năng lực tự ý thức (self-awareness) – khả năng bước ra khỏi bản thân để chiêm nghiệm hành vi. Đây là điểm khởi đầu của mọi sự thay đổi và hoàn thiện."
+      "correctIndex": 3,
+      "explanation": "Tác giả nhấn mạnh năng lực tự ý thức – khả năng bước ra khỏi bản thân để chiêm nghiệm hành vi. Đây là điểm khởi đầu của mọi sự thay đổi."
     },
     {
       "id": "q5",
       "question": "Nếu áp dụng tư duy 'ý thức' của Robin Sharma, việc lập kế hoạch hàng ngày nên tập trung vào điều gì?",
       "options": [
-        "Liệt kê tất cả công việc phải làm để tối đa hóa hiệu suất",
-        "Đánh giá lại ý nghĩa và mục tiêu của từng hành động trước khi thực hiện",
-        "Đảm bảo lịch trình được kín mít để không lãng phí thời gian",
-        "So sánh kế hoạch cá nhân với đồng nghiệp"
+        "Đánh giá lại ý nghĩa và mục tiêu của từng hành động cụ thể trước khi bắt tay vào thực hiện chúng trong ngày làm việc.",
+        "Liệt kê tất cả các công việc phải làm để tối đa hóa hiệu suất làm việc trong một khoảng thời gian ngắn nhất có thể hiện nay.",
+        "Đảm bảo lịch trình làm việc được kín mít để không lãng phí thời gian vào những việc không mang lại giá trị kinh tế cao.",
+        "So sánh kế hoạch cá nhân với đồng nghiệp để đảm bảo rằng mình không bị tụt hậu so với tiến độ chung của toàn bộ nhóm."
       ],
-      "correctIndex": 1,
-      "explanation": "Hiệu suất (làm nhiều) không bằng hiệu quả (làm đúng). Ý thức đòi hỏi ta đặt câu hỏi 'Tại sao ta làm việc này?' thay vì chỉ làm việc theo thói quen."
+      "correctIndex": 0,
+      "explanation": "Hiệu suất không bằng hiệu quả. Ý thức đòi hỏi ta đặt câu hỏi 'Tại sao ta làm việc này?' thay vì chỉ làm việc theo thói quen."
     },
     {
       "id": "q6",
       "question": "Sự 'tất bật' (busyness) trong công việc hàng ngày thường là cái bẫy của việc gì?",
       "options": [
-        "Sự tận tụy quá mức",
-        "Sự trốn tránh trách nhiệm lãnh đạo bản thân",
-        "Sự thành công bền vững",
-        "Sự phát triển kỹ năng chuyên môn"
+        "Sự tận tụy quá mức đối với công việc khiến con người quên đi việc chăm sóc sức khỏe thể chất và tinh thần của chính mình.",
+        "Sự trốn tránh trách nhiệm lãnh đạo bản thân thông qua việc khỏa lấp thời gian bằng những công việc không quan trọng.",
+        "Sự thành công bền vững mà mọi người đều hướng tới trong quá trình xây dựng sự nghiệp cá nhân tại các tập đoàn lớn.",
+        "Sự phát triển kỹ năng chuyên môn cần thiết để đạt được những vị trí cao hơn trong sơ đồ tổ chức của doanh nghiệp hiện nay."
       ],
       "correctIndex": 1,
-      "explanation": "Nhiều người lấy sự bận rộn để khỏa lấp việc không dám đối diện với những quyết định quan trọng, những câu hỏi lớn về định hướng tương lai. Bận rộn thường là cách chúng ta 'ru ngủ' ý thức."
+      "explanation": "Nhiều người lấy sự bận rộn để khỏa lấp việc không dám đối diện với những quyết định quan trọng. Bận rộn thường là cách chúng ta 'ru ngủ' ý thức."
     },
     {
       "id": "q7",
       "question": "Trong lãnh đạo, 'sự hoàn thiện' đến từ đâu?",
       "options": [
-        "Đến từ sự may mắn và cơ hội ngẫu nhiên",
-        "Đến từ sự rõ ràng và ý thức sâu sắc trong từng hành động",
-        "Đến từ việc sao chép thành công của người khác",
-        "Đến từ việc làm việc liên tục không nghỉ ngơi"
+        "Đến từ sự may mắn và những cơ hội ngẫu nhiên xuất hiện trong quá trình làm việc với các đối tác chiến lược quan trọng.",
+        "Đến từ việc sao chép thành công của người khác để rút ngắn thời gian đạt được mục tiêu cá nhân trong sự nghiệp của mình.",
+        "Đến từ sự rõ ràng và ý thức sâu sắc trong từng hành động nhỏ nhất mà chúng ta thực hiện mỗi ngày trong cuộc sống.",
+        "Đến từ việc làm việc liên tục không nghỉ ngơi để đảm bảo rằng mọi dự án đều được hoàn thành đúng thời hạn đã cam kết."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả chỉ rõ: 'Sự rõ ràng sẽ kéo theo sự hoàn thiện'. Khi bạn biết rõ mục tiêu và hành động của mình, sự chuẩn xác trong thực thi là kết quả tất yếu."
+      "correctIndex": 2,
+      "explanation": "Tác giả chỉ rõ: 'Sự rõ ràng sẽ kéo theo sự hoàn thiện'. Khi bạn biết rõ mục tiêu và hành động của mình, sự chuẩn xác là kết quả tất yếu."
     },
     {
       "id": "q8",
       "question": "Tại sao tác giả cho rằng 'vai trò lãnh đạo còn là chuyện ý thức' về cả nỗi sợ và niềm đam mê?",
       "options": [
-        "Vì lãnh đạo cần biết cách thao túng cảm xúc",
-        "Vì chỉ khi thấu hiểu các cảm xúc này, ta mới có thể làm chủ hành vi thay vì bị chúng dẫn dắt",
-        "Vì lãnh đạo cần phải là người có cảm xúc ổn định nhất",
-        "Vì nỗi sợ là kẻ thù số một của sự nghiệp"
+        "Vì lãnh đạo cần biết cách thao túng cảm xúc của người khác để đạt được mục tiêu chung của tổ chức một cách hiệu quả nhất.",
+        "Vì lãnh đạo cần phải là người có cảm xúc ổn định nhất để không bị ảnh hưởng bởi những biến động tiêu cực của thị trường.",
+        "Vì nỗi sợ là kẻ thù số một của sự nghiệp nên cần phải loại bỏ hoàn toàn khỏi tư duy của người làm công tác lãnh đạo.",
+        "Vì chỉ khi thấu hiểu các cảm xúc này, ta mới có thể làm chủ hành vi thay vì bị chúng dẫn dắt một cách vô thức."
       ],
-      "correctIndex": 1,
-      "explanation": "Việc lãnh đạo không phải là loại bỏ cảm xúc, mà là nhận diện (ý thức) chúng để không để chúng vô thức điều khiển hành động của mình."
+      "correctIndex": 3,
+      "explanation": "Việc lãnh đạo không phải là loại bỏ cảm xúc, mà là nhận diện chúng để không để chúng vô thức điều khiển hành động của mình."
     },
     {
       "id": "q9",
-      "question": "Một người đang sống 'mở to mắt' sẽ phản ứng thế nào khi gặp một tình huống chuyển đổi (khủng hoảng) tại nơi làm việc?",
+      "question": "Một người đang sống 'mở to mắt' sẽ phản ứng thế nào khi gặp một tình huống chuyển đổi tại nơi làm việc?",
       "options": [
-        "Lo lắng và tìm người đổ lỗi",
-        "Dừng lại để đánh giá tình hình, sau đó chọn hành động mang lại kết quả tốt nhất",
-        "Làm mọi thứ như đã từng làm trong quá khứ để an toàn",
-        "Bỏ mặc mọi thứ vì đó không phải là việc của mình"
+        "Dừng lại để đánh giá tình hình, sau đó chọn hành động mang lại kết quả tốt nhất thay vì phản ứng theo bản năng.",
+        "Lo lắng và tìm người đổ lỗi cho những sai sót xảy ra trong quá trình thực hiện dự án để bảo vệ danh dự cá nhân mình.",
+        "Làm mọi thứ như đã từng làm trong quá khứ để đảm bảo sự an toàn và tránh những rủi ro không đáng có cho bản thân.",
+        "Bỏ mặc mọi thứ vì đó không phải là việc của mình và chờ đợi sự chỉ đạo từ cấp trên để tránh những trách nhiệm lớn."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự thức tỉnh cho phép con người ngắt kết nối với phản ứng bản năng (sợ hãi/trốn tránh) để chuyển sang phản ứng tư duy (đánh giá/chọn giải pháp)."
+      "correctIndex": 0,
+      "explanation": "Sự thức tỉnh cho phép con người ngắt kết nối với phản ứng bản năng để chuyển sang phản ứng tư duy, đánh giá và chọn giải pháp."
     },
     {
       "id": "q10",
       "question": "Triết lý 'Đời ngắn đừng ngủ dài' gợi mở điều gì về cách sử dụng thời gian?",
       "options": [
-        "Phải làm việc cật lực vì cuộc đời quá ngắn",
-        "Phải tận hưởng mọi thú vui ngay lập tức",
-        "Phải sống trọn vẹn với sự tỉnh thức cao độ trong từng khoảnh khắc",
-        "Phải sống để lại di sản lớn lao cho thế hệ sau"
+        "Phải làm việc cật lực vì cuộc đời quá ngắn để có thể đạt được những thành tựu vĩ đại trước khi nghỉ hưu sớm.",
+        "Phải sống trọn vẹn với sự tỉnh thức cao độ trong từng khoảnh khắc thay vì sống một cách máy móc và vô hồn.",
+        "Phải tận hưởng mọi thú vui ngay lập tức vì chúng ta không bao giờ biết trước được điều gì sẽ xảy ra vào ngày mai.",
+        "Phải sống để lại di sản lớn lao cho thế hệ sau bằng cách tập trung vào những mục tiêu dài hạn của tổ chức hiện tại."
       ],
-      "correctIndex": 2,
-      "explanation": "Việc nhấn mạnh cuộc đời ngắn ngủi là lời nhắc nhở để chúng ta không sống một cách máy móc, vô hồn, mà phải có ý thức về giá trị của thời gian hiện tại."
+      "correctIndex": 1,
+      "explanation": "Việc nhấn mạnh cuộc đời ngắn ngủi là lời nhắc nhở để chúng ta không sống một cách máy móc, mà phải có ý thức về giá trị của hiện tại."
     },
     {
       "id": "q11",
       "question": "Thế nào là 'đón chào những người chung quanh' trong tư duy lãnh đạo của Robin Sharma?",
       "options": [
-        "Luôn mỉm cười với mọi người",
-        "Trở nên xuất sắc và lan tỏa năng lượng tích cực, sự thấu hiểu đến đồng nghiệp",
-        "Luôn đồng ý với ý kiến của số đông",
-        "Sẵn sàng giúp đỡ mọi việc mà không cần biết kết quả"
+        "Luôn mỉm cười với mọi người trong văn phòng để tạo ra một bầu không khí làm việc thân thiện và thoải mái cho tất cả.",
+        "Luôn đồng ý với ý kiến của số đông để tránh những xung đột không cần thiết trong các cuộc họp nhóm hàng tuần hiện nay.",
+        "Trở nên xuất sắc và lan tỏa năng lượng tích cực, sự thấu hiểu đến đồng nghiệp để cùng nhau tiến bộ trong công việc.",
+        "Sẵn sàng giúp đỡ mọi việc mà không cần biết kết quả để thể hiện sự nhiệt tình và tinh thần đồng đội cao trong tổ chức."
       ],
-      "correctIndex": 1,
-      "explanation": "Lãnh đạo thực thụ không chỉ là về mình mà còn là về sự ảnh hưởng. Đón chào mọi người là biểu hiện của sự ý thức về vai trò hỗ trợ và nâng đỡ người khác cùng tiến bộ."
+      "correctIndex": 2,
+      "explanation": "Lãnh đạo thực thụ không chỉ là về mình mà còn là về sự ảnh hưởng. Đón chào mọi người là biểu hiện của sự ý thức về vai trò hỗ trợ."
     },
     {
       "id": "q12",
       "question": "Một người không có ý thức về hành động của mình thường dẫn đến hệ quả gì?",
       "options": [
-        "Thành công nhờ may mắn",
-        "Thói quen hành xử tự động, đôi khi gây ra hậu quả đáng tiếc mà không hay biết",
-        "Trở nên nổi tiếng vì sự khác biệt",
-        "Được cấp trên tin tưởng vì làm việc nhanh"
+        "Thành công nhờ may mắn trong những tình huống bất ngờ mà không cần phải tốn quá nhiều công sức để suy nghĩ hay lập kế hoạch.",
+        "Trở nên nổi tiếng vì sự khác biệt trong cách làm việc so với những người đồng nghiệp khác trong cùng một bộ phận.",
+        "Được cấp trên tin tưởng vì làm việc nhanh chóng mà không bao giờ đặt câu hỏi về tính đúng đắn của các quy trình cũ.",
+        "Thói quen hành xử tự động, đôi khi gây ra hậu quả đáng tiếc mà bản thân không hề hay biết cho đến khi quá muộn."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi không ý thức, chúng ta sống bằng thói quen (autopilot). Điều này dẫn đến sự thiếu trách nhiệm với hậu quả hành vi – giống như ví dụ người cha bỏ con trong xe."
+      "correctIndex": 3,
+      "explanation": "Khi không ý thức, chúng ta sống bằng thói quen. Điều này dẫn đến sự thiếu trách nhiệm với hậu quả hành vi – giống như ví dụ người cha."
     },
     {
       "id": "q13",
       "question": "Tại sao tác giả nhấn mạnh 'đừng để ai chê được' trong công việc?",
       "options": [
-        "Để giành được những phần thưởng danh giá",
-        "Đó là kết quả của sự chỉn chu và ý thức cao độ về chất lượng công việc",
-        "Để thể hiện cái tôi cá nhân mạnh mẽ",
-        "Để được tăng lương nhanh chóng"
+        "Đó là kết quả của sự chỉn chu và ý thức cao độ về chất lượng công việc mà một người lãnh đạo bản thân cần phải có.",
+        "Để giành được những phần thưởng danh giá từ công ty và được thăng tiến lên những vị trí cao hơn trong sự nghiệp của mình.",
+        "Để thể hiện cái tôi cá nhân mạnh mẽ trước mặt đồng nghiệp và khẳng định vị thế của mình trong môi trường cạnh tranh.",
+        "Để được tăng lương nhanh chóng thông qua việc hoàn thành xuất sắc các chỉ tiêu kinh doanh mà cấp trên đã đề ra từ trước."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự hoàn hảo (xuất sắc) không phải để phô trương, mà là tiêu chuẩn đạo đức của người có ý thức cao về giá trị bản thân và công việc mình thực hiện."
+      "correctIndex": 0,
+      "explanation": "Sự hoàn hảo không phải để phô trương, mà là tiêu chuẩn đạo đức của người có ý thức cao về giá trị bản thân và công việc mình thực hiện."
     },
     {
       "id": "q14",
       "question": "Lãnh đạo 'không chức danh' khác với lãnh đạo thông thường ở điểm nào?",
       "options": [
-        "Lãnh đạo thường cần quyền lực, người không chức danh chỉ cần sự tự nhận thức",
-        "Lãnh đạo thường làm việc ít hơn",
-        "Lãnh đạo thường giỏi kỹ thuật hơn",
-        "Lãnh đạo thường không phải làm việc với mọi người"
+        "Lãnh đạo thường làm việc ít hơn vì họ có đội ngũ nhân viên hỗ trợ thực hiện các công việc chuyên môn hàng ngày của mình.",
+        "Lãnh đạo thường dựa vào quyền lực vị trí, người không chức danh dựa vào sự tự nhận thức và tầm ảnh hưởng cá nhân.",
+        "Lãnh đạo thường giỏi kỹ thuật hơn vì họ đã trải qua nhiều năm đào tạo chuyên sâu trong lĩnh vực chuyên môn của họ.",
+        "Lãnh đạo thường không phải làm việc với mọi người vì họ chỉ tập trung vào việc đưa ra các quyết định chiến lược quan trọng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Tư duy lãnh đạo không chức danh dựa trên tầm ảnh hưởng và trách nhiệm tự thân, không phụ thuộc vào vị trí trong sơ đồ tổ chức."
     },
     {
       "id": "q15",
       "question": "Thông điệp chính mà chương sách 'Mở to mắt' muốn gửi gắm là gì?",
       "options": [
-        "Hãy cẩn thận khi lái xe",
-        "Sự tỉnh thức là chìa khóa để lãnh đạo cuộc đời và đạt tới sự xuất sắc",
-        "Hãy luôn lắng nghe lời khuyên của các triết gia",
-        "Đừng bao giờ uống cà phê vào buổi sáng"
+        "Hãy cẩn thận khi lái xe và luôn kiểm tra kỹ các thiết bị an toàn để tránh những tai nạn đáng tiếc xảy ra trên đường phố.",
+        "Hãy luôn lắng nghe lời khuyên của các triết gia cổ đại để tìm ra con đường đúng đắn nhất cho sự phát triển của bản thân.",
+        "Sự tỉnh thức là chìa khóa để lãnh đạo cuộc đời và đạt tới sự xuất sắc trong mọi hành động mà chúng ta thực hiện hàng ngày.",
+        "Đừng bao giờ uống cà phê vào buổi sáng vì nó có thể làm giảm khả năng tập trung và gây ra những sai lầm trong công việc."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Thông điệp bao trùm là mời gọi người đọc thoát khỏi sự 'mộng du' trong cuộc sống để sống chủ động, có ý thức và trách nhiệm hơn."
     }
   ]

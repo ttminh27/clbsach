@@ -6,198 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Sự chuyển hóa ngoạn mục của nhân vật Ebenezer Scrooge trong tác phẩm kinh điển 'A Christmas Carol' tiết lộ bài học cốt lõi nào về Mục đích sống?",
+      "question": "Sự chuyển hóa của Ebenezer Scrooge trong 'A Christmas Carol' tiết lộ bài học cốt lõi nào về Mục đích sống?",
       "options": [
-        "Tiền bạc là nguồn gốc của mọi tội lỗi và con người chỉ có thể sống đạo đức khi từ bỏ toàn bộ tài sản để trở thành kẻ vô sản.",
-        "Con người chỉ có thể thay đổi tính cách khi bị các thế lực siêu nhiên đe dọa trực tiếp đến tính mạng.",
-        "Mục đích xác định chúng ta là ai: khi Scrooge đổi mục đích từ việc 'coi tiền là cùng đích và lợi dụng con người' sang 'coi con người là cùng đích và sử dụng tiền bạc để giúp đỡ họ', toàn bộ ưu tiên và hiệu suất cuộc đời ông đã thay đổi hoàn toàn.",
+        "Mục đích xác định con người: khi Scrooge đổi mục đích từ việc coi tiền là cùng đích sang dùng tiền để giúp đỡ mọi người.",
+        "Con người chỉ có thể thay đổi tính cách khi bị các thế lực siêu nhiên đe dọa trực tiếp đến tính mạng và sự an nguy.",
+        "Tiền bạc là nguồn gốc của mọi tội lỗi và con người chỉ có thể sống đạo đức khi từ bỏ toàn bộ tài sản cá nhân mình.",
         "Người giàu có luôn cô đơn và cách duy nhất để có bạn bè là mang quà cáp đi phân phát cho người nghèo vào đêm Giáng sinh."
       ],
-      "correctIndex": 2,
-      "explanation": "Keller phân tích: Scrooge không thay đổi công việc kiếm tiền mà thay đổi Mục đích sống. Trước đây: mục đích là tiền, dùng người kiếm tiền; Sau khi thức tỉnh: mục đích là cứu người, dùng tiền làm phương tiện. Khi mục đích thay đổi, ưu tiên và hiệu suất tự động đổi hướng theo. C nắm trọn vẹn bản chất; A cực đoan bài trừ tiền; B hiểu nghĩa đen tâm linh; D cái nhìn thiển cận về từ thiện.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Scrooge không thay đổi công việc mà thay đổi mục đích sống. Khi mục đích chuyển từ tiền bạc sang con người, ưu tiên và hiệu suất cuộc đời ông thay đổi hoàn toàn."
     },
     {
       "id": "q2",
-      "question": "Câu chuyện ngụ ngôn 'Chiếc bát ăn xin' (The Beggar's Bowl) mà bao nhiêu vàng bạc châu báu đổ vào cũng biến mất không đáy mang thông điệp cảnh tỉnh sâu sắc nào về tâm lý học con người?",
+      "question": "Câu chuyện 'Chiếc bát ăn xin' mang thông điệp cảnh tỉnh sâu sắc nào về tâm lý học con người và hạnh phúc?",
       "options": [
-        "Nhà vua là người thiếu sáng suốt vì không kiểm tra đáy chiếc bát trước khi nhận lời thách đấu.",
-        "Người ăn xin là một pháp sư sở hữu phép thuật hắc ám có thể tiêu hủy kim loại quý.",
-        "Các vị vua chúa trong lịch sử luôn bị phá sản vì thói kiêu ngạo trước dân chúng.",
-        "Chiếc bát được tạo nên từ lòng tham và ham muốn vô tận của con người; nếu coi việc tích lũy của cải là mục đích để tìm kiếm hạnh phúc, bạn sẽ rơi vào cái bẫy không đáy (vòng xoáy khoái lạc) mà không bao giờ cảm thấy thỏa mãn hay hạnh phúc thực sự."
+        "Nhà vua là người thiếu sáng suốt vì không kiểm tra đáy chiếc bát trước khi nhận lời thách đấu từ một người ăn xin lạ.",
+        "Chiếc bát tượng trưng cho lòng tham vô tận; nếu coi việc tích lũy của cải là mục đích, bạn sẽ rơi vào vòng xoáy không đáy.",
+        "Người ăn xin là một pháp sư sở hữu phép thuật hắc ám có thể tiêu hủy kim loại quý ngay khi chúng chạm vào lòng chiếc bát.",
+        "Các vị vua chúa trong lịch sử luôn bị phá sản vì thói kiêu ngạo trước dân chúng khi cố gắng chứng minh quyền lực của mình."
       ],
-      "correctIndex": 3,
-      "explanation": "Người ăn mày trả lời: 'Nó chỉ đơn giản được tạo ra từ mong muốn của con người.' Keller cảnh báo: nếu biến mục đích cuộc sống thành chiếc bát ăn xin – không ngừng săn tìm thứ tiếp theo để mong được hạnh phúc – bạn sẽ mãi là kẻ ăn mày thời gian. D chỉ rõ bản chất tâm lý học ham muốn; A, B, C là các góc nhìn thiển cận, nghĩa đen.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Nếu biến mục đích cuộc sống thành chiếc bát ăn xin, không ngừng săn tìm thứ tiếp theo để hạnh phúc, bạn sẽ mãi là kẻ ăn mày thời gian."
     },
     {
       "id": "q3",
-      "question": "Dựa trên nghiên cứu của TS. Martin Seligman (cựu Chủ tịch Hiệp hội Tâm lý Mỹ) về 5 yếu tố tạo nên hạnh phúc, tại sao tác giả lại đặc biệt nhấn mạnh 'Sự gắn bó' (Engagement) và 'Ý nghĩa' (Meaning) là hai yếu tố quyết định nhất?",
+      "question": "Tại sao tác giả nhấn mạnh 'Sự gắn bó' và 'Ý nghĩa' là hai yếu tố quyết định nhất trong nghiên cứu của Seligman?",
       "options": [
-        "Vì cảm xúc tích cực hay niềm vui nhất thời chỉ mang lại khoái cảm ngắn hạn rồi nhanh chóng tan biến; chỉ khi gắn bó sâu sắc với công việc và hành động vì một mục đích lớn lao có ý nghĩa, con người mới đạt được hạnh phúc bền vững lâu dài.",
-        "Vì sự gắn bó và ý nghĩa giúp con người không phải nộp thuế thu nhập cá nhân.",
-        "Vì thành tích cá nhân không mang lại bất kỳ niềm tự hào nào cho người thực hiện.",
-        "Vì các mối quan hệ xã hội luôn mang lại phiền toái và rắc rối hơn là niềm vui."
+        "Vì sự gắn bó và ý nghĩa giúp con người không phải nộp thuế thu nhập cá nhân cao như các yếu tố thành tích hay tài sản.",
+        "Vì thành tích cá nhân không mang lại bất kỳ niềm tự hào nào cho người thực hiện nếu thiếu đi sự công nhận từ xã hội.",
+        "Vì niềm vui nhất thời nhanh tan biến; chỉ khi gắn bó sâu sắc với công việc vì mục đích lớn lao, con người mới hạnh phúc.",
+        "Vì các mối quan hệ xã hội luôn mang lại phiền toái và rắc rối hơn là niềm vui trong quá trình làm việc hằng ngày của bạn."
       ],
-      "correctIndex": 0,
-      "explanation": "Keller dẫn chứng Seligman: 5 yếu tố là Cảm xúc tích cực, Thành tích, Quan hệ, Sự gắn bó, Ý nghĩa. Trong đó, Gắn bó và Ý nghĩa giữ vai trò cốt lõi. Gắn bó với những gì ta làm và làm cho cuộc sống có ý nghĩa phụng sự mục đích lớn hơn chính là con đường chắc chắn nhất dẫn đến hạnh phúc dài lâu. A phản ánh đúng nghiên cứu tâm lý học; B ngô nghê; C và D phủ nhận cực đoan các yếu tố khác.",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Gắn bó với những gì ta làm và làm cho cuộc sống có ý nghĩa phụng sự mục đích lớn hơn chính là con đường chắc chắn nhất dẫn đến hạnh phúc."
     },
     {
       "id": "q4",
-      "question": "Định nghĩa đột phá của Gary Keller: 'Người giàu có về mặt tài chính là người có đủ tiền mà không cần phải làm việc để làm thỏa mãn mục đích sống của họ' đảo lộn quan niệm truyền thống về sự giàu sang như thế nào?",
+      "question": "Định nghĩa 'Người giàu có về tài chính' của Gary Keller đảo lộn quan niệm truyền thống về sự giàu sang như thế nào?",
       "options": [
-        "Giàu có đồng nghĩa với việc sở hữu ít nhất 10 triệu USD trong tài khoản ngân hàng và nhiều bất động sản nghỉ dưỡng.",
-        "Giàu có không được đo bằng một con số tài sản tuyệt đối vô định, mà được đo bằng mối tương quan giữa số tiền bạn có với chi phí cần thiết để thực hiện mục đích sống của bạn.",
-        "Người giàu có là người hoàn toàn ngừng làm việc và dành phần đời còn lại để hưởng thụ xa hoa.",
-        "Giàu có là khả năng chi tiêu mua sắm mọi thứ đắt đỏ nhất trên thế giới mà không cần nhìn giá."
+        "Giàu có đồng nghĩa với việc sở hữu ít nhất mười triệu đô la trong tài khoản ngân hàng và nhiều bất động sản nghỉ dưỡng.",
+        "Người giàu có là người hoàn toàn ngừng làm việc và dành phần đời còn lại để hưởng thụ xa hoa mà không cần lo nghĩ gì.",
+        "Giàu có là khả năng chi tiêu mua sắm mọi thứ đắt đỏ nhất trên thế giới mà không cần phải nhìn giá khi thanh toán hóa đơn.",
+        "Giàu có không đo bằng con số tài sản tuyệt đối, mà bằng mối tương quan giữa số tiền bạn có với chi phí thực hiện mục đích."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi hỏi mọi người muốn bao nhiêu tiền, họ luôn nói số triệu đô mơ hồ. Keller chỉ ra: nếu không có mục đích sống, bạn không bao giờ biết bao nhiêu là 'đủ', và do đó bạn không bao giờ thực sự giàu có. Người có mục đích rõ ràng biết chính xác mình cần bao nhiêu tiền để phục vụ mục đích đó. B làm sáng tỏ định nghĩa mang tính cách mạng này; A, C, D phản ánh tư duy tích lũy cơ học và tiêu dùng phô trương.",
-      "difficulty": "hard"
+      "correctIndex": 3,
+      "explanation": "Nếu không có mục đích sống, bạn không bao giờ biết bao nhiêu là đủ, và do đó bạn không bao giờ thực sự giàu có về mặt tài chính."
     },
     {
       "id": "q5",
-      "question": "Tại sao Keller khẳng định: 'Nếu không có mục đích sống, bạn sẽ không bao giờ có thể thực sự trở nên giàu có về mặt tiền bạc'?",
+      "question": "Tại sao Keller khẳng định: 'Nếu không có mục đích sống, bạn sẽ không bao giờ có thể thực sự trở nên giàu có'?",
       "options": [
-        "Vì các ngân hàng từ chối cấp tín dụng cho những người không có tuyên ngôn sứ mệnh cá nhân.",
-        "Vì vũ trụ sẽ trừng phạt những người chỉ biết tích lũy tiền bạc bằng cách tước đoạt tài sản của họ.",
-        "Vì thiếu mục đích sống đóng vai trò là 'chiếc mỏ neo', thước đo lòng tham sẽ liên tục tịnh tiến ra xa; bất kể kiếm được bao nhiêu tiền, bạn vẫn luôn cảm thấy thiếu thốn, bất an và tiếp tục làm nô lệ cho việc kiếm tiền.",
-        "Vì luật pháp quốc tế quy định việc sở hữu tài sản lớn phải đi kèm với các hoạt động từ thiện bắt buộc."
+        "Vì thiếu mục đích sống khiến thước đo lòng tham liên tục tịnh tiến; bạn luôn cảm thấy thiếu thốn và làm nô lệ cho tiền.",
+        "Vì các ngân hàng từ chối cấp tín dụng cho những người không có tuyên ngôn sứ mệnh cá nhân rõ ràng trong hồ sơ vay vốn.",
+        "Vì vũ trụ sẽ trừng phạt những người chỉ biết tích lũy tiền bạc bằng cách tước đoạt tài sản của họ qua các biến cố lớn.",
+        "Vì luật pháp quốc tế quy định việc sở hữu tài sản lớn phải đi kèm với các hoạt động từ thiện bắt buộc cho cộng đồng nghèo."
       ],
-      "correctIndex": 2,
-      "explanation": "Keller lập luận: Không có mục đích, bạn sẽ không biết khi nào là 'đủ'. Bạn rơi vào bẫy so sánh và khao khát vô tận của chiếc bát ăn xin: 1 triệu muốn 5 triệu, 5 triệu muốn 10 triệu. Cảm giác giàu có thực sự (tự do tài chính phục vụ lý tưởng) không bao giờ xuất hiện. C phân tích trúng căn nguyên tâm lý; A, B, D là các lý do phi thực tế hoặc mê tín.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Không có mục đích, bạn sẽ không biết khi nào là đủ. Bạn rơi vào bẫy so sánh và khao khát vô tận, không bao giờ cảm thấy thỏa mãn."
     },
     {
       "id": "q6",
-      "question": "Chân lý: 'Hạnh phúc xuất hiện trên hành trình đi tìm sự viên mãn' (Happiness happens on the way to fulfillment) bác bỏ cái bẫy tư duy phổ biến nào của con người hiện đại?",
+      "question": "Chân lý 'Hạnh phúc xuất hiện trên hành trình đi tìm sự viên mãn' bác bỏ cái bẫy tư duy nào của con người hiện đại?",
       "options": [
-        "Bác bỏ quan điểm cho rằng con người cần phải có sức khỏe tốt thì mới có thể sống vui vẻ.",
-        "Bác bỏ việc học tập và trau dồi tri thức sau khi đã tốt nghiệp đại học.",
-        "Bác bỏ tầm quan trọng của gia đình và bạn bè trong việc hỗ trợ tinh thần cho cá nhân.",
-        "Bác bỏ ảo tưởng 'hạnh phúc là một trạm dừng chân tĩnh tại trong tương lai' – cái bẫy tin rằng 'khi tôi có được X (nhà, xe, tiền, danh vọng), tôi mới bắt đầu hạnh phúc', để rồi nhận ra cảm giác đó biến mất ngay khi đạt được."
+        "Bác bỏ quan điểm cho rằng con người cần phải có sức khỏe tốt thì mới có thể sống vui vẻ và làm việc hiệu quả mỗi ngày.",
+        "Bác bỏ ảo tưởng hạnh phúc là trạm dừng chân tương lai; cái bẫy tin rằng khi có được X, tôi mới bắt đầu thấy hạnh phúc.",
+        "Bác bỏ việc học tập và trau dồi tri thức sau khi đã tốt nghiệp đại học vì cho rằng đó là giai đoạn kết thúc của sự học.",
+        "Bác bỏ tầm quan trọng của gia đình và bạn bè trong việc hỗ trợ tinh thần cho cá nhân trên con đường chinh phục sự nghiệp."
       ],
-      "correctIndex": 3,
-      "explanation": "Con người thường trì hoãn hạnh phúc: 'Khi nào kiếm đủ tiền tôi sẽ hạnh phúc'. Nhưng tâm lý học chứng minh hiện tượng thích nghi khoái lạc (hedonic adaptation) khiến niềm vui vật chất tan biến nhanh chóng. Hạnh phúc thực sự nằm ở chính quá trình dấn thân, cống hiến từng ngày vì một sứ mệnh có ý nghĩa. D giải thích sâu sắc quy luật này; A, B, C sai lệch chủ đề.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Con người thường trì hoãn hạnh phúc. Nhưng tâm lý học chứng minh sự thích nghi khoái lạc khiến niềm vui vật chất tan biến nhanh chóng."
     },
     {
       "id": "q7",
-      "question": "Tình huống: Một chuyên gia tài chính kiếm được 300.000 USD mỗi năm, sở hữu biệt thự và xe sang nhưng luôn rơi vào khủng hoảng hiện sinh (existential crisis) và cảm thấy cuộc đời trống rỗng. Dưới góc nhìn chương 13, giải pháp căn cơ cho người này là gì?",
+      "question": "Giải pháp căn cơ cho một người giàu có nhưng luôn cảm thấy cuộc đời trống rỗng là gì theo chương 13?",
       "options": [
-        "Dừng việc tìm kiếm thêm niềm vui từ việc tích lũy của cải; xác định lại 'Câu hỏi lớn Tại sao?' (The Big Why) để tìm ra mục đích sống phụng sự một điều lớn lao hơn bản thân, từ đó dùng tài năng và tài chính của mình làm phương tiện tạo ra giá trị ý nghĩa.",
-        "Bán hết tài sản và chuyển đến sống ẩn dật ở một hòn đảo hoang không có sóng điện thoại.",
-        "Chuyển sang một công ty tài chính khác có mức lương thưởng cao hơn 500.000 USD để tìm lại động lực làm việc.",
-        "Tham gia các trò chơi thể thao mạo hiểm có nguy cơ tử vong cao để tìm kiếm cảm giác hưng phấn cực độ."
+        "Bán hết tài sản và chuyển đến sống ẩn dật ở một hòn đảo hoang không có sóng điện thoại để tìm lại sự bình yên trong tâm hồn.",
+        "Chuyển sang một công ty tài chính khác có mức lương thưởng cao hơn gấp đôi để tìm lại động lực làm việc và sự hưng phấn.",
+        "Xác định lại câu hỏi lớn Tại sao để tìm mục đích sống phụng sự điều lớn lao hơn, dùng tài chính làm phương tiện tạo giá trị.",
+        "Tham gia các trò chơi thể thao mạo hiểm có nguy cơ tử vong cao để tìm kiếm cảm giác hưng phấn cực độ và quên đi nỗi buồn."
       ],
-      "correctIndex": 0,
-      "explanation": "Vấn đề của chuyên gia này không phải là thiếu tiền, mà là chiếc bát ăn xin của tâm trí: lấy việc tích lũy làm mục đích. Khi đạt đỉnh cao vật chất mà thiếu ý nghĩa (Meaning) và sự gắn bó (Engagement), tâm hồn sẽ chết mòn. Giải pháp duy nhất là tìm lại Mục đích sống (The Big Why) để chuyển hóa năng lực sang phụng sự giá trị. A là con đường cứu rỗi chuẩn xác; B trốn chạy; C lún sâu vào bẫy cũ; D tìm cảm giác mạnh tạm bợ.",
-      "difficulty": "hard"
+      "correctIndex": 2,
+      "explanation": "Vấn đề là chiếc bát ăn xin của tâm trí. Khi đạt đỉnh cao vật chất mà thiếu ý nghĩa, tâm hồn sẽ chết mòn. Cần tìm lại mục đích sống."
     },
     {
       "id": "q8",
-      "question": "Trong những giai đoạn nghịch cảnh tăm tối, thất bại trong sự nghiệp hoặc mất mát người thân, Mục đích sống đóng vai trò là 'chất keo kết dính' (the glue) như thế nào?",
+      "question": "Trong những giai đoạn nghịch cảnh tăm tối, Mục đích sống đóng vai trò là 'chất keo kết dính' như thế nào?",
       "options": [
-        "Giúp con người quên đi toàn bộ ký ức đau buồn bằng cách xóa trắng tâm trí.",
-        "Cung cấp sức mạnh của niềm tin và sự kiên trì bền bỉ, mang lại lý do đủ lớn để chịu đựng nghịch cảnh và tiếp tục vững bước trên con đường đã chọn thay vì gục ngã buông xuôi.",
-        "Tự động thu hút các nguồn vốn viện trợ tài chính khẩn cấp từ các quỹ nhân đạo quốc tế.",
-        "Giúp người đó miễn nhiễm với mọi cơn đau thể xác và bệnh tật nan y."
+        "Giúp con người quên đi toàn bộ ký ức đau buồn bằng cách xóa trắng tâm trí và bắt đầu lại từ đầu như một tờ giấy trắng tinh.",
+        "Tự động thu hút các nguồn vốn viện trợ tài chính khẩn cấp từ các quỹ nhân đạo quốc tế để giải quyết các vấn đề khó khăn.",
+        "Giúp người đó miễn nhiễm với mọi cơn đau thể xác và bệnh tật nan y nhờ vào sự tập trung cao độ của tinh thần vào mục tiêu.",
+        "Cung cấp sức mạnh niềm tin và sự kiên trì, mang lại lý do đủ lớn để chịu đựng nghịch cảnh và tiếp tục vững bước trên con đường."
       ],
-      "correctIndex": 1,
-      "explanation": "Keller viết: 'Mục đích là con đường dẫn thẳng đến sức mạnh cá nhân... Mục đích cũng hỗ trợ bạn khi mọi thứ không được như ý muốn... cung cấp chất keo kết dính giúp bạn gắn chặt vào con đường đã chọn.' Giống như câu nói nổi tiếng của Nietzsche: 'Người có một lý do để sống có thể chịu đựng được hầu như mọi nghịch cảnh.' B thể hiện trọn vẹn sức mạnh này; A, C, D phi thực tế.",
-      "difficulty": "medium"
+      "correctIndex": 3,
+      "explanation": "Mục đích là con đường dẫn thẳng đến sức mạnh cá nhân, giúp bạn gắn chặt vào con đường đã chọn dù cuộc sống có đầy rẫy khó khăn."
     },
     {
       "id": "q9",
-      "question": "Khi một người cảm thấy bế tắc vì chưa tìm thấy một 'Mục đích vĩ đại thay đổi thế giới', Keller đưa ra lời khuyên thực tế nào để giải phóng họ khỏi sự tê liệt?",
+      "question": "Khi bế tắc vì chưa tìm thấy mục đích vĩ đại, Keller đưa ra lời khuyên thực tế nào để giải phóng sự tê liệt?",
       "options": [
-        "Ngừng mọi hoạt động làm việc và suy ngẫm cho đến khi có một đấng tối cao mách bảo trong giấc mơ.",
-        "Sao chép nguyên văn mục đích sống của một danh nhân lịch sử như Steve Jobs hay Albert Einstein.",
-        " 'Thiếu một câu trả lời lớn, hãy chọn một hướng đi': hãy viết ra điều quan trọng nhất bạn muốn hướng đến hiện tại, bước những bước đầu tiên để trải nghiệm; thời gian và hành động sẽ làm sáng tỏ mục đích và bạn luôn có thể điều chỉnh sau này.",
-        "Thừa nhận bản thân là người tầm thường và từ bỏ hoàn toàn việc tìm kiếm mục đích sống."
+        "Thiếu một câu trả lời lớn, hãy chọn một hướng đi; viết ra điều quan trọng nhất muốn hướng đến và bước những bước đầu tiên.",
+        "Ngừng mọi hoạt động làm việc và suy ngẫm trong thời gian dài cho đến khi có một đấng tối cao mách bảo trong giấc mơ của bạn.",
+        "Sao chép nguyên văn mục đích sống của một danh nhân lịch sử như Steve Jobs hay Albert Einstein để áp dụng vào cuộc đời mình.",
+        "Thừa nhận bản thân là người tầm thường và từ bỏ hoàn toàn việc tìm kiếm mục đích sống để sống một cuộc đời bình lặng hơn."
       ],
-      "correctIndex": 2,
-      "explanation": "Keller trấn an người đọc: 'Mục đích nghe có vẻ nặng nề, nhưng không phải vậy... Thiếu một câu trả lời, hãy chọn một hướng đi... Dẫn bước rồi bạn sẽ thấy mình thích nó đến nhường nào. Thời gian sẽ làm rõ mọi thứ, và nếu bạn thấy mình không thích, bạn luôn có thể thay đổi.' C phá vỡ sự tê liệt hoàn hảo chủ nghĩa; A mê tín thụ động; B sao chép sáo rỗng; D buông xuôi tự ti.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Mục đích nghe có vẻ nặng nề nhưng không phải vậy. Hãy chọn một hướng đi, dẫn bước rồi thời gian và hành động sẽ làm sáng tỏ mọi thứ."
     },
     {
       "id": "q10",
-      "question": "Phân tích sự khác biệt về bản chất đạo đức và kết quả kinh doanh giữa hai triết lý: 'Dùng con người để kiếm tiền' vs 'Dùng tiền để phục vụ con người'?",
+      "question": "Sự khác biệt giữa triết lý 'Dùng con người để kiếm tiền' và 'Dùng tiền để phục vụ con người' là gì?",
       "options": [
-        "'Dùng con người để kiếm tiền' giúp doanh nghiệp niêm yết cổ phiếu nhanh hơn trên sàn chứng khoán.",
-        "'Dùng tiền để phục vụ con người' là triết lý phi lợi nhuận của các tổ chức từ thiện, không áp dụng được cho doanh nghiệp thương mại.",
-        "Hai triết lý này thực chất là một, chỉ khác nhau ở cách thức truyền thông quan hệ công chúng (PR).",
-        "'Dùng con người để kiếm tiền' biến con người thành công cụ tiêu hao, dẫn đến văn hóa bóc lột và sụp đổ lòng tin; 'Dùng tiền để phục vụ con người' coi sự phát triển của con người là mục đích tối thượng và tiền là nhiên liệu, tạo ra sự trung thành, sáng tạo và thành công bền vững."
+        "Dùng con người để kiếm tiền giúp doanh nghiệp niêm yết cổ phiếu nhanh hơn trên sàn chứng khoán so với các mô hình kinh doanh khác.",
+        "Dùng con người làm công cụ dẫn đến bóc lột; dùng tiền phục vụ con người tạo ra sự trung thành, sáng tạo và thành công bền vững.",
+        "Dùng tiền để phục vụ con người là triết lý phi lợi nhuận của các tổ chức từ thiện, không áp dụng được cho doanh nghiệp thương mại.",
+        "Hai triết lý này thực chất là một, chỉ khác nhau ở cách thức truyền thông quan hệ công chúng để xây dựng hình ảnh thương hiệu."
       ],
-      "correctIndex": 3,
-      "explanation": "Sự chuyển hóa của Scrooge chính là minh chứng cho sự đảo chiều này. Khi tiền là mục đích, con người bị vắt kiệt. Khi con người là mục đích, tiền trở thành đòn bẩy phục vụ cuộc sống tốt đẹp hơn. Doanh nghiệp phụng sự con người luôn xây dựng được lợi thế cạnh tranh bền vững nhất. D phân tích toàn diện và sâu sắc; A, B, C sai lệch đạo đức và thực tiễn.",
-      "difficulty": "hard"
+      "correctIndex": 1,
+      "explanation": "Khi tiền là mục đích, con người bị vắt kiệt. Khi con người là mục đích, tiền trở thành đòn bẩy phục vụ cuộc sống tốt đẹp hơn."
     },
     {
       "id": "q11",
-      "question": "'Câu hỏi lớn Tại sao?' (The Big Why) trong chương 13 được hiểu như thế nào và làm sao để nhận diện nó?",
+      "question": "Câu hỏi lớn Tại sao (The Big Why) trong chương 13 được hiểu như thế nào và làm sao để nhận diện nó?",
       "options": [
-        "Là lý do cốt lõi sâu xa nhất khiến bạn hào hứng thức dậy mỗi buổi sáng và là ngọn lửa giữ bạn kiên trì đến cùng khi mệt mỏi; nó vượt lên trên những lợi ích vật chất thông thường để chạm tới đam mê cống hiến.",
-        "Là câu hỏi tra vấn cấp dưới mỗi khi dự án gặp sự cố trễ hạn hoàn thành.",
-        "Là chiến lược quảng cáo thương hiệu nhằm thuyết phục khách hàng mua các sản phẩm tồn kho.",
-        "Là công thức toán học dùng để tính toán điểm hòa vốn của một cơ sở sản xuất mới."
+        "Là câu hỏi tra vấn cấp dưới mỗi khi dự án gặp sự cố trễ hạn hoàn thành để tìm ra nguyên nhân gây ra sai sót trong quy trình.",
+        "Là chiến lược quảng cáo thương hiệu nhằm thuyết phục khách hàng mua các sản phẩm tồn kho lâu ngày trong kho của doanh nghiệp.",
+        "Là lý do cốt lõi khiến bạn hào hứng thức dậy mỗi sáng và là ngọn lửa giữ bạn kiên trì đến cùng khi mệt mỏi trong công việc.",
+        "Là công thức toán học dùng để tính toán điểm hòa vốn của một cơ sở sản xuất mới trước khi quyết định đầu tư vốn vào dự án."
       ],
-      "correctIndex": 0,
-      "explanation": "Keller định nghĩa: 'Khám phá câu hỏi lớn Tại sao? Khám phá mục đích sống của bạn bằng cách tự hỏi điều gì thúc đẩy bạn. Điều gì khiến bạn thức dậy mỗi sáng và giúp bạn luôn kiên trì đến cùng khi mệt mỏi?... Đó là lý do bạn háo hức với cuộc sống và làm những gì bạn đang làm.' A phản ánh đúng định nghĩa; B, C, D là các liên tưởng sai lệch.",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Đó là lý do bạn háo hức với cuộc sống và làm những gì bạn đang làm. Nó vượt lên trên những lợi ích vật chất thông thường."
     },
     {
       "id": "q12",
-      "question": "Tình huống lãnh đạo: Một CEO tuyên bố: 'Mục đích duy nhất của công ty chúng ta là đạt doanh thu 1 tỷ USD và tối đa hóa lợi nhuận cho các cổ đông'. Tại sao tuyên bố này là một thất bại về mặt xác lập Mục đích theo Gary Keller?",
+      "question": "Tại sao tuyên bố 'Mục đích duy nhất là đạt doanh thu 1 tỷ USD' là một thất bại về mặt xác lập Mục đích?",
       "options": [
-        "Vì 1 tỷ USD là con số quá nhỏ đối với một tập đoàn đa quốc gia hiện đại.",
-        "Vì tiền bạc và lợi nhuận chỉ là kết quả đầu ra (bề nổi hữu hình) chứ không thể đóng vai trò là Mục đích truyền cảm hứng (bề chìm); một mục đích đích thực phải xuất phát từ giá trị giải quyết vấn đề cho khách hàng và nâng tầm cuộc sống con người.",
-        "Vì luật lao động cấm các công ty công khai mục tiêu tài chính cho nhân viên bình thường biết.",
-        "Vì cổ đông không bao giờ quan tâm đến việc công ty có đạt doanh thu 1 tỷ USD hay không."
+        "Vì một tỷ đô la là con số quá nhỏ đối với một tập đoàn đa quốc gia hiện đại đang muốn mở rộng thị phần trên toàn cầu hiện nay.",
+        "Vì luật lao động cấm các công ty công khai mục tiêu tài chính cho nhân viên bình thường biết để tránh gây áp lực lên tâm lý.",
+        "Vì cổ đông không bao giờ quan tâm đến việc công ty có đạt doanh thu một tỷ đô la hay không mà chỉ quan tâm đến cổ tức thôi.",
+        "Vì tiền bạc chỉ là kết quả đầu ra chứ không thể là mục đích truyền cảm hứng; mục đích phải giải quyết vấn đề cho con người."
       ],
-      "correctIndex": 1,
-      "explanation": "Như Keller đã chỉ ra trong câu chuyện Scrooge và mô hình tảng băng: Lợi nhuận và doanh thu là kết quả, không phải mục đích sống. Tuyên bố lấy tiền làm mục đích chỉ tạo ra chiếc bát ăn xin của doanh nghiệp, không khơi gợi được sự gắn bó và cống hiến tâm huyết từ nhân viên. B chỉ rõ sự nhầm lẫn giữa phương tiện và cùng đích; A, C, D là các lý lẽ ngụy biện.",
-      "difficulty": "hard"
+      "correctIndex": 3,
+      "explanation": "Lợi nhuận là kết quả, không phải mục đích sống. Tuyên bố lấy tiền làm mục đích chỉ tạo ra chiếc bát ăn xin, không khơi gợi được sự gắn bó."
     },
     {
       "id": "q13",
-      "question": "Câu nói nổi tiếng của George Bernard Shaw được Keller trích dẫn: 'Cuộc sống không phải là cuộc hành trình tìm kiếm bản thân. Nó là khả năng tạo ra chính mình.' Ý nghĩa triết học của câu nói này đối với việc thiết lập Mục đích sống là gì?",
+      "question": "Ý nghĩa triết học của câu nói 'Cuộc sống không phải là tìm kiếm bản thân, mà là tạo ra chính mình' là gì?",
       "options": [
-        "Bạn phải chi nhiều tiền cho các khóa học giải mã bản thân qua sinh trắc vân tay hay chiêm tinh học.",
-        "Bạn không cần phải chịu trách nhiệm về những sai lầm trong quá khứ của mình.",
-        "Mục đích sống không phải là một kho báu bí mật bị chôn giấu ở đâu đó chờ bạn tình cờ 'nhặt được', mà là một công trình do chính bạn chủ động lựa chọn, kiến tạo và cam kết xây dựng thông qua những quyết định mỗi ngày.",
-        "Bản chất con người là cố định bất biến từ khi sinh ra và không thể thay đổi được."
+        "Mục đích sống không phải kho báu bị chôn giấu chờ nhặt được, mà là công trình do bạn chủ động lựa chọn và kiến tạo mỗi ngày.",
+        "Bạn phải chi nhiều tiền cho các khóa học giải mã bản thân qua sinh trắc vân tay hay chiêm tinh học để tìm ra sứ mệnh cuộc đời.",
+        "Bạn không cần phải chịu trách nhiệm về những sai lầm trong quá khứ của mình vì bản thân bạn luôn thay đổi theo từng thời kỳ.",
+        "Bản chất con người là cố định bất biến từ khi sinh ra và không thể thay đổi được dù bạn có cố gắng nỗ lực đến mức nào đi nữa."
       ],
-      "correctIndex": 2,
-      "explanation": "Rất nhiều người thụ động ngồi chờ 'tìm thấy bản thân' hoặc 'giác ngộ sứ mệnh'. Shaw và Keller khẳng định: Chúng ta là người thợ điêu khắc chính cuộc đời mình. Mục đích được sinh ra từ hành động, sự lựa chọn và cam kết tạo tác bản thân. C giải thích xuất sắc triết lý này; A mê tín dị đoan; B trốn tránh trách nhiệm; D thuyết tiền định sai lầm.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Chúng ta là người thợ điêu khắc chính cuộc đời mình. Mục đích được sinh ra từ hành động, sự lựa chọn và cam kết tạo tác bản thân."
     },
     {
       "id": "q14",
-      "question": "Mối liên hệ nhân quả giữa 'Sống có mục đích' và 'Tốc độ ra quyết định' (Decision-making speed) trong thực tế diễn ra như thế nào?",
+      "question": "Mối liên hệ nhân quả giữa 'Sống có mục đích' và 'Tốc độ ra quyết định' trong thực tế diễn ra như thế nào?",
       "options": [
-        "Khi mục đích đã rõ ràng, nó đóng vai trò như một bộ lọc tối thượng loại bỏ ngay lập tức 99% các cơ hội gây phân tâm; người có mục đích không tốn năng lượng đắn đo mà đưa ra các quyết định chuẩn xác với tốc độ phi thường.",
-        "Sống có mục đích khiến con người phải tổ chức nhiều cuộc họp hơn nên tốc độ ra quyết định sẽ chậm đi đáng kể.",
-        "Người có mục đích không bao giờ cần phải đưa ra quyết định vì mọi việc đã được lập trình sẵn.",
-        "Tốc độ ra quyết định chỉ phụ thuộc vào cấu hình phần cứng của hệ thống máy chủ máy tính."
+        "Sống có mục đích khiến con người phải tổ chức nhiều cuộc họp hơn nên tốc độ ra quyết định sẽ chậm đi đáng kể so với bình thường.",
+        "Khi mục đích rõ ràng, nó lọc bỏ các cơ hội gây phân tâm; người có mục đích không tốn năng lượng đắn đo mà quyết định nhanh.",
+        "Người có mục đích không bao giờ cần phải đưa ra quyết định vì mọi việc đã được lập trình sẵn theo một kế hoạch hoàn hảo nhất.",
+        "Tốc độ ra quyết định chỉ phụ thuộc vào cấu hình phần cứng của hệ thống máy chủ máy tính mà bạn đang sử dụng để quản lý công việc."
       ],
-      "correctIndex": 0,
-      "explanation": "Keller viết: 'Khi đã xác định được mục đích sống, mục tiêu rõ ràng sẽ nhanh chóng xuất hiện, hướng đi trở nên thuyết phục hơn và do đó các quyết định cũng nhanh chóng được đưa ra. Khi đó, bạn sẽ có được những lựa chọn tốt nhất...' Sự rõ ràng về mục đích triệt tiêu sự lưỡng lự phân vân. A nắm vững quy luật này; B, C, D sai lệch hoàn toàn.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Sự rõ ràng về mục đích triệt tiêu sự lưỡng lự phân vân. Khi đã xác định được mục đích, hướng đi trở nên thuyết phục hơn."
     },
     {
       "id": "q15",
-      "question": "Tự bạch của Gary Keller về mục đích sống của đời mình: 'Mục đích của tôi là giúp mọi người sống cuộc sống ý nghĩa nhất có thể thông qua sự giảng dạy, huấn luyện và các tác phẩm của tôi.' Nhận định nào sau đây phân tích đúng đắn nhất về cấu trúc mục đích của ông?",
+      "question": "Nhận định nào phân tích đúng đắn nhất về cấu trúc mục đích sống của Gary Keller trong chương này?",
       "options": [
-        "Keller coi việc viết sách và kiếm tiền bản quyền là mục tiêu tối thượng của sự nghiệp.",
-        "Ông xác định rõ đối tượng phụng sự (mọi người), giá trị mang lại (sống cuộc sống ý nghĩa nhất) và các phương tiện đòn bẩy hành động nhất quán trong 30 năm (giảng dạy, huấn luyện, viết sách).",
-        "Keller khuyên tất cả mọi người trên thế giới đều nên bỏ việc để trở thành giáo viên và tác giả sách.",
-        "Mục đích của ông hoàn toàn mang tính lý thuyết suông và không mang lại bất kỳ kết quả kinh doanh nào cho Keller Williams Realty."
+        "Keller coi việc viết sách và kiếm tiền bản quyền là mục tiêu tối thượng của sự nghiệp để đạt được sự tự do tài chính cá nhân.",
+        "Ông khuyên tất cả mọi người trên thế giới đều nên bỏ việc để trở thành giáo viên và tác giả sách giống như ông đã từng làm.",
+        "Ông xác định rõ đối tượng phụng sự, giá trị mang lại và các phương tiện đòn bẩy hành động nhất quán trong suốt ba mươi năm.",
+        "Mục đích của ông hoàn toàn mang tính lý thuyết suông và không mang lại bất kỳ kết quả kinh doanh nào cho công ty bất động sản."
       ],
-      "correctIndex": 1,
-      "explanation": "Tuyên ngôn mục đích của Keller là một ví dụ mẫu mực: có đích đến rõ ràng (giúp người khác sống ý nghĩa) và có phương tiện đòn bẩy cốt lõi (The ONE Thing: dạy học, viết lách) được ông kiên trì thực hiện suốt 30 năm, tạo nền tảng cho sự thành công khổng lồ của đế chế bất động sản của ông. B phân tích trọn vẹn cấu trúc này; A vụ lợi thiển cận; C áp đặt cực đoan; D phủ nhận thành tựu thực tế.",
-      "difficulty": "hard"
+      "correctIndex": 2,
+      "explanation": "Tuyên ngôn của Keller là mẫu mực: có đích đến rõ ràng và có phương tiện đòn bẩy cốt lõi được ông kiên trì thực hiện suốt 30 năm."
     }
   ]
 }

@@ -8,178 +8,178 @@
       "id": "q1",
       "question": "Trong bối cảnh bài học, hành động của Tristan Unsworth đại diện cho khái niệm nào trong tư duy lãnh đạo hiện đại?",
       "options": [
-        "Khả năng ứng biến tình huống dựa trên kiến thức kỹ thuật",
-        "Tư duy 'lãnh đạo không chức danh' - sẵn sàng hành động khi cần thiết",
-        "Trách nhiệm xã hội bắt buộc của một cá nhân trong cộng đồng",
-        "Phản xạ tự nhiên của một người được giáo dục về kỹ năng sinh tồn"
+        "Tư duy lãnh đạo không chức danh, sẵn sàng hành động và chịu trách nhiệm cá nhân trong mọi tình huống khẩn cấp.",
+        "Khả năng ứng biến tình huống dựa trên kiến thức kỹ thuật chuyên sâu được đào tạo bài bản trong môi trường học đường.",
+        "Trách nhiệm xã hội bắt buộc của một cá nhân trong cộng đồng khi đối mặt với các rủi ro đe dọa đến tính mạng người khác.",
+        "Phản xạ tự nhiên của một cá nhân đã được giáo dục kỹ lưỡng về các kỹ năng sinh tồn cơ bản trong môi trường giáo dục."
       ],
-      "correctIndex": 1,
-      "explanation": "Lãnh đạo không chức danh không nằm ở quyền lực mà nằm ở sự chủ động chịu trách nhiệm. Tristan dù là học sinh vẫn trở thành người lãnh đạo tình huống nhờ tri thức và lòng can đảm, xóa bỏ giới hạn về độ tuổi hay địa vị."
+      "correctIndex": 0,
+      "explanation": "Lãnh đạo không chức danh không nằm ở quyền lực mà ở sự chủ động chịu trách nhiệm. Tristan dù là học sinh vẫn trở thành người lãnh đạo tình huống nhờ tri thức và lòng can đảm, xóa bỏ giới hạn về độ tuổi hay địa vị."
     },
     {
       "id": "q2",
       "question": "Tác giả cho rằng 'sự vĩ đại có trong mỗi người chúng ta'. Rào cản lớn nhất khiến con người không thể 'tỏa sáng' là gì?",
       "options": [
-        "Thiếu cơ hội và môi trường thuận lợi để bộc lộ",
-        "Sự sợ hãi về việc phải chịu trách nhiệm lớn hơn",
-        "Sự tự che giấu hoặc lãng quên bản chất tiềm năng của chính mình",
-        "Sự chênh lệch về năng lực bẩm sinh giữa các cá nhân"
+        "Thiếu hụt cơ hội và môi trường thuận lợi để bộc lộ năng lực cá nhân trong các tổ chức hoặc cộng đồng hiện đại ngày nay.",
+        "Sự tự che giấu hoặc lãng quên bản chất tiềm năng của chính mình do những rào cản tâm lý tự đặt ra trong cuộc sống.",
+        "Sự sợ hãi về việc phải chịu trách nhiệm lớn hơn khi bước ra khỏi vùng an toàn để thực hiện những mục tiêu cao cả hơn.",
+        "Sự chênh lệch về năng lực bẩm sinh giữa các cá nhân khiến một số người không thể đạt được sự vĩ đại như người khác."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Bẫy tư duy thường thấy là đổ lỗi cho ngoại cảnh. Tác giả nhấn mạnh rằng sự vĩ đại bị 'chôn vùi' bởi chính tư duy hạn hẹp của cá nhân khi quên mất giá trị cốt lõi của mình."
     },
     {
       "id": "q3",
       "question": "Tại sao tác giả lại trích dẫn sự khiêm tốn của Tristan làm ví dụ cho sự vĩ đại?",
       "options": [
-        "Để khẳng định rằng người hùng thật sự thường không phô trương",
-        "Để đối lập với thói quen muốn khẳng định bản thân của nhiều người",
-        "Để làm giảm bớt tính nghiêm trọng của hành động cứu người",
-        "Để nhấn mạnh rằng sự nổi bật không cần phải đi kèm với sự công nhận xã hội"
+        "Để đối lập với thói quen muốn khẳng định bản thân của nhiều người trong xã hội hiện đại đầy rẫy sự cạnh tranh gay gắt.",
+        "Để làm giảm bớt tính nghiêm trọng của hành động cứu người nhằm giúp độc giả cảm thấy sự vĩ đại là điều dễ thực hiện.",
+        "Để khẳng định rằng người hùng thật sự không cần phô trương mà tập trung vào việc tạo ra giá trị thực cho cộng đồng.",
+        "Để nhấn mạnh rằng sự nổi bật không cần phải đi kèm với sự công nhận từ xã hội hay các danh hiệu cao quý của tổ chức."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự vĩ đại đích thực không cần hào quang. Người tầm thường hay phô trương cái tôi, còn người vĩ đại tập trung vào việc tạo ra giá trị, hành động của họ là sự tự nhiên của bản chất tốt đẹp."
     },
     {
       "id": "q4",
       "question": "Nếu áp dụng tư duy của chương này vào công sở, 'trở nên nổi bật' được hiểu như thế nào là đúng nhất?",
       "options": [
-        "Trở thành người giỏi nhất trong các kỹ năng chuyên môn",
-        "Chủ động nhận trách nhiệm và giải quyết các vấn đề tồn đọng mà người khác né tránh",
-        "Luôn nổi bật trong các buổi họp để cấp trên ghi nhận",
-        "Xây dựng mạng lưới quan hệ rộng khắp để tạo tầm ảnh hưởng"
+        "Trở thành người giỏi nhất trong các kỹ năng chuyên môn để khẳng định vị thế của mình trong mắt cấp trên và đồng nghiệp.",
+        "Luôn nổi bật trong các buổi họp quan trọng để cấp trên ghi nhận năng lực và tạo đà cho sự thăng tiến trong sự nghiệp.",
+        "Xây dựng mạng lưới quan hệ rộng khắp để tạo tầm ảnh hưởng cá nhân và gia tăng quyền lực trong môi trường làm việc chung.",
+        "Chủ động nhận trách nhiệm và giải quyết các vấn đề tồn đọng mà những người khác thường có xu hướng né tránh thực hiện."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Nổi bật không phải để gây chú ý, mà là để tạo ra sự thay đổi. Khi bạn giải quyết được nỗi đau của tổ chức (như Tristan cứu người), bạn tự nhiên trở thành người hùng."
     },
     {
       "id": "q5",
       "question": "Sự khác biệt cốt lõi giữa một người bình thường và một 'người hùng' trong quan điểm của tác giả nằm ở đâu?",
       "options": [
-        "Tốc độ phản ứng với các tình huống khẩn cấp",
-        "Sự sẵn sàng trang bị kiến thức hữu ích cho đời sống",
-        "Khả năng kiểm soát nỗi sợ để hành động dựa trên giá trị",
-        "Trình độ học vấn và nền tảng gia đình"
+        "Khả năng kiểm soát nỗi sợ để hành động dựa trên giá trị cá nhân thay vì bị tê liệt bởi các tình huống ngặt nghèo.",
+        "Tốc độ phản ứng nhanh nhạy với các tình huống khẩn cấp đòi hỏi sự quyết đoán và kỹ năng xử lý vấn đề cực kỳ chính xác.",
+        "Sự sẵn sàng trang bị kiến thức hữu ích cho đời sống để có thể ứng phó kịp thời với những biến cố bất ngờ xảy ra.",
+        "Trình độ học vấn cao và nền tảng gia đình vững chắc giúp cá nhân có đủ bản lĩnh để đối mặt với những thử thách lớn."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Trong tình huống ngặt nghèo, đa số mọi người bị tê liệt bởi nỗi sợ. Người hùng vượt lên trên nỗi sợ nhờ định hướng giá trị cá nhân (cứu người quan trọng hơn nỗi sợ bị sai)."
     },
     {
       "id": "q6",
       "question": "Việc Tristan chuẩn bị kiến thức sơ cứu từ trước nói lên điều gì về quá trình phát triển bản thân?",
       "options": [
-        "Thành công là kết quả của sự chuẩn bị kỹ lưỡng trước khi thời cơ đến",
-        "Chúng ta nên học mọi thứ để đề phòng rủi ro",
-        "Tri thức học thuật là không đủ nếu thiếu kỹ năng thực hành",
-        "Sự vĩ đại bắt nguồn từ việc thừa hưởng giáo dục từ gia đình"
+        "Chúng ta nên học hỏi mọi thứ để đề phòng rủi ro có thể xảy ra bất cứ lúc nào trong cuộc sống đầy biến động hiện nay.",
+        "Thành công là kết quả của sự chuẩn bị kỹ lưỡng về kiến thức và giá trị trước khi thời cơ hoặc nghịch cảnh ập đến.",
+        "Tri thức học thuật là không đủ nếu thiếu kỹ năng thực hành để áp dụng vào các tình huống thực tế trong đời sống hàng ngày.",
+        "Sự vĩ đại bắt nguồn từ việc thừa hưởng nền giáo dục tốt từ gia đình và nhà trường trong suốt quá trình trưởng thành."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Sự vĩ đại không phải là ngẫu hứng, nó là sự tích lũy kiến thức và giá trị trong thời gian dài để sẵn sàng ứng biến khi cơ hội (hoặc nghịch cảnh) ập đến."
     },
     {
       "id": "q7",
-      "question": "Tại sao tác giả liệt kê hàng loạt nghề nghiệp (doanh nhân, thầy giáo, học sinh...) trong các quốc gia khác nhau?",
+      "question": "Tại sao tác giả liệt kê hàng loạt nghề nghiệp trong các quốc gia khác nhau khi nói về sự vĩ đại?",
       "options": [
-        "Để chứng minh cuốn sách của ông có sức ảnh hưởng toàn cầu",
-        "Để nhấn mạnh rằng sự vĩ đại không phụ thuộc vào văn hóa hay tầng lớp kinh tế",
-        "Để thu hút độc giả từ nhiều quốc gia khác nhau",
-        "Để chỉ ra rằng mỗi người đều có nhiệm vụ riêng biệt trong xã hội"
+        "Để chứng minh cuốn sách của ông có sức ảnh hưởng toàn cầu và được đón nhận bởi độc giả từ nhiều quốc gia khác nhau.",
+        "Để thu hút độc giả từ nhiều quốc gia khác nhau bằng cách tạo ra sự gần gũi thông qua các ví dụ về nghề nghiệp quen.",
+        "Để nhấn mạnh rằng sự vĩ đại là tư duy phổ quát, không phụ thuộc vào văn hóa, địa lý hay tầng lớp kinh tế của cá nhân.",
+        "Để chỉ ra rằng mỗi người đều có nhiệm vụ riêng biệt trong xã hội và cần phải hoàn thành tốt vai trò của mình mỗi ngày."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tác giả muốn khẳng định tư duy lãnh đạo là tư duy mang tính phổ quát, không phân biệt ranh giới địa lý hay nghề nghiệp. Đó là giá trị nội tại của con người."
     },
     {
       "id": "q8",
       "question": "Bẫy tâm lý 'chôn vùi sự tỏa sáng' thường xuất phát từ đâu?",
       "options": [
-        "Do xã hội không cho phép cá nhân quá khác biệt",
-        "Do sự thiếu hụt tài chính để phát triển năng lực",
-        "Do nhu cầu hòa nhập và sợ bị đánh giá nếu trở nên khác biệt",
-        "Do công việc hiện tại quá nhàm chán và áp lực"
+        "Do xã hội không cho phép cá nhân quá khác biệt và luôn tìm cách kìm hãm những người có tư duy đột phá và sáng tạo.",
+        "Do sự thiếu hụt tài chính để phát triển năng lực cá nhân khiến nhiều người không thể thực hiện được ước mơ của mình.",
+        "Do công việc hiện tại quá nhàm chán và áp lực khiến con người mất đi động lực để phát huy tiềm năng vốn có của họ.",
+        "Do nhu cầu hòa nhập và nỗi sợ bị đánh giá tiêu cực nếu cá nhân trở nên khác biệt so với tiêu chuẩn của đám đông."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Nỗi sợ bị cô lập hoặc bị phán xét là rào cản tâm lý lớn nhất. Chúng ta thường hạ thấp tiêu chuẩn bản thân để cảm thấy 'an toàn' trong sự trung bình của đám đông."
     },
     {
       "id": "q9",
       "question": "Trong bối cảnh một người đang phân vân trước một lựa chọn đạo đức khó khăn, bài học này khuyên gì?",
       "options": [
-        "Hãy chọn giải pháp an toàn nhất để tránh rủi ro",
-        "Hãy tin tưởng vào tiềm năng vĩ đại bên trong và hành động",
-        "Hãy hỏi ý kiến người khác trước khi quyết định",
-        "Hãy suy nghĩ thật kỹ để không bao giờ phải hối hận"
+        "Hãy tin tưởng vào tiềm năng vĩ đại bên trong và hành động dựa trên giá trị cốt lõi thay vì chọn giải pháp an toàn.",
+        "Hãy chọn giải pháp an toàn nhất để tránh rủi ro không đáng có cho bản thân và những người xung quanh trong mọi tình.",
+        "Hãy hỏi ý kiến người khác trước khi quyết định để đảm bảo rằng lựa chọn của mình là đúng đắn và được mọi người ủng.",
+        "Hãy suy nghĩ thật kỹ để không bao giờ phải hối hận về những quyết định mà mình đã đưa ra trong các tình huống khó."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự vĩ đại chỉ xuất hiện khi cá nhân đối diện với sự lựa chọn. Hành động dựa trên giá trị (như việc Tristan không chọn bỏ mặc) chính là biểu hiện của người hùng."
     },
     {
       "id": "q10",
       "question": "Tại sao việc 'không quên mình là ai' lại là chìa khóa để trở thành người hùng?",
       "options": [
-        "Vì nó giúp ta giữ vững đạo đức cá nhân trong mọi hoàn cảnh",
-        "Vì nó giúp ta đạt được mục tiêu cá nhân nhanh chóng",
-        "Vì nó ngăn cản chúng ta bị người khác thao túng",
-        "Vì nó giúp ta xây dựng thương hiệu cá nhân mạnh mẽ"
+        "Vì nó giúp ta đạt được mục tiêu cá nhân nhanh chóng hơn bằng cách tập trung vào những thế mạnh vốn có của bản thân.",
+        "Vì nó giúp ta giữ vững đạo đức cá nhân và niềm tin cốt lõi trong mọi hoàn cảnh, dù đối mặt với áp lực từ ngoại cảnh.",
+        "Vì nó ngăn cản chúng ta bị người khác thao túng và dẫn dắt đi sai hướng trong quá trình theo đuổi những lý tưởng cao.",
+        "Vì nó giúp ta xây dựng thương hiệu cá nhân mạnh mẽ và tạo dựng niềm tin với những người xung quanh trong cuộc sống."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Khi bạn hiểu rõ bản sắc và giá trị của mình, bạn không bị lung lay bởi ngoại cảnh. Điều này cho phép bạn giữ vững niềm tin và hành động đúng đắn khi cần thiết."
     },
     {
       "id": "q11",
       "question": "Sự 'vĩ đại' được đề cập trong chương này nên được hiểu theo nghĩa nào?",
       "options": [
-        "Sự giàu có về vật chất và địa vị cao sang",
-        "Khả năng thực hiện những hành động có giá trị tích cực giúp ích cho người khác",
-        "Sự nổi tiếng nhờ làm được những việc phi thường",
-        "Sự hoàn hảo trong việc kiểm soát cảm xúc cá nhân"
+        "Sự giàu có về vật chất và địa vị cao sang trong xã hội mà bất kỳ ai cũng khao khát đạt được trong suốt cuộc đời.",
+        "Sự nổi tiếng nhờ làm được những việc phi thường được truyền thông ca ngợi và công nhận rộng rãi trên toàn thế giới.",
+        "Khả năng thực hiện những hành động có giá trị tích cực giúp ích cho người khác và cộng đồng xung quanh mình.",
+        "Sự hoàn hảo trong việc kiểm soát cảm xúc cá nhân để không bao giờ bộc lộ sự yếu đuối trước mặt người khác trong đời."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Tác giả định nghĩa vĩ đại là sự tử tế, chủ động và có ích. Đó là thước đo của sự cống hiến chứ không phải là sự tích lũy cho bản thân."
     },
     {
       "id": "q12",
       "question": "Tại sao tác giả khẳng định 'đừng chôn vùi sự tỏa sáng'?",
       "options": [
-        "Vì tiềm năng nếu không sử dụng sẽ bị mai một",
-        "Vì xã hội đang rất cần những người tiên phong",
-        "Vì đó là nghĩa vụ của con người đối với cộng đồng",
-        "Vì sự tỏa sáng sẽ mang lại phần thưởng lớn cho cá nhân"
+        "Vì xã hội đang rất cần những người tiên phong dám đứng lên để thay đổi những điều bất công đang tồn tại hiện nay.",
+        "Vì đó là nghĩa vụ của con người đối với cộng đồng để góp phần xây dựng một thế giới tốt đẹp hơn cho thế hệ sau.",
+        "Vì sự tỏa sáng sẽ mang lại phần thưởng lớn cho cá nhân về cả danh tiếng lẫn vật chất trong tương lai gần của họ.",
+        "Vì tiềm năng nếu không được sử dụng và khai thác đúng cách sẽ bị mai một theo thời gian và gây ra sự lãng phí lớn."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Tiềm năng không được khai thác sẽ trở thành sự lãng phí. Việc 'tỏa sáng' là cách con người thực hiện chức năng tốt nhất của chính mình."
     },
     {
       "id": "q13",
       "question": "Câu nói 'Đừng che giấu sự tỏa sáng' nhắc nhở chúng ta về điều gì trong giao tiếp?",
       "options": [
-        "Hãy luôn tự tin khoe khoang thành tích của mình",
-        "Đừng vì sợ làm người khác cảm thấy kém cỏi mà phải thu mình lại",
-        "Hãy luôn nói thẳng thắn quan điểm của mình trong mọi cuộc thảo luận",
-        "Hãy tìm kiếm những người có cùng tư duy để kết nối"
+        "Đừng vì sợ làm người khác cảm thấy kém cỏi mà phải thu mình lại, hãy cứ sống đúng với năng lực thực sự của mình.",
+        "Hãy luôn tự tin khoe khoang thành tích của mình để mọi người xung quanh biết đến năng lực và giá trị của bản thân.",
+        "Hãy luôn nói thẳng thắn quan điểm của mình trong mọi cuộc thảo luận để khẳng định vị thế và tư duy của cá nhân.",
+        "Hãy tìm kiếm những người có cùng tư duy để kết nối và cùng nhau tạo ra những giá trị lớn lao cho cộng đồng chung."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Nhiều người có xu hướng tự thu mình lại để không gây ra sự đố kỵ hoặc áp lực cho người khác. Tác giả khuyên hãy cứ sống đúng với năng lực thực sự của mình."
     },
     {
       "id": "q14",
       "question": "Điều gì là nghịch lý trong hành động của người hùng như Tristan?",
       "options": [
-        "Em là học sinh nhưng hành động như một bác sĩ",
-        "Sự khiêm tốn của em lại chính là điều khiến người khác ngưỡng mộ nhất",
-        "Em không hề muốn trở thành người hùng nhưng lại trở thành người hùng",
-        "Em đã cứu sống bạn mình dù chỉ mới 11 tuổi"
+        "Em là một học sinh nhỏ tuổi nhưng lại có khả năng hành động như một bác sĩ chuyên nghiệp trong tình huống nguy.",
+        "Em không hề cố gắng để trở thành người hùng nhưng hành động đúng đắn của em lại khiến em trở thành người hùng.",
+        "Sự khiêm tốn của em lại chính là điều khiến người khác ngưỡng mộ nhất thay vì những kỹ năng sơ cứu mà em đã dùng.",
+        "Em đã cứu sống bạn mình dù chỉ mới mười một tuổi và chưa từng được đào tạo bài bản về các kỹ năng y tế chuyên."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Nghịch lý ở chỗ người vĩ đại không bao giờ cố gắng làm người hùng, họ chỉ làm việc cần phải làm. Sự vĩ đại là một hệ quả tự nhiên của hành động đúng."
     },
     {
       "id": "q15",
       "question": "Phẩm chất nào của Tristan là bài học đáng giá nhất cho sự nghiệp lãnh đạo?",
       "options": [
-        "Sự trung thành với bạn bè",
-        "Khả năng học hỏi kỹ năng mới",
-        "Sự hiện diện đầy đủ khi tình huống xảy ra",
-        "Sự khiêm tốn trong lời nhận xét của hiệu trưởng"
+        "Sự trung thành với bạn bè là yếu tố quan trọng nhất giúp em vượt qua nỗi sợ hãi để cứu người bạn thân của mình.",
+        "Khả năng học hỏi kỹ năng mới từ bà nội đã giúp em có được kiến thức cần thiết để xử lý tình huống nguy cấp đó.",
+        "Sự hiện diện đầy đủ và tỉnh táo khi tình huống xảy ra để có thể quan sát và đưa ra quyết định hành động kịp thời.",
+        "Sự khiêm tốn trong lời nhận xét của hiệu trưởng về em là minh chứng cho một nhân cách lớn trong một cơ thể nhỏ."
       ],
       "correctIndex": 2,
       "explanation": "Lãnh đạo thực sự là sự hiện diện (Presence). Khi mọi người hoảng loạn, người lãnh đạo phải bình tĩnh quan sát và hành động. Tristan có mặt trọn vẹn tại thời điểm đó để ứng biến."

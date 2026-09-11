@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Theo tinh thần của chương, điều gì là lợi ích cốt lõi nhất khi một người 'là chính mình' trong bối cảnh cuộc sống hiện đại đòi hỏi sự thể hiện vượt trội?",
+      "question": "Theo tinh thần của chương, lợi ích cốt lõi nhất khi một người 'là chính mình' trong bối cảnh cuộc sống hiện đại là gì?",
       "options": [
-        "Đạt được sự công nhận và ngưỡng mộ từ số đông.",
-        "Trở thành một phiên bản độc đáo không thể sao chép, tối ưu hóa tiềm năng cá nhân.",
-        "Tránh được rủi ro và áp lực khi phải tuân thủ các chuẩn mực xã hội.",
-        "Dễ dàng tìm thấy người có cùng chí hướng và xây dựng mạng lưới quan hệ."
+        "Trở thành một bản thể độc nhất, tối ưu hóa tiềm năng cá nhân để đạt được sự vượt trội mà không ai có thể thay thế.",
+        "Đạt được sự công nhận và ngưỡng mộ từ số đông thông qua việc khẳng định cá tính riêng biệt trong mọi hoạt động xã hội.",
+        "Tránh được các áp lực và rủi ro khi phải tuân thủ những chuẩn mực khắt khe mà xã hội đặt ra cho mỗi cá nhân hiện nay.",
+        "Dễ dàng tìm thấy những người có cùng chí hướng để xây dựng mạng lưới quan hệ bền vững phục vụ cho sự nghiệp cá nhân."
       ],
-      "correctIndex": 1,
-      "explanation": "Triết lý của chương nhấn mạnh rằng mỗi cá nhân là duy nhất. Khi 'là chính mình', một người không chỉ khác biệt mà còn khai thác được toàn bộ khả năng tiềm ẩn, không ai có thể cạnh tranh được vị trí đó vì bản chất nó đã là duy nhất. Các phương án khác có thể là hệ quả phụ nhưng không phải lợi ích cốt lõi nhất mà tác giả muốn truyền tải."
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh tính duy nhất là nền tảng của sự vượt trội. Khi là chính mình, bạn khai thác được tiềm năng độc bản mà không ai có thể sao chép hay cạnh tranh."
     },
     {
       "id": "q2",
-      "question": "Lời của Warren Buffet 'Không bao giờ có ai giống bạn' hàm ý sâu sắc gì về giá trị của sự 'là chính mình' trong sự nghiệp và phát triển bản thân?",
+      "question": "Lời của Warren Buffet 'Không bao giờ có ai giống bạn' hàm ý sâu sắc gì về giá trị của sự 'là chính mình'?",
       "options": [
-        "Khuyến khích mỗi người phải liên tục đổi mới để không bị lỗi thời.",
-        "Nhấn mạnh tính độc bản là nền tảng cho mọi thành tựu vượt trội và không thể bị thay thế.",
-        "Đề xuất rằng mỗi người nên tập trung vào điểm mạnh của mình thay vì cải thiện điểm yếu.",
-        "Cảnh báo về sự cạnh tranh gay gắt trong môi trường làm việc hiện đại."
+        "Khuyến khích mỗi người phải liên tục đổi mới tư duy và hành động để không bị lỗi thời trong môi trường cạnh tranh gay gắt.",
+        "Nhấn mạnh tính độc bản là nền tảng cho mọi thành tựu vượt trội, giúp cá nhân không thể bị thay thế trong bất kỳ lĩnh vực.",
+        "Đề xuất rằng mỗi người nên tập trung tối đa vào điểm mạnh của mình thay vì cố gắng cải thiện những điểm yếu còn tồn tại.",
+        "Cảnh báo về sự cạnh tranh khốc liệt trong môi trường làm việc hiện đại, nơi mà sự khác biệt là yếu tố sống còn duy nhất."
       ],
       "correctIndex": 1,
-      "explanation": "Câu nói của Warren Buffet được dùng để củng cố ý 'bạn là duy nhất'. Điều này không chỉ là một sự thật hiển nhiên mà còn là một lợi thế chiến lược. Khi bạn là chính mình, bạn tạo ra giá trị độc bản mà người khác không thể sao chép hoàn toàn, giúp bạn nổi bật và đạt được thành tựu vượt trội. Các phương án khác không phản ánh đúng trọng tâm 'tính độc bản'."
+      "explanation": "Câu nói khẳng định giá trị của sự độc bản. Khi bạn là chính mình, bạn tạo ra giá trị không thể sao chép, giúp bạn nổi bật và đạt được thành tựu vượt trội."
     },
     {
       "id": "q3",
-      "question": "Tác giả đặt câu hỏi 'Bạn đã bộc lộ hết mọi khả năng tiềm ẩn chưa?' và 'Bạn có là chính mình?' ngay sau khi nhấn mạnh tính 'đặc biệt' và 'duy nhất' của mỗi người. Mối liên hệ logic giữa hai vấn đề này là gì?",
+      "question": "Mối liên hệ logic giữa việc nhận ra mình 'đặc biệt' và câu hỏi 'bạn đã bộc lộ hết khả năng tiềm ẩn chưa' là gì?",
       "options": [
-        "Tính duy nhất đòi hỏi một trách nhiệm cá nhân phải liên tục tìm kiếm và phát triển các kỹ năng mới.",
-        "Việc nhận ra sự đặc biệt của bản thân là động lực để vượt qua nỗi sợ hãi và thể hiện con người chân thật.",
-        "Chỉ khi bộc lộ hết khả năng tiềm ẩn thì một người mới có thể cảm thấy mình đặc biệt.",
-        "Đặc biệt và duy nhất là hai khía cạnh độc lập của sự phát triển cá nhân."
+        "Tính duy nhất đòi hỏi một trách nhiệm cá nhân phải liên tục tìm kiếm và phát triển các kỹ năng mới để khẳng định bản thân.",
+        "Chỉ khi bộc lộ hết khả năng tiềm ẩn thì một người mới có thể cảm thấy mình đặc biệt hơn so với những người xung quanh.",
+        "Nhận thức về giá trị độc đáo tạo ra động lực nội tại để gạt bỏ nỗi sợ hãi, từ đó dám sống thật và khai phá tiềm năng.",
+        "Đặc biệt và duy nhất là hai khía cạnh độc lập của sự phát triển cá nhân, không có mối liên hệ trực tiếp với hành động."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả dẫn dắt từ việc nhận thức về sự 'đặc biệt' của bản thân đến câu hỏi về việc 'bộc lộ hết khả năng' và 'là chính mình'. Mối liên hệ logic ở đây là sự nhận thức về giá trị độc đáo của bản thân sẽ tạo ra động lực nội tại để gạt bỏ nỗi sợ hãi (sợ phán xét, sợ thất bại) và dám sống thật với bản chất, qua đó bộc lộ hết tiềm năng. Nếu không nhận ra sự đặc biệt, con người dễ dàng ẩn mình trong đám đông."
+      "correctIndex": 2,
+      "explanation": "Sự nhận thức về giá trị độc đáo tạo ra động lực để vượt qua nỗi sợ hãi, giúp cá nhân dám sống thật và bộc lộ hết tiềm năng thay vì ẩn mình."
     },
     {
       "id": "q4",
-      "question": "Thông điệp chính mà tác giả muốn truyền tải khi nói 'Sẽ có người cố gắng bắt chước cách bạn suy tư, nói năng, hành động. Nhưng dù cố gắng hết sức họ cũng chỉ đứng hàng thứ hai mà thôi. Vì bạn là duy nhất.' là gì?",
+      "question": "Thông điệp chính khi tác giả nói 'dù cố gắng hết sức họ cũng chỉ đứng hàng thứ hai' đối với người bắt chước là gì?",
       "options": [
-        "Khuyến khích sự cạnh tranh lành mạnh để mỗi người đều phải cố gắng hơn.",
-        "Cảnh báo về nguy cơ bị sao chép ý tưởng trong môi trường sáng tạo.",
-        "Nhấn mạnh rằng giá trị cốt lõi của mỗi người nằm ở tính chân thực và nguyên bản không thể sao chép.",
-        "Đề cao việc xây dựng thương hiệu cá nhân độc đáo để nổi bật hơn người khác."
+        "Khuyến khích sự cạnh tranh lành mạnh để mỗi người đều phải cố gắng hơn nữa nhằm vượt qua những đối thủ đang sao chép mình.",
+        "Cảnh báo về nguy cơ bị sao chép ý tưởng trong môi trường sáng tạo, nơi mà bản quyền cá nhân cần được bảo vệ nghiêm ngặt.",
+        "Đề cao việc xây dựng thương hiệu cá nhân độc đáo để nổi bật hơn người khác trong mắt cộng đồng và các nhà tuyển dụng.",
+        "Giá trị cốt lõi của mỗi người nằm ở tính chân thực và nguyên bản, thứ không thể sao chép hoàn hảo bởi bất kỳ ai khác."
       ],
-      "correctIndex": 2,
-      "explanation": "Đoạn văn này củng cố ý tưởng về tính độc nhất. Ngay cả khi người khác cố gắng bắt chước, họ cũng chỉ là bản sao hạng hai. Điều này khẳng định rằng giá trị thật sự của bạn không nằm ở những gì có thể bắt chước được mà nằm ở bản chất chân thực, nguyên bản của bạn, thứ không ai có thể sao chép hoàn hảo. Đó là nguồn gốc của mọi sự vượt trội bền vững."
+      "correctIndex": 3,
+      "explanation": "Giá trị thật sự nằm ở bản chất nguyên bản. Người bắt chước chỉ có thể là bản sao hạng hai, không bao giờ đạt được sự vượt trội của bản gốc."
     },
     {
       "id": "q5",
-      "question": "Câu 'Thà chấp nhận rủi ro phải gánh chịu một nửa những chuyện xấu mà ta từng dự đoán trước, còn hơn giữ mãi sự vô danh hèn nhát vì sợ những điều có thể xảy ra' của Herodotus, khi được tác giả trích dẫn trong chương 'Hãy là chính mình', có ý nghĩa gì đối với tư duy phát triển bản thân?",
+      "question": "Trích dẫn của Herodotus về việc chấp nhận rủi ro có ý nghĩa gì đối với tư duy phát triển bản thân trong chương này?",
       "options": [
-        "Khuyến khích việc mạo hiểm không tính toán để nhanh chóng đạt được thành công.",
-        "Đề cao việc đối mặt với nỗi sợ hãi và chấp nhận rủi ro để sống trọn vẹn với bản thân, thay vì sống trong sự tầm thường vì sợ hãi.",
-        "Cảnh báo về hậu quả của việc quá thận trọng và không dám thử thách bản thân.",
-        "Nhấn mạnh tầm quan trọng của việc dự đoán và chuẩn bị trước mọi rủi ro có thể xảy ra."
+        "Đề cao việc đối mặt với nỗi sợ hãi để sống trọn vẹn với bản thân, thay vì chọn sự an toàn trong sự vô danh hèn nhát.",
+        "Khuyến khích việc mạo hiểm không tính toán để nhanh chóng đạt được thành công rực rỡ trong sự nghiệp và cuộc sống cá nhân.",
+        "Cảnh báo về hậu quả của việc quá thận trọng và không dám thử thách bản thân trước những cơ hội lớn trong cuộc đời mình.",
+        "Nhấn mạnh tầm quan trọng của việc dự đoán và chuẩn bị trước mọi rủi ro có thể xảy ra để tránh những tổn thất không đáng."
       ],
-      "correctIndex": 1,
-      "explanation": "Câu nói của Herodotus được đặt trong bối cảnh khuyến khích 'là chính mình'. Nó là lời kêu gọi hành động, vượt qua nỗi sợ hãi những điều tiêu cực có thể xảy ra khi bộc lộ bản thân. Thà chấp nhận rủi ro và hậu quả (một nửa chuyện xấu) còn hơn là sống một cuộc đời 'vô danh hèn nhát', không dám thể hiện vì nỗi sợ hãi mơ hồ. Đây là một tư duy phản biện lại lối sống an toàn nhưng vô vị, không khai thác hết tiềm năng."
+      "correctIndex": 0,
+      "explanation": "Triết lý này kêu gọi hành động, vượt qua nỗi sợ hãi để sống thật. Thà chấp nhận rủi ro còn hơn sống một cuộc đời vô danh, tầm thường."
     },
     {
       "id": "q6",
-      "question": "Nếu một người liên tục cố gắng 'trở thành' người mà họ nghĩ xã hội mong đợi thay vì 'là chính mình', họ có khả năng gặp phải bẫy tâm lý nào theo quan điểm của chương này?",
+      "question": "Nếu một người luôn cố gắng trở thành hình mẫu xã hội mong đợi thay vì là chính mình, họ sẽ gặp phải bẫy tâm lý nào?",
       "options": [
-        "Luôn phải đối mặt với sự cạnh tranh khốc liệt từ những người thực sự tài năng hơn.",
-        "Dễ dàng bị mất phương hướng khi các chuẩn mực xã hội thay đổi liên tục.",
-        "Mất đi sự độc đáo, bỏ lỡ cơ hội khai thác tiềm năng thực sự và không thể đạt đến đỉnh cao vượt trội.",
-        "Gặp khó khăn trong việc xây dựng các mối quan hệ xã hội bền vững và ý nghĩa."
+        "Luôn phải đối mặt với sự cạnh tranh khốc liệt từ những người thực sự tài năng hơn trong cùng một môi trường làm việc chung.",
+        "Mất đi sự độc đáo, bỏ lỡ cơ hội khai thác tiềm năng thực sự và không bao giờ đạt đến đỉnh cao của sự vượt trội cá nhân.",
+        "Dễ dàng bị mất phương hướng khi các chuẩn mực xã hội thay đổi liên tục theo thời gian và xu hướng của cộng đồng hiện đại.",
+        "Gặp khó khăn trong việc xây dựng các mối quan hệ xã hội bền vững và ý nghĩa với những người xung quanh trong cuộc sống."
       ],
-      "correctIndex": 2,
-      "explanation": "Chương nhấn mạnh tính 'duy nhất' và việc 'là chính mình' là con đường dẫn đến sự vượt trội. Nếu một người cố gắng trở thành một bản sao của người khác hoặc một hình mẫu xã hội, họ sẽ mất đi sự độc đáo, bỏ lỡ việc bộc lộ 'con người chân thật' và 'khả năng tiềm ẩn'. Kết quả là họ sẽ mãi chỉ là 'hàng thứ hai' và không thể đạt được sự vĩ đại thực sự dựa trên bản sắc riêng."
+      "correctIndex": 1,
+      "explanation": "Việc chạy theo hình mẫu xã hội khiến cá nhân mất đi bản sắc, bỏ lỡ tiềm năng thực sự và không thể đạt được sự vĩ đại dựa trên bản sắc riêng."
     },
     {
       "id": "q7",
-      "question": "Tác giả hỏi 'Nếu không phải bây giờ, thì khi nào?' ngay sau khi khuyến khích 'không còn lúc nào thể hiện chính mình tốt hơn lúc này'. Câu hỏi này thể hiện điều gì về triết lý hành động của tác giả?",
+      "question": "Câu hỏi 'Nếu không phải bây giờ, thì khi nào?' thể hiện điều gì về triết lý hành động của tác giả trong chương này?",
       "options": [
-        "Nhấn mạnh tầm quan trọng của việc lên kế hoạch dài hạn cho sự phát triển bản thân.",
-        "Khẳng định rằng cơ hội chỉ đến một lần và không thể bỏ lỡ.",
-        "Thúc đẩy tư duy hành động ngay lập tức, vượt qua sự trì hoãn và nỗi sợ hãi để thể hiện bản thân.",
-        "Gợi ý rằng có những thời điểm thích hợp hơn để bộc lộ bản thân."
+        "Nhấn mạnh tầm quan trọng của việc lên kế hoạch dài hạn cho sự phát triển bản thân trước khi bắt đầu bất kỳ hành động nào.",
+        "Khẳng định rằng cơ hội chỉ đến một lần trong đời và không thể bỏ lỡ nếu muốn đạt được thành công như mong đợi ban đầu.",
+        "Thúc đẩy tư duy hành động ngay lập tức, vượt qua sự trì hoãn và nỗi sợ hãi để thể hiện bản thân một cách mạnh mẽ nhất.",
+        "Gợi ý rằng có những thời điểm thích hợp hơn để bộc lộ bản thân, nhưng hiện tại là lúc cần chuẩn bị kỹ lưỡng nhất có thể."
       ],
       "correctIndex": 2,
-      "explanation": "Cụm từ 'nếu không phải bây giờ, thì khi nào?' là một lời kêu gọi hành động mạnh mẽ, chống lại sự trì hoãn. Nó khuyên nhủ độc giả không nên chờ đợi một thời điểm 'hoàn hảo' nào đó để thể hiện bản thân, mà hãy hành động ngay lập tức. Đây là một yếu tố cốt lõi trong tư duy lãnh đạo và phát triển bản thân, nơi sự chủ động và dũng cảm đối mặt với thách thức là cần thiết."
+      "explanation": "Đây là lời kêu gọi hành động mạnh mẽ, chống lại sự trì hoãn. Không nên chờ đợi thời điểm hoàn hảo, hãy thể hiện bản thân ngay lúc này."
     },
     {
       "id": "q8",
-      "question": "Trong môi trường công sở hiện đại, việc một lãnh đạo (không chức danh) áp dụng triết lý 'Hãy là chính mình' có thể mang lại lợi thế chiến lược nào so với những người chỉ tuân thủ quy tắc?",
+      "question": "Việc một người áp dụng triết lý 'Hãy là chính mình' mang lại lợi thế chiến lược nào so với người chỉ tuân thủ quy tắc?",
       "options": [
-        "Dễ dàng được thăng tiến nhanh chóng nhờ sự nổi bật cá nhân.",
-        "Tạo ra một phong cách lãnh đạo độc đáo, truyền cảm hứng và xây dựng văn hóa đổi mới.",
-        "Giảm thiểu rủi ro xung đột với cấp trên hoặc đồng nghiệp.",
-        "Được ưu tiên hơn trong việc phân công các dự án quan trọng."
+        "Dễ dàng được thăng tiến nhanh chóng nhờ sự nổi bật cá nhân trong mắt cấp trên và đồng nghiệp tại môi trường công sở hiện đại.",
+        "Giảm thiểu rủi ro xung đột với cấp trên hoặc đồng nghiệp nhờ việc luôn giữ thái độ hòa nhã và tuân thủ các quy định chung.",
+        "Được ưu tiên hơn trong việc phân công các dự án quan trọng nhờ khả năng làm việc ổn định và tuân thủ mọi quy trình đề ra.",
+        "Tạo ra một phong cách lãnh đạo độc đáo, truyền cảm hứng và xây dựng văn hóa đổi mới dựa trên sự chân thực của cá nhân."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi một lãnh đạo (dù không chức danh) 'là chính mình', họ thể hiện sự chân thực, dám nghĩ dám làm, và mang lại một phong cách lãnh đạo độc đáo. Điều này không chỉ truyền cảm hứng cho những người xung quanh mà còn thúc đẩy sự sáng tạo và đổi mới, xây dựng một văn hóa nơi mọi người cũng được khuyến khích thể hiện bản thân. Điều này tạo ra một lợi thế chiến lược vượt trội hơn việc chỉ đơn thuần tuân thủ quy tắc."
+      "correctIndex": 3,
+      "explanation": "Sự chân thực tạo ra phong cách lãnh đạo độc đáo, truyền cảm hứng, thúc đẩy sáng tạo và đổi mới, vượt xa việc chỉ tuân thủ quy tắc."
     },
     {
       "id": "q9",
-      "question": "Việc 'dừng lại và nghĩ về điều này' sau khi nhận ra 'bạn là duy nhất' có ý nghĩa gì trong quá trình tự nhận thức và phát triển bản thân?",
+      "question": "Việc 'dừng lại và nghĩ' sau khi nhận ra mình là duy nhất có ý nghĩa gì trong quá trình tự nhận thức bản thân?",
       "options": [
-        "Là một lời nhắc nhở để tránh sự kiêu ngạo về bản thân.",
-        "Là một bước quan trọng để củng cố niềm tin vào giá trị độc đáo của bản thân trước khi hành động.",
-        "Là cách để so sánh bản thân với người khác và nhận ra sự khác biệt.",
-        "Là một bài tập thiền định để tìm kiếm sự bình yên nội tâm."
+        "Là bước quan trọng để củng cố niềm tin vào giá trị độc đáo của bản thân trước khi bắt đầu hành động một cách quyết liệt.",
+        "Là một lời nhắc nhở để tránh sự kiêu ngạo về bản thân khi nhận ra mình có những khả năng vượt trội so với những người khác.",
+        "Là cách để so sánh bản thân với người khác và nhận ra sự khác biệt rõ rệt giữa mình và những người xung quanh hiện nay.",
+        "Là một bài tập thiền định để tìm kiếm sự bình yên nội tâm giữa những áp lực của cuộc sống hiện đại đầy biến động này."
       ],
-      "correctIndex": 1,
-      "explanation": "Sau khi nhận ra sự 'đặc biệt' của bản thân, việc 'dừng lại và nghĩ' không phải là để so sánh hay kiêu ngạo, mà là để thấm nhuần, củng cố nhận thức này. Khi một người thực sự tin vào giá trị độc đáo của mình, họ sẽ có đủ động lực và sự tự tin để vượt qua nỗi sợ hãi, bộc lộ tiềm năng và 'là chính mình'. Đây là bước đệm tinh thần quan trọng trước khi chuyển sang hành động."
+      "correctIndex": 0,
+      "explanation": "Việc dừng lại để suy ngẫm giúp thấm nhuần và củng cố niềm tin vào giá trị độc đáo, tạo nền tảng vững chắc trước khi hành động."
     },
     {
       "id": "q10",
       "question": "Những người 'giữ mãi sự vô danh hèn nhát vì sợ những điều có thể xảy ra' thường rơi vào bẫy tư duy nào?",
       "options": [
-        "Bẫy tư duy cầu toàn, chỉ muốn mọi thứ hoàn hảo trước khi hành động.",
-        "Bẫy tư duy nạn nhân, luôn đổ lỗi cho hoàn cảnh bên ngoài.",
-        "Bẫy tư duy trì hoãn dựa trên nỗi sợ hãi rủi ro và hậu quả không xác định.",
-        "Bẫy tư duy so sánh, luôn cảm thấy mình không đủ tốt bằng người khác."
+        "Bẫy tư duy cầu toàn, chỉ muốn mọi thứ hoàn hảo trước khi hành động để tránh những sai sót không đáng có trong công việc.",
+        "Bẫy tư duy trì hoãn dựa trên nỗi sợ hãi rủi ro và hậu quả không xác định khiến họ không dám bước ra khỏi vùng an toàn.",
+        "Bẫy tư duy nạn nhân, luôn đổ lỗi cho hoàn cảnh bên ngoài thay vì nhìn nhận trách nhiệm của bản thân trong mọi tình huống.",
+        "Bẫy tư duy so sánh, luôn cảm thấy mình không đủ tốt bằng người khác nên không dám thể hiện bản thân trước đám đông lớn."
       ],
-      "correctIndex": 2,
-      "explanation": "Câu nói của Herodotus chỉ ra rằng sự 'vô danh hèn nhát' xuất phát từ 'sợ những điều có thể xảy ra'. Đây chính là một dạng bẫy tư duy trì hoãn, nơi nỗi sợ hãi về rủi ro, thất bại, hoặc phán xét (những 'chuyện xấu' dự đoán trước) khiến người ta không dám hành động, không dám bộc lộ bản thân, và chấp nhận một cuộc sống tầm thường, vô danh. Thay vì chấp nhận rủi ro và thử thách, họ chọn sự an toàn giả tạo."
+      "correctIndex": 1,
+      "explanation": "Sự vô danh hèn nhát xuất phát từ nỗi sợ rủi ro. Đây là bẫy trì hoãn khiến người ta không dám hành động và chấp nhận cuộc sống tầm thường."
     },
     {
       "id": "q11",
-      "question": "Giả sử một nhân viên trẻ luôn cố gắng làm hài lòng mọi người bằng cách giả vờ đồng ý với ý kiến của họ, ngay cả khi bản thân có quan điểm khác biệt. Theo quan điểm của chương, điều này có thể dẫn đến hậu quả tiêu cực nào nhất cho sự phát triển của cá nhân đó?",
+      "question": "Việc giả vờ đồng ý để làm hài lòng người khác dẫn đến hậu quả tiêu cực nào nhất cho sự phát triển cá nhân?",
       "options": [
-        "Không được đồng nghiệp và cấp trên tin tưởng vì thiếu lập trường rõ ràng.",
-        "Mất đi cơ hội học hỏi và phát triển kỹ năng tư duy phản biện.",
-        "Không thể bộc lộ 'con người chân thật' và tiềm năng độc đáo, dẫn đến sự đình trệ trong sự nghiệp và cuộc sống.",
-        "Dễ dàng bị lợi dụng và giao cho những công việc không mong muốn."
+        "Không được đồng nghiệp và cấp trên tin tưởng vì thiếu lập trường rõ ràng trong các vấn đề quan trọng của tổ chức hiện nay.",
+        "Mất đi cơ hội học hỏi và phát triển kỹ năng tư duy phản biện cần thiết để giải quyết các vấn đề phức tạp trong công việc.",
+        "Không thể bộc lộ con người chân thật và tiềm năng độc đáo, dẫn đến sự đình trệ trong sự nghiệp và cuộc sống cá nhân.",
+        "Dễ dàng bị lợi dụng và giao cho những công việc không mong muốn do không biết cách từ chối những yêu cầu từ người khác."
       ],
       "correctIndex": 2,
-      "explanation": "Chương nhấn mạnh việc 'là chính mình' là chìa khóa để bộc lộ 'con người chân thật' và 'khả năng tiềm ẩn'. Nếu một người liên tục giả vờ để làm hài lòng người khác, họ sẽ không thể thể hiện được bản chất riêng, các ý tưởng độc đáo của mình. Điều này dẫn đến sự mất mát lớn nhất là không thể khai thác hết tiềm năng của bản thân, trì trệ trong việc phát triển bản thân và không đạt được sự vượt trội dựa trên tính độc đáo của mình. Các hậu quả khác là có thể nhưng không phải là trọng tâm chính của triết lý trong chương."
+      "explanation": "Việc giả vờ làm hài lòng người khác ngăn cản sự thể hiện bản chất riêng, khiến cá nhân không thể khai thác hết tiềm năng và bị đình trệ."
     },
     {
       "id": "q12",
-      "question": "Nghịch lý nào được gợi mở khi tác giả nói 'Không, rất đặc biệt mới đúng. Và không thể có ai tranh giành được' sau khi bạn chợt nhận ra mình đặc biệt?",
+      "question": "Nghịch lý nào được gợi mở khi tác giả nói 'Không, rất đặc biệt mới đúng. Và không thể có ai tranh giành được'?",
       "options": [
-        "Sự đặc biệt của mỗi người càng lớn thì càng khó hòa nhập với xã hội.",
-        "Giá trị thực sự của sự đặc biệt không nằm ở việc được so sánh mà ở tính độc bản, không thể bị cạnh tranh hay đánh bại.",
-        "Để trở nên đặc biệt, một người phải chấp nhận sự cô đơn và khác biệt.",
-        "Sự đặc biệt chỉ thực sự có ý nghĩa khi được người khác công nhận."
+        "Sự đặc biệt của mỗi người càng lớn thì càng khó hòa nhập với xã hội, gây ra những rào cản trong giao tiếp và hợp tác.",
+        "Để trở nên đặc biệt, một người phải chấp nhận sự cô đơn và khác biệt hoàn toàn với những chuẩn mực chung của cộng đồng.",
+        "Sự đặc biệt chỉ thực sự có ý nghĩa khi được người khác công nhận và tán dương trong các môi trường làm việc chuyên nghiệp.",
+        "Giá trị thực sự của sự đặc biệt không nằm ở việc được so sánh mà ở tính độc bản, không thể bị cạnh tranh hay đánh bại."
       ],
-      "correctIndex": 1,
-      "explanation": "Nghịch lý ở đây là khi bạn nhận ra mình đặc biệt (theo nghĩa độc nhất), bạn không cần phải 'tranh giành' hay chứng minh giá trị đó. Giá trị của sự đặc biệt nằm ở chính tính độc bản, không thể bị sao chép hay cạnh tranh. Điều này giải phóng bạn khỏi áp lực phải hơn người khác và cho phép bạn tập trung vào việc bộc lộ bản thân một cách chân thật nhất, khai thác tiềm năng của riêng mình mà không ai có thể làm thay."
+      "correctIndex": 3,
+      "explanation": "Sự đặc biệt (độc nhất) không cần tranh giành. Giá trị nằm ở tính độc bản, giải phóng cá nhân khỏi áp lực so sánh với người khác."
     },
     {
       "id": "q13",
-      "question": "Sự 'vô danh hèn nhát' được nhắc đến trong trích dẫn của Herodotus có thể được hiểu là sự thiếu vắng điều gì trong phát triển bản thân?",
+      "question": "Sự 'vô danh hèn nhát' được nhắc đến trong trích dẫn của Herodotus có thể được hiểu là sự thiếu vắng điều gì?",
       "options": [
-        "Thiếu cơ hội để thể hiện bản thân.",
-        "Thiếu nhận thức về giá trị và tiềm năng độc đáo của bản thân.",
-        "Thiếu sự hỗ trợ và khuyến khích từ môi trường xung quanh.",
-        "Thiếu khả năng đối mặt và chấp nhận rủi ro để bộc lộ bản thân."
+        "Thiếu khả năng đối mặt và chấp nhận rủi ro để bộc lộ bản thân, dẫn đến việc sống một cuộc đời mờ nhạt và tầm thường.",
+        "Thiếu cơ hội để thể hiện bản thân trong môi trường làm việc chuyên nghiệp, nơi mà sự sáng tạo luôn được khuyến khích cao.",
+        "Thiếu nhận thức về giá trị và tiềm năng độc đáo của bản thân để có thể tự tin khẳng định mình trước những người khác.",
+        "Thiếu sự hỗ trợ và khuyến khích từ môi trường xung quanh để có thể vượt qua những rào cản tâm lý trong quá trình phát triển."
       ],
-      "correctIndex": 3,
-      "explanation": "Sự 'vô danh hèn nhát' (từ trích dẫn của Herodotus) được tác giả dùng để minh họa cho việc không dám 'là chính mình' vì sợ hãi. Nó ám chỉ một thái độ không dám chấp nhận rủi ro, không dám đương đầu với những điều tiêu cực có thể xảy ra khi bước ra khỏi vùng an toàn. Thiếu khả năng đối mặt và chấp nhận rủi ro là nguyên nhân chính dẫn đến việc sống một cuộc đời mờ nhạt, không thể bộc lộ bản thân."
+      "correctIndex": 0,
+      "explanation": "Sự vô danh hèn nhát ám chỉ thái độ không dám chấp nhận rủi ro, không dám đương đầu với thử thách để sống một cuộc đời chân thật."
     },
     {
       "id": "q14",
-      "question": "Điều gì là quan trọng nhất để vượt qua nỗi sợ 'chuyện xấu mà ta từng dự đoán trước' khi quyết định 'là chính mình' và bộc lộ mọi khả năng?",
+      "question": "Điều gì là quan trọng nhất để vượt qua nỗi sợ 'chuyện xấu mà ta từng dự đoán trước' khi quyết định 'là chính mình'?",
       "options": [
-        "Tìm kiếm sự chấp thuận từ người khác để có thêm tự tin.",
-        "Lập kế hoạch dự phòng chi tiết cho mọi kịch bản xấu có thể xảy ra.",
-        "Thay đổi góc nhìn về rủi ro: chấp nhận nó là một phần tất yếu của quá trình phát triển và sự tự do.",
-        "Chỉ bộc lộ bản thân khi có môi trường an toàn tuyệt đối và ít rủi ro."
+        "Tìm kiếm sự chấp thuận từ người khác để có thêm tự tin trước khi quyết định thực hiện những thay đổi lớn trong cuộc đời.",
+        "Thay đổi góc nhìn về rủi ro: chấp nhận nó là một phần tất yếu của quá trình phát triển và sự tự do cá nhân thực thụ.",
+        "Lập kế hoạch dự phòng chi tiết cho mọi kịch bản xấu có thể xảy ra để đảm bảo an toàn tuyệt đối cho bản thân mình.",
+        "Chỉ bộc lộ bản thân khi có môi trường an toàn tuyệt đối và ít rủi ro để tránh những tổn thương không đáng có xảy ra."
       ],
-      "correctIndex": 2,
-      "explanation": "Trích dẫn của Herodotus khuyến khích 'chấp nhận rủi ro phải gánh chịu một nửa những chuyện xấu'. Điều này không có nghĩa là loại bỏ rủi ro, mà là thay đổi cách nhìn nhận về nó. Quan trọng nhất là chấp nhận rủi ro là một phần không thể tránh khỏi khi sống một cuộc đời chân thật và trọn vẹn. Rủi ro không phải là vật cản mà là cái giá phải trả cho sự tự do, sự phát triển và việc 'là chính mình'. Việc thay đổi góc nhìn này giúp vượt qua nỗi sợ hãi và hành động."
+      "correctIndex": 1,
+      "explanation": "Cần thay đổi góc nhìn: rủi ro là cái giá phải trả cho sự tự do và phát triển. Chấp nhận rủi ro giúp vượt qua nỗi sợ và hành động."
     },
     {
       "id": "q15",
       "question": "Chương 'Hãy là chính mình' của Robin Sharma chủ yếu nhắm đến việc thúc đẩy tư duy nào ở người đọc?",
       "options": [
-        "Tư duy chiến lược trong việc xây dựng thương hiệu cá nhân.",
-        "Tư duy sống tối giản và loại bỏ những điều không cần thiết.",
-        "Tư duy khám phá và phát huy tối đa giá trị độc nhất của bản thân, không thỏa hiệp với sự tầm thường.",
-        "Tư duy làm việc nhóm hiệu quả và phát triển kỹ năng giao tiếp."
+        "Tư duy chiến lược trong việc xây dựng thương hiệu cá nhân để nổi bật hơn trong thị trường lao động đầy cạnh tranh hiện nay.",
+        "Tư duy sống tối giản và loại bỏ những điều không cần thiết để tập trung vào sự bình yên trong tâm hồn mỗi ngày sống.",
+        "Tư duy khám phá và phát huy tối đa giá trị độc nhất của bản thân, không thỏa hiệp với sự tầm thường của đám đông.",
+        "Tư duy làm việc nhóm hiệu quả và phát triển kỹ năng giao tiếp để đạt được sự đồng thuận cao trong các dự án công việc."
       ],
       "correctIndex": 2,
-      "explanation": "Toàn bộ chương xoay quanh ý tưởng rằng mỗi người là 'duy nhất' và 'đặc biệt', và điều quan trọng là phải 'là chính mình' để bộc lộ 'mọi khả năng tiềm ẩn'. Mục tiêu chính là thúc đẩy người đọc nhận ra và phát huy tối đa giá trị độc nhất của bản thân, không để nỗi sợ hãi hay áp lực xã hội kìm hãm, từ bỏ sự tầm thường để vươn tới sự vượt trội dựa trên bản sắc riêng. Các phương án khác không phản ánh đúng trọng tâm triết lý của chương."
+      "explanation": "Chương thúc đẩy người đọc nhận ra giá trị độc nhất, không để nỗi sợ kìm hãm, từ bỏ sự tầm thường để vươn tới sự vượt trội."
     }
   ]
 }

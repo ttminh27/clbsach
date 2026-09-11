@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Tại sao tác giả lại đưa ra một tuyên bố gây sốc: 'Cân bằng giữa công việc và cuộc sống (Work-Life Balance) theo cách hiểu truyền thống là một khái niệm nhảm nhí'?",
+      "question": "Tại sao tác giả lại khẳng định khái niệm 'cân bằng công việc - cuộc sống' theo cách truyền thống là một huyền thoại?",
       "options": [
-        "Vì con người chỉ nên làm việc 24/7 và không cần nghỉ ngơi hay gia đình.",
-        "Vì luật lao động quốc tế đã bãi bỏ khái niệm thời gian làm việc.",
-        "Vì tác giả muốn khuyến khích mọi người từ bỏ công việc để đi du lịch suốt đời.",
-        "Vì cách hiểu truyền thống coi công việc và cuộc sống là hai thực thể đối lập, triệt tiêu lẫn nhau; cố gắng chia đôi thời gian máy móc chỉ tạo ra sự căng thẳng và cảm giác tội lỗi liên tục."
+        "Vì việc cố gắng chia đôi thời gian máy móc tạo ra sự căng thẳng, cảm giác tội lỗi và coi công việc là đối thủ của cuộc sống.",
+        "Vì tác giả cho rằng con người nên tập trung hoàn toàn vào sự nghiệp để đạt được thành công tài chính nhanh chóng nhất có thể.",
+        "Vì các nghiên cứu hiện đại chỉ ra rằng việc tách biệt hoàn toàn hai lĩnh vực này sẽ làm giảm hiệu suất làm việc của cá nhân.",
+        "Vì quan điểm này ép buộc con người phải từ bỏ các sở thích cá nhân để dành toàn bộ thời gian cho các nhiệm vụ chuyên môn."
       ],
-      "correctIndex": 3,
-      "explanation": "Xem công việc là gánh nặng đối lập với cuộc sống là một cái bẫy nhị nguyên; giải pháp tối thượng là 'Hợp nhất cuộc sống' (Life Integration) thành một thể thống nhất tràn đầy niềm vui."
+      "correctIndex": 0,
+      "explanation": "Tác giả bác bỏ tư duy nhị nguyên chia cắt cuộc sống, thay vào đó đề xuất sự hợp nhất để tìm thấy niềm vui trong mọi việc."
     },
     {
       "id": "q2",
-      "question": "Mô hình 'Hợp nhất cuộc sống' (Life Integration) của Keith Ferrazzi được vận hành theo triết lý nào?",
+      "question": "Triết lý 'Hợp nhất cuộc sống' (Life Integration) mà tác giả đề xuất được thực hiện như thế nào trong thực tế?",
       "options": [
-        "Lắp đặt giường ngủ ngay tại văn phòng làm việc và không bao giờ về nhà.",
-        "Bắt buộc vợ/chồng và con cái phải làm việc cùng công ty với bạn.",
-        "Lồng ghép công việc, niềm đam mê, tình bạn và gia đình hòa quyện làm một: làm việc cùng những người bạn yêu quý, biến đồng nghiệp thành bạn thân và cùng nhau tận hưởng cuộc sống.",
-        "Xóa bỏ hoàn toàn ranh giới giữa ngày làm việc và ngày nghỉ cuối tuần."
+        "Thiết lập các ranh giới cứng nhắc giữa thời gian làm việc và thời gian nghỉ ngơi để đảm bảo sự tập trung cao độ cho công việc.",
+        "Lồng ghép công việc, đam mê và các mối quan hệ thân thiết thành một thể thống nhất để tận hưởng cuộc sống trọn vẹn mỗi ngày.",
+        "Ưu tiên việc xây dựng các mối quan hệ xã hội rộng rãi thay vì tập trung vào việc hoàn thành các mục tiêu công việc cụ thể.",
+        "Loại bỏ hoàn toàn các hoạt động giải trí cá nhân để dành toàn bộ năng lượng cho việc phát triển sự nghiệp và kết nối mới."
       ],
-      "correctIndex": 2,
-      "explanation": "Khi công việc là đam mê và đồng nghiệp là những người bạn tri kỷ, bạn không còn phải 'trốn chạy công việc để đi tìm cuộc sống'; bạn đang sống trọn vẹn từng phút giây."
+      "correctIndex": 1,
+      "explanation": "Hợp nhất cuộc sống giúp xóa bỏ sự xung đột giữa công việc và đời sống, biến mỗi khoảnh khắc thành một phần của niềm vui."
     },
     {
       "id": "q3",
-      "question": "Làm thế nào để đưa gia đình và người thân vào dòng chảy kết nối sự nghiệp một cách tự nhiên và hạnh phúc?",
+      "question": "Theo tác giả, làm thế nào để đưa gia đình và bạn bè vào dòng chảy sự nghiệp một cách tự nhiên và hạnh phúc?",
       "options": [
-        "Bắt buộc con cái phải học thuộc lòng các bài thuyết trình bán hàng của cha mẹ.",
-        "Để gia đình ở nhà và hoàn toàn không bao giờ kể về công việc cho người thân nghe.",
-        "Cùng gia đình tổ chức các bữa tiệc đón tiếp bạn bè, đối tác tại nhà riêng, hoặc đưa con cái cùng tham gia các chuyến công tác kết hợp trải nghiệm văn hóa.",
-        "Sử dụng toàn bộ tiền tiết kiệm gia đình để đầu tư vào các dự án mạo hiểm."
+        "Yêu cầu các thành viên trong gia đình tham gia trực tiếp vào các dự án kinh doanh để tăng cường sự gắn kết và thấu hiểu.",
+        "Chia sẻ chi tiết về các áp lực công việc hàng ngày để gia đình có thể hỗ trợ và đưa ra lời khuyên kịp thời cho bạn.",
+        "Tổ chức các buổi tiệc hiếu khách tại nhà riêng hoặc kết hợp các chuyến công tác với trải nghiệm văn hóa cùng người thân.",
+        "Dành toàn bộ thời gian cuối tuần để thảo luận về các chiến lược phát triển sự nghiệp cùng với những người bạn thân thiết."
       ],
       "correctIndex": 2,
-      "explanation": "Biến ngôi nhà thành tổ ấm hiếu khách giúp con cái được tiếp xúc sớm với những tấm gương xuất chúng, đồng thời gắn kết sâu sắc tình cảm gia đình."
+      "explanation": "Việc kết nối những người yêu quý vào cuộc sống chuyên nghiệp giúp tạo ra sự cân bằng tự nhiên và bền vững hơn."
     },
     {
       "id": "q4",
-      "question": "Tại sao việc xem đồng nghiệp chỉ là 'đối tác công việc đơn thuần' lại khiến bạn bị kiệt sức (Burnout) nhanh chóng?",
+      "question": "Tại sao việc xem đồng nghiệp chỉ là 'đối tác công việc đơn thuần' lại dễ dẫn đến sự kiệt sức và bất mãn?",
       "options": [
-        "Vì máy tính xách tay sẽ hoạt động chậm hơn nếu bạn không có bạn bè.",
-        "Vì các công ty sẽ trừ lương những nhân viên không có bạn thân ở nơi làm việc.",
-        "Vì bạn sẽ phải tự mình mang nước uống từ nhà đến văn phòng mỗi ngày.",
-        "Vì bạn phải đeo chiếc mặt nạ phòng thủ 8 tiếng mỗi ngày trong môi trường thiếu vắng sự tin cậy và tình cảm chân thật, tạo ra sự mệt mỏi tâm lý triền miên."
+        "Vì bạn sẽ không nhận được sự hỗ trợ cần thiết từ đồng nghiệp khi đối mặt với các thách thức khó khăn trong công việc.",
+        "Vì sự thiếu hụt các mối quan hệ thân thiết tại nơi làm việc làm giảm khả năng sáng tạo và hiệu suất làm việc của bạn.",
+        "Vì bạn sẽ cảm thấy cô đơn và lạc lõng khi không có ai để chia sẻ những khó khăn trong quá trình thực hiện dự án.",
+        "Vì bạn phải đeo mặt nạ phòng thủ trong môi trường thiếu sự tin cậy, gây ra sự mệt mỏi tâm lý kéo dài và thiếu cảm hứng."
       ],
       "correctIndex": 3,
-      "explanation": "Sống trong sự đề phòng và giả tạo là nguồn tiêu hao năng lượng lớn nhất; mở lòng xây dựng tình bạn tại nơi làm việc là liều thuốc chữa lành căng thẳng tốt nhất."
+      "explanation": "Sự giả tạo và thiếu kết nối chân thành tại nơi làm việc là nguồn tiêu hao năng lượng lớn nhất cho mỗi cá nhân."
     },
     {
       "id": "q5",
-      "question": "Khái niệm 'Chất lượng của sự hiện diện' (Quality of Presence) quan trọng hơn số lượng thời gian như thế nào?",
+      "question": "Khái niệm 'Chất lượng của sự hiện diện' (Quality of Presence) được tác giả nhấn mạnh như thế nào?",
       "options": [
-        "Bạn chỉ cần ở bên gia đình 1 phút mỗi tháng là đủ.",
-        "Sự hiện diện chỉ có giá trị khi bạn mang theo nhiều quà tặng đắt tiền.",
-        "Không cần phải nói chuyện khi ở bên cạnh những người thân yêu.",
-        "Dành 30 phút trọn vẹn 100% tâm trí, ánh mắt và tình yêu thương bên con cái/người thân có giá trị gấp vạn lần việc ngồi cạnh họ 5 tiếng nhưng tâm trí mải mê bấm điện thoại."
+        "Dành trọn vẹn tâm trí và tình yêu thương cho người đối diện có giá trị hơn nhiều so với việc ở bên họ nhưng thiếu tập trung.",
+        "Sự hiện diện được đo lường bằng tổng thời gian bạn dành cho người thân trong suốt một tuần làm việc bận rộn của mình.",
+        "Việc duy trì sự kết nối liên tục qua các thiết bị công nghệ giúp đảm bảo sự hiện diện của bạn trong mọi tình huống.",
+        "Sự hiện diện trọn vẹn chỉ có thể đạt được khi bạn hoàn toàn gác lại mọi công việc để tập trung vào các hoạt động gia đình."
       ],
-      "correctIndex": 3,
-      "explanation": "Sự hiện diện trọn vẹn của tâm thức là món quà cao quý nhất; sự chú ý không phân tâm nuôi dưỡng các mối quan hệ sâu sắc hơn bất kỳ số lượng thời gian hời hợt nào."
+      "correctIndex": 0,
+      "explanation": "Sự chú ý không phân tâm là món quà quý giá nhất giúp nuôi dưỡng các mối quan hệ sâu sắc và bền chặt hơn."
     },
     {
       "id": "q6",
-      "question": "Cách thức quản trị năng lượng thay vì quản trị thời gian (Manage Energy, Not Time) được áp dụng ra sao?",
+      "question": "Tác giả khuyên chúng ta nên quản trị năng lượng thay vì quản trị thời gian như thế nào?",
       "options": [
-        "Uống 10 cốc cà phê mỗi ngày để duy trì sự tỉnh táo liên tục 24 tiếng.",
-        "Lắng nghe nhịp sinh học cơ thể, đan xen giữa các giai đoạn làm việc tập trung cao độ và các khoảng nghỉ ngắn để tái tạo thể chất, cảm xúc và trí tuệ.",
-        "Làm việc liên tục 72 tiếng rồi ngủ bù trong 3 ngày tiếp theo.",
-        "Không bao giờ tập thể dục để tiết kiệm năng lượng cho não bộ."
+        "Tập trung hoàn thành các nhiệm vụ quan trọng nhất vào đầu ngày để đảm bảo năng lượng luôn ở mức cao nhất có thể.",
+        "Lắng nghe nhịp sinh học, đan xen giữa các giai đoạn làm việc tập trung cao độ và các khoảng nghỉ để tái tạo năng lượng.",
+        "Phân bổ thời gian làm việc một cách nghiêm ngặt để tránh tình trạng quá tải và duy trì sự ổn định của tinh thần.",
+        "Sử dụng các phương pháp quản lý thời gian hiện đại để tối ưu hóa hiệu suất làm việc trong suốt cả ngày dài làm việc."
       ],
       "correctIndex": 1,
-      "explanation": "Năng lượng là tài nguyên có thể tái tạo; làm việc nhịp nhàng theo chu kỳ đỉnh cao và phục hồi giúp duy trì hiệu suất xuất chúng trọn đời."
+      "explanation": "Năng lượng là tài nguyên có thể tái tạo, việc làm việc nhịp nhàng giúp duy trì hiệu suất cao mà không bị kiệt sức."
     },
     {
       "id": "q7",
-      "question": "Khi bạn đam mê một dự án đến mức 'quên ăn quên ngủ' nhưng tâm hồn luôn ngập tràn niềm vui và sự hưng phấn, trạng thái đó được gọi là gì?",
+      "question": "Khi bạn tìm thấy niềm vui trong công việc và sự cân bằng tự nhiên, trạng thái đó được mô tả như thế nào?",
       "options": [
-        "Trạng thái 'Dòng chảy' (Flow state) - sự hợp nhất đỉnh cao giữa năng lực và thử thách, nơi công việc biến thành niềm hạnh phúc thuần khiết.",
-        "Sự mất kiểm soát hành vi do áp lực tài chính đè nặng.",
-        "Căn bệnh nghiện công việc tiêu cực cần phải điều trị bằng thuốc.",
-        "Trạng thái ảo giác tạm thời không có thật trong khoa học."
+        "Đó là trạng thái mà bạn hoàn toàn không còn cảm thấy áp lực từ các mục tiêu công việc hay các kỳ vọng của xã hội.",
+        "Đó là khi bạn có thể dễ dàng đạt được mọi mục tiêu đề ra mà không cần phải nỗ lực quá nhiều trong quá trình làm việc.",
+        "Đó là khi bạn cảm thấy vui tươi, hăng hái và đầy hàm ơn, thay vì cảm giác hối hả, giận dữ hay thiếu ý nghĩa.",
+        "Đó là trạng thái mà công việc và cuộc sống cá nhân hoàn toàn tách biệt, giúp bạn có thời gian nghỉ ngơi tuyệt đối."
       ],
-      "correctIndex": 0,
-      "explanation": "Trạng thái Dòng chảy là cảnh giới cao nhất của sự sáng tạo; khi đó khái niệm 'phân chia công việc - cuộc sống' trở nên hoàn toàn thừa thãi."
+      "correctIndex": 2,
+      "explanation": "Cảm xúc tích cực là thước đo chính xác nhất cho thấy bạn đã tìm thấy sự cân bằng thực sự trong cuộc sống."
     },
     {
       "id": "q8",
-      "question": "Làm thế nào để bảo vệ ranh giới thiêng liêng cho những khoảng thời gian nghỉ ngơi phục hồi mà không làm gián đoạn công việc?",
+      "question": "Làm thế nào để thiết lập ranh giới cho những khoảng thời gian nghỉ ngơi mà vẫn giữ được uy tín với đối tác?",
       "options": [
-        "Từ chối mọi trách nhiệm công việc ngay khi hết giờ hành chính.",
-        "Yêu cầu khách hàng phải nộp phạt nếu gọi điện vào ngày cuối tuần.",
-        "Giao tiếp rõ ràng và chân thành với đồng nghiệp/đối tác về các khung giờ tĩnh tâm, đồng thời bàn giao công việc chu đáo trước khi bước vào kỳ nghỉ.",
-        "Tắt nguồn điện thoại và biến mất không báo trước với bất kỳ ai."
+        "Tắt hoàn toàn mọi phương tiện liên lạc để đảm bảo không ai có thể làm phiền bạn trong suốt thời gian nghỉ ngơi.",
+        "Chỉ phản hồi các yêu cầu công việc khẩn cấp nhất để duy trì sự chuyên nghiệp trong mắt các đối tác quan trọng.",
+        "Thông báo trước cho tất cả mọi người về lịch trình nghỉ ngơi của bạn để họ không gửi yêu cầu trong thời gian đó.",
+        "Giao tiếp rõ ràng về các khung giờ tĩnh tâm và bàn giao công việc chu đáo trước khi bước vào kỳ nghỉ cá nhân."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự chủ động thiết lập ranh giới chuyên nghiệp và cam kết trước giúp bạn tận hưởng kỳ nghỉ an yên mà vẫn giữ trọn uy tín với đối tác."
+      "correctIndex": 3,
+      "explanation": "Sự chủ động và chuyên nghiệp trong giao tiếp giúp bạn tận hưởng kỳ nghỉ mà không làm ảnh hưởng đến công việc."
     },
     {
       "id": "q9",
-      "question": "Tại sao việc mời những người bạn thân thiết cùng tham gia vào các dự án kinh doanh lại là một trải nghiệm tuyệt vời nếu có nguyên tắc rõ ràng?",
+      "question": "Tại sao việc kết nối với nhiều người lại giúp bạn nâng cao cơ hội thành công trong sự nghiệp?",
       "options": [
-        "Vì bạn có thể trả lương thấp hơn cho bạn bè so với người lạ.",
-        "Vì bạn bè sẽ không bao giờ dám khởi kiện bạn ra tòa án.",
-        "Vì đó là cách duy nhất để duy trì tình bạn sau tuổi 30.",
-        "Vì bạn được đồng hành cùng những người mình tuyệt đối tin tưởng, cùng chia sẻ giấc mơ và nhân đôi niềm vui khi chiến thắng cũng như sự nâng đỡ khi vấp ngã."
+        "Vì việc mở rộng mạng lưới quan hệ giúp bạn tiếp cận với những cơ hội công việc mới và hấp dẫn hơn từ mọi người.",
+        "Vì bạn có thể học hỏi được nhiều kỹ năng mới từ những người có kinh nghiệm trong cùng lĩnh vực chuyên môn của mình.",
+        "Vì mạng lưới quan hệ rộng lớn giúp bạn dễ dàng tìm kiếm sự hỗ trợ khi gặp phải các khó khăn trong công việc.",
+        "Vì việc kết nối với nhiều người giúp bạn xây dựng được uy tín cá nhân và thương hiệu mạnh mẽ trong ngành nghề."
       ],
-      "correctIndex": 3,
-      "explanation": "Làm việc cùng những người bạn tâm giao có sự chính trực biến hành trình kinh doanh đầy chông gai thành một chuyến phiêu lưu kỳ thú và ngập tràn tiếng cười."
+      "correctIndex": 0,
+      "explanation": "Mối quan hệ là chìa khóa mở ra những cánh cửa cơ hội mà bạn không thể tự mình tìm thấy nếu sống tách biệt."
     },
     {
       "id": "q10",
-      "question": "Điều gì là dấu hiệu cảnh báo cho thấy bạn đang 'nghiện công việc tiêu cực' (Workaholic) chứ không phải 'hợp nhất cuộc sống'?",
+      "question": "Dấu hiệu nào cho thấy bạn đang thực sự 'hợp nhất cuộc sống' thay vì chỉ đơn thuần là nghiện công việc?",
       "options": [
-        "Cảm thấy hào hứng và tràn đầy năng lượng mỗi sáng thức dậy đi làm.",
-        "Thường xuyên cười đùa và chia sẻ bữa trưa cùng đồng nghiệp.",
-        "Làm việc trong sự lo âu, cô độc, sợ hãi, bỏ bê sức khỏe bản thân và làm tổn thương sâu sắc mối quan hệ với những người thân yêu nhất trong gia đình.",
-        "Đạt được tất cả các chỉ số KPI kinh doanh xuất sắc trước thời hạn."
+        "Bạn đạt được tất cả các chỉ số KPI kinh doanh xuất sắc trước thời hạn mà không cần phải dành thời gian cho gia đình.",
+        "Bạn cảm thấy hạnh phúc nhờ vào cảm giác thân thuộc và sự kết nối sâu sắc với những người bạn yêu quý xung quanh.",
+        "Bạn luôn cảm thấy hào hứng khi bắt đầu một ngày làm việc mới và không bao giờ cảm thấy mệt mỏi hay chán nản.",
+        "Bạn có thể cân bằng hoàn hảo giữa công việc và cuộc sống bằng cách tuân thủ nghiêm ngặt các quy tắc cá nhân."
       ],
-      "correctIndex": 2,
-      "explanation": "Động cơ của hành động là chiếc la bàn phân định: Làm việc vì tình yêu và đam mê mang lại sinh khí; làm việc vì nỗi sợ và sự trốn tránh mang lại sự hủy diệt."
+      "correctIndex": 1,
+      "explanation": "Hạnh phúc thực sự đến từ cảm giác thân thuộc và những mối quan hệ chất lượng, không phải từ thành tích công việc."
     },
     {
       "id": "q11",
-      "question": "Nghệ thuật 'Nói lời từ chối thanh lịch' (The Elegant No) giúp bảo vệ sự hài hòa cuộc sống như thế nào?",
+      "question": "Tại sao việc xây dựng 'mối quan hệ quyền mở tủ lạnh' lại quan trọng đối với sự cân bằng của mỗi cá nhân?",
       "options": [
-        "Từ chối bằng cách đổ lỗi và nói xấu những người khác.",
-        "Từ chối dứt khoát nhưng nhã nhặn những lời mời, những cuộc họp vô bổ không phù hợp với sứ mệnh cốt lõi để bảo vệ thời gian cho những điều thực sự quan trọng.",
-        "Im lặng và không bao giờ phản hồi các lời mời của đối tác.",
-        "Luôn luôn đồng ý với tất cả mọi yêu cầu của bất kỳ ai để làm hài lòng mọi người."
+        "Vì việc có nhiều người bạn thân thiết giúp bạn dễ dàng giải quyết các vấn đề tài chính cá nhân khi gặp khó khăn.",
+        "Vì sự thân mật trong các mối quan hệ giúp bạn giảm bớt căng thẳng và áp lực từ môi trường làm việc hiện đại.",
+        "Vì những mối quan hệ gần gũi, thân mật giúp ta cảm thấy thoải mái, được hỗ trợ và hạnh phúc hơn trong cuộc sống.",
+        "Vì những người bạn có thể mở tủ lạnh nhà bạn là những người sẽ luôn ủng hộ mọi quyết định của bạn trong đời."
       ],
-      "correctIndex": 1,
-      "explanation": "Mỗi lần bạn nói 'Có' với một điều vô nghĩa là một lần bạn nói 'Không' với ước mơ và gia đình của mình; biết từ chối có chọn lọc là đỉnh cao của sự trưởng thành."
+      "correctIndex": 2,
+      "explanation": "Sự thân thuộc và gần gũi là liều thuốc tinh thần giúp con người cân bằng và thành công hơn trong cuộc sống."
     },
     {
       "id": "q12",
-      "question": "Khi bạn cảm thấy tâm trí bị phân tán và kiệt quệ cảm xúc, phương pháp 'Tái thiết lập nút nguồn' (Reset Button) hiệu quả nhất là gì?",
+      "question": "Theo tác giả, tại sao của cải vật chất không mang lại sự lành mạnh tinh thần cho con người?",
       "options": [
-        "Rời xa màn hình công nghệ trong 24 giờ, hòa mình vào thiên nhiên, thiền định hoặc dành trọn thời gian bên một người tri kỷ để kết nối lại với chính mình.",
-        "Uống thật nhiều rượu mạnh tại các quán bar ồn ào.",
-        "Làm việc thêm 10 tiếng mỗi ngày để quên đi cảm xúc mệt mỏi.",
-        "Mua sắm thật nhiều hàng hiệu để giải tỏa tâm lý căng thẳng."
+        "Vì của cải vật chất thường đi kèm với áp lực lớn về việc duy trì và bảo vệ tài sản cá nhân của mỗi người.",
+        "Vì sự giàu có về vật chất thường làm giảm đi động lực phấn đấu và sự sáng tạo của con người trong công việc.",
+        "Vì việc theo đuổi của cải vật chất thường khiến con người xa rời các giá trị đạo đức và tinh thần cốt lõi của mình.",
+        "Vì hạnh phúc thực sự đến từ cảm giác thân thuộc và sự kết nối giữa người với người, chứ không phải từ vật chất."
       ],
-      "correctIndex": 0,
-      "explanation": "Trở về với thiên nhiên và sự tĩnh lặng nội tâm giúp gột rửa những rác rưởi thông tin, tái sinh nguồn năng lượng sáng tạo thuần khiết."
+      "correctIndex": 3,
+      "explanation": "Nghiên cứu chỉ ra rằng cảm giác thuộc về và sự kết nối xã hội mới là nền tảng của hạnh phúc bền vững."
     },
     {
       "id": "q13",
-      "question": "Tại sao việc xây dựng 'Văn hóa công ty như một gia đình mở rộng' lại tạo ra lợi thế cạnh tranh vô địch?",
+      "question": "Thông điệp của tác giả về việc 'ăn con vượn 400kg' trong việc làm quen với người khác là gì?",
       "options": [
-        "Vì các thành viên trong công ty sẽ không bao giờ đòi hỏi tăng lương.",
-        "Vì nhân viên cảm nhận được sự yêu thương, an toàn và gắn bó thuộc về; họ sẽ cống hiến bằng cả trái tim và sự sáng tạo cao nhất mà tiền bạc không thể mua được.",
-        "Vì công ty có thể yêu cầu nhân viên làm việc không lương vào các ngày lễ.",
-        "Vì công ty sẽ không cần phải ký hợp đồng bảo hiểm y tế cho nhân viên."
+        "Phương thức tốt nhất để làm quen với người khác là bắt đầu bằng những hành động nhỏ, kiên trì từng bước một.",
+        "Bạn cần phải có một kế hoạch chi tiết và bài bản để tiếp cận những người quan trọng trong mạng lưới quan hệ.",
+        "Việc làm quen với người khác đòi hỏi sự dũng cảm và quyết tâm lớn để vượt qua những rào cản tâm lý ban đầu.",
+        "Bạn nên tập trung vào việc xây dựng các mối quan hệ chất lượng thay vì cố gắng kết nối với quá nhiều người."
       ],
-      "correctIndex": 1,
-      "explanation": "Lòng trung thành và sự tận tâm xuất phát từ sự thấu cảm và tình yêu thương; một tập thể gắn kết như một gia đình là một pháo đài bất khả chiến bại."
+      "correctIndex": 0,
+      "explanation": "Mọi thành tựu lớn đều bắt đầu từ những hành động nhỏ, việc kết nối cũng cần sự kiên trì và tích lũy dần dần."
     },
     {
       "id": "q14",
-      "question": "Một người có cuộc sống hợp nhất thành công sẽ nhìn nhận 'Thứ Hai đầu tuần' như thế nào?",
+      "question": "Tại sao tác giả cho rằng chúng ta không cần tự bảo vệ mà cần sự giúp đỡ từ người khác?",
       "options": [
-        "Xin nghỉ ốm để tránh phải đối mặt với áp lực công việc văn phòng.",
-        "Đón chào ngày thứ Hai với sự hào hứng và phấn khởi như một ngày lễ hội, vì họ được tiếp tục cuộc hành trình đam mê bên những người bạn tuyệt vời.",
-        "Uống thuốc an thần để vượt qua nỗi sợ hãi ngày đầu tuần.",
-        "Cảm thấy u uất, mệt mỏi và chỉ mong muốn ngày thứ Hai nhanh chóng trôi qua."
+        "Vì việc tự bảo vệ bản thân thường khiến con người trở nên cô lập và khó khăn hơn trong việc xây dựng quan hệ.",
+        "Vì sự kết nối và hỗ trợ lẫn nhau là thuốc giải độc hữu hiệu chống lại những ý tưởng cân bằng cổ điển sai lầm.",
+        "Vì sự giúp đỡ từ người khác giúp chúng ta vượt qua những thử thách khó khăn một cách nhanh chóng và hiệu quả.",
+        "Vì con người là sinh vật xã hội, sự tồn tại và phát triển của chúng ta phụ thuộc vào sự tương tác với người khác."
       ],
       "correctIndex": 1,
-      "explanation": "Khi cuộc sống và công việc hòa làm một bản giao hưởng hạnh phúc, mỗi ngày thức dậy đều là một món quà vô giá ngập tràn niềm vui sống."
+      "explanation": "Sự hỗ trợ từ cộng đồng giúp chúng ta sống trọn vẹn hơn và không cần phải gồng mình lên để tự bảo vệ bản thân."
     },
     {
       "id": "q15",
-      "question": "Thông điệp giải phóng tư tưởng lớn nhất của chương 30 là gì?",
+      "question": "Lời khuyên cuối cùng của tác giả để không phải lo lắng về vấn đề 'cân bằng' cuộc đời là gì?",
       "options": [
-        "Hãy ngừng cố gắng xẻ đôi cuộc đời mình thành những chiếc hộp ngăn cách; hãy kiến tạo một cuộc sống trọn vẹn, nơi công việc, đam mê và tình bằng hữu hòa quyện thành một kiệt tác rực rỡ.",
-        "Hãy hy sinh toàn bộ gia đình và bạn bè để đạt được sự giàu có tột bậc.",
-        "Hãy chấp nhận rằng cuộc sống luôn là một sự đau khổ và đầy mâu thuẫn.",
-        "Chỉ có những người từ bỏ công việc mới có thể tìm thấy hạnh phúc."
+        "Hãy tập trung vào việc phát triển bản thân để trở nên xuất sắc và không cần phụ thuộc vào bất kỳ ai khác nữa.",
+        "Hãy tìm kiếm một công việc mà bạn thực sự đam mê để có thể cống hiến toàn bộ thời gian và năng lượng của mình.",
+        "Hãy sống cuộc đời xung quanh những người bạn yêu quý và họ cũng yêu quý bạn, khi đó công việc sẽ là niềm vui.",
+        "Hãy học cách buông bỏ những kỳ vọng của xã hội để có thể tự do theo đuổi những mục tiêu cá nhân của riêng mình."
       ],
-      "correctIndex": 0,
-      "explanation": "Hợp nhất cuộc sống là đỉnh cao của tự do và trí tuệ; hãy sống một cuộc đời tròn đầy, nơi mọi khoảnh khắc đều chan chứa ý nghĩa và tình yêu thương."
+      "correctIndex": 2,
+      "explanation": "Khi cuộc sống tràn ngập tình yêu thương, khái niệm cân bằng trở nên thừa thãi vì mọi thứ đều hòa quyện vào nhau."
     }
   ]
 }

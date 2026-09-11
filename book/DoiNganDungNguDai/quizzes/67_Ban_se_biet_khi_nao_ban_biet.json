@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Dựa trên triết lý của Robin Sharma, ranh giới mỏng manh giữa 'kiên trì vượt khó' và 'cố chấp mù quáng' được xác định dựa trên yếu tố cốt lõi nào?",
+      "question": "Dựa trên triết lý của Robin Sharma, ranh giới giữa kiên trì vượt khó và cố chấp mù quáng được xác định bởi yếu tố nào?",
       "options": [
-        "Sự đánh giá khách quan của những chuyên gia và người xung quanh về tính khả thi của dự án.",
-        "Sự kết nối sâu sắc với trực giác cá nhân và tiếng nói nội tâm khi phương hướng hiện tại không còn hiệu quả.",
-        "Việc đo lường các chỉ số thành công cụ thể (KPI) sau một thời gian dài nỗ lực không ngừng nghỉ.",
-        "Sự xuất hiện của các rào cản ngoại cảnh quá lớn khiến việc tiếp tục trở nên phi thực tế."
+        "Sự kết nối sâu sắc với trực giác cá nhân và tiếng nói nội tâm khi phương hướng hiện tại không còn mang lại hiệu quả.",
+        "Việc đo lường các chỉ số thành công cụ thể sau một thời gian dài nỗ lực không ngừng nghỉ để đánh giá tính khả thi dự án.",
+        "Sự đánh giá khách quan của những chuyên gia và người xung quanh về tính khả thi của dự án trong bối cảnh thị trường hiện.",
+        "Sự xuất hiện của các rào cản ngoại cảnh quá lớn khiến việc tiếp tục theo đuổi mục tiêu trở nên phi thực tế và tốn kém."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả nhấn mạnh 'Bạn sẽ biết khi nào bạn biết'. Đây không phải là một phép tính logic hay ý kiến bên ngoài, mà là một sự thấu thị nội tâm. Kiên trì là tốt, nhưng khi mọi tế bào và niềm tin sâu thẳm mách bảo cần thay đổi để hướng tới điều tốt đẹp hơn, đó là lúc điều chỉnh thay vì cố chấp."
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh 'Bạn sẽ biết khi nào bạn biết'. Đây không phải là phép tính logic mà là sự thấu thị nội tâm khi mọi tế bào mách bảo cần thay đổi."
     },
     {
       "id": "q2",
-      "question": "Tại sao việc 'buông tay' một mục tiêu cũ trong chương này không được coi là sự thất bại hay đánh mất hy vọng?",
+      "question": "Tại sao việc buông tay một mục tiêu cũ trong chương này không được coi là sự thất bại hay đánh mất niềm hy vọng?",
       "options": [
-        "Vì đó là cách tối ưu hóa nguồn lực để tập trung vào những mục tiêu dễ đạt được hơn.",
-        "Vì thất bại chỉ là một trạng thái tâm lý tạm thời có thể được giải tỏa bằng cách từ bỏ.",
-        "Vì hành động đó dựa trên niềm tin rằng một cơ hội phù hợp và tốt đẹp hơn đang chờ đợi phía trước.",
-        "Vì tác giả cho rằng con người không nên quá gắn kết cảm xúc với bất kỳ mục tiêu nào."
+        "Vì đó là cách tối ưu hóa nguồn lực để tập trung vào những mục tiêu dễ đạt được hơn nhằm duy trì sự ổn định trong cuộc sống.",
+        "Vì hành động đó dựa trên niềm tin rằng một cơ hội phù hợp và tốt đẹp hơn đang chờ đợi bạn ở một khúc quanh khác phía trước.",
+        "Vì thất bại chỉ là một trạng thái tâm lý tạm thời có thể được giải tỏa bằng cách từ bỏ mục tiêu cũ để tìm kiếm sự bình yên.",
+        "Vì tác giả cho rằng con người không nên quá gắn kết cảm xúc với bất kỳ mục tiêu nào để tránh những tổn thương không đáng có."
       ],
-      "correctIndex": 2,
-      "explanation": "Robin Sharma lập luận rằng việc thay đổi phương hướng là một phần của 'niềm tin vào cuộc đời'. Khi bạn buông tay điều không còn phù hợp, bạn đang mở không gian cho những 'điều tốt đẹp hơn đang chờ đón nơi khúc quanh'. Đó là sự chuyển dịch chiến lược dựa trên niềm tin, không phải sự đầu hàng do tuyệt vọng."
+      "correctIndex": 1,
+      "explanation": "Robin Sharma lập luận rằng thay đổi phương hướng là một phần của niềm tin vào cuộc đời, mở không gian cho những điều tốt đẹp hơn đang chờ đón."
     },
     {
       "id": "q3",
-      "question": "Câu nói của Gilda Radner về 'sự mơ hồ ngọt ngào' ám chỉ điều gì trong tư duy của người lãnh đạo xuất chúng?",
+      "question": "Câu nói của Gilda Radner về sự mơ hồ ngọt ngào ám chỉ điều gì trong tư duy của người lãnh đạo xuất chúng?",
       "options": [
-        "Sự thiếu quyết đoán và chấp nhận để số phận dẫn dắt hoàn toàn.",
-        "Khả năng chịu đựng nghịch cảnh và biến cố mà không cần lập kế hoạch.",
-        "Sự sẵn sàng chung sống với những điều không chắc chắn và đón nhận thay đổi như một tất yếu.",
-        "Việc lãng mạn hóa những thất bại và khó khăn trong cuộc sống cá nhân."
+        "Khả năng chịu đựng nghịch cảnh và biến cố bất ngờ mà không cần phải lập kế hoạch chi tiết cho các giai đoạn tiếp theo.",
+        "Sự thiếu quyết đoán và chấp nhận để số phận dẫn dắt hoàn toàn mà không cần nỗ lực kiểm soát các kết quả công việc cụ thể.",
+        "Sự sẵn sàng chung sống với những điều không chắc chắn và đón nhận thay đổi như một tất yếu của hành trình phát triển.",
+        "Việc lãng mạn hóa những thất bại và khó khăn trong cuộc sống cá nhân để giảm bớt áp lực khi đối mặt với các thử thách."
       ],
       "correctIndex": 2,
-      "explanation": "Người xuất chúng hiểu rằng cuộc đời không phải luôn là một đường thẳng có khởi đầu và kết thúc rõ ràng. 'Sự mơ hồ ngọt ngào' là khả năng chấp nhận rằng không phải mọi thứ đều nằm trong tầm kiểm soát, từ đó giúp họ linh hoạt và sống trọn vẹn với hiện tại thay vì lo âu về tương lai không định trước."
+      "explanation": "Người xuất chúng hiểu cuộc đời không phải đường thẳng. Sự mơ hồ ngọt ngào là khả năng chấp nhận không phải mọi thứ đều nằm trong tầm kiểm soát."
     },
     {
       "id": "q4",
-      "question": "Trong bối cảnh quản trị sự nghiệp, triết lý 'Làm hết sức rồi để cuộc đời làm phần còn lại' giúp giải quyết bẫy tâm lý nào?",
+      "question": "Trong quản trị sự nghiệp, triết lý làm hết sức rồi để cuộc đời làm phần còn lại giúp giải quyết bẫy tâm lý nào?",
       "options": [
-        "Sự trì hoãn do cầu toàn (Perfectionism paralysis).",
-        "Nỗi ám ảnh về việc phải kiểm soát mọi kết quả (Control freak).",
-        "Sự tự mãn khi đạt được thành công bước đầu.",
-        "Sự thiếu trách nhiệm với những sai lầm cá nhân."
+        "Sự trì hoãn do cầu toàn khiến cá nhân không dám bắt đầu công việc vì sợ kết quả không đạt được sự hoàn hảo như mong đợi.",
+        "Sự tự mãn khi đạt được thành công bước đầu khiến cá nhân ngừng nỗ lực và mất đi động lực để phát triển bản thân hơn nữa.",
+        "Sự thiếu trách nhiệm với những sai lầm cá nhân khi đổ lỗi cho các yếu tố ngoại cảnh thay vì nhìn nhận lại năng lực bản thân.",
+        "Nỗi ám ảnh về việc phải kiểm soát mọi kết quả khiến con người rơi vào trạng thái căng thẳng và kiệt sức kéo dài."
       ],
-      "correctIndex": 1,
-      "explanation": "Nhiều người rơi vào căng thẳng vì muốn kiểm soát cả những yếu tố ngoại cảnh vốn nằm ngoài tầm tay. Triết lý này tách biệt rõ: Hành động (phần của ta) và Kết quả (phần của cuộc đời). Nó giúp duy trì nỗ lực tối đa mà không bị hủy hoại bởi sự thất vọng khi kết quả không như ý."
+      "correctIndex": 3,
+      "explanation": "Triết lý này tách biệt hành động và kết quả, giúp duy trì nỗ lực tối đa mà không bị hủy hoại bởi sự thất vọng khi kết quả không như ý."
     },
     {
       "id": "q5",
-      "question": "Một người đang nỗ lực khởi nghiệp nhưng liên tục gặp thua lỗ trong 3 năm. Theo logic của chương 67, khi nào họ nên thực sự dừng lại?",
+      "question": "Một người khởi nghiệp liên tục thua lỗ trong 3 năm. Theo logic của chương 67, khi nào họ nên thực sự dừng lại?",
       "options": [
-        "Khi nguồn vốn dự trữ đã cạn kiệt hoàn toàn và không thể vay mượn thêm.",
-        "Khi tất cả các cố vấn kinh tế đều khuyên họ nên đóng cửa doanh nghiệp.",
-        "Khi sự mệt mỏi về thể xác khiến họ không còn đủ sức khỏe để làm việc.",
-        "Khi trực giác và sự tỉnh táo nội tâm xác nhận rằng con đường này không còn dẫn đến giá trị thực sự nữa."
+        "Khi trực giác và sự tỉnh táo nội tâm xác nhận rằng con đường này không còn dẫn đến giá trị thực sự cho bản thân và xã hội.",
+        "Khi nguồn vốn dự trữ đã cạn kiệt hoàn toàn và không thể vay mượn thêm từ bạn bè hay các tổ chức tín dụng uy tín hiện nay.",
+        "Khi tất cả các cố vấn kinh tế đều khuyên họ nên đóng cửa doanh nghiệp để bảo toàn số vốn còn lại cho những dự án khác.",
+        "Khi sự mệt mỏi về thể xác khiến họ không còn đủ sức khỏe để làm việc với cường độ cao như giai đoạn đầu mới bắt đầu khởi."
       ],
-      "correctIndex": 3,
-      "explanation": "Dù kiên trì là 'dấu son của sự vượt trội', nhưng tác giả nhấn mạnh thời điểm 'biết' cần thay đổi. Đó là sự hội tụ của trải nghiệm và trực giác, khi người đó nhận ra việc tiếp tục chỉ là sự lặp lại vô ích thay vì sự tiến hóa, và niềm tin mách bảo cần một chiến lược mới."
+      "correctIndex": 0,
+      "explanation": "Thời điểm dừng lại là sự hội tụ của trải nghiệm và trực giác, khi nhận ra việc tiếp tục chỉ là sự lặp lại vô ích thay vì sự tiến hóa."
     },
     {
       "id": "q6",
-      "question": "Sự khác biệt lớn nhất giữa một người 'chấp nhận thất bại' và một người 'điều chỉnh phương hướng' là gì?",
+      "question": "Sự khác biệt lớn nhất giữa một người chấp nhận thất bại và một người điều chỉnh phương hướng là gì?",
       "options": [
+        "Người chấp nhận thất bại không có kế hoạch dự phòng; người điều chỉnh phương hướng luôn có nhiều phương án B sẵn sàng.",
         "Người chấp nhận thất bại từ bỏ vì sợ hãi; người điều chỉnh phương hướng thay đổi vì niềm tin vào điều tốt đẹp hơn.",
-        "Người chấp nhận thất bại không có kế hoạch dự phòng; người điều chỉnh phương hướng có nhiều phương án B.",
-        "Người chấp nhận thất bại làm việc thiếu chăm chỉ; người điều chỉnh phương hướng luôn làm hết sức.",
-        "Không có sự khác biệt, cả hai đều dẫn đến kết cục là từ bỏ mục tiêu ban đầu."
+        "Người chấp nhận thất bại làm việc thiếu chăm chỉ; người điều chỉnh phương hướng luôn làm hết sức mình trong mọi hoàn cảnh.",
+        "Không có sự khác biệt rõ rệt, cả hai đều dẫn đến kết cục là từ bỏ mục tiêu ban đầu đã đề ra từ trước đó rất lâu rồi."
       ],
-      "correctIndex": 0,
-      "explanation": "Vấn đề nằm ở động cơ và trạng thái tinh thần. Chấp nhận thất bại là đầu hàng trước nghịch cảnh. Điều chỉnh phương hướng (như tác giả mô tả) là một hành động dũng cảm, dựa trên sự thấu hiểu rằng con đường hiện tại đã hết giá trị và việc chuyển hướng là để tìm kiếm sự vượt trội ở một nơi khác."
+      "correctIndex": 1,
+      "explanation": "Vấn đề nằm ở động cơ. Chấp nhận thất bại là đầu hàng. Điều chỉnh phương hướng là hành động dũng cảm để tìm kiếm sự vượt trội ở nơi khác."
     },
     {
       "id": "q7",
-      "question": "Tại sao Robin Sharma cho rằng 'Tin vào bản thân là dấu son của sự vượt trội' ngay cả khi đối mặt với bóng tối?",
+      "question": "Tại sao Robin Sharma cho rằng tin vào bản thân là dấu son của sự vượt trội ngay cả khi đối mặt với bóng tối?",
       "options": [
-        "Vì tự tin giúp người khác tin tưởng và đầu tư vào dự án của bạn.",
-        "Vì niềm tin nội tâm là nguồn năng lượng duy nhất còn lại khi các điều kiện ngoại cảnh đều chống lại bạn.",
-        "Vì những người thành công nhất lịch sử đều có cái tôi rất lớn.",
-        "Vì niềm tin sẽ tự động biến những điều bất khả thi thành khả thi mà không cần hành động."
+        "Vì tự tin giúp người khác tin tưởng và đầu tư vào dự án của bạn nhiều hơn trong những giai đoạn khó khăn nhất của sự nghiệp.",
+        "Vì những người thành công nhất lịch sử đều có cái tôi rất lớn để bảo vệ quan điểm cá nhân trước sự phản đối của đám đông.",
+        "Vì niềm tin nội tâm là nguồn năng lượng duy nhất còn lại khi các điều kiện ngoại cảnh đều chống lại bạn một cách khắc nghiệt.",
+        "Vì niềm tin sẽ tự động biến những điều bất khả thi thành khả thi mà không cần phải thực hiện quá nhiều hành động cụ thể."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi 'mây đen không tan' và 'vận may không mỉm cười', chỉ có lòng tin nội tâm mới giúp một cá nhân tiếp tục tiến bước. Đó là bộ lọc để phân loại người tầm thường (chỉ hành động khi thuận lợi) và người xuất chúng (kiên trì nhờ ngọn lửa bên trong)."
+      "correctIndex": 2,
+      "explanation": "Khi mây đen không tan, chỉ có lòng tin nội tâm mới giúp cá nhân tiếp tục tiến bước, phân loại người tầm thường và người xuất chúng."
     },
     {
       "id": "q8",
       "question": "Nếu áp dụng triết lý của Gilda Radner vào việc quản lý dự án, một nhà lãnh đạo sẽ hành động như thế nào?",
       "options": [
-        "Từ bỏ việc lập kế hoạch dài hạn vì mọi thứ đều sẽ thay đổi.",
-        "Chỉ tập trung vào những mục tiêu ngắn hạn có thể đạt được ngay lập tức.",
-        "Linh hoạt thích nghi với các biến số mới mà không quá cứng nhắc vào quy trình ban đầu.",
-        "Luôn chuẩn bị tâm thế cho sự thất bại để không bị hụt hẫng."
+        "Từ bỏ việc lập kế hoạch dài hạn vì mọi thứ đều sẽ thay đổi theo thời gian và không thể dự đoán được kết quả cuối cùng.",
+        "Chỉ tập trung vào những mục tiêu ngắn hạn có thể đạt được ngay lập tức để tạo ra sự an tâm cho đội ngũ nhân viên của mình.",
+        "Luôn chuẩn bị tâm thế cho sự thất bại để không bị hụt hẫng khi dự án không đạt được các cột mốc quan trọng như kỳ vọng.",
+        "Linh hoạt thích nghi với các biến số mới mà không quá cứng nhắc vào quy trình ban đầu đã được thiết lập từ trước đó."
       ],
-      "correctIndex": 2,
-      "explanation": "Gilda Radner nói về việc đón nhận sự không rõ ràng. Trong quản lý, điều này tương đương với tư duy 'Agile' (linh hoạt) - sống và làm việc hết mình cho từng giai đoạn, sẵn sàng điều chỉnh khi dự án 'không có vần điệu' hay kết thúc không như dự kiến."
+      "correctIndex": 3,
+      "explanation": "Gilda Radner nói về việc đón nhận sự không rõ ràng. Trong quản lý, điều này tương đương với tư duy linh hoạt, sẵn sàng điều chỉnh khi cần."
     },
     {
       "id": "q9",
-      "question": "Bẫy tư duy nào khiến người ta thường 'ngủ dài' hoặc trì hoãn việc thay đổi dù sâu thẳm đã biết cần phải làm vậy?",
+      "question": "Bẫy tư duy nào khiến người ta thường trì hoãn việc thay đổi dù sâu thẳm đã biết cần phải làm vậy?",
       "options": [
-        "Sự lạc quan tếu về tương lai.",
-        "Nỗi sợ đau khổ khi phải buông bỏ những gì đã dày công gây dựng.",
-        "Sự thiếu hụt thông tin về thị trường và đối thủ.",
-        "Do quá chú trọng vào việc nghỉ ngơi và hưởng thụ."
+        "Nỗi sợ đau khổ khi phải buông bỏ những gì đã dày công gây dựng và đối mặt với cảm giác thất bại tạm thời trong cuộc sống.",
+        "Sự lạc quan tếu về tương lai khiến con người tin rằng mọi khó khăn sẽ tự biến mất mà không cần phải thực hiện thay đổi.",
+        "Sự thiếu hụt thông tin về thị trường và đối thủ cạnh tranh khiến cá nhân không đủ cơ sở để đưa ra quyết định thay đổi.",
+        "Do quá chú trọng vào việc nghỉ ngơi và hưởng thụ nên con người thường ngại thay đổi để duy trì trạng thái thoải mái hiện."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả thừa nhận: 'Thật không dễ dàng buông tay... vì bạn sẽ phải đau khổ nhiều'. Chính nỗi sợ phải đối mặt với sự mất mát và cảm giác thất bại tạm thời khiến nhiều người cố bám lấy những thứ không còn giá trị thay vì dũng cảm bước sang trang mới."
+      "correctIndex": 0,
+      "explanation": "Tác giả thừa nhận việc buông tay không dễ dàng vì nỗi sợ mất mát và cảm giác thất bại khiến người ta cố bám lấy những thứ không còn giá trị."
     },
     {
       "id": "q10",
-      "question": "Theo tinh thần của chương này, một hành động được coi là 'can trường' khi nào?",
+      "question": "Theo tinh thần của chương này, một hành động được coi là can trường khi nào?",
       "options": [
-        "Khi nó được thực hiện bất chấp mọi rủi ro về tài chính.",
-        "Khi một người kiên trì làm một việc cho đến chết mà không bao giờ thay đổi.",
-        "Khi nó được thực hiện bởi những người không chấp nhận thất bại ngay cả khi sự việc trông như bất khả thi.",
-        "Khi nó mang lại kết quả vang dội và được xã hội công nhận ngay lập tức."
+        "Khi nó được thực hiện bất chấp mọi rủi ro về tài chính mà không cần cân nhắc đến hậu quả lâu dài cho bản thân và gia đình.",
+        "Khi nó được thực hiện bởi những người không chấp nhận thất bại ngay cả khi sự việc trông như bất khả thi và tồi tệ.",
+        "Khi một người kiên trì làm một việc cho đến chết mà không bao giờ thay đổi phương hướng dù hoàn cảnh đã thay đổi hoàn.",
+        "Khi nó mang lại kết quả vang dội và được xã hội công nhận ngay lập tức sau một thời gian ngắn nỗ lực không ngừng nghỉ."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả khẳng định: 'Tất cả những hành động can trường đều do những người không chấp nhận thất bại thực hiện'. Sự can trường nằm ở tinh thần chiến đấu bền bỉ ngay cả trong những điều kiện tồi tệ nhất, trước khi trực giác mách bảo thời điểm để thay đổi."
+      "correctIndex": 1,
+      "explanation": "Tác giả khẳng định hành động can trường đến từ người không chấp nhận thất bại, chiến đấu bền bỉ ngay cả trong điều kiện tồi tệ nhất."
     },
     {
       "id": "q11",
-      "question": "Nghịch lý nào được thể hiện qua việc 'biết khi nào cần dừng lại'?",
+      "question": "Nghịch lý nào được thể hiện qua việc biết khi nào cần dừng lại?",
       "options": [
-        "Dừng lại thực chất là một hình thức tiến lên trên một con đường hiệu quả hơn.",
-        "Dừng lại là biểu hiện của sự yếu đuối nhưng lại giúp bảo toàn lực lượng.",
-        "Dừng lại để thể hiện sự khiêm tốn trước sức mạnh của định mệnh.",
-        "Dừng lại để chứng minh rằng mình đã làm hết sức có thể."
+        "Dừng lại là biểu hiện của sự yếu đuối nhưng lại giúp bảo toàn lực lượng để chuẩn bị cho những cuộc chiến khác trong tương.",
+        "Dừng lại để thể hiện sự khiêm tốn trước sức mạnh của định mệnh và chấp nhận rằng con người không thể kiểm soát mọi thứ.",
+        "Dừng lại thực chất là một hình thức tiến lên trên một con đường hiệu quả hơn để đạt được mục tiêu cao cả hơn trong đời.",
+        "Dừng lại để chứng minh rằng mình đã làm hết sức có thể và không còn gì để hối tiếc về những nỗ lực đã bỏ ra trước đó."
       ],
-      "correctIndex": 0,
-      "explanation": "Đây là nghịch lý của sự phát triển. Đôi khi việc từ bỏ một chiến lược cũ không phải là lùi bước, mà là bước chuẩn bị cần thiết để nhảy vọt trên một hành trình mới tốt đẹp hơn, thể hiện sự tỉnh táo thay vì kiên trì mù quáng."
+      "correctIndex": 2,
+      "explanation": "Đây là nghịch lý của sự phát triển. Từ bỏ chiến lược cũ không phải lùi bước, mà là bước chuẩn bị cần thiết để nhảy vọt trên hành trình mới."
     },
     {
       "id": "q12",
-      "question": "Trong cụm từ 'Một sự mơ hồ ngọt ngào', tại sao sự mơ hồ lại được gọi là 'ngọt ngào'?",
+      "question": "Trong cụm từ Một sự mơ hồ ngọt ngào, tại sao sự mơ hồ lại được gọi là ngọt ngào?",
       "options": [
-        "Vì nó giúp con người có lý do để lười biếng và không cần nỗ lực.",
-        "Vì nó chứa đựng những khả năng vô tận và những bất ngờ thú vị của cuộc sống.",
-        "Vì nó làm giảm đi trách nhiệm cá nhân đối với các kết quả sai lầm.",
-        "Vì nó khiến cuộc sống trở nên giống như một bộ phim lãng mạn."
+        "Vì nó giúp con người có lý do để lười biếng và không cần nỗ lực quá nhiều trong việc lập kế hoạch cho tương lai xa xôi.",
+        "Vì nó làm giảm đi trách nhiệm cá nhân đối với các kết quả sai lầm khi mọi thứ đều nằm ngoài tầm kiểm soát của con người.",
+        "Vì nó khiến cuộc sống trở nên giống như một bộ phim lãng mạn đầy màu sắc và không có những áp lực nặng nề của thực tế.",
+        "Vì nó chứa đựng những khả năng vô tận và những bất ngờ thú vị của cuộc sống mà con người không thể biết trước được."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự mơ hồ 'ngọt ngào' bởi vì nếu mọi thứ đều được định sẵn và biết trước, cuộc sống sẽ mất đi sự sống động và những cơ hội tiềm ẩn. Việc chấp nhận sự không chắc chắn cho phép con người sống trọn vẹn và hy vọng vào những điều tốt đẹp bất ngờ."
+      "correctIndex": 3,
+      "explanation": "Sự mơ hồ ngọt ngào vì nếu mọi thứ đều biết trước, cuộc sống sẽ mất đi sự sống động và những cơ hội tiềm ẩn, cho phép hy vọng vào điều tốt đẹp."
     },
     {
       "id": "q13",
-      "question": "Robin Sharma khuyên chúng ta nên làm gì khi nỗ lực hết mình nhưng 'mây đen vẫn không tan'?",
+      "question": "Robin Sharma khuyên chúng ta nên làm gì khi nỗ lực hết mình nhưng mây đen vẫn không tan?",
       "options": [
-        "Ngay lập tức bỏ cuộc để tìm kiếm sự bình yên.",
-        "Tiếp tục tiến vào màn đêm bằng sức mạnh của lòng tin nội tâm.",
-        "Chờ đợi cho đến khi có sự giúp đỡ từ bên ngoài.",
-        "Phân tích lại lỗi lầm của bản thân một cách tiêu cực."
+        "Tiếp tục tiến vào màn đêm bằng sức mạnh của lòng tin nội tâm để duy trì ngọn lửa đam mê trong thâm sâu của chính mình.",
+        "Ngay lập tức bỏ cuộc để tìm kiếm sự bình yên và tránh những tổn thương không đáng có trong quá trình theo đuổi mục tiêu.",
+        "Chờ đợi cho đến khi có sự giúp đỡ từ bên ngoài để vượt qua những khó khăn hiện tại mà không cần phải tự mình nỗ lực.",
+        "Phân tích lại lỗi lầm của bản thân một cách tiêu cực để rút kinh nghiệm cho những lần thử thách tiếp theo trong tương lai."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả viết: 'Ta vẫn tiến vào màn đêm, được tiếp thêm sức mạnh chỉ bằng lòng tin'. Điều này khuyến khích sự kiên định bền bỉ, miễn là ngọn lửa bên trong vẫn cháy, trước khi đạt đến điểm 'biết' cần phải chuyển hướng."
+      "correctIndex": 0,
+      "explanation": "Tác giả viết: 'Ta vẫn tiến vào màn đêm, được tiếp thêm sức mạnh chỉ bằng lòng tin'. Điều này khuyến khích sự kiên định bền bỉ."
     },
     {
       "id": "q14",
       "question": "Triết lý trong chương này phản ánh thái độ sống nào sau đây?",
       "options": [
-        "Chủ nghĩa định mệnh (mọi việc đã được sắp đặt).",
-        "Chủ nghĩa thực dụng (chỉ làm những gì có lợi).",
-        "Sự cân bằng giữa ý chí cá nhân và sự thuận theo tự nhiên.",
-        "Sự tự tin thái quá vào năng lực bản thân."
+        "Chủ nghĩa định mệnh tin rằng mọi việc đã được sắp đặt sẵn và con người không cần phải nỗ lực thay đổi hoàn cảnh hiện.",
+        "Sự cân bằng giữa ý chí cá nhân mạnh mẽ và sự thuận theo tự nhiên khi đối mặt với những biến cố không thể kiểm soát.",
+        "Chủ nghĩa thực dụng chỉ làm những gì có lợi cho bản thân và sẵn sàng từ bỏ ngay khi thấy không còn mang lại kết quả.",
+        "Sự tự tin thái quá vào năng lực bản thân khiến con người không bao giờ chịu dừng lại dù con đường đã không còn phù hợp."
       ],
-      "correctIndex": 2,
-      "explanation": "Chương này là sự kết hợp: Một mặt khuyến khích ý chí sắt đá (không bao giờ bỏ cuộc), mặt khác dạy cách buông bỏ và tin tưởng vào dòng chảy cuộc đời (làm hết sức rồi để cuộc đời làm phần còn lại). Đây là thái độ sống hài hòa, tích cực."
+      "correctIndex": 1,
+      "explanation": "Chương này kết hợp ý chí sắt đá (không bỏ cuộc) và sự buông bỏ, tin tưởng vào dòng chảy cuộc đời (làm hết sức rồi để cuộc đời làm phần còn lại)."
     },
     {
       "id": "q15",
-      "question": "Nếu một người luôn cảm thấy 'biết' mình nên bỏ cuộc ngay khi gặp khó khăn đầu tiên, họ đã hiểu sai triết lý của Robin Sharma như thế nào?",
+      "question": "Nếu một người luôn cảm thấy biết mình nên bỏ cuộc ngay khi gặp khó khăn đầu tiên, họ đã hiểu sai triết lý như thế nào?",
       "options": [
-        "Họ đã quá tin vào trực giác của mình.",
-        "Họ nhầm lẫn giữa sự lười biếng/nỗi sợ với trực giác thực sự của người đã 'làm hết sức'.",
-        "Họ đang áp dụng đúng vì tác giả nói 'bạn sẽ biết khi nào bạn biết'.",
-        "Họ đang quá lạc quan về những cơ hội mới sắp đến."
+        "Họ đã quá tin vào trực giác của mình mà không chịu nhìn nhận thực tế khách quan về những cơ hội đang chờ đợi phía trước.",
+        "Họ đang áp dụng đúng vì tác giả nói bạn sẽ biết khi nào bạn biết nên việc dừng lại là hoàn toàn hợp lý và cần thiết.",
+        "Họ nhầm lẫn giữa sự lười biếng hoặc nỗi sợ hãi với trực giác thực sự của người đã nỗ lực làm hết sức mình trước đó.",
+        "Họ đang quá lạc quan về những cơ hội mới sắp đến nên không cần phải cố gắng vượt qua những thử thách nhỏ nhặt ban đầu."
       ],
-      "correctIndex": 1,
-      "explanation": "Trực giác 'biết khi nào dừng' chỉ có giá trị sau khi bạn đã 'làm hết sức' và thể hiện tinh thần 'không bao giờ bỏ cuộc'. Nếu chưa nỗ lực tận cùng mà đã muốn dừng lại, đó chỉ là sự thoái lui của tâm lý yếu đuối, không phải là sự thấu thị của người vượt trội."
+      "correctIndex": 2,
+      "explanation": "Trực giác chỉ có giá trị sau khi đã làm hết sức. Nếu chưa nỗ lực tận cùng mà đã dừng lại, đó là sự thoái lui của tâm lý yếu đuối."
     }
   ]
 }

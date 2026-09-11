@@ -8,22 +8,22 @@
       "id": "q1",
       "question": "Theo triết lý của tác giả, 'làm chủ bản thân' trong môi trường công sở đầy áp lực nên được hiểu như thế nào là đúng nhất?",
       "options": [
-        "Kiểm soát cảm xúc để luôn chiều lòng khách hàng và đối tác.",
-        "Giữ vững giá trị cá nhân và hiệu suất cao bất chấp nghịch cảnh khách quan.",
-        "Từ bỏ công việc hiện tại nếu môi trường quá khắc nghiệt và không công bằng.",
-        "Phớt lờ những khó khăn ngoại cảnh để tập trung hoàn toàn vào kỹ năng chuyên môn."
+        "Chủ động duy trì phẩm giá và hiệu suất làm việc cao nhất bất chấp những nghịch cảnh khách quan đang bủa vây xung quanh.",
+        "Nỗ lực kiểm soát mọi cảm xúc cá nhân để luôn chiều lòng khách hàng và đối tác nhằm đạt được sự hài lòng tuyệt đối.",
+        "Từ bỏ công việc hiện tại nếu môi trường quá khắc nghiệt và không công bằng để tìm kiếm một bến đỗ mới thuận lợi hơn.",
+        "Phớt lờ những khó khăn ngoại cảnh để tập trung hoàn toàn vào kỹ năng chuyên môn nhằm đạt được mục tiêu doanh số đề ra."
       ],
-      "correctIndex": 1,
-      "explanation": "Làm chủ bản thân không phải là sự nhẫn nhịn cam chịu (phương án A) hay trốn tránh (phương án C), mà là sự chủ động duy trì phẩm giá và năng lực cao nhất dù hoàn cảnh bên ngoài không hoàn hảo."
+      "correctIndex": 0,
+      "explanation": "Làm chủ bản thân là sự chủ động duy trì phẩm giá và năng lực cao nhất dù hoàn cảnh bên ngoài không hoàn hảo, không phải là sự nhẫn nhịn hay trốn tránh."
     },
     {
       "id": "q2",
-      "question": "Tại sao tác giả cho rằng việc 'biết mình là ai' lại là tiền đề của việc làm chủ bản thân?",
+      "question": "Tại sao tác giả cho rằng việc 'biết mình là ai' lại là tiền đề quan trọng nhất của việc làm chủ bản thân?",
       "options": [
-        "Để xây dựng thương hiệu cá nhân nổi bật hơn đồng nghiệp.",
-        "Để có danh mục các giá trị đối chiếu khi đối mặt với quyết định khó khăn.",
-        "Để tránh việc bị người khác lợi dụng trong công việc.",
-        "Để có thể lên kế hoạch cho sự nghiệp một cách chính xác nhất."
+        "Để xây dựng thương hiệu cá nhân nổi bật hơn so với đồng nghiệp trong cùng một môi trường làm việc đầy tính cạnh tranh.",
+        "Để xây dựng hệ giá trị đối chiếu vững chắc, giúp cá nhân giữ vững lập trường khi đối mặt với những quyết định khó khăn.",
+        "Để tránh việc bị người khác lợi dụng trong công việc và bảo vệ quyền lợi cá nhân trước những áp lực từ phía tổ chức.",
+        "Để có thể lên kế hoạch cho sự nghiệp một cách chính xác nhất và đạt được các cột mốc thăng tiến trong thời gian ngắn."
       ],
       "correctIndex": 1,
       "explanation": "Nếu không có hệ giá trị cốt lõi (tự nhận thức), cá nhân dễ bị cuốn theo áp lực ngoại cảnh hoặc kỳ vọng của đám đông, làm mất đi khả năng dẫn dắt chính mình."
@@ -32,157 +32,157 @@
       "id": "q3",
       "question": "Trong bối cảnh 'nổi bật với công việc mình làm', tư duy nào là cốt lõi để đạt đến sự 'không thể thay thế'?",
       "options": [
-        "Làm tốt mọi yêu cầu của sếp để trở thành nhân viên xuất sắc.",
-        "Chỉ tập trung vào những đầu việc mang lại giá trị trực tiếp cho công ty.",
-        "Nâng cấp giá trị bản thân đến mức sự thiếu vắng bạn gây gián đoạn hệ thống.",
-        "Xây dựng mối quan hệ tốt với đồng nghiệp để được bảo vệ khi khó khăn."
+        "Làm tốt mọi yêu cầu của cấp trên để trở thành nhân viên xuất sắc và nhận được sự tin tưởng tuyệt đối từ phía lãnh đạo.",
+        "Chỉ tập trung vào những đầu việc mang lại giá trị trực tiếp cho công ty để tối ưu hóa thời gian và nguồn lực cá nhân.",
+        "Nâng cấp giá trị bản thân đến mức sự thiếu vắng bạn sẽ gây ra sự gián đoạn nghiêm trọng cho hệ thống vận hành tổ chức.",
+        "Xây dựng mối quan hệ tốt với đồng nghiệp để được hỗ trợ và bảo vệ khi gặp phải những khó khăn trong quá trình làm việc."
       ],
       "correctIndex": 2,
-      "explanation": "Sự không thể thay thế không đến từ việc phục tùng (A) hay quan hệ (D), mà đến từ việc tạo ra giá trị chuyên môn đẳng cấp cao, biến sự hiện diện của bạn thành nguồn lực cốt yếu của tổ chức."
+      "explanation": "Sự không thể thay thế đến từ việc tạo ra giá trị chuyên môn đẳng cấp cao, biến sự hiện diện của bạn thành nguồn lực cốt yếu của tổ chức."
     },
     {
       "id": "q4",
       "question": "Tác giả nhắc đến việc 'thoát khỏi những cảm xúc trói buộc của quá khứ'. Điều này có ý nghĩa gì trong phát triển lãnh đạo?",
       "options": [
-        "Quên đi mọi thất bại để giữ tâm lý lạc quan.",
-        "Tách biệt giữa kinh nghiệm đau thương và định kiến hành vi để chủ động lựa chọn cách phản ứng mới.",
-        "Phủ nhận những sai lầm trong quá khứ để bắt đầu làm lại từ đầu.",
-        "Không quan tâm đến bài học cũ để hướng đến tương lai."
+        "Quên đi mọi thất bại trong quá khứ để giữ tâm lý lạc quan và hướng tới những mục tiêu lớn lao hơn trong tương lai.",
+        "Phủ nhận những sai lầm trong quá khứ để bắt đầu làm lại từ đầu với một tư duy hoàn toàn mới mẻ và đầy năng lượng.",
+        "Không quan tâm đến những bài học cũ để tập trung toàn bộ tâm trí vào việc giải quyết các vấn đề cấp bách hiện nay.",
+        "Tách biệt giữa kinh nghiệm đau thương và định kiến hành vi để chủ động lựa chọn cách phản ứng mới cho hiện tại."
       ],
-      "correctIndex": 1,
-      "explanation": "Lãnh đạo cần dùng bài học cũ để soi sáng chứ không dùng cảm xúc của quá khứ làm gông cùm giới hạn hành động của hiện tại. Đó là sự tỉnh thức."
+      "correctIndex": 3,
+      "explanation": "Lãnh đạo cần dùng bài học cũ để soi sáng chứ không dùng cảm xúc của quá khứ làm gông cùm giới hạn hành động của hiện tại."
     },
     {
       "id": "q5",
-      "question": "Tại sao tác giả nhấn mạnh việc 'cực kỳ khỏe mạnh' như một yêu cầu của làm chủ bản thân?",
+      "question": "Tại sao tác giả nhấn mạnh việc 'cực kỳ khỏe mạnh' như một yêu cầu thiết yếu của việc làm chủ bản thân?",
       "options": [
-        "Sức khỏe tốt giúp làm việc ngoài giờ nhiều hơn.",
-        "Vì trí tuệ và tinh thần phụ thuộc hoàn toàn vào nền tảng thể chất.",
-        "Để tránh việc phải tốn kém chi phí y tế về già.",
-        "Vì hình ảnh khỏe mạnh giúp tăng uy tín với khách hàng."
+        "Vì trí tuệ và tinh thần phụ thuộc hoàn toàn vào nền tảng thể chất, nếu cơ thể suy sụp thì tư duy sẽ bị giảm sút.",
+        "Sức khỏe tốt giúp cá nhân có thể làm việc ngoài giờ nhiều hơn để hoàn thành khối lượng công việc khổng lồ mỗi ngày.",
+        "Để tránh việc phải tốn kém chi phí y tế về già và đảm bảo có một cuộc sống an nhàn sau khi đã nghỉ hưu hoàn toàn.",
+        "Vì hình ảnh khỏe mạnh giúp tăng uy tín với khách hàng và tạo ra sự tin tưởng trong các cuộc đàm phán kinh doanh lớn."
       ],
-      "correctIndex": 1,
-      "explanation": "Sức khỏe là nền tảng của năng lượng lãnh đạo. Nếu thể chất suy sụp, tư duy và khả năng kiểm soát bản thân sẽ bị giảm sút trầm trọng, dẫn đến việc mất khả năng làm chủ."
+      "correctIndex": 0,
+      "explanation": "Sức khỏe là nền tảng của năng lượng lãnh đạo. Nếu thể chất suy sụp, tư duy và khả năng kiểm soát bản thân sẽ bị giảm sút trầm trọng."
     },
     {
       "id": "q6",
       "question": "Thông điệp 'khi dám liều lĩnh, những cánh cửa ta chưa từng biết sẽ mở ra' ám chỉ điều gì trong tư duy phát triển?",
       "options": [
-        "Sự may mắn luôn dành cho những người đánh cược với số phận.",
-        "Tư duy sẵn sàng bước ra khỏi vùng an toàn để khai phá tiềm năng ẩn giấu.",
-        "Cần phải thay đổi công việc liên tục để tìm cơ hội mới.",
-        "Kết quả tốt chỉ đến khi chúng ta chịu rủi ro về tài chính."
+        "Sự may mắn luôn dành cho những người dám đánh cược với số phận và chấp nhận rủi ro lớn trong các quyết định đầu tư.",
+        "Tư duy sẵn sàng bước ra khỏi vùng an toàn để khai phá những tiềm năng ẩn giấu và đón nhận những cơ hội mới lạ.",
+        "Cần phải thay đổi công việc liên tục để tìm kiếm cơ hội mới và làm mới bản thân trong các môi trường khác nhau.",
+        "Kết quả tốt chỉ đến khi chúng ta chịu rủi ro về tài chính và dám đầu tư vào những dự án chưa có tiền lệ thành công."
       ],
       "correctIndex": 1,
-      "explanation": "Liều lĩnh ở đây không phải là liều lĩnh mù quáng, mà là sự dũng cảm vượt ngưỡng (push the envelope). Chỉ khi thách thức giới hạn cũ, ta mới nhận ra các khả năng mới."
+      "explanation": "Liều lĩnh ở đây là sự dũng cảm vượt ngưỡng. Chỉ khi thách thức giới hạn cũ, ta mới nhận ra các khả năng mới đang tồn tại."
     },
     {
       "id": "q7",
-      "question": "Làm thế nào để áp dụng lời khuyên 'đừng chịu an phận' mà không rơi vào trạng thái kiệt sức?",
+      "question": "Làm thế nào để áp dụng lời khuyên 'đừng chịu an phận' mà không rơi vào trạng thái kiệt sức trong công việc?",
       "options": [
-        "Luôn làm việc nhiều hơn người khác 200%.",
-        "Luôn duy trì sự tò mò và khao khát học hỏi để tiến hóa mỗi ngày.",
-        "Đặt mục tiêu cao đến mức không thể đạt được để luôn phải nỗ lực.",
-        "Từ bỏ sự ổn định để thay đổi lĩnh vực làm việc liên tục."
+        "Luôn làm việc nhiều hơn người khác hai trăm phần trăm để khẳng định giá trị bản thân và đạt được sự thăng tiến nhanh.",
+        "Đặt mục tiêu cao đến mức không thể đạt được để luôn phải nỗ lực hết mình và không bao giờ cảm thấy hài lòng hiện tại.",
+        "Luôn duy trì sự tò mò và khao khát học hỏi để tiến hóa mỗi ngày trong bất kỳ vị trí công việc nào mình đang đảm nhận.",
+        "Từ bỏ sự ổn định để thay đổi lĩnh vực làm việc liên tục nhằm tìm kiếm những thử thách mới mẻ và đầy tính kích thích."
       ],
-      "correctIndex": 1,
-      "explanation": "Không an phận không có nghĩa là tự hủy hoại sức khỏe bằng cường độ công việc, mà là giữ tinh thần phát triển không ngừng (growth mindset) trong bất kỳ vị trí nào."
+      "correctIndex": 2,
+      "explanation": "Không an phận không có nghĩa là tự hủy hoại sức khỏe, mà là giữ tinh thần phát triển không ngừng trong bất kỳ vị trí nào."
     },
     {
       "id": "q8",
       "question": "Tại sao việc 'biết thông cảm và đầy lòng trắc ẩn' lại là một phần của làm chủ bản thân thay vì là điểm yếu?",
       "options": [
-        "Vì nó giúp nhân viên quý mến mình hơn.",
-        "Vì nó là cách thu phục lòng người trong quản trị.",
-        "Vì sự thấu cảm giúp lãnh đạo thấu hiểu bản chất con người và sự việc, tránh các quyết định cảm tính.",
-        "Vì đó là quy tắc đạo đức bắt buộc trong kinh doanh hiện đại."
+        "Vì nó giúp nhân viên quý mến mình hơn và tạo ra một môi trường làm việc hòa đồng, thân thiện cho tất cả mọi người.",
+        "Vì nó là cách thu phục lòng người trong quản trị, giúp xây dựng đội ngũ trung thành và gắn kết với mục tiêu chung.",
+        "Vì đó là quy tắc đạo đức bắt buộc trong kinh doanh hiện đại mà bất kỳ nhà lãnh đạo nào cũng cần phải tuân thủ nghiêm.",
+        "Sự thấu cảm giúp lãnh đạo thấu hiểu bản chất con người và sự việc, từ đó tránh được các quyết định cảm tính sai lầm."
       ],
-      "correctIndex": 2,
-      "explanation": "Lòng trắc ẩn giúp lãnh đạo có cái nhìn sâu sắc, nhân bản hơn, giúp họ kiểm soát cái tôi cá nhân để đưa ra các quyết định có tính gắn kết và bền vững."
+      "correctIndex": 3,
+      "explanation": "Lòng trắc ẩn giúp lãnh đạo có cái nhìn sâu sắc, nhân bản hơn, giúp họ kiểm soát cái tôi cá nhân để đưa ra các quyết định bền vững."
     },
     {
       "id": "q9",
-      "question": "Trong tư duy của Robin Sharma, tại sao cuộc đời được ví như một 'trách nhiệm cao cả'?",
+      "question": "Trong tư duy của tác giả, tại sao cuộc đời được ví như một 'trách nhiệm cao cả' đối với mỗi cá nhân?",
       "options": [
-        "Vì ta cần phải trả ơn cuộc đời bằng những thành tựu lớn.",
-        "Vì mỗi người có khả năng hiện thực hóa tiềm năng cao nhất của mình.",
-        "Vì chúng ta sinh ra để phụng sự xã hội.",
-        "Vì cuộc đời là một bài kiểm tra để phân loại người thành công."
+        "Vì mỗi người có khả năng hiện thực hóa tiềm năng cao nhất của mình và đó là cách chúng ta trả món nợ cho cuộc đời.",
+        "Vì ta cần phải trả ơn cuộc đời bằng những thành tựu lớn lao để để lại di sản cho các thế hệ mai sau của nhân loại.",
+        "Vì chúng ta sinh ra để phụng sự xã hội và đóng góp vào sự phát triển chung của cộng đồng nơi chúng ta đang sinh sống.",
+        "Vì cuộc đời là một bài kiểm tra để phân loại người thành công và người thất bại dựa trên những nỗ lực cá nhân mỗi ngày."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Trách nhiệm cao cả nhất của con người là hiện thực hóa tiềm năng (khả năng cao nhất) của chính mình. Đó là cách chúng ta trả món nợ cuộc đời."
     },
     {
       "id": "q10",
-      "question": "Khi đối mặt với một khách hàng khó tính, tư duy nào thể hiện sự làm chủ bản thân cao nhất?",
+      "question": "Khi đối mặt với một khách hàng khó tính, tư duy nào thể hiện sự làm chủ bản thân cao nhất theo tinh thần cuốn sách?",
       "options": [
-        "Nhẫn nhịn vì lợi ích công ty.",
-        "Giữ thái độ điềm tĩnh, chuyên nghiệp và tìm giải pháp thay vì để cảm xúc chi phối.",
-        "Phản bác lại để bảo vệ danh dự của mình.",
-        "Chuyển khách hàng đó cho người khác xử lý."
+        "Nhẫn nhịn vì lợi ích công ty và chấp nhận mọi yêu cầu vô lý của khách hàng để giữ gìn hình ảnh thương hiệu doanh nghiệp.",
+        "Giữ thái độ điềm tĩnh, chuyên nghiệp và tìm giải pháp thay vì để cảm xúc bực bội hay giận dữ chi phối hành động.",
+        "Phản bác lại để bảo vệ danh dự của mình và khẳng định rằng mình không phải là người dễ dàng bị bắt nạt bởi khách.",
+        "Chuyển khách hàng đó cho người khác xử lý để tránh việc bản thân phải đối mặt với những tình huống gây ức chế tâm lý."
       ],
       "correctIndex": 1,
-      "explanation": "Làm chủ bản thân là kiểm soát được phản ứng của mình trước sự khiêu khích của ngoại cảnh, giữ vững lý trí thay vì để cảm xúc (bực bội, giận dữ) làm chủ hành động."
+      "explanation": "Làm chủ bản thân là kiểm soát được phản ứng của mình trước sự khiêu khích của ngoại cảnh, giữ vững lý trí thay vì để cảm xúc làm chủ."
     },
     {
       "id": "q11",
-      "question": "Tại sao việc 'đọc nhiều hơn, học nhiều hơn' lại là chìa khóa để thoát khỏi xích xiềng?",
+      "question": "Tại sao việc 'đọc nhiều hơn, học nhiều hơn' lại là chìa khóa để thoát khỏi những xích xiềng của tư duy cũ?",
       "options": [
-        "Để có nhiều kiến thức nói chuyện với khách hàng.",
-        "Để mở rộng biên độ tư duy và thấy được những lựa chọn mà người bình thường bỏ lỡ.",
-        "Vì đọc sách là cách tốt nhất để giải trí sau giờ làm.",
-        "Để trở thành người uyên bác hơn đồng nghiệp."
+        "Để có nhiều kiến thức nói chuyện với khách hàng và tạo ra sự ấn tượng sâu sắc trong các buổi gặp gỡ đối tác kinh doanh.",
+        "Vì đọc sách là cách tốt nhất để giải trí sau giờ làm việc căng thẳng và giúp tâm trí được thư giãn một cách hiệu quả.",
+        "Để mở rộng biên độ tư duy và thấy được những lựa chọn mà người bình thường thường bỏ lỡ do giới hạn của kiến thức.",
+        "Để trở thành người uyên bác hơn đồng nghiệp và khẳng định vị thế của mình trong các cuộc thảo luận chuyên môn tại công ty."
       ],
-      "correctIndex": 1,
-      "explanation": "Kiến thức là công cụ phá vỡ các định kiến. Càng học, ta càng thấy thế giới rộng mở hơn và nhận ra mình có nhiều quyền lựa chọn hơn thay vì bế tắc."
+      "correctIndex": 2,
+      "explanation": "Kiến thức là công cụ phá vỡ các định kiến. Càng học, ta càng thấy thế giới rộng mở hơn và nhận ra mình có nhiều quyền lựa chọn."
     },
     {
       "id": "q12",
-      "question": "Sự khác biệt giữa người làm chủ bản thân và người an phận nằm ở đâu?",
+      "question": "Sự khác biệt cốt lõi giữa người làm chủ bản thân và người an phận nằm ở đâu trong cách đối diện với hoàn cảnh?",
       "options": [
-        "Người làm chủ thường gặp nhiều may mắn hơn.",
-        "Người làm chủ không đợi hoàn cảnh thay đổi mà chủ động thiết kế thái độ của mình trước hoàn cảnh.",
-        "Người an phận không bao giờ nỗ lực làm việc.",
-        "Người làm chủ luôn có chức danh cao trong xã hội."
+        "Người làm chủ thường gặp nhiều may mắn hơn trong cuộc sống nhờ vào sự nỗ lực không ngừng nghỉ và tư duy tích cực sẵn có.",
+        "Người an phận không bao giờ nỗ lực làm việc và luôn chấp nhận những gì cuộc đời mang lại mà không có bất kỳ phản kháng.",
+        "Người làm chủ luôn có chức danh cao trong xã hội nhờ vào khả năng kiểm soát bản thân và sự nhạy bén trong các quyết định.",
+        "Người làm chủ không đợi hoàn cảnh thay đổi mà chủ động thiết kế thái độ của mình trước mọi tình huống xảy ra trong đời."
       ],
-      "correctIndex": 1,
-      "explanation": "Điểm cốt lõi là sự dịch chuyển từ 'phản ứng với hoàn cảnh' sang 'làm chủ thái độ'. Người làm chủ hiểu rằng họ luôn có quyền lựa chọn phản ứng của mình."
+      "correctIndex": 3,
+      "explanation": "Điểm cốt lõi là sự dịch chuyển từ 'phản ứng với hoàn cảnh' sang 'làm chủ thái độ'. Người làm chủ hiểu rằng họ luôn có quyền lựa chọn."
     },
     {
       "id": "q13",
-      "question": "Tại sao việc 'biết mình sợ điều gì' lại quan trọng trong việc hoàn thiện bản thân?",
+      "question": "Tại sao việc 'biết mình sợ điều gì' lại quan trọng trong quá trình hoàn thiện bản thân và phát triển năng lực?",
       "options": [
-        "Sợ hãi là dấu hiệu của sự thiếu năng lực.",
-        "Để tránh những việc khiến mình cảm thấy không thoải mái.",
-        "Để đối diện và chuyển hóa nỗi sợ thành động lực hành động thay vì trốn tránh.",
-        "Để không bao giờ phải làm những việc mình sợ."
+        "Để đối diện và chuyển hóa nỗi sợ thành động lực hành động thay vì trốn tránh nó như một rào cản của sự phát triển.",
+        "Sợ hãi là dấu hiệu của sự thiếu năng lực và cần phải loại bỏ hoàn toàn để trở thành một người mạnh mẽ và bản lĩnh hơn.",
+        "Để tránh những việc khiến mình cảm thấy không thoải mái và tập trung vào những thế mạnh sẵn có để đạt được thành công.",
+        "Để không bao giờ phải làm những việc mình sợ và giữ cho cuộc sống luôn nằm trong vùng an toàn mà mình đã thiết lập sẵn."
       ],
-      "correctIndex": 2,
-      "explanation": "Sợ hãi thường là nơi biên giới của sự phát triển cá nhân nằm ở đó. Nhận diện nỗi sợ là bước đầu tiên để vượt qua ranh giới đó và trưởng thành."
+      "correctIndex": 0,
+      "explanation": "Sợ hãi thường là nơi biên giới của sự phát triển cá nhân nằm ở đó. Nhận diện nỗi sợ là bước đầu tiên để vượt qua ranh giới đó."
     },
     {
       "id": "q14",
-      "question": "Theo đoạn trích, đâu là bẫy tư duy nguy hiểm nhất khi đối mặt với khó khăn?",
+      "question": "Theo đoạn trích, đâu là bẫy tư duy nguy hiểm nhất khi đối mặt với những khó khăn trong hành trình làm chủ bản thân?",
       "options": [
-        "Cảm giác muốn bỏ cuộc và từ bỏ vị trí cao nhất của chính mình.",
-        "Tin rằng khách hàng là người quyết định giá trị của mình.",
-        "Đọc quá ít sách về phát triển bản thân.",
-        "Quá tập trung vào việc làm hài lòng tất cả mọi người."
+        "Tin rằng khách hàng là người quyết định giá trị của mình và luôn cố gắng làm hài lòng họ bằng mọi giá dù có sai trái.",
+        "Cảm giác muốn bỏ cuộc và từ bỏ vị trí cao nhất của chính mình khi đối diện với những áp lực khắc nghiệt của cuộc đời.",
+        "Đọc quá ít sách về phát triển bản thân khiến tư duy bị hạn hẹp và không có đủ công cụ để giải quyết các vấn đề khó.",
+        "Quá tập trung vào việc làm hài lòng tất cả mọi người xung quanh mà quên mất đi giá trị cốt lõi của bản thân mình cần giữ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Khi khó khăn ập đến, việc từ bỏ khát vọng sống ở mức cao nhất là bẫy tâm lý phổ biến nhất khiến con người chấp nhận lối mòn tầm thường."
     },
     {
       "id": "q15",
-      "question": "Làm chủ bản thân có nghĩa là trở thành 'tài giỏi và dễ mến'. Tại sao sự kết hợp này lại mạnh mẽ?",
+      "question": "Làm chủ bản thân có nghĩa là trở thành 'tài giỏi và dễ mến'. Tại sao sự kết hợp này lại tạo ra sức mạnh lớn?",
       "options": [
-        "Vì người giỏi thường khó tính và cần sự dễ mến để cân bằng.",
-        "Vì tài giỏi mang lại giá trị công việc, sự dễ mến mang lại sức ảnh hưởng và sự kết nối.",
-        "Vì chỉ khi dễ mến thì người khác mới công nhận tài giỏi của bạn.",
-        "Vì đó là yêu cầu cơ bản của các công ty đa quốc gia."
+        "Vì người giỏi thường khó tính và cần sự dễ mến để cân bằng lại tính cách nhằm tạo ra một môi trường làm việc hòa hợp.",
+        "Vì chỉ khi dễ mến thì người khác mới công nhận tài giỏi của bạn và tạo điều kiện cho bạn thăng tiến trong sự nghiệp.",
+        "Vì tài giỏi mang lại giá trị công việc, còn sự dễ mến mang lại sức ảnh hưởng và sự kết nối bền vững với mọi người.",
+        "Vì đó là yêu cầu cơ bản của các công ty đa quốc gia nhằm đảm bảo nhân viên có thể làm việc hiệu quả trong nhóm đa văn."
       ],
-      "correctIndex": 1,
-      "explanation": "Tài giỏi mà không dễ mến thì sự nghiệp bị hạn chế bởi sự cô lập. Dễ mến mà không tài giỏi thì không tạo được giá trị cốt lõi. Kết hợp cả hai tạo nên quyền lực mềm (soft power) thực sự."
+      "correctIndex": 2,
+      "explanation": "Tài giỏi mà không dễ mến thì sự nghiệp bị hạn chế bởi sự cô lập. Dễ mến mà không tài giỏi thì không tạo được giá trị cốt lõi."
     }
   ]
 }

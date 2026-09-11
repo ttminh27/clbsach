@@ -8,22 +8,22 @@
       "id": "q1",
       "question": "Theo tinh thần chương sách, 'quyền chọn lựa' của con người mang lại giá trị cốt lõi nào cho sự phát triển bản thân?",
       "options": [
-        "Khả năng kiểm soát tuyệt đối các tác động ngoại cảnh",
-        "Khả năng tái định nghĩa ý nghĩa của hoàn cảnh để làm chủ trạng thái tinh thần",
-        "Sự tự do tuyệt đối để trốn tránh những trách nhiệm không mong muốn",
-        "Cơ hội để thay đổi hoàn cảnh theo ý muốn chủ quan ngay lập tức"
+        "Khả năng tái định nghĩa ý nghĩa của hoàn cảnh để làm chủ trạng thái tinh thần trước mọi biến động khách quan.",
+        "Khả năng kiểm soát tuyệt đối các tác động ngoại cảnh nhằm đảm bảo mọi kế hoạch diễn ra đúng như dự định ban đầu.",
+        "Sự tự do tuyệt đối để trốn tránh những trách nhiệm không mong muốn khi đối mặt với các tình huống khó khăn gay gắt.",
+        "Cơ hội để thay đổi hoàn cảnh theo ý muốn chủ quan ngay lập tức nhằm đạt được sự thoải mái trong mọi tình huống."
       ],
-      "correctIndex": 1,
-      "explanation": "Quyền lựa chọn không thay đổi ngoại cảnh (trời mưa vẫn là trời mưa), nhưng thay đổi cách ta định nghĩa và phản ứng với nó. Đây là cốt lõi của trí tuệ cảm xúc."
+      "correctIndex": 0,
+      "explanation": "Quyền lựa chọn không thay đổi ngoại cảnh, nhưng thay đổi cách ta định nghĩa và phản ứng với nó. Đây là cốt lõi của trí tuệ cảm xúc."
     },
     {
       "id": "q2",
       "question": "Trong bối cảnh công sở, khi đối mặt với một dự án thất bại bất ngờ do tác nhân khách quan, người có tư duy 'vui mừng' thay vì 'lo lắng' sẽ hành xử như thế nào?",
       "options": [
-        "Tập trung đổ lỗi cho các yếu tố khách quan để giảm áp lực",
-        "Xem đây là cơ hội rèn luyện sự linh hoạt và học hỏi kinh nghiệm mới",
-        "Chấp nhận thất bại và tìm kiếm các công việc khác ít rủi ro hơn",
-        "Cố gắng làm việc thêm giờ để khỏa lấp sai lầm cũ"
+        "Tập trung đổ lỗi cho các yếu tố khách quan để giảm áp lực cho bản thân và đồng nghiệp trước những chỉ trích gay gắt.",
+        "Xem đây là cơ hội rèn luyện sự linh hoạt và học hỏi kinh nghiệm mới để nâng cao năng lực giải quyết vấn đề sau này.",
+        "Chấp nhận thất bại và tìm kiếm các công việc khác ít rủi ro hơn để bảo toàn sự an toàn trong sự nghiệp cá nhân.",
+        "Cố gắng làm việc thêm giờ để khỏa lấp sai lầm cũ nhằm lấy lại niềm tin từ cấp trên và duy trì vị thế hiện tại."
       ],
       "correctIndex": 1,
       "explanation": "Người có tư duy vĩ đại không nhìn thấy chướng ngại vật là ngõ cụt, mà là công cụ để rèn luyện sự kiên cường và khả năng thích nghi."
@@ -32,46 +32,46 @@
       "id": "q3",
       "question": "Vì sao tác giả cho rằng cách ta chọn lựa sẽ 'hình thành số mệnh'?",
       "options": [
-        "Vì mỗi sự lựa chọn tạo ra một hệ quả vật chất tích lũy dần theo thời gian",
-        "Vì sự lựa chọn định hình thói quen, và thói quen xây dựng nên tính cách, rồi dẫn dắt kết quả đời người",
-        "Vì những lựa chọn đúng đắn sẽ giúp ta nhận được sự hỗ trợ từ may mắn",
-        "Vì đây là quy luật tâm linh không thể giải thích bằng logic thông thường"
+        "Vì mỗi sự lựa chọn tạo ra một hệ quả vật chất tích lũy dần theo thời gian giúp con người đạt được sự giàu có bền vững.",
+        "Vì những lựa chọn đúng đắn sẽ giúp ta nhận được sự hỗ trợ từ may mắn để vượt qua mọi nghịch cảnh trong cuộc sống.",
+        "Vì sự lựa chọn định hình thói quen, thói quen xây dựng nên tính cách, rồi dẫn dắt kết quả đời người theo thời gian.",
+        "Vì đây là quy luật tâm linh không thể giải thích bằng logic thông thường nhưng luôn vận hành trong đời sống con người."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Đây là tư duy nhân quả sâu sắc: Lựa chọn -> Hành động -> Thói quen -> Tính cách -> Số mệnh. Số mệnh không phải định sẵn, mà là kết quả của vô vàn lựa chọn nhỏ."
     },
     {
       "id": "q4",
       "question": "Tại sao việc 'cằn nhằn, than phiền' khi đối mặt với hoàn cảnh xấu lại là một bẫy tư duy nguy hiểm?",
       "options": [
-        "Vì nó khiến chúng ta mất đi uy tín trước mắt đồng nghiệp",
-        "Vì nó làm tiêu hao năng lượng tinh thần vốn cần thiết để giải quyết vấn đề",
-        "Vì nó vi phạm các nguyên tắc về giao tiếp tích cực nơi công sở",
-        "Vì nó làm trì hoãn thời gian hoàn thành công việc"
+        "Vì nó khiến chúng ta mất đi uy tín trước mắt đồng nghiệp và làm giảm khả năng thăng tiến trong môi trường chuyên nghiệp.",
+        "Vì nó vi phạm các nguyên tắc về giao tiếp tích cực nơi công sở và tạo ra bầu không khí làm việc tiêu cực cho nhóm.",
+        "Vì nó làm trì hoãn thời gian hoàn thành công việc và khiến chúng ta không thể đạt được các mục tiêu đã đề ra từ trước.",
+        "Vì nó làm tiêu hao năng lượng tinh thần vốn cần thiết để tập trung tìm kiếm giải pháp cho những vấn đề đang tồn tại."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Than phiền là cơ chế phòng vệ của kẻ yếu. Nó tiêu tốn nguồn lực trí tuệ lẽ ra dùng để tìm giải pháp, biến ta thành nạn nhân của hoàn cảnh."
     },
     {
       "id": "q5",
       "question": "Tư duy 'vui mừng' mà tác giả đề cập khác với sự 'lạc quan tếu' (blind optimism) như thế nào?",
       "options": [
-        "Sự vui mừng chỉ là trạng thái tâm lý nhất thời để che đậy khó khăn",
-        "Sự vui mừng là lựa chọn hành động dựa trên thực tế dù hoàn cảnh không thuận lợi",
-        "Lạc quan tếu đòi hỏi phải có kế hoạch chi tiết ngay từ đầu",
-        "Sự vui mừng là phủ nhận hoàn toàn các nguy cơ tiềm ẩn"
+        "Sự vui mừng là lựa chọn hành động dựa trên thực tế dù hoàn cảnh không thuận lợi để đạt được kết quả tốt nhất.",
+        "Sự vui mừng chỉ là trạng thái tâm lý nhất thời để che đậy khó khăn nhằm tránh né sự đối diện với thực tế khắc nghiệt.",
+        "Lạc quan tếu đòi hỏi phải có kế hoạch chi tiết ngay từ đầu để đảm bảo mọi thứ diễn ra theo đúng ý muốn chủ quan.",
+        "Sự vui mừng là phủ nhận hoàn toàn các nguy cơ tiềm ẩn để giữ cho tinh thần luôn được thoải mái và không bị áp lực."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Vui mừng ở đây là tư duy chủ động (Proactive), đối diện với thực tế nhưng từ chối bị thực tế đó khuất phục về mặt tâm thế."
     },
     {
       "id": "q6",
       "question": "Lãnh đạo không chức danh cần ứng dụng tư duy của chương này như thế nào khi đối mặt với khủng hoảng tập thể?",
       "options": [
-        "Luôn tỏ ra vui vẻ để trấn an mọi người dù tình hình rất tệ",
-        "Chuyển hướng tập trung của đội ngũ từ 'nạn nhân của khủng hoảng' sang 'người làm chủ giải pháp'",
-        "Yêu cầu đội ngũ không được lo lắng để đảm bảo tiến độ công việc",
-        "Tập trung tìm ra kẻ chịu trách nhiệm để rút kinh nghiệm cho tương lai"
+        "Luôn tỏ ra vui vẻ để trấn an mọi người dù tình hình rất tệ nhằm duy trì sự ổn định tạm thời cho toàn bộ hệ thống.",
+        "Chuyển hướng tập trung của đội ngũ từ 'nạn nhân của khủng hoảng' sang 'người làm chủ giải pháp' để vượt qua khó khăn.",
+        "Yêu cầu đội ngũ không được lo lắng để đảm bảo tiến độ công việc không bị ảnh hưởng bởi các yếu tố tâm lý tiêu cực.",
+        "Tập trung tìm ra kẻ chịu trách nhiệm để rút kinh nghiệm cho tương lai và ngăn chặn các sai lầm tương tự tái diễn lại."
       ],
       "correctIndex": 1,
       "explanation": "Lãnh đạo thực thụ thay đổi văn hóa từ đổ lỗi sang tìm kiếm cơ hội trong nghịch cảnh bằng cách dẫn dắt tư duy của cộng sự."
@@ -80,10 +80,10 @@
       "id": "q7",
       "question": "Nhận xét của Paul Theroux trong bài mang hàm ý sâu xa gì về sự trưởng thành?",
       "options": [
-        "Người thông minh luôn có kế hoạch dự phòng cho mọi chuyến đi",
-        "Trình độ trí tuệ tỉ lệ thuận với khả năng chịu đựng thời tiết",
-        "Con người vĩ đại không để các yếu tố kiểm soát bên ngoài quyết định chất lượng trải nghiệm của họ",
-        "Du lịch là công cụ hiệu quả nhất để rèn luyện sự điềm tĩnh"
+        "Người thông minh luôn có kế hoạch dự phòng cho mọi chuyến đi để tránh những rủi ro không đáng có xảy ra bất ngờ.",
+        "Trình độ trí tuệ tỉ lệ thuận với khả năng chịu đựng thời tiết khắc nghiệt trong các chuyến đi nghỉ dưỡng dài ngày.",
+        "Con người vĩ đại không để các yếu tố kiểm soát bên ngoài quyết định chất lượng trải nghiệm của họ trong cuộc sống.",
+        "Du lịch là công cụ hiệu quả nhất để rèn luyện sự điềm tĩnh và khả năng thích nghi với những thay đổi của môi trường."
       ],
       "correctIndex": 2,
       "explanation": "Hàm ý ở đây là: Sự tồi tệ nằm ở tư duy, không nằm ở sự việc. Người trưởng thành làm chủ trải nghiệm của chính mình."
@@ -92,96 +92,96 @@
       "id": "q8",
       "question": "Đâu là biểu hiện của người có tư duy 'thấp kém' khi đối diện với sự thay đổi đột ngột của hoàn cảnh?",
       "options": [
-        "Luôn tìm cách thích nghi nhanh nhất có thể",
-        "Tập trung vào những gì mình có thể kiểm soát thay vì những gì đã mất",
-        "Tìm cách đổ lỗi hoặc biện minh cho việc không đạt kết quả kỳ vọng",
-        "Luôn giữ thái độ khách quan và bình tĩnh quan sát"
+        "Luôn tìm cách thích nghi nhanh nhất có thể để đảm bảo công việc vẫn được tiến hành trôi chảy dù gặp nhiều trở ngại.",
+        "Tập trung vào những gì mình có thể kiểm soát thay vì những gì đã mất để tối ưu hóa kết quả trong mọi tình huống.",
+        "Luôn giữ thái độ khách quan và bình tĩnh quan sát mọi diễn biến để đưa ra những quyết định sáng suốt nhất có thể.",
+        "Tìm cách đổ lỗi hoặc biện minh cho việc không đạt kết quả kỳ vọng thay vì nhìn nhận trách nhiệm của bản thân mình."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Việc đổ lỗi là dấu hiệu của việc thiếu trách nhiệm cá nhân (accountability) – yếu tố cốt lõi của người có tư duy yếu kém."
     },
     {
       "id": "q9",
       "question": "Trong quản trị bản thân, làm thế nào để biến 'lo lắng' thành 'vui mừng' một cách bền vững?",
       "options": [
-        "Tự huyễn hoặc bản thân bằng những lời động viên tích cực",
-        "Thay đổi câu hỏi tự vấn từ 'Tại sao chuyện này lại xảy ra với tôi?' thành 'Chuyện này dạy mình điều gì?'",
-        "Ngừng quan tâm đến kết quả công việc để giảm áp lực",
-        "Cố gắng kiểm soát mọi biến số để không bao giờ gặp khó khăn"
+        "Thay đổi câu hỏi tự vấn từ 'Tại sao chuyện này lại xảy ra với tôi?' thành 'Chuyện này dạy mình điều gì để tiến bộ?'",
+        "Tự huyễn hoặc bản thân bằng những lời động viên tích cực để quên đi những khó khăn đang hiện hữu trong cuộc sống thực.",
+        "Ngừng quan tâm đến kết quả công việc để giảm áp lực và tận hưởng cuộc sống một cách nhẹ nhàng hơn mỗi ngày trôi qua.",
+        "Cố gắng kiểm soát mọi biến số để không bao giờ gặp khó khăn và luôn duy trì được sự ổn định trong mọi hoàn cảnh sống."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Câu hỏi chất lượng tạo ra câu trả lời chất lượng. Thay đổi góc nhìn từ nạn nhân sang học trò là cách chuyển đổi tư duy hiệu quả nhất."
     },
     {
       "id": "q10",
       "question": "Tại sao việc chuẩn bị kỹ lưỡng (như tác giả mặc áo choàng, trang bị đồ trượt tuyết) lại quan trọng song hành với tư duy tích cực?",
       "options": [
-        "Tư duy tích cực chỉ phát huy tác dụng khi đi kèm với hành động chuẩn bị thực tế",
-        "Sự chuẩn bị giúp ta bớt sợ hãi hơn là chỉ dựa vào thái độ tâm lý",
-        "Sự chuẩn bị là bằng chứng cho sự chuyên nghiệp của cá nhân",
-        "Nếu không chuẩn bị, tư duy tích cực sẽ trở nên lố bịch"
+        "Sự chuẩn bị giúp ta bớt sợ hãi hơn là chỉ dựa vào thái độ tâm lý đơn thuần khi đối mặt với những thử thách lớn lao.",
+        "Tư duy tích cực chỉ phát huy tác dụng tối đa khi đi kèm với hành động chuẩn bị thực tế để đối phó với mọi tình huống.",
+        "Sự chuẩn bị là bằng chứng cho sự chuyên nghiệp của cá nhân trong việc quản lý các rủi ro tiềm ẩn trong mọi công việc.",
+        "Nếu không chuẩn bị kỹ lưỡng, tư duy tích cực sẽ trở nên lố bịch và không mang lại kết quả thực tế cho người thực hiện."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Tư duy tích cực không thay thế hành động. Sự kết hợp giữa tâm thế đúng và chuẩn bị kỹ năng mới là công thức của thành công."
     },
     {
       "id": "q11",
       "question": "Sự 'đánh đổi' lớn nhất khi chọn tư duy vui mừng là gì?",
       "options": [
-        "Đánh đổi sự thoải mái khi phải từ bỏ thói quen phàn nàn đã ăn sâu",
-        "Đánh đổi thời gian để suy nghĩ về những thất bại",
-        "Đánh đổi sự công nhận từ những người xung quanh",
-        "Đánh đổi sự an toàn trong vùng an toàn quen thuộc"
+        "Đánh đổi thời gian để suy nghĩ về những thất bại nhằm rút ra bài học kinh nghiệm quý báu cho những dự án trong tương lai.",
+        "Đánh đổi sự công nhận từ những người xung quanh khi họ không hiểu được lý do tại sao ta lại chọn thái độ tích cực đó.",
+        "Đánh đổi sự thoải mái khi phải từ bỏ thói quen phàn nàn đã ăn sâu vào tiềm thức để hướng tới một thái độ sống mới.",
+        "Đánh đổi sự an toàn trong vùng an toàn quen thuộc để bước ra ngoài và đối mặt với những thách thức mới đầy khó khăn."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Từ bỏ thói quen phàn nàn rất khó vì nó mang lại sự thỏa mãn tức thời cho cái tôi (victimhood comfort). Vượt qua nó đòi hỏi nỗ lực lớn."
     },
     {
       "id": "q12",
       "question": "Khi đối mặt với sự từ chối trong bán hàng hoặc thuyết phục, cách tiếp cận theo chương 82 là gì?",
       "options": [
-        "Xem đây là sự thất bại cá nhân và tìm cách thuyết phục lại bằng mọi giá",
-        "Phân tích sự từ chối như một dữ liệu phản hồi để cải thiện kỹ năng cho lần sau",
-        "Tránh né các khách hàng khó tính để duy trì sự tự tin",
-        "Cảm thấy lo lắng vì không đạt được mục tiêu doanh số"
+        "Xem đây là sự thất bại cá nhân và tìm cách thuyết phục lại bằng mọi giá để chứng minh năng lực của bản thân với khách.",
+        "Tránh né các khách hàng khó tính để duy trì sự tự tin và bảo vệ tinh thần khỏi những tác động tiêu cực không cần thiết.",
+        "Cảm thấy lo lắng vì không đạt được mục tiêu doanh số và tìm cách đổ lỗi cho thị trường đang gặp nhiều khó khăn chung.",
+        "Phân tích sự từ chối như một dữ liệu phản hồi để cải thiện kỹ năng cho lần sau thay vì cảm thấy lo lắng hay thất vọng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Người có tư duy vĩ đại biến mọi trở ngại thành dữ liệu học tập. Sự từ chối không làm họ lo lắng mà chỉ là bước đệm cho kết quả tốt hơn."
     },
     {
       "id": "q13",
       "question": "Tại sao tác giả nhắc lại chuyện 'trượt tuyết' như một ẩn dụ?",
       "options": [
-        "Để kể về một kỳ nghỉ đáng nhớ của gia đình",
-        "Để nhấn mạnh rằng môi trường khắc nghiệt là nơi thử thách tốt nhất cho thái độ sống",
-        "Để chứng minh rằng người giàu luôn có cách tận hưởng cuộc sống",
-        "Để quảng bá cho môn thể thao trượt tuyết"
+        "Để nhấn mạnh rằng môi trường khắc nghiệt là nơi thử thách tốt nhất cho thái độ sống của mỗi con người trong thực tế.",
+        "Để kể về một kỳ nghỉ đáng nhớ của gia đình nhằm tạo sự gần gũi và kết nối với độc giả thông qua những câu chuyện đời.",
+        "Để chứng minh rằng người giàu luôn có cách tận hưởng cuộc sống dù trong bất kỳ hoàn cảnh nào xảy ra xung quanh họ hiện nay.",
+        "Để quảng bá cho môn thể thao trượt tuyết như một phương pháp rèn luyện sức khỏe và tinh thần hiệu quả cho mọi lứa tuổi."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Trời mưa và tuyết mềm đại diện cho những nghịch cảnh trong cuộc đời. Việc quyết định vui vẻ chính là chọn cách chinh phục cuộc đời đó."
     },
     {
       "id": "q14",
       "question": "Người làm chủ bản thân thực sự là người:",
       "options": [
-        "Không bao giờ cảm thấy bất kỳ sự lo lắng nào",
-        "Luôn kiểm soát được hoàn cảnh bên ngoài theo ý muốn",
-        "Chọn cách phản ứng tốt nhất trước những gì cuộc đời mang lại",
-        "Luôn luôn đạt được mọi mục tiêu mà họ đặt ra"
+        "Không bao giờ cảm thấy bất kỳ sự lo lắng nào trong cuộc sống vì họ luôn có kế hoạch hoàn hảo cho mọi tình huống xảy ra.",
+        "Chọn cách phản ứng tốt nhất trước những gì cuộc đời mang lại thay vì để hoàn cảnh định đoạt trạng thái tinh thần mình.",
+        "Luôn kiểm soát được hoàn cảnh bên ngoài theo ý muốn để đảm bảo mọi thứ luôn diễn ra suôn sẻ và thuận lợi nhất có thể.",
+        "Luôn luôn đạt được mọi mục tiêu mà họ đặt ra trong sự nghiệp và cuộc sống cá nhân nhờ vào sự kiên trì và nỗ lực lớn."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Chủ nghĩa khắc kỷ hiện đại cho rằng ta không kiểm soát được thế giới, nhưng kiểm soát được cách ta nhìn nhận và phản ứng với nó."
     },
     {
       "id": "q15",
       "question": "Lời khuyên 'Đừng lo lắng. Hãy vui mừng' trong chương này có ý nghĩa gì đối với sự kiên trì?",
       "options": [
-        "Nó giúp ta duy trì năng lượng bền bỉ để theo đuổi mục tiêu trong dài hạn",
-        "Nó giúp ta bỏ qua những khó khăn thực tế để tiến về phía trước",
-        "Nó là liều thuốc giảm đau tinh thần nhanh chóng",
-        "Nó là cách để thuyết phục người khác đi theo mình"
+        "Nó giúp ta bỏ qua những khó khăn thực tế để tiến về phía trước một cách mù quáng mà không cần quan tâm đến các rủi ro.",
+        "Nó là liều thuốc giảm đau tinh thần nhanh chóng giúp ta quên đi những thất bại tạm thời để tiếp tục công việc hiện tại.",
+        "Nó giúp ta duy trì năng lượng bền bỉ để theo đuổi mục tiêu trong dài hạn thay vì lãng phí vào những nỗi lo âu vô ích.",
+        "Nó là cách để thuyết phục người khác đi theo mình bằng cách tạo ra một hình ảnh tích cực và đầy năng lượng trong mắt họ."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Sự bền bỉ (resilience) được nuôi dưỡng bởi thái độ sống tích cực. Khi không lãng phí năng lượng vào lo âu, ta có nhiều nguồn lực hơn để kiên trì."
     }
   ]

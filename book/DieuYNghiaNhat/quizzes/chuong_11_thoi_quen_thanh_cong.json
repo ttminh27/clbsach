@@ -6,198 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Gary Keller sắp xếp 7 lĩnh vực then chốt của cuộc sống theo một trật tự xác định: Tinh thần -> Sức khỏe -> Cuộc sống cá nhân -> Mối quan hệ -> Công việc -> Kinh doanh -> Tài chính. Ý nghĩa sâu xa của cấu trúc này là gì?",
+      "question": "Gary Keller sắp xếp 7 lĩnh vực then chốt của cuộc sống theo một trật tự xác định. Ý nghĩa sâu xa của cấu trúc này là gì?",
       "options": [
-        "Các lĩnh vực được liệt kê ngẫu nhiên theo thứ tự chữ cái trong tiếng Anh.",
-        "Lĩnh vực tài chính và kinh doanh là thứ yếu, không có nhiều giá trị trong cuộc sống.",
-        "Lĩnh vực tinh thần và sức khỏe là những thứ trừu tượng nên cần được giải quyết cho xong trước khi kiếm tiền.",
-        "Mỗi lĩnh vực đóng vai trò là nền tảng nâng đỡ vững chắc cho lĩnh vực kế tiếp; nếu tinh thần và thể chất sụp đổ thì mọi thành tựu công việc hay tài chính đều không thể duy trì bền vững."
+        "Mỗi lĩnh vực là nền tảng nâng đỡ cho lĩnh vực kế tiếp; nếu tinh thần và sức khỏe sụp đổ thì mọi thành tựu sẽ không bền.",
+        "Các lĩnh vực được liệt kê theo thứ tự ưu tiên về mặt tài chính để đảm bảo sự tăng trưởng lợi nhuận tối đa cho cá nhân.",
+        "Đây là danh sách các lĩnh vực được sắp xếp ngẫu nhiên nhằm giúp người đọc dễ dàng ghi nhớ và thực hành trong đời sống.",
+        "Lĩnh vực tinh thần và sức khỏe được đặt lên đầu vì chúng là những thứ trừu tượng cần giải quyết trước khi kiếm tiền."
       ],
-      "correctIndex": 3,
-      "explanation": "Keller viết: 'Tôi còn thực hiện chúng theo thứ tự mỗi lĩnh vực là một nền tảng cho lĩnh vực tiếp theo.' Một người kiệt quệ thể chất và tinh thần thì các mối quan hệ rạn nứt, dẫn đến công việc sa sút và tài chính tan vỡ. Tài chính ở tầng ngọn là kết quả của các tầng nền móng bên trong. D phân tích chính xác bản chất hệ thống; A, B, C sai lệch.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Keller coi 7 lĩnh vực như các tầng của một ngôi nhà, nơi các tầng dưới là nền tảng cho tầng trên. Nếu nền tảng (tinh thần, sức khỏe) yếu, các tầng cao (kinh doanh, tài chính) sẽ không thể duy trì bền vững."
     },
     {
       "id": "q2",
       "question": "Sai lầm mang tính hệ thống của những người theo đuổi ảo tưởng 'cân bằng cuộc sống' khi đối diện với 7 lĩnh vực là gì?",
       "options": [
-        "Cố gắng phân chia thời gian và năng lượng đồng đều cho cả 7 lĩnh vực mỗi ngày, dẫn đến sự dàn trải tầm thường và kiệt sức mà không tạo ra bất kỳ đột phá nào.",
-        "Dành quá nhiều thời gian rèn luyện thể thao và thiền định khiến công việc kinh doanh bị đình trệ.",
-        "Chỉ tập trung vào mối quan hệ vợ chồng mà quên mất việc mở rộng mạng lưới quan hệ xã hội.",
-        "Đặt quá nhiều mục tiêu tài chính ngắn hạn thay vì mua bảo hiểm nhân thọ dài hạn."
+        "Dành quá nhiều thời gian rèn luyện thể thao và thiền định khiến cho công việc kinh doanh bị đình trệ và mất lợi thế.",
+        "Cố gắng phân chia thời gian và năng lượng đồng đều cho cả 7 lĩnh vực mỗi ngày, dẫn đến sự dàn trải mà không có đột phá.",
+        "Chỉ tập trung vào mối quan hệ vợ chồng mà quên mất việc mở rộng mạng lưới quan hệ xã hội cần thiết cho sự nghiệp cá nhân.",
+        "Đặt quá nhiều mục tiêu tài chính ngắn hạn thay vì mua bảo hiểm nhân thọ dài hạn để bảo vệ gia đình trước các rủi ro."
       ],
-      "correctIndex": 0,
-      "explanation": "Cân bằng không phải là cào bằng thời gian cho mọi khía cạnh. Keller nhấn mạnh không thể phân tích và làm mọi việc nhỏ nhặt. Người khôn ngoan áp dụng Câu hỏi tập trung để tìm ra điều quan trọng nhất trong từng lĩnh vực then chốt, tạo ra điểm tựa đòn bẩy thay vì dàn trải năng lượng mỗi ngày. A chỉ rõ cái bẫy cào bằng; B, C, D là các ví dụ đơn lẻ lạc đề.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Cân bằng không phải là cào bằng thời gian. Sai lầm lớn nhất là cố gắng làm tốt mọi thứ cùng lúc, dẫn đến sự tầm thường thay vì tập trung vào điều quan trọng nhất để tạo đòn bẩy."
     },
     {
       "id": "q3",
-      "question": "Để tùy biến Câu hỏi tập trung thành công cụ hành động cụ thể cho từng vấn đề thực tiễn, công thức chuẩn xác được Keller hướng dẫn bao gồm những thành tố nào?",
+      "question": "Để tùy biến Câu hỏi tập trung thành công cụ hành động cụ thể, công thức chuẩn xác được Keller hướng dẫn bao gồm những gì?",
       "options": [
-        "Xác định người chịu trách nhiệm + Ngân sách khả dụng + Hạn chót hoàn thành + Chế tài xử phạt nếu vi phạm.",
-        "Chọn lĩnh vực cụ thể + Tuyên bố câu hỏi trọng tâm + Bổ sung khung thời gian xác định + Gắn vế đòn bẩy ('nhờ đó việc thực hiện những điều khác sẽ trở nên dễ dàng hơn hoặc không còn cần thiết').",
-        "Liệt kê 5 mục tiêu quan trọng nhất + Sắp xếp theo mức độ khẩn cấp + Phân công cho các thành viên trong nhóm.",
-        "Áp dụng quy tắc 5 Whys tìm nguyên nhân gốc rễ kết hợp với biểu đồ xương cá Ishikawa."
+        "Xác định người chịu trách nhiệm, ngân sách khả dụng, hạn chót hoàn thành và các chế tài xử phạt nếu vi phạm tiến độ.",
+        "Liệt kê năm mục tiêu quan trọng nhất, sắp xếp theo mức độ khẩn cấp và phân công nhiệm vụ cho các thành viên trong nhóm.",
+        "Chọn lĩnh vực cụ thể, tuyên bố câu hỏi, bổ sung khung thời gian và gắn vế đòn bẩy giúp việc khác trở nên dễ dàng hơn.",
+        "Áp dụng quy tắc năm lần hỏi tại sao để tìm nguyên nhân gốc rễ kết hợp với biểu đồ xương cá để phân tích các vấn đề."
       ],
-      "correctIndex": 1,
-      "explanation": "Trong văn bản: 'Chọn lĩnh vực trước, sau đó tuyên bố câu hỏi, bổ sung khung thời gian, và kết thúc bằng cách thêm cụm từ 'nhờ đó việc thực hiện những điều khác sẽ trở nên dễ dàng hơn hoặc không còn cần thiết nữa là gì?'' B mô tả chuẩn xác công thức 4 bước này. A, C, D là các phương pháp quản trị hành chính khác, không phải của The ONE Thing.",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Công thức của Keller yêu cầu sự kết hợp giữa lĩnh vực, khung thời gian và vế đòn bẩy để đảm bảo hành động hiện tại tạo ra hiệu ứng domino cho các mục tiêu khác."
     },
     {
       "id": "q4",
-      "question": "Tình huống: Một doanh nhân khởi nghiệp dồn 16 tiếng mỗi ngày cho kinh doanh và tài chính, bỏ bê tập luyện, ăn uống thất thường và xa cách gia đình. Sau 3 năm, công ty đạt doanh thu lớn nhưng ông bị đột quỵ và ly hôn. Dưới lăng kính 7 nền tảng của Keller, bi kịch này bắt nguồn từ đâu?",
+      "question": "Một doanh nhân dồn 16 tiếng mỗi ngày cho kinh doanh, bỏ bê sức khỏe và gia đình. Dưới lăng kính của Keller, bi kịch này từ đâu?",
       "options": [
-        "Doanh nhân này đã chọn sai thị trường mục tiêu có biên lợi nhuận quá thấp.",
-        "Doanh nhân này không tuyển dụng đủ số lượng phó giám đốc để san sẻ công việc điều hành.",
-        "Doanh nhân này đã rút ruột các tầng nền tảng cốt lõi (sức khỏe, đời sống cá nhân, gia đình) để đắp vào tầng kết quả ngọn (kinh doanh, tài chính), dẫn đến sự sụp đổ cấu trúc toàn phần.",
-        "Doanh nhân này thiếu kỹ năng quản lý dòng tiền tự do trong doanh nghiệp."
+        "Doanh nhân này đã chọn sai thị trường mục tiêu có biên lợi nhuận quá thấp nên phải làm việc quá sức để bù đắp doanh thu.",
+        "Doanh nhân này không tuyển dụng đủ số lượng phó giám đốc để san sẻ công việc điều hành dẫn đến sự quá tải về mặt thời gian.",
+        "Doanh nhân này thiếu kỹ năng quản lý dòng tiền tự do trong doanh nghiệp nên phải làm việc nhiều hơn để duy trì sự sống.",
+        "Doanh nhân đã rút ruột các tầng nền tảng cốt lõi như sức khỏe và gia đình để đắp vào tầng kết quả ngọn là kinh doanh."
       ],
-      "correctIndex": 2,
-      "explanation": "Cấu trúc 7 lĩnh vực vận hành như một ngôi nhà cao tầng: Tinh thần, sức khỏe và các mối quan hệ là móng; kinh doanh và tài chính là các tầng trên. Khi rút gạch ở móng để đắp lên nóc, toàn bộ cấu trúc sẽ sụp đổ khi gặp biến cố. C phân tích trúng quy luật nền tảng; A, B, D là ngụy biện bề mặt.",
-      "difficulty": "hard"
+      "correctIndex": 3,
+      "explanation": "Khi rút gạch ở móng (sức khỏe, gia đình) để đắp lên nóc (kinh doanh), toàn bộ cấu trúc cuộc sống sẽ sụp đổ khi gặp biến cố, dù kết quả kinh doanh có vẻ tốt."
     },
     {
       "id": "q5",
-      "question": "Bảng nhắc nhở tại nơi làm việc: 'Cho đến khi điều quan trọng nhất được thực hiện – mọi thứ khác đều gây xao nhãng' chứa đựng hàm ý tâm lý học hành vi nào?",
+      "question": "Bảng nhắc nhở: 'Cho đến khi điều quan trọng nhất được thực hiện – mọi thứ khác đều gây xao nhãng' chứa đựng hàm ý gì?",
       "options": [
-        "Cấm nhân viên không được phép giải lao hay uống nước trong suốt ca làm việc.",
-        "Yêu cầu hủy bỏ vĩnh viễn toàn bộ việc trả lời email và các cuộc họp nội bộ trong công ty.",
-        "Khẳng định rằng một người chỉ cần làm duy nhất một công việc trong toàn bộ sự nghiệp của mình.",
-        "Thiết lập một ranh giới phòng vệ tuyệt đối cho khối thời gian tập trung, giúp tâm trí chống lại sự cám dỗ nguy hiểm của những việc thứ yếu dễ làm mang lại cảm giác bận rộn giả tạo."
+        "Thiết lập ranh giới phòng vệ cho thời gian tập trung, giúp tâm trí chống lại sự cám dỗ của những việc thứ yếu dễ làm.",
+        "Yêu cầu nhân viên không được phép giải lao hay uống nước trong suốt ca làm việc để đảm bảo hiệu suất công việc tối đa.",
+        "Yêu cầu hủy bỏ vĩnh viễn toàn bộ việc trả lời email và các cuộc họp nội bộ trong công ty để tiết kiệm thời gian làm.",
+        "Khẳng định rằng một người chỉ cần làm duy nhất một công việc trong toàn bộ sự nghiệp của mình để đạt được thành công."
       ],
-      "correctIndex": 3,
-      "explanation": "Bộ não con người rất dễ bị lôi cuốn bởi những việc nhỏ nhặt dễ làm (soát email, dọn bàn) vì chúng mang lại cảm giác thỏa mãn tức thì. Tấm bảng nhắc nhở này là một neo tâm lý mạnh mẽ xác định lại bản chất: chừng nào The ONE Thing chưa xong, mọi việc khác – dù có vẻ khẩn cấp – đều chỉ là sự xao nhãng. D phân tích đúng cơ chế tâm lý; A, B, C cực đoan sai lệch.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Bộ não thường bị thu hút bởi những việc nhỏ nhặt dễ làm. Tấm bảng này là neo tâm lý giúp xác định rằng mọi việc khác đều là xao nhãng cho đến khi việc quan trọng nhất hoàn tất."
     },
     {
       "id": "q6",
-      "question": "Trong 5 ý tưởng lớn để biến Câu hỏi tập trung thành thói quen, tại sao bước đầu tiên bắt buộc phải là 'Hiểu và Tin' (Understand and Believe) thay vì lao ngay vào hành động?",
+      "question": "Tại sao bước đầu tiên phải là 'Hiểu và Tin' thay vì lao ngay vào hành động khi biến Câu hỏi tập trung thành thói quen?",
       "options": [
-        "Vì nếu không có sự thấu hiểu sâu sắc và niềm tin kiên định vào sức mạnh của việc tập trung, bạn sẽ nhanh chóng bỏ cuộc và quay lại lối mòn đa nhiệm cũ kỹ ngay khi đối mặt với áp lực công việc hoặc sự hoài nghi của người khác.",
-        "Vì niềm tin tâm linh có khả năng tự động thu hút của cải vật chất mà không cần hành động thể chất.",
-        "Vì tác giả muốn người đọc phải đăng ký các khóa học đào tạo có trả phí trước khi thực hành.",
-        "Vì việc hiểu biết lý thuyết trừu tượng luôn có giá trị vượt trội và thay thế hoàn toàn được kỹ năng thực hành."
+        "Vì niềm tin tâm linh có khả năng tự động thu hút của cải vật chất đến với bạn mà không cần phải thực hiện hành động nào.",
+        "Vì nếu không có niềm tin kiên định vào sức mạnh tập trung, bạn sẽ nhanh chóng bỏ cuộc khi đối mặt với áp lực công việc.",
+        "Vì tác giả muốn người đọc phải đăng ký các khóa học đào tạo có trả phí trước khi bắt đầu thực hành các bước tiếp theo.",
+        "Vì việc hiểu biết lý thuyết trừu tượng luôn có giá trị vượt trội và thay thế hoàn toàn được kỹ năng thực hành thực tế."
       ],
-      "correctIndex": 0,
-      "explanation": "Keller giải thích: 'Nếu không hiểu và tin, bạn sẽ không thể hành động.' Từ bỏ thói quen ôm đồm để tập trung vào duy nhất một việc là điều đi ngược lại bản năng và định kiến xã hội. Nếu không tin tưởng tuyệt đối vào hiệu ứng domino, khi công việc dồn ứ, bạn sẽ hoảng loạn và quay lại thói quen bận rộn cào bằng. A giải thích chính xác; B mê tín; C vụ lợi; D duy lý thuyết.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Việc từ bỏ thói quen ôm đồm để tập trung vào một việc đi ngược lại bản năng. Nếu không tin vào hiệu ứng domino, bạn sẽ hoảng loạn và quay lại lối mòn cũ khi gặp áp lực."
     },
     {
       "id": "q7",
-      "question": "Khi bổ sung các khung thời gian khác nhau (ví dụ: 'trong 5 năm tới' vs 'trong tuần này' vs 'ngay bây giờ') vào Câu hỏi tập trung, điều gì được kết nối trong nhận thức?",
+      "question": "Khi bổ sung các khung thời gian khác nhau vào Câu hỏi tập trung, điều gì được kết nối trong nhận thức của người thực hiện?",
       "options": [
-        "Khung thời gian càng ngắn thì chi phí tài chính để triển khai càng tốn kém hơn.",
-        "Khung thời gian xa kích hoạt tầm nhìn định hướng tổng thể, trong khi khung thời gian gần kích hoạt hành động chiến thuật tức thời; sự kết nối này biến viễn cảnh dài hạn thành bước đi khả thi trước mắt.",
-        "Việc đổi khung thời gian chỉ có ý nghĩa trang trí trên phần mềm lịch chứ không ảnh hưởng đến não bộ.",
-        "Khung thời gian ngắn chỉ dành cho nhân viên thừa hành, còn khung thời gian dài chỉ dành cho ban giám đốc."
+        "Khung thời gian càng ngắn thì chi phí tài chính để triển khai các dự án càng tốn kém hơn so với các dự án dài hạn.",
+        "Việc đổi khung thời gian chỉ có ý nghĩa trang trí trên phần mềm lịch làm việc chứ không ảnh hưởng đến tư duy não bộ.",
+        "Khung thời gian xa kích hoạt tầm nhìn định hướng, khung thời gian gần kích hoạt hành động chiến thuật tức thời hiệu quả.",
+        "Khung thời gian ngắn chỉ dành cho nhân viên thừa hành, còn khung thời gian dài chỉ dành cho ban giám đốc điều hành."
       ],
-      "correctIndex": 1,
-      "explanation": "Keller chỉ ra: Khung thời gian '5 năm' hay 'một ngày nào đó' tìm câu trả lời tổng thể hướng đến kết quả mục tiêu lớn. Khung thời gian 'tuần này' hay 'ngay bây giờ' mang lại mức độ thời gian thích hợp cho hành động. Kết hợp các mốc thời gian giúp đồng bộ giữa chiến lược vĩ mô và hành động vi mô. B giải thích trọn vẹn; A, C, D phi lý.",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Kết hợp các mốc thời gian giúp đồng bộ giữa chiến lược vĩ mô (5 năm) và hành động vi mô (ngay bây giờ), biến viễn cảnh dài hạn thành các bước đi khả thi."
     },
     {
       "id": "q8",
-      "question": "Một trưởng phòng kinh doanh trăn trở: 'Trong công việc của tôi, điều quan trọng nhất tôi có thể làm để đảm bảo đạt chỉ tiêu doanh số tháng này là gì?' Dưới góc nhìn chương 11, câu hỏi này còn THIẾU thành tố cốt lõi nào?",
+      "question": "Câu hỏi: 'Điều quan trọng nhất tôi có thể làm để đảm bảo đạt chỉ tiêu doanh số tháng này là gì?' còn thiếu thành tố nào?",
       "options": [
-        "Thiếu danh sách tên cụ thể của các khách hàng VIP cần được tiếp cận.",
-        "Thiếu chữ ký phê duyệt và bảo lãnh ngân sách của Giám đốc tài chính.",
-        "Thiếu vế tiêu chuẩn đòn bẩy: '... nhờ đó việc thực hiện những điều khác sẽ trở nên dễ dàng hơn hoặc không còn cần thiết nữa'.",
-        "Thiếu mức tiền thưởng nóng bằng tiền mặt cho nhân viên chốt được đơn hàng lớn."
+        "Thiếu danh sách tên cụ thể của các khách hàng VIP cần được tiếp cận để đảm bảo đạt được mục tiêu doanh số đề ra trước.",
+        "Thiếu chữ ký phê duyệt và bảo lãnh ngân sách của Giám đốc tài chính để triển khai các hoạt động kinh doanh cần thiết.",
+        "Thiếu mức tiền thưởng nóng bằng tiền mặt cho nhân viên chốt được đơn hàng lớn để tạo động lực làm việc cho cả nhóm.",
+        "Thiếu vế tiêu chuẩn đòn bẩy: '... nhờ đó việc thực hiện những điều khác sẽ trở nên dễ dàng hơn hoặc không cần thiết'."
       ],
-      "correctIndex": 2,
-      "explanation": "Câu hỏi trên đã có lĩnh vực (công việc), mục tiêu (đạt chỉ tiêu), khung thời gian (tháng này), nhưng thiếu vế đòn bẩy: '... nhờ đó việc thực hiện những điều khác sẽ dễ dàng hơn hoặc không cần thiết nữa'. Thiếu vế này, người quản lý có thể chọn một biện pháp cơ bắp thô sơ (như ép nhân viên gọi thêm 50 cuộc điện thoại) thay vì một giải pháp đòn bẩy mang tính chuyển hóa hệ thống. C chỉ rõ lỗ hổng cấu trúc; A, B, D là chi tiết thứ cấp.",
-      "difficulty": "hard"
+      "correctIndex": 3,
+      "explanation": "Thiếu vế đòn bẩy, người quản lý có thể chọn biện pháp cơ bắp thô sơ thay vì một giải pháp mang tính chuyển hóa hệ thống giúp mọi việc khác trở nên dễ dàng hơn."
     },
     {
       "id": "q9",
-      "question": "Tại sao việc 'Kêu gọi sự hỗ trợ' (gia đình, nhóm đồng nghiệp cùng chí hướng) lại là một nhân tố quyết định trong việc duy trì thói quen thành công?",
+      "question": "Tại sao việc 'Kêu gọi sự hỗ trợ' từ gia đình và đồng nghiệp lại là nhân tố quyết định trong việc duy trì thói quen thành công?",
       "options": [
-        "Để có người làm thay những công việc khó khăn mà bản thân muốn trốn tránh.",
-        "Để chia sẻ trách nhiệm pháp lý nếu kế hoạch của The ONE Thing gặp rủi ro thất bại.",
-        "Để ép buộc những người xung quanh phải phục tùng và thay đổi theo sở thích cá nhân của mình.",
-        "Vì môi trường xã hội và những người xung quanh có sức ảnh hưởng định hình hành vi cực lớn; sự hỗ trợ từ gia đình và đồng nghiệp tạo ra trách nhiệm giải trình tương hỗ và sự thấu hiểu để bảo vệ khối thời gian tập trung của bạn."
+        "Môi trường xung quanh ảnh hưởng lớn đến hành vi; sự hỗ trợ tạo ra trách nhiệm giải trình và sự thấu hiểu cho bạn.",
+        "Để có người làm thay những công việc khó khăn mà bản thân muốn trốn tránh nhằm tiết kiệm thời gian cho các việc khác.",
+        "Để chia sẻ trách nhiệm pháp lý nếu kế hoạch của The ONE Thing gặp rủi ro thất bại trong quá trình triển khai thực tế.",
+        "Để ép buộc những người xung quanh phải phục tùng và thay đổi theo sở thích cá nhân của mình trong công việc hằng ngày."
       ],
-      "correctIndex": 3,
-      "explanation": "Keller viết: 'Nghiên cứu cho thấy những người xung quanh có ảnh hưởng rất lớn đến bạn.' Chia sẻ The ONE Thing giúp gia đình và đồng nghiệp hiểu tại sao bạn đóng cửa từ chối làm phiền, đồng thời tạo ra một nhóm tương trợ giữ vững trách nhiệm thực hành thói quen thành công mỗi ngày. D phân tích đúng bản chất xã hội học hành vi; A, B, C tiêu cực sai lệch.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Chia sẻ mục tiêu giúp người thân hiểu tại sao bạn cần thời gian tập trung, đồng thời tạo ra nhóm tương trợ giúp giữ vững trách nhiệm thực hành thói quen mỗi ngày."
     },
     {
       "id": "q10",
-      "question": "Khi áp dụng Câu hỏi tập trung vào lĩnh vực 'Các mối quan hệ quan trọng' (hôn nhân, con cái), nhiều người cảm thấy việc tìm 'MỘT điều duy nhất' là máy móc và khô khan. Keller giải tỏa định kiến này bằng lập luận nào?",
+      "question": "Khi áp dụng Câu hỏi tập trung vào các mối quan hệ, nhiều người thấy việc tìm 'MỘT điều duy nhất' là máy móc. Lập luận giải tỏa là gì?",
       "options": [
-        "Mối quan hệ cũng chịu sự chi phối của hiệu ứng domino; có những hành động điểm tựa cốt lõi (như một buổi tối hẹn hò chất lượng hàng tuần không điện thoại) có sức mạnh chuyển hóa và làm mọi sự tương tác khác trở nên gắn kết, dễ dàng hơn.",
-        "Tình cảm gia đình hoàn toàn có thể quy đổi thành các chỉ số KPI định lượng giống hệt như chỉ số tài chính doanh nghiệp.",
-        "Quan hệ tình cảm là chuyện tự nhiên, không nên áp dụng bất kỳ tư duy hay kế hoạch nào vào đó.",
-        "Nếu một người kiếm được rất nhiều tiền thì mọi mâu thuẫn trong gia đình sẽ tự động được hàn gắn."
+        "Tình cảm gia đình hoàn toàn có thể quy đổi thành các chỉ số KPI định lượng giống hệt như các chỉ số tài chính doanh nghiệp.",
+        "Mối quan hệ chịu sự chi phối của hiệu ứng domino; có những hành động điểm tựa cốt lõi giúp mọi tương tác trở nên gắn kết.",
+        "Quan hệ tình cảm là chuyện tự nhiên, không nên áp dụng bất kỳ tư duy hay kế hoạch nào vào đó để tránh sự gượng ép giả tạo.",
+        "Nếu một người kiếm được rất nhiều tiền thì mọi mâu thuẫn trong gia đình sẽ tự động được hàn gắn mà không cần nỗ lực."
       ],
-      "correctIndex": 0,
-      "explanation": "Keller đưa ra các ví dụ cụ thể: 'Điều quan trọng nhất tôi có thể làm để khiến gia đình gắn bó hơn là gì?'. Tình cảm không đòi hỏi hàng trăm cử chỉ vụn vặt vô hồn mà cần những hành động chất lượng mang tính bước ngoặt có thể kéo các thành viên lại gần nhau. A giải thích chuẩn xác; B cơ học thái quá; C buông xuôi; D ảo tưởng về tiền bạc.",
-      "difficulty": "hard"
+      "correctIndex": 1,
+      "explanation": "Tình cảm không đòi hỏi hàng trăm cử chỉ vô hồn mà cần những hành động chất lượng mang tính bước ngoặt có thể kéo các thành viên lại gần nhau hơn."
     },
     {
       "id": "q11",
-      "question": "Câu châm ngôn của Arnold H. Glasow mở đầu chương: 'Thành công rất đơn giản. Làm những gì đúng đắn, theo đúng cách, vào đúng thời điểm' được cụ thể hóa thông qua công cụ nào trong chương 11?",
+      "question": "Câu châm ngôn của Arnold H. Glasow: 'Thành công rất đơn giản. Làm những gì đúng đắn, theo đúng cách, vào đúng thời điểm' được cụ thể hóa ra sao?",
       "options": [
-        "Sử dụng phần mềm tự động hóa gửi email hàng loạt để tối ưu hóa thời gian tiếp thị.",
-        "Dùng Câu hỏi tập trung để xác định việc đúng đắn (The ONE Thing), theo đúng cách (nguyên lý đòn bẩy nhân quả) và vào đúng thời điểm (gắn với khung thời gian thích hợp từ nền tảng đến ngọn).",
-        "Thuê chuyên gia tư vấn phong thủy để chọn ngày giờ hoàng đạo trước khi ký kết hợp đồng.",
-        "Liên tục thay đổi kế hoạch làm việc theo cảm xúc hưng phấn của từng ngày."
+        "Sử dụng phần mềm tự động hóa gửi email hàng loạt để tối ưu hóa thời gian tiếp thị và tăng doanh số bán hàng nhanh chóng.",
+        "Thuê chuyên gia tư vấn phong thủy để chọn ngày giờ hoàng đạo trước khi ký kết hợp đồng kinh doanh quan trọng cho công ty.",
+        "Dùng Câu hỏi tập trung để xác định việc đúng đắn, theo cách đòn bẩy và vào thời điểm thích hợp trong trật tự domino.",
+        "Liên tục thay đổi kế hoạch làm việc theo cảm xúc hưng phấn của từng ngày để thích nghi với sự biến động của thị trường."
       ],
-      "correctIndex": 1,
-      "explanation": "Keller trích Glasow để làm nổi bật: Câu hỏi tập trung chính là công thức hiện thực hóa câu nói đó: Việc đúng đắn = The ONE Thing; Đúng cách = đòn bẩy làm mọi việc khác dễ dàng hơn; Đúng thời điểm = trật tự domino tuần tự trong từng lĩnh vực. B phân tích chính xác mối liên hệ; A, C, D phi lý.",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Câu hỏi tập trung chính là công thức hiện thực hóa câu nói đó: Việc đúng đắn là The ONE Thing, đúng cách là đòn bẩy, đúng thời điểm là trật tự domino tuần tự."
     },
     {
       "id": "q12",
-      "question": "Một người đang ngập trong nợ thẻ tín dụng và chi tiêu mất kiểm soát tự hỏi theo chương 11: 'Điều quan trọng nhất tôi có thể làm để giải quyết tình hình tài chính là gì?' Câu trả lời nào sau đây thể hiện đúng tinh thần 'quân domino đầu tiên'?",
+      "question": "Một người đang ngập trong nợ thẻ tín dụng tự hỏi: 'Điều quan trọng nhất tôi có thể làm để giải quyết tài chính là gì?'",
       "options": [
-        "Mở thêm 3 thẻ tín dụng mới ở ngân hàng khác để vay mượn đảo nợ tạm thời.",
-        "Vay lãi suất cao để đầu tư toàn bộ vào các tài sản rủi ro với hy vọng nhân 10 tài sản nhanh chóng.",
-        "Cắt đứt thẻ tín dụng và lập kế hoạch dồn lực thanh toán dứt điểm khoản nợ có lãi suất cao nhất trước, nhờ đó chặn đứng việc lãi mẹ đẻ lãi con và giải phóng dòng tiền mỗi tháng.",
-        "Cắt giảm toàn bộ chi phí chăm sóc sức khỏe và ăn uống cơ bản xuống mức cực đoan."
+        "Mở thêm ba thẻ tín dụng mới ở ngân hàng khác để vay mượn đảo nợ tạm thời nhằm duy trì mức chi tiêu hiện tại của bản thân.",
+        "Vay lãi suất cao để đầu tư toàn bộ vào các tài sản rủi ro với hy vọng nhân mười tài sản nhanh chóng để trả hết nợ nần.",
+        "Cắt giảm toàn bộ chi phí chăm sóc sức khỏe và ăn uống cơ bản xuống mức cực đoan để dành tiền trả nợ cho các ngân hàng lớn.",
+        "Cắt thẻ và dồn lực thanh toán dứt điểm khoản nợ có lãi suất cao nhất trước, chặn đứng lãi mẹ đẻ lãi con và giải phóng tiền."
       ],
-      "correctIndex": 2,
-      "explanation": "Câu hỏi tài chính trong sách: 'Điều quan trọng nhất tôi có thể làm để thanh toán hết nợ thẻ tín dụng của tôi là gì?'. Domino đầu tiên phải là bịt lỗ rò rỉ tài chính và triệt tiêu nguồn áp lực lớn nhất (hủy thẻ, dồn lực trả nợ lãi cao nhất), từ đó tạo hiệu ứng đòn bẩy tích cực cho dòng tiền. C là hành động chuẩn xác; A lún sâu vào bẫy; B đánh bạc; D phá hoại nền tảng sức khỏe.",
-      "difficulty": "medium"
+      "correctIndex": 3,
+      "explanation": "Domino đầu tiên phải là bịt lỗ rò rỉ tài chính và triệt tiêu nguồn áp lực lớn nhất, từ đó tạo hiệu ứng đòn bẩy tích cực cho dòng tiền trong tương lai."
     },
     {
       "id": "q13",
-      "question": "Tại sao Keller cảnh báo độc giả không nên cố gắng phân tích quá đà mọi khía cạnh trong mọi việc nhỏ nhặt mình làm hàng ngày?",
+      "question": "Tại sao Keller cảnh báo không nên cố gắng phân tích quá đà mọi khía cạnh trong mọi việc nhỏ nhặt mình làm hàng ngày?",
       "options": [
-        "Vì những người thực sự thông minh không bao giờ cần phải suy nghĩ trước khi hành động.",
-        "Vì tác giả muốn giữ độc quyền bí quyết cho riêng mình chứ không muốn chia sẻ hết cho độc giả.",
-        "Vì mọi việc nhỏ nhặt trong đời sống đều do số mệnh tiền định sắp đặt từ trước.",
-        "Vì nếu cố áp dụng câu hỏi cho từng việc lặt vặt (như ăn món gì, mặc áo màu gì), bạn sẽ rơi vào hội chứng tê liệt phân tích và kiệt quệ năng lượng; hãy bắt đầu từ những việc lớn rồi để đà quán tính dẫn dắt."
+        "Vì nếu áp dụng cho từng việc lặt vặt, bạn sẽ rơi vào hội chứng tê liệt phân tích và kiệt quệ năng lượng ý chí cần thiết.",
+        "Vì những người thực sự thông minh không bao giờ cần phải suy nghĩ trước khi hành động mà vẫn đạt được kết quả như mong đợi.",
+        "Vì tác giả muốn giữ độc quyền bí quyết cho riêng mình chứ không muốn chia sẻ hết cho độc giả về cách thức làm việc hiệu quả.",
+        "Vì mọi việc nhỏ nhặt trong đời sống đều do số mệnh tiền định sắp đặt từ trước nên việc phân tích là hoàn toàn vô ích."
       ],
-      "correctIndex": 3,
-      "explanation": "Keller viết: 'Rõ ràng, bạn có thể tự thúc đẩy bản thân phân tích mọi khía cạnh trong mọi việc bạn làm. Hãy bắt đầu với những việc lớn và quan sát nơi nó đưa bạn đến.' Câu hỏi tập trung dành cho các quyết định chiến lược lớn, tránh lãng phí năng lượng ý chí vào các việc vụn vặt không đáng có. D phân tích đúng bản chất tâm lý học; A, B, C sai lệch.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Câu hỏi tập trung dành cho các quyết định chiến lược lớn, tránh lãng phí năng lượng vào các việc vụn vặt. Hãy bắt đầu từ việc lớn rồi để đà quán tính dẫn dắt."
     },
     {
       "id": "q14",
-      "question": "Cơ chế 'Thói quen nền tảng' (Keystone Habit) của Câu hỏi tập trung được hiểu như thế nào khi một người rèn luyện nó kiên trì suốt nhiều tuần?",
+      "question": "Cơ chế 'Thói quen nền tảng' của Câu hỏi tập trung được hiểu như thế nào khi rèn luyện nó kiên trì suốt nhiều tuần?",
       "options": [
-        "Khi việc đặt câu hỏi tập trung trở thành phản xạ tự nhiên, nó tự động tái cấu trúc tư duy ưu tiên, từ đó kích hoạt sự hình thành tuần tự của hàng loạt thói quen tốt khác trong cả 7 lĩnh vực cuộc sống.",
-        "Nó giúp người thực hiện không bao giờ phải làm việc vất vả mà tiền bạc vẫn tự động sinh sôi.",
-        "Nó thay thế hoàn toàn mọi hệ thống kiểm soát nội bộ và quy trình kiểm toán trong doanh nghiệp.",
-        "Nó đảm bảo người thực hiện sẽ không bao giờ phạm phải bất kỳ sai lầm nào trong cuộc đời."
+        "Nó giúp người thực hiện không bao giờ phải làm việc vất vả mà tiền bạc vẫn tự động sinh sôi nảy nở trong tài khoản cá nhân.",
+        "Khi việc đặt câu hỏi trở thành phản xạ, nó tái cấu trúc tư duy ưu tiên, kích hoạt sự hình thành hàng loạt thói quen tốt.",
+        "Nó thay thế hoàn toàn mọi hệ thống kiểm soát nội bộ và quy trình kiểm toán phức tạp trong các doanh nghiệp lớn hiện nay.",
+        "Nó đảm bảo người thực hiện sẽ không bao giờ phạm phải bất kỳ sai lầm nào trong cuộc đời dù là nhỏ nhất trong công việc."
       ],
-      "correctIndex": 0,
-      "explanation": "Keller kết luận: 'Thói quen này có thể trở thành nền tảng cho nhiều thói quen khác, vì vậy hãy giữ thói quen thành công của bạn luôn mạnh mẽ.' Trong khoa học thói quen, thói quen nền tảng khi được thiết lập sẽ tạo ra phản ứng dây chuyền tích cực lên toàn bộ lối sống. A giải thích sâu sắc quy luật này; B, C, D là những hứa hẹn phi thực tế.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Trong khoa học thói quen, thói quen nền tảng khi được thiết lập sẽ tạo ra phản ứng dây chuyền tích cực lên toàn bộ lối sống, giúp bạn đạt kết quả đáng kinh ngạc."
     },
     {
       "id": "q15",
-      "question": "Trong buổi họp giao ban đầu tuần, một trưởng nhóm muốn áp dụng Thói quen thành công để nâng cao năng suất phòng ban. Hành động nào sau đây là ứng dụng xuất sắc nhất?",
+      "question": "Trong buổi họp giao ban, trưởng nhóm muốn áp dụng Thói quen thành công để nâng cao năng suất phòng ban. Hành động nào tối ưu?",
       "options": [
-        "Yêu cầu mỗi nhân viên nộp bản kế hoạch liệt kê ít nhất 20 đầu việc chi tiết cần hoàn thành trong tuần.",
-        "Cho từng thành viên xác định: 'Điều quan trọng nhất tôi có thể làm trong tuần này cho dự án X, nhờ đó việc hoàn thành các công việc khác của nhóm sẽ dễ dàng hơn hoặc không cần thiết nữa là gì?' và cam kết bảo vệ khối thời gian cho việc đó.",
-        "Phạt tiền tất cả những nhân viên không trả lời tin nhắn công việc ngoài giờ hành chính.",
-        "Hủy bỏ toàn bộ các cuộc họp và để mỗi nhân viên tự do làm bất kỳ điều gì họ muốn mà không cần phối hợp."
+        "Yêu cầu mỗi nhân viên nộp bản kế hoạch liệt kê ít nhất hai mươi đầu việc chi tiết cần hoàn thành trong tuần làm việc tới.",
+        "Phạt tiền tất cả những nhân viên không trả lời tin nhắn công việc ngoài giờ hành chính để đảm bảo tiến độ dự án chung.",
+        "Cho từng thành viên xác định việc quan trọng nhất trong tuần cho dự án và cam kết bảo vệ khối thời gian cho việc đó.",
+        "Hủy bỏ toàn bộ các cuộc họp và để mỗi nhân viên tự do làm bất kỳ điều gì họ muốn mà không cần phối hợp với các thành viên."
       ],
-      "correctIndex": 1,
-      "explanation": "Áp dụng Câu hỏi tập trung vào cuộc họp đầu tuần giúp từng cá nhân định hình rõ quân domino của tuần, gắn kết với mục tiêu dự án chung và triệt tiêu những việc râu ria gây xao nhãng. B là sự chuyển hóa mẫu mực của Thói quen thành công vào quản trị thực tế; A sa vào danh sách việc vụn vặt; C độc đoán; D buông lỏng vô trách nhiệm.",
-      "difficulty": "hard"
+      "correctIndex": 2,
+      "explanation": "Áp dụng Câu hỏi tập trung giúp từng cá nhân định hình rõ quân domino của tuần, gắn kết với mục tiêu dự án chung và triệt tiêu những việc râu ria gây xao nhãng."
     }
   ]
 }

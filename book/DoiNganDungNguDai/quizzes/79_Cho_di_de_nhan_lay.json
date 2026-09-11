@@ -8,181 +8,181 @@
       "id": "q1",
       "question": "Triết lý 'Cho đi để nhận lấy' trong chương này bản chất là gì?",
       "options": [
-        "Một chiến lược giao dịch có tính toán để tối đa hóa lợi nhuận cá nhân",
-        "Một sự hoán đổi giá trị công bằng giữa người cho và người nhận",
-        "Một tư duy nền tảng về sự chủ động tạo ra giá trị để xây dựng mạng lưới bền vững",
-        "Một hình thức hy sinh bản thân để đổi lấy sự công nhận của xã hội"
+        "Một tư duy nền tảng về sự chủ động tạo ra giá trị nhằm xây dựng mạng lưới quan hệ và tầm ảnh hưởng bền vững.",
+        "Một chiến lược giao dịch có tính toán kỹ lưỡng nhằm tối đa hóa lợi ích cá nhân thông qua việc trao đổi giá trị.",
+        "Một sự hoán đổi giá trị công bằng giữa người cho và người nhận để đảm bảo không ai phải chịu thiệt thòi quá mức.",
+        "Một hình thức hy sinh bản thân cao cả để đổi lấy sự công nhận và tôn trọng từ cộng đồng trong thời gian dài."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả hướng đến tư duy lãnh đạo đầy tớ (servant leadership), nơi giá trị được tạo ra từ sự chủ động cống hiến thay vì mục đích giao dịch hay hy sinh mù quáng."
+      "correctIndex": 0,
+      "explanation": "Tác giả hướng đến tư duy lãnh đạo đầy tớ, nơi giá trị được tạo ra từ sự chủ động cống hiến thay vì mục đích giao dịch."
     },
     {
       "id": "q2",
       "question": "Tại sao tác giả nhấn mạnh vào việc giúp 5 người mỗi ngày để có tác động đến 20.000 người sau một thập kỷ?",
       "options": [
-        "Để chứng minh toán học là công cụ duy nhất để đo lường thành công",
-        "Để làm nổi bật sức mạnh của sự tích lũy (lãi suất kép) trong hành vi đạo đức",
-        "Để khuyến khích người đọc cạnh tranh về số lượng người được giúp đỡ",
-        "Để chứng minh rằng chỉ cần làm việc tốt là đủ, không cần năng lực chuyên môn"
+        "Để chứng minh rằng toán học là công cụ duy nhất và chính xác nhất để đo lường thành công của một cá nhân lãnh đạo.",
+        "Để làm nổi bật sức mạnh của sự tích lũy và hiệu ứng lan tỏa trong hành vi đạo đức tương tự như lãi suất kép.",
+        "Để khuyến khích người đọc cạnh tranh về số lượng người được giúp đỡ nhằm đạt được các mục tiêu danh tiếng cá nhân.",
+        "Để chứng minh rằng chỉ cần làm việc tốt là đủ và không cần phải đầu tư thêm vào năng lực chuyên môn cá nhân."
       ],
       "correctIndex": 1,
-      "explanation": "Tác giả muốn khẳng định quy luật của sự tích lũy: những tác động nhỏ nhưng liên tục sẽ tạo ra sự thay đổi lớn theo thời gian, tương tự lãi suất kép."
+      "explanation": "Tác giả muốn khẳng định quy luật của sự tích lũy: những tác động nhỏ nhưng liên tục sẽ tạo ra sự thay đổi lớn."
     },
     {
       "id": "q3",
       "question": "Trong môi trường công sở, việc áp dụng triết lý này một cách sai lầm (bẫy tư duy) thường trông như thế nào?",
       "options": [
-        "Trở thành người quá tử tế khiến bản thân bị lợi dụng và mất đi sự quyết đoán",
-        "Tập trung vào phát triển kỹ năng chuyên môn trước khi giúp đỡ đồng nghiệp",
-        "Từ chối giúp đỡ người khác để bảo vệ sự tập trung vào mục tiêu cá nhân",
-        "Luôn yêu cầu sự đền đáp ngay lập tức sau mỗi lần giúp đỡ"
+        "Tập trung quá mức vào việc phát triển kỹ năng chuyên môn cá nhân trước khi bắt đầu giúp đỡ đồng nghiệp xung quanh.",
+        "Từ chối giúp đỡ người khác để bảo vệ sự tập trung tối đa vào các mục tiêu công việc quan trọng của bản thân mình.",
+        "Trở thành người quá tử tế khiến bản thân dễ bị lợi dụng và mất đi sự quyết đoán cần thiết trong vai trò lãnh đạo.",
+        "Luôn yêu cầu sự đền đáp ngay lập tức sau mỗi lần giúp đỡ để đảm bảo công sức bỏ ra được ghi nhận xứng đáng nhất."
       ],
-      "correctIndex": 0,
-      "explanation": "Sai lầm phổ biến là hiểu nhầm 'cho đi' là 'làm hài lòng tất cả mọi người', dẫn đến mất ranh giới và thiếu sự quyết đoán trong vai trò lãnh đạo."
+      "correctIndex": 2,
+      "explanation": "Sai lầm phổ biến là hiểu nhầm 'cho đi' là 'làm hài lòng tất cả mọi người', dẫn đến mất ranh giới và thiếu quyết đoán."
     },
     {
       "id": "q4",
       "question": "Điều gì phân biệt một người lãnh đạo vĩ đại với một người tầm thường khi thực hiện việc cho đi?",
       "options": [
-        "Người vĩ đại chờ đợi cơ hội lớn để cho đi, người tầm thường cho đi những thứ nhỏ nhặt",
-        "Người vĩ đại cho đi với mục đích xây dựng thương hiệu cá nhân",
-        "Người vĩ đại coi việc giúp đỡ người khác là phương tiện để đạt tới sự vượt trội của chính mình và tập thể",
-        "Người vĩ đại chỉ giúp đỡ những người có khả năng trả ơn trong tương lai"
+        "Người vĩ đại thường chờ đợi những cơ hội lớn để cho đi, trong khi người tầm thường chỉ cho đi những thứ nhỏ nhặt.",
+        "Người vĩ đại cho đi với mục đích xây dựng thương hiệu cá nhân mạnh mẽ để tạo lợi thế cạnh tranh trên thị trường.",
+        "Người vĩ đại chỉ giúp đỡ những người có khả năng trả ơn trong tương lai để đảm bảo sự cân bằng trong các mối quan hệ.",
+        "Người vĩ đại coi việc giúp đỡ người khác là phương tiện để đạt tới sự vượt trội của chính mình và cả tập thể."
       ],
-      "correctIndex": 2,
-      "explanation": "Lãnh đạo vĩ đại hiểu rằng sự vượt trội của họ gắn liền với sự trưởng thành của những người xung quanh (đội ngũ)."
+      "correctIndex": 3,
+      "explanation": "Lãnh đạo vĩ đại hiểu rằng sự vượt trội của họ gắn liền với sự trưởng thành của những người xung quanh."
     },
     {
       "id": "q5",
       "question": "Cách hiểu đúng nhất về 'lãnh đạo như một người đầy tớ' (servant leader) trong bối cảnh chương này là gì?",
       "options": [
-        "Lãnh đạo là người làm thuê cho nhân viên",
-        "Lãnh đạo tập trung vào việc dỡ bỏ rào cản để người khác phát huy tối đa tiềm năng",
-        "Lãnh đạo là người từ bỏ quyền lực để giữ hòa khí",
-        "Lãnh đạo là người chỉ làm những việc mà nhân viên không muốn làm"
+        "Lãnh đạo tập trung vào việc dỡ bỏ rào cản để người khác phát huy tối đa tiềm năng và đạt tới sự vượt trội.",
+        "Lãnh đạo là người làm thuê cho nhân viên và phải tuân thủ mọi yêu cầu mà nhân viên đưa ra trong công việc hàng ngày.",
+        "Lãnh đạo là người từ bỏ quyền lực và vị thế của mình để giữ hòa khí trong đội ngũ và tránh các xung đột không cần.",
+        "Lãnh đạo là người chỉ làm những công việc tay chân mà nhân viên không muốn làm để thể hiện sự khiêm tốn của mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Người đầy tớ trong lãnh đạo là người kiến tạo môi trường để người khác đạt được sự vượt trội, từ đó hệ thống đạt được mục tiêu chung."
+      "correctIndex": 0,
+      "explanation": "Người đầy tớ trong lãnh đạo là người kiến tạo môi trường để người khác đạt được sự vượt trội, từ đó hệ thống thành công."
     },
     {
       "id": "q6",
       "question": "Khi tác giả nói 'Bạn đã giúp ai hôm nay chưa, hay chỉ giúp bản thân?', tác giả đang phê phán điều gì?",
       "options": [
-        "Sự vô cảm của con người trong xã hội hiện đại",
-        "Tư duy vị kỷ ngắn hạn làm suy yếu khả năng ảnh hưởng của cá nhân",
-        "Việc làm từ thiện để đánh bóng tên tuổi",
-        "Việc chúng ta không biết cách giúp đỡ chính mình trước khi giúp người khác"
+        "Sự vô cảm của con người trong xã hội hiện đại khi họ quá bận rộn với những mục tiêu cá nhân mà quên đi người khác.",
+        "Tư duy vị kỷ ngắn hạn làm suy yếu khả năng kết nối và ảnh hưởng tích cực của cá nhân đối với cộng đồng xung quanh.",
+        "Việc làm từ thiện chỉ để đánh bóng tên tuổi thay vì xuất phát từ tấm lòng chân thành muốn giúp đỡ người khác thật.",
+        "Việc chúng ta không biết cách giúp đỡ chính mình trước khi có đủ năng lực để giúp đỡ những người xung quanh mình."
       ],
       "correctIndex": 1,
-      "explanation": "Sự ích kỷ hẹp hòi chỉ mang lại lợi ích trong ngắn hạn, trong khi tư duy cho đi tạo ra sự kết nối và giá trị bền vững lâu dài."
+      "explanation": "Sự ích kỷ hẹp hòi chỉ mang lại lợi ích ngắn hạn, trong khi tư duy cho đi tạo ra sự kết nối và giá trị bền vững."
     },
     {
       "id": "q7",
       "question": "Sự đánh đổi nào là cần thiết để duy trì tư duy cho đi lâu dài?",
       "options": [
-        "Đánh đổi thời gian cá nhân để nhận lại sự tôn trọng vô điều kiện",
-        "Đánh đổi nhu cầu được công nhận tức thì để xây dựng uy tín lâu dài",
-        "Đánh đổi các mối quan hệ chất lượng để có thêm thời gian cho đi",
-        "Đánh đổi đạo đức cá nhân để hòa nhập với nhóm"
+        "Đánh đổi thời gian cá nhân quý báu để nhận lại sự tôn trọng vô điều kiện từ những người mà mình đã từng giúp đỡ.",
+        "Đánh đổi các mối quan hệ chất lượng hiện có để có thêm thời gian cho đi và mở rộng mạng lưới quan hệ mới hơn.",
+        "Đánh đổi nhu cầu được công nhận tức thì để xây dựng uy tín và sự tin tưởng bền vững trong các mối quan hệ.",
+        "Đánh đổi các nguyên tắc đạo đức cá nhân để hòa nhập với nhóm và tạo ra sự đồng thuận trong công việc hàng ngày."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Việc cho đi thường đòi hỏi sự kiên nhẫn và từ bỏ tâm lý đòi hỏi sự đền đáp ngay lập tức."
     },
     {
       "id": "q8",
       "question": "Làm thế nào để 'cử chỉ nhỏ bé' trở nên có tác động to lớn?",
       "options": [
-        "Bằng cách thực hiện chúng với sự chân thành và nhất quán",
-        "Bằng cách thực hiện chúng với những người có tầm ảnh hưởng lớn",
-        "Bằng cách ghi chép lại các việc làm tốt để truyền thông",
-        "Bằng cách tăng dần chi phí và công sức cho mỗi lần cho đi"
+        "Bằng cách thực hiện chúng với những người có tầm ảnh hưởng lớn để đảm bảo thông điệp được lan tỏa nhanh chóng hơn.",
+        "Bằng cách ghi chép lại các việc làm tốt để truyền thông rộng rãi nhằm tạo ra hiệu ứng tích cực cho cộng đồng lớn.",
+        "Bằng cách tăng dần chi phí và công sức cho mỗi lần cho đi để đảm bảo giá trị của hành động được nâng cao hơn.",
+        "Bằng cách thực hiện chúng với sự chân thành và nhất quán trong suốt một khoảng thời gian dài đối với mọi người."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự nhất quán (consistency) là chìa khóa khiến các cử chỉ nhỏ tạo thành hiệu ứng lan tỏa, thay vì những hành động bộc phát thiếu chân thành."
+      "correctIndex": 3,
+      "explanation": "Sự nhất quán là chìa khóa khiến các cử chỉ nhỏ tạo thành hiệu ứng lan tỏa, thay vì những hành động bộc phát."
     },
     {
       "id": "q9",
       "question": "Phương án nào dưới đây thể hiện tư duy 'cho đi để nhận lấy' trong bối cảnh phát triển kỹ năng?",
       "options": [
-        "Giữ bí quyết nghề nghiệp cho riêng mình để đảm bảo vị thế",
-        "Chia sẻ kiến thức và kinh nghiệm cho đồng nghiệp trẻ để cùng tiến bộ",
-        "Chỉ học hỏi từ những người giỏi hơn mình để không tốn thời gian",
-        "Đợi đến khi có kỹ năng hoàn hảo mới bắt đầu hỗ trợ người khác"
+        "Chia sẻ kiến thức và kinh nghiệm cho đồng nghiệp trẻ để cùng tiến bộ và nâng cao năng lực cho cả tập thể.",
+        "Giữ bí quyết nghề nghiệp cho riêng mình để đảm bảo vị thế độc tôn và sự an toàn trong công việc hiện tại của bạn.",
+        "Chỉ học hỏi từ những người giỏi hơn mình để không tốn thời gian vào việc hướng dẫn những người kém hơn mình.",
+        "Đợi đến khi có kỹ năng hoàn hảo mới bắt đầu hỗ trợ người khác để đảm bảo chất lượng công việc được tốt nhất."
       ],
-      "correctIndex": 1,
-      "explanation": "Việc chia sẻ tri thức không làm giảm đi năng lực cá nhân, ngược lại, nó tạo ra môi trường học hỏi chung và nâng cao vị thế của người dẫn dắt."
+      "correctIndex": 0,
+      "explanation": "Việc chia sẻ tri thức không làm giảm đi năng lực cá nhân, ngược lại, nó tạo ra môi trường học hỏi chung."
     },
     {
       "id": "q10",
       "question": "Vì sao tác giả cho rằng các ý tưởng chân thật nhất thường rất đơn giản?",
       "options": [
-        "Vì sự phức tạp luôn đi đôi với sai lầm",
-        "Vì con người ngại tư duy phức tạp nên cần điều đơn giản",
-        "Vì bản chất của sự phát triển con người nằm ở những thói quen căn bản, không phải các kỹ thuật cầu kỳ",
-        "Vì sự đơn giản dễ dàng được truyền bá hơn"
+        "Vì sự phức tạp luôn đi đôi với sai lầm và con người cần những điều đơn giản để tránh các rủi ro không đáng có.",
+        "Vì bản chất của sự phát triển con người nằm ở những thói quen căn bản, không phải các kỹ thuật cầu kỳ phức tạp.",
+        "Vì con người thường ngại tư duy phức tạp nên cần những điều đơn giản để dễ dàng tiếp thu và thực hiện theo.",
+        "Vì sự đơn giản dễ dàng được truyền bá hơn trong cộng đồng và giúp mọi người cùng nhau thực hiện một cách nhanh."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự vĩ đại thường bắt nguồn từ những nguyên tắc căn bản (như tử tế, cho đi, trân trọng) nhưng ít người kiên trì thực hiện chúng đến cùng."
+      "correctIndex": 1,
+      "explanation": "Sự vĩ đại thường bắt nguồn từ những nguyên tắc căn bản nhưng ít người kiên trì thực hiện chúng đến cùng."
     },
     {
       "id": "q11",
-      "question": "Trong nghệ thuật lãnh đạo, việc 'làm cho người khác cảm thấy hài lòng về bản thân' nên được hiểu như thế nào là đúng nhất?",
+      "question": "Trong nghệ thuật lãnh đạo, việc 'làm cho người khác cảm thấy hài lòng về bản thân' nên được hiểu như thế nào?",
       "options": [
-        "Khen ngợi suông để họ vui lòng",
-        "Ghi nhận tiềm năng và khích lệ họ vượt qua giới hạn của chính mình",
-        "Tránh đưa ra phản hồi tiêu cực để không làm tổn thương họ",
-        "Luôn làm thay việc để họ không gặp áp lực"
+        "Khen ngợi suông để họ cảm thấy vui lòng và duy trì sự hòa thuận trong môi trường làm việc nhóm hàng ngày.",
+        "Tránh đưa ra phản hồi tiêu cực để không làm tổn thương lòng tự trọng của họ trong quá trình làm việc chung.",
+        "Ghi nhận tiềm năng và khích lệ họ vượt qua giới hạn của chính mình để đạt tới những thành tựu cao hơn nữa.",
+        "Luôn làm thay việc để họ không gặp áp lực và cảm thấy thoải mái hơn khi thực hiện các nhiệm vụ được giao."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự tử tế thực sự là sự khích lệ đi kèm với tiêu chuẩn cao, giúp người khác tin vào khả năng của họ để đạt tới sự vượt trội."
+      "correctIndex": 2,
+      "explanation": "Sự tử tế thực sự là sự khích lệ đi kèm với tiêu chuẩn cao, giúp người khác tin vào khả năng của họ."
     },
     {
       "id": "q12",
       "question": "Khi đối mặt với một người không bao giờ 'cho đi', lãnh đạo nên phản ứng thế nào để giữ vững tư duy tích cực?",
       "options": [
-        "Cô lập người đó để không bị lây nhiễm tiêu cực",
-        "Tranh đấu để thay đổi tư duy của họ",
-        "Tiếp tục thực hiện giá trị của mình mà không để hành vi của họ chi phối",
-        "Đáp trả bằng sự thờ ơ tương xứng"
+        "Cô lập người đó để không bị lây nhiễm sự tiêu cực và bảo vệ môi trường làm việc tích cực cho những người khác.",
+        "Tranh đấu để thay đổi tư duy của họ bằng cách chỉ ra những sai lầm trong cách sống ích kỷ của họ hiện tại.",
+        "Đáp trả bằng sự thờ ơ tương xứng để họ hiểu rằng sự cho đi là cần thiết trong các mối quan hệ xã hội này.",
+        "Tiếp tục thực hiện giá trị của mình mà không để hành vi của họ chi phối hay làm thay đổi hệ giá trị cá nhân."
       ],
-      "correctIndex": 2,
-      "explanation": "Người lãnh đạo cần giữ vững hệ giá trị nội tại, không bị kéo xuống bởi sự tiêu cực của người khác, đồng thời là hình mẫu để người khác tự soi chiếu."
+      "correctIndex": 3,
+      "explanation": "Người lãnh đạo cần giữ vững hệ giá trị nội tại, không bị kéo xuống bởi sự tiêu cực của người khác."
     },
     {
       "id": "q13",
       "question": "Điều gì là rào cản lớn nhất ngăn cản con người thực hiện triết lý 'cho đi'?",
       "options": [
-        "Thiếu thời gian và năng lượng",
-        "Sự sợ hãi rằng cho đi sẽ khiến mình trở nên yếu thế",
-        "Thiếu kiến thức về cách cho đi hiệu quả",
-        "Sự không tin tưởng vào người khác"
+        "Sự sợ hãi rằng việc cho đi sẽ khiến mình trở nên yếu thế và mất đi lợi thế cạnh tranh trong môi trường sống.",
+        "Thiếu thời gian và năng lượng để thực hiện các hành động giúp đỡ người khác trong cuộc sống bận rộn hiện nay.",
+        "Thiếu kiến thức về cách cho đi hiệu quả để đảm bảo rằng hành động của mình thực sự mang lại giá trị thực tế.",
+        "Sự không tin tưởng vào người khác khiến chúng ta ngần ngại khi muốn đóng góp nguồn lực cho cộng đồng xung quanh."
       ],
-      "correctIndex": 1,
-      "explanation": "Tâm lý sợ bị thiệt thòi, bị mất mát nguồn lực là bẫy tư duy khiến con người khép mình và từ chối việc đóng góp cho cộng đồng."
+      "correctIndex": 0,
+      "explanation": "Tâm lý sợ bị thiệt thòi, bị mất mát nguồn lực là bẫy tư duy khiến con người khép mình và từ chối đóng góp."
     },
     {
       "id": "q14",
       "question": "Sự khác biệt giữa 'cho đi để nhận lại' (triết lý tác giả) và 'đầu tư để sinh lời' (kinh doanh) là gì?",
       "options": [
-        "Không có sự khác biệt về bản chất",
-        "Đầu tư là vì lợi nhuận tài chính, cho đi là sự phát triển tâm thế và giá trị con người",
-        "Cho đi không mong cầu sự đền đáp từ chính người được giúp",
-        "Đầu tư là ngắn hạn, cho đi là dài hạn"
+        "Không có sự khác biệt về bản chất vì cả hai đều hướng tới việc tạo ra kết quả tốt nhất cho cá nhân người đó.",
+        "Đầu tư là vì lợi nhuận tài chính, cho đi là sự phát triển tâm thế và giá trị con người trong dài hạn hơn.",
+        "Cho đi không mong cầu sự đền đáp từ chính người được giúp mà chỉ mong nhận lại giá trị từ những người khác.",
+        "Đầu tư là ngắn hạn để thu hồi vốn nhanh, còn cho đi là dài hạn để xây dựng uy tín cá nhân trong xã hội này."
       ],
       "correctIndex": 1,
-      "explanation": "Triết lý của tác giả hướng tới sự phát triển toàn diện (phẩm chất, uy tín, ảnh hưởng), không đơn thuần là một phép tính toán tài chính."
+      "explanation": "Triết lý của tác giả hướng tới sự phát triển toàn diện, không đơn thuần là một phép tính toán tài chính."
     },
     {
       "id": "q15",
       "question": "Tại sao việc 'trân trọng' lại là một phần của việc 'nhận lấy'?",
       "options": [
-        "Vì khi bạn trân trọng người khác, họ sẽ có xu hướng trân trọng lại bạn và tạo ra bầu không khí tích cực",
-        "Vì sự trân trọng giúp bạn che giấu những điểm yếu của mình",
-        "Vì trân trọng là cách duy nhất để kiểm soát cảm xúc của cấp dưới",
-        "Vì trân trọng giúp bạn tạo ấn tượng tốt với lãnh đạo cấp cao"
+        "Vì sự trân trọng giúp bạn che giấu những điểm yếu của mình trước mặt người khác để duy trì hình ảnh hoàn hảo.",
+        "Vì trân trọng là cách duy nhất để kiểm soát cảm xúc của cấp dưới và đảm bảo họ luôn làm việc theo ý của bạn.",
+        "Vì khi bạn trân trọng người khác, họ sẽ có xu hướng trân trọng lại bạn và tạo ra bầu không khí tích cực chung.",
+        "Vì trân trọng giúp bạn tạo ấn tượng tốt với lãnh đạo cấp cao để có cơ hội thăng tiến nhanh hơn trong sự nghiệp."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự tử tế và trân trọng có tính lan tỏa; khi bạn tạo ra môi trường tích cực, sự hồi đáp tự nhiên sẽ củng cố sự phát triển của cả cá nhân bạn và tập thể."
+      "correctIndex": 2,
+      "explanation": "Sự tử tế và trân trọng có tính lan tỏa; khi bạn tạo ra môi trường tích cực, sự hồi đáp tự nhiên sẽ củng cố sự phát triển."
     }
   ]
 }

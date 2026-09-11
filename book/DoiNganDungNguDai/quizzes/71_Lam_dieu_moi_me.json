@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Theo tác giả, tại sao con người có xu hướng né tránh những điều mới mẻ?",
+      "question": "Theo tác giả, tại sao con người có xu hướng né tránh những điều mới mẻ trong cuộc sống hàng ngày?",
       "options": [
-        "Do sự thiếu hụt kiến thức và trải nghiệm thực tế",
-        "Do cơ chế sinh học cổ xưa ưu tiên sự an toàn và kiểm soát",
-        "Do nỗi sợ bị xã hội phán xét khi thay đổi thói quen",
-        "Do sự lười biếng về mặt tinh thần trong cuộc sống hiện đại"
+        "Do cơ chế sinh học cổ xưa từ thời hang đá luôn ưu tiên sự chắc chắn để bảo vệ con người khỏi các mối nguy hại.",
+        "Do sự thiếu hụt về kiến thức và trải nghiệm thực tế khiến con người cảm thấy lo âu khi đối diện với cái mới.",
+        "Do nỗi sợ bị xã hội phán xét khi thay đổi thói quen khiến cá nhân mất đi sự tự tin vào năng lực bản thân.",
+        "Do sự lười biếng về mặt tinh thần trong cuộc sống hiện đại khiến con người ngại thay đổi để duy trì ổn định."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả nhấn mạnh đó là cơ chế sống còn từ thời hang đá. Các đáp án khác chỉ là hệ quả hoặc lý do phụ, không phải bản chất cốt lõi của 'cơ chế sống còn' được nhắc đến."
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh việc né tránh cái mới là cơ chế sống còn từ thời hang đá, nơi sự chắc chắn đồng nghĩa với sự an toàn."
     },
     {
       "id": "q2",
-      "question": "Trong bối cảnh lãnh đạo, việc 'chạy đến thay vì chạy trốn' sự bấp bênh mang ý nghĩa gì?",
+      "question": "Trong bối cảnh lãnh đạo, việc 'chạy đến thay vì chạy trốn' sự bấp bênh mang ý nghĩa cốt lõi nào?",
       "options": [
-        "Lãnh đạo phải luôn là người tiên phong chịu rủi ro tài chính cao nhất",
-        "Lãnh đạo cần sự chủ động đương đầu với biến động thay vì bị động chịu đựng",
-        "Lãnh đạo cần ép buộc cấp dưới phải thay đổi theo ý muốn của mình",
-        "Lãnh đạo nên tạo ra sự bất ổn để thử thách lòng trung thành của nhân viên"
+        "Lãnh đạo phải luôn là người tiên phong chịu rủi ro tài chính cao nhất để bảo vệ lợi ích cho toàn bộ tổ chức.",
+        "Lãnh đạo cần sự chủ động đương đầu với biến động thay vì bị động chịu đựng để tìm kiếm cơ hội trong khó khăn.",
+        "Lãnh đạo cần ép buộc cấp dưới phải thay đổi theo ý muốn của mình để duy trì sự kiểm soát trong mọi tình huống.",
+        "Lãnh đạo nên tạo ra sự bất ổn để thử thách lòng trung thành của nhân viên trong môi trường làm việc khắc nghiệt."
       ],
       "correctIndex": 1,
-      "explanation": "Lãnh đạo không chức danh là khả năng kiểm soát tâm thế trong biến động. 'Chạy đến' biểu thị tâm thế chủ động, đối diện trực diện thay vì né tránh."
+      "explanation": "Lãnh đạo là khả năng kiểm soát tâm thế trong biến động, 'chạy đến' biểu thị sự chủ động đối diện thay vì né tránh."
     },
     {
       "id": "q3",
       "question": "Thông điệp chính của tác giả về 'vùng an toàn' trong công việc là gì?",
       "options": [
-        "Vùng an toàn là cần thiết để bảo vệ sự ổn định của tổ chức",
-        "Sự lặp lại công việc mỗi ngày là dấu hiệu của sự kỷ luật cao",
-        "Sự lặp lại không thay đổi sẽ dẫn đến sự trì trệ và tự giới hạn tiềm năng",
-        "Chỉ những người thiếu năng lực mới cần tìm kiếm vùng an toàn"
+        "Vùng an toàn là nền tảng cần thiết để bảo vệ sự ổn định của tổ chức trước những biến động khó lường của thị trường.",
+        "Sự lặp lại công việc mỗi ngày là dấu hiệu của sự kỷ luật cao giúp cá nhân đạt được hiệu suất làm việc tối ưu.",
+        "Sự lặp lại công việc mỗi ngày mà không thay đổi sẽ dẫn đến sự trì trệ và tự giới hạn tiềm năng của bản thân.",
+        "Chỉ những người thiếu năng lực mới cần tìm kiếm vùng an toàn để che giấu đi những khiếm khuyết trong chuyên môn."
       ],
       "correctIndex": 2,
-      "explanation": "Tác giả ngụ ý việc sống mòn trong thói quen cũ là cái bẫy của sự tầm thường, ngăn cản sự phát triển cần thiết để đạt đến sự hoàn thiện."
+      "explanation": "Tác giả ngụ ý việc sống mòn trong thói quen cũ là cái bẫy của sự tầm thường, ngăn cản sự phát triển cá nhân."
     },
     {
       "id": "q4",
-      "question": "Vì sao việc thử những điều nhỏ nhặt (như nhạc, món ăn) lại có giá trị lớn đối với khả năng lãnh đạo?",
+      "question": "Vì sao việc thử những điều nhỏ nhặt như nhạc hay món ăn lại có giá trị lớn đối với khả năng lãnh đạo?",
       "options": [
-        "Giúp mở rộng thế giới quan và rèn luyện sự linh hoạt cho tư duy",
-        "Giúp tiết kiệm thời gian bằng cách đưa ra quyết định nhanh",
-        "Đó là cách để giải trí và giảm áp lực công việc hàng ngày",
-        "Tạo lợi thế trong giao tiếp với khách hàng hoặc đối tác"
+        "Giúp tiết kiệm thời gian bằng cách đưa ra quyết định nhanh chóng trong các tình huống cần sự lựa chọn đơn giản.",
+        "Đó là cách để giải trí và giảm áp lực công việc hàng ngày nhằm duy trì sức khỏe tinh thần cho người lãnh đạo.",
+        "Tạo lợi thế trong giao tiếp với khách hàng hoặc đối tác thông qua việc hiểu biết về nhiều lĩnh vực khác nhau.",
+        "Giúp mở rộng thế giới quan và rèn luyện sự linh hoạt cho tư duy để phá vỡ sự cứng nhắc trong các quyết định."
       ],
-      "correctIndex": 0,
-      "explanation": "Việc đổi mới trong những chi tiết nhỏ là sự luyện tập cho cơ bắp thần kinh, giúp phá vỡ sự cứng nhắc trong tư duy, là tiền đề cho tư duy sáng tạo trong lãnh đạo."
+      "correctIndex": 3,
+      "explanation": "Việc đổi mới trong chi tiết nhỏ là sự luyện tập cho tư duy, giúp phá vỡ sự cứng nhắc, tiền đề cho sáng tạo."
     },
     {
       "id": "q5",
       "question": "Nếu một người luôn từ chối những thay đổi nhỏ, hệ lụy lâu dài nhất đối với họ là gì?",
       "options": [
-        "Họ sẽ trở nên bảo thủ và đánh mất sự kết nối với thế giới xung quanh",
-        "Họ sẽ bị cấp trên sa thải vì thiếu sáng tạo",
-        "Họ sẽ mất đi sự chắc chắn và cảm giác kiểm soát mà họ mong muốn",
-        "Họ sẽ rơi vào trạng thái khủng hoảng tâm lý nghiêm trọng"
+        "Họ sẽ trở nên bảo thủ và đánh mất sự kết nối với thế giới xung quanh do tư duy bị giới hạn trong lối mòn.",
+        "Họ sẽ bị cấp trên sa thải vì thiếu sự sáng tạo cần thiết để giải quyết các vấn đề phức tạp trong công việc.",
+        "Họ sẽ mất đi sự chắc chắn và cảm giác kiểm soát mà họ mong muốn để duy trì sự ổn định trong cuộc sống cá nhân.",
+        "Họ sẽ rơi vào trạng thái khủng hoảng tâm lý nghiêm trọng do không thể thích nghi với những thay đổi của xã hội."
       ],
       "correctIndex": 0,
-      "explanation": "Sự từ chối làm điều mới mẻ không chỉ là hành vi, mà là sự thu hẹp thế giới quan, khiến cá nhân trở nên cô lập và mất khả năng thích nghi."
+      "explanation": "Sự từ chối làm điều mới mẻ dẫn đến thu hẹp thế giới quan, khiến cá nhân trở nên cô lập và mất khả năng thích nghi."
     },
     {
       "id": "q6",
       "question": "Sự đối lập giữa 'chắc chắn' và 'bấp bênh' trong chương này được tác giả diễn giải như thế nào?",
       "options": [
-        "Chắc chắn là đích đến, bấp bênh là trở ngại",
-        "Bấp bênh là cơ hội để bộc lộ khả năng lãnh đạo thật sự",
-        "Chắc chắn là tư duy của lãnh đạo, bấp bênh là tư duy của nhân viên",
-        "Chấp nhận bấp bênh là cách duy nhất để loại bỏ hoàn toàn rủi ro"
+        "Chắc chắn là đích đến cuối cùng của mọi nhà lãnh đạo, còn bấp bênh là trở ngại lớn nhất cần phải vượt qua sớm.",
+        "Bấp bênh là môi trường để bộc lộ khả năng lãnh đạo thật sự thay vì coi đó là trở ngại cần phải loại bỏ ngay.",
+        "Chắc chắn là tư duy của người lãnh đạo, còn bấp bênh là tư duy của nhân viên cấp dưới trong mọi tổ chức lớn.",
+        "Chấp nhận bấp bênh là cách duy nhất để loại bỏ hoàn toàn rủi ro trong quá trình phát triển sự nghiệp cá nhân."
       ],
       "correctIndex": 1,
-      "explanation": "Lãnh đạo được định nghĩa qua khả năng thành công ngay cả trong lúc bấp bênh. Tác giả coi bấp bênh là môi trường để tôi luyện, không phải cái gì cần tiêu diệt."
+      "explanation": "Lãnh đạo được định nghĩa qua khả năng thành công trong bấp bênh. Tác giả coi bấp bênh là môi trường tôi luyện."
     },
     {
       "id": "q7",
       "question": "Thái độ đúng đắn nhất đối với 'sự sợ hãi' những điều mới mẻ theo tinh thần của chương này là gì?",
       "options": [
-        "Khắc phục hoàn toàn sự sợ hãi trước khi bắt đầu thử điều mới",
-        "Chấp nhận nó như một phần của sự tồn tại và hành động bất chấp nó",
-        "Sử dụng nó làm động lực để thúc đẩy người khác thay đổi trước",
-        "Phớt lờ hoàn toàn nỗi sợ vì nó chỉ là ảo tưởng"
+        "Khắc phục hoàn toàn sự sợ hãi trước khi bắt đầu thử điều mới để đảm bảo sự thành công tuyệt đối cho dự án.",
+        "Sử dụng nó làm động lực để thúc đẩy người khác thay đổi trước nhằm giảm bớt áp lực cho chính bản thân mình.",
+        "Chấp nhận nó như một phần của sự tồn tại và hành động bất chấp nó để vượt qua giới hạn của bản thân mình.",
+        "Phớt lờ hoàn toàn nỗi sợ vì nó chỉ là ảo tưởng do bộ não tạo ra để ngăn cản sự phát triển của con người."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả thừa nhận con người khao khát kiểm soát, do đó sự sợ hãi là tự nhiên. Lãnh đạo không phải là không sợ, mà là hành động dù vẫn cảm thấy sợ."
+      "correctIndex": 2,
+      "explanation": "Tác giả thừa nhận sự sợ hãi là tự nhiên. Lãnh đạo không phải là không sợ, mà là hành động dù vẫn cảm thấy sợ."
     },
     {
       "id": "q8",
-      "question": "Việc mở rộng cộng đồng (gặp gỡ người mới) mang lại giá trị thực tiễn nào?",
+      "question": "Việc mở rộng cộng đồng và gặp gỡ người mới mang lại giá trị thực tiễn nào cho cá nhân?",
       "options": [
-        "Tăng số lượng người có thể hỗ trợ tài chính",
-        "Phá vỡ lối mòn trong tư duy và giao tiếp",
-        "Chứng minh năng lực kết nối của bản thân với cộng đồng",
-        "Tránh việc bị cô lập trong công ty"
+        "Tăng số lượng người có thể hỗ trợ tài chính khi gặp khó khăn trong các dự án kinh doanh cá nhân quan trọng.",
+        "Chứng minh năng lực kết nối của bản thân với cộng đồng để nâng cao vị thế trong mắt đồng nghiệp và đối tác.",
+        "Tránh việc bị cô lập trong công ty giúp tạo ra môi trường làm việc thuận lợi cho sự thăng tiến trong tương lai.",
+        "Phá vỡ lối mòn trong tư duy và giao tiếp để mở ra những góc nhìn mới mẻ hơn về cuộc sống và công việc."
       ],
-      "correctIndex": 1,
-      "explanation": "Tiếp xúc với những người mới giúp chúng ta thoát khỏi 'cùng một chuyện nói mỗi ngày', mở ra góc nhìn mới, tránh được sự tù túng của các mối quan hệ cũ."
+      "correctIndex": 3,
+      "explanation": "Tiếp xúc với người mới giúp thoát khỏi lối mòn, mở ra góc nhìn mới, tránh sự tù túng của các mối quan hệ cũ."
     },
     {
       "id": "q9",
-      "question": "Theo logic của tác giả, nếu một người không bao giờ bước ra khỏi vùng an toàn, họ sẽ mất đi điều gì quan trọng nhất?",
+      "question": "Theo logic của tác giả, nếu một người không bao giờ bước ra khỏi vùng an toàn, họ sẽ mất đi điều gì?",
       "options": [
-        "Sự an toàn mà họ đang cố gắng bảo vệ",
-        "Cơ hội khám phá tiềm năng và sự tự tin thực sự",
-        "Sự tôn trọng từ đồng nghiệp và cấp trên",
-        "Sức khỏe thể chất do ít vận động"
+        "Cơ hội khám phá tiềm năng và sự tự tin thực sự vốn chỉ xuất hiện khi đối diện với những thử thách mới.",
+        "Sự an toàn mà họ đang cố gắng bảo vệ bằng cách duy trì những thói quen cũ kỹ trong suốt quãng thời gian dài.",
+        "Sự tôn trọng từ đồng nghiệp và cấp trên do không thể hiện được sự đột phá trong các nhiệm vụ được giao phó.",
+        "Sức khỏe thể chất do ít vận động và thiếu sự thay đổi trong lối sống hàng ngày của một người bình thường."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự tự tin bắt nguồn từ việc vượt qua các thử thách mới. Không làm điều mới, ta không bao giờ khám phá được sức mạnh tiềm ẩn của chính mình."
+      "correctIndex": 0,
+      "explanation": "Sự tự tin bắt nguồn từ việc vượt qua thử thách. Không làm điều mới, ta không bao giờ khám phá được sức mạnh tiềm ẩn."
     },
     {
       "id": "q10",
-      "question": "Tại sao việc 'đọc báo trái ngành' lại được tác giả gợi ý?",
+      "question": "Tại sao việc đọc báo trái ngành lại được tác giả gợi ý như một phương pháp rèn luyện tư duy?",
       "options": [
-        "Để chuẩn bị kiến thức cho việc đổi nghề",
-        "Để kích thích tư duy bằng những thông tin không nằm trong thói quen thường ngày",
-        "Để thể hiện mình là người có học thức cao",
-        "Để dễ dàng giao tiếp với nhiều tầng lớp xã hội hơn"
+        "Để chuẩn bị kiến thức cho việc đổi nghề trong tương lai khi thị trường lao động có những biến động bất ngờ.",
+        "Để kích thích tư duy bằng những thông tin không nằm trong thói quen thường ngày nhằm tạo ra sự đột phá mới.",
+        "Để thể hiện mình là người có học thức cao trong các buổi giao tiếp xã hội với những đối tác quan trọng.",
+        "Để dễ dàng giao tiếp với nhiều tầng lớp xã hội hơn nhằm mở rộng mạng lưới quan hệ cá nhân trong công việc."
       ],
       "correctIndex": 1,
-      "explanation": "Đọc thứ lạ là cách đơn giản để thoát khỏi 'lối mòn tư duy', giúp bộ não tiếp nhận các luồng thông tin mới, vốn là tiền đề cho sáng tạo."
+      "explanation": "Đọc thứ lạ là cách đơn giản để thoát khỏi lối mòn tư duy, giúp bộ não tiếp nhận luồng thông tin mới cho sáng tạo."
     },
     {
       "id": "q11",
-      "question": "Điều gì ngăn cản một cá nhân thực hiện những điều mới mẻ trong cuộc sống hàng ngày?",
+      "question": "Điều gì ngăn cản một cá nhân thực hiện những điều mới mẻ trong cuộc sống hàng ngày theo tác giả?",
       "options": [
-        "Sự thiếu hụt nguồn lực thời gian và tài chính",
-        "Cơ chế bảo vệ sự an tâm và xu hướng lặp lại của bộ não",
-        "Áp lực từ công việc và gia đình không cho phép thay đổi",
-        "Sự thiếu hụt các ý tưởng đột phá để thực hiện"
+        "Sự thiếu hụt nguồn lực thời gian và tài chính khiến cá nhân không thể thực hiện các thay đổi lớn trong cuộc.",
+        "Áp lực từ công việc và gia đình không cho phép thay đổi thói quen để đảm bảo sự cân bằng trong cuộc sống.",
+        "Cơ chế bảo vệ sự an tâm và xu hướng lặp lại của bộ não khiến con người ngại thay đổi để duy trì sự ổn định.",
+        "Sự thiếu hụt các ý tưởng đột phá để thực hiện khiến con người cảm thấy bế tắc trong việc tìm kiếm cái mới."
       ],
-      "correctIndex": 1,
-      "explanation": "Cơ chế sống còn tạo ra sự an tâm qua sự chắc chắn. Đây chính là 'rào cản tâm lý' nằm sâu trong tiềm thức khiến con người ngại thay đổi."
+      "correctIndex": 2,
+      "explanation": "Cơ chế sống còn tạo ra sự an tâm qua sự chắc chắn. Đây chính là rào cản tâm lý khiến con người ngại thay đổi."
     },
     {
       "id": "q12",
-      "question": "Tác giả ví mỗi ngày như một 'sân ga'. Cách ví von này ám chỉ điều gì?",
+      "question": "Tác giả ví mỗi ngày như một 'sân ga'. Cách ví von này ám chỉ điều gì trong cuộc sống?",
       "options": [
-        "Ngày nào cũng là sự chờ đợi một điều gì đó xảy đến",
-        "Ngày nào cũng là điểm khởi đầu cho một hành trình khám phá mới",
-        "Ngày nào cũng là nơi dừng chân để nghỉ ngơi sau những vất vả",
-        "Ngày nào cũng cần sự chuẩn bị kỹ lưỡng để di chuyển tới nơi khác"
+        "Ngày nào cũng là sự chờ đợi một điều gì đó xảy đến một cách thụ động mà không cần phải nỗ lực thay đổi gì.",
+        "Ngày nào cũng là nơi dừng chân để nghỉ ngơi sau những vất vả của công việc và cuộc sống hàng ngày của bạn.",
+        "Ngày nào cũng cần sự chuẩn bị kỹ lưỡng để di chuyển tới nơi khác nhằm đạt được mục tiêu đã đề ra từ trước.",
+        "Ngày nào cũng là điểm khởi đầu cho một hành trình khám phá mới đầy đam mê và năng lượng cho mỗi cá nhân."
       ],
-      "correctIndex": 1,
-      "explanation": "Sân ga là nơi khởi đầu của những chuyến đi. Tác giả muốn chúng ta chủ động biến mỗi ngày thành điểm xuất phát của những trải nghiệm, thay vì chỉ sống cho qua ngày."
+      "correctIndex": 3,
+      "explanation": "Sân ga là nơi khởi đầu của những chuyến đi. Tác giả muốn chúng ta chủ động biến mỗi ngày thành điểm xuất phát."
     },
     {
       "id": "q13",
-      "question": "Sự khác biệt giữa người thành công (theo tinh thần lãnh đạo) và người bình thường nằm ở đâu?",
+      "question": "Sự khác biệt giữa người thành công và người bình thường nằm ở đâu theo tinh thần của chương này?",
       "options": [
-        "Người thành công không bao giờ gặp khó khăn",
-        "Người bình thường thích sự chắc chắn, người thành công tìm kiếm sự mới mẻ",
-        "Người bình thường không có thời gian, người thành công luôn có thời gian",
-        "Người thành công giỏi hơn trong việc né tránh những điều sợ hãi"
+        "Người bình thường chọn sự ổn định, người thành công tìm kiếm sự mới mẻ ngay cả khi đối mặt với sự bất an.",
+        "Người thành công không bao giờ gặp khó khăn trong cuộc sống, còn người bình thường luôn đối mặt với rủi ro.",
+        "Người bình thường không có thời gian, người thành công luôn có thời gian để thực hiện những điều họ muốn.",
+        "Người thành công giỏi hơn trong việc né tránh những điều sợ hãi để bảo vệ sự an toàn cho bản thân và tổ chức."
       ],
-      "correctIndex": 1,
-      "explanation": "Người bình thường chọn sự ổn định (an toàn), người vĩ đại/lãnh đạo chọn sự tiến hóa (thử điều mới), ngay cả khi điều đó đi kèm với sự bất an."
+      "correctIndex": 0,
+      "explanation": "Người bình thường chọn ổn định, người vĩ đại chọn sự tiến hóa, ngay cả khi điều đó đi kèm với sự bất an."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc ăn món ăn mới lại được đưa ra làm ví dụ?",
+      "question": "Tại sao việc ăn món ăn mới lại được tác giả đưa ra làm ví dụ minh họa trong chương này?",
       "options": [
-        "Đó là cách đơn giản để thay đổi sức khỏe thể chất",
-        "Nó là ví dụ điển hình về việc vượt qua sự lặp lại để tìm kiếm giá trị tốt hơn",
-        "Nó giúp tiết kiệm ngân sách ăn uống hàng tháng",
-        "Đó là cách để làm hài lòng những người xung quanh"
+        "Đó là cách đơn giản để thay đổi sức khỏe thể chất nhằm tăng cường năng lượng cho các hoạt động làm việc hàng.",
+        "Nó là ví dụ điển hình về việc vượt qua sự lặp lại để tìm kiếm giá trị tốt hơn thông qua những thay đổi nhỏ.",
+        "Nó giúp tiết kiệm ngân sách ăn uống hàng tháng bằng cách khám phá những lựa chọn thay thế rẻ hơn và ngon hơn.",
+        "Đó là cách để làm hài lòng những người xung quanh khi cùng tham gia vào các bữa ăn chung trong công việc."
       ],
       "correctIndex": 1,
-      "explanation": "Tác giả dùng những việc nhỏ để minh họa nguyên lý lớn: sự thay đổi nhỏ trong hành vi giúp phá bỏ rào cản tâm lý và mở ra cơ hội khám phá điều tốt đẹp hơn."
+      "explanation": "Tác giả dùng việc nhỏ để minh họa nguyên lý lớn: thay đổi nhỏ trong hành vi giúp phá bỏ rào cản tâm lý."
     },
     {
       "id": "q15",
-      "question": "Đâu là cốt lõi của 'Nghệ thuật lãnh đạo' theo quan điểm của chương này?",
+      "question": "Đâu là cốt lõi của 'Nghệ thuật lãnh đạo' theo quan điểm của chương này về việc làm mới bản thân?",
       "options": [
-        "Khả năng quản lý con người và hệ thống chặt chẽ",
-        "Khả năng mở rộng thế giới cá nhân và vượt qua vùng an toàn",
-        "Khả năng loại bỏ hoàn toàn rủi ro cho tổ chức",
-        "Khả năng thuyết phục người khác làm theo những điều mình đã thử"
+        "Khả năng quản lý con người và hệ thống chặt chẽ để đảm bảo mọi quy trình đều vận hành đúng theo kế hoạch đề ra.",
+        "Khả năng loại bỏ hoàn toàn rủi ro cho tổ chức bằng cách kiểm soát mọi biến động có thể xảy ra trong tương lai.",
+        "Khả năng mở rộng thế giới cá nhân và vượt qua vùng an toàn để duy trì tư duy lãnh đạo dẫn đầu mọi thời đại.",
+        "Khả năng thuyết phục người khác làm theo những điều mình đã thử để tạo ra sự đồng nhất trong toàn bộ tổ chức."
       ],
-      "correctIndex": 1,
-      "explanation": "Lãnh đạo trong sách của Robin Sharma bắt đầu từ việc lãnh đạo bản thân. Việc làm mới bản thân chính là chìa khóa để duy trì tư duy lãnh đạo dẫn đầu."
+      "correctIndex": 2,
+      "explanation": "Lãnh đạo bắt đầu từ việc lãnh đạo bản thân. Việc làm mới bản thân là chìa khóa để duy trì tư duy lãnh đạo."
     }
   ]
 }

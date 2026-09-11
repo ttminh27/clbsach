@@ -6,198 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Khi phân tích thương hiệu Star Wars, tại sao Gary Keller lại nhận định \"bộ phim\" mới là Điều Quan Trọng Nhất, cho dù doanh thu bán đồ chơi ăn theo (hơn 10 tỷ USD) vượt xa doanh thu bán vé rạp (4,3 tỷ USD)?",
+      "question": "Tại sao Gary Keller nhận định bộ phim là Điều Quan Trọng Nhất của Star Wars dù doanh thu đồ chơi vượt xa doanh thu vé rạp?",
       "options": [
-        "Vì các rạp chiếu phim giữ lại phần lớn lợi nhuận từ tiền bán vé nên con số 4,3 tỷ USD không thực tế.",
-        "Vì bộ phim chính là cội nguồn sáng tạo định hình linh hồn và nhu cầu; không có các nhân vật và câu chuyện trong phim thì toàn bộ thị trường đồ chơi 10 tỷ USD sẽ không thể tồn tại.",
-        "Vì George Lucas yêu thích nghệ thuật điện ảnh hơn tiền bạc và hoạt động thương mại.",
-        "Vì luật bản quyền quốc tế ưu tiên bảo hộ tác phẩm điện ảnh hơn các sản phẩm nhựa tiêu dùng."
+        "Bộ phim là cội nguồn sáng tạo định hình linh hồn và nhu cầu, nếu không có câu chuyện xuất chúng thì đồ chơi sẽ vô giá trị.",
+        "Các rạp chiếu phim giữ lại phần lớn lợi nhuận từ tiền bán vé nên con số 4,3 tỷ USD doanh thu không phản ánh đúng thực tế.",
+        "George Lucas ưu tiên nghệ thuật điện ảnh hơn các hoạt động thương mại nên ông coi trọng bộ phim hơn các sản phẩm đồ chơi.",
+        "Luật bản quyền quốc tế ưu tiên bảo hộ tác phẩm điện ảnh hơn các sản phẩm nhựa tiêu dùng nên giá trị pháp lý cao hơn hẳn."
       ],
-      "correctIndex": 1,
-      "explanation": "Đây là bài học sâu sắc về tư duy phân biệt giữa 'nguồn cội tạo giá trị' và 'kết quả phái sinh'. Dù đồ chơi mang lại nhiều tiền hơn, nhưng nó chỉ là quả ngọt sinh ra từ cái cây là 'bộ phim'. Nếu không có một bộ phim xuất chúng chạm vào trái tim hàng triệu khán giả, đồ chơi ăn theo sẽ chỉ là những đống nhựa vô giá trị. Quân domino gốc rễ chính là bộ phim.",
-      "difficulty": "hard"
+      "correctIndex": 0,
+      "explanation": "Bộ phim là quân domino gốc rễ tạo ra giá trị. Đồ chơi chỉ là kết quả phái sinh; không có bộ phim xuất chúng, đồ chơi sẽ không có sức hút."
     },
     {
       "id": "q2",
-      "question": "Chiến lược phát triển sản phẩm của Apple từ iMac, iTunes, iPod, iPhone đến iPad minh họa quy luật vận động nào của \"Điều Quan Trọng Nhất\" trong doanh nghiệp?",
+      "question": "Chiến lược sản phẩm của Apple từ iMac đến iPad minh họa quy luật vận động nào của Điều Quan Trọng Nhất trong doanh nghiệp?",
       "options": [
-        "\"Điều Quan Trọng Nhất\" không phải là một trạng thái bất biến vĩnh viễn, mà nó có thể chuyển dịch theo từng giai đoạn phát triển, nơi sản phẩm vàng hiện tại đóng vai trò đòn bẩy nâng đỡ toàn bộ hệ sinh thái.",
-        "Doanh nghiệp phải liên tục khai tử hoàn toàn các sản phẩm cũ ngay khi sản phẩm mới vừa ra mắt.",
-        "Apple chỉ tập trung vào một sản phẩm duy nhất và không bao giờ bán thêm bất kỳ phụ kiện nào khác.",
-        "Thành công của Apple hoàn toàn là nhờ chiến lược giảm giá bán sản phẩm để cạnh tranh với các đối thủ giá rẻ."
+        "Doanh nghiệp phải liên tục khai tử hoàn toàn các sản phẩm cũ ngay khi sản phẩm mới vừa ra mắt để tránh sự chồng chéo thương hiệu.",
+        "Điều Quan Trọng Nhất không bất biến mà chuyển dịch theo giai đoạn, nơi sản phẩm vàng hiện tại đóng vai trò đòn bẩy hệ sinh thái.",
+        "Apple chỉ tập trung vào một sản phẩm duy nhất và không bao giờ bán thêm bất kỳ phụ kiện hay dịch vụ nào khác cho người dùng.",
+        "Thành công của Apple hoàn toàn nhờ chiến lược giảm giá bán sản phẩm để cạnh tranh trực tiếp với các đối thủ giá rẻ trên thị trường."
       ],
-      "correctIndex": 0,
-      "explanation": "Tác giả chỉ rõ Apple là bậc thầy về việc nuôi dưỡng The ONE Thing: Từ iMac sang iPod, sang iPhone rồi iPad. Tại mỗi thời điểm, họ có MỘT sản phẩm ngôi sao dẫn dắt tạo ra tiếng vang và nguồn thu khổng lồ, kéo theo sự ưa chuộng cho toàn bộ danh mục sản phẩm khác mà không hề làm lu mờ chúng. Khi bối cảnh thay đổi, họ chủ động chuyển dịch ngọn cờ đầu sang quân domino tiếp theo.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Apple nuôi dưỡng The ONE Thing theo từng thời kỳ, mỗi sản phẩm ngôi sao tạo tiếng vang và kéo theo sự ưa chuộng cho toàn bộ danh mục."
     },
     {
       "id": "q3",
-      "question": "Mô hình kinh doanh của Google (cung cấp công cụ tìm kiếm miễn phí để bán quảng cáo) tiết lộ bản chất sâu xa nào về mối quan hệ giữa \"sản phẩm cốt lõi\" và \"dòng doanh thu\"?",
+      "question": "Mô hình kinh doanh của Google tiết lộ bản chất sâu xa nào về mối quan hệ giữa sản phẩm cốt lõi và dòng doanh thu thực tế?",
       "options": [
-        "Sản phẩm mang lại doanh thu cao nhất bắt buộc phải là sản phẩm thu phí trực tiếp từ người dùng cuối.",
-        "Công ty công nghệ không cần đầu tư cải tiến sản phẩm mà chỉ cần chi tiền cho đội ngũ nhân viên bán hàng.",
-        "Mọi dịch vụ trên internet đều phải được cung cấp miễn phí thì mới có cơ hội sống sót trên thị trường.",
-        "Đôi khi \"Điều Quan Trọng Nhất\" được tạo ra và chuyển giao không trực tiếp là thứ được bán ra; công cụ tìm kiếm vượt trội là thỏi nam châm thu hút sự chú ý, và sự chú ý đó chính là thứ được thương mại hóa qua quảng cáo."
+        "Sản phẩm mang lại doanh thu cao nhất bắt buộc phải là sản phẩm thu phí trực tiếp từ người dùng cuối để đảm bảo tính bền vững.",
+        "Công ty công nghệ không cần đầu tư cải tiến sản phẩm mà chỉ cần chi tiền cho đội ngũ nhân viên bán hàng để tăng trưởng doanh thu.",
+        "Sản phẩm cốt lõi là thỏi nam châm thu hút sự chú ý, và sự chú ý đó chính là thứ được thương mại hóa hiệu quả qua quảng cáo.",
+        "Mọi dịch vụ trên internet đều phải được cung cấp miễn phí thì mới có cơ hội sống sót và cạnh tranh trên thị trường toàn cầu."
       ],
-      "correctIndex": 3,
-      "explanation": "Nhiều người lầm tưởng The ONE Thing luôn phải là thứ bạn trực tiếp thu tiền. Trường hợp của Google chứng minh sự tinh vi của chiến lược kinh doanh: The ONE Thing về mặt vận hành là thuật toán tìm kiếm đỉnh cao giúp giải quyết nhu cầu thông tin của nhân loại. Chính giá trị vượt trội này tạo ra lượng truy cập khổng lồ, biến quảng cáo thành cỗ máy in tiền tự nhiên.",
-      "difficulty": "hard"
+      "correctIndex": 2,
+      "explanation": "Google chứng minh The ONE Thing không nhất thiết phải là thứ thu tiền trực tiếp, mà là giá trị vượt trội tạo ra lưu lượng người dùng."
     },
     {
       "id": "q4",
-      "question": "Luận điểm \"Không ai có thể tự mình thành đạt\" được chứng minh qua mối quan hệ giữa Walt Disney & Roy Disney, Einstein & Max Talmud, Sam Walton & L.S. Robson. Điểm chung mang tính bước ngoặt ở đây là gì?",
+      "question": "Điểm chung mang tính bước ngoặt trong các mối quan hệ giữa vĩ nhân và người dẫn dắt là gì theo quan điểm của tác giả?",
       "options": [
-        "Những người thành công đều phải vay mượn ít nhất 20.000 đô-la từ người thân thì mới lập nghiệp được.",
-        "Thành công luôn đòi hỏi sự hỗ trợ của một tổ chức chính trị hoặc tôn giáo lớn đứng sau bảo trợ.",
-        "Mỗi nhân vật kiệt xuất đều có ít nhất \"MỘT NGƯỜI QUAN TRỌNG\" đóng vai trò khai tâm, cố vấn, hỗ trợ tài chính hoặc thúc đẩy họ vượt qua các giới hạn cá nhân.",
-        "Các thiên tài khoa học và nghệ thuật đều có thói quen ăn tối định kỳ một lần mỗi tuần với giáo viên cũ."
+        "Những người thành công đều phải vay mượn ít nhất 20.000 đô-la từ người thân trong gia đình thì mới có thể khởi nghiệp thành công.",
+        "Thành công luôn đòi hỏi sự hỗ trợ của một tổ chức chính trị hoặc tôn giáo lớn đứng sau bảo trợ để vượt qua các rào cản xã hội.",
+        "Các thiên tài khoa học và nghệ thuật đều có thói quen ăn tối định kỳ một lần mỗi tuần với giáo viên cũ để giữ vững tư duy.",
+        "Mỗi nhân vật kiệt xuất đều có ít nhất một người quan trọng đóng vai trò khai tâm, cố vấn hoặc thúc đẩy vượt qua giới hạn."
       ],
-      "correctIndex": 2,
-      "explanation": "Keller khẳng định dứt khoát: 'Không ai có thể tự mình thành đạt. Không một ai'. Đằng sau mỗi vĩ nhân luôn xuất hiện hình bóng của một người mang tính định mệnh: Roy Disney mở đường cho Walt, Max Talmud khai mở tư duy khoa học cho Einstein từ năm 10 tuổi, L.S. Robson giải cứu tài chính cho Walton. Khái niệm The ONE Thing ở đây áp dụng vào phương diện con người: Tìm đúng một người dẫn dắt có thể xoay chuyển toàn bộ cuộc đời bạn.",
-      "difficulty": "medium"
+      "correctIndex": 3,
+      "explanation": "Không ai tự thành công. Tìm đúng người dẫn dắt có thể xoay chuyển toàn bộ cuộc đời và sự nghiệp của bạn."
     },
     {
       "id": "q5",
-      "question": "Lời khuyên của luật sư Jeffrey Jacobs dành cho Oprah Winfrey khi bà tìm đến ông để nhờ tư vấn hợp đồng lao động mang lại bài học then chốt nào về tư duy đòn bẩy?",
+      "question": "Lời khuyên của luật sư Jeffrey Jacobs dành cho Oprah Winfrey mang lại bài học then chốt nào về tư duy đòn bẩy sự nghiệp?",
       "options": [
-        "Thay vì trở thành một người làm thuê nhận lương cao, hãy thành lập công ty của riêng mình để làm chủ bản quyền và tối đa hóa giá trị thương hiệu cá nhân.",
-        "Không nên tin tưởng các luật sư vì họ luôn tìm cách kiếm tiền từ các vụ kiện tụng kéo dài.",
-        "Nên ký hợp đồng lao động trọn đời với đài truyền hình để đảm bảo sự ổn định tài chính tuyệt đối.",
-        "Chỉ nên đầu tư tiền vào thị trường bất động sản thay vì các chương trình truyền hình talkshow."
+        "Thay vì trở thành người làm thuê nhận lương cao, hãy thành lập công ty riêng để làm chủ bản quyền và tối đa hóa giá trị.",
+        "Không nên tin tưởng các luật sư vì họ luôn tìm cách kiếm tiền từ các vụ kiện tụng kéo dài thay vì bảo vệ quyền lợi khách hàng.",
+        "Nên ký hợp đồng lao động trọn đời với đài truyền hình để đảm bảo sự ổn định tài chính tuyệt đối cho bản thân và gia đình.",
+        "Chỉ nên đầu tư tiền vào thị trường bất động sản thay vì các chương trình truyền hình talkshow để tránh rủi ro truyền thông."
       ],
       "correctIndex": 0,
-      "explanation": "Khi Oprah tìm đến Jacobs chỉ với ý định thương lượng một hợp đồng làm thuê tốt hơn, Jacobs đã nhìn thấy tiềm năng khổng lồ và khuyên bà: Đừng làm thuê, hãy lập công ty riêng! Nhờ lời khuyên của 'Một người quan trọng' này, Harpo Productions ra đời, đưa Oprah từ một người dẫn chương trình tài năng trở thành một nữ tỷ phú truyền thông tự thân quyền lực nhất thế giới.",
-      "difficulty": "easy"
+      "explanation": "Jacobs khuyên Oprah lập công ty riêng, giúp bà từ người làm thuê trở thành nữ tỷ phú truyền thông tự thân quyền lực."
     },
     {
       "id": "q6",
-      "question": "Cơ chế \"vòng xoắn tiến\" (virtuous cycle) kết nối giữa Đam mê và Kỹ năng được Gary Keller phân tích vận hành theo trình tự logic nào?",
+      "question": "Cơ chế vòng xoắn tiến kết nối giữa Đam mê và Kỹ năng được Gary Keller phân tích vận hành theo trình tự logic nào?",
       "options": [
-        "Có nhiều tiền -> Mua sắm trang thiết bị đắt tiền -> Tự động có đam mê -> Đạt được kỹ năng bậc thầy.",
-        "Đam mê thúc đẩy dành nhiều thời gian rèn luyện -> Thời gian biến thành kỹ năng tinh xảo -> Kỹ năng mang lại kết quả tốt -> Kết quả tốt tạo niềm vui và thổi bùng đam mê lớn hơn.",
-        "Đam mê sinh ra từ sự ngẫu nhiên và không cần bất kỳ sự rèn luyện nào vẫn có thể tạo nên thành tựu đỉnh cao.",
-        "Kỹ năng chỉ có thể phát triển nếu bị cấp trên ép buộc và đe dọa xử phạt nghiêm khắc."
+        "Có nhiều tiền mua sắm trang thiết bị đắt tiền, tự động có đam mê, từ đó đạt được kỹ năng bậc thầy trong lĩnh vực mình chọn.",
+        "Đam mê thúc đẩy rèn luyện, thời gian tạo kỹ năng, kỹ năng mang lại kết quả tốt, kết quả tốt lại thổi bùng đam mê lớn hơn.",
+        "Đam mê sinh ra từ sự ngẫu nhiên và không cần bất kỳ sự rèn luyện nào vẫn có thể tạo nên thành tựu đỉnh cao cho cá nhân.",
+        "Kỹ năng chỉ có thể phát triển nếu bị cấp trên ép buộc và đe dọa xử phạt nghiêm khắc trong môi trường làm việc áp lực cao."
       ],
       "correctIndex": 1,
-      "explanation": "Chương 3 chỉ ra mối quan hệ hữu cơ tuyệt đẹp: Đam mê không phải là thứ kỳ bí từ trên trời rơi xuống rồi đứng yên. Đam mê thúc đẩy ta đầu tư thời gian chuyên tâm; thời gian tôi luyện kỹ năng; kỹ năng nâng cao hiệu quả; hiệu quả mang lại sự tự hào và niềm vui sướng, và niềm vui đó lại tiếp tục châm ngòi cho ngọn lửa đam mê rực cháy hơn nữa. Đó là một vòng lặp lũy tiến.",
-      "difficulty": "medium"
+      "explanation": "Đam mê không đứng yên; nó là một vòng lặp lũy tiến: đam mê dẫn đến rèn luyện, rèn luyện tạo kỹ năng, kỹ năng tạo thành công."
     },
     {
       "id": "q7",
-      "question": "Câu chuyện phi thường của Gilbert Tuhabonye – từ nạn nhân sống sót sau vụ thảm sát Burundi đến huấn luyện viên điền kinh nổi tiếng và sáng lập Quỹ Gazelle – minh họa điều gì về sức mạnh của \"MỘT ĐIỀU\"?",
+      "question": "Câu chuyện của Gilbert Tuhabonye minh họa điều gì về sức mạnh của MỘT ĐIỀU trong cuộc sống và sự nghiệp cá nhân?",
       "options": [
-        "Chạy bộ là môn thể thao duy nhất giúp con người kiếm được nhiều tiền tài trợ từ các tổ chức phi chính phủ.",
-        "Mọi vận động viên điền kinh chuyên nghiệp đều phải trải qua các nghịch cảnh chiến tranh khốc liệt.",
-        "Một niềm đam mê cốt lõi (chạy bộ) khi được theo đuổi bền bỉ có thể trở thành sợi chỉ đỏ xuyên suốt cứu rỗi sinh mạng, định hình sự nghiệp và kiến tạo di sản xã hội sâu rộng.",
-        "Muốn thành công ở Mỹ thì bắt buộc phải tốt nghiệp từ Đại học Abilene Christian ở Texas."
+        "Chạy bộ là môn thể thao duy nhất giúp con người kiếm được nhiều tiền tài trợ từ các tổ chức phi chính phủ trên toàn cầu.",
+        "Mọi vận động viên điền kinh chuyên nghiệp đều phải trải qua các nghịch cảnh chiến tranh khốc liệt mới có thể đạt đỉnh cao.",
+        "Một niềm đam mê cốt lõi khi được theo đuổi bền bỉ có thể trở thành sợi chỉ đỏ cứu rỗi sinh mạng và kiến tạo di sản.",
+        "Muốn thành công ở Mỹ thì bắt buộc phải tốt nghiệp từ Đại học Abilene Christian ở Texas mới có cơ hội phát triển sự nghiệp."
       ],
       "correctIndex": 2,
-      "explanation": "Cuộc đời Gilbert là minh chứng sống động cho The ONE Thing ở khía cạnh đam mê và kỹ năng: Tình yêu chạy bộ giúp anh trốn thoát khỏi lò thiêu sống ở quê hương, đưa anh đến đỉnh cao điền kinh Mỹ, trở thành sự nghiệp huấn luyện viên số 1 tại Austin và cuối cùng thành lập quỹ 'Chạy vì nước sạch' giúp đỡ đồng bào. 'Chạy' chính là quân domino định nghĩa toàn bộ ý nghĩa cuộc đời anh.",
-      "difficulty": "medium"
+      "explanation": "Chạy bộ là quân domino định nghĩa cuộc đời Gilbert, từ việc giúp anh sống sót đến việc tạo dựng sự nghiệp huấn luyện viên."
     },
     {
       "id": "q8",
-      "question": "Khi vợ chồng Bill và Melinda Gates quyết định dùng phần lớn tài sản để làm từ thiện, câu hỏi chiến lược của Melinda: \"Chúng ta có thể dùng tiền để mang đến sự thay đổi lớn nhất ở đâu?\" đã dẫn họ tới quyết định tập trung vào quân domino nào?",
+      "question": "Quyết định tập trung vào vắc-xin của vợ chồng Bill Gates dựa trên tư duy chiến lược nào để tạo ra thay đổi lớn nhất?",
       "options": [
-        "Xây dựng các trường đại học công nghệ thông tin hiện đại tại các nước phát triển.",
-        "Cung cấp máy tính xách tay và phần mềm Windows miễn phí cho tất cả trẻ em nghèo trên toàn cầu.",
-        "Mua lại các tập đoàn truyền thông để tuyên truyền về bình đẳng giới trên phạm vi quốc tế.",
-        "Tập trung vào Vắc-xin phòng chống bệnh truyền nhiễm, vì đây là công cụ can thiệp y tế có sức mạnh đòn bẩy lớn nhất giúp cứu sống nhiều mạng người nhất với chi phí sản xuất thấp."
+        "Xây dựng các trường đại học công nghệ thông tin hiện đại tại các nước phát triển để đào tạo nhân lực cho tương lai toàn cầu.",
+        "Cung cấp máy tính xách tay và phần mềm Windows miễn phí cho tất cả trẻ em nghèo trên toàn cầu để xóa bỏ khoảng cách số.",
+        "Mua lại các tập đoàn truyền thông lớn để tuyên truyền về bình đẳng giới và giáo dục trên phạm vi quốc tế một cách hiệu quả.",
+        "Tập trung vào vắc-xin vì đây là công cụ can thiệp y tế có sức mạnh đòn bẩy lớn nhất giúp cứu sống nhiều người với chi phí thấp."
       ],
       "correctIndex": 3,
-      "explanation": "Thay vì rải tiền từ thiện cho hàng trăm dự án nhỏ lẻ khắp nơi, Bill và Melinda đã dùng tư duy The ONE Thing: Tìm điểm đòn bẩy lớn nhất. Họ xác định bệnh truyền nhiễm là nguyên nhân gây tử vong hàng đầu ở các nước nghèo, và trong y tế, vắc-xin là 'công cụ kỳ diệu nhất' vì chi phí sản xuất rẻ nhưng mang lại hiệu quả bảo vệ sức khỏe cộng đồng lâu dài và to lớn nhất.",
-      "difficulty": "hard"
+      "explanation": "Họ tìm điểm đòn bẩy lớn nhất: vắc-xin là công cụ kỳ diệu nhất vì chi phí rẻ nhưng mang lại hiệu quả bảo vệ sức khỏe cộng đồng."
     },
     {
       "id": "q9",
-      "question": "Các doanh nghiệp huyền thoại như KFC (Colonel Sanders) và Adolph Coors có điểm tương đồng nổi bật nào trong giai đoạn tăng trưởng thần tốc ban đầu?",
+      "question": "Các doanh nghiệp huyền thoại như KFC và Adolph Coors có điểm tương đồng nổi bật nào trong giai đoạn tăng trưởng thần tốc?",
       "options": [
-        "Họ xây dựng đế chế hùng mạnh dựa trên sự xuất chúng tuyệt đối của MỘT sản phẩm cốt lõi duy nhất (công thức gà rán bí mật, một loại bia sản xuất tại một nhà máy duy nhất).",
-        "Họ sở hữu danh mục hàng trăm sản phẩm đa dạng ngay từ ngày đầu mở cửa kinh doanh.",
-        "Họ chi tiêu phần lớn ngân sách vào các chiến dịch quảng cáo trên truyền hình quốc gia.",
-        "Họ liên tục thay đổi mô hình kinh doanh mỗi 6 tháng để thử nghiệm phản ứng của thị trường."
+        "Họ xây dựng đế chế hùng mạnh dựa trên sự xuất chúng tuyệt đối của một sản phẩm cốt lõi duy nhất trong giai đoạn đầu.",
+        "Họ sở hữu danh mục hàng trăm sản phẩm đa dạng ngay từ ngày đầu mở cửa kinh doanh để đáp ứng mọi nhu cầu của khách hàng.",
+        "Họ chi tiêu phần lớn ngân sách vào các chiến dịch quảng cáo trên truyền hình quốc gia để chiếm lĩnh thị phần nhanh chóng.",
+        "Họ liên tục thay đổi mô hình kinh doanh mỗi 6 tháng để thử nghiệm phản ứng của thị trường và tìm kiếm cơ hội tăng trưởng."
       ],
       "correctIndex": 0,
-      "explanation": "Chương 3 liệt kê: KFC khởi đầu chỉ với MỘT công thức gà rán bí mật; Adolph Coors đạt mức tăng trưởng 1.500% chỉ với MỘT sản phẩm bia duy nhất tại một nhà máy. Sự tập trung cao độ vào một sản phẩm hoàn hảo cho phép họ tối ưu hóa quy trình sản xuất, xây dựng bản sắc thương hiệu không thể nhầm lẫn và thống lĩnh thị trường trước khi tính đến chuyện mở rộng.",
-      "difficulty": "easy"
+      "explanation": "Sự tập trung cao độ vào một sản phẩm hoàn hảo cho phép họ tối ưu hóa quy trình và xây dựng bản sắc thương hiệu không thể nhầm lẫn."
     },
     {
       "id": "q10",
-      "question": "Tại sao trong kỷ nguyên kinh tế số ngập tràn cơ hội mới mỗi ngày, các doanh nghiệp lại càng dễ thất bại trong việc xác định \"Điều Quan Trọng Nhất\"?",
+      "question": "Tại sao trong kỷ nguyên kinh tế số, các doanh nghiệp lại dễ thất bại trong việc xác định Điều Quan Trọng Nhất?",
       "options": [
-        "Vì chính phủ các nước ban hành quá nhiều quy định siết chặt việc đăng ký sở hữu trí tuệ.",
-        "Vì sự bùng nổ của thông tin và vô số cơ hội hào nhoáng bên ngoài khiến ban lãnh đạo bị phân tâm, rơi vào bẫy 'săn đuổi mọi thứ' và đánh mất năng lực tập trung cốt lõi.",
-        "Vì chi phí thành lập doanh nghiệp hiện nay rẻ hơn rất nhiều so với thế kỷ trước.",
-        "Vì người tiêu dùng hiện đại không còn trung thành với bất kỳ thương hiệu nào nữa."
+        "Chính phủ các nước ban hành quá nhiều quy định siết chặt việc đăng ký sở hữu trí tuệ khiến doanh nghiệp không thể đổi mới.",
+        "Sự bùng nổ của thông tin khiến ban lãnh đạo bị phân tâm, rơi vào bẫy săn đuổi mọi thứ và đánh mất năng lực tập trung cốt lõi.",
+        "Chi phí thành lập doanh nghiệp hiện nay rẻ hơn rất nhiều so với thế kỷ trước nên doanh nghiệp không còn coi trọng chất lượng.",
+        "Người tiêu dùng hiện đại không còn trung thành với bất kỳ thương hiệu nào nữa nên doanh nghiệp phải làm mọi thứ cùng lúc."
       ],
       "correctIndex": 1,
-      "explanation": "Tác giả chỉ rõ: 'Hậu quả khôn lường của sự dư giả là chúng ta tiếp nhận thông tin và các lựa chọn trong một ngày bằng lượng thông tin tổ tiên ta nhận được cả đời'. Càng nhiều cơ hội mở ra, ban lãnh đạo càng dễ bị cám dỗ bởi hội chứng FOMO (sợ bỏ lỡ), nhảy vào mọi xu hướng mới mà quên mất rằng sức mạnh cạnh tranh thực sự chỉ đến từ một đòn bẩy vượt trội duy nhất.",
-      "difficulty": "medium"
+      "explanation": "Càng nhiều cơ hội, doanh nghiệp càng dễ bị cám dỗ bởi hội chứng sợ bỏ lỡ, quên mất sức mạnh cạnh tranh đến từ một đòn bẩy duy nhất."
     },
     {
       "id": "q11",
-      "question": "Trường hợp của họa sĩ Pat Matthews và hướng dẫn viên Angelo Amorico chứng minh mối quan hệ nào giữa tính chuyên tâm và sự công nhận của thị trường?",
+      "question": "Trường hợp của Pat Matthews và Angelo Amorico chứng minh mối quan hệ nào giữa tính chuyên tâm và sự công nhận của thị trường?",
       "options": [
-        "Cần phải làm nhiều nghề tay trái khác nhau thì mới tích lũy đủ vốn để theo đuổi đam mê nghệ thuật.",
-        "Chỉ cần có bằng cấp học thuật tại các viện hàn lâm danh giá thì thị trường sẽ tự động trả lương cao.",
-        "Bằng cách kiên trì biến một tình yêu duy nhất thành kỹ năng thực hành xuất sắc mỗi ngày, bạn sẽ tạo ra một chuẩn mực nghề nghiệp đỉnh cao khiến thị trường không thể phớt lờ.",
-        "Hướng dẫn viên du lịch và họa sĩ là hai nghề nghiệp không đòi hỏi bất kỳ kỹ năng chuyên môn sâu nào."
+        "Cần phải làm nhiều nghề tay trái khác nhau thì mới tích lũy đủ vốn để theo đuổi đam mê nghệ thuật một cách bền vững lâu dài.",
+        "Chỉ cần có bằng cấp học thuật tại các viện hàn lâm danh giá thì thị trường sẽ tự động trả lương cao cho các chuyên gia đó.",
+        "Kiên trì biến một tình yêu duy nhất thành kỹ năng thực hành xuất sắc mỗi ngày sẽ tạo ra chuẩn mực nghề nghiệp đỉnh cao.",
+        "Hướng dẫn viên du lịch và họa sĩ là hai nghề nghiệp không đòi hỏi bất kỳ kỹ năng chuyên môn sâu nào để đạt được thành công."
       ],
       "correctIndex": 2,
-      "explanation": "Pat Matthews vẽ tranh mỗi ngày để biến đam mê thành kỹ năng bậc thầy; Angelo Amorico biến tình yêu đất nước Ý thành kỹ năng hướng dẫn số một. Khi bạn chuyên tâm trau dồi một kỹ năng duy nhất đến mức điêu luyện, bạn tạo ra giá trị độc bản vượt trội, từ đó danh tiếng và thành công tài chính sẽ tự tìm đến bạn như một hệ quả tất yếu.",
-      "difficulty": "medium"
+      "explanation": "Khi bạn chuyên tâm trau dồi một kỹ năng duy nhất đến mức điêu luyện, bạn tạo ra giá trị độc bản khiến thị trường không thể phớt lờ."
     },
     {
       "id": "q12",
-      "question": "Theo Gary Keller, nếu một công ty đang bối rối và không biết \"Điều Quan Trọng Nhất\" của mình hiện tại là gì, thì hành động chiến lược cấp bách nhất họ phải làm là gì?",
+      "question": "Nếu một công ty đang bối rối và không biết Điều Quan Trọng Nhất là gì, hành động chiến lược cấp bách nhất là gì?",
       "options": [
-        "Sao chép toàn bộ danh mục sản phẩm của đối thủ cạnh tranh lớn nhất trên thị trường.",
-        "Cắt giảm 50% nhân sự để tiết kiệm ngân sách và chờ đợi vận may kinh tế phục hồi.",
-        "Phát hành thêm cổ phiếu ra công chúng để huy động thêm vốn tài trợ.",
-        "\"Điều Quan Trọng Nhất\" của công ty lúc này chính là tập trung toàn lực để tìm ra cho bằng được \"Điều Quan Trọng Nhất\" đó."
+        "Sao chép toàn bộ danh mục sản phẩm của đối thủ cạnh tranh lớn nhất trên thị trường để đảm bảo không bị tụt hậu so với đối thủ.",
+        "Cắt giảm 50% nhân sự để tiết kiệm ngân sách và chờ đợi vận may kinh tế phục hồi trước khi đưa ra các quyết định đầu tư mới.",
+        "Phát hành thêm cổ phiếu ra công chúng để huy động thêm vốn tài trợ nhằm duy trì hoạt động trong thời gian tìm kiếm hướng đi.",
+        "Điều Quan Trọng Nhất của công ty lúc này chính là tập trung toàn lực để tìm ra cho bằng được Điều Quan Trọng Nhất đó."
       ],
       "correctIndex": 3,
-      "explanation": "Keller đưa ra một nhận định hóm hỉnh nhưng sâu sắc mang tính đòn bẩy: 'Nếu giờ đây công ty bạn không biết điều quan trọng nhất là gì, thì điều quan trọng nhất bây giờ của công ty bạn chính là tìm ra điều đó'. Đừng lao vào làm việc hùng hục khi chiếc la bàn chưa xác định được phương hướng; việc quan trọng nhất là phải dừng lại để định vị trọng tâm.",
-      "difficulty": "easy"
+      "explanation": "Đừng lao vào làm việc hùng hục khi chưa xác định được phương hướng; việc quan trọng nhất là phải dừng lại để định vị trọng tâm."
     },
     {
       "id": "q13",
-      "question": "Vai trò của nhà sản xuất George Martin đối với ban nhạc huyền thoại The Beatles – người được mệnh danh là \"thành viên thứ năm của The Beatles\" – làm sáng tỏ khía cạnh nào của nguyên lý \"Một Người Quan Trọng\"?",
+      "question": "Vai trò của George Martin đối với The Beatles làm sáng tỏ khía cạnh nào của nguyên lý Một Người Quan Trọng?",
       "options": [
-        "Một người cố vấn xuất sắc là người biết cách thay thế hoàn toàn các thành viên chính thức để tự mình biểu diễn.",
-        "Người quan trọng không nhất thiết phải là người đứng dưới ánh đèn sân khấu, mà là người sở hữu kỹ năng chuyên môn bổ khuyết hoàn hảo, giúp biến tài năng thô mộc của bạn thành kiệt tác đỉnh cao.",
-        "The Beatles sẽ thành công hơn rất nhiều nếu họ sa thải George Martin ngay từ album đầu tiên.",
-        "Mọi ban nhạc rock thành công đều bắt buộc phải có đúng 5 thành viên chính thức."
+        "Người quan trọng không nhất thiết phải đứng dưới ánh đèn sân khấu, mà là người sở hữu kỹ năng bổ khuyết hoàn hảo cho bạn.",
+        "Một người cố vấn xuất sắc là người biết cách thay thế hoàn toàn các thành viên chính thức để tự mình biểu diễn trên sân khấu.",
+        "The Beatles sẽ thành công hơn rất nhiều nếu họ sa thải George Martin ngay từ album đầu tiên để tự do sáng tạo âm nhạc.",
+        "Mọi ban nhạc rock thành công đều bắt buộc phải có đúng 5 thành viên chính thức để đảm bảo sự cân bằng trong các sáng tác."
       ],
-      "correctIndex": 1,
-      "explanation": "George Martin không hát chính, không chơi guitar trên sân khấu cùng The Beatles, nhưng tài năng hòa âm, phối khí và công nghệ phòng thu của ông đã lấp đầy khoảng cách giữa sự thô mộc của nhóm và đỉnh cao âm nhạc. 'Một người quan trọng' có thể là mảnh ghép còn thiếu bổ khuyết hoàn hảo cho điểm yếu của bạn, tạo nên sức mạnh tổng hợp vô địch.",
-      "difficulty": "hard"
+      "correctIndex": 0,
+      "explanation": "Người quan trọng có thể là mảnh ghép còn thiếu bổ khuyết hoàn hảo cho điểm yếu của bạn, tạo nên sức mạnh tổng hợp vô địch."
     },
     {
       "id": "q14",
-      "question": "Phân tích bẫy tư duy: Một nhà sáng lập startup lập luận: \"Tôi cần phát triển cùng lúc 4 dòng sản phẩm khác nhau để phân tán rủi ro; nếu 3 cái thất bại thì vẫn còn 1 cái cứu vãn\". Dựa vào Chương 3, sai lầm cốt tử của lập luận này là gì?",
+      "question": "Sai lầm cốt tử của việc phát triển cùng lúc nhiều dòng sản phẩm để phân tán rủi ro trong khởi nghiệp là gì?",
       "options": [
-        "Phân tán rủi ro chỉ áp dụng trong lĩnh vực nông nghiệp, không áp dụng được cho khởi nghiệp công nghệ.",
-        "Các nhà đầu tư mạo hiểm chỉ thích rót vốn cho những công ty không có sản phẩm nào cụ thể.",
-        "Việc chia sẻ nguồn lực eo hẹp của một startup cho 4 sản phẩm cùng lúc hầu như đảm bảo rằng cả 4 sản phẩm đều ở mức tầm thường, không đủ sức cạnh tranh và chắc chắn dẫn đến thất bại toàn diện.",
-        "Luật doanh nghiệp quy định mỗi công ty mới thành lập chỉ được phép sản xuất duy nhất một mặt hàng."
+        "Phân tán rủi ro chỉ áp dụng trong lĩnh vực nông nghiệp, không áp dụng được cho khởi nghiệp công nghệ vì tính chất khác biệt.",
+        "Việc chia sẻ nguồn lực eo hẹp cho nhiều sản phẩm cùng lúc đảm bảo rằng tất cả đều tầm thường và dẫn đến thất bại toàn diện.",
+        "Các nhà đầu tư mạo hiểm chỉ thích rót vốn cho những công ty không có sản phẩm nào cụ thể để họ tự định hướng phát triển.",
+        "Luật doanh nghiệp quy định mỗi công ty mới thành lập chỉ được phép sản xuất duy nhất một mặt hàng để quản lý thuế hiệu quả."
       ],
-      "correctIndex": 2,
-      "explanation": "Nguyên tắc đa dạng hóa danh mục đầu tư tài chính thường bị áp dụng sai lầm vào vận hành kinh doanh thực tế. Một startup vốn đã thiếu hụt vốn, nhân lực và thời gian; nếu lại xé nhỏ nguồn lực cho 4 mặt trận, bạn sẽ không thể đạt được chất lượng xuất sắc ở bất kỳ mặt trận nào. Các bài học thành công trong Chương 3 (KFC, Coors, Intel, Google) đều cho thấy thắng lợi bắt đầu từ một mũi nhọn đâm thủng thị trường.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Startup thiếu hụt nguồn lực; nếu xé nhỏ cho nhiều mặt trận, bạn không thể đạt chất lượng xuất sắc ở bất kỳ mặt trận nào."
     },
     {
       "id": "q15",
-      "question": "Đoạn kết Chương 3 nêu lên một nghịch lý lớn: Tại sao nguyên lý \"Điều Quan Trọng Nhất\" tuy giản đơn và được minh chứng ở khắp nơi nhưng con người lại rất khó tin tưởng và áp dụng nó?",
+      "question": "Tại sao nguyên lý Điều Quan Trọng Nhất tuy giản đơn nhưng con người lại rất khó tin tưởng và áp dụng nó?",
       "options": [
-        "Vì tâm trí con người bị che mờ bởi những ước lệ sai lầm, những lời đồn thổi vô căn cứ và những niềm tin dối trá về thành công đã ăn sâu vào văn hóa xã hội.",
-        "Vì sách The ONE Thing có giá bán quá cao nên không ai có cơ hội tiếp cận tri thức này.",
-        "Vì các trường học trên thế giới nghiêm cấm học sinh tìm hiểu về nguyên lý này.",
-        "Vì việc áp dụng triết lý này đòi hỏi phải mua các phần mềm máy tính đắt đỏ từ Thung lũng Silicon."
+        "Sách The ONE Thing có giá bán quá cao nên không ai có cơ hội tiếp cận tri thức này để áp dụng vào công việc hàng ngày.",
+        "Các trường học trên thế giới nghiêm cấm học sinh tìm hiểu về nguyên lý này vì nó đi ngược lại với các phương pháp giáo dục.",
+        "Tâm trí con người bị che mờ bởi những ước lệ sai lầm, những lời đồn thổi vô căn cứ và niềm tin dối trá về thành công.",
+        "Việc áp dụng triết lý này đòi hỏi phải mua các phần mềm máy tính đắt đỏ từ Thung lũng Silicon mới có thể thực hiện thành công."
       ],
-      "correctIndex": 0,
-      "explanation": "Tác giả giải thích: 'Đó là một ý tưởng lớn về thành công được bọc trong lớp vỏ giản đơn đến không ngờ... nhưng để tin và áp dụng nó lại không hề đơn giản. Bởi vì tâm trí chúng ta bị trói buộc bởi những suy diễn sai lệch, những thông tin rác và 6 lời dối trá kinh điển về thành công'. Đó là lý do Keller phải dành toàn bộ Phần 1 tiếp theo để vạch trần những rào cản nhận thức này.",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Tâm trí bị trói buộc bởi những suy diễn sai lệch và những lời dối trá kinh điển về thành công khiến ta khó chấp nhận sự đơn giản."
     }
   ]
 }

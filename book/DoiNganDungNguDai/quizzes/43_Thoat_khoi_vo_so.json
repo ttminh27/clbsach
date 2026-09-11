@@ -8,181 +8,181 @@
       "id": "q1",
       "question": "Theo quan điểm của Robin Sharma, tại sao việc thực hiện ước mơ thường bị trì hoãn bởi nhiều người?",
       "options": [
-        "Vì họ chờ đợi sự chuẩn bị hoàn hảo về mặt kỹ năng và nguồn lực",
-        "Vì họ không nhận ra giá trị cốt lõi của thành công cá nhân",
-        "Vì họ thiếu những mối quan hệ cần thiết để kết nối",
-        "Vì họ ưu tiên sự an toàn và ổn định ngắn hạn hơn là sự trưởng thành"
+        "Vì họ ưu tiên sự an toàn và ổn định ngắn hạn hơn là sự trưởng thành cá nhân thông qua việc chấp nhận rủi ro.",
+        "Vì họ chờ đợi sự chuẩn bị hoàn hảo về mặt kỹ năng và nguồn lực trước khi bắt đầu hành trình hiện thực hóa ước mơ.",
+        "Vì họ thiếu những mối quan hệ cần thiết để kết nối và nhận được sự hỗ trợ từ những người có tầm ảnh hưởng lớn.",
+        "Vì họ không nhận ra giá trị cốt lõi của thành công cá nhân trong việc định hình tương lai và sự nghiệp lâu dài."
       ],
-      "correctIndex": 3,
-      "explanation": "Tác giả nhấn mạnh không có thời điểm nào là 'lý tưởng', việc trì hoãn xuất phát từ tâm lý sợ hãi và bám víu vào 'vỏ ốc' an toàn thay vì chấp nhận rủi ro cần thiết."
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh không có thời điểm nào là lý tưởng, việc trì hoãn xuất phát từ tâm lý bám víu vào vùng an toàn thay vì chấp nhận rủi ro."
     },
     {
       "id": "q2",
       "question": "Thông điệp 'không đòi thì không được' trong bài học này ám chỉ điều gì trong nghệ thuật lãnh đạo bản thân?",
       "options": [
-        "Sự ép buộc người khác phải phục tùng ý chí của mình",
-        "Sự chủ động tạo ra cơ hội thông qua việc thể hiện rõ ràng mục tiêu",
-        "Chiến lược đàm phán dựa trên lợi ích vật chất",
-        "Kỹ năng giao tiếp quyết đoán trong môi trường cạnh tranh"
+        "Sự ép buộc người khác phải phục tùng ý chí của mình để đạt được các mục tiêu cá nhân trong môi trường làm việc chung.",
+        "Sự chủ động tạo ra cơ hội thông qua việc thể hiện rõ ràng mục tiêu và khát vọng với những người có khả năng hỗ trợ.",
+        "Chiến lược đàm phán dựa trên lợi ích vật chất nhằm tối đa hóa các nguồn lực sẵn có để phục vụ cho dự án cá nhân.",
+        "Kỹ năng giao tiếp quyết đoán trong môi trường cạnh tranh để khẳng định vị thế và quyền lực của bản thân trước đối thủ."
       ],
       "correctIndex": 1,
-      "explanation": "Trong môi trường chuyên nghiệp, việc không chủ động chia sẻ tầm nhìn và ước mơ sẽ khiến bạn bị lạc lõng, lãnh đạo bản thân đòi hỏi sự chủ động 'lên tiếng' để thu hút nguồn lực."
+      "explanation": "Lãnh đạo bản thân đòi hỏi sự chủ động lên tiếng và chia sẻ tầm nhìn để thu hút nguồn lực thay vì thụ động chờ đợi cơ hội."
     },
     {
       "id": "q3",
       "question": "Tại sao tác giả lại nhấn mạnh cảm xúc 'run rẩy' khi bước ra khỏi vùng an toàn?",
       "options": [
-        "Đó là dấu hiệu của việc thiếu kỹ năng chuyên môn",
-        "Đó là phản ứng tự nhiên của cơ thể khi đối mặt với sự không chắc chắn",
-        "Đó là rào cản ngăn cản quá trình học hỏi cái mới",
-        "Đó là bằng chứng cho thấy mục tiêu quá xa vời so với năng lực"
+        "Đó là dấu hiệu của việc thiếu kỹ năng chuyên môn cần thiết để thực hiện các dự án sáng tạo đầy tham vọng hiện nay.",
+        "Đó là rào cản tâm lý ngăn cản quá trình học hỏi cái mới và làm giảm đi sự tự tin cần thiết của một người lãnh đạo.",
+        "Đó là phản ứng tự nhiên của cơ thể khi đối mặt với sự không chắc chắn và thử thách vượt quá giới hạn hiện tại.",
+        "Đó là bằng chứng cho thấy mục tiêu quá xa vời so với năng lực thực tế mà cá nhân đó đang sở hữu ở thời điểm này."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự sợ hãi và run rẩy không phải là điểm yếu, mà là bằng chứng cho thấy bạn đang thực sự thử thách bản thân vượt giới hạn hiện tại, thay vì làm điều mình đã giỏi."
+      "correctIndex": 2,
+      "explanation": "Sự run rẩy là minh chứng cho thấy bạn đang thực sự thử thách bản thân vượt giới hạn thay vì làm điều mình đã giỏi."
     },
     {
       "id": "q4",
       "question": "Dựa trên triết lý của tác giả, đâu là tư duy đúng đắn nhất đối với sự thất bại?",
       "options": [
-        "Thất bại là dấu hiệu nên dừng lại và tìm hướng đi khác",
-        "Thất bại cần được che giấu để giữ vững uy tín lãnh đạo",
-        "Thất bại là một phần tất yếu của quá trình thử nghiệm và phát triển",
-        "Thất bại là lỗi do dự tính thiếu kỹ lưỡng của cá nhân"
+        "Thất bại là dấu hiệu nên dừng lại và tìm hướng đi khác an toàn hơn để bảo toàn những thành quả đã đạt được trước đó.",
+        "Thất bại cần được che giấu để giữ vững uy tín lãnh đạo và sự tin tưởng từ những người đồng nghiệp trong tổ chức.",
+        "Thất bại là lỗi do dự tính thiếu kỹ lưỡng của cá nhân và cần phải tránh bằng mọi giá để duy trì sự ổn định lâu dài.",
+        "Thất bại là một phần tất yếu của quá trình thử nghiệm và phát triển để đạt tới những tầm cao mới trong cuộc đời."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả liệt kê thất bại cùng với việc vấp ngã như một phần của cuộc đời. Tư duy người vượt trội nhìn nhận thất bại là dữ liệu cho sự phát triển, không phải là dấu chấm hết."
+      "correctIndex": 3,
+      "explanation": "Tác giả coi thất bại là dữ liệu cho sự phát triển, không phải là dấu chấm hết cho hành trình theo đuổi ước mơ."
     },
     {
       "id": "q5",
       "question": "Khi đối mặt với nỗi sợ hãi, tác giả khuyên chúng ta nên thực hiện hành động nào?",
       "options": [
-        "Phân tích rủi ro kỹ lưỡng trước khi hành động",
-        "Chạy thẳng tới nỗi sợ để vô hiệu hóa nó",
-        "Tìm kiếm sự an ủi từ những người xung quanh",
-        "Tạm dừng lại để chờ đợi cảm giác sợ hãi tan biến"
+        "Chạy thẳng tới nỗi sợ để vô hiệu hóa nó vì hầu hết những điều ta lo sợ chưa bao giờ đủ gần để thực sự xảy ra.",
+        "Phân tích rủi ro kỹ lưỡng trước khi hành động để đảm bảo rằng mọi bước đi đều nằm trong tầm kiểm soát của bản thân.",
+        "Tìm kiếm sự an ủi từ những người xung quanh để giảm bớt áp lực tâm lý trước khi đưa ra các quyết định quan trọng.",
+        "Tạm dừng lại để chờ đợi cảm giác sợ hãi tan biến dần theo thời gian trước khi tiếp tục theo đuổi các mục tiêu lớn."
       ],
-      "correctIndex": 1,
-      "explanation": "Robin Sharma khuyến khích 'chạy thẳng tới nỗi sợ', bởi nỗi sợ thực chất chỉ là ảo giác ngăn cản sự phát triển, đối mặt trực diện là cách duy nhất để thoát khỏi nó."
+      "correctIndex": 0,
+      "explanation": "Đối mặt trực diện là cách duy nhất để vô hiệu hóa nỗi sợ, vì nỗi sợ thường chỉ là ảo giác ngăn cản sự phát triển."
     },
     {
       "id": "q6",
-      "question": "Tác giả nhắc đến câu nói của Al Pacino: 'Tận dụng cơ hội tốt đến mức nào thì anh sẽ giỏi đến mức ấy'. Ý nghĩa sâu xa ở đây là gì?",
+      "question": "Tác giả nhắc đến câu nói của Al Pacino về việc tận dụng cơ hội. Ý nghĩa sâu xa ở đây là gì?",
       "options": [
-        "Tài năng quan trọng hơn cơ hội",
-        "Năng lực của cá nhân được định nghĩa bởi cách họ xử lý những cơ hội mà họ nắm bắt",
-        "Cơ hội là thứ ngẫu nhiên không thể kiểm soát",
-        "Anh chỉ có thể giỏi nếu được người khác trao cơ hội"
+        "Tài năng bẩm sinh quan trọng hơn cơ hội vì nó quyết định giới hạn tối đa mà một cá nhân có thể đạt được trong đời.",
+        "Năng lực của cá nhân được định nghĩa bởi cách họ xử lý những cơ hội mà họ nắm bắt trong các tình huống khó khăn.",
+        "Cơ hội là thứ ngẫu nhiên không thể kiểm soát nên việc tận dụng chúng chỉ mang tính chất may rủi trong sự nghiệp.",
+        "Anh chỉ có thể giỏi nếu được người khác trao cơ hội thuận lợi để thể hiện năng lực chuyên môn của mình trước công chúng."
       ],
       "correctIndex": 1,
-      "explanation": "Đây là tư duy chủ động (proactive). Sự vĩ đại không chỉ nằm ở năng lực bẩm sinh mà ở mức độ quyết liệt mà cá nhân đó tận dụng các tình huống khó khăn để rèn luyện."
+      "explanation": "Sự vĩ đại nằm ở mức độ quyết liệt mà cá nhân đó tận dụng các tình huống khó khăn để rèn luyện và phát triển."
     },
     {
       "id": "q7",
       "question": "Khái niệm 'vỏ sò' trong bài viết đại diện cho điều gì?",
       "options": [
-        "Kiến thức chuyên môn hạn hẹp",
-        "Thói quen tư duy và vùng an toàn kìm hãm tiềm năng",
-        "Sự bảo thủ trong giao tiếp công sở",
-        "Những công cụ hỗ trợ công việc hằng ngày"
+        "Kiến thức chuyên môn hạn hẹp khiến con người khó có thể thích nghi với những thay đổi nhanh chóng của thời đại.",
+        "Sự bảo thủ trong giao tiếp công sở làm giảm đi khả năng kết nối và hợp tác với những người tài năng xung quanh.",
+        "Thói quen tư duy và vùng an toàn kìm hãm tiềm năng phát triển của cá nhân trong công việc cũng như đời sống.",
+        "Những công cụ hỗ trợ công việc hằng ngày tạo ra sự phụ thuộc khiến con người mất đi khả năng sáng tạo độc lập."
       ],
-      "correctIndex": 1,
-      "explanation": "Vỏ sò là biểu tượng của môi trường an toàn, nơi chúng ta cảm thấy dễ chịu nhưng hoàn toàn bị cô lập khỏi những trải nghiệm mới và sự phát triển vượt bậc."
+      "correctIndex": 2,
+      "explanation": "Vỏ sò là biểu tượng của môi trường an toàn, nơi chúng ta dễ chịu nhưng bị cô lập khỏi những trải nghiệm mới."
     },
     {
       "id": "q8",
       "question": "Tại sao việc 'làm điều khó chịu' lại là một phần của sự lãnh đạo bản thân?",
       "options": [
-        "Để kiểm tra sức bền thể chất của cá nhân",
-        "Để lấy lòng cấp trên hoặc đồng nghiệp",
-        "Vì sự phát triển cá nhân tỉ lệ thuận với mức độ vượt qua sự khó chịu",
-        "Vì nó tạo ra hình ảnh mạnh mẽ trước đám đông"
+        "Để kiểm tra sức bền thể chất của cá nhân trong những tình huống áp lực cao đòi hỏi sự tập trung và kiên trì lớn.",
+        "Để lấy lòng cấp trên hoặc đồng nghiệp bằng cách thể hiện sự hy sinh cá nhân vì lợi ích chung của tập thể công ty.",
+        "Vì nó tạo ra hình ảnh mạnh mẽ trước đám đông và giúp cá nhân khẳng định vị thế của mình trong môi trường cạnh tranh.",
+        "Vì sự phát triển cá nhân tỉ lệ thuận với mức độ vượt qua sự khó chịu để mở rộng giới hạn năng lực của chính mình."
       ],
-      "correctIndex": 2,
-      "explanation": "Tăng trưởng chỉ xảy ra khi ta rời khỏi điểm cân bằng. Sự khó chịu là dấu hiệu cho thấy bạn đang 'mở rộng' giới hạn năng lực của mình."
+      "correctIndex": 3,
+      "explanation": "Tăng trưởng chỉ xảy ra khi ta rời khỏi điểm cân bằng, sự khó chịu là dấu hiệu bạn đang mở rộng giới hạn năng lực."
     },
     {
       "id": "q9",
       "question": "Khi tác giả nói 'Tại sao người đó lại không phải là bạn?', ông đang muốn kích thích điều gì?",
       "options": [
-        "Lòng tự trọng cá nhân và tính trách nhiệm đối với cuộc đời",
-        "Sự đố kỵ lành mạnh với thành công của người khác",
-        "Nhu cầu được nổi tiếng hơn người khác",
-        "Mong muốn chứng minh năng lực với những kẻ hoài nghi"
+        "Lòng tự trọng cá nhân và tính trách nhiệm đối với cuộc đời để chuyển dịch từ người quan sát sang người thực hiện.",
+        "Sự đố kỵ lành mạnh với thành công của người khác để tạo động lực thúc đẩy bản thân làm việc chăm chỉ hơn mỗi ngày.",
+        "Nhu cầu được nổi tiếng hơn người khác trong lĩnh vực mình theo đuổi để khẳng định giá trị bản thân với cộng đồng.",
+        "Mong muốn chứng minh năng lực với những kẻ hoài nghi đã từng coi thường khả năng của bạn trong quá khứ xa xôi."
       ],
       "correctIndex": 0,
-      "explanation": "Câu hỏi này đánh vào tư duy chủ động, chuyển dịch tâm thế từ người quan sát (thấy người khác thành công) sang người thực hiện (tự mình kiến tạo thành công)."
+      "explanation": "Câu hỏi này đánh vào tư duy chủ động, chuyển dịch tâm thế từ người quan sát sang người kiến tạo thành công."
     },
     {
       "id": "q10",
       "question": "Theo bài viết, rào cản lớn nhất ngăn cản con người thực hiện ước mơ thường đến từ đâu?",
       "options": [
-        "Thiếu vốn đầu tư",
-        "Sự phán xét hoặc hoài nghi của người khác và của chính bản thân mình",
-        "Thời gian bị hạn chế bởi công việc chính",
-        "Thiếu sự ủng hộ của gia đình"
+        "Thiếu vốn đầu tư tài chính cần thiết để triển khai các dự án sáng tạo đòi hỏi nguồn lực lớn từ bên ngoài xã hội.",
+        "Sự phán xét hoặc hoài nghi của người khác và của chính bản thân mình về khả năng hiện thực hóa các mục tiêu lớn.",
+        "Thời gian bị hạn chế bởi công việc chính khiến con người không thể tập trung toàn lực cho những đam mê cá nhân.",
+        "Thiếu sự ủng hộ của gia đình và người thân khiến cá nhân cảm thấy đơn độc trong hành trình theo đuổi ước mơ riêng."
       ],
       "correctIndex": 1,
-      "explanation": "Tác giả khẳng định: 'Đừng bao giờ để ai nói rằng ước mơ của bạn không thể trở thành hiện thực'. Điều này ám chỉ nỗi sợ hãi về sự phán xét là rào cản tâm lý chính."
+      "explanation": "Tác giả khẳng định đừng để ai nói ước mơ không thể thành hiện thực, ám chỉ nỗi sợ phán xét là rào cản tâm lý chính."
     },
     {
       "id": "q11",
-      "question": "Trong việc phát triển bản thân, việc học những kỹ năng mới khi đã lớn tuổi (như cách tác giả học nhạc) thể hiện điều gì?",
+      "question": "Việc tác giả học nhạc khi đã lớn tuổi thể hiện điều gì trong phát triển bản thân?",
       "options": [
-        "Sự lãng phí tài nguyên và thời gian",
-        "Sự dũng cảm từ bỏ tư duy 'mình đã biết hết'",
-        "Kỹ năng quản lý thời gian hiệu quả",
-        "Nhu cầu tìm kiếm một sở thích để giải trí"
+        "Sự lãng phí tài nguyên và thời gian vào những sở thích không mang lại giá trị kinh tế trực tiếp cho sự nghiệp chính.",
+        "Kỹ năng quản lý thời gian hiệu quả giúp cá nhân cân bằng giữa công việc chuyên môn và các hoạt động giải trí khác.",
+        "Sự dũng cảm từ bỏ tư duy mình đã biết hết để tiếp nhận tri thức mới và làm mới bản thân trong mọi hoàn cảnh.",
+        "Nhu cầu tìm kiếm một sở thích để giải trí sau những giờ làm việc căng thẳng nhằm duy trì sức khỏe tinh thần tốt."
       ],
-      "correctIndex": 1,
-      "explanation": "Đây là tư duy của một người không bao giờ ngừng lớn. Việc 'chập chững bắt đầu học' cho thấy khả năng xóa bỏ cái tôi cũ để tiếp nhận tri thức mới."
+      "correctIndex": 2,
+      "explanation": "Việc chập chững bắt đầu học cho thấy khả năng xóa bỏ cái tôi cũ để tiếp nhận tri thức mới của người không ngừng lớn."
     },
     {
       "id": "q12",
       "question": "Cách tác giả tương tác với đối tác tại phòng thu phản ánh nguyên tắc lãnh đạo nào?",
       "options": [
-        "Quyền lực của sự im lặng và lắng nghe",
-        "Tầm quan trọng của việc cộng tác với những người sáng tạo hơn mình",
-        "Chiến lược quản trị rủi ro thấp",
-        "Khả năng độc lập tác chiến không cần hỗ trợ"
+        "Quyền lực của sự im lặng và lắng nghe để thấu hiểu nhu cầu của đối tác trước khi đưa ra các quyết định quan trọng.",
+        "Chiến lược quản trị rủi ro thấp bằng cách chọn những người đồng hành có kinh nghiệm lâu năm trong ngành âm nhạc.",
+        "Khả năng độc lập tác chiến không cần hỗ trợ để đảm bảo tính nguyên bản của tác phẩm nghệ thuật mà mình tạo ra.",
+        "Tầm quan trọng của việc cộng tác với những người sáng tạo hơn mình để hiện thực hóa các ý tưởng đột phá nhất."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả chọn làm việc với những người sáng tạo nhất để hiện thực hóa ước mơ, đây là biểu hiện của người lãnh đạo biết tận dụng trí tuệ tập thể để đạt tầm cao mới."
+      "correctIndex": 3,
+      "explanation": "Tác giả chọn làm việc với những người sáng tạo nhất, thể hiện việc tận dụng trí tuệ tập thể để đạt tầm cao mới."
     },
     {
       "id": "q13",
       "question": "Việc tác giả nhắc lại chuyện chơi guitar dở ở trường luật nhằm mục đích gì?",
       "options": [
-        "Khoe khoang quá khứ",
-        "Cho thấy sự kiên trì theo đuổi đam mê bất chấp năng khiếu",
-        "Giải thích lý do ông chọn nghề luật",
-        "Tạo sự đồng cảm với những người cũng từng thất bại"
+        "Cho thấy sự kiên trì theo đuổi đam mê bất chấp năng khiếu bẩm sinh để tìm lại niềm vui trong cuộc sống cá nhân.",
+        "Khoe khoang quá khứ đầy màu sắc của mình để tạo sự gần gũi với độc giả trong các buổi chia sẻ về kinh nghiệm.",
+        "Giải thích lý do ông chọn nghề luật thay vì theo đuổi con đường nghệ thuật chuyên nghiệp từ khi còn rất trẻ tuổi.",
+        "Tạo sự đồng cảm với những người cũng từng thất bại trong việc học nhạc cụ khi còn ngồi trên ghế nhà trường xưa."
       ],
-      "correctIndex": 1,
-      "explanation": "Đam mê không nhất thiết phải bắt đầu bằng năng khiếu thiên bẩm. Quan trọng là lòng nhiệt thành và dám quay lại với ước mơ dù từng không thành công."
+      "correctIndex": 0,
+      "explanation": "Đam mê không nhất thiết bắt đầu bằng năng khiếu, quan trọng là lòng nhiệt thành và dám quay lại với ước mơ."
     },
     {
       "id": "q14",
       "question": "Sự khác biệt giữa tư duy người vượt trội và tư duy tầm thường thể hiện rõ nhất ở thái độ nào?",
       "options": [
-        "Người vượt trội tin vào số phận, kẻ tầm thường tin vào nỗ lực",
-        "Người vượt trội chủ động tạo ra thay đổi, kẻ tầm thường chờ đợi điều kiện thuận lợi",
-        "Người vượt trội luôn tránh rủi ro, kẻ tầm thường thường xuyên gặp thất bại",
-        "Người vượt trội quan tâm đến vật chất, kẻ tầm thường quan tâm đến cảm xúc"
+        "Người vượt trội tin vào số phận, kẻ tầm thường tin vào nỗ lực cá nhân để thay đổi hoàn cảnh sống của chính mình.",
+        "Người vượt trội chủ động tạo ra thay đổi, kẻ tầm thường chờ đợi điều kiện thuận lợi mới bắt đầu hành động thực tế.",
+        "Người vượt trội luôn tránh rủi ro, kẻ tầm thường thường xuyên gặp thất bại vì thiếu sự chuẩn bị kỹ lưỡng từ trước.",
+        "Người vượt trội quan tâm đến vật chất, kẻ tầm thường quan tâm đến cảm xúc trong các mối quan hệ xã hội hằng ngày."
       ],
       "correctIndex": 1,
-      "explanation": "Sự chủ động bước ra khỏi vùng an toàn để đối mặt với rủi ro chính là thước đo phân tách người có tư duy lãnh đạo và những người hài lòng với sự ổn định tầm thường."
+      "explanation": "Sự chủ động bước ra khỏi vùng an toàn để đối mặt với rủi ro là thước đo phân tách tư duy lãnh đạo và sự ổn định."
     },
     {
       "id": "q15",
-      "question": "Thông điệp cuối cùng của tác giả trong chương này hướng đến kết quả cuối cùng nào?",
+      "question": "Thông điệp cuối cùng của tác giả trong chương này hướng đến kết quả nào?",
       "options": [
-        "Đạt được sự giàu có về tài chính",
-        "Sống một cuộc đời trọn vẹn, không hối tiếc vì đã dám sống vượt trội",
-        "Trở thành người nổi tiếng trong lĩnh vực mình theo đuổi",
-        "Đạt được sự an nhàn sau những năm tháng nỗ lực"
+        "Đạt được sự giàu có về tài chính thông qua việc tận dụng các cơ hội kinh doanh mới trong môi trường đầy cạnh tranh.",
+        "Trở thành người nổi tiếng trong lĩnh vực mình theo đuổi để khẳng định giá trị bản thân với xã hội và cộng đồng.",
+        "Sống một cuộc đời trọn vẹn, không hối tiếc vì đã dám sống vượt trội và thực hiện những ước mơ của riêng mình.",
+        "Đạt được sự an nhàn sau những năm tháng nỗ lực làm việc để tận hưởng cuộc sống bình yên bên cạnh gia đình thân yêu."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả gọi những trải nghiệm này là 'phần trong câu chuyện riêng tư mà tôi gọi là cuộc đời', khẳng định giá trị của việc dám sống vượt trội hơn là kết quả thành bại đơn thuần."
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định giá trị của việc dám sống vượt trội hơn là kết quả thành bại đơn thuần trong cuộc đời."
     }
   ]
 }

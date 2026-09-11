@@ -6,198 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Hình ảnh võ sư Jigoro Kano (người sáng lập Judo) yêu cầu được chôn cất cùng chiếc đai trắng mang thông điệp cốt lõi nào về 'Con đường của sự tinh thông' (Mastery)?",
+      "question": "Hình ảnh võ sư Jigoro Kano yêu cầu được chôn cất cùng chiếc đai trắng mang thông điệp cốt lõi nào về sự tinh thông?",
       "options": [
-        "Sự tinh thông không phải là một đích đến cố định để tự mãn, mà là một hành trình học hỏi không có hồi kết; người đạt đỉnh cao luôn giữ tâm thế khiêm nhường của một người mới bắt đầu.",
-        "Đai trắng có giá trị tinh thần thiêng liêng hơn tất cả các cấp đai đen trong võ đạo phương Đông.",
-        "Võ sư muốn nhắc nhở học trò rằng kỹ thuật chiến đấu thực tế quan trọng hơn danh hiệu hình thức bên ngoài.",
-        "Sự tinh thông đòi hỏi phải từ bỏ mọi của cải vật chất và danh vọng khi về già."
+        "Sự tinh thông là hành trình học hỏi không có hồi kết, người đạt đỉnh cao luôn giữ tâm thế khiêm nhường của người mới.",
+        "Đai trắng mang giá trị tinh thần thiêng liêng hơn tất cả các cấp đai đen trong hệ thống võ đạo của phương Đông cổ.",
+        "Võ sư muốn nhắc nhở học trò rằng kỹ thuật chiến đấu thực tế luôn quan trọng hơn các danh hiệu hình thức bên ngoài.",
+        "Sự tinh thông đòi hỏi con người phải từ bỏ mọi của cải vật chất và danh vọng khi bước vào giai đoạn cuối đời mình."
       ],
       "correctIndex": 0,
-      "explanation": "Câu chuyện Jigoro Kano mang biểu tượng người mới nhập môn (đai trắng) vào cõi vĩnh hằng minh họa cho bản chất của sự tinh thông: đó là một con đường, một cách tư duy và hành trình học hỏi, tái học hỏi không ngừng. Sự sáng tạo của võ sĩ đai đen bắt nguồn từ việc thành thục các nguyên lý căn bản của đai trắng.",
-      "difficulty": "medium"
+      "explanation": "Câu chuyện Jigoro Kano minh họa bản chất của sự tinh thông: đó là một hành trình học hỏi không ngừng, nơi người bậc thầy vẫn giữ tâm thế của một người mới bắt đầu để tiếp tục phát triển."
     },
     {
       "id": "q2",
-      "question": "Dựa trên nghiên cứu của K. Anders Ericsson về 'Thực hành có chủ ý' (Deliberate Practice) và quy tắc 10.000 giờ, con số 4 giờ mỗi ngày cho Điều Quan Trọng Nhất được suy ra từ logic nào?",
+      "question": "Dựa trên nghiên cứu của K. Anders Ericsson, con số 4 giờ mỗi ngày cho Điều Quan Trọng Nhất được suy ra từ logic nào?",
       "options": [
-        "Đây là số giờ làm việc theo quy định của luật lao động quốc tế dành cho chuyên gia.",
-        "Để đạt 10.000 giờ trong 10 năm với khoảng 250 ngày làm việc mỗi năm (50 tuần x 5 ngày), một người cần trung bình 4 giờ luyện tập có chủ ý mỗi ngày.",
-        "Não bộ con người chỉ có thể tỉnh táo tối đa 4 giờ trong một ngày 24 tiếng.",
-        "Con số 4 giờ được lựa chọn ngẫu nhiên dựa trên thói quen sinh hoạt của các nghệ sĩ phương Tây."
+        "Đây là số giờ làm việc tối ưu theo quy định của luật lao động quốc tế dành cho các chuyên gia trong mọi lĩnh vực.",
+        "Để đạt 10.000 giờ trong 10 năm với 250 ngày làm việc mỗi năm, một người cần trung bình 4 giờ luyện tập có chủ ý mỗi ngày.",
+        "Não bộ con người chỉ có thể duy trì sự tập trung cao độ tối đa trong khoảng 4 giờ đồng hồ trong một ngày làm việc.",
+        "Con số 4 giờ được tác giả lựa chọn ngẫu nhiên dựa trên thói quen sinh hoạt phổ biến của các nghệ sĩ ưu tú phương Tây."
       ],
       "correctIndex": 1,
-      "explanation": "Ericsson chỉ ra những nghệ nhân ưu tú tích lũy 10.000 giờ rèn luyện có chủ ý trong khoảng 10 năm. Gary Keller thực hiện phép tính: Nếu bạn làm việc 250 ngày/năm, để hoàn thành hành trình tinh thông trong 10 năm, bạn cần trung bình đúng 4 giờ/ngày. Đó chính là cơ sở khoa học cho khối thời gian 4 tiếng mỗi ngày.",
-      "difficulty": "hard"
+      "explanation": "Tác giả tính toán dựa trên quy tắc 10.000 giờ: 10.000 giờ chia cho 10 năm, chia cho 250 ngày làm việc mỗi năm bằng đúng 4 giờ mỗi ngày."
     },
     {
       "id": "q3",
-      "question": "Câu nói nổi tiếng của danh họa Michelangelo: 'Nếu mọi người biết tôi đã vất vả ra sao để đạt được sự thông thạo của mình, họ sẽ thấy mọi chuyện chẳng có vẻ gì là tuyệt vời cả' nhằm phản bác định kiến sai lầm nào?",
+      "question": "Câu nói của Michelangelo về sự vất vả nhằm phản bác định kiến sai lầm nào về thành tựu phi thường của con người?",
       "options": [
-        "Định kiến cho rằng nghệ thuật điêu khắc đòi hỏi chi phí vật liệu quá tốn kém.",
-        "Quan niệm rằng sự khổ luyện trong nghệ thuật là không cần thiết nếu có người bảo trợ giàu có.",
-        "Ảo tưởng cho rằng thành tựu phi thường là do 'tài năng bẩm sinh' hoặc năng khiếu kỳ diệu tự phát, trong khi thực tế sự thục luyện bền bỉ mới là yếu tố quyết định.",
-        "Định kiến rằng hội họa và điêu khắc thời Phục hưng chỉ dành cho giới quý tộc."
+        "Định kiến cho rằng nghệ thuật điêu khắc đòi hỏi chi phí vật liệu quá tốn kém nên chỉ dành cho giới quý tộc giàu có.",
+        "Quan niệm rằng sự khổ luyện trong nghệ thuật là không cần thiết nếu cá nhân có được sự bảo trợ từ những người giàu.",
+        "Ảo tưởng cho rằng thành tựu phi thường là do tài năng bẩm sinh, trong khi thực tế sự thục luyện bền bỉ mới là quyết định.",
+        "Định kiến rằng hội họa và điêu khắc thời Phục hưng chỉ là những kỹ năng thủ công đơn giản không cần đến tư duy sâu."
       ],
       "correctIndex": 2,
-      "explanation": "Michelangelo vạch trần ảo tưởng của công chúng: người ta thường thần thánh hóa kết quả và gán cho nó mỹ từ 'thiên bẩm' để tự tha thứ cho sự lười biếng của mình. Thực chất, sự thục luyện, kiên trì và lao động miệt mài có chủ ý luôn đánh bại tài năng thuần túy.",
-      "difficulty": "medium"
+      "explanation": "Michelangelo vạch trần việc công chúng thần thánh hóa 'tài năng bẩm sinh' để biện minh cho sự thiếu nỗ lực của chính họ, khẳng định sự thục luyện đánh bại tài năng."
     },
     {
       "id": "q4",
-      "question": "Sự khác biệt BẢN CHẤT giữa phương pháp tiếp cận 'Làm khoán' (E - Entrepreneurial) và 'Có mục đích' (P - Purposeful) khi đối mặt với một nhiệm vụ là gì?",
+      "question": "Sự khác biệt bản chất giữa phương pháp tiếp cận 'Làm khoán' (E) và 'Có mục đích' (P) khi đối mặt với nhiệm vụ là gì?",
       "options": [
-        "Người 'E' chỉ làm việc khi được trả lương cao, trong khi người 'P' luôn làm việc thiện nguyện.",
-        "Người 'E' làm việc theo kế hoạch chi tiết, còn người 'P' hoàn toàn hành động theo trực giác ngẫu hứng.",
-        "Người 'E' thích làm việc nhóm, còn người 'P' luôn làm việc độc lập và khép kín.",
-        "Người 'E' dựa vào nhiệt tình, năng lượng và khả năng tự nhiên sẵn có; trong khi người 'P' chủ động vượt qua giới hạn tự nhiên bằng cách tìm kiếm mô hình mới, hệ thống mới và công cụ đột phá."
+        "Người E chỉ làm việc khi được trả lương cao, trong khi người P luôn làm việc với tinh thần thiện nguyện và không vụ lợi.",
+        "Người E làm việc theo kế hoạch chi tiết, còn người P hoàn toàn hành động theo trực giác ngẫu hứng trong mọi tình huống.",
+        "Người E thích làm việc nhóm để chia sẻ áp lực, còn người P luôn làm việc độc lập và khép kín để bảo vệ ý tưởng riêng.",
+        "Người E dựa vào năng lực tự nhiên sẵn có, còn người P chủ động vượt giới hạn bằng cách tìm kiếm mô hình và hệ thống mới."
       ],
       "correctIndex": 3,
-      "explanation": "Tác giả nêu ví dụ ẩn dụ: Bảo đốn củi, người 'E' lập tức vác rìu đi thẳng vào rừng dựa vào sức khỏe sẵn có; còn người 'P' dừng lại và hỏi 'Tôi có thể lấy cưa máy ở đâu?'. Người 'P' không chấp nhận trần giới hạn của khả năng bẩm sinh mà chủ động tìm kiếm giải pháp có đòn bẩy cao hơn.",
-      "difficulty": "medium"
+      "explanation": "Người E dùng khả năng thiên bẩm làm giới hạn, trong khi người P tìm kiếm công cụ, hệ thống và tư duy mới để bứt phá giới hạn đó."
     },
     {
       "id": "q5",
-      "question": "Khái niệm 'Trạng thái bình ổn' (OK Plateau) của Joshua Foer (được minh họa bằng kỹ năng gõ bàn phím) chỉ ra hiện tượng tâm lý nào trong quá trình phát triển kỹ năng?",
+      "question": "Khái niệm 'Trạng thái bình ổn' (OK Plateau) chỉ ra hiện tượng tâm lý nào trong quá trình phát triển kỹ năng con người?",
       "options": [
-        "Khi đã đạt đến một mức độ thành thạo 'chấp nhận được', con người có xu hướng chuyển sang chế độ tự động hóa và dừng học hỏi, khiến năng suất dậm chân tại chỗ dù có làm việc thêm hàng chục năm.",
-        "Bàn phím máy tính bị giới hạn phần cứng nên không ai có thể gõ nhanh hơn 100 từ/phút.",
-        "Mọi kỹ năng đều suy giảm nghiêm trọng sau khi con người bước qua tuổi 30.",
-        "Càng nỗ lực luyện tập thì tốc độ gõ phím càng trở nên chậm chạp hơn do mỏi cơ bàn tay."
+        "Khi đạt mức độ thành thạo chấp nhận được, con người có xu hướng tự động hóa và dừng học hỏi khiến năng suất dậm chân.",
+        "Bàn phím máy tính bị giới hạn phần cứng nên không ai có thể gõ nhanh hơn tốc độ 100 từ mỗi phút trong điều kiện thường.",
+        "Mọi kỹ năng của con người đều suy giảm nghiêm trọng sau khi bước qua tuổi 30 do sự lão hóa tự nhiên của hệ thần kinh.",
+        "Càng nỗ lực luyện tập thì tốc độ gõ phím càng trở nên chậm chạp hơn do sự mỏi cơ bàn tay tích tụ sau thời gian dài."
       ],
       "correctIndex": 0,
-      "explanation": "Foer chỉ ra: Nếu chỉ thời gian thực hành là đủ, chúng ta gõ hàng triệu email thì ai cũng phải gõ 100 từ/phút. Nhưng thực tế chúng ta dừng lại ở mức 'đủ tốt' (OK Plateau) và vận hành tự động. Để bứt phá trần này, bắt buộc phải có phương pháp tiếp cận có mục đích (P) với sự thực hành có chủ ý.",
-      "difficulty": "hard"
+      "explanation": "Trạng thái bình ổn xảy ra khi chúng ta đạt đến mức 'đủ tốt' và ngừng nỗ lực cải thiện, dẫn đến việc kỹ năng không thể tiến xa hơn dù có thực hành."
     },
     {
       "id": "q6",
-      "question": "Khi tiếp cận công việc theo tư duy 'Làm khoán' (E) và va phải trần giới hạn thành tích, cá nhân thường rơi vào chu kỳ luẩn quẩn độc hại nào?",
+      "question": "Khi tiếp cận công việc theo tư duy 'Làm khoán' (E) và va phải trần giới hạn, cá nhân thường rơi vào chu kỳ luẩn quẩn nào?",
       "options": [
-        "Họ ngay lập tức thuê chuyên gia tư vấn để tái cấu trúc lại toàn bộ hệ thống làm việc.",
-        "Họ va đập vào trần thành tích nhiều lần, rơi vào thất vọng, rồi kết luận mình đã 'hết sức' và chọn cách 'bắt đầu lại từ đầu' ở một mục tiêu mới để rồi lại lặp lại sự bế tắc tương tự.",
-        "Họ kiên nhẫn phân tích nguyên nhân cốt lõi và phát triển những kỹ năng hoàn toàn mới.",
-        "Họ quyết định từ bỏ vĩnh viễn mọi hoạt động nghề nghiệp và sống dựa vào trợ cấp."
+        "Họ ngay lập tức thuê chuyên gia tư vấn để tái cấu trúc lại toàn bộ hệ thống làm việc nhằm tìm ra giải pháp đột phá.",
+        "Họ va đập vào trần thành tích, thất vọng, rồi chọn cách bắt đầu lại ở mục tiêu mới để rồi lại lặp lại sự bế tắc cũ.",
+        "Họ kiên nhẫn phân tích nguyên nhân cốt lõi của vấn đề và phát triển những kỹ năng hoàn toàn mới để vượt qua giới hạn.",
+        "Họ quyết định từ bỏ vĩnh viễn mọi hoạt động nghề nghiệp chuyên môn và sống dựa vào trợ cấp xã hội trong thời gian dài."
       ],
       "correctIndex": 1,
-      "explanation": "Người theo lối 'E' khi chạm trần tự nhiên sẽ bị dội ngược lại, thất vọng và chán nản. Họ ngộ nhận rằng 'bắt đầu lại' việc khác là giải pháp, nhưng sang việc mới họ lại dùng đúng năng lượng và khả năng cũ, tiếp tục chạm trần và lại thất vọng. Đó là vòng luẩn quẩn của sự tầm thường.",
-      "difficulty": "hard"
+      "explanation": "Người E không thay đổi phương pháp, họ chỉ đổi mục tiêu. Khi gặp giới hạn ở mục tiêu mới, họ lại thất vọng và tiếp tục vòng lặp vô tận này."
     },
     {
       "id": "q7",
       "question": "Khi người có tư duy 'Có mục đích' (P) chạm trần giới hạn năng lực, nguyên tắc hành động bất biến của họ là gì?",
       "options": [
-        "Tự trấn an bản thân rằng kết quả hiện tại đã là tối ưu so với mặt bằng chung thị trường.",
-        "Tăng gấp đôi số giờ làm việc mỗi ngày bằng cách thức trắng đêm để hoàn thành định mức cũ.",
-        "Tuân theo quy tắc 'một kết quả khác biệt đòi hỏi một hành động khác biệt' — sẵn sàng đón nhận tư duy mới, rèn luyện kỹ năng mới và thiết lập các mối quan hệ mới.",
-        "Chuyển giao toàn bộ dự án cho đối thủ cạnh tranh để bảo toàn nguồn vốn hiện có."
+        "Tự trấn an bản thân rằng kết quả hiện tại đã là tối ưu so với mặt bằng chung của thị trường lao động hiện nay rồi.",
+        "Tăng gấp đôi số giờ làm việc mỗi ngày bằng cách thức trắng đêm để hoàn thành định mức cũ với cường độ cao hơn nữa.",
+        "Tuân theo quy tắc một kết quả khác biệt đòi hỏi hành động khác biệt, sẵn sàng đón nhận tư duy và kỹ năng mới mẻ.",
+        "Chuyển giao toàn bộ dự án cho đối thủ cạnh tranh để bảo toàn nguồn vốn hiện có và tìm kiếm cơ hội đầu tư an toàn."
       ],
       "correctIndex": 2,
-      "explanation": "Người có mục đích (P) không chấp nhận trần giới hạn. Câu thần chú của họ là: 'Một kết quả khác biệt cần một hành động khác biệt'. Họ chủ động tìm kiếm các mô hình/hệ thống vượt trội, đồng thời chấp nhận thử thách học kỹ năng mới và mở rộng quan hệ để tạo bước đột phá.",
-      "difficulty": "medium"
+      "explanation": "Người P hiểu rằng để có kết quả khác biệt, họ phải thay đổi hành động, tìm kiếm mô hình mới và học hỏi kỹ năng mới thay vì cố gắng làm cái cũ."
     },
     {
       "id": "q8",
-      "question": "Vì sao Gary Keller khẳng định 'Sống có trách nhiệm' (Accountability) là cam kết giữ vai trò QUAN TRỌNG NHẤT trong cả ba cam kết?",
+      "question": "Vì sao Gary Keller khẳng định 'Sống có trách nhiệm' là cam kết giữ vai trò quan trọng nhất trong ba cam kết?",
       "options": [
-        "Vì trách nhiệm là tiêu chuẩn pháp lý bắt buộc trong mọi hợp đồng lao động doanh nghiệp.",
-        "Vì tính trách nhiệm giúp loại bỏ hoàn toàn khả năng xảy ra rủi ro trong kinh doanh.",
-        "Vì người có trách nhiệm luôn được đồng nghiệp bầu chọn làm lãnh đạo công đoàn.",
-        "Vì nếu không có tinh thần trách nhiệm, bạn sẽ sắm vai nạn nhân khi gặp trở ngại; hành trình tinh thông sẽ đứt gãy và bạn sẽ không bao giờ tìm cách vượt qua trần giới hạn từ E sang P."
+        "Vì trách nhiệm là tiêu chuẩn pháp lý bắt buộc trong mọi hợp đồng lao động tại các doanh nghiệp lớn trên toàn thế giới.",
+        "Vì tính trách nhiệm giúp loại bỏ hoàn toàn khả năng xảy ra rủi ro trong kinh doanh và đảm bảo lợi nhuận bền vững.",
+        "Vì người có trách nhiệm luôn được đồng nghiệp bầu chọn làm lãnh đạo công đoàn trong các tổ chức chuyên nghiệp hiện nay.",
+        "Vì nếu không có trách nhiệm, bạn sẽ sắm vai nạn nhân, hành trình tinh thông sẽ đứt gãy và bạn không vượt qua trần E sang P."
       ],
       "correctIndex": 3,
-      "explanation": "Keller nhấn mạnh: 'Trách nhiệm giữ vai trò quan trọng nhất trong ba cam kết. Nếu không có nó, cuộc hành trình dẫn đến sự tinh thông sẽ gián đoạn khi bạn gặp phải thách thức. Nếu không có nó, bạn sẽ không tìm ra cách phá vỡ các giới hạn thành tích gặp phải.' Không có trách nhiệm, bạn sẽ luôn đổ lỗi và dừng bước.",
-      "difficulty": "hard"
+      "explanation": "Trách nhiệm là nền tảng. Không có nó, khi gặp khó khăn, người ta sẽ đổ lỗi và đóng vai nạn nhân thay vì tìm giải pháp để bứt phá."
     },
     {
       "id": "q9",
-      "question": "Trong câu chuyện hai nhà quản lý đối diện với việc sụt giảm khách hàng đột ngột, phản ứng nào bộc lộ rõ nhất bản chất của thái độ 'Nạn nhân' (Victim)?",
+      "question": "Trong câu chuyện hai nhà quản lý đối diện với việc sụt giảm khách hàng, phản ứng nào bộc lộ rõ nhất thái độ 'Nạn nhân'?",
       "options": [
-        "Phủ nhận thực tế ('chỉ là một tháng không may'), đổ lỗi cho nhân viên ('nếu họ làm tốt thì đã không sao'), thoái thác ('đó không phải việc của tôi') và ngồi chờ phép màu.",
-        "Chủ động họp bàn với nhân viên để tối ưu hóa quy trình dịch vụ và sản phẩm.",
-        "Nhanh chóng tiến hành khảo sát khách hàng để tìm hiểu sự thay đổi thị hiếu.",
-        "Phân tích chiến lược của đối thủ cạnh tranh để tìm ra lỗ hổng thị phần của cửa hàng mình."
+        "Phủ nhận thực tế, đổ lỗi cho nhân viên, thoái thác trách nhiệm và hy vọng mọi thứ sẽ tự tốt lên mà không hành động.",
+        "Chủ động họp bàn với nhân viên để tối ưu hóa quy trình dịch vụ và sản phẩm nhằm thu hút lại lượng khách hàng đã mất.",
+        "Nhanh chóng tiến hành khảo sát khách hàng để tìm hiểu sự thay đổi thị hiếu và điều chỉnh chiến lược kinh doanh kịp.",
+        "Phân tích chiến lược của đối thủ cạnh tranh để tìm ra lỗ hổng thị phần của cửa hàng mình và đưa ra giải pháp mới."
       ],
       "correctIndex": 0,
-      "explanation": "Người sắm vai nạn nhân luôn trải qua 4 bước thoái thác: Phủ nhận thực tế -> Đổ lỗi cho người khác -> Đưa ra lý do biện hộ ('không phải việc của tôi') -> Hy vọng thụ động. Ngược lại, người có trách nhiệm thừa nhận thực tế ('Có vấn đề gì đó?') và tìm giải pháp ('Tôi có thể làm gì?').",
-      "difficulty": "easy"
+      "explanation": "Người đóng vai nạn nhân luôn phủ nhận thực tế, đổ lỗi cho hoàn cảnh hoặc người khác, và chờ đợi thụ động thay vì tự mình tìm giải pháp."
     },
     {
       "id": "q10",
-      "question": "Nghiên cứu của Tiến sĩ Gail Matthews đã chỉ ra yếu tố then chốt nào giúp nâng xác suất hoàn thành mục tiêu từ 39,5% lên tới 76,7%?",
+      "question": "Nghiên cứu của Tiến sĩ Gail Matthews chỉ ra yếu tố then chốt nào giúp nâng xác suất hoàn thành mục tiêu lên 76,7%?",
       "options": [
-        "Tự thưởng cho bản thân một món quà đắt tiền sau mỗi tuần làm việc chăm chỉ.",
-        "Không chỉ viết mục tiêu ra giấy, mà còn định kỳ gửi báo cáo tiến độ hướng tới mục tiêu đó cho một người bạn/đối tác tin cậy.",
-        "Giữ bí mật tuyệt đối về mục tiêu cá nhân để tránh sự soi mói của người xung quanh.",
-        "Đăng tải mục tiêu lên mạng xã hội để thu hút thật nhiều lượt thích và bình luận ủng hộ."
+        "Tự thưởng cho bản thân một món quà đắt tiền sau mỗi tuần làm việc chăm chỉ để duy trì động lực thực hiện mục tiêu.",
+        "Viết mục tiêu ra giấy và định kỳ gửi báo cáo tiến độ hướng tới mục tiêu đó cho một người bạn hoặc đối tác tin cậy.",
+        "Giữ bí mật tuyệt đối về mục tiêu cá nhân để tránh sự soi mói và những lời bàn tán tiêu cực từ những người xung quanh.",
+        "Đăng tải mục tiêu lên mạng xã hội để thu hút thật nhiều lượt thích và bình luận ủng hộ từ cộng đồng mạng trực tuyến."
       ],
       "correctIndex": 1,
-      "explanation": "Viết mục tiêu ra giấy giúp tăng khả năng thành công lên 39,5%. Nhưng việc viết ra VÀ gửi báo cáo tiến độ thường xuyên cho một người bạn/đối tác trách nhiệm đẩy tỷ lệ thành công lên 76,7% (tăng gần gấp đôi!). Tính trách nhiệm giải trình trước người khác tạo ra động lực thực thi cực lớn.",
-      "difficulty": "medium"
+      "explanation": "Việc chia sẻ tiến độ với người khác tạo ra áp lực trách nhiệm giải trình, giúp tăng đáng kể khả năng hoàn thành mục tiêu so với chỉ viết ra."
     },
     {
       "id": "q11",
-      "question": "Theo Gary Keller, một 'Huấn luyện viên' (Coach) hoặc 'Đối tác trách nhiệm' đích thực KHÁC BIỆT như thế nào so với một thành viên đội cổ vũ (cheerleader)?",
+      "question": "Theo Gary Keller, một 'Huấn luyện viên' đích thực khác biệt thế nào so với một thành viên đội cổ vũ thông thường?",
       "options": [
-        "Huấn luyện viên luôn khen ngợi vô điều kiện để duy trì sự hưng phấn cho bạn.",
-        "Huấn luyện viên sẽ trực tiếp làm thay những phần việc phức tạp nhất trong dự án của bạn.",
-        "Huấn luyện viên đưa ra phản hồi thẳng thắn, khách quan về hiệu suất thực tế, thiết lập kỳ vọng về sự tiến bộ liên tục và giữ cho bạn luôn trung thực với cam kết của chính mình.",
-        "Huấn luyện viên chỉ tập trung trừng phạt và phạt tiền mỗi khi bạn không đạt chỉ tiêu."
+        "Huấn luyện viên luôn khen ngợi vô điều kiện để duy trì sự hưng phấn và tinh thần lạc quan cho bạn trong mọi tình huống.",
+        "Huấn luyện viên sẽ trực tiếp làm thay những phần việc phức tạp nhất trong dự án của bạn để đảm bảo kết quả hoàn hảo.",
+        "Huấn luyện viên đưa ra phản hồi thẳng thắn, khách quan về hiệu suất, thiết lập kỳ vọng tiến bộ và giữ bạn trung thực.",
+        "Huấn luyện viên chỉ tập trung trừng phạt và phạt tiền mỗi khi bạn không đạt chỉ tiêu đã đề ra trong kế hoạch ban đầu."
       ],
       "correctIndex": 2,
-      "explanation": "Đối tác trách nhiệm không đơn thuần là người cổ vũ động viên. Giá trị tối cao của một huấn luyện viên là đưa ra góc nhìn khách quan, phản hồi trung thực không né tránh, đòi hỏi sự cải thiện liên tục và buộc bạn phải chịu trách nhiệm về các kết quả của mình.",
-      "difficulty": "medium"
+      "explanation": "Huấn luyện viên không chỉ cổ vũ, họ là người phản biện, chỉ ra điểm yếu và buộc bạn phải chịu trách nhiệm để đạt kết quả tốt nhất."
     },
     {
       "id": "q12",
-      "question": "Phát hiện sâu sắc nhất của Ericsson khi nghiên cứu sự khác biệt giữa các nghệ sĩ/vận động viên nghiệp dư và những người đạt hiệu suất đỉnh cao là gì?",
+      "question": "Phát hiện sâu sắc nhất của Ericsson khi nghiên cứu sự khác biệt giữa người nghiệp dư và người đạt hiệu suất đỉnh cao là gì?",
       "options": [
-        "Các cá nhân xuất chúng sinh ra trong các gia đình có truyền thống nghệ thuật lâu đời.",
-        "Nhóm nghiệp dư tập luyện nhiều giờ hơn nhưng không có chế độ dinh dưỡng khoa học.",
-        "Người xuất chúng có chỉ số IQ vượt trội so với nhóm nghiệp dư.",
-        "Khác biệt sống còn duy nhất là người xuất chúng luôn chủ động tìm kiếm các bậc thầy, huấn luyện viên giỏi và tham gia vào quá trình đào tạo có giám sát nghiêm ngặt."
+        "Các cá nhân xuất chúng thường sinh ra trong các gia đình có truyền thống nghệ thuật lâu đời và có điều kiện kinh tế.",
+        "Nhóm nghiệp dư tập luyện nhiều giờ hơn nhưng không có chế độ dinh dưỡng khoa học để hỗ trợ cho quá trình rèn luyện.",
+        "Người xuất chúng có chỉ số IQ vượt trội so với nhóm nghiệp dư nên họ tiếp thu kiến thức nhanh hơn người bình thường.",
+        "Người xuất chúng luôn chủ động tìm kiếm các bậc thầy, huấn luyện viên giỏi và tham gia vào quá trình đào tạo giám sát."
       ],
       "correctIndex": 3,
-      "explanation": "Ericsson chỉ rõ: Điểm khác biệt quan trọng duy nhất giữa người nghiệp dư và người biểu diễn xuất chúng là các tài năng ưu tú luôn tìm kiếm thầy dạy/huấn luyện viên và tham gia đào tạo có giám sát, trong khi người nghiệp dư hiếm khi làm vậy mà chỉ tự mày mò theo thói quen.",
-      "difficulty": "hard"
+      "explanation": "Sự khác biệt không nằm ở tài năng bẩm sinh mà ở việc tìm kiếm sự hướng dẫn chuyên môn và đào tạo có giám sát để liên tục cải thiện."
     },
     {
       "id": "q13",
-      "question": "Ba cam kết: (1) Tinh thông, (2) Đi từ E sang P, và (3) Sống có trách nhiệm tạo nên một hệ sinh thái hành động thống nhất như thế nào?",
+      "question": "Ba cam kết: Tinh thông, Đi từ E sang P, và Sống có trách nhiệm tạo nên một hệ sinh thái hành động thống nhất thế nào?",
       "options": [
-        "Tinh thông là ý chí nỗ lực hết mình; Đi từ E sang P là cam kết áp dụng phương pháp tốt nhất; Sống có trách nhiệm là thái độ sở hữu kết quả bảo đảm bạn không bao giờ bỏ cuộc hay đổ lỗi.",
-        "Tinh thông là phương tiện kiếm tiền, E sang P là nghệ thuật đàm phán, Sống có trách nhiệm là nghĩa vụ đạo đức.",
-        "Cả ba cam kết này hoàn toàn độc lập và chỉ nên áp dụng một cam kết duy nhất trong từng giai đoạn sự nghiệp.",
-        "Chúng chỉ áp dụng cho các chủ doanh nghiệp khởi nghiệp, không phù hợp cho nhân viên làm công ăn lương."
+        "Tinh thông là nỗ lực hết mình, E sang P là phương pháp tốt nhất, trách nhiệm là thái độ sở hữu kết quả để không bỏ cuộc.",
+        "Tinh thông là phương tiện kiếm tiền, E sang P là nghệ thuật đàm phán, Sống có trách nhiệm là nghĩa vụ đạo đức cơ bản.",
+        "Cả ba cam kết này hoàn toàn độc lập và chỉ nên áp dụng một cam kết duy nhất trong từng giai đoạn sự nghiệp của bạn.",
+        "Chúng chỉ áp dụng cho các chủ doanh nghiệp khởi nghiệp, không phù hợp cho nhân viên làm công ăn lương trong công ty."
       ],
       "correctIndex": 0,
-      "explanation": "Đây là kiềng 3 chân của hiệu suất đỉnh cao: Cam kết nỗ lực hết mình để thành thạo việc quan trọng nhất (Tinh thông); cam kết không dừng lại ở trần giới hạn mà luôn tìm cách tốt nhất (E sang P); và cam kết chịu trách nhiệm 100% về kết quả mà không đóng vai nạn nhân (Sống có trách nhiệm).",
-      "difficulty": "medium"
+      "explanation": "Đây là kiềng ba chân: Cam kết nỗ lực (Tinh thông), cam kết phương pháp (E sang P), và cam kết sở hữu kết quả (Trách nhiệm) để đạt hiệu suất đỉnh cao."
     },
     {
       "id": "q14",
-      "question": "Tình huống: Một chuyên viên bán hàng có 5 năm kinh nghiệm, luôn chăm chỉ gọi điện cho khách hàng bằng danh bạ cũ nhưng doanh số 2 năm qua không tăng. Theo Chương 16, bước chuyển biến từ 'E' sang 'P' của người này nên là gì?",
+      "question": "Chuyên viên bán hàng 5 năm kinh nghiệm doanh số không tăng, bước chuyển từ E sang P của người này nên là gì?",
       "options": [
-        "Tăng số lượng cuộc gọi từ 50 lên 100 cuộc mỗi ngày bằng cách rút ngắn thời gian ăn trưa.",
-        "Dừng việc gọi điện theo bản năng; nghiên cứu mô hình phễu chuyển đổi hiện đại, học kỹ năng bán hàng tư vấn giá trị cao và tìm một mentor xuất sắc để phản biện kịch bản tiếp cận.",
-        "Chuyển sang làm việc cho một công ty khác trong cùng ngành để tìm kiếm vận may mới.",
-        "Yêu cầu ban giám đốc giảm giá bán sản phẩm để dễ chốt đơn hơn."
+        "Tăng số lượng cuộc gọi từ 50 lên 100 cuộc mỗi ngày bằng cách rút ngắn thời gian ăn trưa và nghỉ ngơi của bản thân lại.",
+        "Dừng gọi điện theo bản năng, nghiên cứu mô hình phễu hiện đại, học kỹ năng bán hàng giá trị cao và tìm một mentor giỏi.",
+        "Chuyển sang làm việc cho một công ty khác trong cùng ngành để tìm kiếm vận may mới với hy vọng thay đổi được kết quả.",
+        "Yêu cầu ban giám đốc giảm giá bán sản phẩm để dễ chốt đơn hơn với khách hàng trong bối cảnh thị trường đang khó khăn."
       ],
       "correctIndex": 1,
-      "explanation": "Chuyên viên này đang mắc kẹt ở trần năng lực tự nhiên của lối tiếp cận 'Làm khoán' (E). Đơn thuần gọi nhiều hơn chỉ dẫn đến kiệt sức. Chuyển sang 'P' đòi hỏi anh ta phải tìm kiếm hệ thống/mô hình mới (Social Selling, Inbound, Value selling), học kỹ năng mới và có người huấn luyện phản biện.",
-      "difficulty": "hard"
+      "explanation": "Người này đang kẹt ở trần năng lực của E. Chuyển sang P đòi hỏi thay đổi hệ thống, học kỹ năng mới và có người huấn luyện phản biện."
     },
     {
       "id": "q15",
-      "question": "Khi đối diện với thất bại trong công việc, câu nói: 'Tôi đã cố hết sức rồi, nhưng do các phòng ban khác phối hợp kém nên dự án mới đổ bể' phản ánh cái bẫy tư duy nào?",
+      "question": "Câu nói: 'Tôi đã cố hết sức rồi, nhưng do các phòng ban khác phối hợp kém nên dự án mới đổ bể' phản ánh cái bẫy tư duy nào?",
       "options": [
-        "Tư duy phản biện khách quan giúp ban giám đốc nhìn rõ điểm nghẽn quy trình.",
-        "Sự trung thực thẳng thắn đáng được khen ngợi trong văn hóa doanh nghiệp hiện đại.",
-        "Tâm lý đóng vai nạn nhân (Victim mindset), che giấu sự bất lực của phương pháp tiếp cận 'E' bằng cách trút bỏ quyền làm chủ và đổ lỗi cho các yếu tố bên ngoài.",
-        "Chiến lược bảo vệ bản thân hợp lý để tránh bị trừ lương thưởng cuối năm."
+        "Tư duy phản biện khách quan giúp ban giám đốc nhìn rõ điểm nghẽn quy trình để cải thiện hiệu suất cho các dự án sau.",
+        "Sự trung thực thẳng thắn đáng được khen ngợi trong văn hóa doanh nghiệp hiện đại để xây dựng môi trường làm việc mở.",
+        "Tâm lý đóng vai nạn nhân, che giấu sự bất lực của phương pháp tiếp cận E bằng cách trút bỏ quyền làm chủ và đổ lỗi.",
+        "Chiến lược bảo vệ bản thân hợp lý để tránh bị trừ lương thưởng cuối năm do những sai sót không thuộc về cá nhân mình."
       ],
       "correctIndex": 2,
-      "explanation": "Đây là biểu hiện kinh điển của tâm lý nạn nhân: tự an ủi bằng 'đã cố hết sức' (cái bẫy của E - chỉ làm hết khả năng tự nhiên chứ không làm điều tốt nhất có thể) và ngay lập tức trút trách nhiệm sang người khác. Người có trách nhiệm sẽ hỏi: 'Tôi có thể làm gì khác đi trong khâu phối hợp để kết quả tốt hơn?'.",
-      "difficulty": "medium"
+      "explanation": "Đây là biểu hiện của nạn nhân: dùng 'đã cố hết sức' để biện minh cho sự thiếu hiệu quả của phương pháp E và đổ lỗi cho người khác."
     }
   ]
 }

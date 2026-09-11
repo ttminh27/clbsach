@@ -8,22 +8,22 @@
       "id": "q1",
       "question": "Tại sao tác giả cho rằng việc lập kế hoạch cuộc đời mang tính 'tác động đến tâm trí' thay vì chỉ là công cụ quản lý thời gian?",
       "options": [
-        "Giúp ghi nhớ các đầu việc quan trọng không bỏ sót",
-        "Giúp tâm trí tập trung vào điều quan trọng và nâng cao nhận thức",
-        "Giúp tăng cường năng suất lao động trong ngắn hạn",
-        "Giúp giảm bớt áp lực từ những kỳ vọng của người khác"
+        "Giúp tâm trí tập trung vào điều quan trọng nhất, từ đó nâng cao nhận thức để đưa ra những lựa chọn đúng đắn trong đời.",
+        "Giúp ghi nhớ các đầu việc quan trọng không bị bỏ sót trong quá trình thực hiện công việc hằng ngày của mỗi cá nhân.",
+        "Giúp tăng cường năng suất lao động trong ngắn hạn bằng cách tối ưu hóa quy trình làm việc của từng cá nhân cụ thể.",
+        "Giúp giảm bớt áp lực từ những kỳ vọng của người khác bằng cách thiết lập ranh giới rõ ràng cho các mục tiêu cá nhân."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Tác giả nhấn mạnh vào sự chuyển dịch trong nhận thức. Khi viết xuống, tâm trí ta được định hướng lại, từ đó giúp ta đưa ra lựa chọn sáng suốt hơn thay vì chỉ làm việc theo thói quen."
     },
     {
       "id": "q2",
-      "question": "Một người dành nhiều thời gian lập kế hoạch chi tiết nhưng vẫn thất bại trong thực tế. Đâu là điểm mấu chốt họ thường thiếu theo tư duy của bài học?",
+      "question": "Một người dành nhiều thời gian lập kế hoạch chi tiết nhưng vẫn thất bại trong thực tế. Đâu là điểm mấu chốt họ thường thiếu?",
       "options": [
-        "Thiếu sự linh hoạt để thay đổi khi có sự cố",
-        "Thiếu sự chia nhỏ kế hoạch để hành động mỗi ngày",
-        "Thiếu nguồn lực tài chính mạnh mẽ",
-        "Thiếu sự giúp đỡ từ những người xung quanh"
+        "Thiếu sự linh hoạt để thay đổi kế hoạch khi có những sự cố bất ngờ xảy ra trong quá trình thực hiện mục tiêu đề ra.",
+        "Thiếu sự chia nhỏ kế hoạch thành các mục tiêu liên tiếp để có thể kiểm soát bức tranh toàn cảnh qua hành động hằng ngày.",
+        "Thiếu nguồn lực tài chính mạnh mẽ để hỗ trợ cho việc thực hiện các mục tiêu lớn đã được đề ra trong bản kế hoạch đó.",
+        "Thiếu sự giúp đỡ từ những người xung quanh để cùng chia sẻ gánh nặng trong quá trình thực hiện các mục tiêu dài hạn."
       ],
       "correctIndex": 1,
       "explanation": "Tác giả nhắc đến việc chia nhỏ thành các mục tiêu liên tiếp để tránh bị choáng ngợp và có thể kiểm soát qua hành động hằng ngày. Kế hoạch quá lớn mà thiếu sự chia nhỏ sẽ dẫn đến sự trì hoãn."
@@ -32,10 +32,10 @@
       "id": "q3",
       "question": "Trong bối cảnh lãnh đạo, tại sao việc 'lựa chọn đúng' bắt nguồn từ việc 'nhận thức tốt'?",
       "options": [
-        "Lựa chọn đúng là kết quả của việc có nhiều tài nguyên",
-        "Người lãnh đạo cần có tầm nhìn xa trước khi hành động",
-        "Nhận thức giúp lọc bỏ những xao nhãng để tập trung vào giá trị cốt lõi",
-        "Nhận thức là khả năng áp đặt ý chí lên người khác"
+        "Lựa chọn đúng là kết quả của việc có nhiều tài nguyên dồi dào để thực hiện các mục tiêu đã đề ra từ trước đó rất lâu.",
+        "Người lãnh đạo cần có tầm nhìn xa trông rộng trước khi thực hiện bất kỳ hành động cụ thể nào trong công việc hằng ngày.",
+        "Nhận thức giúp lọc bỏ những xao nhãng để tập trung vào giá trị cốt lõi, từ đó đưa ra các lựa chọn mang tính chiến lược.",
+        "Nhận thức là khả năng áp đặt ý chí lên người khác để đảm bảo mọi việc diễn ra đúng theo kế hoạch đã được vạch sẵn ra."
       ],
       "correctIndex": 2,
       "explanation": "Khi có kế hoạch rõ ràng, nhận thức của bạn sắc bén hơn về điều gì là thực sự quan trọng, từ đó loại bỏ các lựa chọn sai lầm gây lãng phí nguồn lực."
@@ -44,34 +44,34 @@
       "id": "q4",
       "question": "Việc viết kế hoạch ra giấy được xem là một 'món quà' cho chính mình vì lý do nào sau đây?",
       "options": [
-        "Nó tạo ra cam kết tâm lý và làm rõ hóa những suy nghĩ mơ hồ",
-        "Nó giúp bạn chứng minh năng lực với cấp trên",
-        "Nó là cách để né tránh sự chỉ trích của người khác",
-        "Nó giúp bạn có bằng chứng để đối chiếu khi thất bại"
+        "Nó giúp bạn chứng minh năng lực với cấp trên thông qua việc trình bày lộ trình thực hiện công việc một cách chuyên nghiệp.",
+        "Nó là cách để né tránh sự chỉ trích của người khác khi bạn không đạt được những mục tiêu đã đề ra trong thời gian qua.",
+        "Nó giúp bạn có bằng chứng để đối chiếu khi thất bại nhằm tìm ra nguyên nhân chính xác dẫn đến kết quả không như mong đợi.",
+        "Nó tạo ra cam kết tâm lý mạnh mẽ và giúp làm rõ hóa những suy nghĩ mơ hồ về viễn cảnh tương lai mà bạn đang hướng tới."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Viết ra giấy giúp cụ thể hóa viễn cảnh. Nó không phải để đối phó hay chứng minh, mà là để tạo ra sự minh bạch cho tư duy của chính mình."
     },
     {
       "id": "q5",
       "question": "Tại sao việc 'không có kế hoạch' thường dẫn đến những kết quả tầm thường?",
       "options": [
-        "Do con người thiếu may mắn",
-        "Do phản ứng thụ động trước các sự kiện ngẫu nhiên thay vì chủ động tạo ra kết quả",
-        "Do môi trường xung quanh không ủng hộ",
-        "Do con người thường bị áp lực về thời gian"
+        "Do phản ứng thụ động trước các sự kiện ngẫu nhiên thay vì chủ động tạo ra kết quả theo lộ trình đã được xác định trước.",
+        "Do con người thiếu may mắn trong quá trình thực hiện các mục tiêu quan trọng của cuộc đời mình trong một thời gian dài.",
+        "Do môi trường xung quanh không ủng hộ những nỗ lực cá nhân khiến cho việc đạt được thành công trở nên khó khăn hơn.",
+        "Do con người thường bị áp lực về thời gian nên không thể tập trung vào việc xây dựng một lộ trình phát triển bền vững."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Không có kế hoạch đồng nghĩa với việc để hoàn cảnh chi phối. Tư duy vượt trội đòi hỏi sự chủ động thông qua việc xác định mục tiêu và lộ trình thực hiện."
     },
     {
       "id": "q6",
-      "question": "Khi đối mặt với sự choáng ngợp trước một viễn cảnh lớn, giải pháp nào sau đây thể hiện tư duy của người quản trị bản thân tốt nhất?",
+      "question": "Khi đối mặt với sự choáng ngợp trước một viễn cảnh lớn, giải pháp nào sau đây thể hiện tư duy của người quản trị tốt nhất?",
       "options": [
-        "Tăng tốc độ làm việc để sớm hoàn thành",
-        "Phân tích lại mục tiêu và chia nhỏ chúng thành các bước hành động mỗi ngày",
-        "Tìm kiếm sự trợ giúp từ bên ngoài để hoàn thành nhanh hơn",
-        "Chấp nhận rằng mục tiêu quá lớn và giảm bớt kỳ vọng"
+        "Tăng tốc độ làm việc để sớm hoàn thành mục tiêu lớn trước khi cảm thấy quá tải bởi những áp lực từ công việc hằng ngày.",
+        "Phân tích lại mục tiêu và chia nhỏ chúng thành các bước hành động mỗi ngày để dễ dàng kiểm soát và thực hiện hiệu quả.",
+        "Tìm kiếm sự trợ giúp từ bên ngoài để hoàn thành công việc nhanh hơn thay vì tự mình giải quyết mọi vấn đề phức tạp.",
+        "Chấp nhận rằng mục tiêu quá lớn và giảm bớt kỳ vọng để cảm thấy thoải mái hơn trong quá trình làm việc hằng ngày của mình."
       ],
       "correctIndex": 1,
       "explanation": "Chia nhỏ mục tiêu là cách quản trị rủi ro tâm lý và đảm bảo tính bền vững của lộ trình hành động."
@@ -80,10 +80,10 @@
       "id": "q7",
       "question": "Mối quan hệ logic giữa 'nhận thức tốt', 'lựa chọn đúng' và 'kết quả khả quan' là gì?",
       "options": [
-        "Kết quả khả quan là do may mắn, lựa chọn chỉ là hình thức",
-        "Lựa chọn đúng là điều kiện cần, nhưng không quyết định kết quả",
-        "Nhận thức tốt là nền tảng tạo ra sự chọn lọc ưu việt, dẫn đến kết quả thành công",
-        "Lựa chọn chỉ quan trọng khi có kế hoạch từ trước"
+        "Kết quả khả quan là do may mắn, còn việc lựa chọn chỉ là hình thức để tạo cảm giác an tâm cho người thực hiện kế hoạch.",
+        "Lựa chọn đúng là điều kiện cần, nhưng không quyết định kết quả cuối cùng vì còn phụ thuộc vào nhiều yếu tố khách quan.",
+        "Nhận thức tốt là nền tảng tạo ra sự chọn lọc ưu việt, từ đó dẫn đến những kết quả thành công trong công việc và đời sống.",
+        "Lựa chọn chỉ quan trọng khi có kế hoạch từ trước, còn nếu không có kế hoạch thì mọi lựa chọn đều mang tính chất ngẫu nhiên."
       ],
       "correctIndex": 2,
       "explanation": "Đây là chuỗi nhân quả: Nhận thức tạo ra tầm nhìn, tầm nhìn định hướng chọn lựa, chọn lựa đúng tạo ra thành quả."
@@ -92,96 +92,96 @@
       "id": "q8",
       "question": "Tại sao việc lập kế hoạch thường không được coi là 'chủ đề hấp dẫn' đối với nhiều người?",
       "options": [
-        "Vì nó đòi hỏi sự kỷ luật và đối diện với thực tại hơn là giải trí",
-        "Vì nó quá phức tạp và cần trình độ chuyên môn cao",
-        "Vì nó không mang lại niềm vui ngay lập tức",
-        "Vì nó bị coi là tư duy cứng nhắc trong thời đại mới"
+        "Vì nó quá phức tạp và cần trình độ chuyên môn cao mới có thể xây dựng được một bản kế hoạch hoàn chỉnh và khả thi.",
+        "Vì nó không mang lại niềm vui ngay lập tức cho người thực hiện trong khi cuộc sống hiện đại đòi hỏi kết quả nhanh.",
+        "Vì nó bị coi là tư duy cứng nhắc trong thời đại mới khi mọi thứ thay đổi quá nhanh chóng và không thể dự báo trước.",
+        "Vì nó đòi hỏi sự kỷ luật và đối diện với thực tại khắc nghiệt hơn là tìm kiếm sự giải trí thoải mái trong cuộc sống."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Việc lập kế hoạch đòi hỏi sự kiên nhẫn và đối diện với trách nhiệm cá nhân, điều mà số đông thường tránh né để tìm kiếm sự thoải mái tức thời."
     },
     {
       "id": "q9",
       "question": "Theo góc nhìn phát triển bản thân, việc 'chuốt lại bút chì' và ngồi viết kế hoạch tượng trưng cho điều gì?",
       "options": [
-        "Sự chuẩn bị công cụ làm việc",
-        "Sự dừng lại để suy ngẫm và tái thiết lập trật tự tư duy",
-        "Việc tuân thủ các quy tắc truyền thống",
-        "Sự cầu toàn trong công việc"
+        "Sự dừng lại để suy ngẫm và tái thiết lập trật tự tư duy, ưu tiên những điều quan trọng nhất thay vì chạy theo xô bồ.",
+        "Sự chuẩn bị công cụ làm việc một cách kỹ lưỡng để đảm bảo quá trình thực hiện mục tiêu diễn ra một cách suôn sẻ nhất.",
+        "Việc tuân thủ các quy tắc truyền thống trong công việc để đảm bảo tính kỷ luật và sự chuyên nghiệp của bản thân mình.",
+        "Sự cầu toàn trong công việc khi muốn mọi thứ phải được ghi chép lại một cách chi tiết và rõ ràng nhất trên giấy tờ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Đây là hành động tượng trưng cho sự nghiêm túc, sự lắng đọng để ưu tiên những điều quan trọng nhất thay vì chạy theo sự xô bồ của cuộc sống."
     },
     {
       "id": "q10",
       "question": "Sự khác biệt giữa việc 'có kế hoạch' và 'không có kế hoạch' trong quản trị đời sống là gì?",
       "options": [
-        "Người có kế hoạch luôn thành công 100%",
-        "Người không có kế hoạch có cuộc sống tự do hơn",
-        "Người có kế hoạch kiểm soát được bức tranh toàn cảnh và hành động chủ động",
-        "Sự khác biệt duy nhất là tốc độ làm việc"
+        "Người có kế hoạch luôn thành công một trăm phần trăm trong mọi dự định mà họ đã đề ra từ trước trong bản kế hoạch.",
+        "Người có kế hoạch kiểm soát được bức tranh toàn cảnh và hành động chủ động thay vì để hoàn cảnh chi phối cuộc sống.",
+        "Người không có kế hoạch có cuộc sống tự do hơn vì họ không bị ràng buộc bởi những mục tiêu cứng nhắc hằng ngày.",
+        "Sự khác biệt duy nhất là tốc độ làm việc của mỗi người khi đối mặt với những thách thức trong công việc hằng ngày."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Sự chủ động kiểm soát là điểm khác biệt cốt lõi. Kế hoạch không đảm bảo thành công tuyệt đối, nhưng nó đảm bảo bạn đi đúng hướng và nắm quyền tự quyết."
     },
     {
       "id": "q11",
       "question": "Tại sao việc lập kế hoạch lại giúp giảm bớt sự 'choáng ngợp'?",
       "options": [
-        "Vì nó làm cho mục tiêu trở nên đơn giản hơn thực tế",
-        "Vì nó tạo ra một lộ trình logic với các bước thực hiện nhỏ, dễ quản lý",
-        "Vì nó giúp bạn quên đi những khó khăn đang chờ đợi",
-        "Vì nó giúp bạn đạt được kết quả ngay lập tức"
+        "Vì nó làm cho mục tiêu trở nên đơn giản hơn thực tế, giúp bạn cảm thấy tự tin hơn khi bắt tay vào thực hiện công việc.",
+        "Vì nó giúp bạn quên đi những khó khăn đang chờ đợi phía trước để tập trung hoàn toàn vào những việc cần làm ngay.",
+        "Vì nó tạo ra một lộ trình logic với các bước thực hiện nhỏ, dễ quản lý hơn so với việc nhìn vào mục tiêu quá lớn.",
+        "Vì nó giúp bạn đạt được kết quả ngay lập tức mà không cần phải trải qua quá trình nỗ lực lâu dài và đầy gian khổ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự choáng ngợp đến từ sự mơ hồ và quy mô lớn của mục tiêu. Việc chia nhỏ làm cho thách thức trở nên thực tế và có thể chinh phục được."
     },
     {
       "id": "q12",
       "question": "Một người cho rằng 'cứ để mọi chuyện tùy duyên, lập kế hoạch chỉ là vẽ đường cho hươu chạy'. Lập luận này phản ánh tư duy nào?",
       "options": [
-        "Tư duy linh hoạt trong mọi tình huống",
-        "Tư duy thụ động và đổ lỗi cho ngoại cảnh",
-        "Tư duy sáng tạo vượt bậc",
-        "Tư duy thực tế, không lý thuyết suông"
+        "Tư duy linh hoạt trong mọi tình huống để có thể thích nghi nhanh chóng với những thay đổi bất ngờ của môi trường sống.",
+        "Tư duy sáng tạo vượt bậc khi không muốn bị gò bó bởi những khuôn mẫu có sẵn trong các bản kế hoạch truyền thống.",
+        "Tư duy thực tế, không lý thuyết suông khi cho rằng hành động quan trọng hơn nhiều so với việc ngồi viết kế hoạch.",
+        "Tư duy thụ động và đổ lỗi cho ngoại cảnh thay vì chịu trách nhiệm về tương lai của chính bản thân mình trong cuộc sống."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Việc từ chối kế hoạch thường là cách ngụy biện cho sự lười biếng hoặc thiếu trách nhiệm với tương lai của bản thân."
     },
     {
       "id": "q13",
       "question": "Lợi ích cao nhất của việc lên kế hoạch theo tác giả là gì?",
       "options": [
-        "Năng suất làm việc cao",
-        "Việc tác động đến sự tập trung của tâm trí",
-        "Cảm giác an tâm về tương lai",
-        "Sự công nhận từ người khác"
+        "Việc tác động đến sự tập trung của tâm trí, giúp thay đổi nhận thức của bạn về những ưu tiên quan trọng nhất trong đời.",
+        "Năng suất làm việc cao hơn hẳn so với những người không có kế hoạch cụ thể trong quá trình thực hiện công việc hằng ngày.",
+        "Cảm giác an tâm về tương lai khi biết rõ mình sẽ đạt được những gì sau một khoảng thời gian nỗ lực làm việc chăm chỉ.",
+        "Sự công nhận từ người khác khi bạn có thể trình bày một lộ trình phát triển rõ ràng và đầy đủ các mục tiêu cụ thể."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Tác giả chỉ rõ kết quả tốt nhất của kế hoạch không chỉ nằm ở việc hoàn thành công việc, mà là tác động sâu sắc lên tư duy, từ đó thay đổi nhận thức của bạn về ưu tiên sống."
     },
     {
       "id": "q14",
       "question": "Khi áp dụng bài học này, sai lầm phổ biến nhất mà người ta hay mắc phải là gì?",
       "options": [
-        "Lập kế hoạch nhưng không bao giờ thực hiện",
-        "Lập kế hoạch quá chi tiết tới từng phút",
-        "Không bao giờ xem lại kế hoạch sau khi viết ra",
-        "Viết kế hoạch nhưng không chia nhỏ thành hành động mỗi ngày"
+        "Lập kế hoạch nhưng không bao giờ thực hiện vì cảm thấy quá khó khăn khi đối diện với những mục tiêu đã đề ra trước đó.",
+        "Viết kế hoạch nhưng không chia nhỏ thành hành động mỗi ngày, khiến kế hoạch trở thành thứ vô nghĩa trên giấy tờ mà thôi.",
+        "Lập kế hoạch quá chi tiết tới từng phút khiến cho bản thân cảm thấy bị gò bó và không thể linh hoạt trong công việc.",
+        "Không bao giờ xem lại kế hoạch sau khi đã viết ra, dẫn đến việc đi chệch hướng so với mục tiêu ban đầu đã xác định."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Nhiều người lập kế hoạch 'vĩ mô' nhưng bỏ quên bước 'vi hành' hằng ngày, khiến kế hoạch trở thành thứ vô nghĩa trên giấy tờ."
     },
     {
       "id": "q15",
       "question": "Tầm quan trọng của việc 'đối soát giữa công việc và gia đình' trong kế hoạch cuộc đời là gì?",
       "options": [
-        "Đảm bảo cân bằng giữa sự nghiệp và đời sống cá nhân",
-        "Để báo cáo với gia đình về thời gian biểu",
-        "Để đảm bảo thu nhập nuôi sống gia đình",
-        "Đây là yêu cầu của tác giả để đạt danh vọng"
+        "Để báo cáo với gia đình về thời gian biểu hằng ngày nhằm tránh những hiểu lầm không đáng có trong quá trình làm việc.",
+        "Để đảm bảo thu nhập nuôi sống gia đình một cách ổn định nhất trong khi vẫn có thể theo đuổi những đam mê cá nhân.",
+        "Đảm bảo sự cân bằng hài hòa giữa sự nghiệp và đời sống cá nhân để đạt được một cuộc sống với nhiều trải nghiệm vượt trội.",
+        "Đây là yêu cầu bắt buộc của tác giả để đạt được danh vọng và sự thành công bền vững trong sự nghiệp của mỗi người."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Kế hoạch cuộc đời vượt trội không chỉ là về sự nghiệp, mà là sự hài hòa toàn diện. Việc đưa cả hai yếu tố vào kế hoạch cho thấy tư duy lãnh đạo bản thân sâu sắc."
     }
   ]

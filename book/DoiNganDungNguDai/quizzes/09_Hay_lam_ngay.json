@@ -8,181 +8,181 @@
       "id": "q1",
       "question": "Triết lý 'Hãy làm ngay' trong chương này có ý nghĩa sâu sắc nhất đối với việc ra quyết định cá nhân trong bối cảnh nào?",
       "options": [
-        "Chỉ áp dụng cho những việc đột xuất, không lường trước được để tránh lãng phí cơ hội.",
-        "Nhấn mạnh việc cân bằng giữa lập kế hoạch tương lai và hành động quyết liệt trong hiện tại.",
-        "Khuyến khích loại bỏ hoàn toàn việc lập kế hoạch dài hạn, chỉ sống cho khoảnh khắc.",
-        "Dành ưu tiên tối đa cho hưởng thụ cá nhân, bất chấp rủi ro hoặc hậu quả lâu dài."
+        "Nhấn mạnh sự quân bình giữa việc lập kế hoạch dài hạn cho tương lai và hành động quyết liệt, sống trọn vẹn trong hiện tại.",
+        "Khuyến khích loại bỏ hoàn toàn các kế hoạch dài hạn để tập trung tối đa vào việc hưởng thụ những khoảnh khắc ngắn ngủi hiện tại.",
+        "Dành ưu tiên tuyệt đối cho việc thỏa mãn các nhu cầu cá nhân ngay lập tức mà không cần quan tâm đến hậu quả trong tương lai.",
+        "Chỉ áp dụng cho các tình huống đột xuất, không lường trước được nhằm tránh lãng phí những cơ hội quý giá trong cuộc sống đời thường."
       ],
-      "correctIndex": 1,
-      "explanation": "Triết lý 'Hãy làm ngay' không phải là phủ nhận kế hoạch mà là kêu gọi sự quân bình. Tác giả nhấn mạnh 'Hãy biết nhìn xa và chuẩn bị cho suốt cuộc đời. Đó là sự quân bình.' Điều này có nghĩa là chúng ta cần lập kế hoạch, dự trù cho tương lai (tiền hưu, v.v.) nhưng đồng thời phải sống hết mình cho hiện tại, nắm bắt cơ hội và không trì hoãn hạnh phúc. Phương án B phản ánh đúng nhất sự cân bằng này. Các phương án khác hoặc quá cực đoan (C, D) hoặc quá giới hạn (A)."
+      "correctIndex": 0,
+      "explanation": "Tác giả không phủ nhận kế hoạch mà đề cao sự quân bình: chuẩn bị cho tương lai nhưng không trì hoãn hạnh phúc hiện tại."
     },
     {
       "id": "q2",
       "question": "Thái độ 'chần chừ thụ hưởng những giờ phút tuyệt vời và chờ đến khi về già' cho thấy điều gì về tâm lý chung của con người?",
       "options": [
-        "Là một biểu hiện của sự khôn ngoan tài chính, ưu tiên sự an toàn tuyệt đối.",
-        "Phản ánh sự thiếu tự tin vào khả năng quản lý cuộc sống hiện tại.",
-        "Là dấu hiệu của một tâm lý trì hoãn hạnh phúc, đặt niềm vui vào một tương lai không chắc chắn.",
-        "Cho thấy con người luôn có xu hướng hy sinh hiện tại vì một mục tiêu lớn lao hơn."
+        "Phản ánh một tư duy khôn ngoan về tài chính, ưu tiên sự an toàn tuyệt đối và tích lũy nguồn lực cho giai đoạn nghỉ hưu sau này.",
+        "Đó là biểu hiện của sự trì hoãn hạnh phúc, đặt niềm vui vào một tương lai xa xôi mà bản thân không thể kiểm soát chắc chắn.",
+        "Cho thấy con người luôn có xu hướng hy sinh những trải nghiệm hiện tại vì mục tiêu lớn lao hơn là sự ổn định khi về già.",
+        "Là dấu hiệu của sự thiếu tự tin vào khả năng quản lý cuộc sống hiện tại nên cần dựa dẫm vào các kế hoạch dự phòng tương lai."
       ],
-      "correctIndex": 2,
-      "explanation": "Câu nói 'chần chừ thụ hưởng những giờ phút tuyệt vời và chờ đến khi về già' là một bẫy tâm lý phổ biến, nơi con người tin rằng họ có thể 'tích trữ' niềm vui cho một thời điểm sau này, thường là khi đã về hưu. Điều này tạo ra một sự trì hoãn hạnh phúc vô thời hạn, bỏ lỡ những cơ hội trải nghiệm và sống trọn vẹn trong hiện tại. Tác giả phản đối mạnh mẽ tư duy này. Phương án C nắm bắt chính xác bản chất của sự trì hoãn này."
+      "correctIndex": 1,
+      "explanation": "Tác giả phê phán tư duy 'tích trữ' hạnh phúc vì nó khiến con người bỏ lỡ cuộc sống thực tại ngay lúc này."
     },
     {
       "id": "q3",
-      "question": "Lời bài hát của Mick Jagger: 'Ủy mị chẳng ích gì, chuyện trôi qua nhanh lắm' có liên hệ sâu sắc nhất với nguyên tắc lãnh đạo bản thân nào?",
+      "question": "Lời bài hát của Mick Jagger: 'Ủy mị chẳng ích gì, chuyện trôi qua nhanh lắm' có liên hệ sâu sắc nhất với nguyên tắc nào?",
       "options": [
-        "Khuyến khích sự tàn nhẫn và không cảm xúc trong mọi quyết định.",
-        "Nhấn mạnh việc loại bỏ cảm xúc cá nhân để đạt hiệu quả công việc.",
-        "Cảnh báo về sự lãng phí thời gian vào những cảm xúc tiêu cực thay vì hành động.",
-        "Khẳng định rằng cuộc sống quá ngắn ngủi để dành thời gian cho người khác."
+        "Khẳng định rằng cuộc sống quá ngắn ngủi để dành thời gian quan tâm đến người khác thay vì tập trung phát triển bản thân.",
+        "Nhấn mạnh việc loại bỏ hoàn toàn cảm xúc cá nhân trong mọi quyết định để đạt được hiệu quả công việc cao nhất có thể.",
+        "Cảnh báo về sự lãng phí thời gian vào những cảm xúc tiêu cực, do dự thay vì chuyển hóa chúng thành hành động cụ thể ngay.",
+        "Khuyến khích sự tàn nhẫn và lạnh lùng trong mọi quyết định để không bị những cảm xúc ủy mị làm chậm bước tiến cá nhân."
       ],
       "correctIndex": 2,
-      "explanation": "Câu nói của Mick Jagger được trích dẫn để nhấn mạnh sự cấp bách của thời gian. 'Ủy mị' ở đây có thể hiểu là sự do dự, than vãn, lo lắng quá mức hoặc sa đà vào những cảm xúc tiêu cực mà không dẫn đến hành động cụ thể. 'Chuyện trôi qua nhanh lắm' nhắc nhở rằng thời gian là hữu hạn. Do đó, thông điệp cốt lõi là không nên lãng phí thời gian và năng lượng vào những cảm xúc hoặc suy nghĩ không mang tính xây dựng, mà hãy chuyển hóa chúng thành hành động. Đây là một nguyên tắc quan trọng trong lãnh đạo bản thân: quản lý cảm xúc để thúc đẩy hành động thay vì bị chúng kìm hãm."
+      "explanation": "Thông điệp nhấn mạnh sự hữu hạn của thời gian, kêu gọi hành động thay vì sa đà vào những cảm xúc không mang tính xây dựng."
     },
     {
       "id": "q4",
-      "question": "Câu quảng cáo của hãng hàng không Emirates: 'Lần cuối cùng bạn thực hiện một điều gì lần đầu tiên là khi nào?' thách thức chúng ta vượt qua bẫy tâm lý nào?",
+      "question": "Câu hỏi của hãng Emirates: 'Lần cuối cùng bạn thực hiện một điều gì lần đầu tiên là khi nào?' thách thức bẫy tâm lý nào?",
       "options": [
-        "Nỗi sợ hãi thất bại khi thử cái mới.",
-        "Sự tự mãn và trì trệ trong vùng an toàn.",
-        "Thiếu động lực để lập kế hoạch cho tương lai.",
-        "Áp lực xã hội phải liên tục đổi mới bản thân."
+        "Nỗi sợ hãi thất bại khi thử thách cái mới khiến con người không dám bước ra khỏi những giới hạn an toàn của bản thân mình.",
+        "Áp lực xã hội buộc cá nhân phải liên tục đổi mới bản thân để không bị tụt hậu so với sự phát triển nhanh chóng hiện nay.",
+        "Sự thiếu hụt động lực để lập kế hoạch cho tương lai do quá tập trung vào việc duy trì những thành tựu đã đạt được trước đó.",
+        "Sự tự mãn và trì trệ trong vùng an toàn, nơi con người lặp đi lặp lại những thói quen cũ mà không tìm kiếm trải nghiệm."
       ],
-      "correctIndex": 1,
-      "explanation": "Câu hỏi của Emirates trực tiếp thách thức thói quen và sự trì trệ. Khi chúng ta không còn 'thực hiện một điều gì lần đầu tiên', điều đó có nghĩa là chúng ta đang sống trong vùng an toàn, lặp đi lặp lại những gì đã biết, không tìm kiếm trải nghiệm mới hay thử thách bản thân. Đây là dấu hiệu của sự tự mãn và trì trệ. Câu hỏi khôn ngoan này khuyến khích vượt qua ranh giới cá nhân, khám phá điều mới mẻ, và tránh để cuộc sống trở nên nhàm chán hoặc bỏ lỡ cơ hội phát triển. Các phương án khác tuy có liên quan nhưng không phải là trọng tâm chính mà câu hỏi này muốn đánh vào."
+      "correctIndex": 3,
+      "explanation": "Câu hỏi này thách thức sự trì trệ, khuyến khích con người thoát khỏi vùng an toàn để khám phá những điều mới mẻ."
     },
     {
       "id": "q5",
       "question": "Tại sao tác giả lại nhấn mạnh việc 'chấp nhận rủi ro hàng ngày' thay vì chỉ chấp nhận những rủi ro lớn mang tính đột phá?",
       "options": [
-        "Vì rủi ro lớn thường mang lại hậu quả nghiêm trọng hơn.",
-        "Để rèn luyện khả năng thích nghi và vượt qua giới hạn cá nhân một cách liên tục, nhỏ giọt.",
-        "Giúp tránh bị đánh giá là người quá an toàn và thiếu quyết đoán.",
-        "Chỉ là một cách nói cường điệu để tạo động lực cho người đọc."
+        "Để rèn luyện khả năng thích nghi và vượt qua giới hạn cá nhân một cách liên tục, nhỏ giọt thay vì chờ đợi khoảnh khắc lớn.",
+        "Vì những rủi ro lớn thường mang lại hậu quả nghiêm trọng hơn nhiều so với việc tích lũy các rủi ro nhỏ trong cuộc sống hàng ngày.",
+        "Giúp cá nhân tránh bị đánh giá là người quá an toàn và thiếu quyết đoán trong mắt đồng nghiệp hoặc những người xung quanh.",
+        "Đây chỉ là một cách nói cường điệu của tác giả nhằm tạo động lực mạnh mẽ hơn cho người đọc trong việc thay đổi thói quen."
       ],
-      "correctIndex": 1,
-      "explanation": "Việc chấp nhận rủi ro hàng ngày (ví dụ: thử một món ăn mới, nói chuyện với người lạ, trình bày một ý tưởng chưa hoàn chỉnh, học một kỹ năng nhỏ) giúp chúng ta thoát khỏi vùng an toàn từng chút một. Đây là cách rèn luyện 'cơ bắp' dũng cảm và khả năng thích nghi. Khi quen với việc đối mặt với những rủi ro nhỏ và vượt qua chúng, chúng ta sẽ xây dựng sự tự tin và sẵn sàng hơn khi đối mặt với những thách thức lớn hơn. Nó là quá trình phát triển liên tục, không phải là chờ đợi một khoảnh khắc 'lột xác' đột ngột. Phương án B giải thích sâu sắc nhất bản chất của việc rèn luyện này."
+      "correctIndex": 0,
+      "explanation": "Rủi ro nhỏ hàng ngày giúp xây dựng sự tự tin và khả năng thích nghi, chuẩn bị cho những thách thức lớn hơn."
     },
     {
       "id": "q6",
-      "question": "Điểm khác biệt cốt lõi giữa 'nhìn xa và chuẩn bị cho suốt cuộc đời' với 'sống cho giây phút này' theo quan điểm của tác giả là gì?",
+      "question": "Điểm khác biệt cốt lõi giữa 'nhìn xa và chuẩn bị cho suốt cuộc đời' với 'sống cho giây phút này' theo quan điểm tác giả?",
       "options": [
-        "Một bên là hành động thực tế, một bên là suy nghĩ lý thuyết.",
-        "Một bên tập trung vào tương lai không chắc chắn, một bên tập trung vào hiện tại hữu hạn.",
-        "Là hai mặt của một đồng xu, cần được quân bình để đạt được cuộc sống trọn vẹn, không đối lập nhau.",
-        "Một bên thể hiện sự khôn ngoan của người già, một bên thể hiện sự liều lĩnh của tuổi trẻ."
+        "Một bên tập trung vào tương lai không chắc chắn, một bên tập trung vào hiện tại hữu hạn nên chúng luôn mâu thuẫn với nhau.",
+        "Đó là hai mặt của một đồng xu, cần được quân bình để đạt được cuộc sống trọn vẹn, ý nghĩa chứ không hề đối lập nhau.",
+        "Một bên là hành động thực tế cần thiết, một bên chỉ là suy nghĩ lý thuyết mang tính triết lý không áp dụng được nhiều.",
+        "Một bên thể hiện sự khôn ngoan của người già, một bên thể hiện sự liều lĩnh của tuổi trẻ nên cần ưu tiên cái nào hơn."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả không đặt 'nhìn xa' và 'sống cho giây phút này' đối lập nhau, mà xem chúng là hai yếu tố bổ trợ, tạo nên sự quân bình. 'Hãy biết nhìn xa và chuẩn bị cho suốt cuộc đời... Nhưng đồng thời cũng cần biết sống cho giây phút này.' Điều này có nghĩa là chúng ta cần lập kế hoạch (nhìn xa), nhưng không vì thế mà trì hoãn cuộc sống, hạnh phúc, và hành động trong hiện tại (sống cho giây phút này). Chúng là hai khía cạnh cần thiết để có một cuộc sống đầy đủ và ý nghĩa, không phải là lựa chọn một mất một còn. Phương án C nắm bắt đúng tinh thần này."
+      "correctIndex": 1,
+      "explanation": "Tác giả xem việc chuẩn bị cho tương lai và sống cho hiện tại là hai yếu tố bổ trợ, tạo nên sự quân bình."
     },
     {
       "id": "q7",
-      "question": "Nếu một người quản lý trì hoãn việc đưa ra quyết định quan trọng cho một dự án, chờ đợi 'thời điểm hoàn hảo' hoặc 'đủ thông tin', họ đang mắc phải bẫy tâm lý nào được tác giả gián tiếp cảnh báo?",
+      "question": "Nếu một người quản lý trì hoãn quyết định quan trọng vì chờ đợi 'thời điểm hoàn hảo', họ đang mắc phải bẫy tâm lý nào?",
       "options": [
-        "Thiếu khả năng phân tích rủi ro.",
-        "Sự cầu toàn thái quá dẫn đến tê liệt hành động.",
-        "Không tin tưởng vào năng lực của đội ngũ.",
-        "Áp lực từ cấp trên yêu cầu sự hoàn hảo tuyệt đối."
+        "Thiếu khả năng phân tích rủi ro cần thiết để đưa ra các quyết định mang tính chiến lược trong môi trường kinh doanh hiện nay.",
+        "Không tin tưởng vào năng lực của đội ngũ nhân viên nên muốn tự mình kiểm soát mọi chi tiết nhỏ nhất trước khi hành động.",
+        "Sự cầu toàn thái quá dẫn đến tê liệt hành động, khiến cơ hội trôi qua trong khi chờ đợi thông tin hoàn hảo tuyệt đối.",
+        "Áp lực từ cấp trên yêu cầu sự hoàn hảo tuyệt đối khiến người quản lý không dám đưa ra bất kỳ quyết định nào sai lầm."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả khuyến khích 'Hãy làm ngay' và 'chớp lấy' cơ hội. Việc chờ đợi 'thời điểm hoàn hảo' hoặc 'đủ thông tin' thường là biểu hiện của sự cầu toàn (perfectionism) thái quá, biến thành một dạng trì hoãn. Trong thế giới thay đổi nhanh chóng, không bao giờ có 'thời điểm hoàn hảo' hay 'đủ thông tin' tuyệt đối. Người quản lý cần học cách ra quyết định với thông tin không hoàn hảo và chấp nhận rủi ro nhất định. Sự cầu toàn có thể dẫn đến việc dự án bị trì hoãn vô thời hạn, bỏ lỡ cơ hội, hoặc thậm chí là thất bại. Phương án B mô tả chính xác bẫy tâm lý này."
+      "correctIndex": 2,
+      "explanation": "Việc chờ đợi sự hoàn hảo là một dạng trì hoãn, ngăn cản hành động kịp thời trong thế giới thay đổi nhanh."
     },
     {
       "id": "q8",
       "question": "Thông điệp 'Săn tìm những gì là tốt nhất cho hôm nay' có ý nghĩa thực tiễn nhất trong việc phát triển bản thân như thế nào?",
       "options": [
-        "Khuyến khích sự ích kỷ, chỉ tập trung vào lợi ích cá nhân trước mắt.",
-        "Nhấn mạnh việc chủ động tìm kiếm và tạo ra giá trị, trải nghiệm tích cực mỗi ngày.",
-        "Đề xuất loại bỏ mọi kế hoạch dài hạn để hưởng thụ trọn vẹn hiện tại.",
-        "Giúp biện minh cho việc bỏ qua những nhiệm vụ khó khăn vì chúng không 'tốt nhất'."
+        "Khuyến khích sự ích kỷ, chỉ tập trung vào lợi ích cá nhân trước mắt để đảm bảo bản thân luôn nhận được những điều tốt nhất.",
+        "Đề xuất loại bỏ mọi kế hoạch dài hạn để hưởng thụ trọn vẹn hiện tại, tránh lãng phí thời gian vào những việc không cần.",
+        "Giúp biện minh cho việc bỏ qua những nhiệm vụ khó khăn vì chúng không mang lại cảm giác 'tốt nhất' cho bản thân ngay lúc này.",
+        "Nhấn mạnh việc chủ động tìm kiếm và tạo ra giá trị, trải nghiệm tích cực mỗi ngày thay vì chờ đợi điều tốt đẹp tự đến."
       ],
-      "correctIndex": 1,
-      "explanation": "'Săn tìm những gì là tốt nhất cho hôm nay' không có nghĩa là hưởng thụ thụ động hay ích kỷ. Ngược lại, nó khuyến khích sự chủ động. Đó là việc có ý thức tìm kiếm cơ hội để học hỏi, phát triển, trải nghiệm những điều tích cực, và tạo ra giá trị (cho bản thân và người khác) ngay trong ngày. Nó là tư duy của người lãnh đạo không chức danh – không chờ đợi điều tốt đẹp đến mà chủ động tạo ra nó. Điều này đòi hỏi sự tỉnh thức, nỗ lực và ý chí để biến mỗi ngày thành một ngày có ý nghĩa. Phương án B phản ánh đúng tinh thần này."
+      "correctIndex": 3,
+      "explanation": "Thông điệp này khuyến khích sự chủ động tạo ra giá trị và trải nghiệm tích cực thay vì thụ động chờ đợi."
     },
     {
       "id": "q9",
-      "question": "Nếu một người luôn nói 'tôi sẽ làm điều đó khi tôi có nhiều thời gian hơn' hoặc 'khi mọi thứ ổn định hơn', họ đang sử dụng chiến lược ngụy biện nào để tránh hành động?",
+      "question": "Nếu một người luôn nói 'tôi sẽ làm điều đó khi tôi có nhiều thời gian hơn', họ đang sử dụng chiến lược ngụy biện nào?",
       "options": [
-        "Ngụy biện trượt dốc (Slippery slope fallacy).",
-        "Ngụy biện tấn công cá nhân (Ad hominem fallacy).",
-        "Ngụy biện lý do không chính đáng (False cause fallacy).",
-        "Ngụy biện trì hoãn dựa trên sự chờ đợi điều kiện lý tưởng."
+        "Ngụy biện trì hoãn dựa trên sự chờ đợi điều kiện lý tưởng, một cái cớ để trốn tránh trách nhiệm hoặc sự khó khăn hiện tại.",
+        "Ngụy biện trượt dốc, nơi người nói tin rằng một hành động nhỏ sẽ dẫn đến chuỗi hậu quả tiêu cực không thể kiểm soát được.",
+        "Ngụy biện tấn công cá nhân, dùng để hạ thấp uy tín của người khác nhằm che đậy sự thiếu hụt năng lực của chính bản thân.",
+        "Ngụy biện lý do không chính đáng, cố gắng liên kết hai sự kiện không liên quan để biện minh cho việc không hành động ngay."
       ],
-      "correctIndex": 3,
-      "explanation": "Câu nói 'tôi sẽ làm điều đó khi tôi có nhiều thời gian hơn' hoặc 'khi mọi thứ ổn định hơn' là một hình thức kinh điển của sự trì hoãn. Người đó đang tự tạo ra một điều kiện 'lý tưởng' không thực tế hoặc không thể đạt được, để biện minh cho việc không hành động trong hiện tại. Đây là một ngụy biện bởi vì 'thời gian hơn' hoặc 'mọi thứ ổn định hơn' hiếm khi tự đến, và thường là một cái cớ để trốn tránh trách nhiệm hoặc sự khó khăn của việc bắt đầu. Tác giả khuyến khích 'làm ngay' chính là để chống lại kiểu ngụy biện này. Phương án D mô tả chính xác chiến lược ngụy biện này."
+      "correctIndex": 0,
+      "explanation": "Việc chờ đợi điều kiện lý tưởng là một cái cớ kinh điển để trì hoãn và trốn tránh việc bắt đầu hành động."
     },
     {
       "id": "q10",
-      "question": "Khái niệm 'Đời ngắn đừng ngủ dài' và 'Hãy làm ngay' trong chương này có ý nghĩa gì đối với việc hình thành kỷ luật bản thân?",
+      "question": "Khái niệm 'Đời ngắn đừng ngủ dài' và 'Hãy làm ngay' có ý nghĩa gì đối với việc hình thành kỷ luật bản thân?",
       "options": [
-        "Kỷ luật bản thân là tự ép buộc mình làm những điều không thích để không lãng phí thời gian.",
-        "Kỷ luật bản thân đòi hỏi nhận thức sâu sắc về sự hữu hạn của thời gian để thúc đẩy hành động liên tục, không trì hoãn.",
-        "Kỷ luật bản thân chỉ thực sự cần thiết khi đối mặt với những mục tiêu lớn, không phải việc hàng ngày.",
-        "Chủ yếu là việc sắp xếp lịch trình chặt chẽ để tối ưu hóa thời gian nghỉ ngơi."
+        "Kỷ luật bản thân là tự ép buộc mình làm những điều không thích để không lãng phí thời gian vào những việc vô bổ hàng ngày.",
+        "Đòi hỏi nhận thức sâu sắc về sự hữu hạn của thời gian để thúc đẩy hành động liên tục, không trì hoãn trong mọi việc.",
+        "Kỷ luật bản thân chỉ thực sự cần thiết khi đối mặt với những mục tiêu lớn, không phải là việc áp dụng cho các việc nhỏ.",
+        "Chủ yếu là việc sắp xếp lịch trình chặt chẽ để tối ưu hóa thời gian nghỉ ngơi và làm việc một cách khoa học nhất có thể."
       ],
       "correctIndex": 1,
-      "explanation": "Chủ đề 'Đời ngắn đừng ngủ dài' và 'Hãy làm ngay' là kim chỉ nam cho kỷ luật bản thân. Kỷ luật không chỉ là tuân thủ quy tắc, mà còn là khả năng tự thúc đẩy, vượt qua sự trì hoãn và hành động nhất quán. Nhận thức về sự 'trôi qua nhanh' của cuộc đời là động lực mạnh mẽ để chúng ta không 'ngủ dài' (nghĩa là không lãng phí thời gian vào sự trì trệ, nghi ngờ, hay thụ động) mà phải 'làm ngay'. Kỷ luật bản thân trong bối cảnh này là việc liên tục lựa chọn hành động có ý nghĩa thay vì trì hoãn. Phương án B thể hiện đúng chiều sâu này."
+      "explanation": "Kỷ luật bản thân là khả năng tự thúc đẩy, vượt qua sự trì hoãn dựa trên nhận thức về sự hữu hạn của thời gian."
     },
     {
       "id": "q11",
       "question": "Việc 'đong đầy ngày tháng với nhiều hoạt động' không đơn thuần chỉ là bận rộn, mà còn mang ý nghĩa sâu sắc nào?",
       "options": [
-        "Tạo ra một danh sách dài các việc cần làm để cảm thấy mình hiệu quả.",
-        "Tìm kiếm sự phân tâm để tránh đối mặt với những vấn đề khó khăn.",
-        "Chủ động kiến tạo những trải nghiệm đa dạng, học hỏi và phát triển liên tục, làm cho cuộc sống trở nên phong phú.",
-        "Cố gắng làm mọi việc cùng lúc để đạt được nhiều thành tựu nhất có thể."
+        "Tạo ra một danh sách dài các việc cần làm để cảm thấy mình hiệu quả hơn trong mắt người khác và tăng sự tự tin cá nhân.",
+        "Tìm kiếm sự phân tâm để tránh đối mặt với những vấn đề khó khăn hoặc những nỗi lo âu đang tồn tại trong cuộc sống thực.",
+        "Chủ động kiến tạo những trải nghiệm đa dạng, học hỏi và phát triển liên tục, làm cho cuộc sống trở nên phong phú hơn.",
+        "Cố gắng làm mọi việc cùng lúc để đạt được nhiều thành tựu nhất có thể trong thời gian ngắn nhất mà không cần nghỉ ngơi."
       ],
       "correctIndex": 2,
-      "explanation": "Ý tưởng 'đong đầy ngày tháng với nhiều hoạt động' không phải là bận rộn vô nghĩa hay chỉ để 'có việc làm'. Nó mang ý nghĩa của sự chủ động kiến tạo, tìm kiếm và tham gia vào những hoạt động có ý nghĩa, mang lại trải nghiệm mới, cơ hội học hỏi, phát triển kỹ năng và mở rộng tầm nhìn. Đó là cách để làm cho mỗi ngày trở nên đáng giá, phong phú và tràn đầy năng lượng, thay vì để thời gian trôi qua một cách tẻ nhạt hoặc thụ động. Nó là cách để 'sống thật đầy đủ' như tác giả đã nói. Phương án C nắm bắt đúng tinh thần này."
+      "explanation": "Đong đầy ngày tháng là sự chủ động kiến tạo trải nghiệm và giá trị để cuộc sống trở nên phong phú, ý nghĩa."
     },
     {
       "id": "q12",
       "question": "Theo tinh thần của chương, điều gì có thể xảy ra nếu chúng ta chờ đợi 'khi về già' mới 'vui sống'?",
       "options": [
-        "Chúng ta có thể sẽ có nhiều tiền hơn để tận hưởng cuộc sống một cách xa hoa hơn.",
-        "Chúng ta có thể sẽ không còn sức khỏe, năng lượng hoặc cơ hội để thực hiện những điều mình mong muốn.",
-        "Chúng ta sẽ có đủ kinh nghiệm sống để đưa ra những lựa chọn giải trí khôn ngoan hơn.",
-        "Chúng ta sẽ có nhiều thời gian rảnh rỗi hơn để suy ngẫm về những điều đã bỏ lỡ."
+        "Chúng ta có thể sẽ có nhiều tiền hơn để tận hưởng cuộc sống một cách xa hoa hơn so với khi còn trẻ và chưa có sự nghiệp.",
+        "Chúng ta sẽ có đủ kinh nghiệm sống để đưa ra những lựa chọn giải trí khôn ngoan hơn và tránh được các sai lầm cũ kỹ.",
+        "Chúng ta sẽ có nhiều thời gian rảnh rỗi hơn để suy ngẫm về những điều đã bỏ lỡ và tận hưởng sự bình yên của tuổi già.",
+        "Chúng ta có thể sẽ không còn sức khỏe, năng lượng hoặc cơ hội để thực hiện những điều mình từng mong muốn trong quá khứ."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả chỉ ra rằng việc 'chờ đến khi về già' mới hưởng thụ cuộc sống là một sai lầm lớn. Lý do chính là khi về già, chúng ta có thể không còn đủ sức khỏe, năng lượng, hoặc thậm chí là cơ hội để làm những điều mình từng mơ ước. Nhiều trải nghiệm (du lịch mạo hiểm, học hỏi điều mới, theo đuổi đam mê thể chất) đòi hỏi sức trẻ và khả năng thích nghi. Việc trì hoãn hạnh phúc không đảm bảo rằng chúng ta sẽ có điều kiện tốt hơn để hưởng thụ sau này, mà ngược lại, có thể đánh mất hoàn toàn cơ hội. Phương án B nêu bật rủi ro lớn nhất."
+      "correctIndex": 3,
+      "explanation": "Trì hoãn hạnh phúc đến tuổi già là rủi ro lớn vì khi đó sức khỏe và cơ hội có thể không còn."
     },
     {
       "id": "q13",
       "question": "Thái độ 'chộp lấy' cơ hội khi nó xảy đến, như tác giả khuyên, đòi hỏi một tư duy lãnh đạo bản thân như thế nào?",
       "options": [
-        "Khả năng đánh giá nhanh chóng và hành động dứt khoát, không chần chừ.",
-        "Tư duy mạo hiểm mù quáng, chấp nhận mọi rủi ro.",
-        "Sự phụ thuộc vào người khác để nhận diện và khai thác cơ hội.",
-        "Khả năng dự đoán tương lai để luôn đi trước một bước."
+        "Khả năng đánh giá nhanh chóng và hành động dứt khoát, không chần chừ trước những cơ hội thoáng qua trong cuộc sống.",
+        "Tư duy mạo hiểm mù quáng, sẵn sàng chấp nhận mọi rủi ro mà không cần cân nhắc đến hậu quả lâu dài của các quyết định.",
+        "Sự phụ thuộc vào người khác để nhận diện và khai thác cơ hội vì bản thân không đủ tự tin để tự mình đưa ra quyết định.",
+        "Khả năng dự đoán tương lai một cách chính xác để luôn đi trước một bước so với những người khác trong cùng hoàn cảnh."
       ],
       "correctIndex": 0,
-      "explanation": "Việc 'chộp lấy' cơ hội đòi hỏi sự chủ động, tinh thần cảnh giác và khả năng ra quyết định nhanh chóng. Người có tư duy lãnh đạo bản thân hiệu quả hiểu rằng cơ hội thường thoáng qua và không chờ đợi. Họ không lãng phí thời gian vào sự do dự hay phân tích quá mức. Thay vào đó, họ nhanh chóng đánh giá tình hình, chấp nhận một mức độ rủi ro nhất định và hành động dứt khoát. Điều này không phải là liều lĩnh mù quáng, mà là sự nhạy bén và can đảm. Phương án A phản ánh đúng nhất tư duy cần thiết."
+      "explanation": "Chộp lấy cơ hội đòi hỏi sự chủ động, nhạy bén và can đảm để hành động dứt khoát thay vì do dự."
     },
     {
       "id": "q14",
       "question": "Trong bối cảnh công sở, thông điệp 'Hãy làm ngay' có thể được áp dụng để giải quyết vấn đề nào phổ biến nhất?",
       "options": [
-        "Thiếu sự cạnh tranh lành mạnh giữa các đồng nghiệp.",
-        "Văn hóa đổ lỗi và né tránh trách nhiệm khi có sự cố.",
-        "Hiện tượng 'phân tích tê liệt' (analysis paralysis) và trì hoãn dự án.",
-        "Thiếu ngân sách cho các sáng kiến mới và đột phá."
+        "Thiếu sự cạnh tranh lành mạnh giữa các đồng nghiệp trong cùng một bộ phận, dẫn đến hiệu suất làm việc chung bị giảm sút.",
+        "Hiện tượng 'phân tích tê liệt' và trì hoãn dự án do dành quá nhiều thời gian để tìm kiếm sự hoàn hảo trước khi bắt đầu.",
+        "Văn hóa đổ lỗi và né tránh trách nhiệm khi có sự cố xảy ra trong quá trình thực hiện các nhiệm vụ được giao phó hàng ngày.",
+        "Thiếu ngân sách cho các sáng kiến mới và đột phá khiến nhân viên không có cơ hội để thể hiện năng lực sáng tạo của mình."
       ],
-      "correctIndex": 2,
-      "explanation": "Trong môi trường công sở, 'Hãy làm ngay' là một liều thuốc mạnh chống lại hiện tượng 'phân tích tê liệt' (analysis paralysis). Đây là tình trạng mà các đội nhóm hoặc cá nhân dành quá nhiều thời gian để phân tích, lập kế hoạch, và tìm kiếm sự hoàn hảo đến mức không bao giờ bắt đầu hoặc hoàn thành một dự án. Thông điệp của tác giả khuyến khích hành động, thử nghiệm, và học hỏi từ quá trình làm, thay vì chờ đợi mọi thứ hoàn hảo mới bắt đầu. Phương án C nêu bật vấn đề phổ biến nhất mà triết lý này có thể giải quyết."
+      "correctIndex": 1,
+      "explanation": "Thông điệp này là liều thuốc chống lại sự trì hoãn do cầu toàn, giúp thúc đẩy hành động và học hỏi."
     },
     {
       "id": "q15",
-      "question": "Tác giả kết thúc chương bằng câu 'Tháng ngày đang qua đi. Rất nhanh.' Điều này gợi lên cảm xúc và hành động nào trong độc giả?",
+      "question": "Tác giả kết thúc chương bằng câu 'Tháng ngày đang qua đi. Rất nhanh.' Điều này gợi lên cảm xúc và hành động nào?",
       "options": [
-        "Cảm giác hối tiếc về những gì đã bỏ lỡ trong quá khứ.",
-        "Sự thôi thúc mạnh mẽ để nhận ra giá trị của thời gian và hành động ngay lập tức.",
-        "Nỗi sợ hãi về tương lai và sự mất mát những gì đang có.",
-        "Sự chấp nhận số phận và buông bỏ mọi mục tiêu."
+        "Cảm giác hối tiếc sâu sắc về những gì đã bỏ lỡ trong quá khứ, khiến con người trở nên chán nản và mất niềm tin vào tương lai.",
+        "Nỗi sợ hãi về tương lai và sự mất mát những gì đang có, dẫn đến việc thu mình lại và không dám thực hiện bất kỳ thay đổi.",
+        "Sự thôi thúc mạnh mẽ để nhận ra giá trị của thời gian và hành động ngay lập tức thay vì để thời gian trôi qua vô ích.",
+        "Sự chấp nhận số phận và buông bỏ mọi mục tiêu cá nhân vì nhận thấy cuộc đời quá ngắn ngủi để cố gắng làm bất cứ điều gì."
       ],
-      "correctIndex": 1,
-      "explanation": "Câu kết 'Tháng ngày đang qua đi. Rất nhanh.' là một lời nhắc nhở mạnh mẽ về sự hữu hạn của thời gian, không phải để gây hối tiếc mà là để thúc đẩy hành động. Nó tạo ra một cảm giác cấp bách, khuyến khích độc giả nhận thức sâu sắc về giá trị của mỗi khoảnh khắc và biến nhận thức đó thành động lực để 'làm ngay', sống trọn vẹn và không trì hoãn. Mục đích là để kích hoạt sự chủ động, không phải sự thụ động hay tuyệt vọng. Phương án B nắm bắt đúng ý nghĩa khuyến khích hành động của tác giả."
+      "correctIndex": 2,
+      "explanation": "Câu kết là lời nhắc nhở về sự hữu hạn của thời gian, nhằm kích hoạt sự chủ động và hành động ngay lập tức."
     }
   ]
 }

@@ -8,130 +8,130 @@
       "id": "q1",
       "question": "Theo quan điểm của Robin Sharma, tại sao việc kiểm soát chặt chẽ nhân viên lại là rào cản đối với sự xuất sắc của tổ chức?",
       "options": [
-        "Vì nó làm tăng chi phí quản lý vận hành không cần thiết",
-        "Vì nó tước đi không gian sáng tạo và sự sở hữu cá nhân trong công việc",
-        "Vì nhân viên sẽ cảm thấy bị giám sát và không làm việc hiệu quả",
-        "Vì nó tạo ra khoảng cách quá lớn giữa lãnh đạo và nhân viên"
+        "Nó tước đi không gian sáng tạo, quyền sở hữu cá nhân, và khả năng tự chủ, khiến nhân viên khó lòng phát huy tối đa tiềm năng.",
+        "Nó làm tăng đáng kể chi phí quản lý và giám sát, gây lãng phí nguồn lực mà không mang lại hiệu quả vượt trội.",
+        "Nhân viên sẽ cảm thấy bị giám sát quá mức, dẫn đến tâm lý chán nản, thiếu động lực và giảm sút năng suất làm việc.",
+        "Việc kiểm soát chặt chẽ tạo ra khoảng cách lớn giữa lãnh đạo và nhân viên, làm suy yếu tinh thần đoàn kết và hợp tác nội bộ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Kiểm soát quá mức triệt tiêu quyền sở hữu (ownership) và sáng tạo. Khi nhân viên chỉ thực thi lệnh, họ mất đi sự kết nối sâu sắc với kết quả, từ đó không thể đạt đến sự xuất sắc thực thụ."
     },
     {
       "id": "q2",
-      "question": "Trong bối cảnh lãnh đạo, tại sao tác giả coi 'thất bại' là một phần tất yếu của quá trình tự do?",
+      "question": "Trong bối cảnh lãnh đạo, tại sao tác giả coi 'thất bại' là một phần tất yếu của quá trình tự do và thành công?",
       "options": [
-        "Vì không ai có thể làm đúng ngay từ lần đầu tiên",
-        "Vì thất bại giúp nhân viên học được cách chịu trách nhiệm với lỗi lầm",
-        "Vì đó là cái giá phải trả để đổi lấy tư duy đổi mới và đột phá",
-        "Vì lãnh đạo cần biết nhân viên có thật sự nỗ lực hay không"
+        "Vì không ai có thể làm đúng ngay từ lần đầu tiên, nên thất bại là bước đệm tự nhiên để nhân viên học hỏi và trưởng thành.",
+        "Thất bại là cái giá cần thiết để đổi lấy tư duy đổi mới, sự dũng cảm thử nghiệm và những đột phá mang tính cách mạng.",
+        "Thất bại giúp nhân viên học được cách chịu trách nhiệm với lỗi lầm của mình, từ đó nâng cao ý thức kỷ luật và sự cẩn trọng.",
+        "Lãnh đạo cần biết nhân viên có thật sự nỗ lực và dám đối mặt với khó khăn hay không, qua đó đánh giá đúng năng lực."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Tư duy vĩ đại chấp nhận rủi ro. Tự do mà không có quyền thất bại chỉ là sự tự do giả tạo, khiến nhân viên không dám thử nghiệm các giải pháp mới."
     },
     {
       "id": "q3",
       "question": "Câu nói 'Bạn có sẵn sàng để những người chung quanh mình cảm nhận điều ấy bằng cách cho họ tự do? Bởi vì nếu bạn không làm thế, người khác sẽ làm' hàm ý gì?",
       "options": [
-        "Đe dọa về việc nhân viên sẽ nghỉ việc nếu không được tôn trọng",
-        "Nhấn mạnh về sự cạnh tranh nguồn nhân lực tài năng trên thị trường",
-        "Cảnh báo về tầm quan trọng của việc giữ chân nhân tài bằng sự thấu hiểu",
-        "Khuyên nhủ lãnh đạo cần có tầm nhìn xa để không bị tụt hậu"
+        "Đe dọa về việc nhân viên sẽ nhanh chóng rời bỏ tổ chức nếu họ không cảm thấy được tôn trọng và trao quyền tự chủ đầy đủ.",
+        "Cảnh báo về tầm quan trọng của việc giữ chân nhân tài bằng sự thấu hiểu và đáp ứng các nhu cầu cá nhân của họ kịp thời.",
+        "Nhấn mạnh sự cạnh tranh gay gắt trên thị trường lao động để thu hút và giữ chân nhân tài bằng môi trường làm việc lý tưởng.",
+        "Khuyên nhủ lãnh đạo cần có tầm nhìn xa để không bị tụt hậu so với các đối thủ, những người luôn tìm cách đổi mới quản lý."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Đây là lời cảnh tỉnh về thực tế thị trường: nhân tài luôn tìm kiếm môi trường tôn trọng sự tự do cá nhân. Nếu bạn không tạo ra môi trường đó, đối thủ cạnh tranh của bạn sẽ làm."
     },
     {
       "id": "q4",
       "question": "Tố chất quan trọng nhất của người lãnh đạo sau khi đã truyền đạt xong 'viễn cảnh' và 'hướng dẫn' là gì?",
       "options": [
-        "Đánh giá sát sao tiến độ làm việc",
-        "Tạo ra các cơ chế thưởng phạt minh bạch",
-        "Buông bỏ quyền kiểm soát quy trình để trao quyền tự quyết",
-        "Luôn sẵn sàng hỗ trợ khi nhân viên cần giúp đỡ"
+        "Đánh giá sát sao tiến độ làm việc và hiệu suất của từng cá nhân, đảm bảo mọi thứ đi đúng quỹ đạo đã định.",
+        "Tạo ra các cơ chế thưởng phạt minh bạch và công bằng, khuyến khích thành tích và xử lý nghiêm các sai phạm.",
+        "Luôn sẵn sàng hỗ trợ và can thiệp kịp thời khi nhân viên gặp khó khăn hoặc cần sự giúp đỡ từ cấp trên.",
+        "Buông bỏ quyền kiểm soát vi mô quy trình, trao quyền tự quyết và tin tưởng vào khả năng của nhân viên."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Sau khi định hướng xong, việc buông bỏ là bước then chốt nhất để chuyển từ kiểm soát sang trao quyền (empowerment), thúc đẩy sự trưởng thành của nhân viên."
     },
     {
       "id": "q5",
-      "question": "Tại sao tác giả cho rằng việc trao tự do giúp nhân viên cảm thấy 'thật sự sống động'?",
+      "question": "Tại sao tác giả cho rằng việc trao tự do giúp nhân viên cảm thấy 'thật sự sống động' trong công việc của mình?",
       "options": [
-        "Vì họ được làm công việc mình yêu thích",
-        "Vì họ có thể áp dụng tài năng và chứng minh giá trị bản thân vào thực tế",
-        "Vì họ không bị áp lực từ lãnh đạo",
-        "Vì họ có quyền tự quyết định thu nhập của mình"
+        "Vì họ có thể áp dụng tài năng, sự sáng tạo và chứng minh giá trị bản thân vào thực tế, tạo ra tác động rõ rệt.",
+        "Vì họ được làm công việc mình yêu thích mà không bị ràng buộc bởi các quy tắc hay sự can thiệp từ cấp trên.",
+        "Vì họ không bị áp lực từ lãnh đạo, có thể làm việc theo tốc độ và phong cách riêng, giảm bớt căng thẳng.",
+        "Vì họ có quyền tự quyết định thu nhập của mình thông qua hiệu suất và đóng góp, tạo động lực tài chính mạnh mẽ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Cảm giác sống động đến từ sự tự hiện thực hóa bản thân. Khi được tự do sử dụng tài năng, công việc không còn là gánh nặng mà là sân chơi thể hiện giá trị cá nhân."
     },
     {
       "id": "q6",
-      "question": "Sự khác biệt cốt lõi giữa quản lý truyền thống và lối lãnh đạo trong chương này là gì?",
+      "question": "Sự khác biệt cốt lõi giữa quản lý truyền thống và lối lãnh đạo được đề cập trong chương này là gì?",
       "options": [
-        "Tập trung vào kết quả so với tập trung vào quy trình",
-        "Tập trung vào viễn cảnh so với tập trung vào việc thực thi",
-        "Tập trung vào phát triển tiềm năng con người so với việc giám sát hiệu suất",
-        "Tập trung vào sự ổn định so với tập trung vào sự đổi mới"
+        "Tập trung vào kết quả cuối cùng đạt được so với việc tập trung vào từng bước của quy trình thực hiện công việc.",
+        "Tập trung vào phát triển tiềm năng con người và trao quyền tự chủ so với việc giám sát chặt chẽ hiệu suất.",
+        "Tập trung vào việc truyền đạt viễn cảnh lớn so với việc tập trung vào các chi tiết nhỏ trong việc thực thi nhiệm vụ.",
+        "Tập trung vào sự ổn định và duy trì hiện trạng so với tập trung vào sự đổi mới liên tục và thích ứng linh hoạt."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Lãnh đạo hiện đại tập trung vào việc giải phóng tiềm năng thay vì giám sát việc thực thi. Đó là sự thay đổi tư duy từ 'quản lý công việc' sang 'lãnh đạo con người'."
     },
     {
       "id": "q7",
-      "question": "Theo logic của chương, tại sao sự tự do lại tỷ lệ thuận với sự cam kết của nhân viên?",
+      "question": "Theo logic của chương, tại sao sự tự do lại tỷ lệ thuận với sự cam kết sâu sắc của nhân viên?",
       "options": [
-        "Vì sự tự do tạo ra lòng biết ơn",
-        "Vì được tự do đồng nghĩa với việc được tin tưởng và tôn trọng",
-        "Vì sự tự do giúp công việc trở nên thoải mái hơn",
-        "Vì nhân viên sẽ không phải chịu áp lực từ lãnh đạo"
+        "Vì sự tự do tạo ra lòng biết ơn đối với người lãnh đạo, khiến nhân viên muốn đền đáp bằng sự cống hiến hết mình.",
+        "Vì sự tự do giúp công việc trở nên thoải mái và ít áp lực hơn, khiến nhân viên gắn bó lâu dài với tổ chức.",
+        "Vì được tự do đồng nghĩa với việc được tin tưởng và tôn trọng, từ đó tạo ra lòng trung thành và cam kết mạnh mẽ.",
+        "Vì nhân viên sẽ không phải chịu áp lực từ lãnh đạo, giúp họ tập trung hoàn toàn vào công việc mà không bị phân tâm."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự tự do là minh chứng cao nhất của lòng tin. Khi nhận được lòng tin, nhân viên có xu hướng cam kết sâu sắc hơn vào kết quả chung."
     },
     {
       "id": "q8",
       "question": "Khi nhân viên có quyền được thất bại, điều gì sẽ xảy ra với văn hóa của một tổ chức?",
       "options": [
-        "Tổ chức sẽ trở nên trì trệ do lỗi lầm xảy ra nhiều hơn",
-        "Lãnh đạo sẽ tốn kém chi phí để khắc phục hậu quả",
-        "Văn hóa sợ hãi bị thay thế bằng văn hóa học hỏi và thử nghiệm",
-        "Các nhân viên sẽ trở nên cẩn trọng hơn trong mọi việc"
+        "Tổ chức sẽ trở nên trì trệ và kém hiệu quả do lỗi lầm xảy ra nhiều hơn, gây ảnh hưởng tiêu cực đến mục tiêu chung.",
+        "Lãnh đạo sẽ tốn kém chi phí để khắc phục hậu quả từ các sai lầm, làm giảm lợi nhuận và nguồn lực đầu tư khác.",
+        "Các nhân viên sẽ trở nên cẩn trọng hơn trong mọi việc, tránh rủi ro và chỉ làm những gì an toàn, ít sai sót.",
+        "Văn hóa sợ hãi bị thay thế bằng văn hóa học hỏi, thử nghiệm, khuyến khích sự sáng tạo và đổi mới liên tục."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Quyền được thất bại giúp loại bỏ nỗi sợ phán xét, từ đó thúc đẩy sự dũng cảm sáng tạo, giúp tổ chức tiến xa hơn thay vì giữ trạng thái an toàn."
     },
     {
       "id": "q9",
-      "question": "Tại sao việc 'truyền đạt viễn cảnh' là bước bắt buộc trước khi để người khác tự do?",
+      "question": "Tại sao việc 'truyền đạt viễn cảnh' là bước bắt buộc trước khi để người khác tự do trong công việc?",
       "options": [
-        "Để nhân viên biết rõ mình đang làm gì và tại sao",
-        "Để đảm bảo quyền lực của người lãnh đạo không bị suy giảm",
-        "Để có cơ sở đánh giá nhân viên sau này",
-        "Để tránh sự chồng chéo giữa các bộ phận"
+        "Để nhân viên biết rõ mình đang làm gì, tại sao lại làm và mục tiêu cuối cùng cần đạt được là gì, tránh đi chệch hướng.",
+        "Để đảm bảo quyền lực và vai trò định hướng của người lãnh đạo không bị suy giảm khi trao quyền tự chủ cho nhân viên.",
+        "Để có cơ sở đánh giá hiệu suất và đóng góp của nhân viên sau này, đảm bảo sự công bằng và minh bạch trong tổ chức.",
+        "Để tránh sự chồng chéo giữa các bộ phận và cá nhân, đảm bảo mọi người cùng hướng tới một mục tiêu chung duy nhất."
       ],
       "correctIndex": 0,
       "explanation": "Tự do mà không có định hướng là sự hỗn loạn. Viễn cảnh cung cấp 'ngọn hải đăng', giúp nhân viên tự do sáng tạo nhưng vẫn đi đúng hướng của tổ chức."
     },
     {
       "id": "q10",
-      "question": "Đâu là bẫy tư duy mà các nhà lãnh đạo thường mắc phải khi áp dụng sự tự do?",
+      "question": "Đâu là bẫy tư duy mà các nhà lãnh đạo thường mắc phải khi áp dụng nguyên tắc trao quyền tự do?",
       "options": [
-        "Để mặc nhân viên làm việc mà không truyền đạt mục tiêu rõ ràng",
-        "Quá tin tưởng vào nhân viên dẫn đến mất kiểm soát",
-        "Tự do quá mức làm giảm tính kỷ luật của tổ chức",
-        "Lo ngại rằng việc trao tự do sẽ khiến lãnh đạo mất tầm ảnh hưởng"
+        "Để mặc nhân viên làm việc mà không truyền đạt mục tiêu rõ ràng, dẫn đến sự thiếu định hướng và kết quả không như mong đợi.",
+        "Lo ngại rằng việc trao tự do sẽ khiến lãnh đạo mất tầm ảnh hưởng, quyền lực hoặc sự kiểm soát đối với đội ngũ.",
+        "Quá tin tưởng vào nhân viên dẫn đến mất kiểm soát hoàn toàn, gây ra những rủi ro không đáng có cho tổ chức.",
+        "Tự do quá mức làm giảm tính kỷ luật và sự tuân thủ quy tắc của tổ chức, gây ra sự hỗn loạn và thiếu trật tự."
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanation": "Nhiều lãnh đạo sợ mất vị thế hoặc sợ sự mất kiểm soát. Đây là tư duy dựa trên cái tôi (ego) thay vì tư duy dựa trên sự phát triển của đội ngũ."
     },
     {
       "id": "q11",
       "question": "Cái đích cuối cùng mà Robin Sharma muốn người lãnh đạo đạt tới qua việc trao tự do là gì?",
       "options": [
-        "Giảm thiểu gánh nặng quản lý cho bản thân",
-        "Tối đa hóa lợi nhuận thông qua sức sáng tạo tập thể",
-        "Đánh thức niềm tự hào và sự khác biệt của mỗi thành viên",
-        "Tăng khả năng thích ứng của tổ chức với biến động"
+        "Giảm thiểu gánh nặng quản lý và giám sát cho bản thân, giúp lãnh đạo có thêm thời gian cho các công việc chiến lược.",
+        "Tối đa hóa lợi nhuận và hiệu quả kinh doanh thông qua việc khai thác sức sáng tạo tập thể của toàn bộ nhân viên.",
+        "Đánh thức niềm tự hào, sự khác biệt và cảm giác có ý nghĩa của mỗi thành viên trong công việc và cuộc đời.",
+        "Tăng khả năng thích ứng của tổ chức với biến động thị trường, giúp doanh nghiệp linh hoạt và bền vững hơn trong dài hạn."
       ],
       "correctIndex": 2,
       "explanation": "Giá trị cao nhất không nằm ở con số, mà ở việc giúp mỗi con người cảm thấy công việc của họ có ý nghĩa và họ đang tạo ra sự khác biệt."
@@ -140,34 +140,34 @@
       "id": "q12",
       "question": "Trong tư duy phát triển bản thân, việc 'để người khác tự do' phản chiếu điều gì ở chính người lãnh đạo?",
       "options": [
-        "Sự tự tin vào khả năng truyền đạt của mình",
-        "Sự trưởng thành trong nhận thức về quyền lực và lòng tin",
-        "Sự nhàn hạ do không phải trực tiếp giải quyết vấn đề",
-        "Sự khôn ngoan trong việc chọn người giỏi"
+        "Sự tự tin tuyệt đối vào khả năng truyền đạt viễn cảnh và hướng dẫn của mình, không cần phải kiểm soát chi tiết.",
+        "Sự nhàn hạ do không phải trực tiếp giải quyết các vấn đề phát sinh, có thể tập trung vào các hoạt động cá nhân.",
+        "Sự khôn ngoan trong việc chọn lựa những người giỏi nhất để giao phó công việc, giảm thiểu rủi ro và sai sót.",
+        "Sự trưởng thành trong nhận thức về quyền lực, lòng tin và khả năng buông bỏ cái tôi để trao quyền cho người khác."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Việc buông quyền kiểm soát đòi hỏi một tâm thế vững vàng. Người lãnh đạo phải thực sự trưởng thành mới có thể tin tưởng và trân trọng tiềm năng của người khác hơn là sự phục tùng."
     },
     {
       "id": "q13",
       "question": "Nếu một người lãnh đạo nói rằng: 'Tôi cho nhân viên tự do nhưng họ không đạt kết quả', lỗi nằm ở đâu?",
       "options": [
-        "Do nhân viên chưa đủ năng lực hoặc thiếu sự cam kết",
-        "Do lãnh đạo chưa truyền đạt đủ rõ viễn cảnh và mục tiêu",
-        "Do môi trường làm việc quá cạnh tranh",
-        "Do quy trình của tổ chức còn nhiều rào cản"
+        "Do lãnh đạo chưa truyền đạt đủ rõ viễn cảnh, mục tiêu và kỳ vọng, khiến nhân viên thiếu định hướng rõ ràng.",
+        "Do nhân viên chưa đủ năng lực hoặc thiếu sự cam kết cần thiết, không thể tận dụng tốt sự tự do được trao.",
+        "Do môi trường làm việc quá cạnh tranh hoặc thiếu nguồn lực hỗ trợ, gây khó khăn cho nhân viên trong việc đạt mục tiêu.",
+        "Do quy trình của tổ chức còn nhiều rào cản và sự phức tạp, cản trở nhân viên phát huy sự sáng tạo và tự chủ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự tự do mà không có hướng dẫn dẫn đến thất bại. Lãnh đạo phải đảm bảo viễn cảnh đã được truyền tải sâu sắc trước khi trao quyền tự quyết."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc 'cảm thấy thành công là như thế nào' lại quan trọng đối với mỗi cá nhân?",
+      "question": "Tại sao việc 'cảm thấy thành công là như thế nào' lại quan trọng đối với mỗi cá nhân trong công việc?",
       "options": [
-        "Vì đó là thước đo để tăng lương",
-        "Vì nó tạo động lực nội tại mạnh mẽ hơn mọi sự thúc ép từ bên ngoài",
-        "Vì nó giúp nhân viên dễ dàng hơn trong các công việc tương tự sau này",
-        "Vì nó là bằng chứng của năng lực vượt trội"
+        "Vì đó là thước đo khách quan để tăng lương, thăng chức và nhận được sự công nhận xứng đáng từ phía ban lãnh đạo.",
+        "Vì nó tạo ra động lực nội tại mạnh mẽ, bền vững hơn hẳn mọi sự thúc ép hay các phần thưởng vật chất từ bên ngoài.",
+        "Vì nó giúp nhân viên thực hiện dễ dàng hơn các công việc tương tự sau này, tích lũy kinh nghiệm và kỹ năng cần.",
+        "Vì nó là bằng chứng của năng lực vượt trội và sự cống hiến không ngừng, khẳng định vị thế cá nhân trong đội ngũ."
       ],
       "correctIndex": 1,
       "explanation": "Thành công thực sự phải được cảm nhận từ bên trong (nội tại). Khi nhân viên tự do trải nghiệm và định nghĩa thành công của chính mình, họ trở nên chủ động và khó bị lung lay."
@@ -176,12 +176,12 @@
       "id": "q15",
       "question": "Khái niệm 'người lãnh đạo không chức danh' có thể hiểu thế nào từ nội dung chương này?",
       "options": [
-        "Là người không cần cấp dưới vẫn có thể lãnh đạo",
-        "Là người tập trung giải phóng tiềm năng của người khác thay vì quản lý chức danh",
-        "Là người không muốn bị ràng buộc bởi các quy định của tổ chức",
-        "Là người chú trọng phát triển kỹ năng cá nhân hơn kỹ năng đội ngũ"
+        "Là người không cần cấp dưới vẫn có thể lãnh đạo, tự mình hoàn thành mọi nhiệm vụ mà không cần sự hỗ trợ.",
+        "Là người không muốn bị ràng buộc bởi các quy định và cấu trúc tổ chức, thích làm việc độc lập và tự do.",
+        "Là người tập trung giải phóng tiềm năng của người khác, truyền cảm hứng thay vì quản lý bằng chức danh hay quyền lực.",
+        "Là người chú trọng phát triển kỹ năng cá nhân và chuyên môn hơn là kỹ năng lãnh đạo đội ngũ hay quản lý con người."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Lãnh đạo không chức danh tập trung vào tác động và truyền cảm hứng. Việc tạo ra môi trường tự do chính là cách để người lãnh đạo thực sự khai thác và phát triển giá trị con người."
     }
   ]

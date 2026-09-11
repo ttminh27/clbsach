@@ -8,130 +8,130 @@
       "id": "q1",
       "question": "Theo tác giả, mối quan hệ giữa vai trò lãnh đạo và đời sống gia đình được định nghĩa như thế nào?",
       "options": [
-        "Gia đình là nơi nghỉ ngơi sau khi hoàn thành nhiệm vụ lãnh đạo tại công sở.",
-        "Kỹ năng lãnh đạo thực thụ phải được bắt đầu và thực hành từ trong chính gia đình.",
-        "Lãnh đạo tại công sở quan trọng hơn vì nó tạo ra nguồn lực tài chính cho gia đình.",
-        "Gia đình chỉ là hậu phương, không nên để cảm xúc gia đình ảnh hưởng đến quyết định công việc."
+        "Kỹ năng lãnh đạo thực thụ phải được bắt đầu và thực hành từ trong chính gia đình trước khi áp dụng ra ngoài xã hội.",
+        "Gia đình là nơi nghỉ ngơi sau khi hoàn thành nhiệm vụ lãnh đạo tại công sở để tái tạo sức lao động cho ngày mới.",
+        "Lãnh đạo tại công sở quan trọng hơn vì nó tạo ra nguồn lực tài chính để đảm bảo cuộc sống ổn định cho gia đình.",
+        "Gia đình chỉ là hậu phương, không nên để cảm xúc cá nhân ảnh hưởng đến các quyết định chiến lược trong công việc."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả khẳng định 'Vai trò lãnh đạo bắt đầu từ trong nhà'. Lãnh đạo không phải là chức danh, mà là năng lực gây ảnh hưởng và chăm sóc, bắt đầu từ những đơn vị nhỏ nhất là gia đình."
+      "correctIndex": 0,
+      "explanation": "Tác giả khẳng định vai trò lãnh đạo bắt đầu từ trong nhà, coi gia đình là tổ chức cần được chăm sóc và yêu thương."
     },
     {
       "id": "q2",
       "question": "Nghịch lý lớn nhất mà nhiều nhà điều hành giàu có phải đối mặt khi nhìn lại quá trình nuôi dạy con là gì?",
       "options": [
-        "Họ có đủ tài chính nhưng không thể mua được thời gian để bù đắp sự thiếu vắng của mình.",
-        "Họ đã dành quá nhiều thời gian cho gia đình mà quên mất sự nghiệp cần thiết.",
-        "Con cái họ có quá nhiều vật chất nhưng lại thiếu kỹ năng sống cơ bản.",
-        "Họ quá chú trọng vào việc giáo dục con cái khiến trẻ không có tuổi thơ trọn vẹn."
+        "Họ đã dành quá nhiều thời gian cho gia đình mà quên mất sự nghiệp cần thiết để duy trì vị thế xã hội của bản thân.",
+        "Họ sở hữu khối tài sản khổng lồ nhưng lại hoàn toàn trắng tay trong việc xây dựng ký ức tuổi thơ cùng với con cái.",
+        "Con cái họ có quá nhiều vật chất nhưng lại thiếu hụt các kỹ năng sống cơ bản để tự lập trong môi trường hiện đại.",
+        "Họ quá chú trọng vào việc giáo dục con cái khiến trẻ không có tuổi thơ trọn vẹn và mất đi sự sáng tạo tự nhiên vốn có."
       ],
-      "correctIndex": 0,
-      "explanation": "Đó là nghịch lý giữa sự giàu có vật chất và sự nghèo nàn về gắn kết tình cảm. Tác giả nhấn mạnh rằng 'tiền không phải là hình thức quan trọng nhất của sự giàu có'."
+      "correctIndex": 1,
+      "explanation": "Nghịch lý là sự giàu có về vật chất không bù đắp được sự thiếu vắng tình cảm và thời gian dành cho con cái."
     },
     {
       "id": "q3",
-      "question": "Nếu bạn là một nhà lãnh đạo ưu tiên công việc hơn gia đình, triết lý trong bài học này cảnh báo điều gì về bản chất của sự thành công?",
+      "question": "Nếu bạn là một nhà lãnh đạo ưu tiên công việc hơn gia đình, triết lý trong bài học này cảnh báo điều gì?",
       "options": [
-        "Thành công là con đường đơn độc, sự hy sinh gia đình là điều tất yếu.",
-        "Sự đánh đổi này là cần thiết để đạt đến đỉnh cao sự nghiệp chuyên nghiệp.",
+        "Thành công là con đường đơn độc, sự hy sinh gia đình là điều tất yếu để đạt đến đỉnh cao sự nghiệp chuyên nghiệp.",
+        "Sự đánh đổi này là cần thiết để đạt đến đỉnh cao sự nghiệp, miễn là bạn có thể chu cấp đầy đủ cho gia đình mình.",
         "Một thành tựu công việc rực rỡ có thể trở nên vô nghĩa nếu không có những giây phút chia sẻ với người thương yêu.",
-        "Nhà lãnh đạo giỏi là người có thể cân bằng hoàn hảo bằng cách bỏ qua nhu cầu cá nhân của con cái."
+        "Nhà lãnh đạo giỏi là người có thể cân bằng hoàn hảo bằng cách bỏ qua nhu cầu cá nhân của con cái để tập trung mục tiêu."
       ],
       "correctIndex": 2,
-      "explanation": "Tác giả nhấn mạnh giây phút cao quý nhất là giây phút chia sẻ với người yêu thương, ám chỉ rằng thành công cá nhân không trọn vẹn nếu thiếu đi nền tảng gia đình vững chắc."
+      "explanation": "Tác giả nhấn mạnh giây phút cao quý nhất là giây phút chia sẻ với người yêu thương, thành công không trọn vẹn nếu thiếu gia đình."
     },
     {
       "id": "q4",
       "question": "Tại sao tác giả lại nhấn mạnh rằng thời gian dành cho con vượt trội hơn mọi quà tặng vật chất?",
       "options": [
-        "Vì quà tặng vật chất có giá trị khấu hao theo thời gian, không còn ý nghĩa.",
-        "Vì trẻ em không có khả năng hiểu giá trị của quà tặng, chỉ hiểu được sự hiện diện.",
-        "Vì sự hiện diện của cha mẹ đáp ứng nhu cầu cốt lõi về sự gắn kết và cảm giác được yêu thương.",
-        "Vì cha mẹ không cần phải chi tiêu tiền bạc để xây dựng mối quan hệ với con cái."
+        "Vì quà tặng vật chất có giá trị khấu hao theo thời gian, không còn ý nghĩa khi trẻ lớn lên và hiểu về giá trị tiền bạc.",
+        "Vì trẻ em không có khả năng hiểu giá trị của quà tặng, chỉ hiểu được sự hiện diện của cha mẹ trong các hoạt động chung.",
+        "Vì cha mẹ không cần phải chi tiêu tiền bạc để xây dựng mối quan hệ với con cái, chỉ cần sự quan tâm chân thành là đủ.",
+        "Sự hiện diện của cha mẹ đáp ứng nhu cầu cốt lõi về sự gắn kết và cảm giác được yêu thương mà tiền bạc không mua được."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự hiện diện là nhu cầu tâm lý tối thượng. Quà tặng chỉ là vật chất, thời gian là thứ tạo ra ký ức và sự phát triển nhân cách cho trẻ."
+      "correctIndex": 3,
+      "explanation": "Sự hiện diện là nhu cầu tâm lý tối thượng, thời gian là thứ tạo ra ký ức và sự phát triển nhân cách cho trẻ."
     },
     {
       "id": "q5",
       "question": "Thông điệp của tác giả về việc 'nói với con những điều bạn muốn nói' phản ánh tư duy nào trong quản trị quan hệ?",
       "options": [
-        "Sự thẳng thắn và chủ động thể hiện tình cảm là biểu hiện của sự can đảm trong tình yêu thương.",
-        "Nên đợi đến khi con cái trưởng thành mới bày tỏ để tránh ảnh hưởng đến tâm lý trẻ.",
-        "Chỉ cần hành động tốt là đủ, không nhất thiết phải diễn đạt bằng lời nói.",
-        "Việc bày tỏ tình cảm quá nhiều sẽ làm con cái trở nên ỷ lại và thiếu kỷ luật."
+        "Sự thẳng thắn và chủ động thể hiện tình cảm là biểu hiện của sự can đảm trong tình yêu thương và gắn kết gia đình.",
+        "Nên đợi đến khi con cái trưởng thành mới bày tỏ để tránh ảnh hưởng đến tâm lý trẻ trong giai đoạn phát triển nhạy cảm.",
+        "Chỉ cần hành động tốt là đủ, không nhất thiết phải diễn đạt bằng lời nói vì trẻ em thường cảm nhận qua hành động thực.",
+        "Việc bày tỏ tình cảm quá nhiều sẽ làm con cái trở nên ỷ lại và thiếu kỷ luật trong việc rèn luyện bản thân sau này."
       ],
       "correctIndex": 0,
-      "explanation": "Sự can đảm để thể hiện cảm xúc là hành động của một người lãnh đạo mạnh mẽ, bởi nó phá vỡ rào cản ngăn cách giữa các thế hệ."
+      "explanation": "Sự can đảm để thể hiện cảm xúc là hành động của một người lãnh đạo mạnh mẽ, phá vỡ rào cản giữa các thế hệ."
     },
     {
       "id": "q6",
       "question": "Trong bối cảnh công sở, bài học về gia đình này gợi ý điều gì về cách quản trị nhân sự?",
       "options": [
-        "Nhà lãnh đạo nên can thiệp sâu vào đời sống gia đình của nhân viên để họ yên tâm công tác.",
+        "Nhà lãnh đạo nên can thiệp sâu vào đời sống gia đình của nhân viên để họ yên tâm công tác và cống hiến cho công ty.",
         "Nhà lãnh đạo nên khuyến khích nhân viên duy trì cân bằng vì sự hạnh phúc cá nhân ảnh hưởng trực tiếp đến hiệu suất.",
-        "Nhà lãnh đạo nên ưu tiên tuyển dụng người độc thân để tránh vướng bận gia đình.",
-        "Nhà lãnh đạo cần nghiêm khắc ép nhân viên làm thêm giờ để đạt mục tiêu công ty."
+        "Nhà lãnh đạo nên ưu tiên tuyển dụng người độc thân để tránh vướng bận gia đình làm ảnh hưởng đến tiến độ công việc.",
+        "Nhà lãnh đạo cần nghiêm khắc ép nhân viên làm thêm giờ để đạt mục tiêu công ty, coi đó là sự cống hiến cần thiết."
       ],
       "correctIndex": 1,
-      "explanation": "Một nhà lãnh đạo thấu đáo hiểu rằng con người là tổng hòa của các mối quan hệ. Khi gia đình nhân viên ổn định, họ mới có thể cống hiến tốt nhất."
+      "explanation": "Một nhà lãnh đạo thấu đáo hiểu rằng con người là tổng hòa của các mối quan hệ, gia đình ổn định giúp nhân viên cống hiến tốt."
     },
     {
       "id": "q7",
       "question": "Tại sao tác giả lại coi việc 'buông công việc' khi con cần là một quyết định ưu tiên?",
       "options": [
-        "Vì đó là cách duy nhất để tránh bị con cái oán trách sau này.",
-        "Vì sự nghiệp luôn có thể làm lại, nhưng giai đoạn thơ ấu của con chỉ có một lần.",
-        "Vì công việc hiện tại của tác giả quá linh hoạt, không bị ràng buộc thời gian.",
-        "Vì tác giả coi trọng việc nuôi dạy con cái hơn bất kỳ giá trị xã hội nào khác."
+        "Vì đó là cách duy nhất để tránh bị con cái oán trách sau này khi chúng đã trưởng thành và không còn cần cha mẹ nữa.",
+        "Vì công việc hiện tại của tác giả quá linh hoạt, không bị ràng buộc thời gian nên việc buông bỏ là điều rất dễ dàng.",
+        "Vì sự nghiệp luôn có thể làm lại, nhưng giai đoạn thơ ấu của con chỉ có một lần duy nhất trong cuộc đời mỗi người.",
+        "Vì tác giả coi trọng việc nuôi dạy con cái hơn bất kỳ giá trị xã hội nào khác, kể cả sự nghiệp đang trên đà phát triển."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự ưu tiên dựa trên quy luật 'cơ hội không quay lại'. Đây là tư duy quản trị sự nghiệp dài hạn: nhận diện được đâu là thời điểm 'không thể thay thế'."
+      "correctIndex": 2,
+      "explanation": "Sự ưu tiên dựa trên quy luật cơ hội không quay lại, nhận diện được đâu là thời điểm không thể thay thế."
     },
     {
       "id": "q8",
       "question": "Bẫy tư duy nào thường khiến các bậc cha mẹ (đặc biệt là giới lãnh đạo) xa rời con cái?",
       "options": [
-        "Tin rằng nỗ lực kiếm tiền vất vả là cách tốt nhất để thể hiện tình yêu với con.",
-        "Cho rằng con cái sẽ tự lớn lên và hiểu được tấm lòng của cha mẹ dù cha mẹ bận rộn.",
-        "Cả hai phương án A và B đều đúng.",
-        "Sợ rằng việc dành thời gian cho con sẽ khiến mình trở nên yếu đuối trong mắt đồng nghiệp."
+        "Cho rằng con cái sẽ tự lớn lên và hiểu được tấm lòng của cha mẹ dù cha mẹ bận rộn không có thời gian bên cạnh trẻ.",
+        "Sợ rằng việc dành thời gian cho con sẽ khiến mình trở nên yếu đuối trong mắt đồng nghiệp và đối tác kinh doanh lớn.",
+        "Tin rằng việc thuê người chăm sóc chuyên nghiệp sẽ tốt hơn là cha mẹ trực tiếp dành thời gian cho con cái mỗi ngày.",
+        "Tin rằng nỗ lực kiếm tiền vất vả là cách tốt nhất để thể hiện tình yêu và trách nhiệm với con cái trong gia đình."
       ],
-      "correctIndex": 2,
-      "explanation": "Cả A và B đều là những ngụy biện phổ biến. Việc lấy tiền bạc làm thước đo sự quan tâm thường dẫn đến sự hối tiếc muộn màng."
+      "correctIndex": 3,
+      "explanation": "Việc lấy tiền bạc làm thước đo sự quan tâm thường dẫn đến sự hối tiếc muộn màng khi con cái đã lớn."
     },
     {
       "id": "q9",
       "question": "Định nghĩa về 'sự giàu có' mà tác giả muốn truyền tải là gì?",
       "options": [
-        "Sự giàu có là số dư tài khoản đủ lớn để đảm bảo cuộc sống cho nhiều thế hệ.",
-        "Sự giàu có là khả năng chi phối thời gian và ưu tiên các kết nối tình cảm sâu sắc.",
-        "Sự giàu có là thành tích công việc được xã hội công nhận và tôn trọng.",
-        "Sự giàu có là không bao giờ phải hối tiếc vì đã làm việc hết mình."
+        "Sự giàu có là khả năng chi phối thời gian và ưu tiên các kết nối tình cảm sâu sắc với những người thân yêu nhất.",
+        "Sự giàu có là số dư tài khoản đủ lớn để đảm bảo cuộc sống cho nhiều thế hệ trong gia đình mà không cần phải lo âu.",
+        "Sự giàu có là thành tích công việc được xã hội công nhận và tôn trọng, khẳng định vị thế của bản thân trong xã hội.",
+        "Sự giàu có là không bao giờ phải hối tiếc vì đã làm việc hết mình để đạt được những mục tiêu lớn lao trong sự nghiệp."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả tái định nghĩa sự giàu có không nằm ở vật chất mà nằm ở chất lượng thời gian dành cho những điều thực sự quan trọng."
+      "correctIndex": 0,
+      "explanation": "Tác giả tái định nghĩa sự giàu có không nằm ở vật chất mà nằm ở chất lượng thời gian dành cho những điều quan trọng."
     },
     {
       "id": "q10",
       "question": "Khi đối mặt với sự hối tiếc về việc 'bỏ lỡ tuổi thơ của con', đâu là tư duy phục hồi hiệu quả nhất?",
       "options": [
-        "Chấp nhận quá khứ và bắt đầu thay đổi sự ưu tiên ngay từ ngày hôm nay.",
-        "Dùng tiền để bù đắp những thiếu hụt về mặt tình cảm trong quá khứ.",
-        "Giải thích cho con hiểu rằng đó là sự hy sinh cần thiết cho gia đình.",
-        "Từ bỏ công việc ngay lập tức để ở nhà toàn thời gian."
+        "Dùng tiền để bù đắp những thiếu hụt về mặt tình cảm trong quá khứ bằng cách mua những món quà đắt tiền cho con cái.",
+        "Chấp nhận quá khứ và bắt đầu thay đổi sự ưu tiên ngay từ ngày hôm nay để bù đắp cho những khoảng thời gian đã mất.",
+        "Giải thích cho con hiểu rằng đó là sự hy sinh cần thiết cho gia đình để con có một tương lai tốt đẹp hơn sau này.",
+        "Từ bỏ công việc ngay lập tức để ở nhà toàn thời gian nhằm chuộc lỗi với con cái sau những năm tháng bận rộn trước."
       ],
-      "correctIndex": 0,
-      "explanation": "Tác giả nhấn mạnh vào hành động 'ngay hôm nay'. Thay đổi tư duy và hành động ở hiện tại là cách duy nhất để chuyển hóa sự hối tiếc thành giá trị mới."
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh vào hành động ngay hôm nay, thay đổi tư duy ở hiện tại là cách duy nhất để chuyển hóa sự hối tiếc."
     },
     {
       "id": "q11",
       "question": "Tính chất của một người cha/mẹ 'lãnh đạo' trong gia đình là gì?",
       "options": [
-        "Kỷ luật con cái dựa trên những quy tắc cứng nhắc của công ty.",
-        "Luôn ra lệnh và yêu cầu con cái thực hiện đúng kế hoạch được định sẵn.",
-        "Chăm sóc, yêu thương, nâng đỡ và là người dẫn dắt bằng tấm lòng.",
-        "Dành toàn bộ tài sản để con có tương lai thuận lợi nhất."
+        "Kỷ luật con cái dựa trên những quy tắc cứng nhắc của công ty để đảm bảo trẻ có tính tự giác cao ngay từ khi còn nhỏ.",
+        "Luôn ra lệnh và yêu cầu con cái thực hiện đúng kế hoạch được định sẵn để đảm bảo tương lai thành công cho đứa trẻ.",
+        "Chăm sóc, yêu thương, nâng đỡ và là người dẫn dắt bằng tấm lòng thay vì áp đặt quyền lực chuyên chế lên con cái.",
+        "Dành toàn bộ tài sản để con có tương lai thuận lợi nhất, coi đó là trách nhiệm cao nhất của người làm cha mẹ hiện."
       ],
       "correctIndex": 2,
       "explanation": "Lãnh đạo trong gia đình gắn liền với việc chăm sóc và nâng đỡ, chứ không phải áp đặt quyền lực chuyên chế."
@@ -140,49 +140,49 @@
       "id": "q12",
       "question": "Điều gì ngăn cản một người làm cha mẹ bày tỏ sự tự hào về con mình?",
       "options": [
-        "Sự khiêm tốn thái quá khiến họ nghĩ rằng khen con là không cần thiết.",
-        "Sự e ngại, thiếu can đảm hoặc suy nghĩ rằng 'con phải biết mình yêu nó thế nào rồi'.",
-        "Lo lắng rằng nếu khen con, trẻ sẽ trở nên kiêu ngạo.",
-        "Tất cả các phương án trên đều là rào cản tâm lý phổ biến."
+        "Sự khiêm tốn thái quá khiến họ nghĩ rằng khen con là không cần thiết và có thể làm trẻ trở nên chủ quan, lười biếng.",
+        "Lo lắng rằng nếu khen con quá nhiều, trẻ sẽ trở nên kiêu ngạo và không còn nỗ lực để hoàn thiện bản thân mình nữa.",
+        "Sợ rằng việc thể hiện cảm xúc quá mức sẽ làm mất đi uy nghiêm của cha mẹ trong mắt con cái khi chúng lớn lên sau.",
+        "Sự e ngại, thiếu can đảm hoặc suy nghĩ rằng con cái phải tự biết mình yêu nó thế nào rồi mà không cần nói ra."
       ],
       "correctIndex": 3,
-      "explanation": "Tất cả các rào cản này đều xuất phát từ nỗi sợ phán xét hoặc tư duy cũ kỹ, cản trở việc kết nối tình cảm lành mạnh."
+      "explanation": "Các rào cản này xuất phát từ nỗi sợ phán xét hoặc tư duy cũ kỹ, cản trở việc kết nối tình cảm lành mạnh."
     },
     {
       "id": "q13",
       "question": "Nếu áp dụng tư duy của bài học vào việc quản trị bản thân, bạn nên thực hiện điều gì đầu tiên?",
       "options": [
-        "Thiết lập danh sách những ưu tiên cốt lõi và loại bỏ những thứ không cần thiết.",
-        "Lập kế hoạch làm việc hiệu quả hơn để có nhiều thời gian rảnh hơn.",
-        "Học cách từ chối những dự án không mang lại giá trị tài chính cao.",
-        "Viết ra những mục tiêu sự nghiệp lớn lao để làm gương cho con."
+        "Thiết lập danh sách những ưu tiên cốt lõi và loại bỏ những thứ không cần thiết để dành thời gian cho gia đình.",
+        "Lập kế hoạch làm việc hiệu quả hơn để có nhiều thời gian rảnh hơn vào cuối tuần cho các hoạt động giải trí cá nhân.",
+        "Học cách từ chối những dự án không mang lại giá trị tài chính cao để tập trung vào các dự án mang lại lợi nhuận.",
+        "Viết ra những mục tiêu sự nghiệp lớn lao để làm gương cho con cái noi theo trong hành trình phát triển bản thân sau."
       ],
       "correctIndex": 0,
-      "explanation": "Để có thời gian cho gia đình, bạn phải biết nói 'không' với những ưu tiên thấp, từ đó thực hiện cuộc sống có mục đích rõ ràng."
+      "explanation": "Để có thời gian cho gia đình, bạn phải biết nói không với những ưu tiên thấp, từ đó thực hiện cuộc sống có mục đích."
     },
     {
       "id": "q14",
       "question": "Tại sao tác giả khẳng định 'Bạn sẽ không bao giờ hối tiếc về việc cho các con thấy bạn tự hào về chúng'?",
       "options": [
-        "Vì đây là hành động đạo đức mà mọi người nên làm.",
-        "Vì nó xây dựng lòng tự trọng cho con và sự viên mãn cho chính cha mẹ.",
-        "Vì nó giúp con cái nghe lời và làm theo ý muốn của cha mẹ hơn.",
-        "Vì đó là cách dễ dàng nhất để kết thúc một ngày làm việc mệt mỏi."
+        "Vì đây là hành động đạo đức mà mọi người nên làm để duy trì hình ảnh tốt đẹp của gia đình trong mắt cộng đồng xung.",
+        "Vì nó xây dựng lòng tự trọng cho con và sự viên mãn cho chính cha mẹ trong hành trình nuôi dạy con cái trưởng thành.",
+        "Vì nó giúp con cái nghe lời và làm theo ý muốn của cha mẹ hơn trong mọi quyết định quan trọng của cuộc đời chúng sau.",
+        "Vì đó là cách dễ dàng nhất để kết thúc một ngày làm việc mệt mỏi mà không cần phải tốn quá nhiều công sức suy nghĩ."
       ],
       "correctIndex": 1,
-      "explanation": "Sự thừa nhận của cha mẹ là nền tảng hình thành lòng tự trọng của con trẻ, tạo nên sự kết nối vĩnh cửu và sự thỏa mãn tinh thần cho cả hai phía."
+      "explanation": "Sự thừa nhận của cha mẹ là nền tảng hình thành lòng tự trọng của con trẻ, tạo nên sự kết nối vĩnh cửu."
     },
     {
       "id": "q15",
       "question": "Thông điệp ẩn sau hình ảnh chiếc xe có dòng chữ 'CON BỐ SỐ MỘT' là gì?",
       "options": [
-        "Cha mẹ cần phải khoe khoang sự tự hào của mình với xã hội.",
-        "Chiếc xe chỉ là món quà tặng, không phản ánh thực tế mối quan hệ cha mẹ-con cái.",
-        "Việc công khai niềm tự hào về con cái là biểu hiện của một mối quan hệ lành mạnh, ưu tiên.",
-        "Người lái chiếc xe đó chắc chắn là người thành công nhất trong công việc."
+        "Cha mẹ cần phải khoe khoang sự tự hào của mình với xã hội để khẳng định vị thế của gia đình mình trong cộng đồng.",
+        "Chiếc xe chỉ là món quà tặng, không phản ánh thực tế mối quan hệ cha mẹ-con cái trong đời sống thường nhật của họ.",
+        "Việc công khai niềm tự hào về con cái là biểu hiện của một mối quan hệ lành mạnh, ưu tiên con cái trong cuộc sống.",
+        "Người lái chiếc xe đó chắc chắn là người thành công nhất trong công việc vì họ biết cách cân bằng mọi thứ rất tốt."
       ],
       "correctIndex": 2,
-      "explanation": "Chiếc xe là biểu tượng cho sự xác nhận công khai về sự ưu tiên của người cha. Nó cho thấy con cái là tâm điểm trong hệ giá trị của họ."
+      "explanation": "Chiếc xe là biểu tượng cho sự xác nhận công khai về sự ưu tiên của người cha, con cái là tâm điểm hệ giá trị."
     }
   ]
 }

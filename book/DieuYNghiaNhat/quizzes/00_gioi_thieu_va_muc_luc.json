@@ -6,198 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Câu ngạn ngữ Nga \"Nếu săn hai con thỏ cùng lúc, bạn sẽ chẳng bắt được con nào\" được trích dẫn ở đầu sách nhằm nhấn mạnh nguyên lý cốt lõi nào về sự chú ý và nguồn lực của con người?",
+      "question": "Câu ngạn ngữ Nga \"Nếu săn hai con thỏ cùng lúc, bạn sẽ chẳng bắt được con nào\" nhấn mạnh nguyên lý cốt lõi nào về nguồn lực?",
       "options": [
-        "Con người chỉ nên tập trung vào những mục tiêu nhỏ và dễ dàng, tránh các mục tiêu quá thách thức.",
-        "Năng lượng và sự chú ý của con người là hữu hạn; khi bị phân tán cho nhiều mục tiêu cùng lúc, xác suất đạt được kết quả vượt trội ở bất kỳ mục tiêu nào sẽ tiệm cận về 0.",
-        "Trong thế giới cạnh tranh, cần phải che giấu mục tiêu thực sự của mình để đối thủ không nhận ra.",
-        "Chúng ta nên hợp tác với nhiều người để mỗi người có thể đuổi bắt một mục tiêu khác nhau."
+        "Năng lượng và sự chú ý là hữu hạn; khi phân tán cho nhiều mục tiêu, xác suất đạt kết quả vượt trội sẽ tiệm cận về không.",
+        "Con người nên ưu tiên các mục tiêu nhỏ và dễ dàng để đảm bảo sự an toàn thay vì theo đuổi những mục tiêu quá thách thức.",
+        "Trong môi trường cạnh tranh, cần phải che giấu mục tiêu thực sự của mình để đối thủ không thể nhận ra chiến lược đó.",
+        "Chúng ta nên hợp tác với nhiều người để mỗi cá nhân có thể đuổi bắt một mục tiêu khác nhau nhằm tối ưu hóa hiệu suất."
       ],
-      "correctIndex": 1,
-      "explanation": "Ngạn ngữ này minh họa trực quan rằng sự chú ý và năng lực hành động của con người không thể phân thân tối đa cho nhiều đích đến cạnh tranh lẫn nhau. Khi bạn cố gắng đuổi theo hai mục tiêu cùng một lúc, bạn sẽ phải liên tục chuyển đổi hướng đi, làm suy yếu tốc độ và lực tác động, dẫn đến kết cục thất bại toàn diện. Bẫy tư duy phổ biến là tin rằng mình có thể tối ưu hóa bằng cách làm nhiều việc cùng lúc, nhưng thực tế là bạn chỉ đang làm loãng cơ hội thành công.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Ngạn ngữ này minh họa rằng sự chú ý của con người không thể phân thân tối đa cho nhiều đích đến. Khi cố gắng đuổi theo hai mục tiêu cùng lúc, bạn làm suy yếu lực tác động, dẫn đến thất bại toàn diện thay vì tối ưu hóa hiệu quả."
     },
     {
       "id": "q2",
-      "question": "Trong phần giới thiệu \"Tạo ra cú hích cho quân domino chủ chốt\", tác giả ví cuộc sống như một \"cơn lốc\". Điểm khác biệt căn bản giữa người làm chủ cơn lốc và người bị nó nhấn chìm là gì?",
+      "question": "Trong phần giới thiệu, tác giả ví cuộc sống như một \"cơn lốc\". Điểm khác biệt giữa người làm chủ và người bị nhấn chìm là gì?",
       "options": [
-        "Người làm chủ có thời gian làm việc mỗi ngày nhiều gấp đôi so với người bị nhấn chìm.",
-        "Người làm chủ hoàn toàn từ bỏ trách nhiệm gia đình để dồn 100% thời gian cho sự nghiệp.",
-        "Người làm chủ dựa vào sự may mắn và các mối quan hệ xã hội để né tránh khối lượng công việc phức tạp.",
-        "Người làm chủ biết cách định vị điều quan trọng nhất để tạo đòn bẩy dẫn dắt toàn bộ công việc, trong khi người bị nhấn chìm phản ứng thụ động trước mọi đòi hỏi ập đến."
+        "Người làm chủ có thời gian làm việc mỗi ngày nhiều gấp đôi so với người bị nhấn chìm nhờ vào khả năng quản lý thời gian.",
+        "Người làm chủ định vị điều quan trọng nhất để tạo đòn bẩy, trong khi người bị nhấn chìm phản ứng thụ động trước mọi việc.",
+        "Người làm chủ hoàn toàn từ bỏ trách nhiệm gia đình để dồn toàn bộ thời gian cho sự nghiệp nhằm đạt được thành công lớn.",
+        "Người làm chủ dựa vào sự may mắn và các mối quan hệ xã hội để né tránh khối lượng công việc phức tạp và đầy áp lực."
       ],
-      "correctIndex": 3,
-      "explanation": "Mọi người đều có 24 giờ mỗi ngày. Sự khác biệt không nằm ở lượng thời gian sở hữu mà ở cách điều hướng: Người thành công nhìn thấu sự hỗn độn, chủ động chọn ra quân domino then chốt để dồn sức hích đổ, tạo hiệu ứng lan tỏa tích cực cho các phần còn lại; ngược lại, người bị nhấn chìm không có tiêu chí ưu tiên, cố gắng ôm đồm giải quyết mọi thứ theo cách đối phó và bị cuốn phăng trong vòng xoáy bận rộn.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Sự khác biệt không nằm ở quỹ thời gian mà ở cách điều hướng. Người thành công chọn ra quân domino then chốt để dồn sức hích đổ, tạo hiệu ứng lan tỏa, trong khi người bị nhấn chìm không có tiêu chí ưu tiên và bị cuốn phăng."
     },
     {
       "id": "q3",
-      "question": "Tại sao cuốn sách lại đưa ra luận điểm nghịch lý rằng: \"Giảm bớt sự lựa chọn\" lại là chìa khóa giúp gia tăng năng suất và thu nhập?",
+      "question": "Tại sao cuốn sách lại đưa ra luận điểm nghịch lý rằng: \"Giảm bớt sự lựa chọn\" lại là chìa khóa giúp gia tăng năng suất?",
       "options": [
-        "Quá nhiều lựa chọn dẫn đến tình trạng tê liệt quyết định (decision paralysis) và hao tổn năng lượng tinh thần; khi thu hẹp vào điều cốt lõi, tâm trí được giải phóng để đạt đỉnh cao thực thi.",
-        "Ít lựa chọn giúp con người không phải suy nghĩ gì cả, chỉ việc tuân lệnh cấp trên một cách máy móc.",
-        "Xã hội hiện đại không tôn trọng những người có nhiều ý tưởng sáng tạo hay nhiều sở thích cá nhân.",
-        "Giảm lựa chọn là biện pháp cắt giảm chi phí tài chính duy nhất giúp doanh nghiệp tránh nguy cơ phá sản."
+        "Ít lựa chọn giúp con người không phải suy nghĩ nhiều, chỉ cần tuân lệnh cấp trên một cách máy móc để tránh sai sót xảy ra.",
+        "Xã hội hiện đại không tôn trọng những người có nhiều ý tưởng sáng tạo hay nhiều sở thích cá nhân trong công việc hàng ngày.",
+        "Quá nhiều lựa chọn gây tê liệt quyết định và hao tổn năng lượng; khi thu hẹp vào cốt lõi, tâm trí đạt đỉnh cao thực thi.",
+        "Giảm lựa chọn là biện pháp cắt giảm chi phí tài chính duy nhất giúp doanh nghiệp tránh được nguy cơ phá sản trong dài hạn."
       ],
-      "correctIndex": 0,
-      "explanation": "Tâm lý học hành vi đã chỉ ra nghịch lý của sự lựa chọn: càng nhiều phương án, con người càng mất nhiều thời gian do dự, lo âu và cạn kiệt ý chí (decision fatigue). Khi can đảm thu hẹp sự tập trung vào The ONE Thing, ta loại bỏ nhiễu loạn nhận thức, từ đó dồn toàn bộ trí lực và thời gian vào việc tạo ra giá trị đột phá cao nhất, dẫn tới năng suất vượt trội và thu nhập gia tăng.",
-      "difficulty": "hard"
+      "correctIndex": 2,
+      "explanation": "Càng nhiều phương án, con người càng mất thời gian do dự và cạn kiệt ý chí. Khi thu hẹp sự tập trung vào The ONE Thing, ta loại bỏ nhiễu loạn nhận thức, dồn toàn bộ trí lực vào việc tạo ra giá trị đột phá cao nhất."
     },
     {
       "id": "q4",
-      "question": "Hình ảnh \"dàn dựng một hiệu ứng domino mà mấu chốt quan trọng nhất chính là quân domino đầu tiên\" trong lời mở đầu truyền tải phương pháp luận nào?",
+      "question": "Hình ảnh \"dàn dựng một hiệu ứng domino mà mấu chốt quan trọng nhất chính là quân domino đầu tiên\" truyền tải phương pháp luận nào?",
       "options": [
-        "Cần giải quyết đồng thời tất cả các khó khăn cùng một lúc để các khó khăn tự triệt tiêu lẫn nhau.",
-        "Kết quả đạt được luôn tỷ lệ thuận tuyến tính với số lượng nhiệm vụ bạn đưa vào danh sách công việc mỗi sáng.",
-        "Tìm ra điểm tựa hoặc nhiệm vụ đòn bẩy mà khi nó được giải quyết thỏa đáng, việc giải quyết các nhiệm vụ tiếp theo sẽ trở nên dễ dàng hơn hoặc không còn cần thiết nữa.",
-        "Mọi thất bại trong cuộc sống đều bắt nguồn từ một sai lầm ngẫu nhiên mà con người không thể kiểm soát hay dự đoán trước."
+        "Cần giải quyết đồng thời tất cả các khó khăn cùng một lúc để các khó khăn đó tự triệt tiêu lẫn nhau trong quá trình làm.",
+        "Kết quả đạt được luôn tỷ lệ thuận tuyến tính với số lượng nhiệm vụ bạn đưa vào danh sách công việc mỗi sáng sớm nay.",
+        "Mọi thất bại trong cuộc sống đều bắt nguồn từ một sai lầm ngẫu nhiên mà con người không thể kiểm soát hay dự đoán trước.",
+        "Tìm ra nhiệm vụ đòn bẩy mà khi nó được giải quyết, việc xử lý các nhiệm vụ tiếp theo sẽ trở nên dễ dàng hơn rất nhiều."
       ],
-      "correctIndex": 2,
-      "explanation": "Ẩn dụ domino khẳng định tính tuần tự và sức mạnh đòn bẩy của các quyết định. Quân domino đầu tiên chính là hành động then chốt (The ONE Thing) có khả năng kích hoạt phản ứng dây chuyền giải phóng nguồn năng lượng tích lũy khổng lồ, khiến các việc phức tạp phía sau tự động thuận lợi hoặc biến mất. Đây là tư duy đòn bẩy chiến lược trái ngược với tư duy thợ cày làm việc kiểu cào bằng.",
-      "difficulty": "medium"
+      "correctIndex": 3,
+      "explanation": "Ẩn dụ domino khẳng định tính tuần tự và sức mạnh đòn bẩy. Quân domino đầu tiên là hành động then chốt có khả năng kích hoạt phản ứng dây chuyền, khiến các việc phức tạp phía sau tự động thuận lợi hoặc biến mất."
     },
     {
       "id": "q5",
-      "question": "Một quản lý thường xuyên than phiền: \"Tôi phải vừa hoàn thành xuất sắc việc cơ quan, vừa chu toàn nghĩa vụ gia đình, nhưng 24 giờ là không đủ và tôi luôn thấy dằn vặt\". Dựa trên tinh thần lời giới thiệu, sai lầm nhận thức căn bản của người này là:",
+      "question": "Một quản lý thường xuyên than phiền về việc không đủ thời gian. Sai lầm nhận thức căn bản của người này là gì?",
       "options": [
-        "Nghĩ rằng để chu toàn mọi vai trò thì phải phân chia thời gian và năng lượng ngang bằng cho tất cả các nhiệm vụ tại mọi thời điểm.",
-        "Thiếu các ứng dụng công nghệ hiện đại nhất để tự động hóa mọi lịch trình sinh hoạt.",
-        "Không tuyển thêm nhiều nhân viên cấp dưới để đùn đẩy trách nhiệm cá nhân.",
-        "Quá trung thực trong công việc thay vì biết cách giả vờ bận rộn trước mặt sếp."
+        "Nghĩ rằng để chu toàn mọi vai trò thì phải phân chia thời gian và năng lượng ngang bằng cho tất cả các nhiệm vụ hiện tại.",
+        "Thiếu các ứng dụng công nghệ hiện đại nhất để tự động hóa mọi lịch trình sinh hoạt và công việc hàng ngày của bản thân.",
+        "Không tuyển thêm nhiều nhân viên cấp dưới để đùn đẩy trách nhiệm cá nhân nhằm giảm bớt áp lực công việc cho chính mình.",
+        "Quá trung thực trong công việc thay vì biết cách giả vờ bận rộn trước mặt sếp để giảm bớt khối lượng công việc được giao."
       ],
       "correctIndex": 0,
-      "explanation": "Ảo tưởng về việc phân chia đều thời gian và năng lượng cho mọi thứ chính là nguồn cơn gây kiệt sức và cảm giác tội lỗi. Lời giới thiệu chỉ rõ: chìa khóa không phải là cố gắng chia đều mà là biết phân chia thời gian ưu tiên cho điều quan trọng hơn tất thảy mọi điều khác. Khi quân cờ chủ chốt được hạ gục, những áp lực thứ yếu sẽ được tháo ngòi tự nhiên.",
-      "difficulty": "hard"
+      "explanation": "Ảo tưởng về việc phân chia đều thời gian cho mọi thứ là nguồn cơn gây kiệt sức. Chìa khóa không phải là chia đều mà là biết phân chia thời gian ưu tiên cho điều quan trọng hơn tất thảy mọi điều khác."
     },
     {
       "id": "q6",
-      "question": "Cấu trúc sách gồm 3 phần lớn: Phần 1 (Những dối trá...), Phần 2 (Sự thật về con đường đơn giản), và Phần 3 (Những kết quả đáng kinh ngạc). Logic sắp xếp này phản ánh quy trình chuyển hóa nhận thức nào?",
+      "question": "Cấu trúc sách gồm 3 phần lớn phản ánh quy trình chuyển hóa nhận thức nào của người đọc?",
       "options": [
-        "Học kỹ năng trước, thực hành sau, cuối cùng mới nhìn lại lý thuyết để sửa sai.",
-        "Phải phá bỏ các định kiến sai lầm (Unlearn) trước, sau đó tiếp thu phương pháp luận đúng đắn (Learn), rồi mới có thể thiết lập hệ thống hành động tạo đột phá (Execute).",
-        "Thu thập kết quả trước để tạo động lực, rồi mới tìm hiểu các lời dối trá của đối thủ cạnh tranh.",
-        "Đọc ngẫu nhiên bất kỳ phần nào vì các phần được thiết kế hoàn toàn độc lập và không có mối liên kết tư duy."
+        "Học kỹ năng thực tế trước, thực hành sau, cuối cùng mới nhìn lại lý thuyết để sửa sai những lỗi lầm đã mắc phải trước đó.",
+        "Phá bỏ các định kiến sai lầm trước, tiếp thu phương pháp luận đúng đắn, rồi thiết lập hệ thống hành động tạo đột phá.",
+        "Thu thập kết quả trước để tạo động lực, rồi mới tìm hiểu các lời dối trá của đối thủ cạnh tranh trên thị trường hiện nay.",
+        "Đọc ngẫu nhiên bất kỳ phần nào vì các phần được thiết kế hoàn toàn độc lập và không có mối liên kết tư duy với nhau cả."
       ],
       "correctIndex": 1,
-      "explanation": "Đây là mô hình chuyển hóa tư duy kinh điển: Trước khi có thể gieo hạt giống tư duy mới, ta phải làm sạch mảnh đất tâm trí bằng cách nhổ bỏ 6 niềm tin dối trá độc hại đã ăn sâu vào tiềm thức (Unlearn). Sau khi đã thông suốt, ta mới học phương pháp định vị trọng tâm bằng Câu hỏi tập trung (Learn), và cuối cùng áp dụng vào Mục đích - Ưu tiên - Hiệu quả để gặt hái kết quả phi thường (Execute).",
-      "difficulty": "medium"
+      "explanation": "Đây là mô hình chuyển hóa tư duy: Trước khi gieo hạt giống mới, ta phải làm sạch mảnh đất tâm trí bằng cách nhổ bỏ các niềm tin dối trá (Unlearn), học phương pháp (Learn), và áp dụng vào hành động (Execute)."
     },
     {
       "id": "q7",
       "question": "Theo phân tích trong phần mở đầu, nghịch lý thời gian mà con người trong xã hội hiện đại đang đối mặt là gì?",
       "options": [
-        "Người càng giàu thì một ngày của họ càng có ít giờ hơn so với người nghèo.",
-        "Công nghệ càng phát triển thì thời gian làm việc thực tế của con người càng bị kéo dài vô tận.",
-        "Ai cũng sở hữu quỹ thời gian 24 giờ mỗi ngày như nhau, nhưng khoảng cách về thành tựu và sự thanh thản giữa các cá nhân lại chênh lệch vô cùng lớn.",
-        "Thời gian trôi nhanh hơn vào mùa hè và chậm hơn vào mùa đông do chu kỳ sinh học."
+        "Người càng giàu thì một ngày của họ càng có ít giờ hơn so với người nghèo do phải xử lý quá nhiều vấn đề phức tạp.",
+        "Công nghệ càng phát triển thì thời gian làm việc thực tế của con người càng bị kéo dài vô tận mà không có điểm dừng.",
+        "Ai cũng sở hữu quỹ thời gian 24 giờ như nhau, nhưng khoảng cách về thành tựu giữa các cá nhân lại chênh lệch rất lớn.",
+        "Thời gian trôi nhanh hơn vào mùa hè và chậm hơn vào mùa đông do chu kỳ sinh học của con người thay đổi theo thời tiết."
       ],
       "correctIndex": 2,
-      "explanation": "Lời giới thiệu nhấn mạnh: Mỗi người đều được sở hữu một lượng thời gian trong ngày như nhau. Nghịch lý nằm ở chỗ: cùng 24 giờ đó, có người hoàn thành khối lượng công việc đồ sộ mà vẫn thảnh thơi dành thời gian cho bản thân và gia đình, trong khi người khác lại bị chôn vùi trong đống việc ngổn ngang mà không có lấy một giây phút nghỉ ngơi. Sự khác biệt không nằm ở quỹ thời gian mà ở nghệ thuật định vị quân domino cốt lõi.",
-      "difficulty": "easy"
+      "explanation": "Mỗi người đều có 24 giờ. Nghịch lý là cùng quỹ thời gian đó, có người hoàn thành khối lượng công việc đồ sộ mà vẫn thảnh thơi, trong khi người khác lại bị chôn vùi trong đống việc ngổn ngang mà không có nghỉ ngơi."
     },
     {
       "id": "q8",
-      "question": "Tại sao khả năng \"nhìn xuyên qua sự hỗn độn nhiễu loạn\" (see through the clutter) lại được xem là năng lực sinh tồn và bứt phá then chốt trong kỷ nguyên số?",
+      "question": "Tại sao khả năng \"nhìn xuyên qua sự hỗn độn nhiễu loạn\" lại được xem là năng lực sinh tồn then chốt?",
       "options": [
-        "Giúp bạn phớt lờ hoàn toàn mọi thông tin từ thị trường để làm việc theo cảm tính.",
-        "Giúp bạn phát hiện ra lỗi chính tả trong các văn bản báo cáo nhanh hơn người khác.",
-        "Cho phép bạn làm việc liên tục 16 tiếng mà không cảm thấy buồn ngủ hay mệt mỏi.",
+        "Giúp bạn phớt lờ hoàn toàn mọi thông tin từ thị trường để làm việc theo cảm tính cá nhân mà không cần quan tâm kết quả.",
+        "Giúp bạn phát hiện ra lỗi chính tả trong các văn bản báo cáo nhanh hơn người khác để ghi điểm với cấp trên của mình.",
+        "Cho phép bạn làm việc liên tục 16 tiếng mà không cảm thấy buồn ngủ hay mệt mỏi nhờ vào khả năng tập trung cao độ đó.",
         "Giúp bạn lọc bỏ các yêu cầu thứ yếu giả dạng cấp bách để nhận diện duy nhất điều cốt lõi tạo ra giá trị bền vững."
       ],
       "correctIndex": 3,
-      "explanation": "Trong thời đại quá tải thông tin, sự xao nhãng và những việc khẩn cấp giả tạo bủa vây từ mọi phía. Nếu không có bộ lọc nhận thức sắc bén để nhìn xuyên qua sự hỗn độn, ta sẽ bị cuốn vào việc giải quyết những vụn vặt bề nổi. Năng lực nhận diện điều quan trọng thực sự giúp người thực hành dồn tâm sức vào đòn bẩy lớn nhất thay vì kiệt sức vì những nhiễu loạn vô nghĩa.",
-      "difficulty": "medium"
+      "explanation": "Trong thời đại quá tải thông tin, sự xao nhãng bủa vây từ mọi phía. Năng lực nhận diện điều quan trọng thực sự giúp người thực hành dồn tâm sức vào đòn bẩy lớn nhất thay vì kiệt sức vì những nhiễu loạn vô nghĩa."
     },
     {
       "id": "q9",
-      "question": "Tại sao tác giả lại đặt tên Phần 1 là \"Những dối trá đã làm mê muội và khiến chúng ta lạc lối\" thay vì chỉ gọi đơn giản là \"Các sai lầm phổ biến\"?",
+      "question": "Tại sao tác giả lại đặt tên Phần 1 là \"Những dối trá đã làm mê muội và khiến chúng ta lạc lối\"?",
       "options": [
-        "Vì đây là những ngụy niệm được xã hội ngợi ca, khoác áo chân lý và truyền bá rộng rãi như lẽ thường tình, khiến con người tự nguyện tin theo mà không hề nghi ngờ.",
-        "Vì tác giả muốn dùng từ ngữ giật gân để gây tranh cãi và thu hút truyền thông nhằm bán sách chạy hơn.",
-        "Vì những điều này do các đối thủ kinh doanh cố tình bịa đặt ra để phá hoại sự nghiệp của người khác.",
-        "Vì luật pháp quy định các sai lầm trong kinh doanh phải được định danh là hành vi dối trá."
+        "Vì đây là những ngụy niệm được xã hội ngợi ca, khoác áo chân lý và truyền bá rộng rãi khiến con người tin theo.",
+        "Vì tác giả muốn dùng từ ngữ giật gân để gây tranh cãi và thu hút truyền thông nhằm bán sách chạy hơn trên thị trường.",
+        "Vì những điều này do các đối thủ kinh doanh cố tình bịa đặt ra để phá hoại sự nghiệp của người khác trong ngành.",
+        "Vì luật pháp quy định các sai lầm trong kinh doanh phải được định danh là hành vi dối trá để bảo vệ người tiêu dùng."
       ],
       "correctIndex": 0,
-      "explanation": "Thuật ngữ dối trá (lies) mang sắc thái cảnh tỉnh mạnh mẽ. Chúng không đơn thuần là sơ suất ngẫu nhiên, mà là những định kiến văn hóa thâm căn cố đế (như đa nhiệm, sống kỷ luật hoàn hảo, cân bằng tuyệt đối...) được xã hội bình thường hóa và ca ngợi. Chính vì tin rằng đó là chuẩn mực đạo đức hay thước đo thành công, chúng ta mới bị mê muội và tự đánh mất phương hướng mà không nhận ra mình đang tự hủy hoại hiệu suất.",
-      "difficulty": "hard"
+      "explanation": "Chúng không đơn thuần là sơ suất, mà là những định kiến văn hóa thâm căn cố đế được xã hội bình thường hóa. Chính vì tin đó là chuẩn mực, chúng ta mới bị mê muội và tự đánh mất phương hướng mà không nhận ra."
     },
     {
       "id": "q10",
-      "question": "Nhìn vào chuỗi chương ở Phần 3: \"Sống với mục đích\" -> \"Sống theo ưu tiên\" -> \"Sống vì hiệu quả\", trật tự này phản ánh nguyên lý kiến tạo thành tựu nào?",
+      "question": "Nhìn vào chuỗi chương ở Phần 3: \"Sống với mục đích\" -> \"Sống theo ưu tiên\" -> \"Sống vì hiệu quả\", trật tự này phản ánh điều gì?",
       "options": [
-        "Hiệu quả kỹ thuật là điểm xuất phát, sau đó mục đích và ưu tiên sẽ tự động hình thành.",
-        "Mục đích định hướng cho Ưu tiên, và việc thực thi quyết liệt Ưu tiên đó sẽ tạo ra Hiệu quả phi thường.",
-        "Ưu tiên phải đứng đầu, sau đó mới xem xét mục đích sống có phù hợp hay không.",
-        "Ba yếu tố này bình đẳng và có thể tráo đổi vị trí cho nhau tùy theo tâm trạng mỗi ngày."
+        "Hiệu quả kỹ thuật là điểm xuất phát, sau đó mục đích và ưu tiên sẽ tự động hình thành trong quá trình làm việc đó.",
+        "Mục đích định hướng cho Ưu tiên, và việc thực thi quyết liệt Ưu tiên đó sẽ tạo ra Hiệu quả phi thường cho cá nhân.",
+        "Ưu tiên phải đứng đầu, sau đó mới xem xét mục đích sống có phù hợp hay không để điều chỉnh lại kế hoạch công việc.",
+        "Ba yếu tố này bình đẳng và có thể tráo đổi vị trí cho nhau tùy theo tâm trạng mỗi ngày của người thực hiện công việc."
       ],
       "correctIndex": 1,
-      "explanation": "Mục đích (Purpose) là la bàn chỉ hướng, trả lời câu hỏi Tại sao tôi làm điều này?. Ưu tiên (Priority) là hành động cụ thể phục vụ mục đích đó ngay trong hiện tại: Đâu là việc quan trọng nhất bây giờ?. Hiệu quả (Productivity) là kết quả tất yếu khi ta bảo vệ thời gian để hoàn thành trọn vẹn ưu tiên đó. Nếu không có Mục đích, Ưu tiên sẽ mất phương hướng; không có Ưu tiên, Hiệu quả chỉ là sự bận rộn mù quáng.",
-      "difficulty": "medium"
+      "explanation": "Mục đích là la bàn chỉ hướng, trả lời câu hỏi Tại sao. Ưu tiên là hành động cụ thể phục vụ mục đích đó. Hiệu quả là kết quả tất yếu khi ta bảo vệ thời gian để hoàn thành trọn vẹn ưu tiên đó."
     },
     {
       "id": "q11",
-      "question": "Lời giới thiệu nhấn mạnh triết lý The ONE Thing giúp \"chế ngự sự ức chế tâm lý, đem lại nguồn năng lượng cho bản thân\". Cơ chế tâm lý nào giải thích điều này?",
+      "question": "Triết lý The ONE Thing giúp \"chế ngự sự ức chế tâm lý, đem lại nguồn năng lượng cho bản thân\". Cơ chế nào giải thích điều này?",
       "options": [
-        "Uống thuốc an thần kết hợp với thiền định trước khi mở máy tính làm việc.",
-        "Trốn tránh mọi áp lực bằng cách từ chối tất cả các dự án được giao.",
-        "Sự rõ ràng tuyệt đối về một mục tiêu then chốt giúp loại bỏ nỗi bất an vô thức từ danh sách việc dở dang (Hiệu ứng Zeigarnik) và phục hồi sự tự chủ nội tại.",
-        "Giao toàn bộ việc khó cho người khác giải quyết để giữ tinh thần thoải mái."
+        "Uống thuốc an thần kết hợp với thiền định trước khi mở máy tính làm việc để giữ tinh thần luôn được ổn định nhất.",
+        "Trốn tránh mọi áp lực bằng cách từ chối tất cả các dự án được giao để giữ cho tâm trí luôn được thảnh thơi nhất.",
+        "Sự rõ ràng về mục tiêu then chốt giúp loại bỏ nỗi bất an từ danh sách việc dở dang và phục hồi sự tự chủ nội tại.",
+        "Giao toàn bộ việc khó cho người khác giải quyết để giữ tinh thần thoải mái và không phải lo lắng về kết quả cuối."
       ],
       "correctIndex": 2,
-      "explanation": "Khi tâm trí bị giằng xé bởi hàng chục đầu việc chưa hoàn thành, não bộ liên tục phát tín hiệu căng thẳng (Hiệu ứng Zeigarnik). Bằng cách xác định duy nhất The ONE Thing và tập trung toàn lực vào nó, bạn đạt được sự minh triết và cảm giác kiểm soát hoàn toàn (sense of control). Việc hạ gục được mục tiêu then chốt mang lại cảm xúc đắc thắng, tái tạo nguồn năng lượng tích cực thay vì sự kiệt quệ do phân tâm.",
-      "difficulty": "hard"
+      "explanation": "Khi tâm trí bị giằng xé bởi hàng chục đầu việc, não bộ liên tục phát tín hiệu căng thẳng. Bằng cách xác định duy nhất The ONE Thing, bạn đạt được sự minh triết và cảm giác kiểm soát hoàn toàn, tái tạo năng lượng."
     },
     {
       "id": "q12",
-      "question": "Một lập trình viên đọc lời giới thiệu và phản bác: \"Là kỹ sư, tôi phải biết 10 ngôn ngữ lập trình và nhận 5 dự án freelance cùng lúc thì mới tối đa hóa thu nhập\". Lời phản hồi nào chuẩn xác nhất theo tinh thần cuốn sách?",
+      "question": "Một lập trình viên muốn học 10 ngôn ngữ và làm 5 dự án cùng lúc. Lời phản hồi nào chuẩn xác nhất theo tinh thần cuốn sách?",
       "options": [
-        "Anh nên bỏ nghề lập trình vì nghề này vốn dĩ không phù hợp với triết lý The ONE Thing.",
-        "Cứ tiếp tục làm như vậy, sau 5 năm nữa anh chắc chắn sẽ trở thành tỷ phú công nghệ.",
-        "Anh nên chọn ngẫu nhiên một ngôn ngữ lập trình bằng cách tung đồng xu để đỡ phải suy nghĩ.",
-        "Biết rộng nhưng hời hợt chỉ khiến anh mãi ở mức thợ trung bình; trở thành chuyên gia xuất chúng số 1 trong một lĩnh vực cốt lõi mới là đòn bẩy mang lại thu nhập và uy tín vượt trội."
+        "Anh nên bỏ nghề lập trình vì nghề này vốn dĩ không phù hợp với triết lý The ONE Thing mà tác giả đã đề cập trong sách.",
+        "Cứ tiếp tục làm như vậy, sau 5 năm nữa anh chắc chắn sẽ trở thành tỷ phú công nghệ nhờ vào sự đa dạng kỹ năng đó.",
+        "Anh nên chọn ngẫu nhiên một ngôn ngữ lập trình bằng cách tung đồng xu để đỡ phải suy nghĩ nhiều về lựa chọn của mình.",
+        "Biết rộng nhưng hời hợt chỉ khiến anh mãi ở mức trung bình; trở thành chuyên gia xuất chúng trong một lĩnh vực là đòn bẩy."
       ],
       "correctIndex": 3,
-      "explanation": "Bẫy tư duy dàn trải khiến nhiều người ngỡ rằng đa dạng hóa kỹ năng bề nổi sẽ gia tăng giá trị. Thực tế thị trường trả thưởng theo cấp số nhân cho những người đạt đến đỉnh cao chuyên sâu (Mastery) ở một quân domino cốt lõi. Làm 5 dự án cùng lúc chỉ tạo ra 5 kết quả tầm thường, trong khi dốc sức kiến tạo một kiệt tác có thể định hình toàn bộ sự nghiệp.",
-      "difficulty": "medium"
+      "explanation": "Bẫy tư duy dàn trải khiến nhiều người ngỡ rằng đa dạng hóa kỹ năng bề nổi sẽ gia tăng giá trị. Thực tế thị trường trả thưởng cho những người đạt đến đỉnh cao chuyên sâu ở một quân domino cốt lõi duy nhất."
     },
     {
       "id": "q13",
-      "question": "Khi tác giả khẳng định việc sống có mục đích và ưu tiên sẽ giúp ta \"làm chủ những điều thực sự quan trọng\", khái niệm \"sự đánh đổi\" (trade-off) được hiểu như thế nào?",
+      "question": "Khi tác giả khẳng định việc sống có mục đích và ưu tiên sẽ giúp ta \"làm chủ những điều quan trọng\", sự đánh đổi là gì?",
       "options": [
-        "Ta có thể đạt được mọi thứ trên đời nếu biết thức khuya dậy sớm hơn người khác.",
-        "Muốn nói CÓ với điều quan trọng nhất, ta phải can đảm và dứt khoát nói KHÔNG với hàng trăm cơ hội thứ yếu hấp dẫn khác.",
-        "Đánh đổi nghĩa là phải hy sinh sức khỏe và đạo đức nghề nghiệp để đổi lấy tiền bạc.",
-        "Sự đánh đổi chỉ dành cho những người thất bại, người tài giỏi luôn có được tất cả mà không mất gì."
+        "Muốn nói CÓ với điều quan trọng nhất, ta phải can đảm và dứt khoát nói KHÔNG với hàng trăm cơ hội thứ yếu hấp dẫn.",
+        "Ta có thể đạt được mọi thứ trên đời nếu biết thức khuya dậy sớm hơn người khác để làm việc nhiều hơn mỗi ngày đó.",
+        "Đánh đổi nghĩa là phải hy sinh sức khỏe và đạo đức nghề nghiệp để đổi lấy tiền bạc và danh vọng trong sự nghiệp.",
+        "Sự đánh đổi chỉ dành cho những người thất bại, người tài giỏi luôn có được tất cả mà không mất gì trong cuộc sống."
       ],
-      "correctIndex": 1,
-      "explanation": "Bản chất của chiến lược là sự chọn lựa và từ bỏ. Để dồn trọn vẹn tâm sức cho Điều quan trọng nhất, bạn buộc phải chấp nhận rằng nhiều việc khác – dù có vẻ tốt hoặc thú vị – sẽ không được thực hiện lúc này. Không dám đánh đổi và muốn vẹn cả đôi đường chính là nguyên nhân hàng đầu dẫn đến sự tầm thường và phân tán nguồn lực.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Bản chất của chiến lược là sự chọn lựa và từ bỏ. Để dồn trọn vẹn tâm sức cho Điều quan trọng nhất, bạn buộc phải chấp nhận rằng nhiều việc khác – dù có vẻ tốt – sẽ không được thực hiện lúc này."
     },
     {
       "id": "q14",
-      "question": "Trong mục lục, sau 18 chương chính, cuốn sách khép lại bằng phần: \"Buộc điều ý nghĩa nhất phải mang lại hiệu quả\". Thông điệp gửi gắm ở đây là gì?",
+      "question": "Phần cuối sách: \"Buộc điều ý nghĩa nhất phải mang lại hiệu quả\". Thông điệp gửi gắm ở đây là gì?",
       "options": [
-        "Triết lý cuốn sách chỉ là lý thuyết trừu tượng trên giấy tờ và không thể áp dụng vào thực tế.",
-        "Độc giả phải trả thêm phí dịch vụ tư vấn thì phương pháp mới phát huy tác dụng.",
-        "Hiểu biết triết lý thôi là chưa đủ; The ONE Thing phải được chuyển hóa thành kỷ luật hành động thực tế, tạo ra kết quả đo lường được trong từng ngày sống.",
-        "Bạn phải ép buộc người khác làm việc cho mình để giải phóng bản thân khỏi công việc."
+        "Triết lý cuốn sách chỉ là lý thuyết trừu tượng trên giấy tờ và không thể áp dụng vào thực tế công việc hàng ngày.",
+        "Hiểu biết triết lý là chưa đủ; The ONE Thing phải được chuyển hóa thành kỷ luật hành động thực tế trong từng ngày.",
+        "Độc giả phải trả thêm phí dịch vụ tư vấn thì phương pháp này mới phát huy tác dụng thực sự trong công việc đó.",
+        "Bạn phải ép buộc người khác làm việc cho mình để giải phóng bản thân khỏi công việc và tận hưởng cuộc sống thảnh thơi."
       ],
-      "correctIndex": 2,
-      "explanation": "Tiêu đề mang tính hành động mạnh mẽ: Buộc điều ý nghĩa nhất phải mang lại hiệu quả (Putting The ONE Thing to Work). Nó khẳng định đây không phải là một cuốn sách triết lý để đọc gật gù rồi để đấy, mà là một cẩm nang tác chiến. Bạn phải chủ động thiết kế lịch trình, bảo vệ thời gian tập trung và biến nó thành thói quen vận hành cuộc đời để tạo ra chuyển biến thực tế.",
-      "difficulty": "easy"
+      "correctIndex": 1,
+      "explanation": "Tiêu đề mang tính hành động mạnh mẽ. Nó khẳng định đây không phải là một cuốn sách triết lý để đọc rồi để đấy, mà là cẩm nang tác chiến. Bạn phải thiết kế lịch trình và biến nó thành thói quen vận hành."
     },
     {
       "id": "q15",
-      "question": "Tình huống: Một doanh nhân khởi nghiệp đang phân vân giữa việc tung ra 5 tính năng mới trên ứng dụng hay dồn toàn lực hoàn thiện 1 tính năng giải quyết nỗi đau lớn nhất của khách hàng. Dựa vào lời giới thiệu, quyết định nào mang lại cơ hội thành công cao nhất?",
+      "question": "Doanh nhân phân vân giữa 5 tính năng mới hay 1 tính năng cốt lõi. Quyết định nào mang lại cơ hội thành công cao nhất?",
       "options": [
-        "Dồn toàn bộ nguồn lực để làm cho tính năng cốt lõi trở nên vượt trội hoàn hảo, biến nó thành quân domino kéo theo sự trung thành của khách hàng.",
-        "Tung ra cả 5 tính năng ở mức trung bình để xem khách hàng thích tính năng nào thì phát triển tiếp sau.",
-        "Tạm dừng dự án và chờ đợi đối thủ làm trước để sao chép nguyên mẫu của họ.",
-        "Tuyển thêm 5 nhóm kỹ sư độc lập để phát triển đồng thời cả 5 tính năng nhằm tiết kiệm thời gian."
+        "Tung ra cả 5 tính năng ở mức trung bình để xem khách hàng thích tính năng nào thì phát triển tiếp sau đó cho tiết kiệm.",
+        "Tạm dừng dự án và chờ đợi đối thủ làm trước để sao chép nguyên mẫu của họ nhằm giảm thiểu rủi ro cho doanh nghiệp.",
+        "Dồn toàn bộ nguồn lực để làm cho tính năng cốt lõi trở nên vượt trội, biến nó thành quân domino kéo theo sự trung thành.",
+        "Tuyển thêm 5 nhóm kỹ sư độc lập để phát triển đồng thời cả 5 tính năng nhằm tiết kiệm thời gian ra mắt sản phẩm mới."
       ],
-      "correctIndex": 0,
-      "explanation": "Tập trung vào tính năng giải quyết nỗi đau lớn nhất chính là chọn đúng quân domino chủ chốt. Sản phẩm có 5 tính năng nửa vời sẽ không tạo được bất kỳ ấn tượng nào, trong khi một tính năng xuất chúng duy nhất sẽ trở thành lý do thuyết phục khiến khách hàng lựa chọn và gắn bó, từ đó tạo nền tảng vững chắc để mở rộng sau này.",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Tập trung vào tính năng giải quyết nỗi đau lớn nhất chính là chọn đúng quân domino chủ chốt. Sản phẩm có 5 tính năng nửa vời sẽ không tạo được ấn tượng, trong khi một tính năng xuất chúng sẽ tạo nền tảng vững chắc."
     }
   ]
 }

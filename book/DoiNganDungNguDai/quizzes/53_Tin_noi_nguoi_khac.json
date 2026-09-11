@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Trong bối cảnh lãnh đạo, tại sao việc 'tin vào người khác' lại được tác giả xem là một hành động đòi hỏi sự can đảm thay vì chỉ là sự lạc quan đơn thuần?",
+      "question": "Trong bối cảnh lãnh đạo, tại sao việc 'tin vào người khác' lại được tác giả xem là một hành động đòi hỏi sự can đảm?",
       "options": [
-        "Vì tin người khác là sự đặt cược rủi ro về mặt tài chính",
-        "Vì nó đòi hỏi phải nhìn thấy tiềm năng ngay cả khi thực tế đang phủ định mọi điều đó",
-        "Vì nó giúp người lãnh đạo giảm bớt trách nhiệm kiểm soát nhân viên",
-        "Vì đây là cách duy nhất để xây dựng một môi trường làm việc không có kỷ luật"
+        "Vì nó đòi hỏi khả năng nhìn thấy tiềm năng ẩn giấu ngay cả khi thực tế hiện tại đang phủ định mọi điều tốt đẹp đó.",
+        "Vì đó là một sự đặt cược rủi ro về mặt tài chính khi lãnh đạo phải tự bỏ tiền túi để đầu tư cho nhân viên kém cỏi.",
+        "Vì nó giúp người lãnh đạo giảm bớt áp lực kiểm soát nhân viên và tạo ra một môi trường làm việc hoàn toàn tự do.",
+        "Vì đây là cách duy nhất để xây dựng một môi trường làm việc không có kỷ luật mà vẫn đạt được hiệu suất cao nhất."
       ],
-      "correctIndex": 1,
-      "explanation": "Lãnh đạo thực thụ không chỉ dựa trên các dữ liệu hiện hữu (lạc quan ngây thơ) mà là người tiên phong nhìn thấy giá trị ẩn sau sự hỗn loạn. Đáp án B nhấn mạnh bản chất của tư duy phản biện: vượt qua định kiến về thực tế để kiến tạo một thực tế mới."
+      "correctIndex": 0,
+      "explanation": "Lãnh đạo thực thụ không dựa trên dữ liệu hiện hữu mà là người tiên phong nhìn thấy giá trị ẩn sau sự hỗn loạn, vượt qua định kiến về thực tế."
     },
     {
       "id": "q2",
       "question": "Nếu một người quản lý phản đối việc đầu tư cho nhân viên kém hiệu quả với lý do 'họ không xứng đáng', đây là biểu hiện của tư duy nào?",
       "options": [
-        "Tư duy chiến lược thực dụng",
-        "Tư duy ngắn hạn dựa trên hệ quả quá khứ",
-        "Tư duy tối ưu hóa nguồn lực",
-        "Tư duy bảo thủ hệ thống"
+        "Tư duy chiến lược thực dụng nhằm tối ưu hóa nguồn lực tài chính hạn hẹp của tổ chức trong giai đoạn kinh tế khó khăn.",
+        "Tư duy đánh giá con người dựa trên hệ quả quá khứ, bỏ qua khả năng chuyển hóa và tiềm năng phát triển trong tương lai.",
+        "Tư duy bảo thủ hệ thống nhằm duy trì sự ổn định và kỷ luật của tổ chức thông qua việc sàng lọc nhân sự khắt khe.",
+        "Tư duy quản trị tập trung vào kết quả tức thời để đảm bảo các chỉ số hiệu suất luôn đạt mức cao nhất trong ngắn hạn."
       ],
       "correctIndex": 1,
-      "explanation": "Đánh giá con người dựa trên kết quả quá khứ là cái bẫy của sự trì trệ. Tác giả chỉ ra rằng lãnh đạo không chức danh cần nhìn vào tiềm năng tương lai thay vì chỉ dựa vào kết quả hiện tại."
+      "explanation": "Đánh giá con người dựa trên kết quả quá khứ là cái bẫy của sự trì trệ; lãnh đạo cần nhìn vào tiềm năng tương lai thay vì chỉ dựa vào kết quả hiện tại."
     },
     {
       "id": "q3",
       "question": "Mối quan hệ nhân quả giữa 'niềm tin' và 'sự chuyển hóa' trong chương này ngụ ý điều gì về tâm lý học hành vi?",
       "options": [
-        "Con người chỉ thay đổi khi bị ép buộc bởi quy định",
-        "Con người có xu hướng đáp lại kỳ vọng cao từ người khác",
-        "Sự thay đổi phụ thuộc hoàn toàn vào ý chí cá nhân của từng người",
-        "Lãnh đạo chỉ cần tin là đủ, không cần hành động đi kèm"
+        "Sự thay đổi của con người phụ thuộc hoàn toàn vào ý chí cá nhân và khả năng tự nhận thức của từng người trong tổ chức.",
+        "Con người chỉ thực sự thay đổi khi bị ép buộc bởi các quy định nghiêm ngặt và hệ thống thưởng phạt rõ ràng từ lãnh đạo.",
+        "Con người có xu hướng tự điều chỉnh hành vi và nỗ lực để đáp lại những kỳ vọng cao từ người khác dành cho chính mình.",
+        "Lãnh đạo chỉ cần đặt niềm tin là đủ để tạo ra sự thay đổi mà không cần phải thực hiện bất kỳ hành động hỗ trợ nào."
       ],
-      "correctIndex": 1,
-      "explanation": "Hiệu ứng Pygmalion (tự khẳng định lời tiên tri) giải thích rằng khi người khác kỳ vọng vào chúng ta, ta có xu hướng tự điều chỉnh hành vi để phù hợp với kỳ vọng đó."
+      "correctIndex": 2,
+      "explanation": "Hiệu ứng Pygmalion giải thích rằng khi người khác kỳ vọng vào chúng ta, ta có xu hướng tự điều chỉnh hành vi để phù hợp với kỳ vọng đó."
     },
     {
       "id": "q4",
       "question": "Trong quản trị nhân sự, tại sao việc 'đòi hỏi' (high standards) lại là một thành phần quan trọng trong niềm tin?",
       "options": [
-        "Vì đòi hỏi giúp người lãnh đạo kiểm soát công việc dễ dàng hơn",
-        "Vì đòi hỏi thể hiện sự khinh thường đối với nhân viên",
-        "Vì đó là minh chứng rằng lãnh đạo tin vào khả năng đạt tới đẳng cấp cao của họ",
-        "Vì đó là cách ép buộc nhân viên phải làm việc quá sức"
+        "Vì đòi hỏi giúp người lãnh đạo kiểm soát công việc dễ dàng hơn và đảm bảo mọi quy trình được thực hiện đúng tiến độ.",
+        "Vì đó là cách ép buộc nhân viên phải làm việc quá sức để đạt được các mục tiêu kinh doanh đầy tham vọng của công ty.",
+        "Vì đòi hỏi thể hiện sự khinh thường đối với năng lực hiện tại của nhân viên và buộc họ phải thay đổi để tồn tại.",
+        "Vì đó là minh chứng rằng lãnh đạo thực sự tin vào khả năng đạt tới đẳng cấp cao của nhân viên dù họ đang gặp khó."
       ],
-      "correctIndex": 2,
-      "explanation": "Đòi hỏi cao không phải là áp bức, mà là sự tôn trọng đối với năng lực tiềm ẩn. Nó truyền đi thông điệp: 'Tôi biết bạn có thể làm được điều này'."
+      "correctIndex": 3,
+      "explanation": "Đòi hỏi cao không phải là áp bức, mà là sự tôn trọng đối với năng lực tiềm ẩn, truyền đi thông điệp: 'Tôi biết bạn có thể làm được'."
     },
     {
       "id": "q5",
-      "question": "Sự hy sinh cá nhân của người giáo viên trong phim (tự mua sách, làm thêm việc) phản ánh điều gì về nghệ thuật lãnh đạo?",
+      "question": "Sự hy sinh cá nhân của người giáo viên trong phim phản ánh điều gì về nghệ thuật lãnh đạo?",
       "options": [
-        "Lãnh đạo là sự trao đổi sòng phẳng giữa quyền lợi và trách nhiệm",
-        "Lãnh đạo thực sự đòi hỏi sự dấn thân vượt ra ngoài phạm vi mô tả công việc",
-        "Lãnh đạo cần sự phô trương để làm gương cho người khác",
-        "Lãnh đạo là công việc của sự hy sinh không mục đích"
+        "Lãnh đạo thực sự đòi hỏi sự dấn thân vượt ra ngoài phạm vi mô tả công việc để kiến tạo sự thay đổi cho người khác.",
+        "Lãnh đạo là sự trao đổi sòng phẳng giữa quyền lợi và trách nhiệm, nơi mỗi hành động đều phải có mục đích cụ thể.",
+        "Lãnh đạo cần sự phô trương hành động để làm gương cho người khác noi theo trong quá trình xây dựng văn hóa đội ngũ.",
+        "Lãnh đạo là công việc của sự hy sinh không mục đích nhằm xây dựng hình ảnh cá nhân tốt đẹp trong mắt cộng đồng."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả ngụ ý rằng sự thay đổi lớn luôn cần những hành động vượt chuẩn (extra mile). Lãnh đạo không chỉ là quản lý nhân sự mà là người kiến tạo sự thay đổi thông qua sự dấn thân."
+      "correctIndex": 0,
+      "explanation": "Tác giả ngụ ý rằng sự thay đổi lớn luôn cần những hành động vượt chuẩn. Lãnh đạo không chỉ là quản lý mà là người kiến tạo sự thay đổi."
     },
     {
       "id": "q6",
       "question": "Nếu áp dụng tư duy của tác giả vào việc xây dựng văn hóa doanh nghiệp, bài học cốt lõi nhất là gì?",
       "options": [
-        "Tăng cường các buổi họp để khiển trách sai lầm",
-        "Xây dựng môi trường nơi mọi nhân viên đều được kỳ vọng trở thành người tốt nhất",
-        "Ưu tiên tuyển dụng người giỏi nhất để bỏ qua quá trình đào tạo",
-        "Tập trung tối đa vào lợi nhuận để tạo động lực cho nhân viên"
+        "Tăng cường các buổi họp để khiển trách sai lầm nhằm đảm bảo mọi nhân viên đều tuân thủ nghiêm ngặt các quy định chung.",
+        "Xây dựng môi trường nơi mọi nhân viên đều được kỳ vọng trở thành phiên bản tốt nhất của chính họ thông qua niềm tin.",
+        "Ưu tiên tuyển dụng những người giỏi nhất ngay từ đầu để bỏ qua quá trình đào tạo và phát triển nhân sự tốn kém.",
+        "Tập trung tối đa vào lợi nhuận để tạo động lực tài chính cho nhân viên, từ đó thúc đẩy họ làm việc chăm chỉ hơn."
       ],
       "correctIndex": 1,
-      "explanation": "Văn hóa doanh nghiệp là tập hợp các niềm tin chung. Tin vào tiềm năng của mọi nhân viên tạo ra sự an toàn tâm lý để họ bộc lộ những giá trị tốt nhất."
+      "explanation": "Văn hóa doanh nghiệp là tập hợp các niềm tin chung. Tin vào tiềm năng của mọi nhân viên tạo ra sự an toàn tâm lý để họ bộc lộ giá trị."
     },
     {
       "id": "q7",
-      "question": "Lời trích dẫn của Leo Buscaglia nhấn mạnh giá trị của những hành động nhỏ (cử chỉ săn sóc, nụ cười). Điều này đối nghịch với tư duy sai lầm nào?",
+      "question": "Lời trích dẫn của Leo Buscaglia nhấn mạnh giá trị của những hành động nhỏ. Điều này đối nghịch với tư duy sai lầm nào?",
       "options": [
-        "Tư duy cho rằng thành công lớn chỉ đến từ những thay đổi mang tính vĩ mô",
-        "Tư duy rằng cần sự kỷ luật sắt đá để thay đổi người khác",
-        "Tư duy rằng sự thay đổi là quá trình đau đớn và mất thời gian",
-        "Tư duy chú trọng vào lợi ích cá nhân hơn là tập thể"
+        "Tư duy rằng cần sự kỷ luật sắt đá và các biện pháp trừng phạt nghiêm khắc để thay đổi hành vi của người khác hiệu quả.",
+        "Tư duy rằng sự thay đổi là quá trình đau đớn, mất thời gian và đòi hỏi sự hy sinh lớn lao từ phía người lãnh đạo.",
+        "Tư duy cho rằng thành công lớn chỉ đến từ những thay đổi mang tính vĩ mô hoặc các chiến lược phức tạp và tốn kém.",
+        "Tư duy chú trọng vào lợi ích cá nhân hơn là tập thể, dẫn đến việc bỏ qua các cử chỉ tử tế trong giao tiếp hàng ngày."
       ],
-      "correctIndex": 0,
-      "explanation": "Con người thường đánh giá thấp những 'viên gạch nhỏ' (lời khen, nụ cười) trong việc xây dựng một tòa nhà tâm hồn vững chắc."
+      "correctIndex": 2,
+      "explanation": "Con người thường đánh giá thấp những 'viên gạch nhỏ' như lời khen hay nụ cười trong việc xây dựng một tòa nhà tâm hồn vững chắc."
     },
     {
       "id": "q8",
       "question": "Sự 'lãnh đạo không chức danh' thể hiện rõ nhất qua hành động nào trong câu chuyện?",
       "options": [
-        "Việc người thầy ra lệnh cho học sinh thay đổi",
-        "Việc người thầy nhìn thấy giá trị ở những kẻ bị bỏ quên và hành động vì nó",
-        "Việc người thầy được nhà trường ủng hộ và cung cấp ngân sách",
-        "Việc học sinh tự nhận ra giá trị của bản thân không cần tác động bên ngoài"
+        "Việc người thầy ra lệnh cho học sinh thay đổi hành vi để phù hợp với các tiêu chuẩn đạo đức của nhà trường đề ra.",
+        "Việc người thầy được nhà trường ủng hộ và cung cấp ngân sách đầy đủ để thực hiện các dự án giáo dục sáng tạo.",
+        "Việc học sinh tự nhận ra giá trị của bản thân mà không cần bất kỳ tác động hay sự hỗ trợ nào từ phía người thầy.",
+        "Việc người thầy nhìn thấy giá trị ở những kẻ bị bỏ quên và chủ động hành động vì sự phát triển của chính họ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Lãnh đạo không chức danh không cần thẩm quyền chính thức để dẫn dắt; họ dùng niềm tin làm đòn bẩy để lay chuyển hoàn cảnh."
     },
     {
       "id": "q9",
       "question": "Tại sao 'niềm tin' vào người khác lại là một khoản đầu tư mang tính chiến lược?",
       "options": [
-        "Vì nó luôn đảm bảo 100% tỷ lệ thành công của nhân viên",
-        "Vì nó tạo ra sự trung thành và khơi gợi tiềm năng vốn bị che lấp",
-        "Vì nó giúp giảm thiểu chi phí lương cho nhân viên",
-        "Vì nó khiến nhân viên không bao giờ mắc sai lầm"
+        "Vì nó tạo ra sự trung thành bền vững và khơi gợi tiềm năng vốn bị che lấp trong mỗi cá nhân khi họ được công nhận.",
+        "Vì nó luôn đảm bảo 100% tỷ lệ thành công của nhân viên trong mọi dự án mà họ tham gia dưới sự dẫn dắt của lãnh đạo.",
+        "Vì nó giúp giảm thiểu chi phí lương cho nhân viên bằng cách thay thế các khoản thưởng bằng sự khích lệ tinh thần.",
+        "Vì nó khiến nhân viên không bao giờ mắc sai lầm trong công việc, từ đó tối ưu hóa quy trình vận hành của tổ chức."
       ],
-      "correctIndex": 1,
-      "explanation": "Đây là tư duy dài hạn. Khi nhân viên cảm thấy được tin tưởng, họ cam kết cao hơn và sẵn sàng bộc lộ những năng lực mà ngay cả họ cũng chưa từng khai phá."
+      "correctIndex": 0,
+      "explanation": "Đây là tư duy dài hạn. Khi nhân viên cảm thấy được tin tưởng, họ cam kết cao hơn và sẵn sàng bộc lộ những năng lực chưa từng khai phá."
     },
     {
       "id": "q10",
       "question": "Trong môi trường làm việc khắc nghiệt, tại sao sự tử tế lại thường bị coi là yếu kém?",
       "options": [
-        "Vì sự tử tế không mang lại giá trị kinh tế trực tiếp",
-        "Vì mọi người thường nhầm lẫn sự tử tế với sự thỏa hiệp hoặc thiếu kỷ luật",
-        "Vì sự tử tế làm giảm tốc độ ra quyết định của nhà lãnh đạo",
-        "Vì sự tử tế đòi hỏi quá nhiều thời gian"
+        "Vì sự tử tế không mang lại giá trị kinh tế trực tiếp và làm chậm quá trình đạt được các mục tiêu lợi nhuận ngắn hạn.",
+        "Vì mọi người thường nhầm lẫn sự tử tế với sự thỏa hiệp hoặc thiếu kỷ luật trong việc quản lý hiệu suất công việc.",
+        "Vì sự tử tế làm giảm tốc độ ra quyết định của nhà lãnh đạo khi phải đối mặt với những tình huống cạnh tranh gay gắt.",
+        "Vì sự tử tế đòi hỏi quá nhiều thời gian để xây dựng mối quan hệ cá nhân thay vì tập trung vào các nhiệm vụ chuyên môn."
       ],
       "correctIndex": 1,
-      "explanation": "Sự nhầm lẫn giữa 'tử tế' và 'yếu đuối' là một bẫy tư duy phổ biến. Thực tế, cần bản lĩnh lớn để kiên trì tử tế trong một môi trường cạnh tranh khắc nghiệt."
+      "explanation": "Sự nhầm lẫn giữa 'tử tế' và 'yếu đuối' là một bẫy tư duy phổ biến. Cần bản lĩnh lớn để kiên trì tử tế trong môi trường khắc nghiệt."
     },
     {
       "id": "q11",
       "question": "Tác giả ám chỉ điều gì về mối quan hệ giữa người thầy và học sinh trong bộ phim?",
       "options": [
-        "Người thầy chỉ đóng vai trò hướng dẫn kiến thức",
-        "Niềm tin là cầu nối để chuyển hóa từ kẻ bị bỏ rơi thành người có ích",
-        "Người thầy phải có quyền lực chính trị để thay đổi học sinh",
-        "Sự thay đổi hoàn toàn do năng lực nội tại của học sinh"
+        "Người thầy chỉ đóng vai trò hướng dẫn kiến thức chuyên môn, còn sự thay đổi hoàn toàn do năng lực nội tại của học sinh.",
+        "Người thầy phải có quyền lực chính trị lớn để thay đổi học sinh và bảo vệ họ khỏi những ảnh hưởng xấu của xã hội.",
+        "Niềm tin là cầu nối quan trọng để chuyển hóa từ kẻ bị bỏ rơi thành người có ích cho xã hội và chính bản thân họ.",
+        "Sự thay đổi hoàn toàn do năng lực nội tại của học sinh, người thầy chỉ là người quan sát quá trình phát triển đó."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự tương tác giữa 'niềm tin' và 'chuyển hóa' là trọng tâm. Người thầy đóng vai trò như một chất xúc tác, khơi thông dòng chảy tiềm năng của học sinh thông qua niềm tin chân thành."
+      "correctIndex": 2,
+      "explanation": "Sự tương tác giữa 'niềm tin' và 'chuyển hóa' là trọng tâm. Người thầy đóng vai trò như một chất xúc tác, khơi thông tiềm năng học sinh."
     },
     {
       "id": "q12",
       "question": "Khi đối mặt với một người 'không còn ai tin tưởng', tư duy của một nhà lãnh đạo tầm cỡ sẽ là gì?",
       "options": [
-        "Phân tích rủi ro và tìm kiếm phương án thay thế an toàn hơn",
-        "Tự hỏi 'Điều tốt đẹp nhất nào đang bị che giấu ở đây?'",
-        "Chấp nhận thực tế và giữ khoảng cách để bảo vệ tổ chức",
-        "Thực hiện kỷ luật nghiêm ngặt để ép họ thay đổi"
+        "Phân tích rủi ro và tìm kiếm phương án thay thế an toàn hơn để đảm bảo sự ổn định cho toàn bộ hệ thống tổ chức.",
+        "Chấp nhận thực tế và giữ khoảng cách an toàn để bảo vệ tổ chức khỏi những ảnh hưởng tiêu cực từ cá nhân đó.",
+        "Thực hiện kỷ luật nghiêm ngặt để ép họ thay đổi hành vi theo đúng các tiêu chuẩn mà tổ chức đã đề ra từ trước.",
+        "Tự hỏi 'Điều tốt đẹp nhất nào đang bị che giấu ở đây?' để tìm cách khơi dậy tiềm năng thực sự của cá nhân đó."
       ],
-      "correctIndex": 1,
-      "explanation": "Thay vì đặt câu hỏi 'Tại sao họ tệ như vậy?', lãnh đạo tầm cỡ đặt câu hỏi 'Họ có thể trở thành người thế nào?' - đây chính là tư duy kiến tạo."
+      "correctIndex": 3,
+      "explanation": "Thay vì đặt câu hỏi 'Tại sao họ tệ như vậy?', lãnh đạo tầm cỡ đặt câu hỏi 'Họ có thể trở thành người thế nào?' - tư duy kiến tạo."
     },
     {
       "id": "q13",
       "question": "Việc 'trao điều tốt đẹp nhất' cho người khác phụ thuộc vào yếu tố cốt lõi nào của người lãnh đạo?",
       "options": [
-        "Khả năng đánh giá nhân sự chính xác bằng dữ liệu",
-        "Khả năng nhìn thấy tiềm năng và duy trì niềm tin bền bỉ",
-        "Khả năng chi trả lương thưởng xứng đáng",
-        "Khả năng xây dựng quy trình làm việc chuẩn mực"
+        "Khả năng nhìn thấy tiềm năng và duy trì niềm tin bền bỉ vào con người ngay cả khi đối diện với những nghịch cảnh.",
+        "Khả năng đánh giá nhân sự chính xác bằng các dữ liệu định lượng để đưa ra các quyết định nhân sự mang tính khách quan.",
+        "Khả năng chi trả lương thưởng xứng đáng để thu hút và giữ chân những nhân tài hàng đầu trong thị trường cạnh tranh.",
+        "Khả năng xây dựng quy trình làm việc chuẩn mực để đảm bảo mọi nhân viên đều thực hiện công việc theo đúng yêu cầu."
       ],
-      "correctIndex": 1,
-      "explanation": "Niềm tin không phải là một cảm xúc thoáng qua mà là một lựa chọn ý chí bền bỉ (persistence) khi đối diện với nghịch cảnh."
+      "correctIndex": 0,
+      "explanation": "Niềm tin không phải là một cảm xúc thoáng qua mà là một lựa chọn ý chí bền bỉ khi đối diện với nghịch cảnh và sự hoài nghi."
     },
     {
       "id": "q14",
-      "question": "Tại sao việc phê phán người khác dễ dàng hơn việc tin vào họ?",
+      "question": "Tại sao việc phê phán người khác thường dễ dàng hơn việc tin vào họ?",
       "options": [
-        "Vì phê phán giúp con người cảm thấy mình có quyền lực hơn",
-        "Vì phê phán là phản xạ dựa trên bằng chứng hiển nhiên (định kiến xác nhận)",
-        "Vì phê phán không đòi hỏi sự dấn thân hay trách nhiệm cá nhân",
-        "Tất cả các phương án trên đều đúng"
+        "Vì phê phán giúp con người cảm thấy mình có quyền lực hơn và khẳng định vị thế cao hơn so với những người xung quanh.",
+        "Vì phê phán là phản xạ dựa trên bằng chứng hiển nhiên, không đòi hỏi sự dấn thân hay trách nhiệm cá nhân sâu sắc.",
+        "Vì phê phán là cách nhanh nhất để loại bỏ những yếu tố tiêu cực ra khỏi tổ chức mà không cần tốn công đào tạo lại.",
+        "Vì phê phán giúp lãnh đạo duy trì sự tập trung vào các mục tiêu ngắn hạn mà không bị xao nhãng bởi cảm xúc cá nhân."
       ],
-      "correctIndex": 3,
-      "explanation": "Tất cả các yếu tố trên đều đúng. Phê phán là cái bẫy tâm lý tiết kiệm năng lượng, trong khi tin tưởng và dấn thân đòi hỏi sự tiêu tốn tâm lực và lòng dũng cảm thực sự."
+      "correctIndex": 1,
+      "explanation": "Phê phán là cái bẫy tâm lý tiết kiệm năng lượng, trong khi tin tưởng và dấn thân đòi hỏi sự tiêu tốn tâm lực và lòng dũng cảm thực sự."
     },
     {
       "id": "q15",
       "question": "Câu nói 'Đánh giá thấp sức mạnh của một nụ cười' trong văn bản ám chỉ điều gì về nghệ thuật tác động đến người khác?",
       "options": [
-        "Sự thay đổi cuộc đời con người thường bắt đầu từ những cử chỉ khiêm tốn nhưng chân thành",
-        "Những nụ cười và lời khen chỉ là phương thức giao tiếp bề nổi",
-        "Quyền lực thực sự nằm ở việc kiểm soát cảm xúc của người khác",
-        "Chỉ những người có vị thế cao mới có sức mạnh thay đổi người khác"
+        "Những nụ cười và lời khen chỉ là phương thức giao tiếp bề nổi, không có tác động thực sự đến sự thay đổi của con người.",
+        "Quyền lực thực sự nằm ở việc kiểm soát cảm xúc của người khác thông qua các kỹ thuật tâm lý học hành vi tinh vi nhất.",
+        "Sự thay đổi cuộc đời con người thường bắt đầu từ những cử chỉ khiêm tốn nhưng chân thành và đầy sự thấu cảm sâu sắc.",
+        "Chỉ những người có vị thế cao mới có đủ sức mạnh để thay đổi người khác thông qua những cử chỉ nhỏ bé và khiêm tốn."
       ],
-      "correctIndex": 0,
-      "explanation": "Sức mạnh của những cử chỉ nhỏ nằm ở tính nhân văn và sự kết nối. Khi con người cảm thấy được công nhận bằng những điều chân thành, họ sẽ mở lòng để thay đổi."
+      "correctIndex": 2,
+      "explanation": "Sức mạnh của những cử chỉ nhỏ nằm ở tính nhân văn và sự kết nối. Khi con người cảm thấy được công nhận, họ sẽ mở lòng để thay đổi."
     }
   ]
 }

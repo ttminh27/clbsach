@@ -8,181 +8,181 @@
       "id": "q1",
       "question": "Dựa trên triết lý của tác giả, đâu là sai lầm lớn nhất của người thường khi nhìn nhận về sự may mắn?",
       "options": [
-        "Coi may mắn là yếu tố quyết định duy nhất đến thành công",
-        "Tin rằng may mắn là kết quả ngẫu nhiên không thể kiểm soát",
-        "Phụ thuộc vào may mắn để che đậy sự lười biếng cá nhân",
-        "Đánh giá thấp vai trò của sự chuẩn bị trong việc thu hút may mắn"
+        "Họ coi may mắn là kết quả ngẫu nhiên không thể kiểm soát, từ đó từ bỏ quyền chủ động trong việc tạo ra thành công.",
+        "Họ tin rằng may mắn là yếu tố quyết định duy nhất đến thành công và bỏ qua vai trò của sự chuẩn bị kỹ lưỡng.",
+        "Họ thường phụ thuộc vào vận may để che đậy sự lười biếng cá nhân thay vì tập trung vào việc thực thi các quy luật.",
+        "Họ đánh giá thấp vai trò của sự kiên trì trong việc thu hút may mắn và coi đó là đặc quyền của người tài năng."
       ],
-      "correctIndex": 1,
-      "explanation": "Đa số người thường coi may mắn là ngẫu nhiên, từ đó từ bỏ quyền chủ động. Tác giả khẳng định may mắn là hệ quả của việc làm đúng đắn (gieo hạt), tức là có thể tạo ra/thu hút được thông qua kỷ luật."
+      "correctIndex": 0,
+      "explanation": "Tác giả khẳng định may mắn không phải ngẫu nhiên mà là hệ quả của việc làm đúng đắn, người thường sai lầm khi coi nó là yếu tố khách quan."
     },
     {
       "id": "q2",
-      "question": "Nếu một người luôn nỗ lực làm việc nhưng không đạt được kết quả như ý, theo quan điểm của tác giả, họ nên làm gì để thay đổi tình hình?",
+      "question": "Nếu một người luôn nỗ lực làm việc nhưng không đạt được kết quả như ý, theo quan điểm của tác giả, họ nên làm gì?",
       "options": [
-        "Thay đổi môi trường làm việc ngay lập tức để tìm vận may mới",
-        "Tiếp tục làm việc chăm chỉ hơn nữa mà không cần điều chỉnh phương pháp",
-        "Tự đánh giá lại các quy luật mình đang thực thi và giá trị mình tạo ra",
-        "Chờ đợi cơ hội thuận lợi hơn đến từ ngoại cảnh"
+        "Thay đổi môi trường làm việc ngay lập tức để tìm kiếm vận may mới thay vì tiếp tục bám trụ tại nơi không có kết quả.",
+        "Tự đánh giá lại các quy luật mình đang thực thi và xem xét giá trị thực tế mà bản thân đang tạo ra cho khách hàng.",
+        "Tiếp tục làm việc chăm chỉ hơn nữa mà không cần điều chỉnh phương pháp vì tin rằng thành công sẽ đến sau nỗ lực.",
+        "Chờ đợi cơ hội thuận lợi hơn đến từ ngoại cảnh vì tin rằng thời điểm hiện tại chưa phù hợp để gặt hái thành quả."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả so sánh cuộc đời với nghề nông: nếu gieo sai hoặc chăm sóc sai (quy luật), bạn sẽ không gặt. Vì vậy, thay vì đổ lỗi cho may mắn, cần kiểm tra lại quy luật/hành động cốt lõi của mình."
+      "correctIndex": 1,
+      "explanation": "Tác giả so sánh với nghề nông, nếu không gặt hái được gì, cần xem lại cách gieo hạt và chăm sóc thay vì chỉ đổ lỗi cho hoàn cảnh."
     },
     {
       "id": "q3",
-      "question": "Tại sao tác giả lại so sánh công việc lãnh đạo/phát triển bản thân với nghề nông?",
+      "question": "Tại sao tác giả lại so sánh công việc lãnh đạo và phát triển bản thân với quy luật của nghề nông?",
       "options": [
-        "Để nhấn mạnh rằng mọi công việc đều vất vả như nhau",
-        "Để chứng minh rằng kết quả cuộc sống là một quá trình nhân quả có thể dự đoán",
-        "Để thuyết phục độc giả nên chọn cuộc sống giản dị, gần gũi thiên nhiên",
-        "Để khẳng định kiến thức nông nghiệp cũng cần thiết cho doanh nhân"
+        "Để nhấn mạnh rằng mọi công việc đều vất vả như nhau và đòi hỏi sự kiên nhẫn tương tự như việc chăm sóc các loại hoa màu.",
+        "Để thuyết phục độc giả nên chọn cuộc sống giản dị, gần gũi thiên nhiên thay vì theo đuổi những mục tiêu kinh doanh lớn.",
+        "Để chứng minh rằng kết quả cuộc sống là một quá trình nhân quả có thể dự đoán được thông qua việc gieo trồng và chăm sóc.",
+        "Để khẳng định kiến thức nông nghiệp là nền tảng cần thiết cho bất kỳ doanh nhân nào muốn đạt được sự thành công bền vững."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự so sánh này dùng để giải thích tính tất yếu của kết quả (gieo - gặt). Nó loại bỏ tính chất cầu may và khẳng định quyền làm chủ thông qua sự bền bỉ thực thi các quy luật tự nhiên."
+      "correctIndex": 2,
+      "explanation": "Sự so sánh này làm nổi bật tính tất yếu của kết quả: gieo hạt (hành động) và chăm sóc (nuôi dưỡng) sẽ dẫn đến mùa bội thu (thành công)."
     },
     {
       "id": "q4",
-      "question": "Tư duy nào sau đây phản ánh chính xác nhất cách hiểu về 'quy luật tự nhiên' trong sự nghiệp?",
+      "question": "Tư duy nào sau đây phản ánh chính xác nhất cách hiểu về quy luật tự nhiên trong sự nghiệp?",
       "options": [
-        "Chỉ những người tài năng thiên bẩm mới có thể tạo ra kết quả vĩ đại",
-        "Kết quả là sự phản chiếu trực tiếp của tư duy và hành động hằng ngày",
-        "May mắn là yếu tố thay thế cho những nỗ lực chưa đủ tầm",
-        "Sự chăm chỉ là yếu tố đủ để đảm bảo thành công mà không cần chiến lược"
+        "Chỉ những người có tài năng thiên bẩm mới có thể tạo ra kết quả vĩ đại bất chấp việc họ có tuân thủ quy luật hay không.",
+        "May mắn là yếu tố thay thế cho những nỗ lực chưa đủ tầm và giúp con người vượt qua những giai đoạn khó khăn nhất định.",
+        "Sự chăm chỉ là yếu tố đủ để đảm bảo thành công mà không cần chiến lược hay sự thấu hiểu về các quy luật tự nhiên khác.",
+        "Kết quả là sự phản chiếu trực tiếp của tư duy và hành động hằng ngày mà bạn đã đầu tư vào công việc của chính mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự nghiệp là hệ quả của các hành vi tích lũy. Nếu bạn không đầu tư vào giá trị, sự nghiệp sẽ không tự nhiên thăng tiến. Đây là tính nhân quả trong quản trị bản thân."
+      "correctIndex": 3,
+      "explanation": "Sự nghiệp là hệ quả của các hành vi tích lũy, nếu không đầu tư vào giá trị, sự nghiệp sẽ không tự nhiên thăng tiến theo quy luật."
     },
     {
       "id": "q5",
-      "question": "Khi đối xử với mọi người xung quanh như một 'khách VIP', mục đích tối thượng mà tác giả hướng đến là gì?",
+      "question": "Khi đối xử với mọi người xung quanh như một khách VIP, mục đích tối thượng mà tác giả hướng đến là gì?",
       "options": [
-        "Xây dựng hình ảnh cá nhân để lợi dụng sự hỗ trợ của họ",
-        "Tạo lập một mạng lưới quan hệ dựa trên sự chân thành và nhiệt tình",
-        "Tuân thủ một quy luật hành động tốt đẹp để thu hút kết quả tương ứng",
-        "Thực hiện một chiến thuật kinh doanh để tăng lợi nhuận ngắn hạn"
+        "Tuân thủ một quy luật hành động tốt đẹp để thu hút kết quả tương ứng thông qua sự chân thành và nhiệt tình trong ứng xử.",
+        "Xây dựng hình ảnh cá nhân để lợi dụng sự hỗ trợ của họ trong tương lai khi bản thân gặp phải những khó khăn bất ngờ.",
+        "Tạo lập một mạng lưới quan hệ dựa trên sự chân thành và nhiệt tình để tối ưu hóa lợi ích cá nhân trong công việc.",
+        "Thực hiện một chiến thuật kinh doanh khôn ngoan để tăng lợi nhuận ngắn hạn thông qua việc làm hài lòng mọi đối tượng."
       ],
-      "correctIndex": 2,
-      "explanation": "Việc đối xử tốt không phải là thủ thuật ngoại giao mà là thực thi quy luật: gieo điều tốt thì gặt điều tốt. Đó là cách vận hành tâm thế nội tại để thu hút kết quả vĩ đại."
+      "correctIndex": 0,
+      "explanation": "Việc đối xử tốt là thực thi quy luật gieo điều tốt để gặt điều tốt, đó là cách vận hành tâm thế nội tại để thu hút kết quả vĩ đại."
     },
     {
       "id": "q6",
       "question": "Một người cho rằng họ không may mắn trong sự nghiệp. Theo góc nhìn của tác giả, lời khuyên nào phù hợp nhất?",
       "options": [
-        "Tìm kiếm sự giúp đỡ từ người khác để đổi vận",
-        "Tăng cường gieo thêm các giá trị mới và kiên trì nuôi dưỡng chúng",
-        "Chấp nhận rằng đó là số phận và thay đổi mục tiêu thấp hơn",
-        "Tự an ủi bản thân rằng thành công cần có thời gian chờ đợi thụ động"
+        "Tìm kiếm sự giúp đỡ từ người khác để đổi vận và thoát khỏi tình trạng bế tắc hiện tại trong công việc đang đảm nhận.",
+        "Tăng cường gieo thêm các giá trị mới và kiên trì nuôi dưỡng chúng thay vì ngồi chờ đợi vận may tự nhiên tìm đến.",
+        "Chấp nhận rằng đó là số phận và thay đổi mục tiêu thấp hơn để giảm bớt áp lực cho bản thân trong cuộc sống hằng ngày.",
+        "Tự an ủi bản thân rằng thành công cần có thời gian chờ đợi thụ động và mọi nỗ lực lúc này đều chưa mang lại kết quả."
       ],
       "correctIndex": 1,
-      "explanation": "Nguyên lý của tác giả là 'càng gieo nhiều hạt, càng thấy nhiều cây trái'. Sự thiếu may mắn thường là do thiếu hạt giống (giá trị/hành động) được gieo và nuôi dưỡng."
+      "explanation": "Nguyên lý của tác giả là càng gieo nhiều hạt, càng thấy nhiều cây trái, sự thiếu may mắn thường do thiếu hạt giống được gieo."
     },
     {
       "id": "q7",
-      "question": "Khái niệm 'may mắn' trong tác phẩm được định nghĩa lại như thế nào?",
+      "question": "Khái niệm may mắn trong tác phẩm được định nghĩa lại như thế nào để phù hợp với quy luật tự nhiên?",
       "options": [
-        "Sự tình cờ có lợi cho bản thân",
-        "Phần thưởng của định mệnh dành cho người kiên trì",
-        "Kết quả tất yếu khi sống hòa hợp với các quy luật tự nhiên",
-        "Chỉ là yếu tố phụ trợ, không quan trọng bằng làm việc chăm chỉ"
+        "Sự tình cờ có lợi cho bản thân mà không cần phải nỗ lực quá nhiều trong việc xây dựng giá trị cốt lõi cho sự nghiệp.",
+        "Phần thưởng của định mệnh dành cho người kiên trì làm việc mà không cần quan tâm đến việc gieo hạt giống tốt hay xấu.",
+        "Kết quả tất yếu khi sống hòa hợp với các quy luật tự nhiên và thực hiện những hành động đúng đắn một cách bền bỉ.",
+        "Chỉ là yếu tố phụ trợ, không quan trọng bằng làm việc chăm chỉ và không nên được xem xét trong kế hoạch phát triển."
       ],
       "correctIndex": 2,
-      "explanation": "Tác giả không phủ nhận may mắn, nhưng ông đặt nó ở vị trí thứ yếu so với quy luật. May mắn thực chất là sự hội tụ của các hạt giống tốt mà bạn đã gieo."
+      "explanation": "Tác giả không phủ nhận may mắn, nhưng đặt nó ở vị trí thứ yếu, coi đó là sự hội tụ của các hạt giống tốt đã gieo."
     },
     {
       "id": "q8",
-      "question": "Tại sao tác giả nói 'đôi khi bạn gặp may, tuy nhiên nó chỉ giống như thêm màu sắc vào ổ bánh'?",
+      "question": "Tại sao tác giả nói may mắn chỉ giống như thêm màu sắc vào ổ bánh?",
       "options": [
-        "Vì may mắn chỉ đến khi bạn đã có một ổ bánh lớn",
-        "Vì thành quả cốt lõi phải đến từ nỗ lực, không phải dựa vào may mắn",
-        "Vì may mắn là thứ không thể kiểm soát, không nên tính đến khi lập kế hoạch",
-        "Vì ổ bánh thể hiện sự thịnh vượng, còn màu sắc chỉ là phụ kiện không đáng kể"
+        "Vì may mắn chỉ đến khi bạn đã có một ổ bánh lớn và nó không thể thay thế cho nguyên liệu chính là sự chăm chỉ.",
+        "Vì may mắn là thứ không thể kiểm soát, không nên tính đến khi lập kế hoạch để tránh sự phụ thuộc vào ngoại cảnh.",
+        "Vì ổ bánh thể hiện sự thịnh vượng, còn màu sắc chỉ là phụ kiện không đáng kể trong quá trình xây dựng sự nghiệp.",
+        "Vì thành quả cốt lõi phải đến từ nỗ lực, không phải dựa vào may mắn, vốn chỉ là yếu tố phụ làm đẹp thêm kết quả."
       ],
-      "correctIndex": 1,
-      "explanation": "Đây là tư duy của người làm chủ cuộc sống: không xây nhà trên cát (may mắn). Thành quả bền vững phải dựa trên nguyên liệu (công việc, giá trị) do chính ta tạo ra."
+      "correctIndex": 3,
+      "explanation": "Thành quả bền vững phải dựa trên nguyên liệu do chính ta tạo ra, may mắn chỉ là yếu tố tô điểm thêm cho thành công đó."
     },
     {
       "id": "q9",
-      "question": "Trong bối cảnh công sở, hành động nào sau đây là 'gieo hạt' đúng cách nhất?",
+      "question": "Trong bối cảnh công sở, hành động nào sau đây được xem là gieo hạt đúng cách nhất?",
       "options": [
-        "Làm việc chăm chỉ vì sợ bị đánh giá",
-        "Tập trung tối đa vào việc tạo ra giá trị gia tăng cho người nhận dịch vụ",
-        "Chờ đợi sự công nhận từ cấp trên rồi mới cống hiến",
-        "Xây dựng các mối quan hệ xã giao để tạo lợi thế trong tương lai"
+        "Tập trung tối đa vào việc tạo ra giá trị gia tăng cho người nhận dịch vụ thay vì chỉ làm việc để hoàn thành chỉ tiêu.",
+        "Làm việc chăm chỉ vì sợ bị đánh giá bởi cấp trên và cố gắng duy trì sự ổn định trong mọi tình huống công việc.",
+        "Chờ đợi sự công nhận từ cấp trên rồi mới cống hiến hết mình cho các dự án quan trọng của công ty đang thực hiện.",
+        "Xây dựng các mối quan hệ xã giao để tạo lợi thế trong tương lai thay vì tập trung vào chất lượng công việc hiện tại."
       ],
-      "correctIndex": 1,
-      "explanation": "Gieo hạt chính là tạo giá trị. Nếu bạn không mang lại lợi ích cho ai, bạn không thể mong đợi gặt hái kết quả tốt đẹp về mình."
+      "correctIndex": 0,
+      "explanation": "Gieo hạt chính là tạo giá trị, nếu không mang lại lợi ích cho ai, bạn không thể mong đợi gặt hái kết quả tốt đẹp về mình."
     },
     {
       "id": "q10",
-      "question": "Sự khác biệt cốt lõi giữa 'chăm chỉ' và 'chăm sóc/nuôi dưỡng' theo tác giả là gì?",
+      "question": "Sự khác biệt cốt lõi giữa chăm chỉ và chăm sóc/nuôi dưỡng theo tác giả là gì?",
       "options": [
-        "Không có sự khác biệt, hai từ này đồng nghĩa",
-        "Chăm chỉ là làm nhiều, còn nuôi dưỡng là làm có mục đích và sự kiên trì",
-        "Chăm chỉ là làm việc tay chân, nuôi dưỡng là tư duy chiến lược",
-        "Chăm chỉ là tự phát, nuôi dưỡng là phải có kế hoạch lâu dài"
+        "Không có sự khác biệt, hai từ này đồng nghĩa và đều dẫn đến kết quả thành công nếu thực hiện đủ thời gian dài.",
+        "Chăm chỉ là làm nhiều, còn nuôi dưỡng là làm có mục đích và sự kiên trì để hạt giống phát triển thành cây trái.",
+        "Chăm chỉ là làm việc tay chân, nuôi dưỡng là tư duy chiến lược để đạt được những mục tiêu lớn lao trong sự nghiệp.",
+        "Chăm chỉ là tự phát, nuôi dưỡng là phải có kế hoạch lâu dài để đảm bảo mọi thứ diễn ra đúng theo dự định ban đầu."
       ],
       "correctIndex": 1,
-      "explanation": "Chăm chỉ thuần túy đôi khi chỉ là sự bận rộn không hiệu quả. Nuôi dưỡng hàm ý sự quan tâm, kiên trì và hiểu rõ quy luật để hạt giống phát triển thành cây trái."
+      "explanation": "Chăm chỉ thuần túy đôi khi chỉ là sự bận rộn không hiệu quả, nuôi dưỡng hàm ý sự quan tâm và hiểu rõ quy luật để phát triển."
     },
     {
       "id": "q11",
-      "question": "Tư duy 'làm điều đúng đắn' mang lại lợi ích nào cho người lãnh đạo?",
+      "question": "Tư duy làm điều đúng đắn mang lại lợi ích nào cho người lãnh đạo?",
       "options": [
-        "Tạo ra sự thăng tiến nhanh chóng nhờ sự ủng hộ của cấp dưới",
-        "Giúp họ tránh được mọi sai lầm trong công việc",
-        "Xây dựng nền tảng vững chắc và tự do từ kết quả tất yếu của quy luật",
-        "Khiến họ trở nên khác biệt và được tôn trọng hơn các đối thủ"
+        "Tạo ra sự thăng tiến nhanh chóng nhờ sự ủng hộ của cấp dưới và giúp họ đạt được vị thế cao trong tổ chức hiện tại.",
+        "Giúp họ tránh được mọi sai lầm trong công việc và đảm bảo mọi dự án đều đạt được kết quả hoàn hảo như mong đợi.",
+        "Xây dựng nền tảng vững chắc và tự do từ kết quả tất yếu của quy luật thay vì lo lắng về sự may rủi của ngoại cảnh.",
+        "Khiến họ trở nên khác biệt và được tôn trọng hơn các đối thủ cạnh tranh nhờ vào việc tuân thủ các quy tắc đạo đức."
       ],
       "correctIndex": 2,
-      "explanation": "Làm điều đúng đắn là xây dựng nền móng. Khi nền móng vững, kết quả sẽ tự đến theo quy luật, giúp lãnh đạo đạt được tự do nhờ không phải lo lắng về sự 'đen đủi' hay thao túng."
+      "explanation": "Làm điều đúng đắn là xây dựng nền móng, khi nền móng vững, kết quả sẽ tự đến theo quy luật, giúp lãnh đạo đạt được tự do."
     },
     {
       "id": "q12",
       "question": "Sự thất bại thường thấy của nhiều người khi đối diện với nghịch cảnh là gì?",
       "options": [
-        "Họ tin rằng họ làm chưa đủ nhiều nên họ tăng cường làm việc",
-        "Họ cho rằng mình vô duyên (thiếu may mắn) và thay đổi mục tiêu",
-        "Họ tìm kiếm sự giúp đỡ từ người khác nhưng không đúng cách",
-        "Họ bỏ qua các quy luật tự nhiên và tìm cách tắt để đạt mục tiêu"
+        "Họ tin rằng họ làm chưa đủ nhiều nên họ tăng cường làm việc một cách mù quáng mà không xem xét lại phương pháp.",
+        "Họ cho rằng mình vô duyên và thiếu may mắn nên thay đổi mục tiêu liên tục thay vì kiên trì với con đường đã chọn.",
+        "Họ tìm kiếm sự giúp đỡ từ người khác nhưng không đúng cách và dẫn đến sự thất vọng về các mối quan hệ xung quanh.",
+        "Họ bỏ qua các quy luật tự nhiên và tìm cách tắt để đạt mục tiêu thay vì kiên trì nuôi dưỡng hạt giống của mình."
       ],
       "correctIndex": 3,
-      "explanation": "Người thường hay tìm đường tắt (shortcut) khi gặp khó khăn, trong khi quy luật tự nhiên đòi hỏi sự kiên trì và quá trình trưởng thành của hạt giống."
+      "explanation": "Người thường hay tìm đường tắt khi gặp khó khăn, trong khi quy luật tự nhiên đòi hỏi sự kiên trì và quá trình trưởng thành."
     },
     {
       "id": "q13",
       "question": "Thông điệp chính mà tác giả muốn độc giả rút ra sau khi đọc chương này là gì?",
       "options": [
-        "Hãy tin vào may mắn để cuộc sống bớt áp lực",
-        "Hãy làm việc như một người nông dân vì đó là công việc cao quý nhất",
-        "Hãy chịu trách nhiệm hoàn toàn cho kết quả cuộc đời thông qua hành động có quy luật",
-        "Hãy làm hài lòng mọi khách hàng bạn gặp để được thành công"
+        "Hãy chịu trách nhiệm hoàn toàn cho kết quả cuộc đời thông qua hành động có quy luật thay vì đổ lỗi cho sự may mắn.",
+        "Hãy tin vào may mắn để cuộc sống bớt áp lực và đón nhận những cơ hội bất ngờ đến với mình trong tương lai gần.",
+        "Hãy làm việc như một người nông dân vì đó là công việc cao quý nhất giúp con người hiểu rõ giá trị của lao động.",
+        "Hãy làm hài lòng mọi khách hàng bạn gặp để được thành công và xây dựng một cuộc đời vượt trội hơn người khác."
       ],
-      "correctIndex": 2,
-      "explanation": "Chương sách nhấn mạnh vào trách nhiệm cá nhân (accountability) thông qua quy luật nhân quả. Mọi điều tốt đẹp đều có nguyên do của nó."
+      "correctIndex": 0,
+      "explanation": "Chương sách nhấn mạnh vào trách nhiệm cá nhân thông qua quy luật nhân quả, mọi điều tốt đẹp đều có nguyên do của nó."
     },
     {
       "id": "q14",
-      "question": "Việc 'trung thành với quy luật' giúp cá nhân vượt qua bẫy tâm lý nào?",
+      "question": "Việc trung thành với quy luật giúp cá nhân vượt qua bẫy tâm lý nào?",
       "options": [
-        "Bẫy của sự tự phụ khi thành công sớm",
-        "Bẫy của sự sợ hãi và đổ lỗi cho ngoại cảnh",
-        "Bẫy của sự so sánh bản thân với người khác",
-        "Bẫy của sự trì hoãn do chờ đợi điều kiện hoàn hảo"
+        "Bẫy của sự tự phụ khi thành công sớm và quên mất rằng mọi kết quả đều cần sự nuôi dưỡng liên tục và bền bỉ.",
+        "Bẫy của sự sợ hãi và đổ lỗi cho ngoại cảnh khi kết quả không như ý muốn thay vì nhìn nhận lại hành động bản thân.",
+        "Bẫy của sự so sánh bản thân với người khác và cảm thấy mình kém cỏi hơn dù đã nỗ lực làm việc rất chăm chỉ.",
+        "Bẫy của sự trì hoãn do chờ đợi điều kiện hoàn hảo mới bắt đầu gieo hạt giống cho những mục tiêu lớn của cuộc đời."
       ],
       "correctIndex": 1,
-      "explanation": "Khi hiểu rằng kết quả đến từ việc gieo hạt, người ta sẽ ngừng đổ lỗi cho hoàn cảnh hay sự kém may mắn và tập trung vào việc thay đổi chính mình."
+      "explanation": "Khi hiểu kết quả đến từ việc gieo hạt, người ta sẽ ngừng đổ lỗi cho hoàn cảnh và tập trung vào việc thay đổi chính mình."
     },
     {
       "id": "q15",
       "question": "Theo tư duy của tác giả, nếu một người không gặt hái được gì, lý do thực sự thường là:",
       "options": [
-        "Họ không có đủ may mắn trong giai đoạn đó",
-        "Họ gieo hạt giống chất lượng kém hoặc không nuôi dưỡng chúng",
-        "Thế giới công bằng này không dành cho họ",
-        "Họ đã không làm đủ nhiều công việc lặp đi lặp lại"
+        "Họ không có đủ may mắn trong giai đoạn đó để nhận được những thành quả xứng đáng với công sức đã bỏ ra trước đó.",
+        "Thế giới công bằng này không dành cho họ và mọi nỗ lực đều trở nên vô nghĩa trước những quy luật khắc nghiệt.",
+        "Họ gieo hạt giống chất lượng kém hoặc không nuôi dưỡng chúng đủ lâu để chúng có thể phát triển thành cây trái.",
+        "Họ đã không làm đủ nhiều công việc lặp đi lặp lại mà không cần quan tâm đến chất lượng của hạt giống được gieo."
       ],
-      "correctIndex": 1,
-      "explanation": "Kết quả đến từ gieo và nuôi dưỡng. Thiếu kết quả đồng nghĩa với việc gieo sai hạt hoặc bỏ mặc hạt giống không được chăm sóc. Đây là bản chất của trách nhiệm cá nhân."
+      "correctIndex": 2,
+      "explanation": "Kết quả đến từ gieo và nuôi dưỡng, thiếu kết quả đồng nghĩa với việc gieo sai hạt hoặc bỏ mặc hạt giống không được chăm sóc."
     }
   ]
 }

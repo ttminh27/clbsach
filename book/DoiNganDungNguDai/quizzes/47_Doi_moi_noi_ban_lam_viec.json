@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Tại sao tác giả cho rằng việc 'trở thành người đổi mới' là điều kiện tiên quyết để 'vượt trội' thay vì chỉ đơn thuần làm tốt công việc chuyên môn?",
+      "question": "Tại sao tác giả cho rằng việc 'trở thành người đổi mới' là điều kiện tiên quyết để 'vượt trội' thay vì chỉ làm tốt chuyên môn?",
       "options": [
-        "Vì thế giới luôn thay đổi, làm tốt việc cũ chỉ giúp bạn tồn tại, còn đổi mới mới tạo ra giá trị khác biệt.",
-        "Vì đổi mới giúp giảm bớt khối lượng công việc thực tế cần phải xử lý hàng ngày.",
-        "Vì người đổi mới luôn nhận được sự chú ý và thăng tiến nhanh hơn từ cấp trên.",
-        "Vì bản chất của sự vượt trội là sự tích lũy của những kỹ năng kỹ thuật xuất sắc."
+        "Vì thế giới luôn biến động, việc làm tốt quy trình cũ chỉ giúp bạn tồn tại, còn đổi mới mới tạo ra giá trị khác biệt.",
+        "Vì đổi mới giúp giảm bớt khối lượng công việc thực tế cần xử lý hàng ngày, từ đó giúp bạn có nhiều thời gian nghỉ ngơi.",
+        "Vì người đổi mới luôn nhận được sự chú ý và thăng tiến nhanh hơn từ cấp trên so với những người chỉ làm việc chăm chỉ.",
+        "Vì bản chất của sự vượt trội là sự tích lũy của những kỹ năng kỹ thuật xuất sắc được rèn luyện qua nhiều năm tháng."
       ],
       "correctIndex": 0,
-      "explanation": "Sự vượt trội không đến từ việc lặp lại các quy trình cũ một cách hoàn hảo, mà đến từ khả năng tăng thêm giá trị (khôn ngoan hơn, nhanh hơn). Đổi mới là động lực tạo ra sự tiến hóa trong năng suất và tư duy, điều mà kỹ năng chuyên môn thuần túy không thể đáp ứng trong môi trường biến động."
+      "explanation": "Sự vượt trội không đến từ việc lặp lại các quy trình cũ, mà đến từ khả năng tăng thêm giá trị. Đổi mới là động lực tạo ra sự tiến hóa trong năng suất và tư duy."
     },
     {
       "id": "q2",
       "question": "Thông điệp cốt lõi của tác giả khi trích dẫn quan điểm của Tom Kelly về việc 'động não tại khu nghỉ dưỡng là phản tác dụng' là gì?",
       "options": [
-        "Các chuyến đi xa chỉ gây tốn kém chi phí và thời gian của doanh nghiệp.",
-        "Môi trường thiên nhiên không thực sự giúp ích cho việc sáng tạo như chúng ta lầm tưởng.",
-        "Sáng tạo không phải là một sự kiện đặc biệt, mà phải là một thói quen thường trực tại hiện trường.",
-        "Nhân viên sẽ mất tập trung khi làm việc trong môi trường quá thoải mái."
+        "Các chuyến đi xa chỉ gây tốn kém chi phí và thời gian của doanh nghiệp mà không mang lại kết quả sáng tạo thực tế nào.",
+        "Sáng tạo không phải là một sự kiện đặc biệt, mà phải là một thói quen thường trực được thực hiện ngay tại hiện trường.",
+        "Môi trường thiên nhiên không thực sự giúp ích cho việc sáng tạo như chúng ta lầm tưởng trong các khóa đào tạo kỹ năng.",
+        "Nhân viên sẽ mất tập trung khi làm việc trong môi trường quá thoải mái, dẫn đến việc quên đi các mục tiêu kinh doanh cốt lõi."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả muốn phá bỏ định kiến rằng sáng tạo cần điều kiện ngoại cảnh đặc biệt. Nếu chỉ sáng tạo khi 'đi xa', con người sẽ mặc định rằng văn phòng là nơi nhàm chán, từ đó dập tắt ngọn lửa đổi mới trong thực tế công việc hàng ngày."
+      "correctIndex": 1,
+      "explanation": "Tác giả muốn phá bỏ định kiến rằng sáng tạo cần điều kiện ngoại cảnh đặc biệt. Nếu chỉ sáng tạo khi đi xa, con người sẽ mặc định văn phòng là nơi nhàm chán."
     },
     {
       "id": "q3",
-      "question": "Một nhân viên liên tục tìm cách rút ngắn quy trình báo cáo nhưng vẫn đảm bảo chất lượng. Hành động này phản ánh chỉ báo sáng tạo nào được nhắc đến trong bài?",
+      "question": "Một nhân viên liên tục tìm cách rút ngắn quy trình báo cáo nhưng vẫn đảm bảo chất lượng. Hành động này phản ánh chỉ báo nào?",
       "options": [
-        "Sự khéo léo trong giao tiếp.",
-        "Sự khôn ngoan và tốc độ.",
-        "Sự trung thành với tổ chức.",
-        "Sự tiết kiệm nguồn lực."
+        "Sự khéo léo trong giao tiếp với đồng nghiệp, giúp quy trình làm việc trở nên trôi chảy và ít xảy ra xung đột nội bộ.",
+        "Sự trung thành tuyệt đối với tổ chức, thể hiện qua việc luôn cố gắng hoàn thành nhiệm vụ được giao một cách nhanh nhất.",
+        "Sự khôn ngoan và tốc độ, đây là những chỉ báo sáng tạo cốt lõi giúp tăng thêm giá trị cho công việc hàng ngày của bạn.",
+        "Sự tiết kiệm nguồn lực cho công ty, giúp tối ưu hóa chi phí vận hành và nâng cao lợi nhuận cho doanh nghiệp trong dài hạn."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả nhấn mạnh việc khám phá cách thức mới để 'khôn ngoan hơn, nhanh hơn'. Việc tối ưu hóa quy trình chính là biểu hiện của tư duy đổi mới thực dụng, biến sự thông minh thành hiệu suất cụ thể."
+      "correctIndex": 2,
+      "explanation": "Tác giả nhấn mạnh việc khám phá cách thức mới để khôn ngoan hơn, nhanh hơn. Việc tối ưu hóa quy trình chính là biểu hiện của tư duy đổi mới thực dụng."
     },
     {
       "id": "q4",
       "question": "Theo triết lý của chương này, rào cản lớn nhất đối với việc đổi mới tại nơi làm việc là gì?",
       "options": [
-        "Thiếu ngân sách cho các dự án nghiên cứu và phát triển.",
-        "Sự thiếu hụt các không gian truyền cảm hứng như biển hay núi.",
-        "Tâm lý chờ đợi một 'cú hích' hoặc một không gian lý tưởng mới bắt đầu sáng tạo.",
-        "Sự phản đối của đồng nghiệp trước những ý tưởng mới lạ."
+        "Thiếu ngân sách cho các dự án nghiên cứu và phát triển khiến nhân viên không có điều kiện để thử nghiệm những ý tưởng mới.",
+        "Sự thiếu hụt các không gian truyền cảm hứng như biển hay núi khiến nhân viên cảm thấy bị gò bó trong môi trường văn phòng.",
+        "Sự phản đối của đồng nghiệp trước những ý tưởng mới lạ khiến người có tư duy sáng tạo cảm thấy nản lòng và muốn bỏ cuộc.",
+        "Tâm lý chờ đợi một 'cú hích' hoặc một không gian lý tưởng mới bắt đầu sáng tạo thay vì hành động ngay tại nơi hiện diện."
       ],
-      "correctIndex": 2,
-      "explanation": "Nhiều người rơi vào bẫy 'ngụy biện môi trường', tin rằng họ không sáng tạo vì văn phòng quá cũ kỹ hoặc áp lực. Tác giả khẳng định tư tưởng hay nhất đến từ việc đổi mới ngay tại nơi mình hiện diện."
+      "correctIndex": 3,
+      "explanation": "Nhiều người rơi vào bẫy ngụy biện môi trường, tin rằng họ không sáng tạo vì văn phòng cũ kỹ. Tác giả khẳng định tư tưởng hay nhất đến từ việc đổi mới tại chỗ."
     },
     {
       "id": "q5",
-      "question": "Nếu bạn là một lãnh đạo, việc tổ chức quá nhiều buổi 'teambuilding sáng tạo' ngoài trời có thể vô tình gây ra hiểu lầm gì cho nhân viên?",
+      "question": "Nếu bạn là một lãnh đạo, việc tổ chức quá nhiều buổi 'teambuilding sáng tạo' ngoài trời có thể vô tình gây ra hiểu lầm gì?",
       "options": [
-        "Họ cho rằng công ty đang rất quan tâm đến đời sống tinh thần của họ.",
-        "Họ tin rằng sáng tạo là một hoạt động tách biệt hoàn toàn với công việc thực tế.",
-        "Họ cảm thấy áp lực phải có ý tưởng ngay lập tức trong chuyến đi.",
-        "Họ sẽ yêu cầu được đi du lịch nhiều hơn để có thêm cảm hứng."
+        "Nhân viên tin rằng sáng tạo là một hoạt động tách biệt hoàn toàn với công việc thực tế hàng ngày tại văn phòng công ty.",
+        "Họ cho rằng công ty đang rất quan tâm đến đời sống tinh thần của họ, từ đó tăng cường sự gắn kết với tổ chức lâu dài hơn.",
+        "Họ cảm thấy áp lực phải có ý tưởng đột phá ngay lập tức trong chuyến đi, dẫn đến sự mệt mỏi và căng thẳng không cần thiết.",
+        "Họ sẽ yêu cầu được đi du lịch nhiều hơn để có thêm cảm hứng, gây ảnh hưởng đến tiến độ công việc chung của cả phòng ban."
       ],
-      "correctIndex": 1,
-      "explanation": "Đây là bẫy tâm lý mà Tom Kelly cảnh báo: nhân viên sẽ nghĩ nguồn cảm hứng chỉ có ở 'ngoài bãi biển' hay 'trên núi cao'. Điều này vô tình biến không gian làm việc thành một nơi 'ngừng sáng tạo' trong tâm thức họ."
+      "correctIndex": 0,
+      "explanation": "Đây là bẫy tâm lý mà Tom Kelly cảnh báo: nhân viên sẽ nghĩ nguồn cảm hứng chỉ có ở ngoài bãi biển, vô tình biến văn phòng thành nơi ngừng sáng tạo."
     },
     {
       "id": "q6",
       "question": "Cụm từ 'ngọn gió sáng tạo thổi khắp nơi làm việc' ám chỉ điều gì về văn hóa tổ chức?",
       "options": [
-        "Lắp đặt hệ thống thông gió tốt để nhân viên minh mẫn hơn.",
-        "Khuyến khích nhân viên tự do làm việc ở bất cứ đâu họ muốn.",
-        "Biến đổi mới thành một trạng thái tồn tại tự nhiên, liên tục và hiện hữu trong mọi nhiệm vụ.",
-        "Thường xuyên thay đổi nhân sự để mang lại luồng sinh khí mới."
+        "Lắp đặt hệ thống thông gió tốt để nhân viên minh mẫn hơn, từ đó tăng cường khả năng tập trung vào các công việc phức tạp.",
+        "Biến đổi mới thành một trạng thái tồn tại tự nhiên, liên tục và hiện hữu trong mọi nhiệm vụ của nhân viên mỗi ngày.",
+        "Khuyến khích nhân viên tự do làm việc ở bất cứ đâu họ muốn, miễn là đảm bảo hoàn thành đúng thời hạn các mục tiêu đề ra.",
+        "Thường xuyên thay đổi nhân sự để mang lại luồng sinh khí mới, giúp tổ chức luôn duy trì được sự năng động và sáng tạo."
       ],
-      "correctIndex": 2,
-      "explanation": "Sáng tạo không nên là một 'cơn gió lạ' thỉnh thoảng mới ghé thăm. Nó phải giống như hơi thở của doanh nghiệp, diễn ra thường xuyên và đều đặn ngay tại nơi làm việc như một tiêu chuẩn vận hành."
+      "correctIndex": 1,
+      "explanation": "Sáng tạo không nên là một cơn gió lạ thỉnh thoảng mới ghé thăm. Nó phải giống như hơi thở của doanh nghiệp, diễn ra thường xuyên và đều đặn."
     },
     {
       "id": "q7",
-      "question": "Sự khác biệt chính giữa một 'người làm việc chuyên cần' và một 'người đổi mới xuất sắc' theo góc nhìn của Robin Sharma là gì?",
+      "question": "Sự khác biệt chính giữa một 'người làm việc chuyên cần' và một 'người đổi mới xuất sắc' theo góc nhìn của tác giả là gì?",
       "options": [
-        "Người chuyên cần làm đúng việc, người đổi mới làm việc đó theo cách tốt hơn mỗi ngày.",
-        "Người chuyên cần làm việc lâu năm, người đổi mới có nhiều bằng cấp hơn.",
-        "Người chuyên cần ít mắc sai lầm hơn người đổi mới.",
-        "Người đổi mới dành nhiều thời gian để suy nghĩ hơn là thực hiện."
+        "Người chuyên cần làm việc lâu năm, người đổi mới có nhiều bằng cấp hơn nên dễ dàng tìm ra các giải pháp đột phá mới.",
+        "Người chuyên cần ít mắc sai lầm hơn người đổi mới, vì họ luôn tuân thủ nghiêm ngặt các quy trình đã được thiết lập.",
+        "Người chuyên cần làm đúng việc, người đổi mới làm việc đó theo cách tốt hơn, nhanh hơn và khôn ngoan hơn mỗi ngày.",
+        "Người đổi mới dành nhiều thời gian để suy nghĩ hơn là thực hiện, trong khi người chuyên cần tập trung vào hành động."
       ],
-      "correctIndex": 0,
-      "explanation": "Chuyên cần là nền tảng, nhưng đổi mới là động lực để vượt trội. Người đổi mới không bằng lòng với 'trạng thái ổn định' (status quo) mà luôn khao khát tìm ra giá trị gia tăng thông qua tư duy sáng tạo."
+      "correctIndex": 2,
+      "explanation": "Chuyên cần là nền tảng, nhưng đổi mới là động lực để vượt trội. Người đổi mới không bằng lòng với trạng thái ổn định mà luôn khao khát giá trị gia tăng."
     },
     {
       "id": "q8",
       "question": "Trong bối cảnh bài viết, 'đổi mới tư duy ngay tại nơi mình hiện diện' đòi hỏi phẩm chất gì nhất ở cá nhân?",
       "options": [
-        "Khả năng chịu đựng áp lực công việc cao.",
-        "Sự kỷ luật trong việc tuân thủ các quy định hiện hành.",
-        "Khả năng quan sát nhạy bén và không chấp nhận những lề thói cũ kỹ.",
-        "Kỹ năng thuyết phục người khác chấp nhận ý tưởng của mình."
+        "Khả năng chịu đựng áp lực công việc cao, giúp cá nhân duy trì sự ổn định trong môi trường làm việc đầy biến động hiện nay.",
+        "Sự kỷ luật trong việc tuân thủ các quy định hiện hành, đảm bảo mọi công việc đều được thực hiện đúng theo tiêu chuẩn.",
+        "Kỹ năng thuyết phục người khác chấp nhận ý tưởng của mình, giúp lan tỏa tinh thần đổi mới đến toàn bộ đội ngũ nhân sự.",
+        "Khả năng quan sát nhạy bén và không chấp nhận những lề thói cũ kỹ đang kìm hãm hiệu suất làm việc của chính bản thân."
       ],
-      "correctIndex": 2,
-      "explanation": "Để đổi mới tại chỗ, bạn phải nhìn thấy những 'vết rạn' hoặc 'cơ hội' trong những thứ tưởng chừng bình thường nhất mà người khác bỏ qua do thói quen."
+      "correctIndex": 3,
+      "explanation": "Để đổi mới tại chỗ, bạn phải nhìn thấy những vết rạn hoặc cơ hội trong những thứ tưởng chừng bình thường nhất mà người khác bỏ qua do thói quen."
     },
     {
       "id": "q9",
       "question": "Tại sao việc vào rừng hay nơi tôn nghiêm để tìm ý tưởng lớn đôi khi lại là một hình thức 'trì hoãn tinh vi'?",
       "options": [
-        "Vì nơi đó quá yên tĩnh khiến bộ não rơi vào trạng thái nghỉ ngơi.",
-        "Vì nó giúp ta trốn tránh việc đối mặt với những vấn đề hóc búa tại thực địa.",
-        "Vì ý tưởng trong rừng thường không có tính thực tế khi áp dụng.",
-        "Vì chi phí đi lại làm giảm hiệu quả kinh tế của ý tưởng."
+        "Vì nó giúp ta trốn tránh việc đối mặt với những vấn đề hóc búa tại thực địa thay vì tìm cách giải quyết ngay tại chỗ.",
+        "Vì nơi đó quá yên tĩnh khiến bộ não rơi vào trạng thái nghỉ ngơi, làm giảm khả năng tư duy logic và phân tích dữ liệu.",
+        "Vì ý tưởng trong rừng thường không có tính thực tế khi áp dụng vào môi trường kinh doanh đầy cạnh tranh và khốc liệt.",
+        "Vì chi phí đi lại làm giảm hiệu quả kinh tế của ý tưởng, khiến doanh nghiệp không đạt được lợi nhuận như mong đợi ban đầu."
       ],
-      "correctIndex": 1,
-      "explanation": "Nhiều người lấy cớ 'cần cảm hứng' để rời xa áp lực thực tế. Thực tế, những ý tưởng đột phá nhất thường nảy sinh khi ta đang đối mặt trực tiếp với khó khăn tại nơi làm việc."
+      "correctIndex": 0,
+      "explanation": "Nhiều người lấy cớ cần cảm hứng để rời xa áp lực thực tế. Thực tế, những ý tưởng đột phá nhất thường nảy sinh khi ta đối mặt trực tiếp với khó khăn."
     },
     {
       "id": "q10",
       "question": "Khi tác giả nói 'Để sáng tạo thần kỳ... bạn không cần vào rừng', ông đang ngầm chỉ trích lối tư duy nào?",
       "options": [
-        "Tư duy thực dụng quá mức.",
-        "Tư duy lãng mạn hóa sự sáng tạo và lệ thuộc vào ngoại cảnh.",
-        "Tư duy bảo thủ, ngại thay đổi môi trường sống.",
-        "Tư duy coi trọng lý thuyết hơn thực hành."
+        "Tư duy thực dụng quá mức, chỉ quan tâm đến kết quả cuối cùng mà bỏ qua quá trình rèn luyện tư duy sáng tạo của nhân viên.",
+        "Tư duy lãng mạn hóa sự sáng tạo và lệ thuộc vào ngoại cảnh, thay vì coi nó là một công cụ giải quyết vấn đề hàng ngày.",
+        "Tư duy bảo thủ, ngại thay đổi môi trường sống và làm việc, dẫn đến sự trì trệ trong việc tiếp nhận các xu hướng mới.",
+        "Tư duy coi trọng lý thuyết hơn thực hành, khiến nhân viên không thể áp dụng được những kiến thức đã học vào công việc."
       ],
       "correctIndex": 1,
-      "explanation": "Tác giả phê phán việc biến sáng tạo thành một thứ gì đó 'thần thánh' hoặc 'xa xỉ' chỉ xuất hiện trong những điều kiện đặc biệt, thay vì coi nó là một công cụ giải quyết vấn đề hàng ngày."
+      "explanation": "Tác giả phê phán việc biến sáng tạo thành một thứ gì đó thần thánh hoặc xa xỉ chỉ xuất hiện trong những điều kiện đặc biệt, thay vì là công cụ hàng ngày."
     },
     {
       "id": "q11",
-      "question": "Một người nhân viên luôn phàn nàn rằng 'Văn phòng này quá chật chội để tôi có thể nghĩ ra cái gì hay ho' đang mắc phải sai lầm gì theo bài viết?",
+      "question": "Một nhân viên phàn nàn rằng 'Văn phòng này quá chật chội để tôi có thể nghĩ ra cái gì hay ho' đang mắc phải sai lầm gì?",
       "options": [
-        "Họ đang quá trung thực về điều kiện làm việc.",
-        "Họ đang nhầm lẫn giữa sự tiện nghi và năng lực tư duy sáng tạo.",
-        "Họ cần một người lãnh đạo biết lắng nghe hơn.",
-        "Họ đang phản ánh đúng quy luật về môi trường ảnh hưởng đến ý tưởng."
+        "Họ đang quá trung thực về điều kiện làm việc, điều này có thể gây ảnh hưởng đến tinh thần của các đồng nghiệp xung quanh.",
+        "Họ cần một người lãnh đạo biết lắng nghe hơn để có thể thấu hiểu và giải quyết những khó khăn về không gian làm việc.",
+        "Họ đang nhầm lẫn giữa sự tiện nghi và năng lực tư duy sáng tạo, vốn xuất phát từ bên trong tư duy của mỗi cá nhân.",
+        "Họ đang phản ánh đúng quy luật về môi trường ảnh hưởng đến ý tưởng, vì không gian chật hẹp thực sự làm giảm tư duy."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả khẳng định 'bạn sẽ có những tư tưởng hay nhất qua việc đổi mới tư duy ngay tại nơi mình hiện diện'. Sự sáng tạo nằm ở bên trong con người, không nằm ở diện tích hay trang thiết bị văn phòng."
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định bạn sẽ có những tư tưởng hay nhất qua việc đổi mới tư duy ngay tại nơi mình hiện diện. Sáng tạo nằm ở bên trong con người."
     },
     {
       "id": "q12",
-      "question": "Giá trị cốt lõi của việc đổi mới 'nhanh hơn' trong thông điệp của Sharma là gì?",
+      "question": "Giá trị cốt lõi của việc đổi mới 'nhanh hơn' trong thông điệp của tác giả là gì?",
       "options": [
-        "Để sớm kết thúc công việc và về nhà nghỉ ngơi.",
-        "Để tăng số lượng sản phẩm đầu ra bất kể chất lượng.",
-        "Để đáp ứng sự thay đổi tức thì của thị trường và giảm thiểu lãng phí thời gian.",
-        "Để chứng tỏ mình năng suất hơn những đồng nghiệp khác."
+        "Để sớm kết thúc công việc và về nhà nghỉ ngơi, giúp cân bằng cuộc sống và công việc một cách hiệu quả hơn mỗi ngày.",
+        "Để tăng số lượng sản phẩm đầu ra bất kể chất lượng, nhằm chiếm lĩnh thị phần nhanh chóng trước các đối thủ cạnh tranh.",
+        "Để chứng tỏ mình năng suất hơn những đồng nghiệp khác, từ đó tạo lợi thế trong việc đánh giá hiệu quả công việc cuối năm.",
+        "Để đáp ứng sự thay đổi tức thì của thị trường và giảm thiểu lãng phí thời gian trong các quy trình vận hành nội bộ."
       ],
-      "correctIndex": 2,
-      "explanation": "Trong kỷ nguyên hiện nay, tốc độ là một lợi thế cạnh tranh. Đổi mới để 'nhanh hơn' nghĩa là loại bỏ các bước thừa, tập trung vào giá trị cốt lõi để phục vụ khách hàng/tổ chức hiệu quả nhất."
+      "correctIndex": 3,
+      "explanation": "Trong kỷ nguyên hiện nay, tốc độ là một lợi thế cạnh tranh. Đổi mới để nhanh hơn nghĩa là loại bỏ các bước thừa, tập trung vào giá trị cốt lõi."
     },
     {
       "id": "q13",
-      "question": "Nghịch lý nào sau đây được rút ra từ bài viết về việc tìm kiếm cảm hứng?",
+      "question": "Nghịch lý nào sau đây được rút ra từ bài viết về việc tìm kiếm cảm hứng sáng tạo?",
       "options": [
-        "Càng đi xa tìm cảm hứng, cảm hứng càng dễ biến mất khi quay lại.",
-        "Càng làm việc vất vả, càng ít có khả năng sáng tạo.",
-        "Nơi bình thường nhất lại là nơi chứa đựng những cơ hội đổi mới phi thường nhất.",
-        "Những người thông minh nhất thường là những người ít đổi mới nhất."
+        "Nơi bình thường nhất lại là nơi chứa đựng những cơ hội đổi mới phi thường nhất nếu ta chịu thay đổi góc nhìn của mình.",
+        "Càng đi xa tìm cảm hứng, cảm hứng càng dễ biến mất khi quay lại, khiến công việc trở nên khó khăn hơn bao giờ hết.",
+        "Càng làm việc vất vả, càng ít có khả năng sáng tạo, vì bộ não cần thời gian nghỉ ngơi để tái tạo năng lượng tư duy.",
+        "Những người thông minh nhất thường là những người ít đổi mới nhất, vì họ quá tự tin vào những kiến thức đã có sẵn."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả nhấn mạnh rằng những tư tưởng hay nhất đến từ việc đổi mới ngay tại chỗ. Nghịch lý là chúng ta thường tìm kiếm sự đột phá ở đâu đó xa xôi, trong khi nó ẩn giấu ngay trong những công việc nhàm chán hàng ngày nếu ta chịu thay đổi góc nhìn."
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh rằng những tư tưởng hay nhất đến từ việc đổi mới ngay tại chỗ. Nghịch lý là chúng ta thường tìm kiếm sự đột phá ở nơi xa xôi."
     },
     {
       "id": "q14",
       "question": "Theo Tom Kelly, mục tiêu cuối cùng của việc đổi mới tại công sở là gì?",
       "options": [
-        "Biến văn phòng thành một khu nghỉ dưỡng mini.",
-        "Làm cho sáng tạo trở thành một luồng khí tự nhiên, hiện hữu mọi lúc mọi nơi.",
-        "Giúp nhân viên cảm thấy bớt căng thẳng hơn khi làm việc.",
-        "Xây dựng hình ảnh một công ty năng động trong mắt khách hàng."
+        "Biến văn phòng thành một khu nghỉ dưỡng mini, giúp nhân viên cảm thấy thoải mái như đang ở nhà trong suốt giờ làm việc.",
+        "Làm cho sáng tạo trở thành một luồng khí tự nhiên, hiện hữu mọi lúc mọi nơi như một phần không thể thiếu của doanh nghiệp.",
+        "Giúp nhân viên cảm thấy bớt căng thẳng hơn khi làm việc, từ đó tăng cường sự hài lòng và gắn kết với tổ chức lâu dài.",
+        "Xây dựng hình ảnh một công ty năng động trong mắt khách hàng, giúp tăng uy tín và thương hiệu trên thị trường cạnh tranh."
       ],
       "correctIndex": 1,
-      "explanation": "Mục tiêu là làm cho 'ngọn gió sáng tạo thổi khắp nơi làm việc cũng thường xuyên như ngọn gió ngoài bãi biển'. Điều này có nghĩa là sự đổi mới phải trở thành một phần không thể thiếu của môi trường làm việc."
+      "explanation": "Mục tiêu là làm cho ngọn gió sáng tạo thổi khắp nơi làm việc cũng thường xuyên như ngọn gió ngoài bãi biển. Sáng tạo phải là một phần của văn hóa."
     },
     {
       "id": "q15",
-      "question": "Nếu phải chọn một khẩu hiệu (slogan) cho chương này, câu nào sau đây phản ánh đúng nhất tinh thần của Robin Sharma?",
+      "question": "Nếu phải chọn một khẩu hiệu cho chương này, câu nào sau đây phản ánh đúng nhất tinh thần của tác giả?",
       "options": [
-        "Sáng tạo hay là chết.",
-        "Đổi mới ngay tại đây, ngay bây giờ.",
-        "Hãy đi để trở về và sáng tạo hơn.",
-        "Đỉnh cao của sự thông minh là sự đơn giản."
+        "Sáng tạo hay là chết, vì trong thế giới hiện đại, nếu không đổi mới bạn sẽ bị đào thải khỏi thị trường lao động nhanh chóng.",
+        "Hãy đi để trở về và sáng tạo hơn, vì những chuyến đi xa sẽ giúp bạn có cái nhìn mới mẻ hơn về công việc hiện tại.",
+        "Đổi mới ngay tại đây, ngay bây giờ, vì sự sáng tạo không chờ đợi một không gian lý tưởng hay một thời điểm hoàn hảo.",
+        "Đỉnh cao của sự thông minh là sự đơn giản, hãy loại bỏ những thứ phức tạp để tập trung vào giá trị cốt lõi của công việc."
       ],
-      "correctIndex": 1,
-      "explanation": "Tinh thần chủ đạo của chương là 'Đổi mới nơi bạn làm việc', nhấn mạnh vào tính thực địa và tức thời của việc sáng tạo, thay vì trì hoãn hay tìm kiếm những điều kiện bên ngoài."
+      "correctIndex": 2,
+      "explanation": "Tinh thần chủ đạo của chương là Đổi mới nơi bạn làm việc, nhấn mạnh vào tính thực địa và tức thời của việc sáng tạo, thay vì trì hoãn hay tìm kiếm điều kiện."
     }
   ]
 }

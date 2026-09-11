@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Theo quan điểm của tác giả, điểm khác biệt cốt lõi giữa 'biểu lộ khả năng lãnh đạo' và 'lãnh đạo công ty' là gì?",
+      "question": "Theo tác giả, sự khác biệt cốt lõi giữa 'biểu lộ khả năng lãnh đạo' và 'lãnh đạo công ty' nằm ở đâu?",
       "options": [
-        "Khả năng ra quyết định chiến lược so với việc hoàn thành nhiệm vụ cá nhân",
-        "Tính sẵn sàng chịu trách nhiệm so với thẩm quyền quản lý nhân sự",
-        "Tư duy làm chủ bản thân so với kỹ năng điều hành tổ chức",
-        "Năng lực chuyên môn so với kỹ năng giao tiếp cấp cao"
+        "Lãnh đạo là tư duy làm chủ trách nhiệm cá nhân, còn điều hành công ty là vị trí quản trị có thẩm quyền cụ thể.",
+        "Biểu lộ khả năng lãnh đạo là kỹ năng giao tiếp cấp cao, trong khi điều hành công ty là năng lực chuyên môn sâu.",
+        "Khả năng lãnh đạo là việc ra quyết định chiến lược, còn điều hành công ty là việc thực thi các nhiệm vụ nhỏ.",
+        "Lãnh đạo là sự tự chủ trong công việc hàng ngày, còn điều hành công ty là quyền lực kiểm soát toàn bộ nhân sự."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả nhấn mạnh mọi người đều có thể 'lãnh đạo' thông qua thái độ và trách nhiệm, nhưng không có nghĩa ai cũng có vị trí quản trị. Điểm mấu chốt là tư duy làm chủ (ownership mindset) không phụ thuộc vào chức danh."
+      "correctIndex": 0,
+      "explanation": "Tác giả phân biệt rõ giữa thái độ lãnh đạo (ai cũng có thể làm) và vị trí quản lý (chức danh cụ thể), nhấn mạnh tư duy làm chủ không phụ thuộc vào quyền lực."
     },
     {
       "id": "q2",
-      "question": "Tại sao tác giả lại đưa ra ví dụ về ban nhạc U2 để giải thích về sự khác biệt giữa các nhà lãnh đạo?",
+      "question": "Tại sao tác giả sử dụng ví dụ về ban nhạc U2 để minh họa cho khái niệm lãnh đạo trong tổ chức?",
       "options": [
-        "Để chứng minh rằng lãnh đạo là một nghệ thuật cần sự sáng tạo",
-        "Để minh họa rằng sự thành công đòi hỏi mỗi người phải tập trung vào thế mạnh chuyên biệt",
-        "Để nói rằng người nổi tiếng là những nhà lãnh đạo xuất sắc nhất",
-        "Để khẳng định rằng không ai có thể làm thay công việc của người khác"
+        "Để chứng minh rằng lãnh đạo là một nghệ thuật sáng tạo cần sự đồng thuận tuyệt đối giữa các thành viên nhóm.",
+        "Để khẳng định sự thành công đòi hỏi mỗi người phải thực hiện xuất sắc vai trò chuyên biệt của chính mình.",
+        "Để nhấn mạnh rằng người nổi tiếng là hình mẫu lý tưởng cho mọi nhân viên trong môi trường doanh nghiệp hiện.",
+        "Để khẳng định rằng không ai có thể làm thay công việc của người khác nếu không có sự đào tạo bài bản trước."
       ],
       "correctIndex": 1,
-      "explanation": "Ví dụ về Bono và Larry cho thấy rằng dù mỗi thành viên đều là 'nhà lãnh đạo' trong lĩnh vực của mình, nhưng sự xuất sắc chỉ đến khi mỗi người thực hiện đúng vai trò cốt lõi của họ."
+      "explanation": "Ví dụ về Bono và Larry cho thấy sự hỗn loạn xảy ra khi mỗi người không biết vai trò của mình, dù họ đều là những người tài năng."
     },
     {
       "id": "q3",
-      "question": "Một nhân viên bình thường có thể áp dụng tư duy 'lãnh đạo không chức danh' như thế nào để tạo ảnh hưởng tại nơi làm việc?",
+      "question": "Nhân viên có thể áp dụng tư duy 'lãnh đạo không chức danh' để tạo ảnh hưởng tại nơi làm việc như thế nào?",
       "options": [
-        "Tự ý thay đổi quy trình làm việc để gây ấn tượng với cấp trên",
-        "Thể hiện sự chủ động, trách nhiệm và lan tỏa văn hóa tích cực trong phần việc của mình",
-        "Tranh luận gay gắt với quản lý để thể hiện tư duy độc lập",
-        "Đảm nhận thêm công việc của đồng nghiệp để chứng tỏ năng lực"
+        "Tự ý thay đổi quy trình làm việc hiện tại để gây ấn tượng mạnh mẽ với cấp trên và đồng nghiệp trong công ty.",
+        "Tranh luận gay gắt với quản lý để thể hiện tư duy độc lập và khẳng định vị thế cá nhân trong các dự án.",
+        "Thể hiện sự chủ động, nhận trách nhiệm cao nhất và lan tỏa văn hóa tích cực trong phần việc của bản thân.",
+        "Đảm nhận thêm khối lượng công việc của đồng nghiệp để chứng tỏ năng lực vượt trội so với các thành viên khác."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả nhấn mạnh việc lãnh đạo không nằm ở việc chiếm quyền mà ở việc thực hiện tốt nhất trách nhiệm và định hướng văn hóa làm việc bằng thái độ tích cực."
+      "correctIndex": 2,
+      "explanation": "Lãnh đạo không nằm ở việc chiếm quyền mà ở việc thực hiện tốt nhất trách nhiệm và định hướng văn hóa bằng thái độ tích cực."
     },
     {
       "id": "q4",
       "question": "Trong môi trường doanh nghiệp hiện đại, việc thúc đẩy mọi người trở thành nhà lãnh đạo nhằm mục đích gì?",
       "options": [
-        "Để tạo ra một tập thể đồng nhất về năng lực quản lý",
-        "Để nhanh chóng phát triển nguồn nhân lực nội bộ nhằm cạnh tranh hiệu quả",
-        "Để loại bỏ dần vai trò của các nhà quản lý cấp cao",
-        "Để giảm thiểu chi phí tuyển dụng nhân tài từ bên ngoài"
+        "Để tạo ra một tập thể đồng nhất về năng lực quản lý giúp giảm bớt sự phụ thuộc vào các nhà lãnh đạo cấp cao.",
+        "Để loại bỏ dần vai trò của các nhà quản lý cấp trung và tối ưu hóa chi phí vận hành bộ máy doanh nghiệp lớn.",
+        "Để giảm thiểu chi phí tuyển dụng nhân tài từ bên ngoài bằng cách đào tạo nhân viên hiện có thành nhà quản lý.",
+        "Để nhanh chóng phát triển nguồn nhân lực nội bộ nhằm tạo ra lợi thế cạnh tranh vượt trội so với các đối thủ."
       ],
-      "correctIndex": 1,
-      "explanation": "Các công ty giỏi nhất phát triển người có vai trò lãnh đạo khắp công ty nhanh hơn đối thủ, tạo ra lợi thế cạnh tranh về sự nhạy bén và tốc độ xử lý."
+      "correctIndex": 3,
+      "explanation": "Các công ty giỏi nhất phát triển người có vai trò lãnh đạo khắp công ty nhanh hơn đối thủ, tạo ra sự nhạy bén và tốc độ xử lý."
     },
     {
       "id": "q5",
-      "question": "Nếu một cá nhân lầm tưởng 'ai cũng là nhà lãnh đạo' nghĩa là 'ai cũng có quyền làm bất cứ việc gì', hệ quả nguy hiểm nhất là gì?",
+      "question": "Hệ quả nguy hiểm nhất nếu nhân viên hiểu sai 'ai cũng là nhà lãnh đạo' thành 'ai cũng có quyền làm mọi việc' là gì?",
       "options": [
-        "Sự hỗn loạn về vai trò và mất kiểm soát quy trình (tương tự như ví dụ ban nhạc)",
-        "Sự bất mãn trong đội ngũ nhân sự",
-        "Sự chậm trễ trong việc triển khai các dự án ngắn hạn",
-        "Sự suy giảm về mặt sáng tạo cá nhân"
+        "Sự hỗn loạn về vai trò và mất kiểm soát quy trình làm việc chung, gây ảnh hưởng tiêu cực đến kết quả tổ chức.",
+        "Sự bất mãn trong đội ngũ nhân sự do cảm thấy quyền lợi cá nhân bị xâm phạm bởi những người đồng nghiệp khác.",
+        "Sự chậm trễ trong việc triển khai các dự án ngắn hạn do thiếu sự đồng thuận giữa các thành viên trong nhóm.",
+        "Sự suy giảm về mặt sáng tạo cá nhân do mọi người quá tập trung vào việc tranh giành quyền lực quản lý nhóm."
       ],
       "correctIndex": 0,
-      "explanation": "Tác giả cảnh báo sự hỗn loạn nếu mỗi người không biết vai trò của mình. 'Lãnh đạo' là về thái độ, không phải về quyền tự do vượt quá phạm vi công việc chuyên môn."
+      "explanation": "Tác giả cảnh báo sự hỗn loạn nếu mỗi người không biết vai trò của mình. Lãnh đạo là về thái độ, không phải quyền tự do vượt phạm vi."
     },
     {
       "id": "q6",
-      "question": "Tư duy lãnh đạo cần được thể hiện thông qua 'sự thay đổi', điều này có nghĩa là gì?",
+      "question": "Tư duy lãnh đạo cần được thể hiện thông qua 'sự thay đổi' tại nơi làm việc, điều này có nghĩa là gì?",
       "options": [
-        "Luôn tìm cách đảo ngược các quy tắc cũ của công ty",
-        "Xem sự thay đổi là cơ hội để cải thiện chất lượng công việc",
-        "Luôn phản đối các quyết định thay đổi từ cấp trên để kiểm chứng năng lực",
-        "Chỉ tập trung vào những thay đổi lớn mang tính chiến lược"
+        "Luôn tìm cách đảo ngược các quy tắc cũ của công ty để chứng minh năng lực tư duy đột phá của cá nhân mình.",
+        "Xem sự thay đổi là cơ hội để cải thiện chất lượng công việc và khiến mọi việc trở nên tốt đẹp hơn trước.",
+        "Luôn phản đối các quyết định thay đổi từ cấp trên để kiểm chứng năng lực quản trị của người lãnh đạo nhóm.",
+        "Chỉ tập trung vào những thay đổi lớn mang tính chiến lược thay vì quan tâm đến các cải tiến nhỏ hàng ngày."
       ],
       "correctIndex": 1,
-      "explanation": "Lãnh đạo không chức danh là người chủ động nhìn thấy cơ hội phát triển tốt hơn trong bất kỳ biến động nào thay vì lo sợ hay né tránh."
+      "explanation": "Lãnh đạo không chức danh là người chủ động nhìn thấy cơ hội phát triển tốt hơn trong bất kỳ biến động nào thay vì lo sợ."
     },
     {
       "id": "q7",
-      "question": "Phát biểu nào sau đây phản ánh đúng bản chất của khái niệm 'lãnh đạo' trong chương này?",
+      "question": "Phát biểu nào sau đây phản ánh đúng bản chất của khái niệm 'lãnh đạo' được đề cập trong chương này?",
       "options": [
-        "Lãnh đạo là một chức danh gắn liền với quyền lực",
-        "Lãnh đạo là khả năng truyền cảm hứng cho người khác",
-        "Lãnh đạo là một lựa chọn thái độ và trách nhiệm đối với kết quả công việc",
-        "Lãnh đạo là việc quản lý tốt một nhóm người cụ thể"
+        "Lãnh đạo là một chức danh gắn liền với quyền lực và khả năng ra lệnh cho người khác trong tổ chức doanh nghiệp.",
+        "Lãnh đạo là khả năng truyền cảm hứng cho người khác thông qua việc thể hiện uy tín và kinh nghiệm làm việc.",
+        "Lãnh đạo là một lựa chọn về thái độ và trách nhiệm cá nhân đối với kết quả công việc của chính mình.",
+        "Lãnh đạo là việc quản lý tốt một nhóm người cụ thể để đảm bảo hoàn thành đúng tiến độ các dự án đề ra."
       ],
       "correctIndex": 2,
-      "explanation": "Tác giả tách biệt 'lãnh đạo' khỏi quyền lực và định nghĩa nó bằng việc mỗi người tự nhận lãnh trách nhiệm cá nhân để tạo ra kết quả tốt nhất."
+      "explanation": "Tác giả tách biệt lãnh đạo khỏi quyền lực và định nghĩa nó bằng việc mỗi người tự nhận lãnh trách nhiệm để tạo ra kết quả tốt nhất."
     },
     {
       "id": "q8",
-      "question": "Tại sao việc 'nỗ lực thêm một chút nữa' lại là một phần của tư duy lãnh đạo?",
+      "question": "Tại sao việc 'nỗ lực thêm một chút nữa' lại được coi là một phần quan trọng của tư duy lãnh đạo?",
       "options": [
-        "Vì đó là cách duy nhất để được thăng tiến",
-        "Vì đó là cách gây ấn tượng tốt nhất với khách hàng",
-        "Vì nó định nghĩa tầm vóc và giá trị cá nhân của một người lãnh đạo chân chính",
-        "Vì đó là yêu cầu bắt buộc của mọi mô hình quản trị hiện đại"
+        "Vì đó là cách duy nhất để được thăng tiến lên các vị trí quản lý cấp cao trong hệ thống phân cấp doanh nghiệp.",
+        "Vì đó là cách gây ấn tượng tốt nhất với khách hàng nhằm tăng doanh số bán hàng cho công ty trong dài hạn.",
+        "Vì đó là yêu cầu bắt buộc của mọi mô hình quản trị hiện đại nhằm tối đa hóa hiệu suất làm việc của nhân viên.",
+        "Vì nó định nghĩa tầm vóc và giá trị cá nhân của một người lãnh đạo chân chính trong mọi tình huống công việc."
       ],
-      "correctIndex": 2,
-      "explanation": "Việc nỗ lực thêm không chỉ là trách nhiệm với khách hàng, mà là biểu hiện của tư duy vượt trội, khẳng định sự tự chủ của cá nhân trong mọi tình huống."
+      "correctIndex": 3,
+      "explanation": "Việc nỗ lực thêm không chỉ là trách nhiệm với khách hàng, mà là biểu hiện của tư duy vượt trội, khẳng định sự tự chủ của cá nhân."
     },
     {
       "id": "q9",
-      "question": "Trong bối cảnh bài học, 'định hướng văn hóa làm việc' thuộc về ai?",
+      "question": "Trong bối cảnh bài học, trách nhiệm 'định hướng văn hóa làm việc' thuộc về ai trong tổ chức?",
       "options": [
-        "Chỉ thuộc về đội ngũ quản lý cấp cao",
-        "Thuộc về bất kỳ cá nhân nào trong công ty",
-        "Thuộc về bộ phận nhân sự",
-        "Thuộc về người có thâm niên cao nhất"
+        "Thuộc về bất kỳ cá nhân nào trong công ty, không phân biệt vị trí hay thâm niên làm việc của người đó.",
+        "Chỉ thuộc về đội ngũ quản lý cấp cao vì họ là những người nắm giữ quyền lực quyết định văn hóa công ty.",
+        "Thuộc về bộ phận nhân sự vì đây là đơn vị chịu trách nhiệm chính trong việc xây dựng và duy trì văn hóa.",
+        "Thuộc về người có thâm niên cao nhất vì họ là những người hiểu rõ nhất về lịch sử và giá trị của công ty."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả khẳng định mỗi nhân viên cần thực hiện phần việc của mình để định hướng văn hóa, nghĩa là lãnh đạo không chức danh là trách nhiệm của toàn bộ tổ chức."
+      "correctIndex": 0,
+      "explanation": "Tác giả khẳng định mỗi nhân viên cần thực hiện phần việc của mình để định hướng văn hóa, nghĩa là lãnh đạo là trách nhiệm toàn tổ chức."
     },
     {
       "id": "q10",
-      "question": "Một người có tư duy lãnh đạo sẽ xử lý sai lầm trong công việc như thế nào?",
+      "question": "Một người có tư duy lãnh đạo sẽ xử lý sai lầm trong công việc như thế nào theo quan điểm tác giả?",
       "options": [
-        "Tìm cách che đậy để tránh ảnh hưởng đến uy tín cá nhân",
-        "Xem đó là rủi ro không thể tránh khỏi và chờ cấp trên xử lý",
-        "Nhận trách nhiệm và tìm cách biến sự thay đổi/thất bại thành cơ hội cải thiện",
-        "Đổ lỗi cho điều kiện khách quan để bảo vệ lòng tự trọng"
+        "Tìm cách che đậy để tránh ảnh hưởng đến uy tín cá nhân và sự đánh giá của cấp trên đối với năng lực mình.",
+        "Nhận trách nhiệm và tìm cách biến sự thay đổi hoặc thất bại thành cơ hội cải thiện chất lượng công việc.",
+        "Xem đó là rủi ro không thể tránh khỏi và chờ đợi cấp trên xử lý thay vì tự mình tìm cách khắc phục hậu quả.",
+        "Đổ lỗi cho điều kiện khách quan để bảo vệ lòng tự trọng và duy trì sự tự tin trong các dự án tiếp theo."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Tư duy lãnh đạo đòi hỏi người đó phải chủ động nhận trách nhiệm và luôn tìm hướng cải thiện, thay vì tìm cách thoái thác hay đổ lỗi."
     },
     {
       "id": "q11",
-      "question": "Việc phân biệt 'mọi người đều có thể lãnh đạo' nhưng 'không phải ai cũng giống nhau' giúp ích gì cho tư duy phát triển bản thân?",
+      "question": "Việc phân biệt 'ai cũng có thể lãnh đạo' nhưng 'không phải ai cũng giống nhau' giúp ích gì cho phát triển bản thân?",
       "options": [
-        "Giúp cá nhân chấp nhận sự khác biệt về vai trò và tập trung vào việc xuất sắc ở vị trí hiện tại",
-        "Giúp cá nhân an phận với vai trò của mình",
-        "Khuyến khích mọi người cố gắng trở thành nhà quản lý cấp cao",
-        "Loại bỏ áp lực cạnh tranh trong tổ chức"
+        "Giúp cá nhân an phận với vai trò của mình và không cần phải nỗ lực để thay đổi hay phát triển thêm nữa.",
+        "Khuyến khích mọi người cố gắng trở thành nhà quản lý cấp cao thay vì hài lòng với công việc chuyên môn hiện.",
+        "Giúp cá nhân chấp nhận sự khác biệt về vai trò và tập trung vào việc xuất sắc ở vị trí hiện tại của mình.",
+        "Loại bỏ áp lực cạnh tranh trong tổ chức bằng cách khẳng định rằng mỗi người đều có một vị trí quan trọng."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanation": "Sự thông tuệ nằm ở chỗ biết rõ mình là ai và đóng góp gì, thay vì mù quáng cạnh tranh vị trí không phù hợp với năng lực cốt lõi."
     },
     {
       "id": "q12",
       "question": "Đâu là thái độ của một 'nhà lãnh đạo' đối với khách hàng theo quan điểm của tác giả?",
       "options": [
-        "Chỉ làm đúng những gì được quy định trong hợp đồng để tối ưu chi phí",
-        "Luôn tìm cách làm hài lòng khách hàng bằng cách nỗ lực thêm một chút",
-        "Để khách hàng tự phản ánh và giải quyết vấn đề",
-        "Tập trung vào doanh thu trước khi nghĩ đến trải nghiệm khách hàng"
+        "Chỉ làm đúng những gì được quy định trong hợp đồng để tối ưu chi phí và đảm bảo lợi nhuận cho công ty mình.",
+        "Để khách hàng tự phản ánh và giải quyết vấn đề nhằm rèn luyện tính tự lập cho khách hàng trong quá trình.",
+        "Tập trung vào doanh thu trước khi nghĩ đến trải nghiệm khách hàng để đảm bảo sự tồn tại của doanh nghiệp.",
+        "Luôn tìm cách làm hài lòng khách hàng bằng cách nỗ lực thêm một chút để mang lại giá trị vượt mong đợi."
       ],
-      "correctIndex": 1,
-      "explanation": "Tư duy lãnh đạo đi đôi với sự tận tâm. Việc nỗ lực thêm một chút với khách hàng là minh chứng cho việc lấy kết quả và giá trị làm trung tâm."
+      "correctIndex": 3,
+      "explanation": "Tư duy lãnh đạo đi đôi với sự tận tâm. Việc nỗ lực thêm một chút với khách hàng là minh chứng cho việc lấy giá trị làm trung tâm."
     },
     {
       "id": "q13",
-      "question": "Tác giả cho rằng các công ty giỏi nhất có ưu tiên hàng đầu là gì?",
+      "question": "Tác giả cho rằng các công ty giỏi nhất trên hành tinh có ưu tiên hàng đầu là gì?",
       "options": [
-        "Tối ưu hóa công nghệ",
-        "Phát triển năng lực lãnh đạo khắp công ty một cách nhanh chóng",
-        "Cắt giảm nhân sự không cần thiết",
-        "Tăng cường ngân sách marketing"
+        "Phát triển năng lực lãnh đạo khắp công ty một cách nhanh chóng để tạo ra lợi thế cạnh tranh bền vững.",
+        "Tối ưu hóa công nghệ và quy trình vận hành để giảm thiểu sai sót trong quá trình sản xuất sản phẩm mới.",
+        "Cắt giảm nhân sự không cần thiết để tinh gọn bộ máy và tăng cường hiệu quả làm việc của các nhân viên.",
+        "Tăng cường ngân sách marketing để mở rộng thị phần và thu hút thêm nhiều khách hàng tiềm năng mới hơn."
       ],
-      "correctIndex": 1,
-      "explanation": "Nội dung chương khẳng định các công ty hàng đầu không đợi đến khi có chức danh mới lãnh đạo, họ thúc đẩy văn hóa lãnh đạo ở mọi cấp độ."
+      "correctIndex": 0,
+      "explanation": "Nội dung chương khẳng định các công ty hàng đầu không đợi đến khi có chức danh mới lãnh đạo, họ thúc đẩy văn hóa lãnh đạo ở mọi cấp."
     },
     {
       "id": "q14",
-      "question": "Lãnh đạo 'không chức danh' đòi hỏi sự kết hợp giữa hai yếu tố nào?",
+      "question": "Lãnh đạo 'không chức danh' đòi hỏi sự kết hợp hài hòa giữa hai yếu tố nào sau đây?",
       "options": [
-        "Quyền lực và sự kiểm soát",
-        "Sự chủ động cá nhân và việc chấp nhận vai trò cụ thể",
-        "Kỹ năng chuyên môn và kỹ năng thuyết phục",
-        "Tầm nhìn chiến lược và khả năng thực thi"
+        "Quyền lực và sự kiểm soát chặt chẽ đối với các thành viên trong nhóm để đảm bảo mục tiêu được thực hiện.",
+        "Sự chủ động cá nhân trong công việc và việc chấp nhận vai trò cụ thể để tránh gây ra sự hỗn loạn.",
+        "Kỹ năng chuyên môn sâu rộng và kỹ năng thuyết phục người khác để đạt được sự đồng thuận trong công việc.",
+        "Tầm nhìn chiến lược dài hạn và khả năng thực thi các nhiệm vụ nhỏ lẻ để đạt được kết quả cuối cùng."
       ],
       "correctIndex": 1,
-      "explanation": "Đó là sự cân bằng: chủ động về mặt tư duy và hành động (lãnh đạo) nhưng vẫn tôn trọng vai trò và vị trí của mình (tránh hỗn loạn)."
+      "explanation": "Đó là sự cân bằng: chủ động về mặt tư duy và hành động nhưng vẫn tôn trọng vai trò và vị trí của mình để tránh hỗn loạn."
     },
     {
       "id": "q15",
-      "question": "Thông điệp chính mà tác giả muốn nhắn gửi qua cụm từ 'Đừng ngủ dài' trong tư duy lãnh đạo là gì?",
+      "question": "Thông điệp chính mà tác giả muốn nhắn gửi qua tư duy lãnh đạo là gì?",
       "options": [
-        "Cần làm việc nhiều giờ hơn mỗi ngày",
-        "Cần thức tỉnh, nhận thức rõ vai trò và chủ động đóng góp giá trị ngay lập tức",
-        "Cần học cách quản lý thời gian để có năng suất cao",
-        "Cần theo đuổi những mục tiêu xa vời thay vì thực tế"
+        "Cần làm việc nhiều giờ hơn mỗi ngày để chứng minh sự tận tụy và trách nhiệm đối với sự phát triển công ty.",
+        "Cần học cách quản lý thời gian để có năng suất cao hơn và đạt được nhiều thành tựu hơn trong sự nghiệp.",
+        "Cần thức tỉnh, nhận thức rõ vai trò và chủ động đóng góp giá trị ngay lập tức trong mọi công việc.",
+        "Cần theo đuổi những mục tiêu xa vời thay vì thực tế để tạo ra sự khác biệt lớn lao cho tổ chức của mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả kêu gọi sự thức tỉnh về năng lực cá nhân. Mọi người cần bỏ qua trạng thái thụ động để thực sự sống và làm việc với tâm thế của một người dẫn dắt chính cuộc đời và công việc của mình."
+      "correctIndex": 2,
+      "explanation": "Tác giả kêu gọi sự thức tỉnh về năng lực cá nhân, bỏ qua trạng thái thụ động để làm việc với tâm thế của người dẫn dắt cuộc đời."
     }
   ]
 }

@@ -8,181 +8,181 @@
       "id": "q1",
       "question": "Theo quan điểm của tác giả, sự khác biệt cốt lõi giữa 'tài năng' và 'thiên tài' là gì?",
       "options": [
-        "Tài năng thực thi tốt kỹ thuật, còn thiên tài sáng tạo ra kỹ thuật mới",
-        "Tài năng làm tốt việc được giao, còn thiên tài phá bỏ các rào cản đạo đức",
-        "Tài năng chiếm lĩnh mục tiêu hiện hữu, còn thiên tài nhìn thấy tiềm năng chưa ai thấy",
-        "Tài năng cần sự công nhận, còn thiên tài làm việc độc lập hoàn toàn"
+        "Tài năng giải quyết các mục tiêu hiện hữu, còn thiên tài nhìn thấy những tiềm năng mà người khác chưa từng nhận ra.",
+        "Tài năng là khả năng thực thi kỹ thuật điêu luyện, còn thiên tài là người phá bỏ mọi rào cản đạo đức trong xã hội.",
+        "Tài năng cần sự công nhận từ đám đông để phát triển, còn thiên tài là người làm việc độc lập và không cần kết nối.",
+        "Tài năng tập trung vào việc tối ưu hóa quy trình cũ, còn thiên tài là người tạo ra những thay đổi mang tính đột phá."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả trích dẫn Schopenhauer để nhấn mạnh vào 'tầm nhìn'. Tài năng thường giải quyết những bài toán đã biết, trong khi thiên tài định nghĩa những bài toán mà người khác thậm chí chưa ý thức được sự tồn tại của nó."
+      "correctIndex": 0,
+      "explanation": "Tác giả trích dẫn Schopenhauer để nhấn mạnh rằng thiên tài định nghĩa những bài toán mà người khác chưa thấy sự tồn tại."
     },
     {
       "id": "q2",
-      "question": "Vì sao J.K. Rowling lại cho rằng việc 'không có giấy bút' trên tàu lại là một điều may mắn?",
+      "question": "Vì sao J.K. Rowling cho rằng việc 'không có giấy bút' trên tàu lại là một điều may mắn cho tư duy sáng tạo?",
       "options": [
-        "Bởi vì nó giúp bà tập trung quan sát hành khách xung quanh để lấy tư liệu",
-        "Bởi vì nó ép bộ não phải tự lọc bỏ những chi tiết vụn vặt và tập trung vào luồng ý tưởng chính",
-        "Bởi vì bà không bị xao nhãng bởi nhu cầu chỉnh sửa ngôn từ ngay khi ý tưởng vừa xuất hiện",
-        "Bởi vì nó tạo ra sự khan hiếm làm tăng giá trị của ý tưởng sau này"
+        "Việc thiếu công cụ ghi chép giúp bà tập trung quan sát hành khách xung quanh để lấy tư liệu thực tế cho cuốn sách mới.",
+        "Việc ghi chép ngay lập tức sẽ làm chậm dòng chảy tư duy, khiến các ý tưởng kỳ diệu bị cản trở bởi các bộ lọc logic.",
+        "Sự khan hiếm công cụ tạo ra áp lực tâm lý, giúp bộ não tự động lọc bỏ các chi tiết vụn vặt và giữ lại ý tưởng lớn.",
+        "Việc không có giấy bút giúp bà rèn luyện trí nhớ siêu phàm, từ đó các ý tưởng được lưu giữ bền vững hơn trong tâm trí."
       ],
-      "correctIndex": 2,
-      "explanation": "Việc hý hoáy ghi chép thường làm chậm dòng chảy tư duy sáng tạo. Đôi khi, việc thiếu công cụ ghi lại buộc tư duy phải thăng hoa và kết nối ý tưởng một cách tinh khiết nhất trước khi bị các bộ lọc logic cản trở."
+      "correctIndex": 1,
+      "explanation": "Việc hý hoáy ghi chép làm chậm tư duy; sự thiếu hụt công cụ cho phép ý tưởng được kết nối tinh khiết trước khi bị logic cản trở."
     },
     {
       "id": "q3",
-      "question": "Tác giả hàm ý điều gì qua câu chuyện các nhà xuất bản từ chối Harry Potter?",
+      "question": "Tác giả hàm ý điều gì qua câu chuyện các nhà xuất bản từ chối bản thảo Harry Potter của J.K. Rowling?",
       "options": [
-        "Ngành xuất bản luôn bảo thủ và thiếu chuyên môn",
-        "Sự thất bại ban đầu là chỉ dấu cho thấy ý tưởng của bạn đang đi trước thời đại",
-        "Người nhìn xa trông rộng không bao giờ cần đến sự thẩm định của chuyên gia",
-        "Thị trường đại chúng thường xuyên sai lầm khi đánh giá tiềm năng sáng tạo"
+        "Ngành xuất bản luôn bảo thủ và thiếu chuyên môn trong việc đánh giá các tác phẩm văn học có tiềm năng thương mại cao.",
+        "Người nhìn xa trông rộng không bao giờ cần đến sự thẩm định của các chuyên gia để khẳng định giá trị của bản thân mình.",
+        "Những ý tưởng thay đổi thế giới thường gây sốc hoặc khó hiểu đối với tư duy thông thường, dẫn đến sự từ chối từ số đông.",
+        "Thị trường đại chúng thường xuyên sai lầm khi đánh giá tiềm năng sáng tạo của những tác giả mới chưa có tên tuổi lớn."
       ],
-      "correctIndex": 1,
-      "explanation": "Đây là bài học về sự kiên định. Những ý tưởng thay đổi thế giới thường gây sốc hoặc khó hiểu đối với tư duy thông thường, dẫn đến sự từ chối của số đông."
+      "correctIndex": 2,
+      "explanation": "Sự từ chối là bài học về sự kiên định; những ý tưởng đột phá thường bị xem là kỳ quặc bởi những người chỉ nhìn thấy hiện tại."
     },
     {
       "id": "q4",
-      "question": "Khi bạn theo đuổi một tầm nhìn khác biệt và bị người xung quanh cho là 'ngu ngốc', thái độ nào của một người lãnh đạo là đúng đắn nhất?",
+      "question": "Khi theo đuổi tầm nhìn khác biệt và bị người xung quanh cho là 'ngu ngốc', thái độ của người lãnh đạo nên là gì?",
       "options": [
-        "Tranh luận quyết liệt để bảo vệ quan điểm của mình",
-        "Lắng nghe, cám ơn họ vì đã quan tâm, sau đó tiếp tục thực hiện lộ trình của mình",
-        "Điều chỉnh kế hoạch để phù hợp với mong đợi của đám đông nhằm giảm bớt xung đột",
-        "Giữ im lặng và làm việc bí mật để tránh bị phán xét"
+        "Tranh luận quyết liệt để bảo vệ quan điểm cá nhân, nhằm chứng minh rằng những người xung quanh đang có cái nhìn sai lệch.",
+        "Điều chỉnh kế hoạch để phù hợp với mong đợi của đám đông nhằm giảm bớt xung đột và tạo sự đồng thuận trong công việc.",
+        "Giữ im lặng và làm việc một cách bí mật để tránh bị phán xét, đồng thời chờ đợi thời cơ để chứng minh kết quả thực tế.",
+        "Lắng nghe và cảm ơn họ vì đã quan tâm, sau đó kiên định thực hiện lộ trình của mình để đến nơi cần đến trong tương lai."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự tự tin nội tại cho phép bạn đón nhận những ý kiến trái chiều mà không để chúng làm chệch hướng, vì bạn hiểu rằng sự hiểu biết của người khác là giới hạn của họ, không phải của bạn."
+      "correctIndex": 3,
+      "explanation": "Sự tự tin nội tại cho phép bạn đón nhận ý kiến trái chiều mà không để chúng làm chệch hướng tầm nhìn của bản thân mình."
     },
     {
       "id": "q5",
       "question": "Trong bối cảnh quản trị doanh nghiệp, bài học từ chương này áp dụng như thế nào khi muốn đổi mới sáng tạo?",
       "options": [
-        "Cần khảo sát ý kiến khách hàng trước khi ra quyết định",
-        "Sẵn sàng đối mặt với sự phản đối từ chính đội ngũ nội bộ vì họ sợ mất vùng an toàn",
-        "Tập trung vào tối ưu hóa quy trình cũ trước khi nghĩ đến tầm nhìn mới",
-        "Thuê các chuyên gia tư vấn để đảm bảo tính an toàn cho dự án"
+        "Lãnh đạo cần sự can đảm để vượt qua sức ỳ của tổ chức, vốn chỉ muốn đi trên con đường mòn quen thuộc và an toàn nhất.",
+        "Cần khảo sát ý kiến khách hàng một cách kỹ lưỡng trước khi đưa ra bất kỳ quyết định thay đổi nào cho sản phẩm mới.",
+        "Sẵn sàng đối mặt với sự phản đối từ chính đội ngũ nội bộ vì họ thường sợ mất đi vùng an toàn và sự ổn định vốn có.",
+        "Tập trung vào việc tối ưu hóa các quy trình cũ một cách hiệu quả trước khi nghĩ đến việc xây dựng một tầm nhìn mới."
       ],
-      "correctIndex": 1,
-      "explanation": "Đổi mới thường bị coi là phi lý hoặc rủi ro. Lãnh đạo cần sự can đảm để vượt qua sức ỳ của tổ chức vốn chỉ muốn đi trên con đường mòn quen thuộc."
+      "correctIndex": 0,
+      "explanation": "Đổi mới thường bị coi là rủi ro; lãnh đạo cần dũng cảm vượt qua sức ỳ của tổ chức để hướng tới những mục tiêu xa hơn."
     },
     {
       "id": "q6",
-      "question": "Lối tư duy 'người nhìn xa trông rộng' thường bị coi là lập dị vì lý do gì?",
+      "question": "Lối tư duy của 'người nhìn xa trông rộng' thường bị coi là lập dị vì lý do chính nào sau đây?",
       "options": [
-        "Họ dành quá nhiều thời gian cho việc tưởng tượng hơn là hành động",
-        "Họ sống trong một trò chơi nội tâm mà người ngoài không thể truy cập được dữ liệu",
-        "Họ có xu hướng tách biệt hoàn toàn với cộng đồng để tránh bị ảnh hưởng",
-        "Họ thường đưa ra những tuyên bố mang tính khiêu khích"
+        "Họ dành quá nhiều thời gian cho việc tưởng tượng viển vông thay vì tập trung vào các hành động thực tế hàng ngày.",
+        "Họ sống trong một trò chơi nội tâm mà người ngoài không thể truy cập được dữ liệu về viễn cảnh tương lai của họ.",
+        "Họ có xu hướng tách biệt hoàn toàn với cộng đồng để tránh bị ảnh hưởng bởi những tư duy tiêu cực của người khác.",
+        "Họ thường đưa ra những tuyên bố mang tính khiêu khích nhằm thu hút sự chú ý của dư luận về dự án của bản thân."
       ],
       "correctIndex": 1,
-      "explanation": "Khoảng cách giữa người nhìn xa và đám đông nằm ở 'dữ liệu'. Người nhìn xa thấy được viễn cảnh tương lai trong tâm trí, còn đám đông chỉ nhìn thấy hiện trạng hiện tại."
+      "explanation": "Khoảng cách giữa người nhìn xa và đám đông nằm ở dữ liệu; họ thấy viễn cảnh tương lai, còn đám đông chỉ thấy hiện trạng."
     },
     {
       "id": "q7",
-      "question": "Tại sao việc 'được người khác tra vấn' lại là dấu hiệu của việc bạn đang đi đúng hướng?",
+      "question": "Tại sao việc 'được người khác tra vấn' lại được xem là dấu hiệu cho thấy bạn đang đi đúng hướng?",
       "options": [
-        "Vì sự tra vấn chứng minh rằng ý tưởng của bạn đã đủ sức gây chú ý",
-        "Vì nếu ai cũng đồng tình, điều đó nghĩa là ý tưởng của bạn quá tầm thường hoặc quá cũ kỹ",
-        "Vì sự tra vấn tạo ra áp lực giúp bạn hoàn thiện tư duy phản biện",
-        "Vì sự tranh cãi giúp thu hút truyền thông miễn phí cho dự án của bạn"
+        "Sự tra vấn chứng minh rằng ý tưởng của bạn đã đủ sức gây chú ý và tạo ra làn sóng tranh luận mạnh mẽ trong xã hội.",
+        "Sự tra vấn tạo ra áp lực cần thiết giúp bạn hoàn thiện tư duy phản biện và củng cố thêm niềm tin vào bản thân mình.",
+        "Nếu ai cũng đồng tình, điều đó nghĩa là ý tưởng của bạn quá tầm thường hoặc đã quá cũ kỹ, không có tính đột phá.",
+        "Sự tranh cãi giúp thu hút truyền thông miễn phí cho dự án, từ đó tạo ra lợi thế cạnh tranh lớn trên thị trường hiện nay."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự đồng thuận dễ dàng thường chỉ xảy ra với những gì hiển nhiên. Một ý tưởng mang tính đột phá buộc phải phá vỡ các chuẩn mực, tất yếu dẫn đến sự hoài nghi từ đám đông."
+      "correctIndex": 2,
+      "explanation": "Sự đồng thuận dễ dàng chỉ xảy ra với những gì hiển nhiên; ý tưởng đột phá buộc phải phá vỡ chuẩn mực, dẫn đến hoài nghi."
     },
     {
       "id": "q8",
       "question": "Theo triết lý của tác giả, 'ảo tưởng đơn độc' của một người có thể trở thành hiện thực khi nào?",
       "options": [
-        "Khi người đó có đủ tài chính để hiện thực hóa nó",
-        "Khi họ đủ kiên trì để biến sự 'đơn độc' thành một làn sóng thay đổi hàng triệu điều thực tại",
-        "Khi họ tìm được đồng minh ủng hộ trước khi bắt đầu",
-        "Khi họ biết cách bán ý tưởng đó cho người khác"
+        "Khi người đó có đủ nguồn lực tài chính vững mạnh để hiện thực hóa nó mà không cần sự hỗ trợ từ bất kỳ ai khác.",
+        "Khi họ tìm được những đồng minh trung thành ủng hộ tầm nhìn của mình ngay từ những bước đi đầu tiên của dự án.",
+        "Khi họ biết cách bán ý tưởng đó cho người khác một cách thuyết phục để nhận được sự đồng thuận từ cộng đồng chung.",
+        "Khi họ đủ kiên trì để biến sự đơn độc đó thành một làn sóng thay đổi mạnh mẽ, biến đổi hàng triệu điều thực tại."
       ],
-      "correctIndex": 1,
-      "explanation": "Câu nói của Maya Angelou nhấn mạnh sức mạnh của niềm tin cá nhân. Khi một cá nhân giữ vững một tầm nhìn, nó không còn là ảo tưởng mà trở thành hạt giống của thực tại mới."
+      "correctIndex": 3,
+      "explanation": "Câu nói của Maya Angelou nhấn mạnh sức mạnh niềm tin; khi giữ vững tầm nhìn, nó không còn là ảo tưởng mà là hạt giống thực tại."
     },
     {
       "id": "q9",
-      "question": "Đâu là bẫy tư duy lớn nhất khi một người cố gắng trở thành 'người nhìn xa trông rộng'?",
+      "question": "Đâu là bẫy tư duy lớn nhất khi một người cố gắng trở thành 'người nhìn xa trông rộng' trong cuộc sống?",
       "options": [
-        "Sợ hãi việc mình thực sự là kẻ điên rồ thay vì là thiên tài",
-        "Để sự chỉ trích của người khác làm giảm đi lòng tin vào tầm nhìn của bản thân",
-        "Quá tập trung vào việc tạo ra sự khác biệt mà quên mất giá trị thực tiễn",
-        "Thất bại trong việc truyền tải tầm nhìn cho người khác"
+        "Để sự chỉ trích của người khác làm giảm đi lòng tin vào tầm nhìn của bản thân, khiến họ từ bỏ mục tiêu ban đầu.",
+        "Sợ hãi việc mình thực sự là kẻ điên rồ thay vì là thiên tài, dẫn đến việc không dám thực hiện các ý tưởng mới.",
+        "Quá tập trung vào việc tạo ra sự khác biệt mà quên mất giá trị thực tiễn cần mang lại cho cộng đồng xung quanh.",
+        "Thất bại trong việc truyền tải tầm nhìn cho người khác, khiến họ trở nên cô độc và không có người đồng hành hỗ trợ."
       ],
-      "correctIndex": 1,
-      "explanation": "Thử thách lớn nhất của người tiên phong là giữ vững niềm tin trước những sóng gió của sự hoài nghi từ xã hội."
+      "correctIndex": 0,
+      "explanation": "Thử thách lớn nhất của người tiên phong là giữ vững niềm tin trước những sóng gió của sự hoài nghi từ xã hội xung quanh."
     },
     {
       "id": "q10",
-      "question": "Khi đối mặt với sự từ chối (như cách các nhà xuất bản từ chối Rowling), phản ứng nào thể hiện tư duy của người lãnh đạo kiệt xuất?",
+      "question": "Khi đối mặt với sự từ chối, phản ứng nào thể hiện tư duy của một người lãnh đạo kiệt xuất?",
       "options": [
-        "Tìm hiểu xem mình đã sai ở đâu trong cách trình bày",
-        "Xem sự từ chối là dữ liệu để đánh giá lại năng lực bản thân",
-        "Kiên định với giá trị cốt lõi của ý tưởng, đồng thời tìm kiếm đối tác có cùng hệ quy chiếu",
-        "Thay đổi hoàn toàn ý tưởng để đáp ứng thị hiếu của bên từ chối"
+        "Tìm hiểu xem mình đã sai ở đâu trong cách trình bày để sửa đổi bản thảo cho phù hợp với yêu cầu của bên từ chối.",
+        "Kiên định với giá trị cốt lõi của ý tưởng, đồng thời tìm kiếm đối tác có cùng hệ quy chiếu để hiện thực hóa tầm nhìn.",
+        "Xem sự từ chối là dữ liệu quan trọng để đánh giá lại năng lực bản thân và điều chỉnh mục tiêu cho phù hợp thực tế.",
+        "Thay đổi hoàn toàn ý tưởng để đáp ứng thị hiếu của bên từ chối nhằm đảm bảo dự án có thể được triển khai sớm nhất."
       ],
-      "correctIndex": 2,
-      "explanation": "Người thành công không đánh đổi tầm nhìn của họ lấy sự chấp thuận của một nhóm người vốn không có cùng khả năng nhìn thấy tiềm năng của dự án."
+      "correctIndex": 1,
+      "explanation": "Người thành công không đánh đổi tầm nhìn lấy sự chấp thuận của nhóm người không có cùng khả năng nhìn thấy tiềm năng dự án."
     },
     {
       "id": "q11",
       "question": "Sự khác biệt giữa 'điên khùng' và 'người nhìn xa trông rộng' chủ yếu nằm ở đâu?",
       "options": [
-        "Ở kết quả cuối cùng",
-        "Ở việc có người ủng hộ hay không",
-        "Ở mức độ hiểu biết về thế giới",
-        "Ở cách họ diễn đạt ý tưởng cho người khác hiểu"
+        "Sự khác biệt nằm ở việc có người ủng hộ hay không, vì người nhìn xa luôn có cộng đồng lớn đứng sau lưng hỗ trợ.",
+        "Sự khác biệt nằm ở mức độ hiểu biết về thế giới, vì người nhìn xa có kiến thức sâu rộng hơn người điên khùng.",
+        "Sự khác biệt nằm ở kết quả cuối cùng, khi ý tưởng được thổi sức sống và trở thành hiện thực thay đổi thế giới.",
+        "Sự khác biệt nằm ở cách họ diễn đạt ý tưởng cho người khác hiểu, giúp họ tránh được những hiểu lầm không đáng có."
       ],
-      "correctIndex": 0,
-      "explanation": "Ranh giới rất mong manh. Người nhìn xa trông rộng là người điên khùng đã thành công trong việc thổi sức sống vào ý tưởng của mình."
+      "correctIndex": 2,
+      "explanation": "Ranh giới rất mong manh; người nhìn xa trông rộng là người điên khùng đã thành công trong việc hiện thực hóa ý tưởng của mình."
     },
     {
       "id": "q12",
       "question": "Câu nói 'đến nơi cần đến' trong đoạn văn ám chỉ điều gì?",
       "options": [
-        "Một địa điểm vật lý hoặc một vị thế xã hội cụ thể",
-        "Việc thực hiện được sứ mệnh cá nhân và hiện thực hóa tiềm năng cao nhất",
-        "Sự thành công về tài chính",
-        "Sự nghỉ ngơi sau quá trình làm việc cật lực"
+        "Một địa điểm vật lý hoặc một vị thế xã hội cụ thể mà người đó đã đặt ra mục tiêu để đạt được trong sự nghiệp.",
+        "Sự thành công về mặt tài chính và danh vọng mà bất kỳ ai cũng mong muốn đạt được sau quá trình làm việc chăm chỉ.",
+        "Sự nghỉ ngơi sau quá trình làm việc cật lực để đạt được những mục tiêu lớn lao mà mình đã đề ra từ lúc ban đầu.",
+        "Việc thực hiện được sứ mệnh cá nhân và hiện thực hóa tiềm năng cao nhất của bản thân trong suốt cuộc đời mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Trong tư duy phát triển bản thân, 'đến nơi cần đến' không phải là một đích đến cụ thể, mà là sự hoàn thiện quá trình chuyển hóa bản thân từ tiềm năng thành thực tại."
+      "correctIndex": 3,
+      "explanation": "Trong tư duy phát triển bản thân, 'đến nơi cần đến' là sự hoàn thiện quá trình chuyển hóa từ tiềm năng thành thực tại."
     },
     {
       "id": "q13",
       "question": "Tại sao việc 'được người khác gọi là lập dị' lại có thể là một lợi thế cạnh tranh?",
       "options": [
-        "Vì nó giúp bạn nổi bật trong đám đông",
-        "Vì nó là bằng chứng cho thấy bạn đang làm những việc mà số đông không đủ dũng cảm hoặc không đủ tư duy để làm",
-        "Vì nó cho phép bạn làm việc mà không bị quấy rầy",
-        "Vì nó thu hút sự chú ý của báo chí"
+        "Vì đó là bằng chứng cho thấy bạn đang làm những việc mà số đông không đủ dũng cảm hoặc không đủ tư duy để thực hiện.",
+        "Vì nó giúp bạn nổi bật trong đám đông, từ đó thu hút được sự chú ý của nhiều người hơn trong các hoạt động xã hội.",
+        "Vì nó cho phép bạn làm việc mà không bị quấy rầy bởi những người xung quanh, giúp tăng hiệu suất công việc cá nhân.",
+        "Vì nó thu hút sự chú ý của báo chí và truyền thông, giúp bạn quảng bá thương hiệu cá nhân một cách hiệu quả nhất."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi xã hội gắn nhãn bạn là 'lập dị', điều đó thường có nghĩa là bạn đã thoát khỏi những khuôn mẫu tư duy đang cầm tù số đông."
+      "correctIndex": 0,
+      "explanation": "Khi xã hội gắn nhãn bạn là lập dị, điều đó thường có nghĩa là bạn đã thoát khỏi những khuôn mẫu tư duy đang cầm tù số đông."
     },
     {
       "id": "q14",
       "question": "Nếu áp dụng tư duy của tác giả vào việc rèn luyện sự tập trung, bạn nên làm gì?",
       "options": [
-        "Loại bỏ tất cả các ý kiến trái chiều để làm việc cho hiệu quả",
-        "Xây dựng một bộ lọc để bảo vệ ý tưởng cá nhân khỏi sự tấn công của những tư duy cũ kỹ",
-        "Dành nhiều thời gian hơn để đọc những gì mọi người đang nói về mình",
-        "Tạo ra một danh sách các việc cần làm dựa trên ý kiến của bạn bè và đồng nghiệp"
+        "Loại bỏ tất cả các ý kiến trái chiều để làm việc cho hiệu quả, tránh bị xao nhãng bởi những tranh luận không cần thiết.",
+        "Xây dựng một bộ lọc để bảo vệ ý tưởng cá nhân khỏi sự tấn công của những tư duy cũ kỹ và năng lượng tiêu cực.",
+        "Dành nhiều thời gian hơn để đọc những gì mọi người đang nói về mình nhằm điều chỉnh hành vi cho phù hợp với xã hội.",
+        "Tạo ra một danh sách các việc cần làm dựa trên ý kiến của bạn bè và đồng nghiệp để đảm bảo tính khả thi của dự án."
       ],
       "correctIndex": 1,
-      "explanation": "Bảo vệ tầm nhìn không có nghĩa là mù quáng, mà là biết cách sàng lọc thông tin để tránh bị năng lượng tiêu cực từ đám đông bào mòn quyết tâm."
+      "explanation": "Bảo vệ tầm nhìn không có nghĩa là mù quáng, mà là biết cách sàng lọc thông tin để tránh bị năng lượng tiêu cực bào mòn."
     },
     {
       "id": "q15",
       "question": "Đâu là cốt lõi của nghệ thuật lãnh đạo theo bài học về J.K. Rowling?",
       "options": [
-        "Khả năng thuyết phục đám đông ủng hộ mình ngay từ đầu",
-        "Khả năng nhìn thấy tiềm năng của tương lai trong khi người khác chỉ thấy hiện tại đầy rẫy sự từ chối",
-        "Khả năng quản trị nguồn lực để giảm thiểu rủi ro",
-        "Khả năng thích nghi nhanh chóng với các xu hướng xã hội"
+        "Khả năng thuyết phục đám đông ủng hộ mình ngay từ đầu để tạo ra sự đồng thuận tuyệt đối trong mọi quyết định lớn.",
+        "Khả năng quản trị nguồn lực để giảm thiểu rủi ro trong quá trình triển khai các dự án mang tính đột phá cao nhất.",
+        "Khả năng nhìn thấy tiềm năng của tương lai trong khi người khác chỉ thấy hiện tại đầy rẫy sự từ chối và hoài nghi.",
+        "Khả năng thích nghi nhanh chóng với các xu hướng xã hội để đảm bảo sản phẩm luôn phù hợp với thị hiếu của khách hàng."
       ],
-      "correctIndex": 1,
-      "explanation": "Lãnh đạo thực sự là người kiến tạo tương lai. Để làm được điều này, bạn phải có khả năng nhìn thấu những điều chưa tồn tại và bền bỉ theo đuổi nó dù bị từ chối."
+      "correctIndex": 2,
+      "explanation": "Lãnh đạo thực sự là người kiến tạo tương lai; bạn phải có khả năng nhìn thấu những điều chưa tồn tại và bền bỉ theo đuổi."
     }
   ]
 }

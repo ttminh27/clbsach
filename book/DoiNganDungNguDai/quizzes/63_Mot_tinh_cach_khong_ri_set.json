@@ -8,118 +8,118 @@
       "id": "q1",
       "question": "Theo tác giả, mối quan hệ giữa thế giới nội tâm và ngoại vi được phản chiếu như thế nào trong sự nghiệp của một nhà lãnh đạo?",
       "options": [
-        "Thành tựu bên ngoài là kết quả của chiến lược quản lý con người",
-        "Thế giới nội tâm quyết định chất lượng của những phản ứng và quyết định bên ngoài",
-        "Sự thay đổi hoàn cảnh ngoại vi là tiền đề để thay đổi tư duy nội tâm",
-        "Thế giới nội tâm không ảnh hưởng đến kết quả công việc nếu có đủ kỷ luật"
+        "Thế giới nội tâm quyết định chất lượng của những phản ứng và quyết định bên ngoài, vì cuộc đời là tấm gương phản chiếu.",
+        "Thành tựu bên ngoài là kết quả của chiến lược quản lý con người hiệu quả, không phụ thuộc vào trạng thái tinh thần.",
+        "Sự thay đổi hoàn cảnh ngoại vi là tiền đề bắt buộc để thay đổi tư duy nội tâm của một nhà lãnh đạo trong công việc.",
+        "Thế giới nội tâm không ảnh hưởng đến kết quả công việc nếu nhà lãnh đạo có đủ kỷ luật và kỹ năng quản trị chuyên sâu."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả nhấn mạnh cuộc đời là chiếc gương phản chiếu con người bên trong. Nếu nội tâm không vững vàng, dù phương pháp có tốt đến đâu, lãnh đạo vẫn thất bại vì thiếu sự nhất quán."
+      "correctIndex": 0,
+      "explanation": "Tác giả khẳng định cuộc đời là chiếc gương phản chiếu con người bên trong; chất lượng thế giới nội tâm luôn tạo nên thế giới ngoại vi."
     },
     {
       "id": "q2",
       "question": "Trong bối cảnh quản trị bản thân, khái niệm 'Một tính cách không rỉ sét' ám chỉ điều gì?",
       "options": [
-        "Khả năng thích nghi nhanh chóng với mọi biến động thị trường",
-        "Sự vững vàng trước nghịch cảnh và tính nhất quán với lý tưởng đạo đức",
-        "Khả năng loại bỏ hoàn toàn cảm xúc cá nhân trong công việc",
-        "Sự bền bỉ trong việc thực thi các mục tiêu ngắn hạn bằng mọi giá"
+        "Khả năng thích nghi nhanh chóng với mọi biến động thị trường bằng cách thay đổi nguyên tắc sống để đạt mục tiêu.",
+        "Sự vững vàng trước nghịch cảnh và tính nhất quán với lý tưởng đạo đức không bị bào mòn bởi thời gian và áp lực.",
+        "Khả năng loại bỏ hoàn toàn cảm xúc cá nhân trong công việc để duy trì sự lạnh lùng và tính khách quan tuyệt đối.",
+        "Sự bền bỉ trong việc thực thi các mục tiêu ngắn hạn bằng mọi giá bất chấp các rào cản về đạo đức và giá trị sống."
       ],
       "correctIndex": 1,
-      "explanation": "Tính không rỉ sét không phải là máy móc hay sự lạnh lùng, mà là lòng chính trực và mục đích cao quý không bị bào mòn bởi thời gian và áp lực."
+      "explanation": "Tính không rỉ sét tượng trưng cho sự chính trực và mục đích cao quý, không bị suy giảm bởi những khó khăn hay cám dỗ bên ngoài."
     },
     {
       "id": "q3",
       "question": "Tại sao tác giả cho rằng 'nghệ thuật lãnh đạo' tuy đơn giản nhưng không dễ dàng?",
       "options": [
-        "Vì sự lãnh đạo đòi hỏi kiến thức chuyên môn sâu rộng và khó đạt được",
-        "Vì ranh giới giữa cái đúng và cái dễ dàng thường xuyên xung đột trong tâm trí",
-        "Vì con người luôn sợ hãi sự thay đổi từ bên ngoài",
-        "Vì xã hội hiện đại không tôn trọng những người có nguyên tắc đạo đức"
+        "Vì sự lãnh đạo đòi hỏi kiến thức chuyên môn sâu rộng và kỹ năng quản lý con người phức tạp mà ít người có thể đạt.",
+        "Vì con người luôn sợ hãi sự thay đổi từ bên ngoài nên việc lãnh đạo trở nên khó khăn hơn trong môi trường hiện đại.",
+        "Vì ranh giới giữa cái đúng và cái dễ dàng thường xuyên xung đột trong tâm trí, đòi hỏi sự đấu tranh không ngừng nghỉ.",
+        "Vì xã hội hiện đại không tôn trọng những người có nguyên tắc đạo đức, khiến việc lãnh đạo trở nên đơn độc và gian nan."
       ],
-      "correctIndex": 1,
-      "explanation": "Lãnh đạo thực sự là quá trình lựa chọn điều đúng thay vì điều dễ dàng. Đây là cuộc chiến nội tâm không bao giờ kết thúc."
+      "correctIndex": 2,
+      "explanation": "Lãnh đạo thực sự là quá trình lựa chọn điều đúng thay vì điều dễ dàng, đây là cuộc chiến nội tâm đòi hỏi sự kiên định cao độ."
     },
     {
       "id": "q4",
       "question": "Sự khác biệt căn bản giữa tư duy của một nhà lãnh đạo vĩ đại và một cá nhân thông thường trước một nghịch cảnh đạo đức là gì?",
       "options": [
-        "Người vĩ đại sẽ tìm cách tối ưu hóa lợi nhuận trong mọi tình huống",
-        "Người vĩ đại coi trọng kỷ luật hơn là nỗi đau của sự hối tiếc dài hạn",
-        "Người vĩ đại luôn làm theo số đông để tránh rủi ro",
-        "Người vĩ đại tin rằng mục đích sẽ biện minh cho phương tiện"
+        "Người vĩ đại sẽ tìm cách tối ưu hóa lợi nhuận trong mọi tình huống để đảm bảo sự phát triển bền vững cho tổ chức mình.",
+        "Người vĩ đại luôn làm theo số đông để tránh rủi ro và duy trì sự ổn định cần thiết cho sự nghiệp của chính bản thân.",
+        "Người vĩ đại tin rằng mục đích sẽ biện minh cho phương tiện, miễn là kết quả cuối cùng mang lại lợi ích cho tập thể.",
+        "Người vĩ đại coi trọng kỷ luật hơn là nỗi đau của sự hối tiếc dài hạn, sẵn sàng chịu đựng khó khăn để làm điều đúng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Đặc điểm của người vĩ đại là khả năng chịu đựng kỷ luật ngay tại thời điểm khó khăn để tránh cái giá đắt hơn của sự hối tiếc sau này."
     },
     {
       "id": "q5",
       "question": "Ý tưởng 'Cái giá của kỷ luật rẻ hơn nỗi đau của sự hối tiếc' nên được hiểu như thế nào trong phát triển sự nghiệp?",
       "options": [
-        "Thực hiện những việc khó sớm để không phải trả giá cho sự trì trệ trong tương lai",
-        "Tiết kiệm thời gian bằng cách bỏ qua các bước chuẩn bị không quan trọng",
-        "Chỉ làm những việc đem lại lợi ích kinh tế ngay lập tức",
-        "Chấp nhận nỗi đau hiện tại để có được sự công nhận từ xã hội"
+        "Thực hiện những việc khó sớm để không phải trả giá cho sự trì trệ và những cơ hội đã mất trong tương lai dài hạn.",
+        "Tiết kiệm thời gian bằng cách bỏ qua các bước chuẩn bị không quan trọng để tập trung vào kết quả kinh tế ngay lập tức.",
+        "Chỉ làm những việc đem lại lợi ích kinh tế ngay lập tức để đảm bảo sự an toàn tài chính cho bản thân và gia đình.",
+        "Chấp nhận nỗi đau hiện tại để có được sự công nhận từ xã hội và đạt được danh vọng trong thời gian ngắn nhất có thể."
       ],
       "correctIndex": 0,
-      "explanation": "Đây là tư duy đầu tư vào tương lai. Nỗi đau của sự hối tiếc về những gì đã bỏ lỡ thường nặng nề và kéo dài hơn nỗi đau của sự kỷ luật tức thời."
+      "explanation": "Đây là tư duy đầu tư vào tương lai; nỗi đau của sự hối tiếc về những gì đã bỏ lỡ thường nặng nề hơn nỗi đau của sự kỷ luật."
     },
     {
       "id": "q6",
       "question": "Khi tác giả nói 'Cuộc đời như một chiếc gương', ông muốn nhắn nhủ điều gì về sự thay đổi?",
       "options": [
-        "Hãy thay đổi ngoại hình để thay đổi vận mệnh",
-        "Muốn thay đổi thế giới bên ngoài, hãy bắt đầu bằng việc thay đổi bản chất nội tâm",
-        "Hãy tập trung quan sát cuộc đời để hiểu được bản thân mình",
-        "Sự thay đổi là điều không thể tránh khỏi nên hãy cứ thuận theo tự nhiên"
+        "Hãy thay đổi ngoại hình và phong cách giao tiếp để thay đổi vận mệnh và thu hút những cơ hội tốt đẹp hơn trong đời.",
+        "Muốn thay đổi thế giới bên ngoài, hãy bắt đầu bằng việc thay đổi bản chất nội tâm và những giá trị sống cốt lõi.",
+        "Hãy tập trung quan sát cuộc đời để hiểu được bản thân mình và từ đó điều chỉnh hành vi cho phù hợp với hoàn cảnh.",
+        "Sự thay đổi là điều không thể tránh khỏi nên hãy cứ thuận theo tự nhiên và chấp nhận mọi kết quả mà cuộc đời mang lại."
       ],
       "correctIndex": 1,
-      "explanation": "Cốt lõi của phát triển bản thân là làm việc với phần 'gốc' bên trong, từ đó 'ngọn' bên ngoài mới thay đổi theo."
+      "explanation": "Cốt lõi của phát triển bản thân là làm việc với phần gốc bên trong, từ đó những kết quả bên ngoài mới thay đổi theo."
     },
     {
       "id": "q7",
       "question": "Điều gì ngăn cản một cá nhân duy trì 'tính cách không rỉ sét' trong môi trường công sở áp lực cao?",
       "options": [
-        "Thiếu sự hỗ trợ từ đồng nghiệp và cấp trên",
-        "Sự cám dỗ làm điều dễ dàng thay vì làm điều đúng đắn",
-        "Thiếu kỹ năng chuyên môn kỹ thuật",
-        "Sự thay đổi quá nhanh của công nghệ"
+        "Thiếu sự hỗ trợ từ đồng nghiệp và cấp trên khiến cá nhân cảm thấy đơn độc và dễ dàng từ bỏ các nguyên tắc đạo đức.",
+        "Thiếu kỹ năng chuyên môn kỹ thuật khiến cá nhân không thể hoàn thành công việc theo đúng tiêu chuẩn đã được đề ra.",
+        "Sự cám dỗ làm điều dễ dàng thay vì làm điều đúng đắn để đạt được kết quả nhanh chóng trong môi trường cạnh tranh.",
+        "Sự thay đổi quá nhanh của công nghệ khiến con người mất phương hướng và không còn thời gian để rèn luyện tính cách."
       ],
-      "correctIndex": 1,
-      "explanation": "Áp lực thường đẩy con người vào lối làm việc 'cắt xén giai đoạn' hoặc thỏa hiệp đạo đức để đạt mục tiêu nhanh, đó là kẻ thù của một tính cách cao quý."
+      "correctIndex": 2,
+      "explanation": "Áp lực thường đẩy con người vào lối làm việc cắt xén giai đoạn hoặc thỏa hiệp đạo đức, đó là kẻ thù của tính cách cao quý."
     },
     {
       "id": "q8",
       "question": "Tại sao việc 'mơ những ước mơ tinh khôi' lại là nền tảng của hành động?",
       "options": [
-        "Vì mơ ước tinh khôi sẽ thu hút may mắn tự nhiên",
-        "Vì giá trị bên trong định hướng cho hành động bên ngoài",
-        "Vì những người mơ ước lớn thường được người khác nể trọng",
-        "Vì chỉ có ước mơ lớn mới giúp vượt qua nỗi sợ thất bại"
+        "Vì mơ ước tinh khôi sẽ thu hút may mắn tự nhiên và giúp con người đạt được thành công mà không cần nỗ lực quá nhiều.",
+        "Vì những người mơ ước lớn thường được người khác nể trọng và dễ dàng nhận được sự giúp đỡ trong quá trình làm việc.",
+        "Vì chỉ có ước mơ lớn mới giúp vượt qua nỗi sợ thất bại và tạo ra động lực để làm việc chăm chỉ hơn mỗi ngày.",
+        "Vì giá trị bên trong định hướng cho hành động bên ngoài, giúp con người kiên định với những điều tốt đẹp nhất."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi tư tưởng đã định hình sự tử tế và đạo đức, hành động sẽ trở thành phản xạ tự nhiên của những giá trị đó."
+      "correctIndex": 3,
+      "explanation": "Khi tư tưởng đã định hình sự tử tế và đạo đức, hành động sẽ trở thành phản xạ tự nhiên của những giá trị cao đẹp đó."
     },
     {
       "id": "q9",
       "question": "Nghịch lý nào về sự xuất sắc được nhắc đến trong văn bản?",
       "options": [
-        "Sự xuất sắc chỉ đạt được khi không có áp lực",
-        "Sự xuất sắc đòi hỏi sự đánh đổi giữa những điều đúng đắn và những điều dễ dàng",
-        "Sự xuất sắc là mục đích cuối cùng nên không cần quá chú trọng quá trình",
-        "Sự xuất sắc chỉ dành cho một nhóm thiểu số ưu tú"
+        "Sự xuất sắc đòi hỏi sự đánh đổi giữa những điều đúng đắn và những điều dễ dàng, không bao giờ là con đường bằng phẳng.",
+        "Sự xuất sắc chỉ đạt được khi không có áp lực, giúp con người phát huy tối đa khả năng sáng tạo và tư duy đột phá.",
+        "Sự xuất sắc là mục đích cuối cùng nên không cần quá chú trọng quá trình, miễn là đạt được kết quả như mong muốn.",
+        "Sự xuất sắc chỉ dành cho một nhóm thiểu số ưu tú, những người có năng khiếu bẩm sinh và điều kiện thuận lợi nhất."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự xuất sắc luôn đi kèm với đấu tranh, nó không bao giờ là kết quả của sự lựa chọn dễ dàng."
+      "correctIndex": 0,
+      "explanation": "Sự xuất sắc luôn đi kèm với đấu tranh, nó không bao giờ là kết quả của sự lựa chọn dễ dàng hay sự an nhàn."
     },
     {
       "id": "q10",
       "question": "Trong bối cảnh tư duy lãnh đạo, tại sao những điều hiển nhiên thường bị lãng quên?",
       "options": [
-        "Vì con người thích những thứ phức tạp thay vì đơn giản",
-        "Vì sự kỷ luật đòi hỏi nỗ lực mà con người thường muốn tránh né",
-        "Vì sự thật thường bị che giấu bởi những lý thuyết quản trị phức tạp",
-        "Vì bộ não con người không được lập trình để hiểu những điều đơn giản"
+        "Vì con người thích những thứ phức tạp thay vì đơn giản, tin rằng những giải pháp khó khăn mới mang lại kết quả cao.",
+        "Vì sự kỷ luật đòi hỏi nỗ lực mà con người thường muốn tránh né, dẫn đến việc phớt lờ những chân lý đơn giản nhất.",
+        "Vì sự thật thường bị che giấu bởi những lý thuyết quản trị phức tạp khiến con người khó lòng nhận ra chân lý sống.",
+        "Vì bộ não con người không được lập trình để hiểu những điều đơn giản, luôn tìm kiếm sự rắc rối trong mọi vấn đề."
       ],
       "correctIndex": 1,
       "explanation": "Con người có xu hướng né tránh nỗi đau của sự kỷ luật, dẫn đến việc phớt lờ những chân lý đơn giản nhưng hiệu quả."
@@ -128,61 +128,61 @@
       "id": "q11",
       "question": "Tại sao tác giả cho rằng kết quả ngoạn mục chỉ đến từ những hành động cao đẹp?",
       "options": [
-        "Vì đó là quy luật nhân quả không thể tách rời của tư duy và hành động",
-        "Vì chỉ những hành động cao đẹp mới được xã hội công nhận",
-        "Vì may mắn thường ưu ái những người có đạo đức",
-        "Vì hành động cao đẹp đòi hỏi ít năng lượng hơn hành động xấu"
+        "Vì chỉ những hành động cao đẹp mới được xã hội công nhận và giúp cá nhân thăng tiến nhanh chóng trong sự nghiệp.",
+        "Vì may mắn thường ưu ái những người có đạo đức, giúp họ vượt qua mọi khó khăn một cách dễ dàng và thuận lợi.",
+        "Vì đó là quy luật nhân quả không thể tách rời của tư duy và hành động, tạo ra sức mạnh nội tại dẫn đến kết quả.",
+        "Vì hành động cao đẹp đòi hỏi ít năng lượng hơn hành động xấu, giúp con người duy trì sự tập trung trong thời gian."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự nhất quán giữa tư tưởng và hành động tạo ra sức mạnh nội tại, dẫn đến kết quả bền vững và chất lượng."
+      "correctIndex": 2,
+      "explanation": "Sự nhất quán giữa tư tưởng và hành động tạo ra sức mạnh nội tại, dẫn đến kết quả bền vững và chất lượng cao nhất."
     },
     {
       "id": "q12",
       "question": "Một nhà lãnh đạo muốn 'không rỉ sét' cần tránh bẫy tâm lý nào sau đây?",
       "options": [
-        "Bẫy tập trung quá nhiều vào kỹ năng chuyên môn",
-        "Bẫy tự thỏa mãn với các kết quả ngắn hạn mà bỏ qua giá trị đạo đức",
-        "Bẫy làm việc quá chăm chỉ",
-        "Bẫy tin tưởng vào tiềm năng của cấp dưới"
+        "Bẫy tập trung quá nhiều vào kỹ năng chuyên môn mà quên đi việc phát triển tư duy và tầm nhìn chiến lược cho tổ chức.",
+        "Bẫy làm việc quá chăm chỉ mà không chú trọng đến việc nghỉ ngơi, dẫn đến sự kiệt sức và mất đi sự sáng tạo cần thiết.",
+        "Bẫy tin tưởng vào tiềm năng của cấp dưới quá mức, khiến nhà lãnh đạo mất đi sự kiểm soát cần thiết trong công việc.",
+        "Bẫy tự thỏa mãn với các kết quả ngắn hạn mà bỏ qua giá trị đạo đức, làm suy yếu sự chính trực lâu dài của bản thân."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự thỏa hiệp vì lợi ích ngắn hạn sẽ làm rỉ sét lý tưởng, khiến cá nhân mất đi sự chính trực lâu dài."
+      "correctIndex": 3,
+      "explanation": "Sự thỏa hiệp vì lợi ích ngắn hạn sẽ làm rỉ sét lý tưởng, khiến cá nhân mất đi sự chính trực và giá trị cốt lõi lâu dài."
     },
     {
       "id": "q13",
       "question": "Lựa chọn giữa 'đúng' và 'dễ' phản ánh điều gì về nghệ thuật lãnh đạo?",
       "options": [
-        "Lãnh đạo là khả năng truyền cảm hứng cho người khác chọn cái dễ",
-        "Lãnh đạo là khả năng chịu đựng sức ép từ việc chọn cái đúng",
-        "Lãnh đạo là nghệ thuật làm mọi thứ trở nên dễ dàng hơn",
-        "Lãnh đạo không bao giờ phải chọn lựa vì đã có quy tắc"
+        "Lãnh đạo là khả năng chịu đựng sức ép từ việc chọn cái đúng, thay vì chọn sự an toàn và dễ dàng trong mọi tình huống.",
+        "Lãnh đạo là khả năng truyền cảm hứng cho người khác chọn cái dễ, giúp họ cảm thấy thoải mái và hạnh phúc khi làm việc.",
+        "Lãnh đạo là nghệ thuật làm mọi thứ trở nên dễ dàng hơn, giúp tổ chức đạt được mục tiêu mà không gặp bất kỳ trở ngại.",
+        "Lãnh đạo không bao giờ phải chọn lựa vì đã có quy tắc và quy trình rõ ràng để hướng dẫn mọi hành động của nhân viên."
       ],
-      "correctIndex": 1,
-      "explanation": "Lãnh đạo đích thực là sự dũng cảm đi con đường đúng dù nó gian nan, thay vì chọn sự an toàn, dễ dàng."
+      "correctIndex": 0,
+      "explanation": "Lãnh đạo đích thực là sự dũng cảm đi con đường đúng dù nó gian nan, thay vì chọn sự an toàn, dễ dàng nhưng thiếu giá trị."
     },
     {
       "id": "q14",
       "question": "Sự cam kết và kỷ luật đóng vai trò gì trong phát triển bản thân theo quan điểm của tác giả?",
       "options": [
-        "Là những công cụ để kiểm soát người khác",
-        "Là chi phí cần thiết để ngăn ngừa nỗi đau của sự hối tiếc",
-        "Là những rào cản ngăn cản sự sáng tạo tự nhiên",
-        "Là thước đo duy nhất để đánh giá sự thành công"
+        "Là những công cụ để kiểm soát người khác, đảm bảo mọi người tuân thủ các quy định của tổ chức một cách nghiêm túc.",
+        "Là chi phí cần thiết để ngăn ngừa nỗi đau của sự hối tiếc, giúp con người đạt được những mục tiêu cao quý trong đời.",
+        "Là những rào cản ngăn cản sự sáng tạo tự nhiên, khiến con người trở nên cứng nhắc và mất đi sự linh hoạt cần thiết.",
+        "Là thước đo duy nhất để đánh giá sự thành công của một cá nhân trong môi trường làm việc đầy cạnh tranh và áp lực."
       ],
       "correctIndex": 1,
-      "explanation": "Kỷ luật được xem là một khoản đầu tư để tránh hậu quả tiêu cực của sự hối tiếc trong tương lai."
+      "explanation": "Kỷ luật được xem là một khoản đầu tư để tránh hậu quả tiêu cực của sự hối tiếc về những gì đã bỏ lỡ trong tương lai."
     },
     {
       "id": "q15",
       "question": "Cách hiểu đúng nhất về sự phát triển của cuộc sống cá nhân là gì?",
       "options": [
-        "Cuộc sống sẽ phát triển khi ngoại cảnh thuận lợi",
-        "Cuộc sống cá nhân phát triển tỷ lệ thuận với sự mở rộng của nội tâm",
-        "Cuộc sống phát triển nhờ vào sự học hỏi kỹ năng bên ngoài",
-        "Cuộc sống chỉ phát triển khi có đủ nguồn lực tài chính"
+        "Cuộc sống sẽ phát triển khi ngoại cảnh thuận lợi, giúp con người dễ dàng đạt được những mục tiêu mà mình đã đề ra.",
+        "Cuộc sống phát triển nhờ vào sự học hỏi kỹ năng bên ngoài, giúp con người thích nghi tốt hơn với môi trường thay đổi.",
+        "Cuộc sống cá nhân phát triển tỷ lệ thuận với sự mở rộng của nội tâm, vì thế giới bên ngoài phản chiếu thế giới bên trong.",
+        "Cuộc sống chỉ phát triển khi có đủ nguồn lực tài chính, giúp con người có điều kiện để thực hiện những ước mơ lớn."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả khẳng định cuộc đời không bao giờ phát triển vượt quá quy mô của đời sống nội tâm. Đây là giới hạn tự nhiên của mỗi cá nhân."
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định cuộc đời không bao giờ phát triển vượt quá quy mô của đời sống nội tâm, đây là giới hạn tự nhiên của mỗi người."
     }
   ]
 }

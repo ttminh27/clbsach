@@ -6,198 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Câu tục ngữ cổ của Anh 'Ở đâu có ý chí, ở đó có con đường' (Where there's a will, there's a way) đã vô tình tạo ra sự ngộ nhận tai hại nào trong tư duy của số đông?",
+      "question": "Câu tục ngữ 'Ở đâu có ý chí, ở đó có con đường' đã vô tình tạo ra sự ngộ nhận tai hại nào trong tư duy của số đông?",
       "options": [
-        "Người ta tin rằng ý chí là một nguồn lực vô tận luôn túc trực 24/7, 'cần là có, muốn là được', mà bỏ lỡ yếu tố sống còn: thời điểm (thời cơ) sử dụng ý chí trong ngày.",
-        "Người ta cho rằng chỉ những người nghèo khó mới cần có ý chí, còn người giàu có thì không cần.",
-        "Người ta tin rằng có ý chí là có thể vi phạm các quy luật vật lý tự nhiên.",
-        "Người ta cho rằng ý chí chỉ xuất hiện khi con người rơi vào cảnh cận kề cái chết."
+        "Người ta tin rằng ý chí là nguồn lực vô tận, 'cần là có', mà bỏ lỡ yếu tố thời cơ để sử dụng nó vào lúc cao nhất.",
+        "Người ta cho rằng ý chí chỉ là một khái niệm trừu tượng, không có giá trị thực tiễn trong việc đạt được thành công.",
+        "Người ta tin rằng ý chí có thể thay thế hoàn toàn cho các kỹ năng chuyên môn và sự chuẩn bị kỹ lưỡng trong công việc.",
+        "Người ta cho rằng ý chí là một đặc điểm di truyền bẩm sinh, không thể rèn luyện hay cải thiện thông qua quá trình sống."
       ],
       "correctIndex": 0,
-      "explanation": "Câu tục ngữ khiến người ta nhầm tưởng ý chí là nguồn năng lượng vô tận chỉ cần hô hào là có sẵn. Tác giả chỉ ra rằng ý chí có nguồn cung hạn chế và tuổi thọ ngắn ngủi trong ngày. Coi ý chí chỉ là lời kêu gọi nghị lực suông sẽ khiến bạn bỏ lỡ yếu tố thời cơ - chìa khóa thực sự là phải biết sử dụng nó vào đúng lúc nó đang ở mức cao nhất.",
-      "difficulty": "medium"
+      "explanation": "Câu tục ngữ khiến người ta nhầm tưởng ý chí là nguồn năng lượng vô tận. Tác giả chỉ ra rằng ý chí có nguồn cung hạn chế và chìa khóa thực sự là phải biết sử dụng nó vào đúng lúc nó đang ở mức cao nhất trong ngày."
     },
     {
       "id": "q2",
-      "question": "Trong 'Thí nghiệm kẹo dẻo' nổi tiếng của Walter Mischel tại Đại học Stanford, bài học dài hạn mang tính tiên đoán nhất về tương lai của những đứa trẻ là gì?",
+      "question": "Trong 'Thí nghiệm kẹo dẻo' của Walter Mischel, bài học dài hạn mang tính tiên đoán nhất về tương lai của trẻ là gì?",
       "options": [
-        "Trẻ thích ăn ngọt sẽ có chỉ số thông minh cao hơn trẻ thích ăn mặn.",
-        "Khả năng trì hoãn sự thỏa mãn tức thì (delayed gratification) để nhận phần thưởng lớn hơn trong tương lai là chỉ số dự báo mạnh mẽ về thành tích học tập, sự tự trọng và năng lực quản lý căng thẳng ở tuổi trưởng thành.",
-        "Những đứa trẻ ăn kẹo ngay lập tức sau này đều trở thành những nhà đầu tư tài chính mạo hiểm xuất sắc.",
-        "Sự kiên nhẫn của trẻ em 4 tuổi hoàn toàn do môi trường giáo dục mẫu giáo quyết định chứ không liên quan đến cấu trúc não bộ."
+        "Khả năng kiên nhẫn của trẻ em phụ thuộc hoàn toàn vào môi trường giáo dục tại gia đình thay vì cấu trúc não bộ bẩm sinh.",
+        "Khả năng trì hoãn sự thỏa mãn tức thì là chỉ số dự báo mạnh mẽ về thành tích học tập và năng lực quản lý căng thẳng.",
+        "Trẻ em có khả năng trì hoãn ham muốn thường có xu hướng trở thành những người quá thận trọng và thiếu đi sự sáng tạo.",
+        "Việc ăn kẹo ngay lập tức hay chờ đợi không có bất kỳ mối liên hệ nào với các hành vi xã hội của trẻ khi trưởng thành."
       ],
       "correctIndex": 1,
-      "explanation": "Theo dõi các đối tượng suốt hơn 30 năm, Mischel nhận thấy những đứa trẻ biết trì hoãn ham muốn (chờ 15 phút để có 2 chiếc kẹo) sau này có điểm số học tập cao hơn, quản lý căng thẳng tốt hơn. Ngược lại, nhóm thiếu ý chí trì hoãn có tỷ lệ béo phì cao hơn 30% và dễ rơi vào nghiện ngập. Ý chí trì hoãn thỏa mãn là nền tảng của thành công bền vững.",
-      "difficulty": "medium"
+      "explanation": "Mischel nhận thấy những đứa trẻ biết trì hoãn ham muốn sau này có điểm số học tập cao hơn và quản lý căng thẳng tốt hơn. Ý chí trì hoãn thỏa mãn là nền tảng của thành công bền vững trong tương lai."
     },
     {
       "id": "q3",
-      "question": "Hình ảnh ẩn dụ 'cục pin điện thoại di động' được tác giả sử dụng nhằm mô tả đặc tính sinh học căn bản nào của sức mạnh ý chí?",
+      "question": "Hình ảnh ẩn dụ 'cục pin điện thoại' được tác giả sử dụng nhằm mô tả đặc tính sinh học nào của sức mạnh ý chí?",
       "options": [
-        "Ý chí có thể hoạt động liên tục trong nhiều tháng mà không cần tiếp nhiên liệu nếu được cài đặt chế độ tiết kiệm năng lượng.",
-        "Ý chí có thể sạc đầy tức thì chỉ sau 5 phút nghe các bản nhạc truyền cảm hứng mạnh mẽ.",
-        "Ý chí bắt đầu ngày mới với dung lượng đầy nhất, sau đó cạn kiệt dần theo từng quyết định và hành động kiểm soát bản thân trong ngày; nó là nguồn lực hữu hạn có thể tái tạo nhưng cần được quản lý khắt khe.",
-        "Ý chí chỉ bị tiêu hao khi con người tham gia các hoạt động thể thao nặng nhọc ngoài trời."
+        "Ý chí là nguồn năng lượng có thể tự phục hồi ngay lập tức nếu con người có tư duy tích cực về mục tiêu của mình.",
+        "Ý chí hoạt động như một hệ thống lưu trữ dữ liệu, nơi các kinh nghiệm quá khứ giúp tăng cường sức mạnh cho hiện tại.",
+        "Ý chí bắt đầu ngày mới với dung lượng đầy, sau đó cạn kiệt dần theo các quyết định và cần được quản lý khắt khe.",
+        "Ý chí là một nguồn lực không bao giờ cạn kiệt nếu con người biết cách đặt ra những mục tiêu lớn lao và đầy tham vọng."
       ],
       "correctIndex": 2,
-      "explanation": "Gary Keller so sánh ý chí với viên pin điện thoại: buổi sáng thức dậy pin đầy 100%, mỗi quyết định kìm nén cảm xúc, chống lại cám dỗ hay giải quyết vấn đề đều rút bớt một vạch pin. Khi vạch pin báo đỏ vào cuối ngày, bạn không thể ép nó vận hành đỉnh cao được nữa. Việc sử dụng ý chí ở hiện tại đồng nghĩa với việc bạn sẽ có ít ý chí hơn trong tương lai gần.",
-      "difficulty": "easy"
+      "explanation": "Gary Keller so sánh ý chí với viên pin điện thoại: mỗi quyết định kìm nén cảm xúc hay giải quyết vấn đề đều rút bớt năng lượng. Khi vạch pin báo đỏ, bạn không thể ép nó vận hành đỉnh cao được nữa."
     },
     {
       "id": "q4",
-      "question": "Thí nghiệm của Giáo sư Baba Shiv tại Đại học Stanford (yêu cầu sinh viên ghi nhớ số có 2 chữ số so với 7 chữ số thập phân trước khi chọn món ăn nhẹ) đã chứng minh quy luật nhận thức nào?",
+      "question": "Thí nghiệm của Baba Shiv về việc ghi nhớ số đã chứng minh quy luật nhận thức nào về sức mạnh ý chí con người?",
       "options": [
-        "Sinh viên có trí nhớ tốt luôn luôn từ chối ăn đồ ngọt để bảo vệ sức khỏe.",
-        "Ghi nhớ các con số làm tăng nồng độ insulin trong máu khiến cơ thể thèm ăn salad hoa quả hơn.",
-        "Khả năng ghi nhớ số không có bất kỳ mối tương quan nào với vùng não kiểm soát hành vi.",
-        "Ngay cả một chút tải trọng nhận thức nhỏ (ghi nhớ thêm 5 chữ số) cũng đủ để rút cạn ý chí, khiến số sinh viên chọn bánh sô-cô-la tăng gần gấp đôi so với nhóm nhớ 2 chữ số."
+        "Khả năng ghi nhớ các con số không có bất kỳ mối tương quan nào với vùng não kiểm soát hành vi và sự tự chủ cá nhân.",
+        "Việc ghi nhớ nhiều con số giúp não bộ rèn luyện sự tập trung, từ đó làm tăng khả năng kiểm soát các xung động cá nhân.",
+        "Con người luôn có xu hướng chọn thực phẩm lành mạnh bất kể họ đang phải thực hiện các nhiệm vụ nhận thức phức tạp nào.",
+        "Tải trọng nhận thức nhỏ cũng đủ để rút cạn ý chí, khiến con người dễ chọn các hành vi mặc định thay vì lựa chọn tốt."
       ],
       "correctIndex": 3,
-      "explanation": "Nghiên cứu của Baba Shiv cho thấy mức độ mong manh của ý chí: Việc giữ 7 chữ số trong tâm trí tiêu tốn tài nguyên xử lý của thùy trán trước, làm suy giảm năng lực tự chủ (self-regulation). Kết quả là sinh viên không còn đủ ý chí để cưỡng lại sự cám dỗ ngon miệng của bánh sô-cô-la để chọn món salad hoa quả lành mạnh.",
-      "difficulty": "hard"
+      "explanation": "Nghiên cứu cho thấy việc giữ nhiều chữ số trong tâm trí tiêu tốn tài nguyên xử lý của thùy trán trước, làm suy giảm năng lực tự chủ, khiến con người khó cưỡng lại cám dỗ."
     },
     {
       "id": "q5",
-      "question": "Quy tắc sinh học thần kinh 'Vào sau cùng, ra trước tiên' (last in, first out) giải thích như thế nào về sự suy giảm sức mạnh ý chí khi cơ thể thiếu hụt dinh dưỡng?",
+      "question": "Quy tắc 'Vào sau cùng, ra trước tiên' giải thích như thế nào về sự suy giảm ý chí khi thiếu hụt dinh dưỡng?",
       "options": [
-        "Thức ăn vào dạ dày sau cùng sẽ được tiêu hóa trước tiên để cung cấp calo cho hệ thần kinh thực vật.",
-        "Thùy trán trước (trung tâm của ý chí và kiểm soát xung động) là vùng não tiến hóa sau cùng trong lịch sử loài người, nên khi thiếu hụt năng lượng/glucose, nó là bộ phận đầu tiên bị cắt giảm nguồn cung để ưu tiên cho các vùng não sinh tồn nguyên thủy.",
-        "Ký ức mới hình thành sẽ bị xóa trước khi não bộ rơi vào giấc ngủ sâu sau một ngày mệt mỏi.",
-        "Các cơ quan vận động ở chân tay sẽ bị tê liệt trước khi não bộ cảm nhận được cơn đói."
+        "Thùy trán trước là vùng não tiến hóa sau cùng nên khi thiếu hụt năng lượng, nó là bộ phận đầu tiên bị cắt giảm cung.",
+        "Các vùng não điều khiển hơi thở và nhịp tim sẽ ngừng hoạt động trước khi thùy trán trước cảm nhận được sự thiếu hụt.",
+        "Cơ thể ưu tiên cung cấp năng lượng cho thùy trán trước để đảm bảo con người luôn giữ được sự tỉnh táo và sáng suốt.",
+        "Việc thiếu hụt dinh dưỡng không ảnh hưởng đến chức năng của não bộ vì cơ thể luôn có cơ chế dự trữ năng lượng sẵn."
       ],
-      "correctIndex": 1,
-      "explanation": "Não bộ chỉ chiếm 1/50 trọng lượng cơ thể nhưng đốt tới 1/5 lượng calo. Thùy trán trước là vùng trẻ nhất về mặt tiến hóa. Theo nguyên tắc 'last in, first out', khi cơ thể tụt đường huyết, máu và glucose được ưu tiên chuyển cho các vùng não cổ xưa điều hòa hô hấp và nhịp tim; thùy trán trước lập tức bị 'cúp điện' đầu tiên, khiến ý chí và khả năng tập trung tan biến.",
-      "difficulty": "hard"
+      "correctIndex": 0,
+      "explanation": "Thùy trán trước là vùng trẻ nhất về mặt tiến hóa. Khi cơ thể tụt đường huyết, máu được ưu tiên cho các vùng não cổ xưa, khiến thùy trán trước bị 'cúp điện' đầu tiên."
     },
     {
       "id": "q6",
-      "question": "Trong nghiên cứu năm 2007 được công bố trên Journal of Personality and Social Psychology, nhóm đối tượng uống nước chanh có đường thật (sucrose) đã thể hiện sự khác biệt gì so với nhóm uống nước chanh dùng đường nhân tạo (Splenda giả dược)?",
+      "question": "Nghiên cứu về nước chanh có đường thật và giả dược cho thấy điều gì về mối quan hệ giữa đường huyết và ý chí?",
       "options": [
-        "Nhóm uống đường thật bị tăng động và phạm số lỗi gấp đôi nhóm dùng giả dược trong bài test ý chí tiếp theo.",
-        "Hai nhóm đạt kết quả hoàn toàn giống nhau, chứng minh đường huyết không ảnh hưởng đến hoạt động tinh thần.",
-        "Nhóm dùng chất làm ngọt nhân tạo (không có glucose thật) mắc gần gấp đôi số lỗi trong bài tập đòi hỏi ý chí so với nhóm được bổ sung glucose thực thụ.",
-        "Nhóm dùng Splenda có khả năng giải quyết các câu đố logic phức tạp nhanh hơn 50% nhờ không bị buồn ngủ."
+        "Việc sử dụng đường nhân tạo giúp não bộ hoạt động hiệu quả hơn vì không gây ra sự tăng vọt đường huyết đột ngột nào.",
+        "Nhóm dùng giả dược mắc nhiều lỗi hơn vì không được nạp glucose thực thụ để phục hồi cơ bắp tinh thần sau nhiệm vụ.",
+        "Cả hai nhóm đều đạt kết quả tương đương, chứng minh rằng ý chí không phụ thuộc vào nguồn năng lượng từ thực phẩm.",
+        "Nhóm dùng đường thật bị tăng động quá mức, dẫn đến việc giảm khả năng tập trung vào các bài kiểm tra ý chí tiếp theo."
       ],
-      "correctIndex": 2,
-      "explanation": "Ý chí là một cơ bắp tinh thần đốt cháy glucose. Nhóm uống nước chanh ngọt bằng đường thật được nạp nhiên liệu sinh học tức thì cho thùy trán trước, trong khi nhóm dùng Splenda chỉ bị đánh lừa vị giác mà không nhận được calo thật. Kết quả là nhóm giả dược bị cạn kiệt ý chí và phạm số lỗi kiểm soát gần gấp đôi.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Ý chí là một cơ bắp tinh thần đốt cháy glucose. Nhóm uống nước chanh đường thật được nạp nhiên liệu sinh học, trong khi nhóm giả dược bị cạn kiệt ý chí và phạm nhiều lỗi hơn."
     },
     {
       "id": "q7",
-      "question": "Hiện tượng 'phán quyết mặc định' (default decision) trong nghiên cứu về 1.112 phiên điều trần tạm tha của các thẩm phán Israel (Jonathan Levav và cộng sự) đã lột trần sự thật đáng kinh ngạc nào về ý chí?",
+      "question": "Hiện tượng 'phán quyết mặc định' trong nghiên cứu thẩm phán Israel lột trần sự thật nào về sức mạnh ý chí?",
       "options": [
-        "Tỷ lệ tù nhân được ân xá đạt đỉnh 65% vào đầu buổi sáng và ngay sau các giờ nghỉ ăn nhẹ, nhưng giảm dần về 0% vào cuối mỗi buổi làm việc khi các thẩm phán bị kiệt sức nhận thức.",
-        "Các thẩm phán luôn đưa ra phán quyết hoàn toàn dựa trên mức độ nghiêm trọng của hồ sơ phạm tội mà không bị chi phối bởi giờ giấc làm việc.",
-        "Các thẩm phán có xu hướng ân xá nhiều hơn vào cuối ngày vì muốn nhanh chóng kết thúc ca làm việc để về nhà.",
-        "Ân xá chỉ được cấp cho những tù nhân có cùng quan điểm tôn giáo với hội đồng thẩm phán."
+        "Các thẩm phán luôn giữ được sự công tâm tuyệt đối bất kể họ đang ở trong trạng thái đói hay mệt mỏi sau giờ làm việc.",
+        "Tỷ lệ ân xá tăng dần vào cuối ngày vì các thẩm phán muốn nhanh chóng kết thúc công việc để trở về nhà với gia đình.",
+        "Khi năng lượng cạn kiệt, các thẩm phán có xu hướng chọn phương án an toàn nhất thay vì phân tích kỹ lưỡng hồ sơ.",
+        "Quyết định của các thẩm phán hoàn toàn dựa trên các tiêu chuẩn pháp lý cứng nhắc mà không bị ảnh hưởng bởi giờ giấc."
       ],
-      "correctIndex": 0,
-      "explanation": "Nghiên cứu lịch sử tư pháp này cho thấy: Ra quyết định liên tục đòi hỏi ý chí cao độ. Khi năng lượng cạn kiệt trước bữa trưa hoặc cuối ngày, não bộ các thẩm phán tự động kích hoạt 'lựa chọn mặc định' - từ chối ân xá (phương án an toàn nhất cho công chúng, không đòi hỏi phải chịu rủi ro phán đoán). Tỷ lệ được tha tụt từ 65% xuống gần bằng 0% đơn giản vì thẩm phán... đói và mệt!",
-      "difficulty": "hard"
+      "correctIndex": 2,
+      "explanation": "Khi năng lượng cạn kiệt, não bộ kích hoạt 'lựa chọn mặc định' - từ chối ân xá. Tỷ lệ được tha tụt xuống gần bằng 0% vì thẩm phán đã kiệt sức nhận thức."
     },
     {
       "id": "q8",
-      "question": "Một chuyên gia lập trình thường xuyên rơi vào cảnh: Ban ngày giải quyết tranh cãi với đối tác rất hòa nhã, nhưng đến 9 giờ tối về nhà lại dễ nổi cáu vô cớ với gia đình và ăn vô độ đồ ngọt. Cơ chế nào trong Chương 7 giải thích chính xác hiện tượng này?",
+      "question": "Cơ chế nào giải thích việc một người làm việc căng thẳng cả ngày thường dễ nổi cáu và ăn uống vô độ vào buổi tối?",
       "options": [
-        "Chuyên gia này mắc chứng rối loạn nhân cách phân liệt do tiếp xúc quá nhiều với mã nguồn máy tính.",
-        "Thời tiết ban đêm làm giảm nồng độ oxy trong máu dẫn đến sự hung hăng sinh học.",
-        "Gia đình chuyên gia này không tôn trọng sự nghiệp và thiếu sự đồng cảm với công việc lập trình.",
-        "Sự kiệt quệ ý chí (ego depletion): Toàn bộ dung lượng ý chí trong ngày đã bị vắt kiệt để thanh lọc phiền nhiễu và kìm nén cảm xúc nơi công sở, khiến buổi tối hệ thống tự chủ sụp đổ và rơi vào hành vi mặc định tiêu cực."
+        "Sự thay đổi nhiệt độ môi trường vào ban đêm làm giảm khả năng kiểm soát cảm xúc của con người một cách tự nhiên nhất.",
+        "Việc làm việc quá nhiều khiến cơ thể sản sinh ra các hormone gây hưng phấn quá mức, dẫn đến hành vi mất kiểm soát.",
+        "Con người có xu hướng tự thưởng cho bản thân bằng cách ăn uống và giải tỏa cảm xúc sau một ngày làm việc vất vả.",
+        "Sự kiệt quệ ý chí khiến hệ thống tự chủ sụp đổ, dẫn đến việc con người rơi vào các hành vi mặc định tiêu cực."
       ],
       "correctIndex": 3,
-      "explanation": "Ý chí là một bể chứa chung cho mọi hành vi tự chủ. Khi bạn dùng hết pin để kìm nén cảm xúc, ngoại giao khéo léo và giải quyết sự cố ở công ty cả ngày, đến tối 'bình ắc quy ý chí' cạn kiệt. Lúc này, bạn không còn chút năng lượng nào để chống lại cám dỗ đồ ngọt hay kiềm chế cơn giận, dẫn đến hành vi buông thả bản năng.",
-      "difficulty": "medium"
+      "explanation": "Khi bạn dùng hết pin để kìm nén cảm xúc và giải quyết sự cố cả ngày, đến tối 'bình ắc quy ý chí' cạn kiệt, bạn không còn năng lượng để chống lại cám dỗ."
     },
     {
       "id": "q9",
-      "question": "Trong danh sách 'Những hoạt động rút cạn sức mạnh ý chí' được liệt kê trong sách, hoạt động nào sau đây thường bị xem nhẹ nhưng thực chất lại tiêu tốn một lượng năng lượng nhận thức khổng lồ?",
+      "question": "Hoạt động nào sau đây tiêu tốn một lượng năng lượng nhận thức khổng lồ dù thường bị xem nhẹ trong cuộc sống?",
       "options": [
-        "Uống một cốc nước lọc ấm vào buổi sáng sớm trước khi tập thể dục.",
-        "Cố gắng gây ấn tượng với người khác, kìm nén cảm xúc tự nhiên và thanh lọc các yếu tố gây xao nhãng trong môi trường làm việc.",
-        "Ngồi im bất động trên ghế đệm êm ái trong phòng máy lạnh.",
-        "Đọc truyện tranh giải trí nhẹ nhàng vào ngày nghỉ cuối tuần."
+        "Cố gắng gây ấn tượng với người khác, kìm nén cảm xúc tự nhiên và thanh lọc các yếu tố gây xao nhãng trong công việc.",
+        "Việc ngồi im bất động trên ghế đệm êm ái trong phòng máy lạnh để thư giãn sau những giờ làm việc căng thẳng mệt mỏi.",
+        "Đọc các loại truyện tranh giải trí nhẹ nhàng vào ngày nghỉ cuối tuần để phục hồi năng lượng cho tuần làm việc mới.",
+        "Uống một cốc nước lọc ấm vào buổi sáng sớm trước khi bắt đầu thực hiện các bài tập thể dục nhẹ nhàng tại nhà riêng."
       ],
-      "correctIndex": 1,
-      "explanation": "Sách liệt kê cụ thể các kẻ thù giấu mặt của ý chí: Kìm nén cảm xúc, cố gắng thể hiện để gây ấn tượng với người khác, đối phó với nỗi sợ, cưỡng lại cám dỗ và lọc phiền nhiễu. Mỗi hành vi xã giao gượng ép hay nỗ lực 'diễn kịch' trước mặt đồng nghiệp đều là những nhát búa đập vỡ đường ống năng lượng của bạn.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Sách liệt kê các kẻ thù giấu mặt của ý chí: kìm nén cảm xúc, cố gắng thể hiện để gây ấn tượng, đối phó nỗi sợ. Mỗi hành vi gượng ép đều là nhát búa đập vỡ đường ống năng lượng."
     },
     {
       "id": "q10",
-      "question": "Dựa trên quy luật hoạt động của ý chí, đâu là chiến lược quản lý thời gian khôn ngoan nhất để thực thi nguyên lý 'The ONE Thing'?",
+      "question": "Đâu là chiến lược quản lý thời gian khôn ngoan nhất để thực thi nguyên lý 'The ONE Thing' dựa trên quy luật ý chí?",
       "options": [
-        "Hãy làm Điều Quan Trọng Nhất (The ONE Thing) của bạn vào khung giờ sớm nhất trong ngày - khi bình ắc quy ý chí được sạc đầy 100% sau giấc ngủ đêm.",
-        "Hãy dành buổi sáng để xử lý toàn bộ các email vụn vặt và việc hành chính để tâm trí được thảnh thơi làm việc lớn vào cuối giờ chiều.",
-        "Chỉ làm việc quan trọng nhất vào ban đêm từ 23h đến 3h sáng vì lúc đó không gian hoàn toàn yên tĩnh.",
-        "Chia Điều Quan Trọng Nhất thành 10 phần nhỏ và rải đều ra mỗi tiếng làm một ít trong suốt cả ngày lẫn đêm."
+        "Hãy dành buổi sáng để xử lý toàn bộ các email vụn vặt và việc hành chính để tâm trí thảnh thơi làm việc lớn về sau.",
+        "Hãy làm Điều Quan Trọng Nhất vào khung giờ sớm nhất trong ngày khi bình ắc quy ý chí được sạc đầy sau giấc ngủ.",
+        "Chỉ làm việc quan trọng nhất vào ban đêm vì lúc đó không gian yên tĩnh giúp con người tập trung cao độ hơn bình thường.",
+        "Chia Điều Quan Trọng Nhất thành nhiều phần nhỏ và rải đều ra mỗi tiếng làm một ít trong suốt cả ngày lẫn đêm dài."
       ],
-      "correctIndex": 0,
-      "explanation": "Quy tắc vàng của Gary Keller: Thời cơ là yếu tố quyết định. Bạn cần sức mạnh ý chí ở mức sung mãn nhất để chống lại mọi xao nhãng và giải quyết nút thắt khó khăn nhất. Do đó, hãy đặt khối thời gian (time block) cho Điều Ý Nghĩa Nhất vào đầu ngày làm việc, trước khi ý chí bị xói mòn bởi hàng tá sự vụ phát sinh.",
-      "difficulty": "easy"
+      "correctIndex": 1,
+      "explanation": "Bạn cần sức mạnh ý chí ở mức sung mãn nhất để chống lại xao nhãng. Hãy đặt khối thời gian cho Điều Ý Nghĩa Nhất vào đầu ngày, trước khi ý chí bị xói mòn bởi sự vụ."
     },
     {
       "id": "q11",
-      "question": "Một nhà lãnh đạo công ty xếp lịch cuộc họp phê duyệt chiến lược mở rộng thị trường vào lúc 16h30 chiều - sau khi đã trải qua 8 tiếng họp hành giải quyết tranh chấp nội bộ. Quyết định xếp lịch này đối mặt với hiểm họa nào lớn nhất?",
+      "question": "Việc xếp lịch họp chiến lược quan trọng vào cuối ngày làm việc đối mặt với hiểm họa lớn nhất nào về mặt ý chí?",
       "options": [
-        "Nhân viên sẽ đòi thêm phụ cấp ăn tối ngoài giờ theo quy định của bộ luật lao động.",
-        "Các thiết bị trình chiếu máy chiếu có nguy cơ quá nhiệt và chập điện vào cuối ngày.",
-        "Phòng họp sẽ không còn đủ ánh sáng tự nhiên để mọi người đọc rõ các biểu đồ kinh doanh.",
-        "Các thành viên tham gia đều đã kiệt quệ ý chí, não bộ sẽ rơi vào cơ chế phán quyết mặc định: hoặc vội vàng đồng ý cho qua chuyện mà không phản biện, hoặc từ chối mọi ý tưởng mới sáng tạo để bảo toàn sự an toàn nông cạn."
+        "Các thiết bị trình chiếu có nguy cơ quá nhiệt và chập điện vào cuối ngày do phải hoạt động liên tục trong thời gian dài.",
+        "Phòng họp sẽ không còn đủ ánh sáng tự nhiên để mọi người đọc rõ các biểu đồ kinh doanh quan trọng trong cuộc họp.",
+        "Các thành viên đã kiệt quệ ý chí, não bộ sẽ rơi vào cơ chế phán quyết mặc định, dẫn đến các quyết định sai lầm.",
+        "Nhân viên sẽ đòi thêm phụ cấp ăn tối ngoài giờ theo quy định của bộ luật lao động hiện hành tại các doanh nghiệp lớn."
       ],
-      "correctIndex": 3,
-      "explanation": "Giống như nghiên cứu các thẩm phán Israel, vào cuối ngày, sau hàng giờ tranh chấp mệt mỏi, 'máy đo ý chí' của các nhà quản lý đã báo động đỏ. Họ không còn năng lượng nhận thức để phân tích rủi ro hay đào sâu cơ hội. Cuộc họp chiến lược lúc 16h30 sẽ biến thành thảm họa vì các phán quyết lúc này bị chi phối bởi sự kiệt sức chứ không phải bởi sự khôn ngoan.",
-      "difficulty": "hard"
+      "correctIndex": 2,
+      "explanation": "Vào cuối ngày, sau hàng giờ làm việc, 'máy đo ý chí' đã báo động đỏ. Họ không còn năng lượng để phân tích rủi ro, dẫn đến các quyết định bị chi phối bởi sự kiệt sức."
     },
     {
       "id": "q12",
-      "question": "Về mặt dinh dưỡng cho não bộ ('thực phẩm cho tư duy'), loại dưỡng chất nào được các nhà khoa học khuyến nghị là nguồn nhiên liệu tối ưu nhất để duy trì sức bền của ý chí?",
+      "question": "Loại dưỡng chất nào được khuyến nghị là nguồn nhiên liệu tối ưu nhất để duy trì sức bền của ý chí trong ngày?",
       "options": [
-        "Các loại nước tăng lực có hàm lượng đường hóa học và caffeine cực cao giúp kích thích tim đập nhanh.",
-        "Chế độ nhịn ăn tuyệt đối để thanh lọc độc tố khỏi các tế bào thần kinh trước khi đưa ra quyết định.",
-        "Các loại carbohydrate phức tạp và protein giải phóng năng lượng chậm, giúp duy trì nồng độ glucose trong máu ổn định trong thời gian dài.",
-        "Thức ăn nhanh chứa nhiều chất béo bão hòa giúp tích lũy mô mỡ dự trữ quanh vỏ não."
+        "Các loại nước tăng lực có hàm lượng đường hóa học và caffeine cao giúp kích thích tim đập nhanh để tăng sự tỉnh táo.",
+        "Chế độ nhịn ăn tuyệt đối để thanh lọc độc tố khỏi các tế bào thần kinh trước khi đưa ra các quyết định quan trọng.",
+        "Thức ăn nhanh chứa nhiều chất béo bão hòa giúp tích lũy mô mỡ dự trữ quanh vỏ não để cung cấp năng lượng tức thời.",
+        "Các loại carbohydrate phức tạp và protein giải phóng năng lượng chậm, giúp duy trì nồng độ glucose ổn định lâu dài."
       ],
-      "correctIndex": 2,
-      "explanation": "Đường đơn giản trong bánh kẹo tạo ra đỉnh nhọn đường huyết tức thời rồi tụt dốc thảm hại (gây kiệt sức sau đó). Ngược lại, carbohydrate phức hợp (như ngũ cốc nguyên hạt, yến mạch) kết hợp với protein được tiêu hóa từ từ, cung cấp dòng chảy glucose đều đặn cho thùy trán trước, giúp ý chí duy trì sự bền bỉ suốt buổi sáng làm việc.",
-      "difficulty": "medium"
+      "correctIndex": 3,
+      "explanation": "Carbohydrate phức hợp kết hợp với protein được tiêu hóa từ từ, cung cấp dòng chảy glucose đều đặn cho thùy trán trước, giúp ý chí duy trì sự bền bỉ suốt buổi làm việc."
     },
     {
       "id": "q13",
-      "question": "Chi tiết Odysseus trong thần thoại Hy Lạp ra lệnh cho thủy thủ trói chặt mình vào cột buồm và bịt tai bằng sáp ong khi đi qua vùng biển của các nàng tiên chim Siren minh chứng cho nhận thức sâu sắc nào về ý chí?",
+      "question": "Chi tiết Odysseus trói mình vào cột buồm minh chứng cho nhận thức sâu sắc nào về sức mạnh ý chí con người?",
       "options": [
-        "Odysseus là một thủ lĩnh hèn nhát và không tin tưởng vào khả năng chỉ huy của bản thân.",
-        "Odysseus thấu hiểu rằng ý chí con người rất mong manh và chắc chắn sẽ tiêu tan trước cám dỗ chết người; cách tốt nhất là thiết kế môi trường và ràng buộc cơ học từ trước khi đối mặt với cám dỗ.",
-        "Tiếng hát của Siren có tần số sóng âm phá hủy thính giác của con người trong tích tắc.",
-        "Thủy thủ đoàn Hy Lạp thời cổ đại có kỷ luật thép vượt trội hơn cả vị thuyền trưởng của họ."
+        "Odysseus thấu hiểu ý chí rất mong manh, nên cần thiết kế môi trường để loại bỏ khả năng đầu hàng trước cám dỗ.",
+        "Odysseus là một thủ lĩnh hèn nhát và không tin tưởng vào khả năng chỉ huy của bản thân trước các nàng tiên chim.",
+        "Tiếng hát của Siren có tần số sóng âm phá hủy thính giác của con người trong tích tắc nếu không bịt tai bằng sáp.",
+        "Thủy thủ đoàn Hy Lạp thời cổ đại có kỷ luật thép vượt trội hơn hẳn vị thuyền trưởng của họ trong mọi tình huống."
       ],
-      "correctIndex": 1,
-      "explanation": "Patricia Cohen và Gary Keller trích dẫn câu chuyện Odysseus như một bài học kinh điển: Thay vì ảo tưởng rằng 'mình có ý chí sắt đá để đứng vững trước cám dỗ', người thông minh thừa nhận sự yếu đuối của ý chí và chủ động thiết kế một môi trường loại bỏ hoàn toàn khả năng đầu hàng (trói mình vào cột buồm, bịt tai thủy thủ).",
-      "difficulty": "hard"
+      "correctIndex": 0,
+      "explanation": "Thay vì ảo tưởng rằng mình có ý chí sắt đá, người thông minh thừa nhận sự yếu đuối của ý chí và chủ động thiết kế môi trường để loại bỏ khả năng đầu hàng."
     },
     {
       "id": "q14",
-      "question": "Nhiều người rơi vào mặc cảm tự ti, cho rằng bản thân là 'kẻ thất bại, thiếu nghị lực và nhu nhược'. Tác giả Gary Keller đã đồng cảm và giải oan cho họ như thế nào?",
+      "question": "Tác giả Gary Keller đã đồng cảm và giải oan cho những người tự cho mình là 'kẻ thất bại, thiếu nghị lực' như thế nào?",
       "options": [
-        "Khẳng định rằng những người đó sinh ra dưới chòm sao xấu nên không bao giờ có thể thành công.",
-        "Khuyên họ nên từ bỏ mọi tham vọng sự nghiệp và tìm kiếm một cuộc sống an phận thủ thường.",
-        "Chỉ ra rằng họ không hề kém cỏi về phẩm chất cá nhân, mà họ chỉ đang phạm sai lầm mang tính cơ học: coi ý chí là vô hạn và sử dụng nó sai thời điểm, khiến nó cạn kiệt trước khi chạm đến việc quan trọng.",
-        "Cho rằng họ nên uống thuốc kích thích thần kinh để nhân tạo hóa nguồn cung ý chí của bản thân."
+        "Họ nên từ bỏ mọi tham vọng sự nghiệp và tìm kiếm một cuộc sống an phận thủ thường để tránh những áp lực không đáng.",
+        "Họ không kém cỏi, mà chỉ đang phạm sai lầm khi coi ý chí là vô hạn và sử dụng nó sai thời điểm trong ngày.",
+        "Họ sinh ra dưới chòm sao xấu nên không bao giờ có thể thành công dù có nỗ lực rèn luyện ý chí đến mức nào đi nữa.",
+        "Họ nên uống thuốc kích thích thần kinh để nhân tạo hóa nguồn cung ý chí của bản thân nhằm đạt được mục tiêu đề ra."
       ],
-      "correctIndex": 2,
-      "explanation": "Keller chia sẻ chính trải nghiệm cá nhân của mình: Từng tự trách 'Tôi làm sao vậy? Tôi là kẻ thua cuộc? Không có dũng khí?'. Nhưng khi tìm hiểu bản chất khoa học, ông nhận ra ý chí không phải là phẩm chất đạo đức trừu tượng mà là một nguồn tài nguyên sinh học có giới hạn. Khi bạn không bảo vệ và quản lý nó, nó cạn kiệt là lẽ tự nhiên chứ không phải bạn là kẻ hèn kém.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Keller nhận ra ý chí không phải là phẩm chất đạo đức trừu tượng mà là nguồn tài nguyên sinh học có giới hạn. Khi bạn không quản lý nó, nó cạn kiệt là lẽ tự nhiên."
     },
     {
       "id": "q15",
-      "question": "Ba nguyên tắc cốt lõi trong 'Ý tưởng lớn' của Chương 7 để làm chủ sức mạnh ý chí là gì?",
+      "question": "Ba nguyên tắc cốt lõi trong 'Ý tưởng lớn' của chương sách để làm chủ sức mạnh ý chí là gì?",
       "options": [
-        "(1) Đừng phân tán mỏng ý chí; (2) Theo dõi máy đo lượng ý chí (ăn uống và nạp năng lượng hợp lý); (3) Cân đối thời gian - làm việc quan trọng nhất đầu tiên khi ý chí ở mức cao nhất.",
-        "(1) Tập thể dục 5 tiếng mỗi ngày; (2) Tranh luận với mọi người để rèn ý chí; (3) Thức khuya để rèn luyện sự chịu đựng.",
-        "(1) Tuyệt đối không ăn carbohydrate; (2) Không chia sẻ mục tiêu với bất kỳ ai; (3) Luôn đặt ý chí vào các việc vụn vặt trước.",
-        "(1) Dựa hoàn toàn vào động lực cảm xúc; (2) Chờ đợi cảm hứng xuất hiện; (3) Chỉ hành động khi được người khác nhắc nhở."
+        "Tập thể dục năm tiếng mỗi ngày, tranh luận với mọi người để rèn ý chí, và thức khuya để rèn luyện sự chịu đựng.",
+        "Tuyệt đối không ăn carbohydrate, không chia sẻ mục tiêu với bất kỳ ai, và luôn đặt ý chí vào các việc vụn vặt.",
+        "Đừng phân tán ý chí, theo dõi máy đo lượng ý chí bằng dinh dưỡng, và làm việc quan trọng nhất đầu tiên mỗi ngày.",
+        "Dựa hoàn toàn vào động lực cảm xúc, chờ đợi cảm hứng xuất hiện, và chỉ hành động khi được người khác nhắc nhở."
       ],
-      "correctIndex": 0,
-      "explanation": "Chương 7 tổng kết 3 ý tưởng lớn: 1. Đừng phân tán mỏng ý chí (dành nguồn cung hạn chế cho việc quan trọng nhất); 2. Theo dõi máy đo ý chí (bồi bổ não bộ đúng cách với dinh dưỡng và nghỉ ngơi); 3. Cân đối thời gian cho công việc (làm Điều Quan Trọng Nhất trước tiên mỗi ngày để tối đa hóa thành công).",
-      "difficulty": "easy"
+      "correctIndex": 2,
+      "explanation": "Chương 7 tổng kết: 1. Đừng phân tán ý chí; 2. Theo dõi máy đo ý chí (bồi bổ não bộ); 3. Cân đối thời gian (làm Điều Quan Trọng Nhất trước tiên để tối đa hóa thành công)."
     }
   ]
 }

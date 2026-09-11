@@ -8,70 +8,70 @@
       "id": "q1",
       "question": "Theo quan điểm của tác giả, 'sự phát triển' mang lại cảm giác đủ đầy sâu sắc nhất khi nào?",
       "options": [
-        "Khi ta đạt được những kết quả vượt trội so với đồng nghiệp",
-        "Khi ta nhận ra và khai thác tối đa tiềm năng bản thân",
-        "Khi ta đạt được sự thoải mái và an yên trong công việc",
-        "Khi ta được người khác công nhận năng lực lãnh đạo"
+        "Khi cá nhân nhận ra và khai thác tối đa tiềm năng bản thân để trở thành phiên bản tốt nhất của chính mình.",
+        "Khi cá nhân đạt được những kết quả vượt trội so với đồng nghiệp trong cùng một môi trường làm việc cạnh tranh.",
+        "Khi cá nhân đạt được sự thoải mái và an yên trong công việc nhờ vào việc duy trì ổn định các kỹ năng hiện có.",
+        "Khi cá nhân được người khác công nhận năng lực lãnh đạo thông qua các danh hiệu hoặc vị trí cao trong tổ chức."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả khẳng định ta hạnh phúc nhất khi phát triển để đạt tới tiềm năng của mình. Phương án A và D mang tính so sánh ngoại cảnh, trong khi C là bẫy của 'vùng an toàn'."
+      "correctIndex": 0,
+      "explanation": "Tác giả khẳng định ta hạnh phúc nhất khi phát triển để đạt tới tiềm năng của mình. Các phương án khác tập trung vào sự so sánh ngoại cảnh hoặc vùng an toàn, vốn không phải là nguồn gốc của sự đủ đầy nội tại."
     },
     {
       "id": "q2",
       "question": "Tại sao tác giả cho rằng những thử thách, thất bại trong đời cũng chính là những 'người thầy'?",
       "options": [
-        "Vì chúng dạy ta cách đổ lỗi cho hoàn cảnh để bảo vệ cái tôi",
-        "Vì chúng giúp ta tránh né những rủi ro trong tương lai",
-        "Vì chúng uốn nắn nhân cách và thúc đẩy phẩm chất cao nhất trong ta",
-        "Vì chúng là những sự kiện ngẫu nhiên giúp ta nhận ra sự bất định của cuộc sống"
+        "Vì chúng dạy ta cách đổ lỗi cho hoàn cảnh để bảo vệ cái tôi trước những áp lực khắc nghiệt của cuộc sống.",
+        "Vì chúng uốn nắn nhân cách và thúc đẩy những phẩm chất cao nhất trong ta để đạt tới nơi mình ước mong.",
+        "Vì chúng giúp ta tránh né những rủi ro trong tương lai bằng cách tạo ra sự thận trọng quá mức cần thiết.",
+        "Vì chúng là những sự kiện ngẫu nhiên giúp ta nhận ra sự bất định của cuộc sống và buông xuôi theo số phận."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Thất bại không phải ngẫu nhiên mà là chất xúc tác để phát triển phẩm chất. Câu hỏi buộc tư duy phân biệt giữa nạn nhân và người làm chủ nghịch cảnh."
     },
     {
       "id": "q3",
       "question": "Trong bối cảnh quản trị bản thân, tại sao tác giả nhấn mạnh 'đừng chỉ sống, mà hãy dẫn dắt cuộc đời'?",
       "options": [
-        "Sống là để hưởng thụ, còn dẫn dắt là để làm việc",
-        "Sống là bị động theo hoàn cảnh, dẫn dắt là chủ động kiến tạo giá trị qua phát triển",
-        "Dẫn dắt cuộc đời đòi hỏi chức danh cao cấp trong tổ chức",
-        "Sống là theo bản năng, còn dẫn dắt là theo ý muốn của người khác"
+        "Sống là để hưởng thụ những thành quả hiện tại, còn dẫn dắt là để làm việc cật lực vì mục tiêu của tổ chức.",
+        "Dẫn dắt cuộc đời đòi hỏi phải có chức danh cao cấp trong tổ chức để có quyền lực điều hành người khác làm việc.",
+        "Sống là bị động theo hoàn cảnh, còn dẫn dắt là chủ động kiến tạo giá trị thông qua sự phát triển không ngừng.",
+        "Sống là hành động theo bản năng tự nhiên, còn dẫn dắt là thực hiện theo ý muốn của người khác để được an toàn."
       ],
-      "correctIndex": 1,
-      "explanation": "Đây là tư duy của 'lãnh đạo không chức danh'. Sự khác biệt nằm ở tính chủ động và việc coi sự phát triển là kim chỉ nam."
+      "correctIndex": 2,
+      "explanation": "Đây là tư duy của 'lãnh đạo không chức danh'. Sự khác biệt nằm ở tính chủ động và việc coi sự phát triển là kim chỉ nam cho mọi hành động."
     },
     {
       "id": "q4",
       "question": "Một người đang gặp áp lực lớn từ dự án mới cảm thấy hoang mang. Dựa trên triết lý của chương này, người đó nên thay đổi nhận thức như thế nào?",
       "options": [
-        "Tìm cách từ bỏ dự án để duy trì trạng thái ổn định tâm lý",
-        "Xem áp lực là dấu hiệu của sự phát triển đang diễn ra",
-        "Đổ lỗi cho điều kiện thiếu thốn tài nguyên để giảm bớt căng thẳng",
-        "Cố gắng làm nhanh để sớm thoát khỏi tình trạng khó chịu"
+        "Tìm cách từ bỏ dự án ngay lập tức để duy trì trạng thái ổn định tâm lý và tránh những rủi ro không đáng có.",
+        "Đổ lỗi cho điều kiện thiếu thốn tài nguyên để giảm bớt căng thẳng và tìm sự đồng cảm từ những người xung quanh.",
+        "Cố gắng làm việc thật nhanh để sớm thoát khỏi tình trạng khó chịu và trở về với trạng thái làm việc bình thường.",
+        "Xem áp lực là dấu hiệu rõ ràng của sự phát triển đang diễn ra và là cơ hội để rèn luyện bản lĩnh cá nhân."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả khẳng định phát triển thường 'không hề dễ chịu'. Việc đón nhận áp lực là tư duy của người mạnh mẽ."
+      "correctIndex": 3,
+      "explanation": "Tác giả khẳng định phát triển thường 'không hề dễ chịu'. Việc đón nhận áp lực là tư duy của người mạnh mẽ, coi đó là dấu hiệu của sự tiến bộ."
     },
     {
       "id": "q5",
       "question": "Câu nói 'Phát triển là bằng chứng duy nhất của sự sống' của John Henry Newman hàm ý gì trong phát triển bản thân?",
       "options": [
-        "Nếu không có sự phát triển liên tục, sự tồn tại về mặt tư duy là vô nghĩa",
-        "Sinh học là yếu tố quan trọng nhất để định nghĩa sự sống",
-        "Con người chỉ cần sống là đủ, không cần đặt nặng mục tiêu",
-        "Sự sống chỉ tồn tại khi con người đạt được thành công vật chất"
+        "Nếu không có sự phát triển liên tục về tư duy và tinh thần thì sự tồn tại cơ học của con người là vô nghĩa.",
+        "Sinh học là yếu tố quan trọng nhất để định nghĩa sự sống, vì vậy con người chỉ cần duy trì sức khỏe là đủ.",
+        "Con người chỉ cần sống là đủ, không cần đặt nặng mục tiêu phát triển vì đó là áp lực không cần thiết cho đời.",
+        "Sự sống chỉ thực sự tồn tại khi con người đạt được thành công vật chất và địa vị cao trong xã hội hiện đại."
       ],
       "correctIndex": 0,
-      "explanation": "Triết lý ở đây nhấn mạnh sự tiến hóa về tư duy và tinh thần thay vì chỉ là tồn tại cơ học."
+      "explanation": "Triết lý ở đây nhấn mạnh sự tiến hóa về tư duy và tinh thần thay vì chỉ là tồn tại cơ học. Phát triển là thước đo của sự sống."
     },
     {
       "id": "q6",
-      "question": "Tại sao phần lớn sự phát triển lại mang cảm giác 'không hề dễ chịu'?",
+      "question": "Tại sao phần lớn sự phát triển lại mang cảm giác 'không hề dễ chịu' đối với con người?",
       "options": [
-        "Vì nó đòi hỏi sự hy sinh về mặt thời gian và sức khỏe",
-        "Vì nó buộc ta phải phá vỡ những giới hạn của bản thân và từ bỏ thói quen cũ",
-        "Vì nó thường đi kèm với sự chỉ trích từ môi trường xung quanh",
-        "Vì nó là một quá trình tốn kém về tài chính"
+        "Vì nó đòi hỏi sự hy sinh quá lớn về mặt thời gian và sức khỏe khiến con người cảm thấy kiệt quệ trong quá trình.",
+        "Vì nó buộc ta phải phá vỡ những giới hạn của bản thân và từ bỏ những thói quen cũ đã ăn sâu vào tiềm thức.",
+        "Vì nó thường đi kèm với sự chỉ trích từ môi trường xung quanh khi ta cố gắng thay đổi để trở nên khác biệt.",
+        "Vì nó là một quá trình tốn kém về tài chính và đòi hỏi sự đầu tư liên tục vào các khóa học đắt đỏ bên ngoài."
       ],
       "correctIndex": 1,
       "explanation": "Sự phát triển đòi hỏi thay đổi, và thay đổi luôn tạo ra phản kháng tâm lý. Đây là nghịch lý giữa sự phát triển và cảm giác an toàn."
@@ -80,109 +80,109 @@
       "id": "q7",
       "question": "Khi nhớ về một người thầy giỏi, chúng ta thường biết ơn họ vì điều gì nhất?",
       "options": [
-        "Vì họ cho ta những lời khen ngợi",
-        "Vì họ thúc đẩy sự phát triển tiềm năng trong chính chúng ta",
-        "Vì họ luôn tạo cho ta một môi trường thoải mái",
-        "Vì họ cho ta những đặc quyền trong công việc"
+        "Vì họ luôn dành cho ta những lời khen ngợi ngọt ngào giúp ta cảm thấy tự tin hơn trong công việc hàng ngày.",
+        "Vì họ luôn tạo cho ta một môi trường làm việc thoải mái, không áp lực và không đòi hỏi sự thay đổi quá lớn.",
+        "Vì họ đã thúc đẩy sự phát triển tiềm năng trong chính chúng ta bằng cách đẩy ta vượt ra khỏi giới hạn an toàn.",
+        "Vì họ cho ta những đặc quyền trong công việc giúp ta dễ dàng đạt được thành công mà không cần nỗ lực nhiều."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự biết ơn xuất phát từ việc họ đã đẩy ta vượt ra khỏi giới hạn, không phải từ sự dễ chịu mà họ mang lại."
+      "correctIndex": 2,
+      "explanation": "Sự biết ơn xuất phát từ việc họ đã đẩy ta vượt ra khỏi giới hạn, không phải từ sự dễ chịu mà họ mang lại trong quá trình học tập."
     },
     {
       "id": "q8",
       "question": "Lối tư duy nào dưới đây đi ngược lại với tinh thần 'thèm khát sự phát triển' của Robin Sharma?",
       "options": [
-        "Liên tục phản hồi và học hỏi sau mỗi sai lầm",
-        "Tìm kiếm những thách thức để rèn luyện bản lĩnh",
-        "Hài lòng với những kỹ năng hiện có vì đã đủ dùng",
-        "Dành thời gian mỗi ngày để mở rộng tầm nhìn"
+        "Liên tục phản hồi và học hỏi sau mỗi sai lầm để rút ra bài học kinh nghiệm cho những dự án quan trọng sau này.",
+        "Tìm kiếm những thách thức mới để rèn luyện bản lĩnh và mở rộng khả năng thích nghi với những thay đổi bất ngờ.",
+        "Dành thời gian mỗi ngày để mở rộng tầm nhìn thông qua việc đọc sách và học hỏi từ những người tài giỏi xung quanh.",
+        "Hài lòng với những kỹ năng hiện có vì cho rằng chúng đã đủ dùng cho công việc và cuộc sống hiện tại của mình."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự tự mãn là cái bẫy lớn nhất của phát triển. Việc hài lòng với kỹ năng hiện có chính là khởi đầu của sự thụt lùi."
+      "correctIndex": 3,
+      "explanation": "Sự tự mãn là cái bẫy lớn nhất của phát triển. Việc hài lòng với kỹ năng hiện có chính là khởi đầu của sự thụt lùi trong sự nghiệp."
     },
     {
       "id": "q9",
       "question": "Trong công việc, làm thế nào để áp dụng quan điểm 'tôn vinh thử thách' của tác giả?",
       "options": [
-        "Coi thử thách là bằng chứng cho thấy năng lực bị đánh giá thấp",
-        "Coi thử thách là cơ hội để nâng cấp bản thân thay vì là rào cản",
-        "Tìm cách né tránh các thử thách lớn để tránh rủi ro sai sót",
-        "Giao phó thử thách cho người khác để duy trì sự thoải mái"
+        "Coi thử thách là cơ hội quý giá để nâng cấp bản thân thay vì nhìn nhận nó như là một rào cản gây khó dễ.",
+        "Coi thử thách là bằng chứng cho thấy năng lực của mình đang bị đánh giá thấp bởi cấp trên trong tổ chức hiện tại.",
+        "Tìm cách né tránh các thử thách lớn để tránh rủi ro sai sót và duy trì sự ổn định trong kết quả công việc.",
+        "Giao phó các thử thách khó khăn cho người khác để duy trì sự thoải mái và tránh những căng thẳng không cần thiết."
       ],
-      "correctIndex": 1,
-      "explanation": "Chuyển đổi góc nhìn từ 'trở ngại' sang 'cơ hội phát triển' là cốt lõi của tư duy tăng trưởng."
+      "correctIndex": 0,
+      "explanation": "Chuyển đổi góc nhìn từ 'trở ngại' sang 'cơ hội phát triển' là cốt lõi của tư duy tăng trưởng mà tác giả muốn truyền tải."
     },
     {
       "id": "q10",
       "question": "Sự liên kết giữa 'hạnh phúc' và 'phát triển' trong bài viết được hiểu như thế nào?",
       "options": [
-        "Hạnh phúc là phần thưởng sau khi phát triển",
-        "Hạnh phúc không liên quan đến sự phát triển, chúng tồn tại độc lập",
-        "Phát triển chính là bản chất của sự hạnh phúc",
-        "Phát triển là cách để mua sự hạnh phúc"
+        "Hạnh phúc là phần thưởng sau khi phát triển thành công, còn trong quá trình phát triển thì không có hạnh phúc.",
+        "Phát triển chính là bản chất của sự hạnh phúc vì nó giúp ta nhận ra và hiện thực hóa tiềm năng của mình.",
+        "Hạnh phúc không liên quan đến sự phát triển, chúng tồn tại độc lập và không ảnh hưởng gì đến nhau trong đời.",
+        "Phát triển là cách để mua sự hạnh phúc thông qua việc tích lũy tài sản và địa vị xã hội cao hơn mỗi ngày."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả chỉ rõ: ta hạnh phúc nhất khi nhận ra tiềm năng của mình thông qua phát triển."
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ rõ: ta hạnh phúc nhất khi nhận ra tiềm năng của mình thông qua phát triển. Phát triển không phải là công cụ, mà là bản chất."
     },
     {
       "id": "q11",
       "question": "Điều gì là rào cản lớn nhất khiến con người sợ hãi sự phát triển, theo logic bài viết?",
       "options": [
-        "Thiếu tài liệu hướng dẫn",
-        "Thiếu sự ủng hộ của gia đình",
-        "Sự không dễ chịu khi phải vượt ngưỡng",
-        "Thiếu thời gian trong ngày"
+        "Thiếu tài liệu hướng dẫn cụ thể khiến con người cảm thấy lạc lõng trong quá trình tự học và rèn luyện bản thân.",
+        "Thiếu sự ủng hộ của gia đình và bạn bè khiến con người cảm thấy đơn độc khi muốn thay đổi thói quen cũ.",
+        "Sự không dễ chịu khi phải vượt ngưỡng an toàn và đối mặt với những thay đổi không lường trước được trong đời.",
+        "Thiếu thời gian trong ngày để thực hiện các kế hoạch phát triển cá nhân do công việc quá bận rộn và áp lực."
       ],
       "correctIndex": 2,
-      "explanation": "Nỗi sợ sự không dễ chịu là rào cản tâm lý khiến con người từ chối cơ hội phát triển."
+      "explanation": "Nỗi sợ sự không dễ chịu là rào cản tâm lý khiến con người từ chối cơ hội phát triển, dù họ biết đó là điều cần thiết."
     },
     {
       "id": "q12",
       "question": "Tại sao tác giả coi sự phát triển là 'chìa khóa' để khiến chúng ta là 'con người thật'?",
       "options": [
-        "Vì phát triển giúp ta xây dựng hình ảnh hoàn hảo trước công chúng",
-        "Vì con người thật là kết quả của việc liên tục rèn giũa để đạt đến tiềm năng",
-        "Vì phát triển giúp ta che giấu những khuyết điểm cá nhân",
-        "Vì chỉ khi thành công ta mới là chính mình"
+        "Vì phát triển giúp ta xây dựng hình ảnh hoàn hảo trước công chúng để được mọi người ngưỡng mộ và tôn trọng hơn.",
+        "Vì phát triển giúp ta che giấu những khuyết điểm cá nhân và trở nên tự tin hơn trong các mối quan hệ xã hội.",
+        "Vì chỉ khi thành công về mặt sự nghiệp thì ta mới thực sự là chính mình và được xã hội công nhận giá trị.",
+        "Vì con người thật là kết quả của việc liên tục rèn giũa để đạt đến tiềm năng vốn có ẩn sâu bên trong ta."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự phát triển không phải là xây dựng một cái tôi giả tạo, mà là hiện thực hóa những khả năng vốn có tiềm ẩn bên trong."
+      "correctIndex": 3,
+      "explanation": "Sự phát triển không phải là xây dựng một cái tôi giả tạo, mà là hiện thực hóa những khả năng vốn có tiềm ẩn bên trong mỗi người."
     },
     {
       "id": "q13",
       "question": "Một nhà lãnh đạo giỏi thúc đẩy sự phát triển của nhân viên bằng cách nào theo triết lý này?",
       "options": [
-        "Tạo ra môi trường làm việc không có bất kỳ rủi ro hay áp lực nào",
-        "Thúc đẩy nhân viên đối mặt và học hỏi từ những thử thách khó khăn",
-        "Trao quyền dựa trên kết quả đạt được, không quan tâm quá trình",
-        "Chỉ giao những việc mà họ đã biết làm rất tốt"
+        "Thúc đẩy nhân viên đối mặt và học hỏi từ những thử thách khó khăn để họ tự khám phá năng lực của bản thân.",
+        "Tạo ra môi trường làm việc không có bất kỳ rủi ro hay áp lực nào để nhân viên luôn cảm thấy an tâm làm việc.",
+        "Trao quyền dựa trên kết quả đạt được, không quan tâm quá trình nhân viên đã trải qua như thế nào để phát triển.",
+        "Chỉ giao những việc mà họ đã biết làm rất tốt để đảm bảo tiến độ công việc và tránh những sai sót không đáng."
       ],
-      "correctIndex": 1,
-      "explanation": "Lãnh đạo xuất chúng là người tạo điều kiện cho sự trưởng thành của cấp dưới thông qua thử thách."
+      "correctIndex": 0,
+      "explanation": "Lãnh đạo xuất chúng là người tạo điều kiện cho sự trưởng thành của cấp dưới thông qua thử thách, thay vì bao bọc họ."
     },
     {
       "id": "q14",
       "question": "Việc 'tôn vinh thất bại' trong quá trình phát triển có ý nghĩa gì?",
       "options": [
-        "Xoa dịu cảm giác mặc cảm cá nhân",
-        "Đánh giá lại giá trị của những bài học đắt giá thay vì nhìn nó như là sự kết thúc",
-        "Làm cho người khác không đánh giá thấp bản thân mình",
-        "Là cách để che đậy sai lầm trước cấp trên"
+        "Xoa dịu cảm giác mặc cảm cá nhân để con người không cảm thấy buồn bã khi gặp phải những thất bại trong đời.",
+        "Đánh giá lại giá trị của những bài học đắt giá thay vì nhìn nhận nó như là sự kết thúc của một nỗ lực.",
+        "Làm cho người khác không đánh giá thấp bản thân mình khi nhìn vào những sai lầm mà mình đã mắc phải trước đó.",
+        "Là cách để che đậy sai lầm trước cấp trên nhằm bảo vệ vị trí và uy tín của bản thân trong tổ chức hiện tại."
       ],
       "correctIndex": 1,
-      "explanation": "Tôn vinh không phải là lãng mạn hóa sai lầm, mà là nhìn nhận nó như nguồn dữ liệu quý giá cho sự phát triển."
+      "explanation": "Tôn vinh không phải là lãng mạn hóa sai lầm, mà là nhìn nhận nó như nguồn dữ liệu quý giá cho sự phát triển bền vững."
     },
     {
       "id": "q15",
       "question": "Tư duy nào dưới đây phản ánh đúng nhất tinh thần 'thèm khát sự phát triển' khi đối mặt với một thay đổi lớn trong công ty?",
       "options": [
-        "Lo lắng về việc mình có còn được ưu ái hay không",
-        "Tìm cách duy trì quy trình cũ vì đã quen thuộc và ổn định",
-        "Xem thay đổi là thời cơ để rèn luyện khả năng thích nghi và kỹ năng mới",
-        "Phản đối để bảo vệ sự an toàn trong công việc"
+        "Lo lắng về việc mình có còn được ưu ái hay không trong cơ cấu tổ chức mới sau khi thay đổi lớn diễn ra xong.",
+        "Tìm cách duy trì quy trình cũ vì đã quen thuộc và ổn định, tránh việc phải học lại từ đầu gây mất thời gian.",
+        "Xem thay đổi là thời cơ để rèn luyện khả năng thích nghi và học hỏi những kỹ năng mới cho sự nghiệp tương lai.",
+        "Phản đối để bảo vệ sự an toàn trong công việc và giữ nguyên trạng thái làm việc vốn đã quen thuộc từ trước."
       ],
       "correctIndex": 2,
-      "explanation": "Khả năng thích nghi là biểu hiện của sự phát triển. Người thèm khát phát triển coi thay đổi là môi trường sống lý tưởng."
+      "explanation": "Khả năng thích nghi là biểu hiện của sự phát triển. Người thèm khát phát triển coi thay đổi là môi trường sống lý tưởng để tiến bộ."
     }
   ]
 }

@@ -8,70 +8,70 @@
       "id": "q1",
       "question": "Theo quan điểm của tác giả, tại sao đau khổ lại là một công cụ cần thiết cho sự phát triển của một nhà lãnh đạo?",
       "options": [
-        "Vì nó rèn luyện sự chai sạn trước các áp lực ngoại cảnh",
-        "Vì nó là phương thức duy nhất để có được sự khôn ngoan sâu sắc mà không thể truyền đạt bằng lý thuyết",
-        "Vì nó giúp nhà lãnh đạo loại bỏ được những đối thủ cạnh tranh yếu kém",
-        "Vì đau khổ là cách để chứng minh năng lực chịu đựng của cá nhân"
+        "Vì nó là con đường duy nhất để đạt được sự khôn ngoan sâu sắc mà không lý thuyết nào có thể truyền đạt trọn vẹn.",
+        "Vì nó giúp nhà lãnh đạo rèn luyện sự chai sạn trước các áp lực ngoại cảnh để duy trì phong thái làm việc ổn định.",
+        "Vì đau khổ là phương thức hiệu quả để chứng minh năng lực chịu đựng và bản lĩnh cá nhân trước những khó khăn lớn.",
+        "Vì nó giúp nhà lãnh đạo loại bỏ được những đối thủ cạnh tranh yếu kém thông qua việc thử thách giới hạn chịu đựng."
       ],
-      "correctIndex": 1,
-      "explanation": "Đau khổ không phải để chai sạn hay chứng tỏ, mà là để thấu hiểu bản chất cuộc sống. Sự khôn ngoan đòi hỏi trải nghiệm thực tế (kinh nghiệm sống) mà sách vở hay lời dạy không thể thay thế."
+      "correctIndex": 0,
+      "explanation": "Đau khổ không phải để chai sạn hay chứng tỏ, mà là để thấu hiểu bản chất cuộc sống. Sự khôn ngoan đòi hỏi trải nghiệm thực tế mà sách vở hay lời dạy không thể thay thế."
     },
     {
       "id": "q2",
       "question": "Nếu một người quản lý gặp thất bại lớn trong dự án, tư duy nào phản ánh đúng triết lý của chương này?",
       "options": [
-        "Tìm cách che giấu sai sót để giữ hình ảnh lãnh đạo",
-        "Đổ lỗi cho hoàn cảnh để giảm bớt gánh nặng tâm lý",
-        "Chủ động tìm kiếm bài học từ sự tan vỡ để mở rộng tầm nhìn",
-        "Dành thời gian để than vãn nhằm xả stress trước khi bắt đầu lại"
+        "Tìm cách che giấu các sai sót kỹ thuật để giữ vững hình ảnh lãnh đạo uy tín trong mắt cấp dưới và đối tác chiến lược.",
+        "Chủ động tìm kiếm những bài học giá trị từ sự tan vỡ để mở rộng tầm nhìn và nâng cao năng lực quản trị bản thân.",
+        "Đổ lỗi cho các yếu tố khách quan từ hoàn cảnh để giảm bớt gánh nặng tâm lý và duy trì sự tự tin trong công việc.",
+        "Dành thời gian dài để than vãn nhằm xả stress và tìm kiếm sự đồng cảm từ đồng nghiệp trước khi bắt đầu lại dự án."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự phát triển nội tại chỉ xảy ra khi ta chấp nhận đối diện với nỗi đau và chuyển hóa nó thành sự hiểu biết. Hai lựa chọn đầu là trốn tránh, lựa chọn cuối là trì hoãn."
+      "correctIndex": 1,
+      "explanation": "Sự phát triển nội tại chỉ xảy ra khi ta chấp nhận đối diện với nỗi đau và chuyển hóa nó thành sự hiểu biết. Các lựa chọn khác là trốn tránh hoặc trì hoãn."
     },
     {
       "id": "q3",
       "question": "Câu nói 'trái tim tan nát giúp trái tim rộng mở' ám chỉ điều gì về sự phát triển bản thân?",
       "options": [
-        "Đau khổ khiến con người trở nên vị tha và thấu cảm hơn với người khác",
-        "Sự đau khổ sẽ tiêu diệt lòng kiêu hãnh và sự ích kỷ",
-        "Khi mất đi thứ gì đó, ta mới biết trân trọng những gì đang có",
-        "Đau khổ là biểu hiện của một tâm hồn đang dần trưởng thành"
+        "Sự đau khổ sẽ tiêu diệt hoàn toàn lòng kiêu hãnh và sự ích kỷ vốn có để con người trở nên khiêm nhường hơn trước.",
+        "Khi mất đi một thứ gì đó quan trọng, ta mới bắt đầu biết trân trọng những giá trị hiện tại mà mình đang sở hữu.",
+        "Đau khổ giúp con người trở nên vị tha và thấu cảm sâu sắc hơn với những nỗi đau của người khác trong cuộc sống.",
+        "Đau khổ là biểu hiện tất yếu của một tâm hồn đang dần trưởng thành và đạt đến trạng thái cân bằng trong cảm xúc."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự thấu cảm (empathy) đến từ việc tự mình trải qua khó khăn. Người chưa từng đau khổ thường khó kết nối sâu sắc với nỗi đau của người khác, từ đó hạn chế khả năng lãnh đạo bằng sự tử tế."
+      "correctIndex": 2,
+      "explanation": "Sự thấu cảm đến từ việc tự mình trải qua khó khăn. Người chưa từng đau khổ thường khó kết nối sâu sắc với nỗi đau của người khác, từ đó hạn chế khả năng lãnh đạo."
     },
     {
       "id": "q4",
       "question": "Trong bối cảnh công việc, việc né tránh mọi thách thức gây ra đau khổ sẽ dẫn đến hệ quả gì?",
       "options": [
-        "Giúp cá nhân duy trì trạng thái cân bằng và hạnh phúc",
-        "Khiến năng lực nội tại bị đình trệ và tầm nhìn trở nên hạn hẹp",
-        "Tạo ra một đội ngũ nhân viên trung thành vì môi trường an toàn",
-        "Dễ dàng đạt được các mục tiêu ngắn hạn một cách hiệu quả"
+        "Giúp cá nhân duy trì trạng thái cân bằng và hạnh phúc bền vững trong môi trường làm việc đầy áp lực và biến động.",
+        "Tạo ra một đội ngũ nhân viên trung thành vì họ được làm việc trong một môi trường an toàn và không có rủi ro cao.",
+        "Dễ dàng đạt được các mục tiêu ngắn hạn một cách hiệu quả mà không phải đối mặt với những thất bại gây đau đớn.",
+        "Khiến năng lực nội tại bị đình trệ và tầm nhìn trở nên hạn hẹp do thiếu sự rèn luyện qua các tình huống khó khăn."
       ],
-      "correctIndex": 1,
-      "explanation": "Tư duy tránh né tạo ra vùng an toàn giả tạo. Không có thách thức (đau khổ), con người không có áp lực để nâng cấp năng lực bản thân, dẫn đến sự suy thoái âm thầm."
+      "correctIndex": 3,
+      "explanation": "Tư duy tránh né tạo ra vùng an toàn giả tạo. Không có thách thức, con người không có áp lực để nâng cấp năng lực bản thân, dẫn đến sự suy thoái âm thầm."
     },
     {
       "id": "q5",
       "question": "Tại sao việc 'nhận lấy thử thách một cách trân trọng' lại là dấu hiệu của sự lạc quan đích thực?",
       "options": [
-        "Vì người lạc quan luôn tin rằng mọi việc sẽ ổn thỏa ngay lập tức",
-        "Vì họ hiểu rằng thử thách là một phần của sự trưởng thành thay vì là kẻ thù",
-        "Vì nó giúp người khác đánh giá cao năng lực của bản thân",
-        "Vì người lạc quan không cần phải lo lắng về kết quả cuối cùng"
+        "Vì họ hiểu rằng thử thách là một phần của sự trưởng thành thay vì coi đó là kẻ thù cần phải loại bỏ khỏi cuộc đời.",
+        "Vì người lạc quan luôn tin rằng mọi việc sẽ ổn thỏa ngay lập tức mà không cần phải nỗ lực quá nhiều để giải quyết.",
+        "Vì nó giúp người khác đánh giá cao năng lực của bản thân trong việc xử lý các tình huống khó khăn và phức tạp nhất.",
+        "Vì người lạc quan không cần phải lo lắng về kết quả cuối cùng nên họ luôn đón nhận mọi thứ một cách rất nhẹ nhàng."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự lạc quan ở đây không phải là hy vọng viển vông, mà là nhận thức đúng đắn về giá trị của thử thách. Người có tư duy cao xem khó khăn là bài học, không phải là bất hạnh."
+      "correctIndex": 0,
+      "explanation": "Sự lạc quan ở đây không phải là hy vọng viển vông, mà là nhận thức đúng đắn về giá trị của thử thách. Người có tư duy cao xem khó khăn là bài học."
     },
     {
       "id": "q6",
       "question": "Sự khác biệt giữa 'đau khổ vô nghĩa' và 'đau khổ giúp ích' là gì?",
       "options": [
-        "Sự đau khổ vô nghĩa đến từ người khác, đau khổ giúp ích đến từ chính mình",
-        "Sự đau khổ giúp ích là khi ta chấp nhận bài học từ nó",
-        "Đau khổ vô nghĩa kéo dài lâu hơn so với đau khổ giúp ích",
-        "Không có sự khác biệt, mọi nỗi đau đều dẫn đến sự trưởng thành"
+        "Sự đau khổ vô nghĩa đến từ tác động của người khác, còn đau khổ giúp ích đến từ những sai lầm của chính bản thân.",
+        "Sự đau khổ giúp ích là khi ta có ý thức chấp nhận và rút ra bài học giá trị từ những trải nghiệm tiêu cực đó.",
+        "Sự đau khổ vô nghĩa thường kéo dài lâu hơn so với đau khổ giúp ích vì nó không có mục đích rõ ràng để kết thúc.",
+        "Thực tế không có sự khác biệt nào cả, vì mọi nỗi đau đều dẫn đến sự trưởng thành nếu con người biết cách chịu đựng."
       ],
       "correctIndex": 1,
       "explanation": "Đau khổ chỉ có giá trị khi ta có ý chí rút ra bài học. Nếu chỉ chìm đắm trong cảm xúc mà không học hỏi, đau khổ trở thành sự lãng phí tài nguyên tinh thần."
@@ -80,46 +80,46 @@
       "id": "q7",
       "question": "Khi đối mặt với khủng hoảng, một lãnh đạo có tư duy sâu sắc sẽ đặt câu hỏi nào?",
       "options": [
-        "Ai là người chịu trách nhiệm cho chuyện này?",
-        "Tại sao điều này lại xảy ra với mình?",
-        "Làm thế nào để sự việc này qua đi càng nhanh càng tốt?",
-        "Sự kiện này đang dạy mình điều gì về khả năng thích ứng?"
+        "Ai là người chịu trách nhiệm chính cho chuyện này để có thể xử lý kỷ luật và ngăn chặn sự việc tái diễn lần sau?",
+        "Tại sao điều này lại xảy ra với mình trong khi mình đã nỗ lực rất nhiều để tránh những rủi ro không đáng có?",
+        "Sự kiện này đang dạy mình điều gì về khả năng thích ứng và cách để cải thiện bản thân trong tương lai gần?",
+        "Làm thế nào để sự việc này qua đi càng nhanh càng tốt mà không làm ảnh hưởng đến uy tín cá nhân của mình hiện tại?"
       ],
-      "correctIndex": 3,
-      "explanation": "Đây là câu hỏi mang tính 'phát triển' (Growth Mindset). Những câu hỏi khác thường dẫn đến đổ lỗi hoặc trốn tránh."
+      "correctIndex": 2,
+      "explanation": "Đây là câu hỏi mang tính phát triển. Những câu hỏi khác thường dẫn đến đổ lỗi hoặc trốn tránh, không giúp ích cho việc học hỏi."
     },
     {
       "id": "q8",
       "question": "Tại sao kinh nghiệm từ đau khổ lại có trọng lượng hơn so với kinh nghiệm từ thành công?",
       "options": [
-        "Vì thành công thường do may mắn hơn là nỗ lực",
-        "Vì đau khổ buộc cá nhân phải tái định hình lại giá trị và niềm tin của bản thân",
-        "Vì thành công thường khiến người ta trở nên kiêu ngạo và lười biếng",
-        "Vì đau khổ giúp cá nhân tạo được thiện cảm từ phía cộng đồng"
+        "Vì thành công thường do may mắn hơn là nỗ lực thực sự nên nó không mang lại bài học sâu sắc cho người lãnh đạo.",
+        "Vì thành công thường khiến người ta trở nên kiêu ngạo và lười biếng, dẫn đến việc mất đi khả năng học hỏi thêm.",
+        "Vì đau khổ giúp cá nhân tạo được thiện cảm từ phía cộng đồng và dễ dàng nhận được sự ủng hộ từ những người khác.",
+        "Vì đau khổ buộc cá nhân phải tái định hình lại giá trị và niềm tin cốt lõi để vượt qua nghịch cảnh hiện tại."
       ],
-      "correctIndex": 1,
-      "explanation": "Khi thành công, con người dễ ngủ quên trên chiến thắng. Khi đau khổ, người ta buộc phải nhìn lại nội tâm, thay đổi tư duy và cải cách phương pháp, đó là cốt lõi của sự phát triển thực sự."
+      "correctIndex": 3,
+      "explanation": "Khi thành công, con người dễ ngủ quên trên chiến thắng. Khi đau khổ, người ta buộc phải nhìn lại nội tâm, thay đổi tư duy và cải cách phương pháp."
     },
     {
       "id": "q9",
       "question": "Lựa chọn nào mô tả tốt nhất 'tư duy người vượt trội' trước nghịch cảnh?",
       "options": [
-        "Chủ động biến đau khổ thành chất xúc tác cho sự thay đổi",
-        "Kiên nhẫn chịu đựng cho đến khi sóng gió tự qua đi",
-        "Tập trung vào những thành công đã đạt được để khỏa lấp nỗi đau",
-        "Tìm kiếm sự giúp đỡ từ bên ngoài để tránh phải tự đối mặt"
+        "Chủ động biến đau khổ thành chất xúc tác mạnh mẽ cho sự thay đổi và phát triển năng lực của bản thân mình.",
+        "Kiên nhẫn chịu đựng mọi khó khăn cho đến khi sóng gió tự qua đi mà không cần phải can thiệp hay thay đổi gì cả.",
+        "Tập trung vào những thành công đã đạt được trong quá khứ để khỏa lấp nỗi đau và duy trì sự tự tin cần thiết.",
+        "Tìm kiếm sự giúp đỡ từ bên ngoài để tránh phải tự đối mặt với nỗi đau và tìm cách giải quyết vấn đề khó khăn."
       ],
       "correctIndex": 0,
-      "explanation": "Tư duy vượt trội (Leadership mindset) không đợi thời gian giải quyết vấn đề, mà chủ động dùng vấn đề để rèn luyện bản thân."
+      "explanation": "Tư duy vượt trội không đợi thời gian giải quyết vấn đề, mà chủ động dùng vấn đề để rèn luyện bản thân và tạo ra sự thay đổi tích cực."
     },
     {
       "id": "q10",
       "question": "Bẫy tâm lý phổ biến nhất của số đông khi gặp đau khổ là gì?",
       "options": [
-        "Quá tập trung vào việc tìm kiếm giải pháp ngắn hạn",
-        "Sự tự thương hại bản thân khiến họ bỏ lỡ cơ hội nhận ra bài học",
-        "Nỗ lực quá mức để chứng minh mình không đau khổ",
-        "Quá lạc quan đến mức quên mất thực tại phũ phàng"
+        "Quá tập trung vào việc tìm kiếm các giải pháp ngắn hạn để giải quyết vấn đề mà quên đi mục tiêu dài hạn của mình.",
+        "Sự tự thương hại bản thân khiến họ bỏ lỡ cơ hội quý giá để nhận ra bài học ẩn sau những khó khăn đang gặp.",
+        "Nỗ lực quá mức để chứng minh với mọi người xung quanh rằng mình không hề đau khổ trước những biến cố lớn lao.",
+        "Quá lạc quan đến mức quên mất thực tại phũ phàng và không chuẩn bị các phương án dự phòng cho những rủi ro mới."
       ],
       "correctIndex": 1,
       "explanation": "Sự tự thương hại là liều thuốc độc cho sự phát triển. Nó biến nạn nhân thành người bị hại và ngăn cản tư duy phản biện cần thiết để chuyển hóa khó khăn."
@@ -128,61 +128,61 @@
       "id": "q11",
       "question": "Một người nói: 'Tôi không muốn gặp thêm khó khăn nào nữa'. Điều này phản ánh điều gì về tư duy của họ?",
       "options": [
-        "Họ là người coi trọng sự bình an trong tâm hồn",
-        "Họ đang thiếu nhận thức về mối quan hệ giữa khó khăn và sự khôn ngoan",
-        "Họ đã đạt đến đỉnh cao của sự phát triển cá nhân",
-        "Họ là người thực tế và không muốn lãng phí sức lực"
+        "Họ là người coi trọng sự bình an trong tâm hồn và muốn tránh xa những rắc rối không cần thiết trong công việc.",
+        "Họ đã đạt đến đỉnh cao của sự phát triển cá nhân nên không cần phải trải qua thêm bất kỳ thử thách nào nữa.",
+        "Họ đang thiếu nhận thức sâu sắc về mối quan hệ mật thiết giữa khó khăn và sự khôn ngoan trong cuộc sống.",
+        "Họ là người thực tế và không muốn lãng phí sức lực vào những việc không mang lại kết quả cụ thể ngay lập tức."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Đó là tư duy tĩnh tại. Nếu không còn khó khăn, có nghĩa là họ đã ngừng thử thách giới hạn của chính mình, đồng nghĩa với việc sự trưởng thành đã kết thúc."
     },
     {
       "id": "q12",
-      "question": "Trong nghệ thuật lãnh đạo, tại sao việc chia sẻ về sự thất bại (nỗi đau) của bản thân với cấp dưới lại quan trọng?",
+      "question": "Trong nghệ thuật lãnh đạo, tại sao việc chia sẻ về sự thất bại của bản thân với cấp dưới lại quan trọng?",
       "options": [
-        "Để thể hiện mình là người có kinh nghiệm",
-        "Để tạo sự kết nối con người và truyền cảm hứng về sự phục hồi",
-        "Để cấp dưới không cảm thấy tội lỗi khi họ phạm sai lầm",
-        "Để khẳng định mình không còn bị tổn thương bởi quá khứ"
+        "Để thể hiện mình là người có nhiều kinh nghiệm thực tế và đã từng trải qua nhiều sóng gió trong sự nghiệp của mình.",
+        "Để cấp dưới không cảm thấy tội lỗi khi họ phạm sai lầm trong quá trình thực hiện các nhiệm vụ được giao phó.",
+        "Để khẳng định mình không còn bị tổn thương bởi quá khứ và sẵn sàng đối mặt với mọi thử thách mới trong tương lai.",
+        "Để tạo sự kết nối con người và truyền cảm hứng mạnh mẽ về khả năng phục hồi sau những vấp ngã trong công việc."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự chân thành trong lãnh đạo (vulnerability) là chìa khóa để xây dựng sự tin tưởng. Nó cho thấy lãnh đạo cũng là con người và có khả năng vượt lên nghịch cảnh."
+      "correctIndex": 3,
+      "explanation": "Sự chân thành trong lãnh đạo là chìa khóa để xây dựng sự tin tưởng. Nó cho thấy lãnh đạo cũng là con người và có khả năng vượt lên nghịch cảnh."
     },
     {
       "id": "q13",
       "question": "Nghịch lý lớn nhất của sự phát triển là gì?",
       "options": [
-        "Càng làm nhiều càng ít thu được kết quả",
-        "Càng muốn nắm giữ càng dễ bị tuột mất",
-        "Càng đau khổ đúng cách càng nhận được nhiều giá trị nội tâm",
-        "Càng thành công càng cảm thấy cô đơn hơn"
+        "Càng đau khổ đúng cách càng nhận được nhiều giá trị nội tâm sâu sắc để hoàn thiện bản thân mình hơn mỗi ngày.",
+        "Càng làm việc nhiều thì kết quả thu được lại càng ít đi do sự mệt mỏi tích tụ trong quá trình thực hiện công việc.",
+        "Càng muốn nắm giữ mọi thứ trong tầm tay thì lại càng dễ bị tuột mất những cơ hội quý giá nhất trong cuộc đời.",
+        "Càng thành công trong sự nghiệp thì con người lại càng cảm thấy cô đơn hơn vì thiếu đi sự chia sẻ từ đồng nghiệp."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả nhấn mạnh việc trái tim tan nát giúp nó mở rộng hơn. Đó là một nghịch lý: điều tiêu cực lại tạo ra kết quả tích cực nếu biết cách ứng xử với nó."
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh việc trái tim tan nát giúp nó mở rộng hơn. Đó là một nghịch lý: điều tiêu cực lại tạo ra kết quả tích cực nếu biết cách ứng xử."
     },
     {
       "id": "q14",
       "question": "Khi đối mặt với sự mất mát (như trường hợp của Dan Baker), cách tư duy đúng đắn nhất là:",
       "options": [
-        "Coi đó là một sự trừng phạt của cuộc đời",
-        "Chấp nhận sự hiện diện của nó và tìm kiếm ý nghĩa ẩn sau sự kiện đó",
-        "Quên nó đi để tiếp tục sống một cuộc đời bình thường",
-        "Coi đó là cơ hội để thu hút sự chú ý của mọi người"
+        "Coi đó là một sự trừng phạt nghiệt ngã của cuộc đời dành cho những sai lầm mà mình đã mắc phải trong quá khứ.",
+        "Chấp nhận sự hiện diện của nó và tìm kiếm ý nghĩa ẩn sau sự kiện đó để chuyển hóa nỗi đau thành bài học sống.",
+        "Quên nó đi để tiếp tục sống một cuộc đời bình thường và không để nỗi đau ảnh hưởng đến công việc hiện tại của mình.",
+        "Coi đó là cơ hội để thu hút sự chú ý của mọi người xung quanh và nhận được sự thương hại từ cộng đồng xã hội."
       ],
       "correctIndex": 1,
-      "explanation": "Đây là cốt lõi của việc chuyển hóa nỗi đau. Tìm kiếm ý nghĩa (Meaning) từ nỗi đau là cấp độ cao nhất của tâm lý học phát triển."
+      "explanation": "Đây là cốt lõi của việc chuyển hóa nỗi đau. Tìm kiếm ý nghĩa từ nỗi đau là cấp độ cao nhất của tâm lý học phát triển."
     },
     {
       "id": "q15",
       "question": "Sự 'lịch thiệp' khi đón nhận thử thách theo tác giả có ý nghĩa gì?",
       "options": [
-        "Luôn mỉm cười dù trong lòng rất tức giận",
-        "Tiếp nhận thách thức với sự điềm tĩnh và tâm thế cầu thị",
-        "Luôn lịch sự từ chối những khó khăn không cần thiết",
-        "Chỉ đón nhận những thử thách phù hợp với mục tiêu đã định"
+        "Luôn mỉm cười dù trong lòng rất tức giận và khó chịu trước những nghịch cảnh đang ập đến với cuộc sống của mình.",
+        "Luôn lịch sự từ chối những khó khăn không cần thiết để bảo vệ năng lượng cho những mục tiêu quan trọng khác.",
+        "Tiếp nhận thách thức với sự điềm tĩnh và tâm thế cầu thị để học hỏi những điều mới mẻ từ chính khó khăn đó.",
+        "Chỉ đón nhận những thử thách phù hợp với mục tiêu đã định sẵn để tránh lãng phí thời gian vào những việc vô ích."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự lịch thiệp ở đây hàm ý một phong thái của bậc thầy: không phản ứng gay gắt, không nổi loạn, mà chấp nhận đối diện với thử thách bằng tư duy điềm tĩnh và chủ động."
+      "correctIndex": 2,
+      "explanation": "Sự lịch thiệp ở đây hàm ý một phong thái của bậc thầy: không phản ứng gay gắt, không nổi loạn, mà chấp nhận đối diện với thử thách bằng tư duy điềm tĩnh."
     }
   ]
 }

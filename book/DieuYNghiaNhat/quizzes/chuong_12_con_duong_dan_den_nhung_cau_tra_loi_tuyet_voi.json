@@ -6,198 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Trong ma trận 4 góc phần tư câu hỏi của Keller, tại sao góc phần tư 'Nhỏ & Cụ thể' (ví dụ: 'Làm gì để tăng doanh thu thêm 5% trong năm nay?') lại được coi là cái bẫy ru ngủ nguy hiểm nhất đối với các tổ chức có tiềm năng lớn?",
+      "question": "Tại sao góc phần tư 'Nhỏ & Cụ thể' (ví dụ: tăng doanh thu 5%) lại được coi là cái bẫy nguy hiểm đối với các tổ chức tiềm năng?",
       "options": [
-        "Vì mục tiêu 5% là quá cao và đòi hỏi chi phí đầu tư tài chính vượt mức cho phép.",
-        "Vì nó tạo ra cảm giác an toàn giả tạo với một chỉ tiêu dễ đạt bằng các biện pháp gia tăng nhỏ giọt (incremental), không đòi hỏi sự bứt phá tư duy hay hành vi khác biệt, do đó triệt tiêu cơ hội đạt được thành tựu vượt trội.",
-        "Vì nó thiếu tính định lượng khiến người thực hiện không thể đo lường được kết quả cuối cùng.",
-        "Vì chỉ số phần trăm chỉ áp dụng được cho các công ty nhà nước chứ không phù hợp với kinh tế tư nhân."
+        "Nó tạo cảm giác an toàn giả tạo với chỉ tiêu dễ đạt bằng các biện pháp gia tăng nhỏ giọt, không đòi hỏi sự bứt phá tư duy.",
+        "Nó yêu cầu nguồn lực tài chính vượt mức cho phép của doanh nghiệp, gây áp lực lên dòng tiền và làm giảm khả năng cạnh tranh.",
+        "Nó thiếu tính định lượng khiến người thực hiện không thể đo lường được kết quả cuối cùng để đánh giá hiệu quả công việc.",
+        "Nó chỉ phù hợp với các doanh nghiệp nhà nước có quy mô lớn, không áp dụng được cho các công ty tư nhân đang tăng trưởng."
       ],
-      "correctIndex": 1,
-      "explanation": "Keller phân tích: 5% tăng trưởng nằm trong tầm tay của hầu hết nhân viên bán hàng. Đó là tăng trưởng gia tăng (incremental), không đòi hỏi hành động khác biệt hay tư duy mới, do đó hiếm khi mang lại kết quả vượt trội. Nó ru ngủ con người trong vùng thoải mái. B giải thích chuẩn xác; A ngược thực tế; C sai vì 5% rất cụ thể; D quy chụp phi lý.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Keller phân tích rằng 5% tăng trưởng nằm trong vùng thoải mái, không đòi hỏi hành động khác biệt hay tư duy mới, do đó triệt tiêu cơ hội đạt được thành tựu vượt trội."
     },
     {
       "id": "q2",
-      "question": "So sánh giữa câu hỏi 'Lớn & Rộng' (ví dụ: 'Làm gì để tăng gấp đôi doanh số?') và 'Lớn & Cụ thể' (ví dụ: 'Làm gì để tăng gấp đôi doanh số trong 6 tháng?'), điểm yếu chí tử của câu hỏi 'Lớn & Rộng' là gì?",
+      "question": "Điểm yếu chí tử của câu hỏi 'Lớn & Rộng' (ví dụ: 'Làm gì để tăng gấp đôi doanh số?') là gì theo quan điểm của tác giả?",
       "options": [
-        "Mục tiêu quá nhỏ bé không đủ tạo ra cảm hứng làm việc cho đội ngũ nhân sự.",
-        "Nó đòi hỏi chi phí công nghệ vượt quá khả năng tài chính hiện tại của doanh nghiệp.",
-        "Thiếu mốc thời gian và chi tiết cụ thể dẫn đến việc phát sinh nhiều nghi vấn hơn câu trả lời, khiến người thực hiện hoang mang không biết bắt đầu từ đâu và không thể đo lường hành động.",
-        "Nó khiến khách hàng cảm thấy doanh nghiệp đang quá tham lam về mặt lợi nhuận."
+        "Mục tiêu quá nhỏ bé không đủ tạo ra cảm hứng làm việc cho đội ngũ nhân sự, dẫn đến sự trì trệ trong quá trình triển khai.",
+        "Thiếu mốc thời gian và chi tiết cụ thể dẫn đến việc phát sinh nhiều nghi vấn hơn câu trả lời, khiến người thực hiện hoang mang.",
+        "Nó đòi hỏi chi phí công nghệ vượt quá khả năng tài chính hiện tại của doanh nghiệp, gây ra rủi ro phá sản trong ngắn hạn.",
+        "Nó khiến khách hàng cảm thấy doanh nghiệp đang quá tham lam về mặt lợi nhuận, làm giảm uy tín thương hiệu trên thị trường."
       ],
-      "correctIndex": 2,
-      "explanation": "Keller viết: 'Tăng gấp đôi doanh thu trong 20 năm tới khác hoàn toàn so với việc đạt được mục tiêu tương tự trong 1 năm hoặc ít hơn.' Khi thiếu tính cụ thể và thời hạn, câu hỏi lớn chỉ tạo ra sự mông lung và nhiều câu hỏi phụ hơn là hướng dẫn hành động. C phân tích chính xác điểm yếu; A, B, D sai lệch.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Khi thiếu tính cụ thể và thời hạn, câu hỏi lớn chỉ tạo ra sự mông lung và nhiều câu hỏi phụ hơn là hướng dẫn hành động cụ thể để đạt mục tiêu."
     },
     {
       "id": "q3",
-      "question": "Tại sao câu hỏi ở góc phần tư 'Nhỏ & Rộng' (ví dụ: 'Tôi có thể làm gì để tăng doanh số?') lại bị Keller coi là một 'câu đố vu vơ' tệ hại nhất trong việc tạo ra thành tích?",
+      "question": "Tại sao câu hỏi ở góc phần tư 'Nhỏ & Rộng' (ví dụ: 'Tôi có thể làm gì để tăng doanh số?') lại bị coi là một câu đố vu vơ?",
       "options": [
-        "Vì từ 'doanh số' là một thuật ngữ kinh tế lỗi thời không còn giá trị trong thời đại số.",
-        "Vì câu hỏi này chỉ có thể giải quyết bằng các siêu máy tính lượng tử chứ con người không làm được.",
-        "Vì nó vi phạm các quy định bảo mật thông tin nội bộ của các tập đoàn niêm yết.",
-        "Vì nó vừa không có độ lớn để thúc đẩy tư duy đột phá, vừa không có tính cụ thể để định hướng hành vi; nó chỉ kích hoạt một danh sách vô tận các ý kiến vụn vặt và khiến người hỏi thắc mắc tại sao mình mãi không thành công."
+        "Từ 'doanh số' là một thuật ngữ kinh tế lỗi thời không còn giá trị trong thời đại số, gây hiểu lầm cho các nhà quản trị hiện đại.",
+        "Câu hỏi này chỉ có thể giải quyết bằng các siêu máy tính lượng tử, vượt quá khả năng xử lý thông tin của con người hiện nay.",
+        "Nó không có độ lớn để thúc đẩy tư duy đột phá, cũng không có tính cụ thể để định hướng hành vi, gây ra sự phân tán nguồn lực.",
+        "Nó vi phạm các quy định bảo mật thông tin nội bộ của các tập đoàn niêm yết, gây rủi ro pháp lý cho người đặt ra câu hỏi đó."
       ],
-      "correctIndex": 3,
-      "explanation": "Keller nhận xét: 'Đây không thực sự là một câu hỏi về thành tích... Nó giống một câu đố hơn... Thật không may, đây là loại câu hỏi mà hầu hết mọi người thường hỏi và sau đó thắc mắc không hiểu tại sao câu trả lời của họ lại không mang đến những thành công.' D phân tích toàn diện điểm mù của góc phần tư này; A, B, C phi lý.",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Keller nhận xét đây không phải câu hỏi thành tích mà giống một câu đố, khiến người hỏi thắc mắc tại sao câu trả lời không mang lại thành công."
     },
     {
       "id": "q4",
-      "question": "Phân tích 3 cấp độ câu trả lời trong chương 12: 'Có thể thực hiện được' (Doable), 'Linh hoạt/Vươn tầm' (Stretch), và 'Có tiềm năng' (Possibility). Điểm phân định bản chất giữa câu trả lời 'Vươn tầm' và câu trả lời 'Tiềm năng' là gì?",
+      "question": "Điểm phân định bản chất giữa câu trả lời 'Vươn tầm' (Stretch) và câu trả lời 'Tiềm năng' (Possibility) là gì?",
       "options": [
-        "Câu trả lời 'Vươn tầm' vẫn nằm trong ranh giới những gì người khác đã từng làm và trong giới hạn năng lực hiện tại; trong khi câu trả lời 'Tiềm năng' nằm ngoài vùng thoải mái, vượt qua những gì đã được biết và đòi hỏi tạo ra một giải pháp hoàn toàn mới.",
-        "Câu trả lời 'Vươn tầm' chỉ dành cho doanh nghiệp lớn, còn câu trả lời 'Tiềm năng' chỉ dành cho cá nhân khởi nghiệp.",
-        "Câu trả lời 'Tiềm năng' luôn đi kèm với rủi ro phá sản 100% cho người thực hiện.",
-        "Câu trả lời 'Vươn tầm' không đòi hỏi bất kỳ sự nghiên cứu hay học hỏi nào từ bên ngoài."
+        "Câu trả lời 'Vươn tầm' chỉ dành cho doanh nghiệp lớn, còn câu trả lời 'Tiềm năng' chỉ dành cho các cá nhân khởi nghiệp nhỏ.",
+        "Câu trả lời 'Tiềm năng' luôn đi kèm với rủi ro phá sản cao cho người thực hiện, trong khi 'Vươn tầm' đảm bảo an toàn tuyệt đối.",
+        "Câu trả lời 'Vươn tầm' không đòi hỏi bất kỳ sự nghiên cứu hay học hỏi nào từ bên ngoài, trong khi 'Tiềm năng' cần nhiều dữ liệu.",
+        "Câu trả lời 'Vươn tầm' nằm trong giới hạn năng lực dựa trên khảo sát người khác; 'Tiềm năng' vượt ra ngoài những gì đã biết."
       ],
-      "correctIndex": 0,
-      "explanation": "Keller phân cấp: 'Doable' nằm trong vùng hiểu biết hiện tại; 'Stretch' vươn tới giới hạn năng lực cao nhất dựa trên khảo sát những gì người khác đã làm. Nhưng 'Possibility' vượt ra ngoài ranh giới đã biết và đã làm, đòi hỏi một bước nhảy vọt tìm kiếm câu trả lời mới chưa ai từng thực hiện. A chỉ rõ sự khác biệt bản chất; B, C, D sai lệch hoàn toàn.",
-      "difficulty": "hard"
+      "correctIndex": 3,
+      "explanation": "Câu trả lời 'Stretch' vươn tới giới hạn năng lực dựa trên khảo sát người khác, còn 'Possibility' đòi hỏi bước nhảy vọt tìm kiếm giải pháp mới."
     },
     {
       "id": "q5",
-      "question": "Trong quy trình tìm kiếm câu trả lời lớn, vai trò của bước 'So sánh chuẩn mực' (Benchmarking) được Keller định vị như thế nào?",
+      "question": "Trong quy trình tìm kiếm câu trả lời lớn, vai trò của bước 'So sánh chuẩn mực' (Benchmarking) được định vị như thế nào?",
       "options": [
-        "Là đích đến cuối cùng và là đỉnh cao thành tích mà người thực hiện cần đạt được để hoàn tất mục tiêu.",
-        "Là xuất phát điểm (điểm sàn) để tìm hiểu những gì người khác đã biết và đã làm tốt nhất, từ đó thiết lập cột mốc tối thiểu trước khi vươn lên nấc thang tiếp theo.",
-        "Là công cụ pháp lý để sao chép nguyên mẫu quy trình sản xuất của đối thủ cạnh tranh.",
-        "Là phương pháp đo lường sự hài lòng của nhân viên nội bộ so với mức trung bình của ngành."
+        "Là xuất phát điểm để tìm hiểu những gì người khác đã làm tốt nhất, từ đó thiết lập cột mốc tối thiểu trước khi vươn lên.",
+        "Là đích đến cuối cùng và là đỉnh cao thành tích mà người thực hiện cần đạt được để hoàn tất mục tiêu chiến lược của mình.",
+        "Là công cụ pháp lý để sao chép nguyên mẫu quy trình sản xuất của đối thủ cạnh tranh nhằm tiết kiệm chi phí nghiên cứu mới.",
+        "Là phương pháp đo lường sự hài lòng của nhân viên nội bộ so với mức trung bình của ngành để cải thiện văn hóa doanh nghiệp."
       ],
-      "correctIndex": 1,
-      "explanation": "Với cách tiếp cận thông thường (Stretch), Benchmark là điểm cao nhất; nhưng với Keller để tìm Possibility, Benchmark chỉ là 'điểm thấp nhất' – bệ phóng để bạn đứng trên vai người khổng lồ và nhìn ra bước đi tiếp theo. Bạn không phát minh lại bánh xe mà lấy đỉnh cao hiện tại làm vạch xuất phát mới. B giải thích chuẩn xác; A nhầm đỉnh với sàn; C, D sai khái niệm.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Với Keller, Benchmark chỉ là điểm thấp nhất – bệ phóng để bạn đứng trên vai người khổng lồ và nhìn ra bước đi tiếp theo cho tương lai."
     },
     {
       "id": "q6",
       "question": "Bước thứ hai: 'Xu hướng hóa' (Trending) thực chất là hành động chiến lược nào sau khi đã hoàn thành việc So sánh chuẩn mực?",
       "options": [
-        "Bắt chước các trào lưu thịnh hành trên mạng xã hội để thu hút sự chú ý của giới truyền thông.",
-        "Cắt giảm giá thành sản phẩm xuống thấp hơn 10% so với đối thủ dẫn đầu thị trường.",
-        "Đứng trên đỉnh cao của chuẩn mực hiện tại để nhìn ra hướng đi tiếp theo mà những người giỏi nhất đang hướng đến, hoặc khai phá một hướng đi hoàn toàn mới chưa từng có tiền lệ.",
-        "Ký hợp đồng dài hạn với các công ty nghiên cứu thị trường để dự báo biến động tỷ giá."
+        "Bắt chước các trào lưu thịnh hành trên mạng xã hội để thu hút sự chú ý của giới truyền thông và tăng lượng truy cập website.",
+        "Đứng trên đỉnh cao của chuẩn mực hiện tại để nhìn ra hướng đi tiếp theo mà những người giỏi nhất đang hướng đến hoặc khai phá.",
+        "Cắt giảm giá thành sản phẩm xuống thấp hơn 10% so với đối thủ dẫn đầu thị trường để chiếm lĩnh thị phần trong ngắn hạn.",
+        "Ký hợp đồng dài hạn với các công ty nghiên cứu thị trường để dự báo biến động tỷ giá và tình hình kinh tế vĩ mô thế giới."
       ],
-      "correctIndex": 2,
-      "explanation": "Keller mô tả: 'Xu hướng hóa là bước thứ hai. Bạn đang tìm kiếm điều tiếp theo có thể làm theo mà những người làm tốt nhất cũng đang hướng đến, hoặc nếu cần thiết, theo một hướng hoàn toàn mới.' Đó là việc mở rộng biên giới tri thức và thành tựu. C nắm trọn vẹn bản chất; A mang tính câu like; B hạ giá cạnh tranh; D dịch vụ tài chính.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Xu hướng hóa là tìm kiếm điều tiếp theo mà những người làm tốt nhất đang hướng đến, hoặc theo một hướng hoàn toàn mới chưa từng có."
     },
     {
       "id": "q7",
-      "question": "Tình huống: Một chuỗi bán lẻ thời trang gặp khủng hoảng sụt giảm khách hàng. CEO hỏi: 'Làm thế nào để chúng ta cải thiện dịch vụ khách hàng?' Ban giám đốc nên tái cấu trúc câu hỏi này như thế nào để kích hoạt tư duy đột phá theo chương 12?",
+      "question": "Một CEO muốn cải thiện dịch vụ khách hàng, cách tái cấu trúc câu hỏi nào sau đây là tối ưu nhất theo chương 12?",
       "options": [
-        "'Làm thế nào để nhân viên bán hàng cười tươi hơn và cúi chào khách hàng mỗi ngày?' (Nhỏ & Cụ thể).",
-        "'Có cách nào để làm cho khách hàng hài lòng hơn vào một ngày nào đó không?' (Lớn & Rộng).",
-        "'Làm thế nào để mọi người đều yêu thích thương hiệu thời trang của chúng ta?' (Nhỏ & Rộng).",
-        "'Điều quan trọng nhất chúng ta có thể làm để nâng tỷ lệ khách hàng quay lại mua sắm lên gấp đôi trong 90 ngày tới, nhờ đó việc mở rộng doanh thu sẽ dễ dàng hơn là gì?' (Lớn & Cụ thể + Câu hỏi tập trung)."
+        "Làm thế nào để nhân viên bán hàng cười tươi hơn và cúi chào khách hàng mỗi ngày để tạo ra trải nghiệm dịch vụ tốt nhất?",
+        "Có cách nào để làm cho khách hàng hài lòng hơn vào một ngày nào đó trong tương lai gần mà không cần tốn thêm chi phí lớn?",
+        "Điều quan trọng nhất để nâng tỷ lệ khách hàng quay lại lên gấp đôi trong 90 ngày tới, nhờ đó việc tăng doanh thu dễ dàng hơn?",
+        "Làm thế nào để mọi người đều yêu thích thương hiệu thời trang của chúng ta mà không cần phải thay đổi quy trình vận hành cũ?"
       ],
-      "correctIndex": 3,
-      "explanation": "Câu hỏi ban đầu của CEO là 'Nhỏ & Rộng' (câu đố vu vơ). Để tạo ra thành tựu vượt trội, nó phải chuyển thành 'Lớn & Cụ thể' (tăng gấp đôi tỷ lệ quay lại trong 90 ngày) và lồng ghép vào cấu trúc Câu hỏi tập trung với vế đòn bẩy. D là phương án chuyển đổi hoàn hảo; A, B, C rơi vào các góc phần tư kém hiệu quả.",
-      "difficulty": "hard"
+      "correctIndex": 2,
+      "explanation": "Câu hỏi cần chuyển thành 'Lớn & Cụ thể' và lồng ghép vào cấu trúc Câu hỏi tập trung với vế đòn bẩy để tạo ra thành tựu vượt trội."
     },
     {
       "id": "q8",
-      "question": "Lời khuyên của vị giáo sư đại học dành cho Gary Keller: 'Anh thông minh, nhưng mọi người có kinh nghiệm hơn anh. Anh không phải là người đầu tiên có ước mơ lớn...' nhấn mạnh nguyên lý học hỏi nào?",
+      "question": "Lời khuyên của vị giáo sư: 'Anh thông minh, nhưng mọi người có kinh nghiệm hơn anh' nhấn mạnh nguyên lý học hỏi nào?",
       "options": [
-        "Nghiên cứu sâu sắc những mô hình, sách vở và bài học của những người đi trước để lấy đó làm điểm tựa ban đầu, tránh lãng phí thời gian tự mò mẫm từ số không.",
-        "Không bao giờ nên tin tưởng vào ý tưởng của chính mình mà phải luôn phục tùng ý kiến của các bậc tiền bối.",
-        "Từ bỏ các ước mơ lớn vì mọi thứ vĩ đại trên thế giới đều đã được người khác thực hiện xong từ trước.",
-        "Chỉ những người có bằng cấp học thuật cao mới có khả năng tìm ra những câu trả lời xuất sắc trong kinh doanh."
+        "Không bao giờ nên tin tưởng vào ý tưởng của chính mình mà phải luôn phục tùng ý kiến của các bậc tiền bối trong ngành nghề.",
+        "Từ bỏ các ước mơ lớn vì mọi thứ vĩ đại trên thế giới đều đã được người khác thực hiện xong từ trước, không còn cơ hội.",
+        "Chỉ những người có bằng cấp học thuật cao mới có khả năng tìm ra những câu trả lời xuất sắc trong kinh doanh hiện đại ngày nay.",
+        "Nghiên cứu sâu sắc mô hình và bài học của người đi trước để lấy đó làm điểm tựa ban đầu, tránh lãng phí thời gian mò mẫm."
       ],
-      "correctIndex": 0,
-      "explanation": "Keller nhấn mạnh sách vở và kinh nghiệm của các hình mẫu (role models) là nguồn tài nguyên vô giá. Việc nghiên cứu người khác giúp ta thiết lập điểm mốc (benchmark) chuẩn xác để từ đó bứt phá thay vì lãng phí thời gian phát minh lại bánh xe. A thể hiện sự thông thái chiến lược; B tự ti; C bi quan; D sùng bái bằng cấp.",
-      "difficulty": "medium"
+      "correctIndex": 3,
+      "explanation": "Việc nghiên cứu người khác giúp ta thiết lập điểm mốc chuẩn xác để từ đó bứt phá thay vì lãng phí thời gian phát minh lại bánh xe."
     },
     {
       "id": "q9",
-      "question": "Tại sao Keller nhấn mạnh rằng việc theo đuổi một câu trả lời mang tính tiềm năng (Possibility Answer) thường đòi hỏi bạn phải 'đổi mới chính mình' (reinvent yourself)?",
+      "question": "Tại sao Keller nhấn mạnh rằng việc theo đuổi một câu trả lời mang tính tiềm năng thường đòi hỏi bạn phải 'đổi mới chính mình'?",
       "options": [
-        "Vì xã hội luôn có xu hướng tẩy chay những người giữ nguyên lối sống cũ.",
-        "Vì một câu trả lời mới vượt ngoài vùng thoải mái đòi hỏi những niềm tin mới và hành vi mới; bạn không thể đạt được kết quả phi thường bằng con người cũ và thói quen cũ.",
-        "Vì bạn cần phải phẫu thuật thẩm mỹ và đổi tên để tạo sự chú ý trên các phương tiện truyền thông.",
-        "Vì các cơ quan quản lý nhà nước yêu cầu doanh nhân phải thay đổi chức danh định kỳ."
+        "Vì một câu trả lời mới vượt ngoài vùng thoải mái đòi hỏi những niềm tin và hành vi mới; bạn không thể dùng con người cũ.",
+        "Vì xã hội luôn có xu hướng tẩy chay những người giữ nguyên lối sống cũ, buộc bạn phải thay đổi để hòa nhập với cộng đồng.",
+        "Vì bạn cần phải phẫu thuật thẩm mỹ và đổi tên để tạo sự chú ý trên các phương tiện truyền thông nhằm quảng bá thương hiệu.",
+        "Vì các cơ quan quản lý nhà nước yêu cầu doanh nhân phải thay đổi chức danh định kỳ để đảm bảo tính minh bạch trong kinh doanh."
       ],
-      "correctIndex": 1,
-      "explanation": "Keller viết: 'Một câu trả lời mới thường đòi hỏi hành vi mới, do đó, đừng ngạc nhiên nếu trong hành trình đi đến thành công, bạn phải thay đổi chính mình.' Để giải quyết vấn đề ở tầm mức mới, tư duy và hành vi của bạn phải tiến hóa tương xứng. B giải thích đúng quy luật phát triển nội tại; A, C, D sai lệch ngụy biện.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Để giải quyết vấn đề ở tầm mức mới, tư duy và hành vi của bạn phải tiến hóa tương xứng, không thể đạt kết quả phi thường với thói quen cũ."
     },
     {
       "id": "q10",
-      "question": "Khi chuyển đổi một mục tiêu 'Lớn & Cụ thể' thành 'Câu hỏi tập trung', điều kỳ diệu nào xảy ra với cách chúng ta phân bổ nguồn lực?",
+      "question": "Khi chuyển đổi một mục tiêu 'Lớn & Cụ thể' thành 'Câu hỏi tập trung', điều kỳ diệu nào xảy ra với cách phân bổ nguồn lực?",
       "options": [
-        "Bắt buộc người lãnh đạo phải tăng gấp đôi ngân sách quảng cáo và tuyển dụng thêm 50% nhân sự.",
-        "Loại bỏ hoàn toàn nhu cầu phải lắng nghe phản hồi từ khách hàng và đối tác.",
-        "Buộc người thực hiện phải gạt bỏ hàng loạt giải pháp tình thế vụn vặt để truy tìm điểm đòn bẩy đơn nhất có sức mạnh lan tỏa cao nhất, từ đó bắt đầu hành động ngay lập tức.",
-        "Làm giảm tốc độ ra quyết định vì đòi hỏi quá nhiều cuộc họp lấy ý kiến tập thể."
+        "Bắt buộc người lãnh đạo phải tăng gấp đôi ngân sách quảng cáo và tuyển dụng thêm 50% nhân sự để đáp ứng mục tiêu tăng trưởng.",
+        "Buộc người thực hiện phải gạt bỏ hàng loạt giải pháp vụn vặt để truy tìm điểm đòn bẩy đơn nhất có sức mạnh lan tỏa cao nhất.",
+        "Loại bỏ hoàn toàn nhu cầu phải lắng nghe phản hồi từ khách hàng và đối tác vì mục tiêu đã được xác định rõ ràng từ trước.",
+        "Làm giảm tốc độ ra quyết định vì đòi hỏi quá nhiều cuộc họp lấy ý kiến tập thể để đảm bảo sự đồng thuận của toàn bộ đội ngũ."
       ],
-      "correctIndex": 2,
-      "explanation": "Biến mục tiêu lớn thành Câu hỏi tập trung ('Điều quan trọng nhất tôi có thể làm để... nhờ đó...') giúp tập trung nguồn lực vào trọng tâm: ép ta chọn lọc điều cốt lõi nhất và kích hoạt quân domino đầu tiên thay vì phân tán sức lực vào các giải pháp tình thế. C phản ánh tác dụng chuyển hóa đòn bẩy; A, B, D sai lệch.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Câu hỏi tập trung giúp ép ta chọn lọc điều cốt lõi nhất và kích hoạt quân domino đầu tiên thay vì phân tán sức lực vào các giải pháp tình thế."
     },
     {
       "id": "q11",
-      "question": "Tình huống khởi nghiệp: Một lập trình viên muốn tạo ra ứng dụng quản lý thời gian đột phá. Anh dành 6 tháng khảo sát mọi tính năng của Notion, Trello, Asana và sau đó chỉ đơn thuần sao chép và tích hợp các tính năng đó vào sản phẩm của mình. Dưới lăng kính 'Benchmark & Trend', sai lầm của anh ta là gì?",
+      "question": "Một lập trình viên sao chép tính năng của các ứng dụng đối thủ để làm sản phẩm của mình. Sai lầm của anh ta là gì?",
       "options": [
-        "Đã không xin phép bản quyền phần mềm từ các tập đoàn công nghệ lớn.",
-        "Đã chọn sai ngôn ngữ lập trình khiến ứng dụng chạy chậm chạp.",
-        "Đã không chi đủ tiền thuê người nổi tiếng (KOL) để quảng bá ứng dụng trên mạng xã hội.",
-        "Anh ta mới chỉ dừng lại ở bước 'So sánh chuẩn mực' (Benchmark) để tạo ra một sản phẩm chắp vá thuộc vùng 'Vươn tầm', mà hoàn toàn thiếu bước 'Xu hướng hóa' (Trend) để tạo ra bước nhảy vọt mới mẻ vượt lên trên các giải pháp hiện hành."
+        "Đã không xin phép bản quyền phần mềm từ các tập đoàn công nghệ lớn, dẫn đến nguy cơ bị kiện tụng về sở hữu trí tuệ sau này.",
+        "Đã chọn sai ngôn ngữ lập trình khiến ứng dụng chạy chậm chạp và không đáp ứng được nhu cầu của người dùng trong thực tế.",
+        "Anh ta dừng lại ở bước so sánh chuẩn mực để tạo ra sản phẩm chắp vá, thiếu bước xu hướng hóa để tạo ra bước nhảy vọt mới.",
+        "Đã không chi đủ tiền thuê người nổi tiếng để quảng bá ứng dụng trên mạng xã hội, khiến sản phẩm không tiếp cận được người dùng."
       ],
-      "correctIndex": 3,
-      "explanation": "Khảo sát đối thủ chỉ là bước 1 (Benchmark) để biết thị trường đang ở đâu. Nếu chỉ dừng lại ở việc sao chép tính năng, sản phẩm sẽ trở thành bản sao hạng hai (nhạt nhòa, cồng kềnh). Anh ta thiếu bước 2 (Trend) – nhìn ra điểm thiếu sót của thị trường hiện tại để tạo ra giải pháp mới vượt trội. D chẩn đoán chính xác lỗi tư duy; A, B, C lạc đề kỹ thuật/truyền thông.",
-      "difficulty": "hard"
+      "correctIndex": 2,
+      "explanation": "Khảo sát đối thủ chỉ là bước 1. Nếu chỉ sao chép, sản phẩm sẽ nhạt nhòa. Anh ta thiếu bước 2 để tạo ra giải pháp mới vượt trội."
     },
     {
       "id": "q12",
-      "question": "Câu danh ngôn của F. M. Alexander mở đầu chương: 'Mọi người không quyết định tương lai của họ, họ quyết định thói quen và thói quen đó quyết định tương lai của họ' kết nối như thế nào với quá trình 'Đặt câu hỏi lớn -> Tìm đáp án lớn'?",
+      "question": "Câu danh ngôn của F. M. Alexander kết nối như thế nào với quá trình 'Đặt câu hỏi lớn -> Tìm đáp án lớn'?",
       "options": [
-        "Tương lai phi thường không đến từ những ước mơ viển vông, mà đến từ thói quen kỷ luật đặt ra những câu hỏi lớn cụ thể mỗi ngày và kiên trì rèn luyện bản thân để vươn tới câu trả lời vượt trội.",
-        "Con người hoàn toàn bất lực trước số phận và thói quen vô thức đã được định hình từ thời thơ ấu.",
-        "Thói quen chỉ có tác dụng trong việc rèn luyện thể thao buổi sáng chứ không ảnh hưởng đến sự nghiệp kinh doanh.",
-        "Muốn có tương lai tốt đẹp thì chỉ cần từ bỏ các thói quen xấu mà không cần xây dựng thói quen mới nào."
+        "Con người hoàn toàn bất lực trước số phận và thói quen vô thức đã được định hình từ thời thơ ấu, không thể thay đổi được.",
+        "Thói quen chỉ có tác dụng trong việc rèn luyện thể thao buổi sáng chứ không ảnh hưởng đến sự nghiệp kinh doanh của cá nhân.",
+        "Muốn có tương lai tốt đẹp thì chỉ cần từ bỏ các thói quen xấu mà không cần xây dựng thói quen mới nào để thay thế chúng.",
+        "Tương lai phi thường đến từ thói quen kỷ luật đặt ra những câu hỏi lớn cụ thể mỗi ngày và kiên trì rèn luyện để vươn tới."
       ],
-      "correctIndex": 0,
-      "explanation": "Keller trích dẫn Alexander để nhắc nhở: Thói quen thành công chính là quy trình 2 bước: Đặt câu hỏi lớn và Tìm đáp án lớn. Chính việc lặp đi lặp lại quy trình này định hình tư duy và hành vi vượt bậc, từ đó định đoạt tương lai. A liên kết sâu sắc câu trích dẫn với nội dung chương; B đầu hàng số phận; C, D hạn hẹp sai lệch.",
-      "difficulty": "medium"
+      "correctIndex": 3,
+      "explanation": "Thói quen thành công chính là quy trình 2 bước này. Việc lặp lại quy trình định hình tư duy và hành vi vượt bậc, từ đó định đoạt tương lai."
     },
     {
       "id": "q13",
-      "question": "Tại sao việc chỉ bằng lòng với câu trả lời ở mức 'Có thể thực hiện được' (Doable) lại là rào cản lớn nhất ngăn cản sự tiến hóa của một chuyên gia lành nghề?",
+      "question": "Tại sao việc chỉ bằng lòng với câu trả lời ở mức 'Có thể thực hiện được' lại là rào cản ngăn cản sự tiến hóa của chuyên gia?",
       "options": [
-        "Vì câu trả lời doable luôn đi kèm với mức thu nhập thấp hơn mức sàn thị trường.",
-        "Vì những câu trả lời này đòi hỏi quá nhiều nỗ lực học tập khiến người ta kiệt sức.",
-        "Vì nó giữ chặt người đó trong vùng an toàn của những kiến thức và kinh nghiệm cũ kỹ; không có thách thức mới, năng lực sẽ dậm chân tại chỗ và sự nghiệp dần trở nên tầm thường.",
-        "Vì câu trả lời doable thường bị các thuật toán AI tự động hóa hoàn toàn trong vòng 24 giờ."
+        "Nó giữ chặt người đó trong vùng an toàn của kiến thức cũ; không có thách thức mới, năng lực sẽ dậm chân tại chỗ và tầm thường.",
+        "Vì câu trả lời doable luôn đi kèm với mức thu nhập thấp hơn mức sàn thị trường, khiến người thực hiện không có động lực làm.",
+        "Vì những câu trả lời này đòi hỏi quá nhiều nỗ lực học tập khiến người ta kiệt sức và không còn thời gian cho cuộc sống riêng.",
+        "Vì câu trả lời doable thường bị các thuật toán AI tự động hóa hoàn toàn trong vòng 24 giờ, làm mất đi giá trị của con người."
       ],
-      "correctIndex": 2,
-      "explanation": "Keller giải thích: Với Doable, bạn đã biết cách làm và không phải thay đổi nhiều. Nhưng sống trong vùng khả thi này đồng nghĩa với việc chấp nhận kết quả tầm thường. Không bứt phá ra ngoài ranh giới thành tích thì không thể tối đa hóa tiềm năng cuộc đời. C phản ánh chính xác rào cản tâm lý; A, B, D là các lý do sai lầm hoặc cường điệu.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Sống trong vùng khả thi đồng nghĩa với việc chấp nhận kết quả tầm thường. Không bứt phá ra ngoài ranh giới thì không thể tối đa hóa tiềm năng."
     },
     {
       "id": "q14",
-      "question": "Tại sao 'Nghĩ lớn' (Think Big) nếu không đi kèm với 'Cụ thể' (Specific) lại là mảnh đất màu mỡ sinh ra những ảo tưởng nguy hiểm?",
+      "question": "Tại sao 'Nghĩ lớn' nếu không đi kèm với 'Cụ thể' lại là mảnh đất màu mỡ sinh ra những ảo tưởng nguy hiểm?",
       "options": [
-        "Vì những người nghĩ lớn thường bị bạn bè và đồng nghiệp ghen ghét, xa lánh.",
-        "Vì các cơ quan thuế vụ sẽ giám sát chặt chẽ hơn những kế hoạch kinh doanh lớn.",
-        "Vì nghĩ lớn đòi hỏi chỉ số IQ thiên tài mà người bình thường không thể sở hữu.",
-        "Vì nghĩ lớn mà mơ hồ sẽ tạo ra hưng phấn cảm xúc giả tạo nhưng không cung cấp được bất kỳ thước đo hay tiêu chuẩn hành động nào, dẫn đến sự lúng túng, bế tắc và thất bại khi đối mặt với thực tế."
+        "Vì những người nghĩ lớn thường bị bạn bè và đồng nghiệp ghen ghét, xa lánh, gây khó khăn cho quá trình làm việc nhóm sau này.",
+        "Nó tạo ra hưng phấn cảm xúc giả tạo nhưng không cung cấp được thước đo hay tiêu chuẩn hành động, dẫn đến bế tắc khi thực tế.",
+        "Vì các cơ quan thuế vụ sẽ giám sát chặt chẽ hơn những kế hoạch kinh doanh lớn, gây áp lực lên bộ phận kế toán của doanh nghiệp.",
+        "Vì nghĩ lớn đòi hỏi chỉ số IQ thiên tài mà người bình thường không thể sở hữu, dẫn đến sự thất bại tất yếu trong mọi dự án."
       ],
-      "correctIndex": 3,
-      "explanation": "Góc phần tư 'Lớn & Rộng' (Big & Broad) tạo ra ảo giác tiến bộ vì nghe rất hào nhoáng, nhưng thiếu tính cụ thể (con số, thời hạn, tiêu chí) khiến nó không thể chuyển hóa thành kế hoạch tác chiến. Cụ thể hóa là chiếc neo kéo tư duy lớn chạm đất thực tế. D phân tích sâu sắc tâm lý học thực thi; A, B, C là các định kiến sai lầm.",
-      "difficulty": "medium"
+      "correctIndex": 1,
+      "explanation": "Góc phần tư 'Lớn & Rộng' tạo ra ảo giác tiến bộ nhưng thiếu tính cụ thể khiến nó không thể chuyển hóa thành kế hoạch tác chiến thực tế."
     },
     {
       "id": "q15",
-      "question": "Tình huống: Một tác giả trẻ muốn viết một cuốn sách bestseller quốc tế trong vòng 1 năm. Nếu vận dụng quy trình 2 bước của chương 12, chuỗi hành động chiến lược chuẩn xác nhất là gì?",
+      "question": "Một tác giả muốn viết sách bestseller trong 1 năm, chuỗi hành động chiến lược chuẩn xác nhất theo chương 12 là gì?",
       "options": [
-        "Khảo sát cấu trúc và phương pháp tiếp thị của 10 cuốn sách bán chạy nhất cùng thể loại (Benchmark) -> Nhận diện khoảng trống tri thức mà các sách đó chưa giải quyết và đưa ra góc nhìn mới đột phá (Trend) -> Đặt Câu hỏi tập trung để xác định nội dung cốt lõi nhất cần viết mỗi ngày.",
-        "Tự giam mình trong phòng viết liên tục theo cảm hứng cá nhân mà không cần đọc bất kỳ cuốn sách nào của người khác để giữ sự nguyên bản tuyệt đối.",
-        "Thuê đội ngũ viết thuê (ghostwriters) chép lại nội dung của 3 cuốn sách bán chạy nhất rồi đổi tên nhân vật.",
-        "Đăng tải thông báo tuyển dụng đại lý phát hành sách trên mạng xã hội trước khi viết bản thảo."
+        "Tự giam mình trong phòng viết liên tục theo cảm hứng cá nhân mà không cần đọc bất kỳ cuốn sách nào của người khác để giữ nguyên bản.",
+        "Thuê đội ngũ viết thuê chép lại nội dung của 3 cuốn sách bán chạy nhất rồi đổi tên nhân vật để tạo ra tác phẩm mới nhanh chóng.",
+        "Khảo sát sách bán chạy nhất để nắm chuẩn mực, nhận diện khoảng trống tri thức để đưa ra góc nhìn mới, đặt câu hỏi tập trung.",
+        "Đăng tải thông báo tuyển dụng đại lý phát hành sách trên mạng xã hội trước khi viết bản thảo để thăm dò thị trường tiềm năng."
       ],
-      "correctIndex": 0,
-      "explanation": "Quy trình chuẩn của Keller: 1. Benchmark (nghiên cứu người thành công nhất trong sách vở, thị trường để nắm chuẩn mực); 2. Trend (tìm bước đi tiếp theo vượt lên trên chuẩn mực đó bằng giá trị mới); 3. Biến thành Câu hỏi tập trung hành động mỗi ngày. A mô tả chuẩn xác chuỗi hành động này; B là ảo tưởng nguyên bản dẫn đến phát minh lại bánh xe; C là đạo văn phi pháp; D làm ngược quy trình.",
-      "difficulty": "hard"
+      "correctIndex": 2,
+      "explanation": "Quy trình chuẩn: 1. Benchmark (nghiên cứu chuẩn mực); 2. Trend (tìm giá trị mới); 3. Biến thành Câu hỏi tập trung hành động mỗi ngày."
     }
   ]
 }

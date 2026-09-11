@@ -6,180 +6,180 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Theo quan điểm của Robin Sharma về thành công, yếu tố nào sau đây đóng vai trò là 'động cơ' duy trì kỷ luật cá nhân trong dài hạn?",
+      "question": "Theo quan điểm của Robin Sharma, yếu tố nào đóng vai trò là động cơ cốt lõi giúp duy trì kỷ luật cá nhân trong dài hạn?",
       "options": [
-        "Sự tích lũy tài sản và vị thế xã hội",
-        "Việc theo đuổi những ước mơ vĩ đại",
-        "Sự ổn định và an toàn trong sự nghiệp",
-        "Sự công nhận từ những người xung quanh"
+        "Việc theo đuổi những ước mơ vĩ đại giúp đánh thức tâm hồn và tạo ra nguồn hy vọng mạnh mẽ để bắt đầu mỗi ngày mới.",
+        "Sự tích lũy tài sản và vị thế xã hội cao trong cộng đồng là mục tiêu tối thượng để khẳng định giá trị bản thân mình.",
+        "Sự ổn định và an toàn trong sự nghiệp giúp cá nhân tránh được những rủi ro không đáng có trên con đường phát triển.",
+        "Sự công nhận từ những người xung quanh là thước đo quan trọng nhất để đánh giá mức độ thành công của một cá nhân."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả nhấn mạnh ước mơ là thứ 'đánh thức ta dậy sớm' và đong đầy hy vọng, chuyển hóa từ sự ép buộc sang động lực tự thân."
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh ước mơ là thứ đánh thức ta dậy sớm và đong đầy hy vọng, chuyển hóa từ sự ép buộc sang động lực tự thân."
     },
     {
       "id": "q2",
-      "question": "Tại sao tác giả lại nhấn mạnh 'quá trình' quan trọng hơn 'kết quả' trong định nghĩa về thành công?",
+      "question": "Tại sao tác giả lại khẳng định 'quá trình' tạo nên cuộc sống quan trọng hơn nhiều so với kết quả cuối cùng đạt được?",
       "options": [
-        "Vì kết quả là thứ không thể kiểm soát được",
-        "Vì thành công thực sự nằm ở cách ta sống và trải nghiệm mỗi ngày",
-        "Vì tập trung vào kết quả dễ dẫn đến thất bại",
-        "Vì quá trình là nơi ta che giấu khuyết điểm bản thân"
+        "Vì kết quả là thứ không thể kiểm soát được bởi các yếu tố ngoại cảnh nên không thể dùng để đánh giá năng lực cá nhân.",
+        "Vì thành công thực sự nằm ở cách ta sống, trải nghiệm và kiến tạo giá trị thông qua hành động mỗi ngày trên hành trình.",
+        "Vì tập trung quá mức vào kết quả dễ dẫn đến sự thất bại trong việc duy trì các mối quan hệ xã hội quan trọng hiện nay.",
+        "Vì quá trình là nơi ta có thể che giấu những khuyết điểm bản thân để xây dựng hình ảnh hoàn hảo trong mắt mọi người."
       ],
       "correctIndex": 1,
       "explanation": "Tư duy lãnh đạo tập trung vào việc kiến tạo cuộc đời thông qua hành động hàng ngày, thay vì chỉ chăm chăm vào đích đến ngắn hạn."
     },
     {
       "id": "q3",
-      "question": "Lời khuyên của Mark Twain về việc 'quẳng dây neo' ám chỉ điều gì trong phát triển bản thân?",
+      "question": "Lời khuyên của Mark Twain về việc 'quẳng dây neo' ám chỉ điều gì trong hành trình phát triển bản thân của mỗi người?",
       "options": [
-        "Từ bỏ những mối quan hệ gia đình",
-        "Phá bỏ những ràng buộc tâm lý và sự an toàn ảo",
-        "Thay đổi công việc liên tục để tìm cảm hứng",
-        "Phủ nhận quá khứ và kinh nghiệm cá nhân"
+        "Từ bỏ hoàn toàn những mối quan hệ gia đình và bạn bè thân thiết để tập trung toàn bộ thời gian cho sự nghiệp cá nhân.",
+        "Thay đổi công việc liên tục để tìm kiếm cảm hứng mới và tránh sự nhàm chán trong môi trường làm việc chuyên nghiệp.",
+        "Phá bỏ những ràng buộc tâm lý, nỗi sợ hãi và sự an toàn ảo để dám dấn thân khám phá những tiềm năng mới của bản thân.",
+        "Phủ nhận hoàn toàn quá khứ và những kinh nghiệm cá nhân đã tích lũy để bắt đầu lại từ đầu với một tư duy mới mẻ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Dây neo là biểu tượng của vùng an toàn và nỗi sợ thay đổi. Để phát triển, người lãnh đạo phải dám từ bỏ sự ổn định để thám hiểm tiềm năng."
     },
     {
       "id": "q4",
-      "question": "Nếu một người đạt được mọi mục tiêu tài chính nhưng cảm thấy trống rỗng, theo logic của chương này, họ đã thiếu yếu tố nào?",
+      "question": "Nếu một người đạt được mọi mục tiêu tài chính nhưng cảm thấy trống rỗng, họ đã thiếu yếu tố nào theo logic của chương?",
       "options": [
-        "Sự phản ánh giá trị và niềm tin sâu xa của bản thân",
-        "Sự kiên nhẫn để chờ đợi thời cơ tiếp theo",
-        "Kỹ năng quản lý tài chính hiệu quả",
-        "Sự cạnh tranh gay gắt với đối thủ"
+        "Sự kiên nhẫn để chờ đợi thời cơ tiếp theo đến với mình thay vì cố gắng thúc đẩy mọi thứ diễn ra quá nhanh chóng hiện nay.",
+        "Kỹ năng quản lý tài chính hiệu quả để tối ưu hóa nguồn lực và gia tăng lợi nhuận bền vững cho các dự án trong tương lai.",
+        "Sự cạnh tranh gay gắt với đối thủ để khẳng định vị thế dẫn đầu trong ngành nghề mà bản thân đang theo đuổi và phát triển.",
+        "Sự phản ánh giá trị cốt lõi và niềm tin sâu xa của bản thân vào trong chính cuộc sống và công việc mà họ đang thực hiện."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanation": "Thành công theo tác giả đòi hỏi sự đồng nhất giữa cuộc sống bên ngoài và giá trị cốt lõi bên trong. Thiếu điều này là sự thành công bề ngoài nhưng thất bại bên trong."
     },
     {
       "id": "q5",
-      "question": "Theo góc nhìn của Robin Sharma, tại sao 'vui thú' lại là một phần của thành công?",
+      "question": "Theo góc nhìn của Robin Sharma, tại sao 'vui thú' lại là một thành phần không thể thiếu trong định nghĩa về thành công?",
       "options": [
-        "Vì vui thú giúp giảm bớt căng thẳng công việc",
-        "Vì ý nghĩa cuộc đời gắn liền với việc tận hưởng hành trình",
-        "Vì con người chỉ làm việc hiệu quả khi đang vui",
-        "Vì vui thú là đích đến cuối cùng của con người"
+        "Vì ý nghĩa cuộc đời gắn liền với việc tận hưởng hành trình sống, giúp con người duy trì sự hài lòng với chính bản thân.",
+        "Vì vui thú giúp giảm bớt căng thẳng công việc và tạo ra môi trường làm việc thoải mái cho tất cả các thành viên trong đội.",
+        "Vì con người chỉ làm việc hiệu quả khi đang cảm thấy vui vẻ và không bị áp lực bởi những mục tiêu quá lớn lao trong đời.",
+        "Vì vui thú là đích đến cuối cùng của con người sau khi đã hoàn thành mọi nghĩa vụ đối với gia đình và xã hội hiện nay."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự vui thú không phải là hưởng lạc thụ động, mà là sự hài lòng trong quá trình sống thật với chính mình, khiến hành trình trở nên có ý nghĩa."
     },
     {
       "id": "q6",
       "question": "Trong quản trị nhân sự, việc áp dụng triết lý 'thành công là sống thật với giá trị bản thân' giúp lãnh đạo điều gì?",
       "options": [
-        "Giảm thiểu rủi ro khi đưa ra quyết định sai lầm",
-        "Tạo ra văn hóa làm việc trung thực và truyền cảm hứng",
-        "Tăng cường quyền kiểm soát đối với nhân viên",
-        "Tối ưu hóa lợi nhuận trong ngắn hạn"
+        "Giảm thiểu rủi ro khi đưa ra các quyết định sai lầm trong kinh doanh nhờ vào sự minh bạch và thẳng thắn của người lãnh đạo.",
+        "Tạo ra văn hóa làm việc trung thực và truyền cảm hứng mạnh mẽ để nhân viên kết nối với giá trị cốt lõi của chính họ.",
+        "Tăng cường quyền kiểm soát đối với nhân viên thông qua việc thiết lập các tiêu chuẩn đạo đức khắt khe trong môi trường làm.",
+        "Tối ưu hóa lợi nhuận trong ngắn hạn bằng cách xây dựng hình ảnh cá nhân uy tín và đáng tin cậy đối với các đối tác lớn."
       ],
       "correctIndex": 1,
       "explanation": "Khi lãnh đạo sống thật với giá trị, họ trở thành hình mẫu, thúc đẩy nhân viên kết nối với giá trị của chính họ, tạo sự gắn kết bền vững."
     },
     {
       "id": "q7",
-      "question": "Sự 'hối tiếc' mà Mark Twain nhắc đến xuất phát từ đâu?",
+      "question": "Sự 'hối tiếc' mà Mark Twain nhắc đến trong câu nói nổi tiếng của ông xuất phát từ nguyên nhân chính nào sau đây?",
       "options": [
-        "Những quyết định sai lầm trong quá khứ",
-        "Sự thiếu hụt về tài chính",
-        "Việc lựa chọn sự an toàn thay vì mạo hiểm phát triển",
-        "Việc tin tưởng sai người"
+        "Những quyết định sai lầm trong quá khứ đã gây ra tổn thất lớn về mặt tài chính cho cá nhân và gia đình trong nhiều năm.",
+        "Sự thiếu hụt về nguồn lực tài chính khiến cá nhân không thể thực hiện được những dự định lớn lao đã đặt ra từ trước.",
+        "Việc lựa chọn sự an toàn, thụ động thay vì dám mạo hiểm để phát triển và khám phá những khả năng tiềm ẩn của bản thân.",
+        "Việc tin tưởng sai người dẫn đến những thất bại không đáng có trong các mối quan hệ hợp tác kinh doanh quan trọng hiện nay."
       ],
       "correctIndex": 2,
       "explanation": "Nỗi đau của việc 'không làm' (sợ hãi, thụ động) lớn hơn nỗi đau của việc thử và thất bại. Đây là cốt lõi của việc dám sống trọn vẹn."
     },
     {
       "id": "q8",
-      "question": "Khi đối mặt với rào cản thay đổi, tư duy của một người thực sự thành công là gì?",
+      "question": "Khi đối mặt với rào cản thay đổi, tư duy của một người thực sự thành công theo tinh thần bài đọc là gì?",
       "options": [
-        "Dừng lại để đánh giá lại năng lực",
-        "Chấp nhận rủi ro và tìm kiếm cơ hội từ sự không chắc chắn",
-        "Tìm kiếm sự hỗ trợ từ những người đã thành công",
-        "Kiên định giữ nguyên chiến lược cũ"
+        "Dừng lại để đánh giá kỹ lưỡng năng lực bản thân trước khi quyết định bước tiếp vào những lĩnh vực mới đầy rẫy khó khăn.",
+        "Tìm kiếm sự hỗ trợ từ những người đã thành công để đảm bảo rằng mọi bước đi đều nằm trong tầm kiểm soát an toàn nhất.",
+        "Kiên định giữ nguyên chiến lược cũ đã được kiểm chứng để tránh những sai lầm không đáng có trong quá trình thực hiện.",
+        "Chấp nhận rủi ro và chủ động tìm kiếm cơ hội từ sự không chắc chắn để thúc đẩy sự phát triển cá nhân lên tầm cao mới."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Thành công đòi hỏi sự linh hoạt và dũng cảm đối diện với sự không chắc chắn, thay vì co cụm trong những cách làm cũ đã quen thuộc."
     },
     {
       "id": "q9",
-      "question": "Sống thật với con người mình (theo bài đọc) có ý nghĩa như thế nào trong sự nghiệp?",
+      "question": "Sống thật với con người mình có ý nghĩa như thế nào trong sự nghiệp theo quan điểm của tác giả Robin Sharma?",
       "options": [
-        " Giúp ta xây dựng thương hiệu cá nhân giả tạo để thu hút",
-        "Giúp ta đưa ra các quyết định nhất quán với bản ngã thay vì chạy theo xu hướng",
-        "Giúp ta dễ dàng thỏa hiệp với đối tác",
-        "Giúp ta tránh được mọi sự chỉ trích từ cộng đồng"
+        "Giúp ta đưa ra các quyết định nhất quán với bản ngã thay vì chạy theo xu hướng đám đông để tìm kiếm sự công nhận tạm thời.",
+        "Giúp ta xây dựng thương hiệu cá nhân giả tạo để thu hút sự chú ý từ khách hàng và đối tác trong môi trường cạnh tranh.",
+        "Giúp ta dễ dàng thỏa hiệp với đối tác để đạt được những mục tiêu kinh doanh nhanh chóng mà không cần phải tranh luận nhiều.",
+        "Giúp ta tránh được mọi sự chỉ trích từ cộng đồng bằng cách luôn giữ thái độ hòa nhã và đồng thuận với mọi ý kiến trái."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự nhất quán (integrity) giữa nội tâm và hành động tạo ra sức mạnh nội lực và niềm tin, vốn là nền tảng của lãnh đạo."
     },
     {
       "id": "q10",
-      "question": "Tại sao lại nói 'đời ngắn' lại là một lời nhắc nhở để sống thành công?",
+      "question": "Tại sao việc nhận thức 'đời ngắn' lại là một lời nhắc nhở quan trọng để sống thành công theo tinh thần bài đọc?",
       "options": [
-        "Vì thời gian hạn hẹp nên cần kiếm tiền nhanh",
-        "Vì thời gian là nguồn lực khan hiếm để thực hiện sứ mệnh cá nhân",
-        "Vì đời ngắn nên không cần quan tâm đến kết quả",
-        "Vì chúng ta nên dành thời gian cho bản thân thay vì người khác"
+        "Vì thời gian hạn hẹp nên cần phải kiếm tiền thật nhanh để tận hưởng cuộc sống trước khi quá muộn đối với mỗi cá nhân.",
+        "Vì thời gian là nguồn lực khan hiếm để thực hiện sứ mệnh cá nhân, buộc ta phải ưu tiên những điều thực sự có ý nghĩa.",
+        "Vì đời ngắn nên không cần quan tâm đến kết quả cuối cùng mà chỉ cần tập trung vào việc làm những gì mình thích nhất.",
+        "Vì chúng ta nên dành thời gian cho bản thân thay vì người khác để đảm bảo sự hạnh phúc cá nhân được ưu tiên hàng đầu."
       ],
       "correctIndex": 1,
       "explanation": "Tính hữu hạn của cuộc đời là áp lực tích cực để chúng ta ưu tiên những điều quan trọng thay vì lãng phí vào sự sợ hãi hay trì hoãn."
     },
     {
       "id": "q11",
-      "question": "Một người đang trong vùng an toàn (comfort zone) sẽ cảm thấy thế nào về định nghĩa thành công trong bài đọc?",
+      "question": "Một người đang trong vùng an toàn sẽ cảm thấy thế nào về định nghĩa thành công mà tác giả đã nêu trong bài đọc?",
       "options": [
-        "Họ cảm thấy an tâm vì sự thành công đó là bền vững",
-        "Họ cảm thấy bị đe dọa bởi sự cần thiết phải 'dong buồm xa bến đỗ'",
-        "Họ cảm thấy thành công là điều quá dễ dàng",
-        "Họ thấy mình đã thành công hoàn hảo"
+        "Họ cảm thấy an tâm vì sự thành công đó là bền vững và không đòi hỏi quá nhiều sự thay đổi trong cách sống hiện tại.",
+        "Họ cảm thấy thành công là điều quá dễ dàng để đạt được nếu chỉ cần tuân thủ các quy tắc thông thường trong xã hội.",
+        "Họ cảm thấy bị đe dọa bởi sự cần thiết phải dong buồm xa bến đỗ an lành để đối mặt với những thử thách mới đầy rủi ro.",
+        "Họ thấy mình đã thành công hoàn hảo vì đã duy trì được sự ổn định và tránh xa mọi rắc rối không cần thiết trong đời."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Vùng an toàn tạo ra ảo tưởng về thành công. Việc 'dong buồm' đòi hỏi vượt qua nỗi sợ hãi, vốn là phản ứng tâm lý bình thường của con người."
     },
     {
       "id": "q12",
-      "question": "Đâu là biểu hiện của tư duy 'người vượt trội' khi theo đuổi ước mơ?",
+      "question": "Đâu là biểu hiện của tư duy người vượt trội khi theo đuổi ước mơ vĩ đại của mình theo tinh thần của chương sách?",
       "options": [
-        "Luôn tìm kiếm con đường nhanh nhất, ít trở ngại nhất",
-        "Chấp nhận sự khó khăn như một phần tất yếu của quá trình rèn luyện",
-        "Ưu tiên sự công nhận của xã hội hơn niềm hạnh phúc cá nhân",
-        "Thành công chỉ khi mọi ước mơ đều trở thành hiện thực"
+        "Luôn tìm kiếm con đường nhanh nhất và ít trở ngại nhất để đạt được mục tiêu mà không phải tốn quá nhiều công sức làm.",
+        "Ưu tiên sự công nhận của xã hội hơn niềm hạnh phúc cá nhân để khẳng định vị thế của mình trong mắt mọi người xung quanh.",
+        "Thành công chỉ được coi là đạt được khi mọi ước mơ đều trở thành hiện thực một cách hoàn hảo và không có sai sót nào.",
+        "Chấp nhận sự khó khăn như một phần tất yếu của quá trình rèn luyện để phát triển bản thân và đạt tới đỉnh cao mới."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Người vượt trội hiểu rằng bản chất của quá trình là sự rèn luyện, và sự kháng cự từ khó khăn là minh chứng cho việc họ đang phát triển."
     },
     {
       "id": "q13",
-      "question": "Điều gì ngăn cản một cá nhân thực hiện định nghĩa thành công này?",
+      "question": "Điều gì là rào cản lớn nhất ngăn cản một cá nhân thực hiện định nghĩa thành công theo quan điểm của Robin Sharma?",
       "options": [
-        "Thiếu điều kiện kinh tế",
-        "Sự sợ hãi về việc rời bỏ cái quen thuộc và nỗi sợ bị phán xét",
-        "Thiếu sự hướng dẫn của người cố vấn",
-        "Sự cạnh tranh từ xã hội"
+        "Sự sợ hãi về việc rời bỏ cái quen thuộc và nỗi sợ bị phán xét khi dám sống khác biệt với những chuẩn mực thông thường.",
+        "Thiếu điều kiện kinh tế để đầu tư vào các dự án cá nhân nhằm hiện thực hóa những ước mơ vĩ đại đã đặt ra từ trước.",
+        "Thiếu sự hướng dẫn của người cố vấn giàu kinh nghiệm để chỉ dẫn con đường đi đúng đắn nhất trong sự nghiệp của mình.",
+        "Sự cạnh tranh từ xã hội quá khốc liệt khiến cá nhân cảm thấy nản lòng và muốn từ bỏ những mục tiêu cao cả của bản thân."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Phần lớn sự trì trệ nằm ở tâm lý sợ hãi (nỗi sợ thay đổi) chứ không phải do thiếu nguồn lực bên ngoài."
     },
     {
       "id": "q14",
-      "question": "Sự đánh đổi trong triết lý của tác giả là gì?",
+      "question": "Sự đánh đổi cần thiết trong triết lý thành công của tác giả để đạt được sự viên mãn dài hạn là gì?",
       "options": [
-        "Đánh đổi thời gian cá nhân lấy thu nhập ngắn hạn",
-        "Đánh đổi sự an toàn hiện tại lấy sự tự do và viên mãn dài hạn",
-        "Đánh đổi các mối quan hệ lấy sự nghiệp cá nhân",
-        "Đánh đổi sự trung thực lấy kết quả công việc"
+        "Đánh đổi thời gian cá nhân lấy thu nhập ngắn hạn để đảm bảo sự ổn định tài chính cho gia đình trong tương lai gần nhất.",
+        "Đánh đổi sự an toàn hiện tại lấy sự tự do và viên mãn dài hạn thông qua việc dám dấn thân vào những thử thách mới.",
+        "Đánh đổi các mối quan hệ lấy sự nghiệp cá nhân để tập trung toàn bộ nguồn lực cho việc đạt được những mục tiêu lớn.",
+        "Đánh đổi sự trung thực lấy kết quả công việc để nhanh chóng đạt được vị thế cao trong tổ chức mà mình đang làm việc."
       ],
       "correctIndex": 1,
       "explanation": "Lãnh đạo vĩ đại hiểu rõ cái giá của sự an toàn là sự tầm thường. Họ chấp nhận sự không chắc chắn để đổi lại sự tăng trưởng bền vững."
     },
     {
       "id": "q15",
-      "question": "Nếu phải chọn một từ khóa mô tả 'Thành công' theo Robin Sharma, từ đó là gì?",
+      "question": "Nếu phải chọn một từ khóa mô tả chính xác nhất về 'Thành công' theo Robin Sharma, từ đó là gì?",
       "options": [
-        "Đích đến",
-        "Sứ mệnh",
-        "Hành trình",
-        "Tài sản"
+        "Đích đến, vì đó là kết quả cuối cùng mà mọi cá nhân đều khao khát đạt được sau những nỗ lực không ngừng nghỉ trong đời.",
+        "Sứ mệnh, vì đó là lý do tồn tại của mỗi người và là động lực để họ vượt qua mọi khó khăn trong công việc và cuộc.",
+        "Hành trình, vì đó là quá trình ta vận hành cuộc sống hàng ngày theo giá trị bản thân thay vì chỉ tập trung vào đích đến.",
+        "Tài sản, vì đó là thước đo khách quan nhất để đánh giá mức độ thành công của một cá nhân trong xã hội hiện đại ngày."
       ],
       "correctIndex": 2,
       "explanation": "Tác giả nhấn mạnh 'quá trình' và 'hành trình'. Thành công không phải là điểm cuối, mà là cách ta vận hành cuộc sống hàng ngày theo giá trị của mình."

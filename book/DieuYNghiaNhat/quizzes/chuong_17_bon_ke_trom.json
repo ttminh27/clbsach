@@ -6,198 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Kết quả từ 'Thí nghiệm người làm phúc' (Good Samaritan experiment, 1973) tại trường dòng Princeton mang lại bài học sâu sắc nào về hành vi con người khi chịu áp lực?",
+      "question": "Kết quả từ 'Thí nghiệm người làm phúc' (1973) tại trường dòng Princeton mang lại bài học gì về hành vi con người?",
       "options": [
-        "Ý định tốt đẹp nhất và đạo đức cá nhân có thể dễ dàng bị bẻ gãy khi con người bị đẩy vào tình thế vội vã và chịu áp lực thời gian; 90% sinh viên vội vã đã bước qua người gặp nạn.",
-        "Các sinh viên thần học hoàn toàn không có lòng trắc ẩn đối với người lạ mặt trên đường phố.",
-        "Mọi người luôn sẵn sàng dừng lại giúp đỡ người khác bất kể họ đang bận rộn đến mức nào.",
-        "Thời gian hoàn toàn không có bất kỳ ảnh hưởng nào đến các quyết định đạo đức của con người."
+        "Áp lực thời gian khiến 90% sinh viên vội vã bước qua người gặp nạn, cho thấy ý định tốt đẹp dễ bị bẻ gãy bởi sự hối thúc.",
+        "Các sinh viên thần học thiếu lòng trắc ẩn tự nhiên, dẫn đến việc họ thờ ơ với người lạ mặt đang gặp nạn trên đường phố.",
+        "Mọi người luôn sẵn sàng dừng lại giúp đỡ người khác bất kể họ đang bận rộn đến mức nào nếu họ có đạo đức tốt đẹp.",
+        "Thời gian không có bất kỳ ảnh hưởng nào đến các quyết định đạo đức vì con người luôn ưu tiên giúp đỡ người gặp nạn."
       ],
       "correctIndex": 0,
-      "explanation": "Thí nghiệm chứng minh một sự thật chấn động: Dù đang chuẩn bị bài giảng về lòng nhân ái, nhưng khi bị hối thúc về thời gian, 90% sinh viên đã vội vã bước qua người bị nạn. Áp lực thời gian và sự thiếu kiểm soát ưu tiên biến những ý định tốt đẹp nhất thành con số không.",
-      "difficulty": "medium"
+      "explanation": "Thí nghiệm chứng minh áp lực thời gian là yếu tố quyết định khiến những người có ý định tốt cũng bỏ qua việc giúp đỡ người khác."
     },
     {
       "id": "q2",
-      "question": "Khi Steve Jobs cắt giảm danh mục của Apple từ 350 sản phẩm xuống còn đúng 10 sản phẩm vào năm 1997, triết lý 'Tập trung là nói không' của ông phản ánh nguyên lý kinh tế học nào?",
+      "question": "Khi Steve Jobs cắt giảm danh mục sản phẩm của Apple năm 1997, triết lý 'Tập trung là nói không' phản ánh nguyên lý nào?",
       "options": [
-        "Giảm giá thành sản xuất để cạnh tranh với các đối thủ giá rẻ từ châu Á.",
-        "Nói có với tất cả mọi cơ hội đồng nghĩa với việc phân tán nguồn lực; mỗi sản phẩm bổ sung sẽ bào mòn chất lượng của những sản phẩm then chốt còn lại.",
-        "Apple muốn chuyển dịch hoàn toàn từ mảng phần cứng sang dịch vụ phần mềm.",
-        "Doanh nghiệp chỉ nên phục vụ một phân khúc khách hàng duy nhất trong suốt vòng đời của mình."
+        "Apple muốn giảm giá thành sản xuất để cạnh tranh với các đối thủ giá rẻ bằng cách tối ưu hóa quy trình lắp ráp nhanh.",
+        "Nói có với tất cả cơ hội sẽ phân tán nguồn lực, khiến mỗi sản phẩm bổ sung bào mòn chất lượng của những thứ then chốt.",
+        "Doanh nghiệp chỉ nên phục vụ một phân khúc khách hàng duy nhất trong suốt vòng đời để duy trì sự ổn định của thương hiệu.",
+        "Việc cắt giảm sản phẩm giúp công ty chuyển dịch hoàn toàn từ mảng phần cứng sang các dịch vụ phần mềm trực tuyến mới."
       ],
       "correctIndex": 1,
-      "explanation": "Steve Jobs khẳng định tại MacWorld 1997: 'Khi nghĩ về sự tập trung, bạn nghĩ rằng tập trung là nói có. Không! Tập trung là nói không.' Nói có với một điều cốt lõi đòi hỏi phải nói không với hàng trăm điều hấp dẫn khác; càng ôm đồm nhiều sản phẩm, sự xuất chúng càng bị pha loãng.",
-      "difficulty": "hard"
+      "explanation": "Tập trung đòi hỏi sự dũng cảm để từ chối những điều tốt nhằm đạt được những điều xuất chúng bằng nguồn lực hữu hạn."
     },
     {
       "id": "q3",
-      "question": "Theo Seth Godin, cái bẫy tâm lý nguy hiểm nhất khiến con người không thể nói 'Không' trước các yêu cầu từ bên ngoài là gì?",
+      "question": "Theo Seth Godin, cái bẫy tâm lý nguy hiểm nhất khiến con người không thể nói 'Không' trước các yêu cầu là gì?",
       "options": [
-        "Vì họ thực sự có thừa thời gian rảnh rỗi và muốn tìm kiếm niềm vui trong công việc thứ yếu.",
-        "Vì họ muốn tích lũy mối quan hệ để phục vụ cho các chiến dịch bầu cử tương lai.",
-        "Họ nói 'Có' chỉ vì không chịu đựng được cảm giác khó chịu và áy náy tạm thời khi phải nói 'Không', để rồi phải trả giá bằng sự kiệt quệ năng suất dài hạn.",
-        "Vì luật pháp quy định nhân viên bắt buộc phải đồng ý với mọi yêu cầu từ đồng nghiệp."
+        "Họ thực sự có thừa thời gian rảnh rỗi và muốn tìm kiếm niềm vui trong việc hỗ trợ các công việc thứ yếu của đồng nghiệp.",
+        "Họ muốn tích lũy các mối quan hệ xã hội để phục vụ cho các chiến dịch thăng tiến hoặc bầu cử trong tương lai gần.",
+        "Họ nói có vì không chịu đựng được cảm giác khó chịu tạm thời khi từ chối, dẫn đến sự kiệt quệ năng suất dài hạn sau đó.",
+        "Luật pháp quy định nhân viên bắt buộc phải đồng ý với mọi yêu cầu từ đồng nghiệp để duy trì văn hóa làm việc nhóm."
       ],
       "correctIndex": 2,
-      "explanation": "Seth Godin nhấn mạnh: 'Nói có vì bạn không thể chịu đựng được sự khó chịu tạm thời của việc nói không sẽ không giúp bạn làm việc hiệu quả.' Nhiều người sợ cảm giác nhẫn tâm hoặc bị coi là ích kỷ trong vài giây, nên đã đem đánh đổi hàng giờ làm việc quý giá của khối thời gian Điều Quan Trọng Nhất.",
-      "difficulty": "medium"
+      "explanation": "Sự khó chịu tạm thời khi từ chối là cái giá nhỏ để bảo vệ thời gian cho những mục tiêu quan trọng nhất của bản thân."
     },
     {
       "id": "q4",
-      "question": "Chiến lược 'Nói có có đòn bẩy' (Leveraged Yes) và 'Quy tắc 1m' của Gary Keller giúp người bận rộn giải quyết mâu thuẫn giữa việc bảo vệ thời gian và hỗ trợ người khác như thế nào?",
+      "question": "Chiến thuật 'Nói có có đòn bẩy' và 'Quy tắc 1m' giúp người bận rộn giải quyết mâu thuẫn thời gian như thế nào?",
       "options": [
-        "Bỏ qua mọi yêu cầu và khóa trái cửa văn phòng trong toàn bộ giờ làm việc.",
-        "Chỉ giúp đỡ những người có chức vụ cao hơn mình trong tổ chức.",
-        "Thuê một thư ký riêng để thay bạn nói những lời từ chối thô lỗ với người xung quanh.",
-        "Xây dựng tài liệu hướng dẫn, bảng câu hỏi FAQ thường gặp, video đào tạo định kỳ để mọi người tự tìm câu trả lời mà không cần làm gián đoạn khối thời gian tập trung của bạn."
+        "Bỏ qua mọi yêu cầu từ bên ngoài và khóa trái cửa văn phòng trong toàn bộ giờ làm việc để đảm bảo sự tập trung tuyệt đối.",
+        "Chỉ giúp đỡ những người có chức vụ cao hơn mình trong tổ chức để đảm bảo sự thăng tiến và quyền lợi cá nhân sau này.",
+        "Thuê một thư ký riêng để thay bạn nói những lời từ chối thô lỗ với người xung quanh nhằm bảo vệ thời gian cá nhân.",
+        "Xây dựng tài liệu hướng dẫn, bảng câu hỏi FAQ và video đào tạo để mọi người tự giải quyết mà không làm gián đoạn bạn."
       ],
       "correctIndex": 3,
-      "explanation": "Gary Keller dùng 'quy tắc 1m' để từ chối các việc không thuộc Điều Quan Trọng Nhất. Khi cần giúp đỡ, thay vì trực tiếp bỏ thời gian ra xử lý từng vụ việc lắt nhắt, ông 'nói có có đòn bẩy' bằng cách tạo thư viện kịch bản, tài liệu mẫu, FAQ và tổ chức đào tạo tập trung để mọi người tự chủ giải quyết vấn đề.",
-      "difficulty": "hard"
+      "explanation": "Sử dụng các công cụ hỗ trợ là cách thông minh để nói có với việc giúp đỡ mà vẫn bảo vệ được khối thời gian tập trung."
     },
     {
       "id": "q5",
-      "question": "Vì sao Gary Keller khẳng định 'Sự xáo trộn' (Chaos) là một phần tất yếu của gói thỏa thuận khi bạn dồn toàn lực theo đuổi Điều Quan Trọng Nhất?",
+      "question": "Vì sao Gary Keller khẳng định 'Sự xáo trộn' là một phần tất yếu khi bạn dồn toàn lực theo đuổi Điều Quan Trọng Nhất?",
       "options": [
-        "Vì khi bạn dành lượng thời gian không cân xứng cho việc quan trọng nhất, thế giới xung quanh không dừng lại; các công việc thứ yếu, giấy tờ và email tồn đọng sẽ tự động tích tụ.",
-        "Vì người làm việc hiệu quả luôn có xu hướng thích sống trong môi trường hỗn độn.",
-        "Vì các phần mềm quản lý công việc hiện đại luôn tạo ra sự hỗn loạn hệ thống.",
-        "Vì sự hỗn loạn là điều kiện bắt buộc để kích hoạt khả năng sáng tạo nghệ thuật."
+        "Khi bạn dành thời gian cho việc quan trọng nhất, các công việc thứ yếu sẽ tích tụ và tạo ra sự hỗn loạn không tránh khỏi.",
+        "Người làm việc hiệu quả cao luôn có xu hướng thích sống trong môi trường hỗn độn để kích thích tư duy sáng tạo đột phá.",
+        "Các phần mềm quản lý công việc hiện đại luôn tạo ra sự hỗn loạn hệ thống khi người dùng cố gắng tối ưu hóa quy trình.",
+        "Sự hỗn loạn là điều kiện bắt buộc để kích hoạt khả năng sáng tạo nghệ thuật trong các dự án có quy mô lớn và phức tạp."
       ],
       "correctIndex": 0,
-      "explanation": "Đạo diễn Francis Ford Coppola từng nói: 'Bất cứ điều gì bạn xây dựng với quy mô lớn hoặc niềm đam mê mãnh liệt sẽ gây ra sự hỗn loạn.' Khi bạn tập trung vào điều quan trọng nhất, những việc kém quan trọng hơn chắc chắn không được làm và dồn ứ lại. Vấn đề không phải là chống lại sự xáo trộn, mà là học cách chấp nhận và chung sống với nó.",
-      "difficulty": "medium"
+      "explanation": "Sự xáo trộn là hệ quả tự nhiên khi bạn ưu tiên một việc và bỏ qua những việc khác, cần học cách chấp nhận thay vì chống lại."
     },
     {
       "id": "q6",
-      "question": "Lời đúc kết của triết gia William James: 'Nghệ thuật của sự khôn ngoan là nghệ thuật biết cách bỏ qua' giúp giải quyết nỗi sợ hãi nào của kẻ trộm thứ hai?",
+      "question": "Lời đúc kết 'Nghệ thuật của sự khôn ngoan là nghệ thuật biết cách bỏ qua' giúp giải quyết nỗi sợ hãi nào?",
       "options": [
-        "Nỗi sợ thất bại trong các kỳ thi chuyên môn định kỳ.",
+        "Nỗi sợ hãi khi phải đối mặt với các đối thủ cạnh tranh trực tiếp trên thị trường trong các kỳ thi chuyên môn định kỳ.",
         "Nỗi ám ảnh cầu toàn muốn dọn dẹp sạch sẽ mọi việc vặt vãnh xung quanh trước khi an tâm bắt tay vào việc lớn cốt lõi.",
-        "Nỗi sợ hãi khi phải đối mặt với đối thủ cạnh tranh trên thị trường.",
-        "Sự lo âu về việc bị đánh cắp tài sản trí tuệ trong công ty."
+        "Sự lo âu về việc bị đánh cắp tài sản trí tuệ trong công ty khi phải chia sẻ thông tin với các đồng nghiệp xung quanh.",
+        "Nỗi sợ thất bại trong các kỳ thi chuyên môn định kỳ khiến con người không dám tập trung vào mục tiêu dài hạn của mình."
       ],
       "correctIndex": 1,
-      "explanation": "Nhiều người bị kẻ trộm 'Sợ sự xáo trộn' móc túi hiệu suất vì họ không chịu nổi việc nhìn thấy bàn làm việc lộn xộn, hòm thư chưa đọc hay việc nhà chưa làm. Biết cách bỏ qua là sự khôn ngoan chấp nhận sự chưa hoàn hảo ở việc thứ yếu để dồn trọn tâm trí cho điều tạo nên bước ngoặt cuộc đời.",
-      "difficulty": "medium"
+      "explanation": "Biết cách bỏ qua những việc không quan trọng là chìa khóa để duy trì sự tập trung vào điều tạo nên bước ngoặt cuộc đời."
     },
     {
       "id": "q7",
-      "question": "Đối với những người có hoàn cảnh phức tạp (như cha mẹ đơn thân, người có thân nhân cần chăm sóc), cuốn sách chỉ ra giải pháp nào để ngăn ô thời gian mà KHÔNG rơi vào tâm lý nạn nhân?",
+      "question": "Đối với những người có hoàn cảnh phức tạp, cuốn sách chỉ ra giải pháp nào để ngăn ô thời gian mà không rơi vào tâm lý nạn nhân?",
       "options": [
-        "Tự an ủi rằng hoàn cảnh của mình không thể áp dụng được phương pháp The ONE Thing.",
-        "Chờ đợi đến khi con cái trưởng thành hoặc mọi gánh nặng gia đình tự biến mất mới bắt đầu hành động.",
-        "Chủ động sáng tạo: trao đổi khối thời gian với người khác, thương lượng với người thân để cùng bảo vệ thời gian của nhau, kiên quyết tìm ra giải pháp thay vì chấp nhận bất lực.",
-        "Từ bỏ hoàn toàn trách nhiệm chăm sóc gia đình để cống hiến cho sự nghiệp cá nhân."
+        "Tự an ủi rằng hoàn cảnh của mình không thể áp dụng được phương pháp tập trung vì gánh nặng gia đình là quá lớn lao.",
+        "Chờ đợi đến khi con cái trưởng thành hoặc mọi gánh nặng gia đình tự biến mất mới bắt đầu hành động cho sự nghiệp.",
+        "Chủ động sáng tạo: trao đổi thời gian với người khác, thương lượng với người thân để cùng bảo vệ thời gian của nhau.",
+        "Từ bỏ hoàn toàn trách nhiệm chăm sóc gia đình để cống hiến toàn bộ thời gian cho sự nghiệp cá nhân và thành công."
       ],
       "correctIndex": 2,
-      "explanation": "Keller khuyên: 'Tùy hoàn cảnh, khối thời gian có thể khác nhau... Bạn có thể trao đổi thời gian với người khác để họ bảo vệ khối thời gian của bạn và ngược lại. Nếu cần cầu xin, hãy cầu xin. Nếu phải trao đổi, hãy trao đổi. Đừng hy sinh thời gian bởi suy nghĩ tôi không thể làm được.' Đó là thái độ làm chủ cuộc sống.",
-      "difficulty": "medium"
+      "explanation": "Thay vì đóng vai nạn nhân, hãy tìm cách thương lượng và sáng tạo để bảo vệ thời gian cho mục tiêu quan trọng nhất."
     },
     {
       "id": "q8",
-      "question": "Theo phân tích của tác giả, tại sao việc 'đánh đổi sức khỏe để lấy thành công công việc' (thức khuya, bỏ bữa, lười vận động) lại là một 'canh bạc nắm chắc phần thua'?",
+      "question": "Tại sao việc đánh đổi sức khỏe để lấy thành công công việc lại là một canh bạc nắm chắc phần thua?",
       "options": [
-        "Vì chi phí khám chữa bệnh ở các bệnh viện tư nhân hiện nay quá đắt đỏ.",
-        "Vì thức khuya làm tăng chi phí tiền điện của gia đình bạn.",
-        "Vì làm việc ban đêm luôn bị các chuyên gia y tế xử phạt hành chính.",
-        "Vì cơ thể con người là một cỗ máy sinh học không thể tùy tiện tháo lắp hay thay thế phụ tùng; và sức khỏe hay gia đình sẽ không chờ đợi bạn mãi mãi cho đến khi bạn thành công."
+        "Chi phí khám chữa bệnh ở các bệnh viện tư nhân hiện nay quá đắt đỏ, làm tiêu tốn toàn bộ lợi nhuận từ công việc của bạn.",
+        "Thức khuya làm tăng chi phí tiền điện của gia đình và gây ra những tranh cãi không đáng có với những người thân yêu.",
+        "Làm việc ban đêm luôn bị các chuyên gia y tế xử phạt hành chính vì vi phạm các quy định về an toàn lao động cơ bản.",
+        "Cơ thể là cỗ máy sinh học không thể thay thế; sức khỏe hay gia đình sẽ không chờ đợi bạn mãi cho đến khi thành công."
       ],
       "correctIndex": 3,
-      "explanation": "Khi cố ôm đồm, con người thường thực hiện một cuộc thương lượng bất lợi: hy sinh sức khỏe và gia đình, ảo tưởng rằng chúng sẽ kiên nhẫn chờ mình quay lại. Keller cảnh báo đây là canh bạc nắm chắc phần thua, bởi khi năng lượng thể chất suy sụp, toàn bộ các thành tựu sự nghiệp cũng sẽ sụp đổ theo.",
-      "difficulty": "easy"
+      "explanation": "Sức khỏe là nền tảng của mọi thành tựu, hy sinh nó để đổi lấy thành công là một sự đánh đổi không bao giờ bền vững."
     },
     {
       "id": "q9",
-      "question": "Trong 'Kế hoạch năng lượng hằng ngày' của một người làm việc hiệu quả cao, 4 nguồn năng lượng được sắp xếp theo chuỗi kích hoạt nào?",
+      "question": "Trong 'Kế hoạch năng lượng hằng ngày' của người hiệu quả cao, 4 nguồn năng lượng được sắp xếp theo chuỗi nào?",
       "options": [
-        "1. Năng lượng thể chất (dinh dưỡng, tập luyện, giấc ngủ) -> 2. Năng lượng cảm xúc (kết nối người thân) -> 3. Năng lượng tinh thần (kế hoạch, mục tiêu) -> 4. Năng lượng kinh doanh (ngăn ô cho Điều Quan Trọng Nhất).",
-        "1. Năng lượng kinh doanh -> 2. Năng lượng thể chất -> 3. Năng lượng giải trí -> 4. Năng lượng xã hội.",
-        "1. Năng lượng tinh thần -> 2. Năng lượng tâm linh -> 3. Năng lượng tài chính -> 4. Năng lượng gia đình.",
-        "1. Năng lượng cảm xúc -> 2. Năng lượng đồng nghiệp -> 3. Năng lượng thể chất -> 4. Năng lượng nghỉ ngơi."
+        "Thể chất (dinh dưỡng, tập luyện, ngủ) -> Cảm xúc (kết nối người thân) -> Tinh thần (mục tiêu) -> Kinh doanh (ngăn ô).",
+        "Năng lượng kinh doanh -> Năng lượng thể chất -> Năng lượng giải trí -> Năng lượng xã hội để cân bằng cuộc sống cá nhân.",
+        "Năng lượng tinh thần -> Năng lượng tâm linh -> Năng lượng tài chính -> Năng lượng gia đình để đạt được sự thành công.",
+        "Năng lượng cảm xúc -> Năng lượng đồng nghiệp -> Năng lượng thể chất -> Năng lượng nghỉ ngơi để duy trì sự ổn định."
       ],
       "correctIndex": 0,
-      "explanation": "Kế hoạch năng lượng chuẩn xác trong sách: 1. Thể chất (ăn sáng dinh dưỡng, 10.000 bước/tập thể dục, ngủ 8 tiếng) -> 2. Cảm xúc (trò chuyện với người thân yêu) -> 3. Tinh thần (đặt mục tiêu, kế hoạch ngày) -> 4. Kinh doanh/Năng suất (ngăn ô cho Điều Ý Nghĩa Nhất).",
-      "difficulty": "medium"
+      "explanation": "Việc sắp xếp năng lượng từ thể chất đến tinh thần giúp tạo đà cho một ngày làm việc hiệu quả và bền bỉ nhất."
     },
     {
       "id": "q10",
-      "question": "Tại sao việc cơ cấu năng lượng và hoàn thành Điều Quan Trọng Nhất trong nửa đầu ngày (buổi sáng) lại là 'bí mật hiệu suất' tạo bước ngoặt cho toàn bộ ngày làm việc?",
+      "question": "Tại sao việc hoàn thành Điều Quan Trọng Nhất trong nửa đầu ngày lại là bí mật hiệu suất tạo bước ngoặt?",
       "options": [
-        "Vì buổi sáng nhiệt độ môi trường mát mẻ hơn buổi chiều.",
-        "Vì năng lượng tích cực tạo đà cho năng lượng tích cực; khi nửa đầu ngày thành công rực rỡ, bạn sẽ có được sự tự tin và bình an nội tâm để giải quyết phần còn lại của ngày một cách nhẹ nhàng.",
-        "Vì thị trường chứng khoán toàn cầu chỉ giao dịch sôi động vào các buổi sáng.",
-        "Vì các cơ quan nhà nước chỉ tiếp nhận hồ sơ hành chính vào buổi sáng."
+        "Buổi sáng nhiệt độ môi trường mát mẻ hơn buổi chiều, giúp não bộ hoạt động linh hoạt và sáng tạo hơn trong công việc.",
+        "Năng lượng tích cực tạo đà; khi nửa đầu ngày thành công, bạn có sự tự tin để giải quyết phần còn lại một cách nhẹ nhàng.",
+        "Thị trường chứng khoán toàn cầu chỉ giao dịch sôi động vào các buổi sáng, tạo cơ hội tốt nhất cho các nhà đầu tư.",
+        "Các cơ quan nhà nước chỉ tiếp nhận hồ sơ hành chính vào buổi sáng, buộc bạn phải hoàn thành công việc trước thời hạn."
       ],
       "correctIndex": 1,
-      "explanation": "Tác giả chỉ rõ bí mật: Khi bạn dành những giờ đầu tiên tiếp thêm sinh lực và giải quyết xong điều then chốt nhất, bạn đã nắm chắc chiến thắng trong ngày. Bạn không cần một ngày hoàn hảo ở mọi mặt, chỉ cần một khởi đầu tràn đầy sinh lực để tạo đà quán tính tâm lý cho cả ngày.",
-      "difficulty": "medium"
+      "explanation": "Khởi đầu ngày mới bằng việc hoàn thành điều quan trọng nhất tạo ra quán tính tâm lý tích cực cho cả ngày làm việc."
     },
     {
       "id": "q11",
-      "question": "Nghiên cứu của Christakis và Fowler (Đại học Harvard & UC San Diego) trong cuốn sách 'Connected' chỉ ra rằng nếu một người bạn thân bị béo phì, nguy cơ bạn cũng mắc béo phì tăng 57%. Phát hiện này chứng minh điều gì về môi trường xung quanh?",
+      "question": "Nghiên cứu về sự lây lan xã hội của Christakis và Fowler chứng minh điều gì về môi trường xung quanh?",
       "options": [
-        "Bệnh béo phì lây lan qua đường tiếp xúc không khí thông thường.",
-        "Tình bạn thân thiết luôn dẫn đến những thói quen chi tiêu ăn uống hoang phí.",
-        "Những người xung quanh chúng ta thiết lập nên các tiêu chuẩn vô thức về những gì được coi là 'phù hợp' hoặc 'chấp nhận được', từ đó âm thầm định hình thái độ, thói quen và hiệu suất của chúng ta.",
-        "Yếu tố di truyền học hoàn toàn không đóng vai trò gì trong sự phát triển thể chất của con người."
+        "Bệnh béo phì lây lan qua đường tiếp xúc không khí thông thường giữa những người bạn thân thiết trong cùng một môi trường.",
+        "Tình bạn thân thiết luôn dẫn đến những thói quen chi tiêu ăn uống hoang phí do áp lực từ các buổi tiệc tùng xã hội.",
+        "Những người xung quanh thiết lập tiêu chuẩn vô thức về sự phù hợp, từ đó âm thầm định hình thái độ và thói quen của bạn.",
+        "Yếu tố di truyền học hoàn toàn không đóng vai trò gì trong sự phát triển thể chất của con người trong xã hội hiện đại."
       ],
       "correctIndex": 2,
-      "explanation": "Christakis & Fowler chứng minh sự lây lan xã hội: Bạn bè và môi trường xung quanh trực tiếp định hình chuẩn mực hành vi của bạn. Nếu ở cạnh những người buông thả, bạn sẽ xem sự buông thả là bình thường. Ngược lại, chơi cùng những người khao khát thành công và có hiệu suất cao sẽ kéo tiêu chuẩn và thành tích của bạn lên theo.",
-      "difficulty": "hard"
+      "explanation": "Môi trường xã hội định hình chuẩn mực hành vi, vì vậy hãy chọn những người có tư duy thành công để nâng cao tiêu chuẩn bản thân."
     },
     {
       "id": "q12",
-      "question": "Ẩn dụ 'Đi trên lối đi đầy kẹo khi đang cố gắng giảm cân' phản ánh sự chi phối ghê gớm của kẻ trộm thứ tư (Môi trường) như thế nào?",
+      "question": "Ẩn dụ 'Đi trên lối đi đầy kẹo khi đang cố gắng giảm cân' phản ánh sự chi phối của môi trường như thế nào?",
       "options": [
-        "Kẹo ngọt là nguồn thực phẩm cần thiết để bổ sung năng lượng tức thời cho não bộ.",
-        "Ý chí con người là vô hạn và hoàn toàn có thể chiến thắng mọi cám dỗ vật lý xung quanh.",
-        "Người ăn kiêng chỉ nên đi mua sắm vào những khung giờ cửa hàng vắng khách.",
-        "Dù quyết tâm đến đâu, nếu bạn đặt mình vào một môi trường ngập tràn phiền nhiễu và cám dỗ, ý chí của bạn sẽ nhanh chóng bị bào mòn và sớm muộn bạn cũng sẽ thất bại."
+        "Kẹo ngọt là nguồn thực phẩm cần thiết để bổ sung năng lượng tức thời cho não bộ khi bạn đang trong quá trình giảm cân.",
+        "Ý chí con người là vô hạn và hoàn toàn có thể chiến thắng mọi cám dỗ vật lý xung quanh nếu bạn có mục tiêu rõ ràng.",
+        "Người ăn kiêng chỉ nên đi mua sắm vào những khung giờ cửa hàng vắng khách để tránh sự chú ý của những người xung quanh.",
+        "Dù quyết tâm đến đâu, nếu đặt mình vào môi trường ngập tràn cám dỗ, ý chí sẽ bị bào mòn và bạn sẽ sớm thất bại."
       ],
       "correctIndex": 3,
-      "explanation": "Keller nhấn mạnh: Nếu môi trường xung quanh có quá nhiều sự phiền nhiễu, trước khi kịp giúp mình thì bạn đã làm việc không nên làm. Giống như đi qua lối đi đầy kẹo, hầu hết chúng ta đều sẽ nhón tay lấy vài chiếc. Kiểm soát môi trường vật lý xung quanh hiệu quả hơn nhiều so với việc chỉ trông cậy vào ý chí trần trụi.",
-      "difficulty": "medium"
+      "explanation": "Kiểm soát môi trường hiệu quả hơn nhiều so với việc chỉ trông cậy vào ý chí trần trụi khi đối mặt với các cám dỗ."
     },
     {
       "id": "q13",
-      "question": "Chiến thuật 'Dọn đường thông thoáng' mỗi sáng của Gary Keller (tắt TV, không đọc báo sáng, bỏ qua email, không uống cà phê tán gẫu trước giờ tập trung) nhằm mục đích sống còn nào?",
+      "question": "Chiến thuật 'Dọn đường thông thoáng' mỗi sáng của Gary Keller nhằm mục đích sống còn nào?",
       "options": [
-        "Ngăn chặn mọi kích thích gây xao nhãng và bảo toàn năng lượng chú ý tinh khiết nhất cho đến khi bước vào ô thời gian làm Điều Quan Trọng Nhất.",
-        "Cách ly bản thân khỏi xã hội để tập trung vào suy nghĩ nội tâm.",
-        "Tiết kiệm chi phí mua báo giấy và tiền mua đồ uống mỗi sáng.",
-        "Chứng tỏ cho các đồng nghiệp thấy mình là người vô cùng nghiêm khắc và khó gần."
+        "Ngăn chặn mọi kích thích gây xao nhãng và bảo toàn năng lượng chú ý cho đến khi bước vào ô thời gian làm việc chính.",
+        "Cách ly bản thân hoàn toàn khỏi xã hội để tập trung vào suy nghĩ nội tâm sâu sắc mà không bị bất kỳ ai làm phiền.",
+        "Tiết kiệm chi phí mua báo giấy và tiền mua đồ uống mỗi sáng để đầu tư vào các dự án kinh doanh quan trọng khác.",
+        "Chứng tỏ cho các đồng nghiệp thấy mình là người vô cùng nghiêm khắc và khó gần để họ không làm phiền vào buổi sáng."
       ],
       "correctIndex": 0,
-      "explanation": "Những gì bạn nghe và thấy từ lúc chuông báo thức reo đến khi bắt đầu ô thời gian quyết định tâm thế của bạn. E-mail, thời sự sáng, chuyện phiếm... là những kẻ trộm đánh cắp năng lượng tinh thần. Dọn đường thông thoáng giúp bạn bước thẳng vào ô thời gian với năng lượng tập trung cao nhất.",
-      "difficulty": "medium"
+      "explanation": "Việc loại bỏ các yếu tố gây xao nhãng giúp bảo vệ năng lượng tinh thần cho những nhiệm vụ quan trọng nhất trong ngày."
     },
     {
       "id": "q14",
-      "question": "Tình huống: Một kỹ sư tài năng luôn nhiệt tình nhận lời giải quyết sự cố giúp các dự án của đồng nghiệp khác, khiến anh liên tục phải tăng ca và trễ hạn hoàn thành kiến trúc hệ sinh thái chính của công ty. Kẻ trộm hiệu suất nào đang chi phối trực tiếp kỹ sư này?",
+      "question": "Một kỹ sư liên tục giúp đỡ đồng nghiệp khiến dự án chính bị trễ hạn. Kẻ trộm nào đang chi phối anh ta?",
       "options": [
-        "Kẻ trộm thứ ba: Các thói quen có hại cho sức khỏe.",
-        "Kẻ trộm thứ nhất: Không có khả năng nói 'Không' do ảo tưởng muốn làm hài lòng mọi người và cảm giác thoải mái khi được người khác cần đến.",
-        "Kẻ trộm thứ tư: Môi trường thiết bị công nghệ của công ty quá cũ kỹ.",
-        "Kẻ trộm thứ hai: Sợ sự xáo trộn của phòng máy chủ máy tính."
+        "Kẻ trộm thứ ba: Các thói quen có hại cho sức khỏe do làm việc quá sức và không có thời gian nghỉ ngơi hợp lý hằng ngày.",
+        "Kẻ trộm thứ nhất: Không có khả năng nói 'Không' do ảo tưởng muốn làm hài lòng mọi người và cảm giác thoải mái khi được cần.",
+        "Kẻ trộm thứ tư: Môi trường thiết bị công nghệ của công ty quá cũ kỹ khiến anh ta mất nhiều thời gian để xử lý sự cố.",
+        "Kẻ trộm thứ hai: Sợ sự xáo trộn của phòng máy chủ máy tính nên anh ta phải tự tay can thiệp vào mọi vấn đề kỹ thuật."
       ],
       "correctIndex": 1,
-      "explanation": "Kỹ sư này là nạn nhân kinh điển của kẻ trộm 'Không có khả năng nói Không'. Mong muốn trở nên hữu ích và được người khác yêu mến mang lại cảm giác thỏa mãn ngắn hạn, nhưng nó âm thầm phá hủy mục tiêu cốt lõi của anh và gây thiệt hại lớn cho tổ chức vì dự án trọng yếu bị đình trệ.",
-      "difficulty": "medium"
+      "explanation": "Kỹ sư này đang ưu tiên sự hài lòng của người khác hơn là mục tiêu cốt lõi, đây là biểu hiện của việc không biết nói không."
     },
     {
       "id": "q15",
-      "question": "Câu nói nổi tiếng của danh hài Bill Cosby: 'Tôi không biết chìa khóa để thành công nhưng chìa khóa để thất bại là cố gắng làm hài lòng tất cả mọi người' mang lại bài học cảnh tỉnh nào cho người thực hành The ONE Thing?",
+      "question": "Câu nói của Bill Cosby về việc làm hài lòng mọi người mang lại bài học cảnh tỉnh nào?",
       "options": [
-        "Nên hoàn toàn cô lập bản thân và không cần quan tâm đến cảm xúc của bất kỳ ai trong xã hội.",
-        "Thành công trong sự nghiệp đòi hỏi bạn phải liên tục làm hài lòng tất cả khách hàng tiềm năng.",
-        "Bạn bắt buộc phải chấp nhận rằng sự tập trung cao độ sẽ khiến một số người hoặc một số việc không được thỏa mãn; dám làm thất vọng những kỳ vọng thứ yếu là cái giá tất yếu để đạt được sự vĩ đại.",
-        "Chỉ nên đồng ý giúp đỡ người khác khi họ cam kết trả cho bạn một khoản thù lao xứng đáng."
+        "Nên hoàn toàn cô lập bản thân và không cần quan tâm đến cảm xúc của bất kỳ ai trong xã hội để đạt được thành công lớn.",
+        "Thành công trong sự nghiệp đòi hỏi bạn phải liên tục làm hài lòng tất cả khách hàng tiềm năng để duy trì doanh thu.",
+        "Dám làm thất vọng những kỳ vọng thứ yếu là cái giá tất yếu để đạt được sự vĩ đại và hoàn thành điều quan trọng nhất.",
+        "Chỉ nên đồng ý giúp đỡ người khác khi họ cam kết trả cho bạn một khoản thù lao xứng đáng với thời gian bạn bỏ ra đó."
       ],
       "correctIndex": 2,
-      "explanation": "Nỗ lực làm vừa lòng mọi người là con đường chắc chắn nhất dẫn đến sự tầm thường và kiệt sức. Để hoàn thành Điều Ý Nghĩa Nhất, bạn buộc phải thiết lập ranh giới nghiêm ngặt, từ chối những lời thỉnh cầu không thuộc ưu tiên và chấp nhận sự khó chịu tạm thời của người khác để bảo vệ sự tập trung của mình.",
-      "difficulty": "hard"
+      "explanation": "Cố gắng làm hài lòng tất cả mọi người là con đường dẫn đến sự tầm thường, cần thiết lập ranh giới để bảo vệ sự tập trung."
     }
   ]
 }

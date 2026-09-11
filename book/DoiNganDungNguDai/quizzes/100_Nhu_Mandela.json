@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Hành động Mandela mời ba người cai ngục dự lễ nhậm chức thể hiện phẩm chất lãnh đạo nào nổi bật nhất mà tác giả muốn nhấn mạnh?",
+      "question": "Hành động Mandela mời ba người cai ngục dự lễ nhậm chức thể hiện phẩm chất lãnh đạo nào nổi bật nhất theo tác giả?",
       "options": [
-        "Sự quảng giao và khả năng tạo dựng quan hệ xã hội rộng rãi.",
-        "Tầm nhìn vượt trội, khả năng tha thứ và chuyển hóa oán hận thành sức mạnh đoàn kết.",
-        "Sự khéo léo trong chính trị nhằm tạo ấn tượng tốt với cộng đồng quốc tế.",
-        "Khả năng quên đi quá khứ đau buồn để tập trung vào tương lai."
+        "Khả năng chuyển hóa oán hận thành sức mạnh hòa giải, minh chứng cho tầm nhìn chiến lược của một nhà lãnh đạo vĩ đại.",
+        "Sự khéo léo trong việc tạo dựng hình ảnh chính trị nhằm thu hút sự ủng hộ từ cộng đồng quốc tế trong giai đoạn mới.",
+        "Khả năng quên đi những ký ức đau buồn trong quá khứ để tập trung hoàn toàn vào các nhiệm vụ quản lý quốc gia hiện tại.",
+        "Sự quảng giao và khả năng tạo dựng quan hệ xã hội rộng rãi với mọi tầng lớp trong xã hội để củng cố quyền lực cá nhân."
       ],
-      "correctIndex": 1,
-      "explanation": "Hành động này không chỉ là tha thứ đơn thuần mà còn là tầm nhìn chiến lược của một lãnh đạo vĩ đại. Mandela không chỉ bỏ qua quá khứ mà còn chủ động biến những người từng là đối thủ thành một phần của sự kiện lịch sử, biểu trưng cho sự hòa giải dân tộc và sức mạnh của tình người. Đây là minh chứng cho khả năng chuyển hóa tiêu cực thành tích cực, điều mà tác giả thường xuyên đề cập về những người lãnh đạo không chức danh."
+      "correctIndex": 0,
+      "explanation": "Hành động này vượt xa sự tha thứ thông thường, nó là chiến lược hòa giải dân tộc, biến đối thủ thành biểu tượng của sự đoàn kết."
     },
     {
       "id": "q2",
-      "question": "Tác giả trích dẫn lời Bill Clinton về Mandela để truyền tải thông điệp gì về 'những nhà lãnh đạo không cần danh phận'?",
+      "question": "Tác giả trích dẫn lời Bill Clinton về Mandela để truyền tải thông điệp gì về những nhà lãnh đạo không cần danh phận?",
       "options": [
-        "Họ là những người luôn được ngưỡng mộ và tung hô trong mọi hoàn cảnh.",
-        "Họ sở hữu năng lực bẩm sinh khiến người khác phải tuân theo.",
-        "Họ là nguồn cảm hứng mạnh mẽ, khơi dậy tiềm năng và khao khát vươn lên trong mỗi cá nhân.",
-        "Họ thành công nhờ vào may mắn và những cơ hội hiếm có."
+        "Họ là những người luôn được ngưỡng mộ và tung hô trong mọi hoàn cảnh nhờ vào tầm ảnh hưởng lớn lao đối với xã hội hiện đại.",
+        "Họ là nguồn cảm hứng mạnh mẽ, khơi dậy tiềm năng và khao khát vươn lên trở thành phiên bản tốt nhất trong mỗi cá nhân.",
+        "Họ sở hữu những năng lực bẩm sinh đặc biệt khiến người khác phải tự nguyện tuân theo mà không cần bất kỳ sự ép buộc nào.",
+        "Họ đạt được thành công vang dội nhờ vào sự may mắn và những cơ hội hiếm có xuất hiện đúng thời điểm trong cuộc đời họ."
       ],
-      "correctIndex": 2,
-      "explanation": "Lời của Bill Clinton 'tất cả chúng tôi đều cảm thấy mình to lớn hơn một chút, tất cả chúng tôi đều muốn đứng dậy, đều muốn reo hò, vì chúng tôi muốn là một Mandela trong ngày tươi đẹp nhất của mình' nhấn mạnh rằng những lãnh đạo vĩ đại như Mandela không chỉ dẫn dắt bằng quyền lực mà bằng chính phẩm chất và hành động của họ, khơi gợi lòng tự trọng, khao khát phát triển và trở thành phiên bản tốt nhất của chính mình trong những người xung quanh. Đó là sự lãnh đạo bằng ảnh hưởng, không phải chức danh."
+      "correctIndex": 1,
+      "explanation": "Lãnh đạo không chức danh là người truyền cảm hứng để người khác tự nhận ra giá trị và tiềm năng to lớn của chính bản thân họ."
     },
     {
       "id": "q3",
-      "question": "Nếu một người luôn giữ trong lòng sự oán giận với những người từng gây khó khăn cho mình, theo tư duy của chương này, điều đó sẽ ảnh hưởng đến con đường phát triển bản thân và lãnh đạo của họ như thế nào?",
+      "question": "Theo tư duy của chương này, việc giữ trong lòng sự oán giận với người khác sẽ gây ra hệ quả tiêu cực nào cho cá nhân?",
       "options": [
-        "Nó sẽ thúc đẩy họ làm việc chăm chỉ hơn để chứng minh bản thân.",
-        "Nó sẽ tạo động lực để họ đạt được thành công lớn hơn trong tương lai.",
-        "Nó sẽ làm tiêu hao năng lượng tinh thần, giới hạn tầm nhìn và cản trở khả năng tha thứ, học hỏi và tiến bộ.",
-        "Nó là một dấu hiệu của sự kiên cường, không dễ bị khuất phục."
+        "Nó thúc đẩy họ làm việc chăm chỉ hơn để chứng minh bản thân trước những người từng gây khó khăn cho mình trong quá khứ.",
+        "Nó tạo ra động lực mạnh mẽ để họ đạt được những thành công lớn hơn và khẳng định vị thế cá nhân trong sự nghiệp sau này.",
+        "Nó làm tiêu hao năng lượng tinh thần, giới hạn tầm nhìn và cản trở khả năng tha thứ, học hỏi để tiến bộ trong tương lai.",
+        "Nó là dấu hiệu của sự kiên cường, không dễ bị khuất phục trước những nghịch cảnh hay sự bất công trong môi trường làm việc."
       ],
       "correctIndex": 2,
-      "explanation": "Giữ oán giận là một 'bẫy tâm lý' mà tác giả thường cảnh báo. Nó không chỉ làm cạn kiệt năng lượng, mà còn khóa chặt tư duy vào quá khứ, cản trở khả năng nhìn nhận khách quan, tha thứ, và quan trọng nhất là học hỏi từ những trải nghiệm để phát triển. Sự vị tha của Mandela là một minh chứng cho việc giải phóng bản thân khỏi gánh nặng này để vươn tới tầm cao mới."
+      "explanation": "Oán giận là bẫy tâm lý làm cạn kiệt năng lượng, khóa chặt tư duy vào quá khứ và ngăn cản sự phát triển cá nhân bền vững."
     },
     {
       "id": "q4",
-      "question": "Đâu là yếu tố cốt lõi giúp Mandela vượt qua những năm tháng tù đày để vẫn giữ được tinh thần vị tha và tầm nhìn xa trông rộng?",
+      "question": "Đâu là yếu tố cốt lõi giúp Mandela vượt qua những năm tháng tù đày để vẫn giữ được tinh thần vị tha và tầm nhìn xa?",
       "options": [
-        "Sự hỗ trợ mạnh mẽ từ cộng đồng quốc tế.",
-        "Niềm tin kiên định vào một lý tưởng lớn hơn bản thân và khả năng chuyển hóa nghịch cảnh thành sức mạnh.",
-        "Khả năng lãng quên nhanh chóng những ký ức đau khổ.",
-        "Việc rèn luyện thể chất khắc nghiệt trong tù."
+        "Sự hỗ trợ mạnh mẽ từ cộng đồng quốc tế và áp lực chính trị từ các quốc gia khác đã giúp ông giữ vững tinh thần tự do.",
+        "Khả năng lãng quên nhanh chóng những ký ức đau khổ trong tù để giữ cho tâm trí luôn được thanh thản và lạc quan nhất.",
+        "Việc rèn luyện thể chất khắc nghiệt trong suốt thời gian bị giam giữ đã giúp ông duy trì sự minh mẫn và ý chí kiên định.",
+        "Niềm tin kiên định vào một lý tưởng lớn hơn bản thân và khả năng chuyển hóa nghịch cảnh thành sức mạnh nội tâm bền bỉ."
       ],
-      "correctIndex": 1,
-      "explanation": "Dù các yếu tố khác có thể góp phần, niềm tin vào lý tưởng tự do và bình đẳng, cùng với khả năng nhìn nhận bức tranh lớn hơn và chuyển hóa nỗi đau thành nghị lực, là yếu tố cốt lõi giúp Mandela duy trì phẩm giá và tầm nhìn. Ông không chỉ chịu đựng mà còn phát triển bản thân ngay trong nghịch cảnh, biến nhà tù thành 'trường học lãnh đạo' của mình."
+      "correctIndex": 3,
+      "explanation": "Niềm tin vào lý tưởng và khả năng chuyển hóa nghịch cảnh là chìa khóa giúp Mandela giữ vững phẩm giá trong hoàn cảnh khắc nghiệt."
     },
     {
       "id": "q5",
-      "question": "Một người trẻ tuổi muốn trở thành 'Mandela trong ngày tươi đẹp nhất của mình' nên tập trung phát triển điều gì đầu tiên, dựa trên thông điệp của chương này?",
+      "question": "Một người muốn trở thành phiên bản tốt nhất của chính mình nên tập trung phát triển điều gì đầu tiên theo chương này?",
       "options": [
-        "Tìm kiếm một vị trí lãnh đạo có chức danh sớm nhất có thể.",
-        "Học cách nói chuyện thuyết phục để ảnh hưởng người khác.",
-        "Xây dựng giá trị cốt lõi, tầm nhìn cá nhân và khả năng vượt lên trên những tổn thương để truyền cảm hứng.",
-        "Tập trung vào việc tích lũy của cải vật chất để có quyền lực."
+        "Xây dựng giá trị cốt lõi, tầm nhìn cá nhân và khả năng vượt lên trên những tổn thương để truyền cảm hứng cho người khác.",
+        "Tìm kiếm một vị trí lãnh đạo có chức danh cao cấp sớm nhất có thể để khẳng định năng lực và tầm ảnh hưởng của bản thân.",
+        "Học cách nói chuyện thuyết phục và kỹ năng giao tiếp khéo léo để có thể dễ dàng gây ảnh hưởng đến những người xung quanh.",
+        "Tập trung vào việc tích lũy của cải vật chất và tài sản để có được quyền lực thực tế trong môi trường làm việc cạnh tranh."
       ],
-      "correctIndex": 2,
-      "explanation": "Để trở thành 'Mandela trong ngày tươi đẹp nhất của mình' không phải là đạt được chức vụ hay quyền lực bên ngoài, mà là phát triển nội lực: giá trị cá nhân, tầm nhìn rõ ràng và khả năng chuyển hóa thử thách thành bài học, từ đó truyền cảm hứng cho người khác. Đây chính là cốt lõi của 'lãnh đạo không chức danh' – lãnh đạo bằng phẩm chất và hành động chứ không phải danh xưng."
+      "correctIndex": 0,
+      "explanation": "Phát triển nội lực, giá trị và tầm nhìn là nền tảng của lãnh đạo không chức danh, không phải là tìm kiếm danh xưng bên ngoài."
     },
     {
       "id": "q6",
-      "question": "Sự 'vị tha' của Mandela không chỉ là một hành động đạo đức mà còn là một chiến lược lãnh đạo. Nó khác với 'sự yếu đuối' ở điểm nào theo góc nhìn của tác giả?",
+      "question": "Sự vị tha của Mandela khác với sự yếu đuối ở điểm nào theo góc nhìn của tác giả trong chương này?",
       "options": [
-        "Sự yếu đuối là không có khả năng chống trả, còn vị tha là chọn không chống trả.",
-        "Sự vị tha xuất phát từ sức mạnh nội tâm và tầm nhìn dài hạn, trong khi yếu đuối là do sợ hãi hoặc thiếu ý chí.",
-        "Sự yếu đuối dẫn đến bị lợi dụng, còn vị tha thì không bao giờ.",
-        "Sự yếu đuối là không dám đối mặt, còn vị tha là đối mặt rồi bỏ qua."
+        "Sự yếu đuối là không có khả năng chống trả lại kẻ thù, còn vị tha là lựa chọn không chống trả vì mục đích hòa bình chung.",
+        "Sự vị tha xuất phát từ sức mạnh nội tâm và tầm nhìn dài hạn, trong khi yếu đuối là do sợ hãi hoặc thiếu ý chí hành động.",
+        "Sự vị tha dẫn đến việc được mọi người tôn trọng, còn sự yếu đuối thường dẫn đến việc bị người khác lợi dụng trong công việc.",
+        "Sự yếu đuối là không dám đối mặt với thực tế, còn vị tha là đối mặt với thực tế nhưng chọn cách bỏ qua mọi lỗi lầm cũ."
       ],
       "correctIndex": 1,
-      "explanation": "Vị tha trong trường hợp của Mandela là một hành động có ý thức, xuất phát từ sức mạnh của sự thấu hiểu, lòng dũng cảm và tầm nhìn xây dựng một tương lai tốt đẹp hơn. Nó khác với yếu đuối, vốn thường xuất phát từ sự sợ hãi, thiếu tự tin hoặc thiếu khả năng hành động. Vị tha của Mandela là một minh chứng cho sự tự chủ và khả năng kiểm soát cảm xúc để phục vụ mục tiêu lớn hơn."
+      "explanation": "Vị tha là hành động có ý thức từ sức mạnh nội tâm, khác biệt hoàn toàn với sự yếu đuối vốn xuất phát từ nỗi sợ hãi."
     },
     {
       "id": "q7",
       "question": "Thông điệp ẩn ý nào về việc đối mặt với khó khăn được rút ra từ câu chuyện về Mandela?",
       "options": [
-        "Nên tránh xa mọi xung đột để duy trì sự bình yên.",
-        "Chỉ những người mạnh mẽ bẩm sinh mới có thể vượt qua nghịch cảnh.",
-        "Nghịch cảnh không định nghĩa chúng ta, mà cách chúng ta phản ứng với nó mới định hình con người mình.",
-        "Tìm kiếm sự giúp đỡ từ người khác là cách duy nhất để vượt qua khó khăn."
+        "Nên tránh xa mọi xung đột và mâu thuẫn trong cuộc sống để duy trì sự bình yên và tập trung vào mục tiêu cá nhân dài hạn.",
+        "Chỉ những người có tố chất mạnh mẽ bẩm sinh mới có thể vượt qua nghịch cảnh và đạt được những thành tựu vĩ đại trong đời.",
+        "Nghịch cảnh không định nghĩa chúng ta, mà chính cách chúng ta phản ứng với nó mới định hình nên con người mình thực sự.",
+        "Tìm kiếm sự giúp đỡ từ người khác là cách duy nhất để vượt qua những khó khăn lớn lao mà bản thân không thể tự giải quyết."
       ],
       "correctIndex": 2,
-      "explanation": "Mandela đã trải qua những nghịch cảnh tột cùng nhưng vẫn vươn lên trở thành biểu tượng của sự hòa giải và lãnh đạo. Điều này nhấn mạnh rằng hoàn cảnh bên ngoài không quyết định ai ta sẽ trở thành, mà chính thái độ, lựa chọn và phản ứng của chúng ta trước khó khăn mới là yếu tố quyết định. Đây là một nguyên lý cốt lõi trong tư duy phát triển bản thân của tác giả."
+      "explanation": "Thái độ và lựa chọn phản ứng trước nghịch cảnh mới là yếu tố quyết định sự trưởng thành và phẩm chất của mỗi con người."
     },
     {
       "id": "q8",
-      "question": "Phẩm chất 'nhìn xa trông rộng' của Mandela thể hiện rõ nhất qua hành động nào được nhắc đến trong đoạn trích?",
+      "question": "Phẩm chất nhìn xa trông rộng của Mandela thể hiện rõ nhất qua hành động nào được nhắc đến trong đoạn trích?",
       "options": [
-        "Ông là một nhà đấu tranh vì tự do.",
-        "Ông được Bill Clinton ca ngợi.",
-        "Ông mời ba người cai ngục đến dự lễ nhậm chức của mình.",
-        "Ông đọc nhiều sách hay."
+        "Ông là một nhà đấu tranh vì tự do không mệt mỏi, luôn kiên trì với lý tưởng của mình trong suốt nhiều thập kỷ bị giam.",
+        "Ông được Bill Clinton ca ngợi là một hình mẫu tuyệt vời về tầm cao mà con người có thể vươn tới trong cuộc sống này.",
+        "Ông dành thời gian đọc nhiều cuốn sách hay để trau dồi kiến thức và tư duy lãnh đạo cho bản thân trong những năm tù.",
+        "Ông mời ba người cai ngục đến dự lễ nhậm chức, thể hiện tầm nhìn vượt xa sự trả thù cá nhân hay phe phái nhỏ hẹp."
       ],
-      "correctIndex": 2,
-      "explanation": "Hành động mời các cai ngục dự lễ nhậm chức thể hiện tầm nhìn vượt xa sự trả thù cá nhân hay phe phái. Đó là một hành động có tính biểu tượng cao, hướng tới sự hòa giải, đoàn kết dân tộc và xây dựng một tương lai chung, thay vì sa lầy vào những hận thù của quá khứ. Đây là minh chứng rõ nhất cho tầm nhìn của một nhà lãnh đạo."
+      "correctIndex": 3,
+      "explanation": "Hành động mời cai ngục là minh chứng cho tầm nhìn hòa giải, hướng tới tương lai thay vì sa lầy vào hận thù quá khứ."
     },
     {
       "id": "q9",
-      "question": "Tại sao việc 'những người dám ước mơ, những nhà lãnh đạo không cần danh phận, những con người muốn cống hiến hết mình' lại được tác giả liên hệ trực tiếp với Mandela?",
+      "question": "Tại sao những người muốn cống hiến hết mình lại được tác giả liên hệ trực tiếp với hình mẫu Mandela?",
       "options": [
-        "Vì Mandela cũng từng là người không có danh phận trước khi trở thành tổng thống.",
-        "Vì Mandela là biểu tượng của việc biến ước mơ lớn thành hiện thực thông qua sự cống hiến và lãnh đạo bằng chính con người mình.",
-        "Vì Mandela đã đặt ra nhiều ước mơ cho người khác noi theo.",
-        "Vì Mandela là ví dụ điển hình cho người được nhiều người biết đến."
+        "Vì Mandela là biểu tượng của việc biến ước mơ lớn thành hiện thực thông qua sự cống hiến và lãnh đạo bằng chính con người.",
+        "Vì Mandela cũng từng là người không có danh phận cụ thể nào trước khi trở thành tổng thống của một quốc gia Nam Phi.",
+        "Vì Mandela đã đặt ra rất nhiều ước mơ cao đẹp cho người khác noi theo trong suốt hành trình đấu tranh vì tự do của mình.",
+        "Vì Mandela là ví dụ điển hình cho một người được rất nhiều người biết đến và ngưỡng mộ trên toàn thế giới hiện nay."
       ],
-      "correctIndex": 1,
-      "explanation": "Mandela là một hình mẫu vĩ đại về khả năng giữ vững ước mơ tự do, kiên trì cống hiến và lãnh đạo bằng phẩm chất cá nhân (tha thứ, tầm nhìn) vượt lên trên mọi nghịch cảnh và định kiến. Ông minh chứng rằng danh phận không làm nên lãnh đạo, mà chính nội lực và hành động mới là yếu tố tạo ra ảnh hưởng. Tác giả muốn truyền cảm hứng rằng mỗi người đều có thể 'lãnh đạo không chức danh' bằng cách sống với tinh thần tương tự."
+      "correctIndex": 0,
+      "explanation": "Mandela chứng minh rằng lãnh đạo không cần danh phận, mà cần nội lực và sự cống hiến để tạo ra ảnh hưởng thực sự."
     },
     {
       "id": "q10",
-      "question": "Nếu một cá nhân trong môi trường công sở liên tục đổ lỗi cho người khác hoặc hoàn cảnh khi gặp thất bại, điều đó phản ánh sự thiếu hụt tư duy nào theo tinh thần của chương này?",
+      "question": "Nếu một cá nhân liên tục đổ lỗi cho người khác khi thất bại, điều đó phản ánh sự thiếu hụt tư duy nào?",
       "options": [
-        "Khả năng làm việc nhóm hiệu quả.",
-        "Tinh thần trách nhiệm cá nhân và khả năng học hỏi từ thất bại.",
-        "Kỹ năng giao tiếp chuyên nghiệp.",
-        "Sự tự tin trong công việc."
+        "Khả năng làm việc nhóm hiệu quả trong môi trường chuyên nghiệp đòi hỏi sự phối hợp chặt chẽ giữa các thành viên với nhau.",
+        "Sự thiếu hụt tinh thần trách nhiệm cá nhân và khả năng nhìn nhận thất bại như một cơ hội để học hỏi và phát triển.",
+        "Kỹ năng giao tiếp chuyên nghiệp để giải trình các vấn đề phát sinh trong quá trình thực hiện công việc với cấp trên.",
+        "Sự tự tin trong công việc để có thể đối mặt với những áp lực từ môi trường làm việc đầy tính cạnh tranh hiện nay."
       ],
       "correctIndex": 1,
-      "explanation": "Hành vi đổ lỗi cho ngoại cảnh là một 'bẫy tâm lý' mà tác giả thường phê phán. Nó cho thấy sự thiếu hụt tinh thần trách nhiệm cá nhân (ownership) và khả năng nhìn nhận thất bại như một cơ hội học hỏi và phát triển. Mandela, dù trong hoàn cảnh khắc nghiệt nhất, vẫn thể hiện quyền kiểm soát thái độ và phản ứng của mình, minh chứng cho tầm quan trọng của trách nhiệm cá nhân đối với sự phát triển."
+      "explanation": "Đổ lỗi cho ngoại cảnh là biểu hiện của việc thiếu trách nhiệm cá nhân, ngăn cản sự học hỏi từ những sai lầm."
     },
     {
       "id": "q11",
-      "question": "Phân tích câu 'Mỗi lần Nelson Mandela vào phòng, tất cả chúng tôi đều cảm thấy mình to lớn hơn một chút' hàm ý gì về sức mạnh của lãnh đạo chân chính?",
+      "question": "Câu nói về việc cảm thấy mình to lớn hơn khi ở gần Mandela hàm ý gì về sức mạnh của lãnh đạo chân chính?",
       "options": [
-        "Lãnh đạo chân chính khiến người khác cảm thấy lép vế và kém cỏi hơn.",
+        "Lãnh đạo chân chính khiến người khác cảm thấy lép vế và kém cỏi hơn khi đứng trước sự vĩ đại của một người lãnh đạo.",
+        "Lãnh đạo chân chính luôn có vẻ ngoài uy nghi, to lớn khiến mọi người xung quanh phải nể sợ và tuân theo mệnh lệnh.",
         "Lãnh đạo chân chính có khả năng truyền năng lượng tích cực, nâng tầm và khơi dậy tiềm năng của những người xung quanh.",
-        "Lãnh đạo chân chính luôn có vẻ ngoài uy nghi, to lớn.",
-        "Lãnh đạo chân chính luôn được mọi người dành sự ưu ái đặc biệt."
+        "Lãnh đạo chân chính luôn được mọi người dành sự ưu ái đặc biệt nhờ vào quyền lực và địa vị cao trong xã hội hiện nay."
       ],
-      "correctIndex": 1,
-      "explanation": "Câu nói này không phải về sự lép vế, mà ngược lại, nó nói về sự truyền cảm hứng. Một lãnh đạo chân chính không làm cho người khác nhỏ bé đi, mà bằng chính sự vĩ đại và phẩm chất của mình, họ khơi dậy khát vọng và tiềm năng 'to lớn hơn' trong mỗi người. Đó là sự lãnh đạo bằng gương mẫu và ảnh hưởng, tạo ra một môi trường mà mọi người đều muốn vươn lên phiên bản tốt nhất của chính mình."
+      "correctIndex": 2,
+      "explanation": "Lãnh đạo thực thụ không làm người khác nhỏ bé đi, mà khơi dậy tiềm năng và sự tự tin trong mỗi người xung quanh."
     },
     {
       "id": "q12",
-      "question": "Điều gì là thách thức lớn nhất mà 'những nhà lãnh đạo không cần danh phận' phải đối mặt khi muốn noi gương Mandela?",
+      "question": "Điều gì là thách thức lớn nhất mà những nhà lãnh đạo không cần danh phận phải đối mặt khi noi gương Mandela?",
       "options": [
-        "Tìm kiếm sự công nhận từ cấp trên.",
-        "Vượt qua sự cám dỗ của quyền lực và vật chất.",
-        "Duy trì tầm nhìn, vị tha và sự cống hiến không ngừng nghỉ dù không có sự bảo đảm về danh vọng hay phần thưởng ngay lập tức.",
-        "Đối mặt với những lời chỉ trích và phán xét từ cộng đồng."
+        "Tìm kiếm sự công nhận từ cấp trên và những người có quyền lực để có thể thực hiện các dự án lớn cho cộng đồng xã hội.",
+        "Vượt qua sự cám dỗ của quyền lực và vật chất để giữ vững nguyên tắc đạo đức trong môi trường làm việc đầy cạnh tranh.",
+        "Đối mặt với những lời chỉ trích và phán xét từ cộng đồng khi thực hiện các hành động khác biệt với số đông hiện tại.",
+        "Duy trì tầm nhìn, sự vị tha và cống hiến không ngừng nghỉ dù không có sự bảo đảm về danh vọng hay phần thưởng ngay."
       ],
-      "correctIndex": 2,
-      "explanation": "Thách thức lớn nhất đối với 'lãnh đạo không chức danh' là duy trì nguyên tắc, tầm nhìn và sự cống hiến mà không cần sự bảo đảm về danh vọng hay quyền lực. Họ phải hành động dựa trên giá trị nội tại, lòng tin vào mục tiêu lớn hơn bản thân, và khả năng tha thứ, điều mà Mandela đã làm trong suốt cuộc đời mình, đặc biệt là hành động mời các cai ngục. Đây là sự đánh đổi khó khăn giữa thỏa mãn cái tôi ngắn hạn và xây dựng giá trị dài hạn."
+      "correctIndex": 3,
+      "explanation": "Thách thức lớn nhất là giữ vững giá trị và tầm nhìn mà không cần sự đảm bảo về danh vọng hay quyền lực tức thời."
     },
     {
       "id": "q13",
-      "question": "Theo tư duy của tác giả trong chương này, để thực sự 'sống như Mandela', một cá nhân nên ưu tiên phát triển điều gì trong nội tâm của mình?",
+      "question": "Để thực sự sống như Mandela, một cá nhân nên ưu tiên phát triển điều gì trong nội tâm của mình?",
       "options": [
-        "Khả năng thuyết phục đám đông.",
-        "Sự khôn ngoan trong việc xử lý các tình huống khó khăn.",
-        "Năng lực chuyển hóa tổn thương thành sức mạnh, và chọn vị tha thay vì thù hận để xây dựng tương lai.",
-        "Kỹ năng đàm phán và tạo ảnh hưởng."
+        "Năng lực chuyển hóa tổn thương thành sức mạnh, và chọn vị tha thay vì thù hận để xây dựng một tương lai tốt đẹp.",
+        "Khả năng thuyết phục đám đông bằng những bài diễn văn hùng hồn để tạo ra sự ảnh hưởng lớn trong các tổ chức xã hội.",
+        "Sự khôn ngoan trong việc xử lý các tình huống khó khăn để bảo vệ lợi ích cá nhân trước những đối thủ cạnh tranh lớn.",
+        "Kỹ năng đàm phán và tạo ảnh hưởng để có thể đạt được những mục tiêu chiến lược trong sự nghiệp của bản thân mình."
       ],
-      "correctIndex": 2,
-      "explanation": "Để 'sống như Mandela' không chỉ là học theo hành động bề ngoài, mà là thấu hiểu và phát triển nội tâm. Khả năng chuyển hóa tổn thương, chọn vị tha và tầm nhìn xa là những phẩm chất cốt lõi giúp Mandela vượt lên trên nghịch cảnh và trở thành biểu tượng. Đây là nền tảng cho mọi phẩm chất lãnh đạo khác."
+      "correctIndex": 0,
+      "explanation": "Sống như Mandela là phát triển nội tâm, chuyển hóa nỗi đau thành sức mạnh và chọn vị tha để kiến tạo tương lai."
     },
     {
       "id": "q14",
-      "question": "Khía cạnh nào trong câu chuyện Mandela mang lại bài học quý giá nhất cho những người đang gặp khó khăn trong việc buông bỏ quá khứ tiêu cực?",
+      "question": "Khía cạnh nào trong câu chuyện Mandela mang lại bài học quý giá nhất cho việc buông bỏ quá khứ tiêu cực?",
       "options": [
-        "Mandela đã được trả tự do sau nhiều năm tù đày.",
-        "Mandela đã trở thành tổng thống của Nam Phi.",
-        "Mandela chủ động mời những người từng gây ra đau khổ cho mình đến dự lễ nhậm chức, biến đối thủ thành đồng minh và quá khứ thành bài học.",
-        "Mandela đã viết sách trong tù."
+        "Mandela đã được trả tự do sau nhiều năm tù đày khắc nghiệt để tiếp tục hành trình đấu tranh vì tự do cho dân tộc mình.",
+        "Mandela chủ động mời những người từng gây đau khổ đến dự lễ nhậm chức, biến đối thủ thành đồng minh và bài học.",
+        "Mandela đã trở thành tổng thống của Nam Phi sau khi giành chiến thắng trong cuộc bầu cử dân chủ đầu tiên của quốc gia.",
+        "Mandela đã viết sách trong tù để ghi lại những suy nghĩ và trải nghiệm của mình về cuộc sống và sự tự do của con người."
       ],
-      "correctIndex": 2,
-      "explanation": "Bài học lớn nhất cho việc buông bỏ quá khứ tiêu cực không phải là quên đi, mà là chủ động chuyển hóa nó. Hành động mời các cai ngục cho thấy Mandela không chỉ tha thứ mà còn sử dụng sự kiện đó như một biểu tượng mạnh mẽ cho sự hòa giải và tầm nhìn tương lai, chứng minh rằng quá khứ có thể được biến thành nền tảng cho một khởi đầu mới, thay vì là gánh nặng níu giữ."
+      "correctIndex": 1,
+      "explanation": "Hành động mời cai ngục cho thấy việc chuyển hóa quá khứ thành nền tảng cho tương lai thay vì giữ làm gánh nặng."
     },
     {
       "id": "q15",
-      "question": "Theo quan điểm của tác giả, nếu một người lãnh đạo chỉ tập trung vào việc gây ấn tượng với người khác mà thiếu đi chiều sâu nội tâm như Mandela, hậu quả có thể là gì?",
+      "question": "Nếu một lãnh đạo chỉ tập trung gây ấn tượng mà thiếu chiều sâu nội tâm như Mandela, hậu quả có thể là gì?",
       "options": [
-        "Họ sẽ nhanh chóng đạt được thành công lớn và được ngưỡng mộ.",
-        "Họ sẽ duy trì được vị trí lãnh đạo trong thời gian dài.",
-        "Họ sẽ chỉ có được sự tôn trọng bề ngoài, thiếu đi khả năng truyền cảm hứng thực sự và xây dựng lòng trung thành bền vững.",
-        "Họ sẽ trở thành một nhà lãnh đạo hiệu quả về mặt chiến lược."
+        "Họ sẽ nhanh chóng đạt được thành công lớn và được mọi người ngưỡng mộ nhờ vào khả năng tạo dựng hình ảnh cá nhân tốt.",
+        "Họ sẽ duy trì được vị trí lãnh đạo trong thời gian dài nhờ vào sự khéo léo trong việc quản lý các mối quan hệ xã hội.",
+        "Họ sẽ chỉ có được sự tôn trọng bề ngoài, thiếu đi khả năng truyền cảm hứng thực sự và xây dựng lòng trung thành.",
+        "Họ sẽ trở thành một nhà lãnh đạo hiệu quả về mặt chiến lược và đạt được những mục tiêu kinh doanh đề ra ban đầu."
       ],
       "correctIndex": 2,
-      "explanation": "Tác giả Robin Sharma luôn nhấn mạnh tầm quan trọng của chiều sâu nội tâm, phẩm chất và tính cách trong vai trò lãnh đạo. Một người lãnh đạo chỉ chú trọng vẻ bề ngoài hay gây ấn tượng sẽ không thể chạm đến trái tim người khác, không thể truyền cảm hứng sâu sắc hay xây dựng một nền văn hóa bền vững. Mandela truyền cảm hứng vì ông là hiện thân của các giá trị mà ông đại diện, không phải vì ông cố gắng gây ấn tượng. Thiếu chiều sâu nội tâm sẽ dẫn đến sự hời hợt và không bền vững trong ảnh hưởng."
+      "explanation": "Thiếu chiều sâu nội tâm dẫn đến sự hời hợt, không thể truyền cảm hứng sâu sắc hay xây dựng ảnh hưởng bền vững."
     }
   ]
 }

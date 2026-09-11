@@ -6,182 +6,182 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Theo góc nhìn lãnh đạo bản thân, tại sao việc quá chú trọng vào 'dư luận' lại là rào cản đối với sự phát triển?",
+      "question": "Theo góc nhìn lãnh đạo bản thân, tại sao việc quá chú trọng vào dư luận lại là rào cản đối với sự phát triển cá nhân?",
       "options": [
-        "Vì dư luận luôn mang tính tiêu cực và gây tổn thương",
-        "Vì nó khiến cá nhân đánh đổi giá trị cốt lõi để lấy sự chấp thuận tạm thời",
-        "Vì người lãnh đạo cần phải tách biệt hoàn toàn khỏi cộng đồng",
-        "Vì dư luận thường bắt nguồn từ những người thiếu chuyên môn"
+        "Nó khiến cá nhân đánh đổi các giá trị cốt lõi để lấy sự chấp thuận tạm thời từ đám đông thay vì giữ vững bản sắc.",
+        "Nó tạo ra áp lực tâm lý khiến cá nhân mất đi khả năng tư duy độc lập và luôn phải tìm kiếm sự đồng thuận từ xã hội.",
+        "Nó làm cá nhân tiêu tốn quá nhiều năng lượng vào việc quản lý hình ảnh thay vì tập trung vào mục tiêu và tầm nhìn.",
+        "Nó khiến cá nhân trở nên phụ thuộc vào các tiêu chuẩn bên ngoài thay vì tự xây dựng hệ giá trị cho chính bản thân."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Việc tập trung vào dư luận là một bẫy tâm lý khiến ta sống theo kỳ vọng của người khác thay vì nội tại của chính mình, làm mờ nhạt đi bản sắc và tầm nhìn cá nhân."
     },
     {
       "id": "q2",
-      "question": "Trong bối cảnh công sở, khi bị đồng nghiệp đánh giá tiêu cực về một quyết định táo bạo bạn đưa ra, tư duy nào là đúng đắn nhất theo triết lý của chương này?",
+      "question": "Khi bị đồng nghiệp đánh giá tiêu cực về một quyết định táo bạo, tư duy nào là đúng đắn nhất theo triết lý của chương này?",
       "options": [
-        "Ngừng thực hiện để tránh xung đột",
-        "Tìm cách thuyết phục họ thay đổi suy nghĩ để không bị cô lập",
-        "Kiểm chứng tính đúng đắn của quyết định dựa trên các giá trị bản thân đã xác lập",
-        "Phớt lờ mọi ý kiến vì ý kiến của người khác không quan trọng"
+        "Phân tích kỹ lưỡng các ý kiến trái chiều để điều chỉnh hành vi sao cho phù hợp với mong đợi của tập thể công sở.",
+        "Kiểm chứng tính đúng đắn của quyết định dựa trên các giá trị bản thân đã xác lập thay vì phản ứng theo dư luận.",
+        "Giữ vững lập trường cá nhân một cách tuyệt đối và phớt lờ mọi ý kiến đóng góp từ những người xung quanh mình.",
+        "Đánh giá lại quyết định dựa trên sự ủng hộ của số đông để đảm bảo tính an toàn và tránh các xung đột không đáng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Sự tự phê chuẩn nghĩa là hành động dựa trên các giá trị cốt lõi đã được kiểm chứng thay vì sợ hãi hoặc nuông chiều dư luận."
     },
     {
       "id": "q3",
-      "question": "Tác giả định nghĩa 'lãnh đạo chân chính' liên quan thế nào đến sự phê chuẩn của xã hội?",
+      "question": "Tác giả định nghĩa lãnh đạo chân chính liên quan thế nào đến sự phê chuẩn của xã hội trong quá trình ra quyết định?",
       "options": [
-        "Là khả năng dẫn dắt dư luận theo ý muốn của mình",
-        "Là đạt được sự công nhận từ số đông trước khi ra quyết định",
-        "Là vượt lên khỏi nhu cầu được người khác phê chuẩn để đạt tới sự tự phê chuẩn",
-        "Là chấp nhận đánh đổi tự do cá nhân để hòa nhập với cộng đồng"
+        "Là khả năng dẫn dắt dư luận theo ý muốn cá nhân để đạt được sự công nhận từ cộng đồng trong mọi hoàn cảnh sống.",
+        "Là việc đạt được sự đồng thuận từ số đông trước khi đưa ra bất kỳ quyết định quan trọng nào trong sự nghiệp cá.",
+        "Là khả năng vượt lên khỏi nhu cầu được người khác phê chuẩn để đạt tới trạng thái tự phê chuẩn của chính mình.",
+        "Là chấp nhận đánh đổi tự do cá nhân để hòa nhập với cộng đồng nhằm tạo ra sự ổn định trong môi trường làm việc."
       ],
       "correctIndex": 2,
       "explanation": "Lãnh đạo thực thụ đòi hỏi sự độc lập trong tư duy và tự chủ trong các giá trị, không dựa dẫm vào lời khen ngợi hay sự đồng thuận của đám đông."
     },
     {
       "id": "q4",
-      "question": "Sự khác biệt cốt lõi giữa 'người theo đuổi sự ưa chuộng' và 'người lãnh đạo bản thân' là gì?",
+      "question": "Sự khác biệt cốt lõi giữa người theo đuổi sự ưa chuộng và người lãnh đạo bản thân được thể hiện như thế nào?",
       "options": [
-        "Người ưa chuộng cần quan hệ, người lãnh đạo cần tài năng",
-        "Sự đánh đổi: Người ưa chuộng đánh đổi sự thật để lấy hòa bình, người lãnh đạo chọn sự thật để lấy tự do",
-        "Người ưa chuộng sống trong hiện tại, người lãnh đạo sống cho tương lai",
-        "Người ưa chuộng hướng ngoại, người lãnh đạo hướng nội"
+        "Người ưa chuộng cần các mối quan hệ xã hội, người lãnh đạo cần tài năng để khẳng định vị thế trong cộng đồng.",
+        "Người ưa chuộng sống trong hiện tại để làm hài lòng người khác, người lãnh đạo sống cho tương lai của chính mình.",
+        "Người ưa chuộng có xu hướng hướng ngoại để tìm kiếm sự ủng hộ, người lãnh đạo hướng nội để tìm kiếm chân lý.",
+        "Người ưa chuộng đánh đổi sự thật để lấy hòa bình, người lãnh đạo chọn sự thật để lấy tự do và sự tự chủ."
       ],
-      "correctIndex": 1,
-      "explanation": "Sự ưa chuộng thường là kết quả của việc làm hài lòng người khác (thường là làm giảm bớt chuẩn mực của bản thân), trong khi lãnh đạo bản thân đòi hỏi sự trung thực với chính mình."
+      "correctIndex": 3,
+      "explanation": "Sự ưa chuộng thường là kết quả của việc làm hài lòng người khác, trong khi lãnh đạo bản thân đòi hỏi sự trung thực với chính mình."
     },
     {
       "id": "q5",
-      "question": "Điều gì phản ánh rõ nhất trạng thái 'sống đúng với bản thân' trong môi trường nhiều áp lực?",
+      "question": "Điều gì phản ánh rõ nhất trạng thái sống đúng với bản thân trong môi trường chịu nhiều áp lực từ dư luận xã hội?",
       "options": [
-        "Luôn có những lựa chọn được mọi người tán dương",
-        "Cảm giác yên tâm khi được số đông ủng hộ",
-        "Sẵn sàng đối diện với sự không hài lòng của người khác để bảo vệ niềm tin cá nhân",
-        "Khả năng thích nghi nhanh chóng với quan điểm của đám đông để tránh xung đột"
+        "Sẵn sàng đối diện với sự không hài lòng của người khác để bảo vệ niềm tin và giá trị cốt lõi của bản thân.",
+        "Luôn có những lựa chọn được mọi người tán dương và ủng hộ nhiệt tình trong mọi tình huống xảy ra hàng ngày.",
+        "Cảm giác yên tâm khi được số đông ủng hộ và đồng thuận với các quyết định mà cá nhân đã đưa ra trong công việc.",
+        "Khả năng thích nghi nhanh chóng với quan điểm của đám đông để tránh các xung đột không cần thiết trong cuộc sống."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Sống đúng với bản thân thường xuyên tạo ra xung đột với dư luận vì nó đòi hỏi sự khác biệt; sự tự do đến từ việc chấp nhận xung đột đó."
     },
     {
       "id": "q6",
-      "question": "Tại sao tác giả cho rằng thành công không phải là một cuộc thi xem ai được ưa chuộng hơn?",
+      "question": "Tại sao tác giả cho rằng thành công không phải là một cuộc thi xem ai được ưa chuộng hơn trong mắt người khác?",
       "options": [
-        "Vì sự ưa chuộng chỉ là cảm giác nhất thời của người khác",
-        "Vì những người nổi tiếng thường không có thành công thật sự",
-        "Vì số lượng người ủng hộ không tỷ lệ thuận với giá trị bạn tạo ra",
-        "Vì thành công là hành trình đơn độc không cần sự hỗ trợ của người khác"
+        "Vì những người nổi tiếng thường không có thành công thật sự mà chỉ là kết quả của sự truyền thông quá mức.",
+        "Vì sự ưa chuộng chỉ là cảm giác nhất thời của người quan sát và không phải thước đo bền vững cho thành công.",
+        "Vì số lượng người ủng hộ không bao giờ tỷ lệ thuận với giá trị thực tế mà bạn tạo ra cho cộng đồng xã hội.",
+        "Vì thành công là hành trình đơn độc không cần sự hỗ trợ hay công nhận từ bất kỳ ai khác trong cuộc sống này."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Dư luận hay sự ưa chuộng mang tính biến đổi theo ý thích cá nhân của người quan sát, nên nó không phải là thước đo khách quan hay bền vững cho sự thành công."
     },
     {
       "id": "q7",
-      "question": "Khi bạn nhận được sự phê bình gay gắt, điều gì là quan trọng nhất để làm?",
+      "question": "Khi bạn nhận được sự phê bình gay gắt từ người khác, điều gì là quan trọng nhất để thực hiện theo triết lý này?",
       "options": [
-        "Chứng minh họ sai để bảo vệ danh dự",
-        "Xem xét liệu lời phê bình đó có khớp với các giá trị sống mà bạn đang theo đuổi không",
-        "Tìm đồng minh để ủng hộ quan điểm của mình",
-        "Thay đổi chiến thuật ngay lập tức để lấy lại thiện cảm"
+        "Chứng minh họ sai để bảo vệ danh dự cá nhân và khẳng định vị thế của mình trước những người xung quanh đó.",
+        "Tìm kiếm đồng minh để ủng hộ quan điểm của mình nhằm tạo ra sức mạnh tập thể chống lại các ý kiến tiêu cực.",
+        "Xem xét liệu lời phê bình đó có khớp với các giá trị sống mà bạn đang theo đuổi hay không trước khi phản hồi.",
+        "Thay đổi chiến thuật ngay lập tức để lấy lại thiện cảm và sự công nhận từ những người đã phê bình mình đó."
       ],
-      "correctIndex": 1,
-      "explanation": "Thay vì phản ứng theo cảm xúc (bảo vệ danh dự) hay theo nỗi sợ (thay đổi ngay lập tức), người tự chủ sẽ sử dụng giá trị bản thân làm bộ lọc để đánh giá chất lượng của lời phê bình."
+      "correctIndex": 2,
+      "explanation": "Thay vì phản ứng theo cảm xúc hay theo nỗi sợ, người tự chủ sẽ sử dụng giá trị bản thân làm bộ lọc để đánh giá chất lượng của lời phê bình."
     },
     {
       "id": "q8",
-      "question": "Tư duy 'Tự phê chuẩn' (Self-validation) mang lại quyền năng gì lớn nhất cho một cá nhân?",
+      "question": "Tư duy tự phê chuẩn mang lại quyền năng gì lớn nhất cho một cá nhân trong hành trình phát triển bản thân?",
       "options": [
-        "Sự tự phụ và coi thường ý kiến người khác",
-        "Khả năng thao túng tâm lý người khác",
-        "Sự tự do khỏi nỗi sợ hãi về đánh giá của ngoại cảnh",
-        "Khả năng loại bỏ mọi sai lầm trong quá trình làm việc"
+        "Sự tự phụ và coi thường ý kiến người khác để khẳng định cái tôi cá nhân mạnh mẽ trong mọi hoàn cảnh sống.",
+        "Khả năng thao túng tâm lý người khác để đạt được mục đích cá nhân mà không bị dư luận làm ảnh hưởng tới.",
+        "Khả năng loại bỏ mọi sai lầm trong quá trình làm việc để đạt được sự hoàn hảo tuyệt đối trong mắt mọi người.",
+        "Sự tự do khỏi nỗi sợ hãi về đánh giá của ngoại cảnh và tập trung năng lượng vào mục tiêu của chính mình."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanation": "Tự phê chuẩn giải phóng tâm trí khỏi sự lệ thuộc vào cảm xúc của xã hội, cho phép cá nhân tập trung năng lượng vào mục tiêu thay vì quản lý dư luận."
     },
     {
       "id": "q9",
-      "question": "Nỗ lực làm hài lòng người khác (People-pleasing) thường dẫn đến kết cục nào?",
+      "question": "Nỗ lực làm hài lòng người khác thường dẫn đến kết cục nào cho sự phát triển nội tại của một cá nhân?",
       "options": [
-        "Xây dựng được một mạng lưới quan hệ bền chặt lâu dài",
-        "Mất đi sự tôn trọng của chính mình và năng lượng cho bản thân",
-        "Tạo ra một hình ảnh hoàn hảo trong mắt tất cả mọi người",
-        "Đạt được thành công nhanh hơn nhờ sự ủng hộ của mọi người"
+        "Mất đi sự tôn trọng của chính mình và cạn kiệt năng lượng cho việc theo đuổi ước mơ của bản thân mình.",
+        "Xây dựng được một mạng lưới quan hệ bền chặt lâu dài nhờ sự khéo léo trong cách ứng xử với mọi người xung.",
+        "Tạo ra một hình ảnh hoàn hảo trong mắt tất cả mọi người và nhận được sự yêu mến từ cộng đồng xung quanh.",
+        "Đạt được thành công nhanh hơn nhờ sự ủng hộ nhiệt tình của mọi người trong các dự án cá nhân quan trọng."
       ],
-      "correctIndex": 1,
-      "explanation": "Việc luôn cố gắng làm hài lòng người khác làm loãng đi giá trị cá nhân, khiến bạn trở thành một 'bản sao' của kỳ vọng xã hội, dẫn đến sự kiệt sức nội tâm."
+      "correctIndex": 0,
+      "explanation": "Việc luôn cố gắng làm hài lòng người khác làm loãng đi giá trị cá nhân, khiến bạn trở thành một bản sao của kỳ vọng xã hội, dẫn đến sự kiệt sức nội tâm."
     },
     {
       "id": "q10",
-      "question": "Việc 'sống với giá trị của mình' trong thực tế thường dẫn đến trạng thái nào?",
+      "question": "Việc sống với giá trị của mình trong thực tế thường dẫn đến trạng thái nào đối với các mối quan hệ?",
       "options": [
-        "Luôn nhận được sự đồng thuận tuyệt đối",
-        "Dễ dàng đạt được các mục tiêu công việc",
-        "Phải chấp nhận thực tế là không phải ai cũng sẽ thích bạn",
-        "Trở thành mục tiêu bị công kích của mọi người xung quanh"
+        "Luôn nhận được sự đồng thuận tuyệt đối từ mọi người xung quanh nhờ vào sự chính trực và kiên định của mình.",
+        "Phải chấp nhận thực tế là không phải ai cũng sẽ thích bạn vì bạn đang sống đúng với bản sắc riêng biệt.",
+        "Dễ dàng đạt được các mục tiêu công việc nhờ vào sự ủng hộ của những người xung quanh trong mọi tình huống.",
+        "Trở thành mục tiêu bị công kích của mọi người xung quanh vì sự khác biệt trong tư duy và hành động cá nhân."
       ],
-      "correctIndex": 2,
-      "explanation": "Người sống đúng với giá trị của mình thường tạo ra những ranh giới khiến người khác cảm thấy không thoải mái, vì vậy, việc bị số đông 'không ưa' là cái giá tất yếu của sự chính trực."
+      "correctIndex": 1,
+      "explanation": "Người sống đúng với giá trị của mình thường tạo ra những ranh giới khiến người khác cảm thấy không thoải mái, vì vậy, việc bị số đông không ưa là cái giá tất yếu của sự chính trực."
     },
     {
       "id": "q11",
       "question": "Một người đang tốn quá nhiều sức lực để được người khác ưa thích đang mắc phải sai lầm tư duy nào?",
       "options": [
-        "Sợ hãi sự cô đơn nhưng lại đánh mất bản sắc",
-        "Không biết cách giao tiếp hiệu quả",
-        "Quá tự tin vào khả năng của bản thân",
-        "Thiếu kỹ năng quản lý thời gian"
+        "Không biết cách giao tiếp hiệu quả để xây dựng hình ảnh cá nhân tích cực trong mắt những người xung quanh mình.",
+        "Quá tự tin vào khả năng của bản thân nên không cần lắng nghe những ý kiến đóng góp từ những người khác.",
+        "Sợ hãi sự cô đơn nhưng lại đánh mất bản sắc cá nhân để đổi lấy sự tồn tại trong vòng an toàn của đám đông.",
+        "Thiếu kỹ năng quản lý thời gian nên không thể cân bằng giữa việc làm hài lòng người khác và phát triển bản."
       ],
-      "correctIndex": 0,
-      "explanation": "Đây là nỗi sợ nguyên thủy của con người. Tuy nhiên, nếu nỗi sợ đó chi phối hành vi, bạn sẽ hy sinh cái tôi đích thực để đổi lấy sự tồn tại trong 'vòng an toàn' của sự đồng thuận."
+      "correctIndex": 2,
+      "explanation": "Đây là nỗi sợ nguyên thủy của con người. Tuy nhiên, nếu nỗi sợ đó chi phối hành vi, bạn sẽ hy sinh cái tôi đích thực để đổi lấy sự tồn tại trong vòng an toàn của sự đồng thuận."
     },
     {
       "id": "q12",
-      "question": "Trong tư duy phát triển bản thân, việc 'bỏ qua dư luận' không có nghĩa là gì?",
+      "question": "Trong tư duy phát triển bản thân, việc bỏ qua dư luận không có nghĩa là hành động nào sau đây?",
       "options": [
-        "Không quan tâm đến sự phát triển cá nhân",
-        "Từ chối lắng nghe các phản hồi mang tính xây dựng để tiến bộ",
-        "Trở nên ích kỷ và vô trách nhiệm với cộng đồng",
-        "Loại bỏ mọi cảm xúc con người"
+        "Không quan tâm đến sự phát triển cá nhân và bỏ mặc những đóng góp tích cực từ những người xung quanh mình.",
+        "Trở nên ích kỷ và vô trách nhiệm với cộng đồng xung quanh vì chỉ tập trung vào lợi ích của riêng bản thân.",
+        "Loại bỏ mọi cảm xúc con người để trở thành một cá thể lạnh lùng và không bị ảnh hưởng bởi thế giới bên.",
+        "Từ chối lắng nghe các phản hồi mang tính xây dựng để tiến bộ hơn trong công việc và cuộc sống cá nhân."
       ],
-      "correctIndex": 1,
-      "explanation": "Phân biệt giữa 'sợ hãi dư luận' (sợ bị phán xét) và 'tiếp nhận phản hồi' (học hỏi để tốt hơn) là chìa khóa của tư duy phản biện."
+      "correctIndex": 3,
+      "explanation": "Phân biệt giữa sợ hãi dư luận (sợ bị phán xét) và tiếp nhận phản hồi (học hỏi để tốt hơn) là chìa khóa của tư duy phản biện."
     },
     {
       "id": "q13",
-      "question": "Tại sao việc 'tự phê chuẩn' lại giúp bạn đạt tới đẳng cấp lãnh đạo cao hơn?",
+      "question": "Tại sao việc tự phê chuẩn lại giúp bạn đạt tới đẳng cấp lãnh đạo cao hơn trong sự nghiệp của mình?",
       "options": [
-        "Vì nó giúp bạn tiết kiệm năng lượng không cần thiết để làm hài lòng người khác",
-        "Vì nó khiến bạn trở nên bí ẩn và khó lường",
-        "Vì nó đảm bảo bạn luôn có quyết định chính xác nhất",
-        "Vì nó tạo ra quyền lực tuyệt đối đối với cấp dưới"
+        "Vì nó giúp bạn tiết kiệm năng lượng không cần thiết để làm hài lòng người khác và tập trung vào tầm nhìn.",
+        "Vì nó khiến bạn trở nên bí ẩn và khó lường trong mắt cấp dưới, từ đó tạo ra sự nể trọng trong công việc.",
+        "Vì nó đảm bảo bạn luôn có quyết định chính xác nhất mà không cần phải tham khảo ý kiến từ bất kỳ ai khác.",
+        "Vì nó tạo ra quyền lực tuyệt đối đối với cấp dưới và giúp bạn kiểm soát mọi tình huống trong tổ chức đó."
       ],
       "correctIndex": 0,
       "explanation": "Năng lượng là hữu hạn. Nếu bạn dành năng lượng để lo lắng xem người khác nghĩ gì, bạn sẽ không còn đủ sức để theo đuổi tầm nhìn và thực hiện ước mơ của mình."
     },
     {
       "id": "q14",
-      "question": "Triết lý 'Dư luận chẳng là gì' trong chương này nhằm mục đích gì?",
+      "question": "Triết lý Dư luận chẳng là gì trong chương này nhằm mục đích gì đối với sự phát triển của cá nhân?",
       "options": [
-        "Khuyến khích con người sống cô lập, tránh xa xã hội",
-        "Tạo ra một cơ chế phòng vệ tâm lý trước những lời đàm tiếu",
-        "Tái định vị trung tâm quyền lực của cá nhân từ bên ngoài vào bên trong (Nội tại)",
-        "Giúp cá nhân giảm bớt sự quan tâm đến các chuẩn mực đạo đức xã hội"
+        "Khuyến khích con người sống cô lập, tránh xa xã hội để bảo vệ bản thân khỏi những lời đàm tiếu tiêu cực.",
+        "Tái định vị trung tâm quyền lực của cá nhân từ bên ngoài vào bên trong để đạt được sự tự chủ hoàn toàn.",
+        "Tạo ra một cơ chế phòng vệ tâm lý vững chắc trước những lời đàm tiếu từ những người xung quanh mình đó.",
+        "Giúp cá nhân giảm bớt sự quan tâm đến các chuẩn mực đạo đức xã hội để tự do làm những gì mình muốn làm."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Đây là bước chuyển từ tư duy lệ thuộc (ngoại tại) sang tư duy tự chủ (nội tại) - một đặc điểm cốt lõi của những nhà lãnh đạo vĩ đại."
     },
     {
       "id": "q15",
       "question": "Khi bạn theo đuổi con đường riêng, tại sao việc người khác nói gì về bạn trở nên ít quan trọng?",
       "options": [
-        "Vì bạn đã trở nên quá nổi tiếng",
-        "Vì bạn biết rằng dư luận là thứ dễ thay đổi và không mang lại giá trị nội tại",
-        "Vì bạn đã chứng minh được sự đúng đắn của mình",
-        "Vì bạn đã tách biệt khỏi đời sống xã hội"
+        "Vì bạn đã trở nên quá nổi tiếng và không còn cần sự công nhận từ những người xung quanh mình nữa đâu.",
+        "Vì bạn đã chứng minh được sự đúng đắn của mình thông qua những thành tựu rực rỡ trong sự nghiệp cá nhân.",
+        "Vì bạn hiểu rằng dư luận là thứ dễ thay đổi và không mang lại giá trị nội tại cho sự phát triển bản thân.",
+        "Vì bạn đã tách biệt hoàn toàn khỏi đời sống xã hội để tập trung vào việc thực hiện ước mơ của chính mình."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Dư luận không phản ánh giá trị thật của bạn mà chỉ phản ánh giới hạn tư duy của người đưa ra ý kiến đó. Việc hiểu rõ bản chất này giúp bạn không bị xao nhãng bởi những ồn ào bên ngoài."
     }
   ]

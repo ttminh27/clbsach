@@ -8,34 +8,34 @@
       "id": "q1",
       "question": "Tại sao việc 'thất bại nhanh hơn' lại là chiến lược tư duy ưu việt của những nhà lãnh đạo xuất sắc?",
       "options": [
-        "Để thể hiện quyền lực và sự tự tin trước cổ đông",
-        "Để giảm thiểu rủi ro và tăng tốc quá trình học hỏi thực tiễn",
-        "Để gây áp lực buộc nhân viên phải làm việc chăm chỉ hơn",
-        "Để chứng minh rằng nguồn lực công ty là không giới hạn"
+        "Để kiểm chứng các giả thuyết thực tế nhằm rút ngắn chu kỳ phản hồi và tối ưu hóa cơ hội đạt được thành công sớm.",
+        "Để tạo ra áp lực cạnh tranh gay gắt buộc nhân viên phải nỗ lực làm việc với cường độ cao hơn trong mọi dự án.",
+        "Để chứng minh cho các cổ đông thấy rằng công ty đang sở hữu nguồn lực tài chính dồi dào cho các hoạt động đổi mới.",
+        "Để xây dựng hình ảnh một nhà lãnh đạo quyết đoán, sẵn sàng chấp nhận rủi ro lớn để thay đổi cục diện thị trường."
       ],
-      "correctIndex": 1,
-      "explanation": "Thất bại nhanh không phải là sự liều lĩnh, mà là phương pháp kiểm chứng giả thuyết thực tế để rút ngắn chu kỳ phản hồi, từ đó tối ưu hóa cơ hội thành công."
+      "correctIndex": 0,
+      "explanation": "Thất bại nhanh là phương pháp kiểm chứng thực tế để rút ngắn chu kỳ phản hồi, từ đó tối ưu hóa cơ hội thành công thay vì lãng phí nguồn lực."
     },
     {
       "id": "q2",
       "question": "Theo triết lý của Robin Sharma, đâu là rào cản tâm lý lớn nhất khiến con người không dám 'thất bại nhanh'?",
       "options": [
-        "Sự thiếu hụt nguồn lực tài chính ban đầu",
-        "Nỗi sợ bị phán xét và cảm giác xấu hổ khi làm sai",
-        "Kế hoạch chiến lược chưa đủ chi tiết và hoàn hảo",
-        "Sự thiếu hỗ trợ từ cấp trên và tổ chức"
+        "Sự thiếu hụt các kế hoạch chiến lược chi tiết và hoàn hảo khiến cá nhân cảm thấy bất an khi phải đối mặt rủi ro.",
+        "Nỗi sợ hãi bị người khác phán xét và cảm giác xấu hổ khi bản thân không đạt được kết quả như kỳ vọng ban đầu.",
+        "Sự thiếu hụt nguồn lực tài chính cần thiết để duy trì các thử nghiệm liên tục trong môi trường kinh doanh khốc liệt.",
+        "Sự thiếu hụt sự hỗ trợ từ cấp trên và tổ chức khiến cá nhân không dám tự ý đưa ra các quyết định mang tính đột phá."
       ],
       "correctIndex": 1,
-      "explanation": "Nỗi sợ bị phán xét và lòng tự tôn giả tạo là xiềng xích ngăn cản hành động. Những người vĩ đại coi thất bại là bài học, còn người trung bình coi đó là sự nhục nhã."
+      "explanation": "Nỗi sợ bị phán xét và lòng tự tôn giả tạo là xiềng xích ngăn cản hành động. Những người vĩ đại coi thất bại là bài học."
     },
     {
       "id": "q3",
       "question": "Câu nói của Seneca: 'Không phải vì sự việc khó khăn nên ta không dám, mà vì ta không dám nên sự việc mới khó khăn' ám chỉ điều gì?",
       "options": [
-        "Mọi sự vật hiện tượng đều do tâm trí kiến tạo",
-        "Thách thức bên ngoài luôn dễ dàng hơn tưởng tượng",
-        "Tâm thế của cá nhân quyết định cách họ nhìn nhận và xử lý rắc rối",
-        "Mọi công việc đều cần sự dũng cảm để bắt đầu"
+        "Mọi sự vật và hiện tượng trong cuộc sống đều do tâm trí con người kiến tạo nên thông qua những suy nghĩ tiêu cực.",
+        "Các thách thức bên ngoài thực tế luôn dễ dàng hơn nhiều so với những gì chúng ta thường tưởng tượng trong tâm trí.",
+        "Tâm thế chủ động của cá nhân quyết định cách họ nhìn nhận và xử lý các rắc rối thay vì để nỗi sợ định hình thực tại.",
+        "Mọi công việc đều đòi hỏi sự dũng cảm để bắt đầu, nếu không có sự dũng cảm thì mọi nỗ lực đều trở nên vô nghĩa."
       ],
       "correctIndex": 2,
       "explanation": "Đây là cốt lõi của tư duy chủ động: thái độ của bạn chính là bộ lọc định hình độ khó của thực tại. Sự trì hoãn làm vấn đề thêm trầm trọng."
@@ -44,22 +44,22 @@
       "id": "q4",
       "question": "Trong bối cảnh đổi mới doanh nghiệp, việc chấp nhận thất bại của Coca-Cola mang hàm ý gì?",
       "options": [
-        "Thất bại là cái giá phải trả cho việc không tuân thủ kế hoạch",
-        "Chi phí đổi mới là một khoản đầu tư cho sự tăng trưởng dài hạn",
-        "Thất bại là dấu hiệu của sự lãng phí vốn cần được loại bỏ",
-        "Lãnh đạo nên chịu trách nhiệm thay cho nhân viên khi thất bại"
+        "Thất bại là cái giá phải trả cho việc không tuân thủ nghiêm ngặt các kế hoạch đã được đề ra từ đầu năm tài chính.",
+        "Thất bại là dấu hiệu của sự lãng phí nguồn vốn quý giá cần được loại bỏ ngay lập tức để bảo vệ lợi nhuận cổ đông.",
+        "Lãnh đạo nên chịu trách nhiệm thay cho nhân viên khi thất bại xảy ra để duy trì sự ổn định trong nội bộ công ty.",
+        "Chi phí cho các hoạt động đổi mới là một khoản đầu tư cần thiết để thúc đẩy sự tăng trưởng bền vững trong dài hạn."
       ],
-      "correctIndex": 1,
-      "explanation": "Đổi mới đòi hỏi rủi ro, và rủi ro luôn song hành với xác suất thất bại. Tư duy của nhà lãnh đạo là biến thất bại thành chi phí học tập hữu ích."
+      "correctIndex": 3,
+      "explanation": "Đổi mới đòi hỏi rủi ro, và rủi ro luôn song hành với xác suất thất bại. Tư duy của nhà lãnh đạo là biến thất bại thành chi phí học tập."
     },
     {
       "id": "q5",
       "question": "Một người muốn vượt trội cần thay đổi định nghĩa về 'thất bại' như thế nào?",
       "options": [
-        "Từ kẻ thù cần tiêu diệt thành người thầy cần thỉnh giáo",
-        "Từ rủi ro tài chính thành cơ hội để được thông cảm",
-        "Từ một sự kiện ngẫu nhiên thành một lỗi lầm không thể dung thứ",
-        "Từ thước đo năng lực thành thước đo may mắn"
+        "Từ một kẻ thù cần phải tiêu diệt thành một người thầy cần thỉnh giáo để rút ra những bài học quý giá cho tương lai.",
+        "Từ một rủi ro tài chính nghiêm trọng thành một cơ hội để được đồng nghiệp và cấp trên thông cảm và hỗ trợ kịp thời.",
+        "Từ một sự kiện ngẫu nhiên không thể kiểm soát thành một lỗi lầm không thể dung thứ trong quá trình làm việc chuyên nghiệp.",
+        "Từ một thước đo năng lực cá nhân thành một thước đo may mắn trong các tình huống kinh doanh đầy biến động và rủi ro."
       ],
       "correctIndex": 0,
       "explanation": "Thay đổi góc nhìn biến thất bại từ gánh nặng tâm lý thành công cụ đắc lực cho sự trưởng thành bản thân."
@@ -68,10 +68,10 @@
       "id": "q6",
       "question": "Điều gì phân biệt một người dám 'thất bại ngoan cường' với một kẻ thất bại thảm hại?",
       "options": [
-        "Khả năng biện minh cho lỗi lầm sau mỗi lần thất bại",
-        "Sự kiên trì đúc kết bài học để chiến thắng trong tương lai",
-        "Sự ủng hộ vô điều kiện từ xã hội",
-        "Việc tránh lặp lại cùng một sai lầm trong thời gian dài"
+        "Khả năng đưa ra các lý lẽ biện minh hợp lý cho những lỗi lầm đã xảy ra sau mỗi lần thất bại trong công việc hàng ngày.",
+        "Sự kiên trì đúc kết các bài học thực tiễn để điều chỉnh hành vi và chiến thắng trong những lần thử nghiệm tiếp theo.",
+        "Sự ủng hộ vô điều kiện từ xã hội và cộng đồng giúp cá nhân vượt qua những khó khăn sau mỗi lần vấp ngã trong đời.",
+        "Việc tránh lặp lại cùng một sai lầm trong thời gian dài để đảm bảo hiệu suất công việc luôn ở mức ổn định nhất định."
       ],
       "correctIndex": 1,
       "explanation": "Thất bại chỉ có giá trị khi nó là dữ liệu đầu vào cho sự tiến hóa. Thất bại ngoan cường là sự bền bỉ trong hành trình đạt tới đỉnh cao."
@@ -80,109 +80,109 @@
       "id": "q7",
       "question": "Tại sao việc 'thất bại nhiều hơn đối thủ' lại trở thành lợi thế cạnh tranh?",
       "options": [
-        "Nó giúp ta tiêu tốn nguồn lực của đối thủ",
-        "Nó cho phép ta thu thập nhiều dữ liệu kinh nghiệm hơn họ",
-        "Nó tạo ra danh tiếng là người dám dấn thân",
-        "Nó khiến đối thủ sợ hãi vì sự liều lĩnh của ta"
+        "Nó giúp ta tiêu tốn nguồn lực của đối thủ bằng cách buộc họ phải chạy theo các thử nghiệm không mang lại hiệu quả.",
+        "Nó tạo ra danh tiếng là người dám dấn thân, từ đó thu hút được nhiều sự chú ý từ các nhà đầu tư tiềm năng lớn.",
+        "Nó cho phép ta thu thập được nhiều dữ liệu kinh nghiệm thực tế hơn so với đối thủ trong cùng một khoảng thời gian.",
+        "Nó khiến đối thủ cảm thấy sợ hãi vì sự liều lĩnh và khó đoán trong các chiến lược kinh doanh của chúng ta hiện nay."
       ],
-      "correctIndex": 1,
-      "explanation": "Người thất bại nhanh và nhiều hơn là người đang học nhanh hơn. Trong kỷ nguyên hiện nay, tốc độ học tập chính là lợi thế cạnh tranh duy nhất bền vững."
+      "correctIndex": 2,
+      "explanation": "Người thất bại nhanh và nhiều hơn là người đang học nhanh hơn. Trong kỷ nguyên hiện nay, tốc độ học tập chính là lợi thế cạnh tranh."
     },
     {
       "id": "q8",
       "question": "Trong môi trường công sở, việc khuyến khích thất bại nhanh đòi hỏi người lãnh đạo phải xây dựng điều gì?",
       "options": [
-        "Hệ thống khen thưởng dựa trên hiệu suất tức thời",
-        "Một văn hóa an toàn tâm lý nơi sai lầm được xem là tiến trình học",
-        "Quy trình kiểm soát khắt khe để giảm thiểu sai sót",
-        "Cơ chế kỷ luật nghiêm minh để mọi người không dám phạm lỗi"
+        "Hệ thống khen thưởng dựa trên hiệu suất tức thời để thúc đẩy nhân viên đạt được kết quả cao nhất trong thời gian ngắn.",
+        "Quy trình kiểm soát công việc khắt khe để giảm thiểu tối đa các sai sót có thể xảy ra trong quá trình vận hành dự án.",
+        "Cơ chế kỷ luật nghiêm minh để đảm bảo mọi nhân viên không dám phạm lỗi trong quá trình thực hiện các nhiệm vụ được giao.",
+        "Một văn hóa an toàn tâm lý nơi các sai lầm được xem là một phần tất yếu của tiến trình học hỏi và phát triển chung."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Văn hóa là nền tảng. Không có an toàn tâm lý, nhân viên sẽ chọn cách làm an toàn và tầm thường thay vì sáng tạo và đột phá."
     },
     {
       "id": "q9",
       "question": "Nghịch lý của thành công được đề cập trong chương này là gì?",
       "options": [
-        "Càng thành công càng dễ thất bại",
-        "Thành công chỉ đến với những kẻ không bao giờ biết đến thất bại",
-        "Sự vĩ đại là kết quả tích lũy từ vô số lần thất bại",
-        "Muốn thành công nhanh thì phải chọn con đường ít rủi ro"
+        "Sự vĩ đại là kết quả tích lũy từ vô số lần thất bại mà cá nhân đã trải qua trong suốt hành trình chinh phục mục tiêu.",
+        "Càng đạt được nhiều thành công thì cá nhân càng dễ dàng đối mặt với những thất bại lớn hơn trong tương lai gần đây.",
+        "Thành công chỉ đến với những kẻ không bao giờ biết đến thất bại và luôn giữ vững phong độ ổn định trong mọi tình huống.",
+        "Muốn đạt được thành công nhanh chóng thì phải chọn con đường ít rủi ro nhất để tránh những tổn thất không đáng có."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Đỉnh cao thành công không phải là con đường trải đầy hoa hồng mà là con đường được lát bằng những bài học rút ra từ những lần gục ngã."
     },
     {
       "id": "q10",
       "question": "Tư duy 'thất bại nhanh' tác động thế nào đến việc ra quyết định cá nhân?",
       "options": [
-        "Giúp quyết định nhanh hơn nhưng giảm đi sự thận trọng",
-        "Giảm bớt gánh nặng tâm lý khi đứng trước các lựa chọn rủi ro",
-        "Khiến cá nhân dễ dàng từ bỏ mục tiêu khi gặp khó khăn",
-        "Loại bỏ hoàn toàn sự sợ hãi trong tâm trí"
+        "Giúp cá nhân đưa ra các quyết định nhanh chóng hơn nhưng lại làm giảm đi sự thận trọng cần thiết trong các dự án lớn.",
+        "Giảm bớt gánh nặng tâm lý khi đứng trước các lựa chọn rủi ro, giúp cá nhân ra quyết định một cách tỉnh táo và dũng cảm.",
+        "Khiến cá nhân dễ dàng từ bỏ mục tiêu ban đầu khi gặp phải những khó khăn nhỏ trong quá trình thực hiện các kế hoạch.",
+        "Loại bỏ hoàn toàn sự sợ hãi trong tâm trí, giúp cá nhân tự tin hơn khi đối mặt với những thách thức mới trong cuộc sống."
       ],
       "correctIndex": 1,
-      "explanation": "Khi hiểu thất bại là một phần của quy trình, áp lực về việc phải hoàn hảo sẽ giảm bớt, giúp ta ra quyết định một cách tỉnh táo và dũng cảm hơn."
+      "explanation": "Khi hiểu thất bại là một phần của quy trình, áp lực về việc phải hoàn hảo sẽ giảm bớt, giúp ta ra quyết định một cách tỉnh táo hơn."
     },
     {
       "id": "q11",
       "question": "Tại sao sợ thất bại lại được xem là 'lối mòn tầm thường'?",
       "options": [
-        "Vì nó khiến con người không bao giờ bước ra khỏi vùng an toàn",
-        "Vì nó là dấu hiệu của sự yếu đuối về thể chất",
-        "Vì nó làm lãng phí thời gian của người khác",
-        "Vì nó gây khó khăn cho việc quản lý tài chính"
+        "Vì nó là dấu hiệu của sự yếu đuối về thể chất, khiến cá nhân không đủ sức bền để theo đuổi các mục tiêu dài hạn.",
+        "Vì nó làm lãng phí thời gian của người khác khi phải chờ đợi sự quyết định thiếu dứt khoát từ những người sợ rủi ro.",
+        "Vì nó khiến con người không bao giờ dám bước ra khỏi vùng an toàn để khám phá những tiềm năng thực sự của bản thân.",
+        "Vì nó gây khó khăn cho việc quản lý tài chính cá nhân khi không dám đầu tư vào những cơ hội mới đầy tiềm năng lớn."
       ],
-      "correctIndex": 0,
-      "explanation": "Sợ thất bại là tự giam mình trong vùng an toàn, nơi sự phát triển bản thân bị đình trệ. Tầm thường là kết quả tất yếu của việc sợ hãi rủi ro."
+      "correctIndex": 2,
+      "explanation": "Sợ thất bại là tự giam mình trong vùng an toàn, nơi sự phát triển bản thân bị đình trệ. Tầm thường là kết quả tất yếu của việc sợ hãi."
     },
     {
       "id": "q12",
       "question": "Sự khác biệt giữa 'thất bại nhanh' và 'ẩu tả trong công việc' là gì?",
       "options": [
-        "Thất bại nhanh có mục đích học hỏi, còn ẩu tả là do thiếu trách nhiệm",
-        "Không có sự khác biệt, cả hai đều là sai lầm",
-        "Thất bại nhanh chỉ dành cho người giàu, còn ẩu tả dành cho người nghèo",
-        "Thất bại nhanh là ngẫu nhiên, ẩu tả là cố ý"
+        "Không có sự khác biệt rõ rệt, cả hai đều là những sai lầm cần phải tránh để đảm bảo chất lượng công việc tốt nhất.",
+        "Thất bại nhanh chỉ dành cho những người giàu có, còn ẩu tả là đặc điểm thường thấy ở những người nghèo khó hơn.",
+        "Thất bại nhanh là một sự kiện ngẫu nhiên không thể tránh khỏi, còn ẩu tả là hành vi cố ý gây ra lỗi lầm nghiêm trọng.",
+        "Thất bại nhanh có mục đích học hỏi và thử nghiệm, còn ẩu tả là do thiếu trách nhiệm và sự tập trung trong công việc."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự khác biệt nằm ở chủ đích và tư duy. Thất bại nhanh là sự thử nghiệm có kiểm soát để tìm ra chân lý, trong khi ẩu tả là sự thiếu tập trung và kỷ luật."
+      "correctIndex": 3,
+      "explanation": "Sự khác biệt nằm ở chủ đích và tư duy. Thất bại nhanh là sự thử nghiệm có kiểm soát, trong khi ẩu tả là sự thiếu tập trung và kỷ luật."
     },
     {
       "id": "q13",
       "question": "Làm sao để áp dụng tư duy của chương này vào việc phát triển bản thân hàng ngày?",
       "options": [
-        "Cố tình tạo ra sai lầm để chứng tỏ sự dũng cảm",
-        "Luôn chuẩn bị tâm lý đón nhận và phân tích dữ liệu sau mỗi lần thử nghiệm mới",
-        "Chỉ chọn làm những việc mình chắc chắn thành công",
-        "Học hỏi từ thành công của người khác thay vì trải nghiệm thực tế"
+        "Luôn chuẩn bị tâm lý đón nhận và phân tích dữ liệu sau mỗi lần thử nghiệm mới để rút ra bài học cho lần sau.",
+        "Cố tình tạo ra các sai lầm trong công việc hàng ngày để chứng tỏ sự dũng cảm và tinh thần dám đối mặt với rủi ro.",
+        "Chỉ chọn làm những việc mình chắc chắn thành công để duy trì sự tự tin và tránh những thất bại không cần thiết.",
+        "Học hỏi từ thành công của người khác thay vì tự mình trải nghiệm thực tế để tiết kiệm thời gian và công sức cá nhân."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Trải nghiệm thực tế (dù thất bại) là bài học sâu sắc nhất. Cần có tư duy phân tích để biến kinh nghiệm thành trí tuệ."
     },
     {
       "id": "q14",
       "question": "Thông điệp ẩn sau lời khuyên 'Hãy thất bại nhiều hơn con người trước đây của mình' là gì?",
       "options": [
-        "Bạn phải không ngừng vượt ngưỡng bản thân",
-        "Quá khứ là những chuỗi thất bại cần được lãng quên",
-        "Số lượng thất bại tỉ lệ thuận với lòng kiên nhẫn",
-        "Bạn cần phải trở nên kém cỏi hơn để bắt đầu lại từ đầu"
+        "Quá khứ là những chuỗi thất bại cần được lãng quên để tập trung vào những thành công rực rỡ trong tương lai gần.",
+        "Bạn phải không ngừng vượt ngưỡng bản thân bằng cách thách thức những giới hạn mà mình chưa từng dám thực hiện.",
+        "Số lượng thất bại tỉ lệ thuận với lòng kiên nhẫn, vì vậy hãy cứ thất bại để rèn luyện bản lĩnh cho chính mình.",
+        "Bạn cần phải trở nên kém cỏi hơn so với hiện tại để có thể bắt đầu lại từ đầu một cách khiêm tốn và chân thành."
       ],
-      "correctIndex": 0,
-      "explanation": "Câu nói khích lệ chúng ta mở rộng giới hạn bản thân. Thách thức những gì mình chưa từng làm sẽ dẫn đến thất bại, nhưng đó là sự thất bại cần thiết để tiến hóa."
+      "correctIndex": 1,
+      "explanation": "Câu nói khích lệ chúng ta mở rộng giới hạn bản thân. Thách thức những gì mình chưa từng làm sẽ dẫn đến thất bại, nhưng đó là sự cần thiết."
     },
     {
       "id": "q15",
       "question": "Xét về tư duy lãnh đạo, tại sao không nên che giấu thất bại trong đội nhóm?",
       "options": [
-        "Vì sự thật luôn luôn là yếu tố quan trọng nhất",
-        "Vì che giấu thất bại làm mất cơ hội rút kinh nghiệm tập thể",
-        "Vì nhân viên sẽ không phục một người lãnh đạo hoàn hảo",
-        "Vì sớm muộn gì sự thật cũng sẽ bị bại lộ"
+        "Vì sự thật luôn luôn là yếu tố quan trọng nhất để duy trì lòng tin giữa các thành viên trong một tổ chức lớn.",
+        "Vì nhân viên sẽ không bao giờ phục một người lãnh đạo luôn tỏ ra hoàn hảo và không bao giờ mắc phải sai lầm.",
+        "Vì che giấu thất bại làm mất đi cơ hội rút kinh nghiệm tập thể, từ đó ngăn cản sự phát triển năng lực của cả đội.",
+        "Vì sớm muộn gì sự thật cũng sẽ bị bại lộ, gây ra những hậu quả nghiêm trọng hơn cho uy tín của người lãnh đạo."
       ],
-      "correctIndex": 1,
-      "explanation": "Thất bại là tài sản tập thể. Khi minh bạch về thất bại, nhà lãnh đạo biến cái sai thành bài học chung cho cả tổ chức, từ đó nâng cao năng lực toàn đội."
+      "correctIndex": 2,
+      "explanation": "Thất bại là tài sản tập thể. Khi minh bạch về thất bại, nhà lãnh đạo biến cái sai thành bài học chung cho cả tổ chức."
     }
   ]
 }

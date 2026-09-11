@@ -6,198 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Tại sao tác giả Gary Keller lại khẳng định một cách dứt khoát rằng: 'Một cuộc sống cân bằng là một lời dối trá'?",
+      "question": "Tại sao tác giả Gary Keller khẳng định rằng 'một cuộc sống cân bằng là một lời dối trá' trong cuốn sách này?",
       "options": [
-        "Vì con người không có đủ tuổi thọ sinh học để theo đuổi sự hoàn hảo trong cuộc sống.",
-        "Vì sự cân bằng tuyệt đối (dưới dạng một danh từ tĩnh) không hề tồn tại trong thực tế; những kết quả phi thường luôn đòi hỏi sự đầu tư thời gian vượt trội cho các ưu tiên, và những điều vĩ đại chỉ xảy ra ở các thái cực chứ không bao giờ ở 'điểm giữa' dung hòa.",
-        "Vì khái niệm này chỉ áp dụng cho phụ nữ nội trợ ở thế kỷ trước chứ không phù hợp với xã hội hiện đại.",
-        "Vì luật pháp quốc tế quy định người lao động phải dành toàn bộ thời gian cho các mục tiêu công nghiệp hóa."
+        "Sự cân bằng tĩnh là ảo tưởng; thành tựu phi thường đòi hỏi sự thiên lệch có chủ đích vào các ưu tiên tại thái cực.",
+        "Con người không đủ khả năng sinh học để duy trì sự cân bằng tuyệt đối giữa các nhu cầu công việc và cuộc sống cá nhân.",
+        "Khái niệm cân bằng chỉ là một công cụ tiếp thị được các tập đoàn tạo ra để kiểm soát thời gian của người lao động.",
+        "Luật pháp quốc tế không công nhận sự cân bằng là một quyền lợi chính đáng của người lao động trong xã hội hiện đại."
       ],
-      "correctIndex": 1,
-      "explanation": "Keith Hammonds và Gary Keller cùng chỉ ra: Tìm kiếm sự cân bằng như một trạng thái tĩnh là một ảo tưởng phá hoại. Nếu bạn dàn đều thời gian cho mọi thứ ở 'điểm giữa', bạn sẽ chỉ tạo ra những kết quả tầm thường. Thành tựu lớn luôn đòi hỏi sự thiên lệch có chủ đích để dành nguồn lực tối đa cho Điều Ý Nghĩa Nhất.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Tác giả lập luận rằng cân bằng là một danh từ tĩnh không tồn tại. Thành công đòi hỏi sự tập trung cực độ vào ưu tiên, tức là sự mất cân bằng có chủ đích."
     },
     {
       "id": "q2",
-      "question": "Theo phân tích lịch sử trong sách, thuật ngữ 'cân bằng công việc - cuộc sống' (work-life balance) bắt đầu bùng nổ trong xã hội phương Tây từ giữa những năm 1980 bắt nguồn từ sự thay đổi cấu trúc xã hội nào?",
+      "question": "Sự bùng nổ của thuật ngữ 'cân bằng công việc - cuộc sống' từ giữa thập niên 1980 bắt nguồn từ nguyên nhân nào?",
       "options": [
-        "Khi hơn một nửa số phụ nữ có gia đình tham gia vào lực lượng lao động, làm thay đổi cấu trúc từ 'gia đình một trụ cột - một người nội trợ' thành 'hai người đi làm - không có ai nội trợ', đẩy gánh nặng việc nhà và áp lực thời gian lên đỉnh điểm.",
-        "Khi phong trào cách mạng công nghiệp thế kỷ 19 bắt đầu yêu cầu công nhân làm việc ca đêm dưới ánh đèn điện.",
-        "Khi các tập đoàn công nghệ lớn tại Thung lũng Silicon phát minh ra mạng Internet và máy vi tính cá nhân.",
-        "Khi tỷ lệ thất nghiệp toàn cầu chạm mức kỷ lục buộc chính phủ các nước phải ban hành luật giảm giờ làm."
+        "Sự phát triển mạnh mẽ của công nghệ thông tin khiến ranh giới giữa không gian làm việc và không gian sống bị xóa nhòa.",
+        "Sự thay đổi cấu trúc gia đình từ một trụ cột sang hai trụ cột khiến việc nhà trở thành gánh nặng gây xung đột.",
+        "Các phong trào bảo vệ quyền lợi người lao động đã gây áp lực buộc chính phủ phải đưa khái niệm này vào luật lao động.",
+        "Sự gia tăng đột biến của các bài báo về tâm lý học đã định hướng dư luận tìm kiếm một trạng thái sống hoàn hảo hơn."
       ],
-      "correctIndex": 0,
-      "explanation": "Sách trích dẫn tác phẩm của Ralph E. Gomory: Trước thập niên 1980, gia đình truyền thống có người nội trợ gánh vác việc nhà. Khi phụ nữ đi làm, gia đình chuyển thành 'hai trụ cột kiếm tiền nhưng không có người nội trợ'. Khảo sát của LexisNexis cho thấy các bài viết về 'cân bằng' tăng vọt từ 32 bài (1986-1996) lên tới 1.674 bài vào năm 2007 do xung đột gay gắt giữa trách nhiệm gia đình và công sở.",
-      "difficulty": "hard"
+      "correctIndex": 1,
+      "explanation": "Sự chuyển dịch từ gia đình có người nội trợ sang gia đình hai trụ cột làm nảy sinh nhu cầu tìm kiếm sự cân bằng để giải quyết áp lực."
     },
     {
       "id": "q3",
-      "question": "Vấn đề cốt tử của việc theo đuổi và sống ở 'điểm giữa' (the middle ground) trong sự nghiệp là gì?",
+      "question": "Vấn đề cốt tử khi cố gắng duy trì cuộc sống ở 'điểm giữa' (the middle ground) trong sự nghiệp là gì?",
       "options": [
-        "Điểm giữa khiến người lao động bị giảm lương do không đạt định mức thời gian làm thêm ngoài giờ.",
-        "Điểm giữa là nguyên nhân trực tiếp làm tăng lượng khí thải nhà kính trong các đô thị lớn.",
-        "Điểm giữa đòi hỏi phải chi trả quá nhiều tiền cho các dịch vụ chăm sóc sức khỏe tâm thần.",
-        "Nó ngăn cản bạn đưa ra những cam kết thời gian đặc biệt phi thường cho bất kỳ điều gì; khi cố gắng can dự vào mọi việc một cách nửa vời, bạn sẽ thấy không có việc nào được hoàn chỉnh và kết quả chỉ ở mức trung bình."
+        "Điểm giữa khiến người lao động dễ bị đào thải do không đáp ứng được các tiêu chuẩn khắt khe về năng suất của công ty.",
+        "Việc duy trì trạng thái trung dung làm giảm khả năng sáng tạo và tư duy đột phá của cá nhân trong môi trường cạnh tranh.",
+        "Nó ngăn cản việc đưa ra cam kết thời gian đặc biệt cho bất kỳ điều gì, khiến mọi kết quả chỉ dừng ở mức trung bình.",
+        "Nó tạo ra sự bất ổn về tâm lý khi cá nhân luôn cảm thấy mình không đạt được mục tiêu tối thượng trong sự nghiệp cá nhân."
       ],
-      "correctIndex": 3,
-      "explanation": "Tác giả chỉ rõ: Lý do không nên theo đuổi sự cân bằng ở điểm giữa là vì phép màu và những đột phá không bao giờ diễn ra ở đó. Điểm giữa là vùng đất của sự an toàn và tầm thường. Khi bạn chia nhỏ thời gian để làm hài lòng tất cả mọi thứ, bạn sẽ không bao giờ có đủ độ sâu và cường độ để tạo nên những kết quả xuất chúng.",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Điểm giữa là vùng đất của sự tầm thường. Để đạt kết quả xuất chúng, bạn phải từ bỏ sự an toàn của điểm giữa để tiến về các thái cực."
     },
     {
       "id": "q4",
-      "question": "Câu chuyện bi kịch về người mẹ của bạn vợ tác giả (người đã dành cả đời chắt bóp mua vải may sẵn để dành đi du lịch sau khi nghỉ hưu, nhưng qua đời vì ung thư ngay trong năm giảng dạy cuối cùng) gửi gắm bài học đanh thép nào?",
+      "question": "Câu chuyện về người mẹ dành dụm vải vóc để chờ nghỉ hưu nhưng qua đời sớm gửi gắm bài học gì về thời gian?",
       "options": [
-        "Người già không nên mua sắm quần áo vải vóc trước khi chính thức nhận sổ hưu.",
-        "Cần phải đầu tư toàn bộ tiền tiết kiệm vào thị trường bất động sản thay vì giữ tiền mặt.",
-        "Thời gian không bao giờ chờ đợi ai; nếu bạn đẩy sự trì hoãn trong đời sống cá nhân đến một thái cực quá xa, sự trì hoãn đó có thể trở thành vĩnh viễn và không bao giờ có cơ hội sửa chữa.",
-        "Nghề giáo viên là công việc quá áp lực và gây nguy cơ mắc bệnh ung thư cao nhất trong xã hội."
+        "Việc tiết kiệm quá mức cho tương lai là một sai lầm tài chính khiến con người bỏ lỡ những trải nghiệm sống hiện tại.",
+        "Sự nghiệp giáo dục đầy áp lực có thể gây ra những hệ lụy sức khỏe nghiêm trọng nếu không được cân bằng hợp lý sớm.",
+        "Những lời hứa hẹn chưa thực hiện được sẽ trở thành gánh nặng tâm lý cho người thân sau khi chúng ta không còn nữa.",
+        "Thời gian không chờ đợi ai; việc trì hoãn các ưu tiên cá nhân đến tương lai có thể dẫn đến sự hối tiếc vĩnh viễn."
       ],
-      "correctIndex": 2,
-      "explanation": "Thời gian là thứ tài sản một chiều không thể quay đầu. Người mẹ đã hoãn lại niềm vui sống và sự tận hưởng để chờ đến ngày nghỉ hưu, nhưng bà không bao giờ kịp chạm tới. Đùa giỡn với thời gian trong đời sống cá nhân là một canh bạc cầm chắc phần thua, bởi những lời hứa hẹn tương lai không bao giờ có gì đảm bảo.",
-      "difficulty": "medium"
+      "correctIndex": 3,
+      "explanation": "Thời gian là tài sản một chiều. Đẩy các ưu tiên cá nhân đến tương lai là canh bạc rủi ro vì tương lai không bao giờ được đảm bảo."
     },
     {
       "id": "q5",
-      "question": "Một doanh nhân tự hào chia sẻ: 'Suốt thời trẻ tôi làm việc ngày đêm và hiếm khi gặp mặt con cái. Giờ đây sau khi bán công ty, tôi có đủ tiền bạc và thời gian để bù đắp lại những năm tháng tuổi thơ đã mất của các con'. Tác giả sẽ phản biện tư duy này như thế nào?",
+      "question": "Tác giả phản biện thế nào về tư duy 'làm việc cật lực hiện tại để bù đắp cho gia đình sau khi nghỉ hưu'?",
       "options": [
-        "Khen ngợi đây là hình mẫu thành công lý tưởng nhất mà mọi người khởi nghiệp nên noi theo.",
-        "Vạch trần rằng đây là một ảo tưởng vô vọng: bạn không thể mua lại hay 'bù đắp' một bữa tiệc sinh nhật năm 5 tuổi của đứa trẻ bằng một bữa tối khi nó đã là một thiếu niên; thời gian đã trôi qua là mất vĩnh viễn.",
-        "Khuyên vị doanh nhân nên dùng số tiền đó để thành lập một quỹ từ thiện cho trẻ em cơ nhỡ.",
-        "Cho rằng việc bán công ty là quyết định sai lầm vì giá trị cổ phiếu sẽ tiếp tục tăng trong tương lai."
+        "Đó là ảo tưởng vô vọng vì bạn không thể mua lại hay bù đắp những khoảnh khắc tuổi thơ đã mất của con cái mình.",
+        "Việc bán công ty để nghỉ hưu sớm là một quyết định sai lầm vì nó làm mất đi mục đích sống của một doanh nhân thành đạt.",
+        "Sự giàu có về tài chính không thể thay thế được sự hiện diện của cha mẹ trong các giai đoạn phát triển của trẻ nhỏ.",
+        "Doanh nhân thường đánh giá thấp giá trị của thời gian bên gia đình so với những thành tựu kinh tế mà họ đã đạt được."
       ],
-      "correctIndex": 1,
-      "explanation": "Keller đặt câu hỏi day dứt: 'Liệu một bữa tiệc của cậu nhóc 5 tuổi với những người bạn tưởng tượng có giống bữa tối với cậu bé ấy khi đã học trung học? Liệu bạn có thể thỏa thuận để thời gian đứng yên chờ bạn?'. Những khoảnh khắc gắn kết thiêng liêng của gia đình có thời hạn sử dụng; nếu bỏ lỡ, không bao giờ có thể 'bù đắp' được bằng bất kỳ số tiền nào.",
-      "difficulty": "hard"
+      "correctIndex": 0,
+      "explanation": "Những khoảnh khắc gắn kết gia đình có thời hạn. Khi thời gian đã trôi qua, không số tiền nào có thể bù đắp được những kỷ niệm đã mất."
     },
     {
       "id": "q6",
-      "question": "Hình tượng nữ diễn viên múa ba lê đứng trên đầu mũi chân được tác giả dùng để chuyển hóa nhận thức từ khái niệm 'cân bằng' (balance) sang khái niệm nào chính xác hơn?",
+      "question": "Hình tượng vũ công ba lê được dùng để minh họa cho khái niệm nào thay thế cho 'sự cân bằng tĩnh'?",
       "options": [
-        "'Sự thăng bằng' hay 'hành động giữ thăng bằng' (counterbalancing) - sự điều chỉnh linh hoạt, liên tục và mau lẹ để giữ vững trạng thái thay vì là một điểm đứng yên bất động.",
-        "'Sự bất động tuyệt đối' - khả năng khóa chặt toàn bộ cơ thể để chống lại các rung chấn từ môi trường bên ngoài.",
-        "'Sự buông bỏ hoàn toàn' - thả lỏng toàn bộ cơ bắp để cơ thể tự trôi theo quán tính của sàn diễn.",
-        "'Sự phân thân' - khả năng di chuyển đồng thời sang hai phía của sân khấu cùng một lúc."
+        "Sự tập trung cao độ vào kỹ thuật để đạt được trạng thái hoàn hảo trong từng động tác biểu diễn trên sân khấu lớn.",
+        "Sự thăng bằng linh hoạt, đòi hỏi những điều chỉnh liên tục và mau lẹ để duy trì trạng thái trong mọi hoàn cảnh.",
+        "Khả năng kiểm soát cơ thể tuyệt đối để chống lại các tác động ngoại cảnh nhằm giữ vững vị trí đứng trên mũi chân.",
+        "Sự phối hợp nhịp nhàng giữa các bộ phận cơ thể để tạo ra vẻ đẹp uyển chuyển và nhẹ nhàng trong mắt người xem."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi nhìn từ xa, vũ công ba lê trông như đang cân bằng tĩnh tại hoàn hảo. Nhưng nhìn cận cảnh, các đầu ngón chân của cô ấy liên tục rung lắc và thực hiện hàng ngàn vi điều chỉnh gấp gáp để giữ thăng bằng. Cuộc sống thực cũng vậy: không có trạng thái cân bằng tĩnh, chỉ có 'hành động giữ thăng bằng' (counterbalancing) chủ động và nhạy bén.",
-      "difficulty": "easy"
+      "correctIndex": 1,
+      "explanation": "Vũ công không đứng yên; họ thực hiện hàng ngàn vi điều chỉnh. Cuộc sống cũng vậy, cần sự thăng bằng chủ động thay vì trạng thái tĩnh."
     },
     {
       "id": "q7",
-      "question": "Quy tắc 'Bước ngắn' (short counterbalancing) và 'Bước dài' (long counterbalancing) được phân bổ như thế nào giữa đời sống cá nhân và công việc chuyên môn?",
+      "question": "Quy tắc 'bước ngắn' và 'bước dài' được phân bổ như thế nào để đạt hiệu quả trong cuộc sống và công việc?",
       "options": [
-        "Trong công việc hãy đi bước ngắn (đổi dự án mỗi ngày), còn trong đời sống cá nhân hãy đi bước dài (rời xa gia đình vài năm rồi về).",
-        "Cả công việc lẫn đời sống cá nhân đều phải áp dụng bước dài tuyệt đối để tối đa hóa hiệu quả quy mô.",
-        "Trong đời sống cá nhân hãy đi 'bước ngắn' (không bao giờ bỏ bê sức khỏe, gia đình quá lâu); trong công việc chuyên môn hãy chấp nhận đi 'bước dài' (tập trung cao độ và chấp nhận mất cân bằng tạm thời để theo đuổi kết quả phi thường).",
-        "Trong đời sống cá nhân hãy đi bước cực dài, còn trong sự nghiệp thì không được rời khỏi điểm giữa."
+        "Cả công việc và cuộc sống cá nhân đều nên áp dụng bước dài để tối đa hóa hiệu suất và đạt được mục tiêu dài hạn.",
+        "Công việc nên đi bước ngắn để tránh kiệt sức, còn đời sống cá nhân nên đi bước dài để xây dựng những kỷ niệm sâu.",
+        "Đời sống cá nhân cần bước ngắn để kết nối liên tục; công việc cần bước dài để tập trung vào kết quả phi thường.",
+        "Việc phân bổ bước ngắn hay dài phụ thuộc hoàn toàn vào tính cách cá nhân thay vì bản chất của công việc hay gia đình."
       ],
       "correctIndex": 2,
-      "explanation": "Đây là phát kiến tối quan trọng của Chương 8: (1) Đời sống cá nhân đòi hỏi BƯỚC NGẮN - bạn không thể bỏ bê cơ thể, con cái, tinh thần quá lâu vì hậu quả sẽ không thể cứu vãn; (2) Công việc đòi hỏi BƯỚC DÀI - để đạt đỉnh cao chuyên môn, bạn phải dành những khối thời gian khổng lồ không cân xứng cho việc cốt lõi, chấp nhận để những việc phụ rơi vào trạng thái mất cân bằng tạm thời.",
-      "difficulty": "hard"
+      "explanation": "Đời sống cá nhân không thể bỏ bê lâu (bước ngắn), trong khi công việc đòi hỏi sự tập trung sâu vào ưu tiên (bước dài)."
     },
     {
       "id": "q8",
-      "question": "Trong cuốn tiểu thuyết 'Nhật ký của Suzanne dành cho Nicholas' của James Patterson, ẩn dụ về 5 quả bóng tung hứng đã phân loại bản chất của công việc và cuộc sống ra sao?",
+      "question": "Ẩn dụ 5 quả bóng trong tiểu thuyết của James Patterson phân loại bản chất của công việc và cuộc sống ra sao?",
       "options": [
-        "Cả 5 quả bóng (công việc, gia đình, sức khỏe, bạn bè, sự toàn vẹn) đều làm bằng kim loại đặc và không bao giờ bị vỡ.",
-        "Công việc là quả bóng thủy tinh mong manh nhất, còn sức khỏe và gia đình là những quả bóng cao su tự đàn hồi.",
-        "Cả 5 quả bóng đều làm bằng pha lê dễ vỡ nên tốt nhất ta không nên tung hứng bất kỳ quả nào.",
-        "Công việc là quả bóng cao su (nếu bạn làm rơi, nó sẽ nảy trở lại); còn 4 quả bóng kia gồm gia đình, sức khỏe, bạn bè và sự toàn vẹn được làm bằng thủy tinh (nếu trượt tay, chúng sẽ rạn nứt, sứt mẻ hoặc vỡ tan)."
+        "Tất cả các quả bóng đều là thủy tinh dễ vỡ, đòi hỏi sự cẩn trọng tuyệt đối khi tung hứng trong cuộc sống hàng ngày.",
+        "Công việc là quả bóng thủy tinh quan trọng nhất, còn các quả bóng khác có thể thay thế nếu chúng ta đánh rơi.",
+        "Việc tung hứng 5 quả bóng là một bài tập rèn luyện sự kiên nhẫn và khả năng quản lý đa nhiệm của con người hiện đại.",
+        "Công việc là quả bóng cao su có thể nảy lên, còn gia đình và sức khỏe là quả bóng thủy tinh dễ vỡ tan."
       ],
       "correctIndex": 3,
-      "explanation": "Ẩn dụ 5 quả bóng của James Patterson là kim chỉ nam cho sự thăng bằng: Bạn có thể mất một hợp đồng hay thất bại ở một dự án (quả bóng cao su rơi xuống lại nảy lên), nhưng nếu bạn làm vỡ sức khỏe, hôn nhân hay đạo đức cá nhân (quả bóng thủy tinh), những vết nứt đó sẽ không bao giờ có thể hàn gắn lại nguyên vẹn như cũ.",
-      "difficulty": "medium"
+      "explanation": "Công việc có thể làm lại nếu thất bại, nhưng sức khỏe, gia đình và bạn bè là những giá trị không thể phục hồi nếu bị tổn thương."
     },
     {
       "id": "q9",
-      "question": "Nghiên cứu kéo dài 11 năm trên gần 7.100 công chức Anh về thời gian làm việc đã đưa ra kết luận y khoa đáng báo động nào về việc hy sinh sức khỏe cho công việc?",
+      "question": "Nghiên cứu về công chức Anh chỉ ra rủi ro y khoa nào khi làm việc hơn 11 giờ mỗi ngày?",
       "options": [
-        "Những người làm việc ít hơn 4 giờ một ngày có nguy cơ mắc bệnh viêm phổi cao gấp 3 lần.",
-        "Những cá nhân làm việc hơn 11 giờ một ngày (hơn 55 giờ/tuần) có nguy cơ mắc bệnh tim mạch cao hơn tới 67% so với người làm việc tiêu chuẩn.",
-        "Làm việc nhiều giờ giúp hệ miễn dịch sản sinh kháng thể tự nhiên chống lại mọi bệnh ung thư.",
-        "Thời gian làm việc văn phòng hoàn toàn không có mối liên hệ nào với tuổi thọ hay sức khỏe tim mạch."
+        "Nguy cơ mắc bệnh tim mạch tăng cao tới 67% so với những người làm việc trong khung giờ tiêu chuẩn hàng ngày.",
+        "Tỷ lệ suy giảm trí nhớ và khả năng tập trung tăng mạnh do áp lực công việc kéo dài liên tục trong nhiều năm liền.",
+        "Hệ miễn dịch bị suy yếu nghiêm trọng khiến cơ thể dễ mắc các bệnh truyền nhiễm thông thường trong môi trường văn phòng.",
+        "Sự mất cân bằng trong lối sống dẫn đến các vấn đề về xương khớp do ngồi làm việc quá lâu mà không có vận động."
       ],
-      "correctIndex": 1,
-      "explanation": "Nghiên cứu công chức Anh chứng minh sự mất thăng bằng thái quá kéo dài trong công việc sẽ trả giá bằng mạng sống. Làm việc trên 11 giờ/ngày làm tăng 67% nguy cơ bệnh tim. Bạn không thể 'bước dài' mãi mãi trong công việc mà bỏ rơi sức khỏe cá nhân, vì quả bóng thủy tinh sức khỏe một khi vỡ thì sự nghiệp cũng chấm dứt.",
-      "difficulty": "medium"
+      "correctIndex": 0,
+      "explanation": "Làm việc quá mức dẫn đến hậu quả sức khỏe nghiêm trọng. Sức khỏe là quả bóng thủy tinh, nếu vỡ thì sự nghiệp cũng vô nghĩa."
     },
     {
       "id": "q10",
-      "question": "Một người đang trong giai đoạn 'bước dài' tập trung cho một dự án kinh doanh mang tính sống còn của công ty. Để gia đình không bị đổ vỡ, người này cần hành động như thế nào cho đúng tinh thần của Chương 8?",
+      "question": "Khi cần tập trung cho một dự án quan trọng (bước dài), làm thế nào để bảo vệ các mối quan hệ cá nhân?",
       "options": [
-        "Cắt đứt hoàn toàn mọi liên lạc với người thân và đổi số điện thoại trong 6 tháng để không bị phân tâm.",
-        "Thuê người giúp việc thay mình tham gia các buổi họp phụ huynh và ăn tối cùng vợ/chồng.",
-        "Thừa nhận sự mất cân bằng trong công việc, giao tiếp chân thành trước với gia đình về khoảng thời gian cần thiết, và duy trì những 'bước ngắn' thăng bằng chặt chẽ (hiện diện trọn vẹn 100% trong những khoảng thời gian ngắn bên nhau, không mang việc về bàn ăn).",
-        "Từ bỏ ngay lập tức dự án kinh doanh vì bất kỳ dự án nào đòi hỏi tập trung cao độ đều là bóc lột sức lao động."
+        "Tạm thời cắt đứt mọi liên lạc với người thân để đảm bảo sự tập trung cao độ nhất cho các mục tiêu công việc quan trọng.",
+        "Thừa nhận sự mất cân bằng, giao tiếp chân thành với gia đình và hiện diện trọn vẹn trong những khoảng thời gian ngắn.",
+        "Thuê người hỗ trợ các công việc gia đình để có thêm thời gian làm việc mà không làm ảnh hưởng đến chất lượng cuộc sống.",
+        "Hy sinh thời gian nghỉ ngơi cá nhân để bù đắp cho gia đình vào những ngày cuối tuần nhằm duy trì sự gắn kết cần thiết."
       ],
-      "correctIndex": 2,
-      "explanation": "Thăng bằng không có nghĩa là 50-50 về thời gian. Khi công việc cần bước dài, bạn phải chủ động thương lượng bối cảnh với người thân và đảm bảo rằng thời gian bạn dành cho họ (dù ít hơn về lượng) phải đạt chất lượng cao nhất (bước ngắn kết nối sâu sắc). Nhận thức và sự hiện diện trọn vẹn là chìa khóa bảo vệ quả bóng thủy tinh gia đình.",
-      "difficulty": "hard"
+      "correctIndex": 1,
+      "explanation": "Thăng bằng không phải là 50-50. Khi công việc cần bước dài, hãy đảm bảo thời gian bên gia đình phải đạt chất lượng cao nhất."
     },
     {
       "id": "q11",
-      "question": "Tại sao việc chuyển đổi ngôn ngữ từ 'tìm kiếm sự cân bằng' sang 'hành động dựa trên ưu tiên' lại là bước ngoặt giải phóng tư duy?",
+      "question": "Tại sao việc thay đổi từ 'tìm kiếm cân bằng' sang 'hành động dựa trên ưu tiên' lại giải phóng tư duy?",
       "options": [
-        "Bởi vì khi bạn hành động dựa trên các ưu tiên, bạn tự động chấp nhận trạng thái 'mất cân bằng có chủ đích' - dành nhiều thời gian hơn cho việc quan trọng nhất mà không còn bị dằn vặt bởi cảm giác tội lỗi khi những việc thứ yếu chưa hoàn thành.",
-        "Bởi vì từ 'ưu tiên' nghe chuyên nghiệp và hiện đại hơn trong các bài thuyết trình doanh nghiệp.",
-        "Bởi vì từ 'cân bằng' đã bị cấm sử dụng trong các tài liệu quản trị học quốc tế.",
-        "Bởi vì các nhà khoa học đã chứng minh từ 'ưu tiên' có tần số rung động sóng âm kích thích thùy chẩm phát triển."
+        "Từ 'ưu tiên' mang lại cảm giác quyền lực và kiểm soát tốt hơn so với từ 'cân bằng' trong quản trị công việc cá nhân.",
+        "Việc tập trung vào ưu tiên giúp giảm bớt số lượng công việc phải làm trong ngày, từ đó tăng hiệu suất làm việc chung.",
+        "Nó giúp chấp nhận sự mất cân bằng có chủ đích để dành nguồn lực cho việc quan trọng nhất mà không cảm thấy tội lỗi.",
+        "Khái niệm ưu tiên được các chuyên gia tâm lý học khuyến khích sử dụng để cải thiện sức khỏe tinh thần cho nhân viên."
       ],
-      "correctIndex": 0,
-      "explanation": "Khi khao khát 'cân bằng', bạn luôn cảm thấy có lỗi vì ngày nào cũng có việc chưa làm xong. Nhưng khi chuyển sang tư duy 'ưu tiên', bạn hiểu rằng việc bỏ ngỏ một số việc không quan trọng là cái giá tất yếu để Điều Quan Trọng Nhất đạt kết quả phi thường. Sự mất cân bằng có kiểm soát trở thành công cụ kiến tạo thành công.",
-      "difficulty": "medium"
+      "correctIndex": 2,
+      "explanation": "Tư duy ưu tiên cho phép bạn bỏ ngỏ những việc thứ yếu để tập trung vào điều quan trọng nhất, giúp đạt kết quả phi thường."
     },
     {
       "id": "q12",
-      "question": "Theo cuốn sách, cảm giác 'vẫn còn nhiều việc chưa hoàn thành vào cuối ngày' nên được người thành công nhìn nhận như thế nào?",
+      "question": "Cảm giác 'vẫn còn nhiều việc chưa hoàn thành vào cuối ngày' nên được nhìn nhận như thế nào?",
       "options": [
-        "Là bằng chứng tuyệt đối cho thấy bạn là một nhân viên yếu kém và cần phải bị phạt trừ lương.",
-        "Là dấu hiệu cho thấy công ty đang bị tấn công bởi các đối thủ cạnh tranh giấu mặt.",
-        "Là lời cảnh báo bạn phải lập tức thức trắng đêm để xử lý cho bằng hết danh sách to-do list.",
-        "Là hệ quả tự nhiên và cần thiết: Bỏ ngỏ một số việc là sự lựa chọn bắt buộc để có được những kết quả đáng kinh ngạc; điều cốt yếu là Điều Quan Trọng Nhất đã được hoàn thành trọn vẹn."
+        "Là dấu hiệu cho thấy bạn cần phải cải thiện kỹ năng quản lý thời gian để có thể hoàn thành mọi việc trong danh sách.",
+        "Là bằng chứng cho thấy khối lượng công việc được giao vượt quá khả năng xử lý thực tế của một cá nhân bình thường.",
+        "Là lời cảnh báo rằng bạn đang làm việc thiếu hiệu quả và cần phải thay đổi phương pháp làm việc ngay lập tức.",
+        "Là hệ quả cần thiết khi bạn đã chọn lọc và hoàn thành những điều quan trọng nhất để đạt kết quả đáng kinh ngạc."
       ],
       "correctIndex": 3,
-      "explanation": "Chương 8 viết: 'Khi những điều quan trọng nhất đã được thực hiện, bạn sẽ vẫn còn nguyên cảm giác mọi thứ vẫn chưa được hoàn thành... Bỏ ngỏ một số việc là sự lựa chọn cần thiết để có được những kết quả đáng kinh ngạc'. Cố gắng làm sạch bách mọi việc trong to-do list là hành động điên rồ và tự hạ thấp năng suất của chính mình.",
-      "difficulty": "medium"
+      "explanation": "Cố gắng làm hết mọi việc là điên rồ. Bỏ ngỏ những việc không quan trọng là cái giá tất yếu để đạt được thành tựu lớn."
     },
     {
       "id": "q13",
-      "question": "Hậu quả thảm khốc nhất của việc áp dụng sai nguyên tắc: đi 'bước dài' (long counterbalancing) trong đời sống cá nhân là gì?",
+      "question": "Hậu quả thảm khốc nhất của việc áp dụng sai nguyên tắc 'bước dài' trong đời sống cá nhân là gì?",
       "options": [
-        "Bị mất thẻ hội viên câu lạc bộ thể hình do không đến tập thường xuyên.",
-        "Khi bạn quay trở lại sau chuyến hành trình dài miệt mài với công việc, bạn phát hiện ra không còn gì chờ đợi bạn ở nhà nữa: hôn nhân tan vỡ, con cái xa cách và sức khỏe đã suy kiệt không thể phục hồi.",
-        "Làm tăng nguy cơ bị thanh tra thuế cá nhân do chi tiêu gia đình sụt giảm đột ngột.",
-        "Làm cho căn nhà bị bám bụi và giảm giá trị chuyển nhượng trên thị trường bất động sản."
+        "Khi quay trở lại, bạn phát hiện hôn nhân tan vỡ hoặc con cái xa cách vì đã bỏ bê chúng quá lâu trong thời gian dài.",
+        "Sức khỏe thể chất suy giảm nghiêm trọng do không có thời gian tập luyện thể thao trong suốt quá trình làm việc dài.",
+        "Các mối quan hệ bạn bè bị rạn nứt do không có sự tương tác thường xuyên trong suốt giai đoạn tập trung cho sự nghiệp.",
+        "Sự nghiệp cá nhân bị đình trệ do không có sự cân bằng giữa công việc và các hoạt động giải trí để tái tạo năng lượng."
       ],
-      "correctIndex": 1,
-      "explanation": "Sách cảnh báo: Thăng bằng đồng nghĩa với việc 'bạn không bao giờ đi quá xa đến mức không thể tìm được đường về hoặc ở đó quá lâu đến mức không có gì chờ đợi bạn khi bạn trở về'. Đời sống cá nhân không chịu được những khoảng vắng mặt quá dài; những tổn thương ở quả bóng thủy tinh khi đã vỡ thì không thể hàn gắn.",
-      "difficulty": "hard"
+      "correctIndex": 0,
+      "explanation": "Đời sống cá nhân không chịu được những khoảng vắng mặt quá dài. Nếu đi quá xa, bạn sẽ không còn gì chờ đợi mình khi trở về."
     },
     {
       "id": "q14",
-      "question": "Trong quản lý công việc hàng ngày, mảng công việc nên được phân chia thành hai khu vực riêng biệt nào để đạt hiệu suất cao nhất?",
+      "question": "Mảng công việc nên được phân chia thành hai khu vực nào để đạt hiệu suất cao nhất theo sách?",
       "options": [
-        "Khu vực 'Điều quan trọng nhất' (cần được đẩy đến các thái cực, dành thời gian không cân xứng) và khu vực 'Những việc còn lại' (giữ ở mức thăng bằng chấp nhận được).",
-        "Khu vực việc làm bằng tay và khu vực việc làm bằng phần mềm máy tính bảng.",
-        "Khu vực việc làm trước giờ trưa và khu vực việc làm sau giờ tan ca buổi chiều.",
-        "Khu vực việc sếp giao trực tiếp và khu vực việc đồng nghiệp nhờ giúp đỡ."
+        "Khu vực công việc chuyên môn đòi hỏi kỹ năng cao và khu vực công việc hành chính cần sự tỉ mỉ và chính xác.",
+        "Khu vực điều quan trọng nhất cần đầu tư tối đa và khu vực những việc còn lại cần duy trì ở mức ổn thỏa.",
+        "Khu vực công việc tạo ra lợi nhuận trực tiếp và khu vực công việc hỗ trợ sự phát triển bền vững của công ty.",
+        "Khu vực công việc cần làm ngay lập tức và khu vực công việc có thể trì hoãn lại cho đến khi có thời gian rảnh."
       ],
-      "correctIndex": 0,
-      "explanation": "Ý tưởng lớn thứ hai của chương: Mảng công việc được chia thành hai khu vực rõ rệt - 'Điều quan trọng nhất' và 'Những việc còn lại'. Bạn phải đẩy những gì quan trọng nhất đến thái cực (đầu tư tối đa thời gian và tâm sức), còn phần còn lại chỉ cần duy trì ở mức đủ ổn thỏa. Đó là cách những người kiệt xuất làm việc.",
-      "difficulty": "easy"
+      "correctIndex": 1,
+      "explanation": "Bạn phải đẩy việc quan trọng nhất đến thái cực, còn những việc khác chỉ cần duy trì ở mức đủ ổn thỏa để không ảnh hưởng hệ thống."
     },
     {
       "id": "q15",
-      "question": "Thông điệp đúc kết cô đọng nhất của Chương 8 về nghệ thuật sống là gì?",
+      "question": "Thông điệp đúc kết cô đọng nhất về nghệ thuật sống trong chương này là gì?",
       "options": [
-        "Hãy cố gắng chia đều 24 giờ mỗi ngày cho 8 giờ làm việc, 8 giờ ngủ và 8 giờ giải trí.",
-        "Hãy làm việc cật lực không nghỉ ngơi cho đến khi tài khoản ngân hàng đạt mốc 10 triệu đô la.",
-        "Hãy bắt đầu làm chủ cuộc sống thăng bằng của bạn; hãy làm những việc cần ưu tiên trước - cuộc sống khác biệt là một hành động giữ thăng bằng linh hoạt liên tục.",
-        "Hãy từ bỏ hoàn toàn tham vọng sự nghiệp để tận hưởng sự thanh nhàn tuyệt đối ở nông thôn."
+        "Hãy cố gắng chia đều thời gian cho mọi khía cạnh của cuộc sống để đạt được trạng thái hạnh phúc và bình yên nhất.",
+        "Hãy làm việc cật lực không ngừng nghỉ để đạt được thành công tài chính trước khi dành thời gian cho bản thân mình.",
+        "Hãy làm chủ cuộc sống thăng bằng bằng cách ưu tiên những việc quan trọng nhất trước khi thực hiện các việc khác.",
+        "Hãy từ bỏ mọi tham vọng cá nhân để tận hưởng cuộc sống một cách nhẹ nhàng và không bị áp lực bởi các mục tiêu lớn."
       ],
       "correctIndex": 2,
-      "explanation": "Lời kết của Chương 8: 'Khi phải làm việc, hãy làm việc, và khi cần nghỉ ngơi, hãy nghỉ ngơi... Hãy bắt đầu làm chủ cuộc sống thăng bằng của bạn. Hãy làm những việc cần ưu tiên trước. Cuộc sống khác biệt là một hành động giữ thăng bằng'. Thăng bằng là hành động sống có ý thức và kỷ luật với từng khoảnh khắc.",
-      "difficulty": "medium"
+      "explanation": "Thăng bằng là hành động sống có ý thức và kỷ luật. Hãy ưu tiên những điều quan trọng nhất để tạo ra một cuộc sống khác biệt."
     }
   ]
 }

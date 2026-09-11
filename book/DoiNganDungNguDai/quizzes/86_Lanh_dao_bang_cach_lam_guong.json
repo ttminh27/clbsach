@@ -6,84 +6,84 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Theo triết lý của chương, tại sao việc 'làm gương' lại được xem là công cụ lãnh đạo mạnh mẽ hơn so với việc 'ra chỉ thị'?",
+      "question": "Theo triết lý của chương, tại sao việc 'làm gương' lại là công cụ lãnh đạo mạnh mẽ hơn so với việc 'ra chỉ thị'?",
       "options": [
-        "Vì con người có xu hướng tuân thủ những quy tắc được áp đặt bằng quyền lực",
-        "Vì hành động cụ thể tạo ra bằng chứng xác thực về khả năng thực thi, tạo niềm tin hơn lời nói suông",
-        "Vì người lãnh đạo không có thời gian để giải thích chi tiết mọi công việc",
-        "Vì sự áp đặt giúp duy trì kỷ luật tức thì mà không cần nỗ lực cá nhân"
+        "Hành động cụ thể tạo ra bằng chứng xác thực về khả năng thực thi, giúp xây dựng niềm tin vững chắc hơn lời nói suông.",
+        "Việc ra chỉ thị thường bị cấp dưới phản kháng, trong khi làm gương giúp người lãnh đạo duy trì quyền lực một cách êm.",
+        "Lãnh đạo bằng cách làm gương giúp tiết kiệm thời gian giải thích công việc và giảm thiểu các xung đột không cần thiết.",
+        "Sự áp đặt bằng mệnh lệnh chỉ mang lại hiệu quả tức thời, còn làm gương tạo ra sự tuân thủ tự nguyện từ phía nhân viên."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Lãnh đạo bằng gương là quá trình chuyển hóa tư tưởng thành hành động thực tế. Sự tin tưởng của cấp dưới đến từ sự nhất quán giữa lời nói và việc làm của người lãnh đạo."
     },
     {
       "id": "q2",
-      "question": "Khi tác giả nói 'biến cuộc đời mình thành thông điệp', triết lý ngầm định ở đây là gì?",
+      "question": "Khi tác giả nói 'biến cuộc đời mình thành thông điệp', triết lý ngầm định mà người lãnh đạo cần thấu hiểu là gì?",
       "options": [
-        "Xây dựng hình ảnh cá nhân trên mạng xã hội để thu hút người khác",
-        "Phải đạt được thành tựu xuất chúng trước khi bắt đầu dạy người khác",
-        "Sự chính trực giữa giá trị nội tại và biểu hiện hành vi bên ngoài là hình thức truyền đạt thuyết phục nhất",
-        "Việc hy sinh nhu cầu cá nhân để trở thành hình mẫu hoàn hảo cho mọi người xung quanh"
+        "Người lãnh đạo cần xây dựng hình ảnh cá nhân hoàn hảo trên mọi phương diện để thu hút sự ngưỡng mộ từ cộng đồng xung.",
+        "Sự chính trực giữa giá trị nội tại và biểu hiện hành vi bên ngoài là hình thức truyền đạt thông điệp thuyết phục nhất.",
+        "Việc hy sinh các nhu cầu cá nhân để trở thành hình mẫu chuẩn mực cho mọi người xung quanh là cách duy nhất để dẫn dắt.",
+        "Phải đạt được những thành tựu xuất chúng trong sự nghiệp trước khi bắt đầu dạy người khác về các giá trị đạo đức sống."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Tác giả nhấn mạnh sự đồng nhất. Một người chỉ thực sự lan tỏa được ảnh hưởng khi họ sống chính xác những gì họ tin tưởng."
     },
     {
       "id": "q3",
-      "question": "Nghịch lý lớn nhất trong việc 'sống theo lý tưởng' mà tác giả đề cập là gì?",
+      "question": "Nghịch lý lớn nhất trong việc 'sống theo lý tưởng' mà tác giả đề cập trong chương sách này là gì?",
       "options": [
-        "Người có lý tưởng thường bị số đông xa lánh",
-        "Nói về lý tưởng rất dễ, nhưng hiện thực hóa nó đòi hỏi sự kỷ luật và đánh đổi khắc nghiệt",
-        "Lý tưởng thường thay đổi theo thời gian nên không thể thực hiện triệt để",
-        "Sống theo lý tưởng ngăn cản người ta đạt được hạnh phúc cá nhân"
+        "Người có lý tưởng cao đẹp thường bị số đông xa lánh vì họ không tìm được tiếng nói chung với những người bình thường.",
+        "Lý tưởng thường thay đổi theo thời gian và hoàn cảnh nên không thể thực hiện triệt để trong suốt cuộc đời con người.",
+        "Nói về lý tưởng thì rất dễ dàng, nhưng hiện thực hóa nó đòi hỏi sự kỷ luật và đánh đổi khắc nghiệt trong đời thực.",
+        "Việc cố gắng sống theo lý tưởng sẽ ngăn cản người ta đạt được những hạnh phúc cá nhân giản đơn trong cuộc sống hàng."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự chênh lệch giữa 'lý thuyết' và 'thực hành' là rào cản lớn nhất. Lãnh đạo thực thụ là người thu hẹp khoảng cách này bằng sự kiên định."
     },
     {
       "id": "q4",
-      "question": "Câu nói của Maslow: 'Để trở nên thực sự hạnh phúc, chúng ta phải trở thành tất cả những gì mình có thể trở thành' gợi mở tư duy gì cho người lãnh đạo?",
+      "question": "Câu nói của Maslow gợi mở tư duy gì cho người lãnh đạo trong việc phát triển bản thân và dẫn dắt đội ngũ?",
       "options": [
-        "Cần phải cạnh tranh khốc liệt để trở thành người giỏi nhất",
-        "Lãnh đạo hiệu quả là biết tận dụng tiềm năng của người khác",
-        "Phát triển bản thân tối đa chính là cách duy nhất để tạo ra giá trị ảnh hưởng đến cộng đồng",
-        "Phải thỏa mãn mọi tham vọng cá nhân để đạt được trạng thái viên mãn"
+        "Người lãnh đạo cần phải cạnh tranh khốc liệt với đối thủ để trở thành người giỏi nhất trong lĩnh vực của mình hiện.",
+        "Lãnh đạo hiệu quả là biết tận dụng tối đa tiềm năng của người khác thay vì tập trung vào việc phát triển bản thân mình.",
+        "Phải thỏa mãn mọi tham vọng cá nhân để đạt được trạng thái viên mãn trước khi nghĩ đến việc giúp đỡ người khác phát.",
+        "Phát triển bản thân tối đa chính là cách duy nhất để tạo ra giá trị ảnh hưởng sâu rộng đến cộng đồng xung quanh."
       ],
-      "correctIndex": 2,
-      "explanation": "Đây là tư duy về sự tự hiện thực hóa (self-actualization). Chỉ khi người lãnh đạo đạt đến tầm cao mới, họ mới có thể dẫn dắt người khác đi xa hơn."
+      "correctIndex": 3,
+      "explanation": "Đây là tư duy về sự tự hiện thực hóa. Chỉ khi người lãnh đạo đạt đến tầm cao mới, họ mới có thể dẫn dắt người khác đi xa hơn."
     },
     {
       "id": "q5",
-      "question": "Nếu một người lãnh đạo yêu cầu đội ngũ trung thực nhưng chính họ lại che giấu sai sót, hậu quả nghiêm trọng nhất về mặt văn hóa là gì?",
+      "question": "Nếu lãnh đạo yêu cầu trung thực nhưng lại che giấu sai sót, hậu quả nghiêm trọng nhất về văn hóa là gì?",
       "options": [
-        "Đội ngũ sẽ trở nên lười biếng hơn",
-        "Sự hoài nghi về đạo đức lãnh đạo phá vỡ nền tảng văn hóa tổ chức, khiến nhân viên học cách nói dối",
-        "Công ty sẽ mất đi các hợp đồng quan trọng do thiếu minh bạch",
-        "Nhân viên sẽ tìm cách tố cáo cấp trên"
+        "Sự hoài nghi về đạo đức lãnh đạo phá vỡ nền tảng văn hóa tổ chức, khiến nhân viên học cách nói dối để tồn tại.",
+        "Đội ngũ sẽ trở nên lười biếng hơn trong công việc vì họ cảm thấy không còn động lực để cống hiến cho tổ chức nữa.",
+        "Công ty sẽ mất đi các hợp đồng quan trọng do thiếu minh bạch trong quy trình làm việc với các đối tác chiến lược.",
+        "Nhân viên sẽ tìm cách tố cáo cấp trên với ban lãnh đạo cấp cao hơn để bảo vệ quyền lợi chính đáng của bản thân mình."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự thiếu nhất quán làm mất đi tính chính danh của người lãnh đạo, tạo ra tiền lệ xấu về văn hóa ứng xử trong tổ chức."
     },
     {
       "id": "q6",
-      "question": "Trong quản trị bản thân, 'kiên định' (như cách tác giả đề cập) đóng vai trò gì?",
+      "question": "Trong quản trị bản thân, đức tính 'kiên định' đóng vai trò như thế nào đối với một người lãnh đạo?",
       "options": [
-        "Là cách để người khác phải nể sợ",
-        "Là yếu tố duy trì sự nhất quán giữa ý định và hành động khi gặp khó khăn",
-        "Là công cụ để ép buộc bản thân đi theo một lối mòn đã định",
-        "Là cách để che giấu những điểm yếu cá nhân"
+        "Là cách để người khác phải nể sợ và tuân thủ mọi quyết định của lãnh đạo mà không cần đặt ra bất kỳ câu hỏi nào.",
+        "Là yếu tố duy trì sự nhất quán giữa ý định và hành động ngay cả khi gặp phải những khó khăn hoặc nghịch cảnh.",
+        "Là công cụ để ép buộc bản thân đi theo một lối mòn đã định sẵn nhằm đạt được mục tiêu nhanh chóng và hiệu quả.",
+        "Là cách để che giấu những điểm yếu cá nhân trước mặt cấp dưới nhằm duy trì hình ảnh mạnh mẽ và đầy quyền uy."
       ],
       "correctIndex": 1,
       "explanation": "Kiên định không phải là cứng nhắc, mà là sự kiên trì thực hiện các giá trị cốt lõi ngay cả khi điều kiện ngoại cảnh bất lợi."
     },
     {
       "id": "q7",
-      "question": "Tại sao 'chứng kiến' (trải nghiệm thực tế) lại quan trọng hơn 'nghe kể' trong việc phát triển năng lực lãnh đạo?",
+      "question": "Tại sao 'chứng kiến' lại quan trọng hơn 'nghe kể' trong việc phát triển năng lực lãnh đạo thực thụ?",
       "options": [
-        "Vì con người chỉ tin vào những gì họ nhìn thấy bằng mắt mình",
-        "Vì kiến thức từ sách vở thường không áp dụng được vào thực tế",
-        "Vì trải nghiệm thực tế đòi hỏi sự dấn thân và chuyển hóa nội tâm, điều không thể học qua lý thuyết",
-        "Vì nghe kể thường dẫn đến sự hiểu lầm về ý nghĩa của người nói"
+        "Vì con người chỉ tin vào những gì họ nhìn thấy bằng mắt mình thay vì tin vào những lời kể lại từ người khác.",
+        "Vì kiến thức từ sách vở thường không áp dụng được vào thực tế công việc đầy biến động của người lãnh đạo hiện.",
+        "Vì trải nghiệm thực tế đòi hỏi sự dấn thân và chuyển hóa nội tâm, điều không thể học được qua lý thuyết suông.",
+        "Vì nghe kể thường dẫn đến sự hiểu lầm về ý nghĩa của người nói và làm mất đi tính chân thực của bài học kinh."
       ],
       "correctIndex": 2,
       "explanation": "Sự thấu hiểu sâu sắc chỉ đến từ việc tự mình trải qua. Lãnh đạo cần sự thực hành để biến kiến thức thành trí tuệ."
@@ -92,34 +92,34 @@
       "id": "q8",
       "question": "Sự 'nhẹ nhàng' mà tác giả nhắc đến trong cách người xuất sắc thể hiện lý tưởng ngụ ý điều gì?",
       "options": [
-        "Sự yếu đuối trong cách tiếp cận vấn đề",
-        "Sự tự tin và thấu đáo khiến hành động trở nên tự nhiên, không gồng mình phô trương",
-        "Cách quản trị nhu mì, tránh làm mất lòng nhân viên",
-        "Sự thiếu quyết đoán để chờ đợi ý kiến tập thể"
+        "Sự yếu đuối trong cách tiếp cận vấn đề khiến người lãnh đạo dễ dàng thỏa hiệp với những yêu cầu của nhân viên.",
+        "Cách quản trị nhu mì, luôn tìm cách tránh làm mất lòng nhân viên để duy trì sự hòa bình trong môi trường làm.",
+        "Sự thiếu quyết đoán để chờ đợi ý kiến từ tập thể trước khi đưa ra bất kỳ quyết định quan trọng nào cho tổ chức.",
+        "Sự tự tin và thấu đáo khiến hành động trở nên tự nhiên, không cần phải gồng mình phô trương trước người khác."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Sự xuất sắc thực thụ không cần phô trương. Nó là biểu hiện tự nhiên của một người đã rèn luyện kỷ luật đến mức trở thành bản năng."
     },
     {
       "id": "q9",
-      "question": "Tình huống nào sau đây thể hiện tốt nhất tư duy 'Lãnh đạo bằng làm gương'?",
+      "question": "Tình huống nào sau đây thể hiện tốt nhất tư duy 'Lãnh đạo bằng làm gương' trong môi trường làm việc?",
       "options": [
-        "Người sếp luôn yêu cầu nhân viên tăng ca còn mình thì về sớm",
-        "Người sếp sẵn sàng làm cùng những công việc khó khăn nhất cùng đội ngũ khi dự án gặp sự cố",
-        "Người sếp chi thưởng rất cao cho nhân viên làm tốt nhưng không bao giờ góp ý chi tiết",
-        "Người sếp giữ khoảng cách để duy trì uy quyền với cấp dưới"
+        "Người sếp sẵn sàng làm cùng những công việc khó khăn nhất với đội ngũ khi dự án gặp phải sự cố bất ngờ.",
+        "Người sếp luôn yêu cầu nhân viên phải tăng ca làm việc trong khi bản thân mình thì về sớm để nghỉ ngơi riêng.",
+        "Người sếp chi thưởng rất cao cho nhân viên làm tốt nhưng không bao giờ góp ý chi tiết về cách cải thiện công.",
+        "Người sếp giữ khoảng cách để duy trì uy quyền với cấp dưới nhằm đảm bảo sự tôn trọng tuyệt đối trong công việc."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Đồng cam cộng khổ là hình thức làm gương trực tiếp nhất, xóa bỏ rào cản phân cấp để xây dựng sự đồng lòng."
     },
     {
       "id": "q10",
       "question": "Trong bối cảnh công sở hiện đại, bẫy tâm lý nào khiến một người khó trở thành tấm gương sáng?",
       "options": [
-        "Quá tập trung vào việc trau dồi kỹ năng chuyên môn",
-        "Sợ bị người khác đánh giá nếu lộ ra những điểm chưa hoàn hảo",
-        "Luôn lắng nghe phản hồi của đồng nghiệp",
-        "Quá coi trọng việc cân bằng công việc và cuộc sống"
+        "Quá tập trung vào việc trau dồi kỹ năng chuyên môn mà quên đi việc rèn luyện đạo đức và phong cách lãnh đạo.",
+        "Sợ bị người khác đánh giá nếu lộ ra những điểm chưa hoàn hảo, dẫn đến việc không dám thử thách bản thân.",
+        "Luôn lắng nghe phản hồi của đồng nghiệp khiến người lãnh đạo mất đi chính kiến và sự quyết đoán cần thiết.",
+        "Quá coi trọng việc cân bằng công việc và cuộc sống khiến người lãnh đạo thiếu đi sự tận tâm với tổ chức."
       ],
       "correctIndex": 1,
       "explanation": "Nhiều người sợ sai nên không dám thử thách bản thân, dẫn đến lối sống thụ động. Làm gương đòi hỏi sự dũng cảm đối diện với khiếm khuyết của chính mình."
@@ -128,60 +128,60 @@
       "id": "q11",
       "question": "Khi đối diện với mâu thuẫn giữa 'lợi ích ngắn hạn' và 'giá trị bản thân', người lãnh đạo xuất sắc sẽ chọn điều gì?",
       "options": [
-        "Lợi ích ngắn hạn để bảo toàn vị thế",
-        "Giá trị bản thân, chấp nhận sự trì hoãn thành công để đổi lấy sự bền vững",
-        "Thỏa hiệp bằng cách tìm ra một giải pháp trung gian không rõ ràng",
-        "Phó mặc cho hoàn cảnh quyết định"
+        "Lợi ích ngắn hạn để bảo toàn vị thế của mình trong tổ chức trước khi đối mặt với những thách thức lớn hơn.",
+        "Thỏa hiệp bằng cách tìm ra một giải pháp trung gian không rõ ràng để làm hài lòng tất cả các bên liên quan.",
+        "Giá trị bản thân, chấp nhận sự trì hoãn thành công để đổi lấy sự bền vững và uy tín lâu dài cho tổ chức.",
+        "Phó mặc cho hoàn cảnh quyết định vì họ tin rằng mọi thứ đều có sự an bài mà con người không thể can thiệp."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự chính trực được đo lường bằng những lựa chọn khó khăn. Người xuất sắc ưu tiên tầm nhìn dài hạn và nguyên tắc đạo đức."
     },
     {
       "id": "q12",
-      "question": "Tại sao việc 'thực hiện chân lý' lại khó hơn việc 'nói về nó'?",
+      "question": "Tại sao việc 'thực hiện chân lý' lại khó hơn việc 'nói về nó' trong cuộc sống hàng ngày?",
       "options": [
-        "Vì ngôn ngữ có giới hạn trong việc mô tả chân lý",
-        "Vì chân lý đòi hỏi sự đánh đổi về sự thoải mái và cái tôi cá nhân trong đời thực",
-        "Vì mọi người không ai muốn nghe chân lý",
-        "Vì xã hội hiện đại không tôn trọng những người sống theo chân lý"
+        "Vì ngôn ngữ có giới hạn trong việc mô tả chân lý nên người ta thường hiểu sai ý nghĩa của người nói ra.",
+        "Vì mọi người không ai muốn nghe chân lý nên người nói thường bị cô lập trong môi trường làm việc hiện.",
+        "Vì xã hội hiện đại không tôn trọng những người sống theo chân lý mà chỉ coi trọng những người thành công.",
+        "Vì chân lý đòi hỏi sự đánh đổi về sự thoải mái và cái tôi cá nhân trong đời thực để duy trì nguyên tắc."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Sống theo chân lý đòi hỏi hành động, nghĩa là phải từ bỏ vùng an toàn và sự hài lòng tạm thời, đây là điều mà hầu hết mọi người đều ngại ngần."
     },
     {
       "id": "q13",
-      "question": "Đâu là cốt lõi của việc gây ảnh hưởng tích cực đến người khác?",
+      "question": "Đâu là cốt lõi của việc gây ảnh hưởng tích cực đến người khác theo tinh thần của chương sách?",
       "options": [
-        "Khả năng thuyết phục bằng ngôn từ hoa mỹ",
-        "Khả năng xây dựng mối quan hệ cá nhân sâu sắc",
-        "Chất lượng con người của chính mình: hãy trở thành mẫu hình mà bạn muốn thấy ở người khác",
-        "Khả năng đưa ra mệnh lệnh chính xác"
+        "Chất lượng con người của chính mình: hãy trở thành mẫu hình mà bạn muốn thấy ở người khác trong thực tế.",
+        "Khả năng thuyết phục bằng ngôn từ hoa mỹ để thu hút sự chú ý và ủng hộ từ những người xung quanh mình.",
+        "Khả năng xây dựng mối quan hệ cá nhân sâu sắc để tạo ra mạng lưới hỗ trợ mạnh mẽ cho các mục tiêu cá.",
+        "Khả năng đưa ra mệnh lệnh chính xác và quyết đoán để điều phối công việc một cách hiệu quả nhất có thể."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Người khác sẽ không nghe những gì bạn nói nếu họ không thấy bạn thực hiện điều đó. 'Làm gương' là hình thức truyền thông quyền năng nhất."
     },
     {
       "id": "q14",
-      "question": "Tư duy 'người vượt trội' khác với 'số đông' ở điểm nào trong cách tiếp cận phát triển?",
+      "question": "Tư duy 'người vượt trội' khác với 'số đông' ở điểm nào trong cách tiếp cận phát triển bản thân?",
       "options": [
-        "Người vượt trội tin vào may mắn, số đông tin vào nỗ lực",
-        "Người vượt trội chủ động rèn luyện bản thân bất chấp ngoại cảnh, số đông thường đợi cơ hội đến",
-        "Người vượt trội chỉ tập trung vào tài chính, số đông tập trung vào giá trị tinh thần",
-        "Người vượt trội làm việc một mình, số đông làm việc nhóm"
+        "Người vượt trội tin vào may mắn để thành công, số đông tin vào nỗ lực bền bỉ để đạt được mục tiêu đề.",
+        "Người vượt trội chủ động rèn luyện bản thân bất chấp ngoại cảnh, số đông thường đợi cơ hội đến với mình.",
+        "Người vượt trội chỉ tập trung vào tài chính, số đông tập trung vào giá trị tinh thần để cân bằng cuộc sống.",
+        "Người vượt trội làm việc một mình để khẳng định năng lực, số đông làm việc nhóm để chia sẻ trách nhiệm."
       ],
       "correctIndex": 1,
       "explanation": "Người xuất sắc nắm quyền kiểm soát cuộc đời qua hành động, trong khi số đông thường đổ lỗi cho hoàn cảnh hoặc trì hoãn."
     },
     {
       "id": "q15",
-      "question": "Lời khuyên 'hãy trở thành tất cả những gì mình có thể trở thành' có ý nghĩa gì đối với sự phát triển năng lực lãnh đạo?",
+      "question": "Lời khuyên 'hãy trở thành tất cả những gì mình có thể trở thành' có ý nghĩa gì đối với sự phát triển lãnh đạo?",
       "options": [
-        "Đó là lời kêu gọi trở thành chuyên gia trong mọi lĩnh vực",
-        "Đó là lời kêu gọi tối đa hóa tiềm năng nội tại để phục vụ tầm nhìn và tạo ảnh hưởng tích cực",
-        "Đó là lời khuyên về việc tích lũy danh hiệu và bằng cấp",
-        "Đó là lời khuyên hãy làm việc không nghỉ ngơi để đạt đỉnh cao"
+        "Đó là lời kêu gọi trở thành chuyên gia trong mọi lĩnh vực để có thể giải quyết mọi vấn đề của tổ chức.",
+        "Đó là lời khuyên về việc tích lũy danh hiệu và bằng cấp để nâng cao uy tín cá nhân trong mắt người khác.",
+        "Đó là lời kêu gọi tối đa hóa tiềm năng nội tại để phục vụ tầm nhìn và tạo ảnh hưởng tích cực cho tập thể.",
+        "Đó là lời khuyên hãy làm việc không nghỉ ngơi để đạt đỉnh cao sự nghiệp trước khi quá muộn trong cuộc đời."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanation": "Sự phát triển năng lực không phải là để thỏa mãn cái tôi, mà để đóng góp giá trị cao nhất cho tập thể thông qua tư cách người lãnh đạo."
     }
   ]

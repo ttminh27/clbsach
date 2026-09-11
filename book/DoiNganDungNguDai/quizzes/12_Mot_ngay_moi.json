@@ -8,94 +8,94 @@
       "id": "q1",
       "question": "Tại sao tác giả nhấn mạnh 24 giờ là 'món quà' thay vì chỉ là một đơn vị thời gian đơn thuần?",
       "options": [
-        "Vì thời gian là nguồn tài nguyên có hạn không thể tái tạo",
-        "Vì mỗi ngày là cơ hội để thiết lập lại tư duy và tái định hình bản thân",
-        "Vì tác giả muốn nhấn mạnh sự may mắn khi còn sống",
-        "Vì con người thường lãng phí thời gian nếu không coi đó là quà tặng"
+        "Vì mỗi ngày là cơ hội để thiết lập lại tư duy, giúp con người chủ động kiến tạo cuộc đời thay vì thụ động trôi theo thói quen.",
+        "Vì thời gian là nguồn tài nguyên có hạn không thể tái tạo, buộc con người phải tối ưu hóa hiệu suất làm việc mỗi ngày.",
+        "Vì tác giả muốn nhấn mạnh sự may mắn khi còn sống, từ đó thúc đẩy con người biết ơn những gì mình đang có hiện tại.",
+        "Vì con người thường lãng phí thời gian nếu không coi đó là quà tặng, dẫn đến việc bỏ lỡ các cơ hội phát triển bản thân."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả muốn độc giả chuyển từ tư duy 'vận hành theo thói quen' sang tư duy 'chủ động kiến tạo'. Coi thời gian là món quà thúc đẩy tâm thế làm chủ cuộc đời thay vì thụ động chịu đựng thời gian trôi qua."
+      "correctIndex": 0,
+      "explanation": "Tác giả muốn độc giả chuyển từ tư duy vận hành theo thói quen sang tư duy chủ động kiến tạo. Coi thời gian là món quà thúc đẩy tâm thế làm chủ cuộc đời thay vì thụ động chịu đựng thời gian trôi qua."
     },
     {
       "id": "q2",
       "question": "Thông điệp 'Thà chết đứng còn hơn sống cả đời trên hai đầu gối' ngụ ý gì trong ngữ cảnh phát triển bản thân?",
       "options": [
-        "Khuyến khích sự nổi loạn chống lại các chuẩn mực xã hội",
-        "Đề cao lòng tự trọng và quyền tự quyết cá nhân dù phải đối mặt với khó khăn",
-        "Sự hy sinh là cách duy nhất để đạt được sự vĩ đại",
-        "Sự hèn nhát luôn dẫn đến thất bại thảm hại"
+        "Khuyến khích sự nổi loạn chống lại các chuẩn mực xã hội, nhằm khẳng định cái tôi cá nhân một cách mạnh mẽ và quyết liệt.",
+        "Đề cao lòng tự trọng và quyền tự quyết cá nhân, sẵn sàng đối mặt với khó khăn để giữ vững bản sắc và sự chính trực.",
+        "Sự hy sinh là cách duy nhất để đạt được sự vĩ đại, khẳng định rằng chỉ có đau khổ mới tôi luyện nên một con người.",
+        "Sự hèn nhát luôn dẫn đến thất bại thảm hại, do đó con người cần phải dũng cảm đối diện với mọi nghịch cảnh trong đời."
       ],
       "correctIndex": 1,
-      "explanation": "Câu nói ẩn dụ về sự chính trực và tự do nội tâm. Sống 'trên hai đầu gối' là biểu hiện của việc thỏa hiệp với nỗi sợ và kỳ vọng của người khác, trong khi 'chết đứng' đại diện cho việc giữ vững bản sắc cá nhân."
+      "explanation": "Câu nói ẩn dụ về sự chính trực và tự do nội tâm. Sống trên hai đầu gối là biểu hiện của việc thỏa hiệp với nỗi sợ và kỳ vọng của người khác, trong khi chết đứng đại diện cho việc giữ vững bản sắc cá nhân."
     },
     {
       "id": "q3",
       "question": "Để biến một ngày thành 'tác phẩm nghệ thuật', bước đầu tiên một người cần thực hiện là gì?",
       "options": [
-        "Lên lịch trình làm việc chi tiết đến từng phút",
-        "Xác định giá trị cốt lõi muốn thể hiện trong mọi tương tác",
-        "Loại bỏ hoàn toàn các yếu tố gây xao nhãng trong ngày",
-        "Tập trung tối đa vào việc gia tăng thu nhập"
+        "Lên lịch trình làm việc chi tiết đến từng phút để đảm bảo mọi hoạt động đều nằm trong tầm kiểm soát của bản thân.",
+        "Loại bỏ hoàn toàn các yếu tố gây xao nhãng trong ngày nhằm tập trung tối đa vào việc hoàn thành các mục tiêu đề ra.",
+        "Xác định rõ ràng những giá trị cốt lõi muốn thể hiện trong mọi tương tác để định hướng hành vi suốt cả ngày dài.",
+        "Tập trung tối đa vào việc gia tăng thu nhập và sự nghiệp để tạo nền tảng vững chắc cho những thành công sau này."
       ],
-      "correctIndex": 1,
-      "explanation": "Nghệ thuật không nằm ở sự cứng nhắc (lịch trình) mà nằm ở ý thức về giá trị. Khi đã định hình được giá trị cốt lõi, người ta sẽ tự động ứng xử một cách vĩ đại trong mọi hoàn cảnh."
+      "correctIndex": 2,
+      "explanation": "Nghệ thuật không nằm ở sự cứng nhắc mà nằm ở ý thức về giá trị. Khi đã định hình được giá trị cốt lõi, người ta sẽ tự động ứng xử một cách vĩ đại trong mọi hoàn cảnh."
     },
     {
       "id": "q4",
       "question": "Tại sao tác giả lại cho rằng việc nhìn nhận ngày mai như một 'điều kỳ diệu' lại là yếu tố sống còn?",
       "options": [
-        "Giúp con người giảm bớt áp lực công việc",
-        "Giúp con người không rơi vào trạng thái trì trệ và thái độ mặc định",
-        "Là phương pháp chữa lành tâm lý cho những người trầm cảm",
-        "Tạo sự khác biệt giữa người có đạo đức và người thực dụng"
+        "Giúp con người giảm bớt áp lực công việc hàng ngày, tạo ra tâm thế thoải mái để đối diện với những thử thách mới.",
+        "Là phương pháp chữa lành tâm lý hiệu quả cho những người đang gặp khó khăn hoặc rơi vào trạng thái trầm cảm sâu.",
+        "Tạo sự khác biệt rõ rệt giữa người có đạo đức và người thực dụng trong cách tiếp cận các vấn đề của cuộc sống.",
+        "Giúp con người thoát khỏi trạng thái trì trệ và thái độ mặc định, từ đó đánh thức sự trân trọng đối với cuộc sống."
       ],
-      "correctIndex": 1,
-      "explanation": "Con người thường bị 'mù lòa' bởi sự quen thuộc. Coi ngày mai là kỳ diệu giúp đánh thức sự trân trọng, từ đó kích hoạt động lực làm việc mạnh mẽ hơn."
+      "correctIndex": 3,
+      "explanation": "Con người thường bị mù lòa bởi sự quen thuộc. Coi ngày mai là kỳ diệu giúp đánh thức sự trân trọng, từ đó kích hoạt động lực làm việc mạnh mẽ hơn."
     },
     {
       "id": "q5",
       "question": "Trong bối cảnh lãnh đạo, thái độ đối với một 'ngày mới' giúp một nhà lãnh đạo thể hiện điều gì tốt nhất?",
       "options": [
-        "Khả năng kiểm soát nhân viên hiệu quả",
-        "Tính nhất quán trong tầm nhìn và hành động",
-        "Khả năng truyền cảm hứng thông qua sự thay đổi tích cực hàng ngày",
-        "Sự uy nghiêm cần thiết để dẫn dắt đội ngũ"
+        "Khả năng truyền cảm hứng thông qua sự thay đổi tích cực hàng ngày, biến mỗi ngày thành một bài học về sự vĩ đại.",
+        "Khả năng kiểm soát nhân viên hiệu quả thông qua việc đặt ra các tiêu chuẩn khắt khe về thời gian và hiệu suất làm.",
+        "Tính nhất quán trong tầm nhìn và hành động, đảm bảo mọi quyết định đều phục vụ cho mục tiêu dài hạn của tổ chức.",
+        "Sự uy nghiêm cần thiết để dẫn dắt đội ngũ, tạo ra một môi trường làm việc kỷ luật và chuyên nghiệp cho nhân viên."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanation": "Lãnh đạo thực thụ không chỉ dựa vào chức danh mà dựa vào tư duy làm gương. Mỗi ngày mới là một cơ hội để họ thực hành và truyền cảm hứng về một chuẩn mực sống cao hơn."
     },
     {
       "id": "q6",
       "question": "Nếu một người thấy ngày hôm nay chẳng có gì khác biệt so với hôm qua, lỗi tư duy nào họ đang mắc phải?",
       "options": [
-        "Họ thiếu mục tiêu dài hạn rõ ràng",
-        "Họ đang để thói quen thay thế sự nhận thức chủ động",
-        "Họ thiếu công cụ đo lường hiệu suất công việc",
-        "Họ quá tập trung vào những khó khăn ngoại cảnh"
+        "Họ thiếu mục tiêu dài hạn rõ ràng, dẫn đến việc không biết mình cần phải làm gì để thay đổi tình trạng hiện tại.",
+        "Họ đang để thói quen thay thế sự nhận thức chủ động, khiến cuộc sống trở nên đơn điệu và thiếu đi sự sáng tạo.",
+        "Họ thiếu công cụ đo lường hiệu suất công việc, khiến họ không nhận ra những tiến bộ nhỏ bé diễn ra hàng ngày.",
+        "Họ quá tập trung vào những khó khăn ngoại cảnh mà quên mất việc tự nhìn nhận lại bản thân để tìm kiếm cơ hội."
       ],
       "correctIndex": 1,
-      "explanation": "Sự đơn điệu của cuộc sống không nằm ở sự kiện, mà nằm ở sự phản xạ (autopilot). Khi thiếu nhận thức chủ động, con người dễ dàng rơi vào lối mòn lặp lại thay vì kiến tạo."
+      "explanation": "Sự đơn điệu của cuộc sống không nằm ở sự kiện, mà nằm ở sự phản xạ. Khi thiếu nhận thức chủ động, con người dễ dàng rơi vào lối mòn lặp lại thay vì kiến tạo."
     },
     {
       "id": "q7",
       "question": "Tại sao tác giả coi sự 'can trường' và 'lịch thiệp' là những thói quen cần rèn luyện hằng ngày?",
       "options": [
-        "Đó là các kỹ năng xã hội để thăng tiến",
-        "Đó là bản năng cần được khơi dậy",
-        "Vì đó là nền tảng để xây dựng lòng tin và vị thế cá nhân bền vững",
-        "Để bảo vệ bản thân trước sự tấn công của người khác"
+        "Đó là các kỹ năng xã hội quan trọng để thăng tiến trong sự nghiệp, giúp tạo dựng mối quan hệ tốt với cấp trên.",
+        "Đó là bản năng tự nhiên cần được khơi dậy để con người có thể sống hòa hợp hơn với cộng đồng xung quanh mình.",
+        "Vì đó là nền tảng để xây dựng lòng tin và vị thế cá nhân bền vững, giúp định nghĩa nhân cách trong mọi hoàn cảnh.",
+        "Để bảo vệ bản thân trước sự tấn công của người khác, giúp duy trì sự bình an trong tâm hồn giữa thế giới phức tạp."
       ],
       "correctIndex": 2,
-      "explanation": "Sự can trường (tư duy mạnh mẽ) và lịch thiệp (trí tuệ cảm xúc) là các trụ cột của lãnh đạo. Chúng không phải sự kiện đơn lẻ mà phải là 'thói quen' để định nghĩa nhân cách."
+      "explanation": "Sự can trường và lịch thiệp là các trụ cột của lãnh đạo. Chúng không phải sự kiện đơn lẻ mà phải là thói quen để định nghĩa nhân cách."
     },
     {
       "id": "q8",
       "question": "Tác động sâu xa nhất của việc 'sống cả đời trên hai đầu gối' là gì?",
       "options": [
-        "Mất đi cơ hội thăng tiến trong sự nghiệp",
-        "Đánh mất quyền năng kiểm soát tương lai của chính mình",
-        "Bị người khác coi thường và lợi dụng",
-        "Sự hối hận vào cuối đời vì chưa từng được là chính mình"
+        "Mất đi cơ hội thăng tiến trong sự nghiệp, khiến bản thân không bao giờ đạt được những thành tựu như mong đợi ban đầu.",
+        "Bị người khác coi thường và lợi dụng, làm giảm đi giá trị cá nhân trong mắt những người xung quanh và xã hội.",
+        "Sự hối hận vào cuối đời vì chưa từng được là chính mình, do đã quá phụ thuộc vào ý kiến và kỳ vọng của người khác.",
+        "Đánh mất quyền năng kiểm soát tương lai của chính mình, dẫn đến sự hối hận sâu sắc vì chưa từng được là chính mình."
       ],
       "correctIndex": 3,
       "explanation": "Đây là bài học về sự đánh đổi. Khi bạn hy sinh bản sắc vì sự an toàn tạm thời, cái giá cuối cùng chính là sự mất kết nối hoàn toàn với ước mơ và chân giá trị của chính mình."
@@ -104,70 +104,70 @@
       "id": "q9",
       "question": "Sự khác biệt giữa 'người làm việc' và 'người sống một ngày vĩ đại' nằm ở đâu?",
       "options": [
-        "Sản lượng công việc hàng ngày",
-        "Tâm thế coi mỗi ngày là một tác phẩm để cống hiến",
-        "Sự cân bằng hoàn hảo giữa công việc và cuộc sống",
-        "Khả năng chịu đựng áp lực cao hơn"
+        "Tâm thế coi mỗi ngày là một tác phẩm để cống hiến, thay vì chỉ tập trung vào việc hoàn thành các nhiệm vụ được giao.",
+        "Sản lượng công việc hàng ngày, người vĩ đại luôn làm được nhiều việc hơn so với những người làm việc bình thường.",
+        "Sự cân bằng hoàn hảo giữa công việc và cuộc sống, giúp họ duy trì được năng lượng tích cực trong thời gian dài.",
+        "Khả năng chịu đựng áp lực cao hơn, giúp họ vượt qua mọi khó khăn để đạt được những mục tiêu lớn lao trong đời."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự vĩ đại không nằm ở số lượng task hoàn thành, mà ở chất lượng của sự hiện diện. Người làm việc chỉ muốn xong việc, người sống vĩ đại muốn lưu lại giá trị."
     },
     {
       "id": "q10",
       "question": "Khi tác giả nói 'để bạn có thể kể lại cho con cháu nghe', ngụ ý của ông là gì?",
       "options": [
-        "Xây dựng di sản và niềm tự hào cá nhân",
-        "Đánh giá lại kết quả công việc dựa trên sự ghi nhận của người khác",
-        "Sống sao cho không phải hối tiếc khi nhìn lại quá khứ",
-        "Sự quan trọng của việc truyền đạt kinh nghiệm"
+        "Xây dựng di sản và niềm tự hào cá nhân, khẳng định vị thế của mình trong lòng gia đình và xã hội sau này.",
+        "Sống sao cho không phải hối tiếc khi nhìn lại quá khứ, tạo ra những di sản tinh thần đáng tự hào cho thế hệ sau.",
+        "Đánh giá lại kết quả công việc dựa trên sự ghi nhận của người khác, đảm bảo rằng mình đã sống một cuộc đời ý nghĩa.",
+        "Sự quan trọng của việc truyền đạt kinh nghiệm, giúp con cháu có thêm hành trang để bước vào đời một cách vững vàng."
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanation": "Đó là thước đo về giá trị vĩnh cửu. Nếu một ngày sống đủ chất lượng để bạn tự hào kể lại, nghĩa là ngày đó bạn đã sống trọn vẹn và đúng với bản thân."
     },
     {
       "id": "q11",
       "question": "Cách tiếp cận nào sau đây đi ngược lại với triết lý của chương 'Một ngày mới'?",
       "options": [
-        "Lên kế hoạch cho mục tiêu 5 năm tới",
-        "Cố gắng quên đi thất bại của ngày hôm qua để bắt đầu lại",
-        "Để sự ngẫu hứng quyết định toàn bộ hoạt động trong ngày",
-        "Coi mỗi ngày là một khởi đầu độc lập để rèn luyện thói quen tốt"
+        "Lên kế hoạch cho mục tiêu 5 năm tới, giúp định hướng rõ ràng cho những hành động cụ thể trong từng ngày sống.",
+        "Cố gắng quên đi thất bại của ngày hôm qua để bắt đầu lại, coi mỗi ngày là một khởi đầu độc lập đầy tiềm năng.",
+        "Để sự ngẫu hứng quyết định toàn bộ hoạt động trong ngày, thiếu đi sự chủ động rèn luyện các thói quen tốt cần thiết.",
+        "Coi mỗi ngày là một khởi đầu độc lập để rèn luyện thói quen tốt, giúp bản thân tiến lên một cuộc đời tốt đẹp."
       ],
       "correctIndex": 2,
-      "explanation": "Tác giả cổ vũ cho sự chủ động và trách nhiệm. Sự ngẫu hứng thiếu mục tiêu dễ dẫn đến sự vô định, trái ngược hoàn toàn với việc 'rèn luyện những thói quen giúp tiến lên'."
+      "explanation": "Tác giả cổ vũ cho sự chủ động và trách nhiệm. Sự ngẫu hứng thiếu mục tiêu dễ dẫn đến sự vô định, trái ngược hoàn toàn với việc rèn luyện những thói quen giúp tiến lên."
     },
     {
       "id": "q12",
       "question": "Câu nói của Peter Mayle tác động đến tác giả như thế nào?",
       "options": [
-        "Thúc đẩy tác giả viết thêm nhiều cuốn sách hay hơn",
-        "Giúp tác giả định hình rõ hơn về ranh giới giữa an toàn và vĩ đại",
-        "Khiến tác giả thay đổi hoàn toàn phong cách sống",
-        "Gợi ý cho tác giả về tầm quan trọng của việc đi du lịch"
+        "Thúc đẩy tác giả viết thêm nhiều cuốn sách hay hơn, mang lại những giá trị tích cực cho cộng đồng độc giả toàn cầu.",
+        "Khiến tác giả thay đổi hoàn toàn phong cách sống, từ bỏ những thói quen cũ để hướng tới một cuộc đời mới tốt đẹp.",
+        "Gợi ý cho tác giả về tầm quan trọng của việc đi du lịch, giúp mở mang tầm mắt và tìm kiếm những cảm hứng mới lạ.",
+        "Giúp tác giả định hình rõ hơn về ranh giới giữa an toàn và vĩ đại, thúc đẩy việc đánh giá lại cách sống hiện tại."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Tri thức và nghệ thuật thực sự là những cú hích tư duy. Câu nói ấy hoạt động như một bộ lọc để tác giả đánh giá lại cách sống hiện tại so với kỳ vọng cao nhất."
     },
     {
       "id": "q13",
       "question": "Tại sao việc 'cười' và 'sáng tạo giá trị' lại được đặt chung trong một ngày sống vĩ đại?",
       "options": [
-        "Vì đó là hai thái cực cần thiết cho một cuộc đời cân bằng",
-        "Vì đó là sự kết hợp giữa tư duy tích cực và kết quả thực tiễn",
-        "Vì tác giả muốn mọi người giữ tâm hồn tươi trẻ trong công việc",
-        "Vì đó là cách nhanh nhất để được người khác công nhận"
+        "Vì đó là sự kết hợp giữa tư duy tích cực và kết quả thực tiễn, tạo nên một trạng thái sống tối ưu cho con người.",
+        "Vì đó là hai thái cực cần thiết cho một cuộc đời cân bằng, giúp con người không bị rơi vào trạng thái cực đoan nào.",
+        "Vì tác giả muốn mọi người giữ tâm hồn tươi trẻ trong công việc, giúp tăng cường hiệu suất và sự sáng tạo bền bỉ.",
+        "Vì đó là cách nhanh nhất để được người khác công nhận, giúp xây dựng hình ảnh cá nhân tích cực trong mắt mọi người."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Sự sáng tạo là hành động bên ngoài, tiếng cười là sự tỉnh táo bên trong. Sự kết hợp này tạo nên một trạng thái sống tối ưu: làm việc hiệu quả nhưng không bị biến thành cỗ máy."
     },
     {
       "id": "q14",
       "question": "Việc thừa nhận ngày mai là 'điều kỳ diệu' giúp ích gì cho khả năng lãnh đạo bản thân?",
       "options": [
-        "Giúp quản lý thời gian khoa học hơn",
-        "Giúp kiên trì vượt qua nghịch cảnh vì coi đó là cơ hội trải nghiệm",
-        "Giúp xây dựng mạng lưới quan hệ rộng khắp",
-        "Giúp không bị bỡ ngỡ khi có thay đổi bất ngờ"
+        "Giúp quản lý thời gian khoa học hơn, đảm bảo mọi công việc đều được hoàn thành đúng tiến độ và đạt hiệu quả cao.",
+        "Giúp kiên trì vượt qua nghịch cảnh vì coi đó là cơ hội trải nghiệm, thay vì phàn nàn về những khó khăn gặp phải.",
+        "Giúp xây dựng mạng lưới quan hệ rộng khắp, tạo điều kiện thuận lợi cho sự phát triển cá nhân và sự nghiệp sau này.",
+        "Giúp không bị bỡ ngỡ khi có thay đổi bất ngờ, tạo ra sự linh hoạt cần thiết để thích nghi với mọi tình huống mới."
       ],
       "correctIndex": 1,
       "explanation": "Khi coi mọi thứ là kỳ diệu/cơ hội, bạn sẽ bớt đi sự phàn nàn và tăng cường sự chấp nhận mang tính xây dựng. Đây là biểu hiện của tư duy vượt trội."
@@ -176,13 +176,13 @@
       "id": "q15",
       "question": "Đâu là bẫy tư duy lớn nhất của con người khi đối diện với chu kỳ thời gian 24 giờ?",
       "options": [
-        "Sự chủ quan rằng 'ngày mai vẫn còn đó'",
-        "Sự kỳ vọng quá cao vào một ngày làm việc",
-        "Sự sợ hãi về những mục tiêu chưa hoàn thành",
-        "Sự phụ thuộc vào các công cụ quản lý thời gian"
+        "Sự kỳ vọng quá cao vào một ngày làm việc, khiến con người dễ thất vọng khi không đạt được những mục tiêu đã đề ra.",
+        "Sự sợ hãi về những mục tiêu chưa hoàn thành, làm giảm đi sự tự tin và động lực để tiếp tục cố gắng trong tương lai.",
+        "Sự chủ quan rằng 'ngày mai vẫn còn đó', dẫn đến việc trì hoãn những hành động quan trọng cần thực hiện ngay hôm nay.",
+        "Sự phụ thuộc vào các công cụ quản lý thời gian, khiến con người mất đi khả năng tự chủ và sáng tạo trong công việc."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự trì hoãn bắt nguồn từ ảo tưởng về sự vô hạn của thời gian. Nhận thức rằng 'ngày mai là một món quà' giúp loại bỏ sự chủ quan, từ đó hành động ngay tức thì."
+      "correctIndex": 2,
+      "explanation": "Sự trì hoãn bắt nguồn từ ảo tưởng về sự vô hạn của thời gian. Nhận thức rằng ngày mai là một món quà giúp loại bỏ sự chủ quan, từ đó hành động ngay tức thì."
     }
   ]
 }

@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Theo quan điểm của tác giả, đâu là ranh giới cốt lõi phân định giữa 'hồi tưởng tích cực' và 'lo lắng tiêu cực'?",
+      "question": "Theo tác giả, ranh giới cốt lõi phân định giữa 'hồi tưởng tích cực' và 'lo lắng tiêu cực' nằm ở đâu?",
       "options": [
-        "Thời điểm thực hiện (quá khứ vs hiện tại)",
-        "Mục đích và hệ quả của việc quay lại quá khứ",
-        "Cảm xúc cá nhân khi nhớ về một sự kiện",
-        "Sự hối tiếc về những quyết định đã qua"
+        "Nằm ở mục đích và hệ quả của việc quay về quá khứ, cụ thể là để học hỏi trưởng thành hay để than vãn lãng phí.",
+        "Nằm ở thời điểm thực hiện việc hồi tưởng, vì sống trong hiện tại là cách duy nhất để tránh những sai lầm cũ.",
+        "Nằm ở cảm xúc cá nhân khi nhớ về sự kiện, vì nỗi đau quá khứ luôn là rào cản ngăn cản sự phát triển bản thân.",
+        "Nằm ở sự hối tiếc về những quyết định đã qua, vì việc thay đổi quá khứ là điều không thể thực hiện được hiện nay."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả không phản đối việc quay về quá khứ mà tập trung vào 'dự tính'. Nếu mục đích là học hỏi và trân trọng, đó là sự trưởng thành. Nếu để than vãn, đó là lãng phí."
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh vào 'dự tính'. Hồi tưởng chỉ có giá trị khi nó phục vụ sự trưởng thành, còn lo lắng là sự lãng phí thời gian vào những điều không thể thay đổi."
     },
     {
       "id": "q2",
-      "question": "Một người quản lý thường xuyên dằn vặt vì một dự án thất bại cách đây 2 năm khiến đội ngũ hiện tại thiếu tự tin. Bạn áp dụng triết lý trong chương này như thế nào?",
+      "question": "Một quản lý dằn vặt vì dự án thất bại 2 năm trước. Áp dụng triết lý chương này, bạn nên khuyên họ điều gì?",
       "options": [
-        "Yêu cầu họ quên đi quá khứ để tập trung vào dự án mới",
-        "Hướng dẫn họ phân tích nguyên nhân thất bại để rút ra bài học phát triển",
-        "Động viên họ rằng thất bại đó không quan trọng",
-        "So sánh họ với các quản lý thành công khác để họ tự thấy xấu hổ"
+        "Hãy quên đi quá khứ để tập trung hoàn toàn vào dự án mới, vì việc nhìn lại chỉ làm giảm sự tự tin của đội ngũ.",
+        "Hãy phân tích nguyên nhân thất bại để rút ra bài học khôn ngoan, biến trải nghiệm đó thành tài sản cho tương lai.",
+        "Hãy chấp nhận rằng thất bại đó không quan trọng, vì mọi sự kiện đều sẽ trôi qua theo quy luật tự nhiên của thời gian.",
+        "Hãy so sánh bản thân với các quản lý thành công khác để tự thấy xấu hổ và nỗ lực hơn trong công việc hiện tại."
       ],
       "correctIndex": 1,
-      "explanation": "Việc dùng quá khứ để 'trưởng thành trong khôn ngoan' chính là cách biến thất bại thành tài sản. Các phương án khác mang tính trốn tránh hoặc tiêu cực."
+      "explanation": "Triết lý của chương là 'để quá khứ phục vụ mình'. Việc phân tích thất bại để trưởng thành là cách biến quá khứ thành công cụ hữu ích."
     },
     {
       "id": "q3",
       "question": "Tại sao việc 'lo lắng với những gì không thể thay đổi' lại bị tác giả coi là sự lãng phí thời gian?",
       "options": [
-        "Vì nó ngăn cản chúng ta lập kế hoạch cho tương lai",
-        "Vì nó gây hại cho sức khỏe tâm thần của cá nhân",
-        "Vì nó là một trạng thái loay hoay không tạo ra giá trị hay sự thay đổi thực tế",
-        "Vì nó làm chúng ta đánh mất niềm tin vào bản thân"
+        "Vì nó ngăn cản chúng ta lập kế hoạch cho tương lai, khiến cá nhân mất phương hướng trong các mục tiêu dài hạn.",
+        "Vì nó gây hại cho sức khỏe tâm thần của cá nhân, làm suy giảm khả năng tư duy sáng tạo trong công việc hằng ngày.",
+        "Vì đó là trạng thái loay hoay không tạo ra giá trị thực tế, tiêu tốn năng lượng vào những điều đã định hình xong.",
+        "Vì nó làm chúng ta đánh mất niềm tin vào bản thân, khiến việc đối mặt với những thử thách mới trở nên khó khăn."
       ],
       "correctIndex": 2,
-      "explanation": "Cốt lõi của tư duy hiệu quả là tập trung vào điều có thể kiểm soát. Lo lắng về cái đã mất là sự đầu tư năng lượng vào một 'hố đen' không thể cải thiện."
+      "explanation": "Lo lắng về quá khứ là đầu tư năng lượng vào một 'hố đen'. Tác giả khẳng định đó là sự lãng phí vì không mang lại sự thay đổi hay bài học."
     },
     {
       "id": "q4",
-      "question": "Trong bối cảnh phát triển bản thân, việc hồi tưởng về những 'kỷ niệm quý giá' có ý nghĩa gì đối với một nhà lãnh đạo?",
+      "question": "Trong phát triển bản thân, việc hồi tưởng về những 'kỷ niệm quý giá' có ý nghĩa gì đối với một nhà lãnh đạo?",
       "options": [
-        "Giúp họ bớt áp lực trong công việc căng thẳng",
-        "Củng cố sự tự tin và lòng biết ơn, là nguồn năng lượng duy trì sự bền bỉ",
-        "Khiến họ dễ rơi vào trạng thái hoài cổ, thiếu quyết liệt",
-        "Là cách để tạo dựng hình ảnh cá nhân gần gũi với nhân viên"
+        "Giúp họ giảm bớt áp lực trong công việc căng thẳng, tạo ra khoảng lặng cần thiết để tái tạo sức lao động trí óc.",
+        "Khiến họ dễ rơi vào trạng thái hoài cổ, làm giảm đi sự quyết liệt cần thiết khi đối mặt với các thách thức mới.",
+        "Là cách để tạo dựng hình ảnh cá nhân gần gũi với nhân viên, giúp tăng cường sự gắn kết trong môi trường làm việc.",
+        "Củng cố sự tự tin và lòng biết ơn, tạo ra nguồn năng lượng tích cực để duy trì sự bền bỉ trên hành trình dài."
       ],
-      "correctIndex": 1,
-      "explanation": "Hồi tưởng tích cực không phải là trốn tránh, mà là nguồn nhiên liệu cảm xúc để duy trì sự lạc quan và lòng biết ơn trên hành trình chinh phục mục tiêu dài hạn."
+      "correctIndex": 3,
+      "explanation": "Hồi tưởng kỷ niệm đẹp không phải trốn tránh, mà là nguồn nhiên liệu cảm xúc giúp duy trì sự lạc quan và lòng biết ơn."
     },
     {
       "id": "q5",
-      "question": "Phản ứng nào sau đây thể hiện tư duy của người 'vượt trội' đối với một sự kiện buồn trong quá khứ?",
+      "question": "Phản ứng nào thể hiện tư duy của người 'vượt trội' đối với một sự kiện buồn trong quá khứ?",
       "options": [
-        "Đổ lỗi cho hoàn cảnh để giải tỏa áp lực tâm lý",
-        "Chấp nhận sự kiện đó như một bài học đắt giá và để nó phục vụ cho sự tăng trưởng hiện tại",
-        "Cố gắng bù đắp sai lầm bằng cách lao vào công việc không ngừng nghỉ",
-        "Tìm cách xóa bỏ hoàn toàn ký ức đó để bắt đầu một trang mới"
+        "Chấp nhận sự kiện đó như một bài học đắt giá và để nó phục vụ cho sự tăng trưởng khôn ngoan của bản thân.",
+        "Đổ lỗi cho hoàn cảnh khách quan để giải tỏa áp lực tâm lý, giúp bản thân cảm thấy nhẹ nhàng hơn trong hiện tại.",
+        "Cố gắng bù đắp sai lầm bằng cách lao vào công việc không ngừng nghỉ, nhằm quên đi những ký ức đau buồn đã qua.",
+        "Tìm cách xóa bỏ hoàn toàn ký ức đó để bắt đầu một trang mới, vì quá khứ chỉ là gánh nặng cho sự phát triển."
       ],
-      "correctIndex": 1,
-      "explanation": "Người vượt trội không xóa bỏ quá khứ (điều bất khả thi) mà 'bắt quá khứ phục vụ mình', tức là trích xuất giá trị từ những nghịch cảnh."
+      "correctIndex": 0,
+      "explanation": "Người vượt trội không xóa bỏ quá khứ mà 'bắt quá khứ phục vụ mình', trích xuất giá trị từ nghịch cảnh để trở nên tốt đẹp hơn."
     },
     {
       "id": "q6",
-      "question": "Sai lầm tư duy nào thường gặp nhất khi một người tuyên bố 'sống trong hiện tại' nhưng thực chất lại đang trốn tránh quá khứ?",
+      "question": "Sai lầm tư duy nào thường gặp nhất khi một người tuyên bố 'sống trong hiện tại' nhưng thực chất lại trốn tránh quá khứ?",
       "options": [
-        "Phủ nhận giá trị của kinh nghiệm quá khứ dẫn đến lặp lại sai lầm",
-        "Quá lạc quan đến mức thiếu thực tế",
-        "Dành quá nhiều thời gian cho việc lập kế hoạch tương lai",
-        "Quá tập trung vào việc gây ấn tượng với người khác"
+        "Quá lạc quan đến mức thiếu thực tế, khiến họ không chuẩn bị kỹ lưỡng cho những rủi ro có thể xảy ra trong tương lai.",
+        "Phủ nhận giá trị của kinh nghiệm quá khứ, dẫn đến việc lặp lại các sai lầm cũ do thiếu nền tảng tích lũy.",
+        "Dành quá nhiều thời gian cho việc lập kế hoạch tương lai, bỏ qua những cơ hội đang hiện hữu ngay trước mắt mình.",
+        "Quá tập trung vào việc gây ấn tượng với người khác, làm mất đi bản sắc cá nhân trong quá trình phát triển sự nghiệp."
       ],
-      "correctIndex": 0,
-      "explanation": "Nếu 'sống trong hiện tại' nghĩa là hoàn toàn ngắt kết nối với kinh nghiệm tích lũy, bạn sẽ trở nên nông cạn và thiếu nền tảng để giải quyết các vấn đề phức tạp."
+      "correctIndex": 1,
+      "explanation": "Sống trong hiện tại không có nghĩa là cắt đứt với kinh nghiệm. Phủ nhận quá khứ khiến con người trở nên nông cạn và thiếu nền tảng."
     },
     {
       "id": "q7",
       "question": "Sự khác biệt giữa 'đúc kết bài học' và 'dằn vặt quá khứ' nằm ở yếu tố nào?",
       "options": [
-        "Thời lượng dành cho việc suy ngẫm",
-        "Tính logic của việc phân tích nguyên nhân",
-        "Sự chuyển hóa từ tư duy nạn nhân sang tư duy trách nhiệm (chủ động)",
-        "Sự ủng hộ của những người xung quanh"
+        "Thời lượng dành cho việc suy ngẫm về những sự kiện đã qua, vì suy ngẫm quá nhiều sẽ dẫn đến sự trì trệ tư duy.",
+        "Tính logic của việc phân tích nguyên nhân, giúp cá nhân hiểu rõ hơn về các yếu tố khách quan gây ra thất bại.",
+        "Sự chuyển hóa từ tư duy nạn nhân sang tư duy trách nhiệm, chủ động nắm quyền kiểm soát sự trưởng thành cá nhân.",
+        "Sự ủng hộ của những người xung quanh, vì khi có người lắng nghe thì việc hồi tưởng sẽ trở nên có ý nghĩa hơn."
       ],
       "correctIndex": 2,
-      "explanation": "Dằn vặt là trạng thái bị động, cảm thấy mình là nạn nhân của quá khứ. Đúc kết bài học là trạng thái chủ động, nơi bạn nắm quyền kiểm soát sự trưởng thành của mình."
+      "explanation": "Dằn vặt là trạng thái bị động, còn đúc kết bài học là trạng thái chủ động, nơi bạn nắm quyền kiểm soát sự trưởng thành của mình."
     },
     {
       "id": "q8",
       "question": "Tại sao việc quá tập trung vào những kỷ niệm đẹp trong quá khứ đôi khi cũng trở thành một 'cái bẫy'?",
       "options": [
-        "Vì nó có thể tạo ra cảm giác thỏa mãn ảo, khiến bạn không muốn nỗ lực cho hiện tại",
-        "Vì nó làm cho những người xung quanh cảm thấy bị bỏ rơi",
-        "Vì nó làm cho bạn trở nên xa cách với thực tế thay đổi",
-        "Vì nó tiêu tốn quá nhiều thời gian làm việc"
+        "Vì nó làm cho những người xung quanh cảm thấy bị bỏ rơi, do bạn chỉ quan tâm đến những thành tựu của riêng mình.",
+        "Vì nó làm cho bạn trở nên xa cách với thực tế thay đổi, khiến khả năng thích nghi với môi trường bị suy giảm.",
+        "Vì nó tiêu tốn quá nhiều thời gian làm việc, làm giảm hiệu suất thực thi các nhiệm vụ quan trọng trong ngày mới.",
+        "Vì nó tạo ra cảm giác thỏa mãn ảo, khiến bạn không muốn nỗ lực cho những mục tiêu khó khăn ở thời điểm hiện tại."
       ],
-      "correctIndex": 0,
-      "explanation": "Dù hồi tưởng tích cực là tốt, nếu dùng nó làm nơi trú ẩn để trốn tránh thực tại khó khăn thì nó trở thành một loại 'vùng an toàn' độc hại."
+      "correctIndex": 3,
+      "explanation": "Hồi tưởng tích cực là tốt, nhưng nếu dùng nó làm nơi trú ẩn để trốn tránh thực tại khó khăn thì nó trở thành 'vùng an toàn' độc hại."
     },
     {
       "id": "q9",
-      "question": "Khi đối mặt với một nhân viên thường xuyên kể về những 'vinh quang cũ', nhà lãnh đạo nên phản hồi thế nào để tối ưu hóa triết lý của chương sách?",
+      "question": "Khi đối mặt với nhân viên thường xuyên kể về 'vinh quang cũ', nhà lãnh đạo nên phản hồi thế nào để tối ưu hóa triết lý?",
       "options": [
-        "Cắt ngang và yêu cầu tập trung vào KPI hiện tại",
-        "Dùng sự kiện đó làm bước đệm để thảo luận về cách áp dụng kinh nghiệm cũ vào thử thách mới",
-        "Khen ngợi họ để tạo không khí làm việc vui vẻ",
-        "Khuyên họ nên ngừng khoe khoang để tránh sự ghen tị"
+        "Dùng sự kiện đó làm bước đệm để thảo luận về cách áp dụng kinh nghiệm cũ vào các thử thách mới trong tương lai.",
+        "Cắt ngang và yêu cầu tập trung vào KPI hiện tại, vì quá khứ không giúp ích gì cho các mục tiêu kinh doanh cụ thể.",
+        "Khen ngợi họ để tạo không khí làm việc vui vẻ, giúp nhân viên cảm thấy được ghi nhận và có động lực làm việc.",
+        "Khuyên họ nên ngừng khoe khoang để tránh sự ghen tị từ đồng nghiệp, duy trì sự đoàn kết trong tập thể công ty."
       ],
-      "correctIndex": 1,
-      "explanation": "Tận dụng quá khứ để phục vụ hiện tại (biến kinh nghiệm cũ thành năng lực mới) là cách tiếp cận mang tính xây dựng nhất."
+      "correctIndex": 0,
+      "explanation": "Tận dụng quá khứ để phục vụ hiện tại, biến kinh nghiệm cũ thành năng lực mới là cách tiếp cận mang tính xây dựng nhất."
     },
     {
       "id": "q10",
-      "question": "Nghịch lý trong việc ứng dụng lời khuyên của tác giả là gì?",
+      "question": "Nghịch lý trong việc ứng dụng lời khuyên của tác giả về quá khứ là gì?",
       "options": [
-        "Càng nhớ nhiều quá khứ càng ít sống được cho tương lai",
-        "Phải đối diện với nỗi đau quá khứ (một cách không thoải mái) để có được sự tự do và khôn ngoan dài hạn",
-        "Hồi tưởng làm chúng ta trở nên già nua trong suy nghĩ",
-        "Sự trưởng thành yêu cầu chúng ta phải hoàn toàn quên đi những thất bại"
+        "Càng nhớ nhiều quá khứ thì càng ít sống được cho tương lai, vì tâm trí con người có giới hạn về khả năng lưu trữ.",
+        "Phải đối diện với nỗi đau quá khứ một cách không thoải mái để có được sự tự do và khôn ngoan trong dài hạn.",
+        "Hồi tưởng làm chúng ta trở nên già nua trong suy nghĩ, vì việc nhìn lại quá khứ luôn đi kèm với sự hoài niệm cũ.",
+        "Sự trưởng thành yêu cầu chúng ta phải hoàn toàn quên đi những thất bại, để tâm trí luôn trong trạng thái trống."
       ],
       "correctIndex": 1,
-      "explanation": "Đây là sự đánh đổi: chịu đựng sự khó chịu khi nhìn lại nỗi đau để lấy được sự tự do từ bài học. Đây là cách làm của người lãnh đạo kiệt xuất."
+      "explanation": "Đây là sự đánh đổi: chịu đựng sự khó chịu khi nhìn lại nỗi đau để lấy được sự tự do từ bài học. Đó là cách của người kiệt xuất."
     },
     {
       "id": "q11",
       "question": "Tư duy 'lãng phí thời gian' khi hồi tưởng được tác giả định nghĩa dựa trên cơ sở nào?",
       "options": [
-        "Mất bao lâu để quên đi chuyện cũ",
-        "Việc thiếu đi kết quả hữu hình hoặc sự phát triển cá nhân từ quá trình đó",
-        "Số lượng người mà bạn kể lại sự việc",
-        "Tần suất bạn nói về chuyện đó với người khác"
+        "Mất bao lâu để quên đi chuyện cũ, vì thời gian là nguồn lực quý giá nhất mà con người cần phải bảo vệ nghiêm ngặt.",
+        "Số lượng người mà bạn kể lại sự việc, vì việc chia sẻ quá nhiều sẽ làm loãng đi giá trị của những bài học đó.",
+        "Việc thiếu đi kết quả hữu hình hoặc sự phát triển cá nhân từ quá trình suy ngẫm về những sự kiện đã qua đó.",
+        "Tần suất bạn nói về chuyện đó với người khác, vì việc lặp lại quá khứ sẽ gây ra sự nhàm chán cho người nghe."
       ],
-      "correctIndex": 1,
-      "explanation": "Nếu việc hồi tưởng không tạo ra giá trị (bài học, kỷ niệm đẹp, sự trưởng thành), thì nó là một hoạt động không hiệu quả (waste of time)."
+      "correctIndex": 2,
+      "explanation": "Nếu việc hồi tưởng không tạo ra giá trị như bài học, kỷ niệm đẹp hay sự trưởng thành, thì đó là hoạt động không hiệu quả."
     },
     {
       "id": "q12",
-      "question": "Bạn đang cảm thấy lo lắng về một buổi thuyết trình quan trọng vì từng thất bại trong quá khứ. Theo chương này, đâu là hành động thông minh nhất?",
+      "question": "Bạn lo lắng về buổi thuyết trình vì từng thất bại trong quá khứ. Theo chương này, hành động thông minh nhất là?",
       "options": [
-        "Cố gắng gạt bỏ sự lo lắng bằng mọi giá",
-        "Phân tích xem điều gì thực sự xảy ra trong quá khứ để tránh lỗi tương tự và tập trung vào những kỹ năng cần chuẩn bị",
-        "Chấp nhận rằng mình là người kém cỏi trong thuyết trình",
-        "Tìm kiếm sự an ủi từ bạn bè để tạm quên đi áp lực"
+        "Cố gắng gạt bỏ sự lo lắng bằng mọi giá, vì tâm lý tiêu cực sẽ làm ảnh hưởng đến phong độ của bạn trong buổi diễn.",
+        "Chấp nhận rằng mình là người kém cỏi trong thuyết trình, từ đó tìm cách né tránh các nhiệm vụ tương tự sau này.",
+        "Tìm kiếm sự an ủi từ bạn bè để tạm quên đi áp lực, giúp tâm trí thoải mái hơn trước khi bước lên sân khấu lớn.",
+        "Phân tích điều gì thực sự xảy ra trong quá khứ để tránh lỗi tương tự và tập trung vào kỹ năng cần chuẩn bị."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Sử dụng quá khứ để 'trưởng thành trong khôn ngoan' nghĩa là biến thất bại cũ thành dữ liệu để tối ưu hóa sự chuẩn bị cho hiện tại."
     },
     {
       "id": "q13",
       "question": "Tại sao tác giả cho rằng việc 'chôn vùi quá khứ' đôi khi là một lời khuyên thiếu sót?",
       "options": [
-        "Vì quá khứ là một phần của lịch sử loài người",
-        "Vì những trải nghiệm trong quá khứ chứa đựng những bài học quý giá cho sự phát triển",
-        "Vì chúng ta không thể chôn vùi cảm xúc của chính mình",
-        "Vì con người cần quá khứ để kết nối với cộng đồng"
+        "Vì những trải nghiệm trong quá khứ chứa đựng những bài học quý giá cần thiết cho sự phát triển của cá nhân.",
+        "Vì quá khứ là một phần của lịch sử loài người, việc chôn vùi nó sẽ làm mất đi bản sắc văn hóa của mỗi cá nhân.",
+        "Vì chúng ta không thể chôn vùi cảm xúc của chính mình, việc cố gắng làm vậy sẽ gây ra những ức chế tâm lý nặng.",
+        "Vì con người cần quá khứ để kết nối với cộng đồng, tạo ra sự đồng cảm giữa những người có cùng trải nghiệm."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả chỉ ra rằng nếu chôn vùi hoàn toàn, chúng ta đánh mất đi 'ngân hàng bài học' cần thiết để thông tuệ hơn."
+      "correctIndex": 0,
+      "explanation": "Tác giả chỉ ra rằng nếu chôn vùi hoàn toàn, chúng ta đánh mất đi 'ngân hàng bài học' cần thiết để trở nên thông tuệ hơn."
     },
     {
       "id": "q14",
       "question": "Lối tư duy nào phản ánh sự thấu hiểu sâu sắc nhất về mối quan hệ giữa bản thân và quá khứ?",
       "options": [
-        "Quá khứ là một gánh nặng cần được gỡ bỏ",
-        "Quá khứ là một công cụ, và người làm chủ bản thân là người biết chọn lúc nào nên sử dụng nó",
-        "Quá khứ đã qua nên nó không còn tồn tại, không cần quan tâm",
-        "Quá khứ định hình con người hiện tại nên chúng ta phải sống theo những gì đã xảy ra"
+        "Quá khứ là một gánh nặng cần được gỡ bỏ, vì nó luôn kéo lùi sự tiến bộ của con người trong thế giới hiện đại.",
+        "Quá khứ là một công cụ, và người làm chủ bản thân là người biết chọn lúc nào nên sử dụng nó để phát triển.",
+        "Quá khứ đã qua nên nó không còn tồn tại, không cần quan tâm đến những gì đã xảy ra trong cuộc đời của mình.",
+        "Quá khứ định hình con người hiện tại nên chúng ta phải sống theo những gì đã xảy ra trong các sự kiện trước."
       ],
       "correctIndex": 1,
-      "explanation": "Tác giả nhấn mạnh vào sự chủ động trong tư duy: coi quá khứ là công cụ phục vụ mục tiêu hiện tại chứ không để nó chi phối tâm trí."
+      "explanation": "Tác giả nhấn mạnh vào sự chủ động: coi quá khứ là công cụ phục vụ mục tiêu hiện tại chứ không để nó chi phối tâm trí."
     },
     {
       "id": "q15",
       "question": "Để trở nên 'tốt đẹp hơn' như mong đợi của tác giả, một người cần rèn luyện thói quen gì hàng ngày?",
       "options": [
-        "Viết nhật ký để không bao giờ quên đi quá khứ",
-        "Thực hiện việc phản tư (reflection) để rút kinh nghiệm từ những gì đã xảy ra trong ngày",
-        "Tập trung tuyệt đối vào những kế hoạch lớn lao cho tương lai",
-        "Chia sẻ những sai lầm cá nhân với đồng nghiệp để cùng nhau học hỏi"
+        "Viết nhật ký để không bao giờ quên đi quá khứ, giúp lưu giữ lại mọi kỷ niệm vui buồn trong suốt cuộc đời mình.",
+        "Tập trung tuyệt đối vào những kế hoạch lớn lao cho tương lai, bỏ qua mọi sự kiện đã xảy ra trong quá khứ.",
+        "Thực hiện việc phản tư để rút kinh nghiệm từ những gì đã xảy ra trong ngày, biến trải nghiệm thành bài học.",
+        "Chia sẻ những sai lầm cá nhân với đồng nghiệp để cùng nhau học hỏi, tạo ra môi trường làm việc cởi mở hơn."
       ],
-      "correctIndex": 1,
-      "explanation": "Phản tư là cầu nối giữa việc 'hồi tưởng' và 'phát triển'. Đây là thói quen của những người dẫn đầu để đảm bảo họ luôn rút ra được bài học từ mỗi trải nghiệm."
+      "correctIndex": 2,
+      "explanation": "Phản tư là cầu nối giữa việc 'hồi tưởng' và 'phát triển'. Đây là thói quen của người dẫn đầu để rút ra bài học từ mỗi trải nghiệm."
     }
   ]
 }

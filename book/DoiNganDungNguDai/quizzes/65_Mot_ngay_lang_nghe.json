@@ -8,70 +8,70 @@
       "id": "q1",
       "question": "Theo tác giả, lý do chủ đạo khiến nhân sự tài giỏi rời bỏ tổ chức là gì?",
       "options": [
-        "Mức đãi ngộ không tương xứng với năng lực",
-        "Thiếu sự thăng tiến rõ ràng trong lộ trình công danh",
-        "Cảm giác bản thân không được công nhận và tôn trọng",
-        "Môi trường làm việc không hỗ trợ phát huy tối đa tiềm năng"
+        "Họ cảm thấy bản thân không được coi trọng và không được thừa nhận giá trị đặc biệt trong môi trường làm việc hiện tại.",
+        "Mức đãi ngộ tài chính không tương xứng với năng lực thực tế khiến họ cảm thấy bị thiệt thòi so với mặt bằng chung.",
+        "Thiếu lộ trình thăng tiến rõ ràng trong sự nghiệp khiến họ mất đi động lực để cống hiến lâu dài cho tổ chức đó.",
+        "Môi trường làm việc không hỗ trợ phát huy tối đa tiềm năng cá nhân khiến họ cảm thấy bị kìm hãm sự phát triển."
       ],
-      "correctIndex": 2,
-      "explanation": "Tác giả chỉ rõ rằng sự lắng nghe tạo ra cảm giác đặc biệt; khi thiếu nó, người tài cảm thấy không được coi trọng, dẫn đến xu hướng rời bỏ dù lương bổng có thể tốt."
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh sự lắng nghe tạo ra cảm giác đặc biệt; khi thiếu nó, người tài cảm thấy không được coi trọng, dẫn đến xu hướng rời bỏ dù lương bổng có thể tốt."
     },
     {
       "id": "q2",
       "question": "Hành động 'lắng nghe' trong chương này được định nghĩa khác biệt thế nào với 'nghe thấy' thông thường?",
       "options": [
-        "Là quá trình tiếp nhận âm thanh thụ động để duy trì phép lịch sự",
-        "Là sự hiện diện toàn tâm toàn ý, không bị xao nhãng bởi suy nghĩ cá nhân",
-        "Là việc ghi chép lại các thông tin quan trọng để phản biện lại sau đó",
-        "Là kỹ thuật tâm lý để người khác tin tưởng và chia sẻ bí mật"
+        "Là quá trình tiếp nhận âm thanh một cách thụ động để duy trì phép lịch sự tối thiểu trong các cuộc giao tiếp xã hội.",
+        "Là sự hiện diện toàn tâm toàn ý, tạm gác lại cái tôi và không bị xao nhãng bởi những suy nghĩ hay dự định cá nhân.",
+        "Là việc ghi chép lại các thông tin quan trọng để có thể phản biện lại một cách logic và sắc bén trong các cuộc họp.",
+        "Là kỹ thuật tâm lý giúp người khác tin tưởng và chia sẻ những bí mật quan trọng mà họ không nói với người khác."
       ],
       "correctIndex": 1,
-      "explanation": "Lắng nghe vượt trội đòi hỏi sự hiện diện trọn vẹn và tạm gác lại 'cái tôi' (sự chuẩn bị câu đáp trả) để thực sự kết nối với người nói."
+      "explanation": "Lắng nghe vượt trội đòi hỏi sự hiện diện trọn vẹn và tạm gác lại cái tôi để thực sự kết nối với người nói thay vì chỉ nghe âm thanh."
     },
     {
       "id": "q3",
       "question": "Tại sao việc chuẩn bị sẵn câu đáp trả trong lúc người khác đang nói lại là một rào cản trong giao tiếp?",
       "options": [
-        "Vì nó khiến chúng ta phản ứng quá nhanh và dễ gây tranh cãi",
-        "Vì nó làm gián đoạn dòng chảy thông tin của người nói",
-        "Vì tư duy của bạn lúc đó không còn tập trung vào đối phương mà tập trung vào cái tôi",
-        "Vì đối phương sẽ nhận ra bạn không hề tôn trọng quan điểm của họ"
+        "Vì nó khiến chúng ta phản ứng quá nhanh với các thông tin chưa được kiểm chứng, dễ dẫn đến các cuộc tranh cãi gay gắt.",
+        "Vì nó làm gián đoạn dòng chảy thông tin của người nói, khiến họ cảm thấy không được tôn trọng trong quá trình chia sẻ.",
+        "Vì tư duy của bạn lúc đó không còn tập trung vào đối phương mà đang bận rộn bảo vệ quan điểm của cái tôi cá nhân.",
+        "Vì đối phương sẽ dễ dàng nhận ra bạn không hề lắng nghe và không tôn trọng quan điểm mà họ đang cố gắng truyền tải."
       ],
       "correctIndex": 2,
-      "explanation": "Khi chuẩn bị câu đáp, não bộ bạn đang xử lý cái tôi cá nhân chứ không phải dữ liệu người nói truyền tải, đó là sự ngắt kết nối tâm trí."
+      "explanation": "Khi chuẩn bị câu đáp, não bộ đang xử lý cái tôi cá nhân chứ không phải dữ liệu người nói truyền tải, đó là sự ngắt kết nối tâm trí."
     },
     {
       "id": "q4",
       "question": "Trong bối cảnh lãnh đạo, việc 'lắng nghe sâu' mang lại lợi ích chiến lược nào?",
       "options": [
-        "Kiểm soát tốt hơn các ý kiến trái chiều trong nhóm",
-        "Thu thập dữ liệu thực tế để tối ưu hóa hiệu suất công việc",
-        "Dễ dàng thuyết phục nhân viên đi theo định hướng cá nhân",
-        "Xây dựng hình ảnh người lãnh đạo dễ gần và ôn hòa"
+        "Kiểm soát tốt hơn các ý kiến trái chiều trong nhóm để đảm bảo mọi người đều tuân thủ theo định hướng của lãnh đạo.",
+        "Dễ dàng thuyết phục nhân viên đi theo định hướng cá nhân bằng cách thấu hiểu tâm lý và nhu cầu của từng cá nhân.",
+        "Xây dựng hình ảnh người lãnh đạo dễ gần và ôn hòa, từ đó tạo ra môi trường làm việc thoải mái cho mọi nhân viên.",
+        "Thu thập dữ liệu thực tế từ nhân viên để tinh chỉnh chiến lược và tối ưu hóa hiệu suất công việc của toàn đội ngũ."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Lắng nghe không chỉ là đạo đức, mà là kỹ năng thu thập dữ liệu quý giá giúp lãnh đạo tinh chỉnh chiến lược và giải quyết vấn đề thực tế."
     },
     {
       "id": "q5",
       "question": "Điều gì là thách thức lớn nhất đối với một người muốn thực hiện 'một ngày lắng nghe'?",
       "options": [
-        "Sợ bỏ lỡ các thông tin quan trọng khác từ email hoặc mạng xã hội",
-        "Thói quen luôn muốn kiểm soát cuộc đối thoại bằng quan điểm cá nhân",
-        "Sự khó chịu khi phải dành quá nhiều thời gian cho người khác",
-        "Sự thiếu kiên nhẫn khi đối phương trình bày vấn đề vòng vo"
+        "Thói quen luôn muốn khẳng định bản thân và kiểm soát cuộc đối thoại bằng những quan điểm cá nhân của chính mình.",
+        "Sự lo lắng về việc bỏ lỡ các thông tin quan trọng từ email hoặc mạng xã hội trong suốt thời gian tập trung lắng nghe.",
+        "Sự khó chịu khi phải dành quá nhiều thời gian cho người khác thay vì tập trung vào các nhiệm vụ cá nhân quan trọng.",
+        "Sự thiếu kiên nhẫn khi đối phương trình bày vấn đề một cách vòng vo, không đi thẳng vào trọng tâm của câu chuyện."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Bản năng con người là muốn khẳng định bản thân; việc im lặng để lắng nghe đòi hỏi sự kỷ luật cao độ để đè nén mong muốn thể hiện cái tôi."
     },
     {
       "id": "q6",
       "question": "Vì sao tác giả cho rằng 'ai cũng khao khát tiếng nói của mình được thừa nhận'?",
       "options": [
-        "Vì con người luôn có nhu cầu được khẳng định quyền lực trong tổ chức",
-        "Vì đó là nhu cầu nền tảng để con người cảm thấy mình tồn tại và có giá trị",
-        "Vì mọi người đều tin rằng ý kiến của mình là giải pháp tối ưu cho vấn đề",
-        "Vì sự thừa nhận là thước đo duy nhất cho sự thành công cá nhân"
+        "Vì con người luôn có nhu cầu được khẳng định quyền lực và tầm ảnh hưởng của mình trong cấu trúc của một tổ chức.",
+        "Vì đó là nhu cầu nền tảng để con người cảm thấy mình tồn tại, có giá trị và được kết nối với cộng đồng xung quanh.",
+        "Vì mọi người đều tin rằng ý kiến của mình là giải pháp tối ưu nhất cho các vấn đề mà tổ chức đang gặp phải hiện nay.",
+        "Vì sự thừa nhận là thước đo duy nhất cho sự thành công cá nhân trong mắt đồng nghiệp và cấp trên tại nơi làm việc."
       ],
       "correctIndex": 1,
       "explanation": "Sự thừa nhận không phải về cái tôi, mà là nhu cầu cơ bản về kết nối và xác nhận giá trị sự tồn tại của con người trong xã hội."
@@ -80,58 +80,58 @@
       "id": "q7",
       "question": "Việc kiểm tra email hay nhắn tin khi đang lắng nghe người khác gửi đi thông điệp ngầm nào?",
       "options": [
-        "Tôi là người làm việc đa nhiệm hiệu quả",
-        "Nội dung của bạn không quan trọng bằng những gì tôi đang làm",
-        "Tôi đang xử lý vấn đề của bạn ngay lập tức",
-        "Tôi là người bận rộn và quan trọng"
+        "Tôi là một người làm việc đa nhiệm hiệu quả, có thể xử lý nhiều luồng thông tin cùng một lúc mà không bị xao nhãng.",
+        "Tôi đang xử lý vấn đề của bạn ngay lập tức để đảm bảo tiến độ công việc không bị đình trệ vì những lý do khách quan.",
+        "Nội dung bạn đang chia sẻ không quan trọng bằng những công việc khác mà tôi đang ưu tiên xử lý ngay lúc này.",
+        "Tôi là một người rất bận rộn và quan trọng, vì vậy tôi cần phải tranh thủ thời gian để giải quyết các đầu việc."
       ],
-      "correctIndex": 1,
-      "explanation": "Đây là thông điệp tiêu cực cho thấy sự thiếu tôn trọng thời gian và giá trị của người đối diện."
+      "correctIndex": 2,
+      "explanation": "Đây là thông điệp tiêu cực cho thấy sự thiếu tôn trọng thời gian và giá trị của người đối diện trong cuộc hội thoại."
     },
     {
       "id": "q8",
       "question": "Người thể hiện vượt trội khác biệt thế nào với người bình thường trong kỹ năng lắng nghe?",
       "options": [
-        "Họ lắng nghe để tìm ra điểm yếu của đối phương",
-        "Họ lắng nghe với tâm thế của người học trò khiêm tốn",
-        "Họ biết cách ngắt lời một cách tế nhị để định hướng cuộc hội thoại",
-        "Họ lắng nghe bằng sự tập trung tuyệt đối để vén màn giá trị ẩn sau lời nói"
+        "Họ lắng nghe để tìm ra những điểm yếu trong lập luận của đối phương nhằm giành lợi thế trong các cuộc đàm phán.",
+        "Họ lắng nghe với tâm thế của một người học trò khiêm tốn, luôn sẵn sàng tiếp thu kiến thức mới từ mọi người xung quanh.",
+        "Họ biết cách ngắt lời một cách tế nhị để định hướng cuộc hội thoại đi đúng theo mục tiêu mà họ đã đề ra từ trước.",
+        "Họ lắng nghe bằng sự tập trung tuyệt đối để vén màn những điều vĩ đại và giá trị ẩn sau lời nói của đối phương."
       ],
       "correctIndex": 3,
-      "explanation": "Người vượt trội không chỉ nghe mà còn lắng nghe để 'vén màn' những điều vĩ đại, nghĩa là họ chủ động tìm kiếm giá trị cốt lõi từ người khác."
+      "explanation": "Người vượt trội không chỉ nghe mà còn lắng nghe để vén màn những điều vĩ đại, nghĩa là họ chủ động tìm kiếm giá trị cốt lõi từ người khác."
     },
     {
       "id": "q9",
       "question": "Nếu áp dụng triết lý này vào quản trị, lãnh đạo nên làm gì khi cấp dưới phản ánh vấn đề?",
       "options": [
-        "Giải quyết ngay lập tức để chứng tỏ năng lực quản lý",
-        "Lắng nghe trọn vẹn để cấp dưới cảm thấy được thấu hiểu trước khi phản hồi",
-        "Đặt câu hỏi ngược lại để cấp dưới tự tìm ra giải pháp của họ",
-        "Ghi chú lại để giải quyết vào cuộc họp tuần sau"
+        "Lắng nghe trọn vẹn để cấp dưới cảm thấy được thấu hiểu và tôn trọng trước khi đưa ra bất kỳ phản hồi hay giải pháp.",
+        "Giải quyết ngay lập tức để chứng tỏ năng lực quản lý nhạy bén và khả năng xử lý tình huống nhanh chóng của lãnh đạo.",
+        "Đặt câu hỏi ngược lại để cấp dưới tự tìm ra giải pháp của họ thay vì lãnh đạo phải trực tiếp can thiệp vào vấn đề.",
+        "Ghi chú lại các ý kiến đó để giải quyết vào cuộc họp tuần sau nhằm đảm bảo tính hệ thống trong quy trình quản lý."
       ],
-      "correctIndex": 1,
-      "explanation": "Bước đầu tiên của quản trị con người là xác nhận giá trị (validation) thông qua lắng nghe, tạo nền tảng tin tưởng trước khi đưa ra hướng dẫn."
+      "correctIndex": 0,
+      "explanation": "Bước đầu tiên của quản trị con người là xác nhận giá trị thông qua lắng nghe, tạo nền tảng tin tưởng trước khi đưa ra hướng dẫn."
     },
     {
       "id": "q10",
       "question": "Lời khuyên 'hãy ở đó vì họ' hàm ý điều gì trong tư duy lãnh đạo?",
       "options": [
-        "Sự hiện diện vật lý là đủ để tạo ra sự tin tưởng",
-        "Đầu tư thời gian cho mối quan hệ là chi phí cơ hội cần thiết",
-        "Sự đồng cảm và hiện diện tâm trí là món quà lớn nhất cho cộng sự",
-        "Lãnh đạo phải hy sinh mục tiêu cá nhân để phục vụ nhu cầu nhân viên"
+        "Sự hiện diện vật lý tại nơi làm việc là đủ để tạo ra sự tin tưởng và gắn kết giữa lãnh đạo và các nhân viên cấp dưới.",
+        "Sự đồng cảm và hiện diện tâm trí trọn vẹn là món quà lớn nhất mà một người lãnh đạo có thể dành cho cộng sự của mình.",
+        "Đầu tư thời gian cho mối quan hệ là chi phí cơ hội cần thiết để xây dựng một đội ngũ trung thành và làm việc hiệu quả.",
+        "Lãnh đạo phải hy sinh các mục tiêu cá nhân để phục vụ mọi nhu cầu của nhân viên nhằm duy trì sự ổn định của tổ chức."
       ],
-      "correctIndex": 2,
-      "explanation": "Sự hiện diện tâm trí (mindfulness) biến việc lắng nghe từ một thao tác giao tiếp thành một trải nghiệm kết nối sâu sắc, thúc đẩy lòng trung thành và sự tin tưởng."
+      "correctIndex": 1,
+      "explanation": "Sự hiện diện tâm trí biến việc lắng nghe từ một thao tác giao tiếp thành một trải nghiệm kết nối sâu sắc, thúc đẩy lòng trung thành."
     },
     {
       "id": "q11",
       "question": "Tại sao không ngắt lời người khác lại được coi là bài tập kỷ luật bản thân quan trọng?",
       "options": [
-        "Vì ngắt lời là biểu hiện của sự kém cỏi trong giáo dục",
-        "Vì nó giúp người khác cảm thấy thoải mái hơn khi nói chuyện",
-        "Vì nó tập rèn luyện khả năng kiểm soát xung năng và sự khiêm tốn",
-        "Vì nó giúp bạn tránh được việc đưa ra các lời khuyên sai lầm"
+        "Vì ngắt lời là biểu hiện của sự kém cỏi trong giáo dục và thiếu kỹ năng giao tiếp cơ bản trong môi trường chuyên nghiệp.",
+        "Vì nó giúp người khác cảm thấy thoải mái hơn khi nói chuyện, từ đó tạo ra sự cởi mở trong các cuộc thảo luận nhóm.",
+        "Vì nó giúp rèn luyện khả năng kiểm soát xung năng cá nhân và thể hiện sự khiêm tốn trong quá trình tương tác xã hội.",
+        "Vì nó giúp bạn tránh được việc đưa ra các lời khuyên sai lầm khi chưa nắm bắt đầy đủ thông tin từ phía người đối diện."
       ],
       "correctIndex": 2,
       "explanation": "Ngắt lời là bản năng tự vệ hoặc khẳng định cái tôi; kiềm chế hành động này rèn luyện sự khiêm nhường và khả năng làm chủ bản thân."
@@ -140,49 +140,49 @@
       "id": "q12",
       "question": "Triết lý của tác giả trong chương này có mâu thuẫn với mục tiêu đạt hiệu suất cao không?",
       "options": [
-        "Có, vì lắng nghe mất nhiều thời gian hơn là ra quyết định",
-        "Không, vì lắng nghe giúp tránh sai lầm và hiểu rõ nguồn lực con người",
-        "Có, vì trong kinh doanh thì kết quả quan trọng hơn là sự đồng cảm",
-        "Không, vì nó chỉ cần thiết trong các buổi phỏng vấn nhân sự"
+        "Có, vì việc lắng nghe mất nhiều thời gian hơn là ra quyết định nhanh chóng để kịp tiến độ công việc trong kinh doanh.",
+        "Có, vì trong môi trường kinh doanh cạnh tranh thì kết quả thực tế quan trọng hơn nhiều so với sự đồng cảm cá nhân.",
+        "Không, vì nó chỉ cần thiết trong các buổi phỏng vấn nhân sự để đánh giá năng lực ứng viên một cách chính xác nhất.",
+        "Không, vì lắng nghe giúp tránh sai lầm và hiểu rõ nguồn lực con người để tối ưu hóa hiệu quả công việc lâu dài."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanation": "Lắng nghe là khoản đầu tư cho hiệu suất lâu dài. Việc nghe nhầm do thiếu lắng nghe gây ra những chi phí sửa sai còn đắt đỏ hơn nhiều."
     },
     {
       "id": "q13",
       "question": "Điều gì xảy ra nếu bạn cố gắng 'lắng nghe' chỉ để đạt được mục đích lấy lòng đối phương?",
       "options": [
-        "Bạn sẽ thành công vì đây là kỹ thuật đắc nhân tâm hiệu quả",
-        "Bạn sẽ sớm bị phát hiện vì sự thiếu chân thành sẽ bộc lộ qua cử chỉ",
-        "Bạn sẽ trở thành một nhà lãnh đạo được mọi người yêu mến",
-        "Bạn sẽ tạo ra một bầu không khí giả tạo trong môi trường công sở"
+        "Bạn sẽ sớm bị phát hiện vì sự thiếu chân thành sẽ bộc lộ qua cử chỉ và thái độ không nhất quán trong giao tiếp.",
+        "Bạn sẽ thành công vì đây là kỹ thuật đắc nhân tâm hiệu quả giúp xây dựng mối quan hệ tốt đẹp với mọi người xung quanh.",
+        "Bạn sẽ trở thành một nhà lãnh đạo được mọi người yêu mến và tin tưởng nhờ vào khả năng lắng nghe đầy khéo léo đó.",
+        "Bạn sẽ tạo ra một bầu không khí giả tạo trong môi trường công sở, khiến mọi người cảm thấy không thoải mái khi làm việc."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanation": "Lắng nghe là một kỹ năng cần dựa trên sự chân thành. Kỹ thuật bề nổi không thể che giấu sự thiếu kết nối thật sự trong thời gian dài."
     },
     {
       "id": "q14",
       "question": "Cách tiếp cận 'một ngày lắng nghe' cho thấy sự đánh đổi nào trong tư duy lãnh đạo?",
       "options": [
-        "Đánh đổi sự nhanh chóng lấy sự thấu hiểu sâu sắc",
-        "Đánh đổi sự quyết đoán lấy sự đồng thuận chung",
-        "Đánh đổi quyền lực cá nhân để lấy sự ủng hộ từ cấp dưới",
-        "Đánh đổi sự chuyên nghiệp lấy mối quan hệ thân tình"
+        "Đánh đổi sự quyết đoán cần thiết để lấy sự đồng thuận chung của tập thể trong các vấn đề quan trọng của tổ chức.",
+        "Đánh đổi sự nhanh chóng trong ngắn hạn để lấy sự thấu hiểu sâu sắc, giúp ra quyết định chính xác hơn trong dài hạn.",
+        "Đánh đổi quyền lực cá nhân để lấy sự ủng hộ từ cấp dưới nhằm duy trì vị thế của lãnh đạo trong mắt nhân viên.",
+        "Đánh đổi sự chuyên nghiệp trong công việc để lấy mối quan hệ thân tình với các cộng sự trong môi trường làm việc."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự đánh đổi ở đây là sự chậm lại trong ngắn hạn (để lắng nghe) nhằm đạt được sự hiểu biết thấu đáo để ra quyết định chính xác hơn trong dài hạn."
+      "correctIndex": 1,
+      "explanation": "Sự đánh đổi ở đây là sự chậm lại trong ngắn hạn để lắng nghe nhằm đạt được sự hiểu biết thấu đáo để ra quyết định chính xác hơn."
     },
     {
       "id": "q15",
       "question": "Bài học cốt lõi nhất mà tác giả muốn độc giả rút ra từ việc thực hành 'lắng nghe' là gì?",
       "options": [
-        "Cách thu phục lòng người để tối đa hóa lợi nhuận",
-        "Trở thành người biết lắng nghe để nâng tầm vị thế bản thân",
-        "Thừa nhận giá trị của người khác thông qua việc hiện diện trọn vẹn",
-        "Sự im lặng là vàng và chỉ nên nói khi thật sự cần thiết"
+        "Cách thu phục lòng người để tối đa hóa lợi nhuận cho tổ chức thông qua việc lắng nghe nhu cầu của khách hàng tiềm năng.",
+        "Trở thành người biết lắng nghe để nâng tầm vị thế bản thân và tạo dựng uy tín trong mắt đồng nghiệp và đối tác lớn.",
+        "Thừa nhận giá trị của người khác thông qua việc hiện diện trọn vẹn là nền tảng của sự kết nối giữa người với người.",
+        "Sự im lặng là vàng và chỉ nên nói khi thật sự cần thiết để tránh những rắc rối không đáng có trong các cuộc hội thoại."
       ],
       "correctIndex": 2,
-      "explanation": "Giá trị cốt lõi là sự thừa nhận (recognition). Khi bạn lắng nghe, bạn khẳng định giá trị của người khác, đó là nền tảng của sự kết nối giữa người với người."
+      "explanation": "Giá trị cốt lõi là sự thừa nhận. Khi bạn lắng nghe, bạn khẳng định giá trị của người khác, đó là nền tảng của sự kết nối giữa người với người."
     }
   ]
 }

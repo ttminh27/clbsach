@@ -6,183 +6,183 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Theo triết lý của tác giả, 'lợi thế cạnh tranh' (USP - Unique Selling Point) của một cá nhân trong sự nghiệp cần được xác định dựa trên tiêu chí nào?",
+      "question": "Theo triết lý của tác giả, 'lợi thế cạnh tranh' của một cá nhân trong sự nghiệp cần được xác định dựa trên tiêu chí nào?",
       "options": [
-        "Khả năng sao chép hoàn hảo những mô hình thành công đã có sẵn",
-        "Sự kết hợp độc nhất giữa kỹ năng, giá trị và cách thức tạo ra kết quả khác biệt",
-        "Khả năng giảm thiểu chi phí dịch vụ để đạt mức giá cạnh tranh nhất",
-        "Việc tuân thủ nghiêm ngặt các quy tắc ngành để đảm bảo sự an toàn"
+        "Sự kết hợp độc nhất giữa kỹ năng, giá trị và cách thức tạo ra kết quả khác biệt mà chưa ai từng thực hiện trước đây.",
+        "Khả năng sao chép hoàn hảo những mô hình thành công đã có sẵn để tối ưu hóa hiệu suất làm việc trong môi trường cũ.",
+        "Việc tập trung tối đa vào việc giảm thiểu chi phí dịch vụ để đạt được mức giá cạnh tranh nhất trên thị trường hiện tại.",
+        "Sự tuân thủ nghiêm ngặt các quy tắc ngành nghề để đảm bảo sự an toàn và ổn định trong lộ trình phát triển sự nghiệp."
       ],
-      "correctIndex": 1,
-      "explanation": "Tác giả lấy ví dụ về Starbury và Tesla để nhấn mạnh vào giá trị đặc thù. USP không chỉ là giá thấp (như Starbury) hay công nghệ cao (như Tesla), mà là sự thấu hiểu điều khiến bạn trở nên khác biệt để đóng góp giá trị mà chưa ai làm được."
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh USP không chỉ là giá hay công nghệ, mà là sự thấu hiểu giá trị đặc thù để đóng góp những điều chưa ai làm."
     },
     {
       "id": "q2",
       "question": "Vì sao tác giả cho rằng việc biết rõ sự khác biệt của bản thân là tiền đề cho việc 'cho người khác biết'?",
       "options": [
-        "Vì sự khác biệt là công cụ để thao túng cảm xúc người đối diện",
-        "Vì sự tự nhận thức rõ ràng giúp xây dựng thông điệp nhất quán và tự tin",
-        "Vì đó là cách duy nhất để thu hút sự chú ý trên truyền thông",
-        "Vì nếu không có sự khác biệt, con người sẽ không được xã hội công nhận"
+        "Vì sự khác biệt là công cụ hiệu quả nhất để thao túng cảm xúc và thu hút sự chú ý của người đối diện trong giao tiếp.",
+        "Vì sự tự nhận thức rõ ràng giúp xây dựng thông điệp nhất quán, tạo niềm tin và định vị giá trị cá nhân với người khác.",
+        "Vì đó là cách duy nhất để thu hút sự chú ý trên các nền tảng truyền thông xã hội trong kỷ nguyên số đầy cạnh tranh.",
+        "Vì nếu không có sự khác biệt rõ rệt, con người sẽ không bao giờ được xã hội công nhận và tôn trọng trong công việc."
       ],
       "correctIndex": 1,
-      "explanation": "Sự tự nhận thức (self-awareness) là cốt lõi của thương hiệu cá nhân. Nếu bạn không định nghĩa được giá trị của mình, bạn sẽ không thể truyền tải nó một cách thuyết phục đến người khác."
+      "explanation": "Sự tự nhận thức là cốt lõi của thương hiệu cá nhân; nếu không định nghĩa được giá trị, bạn không thể truyền tải nó thuyết phục."
     },
     {
       "id": "q3",
       "question": "Trong bối cảnh cạnh tranh khốc liệt, đâu là tư duy sai lầm khi muốn tạo ra sự 'khác biệt'?",
       "options": [
-        "Cố gắng thay đổi hoàn toàn bản chất cá nhân để thích nghi với đám đông",
-        "Sáng tạo dựa trên những gì mình đã thành thạo",
-        "Đưa ra giải pháp giải quyết vấn đề bằng góc nhìn mới",
-        "Tập trung vào những giá trị chưa được khai thác"
+        "Sáng tạo dựa trên những gì mình đã thành thạo để nâng cao giá trị đóng góp cho tổ chức trong các dự án quan trọng.",
+        "Đưa ra giải pháp giải quyết vấn đề bằng góc nhìn mới mẻ nhằm tối ưu hóa quy trình làm việc vốn đã cũ kỹ từ lâu.",
+        "Cố gắng thay đổi hoàn toàn bản chất cá nhân để thích nghi với đám đông nhằm đạt được sự chấp nhận của số đông người.",
+        "Tập trung vào những giá trị chưa được khai thác để tạo ra lợi thế cạnh tranh bền vững trong môi trường kinh doanh."
       ],
-      "correctIndex": 0,
-      "explanation": "Thay đổi bản chất để thích nghi thường dẫn đến việc đánh mất bản sắc. Khác biệt thật sự đến từ việc phát huy thế mạnh độc bản chứ không phải là đóng vai người khác."
+      "correctIndex": 2,
+      "explanation": "Thay đổi bản chất để thích nghi dẫn đến mất bản sắc. Khác biệt thật sự đến từ việc phát huy thế mạnh độc bản của chính mình."
     },
     {
       "id": "q4",
       "question": "Bài học lớn nhất từ ví dụ về hãng giày Starbury trong việc định vị bản thân là gì?",
       "options": [
-        "Giá rẻ là yếu tố duy nhất để thắng thế trong thị trường cạnh tranh",
-        "Sự khác biệt không nhất thiết phải là tính năng mới, mà có thể là cách tiếp cận giá trị",
-        "Thành công chỉ đến khi bạn làm những điều hoàn toàn xa lạ với đối thủ",
-        "Cần phải bắt chước thiết kế của các thương hiệu lớn để chiếm thị phần"
+        "Giá rẻ là yếu tố duy nhất để thắng thế trong thị trường cạnh tranh khốc liệt giữa các thương hiệu lớn toàn cầu.",
+        "Thành công chỉ đến khi bạn làm những điều hoàn toàn xa lạ với đối thủ để tạo ra sự tò mò cho người tiêu dùng.",
+        "Cần phải bắt chước thiết kế của các thương hiệu lớn để chiếm thị phần nhanh chóng trong giai đoạn đầu khởi nghiệp.",
+        "Sự khác biệt không nhất thiết phải là tính năng mới, mà có thể là cách tiếp cận giá trị độc đáo cho khách hàng."
       ],
-      "correctIndex": 1,
-      "explanation": "Starbury dùng cách tiếp cận về giá để tạo ra sự khác biệt trong một thị trường vốn đã đầy rẫy các hãng lớn. Điều này chứng minh rằng khác biệt đến từ sự sáng tạo chiến lược chứ không chỉ là công nghệ cao siêu."
+      "correctIndex": 3,
+      "explanation": "Starbury dùng cách tiếp cận về giá để tạo khác biệt, chứng minh rằng khác biệt đến từ sáng tạo chiến lược, không chỉ công nghệ."
     },
     {
       "id": "q5",
       "question": "Tại sao 'can đảm để khác biệt' thường đi đôi với nguy cơ bị từ chối hoặc chỉ trích?",
       "options": [
-        "Vì sự khác biệt thách thức những chuẩn mực và tư duy cũ kỹ của số đông",
-        "Vì những người khác biệt luôn có xu hướng đối đầu với lãnh đạo",
-        "Vì xã hội chỉ chấp nhận những người có thành tích vượt bậc ngay lập tức",
-        "Vì sự khác biệt luôn đồng nghĩa với việc làm những điều phi đạo đức"
+        "Vì sự khác biệt thách thức những chuẩn mực và tư duy cũ kỹ vốn đã ăn sâu vào tiềm thức của số đông trong xã hội.",
+        "Vì những người có tư duy khác biệt luôn có xu hướng đối đầu trực diện với lãnh đạo để khẳng định cái tôi cá nhân.",
+        "Vì xã hội chỉ chấp nhận những người có thành tích vượt bậc ngay lập tức mà không cần trải qua quá trình thử thách.",
+        "Vì sự khác biệt luôn đồng nghĩa với việc làm những điều phi đạo đức hoặc đi ngược lại với các giá trị cộng đồng."
       ],
       "correctIndex": 0,
-      "explanation": "Số đông thường cảm thấy bất an trước sự đổi mới. Do đó, sự khác biệt luôn cần lòng can đảm để đối mặt với sự hoài nghi trước khi được thừa nhận."
+      "explanation": "Số đông thường bất an trước sự đổi mới. Sự khác biệt cần lòng can đảm để đối mặt với hoài nghi trước khi được thừa nhận."
     },
     {
       "id": "q6",
-      "question": "Nếu một nhân viên luôn tuân thủ đúng quy trình, làm việc chăm chỉ nhưng không thể định nghĩa được điều gì khiến mình khác biệt, rủi ro lớn nhất của họ là gì?",
+      "question": "Nếu một nhân viên luôn tuân thủ đúng quy trình nhưng không thể định nghĩa được điều gì khiến mình khác biệt, rủi ro là gì?",
       "options": [
-        "Bị sa thải vì làm việc quá cứng nhắc",
-        "Trở nên dễ bị thay thế trong kỷ nguyên tự động hóa",
-        "Được đề bạt quá nhanh dẫn đến mất phương hướng",
-        "Mất khả năng làm việc nhóm vì quá tập trung vào bản thân"
+        "Bị sa thải vì làm việc quá cứng nhắc và không có khả năng thích nghi với những thay đổi nhanh chóng của thị trường.",
+        "Trở nên dễ bị thay thế trong kỷ nguyên tự động hóa khi các kỹ năng cơ bản không còn là lợi thế cạnh tranh độc bản.",
+        "Được đề bạt quá nhanh dẫn đến mất phương hướng và không đủ năng lực để quản lý các dự án phức tạp của công ty.",
+        "Mất khả năng làm việc nhóm vì quá tập trung vào bản thân mà quên đi mục tiêu chung của tổ chức và đồng nghiệp."
       ],
       "correctIndex": 1,
-      "explanation": "Trong môi trường chuyên nghiệp, chỉ làm việc chăm chỉ là chưa đủ. Nếu không có USP, bạn trở thành một 'hàng hóa' dễ bị thay thế bởi những người khác hoặc công nghệ rẻ hơn."
+      "explanation": "Chỉ làm việc chăm chỉ là chưa đủ. Nếu không có USP, bạn trở thành 'hàng hóa' dễ bị thay thế bởi người khác hoặc công nghệ."
     },
     {
       "id": "q7",
       "question": "Làm thế nào để áp dụng tư duy 'ước mơ to lớn hơn' vào sự nghiệp hiện tại của bạn?",
       "options": [
-        "Đặt ra những mục tiêu phi thực tế để gây áp lực lên bản thân",
-        "Tập trung nâng cấp chất lượng công việc vượt ngoài kỳ vọng của sếp và đồng nghiệp",
-        "Từ bỏ công việc hiện tại để tìm kiếm một cơ hội mới hoàn hảo hơn",
-        "Chỉ làm những việc lớn và bỏ qua các chi tiết nhỏ lẻ hàng ngày"
+        "Đặt ra những mục tiêu phi thực tế để gây áp lực lên bản thân nhằm ép buộc mình phải bứt phá trong thời gian ngắn.",
+        "Từ bỏ công việc hiện tại để tìm kiếm một cơ hội mới hoàn hảo hơn thay vì cố gắng cải thiện tình hình ở nơi cũ.",
+        "Tập trung nâng cấp chất lượng công việc vượt ngoài kỳ vọng của sếp và đồng nghiệp bằng sự chỉn chu trong từng chi tiết.",
+        "Chỉ làm những việc lớn lao và bỏ qua các chi tiết nhỏ lẻ hàng ngày để tiết kiệm thời gian cho những dự án quan trọng."
       ],
-      "correctIndex": 1,
-      "explanation": "Ước mơ to lớn không có nghĩa là viển vông, mà là nâng cao tiêu chuẩn thực thi (executing standards) mỗi ngày. Sự khác biệt nằm ở sự chỉn chu trong từng chi tiết."
+      "correctIndex": 2,
+      "explanation": "Ước mơ to lớn không phải viển vông, mà là nâng cao tiêu chuẩn thực thi mỗi ngày. Sự khác biệt nằm ở sự chỉn chu chi tiết."
     },
     {
       "id": "q8",
       "question": "Trong nghệ thuật lãnh đạo, việc một nhà lãnh đạo biết rõ 'điều gì khiến đội ngũ của mình khác biệt' mang lại lợi ích gì?",
       "options": [
-        "Giúp dễ dàng đổ lỗi cho các bộ phận khác khi thất bại",
-        "Tạo ra một văn hóa làm việc độc bản và gắn kết cao",
-        "Giảm bớt áp lực phải đạt KPI hàng quý",
-        "Cho phép lãnh đạo kiểm soát mọi hành vi nhỏ nhất của nhân viên"
+        "Giúp dễ dàng đổ lỗi cho các bộ phận khác khi thất bại xảy ra mà không cần phải chịu trách nhiệm về kết quả cuối cùng.",
+        "Giảm bớt áp lực phải đạt KPI hàng quý bằng cách tập trung vào các giá trị tinh thần thay vì kết quả kinh doanh thực tế.",
+        "Cho phép lãnh đạo kiểm soát mọi hành vi nhỏ nhất của nhân viên để đảm bảo sự đồng nhất tuyệt đối trong mọi quy trình.",
+        "Tạo ra một văn hóa làm việc độc bản, giúp nhân viên cảm thấy tự hào và gắn kết sâu sắc với mục tiêu chung của tổ chức."
       ],
-      "correctIndex": 1,
-      "explanation": "Lãnh đạo truyền cảm hứng là người biết rõ bản sắc của tổ chức, từ đó tạo ra niềm tự hào và sự cam kết sâu sắc từ nhân viên."
+      "correctIndex": 3,
+      "explanation": "Lãnh đạo truyền cảm hứng là người biết rõ bản sắc tổ chức, từ đó tạo ra niềm tự hào và sự cam kết sâu sắc từ nhân viên."
     },
     {
       "id": "q9",
       "question": "Phát biểu nào sau đây thể hiện đúng tư duy của 'người vượt trội' khi đối mặt với sự cạnh tranh?",
       "options": [
-        "Tôi sẽ làm mọi cách để dìm đối thủ xuống để tôi nổi bật lên",
-        "Tôi tập trung vào việc tạo ra giá trị đặc trưng mà đối thủ không thể sao chép",
-        "Tôi sẽ chọn cách làm giống đối thủ vì đó là con đường an toàn nhất",
-        "Tôi không quan tâm đến đối thủ và chỉ làm việc theo sở thích cá nhân"
+        "Tôi tập trung vào việc tạo ra giá trị đặc trưng mà đối thủ không thể sao chép thay vì cố gắng đánh bại họ bằng mọi giá.",
+        "Tôi sẽ làm mọi cách để dìm đối thủ xuống để tôi nổi bật lên trong mắt khách hàng và các nhà quản lý cấp cao hiện nay.",
+        "Tôi sẽ chọn cách làm giống đối thủ vì đó là con đường an toàn nhất để đảm bảo sự ổn định trong sự nghiệp lâu dài.",
+        "Tôi không quan tâm đến đối thủ và chỉ làm việc theo sở thích cá nhân mà không cần chú ý đến nhu cầu của thị trường."
       ],
-      "correctIndex": 1,
-      "explanation": "Người vượt trội không sa lầy vào việc cạnh tranh đối đầu (zero-sum game), mà tập trung vào việc định hình bản sắc riêng (Blue Ocean Strategy)."
+      "correctIndex": 0,
+      "explanation": "Người vượt trội không sa lầy vào cạnh tranh đối đầu, mà tập trung vào việc định hình bản sắc riêng để tạo ra giá trị độc bản."
     },
     {
       "id": "q10",
       "question": "Theo tinh thần chương sách, tại sao 'sáng tạo' không chỉ dành cho nghệ sĩ mà là yêu cầu với mọi ngành nghề?",
       "options": [
-        "Vì sáng tạo giúp công việc trở nên bớt nhàm chán hơn",
-        "Vì sáng tạo là cách duy nhất để tạo ra những giá trị khác biệt trong bối cảnh bão hòa",
-        "Vì lãnh đạo luôn yêu cầu nhân viên phải sáng tạo mỗi ngày",
-        "Vì chỉ có sáng tạo mới giúp con người có thu nhập cao"
+        "Vì sáng tạo giúp công việc trở nên bớt nhàm chán hơn và tạo ra môi trường làm việc vui vẻ cho tất cả các nhân viên.",
+        "Vì sáng tạo là cách duy nhất để tạo ra những giá trị khác biệt trong bối cảnh thị trường đang trở nên bão hòa hiện nay.",
+        "Vì lãnh đạo luôn yêu cầu nhân viên phải sáng tạo mỗi ngày để đảm bảo công ty luôn dẫn đầu trong các bảng xếp hạng.",
+        "Vì chỉ có sáng tạo mới giúp con người có thu nhập cao và đạt được sự thăng tiến nhanh chóng trong lộ trình sự nghiệp."
       ],
       "correctIndex": 1,
-      "explanation": "Trong thị trường bão hòa, sự sao chép là con đường chết. Sáng tạo là năng lực tư duy giúp bạn luôn tìm ra cách mới để phục vụ khách hàng/công việc tốt hơn."
+      "explanation": "Trong thị trường bão hòa, sao chép là con đường chết. Sáng tạo là năng lực tư duy giúp tìm ra cách mới phục vụ công việc tốt hơn."
     },
     {
       "id": "q11",
       "question": "Tác giả khuyên bạn nên 'dũng cảm trong ngành nghề của mình'. Điều này hàm ý điều gì?",
       "options": [
-        "Hãy dám đặt câu hỏi về những cách làm cũ kỹ và tiên phong thử nghiệm cái mới",
-        "Hãy thách thức mọi quy định của công ty để khẳng định cá tính",
-        "Hãy sẵn sàng từ chức nếu không được lắng nghe",
-        "Hãy thay đổi ngành nghề liên tục để tìm thấy cái khác biệt"
+        "Hãy thách thức mọi quy định của công ty để khẳng định cá tính riêng biệt của mình trước mặt đồng nghiệp và cấp trên.",
+        "Hãy sẵn sàng từ chức nếu không được lắng nghe ý kiến để tìm kiếm một môi trường làm việc tôn trọng sự khác biệt hơn.",
+        "Hãy dám đặt câu hỏi về những cách làm cũ kỹ và tiên phong thử nghiệm cái mới để tạo ra giá trị đột phá cho công việc.",
+        "Hãy thay đổi ngành nghề liên tục để tìm thấy cái khác biệt mà mình thực sự đam mê trong suốt quãng đời làm việc dài."
       ],
-      "correctIndex": 0,
-      "explanation": "Can đảm ở đây là sự dấn thân mang tính xây dựng, vượt qua tư duy lối mòn (status quo) để cải tiến quy trình hoặc tạo ra giá trị mới."
+      "correctIndex": 2,
+      "explanation": "Can đảm ở đây là sự dấn thân mang tính xây dựng, vượt qua tư duy lối mòn để cải tiến quy trình hoặc tạo ra giá trị mới."
     },
     {
       "id": "q12",
       "question": "Sự đánh đổi nào là cần thiết để duy trì sự 'khác biệt' dài hạn?",
       "options": [
-        "Đánh đổi sự thoải mái hiện tại để kiên trì rèn luyện và sáng tạo",
-        "Đánh đổi các mối quan hệ cá nhân để tập trung cho sự nghiệp",
-        "Đánh đổi đạo đức kinh doanh để có lợi thế về giá",
-        "Đánh đổi sự chân thành để lấy lòng khách hàng"
+        "Đánh đổi các mối quan hệ cá nhân để tập trung toàn bộ thời gian cho sự nghiệp và đạt được những thành tựu rực rỡ.",
+        "Đánh đổi đạo đức kinh doanh để có lợi thế về giá và chiếm lĩnh thị phần nhanh chóng trong giai đoạn đầu phát triển.",
+        "Đánh đổi sự chân thành để lấy lòng khách hàng và đối tác nhằm đạt được các hợp đồng lớn trong thời gian ngắn nhất.",
+        "Đánh đổi sự thoải mái hiện tại để kiên trì rèn luyện và sáng tạo không ngừng nghỉ nhằm đạt được tầm vóc lớn hơn."
       ],
-      "correctIndex": 0,
-      "explanation": "Sự khác biệt thực thụ không đến từ sự tiện nghi. Nó đòi hỏi kỷ luật, sự kiên trì và sẵn sàng chịu đựng những khó khăn trong ngắn hạn để đạt được tầm vóc lớn hơn."
+      "correctIndex": 3,
+      "explanation": "Khác biệt thực thụ không đến từ sự tiện nghi. Nó đòi hỏi kỷ luật, kiên trì và sẵn sàng chịu đựng khó khăn để đạt tầm vóc lớn."
     },
     {
       "id": "q13",
       "question": "Tại sao việc không biết rõ 'điều gì khiến công việc trở nên đặc biệt' lại là một rủi ro lớn?",
       "options": [
-        "Vì công ty sẽ giảm lương của bạn",
-        "Vì bạn sẽ rơi vào vòng lặp làm việc không mục đích và khó nhận được sự ghi nhận xứng đáng",
-        "Vì mọi người sẽ không biết bạn là ai trên mạng xã hội",
-        "Vì bạn sẽ không được nghỉ phép nhiều như người khác"
+        "Vì bạn sẽ rơi vào vòng lặp làm việc không mục đích và khó nhận được sự ghi nhận xứng đáng từ tổ chức và xã hội.",
+        "Vì công ty sẽ giảm lương của bạn ngay lập tức nếu bạn không thể chứng minh được giá trị khác biệt của bản thân mình.",
+        "Vì mọi người sẽ không biết bạn là ai trên mạng xã hội và bạn sẽ mất đi cơ hội xây dựng thương hiệu cá nhân mạnh.",
+        "Vì bạn sẽ không được nghỉ phép nhiều như người khác nếu không thể hiện được sự đóng góp vượt trội cho công ty mình."
       ],
-      "correctIndex": 1,
-      "explanation": "Nếu không xác định được USP, bạn không có sự định hướng. Khi không có định hướng, giá trị đóng góp của bạn bị hòa tan và bạn trở nên 'vô hình' trong mắt tổ chức."
+      "correctIndex": 0,
+      "explanation": "Nếu không xác định được USP, bạn không có định hướng. Khi không có định hướng, giá trị đóng góp bị hòa tan và bạn trở nên vô hình."
     },
     {
       "id": "q14",
       "question": "Để tìm ra sự khác biệt, bạn nên bắt đầu bằng việc đặt câu hỏi nào cho bản thân?",
       "options": [
-        "Điều gì mà mình làm tốt hơn 90% đồng nghiệp xung quanh?",
-        "Tôi có thể sao chép ai để thành công nhanh nhất?",
-        "Tại sao tôi phải làm việc này một cách khác biệt?",
-        "Làm thế nào để tôi có thể làm ít việc nhất nhưng vẫn nhận được lương cao?"
+        "Tôi có thể sao chép ai để thành công nhanh nhất mà không cần phải tốn quá nhiều công sức để tự mình xây dựng quy trình.",
+        "Điều gì mà mình làm tốt hơn 90% đồng nghiệp xung quanh và mang lại giá trị thực tế cho tổ chức của mình hiện nay?",
+        "Tại sao tôi phải làm việc này một cách khác biệt trong khi làm theo cách cũ vẫn đảm bảo được kết quả công việc ổn định?",
+        "Làm thế nào để tôi có thể làm ít việc nhất nhưng vẫn nhận được lương cao và sự ưu ái từ cấp trên trong công ty mình?"
       ],
-      "correctIndex": 0,
-      "explanation": "Đây là bước đầu tiên của tự nhận thức: đánh giá lợi thế so sánh. Câu hỏi này giúp bạn định vị tiềm năng thực sự của mình so với mặt bằng chung."
+      "correctIndex": 1,
+      "explanation": "Đây là bước đầu tiên của tự nhận thức: đánh giá lợi thế so sánh. Câu hỏi này giúp định vị tiềm năng thực sự so với mặt bằng chung."
     },
     {
       "id": "q15",
       "question": "Thông điệp cốt lõi của tác giả qua ví dụ về Tesla là gì?",
       "options": [
-        "Xe điện sẽ thay thế hoàn toàn xe xăng dầu",
-        "Sự khác biệt hiệu năng (tăng tốc, quãng đường) là cách định nghĩa lại tiêu chuẩn của toàn ngành",
-        "Giá cả là yếu tố khiến Tesla thắng thế",
-        "Việc quảng cáo tốt là chìa khóa khiến Tesla nổi tiếng"
+        "Xe điện sẽ thay thế hoàn toàn xe xăng dầu trong tương lai gần nhờ vào sự hỗ trợ của chính phủ và các tổ chức lớn.",
+        "Giá cả là yếu tố khiến Tesla thắng thế trước các đối thủ cạnh tranh lâu đời trong ngành công nghiệp ô tô toàn cầu.",
+        "Sự khác biệt về hiệu năng vượt trội là cách định nghĩa lại tiêu chuẩn của toàn ngành và tạo ra giá trị cho khách hàng.",
+        "Việc quảng cáo tốt là chìa khóa khiến Tesla nổi tiếng và được nhiều người biết đến như một biểu tượng của sự sang trọng."
       ],
-      "correctIndex": 1,
-      "explanation": "Tesla không chỉ làm ra một chiếc xe; họ làm ra một sản phẩm vượt trội về thông số kỹ thuật (0-100km/h trong 4s), từ đó định nghĩa lại cuộc chơi của ngành ô tô."
+      "correctIndex": 2,
+      "explanation": "Tesla không chỉ làm xe; họ làm ra sản phẩm vượt trội về thông số kỹ thuật, từ đó định nghĩa lại cuộc chơi của ngành ô tô."
     }
   ]
 }
