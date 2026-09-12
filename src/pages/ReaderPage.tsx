@@ -15,7 +15,7 @@ import { useHistory } from '../context/HistoryContext';
 import { useAudio } from '../context/AudioContext';
 import { useReaderSettings } from '../context/ReaderSettingsContext';
 import { useTextToSpeech } from '../hooks/useTextToSpeech';
-import { Loader2, AlertCircle, Home, Check } from 'lucide-react';
+import { Loader2, AlertCircle, Home, Check, Bookmark, X } from 'lucide-react';
 import { trackReadChapter } from '../utils/analytics';
 import {
   findMatchesInElement,
@@ -24,13 +24,19 @@ import {
   scrollToMatch,
   SearchMatch,
 } from '../utils/chapterSearch';
+import {
+  saveChapterPosition,
+  getChapterPosition,
+  findCurrentReadingBlock,
+  scrollToReadingPosition,
+} from '../utils/readingPosition';
 
 const books: Book[] = booksData as Book[];
 
 export const ReaderPage: React.FC = () => {
   const { bookId, chapterId } = useParams<{ bookId: string; chapterId: string }>();
   const navigate = useNavigate();
-  const { saveProgress } = useHistory();
+  const { saveProgress, getProgressForBook } = useHistory();
   const { pause: pauseAudio, isPlaying: isAudioPlaying } = useAudio();
   const { settings } = useReaderSettings();
 
@@ -73,11 +79,59 @@ export const ReaderPage: React.FC = () => {
     }, 2800);
   }, []);
 
+  // Reading resume notification state
+  const [resumeNotice, setResumeNotice] = useState<{ visible: boolean; message: string }>({
+    visible: false,
+    message: '',
+  });
+  const resumeNoticeTimerRef = useRef<any>(null);
+
+  // Bookmark active state
+  const [isBookmarked, setIsBookmarked] = useState<boolean>(false);
+  const bookmarkTimeoutRef = useRef<any>(null);
+
   const cleanChapterId = chapterId ? chapterId.replace(/\.md$/i, '') : '';
   const book = books.find((b) => b.id === bookId);
   const currentChapter = book?.chapters.find(
     (c) => c.id === cleanChapterId || c.id === chapterId || c.fileName === chapterId
   );
+
+  // Manual bookmark handler triggered from Toolbar
+  const handleManualBookmark = useCallback(() => {
+    if (!book || !currentChapter) return;
+    const pos = findCurrentReadingBlock();
+    saveChapterPosition(book.id, currentChapter.id, pos);
+    saveProgress({
+      bookId: book.id,
+      bookTitle: book.title,
+      lastChapterId: currentChapter.id,
+      lastChapterTitle: currentChapter.title,
+      lastChapterOrder: currentChapter.order,
+      progressPercent: Math.round((currentChapter.order / book.chapters.length) * 100),
+      scrollRatio: pos.scrollRatio,
+      lastParagraphIndex: pos.paragraphIndex,
+      completedChapterIds: [currentChapter.id],
+    });
+
+    // Highlight the bookmarked element briefly
+    if (pos.paragraphIndex >= 0) {
+      const el = document.querySelector<HTMLElement>(`[data-tts-block="${pos.paragraphIndex}"]`);
+      if (el) {
+        el.classList.add('ring-2', 'ring-amber-500/70', 'bg-amber-500/10', 'rounded-xl', 'transition-all', 'duration-500');
+        setTimeout(() => {
+          el.classList.remove('ring-2', 'ring-amber-500/70', 'bg-amber-500/10');
+        }, 2500);
+      }
+    }
+
+    setIsBookmarked(true);
+    if (bookmarkTimeoutRef.current) clearTimeout(bookmarkTimeoutRef.current);
+    bookmarkTimeoutRef.current = setTimeout(() => setIsBookmarked(false), 2500);
+
+    const pct = Math.round(pos.scrollRatio * 100);
+    const detail = pos.paragraphIndex > 0 ? `Đoạn ${pos.paragraphIndex + 1} (${pct}%)` : `${pct}%`;
+    showToast(`Đã lưu dấu trang tại ${detail}!`);
+  }, [book, currentChapter, saveProgress, showToast]);
 
   // Normalize URL if chapterId has .md extension
   useEffect(() => {
@@ -135,6 +189,13 @@ export const ReaderPage: React.FC = () => {
         setContent(text.normalize('NFC'));
         setLoading(false);
 
+        // Preserve previous reading position if one exists for this chapter
+        const savedPos = getChapterPosition(book.id, currentChapter.id);
+        const bookProgress = getProgressForBook(book.id);
+        const isSameChapter = bookProgress?.lastChapterId === currentChapter.id;
+        const prevRatio = savedPos?.scrollRatio ?? (isSameChapter ? bookProgress.scrollRatio : 0);
+        const prevBlockIdx = savedPos?.paragraphIndex ?? (isSameChapter ? bookProgress.lastParagraphIndex : 0);
+
         // Save to reading history
         saveProgress({
           bookId: book.id,
@@ -143,7 +204,8 @@ export const ReaderPage: React.FC = () => {
           lastChapterTitle: currentChapter.title,
           lastChapterOrder: currentChapter.order,
           progressPercent: Math.round((currentChapter.order / book.chapters.length) * 100),
-          scrollRatio: 0,
+          scrollRatio: prevRatio,
+          lastParagraphIndex: prevBlockIdx,
           completedChapterIds: [currentChapter.id],
         });
       })
@@ -154,25 +216,87 @@ export const ReaderPage: React.FC = () => {
       });
   }, [bookId, currentChapter?.id]);
 
-  // Refresh TTS paragraphs & handle anchor hash once content is rendered
+  // Refresh TTS paragraphs, resume reading position & handle anchor hash once content is rendered
   useEffect(() => {
-    if (!loading && content) {
-      // Small timeout to allow ReactMarkdown DOM rendering to finalize
+    if (!loading && content && book && currentChapter) {
+      // Timeout to allow ReactMarkdown DOM rendering and layout to finalize
       const timer = setTimeout(() => {
         tts.collectParagraphsFromDOM();
 
-        // If URL has a hash anchor, scroll smoothly to target element
+        // 1. If URL has a hash anchor (#heading), respect and scroll to it
         if (window.location.hash) {
           const targetId = window.location.hash.slice(1);
           const el = document.getElementById(targetId);
           if (el) {
             el.scrollIntoView({ behavior: 'smooth' });
+            return;
           }
         }
-      }, 200);
+
+        // 2. Otherwise restore reading position if previously saved
+        const savedPos = getChapterPosition(book.id, currentChapter.id);
+        const bookProgress = getProgressForBook(book.id);
+        const isSameChapter = bookProgress?.lastChapterId === currentChapter.id;
+        const posToResume = savedPos || (isSameChapter && ((bookProgress.lastParagraphIndex ?? 0) > 0 || bookProgress.scrollRatio > 0.02) ? {
+          scrollRatio: bookProgress.scrollRatio,
+          paragraphIndex: bookProgress.lastParagraphIndex ?? 0,
+        } : null);
+
+        if (posToResume && (posToResume.paragraphIndex > 0 || posToResume.scrollRatio > 0.02)) {
+          const resumed = scrollToReadingPosition(posToResume, true);
+          if (resumed) {
+            const pct = Math.round(posToResume.scrollRatio * 100);
+            const paragraphText = posToResume.paragraphIndex > 0 ? `Đoạn ${posToResume.paragraphIndex + 1}` : '';
+            const detailText = [paragraphText, pct > 0 ? `${pct}%` : ''].filter(Boolean).join(' • ');
+
+            if (resumeNoticeTimerRef.current) clearTimeout(resumeNoticeTimerRef.current);
+            setResumeNotice({
+              visible: true,
+              message: detailText ? `Đã tiếp tục vị trí bạn đọc dở (${detailText})` : 'Đã tiếp tục vị trí bạn đọc dở',
+            });
+            resumeNoticeTimerRef.current = setTimeout(() => {
+              setResumeNotice({ visible: false, message: '' });
+            }, 6000);
+          }
+        }
+      }, 280);
       return () => clearTimeout(timer);
     }
-  }, [loading, content]);
+  }, [loading, content, book?.id, currentChapter?.id]);
+
+  // Auto-save reading position on scroll (throttled & debounced)
+  useEffect(() => {
+    if (loading || !book || !currentChapter) return;
+
+    let timeoutId: any = null;
+
+    const handleScroll = () => {
+      clearTimeout(timeoutId);
+      timeoutId = setTimeout(() => {
+        const pos = findCurrentReadingBlock();
+        if (pos.scrollRatio <= 0.01 && pos.paragraphIndex <= 0) return;
+
+        saveChapterPosition(book.id, currentChapter.id, pos);
+        saveProgress({
+          bookId: book.id,
+          bookTitle: book.title,
+          lastChapterId: currentChapter.id,
+          lastChapterTitle: currentChapter.title,
+          lastChapterOrder: currentChapter.order,
+          progressPercent: Math.round((currentChapter.order / book.chapters.length) * 100),
+          scrollRatio: pos.scrollRatio,
+          lastParagraphIndex: pos.paragraphIndex,
+          completedChapterIds: [currentChapter.id],
+        });
+      }, 500);
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => {
+      clearTimeout(timeoutId);
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, [loading, book?.id, currentChapter?.id, saveProgress]);
 
   // Reset search when switching chapters
   useEffect(() => {
@@ -343,6 +467,8 @@ export const ReaderPage: React.FC = () => {
         isSearchOpen={isSearchOpen}
         onToggleSearch={handleToggleSearch}
         onCopied={showToast}
+        onBookmark={handleManualBookmark}
+        isBookmarked={isBookmarked}
       />
 
       {/* In-page Chapter Search Bar */}
@@ -470,6 +596,33 @@ export const ReaderPage: React.FC = () => {
         bookTitle={book.title}
         chapterTitle={currentChapter.title}
       />
+
+      {/* Reading Resume Floating Alert */}
+      {resumeNotice.visible && !toastMessage && (
+        <div
+          data-no-search="true"
+          className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 flex items-center gap-3 rounded-2xl bg-slate-900/95 text-white dark:bg-emerald-950/95 dark:text-emerald-100 px-4 py-3 shadow-2xl backdrop-blur-md border border-slate-700/80 dark:border-emerald-700/80 text-xs sm:text-sm font-medium animate-in fade-in slide-in-from-bottom-3 duration-300 max-w-[90vw] sm:max-w-md"
+        >
+          <Bookmark className="h-4 w-4 text-emerald-400 dark:text-emerald-300 shrink-0 fill-emerald-400/20" />
+          <span className="truncate">{resumeNotice.message}</span>
+          <button
+            onClick={() => {
+              window.scrollTo({ top: 0, behavior: 'smooth' });
+              setResumeNotice({ visible: false, message: '' });
+            }}
+            className="ml-auto shrink-0 rounded-lg bg-emerald-600/30 hover:bg-emerald-600/50 text-emerald-300 dark:text-emerald-200 border border-emerald-500/30 px-2.5 py-1 text-xs font-semibold transition-colors"
+          >
+            Về đầu trang
+          </button>
+          <button
+            onClick={() => setResumeNotice({ visible: false, message: '' })}
+            className="shrink-0 p-1 rounded-lg text-slate-400 hover:text-white hover:bg-white/10 transition-colors"
+            title="Đóng"
+          >
+            <X className="h-3.5 w-3.5" />
+          </button>
+        </div>
+      )}
 
       {/* Floating Toast Notification */}
       {toastMessage && (

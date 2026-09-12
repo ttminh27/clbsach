@@ -83,6 +83,7 @@ export interface ReadingProgress {
   lastChapterOrder: number;
   progressPercent: number; // 0 to 100
   scrollRatio: number; // 0 to 1
+  lastParagraphIndex?: number; // 0-based data-tts-block index
   lastReadAt: number; // timestamp
   completedChapterIds: string[];
 }

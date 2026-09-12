@@ -19,6 +19,7 @@ import {
   Volume2,
   MessageSquare,
   Search,
+  Bookmark,
   Copy,
   FileText,
   Code2,
@@ -45,6 +46,8 @@ interface ReaderToolbarProps {
   isSearchOpen?: boolean;
   onToggleSearch?: () => void;
   onCopied?: (message: string) => void;
+  onBookmark?: () => void;
+  isBookmarked?: boolean;
 }
 
 export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
@@ -60,6 +63,8 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
   isSearchOpen = false,
   onToggleSearch,
   onCopied,
+  onBookmark,
+  isBookmarked = false,
 }) => {
   const { settings, setTheme, setFontSize, setLineHeight, setFontFamily, setTextAlign, setMaxWidth, toggleBionicReading } =
     useReaderSettings();
@@ -230,6 +235,28 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
             >
               <Search className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
               <span className="hidden xl:inline">Tìm kiếm</span>
+            </button>
+          )}
+
+          {/* Bookmark reading position button */}
+          {onBookmark && (
+            <button
+              onClick={onBookmark}
+              className={`flex items-center gap-1 sm:gap-1.5 rounded-lg p-2 sm:px-2.5 sm:py-1.5 text-xs font-medium transition-all shrink-0 ${
+                isBookmarked
+                  ? 'bg-amber-100 text-amber-900 dark:bg-amber-950 dark:text-amber-300 ring-1 ring-amber-500/50 shadow-xs'
+                  : 'text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
+              }`}
+              title="Đánh dấu vị trí đang đọc"
+            >
+              <Bookmark
+                className={`h-4 w-4 transition-transform ${
+                  isBookmarked
+                    ? 'text-amber-600 dark:text-amber-400 fill-amber-500 scale-110'
+                    : 'text-emerald-600 dark:text-emerald-400'
+                }`}
+              />
+              <span className="hidden xl:inline">Đánh dấu</span>
             </button>
           )}
 
