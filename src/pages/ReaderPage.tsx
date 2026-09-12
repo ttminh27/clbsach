@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { ReaderToolbar } from '../components/reader/ReaderToolbar';
 import { MarkdownViewer } from '../components/reader/MarkdownViewer';
@@ -54,7 +54,6 @@ export const ReaderPage: React.FC = () => {
   const [isTOCDrawerOpen, setIsTOCDrawerOpen] = useState<boolean>(false);
   const [isQuizOpen, setIsQuizOpen] = useState<boolean>(false);
   const [isDiscussionDrawerOpen, setIsDiscussionDrawerOpen] = useState<boolean>(false);
-  const [scrollProgress, setScrollProgress] = useState<number>(0);
 
   // Chapter In-page Search States
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
@@ -66,13 +65,13 @@ export const ReaderPage: React.FC = () => {
   const [toastMessage, setToastMessage] = useState<string | null>(null);
   const toastTimeoutRef = useRef<any>(null);
 
-  const showToast = (msg: string) => {
+  const showToast = useCallback((msg: string) => {
     if (toastTimeoutRef.current) clearTimeout(toastTimeoutRef.current);
     setToastMessage(msg);
     toastTimeoutRef.current = setTimeout(() => {
       setToastMessage(null);
     }, 2800);
-  };
+  }, []);
 
   const cleanChapterId = chapterId ? chapterId.replace(/\.md$/i, '') : '';
   const book = books.find((b) => b.id === bookId);
@@ -174,20 +173,6 @@ export const ReaderPage: React.FC = () => {
       return () => clearTimeout(timer);
     }
   }, [loading, content]);
-
-  // Track scroll progress
-  useEffect(() => {
-    const handleScroll = () => {
-      const totalHeight = document.documentElement.scrollHeight - window.innerHeight;
-      if (totalHeight > 0) {
-        const currentProgress = (window.scrollY / totalHeight) * 100;
-        setScrollProgress(Math.min(100, Math.max(0, currentProgress)));
-      }
-    };
-
-    window.addEventListener('scroll', handleScroll, { passive: true });
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
 
   // Reset search when switching chapters
   useEffect(() => {
@@ -294,7 +279,7 @@ export const ReaderPage: React.FC = () => {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [isSearchOpen]);
 
-  const handleToggleTTS = () => {
+  const handleToggleTTS = useCallback(() => {
     if (tts.isPlaying) {
       tts.pause();
     } else if (tts.isPaused) {
@@ -305,15 +290,15 @@ export const ReaderPage: React.FC = () => {
       tts.setIsPlayerVisible(true);
       tts.play(0);
     }
-  };
+  }, [tts]);
 
-  const handleReadFromIndex = (index: number) => {
+  const handleReadFromIndex = useCallback((index: number) => {
     if (isAudioPlaying) {
       pauseAudio();
     }
     tts.setIsPlayerVisible(true);
     tts.jumpTo(index);
-  };
+  }, [isAudioPlaying, pauseAudio, tts]);
 
   if (!book || !currentChapter) {
     return (
@@ -350,7 +335,6 @@ export const ReaderPage: React.FC = () => {
         book={book}
         currentChapter={currentChapter}
         onOpenTOC={() => setIsTOCDrawerOpen(true)}
-        scrollProgress={scrollProgress}
         isTTSActive={tts.isPlayerVisible}
         isTTSSpeaking={tts.isPlaying}
         onToggleTTS={handleToggleTTS}

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import {
   Home,
@@ -36,7 +36,7 @@ interface ReaderToolbarProps {
   book: Book;
   currentChapter: Chapter;
   onOpenTOC: () => void;
-  scrollProgress: number; // 0 to 100
+  scrollProgress?: number; // 0 to 100 (optional, handled internally for 120fps performance)
   isTTSActive?: boolean;
   isTTSSpeaking?: boolean;
   onToggleTTS?: () => void;
@@ -51,7 +51,7 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
   book,
   currentChapter,
   onOpenTOC,
-  scrollProgress,
+  scrollProgress: propScrollProgress,
   isTTSActive = false,
   isTTSSpeaking = false,
   onToggleTTS,
@@ -67,6 +67,44 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
   const [showSettingsPopover, setShowSettingsPopover] = useState(false);
   const [selectedText, setSelectedText] = useState('');
   const [justCopiedType, setJustCopiedType] = useState<string | null>(null);
+
+  const progressBarRef = useRef<HTMLDivElement>(null);
+  const [displayProgress, setDisplayProgress] = useState<number>(() => Math.round(propScrollProgress ?? 0));
+
+  // High-performance direct GPU scroll progress tracker (avoids re-rendering parent ReaderPage on scroll)
+  useEffect(() => {
+    let ticking = false;
+
+    const updateProgress = () => {
+      const totalHeight = document.documentElement.scrollHeight - window.innerHeight;
+      if (totalHeight > 0) {
+        const ratio = Math.min(1, Math.max(0, window.scrollY / totalHeight));
+        if (progressBarRef.current) {
+          progressBarRef.current.style.transform = `scaleX(${ratio})`;
+        }
+        const pct = Math.round(ratio * 100);
+        setDisplayProgress((prev) => (prev !== pct ? pct : prev));
+      } else {
+        if (progressBarRef.current) {
+          progressBarRef.current.style.transform = 'scaleX(0)';
+        }
+        setDisplayProgress(0);
+      }
+      ticking = false;
+    };
+
+    const handleScroll = () => {
+      if (!ticking) {
+        window.requestAnimationFrame(updateProgress);
+        ticking = true;
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    updateProgress();
+
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, [currentChapter.id]);
 
   const handleToggleSettings = () => {
     const sel = window.getSelection();
@@ -128,12 +166,13 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
 
   return (
     <div className="sticky top-0 z-30 w-full backdrop-blur-md transition-colors border-b border-slate-200/80 bg-white/90 dark:border-slate-800 dark:bg-slate-950/90">
-      {/* Top Reading Progress Bar */}
-      <div className="h-1 w-full bg-transparent">
+      {/* Top Reading Progress Bar (GPU-accelerated scaleX, 120fps smooth without layout thrashing) */}
+      <div className="h-1 w-full bg-slate-100/50 dark:bg-slate-900/50 overflow-hidden">
         <div
-          className="h-full bg-gradient-to-r from-emerald-500 via-teal-400 to-cyan-500 transition-all duration-150"
-          style={{ width: `${scrollProgress}%` }}
-        ></div>
+          ref={progressBarRef}
+          className="h-full w-full bg-gradient-to-r from-emerald-500 via-teal-400 to-cyan-500 origin-left will-change-transform"
+          style={{ transform: `scaleX(${propScrollProgress ? Math.min(1, propScrollProgress / 100) : 0})` }}
+        />
       </div>
 
       <div className="mx-auto flex h-14 max-w-7xl items-center justify-between gap-2 sm:gap-4 px-3 sm:px-6 w-full">
@@ -168,7 +207,7 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
             </span>
             <span className="text-slate-300 dark:text-slate-600 shrink-0">•</span>
             <span className="inline-flex items-center gap-1 px-1.5 py-0.2 rounded-full text-[10px] font-semibold bg-emerald-50 dark:bg-emerald-950/60 text-emerald-600 dark:text-emerald-400 shrink-0">
-              Tiến độ {Math.round(scrollProgress)}%
+              Tiến độ {displayProgress}%
             </span>
           </div>
           <p className="text-xs font-bold text-slate-800 dark:text-slate-200 truncate w-full">

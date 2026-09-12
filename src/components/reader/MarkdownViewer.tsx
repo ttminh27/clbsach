@@ -1,6 +1,6 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
-import ReactMarkdown from 'react-markdown';
+import ReactMarkdown, { Components } from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import { X, ZoomIn, Volume2, Copy, Check, Quote } from 'lucide-react';
@@ -43,7 +43,7 @@ const CodeBlockWithCopy: React.FC<{ children: React.ReactNode; onCopied?: (msg: 
       <button
         onClick={handleCopy}
         data-no-search="true"
-        className="absolute right-3 top-3 z-10 flex items-center gap-1 rounded-lg bg-slate-800/90 hover:bg-slate-700 text-slate-300 hover:text-white px-2 py-1 text-[11px] font-medium border border-slate-700 backdrop-blur-md opacity-0 group-hover:opacity-100 transition-opacity"
+        className="absolute right-3 top-3 z-10 flex items-center gap-1 rounded-lg bg-slate-800/95 hover:bg-slate-700 text-slate-300 hover:text-white px-2 py-1 text-[11px] font-medium border border-slate-700 shadow-md opacity-0 group-hover:opacity-100 transition-opacity"
         title="Sao chép đoạn mã này"
       >
         {copied ? (
@@ -76,7 +76,7 @@ interface MarkdownViewerProps {
   onCopied?: (message: string) => void;
 }
 
-export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
+const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
   content,
   bookId,
   bookTitle = '',
@@ -156,7 +156,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
   };
 
   // Counter to sequentially index readable blocks during markdown rendering
-  let blockCounter = 0;
+  const blockIndexRef = useRef(0);
 
   // Determine font family style
   const getFontFamilyClass = () => {
@@ -185,33 +185,12 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
     }
   };
 
-  return (
-    <div className={`relative mx-auto ${getMaxWidthClass()} px-4 sm:px-8 py-6 sm:py-8 transition-all duration-200 w-full max-w-full overflow-hidden`}>
-      {/* Repeating Watermark "Healthier" - Subtle opacity to prevent eye strain */}
-      <div
-        aria-hidden="true"
-        className="pointer-events-none select-none absolute inset-0 z-0 overflow-hidden opacity-[0.018] dark:opacity-[0.025] sepia:opacity-[0.02]"
-        style={{
-          backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='360' height='240' viewBox='0 0 360 240'%3E%3Ctext x='50%25' y='50%25' text-anchor='middle' dominant-baseline='middle' font-family='sans-serif' font-weight='700' font-size='24' letter-spacing='3' fill='%23059669' transform='rotate(-25 180 120)'%3EHealthier%3C/text%3E%3C/svg%3E")`,
-          backgroundRepeat: 'repeat',
-        }}
-      />
-      <article
-        ref={articleRef}
-        id="chapter-content-article"
-        className={`relative z-10 ${getFontFamilyClass()} prose-reader transition-all break-words w-full max-w-full`}
-        style={{
-          fontSize: `${settings.fontSize}px`,
-          lineHeight: settings.lineHeight,
-          textAlign: settings.textAlign,
-        }}
-      >
-        <ReactMarkdown
-          remarkPlugins={[remarkGfm]}
-          components={{
+  // Memoize custom components so React does not unmount/remount elements (images, paragraphs) on re-render
+  const components = useMemo<Components>(() => {
+    return {
             // Custom H1 heading
             h1: ({ node, ...props }) => {
-              const idx = blockCounter++;
+              const idx = blockIndexRef.current++;
               const isActive = isTTSSpeaking && currentTTSIndex === idx;
               const headingId = props.id || getSlug(props.children);
               return (
@@ -241,7 +220,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
             },
             // Custom H2 heading
             h2: ({ node, ...props }) => {
-              const idx = blockCounter++;
+              const idx = blockIndexRef.current++;
               const isActive = isTTSSpeaking && currentTTSIndex === idx;
               const headingId = props.id || getSlug(props.children);
               return (
@@ -271,7 +250,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
             },
             // Custom H3 heading
             h3: ({ node, ...props }) => {
-              const idx = blockCounter++;
+              const idx = blockIndexRef.current++;
               const isActive = isTTSSpeaking && currentTTSIndex === idx;
               const headingId = props.id || getSlug(props.children);
               return (
@@ -305,7 +284,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
               if (hasImage) {
                 return <div className="my-6">{children}</div>;
               }
-              const idx = blockCounter++;
+              const idx = blockIndexRef.current++;
               const isActive = isTTSSpeaking && currentTTSIndex === idx;
               return (
                 <div className="group relative">
@@ -334,7 +313,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
             },
             // Custom Blockquote
             blockquote: ({ node, ...props }) => {
-              const idx = blockCounter++;
+              const idx = blockIndexRef.current++;
               const isActive = isTTSSpeaking && currentTTSIndex === idx;
               return (
                 <blockquote
@@ -354,7 +333,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
               <ol className="my-4 ml-6 list-decimal space-y-2 text-slate-800 dark:text-slate-200" {...props} />
             ),
             li: ({ node, ...props }) => {
-              const idx = blockCounter++;
+              const idx = blockIndexRef.current++;
               const isActive = isTTSSpeaking && currentTTSIndex === idx;
               return (
                 <li
@@ -379,17 +358,17 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
                 <figure className="my-8 flex flex-col items-center">
                   <div
                     onClick={() => setZoomImage({ src: resolvedSrc, alt: alt || 'Minh họa' })}
-                    className="group relative cursor-zoom-in overflow-hidden rounded-2xl bg-slate-100 dark:bg-slate-800 shadow-md border border-slate-200/80 dark:border-slate-800 transition-transform hover:scale-[1.01]"
+                    className="group relative cursor-zoom-in overflow-hidden rounded-2xl bg-slate-100 dark:bg-slate-800 shadow-md border border-slate-200/80 dark:border-slate-800 hover:border-emerald-500/50 hover:shadow-lg transition-all duration-200 min-h-[140px] flex items-center justify-center"
                   >
                     <img
                       src={resolvedSrc}
                       alt={alt || ''}
                       className="max-h-[500px] w-auto object-contain"
-                      loading="lazy"
+                      decoding="async"
                       {...props}
                     />
-                    <div className="absolute inset-0 flex items-center justify-center bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity">
-                      <span className="flex items-center gap-1.5 rounded-full bg-slate-900/80 px-3 py-1 text-xs font-medium text-white backdrop-blur-md">
+                    <div className="pointer-events-none absolute inset-0 flex items-center justify-center bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
+                      <span className="flex items-center gap-1.5 rounded-full bg-slate-900/90 px-3.5 py-1.5 text-xs font-medium text-white shadow-lg">
                         <ZoomIn className="h-3.5 w-3.5" />
                         Phóng to
                       </span>
@@ -519,7 +498,35 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
                 </a>
               );
             },
-          }}
+    };
+  }, [bookId, currentTTSIndex, isTTSSpeaking, onReadFromIndex, onCopied, navigate]);
+
+  return (
+    <div className={`relative mx-auto ${getMaxWidthClass()} px-4 sm:px-8 py-6 sm:py-8 transition-all duration-200 w-full max-w-full overflow-hidden`}>
+      {/* Repeating Watermark "Healthier" - Subtle opacity to prevent eye strain */}
+      <div
+        aria-hidden="true"
+        className="pointer-events-none select-none absolute inset-0 z-0 overflow-hidden opacity-[0.018] dark:opacity-[0.025] sepia:opacity-[0.02]"
+        style={{
+          backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='360' height='240' viewBox='0 0 360 240'%3E%3Ctext x='50%25' y='50%25' text-anchor='middle' dominant-baseline='middle' font-family='sans-serif' font-weight='700' font-size='24' letter-spacing='3' fill='%23059669' transform='rotate(-25 180 120)'%3EHealthier%3C/text%3E%3C/svg%3E")`,
+          backgroundRepeat: 'repeat',
+        }}
+      />
+      <article
+        ref={articleRef}
+        id="chapter-content-article"
+        className={`relative z-10 ${getFontFamilyClass()} prose-reader transition-all break-words w-full max-w-full`}
+        style={{
+          fontSize: `${settings.fontSize}px`,
+          lineHeight: settings.lineHeight,
+          textAlign: settings.textAlign,
+        }}
+      >
+        {/* Reset sequential TTS block index on each markdown render pass */}
+        {(() => { blockIndexRef.current = 0; return null; })()}
+        <ReactMarkdown
+          remarkPlugins={[remarkGfm]}
+          components={components}
         >
           {content}
         </ReactMarkdown>
@@ -576,3 +583,5 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
     </div>
   );
 };
+
+export const MarkdownViewer = React.memo(MarkdownViewerComponent);
