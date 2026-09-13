@@ -142,6 +142,13 @@ export const ReaderPage: React.FC = () => {
 
   // Initialize Web Speech TTS hook
   const tts = useTextToSpeech({
+    bookTitle: book?.title,
+    chapterTitle: currentChapter?.title,
+    coverUrl: book?.coverUrl
+      ? book.coverUrl.startsWith('http')
+        ? book.coverUrl
+        : `${typeof window !== 'undefined' ? window.location.origin : ''}${book.coverUrl}`
+      : undefined,
     onStateChange: (speaking) => {
       if (speaking && isAudioPlaying) {
         pauseAudio(); // Pause background MP3 audio when TTS starts
@@ -544,6 +551,10 @@ export const ReaderPage: React.FC = () => {
           playbackRate={tts.playbackRate}
           autoScroll={tts.autoScroll}
           isSupported={tts.isSupported}
+          keepScreenAwake={tts.keepScreenAwake}
+          isWakeLockActive={tts.isWakeLockActive}
+          isWakeLockSupported={tts.isWakeLockSupported}
+          onToggleKeepScreenAwake={() => tts.setKeepScreenAwake(!tts.keepScreenAwake)}
           onPlay={() => {
             if (isAudioPlaying) pauseAudio();
             tts.play();

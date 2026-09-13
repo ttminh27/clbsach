@@ -14,6 +14,7 @@ import {
   Settings2,
   HelpCircle,
   Info,
+  Sun,
 } from 'lucide-react';
 import { TTSVoiceOption } from '../../hooks/useTextToSpeech';
 
@@ -28,6 +29,9 @@ interface TTSPlayerBarProps {
   playbackRate: number;
   autoScroll: boolean;
   isSupported: boolean;
+  keepScreenAwake?: boolean;
+  isWakeLockActive?: boolean;
+  isWakeLockSupported?: boolean;
   onPlay: (startIndex?: number) => void;
   onPause: () => void;
   onResume: () => void;
@@ -39,6 +43,7 @@ interface TTSPlayerBarProps {
   onChangeRate: (rate: number) => void;
   onChangeVoice: (voice: SpeechSynthesisVoice | null) => void;
   onToggleAutoScroll: () => void;
+  onToggleKeepScreenAwake?: () => void;
   onClose: () => void;
 }
 
@@ -55,6 +60,9 @@ export const TTSPlayerBar: React.FC<TTSPlayerBarProps> = ({
   playbackRate,
   autoScroll,
   isSupported,
+  keepScreenAwake = true,
+  isWakeLockActive = false,
+  isWakeLockSupported = true,
   onPlay,
   onPause,
   onResume,
@@ -66,6 +74,7 @@ export const TTSPlayerBar: React.FC<TTSPlayerBarProps> = ({
   onChangeRate,
   onChangeVoice,
   onToggleAutoScroll,
+  onToggleKeepScreenAwake,
   onClose,
 }) => {
   const [isExpanded, setIsExpanded] = useState(false);
@@ -122,6 +131,15 @@ export const TTSPlayerBar: React.FC<TTSPlayerBarProps> = ({
                   <span className="inline-flex items-center px-1.5 py-0.2 rounded text-[9px] font-bold bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-300 border border-emerald-300/40">
                     vi-VN
                   </span>
+                  {keepScreenAwake && isWakeLockSupported && (
+                    <span
+                      title="Chế độ giữ sáng màn hình đang bật (ngăn tắt máy do Power Save)"
+                      className="hidden xs:inline-flex items-center gap-1 px-1.5 py-0.2 rounded text-[9px] font-semibold bg-amber-100 dark:bg-amber-950 text-amber-800 dark:text-amber-300 border border-amber-300/40"
+                    >
+                      <Sun className="h-2.5 w-2.5 text-amber-500" />
+                      <span>Sáng màn hình</span>
+                    </span>
+                  )}
                   {isPlaying && (
                     <span className="flex h-1.5 w-1.5 rounded-full bg-emerald-500 animate-ping" />
                   )}
@@ -245,6 +263,37 @@ export const TTSPlayerBar: React.FC<TTSPlayerBarProps> = ({
                     {autoScroll ? 'BẬT' : 'TẮT'}
                   </span>
                 </button>
+              </div>
+
+              {/* Screen Wake Lock & Background Audio status */}
+              <div className="flex flex-wrap items-center justify-between gap-2 pt-1 border-t border-slate-100 dark:border-slate-800">
+                {isWakeLockSupported ? (
+                  <button
+                    onClick={onToggleKeepScreenAwake}
+                    className={`flex items-center gap-1.5 rounded-lg px-2.5 py-1 text-xs font-medium border transition-colors ${
+                      keepScreenAwake
+                        ? 'border-amber-500/50 bg-amber-50 text-amber-800 dark:bg-amber-950/60 dark:text-amber-300'
+                        : 'border-slate-200 text-slate-500 hover:bg-slate-50 dark:border-slate-700 dark:text-slate-400'
+                    }`}
+                    title="Giữ màn hình luôn sáng khi đọc để không bị tắt do Power Save"
+                  >
+                    <Sun className={`h-3.5 w-3.5 ${keepScreenAwake ? 'text-amber-500 fill-amber-500' : 'text-slate-400'}`} />
+                    <span>Giữ màn hình sáng</span>
+                    <span className={`text-[10px] font-bold ${keepScreenAwake ? 'text-amber-600 dark:text-amber-400' : 'text-slate-400'}`}>
+                      {keepScreenAwake ? 'BẬT' : 'TẮT'}
+                    </span>
+                  </button>
+                ) : (
+                  <div className="text-[11px] text-slate-400 flex items-center gap-1">
+                    <Info className="h-3 w-3" />
+                    <span>Trình duyệt không hỗ trợ Wake Lock</span>
+                  </div>
+                )}
+
+                <div className="flex items-center gap-1.5 text-[11px] font-medium text-emerald-700 dark:text-emerald-300 bg-emerald-50 dark:bg-emerald-950/50 px-2.5 py-1 rounded-lg border border-emerald-200/60 dark:border-emerald-800/50">
+                  <span className="flex h-1.5 w-1.5 rounded-full bg-emerald-500" />
+                  <span>Media Session & Âm thanh nền</span>
+                </div>
               </div>
 
               {/* Voice Selector */}

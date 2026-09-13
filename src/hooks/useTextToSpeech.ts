@@ -9,8 +9,47 @@ export interface TTSVoiceOption {
 }
 
 export interface UseTextToSpeechOptions {
+  bookTitle?: string;
+  chapterTitle?: string;
+  coverUrl?: string;
   onParagraphChange?: (index: number) => void;
   onStateChange?: (isPlaying: boolean) => void;
+}
+
+/**
+ * Tạo URL Blob chứa file WAV im lặng 1 giây (8kHz mono 8-bit PCM)
+ * Dùng để phát nền giữ cho tiến trình âm thanh và JavaScript không bị hệ điều hành suspend khi tắt màn hình
+ */
+function createSilentAudioBlobUrl(): string {
+  const sampleRate = 8000;
+  const numSamples = sampleRate; // 1 second
+  const buffer = new ArrayBuffer(44 + numSamples);
+  const view = new DataView(buffer);
+
+  // RIFF identifier
+  view.setUint32(0, 0x52494646, false); // "RIFF"
+  view.setUint32(4, 36 + numSamples, true);
+  view.setUint32(8, 0x57415645, false); // "WAVE"
+
+  // fmt sub-chunk
+  view.setUint32(12, 0x666d7420, false); // "fmt "
+  view.setUint32(16, 16, true); // Subchunk1Size (16 for PCM)
+  view.setUint16(20, 1, true); // AudioFormat (1 = PCM)
+  view.setUint16(22, 1, true); // NumChannels (1 = Mono)
+  view.setUint32(24, sampleRate, true); // SampleRate
+  view.setUint32(28, sampleRate, true); // ByteRate (sampleRate * 1 * 1)
+  view.setUint16(32, 1, true); // BlockAlign
+  view.setUint16(34, 8, true); // BitsPerSample (8)
+
+  // data sub-chunk
+  view.setUint32(36, 0x64617461, false); // "data"
+  view.setUint32(40, numSamples, true);
+
+  // Điền giá trị 128 (mức im lặng chuẩn trong 8-bit unsigned PCM)
+  new Uint8Array(buffer, 44, numSamples).fill(128);
+
+  const blob = new Blob([buffer], { type: 'audio/wav' });
+  return URL.createObjectURL(blob);
 }
 
 /**
@@ -135,6 +174,30 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
   const [autoScroll, setAutoScroll] = useState<boolean>(true);
   const [isPlayerVisible, setIsPlayerVisible] = useState<boolean>(false);
 
+  const [keepScreenAwake, setKeepScreenAwake] = useState<boolean>(true);
+  const [isWakeLockActive, setIsWakeLockActive] = useState<boolean>(false);
+  const isWakeLockSupported = typeof navigator !== 'undefined' && 'wakeLock' in navigator;
+
+  const wakeLockRef = useRef<WakeLockSentinel | null>(null);
+  const keepScreenAwakeRef = useRef<boolean>(true);
+  const silentAudioRef = useRef<HTMLAudioElement | null>(null);
+  const optionsRef = useRef(options);
+  const actionsRef = useRef<{
+    play: (idx?: number) => void;
+    pause: () => void;
+    resume: () => void;
+    stop: () => void;
+    next: () => void;
+    prev: () => void;
+  }>({
+    play: () => {},
+    pause: () => {},
+    resume: () => {},
+    stop: () => {},
+    next: () => {},
+    prev: () => {},
+  });
+
   const paragraphsRef = useRef<string[]>([]);
   const currentIndexRef = useRef<number>(-1);
   const isPlayingRef = useRef<boolean>(false);
@@ -146,6 +209,10 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
   const selectedVoiceRef = useRef<SpeechSynthesisVoice | null>(null);
 
   // Sync refs with state
+  useEffect(() => {
+    optionsRef.current = options;
+  }, [options]);
+
   useEffect(() => {
     currentIndexRef.current = currentParagraphIndex;
   }, [currentParagraphIndex]);
@@ -173,6 +240,139 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
   useEffect(() => {
     selectedVoiceRef.current = selectedVoice;
   }, [selectedVoice]);
+
+  // Request screen wake lock to prevent display turn-off / power save
+  const requestWakeLock = useCallback(async () => {
+    if (!keepScreenAwakeRef.current) return;
+    if (typeof navigator === 'undefined' || !('wakeLock' in navigator)) return;
+    try {
+      if (!wakeLockRef.current || wakeLockRef.current.released) {
+        const lock = await navigator.wakeLock.request('screen');
+        wakeLockRef.current = lock;
+        setIsWakeLockActive(true);
+        lock.onrelease = () => {
+          setIsWakeLockActive(false);
+          wakeLockRef.current = null;
+        };
+      }
+    } catch (err) {
+      console.debug('Wake lock request not granted/supported:', err);
+    }
+  }, []);
+
+  // Release screen wake lock
+  const releaseWakeLock = useCallback(async () => {
+    if (wakeLockRef.current) {
+      try {
+        await wakeLockRef.current.release();
+      } catch {
+        // ignore
+      }
+      wakeLockRef.current = null;
+      setIsWakeLockActive(false);
+    }
+  }, []);
+
+  // React to keepScreenAwake preference changes
+  useEffect(() => {
+    keepScreenAwakeRef.current = keepScreenAwake;
+    if (!keepScreenAwake && wakeLockRef.current) {
+      releaseWakeLock();
+    } else if (keepScreenAwake && isPlayingRef.current) {
+      requestWakeLock();
+    }
+  }, [keepScreenAwake, releaseWakeLock, requestWakeLock]);
+
+  // Re-request wake lock when user switches back to tab or device unlocks
+  useEffect(() => {
+    const handleVisibilityChange = () => {
+      if (document.visibilityState === 'visible' && isPlayingRef.current && keepScreenAwakeRef.current) {
+        requestWakeLock();
+      }
+    };
+    document.addEventListener('visibilitychange', handleVisibilityChange);
+    return () => {
+      document.removeEventListener('visibilitychange', handleVisibilityChange);
+    };
+  }, [requestWakeLock]);
+
+  // Start silent background audio to keep process alive on lockscreen / background
+  const startSilentAudio = useCallback(() => {
+    try {
+      if (!silentAudioRef.current && typeof Audio !== 'undefined') {
+        const url = createSilentAudioBlobUrl();
+        const audio = new Audio(url);
+        audio.loop = true;
+        audio.volume = 0.01;
+        silentAudioRef.current = audio;
+      }
+      if (silentAudioRef.current && silentAudioRef.current.paused) {
+        silentAudioRef.current.play().catch(() => {});
+      }
+    } catch (err) {
+      console.debug('Silent audio play error:', err);
+    }
+  }, []);
+
+  // Pause silent background audio
+  const pauseSilentAudio = useCallback(() => {
+    try {
+      if (silentAudioRef.current && !silentAudioRef.current.paused) {
+        silentAudioRef.current.pause();
+      }
+    } catch {
+      // ignore
+    }
+  }, []);
+
+  // Stop silent background audio
+  const stopSilentAudio = useCallback(() => {
+    try {
+      if (silentAudioRef.current) {
+        silentAudioRef.current.pause();
+        silentAudioRef.current.currentTime = 0;
+      }
+    } catch {
+      // ignore
+    }
+  }, []);
+
+  // Update Media Session API for lockscreen controls and background state
+  const updateMediaSession = useCallback((state: 'playing' | 'paused' | 'none') => {
+    if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return;
+    try {
+      navigator.mediaSession.playbackState = state;
+      if (state === 'none') return;
+
+      const opts = optionsRef.current;
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: opts?.chapterTitle || 'Sách nói TTS (CLB Sách)',
+        artist: opts?.bookTitle || 'CLB Sách',
+        album: opts?.bookTitle ? `Sách: ${opts.bookTitle}` : 'CLB Sách - Đọc sách tự động',
+        artwork: opts?.coverUrl
+          ? [{ src: opts.coverUrl, sizes: '512x512', type: 'image/png' }]
+          : undefined,
+      });
+
+      navigator.mediaSession.setActionHandler('play', () => {
+        actionsRef.current.resume();
+      });
+      navigator.mediaSession.setActionHandler('pause', () => {
+        actionsRef.current.pause();
+      });
+      navigator.mediaSession.setActionHandler('nexttrack', () => {
+        actionsRef.current.next();
+      });
+      navigator.mediaSession.setActionHandler('previoustrack', () => {
+        actionsRef.current.prev();
+      });
+      navigator.mediaSession.setActionHandler('stop', () => {
+        actionsRef.current.stop();
+      });
+    } catch (e) {
+      console.debug('MediaSession error:', e);
+    }
+  }, []);
 
   // Check Web Speech API support and load available voices with Vietnamese priority
   useEffect(() => {
@@ -253,6 +453,9 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
       setIsPlaying(false);
       setIsPaused(false);
       setCurrentParagraphIndex(-1);
+      stopSilentAudio();
+      releaseWakeLock();
+      updateMediaSession('none');
       if (options?.onStateChange) options.onStateChange(false);
       return;
     }
@@ -304,6 +507,9 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
           setIsPlaying(false);
           setIsPaused(false);
           setCurrentParagraphIndex(-1);
+          stopSilentAudio();
+          releaseWakeLock();
+          updateMediaSession('none');
           if (options?.onStateChange) options.onStateChange(false);
         }
       }
@@ -316,7 +522,7 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
     };
 
     synth.speak(utterance);
-  }, [options, scrollToActiveBlock]);
+  }, [options, releaseWakeLock, scrollToActiveBlock, stopSilentAudio, updateMediaSession]);
 
   // Collect paragraph blocks from DOM
   const collectParagraphsFromDOM = useCallback((): string[] => {
@@ -339,6 +545,9 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
       window.speechSynthesis.resume();
       setIsPaused(false);
       setIsPlaying(true);
+      startSilentAudio();
+      requestWakeLock();
+      updateMediaSession('playing');
       if (options?.onStateChange) options.onStateChange(true);
       return;
     }
@@ -357,8 +566,11 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
 
     setIsPlaying(true);
     setIsPaused(false);
+    startSilentAudio();
+    requestWakeLock();
+    updateMediaSession('playing');
     speakParagraph(targetIndex);
-  }, [collectParagraphsFromDOM, options, speakParagraph]);
+  }, [collectParagraphsFromDOM, options, requestWakeLock, speakParagraph, startSilentAudio, updateMediaSession]);
 
   // Pause speaking
   const pause = useCallback(() => {
@@ -366,12 +578,18 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
     window.speechSynthesis.pause();
     setIsPaused(true);
     setIsPlaying(false);
+    pauseSilentAudio();
+    releaseWakeLock();
+    updateMediaSession('paused');
     if (options?.onStateChange) options.onStateChange(false);
-  }, [options]);
+  }, [options, pauseSilentAudio, releaseWakeLock, updateMediaSession]);
 
   // Resume speaking
   const resume = useCallback(() => {
     if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
+    startSilentAudio();
+    requestWakeLock();
+    updateMediaSession('playing');
     if (window.speechSynthesis.paused) {
       window.speechSynthesis.resume();
       setIsPaused(false);
@@ -382,7 +600,7 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
     } else {
       play(0);
     }
-  }, [options, play, speakParagraph]);
+  }, [options, play, requestWakeLock, speakParagraph, startSilentAudio, updateMediaSession]);
 
   // Toggle play / pause
   const togglePlay = useCallback(() => {
@@ -402,8 +620,11 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
     setIsPlaying(false);
     setIsPaused(false);
     setCurrentParagraphIndex(-1);
+    stopSilentAudio();
+    releaseWakeLock();
+    updateMediaSession('none');
     if (options?.onStateChange) options.onStateChange(false);
-  }, [options]);
+  }, [options, releaseWakeLock, stopSilentAudio, updateMediaSession]);
 
   // Skip to next paragraph
   const next = useCallback(() => {
@@ -445,6 +666,47 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
     }
   }, [speakParagraph]);
 
+  // Keep actionsRef synced for mediaSession action handlers
+  useEffect(() => {
+    actionsRef.current = {
+      play,
+      pause,
+      resume,
+      stop,
+      next,
+      prev,
+    };
+  });
+
+  // Chrome bug workaround: speechSynthesis can pause after 15s in background
+  useEffect(() => {
+    if (!isPlaying) return;
+    const interval = setInterval(() => {
+      if (typeof window !== 'undefined' && window.speechSynthesis) {
+        if (window.speechSynthesis.speaking && !window.speechSynthesis.paused) {
+          window.speechSynthesis.pause();
+          window.speechSynthesis.resume();
+        }
+      }
+    }, 12000);
+    return () => clearInterval(interval);
+  }, [isPlaying]);
+
+  // Clean up wakeLock and silent audio on unmount
+  useEffect(() => {
+    return () => {
+      releaseWakeLock();
+      stopSilentAudio();
+      if (typeof navigator !== 'undefined' && 'mediaSession' in navigator) {
+        try {
+          navigator.mediaSession.playbackState = 'none';
+        } catch {
+          // ignore
+        }
+      }
+    };
+  }, [releaseWakeLock, stopSilentAudio]);
+
   return {
     isSupported,
     isPlaying,
@@ -458,6 +720,10 @@ export const useTextToSpeech = (options?: UseTextToSpeechOptions) => {
     pitch,
     autoScroll,
     isPlayerVisible,
+    keepScreenAwake,
+    isWakeLockActive,
+    isWakeLockSupported,
+    setKeepScreenAwake,
     setIsPlayerVisible,
     setAutoScroll,
     setPitch,
