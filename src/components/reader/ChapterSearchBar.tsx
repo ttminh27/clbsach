@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Search, ChevronUp, ChevronDown, X, List, AlertCircle } from 'lucide-react';
-import { SearchMatch } from '../../utils/chapterSearch';
+import { SearchMatch, removeVietnameseAccents } from '../../utils/chapterSearch';
 
 interface ChapterSearchBarProps {
   isOpen: boolean;
@@ -13,6 +13,34 @@ interface ChapterSearchBarProps {
   onPrev: () => void;
   onJumpTo: (index: number) => void;
 }
+
+const renderSnippetWithHighlight = (snippet: string, query: string, isActive: boolean) => {
+  if (!query.trim()) return snippet;
+  const normQuery = removeVietnameseAccents(query.trim().toLowerCase());
+  const normSnippet = removeVietnameseAccents(snippet.toLowerCase());
+  const idx = normSnippet.indexOf(normQuery);
+  if (idx === -1) return snippet;
+
+  const before = snippet.slice(0, idx);
+  const matched = snippet.slice(idx, idx + normQuery.length);
+  const after = snippet.slice(idx + normQuery.length);
+
+  return (
+    <>
+      {before}
+      <mark
+        className={`rounded px-1 font-bold ${
+          isActive
+            ? 'bg-amber-300 text-slate-950 shadow-xs'
+            : 'bg-amber-200 dark:bg-amber-700/80 text-slate-900 dark:text-amber-100'
+        }`}
+      >
+        {matched}
+      </mark>
+      {after}
+    </>
+  );
+};
 
 export const ChapterSearchBar: React.FC<ChapterSearchBarProps> = ({
   isOpen,
@@ -62,7 +90,7 @@ export const ChapterSearchBar: React.FC<ChapterSearchBarProps> = ({
   return (
     <div
       data-no-search="true"
-      className="sticky top-14 z-20 w-full border-b border-slate-200/90 dark:border-slate-800/90 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md shadow-sm transition-all animate-in fade-in slide-in-from-top-2 duration-150"
+      className="sticky top-14 z-20 w-full border-b border-slate-200/90 dark:border-slate-800/90 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md shadow-sm transition-all animate-in fade-in slide-from-top-2 duration-150"
     >
       <div className="mx-auto flex max-w-5xl items-center justify-between gap-1.5 sm:gap-2 px-2 sm:px-6 py-2 w-full">
         {/* Search Input Container */}
@@ -200,7 +228,9 @@ export const ChapterSearchBar: React.FC<ChapterSearchBarProps> = ({
                 >
                   #{idx + 1}
                 </span>
-                <span className="line-clamp-2">{m.snippet}</span>
+                <span className="line-clamp-2">
+                  {renderSnippetWithHighlight(m.snippet, query, activeMatchIndex === idx)}
+                </span>
               </button>
             ))}
           </div>

@@ -110,5 +110,99 @@ input[type="range"]::-webkit-slider-thumb {
   box-shadow: 0 0 6px rgba(16, 185, 129, 0.4);
 }
 
+/* ==========================================================================
+   Reader Search Highlights (DOM Mark Implementation)
+   Vibrant, high-contrast, cross-browser, theme-adaptive, active pulse
+   ========================================================================== */
 
+mark.reader-search-match {
+  background-color: #fef08a !important; /* Vivid yellow-200 */
+  color: #0f172a !important; /* Slate-900 */
+  padding: 0.12em 0.28em !important;
+  margin: 0 0.05em !important;
+  border-radius: 0.25rem !important;
+  box-shadow: 0 0 0 1px #facc15 !important;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease !important;
+  cursor: pointer;
+  display: inline;
+  scroll-margin-top: 130px;
+  scroll-margin-bottom: 80px;
+}
 
+/* Active Highlight - Vibrant amber-orange with glowing border */
+mark.reader-search-match.reader-search-match-active {
+  background-color: #f59e0b !important; /* Amber-500 */
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  border-radius: 0.35rem !important;
+  padding: 0.16em 0.38em !important;
+  box-shadow: 0 0 0 2px #d97706, 0 2px 10px rgba(245, 158, 11, 0.5) !important;
+  position: relative !important;
+  z-index: 5 !important;
+}
+
+/* Flash pulse animation when jumping to match to draw reader's eye */
+@keyframes readerSearchPulse {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 2px #d97706, 0 0 0 0 rgba(245, 158, 11, 0.8);
+  }
+  30% {
+    transform: scale(1.12);
+    box-shadow: 0 0 0 3px #b45309, 0 0 0 8px rgba(245, 158, 11, 0);
+  }
+  60% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+mark.reader-search-match.reader-search-pulse {
+  animation: readerSearchPulse 1.2s cubic-bezier(0.25, 1, 0.5, 1) !important;
+}
+
+/* Dark Theme Highlights */
+.dark mark.reader-search-match {
+  background-color: #854d0e !important; /* Amber-800 */
+  color: #fef08a !important; /* Yellow-200 */
+  box-shadow: 0 0 0 1px #a16207 !important;
+}
+
+.dark mark.reader-search-match.reader-search-match-active {
+  background-color: #ea580c !important; /* Orange-600 */
+  color: #ffffff !important;
+  box-shadow: 0 0 0 2px #fdba74, 0 2px 12px rgba(234, 88, 12, 0.6) !important;
+}
+
+/* Sepia Theme Highlights */
+html.sepia mark.reader-search-match,
+body.sepia mark.reader-search-match {
+  background-color: #fde68a !important; /* Warm amber-200 */
+  color: #451a03 !important; /* Warm dark brown */
+  box-shadow: 0 0 0 1px #f59e0b !important;
+}
+
+html.sepia mark.reader-search-match.reader-search-match-active,
+body.sepia mark.reader-search-match.reader-search-match-active {
+  background-color: #d97706 !important; /* Deep amber */
+  color: #ffffff !important;
+  box-shadow: 0 0 0 2px #92400e, 0 2px 10px rgba(217, 119, 6, 0.5) !important;
+}
+
+/* OLED Theme Highlights */
+html.oled mark.reader-search-match,
+body.oled mark.reader-search-match {
+  background-color: #78350f !important;
+  color: #fef3c7 !important;
+  box-shadow: 0 0 0 1px #d97706 !important;
+}
+
+html.oled mark.reader-search-match.reader-search-match-active,
+body.oled mark.reader-search-match.reader-search-match-active {
+  background-color: #f97316 !important;
+  color: #000000 !important;
+  font-weight: 800 !important;
+  box-shadow: 0 0 0 2px #ffffff, 0 0 16px rgba(249, 115, 22, 0.9) !important;
+}

@@ -19,8 +19,8 @@ import { Loader2, AlertCircle, Home, Check, Bookmark, X } from 'lucide-react';
 import { trackReadChapter } from '../utils/analytics';
 import {
   findMatchesInElement,
-  applyCSSHighlights,
-  clearCSSHighlights,
+  setActiveHighlight,
+  clearSearchHighlights,
   scrollToMatch,
   SearchMatch,
 } from '../utils/chapterSearch';
@@ -307,17 +307,24 @@ export const ReaderPage: React.FC = () => {
 
   // Reset search when switching chapters
   useEffect(() => {
-    clearCSSHighlights();
+    clearSearchHighlights();
     setIsSearchOpen(false);
     setSearchQuery('');
     setMatches([]);
     setActiveMatchIndex(0);
   }, [bookId, currentChapter?.id]);
 
+  // Clean up highlights on unmount
+  useEffect(() => {
+    return () => {
+      clearSearchHighlights();
+    };
+  }, []);
+
   // Search execution & highlight update
   useEffect(() => {
     if (!isSearchOpen || !searchQuery.trim() || loading) {
-      clearCSSHighlights();
+      clearSearchHighlights();
       setMatches([]);
       setActiveMatchIndex(0);
       return;
@@ -332,10 +339,10 @@ export const ReaderPage: React.FC = () => {
       setActiveMatchIndex(0);
 
       if (foundMatches.length > 0) {
-        applyCSSHighlights(foundMatches, 0);
+        setActiveHighlight(foundMatches, 0);
         scrollToMatch(foundMatches[0]);
       } else {
-        clearCSSHighlights();
+        clearSearchHighlights(articleEl);
       }
     }, 120);
 
@@ -346,7 +353,7 @@ export const ReaderPage: React.FC = () => {
     if (matches.length === 0) return;
     const nextIdx = (activeMatchIndex + 1) % matches.length;
     setActiveMatchIndex(nextIdx);
-    applyCSSHighlights(matches, nextIdx);
+    setActiveHighlight(matches, nextIdx);
     scrollToMatch(matches[nextIdx]);
   };
 
@@ -354,21 +361,21 @@ export const ReaderPage: React.FC = () => {
     if (matches.length === 0) return;
     const prevIdx = (activeMatchIndex - 1 + matches.length) % matches.length;
     setActiveMatchIndex(prevIdx);
-    applyCSSHighlights(matches, prevIdx);
+    setActiveHighlight(matches, prevIdx);
     scrollToMatch(matches[prevIdx]);
   };
 
   const handleJumpToMatch = (index: number) => {
     if (index >= 0 && index < matches.length) {
       setActiveMatchIndex(index);
-      applyCSSHighlights(matches, index);
+      setActiveHighlight(matches, index);
       scrollToMatch(matches[index]);
     }
   };
 
   const handleCloseSearch = () => {
     setIsSearchOpen(false);
-    clearCSSHighlights();
+    clearSearchHighlights();
   };
 
   const handleToggleSearch = () => {
@@ -378,6 +385,29 @@ export const ReaderPage: React.FC = () => {
       setIsSearchOpen(true);
     }
   };
+
+  // Direct click on any highlighted mark in the chapter to make it active
+  useEffect(() => {
+    const articleEl = document.getElementById('chapter-content-article');
+    if (!articleEl || matches.length === 0) return;
+
+    const handleMarkClick = (e: MouseEvent) => {
+      const target = e.target as HTMLElement;
+      const mark = target.closest('mark.reader-search-match');
+      if (mark) {
+        const idxAttr = mark.getAttribute('data-search-index');
+        if (idxAttr !== null) {
+          const idx = parseInt(idxAttr, 10);
+          if (!isNaN(idx) && idx >= 0 && idx < matches.length) {
+            handleJumpToMatch(idx);
+          }
+        }
+      }
+    };
+
+    articleEl.addEventListener('click', handleMarkClick);
+    return () => articleEl.removeEventListener('click', handleMarkClick);
+  }, [matches, activeMatchIndex]);
 
   // Keyboard navigation shortcuts
   useEffect(() => {
@@ -410,26 +440,32 @@ export const ReaderPage: React.FC = () => {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [isSearchOpen]);
 
+  const ttsRef = useRef(tts);
+  ttsRef.current = tts;
+  const isAudioPlayingRef = useRef(isAudioPlaying);
+  isAudioPlayingRef.current = isAudioPlaying;
+
   const handleToggleTTS = useCallback(() => {
-    if (tts.isPlaying) {
-      tts.pause();
-    } else if (tts.isPaused) {
-      tts.resume();
-    } else if (tts.isPlayerVisible) {
-      tts.play();
+    const t = ttsRef.current;
+    if (t.isPlaying) {
+      t.pause();
+    } else if (t.isPaused) {
+      t.resume();
+    } else if (t.isPlayerVisible) {
+      t.play();
     } else {
-      tts.setIsPlayerVisible(true);
-      tts.play(0);
+      t.setIsPlayerVisible(true);
+      t.play(0);
     }
-  }, [tts]);
+  }, []);
 
   const handleReadFromIndex = useCallback((index: number) => {
-    if (isAudioPlaying) {
+    if (isAudioPlayingRef.current) {
       pauseAudio();
     }
-    tts.setIsPlayerVisible(true);
-    tts.jumpTo(index);
-  }, [isAudioPlaying, pauseAudio, tts]);
+    ttsRef.current.setIsPlayerVisible(true);
+    ttsRef.current.jumpTo(index);
+  }, [pauseAudio]);
 
   if (!book || !currentChapter) {
     return (

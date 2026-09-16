@@ -502,7 +502,7 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
   }, [bookId, currentTTSIndex, isTTSSpeaking, onReadFromIndex, onCopied, navigate]);
 
   return (
-    <div className={`relative mx-auto ${getMaxWidthClass()} px-4 sm:px-8 py-6 sm:py-8 transition-all duration-200 w-full max-w-full overflow-hidden`}>
+    <div className={`relative mx-auto ${getMaxWidthClass()} px-4 sm:px-8 py-6 sm:py-8 transition-all duration-200 w-full max-w-full overflow-x-clip`}>
       {/* Repeating Watermark "Healthier" - Subtle opacity to prevent eye strain */}
       <div
         aria-hidden="true"
@@ -584,4 +584,13 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
   );
 };
 
-export const MarkdownViewer = React.memo(MarkdownViewerComponent);
+export const MarkdownViewer = React.memo(MarkdownViewerComponent, (prev, next) => {
+  return (
+    prev.content === next.content &&
+    prev.bookId === next.bookId &&
+    prev.bookTitle === next.bookTitle &&
+    prev.chapterTitle === next.chapterTitle &&
+    prev.currentTTSIndex === next.currentTTSIndex &&
+    prev.isTTSSpeaking === next.isTTSSpeaking
+  );
+});
