@@ -1,0 +1,188 @@
+{
+  "bookId": "18phut",
+  "chapterId": "chuong_24_ngay_mai_la_khi_nao",
+  "chapterTitle": "Chương 24: Ngày Mai Là Khi Nào?",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao tác giả cho rằng danh sách việc cần làm (to-do list) thông thường dễ trở thành 'bảng danh sách tội lỗi'?",
+      "options": [
+        "Vì nó liệt kê quá nhiều việc không quan trọng",
+        "Vì nó tạo ảo tưởng về khả năng thực hiện",
+        "Vì nó thiếu sự phân loại theo mục tiêu năm",
+        "Vì nó không có thời gian biểu cụ thể kèm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh danh sách dài khiến ta chán chường vì không thực tế, tạo cảm giác tội lỗi khi không hoàn thành, thay vì là công cụ hỗ trợ hiệu quả."
+    },
+    {
+      "id": "q2",
+      "question": "Sự khác biệt cốt lõi giữa 'danh sách việc cần làm' và 'thời gian biểu' theo góc nhìn của tác giả là gì?",
+      "options": [
+        "Danh sách dùng để lập kế hoạch, thời gian biểu dùng để kiểm tra",
+        "Danh sách là công cụ tập hợp, thời gian biểu là công cụ thực hiện",
+        "Danh sách giúp quản lý mục tiêu, thời gian biểu quản lý cảm xúc",
+        "Danh sách để liệt kê công việc, thời gian biểu để đánh giá kết quả"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả khẳng định danh sách giúp tập hợp công việc, trong khi thời gian biểu giới hạn thời gian giúp ta thực hiện công việc đó một cách thực tế."
+    },
+    {
+      "id": "q3",
+      "question": "Bài học rút ra từ câu chuyện của cô bé Eleanor về việc đi mua giày là gì?",
+      "options": [
+        "Cần kiên trì hỏi đến cùng để đạt được mục đích",
+        "Cần biết cách thương lượng thời gian với người khác",
+        "Cần xác định thời gian cụ thể để hiện thực hóa dự định",
+        "Cần ưu tiên những việc quan trọng vào đầu ngày mới"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu chuyện minh họa rằng việc xác định thời gian cụ thể (2 giờ chiều) giúp chuyển đổi từ một dự định mơ hồ thành hành động thực tế."
+    },
+    {
+      "id": "q4",
+      "question": "Theo nghiên cứu được trích dẫn, yếu tố nào quyết định tỷ lệ hoàn thành công việc cao nhất?",
+      "options": [
+        "Sự cam kết thực hiện trong vòng 30 ngày tới",
+        "Việc xác định rõ ràng thời gian và địa điểm thực hiện",
+        "Sự hiểu biết về tầm quan trọng của công việc",
+        "Việc đặt ra thời hạn cuối cùng trước 5 giờ chiều"
+      ],
+      "correctIndex": 1,
+      "explanation": "Các nghiên cứu cho thấy khi con người xác định cụ thể 'khi nào' và 'ở đâu', tỷ lệ hoàn thành công việc tăng vọt so với việc chỉ đặt mục tiêu chung chung."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao tác giả khuyên nên thực hiện các công việc khó nhất vào đầu ngày, trước khi kiểm tra email?",
+      "options": [
+        "Để tránh sự xao nhãng từ các yêu cầu của người khác",
+        "Để tận dụng tối đa năng lượng tinh thần buổi sáng",
+        "Để đảm bảo hoàn thành mục tiêu trước khi quá muộn",
+        "Để tạo cảm giác thỏa mãn ngay từ lúc bắt đầu ngày"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiểm tra email thường dẫn đến việc bị cuốn vào yêu cầu của người khác, làm xao nhãng việc tập trung vào các ưu tiên quan trọng nhất của bản thân."
+    },
+    {
+      "id": "q6",
+      "question": "Việc lên lịch cho các công việc hỗ trợ người khác vào buổi chiều có tác dụng gì?",
+      "options": [
+        "Giúp tăng cường mối quan hệ với đồng nghiệp",
+        "Giúp giảm bớt áp lực công việc trong ngày dài",
+        "Giúp duy trì sự tập trung vào ưu tiên buổi sáng",
+        "Giúp hoàn thành danh mục 5% công việc phụ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lên lịch cụ thể cho việc hỗ trợ giúp bạn yên tâm tập trung vào ưu tiên chính mà không lo lắng về việc bỏ bê các công việc khác."
+    },
+    {
+      "id": "q7",
+      "question": "Theo tác giả, cảm giác 'vô dụng' vào cuối ngày thường xuất phát từ nguyên nhân nào?",
+      "options": [
+        "Do khối lượng công việc quá lớn so với thực tế",
+        "Do không biết cách ưu tiên các công việc quan trọng",
+        "Do thiếu sự chủ động trong việc lập kế hoạch thực hiện",
+        "Do không hoàn thành được danh sách việc cần làm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cảm giác vô dụng đến từ việc không chủ động làm chủ những gì sẽ hoàn thành và những gì phải để lại, dẫn đến sự ngỡ ngàng và thất vọng."
+    },
+    {
+      "id": "q8",
+      "question": "Chiến lược 'lên kế hoạch cho những việc không được hoàn thành' mang lại lợi ích gì?",
+      "options": [
+        "Giúp giảm bớt sự thất vọng khi không làm hết việc",
+        "Giúp tối ưu hóa danh sách công việc cho ngày mai",
+        "Giúp tập trung vào những việc thực sự quan trọng nhất",
+        "Giúp kiểm soát thời gian biểu một cách hiệu quả hơn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Biết trước việc gì sẽ không hoàn thành giúp bạn không còn cảm thấy ngỡ ngàng hay thất vọng, từ đó duy trì tâm thế chủ động."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao việc phân loại danh sách theo 'từng loại tiêu điểm trong năm' lại quan trọng?",
+      "options": [
+        "Giúp đảm bảo các việc làm hàng ngày hướng tới mục tiêu",
+        "Giúp dễ dàng quản lý danh sách việc cần làm hàng ngày",
+        "Giúp tiết kiệm thời gian khi lập thời gian biểu hàng ngày",
+        "Giúp phân biệt việc quan trọng và việc khẩn cấp nhanh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Việc phân loại giúp đảm bảo rằng các công việc hàng ngày thực sự phục vụ cho các mục tiêu dài hạn, tránh việc bận rộn nhưng không hiệu quả."
+    },
+    {
+      "id": "q10",
+      "question": "Tác giả định nghĩa 'sức mạnh của khi nào và ở đâu' nhằm mục đích gì?",
+      "options": [
+        "Để tăng cường khả năng quản lý thời gian cá nhân",
+        "Để nâng cao hiệu suất làm việc trong thời gian ngắn",
+        "Để giảm bớt sự căng thẳng trong công việc hàng ngày",
+        "Để biến các dự định thành hành động thực tế cụ thể"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đây là công cụ tâm lý để cụ thể hóa các dự định, giúp con người vượt qua sự trì hoãn và thực sự bắt tay vào thực hiện công việc."
+    },
+    {
+      "id": "q11",
+      "question": "Trong bối cảnh quản lý công việc, 'thời gian biểu' đóng vai trò như thế nào?",
+      "options": [
+        "Là công cụ để kiểm soát các đầu việc cần thực hiện",
+        "Là công cụ để sắp xếp thứ tự ưu tiên các công việc",
+        "Là công cụ để đánh giá năng suất làm việc hàng ngày",
+        "Là công cụ để giới hạn khối lượng công việc thực tế"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thời gian biểu có giới hạn, nó buộc chúng ta phải đối mặt với thực tế rằng không thể nhồi nhét mọi thứ vào một ngày."
+    },
+    {
+      "id": "q12",
+      "question": "Điều gì xảy ra nếu bạn không chủ động quyết định việc gì sẽ để lại sau?",
+      "options": [
+        "Bạn sẽ dễ dàng rơi vào trạng thái thất vọng và vô dụng",
+        "Bạn sẽ cố gắng làm mọi thứ và không hoàn thành gì",
+        "Bạn sẽ cảm thấy bị quá tải và mất kiểm soát công việc",
+        "Bạn sẽ mất đi sự tập trung vào các mục tiêu dài hạn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh rằng nếu không chủ động lựa chọn việc để lại, bạn sẽ rơi vào cảm giác thất vọng và vô dụng khi ngày kết thúc."
+    },
+    {
+      "id": "q13",
+      "question": "Cách tiếp cận nào giúp bạn cảm thấy thoải mái khi không thực hiện các công việc phụ?",
+      "options": [
+        "Ủy quyền các công việc đó cho những người phù hợp hơn",
+        "Lên lịch cụ thể cho chúng vào một khoảng thời gian nhất định",
+        "Loại bỏ hoàn toàn các công việc đó khỏi danh sách ưu tiên",
+        "Chấp nhận rằng chúng không quan trọng bằng công việc chính"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi đã lên lịch cụ thể, bạn sẽ cảm thấy an tâm vì biết rằng công việc đó sẽ được giải quyết vào thời điểm đã định, không cần lo lắng ngay lúc này."
+    },
+    {
+      "id": "q14",
+      "question": "Tư duy nào là nền tảng để đạt được sự thỏa mãn vào cuối ngày làm việc?",
+      "options": [
+        "Hoàn thành tất cả các mục tiêu đã đề ra trong ngày",
+        "Luôn giữ danh sách việc cần làm ở mức tối thiểu nhất",
+        "Sắp xếp thời gian biểu một cách khoa học và hợp lý",
+        "Chủ động lựa chọn và hoàn thành các việc quan trọng nhất"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự thỏa mãn đến từ việc làm chủ được những gì mình đã chọn thực hiện, thay vì cố gắng làm hết mọi thứ một cách vô định."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp chính mà tác giả muốn truyền tải qua chương sách này là gì?",
+      "options": [
+        "Hãy lập danh sách việc cần làm thật ngắn gọn",
+        "Hãy luôn ưu tiên công việc khó vào buổi sáng sớm",
+        "Hãy cụ thể hóa thời gian và địa điểm cho mọi dự định",
+        "Hãy học cách từ chối các công việc không quan trọng"
+      ],
+      "correctIndex": 2,
+      "explanation": "Xuyên suốt chương sách, tác giả khẳng định việc xác định rõ 'khi nào' và 'ở đâu' là chìa khóa để chuyển đổi dự định thành hành động thực tế."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "bookId": "18phut",
+  "chapterId": "chuong_36_lan_thu_ba",
+  "chapterTitle": "Chương 36: Lần Thứ Ba",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao tác giả cho rằng việc quyết định có nên góp ý cho người khác hay không lại là một hoạt động tốn thời gian?",
+      "options": [
+        "Vì chúng ta thường quá bận rộn để quan sát hành vi",
+        "Vì ta sợ làm mất lòng đồng nghiệp trong môi trường cũ",
+        "Vì ta cần thu thập bằng chứng xác thực trước khi nói",
+        "Vì sự do dự giữa việc bỏ qua hay can thiệp gây áp lực"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả nhấn mạnh sự giằng xé nội tâm giữa việc bỏ qua (để tránh xung đột) và can thiệp (để giải quyết vấn đề) khiến ta tiêu tốn năng lượng suy nghĩ thay vì hành động."
+    },
+    {
+      "id": "q2",
+      "question": "Quy tắc 'ba lần' của tác giả mang lại lợi ích cốt lõi nào trong giao tiếp quản lý?",
+      "options": [
+        "Giúp nhân viên tự nhận ra lỗi sai mà không cần nhắc",
+        "Loại bỏ hoàn toàn các xung đột nhỏ nhặt hàng ngày",
+        "Tạo cơ sở vững chắc để đối thoại dựa trên dữ liệu thực",
+        "Thiết lập quyền lực tuyệt đối của người quản lý cấp cao"
+      ],
+      "correctIndex": 2,
+      "explanation": "Quy tắc này giúp người quản lý tự tin hơn khi đối thoại vì họ có bằng chứng về sự lặp lại, tránh việc suy diễn chủ quan hay cảm tính."
+    },
+    {
+      "id": "q3",
+      "question": "Trong tình huống của Mike, tại sao tác giả lại hỏi ngược lại Mike về việc anh ấy đã hỏi câu đó ba lần?",
+      "options": [
+        "Để Mike thấy rằng anh ấy đang lãng phí thời gian của mình",
+        "Để Mike tự nhận ra sự thiếu quyết đoán của bản thân mình",
+        "Để áp dụng chính quy tắc đó vào hành vi của chính Mike",
+        "Để ép Mike phải đưa ra quyết định ngay lập tức lúc đó"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả dùng chính quy tắc ông vừa chia sẻ để chỉ ra rằng Mike cũng đang lặp lại hành vi do dự, từ đó giúp Mike tự nhận ra giải pháp."
+    },
+    {
+      "id": "q4",
+      "question": "Điều gì xảy ra nếu một người quản lý can thiệp ngay lập tức vào mọi vấn đề nhỏ nhặt?",
+      "options": [
+        "Họ sẽ xây dựng được văn hóa làm việc kỷ luật cao",
+        "Họ sẽ trở nên mất kiểm soát vì quá tải công việc",
+        "Họ sẽ khiến nhân viên cảm thấy bị giám sát quá mức",
+        "Họ sẽ làm giảm sự sáng tạo của các nhân viên giỏi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả cảnh báo rằng việc can thiệp vào mọi vấn đề nhỏ sẽ khiến người quản lý mất kiểm soát và tiêu tốn quá nhiều thời gian vào tiểu tiết."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao lần đầu tiên một hành vi gây khó chịu xảy ra, tác giả khuyên chỉ nên ghi nhận?",
+      "options": [
+        "Vì chưa đủ bằng chứng để buộc tội nhân viên đó",
+        "Vì cần thời gian để tìm hiểu nguyên nhân sâu xa",
+        "Vì đó có thể là sự cố ngẫu nhiên hoặc bất cẩn",
+        "Vì cần giữ hòa khí trong giai đoạn đầu làm việc"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả cho rằng lần đầu tiên thường là sự cố cá biệt, việc ghi nhận giúp ta theo dõi mà không gây ra những xung đột không cần thiết."
+    },
+    {
+      "id": "q6",
+      "question": "Khi đối thoại ở lần thứ ba, cách tiếp cận nào giúp giảm thiểu sự phòng thủ của đối phương?",
+      "options": [
+        "Chỉ ra lỗi sai một cách nghiêm khắc và dứt khoát",
+        "Yêu cầu đối phương giải trình lý do cho từng lần",
+        "Nhấn mạnh vào việc hành vi đó đã lặp lại ba lần",
+        "So sánh hành vi đó với các tiêu chuẩn của công ty"
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc nêu rõ 'đã thấy ba lần' giúp đối phương hiểu đây là một mô hình hành vi chứ không phải sự tấn công cá nhân vào một sự kiện đơn lẻ."
+    },
+    {
+      "id": "q7",
+      "question": "Quy tắc 'ba lần' có ý nghĩa gì đối với khái niệm 'ranh giới' trong công việc?",
+      "options": [
+        "Ranh giới chỉ có hiệu quả khi được thiết lập từ đầu",
+        "Người khác chỉ tôn trọng ranh giới mà họ nhận thức được",
+        "Ranh giới cần được thay đổi linh hoạt theo từng người",
+        "Ranh giới là thứ ngăn cản sự hợp tác hiệu quả nhóm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả kết luận rằng người khác không thể tôn trọng ranh giới nếu họ không biết ranh giới đó nằm ở đâu, vì vậy cần phải lên tiếng."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao tác giả không khuyên nên nói chuyện ngay từ lần đầu tiên?",
+      "options": [
+        "Vì ai cũng có lúc bất cẩn và cần sự bao dung nhất định",
+        "Vì nó có thể làm tổn thương mối quan hệ đồng nghiệp",
+        "Vì người quản lý cần thời gian để chuẩn bị tâm lý",
+        "Vì lần đầu tiên thường không đủ sức nặng để thảo luận"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả thừa nhận tính nhân văn trong quản lý: ai cũng có lúc sai sót, nên không cần thiết phải phản ứng thái quá ngay từ lần đầu."
+    },
+    {
+      "id": "q9",
+      "question": "Sự khác biệt giữa lần thứ hai và lần thứ ba trong quy tắc của tác giả là gì?",
+      "options": [
+        "Lần hai là nhắc nhở, lần ba là đưa ra quyết định",
+        "Lần hai là cảnh báo, lần ba là áp dụng kỷ luật cứng",
+        "Lần hai là ghi chép, lần ba là tìm kiếm sự hỗ trợ",
+        "Lần hai là quan sát, lần ba là hành động đối thoại"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lần thứ hai là lúc bắt đầu quan sát kỹ và dự tính phản ứng, lần thứ ba là lúc thực hiện hành động đối thoại trực tiếp."
+    },
+    {
+      "id": "q10",
+      "question": "Tư duy chủ đạo của tác giả khi đối mặt với những hành vi gây khó chịu là gì?",
+      "options": [
+        "Chủ động kiểm soát mọi tình huống ngay từ đầu",
+        "Luôn luôn giữ im lặng để tránh gây ra mâu thuẫn",
+        "Ưu tiên sự hài lòng của nhân viên hơn hiệu suất",
+        "Cân bằng giữa sự bao dung và tính quyết đoán cần thiết"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả tìm cách cân bằng giữa việc không phản ứng thái quá (bao dung) và việc không để vấn đề vượt tầm kiểm soát (quyết đoán)."
+    },
+    {
+      "id": "q11",
+      "question": "Khi nói về phí tư vấn, tại sao tác giả lại chọn cách đặt câu hỏi thay vì chỉ trích?",
+      "options": [
+        "Để đối phương tự nhận ra sự thiếu tôn trọng của họ",
+        "Để kiểm tra xem đối phương có thực sự gặp khó khăn",
+        "Để giảm bớt sự căng thẳng trong cuộc đối thoại trực",
+        "Để giữ hình ảnh chuyên nghiệp của một người tư vấn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cách đặt câu hỏi giúp tác giả tìm hiểu nguyên nhân thực sự (vấn đề tài chính hay thái độ) thay vì chỉ trích, giúp cuộc đối thoại mang tính xây dựng."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao việc 'không chắc chắn' lại là một rào cản lớn trong quản lý nhân sự?",
+      "options": [
+        "Vì nó làm trì hoãn việc giải quyết các vấn đề tiềm ẩn",
+        "Vì nó khiến người quản lý mất đi sự tôn trọng cần có",
+        "Vì nó gây ra sự hoang mang cho các nhân viên khác",
+        "Vì nó làm giảm uy tín của quản lý trước khách hàng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự không chắc chắn dẫn đến sự trì hoãn, khiến các vấn đề nhỏ tích tụ và trở nên nghiêm trọng hơn theo thời gian."
+    },
+    {
+      "id": "q13",
+      "question": "Thông điệp ẩn sau việc tác giả nói 'Tôi đã để ý thấy chuyện này ba lần rồi' là gì?",
+      "options": [
+        "Đây là một mô hình hành vi cần phải được thay đổi",
+        "Tôi đã theo dõi bạn rất kỹ trong thời gian qua",
+        "Tôi không còn sự kiên nhẫn với những lỗi sai này",
+        "Bạn đã vi phạm quy tắc làm việc của công ty này"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu nói này khẳng định rằng đây không phải là sự cố đơn lẻ mà là một vấn đề hệ thống cần được xử lý."
+    },
+    {
+      "id": "q14",
+      "question": "Theo tác giả, niềm tin quan trọng như thế nào trong việc đối thoại?",
+      "options": [
+        "Giúp người quản lý tự tin nói chuyện một cách chắc chắn",
+        "Giúp nhân viên tin tưởng vào sự công bằng của quản lý",
+        "Giúp xây dựng mối quan hệ lâu dài giữa hai bên",
+        "Giúp giảm bớt sự lo lắng trước khi bắt đầu đối thoại"
+      ],
+      "correctIndex": 0,
+      "explanation": "Niềm tin rằng vấn đề không phải do mình tưởng tượng ra giúp người quản lý có đủ sự tự tin và chắc chắn khi đối mặt với nhân viên."
+    },
+    {
+      "id": "q15",
+      "question": "Mục tiêu cuối cùng của việc áp dụng quy tắc ba lần là gì?",
+      "options": [
+        "Để trừng phạt những nhân viên không tuân thủ",
+        "Để duy trì sự kiểm soát và hiệu quả trong công việc",
+        "Để loại bỏ những nhân viên không phù hợp với nhóm",
+        "Để tạo ra một môi trường làm việc không có lỗi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mục tiêu là giữ cho công việc vận hành trơn tru, không để những vấn đề nhỏ làm ảnh hưởng đến hiệu suất chung của nhóm."
+    }
+  ]
+}

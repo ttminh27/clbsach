@@ -1,0 +1,188 @@
+{
+  "bookId": "18phut",
+  "chapterId": "chuong_20_lam_gi_trong_nam_nay",
+  "chapterTitle": "Chương 20: Làm Gì Trong Năm Nay?",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao tác giả cho rằng việc cố gắng hoàn thành tất cả mọi việc là một sai lầm trong quản lý thời gian?",
+      "options": [
+        "Vì nó khiến con người trở nên kiệt sức và mất đi sự tập trung",
+        "Vì nó làm giảm chất lượng công việc so với làm ít việc hơn",
+        "Vì nó tạo ra sự xung đột giữa các mục tiêu cá nhân và công việc",
+        "Vì nó khiến con người không còn thời gian cho các mối quan hệ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh việc cố gắng làm tất cả giống như ăn buffet quá nhiều, dẫn đến cảm giác quá tải, kiệt sức và hối hận, thay vì hiệu quả."
+    },
+    {
+      "id": "q2",
+      "question": "Việc giới hạn trọng tâm vào 5 lĩnh vực trong một năm mang lại lợi ích cốt lõi nào cho cá nhân?",
+      "options": [
+        "Tạo ra sự cân bằng giữa phát triển kỹ năng và nghỉ ngơi",
+        "Đảm bảo đạt được mọi mục tiêu đề ra trong năm đó",
+        "Giúp tối ưu hóa nguồn lực và tránh sự phân tán tâm trí",
+        "Tăng cường khả năng từ chối các yêu cầu từ người khác"
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc giới hạn số lượng giúp người đọc có chiến lược rõ ràng, tránh bị quá tải và tập trung nguồn lực vào những việc thực sự quan trọng."
+    },
+    {
+      "id": "q3",
+      "question": "Khi đối mặt với một cơ hội hấp dẫn nhưng không nằm trong 5 trọng tâm, tác giả khuyên bạn nên làm gì?",
+      "options": [
+        "Cân nhắc kỹ lưỡng để xem có thể thay thế mục tiêu cũ",
+        "Thực hiện nó trong quỹ thời gian 5% dành cho việc linh tinh",
+        "Chấp nhận nếu nó mang lại lợi ích phát triển bản thân",
+        "Từ chối một cách lịch sự để bảo vệ các ưu tiên hiện tại"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả khẳng định cần có chiến lược và đưa ra quyết định khó khăn để từ chối những việc không phù hợp với 5 trọng tâm đã chọn."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao tác giả chọn khoảng thời gian 'một năm' để thiết lập trọng tâm thay vì một tháng hay một đời người?",
+      "options": [
+        "Vì một năm là chu kỳ tự nhiên của các sự kiện xã hội",
+        "Vì một năm đủ dài để tiến bộ nhưng không quá mơ hồ",
+        "Vì một năm giúp dễ dàng đo lường kết quả công việc",
+        "Vì một năm phù hợp với chu kỳ đánh giá hiệu suất chung"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả cho rằng một đời người quá dài còn một tháng quá ngắn, một năm là khoảng thời gian hoàn hảo để tạo tiến bộ mà không mất phương hướng."
+    },
+    {
+      "id": "q5",
+      "question": "Trong mô hình 5 trọng tâm, 5% thời gian dành cho 'việc linh tinh' có ý nghĩa chiến lược gì?",
+      "options": [
+        "Duy trì sự linh hoạt và hỗ trợ các mối quan hệ xã hội",
+        "Giảm bớt áp lực tâm lý khi phải tuân thủ kế hoạch",
+        "Tạo không gian cho sự sáng tạo ngoài các mục tiêu chính",
+        "Đảm bảo các công việc duy trì cuộc sống không bị bỏ quên"
+      ],
+      "correctIndex": 3,
+      "explanation": "5% này dành cho các công việc duy trì cuộc sống và hỗ trợ người khác, giúp bạn không bị tách biệt khỏi thực tế trong khi vẫn tập trung vào ưu tiên."
+    },
+    {
+      "id": "q6",
+      "question": "Khi có mâu thuẫn giữa các trọng tâm đã chọn, cách giải quyết tối ưu nhất theo tác giả là gì?",
+      "options": [
+        "Ưu tiên lĩnh vực đang được dành ít thời gian nhất hiện tại",
+        "Chọn lĩnh vực mang lại giá trị kinh tế cao nhất cho bản thân",
+        "Đánh giá lại toàn bộ danh sách để loại bỏ mục tiêu yếu",
+        "Thực hiện theo cảm tính vì tất cả đều là lựa chọn xứng đáng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả gợi ý nếu không biết chọn cái nào, hãy nhìn vào thời gian đã dành cho từng mục tiêu và ưu tiên mục tiêu đang bị bỏ bê để cân bằng lại."
+    },
+    {
+      "id": "q7",
+      "question": "Điều gì làm cho một danh sách 5 trọng tâm trở nên 'dinh dưỡng và ngon miệng' theo quan điểm của tác giả?",
+      "options": [
+        "Sự kết hợp giữa các mục tiêu ngắn hạn và dài hạn",
+        "Sự đồng thuận của gia đình và đồng nghiệp xung quanh",
+        "Khả năng đo lường được kết quả của từng lĩnh vực cụ thể",
+        "Việc phản ánh niềm đam mê và tận dụng ưu điểm cá nhân"
+      ],
+      "correctIndex": 3,
+      "explanation": "Danh sách tốt cần tận dụng ưu điểm, chấp nhận khuyết điểm, khẳng định sự khác biệt và phản ánh niềm đam mê của chính cá nhân đó."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao tác giả cho rằng không nhất thiết phải đặt mục tiêu cụ thể cho mọi lĩnh vực trong 5 trọng tâm?",
+      "options": [
+        "Vì mục tiêu cụ thể thường gây áp lực không cần thiết",
+        "Vì các lĩnh vực này là nơi phân bổ thời gian, không phải đích đến",
+        "Vì không phải lĩnh vực nào cũng có thể định lượng rõ ràng",
+        "Vì sự linh hoạt quan trọng hơn là các con số đo lường được"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nhấn mạnh rằng đây là những lĩnh vực cần chú trọng để phân bổ thời gian, không nhất thiết phải là các mục tiêu có thể cân đo đong đếm."
+    },
+    {
+      "id": "q9",
+      "question": "Việc tác giả từ chối lời mời diễn thuyết tại TEDx cho thấy điều gì về tư duy quản lý thời gian?",
+      "options": [
+        "Sự ưu tiên các mối quan hệ cá nhân hơn sự nghiệp",
+        "Khả năng đánh đổi để bảo vệ các cam kết đã đề ra",
+        "Sự thận trọng quá mức trước các cơ hội lớn bất ngờ",
+        "Tầm quan trọng của việc duy trì sự cân bằng công việc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dù cơ hội rất hấp dẫn, tác giả vẫn từ chối vì nó mâu thuẫn với các ưu tiên đã xác định, thể hiện sự kiên định với chiến lược cá nhân."
+    },
+    {
+      "id": "q10",
+      "question": "Làm thế nào để nhận biết một danh sách 5 trọng tâm đã thực sự phù hợp với bản thân bạn?",
+      "options": [
+        "Khi bạn cảm thấy mãn nguyện mà không bị quá tải",
+        "Khi bạn đạt được tất cả các mục tiêu đề ra trong năm",
+        "Khi bạn nhận được sự công nhận từ những người xung quanh",
+        "Khi bạn có nhiều thời gian rảnh rỗi hơn trước đây"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự phù hợp được đo lường bằng cảm giác mãn nguyện khi hoàn thành từng lĩnh vực mà không rơi vào trạng thái lúng túng hay đuối sức."
+    },
+    {
+      "id": "q11",
+      "question": "Tác giả coi việc 'tự kiềm chế' khi chọn món trong tiệc buffet có ý nghĩa gì trong cuộc sống?",
+      "options": [
+        "Là bài học về việc quản lý tài chính cá nhân hiệu quả",
+        "Là sự hy sinh cần thiết để đạt được sự hài lòng thực sự",
+        "Là kỹ năng cần thiết để duy trì sức khỏe lâu dài bền vững",
+        "Là minh chứng cho việc từ bỏ những thứ không cần thiết"
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc kiềm chế không lấy quá nhiều món giúp tác giả rời bữa ăn với cảm giác thoải mái, tương tự như việc chọn lọc ưu tiên trong cuộc sống."
+    },
+    {
+      "id": "q12",
+      "question": "Khi bạn dành quá 5% thời gian cho các việc linh tinh, điều gì sẽ xảy ra theo tác giả?",
+      "options": [
+        "Bạn sẽ mất đi cơ hội để phát triển các kỹ năng mới",
+        "Bạn sẽ gặp khó khăn trong việc duy trì các mối quan hệ",
+        "Bạn đang ưu tiên cuộc sống của người khác hơn chính mình",
+        "Bạn sẽ không thể hoàn thành các mục tiêu dài hạn đề ra"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nếu dành quá nhiều thời gian cho việc linh tinh, bạn đang tốn thời gian vào ưu tiên của người khác và những thứ duy trì cuộc sống thay vì mục tiêu của mình."
+    },
+    {
+      "id": "q13",
+      "question": "Sự khác biệt giữa 'danh sách 5 trọng tâm' và 'hệ thống quản lý thời gian thông thường' là gì?",
+      "options": [
+        "Hệ thống thông thường mang tính cứng nhắc, còn danh sách này mang tính linh hoạt cao",
+        "Hệ thống thông thường giúp làm nhiều việc hơn, còn danh sách này giúp làm việc chất lượng hơn",
+        "Hệ thống thông thường tập trung vào hiệu suất, còn danh sách này tập trung vào sự lựa chọn",
+        "Hệ thống thông thường dành cho công việc, còn danh sách này dành cho cả cuộc sống"
+      ],
+      "correctIndex": 2,
+      "explanation": "Các hệ thống thông thường tập trung vào việc làm thế nào để hoàn thành tất cả, trong khi phương pháp của tác giả tập trung vào việc chọn lọc những gì quan trọng nhất."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao việc lập danh sách 5 trọng tâm cần phải được thực hiện một cách 'có chủ ý'?",
+      "options": [
+        "Để đảm bảo danh sách phản ánh đúng bản sắc cá nhân",
+        "Để tránh việc sao chép ưu tiên của những người xung quanh",
+        "Để tạo ra sự cam kết mạnh mẽ khi thực hiện các mục tiêu",
+        "Để dễ dàng điều chỉnh khi có những thay đổi bất ngờ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Việc chủ ý giúp đảm bảo danh sách đó thực sự tận dụng ưu điểm và phản ánh niềm đam mê, thay vì chỉ là một danh sách các việc cần làm ngẫu nhiên."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp chính mà tác giả muốn truyền tải qua hình ảnh 'cái dĩa' trong tiệc buffet là gì?",
+      "options": [
+        "Tập trung vào chất lượng thay vì số lượng các lựa chọn",
+        "Giới hạn khả năng tiếp nhận để đạt được sự hài lòng",
+        "Sắp xếp các ưu tiên theo thứ tự từ quan trọng nhất",
+        "Chuẩn bị kỹ lưỡng trước khi bắt đầu bất kỳ công việc nào"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cái dĩa giới hạn số lượng món ăn, tượng trưng cho việc giới hạn số lượng ưu tiên để tránh quá tải và đạt được sự mãn nguyện thực sự."
+    }
+  ]
+}

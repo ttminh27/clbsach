@@ -1,0 +1,188 @@
+{
+  "bookId": "18phut",
+  "chapterId": "chuong_22_tung_chu_chim_mot",
+  "chapterTitle": "Chương 22: Từng Chú Chim Một",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao tác giả cho rằng việc có quá nhiều đầu việc lại dẫn đến trạng thái 'đông cứng' thay vì tăng hiệu suất làm việc?",
+      "options": [
+        "Do sự quá tải thông tin gây ức chế khả năng tư duy logic",
+        "Do thiếu kỹ năng quản lý thời gian để sắp xếp các công việc",
+        "Do áp lực thời gian khiến con người sợ hãi sự thất bại sớm",
+        "Do con người mất phương hướng khi không biết bắt đầu từ đâu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả nhấn mạnh khi có quá nhiều lựa chọn hoặc đầu việc, chúng ta không biết bắt đầu từ đâu, dẫn đến việc không thực hiện bất kỳ hành động nào."
+    },
+    {
+      "id": "q2",
+      "question": "Bài học cốt lõi từ nghiên cứu của Tiến sĩ Sheena Iyengar về các loại mứt được áp dụng vào quản lý công việc như thế nào?",
+      "options": [
+        "Càng nhiều lựa chọn thì càng dễ tìm thấy giải pháp tối ưu",
+        "Càng ít lựa chọn thì sự hài lòng với kết quả càng thấp đi",
+        "Càng nhiều lựa chọn thì chất lượng quyết định càng giảm sút",
+        "Càng ít lựa chọn thì khả năng đưa ra quyết định càng cao"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nghiên cứu cho thấy quá nhiều lựa chọn khiến con người bị tê liệt, trong khi ít lựa chọn hơn giúp tăng khả năng đưa ra quyết định thực tế."
+    },
+    {
+      "id": "q3",
+      "question": "Theo tác giả, tại sao danh sách công việc cần phải được gắn liền với 5 tiêu điểm của năm?",
+      "options": [
+        "Để đảm bảo mọi công việc đều được hoàn thành đúng hạn",
+        "Để đảm bảo thời gian được dùng cho những mục tiêu quan trọng",
+        "Để tạo ra sự cân bằng giữa công việc và cuộc sống cá nhân",
+        "Để giúp người làm việc cảm thấy tự tin hơn trong sự nghiệp"
+      ],
+      "correctIndex": 1,
+      "explanation": "Danh sách công việc là bản kế hoạch sử dụng thời gian; gắn nó với tiêu điểm giúp đảm bảo thời gian được đầu tư vào đúng mục đích ưu tiên."
+    },
+    {
+      "id": "q4",
+      "question": "Mục '5% còn lại' trong danh sách công việc của tác giả đóng vai trò quan trọng như thế nào?",
+      "options": [
+        "Là nơi tập hợp các công việc ưu tiên thấp để loại bỏ dần",
+        "Là nơi lưu trữ các ý tưởng sáng tạo chưa kịp triển khai ngay",
+        "Là nơi chứa các công việc vụn vặt nhưng cần thiết phải làm",
+        "Là nơi ghi chú các công việc khẩn cấp phát sinh trong ngày"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mục này dành cho các việc hành chính, vụn vặt không thuộc 5 tiêu điểm chính nhưng vẫn cần được xử lý để duy trì cuộc sống."
+    },
+    {
+      "id": "q5",
+      "question": "Khi phân tích danh sách công việc, nếu một tiêu điểm luôn trống rỗng trong thời gian dài, điều này phản ánh điều gì?",
+      "options": [
+        "Tiêu điểm đó không còn quan trọng đối với sự phát triển",
+        "Sự mất cân bằng trong việc phân bổ thời gian cho mục tiêu",
+        "Người thực hiện đang thiếu kỹ năng để triển khai tiêu điểm",
+        "Các công việc trong tiêu điểm đó quá khó để thực hiện ngay"
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc theo dõi danh sách giúp nhận diện xu hướng phân bổ thời gian; nếu một tiêu điểm trống rỗng, nghĩa là ta đang bỏ bê mục tiêu đó."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao tác giả khuyên nên loại bỏ những công việc không phù hợp với 5 tiêu điểm chính?",
+      "options": [
+        "Vì chúng thường là những công việc không mang lại lợi nhuận",
+        "Vì chúng làm tăng độ phức tạp cho hệ thống quản lý thời gian",
+        "Vì chúng làm lãng phí thời gian và gây xao nhãng mục tiêu",
+        "Vì chúng là nguyên nhân chính gây ra sự trì hoãn kéo dài"
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc thực hiện những việc không phục vụ mục tiêu chính sẽ khiến ta bận rộn nhưng không tiến bộ, gây lãng phí nguồn lực quý giá."
+    },
+    {
+      "id": "q7",
+      "question": "Lời khuyên 'Từng chú chim một' của người cha trong câu chuyện mang ý nghĩa chiến lược gì?",
+      "options": [
+        "Tìm kiếm sự trợ giúp từ người khác để giảm bớt áp lực",
+        "Ưu tiên giải quyết các vấn đề khó khăn nhất trước tiên",
+        "Tập trung hoàn toàn vào một mục tiêu duy nhất mỗi ngày",
+        "Chia nhỏ vấn đề lớn thành các phần nhỏ dễ thực hiện"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đây là phương pháp chia nhỏ công việc (chia để trị) giúp vượt qua trạng thái đông cứng khi đối mặt với khối lượng công việc khổng lồ."
+    },
+    {
+      "id": "q8",
+      "question": "Theo tác giả, danh sách công việc cần làm có thể trở thành một gánh nặng khi nào?",
+      "options": [
+        "Khi cấu trúc của nó quá phức tạp và khó để duy trì hàng ngày",
+        "Khi nó chứa quá nhiều đầu việc không liên quan đến nhau",
+        "Khi nó không được cập nhật thường xuyên theo tiến độ thực",
+        "Khi nó không phản ánh đúng năng lực thực tế của cá nhân"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nếu hệ thống danh sách quá phức tạp, chính việc lập danh sách sẽ trở thành một công việc gây quá tải, đi ngược lại mục đích ban đầu."
+    },
+    {
+      "id": "q9",
+      "question": "Việc so sánh giữa hai cuộc họp quan trọng dựa trên danh sách công việc giúp ích gì cho người quản lý?",
+      "options": [
+        "Giúp cân bằng lại các tiêu điểm đang bị lơ là trong thời gian",
+        "Giúp xác định cuộc họp nào mang lại hiệu quả cao hơn",
+        "Giúp tiết kiệm thời gian di chuyển giữa các địa điểm họp",
+        "Giúp ưu tiên cuộc họp có sự tham gia của cấp trên trực tiếp"
+      ],
+      "correctIndex": 0,
+      "explanation": "Danh sách giúp nhìn thấy xu hướng phân bổ thời gian, từ đó giúp đưa ra quyết định chọn việc nào để cân bằng lại các tiêu điểm quan trọng."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao tác giả cho rằng việc chỉ nói muốn tập trung mà không dành thời gian cho nó là 'vô nghĩa'?",
+      "options": [
+        "Vì lời nói không có giá trị bằng hành động thực tế cụ thể",
+        "Vì sự tập trung đòi hỏi sự cam kết về mặt thời gian thực tế",
+        "Vì ý định tốt đẹp không thể thay thế cho kết quả công việc",
+        "Vì thời gian là nguồn lực hữu hạn cần được phân bổ rõ ràng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả khẳng định danh sách việc cần làm là bản kế hoạch thời gian; nếu không dành thời gian cụ thể, mục tiêu chỉ là lý thuyết suông."
+    },
+    {
+      "id": "q11",
+      "question": "Khi nhận thấy mục '5% còn lại' luôn đầy và tốn quá nhiều thời gian, tác giả gợi ý giải pháp nào?",
+      "options": [
+        "Cắt giảm bớt các công việc trong mục tiêu chính để bù vào",
+        "Tìm cách thuê nhân sự hỗ trợ hoặc trì hoãn các việc đó lại",
+        "Tự động hóa toàn bộ các công việc giấy tờ trong danh sách",
+        "Chấp nhận dành nhiều thời gian hơn cho các việc hành chính"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi các việc vụn vặt chiếm quá nhiều thời gian, đó là dấu hiệu cần thay đổi cách xử lý như thuê người hỗ trợ hoặc trì hoãn để tối ưu hóa."
+    },
+    {
+      "id": "q12",
+      "question": "Trạng thái 'bận rộn khủng khiếp' của Fiorella sau khi được tư vấn khác với trạng thái ban đầu như thế nào?",
+      "options": [
+        "Cô ấy không còn cảm thấy áp lực từ khối lượng công việc",
+        "Cô ấy đã biết cách từ chối các công việc không quan trọng",
+        "Cô ấy không còn bị đông cứng và biết rõ việc cần bắt đầu",
+        "Cô ấy đã hoàn thành được nhiều việc hơn trong cùng thời gian"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự khác biệt nằm ở tâm thế: không còn bị tê liệt (đông cứng) mà có sự định hướng rõ ràng để bắt đầu thực hiện từng việc một."
+    },
+    {
+      "id": "q13",
+      "question": "Cách tiếp cận 'thanh toán nợ thẻ tín dụng' được tác giả dùng để minh họa cho điều gì?",
+      "options": [
+        "Cách giải quyết các vấn đề lớn thông qua các bước nhỏ đều đặn",
+        "Sự cần thiết của việc trả nợ đúng hạn để tránh lãi suất",
+        "Tầm quan trọng của việc quản lý tài chính cá nhân chặt chẽ",
+        "Sự kiên trì cần thiết để đạt được các mục tiêu dài hạn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả dùng ví dụ này để minh họa rằng các vấn đề lớn (nợ hoặc công việc) chỉ có thể giải quyết bằng cách thực hiện từng bước nhỏ đều đặn."
+    },
+    {
+      "id": "q14",
+      "question": "Mục tiêu cuối cùng của việc sắp xếp công việc vào 6 hạng mục (5 tiêu điểm + 5% còn lại) là gì?",
+      "options": [
+        "Giảm bớt sự quá tải và đảm bảo thời gian cho mục tiêu năm",
+        "Tăng số lượng công việc hoàn thành trong một ngày làm việc",
+        "Tạo ra một hệ thống báo cáo công việc chuyên nghiệp hơn",
+        "Giúp người làm việc có thời gian nghỉ ngơi nhiều hơn mỗi ngày"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc này giúp xua tan màn sương quá tải và đảm bảo rằng thời gian được sử dụng cho những mục tiêu quan trọng nhất trong năm."
+    },
+    {
+      "id": "q15",
+      "question": "Tại sao tác giả cho rằng việc dành thời gian cho gia đình và viết lách giúp ông chăm sóc bản thân?",
+      "options": [
+        "Vì chúng giúp ông cân bằng giữa công việc và cuộc sống",
+        "Vì chúng là những hoạt động giải trí lành mạnh cần thiết",
+        "Vì chúng mang lại nguồn năng lượng dồi dào cho cá nhân ông",
+        "Vì chúng giúp ông giảm bớt căng thẳng từ khách hàng hiện tại"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả lưu ý rằng các hoạt động này không chỉ là công việc mà còn là nguồn cung cấp năng lượng, giúp ông tái tạo sức lao động."
+    }
+  ]
+}

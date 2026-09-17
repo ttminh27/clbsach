@@ -1,0 +1,188 @@
+{
+  "bookId": "18phut",
+  "chapterId": "chuong_42_ban_co_phe_thuoc_khi_dang_lam_viec_khong",
+  "chapterTitle": "Chương 42: Bạn Có Phê Thuốc Khi Đang Làm Việc Không?",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao tác giả cho rằng việc luyện tập làm nhiều việc cùng lúc không giúp chúng ta trở nên giỏi hơn?",
+      "options": [
+        "Vì luyện tập càng nhiều càng khiến hiệu suất giảm sút hơn",
+        "Vì sự tập trung bị phân tán làm giảm khả năng tư duy sâu",
+        "Vì não bộ con người không được thiết kế để xử lý đa nhiệm",
+        "Vì đa nhiệm tạo ra thói quen xấu khó bỏ trong công việc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh nghịch lý rằng trái ngược với các kỹ năng khác, việc luyện tập đa nhiệm càng nhiều thì khả năng thực hiện càng kém đi, hiệu suất giảm đến 40%."
+    },
+    {
+      "id": "q2",
+      "question": "Theo tác giả, cảm giác 'năng lực trí tuệ dư thừa' khi làm việc là một ảo tưởng vì lý do gì?",
+      "options": [
+        "Nó là sự xao nhãng tiềm ẩn gây ra bởi các thiết bị điện tử",
+        "Nó là năng lượng dự phòng cần thiết cho các tình huống khẩn",
+        "Nó bị lãng phí do chúng ta không biết cách tận dụng tối đa",
+        "Nó thực chất đang được dùng để xử lý các tín hiệu xung quanh"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả giải thích rằng năng lực đó đang được dùng để đánh giá tình huống và duy trì kết nối với môi trường, không phải là năng lực dư thừa."
+    },
+    {
+      "id": "q3",
+      "question": "Lợi ích lớn nhất của việc thực hiện mỗi lần một việc (đơn nhiệm) đối với tâm lý là gì?",
+      "options": [
+        "Giúp hoàn thành công việc nhanh hơn dự kiến ban đầu",
+        "Giảm đáng kể áp lực và căng thẳng trong quá trình làm",
+        "Tăng cường khả năng sáng tạo trong các dự án khó",
+        "Giúp xây dựng mối quan hệ tốt hơn với đồng nghiệp"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả khẳng định việc đơn nhiệm giúp giải thoát khỏi áp lực tung hứng nhiều việc, mang lại cảm giác thanh thản và yên tâm hơn."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao tác giả lại đề xuất đặt ra các thời hạn (deadline) ngắn đến mức 'không thực tế'?",
+      "options": [
+        "Để tạo áp lực buộc não bộ phải tập trung cao độ nhất",
+        "Để kiểm tra giới hạn chịu đựng của bản thân trong công việc",
+        "Để loại bỏ các công việc không quan trọng khỏi lịch trình",
+        "Để ép buộc bản thân phải từ bỏ thói quen làm đa nhiệm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thời hạn gấp rút buộc chúng ta phải tập trung toàn bộ nguồn lực vào nhiệm vụ hiện tại, khiến việc đa nhiệm trở nên không thể thực hiện được."
+    },
+    {
+      "id": "q5",
+      "question": "Tác giả nhận thấy sự thay đổi nào trong thái độ của mình đối với các cuộc họp sau khi thực hiện đơn nhiệm?",
+      "options": [
+        "Trở nên kiên nhẫn hơn với các ý kiến trái chiều khác",
+        "Dễ dàng chấp nhận các cuộc họp kéo dài quá thời gian",
+        "Tập trung ghi chép chi tiết hơn để không bỏ sót thông tin",
+        "Cảm thấy dễ chán hơn với các cuộc đối thoại vô nghĩa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi tập trung hoàn toàn, tác giả trở nên nhạy bén hơn với thời gian và không thể chịu đựng được những cuộc họp lòng vòng, vô nghĩa."
+    },
+    {
+      "id": "q6",
+      "question": "Việc tác giả tắt điện thoại khi ở bên con cái mang lại giá trị cốt lõi nào?",
+      "options": [
+        "Giúp ông hoàn thành công việc nhanh hơn khi quay lại",
+        "Tạo ra sự kết nối sâu sắc và hiện diện trọn vẹn bên con",
+        "Giúp ông nhận ra vẻ đẹp của thiên nhiên xung quanh mình",
+        "Giảm bớt sự căng thẳng sau một ngày làm việc mệt mỏi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh rằng việc không bị xao nhãng giúp ông gắn bó sâu sắc hơn với con cái, thay vì chỉ hiện diện về mặt thể xác."
+    },
+    {
+      "id": "q7",
+      "question": "Theo nghiên cứu được trích dẫn, tác động của việc bị gián đoạn liên tục tương đương với điều gì?",
+      "options": [
+        "Giảm chỉ số thông minh tương đương một đêm mất ngủ",
+        "Mất đi khả năng tư duy logic trong vòng một giờ",
+        "Tương đương với việc sử dụng chất kích thích mạnh",
+        "Gây ra sự suy giảm trí nhớ ngắn hạn nghiêm trọng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nghiên cứu cho thấy mất tập trung do email/điện thoại làm giảm 10 điểm IQ, tương đương với hậu quả của một đêm mất ngủ."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao tác giả cho rằng việc không đa nhiệm không có 'mặt trái'?",
+      "options": [
+        "Vì mọi công việc đều được hoàn thành đúng hạn định",
+        "Vì không có dự án nào bị bỏ ngang hay ai cảm thấy phiền",
+        "Vì nó giúp tăng năng suất làm việc lên gấp nhiều lần",
+        "Vì nó không đòi hỏi sự nỗ lực quá lớn từ cá nhân"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhận thấy không ai tức giận khi ông không trả lời ngay lập tức, và không có dự án nào bị ảnh hưởng tiêu cực bởi việc tập trung đơn nhiệm."
+    },
+    {
+      "id": "q9",
+      "question": "Cách tiếp cận của tác giả đối với việc viết lách vào lúc 6 giờ sáng thể hiện chiến lược nào?",
+      "options": [
+        "Tận dụng thời điểm não bộ hoạt động hiệu quả nhất",
+        "Ưu tiên hoàn thành các việc khó trước khi bắt đầu ngày mới",
+        "Loại bỏ hoàn toàn các yếu tố gây xao nhãng từ môi trường",
+        "Tạo ra một thói quen kỷ luật để rèn luyện sự tập trung"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bằng cách ngắt kết nối mạng và tắt điện thoại, tác giả chủ động loại bỏ các nguồn gây xao nhãng để đảm bảo sự tập trung tuyệt đối."
+    },
+    {
+      "id": "q10",
+      "question": "Khi nói về việc 'sử dụng sự mất kiên nhẫn như một lợi thế', tác giả muốn ám chỉ điều gì?",
+      "options": [
+        "Sự mất kiên nhẫn giúp ta nhận ra việc gì là không đáng làm",
+        "Sự mất kiên nhẫn là động lực để cải thiện quy trình làm việc",
+        "Sự mất kiên nhẫn giúp chúng ta hoàn thành việc nhanh hơn",
+        "Sự mất kiên nhẫn là dấu hiệu của người làm việc hiệu quả"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự mất kiên nhẫn giúp tác giả nhận diện nhanh chóng những công việc lãng phí thời gian, từ đó tập trung vào những việc thực sự hữu ích."
+    },
+    {
+      "id": "q11",
+      "question": "Tác giả thừa nhận đôi khi vẫn đa nhiệm (như khi con trai vào phòng). Điều này cho thấy quan điểm gì?",
+      "options": [
+        "Con người không thể hoàn hảo trong việc kiểm soát bản thân",
+        "Đa nhiệm đôi khi là lựa chọn bắt buộc trong cuộc sống",
+        "Sự linh hoạt là cần thiết để cân bằng giữa sống và làm",
+        "Công việc không phải lúc nào cũng quan trọng hơn gia đình"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả thừa nhận sự không hoàn hảo và cho thấy rằng đôi khi việc đa nhiệm là sự đánh đổi cần thiết để cân bằng các giá trị cuộc sống."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao chúng ta thường khó kháng cự lại ham muốn làm nhiều việc cùng một lúc?",
+      "options": [
+        "Vì chúng ta sợ bỏ lỡ những thông tin quan trọng khác",
+        "Vì môi trường làm việc hiện đại đòi hỏi sự phản hồi nhanh",
+        "Vì bộ não con người có tốc độ xử lý nhanh hơn thế giới",
+        "Vì chúng ta tin rằng mình có khả năng đa nhiệm giỏi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả cho rằng vì não bộ xử lý nhanh hơn tốc độ thế giới bên ngoài, chúng ta lầm tưởng mình có năng lực dư thừa để làm thêm việc khác."
+    },
+    {
+      "id": "q13",
+      "question": "Theo tác giả, việc thực hiện mỗi lần một việc mang lại kết quả gì cho các công việc khó?",
+      "options": [
+        "Giúp hoàn thành chúng với chất lượng cao nhất",
+        "Cho phép chia nhỏ công việc để xử lý dễ dàng hơn",
+        "Giúp giảm bớt sự sợ hãi đối với các dự án phức tạp",
+        "Tạo ra bước tiến vượt bậc nhờ sự tập trung kiên trì"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả nhận thấy việc cự tuyệt sự xao nhãng giúp ông tiến bộ đáng kể trong các công việc đòi hỏi tư duy sâu và sự kiên trì."
+    },
+    {
+      "id": "q14",
+      "question": "Thông điệp chính mà tác giả muốn truyền tải qua chương này là gì?",
+      "options": [
+        "Đa nhiệm là nguyên nhân gây ra mọi sự thất bại",
+        "Hãy tập trung vào một việc để đạt hiệu quả tối ưu",
+        "Đừng bao giờ làm việc khi đang ở cùng gia đình",
+        "Hãy rèn luyện não bộ để có thể đa nhiệm tốt hơn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Xuyên suốt chương sách, tác giả lập luận rằng đa nhiệm không hiệu quả và khuyến khích người đọc tập trung vào từng việc một để đạt kết quả tốt nhất."
+    },
+    {
+      "id": "q15",
+      "question": "Tại sao tác giả cho rằng việc thực hiện công việc trong thời hạn ngắn hơn lại giúp giảm căng thẳng?",
+      "options": [
+        "Vì nó giúp chúng ta hoàn thành công việc sớm hơn dự định",
+        "Vì nó tạo ra cảm giác chiến thắng khi vượt qua thử thách",
+        "Vì nó loại bỏ áp lực của việc phải tung hứng nhiều việc",
+        "Vì nó giúp chúng ta có nhiều thời gian nghỉ ngơi hơn sau đó"
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi tập trung vào một việc để đáp ứng thời hạn ngắn, ta thoát khỏi áp lực của việc đa nhiệm, từ đó cảm thấy thư giãn hơn thay vì căng thẳng."
+    }
+  ]
+}

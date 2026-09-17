@@ -1,0 +1,188 @@
+{
+  "bookId": "18phut",
+  "chapterId": "chuong_29_di_chuyen_cai_ban",
+  "chapterTitle": "Chương 29: Di Chuyển Cái Bàn",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo tác giả, sai lầm phổ biến nhất khi muốn thay đổi hành vi của con người là gì?",
+      "options": [
+        "Cố gắng thay đổi ý chí cá nhân",
+        "Thiếu sự giám sát chặt chẽ",
+        "Không đưa ra hình phạt đủ mạnh",
+        "Thiếu các hướng dẫn cụ thể"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh rằng thay vì đấu tranh với bản thân hoặc ép buộc người khác, ta nên thay đổi môi trường để hành vi mong muốn trở nên dễ dàng thực hiện hơn."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao việc 'di chuyển cái bàn' lại hiệu quả hơn việc cố gắng thay đổi thói quen ăn uống?",
+      "options": [
+        "Nó giúp tiết kiệm thời gian hơn",
+        "Nó làm giảm chi phí mua sắm đồ",
+        "Nó tạo ra sự mới mẻ cho không gian",
+        "Nó loại bỏ rào cản vật lý gây khó"
+      ],
+      "correctIndex": 3,
+      "explanation": "Việc di chuyển cái bàn rút ngắn khoảng cách, loại bỏ rào cản khiến hành vi trở nên tự nhiên và dễ dàng hơn mà không cần nỗ lực ý chí."
+    },
+    {
+      "id": "q3",
+      "question": "Bài học rút ra từ ví dụ về con sư tử tại Disney là gì?",
+      "options": [
+        "Sự huấn luyện nghiêm ngặt cần thiết",
+        "Sự kiên nhẫn của người quản lý thú",
+        "Thiết kế môi trường theo nhu cầu",
+        "Sự ngẫu nhiên trong hành vi động vật"
+      ],
+      "correctIndex": 2,
+      "explanation": "Con sư tử ở yên vị trí không phải do huấn luyện mà do tảng đá được điều chỉnh nhiệt độ, biến nơi đó thành nơi nó tự nguyện muốn ở lại."
+    },
+    {
+      "id": "q4",
+      "question": "Khi muốn nhân viên lễ tân thân thiện hơn, giải pháp nào là tối ưu theo tư duy của tác giả?",
+      "options": [
+        "Tăng lương để tạo động lực",
+        "Huấn luyện kỹ năng giao tiếp",
+        "Yêu cầu báo cáo thái độ hàng ngày",
+        "Dỡ bỏ tấm kính ngăn cách"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tấm kính là rào cản vật lý tạo ra khoảng cách tâm lý. Dỡ bỏ nó là thay đổi môi trường để hành vi thân thiện tự nhiên xuất hiện."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao việc thay đổi hệ thống chấm công lại hiệu quả hơn việc ra lệnh bắt buộc?",
+      "options": [
+        "Nó giúp giảm bớt sự chống đối",
+        "Nó làm cho quy trình dễ thực hiện",
+        "Nó tăng tính minh bạch dữ liệu",
+        "Nó giúp tiết kiệm ngân sách công ty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi hệ thống được tối ưu hóa, rào cản về thời gian và thao tác bị loại bỏ, giúp nhân viên thực hiện nhiệm vụ mà không cảm thấy bị làm phiền."
+    },
+    {
+      "id": "q6",
+      "question": "Thông điệp chính về việc 'thao túng' môi trường trong chương này là gì?",
+      "options": [
+        "Tạo điều kiện cho hành vi tốt",
+        "Kiểm soát hành vi người khác",
+        "Tăng cường hiệu suất làm việc",
+        "Giảm thiểu sai sót trong công việc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả sử dụng từ 'thao túng' với nghĩa tích cực là thiết kế môi trường để giúp người khác thực hiện những hành vi có lợi cho họ một cách dễ dàng."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao các công ty gửi catalog sản phẩm vào đúng các dịp lễ đặc biệt?",
+      "options": [
+        "Để tận dụng thời điểm nhu cầu",
+        "Để nhắc nhở khách hàng mua sắm",
+        "Để quảng bá thương hiệu rộng",
+        "Để cạnh tranh với đối thủ khác"
+      ],
+      "correctIndex": 0,
+      "explanation": "Họ hiểu rằng môi trường (sự xuất hiện của catalog) cần xuất hiện đúng lúc khách hàng có ý định mua để tối ưu hóa khả năng chuyển đổi hành vi."
+    },
+    {
+      "id": "q8",
+      "question": "Trong ví dụ về lớp học, tại sao việc sắp xếp lại ghế thành hình bán nguyệt lại hiệu quả?",
+      "options": [
+        "Nó giúp giáo viên quản lý tốt",
+        "Nó giúp sinh viên tập trung hơn",
+        "Nó tạo không gian trao đổi mở",
+        "Nó làm lớp học trông rộng hơn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc thay đổi vị trí ngồi giúp sinh viên đối diện với nhau, từ đó thay đổi tương tác xã hội mà không cần giáo viên phải nhắc nhở hay ra lệnh."
+    },
+    {
+      "id": "q9",
+      "question": "Yếu tố nào quyết định hành động của con người theo Brian Wansink?",
+      "options": [
+        "Ý chí và sự quyết tâm cá nhân",
+        "Mục tiêu dài hạn của bản thân",
+        "Sự giáo dục từ gia đình nhà trường",
+        "Các chi tiết nhỏ trong môi trường"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nghiên cứu của Wansink chỉ ra rằng các chi tiết nhỏ (kích thước đĩa, khoảng cách) thường là tác nhân chính dẫn dắt hành vi thay vì ý chí."
+    },
+    {
+      "id": "q10",
+      "question": "Nếu bạn muốn ăn ít hơn, chiến lược nào sau đây là phù hợp nhất?",
+      "options": [
+        "Tự nhủ phải ăn ít lại mỗi ngày",
+        "Sử dụng những chiếc đĩa nhỏ hơn",
+        "Ghi chép lại lượng calo tiêu thụ",
+        "Tránh xa các loại thực phẩm ngon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thay đổi kích thước đĩa là thay đổi môi trường, giúp giảm lượng ăn một cách tự nhiên mà không cần dùng đến ý chí để kiềm chế bản thân."
+    },
+    {
+      "id": "q11",
+      "question": "Khi một nhóm không trao đổi với nhau, giải pháp nào là 'phá vỡ bức tường' hiệu quả?",
+      "options": [
+        "Tổ chức họp nhóm định kỳ hàng tuần",
+        "Yêu cầu mọi người phải chủ động hơn",
+        "Thay đổi cấu trúc không gian làm việc",
+        "Đưa ra các quy định về giao tiếp"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thay đổi cấu trúc không gian là cách tiếp cận trực tiếp vào môi trường để thay đổi hành vi tương tác của các thành viên trong nhóm."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao việc thanh thiếu niên sống gần cửa hàng rượu lại làm tăng khả năng uống rượu?",
+      "options": [
+        "Do sự tò mò của lứa tuổi teen",
+        "Do sự thiếu hụt giáo dục gia đình",
+        "Do sự thuận tiện của môi trường",
+        "Do sự lôi kéo từ bạn bè xung quanh"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự thuận tiện (khoảng cách gần) là yếu tố môi trường định hướng hành động, làm giảm rào cản thực hiện hành vi xấu."
+    },
+    {
+      "id": "q13",
+      "question": "Tác giả định nghĩa mục tiêu tối thượng của việc thiết kế môi trường là gì?",
+      "options": [
+        "Loại bỏ hoàn toàn các hành vi xấu",
+        "Làm cho hành vi tốt dễ thực hiện",
+        "Tăng cường sự kiểm soát lãnh đạo",
+        "Tối ưu hóa năng suất lao động"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mục tiêu là tạo điều kiện để những gì bạn muốn thực hiện trở nên dễ dàng, và những gì bạn không muốn trở nên khó khăn để thực hiện."
+    },
+    {
+      "id": "q14",
+      "question": "Khi đối mặt với sự chống đối của nhân viên, tư duy nào cần được thay đổi?",
+      "options": [
+        "Cần xem xét lại rào cản hệ thống",
+        "Cần áp đặt kỷ luật nghiêm khắc",
+        "Cần thay đổi nhân sự không phù hợp",
+        "Cần truyền đạt mục tiêu rõ ràng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự chống đối thường xuất phát từ việc hệ thống gây khó khăn, thay vì đổ lỗi cho thái độ, hãy xem xét lại cách hệ thống vận hành."
+    },
+    {
+      "id": "q15",
+      "question": "Câu nói nào tóm tắt đúng nhất triết lý của chương 'Di chuyển cái bàn'?",
+      "options": [
+        "Ý chí là chìa khóa của thành công",
+        "Môi trường định hướng hành động bạn",
+        "Kỷ luật là sức mạnh của con người",
+        "Thay đổi bản thân trước khi thay đổi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Toàn bộ chương sách chứng minh rằng môi trường xung quanh là yếu tố quyết định hành động, do đó thay đổi môi trường là cách hiệu quả nhất để thay đổi hành vi."
+    }
+  ]
+}

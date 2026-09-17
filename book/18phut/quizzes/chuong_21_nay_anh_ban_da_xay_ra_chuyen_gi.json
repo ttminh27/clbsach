@@ -1,0 +1,188 @@
+{
+  "bookId": "18phut",
+  "chapterId": "chuong_21_nay_anh_ban_da_xay_ra_chuyen_gi",
+  "chapterTitle": "Chương 21: Này Anh Bạn, Đã Xảy Ra Chuyện Gì?",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao tác giả lại thất bại liên tục khi cố gắng vượt qua tảng đá trên con dốc?",
+      "options": [
+        "Do kỹ năng điều khiển xe đạp của ông quá kém",
+        "Do chiếc xe đạp không phù hợp với địa hình dốc",
+        "Do ông quá tập trung vào chướng ngại vật phía trước",
+        "Do ông thiếu sự hướng dẫn từ người bạn đồng hành"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả thất bại vì sự tập trung vào tảng đá khiến ông vô thức bóp thắng, làm giảm tốc độ cần thiết. Các phương án khác không phải là nguyên nhân cốt lõi dẫn đến hành vi sai lầm này."
+    },
+    {
+      "id": "q2",
+      "question": "Bài học lớn nhất rút ra từ trải nghiệm lái xe đạp của tác giả là gì?",
+      "options": [
+        "Cần phải dũng cảm đối mặt với mọi khó khăn",
+        "Cần kiên trì lặp lại hành động cho đến khi ổn",
+        "Cần lắng nghe lời khuyên từ những người giỏi",
+        "Cần tập trung vào mục tiêu thay vì chướng ngại"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả nhận ra rằng việc nhìn vào mục tiêu phía trước giúp ông vượt qua chướng ngại vật. Tập trung vào chướng ngại vật chỉ khiến ta bị mắc kẹt, không phải là sự kiên trì mù quáng."
+    },
+    {
+      "id": "q3",
+      "question": "Trong bối cảnh quản lý công việc, việc 'tập trung vào hiện tại' quá mức có thể gây ra hệ quả gì?",
+      "options": [
+        "Giúp công việc hoàn thành nhanh chóng hơn",
+        "Tạo ra sự cân bằng giữa công việc và đời sống",
+        "Khiến ta mất khả năng định hướng dài hạn",
+        "Giảm bớt áp lực từ những kỳ vọng tương lai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả lập luận rằng nếu chỉ làm những việc trước mắt mà không nhìn xa, ta sẽ rơi vào trạng thái bị động, làm việc không theo ưu tiên và dễ bỏ lỡ mục tiêu quan trọng."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao tác giả cho rằng việc lái xe ô tô là một phép ẩn dụ hoàn hảo cho quản lý thời gian?",
+      "options": [
+        "Vì lái xe đòi hỏi tầm nhìn xa để điều hướng tốt",
+        "Vì lái xe cần sự phối hợp nhịp nhàng của cơ thể",
+        "Vì lái xe đòi hỏi sự tập trung cao độ liên tục",
+        "Vì lái xe là kỹ năng cơ bản cần phải học ngay"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lái xe yêu cầu người lái nhìn về phía trước để điều khiển xe qua các khúc cua, tương tự như việc lập kế hoạch để điều hướng công việc trong ngày một cách hiệu quả."
+    },
+    {
+      "id": "q5",
+      "question": "Khi tác giả nói 'đã xảy ra chuyện gì', ông đang muốn ám chỉ điều gì về tư duy của con người?",
+      "options": [
+        "Sự bất ngờ trước những rủi ro khách quan",
+        "Sự thiếu hiểu biết về nguyên nhân thất bại",
+        "Sự thiếu hụt kỹ năng xử lý tình huống khó",
+        "Sự thiếu kiên nhẫn khi đối mặt thử thách"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi này phản ánh việc chúng ta thường không nhận ra hành vi vô thức của chính mình (như việc bóp thắng) là nguyên nhân thực sự gây ra thất bại trong các tình huống khó khăn."
+    },
+    {
+      "id": "q6",
+      "question": "Chiến lược nào giúp tác giả vượt qua tảng đá thành công trong lần thử cuối cùng?",
+      "options": [
+        "Tăng tốc độ xe đạp lên mức tối đa có thể",
+        "Dừng lại quan sát kỹ tảng đá trước khi vượt",
+        "Nhờ người bạn Win hỗ trợ đẩy xe qua tảng đá",
+        "Thay đổi vị trí tập trung mắt nhìn về phía trước"
+      ],
+      "correctIndex": 3,
+      "explanation": "Việc dời điểm nhìn ra xa 3 mét giúp tác giả không bị ám ảnh bởi tảng đá, từ đó duy trì được tốc độ cần thiết để vượt qua nó một cách an toàn."
+    },
+    {
+      "id": "q7",
+      "question": "Theo tác giả, việc 'sống trong hiện tại' có thể trở thành một chướng ngại vật khi nào?",
+      "options": [
+        "Khi ta đang tận hưởng những giây phút thư giãn",
+        "Khi ta cần đưa ra quyết định mang tính chiến lược",
+        "Khi ta cần thực hiện các công việc lặp lại đơn",
+        "Khi ta đang đối mặt với những nỗi đau quá khứ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sống trong hiện tại là tốt, nhưng nếu thiếu tầm nhìn chiến lược (tương lai), ta sẽ bị cuốn vào những việc vụn vặt trước mắt mà quên đi mục tiêu dài hạn cần đạt được."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao việc ưu tiên công việc dựa trên 'người đứng trước mặt' lại là một sai lầm?",
+      "options": [
+        "Vì nó làm mất thời gian của người khác",
+        "Vì nó khiến ta không thể hoàn thành việc",
+        "Vì nó gây ra sự khó chịu cho đồng nghiệp",
+        "Vì nó không dựa trên kế hoạch ưu tiên đúng"
+      ],
+      "correctIndex": 3,
+      "explanation": "Việc phản ứng với người đứng trước mặt là hành vi bị động. Tác giả cho rằng cần phải bám sát kế hoạch đã định thay vì để người khác chi phối sự ưu tiên của mình."
+    },
+    {
+      "id": "q9",
+      "question": "Thông điệp chính của chương sách này về việc lập kế hoạch là gì?",
+      "options": [
+        "Lập kế hoạch giúp giảm bớt sự căng thẳng",
+        "Lập kế hoạch giúp ta lèo lái ngày hiệu quả",
+        "Lập kế hoạch giúp ta kiểm soát mọi tình huống",
+        "Lập kế hoạch là chìa khóa của sự thành công"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh việc lập kế hoạch trước giống như việc nhìn về phía trước khi lái xe, giúp ta điều hướng ngày làm việc một cách chủ động và hiệu quả hơn."
+    },
+    {
+      "id": "q10",
+      "question": "Trong ngữ cảnh chương sách, 'tảng đá' tượng trưng cho điều gì trong công việc?",
+      "options": [
+        "Những khó khăn không thể nào tránh khỏi",
+        "Những chướng ngại vật do chính ta tạo ra",
+        "Những mục tiêu lớn cần phải vượt qua ngay",
+        "Những sự cố bất ngờ từ phía khách hàng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tảng đá là chướng ngại vật mà chính tác giả đã vô thức làm cho nó trở nên không thể vượt qua bằng cách bóp thắng. Nó tượng trưng cho những rào cản tâm lý hoặc thói quen xấu."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao tác giả lại nhấn mạnh việc 'không nghĩ đến cuộc họp cho đến khi ở trong đó' là một vấn đề?",
+      "options": [
+        "Vì nó làm giảm sự chuẩn bị cần thiết trước đó",
+        "Vì nó khiến ta không thể tập trung vào cuộc họp",
+        "Vì nó làm ta trễ giờ so với lịch trình dự kiến",
+        "Vì nó làm giảm uy tín với đối tác tham gia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Việc chỉ nghĩ đến việc khi nó xảy ra cho thấy sự thiếu chuẩn bị và thiếu tầm nhìn xa, khiến ta không thể kiểm soát được kết quả công việc một cách chủ động."
+    },
+    {
+      "id": "q12",
+      "question": "Sự khác biệt giữa người lái xe giỏi và người lái xe kém theo góc nhìn của tác giả là gì?",
+      "options": [
+        "Người giỏi có kỹ năng xử lý tình huống nhanh",
+        "Người giỏi biết cách tránh các con đường khó",
+        "Người giỏi luôn nhìn về phía trước để điều hướng",
+        "Người giỏi luôn giữ tốc độ ổn định mọi lúc"
+      ],
+      "correctIndex": 2,
+      "explanation": "Người lái xe giỏi luôn nhìn xa về phía trước để điều khiển xe dựa trên những gì họ thấy ở tương lai, thay vì chỉ phản ứng với những gì ngay trước mắt."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao tác giả lại cần phải lặp lại việc đạp xe 5 lần?",
+      "options": [
+        "Vì ông cần tìm ra nguyên nhân gây ra thất bại",
+        "Vì ông muốn chứng minh mình không sợ hãi",
+        "Vì ông muốn rèn luyện thể lực cho bản thân",
+        "Vì ông muốn làm hài lòng người bạn đồng hành"
+      ],
+      "correctIndex": 0,
+      "explanation": "Việc lặp lại là quá trình thử nghiệm và quan sát để tìm ra nguyên nhân thực sự (hành vi bóp thắng vô thức) khiến ông liên tục thất bại."
+    },
+    {
+      "id": "q14",
+      "question": "Cách tiếp cận công việc nào được tác giả khuyến khích sau khi rút ra bài học?",
+      "options": [
+        "Phản ứng linh hoạt với mọi yêu cầu mới",
+        "Tập trung tối đa vào việc đang làm hiện tại",
+        "Lập kế hoạch trước và bám sát mục tiêu đó",
+        "Chờ đợi cơ hội đến rồi mới bắt đầu hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả khuyên nên lập kế hoạch trước để có thể lèo lái ngày làm việc thành công, thay vì chỉ phản ứng với những yêu cầu ngẫu nhiên xuất hiện."
+    },
+    {
+      "id": "q15",
+      "question": "Câu nói 'Đừng nuối tiếc quá khứ; đừng lo lắng tương lai' được tác giả đánh giá như thế nào?",
+      "options": [
+        "Là một quan điểm cần được xem xét lại kỹ",
+        "Là triết lý sống hoàn hảo cho mọi cá nhân",
+        "Là nguyên nhân gây ra sự thất bại trong đời",
+        "Là cách tốt nhất để đạt được sự an nhiên"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả công nhận giá trị của việc sống trong hiện tại nhưng cảnh báo rằng nếu áp dụng cực đoan, nó sẽ trở thành chướng ngại vật vì thiếu tầm nhìn xa cần thiết."
+    }
+  ]
+}

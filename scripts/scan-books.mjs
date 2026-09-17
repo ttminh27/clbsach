@@ -246,6 +246,34 @@ const placeholderMetadata = {
     gradient: "from-amber-600 via-yellow-600 to-amber-900",
     themeColor: "#b45309",
     status: "available"
+  },
+  "18phut": {
+    title: "18 Phút",
+    originalTitle: "18 Minutes: Find Your Focus, Master Distraction, and Get the Right Things Done",
+    author: "Peter Bregman",
+    authorBio: "Chuyên gia tư vấn lãnh đạo hàng đầu thế giới, CEO công ty tư vấn Bregman Partners và tác giả quen thuộc trên Harvard Business Review, Forbes, Fast Company.",
+    quote: "Cách tốt nhất để chống lại sự phân tâm không hữu ích là tạo ra những sự phân tâm hữu ích.",
+    translator: "Uông Xuân Vy & Trần Đăng Khoa",
+    category: "Quản lý thời gian & Hiệu suất cá nhân",
+    tags: ["18 Phút", "Quản lý thời gian", "Tập trung", "Hiệu suất", "Mục tiêu", "Kỷ luật", "Phát triển bản thân"],
+    description: "Cuốn cẩm nang kinh điển về quản lý thời gian và năng lượng: làm chủ sự xao nhãng, xác định 5 trọng tâm lớn cho cả năm và thiết lập quy trình 18 phút mỗi ngày để hoàn thành những việc quan trọng nhất.",
+    gradient: "from-amber-600 via-orange-600 to-red-700",
+    themeColor: "#ea580c",
+    status: "available"
+  },
+  "18Phut": {
+    title: "18 Phút",
+    originalTitle: "18 Minutes: Find Your Focus, Master Distraction, and Get the Right Things Done",
+    author: "Peter Bregman",
+    authorBio: "Chuyên gia tư vấn lãnh đạo hàng đầu thế giới, CEO công ty tư vấn Bregman Partners và tác giả quen thuộc trên Harvard Business Review, Forbes, Fast Company.",
+    quote: "Cách tốt nhất để chống lại sự phân tâm không hữu ích là tạo ra những sự phân tâm hữu ích.",
+    translator: "Uông Xuân Vy & Trần Đăng Khoa",
+    category: "Quản lý thời gian & Hiệu suất cá nhân",
+    tags: ["18 Phút", "Quản lý thời gian", "Tập trung", "Hiệu suất", "Mục tiêu", "Kỷ luật", "Phát triển bản thân"],
+    description: "Cuốn cẩm nang kinh điển về quản lý thời gian và năng lượng: làm chủ sự xao nhãng, xác định 5 trọng tâm lớn cho cả năm và thiết lập quy trình 18 phút mỗi ngày để hoàn thành những việc quan trọng nhất.",
+    gradient: "from-amber-600 via-orange-600 to-red-700",
+    themeColor: "#ea580c",
+    status: "available"
   }
 };
 

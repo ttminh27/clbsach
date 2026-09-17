@@ -1,0 +1,188 @@
+{
+  "bookId": "18phut",
+  "chapterId": "chuong_31_cu_dam_ket_hop",
+  "chapterTitle": "Chương 31 (tiếp): Cú Đấm Kết Hợp",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao tác giả cho rằng việc thiếu trí tưởng tượng là nguyên nhân khiến chúng ta duy trì các thói quen xấu?",
+      "options": [
+        "Vì chúng ta quá bận rộn để suy nghĩ về các hậu quả xa",
+        "Vì chúng ta không tin rằng tai nạn sẽ xảy ra với bản thân",
+        "Vì chúng ta tin rằng mình có khả năng kiểm soát mọi thứ",
+        "Vì chúng ta không có đủ dữ liệu để đánh giá rủi ro thực"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh rằng chúng ta thường nghĩ 'người khác sẽ gặp tai nạn, còn mình thì không', do thiếu khả năng tưởng tượng ra viễn cảnh tồi tệ xảy ra với chính mình."
+    },
+    {
+      "id": "q2",
+      "question": "Theo tác giả, vai trò chính của 'nỗi sợ' trong quá trình thay đổi hành vi là gì?",
+      "options": [
+        "Là chất xúc tác giúp đánh bật tính ì của bản thân",
+        "Là công cụ để duy trì sự thay đổi lâu dài bền vững",
+        "Là phương pháp để rèn luyện sự kiên nhẫn mỗi ngày",
+        "Là cách để tạo ra áp lực tích cực cho người xung quanh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nỗi sợ được ví như cú đẩy ban đầu để phá vỡ tính ì, nhưng nó không đủ bền vững để duy trì sự thay đổi lâu dài."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao nỗi sợ hãi không phải là giải pháp duy nhất để thay đổi hành vi lâu dài?",
+      "options": [
+        "Vì nó làm con người trở nên tiêu cực và bi quan",
+        "Vì nó làm giảm khả năng tư duy logic của con người",
+        "Vì nó không đủ mạnh để ngăn chặn các hành vi xấu",
+        "Vì nó gây ra sự kiệt sức và căng thẳng theo thời gian"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả khẳng định nỗi sợ làm ta kiệt sức và căng thẳng, mục đích của nó chỉ là sự thay đổi nhất thời, không bền vững."
+    },
+    {
+      "id": "q4",
+      "question": "Chiến lược 'cú đấm kết hợp' mà tác giả đề xuất được thực hiện theo trình tự nào?",
+      "options": [
+        "Sử dụng nỗi sợ làm đòn bẩy rồi duy trì bằng phần thưởng",
+        "Sử dụng nỗi sợ và phần thưởng cùng một thời điểm",
+        "Trải nghiệm phần thưởng trước rồi dùng nỗi sợ sau",
+        "Dùng phần thưởng để tạo động lực rồi dùng sợ hãi duy trì"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh trình tự: bắt đầu bằng nỗi sợ để khởi động, sau đó chuyển sang phần thưởng để duy trì sự thay đổi."
+    },
+    {
+      "id": "q5",
+      "question": "Trong bối cảnh thay đổi hành vi, 'phần thưởng' đóng vai trò gì?",
+      "options": [
+        "Là phương tiện để đo lường kết quả của hành vi mới",
+        "Là động lực để bắt đầu thay đổi các thói quen xấu",
+        "Là cách để trừng phạt bản thân khi không đạt mục tiêu",
+        "Là chất dinh dưỡng giúp duy trì sự thay đổi dài hạn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Phần thưởng (hiện tại tốt đẹp hơn) là chất dinh dưỡng giữ cho chúng ta tiếp tục bước đi trên con đường thay đổi sau khi nỗi sợ đã qua đi."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao việc hình dung ra viễn cảnh tồi tệ trong hiện tại lại có hiệu quả thay đổi hành vi?",
+      "options": [
+        "Vì nó giúp chúng ta lập kế hoạch dự phòng chi tiết",
+        "Vì nó làm cho nỗi sợ trở nên thật hơn và dễ cảm nhận",
+        "Vì nó giúp chúng ta không còn sợ hãi trong tương lai",
+        "Vì nó giúp chúng ta tự tin hơn vào khả năng kiểm soát"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quá trình quyết định của con người nghiêng về trải nghiệm hiện tại, nên khi nỗi sợ tương lai được cảm nhận ngay lúc này, ta sẽ thay đổi hành vi."
+    },
+    {
+      "id": "q7",
+      "question": "Tác giả so sánh hành vi lái xe khi sử dụng điện thoại với hành vi nào?",
+      "options": [
+        "Lái xe trong tình trạng say xỉn không tỉnh táo",
+        "Lái xe trong điều kiện thời tiết xấu và nguy hiểm",
+        "Lái xe khi đang buồn ngủ hoặc mệt mỏi quá mức",
+        "Lái xe khi chưa có bằng cấp hoặc kinh nghiệm đủ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả so sánh trực tiếp việc vừa lái xe vừa nói chuyện điện thoại với việc lái xe khi say xỉn vì mức độ nguy hiểm tương đương."
+    },
+    {
+      "id": "q8",
+      "question": "Khi muốn từ bỏ một thói quen xấu, tại sao tác giả khuyên nên cường điệu hóa hậu quả?",
+      "options": [
+        "Để làm cho bản thân cảm thấy tội lỗi và hối hận sâu sắc",
+        "Để làm cho nỗi sợ trở nên thật hơn và kích thích thay đổi",
+        "Để tạo ra sự khác biệt giữa hiện tại và tương lai xa",
+        "Để làm cho người khác cũng cảm thấy sợ hãi như mình"
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc cường điệu hóa giúp nỗi sợ trở nên thật hơn, đóng vai trò là tác nhân kích thích mạnh mẽ để khởi động động cơ thay đổi."
+    },
+    {
+      "id": "q9",
+      "question": "Điều gì khiến việc dừng một cuộc tranh cãi vô nghĩa trở nên khó khăn?",
+      "options": [
+        "Vì chúng ta thiếu kỹ năng giao tiếp hiệu quả",
+        "Vì chúng ta sợ mất uy tín trước mặt người khác",
+        "Vì chúng ta thiếu trí tưởng tượng về hậu quả tiêu cực",
+        "Vì chúng ta không muốn thừa nhận mình đã sai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả cho rằng việc thiếu trí tưởng tượng về viễn cảnh bị người khác xa lánh khiến chúng ta khó dừng lại các cuộc tranh cãi không cần thiết."
+    },
+    {
+      "id": "q10",
+      "question": "Theo tác giả, tại sao chúng ta vẫn tiếp tục làm những việc gây ảnh hưởng tiêu cực dù biết rõ hậu quả?",
+      "options": [
+        "Vì chúng ta không có đủ ý chí để kiểm soát bản thân",
+        "Vì chúng ta không tin vào các nghiên cứu khoa học",
+        "Vì chúng ta quá lười biếng để thay đổi thói quen cũ",
+        "Vì chúng ta nghĩ rằng mình có thể tránh được tai nạn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chúng ta tiếp tục làm vì tin rằng mình có thể tránh được hậu quả xấu, một sự tự tin thái quá do thiếu trí tưởng tượng về rủi ro."
+    },
+    {
+      "id": "q11",
+      "question": "Làm thế nào để duy trì sự thay đổi sau khi nỗi sợ hãi ban đầu đã giảm dần?",
+      "options": [
+        "Tiếp tục tìm kiếm những nỗi sợ hãi mới mạnh hơn",
+        "Ép buộc bản thân phải tuân thủ kỷ luật nghiêm ngặt",
+        "Tập trung vào những tác động tích cực của lựa chọn mới",
+        "Tìm kiếm sự hỗ trợ từ những người xung quanh mình"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sau khi nỗi sợ làm đòn bẩy, việc chú ý đến cảm giác tốt đẹp, thoải mái từ hành vi mới sẽ giúp duy trì sự thay đổi đó lâu dài."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao việc xem đoạn phim về tai nạn lại giúp tác giả thay đổi hành vi lái xe?",
+      "options": [
+        "Nó cung cấp thông tin kỹ thuật về an toàn giao thông",
+        "Nó làm tác giả sợ bị phạt tiền và mất bằng lái xe",
+        "Nó giúp tác giả cảm nhận được nỗi đau của tương lai",
+        "Nó giúp tác giả hiểu rõ hơn về luật giao thông đường bộ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn phim giúp tác giả trải nghiệm nỗi đau của tương lai ngay trong hiện tại, từ đó thay đổi hành vi để tránh nỗi đau đó."
+    },
+    {
+      "id": "q13",
+      "question": "Thông điệp cốt lõi của chương 'Cú Đấm Kết Hợp' là gì?",
+      "options": [
+        "Sợ hãi là cách duy nhất để thay đổi hành vi con người",
+        "Kết hợp nỗi sợ và phần thưởng để thay đổi bền vững",
+        "Phần thưởng là yếu tố quan trọng nhất trong mọi việc",
+        "Thay đổi hành vi cần sự kiên trì và không cần sợ hãi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả khẳng định cần cả hai: nỗi sợ để khởi động và phần thưởng để duy trì, tạo thành một cú đấm kết hợp hiệu quả."
+    },
+    {
+      "id": "q14",
+      "question": "Trong ví dụ về việc giảm cân, tác giả khuyên nên làm gì để duy trì động lực?",
+      "options": [
+        "Tập trung vào cảm giác khỏe khoắn khi quần áo rộng ra",
+        "Tưởng tượng về việc bị bệnh để sợ hãi mỗi ngày",
+        "Ép bản thân ăn kiêng nghiêm ngặt để thấy kết quả",
+        "So sánh bản thân với những người có vóc dáng đẹp"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau khi dùng nỗi sợ để bắt đầu, việc tận hưởng cảm giác khỏe khoắn và quần áo rộng ra chính là phần thưởng giúp duy trì thói quen lành mạnh."
+    },
+    {
+      "id": "q15",
+      "question": "Tại sao tác giả lại nhấn mạnh việc 'hết sức lưu ý' đến tác động tích cực của lựa chọn?",
+      "options": [
+        "Để tăng cường sự tự tin vào khả năng của bản thân",
+        "Để chứng minh cho người khác thấy mình đã thay đổi",
+        "Để biến những thay đổi thành trải nghiệm vui vẻ lâu dài",
+        "Để không bị quên đi những nỗ lực đã bỏ ra trước đó"
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc chú ý đến tác động tích cực giúp chúng ta thích ứng và tận hưởng quá trình thay đổi, biến nó thành một phần của cuộc sống thay vì là gánh nặng."
+    }
+  ]
+}

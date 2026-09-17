@@ -45,6 +45,7 @@ Một ứng dụng web hiện đại, tinh gọn và tối ưu dành cho Câu l�
 ```text
 clbsach/
 ├── book/                         # Thư mục chứa dữ liệu các đầu sách Markdown
+│   ├── 18phut/                   # Thư mục dữ liệu sách: 18 Phút (Peter Bregman)
 │   ├── 7ThoiQuenHieuQua/         # Thư mục dữ liệu sách: 7 Thói Quen Của Người Thành Đạt
 │   ├── ChienThangConQuyTrongBan/ # Thư mục dữ liệu sách: Chiến Thắng Con Quỷ Trong Bạn (Outwitting the Devil)
 │   ├── DacNhanTam/               # Thư mục dữ liệu sách: Đắc Nhân Tâm
@@ -53,9 +54,11 @@ clbsach/
 │   ├── DoiNganDungNguDai/        # Thư mục dữ liệu sách: Đời Ngắn Đừng Ngủ Dài
 │   ├── DungBaoGioDiAnMotMinh/    # Thư mục dữ liệu sách: Đừng Bao Giờ Đi Ăn Một Mình
 │   ├── LamRaLamChoiRaChoi/       # Thư mục dữ liệu sách: Làm Ra Làm, Chơi Ra Chơi (Deep Work)
+│   ├── NgheThuatSong/            # Thư mục dữ liệu sách: Nghệ Thuật Sống (Vipassana Meditation)
 │   ├── SearchInsideYourSelf/     # Dữ liệu sách & audio: Search Inside Yourself
 │   ├── SucManhCuaThoiQuen/       # Thư mục dữ liệu sách: Sức Mạnh Của Thói Quen
 │   ├── ThayDoiTiHonHieuQuaBatNgo/# Thư mục dữ liệu sách: Thay Đổi Tí Hon, Hiệu Quả Bất Ngờ (Atomic Habits)
+│   ├── TheMagic/                 # Thư mục dữ liệu sách: The Magic - Phép Màu (Rhonda Byrne)
 │   ├── ThinhVuongTaiChinhTuoi30_T1/ # Thư mục dữ liệu sách: Thịnh Vượng Tài Chính Tuổi 30 (Tập 1)
 │   ├── ThinhVuongTaiChinhTuoi30_T2/ # Thư mục dữ liệu sách: Thịnh Vượng Tài Chính Tuổi 30 (Tập 2)
 │   └── ViTuSiBanChiecFerrari/    # Thư mục dữ liệu sách: Vị Tu Sĩ Bán Chiếc Ferrari

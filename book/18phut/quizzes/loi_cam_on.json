@@ -1,0 +1,188 @@
+{
+  "bookId": "18phut",
+  "chapterId": "loi_cam_on",
+  "chapterTitle": "Lời Cảm Ơn",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao tác giả khẳng định việc viết sách không phải là 'nỗ lực trong đơn độc' dù ông là người cầm bút?",
+      "options": [
+        "Vì tác phẩm là kết quả của sự cộng tác và góp ý",
+        "Vì ông cần sự hỗ trợ tài chính từ nhà xuất bản",
+        "Vì ông muốn khiêm tốn trước độc giả của mình",
+        "Vì ông không tự tin vào khả năng viết của mình"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh rằng cuốn sách có 'nhiều dấu tay' của những người xung quanh, cho thấy tư duy cởi mở và coi trọng sự đóng góp tập thể trong quá trình sáng tạo."
+    },
+    {
+      "id": "q2",
+      "question": "Cách tác giả đối diện với những lời khuyên từ bạn bè cho thấy điều gì về tư duy lãnh đạo của ông?",
+      "options": [
+        "Ông luôn ưu tiên lắng nghe và làm theo mọi ý kiến",
+        "Ông coi trọng ý kiến nhưng giữ vững quyền quyết định",
+        "Ông chỉ lắng nghe những người có chuyên môn cao",
+        "Ông coi lời khuyên là áp lực cần phải né tránh ngay"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nói 'ý kiến mọi người rất quan trọng... ngay cả khi tôi không làm theo', thể hiện tư duy phản biện: tiếp nhận đa chiều nhưng vẫn giữ sự tự chủ."
+    },
+    {
+      "id": "q3",
+      "question": "Việc tác giả cảm ơn những người đã giúp ông 'rèn luyện giọng nói' phản ánh giá trị nào trong công việc?",
+      "options": [
+        "Tầm quan trọng của việc sao chép phong cách khác",
+        "Sự cần thiết của việc tìm kiếm người hướng dẫn",
+        "Sự phụ thuộc vào người khác để tạo ra nội dung",
+        "Nhu cầu được công nhận danh tiếng cá nhân"
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc rèn luyện giọng nói (phong cách cá nhân) đòi hỏi sự phản hồi từ người khác, cho thấy tầm quan trọng của việc có người cố vấn (mentor) để hoàn thiện bản thân."
+    },
+    {
+      "id": "q4",
+      "question": "Tác giả nhắc đến việc 'từ bỏ cuộc sống trong hai tuần' của một cộng sự nhằm mục đích gì?",
+      "options": [
+        "Để phàn nàn về sự vất vả của công việc viết lách",
+        "Để thể hiện lòng biết ơn sâu sắc với sự tận tâm",
+        "Để nhấn mạnh sự hy sinh cần thiết cho thành công",
+        "Để cảnh báo người đọc về áp lực của biên tập"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là cách tác giả ghi nhận sự đóng góp vượt bậc của cộng sự, khẳng định giá trị của sự tận tâm trong các dự án đòi hỏi chiều sâu."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao tác giả lại cảm ơn những người đã phê bình mình trong phần lời cảm ơn?",
+      "options": [
+        "Vì ông muốn chứng minh mình là người rộng lượng",
+        "Vì ông không muốn gây thù chuốc oán với ai cả",
+        "Vì ông muốn làm hài lòng tất cả mọi người xung quanh",
+        "Vì phê bình giúp ông nạp năng lượng và hoàn thiện"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả coi phê bình là nguồn năng lượng và định hướng, cho thấy tư duy tăng trưởng (growth mindset) luôn nhìn nhận thử thách như cơ hội phát triển."
+    },
+    {
+      "id": "q6",
+      "question": "Cách tác giả nhắc đến gia đình và con cái cho thấy quan điểm gì về sự cân bằng?",
+      "options": [
+        "Công việc là ưu tiên cao nhất so với gia đình",
+        "Sự nghiệp thành công cần tách biệt khỏi gia đình",
+        "Gia đình là nguồn cảm hứng cho sự phát triển",
+        "Gia đình chỉ là hậu phương hỗ trợ tài chính"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả coi gia đình là 'ánh sáng' và nguồn cảm hứng, cho thấy sự kết nối giữa đời sống cá nhân và tư duy chuyên nghiệp là không thể tách rời."
+    },
+    {
+      "id": "q7",
+      "question": "Việc tác giả cảm ơn những người đã giúp ông 'tạo không gian để phát biểu ý kiến' cho thấy điều gì?",
+      "options": [
+        "Ông cần người khác cho phép mình được nói",
+        "Biên tập viên là người quyết định nội dung sách",
+        "Ông không thể tự mình đưa ra các quan điểm mới",
+        "Sự tự do ngôn luận là yếu tố then chốt của sáng tạo"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sáng tạo cần môi trường phù hợp. Việc cảm ơn biên tập viên cho thấy sự trân trọng đối với những người tạo điều kiện cho tư duy cá nhân được lan tỏa."
+    },
+    {
+      "id": "q8",
+      "question": "Tác giả cảm ơn độc giả blog vì lý do gì chủ yếu?",
+      "options": [
+        "Vì sự hiện diện và phản hồi giúp ông duy trì",
+        "Vì họ đã mua sách của ông rất nhiệt tình",
+        "Vì họ là nguồn thu nhập chính của tác giả",
+        "Vì họ đã quảng bá sách giúp ông miễn phí"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự tương tác với độc giả tạo ra vòng lặp phản hồi tích cực, giúp tác giả duy trì động lực và sự kết nối trong quá trình viết."
+    },
+    {
+      "id": "q9",
+      "question": "Thông điệp ẩn sau lời cảm ơn dành cho người bạn đời là gì?",
+      "options": [
+        "Sự đồng hành giúp ta trở nên tốt đẹp hơn mỗi ngày",
+        "Người bạn đời là người hỗ trợ tài chính chính",
+        "Tình yêu là rào cản đối với sự nghiệp cá nhân",
+        "Cần phải thay đổi bản thân để làm hài lòng người khác"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh việc được yêu 'chính mình' nhưng vẫn được khích lệ để 'hoàn thiện hơn', định nghĩa một mối quan hệ hỗ trợ sự phát triển cá nhân."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao tác giả lại trân trọng những người đã giúp ông 'mài giũa lối viết'?",
+      "options": [
+        "Vì ông không có khả năng viết tốt từ đầu",
+        "Vì sự hoàn thiện đòi hỏi sự phản hồi khách quan",
+        "Vì ông muốn sách của mình bán chạy hơn nữa",
+        "Vì ông muốn tạo ra một phong cách viết mới"
+      ],
+      "correctIndex": 1,
+      "explanation": "Viết là một quá trình cải tiến liên tục. Sự phản hồi khách quan từ người khác là công cụ quan trọng để nâng cao chất lượng tư duy và diễn đạt."
+    },
+    {
+      "id": "q11",
+      "question": "Việc tác giả cảm ơn những người đã 'tin tưởng' mình cho thấy điều gì về sự nghiệp?",
+      "options": [
+        "Ông không tự tin vào khả năng của chính mình",
+        "Ông cần sự tin tưởng để che giấu các sai sót",
+        "Lòng tin là điều kiện để ông không bị chỉ trích",
+        "Sự nghiệp dựa trên lòng tin là nền tảng bền vững"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lòng tin từ khách hàng và cộng sự là tài sản quan trọng nhất trong tư vấn và lãnh đạo, giúp tác giả có không gian để thực hiện các ý tưởng."
+    },
+    {
+      "id": "q12",
+      "question": "Cách tác giả nhắc đến 'những dấu phẩy' của một cộng sự cho thấy điều gì?",
+      "options": [
+        "Sự tỉ mỉ của người khác đóng góp vào chất lượng",
+        "Ông là người rất chi tiết và cầu toàn",
+        "Ông không biết cách sử dụng dấu câu đúng",
+        "Biên tập viên là người sửa lỗi chính tả chính"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự ghi nhận những chi tiết nhỏ (dấu phẩy) cho thấy tác giả trân trọng sự đóng góp tỉ mỉ, vốn là yếu tố tạo nên sự chuyên nghiệp của tác phẩm."
+    },
+    {
+      "id": "q13",
+      "question": "Tác giả coi việc 'mạo hiểm' trở nên dễ dàng hơn nhờ đâu?",
+      "options": [
+        "Nhờ vào việc ông đã có đủ tiền để mạo hiểm",
+        "Nhờ vào sự thành công của các cuốn sách trước",
+        "Nhờ vào sự hỗ trợ của gia đình và người thân",
+        "Nhờ vào sự ủng hộ của nhà xuất bản lớn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự ủng hộ từ người bạn đời và gia đình tạo ra 'điểm tựa' an toàn, giúp cá nhân tự tin hơn khi đối mặt với những rủi ro trong công việc."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao tác giả lại cảm ơn những người đã 'đọc tác phẩm' dù ông không làm theo lời khuyên của họ?",
+      "options": [
+        "Vì ông muốn giữ phép lịch sự xã giao thông thường",
+        "Vì sự hiện diện của họ giúp ông có thêm động lực",
+        "Vì ý kiến của họ vẫn có giá trị tham khảo quan trọng",
+        "Vì ông sợ họ sẽ buồn nếu không được nhắc tên"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dù không làm theo, việc lắng nghe ý kiến khác biệt vẫn giúp tác giả có cái nhìn đa chiều, từ đó củng cố quyết định của chính mình."
+    },
+    {
+      "id": "q15",
+      "question": "Nhìn chung, lời cảm ơn này phản ánh tư duy nào của tác giả về thành công?",
+      "options": [
+        "Thành công là kết quả của nỗ lực cá nhân đơn độc",
+        "Thành công là việc làm hài lòng tất cả mọi người",
+        "Thành công là sự cộng hưởng của nhiều mối quan hệ",
+        "Thành công là việc có được sự hỗ trợ từ người quyền lực"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định thành công không đến từ đơn độc mà là kết quả của một mạng lưới hỗ trợ, phản hồi và tình yêu thương từ cộng đồng xung quanh."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "bookId": "18phut",
+  "chapterId": "chuong_25_quy_luat_3_ngay",
+  "chapterTitle": "Chương 25: Quy Luật 3 Ngày",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao tác giả nhấn mạnh việc không để một công việc tồn tại quá 3 ngày trong danh sách?",
+      "options": [
+        "Để giảm bớt áp lực tâm lý và tránh sự trì hoãn",
+        "Để tối ưu hóa thời gian làm việc trong ngày dài",
+        "Để tăng cường khả năng ghi nhớ các đầu việc nhỏ",
+        "Để đảm bảo mọi việc đều được hoàn thành đúng hạn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả tập trung vào việc giảm bớt áp lực tâm lý từ danh sách dài, giúp người đọc không bị xao nhãng bởi những việc không được thực hiện."
+    },
+    {
+      "id": "q2",
+      "question": "Khi một công việc đã tồn tại 3 ngày mà chưa được thực hiện, hành động nào phản ánh đúng tư duy của tác giả?",
+      "options": [
+        "Tiếp tục để nó ở đó để chờ cơ hội thực hiện",
+        "Đánh giá lại giá trị thực sự của công việc đó",
+        "Chuyển nó sang danh sách chờ đợi ngay lập tức",
+        "Giao việc đó cho người khác để giảm tải áp lực"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả yêu cầu đánh giá lại để quyết định thực hiện, lên lịch hoặc loại bỏ, thay vì để nó tồn tại vô định."
+    },
+    {
+      "id": "q3",
+      "question": "Trong quy luật 3 ngày, việc 'lên lịch' cho một công việc mang ý nghĩa chiến lược gì?",
+      "options": [
+        "Giúp công việc đó trở thành cam kết thực tế",
+        "Giúp trì hoãn công việc một cách hợp lý hơn",
+        "Giúp phân loại các việc ưu tiên thấp hơn hẳn",
+        "Giúp giảm bớt sự lo âu về các việc chưa làm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lên lịch biến một ý tưởng thành cam kết thời gian cụ thể, giúp công việc đó có cơ hội được hoàn thành thực sự."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao tác giả lại chọn cách 'bỏ qua một bên' thay vì cố gắng hoàn thành mọi việc?",
+      "options": [
+        "Vì không phải việc nào cũng đáng để tiêu tốn năng lượng",
+        "Vì thời gian là hữu hạn và cần ưu tiên việc quan trọng",
+        "Vì việc bỏ qua giúp tâm trí thoải mái hơn rất nhiều",
+        "Vì sự từ bỏ là cách duy nhất để đạt hiệu suất cao"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả thừa nhận giới hạn của thời gian và sự ưu tiên, việc bỏ qua giúp tập trung vào những việc thực sự quan trọng."
+    },
+    {
+      "id": "q5",
+      "question": "Danh sách 'một-ngày-nào-đó/có-thể-thực-hiện' đóng vai trò gì trong hệ thống quản lý của tác giả?",
+      "options": [
+        "Nơi lưu trữ các việc quan trọng nhưng chưa gấp",
+        "Nơi giải tỏa tâm lý cho các việc khó từ bỏ ngay",
+        "Nơi chứa các việc cần sự hỗ trợ từ người khác",
+        "Nơi lưu lại các ý tưởng sáng tạo chưa định hình"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là công cụ tâm lý giúp người dùng cảm thấy an tâm khi chưa thể xóa bỏ hoàn toàn một công việc ngay lập tức."
+    },
+    {
+      "id": "q6",
+      "question": "Cách tác giả xử lý 'danh sách chờ' cho thấy tư duy quản lý công việc như thế nào?",
+      "options": [
+        "Chủ động kiểm soát các kỳ vọng từ người khác",
+        "Tách biệt việc cần làm với việc chờ phản hồi",
+        "Tự động hóa việc theo dõi các phản hồi từ đối tác",
+        "Tối ưu hóa thời gian chờ đợi để làm việc khác"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả tách biệt danh sách chờ để không bị lẫn lộn với những việc cần thực hiện ngay, giúp tâm trí tập trung hơn."
+    },
+    {
+      "id": "q7",
+      "question": "Khi một công việc nằm trong danh sách 3 ngày mà bạn không muốn lên lịch, điều này phản ánh thực tế gì?",
+      "options": [
+        "Công việc đó cần được ủy quyền cho người khác",
+        "Bạn đang thiếu kỹ năng quản lý thời gian hiệu quả",
+        "Bạn đang bị quá tải bởi các công việc ưu tiên",
+        "Công việc đó không đủ quan trọng như bạn nghĩ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nếu không muốn lên lịch, nghĩa là nó không đủ ưu tiên, và việc thừa nhận điều này giúp giải phóng tâm trí."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao tác giả thường ngạc nhiên khi thực hiện các việc đã nằm ì trong danh sách 3 ngày?",
+      "options": [
+        "Vì chúng giúp giải tỏa áp lực công việc nhanh",
+        "Vì chúng thực ra rất dễ dàng để hoàn thành ngay",
+        "Vì chúng không quan trọng như cảm giác ban đầu",
+        "Vì chúng thường tốn ít thời gian hơn dự kiến"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nhiều việc bị trì hoãn chỉ vì cảm giác sợ hãi, nhưng thực tế thời gian thực hiện lại rất ngắn."
+    },
+    {
+      "id": "q9",
+      "question": "Việc xem xét lại danh sách 'một-ngày-nào-đó' hàng tháng có mục đích chính là gì?",
+      "options": [
+        "Để duy trì thói quen quản lý danh sách công việc",
+        "Để tìm kiếm cơ hội thực hiện các việc cũ kỹ",
+        "Để xóa bỏ dần những việc không còn phù hợp",
+        "Để đánh giá lại sự phát triển của bản thân mình"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mục đích là để lọc bỏ những thứ không còn liên quan, giữ cho danh sách không bị quá tải vô ích."
+    },
+    {
+      "id": "q10",
+      "question": "Tư duy cốt lõi đằng sau 'Quy luật 3 ngày' là gì?",
+      "options": [
+        "Sự linh hoạt trong việc thay đổi kế hoạch hàng ngày",
+        "Sự kỷ luật cao độ trong việc thực hiện mục tiêu",
+        "Sự trung thực với khả năng và ưu tiên cá nhân",
+        "Sự tối giản hóa mọi quy trình làm việc hàng ngày"
+      ],
+      "correctIndex": 2,
+      "explanation": "Quy luật này buộc người dùng phải đối diện với sự thật về việc mình có thực sự muốn làm hay không."
+    },
+    {
+      "id": "q11",
+      "question": "Nếu bạn không muốn lên lịch và cũng không muốn bỏ qua một việc, bạn nên làm gì?",
+      "options": [
+        "Đưa nó vào danh sách một-ngày-nào-đó/có-thể",
+        "Tiếp tục để nó trong danh sách việc cần làm",
+        "Cố gắng thực hiện nó vào một thời điểm khác",
+        "Tìm cách ủy quyền cho người khác thực hiện"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đây là giải pháp trung gian để giữ lại ý tưởng mà không làm ảnh hưởng đến hiệu suất hiện tại."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao việc 'đối diện với thực tế' lại quan trọng trong quy trình của tác giả?",
+      "options": [
+        "Để đảm bảo kế hoạch năm luôn được thực thi tốt",
+        "Để tăng cường khả năng ra quyết định nhanh chóng",
+        "Để tránh cảm giác tội lỗi khi không hoàn thành",
+        "Để không lãng phí thời gian vào việc không cần"
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc thừa nhận mình không muốn làm giúp loại bỏ cảm giác tội lỗi và sự ám ảnh không cần thiết."
+    },
+    {
+      "id": "q13",
+      "question": "Sự khác biệt giữa 'danh sách chờ' và 'danh sách việc cần làm' là gì?",
+      "options": [
+        "Danh sách chờ giúp quản lý kỳ vọng từ người khác",
+        "Danh sách chờ mang tính thụ động hơn rất nhiều",
+        "Danh sách chờ không đòi hỏi hành động trực tiếp",
+        "Danh sách chờ là nơi chứa các việc chưa định hình"
+      ],
+      "correctIndex": 0,
+      "explanation": "Danh sách chờ giúp theo dõi phản hồi từ người khác mà không làm xáo trộn danh sách các việc cần tự thực hiện."
+    },
+    {
+      "id": "q14",
+      "question": "Quy luật 3 ngày giúp ích gì cho việc quản lý thời gian biểu hàng ngày?",
+      "options": [
+        "Giúp cân bằng giữa công việc và cuộc sống cá nhân",
+        "Giúp tối đa hóa số lượng công việc hoàn thành",
+        "Giúp giảm bớt sự phụ thuộc vào các công cụ",
+        "Giúp tập trung vào những việc thực sự quan trọng"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bằng cách loại bỏ các việc không cần thiết, thời gian biểu được tập trung vào những việc quan trọng nhất."
+    },
+    {
+      "id": "q15",
+      "question": "Tác giả khuyên thế nào về việc thay đổi thời gian biểu đã lên lịch?",
+      "options": [
+        "Chỉ thay đổi khi có việc khẩn cấp phát sinh",
+        "Nên hạn chế thay đổi để duy trì sự kỷ luật cao",
+        "Có thể thay đổi khi xem lại thời gian biểu ngày",
+        "Luôn giữ nguyên để đảm bảo cam kết ban đầu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả cho phép thay đổi linh hoạt khi xem lại, miễn là việc đó đã được lên lịch cụ thể trước đó."
+    }
+  ]
+}
