@@ -143,9 +143,17 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
     };
   }, []);
 
-  // Monitor text selection within chapter
+  // Monitor text selection within chapter (desktop mouse & mobile touch)
   useEffect(() => {
-    const handleMouseUp = () => {
+    let selectionTimeout: ReturnType<typeof setTimeout> | undefined;
+
+    const checkAndSetSelection = () => {
+      // Don't trigger if user is actively typing in an input or textarea
+      const activeEl = document.activeElement;
+      if (activeEl && ['INPUT', 'TEXTAREA'].includes(activeEl.tagName)) {
+        return;
+      }
+
       const selection = window.getSelection();
       if (!selection || selection.isCollapsed) {
         setSelectionTooltip((prev) => (prev.visible ? { ...prev, visible: false } : prev));
@@ -157,7 +165,7 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
         try {
           const range = selection.getRangeAt(0);
           const rect = range.getBoundingClientRect();
-          if (rect.width > 0 && rect.height > 0) {
+          if (rect.width > 0 || rect.height > 0) {
             const context = getTextQuoteContext(range);
             const blockEl = (range.startContainer.parentElement?.closest('[data-tts-block]') as HTMLElement | null);
             const paragraphIndex = blockEl?.getAttribute('data-tts-block')
@@ -189,21 +197,41 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
       setSelectionTooltip((prev) => (prev.visible ? { ...prev, visible: false } : prev));
     };
 
-    const handleMouseDown = (e: MouseEvent) => {
+    const handleMouseUp = () => {
+      setTimeout(checkAndSetSelection, 50);
+    };
+
+    const handleTouchEnd = () => {
+      clearTimeout(selectionTimeout);
+      // Give Samsung One UI 300ms to settle selection handles and native clipboard menu
+      selectionTimeout = setTimeout(checkAndSetSelection, 300);
+    };
+
+    const handlePointerDown = (e: MouseEvent | TouchEvent) => {
+      const target = e.target as HTMLElement | null;
+      if (!target) return;
+
       if (
-        (e.target as HTMLElement).closest('[data-selection-tooltip="true"]') ||
-        (e.target as HTMLElement).closest('[data-highlight-popover="true"]')
+        target.closest('[data-selection-tooltip="true"]') ||
+        target.closest('[data-highlight-popover="true"]') ||
+        target.closest('mark.reader-user-highlight')
       ) {
         return;
       }
-      setSelectionTooltip((prev) => (prev.visible ? { ...prev, visible: false } : prev));
+      setActiveHighlightPopover((prev) => (prev.visible ? { ...prev, visible: false, highlight: null } : prev));
     };
 
     document.addEventListener('mouseup', handleMouseUp);
-    document.addEventListener('mousedown', handleMouseDown);
+    document.addEventListener('touchend', handleTouchEnd);
+    document.addEventListener('mousedown', handlePointerDown);
+    document.addEventListener('touchstart', handlePointerDown, { passive: true });
+
     return () => {
+      clearTimeout(selectionTimeout);
       document.removeEventListener('mouseup', handleMouseUp);
-      document.removeEventListener('mousedown', handleMouseDown);
+      document.removeEventListener('touchend', handleTouchEnd);
+      document.removeEventListener('mousedown', handlePointerDown);
+      document.removeEventListener('touchstart', handlePointerDown);
     };
   }, []);
 
