@@ -5,6 +5,10 @@ import remarkGfm from 'remark-gfm';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import { X, ZoomIn, Volume2, Copy, Check, Quote } from 'lucide-react';
 import { copyToClipboard } from '../../utils/clipboard';
+import { TextHighlight, HighlightColor } from '../../types/highlight';
+import { applyHighlightsToElement, clearHighlightsFromElement, getTextQuoteContext } from '../../utils/chapterHighlight';
+import { SelectionActionToolbar } from './SelectionActionToolbar';
+import { ActiveHighlightPopover } from './ActiveHighlightPopover';
 
 const getSlug = (children: React.ReactNode): string | undefined => {
   const extractText = (node: any): string => {
@@ -68,23 +72,33 @@ const CodeBlockWithCopy: React.FC<{ children: React.ReactNode; onCopied?: (msg: 
 interface MarkdownViewerProps {
   content: string;
   bookId: string;
+  chapterId?: string;
   bookTitle?: string;
   chapterTitle?: string;
   currentTTSIndex?: number;
   isTTSSpeaking?: boolean;
+  highlights?: TextHighlight[];
   onReadFromIndex?: (index: number) => void;
   onCopied?: (message: string) => void;
+  onAddHighlight?: (item: Omit<TextHighlight, 'id' | 'createdAt'>) => void;
+  onUpdateHighlight?: (id: string, updates: Partial<TextHighlight>) => void;
+  onDeleteHighlight?: (id: string) => void;
 }
 
 const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
   content,
   bookId,
+  chapterId = '',
   bookTitle = '',
   chapterTitle = '',
   currentTTSIndex = -1,
   isTTSSpeaking = false,
+  highlights = [],
   onReadFromIndex,
   onCopied,
+  onAddHighlight,
+  onUpdateHighlight,
+  onDeleteHighlight,
 }) => {
   const navigate = useNavigate();
   const { settings } = useReaderSettings();
@@ -94,8 +108,40 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
     x: number;
     y: number;
     text: string;
-  }>({ visible: false, x: 0, y: 0, text: '' });
+    prefix: string;
+    suffix: string;
+    paragraphIndex?: number;
+  }>({ visible: false, x: 0, y: 0, text: '', prefix: '', suffix: '' });
+
+  const [activeHighlightPopover, setActiveHighlightPopover] = useState<{
+    visible: boolean;
+    highlight: TextHighlight | null;
+    x: number;
+    y: number;
+  }>({ visible: false, highlight: null, x: 0, y: 0 });
+
   const articleRef = useRef<HTMLElement>(null);
+
+  // Apply highlights to DOM on content or highlights change
+  useEffect(() => {
+    const article = articleRef.current;
+    if (!article || !content) return;
+
+    const timer = setTimeout(() => {
+      applyHighlightsToElement(article, highlights);
+    }, 60);
+
+    return () => {
+      clearTimeout(timer);
+    };
+  }, [content, highlights]);
+
+  // Clean up highlights on unmount
+  useEffect(() => {
+    return () => {
+      clearHighlightsFromElement(articleRef.current);
+    };
+  }, []);
 
   // Monitor text selection within chapter
   useEffect(() => {
@@ -107,17 +153,33 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
       }
 
       const text = selection.toString().trim();
-      if (text.length >= 3 && articleRef.current?.contains(selection.anchorNode)) {
+      if (text.length >= 2 && articleRef.current?.contains(selection.anchorNode)) {
         try {
           const range = selection.getRangeAt(0);
           const rect = range.getBoundingClientRect();
           if (rect.width > 0 && rect.height > 0) {
+            const context = getTextQuoteContext(range);
+            const blockEl = (range.startContainer.parentElement?.closest('[data-tts-block]') as HTMLElement | null);
+            const paragraphIndex = blockEl?.getAttribute('data-tts-block')
+              ? parseInt(blockEl.getAttribute('data-tts-block')!, 10)
+              : undefined;
+
+            const tooltipHeight = 44;
+            const spaceAbove = rect.top;
+            const y = spaceAbove > tooltipHeight + 10 ? rect.top - tooltipHeight - 8 : rect.bottom + 8;
+            const x = Math.max(12, Math.min(window.innerWidth - 300, rect.left + rect.width / 2 - 140));
+
             setSelectionTooltip({
               visible: true,
-              x: Math.max(10, Math.min(window.innerWidth - 180, rect.left + rect.width / 2 - 80)),
-              y: Math.max(10, rect.top - 46),
+              x,
+              y,
               text,
+              prefix: context.prefix,
+              suffix: context.suffix,
+              paragraphIndex,
             });
+            // Close active highlight popover when making a new selection
+            setActiveHighlightPopover((prev) => (prev.visible ? { ...prev, visible: false, highlight: null } : prev));
             return;
           }
         } catch {
@@ -128,7 +190,10 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
     };
 
     const handleMouseDown = (e: MouseEvent) => {
-      if ((e.target as HTMLElement).closest('[data-selection-tooltip="true"]')) {
+      if (
+        (e.target as HTMLElement).closest('[data-selection-tooltip="true"]') ||
+        (e.target as HTMLElement).closest('[data-highlight-popover="true"]')
+      ) {
         return;
       }
       setSelectionTooltip((prev) => (prev.visible ? { ...prev, visible: false } : prev));
@@ -141,6 +206,66 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
       document.removeEventListener('mousedown', handleMouseDown);
     };
   }, []);
+
+  // Handle click on existing mark.reader-user-highlight to open popover
+  useEffect(() => {
+    const article = articleRef.current;
+    if (!article) return;
+
+    const handleArticleClick = (e: MouseEvent) => {
+      const target = e.target as HTMLElement;
+      const mark = target.closest('mark.reader-user-highlight') as HTMLElement | null;
+      if (mark) {
+        const hlId = mark.getAttribute('data-highlight-id');
+        if (hlId) {
+          const found = highlights.find((h) => h.id === hlId);
+          if (found) {
+            const rect = mark.getBoundingClientRect();
+            const popoverHeight = 160;
+            const y = rect.top > popoverHeight + 10 ? rect.top - popoverHeight - 8 : rect.bottom + 8;
+            const x = Math.max(12, Math.min(window.innerWidth - 300, rect.left + rect.width / 2 - 140));
+
+            setActiveHighlightPopover({
+              visible: true,
+              highlight: found,
+              x,
+              y,
+            });
+            setSelectionTooltip((prev) => (prev.visible ? { ...prev, visible: false } : prev));
+            return;
+          }
+        }
+      }
+
+      if (!target.closest('[data-highlight-popover="true"]')) {
+        setActiveHighlightPopover((prev) => (prev.visible ? { ...prev, visible: false, highlight: null } : prev));
+      }
+    };
+
+    article.addEventListener('click', handleArticleClick);
+    return () => article.removeEventListener('click', handleArticleClick);
+  }, [highlights]);
+
+  // Handle creating new highlight
+  const handleCreateHighlight = (color: HighlightColor, note?: string) => {
+    if (!selectionTooltip.text || !onAddHighlight) return;
+
+    onAddHighlight({
+      bookId,
+      chapterId,
+      chapterTitle,
+      text: selectionTooltip.text,
+      color,
+      prefix: selectionTooltip.prefix,
+      suffix: selectionTooltip.suffix,
+      paragraphIndex: selectionTooltip.paragraphIndex,
+      note,
+    });
+
+    onCopied?.('Đã lưu đoạn highlight!');
+    window.getSelection()?.removeAllRanges();
+    setSelectionTooltip((prev) => ({ ...prev, visible: false }));
+  };
 
   const handleCopySelectedText = async () => {
     if (!selectionTooltip.text) return;
@@ -532,26 +657,59 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
         </ReactMarkdown>
       </article>
 
-      {/* Floating Selection Copy Action Tooltip */}
+      {/* Floating Selection Action Toolbar (Color buttons, Note, Citation Copy) */}
       {selectionTooltip.visible && (
-        <div
-          data-selection-tooltip="true"
-          data-no-search="true"
-          className="fixed z-40 animate-in fade-in zoom-in-95 duration-150"
-          style={{
-            left: `${selectionTooltip.x}px`,
-            top: `${selectionTooltip.y}px`,
+        <SelectionActionToolbar
+          position={{ x: selectionTooltip.x, y: selectionTooltip.y }}
+          selectedText={selectionTooltip.text}
+          onHighlight={handleCreateHighlight}
+          onCopyQuote={handleCopySelectedText}
+          onClose={() => setSelectionTooltip((prev) => ({ ...prev, visible: false }))}
+        />
+      )}
+
+      {/* Floating Active Highlight Popover (Color change, note edit, delete, copy) */}
+      {activeHighlightPopover.visible && activeHighlightPopover.highlight && (
+        <ActiveHighlightPopover
+          highlight={activeHighlightPopover.highlight}
+          position={{ x: activeHighlightPopover.x, y: activeHighlightPopover.y }}
+          onUpdateColor={(color) => {
+            if (activeHighlightPopover.highlight && onUpdateHighlight) {
+              onUpdateHighlight(activeHighlightPopover.highlight.id, { color });
+              setActiveHighlightPopover((prev) =>
+                prev.highlight ? { ...prev, highlight: { ...prev.highlight, color } } : prev
+              );
+              onCopied?.('Đã đổi màu highlight!');
+            }
           }}
-        >
-          <button
-            onClick={handleCopySelectedText}
-            className="flex items-center gap-1.5 rounded-full bg-slate-900/95 text-white dark:bg-emerald-600 px-3.5 py-1.5 text-xs font-semibold shadow-xl border border-slate-700 dark:border-emerald-500 hover:scale-105 transition-transform backdrop-blur-md"
-            title="Sao chép đoạn trích dẫn kèm trích nguồn"
-          >
-            <Quote className="h-3.5 w-3.5 text-emerald-400 dark:text-emerald-100" />
-            <span>Sao chép trích dẫn</span>
-          </button>
-        </div>
+          onUpdateNote={(note) => {
+            if (activeHighlightPopover.highlight && onUpdateHighlight) {
+              onUpdateHighlight(activeHighlightPopover.highlight.id, { note });
+              setActiveHighlightPopover((prev) =>
+                prev.highlight ? { ...prev, highlight: { ...prev.highlight, note } } : prev
+              );
+              onCopied?.('Đã cập nhật ghi chú!');
+            }
+          }}
+          onDelete={() => {
+            if (activeHighlightPopover.highlight && onDeleteHighlight) {
+              onDeleteHighlight(activeHighlightPopover.highlight.id);
+              setActiveHighlightPopover({ visible: false, highlight: null, x: 0, y: 0 });
+              onCopied?.('Đã xóa highlight!');
+            }
+          }}
+          onCopyQuote={async () => {
+            if (!activeHighlightPopover.highlight) return;
+            const citation = bookTitle && chapterTitle
+              ? `"${activeHighlightPopover.highlight.text}"\n\n— Trích từ: "${chapterTitle}", sách "${bookTitle}" (${window.location.href})`
+              : `"${activeHighlightPopover.highlight.text}"`;
+            const ok = await copyToClipboard(citation);
+            if (ok) {
+              onCopied?.('Đã sao chép đoạn trích dẫn!');
+            }
+          }}
+          onClose={() => setActiveHighlightPopover({ visible: false, highlight: null, x: 0, y: 0 })}
+        />
       )}
 
       {/* Image Lightbox Modal */}
@@ -588,9 +746,11 @@ export const MarkdownViewer = React.memo(MarkdownViewerComponent, (prev, next) =
   return (
     prev.content === next.content &&
     prev.bookId === next.bookId &&
+    prev.chapterId === next.chapterId &&
     prev.bookTitle === next.bookTitle &&
     prev.chapterTitle === next.chapterTitle &&
     prev.currentTTSIndex === next.currentTTSIndex &&
-    prev.isTTSSpeaking === next.isTTSSpeaking
+    prev.isTTSSpeaking === next.isTTSSpeaking &&
+    prev.highlights === next.highlights
   );
 });

@@ -1,6 +1,7 @@
 import { User, AuthResponse, AdminStats, AdminComment, AdminReaction, AdminReadingProgressItem } from '../types/auth';
 import { CommentItem, ReactionSummary, TargetType, ReactionType } from '../types/interaction';
 import { ReadingProgress, HistoryMap } from '../types/book';
+import { TextHighlight } from '../types/highlight';
 
 const TOKEN_KEY = 'clb_auth_token';
 
@@ -269,6 +270,50 @@ export const historyApi = {
 
   async clearAllHistory(): Promise<{ success: boolean }> {
     return request<{ success: boolean }>('/api/history', {
+      method: 'DELETE',
+    });
+  },
+};
+
+// 6. Highlights API (D1 Database for logged-in users)
+export const highlightsApi = {
+  async getHighlights(params?: { bookId?: string; chapterId?: string }): Promise<{ highlights: TextHighlight[] }> {
+    const sp = new URLSearchParams();
+    if (params?.bookId) sp.append('bookId', params.bookId);
+    if (params?.chapterId) sp.append('chapterId', params.chapterId);
+    const qs = sp.toString() ? `?${sp.toString()}` : '';
+    return request<{ highlights: TextHighlight[] }>(`/api/highlights${qs}`);
+  },
+
+  async saveHighlight(highlight: TextHighlight): Promise<{ success: boolean }> {
+    return request<{ success: boolean }>('/api/highlights', {
+      method: 'POST',
+      body: JSON.stringify(highlight),
+    });
+  },
+
+  async syncHighlights(items: TextHighlight[]): Promise<{ success: boolean; savedCount: number }> {
+    return request<{ success: boolean; savedCount: number }>('/api/highlights', {
+      method: 'POST',
+      body: JSON.stringify({ items }),
+    });
+  },
+
+  async updateHighlight(id: string, updates: { color?: string; note?: string }): Promise<{ success: boolean }> {
+    return request<{ success: boolean }>('/api/highlights', {
+      method: 'PATCH',
+      body: JSON.stringify({ id, ...updates }),
+    });
+  },
+
+  async deleteHighlight(id: string): Promise<{ success: boolean }> {
+    return request<{ success: boolean }>(`/api/highlights?id=${encodeURIComponent(id)}`, {
+      method: 'DELETE',
+    });
+  },
+
+  async clearHighlightsForBook(bookId: string): Promise<{ success: boolean }> {
+    return request<{ success: boolean }>(`/api/highlights?bookId=${encodeURIComponent(bookId)}`, {
       method: 'DELETE',
     });
   },

@@ -18,6 +18,7 @@ import { AudioProvider } from './context/AudioContext';
 import { ReaderSettingsProvider } from './context/ReaderSettingsContext';
 import { QuizProvider } from './context/QuizContext';
 import { AuthProvider } from './context/AuthContext';
+import { HighlightProvider } from './context/HighlightContext';
 import { AuthModal } from './components/auth/AuthModal';
 
 declare global {
@@ -117,15 +118,17 @@ export function App() {
   return (
     <AuthProvider>
       <HistoryProvider>
-        <AudioProvider>
-          <ReaderSettingsProvider>
-            <QuizProvider>
-              <Router>
-                <AppLayout />
-              </Router>
-            </QuizProvider>
-          </ReaderSettingsProvider>
-        </AudioProvider>
+        <HighlightProvider>
+          <AudioProvider>
+            <ReaderSettingsProvider>
+              <QuizProvider>
+                <Router>
+                  <AppLayout />
+                </Router>
+              </QuizProvider>
+            </ReaderSettingsProvider>
+          </AudioProvider>
+        </HighlightProvider>
       </HistoryProvider>
     </AuthProvider>
   );

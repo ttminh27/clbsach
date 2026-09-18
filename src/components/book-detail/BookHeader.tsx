@@ -1,19 +1,22 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Headphones, Clock, ArrowLeft, Bookmark, CheckCircle2, Share2, Sparkles } from 'lucide-react';
+import { BookOpen, Headphones, Clock, ArrowLeft, Bookmark, CheckCircle2, Share2, Sparkles, Highlighter } from 'lucide-react';
 import { Book } from '../../types/book';
 import { useHistory } from '../../context/HistoryContext';
 import { useAudio } from '../../context/AudioContext';
+import { useHighlights } from '../../context/HighlightContext';
 
 interface BookHeaderProps {
   book: Book;
-  activeTab: 'chapters' | 'audios' | 'info';
-  onTabChange: (tab: 'chapters' | 'audios' | 'info') => void;
+  activeTab: 'chapters' | 'audios' | 'info' | 'highlights';
+  onTabChange: (tab: 'chapters' | 'audios' | 'info' | 'highlights') => void;
 }
 
 export const BookHeader: React.FC<BookHeaderProps> = ({ book, activeTab, onTabChange }) => {
   const { getProgressForBook } = useHistory();
   const { playTrack, isPlaying, currentTrack } = useAudio();
+  const { getHighlightsForBook } = useHighlights();
+  const highlightsCount = getHighlightsForBook(book.id).length;
   const progress = getProgressForBook(book.id);
 
   const completedCount = progress?.completedChapterIds?.length || 0;
@@ -213,6 +216,23 @@ export const BookHeader: React.FC<BookHeaderProps> = ({ book, activeTab, onTabCh
             }`}
           >
             Giới Thiệu Tác Phẩm
+          </button>
+
+          <button
+            onClick={() => onTabChange('highlights')}
+            className={`flex items-center gap-2 rounded-xl px-4 py-2 text-xs sm:text-sm font-semibold transition-all shrink-0 ${
+              activeTab === 'highlights'
+                ? 'bg-slate-900 text-white dark:bg-emerald-600 dark:text-white shadow-sm'
+                : 'text-slate-600 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-800'
+            }`}
+          >
+            <Highlighter className="h-4 w-4 text-amber-500" />
+            <span>Đoạn Trích</span>
+            {highlightsCount > 0 && (
+              <span className="ml-0.5 rounded-full bg-amber-100 text-amber-800 dark:bg-amber-950 dark:text-amber-300 px-1.5 py-0.2 text-[11px] font-bold">
+                {highlightsCount}
+              </span>
+            )}
           </button>
         </div>
       )}

@@ -76,3 +76,25 @@ CREATE TABLE IF NOT EXISTS reading_history (
 
 CREATE INDEX IF NOT EXISTS idx_reading_history_user ON reading_history(user_id, last_read_at DESC);
 CREATE INDEX IF NOT EXISTS idx_reading_history_book ON reading_history(book_id);
+
+-- 5. Bảng Đoạn Văn Bản Highlight (Highlights)
+CREATE TABLE IF NOT EXISTS highlights (
+    id TEXT PRIMARY KEY,                             -- Unique highlight ID
+    user_id TEXT NOT NULL,                           -- Khóa ngoại liên kết users(id)
+    book_id TEXT NOT NULL,                           -- ID tựa sách
+    chapter_id TEXT NOT NULL,                        -- ID chương
+    chapter_title TEXT,                              -- Tiêu đề chương
+    text TEXT NOT NULL,                              -- Nội dung văn bản được bôi đen
+    color TEXT NOT NULL DEFAULT 'yellow',            -- 'yellow' | 'green' | 'blue' | 'pink' | 'purple'
+    prefix TEXT,                                     -- Ký tự phía trước để định vị W3C TextQuote
+    suffix TEXT,                                     -- Ký tự phía sau để định vị W3C TextQuote
+    paragraph_index INTEGER DEFAULT -1,              -- Thứ tự khối đoạn văn (data-tts-block)
+    note TEXT,                                       -- Ghi chú của người đọc
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+);
+
+CREATE INDEX IF NOT EXISTS idx_highlights_user ON highlights(user_id);
+CREATE INDEX IF NOT EXISTS idx_highlights_book ON highlights(user_id, book_id);
+CREATE INDEX IF NOT EXISTS idx_highlights_chapter ON highlights(user_id, book_id, chapter_id);

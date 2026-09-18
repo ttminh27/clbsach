@@ -4,6 +4,7 @@ import { BookHeader } from '../components/book-detail/BookHeader';
 import { ChapterList } from '../components/book-detail/ChapterList';
 import { AudioList } from '../components/book-detail/AudioList';
 import { BookInfo } from '../components/book-detail/BookInfo';
+import { BookHighlightsTab } from '../components/book-detail/BookHighlightsTab';
 import booksData from '../data/books-manifest.json';
 import { Book } from '../types/book';
 import { ArrowLeft } from 'lucide-react';
@@ -12,7 +13,7 @@ const books: Book[] = booksData as Book[];
 
 export const BookDetailPage: React.FC = () => {
   const { bookId } = useParams<{ bookId: string }>();
-  const [activeTab, setActiveTab] = useState<'chapters' | 'audios' | 'info'>('chapters');
+  const [activeTab, setActiveTab] = useState<'chapters' | 'audios' | 'info' | 'highlights'>('chapters');
 
   const book = books.find((b) => b.id === bookId);
 
@@ -51,6 +52,7 @@ export const BookDetailPage: React.FC = () => {
           {activeTab === 'chapters' && <ChapterList book={book} />}
           {activeTab === 'audios' && <AudioList book={book} />}
           {activeTab === 'info' && <BookInfo book={book} />}
+          {activeTab === 'highlights' && <BookHighlightsTab book={book} />}
         </div>
       )}
     </div>

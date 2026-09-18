@@ -25,6 +25,7 @@ import {
   Code2,
   Link2,
   Quote,
+  Highlighter,
 } from 'lucide-react';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import { useAudio } from '../../context/AudioContext';
@@ -48,6 +49,8 @@ interface ReaderToolbarProps {
   onCopied?: (message: string) => void;
   onBookmark?: () => void;
   isBookmarked?: boolean;
+  highlightsCount?: number;
+  onOpenHighlights?: () => void;
 }
 
 export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
@@ -65,6 +68,8 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
   onCopied,
   onBookmark,
   isBookmarked = false,
+  highlightsCount = 0,
+  onOpenHighlights,
 }) => {
   const { settings, setTheme, setFontSize, setLineHeight, setFontFamily, setTextAlign, setMaxWidth, toggleBionicReading } =
     useReaderSettings();
@@ -257,6 +262,25 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
                 }`}
               />
               <span className="hidden xl:inline">Đánh dấu</span>
+            </button>
+          )}
+
+          {/* Highlights Drawer Trigger Button */}
+          {onOpenHighlights && (
+            <button
+              onClick={onOpenHighlights}
+              className="relative flex items-center gap-1 sm:gap-1.5 rounded-lg p-2 sm:px-2.5 sm:py-1.5 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-all shrink-0"
+              title={`Đoạn trích nổi bật (${highlightsCount} đoạn trích)`}
+            >
+              <div className="relative">
+                <Highlighter className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
+                {highlightsCount > 0 && (
+                  <span className="absolute -top-1.5 -right-2 min-w-[15px] h-[15px] rounded-full bg-amber-500 text-white text-[9px] font-bold flex items-center justify-center px-1 shadow-xs ring-1 ring-white dark:ring-slate-900">
+                    {highlightsCount > 99 ? '99+' : highlightsCount}
+                  </span>
+                )}
+              </div>
+              <span className="hidden xl:inline">Trích dẫn</span>
             </button>
           )}
 

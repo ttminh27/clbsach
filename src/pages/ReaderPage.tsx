@@ -9,11 +9,13 @@ import { TTSPlayerBar } from '../components/reader/TTSPlayerBar';
 import { CommentSection } from '../components/interaction/CommentSection';
 import { ChapterDiscussionDrawer } from '../components/interaction/ChapterDiscussionDrawer';
 import { ChapterSearchBar } from '../components/reader/ChapterSearchBar';
+import { ChapterHighlightsDrawer } from '../components/reader/ChapterHighlightsDrawer';
 import booksData from '../data/books-manifest.json';
 import { Book, Chapter } from '../types/book';
 import { useHistory } from '../context/HistoryContext';
 import { useAudio } from '../context/AudioContext';
 import { useReaderSettings } from '../context/ReaderSettingsContext';
+import { useHighlights } from '../context/HighlightContext';
 import { useTextToSpeech } from '../hooks/useTextToSpeech';
 import { Loader2, AlertCircle, Home, Check, Bookmark, X } from 'lucide-react';
 import { trackReadChapter } from '../utils/analytics';
@@ -39,6 +41,13 @@ export const ReaderPage: React.FC = () => {
   const { saveProgress, getProgressForBook } = useHistory();
   const { pause: pauseAudio, isPlaying: isAudioPlaying } = useAudio();
   const { settings } = useReaderSettings();
+  const {
+    addHighlight,
+    updateHighlight,
+    deleteHighlight,
+    getHighlightsForChapter,
+    getHighlightsForBook,
+  } = useHighlights();
 
   const getMaxWidthClass = () => {
     switch (settings.maxWidth) {
@@ -60,6 +69,7 @@ export const ReaderPage: React.FC = () => {
   const [isTOCDrawerOpen, setIsTOCDrawerOpen] = useState<boolean>(false);
   const [isQuizOpen, setIsQuizOpen] = useState<boolean>(false);
   const [isDiscussionDrawerOpen, setIsDiscussionDrawerOpen] = useState<boolean>(false);
+  const [isHighlightsDrawerOpen, setIsHighlightsDrawerOpen] = useState<boolean>(false);
 
   // Chapter In-page Search States
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
@@ -433,6 +443,7 @@ export const ReaderPage: React.FC = () => {
           return;
         }
         setIsTOCDrawerOpen(false);
+        setIsHighlightsDrawerOpen(false);
       }
     };
 
@@ -495,6 +506,9 @@ export const ReaderPage: React.FC = () => {
     );
   }
 
+  const chapterHighlights = book && currentChapter ? getHighlightsForChapter(book.id, currentChapter.id) : [];
+  const bookHighlights = book ? getHighlightsForBook(book.id) : [];
+
   return (
     <div className="min-h-screen pb-28 w-full max-w-full">
       {/* Reader Toolbar */}
@@ -512,6 +526,8 @@ export const ReaderPage: React.FC = () => {
         onCopied={showToast}
         onBookmark={handleManualBookmark}
         isBookmarked={isBookmarked}
+        highlightsCount={chapterHighlights.length}
+        onOpenHighlights={() => setIsHighlightsDrawerOpen(true)}
       />
 
       {/* In-page Chapter Search Bar */}
@@ -546,12 +562,17 @@ export const ReaderPage: React.FC = () => {
             <MarkdownViewer
               content={content}
               bookId={book.id}
+              chapterId={currentChapter.id}
               bookTitle={book.title}
               chapterTitle={currentChapter.title}
               currentTTSIndex={tts.currentParagraphIndex}
               isTTSSpeaking={tts.isPlaying || tts.isPaused}
+              highlights={chapterHighlights}
               onReadFromIndex={handleReadFromIndex}
               onCopied={showToast}
+              onAddHighlight={addHighlight}
+              onUpdateHighlight={updateHighlight}
+              onDeleteHighlight={deleteHighlight}
             />
             <ChapterNavigation
               book={book}
@@ -642,6 +663,20 @@ export const ReaderPage: React.FC = () => {
         chapterId={currentChapter.id}
         bookTitle={book.title}
         chapterTitle={currentChapter.title}
+      />
+
+      {/* Chapter Highlights Drawer */}
+      <ChapterHighlightsDrawer
+        isOpen={isHighlightsDrawerOpen}
+        onClose={() => setIsHighlightsDrawerOpen(false)}
+        bookId={book.id}
+        bookTitle={book.title}
+        currentChapterId={currentChapter.id}
+        currentChapterTitle={currentChapter.title}
+        chapterHighlights={chapterHighlights}
+        bookHighlights={bookHighlights}
+        onDeleteHighlight={deleteHighlight}
+        onToast={showToast}
       />
 
       {/* Reading Resume Floating Alert */}
