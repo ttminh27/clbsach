@@ -4,16 +4,16 @@
 
 ---
 
-> *Bạn có thường gặp tình huống mặt đối mặt với một người bạn đã tửng gặp đâu đó, nhưng không thể nào nhớ được tên của họ?*
+> *Bạn có thường gặp tình huống mặt đối mặt với một người bạn đã từng gặp đâu đó, nhưng không thể nào nhớ được tên của họ?*
 >
 
 ---
 
-Chúng ta đang sống trong một thế giới số luôn biến đổi và tràn ngập thông tin. Hộp thư nhận liên tục phải xử lý những cái tên cũ và mới mà chúng ta cần để mắt đến. Bộ não chúng ta liên tục ghi và xoá để theo kịp tin tức hay tên tuổi hiện ra trước mặt chúng ta mỗi ngày. Vì vậy hoàn toàn bình thường nếu chúng ta muốn giữ cho mình tỉnh táo, chúng ta phải biết quên và bỏ qua nhiều nút thông tin đang cố gắng chen chân vào khu vực đã đen kín trong não bộ của chúng ta.
+Chúng ta đang sống trong một thế giới số luôn biến đổi và tràn ngập thông tin. Hộp thư nhận liên tục phải xử lý những cái tên cũ và mới mà chúng ta cần để mắt đến. Bộ não chúng ta liên tục ghi và xoá để theo kịp tin tức hay tên tuổi hiện ra trước mặt chúng ta mỗi ngày. Vì vậy hoàn toàn bình thường nếu chúng ta muốn giữ cho mình tỉnh táo, chúng ta phải biết quên và bỏ qua nhiều nút thông tin đang cố gắng chen chân vào khu vực đã ken kín trong não bộ của chúng ta.
 
 Trong một thế giới hỗn loạn như thế này, thật khó tưởng tượng tại sao chỉ có một số ít người chịu khó nhắc lại sau khi chúng ta gặp được một nhân vật mới. Tôi thấy cần phải nhấn mạnh điểm này: Khi bạn gặp ai đó mà bạn cảm thấy muốn tạo dựng một mối quan hệ, hãy dành thêm chút thời gian để bảo đảm bạn không bị lạc lối trong mê cung tình cảm của họ.
 
-Mới gần đây thôi, tôi vừa bay xuống Florida để đọc một bài diễn văn trong buổi lễ trao giải dành cho những thành viên cũ và hiện tại của hội ái hữu Sigma Chỉ tại trường đại học trước đây của tôi. Tôi chắc đã phân phát danh thiếp và địa chỉ email cho ít nhất là một trăm người trong buổi tối hôm đó. Sau khi buổi lễ trang trọng đã kết thúc, tôi rút lui về khách sạn vào lúc gần sáng và kiểm tra email. Nó nằm đó, ngay trong hộp thư của tôi, một lời nhắn cảm ơn tử một thành viên trẻ tuổi, cảm ơn tôi về bài diễn văn, ý nghĩa của nó với cuộc đời của anh ta là người xuất thân tương tự như tôi, và hy vọng một ngày nào đó được ngồi với tôi nhầm nháp ly cà phê. Trong vòng hai tuần sau đó, có hơn 100 người cùng email hay gọi điện để nói những lời tương tự. Tuy nhiên, chính cái email đầu tiên đó mới làm tôi nhớ đến nhiều nhất.
+Mới gần đây thôi, tôi vừa bay xuống Florida để đọc một bài diễn văn trong buổi lễ trao giải dành cho những thành viên cũ và hiện tại của hội ái hữu Sigma Chi tại trường đại học trước đây của tôi. Tôi chắc đã phân phát danh thiếp và địa chỉ email cho ít nhất là một trăm người trong buổi tối hôm đó. Sau khi buổi lễ trang trọng đã kết thúc, tôi rút lui về khách sạn vào lúc gần sáng và kiểm tra email. Nó nằm đó, ngay trong hộp thư của tôi, một lời nhắn cảm ơn từ một thành viên trẻ tuổi, cảm ơn tôi về bài diễn văn, ý nghĩa của nó với cuộc đời của anh ta là người xuất thân tương tự như tôi, và hy vọng một ngày nào đó được ngồi với tôi nhấm nháp ly cà phê. Trong vòng hai tuần sau đó, có hơn 100 người cùng email hay gọi điện để nói những lời tương tự. Tuy nhiên, chính cái email đầu tiên đó mới làm tôi nhớ đến nhiều nhất.
 
 Những món quà đáng quý nhất tôi từng nhận được không phải là những món quà có thể tính bằng tiền mà chính là những lá thư, email, hay những tấm thiệp chân tình bày tỏ sự cảm ơn đã hướng dẫn và đưa ra lời khuyên hữu ích.
 
@@ -43,22 +43,22 @@ Lời cảm ơn là một cơ hội để khẳng định sự liên tục trong
 
 Sau đây là danh sách một số điểm bạn có thể nhắc đến trong những lời nhắn:
 
-« Luôn nhớ thể hiện sự cảm ơn chân thành.
+- Luôn nhớ thể hiện sự cảm ơn chân thành.
 
-«_ Luôn nhớ nhắc đến một điểm thú vị nào đó về cuộc họp hay cuộc nói chuyện - chuyện cười hay một chuyện buồn cười.
+- Luôn nhớ nhắc đến một điểm thú vị nào đó về cuộc họp hay cuộc nói chuyện - chuyện cười hay một chuyện buồn cười.
 
-‹ Nhắc lại những lời hứa của hai bên - có qua có lại.
+- Nhắc lại những lời hứa của hai bên - có qua có lại.
 
-« Ngắn gọn và đi thẳng vào vấn đề.
+- Ngắn gọn và đi thẳng vào vấn đề.
 
-« Luôn nhớ gửi lời cảm ơn đến tên một người cụ thể.
+- Luôn nhớ gửi lời cảm ơn đến tên một người cụ thể.
 
-«+ Gửi bằng email và thư tay. Sự kết hợp này tạo ra một ấn tượng rất riêng.
+- Gửi bằng email và thư tay. Sự kết hợp này tạo ra một ấn tượng rất riêng.
 
-« Thời gian là mấu chốt. Nhanh chóng gửi thư ngay sau buổi gặp mặt hay phỏng vấn.
+- Thời gian là mấu chốt. Nhanh chóng gửi thư ngay sau buổi gặp mặt hay phỏng vấn.
 
-« Nhiều người đợi đến dịp lễ tết mới nói cảm ơn hay tìm cách liên lạc. Sao lại phải đợi? Những lời nhắc nhở của bạn sẽ đến sớm hơn, vào những lúc hợp lý hơn, và chắc chắn sẽ được nhớ đến lâu hơn.
+- Nhiều người đợi đến dịp lễ tết mới nói cảm ơn hay tìm cách liên lạc. Sao lại phải đợi? Những lời nhắc nhở của bạn sẽ đến sớm hơn, vào những lúc hợp lý hơn, và chắc chắn sẽ được nhớ đến lâu hơn.
 
-« Đừng quên nhắc nhở những người đứng ra làm trung gian cho bạn gặp gỡ. Báo cho người giới thiệu biết kết quả cuộc gặp mặt, và cảm ơn họ đã giúp đỡ.
+- Đừng quên nhắc nhở những người đứng ra làm trung gian cho bạn gặp gỡ. Báo cho người giới thiệu biết kết quả cuộc gặp mặt, và cảm ơn họ đã giúp đỡ.
 
 Hãy tập thói quen luôn nhắc lại. Biến nó thành một hành động không điều kiện. Nếu làm được như vậy, bạn sẽ không còn bao giờ phải vất vả cố nhớ tên người khác - và không gặp trường hợp người khác phải vất vả cố nhớ tên bạn nữa.
