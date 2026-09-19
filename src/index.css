@@ -233,105 +233,85 @@ mark.reader-user-highlight:hover {
 mark.reader-user-highlight.hl-yellow {
   background-color: #fef08a !important; /* amber-200 */
   color: inherit !important;
-  border-bottom: 2px solid #facc15;
 }
 .dark mark.reader-user-highlight.hl-yellow {
   background-color: rgba(161, 98, 7, 0.45) !important;
-  border-bottom: 2px solid #eab308;
 }
 html.sepia mark.reader-user-highlight.hl-yellow,
 body.sepia mark.reader-user-highlight.hl-yellow {
   background-color: #fde68a !important;
-  border-bottom: 2px solid #d97706;
 }
 html.oled mark.reader-user-highlight.hl-yellow,
 body.oled mark.reader-user-highlight.hl-yellow {
   background-color: rgba(202, 138, 4, 0.35) !important;
-  border-bottom: 2px solid #ca8a04;
 }
 
 /* 2. Green (Xanh ngọc) */
 mark.reader-user-highlight.hl-green {
   background-color: #bbf7d0 !important; /* emerald-200 */
   color: inherit !important;
-  border-bottom: 2px solid #4ade80;
 }
 .dark mark.reader-user-highlight.hl-green {
   background-color: rgba(22, 101, 52, 0.5) !important;
-  border-bottom: 2px solid #22c55e;
 }
 html.sepia mark.reader-user-highlight.hl-green,
 body.sepia mark.reader-user-highlight.hl-green {
   background-color: #bbf7d0 !important;
-  border-bottom: 2px solid #16a34a;
 }
 html.oled mark.reader-user-highlight.hl-green,
 body.oled mark.reader-user-highlight.hl-green {
   background-color: rgba(21, 128, 61, 0.4) !important;
-  border-bottom: 2px solid #15803d;
 }
 
 /* 3. Blue (Xanh lam) */
 mark.reader-user-highlight.hl-blue {
   background-color: #bae6fd !important; /* sky-200 */
   color: inherit !important;
-  border-bottom: 2px solid #38bdf8;
 }
 .dark mark.reader-user-highlight.hl-blue {
   background-color: rgba(12, 74, 110, 0.5) !important;
-  border-bottom: 2px solid #0284c7;
 }
 html.sepia mark.reader-user-highlight.hl-blue,
 body.sepia mark.reader-user-highlight.hl-blue {
   background-color: #bae6fd !important;
-  border-bottom: 2px solid #0284c7;
 }
 html.oled mark.reader-user-highlight.hl-blue,
 body.oled mark.reader-user-highlight.hl-blue {
   background-color: rgba(3, 105, 161, 0.4) !important;
-  border-bottom: 2px solid #0284c7;
 }
 
 /* 4. Pink (Hồng phấn) */
 mark.reader-user-highlight.hl-pink {
   background-color: #fbcfe8 !important; /* pink-200 */
   color: inherit !important;
-  border-bottom: 2px solid #f472b6;
 }
 .dark mark.reader-user-highlight.hl-pink {
   background-color: rgba(131, 24, 67, 0.45) !important;
-  border-bottom: 2px solid #db2777;
 }
 html.sepia mark.reader-user-highlight.hl-pink,
 body.sepia mark.reader-user-highlight.hl-pink {
   background-color: #fbcfe8 !important;
-  border-bottom: 2px solid #db2777;
 }
 html.oled mark.reader-user-highlight.hl-pink,
 body.oled mark.reader-user-highlight.hl-pink {
   background-color: rgba(157, 23, 77, 0.4) !important;
-  border-bottom: 2px solid #db2777;
 }
 
 /* 5. Purple (Tím mộng) */
 mark.reader-user-highlight.hl-purple {
   background-color: #e9d5ff !important; /* purple-200 */
   color: inherit !important;
-  border-bottom: 2px solid #c084fc;
 }
 .dark mark.reader-user-highlight.hl-purple {
   background-color: rgba(88, 28, 135, 0.45) !important;
-  border-bottom: 2px solid #9333ea;
 }
 html.sepia mark.reader-user-highlight.hl-purple,
 body.sepia mark.reader-user-highlight.hl-purple {
   background-color: #e9d5ff !important;
-  border-bottom: 2px solid #9333ea;
 }
 html.oled mark.reader-user-highlight.hl-purple,
 body.oled mark.reader-user-highlight.hl-purple {
   background-color: rgba(107, 33, 168, 0.4) !important;
-  border-bottom: 2px solid #9333ea;
 }
 
 /* Smooth pulse animation when jumping to highlight */
