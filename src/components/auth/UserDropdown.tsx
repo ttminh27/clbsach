@@ -68,11 +68,12 @@ export const UserDropdown: React.FC = () => {
       <button
         onClick={() => setIsOpen(!isOpen)}
         className="flex items-center gap-2 rounded-xl p-1 sm:px-2.5 sm:py-1 border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 hover:border-emerald-400 dark:hover:border-emerald-600 transition-all shadow-xs"
+        title={user.name}
       >
         <div className={`w-7 h-7 rounded-lg flex items-center justify-center ${getAvatarBg(user.avatar)}`}>
           <AvatarIcon avatarId={user.avatar} className="h-4 w-4" />
         </div>
-        <span className="hidden sm:inline text-xs font-bold text-slate-800 dark:text-slate-200 max-w-[100px] truncate">
+        <span className="hidden sm:inline text-xs font-bold text-slate-800 dark:text-slate-200 max-w-[140px] md:max-w-[180px] truncate" title={user.name}>
           {user.name}
         </span>
       </button>

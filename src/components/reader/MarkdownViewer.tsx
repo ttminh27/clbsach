@@ -9,6 +9,7 @@ import { TextHighlight, HighlightColor } from '../../types/highlight';
 import { applyHighlightsToElement, clearHighlightsFromElement, getTextQuoteContext } from '../../utils/chapterHighlight';
 import { SelectionActionToolbar } from './SelectionActionToolbar';
 import { ActiveHighlightPopover } from './ActiveHighlightPopover';
+import { ImageViewerModal } from './ImageViewerModal';
 
 const getSlug = (children: React.ReactNode): string | undefined => {
   const extractText = (node: any): string => {
@@ -740,32 +741,13 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
         />
       )}
 
-      {/* Image Lightbox Modal */}
-      {zoomImage && (
-        <div
-          onClick={() => setZoomImage(null)}
-          className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/90 backdrop-blur-md animate-in fade-in duration-150"
-        >
-          <button
-            onClick={() => setZoomImage(null)}
-            className="absolute top-4 right-4 rounded-full bg-white/20 p-2 text-white hover:bg-white/30 backdrop-blur-md"
-          >
-            <X className="h-6 w-6" />
-          </button>
-          <div className="max-w-4xl max-h-[90vh] overflow-hidden rounded-2xl">
-            <img
-              src={zoomImage.src}
-              alt={zoomImage.alt}
-              className="max-h-[85vh] w-auto object-contain mx-auto rounded-xl shadow-2xl"
-            />
-            {zoomImage.alt && (
-              <p className="mt-3 text-center text-sm font-medium text-white/90">
-                {zoomImage.alt}
-              </p>
-            )}
-          </div>
-        </div>
-      )}
+      {/* Interactive Image Viewer Modal with Zoom In/Out, Pan & Rotate */}
+      <ImageViewerModal
+        isOpen={Boolean(zoomImage)}
+        src={zoomImage?.src || ''}
+        alt={zoomImage?.alt || ''}
+        onClose={() => setZoomImage(null)}
+      />
     </div>
   );
 };
