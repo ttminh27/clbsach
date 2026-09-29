@@ -1,8 +1,9 @@
 # Chương 6
 ## Thông Hiểu Về Sự Thay Đổi Cá Nhân
 
-> *Tôi là một nghệ nhân về cách sống – tác phẩm nghệ thuật của tôi chính là cuộc đời mình. *>
-> – Suzuki
+> *Tôi là một nghệ nhân về cách sống – tác phẩm nghệ thuật của tôi chính là cuộc đời mình.*
+>
+> — **Suzuki**
 
 Đúng như đã hẹn, tối hôm sau Julian xuất hiện tại nhà tôi.
 
@@ -55,7 +56,7 @@ Julian vẫn giữ thái độ bình tĩnh và kiên nhẫn trước sự khăng
 
 “Julian, anh đang làm gì vậy? Tách trà của tôi đã chảy tràn ra cả rồi. Dù anh có cố đến mấy thì cũng không thể rót thêm vào được đâu!”, tôi la lên, hoàn toàn mất kiên nhẫn.
 
-Anh nhìn tôi một lúc lâu. “Xin đừng hiểu lầm. Tôi thật sự rất tôn trọng anh, John à. Luôn luôn là như vậy. Tuy nhiên, giống như tách trà này, tâm trí anh dường như đã chất đầy những ý kiến của riêng mình thì* làm sao có thể tiếp nhận thêm điều gì khác... trừ khi anh đổ hết nước trà *ra khỏi chiếc tách trước.”
+Anh nhìn tôi một lúc lâu. “Xin đừng hiểu lầm. Tôi thật sự rất tôn trọng anh, John à. Luôn luôn là như vậy. Tuy nhiên, giống như tách trà này, tâm trí anh dường như đã chất đầy những ý kiến của riêng mình thì làm sao có thể tiếp nhận thêm điều gì khác... trừ khi anh đổ hết nước trà ra khỏi chiếc tách trước.”
 
 Tôi hết sức kinh ngạc trước chân lý mà Julian vừa nói. Anh nói đúng. Nhiều năm làm việc trong ngành luật bảo thủ, thực hiện những công việc giống nhau mỗi ngày cùng những con người giống nhau có những suy nghĩ giống nhau đã khiến chiếc tách của tôi đầy đến miệng rồi. Vợ tôi, Jenny, đã luôn nói rằng chúng tôi nên gặp gỡ thêm bạn bè mới và khám phá những điều mới lạ. Cô ấy bảo, “Em ước gì anh có thêm một chút máu phiêu lưu nữa, John ạ”.
 
@@ -91,7 +92,13 @@ Julian kể với tôi rằng sau vài tháng ở Sivana, Yogi Raman là ngườ
 
 Tôi nhìn Julian và thấy anh đã nhắm mắt lại, như thể đang thả hồn quay về vùng đất cổ tích, nơi anh may mắn được lĩnh hội nguồn tri thức vô giá.
 
-“Yogi Raman nói với tôi bảy nguyên tắc để có một cuộc sống thanh thản, vui vẻ và giàu có trong tâm hồn đều được chứa đựng trong một câu chuyện ngụ ngôn huyền bí. Câu chuyện ngụ ngôn này chính là tinh hoa của tất cả những điều đó. Ông ấy đã yêu cầu tôi nhắm mắt lại giống như bây giờ. Rồi ông bảo tôi hãy hình dung cảnh tượng tiếp theo đây trong tâm trí mình:* Anh đang ngồi giữa một khu vườn xanh ngát và đẹp lộng lẫy. Khu vườn ấy có đủ các loài hoa rực rỡ nhất mà anh từng được thấy. Không gian xung quanh cực kỳ thanh tĩnh. Hãy tận hưởng những xúc cảm tuyệt vời mà khu vườn mang đến và cảm nhận như thể anh có thời gian vô tận để tận hưởng ốc đảo thiên nhiên này. Khi nhìn quanh, anh thấy ở giữa khu vườn thần tiên này có một ngọn hải đăng màu đỏ cao sáu tầng. Đột nhiên, sự yên tĩnh của khu vườn bị phá vỡ bởi tiếng cọt kẹt lớn khi cánh cửa tầng trệt của ngọn hải đăng bật mở. Một võ sĩ sumo người Nhật cao 2,7 mét, nặng hơn 400 ký khệ nệ đi ra và rảo bước đến khu vực trung tâm của khu vườn. *“Chuyện bắt đầu thú vị rồi đấy”, Julian cười khẽ. “Võ sĩ sumo đó gần như khỏa thân. Anh ta chỉ có duy nhất một chiếc khố bằng dây cáp màu hồng che lấy vùng kín cơ thể.”* Khi võ sĩ sumo này bắt đầu di chuyển quanh khu vườn, anh ta tìm thấy một chiếc đồng hồ bấm giờ bằng vàng sáng lấp lánh mà ai đó đã bỏ quên cách đây nhiều năm. Anh đeo nó vào và bất thình lình ngã uỵch xuống đất. Vị võ sĩ sumo bị bất tỉnh và nằm đó, im lặng và bất động. Đến khi anh nghĩ rằng anh ta đã trút hơi thở cuối cùng thì bỗng anh ta tỉnh dậy, có lẽ là do bị kích thích bởi mùi hương của những bông hoa hồng vàng tươi thắm đang nở rộ gần đó. Như được nạp đầy năng lượng, vị võ sĩ sumo nhanh chóng đứng dậy và theo trực giác nhìn về phía bên trái mình. Anh ta vô cùng kinh ngạc trước những gì mình thấy. Xuyên qua những bụi cây ngoài rìa khu vườn, anh ta nhìn thấy một con đường quanh co được trải hàng triệu viên kim cương sáng lấp lánh. Một điều gì đó thôi thúc vị võ sĩ phải đi trên con đường đó, và anh đã làm vậy. Con đường đó đã dẫn anh đến với niềm vui bất tận và hạnh phúc vĩnh cửu.*
+“Yogi Raman nói với tôi bảy nguyên tắc để có một cuộc sống thanh thản, vui vẻ và giàu có trong tâm hồn đều được chứa đựng trong một câu chuyện ngụ ngôn huyền bí. Câu chuyện ngụ ngôn này chính là tinh hoa của tất cả những điều đó. Ông ấy đã yêu cầu tôi nhắm mắt lại giống như bây giờ. Rồi ông bảo tôi hãy hình dung cảnh tượng tiếp theo đây trong tâm trí mình:
+
+*Anh đang ngồi giữa một khu vườn xanh ngát và đẹp lộng lẫy. Khu vườn ấy có đủ các loài hoa rực rỡ nhất mà anh từng được thấy. Không gian xung quanh cực kỳ thanh tĩnh. Hãy tận hưởng những xúc cảm tuyệt vời mà khu vườn mang đến và cảm nhận như thể anh có thời gian vô tận để tận hưởng ốc đảo thiên nhiên này. Khi nhìn quanh, anh thấy ở giữa khu vườn thần tiên này có một ngọn hải đăng màu đỏ cao sáu tầng. Đột nhiên, sự yên tĩnh của khu vườn bị phá vỡ bởi tiếng cọt kẹt lớn khi cánh cửa tầng trệt của ngọn hải đăng bật mở. Một võ sĩ sumo người Nhật cao 2,7 mét, nặng hơn 400 ký khệ nệ đi ra và rảo bước đến khu vực trung tâm của khu vườn.*
+
+“Chuyện bắt đầu thú vị rồi đấy”, Julian cười khẽ. “Võ sĩ sumo đó gần như khỏa thân. Anh ta chỉ có duy nhất một chiếc khố bằng dây cáp màu hồng che lấy vùng kín cơ thể.”
+
+*Khi võ sĩ sumo này bắt đầu di chuyển quanh khu vườn, anh ta tìm thấy một chiếc đồng hồ bấm giờ bằng vàng sáng lấp lánh mà ai đó đã bỏ quên cách đây nhiều năm. Anh đeo nó vào và bất thình lình ngã uỵch xuống đất. Vị võ sĩ sumo bị bất tỉnh và nằm đó, im lặng và bất động. Đến khi anh nghĩ rằng anh ta đã trút hơi thở cuối cùng thì bỗng anh ta tỉnh dậy, có lẽ là do bị kích thích bởi mùi hương của những bông hoa hồng vàng tươi thắm đang nở rộ gần đó. Như được nạp đầy năng lượng, vị võ sĩ sumo nhanh chóng đứng dậy và theo trực giác nhìn về phía bên trái mình. Anh ta vô cùng kinh ngạc trước những gì mình thấy. Xuyên qua những bụi cây ngoài rìa khu vườn, anh ta nhìn thấy một con đường quanh co được trải hàng triệu viên kim cương sáng lấp lánh. Một điều gì đó thôi thúc vị võ sĩ phải đi trên con đường đó, và anh đã làm vậy. Con đường đó đã dẫn anh đến với niềm vui bất tận và hạnh phúc vĩnh cửu.”*
 
 Sau khi nghe câu chuyện kỳ lạ này trên đỉnh Hy Mã Lạp Sơn, trong lúc đang ngồi cạnh một tu sĩ đã từng trực tiếp nhìn thấy ngọn đuốc của sự khai sáng, Julian đã thất vọng. Đơn giản bởi anh đã nghĩ mình sắp được nghe một điều gì đấy kinh thiên động địa, một kiến thức có thể khiến anh bắt tay vào hành động ngay, hay thậm chí có thể khiến anh cảm động đến bật khóc. Thế mà, thay vào đó, tất cả những gì anh nghe được lại là một câu chuyện ngớ ngẩn về một võ sĩ sumo và ngọn hải đăng.
 

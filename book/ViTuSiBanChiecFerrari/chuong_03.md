@@ -81,7 +81,7 @@ Julian nhìn chằm chằm vị lữ khách ấy với sự hiếu kỳ mãnh li
 
 “Đây hẳn là một trong những Đại hiền triết của Sivana”, Julian thầm nghĩ, không giấu được niềm vui trước phát hiện này.
 
-*“Tôi là Julian Mantle. Tôi đến đây để học hỏi các Nhà hiền triết của* Sivana. Ông có biết tôi có thể tìm thấy họ ở đâu không?”, Julian hỏi.
+“Tôi là Julian Mantle. Tôi đến đây để học hỏi các Nhà hiền triết của Sivana. Ông có biết tôi có thể tìm thấy họ ở đâu không?”, Julian hỏi.
 
 Người đàn ông thận trọng nhìn vị khách Tây phương mệt mỏi rã rời. Sự điềm tĩnh và bình yên toát ra từ ông khiến ông trông thánh thiện như thiên thần và rạng rỡ như một người đã được khai sáng.
 

@@ -1,7 +1,9 @@
 # Chương 10
 ## Sức Mạnh Của Tính Kỷ Luật
 
-> *Tìm kiếm tự do – anh sẽ trở thành tù nhân của dục vọng. Tìm kiếm kỷ luật – anh sẽ trở nên tự do. *>
+> *Tìm kiếm tự do – anh sẽ trở thành tù nhân của dục vọng. Tìm kiếm kỷ luật – anh sẽ trở nên tự do.*
+>
+> — **Frank Herbert**
 > – Frank Herbert
 
 Julian tiếp tục dùng câu chuyện ngụ ngôn của Yogi Raman để đặt nền móng cho những tri thức mà anh đang chia sẻ với tôi. Tôi đã học về khu vườn trong tâm trí mình – một kho sức mạnh và tiềm năng. Thông qua biểu tượng ngọn hải đăng, tôi đã nhận ra tầm quan trọng tối cao của việc có mục đích rõ ràng trong cuộc sống và hiệu quả của việc thiết lập mục tiêu. Bằng hình ảnh võ sĩ sumo người Nhật cao 2,7 mét và nặng hơn 400 ký, tôi đã được chỉ dạy về khái niệm vượt thời gian kaizen và vô số lợi ích mà việc làm chủ bản thân mang lại. Lúc này, tôi chưa biết rằng những điều tốt đẹp nhất vẫn còn chờ đợi ở phía trước.
@@ -32,7 +34,11 @@ Rồi Julian cho tay vào áo choàng và lấy ra một chiếc mề đay bằn
 
 “Chiếc mề đay khắc những gì vậy?”
 
-“Đây, tôi sẽ đọc chúng cho anh nghe. Đừng bao giờ quên những lời này, John ạ. Chúng đã giúp tôi vượt qua những thời điểm khó khăn. Tôi mong sao chúng cũng sẽ giúp anh cảm thấy được an ủi trong những lúc tưởng chừng như bế tắc.* Thông qua kỷ luật thép, anh sẽ hun đúc một tính cách can đảm và điềm tĩnh. Thông qua sức mạnh ý chí, anh được định là sẽ vươn đến tầm cao lý tưởng nhất trong cuộc sống và có thể tận hưởng cảnh thiên đường đầy những điều tốt đẹp, vui vẻ và sinh động. Không có chúng, anh sẽ bị lạc như một thủy thủ không có la bàn và rồi cũng sẽ chìm theo con tàu của mình.” *“Tôi chưa bao giờ nghiêm túc suy nghĩ về tầm quan trọng của việc tự kiểm soát bản thân, mặc dù có nhiều lần tôi đã ước gì mình có tính kỷ luật hơn”, tôi thừa nhận. “Có phải ý anh muốn nói rằng tôi có thể xây dựng tính kỷ luật giống như cách cậu con trai tuổi teen của tôi tập cho lên cơ bắp ở phòng tập thể hình không?”
+“Đây, tôi sẽ đọc chúng cho anh nghe. Đừng bao giờ quên những lời này, John ạ. Chúng đã giúp tôi vượt qua những thời điểm khó khăn. Tôi mong sao chúng cũng sẽ giúp anh cảm thấy được an ủi trong những lúc tưởng chừng như bế tắc:
+
+*Thông qua kỷ luật thép, anh sẽ hun đúc một tính cách can đảm và điềm tĩnh. Thông qua sức mạnh ý chí, anh được định là sẽ vươn đến tầm cao lý tưởng nhất trong cuộc sống và có thể tận hưởng cảnh thiên đường đầy những điều tốt đẹp, vui vẻ và sinh động. Không có chúng, anh sẽ bị lạc như một thủy thủ không có la bàn và rồi cũng sẽ chìm theo con tàu của mình.*”
+
+“Tôi chưa bao giờ nghiêm túc suy nghĩ về tầm quan trọng của việc tự kiểm soát bản thân, mặc dù có nhiều lần tôi đã ước gì mình có tính kỷ luật hơn”, tôi thừa nhận. “Có phải ý anh muốn nói rằng tôi có thể xây dựng tính kỷ luật giống như cách cậu con trai tuổi teen của tôi tập cho lên cơ bắp ở phòng tập thể hình không?”
 
 “Đó cũng là một cách ví von hay đấy. Anh rèn luyện ý chí của mình cũng giống như con trai anh rèn luyện cơ thể ở phòng tập thể hình vậy. Bất kỳ ai, dù yếu đuối hay lơ đễnh đến cỡ nào, cũng có thể trở nên kỷ luật trong một thời gian khá ngắn. Mahatma Gandhi là một tấm gương điển hình. Khi mọi người nghĩ đến vị thánh thời hiện đại này, họ nhớ đến một người có thể nhịn ăn nhiều tuần lễ để theo đuổi mục đích đời mình và chịu đựng đau đớn tột cùng để thể hiện đức tin mạnh mẽ. Nhưng khi nghiên cứu cuộc đời của Gandhi, anh sẽ thấy ông không phải lúc nào cũng là bậc thầy trong việc kiểm soát bản thân.”
 
@@ -98,7 +104,7 @@ Julian nói tiếp, “Mỗi ngày, khi anh đi bộ đến chỗ làm, tôi mu�
 
 “Tôi đang chú ý lắng nghe đây.”
 
-“Đây là câu thần chú mà tôi đề nghị anh nên lặp lại ít nhất ba mươi* lần mỗi ngày, ‘Tôi mạnh mẽ hơn vẻ bên ngoài, tất cả sức mạnh và quyền* lực của thế giới đều ở trong tôi’. Nó sẽ tạo nên những thay đổi hết sức rõ rệt trong cuộc sống của anh. Thậm chí, để nhanh thấy kết quả hơn, hãy kết hợp câu thần chú này với phương pháp tưởng tượng sáng tạo mà tôi đã đề cập đến lúc nãy. Ví dụ, hãy đến một nơi yên tĩnh, ngồi xuống và nhắm mắt lại. Đừng để tâm trí anh nghĩ vẩn vơ. Hãy ngồi yên lặng hoàn toàn, bởi biểu hiện rõ ràng nhất của một tinh thần yếu đuối là một cơ thể không thể ngồi yên. Giờ thì hãy niệm chú thành lời, lặp đi lặp lại nhiều lần. Trong khi làm vậy, hãy hình dung anh là một người mạnh mẽ, đầy kỷ luật, hoàn toàn kiểm soát được tâm trí, cơ thể và tinh thần của mình. Hãy tưởng tượng bản thân hành động như Gandhi hoặc Mẹ Teresa khi gặp khó khăn thử thách. Những kết quả đáng kinh ngạc chắc chắn sẽ đến với anh”, Julian khẳng định.
+“Đây là câu thần chú mà tôi đề nghị anh nên lặp lại ít nhất ba mươi lần mỗi ngày, ‘Tôi mạnh mẽ hơn vẻ bên ngoài, tất cả sức mạnh và quyền lực của thế giới đều ở trong tôi’. Nó sẽ tạo nên những thay đổi hết sức rõ rệt trong cuộc sống của anh. Thậm chí, để nhanh thấy kết quả hơn, hãy kết hợp câu thần chú này với phương pháp tưởng tượng sáng tạo mà tôi đã đề cập đến lúc nãy. Ví dụ, hãy đến một nơi yên tĩnh, ngồi xuống và nhắm mắt lại. Đừng để tâm trí anh nghĩ vẩn vơ. Hãy ngồi yên lặng hoàn toàn, bởi biểu hiện rõ ràng nhất của một tinh thần yếu đuối là một cơ thể không thể ngồi yên. Giờ thì hãy niệm chú thành lời, lặp đi lặp lại nhiều lần. Trong khi làm vậy, hãy hình dung anh là một người mạnh mẽ, đầy kỷ luật, hoàn toàn kiểm soát được tâm trí, cơ thể và tinh thần của mình. Hãy tưởng tượng bản thân hành động như Gandhi hoặc Mẹ Teresa khi gặp khó khăn thử thách. Những kết quả đáng kinh ngạc chắc chắn sẽ đến với anh”, Julian khẳng định.
 
 “Chỉ thế thôi sao?”, tôi bất ngờ trước sự đơn giản của phương pháp này. “Tôi có thể khai mở toàn bộ nguồn ý chí dự trữ của mình chỉ bằng bài tập đơn giản này ư?”
 
@@ -157,17 +163,21 @@ Ngay khi Julian chia sẻ xong những suy nghĩ của anh về tính tự kỷ 
 
 ---
 
-### TÓM TẮT CHƯƠNG 10![Biểu tượng: Chiếc khố bằng dây cáp màu hồng](images/symbol_day_cap.jpg)
+### TÓM TẮT CHƯƠNG 10
 
+![Biểu tượng: Chiếc khố bằng dây cáp màu hồng](images/symbol_day_cap.jpg)
 
-**Biểu tượng: Nguyên tắc: **Sống có kỷ luật** Bài học: **- Kỷ luật được xây dựng bằng việc kiên trì thực hiện những hành động dũng cảm nho nhỏ.
+**Biểu tượng:** Chiếc khố bằng dây cáp màu hồng
 
+**Nguyên tắc:** Sống có kỷ luật
+
+**Bài học:**
+- Kỷ luật được xây dựng bằng việc kiên trì thực hiện những hành động dũng cảm nho nhỏ.
 - Càng nuôi dưỡng hạt mầm của tính tự kỷ luật thì nó sẽ càng trưởng thành hơn.
+- Sức mạnh ý chí là một yếu tố cơ bản để có cuộc sống viên mãn.
 
-- Sức mạnh ý chí là một yếu tố cơ bản để có cuộc sống viên mãn.** Phương pháp:**
-
+**Phương pháp:**
 - Các câu nói truyền động lực / Tưởng tượng sáng tạo
-
 - Lời thề im lặng
 
 > *Hãy chiến đấu chống lại những ý nghĩ yếu kém đã lén lút đột nhập vào tòa lâu đài tâm trí của bạn suốt nhiều năm qua. Những ý nghĩ tiêu cực đó sẽ nhận ra chúng không được chào đón và lẳng lặng rời đi như những vị khách không mời.*

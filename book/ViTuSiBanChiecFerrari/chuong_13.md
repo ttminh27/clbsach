@@ -3,7 +3,7 @@
 
 > *Khi say sưa ngắm nhìn cảnh hoàng hôn tuyệt diệu hay vẻ đẹp của vầng trăng, tâm hồn tôi như rộng mở để suy tôn Đấng Sáng Tạo.*
 >
-> – Mahatma Gandhi
+> — **Mahatma Gandhi**
 
 Đã hơn mười hai tiếng đồng hồ kể từ khi Julian đến nhà tôi vào đêm hôm trước để chia sẻ những tri thức mà anh đã lĩnh hội ở Sivana. Chắc chắn mười hai giờ đồng hồ ấy là khoảng thời gian quan trọng nhất cuộc đời tôi. Bỗng chốc tôi cảm thấy mình vừa phấn khởi, vừa tràn đầy động lực và được giải phóng. Julian về cơ bản đã thay đổi thế giới quan của tôi bằng câu chuyện ngụ ngôn của Yogi Raman và những đức tính có giá trị trường tồn mà nó đại diện. Tôi nhận ra mình thậm chí còn chưa bắt đầu khám phá những tiềm năng của bản thân. Tôi đã lãng phí những món quà mà cuộc sống ban tặng. Chính nguồn tri thức của Julian đã cho tôi cơ hội đối mặt với những vết thương đang cản trở tôi sống với tiếng cười, nguồn sinh lực và sự thỏa mãn mà tôi biết mình xứng đáng có được. Tôi cảm thấy xúc động vô cùng.
 
@@ -174,19 +174,22 @@ Không nói thêm lời nào, Julian Mantle – từng là luật sư triệu ph
 
 ---
 
-### TÓM TẮT CHƯƠNG 13![Biểu tượng: Con đường trải kim cương](images/symbol_con_duong_kim_cuong.jpg)
+### TÓM TẮT CHƯƠNG 13
 
+![Biểu tượng: Con đường trải kim cương](images/symbol_con_duong_kim_cuong.jpg)
 
-**Biểu tượng: Nguyên tắc: **Trân trọng hiện tại** Bài học: **- Sống với hiện tại. Tận hưởng món quà của hiện tại mang đến.
+**Biểu tượng:** Con đường trải kim cương
 
+**Nguyên tắc:** Trân trọng hiện tại
+
+**Bài học:**
+- Sống với hiện tại. Tận hưởng món quà của hiện tại mang đến.
 - Đừng bao giờ hy sinh hạnh phúc để đổi lấy thành tựu.
+- Hãy tận hưởng cuộc hành trình và sống mỗi ngày như đó là ngày cuối cùng của bạn.
 
-- Hãy tận hưởng cuộc hành trình và sống mỗi ngày như đó là ngày cuối cùng của bạn.** Phương pháp:**
-
+**Phương pháp:**
 - Hãy sống cùng tuổi thơ của con trẻ
-
 - Thực hành việc thể hiện lòng biết ơn
-
 - Phát triển vận mệnh của bản thân
 
 > *Tất cả chúng ta đều ở đây vì một lý do đặc biệt nào đó. Hãy thôi làm tù nhân của quá khứ. Hãy trở thành một kiến trúc sư của tương lai chính mình.*

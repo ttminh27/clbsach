@@ -1,8 +1,9 @@
 # Chương 7
 ## Khu Vườn Đặc Biệt
 
-> *Đa số mọi người đều sống trong một vòng tròn giới hạn các tiềm năng thiên bẩm của mình - dù là ở khía cạnh thể chất, trí tuệ, hay đạo đức - trong khi tất cả chúng ta đều có một nguồn dự trữ to lớn những điều mà chúng ta không dám mơ đến. *>
-> – William James
+> *Đa số mọi người đều sống trong một vòng tròn giới hạn các tiềm năng thiên bẩm của mình - dù là ở khía cạnh thể chất, trí tuệ, hay đạo đức - trong khi tất cả chúng ta đều có một nguồn dự trữ to lớn những điều mà chúng ta không dám mơ đến.*
+>
+> — **William James**
 
 Julian nói, “Trong câu chuyện ngụ ngôn này, khu vườn là biểu tượng của tâm trí. Nếu anh quan tâm đến tâm trí mình, nuôi dưỡng và chăm sóc nó như một khu vườn màu mỡ được chăm bón và tưới nước đầy đủ, thì hoa trong vườn sẽ nở rộ hơn cả mong đợi của anh. Còn nếu anh để cho cỏ dại bám rễ sinh sôi, thì sự bình yên lâu dài trong tâm trí và sự hài hòa nội tại sẽ luôn lảng tránh anh.
 
@@ -90,7 +91,11 @@ Rồi Julian cho tay vào sâu trong chiếc áo choàng lấy ra một tấm th
 
 “Một ngày nọ, trong khi Yogi Raman và tôi đang đi dọc một con đường núi yên tĩnh, tôi đã hỏi ông triết gia mà ông yêu thích nhất là ai. Ông bảo rằng ông chịu ảnh hưởng từ khá nhiều người trong cuộc đời mình nên thật khó để chọn ra một người nào là nguồn cảm hứng duy nhất. Tuy nhiên, có một lời trích dẫn mà ông luôn khắc ghi trong tâm; một lời trích dẫn chứa đựng tất cả những giá trị mà ông đã luôn trân trọng trong suốt cuộc đời tĩnh tu của mình. Thế rồi, ngay ở nơi tuyệt đẹp ấy, giữa chốn thâm sơn cùng cốc, vị hiền triết thông tuệ của phương Đông đã chia sẻ điều đó với tôi. Và tôi cũng khắc ghi lấy từng lời vào tâm khảm mình. Chúng đóng vai trò như một lời nhắc nhở hàng ngày về bản chất của chúng ta và về tất cả những gì mà chúng ta có thể trở thành. Những lời ấy là của triết gia Ấn Độ vĩ đại Patanjali. Việc lặp lại những lời đó thật to mỗi sáng trước khi ngồi thiền có một tác động sâu sắc đối với mọi việc diễn ra trong ngày của tôi. John, hãy ghi nhớ rằng từ ngữ chính là hiện thân bằng lời của sức mạnh.”
 
-Rồi Julian cho tôi xem tấm thẻ. Lời trích dẫn ấy như thế này:* Khi được truyền cảm hứng bởi một mục đích cao cả hay một kế hoạch phi thường nào đó, tất cả suy nghĩ trong bạn sẽ phá vỡ mọi xiềng xích: Tinh thần sẽ vượt ngoài giới hạn, ý thức sẽ được mở rộng theo mọi hướng và bạn sẽ tìm thấy bản thân mình ở trong một thế giới mới, rộng lớn và tuyệt vời hơn. Những động lực, khả năng và tài năng đang ngủ yên sẽ được đánh thức, và bạn nhận ra bản thân đã trở thành một con người mới vĩ đại hơn hẳn những gì bạn từng mơ ước. *Ngay khoảnh khắc ấy, tôi thấy được mối liên hệ giữa sức khỏe thể chất và sự nhạy bén của tinh thần. Julian đang có một sức khỏe hoàn hảo và trông trẻ hơn rất nhiều so với thời điểm chúng tôi gặp nhau lần đầu tiên. Anh ấy tràn đầy sinh lực và có vẻ như nguồn năng lượng, nhiệt huyết và lạc quan trong anh là vô hạn. Tôi có thể thấy được anh đã thay đổi nhiều điều trong lối sống của mình, nhưng rõ ràng điểm khởi đầu cho cú lột xác ngoạn mục của anh chính là sự khỏe mạnh trong tinh thần. Thành công bên ngoài thật sự bắt nguồn từ thành công ở bên trong. Bằng cách thay đổi tư duy, Julian Mantle đã thay đổi cuộc đời mình.
+Rồi Julian cho tôi xem tấm thẻ. Lời trích dẫn ấy như thế này:
+
+> *Khi được truyền cảm hứng bởi một mục đích cao cả hay một kế hoạch phi thường nào đó, tất cả suy nghĩ trong bạn sẽ phá vỡ mọi xiềng xích: Tinh thần sẽ vượt ngoài giới hạn, ý thức sẽ được mở rộng theo mọi hướng và bạn sẽ tìm thấy bản thân mình ở trong một thế giới mới, rộng lớn và tuyệt vời hơn. Những động lực, khả năng và tài năng đang ngủ yên sẽ được đánh thức, và bạn nhận ra bản thân đã trở thành một con người mới vĩ đại hơn hẳn những gì bạn từng mơ ước.*
+
+Ngay khoảnh khắc ấy, tôi thấy được mối liên hệ giữa sức khỏe thể chất và sự nhạy bén của tinh thần. Julian đang có một sức khỏe hoàn hảo và trông trẻ hơn rất nhiều so với thời điểm chúng tôi gặp nhau lần đầu tiên. Anh ấy tràn đầy sinh lực và có vẻ như nguồn năng lượng, nhiệt huyết và lạc quan trong anh là vô hạn. Tôi có thể thấy được anh đã thay đổi nhiều điều trong lối sống của mình, nhưng rõ ràng điểm khởi đầu cho cú lột xác ngoạn mục của anh chính là sự khỏe mạnh trong tinh thần. Thành công bên ngoài thật sự bắt nguồn từ thành công ở bên trong. Bằng cách thay đổi tư duy, Julian Mantle đã thay đổi cuộc đời mình.
 
 “Chính xác thì tôi có thể phát triển thái độ sống tích cực, điềm tĩnh và tràn đầy cảm hứng này bằng cách nào, Julian? Sau bao nhiêu năm tháng bước trên một lối mòn cũ kỹ, tôi nghĩ sức mạnh tinh thần của mình đã trở nên yếu đuối cả rồi. Nói ra thì tôi gần như không thể kiểm soát nổi những ý nghĩ trôi loanh quanh trong khu vườn tâm trí của mình”, tôi chân thành chia sẻ.
 
@@ -178,7 +183,9 @@ Trời ạ! Julian đã khiến tôi thật sự bối rối. Tôi không thể 
 
 “Đúng là như vậy. Tôi sẽ chia sẻ với anh ngay đây. Phiền anh cho tôi xin thêm tách trà nữa được không?”
 
-“Thôi nào, đừng kéo dài thời gian nữa.”* “Được rồi, bí mật của hạnh phúc rất đơn giản: Hãy tìm ra công việc *mà anh thật sự yêu thích và dồn hết năng lượng của mình vào việc đó. Nếu anh tìm hiểu về những con người hạnh phúc nhất, khỏe mạnh nhất và viên mãn nhất trong thế giới của chúng ta, anh sẽ nhận thấy tất cả họ đều tìm thấy niềm đam mê của mình trong cuộc sống và dành toàn bộ thời gian để theo đuổi nó. Và những niềm đam mê đó hầu hết đều là lời mời gọi họ theo đuổi sứ mệnh phục vụ người khác. Một khi anh đã tập trung sức mạnh tinh thần và năng lượng cho một công việc mà anh yêu thích, sự thịnh vượng sẽ chảy vào cuộc sống của anh và tất cả những khát vọng của anh sẽ được thỏa mãn một cách dễ dàng và trọn vẹn nhất.”
+“Thôi nào, đừng kéo dài thời gian nữa.”
+
+“Được rồi, bí mật của hạnh phúc rất đơn giản: Hãy tìm ra công việc mà anh thật sự yêu thích và dồn hết năng lượng của mình vào việc đó. Nếu anh tìm hiểu về những con người hạnh phúc nhất, khỏe mạnh nhất và viên mãn nhất trong thế giới của chúng ta, anh sẽ nhận thấy tất cả họ đều tìm thấy niềm đam mê của mình trong cuộc sống và dành toàn bộ thời gian để theo đuổi nó. Và những niềm đam mê đó hầu hết đều là lời mời gọi họ theo đuổi sứ mệnh phục vụ người khác. Một khi anh đã tập trung sức mạnh tinh thần và năng lượng cho một công việc mà anh yêu thích, sự thịnh vượng sẽ chảy vào cuộc sống của anh và tất cả những khát vọng của anh sẽ được thỏa mãn một cách dễ dàng và trọn vẹn nhất.”
 
 “Chỉ đơn giản là cần tìm ra việc chúng ta yêu thích và làm việc đó thôi sao?”
 
@@ -324,7 +331,7 @@ Càng nghĩ về những điều đang được nghe, tôi càng cảm thấy ch
 
 “Nhưng thực hiện những bài tập này ở văn phòng sao, Julian? Các cộng sự sẽ nghĩ tôi khùng đó”, tôi băn khoăn.
 
-“Yogi Raman và các nhà hiền triết khác mà tôi biết thường dùng một câu nói đã được tổ tiên truyền lại qua nhiều thế hệ. Thật vinh dự cho tôi khi được truyền lại nó cho anh trong đêm nay – một đêm quan trọng đối với cả hai chúng ta. Câu ấy như sau, ‘Chẳng có gì đáng khâm phục trong việc vượt trội hơn người khác. Điều đáng khâm phục thật sự nằm ở việc vượt lên chính mình’. Tất cả những gì mà tôi muốn nói ở đây là nếu anh muốn cải thiện cuộc sống của mình và tận hưởng tất cả những gì anh* xứng đáng có được thì anh phải ra sức chạy trong cuộc đua của chính* mình. Việc người khác nói gì về anh không quan trọng. Điều quan trọng là những gì anh nói với bản thân mình. Đừng quan tâm đến phán xét của người khác miễn sao anh biết những điều mình đang làm là đúng. Anh có thể làm bất cứ điều gì mình muốn, miễn việc đó đúng theo lý trí và lương tâm. Đừng bao giờ xấu hổ vì mình đã làm điều đúng đắn; hãy quyết định điều gì anh cho là đúng và kiên quyết thực hiện điều đó. Vì Chúa, đừng bao giờ sa vào thói quen rất tầm thường là tự đong đếm giá trị bản thân mình bằng cách so sánh với những gì mà người khác có được. Như Yogi Raman đã nói, ‘Mỗi giây anh dùng để suy nghĩ về ước mơ của kẻ khác tức là anh đã tự đánh mất thời gian để suy nghĩ về ước mơ của mình’.”
+“Yogi Raman và các nhà hiền triết khác mà tôi biết thường dùng một câu nói đã được tổ tiên truyền lại qua nhiều thế hệ. Thật vinh dự cho tôi khi được truyền lại nó cho anh trong đêm nay – một đêm quan trọng đối với cả hai chúng ta. Câu ấy như sau, ‘Chẳng có gì đáng khâm phục trong việc vượt trội hơn người khác. Điều đáng khâm phục thật sự nằm ở việc vượt lên chính mình’. Tất cả những gì mà tôi muốn nói ở đây là nếu anh muốn cải thiện cuộc sống của mình và tận hưởng tất cả những gì anh xứng đáng có được thì anh phải ra sức chạy trong cuộc đua của chính mình. Việc người khác nói gì về anh không quan trọng. Điều quan trọng là những gì anh nói với bản thân mình. Đừng quan tâm đến phán xét của người khác miễn sao anh biết những điều mình đang làm là đúng. Anh có thể làm bất cứ điều gì mình muốn, miễn việc đó đúng theo lý trí và lương tâm. Đừng bao giờ xấu hổ vì mình đã làm điều đúng đắn; hãy quyết định điều gì anh cho là đúng và kiên quyết thực hiện điều đó. Vì Chúa, đừng bao giờ sa vào thói quen rất tầm thường là tự đong đếm giá trị bản thân mình bằng cách so sánh với những gì mà người khác có được. Như Yogi Raman đã nói, ‘Mỗi giây anh dùng để suy nghĩ về ước mơ của kẻ khác tức là anh đã tự đánh mất thời gian để suy nghĩ về ước mơ của mình’.”
 
 Giờ đã là mười hai giờ bảy phút khuya. Nhưng kỳ lạ thay, tôi chẳng cảm thấy mệt mỏi chút nào. Khi tôi chia sẻ việc này với Julian, anh ấy lại mỉm cười, “Thế là anh lại học được một nguyên lý khác để khai sáng cuộc sống. Đa phần cảm giác mệt mỏi là do tâm trí tạo ra. Sự mệt mỏi thống trị cuộc sống của những ai sống không có định hướng và không có ước mơ. Để tôi cho anh một ví dụ. Anh đã bao giờ có một buổi trưa ngồi ở văn phòng đọc các báo cáo khô khan về những vụ kiện tụng, rồi anh bắt đầu bị phân tâm và cảm thấy buồn ngủ vô cùng không?”.
 
@@ -341,19 +348,22 @@ Tôi gật đầu đồng tình. Những tri thức của Julian có vẻ là nh
 
 ---
 
-### TÓM TẮT CHƯƠNG 7![Biểu tượng: Khu vườn tuyệt đẹp](images/symbol_khu_vuon.jpg)
+### TÓM TẮT CHƯƠNG 7
 
+![Biểu tượng: Khu vườn tuyệt đẹp](images/symbol_khu_vuon.jpg)
 
-**Biểu tượng: Nguyên tắc: **Làm chủ tâm trí** Bài học: **- Hãy chăm sóc khu vườn tâm trí của mình, nó sẽ đơm hoa kết trái vượt ngoài mong đợi của bạn.
+**Biểu tượng:** Khu vườn tuyệt đẹp
 
+**Nguyên tắc:** Làm chủ tâm trí
+
+**Bài học:**
+- Hãy chăm sóc khu vườn tâm trí của mình, nó sẽ đơm hoa kết trái vượt ngoài mong đợi của bạn.
 - Chất lượng tư duy sẽ quyết định chất lượng cuộc sống của bạn.
+- Không có sai lầm, chỉ có những bài học. Hãy xem thất bại là những cơ hội cho sự phát triển bản thân và mở rộng đời sống tinh thần.
 
-- Không có sai lầm, chỉ có những bài học. Hãy xem thất bại là những cơ hội cho sự phát triển bản thân và mở rộng đời sống tinh thần.** Phương pháp:**
-
+**Phương pháp:**
 - Tâm của Hoa hồng
-
 - Tư duy Đối lập
-
 - Bí mật Hồ nước
 
 > *Bí mật của hạnh phúc rất đơn giản: Hãy tìm ra công việc mà bạn thật sự yêu thích và dồn hết năng lượng của mình vào việc đó. Một khi làm được như vậy, sự thịnh vượng sẽ chảy vào cuộc sống của bạn và mọi khát vọng khi ấy sẽ được thỏa mãn một cách dễ dàng và trọn vẹn nhất.*

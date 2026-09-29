@@ -1,4 +1,8 @@
-# THÔNG TIN EBOOK![Bìa Sách Vị Tu Sĩ Bán Chiếc Ferrari](images/cover.jpg)![First News](images/publisher_logo.png)
+# THÔNG TIN EBOOK
+
+![Bìa Sách Vị Tu Sĩ Bán Chiếc Ferrari](images/cover.jpg)
+
+![First News](images/publisher_logo.png)
 
 ## Thông Tin Tác Phẩm
 
@@ -10,7 +14,9 @@
 - **Nhà xuất bản:** NHÀ XUẤT BẢN TỔNG HỢP THÀNH PHỐ HỒ CHÍ MINH
 - **Năm xuất bản:** 2020
 
----![Vị Tu Sĩ Bán Chiếc Ferrari](images/title_ornament.png)
+---
+
+![Vị Tu Sĩ Bán Chiếc Ferrari](images/title_ornament.png)
 
 ---
 

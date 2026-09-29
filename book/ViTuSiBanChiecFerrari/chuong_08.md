@@ -1,8 +1,9 @@
 # Chương 8
 ## Thắp Lên Ngọn Lửa Nội Tâm
 
-> *Hãy tin tưởng vào chính mình. Hãy tạo ra một cuộc sống khiến bạn vui vẻ và thoải mái. Hãy phát huy tất cả những gì được trao, bằng cách thổi bùng những đốm lửa tiềm năng nhỏ bé thành những ngọn lửa của thành tựu vĩ đại. *>
-> – Foster C. McClellan
+> *Hãy tin tưởng vào chính mình. Hãy tạo ra một cuộc sống khiến bạn vui vẻ và thoải mái. Hãy phát huy tất cả những gì được trao, bằng cách thổi bùng những đốm lửa tiềm năng nhỏ bé thành những ngọn lửa của thành tựu vĩ đại.*
+>
+> — **Foster C. McClellan**
 
 “Ngày Yogi Raman chia sẻ với tôi về câu chuyện ngụ ngôn bí ẩn của ông trên đỉnh Hy Mã Lạp Sơn thật sự rất giống với ngày hôm nay”, Julian nói.
 
@@ -96,7 +97,7 @@ Thế là, với đôi mắt bị chiếc khăn che kín, hai chân trụ vững
 
 “Tôi cứ nghĩ thầy sẽ thể hiện thêm những khả năng kỳ diệu của mình chứ Yogi Raman. Điều gì đã xảy ra vậy thưa thầy?”
 
-“Chúng ta đã cùng đến nơi hoang vu này vì một lý do duy nhất. Tôi đã đồng ý truyền dạy cho anh tất cả những tri thức của thế gian mà tôi biết. Ví dụ minh họa của ngày hôm nay nhằm củng cố lời khuyên của tôi về tầm quan trọng của việc thiết lập mục tiêu rõ ràng trong cuộc sống và sự hiểu biết chính xác về con đường mà mình đang đi. Những gì anh vừa thấy khẳng định nguyên tắc quan trọng nhất cho bất kỳ ai muốn đạt* được mục tiêu và thực hiện mục đích của đời mình: anh sẽ không thể *bắn trúng một mục tiêu mà anh không nhìn thấy. Người ta thường dành cả cuộc đời để ước ao mình sẽ trở nên hạnh phúc hơn, sống một cuộc sống vui tươi hơn với một niềm đam mê mãnh liệt. Thế nhưng, họ lại không nhìn thấy tầm quan trọng của việc dành ra chỉ mười phút mỗi tháng để viết xuống những mục tiêu của mình và suy nghĩ thấu đáo về ý nghĩa đời mình – Dharma của mình. Việc thiết lập mục tiêu sẽ khiến cuộc đời anh trở nên tươi đẹp rạng rỡ. Thế giới của anh sẽ trở nên phong phú hơn, thú vị hơn và diệu kỳ hơn.
+“Chúng ta đã cùng đến nơi hoang vu này vì một lý do duy nhất. Tôi đã đồng ý truyền dạy cho anh tất cả những tri thức của thế gian mà tôi biết. Ví dụ minh họa của ngày hôm nay nhằm củng cố lời khuyên của tôi về tầm quan trọng của việc thiết lập mục tiêu rõ ràng trong cuộc sống và sự hiểu biết chính xác về con đường mà mình đang đi. Những gì anh vừa thấy khẳng định nguyên tắc quan trọng nhất cho bất kỳ ai muốn đạt được mục tiêu và thực hiện mục đích của đời mình: *anh sẽ không thể bắn trúng một mục tiêu mà anh không nhìn thấy*. Người ta thường dành cả cuộc đời để ước ao mình sẽ trở nên hạnh phúc hơn, sống một cuộc sống vui tươi hơn với một niềm đam mê mãnh liệt. Thế nhưng, họ lại không nhìn thấy tầm quan trọng của việc dành ra chỉ mười phút mỗi tháng để viết xuống những mục tiêu của mình và suy nghĩ thấu đáo về ý nghĩa đời mình – Dharma của mình. Việc thiết lập mục tiêu sẽ khiến cuộc đời anh trở nên tươi đẹp rạng rỡ. Thế giới của anh sẽ trở nên phong phú hơn, thú vị hơn và diệu kỳ hơn.
 
 Anh thấy đó, Julian, tổ tiên của chúng tôi đã dạy chúng tôi rằng việc thiết lập các mục tiêu rõ ràng để đạt được điều mình muốn về mặt trí tuệ, thể chất và tinh thần là yếu tố quyết định để những ước muốn ấy thành hiện thực. Trong thế giới trước đây của anh, mọi người đưa ra các mục tiêu về vật chất và tiền bạc. Chuyện đó chẳng có gì là sai trái cả nếu nó có giá trị với anh. Tuy nhiên, để đạt được sự tự chủ và giác ngộ, anh cũng phải đưa ra những mục tiêu cụ thể ở những khía cạnh khác. Anh có ngạc nhiên không nếu biết rằng tôi đã đặt ra những mục tiêu khá rõ ràng để có được sự bình an nội tại mà tôi mong muốn, nguồn sinh lực mà tôi dành cho mỗi một ngày và tình yêu thương mà tôi dành cho tất cả những người xung quanh mình? Việc thiết lập mục tiêu không chỉ dành cho những luật sư tài giỏi như anh – người đang sống trong một thế giới đầy những cám dỗ vật chất. Bất kỳ ai muốn cải thiện chất lượng của cuộc sống bên trong lẫn bên ngoài của mình đều phải lấy ra một mảnh giấy và bắt đầu viết xuống những mục tiêu của cuộc đời mình. Ngay khi việc này được hoàn thành, nguồn lực tự nhiên sẽ phát huy hiệu quả và biến những ước mơ thành hiện thực.”
 
@@ -198,7 +199,9 @@ Nhưng tôi đang đi lạc đề rồi. Tôi có rất nhiều điều để n�
 
 “Cách duy nhất để thiết lập và duy trì một thói quen mới là hướng thật nhiều năng lượng tập trung vào nó đến nỗi thói quen cũ bị gạt ra như một vị khách không được hoan nghênh. Quá trình thiết lập này nhìn chung mất khoảng hai mươi mốt ngày, tương ứng với khoảng thời gian cần thiết để tạo ra một đường dẫn truyền thần kinh mới.”
 
-“Giả sử tôi muốn bắt đầu thực hành phương pháp Tâm của Hoa hồng để loại bỏ thói quen lo lắng và có một nhịp sống bình yên hơn, thì tôi có phải thực hiện nó vào cùng một thời điểm mỗi ngày hay không?”* “Hỏi rất hay! Điều đầu tiên tôi phải nói với anh là anh không phải *làm bất cứ việc gì cả. Mọi thứ mà tôi chia sẻ đêm nay, tôi đều nói trong vai trò của một người bạn thật lòng quan tâm đến sự phát triển và tiến bộ của anh. Mỗi chiến lược, công cụ và phương pháp đều đã được kiểm chứng qua thời gian về hiệu quả và những kết quả thực tế có thể đo lường được. Điều này tôi có thể đảm bảo với anh. Mặc dù trong lòng tôi rất muốn nài nỉ anh thử hết tất cả những phương pháp của các nhà hiền triết, nhưng lương tâm lại bảo tôi hãy cứ đơn giản hoàn thành nhiệm vụ của mình và chia sẻ hết với anh những tri thức mà tôi được lĩnh hội, còn việc thực hiện chúng thế nào thì để anh quyết định. Quan điểm của tôi là thế này: đừng bao giờ làm việc gì chỉ vì anh buộc phải làm. Lý do duy nhất để làm một việc nào đó là vì anh thật sự muốn làm và vì anh biết đó là điều đúng đắn nên làm.”
+“Giả sử tôi muốn bắt đầu thực hành phương pháp Tâm của Hoa hồng để loại bỏ thói quen lo lắng và có một nhịp sống bình yên hơn, thì tôi có phải thực hiện nó vào cùng một thời điểm mỗi ngày hay không?”
+
+“Hỏi rất hay! Điều đầu tiên tôi phải nói với anh là anh không phải làm bất cứ việc gì cả. Mọi thứ mà tôi chia sẻ đêm nay, tôi đều nói trong vai trò của một người bạn thật lòng quan tâm đến sự phát triển và tiến bộ của anh. Mỗi chiến lược, công cụ và phương pháp đều đã được kiểm chứng qua thời gian về hiệu quả và những kết quả thực tế có thể đo lường được. Điều này tôi có thể đảm bảo với anh. Mặc dù trong lòng tôi rất muốn nài nỉ anh thử hết tất cả những phương pháp của các nhà hiền triết, nhưng lương tâm lại bảo tôi hãy cứ đơn giản hoàn thành nhiệm vụ của mình và chia sẻ hết với anh những tri thức mà tôi được lĩnh hội, còn việc thực hiện chúng thế nào thì để anh quyết định. Quan điểm của tôi là thế này: đừng bao giờ làm việc gì chỉ vì anh buộc phải làm. Lý do duy nhất để làm một việc nào đó là vì anh thật sự muốn làm và vì anh biết đó là điều đúng đắn nên làm.”
 
 “Rất hợp lý, Julian. Anh đừng lo, chưa lúc nào tôi cảm thấy anh đang nhồi nhét những kiến thức này vào đầu tôi cả. Dù sao thì thứ duy nhất mà tôi có thể nhồi nhét vào cơ thể mình những ngày này là một hộp bánh vòng – và chuyện đó thì có gì lớn lao đâu”, tôi bông đùa.
 
@@ -246,22 +249,28 @@ Ví dụ, hầu hết mọi người sẽ làm cùng một việc khi vừa th�
 
 “Thật sự đơn giản thế đấy. Kể từ đêm nay trở đi, hãy nắm toàn quyền kiểm soát cuộc đời mình. Anh phải kiên quyết làm chủ vận mệnh của chính mình. Hãy đua cuộc đua của riêng anh. Hãy khám phá sứ mệnh của anh trong cuộc đời này và bắt đầu trải nghiệm cảm giác ngất ngây của một cuộc sống tràn đầy cảm hứng. Cuối cùng, hãy luôn ghi nhớ rằng những gì ở phía sau và phía trước anh đều chẳng là gì so với những giá trị ở bên trong anh.”
 
-“Cảm ơn anh, Julian. Tôi thật sự cần nghe những điều này. Tôi chưa bao giờ nhận ra các khiếm khuyết trong cuộc đời mình cho đến tận đêm nay. Tôi đã đi lang thang vô định qua cuộc đời này mà chẳng biết mục đích thật sự của mình là gì. Mọi thứ sẽ phải thay đổi. Tôi hứa với anh đấy. Tôi rất biết ơn vì những điều anh đã chia sẻ đêm nay.”* “Không có chi đâu, anh bạn. Tôi chỉ là đang hoàn thành mục đích của* chính mình đó thôi.”
+“Cảm ơn anh, Julian. Tôi thật sự cần nghe những điều này. Tôi chưa bao giờ nhận ra các khiếm khuyết trong cuộc đời mình cho đến tận đêm nay. Tôi đã đi lang thang vô định qua cuộc đời này mà chẳng biết mục đích thật sự của mình là gì. Mọi thứ sẽ phải thay đổi. Tôi hứa với anh đấy. Tôi rất biết ơn vì những điều anh đã chia sẻ đêm nay.”
+
+“Không có chi đâu, anh bạn. Tôi chỉ là đang hoàn thành mục đích của chính mình đó thôi.”
 
 
 ---
 
-### TÓM TẮT CHƯƠNG 8![Biểu tượng: Ngọn hải đăng](images/symbol_ngon_hai_dang.jpg)
+### TÓM TẮT CHƯƠNG 8
 
+![Biểu tượng: Ngọn hải đăng](images/symbol_ngon_hai_dang.jpg)
 
-**Biểu tượng: Nguyên tắc: **Theo đuổi mục đích đời mình** Bài học: **- Mục đích của cuộc sống là sống có mục đích.
+**Biểu tượng:** Ngọn hải đăng
 
+**Nguyên tắc:** Theo đuổi mục đích đời mình
+
+**Bài học:**
+- Mục đích của cuộc sống là sống có mục đích.
 - Việc khám phá và thực hiện sứ mệnh của đời mình sẽ mang đến một cuộc sống mãn nguyện lâu bền.
+- Thiết lập những mục tiêu rõ ràng trong cuộc sống cá nhân, sự nghiệp lẫn đời sống tinh thần, và hãy can đảm thực hiện chúng.
 
-- Thiết lập những mục tiêu rõ ràng trong cuộc sống cá nhân, sự nghiệp lẫn đời sống tinh thần, và hãy can đảm thực hiện chúng.** Phương pháp:**
-
+**Phương pháp:**
 - Sức mạnh của việc tìm hiểu bản thân
-
 - Phương pháp năm bước để đạt mục tiêu
 
 > *Đừng bao giờ quên tầm quan trọng của việc sống với một lòng hân hoan vô hạn. Đừng bao giờ làm ngơ trước vẻ đẹp tuyệt vời của mọi sự sống quanh mình. Ngày hôm nay và khoảnh khắc này là một món quà. Hãy tập trung vào mục đích của đời mình. Vũ trụ sẽ an bài mọi sự còn lại.*

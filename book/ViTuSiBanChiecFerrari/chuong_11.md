@@ -1,7 +1,9 @@
 # Chương 11
 ## Tài Sản Quý Giá Nhất
 
-> *Sự sắp xếp thời gian hợp lý là biểu hiện rõ ràng nhất của một cái đầu có tổ chức. *>
+> *Sự sắp xếp thời gian hợp lý là biểu hiện rõ ràng nhất của một cái đầu có tổ chức.*
+>
+> — **Isaac Pitman**
 > – Isaac Pitman
 
 “Anh có biết điều buồn cười của cuộc sống này là gì không?”, Julian hỏi tôi.
@@ -66,7 +68,7 @@ Diave nói, ‘Có thể chính những nỗi đau mà anh phải chịu đựng
 
 “Ý anh muốn nói đến khoảng thời gian dành để trau dồi kiến thức, hay củng cố các mối quan hệ khách hàng và đầu tư cho việc trở thành một luật sư làm việc hiệu quả hơn hả?”
 
-“Đúng thế, cả thời gian dành để vun đắp mối quan hệ với Jenny và bọn trẻ nữa. Anh cũng cần có thời gian để kết nối với thiên nhiên và thể hiện lòng biết ơn đối với tất cả những gì mình may mắn có được. Rồi còn thời gian để làm mới tâm trí, cơ thể và tinh thần anh nữa. Đây chỉ là vài hoạt động có tác động mạnh, cho phép anh tạo ra cuộc sống mà mình xứng đáng có được. Hãy dành tất cả thời gian của mình cho những hoạt* động thật sự ý nghĩa. Những người được khai sáng luôn làm việc theo* thứ tự ưu tiên. Đây chính là bí quyết để làm chủ thời gian.”
+“Đúng thế, cả thời gian dành để vun đắp mối quan hệ với Jenny và bọn trẻ nữa. Anh cũng cần có thời gian để kết nối với thiên nhiên và thể hiện lòng biết ơn đối với tất cả những gì mình may mắn có được. Rồi còn thời gian để làm mới tâm trí, cơ thể và tinh thần anh nữa. Đây chỉ là vài hoạt động có tác động mạnh, cho phép anh tạo ra cuộc sống mà mình xứng đáng có được. Hãy dành tất cả thời gian của mình cho những hoạt động thật sự ý nghĩa. Những người được khai sáng luôn làm việc theo thứ tự ưu tiên. Đây chính là bí quyết để làm chủ thời gian.”
 
 “Yogi Raman dạy anh tất cả những điều này sao?”
 
@@ -173,19 +175,22 @@ Ngọn lửa tri thức đã thắp sáng tâm hồn Julian – điều này qu�
 
 ---
 
-### TÓM TẮT CHƯƠNG 11![Biểu tượng: Chiếc đồng hồ bấm giờ bằng vàng](images/symbol_dong_ho.jpg)
+### TÓM TẮT CHƯƠNG 11
 
+![Biểu tượng: Chiếc đồng hồ bấm giờ bằng vàng](images/symbol_dong_ho.jpg)
 
-**Biểu tượng: Nguyên tắc: **Trân trọng thời gian của mình** Bài học: **- Thời gian là tài sản quý giá nhất và là nguồn tài nguyên không thể tái tạo.
+**Biểu tượng:** Chiếc đồng hồ bấm giờ bằng vàng
 
+**Nguyên tắc:** Trân trọng thời gian của mình
+
+**Bài học:**
+- Thời gian là tài sản quý giá nhất và là nguồn tài nguyên không thể tái tạo.
 - Hãy tập trung vào những ưu tiên của bản thân và duy trì sự cân bằng trong cuộc sống.
+- Hãy đơn giản hóa cuộc sống của bạn.
 
-- Hãy đơn giản hóa cuộc sống của bạn.** Phương pháp:**
-
+**Phương pháp:**
 - Quy luật 20 cổ xưa
-
 - Can đảm nói “Không”
-
 - Tâm thế của người sắp chết
 
 > *Thời gian trôi qua nhanh như cát trôi qua kẽ tay, chẳng thể nào quay lại. Những ai sử dụng thời gian một cách khôn ngoan ngay từ khi còn trẻ sẽ được hưởng cuộc sống giàu có, phong phú và mãn nguyện.*

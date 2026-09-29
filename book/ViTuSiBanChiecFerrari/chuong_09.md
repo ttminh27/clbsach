@@ -1,8 +1,9 @@
 # Chương 9
 ## Nghệ Thuật Tự Lãnh Đạo
 
-> *Người tài giỏi luôn không ngừng trau dồi bản thân. *>
-> – Khổng Tử
+> *Người tài giỏi luôn không ngừng trau dồi bản thân.*
+>
+> — **Khổng Tử**
 
 “Thời gian trôi nhanh thật”, Julian nói trước khi tự rót thêm cho mình một tách trà. “Trời sẽ sáng rất nhanh thôi. Anh muốn tôi tiếp tục không, hay bao nhiêu đó đã đủ cho đêm nay?”
 
@@ -30,7 +31,7 @@ Nhận thấy sự chân thành của tôi, anh tiếp tục với câu chuyện
 
 Những gì anh nói với tôi đến thời điểm này đều rất hợp lý. Thật sự thì hầu hết những gì anh đã chia sẻ đều có vẻ là những kiến thức rất phổ thông, mặc dù tôi biết rằng chúng không còn phổ biến lắm trong thời buổi này. Nhưng tôi phải nói với anh rằng tôi gặp chút khó khăn trong việc nắm bắt khái niệm kaizen và việc cải thiện thế giới nội tâm. Chính xác thì chúng ta đang nói về vấn đề gì vậy?”
 
-Julian lập tức trả lời, “Trong xã hội của chúng ta, những người thiếu kiến thức thường bị gắn cho cái mác yếu kém. Tuy nhiên, chính những người thể hiện kiến thức yếu kém và tìm kiếm sự hướng dẫn đó mới là những người tìm ra con đường dẫn đến sự khai sáng trước bất kỳ ai khác. Những câu hỏi của anh rất chân thật và cho tôi thấy rằng anh rất cởi mở trước các ý tưởng mới. Sự thay đổi là nguồn lực mạnh mẽ nhất trong xã hội của chúng ta ngày nay. Hầu hết mọi người đều sợ nó, thế nhưng những người thông thái thì biết tận dụng nó. Nguyên tắc thiền truyền thống nói về tâm trí của một người mới bắt đầu như sau: những* người giữ cho tâm trí mình rộng mở trước mọi khái niệm mới – những *người mà tách trà của họ luôn cạn – sẽ luôn vươn đến các thành tựu và sự thỏa mãn cao hơn. Đừng bao giờ chần chừ với việc đưa ra câu hỏi, dù là những câu hỏi cơ bản nhất. Chúng chính là phương pháp hiệu quả nhất để mở ra những kiến thức mới”.
+Julian lập tức trả lời, “Trong xã hội của chúng ta, những người thiếu kiến thức thường bị gắn cho cái mác yếu kém. Tuy nhiên, chính những người thể hiện kiến thức yếu kém và tìm kiếm sự hướng dẫn đó mới là những người tìm ra con đường dẫn đến sự khai sáng trước bất kỳ ai khác. Những câu hỏi của anh rất chân thật và cho tôi thấy rằng anh rất cởi mở trước các ý tưởng mới. Sự thay đổi là nguồn lực mạnh mẽ nhất trong xã hội của chúng ta ngày nay. Hầu hết mọi người đều sợ nó, thế nhưng những người thông thái thì biết tận dụng nó. Nguyên tắc thiền truyền thống nói về tâm trí của một người mới bắt đầu như sau: những người giữ cho tâm trí mình rộng mở trước mọi khái niệm mới – những người mà tách trà của họ luôn cạn – sẽ luôn vươn đến các thành tựu và sự thỏa mãn cao hơn. Đừng bao giờ chần chừ với việc đưa ra câu hỏi, dù là những câu hỏi cơ bản nhất. Chúng chính là phương pháp hiệu quả nhất để mở ra những kiến thức mới”.
 
 “Cảm ơn anh, nhưng tôi vẫn chưa hiểu rõ về kaizen.”
 
@@ -42,7 +43,7 @@ Khi anh đã vun đắp một lòng tin vững chắc vào khả năng của mì
 
 “Đúng vậy. Hãy nghĩ mà xem, John. Làm thế nào một người có thể lãnh đạo một công ty nếu anh ta thậm chí không lãnh đạo được chính mình? Làm thế nào anh có thể nuôi dưỡng một gia đình nếu anh chưa học cách nuôi dưỡng và chăm sóc chính mình? Làm thế nào anh có thể làm được việc tốt nếu tâm trạng anh không tốt? Anh hiểu ý tôi chứ?”
 
-Tôi gật đầu đồng ý. Đây là lần đầu tiên tôi suy nghĩ nghiêm túc về tầm quan trọng của việc cải thiện bản thân. Tôi đã luôn nghĩ rằng tất cả những người mà tôi bắt gặp đang đọc những quyển sách có tựa đại loại* như: The Power of Positive Thinking (tạm dịch: Sức mạnh của Suy nghĩ *Tích cực) hoặc MegaLiving! (tạm dịch: Sống không giới hạn) ở ga tàu điện ngầm là những tâm hồn ưu phiền đang tuyệt vọng tìm kiếm một liều thuốc nào đó để giúp họ trở lại trạng thái bình thường. Giờ thì tôi nhận ra rằng những người dành thời gian để rèn luyện sức mạnh bản thân chính là những người mạnh mẽ nhất, và chỉ có thông qua việc cải thiện chính mình, chúng ta mới có thể hy vọng cải thiện được cuộc sống của nhiều người khác. Rồi tôi bắt đầu suy ngẫm về tất cả những việc mà tôi có thể thay đổi cho tốt hơn. Chắc chắn tôi có thể tận dụng nguồn năng lượng mới dồi dào hơn và một sức khỏe cường tráng mà việc tập thể dục mang lại. Việc kiềm chế tính nóng nảy và thói quen ngắt lời người khác có thể làm nên những kỳ tích trong mối quan hệ giữa tôi với vợ và các con. Và việc loại bỏ thói quen lo lắng sẽ mang đến cho tôi sự bình an nội tâm và niềm hạnh phúc viên mãn mà tôi luôn tìm kiếm. Càng nghĩ về việc này, tôi càng thấy mình có thể cải thiện được nhiều điều hơn.
+Tôi gật đầu đồng ý. Đây là lần đầu tiên tôi suy nghĩ nghiêm túc về tầm quan trọng của việc cải thiện bản thân. Tôi đã luôn nghĩ rằng tất cả những người mà tôi bắt gặp đang đọc những quyển sách có tựa đại loại như: *The Power of Positive Thinking* (tạm dịch: *Sức mạnh của Suy nghĩ Tích cực*) hoặc MegaLiving! (tạm dịch: Sống không giới hạn) ở ga tàu điện ngầm là những tâm hồn ưu phiền đang tuyệt vọng tìm kiếm một liều thuốc nào đó để giúp họ trở lại trạng thái bình thường. Giờ thì tôi nhận ra rằng những người dành thời gian để rèn luyện sức mạnh bản thân chính là những người mạnh mẽ nhất, và chỉ có thông qua việc cải thiện chính mình, chúng ta mới có thể hy vọng cải thiện được cuộc sống của nhiều người khác. Rồi tôi bắt đầu suy ngẫm về tất cả những việc mà tôi có thể thay đổi cho tốt hơn. Chắc chắn tôi có thể tận dụng nguồn năng lượng mới dồi dào hơn và một sức khỏe cường tráng mà việc tập thể dục mang lại. Việc kiềm chế tính nóng nảy và thói quen ngắt lời người khác có thể làm nên những kỳ tích trong mối quan hệ giữa tôi với vợ và các con. Và việc loại bỏ thói quen lo lắng sẽ mang đến cho tôi sự bình an nội tâm và niềm hạnh phúc viên mãn mà tôi luôn tìm kiếm. Càng nghĩ về việc này, tôi càng thấy mình có thể cải thiện được nhiều điều hơn.
 
 Khi bắt đầu nhìn thấy tất cả những điều tích cực sẽ ào ạt chảy vào cuộc sống của mình thông qua việc trau dồi những thói quen tốt, tôi trở nên rất hào hứng. Nhưng tôi nhận ra điều mà Julian muốn nói đến không chỉ là tầm quan trọng của việc tập thể dục mỗi ngày, chế độ ăn uống lành mạnh và lối sống cân bằng. Những gì anh đã được lĩnh hội trên đỉnh Hy Mã Lạp Sơn có ý nghĩa sâu sắc và giá trị hơn nhiều so với những việc này. Anh đã nói về tầm quan trọng của việc xây dựng một cá tính mạnh mẽ, phát triển một ý chí bền bỉ và sống với lòng can đảm. Anh nói rằng ba phẩm chất này sẽ đưa người ta đến với một cuộc sống không chỉ đạo đức mà còn đầy thành tựu, sự mãn nguyện và cả bình yên nội tâm. Can đảm là một đức tính mà mọi người đều có thể nuôi dưỡng và nó chắc chắn sẽ mang đến những ích lợi to lớn về lâu dài.
 
@@ -92,13 +93,13 @@ Tôi vừa hỏi vừa thở hổn hển, “Thế người ta có thể học �
 
 “Được rồi. Nhưng điều đó thì có liên quan gì đến việc bắt tôi phải hít đất thế kia?”
 
-“Sau khi hít đất được hai mươi ba cái, anh nói là anh không thể hít thêm được nữa. Anh nói đây chính là giới hạn tuyệt đối của mình. Thế nhưng, khi tôi ra thử thách yêu cầu anh phải thực hiện thêm, anh đã đáp lại bằng mười cái hít đất nữa. Từ sâu thẳm bên trong, anh sở hữu nhiều hơn thế, và khi anh vươn tay đến những nguồn lực tiềm ẩn của mình, anh đã nhận được nhiều hơn. Yogi Raman đã giải thích một chân lý cơ* bản khi tôi còn là học trò của ông ấy, ‘Những giới hạn duy nhất trong *cuộc đời anh chính là những giới hạn anh tự đặt ra cho mình’. Khi anh dám bước ra khỏi vòng tròn thoải mái của bản thân và khám phá những điều chưa biết, anh bắt đầu giải phóng được tiềm năng đích thực trong con người mình. Đây là bước đầu tiên trên con đường tiến đến việc làm chủ bản thân và làm chủ mọi hoàn cảnh trong cuộc đời. Khi anh vượt qua được những giới hạn của mình, giống như anh đã làm trong ví dụ minh họa nho nhỏ vừa rồi, anh đã giải phóng được nguồn năng lượng dự trữ của thể chất lẫn tinh thần mà anh chưa từng nghĩ là mình có.”
+“Sau khi hít đất được hai mươi ba cái, anh nói là anh không thể hít thêm được nữa. Anh nói đây chính là giới hạn tuyệt đối của mình. Thế nhưng, khi tôi ra thử thách yêu cầu anh phải thực hiện thêm, anh đã đáp lại bằng mười cái hít đất nữa. Từ sâu thẳm bên trong, anh sở hữu nhiều hơn thế, và khi anh vươn tay đến những nguồn lực tiềm ẩn của mình, anh đã nhận được nhiều hơn. Yogi Raman đã giải thích một chân lý cơ bản khi tôi còn là học trò của ông ấy, *‘Những giới hạn duy nhất trong cuộc đời anh chính là những giới hạn anh tự đặt ra cho mình’*. Khi anh dám bước ra khỏi vòng tròn thoải mái của bản thân và khám phá những điều chưa biết, anh bắt đầu giải phóng được tiềm năng đích thực trong con người mình. Đây là bước đầu tiên trên con đường tiến đến việc làm chủ bản thân và làm chủ mọi hoàn cảnh trong cuộc đời. Khi anh vượt qua được những giới hạn của mình, giống như anh đã làm trong ví dụ minh họa nho nhỏ vừa rồi, anh đã giải phóng được nguồn năng lượng dự trữ của thể chất lẫn tinh thần mà anh chưa từng nghĩ là mình có.”
 
 “Thật ấn tượng!”, tôi nghĩ. Nói đến việc này, gần đây tôi có đọc một quyển sách nói rằng một người trung bình chỉ sử dụng một phần rất nhỏ năng lực bẩm sinh của mình. Tôi tự hỏi không biết chúng ta có thể làm được những gì nếu bắt đầu sử dụng được hết phần năng lực dự trữ còn lại.
 
 Julian cảm nhận được anh đã đánh trúng tâm lý của tôi và đang đi đúng hướng.
 
-“Anh thực hành nghệ thuật kaizen bằng cách thúc đẩy bản thân mỗi ngày. Hãy chăm chỉ cải thiện trí tuệ, sức khỏe thể chất và nuôi dưỡng tâm hồn mình. Hãy thử làm những việc luôn khiến anh sợ hãi. Hãy bắt đầu sống với nguồn năng lượng dồi dào và một lòng hăng say bất tận. Hãy ngắm mặt trời mọc hay khiêu vũ dưới cơn mưa. Hãy trở thành con người mà anh luôn mơ ước. Hãy làm những việc mà anh luôn mong muốn nhưng vẫn chưa thực hiện, vì anh đã tự đánh lừa khiến bản thân tin rằng mình quá trẻ, quá già, quá giàu hoặc quá nghèo để có thể làm được những việc đó. Anh hãy chuẩn bị để tận hưởng một cuộc sống* vươn xa hơn và luôn sinh động. Ở phương Đông, người ta có câu: may *mắn thường ưu ái những ai đã chuẩn bị tinh thần đón nhận nó. Còn bản thân tôi tin rằng cuộc sống này thường ưu ái những người đã chuẩn bị tốt tinh thần cho nhiều tình huống.”
+“Anh thực hành nghệ thuật kaizen bằng cách thúc đẩy bản thân mỗi ngày. Hãy chăm chỉ cải thiện trí tuệ, sức khỏe thể chất và nuôi dưỡng tâm hồn mình. Hãy thử làm những việc luôn khiến anh sợ hãi. Hãy bắt đầu sống với nguồn năng lượng dồi dào và một lòng hăng say bất tận. Hãy ngắm mặt trời mọc hay khiêu vũ dưới cơn mưa. Hãy trở thành con người mà anh luôn mơ ước. Hãy làm những việc mà anh luôn mong muốn nhưng vẫn chưa thực hiện, vì anh đã tự đánh lừa khiến bản thân tin rằng mình quá trẻ, quá già, quá giàu hoặc quá nghèo để có thể làm được những việc đó. Anh hãy chuẩn bị để tận hưởng một cuộc sống vươn xa hơn và luôn sinh động. Ở phương Đông, người ta có câu: *May mắn thường ưu ái những ai đã chuẩn bị tinh thần đón nhận nó*. Còn bản thân tôi tin rằng cuộc sống này thường ưu ái những người đã chuẩn bị tốt tinh thần cho nhiều tình huống.”
 
 Julian say sưa nói tiếp, “Hãy xác định những thứ đang kìm hãm anh. Anh sợ phải phát biểu ý kiến, hay anh đang gặp rắc rối trong các mối quan hệ? Anh đang có thái độ tiêu cực hay đang cần có thêm năng lượng? Hãy viết một danh sách những điểm còn yếu kém của bản thân. Những con người mãn nguyện thường suy ngẫm nhiều hơn những người khác. Hãy dành thời gian để suy ngẫm thấu đáo về những thứ có thể đang ngăn cản anh có được cuộc sống mà anh thật sự mong muốn và biết chắc rằng có thể đạt được. Một khi anh đã xác định được những điểm yếu của bản thân, bước tiếp theo là đương đầu với chúng và tấn công những nỗi sợ của anh. Nếu anh sợ phát biểu trước đám đông, hãy đăng ký phát biểu tại hai mươi sự kiện khác nhau. Nếu anh sợ khởi nghiệp hay sợ cái cảm giác phải thoát khỏi một mối quan hệ không như ý, hãy dồn hết quyết tâm để thực hiện chúng. Đây có thể là hương vị đầu tiên của sự tự do đích thực mà anh lần đầu trải nghiệm trong suốt nhiều năm qua. Nỗi sợ hãi thật ra cũng chỉ là một con quái vật do tâm trí anh tạo ra, một dòng chảy tiêu cực của ý thức”.
 
@@ -420,11 +421,11 @@ Julian mỉm cười. “Những phương pháp, công cụ và cả những l�
 
 “Có tựa sách nào anh có thể đề xuất cho một độc giả non trẻ như tôi không?”, tôi hỏi với một nụ cười toe toét.
 
-“Có chứ. Anh sẽ học hỏi được rất nhiều từ tiểu sử của vĩ nhân người Mỹ, Benjamin Franklin. Tôi nghĩ anh cũng có thể tìm thấy nhiều* động lực từ tự truyện của Mahatma Gandhi, tựa đề là The Story of My Experiments with Truth (tạm dịch: Câu chuyện về những thí nghiệm chân *lý của tôi). Tôi cũng đề nghị anh nên đọc Siddhartha của tác giả Hermann Hesse, tác phẩm triết học mang tính thiết thực cao của Marcus Aurelius* và một vài tác phẩm của Seneca. Anh cũng có thể đọc Think and Grow *Rich (tựa tiếng Việt: Nghĩ giàu và Làm giàu) của Napoleon Hill. Tôi vừa đọc xong hồi tuần rồi và thấy đây là một quyển sách có ý nghĩa sâu sắc.”
+“Có chứ. Anh sẽ học hỏi được rất nhiều từ tiểu sử của vĩ nhân người Mỹ, Benjamin Franklin. Tôi nghĩ anh cũng có thể tìm thấy nhiều động lực từ tự truyện của Mahatma Gandhi, tựa đề là *The Story of My Experiments with Truth* (tạm dịch: *Câu chuyện về những thí nghiệm chân lý của tôi*). Tôi cũng đề nghị anh nên đọc *Siddhartha* của tác giả Hermann Hesse, tác phẩm triết học mang tính thiết thực cao của Marcus Aurelius và một vài tác phẩm của Seneca. Anh cũng có thể đọc *Think and Grow Rich* (tựa tiếng Việt: *Nghĩ giàu và Làm giàu*) của Napoleon Hill. Tôi vừa đọc xong hồi tuần rồi và thấy đây là một quyển sách có ý nghĩa sâu sắc.”
 
 “Nghĩ giàu và Làm giàu!”, tôi kêu lên. “Nhưng tôi tưởng anh đã bỏ hết những thứ đó lại sau lưng kể từ sau cơn đau tim rồi chứ. Tôi thật sự chán ngấy với mấy quyển sách hướng dẫn cách kiếm tiền nhanh chóng được rao bán ngoài kia bởi những tay bán hàng lừa bịp chuyên trục lợi từ những người yếu đuối.”
 
-“Bình tĩnh nào anh bạn. Tôi hoàn toàn đồng ý với anh”, Julian nói với tất cả sự ấm áp và kiên nhẫn như một người ông thông thái đầy bao dung. “Bản thân tôi cũng muốn khôi phục lại giá trị đạo đức của xã hội chúng ta. Quyển sách nhỏ ấy không nói về việc kiếm thật nhiều tiền, mà nó nói về việc sống thật trọn vẹn. Tôi sẽ là người đầu tiên nói với anh rằng có một sự khác biệt to lớn giữa sự an lạc và giàu có. Tôi đã trải qua* và biết rõ nỗi đau của một cuộc sống bị dẫn dắt bởi đồng tiền. Nghĩ giàu *và Làm giàu là một quyển sách nói về sự thịnh vượng, kể cả sự thịnh vượng của tâm hồn, và cách để thu hút tất cả những điều tốt đẹp vào trong cuộc sống của anh. Anh rất nên đọc quyển này, nhưng tất nhiên tôi sẽ không ép buộc anh.”
+“Bình tĩnh nào anh bạn. Tôi hoàn toàn đồng ý với anh”, Julian nói với tất cả sự ấm áp và kiên nhẫn như một người ông thông thái đầy bao dung. “Bản thân tôi cũng muốn khôi phục lại giá trị đạo đức của xã hội chúng ta. Quyển sách nhỏ ấy không nói về việc kiếm thật nhiều tiền, mà nó nói về việc sống thật trọn vẹn. Tôi sẽ là người đầu tiên nói với anh rằng có một sự khác biệt to lớn giữa sự an lạc và giàu có. Tôi đã trải qua và biết rõ nỗi đau của một cuộc sống bị dẫn dắt bởi đồng tiền. *Nghĩ giàu và Làm giàu* là một quyển sách nói về sự thịnh vượng, kể cả sự thịnh vượng của tâm hồn, và cách để thu hút tất cả những điều tốt đẹp vào trong cuộc sống của anh. Anh rất nên đọc quyển này, nhưng tất nhiên tôi sẽ không ép buộc anh.”
 
 “Xin lỗi nhé Julian, tôi không cố tình tỏ ra là một luật sư hung hăng như vậy”, tôi tỏ ý hối lỗi. “Tôi đoán là đôi lúc mình bị tính nóng nảy bên trong lấn át. Đây là một điểm nữa mà tôi cần phải cải thiện. Tôi thật sự rất biết ơn vì tất cả những điều anh đang chia sẻ với tôi.”
 
@@ -617,7 +618,7 @@ Tôi bắt đầu nhận ra một điều quan trọng sắp diễn ra. Đây l�
 
 “Được rồi, cứ cho là tôi sẽ thức dậy vào lúc năm giờ ba mươi sáng mỗi ngày. Rồi tôi sẽ làm gì nào?”
 
-“Câu hỏi này cho thấy anh đang nghiêm túc suy nghĩ. Tôi rất lấy làm cảm kích. Sau khi thức dậy, có rất nhiều việc anh có thể làm. Nguyên tắc* cơ bản anh cần nhớ chính là tầm quan trọng của việc khởi đầu một ngày* mới thật suôn sẻ. Như tôi đã chia sẻ, những suy nghĩ và hành động của anh trong vòng mười phút đầu tiên sau khi thức dậy có tác động đáng kể đến toàn bộ thời gian còn lại trong ngày.”
+“Câu hỏi này cho thấy anh đang nghiêm túc suy nghĩ. Tôi rất lấy làm cảm kích. Sau khi thức dậy, có rất nhiều việc anh có thể làm. Nguyên tắc cơ bản anh cần nhớ chính là tầm quan trọng của việc khởi đầu một ngày mới thật suôn sẻ. Như tôi đã chia sẻ, những suy nghĩ và hành động của anh trong vòng mười phút đầu tiên sau khi thức dậy có tác động đáng kể đến toàn bộ thời gian còn lại trong ngày.”
 
 “Thật sao?”
 
@@ -810,20 +811,21 @@ Hãy luôn dũng cảm giống cậu bé ấy, John à. Hãy can đảm giữ v�
 
 ---
 
-### TÓM TẮT CHƯƠNG 9![Biểu tượng: Võ sĩ sumo](images/symbol_vo_si_sumo.jpg)
+### TÓM TẮT CHƯƠNG 9
 
+![Biểu tượng: Võ sĩ sumo](images/symbol_vo_si_sumo.jpg)
 
-**Biểu tượng:***Nguyên tắc:***Thực hành kaizen***
- **Bài học:**
+**Biểu tượng:** Võ sĩ sumo
 
+**Nguyên tắc:** Thực hành Kaizen
+
+**Bài học:**
 - Làm chủ bản thân chính là yếu tố quyết định để làm chủ cuộc đời.
-
 - Thành công bên ngoài bắt nguồn từ thành công bên trong.
+- Sự khai sáng đến từ việc không ngừng nuôi dưỡng trí tuệ, cơ thể và tâm hồn.
 
-- Sự khai sáng đến từ việc không ngừng nuôi dưỡng trí tuệ, cơ thể và tâm hồn. **Phương pháp:**
-
+**Phương pháp:**
 - Làm những việc mà bạn e sợ
-
 - Mười thói quen để sống an vui
 
 > *Vũ trụ ưu ái những người dũng cảm. Khi anh hạ quyết tâm nâng cuộc sống của mình lên tầm cao nhất, sức mạnh tinh thần sẽ dẫn đường cho anh đến một nơi kỳ diệu đầy ắp những kho báu quý giá.*
