@@ -66,7 +66,7 @@ export const ActiveHighlightPopover: React.FC<ActiveHighlightPopoverProps> = ({
         <div
           className="rounded-xl bg-slate-50 dark:bg-slate-950/60 p-2 border-l-4 text-xs italic text-slate-700 dark:text-slate-300 line-clamp-2 leading-relaxed"
           style={{
-            borderLeftColor: HIGHLIGHT_COLORS.find((c) => c.id === highlight.color)?.hex || '#fef08a',
+            borderLeftColor: HIGHLIGHT_COLORS.find((c) => c.id === highlight.color)?.accentHex || '#f59e0b',
           }}
         >
           “{highlight.text}”
@@ -84,12 +84,12 @@ export const ActiveHighlightPopover: React.FC<ActiveHighlightPopoverProps> = ({
                 className={`h-7 w-7 rounded-full transition-transform active:scale-90 flex items-center justify-center shadow-xs ${
                   highlight.color === c.id
                     ? 'ring-2 ring-emerald-500 ring-offset-2 dark:ring-offset-slate-900 scale-105'
-                    : ''
+                    : 'ring-1 ring-inset ring-black/15 dark:ring-white/20'
                 }`}
                 style={{ backgroundColor: c.hex }}
                 title={`Đổi sang màu ${c.name}`}
               >
-                {highlight.color === c.id && <span className="h-1.5 w-1.5 rounded-full bg-slate-800/80" />}
+                {highlight.color === c.id && <span className="h-1.5 w-1.5 rounded-full bg-slate-900/85" />}
               </button>
             ))}
           </div>
@@ -206,12 +206,14 @@ export const ActiveHighlightPopover: React.FC<ActiveHighlightPopoverProps> = ({
               key={c.id}
               onClick={() => onUpdateColor(c.id)}
               className={`h-5 w-5 rounded-full transition-transform hover:scale-115 active:scale-95 flex items-center justify-center ${
-                highlight.color === c.id ? 'ring-2 ring-emerald-500 ring-offset-1 dark:ring-offset-slate-900' : ''
+                highlight.color === c.id
+                  ? 'ring-2 ring-emerald-500 ring-offset-1 dark:ring-offset-slate-900'
+                  : 'ring-1 ring-inset ring-black/15 dark:ring-white/20'
               }`}
               style={{ backgroundColor: c.hex }}
               title={`Đổi sang màu ${c.name}`}
             >
-              {highlight.color === c.id && <span className="h-1.5 w-1.5 rounded-full bg-slate-800/80" />}
+              {highlight.color === c.id && <span className="h-1.5 w-1.5 rounded-full bg-slate-900/85" />}
             </button>
           ))}
         </div>

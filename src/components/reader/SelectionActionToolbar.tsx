@@ -65,12 +65,14 @@ export const SelectionActionToolbar: React.FC<SelectionActionToolbarProps> = ({
                 type="button"
                 onClick={() => setSelectedColor(c.id)}
                 className={`h-6 w-6 rounded-full transition-transform active:scale-90 flex items-center justify-center ${
-                  selectedColor === c.id ? 'ring-2 ring-emerald-500 ring-offset-1 dark:ring-offset-slate-900 scale-105' : ''
+                  selectedColor === c.id
+                    ? 'ring-2 ring-emerald-500 ring-offset-1 dark:ring-offset-slate-900 scale-105'
+                    : 'ring-1 ring-inset ring-black/15 dark:ring-white/20'
                 }`}
                 style={{ backgroundColor: c.hex }}
                 title={`Màu ${c.name}`}
               >
-                {selectedColor === c.id && <span className="h-1.5 w-1.5 rounded-full bg-slate-800/80" />}
+                {selectedColor === c.id && <span className="h-1.5 w-1.5 rounded-full bg-slate-900/85" />}
               </button>
             ))}
           </div>
@@ -122,12 +124,12 @@ export const SelectionActionToolbar: React.FC<SelectionActionToolbarProps> = ({
               className={`h-7 w-7 rounded-full transition-transform active:scale-90 flex items-center justify-center shadow-xs ${
                 selectedColor === c.id
                   ? 'ring-2 ring-emerald-500 ring-offset-2 dark:ring-offset-slate-900 scale-105'
-                  : ''
+                  : 'ring-1 ring-inset ring-black/15 dark:ring-white/20'
               }`}
               style={{ backgroundColor: c.hex }}
               title={`Highlight màu ${c.name}`}
             >
-              {selectedColor === c.id && <span className="h-1.5 w-1.5 rounded-full bg-slate-800/80" />}
+              {selectedColor === c.id && <span className="h-1.5 w-1.5 rounded-full bg-slate-900/85" />}
             </button>
           ))}
         </div>
@@ -187,12 +189,14 @@ export const SelectionActionToolbar: React.FC<SelectionActionToolbarProps> = ({
               key={c.id}
               onClick={() => handleColorClick(c.id)}
               className={`h-5 w-5 rounded-full transition-transform hover:scale-115 active:scale-95 flex items-center justify-center ${
-                selectedColor === c.id ? 'ring-2 ring-emerald-500 ring-offset-1 dark:ring-offset-slate-900' : ''
+                selectedColor === c.id
+                  ? 'ring-2 ring-emerald-500 ring-offset-1 dark:ring-offset-slate-900'
+                  : 'ring-1 ring-inset ring-black/15 dark:ring-white/20'
               }`}
               style={{ backgroundColor: c.hex }}
               title={`Highlight màu ${c.name}`}
             >
-              {selectedColor === c.id && <span className="h-1.5 w-1.5 rounded-full bg-slate-800/80" />}
+              {selectedColor === c.id && <span className="h-1.5 w-1.5 rounded-full bg-slate-900/85" />}
             </button>
           ))}
         </div>

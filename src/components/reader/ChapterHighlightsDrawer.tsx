@@ -235,7 +235,10 @@ export const ChapterHighlightsDrawer: React.FC<ChapterHighlightsDrawerProps> = (
                         : 'bg-slate-100 dark:bg-slate-800/80 text-slate-600 dark:text-slate-300'
                     }`}
                   >
-                    <span className="h-2 w-2 rounded-full" style={{ backgroundColor: c.hex }} />
+                    <span
+                      className="h-2.5 w-2.5 rounded-full ring-1 ring-inset ring-black/15 dark:ring-white/20"
+                      style={{ backgroundColor: c.hex }}
+                    />
                     <span>{c.name}</span>
                     <span className="text-[10px] opacity-70">({count})</span>
                   </button>
@@ -305,7 +308,7 @@ export const ChapterHighlightsDrawer: React.FC<ChapterHighlightsDrawerProps> = (
                     <div className="flex items-center justify-between text-[11px] text-slate-400 dark:text-slate-500">
                       <div className="flex items-center gap-1.5 min-w-0">
                         <span
-                          className="h-2 w-2 rounded-full shrink-0"
+                          className="h-2.5 w-2.5 rounded-full shrink-0 ring-1 ring-inset ring-black/15 dark:ring-white/20"
                           style={{ backgroundColor: colorObj.hex }}
                           title={colorObj.name}
                         />
@@ -348,7 +351,7 @@ export const ChapterHighlightsDrawer: React.FC<ChapterHighlightsDrawerProps> = (
                     {/* Quote Content */}
                     <div
                       className="border-l-3 pl-3 py-0.5 text-xs text-slate-800 dark:text-slate-200 leading-relaxed font-serif italic"
-                      style={{ borderColor: colorObj.hex }}
+                      style={{ borderColor: colorObj.accentHex }}
                     >
                       "{hl.text}"
                     </div>

@@ -76,10 +76,16 @@ html.sepia div[class*="bg-slate-100"] {
 /* OLED Deep Black Theme */
 html.oled,
 body.oled,
-html.oled div[class*="dark:bg-slate-900"],
+html.oled div[class*="dark:bg-slate-900"]:not([data-selection-tooltip="true"]):not([data-highlight-popover="true"]),
 html.oled aside,
 html.oled header {
   background-color: #000000 !important;
+}
+
+html.oled [data-selection-tooltip="true"],
+html.oled [data-highlight-popover="true"] {
+  background-color: rgba(15, 23, 42, 0.96) !important;
+  border-color: #334155 !important;
 }
 
 /* Custom Smooth Scrollbar */
@@ -116,12 +122,12 @@ input[type="range"]::-webkit-slider-thumb {
    ========================================================================== */
 
 mark.reader-search-match {
-  background-color: #fef08a !important; /* Vivid yellow-200 */
+  background-color: #fde68a !important; /* Warm amber-200 to distinguish from yellow user highlight */
   color: #0f172a !important; /* Slate-900 */
   padding: 0.12em 0.28em !important;
   margin: 0 0.05em !important;
   border-radius: 0.25rem !important;
-  box-shadow: 0 0 0 1px #facc15 !important;
+  box-shadow: 0 0 0 1px #f59e0b !important;
   transition: background-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease !important;
   cursor: pointer;
   display: inline;
@@ -225,93 +231,135 @@ mark.reader-user-highlight {
 }
 
 mark.reader-user-highlight:hover {
-  filter: brightness(0.95);
+  filter: brightness(0.93) saturate(1.08);
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+}
+
+.dark mark.reader-user-highlight:hover,
+html.oled mark.reader-user-highlight:hover,
+body.oled mark.reader-user-highlight:hover {
+  filter: brightness(1.18) saturate(1.12);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45), 0 0 0 1px rgba(255, 255, 255, 0.16);
 }
 
 /* 1. Yellow (Vàng nắng) */
 mark.reader-user-highlight.hl-yellow {
-  background-color: #fef08a !important; /* amber-200 */
-  color: inherit !important;
+  background-color: #fef08a !important; /* yellow-200 */
+  color: #1e293b !important;
+  border-bottom: 1.5px solid rgba(234, 179, 8, 0.45);
 }
 .dark mark.reader-user-highlight.hl-yellow {
-  background-color: rgba(161, 98, 7, 0.45) !important;
+  background-color: rgba(234, 179, 8, 0.28) !important;
+  color: #fef9c3 !important;
+  border-bottom: 1.5px solid rgba(250, 204, 21, 0.5);
 }
 html.sepia mark.reader-user-highlight.hl-yellow,
 body.sepia mark.reader-user-highlight.hl-yellow {
-  background-color: #fde68a !important;
+  background-color: rgba(245, 158, 11, 0.36) !important; /* Warm honey amber, distinct on #fbf0d9 */
+  color: #3b2106 !important;
+  border-bottom: 1.5px solid rgba(217, 119, 6, 0.5);
 }
 html.oled mark.reader-user-highlight.hl-yellow,
 body.oled mark.reader-user-highlight.hl-yellow {
-  background-color: rgba(202, 138, 4, 0.35) !important;
+  background-color: rgba(234, 179, 8, 0.34) !important;
+  color: #fef08a !important;
+  border-bottom: 1.5px solid rgba(250, 204, 21, 0.6);
 }
 
 /* 2. Green (Xanh ngọc) */
 mark.reader-user-highlight.hl-green {
   background-color: #bbf7d0 !important; /* emerald-200 */
-  color: inherit !important;
+  color: #064e3b !important;
+  border-bottom: 1.5px solid rgba(16, 185, 129, 0.4);
 }
 .dark mark.reader-user-highlight.hl-green {
-  background-color: rgba(22, 101, 52, 0.5) !important;
+  background-color: rgba(16, 185, 129, 0.28) !important;
+  color: #d1fae5 !important;
+  border-bottom: 1.5px solid rgba(52, 211, 153, 0.5);
 }
 html.sepia mark.reader-user-highlight.hl-green,
 body.sepia mark.reader-user-highlight.hl-green {
-  background-color: #bbf7d0 !important;
+  background-color: rgba(16, 185, 129, 0.28) !important; /* Warm sage green blended with sepia paper */
+  color: #063e2e !important;
+  border-bottom: 1.5px solid rgba(5, 150, 105, 0.45);
 }
 html.oled mark.reader-user-highlight.hl-green,
 body.oled mark.reader-user-highlight.hl-green {
-  background-color: rgba(21, 128, 61, 0.4) !important;
+  background-color: rgba(16, 185, 129, 0.34) !important;
+  color: #a7f3d0 !important;
+  border-bottom: 1.5px solid rgba(52, 211, 153, 0.6);
 }
 
 /* 3. Blue (Xanh lam) */
 mark.reader-user-highlight.hl-blue {
   background-color: #bae6fd !important; /* sky-200 */
-  color: inherit !important;
+  color: #0c4a6e !important;
+  border-bottom: 1.5px solid rgba(14, 165, 233, 0.4);
 }
 .dark mark.reader-user-highlight.hl-blue {
-  background-color: rgba(12, 74, 110, 0.5) !important;
+  background-color: rgba(14, 165, 233, 0.32) !important; /* Vibrant sky-500 tint so it stands out on slate-900 */
+  color: #e0f2fe !important;
+  border-bottom: 1.5px solid rgba(56, 189, 248, 0.55);
 }
 html.sepia mark.reader-user-highlight.hl-blue,
 body.sepia mark.reader-user-highlight.hl-blue {
-  background-color: #bae6fd !important;
+  background-color: rgba(14, 165, 233, 0.26) !important; /* Warm sky blue blended with sepia paper */
+  color: #0c3b5e !important;
+  border-bottom: 1.5px solid rgba(2, 132, 199, 0.45);
 }
 html.oled mark.reader-user-highlight.hl-blue,
 body.oled mark.reader-user-highlight.hl-blue {
-  background-color: rgba(3, 105, 161, 0.4) !important;
+  background-color: rgba(14, 165, 233, 0.36) !important;
+  color: #bae6fd !important;
+  border-bottom: 1.5px solid rgba(56, 189, 248, 0.65);
 }
 
 /* 4. Pink (Hồng phấn) */
 mark.reader-user-highlight.hl-pink {
   background-color: #fbcfe8 !important; /* pink-200 */
-  color: inherit !important;
+  color: #4c0519 !important;
+  border-bottom: 1.5px solid rgba(244, 63, 94, 0.38);
 }
 .dark mark.reader-user-highlight.hl-pink {
-  background-color: rgba(131, 24, 67, 0.45) !important;
+  background-color: rgba(244, 63, 94, 0.28) !important;
+  color: #ffe4e6 !important;
+  border-bottom: 1.5px solid rgba(251, 113, 133, 0.5);
 }
 html.sepia mark.reader-user-highlight.hl-pink,
 body.sepia mark.reader-user-highlight.hl-pink {
-  background-color: #fbcfe8 !important;
+  background-color: rgba(244, 63, 94, 0.24) !important; /* Warm rose blush blended with sepia paper */
+  color: #4c0519 !important;
+  border-bottom: 1.5px solid rgba(225, 29, 72, 0.42);
 }
 html.oled mark.reader-user-highlight.hl-pink,
 body.oled mark.reader-user-highlight.hl-pink {
-  background-color: rgba(157, 23, 77, 0.4) !important;
+  background-color: rgba(244, 63, 94, 0.34) !important;
+  color: #fecdd3 !important;
+  border-bottom: 1.5px solid rgba(251, 113, 133, 0.6);
 }
 
 /* 5. Purple (Tím mộng) */
 mark.reader-user-highlight.hl-purple {
   background-color: #e9d5ff !important; /* purple-200 */
-  color: inherit !important;
+  color: #3b0764 !important;
+  border-bottom: 1.5px solid rgba(168, 85, 247, 0.38);
 }
 .dark mark.reader-user-highlight.hl-purple {
-  background-color: rgba(88, 28, 135, 0.45) !important;
+  background-color: rgba(168, 85, 247, 0.30) !important;
+  color: #f3e8ff !important;
+  border-bottom: 1.5px solid rgba(192, 132, 252, 0.5);
 }
 html.sepia mark.reader-user-highlight.hl-purple,
 body.sepia mark.reader-user-highlight.hl-purple {
-  background-color: #e9d5ff !important;
+  background-color: rgba(147, 51, 234, 0.24) !important; /* Warm lavender blended with sepia paper */
+  color: #3b0764 !important;
+  border-bottom: 1.5px solid rgba(147, 51, 234, 0.42);
 }
 html.oled mark.reader-user-highlight.hl-purple,
 body.oled mark.reader-user-highlight.hl-purple {
-  background-color: rgba(107, 33, 168, 0.4) !important;
+  background-color: rgba(168, 85, 247, 0.35) !important;
+  color: #e9d5ff !important;
+  border-bottom: 1.5px solid rgba(192, 132, 252, 0.6);
 }
 
 /* Smooth pulse animation when jumping to highlight */
