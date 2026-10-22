@@ -26,6 +26,7 @@ import {
   Link2,
   Quote,
   Highlighter,
+  ExternalLink,
 } from 'lucide-react';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import { useAudio } from '../../context/AudioContext';
@@ -332,6 +333,20 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
               <Headphones className="h-4 w-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
               <span className="hidden xl:inline">Audio sách</span>
             </button>
+          )}
+
+          {/* Raw PDF Reference Link */}
+          {book.rawPdf && (
+            <a
+              href={book.rawPdf.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hidden lg:flex items-center gap-1 sm:gap-1.5 rounded-lg p-2 sm:px-2.5 sm:py-1.5 text-xs font-medium text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800 transition-all shrink-0"
+              title={`Mở sách gốc PDF (${book.rawPdf.fileName} - ${book.rawPdf.formattedSize})`}
+            >
+              <FileText className="h-4 w-4 text-rose-500 shrink-0" />
+              <span className="hidden xl:inline">Sách gốc PDF</span>
+            </a>
           )}
 
           {/* Reading Display Settings & Copy Popover Trigger */}
@@ -672,6 +687,32 @@ export const ReaderToolbar: React.FC<ReaderToolbarProps> = ({
                         <Copy className="h-3.5 w-3.5 text-slate-400 shrink-0 opacity-60" />
                       )}
                     </button>
+
+                    {/* Raw PDF Reference Link */}
+                    {book.rawPdf && (
+                      <div className="pt-2 border-t border-slate-100 dark:border-slate-800">
+                        <div className="text-[11px] font-semibold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-2 flex items-center justify-between">
+                          <span>Sách gốc tham khảo</span>
+                          <span className="text-[10px] lowercase text-slate-400 font-mono">{book.rawPdf.formattedSize}</span>
+                        </div>
+                        <a
+                          href={book.rawPdf.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="w-full flex items-center justify-between rounded-xl px-3 py-2.5 text-xs font-medium border border-rose-200/80 bg-rose-50/60 hover:bg-rose-100/70 text-rose-900 dark:border-rose-900/50 dark:bg-rose-950/20 dark:text-rose-200 dark:hover:bg-rose-950/40 transition-colors text-left group"
+                          title={`Mở sách gốc PDF (${book.rawPdf.fileName})`}
+                        >
+                          <div className="flex items-center gap-2 min-w-0">
+                            <FileText className="h-4 w-4 text-rose-600 dark:text-rose-400 shrink-0" />
+                            <div className="min-w-0">
+                              <div className="font-semibold text-[11px] truncate">Mở Bản Gốc (PDF)</div>
+                              <div className="text-[10px] text-rose-700/70 dark:text-rose-300/70 truncate">{book.rawPdf.fileName}</div>
+                            </div>
+                          </div>
+                          <ExternalLink className="h-3.5 w-3.5 text-rose-500/80 group-hover:text-rose-600 dark:text-rose-400 shrink-0 ml-1" />
+                        </a>
+                      </div>
+                    )}
                   </div>
                 </div>
               </div>

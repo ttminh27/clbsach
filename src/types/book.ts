@@ -54,6 +54,13 @@ export interface AudioTrack {
   duration?: number;
 }
 
+export interface RawBookPdf {
+  fileName: string;
+  url: string;
+  sizeBytes: number;
+  formattedSize: string;
+}
+
 export interface Book {
   id: string;
   title: string;
@@ -69,6 +76,7 @@ export interface Book {
   themeColor: string;
   status: 'available' | 'coming_soon';
   coverUrl: string | null;
+  rawPdf?: RawBookPdf | null;
   totalChapters: number;
   totalAudios: number;
   chapters: Chapter[];

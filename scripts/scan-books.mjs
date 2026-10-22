@@ -8,6 +8,12 @@ const rootDir = path.resolve(__dirname, '..');
 const publicBooksDir = path.resolve(rootDir, 'public', 'books');
 const manifestPath = path.resolve(rootDir, 'src', 'data', 'books-manifest.json');
 
+function formatFileSize(bytes) {
+  if (bytes < 1024) return `${bytes} B`;
+  if (bytes < 1024 * 1024) return `${(bytes / 1024).toFixed(0)} KB`;
+  return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
+}
+
 const placeholderMetadata = {
   "7ThoiQuenHieuQua": {
     title: "7 Thói Quen Để Thành Đạt",
@@ -500,7 +506,36 @@ for (const bookId of bookDirs) {
     });
   }
 
-  const isAvailable = chapters.length > 0 || audios.length > 0;
+  // Detect raw PDF file for reference
+  const rawDir = path.resolve(bookPath, 'raw');
+  let rawPdf = null;
+  if (fs.existsSync(rawDir)) {
+    const rawFiles = fs.readdirSync(rawDir);
+    const pdfCandidate = rawFiles.find(f => f.toLowerCase().endsWith('.pdf'));
+    if (pdfCandidate) {
+      const pdfStat = fs.statSync(path.resolve(rawDir, pdfCandidate));
+      rawPdf = {
+        fileName: pdfCandidate,
+        url: `/books/${bookId}/raw/${encodeURIComponent(pdfCandidate)}`,
+        sizeBytes: pdfStat.size,
+        formattedSize: formatFileSize(pdfStat.size)
+      };
+    }
+  }
+  if (!rawPdf) {
+    const pdfCandidate = files.find(f => f.toLowerCase().endsWith('.pdf'));
+    if (pdfCandidate) {
+      const pdfStat = fs.statSync(path.resolve(bookPath, pdfCandidate));
+      rawPdf = {
+        fileName: pdfCandidate,
+        url: `/books/${bookId}/${encodeURIComponent(pdfCandidate)}`,
+        sizeBytes: pdfStat.size,
+        formattedSize: formatFileSize(pdfStat.size)
+      };
+    }
+  }
+
+  const isAvailable = chapters.length > 0 || audios.length > 0 || !!rawPdf;
   const status = isAvailable ? "available" : meta.status;
 
   books.push({
@@ -508,6 +543,7 @@ for (const bookId of bookDirs) {
     ...meta,
     status,
     coverUrl: coverUrl,
+    rawPdf: rawPdf,
     totalChapters: chapters.length,
     totalAudios: audios.length,
     chapters,

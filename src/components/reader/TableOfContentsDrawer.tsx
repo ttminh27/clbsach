@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { X, CheckCircle2, Clock, BookOpen, Home } from 'lucide-react';
+import { X, CheckCircle2, Clock, BookOpen, Home, FileText, ExternalLink } from 'lucide-react';
 import { Book, Chapter } from '../../types/book';
 import { useHistory } from '../../context/HistoryContext';
 import { useAudio } from '../../context/AudioContext';
@@ -102,6 +102,25 @@ export const TableOfContentsDrawer: React.FC<TableOfContentsDrawerProps> = ({
             );
           })}
         </div>
+
+        {/* Raw PDF Reference Banner */}
+        {book.rawPdf && (
+          <div className="shrink-0 border-t border-slate-200 dark:border-slate-800 p-3 bg-slate-50/90 dark:bg-slate-900/90">
+            <a
+              href={book.rawPdf.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-between gap-2 rounded-xl bg-white dark:bg-slate-800 border border-slate-200/80 dark:border-slate-700/80 px-3 py-2 text-xs font-semibold text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700/60 transition-all shadow-xs group"
+              title={`Mở sách gốc PDF: ${book.rawPdf.fileName} (${book.rawPdf.formattedSize})`}
+            >
+              <div className="flex items-center gap-2 min-w-0">
+                <FileText className="h-4 w-4 text-rose-500 shrink-0" />
+                <span className="truncate">Sách Gốc ({book.rawPdf.formattedSize})</span>
+              </div>
+              <ExternalLink className="h-3.5 w-3.5 text-slate-400 group-hover:text-slate-600 dark:group-hover:text-slate-300 shrink-0" />
+            </a>
+          </div>
+        )}
 
         {/* Drawer Footer Actions */}
         <div className="shrink-0 border-t border-slate-200 dark:border-slate-800 p-4 bg-slate-50/70 dark:bg-slate-900/70 flex items-center justify-between">

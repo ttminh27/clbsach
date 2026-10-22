@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Headphones, Clock, ArrowLeft, Bookmark, CheckCircle2, Share2, Sparkles, Highlighter } from 'lucide-react';
+import { BookOpen, Headphones, Clock, ArrowLeft, Bookmark, CheckCircle2, Share2, Sparkles, Highlighter, FileText, ExternalLink } from 'lucide-react';
 import { Book } from '../../types/book';
 import { useHistory } from '../../context/HistoryContext';
 import { useAudio } from '../../context/AudioContext';
@@ -168,11 +168,42 @@ export const BookHeader: React.FC<BookHeaderProps> = ({ book, activeTab, onTabCh
                   {isAudioPlayingThisBook ? 'Đang Nghe Audio' : 'Phát Audio'}
                 </button>
               )}
+
+              {book.rawPdf && (
+                <a
+                  href={book.rawPdf.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center gap-2 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-slate-200 px-5 py-3 text-xs sm:text-sm font-bold transition-all shadow-xs hover:border-slate-300 dark:hover:border-slate-600 hover:scale-105 active:scale-95"
+                  title={`Mở sách gốc PDF (${book.rawPdf.fileName} - ${book.rawPdf.formattedSize})`}
+                >
+                  <FileText className="h-4 w-4 text-rose-500" />
+                  <span>Sách Gốc (PDF)</span>
+                  <span className="text-[11px] font-medium text-slate-400 dark:text-slate-500">
+                    ({book.rawPdf.formattedSize})
+                  </span>
+                  <ExternalLink className="h-3.5 w-3.5 text-slate-400 opacity-60" />
+                </a>
+              )}
             </div>
           ) : (
-            <div className="mt-6 inline-flex items-center gap-2 rounded-xl bg-amber-50 dark:bg-amber-950/40 border border-amber-200/80 dark:border-amber-800/80 px-4 py-3 text-xs text-amber-800 dark:text-amber-300">
-              <Sparkles className="h-4 w-4 shrink-0 text-amber-500" />
-              <span>Sách đang được biên soạn nội dung số & audio. Vui lòng quay lại sau!</span>
+            <div className="mt-6 flex flex-wrap items-center gap-3">
+              <div className="inline-flex items-center gap-2 rounded-xl bg-amber-50 dark:bg-amber-950/40 border border-amber-200/80 dark:border-amber-800/80 px-4 py-3 text-xs text-amber-800 dark:text-amber-300">
+                <Sparkles className="h-4 w-4 shrink-0 text-amber-500" />
+                <span>Sách đang được biên soạn nội dung số & audio. Vui lòng quay lại sau!</span>
+              </div>
+              {book.rawPdf && (
+                <a
+                  href={book.rawPdf.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center gap-2 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-slate-200 px-4 py-3 text-xs font-bold transition-all shadow-xs"
+                >
+                  <FileText className="h-4 w-4 text-rose-500" />
+                  <span>Đọc Bản Gốc PDF ({book.rawPdf.formattedSize})</span>
+                  <ExternalLink className="h-3 w-3 text-slate-400" />
+                </a>
+              )}
             </div>
           )}
         </div>

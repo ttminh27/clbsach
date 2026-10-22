@@ -40,11 +40,11 @@ npm run build
 echo ""
 echo "🔍 Đang rà soát và loại bỏ file dư thừa trong $BUILD_DIR..."
 
-# 4.1 Xóa thư mục raw và thư mục cache không dùng cho web
-find "$BUILD_DIR" -type d \( -name "raw" -o -name "__pycache__" \) -exec rm -rf {} + 2>/dev/null || true
+# 4.1 Xóa thư mục cache không dùng cho web
+find "$BUILD_DIR" -type d -name "__pycache__" -exec rm -rf {} + 2>/dev/null || true
 
-# 4.2 Xóa các định dạng file không phục vụ web runtime
-find "$BUILD_DIR" -type f \( -name "*.pdf" -o -name "*.docx" -o -name "*.doc" -o -name "*.zip" -o -name "*.rar" -o -name "*.tar.gz" \) -exec rm -f {} +
+# 4.2 Xóa các định dạng file tài liệu phụ trợ không phục vụ web runtime (giữ lại file *.pdf cho người đọc tham khảo)
+find "$BUILD_DIR" -type f \( -name "*.docx" -o -name "*.doc" -o -name "*.zip" -o -name "*.rar" -o -name "*.tar.gz" \) -exec rm -f {} +
 
 # 4.3 Xóa file hệ thống, file script phụ trợ và file tạm
 find "$BUILD_DIR" -type f \( -name ".DS_Store" -o -name "Thumbs.db" -o -name "*.tmp" -o -name "*.bak" -o -name "*.log" -o -name "*.orig" -o -name "*.py" -o -name "*.pyc" -o -name ".gitkeep" \) -exec rm -f {} +
