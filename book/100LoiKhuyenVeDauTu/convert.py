@@ -49,6 +49,19 @@ def make_slug(title, max_len=60):
 
 def format_spans(spans):
     """Formats a list of spans, merging consecutive spans with the same style."""
+    # Fix any accidental word-splitting across spans in PDF
+    for i in range(len(spans) - 1):
+        s1 = spans[i]
+        s2 = spans[i+1]
+        t1 = s1.get("text", "")
+        t2 = s2.get("text", "")
+        if t1 and t2 and t1[-1].isalnum() and t2[0].isalnum():
+            m = re.match(r"^([^\s]+)", t2)
+            if m:
+                part = m.group(1)
+                s1["text"] = t1 + part
+                s2["text"] = t2[len(part):]
+
     clean_spans = []
     for s in spans:
         t = s["text"]

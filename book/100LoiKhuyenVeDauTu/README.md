@@ -7,7 +7,8 @@
 
 ## MỤC LỤC
 
-- [LỜI GIỚI THIỆU](000_Loi_gioi_thieu.md)
+- [Trang bìa & Mục lục](000_Trang_bia_va_Muc_luc.md)
+- [Lời giới thiệu](000_Loi_gioi_thieu.md)
 - [1. Hãy mua bất động sản tại nơi những người giàu có hay lui tới](001_Hay_mua_bat_dong_san_tai_noi_nhung_nguoi_giau_co_hay_lui_toi.md)
 - [2. Đừng ngại đầu tư thời gian](002_Dung_ngai_dau_tu_thoi_gian.md)
 - [3. Mua cái tốt nhất](003_Mua_cai_tot_nhat.md)

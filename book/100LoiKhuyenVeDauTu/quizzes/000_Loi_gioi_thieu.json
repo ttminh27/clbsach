@@ -1,0 +1,188 @@
+{
+  "bookId": "100LoiKhuyenVeDauTu",
+  "chapterId": "000_Loi_gioi_thieu",
+  "chapterTitle": "Lời giới thiệu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Triết lý cốt lõi nào được Donald Trump đề cập về cách ông đạt được thành công đỉnh cao trong lĩnh vực kinh doanh bất động sản?",
+      "options": [
+        "Chủ động tự mình nghiên cứu toàn diện mọi khía cạnh thị trường.",
+        "Thu thập thông tin tinh hoa nhất từ những người thông minh nhất.",
+        "Tập trung độc quyền vào một phân khúc thị trường ngách duy nhất.",
+        "Dựa hoàn toàn vào trực giác cá nhân khi đưa ra quyết định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng vì Donald Trump dẫn lại câu nói của Susan Penzer rằng thành công của ông đến từ khả năng thu thập thông tin tốt nhất từ những người thông minh nhất. Các phương án khác mâu thuẫn trực tiếp với tuyên bố không thể biết hết mọi thứ của ông."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao Donald Trump lại khẳng định rằng ông không có ý độc quyền về các ý tưởng và sự khôn ngoan trong lĩnh vực bất động sản?",
+      "options": [
+        "Vì ông chỉ tập trung vào việc xây dựng mà không quan tâm đến đầu tư.",
+        "Vì thị trường bất động sản quá lớn và phức tạp để một cá nhân thấu hiểu.",
+        "Vì ông muốn nhường toàn bộ ánh hào quang cho các đối tác kinh doanh.",
+        "Vì ông chưa từng trải qua bất kỳ thất bại nào trong sự nghiệp của mình."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng vì bất động sản là một lĩnh vực rộng lớn với nhiều mảng miếng khác nhau, đòi hỏi trí tuệ tập thể thay vì sự độc đoán cá nhân. Các phương án còn lại mang tính suy diễn sai lệch hoặc không phản ánh đúng thực tế kinh doanh."
+    },
+    {
+      "id": "q3",
+      "question": "Nguồn gốc giá trị cốt lõi của tập hợp 100 lời khuyên trong cuốn sách xuất phát từ đâu theo góc nhìn của chuyên gia?",
+      "options": [
+        "Các giáo trình lý thuyết hàn lâm tại các trường đại học hàng đầu.",
+        "Sự tưởng tượng phong phú của các nhà văn chuyên viết về kinh tế.",
+        "Các báo cáo phân tích xu hướng vĩ mô của các tổ chức tài chính.",
+        "Trải nghiệm thực chiến và bài học xương máu qua thương trường."
+      ],
+      "correctIndex": 3,
+      "explanation": "Phương án đúng vì cuốn sách tập hợp những bài học đúc rút từ kinh nghiệm sống thực tế, từ sai lầm và thành công của các nhà đầu tư lớn. Các phương án khác đi ngược lại bản chất thực chiến được nhấn mạnh trong văn bản."
+    },
+    {
+      "id": "q4",
+      "question": "Việc tổng hợp các sai lầm trong quá khứ của các nhà kinh doanh bất động sản mang lại giá trị chiến lược gì cho độc giả?",
+      "options": [
+        "Giúp họ tránh được những cạm bẫy tốn kém và tối ưu hóa quyết định.",
+        "Cung cấp cơ sở pháp lý để khởi kiện các đối tác làm ăn thua lỗ.",
+        "Tạo ra các mô hình toán học dự báo chính xác biến động giá đất.",
+        "Xây dựng hệ thống tiêu chuẩn đạo đức nghề nghiệp cho môi giới."
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng vì việc học hỏi từ sai lầm (bỏ lỡ cơ hội, dự đoán sai, thương lượng hớ) giúp nhà đầu tư né tránh rủi ro tài chính. Các phương án còn lại không phù hợp với mục đích giáo dục thực chiến của tác phẩm."
+    },
+    {
+      "id": "q5",
+      "question": "Đối tượng độc giả nào có thể thu nhận giá trị cao nhất từ hệ thống lời khuyên trong tác phẩm này?",
+      "options": [
+        "Chỉ những nhà đầu tư triệu phú đã có danh mục tài sản khổng lồ.",
+        "Chỉ các chuyên gia tư vấn pháp lý chuyên ngành bất động sản.",
+        "Cả người mua nhà ở, nhà tập thể lẫn nhà đầu tư mới bước chân vào nghề.",
+        "Cơ quan quản lý nhà nước về quy hoạch đô thị và phát triển quỹ đất."
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng vì Donald Trump nhấn mạnh cuốn sách dành cho cả người mua để ở, mua nhà tập thể, mua trả góp, người đang hoạt động lẫn người mới bước chân vào nghề. Các phương án khác quá thu hẹp phạm vi độc giả."
+    },
+    {
+      "id": "q6",
+      "question": "Theo đoạn trích, thái độ của Donald Trump đối với những người đóng góp nội dung cho cuốn sách được thể hiện như thế nào?",
+      "options": [
+        "Hoài nghi về năng lực thực tế của họ trên thị trường cạnh tranh.",
+        "Đánh giá thấp những người chưa từng trực tiếp hợp tác làm ăn.",
+        "Chỉ ghi nhận đóng góp của những người có quan hệ thân thiết lâu năm.",
+        "Tôn trọng, ngưỡng mộ và cởi mở đón nhận trí tuệ từ nhiều nguồn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Phương án đúng vì ông thừa nhận trong số những người đóng góp có người là bạn, có người ông chưa từng gặp nhưng luôn ngưỡng mộ từ xa. Các phương án khác thể hiện sự chủ quan và thiếu tôn trọng."
+    },
+    {
+      "id": "q7",
+      "question": "Sự khác biệt cốt lõi giữa kiến thức sách vở thông thường và trí tuệ từ 100 nhà kinh doanh bất động sản là gì?",
+      "options": [
+        "Kiến thức sách vở không bao giờ đề cập đến vấn đề tài chính.",
+        "Kiến thức sách vở luôn có giá trị ứng dụng cao hơn kinh nghiệm thực tế.",
+        "Trí tuệ thực chiến chỉ áp dụng được tại các thành phố lớn ở Mỹ.",
+        "Trí tuệ thực chiến được tôi luyện qua khó khăn và thực tế thị trường."
+      ],
+      "correctIndex": 3,
+      "explanation": "Phương án đúng vì văn bản nhấn mạnh sự sáng suốt có được là nhờ trải qua bao khó khăn và thực tế thương trường mới rút ra được. Các phương án khác đánh đồng sai lệch hoặc phủ nhận giá trị thực tế."
+    },
+    {
+      "id": "q8",
+      "question": "Việc Donald Trump thừa nhận những điểm hạn chế trong kiến thức cá nhân của mình phản ánh điều gì về phẩm chất lãnh đạo?",
+      "options": [
+        "Sự thiếu tự tin vào năng lực điều hành tập đoàn đa ngành.",
+        "Chiến thuật truyền thông nhằm che giấu các khoản lỗ đầu tư.",
+        "Tư duy cầu thị và tầm nhìn chiến lược khi sử dụng trí tuệ tập thể.",
+        "Sự phụ thuộc hoàn toàn vào quyết định của đội ngũ nhân viên."
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng vì việc dám nhìn nhận cái mình không biết và chủ động gom góp thông tin từ người giỏi nhất thể hiện tư duy cầu thị của nhà lãnh đạo lớn. Các phương án khác mang tính tiêu cực và phiến diện."
+    },
+    {
+      "id": "q9",
+      "question": "Theo góc nhìn đầu tư, việc phân tích các thương vụ thương lượng quá cao hoặc quá thấp giúp nhà đầu tư cải thiện kỹ năng gì?",
+      "options": [
+        "Kỹ năng thiết kế kiến trúc và xây dựng công trình dân dụng.",
+        "Năng lực định giá tài sản và nghệ thuật đàm phán hợp đồng.",
+        "Phương pháp quản lý nhân sự tại các sàn giao dịch địa ốc.",
+        "Chiến lược marketing kỹ thuật số cho sản phẩm nhà ở."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng vì thương lượng quá cao hoặc quá thấp liên quan trực tiếp đến việc xác định giá trị thực và kỹ năng chốt giao dịch. Các phương án khác không thuộc phạm vi chuyên môn này."
+    },
+    {
+      "id": "q10",
+      "question": "Mục đích tối thượng mà Donald Trump đặt ra khi biên soạn cuốn sách này là gì?",
+      "options": [
+        "Tạo ra một cẩm nang giúp độc giả lập kế hoạch để tự thành công.",
+        "Xây dựng một hệ thống xếp hạng các nhà môi giới xuất sắc nhất.",
+        "Quảng bá thương hiệu cá nhân cho các chương trình truyền hình.",
+        "Thống kê toàn bộ lịch sử phát triển của thị trường nhà đất Mỹ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng vì ông nêu rõ sứ mệnh của cuốn sách là cung cấp lời khuyên bổ ích, giúp độc giả lập kế hoạch để chính mình thành công. Các phương án khác chỉ là mục đích phụ hoặc suy diễn sai."
+    },
+    {
+      "id": "q11",
+      "question": "Việc đúc kết các bài học từ nhiều nhà kinh doanh khác nhau giúp nhà đầu tư mới giảm thiểu rủi ro nào lớn nhất?",
+      "options": [
+        "Rủi ro thiếu hụt nguồn nguyên vật liệu xây dựng trên toàn cầu.",
+        "Rủi ro biến động tỷ giá hối đoái trên thị trường tài chính quốc tế.",
+        "Rủi ro lặp lại những sai lầm ngớ ngẩn mà người đi trước từng trả giá.",
+        "Rủi ro thay đổi chính sách thuế quan đối với tài sản thừa kế."
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng vì việc học từ sai lầm của người đi trước giúp nhà đầu tư mới không phải tự mình trả giá bằng tiền mặt cho những lỗi cơ bản. Các phương án còn lại không liên quan đến nội dung đoạn trích."
+    },
+    {
+      "id": "q12",
+      "question": "Yếu tố nào được xem là điểm tựa vững chắc nhất để một nhà đầu tư có thể định hướng đúng đắn trong thị trường bất động sản?",
+      "options": [
+        "Các tin đồn chưa được kiểm chứng trên các diễn đàn mạng xã hội.",
+        "Kinh nghiệm thực tế được chia sẻ từ các bậc thầy đi trước.",
+        "Sự may mắn ngẫu nhiên trong mỗi phiên đấu giá tài sản.",
+        "Chỉ số lạm phát ngắn hạn được công bố hàng tháng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng vì cuốn sách tập trung vào kinh nghiệm sống và lời khuyên từ các nhà kinh doanh hàng đầu làm kim chỉ nam. Các phương án khác mang tính rủi ro cao hoặc không bền vững."
+    },
+    {
+      "id": "q13",
+      "question": "Phương pháp tiếp cận thông tin kinh doanh của Donald Trump qua đoạn trích gợi mở điều gì cho các nhà đầu tư hiện đại?",
+      "options": [
+        "Phải luôn biết lắng nghe, tổng hợp và chắt lọc tinh hoa từ cộng đồng.",
+        "Chỉ nên tin tưởng vào phân tích của riêng mình để tránh bị nhiễu loạn.",
+        "Luôn mua lại các doanh nghiệp đối thủ để thâu tóm toàn bộ thị phần.",
+        "Tránh xa mọi mối quan hệ hợp tác để bảo vệ bí quyết kinh doanh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng vì thông điệp xuyên suốt là thu thập thông tin tốt nhất từ những người thông minh nhất. Các phương án còn lại thể hiện tư duy bảo thủ hoặc độc quyền sai lầm."
+    },
+    {
+      "id": "q14",
+      "question": "Việc Donald Trump đề cập đến các vấn đề từ 'bỏ lỡ cơ hội' cho đến 'dự đoán sai thị trường' nhằm minh họa cho điều gì?",
+      "options": [
+        "Tính chất khốc liệt và đầy rẫy cạm bẫy của thương trường bất động sản.",
+        "Sự bất khả thi trong việc kiếm lợi nhuận từ lĩnh vực nhà đất.",
+        "Sự yếu kém chuyên môn toàn diện của các nhà đầu tư tại Mỹ.",
+        "Sự cần thiết phải từ bỏ hoàn toàn các khoản đầu tư mạo hiểm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng vì những sai lầm này phản ánh thực tế khắc nghiệt mà bất kỳ nhà đầu tư nào cũng có thể gặp phải nếu thiếu kinh nghiệm. Các phương án khác mang tính bi quan cực đoan."
+    },
+    {
+      "id": "q15",
+      "question": "Ý nghĩa chiến lược của việc xuất bản một tác phẩm quy tụ 100 chuyên gia bất động sản hàng đầu là gì?",
+      "options": [
+        "Xóa bỏ hoàn toàn sự cạnh tranh giữa các nhà đầu tư trên thị trường.",
+        "Thống nhất một mức giá chung cho tất cả các giao dịch nhà đất.",
+        "Tạo ra một bộ cẩm nang quy chuẩn đúc kết trí tuệ đỉnh cao của ngành.",
+        "Định hướng dòng vốn đầu tư dịch chuyển hoàn toàn sang nhà tập thể."
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng vì đây được xem là bản tóm tắt hoàn hảo nhất các lời khuyên, tạo thành cẩm nang quy chuẩn về trí tuệ đầu tư. Các phương án còn lại phi thực tế và sai lệch bản chất."
+    }
+  ]
+}

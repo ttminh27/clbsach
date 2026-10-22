@@ -1,0 +1,188 @@
+{
+  "bookId": "100LoiKhuyenVeDauTu",
+  "chapterId": "034_Quan_ly_viec_dong_thue",
+  "chapterTitle": "34. Quản lý việc đóng thuế",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Gary Gorman, ưu thế nổi trội nào của bất động sản so với cổ phiếu và trái phiếu giúp nhà đầu tư tối ưu hóa nguồn vốn?",
+      "options": [
+        "Khả năng tạo ra dòng tiền đều đặn từ việc cho thuê hàng tháng",
+        "Tính thanh khoản cao hơn hẳn trên thị trường tài chính mở",
+        "Quy chế hoãn thuế hợp pháp khi tái đầu tư lợi nhuận mua bán",
+        "Mức độ bảo vệ pháp lý toàn diện từ các cơ quan chính phủ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng vì bất động sản có Hệ thống trao đổi 1031 cho phép tích lũy lợi nhuận và trì hoãn đóng thuế, điều mà cổ phiếu và trái phiếu không có. Các phương án khác hoặc sai lệch về bản chất hoặc không đúng với nội dung so sánh của chuyên gia."
+    },
+    {
+      "id": "q2",
+      "question": "Mục đích chiến lược sâu xa nhất của việc áp dụng Hệ thống trao đổi 1031 trong đầu tư bất động sản là gì?",
+      "options": [
+        "Trốn tránh nghĩa vụ đóng thuế vĩnh viễn trước cơ quan nhà nước",
+        "Giảm thiểu hoàn toàn rủi ro thị trường trong mọi giai đoạn chu kỳ",
+        "Đơn giản hóa các thủ tục pháp lý khi chuyển nhượng tài sản",
+        "Gia tăng quy mô danh mục tài sản mà không bị mất dòng vốn do thuế"
+      ],
+      "correctIndex": 3,
+      "explanation": "Phương án đúng vì Mục 1031 giúp trì hoãn thuế để tái đầu tư toàn bộ vốn vào tài sản mới, từ đó gia tăng quy mô tài sản. Các phương án khác sai vì đây là trì hoãn hợp pháp chứ không phải trốn thuế vĩnh viễn, và công cụ này không loại bỏ được rủi ro thị trường."
+    },
+    {
+      "id": "q3",
+      "question": "Nguyên tắc cốt lõi đầu tiên trong 6 nguyên tắc của Gorman yêu cầu điều gì về tính chất của bất động sản tham gia trao đổi?",
+      "options": [
+        "Phải được duy trì dưới tư cách là tài sản đầu tư sinh lợi",
+        "Phải là nhà ở thương mại phục vụ nhu cầu sinh sống trực tiếp",
+        "Phải nằm trong phân khúc đất nền thổ cư có tính thanh khoản cao",
+        "Phải là các tòa nhà văn phòng cho thuê tại trung tâm đô thị"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng vì nguyên tắc 1 yêu cầu giữ bất động sản cũ và mới lại để đầu tư. Các phương án khác quá hẹp hoặc không phản ánh đúng bản chất rộng lớn của bất động sản đầu tư theo quy định."
+    },
+    {
+      "id": "q4",
+      "question": "Thời gian nắm giữ tối thiểu được chuyên gia khuyến nghị đối với bất động sản cũ và mới trong giao dịch 1031 là bao lâu?",
+      "options": [
+        "Ít nhất là một năm và một ngày để đảm bảo tính an toàn",
+        "Ít nhất là đúng một năm tròn tính từ ngày ký hợp đồng",
+        "Ít nhất là sáu tháng và một ngày tính từ thời điểm giao dịch",
+        "Ít nhất là hai năm liên tục theo quy định khắt khe của IRS"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng bám sát mốc thời gian 'ít nhất một năm và một ngày' mà chuyên gia Gorman khuyến nghị. Các phương án khác sai lệch về mốc thời gian chuẩn mực trong bài học."
+    },
+    {
+      "id": "q5",
+      "question": "Rủi ro pháp lý lớn nhất đối với nhà đầu tư khi thực hiện quy trình 45 ngày định danh danh sách tài sản mới là gì?",
+      "options": [
+        "Sự thiếu hụt nguồn cung phân khúc nhà ở giá rẻ trên thị trường",
+        "Biến động giá bất ngờ của thị trường trong giai đoạn đàm phán",
+        "Quá số lượng cho phép hoặc vượt quá giới hạn tổng giá trị tài sản",
+        "Sự chậm trễ từ phía cơ quan đăng ký đất đai của địa phương"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng vì nếu vượt quá 3 tài sản mà tổng giá trị vượt 2 lần tài sản cũ, toàn bộ thương vụ sẽ thất bại. Các phương án khác không phải là rủi ro cốt lõi được chuyên gia nhấn mạnh trong nguyên tắc 45 ngày."
+    },
+    {
+      "id": "q6",
+      "question": "Hậu quả pháp lý nghiêm trọng nhất nếu nhà đầu tư cố tình thay đổi danh sách 3 bất động sản sau thời hạn 45 ngày là gì?",
+      "options": [
+        "Chỉ bị phạt hành chính bằng một phần nhỏ giá trị giao dịch",
+        "Bị vô hiệu hóa toàn bộ quyền lợi trong Hệ thống trao đổi 1031",
+        "Có thể chịu hình phạt nặng, bao gồm cả án tù từ cơ quan thuế",
+        "Bị cước phí giao dịch cao gấp đôi từ phía nhà môi giới độc lập"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng vì chuyên gia đã cảnh báo việc thay đổi sau nửa đêm ngày thứ 45 có thể dẫn đến hình phạt nặng, kể cả việc bị bỏ tù bởi IRS. Các phương án khác chưa phản ánh đủ mức độ nghiêm trọng theo cảnh báo."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao yêu cầu về mốc thời gian hoàn tất mua tài sản mới trong vòng 180 ngày lại mang tính tuyệt đối?",
+      "options": [
+        "Vì hệ thống máy tính của IRS tự động khóa sổ vào thời điểm này",
+        "Vì luật pháp không cho phép bất kỳ sự gia hạn nào dù rơi vào ngày nghỉ",
+        "Vì các ngân hàng thương mại từ chối giải ngân sau mốc thời gian này",
+        "Vì nhà môi giới trung gian sẽ tự động chấm dứt hợp đồng ủy thác"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng vì kỳ hạn 180 ngày là cố định, bao gồm cả ngày nghỉ cuối tuần và lễ tết, không có ngoại lệ gia hạn. Các phương án khác không chính xác về nguyên nhân pháp lý."
+    },
+    {
+      "id": "q8",
+      "question": "Yếu tố then chốt nào trong nguyên tắc chọn nhà môi giới (bên thứ ba) giúp bảo vệ tài sản của nhà đầu tư trước chủ nợ?",
+      "options": [
+        "Tiền phải được lưu giữ trong một tài khoản chuyên biệt dành riêng cho bạn",
+        "Nhà môi giới phải có chứng chỉ hành nghề CPA quốc tế hợp pháp",
+        "Nhà môi giới phải ký quỹ bảo lãnh tương đương 100% giá trị tài sản",
+        "Hợp đồng dịch vụ phải có sự chứng thực của cơ quan tư pháp liên bang"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng vì phán quyết tòa án nêu rõ nếu tiền không được gửi trong tài khoản dành riêng, chủ nợ của môi giới có thể thu hồi nó. Các phương án khác không giải quyết trực tiếp rủi ro pháp lý này."
+    },
+    {
+      "id": "q9",
+      "question": "Thực trạng pháp lý nào được chuyên gia chỉ ra về mức độ bảo vệ của nhà nước đối với tiền của nhà đầu tư qua môi giới?",
+      "options": [
+        "Luật pháp liên bang bảo vệ tuyệt đối tiền gửi tại các tổ chức tín dụng",
+        "Có hệ thống bảo hiểm tiền gửi quốc gia chi trả toàn bộ rủi ro phát sinh",
+        "Không có luật rõ ràng hay cơ quan nào bảo vệ bạn khỏi môi giới thiếu uy tín",
+        "Chỉ có các hiệp hội bất động sản đứng ra bồi thường khi xảy ra tranh chấp"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng vì chuyên gia khẳng định thực tế không có luật liên bang nào bảo vệ nhà đầu tư khỏi những môi giới thiếu trung thực. Các phương án khác sai lệch so với cảnh báo thực tế trong bài."
+    },
+    {
+      "id": "q10",
+      "question": "Yêu cầu về 'sự đồng nhất của chủ sở hữu' (nguyên tắc 5) nhằm mục đích ngăn chặn điều gì trong giao dịch 1031?",
+      "options": [
+        "Việc trốn tránh các khoản phí trước bạ và lệ phí trước khi sang tên",
+        "Sự chênh lệch về giá trị định giá giữa tài sản cũ và tài sản mới mua",
+        "Sự can thiệp bất hợp pháp của các bên môi giới vào dòng tiền giao dịch",
+        "Sự thay đổi về thể nhân hoặc pháp nhân đóng thuế giữa các bước giao dịch"
+      ],
+      "correctIndex": 3,
+      "explanation": "Phương án đúng vì tên chủ sở hữu tài sản cũ và mới phải trùng khớp hoàn toàn, không thể chuyển đổi thành pháp nhân khác vì đó là các cá thể đóng thuế khác nhau. Các phương án khác không thuộc bản chất của nguyên tắc 5."
+    },
+    {
+      "id": "q11",
+      "question": "Tình huống nào sau đây sẽ làm phát sinh nghĩa vụ nộp thuế ngay lập tức trong quá trình thực hiện Hệ thống trao đổi 1031?",
+      "options": [
+        "Tái đầu tư toàn bộ số tiền bán tài sản vào một cơ ngơi có giá trị cao hơn",
+        "Hoàn tất việc mua tài sản mới vào ngày thứ 179 tính từ khi bán tài sản cũ",
+        "Sử dụng dịch vụ của một nhà môi giới độc lập có tài khoản ngân hàng riêng",
+        "Giữ lại một phần tiền mặt chưa sử dụng hoặc mua tài sản giá trị thấp hơn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Phương án đúng vì nếu mua cơ ngơi giá trị thấp hơn hoặc giữ lại một phần tiền mặt không tái đầu tư, nhà đầu tư phải đóng thuế cho phần thặng dư đó. Các phương án còn lại đều tuân thủ đúng quy định hoãn thuế."
+    },
+    {
+      "id": "q12",
+      "question": "Phát biểu nào sau đây phản ánh chính xác góc nhìn của Gary Gorman về các khoản nợ vay khi thực hiện trao đổi bất động sản?",
+      "options": [
+        "Không bắt buộc phải tạo khoản nợ mới tương đương khoản nợ cũ",
+        "Bắt buộc phải ký khoản nợ mới ít nhất bằng khoản nợ cũ đã trả",
+        "Phải thanh toán toàn bộ các khoản nợ cũ bằng tiền mặt của bên môi giới",
+        "Chỉ được phép sử dụng vốn tự có mà không được vay vốn ngân hàng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng vì chuyên gia đã lưu ý rõ: việc phải ký món nợ mới tương đương món nợ cũ không phải là yêu cầu bắt buộc của Hệ thống 1031. Các phương án khác mâu thuẫn với nhận định của chuyên gia."
+    },
+    {
+      "id": "q13",
+      "question": "Giới hạn về số lượng các vụ giao dịch trao đổi thông qua Hệ thống 1031 trong suốt cuộc đời nhà đầu tư là bao nhiêu?",
+      "options": [
+        "Tối đa không quá mười vụ giao dịch để tránh sự kiểm toán của IRS",
+        "Không có giới hạn số lượng vụ trao đổi mà nhà đầu tư có thể tiến hành",
+        "Chỉ được phép thực hiện duy nhất một lần đối với tài sản nhà ở chính",
+        "Tùy thuộc vào quyết định chấp thuận hàng năm của cơ quan thuế vụ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng vì chuyên gia khẳng định không có giới hạn cho số vụ trao đổi, nhà đầu tư có thể tiếp tục chuỗi giao dịch liên tục. Các phương án khác hoàn toàn sai lệch."
+    },
+    {
+      "id": "q14",
+      "question": "Biện pháp tối ưu nhất để nhà đầu tư có thể sử dụng dòng tiền mặt từ việc bán bất động sản mà không phải chịu thuế ngay lập tức là gì?",
+      "options": [
+        "Rút tiền mặt trực tiếp từ tài khoản của nhà môi giới độc lập uy tín",
+        "Tái đầu tư toàn bộ số tiền mặt đó vào việc mua một cơ ngơi giá trị cao",
+        "Chuyển đổi hình thức sở hữu từ cá nhân sang hình thức công ty TNHH",
+        "Kê khai dòng tiền dưới dạng thu nhập từ hoạt động kinh doanh phụ trợ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng vì tái đầu tư toàn bộ tiền mặt vào tài sản mới là cách phổ biến để dùng tiền mà không phạm nghĩa vụ thuế. Các phương án khác sẽ làm phát sinh thuế hoặc vi phạm pháp luật."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học thực tiễn mang tầm chiến lược lớn nhất mà Gary Gorman đúc kết qua hành trình sự nghiệp tư vấn thuế của mình là gì?",
+      "options": [
+        "Luôn phải nhờ đến sự can thiệp của tòa án liên bang trong mọi vụ giao dịch",
+        "Chủ động kiểm soát nghĩa vụ thuế hợp pháp là đòn bẩy gia tăng tài sản vượt trội",
+        "Cổ phiếu và trái phiếu mang lại lợi ích thuế cao hơn nhiều so với đất đai",
+        "Việc thay đổi danh mục đầu tư liên tục sẽ làm suy yếu dòng tiền cá nhân"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng vì thông điệp xuyên suốt chương là việc chủ động quản lý và trì hoãn thuế qua 1031 tạo ra lợi thế khổng lồ cho nhà đầu tư bất động sản. Các phương án khác sai về bản chất hoặc trái ngược với nội dung bài học."
+    }
+  ]
+}

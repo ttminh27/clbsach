@@ -1,0 +1,188 @@
+{
+  "bookId": "DanhThucConNguoiPhiThuongBenTrongBan",
+  "chapterId": "12_Chuong_12_Dam_me_dieu_ky_xay_dung_tuong_lai_thoi_thuc",
+  "chapterTitle": "Chương 12: Đam mê diệu kỳ: Xây dựng tương lai thôi thúc",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Anthony Robbins, nguyên nhân cốt lõi khiến nhiều người cảm thấy lười biếng và thiếu động lực hành động trong cuộc sống là gì?",
+      "options": [
+        "Do họ thiếu hụt năng lượng sinh học tự nhiên",
+        "Do họ đang sở hữu những mục tiêu vô hiệu quả",
+        "Do họ bị ảnh hưởng bởi môi trường xung quanh",
+        "Do họ không có đủ nguồn lực tài chính cần thiết"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả khẳng định con người không hề lười biếng, mà sự thiếu nhiệt tình xuất phát từ việc họ đặt ra những mục tiêu yếu ớt, vô hiệu quả. Các phương án khác mang tính ngụy biện hoặc ngoại cảnh, đi ngược lại triết lý làm chủ nội tâm của Robbins."
+    },
+    {
+      "id": "q2",
+      "question": "Trí óc con người luôn luôn vận hành theo cơ chế nào khi không ý thức thiết lập mục tiêu?",
+      "options": [
+        "Luôn tìm cách vô hiệu hóa mọi cảm xúc đau khổ",
+        "Luôn tự động theo đuổi việc né tránh đau khổ hoặc tìm kiếm sung sướng",
+        "Luôn duy trì trạng thái tĩnh lặng và nghỉ ngơi tuyệt đối",
+        "Luôn hướng về quá khứ để chiêm nghiệm lại các bài học"
+      ],
+      "correctIndex": 1,
+      "explanation": "Robbins chỉ ra rằng trí óc luôn theo đuổi việc giảm bớt/loại bỏ đau khổ hoặc hướng đến sự sung sướng, nghĩa là chúng ta luôn có mục tiêu nhưng nếu không ý thức định hướng thì sẽ trôi dạt theo bản năng."
+    },
+    {
+      "id": "q3",
+      "question": "Tiêu chí nào được Anthony Robbins đề xuất để xác định một mục tiêu đủ sức mạnh lôi cuốn và giải phóng năng lượng tiềm ẩn?",
+      "options": [
+        "Mục tiêu phải cực kỳ dễ dàng để đảm bảo đạt được ngay lập tức",
+        "Mục tiêu phải dựa trên các kinh nghiệm đã được chứng minh bởi số đông",
+        "Mục tiêu phải trông có vẻ quá to tát khó thực hiện nhưng mang lại cảm giác có thể đạt được",
+        "Mục tiêu phải hoàn toàn nằm trong vùng an toàn và kiểm soát hiện tại"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nhấn mạnh mục tiêu đúng là cái có vẻ quá to tát khó thực hiện nổi nhưng đồng thời cho ta cảm giác sẽ đạt được, giúp vượt qua giới hạn bản thân."
+    },
+    {
+      "id": "q4",
+      "question": "Câu chuyện về cậu bé O.J. Simpson vượt qua nghịch cảnh còi xương để trở thành huyền thoại minh chứng cho nguyên lý nào trong phát triển tiềm năng?",
+      "options": [
+        "Tài năng bẩm sinh đóng vai trò quyết định mọi thành công",
+        "Sự may mắn ngẫu nhiên có thể thay đổi hoàn toàn định mệnh con người",
+        "Xác định mục tiêu vĩ đại là nền tảng biến cái vô hình thành cái hữu hình",
+        "Thể chất yếu kém luôn là rào cản không thể vượt qua trong thể thao"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu chuyện O.J. Simpson minh họa rõ nét cho luận điểm: xác định mục tiêu là bước đầu tiên để biến cái vô hình thành cái hữu hình và kiến tạo định mệnh từ nghịch cảnh."
+    },
+    {
+      "id": "q5",
+      "question": "Theo phân tích của Anthony Robbins, đâu là nguyên nhân tâm lý sâu xa khiến nhiều người từ bỏ việc thiết lập mục tiêu?",
+      "options": [
+        "Họ cảm thấy việc lập mục tiêu tốn quá nhiều thời gian và công sức",
+        "Họ tin rằng số phận con người đã được định đoạt sẵn từ trước",
+        "Họ bị ám ảnh bởi nỗi sợ thất vọng và thất bại từng trải qua trong quá khứ",
+        "Họ thiếu sự hỗ trợ từ gia đình và những người xung quanh"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nỗi sợ thất vọng, sợ lặp lại thất bại trong quá khứ và việc gắn liền hạnh phúc với kết quả ngoài tầm kiểm soát chính là rào cản tâm lý khiến người ta thôi không dám đề ra mục tiêu."
+    },
+    {
+      "id": "q6",
+      "question": "Yếu tố nào được Anthony Robbins đánh giá là có giá trị cao hơn cả tài năng trong việc tạo ra và nâng cao chất lượng đời sống?",
+      "options": [
+        "Khả năng thích ứng linh hoạt với mọi thay đổi thời thế",
+        "Trí thông minh logic và khả năng phân tích dữ liệu",
+        "Sự hậu thuẫn từ các mối quan hệ xã hội rộng lớn",
+        "Sự kiên trì và quyết tâm không ngơi nghỉ để hành động"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả khẳng định sự kiên trì có giá trị hơn cả tài năng, là nguồn hiệu quả nhất để nâng cao chất lượng đời sống và đạt được các mục tiêu cao vời."
+    },
+    {
+      "id": "q7",
+      "question": "Khi thực hiện bài tập thiết lập mục tiêu trong 4 lĩnh vực, tác giả khuyên trạng thái tư duy của người học nên như thế nào?",
+      "options": [
+        "Phải thực tế, chỉ viết những gì chắc chắn nằm trong tầm tay",
+        "Phải để ngòi bút tự do tuôn trào, viết nhanh mà không sợ hãi hay nghi ngờ",
+        "Phải cân nhắc kỹ lưỡng các rủi ro tài chính có thể xảy ra",
+        "Phải tham khảo ý kiến chuyên gia trước khi đặt bút viết"
+      ],
+      "correctIndex": 1,
+      "explanation": "Robbins hướng dẫn hãy viết thật nhanh, cho ngòi bút tự do tuôn trào, tự hỏi điều mình thực sự muốn mà không nghi ngờ khả năng hay lo lắng về cách thực hiện ở giai đoạn đầu."
+    },
+    {
+      "id": "q8",
+      "question": "Hành động quan trọng nhất cần thực hiện ngay lập tức sau khi đã thiết lập xong các mục tiêu là gì?",
+      "options": [
+        "Chia sẻ mục tiêu công khai với tất cả mọi người xung quanh",
+        "Lập tức tạo một ngẫu lực, đà trớn thông qua các hành động tích cực nhỏ",
+        "Tạm dừng mọi hoạt động trong vài ngày để tâm trí được nghỉ ngơi",
+        "Lên danh sách chi tiết các khoản chi phí đầu tư cần thiết"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngay sau khi đề ra mục tiêu, cần phải tạo một ngẫu lực, đà trớn bằng những hành động tích cực nhỏ để chuỗi thói quen đảm bảo thành công lâu dài."
+    },
+    {
+      "id": "q9",
+      "question": "Theo quan điểm của Anthony Robbins, bản chất đích thực của một 'quyết định thực sự' là gì?",
+      "options": [
+        "Là sự cam kết ngầm hiểu trong tư duy và tiềm thức",
+        "Là suy nghĩ thấu đáo qua nhiều ngày tháng nghiên cứu",
+        "Là tuyên bố công khai trước đám đông về mục đích",
+        "Là sự lựa chọn đi kèm ngay lập tức với hành động thực tế"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nhắc lại từ chương 2 và xuyên suốt tác phẩm, một quyết định thực sự là quyết định phải có ngay hành động theo sau, dù là hành động nhỏ nhất."
+    },
+    {
+      "id": "q10",
+      "question": "Ý nghĩa cốt lõi của việc thiết lập 'một tương lai thôi thúc' đối với sự phát triển của con người là gì?",
+      "options": [
+        "Là nhu cầu thiết yếu mang lại niềm vui, sự cống hiến và ý nghĩa sống",
+        "Giúp đạt được sự công nhận và danh tiếng từ xã hội",
+        "Là công cụ duy nhất để tích lũy khối tài sản khổng lồ",
+        "Giúp con người thoát khỏi mọi áp lực và căng thẳng tâm lý"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tương lai thôi thúc không phải là thứ phụ thuộc mà là nhu cầu giúp con người thành đạt, cảm nghiệm niềm vui, sự cống hiến và tạo ý nghĩa cho cuộc đời."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao tác giả lại nhấn mạnh vào các mục tiêu trong lĩnh vực 'Cống hiến' bên cạnh phát triển bản thân và kinh tế?",
+      "options": [
+        "Vì đó là cơ hội để để lại dấu vết và giúp thay đổi đời sống con người",
+        "Vì đó là cách duy nhất để xây dựng thương hiệu cá nhân",
+        "Vì pháp luật yêu cầu mỗi cá nhân phải tham gia công tác xã hội",
+        "Vì lĩnh vực này đem lại nguồn lợi nhuận tài chính nhanh nhất"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mục tiêu cống hiến là cơ hội để để lại dấu vết cho đời và tạo ra di sản giúp thay đổi đời sống của những người kém may mắn."
+    },
+    {
+      "id": "q12",
+      "question": "Bài học từ nhân vật vua hề George Burns (hoạt động nghệ thuật đến tuổi trên 100) minh họa cho triết lý nào?",
+      "options": [
+        "Tương lai thôi thúc và mục tiêu sống giữ cho con người luôn năng động",
+        "Sức khỏe thể chất quyết định toàn bộ tinh thần con người",
+        "Tuổi tác cao là yếu tố thuận lợi để phát triển sự nghiệp",
+        "Nghệ thuật giải trí giúp con người trẻ hóa tế bào cơ thể"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu chuyện về George Burns minh họa sinh động cho việc một hướng đi, một mục tiêu, một tương lai thôi thúc có sức mạnh kéo con người ra khỏi giường và duy trì sự năng động đỉnh cao."
+    },
+    {
+      "id": "q13",
+      "question": "Trong quy trình thiết lập mục tiêu theo thời hạn (1 năm, 5 năm), thái độ đúng đắn đối với 'cách thức thực hiện' ở bước đầu là gì?",
+      "options": [
+        "Phải vạch ra phương án chi tiết từng bước rồi mới được viết mục tiêu",
+        "Chỉ đặt ra mục tiêu khi đã có sẵn nguồn lực và công cụ thực hiện",
+        "Chưa cần bận tâm đến cách thực hiện, điều tối quan trọng là sự quyết tâm tuyệt đối",
+        "Phải nhờ chuyên gia tư vấn lộ trình trước khi xác định thời điểm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả liên tục nhắc nhở rằng điều quan trọng nhất không phải bạn sẽ đạt mục tiêu bằng cách nào, mà là bạn có tuyệt đối quyết tâm đạt mục tiêu đó hay không."
+    },
+    {
+      "id": "q14",
+      "question": "Phương pháp duy trì động lực bền vững trong 10 ngày đầu tiên sau khi lập mục tiêu là gì?",
+      "options": [
+        "Thực hiện những hành vi nhỏ mỗi ngày hướng tới mục tiêu để tạo chuỗi thói quen",
+        "Tự thưởng cho bản thân những món quà đắt tiền sau mỗi thành công nhỏ",
+        "Thay đổi hoàn toàn lối sống và cắt đứt các mối quan hệ cũ",
+        "Viết lại mục tiêu hàng trăm lần mỗi ngày lên giấy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thảo ra danh sách những việc đơn sơ làm mỗi ngày trong mười ngày kế tiếp sẽ giúp tạo một chuỗi thói quen bảo đảm thành công lâu dài."
+    },
+    {
+      "id": "q15",
+      "question": "Mối quan hệ bản chất giữa 'giấc mơ' và 'hành động' trong triết lý của Anthony Robbins được thể hiện như thế nào?",
+      "options": [
+        "Giấc mơ chỉ là sự tưởng tượng viển vông không có giá trị thực tế",
+        "Hành động là yếu tố duy nhất, giấc mơ làm mất thời gian vô ích",
+        "Hành động phải đi trước, giấc mơ chỉ xuất hiện khi đã thành công",
+        "Giấc mơ là điểm khởi đầu vô hình được hiện thực hóa qua quyết định và hành động"
+      ],
+      "correctIndex": 3,
+      "explanation": "Xuyên suốt chương sách từ châm ngôn của Carl SandBURG đến phần biến cái vô hình thành hữu hình, giấc mơ và mục tiêu là khởi đầu để chuyển hóa thành hành động thực tế."
+    }
+  ]
+}

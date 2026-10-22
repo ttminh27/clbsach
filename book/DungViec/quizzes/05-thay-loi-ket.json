@@ -1,0 +1,188 @@
+{
+  "bookId": "DungViec",
+  "chapterId": "05-thay-loi-ket",
+  "chapterTitle": "Thay lời kết",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo tinh thần khai minh của Immanuel Kant được tác giả trích dẫn, phương châm cốt lõi để một cá nhân dấn thân thực hiện các công việc nền tảng của đời mình là gì?",
+      "options": [
+        "Hãy dám biết và can đảm sử dụng chính trí tuệ của mình để định đoạt.",
+        "Phải tuân thủ tuyệt đối các chuẩn mực truyền thống được thừa nhận lâu đời.",
+        "Chờ đợi sự dẫn dắt từ các bậc vĩ nhân và trí thức lỗi lạc trong xã hội.",
+        "Thu thập thật nhiều kiến thức hàn lâm từ sách vở cổ kim đông tây."
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương châm khai minh của Kant nhấn mạnh sự tự lực trí tuệ, dám suy nghĩ độc lập và tự chịu trách nhiệm, loại bỏ sự ỷ lại vào quyền lực hay truyền thống."
+    },
+    {
+      "id": "q2",
+      "question": "Vì sao tác giả Giản Tư Trung lại cảm thấy ngần ngại và đối mặt với nhiều áp lực khi viết về chủ đề “đúng việc” và “hệ điều hành” của đời người?",
+      "options": [
+        "Vì những đề tài này quá lớn lao, dễ bị hiểu lầm là 'dạy đời' và động chạm đến những thứ đã định sẵn.",
+        "Vì ông chưa đủ kinh nghiệm thực tiễn trong việc quản trị các tổ chức kinh tế lớn.",
+        "Vì đề tài này vi phạm những nguyên tắc kiểm duyệt khắt khe của ngành giáo dục.",
+        "Vì không có bất kỳ tài liệu lịch sử nào bàn luận về các vấn đề nền tảng này trước đó."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lạm bàn về cách làm người, làm dân, làm việc là những chủ đề tối thượng, dễ chạm vào vùng cấm kỵ hoặc tạo cảm giác 'dạy đời' thiên hạ nên đòi hỏi sự can đảm lớn."
+    },
+    {
+      "id": "q3",
+      "question": "Tác giả đã sử dụng thủ pháp nghệ thuật nào khi kết nối câu chuyện chung của xã hội với thân phận riêng của từng cá nhân trong cuốn sách?",
+      "options": [
+        "Kể lại tiểu sử của các vị lãnh tụ và triết gia vĩ đại nhất trong lịch sử nhân loại.",
+        "Sử dụng các số liệu thống kê vĩ mô kết hợp với các biểu đồ kinh tế xã hội trực quan.",
+        "Trích dẫn nguyên văn các điều luật hiến pháp và các bộ luật lao động của nhà nước.",
+        "Mô phỏng cách tiếp cận của văn hào và đạo diễn khi khắc họa thân phận cá nhân để phản ánh thời đại."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả chọn cách tiếp cận qua thân phận cá nhân (như Kiều của Nguyễn Du phản ánh thời đại) để người đọc từ cái riêng suy tưởng ra cái chung."
+    },
+    {
+      "id": "q4",
+      "question": "Khái niệm “hệ điều hành” (hay ý thức hệ, hệ giá trị) được tác giả ví von như thế nào đối với mỗi cá nhân, tổ chức hay xứ sở?",
+      "options": [
+        "Là một công cụ kỹ thuật thuần túy giúp tối ưu hóa hiệu suất làm việc hàng ngày.",
+        "Đóng vai trò như một 'ông chủ' thực sự, chi phối toàn bộ quan niệm, hành vi và thái độ sống.",
+        "Là một tập hợp các quy tắc ứng xử ngoại giao do xã hội áp đặt lên từng cá nhân.",
+        "Là những khẩu hiệu hình thức chỉ dùng để trang trí trên tường văn phòng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ điều hành chính là hệ thống quan niệm nền tảng, định hình nhân sinh quan và chi phối mọi hành vi, ước muốn, đóng vai trò như 'ông chủ' của mỗi người."
+    },
+    {
+      "id": "q5",
+      "question": "Theo tác giả, thách thức lớn nhất và khắc nghiệt nhất trong hành trình khai phóng và thực hành giá trị sống là gì?",
+      "options": [
+        "Tìm kiếm được một hệ tư tưởng hoàn hảo không có bất kỳ điểm mù nào để học theo.",
+        "Thực sự sống đúng với những giá trị mình tin tưởng thay vì chỉ hiểu biết hay tôn thờ lý thuyết.",
+        "Thuyết phục những người xung quanh từ bỏ lối sống cũ để đi theo con đường mới.",
+        "Vượt qua những rào cản về tài chính và điều kiện vật chất trong đời sống."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiểu chân lý đã khó, nhưng sống trọn vẹn và bảo vệ được chân lý đó trong thực tế đời sống còn khó hơn ngàn lần, đó mới là thử thách tối thượng."
+    },
+    {
+      "id": "q6",
+      "question": "Hiện tượng một người ban đầu rất hừng hực khí thế với các giá trị quản trị cao đẹp, nhưng dần mai một và thỏa hiệp với thực tế thực dụng phản ánh quy luật tâm lý nào được nêu trong bài?",
+      "options": [
+        "Kiến thức lý thuyết và thực tiễn kinh doanh là hai con đường song song không bao giờ giao nhau.",
+        "Môi trường thực tế luôn có sức mạnh cải tạo hoàn toàn mọi lý tưởng sách vở của con người.",
+        "Nếu bạn không sống với những gì mình tin tưởng, cuối cùng bạn sẽ quay lại tin những gì mình sống.",
+        "Sự hào hứng ban đầu chỉ là một thứ cảm xúc nhất thời không có giá trị nền tảng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu châm ngôn trích dẫn chỉ rõ: sự tha hóa diễn ra khi con người không đủ dũng khí sống với niềm tin của mình, để rồi bị hoàn cảnh đồng hóa và nhào nặn lại niềm tin."
+    },
+    {
+      "id": "q7",
+      "question": "Khi một xã hội để cho 'cái sai tồn tại quá lâu đến mức trở thành cái phổ biến và được đánh đồng là cái đúng', hành động của một cá nhân có tư duy khai minh sẽ là gì?",
+      "options": [
+        "Chờ đợi sự can thiệp của các cơ quan quản lý nhà nước để lập lại trật tự chuẩn mực.",
+        "Nhanh chóng hòa nhập với số đông để tránh gặp phải những rắc rối không cần thiết.",
+        "Kiên cường 'đi ngược gió' để bảo vệ lựa chọn và giá trị chân chính của bản thân.",
+        "Im lặng chấp nhận thực tại vì sự nỗ lực cá nhân không thể thay đổi được cục diện."
+      ],
+      "correctIndex": 2,
+      "explanation": "Người có tinh thần khai minh phải có lòng can đảm 'đi ngược gió', không xu thời hay thỏa hiệp với cái sai đã bị thông thường hóa trong xã hội."
+    },
+    {
+      "id": "q8",
+      "question": "Ý nghĩa thực sự của việc đọc sách và tiếp thu tri thức khai minh đối với mỗi con người nằm ở thời điểm nào?",
+      "options": [
+        "Những chuyển biến và hành động thiết thực xảy ra sau khi người đọc gấp sách lại.",
+        "Khả năng ghi nhớ và trích dẫn lại các tư tưởng của danh nhân trong các cuộc tranh luận.",
+        "Cảm giác thỏa mãn trí tuệ ngay trong lúc đang nghiền ngẫm từng trang sách.",
+        "Việc sở hữu một tủ sách đồ sộ với đầy đủ các tác phẩm kinh điển của nhân loại."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sách vở chỉ là phương tiện khơi gợi; giá trị thực sự nằm ở hành động thực tế của cá nhân sau khi gấp sách lại để tự kiến tạo cuộc đời mình."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao tác giả khẳng định không có cuốn sách nào có thể chỉ cho ta chính xác từng bước phải làm gì sau khi gấp sách lại?",
+      "options": [
+        "Vì triết học khai minh phản đối việc đưa ra các công thức thành công có sẵn.",
+        "Vì các tác giả thường cố tình giữ lại bí quyết thành công để độc giả tự mày mò.",
+        "Vì mỗi hoàn cảnh xã hội thay đổi quá nhanh khiến sách vở trở nên lỗi thời.",
+        "Vì không ai có thể sống thay cuộc đời hay đấu tranh giùm cho những lựa chọn riêng của ta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đời sống cá nhân là duy nhất và tự chủ; mỗi người phải tự chịu trách nhiệm tìm đường và hành động, không ai có thể sống thay hay quyết định thay."
+    },
+    {
+      "id": "q10",
+      "question": "Tiền đề tối quan trọng và là điểm tựa tinh thần cốt lõi mà tác giả kỳ vọng độc giả đón nhận từ cuốn sách là gì?",
+      "options": [
+        "May mắn gặp được những người thầy lớn dìu dắt trong suốt hành trình sự nghiệp.",
+        "Sự hỗ trợ tài chính từ các quỹ đầu tư mạo hiểm và các tổ chức phát triển xã hội.",
+        "Sự công nhận của cộng đồng và danh tiếng xã hội đối với những nỗ lực cá nhân.",
+        "Niềm tin vào chuyện tử tế, sự thay đổi đến từ 'TÔI' và quan niệm 'Ta là sản phẩm của chính mình'."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả nhấn mạnh tiền đề sống còn: tin vào chuyện tử tế, tự thay đổi từ chính mình và ý thức rằng bản thân là sản phẩm của chính những lựa chọn của mình."
+    },
+    {
+      "id": "q11",
+      "question": "Sự khác biệt căn bản giữa một 'con người tự do, tự trị' với một kẻ mang thân phận 'nô lệ, ngoại trị' trong triết lý giáo dục khai minh là gì?",
+      "options": [
+        "Người tự do được miễn trừ khỏi mọi quy chuẩn đạo đức và pháp luật của cộng đồng.",
+        "Người tự do có tài chính dư dả để không phải phụ thuộc vào lao động chân tay.",
+        "Người tự do tự định đoạt hệ điều hành và đạo sống cho mình, còn kẻ nô lệ để ngoại cảnh và người khác sai khiến.",
+        "Người tự do chỉ sống theo sở thích cá nhân mà không cần quan tâm đến trách nhiệm xã hội."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tính tự trị (autonomy) là khả năng tự làm chủ, tự chọn đạo sống và tự chịu trách nhiệm, trái ngược hoàn toàn với thái độ ngoại trị, bị trị."
+    },
+    {
+      "id": "q12",
+      "question": "Theo quan điểm của Giản Tư Trung, việc một người thấu hiểu các giá trị cao đẹp nhưng vẫn sống một cuộc đời 'bị trị' và 'nô lệ' cho thấy điều gì?",
+      "options": [
+        "Sự bất lực hoàn toàn của giáo dục trước những biến động khốc liệt của thị trường.",
+        "Khoảng cách vô cùng lớn giữa nhận thức lý thuyết và bản lĩnh thực hành trong đời sống.",
+        "Tính hình thức và vô dụng của tất cả các hệ thống triết học phương Tây.",
+        "Sự chi phối tuyệt đối của hoàn cảnh kinh tế xã hội lên số phận con người."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ rõ nghịch lý phổ biến: hiểu thì dễ nhưng sống được như một con người tự do còn khó hơn ngàn lần do thiếu bản lĩnh thực hành."
+    },
+    {
+      "id": "q13",
+      "question": "Hình ảnh 'ông chủ' thực sự chi phối đời người, nhà lãnh đạo tối cao của mỗi cá nhân theo tư tưởng của chương sách là gì?",
+      "options": [
+        "Các xu hướng kinh tế toàn cầu và sự biến động của thị trường lao động.",
+        "Những nhà lãnh đạo chính trị và các cơ quan quyền lực cao nhất trong quốc gia.",
+        "Hệ điều hành, ý thức hệ hay hệ giá trị đạo sống mà cá nhân đó tự lựa chọn.",
+        "Truyền thống gia đình và những quy tắc ứng xử của dòng tộc để lại."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hệ điều hành (đạo sống) do chính ta lựa chọn chính là 'ông chủ' nội tâm định hình mọi thái độ, hành vi và số phận của mỗi con người."
+    },
+    {
+      "id": "q14",
+      "question": "Thông điệp về 'chuyện tử tế' mà tác giả gửi gắm ở phần cuối sách mang ý nghĩa triết lý sâu sắc nào?",
+      "options": [
+        "Sự tử tế luôn được đền đáp ngay lập tức bằng lợi ích vật chất và danh vọng xã hội.",
+        "Gieo nhân lành gặt quả ngọt, sống đàng hoàng, nỗ lực tích cực thì đổi thay và điều tốt đẹp tất yếu sẽ đến.",
+        "Người sống tử tế sẽ luôn được bảo vệ khỏi mọi rủi ro và bất công trong cuộc sống.",
+        "Chuyện tử tế chỉ là một thứ đạo đức học lý thuyết không có giá trị thực tiễn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Niềm tin vào chuyện tử tế là niềm tin nền tảng rằng sự nỗ lực sống đàng hoàng, tích cực chắc chắn sẽ mang lại sự chuyển hóa và quả ngọt cho cuộc đời."
+    },
+    {
+      "id": "q15",
+      "question": "Tinh thần cốt lõi xuyên suốt toàn bộ tác phẩm 'Đúng Việc' và chương 'Thay lời kết' hướng tới mục đích tối thượng nào cho con người?",
+      "options": [
+        "Tự khai phóng bản thân, kiến tạo hệ điều hành độc lập để sống đúng việc, làm người chân chính và đạt hạnh phúc đích thực.",
+        "Trở thành những chuyên gia lỗi lạc trong các lĩnh vực kinh tế và quản trị doanh nghiệp.",
+        "Xây dựng một hệ thống giáo dục tiêu chuẩn để áp dụng đồng loạt cho toàn xã hội.",
+        "Tìm kiếm sự an ủi tinh thần qua việc đọc sách và chiêm nghiệm triết học."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mục đích tối thượng của khai minh và 'đúng việc' là giúp con người tự thức tỉnh, tự chủ cuộc đời, làm đúng việc của mình để đạt đến sự tự do và hạnh phúc."
+    }
+  ]
+}

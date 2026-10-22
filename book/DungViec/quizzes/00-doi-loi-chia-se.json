@@ -1,0 +1,188 @@
+{
+  "bookId": "DungViec",
+  "chapterId": "00-doi-loi-chia-se",
+  "chapterTitle": "Đôi lời chia sẻ từ tác giả",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo tác giả Giản Tư Trung, thông điệp sâu xa từ câu nói khắc trên tượng đài Đô đốc Nelson tại quảng trường Trafalgar không chỉ là kỷ niệm một chiến thắng quân sự, mà còn gợi mở điều gì cho mỗi con người?",
+      "options": [
+        "Sự tôn vinh lòng dũng cảm chiến đấu bảo vệ tổ quốc của những người lính hải quân.",
+        "Lời nhắc nhở mỗi công dân luôn phải suy ngẫm về bổn phận và làm tốt công việc của mình.",
+        "Bài học về chiến lược quân sự xuất sắc trong các cuộc chiến tranh cổ điển thời xưa.",
+        "Khát vọng chinh phục biển cả và mở rộng bờ cõi của đế quốc Anh hùng mạnh thuở trước."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh rằng dòng chữ 'Nước Anh mong muốn mỗi người sẽ làm tròn công việc của mình' là lời nhắc nhở sâu sắc về bổn phận và trách nhiệm cá nhân đối với công việc mà mỗi người phải gánh vác trong đời, vượt lên trên ý nghĩa kỷ niệm chiến thắng thông thường."
+    },
+    {
+      "id": "q2",
+      "question": "Trong bối cảnh xã hội hiện đại có nhiều vấn đề và khủng hoảng giá trị, tác giả xác định bản chất của những 'trận chiến vô hình' khốc liệt nhất hiện nay diễn ra ở đâu?",
+      "options": [
+        "Giữa các quốc gia có sự chênh lệch về công nghệ và tiềm lực kinh tế lớn mạnh.",
+        "Giữa cái đúng và cái sai, khai minh và vô minh, cõi phàm và cõi thiêng trong con người.",
+        "Giữa các hệ tư tưởng chính trị đối lập và các mô hình quản lý kinh tế thị trường.",
+        "Giữa sự phát triển của trí tuệ nhân tạo và nguy cơ suy giảm việc làm của nhân loại."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ ra rằng những trận chiến khốc liệt nhất không phải là chiến tranh hữu hình mà là cuộc chiến vô hình bên trong đời sống tinh thần xã hội: giữa cái đúng và cái sai, giữa khai minh và vô minh, giữa cao đẹp và thấp hèn."
+    },
+    {
+      "id": "q3",
+      "question": "Căn nguyên sâu xa nhất dẫn đến những thực trạng bất ổn, khủng hoảng của con người và xã hội theo quan điểm của tác giả là gì?",
+      "options": [
+        "Do có quá nhiều thứ chưa được trả lại chân giá trị và nhiều người chưa làm đúng công việc.",
+        "Do hệ thống pháp luật của nhà nước chưa đủ nghiêm minh và thiếu các biện pháp chế tài mạnh.",
+        "Do sự bùng nổ dân số và tình trạng cạn kiệt nhanh chóng của các nguồn tài nguyên thiên nhiên.",
+        "Do sự chi phối quá mức của các tập đoàn kinh tế lớn đối với đời sống chính trị toàn cầu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả khẳng định thực trạng bất ổn bắt nguồn từ việc có quá nhiều thứ chưa được trả lại chân giá trị vốn có và có quá nhiều người chưa hiểu đúng và làm tốt những công việc căn cốt của mình."
+    },
+    {
+      "id": "q4",
+      "question": "Ba công việc quan trọng nhất mà bất kỳ ai cũng phải làm trong cuộc đời, quyết định phẩm giá và tư cách con người, được tác giả xác định là gì?",
+      "options": [
+        "Làm người, làm dân và làm việc, trong đó giáo dục đóng vai trò quyết định hệ quả.",
+        "Làm giàu kinh tế, làm chủ tri thức và làm chỗ dựa vững chắc cho gia đình thân yêu.",
+        "Làm cán bộ lãnh đạo, làm chuyên gia giỏi chuyên môn và làm công dân gương mẫu mực.",
+        "Làm khoa học sáng tạo, làm nghệ thuật đỉnh cao và làm kinh doanh tạo ra giá trị lớn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả đúc kết ba công việc quan trọng nhất của đời người là làm người, làm dân và làm việc; đồng thời chỉ ra giáo dục là chiếc nôi nhào nặn nên cách con người thực thi ba phần việc này."
+    },
+    {
+      "id": "q5",
+      "question": "Sự khác biệt căn bản giữa 'con người tự do' với 'con người nô lệ hay con người công cụ' nằm ở yếu tố nào được tác giả ngầm khẳng định qua các lựa chọn đúng việc?",
+      "options": [
+        "Khả năng nhận biết sự thật, tự chủ suy nghĩ, tự quyết định số phận thay vì bị sai khiến.",
+        "Năng lực tạo ra khối lượng tài sản vật chất lớn và khả năng thăng tiến nhanh trong sự nghiệp.",
+        "Trình độ học vấn cao, văn bằng quốc tế và khả năng sử dụng thành thạo nhiều ngoại ngữ.",
+        "Sự tuân thủ tuyệt đối các quy chuẩn đạo đức truyền thống và kỷ luật nghiêm ngặt của tổ chức."
+      ],
+      "correctIndex": 0,
+      "explanation": "Con người tự do là người biết rõ các lựa chọn, thấu hiểu giá trị và làm chủ cuộc đời mình, khác biệt hoàn toàn với con người công cụ hay nô lệ bị thao túng, sai khiến hoặc đánh mất bản ngã."
+    },
+    {
+      "id": "q6",
+      "question": "Theo tinh thần khai minh được thể hiện trong chương sách, vì sao mục đích của cuốn sách không phải là đưa ra những kết luận áp đặt hay chân lý độc quyền?",
+      "options": [
+        "Bởi vì các vấn đề xã hội quá phức tạp nên việc tìm ra câu trả lời chính xác là bất khả thi.",
+        "Bởi vì tác giả muốn giữ lại sự bí ẩn để thu hút thêm sự tò mò từ phía đông đảo độc giả.",
+        "Bởi vì tri thức nhân loại là vô tận và không ai được phép độc quyền chân lý khách quan.",
+        "Bởi vì mỗi cá nhân có quyền tự do tuyệt đối mà không cần tham khảo bất kỳ chuẩn mực nào."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nêu rõ mục đích là để gợi mở, đặt câu hỏi và cùng tra vấn chứ không áp đặt kết luận, bởi 'không ai được phép độc quyền chân lý' trong hành trình nhận thức của nhân loại."
+    },
+    {
+      "id": "q7",
+      "question": "Tuyên ngôn bất hủ của Mahatma Gandhi 'You must be the change you wish to see in the world' được tác giả vận dụng vào lập luận của mình nhằm nhấn mạnh điều gì?",
+      "options": [
+        "Sự thay đổi từ mỗi cá nhân tự làm đúng việc là con đường tốt nhất để cải biến xã hội.",
+        "Mỗi người phải chờ đợi xã hội thay đổi toàn diện rồi mới điều chỉnh hành vi bản thân sau.",
+        "Việc cải tạo xã hội là trách nhiệm thuộc về các nhà lãnh đạo và các tổ chức chính trị lớn.",
+        "Sự biến đổi của thế giới hoàn toàn phụ thuộc vào các cuộc cách mạng khoa học công nghệ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh triết lý 'tự lực khai hóa': thay đổi bắt đầu từ 'tôi của mỗi người' là con đường tốt nhất để đổi thay chung của xã hội, thay vì ngồi chờ đợi hay trông chờ vào người khác."
+    },
+    {
+      "id": "q8",
+      "question": "Khái niệm 'tự lực khai hóa' mà tác giả nhắc đến khi nhắc lại tinh thần của nhà canh tân văn hóa Phan Châu Trinh mang ý nghĩa thực tiễn nào?",
+      "options": [
+        "Tự lập kinh tế bằng tài năng kinh doanh xuất chúng để không phải phụ thuộc vào gia đình.",
+        "Tự mình nỗ lực nâng cao nhận thức, tư duy độc lập để tự giải phóng bản thân và giúp ích đời.",
+        "Tự trang bị các kỹ năng mềm hiện đại nhằm thích ứng nhanh với môi trường làm việc toàn cầu.",
+        "Tự tổ chức các phong trào xã hội quy mô lớn nhằm gây áp lực cải cách bộ máy quản lý nhà nước."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Tự lực khai hóa' là hành trình mỗi cá nhân tự nỗ lực học hỏi, trau dồi tri thức và thức tỉnh tư duy để tự giải phóng mình khỏi sự vô minh, nô dịch tinh thần."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao tác giả lại dành riêng một chương thứ tư trong cuốn sách để bàn sâu về lĩnh vực 'Làm giáo dục'?",
+      "options": [
+        "Vì giáo dục là ngành kinh doanh dịch vụ thu hút nguồn vốn đầu tư lớn nhất trong xã hội.",
+        "Vì giáo dục tạo ra các bằng cấp giá trị giúp người học dễ dàng thăng tiến trong sự nghiệp.",
+        "Vì giáo dục là công cụ duy nhất giúp nhà nước quản lý và kiểm soát tư duy của công dân.",
+        "Vì giáo dục định hình hệ quả con người sẽ làm người, làm dân hay làm việc ra sao."
+      ],
+      "correctIndex": 3,
+      "explanation": "Giáo dục được đặt riêng một chương vì tính ảnh hưởng sâu sắc của nó đến con người; mọi phẩm chất của việc làm người, làm dân, làm việc đều là hệ quả của nền giáo dục được thụ hưởng."
+    },
+    {
+      "id": "q10",
+      "question": "Theo quan điểm xuyên suốt của tác giả, hành trình đi tìm 'đúng việc' thực chất là hành trình gì của mỗi con người trong cuộc đời?",
+      "options": [
+        "Hành trình mưu cầu địa vị cao sang và tích lũy khối tài sản kếch xù cho thế hệ sau.",
+        "Hành trình đi tìm chân lý, chân giá trị và hoàn thiện bản ngã để sống một cuộc đời ý nghĩa.",
+        "Hành trình tuân thủ tuyệt đối các luật lệ xã hội để đạt được sự an toàn và ổn định.",
+        "Hành trình chạy trốn khỏi những áp lực thực tế để tìm kiếm sự bình yên nơi tâm hồn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả khẳng định hành trình tra vấn để tìm ra cái đúng, tìm ra 'mình' giữa các lựa chọn chính là hành trình đi tìm chân lý, chân giá trị và là hành trình muôn đời của con người."
+    },
+    {
+      "id": "q11",
+      "question": "Khi bàn về bản chất của nghề nghiệp, việc con người lựa chọn 'làm đúng việc' hay 'làm sai việc' sẽ tạo ra hệ quả trực tiếp nào đối với chính họ?",
+      "options": [
+        "Quyết định mức thu nhập tài chính cao hay thấp và vị thế xã hội mà họ đạt được.",
+        "Giúp họ tránh khỏi mọi rủi ro pháp lý và tranh chấp không đáng có trong công sở.",
+        "Làm nên chính con người họ, định hình nhân cách và bản sắc của họ trong xã hội.",
+        "Tạo ra danh tiếng vang dội và sự ngưỡng mộ tuyệt đối từ những người xung quanh."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nhấn mạnh rằng lựa chọn đúng việc hay sai việc trong từng công việc sẽ làm nên chính họ, phân biệt con người tự do với con người nô lệ hoặc công cụ."
+    },
+    {
+      "id": "q12",
+      "question": "Hành động viết cuốn sách này được tác giả lý giải trước hết xuất phát từ động lực cá nhân nào bên cạnh trách nhiệm công dân và trách nhiệm làm nghề?",
+      "options": [
+        "Mong muốn tạo ra một tác phẩm ăn khách để đạt các giải thưởng văn học danh giá.",
+        "Sự thúc ép từ các nhà xuất bản và nhu cầu tài chính cá nhân trong giai đoạn khó khăn.",
+        "Sở thích cá nhân được chia sẻ, bàn luận và học hỏi về bản chất các vấn đề căn cốt.",
+        "Ý định thiết lập một hệ tư tưởng mới để dẫn dắt các phong trào triết học đương đại."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả chia sẻ một cách chân thành rằng trước hết và chủ yếu ông viết vì ông thích (thích chia sẻ, bàn luận và học hỏi về chuyện đúng việc và chân giá trị)."
+    },
+    {
+      "id": "q13",
+      "question": "Theo tư tưởng khai minh được phản ánh trong đoạn trích, điều kiện tiên quyết để một người có thể đưa ra những lựa chọn đúng đắn trong đời là gì?",
+      "options": [
+        "Phải tuân thủ tuyệt đối các hướng dẫn và kinh nghiệm của các bậc tiền bối đi trước.",
+        "Phải có sự hậu thuẫn vững chắc từ gia đình và các mối quan hệ xã hội rộng lớn.",
+        "Phải trải qua nhiều thất bại cay đắng để tích lũy kinh nghiệm thực chiến thực tế.",
+        "Phải nhận thức được sự tồn tại của các lựa chọn và hiểu rõ sự khác biệt giữa chúng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả đặt câu hỏi tu từ đầy sức nặng: 'Làm sao lựa chọn nếu không hề biết đến sự tồn tại của những lựa chọn, không rõ đâu là sự khác biệt giữa chúng và đâu là mình?'"
+    },
+    {
+      "id": "q14",
+      "question": "Việc tác giả trân trọng nhắc đến sự đóng góp của các bậc thức giả, nhà nghiên cứu (như Bùi Văn Nam Sơn, Nguyễn Văn Trọng) thể hiện thái độ nào của một trí thức chân chính?",
+      "options": [
+        "Sự lệ thuộc hoàn toàn vào tư tưởng của các bậc thầy đi trước để đảm bảo tính an toàn.",
+        "Chiến lược ngoại giao khôn ngoan nhằm nâng cao uy tín cá nhân cho tác phẩm xuất bản.",
+        "Sự khiêm tốn học hỏi, tinh thần đối thoại trí tuệ và sự trân trọng tri thức khách quan.",
+        "Thói quen mượn danh nghĩa người nổi tiếng để quảng bá thương hiệu sách trên thị trường."
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc ghi nhận công sức đóng góp, sự cố vấn của các chuyên gia thể hiện tinh thần cầu thị, khiêm tốn và sự tôn trọng cội nguồn tri thức của một nhà giáo dục chân chính."
+    },
+    {
+      "id": "q15",
+      "question": "Ý niệm cốt lõi nhất được tác giả đúc kết từ Jean-Jacques Rousseau khi xem 'nghề làm người' là công việc quan trọng nhất của đời người mang hàm ý gì?",
+      "options": [
+        "Con người phải nỗ lực học tập các kỹ năng sinh tồn để thích nghi với quy luật tự nhiên.",
+        "Trách nhiệm hoàn thiện nhân cách con người hoàn toàn do nhà trường và xã hội quyết định.",
+        "Mỗi cá nhân cần phải tập trung toàn lực vào việc phát triển kinh tế cá nhân trước tiên.",
+        "Làm người là một quá trình tu dưỡng phẩm giá và ý thức tự do chứ không phải bẩm sinh."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khái niệm 'nghề làm người' khẳng định việc trở thành một con người đúng nghĩa, tự do và có phẩm giá là một sứ mệnh tu dưỡng suốt đời, vượt lên trên mọi nghề nghiệp mưu sinh."
+    }
+  ]
+}

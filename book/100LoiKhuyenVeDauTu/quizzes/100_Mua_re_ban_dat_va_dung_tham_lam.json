@@ -1,0 +1,188 @@
+{
+  "bookId": "100LoiKhuyenVeDauTu",
+  "chapterId": "100_Mua_re_ban_dat_va_dung_tham_lam",
+  "chapterTitle": "100. Mua rẻ, bán đắt và đừng tham lam",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo triết lý của Mortimer Zuckerman trong chương này, bản chất cốt lõi nhất của việc 'mua rẻ' trong đầu tư bất động sản cao cấp là gì?",
+      "options": [
+        "Chỉ mua những bất động sản cũ kỹ cần cải tạo lại với chi phí thấp",
+        "Săn lùng các dự án bị bỏ hoang có giá bán cực kỳ rẻ ở ngoại ô",
+        "Chờ đợi thị trường đóng băng hoàn toàn để ép giá chủ nhà khốn cùng",
+        "Xác định đúng giá trị thực để thâu tóm tài sản dưới giá thị trường"
+      ],
+      "correctIndex": 3,
+      "explanation": "Phương án đúng phản ánh nguyên lý định giá cốt lõi: mua rẻ không có nghĩa là mua hàng kém chất lượng, mà là mua được tài sản có giá trị thực cao hơn mức giá giao dịch nhờ năng lực phân tích. Các phương án còn lại mang tính cảm tính, rủi ro cao hoặc hiểu sai về khái niệm giá trị."
+    },
+    {
+      "id": "q2",
+      "question": "Nguyên tắc 'bán đắt' dưới góc nhìn chiến lược của một nhà đầu tư lớn đòi hỏi yếu tố quyết định nào để tối ưu hóa lợi nhuận?",
+      "options": [
+        "Chờ đến đỉnh điểm hưng phấn của chu kỳ để tung toàn bộ hàng ra",
+        "Giữ lại tài sản vĩnh viễn để hưởng dòng tiền cho thuê tăng theo thời gian",
+        "Thoát hàng khi đạt kỳ vọng và còn dư địa hấp dẫn cho người mua sau",
+        "Bán ngay khi vừa có lời nhỏ để tránh mọi rủi ro biến động ngắn hạn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng thể hiện tư duy quản trị chu kỳ sắc bén: không cố gắng vét cạn từng đồng lợi nhuận cuối cùng ở đỉnh mà biết thoái vốn khi đạt kỳ vọng, đảm bảo tính thanh khoản. Các phương án khác hoặc quá cực đoan, hoặc bỏ lỡ thời điểm vàng."
+    },
+    {
+      "id": "q3",
+      "question": "Cạm bẫy tâm lý nguy hiểm nhất mà lời khuyên 'đừng tham lam' muốn cảnh báo các nhà đầu tư bất động sản là gì?",
+      "options": [
+        "Đầu tư dàn trải vào nhiều phân khúc khác nhau mà thiếu sự kiểm soát chặt",
+        "Sử dụng đòn bẩy tài chính quá mức dẫn đến việc mất khả năng trả nợ gốc",
+        "Cố gắng ôm giữ tài sản quá lâu để kỳ vọng mức giá phi lý ngoài tầm với",
+        "Vội vã bán tháo tài sản khi thị trường vừa có dấu hiệu điều chỉnh nhẹ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng mô tả chính xác biểu hiện của lòng tham trong đầu tư: kỳ vọng lợi nhuận phi lý, không chịu chốt lời đúng lúc khiến tài sản quay đầu giảm giá. Các phương án khác dù là rủi ro nhưng không sát với định nghĩa về sự tham lam được đề cập."
+    },
+    {
+      "id": "q4",
+      "question": "Trong bối cảnh thị trường bất động sản biến động mạnh, việc tuân thủ nguyên tắc 'mua rẻ, bán đắt' giúp nhà đầu tư đạt được điều gì?",
+      "options": [
+        "Xây dựng được biên độ an toàn vững chắc và tối ưu hóa hiệu suất vốn",
+        "Loại bỏ hoàn toàn mọi rủi ro về pháp lý và thanh khoản trong ngắn hạn",
+        "Dễ dàng tiếp cận các nguồn vốn vay ưu đãi lớn từ hệ thống ngân hàng",
+        "Chi phối toàn bộ nguồn cung bất động sản cao cấp tại khu vực trọng điểm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng nhấn mạnh vào 'biên độ an toàn' (margin of safety) và hiệu suất vốn - hai yếu tố sống còn của nhà đầu tư chuyên nghiệp. Các phương án khác phóng đại quá mức khả năng thực tế hoặc sai lệch bản chất."
+    },
+    {
+      "id": "q5",
+      "question": "Khi áp dụng chiến lược của Mortimer Zuckerman, làm thế nào để nhà đầu tư nhận biết thế nào là một thương vụ 'mua rẻ' thực thụ?",
+      "options": [
+        "Tin tưởng hoàn toàn vào cam kết lợi nhuận hấp dẫn từ các đơn vị môi giới",
+        "So sánh trực tiếp mức giá của nó với các tài sản xung quanh trong cùng khu",
+        "Dựa vào biên độ chênh lệch giữa giá mua và giá trị nội tại được thẩm định",
+        "Đánh giá qua tốc độ tăng trưởng giao dịch của khu vực đó trong năm qua"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng khẳng định giá trị nội tại là tiêu chuẩn vàng. Mua rẻ phải dựa trên định giá độc lập, không phải dựa vào lời hứa hẹn hay so sánh cảm tính bề ngoài như các phương án khác."
+    },
+    {
+      "id": "q6",
+      "question": "Biểu hiện nào sau đây cho thấy một nhà đầu tư đang vi phạm nghiêm trọng triết lý 'đừng tham lam' trong giai đoạn thị trường nóng sốt?",
+      "options": [
+        "Thận trọng thẩm định kỹ lưỡng từng thông tin quy hoạch trước khi xuống tiền",
+        "Chủ động giảm tỷ trọng danh mục để bảo toàn nguồn vốn mặt đang có sẵn",
+        "Tập trung đầu tư dài hạn vào các dòng sản phẩm có pháp lý hoàn chỉnh",
+        "Liên tục vay mượn thêm để lướt sóng các tài sản có tính thanh khoản thấp"
+      ],
+      "correctIndex": 3,
+      "explanation": "Phương án đúng chỉ ra hành vi dùng đòn bẩy quá đà để lướt sóng khi thị trường nóng do lòng tham chi phối. Các phương án còn lại thể hiện sự thận trọng và quản trị rủi ro chuyên nghiệp."
+    },
+    {
+      "id": "q7",
+      "question": "Yếu tố tâm lý nào thường là nguyên nhân chính khiến các nhà đầu tư thất bại trong việc thực hiện nguyên tắc 'bán đắt'?",
+      "options": [
+        "Sự thiếu hụt thông tin cập nhật về biến động của nền kinh tế vĩ mô toàn cầu",
+        "Hiệu ứng tâm lý đám đông và kỳ vọng giá sẽ còn tiếp tục tăng cao hơn nữa",
+        "Áp lực từ gia đình và người thân yêu cầu phải bảo toàn nguồn tài chính",
+        "Thói quen chốt lời quá sớm vì sợ mất đi khoản lợi nhuận đã đạt được"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng phân tích chính xác tâm lý tiếc nuối và kỳ vọng phi lý ở đỉnh chu kỳ (FOMO và lòng tham), khiến nhà đầu tư bỏ lỡ thời điểm bán lý tưởng. Các phương án khác ít mang tính quyết định hơn."
+    },
+    {
+      "id": "q8",
+      "question": "Dưới góc nhìn của một doanh nhân kỳ cựu như Mortimer Zuckerman, sự khác biệt lớn nhất giữa nhà đầu tư chuyên nghiệp và nghiệp dư là gì?",
+      "options": [
+        "Khả năng kiểm soát cảm xúc tham lam và tuân thủ kỷ luật giao dịch tuyệt đối",
+        "Sở hữu nguồn vốn khổng lồ và mối quan hệ rộng với các cơ quan quản lý",
+        "Tốc độ tiếp cận thông tin quy hoạch mới nhất trước khi công bố rộng rãi",
+        "Quyền lực đàm phán giá cả với các chủ đầu tư lớn trên thị trường sơ cấp"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng nhấn mạnh kỷ luật và kiểm soát tâm lý - cốt lõi của sự thành công bền vững. Các phương án còn lại chỉ là lợi thế bổ trợ, không đại diện cho bản chất tư duy đầu tư cốt lõi."
+    },
+    {
+      "id": "q9",
+      "question": "Trong chiến lược phân bổ danh mục bất động sản, triết lý 'mua rẻ, bán đắt và đừng tham lam' đòi hỏi nhà đầu tư phải hành động như thế nào?",
+      "options": [
+        "Chỉ đầu tư duy nhất vào một loại hình tài sản duy nhất tại một địa điểm",
+        "Liên tục giao dịch mua đi bán lại hàng tuần để tối ưu hóa dòng tiền ngắn hạn",
+        "Kiên nhẫn chờ đợi cơ hội vàng và quyết đoán thoái lui khi đạt mục tiêu",
+        "Gửi toàn bộ tiền mặt vào ngân hàng khi thấy thị trường có dấu hiệu đi ngang"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phương án đúng tổng hòa được sự kiên nhẫn khi mua và quyết đoán khi bán đúng nguyên tắc. Các phương án còn lại vi phạm các quy tắc quản trị rủi ro hoặc kém hiệu quả."
+    },
+    {
+      "id": "q10",
+      "question": "Điều gì sẽ xảy ra nếu một nhà đầu tư bỏ qua vế 'đừng tham lam' và chỉ tập trung vào mục tiêu 'mua rẻ, bán đắt' theo nghĩa cơ học?",
+      "options": [
+        "Dễ rơi vào bẫy giá rẻ của tài sản kém chất lượng và lỡ nhịp bán ở đỉnh chu kỳ",
+        "Thu được siêu lợi nhuận khủng khiếp nhưng gặp rắc rối lớn về vấn đề thuế",
+        "Trở thành nhà tài phiệt bất động sản chỉ trong một chu kỳ ngắn hạn duy nhất",
+        "Phát triển bền vững nhờ tận dụng triệt để mọi biến động nhỏ của thị trường"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng chỉ ra hậu quả thực tế: tham gia mua rẻ mà không kiểm định chất lượng dễ mua phải tài sản tồi (value trap), còn tham lam khi bán sẽ ôm bom ở đỉnh. Các phương án khác mang tính mộng tưởng."
+    },
+    {
+      "id": "q11",
+      "question": "Bài học thực chiến lớn nhất rút gọn từ châm ngôn ngắn gọn của Mortimer Zuckerman trong chương này là gì?",
+      "options": [
+        "Thành công chỉ đến với ai có tài chính mạnh và mua được số lượng lớn",
+        "Thắng lợi thuộc về người có kỷ luật thép, định giá chuẩn và biết điểm dừng",
+        "May mắn là yếu tố quyết định 90% kết quả của một thương vụ bất động sản lớn",
+        "Luôn phải đi ngược lại hoàn toàn với xu hướng chung của toàn thị trường"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng khái quát trọn vẹn tinh thần kỷ luật, định giá và kiểm soát lòng tham. Các phương án khác phủ nhận vai trò của tư duy chiến lược và quy luật thị trường."
+    },
+    {
+      "id": "q12",
+      "question": "Khi thị trường bất động sản bước vào giai đoạn suy thoái, nguyên tắc 'mua rẻ' cần được triển khai kèm theo biện pháp quản trị nào?",
+      "options": [
+        "Tập trung mua các loại đất nền vùng sâu vùng xa chưa có cơ sở hạ tầng hoàn chỉnh",
+        "Giải ngân toàn bộ tiền mặt ngay lập tức để thâu tóm mọi tài sản đang rao bán",
+        "Sử dụng tối đa đòn bẩy tài chính để gia tăng số lượng tài sản sở hữu lên mức cao",
+        "Kiểm định chặt chẽ tính thanh khoản và dòng tiền thực tế của tài sản mục tiêu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Phương án đúng nhấn mạnh thanh khoản và dòng tiền trong suy thoái - yếu tố sống còn để tài sản không trở thành gánh nặng. Các phương án khác đẩy nhà đầu tư vào rủi ro phá sản."
+    },
+    {
+      "id": "q13",
+      "question": "Quan điểm về thời điểm giao dịch của Mortimer Zuckerman qua câu nói ngắn gọn này thể hiện đặc điểm gì của tư duy đầu tư lớn?",
+      "options": [
+        "Sự cô đọng, sắc bén, tập trung vào những quy luật bất biến thay vì mẹo vặt",
+        "Sự cẩn trọng thái quá khiến nhà đầu tư bỏ lỡ hầu hết các cơ hội lướt sóng nhanh",
+        "Cách tiếp cận lý thuyết hàn lâm khó áp dụng vào thị trường thực tế đang diễn ra",
+        "Xu hướng bỏ qua các yếu tố pháp lý để ưu tiên tốc độ chốt giao dịch nhanh chóng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phương án đúng ca ngợi sự cô đọng của châm ngôn lớn - đúc kết quy luật bản chất thay vì những thủ thuật lắt léo ngắn hạn. Các phương án khác đánh giá thấp giá trị của triết lý."
+    },
+    {
+      "id": "q14",
+      "question": "Làm thế nào để một nhà đầu tư có thể chiến thắng được sự cám dỗ của lòng tham khi tài sản của họ đang tăng giá phi mã từng ngày?",
+      "options": [
+        "Giao phó toàn bộ quyền quyết định mua bán cho các chuyên gia môi giới lâu năm",
+        "Thiết lập sẵn biên độ lợi nhuận mục tiêu và tuân thủ kế hoạch thoát hàng đề ra",
+        "Tiếp tục thế chấp tài sản đó để vay thêm tiền đầu tư mở rộng quy mô danh mục",
+        "Theo dõi sát sao từng giờ giao dịch trên thị trường để tìm điểm bán tối ưu nhất"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng đưa ra giải pháp thực chiến: kỷ luật dựa trên kế hoạch và mục tiêu định sẵn, giúp loại bỏ cảm xúc nhất thời. Các phương án khác làm gia tăng rủi ro hoặc phụ thuộc sai chỗ."
+    },
+    {
+      "id": "q15",
+      "question": "Ý nghĩa sâu xa của cụm từ 'đừng tham lam' đối với sự nghiệp lâu dài của một nhà đầu tư bất động sản cao cấp là gì?",
+      "options": [
+        "Giúp nhà đầu tư luôn cảm thấy hài lòng với những khoản lợi nhuận nhỏ nhoi kiếm được",
+        "Bảo vệ thành quả tích lũy qua nhiều chu kỳ và duy trì uy tín danh tiếng cá nhân",
+        "Hạn chế tối đa việc phải đóng thuế thu nhập cá nhân quá cao cho cơ quan nhà nước",
+        "Tạo dựng mối quan hệ tốt đẹp lâu dài với các đối thủ cạnh tranh trên thị trường lớn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phương án đúng khẳng định việc kiểm soát tham lam giúp giữ vững thành quả qua nhiều thăng trầm của thị trường (sống sót lâu dài), đó là phẩm chất của nhà đầu tư lớn. Các phương án còn lại suy diễn sai lệch."
+    }
+  ]
+}

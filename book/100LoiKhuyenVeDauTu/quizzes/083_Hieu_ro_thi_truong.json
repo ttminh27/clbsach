@@ -1,0 +1,188 @@
+{
+  "bookId": "100LoiKhuyenVeDauTu",
+  "chapterId": "083_Hieu_ro_thi_truong",
+  "chapterTitle": "83. Hiểu rõ thị trường",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Bài học cốt lõi lớn nhất mà Norman Sturner rút ra từ thương vụ hụt khách sạn tại Denver là gì?",
+      "options": [
+        "Phải luôn kiểm tra kỹ lưỡng các thông tin ngầm trước khi đầu tư",
+        "Cần thuê thêm nhiều chuyên gia tư vấn bản địa giàu kinh nghiệm",
+        "Luôn phải nắm vững và am hiểu thị trường trước khi quyết định",
+        "Tránh xa các tài sản có mức giá rẻ bất thường so với khu vực"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu trả lời đúng trực tiếp nằm ở lời khuyên cốt lõi được tác giả đúc kết: Phải nắm rõ thị trường trước khi quyết định đầu tư. Các phương án khác chỉ là yếu tố phụ hoặc bài học bổ trợ."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao một khách sạn có tỷ lệ lấp đầy lên tới 95% trong cả 12 tháng lại có giá bán rất rẻ?",
+      "options": [
+        "Chủ sở hữu hiện tại đang cần thanh khoản gấp để trả nợ",
+        "Khu vực xung quanh chuẩn bị vướng vào tranh chấp pháp lý",
+        "Chi phí vận hành và sửa chữa nội thất đội lên quá cao",
+        "Tài sản sắp mất giá nghiêm trọng do thay đổi hạ tầng lớn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Khách sạn có giá rẻ bất thường vì sắp có một sự kiện thay đổi hạ tầng lớn (sân bay dời đi nơi khác) làm sụt giảm nguồn khách vãng lai, khiến tài sản mất giá trị tương lai."
+    },
+    {
+      "id": "q3",
+      "question": "Yếu tố nào đã khiến đoàn chuyên gia New York bỏ sót thông tin quan trọng về quy hoạch sân bay?",
+      "options": [
+        "Sự thiếu hụt về năng lực chuyên môn của các kỹ sư và kiến trúc sư",
+        "Chủ đầu tư cũ đã cố tình che giấu thông tin quy hoạch bằng mọi giá",
+        "Chỉ tập trung kiểm tra hiện trạng vật lý mà bỏ qua thông tin vĩ mô",
+        "Thời gian khảo sát ba ngày là quá ngắn ngủi để phân tích tài chính"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoàn chuyên gia chỉ tập trung vào cấu trúc vật lý và tỷ lệ lấp đầy hiện tại mà thiếu sự thấu hiểu về kinh tế vùng và quy hoạch hạ tầng vĩ mô của địa phương."
+    },
+    {
+      "id": "q4",
+      "question": "Bài học rút ra về nguồn thông tin trong đầu tư bất động sản qua câu chuyện nhân viên pha chế là gì?",
+      "options": [
+        "Nhân viên phục vụ thường nắm giữ các bí mật kinh doanh quan trọng",
+        "Thông tin giá trị đôi khi xuất hiện ở những nguồn bình dân bất ngờ",
+        "Chỉ nên tin tưởng vào các báo cáo nghiên cứu thị trường chính thống",
+        "Cần phải phỏng vấn người dân địa phương trước khi ký hợp đồng mua"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu chuyện minh chứng rằng những thông tin chiến lược đôi khi lại đến từ những người lao động sát thực tế nhất, chứ không chỉ từ các báo cáo đắt đỏ."
+    },
+    {
+      "id": "q5",
+      "question": "Khi đối mặt với một cơ hội đầu tư 'quá tốt để có thật', nhà đầu tư chuyên nghiệp nên làm gì?",
+      "options": [
+        "Nhanh chóng đặt cọc trước khi đối thủ khác kịp thời phát hiện",
+        "Hoài nghi và chủ động tìm kiếm nguyên nhân ẩn sau mức giá đó",
+        "Tiến hành đàm phán ngay lập tức để ép giá xuống mức thấp hơn",
+        "Bỏ qua hoàn toàn vì đó chắc chắn là một cái bẫy lừa đảo tinh vi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngạn ngữ cảnh báo 'Nếu quá tốt để có thật thì đừng tin' đòi hỏi nhà đầu tư phải hoài nghi và tìm ra lý do ẩn giấu đằng sau mức giá hời đó."
+    },
+    {
+      "id": "q6",
+      "question": "Việc thuê kiến trúc sư và kỹ sư kiểm tra khách sạn mang lại giá trị gì trong thương vụ này?",
+      "options": [
+        "Xác định chính xác giá trị thực của bất động sản trên thị trường mở",
+        "Giúp phát hiện toàn bộ các rủi ro về quy hoạch và vĩ mô của khu vực",
+        "Đảm bảo chất lượng kỹ thuật nhưng không thay thế được hiểu biết thị trường",
+        "Tạo cơ sở vững chắc để đàm phán giảm giá sâu hơn với người bán"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kiến trúc sư và kỹ sư chỉ đánh giá được hiện trạng vật lý và kỹ thuật, hoàn toàn không thể thay thế cho việc thấu hiểu thị trường và quy hoạch vĩ mô."
+    },
+    {
+      "id": "q7",
+      "question": "Rủi ro lớn nhất của việc đầu tư bất động sản ngoại tỉnh mà không rành địa thế là gì?",
+      "options": [
+        "Bỏ lỡ các biến động ngầm về quy hoạch và phát triển hạ tầng đô thị",
+        "Khó khăn trong việc tìm kiếm đơn vị vận hành và quản lý tài sản",
+        "Chi phí đi lại và thuê các chuyên gia tư vấn độc lập quá tốn kém",
+        "Không thể tự mình kiểm tra chất lượng xây dựng của công trình"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhà đầu tư ngoại tỉnh thường thiếu tầm nhìn sâu sắc về các yếu tố ngầm như quy hoạch, định hướng phát triển hạ tầng và kinh tế vùng của địa phương đó."
+    },
+    {
+      "id": "q8",
+      "question": "Tỷ lệ lấp đầy phòng 95% quanh năm trong câu chuyện phản ánh điều gì về quá khứ và hiện tại?",
+      "options": [
+        "Khách sạn đang hoạt động cực kỳ hiệu quả và có nguồn khách ổn định",
+        "Bất động sản có tiềm năng tăng trưởng vượt trội trong dài hạn tới",
+        "Chủ đầu tư cũ đã áp dụng chiến lược marketing vô cùng xuất sắc",
+        "Nhu cầu lưu trú tại khu vực sân bay luôn ở mức cao kỷ lục mọi thời"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tỷ lệ 95% quanh năm phản ánh thực trạng kinh doanh hiện tại rất tốt nhờ vị trí gần sân bay, nhưng đó là quá khứ không đại diện cho tương lai."
+    },
+    {
+      "id": "q9",
+      "question": "Hành động cho tiền boa lớn nhân viên pha chế của Norman Sturner thể hiện điều gì?",
+      "options": [
+        "Sự hào phóng của những nhà đầu tư lớn đến từ thành phố New York",
+        "Mong muốn nhân viên này tiếp tục cung cấp thêm các thông tin mật",
+        "Thói quen chi tiêu phóng khoáng mỗi khi đi khảo sát thực tế dự án",
+        "Sự biết ơn vì đã cứu họ khỏi một thương vụ đầu tư thảm họa tài chính"
+      ],
+      "correctIndex": 3,
+      "explanation": "Khoản tiền boa lớn là sự biết ơn vì câu nói của nhân viên pha chế đã giúp họ tránh được một khoản lỗ khổng lồ từ việc mua sai tài sản."
+    },
+    {
+      "id": "q10",
+      "question": "Quan điểm nào sau đây phản ánh đúng triết lý đầu tư bất động sản an toàn và bền vững?",
+      "options": [
+        "Hiểu rõ thị trường quan trọng hơn việc tìm kiếm tài sản giá rẻ",
+        "Giá rẻ là yếu tố quyết định duy nhất mang lại lợi nhuận cao",
+        "Vị trí trung tâm luôn thắng mọi bài toán về quy hoạch đô thị",
+        "Sự hỗ trợ từ chuyên gia kỹ thuật là chìa khóa thành công"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bài học đúc kết suốt 35 năm khẳng định việc thấu hiểu thị trường đóng vai trò cốt lõi, quan trọng hơn việc chỉ nhìn vào mức giá rẻ bề ngoài."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao Norman Sturner và đồng sự không dám nói cho nhân viên pha chế biết họ chưa hề hay biết gì về việc dời sân bay?",
+      "options": [
+        "Vì họ cảm thấy xấu hổ khi tự nhận là chuyên gia mà lại thiếu thông tin",
+        "Vì họ muốn giữ thể diện của những nhà đầu tư lớn đến từ New York",
+        "Vì họ sợ nhân viên pha chế sẽ đòi thêm tiền hoa hồng môi giới",
+        "Vì thông tin đó thuộc diện bảo mật quốc gia chưa được công bố"
+      ],
+      "correctIndex": 0,
+      "explanation": "Họ giữ im lặng vì cảm thấy ngượng ngùng khi đội ngũ chuyên gia sừng sỏ từ New York lại bỏ sót một thông tin quan trọng mà một nhân viên phục vụ bình thường cũng biết."
+    },
+    {
+      "id": "q12",
+      "question": "Điểm mù lớn nhất trong quy trình thẩm định (Due Diligence) của đoàn chuyên gia New York là gì?",
+      "options": [
+        "Thiếu đánh giá về kết cấu chịu lực và chất lượng xây dựng khách sạn",
+        "Không kiểm tra kỹ các khoản nợ xấu của chủ đầu tư cũ tại ngân hàng",
+        "Chỉ kiểm tra vi mô (tài sản) mà bỏ qua ngoại cảnh vĩ mô (khu vực)",
+        "Quên không tính toán chi phí tu sửa và nâng cấp nội thất ban đầu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoàn chuyên gia đã sa vào cái bẫy kiểm tra vi mô quá kỹ (khách sạn, phòng ốc) mà quên mất việc khảo sát bối cảnh vĩ mô và tương lai của khu vực."
+    },
+    {
+      "id": "q13",
+      "question": "Bài học về tính thời điểm trong đầu tư bất động sản được rút ra từ chương này là gì?",
+      "options": [
+        "Nên mua bất động sản khi thị trường đang ở đáy để có giá tốt nhất",
+        "Thời điểm thay đổi hạ tầng có thể làm lật ngược hoàn toàn giá trị tài sản",
+        "Cần phải hành động nhanh chóng trong vòng ba ngày khảo sát đầu tiên",
+        "Thời điểm vàng để đầu tư là khi tỷ lệ lấp đầy đạt mức tối đa 95%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc sân bay dời đi cho thấy yếu tố thời điểm về quy hoạch hạ tầng mang tính quyết định, có thể biến một tài sản hái ra tiền thành gánh nặng."
+    },
+    {
+      "id": "q14",
+      "question": "Nhà đầu tư cần kết hợp những nguồn thông tin nào để thấu hiểu toàn diện một thị trường mới?",
+      "options": [
+        "Chỉ các báo cáo nghiên cứu thị trường từ các đơn vị kiểm toán lớn",
+        "Ý kiến của các nhà đầu tư đi trước đã từng thắng lớn tại khu vực đó",
+        "Thông tin từ môi giới địa phương và các chuyên gia phong thủy uy tín",
+        "Dữ liệu chính thống kết hợp với khảo sát thực tế từ người dân bản địa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Để thấu hiểu toàn diện, nhà đầu tư cần kết hợp dữ liệu vĩ mô chính thống và thông tin thực tế từ chính những người dân sinh sống, làm việc tại địa phương."
+    },
+    {
+      "id": "q15",
+      "question": "Câu chuyện khách sạn Denver minh chứng điều gì về các chuyên gia tư vấn cao cấp?",
+      "options": [
+        "Họ luôn đưa ra những lời khuyên chính xác nhất cho nhà đầu tư",
+        "Họ có thể rất giỏi chuyên môn hẹp nhưng thiếu tầm nhìn tổng quan",
+        "Họ là những người duy nhất phát hiện ra các rủi ro pháp lý ẩn giấu",
+        "Họ đóng vai trò thay thế hoàn toàn cho việc nghiên cứu thị trường"
+      ],
+      "correctIndex": 1,
+      "explanation": "Các kiến trúc sư và kỹ sư rất xuất sắc trong lĩnh vực chuyên môn của họ, nhưng lại hoàn toàn mù tịt về bức tranh tổng quan và quy hoạch kinh tế vùng."
+    }
+  ]
+}

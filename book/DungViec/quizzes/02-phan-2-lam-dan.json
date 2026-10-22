@@ -1,0 +1,188 @@
+{
+  "bookId": "DungViec",
+  "chapterId": "02-phan-2-lam-dan",
+  "chapterTitle": "Phần 2: Làm dân",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo quan điểm khai minh của tác giả Giản Tư Trung, bản chất sâu xa của công việc 'làm dân' trong một quốc gia là gì?",
+      "options": [
+        "Là việc chờ đợi sự ban phát các quyền lợi từ các nhà lãnh đạo tối cao.",
+        "Là việc tuân thủ tuyệt đối mọi sắc lệnh hành pháp do nhà nước ban hành.",
+        "Là sự đóng góp tài chính và lao động để duy trì sự vận hành của bộ máy.",
+        "Là một nghĩa vụ tự thân xuất phát từ lương tri để hiện thực hóa khát vọng tự do."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả khẳng định 'làm dân' không phải là nghĩa vụ theo kiểu kêu gọi bên ngoài mà là nghĩa vụ tự thân xuất phát từ tiếng lòng, lương tri và phẩm giá để hiện thực hóa chuyện làm người, trong khi các phương án còn lại mang tư duy của thần dân thụ động."
+    },
+    {
+      "id": "q2",
+      "question": "Khi tác giả ví von việc 'làm chủ quốc gia' với việc 'làm chủ công ty cổ phần', đâu là bài học cốt lõi về mối quan hệ giữa người chủ sở hữu (cổ đông/nhân dân) và bộ máy điều hành?",
+      "options": [
+        "Người chủ sở hữu giao quyền điều hành nhưng phải thiết kế cơ chế kiểm soát nghiêm ngặt.",
+        "Người chủ sở hữu phải trực tiếp nắm giữ mọi quyền lực lập pháp và hành pháp.",
+        "Ban điều hành công ty hoặc nhà nước có quyền đứng trên mọi quy tắc của chủ sở hữu.",
+        "Cổ đông và nhân dân không cần quan tâm đến cách thức vận hành bộ máy sau khi bầu chọn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong mô hình công ty cổ phần cũng như quốc gia, nhân dân là ông chủ nhưng không trực tiếp điều hành; họ thiết kế luật chơi (Điều lệ/Hiến pháp), bầu người đại diện và lập ra các cơ chế kiểm soát chặt chẽ để ngăn chặn lạm quyền."
+    },
+    {
+      "id": "q3",
+      "question": "Bản chất và chức năng tối thượng của Hiến pháp trong một nhà nước pháp quyền đúng nghĩa là gì?",
+      "options": [
+        "Bản hợp đồng xã hội do nhân dân lập ra để tạo lập nhà nước và khống chế quyền lực nhà nước.",
+        "Văn bản do cơ quan hành pháp lập ra để định hướng tư tưởng chính trị cho xã hội.",
+        "Công cụ pháp lý để nhà nước ban hành các mệnh lệnh quản lý và trừng trị người dân.",
+        "Tập hợp các chuẩn mực đạo đức truyền thống do tầng lớp tinh hoa phong kiến quy định."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hiến pháp là công cụ của nhân dân (quyền lập hiến) để tạo ra nhà nước, trao quyền có giới hạn và kiểm soát quyền lực nhà nước nhằm bảo vệ các quyền mặc định của con người, chứ không phải công cụ của nhà nước để cai trị dân."
+    },
+    {
+      "id": "q4",
+      "question": "Sự khác biệt căn bản giữa mô hình 'vua chủ' (quân chủ) và mô hình 'dân chủ' hiển thị ở điểm nào về mặt chủ thể quyền lực?",
+      "options": [
+        "Vua chủ trao quyền lực tối cao cho nghị viện, còn dân chủ tập trung toàn bộ quyền lực vào tay nhà vua.",
+        "Vua chủ vận hành bằng luật pháp nghiêm minh, còn dân chủ vận hành hoàn toàn bằng cảm tính cá nhân.",
+        "Vua chủ xuất hiện trong thời đại hiện đại, còn dân chủ là hình thức quản trị sơ khai của xã hội cổ đại.",
+        "Vua chủ xem đất nước là tài sản thiên định của một cá nhân, còn dân chủ xem quốc gia thuộc về nhân dân."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trong mô hình vua chủ, nhà vua mặc nhiên sở hữu đất nước do 'thiên định' và đứng ngoài pháp luật; ngược lại, trong mô hình dân chủ, nhân dân là chủ thể tối cao sở hữu đất nước và trao quyền có giới hạn cho bộ máy nhà nước."
+    },
+    {
+      "id": "q5",
+      "question": "Mô hình 'nhóm chủ' được tác giả mô tả là 'nói vậy mà không phải vậy' mang đặc điểm nhận diện nào sau đây?",
+      "options": [
+        "Sự minh bạch tuyệt đối trong phân chia tam quyền và quyền lực thuộc về nhân dân.",
+        "Hình thức khoác áo dân chủ bên ngoài nhưng bản chất vận hành độc đoán và phong kiến trá hình.",
+        "Sự triệt tiêu hoàn toàn mọi hình thức nhà nước để chuyển sang xã hội tự trị hoàn toàn.",
+        "Sự dung hòa hoàn hảo giữa quyền lực tuyệt đối của thần quyền và tự do cá nhân tuyệt đối."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mô hình 'nhóm chủ' mang sự nghịch lý giữa hình thức (mang bóng dáng dân chủ, bầu cử, tổng thống) và bản chất bên trong (cai trị độc đoán, có nhóm người đứng trên pháp luật), tạo ra sự lẫn lộn thực hư để mị dân."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao trong một xã hội văn minh, việc phân chia quyền lực thành ba nhánh (lập pháp, hành pháp, tư pháp) lại đóng vai trò sống còn?",
+      "options": [
+        "Để tăng tốc độ ban hành các sắc lệnh hành chính mà không vấp phải sự phản kháng nào.",
+        "Để tập trung toàn bộ sức mạnh quốc gia vào tay một nhà lãnh đạo xuất chúng duy nhất.",
+        "Để các cơ quan kiểm soát và đối trọng lẫn nhau, ngăn chặn nguy cơ lạm quyền và độc tài.",
+        "Để xóa bỏ hoàn toàn sự cần thiết của hệ thống pháp luật và tòa án trong đời sống xã hội."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nguyên lý tam quyền phân lập tạo ra cơ chế kiểm soát và đối trọng (check and balance), ngăn chặn việc gom tụ mọi quyền lực vào một cá nhân hay tổ chức để tránh rơi vào chuyên quyền, độc tài và toàn trị."
+    },
+    {
+      "id": "q7",
+      "question": "Theo tư tưởng khai minh được trình bày, các lĩnh vực như quân đội, giáo dục, báo chí và tôn giáo trong xã hội dân chủ phải có vị thế như thế nào đối với chính trị?",
+      "options": [
+        "Phải hoàn toàn phụ thuộc vào ý chí định hướng của đảng phái hoặc nhà cầm quyền cầm quyền.",
+        "Phải được giữ gìn độc lập tương đối để phụng sự chân lý, công lý và bảo vệ quyền lợi nhân dân.",
+        "Phải trở thành công cụ tuyên truyền độc quyền nhằm duy trì sự ổn định của hệ thống quyền lực.",
+        "Phải bị giải thể hoặc kiểm soát chặt chẽ để tránh gây ra những tranh luận trái chiều trong xã hội."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong xã hội dân chủ thực sự, quân đội trung thành với tổ quốc và nhân dân, giáo dục có tự do học thuật, báo chí và tôn giáo độc lập với chính trị để bảo vệ chân lý và ngăn chặn sự thao túng xã hội."
+    },
+    {
+      "id": "q8",
+      "question": "Bản chất của các 'quyền mặc định' (quyền thiên định/nhân quyền) khác với quyền do luật định và hiến định ở điểm cốt lõi nào?",
+      "options": [
+        "Quyền mặc định có thể bị nhà nước tước đoạt bất cứ lúc nào nếu xét thấy cần thiết cho an ninh.",
+        "Quyền mặc định chỉ xuất hiện khi được quốc hội thông qua bằng một đạo luật đặc biệt.",
+        "Quyền mặc định là những quyền tự nhiên có sẵn từ khi sinh ra, không cần nhà nước ban phát hay quy định.",
+        "Quyền mặc định chỉ dành riêng cho tầng lớp lãnh đạo cấp cao trong bộ máy quản lý nhà nước."
+      ],
+      "correctIndex": 2,
+      "explanation": "Quyền mặc định là quyền tự nhiên (quyền sống, tự do, mưu cầu hạnh phúc) nghiễm nhiên thuộc về con người do tạo hóa ban tặng, nhà nước chỉ có trách nhiệm bảo vệ chứ không có quyền ban phát hay tước đoạt."
+    },
+    {
+      "id": "q9",
+      "question": "Sự khác biệt sâu sắc trong tư duy pháp lý giữa 'pháp trị' theo quan điểm Anh - Mỹ và 'pháp trị' trong Trung Hoa cổ đại là gì?",
+      "options": [
+        "Pháp trị Anh - Mỹ lấy pháp luật làm tối thượng để kiểm soát nhà nước, còn pháp trị cổ đại xem luật là công cụ của vua để cai trị dân.",
+        "Pháp trị Anh - Mỹ đề cao đạo đức nhà vua, còn pháp trị cổ đại đề cao quyền tự quyết của nhân dân.",
+        "Pháp trị Anh - Mỹ cho phép nhà vua đứng trên luật pháp, còn pháp trị cổ đại bắt buộc mọi quan chức phải bình đẳng.",
+        "Pháp trị Anh - Mỹ thực chất là nhân trị trá hình, còn pháp trị cổ đại là hình thức sơ khai của nhà nước pháp quyền."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pháp trị Anh - Mỹ (rule of law) đặt pháp luật lên trên tất cả, không ai đứng ngoài pháp luật và luật là để kìm chế quyền lực nhà nước; trong khi pháp trị Trung Hoa cổ đại (rule by law) dùng pháp luật làm công cụ của hoàng đế để trị dân chứ nhà vua vẫn đứng trên luật."
+    },
+    {
+      "id": "q10",
+      "question": "Đâu là sự khác biệt cơ bản về mặt tư tưởng và hành xử giữa một 'thần dân' và một 'công dân' đúng nghĩa?",
+      "options": [
+        "Thần dân luôn đòi hỏi nhà nước giải trình, còn công dân chấp nhận mọi sự ban phát một cách vô điều kiện.",
+        "Thần dân thụ động chờ đợi nhà nước lo và tuân lệnh vô điều kiện, còn công dân có ý thức làm chủ, đòi hỏi quyền và gánh vác trách nhiệm.",
+        "Thần dân chỉ tuân thủ đạo đức cá nhân, còn công dân chỉ quan tâm đến lợi ích kinh tế cá nhân ích kỷ.",
+        "Thần dân luôn tích cực tham gia phản biện chính sách, còn công dân từ chối mọi hình thức tham gia bầu cử."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thần dân sống trong sự thụ động, vâng lệnh và chờ ơn huệ của bề trên, trong khi công dân hiểu rõ quyền tự trị, dám đòi hỏi quyền lợi chính đáng và chủ động nhận lấy trách nhiệm tự thân đối với vận mệnh xứ sở."
+    },
+    {
+      "id": "q11",
+      "question": "Theo tác giả, mối quan hệ nhân quả giữa ba yếu tố trong công thức 'Dân trí, dân quyền và dân sinh' được cấu trúc như thế nào?",
+      "options": [
+        "Phải có dân sinh thịnh vượng trước thì mới tự động sinh ra dân trí khai phóng và dân quyền.",
+        "Không thể có dân quyền thực sự và dân sinh hạnh phúc nếu thiếu nền tảng dân trí khai phóng.",
+        "Dân quyền là điểm xuất phát duy nhất quyết định trực tiếp đến mức độ phát triển của dân trí.",
+        "Ba yếu tố này tồn tại độc lập hoàn toàn và không có sự tác động qua lại lẫn nhau trong lịch sử."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả lập luận rằng không thể có dân sinh hạnh phúc nếu không có dân quyền tự do, và không thể có dân quyền nếu không có dân trí khai phóng; mọi sự thay đổi bền vững đều phải khởi nguồn từ năng lực nhận thức của người dân."
+    },
+    {
+      "id": "q12",
+      "question": "Năng lực cốt lõi nào được xem là điều kiện tiên quyết để người dân không bị lợi dụng, thao túng bởi những kẻ đầu cơ chính trị?",
+      "options": [
+        "Khả năng phục tùng tuyệt đối các mệnh lệnh hành chính do các cấp chính quyền ban hành.",
+        "Trình độ tích lũy tài sản cá nhân để đạt được sự độc lập tuyệt đối về mặt kinh tế gia đình.",
+        "Năng lực minh định để phân biệt đúng sai, thật giả, thực tài và ngụy tài thông qua tư duy phản biện.",
+        "Kỹ năng tham gia các phong trào đám đông mà không cần tìm hiểu sâu về bản chất vấn đề."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dân trí chính là năng lực làm người, làm dân và làm việc; trong đó khả năng minh định (phân biệt đúng sai, chân giả, chính tà) qua học hỏi và đọc sách giúp công dân tránh bị các thế lực đầu cơ chính trị thao túng và lừa mị."
+    },
+    {
+      "id": "q13",
+      "question": "Tác giả đánh giá như thế nào về thực trạng của môn học 'Giáo dục công dân' tại nhiều nhà trường phổ thông hiện nay?",
+      "options": [
+        "Đang đóng vai trò là nguồn nước mát nuôi dưỡng xuất sắc tư duy phản biện và tinh thần công dân.",
+        "Được đầu tư toàn diện về triết học pháp lý giúp học sinh thấu hiểu sâu sắc bản chất quyền con người.",
+        "Đang bị xem thường, mất giá và đôi khi trở nên xa rời thực tiễn đời sống xã hội hoặc hình thức.",
+        "Trở thành môn học trung tâm quyết định hoàn toàn tương lai chính trị của các thế hệ học sinh."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả trích dẫn và phân tích thực trạng môn Giáo dục công dân – môn học cốt lõi để hình thành nhân cách và năng lực làm dân – lại đang bị coi nhẹ, biến thành những tiết học hình thức hoặc quá tải lý luận hàn lâm xa rời thực tế."
+    },
+    {
+      "id": "q14",
+      "question": "Ý nghĩa sâu sắc đằng sau câu nói nổi tiếng của Tổng thống Thomas Jefferson: 'Khi người dân sợ chính quyền thì độc tài xuất hiện. Khi chính quyền sợ người dân thì tự do xuất hiện' là gì?",
+      "options": [
+        "Sự sợ hãi bạo lực là nền tảng duy nhất để duy trì trật tự ổn định và an ninh của một quốc gia.",
+        "Người dân không bao giờ được phép tham gia vào các quyết định quản lý hành chính của nhà nước.",
+        "Chính quyền phải dùng sức mạnh quân sự để trấn áp mọi biểu hiện bất tuân của các công dân.",
+        "Quyền lực nhà nước phải bị giám sát và kiểm soát bởi người dân thì các quyền tự do mới được bảo đảm."
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu nói nhấn mạnh bản chất của tự do: nếu người dân sợ nhà nước, bạo quyền sẽ lộng hành; khi nhà nước kính trọng và dè chừng quyền lực tối cao của nhân dân (thông qua kiểm soát), tự do mới thực sự tồn tại."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp triết lý cuối cùng mà chương sách muốn gửi gắm đến mỗi cá nhân khi suy ngẫm về câu chuyện 'làm dân' và xứ sở của mình là gì?",
+      "options": [
+        "Chất lượng của một xứ sở bắt nguồn từ chính cách mà mỗi cá nhân thực hiện công việc làm dân của chính mình.",
+        "Vận mệnh của quốc gia hoàn toàn do các nhà lãnh đạo thiên bẩm quyết định, người dân chỉ việc tuân thủ.",
+        "Sự thịnh vượng chỉ đến khi người dân từ bỏ hoàn toàn các mối quan tâm đến đời sống chính trị xã hội.",
+        "Việc thay đổi cấu trúc nhà nước là điều bất khả thi nếu không có sự can thiệp từ các thế lực bên ngoài."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách kết thúc bằng lời khẳng định rằng xứ sở có thoát khỏi 'phận trẻ con' hay không, ta là nô dân hay công dân, tất cả không nằm ở đâu xa mà nằm ở chính sự lựa chọn và hành động dấn thân của mỗi người."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "bookId": "DungViec",
+  "chapterId": "03-phan-3-lam-viec",
+  "chapterTitle": "Phần 3: Làm việc",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo quan điểm của tác giả Giản Tư Trung, tại sao khái niệm 'cân bằng giữa cuộc sống và công việc' lại bị đặt dấu hỏi hoặc xem là không tồn tại?",
+      "options": [
+        "Bởi vì công việc chiếm trọn thời gian sinh học khiến con người không còn chút không gian riêng tư nào.",
+        "Bởi vì áp lực mưu sinh khiến ranh giới giữa đời sống cá nhân và công việc bị xóa nhòa một cách đau đớn.",
+        "Bởi vì sự phát triển của xã hội hiện đại buộc con người phải hy sinh hoàn toàn cuộc sống cá nhân cho nghề nghiệp.",
+        "Bởi vì công việc chính là cuộc đời, và 'đạo nghề' thực chất là cách hiện thực hóa 'đạo sống' của mỗi người."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả lập luận rằng công việc chính là cuộc sống, 'đạo nghề' và 'đạo sống' phải hòa quyện làm một. Khi 'làm việc' cũng là 'làm người', việc tách rời hai khái niệm này là sai lầm."
+    },
+    {
+      "id": "q2",
+      "question": "Sự khác biệt cốt lõi giữa một 'nhà lãnh đạo' đích thực và một 'nhà cai trị' được tác giả phân định dựa trên yếu tố nào?",
+      "options": [
+        "Nhà lãnh đạo quan tâm đến chiến lược vĩ mô của tổ chức, còn nhà cai trị chỉ lo giải quyết các vụ việc vụn vặt hàng ngày.",
+        "Nhà lãnh đạo luôn nắm giữ các chức vụ cao cấp trong hệ thống, còn nhà cai trị chỉ là những kẻ mượn danh quyền lực.",
+        "Nhà lãnh đạo dựa vào năng lực và sự tự nguyện để dẫn dắt, trong khi nhà cai trị dựa vào quyền lực và sự áp đặt.",
+        "Nhà lãnh đạo tạo ra các phong trào quần chúng rầm rộ, trong khi nhà cai trị duy trì sự im lặng tuyệt đối của đám đông."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả chỉ rõ cai trị dùng quyền lực và mệnh lệnh ép buộc, còn quản trị/lãnh đạo dùng năng lực và sự tự do để khiến người khác muốn làm điều mình muốn vì họ cũng muốn thế."
+    },
+    {
+      "id": "q3",
+      "question": "Trong bối cảnh cải cách hành chính, vì sao tác giả cho rằng việc gọi công chức là 'đấy tớ của dân' thường không mang lại hiệu quả thực tiễn trong tâm lý người làm công vụ?",
+      "options": [
+        "Bởi vì người dân thực chất không muốn làm chủ mà chỉ muốn tìm kiếm sự dễ dãi từ phía các cơ quan công quyền.",
+        "Bởi vì từ 'đày tớ' tạo ra cảm giác bị tụt hạng và mang nghĩa thấp hèn trong văn hóa xã hội, khiến họ khó lòng tâm phục khẩu phục.",
+        "Bởi vì bản chất của bộ máy nhà nước hiện đại không cho phép công chức coi mình là người phục vụ nhân dân.",
+        "Bởi vì khái niệm này mâu thuẫn trực tiếp với các quy định pháp luật về tuyển dụng và bổ nhiệm quan chức."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả phân tích từ 'đày tớ' trong tiếng Việt mang nghĩa hèn kém, khiến những người từng quen coi mình là 'phụ mẫu' cảm thấy bị xúc phạm thay vì thấu hiểu tinh thần phục vụ."
+    },
+    {
+      "id": "q4",
+      "question": "Đâu là yếu tố phân định rạch ròi nhất giữa một 'doanh nhân' chân chính với một 'trọc phú' hay 'con buôn'?",
+      "options": [
+        "Quy mô tài sản tích lũy được qua các hoạt động đầu tư và thương mại trên thương trường quốc tế.",
+        "Bản chất cách kiếm tiền: không lừa ai, không hại ai mà phụng sự xã hội thông qua sản phẩm dịch vụ tốt.",
+        "Tốc độ bứt phá của doanh nghiệp trong việc chiếm lĩnh thị phần và tối ưu hóa lợi nhuận tài chính.",
+        "Mức độ đóng góp từ thiện và các hoạt động xã hội sau khi đã đạt được sự giàu có vượt trội."
+      ],
+      "correctIndex": 1,
+      "explanation": "Doanh nhân kiếm tiền bằng cách 'mang' giá trị và không 'gây' hại, trong khi trọc phú và con buôn kiếm tiền bằng cách lừa hoặc hại người khác tùy theo quy mô lớn hay nhỏ."
+    },
+    {
+      "id": "q5",
+      "question": "Theo triết lý của Giản Tư Trung, hạnh phúc viên mãn nhất (cấp độ 3) trong sự nghiệp của một doanh nhân là gì?",
+      "options": [
+        "Khi tiền bạc, uy tín, sự quý trọng hội tụ cùng việc được sống đúng với 'đạo sống' và đam mê trong kinh doanh.",
+        "Khi khối lượng tài sản sở hữu đứng đầu bảng xếp hạng các tỷ phú có tầm ảnh hưởng lớn nhất thế giới.",
+        "Khi doanh nghiệp vượt qua mọi cuộc khủng hoảng kinh tế khắc nghiệt để trở thành tập đoàn đa quốc gia.",
+        "Khi các sản phẩm dịch vụ của công ty độc quyền hoàn toàn trên thị trường và không có đối thủ cạnh tranh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hạnh phúc cao nhất của doanh nhân là sự thống nhất giữa tiền bạc, uy tín, sự quý trọng với đam mê và đạo sống, thể hiện sự tự do và tự trị trọn vẹn của con người."
+    },
+    {
+      "id": "q6",
+      "question": "Ba điều kiện cốt lõi nào cấu thành nên một con người 'trí thức' theo lăng kính khai minh của tác giả?",
+      "options": [
+        "Sự hiểu biết sâu sắc (có trí), sự dấn thân thức tỉnh xã hội (có thức), và động cơ trong sáng (có tâm).",
+        "Học hàm cao, vị thế xã hội lớn và sở hữu các công trình nghiên cứu khoa học mang tầm quốc tế.",
+        "Khả năng hùng biện sắc bén, tư duy phản biện cực đoan và thái độ bất hợp tác với mọi thể chế quyền lực.",
+        "Bằng cấp chuyên môn khắt khe, kinh nghiệm thực tiễn lâu năm và sự công nhận từ giới học thuật."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trí thức phải hội tụ đủ ba yếu tố: có trí (hiểu biết), có thức (thức tỉnh xã hội) và có tâm (vì mục đích cao quý hướng tới chân - thiện - mỹ). Thiếu một trong ba sẽ rơi vào các dạng 'trí nô', 'trí dỏm', 'trí gian'."
+    },
+    {
+      "id": "q7",
+      "question": "Trong câu chuyện về 'Thôi Trữ giết vua', yếu tố nào đã phân định rõ ràng ranh giới giữa một 'sử gia' chân chính và một 'sử nô'?",
+      "options": [
+        "Sự bảo vệ tuyệt đối từ các thế lực chính trị đối lập đối với an ức và tính mạng của người chép sử.",
+        "Lòng dũng cảm và sự kiên định coi sự thật là thứ tối thượng không thể bẻ cong dẫu phải đối mặt với cái chết.",
+        "Khả năng che giấu các sự kiện lịch sử nhạy cảm để duy trì sự ổn định tạm thời của triều đại cầm quyền.",
+        "Trình độ chuyên môn uyên bác trong việc nghiên cứu các văn bản cổ và hệ thống hóa sự kiện quá khứ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Các vị thái sử nhà Tề chấp nhận bị chém đầu chứ nhất quyết không chịu viết sai sự thật, minh chứng rằng sử gia trung thành với sự thật còn sử nô sẵn sàng bán rẻ nó vì sợ hãi hay vụ lợi."
+    },
+    {
+      "id": "q8",
+      "question": "Đâu là điểm khác biệt mang tính bản chất giữa một 'nhà báo chân chính' và một 'bồi bút'?",
+      "options": [
+        "Mức độ tiếp cận các nguồn tin mật và đặc quyền khai thác thông tin từ các cơ quan truyền thông lớn.",
+        "Phong cách hành văn sắc sảo, tính chiến đấu mạnh mẽ trước các vấn đề gai góc của đời sống xã hội.",
+        "Sứ mệnh tìm kiếm, bảo vệ và công bố sự thật khách quan phục vụ công chúng thay vì bẻ cong ngòi bút vì lợi ích.",
+        "Tầm ảnh hưởng sâu rộng của các bài viết đối với định hướng dư luận và chính sách của nhà nước."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhà báo chân chính tuân thủ các chuẩn mực đạo đức, đặt lợi ích công chúng và sự thật lên trên hết, trong khi bồi bút sẵn sàng bẻ cong ngòi bút vì tiền bạc, danh vọng hay lợi ích cá nhân."
+    },
+    {
+      "id": "q9",
+      "question": "Khi bàn về lĩnh vực nghệ thuật, tác giả phân biệt thế nào giữa 'nghệ sĩ' thực thụ và 'thợ hát / thợ diễn'?",
+      "options": [
+        "Nghệ sĩ có tài năng thiên bẩm và nhan sắc vượt trội, còn thợ hát chỉ dựa vào công nghệ láng mịn âm thanh.",
+        "Nghệ sĩ sở hữu các giải thưởng danh giá quốc tế, trong khi thợ diễn chỉ hoạt động trong các sân khấu bình dân.",
+        "Nghệ sĩ nỗ lực nâng tâm hồn công chúng lên qua các tác phẩm có chiều sâu, còn thợ hát chỉ chạy theo thị hiếu dễ dãi.",
+        "Nghệ sĩ luôn sáng tác độc lập không cần khán giả, còn thợ diễn phụ thuộc hoàn toàn vào doanh thu phòng vé."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nghệ sĩ đích thực tạo ra các tác phẩm nâng cao đời sống tinh thần và dẫn dắt thị mỹ của công chúng, khác với những kẻ chỉ biết chiều chuộng thị hiếu thấp kém để trục lợi giải trí."
+    },
+    {
+      "id": "q10",
+      "question": "Theo quan điểm của Sir William Osler được dẫn trong chương sách, ranh giới giữa một 'thầy thuốc giỏi' và một 'thầy thuốc vĩ đại' nằm ở đâu?",
+      "options": [
+        "Thầy thuốc giỏi tập trung chữa trị căn bệnh, còn thầy thuốc vĩ đại thấu cảm và chữa lành cho toàn bộ con người.",
+        "Thầy thuốc giỏi chữa khỏi các căn bệnh phức tạp, còn thầy thuốc vĩ đại tìm ra các loại vaccine đột phá.",
+        "Thầy thuốc giỏi có tay nghề y thuật siêu đẳng, còn thầy thuốc vĩ đại có y đức hoàn  hảo được vinh danh.",
+        "Thầy thuốc giỏi làm việc tại các bệnh viện lớn tuyến đầu, còn thầy thuốc vĩ đại tận tâm với người nghèo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Căn bệnh chỉ là một hiện tượng y học để chữa trị, nhưng con người là một sinh mệnh toàn vẹn đòi hỏi sự dấn thân và trách nhiệm nhân bản sâu sắc từ một người thầy thuốc vĩ đại."
+    },
+    {
+      "id": "q11",
+      "question": "Hình ảnh 'con chó' được Einstein sử dụng (và được tác giả dẫn lại khi bàn về cảnh sát, công an, binh sĩ hay chuyên gia) nhằm châm biếm điều gì ở con người?",
+      "options": [
+        "Sự hung dữ và bản năng hoang dã chưa được thuần hóa hoàn toàn bởi các chuẩn mực đạo đức xã hội.",
+        "Sự phản bội các giá trị truyền thống để chạy theo những lợi ích vật chất trước mắt trong xã hội tiêu thụ.",
+        "Sự phụ thuộc hoàn toàn vào môi trường vật chất xung quanh để duy trì các nhu cầu sinh học tối thiểu.",
+        "Sự trung thành mù quáng vào mệnh lệnh hoặc người trả lương mà thiếu đi năng lực minh định phải - trái, đúng - sai."
+      ],
+      "correctIndex": 3,
+      "explanation": "Einstein ví von như vậy để phê phán những kẻ chỉ biết làm theo lệnh, phục tùng mù quáng mà không có năng lực tự chủ tư duy và minh định các giá trị chân chính."
+    },
+    {
+      "id": "q12",
+      "question": "Đâu là cội nguồn sâu xa dẫn đến mọi hành vi sai trái, cái xấu và cái ác trong xã hội theo hệ thống tư tưởng của tác giả?",
+      "options": [
+        "Sự thiếu thốn về mặt vật chất và những bất bình đẳng kinh tế trầm trọng giữa các tầng lớp dân cư.",
+        "Sự suy đồi của các thiết chế đạo đức truyền thống dưới sức ép của toàn cầu hóa và hiện đại hóa.",
+        "Sự kết hợp giữa 'vô minh' (đầu không khai minh) và 'vô hồn' (tâm không khai mở), dẫn đến vô cảm và nhẫn tâm.",
+        "Sự lạm dụng quyền lực thái quá của các cơ quan quản lý nhà nước đối với quyền tự do cá nhân."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả chỉ rõ khi trí tuệ không được khai minh và tâm hồn không được khai mở, con người sẽ trở nên vô minh, vô hồn, dẫn đến vô cảm và cuối cùng là nhẫn tâm - gốc rễ của cái ác."
+    },
+    {
+      "id": "q13",
+      "question": "Sứ mệnh tối thượng của một nền giáo dục khai minh đối với con người là gì, theo thông điệp xuyên suốt của tác phẩm?",
+      "options": [
+        "Cung cấp khối lượng kiến thức chuyên ngành khổng lồ để người học dễ dàng tìm kiếm việc làm thu nhập cao.",
+        "Xây dựng hệ thống bằng cấp chuẩn hóa quốc tế nhằm nâng cao chất lượng nguồn nhân lực quốc gia.",
+        "Trang bị các kỹ năng mềm thực chiến giúp cá nhân thích ứng nhanh chóng với biến động của thị trường lao động.",
+        "Đào luyện con người có đầu óc minh định (khai trí) và trái tim giàu lòng trắc ẩn (khai tâm) để sống có phẩm giá."
+      ],
+      "correctIndex": 3,
+      "explanation": "Giáo dục khai minh không dừng lại ở việc tạo ra những 'cái máy khả dụng' hay chuyên gia kỹ thuật, mà phải khai sáng trí tuệ và kiến tạo tâm hồn để con người đạt tới sự phát triển hài hòa và có phẩm giá."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao tác giả nhấn mạnh rằng việc 'phản tỉnh chính mình' hay 'phản tư bản thân' là nghĩa vụ sống còn của những người có hiểu biết?",
+      "options": [
+        "Bởi vì nó giúp họ nhanh chóng thăng tiến trong các tổ chức học thuật và giành được sự nể trọng của công chúng.",
+        "Bởi vì sự hiểu biết của con người là hữu hạn, nếu không tự soi rọi sẽ dễ rơi vào điểm mù, ấu trĩ và gây hại xã hội.",
+        "Bởi vì đó là phương pháp duy nhất để bảo vệ các công trình nghiên cứu khỏi sự đạo văn và tranh chấp bản quyền.",
+        "Bởi vì nó giúp duy trì sự bình thản trong tâm hồn trước những áp lực khắc nghiệt của đời sống trí thức."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trí thức cũng là con người với sự hiểu hạn hẹp, nếu không liên tục phản tư để nhận ra 'điểm mù' của chính mình, họ sẽ rơi vào vô minh và thậm chí gây nguy hại cho cộng đồng khi dẫn dắt sai lệch."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp cốt lõi nhất mà Giản Tư Trung muốn gửi gắm qua toàn bộ chương sách 'Làm việc' là gì?",
+      "options": [
+        "Làm việc chính là làm người; phải có đạo nghề gắn với đạo sống, phụng sự chân lý và sống với phẩm giá tự do.",
+        "Hãy chọn đúng nghề nghiệp phù hợp với xu thế thị trường để đảm bảo sự ổn định tài chính và an nhan cá nhân.",
+        "Hãy nỗ lực làm việc thật chăm chỉ để đạt được vị trí lãnh đạo cao nhất và tích lũy khối tài sản khổng lồ.",
+        "Luôn tuân thủ tuyệt đối các quy định pháp luật và chuẩn mực đạo đức do xã hội áp đặt trong mọi hoàn cảnh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Xuyên suốt chương sách là thông điệp 'làm việc' cũng là 'làm người', đòi hỏi mỗi cá nhân phải có lý tưởng nghề nghiệp, phụng sự xã hội, trung thành với chân lý và sống với phẩm giá của một con người tự do."
+    }
+  ]
+}

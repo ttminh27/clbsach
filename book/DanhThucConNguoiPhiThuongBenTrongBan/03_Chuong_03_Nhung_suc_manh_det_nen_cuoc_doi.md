@@ -1,0 +1,137 @@
+# CHƯƠNG 3: NHỮNG SỨC MẠNH DỆT NÊN CUỘC ĐỜI
+
+> *"Đời người gồm những khoảnh khắc của lý trí,*  
+> *xen lẫn những khoảnh khắc của khôi hài và đam mê".*  
+>  
+> — **SIR THOMAS BROWNE**
+
+Cô ấy vừa đi tản bộ được chừng nửa giờ thì tai họa ập tới. Bất ngờ khoảng một chục thanh thiếu niên chạy xấn xổ về phía cô. Chưa kịp hiểu có chuyện gì, cô đã thấy tụi trẻ nhảy bổ vào cô, lôi xốc cô vào bụi rậm gần đấy rồi dùng ống sắt đập vào người cô. Một đứa liên tiếp đạp vào mặt cô cho tới khi máu chảy xối xả. Rồi chúng thay nhau hãm hiếp và bỏ cô lại đấy nữa sống nữa chết.
+
+Câu chuyện ghê tởm và man rợ này xảy ra ở Central Park cách đây mấy năm. Lúc đó tôi đang ở New York. Tôi kinh sợ vì cuộc tấn công man rợ đã đành, nhưng nhất là vì những kẻ tấn công còn đang ở lứa tuổi vị thành niên. Tất cả chỉ từ 14 đến 17 tuổi. Không như bình thường, chúng không phải những con nhà nghèo khổ hay có gia đình rắc rối, nhưng là những học sinh trung học và là thành viên của câu lạc bộ kèn đồng Little League. Chúng không nghiện ma túy, cũng không có những động cơ phân biệt chủng tộc. Chúng đã tấn công vì một lý do độc nhất: trò đùa, chúng còn cho việc chơi đùa này một cái tên:"hung bạo".
+
+Cách xa thủ đô không đầy 300 km, một chiếc phản lực đã nổ khi vừa cất cánh ở sân bay Quốc gia trong một cơn bão tuyết. Máy bay đâm vào cầu Potomac đúng vào giờ cao điểm. Giao thông bị tắc nghẽn, trong khi việc cứu cấp nạn nhân được tiến hành cấp tốc và quang cảnh khu vực cầu là cả một cơn ác mộng. Nhân viên chữa cháy và cứu thương phải hết sức vất vả cứu
+
+các nạn nhân.
+
+Có một người đàn ông liên tục chuyền bình khí oxy cho những người khác. Anh đã cứu được nhiều người, chỉ trừ mạng sống của anh. Rốt cuộc khi máy bay trực thăng cứu nạn đáp xuống chỗ anh ta, anh đã trượt hẳn xuống bên dưới lớp tuyết lạnh cóng. Anh đã hy sinh mạng sống mình để cứu sống những người hoàn toàn xa lạ với anh. Điều gì đã thúc đẩy anh coi trọng sinh mạng của những con người mà anh ta không hề quen biết thế? Và anh ta đã hy sinh tính mạng mình vì những người ấy?
+
+Điều gì làm cho một người xuất thân từ những hoàn cảnh tốt đẹp lại hành động một cách man rợ mà không hề hối hận, đang khi một người khác lại dám hi sinh tính mạng mình vì những người hoàn toàn xa lạ? Điều gì tạo nên một anh hùng, một tên đê tiện, một tội phạm, hay một con người cống hiến? Điều gì tạo khác biệt giữa các hành động của con người? Suốt đời tôi không ngừng đi tìm câu trả lời cho những câu hỏi này. Tôi thấy rõ một điều này: Con người không phải những tạo vật ngẫu nhiên; mọi việc chúng ta làm, chúng ta đều làm vì một lý do nào đó. Có thể chúng ta không ý thức về lý do đó, nhưng chắc chắn luôn luôn có động cơ nào đó thúc đẩy hành động của chúng ta. Sức mạnh này ảnh hưởng đến mọi lãnh vực của đời sống chúng ta từ những mối quan hệ cho tới lãnh vực tài chánh, thể chất và trí khôn của chúng ta. Sức mạnh nào đang chi phối đời sống của bạn lúc này và còn tiếp tục chi phối đời sống của bạn trong suốt cuộc đời? **SƯỚNG và KHỔ!** *Tất cả những gì chúng ta làm, chúng ta làm với mục đích tránh xa đau khổ và đạt niềm vui sướng*.
+
+Hiểu và sử dụng được những sức mạnh của khổ đau và vui sướng sẽ cho phép bạn mãi mãi tạo được những thay đổi vững bền và những sự tốt đẹp mà bạn ao ước, cho bạn và những người bạn thân thương. Không hiểu điều này sẽ dẫn đưa bạn tới một nếp sống phản động, hoang dã như cầm thú hay máy móc. Điều này nghe ra có vẻ quá đơn giản, nhưng bạn hãy nghĩ đến nó. Sao bạn không làm những điều mà bạn *biết* mình phải làm?
+
+Lý do là ở tính dùng dằng không dứt khoát của bạn. Bạn biết bạn phải làm một việc gì đó, nhưng bạn vẫn chần chờ không làm. Tại sao? Là vì ở một mức độ nào đó, bạn nghĩ rằng hành động vào lúc này sẽ gây cho bạn nhiều đau khổ hơn là để chờ đó. Thế nhưng, bạn đã có bao giờ kinh nghiệm rằng một việc bạn cứ trì hoãn hết ngày này sang ngày khác, bỗng dưng bạn cảm thấy ép buộc phải làm, phải *làm xong* không? Chuyện gì đã xảy ra? Lúc đó bạn đã thay đổi cách đánh giá của bạn về cái khổ và cái sướng. Bỗng dưng bạn thấy rằng không hành động lại còn đau khổ hơn là trì hoãn hành động.
+
+> *"Ai chịu đau khổ khi chưa cần phải chịu,*  
+> *người ấy chịu đau khổ quá mức cần thiết."*  
+>  
+> — **SENECA**
+
+Điều gì ngăn cản bạn đến gặp người đàn ông hay người đàn bà mà bạn mơ tưởng? Điều gì ngăn cản bạn bắt đầu một cuộc kinh doanh mà bạn đã có ý định trong đầu nhiều năm? Tại sao bạn không bắt đầu ăn kiêng? Tại sao bạn không làm xong luận án của bạn? Tại sao bạn không kiểm soát dự án đầu tư của bạn? Điều gì ngăn cản bạn làm những gì phải làm để thành đạt trong đời sống theo như bạn mong ước?
+
+Mặc dù bạn biết rõ tất cả những hành động này có lợi cho bạn, nhưng bạn đã không làm chỉ vì vào lúc đó bạn nghĩ làm những việc đó sẽ gây cho bạn nhiều đau khổ hơn là bỏ lỡ một cơ hội. Xét cho cùng, nếu tôi đến gặp người đó và họ từ chối tôi thì sao? Nếu tôi ăn kiêng, chịu đói, để rồi rốt cuộc vẫn lên cân thì sao? Nếu tôi bỏ tiền ra đầu tư để rồi mất sạch vốn liếng thì sao? Vậy thì thử để làm gì?
+
+Với nhiều người, nỗi sợ những mất mát thì mạnh hơn niềm ao ước được lợi.
+
+Điều gì thúc đẩy bạn mạnh hơn: tránh khỏi bị ai đó cướp mất của bạn 100,000 đô la bạn đang có trong tay, hay khả năng bạn có thể kiếm được 100,000 đô la khác trong năm tới? Sự thật là nhiều người ra sức giữ chắc được những gì họ đang có hơn là chịu liều để có được những gì họ thực sự muốn có cho đời họ.
+
+> *"Bí quyết thành công là học biết cách sử dụng niềm vui hay nỗi đau*  
+> *thay vì để niềm vui hay nỗi đau sử dụng mình.*  
+> *Nếu bạn làm như thế, bạn sẽ làm chủ cuộc đời bạn.*  
+> *Không làm thế, bạn sẽ để cuộc đời làm chủ bạn."*  
+>  
+> — **ANTHONY ROBBINS**
+
+Một câu hỏi thú vị thường được nêu lên trong các cuộc thảo luận về sướng hay khổ: Tại sao có người cứ chịu khổ mà không thể thay đổi? Họ chưa cảm nghiệm đau khổ cho đủ; họ chưa đi tới *ngưỡng cảm xúc*. Nếu bạn đã từng bị một cuộc tan vỡ gia đình và cuối cùng đi đến quyết định sử dụng mọi năng lực của bạn để hành động và thay đổi cuộc đời, có thể đó là vì bạn đã *chạm tới mức đau khổ mà bạn không còn muốn chịu đựng nữa*. Chúng ta ai cũng từng cảm nghiệm những lúc trong cuộc đời làm chúng ta phải thốt lên, "Tôi phải thay đổi ngay". Đây chính là giây phút kỳ diệu mà *đau khổ trở thành người bạn* của chúng ta. Nó thúc đẩy chúng ta bắt tay hành động và làm ra những kết quả mới. Chúng ta còn được thúc đẩy hành động mãnh liệt hơn nếu cũng trong lúc đó, chúng ta dự kiến trước được rằng sự thay đổi sẽ làm cho đời sống chúng ta sung sướng hơn nhiều.
+
+Điều này xảy ra trong nhiều lĩnh vực khác nhau của đời sống. có thể bạn cảm thấy đã chạm tới ngưỡng cửa của tình trạng thể lý của mình: bạn mập quá rồi, không còn ngồi thoải mái trong xe taxi, không mặc vừa bộ quần áo mới may cách đây mấy tháng, đi lên xuống cần thang vất vả. Cuối cùng bạn thốt lên, "thế là quá đủ rồi!" và bạn có quyết định. Động cơ của quyết định đó là gì? Là ước muốn loại bỏ đau khổ trong cuộc sống của mình và lập lại niềm vui sướng: vui sướng vì hãnh diện, vui sướng vì thoải mái dễ chịu, vui sướng vì tự tin, vui sướng vì được sống theo đúng ý định của mình.
+
+## Cuộc đời là bài học quan trọng nhất
+
+Cả Donald Trump lẫn mẹ Teresa đều được thúc đẩy bởi cùng một động lực. Có thể bạn sẽ nói,"Anh có điên không, Tony? Hai người đó khác nhau như ngày và đêm vậy!" Rõ ràng những giá trị của họ nằm ở hai cực đối lập nhau, nhưng cả hai cùng được thúc đẩy bởi cái sướng và cái khổ. Đời sống của họ đã hình thành từ những gì họ *biết* là đem lại niềm vui và những gì họ *biết* là đem lại đau khổ. Bài học quan trọng nhất chúng ta học được nơi đời sống là cái gì đem lại niềm vui và cái gì đem đến nỗi đau. Bài học này nơi mỗi người mỗi khác và vì thế lối ứng xử của chúng ta cũng khác nhau.
+
+Với Donald Trump, suốt cuộc đời ông đã học biết cách đạt tới niềm vui sướng bằng cách có những chiếc du thuyền lớn nhất và mắc tiền nhất, tậu được những tòa nhà nguy nga xa xỉ nhất và có những thương vụ xuất sắc nhất. Tóm lại, tích lũy những món đồ chơi lớn nhất và mắc nhất. Ông coi điều gì gây đau khổ nhất cho mình? Trong các cuộc phỏng vấn, ông tiết lộ là nỗi đau khổ lớn nhất trong đời là phải chịu xếp hàng thứ 2 trong bất cứ cái gì, ông coi đó là thất bại. Nhiều đối thủ của ông đã vô cùng vui mừng khi thấy ông chịu đau khổ vì phần lớn tài sản của ông bị tiêu tán, Nêu ví dụ này không phải để phán đoán ông, nhưng là để chúng ta hiểu được động cơ nào đã thúc đẩy ông và để thông cảm phần nào nỗi đau khổ rõ ràng của ông.
+
+Mẹ Teresa thì ngược lại. Đây là một phụ nữ có mối quan tâm sâu sắc đến con người, khiến mỗi khi nhìn thấy ai đau khổ, mẹ cũng cảm thấy đau khổ. Mẹ bị tổn thương trước sự bất công của hệ thống đẳng cấp xã hội. Mẹ khám phá ra rằng mỗi khi mẹ hành động để cứu giúp những người này, sự đau khổ của họ tan biến và sự đau khổ của mẹ cũng ta biến theo. Với Mẹ Teresa, ý nghĩa tối hậu của cuộc đời có thể tìm thấy nơi những khu phố nghèo khổ nhất ở Calcutta, Thành phố của Niềm vui, với hàng triệu con người đói ăn, bệnh tật. Với Mẹ, niềm vui là ở chổ đi rảo qua các ngõ ngách tối tăm và tanh hôi trong thành phố để đến những túp lều tồi tàn và phục vụ những trẻ em thiếu ăn, với những thân xác bị tàn phá bởi dịch tả và kiết lị. Mẹ được thúc đẩy mãnh liệt với cảm giác rằng khi giúp được những người khác thoát khỏi cảnh cùng cực là mẹ vơi nhẹ được nỗi khổ nơi mình và giúp họ cảm nghiệm được niềm vui của cuộc sống là *Chính mẹ* cảm nghiệm được niềm vui. Mẹ học biết được rằng hiến mình làm việc cho tha nhân chính là điều thiện tột đỉnh; nó cho mẹ cảm nghiệm rằng đời mẹ có một ý nghĩa đích thực.
+
+## Định mệnh của ta hình thành
+
+## theo cách ta quan niệm
+
+## thế nào là sướng và thế nào là khổ,
+
+Một quyết định đã thay đổi triệt để chất lượng đời sống của tôi, đó là từ nhỏ tôi bắt đầu coi kiến thức là niềm vui sướng vô bờ. Tôi đã nhận ra rằng nếu khám phá ra được nhũng ý tưởng và chiến lược để hình thành cách ứng xử và cảm xúc của mình, thì mình sẽ có hầu như tất cả những gì mình muốn có trên đời. Nó có thể giải phóng tôi khỏi đau khổ và đem đến cho tôi niềm vui. Biết cách mở tung những bí ẩn đằng sau các hành động của chúng ta có thể giúp tôi có sức khoẻ tốt hơn, quan hệ tốt hơn với những người tôi thân thương. Kiến thức giúp tôi có cái gì để cống hiến, cơ hội để tôi có thể thực sự cống hiến cho mọi người quanh tôi.
+
+Đâu là những kinh nghiệm về đau khổ hay sung sướng đã hình thành đời bạn? Chẳng hạn, nếu bạn coi ma túy đem lại niềm vui hay sự đau khổ, thì nó đều ảnh hưởng tới định mệnh của bạn. Những quan niệm về thuốc lá, rượu, các mối quan hệ và ngay cả quan niệm về sự cống hiến và tin tưởng cũng đem lại những hiệu quả như thế cho định mệnh của bạn.
+
+Nếu bạn là bác sĩ, hẳn bạn thấy rõ là quyết định học làm bác sĩ trước đây của bạn đã được thúc đẩy bởi niềm tin của bạn rằng nó sẽ đem lại niềm vui cho bạn. Hầu hết các bác sĩ tôi có dịp nói chuyện đều thú nhận họ cảm thấy hạnh phúc to lớn khi giúp đở người khác: làm giảm đau, chữa bệnh và cứu sống. Nhiều khi niềm vinh dự được trọng nể trong xã hội cũng là một động cơ.
+
+Bạn hãy nghĩ đến những quan niệm hạn chế về đau khổ và hạnh phúc của John Belushi, Freddie Prinze, Jimi Hendrix, Elvis Presley, Janis Joplin và Jim Morrison. Họ coi ma túy như một lối thoát, một giải pháp nhanh, một con đường giải phóng họ khỏi đau khổ và đem hạnh phúc đến với họ, rốt cuộc thái độ này đã hủy diệt họ. Họ phải trả cái giá cuối cùng vì đã không điều khiển đúng trí khôn và cảm xúc của họ. Bạn thử nghĩ đến gương mẫu họ đã nêu ra cho hàng triệu người hâm mộ họ. Tôi chưa bao giờ thử rượu hay thuốc phiện. Không phải vì tôi khôn, mà vì tôi thật may mắn. Một lý do khiến tôi không bao giờ uống rượu, đó là vì hồi nhỏ, trong gia đình tôi có hai người mỗi khi say rượu đều gây ra toàn những chuyện tệ hại, khiến cho tôi gắn liền việc uống rượu với sự đau khổ tột bực. Đặc biệt tôi còn nhớ như in trong óc hình ảnh người mẹ của một bạn thân nhất của tôi. Bà béo phì, nặng gần 150 kg và bà uống rượu liên tục. Mỗi khi uống rượu, bà thường thích ôm lấy tôi trong lòng bà. Cho tới tận hôm nay, tôi luôn luôn buồn nôn mỗi khi ngửi thấy mùi rượu trong hơi thở của người ta.
+
+Về uống bia thì lại có một chuyện khác. Hồi tôi khoảng 11, 12 tuổi, tôi không hề coi đó là một thứ rượu. Thực ra, cha tôi cũng uống bia và không hề gây ra chuyện tệ hại nào cả. Ngược lại, uống vài ly bia vào thường làm cha tôi vui vẻ hơn đôi chút. Hơn nữa, tôi coi uống bia tạo ra niềm vui, vì tôi muốn trở nên giống cha tôi. Thực ra uống bia có làm tôi nên giống cha tôi không? Không đâu, Nhưng chúng ta thường có những liên tưởng sai lạc trong hệ thần kinh như khi chúng ta quan niệm thế nào là sướng, khổ trong cuộc đời.
+
+Một hôm tôi xin mẹ tôi cho uống "thử ít bia". Mẹ giải thích là uống bia không tốt cho tôi. Nhưng những lời giài thích của mẹ chỉ là vô ích khi ý tôi đã quyết và nhất là khi tôi nhận thấy rõ là cha tôi đâu có làm gì như mẹ tôi nói. Lời nói lung lay, gương bày lôi cuốn. Thế là tôi nhất định tin rằng các nhận định của tôi thì chính xác hơn những lời giải thích của mẹ và ngày hôm đó tôi tin chắc rằng uống bia đối với tôi là dấu hiệu của sự trưởng thành. Còn mẹ tôi thì nghĩ nếu không cho tôi uống bia tại nhà, chắc chắn tôi sẽ đi uống thử ở một nơi nào khác. Rốt cuộc mẹ tôi bảo,"OK, con muốn uống bia giống như cha con à? Thế thì con phải uống hoàn toàn theo kiểu cha con uống". Tôi hỏi, "Thế là sao hả mẹ?" Bà trả lời, "Con phải uống hết sáu lon". Tôi nói, *"Không có vấn đề"*.
+
+Mẹ tôi nói, "Con phải ngồi uống ngay tại đây". Khi tôi nhâm nhi ngụm bia đầu tiên, tôi thấy mùi vị dở quá, không như tôi đã tưởng trước đó. Thế nhưng tự ái của tôi không cho phép tôi thừa nhận điều này. Và tôi uống thêm mấy hớp nữa. Khi uống hết một lon, tôi nói với mẹ, "Con đủ rồi, Mẹ". Mẹ nói, "Không, còn lon nữa đây" và bà mở ngay ra. Sau khi uống đến lon thứ ba hay thứ tư gì đó, tôi thấy dạ dày lồng lộn cả lên. Và bạn cũng có thể biết điều gì xảy ra sau đó. Tôi nôn thóc nôn tháo mọi sự ra người và đầy bàn ăn. Thật là khủng khiếp và lại còn phải lau chùi sạch cả bàn ăn nữa. Từ đó cứ nghĩ đến mùi bia là tôi buồn nôn và có những cảm giác ghê tởm. Thế là tôi không còn liên tưởng bằng trí óc giữa uống bia và ý nghĩa của nó nữa, mà tôi đã bắt đầu liên tưởng *bằng cảm xúc* nơi hệ thần kinh của tôi, đó là sự *liên tưởng thần kinh hệ*. Từ đó trở đi, tôi không bao giờ nếm dù chỉ một ngụm bia.
+
+Tôi cũng không bao giờ sử dụng ma túy vì tôi cũng có một kinh nghiệm tương tự: Khi tôi đang học lớp tám hay chín, một đội của sở cảnh sát đến trường tôi và chiếu cho chúng tôi xem những phim về hậu quả của ma túy. Tôi thấy những cảnh bắn giết, chết chóc, đau đớn và tự vẫn. Là một thiếu niên, tôi liên kết ma túy với những sự xấu xa và chết chóc, vì thế bản thân tôi không bao giờ thử. Tôi thực may mắn là được cảnh sát đã giúp hình thành mối liên tưởng thần kinh hệ về sự đau đớn ngay cả khi chỉ cần nghĩ tới ma túy. Vì thế tôi đã không bao giờ nghĩ đến chuyện thử dùng ma túy.
+
+Chúng ta học được điều gì qua những thí dụ trên đây? Đơn giản là điều này:*Nếu chúng ta liên kết sự đau đớn to lớn với bất kỳ mẫu ứng xử hay cảm xúc này, chúng ta sẽ tránh chiều theo nó bằng bất cứ giá nào. Chúng ta có thể dùng sự hiểu biết này để trang bị cho mình nguồn sức mạnh của đau khổ và sung sướng để thay đổi hầu như mọi cái trong đời mình*, từ thái độ lừng khừng cho tới việc sử dụng ma túy. Ví dụ, nếu chúng ta muốn ngăn ngừa con cái sa vào ma túy, chúng ta phải dạy chúng trước khi chúng thử nghiệm và trước khi có ai dạy chúng liên kết ma túy với niềm vui sướng.
+
+> *"Nếu bạn bị đau khổ vì một điều gì ở bên ngoài, bạn khổ không phải bởi chính điều đó, mà bởi cách bạn đánh giá nó; nhưng bạn luôn luôn có khả năng thay đổi cách đánh giá của bạn bất cứ lúc nào".*  
+>  
+> — **MARCUS AURELIUS**
+
+Loài người là loài duy nhất trên trái đất có khả năng đời sống tâm linh, giúp chúng ta không bị lệ thuộc hoàn cảnh, mà ngược lại, chính chúng ta tạo cho hoàn cảnh ý nghĩa của nó và chúng ta tự xác định cho mình cảm nghĩ về mình cũng như lề lối ứng xử của mình trong tương lai. Một trong những khả năng khiến chúng ta là một tạo vật đặc biệt, đó là khả năng *thích ứng*, biến đổi, sử dụng sự vật hay ý tưởng để tạo ra những cái hữu ích hay thích thú hơn cho chúng ta. Chỉ có lòai người có khả năng biến đổi những liên tưởng của mình, để biến đau khổ thành niềm vui hay ngược lại.
+
+Ta hãy nghĩ đến người tuyệt thực để đình công và phải ngồi tù. Tuyệt thực vì một chính nghĩa, anh vẫn sống suốt ba mươi ngày không ăn. Sự đau đớn thể xác của anh rất lớn, nhưng nó được bù đắp bằng niềm vui và giá trị vì đã thu hút được sự chú ý của dư luận quần chúng đối với chính nghĩa của anh.
+
+Thế nên, nhờ sức mạnh của ý chí, chúng ta có thể chọn lựa sự đau khổ thể xác do việc nhịn ăn với sự đau khổ tâm linh do việc buông xuôi lý tưởng của mình. Chúng ta có thể tạo ra những ý nghĩa cao cả hơn. *Nhưng nếu chúng ta không điều khiển những liên tưởng của mình về đau khổ hay vui sướng, thì cuộc đời của chúng ta không hơn gì loài vật hay máy móc,* luôn luôn bị chi phối của hoàn cảnh, để mặc cho sự vật tác động trên chúng ta và xác định chất lượng đời sống của chúng ta. Chúng ta trở nên giống một chiếc máy tính công cộng, để mặc cho đủ loại lập trình viên nghiệp dư ai muốn truy cập cũng được.
+
+> *"Người ta, nam cũng như nữ, thường nghe theo*  
+> *tiếng gọi của con tim hơn là của lý trí".*  
+>  
+> — **LORD CHESTERFIELD**
+
+Tuy chúng ta không muốn nhìn nhận điều này, nhưng sự thật vẫn là *chúng ta hành động do sự phản ứng của bản năng đối với đau khổ và vui sướng, hơn là do những tính toán của lý trí*. Tuy chúng ta luôn muốn tin rằng mình hành động là do lý trí, nhưng trong phần lớn tình huống, *chúng ta để cho các cảm xúc thúc đẩy chúng ta hành động.*
+
+*Thực ra chúng ta có thể học cách điều khiển tâm trí, thể xác và cảm xúc của mình để liên kết sự sướng khổ với bất kỳ điều gì chúng ta lựa chọn. Khi Thay đổi cách chúng ta quan niệm về sướng và khổ, chúng ta sẽ lập tức thay đổi thái độ ứng xử của mình.* Thí dụ bạn muốn bỏ hút thuốc lá. Điều đơn giản bạn phải làm là liên kết đau khổ với việc hút thuốc và niềm vui với việc bỏ hút. Bạn có khả năng làm chuyện này ngay bây giờ, nhưng sở dĩ bạn không sử dụng khả năng này là vì bạn đã quen liên kết sự vui sướng của thể xác với việc hút thuốc, hay vì bạn sợ rằng bỏ hút sẽ gây ra cho bạn sự đau khổ. Thế nhưng, nếu bạn gặp một người đã bỏ hút thuốc, bạn sẽ thấy rằng có một ngày họ đã thay đổi thái độ ấy: Ngày họ thực sự thay đổi ý nghĩa của việc hút thuốc đối với họ.
+
+***Nếu bạn không có một kế họach cho đời mình, thì một người khác sẽ làm điều đó.***
+
+Các nhà quảng cáo hiểu rất rõ rằng điều thúc đẩy chúng ta không phải là trí óc mà là những cảm giác của chúng ta đối với các sản phẩm của họ. Kết quả là họ đã trở thành những chuyên gia trong việc sử dụng những âm nhạc kích động hay êm dịu, những hình ảnh gây ấn tượng hay thanh lịch, những màu sắc chói chang hay dịu mắt và đủ những yếu tố khác để đưa chúng ta vào những trạng thái cảm xúc nào đó; sau đó, khi cảm xúc của chúng ta đã lên tới tột đỉnh, khi những cảm giác của chúng ta đạt tới mức mãnh liệt nhất, họ cho vụt loé lên liên tục một hình ảnh về sản phẩm của họ cho tới khi chúng ta liên kết no với những cảm giác thõa mãn nhất của mình.
+
+Pepsi đã sử dụng chiến lược này một cách xuất sắc để chia thị phần sản phẩm nước giải khát đầy lợi nhuận của họ công ty cạnh tranh là Coca-cola. Pepsi quan sát hiện tượng thành công của Michael Jackson, một thanh niên đã dành cả đời mình để nghiên cứu cách khơi dậy cảm xúc mạnh mẽ của quần chúng bằng cách anh vận dụng giọng hát, cơ thể, nét mặt và điệu bộ của mình. Michael hát và múa hiệu quả đến nỗi anh kích thích được hàng triệu khán giả say mê và cảm thấy hài lòng, thậm chí họ bỏ tiền ra mua những albums của anh để tái tạo lại cảm giác. Pepsi tự hỏi, chúng ta có cách nào chuyển những cảm giác ấy sang sản phẩm *của chúng ta* không? Họ lý luận rằng nếu ngưới ta liên kết những cảm giác vui sướng với Pepsi cũng giống như với Michael Jackson, chắc chắn họ sẽ mua Pepsi cũng giống như họ mua các albums của anh.
+
+Có thể bạn đã từng nghe nói nhà khoa học Nga Iva Pavlov, người đã thực hiện vào cuối thế kỷ 19 những thí nghiệm về phản xạ có điều kiện. Thí nghiệm nổi tiếng nhất của ông là thí nghiệm lắc chuông mỗi khi cho chó ăn, nhờ đó kích thích nước bọt của con chó và liên kết những cảm giác của con chó với tiếng chuông. Sau khi lập đi lập lại đủ số lần thí nghiệm phản xạ có điều kiện, Pavlov nhận thấy rằng chỉ cần lắc chuông là con chó sẽ chảy nước bọt, cả khi không đem thức ăn cho con chó.
+
+Thí nghiệm Pavlov có liên quan gì đến Pepsi? Trước hết, Pepsi dùng Michael Jackson để đưa chúng ta lên những cảm xúc tột đỉnh. Thế rồi vào đúng lúc đó, họ chiếu loé lên sản phẩm của họ. Cứ lặp đi lặp lại liên tục như thế đã tạo ra một sự liên kết cảm xúc đối với hàng triệu người hâm mộ Jackson. Thực ra Michael Jackson chẳng hề uống Pepsi. Anh thậm chí chẳng hề cầm một lon Pepsi rỗng trước ống kính camera! Bạn ngạc nhiên ư? "Hãng Pepsi này điên chắc? Họ bỏ ra 15 triệu đô la thuê anh chàng này giới thiệu sản phẩm của họ mà không hề đụng đến sản phẩm ấy, lại còn bảo mọi người là anh ta không đụng vào! Người đại diện gì mà lạ lùng vậy? Ý tưởng điên khùng thật!". Trong thực tế, đây là một ý tưởng tuyệt vời. Doanh số lên vọt tới mức L.A Gear đã thuê Michael với giá 20 triệu đô la để giới thiệu sản phẩm cho họ. Và ngày nay, vì anh ta có khả năng thay đổi lối cảm nghĩ của dâm chúng, anh và hãng Sony/CBS vừa ký một hợp đồng 10 năm trị giá trên 1 tỷ đô la. Khả năng thay đổi tâm trạng của quần chúng đã biến anh thành vô giá.
+
+Sự thật chúng ta phải nhận ra là tất cả điều này đều dựa trên cách liên kết cảm giác sung sướng với những thái độ nào đó. Ý tưởng là nếu chúng ta sử dụng sản phẩm, chúng ta sẽ đạt được ước mơ của mình. Các nhà quảng cáo đã dạy tất cả chúng ta là nếu bạn lái một chiếc BMW, bạn sẽ là con người tuyệt vời và sành điệu. Nếu bạn lái Hyundai, bạn là người thông minh và bình dị. Nếu bạn lái chiếc Pontiac, bạn sẽ hưởng những pha gây cấn. Nếu bạn lái chiếc Toyota, bạn sẽ có một cảm giác không tả nổi! Và nếu bạn dùng nước hoa Obsession, bạn sẽ là trung tâm cuốn hút của các buổi dạ tiệc. Vân vân và vân vân.
+
+Cái sức mạnh chi phối công luận của thế giới và thói quen mua sắm của người tiêu thụ cũng chính là cái sức mạnh dệt nên *tất cả* hành động của chúng ta. Phần còn lại là tùy bạn và tôi, chúng ta kiểm soát sức mạnh này và quyết định hành động một cách có ý thức, bởi vì nếu chúng ta không điều khiển tư tưởng của mình, chúng ta sẽ rơi vào ảnh hưởng của những người muốn lèo lái chúng ta để hành động theo ý muốn của họ.
+
+> *"Tôi quan niệm là phải tránh sự thỏa mãn nếu nó đem đến những đau khổ lớn hơn và phải khao khát đau khổ nếu nó mang lại sự thỏa mãn lớn hơn."*  
+>  
+> — **MICHEL DE MONTAIGNE**
+
+Vấn đề là ở chỗ đa số chúng ta khi quyết định làm hay không làm việc gì đều cân nhắc xem việc đó đem lại đau khổ hay thỏa mãn *trước mắt* thay vì lâu dài. Thế nhưng, để thành công, chúng ta phải biết vượt qua cái lợi trước mắt để nhắm tới cái hậu quả về lâu về dài. Bạn phải biết gạt sang một bên những giấy phút kinh hoàng và thử thách nhất thời, để tập trung vào những gì quan trọng nhất về lâu về dài: những giá trị và những tiêu chuẩn bản thân của bạn. Bạn cũng nên nhớ: *không phải cái đau khổ nhất thời kích động chúng ta, mà là nỗi sợ rằng một điều gì đó sẽ dẫn tới đau khổ. Cũng vậy, không phải sự thỏa mãn nhất thời kích động chúng ta, mà là niềm tin của chúng ta, cảm giác chắc chắn của chúng ta, rằng làm một hành động nào đó sẽ dẫn tới thỏa mãn.* Không phải chính thực tại thúc đẩy chúng ta, mà là nhận thức của chúng ta về thực tại.
+
+Nhiều người chỉ tìm cách tránh đau khổ và tìm thỏa mãn *tức thời* và vì thế tạo đau *khổ lâu* dài cho bản thân mình. Chúng ta hãy lấy một ví dụ: một người nào đó muốn giảm vài kg. Một mặt, người này tìm hết lý do này đến lý do khác mà họ coi là tốt nhất để giảm cân: họ sẽ khỏe mạnh hơn và dẻo dai hơn; quần áo họ mặc sẽ vừa vặn hơn; họ sẽ cảm thấy tự tin hơn trước mặt những người khác phái. Nhưng mặt khác, cũng có đủ những lý do để tránh giảm cân: họ phải kiêng ăn uống; họ sẽ luôn cảm thấy đói; họ sẽ phải kiêng đồ ăn có nhiều chất béo; hơn nữa, sao không đợi đến sau kỳ nghỉ hãy tính tới chuyện này?
+
+Cứ suy đi tính lại như thế, rốt cuộc họ sẽ chiều theo khuynh hướng trì hoãn quyết định, sự thỏa mãn có được một thân hình cân đối không mạnh bằng cái khổ trước mắt là phải nhịn ăn.
+
+Đau khổ và thỏa mãn cũng là cái hậu trường của những thảm kịch toàn cầu. Nhiều năm chúng ta phải sống giữa sự leo thang trong cuộc chạy đua vũ khí giữa các cường quốc. Các quốc gia này không ngừng chế tạo thêm vũ khí để làm dụng cụ đe dọa:"Nếu anh tấn công tôi, tôi sẽ trả đũa và sự thiệt hại của anh sẽ tồi tệ hơn nhiều". Cuộc chạy đua vũ khí này đã buộc nước Mỹ phải chi ra *mỗi giây* 15,000 đô la cho việc chế tạo khí giới.
+
+## Chúng ta phải thay đổi ngay bây giờ
+
+*Trước hết, bạn hãy viết ra bốn hành động mà bạn cần thực hiện nhưng bạn đã trì hoãn trước đây*. Chẳng hạn cần giảm cân. hay cần bỏ hút thuốc. hay cần nối lại quan hệ với người nào đó mà bạn đã lơ là, hay liên lạc lại với một người mà bạn thấy là quan trọng đối với bạn.
+
+*Thứ hai, bên cạnh mỗi hành động này, bạn hãy viết ra câu trả lời cho những câu hỏi sau: Tại sao tôi đã không hành động? Trước đây, tôi đã nghĩ những hành động này kèm theo những đau khổ nào*? Trả lời cho những câu hỏi này sẽ giúp bạn tìm ra lý do tại sao bạn đã trì hoãn không hành động trước đây.
+
+*Thứ ba, hãy viết ra tất cả những sự thỏa mãn bạn đã nhận được trước đây khi bạn trì hoãn không hành động*. Ví dụ, nếu bạn nghĩ phải giảm cân, tại sao bạn vẫn tiếp tục ăn nhiều chất ngọt và chất béo? Bạn tránh được đau khổ vì không phải nhịn an và đồng thời bạn hưởng được sự vui khoái trong lúc đó. Nhưng bạn cũng phải chịu những hậu quả đau đớn về sau. Khi xác định rõ những thỏa mãn bạn đã nhận được, bạn sẽ nhận ra đâu là mục tiêu thực sự của mình.
+
+*Thứ tư, hãy viết ra những gì bạn phải trả giá nếu bạn không thay đổi ngay bây giờ*. Chuyện gì sẽ xãy ra nếu bạn không ngừng ăn nhiều chất ngọt và chất béo? Nếu bạn không bỏ hút thuốc? Nếu bạn không gọi điện thoại cho người mà bạn muốn gọi? Nếu bạn không bắt đầu lao động một cách trung thực mỗi ngày? Bạn phải trả giá thế nào trong hai, ba, bốn, hay năm năm nữa? Bạn phải trả giá gì cho đời sống thể chất và tình cảm, tài chánh và cho niềm tự tin của bạn?
+
+*Sau cùng, hãy viết ra tất cả những niềm thỏa mãn bạn sẽ nhận được nếu bạn bắt tay hành động ngay lúc này*. Bạn hãy liệt kê một danh sách thật dài những niềm thỏa mãn sẽ kích động cảm xúc của bạn:"*Tôi sẽ cảm thấy mình làm chủ đời sống mình. Tôi sẽ thêm tự tin. Tôi sẽ khoẻ mạnh và đầy nghị lực. Tôi sẽ tăng cường các mối quan hệ. Tôi sẽ tăng thêm sức mạnh ý chí để sử dụng trong mọi lãnh vực của đời mình. Cuộc đời tôi sẽ tết đẹp hơn, trong vòng hai, ba, bốn, hay năm năm nữa. hành động ngay lúc này, tôi sẽ làm cho giấc mơ của đời mình thành hiện thực."*
+
+Chương này đã chỉ cho bạn hiểu rõ rằng, quan niệm của bạn về sướng và khổ chính là cái dệt nên mọi khía cạnh của đời bạn và bạn có khả năng để thay đổi những quan niệm đó và nhờ vậy, thay đổi các hành động và định mệnh của bạn. Nhưng để làm điều này, chúng ta phải hiểu...

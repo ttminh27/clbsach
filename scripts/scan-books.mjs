@@ -15,6 +15,45 @@ function formatFileSize(bytes) {
 }
 
 const placeholderMetadata = {
+  "100LoiKhuyenVeDauTu": {
+    title: "100 Lời Khuyên Đầu Tư Bất Động Sản Khôn Ngoan Nhất",
+    originalTitle: "The Best Real Estate Advice I Ever Received",
+    author: "Donald J. Trump",
+    authorBio: "Tỷ phú, nhà phát triển bất động sản hàng đầu thế giới, tác giả nhiều cuốn sách kinh doanh bán chạy kinh điển.",
+    quote: "Kinh doanh bất động sản là nghệ thuật kiếm tiền khi mua chứ không phải khi bán. Hãy luôn kiên nhẫn, hành động thông minh và giữ vững chữ tín.",
+    category: "Đầu tư & Bất động sản",
+    tags: ["Bất động sản", "Đầu tư", "Donald Trump", "Kinh doanh", "Làm giàu", "Chiến lược", "Thực chiến"],
+    description: "Tuyển tập 100 lời khuyên chiến lược và bài học thực chiến đắt giá nhất từ 100 chuyên gia, nhà đầu tư bất động sản hàng đầu nước Mỹ do Donald J. Trump tuyển chọn và giới thiệu.",
+    gradient: "from-amber-600 via-yellow-700 to-stone-900",
+    themeColor: "#b45309",
+    status: "available"
+  },
+  "DanhThucConNguoiPhiThuongBenTrongBan": {
+    title: "Đánh Thức Con Người Phi Thường Trong Bạn",
+    originalTitle: "Awaken the Giant Within",
+    author: "Anthony Robbins",
+    authorBio: "Chuyên gia hàng đầu thế giới về huấn luyện đỉnh cao, phát triển tiềm năng con người và tâm lý học hành vi, tác giả có tầm ảnh hưởng sâu rộng.",
+    quote: "Số phận của bạn được định hình trong những khoảnh khắc bạn đưa ra quyết định. Hãy đánh thức người khổng lồ đang ngủ say bên trong bạn.",
+    category: "Kỹ năng sống & Phát triển bản thân",
+    tags: ["Anthony Robbins", "Phát triển bản thân", "Tư duy tích cực", "Làm chủ cảm xúc", "Thay đổi thói quen", "Mục tiêu", "Thành công"],
+    description: "Kiệt tác kinh điển của Anthony Robbins chia sẻ các chiến lược và phương pháp đột phá để làm chủ cảm xúc, cơ thể, các mối quan hệ, tài chính và hoàn toàn làm chủ vận mệnh cuộc đời.",
+    gradient: "from-indigo-700 via-purple-800 to-slate-900",
+    themeColor: "#4f46e5",
+    status: "available"
+  },
+  "DungViec": {
+    title: "Đúng Việc",
+    originalTitle: "Một Góc Nhìn Về Câu Chuyện Khai Minh",
+    author: "Giản Tư Trung",
+    authorBio: "Nhà hoạt động giáo dục, Hiệu trưởng Trường Doanh nhân PACE, Viện trưởng Viện Nghiên cứu Phát triển Giáo dục (IRED).",
+    quote: "Công việc của bất kỳ ai trong đời cũng bao gồm: làm người, làm dân và làm việc. Lựa chọn của mỗi người trong từng 'công việc' đó sẽ làm nên cuộc đời họ.",
+    category: "Triết lý sống & Khai minh giáo dục",
+    tags: ["Đúng việc", "Giản Tư Trung", "Làm người", "Làm dân", "Làm việc", "Làm giáo dục", "Khai minh", "Tự do"],
+    description: "Tác phẩm khai minh nổi tiếng của nhà giáo dục Giản Tư Trung, định vị lại 4 công việc cốt lõi của mỗi con người trong cuộc đời: Làm người, Làm dân, Làm việc và Làm giáo dục, giúp mỗi cá nhân tìm lại bản ngã và xác định giá trị sống đích thực.",
+    gradient: "from-amber-600 via-orange-700 to-slate-900",
+    themeColor: "#ea580c",
+    status: "available"
+  },
   "7ThoiQuenHieuQua": {
     title: "7 Thói Quen Để Thành Đạt",
     originalTitle: "The 7 Habits of Highly Effective People",
@@ -487,6 +526,14 @@ for (const bookId of bookDirs) {
       } catch (err) {
         console.warn(`Error parsing quiz for ${bookId}/${chapterId}:`, err.message);
       }
+    }
+
+    // Trang bìa không cần quiz
+    const isCover = /^00+_?trang_?bia/i.test(fileName) || /^trang\s+bìa/i.test(title.trim());
+    if (isCover) {
+      quizUrl = null;
+      totalQuestions = 0;
+      hasQuiz = false;
     }
 
     chapters.push({

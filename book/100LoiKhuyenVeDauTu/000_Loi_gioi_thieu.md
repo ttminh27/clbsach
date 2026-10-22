@@ -1,7 +1,5 @@
 # LỜI GIỚI THIỆU
 
-*[Ebook miễn phí tại : www.Sachvui.Com](http://sachvui.com/)*
-
 Tôi đã ấp ủ mong muốn được viết cuốn sách này trong nhiều năm ròng.
 
 Ai đã từng theo dõi sự nghiệp của tôi đều biết các chiến lược bất động sản mà tôi sử dụng. (Và nếu chưa từng biết đến sự nghiệp của tôi thì bây giờ chính là lúc theo dõi các chương trình về tôi trên ti vi hay mua một trong những cuốn sách tôi đã viết)

@@ -1,0 +1,43 @@
+# Thay lời kết
+
+Khi tôi chia sẻ về ý tưởng cuốn sách này với một người bạn, câu đầu tiên chị hỏi tôi là: “Anh có thấy áp lực khi viết cuốn sách này không?”. Và tôi hiểu ngay lý do vì sao chị hỏi như vậy.
+
+Thật lòng mà nói, trong quá trình viết cuốn sách, không phải không có lúc tôi cảm thấy ngần ngại. Vì lạm bàn về “đúng việc”, “sai việc”, lạm bàn về việc “sắp xếp lại” mọi thứ, “định nghĩa
+
+Má
+
+lạ” mọi chuyện (nhất là những chuyện rất hệ trọng và có khi đã được xác tín trong một thời gian dài như làm người, làm dân và làm việc) luôn là một điều quá lớn và quá khó mà sách vở của nhân loại hàng trăm hàng ngàn năm nay cũng đã bàn luận, đã tranh cãi về nó mà vẫn chưa thống nhất được câu trả lời. Chưa kể việc bàn luận về đề tài này cũng khá là... “nguy hiểm”. Vì nó dễ khiến cho người ta giống như một kẻ mà dân gian hay nói là “ưa dạy đời thiên hạ”, hay như “mấy ông triết gia suốt ngày triết lý mấy chuyện đương nhiên ai cũng biết” (Huống chỉ tôi chỉ là một người làm nghề dạy học).
+
+Nhưng như Immanuel Kant - triết gia lỗi lạc từng nói (và đây cũng là phương châm của khai minh): “Hãy dám biết nà hãy can đảm sử dụng trí tuệ của chính mình!”. Trong suốt hành trình thực hiện các công việc làm người, làm dân, làm việc và làm giáo dục của mình, tôi đã luôn cần đến lòng can đảm đó. Riêng với cuốn sách này, tôi cảm thấy nó rất “đáng” để mình lại “dám biết, dám can đảm” thêm một lần nữa. Bởi vì nó là câu chuyện của mọi xứ sở, mọi nhà, mọi tổ chức, mọi cá nhân (mà tôi cũng là một cá nhân trong số đó). Nên viết không chỉ là cách để bộc bạch, để giải tỏa những trăn trở, mà còn là để tự soi rọi, để có thêm dịp chiêm nghiệm chuyện đúng - sai.
+
+Nhưng thật không dễ để kết nối bốn câu chuyện (cá nhân, gia đình, tổ chức và xã hội) trong một câu chuyện mang tên Đứng việc. Vì đó vừa là vấn đề rất chung của mọi xã hội, vừa lại là vấn đề rất riêng của mỗi cá nhân. Làm sao để chọn một cách tiếp cận thỏa mãn cả chung lẫn riêng? Cuối cùng, tôi đã chọn học theo cách mà các đạo diễn điện ảnh hay các nhà văn thường dùng. Trong bộ phim hay tác phẩm của mình, họ thường tập trung khắc họa thân phận của một hay một vài nhân vật; nhưng rồi đằng sau thân phận cá nhân đó, khán giả, độc giả sẽ nhìn thấy bóng dáng thân phận của cả xã hội. Giống như qua thân phận của nàng Kiều, cụ Nguyễn Du đã giúp ta hình dung thêm về “ý thức hệ” hay “hệ giá trị hay “hệ điều hành” của cả thời đại mà Kiều đang sống vậy!
+
+Chính vì vậy, xuyên suốt cuốn sách này, bên cạnh những ý kiến đại diện cho những giá trị phổ quát của nhân loại, bạn sẽ bắt gặp những câu chuyện rất riêng của những con người cá nhân rất đối bình thường như chúng ta. Tôi hy vọng rằng những “lát cắt” đó sẽ giúp độc giả của mình từ cái chung mà nhìn thấy cái riêng, cũng như từ cái riêng mà suy tưởng về cái chung, dù những “lát cắt” đó có thể còn ít ỏi và chưa đủ để đại diện cho tất cả thân phận trong xứ sở này.
+
+Tôi không kỳ vọng rằng cuốn sách này sẽ đưa ra được một “hệ điều hành” chuẩn mực mà các cá nhân, tổ chức hay xã hội có thể sử dụng và “cài đặt” cho mình để làm người, làm dân và làm việc, nhưng tôi mong rằng nó sẽ khiến mọi người suy nghĩ nà quan tâm đến vẫn đề này. Hoặc hạnh phúc hơn nữa, là nó sẽ giúp người đọc bắt đầu hình dung ra “khung sườn” của một “hệ điều hành”, bắt đầu tìm thấy một con đường, nhìn thấy một phương pháp để biết cách tự kiến tạo “hệ điều hành” của riêng mình, của gia đình mình, của tổ chức mình và cũng từ đó góp phần tạo nên xã hội mình.
+
+Bởi bạn biết đầy, hệ điều hành (hay ý thức hệ hay hệ giá trị) là điều gì đó rất thiêng liêng và hệ trọng. Nó như là một “ông chủ” thực sự của mỗi người, mỗi nhà, mỗi tổ chức và mỗi xứ sở vậy. Nó chính là hệ thống những quan niệm rõ ràng và thuyết phục về những vấn đề nền tảng, là lời đáp cho những câu hỏi lớn lao (chẳng hạn như: thế nào là con người, thế nào là công dân, thế nào là “đúng việc” trong các công việc và nghề nghiệp mà mình chọn, thế nào là thành công, thế nào là hạnh phúc, sống để làm gì, rốt cuộc ý nghĩa của đời ta nằm ở nơi đâu...?) mà mỗi người tự lựa chọn cho mình nhằm làm cơ sở cho mọi ước muốn của mình (dù lớn hay nhỏ), cũng như làm cơ sở cho việc hình thành các nguyên tắc và cách thức nhằm đạt được những ước muốn đó, đồng thời nó cũng chỉ phối mọi hành vi và thái độ của mình trong cả cuộc sống hàng ngày của mình.
+
+Có một điều nữa mà tôi không thể không chia sẻ trong lời kết của của cuốn sách này, đó là, hiểu được hay lựa chọn “hệ điều hành” đã là một việc rất khó, nhưng vẫn chưa phải là việc khó nhất. Tôi cho rằng điều khó hơn hết thảy không phải là chọn một thứ để tin, để đi theo; mà là thực sự sống với những giá trị đó và bảo gệ được những gì mình tin tưởng. Bởi hành trình cuộc đời không chỉ là hành trình không ngừng nghỉ khai phóng bản thân, đï †ìm chân lý, mà quan trọng hơn là hành trình sống pới những chân lý tìm ra.
+
+> *Chẳng hạn, khi ta tin rằng đích đến của cuộc đời là con người tự do, con người tự trị thì chỉ riêng việc hiểu được một cách thấu đáo thế nào là con người tự do, con người tự trị đã khó, nhưng sống được như mội con người tự do, con người tự trị còn khó hơn ngàn lần. Trong thực tế, không ít người dù rất hiểu và vô cùng trân quý những giá trị cơ bản của “tự dơ”, “tự tr, “nội trị... nhưng rốt cuộc nhiều khi vẫn sống khá là “nô lệ”, “ngoại trị”, “bị trị”...*
+
+Tuy nhiên, “Nếu bạn không sống nới những gì bạn tín tưởng (lioe tohat uou belieoe), rối cuộc bạn sẽ quay lại tín những gì bạn sống (belieue that uou lioe)”. Thật vậy, một người quen ngày trước của tôi từng tâm sự rằng, khi mới khởi sự kinh doanh, anh đọc gần trăm cuốn sách về quản trị kinh doanh và có thêm nhiều hiểu biết, niềm tin và sức mạnh, và hừng hực khí thế quyết tâm rằng nhất định mình sẽ sống được với những tỉnh thần và giá trị kinh doanh như thế, làm những điều ý nghĩa như thế. Nhưng rồi thời gian trôi đi, nhuệ khí đó trong anh mỗi ngày lại mai một dần. Và có những lúc anh hoang mang tự hỏi, phải chăng những gì mà anh đã đọc, đã dặn dò với chính mình ngày ấy chỉ như những khẩu hiểu đẹp treo trên tường, còn chính thực tế mà anh đang đối mặt hàng ngày và những “chiêu thức” giúp anh tồn tại trong thực tế đó mới là chân lý?
+
+Việc sống với những giá trị và giữ được đức tin của mình trong một xã hội bình thường đã khó như vậy, hãy thử tưởng tượng trong một xã hội mà cái sai đã tồn tại quá lâu đến mức trở thành cái phổ biến, và rồi cái phổ biến được đánh đồng thành cái đúng, thì việc “đi ngược gió” để bảo vệ lựa chọn của mình lại càng khó đến đâu?
+
+Nên điều thực sự quan trọng không hẳn là những gì được viết trong các trang sách, mà là những gì sẽ xảy ra sau khi ta gấp sách lại. Quan trọng là thế, nhưng khổ một nỗi là cũng chẳng có mấy cuốn sách nói cho ta biết ta nên làm gì sau khi gấp sách lại. Âu cũng là điều dễ hiểu, vì làm sao có ai có thể sống thay đời ta, đấu tranh giùm ta cho những lựa chọn rất riêng của ta?
+
+Dù vậy, tôi vẫn mong rằng đâu đó trong những trang sách này, bạn sẽ nhìn thấy câu chuyện của mình hoặc của những người quanh mình. Và câu chuyện nhỏ mang tên Đúng việc này của tôi sẽ có có ích cho bạn.
+
+Nhưng trên hết tôi mong bạn sẽ đón nhận nó với niềm tín vào “chuyện tử tế”: Tin rằng, gieo nhân “lành” sẽ gặp quả “ngọt, sống tốt thì những điều tốt đẹp sẽ đến với mình, nếu ta chăm chỉ, đàng hoàng và sống hết mình thì sẽ không bao giờ bị thiệt, nếu ta nỗ lực làm ra những điều tích cực thì đổi thay nhất định sẽ đến... Tin rằng, “Thay đối đến từ TÔI, chứ không quá trông chờ vào ai khác. Và quan trọng hơn nữa là, tin rằng, “Ta là sản phẩm của chính mình”; “hệ điều hành” hay “đạo sống” mà ta chọn chính là “ông chủ” của đời ta, cũng là nhà lãnh đạo vĩ đại hay đắng tối cao của ta. Nếu ta tự do và biết tự lựa chọn cho đời mình một “đạo sống” tốt và sống đúng với “đạo sống” đó, sống đúng với con người của mình thì cuộc đời đó mới có thể có hạnh phúc đích thực.
+
+Đó là tiền đề quan trọng của cuốn sách này mà nếu không có nó, tắt cả những điều được viết ra trong cuốn sách này sẽ là vô nghĩa. Nếu không có nó, có thể bạn cũng chẳng cần phải bận tâm đến câu chuyện của cuốn sách này, vì nó sẽ chẳng giúp ích cho bạn điều chi cả.
+
+Và nếu không có nó, có thể tôi đã không viết hay không thể viết cuốn sách này.
+
+Vì với tôi, đó cũng là tiền đề quan trọng nhất mà tôi đã lựa chọn cho cuộc đời mình!
+
+> *„. Biểu được một cách thấu đáo thể nào là con người tự do, con người tự trị đã khó, nhưng sống được như một con người tự do, con người tự trị*
+
+còn khó hơn ngàn lần...

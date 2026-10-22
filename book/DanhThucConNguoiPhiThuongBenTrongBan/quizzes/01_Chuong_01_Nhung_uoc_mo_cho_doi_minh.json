@@ -1,0 +1,188 @@
+{
+  "bookId": "DanhThucConNguoiPhiThuongBenTrongBan",
+  "chapterId": "01_Chuong_01_Nhung_uoc_mo_cho_doi_minh",
+  "chapterTitle": "Chương 1: Những ước mơ cho đời mình",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Anthony Robbins, nguyên nhân cốt lõi khiến đa số mọi người đánh mất ước mơ và không thể vươn lên thực hiện tiềm năng của mình là gì?",
+      "options": [
+        "Do điều kiện kinh tế xã hội luôn bất công",
+        "Thiếu hoàn toàn sự hỗ trợ từ gia đình bạn bè",
+        "Bị bao phủ bởi thất vọng và thói tầm thường",
+        "Bị giới hạn bởi trình độ học vấn thấp kém"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả chỉ rõ ước mơ bị bao phủ bởi thất vọng và những cái tầm thường của cuộc sống. Các phương án khác mang tính ngoại cảnh hoặc định kiến cá nhân, không phản ánh đúng bản chất tâm lý sâu xa được nêu trong chương."
+    },
+    {
+      "id": "q2",
+      "question": "Qua câu chuyện thực tế về chuyến trực thăng bay ngang tòa nhà từng làm gác cổng, Anthony Robbins muốn chứng minh điều gì về quá khứ?",
+      "options": [
+        "May mắn ngẫu nhiên quyết định toàn bộ quỹ đạo cuộc đời mỗi cá nhân",
+        "Sự giàu có vật chất là thước đo duy nhất của thành công đời người",
+        "Mọi thất bại và vô vọng quá khứ đặt nền móng cho hiểu biết mới",
+        "Chỉ khi thoát khỏi quê hương mới có thể đạt được thành công lớn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định mọi thất bại và vô vọng trong quá khứ đã thực sự đặt nền móng cho sự hiểu biết góp phần tạo nên cuộc sống mới. Điều này nhấn mạnh giá trị chuyển hóa của nghịch cảnh thay vì dựa vào may rủi hay vật chất thuần túy."
+    },
+    {
+      "id": "q3",
+      "question": "Khoảnh khắc quyết định nào được Anthony Robbins xem là bước ngoặt thực sự làm thay đổi hoàn toàn quỹ đạo cuộc đời ông từ tuyệt vọng sang làm chủ số mệnh?",
+      "options": [
+        "Quyết định từ bỏ công việc gác cổng để đi học đại học",
+        "Quyết định tập trung kiếm thật nhiều tiền để mua nhà lớn",
+        "Quyết định tham gia các khóa huấn luyện kỹ năng lãnh đạo",
+        "Quyết định không bao giờ hài lòng với mức dưới tiềm năng"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bước ngoặt cốt lõi là quyết định 'không bao giờ hài lòng với những gì ở dưới mức tiềm năng của mình'. Các phương án khác quá thiên về vật chất hoặc hình thức, đi ngược lại triết lý phát triển nội lực cốt lõi của tác giả."
+    },
+    {
+      "id": "q4",
+      "question": "Theo quan điểm của Anthony Robbins, bản chất đích thực của việc 'tập trung năng lượng' (điều khiển tập trung) giống như hiện tượng nào sau đây?",
+      "options": [
+        "Như tấm gương phản chiếu mọi cơ hội xuất hiện trước mặt",
+        "Như dòng nước chảy lan tỏa làm mát mọi thứ xung quanh",
+        "Như ngọn đèn cầy tỏa sáng dịu nhẹ trong không gian tối",
+        "Như tia lade có khả năng chọc thủng bất cứ vật cản nào"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả ví việc điều khiển tập trung giống như một tia lade có khả năng chọc thủng bất cứ vật cản nào ngăn chặn bạn. Các hình ảnh khác mô tả sự lan tỏa hoặc bị động, không tương đồng với sức mạnh xuyên thủng của sự tập trung cao độ."
+    },
+    {
+      "id": "q5",
+      "question": "Trong ba nguyên tắc thay đổi sơ đẳng để chuyển hóa chất lượng cuộc đời, bước đầu tiên mang tính quyết định là gì?",
+      "options": [
+        "Nâng cao các tiêu chuẩn đòi hỏi nơi chính bản thân mình",
+        "Xây dựng chiến lược tài chính dài hạn với chuyên gia",
+        "Thay đổi hoàn toàn môi trường sống và các mối quan hệ",
+        "Học hỏi kỹ năng quản lý thời gian hiệu quả mỗi ngày"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bước thứ nhất để tạo thay đổi lâu bền là nâng cao các tiêu chuẩn bằng cách viết ra những gì không còn chấp nhận và khát khao đạt tới. Các phương án khác là hệ quả hoặc chiến lược bổ trợ phía sau, không phải bước khởi đầu gốc rễ."
+    },
+    {
+      "id": "q6",
+      "question": "Điều gì sẽ xảy ra nếu một cá nhân nâng cao tiêu chuẩn sống nhưng lại thiếu đi hệ thống niềm tin vững chắc rằng mình có thể đạt được?",
+      "options": [
+        "Họ sẽ dễ dàng tìm ra chiến lược mới phù hợp với thực tế",
+        "Họ vẫn sẽ thành công nhờ sự nỗ lực chăm chỉ và kiên trì",
+        "Họ sẽ tự hủy diệt chính mình và thiếu hẳn động lực thử thách",
+        "Họ cảm thấy bình an hơn vì không bị áp lực thành công đè nặng"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả cảnh báo nếu nâng cao tiêu chuẩn mà không tin vào khả năng đạt được thì ta đang tự hủy diệt chính mình, không dám thử và thiếu niềm tin mở ra tiềm năng. Các phương án khác lạc quan sai lệch so với phân tích tâm lý học hành vi của sách."
+    },
+    {
+      "id": "q7",
+      "question": "Chiến lược tối ưu nhất được Anthony Robbins đề xuất để đạt được kết quả mong muốn một cách nhanh chóng và hiệu quả là gì?",
+      "options": [
+        "Đọc thật nhiều sách chuyên khảo về kinh tế và quản trị nhân sự",
+        "Tự mình mày mò thử nghiệm qua nhiều năm để rút ra kinh nghiệm",
+        "Tìm ra người đã đạt kết quả đó để học hỏi phương pháp và niềm tin",
+        "Thuê các huấn luyện viên chuyên nghiệp giám sát từng hành động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chiến lược tốt nhất là tìm ra một mẫu người đã đạt kết quả mong muốn, đi sâu vào hiểu biết, niềm tin và cách làm của họ để tiết kiệm thời gian. Việc tự mày mò mất thời gian, còn các phương án khác chưa bao quát bằng."
+    },
+    {
+      "id": "q8",
+      "question": "Khi bàn về lãnh vực 'Làm chủ cảm xúc', tác giả chỉ ra rằng động lực ẩn sau hầu như tất cả mọi hành động của con người là gì?",
+      "options": [
+        "Khao khát tích lũy của cải vật chất để khẳng định địa vị xã hội",
+        "Mong muốn thay đổi cách cảm nghĩ và trạng thái cảm xúc của mình",
+        "Nỗi sợ bị xã hội cô lập và không được công nhận năng lực bản thân",
+        "Ý thức trách nhiệm phải cống hiến cho cộng đồng và nhân loại"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh: 'Hầu như tất cả những gì chúng ta làm đều là thay đổi cách cảm nghĩ của chúng ta'. Các phương án khác chỉ là biểu hiện bề ngoài hoặc hệ quả của nhu cầu chuyển hóa cảm xúc sâu kín bên trong."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao Anthony Robbins lại khẳng định rằng việc có nhiều tiền chưa chắc đã giải quyết được áp lực, mà yếu tố cốt lõi là thái độ với tiền bạc?",
+      "options": [
+        "Tiền bạc chỉ mang lại giá trị tinh thần chứ không giải quyết sinh kế",
+        "Càng có nhiều tiền mà lệch lạc niềm tin thì càng chịu nhiều áp lực",
+        "Người giàu thường gặp nhiều rủi ro pháp lý hơn người bình thường",
+        "Tiền bạc làm tha hóa nhân cách con người nếu không được phân phát"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ rõ ảo tưởng văn hóa rằng càng có nhiều tiền càng giảm áp lực là sai, thực tế càng nhiều tiền mà sai niềm tin càng áp lực; tiền là phương tiện cống hiến chứ không phải mục đích tối hậu."
+    },
+    {
+      "id": "q10",
+      "question": "Trong lãnh vực 'Làm chủ thời giờ', tác giả đưa ra quy luật tâm lý phổ biến nào về năng lực ước tính của con người trong các mốc thời gian?",
+      "options": [
+        "Đánh giá quá cao thành tựu 1 năm và quá thấp thành tựu 1 thập niên",
+        "Đánh giá quá thấp khả năng trong ngắn hạn và quá cao trong dài hạn",
+        "Đánh giá chính xác mọi mục tiêu nếu có kế hoạch hành động cụ thể",
+        "Luôn xem trọng thời gian ngắn hạn hơn sự phát triển bền vững dài hạn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả đúc kết: 'rất nhiều người đánh giá quá cao những gì họ có thể đạt được trong một năm và đánh giá quá thấp những gì họ có thể đạt được trong một thập niên'. Các phương án khác không phản ánh đúng câu nói đắt giá này."
+    },
+    {
+      "id": "q11",
+      "question": "Theo triết lý của Anthony Robbins, thiên khiếu hoặc năng lực siêu phàm tiềm ẩn trong mỗi con người được xem xét như thế nào?",
+      "options": [
+        "Là sản phẩm ngẫu nhiên của môi trường giáo dục và điều kiện xã hội",
+        "Chỉ một số ít người may mắn sở hữu gen thông minh vượt trội từ khi sinh ra",
+        "Phải trải qua quá trình huấn luyện cực khổ từ nhỏ mới có thể hình thành",
+        "Tạo Hóa ban cho mỗi người một nét độc đáo và cơ hội hạnh phúc công bằng"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả tin rằng Tạo Hóa không thiên vị ai, dựng nên mỗi người với nét độc đáo và phú cho cơ hội đồng đều để sống hạnh phúc. Các phương án khác mang tính định mệnh sinh học hoặc môi trường luận bị loại trừ."
+    },
+    {
+      "id": "q12",
+      "question": "Sự khác biệt căn bản giữa những người xuất thân nghèo khổ mà thành công lớn với những người có điều kiện ưu đãi nhưng thất bại thảm hại nằm ở đâu?",
+      "options": [
+        "May mắn ngẫu nhiên trong kinh doanh và các mối quan hệ xã hội rộng",
+        "Cách họ định hướng tập trung năng lượng và hệ thống niềm tin bản thân",
+        "Sự hỗ trợ tài chính từ gia đình trong những giai đoạn khó khăn nhất",
+        "Trình độ học vấn cao hay thấp tại các trường đại học danh tiếng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự khác biệt cốt lõi đến từ cách tư duy, niềm tin và tập trung năng lượng đối diện nghịch cảnh, điều được tác giả đặt làm câu hỏi ám ảnh suốt đời. Các yếu tố vật chất hay học vấn không mang tính quyết định tuyệt đối."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao việc chỉ 'biết phải làm gì' thôi vẫn chưa đủ để tạo nên sự thay đổi chất lượng cuộc đời theo nhận định của Anthony Robbins?",
+      "options": [
+        "Vì tri thức không đi đôi với hành động quyết liệt thì vô giá trị",
+        "Vì kiến thức trong sách vở thường mâu thuẫn với thực tế xã hội",
+        "Vì con người thường bị chi phối bởi các yếu tố ngoại cảnh khách quan",
+        "Vì trí tuệ con người có giới hạn trong việc tiếp thu phương pháp mới"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh: 'Trên đời, có rất nhiều người biết phải làm gì, nhưng ít người thực sự làm điều họ biết. Biết thôi không đủ. Bạn cần phải có hành động.' Các phương án khác suy diễn lệch lạc bản chất hành động thực tiễn."
+    },
+    {
+      "id": "q14",
+      "question": "Trong 5 lãnh vực đời sống cần làm chủ, tại sao lãnh vực 'Làm chủ các mối quan hệ' lại được xem là mở toang cánh cửa cho mọi nguồn lực khác?",
+      "options": [
+        "Vì các mối quan hệ thương mại giúp gia tăng thu nhập tài chính nhanh nhất",
+        "Vì không ai muốn thành công một mình và quan hệ đem lại nguồn lực vô biên",
+        "Vì sức khỏe thể lý và cảm xúc phụ thuộc hoàn toàn vào sự công nhận xã hội",
+        "Vì mối quan hệ giúp che giấu những điểm yếu cá nhân trước cộng đồng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả khẳng định không ai muốn thành công một mình và nguồn lực lớn nhất chính là mối quan hệ vì nó mở toang cánh cửa cho mọi nguồn lực khác. Các phương án khác quá thiên về thực dụng kinh tế hoặc che đậy điểm yếu."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp cốt lõi cuối cùng mà Anthony Robbins muốn gửi gắm qua chương mở đầu về hành trình khám phá tiềm năng con người là gì?",
+      "options": [
+        "Biến tiềm năng sâu xa thành hiện thực để cống hiến giá trị cho đời",
+        "Tích lũy khối tài sản khổng lồ để đảm bảo an toàn tuổi già hưu trí",
+        "Trở thành nhà lãnh đạo có ảnh hưởng lớn trên phạm vi toàn cầu",
+        "Tìm kiếm sự bình an nội tâm bằng cách từ bỏ mọi tham vọng vật chất"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thông điệp cuối chương là biến tiềm năng sâu xa và đích thực thành hiện thực, xem cuộc đời là quà tặng để cống hiến lại cho đời những giá trị chất lượng hơn. Các phương án khác quá hẹp hoặc sai lệch với tinh thần nhân văn của sách."
+    }
+  ]
+}
