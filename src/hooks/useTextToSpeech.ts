@@ -60,8 +60,11 @@ export function normalizeVietnameseTextForSpeech(text: string): string {
 
   let cleaned = text;
 
-  // 1. Xóa các chú thích markdown footnotes, ví dụ [^1], [^note]
+  // 1. Xóa các chú thích markdown footnotes và HTML sup/sub (ví dụ [^1], [^note], <sup>25</sup>)
   cleaned = cleaned.replace(/\[\^[^\]]+\]/g, '');
+  cleaned = cleaned.replace(/<sup\b[^>]*>.*?<\/sup>/gi, '');
+  cleaned = cleaned.replace(/<sub\b[^>]*>.*?<\/sub>/gi, '');
+  cleaned = cleaned.replace(/<[^>]+>/g, ' ');
 
   // 2. Xóa các liên kết markdown [text](url) -> giữ lại text, xóa url trần
   cleaned = cleaned.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');

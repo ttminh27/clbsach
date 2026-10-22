@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import ReactMarkdown, { Components } from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
 import { useReaderSettings } from '../../context/ReaderSettingsContext';
 import { X, ZoomIn, Volume2, Copy, Check, Quote } from 'lucide-react';
 import { copyToClipboard } from '../../utils/clipboard';
@@ -508,16 +509,34 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
                 resolvedSrc = `/books/${bookId}/${imgPath}`;
               }
 
+              const isIcon =
+                resolvedSrc.includes('icon_') ||
+                resolvedSrc.includes('bullet') ||
+                alt?.toLowerCase() === 'icon' ||
+                alt?.toLowerCase().startsWith('icon ');
+
+              if (isIcon) {
+                return (
+                  <img
+                    src={resolvedSrc}
+                    alt={alt || ''}
+                    className="inline-block h-5 w-5 align-middle mx-1 object-contain"
+                    decoding="async"
+                    {...props}
+                  />
+                );
+              }
+
               return (
                 <figure className="my-8 flex flex-col items-center">
                   <div
                     onClick={() => setZoomImage({ src: resolvedSrc, alt: alt || 'Minh họa' })}
-                    className="group relative cursor-zoom-in overflow-hidden rounded-2xl bg-slate-100 dark:bg-slate-800 shadow-md border border-slate-200/80 dark:border-slate-800 hover:border-emerald-500/50 hover:shadow-lg transition-all duration-200 min-h-[140px] flex items-center justify-center"
+                    className="group relative cursor-zoom-in overflow-hidden rounded-2xl bg-white dark:bg-slate-900/90 shadow-md border border-slate-200/80 dark:border-slate-800 hover:border-emerald-500/50 hover:shadow-lg transition-all duration-200 min-h-[140px] flex items-center justify-center p-2"
                   >
                     <img
                       src={resolvedSrc}
                       alt={alt || ''}
-                      className="max-h-[500px] w-auto object-contain"
+                      className="max-h-[500px] w-auto object-contain rounded-xl"
                       decoding="async"
                       {...props}
                     />
@@ -652,6 +671,25 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
                 </a>
               );
             },
+            // Custom Superscript for footnotes & citations
+            sup: ({ node, children, ...props }) => (
+              <sup
+                className="text-[0.7em] font-semibold text-emerald-600 dark:text-emerald-400 align-super ml-0.5 px-0.5 select-text hover:underline cursor-help"
+                title={`Chú thích / Tài liệu tham khảo ${children}`}
+                {...props}
+              >
+                {children}
+              </sup>
+            ),
+            // Custom Subscript
+            sub: ({ node, children, ...props }) => (
+              <sub
+                className="text-[0.7em] text-slate-600 dark:text-slate-400 align-sub ml-0.5 px-0.5 select-text"
+                {...props}
+              >
+                {children}
+              </sub>
+            ),
     };
   }, [bookId, currentTTSIndex, isTTSSpeaking, onReadFromIndex, onCopied, navigate]);
 
@@ -680,6 +718,7 @@ const MarkdownViewerComponent: React.FC<MarkdownViewerProps> = ({
         {(() => { blockIndexRef.current = 0; return null; })()}
         <ReactMarkdown
           remarkPlugins={[remarkGfm]}
+          rehypePlugins={[rehypeRaw]}
           components={components}
         >
           {content}

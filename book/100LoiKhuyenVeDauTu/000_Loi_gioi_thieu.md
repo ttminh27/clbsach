@@ -1,0 +1,13 @@
+# LỜI GIỚI THIỆU
+
+*[Ebook miễn phí tại : www.Sachvui.Com](http://sachvui.com/)*
+
+Tôi đã ấp ủ mong muốn được viết cuốn sách này trong nhiều năm ròng.
+
+Ai đã từng theo dõi sự nghiệp của tôi đều biết các chiến lược bất động sản mà tôi sử dụng. (Và nếu chưa từng biết đến sự nghiệp của tôi thì bây giờ chính là lúc theo dõi các chương trình về tôi trên ti vi hay mua một trong những cuốn sách tôi đã viết)
+
+Mặc dù rất thành công nhưng công việc kinh doanh bất động sản của tôi không bao gồm tất cả các mặt của lĩnh vực này. Những gì tôi biết thì tôi nắm rất chắc, nhưng, tôi không có ý độc quyền về các ý tưởng và sự khôn ngoan trong kinh doanh bất động sản. Tôi không thể biết hết mọi thứ. Đúng như Susan Penzer nhận xét, điều làm nên thành công của tôi chính là “khả năng thu thập những thông tin tốt nhất từ những người thông minh nhất.” Susan đã đưa ra nhận xét này sau khi theo dõi cách tôi thực hiện các hoạt động kinh doanh. Và nhận xét đó cũng đúng với những gì tôi thực hiện trong cuốn sách này, đó là thu thập những thông tin hay nhất từ những người thông minh nhất trong lĩnh vực bất động sản. Họ chia sẻ những kinh nghiệm và những bài học mà họ đã học được từ người khác cũng như từ những sai lầm họ đã mắc. Lời Khuyên Hay Nhất Trong Kinh Doanh Bất Động Sản Mà Tôi Nhận Được chính là tập hợp những lời khuyên khôn ngoan sáng suốt của 100 nhà kinh doanh bất động sản hàng đầu. Đây là loại thông tin và sự khôn ngoan mà bạn chỉ có thể nhận được từ kinh nghiệm sống.
+
+Trong cuốn sách này, bạn sẽ thấy sự sáng suốt khác thường có được là nhờ vào những kinh nghiệm và bài học mà những nhân vật có thế lực trong kinh doanh bất động sản trên khắp nước Mỹ phải trải bao khó khăn mới rút ra được. Có rất nhiều điều mà lẽ ra tất cả chúng ta đã có thể làm tốt hơn: từ việc bỏ lỡ cơ hội, dự đoán sai về thị trường đến việc thương lượng quá cao hoặc quá thấp. Những nhà kinh doanh này - cả nam lẫn nữ - sẽ kể cho bạn biết họ đã học được gì.
+
+Trong số những người đóng góp cho cuốn sách này, có người là bạn tôi, cũng có người tôi chưa từng gặp mặt, dù tôi luôn ngưỡng mộ họ từ xa. Cuốn sách này là bản tóm tắt hoàn hảo nhất những lời khuyên trong kinh doanh bất động sản được thu thập từ trước tới nay. Và tôi cho rằng nó đã hoàn tất sứ mệnh của mình: cung cấp cho bạn những lời khuyên bổ ích, giúp bạn lập kế hoạch để chính mình thành công trong lĩnh vực bất động sản. Dù bạn mua hay bán nhà của bạn, nhà tập thể hoặc trả góp; dù bạn đang hoạt động hay mới bước chân vào lĩnh vực kinh doanh bất động sản, tôi nghĩ rằng bạn sẽ học được rất nhiều từ cuốn sách này - Lời Khuyên Hay Nhất Trong Kinh Doanh Bất Động Sản Mà Tôi Nhận Được.

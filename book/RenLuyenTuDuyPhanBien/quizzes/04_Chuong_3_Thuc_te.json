@@ -1,0 +1,188 @@
+{
+  "bookId": "RenLuyenTuDuyPhanBien",
+  "chapterId": "04_Chuong_3_Thuc_te",
+  "chapterTitle": "Chương 3: Thực tế",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo chương 3, \"Thực tế\", điều nào sau đây mô tả chính xác nhất bản chất của thực tế theo quan điểm của tác giả?",
+      "options": [
+        "Thực tế là một cấu trúc khách quan, độc lập với bộ não, được chúng ta nhận thức một cách trực tiếp.",
+        "Thực tế là tổng hòa của những trải nghiệm cảm giác mà chúng ta có được, không liên quan đến quá trình lọc thông tin.",
+        "Thực tế là một ảo giác được bộ não tạo ra bằng cách lọc và diễn giải dữ liệu tiếp nhận từ thế giới bên ngoài.",
+        "Thực tế là một tập hợp các sự kiện và hiện tượng vật lý tồn tại mà bộ não chỉ đơn thuần ghi nhận lại."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn văn khẳng định \"thực tế thực ra cũng chỉ là một ảo giác. Não chúng ta xây dựng thực tế dựa trên những dữ liệu não tiếp nhận, nhưng điều này cũng bao gồm việc lọc rất nhiều thông tin\". Điều này cho thấy thực tế là một cấu trúc chủ quan do não bộ tạo ra thông qua quá trình lọc và diễn giải."
+    },
+    {
+      "id": "q2",
+      "question": "Ví dụ về việc thay kem đánh răng bằng kem bôi chân minh họa điều gì về quá trình ra quyết định của bộ não?",
+      "options": [
+        "Tân vỏ não luôn chiến thắng phần não nguyên sơ trong các tình huống đòi hỏi sự lý trí và đạo đức.",
+        "Phần não nguyên sơ chỉ thúc đẩy hành vi trả thù, còn tân vỏ não hoàn toàn kiểm soát hành động cuối cùng.",
+        "Quyết định được đưa ra một cách vô thức bởi não nguyên sơ, sau đó tân vỏ não hợp lý hóa hành động đó.",
+        "Sự mâu thuẫn giữa các phần não luôn dẫn đến việc không thực hiện hành động ban đầu do lý trí ngăn cản."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn văn mô tả rằng nếu phần não nguyên sơ thắng thế (thúc đẩy trả thù), tân vỏ não sẽ hợp lý hóa hành động đó bằng những suy nghĩ như “Họ xứng đáng phải chịu thế!”. Điều này cho thấy quyết định có thể được đưa ra vô thức bởi phần não nguyên sơ, sau đó tân vỏ não mới tìm cách biện minh."
+    },
+    {
+      "id": "q3",
+      "question": "Nghiên cứu năm 2008 sử dụng máy fMRI về quá trình ra quyết định đã tiết lộ điều gì quan trọng về ý thức của con người?",
+      "options": [
+        "Con người luôn đưa ra quyết định một cách có ý thức và lý trí, không có sự can thiệp của các yếu tố vô thức.",
+        "Não bộ đưa ra các tín hiệu quyết định trước khi chúng ta nhận thức được mình đã quyết định, cho thấy vai trò của vô thức.",
+        "Vỏ não trước là phần duy nhất chịu trách nhiệm cho mọi quyết định có ý thức của con người trong mọi tình huống.",
+        "Khả năng dự đoán quyết định của con người dựa trên hoạt động não bộ là 100% chính xác, không có sai số."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nghiên cứu năm 2008 chỉ ra rằng \"não chúng ta đưa ra các tín hiệu ra quyết định qua các dây thần kinh 10 giây trước khi chúng ta nhận ra rằng mình đã đưa ra quyết định\". Điều này nhấn mạnh rằng quá trình ra quyết định có một phần vô thức đáng kể trước khi chúng ta ý thức được."
+    },
+    {
+      "id": "q4",
+      "question": "Trực giác, theo tác giả, không phải là một quá trình suy nghĩ lý trí thuần túy mà là kết quả của điều gì?",
+      "options": [
+        "Một khả năng bẩm sinh, siêu nhiên giúp con người dự đoán tương lai mà không cần dữ liệu.",
+        "Phản ứng ngẫu nhiên của bộ não khi đối mặt với thông tin mới, không có cơ sở khoa học rõ ràng.",
+        "Một dạng suy luận logic cực nhanh mà bộ não thực hiện, nhưng không thể giải thích bằng lời.",
+        "Sự tổng hợp vô thức của cảm xúc, tín hiệu phi ngôn ngữ và nhận thức về phản ứng của chính mình."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả giải thích trực giác \"là kết quả của chức năng vô thức của não như xử lý cảm xúc, giải thích các tín hiệu xã hội phi ngôn ngữ và nhận thức của chúng ta về phản ứng của chính mình\", chứ không phải là một khả năng siêu nhiên hay suy luận logic có ý thức."
+    },
+    {
+      "id": "q5",
+      "question": "Thí nghiệm của Sowden và Catmur sử dụng TMS để chặn ngã ba thái dương phải đã cho thấy điều gì về khả năng ra quyết định đạo đức?",
+      "options": [
+        "Một phần não cụ thể có vai trò thiết yếu trong việc nhận biết ý định và ảnh hưởng đến đánh giá đạo đức.",
+        "Việc chặn ngã ba thái dương phải làm tăng khả năng đưa ra quyết định đạo đức một cách khách quan.",
+        "Khả năng nhận ra ý định của người khác không liên quan đến việc đưa ra các đánh giá đạo đức.",
+        "Quyết định đạo đức hoàn toàn dựa vào lý trí có ý thức và không bị ảnh hưởng bởi các yếu tố vật lý của não."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thí nghiệm cho thấy việc chặn ngã ba thái dương phải, phần não có chức năng nhận ra ý định của người khác, đã ảnh hưởng tiêu cực đến khả năng đưa ra quyết định đạo đức. Điều này chứng tỏ một phần não cụ thể có vai trò thiết yếu trong quá trình này."
+    },
+    {
+      "id": "q6",
+      "question": "Phát hiện chính từ thí nghiệm \"tách não\" của Sperry và Myers là gì, liên quan đến chức năng của các bán cầu não?",
+      "options": [
+        "Mỗi bán cầu não có thể điều khiển các chức năng khác nhau và hoạt động độc lập khi bị tách rời.",
+        "Hai bán cầu não luôn hoạt động đồng bộ và chia sẻ thông tin một cách liền mạch trong mọi tình huống.",
+        "Bán cầu não phải chịu trách nhiệm chính về ngôn ngữ và khả năng suy luận logic phức tạp.",
+        "Việc tách não không ảnh hưởng đáng kể đến khả năng nhận thức và xử lý thông tin của bệnh nhân."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sperry và Myers đã phát hiện ra rằng trong một bộ não bị tách, \"những hành vi được điều khiển bởi một bán cầu não không được truyền sang bán cầu còn lại. Thay vào đó, mỗi bán cầu hoạt động một cách độc lập\", cho thấy sự chuyên biệt và độc lập của từng bán cầu."
+    },
+    {
+      "id": "q7",
+      "question": "Hiện tượng \"hội chứng chân tay ngoài hành tinh\" và \"chi giả\" cho thấy điều gì về cảm giác sở hữu cơ thể của chúng ta?",
+      "options": [
+        "Não bộ có khả năng tạo ra cảm giác sở hữu cơ thể thông qua tương tác phức tạp giữa xung não và cơ bắp.",
+        "Cảm giác sở hữu cơ thể là một bản năng bẩm sinh không thể bị thay đổi bởi tổn thương não bộ.",
+        "Những cảm giác này chỉ xuất hiện ở những người có vấn đề về tâm lý, không liên quan đến sinh lý não bộ.",
+        "Cảm giác sở hữu cơ thể hoàn toàn phụ thuộc vào sự hiện diện vật lý của các chi, không liên quan đến não."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đoạn văn nêu rõ \"Cảm giác 'sở hữu' cơ thể mình... cũng được tạo nên bởi sự tương tác hài hòa giữa những xung não và khả năng làm theo những chỉ dẫn từ não của cơ bắp\". Các hiện tượng trên là minh chứng cho việc não bộ tạo ra cảm giác này và nó có thể bị gián đoạn."
+    },
+    {
+      "id": "q8",
+      "question": "Theo tác giả, \"hiệu ứng vô thức\" (automatism) như việc đi bộ đến cửa hàng mà không nhớ, nên được hiểu như thế nào?",
+      "options": [
+        "Đây là một hiện tượng siêu nhiên, chứng tỏ sự tồn tại của các linh hồn hoặc thế lực bên ngoài cơ thể.",
+        "Là khả năng tự nhiên của não bộ trong việc tách biệt chức năng vận động thành các quá trình tiềm thức.",
+        "Một dấu hiệu của sự mất tập trung nghiêm trọng, cần được điều trị y tế ngay lập tức.",
+        "Biểu hiện của việc bộ não đang bị quá tải thông tin, dẫn đến việc bỏ qua các chi tiết quan trọng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả khẳng định \"hiệu ứng này hoàn toàn là tự nhiên, và là kết quả từ khả năng ngăn cách chức năng vận động thành những quá trình tiềm thức của não bộ\", bác bỏ các giải thích siêu nhiên hoặc bệnh lý."
+    },
+    {
+      "id": "q9",
+      "question": "Ma túy và rượu ảnh hưởng đến tình trạng nhận thức bằng cách nào, theo nội dung chương sách?",
+      "options": [
+        "Chúng kích thích toàn bộ các vùng não, làm tăng cường khả năng tư duy phản biện và ra quyết định.",
+        "Chúng chỉ tác động đến các giác quan bên ngoài, không ảnh hưởng đến các chức năng nhận thức sâu bên trong não bộ.",
+        "Chúng làm suy nhược các phần nhất định của bộ não, đặc biệt là thùy trán, ảnh hưởng đến ức chế và quyết định.",
+        "Chúng tạo ra một trạng thái nhận thức siêu phàm, giúp con người đưa ra những quyết định sáng suốt hơn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn văn giải thích rằng ma túy và rượu \"làm suy nhược một vài phần nhất định của bộ não, đặc biệt là thùy trán (có liên quan đến ức chế và việc đưa ra quyết định)\", dẫn đến suy giảm đánh giá và kỹ năng xã hội."
+    },
+    {
+      "id": "q10",
+      "question": "Tác giả so sánh trạng thái bị thôi miên với việc chấp nhận một nhà lãnh đạo cuồng tín để làm nổi bật điểm chung nào?",
+      "options": [
+        "Cả hai đều là những trạng thái nhận thức có ý thức cao, giúp tăng cường khả năng phân tích logic.",
+        "Cả hai đều liên quan đến việc \"tắt đi\" tư duy phản biện để nhường chỗ cho các phản ứng vật lý hoặc chấp nhận thông tin.",
+        "Cả hai đều là những hiện tượng hiếm gặp, chỉ xảy ra ở những người có ý chí yếu kém và dễ bị thao túng.",
+        "Cả hai đều là những phương pháp hiệu quả để rèn luyện khả năng kiểm soát tâm trí và tăng cường sự tự chủ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ ra rằng trong cả hai trường hợp, \"tư duy phản biện của họ bị 'tắt đi' bởi não để nhường chỗ cho những phản ứng vật lý\", cho thấy sự đình chỉ khả năng phân tích logic và chấp nhận thông tin một cách vô điều kiện."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao con người thường gặp khó khăn khi cố gắng thay đổi sở thích hoặc kiềm chế bản thân một cách chủ định, theo tác giả?",
+      "options": [
+        "Bởi vì con người vốn dĩ không có khả năng tự chủ, và mọi quyết định đều là ngẫu nhiên không thể thay đổi.",
+        "Bởi vì thùy trán, nơi điều khiển quyết định, luôn hoạt động quá mức và không thể bị kiểm soát bởi ý chí.",
+        "Bởi vì bộ não là một cơ quan vật lý tuân theo các quá trình hóa học, khó điều chỉnh cân bằng hóa học và mong muốn.",
+        "Bởi vì việc thay đổi sở thích đòi hỏi một lượng lớn năng lượng thể chất, không phải năng lượng tinh thần."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn văn giải thích rằng \"Não là một cơ quan hữu hình, và do đó nó phải tuân theo những quá trình hóa học mà nó tạo ra... não chúng ta gặp khó khăn trong việc điều chỉnh những cân bằng hóa học và mong muốn của chúng ta\", dẫn đến việc khó kiềm chế bản thân."
+    },
+    {
+      "id": "q12",
+      "question": "Mặc dù bộ não có những cạm bẫy và điểm yếu, tác giả vẫn khẳng định khả năng tự đưa ra quyết định của con người thông qua điều gì?",
+      "options": [
+        "Hoàn toàn phó mặc cho bản năng và trực giác, vì chúng luôn dẫn đến những lựa chọn tối ưu nhất.",
+        "Chấp nhận rằng con người không thể thay đổi thói quen và mong muốn của mình, vì chúng đã được định sẵn.",
+        "Cố gắng thay đổi cấu trúc vật lý của não bộ một cách trực tiếp thông qua các phương pháp y học tiên tiến.",
+        "Nâng cao nhận thức về các điểm yếu của não và sử dụng tư duy phản biện để thay đổi hành vi và suy nghĩ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả nhấn mạnh \"nhận thức được những cạm bẫy và điểm yếu của não sẽ giúp chúng ta dễ dàng đi qua quá trình tư duy phản biện\" và \"Chúng ta có thể thay đổi thói quen bằng cách thay đổi hành vi và suy nghĩ, bởi vì làm vậy sẽ thay đổi não bạn dần dần. Tư duy phản biện là một trong những công cụ cơ bản giúp bạn có thể thay đổi hành vi của mình.\""
+    },
+    {
+      "id": "q13",
+      "question": "Khái niệm \"thực tế cũng chỉ là một ảo giác\" mà tác giả đề cập có ý nghĩa sâu sắc nhất là gì đối với tư duy phản biện?",
+      "options": [
+        "Nhận thức của chúng ta về thế giới là chủ quan và bị lọc, đòi hỏi phải luôn đặt câu hỏi và kiểm tra thông tin.",
+        "Mọi thứ chúng ta trải nghiệm đều không có thật, do đó không cần phải tin tưởng vào bất kỳ thông tin nào.",
+        "Con người không thể phân biệt được giữa sự thật và hư cấu, nên việc rèn luyện tư duy phản biện là vô ích.",
+        "Thực tế khách quan không tồn tại, vì vậy mọi quan điểm đều có giá trị như nhau và không cần đánh giá."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nếu thực tế là một ảo giác do não bộ tạo ra bằng cách lọc thông tin, điều đó có nghĩa là nhận thức của chúng ta về thế giới là chủ quan và không hoàn chỉnh. Điều này đòi hỏi chúng ta phải luôn đặt câu hỏi, phân tích và kiểm tra thông tin để tránh những thiên kiến và hiểu lầm do quá trình lọc của não gây ra."
+    },
+    {
+      "id": "q14",
+      "question": "Vai trò của dopamine trong quá trình ra quyết định, như được mô tả trong chương, là gì?",
+      "options": [
+        "Dopamine là chất dẫn truyền thần kinh giúp bộ não đưa ra những quyết định hoàn toàn lý trí và khách quan.",
+        "Dopamine là nguyên nhân chính khiến chúng ta do dự và không thể đưa ra quyết định một cách dứt khoát.",
+        "Dopamine chỉ được sản xuất khi chúng ta đưa ra một quyết định sai lầm, nhằm cảnh báo bộ não về nguy hiểm.",
+        "Dopamine được tiết ra để tạo cảm giác thoải mái, củng cố sự chấp nhận của chúng ta đối với quyết định đã đưa ra."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả giải thích rằng \"Một khi não của bạn quyết định đi theo hướng nào, nó sẽ tiết ra dopamine dẫn truyền thần kinh để làm bạn cảm thấy thoải mái với sự thật rằng bạn đã đưa ra quyết định đó\". Điều này cho thấy dopamine có vai trò củng cố cảm giác hài lòng với quyết định."
+    },
+    {
+      "id": "q15",
+      "question": "Theo tác giả, việc tư duy phản biện của con người bị \"tắt đi\" khi đối mặt với một nhà lãnh đạo lôi cuốn là một phản ứng như thế nào?",
+      "options": [
+        "Một dấu hiệu của sự thiếu hụt trí tuệ bẩm sinh, khiến con người dễ bị lừa dối và thao túng.",
+        "Một phản ứng đã tiến hóa của não bộ, nhường chỗ cho các phản ứng vật lý thay vì phân tích logic.",
+        "Một hành vi có ý thức nhằm thể hiện sự tôn trọng và tuân thủ tuyệt đối đối với người lãnh đạo.",
+        "Một trạng thái tâm lý tạm thời không có cơ sở sinh học, chỉ xảy ra trong các tình huống xã hội nhất định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả mô tả đây là \"một phản ứng đã tiến hóa; khi mọi người hoặc là bị thôi miên, hoặc là đối mặt trước một nhà lãnh đạo lôi cuốn, tư duy phản biện của họ bị 'tắt đi' bởi não để nhường chỗ cho những phản ứng vật lý\". Đây là một cơ chế sinh học chứ không phải thiếu trí tuệ hay hành vi có ý thức."
+    }
+  ]
+}

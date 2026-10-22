@@ -1,0 +1,188 @@
+{
+  "bookId": "RenThoiQuenTuDuyPhanBien",
+  "chapterId": "00_gioi_thieu",
+  "chapterTitle": "00. Giới thiệu & Thông tin xuất bản",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo lời giới thiệu, kỹ năng tư duy phản biện được đánh giá cao hơn bằng đại học trong thế giới hiện đại chủ yếu vì lý do nào?",
+      "options": [
+        "Nó giúp cá nhân dễ dàng tìm được việc làm tốt hơn trong thị trường cạnh tranh.",
+        "Nó trang bị khả năng phân tích thông tin phức tạp, đưa ra quyết định độc lập và tránh bị thao túng.",
+        "Nó là nền tảng để đạt được thành công trong mọi lĩnh vực học thuật và nghiên cứu khoa học.",
+        "Nó cho phép con người tiếp cận các nguồn tài nguyên tri thức độc quyền và quý giá."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lời giới thiệu nhấn mạnh rằng tư duy phản biện là kỹ năng cơ bản ngày càng quan trọng để đối phó với thế giới tràn ngập thông tin và cạm bẫy, giúp phân biệt sự thật từ hư cấu và đưa ra quyết định đúng đắn, độc lập. Điều này vượt xa giá trị của một bằng cấp đơn thuần trong việc định hình khả năng sống và làm việc hiệu quả."
+    },
+    {
+      "id": "q2",
+      "question": "Tác giả cho rằng hệ thống giáo dục truyền thống thiếu sót trong việc dạy tư duy phản biện đã dẫn đến hệ quả tiêu cực nào cho đa số chúng ta?",
+      "options": [
+        "Thiếu hụt kiến thức chuyên môn sâu rộng trong các lĩnh vực cụ thể của cuộc sống.",
+        "Khó khăn trong việc ghi nhớ thông tin và áp dụng các công thức phức tạp vào thực tế.",
+        "Không có khả năng giao tiếp hiệu quả và xây dựng các mối quan hệ xã hội bền vững.",
+        "Dễ dàng đưa ra các quyết định sai lầm, đi theo đám đông và không phát huy hết tiềm năng bản thân."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đoạn văn chỉ rõ rằng việc hệ thống giáo dục không dạy tư duy phản biện là lý do khiến 'hầu hết chúng ta đưa ra các quyết định sai lầm, nhiều khi đi theo đám đông, đầu tư theo xu hướng và hành động theo phong trào dẫn đến thất bại' và 'không bao giờ phát huy hết tiềm năng của mình'."
+    },
+    {
+      "id": "q3",
+      "question": "Mục đích cốt lõi mà Alpha Books mong muốn đạt được thông qua việc giới thiệu bộ sách về tư duy phản biện là gì?",
+      "options": [
+        "Cung cấp một thư viện phong phú các lý thuyết triết học và định nghĩa học thuật về tư duy.",
+        "Khuyến khích việc đọc sách và nâng cao văn hóa đọc trong cộng đồng người Việt Nam.",
+        "Giúp độc giả trở thành những người có tư duy độc lập và đưa ra các quyết định thông minh trong cuộc sống.",
+        "Phổ biến các phương pháp học tập hiệu quả để đạt được thành tích cao trong học vấn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Alpha Books khẳng định mục đích của họ là 'cách thức trở thành một người có tư duy độc lập và đưa ra các quyết định thông minh', qua đó giúp độc giả 'xây dựng những lập luận vững chắc hơn, đưa ra các quyết định tự tin hơn và phát hiện ra những lỗi logic trong cuộc sống'."
+    },
+    {
+      "id": "q4",
+      "question": "Câu nói 'Những người không ngừng học tập sẽ tiếp tục phát triển và thành công' liên hệ thế nào với triết lý của tư duy phản biện trong bối cảnh hiện đại?",
+      "options": [
+        "Tư duy phản biện là một kỹ năng tĩnh, chỉ cần học một lần là có thể áp dụng mãi mãi.",
+        "Việc học tập liên tục giúp củng cố và thích nghi tư duy phản biện với những thách thức mới.",
+        "Tư duy phản biện chỉ có giá trị trong môi trường học thuật, không cần thiết cho cuộc sống hàng ngày.",
+        "Thành công chỉ đến từ việc tích lũy kiến thức mà không cần đến khả năng phân tích."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong một thế giới 'tràn ngập thông tin và đầy cạm bẫy', tư duy phản biện không phải là một kỹ năng cố định mà cần được mài giũa và cập nhật liên tục. Việc không ngừng học tập giúp cá nhân phát triển khả năng phân tích, đánh giá thông tin mới và thích nghi với các tình huống phức tạp, từ đó củng cố tư duy phản biện."
+    },
+    {
+      "id": "q5",
+      "question": "Khi tác giả nói 'dành ra một chút thời gian để xây dựng các thói quen tư duy phản biện tốt, bạn sẽ giải phóng được thời gian để làm những điều mà bạn mong muốn', ý nghĩa sâu xa của việc 'giải phóng thời gian' là gì?",
+      "options": [
+        "Tối ưu hóa quá trình ra quyết định, tránh lãng phí thời gian vào lựa chọn sai lầm và hậu quả.",
+        "Giảm bớt số lượng công việc cần thực hiện hàng ngày bằng cách ủy quyền cho người khác.",
+        "Có thêm thời gian rảnh rỗi để thư giãn và tận hưởng các hoạt động giải trí cá nhân.",
+        "Loại bỏ hoàn toàn nhu cầu suy nghĩ sâu sắc về các vấn đề phức tạp trong cuộc sống."
+      ],
+      "correctIndex": 0,
+      "explanation": "Việc xây dựng thói quen tư duy phản biện tốt giúp cá nhân đưa ra các quyết định đúng đắn và thông minh hơn ngay từ đầu. Điều này giúp tránh được những sai lầm, những lựa chọn kém hiệu quả và những hậu quả tiêu cực, từ đó tiết kiệm thời gian và năng lượng đáng kể mà lẽ ra phải dùng để khắc phục hoặc đối phó với chúng."
+    },
+    {
+      "id": "q6",
+      "question": "Trong một xã hội 'tràn ngập thông tin và đầy cạm bẫy như ngày nay', thách thức lớn nhất mà tư duy phản biện giúp giải quyết là gì?",
+      "options": [
+        "Phân biệt giữa sự thật và hư cấu, thông tin sai lệch, lừa dối và ngụy biện một cách hiệu quả.",
+        "Khả năng tiếp cận các nguồn thông tin chính thống và đáng tin cậy một cách dễ dàng.",
+        "Tốc độ đọc và xử lý lượng lớn dữ liệu để nắm bắt nội dung một cách nhanh chóng.",
+        "Khả năng ghi nhớ tất cả các chi tiết và sự kiện quan trọng từ các nguồn khác nhau."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đoạn văn nêu rõ rằng trong xã hội hiện đại, tư duy phản biện là cần thiết để 'phân biệt sự thật từ hư cấu, từ những lừa dối và ngụy biện'. Đây là thách thức cốt lõi khi đối mặt với lượng thông tin khổng lồ và đa dạng."
+    },
+    {
+      "id": "q7",
+      "question": "Lời khuyên 'Lý do bạn nên nghi ngờ bất cứ ai trích dẫn một nhân vật có thẩm quyền' ám chỉ nguyên tắc quan trọng nào trong tư duy phản biện?",
+      "options": [
+        "Mọi nhân vật có thẩm quyền đều không đáng tin cậy và luôn đưa ra thông tin sai lệch.",
+        "Cần phải phân tích và đánh giá độc lập các lập luận, không chấp nhận mù quáng chỉ vì nguồn gốc.",
+        "Chỉ nên tin tưởng vào những thông tin được xác nhận bởi nhiều chuyên gia khác nhau.",
+        "Việc nghi ngờ là biểu hiện của sự thiếu tôn trọng đối với những người có kinh nghiệm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nguyên tắc này không có nghĩa là bác bỏ mọi thẩm quyền, mà là khuyến khích tư duy độc lập. Nó nhắc nhở rằng ngay cả những người có thẩm quyền cũng có thể mắc sai lầm hoặc có định kiến, do đó cần phải tự mình đánh giá tính hợp lý và bằng chứng của lập luận, thay vì chấp nhận nó một cách thụ động."
+    },
+    {
+      "id": "q8",
+      "question": "Khi bộ sách đề cập đến việc 'tối ưu hóa 8 đặc điểm tư duy phản biện bạn đã có', điều này ngụ ý gì về bản chất của kỹ năng tư duy phản biện?",
+      "options": [
+        "Tư duy phản biện là một tập hợp các kỹ năng hoàn toàn mới mà mỗi người cần phải học từ đầu.",
+        "Mục tiêu là loại bỏ những đặc điểm tư duy không hiệu quả để thay thế bằng những cái mới.",
+        "Nó liên quan đến việc nhận diện, mài giũa và áp dụng hiệu quả hơn các năng lực tư duy vốn có.",
+        "Chỉ những người có năng khiếu bẩm sinh mới có thể phát triển được tư duy phản biện mạnh mẽ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc 'tối ưu hóa' các đặc điểm đã có nghĩa là tư duy phản biện không phải là việc học một điều gì đó hoàn toàn xa lạ, mà là phát triển và sử dụng hiệu quả hơn những khả năng phân tích, đánh giá và suy luận mà mỗi người đã sở hữu ở một mức độ nào đó. Nó là quá trình mài giũa và áp dụng có ý thức."
+    },
+    {
+      "id": "q9",
+      "question": "Tư duy phản biện giúp cá nhân đưa ra 'các quyết định đúng đắn hơn, thông minh hơn' trong cuộc sống cá nhân và nghề nghiệp bằng cách nào?",
+      "options": [
+        "Cung cấp sẵn các giải pháp cho mọi vấn đề phức tạp mà không cần suy nghĩ thêm.",
+        "Đơn giản hóa mọi tình huống để việc lựa chọn trở nên dễ dàng và ít rủi ro hơn.",
+        "Tăng cường sự tự tin mù quáng vào bản năng cá nhân khi đối mặt với các quyết định quan trọng.",
+        "Nâng cao khả năng phân tích, đánh giá thông tin và suy luận logic để đưa ra lựa chọn có căn cứ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tư duy phản biện là một quá trình phân tích sâu sắc. Nó giúp cá nhân không chỉ thu thập thông tin mà còn đánh giá tính xác thực, độ tin cậy và sự liên quan của thông tin đó, từ đó xây dựng các lập luận vững chắc và đưa ra các quyết định dựa trên lý trí và bằng chứng, chứ không phải cảm tính hay phỏng đoán."
+    },
+    {
+      "id": "q10",
+      "question": "Tầm quan trọng của 'các bài tập dễ áp dụng, dễ thực hiện' được nhấn mạnh trong bộ sách là để đạt được mục tiêu nào?",
+      "options": [
+        "Kiểm tra khả năng ghi nhớ các khái niệm lý thuyết đã được trình bày trong sách.",
+        "Giúp độc giả hoàn thành nhanh chóng các chương sách mà không cần suy nghĩ sâu.",
+        "Cung cấp thêm ví dụ minh họa cho các trường hợp phức tạp mà độc giả có thể gặp phải.",
+        "Đảm bảo quá trình học tập chủ động và phát triển kỹ năng tư duy phản biện một cách thực tiễn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đoạn văn khẳng định 'Bạn sẽ không “đọc và quên” bộ sách này' nhờ các bài tập. Điều này cho thấy mục đích của bài tập là chuyển hóa kiến thức lý thuyết thành kỹ năng thực hành, khuyến khích độc giả chủ động áp dụng và củng cố tư duy phản biện trong các tình huống cụ thể, tránh việc chỉ đọc mà không thực sự hiểu và làm được."
+    },
+    {
+      "id": "q11",
+      "question": "Việc thiếu tư duy phản biện, dẫn đến 'suy luận kém, không có khả năng phân biệt sự thật từ hư cấu, từ những lừa dối và ngụy biện', có thể gây ra hệ quả xã hội rộng lớn nào?",
+      "options": [
+        "Giảm sút tốc độ phát triển khoa học công nghệ và đổi mới sáng tạo trong cộng đồng.",
+        "Tăng cường sự cô lập xã hội và giảm tương tác giữa các cá nhân trong cộng đồng.",
+        "Khiến xã hội dễ bị thao túng, lan truyền thông tin sai lệch và đưa ra các quyết định tập thể thiếu sáng suốt.",
+        "Suy giảm khả năng biểu đạt nghệ thuật và sự đa dạng văn hóa trong các lĩnh vực sáng tạo."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi cá nhân không thể phân biệt sự thật với hư cấu và dễ bị lừa dối, cả xã hội sẽ trở nên dễ bị tổn thương trước các chiến dịch thông tin sai lệch, các phong trào thiếu căn cứ và các quyết định tập thể dựa trên sự thiếu hiểu biết hoặc cảm tính, dẫn đến sự bất ổn và kém phát triển chung."
+    },
+    {
+      "id": "q12",
+      "question": "Dựa trên lời giới thiệu, động lực chính thúc đẩy Alpha Books tìm kiếm và lựa chọn những cuốn sách về tư duy phản biện để giới thiệu là gì?",
+      "options": [
+        "Nắm bắt xu hướng thị trường sách và đáp ứng nhu cầu đọc giải trí của công chúng.",
+        "Mong muốn quảng bá các tác giả mới và đa dạng hóa danh mục xuất bản của công ty.",
+        "Nhận thấy sự cần thiết và tầm quan trọng ngày càng tăng của tư duy phản biện trong xã hội hiện đại.",
+        "Đạt được lợi nhuận cao từ việc xuất bản các cuốn sách có tính ứng dụng thực tiễn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn văn khẳng định rõ: 'nhận thấy tư duy phản biện ngày càng trở nên quan trọng và cần thiết đối với mọi người... nên Alpha Books tìm kiếm và lựa chọn những cuốn sách hữu ích nhất về chủ đề này'. Điều này cho thấy động lực chính là đáp ứng một nhu cầu xã hội cấp thiết."
+    },
+    {
+      "id": "q13",
+      "question": "Khi bộ sách hứa hẹn về 'cách biến nó [khung tư duy phản biện] thành của riêng bạn', điều này có ý nghĩa gì đối với người học?",
+      "options": [
+        "Nội hóa và áp dụng linh hoạt các nguyên tắc tư duy vào đa dạng các tình huống thực tế trong cuộc sống.",
+        "Tùy chỉnh khung tư duy để phù hợp với những định kiến và quan điểm cá nhân có sẵn.",
+        "Ghi nhớ chính xác từng bước của khung tư duy để có thể tái hiện lại khi cần thiết.",
+        "Chia sẻ khung tư duy này với người khác để họ cũng có thể học hỏi và áp dụng theo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Việc 'biến nó thành của riêng bạn' không chỉ là ghi nhớ mà là sự thấu hiểu sâu sắc để có thể tích hợp các nguyên tắc tư duy phản biện vào cách suy nghĩ tự nhiên của bản thân, từ đó áp dụng một cách linh hoạt, sáng tạo và hiệu quả trong mọi khía cạnh của cuộc sống, vượt qua những định kiến cá nhân."
+    },
+    {
+      "id": "q14",
+      "question": "Cấu trúc của bộ sách, được phác thảo qua các tiêu đề con, gợi ý một phương pháp tiếp cận tư duy phản biện như thế nào?",
+      "options": [
+        "Một lộ trình học tập tuần tự từ làm quen, xây dựng thói quen đến ứng dụng và nhận diện lỗi ngụy biện.",
+        "Tập trung chủ yếu vào việc cung cấp các lý thuyết trừu tượng mà ít chú trọng thực hành.",
+        "Một bộ sưu tập các chủ đề rời rạc, không có mối liên hệ rõ ràng với nhau về tư duy phản biện.",
+        "Chỉ nhấn mạnh vào việc ghi nhớ các loại ngụy biện mà bỏ qua các khía cạnh khác của tư duy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Các tiêu đề con như 'Tư duy phản biện từ làm quen đến thói quen', 'Rèn thói quen tư duy phản biện: Công cụ và ứng dụng', 'Bẫy ngụy biện trong tư duy phản biện', và 'Giải phóng sức mạnh tư duy phản biện' rõ ràng cho thấy một lộ trình học tập có hệ thống, từ cơ bản đến nâng cao, bao gồm cả việc nhận diện và tránh các lỗi tư duy."
+    },
+    {
+      "id": "q15",
+      "question": "Theo lời giới thiệu, vấn đề cốt lõi mà tư duy phản biện giúp giải quyết, đặc biệt khi con người 'thiếu những quyết định đúng đắn', là gì?",
+      "options": [
+        "Sự thiếu hụt về thông tin cơ bản để đưa ra các lựa chọn sáng suốt trong cuộc sống.",
+        "Xu hướng hành động theo cảm tính, đi theo đám đông mà không có sự suy xét độc lập và sâu sắc.",
+        "Khả năng phân biệt giữa sự thật và những thông tin sai lệch, lừa dối trong môi trường phức tạp.",
+        "Việc không có đủ thời gian để nghiên cứu kỹ lưỡng mọi khía cạnh trước khi đưa ra một quyết định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lời giới thiệu chỉ ra rằng 'một trong những lý do khiến hầu hết chúng ta đưa ra các quyết định sai lầm, nhiều khi đi theo đám đông, đầu tư theo xu hướng và hành động theo phong trào' là do thiếu tư duy phản biện. Điều này nhấn mạnh rằng vấn đề cốt lõi là sự thiếu hụt khả năng suy xét độc lập và dễ bị ảnh hưởng bởi yếu tố bên ngoài."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# 86. Đừng đánh giá sách qua trang bìa
+
+**EMILY TANNEN**
+
+*Elimy Tannen là Giám đốc phụ trách bán hàng và marketing, đồng thời là Phó chủ tịch Công ty A.J. Clarke Real Estate và là thành viên Uỷ ban bất động sản New York.*
+
+Câu chuyện xảy ra vào những năm 1960. Hôm đó, người thành lập công ty chúng tôi, ông Alexandre J. Clarke và đứa con trai đang ở độ tuổi thiếu niên đang làm vườn trong nhà họ tại New Jersey. A.J. nhìn sang bên kia gara để xe và nhận thấy dáng xe Cadillac dạo này trông có vẻ đẹp hơn. “Nào con trai, đi thôi”, ông nói. Vẫn mặc trên người bộ đồ làm vườn, họ đi đến nơi bán xe Cadillac gần nhất. Ở đó, không ai thèm quan tâm đến họ. Sau một lúc đứng xem trong phòng trưng bày, ông bố và đứa con trai rời đi và đến khu mua bán ở một thị trấn khác. Ở đó, người bán hàng tiếp họ rất niềm nở: “Xin chào quý ông, tôi có thể giúp gì được cho ngài?” Ngay lập tức, người bán hàng đó đã bán được một chiếc Cadillac mới cứng và được thanh toán bằng tiền mặt.
+
+Như vậy, bài học rút ra từ câu chuyện trên là: bạn không thể đánh giá một quyển sách qua tấm bìa của nó. Trong nhiều năm liền, tôi đã chứng kiến điều này. Ví dụ, các khách hàng của Armani - những người có vẻ sặc mùi tiền lại thường là những kẻ chẳng có đến 2 đồng niken trong túi; trong khi đã có những người bạn cứ tưởng là nghèo đến mức chẳng chi nổi tiền để ăn tối thì hoá ra lại toàn là tỉ phú. Nhà môi giới hoàn toàn không thể đoán được việc ai thật, ai giả nếu chỉ nhìn vào ngoại hình hay qua lời giới thiệu của anh ta. Do đó, các chuyên gia bất động sản luôn phải đối xử công bằng với tất cả các khách hàng, kể cả với những khách hàng tiềm năng. Hợp đồng thoả thuận có thể được ký kết, có thể không, nhưng nhà môi giới thì không được phép thất bại.
+
+## Hãy chọn xem bạn muốn sống ở đâu
+
+Vị trí, vị trí, vị trí. Quái thật, không hiểu ai là người đầu tiên nảy ra ý nghĩ này? Nhưng bạn biết không, điều đó đúng đấy. Việc làm đầu tiên là phải lựa chọn xem bạn muốn sống ở đâu, còn những việc khác đều có thể đặt ở vị trí thứ yếu. Vào năm 1988, tôi và chồng tôi tìm thuê một căn nhà nghỉ cuối tuần ở Woodstock. Chúng tôi đã đi xem rất nhiều ngôi nhà với đủ các mức giá khác nhau. Một số nhà trông khá đẹp mắt, rộng rãi, thiết kế đẹp. Thế là, mức giá tối đa chúng tôi dự định ban đầu phải đẩy cao lên một chút. Tuy nhiên, vẫn không có ngôi nhà thực sự níu giữ được chúng tôi và chúng tôi cũng không rõ lý do vì sao. Cuối cùng, chúng tôi được người môi giới đưa đi xem một ngôi nhà ở trên núi, con đường riêng dẫn lên ngôi nhà ở phía Bắc, nhìn hướng ra phía Nam, với ánh mặt trời và phong cảnh bao la, bát ngát, kéo dài dường như vô tận. Chồng tôi bước ra ngoài, ngắm toàn cảnh và quay lại hỏi người môi giới: “Ngôi nhà này có để bán không?”. Trên đường về nhà, anh hỏi tôi ngôi nhà có bao nhiêu phòng ngủ và phòng tắm. Điều đó không thành vấn đề vì anh đã rất thích vị trí của ngôi nhà. Và tất nhiên, chúng tôi đã mua ngôi nhà đó.
+
+## Khi nghi ngờ thì hãy mua
+
+Lời khuyên tốt nhất mà tôi có là “mua”. Khi bạn nghi ngờ, hãy mua. Nhưng nhớ là đừng đầu cơ, trừ phi bạn cực kỳ chắc chắn rằng xu hướng giá nhà đất sắp sửa lên, sẽ lên và lên. Nếu thị trường đi xuống hoặc bấp bênh, các nhà đầu cơ sẽ gặp thảm hoạ. Ví dụ, một người mua một khoảnh đất và dự định sẽ bán nó ra thị trường sau khi xây dựng xong nhưng đúng lúc đó thị trường lại đi xuống, chắc chắn anh ta/nhà đầu cơ này sẽ phải bán lỗ vốn. Nếu nhà đầu cơ đó phải cấp vốn nhiều hơn với mức anh ta có hoặc nhiều hơn mức ngân hàng cho vay thì người đó sẽ trắng tay. Còn nếu thị trường đi xuống và người đầu cơ buộc phải bán tống, bán tháo tài sản của mình vì bất kì lý do gì thì nguy cơ người đó trắng tay cũng có thể xảy ra.
+
+Nhưng nếu anh ta mua tài sản cho nhu cầu sử dụng của chính mình thì lúc nào anh ta cũng là người thắng cuộc. Nếu anh ta bán tài sản trong một thị trường đang rớt giá thì đúng là anh ta sẽ nhận được ít tiền hơn; tuy nhiên, anh ta lại có thể mua được các tài sản khác ở mức giá rẻ hơn; cho nên cũng công bằng. Còn nếu một người bán tài sản ở một thị trường đang lên, có thể sẽ thu được nhiều lãi hơn, song những hàng hoá khác mà anh ta mua cũng sẽ có mức giá tỷ lệ thuận, tức là cũng tăng. Không có ai thua cuộc. Rõ ràng bạn chẳng mất gì.
+
+Bài học là: hãy cứ mua. Nếu bạn không có đủ tiền, hãy đi vay. Đừng để tuột mất cơ hội. Hãy hành động. Bạn sẽ không bao giờ phải hối hận.

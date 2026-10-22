@@ -280,6 +280,30 @@ const placeholderMetadata = {
     gradient: "from-amber-600 via-orange-600 to-red-700",
     themeColor: "#ea580c",
     status: "available"
+  },
+  "RenLuyenTuDuyPhanBien": {
+    title: "Rèn Luyện Tư Duy Phản Biện",
+    originalTitle: "Elements of Critical Thinking",
+    author: "Albert Rutherford",
+    authorBio: "Tác giả sách bán chạy quốc tế, chuyên gia nghiên cứu về khoa học tư duy, lý thuyết hệ thống và phân tích tâm lý nhận thức.",
+    quote: "Nghĩ về quá trình suy nghĩ (siêu nhận thức) là bước đầu tiên để phát triển tư duy phản biện – giúp bạn làm chủ nhận thức và tự do lựa chọn dựa trên sự thật khách quan.",
+    translator: "Nguyễn Ngọc Anh",
+    category: "Tư duy phản biện & Phát triển bản thân",
+    tags: ["Tư duy phản biện", "Critical Thinking", "Siêu nhận thức", "Não bộ", "Ngụy biện logic", "Thuyết âm mưu", "Ra quyết định"],
+    description: "Cẩm nang thực tế của Albert Rutherford giúp bạn làm chủ siêu nhận thức, thấu hiểu cấu trúc não bộ, nhận diện các cạm bẫy ngụy biện logic, miễn nhiễm trước chiêu trò truyền thông và xây dựng tư duy độc lập sáng suốt.",
+    gradient: "from-blue-700 via-indigo-800 to-slate-900",
+    themeColor: "#4338ca",
+    status: "available"
+  },
+  "RenThoiQuenTuDuyPhanBien": {
+    title: "Rèn Thói Quen Tư Duy Phản Biện",
+    author: "Alpha Books biên soạn",
+    description: "Cẩm nang hướng dẫn xây dựng các thói quen tư duy phản biện sắc bén, giúp bạn giải phóng thời gian, trở thành người tư duy độc lập và đưa ra các quyết định thông minh trong cuộc sống.",
+    category: "Tư duy phản biện & Kỹ năng sống",
+    tags: ["Tư duy phản biện", "Thói quen", "Kỹ năng sống", "Ra quyết định"],
+    gradient: "from-sky-700 via-indigo-800 to-slate-900",
+    themeColor: "#0284c7",
+    status: "coming_soon"
   }
 };
 
@@ -535,8 +559,9 @@ for (const bookId of bookDirs) {
     }
   }
 
-  const isAvailable = chapters.length > 0 || audios.length > 0 || !!rawPdf;
-  const status = isAvailable ? "available" : meta.status;
+  const hasContent = chapters.length > 0 || audios.length > 0;
+  const isAvailable = hasContent && meta.status !== "coming_soon";
+  const status = isAvailable ? "available" : "coming_soon";
 
   books.push({
     id: bookId,

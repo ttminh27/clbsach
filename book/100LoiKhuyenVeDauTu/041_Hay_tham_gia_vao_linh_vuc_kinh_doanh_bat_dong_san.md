@@ -1,0 +1,27 @@
+# 41. Hãy tham gia vào lĩnh vực kinh doanh bất động sản
+
+**THOMAS J. HYNES JR**
+
+*Thomas Hynes là Chủ tịch của công ty Meredith & Grew, một doanh nghiệp chuyên cung cấp các dịch vụ về nhà đất, có trụ sở đặt tại thành phố Boston.*
+
+Lời khuyên tuyệt nhất về kinh doanh bất động sản mà tôi từng nhận được rất đơn giản và rõ ràng: “Hãy kinh doanh bất động sản. Boston rất có tiềm năng phát triển và cháu nên gia nhập thị trường này.” Bác của tôi, John B. Hynes, người sau này trở thành thị trưởng của Boston, đã nhiều lần nói với tôi những lời đó.
+
+Từ khi bác tôi đắc cử vị trí thị trưởng Boston, nhiệm kỳ 4 năm (từ 1949 đến 1960), cả gia đình tôi luôn đắm chìm trong không khí chính trị của thành phố. Năm 1961, tôi tốt nghiệp Đại học Boston và gia nhập quân đội Mĩ với hàm thiếu uý. Khi được nghỉ phép về thăm nhà, tôi đã đến chơi với bác để được nhận lời khuyên về sự nghiệp.
+
+Là thị trưởng thành phố, John B. Hynes đã cấp phép kinh doanh cho công ty Bảo hiểm Prudential và công ty đó đã xây dựng khu liên hiệp văn phòng lớn đầu tiên ở Boston từ sau cuộc Đại suy thoái. Ông dẫn giải thêm, nhờ những cố gắng của mình, hàng năm ông được trả 20 ngàn đô la để giám sát công việc của Jack Fallon, một môi giới trẻ tuổi thuộc công ty R.M. Bradley, khi anh ta kiếm hàng triệu đô la từ việc cho thuê và quản lý các đại lý cho liên hiệp.
+
+Bác tôi còn nhấn mạnh rằng nếu tôi không thuộc tốp mười sinh viên có kết quả tốt nghiệp cao nhất của trường Đại học Luật Harvard, thì tôi không thể xin việc ở bất cứ công ty luật có chút tiếng tăm nào trong thành phố, sự thực là có rất nhiều luật sư trẻ chỉ đủ sống bằng nghề này. Nếu tôi không giàu có thì sự nghiệp của một chính trị gia có thể gây rất nhiều áp lực về kinh tế cho gia đình nhỏ của tôi. Tuy nhiên, thị trường bất động sản có tiềm năng phát triển vô cùng lớn.
+
+Tôi hết nghĩa vụ đi lính và bắt đầu theo học trường luật. Mùa hè năm thứ nhất, tôi kiếm việc làm thêm - việc phá dỡ các toà nhà. Hồi đó chưa có luật cho phép sinh viên được đi thực tập ở các công ty và tôi cũng cần tiền để trang trải học phí cho năm học tới. Phá huỷ các toà nhà là một công việc cực kỳ nguy hiểm và đôi khi, trong lúc làm việc, tôi bắt đầu mơ về sự nghiệp chính trị của mình, mơ đến ngày được tham gia tranh cử. Với một ít thu nhập từ lương cho những người hoạt động trong lĩnh vực Luật pháp, tôi chỉ đủ chi trả cho việc học ở trường luật, nói gì đến theo đuổi sự nghiệp chính trị.
+
+Sau khi một đồng nghiệp của tôi, chỉ đứng cách tôi có 10 feet , bị chết trong khi làm việc, tôi đã suy nghĩ gần một tuần và quyết định rằng tôi sẽ bắt đầu chiến dịch tranh cử. Ngày hôm sau, tôi ăn mặc rất chỉnh tề và đi tới văn phòng của bác John để thông báo với bác rằng, tôi đang có ý định tranh cử vào Toà án Great & General ở Massachusetts. Ông nhẹ nhàng nói rằng tôi sẽ thua vì tôi đang phải đấu với người đương nhiệm nhiệm kỳ đầu. Khi viết tặng tôi một tấm séc trị giá 100 đô la để dùng cho chiến dịch bầu cử, ông dặn tôi rằng: “Hãy nhớ những lời bác đã nói về kinh doanh bất động sản.”
+
+Chúng tôi đã tiến hành một chiến dịch tranh cử thật rầm rộ. Cuối cùng, tôi về thứ hai trong số 13 ứng cử viên. Tuy nhiên, tôi đã thua và phải đối mặt với món nợ khổng lồ dùng cho chiến dịch cùng với thực tế là không được quay trở lại trường Luật. Bác tôi lại hỏi: “Bây giờ cháu đã nghĩ tới việc kinh doanh bất động sản chưa?” Câu trả lời của tôi là: “Cháu cho rằng ý kiến đó thật tuyệt. Cháu nên bắt đầu từ đâu ạ?” Đầu tiên, bác khuyên tôi nên gọi điện cho Jack Fallon. Tôi đã gặp Jack và nhanh chóng phát hiện ra rằng anh ta có tất cả những điều mà bác tôi từng miêu tả: một anh chàng cao lớn, bảnh trai và thích giao du; một người từng kiếm được hàng triệu đô la từ kinh doanh bất động sản…; một nhà môi giới có quyền lực trong thập niên 1960. Tôi sẵn sàng làm việc cho anh ta nhưng Jack chẳng bao giờ gọi lại cho tôi.
+
+Bác tôi đã gọi cho một người bạn khác, Tom Horan - hiện đang làm việc cho công ty Meredith & Grew, ông đã xây dựng Khu liên hiệp bảo hiểm cho khách du lịch ở Boston. Sau khi gặp ngài Horan, tôi hoàn toàn bị thuyết phục rằng Meredith & Grew chính là nơi dành cho tôi. Tuy nhiên, đối tác của ngài Horan lại hỏi tôi rằng: Ngoài việc phá huỷ các toà nhà, tôi còn biết gì khác về kinh doanh bất động sản? - đây không phải là một lời tiếp đón thân thiện. Vài tuần qua đi, một lần nữa chẳng có ai gọi điện cho tôi cả. Tôi tiếp tục chờ đợi và sau đó, trong giây phút tuyệt vọng, tôi gọi điện đến công ty Meredith & Grew. Cuộc điện thoại đó đã tạo cho tôi cơ hội được trở lại làm việc và mở ra một con đường mới. Tôi bắt đầu làm việc ở Meredith & Grew từ năm 1965 và cảm thấy rất vui với những cơ hội kinh doanh mà tôi có được khi làm việc ở công ty.
+
+Kinh nghiệm khi tham gia ứng cử cũng giúp ích rất nhiều cho tôi. Tôi đã từng gõ cửa hàng trăm ngôi nhà để xin họ bỏ phiếu cho mình. Nhờ đó, thật là đơn giản khi đi tới từng nhà và hỏi xem liệu họ có cần chúng tôi giúp giải quyết các rắc rối về bất động sản của họ hay không? Một yêu cầu khác khi làm chính trị là gặp gỡ nhiều người thuộc mọi tầng lớp xã hội; và kinh doanh bất động sản cũng đòi hỏi điều này.
+
+Tôi luôn biết ơn những lời chỉ dẫn và những kiến thức mà bác, thị trưởng John B. Hynes, từng truyền cho tôi. Bác đã giúp tôi đi đúng hướng và dẫn dắt tôi đến với bất động sản. Khi kinh doanh bất động sản, tôi học được cách nhận biết thời điểm mình phải thay đổi hướng đi, khi nào tôi cần kiên trì và tôi cũng học được rằng: đôi khi, mình phải chấp nhận mạo hiểm.
+
+Rõ ràng là bác John đã cho tôi lời khuyên tuyệt nhất trong cuộc đời.

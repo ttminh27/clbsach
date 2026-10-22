@@ -1,0 +1,188 @@
+{
+  "bookId": "RenThoiQuenTuDuyPhanBien",
+  "chapterId": "01_mo_dau",
+  "chapterTitle": "01. Mở đầu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo đoạn mở đầu, vấn đề cốt lõi mà nhiều người gặp phải trong cuộc sống và sự nghiệp là gì?",
+      "options": [
+        "Áp lực từ xã hội và gia đình khiến họ không thể theo đuổi đam mê và sở thích cá nhân.",
+        "Thiếu cơ hội để phát triển bản thân và không có đủ nguồn lực để đạt được mục tiêu mong muốn.",
+        "Cảm giác phải đánh đổi liên tục giữa thành công cá nhân và nghề nghiệp, dẫn đến sự kém cỏi.",
+        "Không thể tìm thấy sự cân bằng giữa công việc và cuộc sống do thiếu kỹ năng quản lý thời gian."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn văn nhấn mạnh rằng nhiều người cảm thấy cuộc đời là một sự thỏa hiệp không thắng nổi, luôn khiến họ cảm thấy mình kém cỏi dù đã cố gắng hết sức, đặc biệt là khi phải lựa chọn giữa thành công trong sự nghiệp và cuộc sống cá nhân. Đây là vấn đề cốt lõi mà cuốn sách muốn giải quyết."
+    },
+    {
+      "id": "q2",
+      "question": "Tác giả sử dụng phép ẩn dụ 'bản cập nhật trên điện thoại hay máy tính' để minh họa cho điều gì?",
+      "options": [
+        "Sự cần thiết phải thay đổi hoàn toàn tư duy cũ bằng một tư duy mới mẻ và hiện đại hơn.",
+        "Quá trình cải thiện và tối ưu hóa các kỹ năng tư duy hiện có để đạt hiệu suất cao hơn.",
+        "Việc đầu tư vào các công cụ và phương pháp học tập mới để nâng cao năng lực cá nhân.",
+        "Sự phụ thuộc vào công nghệ để giải quyết các vấn đề phức tạp trong cuộc sống hàng ngày."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả giải thích rằng việc cập nhật não bộ giống như cập nhật phần mềm, không phải mua thiết bị mới. Điều này ngụ ý rằng chúng ta không cần thay đổi hoàn toàn bản thân mà chỉ cần tối ưu hóa và cải thiện những kỹ năng tư duy đã có để chúng hoạt động trơn tru và hiệu quả hơn, thay thế các hành vi vô thức cũ bằng hành vi mới thông minh hơn."
+    },
+    {
+      "id": "q3",
+      "question": "Mục đích chính của cuốn sách 'Rèn Thói Quen Tư Duy Phản Biện' được nêu trong đoạn mở đầu là gì?",
+      "options": [
+        "Cung cấp một cẩm nang để cải thiện cách đối mặt với thử thách và đưa ra lựa chọn hợp lý.",
+        "Giúp người đọc đạt được thành công nhanh chóng trong sự nghiệp mà không cần hy sinh đời sống cá nhân.",
+        "Phân tích các cạm bẫy định kiến và cung cấp giải pháp thực chiến cho mọi vấn đề phức tạp.",
+        "Khuyến khích người đọc khám phá những thông tin và kỹ năng mới để liên tục học hỏi suốt đời."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đoạn văn nêu rõ: 'Cuốn sách này là cẩm nang cập nhật não bộ của bạn. Bằng việc học hỏi thói quen tư duy phản biện, bạn sẽ cải thiện được cách đối mặt với những thử thách, đưa ra các lựa chọn hợp lí hơn trong công việc và đời sống cá nhân'. Đây là mục đích tổng quát và bao trùm nhất."
+    },
+    {
+      "id": "q4",
+      "question": "Theo tác giả, điều gì là yếu tố then chốt để 'tái lập sự cân bằng' giữa sự nghiệp và cuộc sống cá nhân?",
+      "options": [
+        "Thay đổi môi trường làm việc hoặc tìm kiếm một công việc mới ít áp lực hơn để giảm căng thẳng.",
+        "Tìm kiếm sự hỗ trợ từ người khác và học hỏi kinh nghiệm từ những người đã thành công trong cuộc sống.",
+        "Sử dụng não bộ để nhận diện và luyện tập các kỹ năng tư duy một cách có ý thức và hiệu quả.",
+        "Phân loại công việc theo mức độ ưu tiên và áp dụng các phương pháp quản lý thời gian tiên tiến."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định: 'Bạn có thể sử dụng não bộ của mình để tái lập sự cân bằng đó. Bạn có sẵn các kĩ năng, nhưng những kĩ năng đó cần được nhận diện và luyện tập giống như mọi thứ khác trên đời.' Điều này nhấn mạnh vai trò của việc chủ động sử dụng và rèn luyện tư duy."
+    },
+    {
+      "id": "q5",
+      "question": "Kinh nghiệm cá nhân của tác giả, đặc biệt là giai đoạn sau sinh nhật lần thứ 30, minh chứng cho điều gì?",
+      "options": [
+        "Lợi ích của việc duy trì một lối sống năng động và tham gia các hoạt động thể chất thường xuyên.",
+        "Tầm quan trọng của việc đặt ra mục tiêu lớn và kiên trì theo đuổi chúng bất chấp mọi khó khăn.",
+        "Sự cần thiết của việc có một kế hoạch chi tiết và rõ ràng để quản lý nhiều đầu việc cùng lúc.",
+        "Khả năng vận dụng hiệu quả các kỹ năng hiện có và học hỏi thêm nhiều kỹ năng mới trong áp lực cao."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả kể về giai đoạn bận rộn nhưng thành công của mình và kết luận: 'Đó là một quãng thời gian điên rồ, nhưng nó đã dạy tôi cách vận dụng hiệu quả hơn những kĩ năng mình có, và cho tôi cơ hội học hỏi thêm nhiều kĩ năng mới.' Điều này chứng minh cho việc áp dụng các kỹ năng một cách linh hoạt và học hỏi liên tục."
+    },
+    {
+      "id": "q6",
+      "question": "Theo quan điểm của tác giả, cốt lõi của giáo dục là gì, vượt xa ý nghĩa của điểm số?",
+      "options": [
+        "Đạt được các chứng chỉ và bằng cấp cao để mở rộng cơ hội phát triển trong xã hội hiện đại.",
+        "Tiếp thu kiến thức và thông tin mới nhất từ các nghiên cứu khoa học và câu chuyện thành công.",
+        "Phát triển các kỹ năng mềm cần thiết cho sự nghiệp và cuộc sống cá nhân trong tương lai.",
+        "Khám phá và học cách sử dụng tâm trí một cách hiệu quả để giải quyết các vấn đề phức tạp."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả khẳng định: 'Với tôi, dạy học và giáo dục có ý nghĩa lớn hơn nhiều so với một phương tiện đơn thuần để đạt điểm số nào đó trên một mảnh giấy. Cốt lõi của giáo dục là khám phá và học cách sử dụng tâm trí sao cho hiệu quả.' Điều này thể hiện triết lý giáo dục sâu sắc của ông."
+    },
+    {
+      "id": "q7",
+      "question": "Tác giả nhấn mạnh rằng để thành công trong cuộc sống ở bất kỳ lĩnh vực nào, điều gì là cần thiết?",
+      "options": [
+        "Có khả năng tư duy phản biện để phân tích và đánh giá mọi tình huống một cách khách quan.",
+        "Liên tục học hỏi những thông tin, kỹ năng và phương pháp mới để thích nghi với sự thay đổi.",
+        "Phát triển một niềm đam mê mãnh liệt đối với việc học hỏi và khám phá những điều mới mẻ.",
+        "Sở hữu một nền tảng kiến thức vững chắc và kinh nghiệm thực tế trong lĩnh vực chuyên môn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đoạn văn nêu rõ: 'Để thành công trong cuộc sống ở bất kì lĩnh vực nào, bạn cần liên tục học hỏi những thông tin, kĩ năng và phương pháp mới.' Đây là một trong những thông điệp chính về tinh thần học tập suốt đời."
+    },
+    {
+      "id": "q8",
+      "question": "Mối quan hệ giữa học tập hiệu quả và tư duy phản biện được tác giả mô tả như thế nào?",
+      "options": [
+        "Học tập hiệu quả là kết quả của việc áp dụng tư duy phản biện vào mọi khía cạnh của cuộc sống.",
+        "Tư duy phản biện là một kỹ năng thiết yếu, là điều kiện tiên quyết để quá trình học tập đạt hiệu quả cao.",
+        "Cả hai đều là những kỹ năng quan trọng, nhưng tư duy phản biện chỉ phát triển sau khi học tập hiệu quả.",
+        "Tư duy phản biện giúp khám phá thế giới vật chất, trong khi học tập hiệu quả áp dụng cho mọi đối tượng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả khẳng định: 'Để học tập hiệu quả, bạn cần có khả năng tư duy phản biện.' Điều này cho thấy tư duy phản biện là nền tảng, là yếu tố then chốt để việc học tập thực sự mang lại giá trị và hiệu quả."
+    },
+    {
+      "id": "q9",
+      "question": "Câu nói của Galileo Galilei 'Mọi sự thật luôn dễ hiểu khi đã được khám phá; điều quan trọng là phải khám phá ra chúng' có ý nghĩa gì trong bối cảnh chương này?",
+      "options": [
+        "Nhấn mạnh tầm quan trọng của việc chủ động tìm kiếm và khám phá các giải pháp thay vì chấp nhận hiện trạng.",
+        "Khẳng định rằng kiến thức và sự thật luôn tồn tại sẵn có, chỉ cần chúng ta chịu khó học hỏi.",
+        "Đề cao vai trò của khoa học và nghiên cứu trong việc làm sáng tỏ những điều bí ẩn của thế giới.",
+        "Khuyến khích tư duy đơn giản hóa vấn đề để dễ dàng tiếp cận và hiểu rõ bản chất của chúng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu nói này được đặt ở đầu chương để định hướng tư duy. Nó không chỉ nói về việc tìm kiếm sự thật mà còn ngụ ý về sự chủ động, tinh thần điều tra nghiên cứu để 'khám phá ra chúng', điều mà cuốn sách muốn truyền tải thông qua tư duy phản biện để tìm ra giải pháp cho các vấn đề cá nhân và sự nghiệp."
+    },
+    {
+      "id": "q10",
+      "question": "Tác giả cho rằng việc xác định 'những hành vi vô thức cũ không có lợi' và thay thế bằng 'những hành vi mới thông minh hơn' là một quá trình như thế nào?",
+      "options": [
+        "Một quá trình phức tạp cần sự hướng dẫn từ chuyên gia và các công cụ hỗ trợ để đạt được hiệu quả.",
+        "Một quá trình đòi hỏi sự kiên trì và nỗ lực đáng kể để phá vỡ các thói quen đã hình thành từ lâu.",
+        "Một quá trình dễ dàng hơn nhiều người nghĩ và hoàn toàn miễn phí, chỉ cần sự chủ động từ bản thân.",
+        "Một quá trình tự nhiên sẽ diễn ra khi con người trưởng thành và tích lũy đủ kinh nghiệm sống."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả viết: 'Thực ra điều này dễ dàng hơn bạn nghĩ, chưa kể còn miễn phí. Bạn chỉ cần xác định những hành vi vô thức cũ không có lợi rồi thay thế bằng những hành vi mới thông minh hơn.' Điều này nhấn mạnh tính khả thi và sự tiếp cận của phương pháp này."
+    },
+    {
+      "id": "q11",
+      "question": "Tác giả đề cập đến 'tình yêu dành cho những thử thách của việc học' và 'vô số cơ hội để phạm sai lầm và thử tìm hướng đi mới' để làm gì?",
+      "options": [
+        "Nhấn mạnh rằng việc học tập là một hành trình dài và cần có sự kiên nhẫn, bền bỉ để đạt được thành công.",
+        "Giải thích lý do tại sao ông chọn con đường dạy học và nghiên cứu khoa học thay vì một lĩnh vực khác.",
+        "Khuyến khích người đọc không ngại thất bại và coi đó là một phần tất yếu của quá trình học tập.",
+        "Minh chứng cho tinh thần học hỏi không ngừng và sự sẵn lòng đối mặt với khó khăn trong quá trình phát triển."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả chia sẻ về bản thân: 'tôi vẫn còn nguyên tình yêu dành cho những thử thách của việc học. Tôi đã thấy những phương pháp nào là hiệu quả, phương pháp nào không, có vô số cơ hội để phạm sai lầm và thử tìm hướng đi mới.' Điều này thể hiện một thái độ tích cực, chủ động trong học tập và phát triển bản thân, coi thử thách và sai lầm là cơ hội để tiến bộ."
+    },
+    {
+      "id": "q12",
+      "question": "Khi tác giả nói 'mọi đối tượng đều đòi hỏi cách tiếp cận mang tính điều tra nghiên cứu để có thể đào sâu hơn, khám phá nhiều hơn', ông muốn truyền tải thông điệp gì?",
+      "options": [
+        "Khuyến khích tinh thần tò mò và khám phá thế giới xung quanh một cách chủ động và có hệ thống.",
+        "Sự cần thiết của việc đặt câu hỏi và không ngừng tìm kiếm kiến thức mới để mở rộng hiểu biết cá nhân.",
+        "Tầm quan trọng của việc áp dụng tư duy khoa học và phương pháp luận điều tra vào mọi lĩnh vực của cuộc sống.",
+        "Nhấn mạnh rằng chỉ có phương pháp khoa học mới có thể giúp chúng ta hiểu sâu sắc về bản chất sự vật."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả, với nền tảng khoa học, mở rộng quan điểm này ra ngoài khoa học: 'mọi đối tượng đều đòi hỏi cách tiếp cận mang tính điều tra nghiên cứu để có thể đào sâu hơn, khám phá nhiều hơn.' Điều này ngụ ý rằng tư duy phản biện, với bản chất là điều tra và phân tích, là cần thiết cho mọi lĩnh vực, không chỉ riêng khoa học."
+    },
+    {
+      "id": "q13",
+      "question": "Điều gì sẽ xảy ra nếu người đọc vẫn 'sử dụng hệ điều hành nguyên bản' của não bộ, theo phép ẩn dụ của tác giả?",
+      "options": [
+        "Người đọc sẽ gặp khó khăn trong việc thích nghi với những thay đổi và thách thức mới trong cuộc sống.",
+        "Thiết bị (não bộ) sẽ hoạt động rất chậm và không thể đạt được hiệu suất tối ưu trong các tác vụ hàng ngày.",
+        "Các kỹ năng tư duy sẽ không được nhận diện và luyện tập, dẫn đến việc bỏ lỡ nhiều cơ hội phát triển.",
+        "Họ sẽ tiếp tục mắc kẹt trong những hành vi vô thức cũ không có lợi và cảm thấy kém cỏi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong phép ẩn dụ về cập nhật phần mềm, tác giả nói: 'Nếu bạn vẫn sử dụng hệ điều hành nguyên bản, thiết bị của bạn chắc chắn sẽ chạy rất chậm.' Điều này trực tiếp liên hệ đến việc não bộ không được tối ưu hóa sẽ hoạt động kém hiệu quả."
+    },
+    {
+      "id": "q14",
+      "question": "Mục tiêu cuối cùng của việc 'nhận diện những kĩ năng mà có lẽ bạn đã nắm được' trong cuốn sách này là gì?",
+      "options": [
+        "Biến chúng thành những thói quen phục vụ đắc lực cho người đọc trong nhiều năm nữa, mang lại lợi ích lâu dài.",
+        "Giúp người đọc tự tin hơn vào khả năng của bản thân và phát huy tối đa tiềm năng vốn có của mình.",
+        "Cung cấp một nền tảng vững chắc để người đọc có thể tiếp tục học hỏi và phát triển các kỹ năng mới.",
+        "Khuyến khích người đọc chia sẻ những kỹ năng này với người khác để cùng nhau tiến bộ và thành công."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đoạn cuối chương nêu rõ: 'Nhận diện những kĩ năng mà có lẽ bạn đã nắm được sẽ khiến chúng càng rõ ràng hơn và biến chúng thành những thói quen phục vụ đắc lực cho bạn trong nhiều năm nữa.' Đây là mục tiêu về việc hình thành thói quen tư duy phản biện bền vững."
+    },
+    {
+      "id": "q15",
+      "question": "Tinh thần 'bận rộn' của tác giả, được đúc kết qua câu nói 'nếu bạn muốn làm xong việc gì, hãy hỏi một người bận rộn', ngụ ý điều gì về phương pháp của ông?",
+      "options": [
+        "Phương pháp của ông tập trung vào việc quản lý hiệu quả nhiều nhiệm vụ cùng lúc thông qua tư duy phản biện.",
+        "Ông là người có kinh nghiệm thực tế trong việc đối phó với áp lực công việc và cuộc sống cá nhân.",
+        "Các giải pháp ông đưa ra đã được kiểm chứng qua kinh nghiệm cá nhân và có tính ứng dụng cao trong thực tế.",
+        "Ông tin rằng sự bận rộn không phải là trở ngại mà là động lực để phát triển các kỹ năng mới."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả tự nhận mình là người 'bận rộn' nhưng vẫn xoay sở được nhiều việc. Điều này không chỉ nói về kinh nghiệm mà còn ngụ ý rằng ông đã tìm ra cách để vận dụng hiệu quả các kỹ năng, tức là áp dụng tư duy phản biện để quản lý và giải quyết các vấn đề trong một lịch trình dày đặc, chứng minh tính hiệu quả của phương pháp mà ông sẽ trình bày."
+    }
+  ]
+}

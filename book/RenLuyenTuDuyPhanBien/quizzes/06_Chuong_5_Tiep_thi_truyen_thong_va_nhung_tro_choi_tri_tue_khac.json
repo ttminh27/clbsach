@@ -1,0 +1,188 @@
+{
+  "bookId": "RenLuyenTuDuyPhanBien",
+  "chapterId": "06_Chuong_5_Tiep_thi_truyen_thong_va_nhung_tro_choi_tri_tue_khac",
+  "chapterTitle": "Chương 5: Tiếp thị, truyền thông, và những trò chơi trí tuệ khác",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo tác giả, sự phổ biến của Internet đã thay đổi cuộc chơi thông tin như thế nào và điều này đòi hỏi kỹ năng tư duy phản biện ra sao?",
+      "options": [
+        "Internet dân chủ hóa thông tin, cho phép mọi ý kiến, nên tư duy phản biện giúp chọn lọc ý kiến phổ biến.",
+        "Internet tạo ra nhiều thông tin sai lệch, buộc người dùng học cách lọc bỏ nội dung không phù hợp.",
+        "Internet giúp thông tin dễ tiếp cận nhưng giảm kiểm duyệt, đòi hỏi mọi người tự đánh giá độ tin cậy.",
+        "Internet tăng tốc độ lan truyền tin tức, yêu cầu tư duy phản biện để theo kịp các xu hướng và sự kiện."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn văn nêu rõ 'Internet đã khiến việc truy cập thông tin trở nên dễ dàng hơn bao giờ hết, và quyền truy cập này dẫn đến sự dân chủ hóa. Thông tin của chúng ta cũng ít được chỉnh sửa và xử lý hơn trước đây... Với việc có quá ít biên tập viên để trung hòa nội dung, thì mọi người cần tự thực hiện quá trình đó. Tư duy phản biện sẽ hỗ trợ quá trình đưa ra quyết định xem thông tin nào là đáng tin cậy.' Phương án A phản ánh chính xác nhất ý này."
+    },
+    {
+      "id": "q2",
+      "question": "Các trò lừa đảo '419' hay 'lừa đảo của người Nigeria' chủ yếu khai thác những điểm yếu tâm lý nào của nạn nhân?",
+      "options": [
+        "Sự thiếu hiểu biết về công nghệ và khả năng nhận diện email độc hại từ người lạ.",
+        "Nhu cầu được công nhận và mong muốn giúp đỡ người khác một cách vô điều kiện.",
+        "Lòng tham, tình trạng khó khăn tài chính và sự cả tin của nạn nhân.",
+        "Sự cô đơn và khao khát kết nối với người khác, dễ tin vào lời hứa hẹn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn 'THƯ RÁC' chỉ ra rằng những trò lừa đảo này 'dựa vào lòng tham và sự thiếu hụt tài chính của nạn nhân, cũng như sự cả tin của họ.' Điều này khiến họ dễ dàng cung cấp thông tin cá nhân."
+    },
+    {
+      "id": "q3",
+      "question": "Khi đối mặt với những email 'tin giả' như câu chuyện về 'đám cưới tập thể' ở Gaza, tư duy phản biện yêu cầu chúng ta phải làm gì đầu tiên?",
+      "options": [
+        "Tìm kiếm các dấu hiệu như lời văn thiên kiến, thiếu nguồn uy tín, không có tin tức quốc tế.",
+        "Kiểm tra cảm xúc bản thân và xác định xem thông tin có kích động thiên kiến không.",
+        "Chia sẻ ngay lập tức để cảnh báo bạn bè và người thân về nguy cơ tiềm ẩn.",
+        "Hỏi ý kiến của một người bạn hoặc chuyên gia có kiến thức về chủ đề đó."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đoạn 'NHỮNG EMAIL “TIN GIẢ”' liệt kê các dấu hiệu: 'lời văn mang tính thiên kiến cảm xúc, và câu chuyện thiếu những liên kết về nguồn uy tín của thông tin đó. Những bức ảnh cũng không có mô tả... Hơn nữa, không có đơn vị tin tức quốc tế nào đưa tin về chuyện này.' Đây là những dấu hiệu đầu tiên mà người có tư duy phản biện cần nhận ra."
+    },
+    {
+      "id": "q4",
+      "question": "Câu chuyện về 'huyền thoại bánh burger' được tác giả sử dụng để minh họa tầm quan trọng của nguyên tắc tư duy phản biện nào?",
+      "options": [
+        "Không nên vội vàng chấp nhận những khẳng định phổ biến mà cần kiểm tra bằng phương pháp khoa học.",
+        "Luôn tin tưởng vào những lời khuyên từ các 'bà mẹ blogger' sống khỏe vì kinh nghiệm thực tế.",
+        "Các sản phẩm thức ăn nhanh thực sự nguy hiểm và chứa nhiều chất bảo quản độc hại.",
+        "Việc sấy khô là phương pháp bảo quản thực phẩm hiệu quả nhất, vượt trội mọi công nghệ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu chuyện này mô tả một nhà báo đã dùng 'phương pháp khoa học' để kiểm tra một 'huyền thoại thời hiện đại' phổ biến trên mạng. Điều này nhấn mạnh rằng không nên chấp nhận khẳng định mà không có bằng chứng và cần kiểm tra một cách khách quan."
+    },
+    {
+      "id": "q5",
+      "question": "Hiệu ứng số lẻ (ví dụ: giá 19,99 đô la thay vì 20,00 đô la) trong tiếp thị khai thác hạn chế nào của não bộ con người?",
+      "options": [
+        "Xu hướng ưu tiên thông tin phức tạp và chi tiết hơn là những ý tưởng đơn giản.",
+        "Giới hạn trong khả năng xử lý thông tin, ưu tiên chữ số ngoài cùng bên trái và đơn giản hóa giá trị.",
+        "Thiên kiến xác nhận, khiến con người tìm kiếm bằng chứng ủng hộ niềm tin giá thấp hơn là món hời.",
+        "Nhu cầu được cảm thấy thông minh và khôn ngoan khi tìm được sản phẩm giá thấp hơn giá trị thực."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đoạn 'NHỮNG TRÒ LỪA TRONG TIẾP THỊ' giải thích: 'hiệu ứng này xuất phát từ giới hạn của não người khi liên quan đến lượng thông tin nó có thể xử lý; nói cách khác, xu hướng con người thích những thông tin đơn giản hơn là những ý tưởng phức tạp.'"
+    },
+    {
+      "id": "q6",
+      "question": "Khi nhân viên bán hàng dùng câu hỏi dẫn dắt về chất lượng sản phẩm để khiến khách hàng đồng ý, họ đang khai thác chiến thuật thao túng tâm lý nào?",
+      "options": [
+        "Kích thích lòng tham và mong muốn sở hữu những món đồ xa xỉ không cần thiết.",
+        "Khai thác nhu cầu về lòng tự trọng và mong muốn có vẻ hơn người của khách hàng.",
+        "Tạo ra cảm giác cấp bách và khan hiếm, buộc khách hàng phải mua ngay lập tức.",
+        "Sử dụng nguyên tắc khan hiếm để làm sản phẩm hấp dẫn hơn, thúc đẩy mua hàng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đoạn 'NHỮNG TRÒ LỪA TRONG TIẾP THỊ' nói: 'Một chiến lược tiếp thị cơ bản khác là điều khiển mọi người dựa trên nhu cầu của họ về lòng tự trọng và có vẻ hơn người. Những nhân viên bán hàng sẽ thường dùng những chiến thuật như hỏi những câu dẫn dắt... để khiến bạn đồng ý và cuối cùng lừa bạn tin vào những thứ bạn nói về sản phẩm.'"
+    },
+    {
+      "id": "q7",
+      "question": "Việc các công ty an ninh quảng cáo hệ thống camera trong các chương trình về tội phạm để tạo ra nỗi sợ hãi và thúc đẩy mua hàng là ví dụ điển hình của chiến thuật thao túng tâm lý nào?",
+      "options": [
+        "Thiên kiến xác nhận, khi người xem tìm kiếm bằng chứng để khẳng định nỗi sợ hãi của mình.",
+        "Khai thác thiên kiến khả dụng và tạo ra vấn đề nhân tạo để bán giải pháp, bỏ qua tính hiếm có.",
+        "Ngụy biện ad hominem, tấn công cá nhân những người không mua sản phẩm để giảm uy tín.",
+        "Hiệu ứng mỏ neo, khi giá của hệ thống an ninh được neo vào giá trị của sự an toàn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đoạn 'NHỮNG TRÒ LỪA TRONG TIẾP THỊ' giải thích: 'Các công ty bán hệ thống an ninh đã dựng nên một nỗi sợ hãi, và làm cho nó có vẻ thật nhờ những quảng cáo trong một chương trình giải trí về những sự kiện có thật. Điều này làm bạn quên mất rằng những sự kiện đó thực chất rất hiếm, và khiến bạn nghĩ rằng chìa khóa để xoa dịu nỗi sợ nhân tạo này là mua sản phẩm đó.' Đây là việc khai thác thiên kiến khả dụng (những sự kiện dễ nhớ được cho là phổ biến hơn) và tạo ra vấn đề."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao mô hình kinh doanh đa cấp (MLM) được tác giả ví như 'mô hình kim tự tháp đội lốt kinh doanh hợp pháp'?",
+      "options": [
+        "Vì chúng yêu cầu người bán hàng có vốn đầu tư ban đầu lớn để mua sản phẩm.",
+        "Vì lợi nhuận chủ yếu đến từ việc tuyển dụng người mới, không phải bán sản phẩm thực tế.",
+        "Vì chúng thường bán các sản phẩm chất lượng cao nhưng giá thành đắt đỏ, kén khách hàng.",
+        "Vì chúng tạo ra cấu trúc phân cấp rõ ràng, với người đứng đầu có quyền lực tuyệt đối."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đoạn 'MLM (KINH DOANH ĐA CẤP – MULTI-LEVEL MARKETING)' giải thích: 'Ở mô hình kinh doanh đa cấp, những người bán hàng kiếm tiền từ việc tuyển người bán hàng dưới trướng họ, bởi vì mỗi người được chia một phần lợi nhuận từ những nhân viên họ tuyển.' và 'Mọi người tự trả cho sản phẩm của mình và phải trả lại vốn đầu tư của mình bằng cách bán chúng cho những người khác.' Điều này tạo ra một cấu trúc phụ thuộc vào việc tuyển dụng hơn là bán hàng."
+    },
+    {
+      "id": "q9",
+      "question": "Theo tác giả, lý do cốt lõi nào khiến mô hình MLM không bền vững và cuối cùng sẽ sụp đổ?",
+      "options": [
+        "Sự cạnh tranh gay gắt từ các doanh nghiệp truyền thống khiến sản phẩm không tiếp cận thị trường.",
+        "Việc thiếu sự đổi mới sản phẩm và dịch vụ, dẫn đến khách hàng nhanh chóng mất hứng thú.",
+        "Sự bão hòa nhanh chóng của số lượng nhân viên bán hàng, khiến việc tuyển dụng người mới bất khả thi.",
+        "Chi phí vận hành và quản lý mạng lưới quá lớn, vượt quá khả năng tài chính của công ty."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn 'MLM (KINH DOANH ĐA CẤP – MULTI-LEVEL MARKETING)' nêu rõ: 'sau khoảng 15 cấp, họ sẽ phải tuyển toàn bộ con người trên Trái đất để có thể duy trì mô hình MLM! ... Sự nhanh chóng bão hòa của những nhân viên bán hàng khiến việc duy trì mô hình là không thể xảy ra.'"
+    },
+    {
+      "id": "q10",
+      "question": "Khi các mô hình MLM bán 'thuốc lang băm' và phản bác sự thiếu bằng chứng khoa học bằng cách thúc đẩy thuyết âm mưu, họ đang sử dụng ngụy biện logic nào?",
+      "options": [
+        "Ngụy biện người rơm (straw man fallacy), bóp méo lập luận của đối thủ để dễ tấn công.",
+        "Ngụy biện trượt dốc (slippery slope), cho rằng một hành động nhỏ sẽ dẫn đến chuỗi hậu quả tiêu cực.",
+        "Ngụy biện ad hoc rescue, đưa ra lời giải thích đặc biệt để bảo vệ niềm tin khi có bằng chứng phản bác.",
+        "Ngụy biện tấn công cá nhân (ad hominem), công kích uy tín của nhà khoa học thay vì phản bác bằng chứng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn 'MLM (KINH DOANH ĐA CẤP – MULTI-LEVEL MARKETING)' nói: 'Tuy vậy, họ phản bác lại những khẳng định này bằng cách thúc đẩy những thuyết âm mưu về sự đàn áp của các công ty dược phẩm hoặc chính phủ.' Đây là một hình thức của ngụy biện ad hoc rescue, khi một giả thuyết được bảo vệ bằng cách thêm vào các giả định mới không có bằng chứng, thay vì thừa nhận nó sai."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao việc MLM dựa vào 'thử nghiệm trên người' (lời chứng thực) thay vì bằng chứng khoa học là một chiến lược quảng cáo không đáng tin cậy đối với tư duy phản biện?",
+      "options": [
+        "Vì con người vốn không bị hấp dẫn bởi những câu chuyện cá nhân, chỉ tin vào dữ liệu khô khan.",
+        "Vì những người kể chuyện thường không đủ kiến thức chuyên môn để đánh giá chính xác tác dụng sản phẩm.",
+        "Vì các chuyên gia khoa học luôn phản đối mọi hình thức thử nghiệm trên người, coi là phi đạo đức.",
+        "Vì những câu chuyện cá nhân thường mang tính chủ quan, dễ sai lệch và không thay thế bằng chứng khoa học."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đoạn 'MLM (KINH DOANH ĐA CẤP – MULTI-LEVEL MARKETING)' giải thích: 'Con người vốn sinh ra đã bị hấp dẫn bởi những câu chuyện của người khác... Tuy nhiên, những câu chuyện đó thường sai lệch sự thật.' Lời chứng thực là bằng chứng giai thoại, không có tính khách quan và kiểm chứng được như khoa học."
+    },
+    {
+      "id": "q12",
+      "question": "Theo tác giả, điều đầu tiên và quan trọng nhất mà bất kỳ ai cũng nên cân nhắc khi đánh giá thông tin trực tuyến là gì?",
+      "options": [
+        "Mức độ phổ biến của thông tin đó trên các mạng xã hội và số lượng người đã chia sẻ.",
+        "Cảm xúc cá nhân khi đọc thông tin và liệu nó có phù hợp với niềm tin của mình không.",
+        "Tốc độ mà thông tin được cập nhật và liệu nó có phải là tin tức mới nhất về chủ đề.",
+        "Nguồn gốc của thông tin, bao gồm thiên kiến, tính độc lập, giọng văn và đạo đức nghề nghiệp."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đoạn 'HUYỀN THOẠI BÁNH BURGER' nêu rõ: 'Điều đầu tiên bất kỳ ai cũng nên cân nhắc khi liên quan đến thông tin trực tuyến đó là nguồn của nó. Trang web đó có thiên kiến chính trị hay ý thức hệ rõ ràng không? Nó có được phát hành độc lập không? Nó có giọng văn nhạy cảm không? Nó được điều hành bởi những kẻ nghiệp dư, hay những nhà báo chuyên nghiệp và những học giả có đạo đức nghề nghiệp?'"
+    },
+    {
+      "id": "q13",
+      "question": "Trường hợp 'huyền thoại bánh burger' cũng mô tả tầm quan trọng của việc cân nhắc 'sự im lặng từ những chuyên gia' về một chủ đề. Điều này hàm ý gì đối với tư duy phản biện?",
+      "options": [
+        "Sự thiếu vắng thông tin từ các chuyên gia đáng tin cậy có thể là dấu hiệu khẳng định không đúng sự thật.",
+        "Nếu một vấn đề không được chuyên gia nhắc đến, điều đó có nghĩa là nó quá phức tạp để quan tâm.",
+        "Các chuyên gia thường cố tình giữ im lặng về vấn đề gây tranh cãi để tránh bị cuốn vào tranh luận.",
+        "Chỉ nên tin tưởng vào thông tin được công bố bởi các chuyên gia, bất kể nội dung có được kiểm chứng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đoạn 'HUYỀN THOẠI BÁNH BURGER' nói: 'Nếu bánh burger nguy hiểm đến thế, tại sao chưa có nhà khoa học hay chính quyền nhà nước nào cấm nó? ... Sự im lặng từ những chuyên gia với một chủ đề có thể mang hàm ý rằng thông tin đó là không đúng sự thật.'"
+    },
+    {
+      "id": "q14",
+      "question": "Theo tác giả, phần lớn quyết định mua đồ của chúng ta thường là vô thức và bị ảnh hưởng bởi 'động lực mua hàng'. Điều này cho thấy vai trò quan trọng của yếu tố nào trong hành vi tiêu dùng?",
+      "options": [
+        "Các yếu tố tâm lý và thiên kiến nhận thức, khiến chúng ta mua những thứ không cần thiết.",
+        "Lý trí và sự phân tích cẩn thận về giá trị, chất lượng sản phẩm trước khi quyết định.",
+        "Nhu cầu thực sự về sản phẩm và khả năng đáp ứng các yêu cầu cụ thể của cuộc sống.",
+        "Áp lực từ bạn bè và gia đình, khiến chúng ta phải mua những món đồ để phù hợp."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đoạn 'NHỮNG TRÒ LỪA TRONG TIẾP THỊ' khẳng định: 'phần lớn quyết định mua đồ của chúng ta không dựa trên quá trình suy nghĩ lý trí. Thay vào đó, chúng thường là vô thức. Những nhà tiếp thị khai thác những “động lực mua hàng” để thúc đẩy chúng ta mua sản phẩm của họ.' và 'Tâm lý học đóng vai trò vô cùng quan trọng trong hiện tượng này.'"
+    },
+    {
+      "id": "q15",
+      "question": "Sau khi đã cân nhắc nguồn và hàm ý của một khẳng định trực tuyến, bước cuối cùng mà tư duy phản biện yêu cầu để xác định độ tin cậy là gì?",
+      "options": [
+        "Chia sẻ thông tin đó với một nhóm lớn người để thu thập ý kiến đa chiều và phản hồi.",
+        "Chỉ tin vào những thông tin được đăng tải trên các nền tảng mạng xã hội phổ biến nhất.",
+        "Dựa vào trực giác cá nhân và cảm giác ruột thịt để quyết định thông tin có vẻ đúng không.",
+        "Tìm kiếm các nguồn đáng tin cậy khác (do chuyên gia điều hành) để xem có sự đồng thuận không."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đoạn 'HUYỀN THOẠI BÁNH BURGER' kết luận: 'Cuối cùng, hãy xem những nguồn đáng tin cậy có đồng thuận với vấn đề đó hay không. Đọc một vài website được điều hành bởi những chuyên gia được nói tới ở trên để tìm ra bất cứ mô hình nào và đọc thêm những nguồn khác để biết thêm thông tin.'"
+    }
+  ]
+}

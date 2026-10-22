@@ -1,0 +1,188 @@
+{
+  "bookId": "RenThoiQuenTuDuyPhanBien",
+  "chapterId": "02_chuong_1",
+  "chapterTitle": "02. Chương 1: Cách tư duy như một nhà tư tưởng",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo tác giả, vai trò của cảm xúc trong tư duy phản biện là gì?",
+      "options": [
+        "Cảm xúc là yếu tố gây nhiễu và cần được kiểm soát chặt chẽ để duy trì tính khách quan.",
+        "Cảm xúc cần được cân nhắc cùng lí trí để đạt kết luận tối ưu, không phải loại bỏ hoàn toàn.",
+        "Cảm xúc chỉ nên được sử dụng khi cần sự đồng cảm, còn lại thì lí trí phải chiếm ưu thế.",
+        "Cảm xúc là định kiến và hoàn toàn đối lập với bản chất của tư duy phản biện khoa học."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh rằng tư duy phản biện không phải là đề cao lí trí hơn con tim, mà mục đích của nó là cân nhắc cả hai để đi tới kết luận tối ưu. Sự cảm thông được coi là cực kì quan trọng đối với một người có tư duy phản biện thực thụ, bác bỏ định kiến về các nhà khoa học thiếu cảm xúc."
+    },
+    {
+      "id": "q2",
+      "question": "Khi áp dụng phương pháp khoa học vào việc lên kế hoạch cho một kì nghỉ, bước 'quan sát và đặt câu hỏi' tương ứng với hành động nào?",
+      "options": [
+        "Tìm kiếm thông tin về giá cả, thời tiết, giao thông và các địa điểm giải trí phù hợp với ngân sách.",
+        "Xác định nhu cầu thực sự của bản thân và gia đình, cũng như mong muốn của những người đi cùng.",
+        "Thực hiện chuyến đi và thu thập dữ liệu về trải nghiệm để đánh giá mức độ thành công của kì nghỉ.",
+        "Đưa ra kết luận cuối cùng về việc kì nghỉ có 'tuyệt vời' hay không và có muốn quay lại hay không."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong ví dụ về kì nghỉ, tác giả giải thích rằng bước 'quan sát' là xem xét bạn và gia đình cần gì (thư giãn, phiêu lưu, thay đổi thời tiết), tức là xác định nhu cầu. Sau đó, 'đặt câu hỏi' là thành thật với bản thân và tìm hiểu mong muốn của những người đi cùng để xác lập mục tiêu của kì nghỉ."
+    },
+    {
+      "id": "q3",
+      "question": "Tác giả cảnh báo về 'con đường sai lầm' khi chúng ta thường lựa chọn phương án nào trong cuộc sống?",
+      "options": [
+        "Lựa chọn một phương án dựa trên linh cảm hoặc sự dễ dàng nhất mà không tìm kiếm thêm thông tin.",
+        "Chỉ tin tưởng vào các dữ liệu khoa học đã được kiểm chứng mà bỏ qua các yếu tố cảm tính cá nhân.",
+        "Luôn cố gắng tìm kiếm con đường ngắn nhất và hiệu quả nhất, bất kể rủi ro tiềm ẩn có thể xảy ra.",
+        "Quyết định dựa trên kinh nghiệm cá nhân đã có, không chịu tiếp thu các ý kiến hoặc phương pháp mới."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả chỉ ra rằng cách suy nghĩ mặc định của chúng ta thường là lựa chọn con đường tuy ngắn nhưng thiếu thông tin, hoặc phương án nhìn qua có vẻ dễ dàng nhất. Việc này tiềm ẩn nhiều rủi ro vì chúng ta lựa chọn một cách ngẫu nhiên nếu không suy nghĩ kĩ càng và không tìm kiếm thêm thông tin."
+    },
+    {
+      "id": "q4",
+      "question": "Kĩ năng 'đánh giá' trong tư duy phản biện đòi hỏi một người phải làm gì sau khi đưa ra kết luận?",
+      "options": [
+        "Tự đặt câu hỏi liệu điều mình vừa phát hiện có phải là sự thật không và có thiên lệch không.",
+        "Chấp nhận kết luận nếu nó phù hợp với niềm tin cá nhân hoặc kinh nghiệm đã có từ trước.",
+        "Trình bày kết luận của mình một cách rõ ràng và thuyết phục để người khác dễ dàng chấp nhận.",
+        "So sánh kết luận của mình với kết luận của người khác để tìm ra điểm chung và sự đồng thuận."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kĩ năng đánh giá đòi hỏi bạn phải tự đặt câu hỏi: liệu điều bạn vừa phát hiện ra có phải là sự thật hay không? Hãy cố gắng hết mức có thể để đảm bảo rằng nó chính xác và không thiên lệch. Điều này bao gồm việc đóng vai phản diện, nghi ngờ dữ liệu và xem xét các khả năng khác."
+    },
+    {
+      "id": "q5",
+      "question": "Bài học chính từ câu chuyện về việc cải thiện thành tích chạy marathon của tác giả là gì?",
+      "options": [
+        "Việc phân tích dữ liệu chỉ từ một khía cạnh có thể bỏ sót những yếu tố quan trọng khác ảnh hưởng đến kết quả.",
+        "Chế độ ăn uống luôn là yếu tố quyết định hàng đầu đối với thành tích thể thao, hơn cả việc tập luyện.",
+        "Các chương trình tập luyện cường độ cao thường không mang lại hiệu quả như mong đợi nếu không có sự điều chỉnh.",
+        "Việc tham khảo ý kiến chuyên gia y tế là cần thiết trước khi bắt đầu bất kỳ chế độ tập luyện mới nào."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả ban đầu chỉ tập trung vào phân tích dữ liệu từ các buổi tập chạy và bỏ qua chế độ ăn uống. Khi nhận ra mình đã bỏ sót dữ liệu tiềm năng này và phát hiện ra chứng không dung nạp lactose, cô ấy đã cải thiện thành tích đáng kể. Điều này minh họa rằng việc chỉ tập trung vào một khía cạnh có thể khiến chúng ta bỏ lỡ bức tranh toàn cảnh và các yếu tố quan trọng khác."
+    },
+    {
+      "id": "q6",
+      "question": "Kĩ năng 'phản tư' được tác giả mô tả là gì và tại sao nó lại quan trọng?",
+      "options": [
+        "Là việc đặt ra nhiều câu hỏi 'Tại sao?' để tìm hiểu nguyên nhân sâu xa của mọi vấn đề trong cuộc sống.",
+        "Là khả năng phân tích và đánh giá các kết luận của người khác một cách khách quan và công bằng.",
+        "Là ý thức được ý định và động cơ của chính mình, giúp phát triển thói quen tốt nhất cho cuộc sống.",
+        "Là khả năng tự điều chỉnh hành vi và suy nghĩ để phù hợp với các chuẩn mực xã hội và kì vọng của cộng đồng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả định nghĩa phản tư là việc chúng ta ý thức được ý định và động cơ của chính mình. Nó quan trọng vì nó giúp vạch ra giới hạn giữa việc đạt được sự tiến bộ và việc trì trệ, cho phép chúng ta phát triển những thói quen tốt nhất cho cuộc sống một cách hiệu quả."
+    },
+    {
+      "id": "q7",
+      "question": "Theo Richard Paul và Linda Elder, mục tiêu trở thành 'nhà tư duy bậc thầy' đòi hỏi điều gì?",
+      "options": [
+        "Có khả năng sử dụng tư duy phản biện để thao túng hoặc khiến người khác bối rối một cách có chủ đích.",
+        "Chỉ cần nắm vững các kĩ năng tư duy phản biện, vì các đặc điểm cá nhân sẽ tự động hình thành theo thời gian.",
+        "Vượt qua mọi rào cản xã hội và cá nhân để luôn giữ vững quan điểm của mình, không bị ảnh hưởng bởi đám đông.",
+        "Tập luyện các kĩ thuật tư duy phản biện và phát triển những đặc điểm nhất định cho đến khi nó thành vô thức."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả trích dẫn Richard Paul và Linda Elder, mô tả mục tiêu trở thành một 'nhà tư duy bậc thầy' bằng cách tập luyện các kĩ thuật và phát triển một số đặc điểm nhất định cho tới khi tư duy phản biện trở thành trạng thái vô thức. Cả kĩ năng và đặc điểm đều đóng vai trò quan trọng."
+    },
+    {
+      "id": "q8",
+      "question": "Ví dụ về người bạn cập nhật trạng thái hôn nhân trên Facebook cho thấy cạm bẫy nào trong tư duy phản biện?",
+      "options": [
+        "Việc quá tin tưởng vào thông tin trên mạng xã hội mà không kiểm tra lại nguồn gốc hoặc độ tin cậy của nó.",
+        "Xu hướng hành động giống người khác và ít nghi ngờ tính xác thực của thông tin khi có nhiều người khẳng định.",
+        "Sự thiếu quan tâm đến đời sống cá nhân của người khác, dẫn đến việc bỏ lỡ các sự kiện quan trọng.",
+        "Việc cập nhật thông tin cá nhân quá muộn, gây ra sự hiểu lầm và nhầm lẫn trong cộng đồng mạng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ví dụ này minh họa rằng chúng ta dễ dàng hành động giống người khác (gửi lời chúc mừng) mà không kiểm tra lại thông tin, đặc biệt khi nhiều người khác cũng làm như vậy. Tác giả nhấn mạnh rằng 'càng nhiều người khẳng định một điều gì đó là đúng, chúng ta càng ít nghi ngờ tính xác thực của sự việc. Chúng ta dễ hoài nghi bản thân hơn là ý kiến của đám đông'."
+    },
+    {
+      "id": "q9",
+      "question": "Đặc điểm 'hoài nghi lành mạnh' trong tư duy phản biện được định nghĩa như thế nào?",
+      "options": [
+        "Là khả năng luôn tìm ra lỗi sai trong lập luận của người khác để chứng minh quan điểm của mình là đúng.",
+        "Là việc muốn đảm bảo người khác đưa cho bạn thông tin chính xác, không phải là một thái độ tiêu cực.",
+        "Là việc từ chối tin tưởng bất kỳ thông tin nào cho đến khi có bằng chứng khoa học rõ ràng và không thể chối cãi.",
+        "Là thái độ đa nghi với mọi người, kể cả những người thân cận, để tránh bị lừa dối hoặc thao túng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả giải thích rằng hoài nghi lành mạnh không có nghĩa bạn là một người tiêu cực, mà nó có nghĩa là bạn muốn đảm bảo người khác đưa cho bạn thông tin chính xác. Nó bao gồm việc tự hỏi 'mình có chắc chắn điều này là đúng hay không?' và yêu cầu thêm chứng cứ."
+    },
+    {
+      "id": "q10",
+      "question": "Ví dụ về Galileo và kính thiên văn của ông minh họa cho đặc điểm nào của người có tư duy phản biện?",
+      "options": [
+        "Sự cởi mở trong việc chấp nhận các mô hình phức tạp để giải thích các hiện tượng tự nhiên.",
+        "Sự kiên định và quyết tâm bảo vệ niềm tin của mình, ngay cả khi bị xã hội và quyền lực phản đối.",
+        "Khả năng chế tạo công cụ mới để thu thập dữ liệu, từ đó đưa ra những kết luận đột phá và chính xác.",
+        "Sự tò mò, dám đi ngược lại nhận định phổ biến và tìm kiếm bằng chứng mới để chứng minh quan điểm."
+      ],
+      "correctIndex": 3,
+      "explanation": "Galileo được dùng làm ví dụ cho sự tò mò. Ông đã ngừng mặc định chấp nhận những lí thuyết đương thời là đúng, và nhờ thế, ông nảy sinh sự tò mò trong khi những người khác cố gắng một cách tuyệt vọng để gò ép dữ liệu của mình sao cho phù hợp với kết luận có sẵn. Ông đã sử dụng kính thiên văn để chứng minh quan điểm khác biệt của mình."
+    },
+    {
+      "id": "q11",
+      "question": "Để trở nên 'cởi mở' trong tư duy phản biện, điều quan trọng nhất mà tác giả khuyên là gì?",
+      "options": [
+        "Tránh xa những người có định kiến hoặc những vòng tròn xã hội có thể ảnh hưởng tiêu cực đến suy nghĩ.",
+        "Luôn lắng nghe và chấp nhận mọi quan điểm khác biệt, ngay cả khi chúng mâu thuẫn với niềm tin của mình.",
+        "Nhận thức được những định kiến của bản thân và thách thức chúng bằng cách đặt câu hỏi thành thật.",
+        "Chỉ tin tưởng vào các thông tin đã được kiểm chứng khoa học, không để cảm xúc cá nhân chi phối."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định rằng để trở nên cởi mở, bạn cần nhận thức được mình đang mang những định kiến nào. Ai cũng mang định kiến, và việc quan trọng là phải tự vấn bản thân, tự hỏi tại sao bạn cho rằng ai đó sẽ hành động theo một cách nào đó, và thách thức những định kiến đó."
+    },
+    {
+      "id": "q12",
+      "question": "Khi đi mua sắm, việc áp dụng đặc điểm 'khách quan' có ý nghĩa như thế nào?",
+      "options": [
+        "Khuyến khích bạn mua những món đồ cần thiết nhất, không bị ảnh hưởng bởi quảng cáo hoặc xu hướng.",
+        "Cho phép bạn so sánh giá cả và chất lượng sản phẩm một cách công bằng giữa các cửa hàng khác nhau.",
+        "Giúp bạn nhìn thẳng vào thực tế nhu cầu của mình, loại bỏ cảm xúc khỏi quyết định mua sắm.",
+        "Giúp bạn nhận ra những món đồ mà người khác mong bạn mua, từ đó đưa ra lựa chọn độc lập."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả gợi ý rằng sự khách quan đòi hỏi bạn nhìn thẳng vào thực tế thay vì ảo tượng. Trong ví dụ mua sắm, nó có nghĩa là bạn cần phân biệt giữa những gì bạn đang cần và kiểu mua sắm theo cảm hứng, loại bỏ cảm xúc khỏi những quyết định nhỏ này để thấy tác động của chúng đối với các lựa chọn của bạn."
+    },
+    {
+      "id": "q13",
+      "question": "Sự khác biệt giữa người tư duy phản biện 'tư lợi' và 'công bằng' nằm ở đâu?",
+      "options": [
+        "Người tư duy phản biện tư lợi chỉ tập trung vào việc thu thập dữ liệu, còn người công bằng thì tập trung vào giải thích.",
+        "Người tư duy phản biện tư lợi có khả năng lí trí cao hơn và luôn đạt được lợi ích cá nhân trong mọi tình huống.",
+        "Người tư duy phản biện công bằng luôn đặt lợi ích của cộng đồng lên trên lợi ích cá nhân của mình.",
+        "Người tư duy phản biện công bằng không chứa đựng thiên kiến và không sử dụng lập luận để thao túng người khác."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả giải thích rằng người tư duy phản biện tư lợi là người cực kì lí trí và có thể sử dụng tư duy phản biện thành thạo vì lợi ích của bản thân, sử dụng lập luận để thao túng hoặc khiến người khác bối rối. Tuy nhiên, điểm yếu của họ là trong suy nghĩ luôn chứa đựng thiên kiến, nên thực ra đó không phải là tư duy phản biện. Người tư duy phản biện công bằng thì không có những đặc điểm này."
+    },
+    {
+      "id": "q14",
+      "question": "Đặc điểm 'khiêm tốn' trong tư duy phản biện có ý nghĩa gì đối với một người?",
+      "options": [
+        "Không coi mình là người biết rõ nhất mọi chuyện hay giải pháp tối ưu là cái có lợi cho bạn, mà biết cả điểm yếu.",
+        "Luôn đặt câu hỏi về kiến thức của bản thân và không bao giờ tự tin vào những gì mình đã học được.",
+        "Chỉ thừa nhận những thành tựu của mình là do may mắn hoặc hoàn cảnh ngẫu nhiên, không phải do tài năng.",
+        "Tránh thể hiện kiến thức hoặc khả năng của mình trước người khác để không gây ra sự đố kỵ hoặc hiểu lầm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khiêm tốn có nghĩa là không coi mình là người biết rõ nhất mọi chuyện hay giải pháp tối ưu là cái có lợi cho bạn. Nó bao gồm việc biết cả điểm mạnh và điểm yếu của bản thân, tránh hội chứng kẻ mạo danh nhưng cũng không phủ nhận năng lực của mình. Mấu chốt là sự cân bằng."
+    },
+    {
+      "id": "q15",
+      "question": "Lời khuyên của Lão Tử 'cứng rắn là con đường chết, yếu mềm nhỏ bé là con đường sống' được tác giả dùng để nhấn mạnh đặc điểm nào?",
+      "options": [
+        "Sự vị tha, khả năng chấp nhận những quan điểm khác biệt mà không tự ái, tránh xung đột không cần thiết.",
+        "Sự khiêm tốn, không cố gắng tỏ ra mạnh mẽ hay cứng rắn trong mọi tình huống, mà biết chấp nhận giới hạn.",
+        "Sự mềm dẻo, khả năng thích nghi khi cuộc sống thay đổi thay vì vụn vỡ, đồng thời sẵn sàng rà soát niềm tin.",
+        "Sự cởi mở, không giữ những định kiến cứng nhắc, mà luôn sẵn sàng tiếp thu những ý tưởng mới mẻ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả sử dụng câu nói của Lão Tử để minh họa cho đặc điểm 'mềm dẻo'. Mềm dẻo không có nghĩa là không kiên định, mà là khi cuộc đời thay đổi, bạn có thể thích nghi thay vì vụn vỡ. Điều này bao gồm việc sẵn sàng rà soát và cập nhật những niềm tin và thói quen có ích."
+    }
+  ]
+}

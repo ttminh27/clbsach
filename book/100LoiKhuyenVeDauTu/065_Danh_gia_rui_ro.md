@@ -1,0 +1,17 @@
+# 65. Đánh giá rủi ro
+
+**JOSHUA L. MUSS**
+
+*Joshua L. Muss là Chủ tịch của Công ty Muss Development, một trong những công ty bất động sản phát triển nhất ở thành phố New York.*
+
+Trong nhiều năm liền, sự phát triển của thành phố New York chịu sự chi phối của các gia đình kinh doanh bất động sản. Cần phải có truyền thống lâu đời để tích luỹ đủ vốn và kinh nghiệm, hiểu ra các quy luật của vòng quay tỷ lệ lãi suất, chứng kiến giai đoạn thị trường khủng hoảng cũng như những thời kì làm ăn phát đạt có thể kéo dài hàng thập kỷ… và rất nhiều trải nghiệm khác nữa.
+
+Ông tôi - Isaac Muss - đến Mỹ năm 1906. Ông bắt đầu xây dựng cơ nghiệp hoành tráng của mình ở Brooklyn, và khi thời kỳ Đại suy thoái bùng nổ, nó đã chôn vùi mọi thành quả của ông. Bố tôi là Hyman, một trong 11 người con của ông, đã quyết định nối nghiệp cha sau chiến tranh thế giới lần thứ Hai. Ngân sách tài chính lúc bấy giờ hết sức hạn hẹp, quy mô dự án rất khiêm tốn. Nhu cầu mua bán các khu nhà xây dựng theo kiểu stick - built cũng làm nóng lên các dự án kinh doanh bất động sản thương mại, tuy nhiên, quy mô vẫn chỉ ở mức nhỏ lẻ, mỗi thời điểm một dự án.
+
+Tốt nghiệp trường Luật ra, tôi dành trọn 5 năm thực tập với sự phục tùng thầm lặng và tôn thờ tuyệt đối người cha của mình. Tôi tin tưởng mọi điều ông làm đều đúng đắn. Nhưng 5 năm sau đó, tôi nhận ra tất cả những thứ Hyman Muss làm đều sai! Chúng tôi đã xây nhầm thứ và làm nhầm chỗ. Không có dự án nào đủ hấp dẫn và đủ lớn. Cái chúng tôi cần là một người cộng sự giỏi kiếm tiền để chúng tôi có thể trở thành những “người thành công nhất”. Nhưng bố tôi lại trả lời rằng: “Nếu anh có một dự án tốt, anh sẽ không cần đến một cộng sự. Nếu anh có một dự án tồi, anh cũng chẳng muốn có một cộng sự.”
+
+Nhiều thập kỷ sau, khi chúng tôi có nhiều dự án tầm cỡ hơn, tôi suy ngẫm về những lời nói đã thấm sâu trong tâm trí của tôi. Nghe theo lời khuyên của ông, (ông dù sao cũng từng là sếp!), tôi tìm kiếm những dự án có quy mô lớn hơn và tất nhiên là phải “không có rủi ro”. Quy trình thực hiện hết sức đơn giản: tìm những miếng đất rẻ, cải tạo, quy hoạch lại môi trường xung quanh, sắp xếp những việc cần làm, tiến hành thi công xây dựng và thu lợi nhuận. Miễn là có được cơ hội. Khá đơn giản. Đôi khi là như vậy.
+
+Tuy nhiên, trong thập kỷ cuối của thế kỷ 20 và bước sang đầu thế kỷ 21, cuộc sống trở nên phức tạp hơn. Không còn những luật lệ tài chính “thông thường” nữa. Thời kì hoàng kim của các gia đình kinh doanh kiểu cha truyền con nối được bổ sung, nếu không muốn nói là bị thay thế, bằng các công ty đầu tư bất động sản theo nhóm , các quỹ đầu tư cơ hội và các công ty cổ phần hùng mạnh. Phương pháp đầu tư tiền đầu tư dài hạn nhường chỗ cho phương pháp dự thảo vốn IRRs . Quy mô các dự án đều lên đến tiền tỉ. Mỗi ngày lại xuất hiện thêm nhiều doanh nhân mới, tuy còn thiếu kinh nghiệm và thậm chí ít vốn, song cùng với những đối tác đầy triển vọng, họ đang đi những bước tiến vô cùng to lớn.
+
+Tôi vẫn tiếp tục lưu tâm đến lời khuyên của cha với một chút thay đổi: tôi đánh giá trong mỗi dự án như thế, rủi ro là của chính mình và tôi cần phải giải quyết chúng. Khi tôi cảm thấy hài lòng với dự án và tự thấy có thể tiến hành mà không cần nhờ đến một cộng sự nào, tôi vẫn mời họ tham gia. Trong thế giới kinh doanh bất động sản ngày nay, bạn “cần” và bạn “muốn” có những người cộng sự. Tinh thần hợp tác tốt sẽ giúp công ty Muss Development gặt hái thành công và tiếp tục phát triển trên suốt chặng đường dài hàng trăm năm tới.
