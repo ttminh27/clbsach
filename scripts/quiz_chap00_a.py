@@ -1,0 +1,187 @@
+# -*- coding: utf-8 -*-
+
+data = {
+    "chapterTitle": "Lời nói đầu & Mục lục",
+    "questions": [
+        {
+            "id": "q1",
+            "question": "Báo cáo của LHQ năm 2006 về bạo lực trẻ em kết luận nguyên nhân gốc rễ của bạo lực gia đình xuất phát từ đâu?",
+            "options": [
+                "Từ sự gia tăng các khó khăn kinh tế và thiếu thốn vật chất trong các hộ gia đình.",
+                "Từ những quan niệm tập quán lạc hậu cùng với sự thiếu hiểu biết về quyền trẻ em.",
+                "Từ việc trẻ em ngày càng tiếp xúc nhiều với các trò chơi bạo lực trên mạng xã hội.",
+                "Từ sự buông lỏng các quy định giám sát và xử phạt hành chính của chính quyền sở tại."
+            ],
+            "correctIndex": 1,
+            "explanation": "Báo cáo chỉ rõ bạo lực xuất phát sâu xa từ các tập quán truyền thống xem roi vọt là công cụ dạy dỗ và chưa nhận thức được trẻ em là chủ thể nhân quyền có phẩm giá trọn vẹn."
+        },
+        {
+            "id": "q2",
+            "question": "Công ước Quốc tế về Quyền Trẻ em (UNCRC 1989) định vị bản chất mối quan hệ giữa cha mẹ và con cái như thế nào?",
+            "options": [
+                "Cha mẹ có toàn quyền tuyệt đối đối với con cái vì đã có công sinh thành và nuôi dưỡng.",
+                "Con cái là tài sản thuộc sở hữu gia đình và phải tuyệt đối phục tùng mọi mong muốn của cha mẹ.",
+                "Nhà nước là người giám hộ chính thức, cha mẹ chỉ thực hiện nghĩa vụ trợ cấp chi phí sinh hoạt.",
+                "Cha mẹ là người dẫn dắt và bảo hộ, còn con cái là cá thể độc lập không thuộc sở hữu của ai."
+            ],
+            "correctIndex": 3,
+            "explanation": "Công ước khẳng định nguyên tắc nhân quyền căn bản: không ai có thể là tài sản của người khác. Cha mẹ có vai trò nuôi dạy, dẫn dắt nhưng không phải là chủ sở hữu của con."
+        },
+        {
+            "id": "q3",
+            "question": "Trong nhóm 'Quyền được sống và phát triển', yếu tố nào sau đây phản ánh đúng tinh thần giáo dục tiến bộ?",
+            "options": [
+                "Được đáp ứng mọi đòi hỏi hưởng thụ vật chất mà không cần tuân theo bất kỳ kỷ luật nào.",
+                "Được ép buộc học tập với cường độ cao nhằm đảm bảo sự nghiệp thành công vượt trội sau này.",
+                "Được bảo đảm dinh dưỡng, chăm sóc y tế, tiếp cận giáo dục và vui chơi giải trí lành mạnh.",
+                "Được tự do tuyệt đối làm bất cứ điều gì mình thích mà người lớn không có quyền can thiệp."
+            ],
+            "correctIndex": 2,
+            "explanation": "Quyền sống và phát triển bao gồm việc đáp ứng các nhu cầu thể chất, chăm sóc sức khỏe, giáo dục khai phóng và quyền được vui chơi giải trí phù hợp với lứa tuổi."
+        },
+        {
+            "id": "q4",
+            "question": "Nội dung nào sau đây thể hiện đúng bản chất của 'Quyền tham gia' của trẻ em trong đời sống gia đình hàng ngày?",
+            "options": [
+                "Trẻ được bày tỏ suy nghĩ, cảm xúc và quan điểm đó được cha mẹ lắng nghe, cân nhắc tôn trọng.",
+                "Trẻ được quyền quyết định toàn bộ các vấn đề tài chính và chi tiêu chung của gia đình.",
+                "Trẻ có quyền từ chối mọi sự hướng dẫn và các nguyên tắc đạo đức mà cha mẹ đưa ra trong nhà.",
+                "Trẻ chỉ được phép có ý kiến khi cha mẹ yêu cầu và không được bày tỏ sự bất đồng quan điểm."
+            ],
+            "correctIndex": 0,
+            "explanation": "Quyền tham gia khẳng định trẻ em có quyền cất lên tiếng nói về những vấn đề liên quan đến bản thân, và tiếng nói đó cần được người lớn lắng nghe, đối thoại với thái độ tôn trọng."
+        },
+        {
+            "id": "q5",
+            "question": "Quan niệm dân gian 'Thương cho roi cho vọt' xung đột trực tiếp với nguyên tắc nhân quyền nào của trẻ em?",
+            "options": [
+                "Quyền được cung cấp nơi ở an toàn và đầy đủ tiện nghi sinh hoạt hiện đại.",
+                "Quyền được bảo vệ khỏi mọi hình thức bạo lực thân thể và tổn hại phẩm giá con người.",
+                "Quyền được tự do bày tỏ ý kiến và tự quyết định nơi cư trú theo nguyện vọng cá nhân.",
+                "Quyền được ưu tiên chăm sóc sức khỏe ban đầu tại các cơ sở y tế chuyên khoa công lập."
+            ],
+            "correctIndex": 1,
+            "explanation": "UNCRC quy định rõ trẻ em phải được bảo vệ khỏi mọi hình thức bạo lực thể chất, trừng phạt thân thể và các đối xử tàn nhẫn làm suy giảm nhân phẩm."
+        },
+        {
+            "id": "q6",
+            "question": "Theo tài liệu, tại sao phần lớn các bậc cha mẹ trong quá khứ thường dùng đến đòn roi khi dạy con?",
+            "options": [
+                "Vì nghiên cứu tâm lý học thời kỳ trước đã chứng minh đòn roi mang lại hiệu quả bền vững nhất.",
+                "Vì luật pháp truyền thống bắt buộc cha mẹ phải trừng phạt thể xác con cái thật nghiêm khắc.",
+                "Vì trẻ em trong xã hội xưa có hệ thần kinh đặc biệt chỉ tiếp thu được qua sự sợ hãi đòn roi.",
+                "Vì họ học làm cha mẹ theo bản năng cảm xúc và lặp lại những trải nghiệm thời thơ ấu của mình."
+            ],
+            "correctIndex": 3,
+            "explanation": "Đa số phụ huynh chưa từng được đào tạo về sự phát triển tâm lý trẻ em; họ xử sự theo cảm xúc nóng giận bộc phát hoặc vô thức sao chép lại những gì thế hệ trước đã làm với mình."
+        },
+        {
+            "id": "q7",
+            "question": "Điều 3 trong Công ước Quốc tế về Quyền Trẻ em đặt ra nguyên tắc chỉ đạo xuyên suốt nào?",
+            "options": [
+                "Quyền lợi tối đa của các bậc phụ huynh luôn là ưu tiên hàng đầu trong các quyết định gia đình.",
+                "Sự hòa thuận bề ngoài của gia đình phải được đặt lên trên các nhu cầu cá nhân của đứa trẻ.",
+                "Lợi ích tốt nhất của trẻ em phải là mối quan tâm hàng đầu trong mọi hoạt động liên quan đến trẻ.",
+                "Các tiêu chuẩn phát triển kinh tế xã hội là thước đo căn bản để đánh giá mức độ nuôi dạy con."
+            ],
+            "correctIndex": 2,
+            "explanation": "Điều 3 UNCRC quy định: 'Trong mọi hoạt động liên quan đến trẻ em, lợi ích tốt nhất của trẻ phải là mối quan tâm hàng đầu' của cả gia đình, nhà trường và xã hội."
+        },
+        {
+            "id": "q8",
+            "question": "Khi cha mẹ kiểm soát con bằng nỗi sợ hãi, tổn hại tâm lý lớn nhất mà đứa trẻ phải gánh chịu là gì?",
+            "options": [
+                "Trẻ bị tổn thương lòng tự trọng, giảm khả năng tự điều chỉnh và hình thành xu hướng bạo lực.",
+                "Trẻ sẽ học tập kém đi ở các môn khoa học tự nhiên do giảm khả năng tính toán nhanh chóng.",
+                "Trẻ sẽ đòi hỏi nhiều đồ chơi đắt tiền hơn để bù đắp lại cảm giác ấm ức trong lòng mình.",
+                "Trẻ sẽ tăng trưởng chiều cao chậm hơn đáng kể so với mức trung bình của các bạn cùng lứa."
+            ],
+            "correctIndex": 0,
+            "explanation": "Kiểm soát bằng sợ hãi làm xói mòn lòng tự trọng, triệt tiêu động lực tự giác nội tại và dạy cho trẻ bài học sai lầm rằng kẻ mạnh có quyền dùng sức mạnh để đàn áp kẻ yếu."
+        },
+        {
+            "id": "q9",
+            "question": "Tổ chức Save the Children giữ vai trò sứ mệnh gì trong việc phát triển bộ tài liệu này?",
+            "options": [
+                "Thanh tra và xử phạt vi phạm hành chính đối với những cha mẹ dùng bạo lực với con cái.",
+                "Cung cấp các giải pháp phi bạo lực dựa trên quyền trẻ em để đồng hành hỗ trợ phụ huynh toàn cầu.",
+                "Tài trợ toàn bộ học bổng đại học cho tất cả trẻ em tham gia vào các khóa học kỹ năng mềm.",
+                "Thay thế hoàn toàn trách nhiệm nuôi dưỡng của gia đình bằng các trung tâm chăm sóc xã hội."
+            ],
+            "correctIndex": 1,
+            "explanation": "Save the Children phát triển chương trình Kỷ luật tích cực nhằm trang bị kiến thức, kỹ năng thực hành bất bạo lực cho cha mẹ, tôn trọng quyền và phẩm giá của trẻ em trên toàn cầu."
+        },
+        {
+            "id": "q10",
+            "question": "Một người cha cho rằng: 'Nếu không phạt đòn thì con sẽ coi thường kỷ cương'. Sai lầm nhận thức ở đây là gì?",
+            "options": [
+                "Quá tin tưởng vào các lý thuyết giáo dục phương Tây mà bỏ quên văn hóa gia đình truyền thống.",
+                "Đồng nhất một cách sai lầm giữa khái niệm 'kỷ luật' với việc 'trừng phạt thể xác bằng bạo lực'.",
+                "Đánh giá quá thấp khả năng chịu đựng thể chất tự nhiên của một đứa trẻ đang tuổi trưởng thành.",
+                "Không nhận ra rằng phạt đòn chỉ có tác dụng đối với con gái chứ không hiệu quả với con trai."
+            ],
+            "correctIndex": 1,
+            "explanation": "Kỷ luật thực chất là quá trình giảng dạy và xây dựng năng lực tự chủ. Nhầm lẫn kỷ luật với đòn roi khiến người lớn tin rằng bạo lực là cách duy nhất để duy trì trật tự."
+        },
+        {
+            "id": "q11",
+            "question": "Quyền được đối xử tôn trọng phẩm cách đòi hỏi cha mẹ phải kiềm chế hành vi nào trong đời sống?",
+            "options": [
+                "Yêu cầu con phải hoàn thành bài tập về nhà trước khi được phép xem ti vi buổi tối.",
+                "Nhắc nhở con phải rửa tay sạch sẽ bằng xà phòng trước khi bước vào bàn ăn cơm.",
+                "Quy định giờ giấc ngủ nghỉ điều độ để bảo đảm sức khỏe thể chất lâu dài cho con.",
+                "Quát tháo nhục mạ, dán nhãn xúc phạm và đem con ra so sánh chê bai trước người khác."
+            ],
+            "correctIndex": 3,
+            "explanation": "Xúc phạm nhân phẩm qua lời nói như mắng nhiếc thậm tệ, sỉ nhục hay bêu riếu nơi đông người là hành vi bạo lực tinh thần vi phạm nghiêm trọng quyền nhân phẩm của trẻ."
+        },
+        {
+            "id": "q12",
+            "question": "Tại sao tài liệu khẳng định 'Kỷ luật dựa trên quyền trẻ em' không đồng nghĩa với 'Nuông chiều buông thả'?",
+            "options": [
+                "Vì nó vẫn đòi hỏi trẻ phải tham gia lao động kiếm thêm thu nhập phụ giúp gia đình hàng tháng.",
+                "Vì cha mẹ vẫn được phép sử dụng các biện pháp cắt giảm khẩu phần ăn để uốn nắn hành vi của trẻ.",
+                "Vì nó kết hợp chặt chẽ giữa sự yêu thương tôn trọng với việc thiết lập ranh giới định hướng rõ ràng.",
+                "Vì trẻ vẫn bị giám sát liên tục bằng các thiết bị công nghệ hiện đại suốt hai mươi tư giờ."
+            ],
+            "correctIndex": 2,
+            "explanation": "Kỷ luật tích cực không bỏ mặc trẻ muốn làm gì thì làm; nó cung cấp cho trẻ cấu trúc vững chắc, ranh giới an toàn và những chỉ dẫn rõ ràng trong tình yêu thương ấm áp."
+        },
+        {
+            "id": "q13",
+            "question": "Khi trẻ được đối xử với sự tôn trọng nhân quyền từ nhỏ, hiệu quả lâu dài đối với nhân cách của trẻ là gì?",
+            "options": [
+                "Trẻ hình thành tính kiêu ngạo và không bao giờ biết lắng nghe ý kiến đóng góp của người khác.",
+                "Trẻ mất đi hoàn toàn khả năng phản kháng tự vệ khi gặp phải kẻ xấu đe dọa ngoài xã hội.",
+                "Trẻ phát triển năng lực thấu cảm, tinh thần trách nhiệm và biết tôn trọng quyền của người khác.",
+                "Trẻ sẽ chỉ muốn sống khép kín và không thích tham gia vào bất kỳ hoạt động tập thể nào."
+            ],
+            "correctIndex": 2,
+            "explanation": "Một đứa trẻ lớn lên trong sự tôn trọng phẩm giá sẽ thấu hiểu giá trị của sự tôn trọng, từ đó biết yêu thương, có trách nhiệm và tôn trọng ranh giới của những người xung quanh."
+        },
+        {
+            "id": "q14",
+            "question": "Nếu cha mẹ từng lỡ đánh con trong quá khứ do tức giận, thông điệp tích cực mà tài liệu nhắn nhủ là gì?",
+            "options": [
+                "Không có ai là hoàn hảo; cha mẹ có thể học hỏi từ sai lầm và bắt đầu thay đổi cách ứng xử từ hôm nay.",
+                "Sai lầm trong quá khứ không thể cứu vãn và đứa trẻ chắc chắn sẽ chịu di chứng tâm thần suốt đời.",
+                "Cha mẹ nên che giấu chuyện đó và không bao giờ thừa nhận lỗi sai trước mặt đứa con của mình.",
+                "Nên tiếp tục áp dụng cách cũ vì sự thay đổi phương pháp giáo dục đột ngột sẽ khiến con bị bối rối."
+            ],
+            "correctIndex": 0,
+            "explanation": "Hành trình làm cha mẹ luôn đi kèm sự học hỏi và hoàn thiện bản thân. Nhận ra sai lầm để sửa đổi và cam kết bất bạo lực chính là bài học đạo đức cao đẹp nhất làm gương cho con."
+        },
+        {
+            "id": "q15",
+            "question": "Mục tiêu tối thượng của toàn bộ Công ước Quyền Trẻ em và tài liệu Kỷ luật tích cực là hướng tới điều gì?",
+            "options": [
+                "Tạo ra một thế giới nơi trẻ em được an toàn, phát triển toàn diện và gia đình tràn ngập sự thấu hiểu.",
+                "Xây dựng một hệ thống pháp lý phức tạp để đưa các xung đột trong gia đình ra xét xử trước tòa án.",
+                "Đồng nhất hóa phương pháp dạy dỗ của mọi nền văn hóa trên thế giới theo một khuôn mẫu duy nhất.",
+                "Giúp các bậc phụ huynh giảm bớt thời gian chăm sóc con cái để tập trung phát triển sự nghiệp cá nhân."
+            ],
+            "correctIndex": 0,
+            "explanation": "Mục tiêu cao cả nhất là xây dựng môi trường gia đình và xã hội an lành, nơi mọi đứa trẻ đều được bảo vệ khỏi bạo lực, được yêu thương và có đầy đủ điều kiện để tỏa sáng tiềm năng."
+        }
+    ]
+}

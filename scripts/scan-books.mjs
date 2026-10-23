@@ -54,6 +54,20 @@ const placeholderMetadata = {
     themeColor: "#ea580c",
     status: "available"
   },
+  "KiLuatTichCucTrongThucHanhLamChaMeHangNgay": {
+    title: "Kỷ Luật Tích Cực Trong Thực Hành Làm Cha Mẹ Hàng Ngày",
+    originalTitle: "Positive Discipline in Everyday Parenting (PDEP)",
+    author: "Joan E. Durrant, Ph.D.",
+    authorBio: "Tiến sĩ Tâm lý học trẻ em, Giáo sư tại Đại học Manitoba (Canada), chuyên gia nghiên cứu quốc tế hàng đầu về quyền trẻ em và nuôi dạy con không bạo lực.",
+    quote: "Kỷ luật thực sự có nghĩa là giảng dạy. Dạy dỗ không phải là trừng phạt, mà là đồng hành, thấu hiểu và trao cho con sự ấm áp cùng cấu trúc cần thiết để trưởng thành.",
+    translator: "Tiến sĩ Lê Văn Hảo (Biên tập: Nguyễn Bảo Chinh & Nguyễn Thu Hằng - Save the Children)",
+    category: "Nuôi dạy con & Tâm lý gia đình",
+    tags: ["Kỷ luật tích cực", "Nuôi dạy con", "Làm cha mẹ", "Tâm lý trẻ em", "Quyền trẻ em", "Save the Children", "Giáo dục gia đình", "Không bạo lực"],
+    description: "Cẩm nang hướng dẫn thực hành phương pháp Kỷ luật tích cực (PDEP) của Save the Children do TS. Joan E. Durrant biên soạn. Cuốn sách cung cấp giải pháp toàn diện cho mọi thách thức nuôi dạy con từ 0 đến 18 tuổi dựa trên 4 trụ cột: Xác định mục tiêu lâu dài, Tạo sự ấm áp và cấu trúc, Thấu hiểu tâm lý trẻ và Giải quyết vấn đề bằng sự thấu hiểu thay vì đòn roi.",
+    gradient: "from-teal-600 via-emerald-700 to-slate-900",
+    themeColor: "#0d9488",
+    status: "available"
+  },
   "7ThoiQuenHieuQua": {
     title: "7 Thói Quen Để Thành Đạt",
     originalTitle: "The 7 Habits of Highly Effective People",
