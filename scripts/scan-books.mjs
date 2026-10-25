@@ -15,6 +15,19 @@ function formatFileSize(bytes) {
 }
 
 const placeholderMetadata = {
+  "AnLacTungBuocChan": {
+    title: "An Lạc Từng Bước Chân",
+    originalTitle: "Peace Is Every Step: The Path of Mindfulness in Everyday Life",
+    author: "Thích Nhất Hạnh",
+    authorBio: "Thiền sư, giảng viên, nhà văn, nhà thơ, nhà hoạt động hòa bình quốc tế và là người sáng lập Đạo tràng Mai Thôn (Làng Mai). Ngài là bậc thầy tâm linh lỗi lạc đã đưa khái niệm chánh niệm đến phương Tây và truyền bá nghệ thuật sống an lạc khắp toàn cầu.",
+    quote: "An lạc có mặt trong ta ngay tại đây trong giờ phút này, trong mỗi vật và mỗi việc ta làm hay ta thấy. Vấn đề là ta có biết tiếp xúc với nó không. Bầu trời xanh ở ngay trước mắt ta, ta đâu cần phải đi đâu xa để thưởng thức trời xanh.",
+    category: "Triết lý sống & Tỉnh thức",
+    tags: ["Thích Nhất Hạnh", "Chánh niệm", "Thiền", "Bình an nội tâm", "An lạc", "Tỉnh thức", "Hạnh phúc"],
+    description: "Một trong những tác phẩm kinh điển và có sức ảnh hưởng sâu rộng nhất của Thiền sư Thích Nhất Hạnh, hướng dẫn cách thực hành chánh niệm nhẹ nhàng và tự nhiên trong từng phút giây đời thường: từ hơi thở, nụ cười buổi sáng, việc rửa chén, lái xe đến nghệ thuật chuyển hóa cơn giận và nuôi dưỡng bình an.",
+    gradient: "from-emerald-700 via-teal-800 to-slate-900",
+    themeColor: "#0f766e",
+    status: "available"
+  },
   "100LoiKhuyenVeDauTu": {
     title: "100 Lời Khuyên Đầu Tư Bất Động Sản Khôn Ngoan Nhất",
     originalTitle: "The Best Real Estate Advice I Ever Received",
