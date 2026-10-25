@@ -1,0 +1,188 @@
+{
+  "bookId": "GiaoTiepBatBaoDong",
+  "chapterId": "12_chuong_12",
+  "chapterTitle": "Chương 12: Dùng vũ lực với mục đích bảo vệ",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo quan điểm Giao Tiếp Bất Bạo Động (NVC), sự khác biệt căn bản nhất giữa 'vũ lực với mục đích bảo vệ' và 'vũ lực với mục đích trừng phạt' nằm ở điểm nào?",
+      "options": [
+        "Mức độ tổn thương thể xác gây ra cho đối phương",
+        "Chủ đích của người thực hiện hành động đó là gì",
+        "Thời gian áp dụng biện pháp cưỡng chế dài hay ngắn",
+        "Hoàn cảnh xung đột xảy ra có nguy hiểm hay không"
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo Marshall Rosenberg, điểm khác biệt cốt lõi nằm ở chủ đích: vũ lực bảo vệ nhằm giữ gìn sinh mạng hoặc quyền con người, trong khi vũ lực trừng phạt nhằm bắt người khác trả giá vì lỗi lầm. Các phương án khác chỉ là yếu tố ngoại cảnh hoặc hình thức thể hiện."
+    },
+    {
+      "id": "q2",
+      "question": "Khi một người cha ngăn kịp thời đứa con nhỏ đang chạy bổ ra giữa đường xe cộ đông đúc bằng một lực tay mạnh, theo NVC, đây là hành vi thuộc loại nào?",
+      "options": [
+        "Vũ lực trừng phạt vì đứa trẻ đã không nghe lời cha mẹ",
+        "Vũ lực bảo vệ tập trung vào sinh mạng và sự an toàn",
+        "Phản ứng bạo động vô thức do cơn giận bộc phát tức thời",
+        "Biện pháp kỷ luật thể xác nhằm dạy trẻ nhớ bài học nhớ đời"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hành động này xuất phát từ chủ đích bảo vệ đứa trẻ khỏi nguy hiểm tính mạng mà không hề mang ý phán xét, quy tội hay bắt trẻ chịu đau khổ để hối hận. Do đó, đây là vũ lực với mục đích bảo vệ thuần túy."
+    },
+    {
+      "id": "q3",
+      "question": "Theo Marshall Rosenberg, hành vi con người gây tổn thương cho bản thân hoặc người khác thường xuất phát từ gốc rễ nào sau đây?",
+      "options": [
+        "Sự thiếu hiểu biết bao gồm nhận thức sai lệch và niềm tin u mê",
+        "Bản chất con người từ khi sinh ra đã là xấu xa và tàn ác",
+        "Mong muốn cố tình chống đối lại các chuẩn mực xã hội chung",
+        "Áp lực từ hoàn cảnh sống khắc nghiệt ép buộc phải hành động"
+      ],
+      "correctIndex": 0,
+      "explanation": "NVC giả định rằng người ta hành xử gây tổn thương vì họ đang thiếu hiểu biết (thiếu nhận thức hậu quả, không thấy cách đáp ứng nhu cầu mà không làm hại ai, hoặc có niềm tin u mê rằng mình có quyền trừng phạt người khác), chứ bản chất không phải xấu xa."
+    },
+    {
+      "id": "q4",
+      "question": "Giả định cơ bản đằng sau việc sử dụng 'vũ lực với mục đích trừng phạt' đối với người phạm lỗi là gì?",
+      "options": [
+        "Họ đang thiếu kỹ năng giao tiếp và cần được lắng nghe đồng cảm",
+        "Bản chất họ là xấu xa và do đó họ hoàn toàn xứng đáng bị trừng phạt",
+        "Họ chưa nhận thức rõ hậu quả hành động nên cần được chỉ bảo thêm",
+        "Họ đang có nhu cầu chưa được thỏa mãn về sự tôn trọng và an toàn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vũ lực trừng phạt dựa trên niềm tin sai lầm rằng bản chất con người là xấu và họ xứng đáng chịu đau khổ, hối hận qua hình phạt. Ngược lại, NVC khẳng định họ cần sự thấu hiểu và chỉ bảo chứ không phải sự trừng phạt."
+    },
+    {
+      "id": "q5",
+      "question": "Theo nghiên cứu và trải nghiệm của Marshall Rosenberg, hệ quả thực tế thường thấy nhất của các biện pháp trừng phạt (như đòn roi hay chỉ trích) đối với con người là gì?",
+      "options": [
+        "Tạo ra sự ăn năn sâu sắc và mong muốn tự giác thay đổi hành vi",
+        "Giúp cá nhân nhận ra giá trị bên trong của việc làm đúng đắn",
+        "Nâng cao lòng tự trọng và tinh thần trách nhiệm của người vi phạm",
+        "Tạo ra sự oán giận, thù hận, chống đối và làm giảm thiện chí"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thực tế cho thấy trừng phạt hiếm khi tạo ra sự ăn năn thực sự mà thay vào đó kích thích sự oán giận, thù hận, làm suy giảm lòng tự trọng, thiện chí và khiến con người chỉ tập trung né tránh hậu quả bên ngoài."
+    },
+    {
+      "id": "q6",
+      "question": "Khi cha mẹ cắt tiền tiêu vặt hoặc dán nhãn con là 'hư đốn' khi trẻ mắc lỗi, những hình thức này được NVC xếp vào nhóm nào?",
+      "options": [
+        "Các giải pháp linh hoạt nhằm giáo dục kỷ luật tích cực cho trẻ",
+        "Biện pháp bảo vệ quyền lợi hợp pháp của các thành viên gia đình",
+        "Các loại vũ lực với mục đích trừng phạt nhằm hạ thấp nhân phẩm",
+        "Phương pháp khơi gợi động lực nội tại giúp trẻ tự giác tiến bộ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bên cạnh đòn roi thể xác, việc tước đoạt quyền lợi hay chỉ trích hạ thấp nhân phẩm, dán nhãn 'hư đốn' đều là các dạng vũ lực trừng phạt tinh thần gây tổn hại đến lòng tự trọng và mối quan hệ kết nối."
+    },
+    {
+      "id": "q7",
+      "question": "Khi một nhân viên làm việc chỉ để tránh bị sếp khiển trách hoặc trừ lương, tác động lâu dài đối với người nhân viên đó theo NVC là gì?",
+      "options": [
+        "Tinh thần làm việc bị ảnh hưởng, kết quả giảm sút và lòng tự trọng bị bào mòn",
+        "Họ sẽ ngày càng gắn bó và cống hiến hết mình cho sự phát triển chung",
+        "Họ tự động phát triển được năng lực sáng tạo và tư duy độc lập cao",
+        "Mối quan hệ đồng nghiệp trở nên khăng khít và tràn đầy lòng trắc ẩn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi hành động chỉ vì né tránh hình phạt thay vì nhận ra giá trị nội tại, tinh thần làm việc, kết quả dài hạn và lòng tự trọng của cá nhân đó sẽ bị ảnh hưởng tiêu cực, làm cạn kiệt nguồn thiện chí."
+    },
+    {
+      "id": "q8",
+      "question": "Trong câu chuyện vị hiệu trưởng tát học sinh đánh bạn yếu thế hơn và nói lớn 'Thầy sẽ dạy em về việc không đánh người', phản ứng của Marshall Rosenberg đối với vị hiệu trưởng phản ánh điều gì?",
+      "options": [
+        "Đứa trẻ sẽ lập tức hiểu ra bài học đạo đức và thay đổi hoàn toàn thái độ",
+        "Vị hiệu trưởng đã áp dụng chính xác phương pháp vũ lực bảo vệ trong trường học",
+        "Đứa trẻ chỉ học được cách không đánh người khi có người quyền lực quan sát",
+        "Đứa trẻ sẽ cảm nhận được tình yêu thương sâu sắc từ phía nhà trường"
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc dùng bạo lực để dạy trẻ không được dùng bạo lực thực chất chỉ dạy trẻ bài học sợ hãi quyền lực và củng cố niềm tin rằng bạo lực là cách đạt được mục đích khi đối phương yếu thế hơn, chứ không mang lại sự chuyển hóa nội tâm."
+    },
+    {
+      "id": "q9",
+      "question": "Khi chứng kiến một học sinh đánh bạn do bị chọc ghẹo, bước đầu tiên theo quy trình NVC mà người can thiệp nên thực hiện là gì?",
+      "options": [
+        "Ngay lập tức đưa ra hình thức kỷ luật đình chỉ học tập nghiêm khắc",
+        "Trao sự đồng cảm nhằm thấu hiểu cảm xúc và nhu cầu đằng sau hành vi",
+        "Phê phán hành vi bạo lực trước tập thể để răn đe những học sinh khác",
+        "Yêu cầu học sinh đó phải công khai xin lỗi bạn ngay tại hiện trường"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bước đầu tiên của NVC trong tình huống này là kết nối và trao sự đồng cảm (ví dụ: 'Có phải em tức giận vì muốn được tôn trọng?'), giúp học sinh thấy mình được thấu hiểu trước khi đưa ra đề nghị hướng giải quyết khác."
+    },
+    {
+      "id": "q10",
+      "question": "Theo Marshall Rosenberg, để đánh giá xem việc thay đổi hành vi con người có thực sự hiệu quả hay không, hai câu hỏi nào là quan trọng nhất cần được đặt ra?",
+      "options": [
+        "Ai là người vi phạm và mức độ phạt nặng hay nhẹ thế nào?",
+        "Làm thế nào để ép họ tuân thủ tuyệt đối mà không cần giải thích?",
+        "Hành vi đó vi phạm nội quy nào và thời gian sửa đổi trong bao lâu?",
+        "Tôi muốn người này làm gì khác đi và lý do của họ khi làm là gì?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hai câu hỏi then chốt là: (1) Tôi muốn người này làm gì khác đi? và (2) Tôi muốn lý do của họ khi làm điều đó là gì? Sự trừng phạt chỉ đạt kết quả ở câu hỏi thứ nhất nhưng thất bại hoàn toàn ở câu hỏi thứ hai (động lực nội tại)."
+    },
+    {
+      "id": "q11",
+      "question": "Sự khác biệt lớn nhất giữa việc giáo dục trẻ dọn dẹp nhà cửa bằng hình phạt và bằng tinh thần NVC là gì?",
+      "options": [
+        "Hình phạt khiến trẻ làm việc vì sợ hãi, còn NVC giúp trẻ nhận ra giá trị nội tại",
+        "Hình phạt giúp tiết kiệm thời gian hơn nhiều so với việc áp dụng phương pháp NVC",
+        "NVC bắt buộc trẻ phải tuân thủ tuyệt đối mà không cần quan tâm đến cảm xúc",
+        "Hình phạt làm gia tăng tinh thần trách nhiệm tự giác bền vững bên trong trẻ nhỏ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hình phạt khiến trẻ làm vì đối phó và sợ hãi hậu quả bên ngoài, trong khi NVC giúp nâng cao sự nhận thức về giá trị nội tại của hành động đối với bản thân và gia đình, từ đó khơi dậy động lực tự nguyện."
+    },
+    {
+      "id": "q12",
+      "question": "Trong cuộc đối thoại giữa Marshall Rosenberg và nhóm học sinh cá tính tại ngôi trường đặc biệt, cách ông phản hồi lại ý kiến của học sinh thể hiện thái độ nào?",
+      "options": [
+        "Phủ nhận hoàn toàn mọi ý kiến của học sinh vì chúng mang tính bạo lực",
+        "Sử dụng quyền lực của chuyên gia để áp đặt kỷ luật lên toàn bộ nhóm trẻ",
+        "Lắng nghe đồng cảm sâu sắc các nhu cầu đằng sau mà không phán xét",
+        "Đồng ý ngay lập tức với việc dùng roi mây và đuổi học học sinh cá biệt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Marshall Rosenberg đã kiên nhẫn lắng nghe, phản ánh lại cảm xúc và nhu cầu của học sinh (như mong muốn giáo viên hành động, muốn lớp học không bị làm phiền) mà không hề phán xét hay chỉ trích các em."
+    },
+    {
+      "id": "q13",
+      "question": "Giải pháp 'căn phòng không-làm-gì-cả' do chính các em học sinh đề xuất trong buổi thảo luận với Marshall Rosenberg đạt hiệu quả cao vì lý do cốt lõi nào?",
+      "options": [
+        "Đó là kết quả đến từ sự thảo luận tự nguyện của chính các em học sinh",
+        "Đó là quyết định độc đoán và nghiêm khắc do ban giám hiệu áp đặt xuống",
+        "Nó là hình thức trừng phạt nặng nề nhất nhằm cách ly học sinh hư đốn",
+        "Nó giúp nhà trường không phải tốn kém chi phí thuê thêm giáo viên quản lý"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giải pháp thành công vì nó xuất phát từ chính sự thấu hiểu nhu cầu tập trung học tập và được xây dựng từ sự thảo luận tự nguyện của các em học sinh, với mục đích hỗ trợ chứ không mang tính trừng phạt."
+    },
+    {
+      "id": "q14",
+      "question": "Khi áp dụng 'vũ lực với mục đích bảo vệ' trong những tình huống nguy cấp không có thời gian đối thoại, điều quan trọng nhất người thực hiện cần duy trì trong tâm trí là gì?",
+      "options": [
+        "Tìm mọi cách để trừng phạt thật nặng tay nhằm răn đe đối phương ngay",
+        "Chứng tỏ uy quyền tuyệt đối của bản thân để người khác phải khiếp sợ",
+        "Chỉ tập trung bảo vệ sinh mạng/quyền con người mà không phán xét, quy tội",
+        "Đảm bảo rằng hành động đó không làm tổn hại đến lợi ích cá nhân mình"
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi buộc phải dùng vũ lực bảo vệ, chủ đích duy nhất là bảo vệ sự sống và quyền con người, hoàn toàn không mang tâm lý trừng phạt, phán xét hay quy tội cho đối phương."
+    },
+    {
+      "id": "q15",
+      "question": "Phát biểu nào sau đây tóm tắt chính xác nhất thông điệp cốt lõi của Chương 12 về việc sử dụng vũ lực trong Giao Tiếp Bất Bạo Động?",
+      "options": [
+        "NVC tuyệt đối cấm mọi hình thức sử dụng vũ lực dưới bất kỳ hoàn cảnh nào",
+        "Vũ lực trừng phạt là công cụ hiệu quả nhất để thay đổi hành vi con người lâu dài",
+        "Việc dùng đòn roi là cần thiết để dạy dỗ trẻ em trở thành người có kỷ luật tốt",
+        "Chỉ được dùng vũ lực để bảo vệ chứ không trừng phạt, vì trừng phạt tàn phá thiện chí"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chương sách nhấn mạnh NVC không từ chối vũ lực bảo vệ trong trường hợp khẩn cấp, nhưng kiên quyết loại bỏ vũ lực trừng phạt vì nó gây oán giận, hủy hoại thiện chí, lòng tự trọng và động lực nội tại."
+    }
+  ]
+}

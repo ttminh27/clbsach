@@ -1,0 +1,188 @@
+{
+  "bookId": "GiaoTiepBatBaoDong",
+  "chapterId": "01_chuong_01",
+  "chapterTitle": "Chương 1: Cho đi từ trái tim",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo tinh thần cốt lõi của Giao tiếp bất bạo động (NVC), khi một người dùng lời lẽ mắng mỏ, công kích hoặc chỉ trích bạn, cách tiếp cận phù hợp nhất của NVC là gì?",
+      "options": [
+        "Xem đó là món quà từ sự tổn thương, tập trung tìm kiếm cảm xúc và nhu cầu chưa được đáp ứng.",
+        "Xem đó là một phản ứng tự vệ mang tính tấn công và đáp trả lại bằng lập luận logic chặt chẽ.",
+        "Phân tích hành vi sai trái của họ theo các chuẩn mực đạo đức xã hội để họ nhận ra lỗi lầm.",
+        "Giữ im lặng hoàn toàn, che giấu cảm xúc cá nhân để tránh làm xung đột leo thang thêm nữa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong NVC, Marshall Rosenberg nhấn mạnh việc xem những lời chỉ trích, phán xét thực chất là sự biểu hiện đau khổ và là món quà từ sự tổn thương của người khác. Thay vì phòng thủ hay phản công, ta hướng sự chú ý vào cảm xúc và nhu cầu sâu thẳm đằng sau ngôn từ đó để tạo sự kết nối trắc ẩn."
+    },
+    {
+      "id": "q2",
+      "question": "Khi áp dụng bước 'Quan sát' trong quy trình NVC, yếu tố nào sau đây là chuẩn xác nhất để mô tả cách nói chuyện không bạo động?",
+      "options": [
+        "Chỉ rõ hành vi thực tế của đối phương mà không kèm theo bất kỳ đánh giá, phán xét hay nhãn dán nào.",
+        "Tổng hợp các đánh giá khách quan dựa trên thói quen lâu ngày của đối phương để họ dễ sửa đổi.",
+        "Kết hợp linh hoạt giữa nhận xét hành vi và việc áp đặt quan điểm cá nhân để tăng tính thuyết phục.",
+        "Nhận định ngay bản chất sự việc bằng các tính từ mạnh nhằm buộc đối phương phải nhìn nhận sai lầm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bước quan sát trong NVC đòi hỏi ta tách bạch hoàn toàn giữa hành vi thực tế (những gì mắt thấy tai nghe) với việc đánh giá hay phán xét. Đưa nhãn dán hay phán xét vào quan sát sẽ kích hoạt cơ chế phòng thủ của đối phương."
+    },
+    {
+      "id": "q3",
+      "question": "Trong câu chuyện tại trại tị nạn ở Bethlehem khi một người đàn ông hét lên 'Mày là quân giết người!', phản ứng nào của Marshall Rosenberg phản ánh đúng nguyên tắc NVC?",
+      "options": [
+        "Ông đưa ra các tài liệu lịch sử chứng minh chính sách ngoại giao của Mỹ là hoàn toàn đúng đắn.",
+        "Ông giữ sự chú tâm vào cảm xúc và nhu cầu của người đó để thấu hiểu nỗi đau ẩn sau câu nói.",
+        "Ông nhắc nhở người đàn ông đó rằng việc dùng từ ngữ xúc phạm là hành vi thiếu văn hóa và tôn trọng.",
+        "Ông phản bác lại ngay lập tức rằng cá nhân ông không hề tham gia vào việc sản xuất bình xịt hơi cay."
+      ],
+      "correctIndex": 1,
+      "explanation": "Marshall Rosenberg không hề tranh cãi hay giải thích thanh minh (phản ứng phòng thủ). Thay vào đó, ông giữ vững sự chú tâm vào cảm xúc (tức giận, tuyệt vọng) và nhu cầu (nhà cửa, an toàn, nhân quyền) của người đàn ông để thấu hiểu."
+    },
+    {
+      "id": "q4",
+      "question": "Theo quan điểm của Giao tiếp bất bạo động, động lực nào đằng sau việc cho đi mang lại sự kết nối thực sự và niềm vui trọn vẹn cho cả hai bên?",
+      "options": [
+        "Mong muốn nhận lại sự đền đáp tương xứng để duy trì mối quan hệ sòng phẳng và lâu dài.",
+        "Ý muốn làm cuộc đời người khác trở nên tốt đẹp hơn xuất phát hoàn toàn từ trái tim.",
+        "Cảm giác có trách nhiệm phải thực hiện đúng các chuẩn mực đạo đức và văn hóa cộng đồng.",
+        "Sự sợ hãi bị phán xét hoặc cảm giác tội lỗi nếu từ chối giúp đỡ người khác trong lúc khó khăn."
+      ],
+      "correctIndex": 1,
+      "explanation": "NVC khẳng định sự cho đi từ trái tim chỉ nhằm mục đích mang lại niềm vui và làm cuộc đời người khác tốt đẹp hơn. Các động lực như sợ hãi, tội lỗi, xấu hổ hay mong cầu đền đáp sẽ làm tổn hại mối quan hệ."
+    },
+    {
+      "id": "q5",
+      "question": "Khi một người mẹ nói với con: 'Mẹ cảm thấy không hài lòng vì mẹ muốn các phòng chung được ngăn nắp', bà đang thể hiện những yếu tố nào của NVC?",
+      "options": [
+        "Chỉ rõ hành vi quan sát, bộc lộ cảm xúc của bản thân và nêu lên nhu cầu sâu xa chưa được thỏa mãn.",
+        "Đánh giá hành vi, bày tỏ cảm xúc cá nhân và đưa ra hình thức kỷ luật cụ thể nếu con tái phạm.",
+        "Phán xét thói quen sinh hoạt, nêu cảm giác thất vọng và yêu cầu con phải tuân thủ mệnh lệnh.",
+        "Quan sát tình trạng phòng ốc, phỏng đoán tâm trạng của con và đề nghị con tự giác dọn dẹp."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ví dụ trên minh họa rõ ba yếu tố đầu của NVC: Quan sát hành vi cụ thể (thấy vớ bẩn), Bày tỏ cảm xúc (không hài lòng), và Nêu nhu cầu (muốn phòng ốc ngăn nắp) trước khi đưa ra đề nghị."
+    },
+    {
+      "id": "q6",
+      "question": "Sự khác biệt cốt lõi giữa 'nhu cầu' (needs) và 'chiến lược' (strategies) trong phương pháp Giao tiếp bất bạo động là gì?",
+      "options": [
+        "Nhu cầu là mong muốn cụ thể về hành động, còn chiến lược là giá trị phổ quát nằm sâu bên trong.",
+        "Nhu cầu là những giá trị phổ quát của con người, còn chiến lược là phương pháp cụ thể để thỏa mãn nhu cầu đó.",
+        "Nhu cầu phụ thuộc hoàn toàn vào văn hóa vùng miền, còn chiến lược mang tính bản năng sinh học chung.",
+        "Nhu cầu do người khác áp đặt lên ta, còn chiến lược là lựa chọn hoàn toàn mang tính chủ quan cá nhân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong NVC, nhu cầu (như sự an toàn, thấu hiểu, tôn trọng) là những giá trị phổ quát của nhân loại không gắn với một cá nhân hay hành động cụ thể nào. Chiến lược là các hành vi cụ thể được chọn để đáp ứng nhu cầu đó."
+    },
+    {
+      "id": "q7",
+      "question": "Trong câu chuyện ngụ ý về người say xỉn tìm chìa khóa dưới cột đèn thay vì trong con hẻm tối, Marshall Rosenberg ngụ ý điều gì về văn hóa giao tiếp thông thường?",
+      "options": [
+        "Con người thường có xu hướng tìm kiếm sự giúp đỡ ở những nơi đông người qua lại để dễ giải quyết vấn đề.",
+        "Con người hay chọn những giải pháp dễ dàng bề ngoài nhưng không mang lại bất kỳ giá trị thực tiễn nào.",
+        "Ánh sáng của đèn đường tượng trưng cho tri thức khoa học giúp con người soi sáng các mâu thuẫn xã hội.",
+        "Môi trường văn hóa thường dạy chúng ta hướng sự chú tâm vào việc phán xét đúng sai thay vì kết nối nhu cầu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu chuyện ngụ ngôn minh họa việc môi trường văn hóa thường hướng con người tập trung vào việc phán xét, đổ lỗi, chỉ trích (nơi 'có vẻ sáng' nhưng không tìm thấy giải pháp thực sự), thay vì hướng vào nơi chứa đựng lòng trắc ẩn và nhu cầu."
+    },
+    {
+      "id": "q8",
+      "question": "Theo tinh thần của NVC, một 'lời đề nghị' (request) khác biệt cơ bản với một 'mệnh lệnh' (demand) ở điểm nào?",
+      "options": [
+        "Lời đề nghị chỉ dùng trong các mối quan hệ tình cảm thân mật chứ không áp dụng trong công việc.",
+        "Lời đề nghị luôn được diễn đạt bằng giọng điệu nhẹ nhàng và không chứa các từ ngữ mệnh lệnh.",
+        "Lời đề nghị cho phép người nghe toàn quyền từ chối mà không sợ bị trừng phạt hay phán xét.",
+        "Lời đề nghị bắt buộc phải đi kèm với những phần thưởng vật chất để thu hút sự hợp tác."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bản chất phân biệt giữa đề nghị và mệnh lệnh trong NVC nằm ở chỗ người nghe có cảm thấy an toàn khi từ chối hay không. Nếu từ chối mà bị trừng phạt, đe dọa hoặc làm cho mặc cảm, đó thực chất là một mệnh lệnh trá hình."
+    },
+    {
+      "id": "q9",
+      "question": "Khi một người thực hành lắng nghe đồng cảm theo NVC đối với người đang bực dọc, hành động nào sau đây thể hiện sự lệch chuẩn so với phương pháp?",
+      "options": [
+        "Kiên nhẫn phản hồi lại bằng cách đoán định cảm xúc và nhu cầu của họ dưới dạng câu hỏi.",
+        "Dừng lại việc tranh cãi đúng sai để tập trung hoàn toàn vào thế giới nội tâm của người nói.",
+        "Chấp nhận những lời nói mang tính công kích như một thông điệp về nỗi đau và sự tổn thương.",
+        "Đưa ra những lời khuyên chân thành và các giải pháp tối ưu giúp họ giải quyết nhanh rắc rối."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đưa ra lời khuyên hoặc giải pháp ngay lập tức là phản ứng thông thường của cái tôi khi muốn 'sửa chữa' vấn đề, nhưng trong NVC, điều này cản trở sự kết nối đồng cảm sâu sắc. Người đang đau khổ trước tiên cần được thấu hiểu cảm xúc và nhu cầu của họ."
+    },
+    {
+      "id": "q10",
+      "question": "Cụm từ 'bất bạo động' (nonviolence) trong mô hình NVC được Marshall Rosenberg định nghĩa tương đồng với tinh thần của ai và mang ý nghĩa gì?",
+      "options": [
+        "Tương đồng với triết học phương Đông cổ đại, nhấn mạnh sự từ bỏ mọi ham muốn vật chất để đạt sự tĩnh lặng.",
+        "Tương đồng với tư tưởng của Mahatma Gandhi, hướng đến bản chất yêu thương nơi không có tư tưởng bạo lực.",
+        "Tương đồng với các nhà cải cách xã hội hiện đại, tập trung vào việc thay đổi hệ thống luật pháp nhà nước.",
+        "Tương đồng với các lý thuyết tâm lý học hành vi, tập trung kiểm soát các biểu hiện cơ bắp và sắc thái cơ mặt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Marshall Rosenberg sử dụng thuật ngữ 'bất bạo động' giống như cách dùng của Gandhi: chỉ bản chất yêu thương bên trong trái tim con người, nơi tư tưởng bạo lực không có mặt, đồng thời nhận thức rằng ngôn từ hàng ngày cũng có thể gây bạo lực."
+    },
+    {
+      "id": "q11",
+      "question": "Khi đối mặt với một tình huống xung đột căng thẳng ở nơi làm việc, việc áp dụng bốn yếu tố của NVC giúp chúng ta đạt được mục tiêu gì?",
+      "options": [
+        "Chứng minh lập luận của bản thân là hoàn toàn hợp lý và buộc đối phương phải thay đổi cách hành xử.",
+        "Nhan chóng kết thúc cuộc họp bằng các quyết định mang tính biểu quyết số đông theo quy định tổ chức.",
+        "Tạo ra dòng chảy giao tiếp qua lại dựa trên sự thấu hiểu trắc ẩn giữa quan sát, cảm xúc, nhu cầu và đề nghị.",
+        "Che giấu các cảm xúc tiêu cực cá nhân để duy trì bầu không khí hòa hợp bề ngoài cho tập thể."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bốn yếu tố của NVC tạo nên một dòng chảy giao tiếp qua lại (flow of communication) giúp cả hai phía bày tỏ sự thật về bản thân và lắng nghe đồng cảm đối phương, từ đó khơi dậy lòng trắc ẩn và tìm ra giải pháp chung."
+    },
+    {
+      "id": "q12",
+      "question": "Trong bối cảnh giáo dục học đường, việc một giáo viên hướng dẫn học sinh dùng 'ngôn ngữ hươu cao cổ' thay cho việc đánh bạn thể hiện điều gì?",
+      "options": [
+        "Dạy trẻ cách sử dụng các hình ảnh sinh động từ thiên nhiên để làm dịu bớt các cuộc tranh cãi.",
+        "Rèn luyện cho trẻ thói quen nhẫn nhịn và chịu đựng trước các hành vi trêu chọc của bạn bè xung quanh.",
+        "Giúp trẻ chuyển từ việc phán xét, đổ lỗi sang việc diễn đạt cảm xúc và nhu cầu cá nhân một cách hòa bình.",
+        "Khuyến khích trẻ tìm kiếm sự can thiệp từ người lớn thay vì tự giải quyết các xung đột cá nhân."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ngôn ngữ hươu cao cổ' trong NVC đại diện cho cách giao tiếp bằng trái tim: kết nối qua quan sát, cảm xúc, nhu cầu và đề nghị, thay vì dùng 'ngôn ngữ chó sói' (phán xét, công kích, đổ lỗi)."
+    },
+    {
+      "id": "q13",
+      "question": "Phát biểu nào sau đây là KHÔNG chính xác về bản chất của phương pháp Giao tiếp bất bạo động (NVC)?",
+      "options": [
+        "NVC có thể áp dụng linh hoạt trong nhiều môi trường văn hóa và hoàn cảnh xã hội khác nhau.",
+        "NVC không chứa đựng điều gì mới mẻ mà chỉ là lời nhắc nhớ về cách con người kết nối với lòng trắc ẩn.",
+        "Bản chất của NVC nằm ở sự nhận thức và ý định bên trong hơn là những từ ngữ được thốt ra ngoài.",
+        "NVC là một công thức cứng nhắc đòi hỏi người dùng phải tuân thủ đúng trừng phạt các bước từ ngữ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chương sách nhấn mạnh rằng NVC không phải là một công thức hay bộ quy tắc cứng nhắc, mà là thứ cần được linh hoạt điều chỉnh. Bản chất của nó nằm ở sự ý thức và tâm thế hướng về lòng trắc ẩn."
+    },
+    {
+      "id": "q14",
+      "question": "Khi một cá nhân học cách thấu hiểu chính mình thông qua NVC, họ sẽ chuyển hóa thái độ đối với những sai lầm hoặc cảm giác tội lỗi của bản thân như thế nào?",
+      "options": [
+        "Tự trừng phạt nghiêm khắc để đảm bảo không bao giờ lặp lại sai lầm đó trong tương lai.",
+        "Phớt lờ các cảm xúc tiêu cực và tập trung ngay vào các mục tiêu hành động thực tế tiếp theo.",
+        "Lắng nghe những nhu cầu chưa được đáp ứng đằng sau hành vi ấy để ôm ấp sự tổn thương với lòng trắc ẩn.",
+        "Đổ lỗi cho hoàn cảnh ngoại cảnh và các yếu tố xã hội đã tác động tiêu cực đến quyết định của mình."
+      ],
+      "correctIndex": 2,
+      "explanation": "NVC không chỉ áp dụng với người khác mà còn với chính bản thân. Khi nhận diện lỗi lầm hay cảm giác tội lỗi, thay vì tự phán xét hay trừng phạt, ta dùng NVC để thấu hiểu nhu cầu nào của mình chưa được đáp ứng, từ đó nuôi dưỡng sự trắc ẩn với chính mình."
+    },
+    {
+      "id": "q15",
+      "question": "Ý nghĩa sâu sắc nhất đằng sau bài hát 'Given to' của Ruth Bebermeyer được trích dẫn trong chương sách là gì?",
+      "options": [
+        "Sự trao và nhận trong tình yêu thương là một dòng chảy không thể tách rời, mang lại niềm hạnh phúc cho cả hai chiều.",
+        "Người cho luôn đóng vai trò cao cả hơn người nhận vì họ là người tạo ra giá trị tốt đẹp cho cuộc đời.",
+        "Việc đón nhận món quà đòi hỏi người nhận phải luôn ghi nhớ ơn nghĩa và tìm cách đền đáp xứng đáng.",
+        "Mọi hành động cho đi đều cần phải được tính toán cẩn thận để đảm bảo sự công bằng và hợp lý."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bài hát nhấn mạnh rằng cho đi từ trái tim mang lại niềm vui cho người cho (vì thấy đóng góp có giá trị) và giúp người nhận tận hưởng trọn vẹn mà không lo mang nợ. Đón nhận với lòng biết ơn chính là sự cho đi lớn nhất, chúng hòa quyện làm một."
+    }
+  ]
+}

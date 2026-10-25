@@ -1,0 +1,188 @@
+{
+  "bookId": "GiaoTiepBatBaoDong",
+  "chapterId": "06_chuong_06",
+  "chapterTitle": "Chương 6: Đưa ra đề nghị",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi một người nói 'Tôi muốn bạn đừng làm phiền tôi nữa', dưới lăng kính NVC, phản hồi nào sau đây thể hiện việc chuyển hóa lời đề nghị phủ định thành một đề nghị bằng ngôn ngữ hành động cụ thể?",
+      "options": [
+        "Tôi muốn bạn để tôi được yên tĩnh ngay lập tức và đi ra chỗ khác.",
+        "Tôi muốn bạn không bao giờ bước chân vào phòng làm việc của tôi nữa.",
+        "Tôi muốn bạn rời khỏi phòng khách và đóng cửa lại trong một giờ tới.",
+        "Tôi muốn bạn hiểu rằng sự có mặt của bạn đang làm tôi cảm thấy phiền."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trong NVC, việc nói điều mình không muốn (đừng làm phiền) thường gây bối rối và phản kháng. Đề nghị cần dùng ngôn ngữ hành động cụ thể (rời khỏi phòng và đóng cửa trong một giờ) giúp người nghe biết chính xác họ cần làm gì để đáp ứng nhu cầu của bạn."
+    },
+    {
+      "id": "q2",
+      "question": "Một người quản lý nói với nhân viên: 'Tôi muốn các bạn cảm thấy thoải mái khi chia sẻ ý kiến trong cuộc họp.' Theo NVC, điểm hạn chế cốt lõi của câu nói này là gì?",
+      "options": [
+        "Nó chứa đựng sự phán xét và quy chụp năng lực làm việc của nhân viên.",
+        "Nó thiếu đi yếu tố quan sát khách quan về bối cảnh diễn ra cuộc họp.",
+        "Nó mang tính chất ra lệnh bắt buộc nhân viên phải tuân thủ ngay lập tức.",
+        "Nó diễn tả một trạng thái cảm xúc trừu tượng thay vì một hành động cụ thể."
+      ],
+      "correctIndex": 3,
+      "explanation": "NVC chỉ ra rằng việc đề nghị người khác 'cảm thấy' hoặc 'trở nên' một trạng thái nào đó là mơ hồ và trừu tượng, vì người nghe không biết hành động cụ thể nào sẽ đạt được trạng thái đó. Người quản lý cần đổi thành yêu cầu họ nói ra những việc quản lý cần làm."
+    },
+    {
+      "id": "q3",
+      "question": "Hiện tượng trầm cảm thường xuất hiện ở những người có xu hướng cố gắng trở thành người 'ngoan', 'dễ thương' theo chuẩn mực xã hội được Marshall Rosenberg lý giải như thế nào qua chương này?",
+      "options": [
+        "Do họ kìm nén nhu cầu của bản thân và chưa bao giờ học cách xác định điều mình muốn.",
+        "Do họ bị thiếu hụt các chất dẫn truyền thần kinh liên quan đến niềm vui sống.",
+        "Do họ thường xuyên phải đối mặt với những lời chỉ trích nặng nề từ gia đình.",
+        "Do họ đặt ra các mục tiêu quá cao so với khả năng thực tế của bản thân mình."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rosenberg chia sẻ rằng trầm cảm là cái giá phải trả khi chúng ta cố gắng làm vừa lòng người khác, kìm nén các nhu cầu thực sự của mình và không được dạy cách xác định cũng như bày tỏ những mong muốn sâu kín của bản thân."
+    },
+    {
+      "id": "q4",
+      "question": "Khi một người đưa ra yêu cầu nhưng không bày tỏ cảm xúc và nhu cầu đằng sau đó, điều gì thường dễ xảy ra nhất trong tâm lý người nghe?",
+      "options": [
+        "Họ sẽ lập tức cảm thấy biết ơn và tự nguyện thực hiện yêu cầu đó.",
+        "Họ sẽ cảm thấy bối rối, hoang mang hoặc nghe thấy đó là một mệnh lệnh cưỡng ép.",
+        "Họ sẽ chủ động phân tích nguyên nhân sâu xa để tìm cách hỗ trợ người nói.",
+        "Họ sẽ cảm thấy vô cùng hào hứng vì nắm bắt được mong muốn của đối phương."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nếu chỉ đưa ra đề nghị mà giấu đi cảm xúc và nhu cầu, người nghe rất dễ hiểu lầm đó là một sự phàn nàn vô căn cứ hoặc một mệnh lệnh áp đặt, từ đó sinh ra tâm lý chống đối thay vì sẵn lòng hợp tác."
+    },
+    {
+      "id": "q5",
+      "question": "Lý do quan trọng nhất khiến chúng ta nên đề nghị người nghe diễn đạt lại nội dung vừa nghe bằng ngôn ngữ của họ là gì?",
+      "options": [
+        "Để kiểm tra trí nhớ của họ xem họ có tập trung lắng nghe hay không.",
+        "Để đảm bảo rằng họ đã thực sự hiểu đúng ý định và thông điệp của chúng ta.",
+        "Để ép họ phải thừa nhận lỗi lầm nếu họ tiếp thu sai lệch vấn đề.",
+        "Để kéo dài thời gian cuộc trò chuyện nhằm xoa dịu cơn giận của đối phương."
+      ],
+      "correctIndex": 1,
+      "explanation": "Do sự khác biệt trong cách diễn giải, người nghe thường hiểu một nẻo dù chúng ta nói một đằng. Việc đề nghị họ diễn đạt lại giúp chúng ta xác thực mức độ thấu hiểu và làm rõ ngay lập tức nếu có sự hiểu lầm xảy ra."
+    },
+    {
+      "id": "q6",
+      "question": "Đâu là dấu hiệu cốt lõi giúp phân biệt rõ ràng giữa một 'Đề nghị' (Request) chân thành và một 'Mệnh lệnh' (Demand) trong NVC?",
+      "options": [
+        "Đề nghị dùng giọng điệu nhẹ nhàng còn mệnh lệnh dùng giọng điệu lớn tiếng.",
+        "Đề nghị xuất phát từ người có quyền lực thấp còn mệnh lệnh xuất phát từ người quản lý.",
+        "Đề nghị tôn trọng quyền từ chối trong khi mệnh lệnh sẽ trừng phạt hoặc chỉ trích khi bị từ chối.",
+        "Đề nghị luôn được đáp ứng ngay lập tức còn mệnh lệnh thường gặp phải sự kháng cự."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bản chất phân biệt giữa đề nghị và mệnh lệnh nằm ở phản ứng của người nói khi đối phương từ chối. Nếu người nói dùng sự phán xét, chỉ trích hay trừng phạt khi bị từ chối thì đó chính là mệnh lệnh được ngụy trang dưới vỏ bọc đề nghị."
+    },
+    {
+      "id": "q7",
+      "question": "Trong một cuộc họp nhóm, khi các thành viên liên tục kể chuyện cá nhân lan man mà không rõ mục đích, hành động mang tinh thần NVC hiệu quả nhất là gì?",
+      "options": [
+        "Yêu cầu mọi người giữ trật tự và chấm dứt ngay lập tức những câu chuyện vô bổ.",
+        "Nhẹ nhàng đặt câu hỏi để làm rõ mong muốn và điều họ muốn nhận lại từ nhóm khi chia sẻ.",
+        "Tự ý đứng dậy tuyên bố kết thúc cuộc họp vì cảm thấy lãng phí thời gian quý báu.",
+        "Lệnh cho thư ký ghi biên bản thật chi tiết để tìm ra ai là người gây ra sự lãng phí."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong nhóm, việc nói mà không ý thức rõ mình muốn nhận lại điều gì sẽ gây lãng phí thời gian. Việc can thiệp bằng cách hỏi rõ 'Bạn muốn nhận lại điều gì từ nhóm khi kể câu chuyện đó?' giúp nhóm lấy lại sự tập trung và hướng tới hiệu quả."
+    },
+    {
+      "id": "q8",
+      "question": "Khi người giáo viên nhận ra học sinh Peter chưa hiểu đúng nội dung mình vừa truyền đạt, cách ứng xử nào sau đây tuân thủ đúng tinh thần NVC nhất?",
+      "options": [
+        "Nói thẳng rằng em ấy không hề chú ý lắng nghe và phạt em ở lại lớp.",
+        "Chỉ trích thái độ hời hợt của học sinh trước mặt tất cả các bạn trong lớp học.",
+        "Bắt Peter đứng lên đọc lại toàn bộ nội quy của nhà trường để rèn luyện sự tập trung.",
+        "Cảm ơn Peter vì đã diễn đạt lại, nhận trách nhiệm vì chưa nói rõ và nhẹ nhàng giải thích lại."
+      ],
+      "correctIndex": 3,
+      "explanation": "Để tránh khiến học sinh cảm thấy bị chỉ trích khi diễn đạt lại sai, giáo viên cần bày tỏ lòng biết ơn vì học sinh đã thử sức, đồng thời nhận lỗi về phần mình ('Cô có thể thấy mình chưa nói rõ ràng') thay vì phán xét học sinh."
+    },
+    {
+      "id": "q9",
+      "question": "Chủ đích tối thượng của việc đưa ra đề nghị trong phương pháp Giao tiếp bất bạo động là gì?",
+      "options": [
+        "Xây dựng kết nối dựa trên sự trung thực, đồng cảm và tìm cách đáp ứng nhu cầu của mọi người.",
+        "Thao túng hành vi của người khác để họ phải phục tùng mọi mong muốn của mình.",
+        "Chứng minh rằng quan điểm và nhu cầu của bản thân luôn là ưu tiên cao nhất.",
+        "Tránh né các cuộc xung đột trực diện thông qua việc thỏa hiệp các nguyên tắc sống."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mục đích nền tảng của NVC không phải là thay đổi hành vi người khác hay ép buộc họ tuân theo, mà là tạo dựng một kết nối chân thực dựa trên sự thấu cảm lẫn nhau để nhu cầu của tất cả các bên đều được nhìn nhận."
+    },
+    {
+      "id": "q10",
+      "question": "Khi trong tâm trí người nói xuất hiện những suy nghĩ như 'Con bé có bổn phận phải nghe lời mình' hay 'Mình xứng đáng được đối xử tốt hơn', điều này thường dẫn đến hệ quả tâm lý nào?",
+      "options": [
+        "Tạo ra tiềm thức phán xét và biến các đề nghị thành mệnh lệnh áp đặt ngầm.",
+        "Giúp người nói giữ vững lập trường và dễ dàng thuyết phục đối phương hơn.",
+        "Làm gia tăng năng lực tự chủ và sự kiên nhẫn đối với những sai sót của người khác.",
+        "Giúp các mối quan hệ trở nên kỷ luật, trật tự và ít xảy ra mâu thuẫn hơn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi mang trong đầu những từ ngữ mang tính bắt buộc (nên, phải, có bổn phận, xứng đáng), chúng ta có xu hướng phán xét và trừng phạt người khác khi họ không làm theo, qua đó biến một đề nghị chân thành thành mệnh lệnh độc đoán."
+    },
+    {
+      "id": "q11",
+      "question": "Trong tình huống Al khuyên bạn thân là Burt từ bỏ thói quen hút thuốc, yếu tố nào chứng minh đề nghị của Al là một đề nghị chân thành chứ không phải mệnh lệnh?",
+      "options": [
+        "Al đe dọa sẽ cắt đứt tình bạn nếu Burt không chịu nghe lời khuyên.",
+        "Al khẳng định rằng dù Burt quyết định thế nào thì anh vẫn tiếp tục tôn trọng và yêu mến bạn mình.",
+        "Al liên tục nhắc nhở Burt về những tác hại khủng khiếp của thuốc lá đối với sức khỏe.",
+        "Al dùng quyền lực của người bạn lâu năm để ép Burt phải tham gia cai nghiện."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lời khẳng định 'Dẫu cho cậu có quyết định thế nào đi nữa, tớ vẫn sẽ tôn trọng và yêu mến cậu' của Al chính là minh chứng sáng rõ nhất cho thấy đây là một đề nghị tôn trọng quyền tự quyết, không mang tính áp đặt hay phán xét."
+    },
+    {
+      "id": "q12",
+      "question": "Xét về mặt phương pháp luận NVC, tại sao câu nói 'Em muốn anh để em được là chính mình' lại không được coi là một lời đề nghị rõ ràng và cụ thể?",
+      "options": [
+        "Vì nó sử dụng khái niệm trừu tượng, mơ hồ khiến người nghe bối rối không biết hành động cụ thể là gì.",
+        "Vì nó chứa đựng sự chỉ trích ngầm đối với lối sống hiện tại của người chồng.",
+        "Vì nó mang tính ra lệnh và tước đi quyền tự do cá nhân của người chồng.",
+        "Vì nó không xuất phát từ nhu cầu thực sự bên trong mà chỉ là một cảm xúc bộc phát."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cụm từ 'để em được là chính mình' hay 'tự do phát triển' quá trừu tượng. Người nghe sẽ không biết cụ thể hành động nào cần thực hiện (ví dụ: mỉm cười và đồng tình với mọi việc vợ làm). Đề nghị NVC đòi hỏi phải quy đổi thành hành động cụ thể."
+    },
+    {
+      "id": "q13",
+      "question": "Khi một người đưa ra đề nghị và nhận lại câu trả lời 'Không' từ đối phương, thái độ đúng đắn theo tinh thần NVC là gì?",
+      "options": [
+        "Lập tức cắt đứt quan hệ vì đối phương không trân trọng thiện chí của mình.",
+        "Bày tỏ sự đồng cảm với nhu cầu đằng sau lời từ chối trước, sau đó mới tìm giải pháp khác.",
+        "Tiếp tục nài nỉ và dùng lý lẽ để chứng minh rằng quan điểm của mình là đúng đắn.",
+        "Chấp nhận im lặng chịu đựng sự thất vọng và kìm nén nhu cầu của bản thân."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nói 'Không' với một đề nghị không có nghĩa là chấm dứt giao tiếp. Phản ứng NVC đòi hỏi ta phải thấu cảm với cảm xúc và nhu cầu ẩn giấu đằng sau sự từ chối đó, duy trì kết nối trước khi nghĩ đến các bước tiếp theo."
+    },
+    {
+      "id": "q14",
+      "question": "Tình huống nhóm học sinh da màu đưa ra danh sách 38 hành động cụ thể cho thầy hiệu trưởng thay vì chỉ trích 'phân biệt chủng tộc' minh họa cho nguyên lý nào của NVC?",
+      "options": [
+        "Tầm quan trọng của việc sử dụng ngôn ngữ hành động rõ ràng thay vì các nhãn dán trừu tượng.",
+        "Phương pháp trừng phạt tâm lý nhằm hạ uy tín của người nắm giữ quyền lực.",
+        "Sự cần thiết phải dùng áp lực tập thể để buộc ban giám hiệu nhà trường phải nhượng bộ.",
+        "Cách thức né tránh các cuộc tranh luận trực diện để duy trì sự hòa bình giả tạo."
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc chuyển từ những lời buộc tội chung chung ('phân biệt chủng tộc', 'đối xử công bằng') sang danh sách 38 hành động cụ thể giúp loại bỏ sự phòng thủ của hiệu trưởng, tạo sự đồng thuận hoàn toàn nhờ vào sức mạnh của ngôn ngữ hành động rõ ràng."
+    },
+    {
+      "id": "q15",
+      "question": "Trong bối cảnh giáo dục hoặc quản lý nhân sự, hiện tượng 'lời tiên tri tự ứng nghiệm' thường xảy ra khi người lãnh đạo thực hiện hành động nào?",
+      "options": [
+        "Tổ chức các buổi đối thoại mở để lắng nghe nhu cầu của từng cá nhân.",
+        "Liên tục bày tỏ lòng biết ơn và sự ghi nhận đối với những nỗ lực nhỏ nhất.",
+        "Trao quyền tự quyết hoàn toàn cho các thành viên trong việc thực hiện nhiệm vụ.",
+        "Dán nhãn học sinh hoặc nhân viên (như 'bất trị', 'lười biếng') khiến họ hành xử đúng theo chiếc nhãn đó."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi chúng ta dán nhãn ai đó (ví dụ: học sinh 'bất trị'), họ có xu hướng hành xử theo đúng cái nhãn đó vì cảm thấy mình đã được 'cấp quyền' để làm thế. Điều này phản ánh tác hại của việc sử dụng ngôn ngữ phán xét thay vì quan sát khách quan trong NVC."
+    }
+  ]
+}

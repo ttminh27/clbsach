@@ -1,0 +1,188 @@
+{
+  "bookId": "GiaoTiepBatBaoDong",
+  "chapterId": "08_chuong_08",
+  "chapterTitle": "Chương 8: Sức mạnh của sự đồng cảm",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi một học sinh tiểu học tiến đến chỗ bạn và bộc bạch tâm trạng tồi tệ trong tuần, trong khi bạn đang rất muộn họp với nhiều người lớn, hành động nào phản ánh đúng nhất tinh thần lắng nghe đồng cảm theo NVC?",
+      "options": [
+        "Dừng lại toàn bộ tâm trí, gác lại nỗi lo cuộc họp và hiện diện trọn vẹn.",
+        "Vội vã giải thích ngắn gọn rồi bảo em bé tự giải quyết vấn đề cá nhân.",
+        "Nhan chóng đưa ra lời khuyên tâm lý để em học sinh sửa đổi ngay lập tức.",
+        "Hứa sẽ lắng nghe em học sinh sau khi hoàn thành xong cuộc họp quan trọng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo chương sách, khi đứa trẻ nói 'con không muốn cô làm gì cả; con chỉ muốn cô lắng nghe thôi', nhà giáo dục nhận ra 'đừng làm gì cả, chỉ có mặt thôi' quan trọng hơn mọi cuộc họp. NVC coi trọng việc hiện diện trọn vẹn và đồng cảm hơn là vội vã giải quyết công việc theo lịch trình."
+    },
+    {
+      "id": "q2",
+      "question": "Khi đối mặt với cấp trên có xu hướng quát mạt hoặc ra lệnh trong tổ chức có cấp bậc, phản ứng nào của nhân viên thể hiện sự chuyển hóa từ tư duy phòng thủ sang tư duy NVC?",
+      "options": [
+        "Phản ứng lại bằng cách chỉ ra những sai sót trong cách quản lý của cấp trên.",
+        "Lắng nghe và tìm kiếm những cảm xúc, nhu cầu lo âu ẩn giấu đằng sau lời ra lệnh.",
+        "Im lặng chấp nhận mọi lời chỉ trích để giữ gìn mối quan hệ công việc chung.",
+        "Yêu cầu cấp trên phải tôn trọng nhân viên trước khi tiếp tục trao đổi công việc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sách chỉ ra rằng chúng ta thường dễ phòng thủ trước cấp trên nhưng các giảng viên trong sách đã chọn cách đồng cảm với thầy trưởng khoa bằng cách tự hỏi xem có phải ông ấy lo lắng và cần sự đảm bảo về trách nhiệm hay không, giúp chuyển hóa sự căng thẳng thành sự nhẹ nhõm."
+    },
+    {
+      "id": "q3",
+      "question": "Trong tình huống Marshall Rosenberg bị các thành viên băng đảng đường phố chế giễu khi ông bày tỏ cảm xúc tổn thương, vì sao việc ông chọn 'lắng nghe cảm xúc và nhu cầu của họ' thay vì tức giận lại là mấu chốt của NVC?",
+      "options": [
+        "Vì điều đó giúp ông tránh khỏi nguy cơ bị bạo lực thể xác ngay lập tức tại hiện trường.",
+        "Vì đây là phương pháp bắt buộc phải áp dụng đối với tất cả các nhóm tội phạm nguy hiểm.",
+        "Vì các thành viên băng đảng sẽ lập tức nể phục và xin lỗi vì thái độ thô lỗ của họ.",
+        "Vì nó giúp ông nhận ra nhân tính, điểm chung và sự bất an đằng sau vỏ bọc thách thức."
+      ],
+      "correctIndex": 3,
+      "explanation": "Marshall giải thích rằng khi tập trung vào cảm xúc và nhu cầu của người khác, chúng ta nhận ra nhân tính và những điểm chung, giúp ta không nhìn họ như quái vật mà thấy được những con người với nhu cầu chưa được đáp ứng."
+    },
+    {
+      "id": "q4",
+      "question": "Một người phụ nữ làm việc tại trung tâm cai nghiện bị kẻ nghiện ngáo đá kề dao vào cổ và đe dọa. Câu nói nào suýt chút nữa đã được thốt ra nhưng được cô ấy kịp thời kìm lại nhờ bài học NVC về từ 'nhưng'?",
+      "options": [
+        "\"Nhưng tại sao anh lại dùng bạo lực với một người phụ nữ?\"",
+        "\"Nhưng tôi không còn phòng trống nào cho anh nữa đâu!\"",
+        "\"Nhưng anh không có quyền đối xử với tôi như thế này!\"",
+        "\"Nhưng anh hãy bình tĩnh và bỏ con dao xuống ngay đi!\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Cô nhân viên nhớ đến câu đùa 'Đừng bao giờ ném từ \"nhưng\" vào mặt một người đang tức giận'. Nếu cô nói 'Nhưng tôi không còn phòng', kẻ nghiện có thể đã cắt cổ cô vì cảm thấy bị phủ nhận và không được lắng nghe."
+    },
+    {
+      "id": "q5",
+      "question": "Khi người phụ nữ ở trung tâm cai nghiện chuyển từ việc giải minh lờ mờ sang việc lắng nghe cảm xúc 'tôi muốn được tôn trọng' của kẻ tấn công, điều gì đã xảy ra với trạng thái tâm lý của chính cô?",
+      "options": [
+        "Cô không còn cảm thấy sợ hãi nữa vì đã nhìn thấy con người tuyệt vọng bên trong.",
+        "Cô bắt đầu cảm thấy căm phẫn và muốn gọi cảnh sát để bắt giữ kẻ tấn công.",
+        "Cô cảm thấy kiệt sức và ngất xỉu vì áp lực quá lớn từ tình huống nguy hiểm.",
+        "Cô cảm thấy tự hào vì mình đã áp dụng thành công các kỹ thuật trị liệu tâm lý."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cô chia sẻ: 'Không, sau một lúc làm như thế, tôi không thấy sợ nữa. Khi tập trung vào những cảm xúc và nhu cầu của người đàn ông kia, tôi không còn nhìn anh ấy như một con quái vật mà là một con người đầy tuyệt vọng'."
+    },
+    {
+      "id": "q6",
+      "question": "Khi một người đưa ra lời từ chối thẳng thừng ('Không!') trước một đề nghị thiện chí của bạn, phản ứng mang tinh thần NVC là gì?",
+      "options": [
+        "Tự ái và quyết định không bao giờ mời gọi người đó tham gia bất cứ hoạt động nào nữa.",
+        "Kết nối với cảm xúc và nhu cầu đằng sau lời từ chối để hiểu những mong muốn chính đáng.",
+        "Cố gắng thuyết phục bằng được cho đến khi họ đồng ý thì thôi để chứng minh mình đúng.",
+        "Chấp nhận im lặng và rời đi ngay lập tức để bảo vệ lòng tự trọng của bản thân mình."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách nhấn mạnh rằng việc đồng cảm với sự từ chối giúp chúng ta không thấy mình bị bác bỏ, đồng thời nhận ra những mong muốn chính đáng khiến họ không sẵn lòng làm theo đề nghị."
+    },
+    {
+      "id": "q7",
+      "question": "Khi tham gia một buổi trò chuyện dài dòng, tẻ nhạt và lan man mà bạn cảm thấy mình đang là 'thùng rác' chứa đựng thông tin, thời điểm nào là tốt nhất để ngắt lời theo quan điểm NVC?",
+      "options": [
+        "Chờ đến lúc họ dừng lại để thở rồi nhanh chóng chuyển sang chủ đề khác thú vị hơn.",
+        "Đợi cho đến khi người nói tự kết thúc câu chuyện để tránh làm tổn thương họ.",
+        "Ngay khi bạn cảm thấy họ đã nói nhiều hơn mức bạn muốn nghe một cách kiên nhẫn.",
+        "Cắt ngang ngay lập tức khi họ bắt đầu phàn nàn về những chuyện không liên quan."
+      ],
+      "correctIndex": 2,
+      "explanation": "Marshall cho rằng thời điểm tốt nhất để ngắt lời là ngay khi chúng ta có cảm giác rằng họ đã nói nhiều hơn chúng ta muốn nghe, vì càng đợi lâu thì việc ngắt lời một cách lịch sự càng khó khăn."
+    },
+    {
+      "id": "q8",
+      "question": "Mục đích sâu xa nhất của việc ngắt lời người khác trong một cuộc hội thoại kém hấp dẫn theo phương pháp NVC là gì?",
+      "options": [
+        "Giúp người nói kết nối với chính những cảm xúc và nhu cầu thực sự bên trong họ.",
+        "Giành lại quyền kiểm soát cuộc trò chuyện để chia sẻ những câu chuyện của chính mình.",
+        "Thể hiện rõ thái độ không hài lòng với cách truyền đạt dài dòng và lan man của họ.",
+        "Buộc người nói phải dừng lại ngay lập tức nhằm tiết kiệm thời gian cho cả hai bên."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sách nêu rõ: 'Khi ngắt lời, chủ đích của chúng ta không phải là giành quyền nói cho bản thân, mà là giúp người kia kết nối với những cảm xúc và nhu cầu của mình'."
+    },
+    {
+      "id": "q9",
+      "question": "Kết quả từ cuộc khảo sát không chính thức về việc ngắt lời khi người khác nói quá nhiều cho thấy điều gì về tâm lý con người?",
+      "options": [
+        "Hầu hết mọi người thích được giả vờ lắng nghe để không bị tổn thương lòng tự ái.",
+        "Mọi người không quan tâm đến việc người khác có đang thực sự tập trung hay không.",
+        "Đa số mọi người muốn được dừng lại thay vì nhận sự giả vờ lắng nghe từ người nghe.",
+        "Chỉ một số ít người nhận ra rằng họ đang nói quá nhiều trong các cuộc trò chuyện."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khảo sát cho thấy chỉ có một người muốn được giả vờ lắng nghe, số còn lại đều muốn người kia dừng mình lại. Điều này chứng minh việc ngắt lời thì tử tế hơn việc giả vờ lắng nghe."
+    },
+    {
+      "id": "q10",
+      "question": "Khi bạn bày tỏ những tâm tư thầm kín và nhận lại sự im lặng từ người nghe, cạm bẫy tâm lý nào dễ mắc phải nhất nếu không thực hành NVC?",
+      "options": [
+        "Chủ động hỏi ngay xem họ đang có cảm xúc gì để làm rõ tình hình hiện tại.",
+        "Nhan chóng chuyển sang chủ đề khác để khỏa lấp khoảng trống ngượng ngùng.",
+        "Tự nhiên cảm thấy thoải mái vì nghĩ rằng họ đang suy ngẫm rất kỹ lời nói.",
+        "Suy diễn tiêu cực rằng sự im lặng đồng nghĩa với sự khó chịu hoặc chê bai."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sách chỉ ra rằng khi đối mặt với sự im lặng, chúng ta rất dễ suy diễn thay vì kết nối với những cảm xúc và nhu cầu đằng sau hành vi đó, giống như cách Marshall từng suy diễn khi người giám đốc quay mặt đi."
+    },
+    {
+      "id": "q11",
+      "question": "Trong trường hợp cô con gái 20 tuổi bị trầm cảm nặng và câm lặng trong ba tháng, điều gì đã thực sự giúp cô 'thức tỉnh' và bắt đầu chia sẻ những điều thầm kín?",
+      "options": [
+        "Các loại thuốc điều trị tâm thần liều cao và các liệu pháp sốc điện hiện đại.",
+        "Những lời khuyên răn nghiêm khắc từ cha mẹ để ép cô phải nói chuyện trở lại.",
+        "Sự kiên nhẫn hiện diện, thấu cảm và chân thành quan tâm của bác sĩ Rosenberg.",
+        "Khoảng thời gian nghỉ ngơi tuyệt đối tại bệnh viện dưới sự giám sát chặt chẽ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhật ký của cô bé khẳng định chính những lần ở trong văn phòng, được bác sĩ Rosenberg thực sự quan tâm, lắng nghe và thấu hiểu đã giúp cô bước ra khỏi vỏ bọc câm lặng."
+    },
+    {
+      "id": "q12",
+      "question": "Theo trải nghiệm thực tế của Marshall Rosenberg được đúc kết trong chương, việc áp dụng sự đồng cảm thường trở nên khó khăn nhất đối với đối tượng nào?",
+      "options": [
+        "Những người thân cận nhất sống gần gũi với chúng ta trong gia đình.",
+        "Những người đồng cấp hoặc cấp dưới trong môi trường làm việc.",
+        "Những người có vị trí lãnh đạo tối cao trong các tổ chức lớn.",
+        "Những kẻ bạo lực đường phố hoặc tội phạm nguy hiểm ngoài xã hội."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách kết luận bằng một thực tế trớ trêu: 'Việc đồng cảm với những người gần gũi nhất với chúng ta lại có thể là việc khó khăn nhất', minh chứng qua câu chuyện nữ nhân viên cai nghiện dễ dàng cứu mạng kẻ lạ mặt nhưng lại thốt từ 'nhưng' với mẹ mình."
+    },
+    {
+      "id": "q13",
+      "question": "Theo triết lý NVC, sức mạnh chữa lành cốt lõi của sự đồng cảm nằm ở yếu tố nào thay vì các kỹ thuật trị liệu tâm lý phức tạp?",
+      "options": [
+        "Khả năng đưa ra những lời khuyên thông thái giúp người khác giải quyết rắc rối.",
+        "Sự tài tình trong việc sử dụng ngôn từ hoa mỹ để xoa dịu nỗi đau tinh thần.",
+        "Trình độ chuyên môn cao và văn bằng chứng chỉ tâm lý học lâm sàng quốc tế.",
+        "Khả năng có mặt, hiện diện trọn vẹn và kết nối với cảm xúc, nhu cầu của người nói."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sách khẳng định: 'Là người nghe, chúng ta không nhất thiết phải hiểu về cách hoạt động của tâm lý hoặc được đào tạo về các phương pháp trị liệu. Điều thiết yếu là chúng ta có mặt và kết nối với những cảm xúc và nhu cầu mà người nói đang trải qua'."
+    },
+    {
+      "id": "q14",
+      "question": "Khi đối mặt với một đám đông đang giận dữ la hét quy chụp cảnh sát là 'bón phân biệt chủng tộc', viên cảnh sát đã chọn phản ứng nào đúng tinh thần NVC?",
+      "options": [
+        "Lớn tiếng đe dọa sử dụng vũ lực nếu đám đông không lập tức giải tán khỏi hiện trường.",
+        "Diễn đạt lại cảm xúc hoài nghi và nhu cầu về sự công bằng, minh bạch của họ.",
+        "Phớt lờ mọi lời la hét và nhanh chóng lái xe rời đi để bảo đảm an toàn cá nhân.",
+        "Giải thích dài dòng về quy trình pháp luật để chứng minh cảnh sát hoàn toàn vô tội."
+      ],
+      "correctIndex": 1,
+      "explanation": "Viên cảnh sát đã áp dụng việc diễn đạt lại cảm xúc và nhu cầu: 'Có phải các bạn không tin tưởng lý do của chúng tôi khi bắt người này? Có phải các bạn cho rằng việc này có liên quan đến chủng tộc?', giúp đám đông bớt thù địch và tản ra."
+    },
+    {
+      "id": "q15",
+      "question": "Khẳng định nào sau đây tóm tắt chính xác nhất bản chất và năng lực của sự đồng cảm theo xuyên suốt Chương 8?",
+      "options": [
+        "Sự đồng cảm là một kỹ thuật giao tiếp khéo léo nhằm mục đích thao túng tâm lý người khác.",
+        "Sự đồng cảm là việc luôn luôn đồng ý với mọi quan điểm và hành vi của người đối diện.",
+        "Sự đồng cảm nằm trong khả năng có mặt chân thành để thấu hiểu cảm xúc và nhu cầu.",
+        "Sự đồng cảm là đặc quyền chỉ dành riêng cho các nhà tâm lý học và chuyên gia hòa giải."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương 8 khép lại với thông điệp cốt lõi được nhấn mạnh: 'Sự đồng cảm nằm trong khả năng có mặt của chúng ta', giúp xoa dịu bạo lực, kết nối con người và chữa lành những tổn thương tâm lý sâu sắc."
+    }
+  ]
+}

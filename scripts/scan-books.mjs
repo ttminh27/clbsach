@@ -15,6 +15,20 @@ function formatFileSize(bytes) {
 }
 
 const placeholderMetadata = {
+  "GiaoTiepBatBaoDong": {
+    title: "Giao Tiếp Bất Bạo Động",
+    originalTitle: "Nonviolent Communication: A Language of Life",
+    author: "Marshall B. Rosenberg, Ph.D.",
+    authorBio: "Tiến sĩ tâm lý học lâm sàng người Mỹ, nhà hòa giải xung đột quốc tế và là người sáng lập Trung tâm Giao tiếp Bất bạo động (CNVC). Ông đã cống hiến trọn đời để giảng dạy và lan tỏa phương pháp NVC giúp chuyển hóa mâu thuẫn trong gia đình, giáo dục, doanh nghiệp và các điểm nóng xung đột toàn cầu.",
+    quote: "Bản chất tự nhiên của con người là tìm thấy niềm vui trong việc trao đi và nhận lại bằng lòng trắc ẩn. Khi kết nối từ trái tim, những điều tốt đẹp nhất sẽ tự nhiên tuôn chảy.",
+    translator: "Lê Nguyễn Trần Huỳnh",
+    category: "Tâm lý học ứng dụng & Nghệ thuật giao tiếp",
+    tags: ["Giao tiếp bất bạo động", "NVC", "Marshall Rosenberg", "Lòng trắc ẩn", "Đồng cảm", "Giải quyết mâu thuẫn", "Trí tuệ cảm xúc", "Tâm lý học"],
+    description: "Kiệt tác kinh điển thế giới về nghệ thuật giao tiếp và kết nối trắc ẩn của Tiến sĩ Marshall B. Rosenberg. Phương pháp NVC (Nonviolent Communication) gồm 4 bước đột phá: Quan sát không phán xét, Xác định cảm xúc, Thấu hiểu nhu cầu cốt lõi và Đưa ra lời đề nghị chân thành, giúp hóa giải mọi mâu thuẫn, chữa lành tổn thương và thắt chặt mọi mối quan hệ.",
+    gradient: "from-rose-600 via-pink-700 to-indigo-900",
+    themeColor: "#e11d48",
+    status: "available"
+  },
   "DongChay": {
     title: "Dòng Chảy (Flow)",
     originalTitle: "Flow: The Psychology of Optimal Experience",

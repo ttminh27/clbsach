@@ -1,0 +1,188 @@
+{
+  "bookId": "GiaoTiepBatBaoDong",
+  "chapterId": "05_chuong_05",
+  "chapterTitle": "Chương 5: Chịu trách nhiệm cho cảm xúc của mình",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi nghe một đồng nghiệp nói 'Báo cáo tài chính này sai sót quá nhiều, bạn làm tôi rất bực bội', theo tinh thần NVC, phản ứng nào sau đây thể hiện việc người nghe chịu trách nhiệm hoàn toàn cho cảm xúc của mình?",
+      "options": [
+        "Tôi xin lỗi vì đã làm bạn bực bội và hứa sẽ sửa lại ngay lập tức.",
+        "Việc báo cáo có lỗi là chuyện bình thường, bạn đừng quá khắt khe.",
+        "Bạn không nên cáu gắt như vậy vì tôi đã cố gắng hết sức rồi.",
+        "Tôi cảm thấy rất bực vì tôi muốn tài liệu công ty đạt độ chính xác cao."
+      ],
+      "correctIndex": 3,
+      "explanation": "Theo NVC, hành vi của người khác chỉ là tác nhân kích thích chứ không phải nguyên nhân gây ra cảm xúc. Phương án B kết nối trực tiếp cảm xúc bực bội của bản thân với nhu cầu muốn đạt độ chính xác cao, đúng công thức 'Tôi cảm thấy... vì tôi muốn...'. Các phương án khác vẫn rơi vào bẫy quy trách nhiệm cảm xúc cho người khác hoặc phản ứng phòng thủ."
+    },
+    {
+      "id": "q2",
+      "question": "Trong một cuộc họp gia đình, người chồng nói với vợ: 'Em lúc nào cũng chi tiêu hoang phí, anh thấy rất mệt mỏi và chán nản!'. Theo Chương 5, đây là biểu hiện của giai đoạn phát triển cảm xúc nào?",
+      "options": [
+        "Giai đoạn tự do cảm xúc do biết cách bảo vệ tài chính gia đình.",
+        "Giai đoạn đáng ghét khi người chồng dám bày tỏ sự tức giận của mình.",
+        "Giai đoạn chuyển hóa cảm xúc từ sự chỉ trích sang thấu hiểu sâu sắc.",
+        "Giai đoạn nô lệ cảm xúc vì người chồng đang quy kết lỗi lầm cho vợ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu nói 'Em lúc nào cũng... anh thấy...' đổ lỗi nguyên nhân cảm xúc của mình lên hành vi của người khác, đồng thời gánh vác việc thay đổi trạng thái của đối phương, đây chính là đặc trưng của giai đoạn 'Nô lệ cảm xúc' hoặc thói quen quy chụp, chưa đạt đến sự tự chủ nội tâm."
+    },
+    {
+      "id": "q3",
+      "question": "Khi một người mẹ nói với con: 'Mẹ rất buồn và thất vọng khi con không chịu dọn phòng gọn gàng', xét theo cơ chế tạo động lực của NVC, câu nói này dễ dẫn đến hệ quả tâm lý nào cho đứa trẻ?",
+      "options": [
+        "Đứa trẻ hành động xuất phát từ cảm giác tội lỗi thay vì từ trái tim.",
+        "Đứa trẻ hiểu được nhu cầu thực sự về sự ngăn nắp của người mẹ.",
+        "Đứa trẻ sẽ tự nguyện dọn phòng vì tình yêu thương chân thành với mẹ.",
+        "Đứa trẻ phát triển tư duy độc lập và nâng cao lòng tự trọng bản thân."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sách chỉ rõ cơ chế tạo động lực bằng cách quy trách nhiệm cảm xúc của mình lên người khác (mẹ buồn vì con) sẽ tạo ra cảm giác tội lỗi. Nếu đứa trẻ làm theo, hành động đó xuất phát từ mong muốn thoát tội chứ không phải từ trái tim tự nguyện."
+    },
+    {
+      "id": "q4",
+      "question": "Trong quá trình hòa giải xung đột, khi một bên tức giận hét lên 'Họ là những kẻ vô trách nhiệm và không tuân thủ luật lệ!', một chuyên gia NVC sẽ hiểu bản chất sâu xa của lời phán xét này là gì?",
+      "options": [
+        "Họ đang cố tình tấn công ác ý để hạ uy tín của đối phương.",
+        "Họ đang biểu thị một cách gián tiếp các nhu cầu chưa được đáp ứng.",
+        "Họ đang đưa ra một nhận định khách quan dựa trên bằng chứng xác thực.",
+        "Họ đang cố gắng tìm kiếm sự đồng thuận chung thông qua ngôn từ mạnh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nguyên lý cốt lõi của NVC khẳng định: Khi người ta nói những lời suy diễn, phán xét hay chỉ trích, thực ra họ đang cố gắng bày tỏ nhu cầu của chính mình một cách gián tiếp và kém hiệu quả."
+    },
+    {
+      "id": "q5",
+      "question": "Khi trải qua 'Giai đoạn đáng ghét' trong quá trình trưởng thành cảm xúc theo NVC, cá nhân thường có biểu hiện và nhận thức đặc trưng nào?",
+      "options": [
+        "Biết cách lắng nghe thấu cảm và dung hòa nhu cầu của tất cả các bên.",
+        "Hoàn toàn coi trọng nhu cầu bản thân nhưng thường bày tỏ một cách cứng nhắc.",
+        "Luôn luôn hy sinh nhu cầu cá nhân để làm vừa lòng những người xung quanh.",
+        "Chủ động nhận mọi lỗi lầm về mình để duy trì sự hòa hợp trong quan hệ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ở Giai đoạn 2 ('đáng ghét'), con người nhận ra cái giá của việc hy sinh bản thân nên quay sang bảo vệ nhu cầu của mình, nhưng do mới bắt đầu nên thường bày tỏ một cách cứng nhắc, dễ gây khó chịu cho người khác."
+    },
+    {
+      "id": "q6",
+      "question": "Theo góc nhìn NVC, đâu là điểm khác biệt cốt lõi giữa 'Tác nhân kích thích' và 'Nguyên nhân' khi chúng ta cảm thấy buồn bã hay tức giận trước lời nói của người khác?",
+      "options": [
+        "Lời nói của họ là nguyên nhân trực tiếp, còn phản ứng của ta là tác nhân.",
+        "Cả hai khái niệm này có ý nghĩa hoàn toàn giống nhau trong tâm lý học.",
+        "Hành vi của họ chỉ là tác nhân, còn nguyên nhân là nhu cầu và lựa chọn của ta.",
+        "Nguyên nhân thuộc về hoàn cảnh xã hội, tác nhân thuộc về cá tính mỗi người."
+      ],
+      "correctIndex": 2,
+      "explanation": "NVC khẳng định hành vi của người khác chỉ có thể là tác nhân kích thích chứ không bao giờ là nguyên nhân. Nguồn gốc cảm xúc nằm ở cách chúng ta lựa chọn phản ứng và các nhu cầu bên trong của chính mình."
+    },
+    {
+      "id": "q7",
+      "question": "Khi một người phụ nữ trong gia đình quen với việc kìm nén nhu cầu bản thân để chăm sóc người khác theo định kiến xã hội, nếu cô ấy đột ngột đưa ra một danh sách dài các việc đã làm để đòi hỏi quyền lợi, điều gì thường xảy ra?",
+      "options": [
+        "Người nghe sẽ ngay lập tức thấu hiểu và đáp ứng mọi mong muốn của cô.",
+        "Tạo ra sự kháng cự ở người nghe vì cách biểu đạt mang tính phán xét, kiện tụng.",
+        "Giúp thiết lập lại sự công bằng lập tức trong mối quan hệ vợ chồng.",
+        "Đưa cô ấy tiến thẳng lên giai đoạn tự do cảm xúc một cách bền vững."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sách đưa ví dụ người vợ liệt kê danh sách việc nhà rồi đòi hỏi với giọng khẩn nài giống luật sư khiến người chồng phản kháng 'Không!'. Việc bày tỏ nhu cầu qua danh sách chứng cứ như vậy tạo ra sự phản kháng thay vì trắc ẩn."
+    },
+    {
+      "id": "q8",
+      "question": "Trong bài tập thực hành NVC, câu nói nào sau đây thể hiện chính xác việc cá nhân đã chịu trách nhiệm cho cảm xúc của mình bằng cách liên kết với nhu cầu?",
+      "options": [
+        "Tôi cảm thấy rất khó chịu vì bạn để tài liệu lộn xộn trên sàn phòng.",
+        "Em cảm thấy tổn thương vô cùng vì anh đã không giữ lời hứa với em.",
+        "Tôi cảm thấy bực bội khi bạn đến trễ vì tôi muốn bắt đầu đúng giờ.",
+        "Việc dự án bị hủy hợp đồng khiến toàn bộ đội ngũ vô cùng thất vọng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Công thức chuẩn của NVC trong việc chịu trách nhiệm cảm xúc là: 'Tôi cảm thấy [cảm xúc] vì tôi muốn/cần [nhu cầu]'. Phương án B đáp ứng hoàn hảo cấu trúc này, trong khi các phương án khác đều quy trách nhiệm cảm xúc cho hành vi đối phương."
+    },
+    {
+      "id": "q9",
+      "question": "Khi đối diện với một người đang bày tỏ sự tức giận hoặc phán xét gay gắt (như vụ việc câu nói tiêu cực về phụ nữ mang thai tuổi vị thành niên), người thực hành NVC nên ưu tiên thực hiện bước nào trước tiên?",
+      "options": [
+        "Tranh luận ngay lập tức để đính chính các thông tin sai lệch của họ.",
+        "Lắng nghe và đoán định các cảm xúc, nhu cầu ẩn giấu đằng sau lời nói.",
+        "Im lặng bỏ đi để tránh bị ảnh hưởng bởi năng lượng tiêu cực xung quanh.",
+        "Đưa ra những lời khuyên đạo đức để hướng họ đến suy nghĩ tích cực hơn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Học viên NVC trong tình huống thực tế đã không phán xét hay tranh cãi mà kiên nhẫn bóc tách, lắng nghe và đồng cảm với từng lớp cảm xúc và nhu cầu (như muốn sự vững chắc, muốn an toàn, muốn trật tự) của người đối diện."
+    },
+    {
+      "id": "q10",
+      "question": "Trạng thái 'Tự do cảm xúc' (Giai đoạn 3) trong sự trưởng thành tâm lý theo NVC được định nghĩa chính xác nhất qua nhận định nào sau đây?",
+      "options": [
+        "Không quan tâm đến cảm xúc của bất kỳ ai để bảo vệ sự bình yên cá nhân.",
+        "Luôn chịu trách nhiệm thay cho cảm xúc và hạnh phúc của những người thân.",
+        "Không chịu trách nhiệm cho cảm xúc người khác nhưng hoàn toàn chịu trách nhiệm cho ý định, hành động của mình.",
+        "Luôn nhượng bộ mọi nhu cầu của người khác để giữ gìn mối quan hệ hòa hảo."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ở giai đoạn 'Tự do cảm xúc', chúng ta hiểu rằng mình không gây ra cảm xúc cho người khác nhưng hoàn toàn chịu trách nhiệm về ý định, hành động của bản thân, đồng thời biết kết hợp giữa việc thỏa mãn nhu cầu mình và tôn trọng nhu cầu người khác."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao việc sử dụng các cấu trúc câu như 'Việc đó khiến tôi nổi cáu' hoặc 'Tôi buồn vì anh nói vậy' lại bị NVC coi là cách diễn đạt không chịu trách nhiệm cho cảm xúc?",
+      "options": [
+        "Vì chúng vi phạm các quy tắc ngữ pháp chuẩn mực trong giao tiếp xã hội.",
+        "Vì chúng thể hiện sự yếu đuối và thiếu tự tin của người nói trước đám đông.",
+        "Vì chúng ngầm gán nguyên nhân gây ra cảm xúc nội tâm cho hành vi người khác.",
+        "Vì chúng quá ngắn gọn và không đủ sức nặng thuyết phục người nghe."
+      ],
+      "correctIndex": 2,
+      "explanation": "Các cấu trúc trên đặt hành vi của người khác làm chủ ngữ hoặc nguyên nhân gây ra cảm xúc của tôi ('khiến tôi', 'vì anh nói'), tước đi quyền lựa chọn phản ứng và che giấu nhu cầu thực sự của bản thân."
+    },
+    {
+      "id": "q12",
+      "question": "Khi một người mẹ nhận ra sau nhiều năm bà luôn trách móc chồng không đáp ứng nhu cầu của mình mà chưa từng bày tỏ chúng một cách rõ ràng, bài học cốt lõi từ câu chuyện này là gì?",
+      "options": [
+        "Việc kìm nén và không dám bày tỏ nhu cầu trực tiếp sẽ gây tổn hại sâu sắc cho các mối quan hệ.",
+        "Người chồng phải có trách nhiệm tự động đoán biết mọi nhu cầu của vợ.",
+        "Phụ nữ nên hy sinh nhiều hơn nữa để gia đình không bao giờ xảy ra mâu thuẫn.",
+        "Trách nhiệm giải quyết mọi xung đột tình cảm thuộc hoàn toàn về người chồng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu chuyện của người mẹ (đóng kịch đau bụng để xin chiếc ví) minh họa cho thấy nỗi đau và sự bế tắc khi con người kìm nén nhu cầu của mình, cũng như việc không dám bày tỏ trực tiếp dẫn đến những hệ lụy trầm trọng trong quan hệ."
+    },
+    {
+      "id": "q13",
+      "question": "Trong mô hình NVC, khi một đồng nghiệp phản hồi lại ý kiến của bạn bằng một lời chỉ trích gay gắt, lựa chọn thứ tư trong bốn cách tiếp nhận thông điệp tiêu cực là gì?",
+      "options": [
+        "Cảm nhận và thấu hiểu xem người đồng nghiệp đang có những cảm xúc và nhu cầu gì.",
+        "Tự trách bản thân vì đã không khéo léo trong cách trình bày vấn đề.",
+        "Cảm nhận xem bản thân đang có những cảm xúc và nhu cầu gì chưa được thỏa mãn.",
+        "Phán xét và chỉ trích ngược lại lỗi lầm của đồng nghiệp đó ngay lập tức."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bốn lựa chọn tiếp nhận thông điệp tiêu cực gồm: (1) Phán xét bản thân, (2) Phán xét người khác, (3) Kết nối cảm xúc/nhu cầu bản thân, (4) Kết nối cảm xúc/nhu cầu của người khác. Lựa chọn thứ tư hướng sự thấu cảm sang đối phương."
+    },
+    {
+      "id": "q14",
+      "question": "Khi một nhà hòa giải áp dụng NVC vào cuộc xung đột giữa các chủ đất và nông dân, việc đặt câu hỏi 'Mỗi bên đang có nhu cầu gì và muốn đề nghị gì?' mang lại tác dụng tâm lý chủ đạo nào?",
+      "options": [
+        "Giúp nhà hòa giải dễ dàng đưa ra phán quyết phân xử ai đúng ai sai.",
+        "Buộc các bên phải từ bỏ ngay lập tức mọi quyền lợi kinh tế của họ.",
+        "Làm cho các bên cảm thấy tội lỗi vì những hành vi ứng xử sai trái trong quá khứ.",
+        "Giúp các bên chuyển từ việc trút giận, đổ lỗi sang tập trung vào gốc rễ nhân bản chung."
+      ],
+      "correctIndex": 3,
+      "explanation": "Việc hướng các bên tập trung vào nhu cầu và đề nghị giúp họ thoát khỏi thói quen phán xét, đổ lỗi ('bọn họ phân biệt chủng tộc', 'bọn họ vô luật lệ') để tìm thấy tiếng nói đồng cảm và giải pháp chung."
+    },
+    {
+      "id": "q15",
+      "question": "Xét về bản chất của các nhu cầu phổ quát của con người theo hệ thống NVC (như sự tự trị, sự toàn vẹn, sự nuôi dưỡng thể chất/tinh thần, mối quan hệ), đặc điểm chung của chúng là gì?",
+      "options": [
+        "Chúng là bản chất chung của nhân loại và không phụ thuộc vào cá nhân cụ thể nào.",
+        "Chúng gắn liền với những con người, địa điểm và hành động cụ thể.",
+        "Chúng chỉ tồn tại ở những người đã được đào tạo chuyên sâu về tâm lý học.",
+        "Chúng luôn mâu thuẫn trực tiếp với nhu cầu phát triển của xã hội hiện đại."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong NVC, nhu cầu là những giá trị phổ quát của con người (universal human needs), không gắn liền với một hành động hay con người cụ thể nào, khác với 'chiến lược' hay 'phương pháp' cụ thể để đáp ứng chúng."
+    }
+  ]
+}

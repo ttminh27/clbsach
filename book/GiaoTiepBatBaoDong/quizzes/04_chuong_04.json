@@ -1,0 +1,188 @@
+{
+  "bookId": "GiaoTiepBatBaoDong",
+  "chapterId": "04_chuong_04",
+  "chapterTitle": "Chương 4: Xác định và bày tỏ cảm xúc",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Tiến sĩ Marshall Rosenberg, lý do chính khiến nhiều người gặp khó khăn trong việc xác định và bày tỏ cảm xúc của mình là gì?",
+      "options": [
+        "Xã hội từ nhỏ đã dạy chúng ta tập trung vào việc đánh giá đúng sai và hướng ra bên ngoài thay vì kết nối với bản thân.",
+        "Họ thiếu vốn từ vựng phong phú để diễn tả các sắc thái cảm xúc khác nhau một cách chính xác.",
+        "Họ sợ bị người khác phán xét hoặc lợi dụng khi thể hiện sự yếu đuối hay những cảm xúc chân thật của mình.",
+        "Các môi trường làm việc và giáo dục thường không khuyến khích việc bộc lộ cảm xúc cá nhân, coi đó là thiếu chuyên nghiệp."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách chỉ ra rằng từ nhỏ chúng ta đã được dạy 'hướng về người khác' thay vì kết nối với bản thân, và điều được xem trọng là 'suy nghĩ / lời nói / hành vi nào là đúng hay sai' do những người nắm quyền lực xác định. Điều này dẫn đến việc cảm xúc bị kìm nén và không được coi trọng, làm suy yếu khả năng nhận diện và bày tỏ chúng."
+    },
+    {
+      "id": "q2",
+      "question": "Trong NVC, khi một người nói: “Tôi cảm thấy rằng bạn nên hiểu biết hơn,” thì câu nói này đang bày tỏ điều gì?",
+      "options": [
+        "Một cảm xúc chân thật về sự thất vọng của bản thân đối với hành vi của người khác.",
+        "Một nhu cầu chưa được đáp ứng của người nói về sự tôn trọng và thấu hiểu lẫn nhau.",
+        "Một quan sát khách quan về tình hình mà không kèm theo bất kỳ sự phán xét nào.",
+        "Một suy nghĩ hoặc sự đánh giá về hành vi của người khác, không phải là một cảm xúc thực sự."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chương sách nhấn mạnh rằng khi dùng từ 'rằng' sau từ 'cảm thấy', người nói đang bày tỏ suy nghĩ thay vì cảm xúc của mình. Đây là một lỗi phổ biến trong giao tiếp, khiến người nghe dễ cảm thấy bị chỉ trích thay vì thấu hiểu cảm xúc nội tại của người nói."
+    },
+    {
+      "id": "q3",
+      "question": "Trường hợp nào sau đây thể hiện việc bày tỏ cảm xúc một cách rõ ràng và đúng đắn theo nguyên tắc NVC?",
+      "options": [
+        "“Tôi cảm thấy như thể mình đã cưới một bức tường.”",
+        "“Tôi cảm thấy sợ khi bạn nói điều đó.”",
+        "“Tôi cảm thấy mình đã bị đối xử bất công.”",
+        "“Tôi cảm thấy bạn thật kinh tởm.”"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu 'Tôi cảm thấy sợ khi bạn nói điều đó' trực tiếp bày tỏ một cảm xúc nội tại của người nói ('sợ'). Các lựa chọn khác đều là suy nghĩ, sự đánh giá bản thân hoặc suy diễn về hành vi của người khác, không phải là cảm xúc thực sự theo NVC (ví dụ: 'như thể', 'bị đối xử bất công' là đánh giá, 'bạn thật kinh tởm' là suy nghĩ/đánh giá về người khác)."
+    },
+    {
+      "id": "q4",
+      "question": "Khi một người nói: “Tôi cảm thấy vô dụng,” theo NVC, đây là loại biểu đạt nào?",
+      "options": [
+        "Một sự đánh giá bản thân, không phải là một cảm xúc chân thật mà là một phán xét về năng lực của mình.",
+        "Một cảm xúc thực sự về sự bất lực và tuyệt vọng của bản thân trong một tình huống cụ thể.",
+        "Một quan sát khách quan về tình trạng thiếu hiệu quả của bản thân trong công việc hoặc cuộc sống.",
+        "Một nhu cầu sâu sắc về sự công nhận và giá trị bản thân chưa được đáp ứng trong mối quan hệ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách phân biệt giữa cảm xúc thực sự và sự đánh giá bản thân. 'Vô dụng' là một sự đánh giá tiêu cực về năng lực hoặc giá trị của chính mình, chứ không phải là một cảm xúc thuần túy như thất vọng, buồn bã hay lo lắng. Đằng sau sự đánh giá này thường là những cảm xúc thực sự cần được nhận diện."
+    },
+    {
+      "id": "q5",
+      "question": "Trong câu chuyện về người quản lý bệnh viện bày tỏ sự lo lắng với đội ngũ bác sĩ, điều gì đã xảy ra khi anh ấy chấp nhận rủi ro và thể hiện cảm xúc của mình?",
+      "options": [
+        "Các bác sĩ đã bình phẩm và phán xét anh ấy, khiến cuộc họp trở nên căng thẳng hơn rất nhiều.",
+        "Anh ấy đã mất đi sự tôn trọng từ đội ngũ bác sĩ vì thể hiện sự yếu đuối cá nhân.",
+        "Các bác sĩ đáp lại bằng sự đồng cảm và cuối cùng thay đổi quyết định của họ về dự án.",
+        "Cuộc họp vẫn diễn ra như cũ, không có sự thay đổi đáng kể nào trong quan điểm của các bác sĩ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu chuyện minh họa rõ ràng rằng khi người quản lý từ bỏ vẻ ngoài nghiêm nghị và bày tỏ cảm xúc lo lắng của mình, các bác sĩ đã đáp lại bằng sự đồng cảm và thay đổi quyết định của họ từ 1 phiếu thuận/17 phiếu chống thành 17 phiếu thuận/1 phiếu chống. Điều này chứng tỏ việc bày tỏ cảm xúc có thể xây dựng kết nối và giải quyết mâu thuẫn."
+    },
+    {
+      "id": "q6",
+      "question": "Khi Marshall Rosenberg giảng bài cho nhóm sinh viên da màu và cảm thấy căng thẳng nhưng không dám bày tỏ, điều gì đã xảy ra sau đó?",
+      "options": [
+        "Các sinh viên trở nên tập trung hơn vào bài giảng vì ông giữ vững phong thái chuyên nghiệp.",
+        "Một sinh viên đã suy diễn rằng ông ghét người da đen, dẫn đến sự ngắt kết nối trong lớp học.",
+        "Ông đã thành công trong việc che giấu cảm xúc của mình và duy trì sự kiểm soát tình hình.",
+        "Các sinh viên cảm thấy thoải mái hơn khi ông không bộc lộ bất kỳ cảm xúc cá nhân nào."
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc Marshall che giấu cảm xúc căng thẳng của mình đã khiến các sinh viên suy diễn sai lệch về ý định của ông, dẫn đến câu hỏi 'Ông ghét người da đen, đúng không?'. Điều này minh họa tác động tiêu cực của việc che giấu cảm xúc và tầm quan trọng của sự minh bạch cảm xúc trong việc xây dựng kết nối."
+    },
+    {
+      "id": "q7",
+      "question": "Trong NVC, sự khác biệt giữa 'Tôi cảm thấy không được xem trọng' và 'Tôi cảm thấy buồn' là gì?",
+      "options": [
+        "Cả hai đều là cảm xúc thực sự, nhưng 'không được xem trọng' cụ thể hơn về nguyên nhân.",
+        "'Không được xem trọng' là một suy diễn về hành vi của người khác, còn 'buồn' là một cảm xúc thực sự của bản thân.",
+        "'Không được xem trọng' là một quan sát khách quan, còn 'buồn' là một sự đánh giá chủ quan.",
+        "Cả hai đều là suy nghĩ, nhưng 'buồn' mang tính cá nhân hơn so với 'không được xem trọng'."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách giải thích rằng 'không được xem trọng' miêu tả việc tôi nghĩ người khác đang đánh giá mình như thế nào, tức là một sự suy diễn về hành vi của người khác, chứ không phải một cảm xúc thực sự. Ngược lại, 'buồn' là một cảm xúc nội tại, chân thật của người nói."
+    },
+    {
+      "id": "q8",
+      "question": "Theo NVC, tại sao việc sử dụng những từ mơ hồ như 'tốt' hoặc 'tệ' để miêu tả cảm xúc lại không hiệu quả?",
+      "options": [
+        "Những từ này thường mang tính phán xét và không khuyến khích sự đồng cảm từ người nghe.",
+        "Việc sử dụng từ ngữ mơ hồ cho thấy sự thiếu nghiêm túc trong giao tiếp cá nhân.",
+        "Chúng không giúp người nghe kết nối với cảm xúc thực sự của chúng ta và có thể gây hiểu lầm.",
+        "Những từ này thường được dùng để che giấu những cảm xúc tiêu cực mà người nói không muốn bộc lộ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương sách chỉ ra rằng khi chúng ta nói 'Tôi cảm thấy tốt về điều đó', từ 'tốt' có thể có nghĩa là hạnh phúc, hào hứng, nhẹ nhõm, v.v. Những từ mơ hồ như 'tốt' hoặc 'tệ' khiến người nghe khó kết nối với cảm xúc thực sự của chúng ta, làm giảm hiệu quả của giao tiếp."
+    },
+    {
+      "id": "q9",
+      "question": "Khi một người vợ nói với chồng: “Tôi cảm thấy như thể mình đã cưới một bức tường,” theo NVC, điều này có thể dẫn đến hậu quả tâm lý nào?",
+      "options": [
+        "Người chồng sẽ nhận ra lỗi lầm của mình và cố gắng thay đổi hành vi để kết nối hơn.",
+        "Mối quan hệ sẽ được cải thiện vì người vợ đã thẳng thắn nói lên cảm nhận của mình.",
+        "Người vợ sẽ cảm thấy nhẹ nhõm hơn vì đã bày tỏ được sự thất vọng của mình một cách rõ ràng.",
+        "Người chồng có khuynh hướng nghe thấy một lời chỉ trích và trở nên chán nản, dẫn đến 'lời tiên tri tự hoàn thành'."
+      ],
+      "correctIndex": 3,
+      "explanation": "Marshall Rosenberg giải thích rằng những câu nói như vậy không giúp chồng cô thấu hiểu cảm xúc và nhu cầu của cô. Ngược lại, anh ấy có khuynh hướng nghe thấy một lời chỉ trích, cảm thấy chán nản, tổn thương và chỉ ngồi im, không đáp lại, do đó trở thành đúng hình ảnh bức tường mà người vợ nói – đây chính là 'lời tiên tri tự hoàn thành'."
+    },
+    {
+      "id": "q10",
+      "question": "Theo NVC, việc phát triển vốn từ vựng cảm xúc có vai trò quan trọng như thế nào?",
+      "options": [
+        "Giúp chúng ta kiểm soát cảm xúc của mình tốt hơn, tránh để chúng chi phối hành vi.",
+        "Giúp chúng ta tránh được những cảm xúc tiêu cực và chỉ tập trung vào những cảm xúc tích cực.",
+        "Cho phép chúng ta phân tích cảm xúc của người khác một cách chính xác hơn trong mọi tình huống.",
+        "Nâng cao khả năng xác định và bày tỏ những cảm xúc khác nhau, từ đó kết nối với bản thân và người khác dễ dàng hơn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Phần tổng kết của chương nêu rõ: 'Việc phát triển vốn từ vựng cảm xúc sẽ giúp bạn nâng cao khả năng xác định và bày tỏ những cảm xúc khác nhau của mình, từ đó kết nối với bản thân và với người khác một cách dễ dàng hơn.' Đây là một yếu tố cốt lõi để thực hành NVC hiệu quả."
+    },
+    {
+      "id": "q11",
+      "question": "Khi Marshall Rosenberg bị gãy cổ tay nhưng vẫn tiếp tục thi đấu bóng chày trong một tháng, điều này minh họa cho bài học nào mà ông đã tiếp thu từ nhỏ?",
+      "options": [
+        "Sự kiên cường và quyết tâm vượt qua mọi khó khăn thể chất để đạt được mục tiêu.",
+        "Tầm quan trọng của việc ưu tiên lợi ích của đội nhóm hơn là sức khỏe cá nhân.",
+        "Việc ngắt kết nối với cảm xúc đau đớn của bản thân do được dạy phải 'dốc hết sức' và không được sợ hãi.",
+        "Khả năng chịu đựng đau đớn cao hơn người bình thường nhờ rèn luyện thể thao thường xuyên."
+      ],
+      "correctIndex": 2,
+      "explanation": "Marshall kể lại rằng anh đã học cách ngắt kết nối với cảm xúc của bản thân từ khi còn nhỏ, với ví dụ về việc giáo viên nói 'Con trai không được sợ' và huấn luyện viên yêu cầu 'dốc hết sức' dù đau. Việc tiếp tục thi đấu với cổ tay gãy là một minh chứng cho sự ngắt kết nối này."
+    },
+    {
+      "id": "q12",
+      "question": "Trong NVC, câu nói nào dưới đây thể hiện sự đánh giá hoặc suy diễn về hành vi của người khác thay vì một cảm xúc thực sự?",
+      "options": [
+        "“Tôi cảm thấy bị hiểu lầm.”",
+        "“Tôi cảm thấy lo lắng khi phải nói về vấn đề này một lần nữa.”",
+        "“Tôi cảm thấy hạnh phúc khi bạn có thể đến.”",
+        "“Tôi cảm thấy bực bội với khả năng chơi ghi-ta của mình.”"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách giải thích rằng từ 'bị hiểu lầm' miêu tả sự đánh giá của tôi về mức độ hiểu của người khác, chứ không phải một cảm xúc thực sự. Trong tình huống này, người nói có thể cảm thấy lo lắng, khó chịu, v.v. Các lựa chọn khác đều là cảm xúc thực sự."
+    },
+    {
+      "id": "q13",
+      "question": "Một người học viên NVC nói: “Tôi cảm thấy, khi người ta làm những điều giống như vậy, đó là một loại rối loạn tính cách.” Marshall Rosenberg đã chỉ ra điều gì về câu nói này?",
+      "options": [
+        "Đây vẫn là một suy nghĩ hoặc sự đánh giá về người khác, chứ không phải là một cảm xúc thực sự của bản thân.",
+        "Đây là một cảm xúc mạnh mẽ nhưng được diễn đạt một cách gián tiếp và thiếu rõ ràng.",
+        "Đây là một quan sát chính xác về hành vi của người khác, cần được xem xét nghiêm túc.",
+        "Đây là một cách bày tỏ nhu cầu về sự trật tự và tôn trọng quy tắc trong giao tiếp."
+      ],
+      "correctIndex": 0,
+      "explanation": "Marshall Rosenberg đã giải thích rằng đây vẫn là một suy nghĩ thay vì một cảm xúc. Người học viên này đang đánh giá hành vi của người khác ('rối loạn tính cách') thay vì nhận diện và bày tỏ cảm xúc nội tại của mình (ví dụ: bực bội, khó chịu, tức giận)."
+    },
+    {
+      "id": "q14",
+      "question": "Theo NVC, việc bày tỏ cảm xúc không chỉ mang lại lợi ích cho các mối quan hệ gia đình mà còn cho môi trường công sở như thế nào?",
+      "options": [
+        "Giúp nhân viên thể hiện sự chuyên nghiệp và kiểm soát cảm xúc cá nhân tốt hơn trong công việc.",
+        "Thúc đẩy sự kết nối, đồng cảm giữa các đồng nghiệp và giải quyết vấn đề hiệu quả hơn.",
+        "Tạo ra một môi trường làm việc ít căng thẳng hơn bằng cách tránh các cuộc đối đầu trực tiếp.",
+        "Cho phép các nhà quản lý dễ dàng kiểm soát cảm xúc của nhân viên để tăng năng suất lao động."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách đưa ra ví dụ về bộ phận công nghệ ở Thụy Sĩ và ban quản lý bệnh viện. Khi nhân viên hoặc quản lý bày tỏ cảm xúc, điều đó giúp xây dựng sự kết nối, đồng cảm và giải quyết vấn đề hiệu quả hơn, thay vì bị né tránh hoặc gặp phải sự phản đối."
+    },
+    {
+      "id": "q15",
+      "question": "Trong bài tập về bày tỏ cảm xúc, câu nào sau đây được coi là bày tỏ cảm xúc thực sự, mặc dù có thể chưa rõ ràng?",
+      "options": [
+        "“Mẹ cảm thấy muốn đánh con một trận.”",
+        "“Khi bạn không chào tôi, tôi cảm thấy bị phớt lờ.”",
+        "“Tôi cảm thấy tốt về điều bạn đã làm cho tôi.”",
+        "“Tôi cảm thấy anh không còn yêu tôi nữa.”"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu 'Tôi cảm thấy tốt về điều bạn đã làm cho tôi' được Marshall Rosenberg chấp nhận là bày tỏ cảm xúc, mặc dù ông khuyến nghị sử dụng từ ngữ cụ thể hơn như 'nhẹ nhõm', 'hạnh phúc', 'biết ơn'. Các lựa chọn khác đều là suy nghĩ, sự tưởng tượng về hành động, hoặc suy diễn/đánh giá về người khác, không phải cảm xúc thực sự theo NVC."
+    }
+  ]
+}
