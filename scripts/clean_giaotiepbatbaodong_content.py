@@ -109,7 +109,37 @@ def clean_ch01():
     text = re.sub(r'!\[Giới thiệu\]\(images/img_p027_273\.png\)', '## Giới thiệu', text)
     text = re.sub(r'!\[Hướng sự chú tâm vào nơi giúp khơi dậy lòng trắc ẩn\]\(images/img_p029_293\.jpg\)', '## Hướng sự chú tâm vào nơi giúp khơi dậy lòng trắc ẩn', text)
     text = re.sub(r'!\[Quy trình NVC\]\(images/img_p033_308\.jpg\)', '## Quy trình NVC', text)
+
+    # Thay thế khung ảnh rỗng Quy trình NVC bằng Callout Box chuẩn Markdown
+    nvc_process_box = """> ### 📋 Quy trình NVC (Giao Tiếp Bất Bạo Động)
+>
+> **Bốn yếu tố cốt lõi:**
+> 1. **Quan sát (Observation):** Những hành động cụ thể mà chúng ta quan sát, cái tác động đến cuộc đời chúng ta.
+> 2. **Cảm xúc (Feeling):** Những cảm xúc của chúng ta liên quan đến điều ta quan sát.
+> 3. **Nhu cầu (Need):** Những nhu cầu, giá trị, ham muốn tạo ra những cảm xúc đó.
+> 4. **Đề nghị (Request):** Hành động cụ thể mà chúng ta đề nghị để giúp cải thiện chất lượng cuộc đời mình.
+>
+> ---
+>
+> **Hai phần của NVC:**
+> 1. **Bày tỏ chân thật:** Bày tỏ bốn yếu tố của bản thân một cách chân thật.
+> 2. **Lắng nghe đồng cảm:** Lắng nghe bốn yếu tố của người khác với sự đồng cảm."""
+
+    text = re.sub(
+        r'!\[Quy trình NVC: Bốn yếu tố và Hai phần của NVC\]\(images/img_p035_317\.jpg\)\s*Những hành động cụ thể mà chúng ta quan sát, cái tác động đến cuộc đời chúng ta Những cảm xúc của chúng ta liên quan đến điều ta quan sát Những nhu cầu, giá trị, ham muốn tạo ra những cảm xúc đó Hành động cụ thể mà chúng ta đề nghị để giúp cải thiện chất lượng cuộc đời mình',
+        nvc_process_box,
+        text
+    )
+
     text = re.sub(r'!\[Áp dụng NVC trong cuộc sống\]\(images/img_p036_323\.jpg\)', '## Áp dụng NVC trong cuộc sống', text)
+
+    # Định dạng danh sách áp dụng thành bullet points đẹp
+    text = re.sub(
+        r'Mối quan hệ tình cảm Gia đình Trường học Cơ quan và tổ chức Mối quan hệ tư vấn và trị liệu Đàm phán trong kinh doanh và ngoại giao Các cuộc xung đột và tranh chấp',
+        '- Mối quan hệ tình cảm\n- Gia đình\n- Trường học\n- Cơ quan và tổ chức\n- Mối quan hệ tư vấn và trị liệu\n- Đàm phán trong kinh doanh và ngoại giao\n- Các cuộc xung đột và tranh chấp',
+        text
+    )
+
     text = re.sub(r'!\[“Quân giết người! Bọn ám sát! Lũ sát hại trẻ con!”\]\(images/img_p040_360\.jpg\)', '### NVC trong thực tế: “Quân giết người! Bọn ám sát! Lũ sát hại trẻ con!”', text)
 
     with open(path, 'w', encoding='utf-8') as f:
@@ -148,6 +178,11 @@ def clean_ch03():
     )
     text = re.sub(r'!\[Loại hình thông minh cao nhất của con người\]\(images/img_p060_460\.jpg\)', '## Loại hình thông minh cao nhất của con người', text)
     text = re.sub(r'!\[Tách biệt Quan sát với Đánh giá\]\(images/img_p063_472\.jpg\)', '## Tách biệt Quan sát với Đánh giá', text)
+    text = re.sub(
+        r'!\[NVC trong thực tế: “Giảng viên kiêu căng nhất từng đến đây!”\]\(images/img_p066_501\.jpg\)',
+        '## NVC trong thực tế: “Giảng viên kiêu căng nhất từng đến đây!”',
+        text
+    )
     text = re.sub(
         r'!\[Bài tập 1\]\(images/img_p068_521\.png\)\s*!\[QUAN SÁT HAY ĐÁNH GIÁ\?\]\(images/img_p068_522\.jpg\)',
         '## Bài tập 1: Quan sát hay Đánh giá?',
@@ -296,6 +331,11 @@ def clean_ch05():
     text = re.sub(r'!\[Nuôi dưỡng thể chất\]\(images/img_p098_689\.jpg\)', '### 6. Nuôi dưỡng thể chất (Physical Nurturance)', text)
     text = re.sub(r'!\[Mối quan hệ với người khác:\]\(images/img_p099_701\.jpg\)', '### 7. Mối quan hệ tương hỗ (Interdependence)', text)
     text = re.sub(r'!\[Nỗi đau của việc kìm nén nhu cầu\]\(images/img_p099_702\.jpg\)', '## Nỗi đau của việc kìm nén nhu cầu', text)
+    text = re.sub(
+        r'!\[NVC trong thực tế “Lên án và phạt nặng những đứa đề con hoang!”\]\(images/img_p108_737\.jpg\)',
+        '## NVC trong thực tế: “Lên án và phạt nặng những đứa đẻ con hoang!”',
+        text
+    )
     text = re.sub(r'!\[Từ Nô lệ cẩm xúc đến Tự do cẩm xúc\]\(images/img_p102_716\.jpg\)', '## Từ Nô lệ cảm xúc đến Tự do cảm xúc', text)
     text = re.sub(r'!\[Tổng kết\]\(images/img_p086_619\.png\)', '## Tổng kết', text)
     text = re.sub(
@@ -348,6 +388,11 @@ Việc đưa ra đề nghị chân thành đòi hỏi chúng ta ý thức về c
     text = re.sub(r'!\[Tổng kết\]\(images/img_p139_903\.png\)\s*Yếu tố thứ tư của NVC là đưa ra\s*–', '## Tổng kết\n\nYếu tố thứ tư của NVC là đưa ra lời đề nghị –', text)
     text = re.sub(r'!\[để nghị\]\(images/img_p139_904\.png\)', '', text)
     text = re.sub(
+        r'!\[NVC trong thực tế Bày tỏ nỗi lo sợ về việc người bạn thân hút thuốc.*?\]\(images/img_p140_912\.jpg\)',
+        '## NVC trong thực tế: Bày tỏ nỗi lo sợ về việc người bạn thân hút thuốc',
+        text
+    )
+    text = re.sub(
         r'!\[Bài tập 4\]\(images/img_p143_941\.png\)\s*!\[ĐƯA RA ĐỀ NGHỊ\]\(images/img_p143_942\.jpg\)',
         '## Bài tập 4: Đưa ra đề nghị',
         text
@@ -373,6 +418,11 @@ def clean_ch07():
     text = re.sub(r'!\[Duy trì sự đồng cắm\]\(images/img_p159_1031\.jpg\)', '## Duy trì sự đồng cảm', text)
     text = re.sub(r'!\[Khi nỗi đau cần trở khả năng đồng cẳm của chúng ta\]\(images/img_p161_1040\.jpg\)', '## Khi nỗi đau cản trở khả năng đồng cảm của chúng ta', text)
     text = re.sub(r'!\[Tổng kết\]\(images/img_p162_1046\.png\)', '## Tổng kết', text)
+    text = re.sub(
+        r'!\[NVC trong thực tế Một người vợ kết nối với người chồng sắp qua đời của mình\]\(images/img_p163_1052\.jpg\)',
+        '## NVC trong thực tế: Một người vợ kết nối với người chồng sắp qua đời của mình',
+        text
+    )
     text = re.sub(
         r'!\[Bài tập 5\]\(images/img_p168_1073\.png\)\s*!\[Sức mạnh của sự đồng cảm\]\(images/img_p168_1074\.jpg\)',
         '## Bài tập 5: Lắng nghe với sự đồng cảm',
@@ -464,6 +514,11 @@ def clean_ch10():
     text = re.sub(r'!\[Trước hết, hãy bày tô sự đồng cẳm\]\(images/img_p219_1381\.jpg\)', '## Trước hết, hãy bày tỏ sự đồng cảm', text)
     text = re.sub(r'!\[Khong voi va\]\(images/img_p224_1399\.png\)', '## Không vội vã', text)
     text = re.sub(r'!\[Tổng kết\]\(images/img_p162_1046\.png\)', '## Tổng kết', text)
+    text = re.sub(
+        r'!\[NVC trong thực tế Cuộc đối thoại giữa hai cha con\]\(images/img_p227_1411\.jpg\)',
+        '## NVC trong thực tế: Cuộc đối thoại giữa hai cha con',
+        text
+    )
 
     with open(path, 'w', encoding='utf-8') as f:
         f.write(text)
@@ -532,6 +587,11 @@ def clean_ch13():
     text = re.sub(r'!\[Nuôi dưỡng sự bình an trong tâm trí\]\(images/img_p283_1720\.jpg\)', '## Nuôi dưỡng sự bình an trong tâm trí', text)
     text = re.sub(r'!\[Thay thế sự chẩn đoán bằng NVC\]\(images/img_p286_1732\.jpg\)', '## Thay thế sự chẩn đoán bằng NVC', text)
     text = re.sub(r'!\[Tổng kết\]\(images/img_p292_1754\.png\)', '## Tổng kết', text)
+    text = re.sub(
+        r'!\[NVC trong thực tế: Chuyển hóa sự tức giận và những lời chỉ trích bản thân\]\(images/img_p292_1753\.jpg\)',
+        '## NVC trong thực tế: Chuyển hóa sự tức giận và những lời chỉ trích bản thân',
+        text
+    )
 
     with open(path, 'w', encoding='utf-8') as f:
         f.write(text)

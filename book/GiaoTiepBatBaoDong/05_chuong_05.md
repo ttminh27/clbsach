@@ -200,7 +200,7 @@ Khi nói những lời suy diễn, đổ lỗi, phán xét, chỉ trích ngườ
 
 Trong quá trình trưởng thành về mặt cảm xúc, phần lớn chúng ta sẽ trải qua ba giai đoạn: (1) “Nô lệ cảm xúc” – tin rằng mình phải chịu trách nhiệm cho cảm xúc của người khác, (2) “Giai đoạn đáng ghét” – không hề quan tâm đến những cảm xúc và nhu cầu của người khác, và (3) “Tự do cảm xúc” – chúng ta không chịu trách nhiệm cho cảm xúc của người khác, nhưng hoàn toàn chịu trách nhiệm cho những cảm xúc của chính mình, đồng thời nhận ra rằng không bao giờ có thể đáp ứng những nhu cầu của chính mình bằng cách phớt lờ những nhu cầu của người khác.
 
-![NVC trong thực tế “Lên án và phạt nặng những đứa đề con hoang!”](images/img_p108_737.jpg)
+## NVC trong thực tế: “Lên án và phạt nặng những đứa đẻ con hoang!”
 
 *Nhiều năm trước, một học viên NVC làm tình* *nguyện phát đồ ăn miễn phí cho người nghèo.* *Một ngày nọ, cô cảm thấy sốc khi nghe một đồng* *nghiệp lớn tuổi đang đọc báo chợt nói to: “Đất* *nước này cần lên án và phạt nặng những đứa đẻ* *con hoang!”*
 

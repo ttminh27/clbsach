@@ -196,7 +196,7 @@ Trong NVC, bất kể người khác nói gì đi nữa, chúng ta cũng chỉ l
 
 Chúng ta cần nhận được sự đồng cảm để có thể cho đi sự đồng cảm. Khi chúng ta nhận thấy mình trở nên phòng thủ và không thể nào đồng cảm với người khác, chúng ta có thể (1) dừng lại, hít thở và trao cho bản thân sự đồng cảm; (2) hét lên theo một cách thức “bất bạo động”; hoặc (3) tạm thời rời khỏi cuộc nói chuyện.
 
-![NVC trong thực tế Một người vợ kết nối với người chồng sắp qua đời của mình](images/img_p163_1052.jpg)
+## NVC trong thực tế: Một người vợ kết nối với người chồng sắp qua đời của mình
 
 *Một bệnh nhân vừa được chẩn đoán ung thư* *phổi giai đoạn cuối. Cuộc nói chuyện sau, diễn* *ra tại nhà bệnh nhân, là cơ hội cuối cùng để anh* *ấy và vợ mình chia sẻ và kết nối về mặt cảm* *xúc với nhau trước khi anh ấy được đưa vào* *bệnh viện. Cuộc đối thoại còn có một y tá tham* *gia và mở đầu bằng việc người vợ phàn nàn với* *người y tá về một chuyên viên vật lý trị liệu* *thuộc đội chăm sóc sức khỏe tại nhà đã được* *cử đến để chăm sóc chồng mình.*
 

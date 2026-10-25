@@ -270,7 +270,7 @@ Mỗi khi nói, chúng ta càng rõ ràng về điều mình muốn nhận lại
 
 Người khác sẽ hiểu lời đề nghị của chúng ta là mệnh lệnh khi họ tin rằng mình sẽ bị trách móc, chỉ trích hoặc trừng phạt nếu không làm theo. Chúng ta có thể giúp người khác tin rằng chúng ta đang đề nghị, thay vì ra lệnh, bằng cách chỉ ra rằng chúng ta chỉ muốn họ làm theo nếu họ sẵn lòng. Trong NVC, chủ đích của chúng ta *không* phải là bắt ép người khác làm theo ý mình, mà là xây dựng mối quan hệ dựa trên sự trung thực và đồng cảm, và tìm cách đáp ứng nhu cầu của tất cả mọi người.
 
-![NVC trong thực tế Bày tỏ nỗi lo sợ về việc người bạn thân hút thuốc Al:](images/img_p140_912.jpg)
+## NVC trong thực tế: Bày tỏ nỗi lo sợ về việc người bạn thân hút thuốc
 
 *Al và Burt đã là bạn thân trong hơn 30 năm.* *Trong nhiều năm, Al, một người không hút thuốc,* *đã làm mọi cách để thuyết phục Burt từ bỏ thói* *quen hút hai gói thuốc mỗi ngày của mình. Trước* *đây, khi Al cố gắng khuyên nhủ, Burt thường trở* *nên phòng thủ vì thấy mình bị phán xét.*
 

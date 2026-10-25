@@ -75,15 +75,35 @@ Như vậy, một phần của NVC là bày tỏ bốn yếu tố này một cá
 
 Khi chúng ta tập trung vào bốn yếu tố trên và giúp người kia làm điều tương tự, chúng ta sẽ tạo ra một dòng chảy giao tiếp (flow of communication) qua lại giữa hai bên, cho đến khi lòng trắc ẩn nảy sinh một cách tự nhiên: đây là điều quan sát, cảm xúc và nhu cầu của tôi; đây là điều tôi đề nghị để giúp cải thiện chất lượng cuộc đời mình; đây là điều quan sát, cảm xúc và nhu cầu của bạn; đây là điều bạn đề nghị để giúp cải thiện chất lượng cuộc đời mình...
 
-![Quy trình NVC: Bốn yếu tố và Hai phần của NVC](images/img_p035_317.jpg)
+> ### 📋 Quy trình NVC (Giao Tiếp Bất Bạo Động)
+>
+> **Bốn yếu tố cốt lõi:**
+> 1. **Quan sát (Observation):** Những hành động cụ thể mà chúng ta quan sát, cái tác động đến cuộc đời chúng ta.
+> 2. **Cảm xúc (Feeling):** Những cảm xúc của chúng ta liên quan đến điều ta quan sát.
+> 3. **Nhu cầu (Need):** Những nhu cầu, giá trị, ham muốn tạo ra những cảm xúc đó.
+> 4. **Đề nghị (Request):** Hành động cụ thể mà chúng ta đề nghị để giúp cải thiện chất lượng cuộc đời mình.
+>
+> ---
+>
+> **Hai phần của NVC:**
+> 1. **Bày tỏ chân thật:** Bày tỏ bốn yếu tố của bản thân một cách chân thật.
+> 2. **Lắng nghe đồng cảm:** Lắng nghe bốn yếu tố của người khác với sự đồng cảm.
 
-Những hành động cụ thể mà chúng ta quan sát, cái tác động đến cuộc đời chúng ta Những cảm xúc của chúng ta liên quan đến điều ta quan sát Những nhu cầu, giá trị, ham muốn tạo ra những cảm xúc đó Hành động cụ thể mà chúng ta đề nghị để giúp cải thiện chất lượng cuộc đời mình Khi sử dụng NVC, chúng ta có thể bắt đầu bằng việc bày tỏ bốn yếu tố của bản thân một cách chân thật, *hoặc* lắng nghe bốn yếu tố này của người khác với sự đồng cảm. Mặc dù chúng ta sẽ đi qua từng yếu tố này từ Chương 3 đến Chương 6, điều quan trọng cần nhớ là NVC không phải là một công thức cứng nhắc, mà là thứ cần được linh hoạt điều chỉnh đối với những hoàn cảnh cũng như môi trường văn hóa khác nhau. Và mặc dù NVC được gọi là một “quy trình” hay “ngôn ngữ”, bạn có thể bày tỏ và lắng nghe cả bốn yếu tố mà không cần thốt ra một từ nào. Bản chất của NVC nằm trong sự ý thức của chúng ta về bốn yếu tố, chứ không phải trong những lời chúng ta nói ra.
+Khi sử dụng NVC, chúng ta có thể bắt đầu bằng việc bày tỏ bốn yếu tố của bản thân một cách chân thật, *hoặc* lắng nghe bốn yếu tố này của người khác với sự đồng cảm. Mặc dù chúng ta sẽ đi qua từng yếu tố này từ Chương 3 đến Chương 6, điều quan trọng cần nhớ là NVC không phải là một công thức cứng nhắc, mà là thứ cần được linh hoạt điều chỉnh đối với những hoàn cảnh cũng như môi trường văn hóa khác nhau. Và mặc dù NVC được gọi là một “quy trình” hay “ngôn ngữ”, bạn có thể bày tỏ và lắng nghe cả bốn yếu tố mà không cần thốt ra một từ nào. Bản chất của NVC nằm trong sự ý thức của chúng ta về bốn yếu tố, chứ không phải trong những lời chúng ta nói ra.
 
 ## Áp dụng NVC trong cuộc sống
 
 Trong các mối quan hệ với bản thân hoặc với người khác, NVC giúp chúng ta kết nối với bản chất nhân ái của mình. Do đó, nó có thể được áp dụng một cách hiệu quả ở mọi cấp độ giao tiếp và trong nhiều tình huống khác nhau:
 
-Mối quan hệ tình cảm Gia đình Trường học Cơ quan và tổ chức Mối quan hệ tư vấn và trị liệu Đàm phán trong kinh doanh và ngoại giao Các cuộc xung đột và tranh chấp Nhiều người sử dụng NVC để giúp mối quan hệ tình cảm của họ trở nên sâu sắc hơn. Một học viên chương trình NVC tại thành phố San Diego (California, Mỹ) chia sẻ:
+- Mối quan hệ tình cảm
+- Gia đình
+- Trường học
+- Cơ quan và tổ chức
+- Mối quan hệ tư vấn và trị liệu
+- Đàm phán trong kinh doanh và ngoại giao
+- Các cuộc xung đột và tranh chấp
+
+Nhiều người sử dụng NVC để giúp mối quan hệ tình cảm của họ trở nên sâu sắc hơn. Một học viên chương trình NVC tại thành phố San Diego (California, Mỹ) chia sẻ:
 
 > “VVC giúp tôi vượt qua cảm giác bị công kích và có thể thực sự lắng nghe điều người khác nói. Tôi đã nhận ra người chồng mà tôi
 >

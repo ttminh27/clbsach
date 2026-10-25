@@ -182,7 +182,7 @@ Bốn bước để bày tỏ sự tức giận là: (1) dừng lại, hít th�
 
 Cuối cùng, quá trình học và áp dụng NVC cần thời gian, và chúng ta cần chậm rãi, đi từng bước một, không vội vã.
 
-![NVC trong thực tế Cuộc đối thoại giữa hai cha con](images/img_p227_1411.jpg)
+## NVC trong thực tế: Cuộc đối thoại giữa hai cha con
 
 *Bill, một cậu bé 15 tuổi, lấy xe hơi của Jorge,* *người bạn thân của gia đình Bill, mà không xin* *phép. Cậu bé chở Eva, cô con gái 14 tuổi của* *Jorge, và một người bạn nữa đi vài vòng rồi trả* *chiếc xe lại một cách nguyên vẹn. Sau đó, Eva kể* *lại sự việc với Jorge, rồi Jorge nói với bố của Bill.* *Bố của Bill, người vừa học NVC, trò chuyện với* *con trai mình.*
 

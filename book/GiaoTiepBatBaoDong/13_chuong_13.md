@@ -87,7 +87,7 @@ Tóm lại, bằng cách áp dụng sự nhận thức và các kỹ năng của
 
 Với NVC, chúng ta có thể thoát khỏi sự trầm cảm bằng cách nhận ra những cảm xúc và nhu cầu đằng sau những thông điệp tiêu cực bên trong và đồng cảm với chúng. NVC cũng giúp chúng ta nuôi dưỡng được nhiều sự bình an trong tâm trí hơn bằng cách khuyến khích chúng ta tập trung vào điều mình thực sự muốn thay vì vào những lỗi sai của bản thân hoặc của người khác. Những người làm nghề tư vấn hoặc trị liệu tâm lý cũng có thể sử dụng NVC để tạo ra những mối quan hệ chân thành, cởi mở và kết nối với khách hàng của mình.
 
-![NVC trong thực tế: Chuyển hóa sự tức giận và những lời chỉ trích bản thân](images/img_p292_1753.jpg)
+## NVC trong thực tế: Chuyển hóa sự tức giận và những lời chỉ trích bản thân
 
 *Một học viên NVC chia sẻ câu chuyện sau đây:*
 

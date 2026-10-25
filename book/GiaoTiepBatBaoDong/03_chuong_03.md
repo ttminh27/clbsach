@@ -129,7 +129,7 @@ Những từ như *hiếm khi* và *thường xuyên* cũng có thể góp phầ
 
 Yếu tố đầu tiên của NVC đòi hỏi chúng ta tách biệt *quan sát* với *đánh giá*. Khi chúng ta trộn lẫn chúng với nhau, người nghe có khuynh hướng nghe thấy sự chỉ trích và do đó phản kháng điều chúng ta nói. Bên cạnh đó, khi đánh giá, chúng ta đang sử dụng “ngôn ngữ tĩnh” để mô tả một thực tại không ngừng thay đổi. Ngược lại, NVC là “ngôn ngữ động”, khuyến khích chúng ta chỉ ra những *quan sát* trong một thời gian và bối cảnh cụ thể, chẳng hạn như: “Hank Smith đã không ghi bàn trong 20 trận” thay vì “Hank Smith là tiền đạo tồi.”
 
-![NVC trong thực tế: “Giảng viên kiêu căng nhất từng đến đây!”](images/img_p066_501.jpg)
+## NVC trong thực tế: “Giảng viên kiêu căng nhất từng đến đây!”
 
 Nhiều năm trước, trong một khóa học NVC, sau khi đã giảng được khoảng nửa giờ, tôi dừng lại để các học viên bày tỏ ý kiến. Một người đàn ông (tên là Phil) giơ tay phát biểu: “Ông là giảng viên kiêu căng nhất từng đến đây!”
 
