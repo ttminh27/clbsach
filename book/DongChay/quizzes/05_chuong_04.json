@@ -1,0 +1,188 @@
+{
+  "bookId": "DongChay",
+  "chapterId": "05_chuong_04",
+  "chapterTitle": "Chương 4: Những điều kiện của trạng thái dòng chảy",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Mihaly Csikszentmihalyi, điều gì làm cho các trò chơi truyền thống như thể thao hay nghệ thuật dễ dẫn đến trạng thái dòng chảy hơn công việc thường nhật?",
+      "options": [
+        "Chúng loại bỏ hoàn toàn mọi cảm giác rủi ro vật lý.",
+        "Chúng luôn mang lại khoản phần thưởng tài chính lớn.",
+        "Chúng có cấu trúc rõ ràng về quy luật và phản hồi.",
+        "Chúng không đòi hỏi sự đầu tư năng lượng tâm thần."
+      ],
+      "correctIndex": 2,
+      "explanation": "Các hoạt động dòng chảy được thiết kế sẵn với quy luật rõ ràng, mục tiêu cụ thể và phản hồi tức thi, giúp cá nhân dễ dàng kiểm soát và tập trung toàn bộ năng lượng tâm thần."
+    },
+    {
+      "id": "q2",
+      "question": "Trong mô hình dòng chảy giữa thử thách và kỹ năng, khi một cá nhân cảm thấy chán nản với công việc hiện tại, cơ chế tâm lý thích ứng để họ quay lại dòng chảy là gì?",
+      "options": [
+        "Họ chủ động giảm bớt mức độ thử thách công việc xuống.",
+        "Họ chủ động gia tăng thêm mức độ thử thách công việc lên.",
+        "Họ tìm cách nâng cao và phát triển kỹ năng chuyên môn mới.",
+        "Họ từ bỏ hoàn toàn hoạt động và tìm kiếm một việc làm khác."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi kỹ năng vượt quá thử thách hiện tại, cá nhân sẽ cảm thấy chán. Để quay lại dòng chảy, họ cần gia tăng độ khó của thử thách sao cho tương xứng với năng lực hiện có."
+    },
+    {
+      "id": "q3",
+      "question": "Vì sao việc theo đuổi các mục tiêu ngoại tại như danh tiếng hay tiền bạc trong một cuộc thi đấu thường cản trở cá nhân trải nghiệm trạng thái dòng chảy?",
+      "options": [
+        "Vì chúng triệt tiêu toàn bộ mọi thử thách đến từ đối thủ cạnh tranh.",
+        "Vì chúng làm giảm mức độ thành thạo các kỹ năng cốt lõi của cá nhân.",
+        "Vì chúng khiến người chơi cảm thấy quá tự mãn về năng lực thực tế.",
+        "Vì chúng làm phân tán sự chú ý khỏi bản thân hành động đang thực hiện."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trạng thái dòng chảy đòi hỏi sự tập trung tuyệt đối vào bản thân hành động (động lực nội tại). Mục tiêu ngoại tại tạo ra sự phân tâm, hướng sự chú ý về phần thưởng thay vì quá trình."
+    },
+    {
+      "id": "q4",
+      "question": "Xét về bản chất tâm lý học của sự chú ý, vì sao tình trạng tự ý thức thái quá lại ngăn cản con người đạt được trạng thái dòng chảy một cách tự nhiên?",
+      "options": [
+        "Vì nó làm suy giảm khả năng ghi nhớ ngắn hạn của cá nhân khi thao tác.",
+        "Vì nó khiến cho cá nhân hoàn toàn mất hết các mục tiêu hành động ban đầu.",
+        "Vì nó gây ra tình trạng thiếu hụt trầm trọng các tác nhân kích thích ngoại vi.",
+        "Vì nó làm cho dòng chú ý trở nên quá cứng nhắc và mất đi sự lưu loát."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự tự ý thức thái quá hoặc ái kỷ khiến năng lượng tâm thần bị kẹt lại để bảo vệ cái tôi, làm cho sự chú ý trở nên cứng nhắc và mất đi tính lưu động cần thiết để đắm chìm vào hoạt động."
+    },
+    {
+      "id": "q5",
+      "question": "Khi so sánh hai bệnh lý xã hội là tình trạng vô tổ chức và sự tha hóa, Mihaly Csikszentmihalyi chỉ ra rằng chúng tương ứng với các trạng thái tâm lý cá nhân nào?",
+      "options": [
+        "Trạng thái hưng cảm và trạng thái hoảng loạn trầm trọng.",
+        "Trạng thái lo âu căng thẳng và trạng thái chán nản sâu sắc.",
+        "Trạng thái chán nản kéo dài và trạng thái hưng cảm bộc phát.",
+        "Trạng thái khủng hoảng tâm lý và trạng thái rối loạn nhân cách."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tình trạng vô tổ chức (Anomie) khiến cá nhân không rõ hướng đi, tương ứng với sự lo âu; trong khi sự tha hóa (Alienation) buộc họ làm điều trái với mục tiêu, dẫn đến sự chán nản."
+    },
+    {
+      "id": "q6",
+      "question": "Nghiên cứu sinh lý thần kinh của Tiến sĩ Jean Hamilton về điện thế gợi cho thấy điểm khác biệt cốt lõi nào ở những người thường xuyên trải nghiệm dòng chảy?",
+      "options": [
+        "Họ cần lượng thông tin lớn từ bên ngoại để xử lý tình huống phát sinh.",
+        "Họ không hề có bất kỳ phản ứng điện thế gợi nào trong suốt quá trình.",
+        "Sự kích thích não bộ của họ luôn được duy trì ở mức độ cực đại liên tục.",
+        "Sự hoạt hóa vỏ não của họ giảm đi khi họ tập trung vào một kích thích."
+      ],
+      "correctIndex": 3,
+      "explanation": "Những người hay có dòng chảy có khả năng sàng lọc thông tin và tắt đi các quá trình tinh thần không liên quan, giúp giảm thiểu nỗ lực vỏ não dư thừa khi tập trung vào kích thích."
+    },
+    {
+      "id": "q7",
+      "question": "Trong bối cảnh giáo dục gia đình, đặc tính nào sau đây tạo nên bối cảnh gia đình có mục đích tự thân giúp trẻ dễ dàng đạt được trạng thái dòng chảy?",
+      "options": [
+        "Sự kiểm soát nghiêm ngặt nhằm loại bỏ hoàn toàn mọi sai lầm có thể xảy ra.",
+        "Cha mẹ đặt ra các kỳ vọng nghề nghiệp vô cùng cao cho tương lai của trẻ nhỏ.",
+        "Sự rõ ràng trong mục tiêu, phản hồi tức thì và quyền được tự do lựa chọn.",
+        "Việc cung cấp đầy đủ các thiết bị giải trí công nghệ tiên tiến nhất hiện nay."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bối cảnh gia đình tự thân bao gồm sự rõ ràng về mục tiêu/phản hồi, sự quan tâm đến hiện tại, quyền lựa chọn và sự cam kết, giúp trẻ tự do phát triển năng lượng tâm thần vào hoạt động."
+    },
+    {
+      "id": "q8",
+      "question": "Khi phân tích cách các tù nhân chính trị duy trì sự tỉnh táo trong nghịch cảnh khắc nghiệt, tác giả nhấn mạnh cơ chế tâm lý nào là quan trọng nhất?",
+      "options": [
+        "Chủ nghĩa cá nhân không ý thức về bản ngã để biến mọi thứ thành trò chơi.",
+        "Sự chấp nhận tuyệt đối số phận nghiệt ngã và buông bỏ mọi mục tiêu sống.",
+        "Việc cố gắng quên đi hoàn cảnh thực tại đen tối đang diễn ra quanh họ.",
+        "Sự mong đợi kiên trì về một cuộc giải cứu từ thế giới bên ngoài biên giới."
+      ],
+      "correctIndex": 0,
+      "explanation": "Những người sống sót xuất sắc biến hoàn cảnh khắc nghiệt thành trò chơi có cấu trúc bằng cách tập trung vào chi tiết và đặt mục tiêu nội tại, không bị chi phối bởi việc bảo vệ cái tôi cá nhân."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao việc xem truyền hình mặc dù là hoạt động giải trí phổ biến nhất nhưng lại rất hiếm khi mang lại trạng thái dòng chảy thực sự cho người xem?",
+      "options": [
+        "Vì nó thiếu vắng các thử thách tương xứng và khả năng kiểm soát tương tác.",
+        "Vì người xem luôn bị chi phối bởi các mục tiêu ngoại tại đầy áp lực.",
+        "Vì các chương trình truyền hình giải trí thường có thời lượng quá ngắn ngủi.",
+        "Vì nó đòi hỏi mức độ tập trung của vỏ não vượt quá mức cho phép."
+      ],
+      "correctIndex": 0,
+      "explanation": "Xem TV là hoạt động tiếp nhận thụ động, không đòi hỏi kỹ năng cao cũng như không cung cấp thử thách hay khả năng kiểm soát tương tác, do đó hiếm khi tạo ra điều kiện cho dòng chảy."
+    },
+    {
+      "id": "q10",
+      "question": "Theo quan điểm của thuyết Dòng chảy, điều gì giải thích cho hiện tượng nhiều nền văn hóa tiền công nghiệp dù nghèo nàn vật chất vẫn cảm thấy thỏa mãn?",
+      "options": [
+        "Họ biết cách lấp đầy cuộc sống bằng nghệ thuật, nghi lễ và các thử thách.",
+        "Họ liên tục di cư để tìm kiếm các vùng đất mới giàu có tài nguyên tự nhiên.",
+        "Họ sở hữu một hệ thống luật pháp và quy định xã hội cực kỳ nghiêm ngặt.",
+        "Họ hoàn toàn không phải chịu bất kỳ áp lực sinh tồn nào từ thế giới tự nhiên."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhiều nền văn hóa nguyên thủy tạo ra các hoạt động mang tính thưởng thức như nghệ thuật, âm nhạc, nghi lễ và khiêu vũ, giúp các thành viên dễ dàng đạt được trải nghiệm tối ưu."
+    },
+    {
+      "id": "q11",
+      "question": "Khái niệm tính cách có mục đích tự thân phản ánh đặc điểm tâm lý nổi bật nào ở một cá nhân trong quá trình tương tác với môi trường xung quanh?",
+      "options": [
+        "Năng lực kiểm soát hoàn toàn các yếu tố kinh tế xã hội bên ngoài họ.",
+        "Xu hướng luôn tìm kiếm sự công nhận rộng rãi từ xã hội bên ngoài.",
+        "Khả năng biến các hoạt động thành phần thưởng nội tại cho chính nó.",
+        "Sự phụ thuộc hoàn toàn vào các kích thích mới lạ đến từ môi trường."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tính cách tự thân (autotelic) là khả năng thực hiện các hoạt động vì chính bản thân hành động đó chứ không vì phần thưởng ngoại tại, giúp họ luôn tìm thấy niềm vui trong mọi hoàn cảnh."
+    },
+    {
+      "id": "q12",
+      "question": "Khi phân tích về các trò chơi may rủi, Csikszentmihalyi cho rằng nguồn gốc tâm lý sâu xa của chúng xuất phát từ nhu cầu cốt lõi nào của con người?",
+      "options": [
+        "Mong muốn thống trị và kiểm soát người khác trong hệ thống xã hội.",
+        "Sự trốn tránh hoàn toàn mọi quy luật ràng buộc khắt khe của thực tại.",
+        "Nhu cầu vượt qua sự bất định hiện tại và ảo tưởng kiểm soát tương lai.",
+        "Khao khát đạt được các lợi ích kinh tế mang tính vật chất lâu dài."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trò chơi may rủi phản ánh nỗ lực vượt ra khỏi sự bất định của hiện tại và thỏa mãn ảo tưởng kiểm soát tương lai không đoán trước được, từ các nghi lễ tiên tri đến cờ bạc hiện đại."
+    },
+    {
+      "id": "q13",
+      "question": "Nghịch lý lớn nhất của thời đại công nghệ hiện đại đối với chất lượng trải nghiệm tinh thần của con người được thể hiện qua hiện tượng nào sau đây?",
+      "options": [
+        "Con người có quá ít thời gian rảnh rỗi để tham gia vào các hoạt động giải trí.",
+        "Sự gia tăng thời gian nhàn rỗi nhưng thiếu kỹ năng kiểm soát ý thức để tận hưởng.",
+        "Các thiết bị công nghệ làm triệt tiêu hoàn toàn khả năng tư duy sáng tạo cơ bản.",
+        "Sự biến mất hoàn toàn của các hoạt động mang tính thử thách trong đời sống."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dù có nhiều thời gian rảnh và phương tiện giải trí hơn tổ tiên, con người hiện đại vẫn sống trong buồn chán vì thiếu kỹ năng khai thác cơ hội và kiểm soát ý thức."
+    },
+    {
+      "id": "q14",
+      "question": "Trong các hoạt động mang tính bắt chước, cơ chế tâm lý giúp con người vượt qua những giới hạn của trải nghiệm thông thường hàng ngày là gì?",
+      "options": [
+        "Tạo ra các thực tại thay thế thông qua ảo tưởng, nghệ thuật và hóa trang.",
+        "Sử dụng các loại chất kích thích để thay đổi trạng thái nhận thức sinh học.",
+        "Cạnh tranh trực tiếp với các đối thủ mạnh để khẳng định năng lực cá nhân.",
+        "Tuân thủ tuyệt đối các quy định cứng nhắc của hệ thống pháp luật xã hội."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự bắt chước (mimicry) như nghệ thuật, sân khấu, mặt nạ hay trò chơi nhập vai giúp con người vượt qua giới hạn bản thân thông qua ảo tưởng, hóa thân thành những thực thể mạnh mẽ hơn."
+    },
+    {
+      "id": "q15",
+      "question": "Theo tác giả, điều kiện cốt lõi nào quyết định một hoạt động lao động hoặc nuôi dạy con cái có thể trở thành nguồn cội của trạng thái dòng chảy?",
+      "options": [
+        "Mức thu nhập tài chính cao mà công việc thế tục đó có thể mang lại.",
+        "Cách cá nhân nhận thức và chủ động tìm thấy cơ hội thử thách trong đó.",
+        "Sự vắng bóng hoàn toàn của các yếu tố áp lực công việc và kỷ luật.",
+        "Quyết định sắp xếp thời gian biểu hợp lý của hệ thống quản lý xã hội."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trải nghiệm dòng chảy không phụ thuộc hoàn toàn vào tính khách quan của công việc, mà phụ thuộc vào việc cá nhân biết cách nhận thức cơ hội và chủ động tái cấu trúc ý thức trong những việc thế tục."
+    }
+  ]
+}

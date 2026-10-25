@@ -1,0 +1,188 @@
+{
+  "bookId": "DongChay",
+  "chapterId": "03_chuong_02",
+  "chapterTitle": "Chương 2: Giải phẫu học về ý thức",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Mihaly Csikszentmihalyi, bản chất thực sự của chức năng ý thức con người khi đối mặt với các kích thích bên ngoài là gì?",
+      "options": [
+        "Ý thức phản chiếu ngoại cảnh thụ động để ghi nhận thực tại một cách hoàn toàn khách quan.",
+        "Ý thức là kho lưu trữ vô hạn các sự kiện cảm giác mà không cần phải qua chọn lọc thông tin.",
+        "Ý thức sàng lọc và chủ động tạo ra thực tại chủ quan thông qua việc kiểm soát thông tin.",
+        "Ý thức hoàn toàn tuân thủ các mệnh lệnh sinh học nhằm duy trì phản xạ sinh tồn tự nhiên."
+      ],
+      "correctIndex": 2,
+      "explanation": "Theo tác giả, ý thức hoạt động như một trung tâm sàng lọc có chọn lọc, chủ động định hình các sự kiện và tạo ra thực tại chủ quan của mỗi người, vượt lên trên phản xạ sinh học đơn thuần để sắp xếp thông tin có chủ đích."
+    },
+    {
+      "id": "q2",
+      "question": "Hiện tượng một cá nhân biến tình huống vô vọng thành thử thách vượt qua phản ánh nguyên lý nào của ý thức?",
+      "options": [
+        "Ý thức phụ thuộc tuyệt đối vào các tác nhân kích thích từ môi trường xã hội bên ngoài.",
+        "Ý thức tạo ra các phép màu tâm linh huyền bí để bẻ cong các quy luật vật lý thực tế.",
+        "Ý thức bị chi phối hoàn toàn bởi cấu trúc thần kinh khách quan và không thể thay đổi.",
+        "Ý thức có khả năng ghi đè lên mệnh lệnh di truyền và tự định hướng trạng thái nội tâm."
+      ],
+      "correctIndex": 3,
+      "explanation": "Csikszentmihalyi chỉ ra rằng ý thức đã phát triển khả năng ghi đè lên mệnh lệnh di truyền và môi trường khách quan, cho phép con người tự làm bản thân vui vẻ hay kiên trì bất chấp trở ngại bằng cách thay đổi nội dung ý thức."
+    },
+    {
+      "id": "q3",
+      "question": "Vì sao tác giả cho rằng việc mưu cầu sức mạnh tâm linh kỳ bí là sự lãng phí thời gian để cải thiện cuộc sống?",
+      "options": [
+        "Vì những khả năng siêu nhiên đó hoàn toàn không có thật và không thể chứng minh khoa học.",
+        "Vì ý thức còn vô số tiềm năng chưa được khai thác trong giới hạn hiện tại của chính nó.",
+        "Vì con người đã đạt đến giới hạn tuyệt đối của hệ thần kinh và không thể phát triển thêm.",
+        "Vì các phương pháp tu luyện khổ hạnh chỉ dành riêng cho một số cá nhân đặc biệt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh rằng thay vì lãng phí thời gian thèm khát những sức mạnh vượt tầm với hay huyền bí, chúng ta nên tập trung khai thác vô số tiềm năng chưa được sử dụng của ý thức trong những giới hạn hiện tại của nó."
+    },
+    {
+      "id": "q4",
+      "question": "Mô hình 'hiện tượng học dựa trên lý thuyết thông tin' dùng để nghiên cứu ý thức có đặc điểm cốt lõi nào?",
+      "options": [
+        "Tập trung phân tích sâu cấu trúc giải phẫu thần kinh và các quá trình điện hóa học trong não.",
+        "Loại bỏ hoàn toàn mọi lý thuyết khoa học để chỉ tập trung vào trạng thái tĩnh lặng tâm trí.",
+        "Nghiên cứu các mục đích vô thức và quá trình sinh hóa đằng sau các hành vi phản xạ bản năng.",
+        "Khảo sát trực diện các sự kiện tinh thần khi chúng được trải nghiệm kết hợp chú ý và trí nhớ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mô hình hiện tượng học dựa trên lý thuyết thông tin đề cập trực tiếp đến các sự kiện khi chúng được trải nghiệm và diễn giải, đồng thời áp dụng các nguyên tắc xử lý, lưu trữ thông tin của lý thuyết thông tin thay vì chỉ nhìn qua lăng kính giải phẫu thuần túy."
+    },
+    {
+      "id": "q5",
+      "question": "Sự khác biệt căn bản về mặt ý thức giữa trạng thái tỉnh táo và trạng thái mơ màng khi ngủ là gì?",
+      "options": [
+        "Trạng thái tỉnh táo không có cảm xúc, trong khi trạng thái mơ màng chứa đựng nhiều cung bậc.",
+        "Trạng thái mơ màng chứa đựng nhiều thông tin xử lý hơn giới hạn của ý thức con người.",
+        "Trạng thái tỉnh táo cho phép kiểm soát và hành động dựa trên thông tin, còn giấc mơ thì không.",
+        "Trạng thái tỉnh táo bị chi phối bởi bản năng, còn giấc mơ là sản phẩm của ý định có chủ đích."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả định nghĩa ý thức là những sự kiện mà ta có thể điều khiển hay tác động được diễn trình của chúng. Trong giấc mơ, dù có cảm xúc và suy nghĩ nhưng ta không thể kiểm soát hay hành động trên các diễn biến đó, nên ta không có ý thức về chúng."
+    },
+    {
+      "id": "q6",
+      "question": "Vai trò thực sự của 'ý định' đối với hệ thống thông tin trong ý thức con người được miêu tả ra sao?",
+      "options": [
+        "Ý định hoạt động như từ trường hướng sự chú ý vào đối tượng và giữ tâm trí đi theo trật tự.",
+        "Ý định là các thuật ngữ giải thích nguyên nhân sâu xa tại sao con người có nhu cầu sinh học.",
+        "Ý định chỉ xuất hiện khi cơ thể gặp phải các trạng thái rối loạn sinh lý như đói khát mệt mỏi.",
+        "Ý định hoàn toàn bị ấn định bởi các chương trình di truyền và không thể thay đổi bởi ý chí."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ý định được miêu tả là lực giữ thông tin trong ý thức đi theo trật tự, hoạt động như từ trường chuyển sự chú ý hướng đến các đối tượng mong muốn, đồng thời là yếu tố trung lập mô tả điều con người muốn làm thay vì chỉ giải thích nguyên nhân."
+    },
+    {
+      "id": "q7",
+      "question": "Yếu tố sinh học nào giới hạn khả năng xử lý thông tin và buộc con người phải lựa chọn có chọn lọc?",
+      "options": [
+        "Giới hạn sinh học về số lượng mẩu thông tin mà tâm trí có thể xử lý đồng thời tại một thời điểm.",
+        "Sự can thiệp của các mục tiêu xã hội chủ quan làm gián đoạn dòng chảy thông tin tự nhiên.",
+        "Sự chi phối quá mức của các cơ chế phòng vệ cái tôi khi đối mặt với các kích thích ngoại cảnh.",
+        "Sự thiếu hụt các phương tiện tượng trưng như ngôn ngữ, toán học và các khái niệm trừu tượng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Giới hạn của hệ thần kinh (ước tính xử lý tối đa khoảng 126 mẩu thông tin mỗi giây) buộc mọi suy nghĩ, cảm xúc hay hành động phải lần lượt nối đuôi nhau, vì tâm trí không thể xử lý đồng thời quá nhiều thông tin nếu không muốn bị lẫn lộn."
+    },
+    {
+      "id": "q8",
+      "question": "Vì sao tác giả cho rằng việc con người xem ti-vi thường mang lại mức độ tập trung và trải nghiệm thấp?",
+      "options": [
+        "Vì các hoạt động giải trí thụ động này đòi hỏi xử lý rất ít thông tin mới và ít cần sự chú ý.",
+        "Vì ti-vi phát ra các bức xạ điện từ làm suy giảm trực tiếp khả năng xử lý của hệ thần kinh.",
+        "Vì nội dung các chương trình luôn vi phạm các mục tiêu thiết thực dựa trên nhu cầu cơ thể.",
+        "Vì thời gian xem ti-vi chiếm mất quỹ thời gian cần thiết để duy trì các hoạt động sinh lý cơ bản."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả chỉ ra rằng trong thời gian rảnh rỗi, xem ti-vi hay đọc báo ít đòi hỏi xử lý thông tin mới và ít cần sự tập trung, khiến người ta ghi nhận mức độ sử dụng kỹ năng và sự rõ ràng trong tư duy ở mức thấp nhất."
+    },
+    {
+      "id": "q9",
+      "question": "Bản chất của 'sự chú ý' trong cấu trúc tâm lý học của Mihaly Csikszentmihalyi là gì?",
+      "options": [
+        "Là một phản xạ vô điều kiện xuất hiện tự động khi có các tác nhân kích thích mạnh từ môi trường.",
+        "Là cơ chế sinh học tự động làm giảm thiểu tình trạng rối loạn tâm thần mà không cần nỗ lực.",
+        "Là một phần của cái tôi cố định không thay đổi từ lúc sinh ra cho đến khi lìa đời.",
+        "Là nguồn năng lượng tinh thần hữu hạn giúp lựa chọn, truy xuất và xử lý thông tin liên quan."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự chú ý được xem là nguồn năng lượng tinh thần cần thiết để lựa chọn thông tin, truy xuất ký ức, đánh giá và ra quyết định. Không có nó, không có việc gì được hoàn thành và nó là công cụ quan trọng để cải thiện chất lượng trải nghiệm."
+    },
+    {
+      "id": "q10",
+      "question": "Mối quan hệ nhân quả giữa 'sự chú ý' và 'cái tôi' trong hệ thống ý thức được mô tả chính xác nhất qua điều gì?",
+      "options": [
+        "Sự chú ý định hình cái tôi liên tục mà không bao giờ có sự tác động ngược lại từ cái tôi.",
+        "Cái tôi hoàn toàn quyết định cứng nhắc hướng đi của sự chú ý mà không chịu ảnh hưởng gì.",
+        "Mối quan hệ nhân quả tuần hoàn: sự chú ý định hình cái tôi và cái tôi định hình sự chú ý.",
+        "Sự chú ý và cái tôi vận hành độc lập qua hai hệ thống thần kinh hoàn toàn tách biệt nhau."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định ý thức không phải là hệ thống tuyến tính mà có quan hệ nhân quả tuần hoàn: sự chú ý định hình cái tôi (thông qua những gì ta chọn tập trung) và cái tôi (tập hợp mục tiêu) lại định hình hướng đi của sự chú ý."
+    },
+    {
+      "id": "q11",
+      "question": "Hiện tượng 'entropy tâm thần' xuất hiện trong ý thức con người vào thời điểm nào?",
+      "options": [
+        "Khi năng lượng tinh thần được đầu tư hoàn toàn vào việc theo đuổi các mục tiêu tự thân dòng chảy.",
+        "Khi thông tin xuất hiện xung đột với các mục tiêu hiện có hoặc đe dọa sự toàn vẹn của cái tôi.",
+        "Khi cá nhân đạt được trạng thái cân bằng hoàn hảo giữa thách thức công việc và kỹ năng cá nhân.",
+        "Khi hệ thần kinh xử lý vượt mức thông tin cho phép một cách suôn sẻ và vô cùng có trật tự."
+      ],
+      "correctIndex": 1,
+      "explanation": "Entropy tâm thần là trạng thái rối loạn bên trong khi thông tin xung đột với ý định hoặc đe dọa mục tiêu, buộc sự chú ý phải đi lệch hướng để phòng vệ, làm suy yếu tính hiệu quả và hủy hoại cấu trúc của cái tôi."
+    },
+    {
+      "id": "q12",
+      "question": "Qua các ví dụ về Julio và Jim, tác giả minh họa điều gì về tác động của các sự kiện ngoại cảnh?",
+      "options": [
+        "Mọi sự kiện bên ngoài đều mang sẵn giá trị tiêu cực tuyệt đối và tự động phá hủy ý thức.",
+        "Giá trị tích cực hay tiêu cực của sự kiện phụ thuộc vào cách cái tôi diễn giải thông tin.",
+        "Sự kiện ngoại cảnh hoàn toàn không có bất kỳ ảnh hưởng nào nếu cá nhân biết phớt lờ nó.",
+        "Những rắc rối vật lý nhỏ luôn gây ra mức độ rối loạn tâm thần trầm trọng hơn cú sốc lớn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh sự kiện bên ngoài chỉ xuất hiện như thông tin trung lập; chính cái tôi diễn giải thông tin đó trong ngữ cảnh các mối quan tâm của mình để quyết định xem nó có nguy hại hay đe dọa các mục tiêu ưu tiên hay không."
+    },
+    {
+      "id": "q13",
+      "question": "Trải nghiệm 'dòng chảy' khác biệt với trạng thái entropy tâm thần ở đặc điểm nền tảng nào trong ý thức?",
+      "options": [
+        "Thông tin đi vào nhận thức phù hợp với mục tiêu, giúp năng lượng tinh thần tuôn chảy thuận lợi.",
+        "Cá nhân phải nỗ lực phòng vệ liên tục trước các tác nhân gây xao nhãng từ môi trường.",
+        "Sự chú ý bị phân tán ngẫu nhiên vào nhiều mục tiêu khác nhau để giảm tải hệ thần kinh.",
+        "Cái tôi bị lu mờ hoàn toàn và không còn khả năng kiểm soát bất kỳ diễn trình nào nữa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong trải nghiệm dòng chảy, thông tin đi vào nhận thức phù hợp với mục tiêu, không có sự lo lắng hay rối loạn, năng lượng tinh thần tuôn ra dễ dàng và phản hồi tích cực củng cố cái tôi."
+    },
+    {
+      "id": "q14",
+      "question": "Quá trình sinh trưởng và phát triển của cái tôi thông qua trải nghiệm dòng chảy được cấu thành bởi điều gì?",
+      "options": [
+        "Sự tuân phục xã hội và đồng hóa tiêu chuẩn chung.",
+        "Sự biệt hóa và sự tích hợp kết nối với thế giới.",
+        "Sự suy giảm năng lượng và tăng tự động hóa hành vi.",
+        "Sự loại bỏ mục tiêu để tập trung trạng thái tĩnh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự phức tạp và sinh trưởng của cái tôi là kết quả của hai quá trình: sự biệt hóa (hướng về sự độc nhất, tách bản thân) và sự tích hợp (kết hợp với người khác và thế giới vượt trên cái tôi), tạo nên sự hài hòa."
+    },
+    {
+      "id": "q15",
+      "question": "Nghịch lý cốt lõi trong việc phát triển bản thân và đạt được trải nghiệm tối ưu qua thuyết Dòng chảy là gì?",
+      "options": [
+        "Con người phải ép buộc bản thân tuân thủ các mệnh lệnh di truyền khắt khe nhất để đạt hiệu suất cao.",
+        "Sự thành công chỉ đến khi cá nhân loại bỏ hoàn toàn mọi mục tiêu và để mặc ý thức tự do trôi dạt.",
+        "Khi hành động tự do vì bản thân việc hành động thay vì vụ lợi, ta học hỏi và phát triển tốt hơn.",
+        "Việc kiểm soát ý thức chỉ có thể đạt được thông qua các biện pháp đường tắt và các phép màu tinh thần."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả kết luận nghịch lý là khi chúng ta hành động một cách tự do vì bản thân việc hành động thay vì động cơ vụ lợi, tập trung hết mức vào mục tiêu đã chọn, ta sẽ thấy vui và cái tôi cứ thế sinh trưởng, phát triển vượt bậc."
+    }
+  ]
+}

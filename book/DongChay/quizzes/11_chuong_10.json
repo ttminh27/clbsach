@@ -1,0 +1,188 @@
+{
+  "bookId": "DongChay",
+  "chapterId": "11_chuong_10",
+  "chapterTitle": "Chương 10: Tạo ra ý nghĩa",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao một vận động viên hay một thiên tài cờ vua dù đạt trạng thái dòng chảy xuất sắc vẫn có thể cảm thấy ủ rũ khi rời sân đấu?",
+      "options": [
+        "Vì năng lực thi đấu cá nhân chưa đủ cao để duy trì trạng thái dòng chảy liên tục.",
+        "Vì hoạt động dòng chảy chuyên biệt chưa được liên kết thành mục đích sống thống nhất.",
+        "Vì họ thiếu sự công nhận từ cộng đồng và áp lực chiến thắng quá lớn đè nặng.",
+        "Vì họ chưa tìm được đối thủ xứng tầm để kích hoạt thử thách liên tục trong tâm trí."
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo Mihaly Csikszentmihalyi, đạt dòng chảy trong một hoạt động đơn lẻ không đảm bảo lan tỏa sang toàn bộ đời sống. Nếu thưởng thức không gắn với mục đích chung, cá nhân vẫn dễ tổn thương bởi hỗn loạn nội tâm."
+    },
+    {
+      "id": "q2",
+      "question": "Theo quan điểm tâm lý học dòng chảy, bản chất thực sự của việc tạo ra ý nghĩa cho cuộc đời con người là gì?",
+      "options": [
+        "Mang lại trật tự cho tâm trí bằng cách hợp nhất mọi hành động vào trải nghiệm dòng chảy.",
+        "Tìm kiếm một mục tiêu tối cao đã được định sẵn bởi tự nhiên và vũ trụ bao la.",
+        "Loại bỏ hoàn toàn mọi xung đột và thử thách để đạt sự bình yên tuyệt đối.",
+        "Tích lũy khối lượng tài sản vật chất và quyền lực đủ lớn để chi phối mọi hoàn cảnh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Csikszentmihalyi chỉ ra cuộc sống tự nhiên không có sẵn mục đích tối cao, nhưng con người tạo ra ý nghĩa bằng cách mang lại trật tự cho tâm trí, tích hợp mục tiêu thành trải nghiệm dòng chảy liền mạch."
+    },
+    {
+      "id": "q3",
+      "question": "Trong bối cảnh tiến hóa tâm lý, tại sao con người hiện đại lại dễ rơi vào trạng thái hoang mang và trống rỗng hơn?",
+      "options": [
+        "Vì hệ thống thần kinh của con người hiện đại đã bị suy giảm khả năng tập trung chú ý.",
+        "Vì môi trường sống hiện đại quá đầy đủ vật chất khiến con người mất hết động lực phấn đấu.",
+        "Vì các giá trị văn hóa truyền thống đã bị triệt tiêu hoàn toàn và không thể khôi phục.",
+        "Vì sự bùng nổ của các lựa chọn tự do làm mất đi tính rõ ràng của mục tiêu và gây ra hỗn loạn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả phân tích sự phong phú của các lựa chọn mở rộng tự do cá nhân nhưng đồng thời tạo ra tính bất định của mục đích, phá hủy quyết tâm và khiến việc đạt trải nghiệm dòng chảy trở nên khó khăn."
+    },
+    {
+      "id": "q4",
+      "question": "Khi đối mặt với một sự kiện đau thương hoặc khủng hoảng trong đời, cơ chế tâm lý nào giúp biến nghịch cảnh thành chủ đề chống lại entropy?",
+      "options": [
+        "Kìm nén hoàn toàn ký ức đau buồn xuống tầng vô thức để tránh phải đối diện trực tiếp.",
+        "Diễn giải nỗi đau thành thách thức vượt qua và khái quát hóa giải pháp hỗ trợ người khác.",
+        "Quy trách nhiệm hoàn toàn cho các thế lực siêu nhiên hoặc vận may rủi ngoài tầm kiểm soát.",
+        "Chấp nhận buông xuôi số phận và tìm kiếm niềm vui tạm thời qua các hoạt động giải trí."
+      ],
+      "correctIndex": 1,
+      "explanation": "Những nhân vật như E. hay Gottfried không chìm đắm trong nạn nhân hóa mà diễn giải nghịch cảnh thành thách thức cấu trúc, tổng quát hóa giải pháp giúp ích nhân loại, từ đó tạo ra chủ đề cuộc sống."
+    },
+    {
+      "id": "q5",
+      "question": "Sự khác biệt cốt lõi giữa hai cách tiếp cận cuộc sống mang tính cảm giác và tư tưởng theo Pitrim Sorokin là gì?",
+      "options": [
+        "Văn hóa cảm giác tập trung vào trải nghiệm hữu hình và khoái lạc, còn tư tưởng hướng tới nguyên tắc siêu việt.",
+        "Văn hóa cảm giác chỉ xuất hiện ở thời cổ đại còn tư tưởng độc quyền ở xã hội hiện đại trong bối cảnh thực tiễn..",
+        "Văn hóa cảm giác tạo ra sự hỗn loạn tâm thần, còn tư tưởng luôn đảm bảo dòng chảy hoàn hảo.",
+        "Văn hóa cảm giác bài xích mọi nhu cầu thể chất, còn tư tưởng tôn vinh việc thỏa mãn các giác quan."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sorokin chia văn hóa dựa trên mục tiêu: cảm giác tập trung đáp ứng nhu cầu cụ thể và thực tiễn; còn tư tưởng coi nhẹ vật chất, phấn đấu cho các kết quả siêu nhiên, trừu tượng và tinh thần."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao việc chỉ dựa vào một cuộc đời hành động thuần túy mà thiếu đi sự phản tỉnh thường dẫn đến khủng hoảng ở giai đoạn sau?",
+      "options": [
+        "Vì xã hội hiện đại không tôn trọng những người chỉ biết hành động mà thiếu bằng cấp học thuật.",
+        "Vì hành động luôn tiêu tốn năng lượng thể chất khiến cơ thể suy kiệt nhanh chóng trước trung niên.",
+        "Vì các mục tiêu thực dụng ban đầu có thể không đủ sức mạnh và tầm bao quát để neo giữ ý nghĩa.",
+        "Vì hành động tạo ra quá nhiều phản hồi tiêu cực từ môi trường xung quanh khiến tâm trí bất an."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả chỉ ra hành động cường độ cao giúp khuất phục xung đột tạm thời, nhưng thiếu phản tỉnh, các mục tiêu thực dụng sẽ sớm bộc lộ sự cạn kiệt, dẫn đến hoài nghi và hối tiếc khi nhìn lại."
+    },
+    {
+      "id": "q7",
+      "question": "Yếu tố nào đóng vai trò quyết định để một mục tiêu sống có khả năng mang lại trải nghiệm dòng chảy kéo dài suốt đời?",
+      "options": [
+        "Mục tiêu đó phải được công nhận và ca ngợi rộng rãi bởi số đông cộng đồng xã hội.",
+        "Mục tiêu đó phải cực kỳ dễ thực hiện để tránh gây ra bất kỳ áp lực tâm lý nào.",
+        "Mục tiêu đó phải đủ lớn để chiếm lấy toàn bộ năng lượng tinh thần và biện minh cho mọi nỗ lực.",
+        "Mục tiêu đó phải mang lại lợi ích tài chính khổng lồ và sự an toàn tuyệt đối về vật chất."
+      ],
+      "correctIndex": 2,
+      "explanation": "Một mục tiêu thống nhất cần phải đủ độ khó và hấp dẫn để đầu tư năng lượng tinh thần trọn đời, tập trung sự chú ý, qua đó kết nối mọi hành động riêng lẻ thành dòng chảy liền mạch."
+    },
+    {
+      "id": "q8",
+      "question": "Theo phân tích tiến hóa tâm thức, tại sao trạng thái entropy tâm thần lại chủ yếu xuất hiện ở con người mà hiếm ở động vật?",
+      "options": [
+        "Vì động vật không có khả năng tư duy về các khả năng thay thế và tương lai vượt ngoài hiện tại.",
+        "Vì động vật có bộ não phát triển kém nên chúng không có khả năng cảm nhận nỗi đau thể xác.",
+        "Vì môi trường tự nhiên của động vật luôn hoàn hảo và không bao giờ có bất kỳ sự đe dọa nào trên thực tế.",
+        "Vì động vật được lập trình sinh học để luôn luôn ở trong trạng thái dòng chảy vĩnh cửu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Động vật sống theo bản năng và chỉ phản ứng với thực tế trước mắt, không tưởng tượng ra lựa chọn thay thế hay lo lắng về tương lai. Ngược lại, bộ não con người tạo ra khả năng nhận thức điều khả dĩ."
+    },
+    {
+      "id": "q9",
+      "question": "Vai trò của văn hóa, nghệ thuật và văn học quá khứ đối với cá nhân trong công cuộc xây dựng ý nghĩa cuộc sống là gì?",
+      "options": [
+        "Thay thế hoàn toàn vai trò tự khám phá và thử nghiệm thực tế của mỗi cá nhân trong đời sống.",
+        "Áp đặt những giáo điều cứng nhắc buộc cá nhân phải tuân thủ tuyệt đối mà không cần suy ngẫm.",
+        "Mang lại sự giải trí thuần túy để xoa dịu những căng thẳng tạm thời sau giờ làm việc căng thẳng.",
+        "Cung cấp các khuôn mẫu thông tin đã sắp xếp trật tự giúp cá nhân học cách chuyển hóa hỗn loạn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả nhấn mạnh văn học, nghệ thuật và triết học chứa đựng kho tàng thông tin có trật tự từ các thế hệ trước. Việc tiếp thu giúp cá nhân có thêm hình mẫu và phương thức chuyển hóa hỗn loạn."
+    },
+    {
+      "id": "q10",
+      "question": "Mối quan hệ biện chứng giữa mục tiêu và nỗ lực trong việc duy trì dòng chảy và tạo ra ý nghĩa được thể hiện như thế nào?",
+      "options": [
+        "Mục tiêu chỉ có giá trị khi không đòi hỏi bất kỳ nỗ lực thể chất hay tinh thần nào từ con người.",
+        "Nỗ lực tiêu tốn cho một mục tiêu hoàn toàn độc lập và không bao giờ ảnh hưởng ngược lại ý nghĩa trên thực tế.",
+        "Mục tiêu ban đầu biện minh cho nỗ lực, nhưng chính quá trình bỏ ra nỗ lực mới làm mục tiêu có giá trị.",
+        "Nỗ lực càng lớn bao nhiêu thì mức độ sai lầm của mục tiêu ban đầu càng trầm trọng bấy nhiêu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Csikszentmihalyi phân tích có sự tương tác qua lại: mục tiêu ban đầu thu hút nỗ lực, nhưng chính sự cam kết kiên định và nỗ lực bỏ ra qua thời gian mới làm cho mục tiêu đó thực sự có giá trị."
+    },
+    {
+      "id": "q11",
+      "question": "Trong các giai đoạn phát triển ý nghĩa cuộc sống, bước tiến đạt đến sự phản tỉnh cá nhân đặc trưng bởi điều gì?",
+      "options": [
+        "Sự tuân thủ mù quáng mọi chuẩn mực và quy định truyền thống của gia đình và cộng đồng.",
+        "Sự quay vào bên trong để phát triển, hiện thực hóa tiềm năng và xây dựng lương tâm tự chủ.",
+        "Việc tập trung hoàn toàn vào sự sống còn vật chất và nhu cầu bản năng sinh học cơ bản trên thực tế.",
+        "Sự từ bỏ hoàn toàn bản ngã để hòa nhập vào các giá trị tâm linh phổ quát của vũ trụ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ở giai đoạn phản tỉnh cá nhân, con người không còn tuân phục tập quán một cách thụ động mà chủ động kiểm tra năng lực, thử nghiệm giới hạn bản thân, biến sự thưởng thức thành nguồn phần thưởng."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao tác giả đánh giá mô hình văn hóa lý tưởng kết hợp cảm giác và tư tưởng là giải pháp thích đáng nhất?",
+      "options": [
+        "Vì nó loại bỏ hoàn toàn mọi ham muốn vật chất để con người sống thuần túy bằng tâm linh ở mức độ sâu sắc.",
+        "Vì nó áp dụng các quy luật khoa học tự nhiên vào mọi mặt đời sống xã hội một cách chính xác.",
+        "Vì nó giúp con người đạt được quyền lực chính trị tối cao mà không gặp phải sự kháng cự nào.",
+        "Vì nó bảo tồn được lợi thế thực tế của trải nghiệm cảm giác đồng thời duy trì sự sùng kính mục đích."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chủ nghĩa lý tưởng thành công trong việc tích hợp hai nguyên tắc đối lập: vừa chấp nhận trải nghiệm cảm giác cụ thể vừa tôn kính mục đích tâm linh, qua đó tránh được sự thờ ơ vật chất hay khổ hạnh."
+    },
+    {
+      "id": "q13",
+      "question": "Hình tượng Dante lạc vào rừng tăm tối và hành trình qua địa ngục cùng Virgil trong Thần Khúc phản ánh bài học gì?",
+      "options": [
+        "Trốn tránh thực tại và tìm kiếm sự thỏa mãn giác quan đơn thuần là phương pháp chữa lành tối ưu.",
+        "Khủng hoảng tuổi trung niên là dấu hiệu cho thấy bộ não đã bị tổn thương không thể hồi phục trên thực tế.",
+        "Đối mặt và dấn thân xuyên qua thử thách nội tâm là con đường duy nhất để tìm lại trật tự và ý nghĩa.",
+        "Con người nên phó mặc cuộc đời cho vận mệnh và các thế lực siêu nhiên an sắp sẵn sàng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thông qua câu chuyện của Dante, tác giả minh họa khủng hoảng tuổi trung niên xuất phát từ sự bủa vây của tham vọng, ham muốn; lối thoát không phải né tránh mà là đối mặt, đi xuyên qua thử thách."
+    },
+    {
+      "id": "q14",
+      "question": "Theo góc nhìn tiến hóa học được trình bày ở cuối chương, nhiệm vụ cốt lõi của ý thức con người trong giai đoạn tới là gì?",
+      "options": [
+        "Học cách tích hợp bản thân vào hệ thống vũ trụ rộng lớn mà vẫn giữ được tính cá thể độc đáo.",
+        "Từ bỏ mọi thành tựu khoa học kỹ thuật để quay trở lại lối sống nguyên thủy của tổ tiên.",
+        "Sử dụng công nghệ để biến đổi toàn bộ các hành tinh khác phục vụ nhu cầu sinh học loài người.",
+        "Tiếp tục cô lập con người hoàn toàn khỏi tự nhiên để khẳng định quyền thống trị tuyệt đối."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả kết luận sau khi phát triển sự biệt hóa, nhiệm vụ tiếp theo của tiến hóa ý thức là tích hợp, hòa nhập con người với vũ trụ chung mà không làm mất đi tính cá thể đã dày công tạo dựng."
+    },
+    {
+      "id": "q15",
+      "question": "Thái độ tâm lý nào thể hiện chính xác nhất trạng thái của cá nhân đã làm chủ trải nghiệm tối ưu và tạo ra ý nghĩa tổng thể?",
+      "options": [
+        "Sự sợ hãi và tìm mọi cách trốn chạy trước những sự kiện bất ngờ hay cái chết tiềm ẩn tương lai.",
+        "Sự thanh thản và trật tự nội tại vững chắc, giúp biến mỗi khoảnh khắc thành trải nghiệm thưởng thức.",
+        "Cảm giác trống rỗng và vô định vì đã hoàn thành toàn bộ mọi mục tiêu lớn nhỏ trong cuộc đời.",
+        "Sự kiêu ngạo vì tin rằng bản thân có khả năng kiểm soát và chi phối toàn bộ các quy luật tự nhiên trên thực tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Một cá nhân đạt đến ý nghĩa cuộc sống sở hữu trật tự nội tại vững chắc, họ chấp nhận thực tại, không sợ hãi cái chết và biết cách biến mọi khoảnh khắc hiện tại thành trải nghiệm thưởng thức sâu sắc."
+    }
+  ]
+}

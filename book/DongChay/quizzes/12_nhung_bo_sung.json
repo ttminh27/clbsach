@@ -1,0 +1,188 @@
+{
+  "bookId": "DongChay",
+  "chapterId": "12_nhung_bo_sung",
+  "chapterTitle": "Những bổ sung",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Mihaly Csikszentmihalyi, điều gì thúc đẩy những người sáng tạo dấn thân sâu sắc nhất vào công việc của họ?",
+      "options": [
+        "Khao khát đạt được danh tiếng lớn và tài sản kếch xù trong tương lai gần.",
+        "Cơ hội làm việc mình yêu thích và niềm vui bản chất từ tiến trình.",
+        "Áp lực từ sự cạnh tranh khốc liệt và các tiêu chuẩn khắt khe xã hội.",
+        "Mong muốn tạo ra các sản phẩm thương mại mang lại giá trị cao nhất."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ ra rằng những người sáng tạo nhất trí làm việc trước hết vì tính thú vị và niềm vui tự thân của hoạt động đó, chứ không phải vì danh vọng hay tiền bạc. Các phương án còn lại mang động lực ngoại tại, đi ngược lại bản chất của động lực nội tại trong trải nghiệm dòng chảy."
+    },
+    {
+      "id": "q2",
+      "question": "Cơ chế thần kinh giúp cảm thấy hưng phấn khi khám phá điều mới mẻ đóng vai trò sinh học nào trong tiến hóa?",
+      "options": [
+        "Giúp con người luôn bảo tồn năng lượng tối đa để tránh xa mọi rủi ro tiềm ẩn.",
+        "Đảm bảo con người chỉ lặp lại các mô thức hành vi đã được chứng minh an toàn.",
+        "Kìm hãm sự phát triển của tư duy trừu tượng nhằm duy trì sự ổn định sinh lý.",
+        "Tạo ra động lực thúc đẩy cá nhân thích ứng hiệu quả với môi trường biến động."
+      ],
+      "correctIndex": 3,
+      "explanation": "Cơ chế thưởng cho sự khám phá giúp sinh vật linh hoạt tìm kiếm cái mới, chuẩn bị tốt hơn cho các tình huống bất ngờ đe dọa sự sinh tồn trong môi trường phức tạp. Các phương án khác mô tả bản chất của entropy hoặc sự bảo tồn, vốn trái ngược với động lực tiến hóa của tính mới."
+    },
+    {
+      "id": "q3",
+      "question": "Con người thường bị giằng co giữa hai thế lực sinh học nào được lập trình sẵn trong hệ thần kinh?",
+      "options": [
+        "Bản năng thỏa mãn thể xác tức thời và sự kìm nén đạo đức từ các chuẩn mực.",
+        "Khát vọng thống trị quyền lực xã hội và nhu cầu ẩn dật thoát khỏi xung đột.",
+        "Mệnh lệnh nỗ lực tối thiểu bảo tồn năng lượng và đòi hỏi dấn thân sáng tạo.",
+        "Xu hướng tìm kiếm bất định hoàn toàn và nhu cầu kiểm soát tuyệt đối mọi thứ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nhấn mạnh cuộc chiến nội tâm giữa entropy (mệnh lệnh nỗ lực tối thiểu, thích nghỉ ngơi trên sofa) và phần thưởng từ sự khám phá, sáng tạo. Các phương án khác không phản ánh đúng cặp đối lập cơ bản giữa bảo tồn năng lượng và sử dụng năng lượng xây dựng."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao 'thời gian rảnh' của phần lớn mọi người trong cuộc sống thường ngày lại dễ bị chi phối bởi entropy?",
+      "options": [
+        "Vì khi thiếu đòi hỏi bên ngoài, tâm trí thiếu định hướng sẽ rơi vào hỗn loạn.",
+        "Vì thời gian rảnh đi kèm với các kích thích hóa học tiêu cực từ môi trường.",
+        "Vì con người bản chất lười biếng và không bao giờ muốn phát triển năng lực.",
+        "Vì các hoạt động giải trí hiện đại được thiết kế triệt tiêu khả năng tư duy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi thiếu các cấu trúc hoặc mục tiêu bên ngoài, nếu không kiểm soát được ý thức, entropy sẽ chiếm lĩnh tâm trí khiến con người cảm thấy trống rỗng và mệt mỏi. Các phương án khác mang tính quy chụp cực đoan hoặc sai lệch về mặt hiện tượng luận."
+    },
+    {
+      "id": "q5",
+      "question": "Trạng thái cân bằng tinh tế nào là điều kiện tiên quyết để một hoạt động khơi gợi được trải nghiệm dòng chảy?",
+      "options": [
+        "Sự cân bằng tuyệt đối giữa mức độ thách thức nhiệm vụ và năng lực kỹ năng.",
+        "Cân bằng hoàn hảo giữa nguồn tài chính đầu tư và lợi ích thu về từ công việc.",
+        "Sự cân bằng giữa thời gian nghỉ ngơi thể chất và thời gian làm việc trí óc.",
+        "Cân bằng giữa các mục tiêu cá nhân ngắn hạn và kỳ vọng dài hạn gia đình."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thành tố cốt lõi của dòng chảy là sự cân bằng giữa thách thức và kỹ năng; nếu thách thức quá cao gây lo âu, quá thấp gây buồn chán. Các phương án khác đề cập đến yếu tố ngoại tại không phải là bản chất cấu thành trải nghiệm tối ưu."
+    },
+    {
+      "id": "q6",
+      "question": "Hiện tượng 'tự ý thức biến mất' trong trải nghiệm dòng chảy mang lại hệ quả tâm lý nào cho cá nhân?",
+      "options": [
+        "Cái tôi được mở rộng và củng cố mạnh mẽ hơn nhờ vượt qua thử thách khó khăn.",
+        "Cá nhân trở nên vô cảm hơn với các mối quan hệ xã hội xung quanh và khép kín.",
+        "Cá nhân rơi vào trạng thái kiệt sức hoàn toàn do tiêu tốn quá nhiều năng lượng.",
+        "Sự tự tin ảo tưởng hình thành khiến cá nhân đánh giá sai lệch năng lực thực tế."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nghịch lý của dòng chảy là việc tạm quên đi cái tôi để đắm chìm vào nhiệm vụ sẽ giúp cá nhân thoát ra với một ý thức về cái tôi mạnh mẽ và trưởng thành hơn. Các phương án khác đi ngược lại giá trị tích cực của trải nghiệm tối ưu."
+    },
+    {
+      "id": "q7",
+      "question": "Bản chất của một hoạt động có mục đích tự thân (autotelic) được định nghĩa chính xác nhất là gì?",
+      "options": [
+        "Hoạt động chỉ được thực hiện nhằm đổi lấy thù lao tài chính hoặc địa vị xã hội.",
+        "Hoạt động tự bản thân là phần thưởng, xứng đáng thực hiện vì niềm vui chính nó.",
+        "Hoạt động diễn ra tự động hoàn toàn mà không cần sự can thiệp nào của ý thức.",
+        "Hoạt động tuân thủ nghiêm ngặt các quy chuẩn đạo đức truyền thống cộng đồng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mục đích tự thân (autotelic) có nghĩa là điều gì đó tự nó đã toàn vẹn và quan trọng, không cần mục tiêu ngoại tại nào khác. Các phương án còn lại mô tả mục đích ngoại tại hoặc các trạng thái cơ học."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao trong trạng thái dòng chảy, cá nhân lại hoàn toàn không có cảm giác lo sợ thất bại?",
+      "options": [
+        "Vì cấu trúc của nhiệm vụ cực kỳ đơn giản nên không có khả năng xảy ra sai sót.",
+        "Vì cá nhân sử dụng các chất kích thích mạnh loại bỏ vùng não phụ trách cảm xúc.",
+        "Vì môi trường xung quanh luôn bao bọc bảo vệ cá nhân khỏi hậu quả tiêu cực.",
+        "Vì mục tiêu rõ ràng và kỹ năng tương xứng giúp chú ý tập trung vào hiện tại."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự đắm chìm sâu sắc vào hiện tại nhờ mục tiêu rõ ràng và kỹ năng tương ứng khiến vấn đề kiểm soát hay thất bại không còn hiện lên trong tâm trí. Các phương án khác dùng lập luận sai lệch hoặc phi thực tế."
+    },
+    {
+      "id": "q9",
+      "question": "Cảm thức về thời gian bị bóp méo trong dòng chảy (như nhiều giờ trôi qua nhanh) xuất phát từ đâu?",
+      "options": [
+        "Sự suy giảm chức năng sinh học não bộ do thiếu hụt lượng oxy lên tế bào thần kinh.",
+        "Sự tập trung cao độ năng lượng tâm thần vào nhiệm vụ khiến đồng hồ bị lãng quên.",
+        "Tác động ngoại cảnh làm chậm lại nhịp điệu chuyển động các vật thể xung quanh.",
+        "Sự can thiệp của các trạng thái thôi miên tiềm thức trong suốt quá trình hành động."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi năng lượng tâm thần được đầu tư trọn vẹn vào hoạt động, ý thức không còn dư địa để theo dõi thời gian khách quan, dẫn đến hiện tượng bóp méo thời gian. Các phương án khác mang tính suy diễn y học sai lầm."
+    },
+    {
+      "id": "q10",
+      "question": "Theo nghiên cứu về trải nghiệm tối ưu, đâu là chìa khóa để đạt được cuộc sống hạnh phúc trọn vẹn?",
+      "options": [
+        "Tìm kiếm và tham gia hoạt động giải trí xa xỉ hoàn toàn miễn nhiễm với áp lực.",
+        "Cố gắng tích lũy càng nhiều tài sản vật chất để loại bỏ mọi lo âu về tài chính.",
+        "Học cách chuyển hóa và tạo ra dòng chảy từ ngay cả các hoạt động bắt buộc.",
+        "Chối bỏ mọi trách nhiệm xã hội để sống theo bản năng tự nhiên thuần túy nhất."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bí quyết sống hạnh phúc là học cách biến đổi công việc và các nghĩa vụ đời thường thành các hoạt động có mục đích tự thân, tạo ra dòng chảy trong mọi việc. Các phương án còn lại dựa trên sự thỏa mãn ngoại tại hoặc trốn tránh trách nhiệm."
+    },
+    {
+      "id": "q11",
+      "question": "Sự khác biệt căn bản giữa 'niềm khoái lạc' thông thường và 'sự thưởng thức' trong dòng chảy là gì?",
+      "options": [
+        "Khoái lạc mang lại ý nghĩa sâu sắc còn sự thưởng thức chỉ là cảm giác tạm thời.",
+        "Khoái lạc đòi hỏi nỗ lực trí tuệ cực lớn trong khi sự thưởng thức rất thụ động.",
+        "Sự thưởng thức đến từ chất kích thích nhân tạo còn khoái lạc đến từ tự nhiên.",
+        "Khoái lạc khôi phục sinh học nhưng không tạo sự phát triển phức tạp như thưởng thức."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khoái lạc (như ăn uống, ngủ nghỉ) giúp duy trì hệ thống sinh học nhưng không làm tăng trưởng năng lực hay độ phức tạp của cá nhân như sự thưởng thức đạt được qua việc vượt qua thách thức. Các phương án khác đảo ngược bản chất vấn đề."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao hoạt động tương tác xã hội không cấu trúc quá mức ở tuổi thanh thiếu niên lại cản trở phát triển?",
+      "options": [
+        "Vì những hoạt động này tiêu tốn tài chính khiến gia đình kiệt quệ kinh tế.",
+        "Vì bạn bè đồng trang lứa luôn tìm cách kìm hãm sự sáng tạo và động lực học.",
+        "Vì chúng mang lại cảm xúc tích cực nhưng thiếu cấu trúc thách thức và tập trung.",
+        "Vì hệ thống thần kinh thanh thiếu niên chưa đủ trưởng thành xử lý quan hệ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dữ liệu ESM cho thấy khi ở bên bạn bè, thanh thiếu niên có tâm trạng vui vẻ nhưng mức độ tập trung và hiệu quả nhận thức lại rất thấp, thiếu đi sự rèn luyện kỹ năng phức tạp. Các phương án khác suy diễn sai lệch."
+    },
+    {
+      "id": "q13",
+      "question": "Khái niệm 'sự phức tạp' trong cấu trúc tâm lý cá nhân được xây dựng dựa trên sự kết hợp nào?",
+      "options": [
+        "Việc loại bỏ hoàn toàn cảm xúc tiêu cực để duy trì trạng thái thư giãn tuyệt đối.",
+        "Sự biệt hóa rõ ràng các khía cạnh và khả năng tích hợp chặt chẽ không mâu thuẫn.",
+        "Sự gia tăng số lượng các mục tiêu ngoại tại liên quan đến tiền bạc và danh vọng.",
+        "Khả năng thích ứng mù quáng với mọi áp lực biến động từ môi trường văn hóa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Một người phức tạp là người có sự biệt hóa rõ ràng (ham muốn, suy nghĩ, giá trị riêng biệt) và tích hợp tốt các phần đó lại mà không mâu thuẫn với nhau. Các phương án khác mô tả sự phục tùng hoặc các mục tiêu ngoại tại sai lệch."
+    },
+    {
+      "id": "q14",
+      "question": "Phản hồi tức thì trong một hoạt động dòng chảy đóng vai trò tâm lý quan trọng nào cho người thực hiện?",
+      "options": [
+        "Giúp cá nhân biết mình đang làm tốt đến đâu để điều chỉnh hành động kịp thời.",
+        "Tạo ra áp lực căng thẳng bắt buộc cá nhân phải hoàn thành nhiệm vụ đúng hạn.",
+        "Đảm bảo cá nhân luôn nhận được sự khen ngợi từ những người xung quanh.",
+        "Triệt tiêu hoàn toàn khả năng xảy ra sai sót trong suốt quá trình thao tác."
+      ],
+      "correctIndex": 0,
+      "explanation": "Phản hồi tức thì cung cấp thông tin rõ ràng về hiệu quả hành động ngay lập tức (như nhạc công biết nốt nhạc đúng, thợ leo núi biết chưa rơi vực), giúp duy trì sự tập trung. Các phương án còn lại mang tính áp đặt ngoại tại hoặc sai bản chất."
+    },
+    {
+      "id": "q15",
+      "question": "Làm thế nào để các cá nhân có thể chống lại hiệu quả entropy tâm thần trong đời sống hằng ngày?",
+      "options": [
+        "Từ bỏ mọi hoài bão sáng tạo để sống một cuộc đời đơn giản không có mục đích.",
+        "Phó mặc mọi diễn biến cuộc đời cho số phận và tận dụng thời gian rảnh nghỉ ngơi.",
+        "Chủ động thiết lập mục tiêu, tìm kiếm thách thức và đầu tư chú ý trọn vẹn.",
+        "Sử dụng các công cụ kiểm soát xã hội và chất kích thích làm tê liệt giác quan."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chống lại entropy tâm thần đòi hỏi sự nỗ lực chủ động cấu trúc lại ý thức thông qua việc đặt mục tiêu, tìm kiếm thách thức và rèn luyện trải nghiệm dòng chảy. Các phương án còn lại đều dẫn đến sự rơi vào hỗn loạn của tâm trí."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "bookId": "DongChay",
+  "chapterId": "04_chuong_03",
+  "chapterTitle": "Chương 3: Sự thưởng thức và chất lượng cuộc sống",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Mihaly Csikszentmihalyi, chiến lược cốt lõi và bền vững nhất để nâng cao chất lượng cuộc sống thay vì dựa vào ngoại cảnh là gì?",
+      "options": [
+        "Thay đổi điều kiện vật chất sao cho tương thích hoàn toàn với mục tiêu cá nhân.",
+        "Xây dựng môi trường sống biệt lập hoàn toàn nhằm loại bỏ ngoại cảnh kích thích.",
+        "Tìm kiếm sự giàu có và địa vị cao nhằm đảm bảo an toàn tuyệt đối mọi rủi ro.",
+        "Chủ động điều hòa cách trải nghiệm ý thức để làm chủ sự hỗn loạn và lo âu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả chỉ ra rằng thay đổi điều kiện bên ngoài chỉ mang tính tạm thời nếu cá nhân không kiểm soát được ý thức. Việc thay đổi cách trải nghiệm để thích ứng và tìm kiếm sự thưởng thức nội tại mới là chìa khóa bền vững, tránh việc bị chi phối bởi các lo âu hay ham muốn cũ."
+    },
+    {
+      "id": "q2",
+      "question": "Huyền thoại vua Midas và thực tế tại các phòng chờ bác sĩ tâm thần phản ánh điều gì về thành công vật chất?",
+      "options": [
+        "Sự thiếu thốn tài chính luôn là nguyên nhân duy nhất gây nên hiện tượng hỗn loạn.",
+        "Tiền bạc và địa vị hoàn toàn không tác động đến mức độ hài lòng về đời sống.",
+        "Các biểu tượng thành công bên ngoài không tự động đảm bảo hạnh phúc nội tại.",
+        "Sự giàu có vật chất luôn đồng hành bình yên tâm trí nếu đạt mức cực kỳ cao."
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu chuyện Vua Midas và những bệnh nhân giàu có chứng minh rằng tiền bạc hay địa vị chỉ mang tính trung lập; chúng có thể là phúc lành hoặc rào cản tùy cách sử dụng, nhưng tự bản thân chúng không thể mua được sự bình yên trong tâm trí hay hạnh phúc đích thực."
+    },
+    {
+      "id": "q3",
+      "question": "Sự khác biệt căn bản giữa khái niệm 'khoái lạc' và 'sự thưởng thức' trong lý thuyết dòng chảy nằm ở đâu?",
+      "options": [
+        "Khoái lạc thỏa mãn sinh học không cần nỗ lực, thưởng thức đòi hỏi tập trung cao.",
+        "Thưởng thức chỉ xuất hiện khi phần thưởng lớn, còn khoái lạc diễn ra trong vô thức.",
+        "Khoái lạc tạo ra sự phức tạp và phát triển cái tôi, thưởng thức khôi phục sinh lý.",
+        "Thưởng thức đòi hỏi đầu tư năng lượng tinh thần lớn, khoái lạc diễn ra thụ động."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khoái lạc là trải nghiệm cân bằng nội sinh giúp thỏa mãn nhu cầu sinh học hoặc thư giãn mà không cần nỗ lực chú ý. Ngược lại, sự thưởng thức đòi hỏi sự đầu tư năng lượng tinh thần vượt ra ngoài mong đợi, giúp cái tôi phát triển và phức tạp hơn."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao các hoạt động mang tính cạnh tranh đôi khi lại làm mất đi cảm giác thưởng thức của người tham gia?",
+      "options": [
+        "Vì người chơi cạnh tranh thường thiếu kỹ năng cần thiết đối mặt với thử thách.",
+        "Vì tính cạnh tranh luôn đòi hỏi thể lực quá mức khiến người chơi kiệt sức.",
+        "Vì cạnh tranh không bao giờ tạo ra được các quy tắc rõ ràng phản hồi tức thời.",
+        "Vì khi mục tiêu thắng đối thủ lấn át hoạt động tốt nhất, thưởng thức sẽ mất."
+      ],
+      "correctIndex": 3,
+      "explanation": "Csikszentmihalyi nhấn mạnh rằng cạnh tranh chỉ thú vị khi nó là phương tiện để hoàn thiện kỹ năng. Nếu việc thắng thua trở thành mục đích duy nhất vượt lên trên chất lượng hoạt động, ý nghĩa thưởng thức nội tại sẽ bị đánh mất."
+    },
+    {
+      "id": "q5",
+      "question": "Ví dụ về trò chơi gõ ngón tay của Giáo sư Maier–Leibnitz minh họa cho hiện tượng tâm lý nào sau đây?",
+      "options": [
+        "Sự hình thành thói quen gây nghiện tiêu cực làm tê liệt năng lực tư duy.",
+        "Hiện tượng vi dòng chảy giúp tạo trật tự trong ý thức và vượt sự tẻ nhạt.",
+        "Sự lãng phí năng lượng tinh thần vào hành động vô nghĩa mang tính cơ học.",
+        "Khả năng thích ứng tuyệt đối với các điều kiện ngoại cảnh mang tính ép buộc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trò chơi gõ ngón tay là một ví dụ điển hình về 'vi dòng chảy' (microflow), nơi cá nhân tự thiết lập các quy tắc và mục tiêu nhỏ để lấp đầy những khoảng trống nhàm chán, qua đó kiểm soát trải nghiệm và lập lại trật tự cho ý thức."
+    },
+    {
+      "id": "q6",
+      "question": "Trạng thái cân bằng hoàn hảo để trải nghiệm dòng chảy xuất hiện tại điểm nào trong mối quan hệ cá nhân?",
+      "options": [
+        "Khi kỹ năng của cá nhân lớn hơn rất nhiều so với độ khó của nhiệm vụ.",
+        "Khi cơ hội hành động hay thử thách cân bằng tương xứng với khả năng cá nhân.",
+        "Khi hoàn toàn không có bất kỳ thử thách nào xuất hiện trong hoạt động.",
+        "Khi thử thách của nhiệm vụ vượt xa hoàn toàn khả năng hiện có bản thân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dòng chảy xuất hiện ở ranh giới giữa buồn chán (khi kỹ năng vượt trội thử thách) và lo lắng (khi thử thách vượt quá kỹ năng). Sự thưởng thức đạt đỉnh khi thử thách và kỹ năng đạt độ cân bằng tương xứng."
+    },
+    {
+      "id": "q7",
+      "question": "Hiện tượng 'hợp nhất hành động và nhận thức' trong trạng thái dòng chảy mang lại hệ quả gì?",
+      "options": [
+        "Cá nhân hành động trôi chảy và ngừng nhận thức về bản thân tách biệt.",
+        "Cá nhân rơi vào trạng thái mất ý thức hoàn toàn, không thể kiểm soát thân.",
+        "Cá nhân liên tục tự vấn và đánh giá lại mục tiêu để tránh các sai sót.",
+        "Cá nhân cảm thấy căng thẳng tột độ do phải duy trì sự tập trung cao."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi đắm chìm vào dòng chảy, năng lượng tinh thần được huy động trọn vẹn khiến hoạt động diễn ra tự động, liền mạch, giúp cá nhân hòa mình vào hành động mà không còn cảm thấy sự tách biệt giữa chủ thể và khách thể."
+    },
+    {
+      "id": "q8",
+      "question": "Vai trò của mục tiêu rõ ràng và phản hồi tức thời đối với trải nghiệm dòng chảy là gì?",
+      "options": [
+        "Loại bỏ hoàn toàn sự cần thiết phải sử dụng các kỹ năng phức tạp tham gia.",
+        "Giúp cá nhân dễ dàng đạt được phần thưởng vật chất bên ngoài như danh vọng.",
+        "Tạo ra thông điệp biểu tượng xác nhận thành công, thiết lập trật tự ý thức.",
+        "Biến mọi hoạt động đơn điệu thành bài kiểm tra năng lực cạnh tranh cao."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mục tiêu rõ ràng và phản hồi tức thời cung cấp thông tin mang tính biểu tượng rằng cá nhân đang thành công trong việc thực hiện mục tiêu, từ đó tạo ra trật tự trong ý thức và củng cố cấu trúc của cái tôi."
+    },
+    {
+      "id": "q9",
+      "question": "Việc 'mất ý thức về cái tôi' trong trạng thái dòng chảy thực chất dẫn đến kết quả nào sau đây?",
+      "options": [
+        "Sự suy giảm hoàn toàn năng lực nhận thức và kiểm soát hành vi bản thân.",
+        "Sự xóa sổ thụ động của cái tôi theo hướng buông xuôi không có mục đích.",
+        "Sự mở rộng ranh giới bản thân và làm giàu cái tôi sau khi trải nghiệm.",
+        "Sự gia tăng các mối đe dọa tâm lý khiến cá nhân luôn phải phòng thủ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả chỉ ra rằng mất ý thức về cái tôi không phải là mất ý thức hay hủy diệt cái tôi, mà là tạm quên đi những lo lắng về hình ảnh bản thân. Điều này dẫn đến sự vượt trội cái tôi, và sau dòng chảy, cái tôi sẽ trở nên phong phú, phức tạp hơn."
+    },
+    {
+      "id": "q10",
+      "question": "Hoạt động mang 'mục đích tự thân' được định nghĩa chính xác nhất theo lý thuyết dòng chảy là gì?",
+      "options": [
+        "Hoạt động bắt buộc phải tuân theo các quy chuẩn nghiêm ngặt xã hội.",
+        "Hoạt động chỉ được thực hiện nhằm đổi lấy các lợi ích vật chất tương lai.",
+        "Hoạt động diễn ra tự động do bản năng sinh học thúc đẩy không cần chú ý.",
+        "Hoạt động mang tính khép kín, được thưởng thức vì chính quá trình đó."
+      ],
+      "correctIndex": 3,
+      "explanation": "Thuật ngữ autotelic (tự thân) chỉ các hoạt động có phần thưởng nội tại, được thực hiện không vì kỳ vọng lợi ích tương lai mà vì chính trải nghiệm và hành động đó đã mang lại sự thỏa mãn trọn vẹn."
+    },
+    {
+      "id": "q11",
+      "question": "Trải nghiệm dòng chảy có thể tiềm ẩn khía cạnh tiêu cực nào đối với sự phát triển của cá nhân?",
+      "options": [
+        "Nó có thể gây nghiện, biến cái tôi thành tù nhân của một hệ thống cứng nhắc.",
+        "Nó làm gián đoạn năng lực tập trung gây ra hỗn loạn tâm thần vĩnh viễn.",
+        "Nó làm mất khả năng nhận diện mục tiêu và phản hồi công việc hằng ngày.",
+        "Nó khiến cá nhân phụ thuộc tuyệt đối vào các phần thưởng vật chất ngoài."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả cảnh báo rằng các hoạt động mang tính thưởng thức cao có thể gây nghiện. Khi cá nhân quá phụ thuộc vào một trải nghiệm dòng chảy quen thuộc, họ có thể trở thành tù nhân của nó và từ chối đương đầu với những mơ hồ, phức tạp khác của cuộc sống."
+    },
+    {
+      "id": "q12",
+      "question": "Sự biến đổi của cảm giác về thời gian trong trạng thái dòng chảy thường biểu hiện như thế nào?",
+      "options": [
+        "Hàng giờ đồng hồ có thể trôi qua như vài phút hoặc ngược lại rất linh hoạt.",
+        "Thời gian khách quan đồng hồ và thời gian chủ quan luôn đồng bộ tuyệt đối.",
+        "Thời gian luôn đứng yên hoàn toàn do sự ngưng trệ của các xung động thần kinh.",
+        "Cá nhân mất khả năng nhận biết thời gian và không bao giờ kiểm soát lại được."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong dòng chảy, cảm giác thời gian bị biến đổi; thông thường thời gian trôi nhanh hơn rất nhiều (hàng giờ như vài phút), nhưng trong một số trường hợp đòi hỏi kỹ năng nhịp độ, nó có thể co giãn linh hoạt theo yêu cầu của hoạt động."
+    },
+    {
+      "id": "q13",
+      "question": "Nền tảng tâm lý nào giải thích việc cá nhân đôi khi cần áp lực ban đầu để tham gia hoạt động phức tạp?",
+      "options": [
+        "Con người bẩm sinh luôn chối bỏ mọi hình thức học tập và tìm kiếm sự nhàn rỗi.",
+        "Sự tái cấu trúc sự chú ý ban đầu đòi hỏi nỗ lực vượt sức ì trước khi có thưởng.",
+        "Các động lực bên ngoài là yếu tố duy nhất quyết định giá trị của một trải nghiệm.",
+        "Áp lực xã hội đóng vai trò thay thế hoàn toàn cho năng lượng tinh thần cá nhân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhiều hoạt động thưởng thức không đến một cách tự nhiên mà đòi hỏi nỗ lực cấu trúc lại sự chú ý ban đầu. Khi vượt qua giai đoạn khó khăn này và các kỹ năng phát triển, hoạt động mới bắt đầu cung cấp phản hồi và tạo ra phần thưởng nội tại."
+    },
+    {
+      "id": "q14",
+      "question": "Quan điểm của Csikszentmihalyi về bản chất 'tốt' hay 'xấu' của trải nghiệm dòng chảy là gì?",
+      "options": [
+        "Dòng chảy luôn luôn tốt tuyệt đối vì nó mang lại sự thỏa mãn cho cá nhân.",
+        "Dòng chảy là năng lượng trung lập; giá trị đạo đức phụ thuộc mục đích xã hội.",
+        "Dòng chảy không có bất kỳ mối liên hệ nào với sự phát triển phức tạp nhân cách.",
+        "Dòng chảy chỉ mang tính tiêu cực vì nó dễ dẫn đến hành vi nghiện ngập mạnh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả so sánh dòng chảy với lửa hoặc năng lượng nguyên tử: nó là một dạng năng lượng mạnh mẽ giúp làm phong phú cái tôi, nhưng tự nó không mang nghĩa tốt tuyệt đối. Nó có thể bị lạm dụng vào bạo lực hoặc tội phạm nếu không được định hướng đúng đắn."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp cốt lõi từ câu châm ngôn của Democritus được tác giả sử dụng ở cuối chương ngụ ý điều gì?",
+      "options": [
+        "Con người không thể kiểm soát được năng lượng tâm thần trước các thách thức.",
+        "Chúng ta phải né tránh hoàn toàn trải nghiệm dòng chảy có nguy cơ gây nghiện.",
+        "Chúng ta cần học cách tận dụng dòng chảy hữu ích và đặt giới hạn mặt tiêu cực.",
+        "Việc tìm kiếm trải nghiệm tối ưu chỉ dành riêng cho cá nhân năng lực lớn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Phép ẩn dụ 'học bơi' nhấn mạnh rằng thay vì từ bỏ trải nghiệm dòng chảy vì sợ rủi ro lạm dụng, nhiệm vụ của con người là học cách nhận diện, phân tích các hình thức hữu ích lẫn nguy hại để làm chủ cuộc sống mà không gây hại cho người khác."
+    }
+  ]
+}

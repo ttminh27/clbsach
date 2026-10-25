@@ -1,0 +1,188 @@
+{
+  "bookId": "DongChay",
+  "chapterId": "02_chuong_01",
+  "chapterTitle": "Chương 1: Hạnh phúc được xem xét lại",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Mihaly Csikszentmihalyi, tại sao việc mưu cầu trực tiếp hạnh phúc như một mục tiêu độc lập thường dẫn đến sự thất bại?",
+      "options": [
+        "Vì hạnh phúc bản thân nó là một trạng thái không tồn tại trong thực tế xã hội loài người.",
+        "Vì xã hội hiện đại tạo ra quá nhiều rào cản vật chất làm méo mó nhận thức chủ quan.",
+        "Vì con người luôn bị chi phối bởi các quy luật sinh học ích kỷ từ mã di truyền.",
+        "Vì hạnh phúc chỉ là sản phẩm phụ ngẫu nhiên của sự dấn thân và phụng hiến sâu sắc."
+      ],
+      "correctIndex": 3,
+      "explanation": "Theo lý thuyết Dòng chảy, hạnh phúc không phải là thứ có thể truy tìm trực tiếp bằng ý chí có chủ đích. Hạnh phúc và sự thỏa mãn thực sự chỉ xuất hiện như một tác dụng phụ không dự tính từ việc hòa mình trọn vẹn vào một hành trình hoặc mục tiêu có ý nghĩa."
+    },
+    {
+      "id": "q2",
+      "question": "Bản chất cốt lõi của khái niệm 'Trải nghiệm tối ưu' trong tâm lý học Dòng chảy được thể hiện qua hiện tượng nào?",
+      "options": [
+        "Sự nỗ lực tự nguyện kéo căng năng lực đến giới hạn để hoàn thành thử thách khó khăn.",
+        "Cảm giác thỏa mãn khi đạt được sự giàu có vật chất và địa vị xã hội mong muốn lâu nay.",
+        "Trạng thái thụ động khi cơ thể và tâm trí được nghỉ ngơi hoàn toàn sau lao động mệt nhọc.",
+        "Sự tuân thủ tuyệt đối các chuẩn mực văn hóa để tránh khỏi sự hỗn loạn của vũ trụ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trải nghiệm tối ưu không phải là sự thư giãn hay thụ động, mà ngược lại, nó xảy ra khi cơ thể hoặc tâm trí được kéo căng đến giới hạn thông qua một nỗ lực tự nguyện nhằm giải quyết thử thách giá trị."
+    },
+    {
+      "id": "q3",
+      "question": "Khi đối mặt với sự bất mãn mạn tính và nghịch lý gia tăng kỳ vọng trong đời sống hiện đại, giải pháp nào được Csikszentmihalyi đề xuất?",
+      "options": [
+        "Từ bỏ mọi mục tiêu cá nhân để sống hòa hợp hoàn toàn với tự nhiên.",
+        "Chủ động kiểm soát trải nghiệm nội tại và tìm thấy niềm vui ngay trong hiện tại.",
+        "Tập trung tối đa vào việc gia tăng thu nhập và nâng cấp tiện nghi vật chất.",
+        "Sử dụng các hệ thống tín ngưỡng tôn giáo truyền thống để che chắn tâm hồn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Csikszentmihalyi chỉ ra rằng các giải pháp ngoại cảnh như tích lũy tài sản hay tìm kiếm sự thỏa mãn sinh học đều không mang lại kết quả lâu dài. Giải pháp duy nhất là cá nhân phải tự chủ trong việc kiểm soát dòng thông tin và trải nghiệm nội tại, biết thưởng thức thực tại thay vì chỉ chờ đợi tương lai."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao các 'lá chắn văn hóa' như thần thoại hay tôn giáo thường đánh mất hiệu quả trong việc bảo vệ con người khỏi sự hỗn loạn tâm lý?",
+      "options": [
+        "Vì các giá trị văn hóa luôn mâu thuẫn trực tiếp với bản năng sinh học của loài người.",
+        "Vì chúng cố tình che giấu bản chất bạo lực và lạnh lùng của vũ trụ bao la.",
+        "Vì con người hiện đại có trí thông minh vượt trội hơn hẳn các thế hệ trong quá khứ.",
+        "Vì chúng bị lỗi thời trước tiến bộ khoa học và dễ nhanh chóng bị thể chế hóa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả phân tích rằng các lá chắn văn hóa và tôn giáo thường chỉ mang lại sự an ủi nhất thời. Khi chúng bị thể chế hóa thành các quy tắc cứng nhắc hoặc va chạm với kỷ nguyên lý tính khoa học, chúng sẽ mất đi sức sống nguyên thủy và không còn khả năng xoa dịu nỗi sợ sinh tồn."
+    },
+    {
+      "id": "q5",
+      "question": "Theo quan điểm của tâm lý học Dòng chảy, mối quan hệ giữa các mệnh lệnh sinh học và sự tự chủ của cá nhân được hiểu như thế nào?",
+      "options": [
+        "Cá nhân cần nhận thức rõ bản chất tự động của bản năng để không bị chúng thao túng.",
+        "Con người phải triệt tiêu hoàn toàn các ham muốn sinh học mới đạt được tự do tuyệt đối.",
+        "Bản năng sinh học là thước đo chính xác nhất cho những giá trị đích thực của đời sống.",
+        "Mã di truyền quyết định hoàn toàn mọi hành vi và không thể thay đổi bằng ý chí."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả không cổ súy việc chối bỏ bản năng sinh học mà nhấn mạnh rằng chúng ta cần nhìn nhận chúng đúng bản chất và giữ quyền kiểm soát, không để bản thân trở thành nô lệ cho các phản ứng kích thích - phản hồi tự động."
+    },
+    {
+      "id": "q6",
+      "question": "Phương pháp Lấy mẫu Kinh nghiệm được Csikszentmihalyi và cộng sự sử dụng nhằm mục đích gì trong nghiên cứu tâm lý học?",
+      "options": [
+        "Đánh giá mức độ giàu có vật chất và tiện nghi công nghệ của các tầng lớp xã hội.",
+        "Thu thập dữ liệu lịch sử về sự phát triển của các nền văn hóa khác nhau trên thế giới.",
+        "Phân tích cấu trúc gen di truyền liên quan đến các hành vi hung hăng của con người.",
+        "Đo lường chính xác chất lượng trải nghiệm chủ quan thông qua các tín hiệu ngẫu nhiên trong ngày."
+      ],
+      "correctIndex": 3,
+      "explanation": "Phương pháp ESM yêu cầu người tham gia ghi nhận cảm xúc và suy nghĩ thực tế tại những thời điểm ngẫu nhiên trong tuần qua thiết bị thông báo, giúp nhà nghiên cứu đánh giá chính xác chất lượng trải nghiệm chủ quan trong đời sống hàng ngày."
+    },
+    {
+      "id": "q7",
+      "question": "Hiện tượng 'nghịch lý của sự gia tăng kỳ vọng' phản ánh điều gì về tâm lý con người khi các điều kiện vật chất được cải thiện?",
+      "options": [
+        "Con người càng có nhiều tiện nghi thì khả năng sáng tạo nghệ thuật càng suy giảm.",
+        "Sự giàu có vật chất tự động triệt tiêu mọi cảm xúc lo âu và hỗn loạn nội tâm.",
+        "Mức độ thỏa mãn giảm xuống khi con người quá gắn chặt vào mục tiêu tương lai.",
+        "Xã hội hiện đại tạo ra sự bình đẳng tuyệt đối trong việc phân phối hạnh phúc."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi điều kiện sống tốt hơn, kỳ vọng liên tục leo thang. Nếu con người chỉ mải miết đuổi theo mục tiêu tương lai mà không biết trân trọng và tận hưởng hiện tại, họ sẽ rơi vào guồng quay bất mãn mạn tính, khiến hạnh phúc luôn lùi xa."
+    },
+    {
+      "id": "q8",
+      "question": "Trạng thái 'dòng chảy' khác biệt cơ bản với các hình thức giải trí thụ động thông thường ở điểm cốt lõi nào?",
+      "options": [
+        "Giải trí thụ động mang lại cảm giác tự chủ và phát triển nhân cách sâu sắc hơn dòng chảy.",
+        "Dòng chảy chỉ xuất hiện khi con người không phải đối mặt với bất kỳ áp lực hay thử thách nào.",
+        "Dòng chảy đòi hỏi sự đầu tư năng lượng tinh thần và kỹ năng cao độ vào hoạt động tự thân.",
+        "Dòng chảy hoàn toàn phụ thuộc vào sự hỗ trợ của các công nghệ giải trí hiện đại."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trải nghiệm dòng chảy đòi hỏi sự tham gia tích cực, tập trung cao độ và sử dụng kỹ năng để vượt qua thử thách, trong khi giải trí thụ động thường không đòi hỏi sự đầu tư năng lượng tinh thần tương xứng."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao việc thể chế hóa các phong trào giải phóng tâm thức thường dẫn đến sự suy giảm hiệu quả ban đầu của chúng?",
+      "options": [
+        "Vì quy định cứng nhắc và hệ tư tưởng hình thức biến chúng thành công cụ kiểm soát mới.",
+        "Vì các thể chế luôn tìm cách nâng cao trình độ khoa học của người dân.",
+        "Vì con người hiện đại có xu hướng kháng cự lại mọi hình thức tổ chức xã hội.",
+        "Vì bản thân các nhà sáng lập ban đầu đã không lường trước được sự phát triển kinh tế."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả chỉ ra nghịch lý rằng ngay khi một tư tưởng giải phóng được thể chế hóa thành các quy chuẩn, giáo điều hay ý thức hệ cứng nhắc, nó sẽ mất đi sức mạnh nội tại và vô tình trở thành một dạng kiểm soát xã hội mới."
+    },
+    {
+      "id": "q10",
+      "question": "Trong bối cảnh lý thuyết Dòng chảy, việc 'trì hoãn sự thỏa mãn' được nhìn nhận như thế nào đối với đời sống con người?",
+      "options": [
+        "Là hành động hoàn toàn vô nghĩa và cần phải bị loại bỏ trong mọi hoàn cảnh sống.",
+        "Là một công cụ xã hội hóa cần thiết nhưng cần được cân bằng để không làm mất niềm vui.",
+        "Là nguyên nhân duy nhất gây ra chứng trầm cảm và sự bất mãn mạn tính ở người hiện đại.",
+        "Là đặc quyền độc nhất chỉ có ở các tu sĩ thực hành thiền định ở phương Đông."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nền văn minh đòi hỏi sự kiềm chế và trì hoãn sự thỏa mãn để duy trì trật tự và phân công lao động. Tuy nhiên, nếu con người hy sinh hoàn toàn hiện tại cho tương lai, họ sẽ đánh mất chất lượng cuộc sống."
+    },
+    {
+      "id": "q11",
+      "question": "Yếu tố nào đóng vai trò quyết định trong việc giúp một cá nhân giữ vững sự bình yên nội tại trước những nghịch cảnh khắc nghiệt?",
+      "options": [
+        "Sự bảo vệ toàn diện từ các thiết chế pháp luật và chính trị của nhà nước.",
+        "Mức độ sở hữu tài sản và các tiện nghi vật chất tiên tiến bậc nhất xã hội.",
+        "Khả năng diễn giải chủ quan và làm chủ dòng thông tin trong ý thức của chính họ.",
+        "Sự tuân thủ tuyệt đối các mệnh lệnh di truyền và bản năng sinh học tự nhiên."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nhấn mạnh rằng hạnh phúc không phụ thuộc vào điều kiện ngoại cảnh mà phụ thuộc vào cách tâm trí lọc lựa và diễn giải các trải nghiệm. Làm chủ ý thức chính là chìa khóa để vượt qua hỗn loạn và căng thẳng."
+    },
+    {
+      "id": "q12",
+      "question": "Phát biểu nào sau đây phản ánh đúng nhất bản chất của khái niệm 'tính phức tạp' trong quá trình phát triển cá nhân?",
+      "options": [
+        "Sự phức tạp chỉ xuất hiện khi con người tích lũy đủ quyền lực chính trị và tiền tài.",
+        "Sự phức tạp đồng nghĩa với việc vướng vào các mối quan hệ xã hội phức tạp và rắc rối.",
+        "Sự phức tạp đạt được khi cá nhân liên tục mở rộng kỹ năng để vươn tới thử thách cao.",
+        "Sự phức tạp là trạng thái hỗn loạn tự nhiên của tâm trí khi đối mặt với hiểm nguy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cá nhân trở nên phức tạp hơn thông qua việc không ngừng nới rộng kỹ năng của mình để vươn tới những thử thách cao hơn, qua đó tạo ra trật tự hài hòa trong ý thức."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao Csikszentmihalyi cho rằng các giải pháp cục bộ không thể giải quyết triệt để sự khủng hoảng hiện sinh của con người?",
+      "options": [
+        "Vì chúng quá đắt đỏ và chỉ dành riêng cho tầng lớp thống trị giàu có ở mức độ sâu sắc.",
+        "Vì chúng chỉ xoa dịu triệu chứng bên ngoài mà không chạm đến trải nghiệm nội tại.",
+        "Vì chúng vi phạm các nguyên tắc đạo đức truyền thống của các tôn giáo lớn.",
+        "Vì chúng làm gia tăng tốc độ lão hóa sinh học của cơ thể con người."
+      ],
+      "correctIndex": 1,
+      "explanation": "Các giải pháp cục bộ như chăm sóc thể hình hay mua sắm chỉ là cách vá víu tạm thời. Chúng không giải quyết được gốc rễ vấn đề là sự hỗn loạn trong cấu trúc ý thức và sự thiếu khả năng tự chủ nội tâm."
+    },
+    {
+      "id": "q14",
+      "question": "Ý nghĩa sâu xa của câu nói trích dẫn từ Epictetus: 'Con người không sợ bất cứ thứ gì, ngoại trừ cách họ nhìn nhận chính mình' là gì?",
+      "options": [
+        "Nỗi sợ hãi thực chất bắt nguồn từ sự phán xét chủ quan của tâm trí đối với sự kiện.",
+        "Sự tự tin thái quá là nguyên nhân chính dẫn đến các thất bại trong đời sống xã hội.",
+        "Con người cần phải loại bỏ hoàn toàn cảm xúc sợ hãi thông qua rèn luyện thể chất.",
+        "Thế giới bên ngoài luôn đầy rẫy những mối đe dọa chết chóc không thể tránh khỏi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu nói khẳng định rằng các yếu tố bên ngoài tự thân không gây tổn thương hay quấy nhiễu con người, mà chính cách cá nhân diễn giải, phán xét các sự kiện đó trong tâm trí mới tạo ra sự sợ hãi hoặc bất an."
+    },
+    {
+      "id": "q15",
+      "question": "Theo tác giả, việc đạt được sự tự chủ và làm chủ trải nghiệm nội tâm đòi hỏi điều kiện tiên quyết nào từ phía cá nhân?",
+      "options": [
+        "Một nền tảng tri thức uyên bác về triết học phương Đông và phương Tây cổ đại.",
+        "Sự cam kết kiên trì thực hành kỷ luật tinh thần tương tự như một vận động viên.",
+        "Sự hỗ trợ tài chính vững chắc để không phải bận tâm về các nhu cầu sinh tồn.",
+        "Việc gia nhập một tổ chức tôn giáo hoặc chính trị có hệ tư tưởng tiến bộ trên thực tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả lưu ý rằng kiểm soát ý thức không phải là lý thuyết có thể ghi nhớ nhanh chóng, mà đòi hỏi sự cam kết thực hành liên tục qua trải nghiệm thực tế, giống như các vận động viên hay nhạc sĩ duy trì việc tập luyện rèn giũa kỹ năng."
+    }
+  ]
+}

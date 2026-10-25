@@ -1,0 +1,188 @@
+{
+  "bookId": "DongChay",
+  "chapterId": "13_nguon_tham_khao",
+  "chapterTitle": "Nguồn tham khảo",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi xét về nền tảng lý thuyết của trạng thái Dòng chảy do Mihaly Csikszentmihalyi phát triển, yếu tố cốt lõi nào trong tâm lý học ý thức định hình trải nghiệm tối ưu?",
+      "options": [
+        "Kiểm soát toàn diện dòng thông tin đầu vào và tập trung năng lượng tâm thần hướng mục tiêu.",
+        "Kìm nén hoàn toàn xung động sinh học để đạt thăng hoa trong nhận thức xã hội loài người.",
+        "Thích nghi thụ động với các kích thích ngẫu nhiên phát sinh từ môi trường sống xung quanh.",
+        "Buông lỏng cấu trúc ý thức để dòng suy nghĩ trôi dạt theo cảm xúc cá nhân tự nhiên nhất."
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo lý thuyết Dòng chảy, trải nghiệm tối ưu đòi hỏi cá nhân phải huy động và kiểm soát năng lượng tâm thần một cách chủ động nhằm giảm thiểu sự hỗn loạn nội tâm (entropy). Các phương án khác đi ngược lại bản chất chủ động và định hướng mục tiêu của Flow."
+    },
+    {
+      "id": "q2",
+      "question": "Dựa trên các nghiên cứu về động lực nội tại và hoạt động tự thân được trích dẫn trong tài liệu, một hoạt động được coi là mang tính tự thân khi nào?",
+      "options": [
+        "Cá nhân buộc phải thực hiện dưới áp lực kiểm soát chặt chẽ từ các tiêu chuẩn xã hội.",
+        "Hoạt động diễn ra ngẫu nhiên không có chủ đích hay quy tắc ràng buộc nào từ trước.",
+        "Mục tiêu duy nhất của hành động là đạt được phần thưởng vật chất hoặc sự công nhận.",
+        "Phần thưởng lớn nhất nằm ngay trong chính quá trình trải nghiệm và hành động bên trong."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trải nghiệm tự thân (autotelic) nghĩa là hành động tự mang lại giá trị cho chính nó, phần thưởng chính là quá trình trải nghiệm dòng chảy bên trong. Các phương án còn lại mô tả động lực ngoại tại hoặc sự ép buộc."
+    },
+    {
+      "id": "q3",
+      "question": "Trong bối cảnh phân tích sự cân bằng giữa thách thức và kỹ năng, điều gì xảy ra với tâm lý cá nhân khi mức độ thách thức vượt xa năng lực hiện có của họ?",
+      "options": [
+        "Cá nhân cảm thấy vô cùng nhàm chasaan vì ý thức không bị kích thích bởi các nhiệm vụ mới.",
+        "Cá nhân lập tức đạt trạng thái Dòng chảy sâu nhờ sự thúc đẩy mạnh mẽ từ bản năng sinh tồn.",
+        "Cá nhân rơi vào trạng thái lo âu căng thẳng do sự quá tải năng lượng tâm thần xử lý thông tin.",
+        "Cá nhân duy trì sự thư thái hoàn toàn vì không phải chịu bất kỳ áp lực thành tích nào hết."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi thách thức vượt quá kỹ năng, hệ thống chú ý bị quá tải, dẫn đến sự lo âu (anxiety). Ngược lại, khi kỹ năng vượt quá thách thức, người ta sẽ thấy nhàm chán (boredom)."
+    },
+    {
+      "id": "q4",
+      "question": "Từ góc độ tâm lý học tiến hóa và hệ thống được phản ánh qua tài liệu nguồn, trạng thái Dòng chảy đóng vai trò sinh học quan trọng nào đối với ý thức?",
+      "options": [
+        "Làm tê liệt khả năng nhận thức thực tế để con người thích nghi với khủng hoảng tạm thời.",
+        "Duy trì cân bằng sinh học tĩnh tại bằng cách ngăn chặn mọi sự tiếp nhận thông tin mới.",
+        "Tổ chức lại trật tự tâm thức, chống hỗn loạn thông tin và thúc đẩy tiến hóa cái tôi cá nhân.",
+        "Loại bỏ hoàn toàn nhu cầu giao tiếp xã hội để tập trung tối đa vào năng lực sinh tồn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Csikszentmihalyi xem Flow là cơ chế giúp giảm thiểu entropy tâm lý, qua đó cấu trúc hóa và phát triển cái tôi thông qua việc làm chủ các thách thức phức tạp dần theo thời gian."
+    },
+    {
+      "id": "q5",
+      "question": "Khi nghiên cứu về trải nghiệm làm việc và giải trí trong các tài liệu tham khảo, phát biểu nào phản ánh chính xác nhất nghịch lý trải nghiệm con người?",
+      "options": [
+        "Con người mong muốn nghỉ ngơi nhưng thực tế trải nghiệm nhiều dòng chảy khi làm việc.",
+        "Công việc luôn luôn mang lại sự nhàm chán tuyệt đối trong khi giải trí tự động tạo dòng chảy.",
+        "Trạng thái dòng chảy chỉ xuất hiện độc quyền trong các hoạt động giải trí thiếu mục tiêu.",
+        "Sự mệt mỏi trong công việc hoàn toàn vô ích và không bao giờ chuyển hóa thành trải nghiệm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nghiên cứu thực nghiệm qua phương pháp lấy mẫu trải nghiệm (ESM) cho thấy con người thường báo cáo có nhiều năng lượng và dòng chảy ở nơi làm việc hơn so với thời gian rảnh rỗi thụ động."
+    },
+    {
+      "id": "q6",
+      "question": "Trong các nghiên cứu về sự chú ý và cấu trúc nhận thức, yếu tố nào được xem là 'nhiên liệu' giới hạn quyết định việc cá nhân có thể bước vào Dòng chảy?",
+      "options": [
+        "Tốc độ phản ứng sinh học của hệ thần kinh trung ương trước các kích thích ngoại cảnh.",
+        "Dung lượng bộ nhớ dài hạn chứa đựng tất cả kiến thức tích lũy từ thời thơ ấu xa xôi.",
+        "Năng lượng tâm thần dưới dạng khả năng tập trung chú ý có chủ ý của chủ thể hành động.",
+        "Mức độ ổn định của cảm xúc bản năng không bị chi phối bởi bất kỳ suy nghĩ lý tính nào."
+      ],
+      "correctIndex": 2,
+      "explanation": "Năng lượng tâm thần (attention/psychic energy) là nguồn lực hữu hạn. Trạng thái dòng chảy đòi hỏi phải đầu tư toàn bộ năng lượng tâm thần này vào một hệ thống hành động duy nhất."
+    },
+    {
+      "id": "q7",
+      "question": "Xét về mặt cơ chế phản hồi trong các hoạt động tạo ra Dòng chảy, tại sao sự rõ ràng và tức thì của phản hồi lại đóng vai trò quyết định?",
+      "options": [
+        "Nó triệt tiêu hoàn toàn mọi động lực tiến thân vì cá nhân đã biết trước kết quả chính xác.",
+        "Nó giúp ý thức liên tục điều chỉnh hành động mà không tốn năng lượng băn khoăn kết quả.",
+        "Nó tạo ra áp lực tâm lý lớn để ép buộc cá nhân phải hoàn thành nhiệm vụ thật nhanh chóng.",
+        "Nó làm bộ neuroscience ngừng tư duy logic và chuyển hoàn toàn sang cơ chế phản xạ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phản hồi tức thì cho người trong cuộc biết ngay lập tức họ đang làm tốt đến đâu, từ đó loại bỏ sự bất định, giúp duy trì sự tập trung cao độ và giảm thiểu sự phân tán tâm trí."
+    },
+    {
+      "id": "q8",
+      "question": "Khi cá nhân trải nghiệm sự hòa quyện giữa hành động và ý thức trong trạng thái Dòng chảy, hiện tượng tâm lý nào diễn ra rõ nét nhất?",
+      "options": [
+        "Ý thức bị chia cắt thành nhiều luồng suy nghĩ độc lập để vừa làm việc vừa lên kế hoạch.",
+        "Cá nhân trở thành một người quan sát đứng bên ngoài để đánh giá từng cử động nhỏ.",
+        "Cá nhân mất hoàn toàn quyền kiểm soát cơ thể và để phản xạ vô điều kiện chi phối.",
+        "Hành động tự động hóa cao độ đến mức người thực hiện không còn cảm thấy sự tách biệt."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi ở trong dòng chảy, hành động trở nên trôi chảy và tự nhiên đến mức người ta không cần tự ý thức về bản thân, hành động và ý thức hòa làm một thể thống nhất."
+    },
+    {
+      "id": "q9",
+      "question": "Sự mất đi ý thức về thời gian trong trạng thái Dòng chảy thường biểu hiện như thế nào đối với chủ thể trực tiếp trải nghiệm?",
+      "options": [
+        "Đồng hồ sinh học bên trong cơ thể bị đảo lộn hoàn toàn dẫn đến tình trạng mất ngủ sâu.",
+        "Thời gian có thể trôi đi cực kỳ nhanh chóng hoặc dường như ngưng lại theo nhịp độ.",
+        "Trí nhớ ngắn hạn bị xóa sạch khiến cá nhân hoàn toàn quên mất sự kiện đã diễn ra trước.",
+        "Cá nhân cực kỳ nhạy cảm với từng phút trôi qua và luôn lo lắng về thời hạn hoàn thành."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự biến đổi của thời gian là đặc trưng của Flow; hàng giờ trôi qua như vài phút, phản ánh việc năng lượng tâm thần không còn bị chia sẻ cho việc theo dõi đồng hồ."
+    },
+    {
+      "id": "q10",
+      "question": "Trong các tài liệu nghiên cứu về sự tha hóa và trải nghiệm tối ưu, trạng thái đối lập hoàn toàn với Dòng chảy trong đời sống hàng ngày là gì?",
+      "options": [
+        "Sự mệt mỏi thể chất sau khi hoàn thành một lao động nặng nhọc có định hướng rõ ràng.",
+        "Sự hỗn loạn nội tâm và cảm giác vô nghĩa, chán nản khi cuộc sống thiếu mục tiêu.",
+        "Trạng thái thư giãn thụ động khi xem ti vi hoặc nằm nghỉ ngơi không suy nghĩ gì cả.",
+        "Cảm giác hồi hộp khi đối mặt với thử thách mới vượt quá vùng an toàn quen thuộc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Entropy tâm lý (hỗn loạn nội tâm) là trạng thái thông tin mâu thuẫn tranh giành sự chú ý của ý thức, gây ra sự lo âu và chán nản, trái ngược hoàn toàn với sự trật tự của Dòng chảy."
+    },
+    {
+      "id": "q11",
+      "question": "Từ góc độ phát triển nhân cách, việc cá nhân liên tục tìm kiếm và duy trì Dòng chảy qua các thử thách cao hơn sẽ dẫn đến kết quả nào?",
+      "options": [
+        "Sự mở rộng và phức tạp hóa của cái tôi cùng sự gia tăng năng lực thích ứng linh hoạt.",
+        "Sự cô lập hoàn toàn khỏi các mối quan hệ xã hội do quá tập trung vào sở thích cá nhân.",
+        "Sự phụ thuộc tuyệt đối vào các phần thưởng vật chất bên ngoài để duy trì hạnh phúc.",
+        "Sự trì trệ trong nhận thức vì đã đạt đến giới hạn tối đa của khả năng xử lý thông tin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo Csikszentmihalyi, khi đối mặt thử thách cao và nâng cao kỹ năng, con người phát triển từ cái tôi đơn giản thành cái tôi phức tạp hơn, mạnh mẽ và kiên cường hơn."
+    },
+    {
+      "id": "q12",
+      "question": "Khi phân tích các hoạt động văn hóa, trò chơi và nghệ thuật trong phần nguồn tham khảo, đặc điểm chung nào giúp dễ dàng kích hoạt Dòng chảy?",
+      "options": [
+        "Chúng loại bỏ mọi cơ hội xảy ra thất bại để người tham gia luôn cảm thấy mình chiến thắng trên thực tế.",
+        "Chúng cho phép con người trốn tránh hoàn toàn mọi luật lệ và trách nhiệm đạo đức xã hội.",
+        "Chúng tập trung hoàn toàn vào việc phân phát các phần thưởng vật chất lớn cho người thắng.",
+        "Chúng thiết lập hệ thống quy tắc rõ ràng, mục tiêu cụ thể và cấu trúc thách thức tương thích."
+      ],
+      "correctIndex": 3,
+      "explanation": "Các hoạt động như trò chơi, nghệ thuật, thể thao đều có các quy tắc, mục tiêu và cơ chế phản hồi rõ ràng, tạo ra khung cấu trúc lý tưởng giúp con người dễ dàng nhập tâm và đạt dòng chảy."
+    },
+    {
+      "id": "q13",
+      "question": "Cảm giác làm chủ hoàn toàn tình huống trong trạng thái Dòng chảy khác biệt như thế nào so với sự kiểm soát thông thường trong đời sống?",
+      "options": [
+        "Đó là sự tự do thoát khỏi nỗi sợ thất bại và sự lo âu bị phán xét thay vì ép buộc ai.",
+        "Đó là khả năng dùng ý chí độc đoán để bắt mọi yếu tố ngoại cảnh phải tuân theo ý mình.",
+        "Đó là trạng thái buông xuôi hoàn toàn để số phận dẫn dắt mà không cần bất kỳ can thiệp.",
+        "Đó là sự ảo tưởng về sức mạnh siêu nhiên giúp vượt qua các định luật vật lý thực tế."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cảm giác kiểm soát trong Flow không phải quyền lực kiểm soát người khác hay môi trường theo nghĩa áp đặt, mà là sự tự tin sâu sắc và việc loại bỏ nỗi sợ thất bại."
+    },
+    {
+      "id": "q14",
+      "question": "Trong bối cảnh nghiên cứu về gia đình và môi trường xã hội, yếu tố nào tạo điều kiện thuận lợi nhất cho trẻ em phát triển khả năng trải nghiệm Dòng chảy?",
+      "options": [
+        "Sự bảo bọc tuyệt đối giúp trẻ tránh khỏi mọi thất bại và va vấp trong quá trình học tập.",
+        "Một môi trường cung cấp cả sự hỗ trợ an toàn lẫn các thử thách kích thích tính tự chủ.",
+        "Việc áp đặt các quy củ cực kỳ khắt khe với những hình phạt nặng nề khi không đạt mục tiêu.",
+        "Sự phớt lờ hoàn toàn để trẻ tự do phát triển tự nhiên mà không cần bất kỳ định hướng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Môi trường gia đình hỗ trợ kết hợp với thách thức - gọi là môi trường có tính phức tạp cao - giúp trẻ em dám đối mặt với khó khăn và tìm thấy dòng chảy trong các hoạt động."
+    },
+    {
+      "id": "q15",
+      "question": "Ý nghĩa triết học và tâm lý học sâu sắc nhất của lý thuyết Dòng chảy đối với đời sống con người được đúc kết từ các nghiên cứu là gì?",
+      "options": [
+        "Sự giàu có về vật chất là điều kiện tiên quyết duy nhất để con người thoát khỏi hỗn loạn nội tâm.",
+        "Hạnh phúc đích thực chỉ đạt được khi con người hoàn toàn từ bỏ mục tiêu và sống trong vô thức.",
+        "Chất lượng cuộc sống không phụ thuộc vào ngoại cảnh mà phụ thuộc vào cách đầu tư năng lượng.",
+        "Con người không thể thay đổi trải nghiệm chủ quan vì nó bị ấn định hoàn toàn bởi sinh học."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thông điệp cốt lõi của Csikszentmihalyi là con người có quyền làm chủ ý thức của mình; chính cách chúng ta định hướng sự chú ý và trải nghiệm thách thức là yếu tố quyết định chất lượng cuộc sống."
+    }
+  ]
+}

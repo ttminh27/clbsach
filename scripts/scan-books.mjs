@@ -15,6 +15,19 @@ function formatFileSize(bytes) {
 }
 
 const placeholderMetadata = {
+  "DongChay": {
+    title: "Dòng Chảy (Flow)",
+    originalTitle: "Flow: The Psychology of Optimal Experience",
+    author: "Mihaly Csikszentmihalyi",
+    authorBio: "Giáo sư tâm lý học và quản trị học người Mỹ gốc Hungary tại Đại học Claremont Graduate, cựu Trưởng khoa Tâm lý học tại Đại học Chicago. Ông là một trong những người tiên phong sáng lập Tâm lý học tích cực (Positive Psychology) và nổi tiếng toàn cầu với khái niệm 'Trạng thái Dòng chảy' (Flow).",
+    quote: "Những khoảnh khắc đẹp đẽ nhất trong cuộc đời không phải là những lúc thụ động, nghỉ ngơi hay thư giãn. Chúng thường xảy đến khi cơ thể hoặc tâm trí một người được kéo căng đến giới hạn tối đa trong một nỗ lực tự nguyện nhằm hoàn thành một mục tiêu khó khăn và đáng giá.",
+    category: "Tâm lý học tích cực & Trải nghiệm tối ưu",
+    tags: ["Dòng chảy", "Flow", "Mihaly Csikszentmihalyi", "Trải nghiệm tối ưu", "Hạnh phúc", "Tâm lý học tích cực", "Sự tập trung", "Ý thức"],
+    description: "Kiệt tác kinh điển thế giới về tâm lý học trải nghiệm tối ưu của Mihaly Csikszentmihalyi. Tác phẩm đúc kết hơn hai thập kỷ nghiên cứu khoa học thực nghiệm về 'Trạng thái Dòng chảy' (Flow) – trạng thái khi con người đắm chìm trọn vẹn và tập trung cao độ vào hành động, làm chủ ý thức, vượt qua sự hỗn loạn nội tâm và tìm thấy hạnh phúc chân thực, bền vững.",
+    gradient: "from-teal-600 via-cyan-700 to-slate-900",
+    themeColor: "#0891b2",
+    status: "available"
+  },
   "AnLacTungBuocChan": {
     title: "An Lạc Từng Bước Chân",
     originalTitle: "Peace Is Every Step: The Path of Mindfulness in Everyday Life",
@@ -556,7 +569,7 @@ for (const bookId of bookDirs) {
     }
 
     // Trang bìa không cần quiz
-    const isCover = /^00+_?trang_?bia/i.test(fileName) || /^trang\s+bìa/i.test(title.trim());
+    const isCover = /^00+_?(trang_?bia|muc_?luc)/i.test(fileName) || /^(trang\s+bìa|mục\s+lục)/i.test(title.trim());
     if (isCover) {
       quizUrl = null;
       totalQuestions = 0;

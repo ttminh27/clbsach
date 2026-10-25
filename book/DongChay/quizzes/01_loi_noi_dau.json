@@ -1,0 +1,188 @@
+{
+  "bookId": "DongChay",
+  "chapterId": "01_loi_noi_dau",
+  "chapterTitle": "Lời nói đầu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo tác giả, việc chuyển đổi từ văn xuôi học thuật sang sách phổ thông về dòng chảy tiềm ẩn rủi ro tâm lý gì?",
+      "options": [
+        "Làm mất đi tính khách quan của dữ liệu thực nghiệm đã thu.",
+        "Dễ rơi vào sự cẩu thả hoặc sa vào sự nhiệt tình thái quá.",
+        "Gây hiểu lầm về mặt phương pháp luận cho giới nghiên cứu.",
+        "Làm giảm giá trị học thuật của các công trình trước đó."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ rõ việc bước ra khỏi văn xuôi học thuật dễ khiến người viết trở nên cẩu thả hoặc sa vào sự nhiệt tình thái quá đối với chủ đề tích cực này."
+    },
+    {
+      "id": "q2",
+      "question": "Vì sao tác giả khẳng định việc cung cấp một 'công thức' hay 'bí quyết' cố định về hạnh phúc là không khả thi?",
+      "options": [
+        "Cuộc sống tốt đẹp là một tạo tác mang tính cá nhân không sao chép.",
+        "Mỗi cá nhân sở hữu cấu trúc thần kinh và não bộ khác nhau.",
+        "Các nguyên lý tâm lý học của dòng chảy luôn biến động cao.",
+        "Hạnh phúc hoàn toàn phụ thuộc vào các biến số ngoại cảnh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo tác giả, cuộc sống vui tươi và tốt đẹp là một tạo tác mang tính cá nhân, vốn không thể sao chép từ một công thức chung chung nào."
+    },
+    {
+      "id": "q3",
+      "question": "Mục tiêu thực sự mà cuốn sách hướng tới đối với độc giả phổ thông khi bàn về trạng thái dòng chảy là gì?",
+      "options": [
+        "Trình bày nguyên tắc và ví dụ giúp chuyển hóa cuộc sống nhàm chán.",
+        "Thiết lập hệ thống tiêu chuẩn khoa học để đo lường mức độ hạnh phúc.",
+        "Hướng dẫn cách đạt trạng thái thư giãn tuyệt đối không cần nỗ lực.",
+        "Cung cấp thủ thuật tâm lý nhanh giúp kiểm soát cảm xúc hàng ngày."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cuốn sách nỗ lực trình bày các nguyên tắc chung cùng ví dụ cụ thể để giúp con người biến đổi cuộc sống nhàm chán, vô nghĩa thành cuộc sống tràn đầy niềm vui."
+    },
+    {
+      "id": "q4",
+      "question": "Cách tiếp cận trình bày kết quả nghiên cứu tâm lý học của tác giả phản ánh quan điểm sư phạm nào dưới đây?",
+      "options": [
+        "Ưu tiên chuẩn mực hàn lâm hơn là tính dễ tiếp cận của đại chúng.",
+        "Cố gắng làm nghiên cứu dễ hiểu với mọi độc giả có học vấn bất kỳ.",
+        "Loại bỏ hoàn toàn cơ sở khoa học để sách trở nên lôi cuốn dễ đọc.",
+        "Chỉ nhắm đến nhóm độc giả đã có nền tảng sâu về tâm lý hành vi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả cố gắng trình bày kết quả nghiên cứu sao cho bất kỳ độc giả có học vấn nào cũng có thể đánh giá và ứng dụng thông qua văn bản chính."
+    },
+    {
+      "id": "q5",
+      "question": "Việc sắp xếp các ghi chú mở rộng ở cuối sách mà không gắn trực tiếp vào văn bản chính nhằm mục đích gì?",
+      "options": [
+        "Buộc tất cả độc giả phải đọc kỹ toàn bộ chú thích trước.",
+        "Giúp độc giả phổ thông tra cứu nhanh các định nghĩa khó.",
+        "Che giấu các nguồn tài liệu gốc để bảo vệ bản quyền.",
+        "Tạo hệ thống đọc độc lập cho học giả không làm phiền đại chúng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Các ghi chú ở cuối sách đóng vai trò như một phiên bản thứ hai mang tính chuyên môn hơn cho học giả, đồng thời giữ văn bản chính thân thiện."
+    },
+    {
+      "id": "q6",
+      "question": "Yếu tố nào phản ánh đúng nhất tinh thần từ chối 'lối đi tắt dễ dàng' trong cấu trúc của trải nghiệm tối ưu?",
+      "options": [
+        "Sự thư giãn hoàn toàn thể chất thông qua các bài tập ngắn hạn.",
+        "Việc tìm kiếm sự công nhận xã hội qua các thành tựu vật chất.",
+        "Sự đầu tư năng lượng tâm thần vào thách thức đòi hỏi nỗ lực bền bỉ.",
+        "Việc áp dụng mẹo quản lý thời gian để giảm bớt áp lực công việc."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trạng thái dòng chảy không đến từ lối đi tắt hay sự thụ động, mà đòi hỏi cá nhân phải dấn thân vào các thách thức tương xứng với kỹ năng."
+    },
+    {
+      "id": "q7",
+      "question": "Việc tác giả tri ân gia đình, đồng nghiệp và nhà tài trợ phản ánh bản chất nào của quá trình sáng tạo tri thức?",
+      "options": [
+        "Quá trình hình thành tư tưởng lớn cần sự cộng hưởng từ mạng lưới xã hội.",
+        "Tri thức khoa học là sản phẩm độc lập của tư duy cá nhân đơn độc.",
+        "Sự công nhận mang tính hình thức đáp ứng tiêu chuẩn xuất bản quốc tế.",
+        "Thành công của lý thuyết tâm lý phụ thuộc hoàn toàn vào quỹ nghiên cứu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Danh sách tri ân dài cho thấy một lý thuyết khoa học sâu sắc là kết quả của sự tương tác xã hội, nguồn cảm hứng tập thể và sự hỗ trợ bền bỉ."
+    },
+    {
+      "id": "q8",
+      "question": "Để biến đổi cuộc sống nhàm chán thành tràn đầy niềm vui theo Csikszentmihalyi, một cá nhân nên bắt đầu từ đâu?",
+      "options": [
+        "Thay đổi nhận thức và cách tương tác chủ động với hoạt động thường nhật.",
+        "Chờ đợi các cơ hội ngẫu nhiên xuất hiện từ môi trường xã hội bên ngoài.",
+        "Từ bỏ hoàn toàn công việc hiện tại để tìm kiếm trải nghiệm phiêu lưu.",
+        "Tuân thủ nghiêm ngặt các công thức thành công do chuyên gia vạch sẵn trên thực tế."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vì không có công thức chung, cá nhân phải tự mình áp dụng các nguyên tắc chung, chủ động biến đổi trải nghiệm từ nhàm chán thành có ý nghĩa."
+    },
+    {
+      "id": "q9",
+      "question": "Phân tích cấu trúc Lời nói đầu, phong cách viết của tác giả thể hiện sự kết hợp độc đáo nào dưới đây?",
+      "options": [
+        "Sự đơn giản hóa vấn đề tâm lý lâm sàng để phục vụ thương mại hóa.",
+        "Sự lãng mạn hóa văn hóa đại chúng với các lý thuyết triết học cổ đại.",
+        "Sự cứng nhắc ngôn ngữ chuyên ngành với lối hành văn ẩn dụ phức tạp.",
+        "Sự nghiêm ngặt phương pháp thực nghiệm với sự cởi mở của đối thoại."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả dựa trên nhiều thập kỷ nghiên cứu thực nghiệm nghiêm túc nhưng lại khéo léo chọn lối viết thẳng thắn, thân thiện để tiếp cận rộng rãi."
+    },
+    {
+      "id": "q10",
+      "question": "Việc tác giả trích dẫn góc nhìn của Aristotle về hạnh phúc bên cạnh các nghiên cứu hiện đại gợi ý điều gì?",
+      "options": [
+        "Hạnh phúc là khái niệm siêu hình không thể định nghĩa bằng khoa học.",
+        "Chỉ triết học cổ đại mới cung cấp góc nhìn chính xác về tinh thần.",
+        "Bản chất của trải nghiệm tối ưu có tính chất xuyên thời gian.",
+        "Nghiên cứu tâm lý hiện đại chỉ đơn thuần lặp lại tư tưởng thời cổ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự kết hợp giữa góc nhìn của Aristotle và nghiên cứu hiện đại cho thấy khát vọng về hạnh phúc và trải nghiệm tối ưu là vấn đề xuyên thời gian."
+    },
+    {
+      "id": "q11",
+      "question": "Câu khẳng định 'đó là trách nhiệm của riêng tôi' đối với những điểm chưa rõ ràng thể hiện phẩm chất gì?",
+      "options": [
+        "Sự khiêm nhường giả tạo thường thấy trong sách chuyên khảo.",
+        "Tinh thần chịu trách nhiệm cá nhân đối với thông điệp khoa học.",
+        "Sự bất đồng sâu sắc giữa tác giả và các cộng sự phân tích dữ liệu.",
+        "Sự miễn trừ trách nhiệm pháp lý đối với ứng dụng của độc giả."
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu khẳng định này thể hiện sự tôn trọng đối với cộng sự nhưng đồng thời khẳng định tính tự chủ, bản lĩnh và trách nhiệm cá nhân tuyệt đối."
+    },
+    {
+      "id": "q12",
+      "question": "Ý nghĩa tâm lý sâu xa của việc nghiên cứu trải nghiệm tích cực thay vì chỉ tập trung bệnh lý là gì?",
+      "options": [
+        "Giúp con người né tránh hoàn toàn nỗi đau và sang chấn tâm lý.",
+        "Tạo ra tiêu chuẩn đạo đức chung đánh giá mức độ hạnh phúc.",
+        "Chứng minh rằng rối loạn tâm thần có thể được chữa khỏi bằng niềm vui.",
+        "Khám phá nguồn lực nội tâm giúp con người sống trọn vẹn đời mình."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nghiên cứu trải nghiệm tích cực giúp hiểu rõ cách con người đạt đến trạng thái tối ưu, làm chủ năng lượng tâm thần thay vì chỉ chữa bệnh."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao tác giả nhấn mạnh cuốn sách không đưa ra các 'thủ thuật hay bí quyết của những người trong cuộc'?",
+      "options": [
+        "Vì những thủ thuật đó chỉ có giá trị thương mại thuần túy.",
+        "Vì tác giả muốn giữ kín phương pháp cho giới học thuật.",
+        "Vì dòng chảy đòi hỏi sự biến đổi nội tâm thay vì mẹo vặt bề ngoài.",
+        "Vì thủ thuật tâm lý chỉ phù hợp với người đã đạt đỉnh cao trên thực tế."
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc từ chối các mẹo vặt hay thủ thuật nhanh gọn nhấn mạnh rằng trạng thái dòng chảy và cuộc sống ý nghĩa là kết quả của sự dấn thân và phát triển."
+    },
+    {
+      "id": "q14",
+      "question": "Trong bối cảnh nghiên cứu thực nghiệm, sự đóng góp của các cựu sinh viên và cộng tác viên đóng vai trò chủ đạo nào?",
+      "options": [
+        "Viết phần lớn nội dung lý thuyết cho các chương tiếp theo.",
+        "Cung cấp nền tảng dữ liệu thực tế kiểm chứng giả thuyết dòng chảy.",
+        "Đảm bảo nguồn tài chính ổn định cho các dự án dài hạn.",
+        "Đóng vai trò biên tập viên tinh chỉnh văn phong học thuật trên thực tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Các cộng tác viên và sinh viên thực hiện việc thu thập và phân tích dữ liệu, tạo nên cơ sở thực nghiệm vững chắc làm nền tảng cho lý thuyết."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp cốt lõi nào từ Lời nói đầu phản ánh đúng nhất tinh thần của toàn bộ công trình về dòng chảy?",
+      "options": [
+        "Chỉ những nhà khoa học hàng đầu mới có thể trải nghiệm trạng thái dòng chảy.",
+        "Hạnh phúc là trạng thái ngẫu nhiên mà con người không thể chủ động kiểm soát trên thực tế.",
+        "Mỗi người có khả năng tự kiến tạo cuộc sống vui tươi qua việc thấu hiểu nguyên tắc.",
+        "Việc ứng dụng lý thuyết tâm lý đòi hỏi tuân thủ tuyệt đối công thức có sẵn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lời nói đầu khẳng định dù không có công thức sao chép sẵn, sách vẫn cung cấp đủ nguyên tắc để bất kỳ ai cũng tự biến đổi cuộc đời mình."
+    }
+  ]
+}
