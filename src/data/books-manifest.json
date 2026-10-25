@@ -5821,6 +5821,154 @@
     "audios": []
   },
   {
+    "id": "RenThoiQuenTuDuyPhanBien",
+    "title": "Rèn Thói Quen Tư Duy Phản Biện",
+    "author": "Alpha Books biên soạn",
+    "description": "Cẩm nang hướng dẫn xây dựng các thói quen tư duy phản biện sắc bén, giúp bạn giải phóng thời gian, trở thành người tư duy độc lập và đưa ra các quyết định thông minh trong cuộc sống.",
+    "category": "Tư duy phản biện & Kỹ năng sống",
+    "tags": [
+      "Tư duy phản biện",
+      "Thói quen",
+      "Kỹ năng sống",
+      "Ra quyết định"
+    ],
+    "gradient": "from-sky-700 via-indigo-800 to-slate-900",
+    "themeColor": "#0284c7",
+    "status": "available",
+    "coverUrl": "/books/RenThoiQuenTuDuyPhanBien/images/cover.jpeg",
+    "rawPdf": {
+      "fileName": "RenThoiQuenTuDuyPhanBien.pdf",
+      "url": "/books/RenThoiQuenTuDuyPhanBien/raw/RenThoiQuenTuDuyPhanBien.pdf",
+      "sizeBytes": 837607,
+      "formattedSize": "818 KB"
+    },
+    "totalChapters": 10,
+    "totalAudios": 0,
+    "chapters": [
+      {
+        "id": "00_gioi_thieu",
+        "fileName": "00_gioi_thieu.md",
+        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/00_gioi_thieu.md",
+        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/00_gioi_thieu.json",
+        "totalQuestions": 15,
+        "hasQuiz": true,
+        "order": 1,
+        "title": "00. Giới thiệu & Thông tin xuất bản",
+        "wordCount": 961,
+        "readingTimeMin": 5
+      },
+      {
+        "id": "01_mo_dau",
+        "fileName": "01_mo_dau.md",
+        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/01_mo_dau.md",
+        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/01_mo_dau.json",
+        "totalQuestions": 15,
+        "hasQuiz": true,
+        "order": 2,
+        "title": "01. Mở đầu",
+        "wordCount": 1088,
+        "readingTimeMin": 6
+      },
+      {
+        "id": "02_chuong_1",
+        "fileName": "02_chuong_1.md",
+        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/02_chuong_1.md",
+        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/02_chuong_1.json",
+        "totalQuestions": 15,
+        "hasQuiz": true,
+        "order": 3,
+        "title": "02. Chương 1: Cách tư duy như một nhà tư tưởng",
+        "wordCount": 6817,
+        "readingTimeMin": 35
+      },
+      {
+        "id": "03_chuong_2",
+        "fileName": "03_chuong_2.md",
+        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/03_chuong_2.md",
+        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/03_chuong_2.json",
+        "totalQuestions": 15,
+        "hasQuiz": true,
+        "order": 4,
+        "title": "03. Chương 2: Mấu chốt của các thói quen",
+        "wordCount": 8878,
+        "readingTimeMin": 45
+      },
+      {
+        "id": "04_chuong_3",
+        "fileName": "04_chuong_3.md",
+        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/04_chuong_3.md",
+        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/04_chuong_3.json",
+        "totalQuestions": 15,
+        "hasQuiz": true,
+        "order": 5,
+        "title": "04. Chương 3: Biến tư duy phản biện trở thành thói quen",
+        "wordCount": 6044,
+        "readingTimeMin": 31
+      },
+      {
+        "id": "05_chuong_4",
+        "fileName": "05_chuong_4.md",
+        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/05_chuong_4.md",
+        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/05_chuong_4.json",
+        "totalQuestions": 15,
+        "hasQuiz": true,
+        "order": 6,
+        "title": "05. Chương 4: Để thói quen bền vững hôm nay, ngày mai, tới cả năm sau",
+        "wordCount": 3638,
+        "readingTimeMin": 19
+      },
+      {
+        "id": "06_chuong_5",
+        "fileName": "06_chuong_5.md",
+        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/06_chuong_5.md",
+        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/06_chuong_5.json",
+        "totalQuestions": 15,
+        "hasQuiz": true,
+        "order": 7,
+        "title": "06. Chương 5: Kiến tạo một bộ não ưu việt hơn - Thúc đẩy những thói quen đó",
+        "wordCount": 4517,
+        "readingTimeMin": 23
+      },
+      {
+        "id": "07_chuong_6",
+        "fileName": "07_chuong_6.md",
+        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/07_chuong_6.md",
+        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/07_chuong_6.json",
+        "totalQuestions": 15,
+        "hasQuiz": true,
+        "order": 8,
+        "title": "07. Chương 6: Những công cụ hỗ trợ thói quen tư duy phản biện",
+        "wordCount": 2593,
+        "readingTimeMin": 13
+      },
+      {
+        "id": "08_loi_bat",
+        "fileName": "08_loi_bat.md",
+        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/08_loi_bat.md",
+        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/08_loi_bat.json",
+        "totalQuestions": 15,
+        "hasQuiz": true,
+        "order": 9,
+        "title": "08. Lời bạt",
+        "wordCount": 781,
+        "readingTimeMin": 4
+      },
+      {
+        "id": "09_doi_ngu_thinknetic",
+        "fileName": "09_doi_ngu_thinknetic.md",
+        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/09_doi_ngu_thinknetic.md",
+        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/09_doi_ngu_thinknetic.json",
+        "totalQuestions": 15,
+        "hasQuiz": true,
+        "order": 10,
+        "title": "09. Đội ngũ tại Thinknetic",
+        "wordCount": 813,
+        "readingTimeMin": 5
+      }
+    ],
+    "audios": []
+  },
+  {
     "id": "SearchInsideYourSelf",
     "title": "Search Inside Yourself (Tìm Kiếm Bên Trong Bạn)",
     "originalTitle": "Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace)",
@@ -8146,154 +8294,6 @@
         "title": "Tác Giả Robin Sharma",
         "wordCount": 221,
         "readingTimeMin": 2
-      }
-    ],
-    "audios": []
-  },
-  {
-    "id": "RenThoiQuenTuDuyPhanBien",
-    "title": "Rèn Thói Quen Tư Duy Phản Biện",
-    "author": "Alpha Books biên soạn",
-    "description": "Cẩm nang hướng dẫn xây dựng các thói quen tư duy phản biện sắc bén, giúp bạn giải phóng thời gian, trở thành người tư duy độc lập và đưa ra các quyết định thông minh trong cuộc sống.",
-    "category": "Tư duy phản biện & Kỹ năng sống",
-    "tags": [
-      "Tư duy phản biện",
-      "Thói quen",
-      "Kỹ năng sống",
-      "Ra quyết định"
-    ],
-    "gradient": "from-sky-700 via-indigo-800 to-slate-900",
-    "themeColor": "#0284c7",
-    "status": "coming_soon",
-    "coverUrl": "/books/RenThoiQuenTuDuyPhanBien/images/cover.jpeg",
-    "rawPdf": {
-      "fileName": "RenThoiQuenTuDuyPhanBien.pdf",
-      "url": "/books/RenThoiQuenTuDuyPhanBien/raw/RenThoiQuenTuDuyPhanBien.pdf",
-      "sizeBytes": 837607,
-      "formattedSize": "818 KB"
-    },
-    "totalChapters": 10,
-    "totalAudios": 0,
-    "chapters": [
-      {
-        "id": "00_gioi_thieu",
-        "fileName": "00_gioi_thieu.md",
-        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/00_gioi_thieu.md",
-        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/00_gioi_thieu.json",
-        "totalQuestions": 15,
-        "hasQuiz": true,
-        "order": 1,
-        "title": "00. Giới thiệu & Thông tin xuất bản",
-        "wordCount": 961,
-        "readingTimeMin": 5
-      },
-      {
-        "id": "01_mo_dau",
-        "fileName": "01_mo_dau.md",
-        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/01_mo_dau.md",
-        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/01_mo_dau.json",
-        "totalQuestions": 15,
-        "hasQuiz": true,
-        "order": 2,
-        "title": "01. Mở đầu",
-        "wordCount": 1088,
-        "readingTimeMin": 6
-      },
-      {
-        "id": "02_chuong_1",
-        "fileName": "02_chuong_1.md",
-        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/02_chuong_1.md",
-        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/02_chuong_1.json",
-        "totalQuestions": 15,
-        "hasQuiz": true,
-        "order": 3,
-        "title": "02. Chương 1: Cách tư duy như một nhà tư tưởng",
-        "wordCount": 6817,
-        "readingTimeMin": 35
-      },
-      {
-        "id": "03_chuong_2",
-        "fileName": "03_chuong_2.md",
-        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/03_chuong_2.md",
-        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/03_chuong_2.json",
-        "totalQuestions": 15,
-        "hasQuiz": true,
-        "order": 4,
-        "title": "03. Chương 2: Mấu chốt của các thói quen",
-        "wordCount": 8878,
-        "readingTimeMin": 45
-      },
-      {
-        "id": "04_chuong_3",
-        "fileName": "04_chuong_3.md",
-        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/04_chuong_3.md",
-        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/04_chuong_3.json",
-        "totalQuestions": 15,
-        "hasQuiz": true,
-        "order": 5,
-        "title": "04. Chương 3: Biến tư duy phản biện trở thành thói quen",
-        "wordCount": 6044,
-        "readingTimeMin": 31
-      },
-      {
-        "id": "05_chuong_4",
-        "fileName": "05_chuong_4.md",
-        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/05_chuong_4.md",
-        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/05_chuong_4.json",
-        "totalQuestions": 15,
-        "hasQuiz": true,
-        "order": 6,
-        "title": "05. Chương 4: Để thói quen bền vững hôm nay, ngày mai, tới cả năm sau",
-        "wordCount": 3638,
-        "readingTimeMin": 19
-      },
-      {
-        "id": "06_chuong_5",
-        "fileName": "06_chuong_5.md",
-        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/06_chuong_5.md",
-        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/06_chuong_5.json",
-        "totalQuestions": 15,
-        "hasQuiz": true,
-        "order": 7,
-        "title": "06. Chương 5: Kiến tạo một bộ não ưu việt hơn - Thúc đẩy những thói quen đó",
-        "wordCount": 4517,
-        "readingTimeMin": 23
-      },
-      {
-        "id": "07_chuong_6",
-        "fileName": "07_chuong_6.md",
-        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/07_chuong_6.md",
-        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/07_chuong_6.json",
-        "totalQuestions": 15,
-        "hasQuiz": true,
-        "order": 8,
-        "title": "07. Chương 6: Những công cụ hỗ trợ thói quen tư duy phản biện",
-        "wordCount": 2593,
-        "readingTimeMin": 13
-      },
-      {
-        "id": "08_loi_bat",
-        "fileName": "08_loi_bat.md",
-        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/08_loi_bat.md",
-        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/08_loi_bat.json",
-        "totalQuestions": 15,
-        "hasQuiz": true,
-        "order": 9,
-        "title": "08. Lời bạt",
-        "wordCount": 781,
-        "readingTimeMin": 4
-      },
-      {
-        "id": "09_doi_ngu_thinknetic",
-        "fileName": "09_doi_ngu_thinknetic.md",
-        "fileUrl": "/books/RenThoiQuenTuDuyPhanBien/09_doi_ngu_thinknetic.md",
-        "quizUrl": "/books/RenThoiQuenTuDuyPhanBien/quizzes/09_doi_ngu_thinknetic.json",
-        "totalQuestions": 15,
-        "hasQuiz": true,
-        "order": 10,
-        "title": "09. Đội ngũ tại Thinknetic",
-        "wordCount": 813,
-        "readingTimeMin": 5
       }
     ],
     "audios": []

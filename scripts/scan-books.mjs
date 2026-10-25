@@ -356,7 +356,7 @@ const placeholderMetadata = {
     tags: ["Tư duy phản biện", "Thói quen", "Kỹ năng sống", "Ra quyết định"],
     gradient: "from-sky-700 via-indigo-800 to-slate-900",
     themeColor: "#0284c7",
-    status: "coming_soon"
+    status: "available"
   }
 };
 
