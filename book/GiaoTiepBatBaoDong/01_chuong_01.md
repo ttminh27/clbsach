@@ -1,14 +1,11 @@
-# **CHƯƠNG 1**
-
-![Cho đi từ trái tim](images/img_p027_271.jpg)
-
-![Tinh thần cốt lõi của Giao tiếp bất bạo động](images/img_p027_272.jpg)
+# Chương 1: Cho đi từ trái tim
+### Tinh thần cốt lõi của Giao tiếp bất bạo động
 
 *“Thứ tôi muốn trong cuộc sống là sự kết* *nối giữa tôi và người khác dựa trên lòng trắc ẩn* *và ý muốn cho đi từ trái tim.”*
 
 —Marshall Rosenberg
 
-![Giới thiệu](images/img_p027_273.png)
+## Giới thiệu
 
 Tôi luôn tin rằng bản chất con người là tình yêu thương, rằng chúng ta muốn cho đi và nhận lại tình yêu thương vô điều kiện. Vậy nên, trong gần như cả cuộc đời mình, tôi luôn trăn trở về hai câu hỏi: Điều gì đã khiến chúng ta xa rời bản chất yêu thương của mình, khiến chúng ta hành xử ích kỷ và bạo lực? Và ngược lại, điều gì làm cho một vài người vẫn kết nối được với bản chất yêu thương của mình ngay cả trong những hoàn cảnh khó khăn nhất?
 
@@ -24,7 +21,7 @@ Kể từ đó, tôi đã luôn suy nghĩ về hai câu hỏi nêu trên. Tôi t
 
 Trong quá trình nghiên cứu những nhân tố giúp con người duy trì tình yêu thương, tôi đã chú ý đến vai trò quan trọng của ngôn ngữ và cách chúng ta sử dụng ngôn từ. Từ đó, tôi đã xác định một mô hình giao tiếp cụ thể – cả nói và nghe – giúp con người khơi dậy lòng trắc ẩn và tạo ra sự kết nối với bản thân và người khác, dựa trên ý muốn cho đi từ trái tim. Tôi gọi mô hình này là Nonviolent Communication / Giao tiếp bất bạo động, trong đó cụm từ “bất bạo động” (nonviolence) được sử dụng giống như cách sử dụng của Gandhi – nói đến bản chất yêu thương bên trong trái tim con người, nơi tư tưởng bạo lực không có mặt. Bạn có thể nghĩ rằng chỉ có hành vi thể chất mới dẫn đến “bạo lực”, nhưng chính ngôn từ chúng ta sử dụng hàng ngày mới là thứ gây ra nhiều đau khổ và tổn thương nhất, cả cho người khác và cho chính mình. Thỉnh thoảng, mô hình giao tiếp này còn được gọi là Giao tiếp bằng lòng trắc ẩn (Compassionate Communication). Từ viết tắt NVC (Nonviolent Communication) được sử dụng xuyên suốt cuốn sách này để nói đến Giao tiếp bất bạo động hay Giao tiếp bằng lòng trắc ẩn.
 
-![Hướng sự chú tâm vào nơi giúp khơi dậy lòng trắc ẩn](images/img_p029_293.jpg)
+## Hướng sự chú tâm vào nơi giúp khơi dậy lòng trắc ẩn
 
 NVC giúp chúng ta nâng cao khả năng duy trì lòng trắc ẩn, ngay cả trong những điều kiện khó khăn nhất. Nó không chứa đựng bất kỳ điều gì mới; tất cả những kiến thức được tích hợp trong NVC đã được biết đến trong nhiều thế kỷ. Chủ đích của NVC là nhắc nhớ chúng ta về những thứ mà chúng ta đã biết nhưng đôi khi quên mất – về việc con người có liên quan với nhau như thế nào – và hướng dẫn chúng ta cách thức cụ thể để sống với những hiểu biết đó.
 
@@ -64,7 +61,7 @@ Bài hát *Given to* của Ruth Bebermeyer(*) – Chúng ta cho đi từ trái t
 
 Việc sử dụng NVC không đòi hỏi người mà chúng ta giao tiếp phải biết về NVC, thậm chí không đòi hỏi việc người đó được tạo động lực kết nối với chúng ta. Nếu chúng ta kiên trì với những nguyên tắc của NVC, xác định chủ đích duy nhất của mình là nói và nghe với lòng trắc ẩn và làm mọi thứ có thể để giúp người kia biết điều đó, thì họ sẽ tham gia vào quá trình đó cùng chúng ta. Tôi không nói điều này luôn nhanh chóng xảy ra, nhưng tôi tin rằng lòng trắc ẩn rồi sẽ nảy nở nếu chúng ta kiên trì với những nguyên tắc của NVC.
 
-![Quy trình NVC](images/img_p033_308.jpg)
+## Quy trình NVC
 
 NVC có bốn yếu tố mà để lòng trắc ẩn và ý muốn cho đi từ trái tim được khơi dậy trong tất cả các bên, chúng ta cần hướng sự chú tâm vào chúng.
 
@@ -82,7 +79,7 @@ Khi chúng ta tập trung vào bốn yếu tố trên và giúp người kia là
 
 Những hành động cụ thể mà chúng ta quan sát, cái tác động đến cuộc đời chúng ta Những cảm xúc của chúng ta liên quan đến điều ta quan sát Những nhu cầu, giá trị, ham muốn tạo ra những cảm xúc đó Hành động cụ thể mà chúng ta đề nghị để giúp cải thiện chất lượng cuộc đời mình Khi sử dụng NVC, chúng ta có thể bắt đầu bằng việc bày tỏ bốn yếu tố của bản thân một cách chân thật, *hoặc* lắng nghe bốn yếu tố này của người khác với sự đồng cảm. Mặc dù chúng ta sẽ đi qua từng yếu tố này từ Chương 3 đến Chương 6, điều quan trọng cần nhớ là NVC không phải là một công thức cứng nhắc, mà là thứ cần được linh hoạt điều chỉnh đối với những hoàn cảnh cũng như môi trường văn hóa khác nhau. Và mặc dù NVC được gọi là một “quy trình” hay “ngôn ngữ”, bạn có thể bày tỏ và lắng nghe cả bốn yếu tố mà không cần thốt ra một từ nào. Bản chất của NVC nằm trong sự ý thức của chúng ta về bốn yếu tố, chứ không phải trong những lời chúng ta nói ra.
 
-![Áp dụng NVC trong cuộc sống](images/img_p036_323.jpg)
+## Áp dụng NVC trong cuộc sống
 
 Trong các mối quan hệ với bản thân hoặc với người khác, NVC giúp chúng ta kết nối với bản chất nhân ái của mình. Do đó, nó có thể được áp dụng một cách hiệu quả ở mọi cấp độ giao tiếp và trong nhiều tình huống khác nhau:
 
@@ -112,7 +109,7 @@ Tôi cảm thấy may mắn vì được đi khắp thế giới và giúp rất
 
 *Trong cuốn sách này, thỉnh thoảng bạn sẽ gặp* *những cuộc đối thoại có tựa đề “NVC trong thực* *tế.” Đó là những cuộc đối thoại có thật, trong đó* *người nói đã áp dụng các nguyên tắc của Giao* *tiếp bất bạo động. Tuy nhiên, như bạn đã biết,* *bản chất của NVC không nằm ở ngôn từ được sử* *dụng, mà nằm ở sự nhận thức và ý định của* *người nói. Những điều này được thể hiện chủ yếu* *thông qua sự hiện hữu, sự im lặng, sự đồng cảm* *cũng như biểu cảm gương mặt và ngôn ngữ cơ* *thể. Vậy nên, hãy nhớ rằng mặc dù các cuộc đối* *thoại mà bạn sẽ đọc chỉ bao gồm những lời nói,* *đằng sau đó là rất nhiều thứ khác nữa cùng tạo* *nên sự kết nối dựa trên lòng trắc ẩn giữa hai* *bên.*
 
-![“Quân giết người! Bọn ám sát! Lũ sát hại trẻ con!”](images/img_p040_360.jpg)
+### NVC trong thực tế: “Quân giết người! Bọn ám sát! Lũ sát hại trẻ con!”
 
 Nhiều năm trước, tôi được mời chia sẻ Giao tiếp bất bạo động cho khoảng 170 người đàn ông Hồi giáo Palestine trong một nhà thờ Hồi giáo tại Trại tị nạn Dheisheh ở Bethlehem. Vào thời điểm đó, thái độ của người Hồi giáo đối với người Mỹ rất tiêu cực. Khi đang nói, tôi bỗng dưng nghe thấy những tiếng xì xầm ngày càng lan rộng trong khán giả. Người phiên dịch của tôi nói: “Họ đang nói ông là người Mỹ.” Bỗng dưng, một người đàn ông lao lên trước mặt tôi và hét: “Mày là quân giết người!.” Ngay lập tức, có hàng loạt giọng nói khác cùng vang lên: “Quân giết người! Bọn ám sát! Lũ sát hại trẻ con!”
 

@@ -1,12 +1,10 @@
-# **CHƯƠNG 5**
-
-![Chịu trách nhiém cho cam xtc cua minh](images/img_p089_641.jpg)
+# Chương 5: Chịu trách nhiệm cho cảm xúc của mình
 
 *“Người ta đau khổ không phải vì sự việc xảy ra, mà vì* *cách* *nhìn của họ về sự việc đó.”*
 
 —Triết gia Epictetus
 
-![Lắng nghe thông điệp ẩn giấu bên dưới cảm xúc của chính mình](images/img_p089_642.jpg)
+## Lắng nghe thông điệp ẩn giấu bên dưới cảm xúc của chính mình
 
 Yếu tố thứ ba của NVC đòi hỏi chúng ta chịu trách nhiệm cho những cảm xúc của mình. NVC giúp chúng ta nâng cao sự ý thức rằng hành vi hoặc lời nói của người khác chỉ có thể là *tác* *nhân kích thích*, chứ không bao giờ là *nguyên* *nhân*, của những cảm xúc bên trong chúng ta. Nguồn gốc của những cảm xúc bên trong chúng ta là cách chúng ta *lựa chọn phản ứng* đối với hành vi hoặc lời nói đó, cũng như những *nhu cầu* của chính chúng ta.
 
@@ -76,7 +74,7 @@ vì tôi” Ví dụ:
 
 Cơ chế cơ bản của việc tạo động lực bằng cảm giác tội lỗi là quy trách nhiệm về cảm xúc của mình cho người khác. Ví dụ, khi cha mẹ nói: “Bố mẹ rất buồn vì con đạt điểm kém”, họ ngụ ý rằng hành động của đứa trẻ  là nguyên  nhân  của  sự hạnh phúc hay bất hạnh của mình. Ẩn bên dưới điều đó, họ hy vọng đứa trẻ sẽ cảm thấy tội lỗi và nỗ lực học tập hơn. Tuy nhiên, nếu đứa trẻ nỗ lực học tập hơn theo kỳ vọng của bố mẹ, thì hành động đó không phải xuất phát từ trái tim, mà xuất phát từ việc nó muốn thoát khỏi cảm giác tội lỗi. Việc đó sẽ gây ảnh hưởng đến lòng tự trọng của đứa trẻ và mối quan hệ giữa nó và bố mẹ về lâu dài.
 
-![Nhu cầu là cội nguồn của cảm xúc](images/img_p095_668.jpg)
+## Nhu cầu là cội nguồn của cảm xúc
 
 Khi người ta nói những lời suy diễn, đổ lỗi, phán xét, chỉ trích người khác, thực ra là họ đang cố gắng bày tỏ nhu cầu của chính mình. Ví dụ, khi ai đó nói:“Bạn chẳng bao giờ hiểu tôi!”, người ấy chỉ đang cố gắng nói rằng nhu cầu được thấu  hiểu  của mình  đang không được đáp ứng. Khi một người vợ nói: “Anh lúc nào cũng đi làm về trễ; anh yêu công việc hơn tôi!”, cô ấy chỉ đang cố gắng nói rằng nhu cầu được quan tâm, kết nối của mình đang không được đáp ứng.
 
@@ -98,35 +96,35 @@ Một lần khác, tôi đến gặp một nhóm người Israel và Palestine, 
 
 Kinh nghiệm lặp đi lặp lại của tôi là kể từ thời điểm mà người ta bắt đầu bày tỏ nhu cầu của mình thay vì phán xét và chỉ trích người khác, khả năng tìm ra phương án để đáp ứng nhu cầu của tất cả các bên sẽ tăng lên rất nhiều. Dưới đây là một vài nhu cầu cơ bản của con người mà tất cả chúng ta đều có:
 
-![Sư tư trị](images/img_p097_677.png)
+### 1. Sự tự trị (Autonomy)
 
 Lựa chọn những ước mơ, mục tiêu, giá trị của riêng mình Lựa chọn kế hoạch để hiện thực hóa những ước mơ, mục tiêu, giá trị của riêng mình
 
-![Sự toàn vẹn](images/img_p097_678.png)
+### 2. Sự toàn vẹn (Integrity)
 
 Trở thành người đáng tin cậy Trở thành người có giá trị Sáng tạo Ý nghĩa
 
-![Sư kỷ niệm](images/img_p098_686.png)
+### 3. Sự kỷ niệm / Ăn mừng (Celebration)
 
 Kỷ niệm những cột mốc quan trọng Ăn mừng những thành công Tưởng nhớ những mất mát
 
-![Sư vu1 chơi](images/img_p098_687.png)
+### 4. Sự vui chơi (Play)
 
 Niềm vui Tiếng cười
 
-![Nuôi đưỡng tỉnh thần](images/img_p098_688.jpg)
+### 5. Nuôi dưỡng tinh thần (Spiritual Communion)
 
 Cái đẹp Cảm hứng Sự hài hòa Sự trật tự, ngăn nắp Sự yên tĩnh, bình an
 
-![Nuôi dưỡng thể chất](images/img_p098_689.jpg)
+### 6. Nuôi dưỡng thể chất (Physical Nurturance)
 
 Không khí Thức ăn Nước uống Vận động, thể dục Sự an toàn Nghỉ ngơi Sự thể hiện giới tính Chỗ ở
 
-![Mối quan hệ với người khác:](images/img_p099_701.jpg)
+### 7. Mối quan hệ tương hỗ (Interdependence)
 
 Sự chấp nhận Sự ghi nhận Sự kết nối Sự thuộc về Sự quan tâm Sự đóng góp Sự an toàn về cảm xúc Sự đồng cảm Sự trung thực Tình yêu thương Sự yên tâm Sự tôn trọng Sự hỗ trợ Sự tin tưởng Sự thấu hiểu Sự tử tế
 
-![Nỗi đau của việc kìm nén nhu cầu](images/img_p099_702.jpg)
+## Nỗi đau của việc kìm nén nhu cầu
 
 Ở nhiều nơi trên thế giới, khi người ta bày tỏ nhu cầu của mình, họ sẽ bị phán xét và chỉ trích, khiến việc bày tỏ cảm xúc trở nên đáng sợ đối với nhiều người. Điều này đặc biệt đúng đối với phụ nữ. Trong nhiều thế kỷ, phụ nữ đã được dạy để tin rằng họ cần phủ nhận và hy sinh những nhu cầu của bản thân để chăm sóc người khác, vì đó là nghĩa vụ quan trọng nhất của họ. Do đó, phụ nữ thường học cách phớt lờ và kìm nén nhu cầu của mình.
 
@@ -146,7 +144,7 @@ Chúng tôi cố gắng tìm hiểu tại sao việc bày tỏ nhu cầu lại k
 
 Mẹ tôi kể câu chuyện khi bà 14 tuổi, một người chị gái của bà phải mổ ruột thừa và sau đó được một người chị gái khác tặng một chiếc ví rất đẹp. Mẹ tôi khao khát có một chiếc ví giống như thế nhưng không dám nói. Bạn đoán xem chuyện gì xảy ra? Bà giả vờ bị đau bụng và đóng kịch trong nhiều ngày liền. Gia đình đưa bà đi khám nhiều bác sĩ, nhưng vì họ không thể tìm ra bệnh nên đã quyết định thực hiện phẫu thuật thăm dò. Đó là một canh bạc mạo hiểm của mẹ tôi, nhưng nó đã thành công – bà cũng được tặng một chiếc ví tương tự! Khi nhận được chiếc ví, bà rất vui mặc dù vẫn còn đau sau cuộc phẫu thuật. Sau đó, hai cô y tá bước vào. Một người đặt chiếc nhiệt kế vào miệng mẹ tôi. Bà nói: “Ummm, ummm” để khoe chiếc ví với cô y tá thứ hai. Cô này trả lời: “Ôi, con tặng cô hả? Cảm ơn con nhé!” và cầm lấy chiếc ví. Mẹ tôi quýnh quáng nhưng không thể nói: “Trả lại cho con! Trả lại cho con!” Câu chuyện này cho thấy chúng ta sẽ chịu nỗi đau lớn như thế nào khi kìm nén những nhu cầu của mình.
 
-![Từ Nô lệ cẩm xúc đến Tự do cẩm xúc](images/img_p102_716.jpg)
+## Từ Nô lệ cảm xúc đến Tự do cảm xúc
 
 Trong quá trình trưởng thành về mặt cảm xúc, phần lớn chúng ta sẽ trải qua ba giai đoạn trong cách tương tác với người khác:
 
@@ -188,7 +186,7 @@ Khi nghe điều đó, tôi lại cảm thấy có phần vui: con tôi đã ph�
 
 Ở giai đoạn này, chúng ta đáp lại những nhu cầu của người khác với năng lượng của lòng trắc ẩn, thay vì của sự sợ hãi, tội lỗi hay xấu hổ. Do đó, những hành động của chúng ta mang lại niềm hạnh phúc cho cả chúng ta và người khác. Chúng ta không chịu trách nhiệm cho cảm xúc của người khác, nhưng hoàn toàn chịu trách nhiệm cho những ý định và hành động của mình. Tại giai đoạn này, chúng ta nhận ra rằng mình không bao giờ có thể đáp ứng những nhu cầu của người khác bằng cách hy sinh những nhu cầu của bản thân. “Tự do cảm xúc” cũng bao gồm việc nói ra một cách rõ ràng những nhu cầu của mình, đồng thời thể hiện sự quan tâm đến những nhu cầu của người khác. NVC được thiết kế để giúp chúng ta đạt được mức độ trưởng thành về mặt cảm xúc này.
 
-![Tổng kết](images/img_p086_619.png)
+## Tổng kết
 
 Yếu tố thứ ba của NVC đòi hỏi chúng ta chịu trách nhiệm cho những cảm xúc của mình bằng cách bày tỏ những nhu cầu của mình. Hành vi hoặc lời nói của người khác chỉ có thể là *tác nhân kích thích*, chứ không bao giờ là *nguyên nhân*, của cảm xúc của chúng ta. Khi ai đó truyền đến chúng ta một thông điệp tiêu cực, chúng ta có bốn lựa chọn để tiếp nhận nó:
 
@@ -250,9 +248,7 @@ Học viên NVC: (*bày tỏ quan điểm của mình bằng* *NVC*) Chị biế
 
 Cuộc đối thoại tiếp tục và cuối cùng, cả hai người đều cảm thấy được thấu hiểu. Mối quan hệ của họ được củng cố vì đã chia sẻ quan điểm cho nhau mà không tạo ra sự đối địch. Nếu không có NVC, thì có thể mối quan hệ của họ đã trở nên xấu đi ngay từ những giây phút đầu tiên, và công việc tình nguyện mà họ cùng muốn làm đã bị ảnh hưởng.
 
-![Bài tập 3](images/img_p112_753.png)
-
-![BAY TO NHU CAU](images/img_p112_752.jpg)
+## Bài tập 3: Bày tỏ nhu cầu
 
 Trong bài tập sau, bạn hãy khoanh tròn các câu nói mà người nói đã chịu trách nhiệm cho cảm xúc của mình bằng cách bày tỏ nhu cầu của mình.
 

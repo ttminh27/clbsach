@@ -1,8 +1,5 @@
-# **CHƯƠNG 8**
-
-![Sức mạnh của sự đồng cẳm](images/img_p171_1130.jpg)
-
-![Đồng cảm giúp làm sống lại một cuộc trò chuyện](images/img_p171_1131.jpg)
+# Chương 8: Sức mạnh của sự đồng cảm
+### Đồng cảm giúp làm sống lại một cuộc trò chuyện
 
 Carl Rogers, nhà tâm lý học người Mỹ, nói về sức mạnh của không phán xét, không chịu trách nhiệm cho bạn, không cố gắng thay đổi bạn, điều đó mang lại cảm giác thật dễ chịu. Khi tôi được lắng nghe và đồng cảm, tôi có thể nhìn nhận vấn đề của mình theo cách khác để buông bỏ quá khứ và hướng đến tương lai. Thật kỳ diệu khi những điều tưởng như không thể giải quyết trở nên có thể, sự mơ hồ trở nên rõ ràng, sự tắc nghẽn trở nên thông suốt, khi ai đó đồng cảm với chúng ta.”
 
@@ -28,7 +25,7 @@ Khi tôi hỏi các giảng viên đã xử lý việc đó như thế nào, anh
 
 Khi làm việc trong những tổ chức có cấp bậc, chúng ta có khuynh hướng nghe thấy sự phán xét và ra lệnh từ những người cấp trên. Do đó, chúng ta có thể trở nên phòng thủ, thay vì đồng cảm, khi tiếp xúc với họ, mặc dù chúng ta có thể dễ dàng đồng cảm với những người đồng cấp hay cấp dưới. Vậy nên, tôi rất vui khi các giảng viên đã đồng cảm với thầy trưởng khoa cũng như với các sinh viên.
 
-![Sự đồng cẳm giúp con người mmở lòng với nhau hơn](images/img_p174_1148.jpg)
+## Sự đồng cảm giúp con người mở lòng với nhau hơn
 
 Trong NVC, nhiều khi chúng ta cảm thấy thật khó khăn khi phải mở lòng chia sẻ những cảm xúc và nhu cầu thầm kín của mình. Tuy nhiên, việc đó sẽ trở nên dễ dàng hơn nếu chúng ta bắt đầu bằng việc lắng nghe đồng cảm – kết nối với những cảm xúc và nhu cầu đằng sau lời nói của người khác – vì khi đó chúng ta nhận ra nhân tính của họ và những điểm chung của hai bên.
 
@@ -58,7 +55,7 @@ Tôi tiếp tục lắng nghe theo cách này, đôi khi diễn đạt lại b�
 
 Kinh ngạc, người tổ chức quay sang tôi và thì thầm: “Nhưng ông hầu như chẳng nói gì cả!” Trên thực tế, tôi đã nói rất nhiều bằng việc chứng minh rằng không có điều gì họ ném vào tôi mà không thể được diễn đạt lại dưới dạng những cảm xúc và nhu cầu phổ quát của con người.
 
-![Sự đồng cẳm giúp xoa dịu sự căng thẳng](images/img_p176_1157.jpg)
+## Sự đồng cảm giúp xoa dịu sự căng thẳng
 
 Trong những tình huống căng thẳng, sự đồng cảm có thể giúp làm giảm nguy cơ xảy ra bạo lực. Một giáo viên ở thành phố St. Louis (Mỹ) kể lại rằng một hôm nọ, sau giờ tan trường, cô ở lại lớp học để giúp một em học sinh. Một người đàn ông lạ mặt bỗng bước vào và hét lớn: “Cởi quần áo ra!”
 
@@ -122,7 +119,7 @@ Cô ấy đáp: “Bây giờ tôi cần ông giúp với một vấn đề khó
 
 Bạn thấy đấy, việc đồng cảm với những người gần gũi nhất với chúng ta lại có thể là việc khó khăn nhất.
 
-![Đồng cẩm khi người khác nói “Không”](images/img_p181_1179.jpg)
+## Đồng cảm khi người khác nói “Không”
 
 Khi chúng ta đưa ra một đề nghị với ai đó và họ từ chối làm theo, chúng ta có thể thấy mình bị bác bỏ. Tuy nhiên, nếu chúng ta lắng nghe những cảm xúc và nhu cầu đằng sau sự từ chối ấy, thì chúng ta có thể nhận ra những mong muốn chính đáng của người kia khiến họ không sẵn lòng làm theo đề nghị của chúng ta.
 
@@ -138,7 +135,7 @@ Cô ấy thừa nhận: “Đúng. Tôi tưởng tượng đến việc ngồi t
 
 Tôi nhận ra cách mình cho phản hồi trong khóa học đã khiến người phụ nữ này lo sợ, và cô ấy không muốn nhận sự phản hồi tương tự ở nơi công cộng. Tôi nói rằng tôi sẽ không làm như vậy, và hỏi xem tôi có thể cho phản hồi như thế nào để giúp cô ấy cảm thấy an toàn. Cuối cùng, cô ấy đã vui vẻ đi ăn kem cùng mọi người.
 
-![Sự đồng cẳm giúp mang lại sức sống cho cuộc nói chuyện](images/img_p183_1188.jpg)
+## Sự đồng cảm giúp mang lại sức sống cho cuộc nói chuyện
 
 Thỉnh thoảng, chúng ta sẽ thấy mình ở trong một cuộc nói chuyện thiếu sức sống, khi chúng ta không hề cảm thấy kết nối với người nói. Hiện tượng này thường xuyên xảy ra khi người ta nói mà không ý thức về những cảm xúc và mong muốn của mình. Khi đó, người nghe sẽ có cảm giác như mình là cái thùng rác cho những lời nói lan man, dông dài của họ.
 
@@ -164,7 +161,7 @@ Bạn có thể tự hỏi làm thế nào chúng ta có thể có lòng can đ�
 
 > **Đồng cảm với sự im lặng bằng cách lắng nghe những cảm xúc và nhu cầu đằng sau hành vi đó.**
 
-![Đồng cẩm với sự im lặng](images/img_p185_1197.jpg)
+## Đồng cảm với sự im lặng
 
 Đối với nhiều người trong chúng ta, sự im lặng là một trong những thông điệp khó để đồng cảm nhất. Điều này đặc biệt đúng khi chúng ta mở lòng bày tỏ những suy nghĩ và cảm xúc  thầm kín  của  mình  và muốn biết người kia phản ứng như thế nào với những điều đó. Khi ấy, chúng ta có thể dễ dàng suy diễn sự im lặng của họ, thay vì kết nối với những cảm xúc và nhu cầu đằng sau hành vi đó.
 
@@ -198,7 +195,7 @@ Tôi rất vui khi đọc điều đó. Cuối cùng, sau một giờ được k
 
 Tôi không ngừng ngạc nhiên về sức mạnh chữa lành của sự đồng cảm. Rất nhiều lần, tôi nhìn thấy người ta vượt qua nỗi đau tâm lý và những ảnh hưởng của nó khi họ nhận được đủ sự đồng cảm từ người khác. Là người nghe, chúng ta không nhất thiết phải hiểu về cách hoạt động của tâm lý hoặc được đào tạo về các phương pháp trị liệu. Điều thiết yếu là chúng ta có mặt và kết nối với những cảm xúc và nhu cầu mà người nói đang trải qua.
 
-![Tổng kết](images/img_p162_1046.png)
+## Tổng kết
 
 Sự đồng cảm giúp chúng ta mở lòng với người khác, xoa dịu sự căng thẳng, mang lại sức sống cho cuộc nói chuyện, lắng nghe sự từ chối và sự im lặng. Rất nhiều lần, người ta vượt qua nỗi đau tâm lý và những ảnh hưởng của nó khi họ nhận được đủ sự đồng cảm từ người khác.
 

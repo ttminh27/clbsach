@@ -1,10 +1,8 @@
-# **CHƯƠNG 4**
-
-![Xác định và bày tỏ cảm xúc](images/img_p073_545.jpg)
+# Chương 4: Xác định và bày tỏ cảm xúc
 
 Yếu tố đầu tiên của NVC là quan sát mà không đánh giá; yếu tố thứ hai là bày tỏ cảm xúc của mình. Nhà tâm lý học Rollo May nói: “Một người trưởng thành có thể phân biệt giữa nhiều sắc thái cảm xúc khác nhau: có những cảm xúc rõ ràng và mạnh mẽ; có những cảm xúc mơ hồ và vi tế, cũng giống như những đoạn khác nhau trong một bản giao hưởng với vô vàn âm sắc.” Tuy nhiên, Rollo cũng nói rằng, đối với nhiều người trong chúng ta, “cảm xúc bị giới hạn giống như những nốt nhạc của một hiệu lệnh kèn.”
 
-![Cái giá đắt của những cảm xúc bị kìm nén](images/img_p073_546.jpg)
+## Cái giá đắt của những cảm xúc bị kìm nén
 
 Tôi quan sát thấy rằng, số từ vựng dùng để đánh giá người khác thường lớn hơn số từ vựng dùng để miêu tả trạng thái cảm xúc của bản thân. Trong 21 năm đi học ở Mỹ, tôi không thể nhớ có bất kỳ ai từng hỏi tôi đang cảm thấy như thế nào. Cảm xúc đơn giản là không được xem trọng. Điều được xem trọng là “suy nghĩ / lời nói / hành vi nào là đúng hay sai” – được xác định bởi những người nắm giữ quyền lực. Từ nhỏ, chúng ta đã được dạy “hướng về người khác” thay vì kết nối với bản thân. Thay vì “ở lại với trái tim”, chúng ta đã được rèn luyện “đi lên cái đầu” và tự hỏi “Điều gì mà người khác nghĩ rằng mình nên làm?”
 
@@ -38,9 +36,7 @@ Tôi tiếp tục giảng, nhưng dường như không ai nghe. Một nữ sinh 
 
 Tôi thừa nhận: “Thầy đang cảm thấy căng thẳng... nhưng không phải vì các em là người da màu, mà vì thầy không biết bất kỳ ai ở đây và thầy muốn có sự kết nối với các em.” Việc tôi mở lòng bày tỏ cảm xúc của mình đã tạo ra tác động rõ ràng đối với các sinh viên. Các em bắt đầu đặt câu hỏi về tôi, kể tôi nghe về mình, và bày tỏ sự tò mò về NVC.
 
-![Phân biệt những từ miêu tả cảm xúc và những từ không miêu tả cảm xúc](images/img_p078_569.jpg)
-
-![Tniêu t4 cảm XÚC](images/img_p078_570.jpg)
+## Phân biệt những từ miêu tả cảm xúc và những từ không miêu tả cảm xúc
 
 Rất nhiều khi, chúng ta sử dụng từ *cảm thấy* nhưng không thực sự bày tỏ một cảm xúc. Đây là một sự nhầm lẫn phổ biến. Ví dụ, trong câu nói: “Tôi cảm thấy mình đã bị đối xử bất công”, nếu thay những từ *Tôi cảm thấy* bằng *Tôi* *nghĩ* thì sẽ chính xác hơn. Nhìn chung, chúng ta đang không bày tỏ cảm xúc một cách rõ ràng nếu nói những từ sau theo sau từ *cảm thấy*:
 
@@ -102,39 +98,72 @@ Một lần nữa, từ “bị phớt lờ” miêu tả sự suy diễn về h
 
 Tương tự như những từ “không được xem trọng”, “bị hiểu lầm”, “bị phớt lờ”, sau đây là những từ miêu tả *sự đánh giá hoặc suy diễn về hành vi của người* *khác* thay vì một *cảm xúc thực sự*:
 
-![Từ ngữ miêu tả sự suy diễn / đánh giá thay vì cảm xúc thực sự](images/img_p082_588.jpg)
-
-![Phát triển vốn từ vựng cảm xúc](images/img_p082_587.jpg)
+## Phát triển vốn từ vựng cảm xúc
 
 Khi bày tỏ cảm xúc, những từ miêu tả cảm xúc cụ thể sẽ có ích hơn những từ mơ hồ hoặc chung chung. Ví dụ, khi chúng ta nói: “Tôi cảm thấy *tốt* về điều đó”, từ “tốt” có thể có nghĩa là hạnh phúc, hào hứng, nhẹ nhõm v.v... Những từ như “tốt” hoặc “tệ” có thể khiến người nghe khó kết nối với cảm xúc thực sự của chúng ta.
 
 Hai danh sách dưới đây sẽ giúp bạn nâng cao khả năng xác định và bày tỏ những cảm xúc khác nhau của mình:
 
-![Khi nhu cầu của bản thân được đáp ứng, chúng ta có khuynh](images/img_p083_596.jpg)
+### 1. Khi nhu cầu của bản thân được đáp ứng, chúng ta có khuynh hướng cảm thấy:
 
-![hướng cẩm thấy...](images/img_p083_594.jpg)
+| | | | |
+| :--- | :--- | :--- | :--- |
+| an toàn | đầy cảm hứng | hoan hỉ | nhẹ nhõm |
+| an vui | đầy động lực | hồ hởi | thanh thản |
+| ấm áp | đầy năng lượng | hứng khởi | tự hào |
+| bằng lòng | tràn đầy sức sống | hy vọng | nhiệt huyết |
+| bất ngờ | dễ chịu | khoái chí | thích thú |
+| biết ơn | điềm tĩnh | kinh ngạc | tự tin |
+| bình an | hả hê | lạc quan | phấn chấn |
+| bình thản | hài lòng | mãn nguyện | thỏa mãn |
+| bình tĩnh | hạnh phúc | minh mẫn | tươi tỉnh |
+| can đảm | hân hoan | mong đợi | phấn khích |
+| cảm động | hăng hái | mừng rỡ | thoải mái |
+| choáng ngợp | hào hứng | ngạc nhiên | tuyệt vời |
+| đắc chí | háo hức | ngây ngất | phấn khởi |
+| thư thái | tin tưởng | quyết tâm | tỉnh táo |
+| sáng suốt | toại nguyện | vui mừng | say mê |
+| tò mò | vui sướng | sôi nổi | trân trọng |
+| vui vẻ | sung sướng | trìu mến | xúc động |
 
-![an toàn đây cảm hứng hoan hi  an vui đây động lực hồ hởi  ấm áp đây năng lượng — hứng khởi bằng lòng. đây sức sống hy vọng bất ngờ dễ chịu khoái chí biết ơn. điểm tỉnh kinh ngạc bình an. hả hê lạc quan bình thản. hài lòng, mãn nguyện bình tính hạnh phúc minh min can đảm. hân hoan mong đợi cam dong hang hai mừng rỡ choáng ngợp. ham ho ngạc nhiên đắc chí háo hức ngây ngất](images/img_p083_595.jpg)
+### 2. Khi nhu cầu của bản thân KHÔNG được đáp ứng, chúng ta có khuynh hướng cảm thấy:
 
-![nhẹ nhôm. thanh thoi tự hào. nhiệt huyết thích thú tutin phấn chấn thỏa mãn. tươi tỉnh phấn khích thoải mái tuyệt vời phấn khởi thư thái mae quan tim tin tưởng callers quyết tâm. tỉnh táo. .  sáng suốt. toại nguyện. vai mừng say mê tò mò vui sướng sôi nổi trân trong vui vẻ sung sướng, trìu mến xúc động, thanh thản tudo a](images/img_p084_607.jpg)
+| | | | |
+| :--- | :--- | :--- | :--- |
+| ấm ức | bất ổn | bực dọc | ân hận |
+| bi quan | bực mình | ăn năn | bối rối |
+| bực tức | âu sầu | bơ phờ | buồn ngủ |
+| băn khoăn | bồn chồn | bứt rứt | bất an |
+| buồn bã | căng thẳng | bất bình | buồn phiền |
+| cáu giận | bất hạnh | buồn tẻ | cay đắng |
+| bất mãn | buồn rầu | chán chường | bực bội |
+| chán nản | hoài nghi | nản lòng | chán ngán |
+| hối hận | nặng nề | chua cay | hối tiếc |
+| ngần ngại | chua xót | hồi hộp | ngấm ngầm |
+| cô đơn | khó chịu | nghi ngờ | cực khổ |
+| khổ sở | nghi hoặc | dao động | khó ở |
+| ngại ngần | đắn đo | kích động | nhàm chán |
+| đau buồn | kiệt sức | ngạc nhiên | đau đớn |
+| ngờ vực | đau khổ | kinh hãi | nhục nhã |
+| day dứt | kinh tởm | phân vân | điên tiết |
+| lãnh đạm | phấp phỏng | do dự | lo âu |
+| phiền lòng | e dè | lo lắng | phiền muộn |
+| e ngại | lo ngại | phờ phạc | e sợ |
+| lúng túng | quá tải | ghê tởm | lờ phờ |
+| rã rời | ghen tị | sợ hãi | giận dữ |
+| mệt lử | hoang mang | mệt mỏi | hoảng hốt |
+| miễn cưỡng | sôi sục | hoảng loạn | sốt ruột |
+| hoảng sợ | thất vọng | thấp thỏm | tổn thương |
+| uất ức | thiếu kiên nhẫn | trầm cảm | uể oải |
+| thờ ơ | tức giận | thoái chí | tức tối |
+| xấu hổ | tiếc nuối | tủi nhục | xót xa |
+| tội lỗi | tuyệt vọng | | |
 
-![Bài tập 2](images/img_p084_604.jpg)
-
-![BÀY TỎ CẢM XÚC](images/img_p084_605.jpg)
-
-![ấm ức bất ồn bực đọc.  ân hận bị quan bực mình. an nan bối rối bực tức  âu sấu bơ phờ buồn ngủ. bản khoán bồn chén bứt rút  bất an buổn bã căng thẳng bất bình buôn phiên cáu giận  bất hạnh buôn tẻ cay đắng, bất man buồn râu. chan chit bất ngờ bực bội chán chường](images/img_p084_606.jpg)
-
-![chán nản hoài nghỉ nản lòng chán ngán hối hận nang né chua cay hối tiếc ngắn ngại chua xót. hỏi hộp ngần ngầm cô đơn khó chịu nghỉ ngờ cực khó khổ sở nghỉ hoặc dao động khóở nghỉ ngại din do kích động, nhàm chán đau buôn kiệt sức ngạc nhiên đau đón kinh ngạc ngờ vực đau khổ kinh hái nhục nha day ditt kinh tôm phân vân điên tiết lãnh đạm. phấp phỏng do dự Jo au phiền lòng ede loláng phiền muộn e ngại longại phd phac esg long quá tải  ghê tôm lờ phờ rả rồi  ghen ti Tang túng rắn  ghê sợ Mời biếng rối loạn giận dữ mệt lử sợ hãi hoang mang, một môi sốc  hoảng hốt miễn cường, sôi sục hoảng loạn muy mam sốt ruột hoảng sợ. muy mj thất vọng.](images/img_p085_615.jpg)
-
-![thấp thom tồn thương tất ức thiếu kiên nhẫn  trấm cảm. ủê thờ ơ tức giận tể oải thoái chí tức tối xấu hồ tiếc nuối tủi nhục Xót xa tội lỗi tuyệt vọng. we](images/img_p086_622.jpg)
-
-![Tổng kết](images/img_p086_619.png)
+## Tổng kết
 
 Yếu tố thứ hai của NVC là *cảm xúc*. Việc mở lòng bày tỏ cảm xúc có thể giúp giải quyết mâu thuẫn. NVC phân biệt giữa những từ miêu tả *cảm xúc thực sự* và những từ miêu tả *suy nghĩ*, *sự suy diễn và đánh giá*. Việc phát triển vốn từ vựng cảm xúc sẽ giúp bạn nâng cao khả năng xác định và bày tỏ những cảm xúc khác nhau của mình, từ đó kết nối với bản thân và với người khác một cách dễ dàng hơn.
 
-![Chịu trách nhiệm cho cảm xúc của mình](images/img_p086_620.png)
-
-![BÀY TỎ CẢM XÚC](images/img_p086_621.jpg)
+## Bài tập 2: Bày tỏ cảm xúc
 
 Trong bài tập sau, bạn hãy khoanh tròn các câu nói bày tỏ *cảm xúc thực sự*.
 
@@ -158,7 +187,7 @@ Trong bài tập sau, bạn hãy khoanh tròn các câu nói bày tỏ *cảm x�
 
 10. “Tôi cảm thấy vô dụng.”
 
-![Dưới đây là câu trả lời của tôi cho Bài tập 2:](images/img_p087_632.jpg)
+### Lời giải đáp cho Bài tập 2
 
 1. Nếu bạn khoanh tròn câu này, thì chúng ta không có cùng quan điểm. *Đối với tôi*, “anh không còn yêu tôi nữa” không phải là một cảm xúc, mà là suy nghĩ của người nói về cảm xúc của người kia. Như bạn đã biết, nhìn chung, chúng ta đang không bày tỏ cảm xúc một cách rõ ràng nếu nói những từ sau theo sau từ “cảm thấy”: tôi, bạn, anh ấy, cô ấy, họ, nó, rằng, *giống như*, *như thể*. Trong tình huống này, người nói có thể bày tỏ cảm xúc bằng cách nói: “Em cảm thấy buồn” hoặc “Em cảm thấy đau khổ.”
 

@@ -1,6 +1,4 @@
-# **CHƯƠNG 3**
-
-![Quan sát mà không đánh giá](images/img_p056_442.jpg)
+# Chương 3: Quan sát mà không đánh giá
 
 *“QUAN SÁT! Đó là một trong những điều quan trọng* *nhất* *trong cuộc sống.”*
 
@@ -78,7 +76,7 @@ Ruth Bebermeyer, một đồng nghiệp của tôi, sáng tác bài thơ sau đ�
 
 Bạn thấy đấy, trong khi tác động của những nhãn dán tiêu cực như “lười biếng” và “ngu ngốc” có thể là rõ ràng, những nhãn dán tích cực hoặc trung lập như “đầu bếp” cũng có thể khiến sự nhận thức của chúng ta về tính tổng thể của một sự vật hay con người trở nên giới hạn.
 
-![Loại hình thông minh cao nhất của con người](images/img_p060_460.jpg)
+## Loại hình thông minh cao nhất của con người
 
 Triết gia người Ấn Độ J. Krishnamurti từng nói: “Quan sát mà không đánh giá là loại hình thông minh cao nhất của con người.” Khi đọc câu này lần đầu tiên, tôi lập tức nghĩ “Nhảm nhí!”, rồi nhận ra rằng mình vừa đưa ra một đánh giá! Đối với hầu hết chúng ta, việc chỉ quan sát, đặc biệt là quan sát con người và hành vi của họ, mà không thêm vào bất kỳ sự đánh giá, bình phẩm, phán xét nào là không dễ dàng.
 
@@ -94,7 +92,7 @@ Trong cuộc họp chung, tôi đã sớm thấy điều mà các giáo viên n�
 
 Bạn thấy đấy, việc từ bỏ thói quen cũ và rèn luyện khả năng tách biệt *quan sát* với đánh giá không phải lúc nào cũng dễ dàng. Cuối cùng, các giáo viên cũng làm rõ được cho thầy hiệu trưởng về hành vi của mình. Thầy hiệu trưởng lắng nghe một cách nghiêm túc và nói: “Sao trước đây các anh chị không cho tôi biết?” Ông ấy thừa nhận mình có thói quen kể chuyện, rồi bắt đầu... kể một câu chuyện liên quan đến thói quen này! Tôi ngắt lời và nhẹ nhàng nói rằng ông ấy lại làm như vậy. Vào cuối cuộc họp, chúng tôi thảo luận về việc trong tương lai, nếu các giáo viên muốn cho thầy hiệu trưởng biết rằng họ đang không thoải mái với những câu chuyện của thầy, thì họ có thể làm điều đó như thế nào.
 
-![Tách biệt Quan sát với Đánh giá](images/img_p063_472.jpg)
+## Tách biệt Quan sát với Đánh giá
 
 Bảng sau cho thấy cách tách biệt *quan sát* với *đánh* *giá*:
 
@@ -159,9 +157,7 @@ Phil: Có.
 
 **Tôi:** (*đã hiểu rõ về quan sát, cảm xúc, nhu cầu và* *đề nghị của Phil, tôi hướng sự chú ý vào bên* *trong để xem tôi có sẵn lòng làm theo lời đề nghị* *ấy không*) Đúng, tôi cũng nhiều lần gặp khó khăn, thậm chí hoàn toàn quên đi những điều mình đã dạy. Trong chương trình này, tôi sẽ kể về những lần đó. Điều giúp tôi vượt qua và tiếp tục rèn luyện là khi sống với tinh thần của phương pháp này, các mối quan hệ của tôi được cải thiện rất nhiều.
 
-![Bài tập 1](images/img_p068_521.png)
-
-![QUAN SÁT HAY ĐÁNH GIÁ?](images/img_p068_522.jpg)
+## Bài tập 1: Quan sát hay Đánh giá?
 
 Trong bài tập sau, bạn hãy khoanh tròn các câu nói chỉ có *quan sát*, không bị trộn lẫn với *đánh giá*.
 
@@ -207,7 +203,7 @@ Trong bài tập sau, bạn hãy khoanh tròn các câu nói chỉ có *quan sá
 
 10. Nếu bạn khoanh tròn câu này, thì chúng ta không có cùng quan điểm. *Tôi cho rằng “phàn nàn” là* *một đánh giá*. Người nói có thể tách biệt *quan sát* với *đánh giá* bằng cách nói: “Tuần này, cô tôi gọi điện thoại cho tôi ba lần, và mỗi lần đều nói về những người *đã cư xử* với cô theo cách cô không thích.”
 
-![MÁT NẠ](images/img_p071_536.png)
+### Bài thơ: Mặt nạ (Ruth Bebermeyer)
 
 > *Có một người* *Luôn giữ mặt* *nạ*
 >

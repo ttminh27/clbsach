@@ -1,8 +1,5 @@
-# **CHƯƠNG 13**
-
-![Giải phóng bản thân và hỗ trợ người khác](images/img_p280_1684.jpg)
-
-![Giải phóng bản thân khỏi những niềm tin và khuôn mẫu thói quen cũ](images/img_p280_1685.jpg)
+# Chương 13: Giải phóng bản thân và hỗ trợ người khác
+### Giải phóng bản thân khỏi những niềm tin và khuôn mẫu thói quen cũ
 
 Tất cả chúng ta đều đã được dạy những niềm tin và khuôn mẫu thói quen gây Trải qua nhiều thế hệ, thậm chí nhiều thế kỷ, phần lớn những niềm tin và khuôn mẫu thói quen do xã hội áp đặt này đã ăn sâu vào cuộc sống của chúng ta đến nỗi chúng ta không còn ý thức về sự hiện diện của chúng. Điều này giống như việc diễn viên hài Buddy Hackett, người . Do đó, chúng ta cần rất nhiều sự nhận thức và nỗ lực để nhận ra những niềm tin và khuôn mẫu thói quen này; rồi chuyển hóa chúng thành những suy nghĩ và hành vi có ích đối với cuộc đời mình.
 
@@ -10,7 +7,7 @@ Sự chuyển hóa này đòi hỏi chúng ta kết nối với những nhu cầ
 
 Bằng cách khuyến khích chúng ta phân biệt giữa “quan sát” và “đánh giá”, nhận ra những suy nghĩ hoặc nhu cầu đằng sau những cảm xúc của mình, và đưa ra đề nghị bằng “ngôn ngữ hành động” rõ ràng, NVC giúp chúng ta nâng cao khả năng ý thức về những niềm tin và khuôn mẫu thói quen do xã hội áp đặt lên mình. Và việc ý thức về chúng là một bước quan trọng để phá vỡ sự ảnh hưởng của chúng lên chúng ta.
 
-![Giải quyết những xung đột bên trong](images/img_p281_1711.jpg)
+## Giải quyết những xung đột bên trong
 
 NVC có thể giúp chúng ta giải quyết những xung đột bên trong chính mình. Trong cuốn sách *The* *Revolution in Psychiatry* (tạm dịch: *Cuộc cách mạng* *trong tâm thần học*), tác giả Ernest Becker viết rằng những xung đột bên trong này thường là nguyên nhân của sự trầm cảm. Điều này là bởi khi chúng ta bị mắc kẹt trong một cuộc đối thoại bao gồm những “giọng nói” phán xét và mâu thuẫn với nhau trong tâm trí, chúng ta không nhận ra những nhu cầu của mình và do đó không thể nhìn thấy những sự lựa chọn để đáp ứng chúng. Sự trầm cảm cho thấy chúng ta đang bị ngắt kết nối với những nhu cầu của chính mình.
 
@@ -32,7 +29,7 @@ Sau đó, tôi yêu cầu cô ấy làm điều tương tự đối với câu n
 
 Người phụ nữ này cảm thấy nhẹ nhõm rất nhiều ngay khi cô ấy dịch những “giọng nói” phán xét và mâu thuẫn với nhau trong tâm trí mình sang ngôn ngữ NVC. Cô ấy đã có thể hiểu những nhu cầu đằng sau chúng và trao cho bản thân sự đồng cảm. Mặc dù cô ấy vẫn phải đối mặt với những thách thức, chẳng hạn như đảm bảo dịch vụ trông trẻ có chất lượng tốt, cô ấy không còn trở nên bất lực và trầm cảm khi có sự xung đột xảy ra bên trong mình.
 
-![Nuôi dưỡng sự bình an trong tâm trí](images/img_p283_1720.jpg)
+## Nuôi dưỡng sự bình an trong tâm trí
 
 Khi chúng ta bị mắc kẹt trong những suy nghĩ phán xét và chỉ trích, việc tạo ra một môi trường bên trong lành mạnh trở nên thật khó khăn. NVC giúp chúng ta nuôi dưỡng được nhiều sự bình an trong tâm trí hơn bằng cách khuyến khích chúng ta tập trung vào điều mình thực sự muốn thay vì vào những lỗi sai của bản thân hoặc của người khác.
 
@@ -52,7 +49,7 @@ Cuối cùng, tôi cũng học được cách diễn đạt lại những sự p
 
 Sau đó, tôi cũng thực hành đồng cảm với những người lái xe khác và được hưởng lợi từ việc làm đó. Lần nọ, xe tôi bị mắc kẹt sau một chiếc xe chạy chậm hơn rất nhiều so với tốc độ quy định và cứ dừng lại mỗi khi đến một ngã ba. Trong lúc bực bội càu nhàu: “Chẳng thể nào lái được!”, tôi nhận ra sự căng thẳng mà tôi đang tự tạo ra cho chính mình. Do đó, tôi dừng lại và chuyển sự chú ý sang những cảm xúc và nhu cầu của người lái xe kia. Tôi đoán người đó đang lạc đường, cảm thấy bối rối và mong những người lái xe khác kiên nhẫn một chút. Lát sau, khi đã có thể lái xe vượt lên, tôi mới thấy đó là một bà già – chắc phải ngoài 80 tuổi – với vẻ mặt hoảng sợ. Tôi cảm thấy vui vì mình đã thực hành đồng cảm, thay vì bấm còi inh ỏi hoặc làm những việc theo thói quen khác để thể hiện sự bất mãn đối với những người có cách lái xe mà tôi không thích.
 
-![Thay thế sự chẩn đoán bằng NVC](images/img_p286_1732.jpg)
+## Thay thế sự chẩn đoán bằng NVC
 
 Nhiều năm trước, sau khi đầu tư chín năm cuộc đời vào việc học tập và đạt những bằng cấp để trở thành một nhà trị liệu tâm lý, tôi tình cờ xem cuộc đối thoại giữa triết gia người Israel Martin Buber, và nhà tâm lý học người Mỹ Carl Rogers. Vào thời điểm đó, Buber đến nước Mỹ và được mời tham gia một cuộc thảo luận cùng Carl Rogers tại một bệnh viện tâm thần trước một nhóm các chuyên gia sức khỏe tâm thần.
 
@@ -86,7 +83,7 @@ Sau đó, một vài khán giả khác đề nghị thực hiện một phiên l
 
 Tóm lại, bằng cách áp dụng sự nhận thức và các kỹ năng của NVC, chúng ta có thể hỗ trợ người khác trong những mối quan hệ chân thành, cởi mở và kết nối, thay vì những mối quan hệ công việc dựa trên sự chẩn đoán và xa cách cảm xúc.
 
-![Tổng kết](images/img_p292_1754.png)
+## Tổng kết
 
 Với NVC, chúng ta có thể thoát khỏi sự trầm cảm bằng cách nhận ra những cảm xúc và nhu cầu đằng sau những thông điệp tiêu cực bên trong và đồng cảm với chúng. NVC cũng giúp chúng ta nuôi dưỡng được nhiều sự bình an trong tâm trí hơn bằng cách khuyến khích chúng ta tập trung vào điều mình thực sự muốn thay vì vào những lỗi sai của bản thân hoặc của người khác. Những người làm nghề tư vấn hoặc trị liệu tâm lý cũng có thể sử dụng NVC để tạo ra những mối quan hệ chân thành, cởi mở và kết nối với khách hàng của mình.
 

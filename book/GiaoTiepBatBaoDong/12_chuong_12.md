@@ -1,14 +1,11 @@
-# **CHƯƠNG 12**
-
-![Dùng vũ lực với mục đích bảo vệ](images/img_p265_1597.jpg)
-
-![Khi việc dùng vũ lực là cần thiết](images/img_p265_1598.jpg)
+# Chương 12: Dùng vũ lực với mục đích bảo vệ
+### Khi việc dùng vũ lực là cần thiết
 
 Khi các bên xung đột có cơ hội bày tỏ những nhu cầu của mình một cách đầy đủ, và lắng nghe đồng cảm với những nhu cầu của bên kia, họ sẽ thường có thể tìm ra những cách thức để đáp ứng chúng. Hoặc ít nhất, họ có thể đồng ý, trong sự thiện chí và tôn trọng, rằng họ bất đồng quan điểm với nhau.
 
 Tuy nhiên, trong một vài trường hợp, cơ hội để có cuộc đối thoại như thế có thể không tồn tại, và việc dùng vũ lực có thể là cần thiết để bảo vệ sinh mạng hoặc quyền con người. Ví dụ, nếu bên kia không sẵn lòng đối thoại, hoặc mối nguy hiểm đang cận kề không cho phép thời gian để nói chuyện, thì chúng ta có thể cần dùng đến vũ lực. Nếu chúng ta làm như vậy, thì NVC đòi hỏi chúng ta phân biệt giữa “vũ lực với mục đích bảo vệ” và “vũ lực với mục đích trừng phạt.”
 
-![Ý định đằng sau việc dùng vũ lực](images/img_p265_1599.jpg)
+## Ý định đằng sau việc dùng vũ lực
 
 Khi dùng “vũ lực với mục đích bảo vệ”, chủ đích của chúng ta là bảo vệ sinh mạng hoặc quyền con người. Khi dùng “vũ lực với mục đích trừng phạt”, chủ đích của chúng ta là bắt người khác trả giá vì “lỗi lầm” của họ. Ví dụ, nếu con cái chúng ta chạy ra đường và chúng ta giữ chúng lại để chúng không bị thương, thì chúng ta đang dùng “vũ lực với mục đích bảo vệ.” Ngược lại, nếu chúng ta tấn công đứa bé về mặt thể chất hoặc tinh thần, chẳng hạn như đánh đòn hoặc nói “Sao mày ngu ngốc vậy? Mày nên cảm thấy xấu hổ!”, thì chúng ta đang dùng “vũ lực với mục đích trừng phạt.”
 
@@ -16,7 +13,7 @@ Khi dùng “vũ lực với mục đích bảo vệ”, chúng ta tập trung v
 
 Ngược lại, việc dùng “vũ lực với mục đích trừng phạt” được dựa trên giả định rằng người ta phạm lỗi vì bản chất của họ là xấu xa, và do đó họ “xứng đáng” bị trừng phạt. Sự trừng phạt được thực hiện với chủ đích để bắt họ (1) chịu đau khổ đủ để nhận ra hành vi của mình là sai, (2) hối hận, và (3) thay đổi. Tuy nhiên, trên thực tế, thay vì tạo ra sự ăn năn và học hỏi, sự trừng phạt lại có khuynh hướng tạo ra sự oán giận, thù hận và chống đối.
 
-![Các loại “vũ lực với mục đích trừng phạt”](images/img_p268_1615.jpg)
+## Các loại “vũ lực với mục đích trừng phạt”
 
 Sự trừng phạt thể xác, chẳng hạn như đánh đòn, là một loại “vũ lực với mục đích trừng phạt.” Tôi thấy chủ đề “dạy con bằng đòn roi” thường tạo ra những quan điểm trái chiều ở các bậc phụ huynh. Nhiều người ủng hộ nó, tin rằng đánh đòn là sự thể hiện tình yêu thương dành cho con cái, và thậm chí còn trích dẫn câu châm ngôn: “Thương cho roi cho vọt.” Những người khác lại phản đối, tin rằng đòn roi không hiệu quả vì nó dạy bọn trẻ rằng khi mọi biện pháp khác thất bại, chúng ta luôn có thể dùng đến bạo lực.
 
@@ -30,7 +27,7 @@ Thứ nhất, tôi tự hỏi liệu những người tuyên bố sự thành c�
 
 Bên cạnh sự trừng phạt thể xác còn có một vài loại “vũ lực với mục đích trừng phạt” khác. Một loại là chỉ trích để hạ thấp nhân phẩm người khác; chẳng hạn như bố mẹ dán nhãn con mình là “hư đốn”, “ích kỷ”, hay “ngu ngốc” khi đứa bé không hành xử theo một cách nào đó. Một loại khác là tước đi một quyền lợi nào đó, chẳng hạn như cắt tiền tiêu vặt hoặc cấm đi chơi. Đặc biệt, việc không còn dành sự quan tâm hoặc tôn trọng là một trong những mối đe dọa mạnh mẽ nhất.
 
-![Cái giá của sự trừng phạt](images/img_p270_1624.jpg)
+## Cái giá của sự trừng phạt
 
 Khi chúng ta làm một điều gì đó chỉ để tránh bị trừng phạt, chúng ta không còn để tâm vào  giá  trị  của chính  hành động đó. Thay vào đó, chúng ta tập trung vào hậu quả, điều có thể xảy ra nếu chúng ta không thực hiện nó. Chẳng hạn, nếu một người nhân viên làm  việc  để  tránh  bị trừng phạt, thì công việc có thể được hoàn thành, nhưng tinh thần của người đó sẽ bị ảnh hưởng; và sớm hay muộn, kết quả công việc cũng sẽ giảm sút. Bên cạnh đó, lòng tự trọng cũng bị ảnh hưởng khi sự trừng phạt được sử dụng. Ví dụ, nếu một đứa bé đánh răng vì sợ bị mắng nhiếc, thì sức khỏe răng miệng có thể cải thiện, nhưng lòng tự trọng của nó sẽ bị bào mòn. Hơn nữa, như chúng ta đã biết, sự trừng phạt làm giảm thiện chí. Người khác càng thấy chúng ta như những người ưa trừng phạt, họ càng không muốn đáp lại những nhu cầu của chúng ta với lòng trắc ẩn.
 
@@ -40,13 +37,13 @@ Trong những tình huống như vậy, tôi cho rằng điều đầu tiên ch�
 
 > **Sự trừng phạt gây ảnh hưởng tiêu cực đến thiện chí và lòng tự trọng, đồng thời khiến người ta tập trung vào hậu quả bên ngoài, thay vì vào giá trị bên trong của một hành động nào đó.**
 
-![Hai câu hỏi cho thấy những hạn chế của sự trừng phạt](images/img_p271_1630.jpg)
+## Hai câu hỏi cho thấy những hạn chế của sự trừng phạt
 
 Có hai câu hỏi giúp chúng ta thấy lý do tại sao chúng ta ít có khả năng đạt được điều mình muốn bằng cách sử dụng sự trừng phạt để thay đổi hành vi con người. Câu hỏi thứ nhất là: *Tôi muốn người này làm gì khác* *đi?* Nếu chúng ta chỉ hỏi câu hỏi này thì sự trừng phạt có vẻ hiệu quả. Tuy nhiên, với câu hỏi thứ hai, chúng ta sẽ thấy rõ rằng nó không hề hiệu quả: *Tôi muốn lý do của họ khi làm điều đó là gì?*
 
 Chúng ta hiếm khi nghĩ đến câu hỏi thứ hai, nhưng khi làm như vậy, chúng ta sớm nhận ra rằng sự trừng phạt làm giảm khả năng người ta hành động xuất phát những động lực mà chúng ta muốn khơi dậy bên trong họ. Ví dụ, nếu chúng ta muốn con mình dọn dẹp nhà cửa và muốn chúng làm điều đó xuất phát từ sự nhận thức về giá trị của sự ngăn nắp và sạch sẽ đối với bản thân chúng và các thành viên khác trong gia đình, thì sự trừng phạt rõ ràng là không hiệu quả. Trên thực tế, nhiều đứa trẻ dọn dẹp nhà cửa một cách miễn cưỡng chỉ để khỏi bị bố mẹ trừng phạt. Ngược lại, NVC giúp nâng cao sự nhận thức về giá trị nội tại của mỗi việc chúng ta làm đối với chính mình và người khác.
 
-![Dùng “vũ lực với mục đích bảo vệ” trong trường học](images/img_p272_1636.jpg)
+## Dùng “vũ lực với mục đích bảo vệ” trong trường học
 
 Tôi muốn miêu tả cách mà tôi và một vài học sinh đã dùng “vũ lực với mục đích bảo vệ” để thiết lập lại trật tự trong một trường học đặc biệt được thiết kế dành riêng cho những học sinh đã bỏ học hoặc bị đuổi học từ các trường khác. Ban giám hiệu muốn xây dựng ngôi trường này dựa trên các nguyên tắc của NVC nên đã mời tôi dạy các kỹ năng của NVC cho đội ngũ giảng viên và làm cố vấn trong một năm. Trong một vài tuần lễ đầu tiên, vì không có nhiều thời gian, nên tôi đã không thể làm rõ một cách đầy đủ sự khác nhau giữa NVC và sự dễ dãi. Vậy nên, một vài giảng viên đã phớt lờ, thay vì can thiệp vào những tình huống mà các học sinh xung đột với nhau hoặc có hành vi gây rối. Vấn đề ngày càng trở nên nghiêm trọng và ban giám hiệu đã có ý định đóng cửa nhà trường.
 
@@ -124,7 +121,7 @@ Thầy hiểu ý em, nhưng thầy đoán các giáo viên sẽ lo lắng về v
 
 Tôi nói với nhóm học sinh này rằng tôi nghĩ “căn phòng không-làm-gì-cả” có thể hiệu quả nếu chúng tôi có thể làm rõ mục đích của nó không phải là để trừng phạt, mà để cung cấp một nơi cho những học sinh chưa sẵn sàng học vào đó, đồng thời giúp những em muốn học có thể tập trung hơn. Tôi cũng gợi ý rằng khả năng thành công của “căn phòng không- làm-gì- cả” sẽ cao hơn nếu tất cả mọi người trong trường biết rằng đó là kết quả đến từ sự thảo luận của chính các học sinh, thay vì là quyết định của ban giám hiệu.
 
-![Tổng kết](images/img_p055_436.png)
+## Tổng kết
 
 Trong những tình huống mà cơ hội để đối thoại là không tồn tại, chẳng hạn như khi mối nguy hiểm đang cận kề, chúng ta có thể cần dùng “vũ lực với mục đích bảo vệ.” Chủ đích đằng sau việc dùng loại vũ lực này là để bảo vệ sinh mạng hoặc quyền con người, và không bao giờ là để trừng phạt hoặc bắt người khác chịu đau khổ, hối hận hoặc thay đổi. Việc dùng “vũ lực với mục đích trừng phạt” có khuynh hướng tạo ra oán giận, thù hận và chống đối. Loại vũ lực này gây ảnh hưởng tiêu cực đến thiện chí và lòng tự trọng, đồng thời khiến người ta tập trung vào hậu quả bên ngoài, thay vì vào giá trị bên trong của một hành động nào đó. Điều đó có nghĩa là nó làm giảm khả năng người ta hành động xuất phát từ những động lực mà chúng ta muốn khơi dậy bên trong họ.
 

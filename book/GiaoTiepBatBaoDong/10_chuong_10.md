@@ -1,6 +1,4 @@
-# **CHƯƠNG 10**
-
-![Tổng kết](images/img_p208_1330.jpg)
+# Chương 10: Bày tỏ sự tức giận một cách đầy đủ
 
 Chủ đề về sự tức giận cho chúng ta cơ hội đặc biệt để hiểu sâu hơn về NVC, vì nó có liên quan đến nhiều khía cạnh khác nhau của phương pháp này.
 
@@ -10,7 +8,7 @@ Khi tức giận, nhiều người trong chúng ta thường la hét, đánh  đ
 
 Nhiều người cảm thấy không thoải mái khi nghe cụm từ *Giao tiếp bất bạo động* hay *Giao tiếp bằng* *lòng trắc ẩn* vì họ nghĩ rằng phương pháp này cũng khuyên họ “kìm nén cơn giận” và “dĩ hòa vi quý” như bao phương pháp giao tiếp khác. Họ đã quá chán ghét việc được dạy để xem sự tức giận của mình là một cảm xúc tiêu cực cần được loại bỏ. Tuy nhiên, trên thực tế, NVC không hề khuyên chúng ta làm những điều đó. Thay vào đó, nó khuyến khích chúng ta tìm hiểu những suy nghĩ, cảm xúc và nhu cầu đằng sau sự tức giận của mình, và bày tỏ chúng với lòng trắc ẩn.
 
-![Phân biệt tác nhân kích thích và nguyên nhân](images/img_p209_1336.jpg)
+## Phân biệt tác nhân kích thích và nguyên nhân
 
 Trong NVC, bước đầu tiên để thể hiện sự tức giận một cách đầy đủ là buông bỏ suy nghĩ rằng người khác là nguyên nhân của cảm xúc bên trong chúng ta, chẳng hạn như: “Anh ta làm mình nổi điên khi làm điều đó.” Loại suy nghĩ này sẽ khiến chúng ta bày tỏ sự tức giận của mình một cách nông cạn bằng cách đổ lỗi, chỉ trích, trừng phạt người khác. Trong Chương 5, chúng ta đã thấy rằng hành vi hoặc lời nói của người khác chỉ có thể là *tác* *nhân kích thích* (*stimulus*), chứ không bao giờ là *nguyên nhân* (*cause*), của những cảm xúc bên trong chúng ta. Điều này đặc biệt đúng đối với cảm xúc tức giận.
 
@@ -36,9 +34,7 @@ Ví dụ, một ai đó hẹn gặp chúng ta nhưng đến sát giờ thì báo
 
 Lựa chọn thứ tư được trình bày trong Chương 5 là kết nối với những cảm xúc và nhu cầu của người kia. Và khi làm như vậy, chúng ta có thể cảm thấy cảm thông, trắc ẩn hoặc một cảm xúc nào đó khác, nhưng cũng không bao giờ là sự tức giận. Chúng ta không đè nén sự tức giận; chúng ta chỉ nhận thức rằng sự tức giận không có mặt trong những khoảnh khắc mà chúng ta chọn tập trung vào những cảm xúc và nhu cầu của bản thân và của người khác.
 
-![Tai trung tâm của mọi sự tức giận là những nhu cầu](images/img_p212_1348.jpg)
-
-![không được đáp ứng](images/img_p212_1349.jpg)
+## Tại trung tâm của mọi sự tức giận là những nhu cầu không được đáp ứng
 
 Tôi thường được hỏi: “Nhưng chẳng phải có những tình huống mà việc chỉ trích người khác và  tức  giận  là chính  đáng?
 
@@ -54,7 +50,7 @@ Tôi từng học một bài học về sự tức giận khi làm việc với 
 
 Tối hôm đó, khi suy ngẫm về sự việc, tôi nhận ra mình đã dán nhãn đứa trẻ thứ nhất là “thằng nhóc hư đốn”, ngay cả trước khi cùi chỏ cậu bé chạm vào mũi tôi. Do vậy, khi bị đấm, tâm trí tôi lập tức đưa ra lời phán xét cay nghiệt: “Thằng nhóc hỗn láo không có quyền làm như vậy!” Ngược lại, tôi nhìn đứa trẻ thứ hai là một “sinh vật đáng thương” và lo lắng cho tình trạng của em. Do vậy, mặc dù mũi rất đau và chảy máu rất nhiều, tôi không hề tức giận. Từ đó, tôi nhận ra những suy nghĩ phán xét và chỉ trích trong tâm trí của chính mình mới là thứ tạo ra sự tức giận, chứ không phải là hành vi của người khác.
 
-![Các bước giải quyết mâu thuẫn bằng NVC](images/img_p214_1360.jpg)
+
 
 Để hiểu rõ về mối quan hệ giữa tác nhân kích thích và nguyên nhân của sự tức giận, chúng ta hãy quay lại cuộc đối thoại giữa tôi và John, người tù nhân tại nhà tù ở Thụy Điển:
 
@@ -108,7 +104,7 @@ Tôi cho rằng khi tâm trí chúng ta càng chứa đầy những suy nghĩ ph
 
 Tuy nhiên, nếu nhìn rộng hơn, thì chúng ta sẽ nhận ra rằng mỗi khi người khác làm theo ý chúng ta chỉ vì họ cảm thấy sợ hãi, tội lỗi hay xấu hổ, chúng ta không chỉ thua, mà còn góp phần làm gia tăng sự bạo lực trên thế giới. Chúng ta có thể đã giải quyết được một vấn đề trước mắt, nhưng một vấn đề khác sẽ xuất hiện. Người ta càng nghe thấy sự phán xét và chỉ trích, họ càng trở nên phòng thủ hoặc phản kháng và càng không quan tâm đến những nhu cầu của chúng ta trong tương lai. Vậy nên, ngay cả khi nhu cầu hiện tại của chúng ta được đáp ứng, chúng ta sẽ phải trả giá cho nó sau này.
 
-![Bốn bước để bày tổ sự tức giận một cách đây đủ](images/img_p218_1375.jpg)
+## Bốn bước để bày tỏ sự tức giận một cách đầy đủ
 
 Vậy làm thế nào để bày tỏ sự tức giận một cách đầy đủ? Bước đầu tiên là dừng lại, không làm gì cả ngoại trừ hít thở.
 
@@ -116,7 +112,7 @@ Chúng ta không chủ ý đưa ra thêm bất kỳ lời phán xét, chỉ trí
 
 Bây giờ, chúng ta có thể mở miệng và nói ra sự tức giận của mình – nhưng sự tức giận giờ đây đã được chuyển hóa thành những nhu cầu và những cảm xúc kết-nối-với-nhu-cầu. Việc làm rõ những cảm xúc này đòi hỏi rất nhiều lòng can đảm. Đối với tôi, việc tức giận và chỉ trích người khác: “Cô là kẻ phân biệt chủng tộc” là rất dễ. Việc kết nối với những cảm xúc và nhu cầu sâu hơn đằng sau câu nói đó khó hơn nhiều. Chúng ta có thể nói với người kia: “Khi bạn bước vào phòng, nói chuyện với những người khác nhưng không nói gì với tôi, và đưa ra lời bình luận về người da trắng, tôi cảm thấy buồn nôn và sợ hãi vì tôi có nhu cầu được đối xử công bằng. Bạn có thể chia sẻ mình cảm thấy thế nào khi nghe tôi nói điều này không?”
 
-![Trước hết, hãy bày tô sự đồng cẳm](images/img_p219_1381.jpg)
+## Trước hết, hãy bày tỏ sự đồng cảm
 
 Tuy nhiên, đối với người kia, việc nghe chúng ta chia sẻ về hành vi của họ thường là khó khăn. Do đó, trong đa số trường hợp, nếu chúng ta muốn tăng khả năng người kia có thể kết nối với những gì đang diễn ra bên trong chúng ta, thì trước khi đi đến bốn bước trên, chúng ta cần thực hiện thêm một bước nữa: đồng cảm với nhu cầu đã dẫn đến hành vi của họ mà chúng ta không thích. Chúng ta càng lắng nghe và đồng cảm với người khác, họ càng sẵn sàng lắng nghe và đồng cảm với chúng ta.
 
@@ -164,7 +160,7 @@ Tôi chủ ý làm chậm cuộc nói chuyện lại, vì theo kinh nghiệm c�
 
 Do đó, tôi không muốn anh ấy nghe thấy sự chỉ trích, vì tôi muốn anh ấy thấu hiểu những điều đã diễn ra trong trái tim tôi. Chỉ trích người khác thì dễ; giúp họ hiểu mình mới là khó. Khi nghe thấy sự chỉ trích, người kia thường sẽ trở nên phòng thủ hoặc phản kháng và do đó không thể thực sự lắng nghe chúng ta. Do vậy, khi chúng ta nhận thấy cảm giác bị chỉ trích đã bước vào tâm trí họ, chúng ta có thể cần chậm lại, bày tỏ lại nỗi đau của mình, hoặc lắng nghe nỗi đau của họ thêm một chút nữa.
 
-![Khong voi va](images/img_p224_1399.png)
+## Không vội vã
 
 Có lẽ điều quan trọng nhất trong quá trình rèn luyện NVC là “không vội vã”. Nếu muốn thoát khỏi những khuôn mẫu thói quen cũ và thực hành một cách sống mới hòa hợp hơn với những giá trị của mình, thì chúng ta sẽ cần làm mọi thứ chậm hơn so với thông thường.
 
@@ -176,7 +172,7 @@ Nếu bạn muốn thực hành áp dụng NVC, nhất là trong những tình h
 
 Hầu hết chúng ta đã được nuôi dưỡng trong những môi trường bạo lực, do đó phán xét và chỉ trích đã trở thành bản năng của chúng ta. Vậy nên, việc thực hành là thiết yếu, và chúng ta cần chậm rãi, đi từng bước một, suy xét kỹ trước khi nói, và đôi khi chỉ hít thở một hơi sâu và không nói gì cả. Cả việc học và áp dụng NVC đều cần thời gian.
 
-![Tổng kết](images/img_p162_1046.png)
+## Tổng kết
 
 Phán xét, chỉ trích người khác là những cách thể hiện sự tức giận rất nông cạn. Nếu chúng ta muốn bày tỏ sự tức giận một cách đầy đủ, bước đầu tiên là buông bỏ suy nghĩ rằng người khác là nguyên nhân của cảm xúc bên trong chúng ta. Thay vì suy nghĩ như vậy, chúng ta hướng sự chú tâm vào những cảm xúc và nhu cầu của chính mình. Khi chúng ta bày tỏ nhu cầu, khả năng chúng được đáp ứng sẽ cao hơn rất nhiều so với khi chúng ta phán xét, chỉ trích, trừng phạt người khác.
 

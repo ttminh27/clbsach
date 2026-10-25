@@ -1,6 +1,4 @@
-# **CHƯƠNG 2**
-
-![Các loại giao tiếp gây cản trở lòng trắc ẩn](images/img_p043_372.jpg)
+# Chương 2: Các loại giao tiếp gây cản trở lòng trắc ẩn
 
 *“Đừng phán xét, và bạn sẽ không bị phán xét. Khi* *bạn phán* *xét người khác, bạn cũng sẽ bị phán xét.”*
 
@@ -8,7 +6,7 @@
 
 Trong quá trình nghiên cứu câu hỏi điều gì đã khiến chúng ta xa rời bản chất nhân ái của mình, tôi đã xác định các loại giao tiếp gây cản trở lòng trắc ẩn và góp phần khiến chúng ta hành xử bạo lực với bản thân và người khác. Tôi gọi các loại giao tiếp này là “*giao* *tiếp xa rời sự sống*” (life-alienating communication).
 
-![Phán xét đạo đức](images/img_p043_373.jpg)
+## Phán xét đạo đức
 
 Một loại “giao tiếp xa rời sự sống” *là phán xét đạo* *đức*, tức là đánh giá người có hành vi không hòa hợp với những giá trị của chúng ta là xấu xa, hay sai trái. Ví dụ về những lời phán xét này là: “Bạn thật ích kỷ”, “Cô ấy thật lười biếng”, “Họ thật thành kiến”, “Nó không thích hợp.” Đổ lỗi, lăng mạ, sỉ nhục, dán nhãn, chỉ trích, so sánh đều là những hình thái của sự phán xét.
 
@@ -36,7 +34,7 @@ Nguyên nhân gốc rễ của hầu hết, nếu không muốn nói là tất c
 
 > **So sánh là một loại ngôn ngữ phán xét.**
 
-![So sánh](images/img_p048_399.png)
+## So sánh
 
 Một loại “giao tiếp xa rời sự sống” khác là so sánh, và về bản chất thì nó cũng là một loại ngôn ngữ phán xét. Trong cuốn sách  *How to Make* *Yourself Miserable* (tạm dịch: Cách tự làm mình khổ), Dan Greenburg trình bày một cách hài hước về tác động của sự so sánh đối với chúng ta. Ông nói rằng nếu độc giả muốn cảm thấy đau khổ, họ có thể làm một vài bài tập so sánh bản thân với người khác. Bài tập đầu tiên có bức hình một người mẫu nam và một người mẫu nữ với các số đo “lý tưởng” theo tiêu chuẩn của xã hội. Độc giả được yêu cầu tự lấy các số đo cơ thể mình, so sánh chúng với các “người mẫu”, và tập trung vào những điểm khác biệt.
 
@@ -44,7 +42,7 @@ Bài tập này lập tức tạo ra cảm giác muộn phiền ở độc giả
 
 Khi làm hai bài tập trên, bạn sẽ có thể nhận ra sự so sánh gây cản trở lòng trắc ẩn nhiều như thế nào, đối với cả bản thân và người khác.
 
-![Chối bỏ trách nhiệm](images/img_p049_405.jpg)
+## Chối bỏ trách nhiệm
 
 Một loại “giao tiếp xa rời sự sống” khác là chối bỏ trách nhiệm, tức giao tiếp dựa trên sự thiếu nhận thức rằng mỗi chúng ta chịu trách nhiệm cho những suy nghĩ, cảm xúc và hành động của chính mình. Một ví dụ của loại giao tiếp này là từ “phải”, chẳng hạn như “Có những thứ bạn phải làm, dù muốn hay không”, cho thấy người nói đang phủ nhận trách nhiệm đối với những hành động của mình. ví dụ khác là cụm từ “khiến tôi cảm thấy”, chẳng hạn như “Bạn khiến tôi cảm thấy xấu hổ”, cho thấy người nói đang phủ nhận trách nhiệm đối với những suy nghĩ và cảm xúc của mình.
 
@@ -78,7 +76,7 @@ Tôi đồng ý với quan điểm của nhà văn George Bernanos khi ông nói
 
 > “Từ lâu, tôi đã nghĩ rằng nếu một ngày nào đó công nghệ hủy diệt phát triển đến mức khiến loài người chúng ta biến mất khỏi trái đất, thì việc đó không phải do những người chế tạo ra các công nghệ đó, mà do những người thiếu trách nhiệm, chỉ im lặng chấp nhận mọi chính sách được đưa ra. Những điều kinh khủng mà chúng ta đã thấy và những điều kinh khủng hơn mà chúng ta sẽ thấy không phải là dấu hiệu của sự gia tăng số lượng những người không phục tùng, không vâng lời mà là dấu hiệu của sự gia tăng số lượng những người ngoan ngoãn, dễ bảo và thiếu trách nhiệm.
 
-![Các loại “Giao tiếp xa rời sự sống” khác](images/img_p052_417.jpg)
+## Các loại “Giao tiếp xa rời sự sống” khác
 
 Một loại giao tiếp gây cản trở lòng trắc ẩn khác là nói ra điều mình muốn dưới dạng mệnh lệnh. Một mệnh lệnh, dù rõ ràng hay ẩn ý, đều tạo cho người nghe cảm giác lo ngại rằng họ sẽ bị đổ lỗi hoặc trừng phạt nếu không làm theo. Đây là một loại giao tiếp phổ biến trong nền văn hóa của chúng ta, đặc biệt ở những người nắm giữ vị trí quyền lực.
 
@@ -98,6 +96,6 @@ Từ nhỏ, hầu hết chúng ta đã được dạy nói thứ ngôn ngữ khu
 
 “Ngôn ngữ xa rời sự sống” có nguồn gốc từ những xã hội có sự thống trị, nơi phần lớn những người thuộc cấp bậc thấp bị kiểm soát bởi một số lượng nhỏ những cá nhân thuộc cấp bậc cao để phục vụ cho lợi ích của những cá nhân ấy. Trong những xã hội ấy, điều quan trọng đối với những người thống trị như vua, hoàng đế, quý tộc... là nhồi vào đầu quần chúng thứ “tư duy nô lệ.” “Ngôn ngữ xa rời cuộc sống” phục vụ cho mục đích này một cách hoàn hảo: nếu con người càng suy nghĩ tập trung vào những phán xét đạo đức như “tốt – xấu”, “đúng – sai”, “thích hợp – không thích hợp”, thì họ càng có xu hướng tìm kiếm định nghĩa về điều gì là “tốt / xấu”, “đúng / sai”, “phải / nên làm” bên ngoài mình, ở những người nắm giữ quyền lực. Khi chúng ta kết nối với những cảm xúc và nhu cầu bên trong mình, chúng ta không còn là những nô lệ ngoan ngoãn, dễ bảo nữa.
 
-![Tổng kết](images/img_p055_436.png)
+## Tổng kết
 
 Bản chất con người chúng ta là nhân ái và muốn cho đi và đón nhận tình yêu thương. Tuy nhiên, chúng ta đã được dạy nhiều loại “giao tiếp xa rời sự sống” khiến chúng ta nói và hành xử theo cách gây tổn thương cho bản thân và người khác. Loại thứ nhất là *phán xét đạo đức*, tức đánh giá người có hành vi không hòa hợp với những giá trị của chúng ta là *tồi tệ* hay *sai trái*. Loại thứ hai là *so sánh*, gây cản trở lòng trắc ẩn đối với cả bản thân và người khác. Loại thứ ba là chối bỏ trách nhiệm, tức giao tiếp dựa trên sự thiếu nhận thức rằng mỗi chúng ta chịu trách nhiệm cho những suy nghĩ, cảm xúc và hành động của chính mình. Và loại thứ tư là ra lệnh, tạo cho người nghe cảm giác lo ngại rằng họ sẽ bị đổ lỗi hoặc trừng phạt nếu không làm theo.

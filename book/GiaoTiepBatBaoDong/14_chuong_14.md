@@ -1,8 +1,5 @@
-# **CHƯƠNG 14**
-
-![Bày tỏ sự ghi nhận và lòng biết ơn](images/img_p298_1777.jpg)
-
-![Ý định đằng sau sự ghi nhận](images/img_p298_1778.jpg)
+# Chương 14: Bày tỏ sự ghi nhận và lòng biết ơn
+### Ý định đằng sau sự ghi nhận
 
 > *“Em làm bản báo cáo đó rất tốt.”*
 
@@ -22,7 +19,7 @@ Hơn nữa, khi chúng ta sử dụng những lời khen ngợi để tạo ản
 
 Khi chúng ta sử dụng NVC để bày tỏ sự ghi nhận, việc làm đó hoàn toàn là để thể hiện lòng biết ơn chân thành, thay vì để nhận lại một thứ gì đó. Chủ đích của chúng ta đơn thuần là cho người khác thấy lòng biết ơn của mình đối với họ, vì họ đã góp phần giúp cuộc đời chúng ta trở nên tươi đẹp hơn.
 
-![Ba yếu tố của lòng biết ơn](images/img_p300_1792.jpg)
+## Ba yếu tố của lòng biết ơn
 
 NVC xác định rõ ba yếu tố để giúp chúng ta bày tỏ lòng biết ơn một cách đầy đủ:
 
@@ -74,7 +71,7 @@ Thứ tự của ba yếu tố trên có thể thay đổi tùy tình huống; v
 
 Khi nghe thấy cả ba yếu tố – điều tôi đã làm, điều cô ấy cảm thấy, và nhu cầu của cô ấy đã được đáp ứng – tôi mới có thể thực sự chung vui với cô ấy. Nếu ban đầu cô ấy bày tỏ sự cảm kích bằng NVC, thì nó sẽ giống như sau: “Marshall, khi thầy nói hai điều này (*chỉ* *vào sổ ghi chép của mình*), em cảm thấy nhẹ nhõm và đầy hy vọng, vì em đã tìm kiếm những hướng đi để kết nối với con trai mình nhiều hơn, và hai điều này đã cho em hướng đi đó.”
 
-![Đón nhận sự ghi nhận và lòng biết ơn](images/img_p302_1801.jpg)
+## Đón nhận sự ghi nhận và lòng biết ơn
 
 Đối với nhiều người trong chúng ta, việc đón nhận sự ghi nhận và lòng biết ơn từ người khác là không dễ dàng. Chúng ta băn khoăn liệu mình có “xứng đáng” với chúng không. Chúng ta lo lắng về điều người khác kỳ vọng ở mình – nhất là khi chúng ta có những giáo viên hay những người quản lý sử dụng những lời tán dương, khen ngợi để làm chúng ta làm việc chăm chỉ hơn. Hoặc chúng ta căng thẳng với việc sống theo sự kỳ vọng đó. Những điều này khiến chúng ta không thoải mái khi nhận được sự ghi nhận và lòng biết ơn, kể cả khi chúng xuất phát từ chủ đích trong sáng và chân thành.
 
@@ -104,7 +101,7 @@ Nói thêm về sự khiêm tốn giả tạo, Golda Meir, khi bà còn làm th�
 
 > Khi chúng ta đã thoát khỏi nỗi sợ hãi của mình, sự hiện diện của chúng ta sẽ giải phóng những người khác.
 
-![Sự khao khát được ghi nhận](images/img_p304_1810.jpg)
+## Sự khao khát được ghi nhận
 
 Nghịch lý thay, mặc dù chúng ta không thoải mái khi nhận được sự ghi nhận, hầu hết chúng ta lại khao khát được ghi nhận. Trong một buổi tiệc bất ngờ dành cho tôi, một người bạn của tôi đề xuất một trò chơi để giúp những vị khách làm quen với nhau. Mỗi người sẽ viết ra một câu hỏi, thả nó vào một cái hộp, rồi lần lượt từng người sẽ rút một câu hỏi và trả lời nó.
 
@@ -128,7 +125,7 @@ Tối hôm đó, tôi sáng tác một bài thơ như sau:
 
 Tôi đã học về việc tập trung nhiều hơn vào những điều tốt đẹp từ một giáo viên mà tôi biết. Trong một buổi kiểm tra, một học sinh của cô ấy không học bài ở nhà nên nộp giấy trắng. Khi có kết quả, cậu bé ngạc nhiên khi thấy mình được 14/100 điểm. Cậu bé hỏi: “Tại sao em lại được 14 điểm này?”, và cô giáo đáp: “Em đã giữ tờ giấy của mình sạch sẽ”. Kể từ khi nghe hồi chuông cảnh tỉnh của Brett, tôi đã cố gắng ý thức nhiều hơn về những điều tốt đẹp mà những người xung quanh làm cho tôi, cũng như thực hành thói quen bày tỏ lòng biết ơn đó.
 
-![Vượt qua sự ngần ngại khi bày tỏ lòng biết ơn](images/img_p307_1829.jpg)
+## Vượt qua sự ngần ngại khi bày tỏ lòng biết ơn
 
 Trong cuốn sách *The Secret of Staying in Love* (tạm dịch: *Bí mật để duy trì tình yêu*), tác giả John Powell miêu tả nỗi buồn sâu sắc của mình khi anh đã không thể nói ra lòng biết ơn của mình với bố khi ông ấy còn sống. Tôi thực sự xúc động khi đọc điều này, và nhận ra chính mình cũng đã bỏ lỡ không ít cơ hội để bày tỏ lòng biết ơn với những người thương yêu xung quanh mình.
 
@@ -140,7 +137,7 @@ Vẫn ngần ngại, tôi tự nói với mình rằng lời nói không thể n
 
 Do đó, trong một cuộc họp gia đình, tôi ngồi cạnh cậu Julius và nói ra lòng biết ơn của mình. Cậu đón nhận nó với sự hạnh phúc, không chút ngượng ngùng. Lòng lâng lâng vui sướng, tối hôm đó, tôi về nhà, sáng tác một bài thơ và gửi cho cậu. Ba tuần sau đó, cậu Julius qua đời, và tôi được kể rằng suốt thời gian ba tuần ấy, ngày nào cậu cũng nhờ người thân đọc bài thơ đó cho mình.
 
-![Tổng kết](images/img_p055_436.png)
+## Tổng kết
 
 Những lời tán dương, khen ngợi thường là sự phán xét – mặc dù mang tính tích cực – về người khác. NVC khuyến khích chúng ta bày tỏ sự ghi nhận chỉ để bày tỏ lòng biết ơn chân thành, thay vì để thao túng người khác. Chúng ta làm điều này bằng cách nói: (1) hành động của người khác đã góp phần vào sự hạnh phúc của chúng ta, (2) những nhu cầu cụ thể của chúng ta đã được đáp ứng, và (3) những cảm xúc dễ chịu sinh ra từ đó.
 

@@ -1,12 +1,10 @@
-# **CHƯƠNG 7**
-
-![Lắng nghe đồng cẩm](images/img_p146_956.jpg)
+# Chương 7: Lắng nghe với sự đồng cảm
 
 Trong bốn chương vừa qua, chúng ta đã học cách bày tỏ bản thân một cáchtrung thực thông qua bốn yếu tố của NVC: quan sát, cảm xúc, nhu cầu và đề nghị. Bây giờ, chúng ta sẽ học cách *lắng nghe đồng cảm* bốn yếu tố đó của người khác.
 
 > **Hai phần của NVC 1.Bày tỏ chân thật 2. Lắng nghe đồng cảm Đồng cảm: tạm dừng những suy nghĩ trong tâm trí và lắng nghe với toàn bộ tâm hồn mình.**
 
-![Đừng làm gì cả, hãy có mặt thôi](images/img_p146_957.jpg)
+## Đừng làm gì cả, hãy có mặt thôi
 
 Đồng cảm (empathy) nghĩa là thấu hiểu và chia sẻ với những gì người khácđang trải qua. Trang Tử, triết gia người Trung Quốc, nói rằng sự đồng cảm đòi hỏi chúng ta lắng nghe người khác với toàn bộ tâm hồn mình: “Lắng nghe bằng đôi tai là một cấp độ. Lắng nghe bằng tâm trí là một cấp độ khác. Nhưng cấp độ sâu sắc nhất chính là lắng nghe bằng tâm hồn. Năng lực này đòi hỏi chúng ta tạm dừng những suy nghĩ trong tâm trí. Khi những suy nghĩ trong tâm trí tạm dừng, toàn bộ tâm hồn của chúng ta lắng nghe. Khi làm như vậy, chúng ta sẽ nghe thấy những điều mà chúng ta có thể không bao giờ nhận ra nếu chỉ sử dụng đôi tai hoặc tâm trí.”
 
@@ -48,7 +46,7 @@ Lần nọ, tôi làm việc với 23 bác sĩ tâm thần. Tôi hỏi: “Giả
 
 Tóm lại, yếu tố quan trọng nhất của sự đồng cảm là sự có mặt (presence): chúng ta hoàn toàn có mặt với người khác và những gì họ đang trải qua. Chúng ta cũng cần phân biệt giữa sự đồng cảm và sự hiểu biết về mặt lý trí. Mặc dù đôi lúc sự hiểu biết về mặt lý trí là cần thiết, nhưng người đang đau khổ trước hết cần nhận được sự đồng cảm.
 
-![Lắng nghe những cẩm xúc và nhu cầu](images/img_p150_974.jpg)
+## Lắng nghe những cảm xúc và nhu cầu
 
 Trong NVC, bất kể người khác nói gì đi nữa, chúng ta cũng chỉ lắng nghe bốn yếu tố sau của họ: quan sát, cảm xúc, nhu cầu và đề nghị. Tưởng tượng bạn cho người hàng xóm mới mượn xe hơi để giải quyết một vấn đề khẩn cấp. Khi gia đình bạn phát hiện ra, họ giận dữ nói: “Con thật ngu ngốc khi tin tưởng người lạ.” Lúc này, thay vì (1) dằn vặt bản thân hoặc (2) chỉ trích người kia, bạn có lựa chọn thứ ba: lắng nghe bốn yếu tố của họ.
 
@@ -82,7 +80,7 @@ Hãy để ý rằng bạn đang tập trung vào *suy nghĩ*, thay vì *nhu c�
 
 Có, một sự khác biệt lớn. Tôi thấy đồng cảm hơn với những gì anh ấy đang trải qua và ít có cảm giác mình bị công kích hơn.
 
-![Diễn đạt lại](images/img_p152_1001.png)
+## Diễn đạt lại
 
 Sau khi tập trung lắng nghe bốn yếu tố trong NVC của người kia (quan sát, cảm xúc, đề nghị, nhu cầu), chúng ta có thể muốn diễn đạt lại (paraphrasing) những gì mình hiểu cho họ. Trong Chương 6, chúng ta đã học cách đề nghị người khác diễn đạt lại điều chúng ta đã nói; bây giờ, chúng ta sẽ học cách làm điều đó cho họ.
 
@@ -162,7 +160,7 @@ Vừa nghe lời đáp của tôi, người vợ bật khóc. Tôi quay sang ng�
 
 Sau đó, người chồng có cơ hội bày tỏ sự khó chịu và được vợ diễn đạt lại những cảm xúc và nhu cầu của mình. Được trực tiếp cảm nhận sự đồng cảm, anh ấy nhìn tôi và xúc động nói: “Giờ thì tôi hiểu rồi.” Việc thấy mình được thấu hiểu luôn là một trải nghiệm sâu sắc.
 
-![Duy trì sự đồng cắm](images/img_p159_1031.jpg)
+## Duy trì sự đồng cảm
 
 Chúng ta cần cho người khác không gian để bày tỏ hết mọi suy nghĩ và cảm xúc bên trong mình trước khi chuyển sang bước tìm kiếm giải pháp. Nếu chúng ta đi quá nhanh đến bước tìm kiếm giải pháp, thì người kia có thể có ấn tượng rằng chúng ta chỉ đang muốn thoát khỏi họ hoặc sửa chữa họ. Hơn nữa, thông điệp ban đầu giống như phần nổi của tảng băng, bên dưới đó là nhiều tầng cảm xúc căng thẳng bị kìm nén. Bằng cách duy trì sự đồng cảm với những gì đang diễn ra bên trong người khác, chúng ta cho họ cơ hội khám phá và thể hiện chính mình sâu hơn.
 
@@ -172,7 +170,7 @@ Ví dụ, một người mẹ nói: “Con tôi thật quá quắt. Tôi nói g�
 
 Vậy làm thế nào chúng ta biết người kia đã nhận ược đủ sự đồng cảm? Thứ nhất, chúng ta có thể cảm nhận được sự nhẹ nhõm trong cơ thể họ, vì mọi sự căng thẳng đã được giải phóng. Thứ hai, một dấu hiệu rõ ràng hơn là người kia ngừng nói. Còn nếu vẫn không chắc chắn, thì chúng ta có thể hỏi: “Còn điều gì khác mà bạn muốn chia sẻ không?”
 
-![Khi nỗi đau cần trở khả năng đồng cẳm của chúng ta](images/img_p161_1040.jpg)
+## Khi nỗi đau cản trở khả năng đồng cảm của chúng ta
 
 Chúng ta không thể cho người khác thứ mà mình không có.
 
@@ -190,7 +188,7 @@ Qua trải nghiệm trên, tôi nhận ra rằng nếu chúng ta có thể hét 
 
 Tuy nhiên, nếu nỗi đau của người kia cũng lớn đến mức khiến họ không thể nào lắng nghe chúng ta, thì lựa chọn thứ ba là chúng ta tạm thời rời khỏi cuộc nói chuyện đó. Chúng ta cho chính mình, cũng như người khác, thời gian và cơ hội để nghỉ ngơi và chăm sóc bản thân trước khi sẵn sàng quay lại với một tâm trạng khác.
 
-![Tổng kết](images/img_p162_1046.png)
+## Tổng kết
 
 Đồng cảm có nghĩa là thấu hiểu và chia sẻ với những gì người khác đang trải qua. Trong thực tế, thay vì đồng cảm, chúng ta lại có khuynh hướng động viên, khuyên bảo, hoặc nói về mình. Ngược lại, sự đồng cảm đòi hỏi chúng ta tạm dừng những suy nghĩ trong tâm trí để có mặt và lắng nghe người khác với toàn bộ tâm hồn mình.
 
@@ -274,15 +272,13 @@ Người y tá: (*cô ấy nhận thức rằng những bệnh* *nhân sắp ch�
 
 *Cuộc đối thoại bắt đầu bằng việc người vợ phàn* *nàn về chuyên viên vật lý trị liệu. Tuy nhiên, nhờ* *vào khả năng duy trì sự đồng cảm của người y tá,* *người vợ có thể hiểu rõ những tầng* *cảm xúc và nhu cầu sâu hơn bên trong mình, từ* *đó kết nối với chồng nhiều hơn trong giai đoạn* *quan trọng của cuộc đời họ.*
 
-![Bài tập 5](images/img_p168_1073.png)
-
-![Sức mạnh của sự đồng cảm](images/img_p168_1074.jpg)
+## Bài tập 5: Lắng nghe với sự đồng cảm
 
 Trong bài tập sau, bạn hãy khoanh tròn các câu nói mà người B bày tỏ sự đồng cảm với những gì đang diễn ra bên trong người A.
 
 1. Sao tôi có thể làm một việc ngu ngốc đến thế? Không ai là hoàn hảo; đừng khắt khe với bản thân quá.
 
-![Người A: Người B:](images/img_p168_1070.png)
+
 
 2.
 
@@ -292,7 +288,7 @@ Tôi nghĩ chúng ta nên đưa những người nhập cư về lại đất n�
 
 3. Bạn không phải là Thượng đế đâu! Có phải bạn bực bội vì muốn tôi thừa nhận rằng có thể có những cách nhìn nhận khác về vấn đề này?
 
-![Người A: Người B:](images/img_p168_1071.png)
+
 
 4.
 
@@ -302,7 +298,7 @@ Tôi thấy bạn đang coi thường tôi. Tôi tự hỏi bạn sẽ xoay xở
 
 5. Sao bạn có thể nói một điều như thế với tôi? Có phải bạn tổn thương vì tôi đã nói điều đó?
 
-![Người A: Người B:](images/img_p168_1072.png)
+
 
 6.
 
@@ -312,7 +308,7 @@ Tôi rất giận chồng mình. Anh ấy không bao giờ ở bên khi tôi c�
 
 7. Tôi chán ghét cân nặng của mình. Có lẽ chạy bộ sẽ giúp ích.
 
-![Người A: Người B:](images/img_p168_1072.png)
+
 
 8.
 
@@ -332,7 +328,7 @@ Tôi thất vọng với kết quả công việc của bộ phận các bạn. 
 
 > Tôi hiểu sự thất vọng của anh, nhưng tháng qua chúng tôi có nhiều người nghỉ phép vì ốm.
 
-![Đồng cảm để chữa lành](images/img_p169_1103.jpg)
+### Lời giải đáp cho Bài tập 5
 
 1. Tôi không khoanh tròn câu này vì thấy người B đang cố gắng động viên thay vì bày tỏ sự đồng cảm với người A.
 

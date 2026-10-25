@@ -1,12 +1,10 @@
-# **CHƯƠNG 11**
-
-![Giải quyết và hòa giải mâu thuẫn](images/img_p234_1435.jpg)
+# Chương 11: Giải quyết và hòa giải mâu thuẫn
 
 Bây giờ, khi bạn đã quen với NVC, tôi muốn bàn về cách áp dụng nó trong việc giải quyết mâu thuẫn (conflict resolution). Đó có thể là mâu thuẫn giữa bạn và một ai đó, hoặc bạn chọn – hay được đề nghị – làm trung gian hòa giải mâu thuẫn giữa những người khác: những thành viên trong gia đình, những đồng nghiệp, những cặp đôi, hoặc thậm chí những người xa lạ. Dù cho tình huống có là gì đi nữa, việc giải quyết mâu thuẫn bao gồm tất cả các nguyên tắc mà chúng ta đã học trong cuốn sách này: quan sát mà không đánh giá, xác định và bày tỏ cảm xúc, kết nối cảm xúc với nhu cầu, và đưa ra lời đề nghị rõ ràng, cụ thể bằng “ngôn ngữ hành động.”
 
 Trong vài thập kỷ qua, tôi đã sử dụng NVC để giải quyết xung đột trên khắp thế giới. Tôi đã gặp những cặp đôi không hạnh phúc, những thành viên trong gia đình, những người quản lý và nhân viên, và những nhóm sắc tộc có mâu thuẫn với nhau. Kinh nghiệm chỉ tôi rằng chúng ta có thể giải quyết bất kỳ sự xung đột nào . Dĩ nhiên, việc đó đòi hỏi rất nhiều sự kiên nhẫn, sự sẵn lòng để thiết lập sự kết nối, chủ đích làm theo các nguyên tắc của NVC cho đến khi các bên tìm ra được giải pháp chung, và niềm tin rằng quá trình này sẽ hiệu quả.
 
-![Thiết lập sự kết nổi giữa con người với nhau](images/img_p235_1450.jpg)
+## Thiết lập sự kết nối giữa con người với nhau
 
 Trong giải quyết mâu thuẫn bằng NVC, điều quan trọng nhất là thiết lập sự kết nối giữa các bên. Đây là nền tảng của mọi bước khác, vì khi bạn chưa tạo ra được sự kết nối đó, mỗi bên sẽ không hiểu rõ bên kia đang có những cảm xúc và nhu cầu gì. Bên cạnh đó, cả hai bên cần hiểu ngay từ đầu rằng mục tiêu *không* phải là ép buộc bên kia làm theo ý mình. Thay vào đó, mục tiêu là tạo ra sự kết nối, dựa trên sự quan tâm và tôn trọng lẫn nhau. Điều này có nghĩa là mỗi bên xem trọng những nhu cầu của chính mình, đồng thời ý thức rằng sự hạnh phúc của mình và của người khác có tính tương thuộc. Một khi cả hai bên đã thông suốt điều này, việc đối thoại sẽ trở nên khả thi, và những mâu thuẫn tưởng như bế tắc có thể được giải quyết một cách dễ dàng.
 
@@ -16,7 +14,7 @@ Khi được yêu cầu làm trung gian hòa giải, tôi luôn tập trung vào
 
 Để ý rằng tôi dùng từ “hài lòng”, thay vì “thỏa hiệp”. Đa phần những nỗ lực giải quyết mâu thuẫn là để đạt được sự thỏa hiệp, có nghĩa là mỗi bên phải miễn cưỡng từ bỏ một thứ gì đó và không bên nào thỏa mãn. NVC thì khác; mục tiêu của nó là đáp ứng nhu cầu của tất cả mọi người một cách trọn vẹn.
 
-![Hòa giải bằng NVC và Hòa giải truyền thống](images/img_p236_1456.jpg)
+## Hòa giải bằng NVC và Hòa giải truyền thống
 
 Hãy đi sâu hơn vào việc tạo ra sự kết nối giữa con người với nhau trong công việc làm trung gian hòa giải. Khi được yêu cầu làm công việc này, cách tiếp cận của tôi rất khác so với cách tiếp cận của nhiều nhà hòa giải chuyên nghiệp.
 
@@ -30,7 +28,7 @@ Nhiều nhà hòa giải xác định vai trò của mình là “cái đầu th
 
 Trong kinh nghiệm của tôi, sự kết nối giữa con người với nhau ở cấp độ cảm xúc và nhu cầu không phải là tâm lý trị liệu. Trên thực tế, nó là cốt lõi của hòa giải, vì trong phần lớn thời gian, khi sự kết nối đó đã được thiết lập, vấn đề sẽ tự nó được giải quyết. Thay vì là “cái đầu thứ ba” và hỏi mỗi bên sẵn lòng làm gì, nếu chúng ta có thể giúp các bên thấy rõ nhu cầu của nhau, thì họ có thể khám phá ra phương án để đáp ứng nhu cầu của tất cả mọi người.
 
-![Tổng quan các bước giải quyết mâu thuẫn bang NVC](images/img_p237_1462.jpg)
+## Tổng quan các bước giải quyết mâu thuẫn bằng NVC
 
 Trước khi đi sâu hơn, tôi muốn trình bày tổng quan các bước giải quyết mâu thuẫn giữa chúng ta và một ai đó khác. Quá trình này có năm bước. Bên nào cũng có thể nói ra nhu cầu của mình trước, nhưng để đơn giản, hãy giả định chúng ta là người bắt đầu.
 
@@ -48,7 +46,7 @@ Thứ năm, sau khi đã hiểu rõ những nhu cầu của nhau, chúng ta đ�
 
 Trong suốt quá trình này, chúng ta lắng nghe với sự quan tâm và tôn trọng, và tránh sử dụng ngôn ngữ ám chỉ lỗi sai ở người kia.
 
-![Phân biệt nhu cầu với cách thức và sự phân tích](images/img_p238_1468.jpg)
+## Phân biệt nhu cầu với cách thức và sự phân tích
 
 Trong giải quyết mâu thuẫn bằng NVC, việc nhận thức và bày tỏ nhu cầu là cốt yếu. Do đó, chúng ta hãy xem lại khái niệm quan trọng này, điều đã được nhấn mạnh trong suốt cuốn sách, nhất là trong Chương 5.
 
@@ -78,7 +76,7 @@ Tôi bắt đầu bằng cách yêu cầu mỗi bên chia sẻ những nhu cầu
 
 Nếu chúng ta không biết cách bày tỏ nhu cầu một cách trực tiếp và rõ ràng, mà chỉ có thể đưa ra những phân tích nghe như sự chỉ trích đối với người khác, thì chiến tranh và bạo lực sẽ không còn xa – dù là bạo lực về ngôn từ, thể chất hay tinh thần.
 
-![Lắng nghe nhu cầu của người kia bất kể họ nói gì](images/img_p242_1483.jpg)
+## Lắng nghe nhu cầu của người kia bất kể họ nói gì
 
 Để giải quyết mâu thuẫn bằng NVC, chúng ta cần rèn luyện khả năng lắng nghe những nhu cầu của người khác bất kể họ nói hay làm gì. Nếu chúng ta thực sự muốn giúp người khác, thì điều đầu tiên cần học là diễn đạt lại *bất kỳ* thông điệp nào của họ dưới dạng những cảm xúc và nhu cầu, dù thông điệp đó là một sự im lặng, một sự phủ nhận, một sự phán xét, một cử chỉ, hay một lời đề nghị.
 
@@ -110,7 +108,7 @@ Tôi cố gắng lắng nghe cảm xúc và nhu cầu đằng sau lời phán x�
 
 > **Sự phán xét gây cản trở quá trình giải quyết mâu thuẫn.**
 
-![Nhu cầu đã được nghe thấy?](images/img_p245_1495.jpg)
+## Nhu cầu đã được nghe thấy?
 
 Sau khi người chồng đã thừa nhận nhu cầu của mình – bảo vệ gia đình về mặt tài chính, bước tiếp theo là đảm bảo người vợ nghe thấy nó. Đây là bước rất quan trọng trong giải quyết mâu thuẫn. Chúng ta không được giả định rằng nếu một bên đã bày tỏ nhu cầu một cách rõ ràng, thì bên kia sẽ nghe thấy nó một cách chính xác. Tôi hỏi người vợ: “Chị có thể cho tôi biết chị nghe thấy nhu cầu của chồng mình trong tình huống này là gì không?”
 
@@ -120,7 +118,7 @@ Cô ấy đáp: “Việc tôi đã rút quá số tiền trong tài khoản m�
 
 Lời đáp của cô ấy không phải là lạ. Khi nỗi đau của chúng ta đã tích lũy qua nhiều năm, nó có thể gây cản trở khả năng lắng nghe của chúng ta, ngay cả khi điều được nói ra là rõ ràng. Tôi nói với người vợ: “Tôi muốn nói với chị điều tôi đã nghe chồng chị nói, và tôi muốn chị lặp lại điều đó. Tôi nghe thấy chồng chị sợ vì anh ấy muốn bảo vệ gia đình về mặt tài chính.”
 
-![Trao sự đồng cẩm để xoa diu nỗi đau](images/img_p246_1501.jpg)
+## Trao sự đồng cảm để xoa dịu nỗi đau
 
 Nhưng nỗi đau của người vợ vẫn quá lớn để cô ấy có thể nghe thấy tôi. Khi điều này xảy ra, chúng ta cần một kỹnăng khác trong NVC để giúp thúc đẩy quá trình giải quyết mâu thuẫn. Khi người ta đau khổ, họ thường cần nhận được sự đồng cảm trước khi có thể nghe thấy điều đang được nói đến. Nỗi đau càng lớn, sự đồng cảm mà họ cần nhận được càng nhiều. Vậy nên, trong trường hợp này, tôi thay đổi hướng đi: thay vì cố gắng yêu cầu người vợ lặp lại điều chồng mình đã nói, tôi trao sự đồng cảm cho nỗi đau của cô ấy – thứ khiến cô ấy không thể lắng nghe.
 
@@ -130,7 +128,7 @@ Tương tự việc chúng ta không được dạy để bày tỏ nhu cầu c�
 
 Tôi càng có nhiều kinh nghiệm về hòa giải mâu thuẫn, dù là giữa các thành viên trong gia đình hay giữa các quốc gia, tôi càng tin rằng một học sinh tiểu học cũng có thể giải quyết chúng. Chúng ta chỉ cần nói với đứa bé: “Đây là những nhu cầu của mỗi bên. Đây là những nguồn lực. Con nghĩ chúng ta có thể làm gì để đáp ứng những nhu cầu này?” Tuy nhiên, thay vì như vậy, tâm trí chúng ta lại bị mắc kẹt trong sự phán xét, chỉ trích, và do đó ngay cả những mâu thuẫn đơn giản nhất cũng trở nên rất khó để giải quyết. NVC giúp chúng ta thoát khỏi cái bẫy này, từ đó tăng khả năng giải quyết xung đột một cách hòa bình và mang lại sự hài lòng cho tất cả mọi người.
 
-![Sử dụng “ngôn ngữ Ở thì hiện tại”](images/img_p248_1510.jpg)
+## Sử dụng “ngôn ngữ ở thì hiện tại”
 
 Chúng ta đã bàn về việc đưa ra đề nghị một cách rõ ràng, cụ thể trong Chương 6, và bây giờ, tôi muốn trình bày thêm một vài ví dụ để chứng minh tầm quan trọng của nó trong giải quyết mâu thuẫn. Khi cả hai bên đã thấu hiểu những nhu cầu của nhau, bước tiếp theo là đưa ra những cách thức để đáp ứng chúng. Điều quan trọng là tránh chuyển đến bước này một cách vội vã, vì việc đó có thể dẫn đến sự thỏa hiệp trong miễn cưỡng. Hơn nữa, bằng cách thấu hiểu những nhu cầu của nhau trước khi đi đến bước tìm kiếm giải pháp, khả năng các bên làm theo những thỏa thuận mà họ thống nhất với nhau sẽ cao hơn rất nhiều. Quá trình giải quyết xung đột phải kết thúc bằng những hành động có thể đáp ứng nhu cầu của tất cả mọi người, và việc đó cần được thực hiện bằng việc sử dụng “ngôn ngữ hành động” (action language) ở thì hiện tại, một cách rõ ràng.
 
@@ -140,7 +138,7 @@ Nếu chúng ta đưa ra một đề nghị *không* sử dụng “ngôn ngữ 
 
 > **“Ngôn ngữ hành động” đòi hỏi chúng ta sử dụng những động từ mang tính hành động.**
 
-![Sử dụng những động từ 1mnang tính hành động](images/img_p249_1516.jpg)
+## Sử dụng những động từ mang tính hành động
 
 Trong Chương 6, chúng ta đã bàn về vai trò của “ngôn ngữ hành động” khi đưa ra đề nghị. Trong những tình huống xung đột, việc đề nghị điều chúng ta *muốn*, thay vì chỉ nói chúng ta *không muốn*, lại càng quan trọng. Như đã nói, việc chỉ nói điều chúng ta không muốn sẽ dễ dàng tạo ra sự bối rối và phản kháng ở người nghe.
 
@@ -160,13 +158,13 @@ Cô ấy thử lại: “Em muốn anh để em...”. Tôi ngắt lời, giải
 
 Sau một chút suy ngẫm, người vợ có một hiểu biết quan trọng. Cô ấy thừa nhận rằng khi nói những câu như: “Em muốn anh cho em sự tự do...” và “Em muốn anh để em...”, điều cô ấy thực sự muốn là nghe chồng mình nói: “Dù cho em làm gì, anh cũng sẽ chấp nhận nó.” Và cô ấy nhận ra rằng mong muốn ấy lại không đáp ứng nhu cầu “tự do để là chính mình” của anh ấy. Việc duy trì sự tôn trọng những nhu cầu của nhau là nhân tố cốt yếu để giải quyết mâu thuẫn thành công.
 
-![Lắng nghe nhu cầu đằng sau từ “Không”](images/img_p251_1525.jpg)
+## Lắng nghe nhu cầu đằng sau từ “Không”
 
 Khi chúng ta đưa ra đề nghị, điều rất quan trọng là tôn trọng phản ứng của người kia, thậm chí nếu họ nói “Không” với đề nghị của chúng ta. Đồng thời, chúng ta cũng không chấp nhận sự thỏa hiệp, miễn cưỡng từ bỏ một nhu cầu nào đó của mình. NVC có thể giúp chúng ta tìm ra phương án để đáp ứng nhu cầu của tất cả mọi người một cách trọn vẹn.
 
 Trong Chương 8, chúng ta đã bàn về tầm quan trọng của việc *không* nghe từ “không” như một sự bác bỏ. Thay vào đó, chúng ta lắng nghe nhu cầu đằng sau từ “không” đó: *Khi người kia nói “không”* *với đề nghị của chúng ta, thực ra thì họ đang nói* *rằng họ có một nhu cầu khiến họ không thể nói* *“có”*. Nếu chúng ta có thể nghe thấy nhu cầu ấy, thì chúng ta có thể tiếp tục quá trình giải quyết mâu thuẫn – duy trì sự tập trung vào việc tìm cách đáp ứng nhu cầu của tất cả mọi người.
 
-![NVC và vai trò của người hòa giải](images/img_p252_1531.jpg)
+## NVC và vai trò của người hòa giải
 
 Từ đầu chương đến giờ, chúng ta đã tập trung vào việc học cách giải quyết mâu thuẫn giữa mình và người khác. Nhưng nếu chúng ta đảm nhiệm vai trò làm trung gian hòa giải mẫu thuẫn giữa những người khác, thì chúng ta cần ghi nhớ thêm một vài điều.
 
@@ -234,7 +232,7 @@ Khi làm điều đó, tôi cũng thường kiểm tra với họ xem liệu tô
 
 nói ra điều quan sát, xác định và bày tỏ cảm xúc, kết nối cảm xúc với nhu cầu, và đưa ra lời đề nghị có thể thực hiện được bằng “ngôn ngữ hành động” rõ ràng, cụ thể.
 
-![Khi các bên từ chối gặp mặt nhau](images/img_p259_1573.jpg)
+## Khi các bên từ chối gặp mặt nhau
 
 Khi làm trung gian hòa giải, việc các bên gặp mặt để bày tỏ và lắng nghe những nhu cầu và mong muốn của nhau là lí tưởng. Tuy nhiên, trong nhiều trường hợp, một hoặc cả hai bên có thể từ chối làm việc đó. Họ nói: “Chẳng có ích gì, vì họ sẽ không lắng nghe. Tôi đã thử nói chuyện với họ rồi và nó không hiệu quả.”
 
@@ -262,7 +260,7 @@ Tuy nhiên, chúng ta cần tránh nói đến những nhu cầu của mình li�
 
 Trừ khi chúng ta đảm bảo rằng các bên ý thức về những nhu cầu của chính họ và của người khác, việc “nhúng mũi vào chuyện của người khác” của chúng ta sẽ khó mà thành công. Do đó, chúng ta cần tránh bị vướng vào “tư duy khan hiếm” – cho rằng chỉ nhu cầu của mình là quan trọng. Khi “tư duy khan hiếm” kết hợp với “tư duy đúng-sai”, bất kỳ ai trong chúng ta cũng có thể trở nên bạo lực và mù quáng ngay cả trong những vấn đề đơn giản nhất. Khi đó, mâu thuẫn sẽ trở nên dường như không thể giải quyết được – và nó sẽ là như vậy nếu chúng ta không kết nối với người kia bằng cách trước tiên trao sự đồng cảm cho họ mà không tập trung vào những nhu cầu của chính mình.
 
-![Tổng kết](images/img_p263_1588.png)
+## Tổng kết
 
 Giải quyết mâu thuẫn bằng NVC thì khác với các phương pháp giải quyết mâu thuẫn truyền thống: thay vì dành thời gian để phân tích vấn đề và cân đo đong đếm các phương án thỏa hiệp, chúng ta tập trung nhiều nhất vào việc xác định những nhu cầu của các bên, rồi sau đó mới tìm những cách thức để đáp ứng chúng.
 

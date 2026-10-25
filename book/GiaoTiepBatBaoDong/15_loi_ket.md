@@ -1,4 +1,6 @@
-**Lời kết** Lần nọ, tôi hỏi cậu Julius rằng cậu đã làm thế nào để phát triển nhiều tình yêu thương và lòng trắc ẩn đến thế. Cậu mỉm cười, suy ngẫm một chút rồi trả lời: “Cậu may mắn có được nhiều người thầy giỏi.” Khi tôi hỏi những người thầy đó là ai, cậu đáp: “Bà ngoại con là người thầy giỏi nhất của cậu. Con sống với bà khi bà đã bị bệnh, nên con không biết bà thực sự là người như thế nào. Ví dụ, mẹ con có từng kể cho con rằng trong thời kỳ Đại Suy thoái hồi những năm 1930, bà con đã đưa một người thợ may cùng vợ và hai con của ông ấy đến sống với mình trong ba năm, sau khi ông ấy mất hết nhà cửa và công việc chưa?” Tôi vẫn nhớ rõ câu chuyện ấy. Lần đầu tiên nghe mẹ kể, tôi đã cảm thấy ấn tượng sâu sắc vì tôi không biết bà đã làm cách nào để tìm đủ không gian cho gia đình người thợ may trong khi bà đang nuôi chín đứa con trong một ngôi nhà với diện tích khiêm tốn.
+# Lời kết & Chú thích tham khảo
+
+ Lần nọ, tôi hỏi cậu Julius rằng cậu đã làm thế nào để phát triển nhiều tình yêu thương và lòng trắc ẩn đến thế. Cậu mỉm cười, suy ngẫm một chút rồi trả lời: “Cậu may mắn có được nhiều người thầy giỏi.” Khi tôi hỏi những người thầy đó là ai, cậu đáp: “Bà ngoại con là người thầy giỏi nhất của cậu. Con sống với bà khi bà đã bị bệnh, nên con không biết bà thực sự là người như thế nào. Ví dụ, mẹ con có từng kể cho con rằng trong thời kỳ Đại Suy thoái hồi những năm 1930, bà con đã đưa một người thợ may cùng vợ và hai con của ông ấy đến sống với mình trong ba năm, sau khi ông ấy mất hết nhà cửa và công việc chưa?” Tôi vẫn nhớ rõ câu chuyện ấy. Lần đầu tiên nghe mẹ kể, tôi đã cảm thấy ấn tượng sâu sắc vì tôi không biết bà đã làm cách nào để tìm đủ không gian cho gia đình người thợ may trong khi bà đang nuôi chín đứa con trong một ngôi nhà với diện tích khiêm tốn.
 
 Cậu Julius kể thêm về lòng trắc ẩn của bà tôi thông qua một vài câu chuyện nữa mà tôi đều đã từng nghe khi còn nhỏ. Rồi cậu hỏi:
 
@@ -52,4 +54,3 @@ Bà tôi thích nhảy múa, và mẹ tôi nhớ bà thường nói: “Đừng 
 
 (*) Ramadan: lễ có ý nghĩa quan trọng đối với người Hồi giáo (*) Adolf Eichmann: trung tá Đức Quốc Xã, người đã thực thi chiến dịch giết hàng chục ngàn người Do Thái. (ND) (*) Bạn có thể nghe tiến sĩ Marshall Rosenberg hát bài hát này tại: https:// www.youtube.com/watch? v=Ljh6cwo0Jyw, tại 1:24:30 (ND) (*) Câu này có nghĩa là “Ta là Chúa Jesus.” (ND) (*) Bạn có thể nghe tiến sĩ Marshall Rosenberg hát bài hát này tại: https://youtu.be/Ljh6cwo0Jyw, tại 37:00 (ND)
 
-![Thư viện Ebook SachMoi.Net](images/img_p024_255.jpg)

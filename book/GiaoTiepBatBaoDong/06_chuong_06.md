@@ -1,14 +1,12 @@
-# **CHƯƠNG 6**
-
-![Đưa ra đề nghị một cách rõ ràng và cụ thể](images/img_p115_767.jpg)
+# Chương 6: Đưa ra đề nghị
 
 Chúng ta đã đi qua ba yếu tố đầu tiên của NVC: quan sát, cảm xúc và nhu cầu. Chúng ta đã học cách bày tỏ những điều này mà không trộn lẫn với sự suy diễn, đổ lỗi, phán xét, chỉ trích. Yếu tố thứ tư của NVC là đưa ra đề nghị – hành động cụ thể mà chúng ta muốn yêu cầu người khác làm để giúp cuộc đời chúng ta trở nên tươi đẹp hơn. Vậy làm thế nào để nói lời đề nghị mà người khác dễ dàng tiếp nhận và sẵn lòng đáp lại với lòng trắc ẩn?
 
 > **Đề nghị điều mình muốn, thay vì chỉ nói điều mình không muốn.**
 
-![Sử dụng “ngôn ngữ hành động” rõ ràng, cụ thể](images/img_p115_768.jpg)
+## Sử dụng “ngôn ngữ hành động” rõ ràng, cụ thể
 
-![Đầu tiên, chúng ta cần để nghị](images/img_p115_770.jpg)
+
 
 điều mình *muốn*, thay vì chỉ nói *không muốn*. Khi chúng ta chỉ nói *không* muốn, có hai vấn đề thường nảy sinh: (1) người kia cảm thấy bối rối vì không hiểu rõ chúng ta thực sự muốn gì, và (2) việc đó có khuynh hướng tạo ra sự phản kháng. Ruth Bebermeyer, một đồng nghiệp của tôi, sáng tác một bài hát với những câu sau để nói về điều này: “Khi bạn bảo tôi đừng làm gì, thì tôi biết làm gì?” và “Tất cả những gì tôi biết là khi bạn bảo tôi đừng làm, tôi cảm thấy cứ muốn tiếp tục làm.”
 
@@ -76,7 +74,7 @@ Một tác hại khác của việc thiếu ý thức về điều mình thực 
 
 *Tôi:* Tôi vui vì bạn đã làm rõ. Và tôi hy vọng giờ đây bạn đã có thể nhận ra tại sao bạn khó có thể tìm ra bất kỳ ai có thể đáp ứng những nhu cầu của mình.
 
-![Đề nghị một cách có ý thức](images/img_p121_821.jpg)
+## Đề nghị một cách có ý thức
 
 Đôi khi, chúng ta có thể đưa ra một đề nghị rõ ràng mà không cần nói quá nhiều lời. Ví dụ, bạn đang ở trong phòng bếp và chị của bạn, người đang xem tivi trong phòng khách, nói to: “Em ơi, chị khát.” Trong trường hợp này, rõ ràng là chị đang nhờ bạn lấy cho mình một ly nước.
 
@@ -104,7 +102,7 @@ Tuy nhiên, việc người ta nói mà không ý thức về điều mình mu�
 
 “Tôi chẳng đang đề nghị gì cả, tôi chỉ muốn nói thế thôi.” Tôi tin rằng, bất cứ khi nào chúng ta nói một điều gì đó với người khác, chúng ta đang đề nghị họ đáp lại theo một cách nào đó. Có thể chúng ta muốn họ bày tỏ sự thấu hiểu và đồng cảm với điều mình nói, như trong trường hợp của người đàn ông trên xe điện ở sân bay. Hoặc chúng ta muốn họ chia sẻ những suy nghĩ, cảm nhận của mình. Hoặc chúng ta muốn họ có một hành động nào đó để đáp ứng những nhu cầu của chúng ta. Chúng ta càng rõ ràng về điều mình muốn nhận lại, những nhu cầu của chúng ta càng có nhiều khả năng được đáp ứng.
 
-![Đề nghị người kia diễn đạt lại](images/img_p124_833.jpg)
+## Đề nghị người kia diễn đạt lại
 
 Bạn biết đấy, nhiều khi chúng ta nói một đằng, nhưng người kia lại hiểu một nẻo. Vậy nên, nếu chúng ta không chắc rằng người kia đã thực sự hiểu mình, thì chúng ta cần hỏi họ. Đôi khi, một câu hỏi đơn giản như “Bạn đã hiểu chưa?” là đủ. Trong những trường hợp khác, ngay cả khi họ nói: “Tôi hiểu rồi”, chúng ta vẫn có thể chưa cảm thấy tự tin rằng họ đã thực sự hiểu. Khi đó, chúng ta cần đề nghị họ diễn đạt lại điều chúng ta đã nói, để chúng ta có cơ hội làm rõ hơn nếu họ chưa hoàn toàn hiểu đúng.
 
@@ -116,7 +114,7 @@ Nếu người giáo viên nói: “Đó không phải điều cô đã nói”,
 
 Việc đề nghị người kia diễn đạt lại có thể tạo ra cảm giác lúng túng, ngượng nghịu vì chúng  ta  hiếm  khi  đề nghị người khác làm như vậy. Thậm chí, nhiều người còn lo rằng người kia có thể phản ứng tiêu cực, chẳng hạn như: “Bạn nghĩ tôi điếc hả?” hay “Dừng cái trò tâm lý ấy đi.” Để tránh những phản ứng như thế, chúng ta có thể bày tỏ nhu cầu của mình đằng sau lời đề nghị đó, bằng cách giải thích rằng chúng ta chỉ muốn đảm bảo là mình đã nói rõ ràng. Tuy nhiên, nếu người kia đáp trả: “Tôi hiểu rồi; tôi không phải thằng ngốc!”, thì chúng ta hãy chọn cách kết nối với những cảm xúc và nhu cầu của họ, chẳng hạn bằng cách nói: “Có phải bạn khó chịu vì muốn nhận được sự tôn trọng đối với khả năng hiểu vấn đề của mình?”
 
-![Phân biệt Đề nghị và Yêu cầu áp đặt](images/img_p126_842.jpg)
+## Phân biệt Đề nghị và Yêu cầu áp đặt
 
 Sau khi bày tỏ những cảm xúc, nhu cầu, mong muốn của mình và thấy người kia đã thực sự hiểu, chúng ta thường muốn biết họ phản ứng như thế nào về những điều chúng ta nói, thông thường theo một trong ba hướng sau:
 
@@ -140,7 +138,7 @@ Sau khi bày tỏ những cảm xúc, nhu cầu, mong muốn của mình và th�
 
 Tóm lại, NVC đòi hỏi chúng ta ý thức về điều mình muốn nhận lại từ người khác, và đề nghị điều đó một cách rõ ràng bằng “ngôn ngữ hành động.”
 
-![Dua ra dé nghị trong nhórn](images/img_p128_851.jpg)
+## Đưa ra đề nghị trong nhóm
 
 Việc ý thức về điều mình muốn nhận lại từ người khác khi nói đặc biệt quan trọng trong một nhóm, vì nếu không thì chúng ta có thể khởi đầu những cuộc thảo luận vô ích, không đáp ứng được nhu cầu của bất kỳ ai.
 
@@ -158,7 +156,7 @@ Và đó là lý do tại sao 20 phút quý giá của cả nhóm đã bị lãn
 
 Ở Ấn Độ, khi nói chuyện mà người ta hiểu rõ mình muốn nhận lại điều gì từ người khác và đã nhận được điều đó, họ sẽ nói: “bas” (phát âm như từ “bus” trong tiếng Anh), có nghĩa là “Bạn không cần nói thêm nữa. Tôi cảm thấy thỏa mãn và sẵn sàng chuyển sang chủ đề khác.” Mặc dù không có một từ giống vậy trong ngôn ngữ của mình, chúng ta cũng cần phát triển “nhận thức bas” nếu muốn có những cuộc thảo luận hiệu quả.
 
-![Phân biệt Đề nghị và Mệnh lệnh](images/img_p130_860.jpg)
+## Phân biệt Đề nghị và Mệnh lệnh
 
 Người khác sẽ hiểu lời đề nghị của chúng ta là mệnh lệnh khi họ tin rằng mình sẽ bị trách móc, chỉ trích hoặc trừng phạt nếu không làm theo. Khi người ta nghe thấy một mệnh lệnh, họ chỉ thấy hai lựa chọn:
 
@@ -198,15 +196,9 @@ Chúng ta có thể giúp người khác tin rằng chúng ta đang đề nghị
 
 > **Trong NVC, chủ đích của chúng ta là tạo ra sự kết nối dựa trên sự trung thực và đồng cảm, và tìm cách đáp ứng nhu cầu của tất cả mọi người.**
 
-Lựa chọn đề nghị, thay vì mệnh lệnh, không có nghĩa là chúng ta từ bỏ khi người kia nói “Không” với đề nghị của chúng ta. Điều đó chỉ có nghĩa là chúng ta bày tỏ sự đồng cảm với nhu cầu
+Lựa chọn đề nghị, thay vì mệnh lệnh, không có nghĩa là chúng ta từ bỏ khi người kia nói “Không” với đề nghị của chúng ta. Điều đó chỉ có nghĩa là chúng ta bày tỏ sự đồng cảm với nhu cầu đằng sau sự từ chối của họ trước, rồi sau đó mới nỗ lực tiếp tục cuộc đối thoại.
 
-![đằng sau sự từ chối của họ trước, rồi sau đó mới cổ gang](images/img_p134_876.jpg)
-
-![NVC trong thực tế: Bày tỏ mong muốn một cách rõ ràng](images/img_p134_877.jpg)
-
-.
-
-![Xác định chủ đích khi đưa ra đề nghị](images/img_p134_875.jpg)
+## Xác định chủ đích khi đưa ra đề nghị
 
 Việc đưa ra đề nghị chân thành đòi hỏi chúng ta ý thức về chủ đích của mình. Nếu chủ đích của chúng ta là bắt ép người khác làm theo ý mình, thì NVC không phải là công cụ phù hợp. Trong NVC, chủ đích của chúng ta là tạo ra sự kết nối dựa trên  sự  trung  thực  và đồng cảm, và tìm cách đáp ứng nhu cầu của tất cả mọi người. Chúng ta muốn người khác làm theo đề nghị của mình, nhưng chỉ khi họ sẵn lòng làm thế. Khi người khác tin rằng đó là chủ đích chính của chúng ta, họ mới có thể tin rằng lời đề nghị của chúng ta là một đề nghị thực sự, thay vì một mệnh lệnh được ngụy trang.
 
@@ -268,11 +260,11 @@ Một đêm nọ, chúng tôi ngồi lại nói chuyện với nhau và tôi c�
 >
 > *cho đến khi con đáp ứng mọi tiêu chuẩn của bố*.(*)
 
-![Tổng kết](images/img_p139_903.png)
+## Tổng kết
 
-Yếu tố thứ tư của NVC là đưa ra – hành động cụ thể mà chúng ta muốn yêu cầu người khác làm để giúp cải thiện chất lượng cuộc đời chúng ta. Chúng ta cần đề nghị điều mình *muốn*, thay vì chỉ nói điều mình *không muốn*. Bên cạnh đó, chúng ta cần sử dụng“ngôn ngữ hành động”, thay vì yêu cầu một cách mơ hồ, chung chung.
+Yếu tố thứ tư của NVC là đưa ra lời đề nghị – hành động cụ thể mà chúng ta muốn yêu cầu người khác làm để giúp cải thiện chất lượng cuộc đời chúng ta. Chúng ta cần đề nghị điều mình *muốn*, thay vì chỉ nói điều mình *không muốn*. Bên cạnh đó, chúng ta cần sử dụng“ngôn ngữ hành động”, thay vì yêu cầu một cách mơ hồ, chung chung.
 
-![để nghị](images/img_p139_904.png)
+
 
 Mỗi khi nói, chúng ta càng rõ ràng về điều mình muốn nhận lại từ người khác, những nhu cầu của chúng ta càng có nhiều khả năng được đáp ứng. Để đảm bảo người kia thực sự hiểu điều chúng ta đã nói, chúng ta có thể đề nghị họ diễn đạt lại. Chúng ta cũng có thể đề nghị họ chia sẻ những phản ứng của mình khi nghe điều chúng ta nói. Việc ý thức về điều mình muốn nhận lại khi nói đặc biệt quan trọng trong một nhóm, vì nếu không thì chúng ta có thể khởi đầu những cuộc thảo luận vô ích, gây lãng phí thời gian của mọi người.
 
@@ -322,9 +314,7 @@ Dĩ nhiên rồi, Burt. Dẫu cho cậu có quyết định thế nào đi nữa
 
 Chắc chắn. Cậu cứ xem khi nào mình sẵn sàng. Tớ sẽ không nói với ai đâu.
 
-![Bài tập 4](images/img_p143_941.png)
-
-![ĐƯA RA ĐỀ NGHỊ](images/img_p143_942.jpg)
+## Bài tập 4: Đưa ra đề nghị
 
 Trong bài tập sau, bạn hãy khoanh tròn các câu nói mà người nói *đang đề nghị một cách rõ ràng, cụ* *thể bằng “ngôn ngữ hành động.”*
 
