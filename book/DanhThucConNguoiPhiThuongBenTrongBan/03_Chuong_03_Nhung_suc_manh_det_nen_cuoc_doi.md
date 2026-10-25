@@ -9,9 +9,7 @@ Cô ấy vừa đi tản bộ được chừng nửa giờ thì tai họa ập t
 
 Câu chuyện ghê tởm và man rợ này xảy ra ở Central Park cách đây mấy năm. Lúc đó tôi đang ở New York. Tôi kinh sợ vì cuộc tấn công man rợ đã đành, nhưng nhất là vì những kẻ tấn công còn đang ở lứa tuổi vị thành niên. Tất cả chỉ từ 14 đến 17 tuổi. Không như bình thường, chúng không phải những con nhà nghèo khổ hay có gia đình rắc rối, nhưng là những học sinh trung học và là thành viên của câu lạc bộ kèn đồng Little League. Chúng không nghiện ma túy, cũng không có những động cơ phân biệt chủng tộc. Chúng đã tấn công vì một lý do độc nhất: trò đùa, chúng còn cho việc chơi đùa này một cái tên:"hung bạo".
 
-Cách xa thủ đô không đầy 300 km, một chiếc phản lực đã nổ khi vừa cất cánh ở sân bay Quốc gia trong một cơn bão tuyết. Máy bay đâm vào cầu Potomac đúng vào giờ cao điểm. Giao thông bị tắc nghẽn, trong khi việc cứu cấp nạn nhân được tiến hành cấp tốc và quang cảnh khu vực cầu là cả một cơn ác mộng. Nhân viên chữa cháy và cứu thương phải hết sức vất vả cứu
-
-các nạn nhân.
+Cách xa thủ đô không đầy 300 km, một chiếc phản lực đã nổ khi vừa cất cánh ở sân bay Quốc gia trong một cơn bão tuyết. Máy bay đâm vào cầu Potomac đúng vào giờ cao điểm. Giao thông bị tắc nghẽn, trong khi việc cứu cấp nạn nhân được tiến hành cấp tốc và quang cảnh khu vực cầu là cả một cơn ác mộng. Nhân viên chữa cháy và cứu thương phải hết sức vất vả cứu các nạn nhân.
 
 Có một người đàn ông liên tục chuyền bình khí oxy cho những người khác. Anh đã cứu được nhiều người, chỉ trừ mạng sống của anh. Rốt cuộc khi máy bay trực thăng cứu nạn đáp xuống chỗ anh ta, anh đã trượt hẳn xuống bên dưới lớp tuyết lạnh cóng. Anh đã hy sinh mạng sống mình để cứu sống những người hoàn toàn xa lạ với anh. Điều gì đã thúc đẩy anh coi trọng sinh mạng của những con người mà anh ta không hề quen biết thế? Và anh ta đã hy sinh tính mạng mình vì những người ấy?
 

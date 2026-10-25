@@ -2,9 +2,7 @@
 
 **BILL RANCIC**
 
-*Bill Rancic từng là người chiến thắng đầu tiên trong chương trình truyền hình về bất động sản có tên The Apprentice của Donald Trump.* Ông là người đồng sáng lập ra Cigars Around the World và là tác giả của
-
-cuốn sách "You’re Hired: How to Succeed in Business and Life from the Winner of The Apprentice".
+*Bill Rancic từng là người chiến thắng đầu tiên trong chương trình truyền hình về bất động sản có tên The Apprentice của Donald Trump.* Ông là người đồng sáng lập ra Cigars Around the World và là tác giả của cuốn sách "You’re Hired: How to Succeed in Business and Life from the Winner of The Apprentice".
 
 Cách đây 2 năm, tôi có thời gian làm tập sự cho Trump. Tôi đã rất may mắn khi được ông bảo trợ, được chỉ bảo chiến lược và các phương cách kinh doanh trong lĩnh vực bất động sản.
 

@@ -2,9 +2,7 @@
 
 **THOMAS J. HUTCHISON III**
 
-*Thomas J. Hutchison là CEO của Liên hợp CNL Hotels & Resorts, một*
-
-trong những tơ rớt lớn nhất nước Mỹ về đầu tư bất động sản, đặc biệt là trong lĩnh vực nhà nghỉ.
+*Thomas J. Hutchison là CEO của Liên hợp CNL Hotels & Resorts, một* trong những tơ rớt lớn nhất nước Mỹ về đầu tư bất động sản, đặc biệt là trong lĩnh vực nhà nghỉ.
 
 Trong kinh doanh bất động sản, một vụ giao dịch chỉ thành công khi kết thúc vụ giao dịch, cả hai bên tham gia đều cảm thấy mình đã đạt được điều mong muốn. Tất cả các thành phần trong vụ giao dịch đều là người chiến thắng; tất cả các bên đều thực sự cảm thấy rằng mình đã chiếm ưu thế. Đây chính là nghệ thuật và phút thư giãn trong kinh doanh, là khúc nhạc khuấy động những vụ giao dịch cùng kiểu lặp đi, lặp lại trong nhiều năm và những mối quan hệ lâu dài dựa trên nguyên tắc trung thực, tôn trọng và tin tưởng lẫn nhau.
 

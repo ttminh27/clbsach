@@ -320,9 +320,7 @@ Nếu thế, bạn đã áp dụng được các kiến thức về sự phát t
 
 Hãy nhớ rằng đứa con lẫm chẫm của bạn không sờ mó, nếm thử hay làm rơi đồ vật nhằm làm cho bạn tức giận. Trẻ chưa hiểu được đồ vật nào sẽ làm đau mình, vật nào có giá trị với bạn hay vật nào sẽ vỡ. Trẻ chưa có ý niệm gì về tiền bạc nên trẻ không biết được vật đó có giá bao nhiêu.
 
-Khi trẻ lẫm chẫm sờ mó, nếm thử hay làm rơi vật, trẻ đang học
-
-hỏi về thế giới quanh mình.
+Khi trẻ lẫm chẫm sờ mó, nếm thử hay làm rơi vật, trẻ đang học hỏi về thế giới quanh mình.
 
 Bây giờ hãy hình dung thế này…
 

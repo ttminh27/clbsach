@@ -6,9 +6,7 @@
 
 Người thanh niên ấy đã thành đạt một cách xuất sắc khi mới 27 tuổi đời. Anh rất thông minh, đọc nhiều và cảm thấy mình có thể lay chuyển được thế giới. Nhưng một hôm anh nhận ra điều này: anh không được *hạnh phúc* bao nhiêu! Nhiều người ghét anh ta vì vẻ kênh kiệu và hống hách của anh ta. Anh cảm thấy mình không còn làm chủ của đời mình, càng không làm chủ được số phận của mình.
 
-Anh quyết định sẽ làm chủ đời mình bằng cách đề ra những chuẩn mực cao hơn cho mình, khai triển một chiến lược để đạt những chuẩn mực đó và tạo ra một hệ thống để đo lường những kết quả anh đạt được *mỗi ngày*. Anh bắt đầu chọn ra 12 "đức tính" - 12 trạng thái mà anh muốn cảm nghiệm hàng ngày - để làm cho đời sống mình đi đúng hướng mình muốn. Rồi anh lấy
-
-cuốn nhật ký viết ra 12 trạng thái đó, bên cạnh danh sách đó anh vẽ những ô vuông dành cho mọi ngày trong tháng. "Mỗi lần tôi vi phạm một đức tính nào, tôi sẽ tô một chấm đen vào ô vuông bên cạnh đức tính đó. Mục tiêu tôi nhắm tới là sẽ không có một chấm đen nào trên danh sách. Lúc đó tôi sẽ biết là mình thực sự sống với các đức tính ấy."
+Anh quyết định sẽ làm chủ đời mình bằng cách đề ra những chuẩn mực cao hơn cho mình, khai triển một chiến lược để đạt những chuẩn mực đó và tạo ra một hệ thống để đo lường những kết quả anh đạt được *mỗi ngày*. Anh bắt đầu chọn ra 12 "đức tính" - 12 trạng thái mà anh muốn cảm nghiệm hàng ngày - để làm cho đời sống mình đi đúng hướng mình muốn. Rồi anh lấy cuốn nhật ký viết ra 12 trạng thái đó, bên cạnh danh sách đó anh vẽ những ô vuông dành cho mọi ngày trong tháng. "Mỗi lần tôi vi phạm một đức tính nào, tôi sẽ tô một chấm đen vào ô vuông bên cạnh đức tính đó. Mục tiêu tôi nhắm tới là sẽ không có một chấm đen nào trên danh sách. Lúc đó tôi sẽ biết là mình thực sự sống với các đức tính ấy."
 
 Anh rất tự hào về ý tưởng này và anh đã đem ra khoe với một anh bạn. Bạn anh nói, "Tuyệt vời! Chỉ có điều tôi nghĩ anh nên thêm đức tính khiêm tốn vào danh sách các đức tính của anh". Và Benjamin Franklin cười ồ lên rồi thêm đức tính thứ 13 vào danh sách của mình.
 

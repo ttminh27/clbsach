@@ -4,9 +4,7 @@ Khi tôi chia sẻ về ý tưởng cuốn sách này với một người bạn
 
 Thật lòng mà nói, trong quá trình viết cuốn sách, không phải không có lúc tôi cảm thấy ngần ngại. Vì lạm bàn về “đúng việc”, “sai việc”, lạm bàn về việc “sắp xếp lại” mọi thứ, “định nghĩa
 
-Má
-
-lạ” mọi chuyện (nhất là những chuyện rất hệ trọng và có khi đã được xác tín trong một thời gian dài như làm người, làm dân và làm việc) luôn là một điều quá lớn và quá khó mà sách vở của nhân loại hàng trăm hàng ngàn năm nay cũng đã bàn luận, đã tranh cãi về nó mà vẫn chưa thống nhất được câu trả lời. Chưa kể việc bàn luận về đề tài này cũng khá là... “nguy hiểm”. Vì nó dễ khiến cho người ta giống như một kẻ mà dân gian hay nói là “ưa dạy đời thiên hạ”, hay như “mấy ông triết gia suốt ngày triết lý mấy chuyện đương nhiên ai cũng biết” (Huống chỉ tôi chỉ là một người làm nghề dạy học).
+Má lạ” mọi chuyện (nhất là những chuyện rất hệ trọng và có khi đã được xác tín trong một thời gian dài như làm người, làm dân và làm việc) luôn là một điều quá lớn và quá khó mà sách vở của nhân loại hàng trăm hàng ngàn năm nay cũng đã bàn luận, đã tranh cãi về nó mà vẫn chưa thống nhất được câu trả lời. Chưa kể việc bàn luận về đề tài này cũng khá là... “nguy hiểm”. Vì nó dễ khiến cho người ta giống như một kẻ mà dân gian hay nói là “ưa dạy đời thiên hạ”, hay như “mấy ông triết gia suốt ngày triết lý mấy chuyện đương nhiên ai cũng biết” (Huống chỉ tôi chỉ là một người làm nghề dạy học).
 
 Nhưng như Immanuel Kant - triết gia lỗi lạc từng nói (và đây cũng là phương châm của khai minh): “Hãy dám biết nà hãy can đảm sử dụng trí tuệ của chính mình!”. Trong suốt hành trình thực hiện các công việc làm người, làm dân, làm việc và làm giáo dục của mình, tôi đã luôn cần đến lòng can đảm đó. Riêng với cuốn sách này, tôi cảm thấy nó rất “đáng” để mình lại “dám biết, dám can đảm” thêm một lần nữa. Bởi vì nó là câu chuyện của mọi xứ sở, mọi nhà, mọi tổ chức, mọi cá nhân (mà tôi cũng là một cá nhân trong số đó). Nên viết không chỉ là cách để bộc bạch, để giải tỏa những trăn trở, mà còn là để tự soi rọi, để có thêm dịp chiêm nghiệm chuyện đúng - sai.
 

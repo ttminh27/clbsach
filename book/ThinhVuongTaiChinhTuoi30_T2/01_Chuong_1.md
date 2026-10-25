@@ -137,9 +137,7 @@ Trước đây, một người bạn làm việc ở ngân hàng đã khuyên an
 
 Choe Socheon lục tìm sổ tiết kiệm và con dấu để tới ngân hàng.
 
-Ngân hàng đông nghịt người, hôm đó đúng vào ngày cuối cùng ngân hàng quyết toán, trong sảnh rất đông những người đang cầm số
-
-chờ đến lượt.
+Ngân hàng đông nghịt người, hôm đó đúng vào ngày cuối cùng ngân hàng quyết toán, trong sảnh rất đông những người đang cầm số chờ đến lượt.
 
 
 ![Hình ảnh trang 18](images/page_018_1.jpeg)

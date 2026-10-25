@@ -30,9 +30,7 @@ Nếu bạn muốn thành thạo một thói quen, chìa khóa nằm ở việc 
 
 ## THỰC TẾ CẦN BAO LÂU ĐỂ HÌNH THÀNH THÓI QUEN MỚI?
 
-*Hình thành thói quen là quá trình một hành vi trở nên tự động*
-
-dần dần thông qua sự lặp đi lặp lại. Bạn tái lặp một hoạt động càng nhiều lần thì cấu trúc não bạn càng thay đổi để trở nên hiệu quả với hoạt động ấy hơn. Các nhà thần kinh học gọi đây là sự tăng cường dài hạn[^53], dùng để chỉ sự cường hóa liên kết giữa các tế bào thần kinh trong não dựa trên mô thức hoạt động mới xảy ra. Với mỗi sự lặp đi lặp lại, tín hiệu từ tế bào đến tế bào được cải thiện và các liên kết thần kinh được thắt chặt. Được mô tả lần đầu tiên bởi nhà tâm lý học thần kinh Donald Hebb năm 1949, hiện tượng này thường được gọi là Quy tắc Hebb: “Tế bào thần kinh nào bắn tín hiệu cho nhau thì liên kết với nhau.”
+*Hình thành thói quen là quá trình một hành vi trở nên tự động* dần dần thông qua sự lặp đi lặp lại. Bạn tái lặp một hoạt động càng nhiều lần thì cấu trúc não bạn càng thay đổi để trở nên hiệu quả với hoạt động ấy hơn. Các nhà thần kinh học gọi đây là sự tăng cường dài hạn[^53], dùng để chỉ sự cường hóa liên kết giữa các tế bào thần kinh trong não dựa trên mô thức hoạt động mới xảy ra. Với mỗi sự lặp đi lặp lại, tín hiệu từ tế bào đến tế bào được cải thiện và các liên kết thần kinh được thắt chặt. Được mô tả lần đầu tiên bởi nhà tâm lý học thần kinh Donald Hebb năm 1949, hiện tượng này thường được gọi là Quy tắc Hebb: “Tế bào thần kinh nào bắn tín hiệu cho nhau thì liên kết với nhau.”
 
 Tái diễn một thói quen dẫn đến các thay đổi về vật lý rõ rệt trong não. Ở các nghệ sĩ chơi đàn, phần tiểu não - cần thiết cho các vận động thể lý như móc dây đàn guitar hay kéo vĩ cầm - có kích thước to hơn so với người không phải nhạc công chuyên nghiệp. Trong khi đó, các nhà toán học có lượng chất xám trong tiểu thùy đỉnh dưới[^54] tăng cao, là chất đóng vai trò quan trọng trong tính toán và ước lượng. Kích thước của nó liên quan trực tiếp đến lượng thời gian bỏ ra vào lĩnh vực ấy; nhà toán học càng lớn tuổi và nhiều kinh nghiệm thì tỷ trọng chất xám càng lớn.
 

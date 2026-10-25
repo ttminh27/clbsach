@@ -92,15 +92,9 @@ b.	 Sợ rằng giáo viên sẽ đánh bạn nếu bạn mắc lỗi
 3.	 Bạn sẽ học tốt hơn nếu bạn nghĩ:
 a.	 Giáo viên luôn ở bên bạn và hỗ trợ bạn bất kể bạn có
 
-☐
+☐ mắc nhiều lỗi tới đâu b.	 Giáo viên sẽ đuổi bạn ra ngoài với thái độ tức giận nếu
 
-mắc nhiều lỗi tới đâu
-
-b.	 Giáo viên sẽ đuổi bạn ra ngoài với thái độ tức giận nếu
-
-☐
-
-bạn mắc lỗi
+☐ bạn mắc lỗi
 
 4.	 Người giáo viên mà bạn luôn muốn làm hài lòng là người:
 a.	 Tốt bụng và hiểu bạn
@@ -230,69 +224,39 @@ Cư xử như một hình mẫu tích cực và là một người chỉ dẫn c
 1.	 Bạn sẽ học tốt hơn nếu giáo viên của bạn:
 a.	 Chỉ cho bạn thấy cách đánh vần những từ mới và dạy bạn
 
-☐
+☐ các quy tắc đánh vần, hoặc b.	 Muốn bạn tự tìm cách đánh vần những từ mới và phạt
 
-các quy tắc đánh vần, hoặc
-
-b.	 Muốn bạn tự tìm cách đánh vần những từ mới và phạt
-
-☐
-
-bạn khi bạn mắc lỗi
+☐ bạn khi bạn mắc lỗi
 
 2.	 Bạn sẽ muốn học nhiều hơn nữa nếu giáo viên của bạn:
 a.	 Ghi nhận và đánh giá cao những cố gắng của bạn cho dù
 
-☐
-
-chưa được hoàn hảo, hoặc
-
-b.	 Dọa sẽ phạt bạn nếu bạn mắc lỗi
+☐ chưa được hoàn hảo, hoặc b.	 Dọa sẽ phạt bạn nếu bạn mắc lỗi
 ☐
 
 3.	 Bạn sẽ học tốt hơn nếu giáo viên bạn:
 a.	 Cung cấp cho bạn những thông tin cần thiết giúp bạn
 
-☐
+☐ làm bài kiểm tra tốt, hoặc b.	 Không cung cấp cho bạn những thông tin bạn cần và
 
-làm bài kiểm tra tốt, hoặc
-
-b.	 Không cung cấp cho bạn những thông tin bạn cần và
-
-☐
-
-sau đó nổi giận khi bạn không làm được bài
+☐ sau đó nổi giận khi bạn không làm được bài
 
 4.	 Bạn sẽ muốn làm hài lòng giáo viên:
 a.	 Nói cho bạn biết những lỗi bạn mắc và chỉ cho bạn thấy
 
-☐
-
-cách tránh trong những lần sau, hoặc
-
-b.	 Đánh bạn khi bạn mắc lỗi
+☐ cách tránh trong những lần sau, hoặc b.	 Đánh bạn khi bạn mắc lỗi
 ☐
 
 5.	 Bạn sẽ muốn học thêm nhiều ngôn ngữ khác nữa nếu giáo viên của bạn:
 
 a.	 Đưa cho bạn những mẹo nhỏ, lời khuyên và những lời
 
-☐
-
-khích lệ để bạn thử, hoặc
-
-b.	 Nói với bạn rằng bạn không bao giờ có thể học được gì
+☐ khích lệ để bạn thử, hoặc b.	 Nói với bạn rằng bạn không bao giờ có thể học được gì
 ☐
 
 6.	 Bạn sẽ muốn nói cho giáo viên biết những khó khăn mình đang gặp phải nếu bạn cho rằng:
 
-☐
-
-a.	 Giáo viên cố gắng hiểu tại sao bạn lại đang gặp khó
-
-khăn và giúp bạn tìm cách giải quyết
-
-b.	 Giáo viên sẽ nổi giận và phạt bạn?
+☐ a.	 Giáo viên cố gắng hiểu tại sao bạn lại đang gặp khó khăn và giúp bạn tìm cách giải quyết b.	 Giáo viên sẽ nổi giận và phạt bạn?
 ☐
 
 ## Bài tập – Tạo cấu trúc

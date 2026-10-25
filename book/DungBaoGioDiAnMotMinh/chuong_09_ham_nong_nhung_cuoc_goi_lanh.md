@@ -4,9 +4,7 @@
 
 ---
 
-Chỉ cần nhắc đến những cuộc gọi lạnh lùng thì ngay đến
-
-những người rất thành đạt cũng cảm thấy rối bời. Tôi hoàn toàn thông cảm với những người gần như phát rồ khi nghĩ đến việc gọi điện cho một người xa lạ.
+Chỉ cần nhắc đến những cuộc gọi lạnh lùng thì ngay đến những người rất thành đạt cũng cảm thấy rối bời. Tôi hoàn toàn thông cảm với những người gần như phát rồ khi nghĩ đến việc gọi điện cho một người xa lạ.
 
 Vậy thì bạn phải làm sao khi cần thực hiện một cuộc gọi lạnh lùng?
 

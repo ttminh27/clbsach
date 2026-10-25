@@ -50,9 +50,7 @@ Sau đó Clark đã làm được một điều đáng kinh ngạc.
 
 “Tôi nhờ vợ đặt cho một buổi chăm sóc móng đầu tiên trong đời”, anh kể. “Suy nghĩ của tôi lúc ấy là nếu như tôi bắt đầu chăm chút cho móng tay của mình thì tôi sẽ không cắn chúng nữa. Và nó hiệu quả thật, nhưng không phải vì lý do tiền bạc. Điều xảy ra là buổi chăm sóc móng làm cho móng tay tôi trông rất đẹp, lần đầu tiên trong đời. Nhân viên chăm sóc móng còn bảo rằng - thay vì gặm móng - tôi thật sự đã có một bộ móng tay khỏe mạnh và thu hút. Thế là đột nhiên tôi rất tự hào về bộ móng tay của mình. Và thậm chí tôi chưa từng hứng thú với chuyện làm móng này nọ, vậy mà nó đã thực sự tạo nên sự khác biệt. Từ lúc ấy trở đi, tôi chưa bao giờ cắn móng tay trở lại; không một lần nào. Chính bởi vì bây giờ tôi rất tự hào khi chăm sóc chúng đúng cách.”
 
-*Hình thức sau cùng của động lực nội tại là khi một thói quen trở*
-
-thành một phần trong căn tính của bạn. Phát biểu “Tôi là kiểu người muốn điều này” là một chuyện. Còn nói rằng “Tôi chính là kiểu người này” là một chuyện rất khác.
+*Hình thức sau cùng của động lực nội tại là khi một thói quen trở* thành một phần trong căn tính của bạn. Phát biểu “Tôi là kiểu người muốn điều này” là một chuyện. Còn nói rằng “Tôi chính là kiểu người này” là một chuyện rất khác.
 
 Bạn càng cảm thấy tự hào một khía cạnh nào đấy trong căn tính của mình thì bạn càng có động lực để duy trì các thói quen gắn với nó. Nếu bạn tự hào về mái tóc của mình, bạn sẽ dần dần hình thành các kiểu thói quen chăm sóc và bảo dưỡng tóc. Nếu bạn tự hào về cơ bắp tay của mình thì bạn sẽ làm mọi thứ để đảm bảo mình không bỏ buổi tập luyện các nhóm cơ thân trên nào. Nếu bạn tự hào về những chiếc khăn choàng mình đan thì bạn sẽ bỏ ra hàng đống giờ ngồi đan móc hàng tuần. Một khi lòng tự hào của bạn lâm trận, bạn sẽ hạ gục thôi thúc muốn gặm móng tay được ngay để duy trì thói quen của mình.
 

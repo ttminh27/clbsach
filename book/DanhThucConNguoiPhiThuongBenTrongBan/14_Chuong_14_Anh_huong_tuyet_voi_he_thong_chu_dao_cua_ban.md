@@ -8,9 +8,7 @@ Một trong những điều làm tôi thích thú nhất trong đời sống, đ
 
 Đôi khi những chìa khóa này khó nhận ra, cần phải tìm hiểu sâu để khám phá ra chúng. Tuy nhiên, thái độ ứng xử của con người vô cùng đa dạng đấy, nhưng tôi đã tìm ra một điều cho phép tôi thành công, đó là mọi sự rốt cuộc cũng qui về một số khuôn mẫu chung do những yếu tố chủ chốt làm thành. Nếu bạn và tôi nắm được những nguyên tắc tổ chức này, chúng ta sẽ có khả năng không những tạo ảnh hưởng nơi người khác để giúp họ thay đổi một cách tích cực, mà còn *hiểu được tại sao* họ hành động như thế.
 
-Hiểu được Hệ thống chủ đạo điều khiển mọi thái độ con người là một khoa học đích thực được chi phối bởi những định luật và những hành động và
-
-phản ứng có thể đoán trước được.
+Hiểu được Hệ thống chủ đạo điều khiển mọi thái độ con người là một khoa học đích thực được chi phối bởi những định luật và những hành động và phản ứng có thể đoán trước được.
 
 Chúng ta bị vây bọc triền miên bởi vô số những sự việc xảy ra trong đời sống hằng ngày khiến hầu hết chúng ta không nhận ra mình có một triết lý riêng, cũng không nhận ra được sức mạnh mà triết lý này hướng dẫn cách chúng ta đánh giá ý nghĩa của sự việc chung quanh chúng ta. Phần hai trong sách này giúp bạn điều khiển *hệ thống chủ đạo của bạn trong việc đánh giá* -sức mạnh điều khiển cách bạn cảm nhận và việc bạn làm trong mọi giây phút của đời sống.
 

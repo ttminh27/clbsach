@@ -16,9 +16,7 @@ Không có thành công nào thực sự là thành công mà thiếu thành cô
 
 Từ đầu sách đến giờ, chúng ta đã không ngừng tìm hiểu về việc làm chủ các cảm xúc và bạn đã khai triển một tầm mức khá rộng những công cụ để thay đổi một cách nhanh chóng và mạnh mẽ bất kỳ cảm xúc nào bạn mong muốn.
 
-Bây giờ bạn hiểu rõ rằng việc thay đổi cách cảm nhận của chính bạn là động
-
-lực ẩn đàng sau hầu hết các thái độ cư xử của bạn. Thế nên đây là lúc để bạn khai triển một chương trình năng động cho việc xử lý các mẫu cảm xúc tiêu cực mà bạn thường cảm nghiệm. Một việc cũng quan trọng không kém là bạn tạo cho mình khả năng phát triển về lượng và chất số thời gian mà bạn trải qua trong các trạng thái cảm xúc gồm:
+Bây giờ bạn hiểu rõ rằng việc thay đổi cách cảm nhận của chính bạn là động lực ẩn đàng sau hầu hết các thái độ cư xử của bạn. Thế nên đây là lúc để bạn khai triển một chương trình năng động cho việc xử lý các mẫu cảm xúc tiêu cực mà bạn thường cảm nghiệm. Một việc cũng quan trọng không kém là bạn tạo cho mình khả năng phát triển về lượng và chất số thời gian mà bạn trải qua trong các trạng thái cảm xúc gồm:
 
 * Chức năng sinh lý
 

@@ -2,9 +2,7 @@
 
 **RICHARD MEIER**
 
-*Richard Meier là một cổ đông của công ty Richard Meier và những kiến*
-
-trúc sư LLP. Một số dự án của ông như: Trung tâm Getty ở Los Angeles và Bảo tàng nghệ thuật đương đại Barcelona. Ông đã được nhận rất nhiều huy chương như: Huy chương vàng AIA của Hội kiến trúc sư Mỹ và Praemium Imperiale của chính phủ Nhật Bản.
+*Richard Meier là một cổ đông của công ty Richard Meier và những kiến* trúc sư LLP. Một số dự án của ông như: Trung tâm Getty ở Los Angeles và Bảo tàng nghệ thuật đương đại Barcelona. Ông đã được nhận rất nhiều huy chương như: Huy chương vàng AIA của Hội kiến trúc sư Mỹ và Praemium Imperiale của chính phủ Nhật Bản.
 
 Tôi cũng không xác định được đâu là lời khuyên tuyệt nhất về kinh doanh bất động sản mà tôi từng nhận được nhưng lời khuyên tuyệt nhất mà tôi có thể cho bạn là: 1. Hãy thuê một kiến trúc sư để tạo một môi trường có chất lượng cao; 2. Xây dựng nó gần mặt hồ (sông, biển…). Làm được cả hai điều này, bạn đã có một vụ đầu tư khôn ngoan.
 

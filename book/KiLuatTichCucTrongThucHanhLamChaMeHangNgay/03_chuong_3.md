@@ -825,9 +825,7 @@ Nhưng một khi trẻ cố gắng, thất bại và thành công trẻ cũng s�
 
 Nhiệm vụ chính của cha mẹ trong giai đoạn này là **hỗ trợ và hướng** **dẫn con mình**. Những đứa trẻ sẽ nhìn nhận chúng ta như là các hình mẫu và người dẫn dắt.
 
-Chúng ta phải là người mà
-
-chúng ta muốn con mình trở thành.
+Chúng ta phải là người mà chúng ta muốn con mình trở thành.
 
 Người thầy, người cô đầu tiên và quan trọng nhất, thông qua những hành vi ứng xử của chính mình, chúng ta có thể cho trẻ thấy làm thế nào để:
 
@@ -891,15 +889,11 @@ Một thử thách lớn đối với việc làm cha mẹ trong giai đoạn n�
 
 - Dành thời gian cùng nhau
 
-º	 Làm việc cùng nhau º	 Nói chuyện với con về bạn bè của con º	 Lắng nghe những lo lắng và mối quan tâm của con º	 Nhìn nhận những thành quả của con º    Nói với con về những thách thức mà con sẽ phải đối mặt trong
-
-những năm sắp tới và cho con biết rằng bạn sẽ luôn có mặt để giúp đỡ con º	 Thành thật với con º	 Yêu thương, âu yếm con º	 Cố gắng hiểu cảm giác ẩn sau những hành vi của con
+º	 Làm việc cùng nhau º	 Nói chuyện với con về bạn bè của con º	 Lắng nghe những lo lắng và mối quan tâm của con º	 Nhìn nhận những thành quả của con º    Nói với con về những thách thức mà con sẽ phải đối mặt trong những năm sắp tới và cho con biết rằng bạn sẽ luôn có mặt để giúp đỡ con º	 Thành thật với con º	 Yêu thương, âu yếm con º	 Cố gắng hiểu cảm giác ẩn sau những hành vi của con
 
 - Xây dựng lòng tự trọng cho trẻ
 
-º	 Giúp trẻ khám phá và quý trọng chính mình º	 Khuyến khích trẻ tin vào năng lực bản thân º	 Giúp trẻ nhận ra những điểm mạnh và những nét tính cách đặc
-
-biệt
+º	 Giúp trẻ khám phá và quý trọng chính mình º	 Khuyến khích trẻ tin vào năng lực bản thân º	 Giúp trẻ nhận ra những điểm mạnh và những nét tính cách đặc biệt
 
 - Kết nối với trường học của con
 
@@ -909,33 +903,17 @@ biệt
 
 º	 Để bạn bè của con đến chơi nhà mình º	 Gặp gỡ gia đình bạn bè của con º	 Tham gia vào các sự kiện có con mình và bạn của con tham gia
 
-•	 Gần gũi trẻ nhưng cũng cần có một khoảng cách nhất định º	 Biết trẻ đang ở đâu và đang chơi với ai nhưng cần tôn trọng
-
-nhu cầu sống tự lập của trẻ cũng như sự riêng tư của trẻ º	 Cho trẻ thấy rằng bạn tin tưởng vào trẻ
+•	 Gần gũi trẻ nhưng cũng cần có một khoảng cách nhất định º	 Biết trẻ đang ở đâu và đang chơi với ai nhưng cần tôn trọng nhu cầu sống tự lập của trẻ cũng như sự riêng tư của trẻ º	 Cho trẻ thấy rằng bạn tin tưởng vào trẻ
 
 ## Các cách khuyến khích tính độc lập của trẻ
 
 - Giúp trẻ phát triển ý thức về các hành động đúng/sai
 
-º  Nói với trẻ về những hoạt động nguy hiểm và giải thích cho trẻ
-
-tại sao nên tránh xa các việc làm đó: hút thuốc lá, sử dụng chất gây nghiện và các trò thách đố nguy hiểm tới tính mạng. º	 Nói với trẻ về các giá trị của bạn và lắng nghe trẻ º	 Nói với trẻ về những thay đổi về mặt cơ thể cũng như tinh thần
-
-mà trẻ phải trải qua khi đến tuổi dậy thì º	 Nói với trẻ về những áp lực trẻ sẽ phải đối mặt khi làm những
-
-việc mà trẻ nghĩ là sai hay nguy hiểm º 	 Giúp trẻ lập kế hoạch để trẻ cảm thấy được chuẩn bị để đối
-
-diện với những áp lực của bạn cùng lứa. º	 Giúp trẻ tìm được cách chống lại các áp lực đồng niên mà hiệu
-
-quả với trẻ.
+º  Nói với trẻ về những hoạt động nguy hiểm và giải thích cho trẻ tại sao nên tránh xa các việc làm đó: hút thuốc lá, sử dụng chất gây nghiện và các trò thách đố nguy hiểm tới tính mạng. º	 Nói với trẻ về các giá trị của bạn và lắng nghe trẻ º	 Nói với trẻ về những thay đổi về mặt cơ thể cũng như tinh thần mà trẻ phải trải qua khi đến tuổi dậy thì º	 Nói với trẻ về những áp lực trẻ sẽ phải đối mặt khi làm những việc mà trẻ nghĩ là sai hay nguy hiểm º 	 Giúp trẻ lập kế hoạch để trẻ cảm thấy được chuẩn bị để đối diện với những áp lực của bạn cùng lứa. º	 Giúp trẻ tìm được cách chống lại các áp lực đồng niên mà hiệu quả với trẻ.
 
 - Giúp trẻ phát triển ý thức về trách nhiệm và năng lực của mình
 
-º	 Để trẻ tham gia vào các công việc nhà º	 Nói cho trẻ biết về tiền và cách sử dụng tiền một cách khôn
-
-ngoan º	 Cho trẻ tham gia vào xây dựng các quy tắc và các mong đợi cho
-
-gia đình
+º	 Để trẻ tham gia vào các công việc nhà º	 Nói cho trẻ biết về tiền và cách sử dụng tiền một cách khôn ngoan º	 Cho trẻ tham gia vào xây dựng các quy tắc và các mong đợi cho gia đình
 
 - Giúp trẻ phát triển khả năng thấu cảm và tôn trọng người khác
 
@@ -943,11 +921,7 @@ gia đình
 
 - Giúp trẻ định hướng tương lai
 
-º	 Giúp trẻ đặt ra mục đích cho mình º	 Nói với trẻ về những kỹ năng và kiến thức trẻ muốn có khi lớn
-
-hơn º	 Khuyến khích trẻ có ước mơ, có tầm nhìn về những gì trẻ muốn
-
-trở thành º	 Giúp trẻ nhận ra cách để đạt được các mục tiêu của mình.
+º	 Giúp trẻ đặt ra mục đích cho mình º	 Nói với trẻ về những kỹ năng và kiến thức trẻ muốn có khi lớn hơn º	 Khuyến khích trẻ có ước mơ, có tầm nhìn về những gì trẻ muốn trở thành º	 Giúp trẻ nhận ra cách để đạt được các mục tiêu của mình.
 
 Tất cả những khối xây dựng mà cha mẹ đã thực hiện cho trẻ trong những năm trước, giờ đây trở nên rất quan trọng.
 
@@ -1025,9 +999,7 @@ Các quan tâm/hứng thú về học thuật
 
 Các kế hoạch cho tương lai
 
-Trẻ em có quyền tự do bày tỏ
-
-và tự do suy nghĩ.
+Trẻ em có quyền tự do bày tỏ và tự do suy nghĩ.
 
 Điều 13, 14: Công ước Liên hợp quốc về Quyền trẻ em
 

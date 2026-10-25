@@ -159,9 +159,7 @@ Quá sốc và đau buồn trước những gì mà mình được con đáp tr�
 
 Tuy nhiên, chuyện trường công hay trường tư, chuyện đầu tư nhiều tiền hay ít tiền cho sự học của con không thể giải quyết được tận gốc những vấn đề mà chị cũng như nhiều phụ huynh khác đang “đau đầu nhức óc”. Bởi trong bối cảnh nhiều xáo trộn ngày nay, các bậc làm cha làm mẹ không thể trông cậy hết vào nhà trường, xã hội hay một giải pháp đâu đó bên ngoài trong chuyện giáo dục con mình. Khi mà nhà trường thay vì là một “thánh đường của lương giáo” lại là nơi ngổồn ngang quá nhiều vấn đề đáng lo ngại như nạn chạy trường, mua điểm, gian lận thi cử, bạo lực học đường, đua đòi...; khi mà xã hội đang hứng chịu nhiều cú sốc văn hóa và vô số biến tướng về cách sống, cách hành xử như hiện nay thì hy vọng lớn nhất và cũng là giải pháp chắc chắn nhất cho việc dạy con và cứu con mình khỏi những lệch lạc của cuộc sống lại chính là gia đình. Nói nôm na như như một phụ huynh từng nói với tôi là: “Nhà trường vầy, xã hội vầy thì sao dám giao con cho ai? Chỉ có mình tự cứu lấy con mình thôi!
 
-Nhưng đó cũng không phải là chuyện dễ dàng gì với các gia đình, khi mà toàn cầu hóa đang cuốn chúng ta vào một cơn lốc xoáy mãnh liệt, kèm theo bối cảnh khủng hoảng về nhiều mặt, đẩy những đứa trẻ ra khỏi vòng kiểm soát của cha mẹ một cách nhanh chóng. Cùng với nó là khoảng cách thế hệ ngày càng bị kéo dãn bởi những thay đổi như vũ bão của thời cuộc. Tình thương yêu không bao giờ mắt đi, nhưng sự đối thoại giữa ông bà, cha mẹ và con cái đang ngày càng khó khăn hơn vì khoảng cách thế hệ quá lớn này. Nếu như trước đây, khoảng cách giữa hai thế hệ thường được xem là khoảng 25 năm thì ngày nay, với sự thay đổi chóng mặt và khôn lường của mọi thứ, có khi chỉ cách nhau mấy tuổi đã là hai thế hệ. Nhưng không đối thoại thì làm sao có thể dạy con? Không đối thoại thì chuyện
-
-con nhìn cha mẹ như “đồ cổ”, “hàng tồn kho” (hay như “bà già lầm cẩm” trong câu chuyện của chỉ bạn nói trên), còn cha mẹ nhìn con như những đứa “không ra thể thống gỳ, “không thể hiểu nổi” e là chuyện khó tránh khỏi!
+Nhưng đó cũng không phải là chuyện dễ dàng gì với các gia đình, khi mà toàn cầu hóa đang cuốn chúng ta vào một cơn lốc xoáy mãnh liệt, kèm theo bối cảnh khủng hoảng về nhiều mặt, đẩy những đứa trẻ ra khỏi vòng kiểm soát của cha mẹ một cách nhanh chóng. Cùng với nó là khoảng cách thế hệ ngày càng bị kéo dãn bởi những thay đổi như vũ bão của thời cuộc. Tình thương yêu không bao giờ mắt đi, nhưng sự đối thoại giữa ông bà, cha mẹ và con cái đang ngày càng khó khăn hơn vì khoảng cách thế hệ quá lớn này. Nếu như trước đây, khoảng cách giữa hai thế hệ thường được xem là khoảng 25 năm thì ngày nay, với sự thay đổi chóng mặt và khôn lường của mọi thứ, có khi chỉ cách nhau mấy tuổi đã là hai thế hệ. Nhưng không đối thoại thì làm sao có thể dạy con? Không đối thoại thì chuyện con nhìn cha mẹ như “đồ cổ”, “hàng tồn kho” (hay như “bà già lầm cẩm” trong câu chuyện của chỉ bạn nói trên), còn cha mẹ nhìn con như những đứa “không ra thể thống gỳ, “không thể hiểu nổi” e là chuyện khó tránh khỏi!
 
 Một người chủ một doanh nghiệp lớn mà tôi biết đặt ra một quy định như sau cho gia đình mình: Hàng tuần, cho dù có bận rộn đến mấy đi nữa, cả gia đình phải ăn với nhau ít nhất là một bữa cơm chung. Và hàng chục năm qua, gia đình anh hiếm khi phá vỡ quy định này. Dù bận rộn đến mấy, cứ hàng tuần, vợ chồng con cái dâu rể nhà anh (trong đó có không ít người thành đạt ngoài xã hội) lại sum vầy đông đủ để ăn cơm cùng nhau (trừ trường hợp có ai đó phải vắng mặt vì lý do đi công tác xa) và trong khoảng thời gian đoàn viên đó hầu như không ai đụng tới điện thoại hay máy tính. Anh nói, trong thời đại bận rộn ngày nay, bữa cơm gia đình vừa là “diễn đàn đối thoại” giữa các thế hệ, lại vừa là một “trường học đặc biệt” cho những đứa trẻ. Chỉ là một mâm cơm nhỏ nhưng lại có tác dụng rất lớn trong việc xóa nhòa khoảng cách giữa cha mẹ con cái.
 
@@ -243,13 +241,9 @@ Nhà nước
 
 Việt Nam
 
-Bao sân hết toàn bộ: tổ chức biên soạn chương trình giáo dục phổ thông, sách giáo khoa, sách giáo viên, các chuyên đề điều chỉnh theo đợt cũng như các nhiệm vụ kế hoạch giảng dạy
+Bao sân hết toàn bộ: tổ chức biên soạn chương trình giáo dục phổ thông, sách giáo khoa, sách giáo viên, các chuyên đề điều chỉnh theo đợt cũng như các nhiệm vụ kế hoạch giảng dạy hằng năm.
 
-hằng năm.
-
-Phần Lan Biên soạn chương trình khung quốc gia, xét duyệt và cấp phép cho các bộ
-
-sách giáo khoa.
+Phần Lan Biên soạn chương trình khung quốc gia, xét duyệt và cấp phép cho các bộ sách giáo khoa.
 
 Hiệu trưởng
 
@@ -259,37 +253,25 @@ Giáo viên
 
 Tổ chức triển khai thực hiện nội dung chương trình giáo dục, các chuyên đề điều chỉnh theo đợ. Kiểm soát, hướng dẫn các giáo viên thực hiện theo các văn bản, phản ánh các ý kiến của mình và của giáo viên lên trên thông qua các đợt học tập, hội thảo.
 
-Thực hiện giảng dạy những gì đã được soạn sẵn một cách chỉ tiến phản ảnh lên cấp trên những ý kiến qua các hội thảo, các buổi học
+Thực hiện giảng dạy những gì đã được soạn sẵn một cách chỉ tiến phản ảnh lên cấp trên những ý kiến qua các hội thảo, các buổi học chuyên đề.
 
-chuyên đề.
+Tham gia chủ động vào việc biên soạn chương trình giáo dục địa phương, tổ chức biên soạn chương trình riêng của trường và chọn sách giáo khoa sử dụng trong trường trong sự trao đổi với các giáo viên.
 
-Tham gia chủ động vào việc biên soạn chương trình giáo dục địa phương, tổ chức biên soạn chương trình riêng của trường và chọn sách giáo khoa sử dụng trong trường trong sự trao đổi với
-
-các giáo viên.
-
-Tham gia chủ động vào việc biên soạn nội dung chương trình giáo dục địa phương, của riêng trường và quyết định chọn sách giáo khoa để sử dụng, chủ động lựa chọn những chất liệu, nội dung phục vụ việc
-
-giảng dạy trong lớp.
+Tham gia chủ động vào việc biên soạn nội dung chương trình giáo dục địa phương, của riêng trường và quyết định chọn sách giáo khoa để sử dụng, chủ động lựa chọn những chất liệu, nội dung phục vụ việc giảng dạy trong lớp.
 
 Học sinh
 
 Phụ huynh
 
-Không biết chỉ học theo những gì
+Không biết chỉ học theo những gì đã có sẵn.
 
-đã có sẵn.
-
-“Quá tầm tay”, không biết, giao phó con cái cho
-
-nhà trường.
+“Quá tầm tay”, không biết, giao phó con cái cho nhà trường.
 
 Làm giáo dục
 
 Có thể đóng góp với các giáo viên trong việc lựa chọn các môn học và thời lượng học thuộc thẩm quyền của trường cùng với giáo viên lựa chọn một số nội dung và chất liệu học tập trong các tiết học.
 
-Không tham gia trực tiếp, nhưng gián tiếp bằng cách viết thư, điện thoại, gặp trực tiếp trao đổi với cán bộ, hiệu trưởng và giáo viên, sử dụng lá phiếu bầu ra các cấp chính quyền đại diện cho tiếng nói của mình. Đóng góp vào những nội dung giảng dạy thuộc thẩm
-
-quyền của trường.
+Không tham gia trực tiếp, nhưng gián tiếp bằng cách viết thư, điện thoại, gặp trực tiếp trao đổi với cán bộ, hiệu trưởng và giáo viên, sử dụng lá phiếu bầu ra các cấp chính quyền đại diện cho tiếng nói của mình. Đóng góp vào những nội dung giảng dạy thuộc thẩm quyền của trường.
 
 Nghiên cứu cũng chỉ ra một số điểm khác biệt đáng lưu ý khác như: Nội dung chương trình giáo dục tại Việt Nam nặng về chính trị, thiên về sự đồng loạt, tập thể; trong khi nội dung chương trình giáo dục tại Phần Lan là nằm ngoài chính trị, ngày càng thiên về hình thức khác biệt hóa, cá nhân hóa trong giảng dạy nhằm hoàn thành mục tiêu đào tạo là “con người tự do, tự chủ gà tự chịu trách nhiệm”. Hay ở Phần Lan, sự khác biệt giữa chủ trương của nhà nước và thực tế đang diễn ra là không lớn, không có tình trạng chủ trương thì “đổi mới” nhưng cách làm thì vẫn như cũ.
 

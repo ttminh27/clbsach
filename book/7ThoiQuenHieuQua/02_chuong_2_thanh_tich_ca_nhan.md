@@ -22,9 +22,7 @@ Bây giờ, bạn hãy suy nghĩ về tâm trạng của mình. Bạn có thể 
 
 Tiếp theo, bạn hãy dành một phút để nghĩ xem trí óc của mình làm việc như thế nào? Liệu nó có nhanh nhạy và tỉnh táo không? Bạn có cảm thấy đang bị giằng co giữa việc luyện tập khả năng tư duy và việc đánh giá ý nghĩa của hoạt động trí tuệ này không?
 
-Khả năng làm được điều nêu trên chỉ đặc biệt có ở con người, chúng ta có thể gọi đó là “sự tự nhận thức” - khả năng tự suy nghĩ trong toàn bộ quá trình tư duy của bản
-
-thân. Đó là nguyên nhân vì sao con người chiếm lĩnh được mọi thứ trên thế giới và có những bước tiến không ngừng từ thế hệ này sang thế hệ khác. Và đó cũng là lý do tại sao chúng ta có thể đánh giá và học tập được kinh nghiệm của người khác, cũng như tạo ra hoặc từ bỏ những thói quen của mình.
+Khả năng làm được điều nêu trên chỉ đặc biệt có ở con người, chúng ta có thể gọi đó là “sự tự nhận thức” - khả năng tự suy nghĩ trong toàn bộ quá trình tư duy của bản thân. Đó là nguyên nhân vì sao con người chiếm lĩnh được mọi thứ trên thế giới và có những bước tiến không ngừng từ thế hệ này sang thế hệ khác. Và đó cũng là lý do tại sao chúng ta có thể đánh giá và học tập được kinh nghiệm của người khác, cũng như tạo ra hoặc từ bỏ những thói quen của mình.
 
 Chúng ta không phải là điều mà chúng ta cảm thấy. Chúng ta không phải là tâm trạng chúng ta đang mang. Chúng ta cũng không phải là cái mà chúng ta nhận thức. Chúng ta có khả năng tư duy về cảm xúc, tâm trạng, và ý nghĩ, có khả năng tự nhận thức, và chính điều này đã tách chúng ta ra khỏi con người mình và ra khỏi thế giới động vật để xem xét cách chúng ta nhìn nhận về bản thân mình. Đó là mô thức bản ngã – mô thức quan trọng nhất, cơ bản nhất của sự thành đạt. Nó có ảnh hưởng không chỉ đến thái độ và hành vi của chúng ta mà còn đến cách chúng ta nhìn nhận người khác. Nó là “tấm bản đồ” chi phối bản chất cơ bản của con người.
 
@@ -92,9 +90,7 @@ Ngay cả những động vật thông minh nhất cũng không có được nh�
 
 Nhưng với con người thì khác. Nhờ có những khả năng thiên phú, chúng ta có thể viết ra các chương trình mới cho mình một cách hoàn toàn khác với các bản năng và sự luyện tập của mình. Đó là lý do vì sao khả năng của động vật tương đối hạn chế, còn khả năng của con người là vô tận. Nhưng nếu sống như các con vật, chỉ dựa vào bản năng, hoàn cảnh và các điều kiện sống, thì khả năng của chúng ta cũng sẽ bị hạn chế.
 
-Mô thức của ***chủ nghĩa tất định*** xuất phát từ việc nghiên cứu các loại động vật (chuột, khỉ, bồ câu, chó…) và những người bị chứng rối loạn thần kinh hay mắc bệnh tâm thần. Trong khi những nghiên cứu này có thể đáp ứng một số tiêu chí nhất định của một vài nhà nghiên cứu do nó có thể đo lường và dự đoán được, thì lịch sử loài người và sự tự
-
-nhận thức của chúng ta giúp chúng ta nhận ra “tấm bản đồ” này chẳng mô tả một khu vực lãnh thổ nào cả.
+Mô thức của ***chủ nghĩa tất định*** xuất phát từ việc nghiên cứu các loại động vật (chuột, khỉ, bồ câu, chó…) và những người bị chứng rối loạn thần kinh hay mắc bệnh tâm thần. Trong khi những nghiên cứu này có thể đáp ứng một số tiêu chí nhất định của một vài nhà nghiên cứu do nó có thể đo lường và dự đoán được, thì lịch sử loài người và sự tự nhận thức của chúng ta giúp chúng ta nhận ra “tấm bản đồ” này chẳng mô tả một khu vực lãnh thổ nào cả.
 
 Những khả năng đặc biệt chỉ có ở con người ấy nâng chúng ta vượt ra khỏi thế giới động vật. Sự luyện tập và phát triển những khả năng thiên phú giúp chúng ta có thêm sức mạnh để hoàn thiện các tiềm năng của mình. Nằm ở vị trí giữa sự kích thích và phản ứng là sức mạnh lớn nhất của chúng ta: ***quyền tự do lựa chọn.***
 
@@ -104,9 +100,7 @@ Những khả năng đặc biệt chỉ có ở con người ấy nâng chúng t
 
 Thuật ngữ ***tính chủ động*** trở nên khá phổ biến trong ngành quản trị học, nhưng không dễ tìm thấy trong mọi cuốn từ điển. Không chỉ có nghĩa đơn thuần là ***sự chủ động***, tính chủ động còn mang ý nghĩa về tư cách con người, về trách nhiệm với cuộc đời. Hành vi là kết quả của những quyết định đưa ra, không chịu ảnh hưởng bởi hoàn cảnh nên chúng ta cần chủ động và có trách nhiệm làm cho mọi việc trở nên hiệu quả. Ngược lại, nếu cuộc sống của chúng ta phụ thuộc vào điều kiện và hoàn cảnh thì lỗi thuộc về chúng ta, vì chúng ta để cho những sự việc khách quan điều khiển một cách có ý thức.
 
-Khi đưa ra sự lựa chọn, người ta dễ bị môi trường vật chất quanh mình tác động ngược trở lại. Nếu thuận lợi, họ sẽ cảm thấy dễ chịu, kết quả công việc tốt, và ngược lại. Những người luôn ở thế chủ động có thể tạo ra sự cân bằng
-
-cho mình. Đối với họ, dù điều kiện khách quan suôn sẻ hay trở ngại thì tâm trạng và công việc của họ cũng vẫn tiến triển. Vì họ được thúc đẩy bởi giá trị của bản thân. Nếu giá trị đó quyết định chất lượng của công việc thì bất kỳ hoàn cảnh nào cũng không thể gây ảnh hưởng đến điều đó.
+Khi đưa ra sự lựa chọn, người ta dễ bị môi trường vật chất quanh mình tác động ngược trở lại. Nếu thuận lợi, họ sẽ cảm thấy dễ chịu, kết quả công việc tốt, và ngược lại. Những người luôn ở thế chủ động có thể tạo ra sự cân bằng cho mình. Đối với họ, dù điều kiện khách quan suôn sẻ hay trở ngại thì tâm trạng và công việc của họ cũng vẫn tiến triển. Vì họ được thúc đẩy bởi giá trị của bản thân. Nếu giá trị đó quyết định chất lượng của công việc thì bất kỳ hoàn cảnh nào cũng không thể gây ảnh hưởng đến điều đó.
 
 #### MÔ HÌNH TÍNH CHỦ ĐỘNG
 
@@ -118,9 +112,7 @@ Phản ứng **Quyền tự do**
 
 ### lựa chọn
 
-Tự nhận
-
-thức
+Tự nhận thức
 
 Ý chí độc lập
 
@@ -140,17 +132,13 @@ Có một lần tại Sacramento, khi tôi đang nói chuyện về đề tài t
 
 Tôi cảm thấy nóng lòng muốn giờ nghỉ đến nhanh để tìm hiểu xem điều gì đã xảy ra với cô. Giờ giải lao, tôi bước xuống và hỏi cô có muốn chia sẻ điều gì không. Và cô đồng ý kể cho tôi nghe câu chuyện của mình.
 
-“Ông không thể hiểu chuyện gì đã xảy ra với tôi đâu! Tôi là một y tá. Tôi đang chăm sóc một người bệnh bất hạnh
-
-và vô ơn nhất từ trước đến nay. Bất cứ điều gì tôi làm, anh ta cũng không cho là đủ. Anh ta không bao giờ biết cảm ơn, cũng không cần biết tôi đang làm nhiệm vụ của mình. Anh ta luôn kêu ca, phàn nàn và luôn kiếm chuyện với tôi. Người đàn ông này làm cho cuộc sống của tôi đảo lộn, tôi thường mang về nhà nỗi bực dọc của công việc. Các y tá khác cũng có tâm trạng tương tự. Chúng tôi gần như ai cũng muốn rũ bỏ “cục nợ” đó sớm chừng nào hay chừng ấy.
+“Ông không thể hiểu chuyện gì đã xảy ra với tôi đâu! Tôi là một y tá. Tôi đang chăm sóc một người bệnh bất hạnh và vô ơn nhất từ trước đến nay. Bất cứ điều gì tôi làm, anh ta cũng không cho là đủ. Anh ta không bao giờ biết cảm ơn, cũng không cần biết tôi đang làm nhiệm vụ của mình. Anh ta luôn kêu ca, phàn nàn và luôn kiếm chuyện với tôi. Người đàn ông này làm cho cuộc sống của tôi đảo lộn, tôi thường mang về nhà nỗi bực dọc của công việc. Các y tá khác cũng có tâm trạng tương tự. Chúng tôi gần như ai cũng muốn rũ bỏ “cục nợ” đó sớm chừng nào hay chừng ấy.
 
 Thế mà ông vừa nói rằng không điều gì có thể xúc phạm được tôi, làm tôi đau khổ nếu không có sự đồng ý của tôi, trừ phi chính tôi đã lựa chọn cho mình sự bất hạnh đó. Vâng, nhưng tôi không còn cách nào khác.
 
 Tôi đã suy nghĩ rất nhiều về điều này và bắt đầu tự hỏi, liệu mình có quyền lựa chọn phản ứng cho mình hay không. Cuối cùng, tôi cũng nhận ra rằng tôi có quyền đó. Hạnh phúc hay bất hạnh đều xuất phát từ sự lựa chọn của chúng ta. Tôi đã thay đổi suy nghĩ và cảm thấy như mình vừa thoát khỏi nhà tù San Quentin. Tôi muốn kêu to lên cho cả thế giới biết rằng: Tôi đã được tự do! Tôi đã thoát khỏi nhà tù! Tôi sẽ không còn để bản thân mình bị chi phối bởi cách cư xử của người khác.”
 
-Không phải do bản thân sự việc xảy ra, mà là do cách phản ứng của chúng ta trước sự việc đó làm chúng ta đau khổ. Tất nhiên, có những sự việc xảy ra không những làm chúng ta đau khổ về thể xác, tổn thất về kinh tế mà còn tổn thương cả về tinh thần, nhưng tính cách, bản chất của chúng ta không việc gì phải chịu đau khổ. Những kinh nghiệm khó khăn nhất mà chúng ta trải qua lại trở thành lò tôi luyện tính cách, phát triển sức mạnh bên trong, đem lại cho chúng ta quyền tự do để xử lý các tình huống khó khăn trong tương lai và thúc đẩy những người khác làm
-
-theo mình. Frankl là một trong số những người làm được điều đó.
+Không phải do bản thân sự việc xảy ra, mà là do cách phản ứng của chúng ta trước sự việc đó làm chúng ta đau khổ. Tất nhiên, có những sự việc xảy ra không những làm chúng ta đau khổ về thể xác, tổn thất về kinh tế mà còn tổn thương cả về tinh thần, nhưng tính cách, bản chất của chúng ta không việc gì phải chịu đau khổ. Những kinh nghiệm khó khăn nhất mà chúng ta trải qua lại trở thành lò tôi luyện tính cách, phát triển sức mạnh bên trong, đem lại cho chúng ta quyền tự do để xử lý các tình huống khó khăn trong tương lai và thúc đẩy những người khác làm theo mình. Frankl là một trong số những người làm được điều đó.
 
 Chúng ta từng biết những người gặp hoàn cảnh không may như mắc bệnh nan y, bị khiếm khuyết về thể xác, hoặc quá nghèo khó nhưng vẫn giữ được một ý chí đáng khâm phục… Và những phẩm giá cao quý đó của họ đã truyền cho chúng ta nguồn cảm hứng mạnh mẽ. Không gì gây ấn tượng mạnh mẽ và thuyết phục bằng những câu chuyện có thật về những con người dù phải chịu số phận và hoàn cảnh bất hạnh, nhưng vẫn vươn lên bằng ý chí cao nhất.
 
@@ -170,9 +158,7 @@ Những hoàn cảnh khó khăn thường tạo ra các thay đổi về mô th�
 
 ### 4. NẮM THẾ CHỦ ĐỘNG
 
-Bản chất cơ bản của con người là chủ động hành động
-
-chứ không phải bị động đối phó. Cũng như chúng ta có quyền lựa chọn phản ứng phù hợp với hoàn cảnh và có được sức mạnh để tạo ra các hoàn cảnh.
+Bản chất cơ bản của con người là chủ động hành động chứ không phải bị động đối phó. Cũng như chúng ta có quyền lựa chọn phản ứng phù hợp với hoàn cảnh và có được sức mạnh để tạo ra các hoàn cảnh.
 
 Nắm thế chủ động không có nghĩa là tự đề cao chính mình, xúc phạm người khác hay tỏ ra hung hăng thô bạo mà là nhận thấy trách nhiệm của mình để làm cho sự việc xảy ra.
 
@@ -198,9 +184,7 @@ Tất nhiên, điều đó còn tùy thuộc mức độ trưởng thành của 
 
 Sự khác nhau giữa người chủ động và bị động cũng giống như sự khác nhau giữa ngày và đêm. Tôi không nói đến sự khác nhau ở mức độ 25 đến 50% của tính hiệu quả, mà là từ 5.000% trở lên, đặc biệt nếu những người chủ động là người thông minh, hiểu biết và nhạy cảm trong giao tiếp.
 
-(*) R là chữ viết tắt của Resourcefulness - có nghĩa là sự tháo vát; I là chữ viết
-
-tắt của Initiative - nghĩa là sự chủ động.
+(*) R là chữ viết tắt của Resourcefulness - có nghĩa là sự tháo vát; I là chữ viết tắt của Initiative - nghĩa là sự chủ động.
 
 Cần chủ động để có thể tạo ra sự cân bằng P/PC của sự thành đạt trong cuộc sống và xây dựng ***7 Thói quen***. Khi nghiên cứu 6 thói quen đầu tiên, bạn sẽ thấy mỗi thói quen đều phụ thuộc vào sức mạnh của tính chủ động ở bạn. Mỗi thói quen đều đặt ra trách nhiệm để bạn hành động. Nếu chỉ ngồi chờ, bạn sẽ luôn rơi vào thế bị động đối phó. Khi đó, sự phát triển và cơ hội sẽ đến với người khác, ở chỗ khác.
 
@@ -210,9 +194,7 @@ Trong ngày đầu, chủ đề thảo luận của chúng tôi là: “Điều 
 
 Ngày thứ hai, chúng tôi nêu ra câu hỏi: “Điều gì sẽ xảy ra trong tương lai?”. Chúng tôi nghiên cứu các xu hướng của tình hình kinh tế và giả định rằng những điều này sẽ tạo nên tương lai của họ. Vào cuối ngày thứ hai, tâm trạng chung còn bi đát hơn. Sự việc thường hết sức tồi tệ trước khi khá hơn lên, và mọi người đều biết điều đó.
 
-Do vậy, ngày thứ ba, chúng tôi quyết định chuyển sang những câu hỏi mang tính chủ động: “Phản ứng của chúng ta là gì? Chúng ta sẽ làm gì? Chúng ta sẽ chủ động hành
-
-động trong tình huống này như thế nào?”. Buổi sáng, chúng tôi thảo luận về cách quản lý và cắt giảm chi phí. Buổi chiều, chúng tôi bàn đến cách làm tăng thị phần. Chúng tôi tập trung vào những vấn đề thực tế và dễ thực hiện nhất. Cuộc họp đi đến kết thúc trong sự phấn chấn, niềm hy vọng và một thế chủ động mới.
+Do vậy, ngày thứ ba, chúng tôi quyết định chuyển sang những câu hỏi mang tính chủ động: “Phản ứng của chúng ta là gì? Chúng ta sẽ làm gì? Chúng ta sẽ chủ động hành động trong tình huống này như thế nào?”. Buổi sáng, chúng tôi thảo luận về cách quản lý và cắt giảm chi phí. Buổi chiều, chúng tôi bàn đến cách làm tăng thị phần. Chúng tôi tập trung vào những vấn đề thực tế và dễ thực hiện nhất. Cuộc họp đi đến kết thúc trong sự phấn chấn, niềm hy vọng và một thế chủ động mới.
 
 Vào cuối ngày thứ ba, chúng tôi tổng kết hội nghị bằng câu trả lời cho câu hỏi “Tình hình kinh doanh ra sao?”. Câu trả lời này có ba phần.
 
@@ -226,9 +208,7 @@ Vào cuối ngày thứ ba, chúng tôi tổng kết hội nghị bằng câu tr
 
 Đó chính là sự khác biệt giữa tư duy chủ động và tư duy bị động. Chúng tôi đối mặt với thực tế đấy chứ. Chúng tôi đã đối mặt với thực tế về tình hình hiện nay và vạch kế hoạch cho tương lai. Chúng tôi có sức mạnh để lựa chọn phản ứng tích cực đối với những hoàn cảnh, tình huống đã được tiên liệu, chứ không nghĩ rằng những gì đang xảy ra trong môi trường kinh doanh sẽ quyết định số phận của chúng tôi.
 
-Các doanh nghiệp, các cộng đồng dân cư, tổ chức, gia đình và từng cá nhân đều có thể luôn ở thế chủ động. Cần biết kết hợp sự sáng tạo và năng nổ của những cá nhân có
-
-tinh thần chủ động để tạo ra một nền văn hóa thực sự có tính chủ động trong tổ chức. Không nên phó mặc cho hoàn cảnh! Mọi người cần chủ động hành động để đạt được những giá trị và mục đích chung.
+Các doanh nghiệp, các cộng đồng dân cư, tổ chức, gia đình và từng cá nhân đều có thể luôn ở thế chủ động. Cần biết kết hợp sự sáng tạo và năng nổ của những cá nhân có tinh thần chủ động để tạo ra một nền văn hóa thực sự có tính chủ động trong tổ chức. Không nên phó mặc cho hoàn cảnh! Mọi người cần chủ động hành động để đạt được những giá trị và mục đích chung.
 
 ### 6. LẮNG NGHE CHÍNH MÌNH
 
@@ -318,9 +298,7 @@ hợp.
 
 Một vấn đề nghiêm trọng khác liên quan đến ngôn từ bị động là nó mang tính tiên đoán tự hoàn thành. Những người thụ động cảm thấy mình là nạn nhân và không kiểm soát được tình hình, không thấy mình có trách nhiệm về cuộc sống hay số phận của bản thân. Họ đổ lỗi cho các nguyên nhân bên ngoài, cho người khác, cho hoàn cảnh, thậm chí cả trăng sao trên trời cũng phải chịu trách nhiệm về tình cảnh họ gặp phải.
 
-Tại một cuộc hội thảo, khi tôi đang nói về khái niệm tính chủ động, một người đàn ông bước đến và nói: “Này Stephen, tôi thích những điều anh đang nói. Nhưng mỗi người mỗi cảnh, chẳng ai giống ai. Hãy nhìn vào cuộc hôn nhân của tôi. Tôi thực sự lo lắng. Vợ chồng tôi không còn tình cảm với nhau như trước nữa. Tôi nghĩ rằng tôi không
-
-còn yêu cô ấy nữa và cô ấy cũng không yêu tôi. Vậy tôi phải làm gì đây?”.
+Tại một cuộc hội thảo, khi tôi đang nói về khái niệm tính chủ động, một người đàn ông bước đến và nói: “Này Stephen, tôi thích những điều anh đang nói. Nhưng mỗi người mỗi cảnh, chẳng ai giống ai. Hãy nhìn vào cuộc hôn nhân của tôi. Tôi thực sự lo lắng. Vợ chồng tôi không còn tình cảm với nhau như trước nữa. Tôi nghĩ rằng tôi không còn yêu cô ấy nữa và cô ấy cũng không yêu tôi. Vậy tôi phải làm gì đây?”.
 
 “Anh chị không còn tình cảm với nhau thật ư?”, tôi hỏi.
 
@@ -410,9 +388,7 @@ Những vấn đề chúng ta thường đối mặt trong cuộc sống có th�
 
 Những vấn đề về ***kiểm soát trực tiếp*** sẽ được giải quyết bằng cách rèn luyện các thói quen. chúng nằm trong ***Vòng tròn Ảnh hưởng*** và là ***Thành tích Cá nhân*** của Thói quen 1, 2 và 3.
 
-Những vấn đề về ***kiểm soát gián tiếp*** sẽ được giải quyết bằng cách thay đổi các phương pháp gây ảnh hưởng và là ***Thành tích Tập thê*** í của Thói quen 4, 5 và 6. Bản thân tôi đã nhận diện hơn 30 phương pháp khác nhau gây ảnh hưởng đến con người như: thấu hiểu thay vì đối đầu, làm gương thay vì thuyết phục. Những người chỉ có ba hoặc bốn phương pháp trong tay thường bắt đầu bằng lý lẽ và nếu không thành công, họ sẽ hoặc bỏ chạy, hoặc đương đầu. Thật dễ chịu biết bao nếu chấp nhận ý nghĩ rằng tôi có thể học được các phương pháp mới gây ảnh hưởng đến người
-
-khác thay vì không ngừng lặp lại các phương pháp cũ rích, kém hiệu quả để “sửa đổi” người khác.
+Những vấn đề về ***kiểm soát gián tiếp*** sẽ được giải quyết bằng cách thay đổi các phương pháp gây ảnh hưởng và là ***Thành tích Tập thê*** í của Thói quen 4, 5 và 6. Bản thân tôi đã nhận diện hơn 30 phương pháp khác nhau gây ảnh hưởng đến con người như: thấu hiểu thay vì đối đầu, làm gương thay vì thuyết phục. Những người chỉ có ba hoặc bốn phương pháp trong tay thường bắt đầu bằng lý lẽ và nếu không thành công, họ sẽ hoặc bỏ chạy, hoặc đương đầu. Thật dễ chịu biết bao nếu chấp nhận ý nghĩ rằng tôi có thể học được các phương pháp mới gây ảnh hưởng đến người khác thay vì không ngừng lặp lại các phương pháp cũ rích, kém hiệu quả để “sửa đổi” người khác.
 
 Các vấn đề ***ngoài tầm kiểm soát*** có trách nhiệm thay đổi những đường nét quan trọng trên gương mặt của chúng ta – nở nụ cười, hay chấp nhận một cách chân thật và nhẹ nhàng những vấn đề này và học cách chung sống với nó, mặc dù chúng ta không thích chúng. Bằng cách này, chúng ta không để cho chúng chi phối mình. Chúng ta chia sẻ tinh thần ẩn chứa trong lời cầu nguyện sau: “Chúa hãy ban cho con lòng can đảm để thay đổi những điều có thể và cần phải thay đổi, ban cho con sự thanh thản để chấp nhận những điều không thể thay đổi được, và trí khôn để phân biệt được sự khác biệt đó”.
 
@@ -422,9 +398,7 @@ Bất kể vấn đề là ***kiểm soát trực tiếp, kiểm soát gián ti�
 
 Điều đáng khích lệ là trong khi lựa chọn phản ứng đối với tác động bên ngoài, chúng ta cũng gây ảnh hưởng mạnh mẽ đến hoàn cảnh của mình, giống như khi thay đổi một phần công thức hóa học, kết quả của cuộc thí nghiệm cũng thay đổi.
 
-Tôi từng làm việc trong nhiều năm cho một công ty do một người rất năng động lãnh đạo. Ông ấy là người thông minh, sáng tạo, có năng lực và có tầm nhìn chiến lược – ai cũng thấy điều đó. Nhưng ông ấy có cách quản lý rất độc
-
-đoán. Ông ấy xem nhân viên như những kẻ làm công, không có tư duy và giao tiếp với họ bằng một giọng điệu rất kẻ cả.
+Tôi từng làm việc trong nhiều năm cho một công ty do một người rất năng động lãnh đạo. Ông ấy là người thông minh, sáng tạo, có năng lực và có tầm nhìn chiến lược – ai cũng thấy điều đó. Nhưng ông ấy có cách quản lý rất độc đoán. Ông ấy xem nhân viên như những kẻ làm công, không có tư duy và giao tiếp với họ bằng một giọng điệu rất kẻ cả.
 
 Hậu quả tất yếu là hầu hết cán bộ quản lý đều xa lánh ông ấy. Họ thường tụ tập ở hành lang để phàn nàn về sếp và trao đổi những câu chuyện có vẻ rất thời sự và cụ thể, cứ như đang tìm cách giải quyết tình hình vậy. Các cuộc thảo luận bao giờ cũng như kéo dài vô tận, tuy nhiên, những người trong cuộc thì lại xem như mình không có trách nhiệm gì; tất cả là do sự yếu kém của vị lãnh đạo.
 
@@ -434,9 +408,7 @@ Hậu quả tất yếu là hầu hết cán bộ quản lý đều xa lánh ôn
 
 “Tôi không biết. Dù sao thì ông ấy cũng không phải là loại người chịu về hưu dễ dàng đâu!”
 
-Nhưng trong số họ, có một người có tinh thần chủ động. Anh ấy được thúc đẩy bởi các giá trị chứ không phải bởi tình cảm. Anh ấy là người chủ động đưa ra hành động bằng phán đoán, cảm thông và nghiên cứu tình hình. Thay vì chỉ trích các điểm yếu của vị lãnh đạo, anh ấy tìm cách bù đắp. Nếu điểm yếu của ông ta là ở phong cách, anh ấy tìm cách làm cho các nhược điểm đó trở thành thứ yếu. Anh tập trung vào những điểm mạnh của ông chủ tịch – tầm nhìn, sự thông minh, tính sáng tạo. Anh ấy hiểu rõ tầm quan
-
-trọng của ông chủ tịch đối với sự phát triển của công ty và cố gắng thông cảm với những mối quan tâm của ông ấy. Do đó khi cung cấp thông tin, anh ấy cũng đưa ra những kiến nghị dựa trên các phân tích đó. Rõ ràng, người đàn ông này đã biết tập trung vào ***Vòng tròn Ảnh hưởng*** của mình.
+Nhưng trong số họ, có một người có tinh thần chủ động. Anh ấy được thúc đẩy bởi các giá trị chứ không phải bởi tình cảm. Anh ấy là người chủ động đưa ra hành động bằng phán đoán, cảm thông và nghiên cứu tình hình. Thay vì chỉ trích các điểm yếu của vị lãnh đạo, anh ấy tìm cách bù đắp. Nếu điểm yếu của ông ta là ở phong cách, anh ấy tìm cách làm cho các nhược điểm đó trở thành thứ yếu. Anh tập trung vào những điểm mạnh của ông chủ tịch – tầm nhìn, sự thông minh, tính sáng tạo. Anh ấy hiểu rõ tầm quan trọng của ông chủ tịch đối với sự phát triển của công ty và cố gắng thông cảm với những mối quan tâm của ông ấy. Do đó khi cung cấp thông tin, anh ấy cũng đưa ra những kiến nghị dựa trên các phân tích đó. Rõ ràng, người đàn ông này đã biết tập trung vào ***Vòng tròn Ảnh hưởng*** của mình.
 
 Vào một ngày, khi tôi ngồi cùng ông chủ tịch với tư cách là một cố vấn, ông ấy nói:
 
@@ -452,11 +424,7 @@ Một số người giải nghĩa thuật ngữ “luôn chủ động” là ch
 
 Hãy nhìn vào Mahatma Gandhi *(*) *. Trong khi bị chỉ trích ở Quốc hội vì không chịu tham gia vào Hội lên án Đế quốc Anh, Gandhi lặng lẽ trở về quê nhà. Tại đây, ông từng bước mở rộng *** Vòng tròn Ảnh hưởng ***của mình đối với những người nông dân. Sự ủng hộ và tin tưởng của họ vào ông ngày càng tăng. Mặc dù không có một địa vị chính trị nào, nhưng bằng lòng nhân ái, dũng cảm và tinh thần bất khuất đầy thuyết phục, cuối cùng, ông đã buộc nước Anh phải rút lui. Gandhi đã phá tan sự đô hộ chính trị đè nặng lên hơn 300 triệu dân Ấn bằng sức mạnh tối đa từ*** Vòng tròn Ảnh hưởng*** của mình.
 
-(*) M. Gandhi: Nhà lãnh đạo kiệt xuất và đầu tiên của phong trào giành độc lập
-
-cho các nước thuộc địa trên thế giới mà không cần đến bạo lực. Ông đã tạo ra một khái niệm gọi là “giữ vững niềm tin”. Bất chấp chiến tranh và bạo lực trong thế kỷ 20, Gandhi đã dạy cho loài người về giá trị của lòng tin, phi bạo lực và
-
-hòa bình.
+(*) M. Gandhi: Nhà lãnh đạo kiệt xuất và đầu tiên của phong trào giành độc lập cho các nước thuộc địa trên thế giới mà không cần đến bạo lực. Ông đã tạo ra một khái niệm gọi là “giữ vững niềm tin”. Bất chấp chiến tranh và bạo lực trong thế kỷ 20, Gandhi đã dạy cho loài người về giá trị của lòng tin, phi bạo lực và hòa bình.
 
 ### 10. “CÓ” VÀ “LÀ”
 
@@ -480,9 +448,7 @@ Với những người bị động, suy nghĩ của họ luôn luôn hướng v
 
 Còn quan điểm chủ động là thay đổi ***“bắt đầu từ bên trong”***. Bằng cách thay đổi như thế, chúng ta mới có thể gây ảnh hưởng tích cực đến cái bên ngoài.
 
-Một trong những câu chuyện tôi thích nhất là câu chuyện trong kinh cựu ước, một phần của nền tảng Do Thái giáo. Đó là câu chuyện của Joseph, người đã bị những người anh em của mình bán làm nô lệ tại Ai Cập khi mới 17 tuổi. Bạn có thể hình dung ông ấy sẽ dễ dàng buông xuôi
-
-đến thế nào. Ông sẽ không ngừng than trách cuộc đời lam lũ làm tôi tớ cho Potiphar, hoặc buộc tội những kẻ bạc ác đã đẩy ông vào bước đường khốn cùng. Nhưng Joseph là một người luôn chủ động. Ông tập trung vào chữ ***là***. Và chỉ trong một thời gian ngắn, ông trở thành người quản gia cho nhà Potiphar. Ông ấy quản lý mọi thứ mà Potiphar có vì ông rất được tin cậy.
+Một trong những câu chuyện tôi thích nhất là câu chuyện trong kinh cựu ước, một phần của nền tảng Do Thái giáo. Đó là câu chuyện của Joseph, người đã bị những người anh em của mình bán làm nô lệ tại Ai Cập khi mới 17 tuổi. Bạn có thể hình dung ông ấy sẽ dễ dàng buông xuôi đến thế nào. Ông sẽ không ngừng than trách cuộc đời lam lũ làm tôi tớ cho Potiphar, hoặc buộc tội những kẻ bạc ác đã đẩy ông vào bước đường khốn cùng. Nhưng Joseph là một người luôn chủ động. Ông tập trung vào chữ ***là***. Và chỉ trong một thời gian ngắn, ông trở thành người quản gia cho nhà Potiphar. Ông ấy quản lý mọi thứ mà Potiphar có vì ông rất được tin cậy.
 
 Thế rồi đến một ngày, Joseph bị bắt trong một tình huống phức tạp và đã bị cầm tù oan trong 13 năm. Nhưng một lần nữa, ông lại thể hiện bản lĩnh của một người luôn chủ động. Ông tập trung vào ***Vòng tròn Ảnh hưởng***- vòng tròn chứa cái ***la*** â, thay vì cái ***co*** á. Không lâu sau đó, ông trở thành người cai quản nhà tù và cuối cùng cai quản cả nước Ai Cập, chỉ đứng sau Hoàng đế (Pharaoh).
 
@@ -508,9 +474,7 @@ Hành vi của chúng ta bị chi phối bởi các nguyên tắc. Chung sống 
 
 Chắc chắn trong cuộc đời mỗi người, không ít lần chúng ta cầm một chiếc gậy lên rồi mới phát hiện ra rằng đó không phải là chiếc gậy tốt. Sự lựa chọn của chúng ta đã đưa đến những hậu quả xấu hơn, so với khi chúng ta không lựa chọn. Nếu có cơ hội lựa chọn lại một lần nữa, chắc chắn chúng ta sẽ làm khác đi. Chúng ta gọi những sự lựa chọn đó là sai lầm, và đó là điều đáng để chúng ta suy ngẫm.
 
-Đối với những ai đang phải sống trong nỗi ân hận, thì bài tập cần thiết cho tính luôn chủ động là phải nhận thức được rằng: những sai lầm quá khứ cũng nằm trong ***Vòng tròn Quan tâm***. Chúng ta không thể làm lại từ đầu, cũng
-
-không thể xóa bỏ hay kiểm soát được hệ quả của sai lầm đã xảy ra.
+Đối với những ai đang phải sống trong nỗi ân hận, thì bài tập cần thiết cho tính luôn chủ động là phải nhận thức được rằng: những sai lầm quá khứ cũng nằm trong ***Vòng tròn Quan tâm***. Chúng ta không thể làm lại từ đầu, cũng không thể xóa bỏ hay kiểm soát được hệ quả của sai lầm đã xảy ra.
 
 Quan điểm của người luôn chủ động đối với sai lầm là thừa nhận ngay sai lầm đó để sửa chữa và rút ra bài học. Điều này thực sự biến sai lầm thành thành công, như T. J. Watson, người sáng lập công ty IBM, đã nói: “Thắng lợi nằm ở phía bên kia của thất bại”.
 
@@ -520,9 +484,7 @@ Phản ứng của chúng ta đối với bất kỳ sai lầm nào cũng đều
 
 ### 12. CAM KẾT VÀ GIỮ LỜI
 
-Ngay tại trung tâm của ***Vòng tròn Ảnh hưởng*** là khả năng cam kết và giữ lời của chúng ta. Những cam kết đối với bản thân, những người xung quanh và sự nhất quán thực hiện
-
-các cam kết đó là bản chất, là điều cốt lõi cho sự trưởng thành và là sự thể hiện rõ nhất của tính chủ động. Thông qua khả năng thiên phú của con người, cùng với sự tự nhận thức và lương tâm, chúng ta ý thức được những điểm yếu, những mặt cần hoàn thiện, những khía cạnh thuộc về trí tuệ có thể phát triển hơn, các thói quen cần được thay đổi hay loại bỏ. Sau đó, khi thừa nhận và sử dụng ***trí tưởng tượng*** và ***ý chí độc lập*** của mình để hành động dựa trên nhận thức đó – đưa ra những lời hứa, đặt ra các mục tiêu, và trung thực với chúng – chúng ta sẽ xây dựng được sức mạnh của tính cách để có thể làm được bất kỳ điều gì tích cực trong cuộc sống.
+Ngay tại trung tâm của ***Vòng tròn Ảnh hưởng*** là khả năng cam kết và giữ lời của chúng ta. Những cam kết đối với bản thân, những người xung quanh và sự nhất quán thực hiện các cam kết đó là bản chất, là điều cốt lõi cho sự trưởng thành và là sự thể hiện rõ nhất của tính chủ động. Thông qua khả năng thiên phú của con người, cùng với sự tự nhận thức và lương tâm, chúng ta ý thức được những điểm yếu, những mặt cần hoàn thiện, những khía cạnh thuộc về trí tuệ có thể phát triển hơn, các thói quen cần được thay đổi hay loại bỏ. Sau đó, khi thừa nhận và sử dụng ***trí tưởng tượng*** và ***ý chí độc lập*** của mình để hành động dựa trên nhận thức đó – đưa ra những lời hứa, đặt ra các mục tiêu, và trung thực với chúng – chúng ta sẽ xây dựng được sức mạnh của tính cách để có thể làm được bất kỳ điều gì tích cực trong cuộc sống.
 
 Chính từ nhận thức này, chúng ta sẽ thấy có hai phương pháp để làm chủ cuộc sống. Một là, ***đưa ra lời hứa*** và giữ lời hứa. Hai là, ***đặt ra một mục tiêu*** và phấn đấu để đạt được mục tiêu đó. Khi chúng ta đưa ra và giữ lời thực hiện các cam kết, dù nhỏ, chúng ta sẽ xác lập được sự trung thực bên trong, cho ta ý thức về sự tự chủ và lòng can đảm cũng như sức mạnh để nhận lấy nhiều trách nhiệm hơn trong cuộc sống. Bằng cách đó, dần dần, danh dự sẽ trở nên quan trọng hơn tâm trạng của bản thân.
 
@@ -536,9 +498,7 @@ Tôi muốn bạn thử nghiệm nguyên tắc chủ động này trong vòng 30
 
 Hãy thử nghiệm các nguyên tắc trên trong cuộc sống hôn nhân, trong gia đình và trong công việc của bạn. Đừng bàn cãi về những điểm yếu của người khác. Đừng biện hộ cho lỗi lầm của mình. Khi mắc sai lầm, bạn nên thừa nhận, sửa chữa và rút ra bài học kinh nghiệm ngay lập tức. Đừng để mình sa vào thói quen lên án và trách móc người khác. Hãy tập trung vào những gì bạn có khả năng kiểm soát. Hãy tập trung vào chính mình và luôn là chính mình.
 
-Hãy nhìn vào nhược điểm của người khác bằng ánh mắt thông cảm chứ không lên án. Vấn đề không phải ở chỗ họ không làm hay không nên làm một việc gì đó, mà chính là ở sự lựa chọn phản ứng của bạn trước tình huống xảy ra
-
-và điều bạn nên làm. Nếu bạn bắt đầu suy nghĩ rằng vấn đề “nằm ở bên ngoài” thì hãy dừng lại. Suy nghĩ đó chính là “vấn đề” của bạn.
+Hãy nhìn vào nhược điểm của người khác bằng ánh mắt thông cảm chứ không lên án. Vấn đề không phải ở chỗ họ không làm hay không nên làm một việc gì đó, mà chính là ở sự lựa chọn phản ứng của bạn trước tình huống xảy ra và điều bạn nên làm. Nếu bạn bắt đầu suy nghĩ rằng vấn đề “nằm ở bên ngoài” thì hãy dừng lại. Suy nghĩ đó chính là “vấn đề” của bạn.
 
 Nếu ta thể hiện quyền tự do lựa chọn của mình thường xuyên thì cái quyền ấy càng được mở rộng. Những ai không làm như vậy sẽ nhận thấy tự do của họ đang dần bị xói mòn cho đến khi mất hẳn. Họ buộc phải đóng những vai diễn theo “kịch bản” của cha mẹ, của cộng sự và của xã hội.
 
@@ -592,9 +552,7 @@ Nếu tham gia một cách nghiêm túc vào thí nghiệm trên, sẽ có nhữ
 
 Hãy ngẫm nghĩ những lời sau đây của Joseph Addison:
 
-“Khi nhìn vào bia mộ của những con người vĩ đại, mọi cảm giác ghen tỵ trong tôi biến mất. Khi đọc văn bia ghi lại
-
-những lời hay ý đẹp, mọi dục vọng tầm thường trong tôi tiêu tan. Khi chứng kiến nỗi đau buồn khôn xiết của những bậc cha mẹ bên nấm mồ, tôi quặn lòng thương cảm. Khi đứng trước nấm mồ của cha mẹ, tôi nghĩ đến hư danh của những kẻ mà chúng ta buộc phải tuân lệnh: các bậc vua chúa. Họ nằm bên cạnh những kẻ đã hạ bệ họ – những kẻ kình địch lại sát vai nhau khi lìa đời. Trước những anh hùng hào kiệt đã phân chia thế giới bằng các cuộc tranh chấp đổ máu, tôi suy ngẫm trong đau buồn và ngạc nhiên trước toan tính nhỏ nhặt của loài người. Khi đọc những ngày tháng ghi trên bia mộ, trong đó có một số người vừa chết vào ngày hôm qua, và một số đã chết cách đây 600 năm, tôi nghĩ đến cái ngày trọng đại khi tất cả chúng ta đều là những người đương thời, và cùng nhau hiện diện…”
+“Khi nhìn vào bia mộ của những con người vĩ đại, mọi cảm giác ghen tỵ trong tôi biến mất. Khi đọc văn bia ghi lại những lời hay ý đẹp, mọi dục vọng tầm thường trong tôi tiêu tan. Khi chứng kiến nỗi đau buồn khôn xiết của những bậc cha mẹ bên nấm mồ, tôi quặn lòng thương cảm. Khi đứng trước nấm mồ của cha mẹ, tôi nghĩ đến hư danh của những kẻ mà chúng ta buộc phải tuân lệnh: các bậc vua chúa. Họ nằm bên cạnh những kẻ đã hạ bệ họ – những kẻ kình địch lại sát vai nhau khi lìa đời. Trước những anh hùng hào kiệt đã phân chia thế giới bằng các cuộc tranh chấp đổ máu, tôi suy ngẫm trong đau buồn và ngạc nhiên trước toan tính nhỏ nhặt của loài người. Khi đọc những ngày tháng ghi trên bia mộ, trong đó có một số người vừa chết vào ngày hôm qua, và một số đã chết cách đây 600 năm, tôi nghĩ đến cái ngày trọng đại khi tất cả chúng ta đều là những người đương thời, và cùng nhau hiện diện…”
 
 Mặc dù Thói quen thứ hai áp dụng trong nhiều hoàn cảnh và cung bậc cuộc sống khác nhau, nhưng ứng dụng cơ bản nhất của nó là ***bắt đầu ngay từ ngày hôm nay bằng những mục tiêu đã được xác định***. Lấy hình tượng, hình ảnh hay mô thức cuối đời bạn làm khung tham chiếu hay chuẩn mực để xem xét mọi thứ khác. Mỗi chặng đường đời – hành vi của bạn ngày hôm nay, trong tương lai, tuần sau, tháng sau – sẽ được xem xét trong bối cảnh tổng thể bao gồm những điều có ý nghĩa nhất đối với bạn. Bằng cách ghi nhớ những mục tiêu đó, bạn mới có thể tin chắc vào những gì bạn làm, vào một ngày cụ thể nào đó, sẽ không vi phạm các chuẩn mực mà mình đã xác định là quan trọng nhất. Và mỗi một ngày bạn sống sẽ góp phần tích cực cho mục tiêu mà bạn đã xác định trong suốt cuộc đời mình.
 
@@ -608,9 +566,7 @@ Cuộc sống của chúng ta sẽ khác đi nếu chúng ta nhận thức đư�
 
 Nếu cân nhắc kỹ những điều bạn muốn nghe người khác đánh giá về mình, bạn sẽ tìm ra định nghĩa của sự thành công. Định nghĩa đó có thể rất khác với định nghĩa bạn đang nghĩ trong đầu, có thể không phải là tiền tài, địa vị, danh tiếng hay bất cứ thứ gì mà bạn phấn đấu để đạt cho bằng được.
 
-Khi bắt đầu một cách có mục đích, bạn sẽ có một viễn
-
-cảnh khác biệt. Một người đã hỏi một người khác khi người bạn chung của họ mất đi: “Anh ấy có để lại gì nhiều không?”. Người kia đáp: “Anh ấy để lại tất cả”.
+Khi bắt đầu một cách có mục đích, bạn sẽ có một viễn cảnh khác biệt. Một người đã hỏi một người khác khi người bạn chung của họ mất đi: “Anh ấy có để lại gì nhiều không?”. Người kia đáp: “Anh ấy để lại tất cả”.
 
 ### 2. MỌI SỰ VẬT ĐỀU ĐƯỢC SÁNG TẠO HAI LẦN
 
@@ -652,9 +608,7 @@ Hãy tưởng tượng một nhóm thợ dùng dao rựa để phát quang đư�
 
 Nhưng phản ứng thường thấy của những người thợ vừa giỏi tay nghề vừa chăm chỉ và các nhà quản lý mẫn cán là gì? “Ông im đi cho! Chúng tôi đang làm được rất nhiều việc đây này!”.
 
-Chúng ta thường chú tâm vào các chi tiết mà quên đi
-
-cái tổng thể, vì thế chúng ta thường bị chệch hướng. Sự thay đổi rất nhanh chóng của môi trường sống làm cho ***lãnh đạo hiệu qua*** ã trở nên quan trọng hơn bao giờ hết – cả trong cuộc sống độc lập hay tương thuộc.
+Chúng ta thường chú tâm vào các chi tiết mà quên đi cái tổng thể, vì thế chúng ta thường bị chệch hướng. Sự thay đổi rất nhanh chóng của môi trường sống làm cho ***lãnh đạo hiệu qua*** ã trở nên quan trọng hơn bao giờ hết – cả trong cuộc sống độc lập hay tương thuộc.
 
 Chúng ta ngày càng cần có một tầm nhìn và một chiếc la bàn chứ không phải chỉ một tấm bản đồ chỉ đường. Chúng ta thường không biết địa hình phía trước là gì, cần vượt qua chướng ngại nào; phần lớn mọi việc phụ thuộc vào sự phán đoán của chúng ta ở từng thời điểm cụ thể. Nhưng chiếc la bàn nội tâm không phải luôn chỉ đúng hướng.
 
@@ -686,9 +640,7 @@ Như chúng ta nhận thấy ở phần trước, tính chủ động được d
 
 Nhờ có trí tưởng tượng, chúng ta có thể hình dung được những tiềm năng của bản thân. Nhờ có lương tâm, chúng ta có thể tiếp cận các quy luật phổ biến hay các nguyên tắc, bằng chính tài năng riêng của mình và của người khác. Với những nguyên tắc chỉ đạo bản thân, chúng ta có thể khai thác bản thân một cách hiệu quả. Kết hợp với sự tự nhận thức, những khả năng này sẽ giúp chúng ta đủ sức viết lấy “kịch bản” cho chính mình.
 
-Do chúng ta đã sống với nhiều “kịch bản” từ bên ngoài, nên quá trình viết “kịch bản” cho chính mình trở thành một quá trình “viết lại kịch bản”, hay thay đổi một số mô thức cơ bản mà chúng ta đã có. Khi nhận ra những “kịch
-
-bản” không hiệu quả, những mô thức không đúng hay không hoàn hảo trong con người mình, chúng ta có thể chủ động bắt tay vào viết lại những kịch bản đó.
+Do chúng ta đã sống với nhiều “kịch bản” từ bên ngoài, nên quá trình viết “kịch bản” cho chính mình trở thành một quá trình “viết lại kịch bản”, hay thay đổi một số mô thức cơ bản mà chúng ta đã có. Khi nhận ra những “kịch bản” không hiệu quả, những mô thức không đúng hay không hoàn hảo trong con người mình, chúng ta có thể chủ động bắt tay vào viết lại những kịch bản đó.
 
 Theo tôi, một trong những câu chuyện hấp dẫn nhất của quá trình viết lại “kịch bản” nằm trong cuốn tự truyện của Anwar Sadat - Tổng thống quá cố của Ai Cập. Sadat đã từng được nuôi dưỡng, dạy dỗ và hun đúc lòng căm thù Israel. Ông từng tuyên bố trên đài truyền hình quốc gia rằng: “Tôi sẽ không bao giờ bắt tay với một người Israel khi nào họ còn chiếm dù chỉ một tấc đất của người Ai Cập. Không bao giờ! Không bao giờ!”. Và những đám đông dân chúng trong cả nước đã từng hô vang “Không bao giờ! Không bao giờ!”. Ông đã tập hợp được sức mạnh và ý chí thống nhất của cả nước vào “kịch bản” đó của mình.
 
@@ -706,9 +658,7 @@ Sadat đã biết dùng sự ***tự nhận thức, trí tưởng tượng*** v�
 
 Trong quá trình phát triển sự tự nhận thức, nhiều người trong chúng ta phát hiện ra những “kịch bản” kém hiệu quả, những thói quen đã được ăn sâu và hoàn toàn không nên có và không phù hợp với những điều chúng ta thực sự quý trọng trong cuộc sống. Thói quen thứ hai nói rằng chúng ta không cần phải chung sống với những “kịch bản” đó. Chúng ta có quyền sử dụng trí tưởng tượng và óc sáng tạo của mình để viết lại những “kịch bản” mới hiệu quả hơn, phù hợp hơn với những giá trị sâu sắc nhất và những nguyên tắc đúng đắn, mang lại ý nghĩa thật sự.
 
-Nếu là một người có phản ứng quá mức trong việc dạy dỗ con cái thì mỗi khi chúng bắt đầu làm điều gì đó sai trái,
-
-tôi sẽ không kiềm chế được cơn giận dữ. Tôi không tập trung vào sự trưởng thành lâu dài hay cảm thông mà vào hành vi nhất thời. Tôi đang cố gắng để chiến thắng trong một trận đấu, chứ không phải cả cuộc chiến.
+Nếu là một người có phản ứng quá mức trong việc dạy dỗ con cái thì mỗi khi chúng bắt đầu làm điều gì đó sai trái, tôi sẽ không kiềm chế được cơn giận dữ. Tôi không tập trung vào sự trưởng thành lâu dài hay cảm thông mà vào hành vi nhất thời. Tôi đang cố gắng để chiến thắng trong một trận đấu, chứ không phải cả cuộc chiến.
 
 Khi đó, tôi sử dụng uy quyền của mình, la hét, nạt nộ, đe dọa và trừng phạt các con tôi. Và tôi chiến thắng. Tôi đứng đó, trong vinh quang, giữa mối quan hệ cha con bị đổ vỡ khi chúng bên ngoài tỏ ra khuất phục nhưng trong lòng thì chống lại. Chúng cố gắng kìm nén những cảm xúc mà về sau sẽ bùng phát một cách tệ hại hơn.
 
@@ -716,9 +666,7 @@ Giờ đây, nếu tôi là người ngồi dự lễ tang như đã tưởng t�
 
 Lý do mà tôi muốn có được những điều trên là vì sâu thẳm trong tâm hồn, tôi yêu quý con tôi và xem trọng vai trò làm cha của mình.
 
-Nhưng không phải lúc nào tôi cũng nhìn thấy những
-
-giá trị đó. Tôi bị sa lầy trong “một đống vụn vặt”. Những gì quý giá nhất lại bị chôn vùi dưới tầng tầng lớp lớp của những bức bối, thúc ép hàng ngày. Tôi trở nên luôn bị động, và cách cư xử với các con lại mâu thuẫn với tình cảm tôi thật sự dành cho chúng.
+Nhưng không phải lúc nào tôi cũng nhìn thấy những giá trị đó. Tôi bị sa lầy trong “một đống vụn vặt”. Những gì quý giá nhất lại bị chôn vùi dưới tầng tầng lớp lớp của những bức bối, thúc ép hàng ngày. Tôi trở nên luôn bị động, và cách cư xử với các con lại mâu thuẫn với tình cảm tôi thật sự dành cho chúng.
 
 Vì tôi là một con người biết tự nhận thức, vì tôi có trí tưởng tượng và lương tâm, nên tôi có thể kiểm tra những giá trị sâu sắc nhất của mình. Tôi có thể nhận thấy “kịch bản” tôi đang sống không phù hợp với những giá trị đó, rằng cuộc đời tôi không phải là “sản phẩm” của “bản thiết kế” của riêng tôi. Nhưng tôi có thể thay đổi và sống theo trí tưởng tượng của mình thay vì dựa vào trí nhớ. Tôi có thể gắn bản thân vào những tiềm năng vô hạn thay vì vào quá khứ hữu hạn. Tôi có thể trở thành người sáng tạo đầu tiên của chính mình.
 
@@ -786,9 +734,7 @@ Ngoài ra, tôi sẽ dùng tiền và tài năng mình làm cho cuộc sống c�
 
 Bạn có thể xem bản tuyên ngôn sứ mệnh cá nhân là một “bản hiến pháp” của cá nhân bạn. Và, như mọi bản hiến pháp trên thế giới, về cơ bản, “hiến pháp” của bạn là không thay đổi. Như Hiến pháp Hoa Kỳ chẳng hạn, trong hơn 200 năm qua, nó chỉ có 26 bổ sung, sửa đổi, trong đó bản gốc chỉ sửa đổi đúng 10 điểm.
 
-Hiến pháp Hoa Kỳ là tiêu chuẩn để đánh giá bất kỳ bộ luật nào của nước Mỹ. Đây là văn bản mà tổng thống Mỹ nhận trách nhiệm bảo vệ và ủng hộ khi tuyên thệ nhậm chức, đây là cơ sở pháp lý cho việc nhập quốc tịch Hoa Kỳ của người dân. Đây là nền tảng và trung tâm giúp dân chúng vượt qua những biến động lớn như cuộc nội chiến Mỹ, chiến tranh Việt Nam, vụ bê bối Watergate. Đây là các chuẩn mực thể hiện bằng văn bản – những chuẩn mực then chốt dùng để đánh giá và điều hành mọi thứ khác. Những nguyên tắc này đem lại cho bản Hiến pháp một sức mạnh
-
-vô tận, ngay cả trong trường hợp có những sự mơ hồ và thay đổi trong xã hội, như Thomas Jefferson đã nói: “Nền an ninh đặc biệt của chúng ta nằm ở bản Hiến pháp này”.
+Hiến pháp Hoa Kỳ là tiêu chuẩn để đánh giá bất kỳ bộ luật nào của nước Mỹ. Đây là văn bản mà tổng thống Mỹ nhận trách nhiệm bảo vệ và ủng hộ khi tuyên thệ nhậm chức, đây là cơ sở pháp lý cho việc nhập quốc tịch Hoa Kỳ của người dân. Đây là nền tảng và trung tâm giúp dân chúng vượt qua những biến động lớn như cuộc nội chiến Mỹ, chiến tranh Việt Nam, vụ bê bối Watergate. Đây là các chuẩn mực thể hiện bằng văn bản – những chuẩn mực then chốt dùng để đánh giá và điều hành mọi thứ khác. Những nguyên tắc này đem lại cho bản Hiến pháp một sức mạnh vô tận, ngay cả trong trường hợp có những sự mơ hồ và thay đổi trong xã hội, như Thomas Jefferson đã nói: “Nền an ninh đặc biệt của chúng ta nằm ở bản Hiến pháp này”.
 
 Tương tự như vậy, bản tuyên ngôn sứ mệnh cá nhân dựa trên những nguyên tắc đúng đắn, trở thành một chuẩn mực cho mỗi người. Nó trở thành bản hiến pháp của cá nhân, làm cơ sở cho việc đưa ra những quyết định lớn, là phương hướng cho cả cuộc đời bạn, là cơ sở cho những quyết định hàng ngày bạn đưa ra, mà không phụ thuộc vào hoàn cảnh sống hay những xúc cảm. Nó cũng đem lại cho mỗi cá nhân nguồn sức mạnh lớn lao giữa những biến cố của cuộc đời.
 
@@ -798,9 +744,7 @@ Có bản tuyên ngôn sứ mệnh, chúng ta có thể cùng bay bổng với n
 
 Môi trường sống của chúng ta cũng đang thay đổi với một nhịp điệu không ngừng gia tăng. Sự thay đổi chóng mặt đó làm kiệt sức nhiều người, khiến họ không đủ sức đương đầu với cuộc sống. Họ trở nên bị động và thường đầu hàng, với hy vọng theo thời gian, rồi những điều tốt đẹp cũng sẽ đến…
 
-Nhưng không phải ai cũng vậy. Trong các trại tập trung của bọn Đức quốc xã, Viktor Frankl đã học được nguyên
-
-tắc luôn chủ động và tầm quan trọng của việc xác định mục đích, ý nghĩa cuộc sống. Ông đã phát triển khái niệm “Liệu pháp biểu tượng” thành một triết lý và đưa ra giảng dạy. Điều cốt lõi của triết lý này là: nhiều chứng bệnh về tinh thần và cảm xúc thật ra là do tâm trạng bị đè nén, trống rỗng, cảm thấy cuộc đời vô nghĩa… của con người. “Liệu pháp biểu tượng” xóa bỏ cảm giác tiêu cực đó bằng cách giúp cho từng cá nhân tìm thấy ý nghĩa đơn nhất và sứ mệnh của bản thân trong cuộc sống.
+Nhưng không phải ai cũng vậy. Trong các trại tập trung của bọn Đức quốc xã, Viktor Frankl đã học được nguyên tắc luôn chủ động và tầm quan trọng của việc xác định mục đích, ý nghĩa cuộc sống. Ông đã phát triển khái niệm “Liệu pháp biểu tượng” thành một triết lý và đưa ra giảng dạy. Điều cốt lõi của triết lý này là: nhiều chứng bệnh về tinh thần và cảm xúc thật ra là do tâm trạng bị đè nén, trống rỗng, cảm thấy cuộc đời vô nghĩa… của con người. “Liệu pháp biểu tượng” xóa bỏ cảm giác tiêu cực đó bằng cách giúp cho từng cá nhân tìm thấy ý nghĩa đơn nhất và sứ mệnh của bản thân trong cuộc sống.
 
 Một khi nhận thức được sứ mệnh của mình, bạn sẽ có được nền tảng của tính chủ động. Bạn sẽ có được tầm nhìn về những giá trị dẫn dắt cuộc đời bạn. Bạn sẽ có phương hướng cơ bản để từ đó đặt ra các mục tiêu ngắn hạn và dài hạn. Bạn sẽ có được sức mạnh của “bản hiến pháp” cá nhân được viết ra dựa trên các nguyên tắc đúng đắn, dùng làm căn cứ để đánh giá một cách hữu hiệu mọi quyết định về việc sử dụng tốt nhất thời gian, sức lực và tài năng của bạn.
 
@@ -808,9 +752,7 @@ Một khi nhận thức được sứ mệnh của mình, bạn sẽ có đượ
 
 Để có thể viết được một bản tuyên ngôn sứ mệnh, chúng ta phải bắt đầu ngay tại trung tâm ***Vòng tròn Ảnh hưởng*** của mình. Trung tâm này bao gồm những mô thức cơ bản nhất - những lăng kính - mà qua đó chúng ta có thể nhìn ra thế giới.
 
-Chính tại trung tâm này, chúng ta xử lý tầm nhìn và những giá trị của mình, sử dụng khả năng tự nhận thức để xem xét các “bản đồ” chỉ dẫn. Và nếu có được các nguyên tắc đúng đắn, chúng ta sẽ biết chắc các “bản đồ” chỉ đúng đường, biết chắc các mô thức của mình được dựa trên các nguyên tắc và cơ sở hiện thực. Chính tại đây, chúng ta sử
-
-dụng lương tâm làm la bàn để chỉ ra tài năng riêng biệt và phạm vi có thể cống hiến của mình, sử dụng trí tưởng tượng để hình dung đích đến. Tất cả những điều đó nhằm mang lại cho chúng ta những cơ sở của một bản hiến pháp cá nhân. Cũng chính tại đây, những nỗ lực tập trung của chúng ta sẽ đạt được kết quả lớn nhất. Khi tập trung vào trung tâm của ***Vòng tròn Ảnh hưởng***, chúng ta sẽ mở rộng nó. Đây là việc tạo ra PC (năng lực sản xuất) có sức mạnh và ảnh hưởng to lớn đến sự thành đạt ở mọi mặt trong cuộc sống chúng ta.
+Chính tại trung tâm này, chúng ta xử lý tầm nhìn và những giá trị của mình, sử dụng khả năng tự nhận thức để xem xét các “bản đồ” chỉ dẫn. Và nếu có được các nguyên tắc đúng đắn, chúng ta sẽ biết chắc các “bản đồ” chỉ đúng đường, biết chắc các mô thức của mình được dựa trên các nguyên tắc và cơ sở hiện thực. Chính tại đây, chúng ta sử dụng lương tâm làm la bàn để chỉ ra tài năng riêng biệt và phạm vi có thể cống hiến của mình, sử dụng trí tưởng tượng để hình dung đích đến. Tất cả những điều đó nhằm mang lại cho chúng ta những cơ sở của một bản hiến pháp cá nhân. Cũng chính tại đây, những nỗ lực tập trung của chúng ta sẽ đạt được kết quả lớn nhất. Khi tập trung vào trung tâm của ***Vòng tròn Ảnh hưởng***, chúng ta sẽ mở rộng nó. Đây là việc tạo ra PC (năng lực sản xuất) có sức mạnh và ảnh hưởng to lớn đến sự thành đạt ở mọi mặt trong cuộc sống chúng ta.
 
 Bất cứ cái gì nằm tại trung tâm của cuộc sống sẽ là nguồn gốc cho ***sự an toàn, định hướng, khôn ngoan*** và ***năng lực*** của chúng ta.
 
@@ -834,9 +776,7 @@ An toàn
 
 Năng lực
 
-Khôn ngoan Định hướng
-
-vào người khác, vào những thứ bạn không kiểm soát một cách trực tiếp. Ở đầu trên của chuỗi, bạn kiểm soát được tình hình; khi đó, bạn có sức mạnh độc lập và nền tảng cho các mối quan hệ đa dạng, tương thuộc lẫn nhau.
+Khôn ngoan Định hướng vào người khác, vào những thứ bạn không kiểm soát một cách trực tiếp. Ở đầu trên của chuỗi, bạn kiểm soát được tình hình; khi đó, bạn có sức mạnh độc lập và nền tảng cho các mối quan hệ đa dạng, tương thuộc lẫn nhau.
 
 > An toàn của bạn nằm đâu đó trên chuỗi liên tục giữa cực không an toàn nằm ở một đầu, nơi cuộc sống của bạn chịu sự chi phối bởi các xung lực hay thay đổi, và đầu kia, nơi bạn ý thức được giá trị bản chất và sự an toàn cá nhân. Định hướng của bạn dao động trên chuỗi liên tục, từ những nguồn lực dao động bên ngoài cho đến sự điều khiển nội tại vững vàng. Khôn ngoan của bạn nằm đâu đó giữa một tấm bản đồ hoàn toàn sai lệch, nơi mọi thứ bị bóp méo và không ăn khớp nhau hoặc có thể giữa một tấm bản đồ chính xác, hoàn hảo về cuộc sống, nơi mọi thành phần và nguyên tắc liên hệ với nhau một cách hợp lý. Năng lực của bạn nằm giữa một cực là sự bất động – một con rối cho người khác giật dây – và cực kia là sự chủ động, nghĩa là sức mạnh hành động theo những giá trị của chính bạn.
 
@@ -852,9 +792,7 @@ Tuy nhiên, kinh nghiệm và quan sát thực tế cuộc sống lại cho chú
 
 Khi trách nhiệm tăng lên và sự căng thẳng xuất hiện trong quan hệ hôn nhân, chúng ta có xu hướng quay trở lại các “kịch bản” đã được trang bị trong giai đoạn trưởng thành. Và người bạn đời của chúng ta cũng thế. Thông thường, kịch bản của hai bên không giống nhau, vì vậy xuất hiện cách xử lý khác nhau về các vấn đề như tài chính, nuôi dạy con cái, tình cảm vợ chồng… Khi những vấn đề này kết hợp với sự lệ thuộc tình cảm trong hôn nhân thì mối quan hệ lấy phối ngẫu làm trọng tâm sẽ bộc lộ mọi điểm yếu của nó.
 
-Khi chúng ta lệ thuộc vào người chúng ta đang có xung đột thì nhu cầu và xung đột luôn hòa lẫn vào nhau. Kết quả thường thấy là hành động yêu – ghét thái quá, đối đầu hay trốn chạy, rút lui hay gây hấn, cay đắng, đố kỵ, hoặc ngấm ngầm đua tranh. Khi những trạng thái tiêu cực này xảy ra,
-
-chúng ta càng lún sâu vào các thói quen cũ nhằm biện minh cho hành vi của mình và trả đũa người vợ hoặc chồng.
+Khi chúng ta lệ thuộc vào người chúng ta đang có xung đột thì nhu cầu và xung đột luôn hòa lẫn vào nhau. Kết quả thường thấy là hành động yêu – ghét thái quá, đối đầu hay trốn chạy, rút lui hay gây hấn, cay đắng, đố kỵ, hoặc ngấm ngầm đua tranh. Khi những trạng thái tiêu cực này xảy ra, chúng ta càng lún sâu vào các thói quen cũ nhằm biện minh cho hành vi của mình và trả đũa người vợ hoặc chồng.
 
 Rõ ràng, khi bị tổn thương nặng nề, chúng ta cảm thấy cần phải phòng thủ để tránh đau đớn lần nữa. Vì vậy, chúng ta thường dùng những ngôn từ mỉa mai, châm chọc và chỉ trích để che đậy sự yếu đuối bên trong con người mình. Cả vợ và chồng đều có ý chờ bên kia nhân nhượng tình cảm trước, để rồi nhận lấy sự thất vọng và càng cảm thấy oán trách đối phương.
 
@@ -864,9 +802,7 @@ Mối quan hệ như vậy chỉ chứa đựng ***an toàn*** hão huyền. ***
 
 Những người lấy gia đình làm trọng tâm của cuộc sống có nhận thức về sự an toàn hay giá trị của bản thân xuất phát từ truyền thống, nền tảng giáo dục hay danh dự của gia đình. Do vậy, họ dễ bị tổn thương trước mọi sự thay đổi về truyền thống hay văn hóa, hoặc bất kỳ tác động nào làm phương hại đến gia đình họ.
 
-Những bậc cha mẹ lấy gia đình làm trọng tâm thường không có được sự tự do về tình cảm để chăm sóc con cái ở mức cao nhất. Nếu họ quan niệm sự an toàn của họ xuất
-
-phát từ gia đình thì nhu cầu sống hòa hợp với con cái có thể làm lu mờ tầm quan trọng của việc đầu tư lâu dài vào sự trưởng thành và phát triển của chúng. Họ chỉ có thể tập trung vào uốn nắn các hành vi nhất thời. Bất cứ hành vi nào họ cho là không thích hợp đều bị coi là mối đe dọa cho sự an toàn của gia đình họ. Do vậy, họ trở nên thất vọng, dễ dàng chịu sự chi phối bởi những cảm xúc nhất thời hoặc những vấn đề trước mắt, hơn là chú ý đến sự trưởng thành và phát triển lâu dài của con cái. Họ có thể phản ứng thái quá và trừng phạt con cái do nóng nảy hoặc yêu thương chúng một cách có điều kiện, khiến cho chúng bị lệ thuộc về tình cảm, trở nên ngang ngạnh và quậy phá.
+Những bậc cha mẹ lấy gia đình làm trọng tâm thường không có được sự tự do về tình cảm để chăm sóc con cái ở mức cao nhất. Nếu họ quan niệm sự an toàn của họ xuất phát từ gia đình thì nhu cầu sống hòa hợp với con cái có thể làm lu mờ tầm quan trọng của việc đầu tư lâu dài vào sự trưởng thành và phát triển của chúng. Họ chỉ có thể tập trung vào uốn nắn các hành vi nhất thời. Bất cứ hành vi nào họ cho là không thích hợp đều bị coi là mối đe dọa cho sự an toàn của gia đình họ. Do vậy, họ trở nên thất vọng, dễ dàng chịu sự chi phối bởi những cảm xúc nhất thời hoặc những vấn đề trước mắt, hơn là chú ý đến sự trưởng thành và phát triển lâu dài của con cái. Họ có thể phản ứng thái quá và trừng phạt con cái do nóng nảy hoặc yêu thương chúng một cách có điều kiện, khiến cho chúng bị lệ thuộc về tình cảm, trở nên ngang ngạnh và quậy phá.
 
 ### Trọng tâm tiền bạc. Một trọng tâm khác, hợp lý và rất phổ biến trong cuộc sống của nhiều người, là việc kiếm tiền. Trong bảng thứ tự ưu tiên hay chuỗi liên tục các nhu cầu, thì sự an toàn về vật chất và tài chính luôn đứng hàng đầu. Các nhu cầu khác thậm chí còn không được kể đến cho đến khi nhu cầu cơ bản được thỏa mãn, chí ít là ở mức tối thiểu.
 
@@ -874,17 +810,13 @@ Hầu hết mọi người đều phải đối mặt với sự âu lo về m�
 
 Có rất nhiều lý do chính đáng để kiếm tiền, chẳng hạn như nhu cầu tích lũy, chăm sóc gia đình. Tuy rất quan trọng, nhưng nếu chỉ tập trung vào việc kiếm tiền, coi đó là trọng tâm của cuộc sống thì bản thân nó sẽ đem lại tác hại.
 
-Hãy xem lại lần nữa bốn nhân tố cần thiết cho cuộc sống: ***an toàn, định hướng, khôn ngoan*** và ***năng lực***. Giả sử tôi tìm thấy ***an toàn*** của mình chủ yếu từ công việc làm ăn, hay
-
-từ thu nhập hoặc lợi nhuận. Do có nhiều nhân tố ảnh hưởng đến các nền tảng kinh tế này, nên tôi sẽ bận tâm và lo lắng, đề phòng và bảo vệ bất cứ điều gì có thể gây tổn hại cho chúng. Khi nhận thức về giá trị cá nhân của tôi xuất phát từ tiền bạc, tôi sẽ dễ bị tổn thương bởi những tác động bên ngoài. Nhưng công việc và tiền bạc tự thân nó không đem lại ***khôn ngoan, định hướng*** mà chỉ đem lại ***năng lực*** và ***an toàn*** ở mức độ hạn chế. Hạn chế của ***trọng tâm tiền bạc*** chính là nó thường đem lại sự khủng hoảng trong cuộc sống của chính bạn hay người thân của bạn.
+Hãy xem lại lần nữa bốn nhân tố cần thiết cho cuộc sống: ***an toàn, định hướng, khôn ngoan*** và ***năng lực***. Giả sử tôi tìm thấy ***an toàn*** của mình chủ yếu từ công việc làm ăn, hay từ thu nhập hoặc lợi nhuận. Do có nhiều nhân tố ảnh hưởng đến các nền tảng kinh tế này, nên tôi sẽ bận tâm và lo lắng, đề phòng và bảo vệ bất cứ điều gì có thể gây tổn hại cho chúng. Khi nhận thức về giá trị cá nhân của tôi xuất phát từ tiền bạc, tôi sẽ dễ bị tổn thương bởi những tác động bên ngoài. Nhưng công việc và tiền bạc tự thân nó không đem lại ***khôn ngoan, định hướng*** mà chỉ đem lại ***năng lực*** và ***an toàn*** ở mức độ hạn chế. Hạn chế của ***trọng tâm tiền bạc*** chính là nó thường đem lại sự khủng hoảng trong cuộc sống của chính bạn hay người thân của bạn.
 
 Những người lấy tiền bạc làm trọng tâm cuộc sống thường gạt gia đình hay các ưu tiên khác sang một bên. Họ cho rằng mọi người sẽ thông cảm vì nhu cầu kinh tế phải là trước hết. Tôi còn nhớ một câu chuyện mà tôi có dịp chứng kiến như sau. Một ông bố sắp sửa dẫn các con đi xem xiếc như đã hứa thì nhận được điện thoại từ công ty. Đó là cuộc gọi của cấp trên bảo ông đến ngay công ty giải quyết công việc, nhưng ông đã từ chối. Khi bà vợ nói rằng ông nên đi làm thì hơn, ông trả lời: “Công việc rồi sẽ lại đến, nhưng tuổi thơ của các con thì không”. Từ đó, trong tâm trí, các con ông không bao giờ quên được những cử chỉ quan tâm, tuy nhỏ, nhưng là bằng chứng xác thực của tình yêu mà bố luôn dành cho chúng.
 
 ### Trọng tâm công việc. Những người lấy công việc làm trọng tâm trong cuộc sống có thể trở thành những kẻ “tham công tiếc việc”. Họ hy sinh cả sức khỏe, các mối quan hệ và nhiều mặt quan trọng khác của cuộc sống. Đặc tính cơ bản của họ được quyết định bởi tính chất công việc: “Tôi là bác sĩ”, “Tôi là nhà văn”, “Tôi là nghệ sĩ”…
 
-Vì nhận thức về giá trị của họ chỉ gói gọn trong công việc, nên cảm giác ***an toàn*** trong họ dễ bị tổn thương bởi những gì
-
-ngăn cản họ tiếp tục công việc. ***Định hướng*** cuộc sống của họ luôn phụ thuộc vào nhu cầu công việc. ***Khôn ngoan*** và ***năng lực*** cũng sẽ bị giới hạn trong phạm vi công việc. Do đó, họ luôn tỏ ra kém nhạy bén trong các lĩnh vực khác của cuộc sống như mối quan hệ gia đình, ứng xử xã hội…
+Vì nhận thức về giá trị của họ chỉ gói gọn trong công việc, nên cảm giác ***an toàn*** trong họ dễ bị tổn thương bởi những gì ngăn cản họ tiếp tục công việc. ***Định hướng*** cuộc sống của họ luôn phụ thuộc vào nhu cầu công việc. ***Khôn ngoan*** và ***năng lực*** cũng sẽ bị giới hạn trong phạm vi công việc. Do đó, họ luôn tỏ ra kém nhạy bén trong các lĩnh vực khác của cuộc sống như mối quan hệ gia đình, ứng xử xã hội…
 
 ### Trọng tâm tài sản. Động lực sống của nhiều người khác lại là quyền sở hữu của cải vật chất - không chỉ đối với tài sản hữu hình như nhà lầu, xe hơi, thuyền buồm và đồ trang sức, mà còn cả những tài sản vô hình như danh tiếng, sự vinh quang và địa vị xã hội. Đa số chúng ta đều nhận thức được qua kinh nghiệm sống của mình về sự khiếm khuyết của trọng tâm này, đơn giản bởi vì chúng chịu ảnh hưởng của rất nhiều yếu tố và có thể mất đi nhanh chóng.
 
@@ -900,9 +832,7 @@ Những kỳ nghỉ dài lê thê, ném tiền vào sòng bạc, nhảy nhót th
 
 Malcolm Muggeridge *(*) * viết trong cuốn *** Lời chứng của thế kỷ 20*** như sau:
 
-(*) Malcolm Muggeridge (1903 - 1990): Nhà văn châm biếm, nhà báo nổi tiếng
-
-của nước Anh.
+(*) Malcolm Muggeridge (1903 - 1990): Nhà văn châm biếm, nhà báo nổi tiếng của nước Anh.
 
 “Ngày nay, mỗi khi nhìn lại cuộc đời mình, tôi giật mình nhận ra rằng những điều trước đây tôi cho là có ý nghĩa nhất, có sức hấp dẫn nhất thì nay lại trở nên phù phiếm và vô nghĩa tột độ! Đó là tham vọng thành công bằng mọi giá; là sự hãnh diện vì được mọi người biết đến và ca ngợi; là những vui thú vật chất từ việc kiếm nhiều tiền, chinh phục được nhiều cô gái đẹp, có những chuyến chu du khắp thế giới như quỷ Satan. Tất cả giải thích và giúp tôi hiểu được thế nào là sự phù du giả tạo của thế giới này.
 
@@ -912,9 +842,7 @@ Hồi tưởng lại, tất cả những trò tự mãn này xem ra chỉ là m�
 
 Việc lấy bạn bè làm trọng tâm cuộc sống cũng có thể chỉ tập trung vào một vài người, nó có một số đặc điểm giống trường hợp trọng tâm phối ngẫu. Xu hướng lấy bạn bè làm trọng tâm có thể là nguyên nhân gây ra sự lệ thuộc tình cảm vào một cá nhân, sự phát triển của nhu cầu/xung đột theo đường xoắn ốc và mối quan hệ tương tác tiêu cực.
 
-Ngược lại, cũng có số ít người lấy đối thủ làm trọng tâm cuộc sống, đặc biệt khi họ có sự tương tác thường xuyên với đối thủ. Tuy ít ai làm điều này một cách có ý thức, nhưng không phải là không phổ biến. Khi ai đó cảm thấy mình bị đối xử bất công bởi người có ảnh hưởng lớn về tình cảm hay
-
-về mặt xã hội, thì anh ta sẽ rất dễ dàng chú tâm vào sự bất công và coi người kia là “trọng tâm” cuộc sống của mình. Thay vì sống một cách luôn chủ động cho cuộc đời mình, người lấy đối thủ làm trọng tâm phản ứng lại một cách thụ động tùy vào hành vi và thái độ của đối thủ.
+Ngược lại, cũng có số ít người lấy đối thủ làm trọng tâm cuộc sống, đặc biệt khi họ có sự tương tác thường xuyên với đối thủ. Tuy ít ai làm điều này một cách có ý thức, nhưng không phải là không phổ biến. Khi ai đó cảm thấy mình bị đối xử bất công bởi người có ảnh hưởng lớn về tình cảm hay về mặt xã hội, thì anh ta sẽ rất dễ dàng chú tâm vào sự bất công và coi người kia là “trọng tâm” cuộc sống của mình. Thay vì sống một cách luôn chủ động cho cuộc đời mình, người lấy đối thủ làm trọng tâm phản ứng lại một cách thụ động tùy vào hành vi và thái độ của đối thủ.
 
 Tôi có một anh bạn giảng dạy tại một trường đại học. Anh ta đã trở nên quẫn trí vì sự yếu kém của một người quản lý - người có mối quan hệ rất xấu với anh ta. Anh ta đã để suy nghĩ của mình về người này chi phối đến mức trở thành nỗi ám ảnh. Điều này ảnh hưởng đến cả quan hệ của anh với gia đình, với nhà trường và các đồng nghiệp. Cuối cùng, anh đi đến quyết định sẽ rời bỏ trường đại học đó để tìm công việc khác.
 
@@ -948,9 +876,7 @@ Trong cuộc sống, việc lấy tôn giáo làm trọng tâm, tạo ấn tư�
 
 Vì tôn giáo là tổ chức chính thức bao gồm các chính sách, chương trình và cộng đồng tín đồ nên tự nó không thể đem lại cho người ta sự an toàn sâu sắc và vĩnh viễn hay một ý thức về giá trị nội tại. Sống theo các nguyên tắc được giáo huấn, người ta có thể làm được điều đó, nhưng chỉ bản thân tôn giáo thôi thì không thể. Nhà thờ cũng không thể cho người ta một cảm giác thường xuyên được ***định hướng***.
 
-Những người lấy tôn giáo làm trọng tâm thường có xu hướng sống biệt lập, suy nghĩ và hành động của họ cũng có nét khác biệt so với người không theo tôn giáo. Thiếu vắng
-
-tính tổng thể, tính thống nhất hay hoàn thiện là một mối đe dọa đối với ***sự an toàn***, tạo ra nhu cầu giả tạo và sự tự mãn.
+Những người lấy tôn giáo làm trọng tâm thường có xu hướng sống biệt lập, suy nghĩ và hành động của họ cũng có nét khác biệt so với người không theo tôn giáo. Thiếu vắng tính tổng thể, tính thống nhất hay hoàn thiện là một mối đe dọa đối với ***sự an toàn***, tạo ra nhu cầu giả tạo và sự tự mãn.
 
 Việc coi tôn giáo là mục đích chứ không phải là phương tiện làm xói mòn ***sự khôn ngoan*** và cảm giác cân bằng của con người. Mặc dù tôn giáo dạy con người về nguồn gốc của ***năng lực***, nhưng bản thân tôn giáo không phải là ***năng lực***. Tôn giáo chỉ là một phương tiện đưa sức mạnh tinh thần đến với con người.
 
@@ -974,17 +900,13 @@ Nếu chuyển đổi từ trọng tâm này sang trọng tâm khác, kết qu�
 
 **Trọng tâm**
 
-Nếu bạn
-
-lấy ***hôn***
+Nếu bạn lấy ***hôn***
 
 ***nhân làm***
 
 ***trọng tâm***
 
-Nếu bạn
-
-lấy ***gia***
+Nếu bạn lấy ***gia***
 
 ***đình làm***
 
@@ -1002,11 +924,7 @@ vợ/chồng bạn.
 
 * Thất vọng sâu sắc dẫn đến từ bỏ hay xung đột khi
 
-vợ/chồng bạn không tán
-
-thành hay không đáp ứng
-
-mong đợi của bạn.
+vợ/chồng bạn không tán thành hay không đáp ứng mong đợi của bạn.
 
 * Bất cứ điều gì có thể đụng chạm đến mối quan hệ đều
 
@@ -1014,75 +932,43 @@ mong đợi của bạn.
 
 * An toàn của bạn dựa trên cơ sở sự chấp nhận của gia
 
-đình và việc đáp ứng kỳ
-
-vọng của gia đình.
+đình và việc đáp ứng kỳ vọng của gia đình.
 
 **Định hướng**
 
 * Hướng đi của bạn xuất phát từ nhu cầu
 
-và ý muốn của vợ hay
-
-chồng bạn.
+và ý muốn của vợ hay chồng bạn.
 
 * “Kịch bản” về gia đình là cơ sở để điều
 
-chỉnh thái độ và hành
-
-vi của bạn.
+chỉnh thái độ và hành vi của bạn.
 
 **Khôn ngoan**
 
 * Góc nhìn cuộc sống của bạn bao quanh
 
-những điều có ảnh
-
-hưởng tích cực hoặc
-
-tiêu cực đến vợ/chồng
-
-hoặc mối quan hệ của
-
-bạn.
+những điều có ảnh hưởng tích cực hoặc tiêu cực đến vợ/chồng hoặc mối quan hệ của bạn.
 
 * Bạn lý giải tất cả mọi mặt của cuộc sống
 
-dưới góc độ gia đình
-
-bạn, tạo ra sự hiểu biết
-
-phiến diện và cảm xúc
-
-cực đoan.
+dưới góc độ gia đình bạn, tạo ra sự hiểu biết phiến diện và cảm xúc cực đoan.
 
 **Năng lực**
 
-Năng lực hành động
-
-của bạn bị hạn chế bởi
-
-nhược điểm của
-
-vợ/chồng và của bạn.
+Năng lực hành động của bạn bị hạn chế bởi nhược điểm của vợ/chồng và của bạn.
 
 * Hành động của bạn bị hạn chế bởi các
 
-khuôn mẫu và truyền
+khuôn mẫu và truyền thống gia đình.
 
-thống gia đình.
-
-Nếu bạn
-
-lấy ***tiền***
+Nếu bạn lấy ***tiền***
 
 ***bạc làm***
 
 ***trọng tâm***
 
-Nếu bạn
-
-lấy ***công***
+Nếu bạn lấy ***công***
 
 ***việc làm***
 
@@ -1110,11 +996,7 @@ nghiệp của mình.
 
 * Tiêu chuẩn để ra quyết định của bạn
 
-phải phù hợp với gia
-
-đình, hay theo ý
-
-muốn của gia đình.
+phải phù hợp với gia đình, hay theo ý muốn của gia đình.
 
 * Lợi nhuận là tiêu chuẩn cho quyết
 
@@ -1122,15 +1004,11 @@ muốn của gia đình.
 
 * Các quyết định của bạn dựa vào nhu cầu
 
-và các kỳ vọng công
-
-việc của bạn.
+và các kỳ vọng công việc của bạn.
 
 * Kiếm tiền là lăng kính để nhìn và hiểu
 
-cuộc sống, dẫn đến sự
-
-xét đoán lệch lạc.
+cuộc sống, dẫn đến sự xét đoán lệch lạc.
 
 * Bạn thường bị giới hạn bởi vai trò của bạn
 
@@ -1142,57 +1020,33 @@ bạn.
 
 * Bạn bị giới hạn trong phạm vi những gì có
 
-thể mua được bằng
-
-tiền và tầm nhìn hạn
-
-chế của bạn.
+thể mua được bằng tiền và tầm nhìn hạn chế của bạn.
 
 * Hành động của bạn bị giới hạn bởi hình
 
-mẫu công việc, các cơ
-
-hội nghề nghiệp, các
-
-giới hạn của tổ chức,
-
-nhận thức của cấp trên
-
-và sự hạn chế về năng
-
-lực của bạn để làm một
-
-việc cụ thể.
+mẫu công việc, các cơ hội nghề nghiệp, các giới hạn của tổ chức, nhận thức của cấp trên và sự hạn chế về năng lực của bạn để làm một việc cụ thể.
 
 ![Bảng ma trận các trọng tâm trong cuộc sống](images/so_do_cac_trong_tam_cuoc_song.png)
 
-Nếu bạn
-
-lấy ***tài sản***
+Nếu bạn lấy ***tài sản***
 
 ***làm trọng***
 
 ***tâm***
 
-Nếu bạn
-
-lấy ***thú vui***
+Nếu bạn lấy ***thú vui***
 
 ***làm trọng***
 
 ***tâm***
 
-Nếu bạn
-
-lấy ***bạn bè***
+Nếu bạn lấy ***bạn bè***
 
 ***làm trọng***
 
 ***tâm***
 
-Nếu bạn
-
-lấy ***đối thủ***
+Nếu bạn lấy ***đối thủ***
 
 ***làm trọng***
 
@@ -1208,9 +1062,7 @@ việc sở hữu tài sản hữu hình.
 
 * Sự an toàn của bạn ngắn ngủi, như được gây mê và
 
-phụ thuộc vào môi trường
-
-sống.
+phụ thuộc vào môi trường sống.
 
 * Sự an toàn của bạn phụ thuộc vào tấm gương xã hội.
 
@@ -1224,15 +1076,11 @@ thái của đối thủ của bạn.
 
 * Các quyết định của bạn dựa vào những gì
 
-có thể bảo vệ, làm gia
-
-tăng của cải của bạn.
+có thể bảo vệ, làm gia tăng của cải của bạn.
 
 * Quyết định của bạn là dựa vào những gì
 
-gây thích thú nhất cho
-
-bạn.
+gây thích thú nhất cho bạn.
 
 * Tiêu chuẩn cho quyết định của bạn là “Họ sẽ
 
@@ -1246,9 +1094,7 @@ nghĩ gì?”.
 
 * Bạn nhìn thế giới qua việc so sánh các mối
 
-tương quan kinh tế và
-
-xã hội.
+tương quan kinh tế và xã hội.
 
 * Bạn nhìn thế giới thông qua những gì
 
@@ -1260,11 +1106,7 @@ mà bạn quan tâm.
 
 * Năng lực của bạn nằm trong giới hạn mà
 
-bạn có thể mua bán
-
-hay vị thế xã hội mà
-
-bạn có thể đạt được.
+bạn có thể mua bán hay vị thế xã hội mà bạn có thể đạt được.
 
 * Sức mạnh của bạn hầu như bị bỏ qua.
 
@@ -1280,17 +1122,13 @@ của bạn.
 
 dữ, ghen ghét, tức tối
 
-Nếu bạn
-
-lấy ***tôn***
+Nếu bạn lấy ***tôn***
 
 ***giáo làm***
 
 ***trọng tâm***
 
-Nếu bạn
-
-lấy ***bản***
+Nếu bạn lấy ***bản***
 
 ***thân làm***
 
@@ -1300,9 +1138,7 @@ lấy ***bản***
 
 * Bạn tự thanh minh và chấp nhận bất kỳ ý kiến nào đi
 
-ngược lại với lợi ích của đối
-
-thủ.
+ngược lại với lợi ích của đối thủ.
 
 * Sự an toàn của bạn dựa vào hoạt động giáo hội và niềm
 
@@ -1310,15 +1146,11 @@ tin tôn giáo.
 
 * Bạn tìm thấy sự an toàn thông qua việc thờ cúng, tiếp
 
-thu giáo lý và các hoạt động
-
-tôn giáo khác.
+thu giáo lý và các hoạt động tôn giáo khác.
 
 * Sự an toàn của bạn luôn thay đổi và biến động.
 
-tạo thế phòng thủ cho
-
-mình.
+tạo thế phòng thủ cho mình.
 
 * Quyết định của bạn dựa vào những gì
 
@@ -1326,33 +1158,15 @@ chống lại đối thủ.
 
 * Bạn chịu sự chi phối bởi cách đánh giá của
 
-người khác đối với
-
-hành động của bạn
-
-theo lời giáo huấn.
+người khác đối với hành động của bạn theo lời giáo huấn.
 
 * Tiêu chuẩn phán xét của bạn luôn gắn liền
 
-với nhu cầu của
-
-mình: “Nếu tôi cảm
-
-thấy tốt...”, “Điều tôi
-
-muốn là...”, “Điều tôi
-
-cần là...”, “Tôi được
-
-gì trong đó?”.
+với nhu cầu của mình: “Nếu tôi cảm thấy tốt...”, “Điều tôi muốn là...”, “Điều tôi cần là...”, “Tôi được gì trong đó?”.
 
 * Bạn luôn luôn phòng thủ, quá bị
 
-động và luôn bị ám
-
-ảnh bởi những kẻ đối
-
-nghịch với mình.
+động và luôn bị ám ảnh bởi những kẻ đối nghịch với mình.
 
 * Bạn nhìn thế giới thông qua con mắt
 
@@ -1360,37 +1174,17 @@ của các tín đồ.
 
 * Bạn nhìn thế giới thông qua mức độ
 
-ảnh hưởng của các
+ảnh hưởng của các quyết định, sự kiện, hay hoàn cảnh... đối với bản thân mình.
 
-quyết định, sự kiện,
-
-hay hoàn cảnh... đối
-
-với bản thân mình.
-
-và hận thù. Đây là
-
-nguồn năng lượng tiêu
-
-cực dùng để phá hoại
-
-chứ không có ích cho
-
-việc tạo dựng.
+và hận thù. Đây là nguồn năng lượng tiêu cực dùng để phá hoại chứ không có ích cho việc tạo dựng.
 
 * Năng lực của bạn bị phụ thuộc vào vị trí
 
-hay vai trò của bạn
-
-trong giáo hội.
+hay vai trò của bạn trong giáo hội.
 
 * Năng lực hành động của bạn bị giới hạn bởi
 
-nguồn lực của bạn,
-
-không có sự hỗ trợ từ
-
-bên ngoài.
+nguồn lực của bạn, không có sự hỗ trợ từ bên ngoài.
 
 ### 10. TRỌNG TÂM HƯỚNG VỀ NGUYÊN TẮC
 
@@ -1402,9 +1196,7 @@ Có thể thấy các nguyên tắc là những chân lý cơ bản và sâu xa,
 
 Trong một số hoàn cảnh và ở một số người, các nguyên tắc đôi khi bị bỏ qua. Mặc dù vậy, chúng ta vẫn có thể tin rằng chúng có sức mạnh hơn cả con người hay hoàn cảnh. Hàng ngàn năm lịch sử loài người đã từng chứng kiến điều đó. Quan trọng hơn nữa là chúng ta có thể làm cho nó phát huy tác dụng trong cuộc sống.
 
-Tất nhiên, chúng ta không thể biết hết mọi việc. Kiến thức và sự hiểu biết của chúng ta về những nguyên tắc đúng đắn bị giới hạn bởi chính sự thiếu hiểu biết về bản
-
-chất thật sự của con người và thế giới xung quanh, bởi hàng đống những triết lý và lý thuyết trái với các nguyên tắc đúng đắn. Những ý tưởng sai trái này có thể được chấp nhận theo từng thời điểm, nhưng chúng sẽ không tồn tại lâu dài vì được xây dựng từ các nền tảng sai lầm.
+Tất nhiên, chúng ta không thể biết hết mọi việc. Kiến thức và sự hiểu biết của chúng ta về những nguyên tắc đúng đắn bị giới hạn bởi chính sự thiếu hiểu biết về bản chất thật sự của con người và thế giới xung quanh, bởi hàng đống những triết lý và lý thuyết trái với các nguyên tắc đúng đắn. Những ý tưởng sai trái này có thể được chấp nhận theo từng thời điểm, nhưng chúng sẽ không tồn tại lâu dài vì được xây dựng từ các nền tảng sai lầm.
 
 Chúng ta bị giới hạn, nhưng chúng ta có thể đẩy lùi các giới hạn đó. Sự hiểu biết và trưởng thành giúp chúng ta tìm ra các nguyên tắc đúng đắn với niềm tin rằng càng học nhiều, càng đặt tiêu cự của lăng kính chính xác thì qua đó, chúng ta càng nhìn nhận thế giới một cách rõ ràng hơn. Các nguyên tắc không thay đổi, chỉ có sự hiểu biết của chúng ta về chúng là thay đổi.
 
@@ -1450,9 +1242,7 @@ Hoặc bạn quan sát xem bạn bè, đồng nghiệp của bạn có cùng b�
 
 Khi sử dụng nhiều cách khác nhau để xem xét một vấn đề, trong sự tương tác hàng ngày với những người xung quanh, bạn có ngạc nhiên khi gặp phải vấn đề về cách nhìn “cô gái/bà lão” hay không? Bạn có nhìn thấy các trọng tâm này ảnh hưởng như thế nào đến các động cơ, quyết định hàng ngày, đến hành động (hay phản ứng), đến lý giải của bạn về các sự kiện đó hay không? Đó là lý do vì sao sự hiểu biết về trọng tâm trở nên rất quan trọng. Và nếu trọng tâm đó không làm cho bạn trở thành một người luôn chủ động, bạn cần phải thay đổi mô thức để chuyển sang trọng tâm khác có thể giúp bạn thực hiện được điều này.
 
-Là người lấy nguyên tắc làm trọng tâm, bạn luôn cố
-
-gắng tách mình ra khỏi những cảm xúc do hoàn cảnh và các nhân tố khác mang lại để đánh giá các phương án khác nhau trong cuộc sống. Hãy nhìn nhận mọi việc trong tổng thể – nhu cầu làm việc, nhu cầu tình cảm gia đình, các nhu cầu khác cũng như các hệ quả đến từ những quyết định khác nhau – để đưa ra giải pháp tốt nhất.
+Là người lấy nguyên tắc làm trọng tâm, bạn luôn cố gắng tách mình ra khỏi những cảm xúc do hoàn cảnh và các nhân tố khác mang lại để đánh giá các phương án khác nhau trong cuộc sống. Hãy nhìn nhận mọi việc trong tổng thể – nhu cầu làm việc, nhu cầu tình cảm gia đình, các nhu cầu khác cũng như các hệ quả đến từ những quyết định khác nhau – để đưa ra giải pháp tốt nhất.
 
 Việc bạn chọn đi xem hòa nhạc hay ở lại làm thêm ngoài giờ chỉ là một phần rất nhỏ của một quyết định có hiệu quả. Có thể bạn có lựa chọn giống nhau với các trọng tâm khác nhau, nhưng sẽ có nhiều khác biệt đáng kể khi bạn xuất phát từ mô thức lấy nguyên tắc làm trọng tâm.
 
@@ -1476,9 +1266,7 @@ Vợ chồng
 
 **Trọng tâm**
 
-Nếu bạn
-
-lấy ***nguyên***
+Nếu bạn lấy ***nguyên***
 
 ***tắc làm***
 
@@ -1488,29 +1276,15 @@ lấy ***nguyên***
 
 * Sự an toàn của bạn dựa vào các nguyên tắc đúng
 
-đắn, không thay đổi, bất
-
-kể điều kiện hay hoàn
-
-cảnh bên ngoài.
+đắn, không thay đổi, bất kể điều kiện hay hoàn cảnh bên ngoài.
 
 * Bạn biết rằng các nguyên tắc đúng đắn có
 
-thể được trải nghiệm
-
-nhiều lần trong cuộc
-
-sống của bạn.
+thể được trải nghiệm nhiều lần trong cuộc sống của bạn.
 
 * Là thước đo về sự hoàn thiện bản thân, các
 
-nguyên tắc đúng đắn
-
-hoạt động với sự chính
-
-xác, nhất quán, vẻ đẹp và
-
-sức mạnh.
+nguyên tắc đúng đắn hoạt động với sự chính xác, nhất quán, vẻ đẹp và sức mạnh.
 
 * Các nguyên tắc đúng đắn giúp bạn hiểu được
 
@@ -1520,61 +1294,31 @@ sự phát triển của bản
 
 * Các nguyên tắc giúp bạn định hướng đâu
 
-là đích đến và cách
-
-thức để đi đến đó.
+là đích đến và cách thức để đi đến đó.
 
 * Bạn sử dụng số liệu chính xác để đưa ra
 
-quyết định khả thi và
-
-có ý nghĩa.
+quyết định khả thi và có ý nghĩa.
 
 * Bạn đứng tách riêng khỏi thực trạng cuộc
 
-sống, tình cảm và
+sống, tình cảm và hoàn cảnh, nhìn vào tổng thể cân bằng.
 
-hoàn cảnh, nhìn vào
-
-tổng thể cân bằng.
-
-Quyết định và hành
-
-động của bạn phản
-
-ảnh sự cân nhắc và
-
-hậu quả cả ngắn lẫn
-
-dài hạn.
+Quyết định và hành động của bạn phản ảnh sự cân nhắc và hậu quả cả ngắn lẫn dài hạn.
 
 **Khôn ngoan**
 
 * Sự suy xét của bạn bao gồm những kết
 
-quả lâu dài, phản ánh
-
-sự cân bằng, khôn
-
-ngoan và chắc chắn.
+quả lâu dài, phản ánh sự cân bằng, khôn ngoan và chắc chắn.
 
 * Bạn nhìn sự vật khác đi, suy nghĩ và
 
-hành động khác với
-
-phần lớn những
-
-người bị động.
+hành động khác với phần lớn những người bị động.
 
 * Bạn nhìn thế giới thông qua mô thức cơ
 
-bản – mô thức này
-
-làm cho cuộc sống có
-
-hiệu quả trong tương
-
-lai.
+bản – mô thức này làm cho cuộc sống có hiệu quả trong tương lai.
 
 * Bạn nhìn thế giới qua những đóng góp
 
@@ -1584,101 +1328,41 @@ của mình cho cuộc
 
 * Năng lực của bạn chỉ bị hạn chế bởi sự
 
-hiểu biết và tuân theo
-
-quy luật tự nhiên, các
-
-nguyên tắc đúng đắn
-
-cũng như các hậu
-
-quả tự nhiên của
-
-chính các nguyên tắc.
+hiểu biết và tuân theo quy luật tự nhiên, các nguyên tắc đúng đắn cũng như các hậu quả tự nhiên của chính các nguyên tắc.
 
 * Bạn trở thành một cá nhân biết tự nhận
 
-thức, có kiến thức,
-
-luôn chủ động, hầu
-
-như không bị hạn chế
-
-bởi thái độ, hành vi,
-
-hành động của người
-
-khác.
+thức, có kiến thức, luôn chủ động, hầu như không bị hạn chế bởi thái độ, hành vi, hành động của người khác.
 
 * Khả năng hành động vượt xa các
 
-nguồn lực của bạn và
-
-thân, cho bạn niềm tin để
-
-học nhiều hơn, nhờ đó có
-
-thêm kiến thức và hiểu biết.
+nguồn lực của bạn và thân, cho bạn niềm tin để học nhiều hơn, nhờ đó có thêm kiến thức và hiểu biết.
 
 * Nguồn lực an toàn sẽ là một nền tảng cố định, bất
 
-biến để bạn xem thay đổi
-
-như là một cuộc phiêu lưu
-
-và cơ hội lý thú để được
-
-cống hiến.
+biến để bạn xem thay đổi như là một cuộc phiêu lưu và cơ hội lý thú để được cống hiến.
 
 * Trong mọi hoàn cảnh, bạn chủ động chọn giải
 
-pháp tốt nhất, đặt các
+pháp tốt nhất, đặt các quyết định dựa trên lương tâm được các nguyên tắc định hướng.
 
-quyết định dựa trên
-
-lương tâm được các
-
-nguyên tắc định
-
-hướng.
-
-sống và cho những
-
-người xung quanh.
+sống và cho những người xung quanh.
 
 * Bạn có lối sống luôn chủ động, theo đuổi
 
-việc phục vụ và giúp
-
-đỡ người khác.
+việc phục vụ và giúp đỡ người khác.
 
 * Bạn lý giải mọi kinh nghiệm trong cuộc
 
-sống dưới góc độ các
+sống dưới góc độ các cơ hội để học tập và đóng góp.
 
-cơ hội để học tập và
-
-đóng góp.
-
-khuyến khích cách
-
-sống phụ thuộc lẫn
-
-nhau ở mức cao.
+khuyến khích cách sống phụ thuộc lẫn nhau ở mức cao.
 
 * Quyết định và hành động của bạn không bị
 
-thúc đẩy bởi sự hạn
+thúc đẩy bởi sự hạn chế hiện thời về tài chính hay hoàn cảnh.
 
-chế hiện thời về tài
-
-chính hay hoàn cảnh.
-
-Bạn được tự do trong
-
-mối quan hệ tương
-
-thuộc.
+Bạn được tự do trong mối quan hệ tương thuộc.
 
 Trước hết, bạn hành động không phải do tác động của người khác hay do hoàn cảnh. Bạn chủ động trong việc lựa chọn giải pháp bạn cho là tốt nhất. Bạn đưa ra quyết định của mình một cách có ý thức và có hiểu biết.
 
@@ -1690,9 +1374,7 @@ Thứ tư, bạn có thể giao tiếp với vợ và sếp của bạn trong m�
 
 Cuối cùng, bạn cảm thấy dễ chịu về quyết định của mình. Bất cứ việc gì bạn quyết định thực hiện, bạn đều tập trung hết sức để hoàn thành một cách vui vẻ, thoải mái nhất.
 
-Là người lấy nguyên tắc làm trọng tâm, bạn sẽ có một cái nhìn khác về mọi việc. Và vì thế, bạn sẽ hành động khác. Khi đạt được sự ***an toàn, định hướng, khôn ngoan*** và ***năng lực***
-
-ở mức độ bền vững và ổn định, bạn sẽ có được nền tảng cho một cuộc sống luôn chủ động và thành đạt.
+Là người lấy nguyên tắc làm trọng tâm, bạn sẽ có một cái nhìn khác về mọi việc. Và vì thế, bạn sẽ hành động khác. Khi đạt được sự ***an toàn, định hướng, khôn ngoan*** và ***năng lực*** ở mức độ bền vững và ổn định, bạn sẽ có được nền tảng cho một cuộc sống luôn chủ động và thành đạt.
 
 ### 11. THIẾT LẬP VÀ VẬN DỤNG
 
@@ -1704,9 +1386,7 @@ Frankl nói rằng chúng ta ***phát hiện*** chứ không phải ***phát min
 
 Chúng ta cần lưu ý tầm quan trọng đặc biệt của tính luôn chủ động và việc tập trung vào ***Vòng tròn Ảnh hưởng*** của chúng ta. Đi tìm vài ý nghĩa trừu tượng đối với cuộc sống bên trong ***Vòng tròn Quan tâm*** chính là hành vi từ bỏ trách nhiệm luôn chủ động, phó mặc việc ***sáng tạo lần thứ nhất*** của mình cho hoàn cảnh hay người khác.
 
-Ý nghĩa cuộc sống xuất phát từ nội tâm, theo lời Frankl: “Xét cho cùng, người ta không nên hỏi ý nghĩa cuộc sống của mình là gì mà nên hiểu chính bản thân mình
-
-phải là người trả lời câu hỏi đó. Nói cách khác, mỗi người đều bị cuộc sống chất vấn, và anh ta chỉ có thể trả lời bằng cuộc sống của mình, bằng việc có trách nhiệm với nó”.
+Ý nghĩa cuộc sống xuất phát từ nội tâm, theo lời Frankl: “Xét cho cùng, người ta không nên hỏi ý nghĩa cuộc sống của mình là gì mà nên hiểu chính bản thân mình phải là người trả lời câu hỏi đó. Nói cách khác, mỗi người đều bị cuộc sống chất vấn, và anh ta chỉ có thể trả lời bằng cuộc sống của mình, bằng việc có trách nhiệm với nó”.
 
 Trách nhiệm cá nhân hay tính luôn chủ động đóng vai trò quan trọng trong ***sự sáng tạo lần thứ nhất***. Trở lại phép ẩn dụ về máy vi tính, thói quen thứ nhất cho rằng “Bạn là người lập trình”, còn theo thói quen thứ hai, “Bạn hãy viết ra chương trình”. Bạn sẽ không thực sự đầu tư vào việc “viết chương trình” nếu bạn chưa nhận thấy trách nhiệm của mình là “người lập trình”.
 
@@ -1716,9 +1396,7 @@ Bản tuyên ngôn sứ mệnh không phải là thứ bạn có thể viết đ
 
 Nhưng về cơ bản, tuyên ngôn sứ mệnh của bạn được ví như một bản “hiến pháp” thể hiện nhất quán tầm nhìn và các giá trị của bạn. Nó sẽ trở thành tiêu chuẩn để bạn đối chiếu, đánh giá mọi khía cạnh cuộc sống.
 
-Tôi thường xem đi xem lại bản tuyên ngôn của mình và chỉ mới hoàn tất nó trong thời gian gần đây. Mỗi khi ngồi một mình trên bãi biển hay trong những lúc dừng chân sau một chặng đường dài, tôi lại lấy ra cuốn sổ tay và ghi chú
-
-những điều đã làm được hay chưa làm được. Có khi phải mất vài tiếng đồng hồ mới xong việc đó, nhưng nó mang lại cho tôi cảm giác sáng tỏ, có tổ chức và có trách nhiệm, một cảm giác hân hoan và tự do.
+Tôi thường xem đi xem lại bản tuyên ngôn của mình và chỉ mới hoàn tất nó trong thời gian gần đây. Mỗi khi ngồi một mình trên bãi biển hay trong những lúc dừng chân sau một chặng đường dài, tôi lại lấy ra cuốn sổ tay và ghi chú những điều đã làm được hay chưa làm được. Có khi phải mất vài tiếng đồng hồ mới xong việc đó, nhưng nó mang lại cho tôi cảm giác sáng tỏ, có tổ chức và có trách nhiệm, một cảm giác hân hoan và tự do.
 
 Tôi nhận ra quá trình làm công việc này cũng quan trọng như kết quả của nó. Lập ra hay sửa chữa, bổ sung bản tuyên ngôn sứ mệnh sẽ làm bạn thay đổi bởi vì nó buộc bạn phải suy nghĩ về các ưu tiên của mình một cách thấu đáo, thận trọng và gắn liền hành động với niềm tin của bạn. Khi bạn làm được điều đó, người khác sẽ nhận thấy bạn không còn bị động trước bất cứ điều gì xảy đến. Bạn sẽ ý thức được sứ mệnh cần thực hiện và sẽ rất tự hào về điều đó.
 
@@ -1728,9 +1406,7 @@ Khả năng tự nhận thức giúp chúng ta đánh giá tư duy của chính 
 
 Rất nhiều công trình nghiên cứu lớn đã được tiến hành trong nhiều thập kỷ qua về tính ưu thế của não bộ. Kết quả nghiên cứu cho thấy mỗi bán cầu não có xu hướng chuyên môn hóa và có ưu thế về một số chức năng khác nhau, xử lý các loại thông tin khác nhau, giải quyết các loại vấn đề khác nhau.
 
-Về cơ bản, bán cầu não trái có ưu thế về lô-gíc/ngôn từ, còn bán cầu não phải có ưu thế về trực giác và sáng tạo. Bán cầu trái xử lý lời nói, bán cầu phải xử lý hình ảnh; bán cầu trái
-
-xử lý bộ phận và chi tiết, bán cầu phải xử lý tổng thể và các mối quan hệ giữa các chi tiết. Bán cầu trái xử lý phân tích, nghĩa là chia nhỏ thông tin; bán cầu phải xử lý tổng hợp, nghĩa là tập hợp dữ liệu lại với nhau. Bán cầu trái xử lý tư duy theo tuần tự; bán cầu phải xử lý tư duy đồng thời và kết hợp. Bán cầu trái gắn với thời gian, bán cầu phải tự do về thời gian.
+Về cơ bản, bán cầu não trái có ưu thế về lô-gíc/ngôn từ, còn bán cầu não phải có ưu thế về trực giác và sáng tạo. Bán cầu trái xử lý lời nói, bán cầu phải xử lý hình ảnh; bán cầu trái xử lý bộ phận và chi tiết, bán cầu phải xử lý tổng thể và các mối quan hệ giữa các chi tiết. Bán cầu trái xử lý phân tích, nghĩa là chia nhỏ thông tin; bán cầu phải xử lý tổng hợp, nghĩa là tập hợp dữ liệu lại với nhau. Bán cầu trái xử lý tư duy theo tuần tự; bán cầu phải xử lý tư duy đồng thời và kết hợp. Bán cầu trái gắn với thời gian, bán cầu phải tự do về thời gian.
 
 Mặc dù con người sử dụng cả hai bên não bộ, nhưng ở từng người bán cầu não bên này thường có xu hướng chiếm ưu thế hơn bên kia. Thật lý tưởng nếu chúng ta có thể khai thác và phát triển khả năng kết hợp cả hai bán cầu não cùng một lúc để có thể cảm nhận được tình huống xảy ra và chọn phương pháp thích hợp để xử lý. Thế nhưng, người ta lại có xu hướng rút vào “vùng an toàn” của bán cầu não chiếm ưu thế của mình và xử lý mọi tình huống theo bán cầu não này.
 
@@ -1738,11 +1414,7 @@ Theo lời Abraham Maslow *(*)*: “Ai hay dùng búa thường nghĩ mọi th�
 
 Chúng ta sống trong một thế giới mà bán cầu não trái chiếm phần lớn ưu thế. Lời nói, sự cân đo và logic chiếm vị trí thống lĩnh, còn khía cạnh sáng tạo, nghệ thuật, trực giác, cảm tính ở hàng thứ yếu. Nhiều người cảm thấy khó khăn hơn khi muốn khai thác tiềm năng não phải của mình.
 
-(*) Abraham Maslow (1908 - 1970): Nhà tâm lý học người Mỹ, tác giả về lý thuyết
-
-của con người, bao gồm 5 cấp độ được xếp từ thấp đến cao. Lý thuyết này được vận dụng trên nguyên tắc: một nhu cầu đã tương đối được thỏa mãn thì nó không còn là xung động mạnh để thôi thúc nữa, khi đó, con người sẽ bị chi phối
-
-bởi nhu cầu khác cao hơn.
+(*) Abraham Maslow (1908 - 1970): Nhà tâm lý học người Mỹ, tác giả về lý thuyết của con người, bao gồm 5 cấp độ được xếp từ thấp đến cao. Lý thuyết này được vận dụng trên nguyên tắc: một nhu cầu đã tương đối được thỏa mãn thì nó không còn là xung động mạnh để thôi thúc nữa, khi đó, con người sẽ bị chi phối bởi nhu cầu khác cao hơn.
 
 Phải thừa nhận rằng cách lý giải trên đây là quá đơn giản, và chắc chắn các công trình nghiên cứu trong thời gian tới sẽ cho chúng ta nhiều hiểu biết hơn về hoạt động của não. Nhưng vấn đề chính ở đây là chúng ta có khả năng thực hiện nhiều quá trình tư duy khác nhau, nhưng chỉ chưa khai thác hết tiềm năng của mình mà thôi. Khi khám phá được những khả năng khác nhau của não bộ, chúng ta có thể sử dụng trí tuệ của mình một cách có ý thức để đáp ứng các nhu cầu cụ thể hiệu quả hơn.
 
@@ -1756,9 +1428,7 @@ Nếu chúng ta sử dụng lý thuyết ưu thế của não bộ làm căn c�
 
 Đôi khi, chúng ta bị bứt ra khỏi môi trường, cấu trúc tư duy của bán cầu não trái và chuyển sang phải bởi một trải nghiệm bất ngờ. Cái chết của người thân, căn bệnh hiểm nghèo, khánh kiệt tài chính, hoặc tai ương nghịch cảnh có thể làm chúng ta bừng tỉnh, nhìn vào cuộc đời của mình, và tự hỏi bản thân những câu hỏi hóc búa: “Điều gì mới thực sự quan trọng nhất? Tại sao tôi phải làm điều tôi đang làm?”.
 
-Nhưng nếu là người luôn chủ động, bạn sẽ không cần phải trông chờ vào hoàn cảnh hay sự giúp đỡ của người
-
-khác mới có thể mở rộng các viễn cảnh cuộc sống. Bạn có thể tự làm điều này một cách có ý thức.
+Nhưng nếu là người luôn chủ động, bạn sẽ không cần phải trông chờ vào hoàn cảnh hay sự giúp đỡ của người khác mới có thể mở rộng các viễn cảnh cuộc sống. Bạn có thể tự làm điều này một cách có ý thức.
 
 Có một số phương pháp thực hiện nó. Chẳng hạn, dựa vào sức mạnh của trí tưởng tượng, bạn có thể tưởng tượng ra đám tang của chính bạn, như chúng ta đã làm ở phần đầu của chương này, hay viết ra bài điếu văn cho chính mình. Hãy viết thật lòng và thật chi tiết.
 
@@ -1772,9 +1442,7 @@ Tôi đã từng thử nghiệm những bài tập tưởng tượng tương t�
 
 Lập tức mọi thứ được đặt vào một viễn cảnh khác hẳn. Những giá trị trước đây không nhận thấy nay bỗng xuất hiện rõ nét.
 
-Tôi cũng yêu cầu từng sinh viên sống với viễn cảnh của mình trong vòng một tuần và ghi nhật ký những trải nghiệm của mình. Kết quả rất đáng khích lệ. Các em bắt
-
-đầu viết thư cho cha mẹ để bày tỏ tình cảm, rằng chúng yêu quý họ như thế nào. Những sinh viên đang bất hòa với anh chị em, hay bạn bè thì cố gắng hàn gắn lại.
+Tôi cũng yêu cầu từng sinh viên sống với viễn cảnh của mình trong vòng một tuần và ghi nhật ký những trải nghiệm của mình. Kết quả rất đáng khích lệ. Các em bắt đầu viết thư cho cha mẹ để bày tỏ tình cảm, rằng chúng yêu quý họ như thế nào. Những sinh viên đang bất hòa với anh chị em, hay bạn bè thì cố gắng hàn gắn lại.
 
 Một đề tài trung tâm, xuyên suốt mọi hoạt động của giới trẻ và được ưu tiên hàng đầu – đó là tình yêu. Với nhận thức rằng chỉ còn sống một thời gian ngắn nữa, những hành động và lời nói thiếu suy nghĩ, những lên án, đổ lỗi hay xúc phạm người khác đối với các em nay trở thành vô nghĩa. Những nguyên tắc và giá trị của cuộc sống giờ trở nên rõ ràng hơn bao giờ hết.
 
@@ -1784,9 +1452,7 @@ Có một số phương pháp sử dụng trí tưởng tượng để tiếp c�
 
 Lãnh đạo bản thân không phải là một trải nghiệm đơn lẻ, cũng không phải là sự bắt đầu và kết thúc bằng việc viết ra tuyên ngôn sứ mệnh cá nhân. Đúng hơn, đó là một quá trình liên tục nhằm duy trì tầm nhìn và những giá trị để điều chỉnh nhịp sống sao cho phù hợp với những gì bạn cho là quan trọng nhất. Và trong nỗ lực đó, sức mạnh của bán cầu não phải có thể sẽ có ích cho bạn, khi bạn muốn gắn kết tuyên ngôn sứ mệnh cá nhân của mình vào cuộc sống. Đó là một ứng dụng khác của thói quen ***bắt đầu từ mục tiêu đã được xác định***.
 
-Chúng ta hãy quay trở lại ví dụ đã đề cập trước đây. Giả sử tôi là người cha biết yêu thương con cái và tôi cho đó là
-
-một trong những giá trị cơ bản trong bản tuyên ngôn sứ mệnh của mình. Và, giả sử trong cuộc sống hàng ngày, tôi thường có những hành động thái quá.
+Chúng ta hãy quay trở lại ví dụ đã đề cập trước đây. Giả sử tôi là người cha biết yêu thương con cái và tôi cho đó là một trong những giá trị cơ bản trong bản tuyên ngôn sứ mệnh của mình. Và, giả sử trong cuộc sống hàng ngày, tôi thường có những hành động thái quá.
 
 Tôi có thể sử dụng khả năng hình dung của bán cầu não phải để viết ra một bản quyết tâm giúp bản thân trở nên phù hợp với những giá trị sâu sắc hơn của mình trong cuộc sống hàng ngày.
 
@@ -1794,9 +1460,7 @@ Một bản quyết tâm đúng gồm năm thuộc tính cơ bản: ***cá nhân
 
 Sau đó tôi có thể hình dung ra nó. Tôi có thể dành vài phút mỗi ngày để hoàn toàn thư giãn cả tâm hồn lẫn thể xác của mình, suy nghĩ về các tình huống khi con cái tôi có hành vi không đúng, mường tượng ra chúng một cách cụ thể. Tôi có thể cảm nhận mặt ghế tôi ngồi, sàn nhà dưới chân mình, chiếc áo tôi đang mặc. Tôi có thể hình dung chiếc áo con gái tôi mặc, nét mặt của nó. Các chi tiết tôi hình dung càng rõ ràng, sinh động bao nhiêu, tôi sẽ càng cảm nhận sự trải nghiệm của mình sâu sắc hơn bấy nhiêu, và càng ít có cảm giác là người đứng ngoài quan sát bấy nhiêu.
 
-Tôi có thể hình dung viễn cảnh con gái tôi có một hành động cụ thể nào đó mà thông thường, điều này làm tim tôi đập thình thịch và nổi cơn thịnh nộ. Nhưng thay vì phản ứng như thường lệ, tôi lại có được sự tự chủ như đã nêu trong bản quyết tâm trên. Tôi có thể viết thành chương trình, thành “kịch bản” phù hợp với những giá trị và tuyên
-
-ngôn sứ mệnh của mình.
+Tôi có thể hình dung viễn cảnh con gái tôi có một hành động cụ thể nào đó mà thông thường, điều này làm tim tôi đập thình thịch và nổi cơn thịnh nộ. Nhưng thay vì phản ứng như thường lệ, tôi lại có được sự tự chủ như đã nêu trong bản quyết tâm trên. Tôi có thể viết thành chương trình, thành “kịch bản” phù hợp với những giá trị và tuyên ngôn sứ mệnh của mình.
 
 Nếu tôi thực hiện như vậy ngày này qua ngày khác, hành vi của tôi sẽ thay đổi. Thay vì sống theo các “kịch bản” do cha mẹ viết ra, hoặc do xã hội hay môi trường đem lại, tôi sẽ sống theo “kịch bản” do chính tôi viết ra, xuất phát từ hệ thống các giá trị mà mình lựa chọn.
 
@@ -1824,9 +1488,7 @@ Nhưng nếu các phương pháp này trở thành một phần của Đạo đ�
 
 > Hình dung va â quyết tâm thực hiện là các hình thức của lập trình hóa. Chúng ta cần tránh không để mình rơi vào việc lập trình không phù hợp với trọng tâm, hay lập trình dựa vào các trọng tâm tiền bạc, trọng tâm bản ngã hoặc các trọng tâm không dựa trên những nguyên tắc đúng đắn.
 
-Trí tưởng tượng có thể được sử dụng để đạt được lợi ích thoáng qua. Nhưng tôi tin rằng, muốn sử dụng khả năng này ở cấp độ cao hơn, chúng ta cần phải hòa hợp nó với lương tâm để bứt ra khỏi cái tôi của mình và xây dựng
-
-một cuộc sống nhằm cống hiến cho xã hội. Cuộc sống này dựa trên mục đích duy nhất và các nguyên tắc chi phối thực tại mang tính tương thuộc.
+Trí tưởng tượng có thể được sử dụng để đạt được lợi ích thoáng qua. Nhưng tôi tin rằng, muốn sử dụng khả năng này ở cấp độ cao hơn, chúng ta cần phải hòa hợp nó với lương tâm để bứt ra khỏi cái tôi của mình và xây dựng một cuộc sống nhằm cống hiến cho xã hội. Cuộc sống này dựa trên mục đích duy nhất và các nguyên tắc chi phối thực tại mang tính tương thuộc.
 
 ### 14. NHẬN DIỆN VAI TRÒ VÀ MỤC TIÊU
 
@@ -1836,9 +1498,7 @@ Mỗi người có nhiệm vụ, vai trò khác nhau trong cuộc sống, tùy t
 
 Một trong những vấn đề cản trở quá trình đi lên của chúng ta trong cuộc sống là chúng ta không có được tầm nhìn khái quát, tổng thể. Chúng ta mất ý thức về sự cân bằng, về một hệ sinh thái tự nhiên cần thiết để sống có hiệu quả. Chúng ta có thể bị công việc cuốn đi mà không quan tâm đến sức khỏe của mình. Viện cớ tập trung cho sự nghiệp, chúng ta còn có thể bỏ rơi các mối quan hệ quý giá.
 
-Bạn có thể có được bản tuyên ngôn sứ mệnh cân bằng hơn, dễ thực hiện hơn nếu chia nhỏ nó thành các lĩnh vực, trong đó, bạn nêu cụ thể vai trò và các mục tiêu muốn đạt
-
-được trong từng lĩnh vực. Hãy nhìn vào vai trò nghề nghiệp của bạn - một nhân viên bán hàng, một trưởng phòng hay một chuyên gia phát triển chiến lược kinh doanh. Những giá trị nào sẽ là phương hướng chủ đạo của bạn? Tiếp theo, hãy suy nghĩ về vai trò trong cuộc sống riêng của bạn – người chồng/vợ, người cha/mẹ, người láng giềng hay bạn bè. Bạn có vai trò thế nào trong các mối quan hệ đó? Đâu là điều quan trọng đối với bạn? Cuối cùng, hãy nghĩ về vai trò của bạn trong cộng đồng – các lĩnh vực chính trị, dịch vụ công cộng, các tổ chức tình nguyện…
+Bạn có thể có được bản tuyên ngôn sứ mệnh cân bằng hơn, dễ thực hiện hơn nếu chia nhỏ nó thành các lĩnh vực, trong đó, bạn nêu cụ thể vai trò và các mục tiêu muốn đạt được trong từng lĩnh vực. Hãy nhìn vào vai trò nghề nghiệp của bạn - một nhân viên bán hàng, một trưởng phòng hay một chuyên gia phát triển chiến lược kinh doanh. Những giá trị nào sẽ là phương hướng chủ đạo của bạn? Tiếp theo, hãy suy nghĩ về vai trò trong cuộc sống riêng của bạn – người chồng/vợ, người cha/mẹ, người láng giềng hay bạn bè. Bạn có vai trò thế nào trong các mối quan hệ đó? Đâu là điều quan trọng đối với bạn? Cuối cùng, hãy nghĩ về vai trò của bạn trong cộng đồng – các lĩnh vực chính trị, dịch vụ công cộng, các tổ chức tình nguyện…
 
 Một nhà quản lý đã sử dụng ý tưởng về việc xác định vai trò và mục tiêu để xây dựng bản tuyên ngôn sứ mệnh như sau:
 
@@ -1870,9 +1530,7 @@ Một nhà quản lý đã sử dụng ý tưởng về việc xác định vai 
 
 Viết bản tuyên ngôn sứ mệnh của mình thông qua các vai trò quan trọng trong cuộc sống sẽ đem đến cho bạn sự cân bằng và hài hòa. Nó giúp bạn nắm giữ từng vai trò một cách rõ ràng. Bạn còn có thể thường xuyên kiểm điểm lại các vai trò của mình để bảo đảm rằng không bị thu hút quá mức vào một vai trò nào mà quên đi những vai trò quan trọng khác.
 
-Sau khi nhận diện các vai trò khác nhau trong cuộc sống, bạn có thể nghĩ về các mục tiêu dài hạn mà bạn muốn hoàn thành cho từng vai trò của mình. Lúc này, chúng ta lại cần đến bán cầu não phải để có được trí tưởng tượng, sự sáng tạo, nhận thức và nguồn cảm hứng. Nếu những mục tiêu này mở rộng tuyên ngôn sứ mệnh cá nhân dựa trên các nguyên tắc đúng đắn, chúng sẽ rất khác với các mục tiêu mà nhiều người thường đặt ra. Chúng sẽ phù hợp với các mô thức, các quy luật tự nhiên, cho bạn sức mạnh lớn hơn
-
-để thực hiện chúng. Đó không phải là những mục tiêu của người khác mà chính là của bạn. Chúng phản ánh những giá trị sâu sắc nhất, trí tuệ riêng và nhận thức về sứ mệnh của bạn. Chúng xuất phát từ các vai trò trong cuộc sống mà bạn đã lựa chọn.
+Sau khi nhận diện các vai trò khác nhau trong cuộc sống, bạn có thể nghĩ về các mục tiêu dài hạn mà bạn muốn hoàn thành cho từng vai trò của mình. Lúc này, chúng ta lại cần đến bán cầu não phải để có được trí tưởng tượng, sự sáng tạo, nhận thức và nguồn cảm hứng. Nếu những mục tiêu này mở rộng tuyên ngôn sứ mệnh cá nhân dựa trên các nguyên tắc đúng đắn, chúng sẽ rất khác với các mục tiêu mà nhiều người thường đặt ra. Chúng sẽ phù hợp với các mô thức, các quy luật tự nhiên, cho bạn sức mạnh lớn hơn để thực hiện chúng. Đó không phải là những mục tiêu của người khác mà chính là của bạn. Chúng phản ánh những giá trị sâu sắc nhất, trí tuệ riêng và nhận thức về sứ mệnh của bạn. Chúng xuất phát từ các vai trò trong cuộc sống mà bạn đã lựa chọn.
 
 Một mục tiêu hữu hiệu chủ yếu tập trung vào kết quả hơn là hoạt động. Nó sẽ chỉ cho bạn đâu là đích đến, và trong quá trình đó, giúp bạn xác định mình đang đứng ở đâu. Nó cho bạn thông tin quan trọng về cách đi đến đích cũng như thời gian bao lâu. Nó thống nhất những nỗ lực và nguồn lực của bạn, đem lại ý nghĩa và mục đích cho hành động của bạn. Và cuối cùng, nó có thể biến thành thói quen hàng ngày để bạn trở thành người luôn chủ động, biết chịu trách nhiệm về cuộc đời mình, biết nỗ lực để hoàn thành tuyên ngôn sứ mệnh cá nhân của mình.
 
@@ -1900,9 +1558,7 @@ Tuyên ngôn sứ mệnh sẽ trở thành khuôn khổ cho tư duy, cho việc 
 
 Bạn nên treo bản tuyên ngôn sứ mệnh gia đình lên tường, trong phòng chung của gia đình để mọi người có thể nhìn thấy và tự giám sát mình hàng ngày.
 
-Khi mọi thành viên đọc những lời nói về tình yêu thương, về sự độc lập có trách nhiệm, hợp tác, giúp đỡ, đáp ứng nhu cầu, phát triển tài năng, quan tâm và phụng sự người khác, thì họ sẽ tìm thấy một số chuẩn mực để hành động một cách có ý nghĩa nhất. Khi đặt ra kế hoạch và mục tiêu hoạt động của gia đình, ý nghĩ đầu tiên của chúng ta thường là: “Dưới ánh sáng của các nguyên tắc này, chúng tôi sẽ phấn đấu cho những mục đích gì? Chương trình
-
-hành động của chúng tôi ra sao để thực hiện mục tiêu và thể hiện các giá trị này?”.
+Khi mọi thành viên đọc những lời nói về tình yêu thương, về sự độc lập có trách nhiệm, hợp tác, giúp đỡ, đáp ứng nhu cầu, phát triển tài năng, quan tâm và phụng sự người khác, thì họ sẽ tìm thấy một số chuẩn mực để hành động một cách có ý nghĩa nhất. Khi đặt ra kế hoạch và mục tiêu hoạt động của gia đình, ý nghĩ đầu tiên của chúng ta thường là: “Dưới ánh sáng của các nguyên tắc này, chúng tôi sẽ phấn đấu cho những mục đích gì? Chương trình hành động của chúng tôi ra sao để thực hiện mục tiêu và thể hiện các giá trị này?”.
 
 Chúng ta sẽ thường xuyên nhìn lại bản tuyên ngôn và xác định lại mục tiêu cùng những việc cần làm ít nhất hai lần trong năm, để phản ánh thực trạng, cải thiện tình hình và củng cố nó. Điều đó sẽ làm đổi mới chúng ta, giúp ta cam kết lại điều đã hứa và vững tin vào mục tiêu đang phấn đấu.
 
@@ -1914,9 +1570,7 @@ Mỗi lần đến công ty IBM để quan sát quy trình huấn luyện, tôi 
 
 Ba điều này đại diện cho ***Niềm tin IBM***. Mọi thứ khác có thể thay đổi, nhưng ba nhân tố này thì không. Giống như sự thẩm thấu, hệ thống niềm tin này lan tỏa vào mọi ngóc ngách trong tổ chức của họ, tạo nên nền tảng vững chắc cho các giá trị chung cũng như sự an toàn cho mọi nhân viên.
 
-Lần nọ, tôi tham gia huấn luyện một nhóm khoảng 20
-
-người cho công ty IBM tại New York. Có một người trong nhóm bị bệnh. Anh ấy gọi điện báo cho vợ mình ở California. Cô ấy rất lo ngại vì bệnh của anh ấy cần được điều trị đặc biệt. Những người phụ trách lớp học của IBM dự tính đưa anh ấy đến một bệnh viện tốt có các bác sĩ chuyên khoa giỏi. Nhưng qua điện thoại, họ thấy vợ anh ấy không yên tâm: cô ấy thực sự muốn đưa chồng mình về nhà để bác sĩ riêng chữa trị.
+Lần nọ, tôi tham gia huấn luyện một nhóm khoảng 20 người cho công ty IBM tại New York. Có một người trong nhóm bị bệnh. Anh ấy gọi điện báo cho vợ mình ở California. Cô ấy rất lo ngại vì bệnh của anh ấy cần được điều trị đặc biệt. Những người phụ trách lớp học của IBM dự tính đưa anh ấy đến một bệnh viện tốt có các bác sĩ chuyên khoa giỏi. Nhưng qua điện thoại, họ thấy vợ anh ấy không yên tâm: cô ấy thực sự muốn đưa chồng mình về nhà để bác sĩ riêng chữa trị.
 
 Thế là họ quyết định đưa anh ấy về nhà. Vì sợ tốn nhiều thời gian nếu chờ chuyến bay theo lịch, họ quyết định dùng máy bay trực thăng chở anh ấy đến sân bay và thuê hẳn một chiếc máy bay chỉ để đưa anh ấy về California.
 
@@ -1924,9 +1578,7 @@ Tôi không rõ toàn bộ chi phí cho sự việc trên là bao nhiêu; có l�
 
 Lần khác, tôi phụ trách một lớp huấn luyện cho 175 nhà quản trị của các trung tâm thương mại tại một khách sạn cao cấp. Tôi thực sự bất ngờ với chất lượng phục vụ của khách sạn này. Chất lượng của họ không nằm ở vẻ hào nhoáng thường thấy, mà từ bên trong, ở mọi cấp bậc, không cần đến bất kỳ hình thức kiểm tra, giám sát nào.
 
-Tôi nhận phòng hơi muộn. Tôi hỏi nhân viên tiếp tân rằng nhà hàng còn mở cửa không và họ có thể phục vụ thức ăn tại phòng không. Anh ấy trả lời: “Không, thưa ông Covey, nhưng nếu ông muốn, tôi sẽ đi lấy bánh mì sandwich và rau trộn hay bất cứ món gì ông cần mà trong
-
-bếp chúng tôi còn”. Thái độ của anh ấy thể hiện sự quan tâm thật sự đến việc ăn ở và sự thoải mái của tôi.
+Tôi nhận phòng hơi muộn. Tôi hỏi nhân viên tiếp tân rằng nhà hàng còn mở cửa không và họ có thể phục vụ thức ăn tại phòng không. Anh ấy trả lời: “Không, thưa ông Covey, nhưng nếu ông muốn, tôi sẽ đi lấy bánh mì sandwich và rau trộn hay bất cứ món gì ông cần mà trong bếp chúng tôi còn”. Thái độ của anh ấy thể hiện sự quan tâm thật sự đến việc ăn ở và sự thoải mái của tôi.
 
 “Ông có muốn đi xem phòng họp ngay bây giờ không?”, anh ấy tiếp tục hỏi, “Ông có đủ mọi thứ ông cần chưa? Ông có cần tôi giúp gì nữa không? Tôi luôn có mặt và sẵn sàng phục vụ ông!”.
 
@@ -1940,9 +1592,7 @@ Anh ấy không nói “Xin lỗi, tôi không thể giúp ông được vì đa
 
 Một lát sau, tôi đứng trong một góc tiền sảnh ngắm nhìn một vài tác phẩm nghệ thuật. Một nhân viên khách sạn bước đến và nói: “Thưa ông Covey, ông có muốn xem cuốn sách giới thiệu các tác phẩm nghệ thuật trưng bày trong khách sạn này không?”. Sao mà đoán trúng ý tôi thế. Đúng là “tất cả vì khách hàng”.
 
-Sau đó, tôi quan sát thấy một nhân viên đứng trên một chiếc thang đang lau cửa sổ phòng tiền sảnh. Từ trên cao,
-
-anh ấy trông thấy một người phụ nữ đang bước đi rất khó khăn ngoài sân với cây gậy trong tay. Bà ấy chưa đến nỗi té ngã và xung quanh còn có vài người khác. Nhưng anh ấy vẫn leo xuống, chạy ra sân và giúp bà ấy đi vào tiền sảnh rồi mới trở lại làm nốt công việc của mình.
+Sau đó, tôi quan sát thấy một nhân viên đứng trên một chiếc thang đang lau cửa sổ phòng tiền sảnh. Từ trên cao, anh ấy trông thấy một người phụ nữ đang bước đi rất khó khăn ngoài sân với cây gậy trong tay. Bà ấy chưa đến nỗi té ngã và xung quanh còn có vài người khác. Nhưng anh ấy vẫn leo xuống, chạy ra sân và giúp bà ấy đi vào tiền sảnh rồi mới trở lại làm nốt công việc của mình.
 
 Tôi muốn tìm hiểu bằng cách nào mà khách sạn này có thể xây dựng thành công nét văn hóa trong đó các nhân viên nhận thức sâu sắc về giá trị phục vụ khách hàng như vậy. Tôi đã phỏng vấn các nhân viên phục vụ phòng, hầu bàn, vận chuyển hành lý và phát hiện ra rằng thái độ phục vụ này đã được thấm nhuần vào khối óc, con tim và trở thành một thói quen của mọi nhân viên làm việc tại đây.
 
@@ -1994,9 +1644,7 @@ Nhưng điều gây ấn tượng nhất đối với tôi là nhìn thấy mộ
 
 Người ta sẽ nói thế nào về văn hóa của một tổ chức khi một nhân viên tự nhận lỗi của mình, cái lỗi chỉ mình anh ấy biết, với cấp trên để khách hàng, tức người thuê phòng, được chăm sóc tốt hơn?
 
-Như đã nói, tôi biết nhiều công ty có bản tuyên ngôn sứ mệnh rất ấn tượng, nhưng có một sự khác biệt thực sự giữa tính hiệu quả của một bản tuyên ngôn do mọi người
-
-trong tổ chức cùng tham gia viết và bản tuyên bố chỉ do vài lãnh đạo chóp bu viết.
+Như đã nói, tôi biết nhiều công ty có bản tuyên ngôn sứ mệnh rất ấn tượng, nhưng có một sự khác biệt thực sự giữa tính hiệu quả của một bản tuyên ngôn do mọi người trong tổ chức cùng tham gia viết và bản tuyên bố chỉ do vài lãnh đạo chóp bu viết.
 
 Một trong những vấn đề cơ bản trong các tổ chức, kể cả trong gia đình, là người ta không bận tâm đối với những quyết định do người khác đưa ra. Đơn giản là họ không tin những quyết định đó.
 
@@ -2008,9 +1656,7 @@ Không tham gia, sẽ không có cam kết. Hãy đánh dấu và gạch dưới
 
 Còn đối với giai đoạn ban đầu, khi một người mới vào tổ chức, hay khi đứa con trong gia đình còn nhỏ, bạn có thể vạch ra cho họ thấy mục tiêu, và họ sẽ dễ dàng chấp nhận, đặc biệt nếu có mối quan hệ, định hướng và huấn luyện tốt.
 
-Nhưng khi người ta trưởng thành hơn và cuộc sống có ý nghĩa riêng tư nhiều hơn, họ sẽ muốn được thật sự tham gia. Nếu không được tham gia, họ sẽ không chấp nhận mục tiêu do người khác áp đặt. Khi đó, bạn sẽ gặp vấn đề
-
-lớn về động cơ mà bạn không thể giải quyết ở trình độ tư duy như khi xây dựng mục tiêu.
+Nhưng khi người ta trưởng thành hơn và cuộc sống có ý nghĩa riêng tư nhiều hơn, họ sẽ muốn được thật sự tham gia. Nếu không được tham gia, họ sẽ không chấp nhận mục tiêu do người khác áp đặt. Khi đó, bạn sẽ gặp vấn đề lớn về động cơ mà bạn không thể giải quyết ở trình độ tư duy như khi xây dựng mục tiêu.
 
 Đó là lý do vì sao việc xây dựng bản tuyên ngôn sứ mệnh của tổ chức đòi hỏi phải có thời gian, sự kiên trì, kỹ năng, sự đồng cảm và sự tham gia của nhiều người. Một lần nữa, đây không phải là việc có thể hoàn thành ngay. Nó đòi hỏi thời gian, các nguyên tắc đúng đắn, sự chân thành, dũng cảm và trung thực để liên kết các hệ thống, cấu trúc, phong cách quản lý với tầm nhìn và các giá trị được mọi người trong tổ chức chia sẻ. Tuy nhiên, do dựa trên các nguyên tắc đúng đắn, việc xây dựng bản tuyên ngôn này sẽ thành công.
 
@@ -2114,9 +1760,7 @@ Một trong những tiểu luận được tôi ưa thích nhất là “Mẫu s
 
 E. M. Gray nhận xét: “Người thành công có thói quen làm những điều người thất bại không thích làm. Có thể họ cũng không thích, nhưng sự không thích đó phải phục tùng sức mạnh mục đích của họ”.
 
-Sự phục tùng đó đòi hỏi phải có một mục đích, một sứ mệnh, một thói quen như Thói quen thứ hai. Một lời khẳng định “có” mạnh mẽ từ bên trong sẽ tạo ra sức mạnh để nói “không” đối với những thứ khác. Nó cũng đòi hỏi phải có ý chí độc lập, khả năng để làm một điều gì đó khi bạn không muốn làm; khả năng này phụ thuộc vào các giá trị của bạn, hơn là bị tác động từ bên ngoài vào một thời
-
-điểm nào đó. Đó mới chính là sức mạnh để hành động bằng tính trung thực đối với sự sáng tạo có tính chủ động lần thứ nhất của bạn.
+Sự phục tùng đó đòi hỏi phải có một mục đích, một sứ mệnh, một thói quen như Thói quen thứ hai. Một lời khẳng định “có” mạnh mẽ từ bên trong sẽ tạo ra sức mạnh để nói “không” đối với những thứ khác. Nó cũng đòi hỏi phải có ý chí độc lập, khả năng để làm một điều gì đó khi bạn không muốn làm; khả năng này phụ thuộc vào các giá trị của bạn, hơn là bị tác động từ bên ngoài vào một thời điểm nào đó. Đó mới chính là sức mạnh để hành động bằng tính trung thực đối với sự sáng tạo có tính chủ động lần thứ nhất của bạn.
 
 ### 2. BỐN THẾ HỆ QUẢN TRỊ THỜI GIAN
 
@@ -2128,9 +1772,7 @@ Trong lĩnh vực quản trị thời gian, mỗi thế hệ lý thuyết đư�
 
 Đặc trưng của thế hệ thứ hai là các loại lịch công tác và sổ ghi chép các cuộc hẹn, thể hiện sự cố gắng để nhìn xa hơn, để lập kế hoạch cho các sự kiện và hoạt động trong tương lai.
 
-Thế hệ thứ ba phản ánh lĩnh vực quản trị thời gian như hiện nay. Nó đưa thêm vào các thế hệ trước tầm quan trọng của việc xác định các thứ tự ưu tiên, làm sáng tỏ các giá trị, và so sánh giá trị tương đối của mọi hoạt động dựa trên mối quan hệ giữa chúng đối với các giá trị đó. Ngoài
-
-ra, nó còn tập trung vào việc xác định các mục tiêu cụ thể ngắn, trung và dài hạn để sử dụng và phân bố hài hòa thời gian với sức lực sao cho phù hợp với các giá trị đặt ra. Nó cũng bao gồm cả khái niệm lập kế hoạch hàng ngày, lập kế hoạch chi tiết để hoàn thành các mục tiêu, các hoạt động được xác định là có giá trị nhất.
+Thế hệ thứ ba phản ánh lĩnh vực quản trị thời gian như hiện nay. Nó đưa thêm vào các thế hệ trước tầm quan trọng của việc xác định các thứ tự ưu tiên, làm sáng tỏ các giá trị, và so sánh giá trị tương đối của mọi hoạt động dựa trên mối quan hệ giữa chúng đối với các giá trị đó. Ngoài ra, nó còn tập trung vào việc xác định các mục tiêu cụ thể ngắn, trung và dài hạn để sử dụng và phân bố hài hòa thời gian với sức lực sao cho phù hợp với các giá trị đặt ra. Nó cũng bao gồm cả khái niệm lập kế hoạch hàng ngày, lập kế hoạch chi tiết để hoàn thành các mục tiêu, các hoạt động được xác định là có giá trị nhất.
 
 Trong khi thế hệ thứ ba về quản trị thời gian có những đóng góp quan trọng thì người ta lại bắt đầu nhận ra rằng việc lập kế hoạch “một cách có hiệu quả” và việc kiểm soát thời gian lại thường phản tác dụng. Sự tập trung vào tính hiệu quả đã tạo ra những kỳ vọng mâu thuẫn với các cơ hội nhằm phát triển các mối quan hệ đa dạng, đáp ứng nhu cầu con người và tận hưởng những giây phút thoải mái.
 
@@ -2266,9 +1908,7 @@ Chúng tôi tiến hành phân tích thời gian họ dành cho các hoạt đ�
 
 Họ dành rất ít thời gian cho những người quản lý cửa hàng, và nếu có thì thời gian đó dành cho những việc phung phí sức lực của họ. Lý do duy nhất họ đến thăm khách hàng là để củng cố hợp đồng, thu tiền, thảo luận về quảng cáo, chỉnh đốn các vi phạm quy chế trung tâm…
 
-Trong khi đó, những khách hàng của họ - các chủ cửa hàng - đang phải vật lộn từng ngày để tồn tại. Họ gặp phải các vấn đề về nhân công, chi phí hoạt động, tiền lưu kho, và
-
-hàng loạt vấn đề khác. Phần lớn họ chưa được đào tạo về quản trị. Một số người rất khá về buôn bán, nhưng vẫn cần được giúp đỡ thêm. Những người thuê mặt bằng thậm chí còn không muốn gặp các chủ sở hữu trung tâm thương mại: những người này chỉ làm vấn đề phải giải quyết trầm trọng thêm.
+Trong khi đó, những khách hàng của họ - các chủ cửa hàng - đang phải vật lộn từng ngày để tồn tại. Họ gặp phải các vấn đề về nhân công, chi phí hoạt động, tiền lưu kho, và hàng loạt vấn đề khác. Phần lớn họ chưa được đào tạo về quản trị. Một số người rất khá về buôn bán, nhưng vẫn cần được giúp đỡ thêm. Những người thuê mặt bằng thậm chí còn không muốn gặp các chủ sở hữu trung tâm thương mại: những người này chỉ làm vấn đề phải giải quyết trầm trọng thêm.
 
 Do vậy, những người quản lý trung tâm thương mại quyết định phải chủ động. Họ xác định mục đích, giá trị và những ưu tiên của mình. Để phù hợp với các ưu tiên đó, họ quyết định dành 1/3 thời gian cho việc xây dựng các mối quan hệ với những người thuê mặt bằng.
 
@@ -2276,9 +1916,7 @@ Trong thời gian khoảng một năm rưỡi làm việc với tổ chức đó
 
 Kết quả đạt được thật bất ngờ. Bằng việc tập trung vào các mối quan hệ và kết quả thay vì vào thời gian và phương pháp, số lượng người thuê mặt bằng ngày một tăng. Các nhà quản lý càng thấy hài lòng hơn với tiềm năng và doanh thu mang lại từ các hợp đồng. Họ không còn đóng vai trò những người giám sát mà trở thành những người biết giúp đỡ và đầy tinh thần trách nhiệm.
 
-Bất kể là sinh viên đại học, công nhân, thợ xây, nhà thiết kế thời trang hay giám đốc công ty, chỉ cần bạn biết khai thác tính luôn chủ động để thực hiện các công việc nằm ở Phần tư thứ hai thì bạn cũng sẽ thu được những kết quả tốt đẹp tương tự. Khủng hoảng và các vấn đề khác sẽ
-
-được thu nhỏ lại đến mức có thể xử lý được vì bạn luôn tiên liệu được tình hình, tập trung vào gốc rễ của vấn đề, dự phòng các kế hoạch nhằm kiểm soát tình hình. Trong thuật ngữ chuyên môn của quản trị thời gian, điều này được gọi là ***Nguyên lý Pareto*** (thường gọi là nguyên lý 80/20) – 80% kết quả thu được từ 20% hoạt động quan trọng.
+Bất kể là sinh viên đại học, công nhân, thợ xây, nhà thiết kế thời trang hay giám đốc công ty, chỉ cần bạn biết khai thác tính luôn chủ động để thực hiện các công việc nằm ở Phần tư thứ hai thì bạn cũng sẽ thu được những kết quả tốt đẹp tương tự. Khủng hoảng và các vấn đề khác sẽ được thu nhỏ lại đến mức có thể xử lý được vì bạn luôn tiên liệu được tình hình, tập trung vào gốc rễ của vấn đề, dự phòng các kế hoạch nhằm kiểm soát tình hình. Trong thuật ngữ chuyên môn của quản trị thời gian, điều này được gọi là ***Nguyên lý Pareto*** (thường gọi là nguyên lý 80/20) – 80% kết quả thu được từ 20% hoạt động quan trọng.
 
 ### 4. ĐIỀU KIỆN CẦN CÓ ĐỂ NÓI “KHÔNG”
 
@@ -2288,9 +1926,7 @@ Bạn phải là người luôn chủ động thì mới có thể tiến hành 
 
 Một thời gian trước đây, vợ tôi được mời làm chủ tịch một ủy ban phục vụ cộng đồng. Cô ấy đang dồn hết sức lực cho một số việc thực sự quan trọng khác nên không muốn nhận thêm trách nhiệm này. Nhưng vì cảm thấy bị sức ép nên cuối cùng cô ấy phải nhận.
 
-Sau đó, cô ấy mời một người bạn thân cùng tham gia vào ủy ban này. Cô bạn lắng nghe một lúc lâu rồi nói: “Sandra ạ, có vẻ như đây là một công việc tuyệt vời, một việc rất đáng làm. Mình cảm thấy vinh dự khi được bạn tín nhiệm. Nhưng vì nhiều lý do, mình không thể tham gia
-
-được. Nhưng mình muốn bạn biết là mình rất cảm ơn về lời mời của bạn”.
+Sau đó, cô ấy mời một người bạn thân cùng tham gia vào ủy ban này. Cô bạn lắng nghe một lúc lâu rồi nói: “Sandra ạ, có vẻ như đây là một công việc tuyệt vời, một việc rất đáng làm. Mình cảm thấy vinh dự khi được bạn tín nhiệm. Nhưng vì nhiều lý do, mình không thể tham gia được. Nhưng mình muốn bạn biết là mình rất cảm ơn về lời mời của bạn”.
 
 Sandra đã sẵn sàng cho mọi thứ trừ một lời từ chối khéo. Cô ấy nói với tôi: “Ước gì em cũng đã nói như vậy”.
 
@@ -2302,9 +1938,7 @@ Khi còn là giám đốc Quan hệ công chúng tại một trường đại h�
 
 Anh nói: “Stephen, tôi sẽ làm bất cứ điều gì ông muốn nhưng mong ông thông cảm cho hoàn cảnh của tôi”.
 
-Thế rồi anh ấy dẫn tôi đến chiếc bảng gắn trên tường, trên đó, anh ấy đã liệt kê hơn hai chục dự án đang thực hiện cùng với các chỉ tiêu và thời hạn hoàn thành. Anh ấy rất có kỷ luật, và đó chính là lý do vì sao tôi đến gặp anh ấy
-
-trước tiên. Có một câu ngạn ngữ nói rằng: “Nếu bạn muốn được việc, hãy giao nó cho người nhiều việc”.
+Thế rồi anh ấy dẫn tôi đến chiếc bảng gắn trên tường, trên đó, anh ấy đã liệt kê hơn hai chục dự án đang thực hiện cùng với các chỉ tiêu và thời hạn hoàn thành. Anh ấy rất có kỷ luật, và đó chính là lý do vì sao tôi đến gặp anh ấy trước tiên. Có một câu ngạn ngữ nói rằng: “Nếu bạn muốn được việc, hãy giao nó cho người nhiều việc”.
 
 Sau đó, anh nói: “Stephen, để hoàn thành việc ông muốn, tôi phải mất một vài ngày. Vậy trong số các dự án này, ông muốn cho hoãn lại hay hủy bỏ cái nào để tôi có thể đáp ứng được yêu cầu của ông?”.
 
@@ -2322,9 +1956,7 @@ Tiêu điểm của Phần tư thứ hai là một mô thức lấy nguyên tắ
 
 Có một câu châm ngôn của ngành kiến trúc: ***hình dáng theo sau chức năng.*** Tương tự như vậy, quản lý theo sau lãnh đạo. Cách bạn sử dụng thời gian là kết quả của cách bạn nhìn nhận thời gian và các ưu tiên của mình. Nếu các ưu tiên đó xuất phát từ trọng tâm hướng về nguyên tắc và sứ mệnh cá nhân của bạn, nếu chúng đã ăn sâu vào con tim và khối óc bạn, thì bạn sẽ coi Phần tư thứ hai là nơi tất yếu để đầu tư toàn bộ thời gian.
 
-Gần như không thể nói “không” với các hoạt động trong Phần tư thứ ba hay thứ tư, nếu như bạn không có được một quyết tâm “có” lớn hơn đang bừng cháy trong
-
-lòng. Chỉ khi nào có được sự tự nhận thức để rà soát lại chương trình của bản thân, cũng như trí tưởng tượng và nhận thức để tạo ra một chương trình mới, đơn nhất, lấy nguyên tắc làm trọng tâm, thì khi đó, bạn mới có được sức mạnh của ý chí độc lập để nói “không” với những điều không quan trọng.
+Gần như không thể nói “không” với các hoạt động trong Phần tư thứ ba hay thứ tư, nếu như bạn không có được một quyết tâm “có” lớn hơn đang bừng cháy trong lòng. Chỉ khi nào có được sự tự nhận thức để rà soát lại chương trình của bản thân, cũng như trí tưởng tượng và nhận thức để tạo ra một chương trình mới, đơn nhất, lấy nguyên tắc làm trọng tâm, thì khi đó, bạn mới có được sức mạnh của ý chí độc lập để nói “không” với những điều không quan trọng.
 
 ### 5. TỔ CHỨC VÀ THỰC HIỆN PHẦN TƯ THỨ HAI
 
@@ -2334,9 +1966,7 @@ Thế hệ quản trị thời gian thứ nhất thậm chí không nhận ra kh
 
 Rất nhiều người quản lý bản thân thông qua mô thức của thế hệ thứ nhất này. Đó là một quá trình ít bị phản kháng nhất. Không trăn trở, không căng thẳng, họ lấy việc “nước chảy, bèo trôi” làm một điều dễ chịu. Những kỷ luật và kế hoạch do bên ngoài áp đặt làm cho họ có cảm giác họ không hề chịu trách nhiệm gì về các kết quả.
 
-Nhưng theo định nghĩa ở đây, những nhà quản lý ở thế hệ thứ nhất không phải là những người thành đạt. Họ làm ra rất ít sản phẩm, tác phong làm việc của họ không đóng
-
-góp gì đáng kể cho việc xây dựng năng lực sản xuất. Bị sức ép từ các nguồn lực bên ngoài, họ thường bị coi là không đáng tin cậy và thiếu trách nhiệm. Họ cũng ít ý thức về tính tự chủ và tự trọng.
+Nhưng theo định nghĩa ở đây, những nhà quản lý ở thế hệ thứ nhất không phải là những người thành đạt. Họ làm ra rất ít sản phẩm, tác phong làm việc của họ không đóng góp gì đáng kể cho việc xây dựng năng lực sản xuất. Bị sức ép từ các nguồn lực bên ngoài, họ thường bị coi là không đáng tin cậy và thiếu trách nhiệm. Họ cũng ít ý thức về tính tự chủ và tự trọng.
 
 Các nhà quản lý thuộc thế hệ thứ hai có vai trò kiểm soát nhiều hơn một chút. Họ lập kế hoạch, lịch trình từ trước và nhìn chung được xem là có tinh thần trách nhiệm hơn vì luôn “có mặt” khi cần.
 
@@ -2344,9 +1974,7 @@ Tuy nhiên, các hoạt động do thế hệ này lập kế hoạch vẫn khô
 
 Các nhà quản lý thuộc thế hệ thứ ba có một bước tiến quan trọng. Họ làm rõ các giá trị và đặt ra các mục tiêu, lập kế hoạch hàng ngày cũng như chọn thứ tự ưu tiên cho các hoạt động của mình.
 
-Như đã nói, cách quản trị thời gian thuộc thế hệ thứ ba chiếm ưu thế hơn cả so với hầu hết các lý thuyết về quản trị thời gian còn lại. Tuy nhiên, thế hệ quản trị thời gian thứ ba cũng có một số hạn chế lớn. Thứ nhất, nó hạn chế tầm nhìn. Việc lập kế hoạch hàng ngày thường bỏ sót nhiều thứ quan trọng chỉ có thể nhìn thấy trong bối cảnh lớn hơn. Ngay cả cụm từ “lập kế hoạch hàng ngày” cũng nói lên sự tập trung vào những việc khẩn cấp, phải “làm ngay”. Khi thế hệ thứ ba đặt ra vấn đề ***ưu tiên*** thì cũng có nghĩa là nó chỉ giúp ***xác lập thứ tư*** å chứ không phải là ***tầm quan trọng*** của các hoạt động. Nghĩa là nó không đặt hoạt động trong khuôn khổ các nguyên tắc, sứ mệnh cá nhân, vai trò và mục tiêu. Quan điểm lập kế hoạch hàng ngày dựa trên giá trị của thế hệ quản trị thứ ba về cơ bản ưu tiên cho các vấn đề và
-
-khủng hoảng hiện tại thuộc Phần tư thứ nhất và thứ ba.
+Như đã nói, cách quản trị thời gian thuộc thế hệ thứ ba chiếm ưu thế hơn cả so với hầu hết các lý thuyết về quản trị thời gian còn lại. Tuy nhiên, thế hệ quản trị thời gian thứ ba cũng có một số hạn chế lớn. Thứ nhất, nó hạn chế tầm nhìn. Việc lập kế hoạch hàng ngày thường bỏ sót nhiều thứ quan trọng chỉ có thể nhìn thấy trong bối cảnh lớn hơn. Ngay cả cụm từ “lập kế hoạch hàng ngày” cũng nói lên sự tập trung vào những việc khẩn cấp, phải “làm ngay”. Khi thế hệ thứ ba đặt ra vấn đề ***ưu tiên*** thì cũng có nghĩa là nó chỉ giúp ***xác lập thứ tư*** å chứ không phải là ***tầm quan trọng*** của các hoạt động. Nghĩa là nó không đặt hoạt động trong khuôn khổ các nguyên tắc, sứ mệnh cá nhân, vai trò và mục tiêu. Quan điểm lập kế hoạch hàng ngày dựa trên giá trị của thế hệ quản trị thứ ba về cơ bản ưu tiên cho các vấn đề và khủng hoảng hiện tại thuộc Phần tư thứ nhất và thứ ba.
 
 Hơn nữa, thế hệ quản lý thứ ba không nói gì về việc quản lý các vai trò một cách cân đối. Nó thiếu tính hiện thực, tạo ra xu hướng quá tải trong công việc hàng ngày, gây tâm lý khó chịu và đôi lúc buông xuôi, muốn vứt bỏ luôn cả kế hoạch để trốn về Phần tư thứ tư. Và một khi tiêu điểm của thế hệ này là tính hiệu quả thì nó có xu hướng gây căng thẳng cho các mối quan hệ hơn là xây dựng chúng.
 
@@ -2354,9 +1982,7 @@ Trong khi cả ba thế hệ lý thuyết quản trị thời gian đều công 
 
 Ngay cả thế hệ quản trị thứ ba, với một đội ngũ hùng hậu các nhà lập kế hoạch và vô số tài liệu tham khảo, cũng chủ yếu tập trung vào việc chọn ưu tiên và lập kế hoạch cho các hoạt động thuộc các Phần tư thứ nhất và thứ ba mà thôi. Mặc dù nhiều chuyên gia đào tạo và tư vấn thừa nhận giá trị của các hoạt động thuộc Phần tư thứ hai, những công cụ lập kế hoạch hiện có của thế hệ thứ ba cũng không giúp được gì cho việc tổ chức và thực hiện những hoạt động này.
 
-Do mỗi thế hệ quản trị thời gian đều được xây dựng trên cơ sở các thế hệ trước đó, nên các điểm mạnh và một số công cụ của ba thế hệ trước có thể được dùng làm
-
-nguyên liệu cơ bản cho thế hệ thứ tư. Nhưng cần phải có thêm một khía cạnh, mô thức và cách thực hiện mới để giúp chúng ta đi vào Phần tư thứ hai – lấy nguyên tắc làm trọng tâm và quản lý bản thân – nhằm thực hiện những công việc quan trọng nhất.
+Do mỗi thế hệ quản trị thời gian đều được xây dựng trên cơ sở các thế hệ trước đó, nên các điểm mạnh và một số công cụ của ba thế hệ trước có thể được dùng làm nguyên liệu cơ bản cho thế hệ thứ tư. Nhưng cần phải có thêm một khía cạnh, mô thức và cách thực hiện mới để giúp chúng ta đi vào Phần tư thứ hai – lấy nguyên tắc làm trọng tâm và quản lý bản thân – nhằm thực hiện những công việc quan trọng nhất.
 
 ### 6. CÔNG CỤ DÙNG CHO PHẦN TƯ THỨ HAI
 
@@ -2378,9 +2004,7 @@ Nhiều người nghĩ rằng thành công ở lĩnh vực này có thể bù đ
 
 ### Tập trung vào Phần tư thứ hai: Bạn cần có một công cụ để khuyến khích, động viên và thực sự giúp bạn sử dụng thời gian cần thiết cho các hoạt động trong Phần tư thứ hai, để bạn ngăn ngừa hơn là ưu tiên giải quyết các vấn đề khủng hoảng. Theo tôi, cách tốt nhất để làm điều này là tổ chức cuộc sống của bạn trên cơ sở lịch tuần. Cũng có thể điều chỉnh và chọn ưu tiên trên cơ sở hàng ngày, nhưng tổ chức công việc trên cơ sở hàng tuần mang lại sự cân bằng và tầm nhìn xa hơn. Dường như có sự công nhận “mặc nhiên” rằng tuần là một đơn vị thời gian đơn lẻ và hoàn chỉnh. Hoạt động kinh doanh, giáo dục, tôn giáo và nhiều lĩnh vực khác trong xã hội đều lấy tuần làm khuôn khổ thời gian để xoay vòng công việc, trong đó, ấn định một số ngày nhất định cho công việc và các ngày khác cho nghỉ ngơi.
 
-Trong suy nghĩ của hầu hết chúng ta, chu kỳ ngắn của thời gian là ***một tuần***. Thế nhưng, các công cụ lập kế hoạch của thế hệ thứ ba lại tập trung vào ***từng ngày***. Cách thực hiện này có thể giúp bạn chọn ưu tiên cho các hoạt động của mình, nhưng về cơ bản, nó chỉ giúp bạn giải quyết các khủng
-
-hoảng và việc lặt vặt. Điều quan trọng không phải là ưu tiên cho những gì có trong lịch công tác, mà là sắp xếp lịch theo các ưu tiên của bạn. Và điều này chỉ có thể làm được một cách tốt nhất trong khuôn khổ thời gian một tuần.
+Trong suy nghĩ của hầu hết chúng ta, chu kỳ ngắn của thời gian là ***một tuần***. Thế nhưng, các công cụ lập kế hoạch của thế hệ thứ ba lại tập trung vào ***từng ngày***. Cách thực hiện này có thể giúp bạn chọn ưu tiên cho các hoạt động của mình, nhưng về cơ bản, nó chỉ giúp bạn giải quyết các khủng hoảng và việc lặt vặt. Điều quan trọng không phải là ưu tiên cho những gì có trong lịch công tác, mà là sắp xếp lịch theo các ưu tiên của bạn. Và điều này chỉ có thể làm được một cách tốt nhất trong khuôn khổ thời gian một tuần.
 
 ### Khía cạnh “con người”: Bạn cũng cần có công cụ khi làm việc với con người chứ không chỉ với lịch công tác. Trong khi có thể dựa vào tính hiệu quả của việc sử dụng thời gian, người lấy nguyên tắc làm trọng tâm suy nghĩ dưới góc độ tính hiệu quả trong việc xử lý mối quan hệ với con người. Cuộc sống lấy nguyên tắc làm trọng tâm với các hoạt động ở Phần tư thứ hai đôi khi đòi hỏi chúng ta phải xem mối quan hệ với con người quan trọng hơn lịch công tác. Công cụ của bạn cần phải phản ánh giá trị này - tạo điều kiện cho việc thực hiện chứ không phải để hối tiếc khi không tuân thủ theo lịch công tác.
 
@@ -2388,9 +2012,7 @@ hoảng và việc lặt vặt. Điều quan trọng không phải là ưu tiên
 
 ### Tính gọn nhẹ: Công cụ của bạn cần phải gọn nhẹ để có thể luôn mang theo bên mình. Bạn có thể cần xem lại bản tuyên ngôn sứ mệnh cá nhân trong khi đang ngồi trên xe buýt. Bạn có thể cần so sánh giá trị của một cơ hội mới với công việc mà bạn đã có kế hoạch sẵn. Nếu công cụ lập kế hoạch của bạn gọn nhẹ, bạn sẽ mang nó theo người để luôn luôn có ngay các số liệu quan trọng khi cần đến.
 
-Vì các hoạt động trong Phần tư thứ hai là tâm điểm của việc quản lý bản thân hiệu quả, nên bạn cần có một công cụ để thâm nhập vào đó. Nghiên cứu của tôi về khái niệm ***thế hệ*** quản trị thời gian ***thứ tư*** đã cho ra đời một công cụ được
-
-thiết kế chi tiết theo các tiêu chuẩn nêu trên. Nhưng chúng ta vẫn không quên rằng, nhiều công cụ tốt của thế hệ thứ ba vẫn có thể dễ dàng được điều chỉnh lại cho thích hợp. Bởi năng lực của các nguyên tắc đúng đắn là hết sức mạnh mẽ và linh hoạt nên việc thực hành hay áp dụng ***thế hệ quản trị thời gian thứ tư*** có thể có chút thay đổi tùy theo từng người.
+Vì các hoạt động trong Phần tư thứ hai là tâm điểm của việc quản lý bản thân hiệu quả, nên bạn cần có một công cụ để thâm nhập vào đó. Nghiên cứu của tôi về khái niệm ***thế hệ*** quản trị thời gian ***thứ tư*** đã cho ra đời một công cụ được thiết kế chi tiết theo các tiêu chuẩn nêu trên. Nhưng chúng ta vẫn không quên rằng, nhiều công cụ tốt của thế hệ thứ ba vẫn có thể dễ dàng được điều chỉnh lại cho thích hợp. Bởi năng lực của các nguyên tắc đúng đắn là hết sức mạnh mẽ và linh hoạt nên việc thực hành hay áp dụng ***thế hệ quản trị thời gian thứ tư*** có thể có chút thay đổi tùy theo từng người.
 
 ### 7. TRỞ THÀNH NGƯỜI TỰ QUẢN PHẦN TƯ THỨ HAI
 
@@ -2498,9 +2120,7 @@ Nếu đặt mục tiêu có sức khỏe tốt bằng cách tập thể dục, 
 
 Sau khi nhận diện các vai trò và đặt ra các mục tiêu, bạn có thể chuyển mỗi mục tiêu thành công việc của từng ngày cụ thể trong tuần, dưới dạng ưu tiên, hoặc tốt hơn là một cuộc hẹn cụ thể. Bạn cũng có thể rà soát lại các cuộc hẹn trong lịch năm hoặc lịch tháng mà bạn có thể đã ghi từ trước và đánh giá tầm quan trọng của chúng bằng cách đối chiếu với mục tiêu của bạn. Sau đó, bạn sắp xếp các cuộc hẹn mà mình quyết định đưa vào lịch trình, hoặc điều chỉnh lại thời gian, hoặc hủy bỏ.
 
-Ngoài việc giúp bạn dành ưu tiên cho công việc quan trọng nhất, việc tổ chức công việc hàng tuần cho các hoạt động thuộc Phần tư thứ hai còn đem lại cho bạn sự tự do và linh hoạt để xử lý các sự kiện ngoài dự kiến và có thời gian thư giãn mà vẫn yên tâm rằng bạn đã chủ động tổ chức
-
-tốt tuần lễ làm việc của mình nhằm thực hiện các mục tiêu chủ yếu trong mọi mặt của cuộc sống.
+Ngoài việc giúp bạn dành ưu tiên cho công việc quan trọng nhất, việc tổ chức công việc hàng tuần cho các hoạt động thuộc Phần tư thứ hai còn đem lại cho bạn sự tự do và linh hoạt để xử lý các sự kiện ngoài dự kiến và có thời gian thư giãn mà vẫn yên tâm rằng bạn đã chủ động tổ chức tốt tuần lễ làm việc của mình nhằm thực hiện các mục tiêu chủ yếu trong mọi mặt của cuộc sống.
 
 ### Điều chỉnh kế hoạch hàng ngày: Kế hoạch hàng ngày giúp bạn điều chỉnh một cách thích hợp việc lựa chọn các hoạt động ưu tiên cũng như thể hiện phản ứng của bạn trước các sự kiện, các mối quan hệ, các vấn đề khủng hoảng bất ngờ.
 
@@ -2514,9 +2134,7 @@ Bạn có nhận thấy sự khác nhau giữa việc lập kế hoạch ***hàn
 
 Bằng những trải nghiệm cuộc sống về sức mạnh của việc tổ chức các hoạt động trong Phần tư thứ hai, lấy nguyên tắc làm trung tâm, và chứng kiến tác động sâu sắc của nó trong việc chuyển biến cuộc đời hàng trăm người, tôi tin rằng nó sẽ tạo ra sự khác biệt – một sự khác biệt tích cực lớn lao – cho bạn. Một khi các mục tiêu hàng tuần được gắn với khuôn khổ rộng lớn của các nguyên tắc đúng đắn, với tuyên ngôn sứ mệnh cá nhân, thì nó sẽ càng làm tăng sự thành đạt.
 
-Tuyên ngôn
-
-sứ mệnh Vai trò Mục tiêu
+Tuyên ngôn sứ mệnh Vai trò Mục tiêu
 
 #### **TỔ CHỨC CÔNG VIỆC DÀI HẠN**
 
@@ -2572,9 +2190,7 @@ Xã hội/Tình cảm
 
 Các cuộc hẹn/Các cam kết
 
-Báo cáo tổng 
-
-kết lương bổng
+Báo cáo tổng  kết lương bổng
 
 16
 
@@ -2684,9 +2300,7 @@ Thử nghiệm  thông số  thị trường
 
 Đi thăm  Conklin 18
 
-Kiểm điểm  lại trách nhiệm 
-
-cùng với Janie
+Kiểm điểm  lại trách nhiệm  cùng với Janie
 
 13 Báo cáo  cuối tháng 15
 
@@ -2704,9 +2318,7 @@ Dự án khoa  học của Tim 5
 
 Nghiên cứu  điều ttra KH 9
 
-Lớp học  quản lý
-
-nhà của Karla
+Lớp học  quản lý nhà của Karla
 
 4
 
@@ -2858,9 +2470,7 @@ Khi bạn thực hiện lịch công tác hàng tuần, nhất định sẽ có 
 
 Không phải lúc nào bạn cũng biết trước điều gì là thực sự quan trọng, dù đã tổ chức tỉ mỉ tuần làm việc của mình. Vì là người lấy nguyên tắc làm trọng tâm, sẽ có lúc bạn nhận thấy rằng cần phải xếp những giá trị cao hơn lên trên lịch công tác hàng tuần. Và vì là người lấy nguyên tắc làm trọng tâm nên bạn có thể làm điều đó với sự thanh thản trong lòng.
 
-Con trai tôi rất quan tâm đến việc lập kế hoạch công việc và tính toán hiệu quả. Nó có một lịch trình công việc
-
-rất khít khao, phân bổ thời gian cho các hoạt động đến từng phút, trong đó bao gồm: mua vài cuốn sách, rửa xe, cả việc “cắt đứt” với cô bạn gái Carol, cùng nhiều thứ khác.
+Con trai tôi rất quan tâm đến việc lập kế hoạch công việc và tính toán hiệu quả. Nó có một lịch trình công việc rất khít khao, phân bổ thời gian cho các hoạt động đến từng phút, trong đó bao gồm: mua vài cuốn sách, rửa xe, cả việc “cắt đứt” với cô bạn gái Carol, cùng nhiều thứ khác.
 
 Mọi thứ đều diễn ra theo kế hoạch cho tới phần về Carol. Hai đứa đã hẹn hò thường xuyên với nhau một thời gian khá lâu, và cuối cùng, con trai tôi đi đến kết luận là không nên tiếp tục mối quan hệ nữa. Do trung thành với tính hiệu quả của lịch trình, nó lên kế hoạch dành ra 15 phút để gọi điện thoại nói chuyện với Carol. Nhưng việc này làm cho con bé rất đau buồn. Vì vậy, hơn một tiếng rưỡi, cu cậu vẫn không thể nào dứt ra được cuộc nói chuyện căng thẳng với con bé. Ngay cả một cuộc gặp nhau vẫn chưa đủ. Tình hình trở nên căng thẳng cho cả hai đứa.
 
@@ -2898,9 +2508,7 @@ Chúng ta hoàn thành mọi công việc thông qua sự giao phó – cho th�
 
 Nhiều người từ chối giao phó công việc cho người khác bởi vì họ cảm thấy không yên tâm. Nhưng giao phó công việc một cách hiệu quả cho người khác là một hành động có tính chất đòn bẩy mạnh mẽ nhất.
 
-Việc chuyển giao trách nhiệm cho những người có kỹ
-
-năng và được đào tạo khiến bạn có điều kiện dành thời gian, sức lực cho các hoạt động khác hữu ích hơn. Giao phó giúp cá nhân lẫn tổ chức phát triển. J.C. Penney – người sáng lập tập đoàn bán lẻ nổi tiếng ***J.C. Penney*** - sinh thời từng nói rằng quyết định sáng suốt nhất của ông là “ủy quyền” sau khi nhận ra rằng mình không còn có thể tự làm điều đó được nữa. Quyết định đó đã đem lại sự phát triển và tăng trưởng của hàng trăm cửa hàng và hàng ngàn con người.
+Việc chuyển giao trách nhiệm cho những người có kỹ năng và được đào tạo khiến bạn có điều kiện dành thời gian, sức lực cho các hoạt động khác hữu ích hơn. Giao phó giúp cá nhân lẫn tổ chức phát triển. J.C. Penney – người sáng lập tập đoàn bán lẻ nổi tiếng ***J.C. Penney*** - sinh thời từng nói rằng quyết định sáng suốt nhất của ông là “ủy quyền” sau khi nhận ra rằng mình không còn có thể tự làm điều đó được nữa. Quyết định đó đã đem lại sự phát triển và tăng trưởng của hàng trăm cửa hàng và hàng ngàn con người.
 
 Vì sự giao phó cần phải có người khác, nên đó là một chiến thắng chung của tập thể – sẽ được trình bày trong Thói quen thứ tư. Ở đây, chúng ta tập trung vào các nguyên tắc quản lý bản thân, và khả năng giao phó công việc cho người khác – điểm khác nhau chủ yếu giữa vai trò của người quản lý và người sản xuất độc lập – nên tôi tiếp cận vấn đề giao phó từ góc độ kỹ năng quản lý cá nhân của bạn.
 
@@ -2968,9 +2576,7 @@ Tôi dựng một chiếc bảng đen lớn và chúng tôi viết ra các mục
 
 “Ai muốn trả tiền bảo hiểm? Tiền ăn? Xe ôtô?”, và hình như chỉ có tôi là người độc nhất trong các việc này.
 
-“Ai muốn nhận việc chăm sóc em bé mới sinh?”. Nhiều
-
-người tỏ ra quan tâm, nhưng chỉ có vợ tôi là người đáp ứng tiêu chuẩn nhất để làm việc này.
+“Ai muốn nhận việc chăm sóc em bé mới sinh?”. Nhiều người tỏ ra quan tâm, nhưng chỉ có vợ tôi là người đáp ứng tiêu chuẩn nhất để làm việc này.
 
 Khi chúng tôi lần theo từng mục trên bảng liệt kê công việc, thì chẳng mấy chốc thấy thời gian làm việc trong tuần của cha và mẹ là trên 60 giờ. Với mô thức đó, một số công việc khác được đặt trong một viễn cảnh thích hợp hơn.
 
@@ -2984,9 +2590,7 @@ Cậu con trai 7 tuổi của tôi, Stephen xung phong chăm sóc sân cỏ. Tr�
 
 “Rõ ạ!”
 
-“Bây giờ nói về sạch, con nhé. Sạch có nghĩa là không dính các thứ bẩn – không có giấy lộn, dây nhợ, xương xẩu, que củi, hay bất cứ cái gì làm bẩn sân. Bố sẽ nói cho con biết chúng ta nên làm gì. Chúng ta hãy làm sạch một nửa cái sân ngay bây giờ và xem chúng khác nhau như thế nào”. Thế là
-
-chúng tôi đi lấy hai túi đựng giấy lộn và nhặt rác hết một nửa sân. “Bây giờ con nhìn nửa sân này và nửa sân kia. Con có thấy khác nhau không? Đây gọi là sạch, con biết rồi chứ.”
+“Bây giờ nói về sạch, con nhé. Sạch có nghĩa là không dính các thứ bẩn – không có giấy lộn, dây nhợ, xương xẩu, que củi, hay bất cứ cái gì làm bẩn sân. Bố sẽ nói cho con biết chúng ta nên làm gì. Chúng ta hãy làm sạch một nửa cái sân ngay bây giờ và xem chúng khác nhau như thế nào”. Thế là chúng tôi đi lấy hai túi đựng giấy lộn và nhặt rác hết một nửa sân. “Bây giờ con nhìn nửa sân này và nửa sân kia. Con có thấy khác nhau không? Đây gọi là sạch, con biết rồi chứ.”
 
 “Khoan đã bố”, cu cậu kêu lên. “Con nhìn thấy một số giấy lộn ở đằng sau bụi cây kia kìa!”
 
@@ -3068,9 +2672,7 @@ Hôm đó là ngày thứ bảy. Cu cậu không làm gì cả. Chủ nhật… 
 
 Cả ngày hôm đó, tôi nóng lòng trở về nhà để xem điều gì đã xảy ra. Khi về đến trước sân, tôi nhìn thấy cảnh tượng y như lúc sáng. Còn cậu con trai của tôi thì đang chơi ở công viên phía bên kia con đường.
 
-Đây là điều không thể chấp nhận được. Tôi cảm thấy thất vọng và vỡ mộng về hành động của con trai sau hai tuần được tôi huấn luyện, và tôi cũng đã nghe những lời
-
-hứa hẹn của nó. Chúng tôi đã bỏ nhiều công sức, tiền bạc và rất tự hào với cái sân cỏ, vậy mà giờ nó đang trở nên khô héo trong khi cỏ trong sân nhà láng giềng đã được cắt tỉa trông rất đẹp…
+Đây là điều không thể chấp nhận được. Tôi cảm thấy thất vọng và vỡ mộng về hành động của con trai sau hai tuần được tôi huấn luyện, và tôi cũng đã nghe những lời hứa hẹn của nó. Chúng tôi đã bỏ nhiều công sức, tiền bạc và rất tự hào với cái sân cỏ, vậy mà giờ nó đang trở nên khô héo trong khi cỏ trong sân nhà láng giềng đã được cắt tỉa trông rất đẹp…
 
 Tôi đã sẵn sàng quay trở lại kiểu giao phó mệnh lệnh. ***Này, hãy lại đây và đi nhặt rác ngay bây giờ, nếu không thì liệu hồn!*** Tôi nghĩ tôi có thể có được “quả trứng vàng” theo cách đó. Nhưng còn “con ngỗng” thì sao? Điều gì đã xảy ra đối với sự cam kết trong lòng của con trai tôi?
 
@@ -3106,9 +2708,7 @@ Sự tin cậy là hình thức cao nhất của động cơ thúc đẩy con ng
 
 Tôi tin rằng nếu việc giao phó ủy quyền được thực hiện đúng đắn thì cả hai bên sẽ có lợi, sẽ làm được nhiều việc hơn với thời gian ít hơn. Điều này đòi hỏi một năng lực quản lý tốt chứ không chỉ là sản xuất hiệu quả. Vấn đề chính ở đây nằm ở tính hiệu quả chứ không phải ở các kết quả.
 
-Chắc chắn bạn có thể dọn phòng sạch hơn, nhanh hơn so với con bạn, nhưng mục đích là bạn muốn con bạn tự làm lấy việc đó. Điều đó đòi hỏi thời gian huấn luyện và
-
-phát triển khả năng của con bạn, nhưng lại tiết kiệm cho bạn nhiều thời gian về sau. Việc này đặt ra một mô thức hoàn toàn mới về sự ủy quyền và thực sự làm thay đổi bản chất của mối quan hệ. Người quản lý trở thành người chủ của chính mình, chịu sự chi phối của lương tâm bao gồm các cam kết để đạt được những kết quả mong muốn. Nhưng đồng thời, nó cũng giải phóng năng lực sáng tạo để bạn có thể làm bất kỳ điều gì cần thiết, phù hợp với các nguyên tắc đúng đắn, để đạt được kết quả đó.
+Chắc chắn bạn có thể dọn phòng sạch hơn, nhanh hơn so với con bạn, nhưng mục đích là bạn muốn con bạn tự làm lấy việc đó. Điều đó đòi hỏi thời gian huấn luyện và phát triển khả năng của con bạn, nhưng lại tiết kiệm cho bạn nhiều thời gian về sau. Việc này đặt ra một mô thức hoàn toàn mới về sự ủy quyền và thực sự làm thay đổi bản chất của mối quan hệ. Người quản lý trở thành người chủ của chính mình, chịu sự chi phối của lương tâm bao gồm các cam kết để đạt được những kết quả mong muốn. Nhưng đồng thời, nó cũng giải phóng năng lực sáng tạo để bạn có thể làm bất kỳ điều gì cần thiết, phù hợp với các nguyên tắc đúng đắn, để đạt được kết quả đó.
 
 Các nguyên tắc liên quan đến việc giao phó ủy quyền là đúng đắn và có thể được áp dụng cho bất cứ ai, trong bất cứ hoàn cảnh nào. Đối với người chưa trưởng thành, bạn sẽ nêu ra ít kỳ vọng nhưng lại phải có nhiều chỉ dẫn hơn. Cần tiến hành kiểm tra trách nhiệm thường xuyên và công nhận ngay kết quả đạt được. Đối với người đã trưởng thành, bạn đặt ra những kỳ vọng có nhiều thách thức hơn, ít phải định hướng và ít kiểm tra trách nhiệm hơn.
 
@@ -3118,9 +2718,7 @@ Sự ủy quyền đúng đắn có thể là dấu hiệu tốt nhất của qu
 
 Chìa khóa để quản lý hiệu quả bản thân, hay quản lý người khác thông qua ủy quyền, không phải là kỹ thuật hoặc công cụ nào khác, cũng không phải đến từ bên ngoài. Đó là nhân tố nội tại – nằm trong mô thức Phần tư thứ hai. Nó sẽ giúp bạn có khả năng nhìn qua lăng kính quan trọng chứ không phải là khẩn cấp.
 
-Khi bạn có được mô thức Phần tư thứ hai, nó sẽ làm tăng khả năng tổ chức và thực hiện công việc hàng tuần
-
-xoay quanh những ưu tiên quan trọng nhất, cũng như làm tăng khả năng ứng biến của bạn. Bạn sẽ không còn bị phụ thuộc vào ai hay việc gì khác trong việc quản lý hiệu quả cuộc sống của mình.
+Khi bạn có được mô thức Phần tư thứ hai, nó sẽ làm tăng khả năng tổ chức và thực hiện công việc hàng tuần xoay quanh những ưu tiên quan trọng nhất, cũng như làm tăng khả năng ứng biến của bạn. Bạn sẽ không còn bị phụ thuộc vào ai hay việc gì khác trong việc quản lý hiệu quả cuộc sống của mình.
 
 Đáng chú ý là những người có 7 Thói quen đều là những người thuộc về Phần tư thứ hai. Quan tâm đến những điều quan trọng cơ bản và thực hiện nó một cách đều đặn sẽ làm cho cuộc sống của bạn có nhiều biến chuyển lớn lao theo chiều hướng tích cực.
 

@@ -15,9 +15,7 @@
 
 — Alice lạc vào xứ sở thần tiên, LEWIS CARROLL.
 
-Bạn muốn trở thành giám đốc doanh nghiệp hay một đại biểu
-
-quốc hội? Bạn muốn đứng đầu trong ngành hay chỉ cần là chủ tịch hội phụ huynh tại trường của con bạn? Bạn muốn kiếm nhiều tiền hay kiếm nhiều bạn?
+Bạn muốn trở thành giám đốc doanh nghiệp hay một đại biểu quốc hội? Bạn muốn đứng đầu trong ngành hay chỉ cần là chủ tịch hội phụ huynh tại trường của con bạn? Bạn muốn kiếm nhiều tiền hay kiếm nhiều bạn?
 
 Bạn định hướng những gì mình muốn càng cụ thể, thì bạn sẽ càng dễ dàng đưa ra một chiến lược để đạt mục tiêu. Một phần trong chiến lược, tất nhiên là phải bao gồm việc thiết lập mối quan hệ với những người trong cuộc sống có thể giúp bạn đi đến thành công.
 
@@ -225,9 +223,7 @@ TIỂU SỬ NGƯỜI NỔI TIẾNG Bill Clinton “Biết rõ sứ mệnh cuộc
 
 Năm 1968, khi William Jefferson Clinton đang học tại Đại học Oxford với học bổng Rhodes Scholar, ông gặp một sinh viên sau đại học tên là Jeffrey Stamps tại một buổi tiệc. Clinton lấy ra một quyển sổ ghi chép địa chỉ màu đen và hỏi: “Anh đang làm gì tại Oxford?”
 
-“Tôi đang theo học tại Pembroke nhờ học bổng Fulbright,” Jeff trả lời. Clinton ghi chú Pembroke vào trong sổ, và tiếp tục hỏi về trường
-
-và ngành mà Stamps đã tốt nghiệp cử nhân. Stamps ngạc nhiên hỏi: “Bill, sao anh phải viết hết mọi thứ ra giấy vậy?”
+“Tôi đang theo học tại Pembroke nhờ học bổng Fulbright,” Jeff trả lời. Clinton ghi chú Pembroke vào trong sổ, và tiếp tục hỏi về trường và ngành mà Stamps đã tốt nghiệp cử nhân. Stamps ngạc nhiên hỏi: “Bill, sao anh phải viết hết mọi thứ ra giấy vậy?”
 
 “Tôi sẽ chuyển sang làm chính trị, và tôi sẽ tranh cử thống đốc bang Arkansas, tôi muốn ghi lại tất cả những người tôi đã gặp gỡ,” Clinton cho biết.
 

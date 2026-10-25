@@ -48,9 +48,7 @@ Cơ quan đại diện cho tất cả các cổ đông là
 
 G)
 
-Làm dân
-
-đông là cơ quan quyền lực cao nhất trong công ty cổ phần, quyết định tất cả những vấn đề căn cơ nhất, đặc biệt là quyết định về cách thức thiết kế, tổ chức guồng máy vận hành doanh nghiệp và cách thức kiểm soát guồng máy đó. Cách thức thiết kế guồng máy vận hành doanh nghiệp và cách thức kiểm soát guồng máy đó được quy định rõ trong Điều lệ công tụ.
+Làm dân đông là cơ quan quyền lực cao nhất trong công ty cổ phần, quyết định tất cả những vấn đề căn cơ nhất, đặc biệt là quyết định về cách thức thiết kế, tổ chức guồng máy vận hành doanh nghiệp và cách thức kiểm soát guồng máy đó. Cách thức thiết kế guồng máy vận hành doanh nghiệp và cách thức kiểm soát guồng máy đó được quy định rõ trong Điều lệ công tụ.
 
 Điều lệ này, khi được Đại hội đồng cổ đông thông qua một cách hợp lệ và phù hợp với luật pháp liên quan, sẽ là cơ sở quan trọng nhất cho toàn bộ hoạt động của doanh nghiệp và sẽ là những quy tắc và quy định ràng buộc để quản lý và điều hành công ty. Điều lệ công ty do “ông chủ” ban hành nên tất nhiên các quy định trong bản Điều lệ này sẽ bảo vệ quyền và lợi ích hợp pháp, hợp lệ và hợp lý của “ông chủ”, tránh cho các chủ thể khác có liên quan của công ty có cơ hội làm ảnh hưởng đến các quyền và lợi ích của “ông chủ”.
 
@@ -58,9 +56,7 @@ Chọn lãnh đạo cấp cao để pận hành “guồng máy” đó:
 
 Đại hội đồng cổ đông bầu chọn ra Hội đồng quản trị, là những người họ tín cậy là có đủ
 
-120
-
-khả năng thay mặt họ để dẫn dắt doanh nghiệp. Hội đồng quản trị chính là cơ quan thường trực của Đại hội đồng cổ đông, có quyền nhân danh những người chủ sở hữu của công ty để ra quyết định, thực hiện các quyền và nghĩa vụ của công ty mà họ được giao phó. Đại hội đồng cổ đông cũng có quyền bãi nhiệm Hội đồng quản trị nếu không còn tin tưởng về năng lực, phẩm chất hay sự phù hợp của những người trong Hội đồng này.
+120 khả năng thay mặt họ để dẫn dắt doanh nghiệp. Hội đồng quản trị chính là cơ quan thường trực của Đại hội đồng cổ đông, có quyền nhân danh những người chủ sở hữu của công ty để ra quyết định, thực hiện các quyền và nghĩa vụ của công ty mà họ được giao phó. Đại hội đồng cổ đông cũng có quyền bãi nhiệm Hội đồng quản trị nếu không còn tin tưởng về năng lực, phẩm chất hay sự phù hợp của những người trong Hội đồng này.
 
 Tương tự như vậy, Hội đồng quản trị có thể tiếp tục chọn ra một Tổng giám đốc để giúp mình trực tiếp quản lý doanh nghiệp. Nếu như Hội đồng quản trị là đại diện của chủ sở hữu thì Tổng giám đốc là người đại diện cho công ty về đối nội và đối ngoại, có toàn quyền điều hành công ty theo Điều lệ công ty mà Đại hội đồng cổ đông thông qua và các nghị quyết, quyết định của Hội đồng quản trị. Tổng giám đốc nếu làm không tốt, không được tin tưởng hay không còn phù hợp cũng có thể bị Hội đồng quản trị bãi nhiệm bất kỳ lúc nào, trừ khi Điều lệ công ty có quy định khác.
 
@@ -74,9 +70,7 @@ Nếu xem quốc gia tương ứng với công ty, thì người dân chính là
 
 (1) Thiết kế guỒng máu nận hành quốc gia: Nếu như với doanh nghiệp, Điều lệ công ty là “bản thiết kế” thì với quốc gia, bản Điều lệ đó chính là Hiến pháp. Một chức năng quan trọng bậc nhất của Hiến pháp là thiết kế guồng máy vận hành quốc gia (nhà nước, hệ thống chính trì) và những cách thức nhằm
 
-124
-
-kiểm soát quyền lực của các cơ quan, người lãnh đạo trong guồng máy đó để bảo vệ quyền và lợi ích của “ông chủ” (nhân dân).
+124 kiểm soát quyền lực của các cơ quan, người lãnh đạo trong guồng máy đó để bảo vệ quyền và lợi ích của “ông chủ” (nhân dân).
 
 Hiến pháp của quốc gia chỉ có giá trị khi do người dân trực tiếp phúc quyết hay phê chuẩn và chỉ nhân dân mới có quyền lập hiến (cũng như Điều lệ công ty do Đại hội đồng cổ đông thông qua và chỉ có Đại hội đồng cổ đông mới có quyền thông qua Điều lệ công ty và không trao quyền này cho bất kỳ ai khác). Nói cách khác, nhân dân là chủ thể duy nhất của quyền lập hiến. Nhân dân có thể trực tiếp phúc quyết Hiến pháp hoặc nhân dân sẽ bầu ra một quốc hội với một chức năng duy nhất là soạn lập Hiến pháp để nhân dân phê chuẩn và quốc hội này sẽ giải tán sau khi hoàn thành nhiệm vụ, còn gọi là quốc hội lập hiến. Nghĩa là quốc hội lập hiến (làm ra và ban hành hiến pháp) sẽ khác với quốc hội lập pháp (làm ra và ban hành luật pháp).
 
@@ -114,17 +108,9 @@ Nếu như trong một công ty, cơ chế giám sát được đảm bảo qua 
 
 - Quyền tư pháp được trao cho các tòa án và chỉ xử án dựa trên pháp luật.
 
-Montesquieu - nhà tư tưởng chính trị lỗi lạc
+Montesquieu - nhà tư tưởng chính trị lỗi lạc người Pháp, cha đẻ của thuyết “tam quyền phân lập” này từng viết trong tác phẩm Tính thần pháp luật của ông như sau:
 
-người Pháp, cha đẻ của thuyết “tam quyền
-
-phân lập” này từng viết trong tác phẩm Tính thần pháp luật của ông như sau:
-
-“Khi mà quyền lập pháp và hành pháp nhập lại
-
-trong tay một người hau một Viện Nguyên lão thì
-
-sẽ không có gì là tự do nữa, tì người ra sợ rằng chính ông ta hoặc Viện ấu chỉ đặt ra những luật độc tài để thì hành một cách độc tài. Cũng không có gì là tự do nếu quyền tư pháp không tách rời quyền lập pháp và hành pháp. Nếu quyền tư pháp được nhập tới quyền lập pháp, thì người ta sẽ độc đoán với quyền sống, quyền tự do của công dân; quan tòa sẽ là người đặt ra luật. Nếu quyền tư pháp nhập lại với quyền hành pháp thì quan tòn sẽ có sức mạnh của kẻ đàn áp. Nếu một người hay một tổ chức của quan chức, hoặc của quý tộc, hoặc của dân chúng, nắm cả ba thứ quyền lực nói trên thì tắt cả sẽ mắt hết”.
+“Khi mà quyền lập pháp và hành pháp nhập lại trong tay một người hau một Viện Nguyên lão thì sẽ không có gì là tự do nữa, tì người ra sợ rằng chính ông ta hoặc Viện ấu chỉ đặt ra những luật độc tài để thì hành một cách độc tài. Cũng không có gì là tự do nếu quyền tư pháp không tách rời quyền lập pháp và hành pháp. Nếu quyền tư pháp được nhập tới quyền lập pháp, thì người ta sẽ độc đoán với quyền sống, quyền tự do của công dân; quan tòa sẽ là người đặt ra luật. Nếu quyền tư pháp nhập lại với quyền hành pháp thì quan tòn sẽ có sức mạnh của kẻ đàn áp. Nếu một người hay một tổ chức của quan chức, hoặc của quý tộc, hoặc của dân chúng, nắm cả ba thứ quyền lực nói trên thì tắt cả sẽ mắt hết”.
 
 ## “Vua chủ”, “dân chủ” và “nhóm chủ”
 
@@ -154,21 +140,15 @@ Nhân dân
 
 (Vì bộ máy nhà nước được hình thành theo Hiến pháp và cả lãnh đạo nhà nước cũng được bầu chọn theo Hiến pháp, nên nhân dân sẽ dùng quyền lập hiến để tạo ra Hiến pháp và dùng Hiến pháp này để tạo ra nhà nước và kiểm soát quyền lực nhà nước nhằm buộc nhà nước phải phục vụ mình và bảo vệ các quyền và lợi ích hiển nhiên của mình).
 
-Nếu nhân dân không trực tiếp phúc quyết Hiến pháp thì nhân dân sẽ bầu ra quốc hội lập hiến để soạn thảo Hiến pháp và toàn dân phê chuẩn; và khi sửa đổi Hiến pháp thì phải được toàn dân phúc quyết. Quốc hội lập hiến
-
-này chỉ có chức năng duy nhất là
+Nếu nhân dân không trực tiếp phúc quyết Hiến pháp thì nhân dân sẽ bầu ra quốc hội lập hiến để soạn thảo Hiến pháp và toàn dân phê chuẩn; và khi sửa đổi Hiến pháp thì phải được toàn dân phúc quyết. Quốc hội lập hiến này chỉ có chức năng duy nhất là
 
 Aitạoraluật Vua
 
 (lập pháp)?
 
-Ai thực thi Vua luật (hành
+Ai thực thi Vua luật (hành pháp)?
 
-pháp)?
-
-132
-
-lập hiến, sau khi lập hiến xong là giải tán. Quốc hội lập hiến không phải là một cơ quan của bộ máy nhà nước, nên sẽ không kiêm nhiệm chức năng lập pháp, và ngược lại, quốc hội lập pháp (một cơ quan của bộ máy nhà nước) sẽ không được kiêm nhiệm chức năng lập hiến.
+132 lập hiến, sau khi lập hiến xong là giải tán. Quốc hội lập hiến không phải là một cơ quan của bộ máy nhà nước, nên sẽ không kiêm nhiệm chức năng lập pháp, và ngược lại, quốc hội lập pháp (một cơ quan của bộ máy nhà nước) sẽ không được kiêm nhiệm chức năng lập hiến.
 
 Nếu quốc hội lập pháp kiêm nhiệm chức năng lập hiến thì Hiến pháp đó sẽ không có mấy giá trị, Vì Hiến pháp là công cụ của nhân dân để kiểm soát nhà nước (chứ không phải công cụ của nhà nước để quản lý nhân dân). Nghị viện / Quốc hội (một cơ quan của bộ máy nhà nước) được nhân dân trao quyền lập pháp (trao quyền thông qua Hiến pháp). Chính phủ / Tổng thống / Thủ tướng (một cơ quan của bộ máy nhà nước) được nhân dân trao quyền hành pháp (trao quyền thông qua Hiến pháp).
 
@@ -310,13 +290,7 @@ Không ai sinh ra đã là con người đúng nghĩa. Tương tự như vậy, 
 
 Nếu như hành trình làm người tự do, tự trị đòi hỏi con người phải “rời hang” để đến với ánh sáng của chân lý và tự do thì để có được “năng lực làm dân”, con người cần phải nhìn ra thế giới (đặc biệt là thế giới văn minh) để tìm hiểu xem những đất nước khác đang được quản trị như thế nào, những người dân ở các nước đó đang thực hiện công việc “làm dân” của họ bằng cách nào và năng lực làm dân của họ ra sao để so sánh, đối chiều, chọn lựa và học hỏi cái hay, cái hợp nhất với mình.
 
-Có một câu nói mà nhiều người vẫn thường dùng để châm chọc những người ưa bàn những chuyện có vẻ to tát là: “Ăn khoai lang mà đòi bàn . Nhưng nếu không thể phóng tầm mắt của mình ra khỏi lũy tre làng để học hỏi
-
-li
-
-chuyện thế giới xem làng bên đang trồng những hoa màu gì khác
-
-thì có lẽ viễn cảnh phải ăn khoai lang suốt đời cũng chẳng có gì là đáng ngạc nhiên!
+Có một câu nói mà nhiều người vẫn thường dùng để châm chọc những người ưa bàn những chuyện có vẻ to tát là: “Ăn khoai lang mà đòi bàn . Nhưng nếu không thể phóng tầm mắt của mình ra khỏi lũy tre làng để học hỏi li chuyện thế giới xem làng bên đang trồng những hoa màu gì khác thì có lẽ viễn cảnh phải ăn khoai lang suốt đời cũng chẳng có gì là đáng ngạc nhiên!
 
 Người dân cũng thường xuyên phải đưa ra những quyết định chọn lựa quan trọng: chọn mô hình quản trị quốc gia, chọn người lãnh đạo đất nước, chọn cách thực hiện quyền lập hiến..., nên khả năng minh định được a? là ai (ai thực tài ai ngụy tài, ai thực tâm ai dã tâm, ai quân tử ai ngụy quân tử...), cái gì là cái gì (đâu là đúng - sai, phải trái, tốt - xấu, chân - giả, thiện - ác, chính - tà) và mình là ai (trong vô vàn lựa chọn, vậy đâu là mình) cũng là một năng lực thiết yếu. Năng lực này thường tý lệ thuận cùng với nỗ lực dành cho việc đọc và học, quan sát và đánh giá để biếthiểu-cảm-ngộ của mỗi người.
 
@@ -348,9 +322,7 @@ Câu trả lời nằm ở chính mỗi người, ở tôi, ở bạn và ở ch
 >
 > 
 
-Nhân dân là chủ nhân của đất nước, còn nhà nước là bộ máy được nhân dân thuê để quản lý đất nước và để bảo vệ các quyền mặc định và lợi ích hiển nhiên của mình. Và hiến pháp là công cụ để nhân dân tạo ra nhà nước, trao quyền cho nhà nước và kiểm soát nhà nước, chứ không phải là công cụ của nhà nước để trao quyền cho nhân dân và quản lý nhân dân. Do vậy, quyền lập hiến (hay còn gọi là quyền “lập quyền” vì quyền này sẽ tạo ra quyền lập pháp, quyền hành pháp và quyền tư pháp) phải thuộc về nhân dân. Nhà nước cũng không có quyền lập hiến mà chỉ có quyền lập pháp, hành pháp và tư pháp. Mọi hành động của nhà nước không được vi hiến. Nếu điều luật hay đạo luật hay hành động nào của nhà nước bị tòa bảo hiến tuyên là vi hiến thì điều luật hay đạo luật đó sẽ bị vô hiệu
-
-và hành động đó sẽ bị cấm.
+Nhân dân là chủ nhân của đất nước, còn nhà nước là bộ máy được nhân dân thuê để quản lý đất nước và để bảo vệ các quyền mặc định và lợi ích hiển nhiên của mình. Và hiến pháp là công cụ để nhân dân tạo ra nhà nước, trao quyền cho nhà nước và kiểm soát nhà nước, chứ không phải là công cụ của nhà nước để trao quyền cho nhân dân và quản lý nhân dân. Do vậy, quyền lập hiến (hay còn gọi là quyền “lập quyền” vì quyền này sẽ tạo ra quyền lập pháp, quyền hành pháp và quyền tư pháp) phải thuộc về nhân dân. Nhà nước cũng không có quyền lập hiến mà chỉ có quyền lập pháp, hành pháp và tư pháp. Mọi hành động của nhà nước không được vi hiến. Nếu điều luật hay đạo luật hay hành động nào của nhà nước bị tòa bảo hiến tuyên là vi hiến thì điều luật hay đạo luật đó sẽ bị vô hiệu và hành động đó sẽ bị cấm.
 
 > ### Quyền của nhân dân và quyền của nhà nước
 >
@@ -358,10 +330,4 @@ và hành động đó sẽ bị cấm.
 
 Nếu như nhà nước chỉ được làm những gì mà hiến pháp và pháp luật cho phép thì người dân được làm tất cả những gì mà pháp luật không cấm (tất nhiên những luật này không được vi hiến). Đây cũng là một trong những nguyên tắc cơ bản của một xã hội dân chủ và nhà nước pháp quyền.
 
-Với nguyên tắc này, người dân được tự do, được
-
-hưởng các quyền tự do mặc định và hiền nhiên của mình, và quyền của người dân gần như là vô hạn (thường chỉ bị giới hạn những quyền mà có thể phương hại đến người khác). Những quyền mà người dân bị cấm hay bị giới hạn này sẽ được quy định rõ trong pháp luật. Còn quyền của nhà nước sẽ rất bị giới hạn. Trong hiến pháp và pháp luật luôn phải làm rõ nhà nước được làm gì (đây là quyền nên thích thì làm không thích thì thôi), phải làm gì (đây là nghĩa vụ buộc phải làm cho dù có muốn hay không) và cấm làm gì (đây là nghĩa vụ không được làm cho dù rất muốn làm). Ngoài những quyền và nghĩa vụ được quy
-
-định rõ này, nhà nước không được phép thực hiện các
-
-quyền và nghĩa vụ khác.
+Với nguyên tắc này, người dân được tự do, được hưởng các quyền tự do mặc định và hiền nhiên của mình, và quyền của người dân gần như là vô hạn (thường chỉ bị giới hạn những quyền mà có thể phương hại đến người khác). Những quyền mà người dân bị cấm hay bị giới hạn này sẽ được quy định rõ trong pháp luật. Còn quyền của nhà nước sẽ rất bị giới hạn. Trong hiến pháp và pháp luật luôn phải làm rõ nhà nước được làm gì (đây là quyền nên thích thì làm không thích thì thôi), phải làm gì (đây là nghĩa vụ buộc phải làm cho dù có muốn hay không) và cấm làm gì (đây là nghĩa vụ không được làm cho dù rất muốn làm). Ngoài những quyền và nghĩa vụ được quy định rõ này, nhà nước không được phép thực hiện các quyền và nghĩa vụ khác.

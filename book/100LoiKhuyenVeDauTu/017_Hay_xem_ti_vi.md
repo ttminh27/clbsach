@@ -2,9 +2,7 @@
 
 **FRANK COOK**
 
-*Frank Cook là người chuyên viết về bất động sản. Các cuốn sách bán chạy nhất của ông bao gồm: "21 điều tôi ước gì người môi giới đã nói với tôi", "Bạn sẽ không mua ngôi nhà này đúng không?", và "21 điều những người khảo sát nhà đất nên biết".* Lời khuyên tốt nhất tôi từng nhận được là từ một người mua, đồng thời là
-
-nhà môi giới - Jim Warkinton, ở Bắc Virginia. Ông ta nói với tôi rằng nếu tôi muốn kinh doanh bất động sản thành công, tôi nên xem ti vi.
+*Frank Cook là người chuyên viết về bất động sản. Các cuốn sách bán chạy nhất của ông bao gồm: "21 điều tôi ước gì người môi giới đã nói với tôi", "Bạn sẽ không mua ngôi nhà này đúng không?", và "21 điều những người khảo sát nhà đất nên biết".* Lời khuyên tốt nhất tôi từng nhận được là từ một người mua, đồng thời là nhà môi giới - Jim Warkinton, ở Bắc Virginia. Ông ta nói với tôi rằng nếu tôi muốn kinh doanh bất động sản thành công, tôi nên xem ti vi.
 
 Theo ông, tín hiệu cho thấy thị trường đầu cơ bắt đầu thay đổi là khi các nhân viên bất động sản xuất hiện trên truyền hình và nói về chủ điểm: thời điểm này đầu tư vào loại bất động sản nào là tốt nhất.
 

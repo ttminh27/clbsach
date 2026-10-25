@@ -92,15 +92,9 @@ Năm 1989, các nhà lãnh đạo thế giới đã phê chuẩn công ước tr
 
 Công ước về Quyền trẻ em đã được phê duyệt ở hầu hết tất cả các nước trên thế giới. Bất kỳ quốc gia nào phê chuẩn hiệp ước này đều phải cam kết bảo đảm rằng quyền của trẻ em luôn luôn được bảo vệ.
 
-Công ước này chỉ ra rằng cha mẹ có vai trò chính trong việc nuôi
+Công ước này chỉ ra rằng cha mẹ có vai trò chính trong việc nuôi dạy con. Cha mẹ là những người thầy, người dẫn dắt và là hình mẫu lý tưởng quan trọng nhất cho con.
 
-dạy con. Cha mẹ là những người thầy, người dẫn dắt và là hình
-
-mẫu lý tưởng quan trọng nhất cho con.
-
-Nhưng cha mẹ không phải chủ sở hữu của con. Các nguyên tắc nhân quyền bảo đảm không ai có thể là tài sản
-
-của ai.
+Nhưng cha mẹ không phải chủ sở hữu của con. Các nguyên tắc nhân quyền bảo đảm không ai có thể là tài sản của ai.
 
 Công ước quyền trẻ em có nội dung như sau:
 

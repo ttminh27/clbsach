@@ -2,9 +2,7 @@
 
 **CROSBY DOE**
 
-*Crosby Doe là thành viên của Mossler & Doe - công ty do ông cùng David Mossler thành lập. Công ty này đại diện cho thân chủ bán các tài sản bất động sản như các ngôi nhà có tính lịch sử và kiến trúc lâu đời, chủ yếu là ở Nam California* Ông chủ đầu tiên của tôi - người đàn ông có tên là Larry O’Rourke - đã
-
-cho tôi lời khuyên tốt nhất trong kinh doanh bất động sản. Khi đó, tức là vào năm 1973, tôi tròn 26 tuổi. Ông nói với tôi rằng, với những người kinh doanh, thành công trong kinh doanh bất động sản thể hiện ở những con số. Bạn đã gọi điện cho bao nhiêu người? Bạn đã bán được bao nhiêu nhà? Bạn đã tới thăm bao nhiêu khách hàng? Thành công không phải từ trên trời rơi xuống. Nó bắt nguồn từ làm việc chăm chỉ và những mối liên hệ mua bán trực tiếp.
+*Crosby Doe là thành viên của Mossler & Doe - công ty do ông cùng David Mossler thành lập. Công ty này đại diện cho thân chủ bán các tài sản bất động sản như các ngôi nhà có tính lịch sử và kiến trúc lâu đời, chủ yếu là ở Nam California* Ông chủ đầu tiên của tôi - người đàn ông có tên là Larry O’Rourke - đã cho tôi lời khuyên tốt nhất trong kinh doanh bất động sản. Khi đó, tức là vào năm 1973, tôi tròn 26 tuổi. Ông nói với tôi rằng, với những người kinh doanh, thành công trong kinh doanh bất động sản thể hiện ở những con số. Bạn đã gọi điện cho bao nhiêu người? Bạn đã bán được bao nhiêu nhà? Bạn đã tới thăm bao nhiêu khách hàng? Thành công không phải từ trên trời rơi xuống. Nó bắt nguồn từ làm việc chăm chỉ và những mối liên hệ mua bán trực tiếp.
 
 Tôi sẽ đưa ra đây một ví dụ. Tôi xác định được 1.000 căn nhà có giá trị về lịch sử và kiến trúc. Tôi liên lạc với chủ sở hữu của các căn nhà đó. Nếu cứ sau khoảng 10 năm lại có một người chuyển nhà thì trung bình mỗi năm sẽ có 100 “ngôi nhà đáng quan tâm” được rao bán trên thị trường và tôi chính là người đại diện để bán những ngôi nhà đó. Kể từ đó, mọi việc đều trở nên dễ dàng.
 

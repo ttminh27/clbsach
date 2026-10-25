@@ -10,9 +10,7 @@
 
 ---
 
-Khi tôi đến nói chuyện với sinh viên đại học hay sau đại học,
-
-họ bao giờ cũng hỏi tôi, Bí mật nào dẫn ông đến thành công? Những quy luật bất thành văn nào giúp ta thành công? Dĩ nhiên, họ muốn tôi đưa ra một câu trả lời đơn giản và gọn gàng như một hộp quà thắt nơ. Mà sao lại không? Hồi tôi còn trẻ tôi cũng chỉ mong có thế.
+Khi tôi đến nói chuyện với sinh viên đại học hay sau đại học, họ bao giờ cũng hỏi tôi, Bí mật nào dẫn ông đến thành công? Những quy luật bất thành văn nào giúp ta thành công? Dĩ nhiên, họ muốn tôi đưa ra một câu trả lời đơn giản và gọn gàng như một hộp quà thắt nơ. Mà sao lại không? Hồi tôi còn trẻ tôi cũng chỉ mong có thế.
 
 “Vậy là các bạn muốn biết bí mật chứ gì,” tôi trả lời. “Cũng được thôi. Tôi sẽ tóm tắt chìa khóa thành công bằng một từ duy nhất: quảng đại.”
 

@@ -317,9 +317,7 @@ Bây giờ hãy so sánh từng phản ứng với những gì chúng ta biết 
 
 Nếu bạn chọn cách 3, xin chúc mừng bạn!
 
-Trẻ em có quyền được bảo vệ khỏi tất cả các hình thức bạo lực về
-
-thân thể và tinh thần
+Trẻ em có quyền được bảo vệ khỏi tất cả các hình thức bạo lực về thân thể và tinh thần
 
 > *Điều 19: Công ước Liên hợp quốc về Quyền trẻ em*
 
@@ -428,9 +426,7 @@ Bây giờ hãy so sánh từng phản ứng với những gì chúng ta biết 
 
 Nếu bạn chọn cách 3, xin chúc mừng bạn!
 
-Trẻ em có quyền được hưởng chăm sóc y tế tốt nhất có thể và
-
-được hưởng các chế độ dinh dưỡng phù hợp.
+Trẻ em có quyền được hưởng chăm sóc y tế tốt nhất có thể và được hưởng các chế độ dinh dưỡng phù hợp.
 
 Điều 24: Công ước Liên hợp quốc về Quyền trẻ em
 
@@ -687,9 +683,7 @@ Bây giờ hãy so sánh từng phản ứng với những gì chúng ta biết 
 
 Nếu bạn chọn cách 3, xin chúc mừng bạn!
 
-Trẻ em có quyền được bảo vệ khỏi tất cả các hình thức bạo lực thân
-
-thể và tinh thần
+Trẻ em có quyền được bảo vệ khỏi tất cả các hình thức bạo lực thân thể và tinh thần
 
 > *Điều 19: Công ước Liên hợp quốc về Quyền trẻ em*
 
@@ -2323,9 +2317,7 @@ Bây giờ hãy so sánh từng phản ứng với những gì chúng ta biết 
 
 Nếu bạn chọn cách 3, xin chúc mừng bạn!
 
-Trẻ em có quyền thể hiện quan điểm của mình về những vấn đề
-
-ảnh hưởng tới mình.
+Trẻ em có quyền thể hiện quan điểm của mình về những vấn đề ảnh hưởng tới mình.
 
 Điều 12 Công ước Liên hợp quốc về Quyền trẻ em
 

@@ -32,25 +32,17 @@ Kỷ luật tích cực cung cấp nền tảng cho các bậc cha mẹ. Đó l�
 
 Công ước về Quyền Trẻ em công nhận rằng, cha mẹ có quyền được trợ giúp trong việc thực hiện vai trò quan trọng của họ. Tài liệu này nhằm cung cấp thông tin và hỗ trợ cha mẹ học cách để xây dựng kỷ luật cho con của họ mà không dùng đến bạo lực.
 
-Cha mẹ có quyền được hỗ trợ và giúp đỡ trong việc
-
-nuôi dưỡng con.
+Cha mẹ có quyền được hỗ trợ và giúp đỡ trong việc nuôi dưỡng con.
 
 > *Điều 18 và 19: Công ước Liên Hợp Quốc về Quyền Trẻ em*
 
 **Kỷ luật tích cực đã kết hợp các vấn đề dưới đây: những điều chúng ta biết về sự phát triển lành mạnh của trẻ; các phát hiện từ nghiên cứu khoa học về làm cha mẹ hiệu quả và các nguyên tắc về quyền trẻ em.**
 
-Nghiên cứu về
-
-sự phát triển lành mạnh của trẻ
+Nghiên cứu về sự phát triển lành mạnh của trẻ
 
 **Kỉ luật tích cực**
 
-Các nguyên tắc về
-
-quyền trẻ em Nghiên cứu về làm cha mẹ
-
-hiệu quả
+Các nguyên tắc về quyền trẻ em Nghiên cứu về làm cha mẹ hiệu quả
 
 ## Tài liệu này dành cho ai?
 

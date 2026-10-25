@@ -168,11 +168,7 @@ Ví dụ, hãy xem thói quen bánh-quy-vào-buổi-chiều của tôi. Bằng c
 
 Thế nên tôi viết ra một kế hoạch:
 
-Lúc 3h30, mỗi ngày, tôi sẽ đi đến
-
-bàn làm việc của một người bạn
-
-và nói chuyện khoảng 10 phút.
+Lúc 3h30, mỗi ngày, tôi sẽ đi đến bàn làm việc của một người bạn và nói chuyện khoảng 10 phút.
 
 Để đảm bảo mình nhớ làm việc đó, tôi đặt chuông báo trên đồng hồ lúc 3h30.
 

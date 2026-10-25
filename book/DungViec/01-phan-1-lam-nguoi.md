@@ -379,11 +379,7 @@ Alice đáp lại: Tớ thật sự chẳng quan tâm lắm về cái nơi mà m
 
 Con mèo: Thế thì cậu cũng không cần quan tâm là nên đi đường nào! Một khi cậu đã không quan tâm đến cái nơi mà mình tới thì đi đường nào mà chẳng được!
 
-Quả thật, chẳng phải con mèo chịu thua trong việc chỉ đường cho Alice, mà ngay cả những người thông thái nhất cũng đành lắc đầu khi phải chỉ đường cho một người không hề biết rõ đích đến của mình là nơi đâu. Tương tự vậy, nếu không biết rõ đích đến của đời mình, thì việc chọn nghề nào cũng sẽ trở nên vô nghĩa với người chọn. Khi
-
-ấy, chuyện chọn sai, chọn nhầm, chọn ẩu và
-
-không tìm ra được chính mình trong công việc âu cũng chẳng phải là chuyện đáng ngạc nhiên lắm.
+Quả thật, chẳng phải con mèo chịu thua trong việc chỉ đường cho Alice, mà ngay cả những người thông thái nhất cũng đành lắc đầu khi phải chỉ đường cho một người không hề biết rõ đích đến của mình là nơi đâu. Tương tự vậy, nếu không biết rõ đích đến của đời mình, thì việc chọn nghề nào cũng sẽ trở nên vô nghĩa với người chọn. Khi ấy, chuyện chọn sai, chọn nhầm, chọn ẩu và không tìm ra được chính mình trong công việc âu cũng chẳng phải là chuyện đáng ngạc nhiên lắm.
 
 Nếu như “tìm ra chính mình” ở khía cạnh con người văn hóa là tìm ra “co: người bên trong” của mình, con người lương tri, con người phẩm giá của mình, là tìm ra lẽ sống và giá trị sống của đời mình, thì “tìm ra chính mình” ở khía cạnh con người công việc chính là trả lời được câu hỏi: Rốt cuộc là mình thật sự mê việc gì, ghét việc gì, giỏi việc gì và giỏi cỡ nào?
 
@@ -393,11 +389,7 @@ Vậy làm sao để tìm ra chính mình?
 
 - Hỏi những người uyên bác nhất mà mình biết và họ cũng hiểu phần nào về mình xem họ nhận xét về mình ra sao.
 
-Tất nhiên, không dễ gì để cho người khác nói
-
-cho mình nghe nhận xét thực của họ về mình,
-
-về tố chất và tiềm năng của mình, về cái hay, cái dở của mình. Và những gì họ nói không hẳn là cái gì cũng đúng, nhưng cho dù đúng hay không thì cũng cho mình có thêm góc nhìn về mình, từ đó giúp mình hiểu mình hơn. - Tự đánh giá lại quá khứ học hành, công việc và cuộc sống của mình xem rốt cuộc là mình mê gì, ghét gì, giỏi gì và giỏi cố nào. - áDám đặt ra mục tiêu cao hơn sức mình để dần thân nhằm biết mình là ai.
+Tất nhiên, không dễ gì để cho người khác nói cho mình nghe nhận xét thực của họ về mình, về tố chất và tiềm năng của mình, về cái hay, cái dở của mình. Và những gì họ nói không hẳn là cái gì cũng đúng, nhưng cho dù đúng hay không thì cũng cho mình có thêm góc nhìn về mình, từ đó giúp mình hiểu mình hơn. - Tự đánh giá lại quá khứ học hành, công việc và cuộc sống của mình xem rốt cuộc là mình mê gì, ghét gì, giỏi gì và giỏi cố nào. - áDám đặt ra mục tiêu cao hơn sức mình để dần thân nhằm biết mình là ai.
 
 Và có một cách nữa, là hãy thử chiêm nghiệm mình thông qua câu chuyện sau. Đây là một câu chuyện “cây nhà lá vườn” mà tôi đã “sáng tác” và chia sẻ trên nhiều diễn đàn trong suốt hơn chục năm nay:
 
@@ -495,15 +487,9 @@ Khi đã làm ra chính mình, ta chỉ việc sống đúng với con người 
 
 Và không chỉ Mahatma Gandhi, nhà tâm lý học trứ danh Abraham Maslow cũng chia sẻ trong “Tháp nhu cầu Maslouỹ” nổi tiếng của mình rằng, trong tháp nhu cầu của con người gồm năm mức thì mức cao nhất cũng có hàm ý nhu cầu “được sống đúng với cơn người của mình”, nhu cầu “được là chính mình”. Đây cũng chính là nhu cầu đặc biệt nhất của con người tự do / tự trị / nội trị.
 
-Nói cách khác, một trong những hạnh phúc lớn nhất của con người, một trong những nhu cầu cao nhất của con người là “được sống đúng với con người của mình”, được sống đúng với “đạo sống” (lẽ sống, giá trị sống, lương tâm, phẩm giá...) mà
+Nói cách khác, một trong những hạnh phúc lớn nhất của con người, một trong những nhu cầu cao nhất của con người là “được sống đúng với con người của mình”, được sống đúng với “đạo sống” (lẽ sống, giá trị sống, lương tâm, phẩm giá...) mà mình đã chọn và xác lập, và đạo sống này không trái với đạo luật của nhà nước và đạo lý của xã hội
 
-mình đã chọn và xác lập, và đạo sống này không
-
-trái với đạo luật của nhà nước và đạo lý của xã hội
-
-(nhất là xã hội văn minh, tiền bộ), cũng như “đạo
-
-thiêng” của tôn giáo mà mình chọn.
+(nhất là xã hội văn minh, tiền bộ), cũng như “đạo thiêng” của tôn giáo mà mình chọn.
 
 Mỗi người sẽ có một cách định nghĩa về hạnh phúc của riêng mình, do đó có vô số khái niệm và cách hiểu về hạnh phúc. Theo quan sát của tôi, có ba cách định nghĩa về hạnh phúc khá phổ biến sau đây:
 
@@ -541,17 +527,13 @@ Có một ông Việt kiều về nước cũng nhiều năm và thường thấ
 
 Nhưng ông chủ nhà hơi sựng lại khi nghe ông thầu khoán nói, không, ông cứ đí xem lại hết các hạng mục sửa chữa đi đã, nếu chỗ nào chưa ổn thì tôi sẽ cho sửa lại tà tôi chỉ lấy tiền khi mà ông thấu mọi thứ đã được sửa tốt, đúng thôn thuận và đúng ú ông. Ông chủ nhà hết sức ngục nhiên bề thái độ này của ông thầu khoán, tà nghĩ thầm, người In đàng hoàng vậy mà mình lại nghĩ không hay về người ta. Sau khi đi một pòng kiểm Ha các hạng mục công trình, ông chủ nhà rất hồi lòng bề chất lượng sửa chữn. Ông đã trao phong bì tiền công cho ông thầu khoán kèm thêm một số tiền thưởng bà không ngớt lời khen ngợi ông thầu khoán. Ông thầu khoán tui oẻ nhận tiền, cảm ơn bà ra ĐỀ.
 
-Ông thầu khoán trong câu chuyện này cũng có ba trạng thái, ba cấp độ hạnh phúc khi đi làm: - Trạng thái 1: Cảm thấy hạnh phúc nhất là
-
-khi nhận được phong bì tiền công từ chủ nhà
+Ông thầu khoán trong câu chuyện này cũng có ba trạng thái, ba cấp độ hạnh phúc khi đi làm: - Trạng thái 1: Cảm thấy hạnh phúc nhất là khi nhận được phong bì tiền công từ chủ nhà
 
 => Hạnh phúc khi kiếm được, có được cái mà mình muốn => Hạnh phúc khi mình có lợi lộc, khi mình có được cái gì đó => Thuộc dạng người “To Have” (chiếm hữu).
 
 - Trạng thái 2: Khi nhận được tiền thì cũng rất hạnh phúc, nhưng cảm thấy hạnh phúc hơn vì công việc của mình được chủ nhà hài lòng
 
-98
-
-và khen ngợi => Hạnh phúc khi được người khác trân trọng và chi nhận => Hạnh phúc khi mình có uy tín, khi mình cống hiến được cái gì đó => Thuộc loại người “To Give” (cống hiến). Thực ra, dạng người “To Give” cũng là loại người “To Have” nói trên (vì họ cũng muốn có được cái gì đó), nhưng cái họ muốn rất chỉ là dễ thương!
+98 và khen ngợi => Hạnh phúc khi được người khác trân trọng và chi nhận => Hạnh phúc khi mình có uy tín, khi mình cống hiến được cái gì đó => Thuộc loại người “To Give” (cống hiến). Thực ra, dạng người “To Give” cũng là loại người “To Have” nói trên (vì họ cũng muốn có được cái gì đó), nhưng cái họ muốn rất chỉ là dễ thương!
 
 Trạng thái 3: Khi nhận được tiền hay được khen ngợi về công việc của mình thì cũng rất hạnh phúc, nhưng cảm thấy hạnh phúc hơn vì khi đã làm xong công việc rồi, tự mình đi một vòng kiểm tra các hạng mục và cảm thấy rất hài lòng với chất lượng công việc của mình => Hạnh phúc thầm kín, không hổ then với lương lâm chức nghiệp của mình và thấu tự hào bề con người mình. Bởi lẽ chất lượng công việc cũng chính là “chất lượng con người” của mình, cả về năng lực lẫn phẩm cách. Bởi lẽ, mình đã nhìn thấu “con: người của mình” trong công việc. Bởi lẽ, không có niềm tự hào nào lớn hơn niềm tự hào thằm kín về “con người của mình” khi nó được hiện thực hóa Hong cả công việc hàng ngày lẫn trong CHỘC sống đời thường của mình => Hạnh phúc khi mình có phẩm giá, khi mình được là mình => Thuộc loại người “To Be” (là mình).
 

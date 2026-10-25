@@ -12,9 +12,7 @@ Sự thành công của chúng ta chỉ là vô nghĩa nếu không có ai đó 
 
 **1. Nếu bạn không biết rõ những giá trị và qui tắc của những người mà bạn chia sẻ quan hệ, chắc chắn bạn sẽ gặp đau khổ.**
 
-Người ta có thể yêu nhau, nhưng nếu vì lý do nào đó mà họ liên tục vi phạm các qui tắc của người mà mình thương, thì sẽ có buồn bực và dằn vặt trong
-
-mối quan hệ này. Bạn hãy nhớ rằng, mọi mối buồn bực bạn có với người khác đều là buồn bực vì sự vi phạm qui tắc và khi người ta có quan hệ mật thiết với nhau, thì sự đụng chạm giữa các qui tắc của nhau là điều không thể tránh. Nếu bạn biết rõ những qui tắc của một người, bạn có thể phòng ngừa trước được những đụng chạm như thế.
+Người ta có thể yêu nhau, nhưng nếu vì lý do nào đó mà họ liên tục vi phạm các qui tắc của người mà mình thương, thì sẽ có buồn bực và dằn vặt trong mối quan hệ này. Bạn hãy nhớ rằng, mọi mối buồn bực bạn có với người khác đều là buồn bực vì sự vi phạm qui tắc và khi người ta có quan hệ mật thiết với nhau, thì sự đụng chạm giữa các qui tắc của nhau là điều không thể tránh. Nếu bạn biết rõ những qui tắc của một người, bạn có thể phòng ngừa trước được những đụng chạm như thế.
 
 **2. Một rắc rối lớn trong các mối quan hệ là do sự kiện đa số người ta có quan hệ để được một điều gì đó:**
 

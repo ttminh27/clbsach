@@ -20,9 +20,7 @@ Không có cha mẹ nào là hoàn hảo. Chúng ta đều có những sai sót.
 
 Hãy vui hưởng hành trình làm cha mẹ tích cực của bạn
 
-Trong mọi hoạt động liên quan đến trẻ thì những lợi ích tốt nhất
-
-dành cho trẻ sẽ được xem xét đầu tiên.
+Trong mọi hoạt động liên quan đến trẻ thì những lợi ích tốt nhất dành cho trẻ sẽ được xem xét đầu tiên.
 
 Điều 3: Công ước Liên hợp quốc về Quyền trẻ em
 
@@ -50,11 +48,7 @@ Tài liệu này cung cấp các câu trả lời cụ thể cho các câu hỏi
 
 Tài liệu này dành cho các bậc cha mẹ có con ở mọi lứa tuổi từ sơ sinh đến thanh thiếu niên. Tài liệu này cũng có thể được sử dụng cho các nhân viên hỗ trợ gia đình, các nhà giáo dục cha mẹ và các nhà chuyên môn khác, những người làm việc với cha mẹ và trẻ em.
 
-Sự công nhận phẩm cách vốn có cũng như các quyền bình đẳng và không
-
-thể tước đoạt được của mọi thành viên trong cộng đồng con người là nền
-
-tảng của tự do, công lý và hòa bình trên thế giới.
+Sự công nhận phẩm cách vốn có cũng như các quyền bình đẳng và không thể tước đoạt được của mọi thành viên trong cộng đồng con người là nền tảng của tự do, công lý và hòa bình trên thế giới.
 
 *Lời mở đầu*
 

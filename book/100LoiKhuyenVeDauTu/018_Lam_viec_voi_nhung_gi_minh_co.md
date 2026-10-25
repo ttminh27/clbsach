@@ -4,9 +4,7 @@
 
 *Barbara Cororan là người sáng lập công ty The Corcoran Group - công ty bất động sản hàng đầu tại New York. Bà còn là tác giả của các cuốn sách: "Sử dụng những gì bạn có", "Những bài học kinh doanh khác tôi học được từ mẹ", "Nếu bạn không có bộ ngực lớn, hãy thắt ruy băng lên bím tóc"*
 
-(Trích từ cuốn “Nếu bạn không có bộ ngực lớn, hãy thắt ruy băng lên bím
-
-tóc” của Barbara Corconan, nhà xuất bản Penguin Group. Sử dụng với sự cho phép của Barbara Corcoran.)
+(Trích từ cuốn “Nếu bạn không có bộ ngực lớn, hãy thắt ruy băng lên bím tóc” của Barbara Corconan, nhà xuất bản Penguin Group. Sử dụng với sự cho phép của Barbara Corcoran.)
 
 Câu chuyện về việc kinh doanh triệu đô của tôi bắt đầu như thế này: Tôi vay bạn tôi một nghìn đô la. Thực ra, không phải tôi vay mà là anh ấy đưa cho tôi. Và anh ấy không chỉ là một người bạn mà còn là bạn trai của tôi. Khi tôi chuyển tới căn hộ đầu tiên của mình tại đường 86 Tây với hai người bạn cùng phòng nữa, tôi có một nghìn đô la để mở một công ty bất động sản.
 

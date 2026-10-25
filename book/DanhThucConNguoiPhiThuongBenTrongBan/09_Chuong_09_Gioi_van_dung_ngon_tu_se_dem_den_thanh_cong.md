@@ -8,9 +8,7 @@ Các từ được nói ra...Chúng làm chúng ta cười và làm chúng ta kh
 
 Trong suốt lịch sử loài người, các bậc lãnh tụ và các nhà tư tưởng lớn đã sử dụng sức mạnh của ngôn từ để thay đổi những cảm xúc của chúng ta, lôi kéo chúng ta đi theo đường lối của họ và hình thành dòng định mệnh. Ngôn từ không chỉ tạo nên những cảm xúc mà còn tạo nên hành động. Và từ những hành động, chúng ta có những kết quả trong cuộc đời. Khi Patrick Henry đứng trước các đồng nghiệp và tuyên bố, "Tôi không biết những người khác chọn con đường nào; nhưng riêng tôi, hãy cho tôi tự do, hay cho tôi cái chết!" Những lời của ông đã thổi bùng lên ngọn lửa đấu tranh bừng bừng nơi những người công dân Mỹ xưa kia để thiêu hủy nền độc tài đã từng áp bức họ quá lâu.
 
-Trong thế chiến II, khi sự sống còn của nước Anh gặp nguy hiểm, những lời nói của một người đã động viên ý chí của cả dân tộc Anh. Người ta nói rằng Winston Churchill đã có cái thiên tài đưa ngôn ngữ Anh vào chiến trận. Lời kêu gọi lừng danh của ông tới mọi công dân Anh đã làm cho giờ phút đó trở thành "giờ phút thiêng liêng nhất" của họ đã nung nấu chí dũng cảm vô bờ
-
-của họ và đã làm tiêu tan ảo tưởng của Hitler về bộ máy chiến tranh bất khả chiến bại của ông ta.
+Trong thế chiến II, khi sự sống còn của nước Anh gặp nguy hiểm, những lời nói của một người đã động viên ý chí của cả dân tộc Anh. Người ta nói rằng Winston Churchill đã có cái thiên tài đưa ngôn ngữ Anh vào chiến trận. Lời kêu gọi lừng danh của ông tới mọi công dân Anh đã làm cho giờ phút đó trở thành "giờ phút thiêng liêng nhất" của họ đã nung nấu chí dũng cảm vô bờ của họ và đã làm tiêu tan ảo tưởng của Hitler về bộ máy chiến tranh bất khả chiến bại của ông ta.
 
 Hầu hết các niềm tin của chúng ta được hình thành bằng các từ ngữ và cũng có thể được thay đổi bởi từ ngữ. Chúng ta không thể nào quên được lời kêu gọi cảm động của Martin Luther King khi ông chia sẽ viễn ảnh của ông về một đất nước không còn kỳ thị chủng tộc: *"Tôi có một ước mơ là một ngày nào đó đất nước này sẽ vùng lên và sống ý nghĩa đích thực của niềm tin của mình..."*
 

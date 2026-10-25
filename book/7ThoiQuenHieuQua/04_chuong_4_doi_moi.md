@@ -40,25 +40,17 @@ Bạn gặp ai đó đang miệt mài cưa một cái cây trong rừng, bạn h
 
 ### THỂ CHẤT
 
-Luyện tập, dinh dưỡng,
-
-kiểm soát stress
+Luyện tập, dinh dưỡng, kiểm soát stress
 
 ### QUAN HỆ XÃ HỘI/
 
 ### TINH CẢM
 
-Phục vụ, thấu hiểu, đồng tâm hiệp lực, an
-
-toàn nội tại
+Phục vụ, thấu hiểu, đồng tâm hiệp lực, an toàn nội tại
 
 ### TINH THẦN
 
-Làm rõ giá trị và
-
-cam kết, nghiên
-
-cứu, thiền định
+Làm rõ giá trị và cam kết, nghiên cứu, thiền định
 
 ### TRÍ TUỆ
 
@@ -98,9 +90,7 @@ Bạn được coi là có sức khỏe nếu có thể làm tăng nhịp tim l�
 
 Bản chất của sự tăng cường thể chất là ***rèn giũa bản thân,*** rèn luyện thân thể thường xuyên để có thể duy trì và nâng cao hiệu suất làm việc, thích nghi và hưởng thụ.
 
-Cũng cần phải có sự hiểu biết trong việc xây dựng chương trình luyện tập. Mọi người thường có xu hướng tập luyện quá sức, đặc biệt là những người không rèn luyện thường xuyên. Điều đó có thể gây ra đau đớn, thương tích
-
-không cần thiết và thậm chí thương tật vĩnh viễn. Tốt hơn cả là nên bắt đầu chậm rãi. Mọi chương trình luyện tập đều cần phải tuân theo các kết quả nghiên cứu mới nhất, các chỉ dẫn của huấn luyện viên và theo sự tự nhận thức của bản thân.
+Cũng cần phải có sự hiểu biết trong việc xây dựng chương trình luyện tập. Mọi người thường có xu hướng tập luyện quá sức, đặc biệt là những người không rèn luyện thường xuyên. Điều đó có thể gây ra đau đớn, thương tích không cần thiết và thậm chí thương tật vĩnh viễn. Tốt hơn cả là nên bắt đầu chậm rãi. Mọi chương trình luyện tập đều cần phải tuân theo các kết quả nghiên cứu mới nhất, các chỉ dẫn của huấn luyện viên và theo sự tự nhận thức của bản thân.
 
 Nếu bạn chưa bao giờ luyện tập, cơ thể của bạn sẽ chiều theo thói quen được nghỉ ngơi thoải mái. Tuy nhiên, bạn hãy luôn chủ động và cố gắng luyện tập, dù lúc đầu có thể phải miễn cưỡng. Dù trời có mưa vào đúng buổi sáng bạn có kế hoạch tập chạy bộ thì bạn vẫn cứ tập. Trời mưa ư, càng tốt! Bạn sẽ rèn luyện cả thể chất lẫn ý chí.
 
@@ -112,9 +102,7 @@ Có thể lợi ích lớn nhất bạn có được từ việc rèn luyện th
 
 “Rèn giũa” tinh thần mang lại sự định hướng cho cuộc sống của bạn. Điều này có quan hệ chặt chẽ với Thói quen thứ hai.
 
-Tinh thần là cốt lõi, là trung tâm, là sự cam kết của bạn
-
-đối với hệ thống giá trị của mình. Đây là lĩnh vực rất riêng tư nhưng cực kỳ quan trọng của cuộc sống. Nó sẽ huy động các nguồn lực để tạo nguồn cảm hứng, nâng cao tâm hồn và gắn bạn với những chân lý muôn thuở của nhân loại. Mỗi người thực hiện điều này rất khác nhau.
+Tinh thần là cốt lõi, là trung tâm, là sự cam kết của bạn đối với hệ thống giá trị của mình. Đây là lĩnh vực rất riêng tư nhưng cực kỳ quan trọng của cuộc sống. Nó sẽ huy động các nguồn lực để tạo nguồn cảm hứng, nâng cao tâm hồn và gắn bạn với những chân lý muôn thuở của nhân loại. Mỗi người thực hiện điều này rất khác nhau.
 
 Tôi “rèn giũa” tinh thần hàng ngày qua sự suy ngẫm kinh thánh, vì nó đại diện cho hệ thống giá trị của tôi. Khi tôi đọc và suy ngẫm, tôi cảm thấy mình được đổi mới, được tiếp thêm sức mạnh, tập trung và củng cố quyết tâm để cống hiến.
 
@@ -150,9 +138,7 @@ Trí tuệ của chúng ta phát triển đến mức nào đa phần phụ thu�
 
 Kết quả khảo sát cho thấy tại hầu hết các gia đình, thời gian mở TV là từ 35 đến 45 giờ một tuần. Thời gian đó bằng thời gian làm việc hàng tuần của nhiều người, nhiều hơn thời gian dành cho việc học. Điều đó cho thấy ảnh hưởng xã hội rất lớn của TV. Chúng ta cũng bị chi phối bởi mọi giá trị được truyền đạt thông qua truyền hình. Điều đó có thể có ảnh hưởng đến chúng ta một cách tinh tế và khó nhận thấy. Xem truyền hình một cách khôn ngoan đòi hỏi phải biết tự quản lý bản thân hiệu quả theo Thói quen thứ ba, giúp bạn phân biệt và lựa chọn các chương trình thông tin, truyền cảm hứng và giải trí có lợi nhất và phù hợp với mục đích và giá trị của bạn.
 
-Trong gia đình tôi, chúng tôi hạn chế thời gian xem TV khoảng 7 giờ một tuần, trung bình mỗi ngày khoảng một
-
-giờ. Chúng tôi họp gia đình, thảo luận và xem xét các số liệu về tác động của TV đến cuộc sống gia đình. Qua thảo luận, chúng tôi nhận ra rằng nhiều người trở nên ghiền các chương trình phim truyền hình nhiều tập ủy mị hay một loại chương trình đặc biệt nào đó.
+Trong gia đình tôi, chúng tôi hạn chế thời gian xem TV khoảng 7 giờ một tuần, trung bình mỗi ngày khoảng một giờ. Chúng tôi họp gia đình, thảo luận và xem xét các số liệu về tác động của TV đến cuộc sống gia đình. Qua thảo luận, chúng tôi nhận ra rằng nhiều người trở nên ghiền các chương trình phim truyền hình nhiều tập ủy mị hay một loại chương trình đặc biệt nào đó.
 
 Tôi phải cám ơn các phát minh mới trong lĩnh vực giải trí đã làm phong phú đời sống tinh thần, đóng góp vào mục đích và ý nghĩa của cuộc sống chúng ta. Nhưng nhiều chương trình giải trí chỉ làm mất thời gian, ảnh hưởng xấu đến sức khỏe, nhận thức thẩm mỹ của chúng ta nếu chúng ta quá phụ thuộc vào nó. Chúng ta cần rèn luyện Thói quen thứ ba và quản lý bản thân hiệu quả để sử dụng được tối đa mọi nguồn lực nhằm nâng cao chất lượng cuộc sống của mình.
 
@@ -160,9 +146,7 @@ Học tập, học tập không ngừng, không ngừng “rèn giũa” và m�
 
 Rèn luyện phương pháp tách rời chương trình học của chính mình và xem xét nó là một điều cực kỳ có giá trị. Theo tôi, đó chính là nội dung cốt yếu của phương pháp học tập tự do, tức khả năng xem xét các câu hỏi, mục đích và các mô thức trong quá trình đối chiếu với thực tế khách quan. Đào tạo một cách rập khuôn, máy móc sẽ thu hẹp và đóng kín tư duy, làm cho những giả thiết được đưa ra trong quá trình học không bao giờ được xem xét, mổ xẻ thấu đáo.
 
-Không có cách nào tăng cường và mở rộng sự hiểu biết của mình tốt hơn việc tạo thói quen thường xuyên đọc
-
-sách. Đây là một hoạt động khác nằm trong Phần tư thứ hai. Qua đó, bạn có thể tiếp cận với những tư tưởng lớn trên thế giới qua các thời đại. Tôi khuyên các bạn nên bắt đầu bằng mục tiêu đọc một cuốn sách một tháng, sau đó một cuốn hai tuần, rồi một cuốn một tuần.
+Không có cách nào tăng cường và mở rộng sự hiểu biết của mình tốt hơn việc tạo thói quen thường xuyên đọc sách. Đây là một hoạt động khác nằm trong Phần tư thứ hai. Qua đó, bạn có thể tiếp cận với những tư tưởng lớn trên thế giới qua các thời đại. Tôi khuyên các bạn nên bắt đầu bằng mục tiêu đọc một cuốn sách một tháng, sau đó một cuốn hai tuần, rồi một cuốn một tuần.
 
 Những cuốn sách có giá trị sẽ giúp chúng ta mở rộng nhận thức về văn hóa, đổi mới tinh thần cũng như thanh lọc tâm hồn. Đặc biệt, nếu thực hành Thói quen thứ năm, nghĩa là không dùng cái nhìn chủ quan của mình để phán xét vội vàng, chúng ta có thể hiểu một cách thấu đáo nội dung, ý nghĩa mà tác giả muốn chuyển tải dưới lớp ngôn từ.
 
@@ -196,9 +180,7 @@ Dựa vào cam kết tìm ra giải pháp mà cả hai bên đều hài lòng v�
 
 Sự thành công của Thói quen 4, 5 và 6 không phụ thuộc vào trí tuệ, mà là tình cảm. Điều này nằm ở nhận thức về sự an toàn của chúng ta.
 
-Nếu cảm giác an toàn xuất phát từ các nguồn lực bên trong, chúng ta sẽ có sức mạnh để thực hành các thói quen thuộc phạm trù ***thành tích cá nhân***. Sự an toàn nội tại có được từ đâu? Nó không nảy sinh từ việc người khác nghĩ về
-
-bạn như thế nào, hay cư xử với bạn ra sao. Nó không xuất phát từ kịch bản mà ai đó trao cho bạn. Nó cũng không phát sinh từ hoàn cảnh hay lập trường của bạn. Nó bắt nguồn từ bên trong, từ những mô thức chính xác và các nguyên tắc đúng đắn nằm sâu trong khối óc và con tim của chúng ta. Nó nảy sinh từ lối sống trung thực, trong đó những thói quen hàng ngày phản ảnh những giá trị sâu sắc nhất của chúng ta.
+Nếu cảm giác an toàn xuất phát từ các nguồn lực bên trong, chúng ta sẽ có sức mạnh để thực hành các thói quen thuộc phạm trù ***thành tích cá nhân***. Sự an toàn nội tại có được từ đâu? Nó không nảy sinh từ việc người khác nghĩ về bạn như thế nào, hay cư xử với bạn ra sao. Nó không xuất phát từ kịch bản mà ai đó trao cho bạn. Nó cũng không phát sinh từ hoàn cảnh hay lập trường của bạn. Nó bắt nguồn từ bên trong, từ những mô thức chính xác và các nguyên tắc đúng đắn nằm sâu trong khối óc và con tim của chúng ta. Nó nảy sinh từ lối sống trung thực, trong đó những thói quen hàng ngày phản ảnh những giá trị sâu sắc nhất của chúng ta.
 
 Tôi tin rằng sống với chính bản thân mình là nguồn gốc cơ bản nhất của giá trị cá nhân. Tôi không đồng ý với những ai cho rằng bạn có thể nỗ lực để có được sự bình an trong tâm hồn. Sự bình an trong tâm hồn chỉ có được khi cuộc sống của bạn phù hợp với các nguyên tắc và giá trị đích thực. Không có con đường nào khác để đạt được sự bình an đó.
 
@@ -236,9 +218,7 @@ Một trong những câu chuyện khác minh chứng cho việc mô thức biế
 
 Sau năm tháng rưỡi, ban giám hiệu phát hiện ra sai sót. Họ quyết định âm thầm kiểm tra lại trình độ của các em học sinh lần nữa. Và kết quả thật kinh ngạc. Những đứa trẻ “giỏi” thì có điểm số khá thấp. Chúng bị xem là bướng bỉnh và khó bảo. Những mô thức của giáo viên đã trở thành một lời tiên tri.
 
-Còn điểm số của những em học sinh “kém” lại có tiến bộ vượt bậc. Các giáo viên đã cư xử với chúng như là những học sinh thông minh; niềm hy vọng, lạc quan, sự kỳ
-
-vọng và hứng thú của họ đã tác động tích cực đến những em này.
+Còn điểm số của những em học sinh “kém” lại có tiến bộ vượt bậc. Các giáo viên đã cư xử với chúng như là những học sinh thông minh; niềm hy vọng, lạc quan, sự kỳ vọng và hứng thú của họ đã tác động tích cực đến những em này.
 
 Goethe *(*) * từng nói rằng: “Chúng ta đối xử với một người như thế nào thì anh ta sẽ trở thành con người như thế ấy”. Chúng ta sẽ phản ánh cho người khác điều gì về bản thân họ? Và sự phản ánh đó có ảnh hưởng như thế nào đến cuộc sống của họ? Chúng ta có nhiều thứ để có thể đầu tư vào *** tài khoản tình cảm*** của người khác. Càng nhìn thấy tiềm năng trong người khác bao nhiêu, chúng ta càng có thể phát huy trí tưởng tượng và sức sáng tạo trong mình bấy nhiêu. Chúng ta có thể giúp đỡ họ trở thành những con người độc lập, có khả năng xây dựng mối quan hệ tương thuộc với người khác.
 
@@ -258,9 +238,7 @@ Tôi đã thấy những tổ chức mà mục tiêu duy nhất là kinh tế �
 
 Ở thái cực khác, tôi lại thấy có những tổ chức hầu như chỉ tập trung vào khía cạnh xã hội/tình cảm. Theo một nghĩa nào đó thì những tổ chức này dường như không cần đến các tiêu chuẩn kinh tế cho hệ thống giá trị của mình. Họ không có thước đo hay công cụ đo lường sự thành đạt, và do đó, họ đánh mất tính hiệu quả, sau đó là tính cạnh tranh trên thị trường.
 
-Tôi cũng gặp nhiều tổ chức xây dựng được cùng lúc ba mặt sau: tiêu chuẩn cung cấp dịch vụ tốt, tiêu chuẩn kinh tế tốt, quan hệ với nhân viên và khách hàng tốt, nhưng lại không thực sự quyết tâm nhận diện, phát triển, sử dụng và công nhận những người tài năng. Nếu không có một lực lượng nhân viên
-
-xuất sắc thì tổ chức đó sẽ nhanh chóng đi đến sự chuyên quyền, tạo ra thứ văn hóa chống đối có tính tập thể và phải luôn đối đầu với tốc độ thay thế nhân viên quá nhanh…
+Tôi cũng gặp nhiều tổ chức xây dựng được cùng lúc ba mặt sau: tiêu chuẩn cung cấp dịch vụ tốt, tiêu chuẩn kinh tế tốt, quan hệ với nhân viên và khách hàng tốt, nhưng lại không thực sự quyết tâm nhận diện, phát triển, sử dụng và công nhận những người tài năng. Nếu không có một lực lượng nhân viên xuất sắc thì tổ chức đó sẽ nhanh chóng đi đến sự chuyên quyền, tạo ra thứ văn hóa chống đối có tính tập thể và phải luôn đối đầu với tốc độ thay thế nhân viên quá nhanh…
 
 Nói tóm lại, sự thành đạt của tổ chức cũng như của cá nhân đòi hỏi phải phát triển và tự đổi mới cả bốn mặt một cách đúng đắn và cân bằng. Bỏ qua mặt nào cũng sẽ tạo ra ***áp lực kìm hãm*** chống lại sự thành công và phát triển.
 
@@ -280,9 +258,7 @@ Khi tự đổi mới về mặt thể chất, bạn sẽ củng cố tầm nhì
 
 Khi tự đổi mới tinh thần, bạn sẽ củng cố được việc ***lãnh đạo bản thân*** (Thói quen 2). Bạn sẽ tăng cường được khả năng hòa nhập cộng đồng thay vì chỉ hiểu những mô thức và giá trị của riêng mình. Bạn sẽ xác định sứ mệnh của mình trong cuộc sống và định hình bản thân trong sự hài hòa với các nguyên tắc đúng đắn. Cuộc sống cá nhân phong phú do bạn tạo ra nhờ tự đổi mới tinh thần sẽ là những “khoản gửi” to lớn vào tài khoản an toàn cá nhân của bạn.
 
-Khi tự đổi mới trí tuệ, bạn sẽ củng cố khả năng ***quản lý bản thân*** (Thói quen 3). Khi lập kế hoạch, bạn buộc ý chí phải thừa nhận những hoạt động thuộc Phần tư thứ hai, những mục tiêu, ưu tiên, và các hoạt động khác nhằm phát huy tối đa việc sử dụng thời gian và sức lực của bạn. Bạn sẽ tổ chức và thực hiện những hoạt động này xoay quanh các ưu tiên của mình. Khi trau dồi tri thức, bạn sẽ gia tăng cho mình vốn kiến thức cũng như khả năng lựa chọn. Sự đảm bảo về kinh tế của bạn không nằm ở công việc bạn đang làm; nó nằm ở năng lực của bạn – suy nghĩ, học hỏi, sáng tạo và thích ứng. Đó chính là sự độc lập về tài chính đích thực. Đó không phải là sở hữu của cải; mà là có sức mạnh
-
-để làm ra của cải. Đó là nội lực của bạn.
+Khi tự đổi mới trí tuệ, bạn sẽ củng cố khả năng ***quản lý bản thân*** (Thói quen 3). Khi lập kế hoạch, bạn buộc ý chí phải thừa nhận những hoạt động thuộc Phần tư thứ hai, những mục tiêu, ưu tiên, và các hoạt động khác nhằm phát huy tối đa việc sử dụng thời gian và sức lực của bạn. Bạn sẽ tổ chức và thực hiện những hoạt động này xoay quanh các ưu tiên của mình. Khi trau dồi tri thức, bạn sẽ gia tăng cho mình vốn kiến thức cũng như khả năng lựa chọn. Sự đảm bảo về kinh tế của bạn không nằm ở công việc bạn đang làm; nó nằm ở năng lực của bạn – suy nghĩ, học hỏi, sáng tạo và thích ứng. Đó chính là sự độc lập về tài chính đích thực. Đó không phải là sở hữu của cải; mà là có sức mạnh để làm ra của cải. Đó là nội lực của bạn.
 
 > Thành tích cá nhân hàng ngày là chìa khóa để phát triển 7 Thói quen và điều này hoàn toàn nằm trong Vòng tròn Ảnh hưởng của bạn. Đó là tiêu điểm thời gian của Phần tư thứ hai cần thiết để đưa những thói quen này hòa nhập vào cuộc sống của bạn - lấy nguyên tắc làm trọng tâm.
 
@@ -294,9 +270,7 @@ Khi tự đổi mới trí tuệ, bạn sẽ củng cố khả năng ***quản l
 
 > Lương tâm là khả năng thiên phú có thể cảm nhận được sự đồng nhất hay khác biệt giữa chúng ta với những nguyên tắc đúng đắn và nâng chúng ta lên ngang tầm với nó – khi nó được hình thành.
 
-Nếu việc rèn luyện thần kinh và cơ bắp rất quan trọng đối với một vận động viên điền kinh, việc rèn luyện trí tuệ là cần thiết đối với học giả, thì việc rèn luyện ***lương tâm*** cũng
-
-quan trọng và cần thiết không kém đối với những cá nhân thực sự tự chủ và thành đạt. Tuy nhiên, học tập và rèn luyện lương tâm đòi hỏi một sự tập trung cao hơn, kỷ luật chặt chẽ hơn và một cuộc sống trung thực hơn. Nó đòi hỏi phải thường xuyên tạo nguồn cảm hứng, tư tưởng tốt đẹp và trên hết, đòi hỏi phải có một tính cách hài hòa với tiếng nói bên trong mỗi người.
+Nếu việc rèn luyện thần kinh và cơ bắp rất quan trọng đối với một vận động viên điền kinh, việc rèn luyện trí tuệ là cần thiết đối với học giả, thì việc rèn luyện ***lương tâm*** cũng quan trọng và cần thiết không kém đối với những cá nhân thực sự tự chủ và thành đạt. Tuy nhiên, học tập và rèn luyện lương tâm đòi hỏi một sự tập trung cao hơn, kỷ luật chặt chẽ hơn và một cuộc sống trung thực hơn. Nó đòi hỏi phải thường xuyên tạo nguồn cảm hứng, tư tưởng tốt đẹp và trên hết, đòi hỏi phải có một tính cách hài hòa với tiếng nói bên trong mỗi người.
 
 Cũng như việc ăn nhiều quà vặt và thiếu luyện tập có hại cho phong độ của vận động viên điền kinh, những thứ văn hóa phẩm thấp hèn, thô tục, hay khiêu dâm có thể nuôi dưỡng mầm mống đen tối trong tâm hồn, làm tê liệt sự nhạy cảm tinh tế của chúng ta và lấy lương tâm xã hội “Liệu tôi có bị phát hiện không?” thay thế cho lương tâm tự nhiên cao quý “Cái gì đúng, cái gì sai?”.
 
@@ -382,9 +356,7 @@ Nhưng quá trình đó cũng không hề “ngọt ngào và nhẹ nhàng” ch
 
 Chúng tôi giúp đỡ, động viên và thấu hiểu lẫn nhau, nhờ đó tạo điều kiện và giúp nhau khám phá nội tâm. Dần dần chúng tôi đi đến thống nhất các quy tắc cơ bản.
 
-Quy tắc thứ nhất là ***“không thăm dò”***. Ngay cả khi đi vào những vấn đề dễ bị tổn thương trong nội tâm, chúng tôi cũng không chất vấn lẫn nhau mà chỉ để thấu hiểu. Chúng
-
-tôi tôn trọng lẫn nhau, để mỗi người có thể tự thổ lộ vào thời điểm thích hợp.
+Quy tắc thứ nhất là ***“không thăm dò”***. Ngay cả khi đi vào những vấn đề dễ bị tổn thương trong nội tâm, chúng tôi cũng không chất vấn lẫn nhau mà chỉ để thấu hiểu. Chúng tôi tôn trọng lẫn nhau, để mỗi người có thể tự thổ lộ vào thời điểm thích hợp.
 
 Quy tắc thứ hai là khi việc thổ lộ làm người khác tổn thương thì chúng ta nên dừng lại và để ngỏ vấn đề, cho đến khi người đó lấy lại sự cân bằng tâm lý thì sẽ tiếp tục. Sự giao tiếp khó khăn nhất nhưng cũng có kết quả nhất khi những vấn đề dễ bị tổn thương của Sandra và tôi gặp nhau. Khi đó, do sự tham gia chủ quan của mình, chúng tôi phát hiện ra rằng “khoảng trống giữa kích thích và phản ứng” không còn nữa. Mặc dù những cảm giác khó chịu có xuất hiện, nhưng vì đã chuẩn bị tinh thần nên chúng tôi có thể xử lý được chúng và tiếp tục sự giao tiếp cho đến khi giải quyết được vấn đề.
 
@@ -404,9 +376,7 @@ Ngoài ra, chúng tôi có thể nhìn một cách sâu sắc hơn về ảnh h�
 
 Trong cuốn sách này, tôi đặc biệt nhấn mạnh những khuôn mẫu mà qua đó chúng tôi được định hình, cũng như mong muốn thay đổi khi nhận ra chúng không còn phù hợp. Sự tự nhận thức giúp chúng ta đề cao những khuôn mẫu đó và biết ơn những người đi trước đã dạy dỗ chúng ta bằng những nguyên tắc đúng đắn.
 
-Một gia đình có nhiều thế hệ gồm cha mẹ, con cái, ông bà, chú bác, anh em họ hàng cùng sống với nhau sẽ tạo nên sức mạnh siêu việt, sẽ là động lực mạnh mẽ giúp từng
-
-thành viên nhận ra mình là ai, từ đâu đến và đại diện cho cái gì. Đối với con cái, sẽ rất tốt cho chúng nếu chúng có thể định hình bản thân trong cái chung của dòng họ. Giả sử một lúc nào đó, con bạn gặp phải khó khăn mà không thể dựa vào bạn thì nó có thể nhờ cậy cô, dì, chú, bác của nó, những người có thể trở thành cha hoặc mẹ đỡ đầu của chúng trong một thời điểm nhất định.
+Một gia đình có nhiều thế hệ gồm cha mẹ, con cái, ông bà, chú bác, anh em họ hàng cùng sống với nhau sẽ tạo nên sức mạnh siêu việt, sẽ là động lực mạnh mẽ giúp từng thành viên nhận ra mình là ai, từ đâu đến và đại diện cho cái gì. Đối với con cái, sẽ rất tốt cho chúng nếu chúng có thể định hình bản thân trong cái chung của dòng họ. Giả sử một lúc nào đó, con bạn gặp phải khó khăn mà không thể dựa vào bạn thì nó có thể nhờ cậy cô, dì, chú, bác của nó, những người có thể trở thành cha hoặc mẹ đỡ đầu của chúng trong một thời điểm nhất định.
 
 Một gia đình tam, tứ đại đồng đường là nền móng cho các mối quan hệ tương thuộc, có hiệu quả, hứa hẹn và đáng hài lòng nhất. Và rất nhiều người coi trọng mối quan hệ đó. Mỗi chúng ta đều có nguồn cội và khả năng tìm về cội nguồn của mình. Động cơ cao nhất và mạnh nhất để làm điều đó không phải chỉ cho riêng chúng ta mà cho cả hậu duệ của chúng ta, hậu duệ của cả loài người, như có ai đó từng nhận xét: “Chỉ có hai di sản bền vững mà chúng ta có thể để lại cho con cháu, đó là ***cội nguồn*** và ***đôi cánh***”.
 
@@ -426,9 +396,7 @@ Một trong những người giao thời nổi tiếng của thế kỷ XX, Anwa
 
 “Chính vào lúc đó, tôi đã tập trung, một cách vô thức, vào sức mạnh nội tâm mà tôi đã rèn luyện được khi bị giam ở xà lim số 54 nhà tù trung tâm Cairô – một sức mạnh, có thể gọi là sự thông minh hay năng lực, cho sự thay đổi. Tôi nhận thấy mình đương đầu với một tình hình rất phức tạp, và không thể hy vọng thay đổi được nó cho đến khi tôi trang bị được cho mình năng lực tâm lý và trí tuệ cần thiết.
 
-(*) Anwar Sadat (1918 - 1981): Tổng thống Ai Cập, một nhà chính trị - quân sự - ngoại giao lỗi lạc, người chia sẻ giải Nobel Hòa bình 1978 với Thủ tướng Israel Menachem Begin (1913 - 1992) vì những nỗ lực hàn gắn mối quan hệ đổ vỡ giữa
-
-thế giới Ả Rập - Do Thái từ sau Cuộc chiến tranh 6 ngày (5 - 10/06/1967).
+(*) Anwar Sadat (1918 - 1981): Tổng thống Ai Cập, một nhà chính trị - quân sự - ngoại giao lỗi lạc, người chia sẻ giải Nobel Hòa bình 1978 với Thủ tướng Israel Menachem Begin (1913 - 1992) vì những nỗ lực hàn gắn mối quan hệ đổ vỡ giữa thế giới Ả Rập - Do Thái từ sau Cuộc chiến tranh 6 ngày (5 - 10/06/1967).
 
 Sự suy tư của tôi về cuộc sống và bản tính con người ở một nơi tách biệt đã dạy tôi rằng: ai không thể thay đổi được nếp nghĩ của mình thì người đó sẽ không bao giờ có thể thay đổi được thực tại và do đó, sẽ không bao giờ tiến bộ.”
 

@@ -154,9 +154,7 @@ Nhưng để giữ cho trí óc cố gắng cần sự khéo léo, vì nếu nã
 
 Sự thay đổi đó là cách não bộ xác định khi nào để thói quen hoạt động và sử dụng thói quen nào. Ví dụ, từ sau vách ngăn, rất khó để con chuột xác định đó là mê cung quen thuộc hay là một cái tủ đựng chén bát khác có một con mèo đang núp trong đó. Để hạn chế sự không chắc chắn, não bộ dành rất nhiều nỗ lực từ lúc bắt đầu thói quen để tìm kiếm một gợi ý cho sự lựa chọn mô hình. Từ sau vách ngăn, nếu con chuột nghe tiếng click, nó biết sẽ dùng thói quen trong mê cung. Nếu nó nghe tiếng mèo kêu, nó sẽ chọn một mô hình khác. Và đến cuối lề thói khi phần thưởng xuất hiện, não bộ hoạt động lại và bảo đảm mọi thứ diễn ra như mong đợi.
 
-Quá trình đó trong não chúng ta là một vòng lặp 3 bước. Đầu tiên,
-
-gợi ý như một nút bấm sẽ đưa não bộ vào trạng thái tự động và lựa chọn thói quen để sử dụng. Sau đó, một hoạt động có thể thuộc về thể chất, tinh thần hay cảm xúc diễn ra. Cuối cùng, phần thưởng xuất hiện sẽ giúp não bộ xác định vòng lặp đó có cần ghi nhớ để sử dụng sau này không.
+Quá trình đó trong não chúng ta là một vòng lặp 3 bước. Đầu tiên, gợi ý như một nút bấm sẽ đưa não bộ vào trạng thái tự động và lựa chọn thói quen để sử dụng. Sau đó, một hoạt động có thể thuộc về thể chất, tinh thần hay cảm xúc diễn ra. Cuối cùng, phần thưởng xuất hiện sẽ giúp não bộ xác định vòng lặp đó có cần ghi nhớ để sử dụng sau này không.
 
 ![](images/img_p023_01.jpeg)
 

@@ -62,25 +62,11 @@ Sử gia hau sử nô? (Nghề viết sử)
 
 ...
 
-Thậm chí chuyện chúng ta có tìm được câu
+Thậm chí chuyện chúng ta có tìm được câu trả lời hay không cũng không quá quan trọng. Bởi như một câu châm ngôn đã nói:
 
-trả lời hay không cũng không quá quan trọng. Bởi như một câu châm ngôn đã nói:
+“Ta trở nên khôn ngonn hơn bằng cách đặt ra các câu hỏi, nà cho dù không trả lời được, ta cũng sẽ Hở nên khôn ngoạn hơn, bì một câu hỏi được gói chém tốt tự thân nó cũng đã chứa đựng câu trả lời, giống như con
 
-“Ta trở nên khôn ngonn hơn bằng cách đặt ra các
-
-câu hỏi, nà cho dù không trả lời được, ta cũng sẽ Hở
-
-nên
-
-khôn ngoạn hơn, bì một câu hỏi được gói chém tốt
-
-tự thân nó cũng đã chứa đựng câu trả lời, giống như
-
-con
-
-Ẩ ˆ z ` ~ $ x _ 4+ 2? ˆ Ốc sên húc nào cũng săn chặt bới cái vỏ ốc trên
-
-lưng vậy”.
+Ẩ ˆ z ` ~ $ x _ 4+ 2? ˆ Ốc sên húc nào cũng săn chặt bới cái vỏ ốc trên lưng vậy”.
 
 174
 
@@ -216,9 +202,7 @@ Khi kinh doanh mà không lừa ai, không hại ai, mà đưa ra được nhữ
 
 Chẳng hạn, bà bán trái cây dạo cũng có thể là doanh nhân (nếu bán trái cây tử tế, không có thuốc trừ sâu, không phun hóa chất để bảo quản trái cây...), cũng có thể là con buôn (nếu trái cây của bà ấy mua từ những nguồn độc hại, và được bảo quản bằng hóa chất...). Một bà bán tạp hóa cũng có thể là doanh nhân nếu cửa hiệu nhỏ của bà giải quyết được những vấn đề của khách hàng mà chợ và siêu thị không làm được như sự thân thiện, thuận tiện (gần nhà, mua giờ nào cũng được, bất kể sớm khuya...), luôn bán những sản phẩm đáng tin cậy với mức giá rẻ nhất hay có thể được thiếu nợ (mua về dùng trước, trả tiền sau). Như vậy, một doanh nhân, một người làm nghề kinh doanh sẽ thật sự hạnh phúc khi nào?
 
-Có ba cấp độ hạnh phúc trong công việc của một
-
-doanh nhân như sau:
+Có ba cấp độ hạnh phúc trong công việc của một doanh nhân như sau:
 
 - . Cấp độ 1: Hạnh phúc khi kiếm được tiền (tì tiền là mục đích của kinh doanh).
 
@@ -306,41 +290,25 @@ Những doanh nhân có tài năng, có bản lĩnh, có văn hóa thì sẽ bi�
 
 ## Trí thức hay trí nô?
 
-“Trí thức là người quan tâm đến những việc không
-
-chỉ của riêng cá nhân mình” (Nhà triết học, nhà văn người Pháp Jean-Paul Sartre — người từng được trao giải thưởng Nobel văn học
-
-vào năm 1964)
+“Trí thức là người quan tâm đến những việc không chỉ của riêng cá nhân mình” (Nhà triết học, nhà văn người Pháp Jean-Paul Sartre — người từng được trao giải thưởng Nobel văn học vào năm 1964)
 
 “Trách nhiệm của trí thức là nói lên sự thật và phơi bày những điều giả dối”
 
-(Nhà ngôn ngữ học gốc Do Thái Noam Chomsky -
+(Nhà ngôn ngữ học gốc Do Thái Noam Chomsky - người dẫn đầu cuộc bình chọn
 
-người dẫn đầu cuộc bình chọn
-
-Những người trí tuệ trên thế giới do
-
-tạp chí Prospect của Anh thực hiện).
+Những người trí tuệ trên thế giới do tạp chí Prospect của Anh thực hiện).
 
 “Trí thức là những người khởi xướng các ý tưởng và đó là những ý tưởng quan trọng. Những ý tưởng đó có thể đúng hoặc sai, nhưng chúng phải có tầm quan là những ý tưởng ảnh hưởng đến số phận của cả một quốc gia và của nhân loại.”
 
-(Nhà kinh tế học người Mỹ Thomas Sowell) Trí thức và vai trò của trí thức là một đề tài
-
-không mới, nhưng chưa bao giờ cũ. Từ lâu nay, đó luôn là đề tài không dễ bàn thấu đáo nhưng lại rất dễ... gây tranh cãi. Tôi đã từng thử tìm kiếm trên Internet cách thế giới định nghĩa về từ “trí thức” thì gần như không có định nghĩa nào giống định nghĩa nào. Còn ở Việt Nam cũng đã có rất nhiều những ý kiến khác nhau, thậm chí trái ngược nhau, khi luận bàn về vấn đề thế nào là "trí thức". Có thể thấy rằng, đây là một đề tài đầy ý nghĩa đối với bất cứ xã hội nào, trong bất cứ thời đại nào, bởi trí thức thường được ví von như người tiên phong cầm đuốc “soi sáng” cho hành trình khai minh và giải phóng của xã hội, và cũng thường là nhóm người được xã hội dành cho nhiều sự tôn trọng, đề cao nhất.
+(Nhà kinh tế học người Mỹ Thomas Sowell) Trí thức và vai trò của trí thức là một đề tài không mới, nhưng chưa bao giờ cũ. Từ lâu nay, đó luôn là đề tài không dễ bàn thấu đáo nhưng lại rất dễ... gây tranh cãi. Tôi đã từng thử tìm kiếm trên Internet cách thế giới định nghĩa về từ “trí thức” thì gần như không có định nghĩa nào giống định nghĩa nào. Còn ở Việt Nam cũng đã có rất nhiều những ý kiến khác nhau, thậm chí trái ngược nhau, khi luận bàn về vấn đề thế nào là "trí thức". Có thể thấy rằng, đây là một đề tài đầy ý nghĩa đối với bất cứ xã hội nào, trong bất cứ thời đại nào, bởi trí thức thường được ví von như người tiên phong cầm đuốc “soi sáng” cho hành trình khai minh và giải phóng của xã hội, và cũng thường là nhóm người được xã hội dành cho nhiều sự tôn trọng, đề cao nhất.
 
 Tôi chọn cách bắt đầu câu chuyện “trí thức hay trí nô” bằng cách chia sẻ một vài góc nhìn khác nhau, mỗi góc nhìn như vậy cho ta một cách hiểu về trí thức và vai trò của trí thức. Nếu ta có được nhiều góc nhìn về một vấn đề thì ta sẽ có cơ hội hiểu vấn đề đó một cách đầy đủ và sâu sắc hơn, vì khi đó không chỉ thấy “cây”, mà còn thấy “rừng”. Trong khuôn khổ cuốn sách này và từ một góc nhìn của riêng mình, tôi cho rằng trí thức là người có trí và luôn dùng cái trí của mình để góp phần thức tỉnh xã hội nhằm hướng mọi người đến cái đúng và cái đẹp.
 
 Nếu ai đó “có trí” (sự hiểu biết) nhưng lại “không thức” (không thức tỉnh xã hội) mà để cho xã hội “ngủ” thì bị gọi là “trí ngủ”, chứ không phải là “trí thức”. Nếu ai đó thích làm cái việc của trí thức là “đánh thức xã hội” nhưng lại “thiểu
 
-Z
+Z trí, “lệch trí hay “vô trí” thì gọi là “trí dỏm” (cũng có học hàm, học vị nhưng đầu óc lại trồng rỗng, hoặc cũng có chút hiểu biết nhưng hiểu biết đó lại thể hiện sự lệch lạc và ấu trĩ). Và nếu ai đó “có trí”, “có thức”, nhưng “thiếu tâm” (thiếu động cơ trong sáng) thì gọi là “trí gian” (gian
 
-trí, “lệch trí hay “vô trí” thì gọi là “trí dỏm” (cũng có học hàm, học vị nhưng đầu óc lại trồng rỗng, hoặc cũng có chút hiểu biết nhưng hiểu biết đó lại thể hiện sự lệch lạc và ấu trĩ). Và nếu ai đó “có trí”, “có thức”, nhưng “thiếu tâm” (thiếu
-
-động cơ trong sáng) thì gọi là “trí gian” (gian
-
-Z “
-
-manh, xu thời, cơ hội). Cả hai loại “trí dóm” và “trí gian” đều là “nguy trí thức”, còn “trí ngủ” là “trí thức vô trách nhiệm”. Và có thể gọi chung nhóm này bằng một cái tên khác là “trí nô” (nô lệ cho bằng cấp, cho tiền bạc, quyền lực, danh vọng và những động cơ không trong sáng).
+Z “ manh, xu thời, cơ hội). Cả hai loại “trí dóm” và “trí gian” đều là “nguy trí thức”, còn “trí ngủ” là “trí thức vô trách nhiệm”. Và có thể gọi chung nhóm này bằng một cái tên khác là “trí nô” (nô lệ cho bằng cấp, cho tiền bạc, quyền lực, danh vọng và những động cơ không trong sáng).
 
 Có thể hình dung ba điều kiện để hình thành một con người “trí thức”, đó là: (1) “sự hiểu biết” (có trí); (2) “thức tỉnh xã hội”; và (3) “vì mục đích cao quý” (hướng xã hội đến cái đúng và cái đẹp, hướng xã hội đến cái chân - thiện - mỹ). Nếu không hội đủ cả ba điều kiện này (mà chỉ có một hay hai trong ba điều kiện) thì hoặc là “trí ngủ”, hoặc là “trí dỏm”, hay “trí gian”, chứ không phải là “trí thức”. Hay nói một cách nôm na, trí thức là người “có trí, “có thức” và “có tâm”; hoặc nói một cách văn vẻ hơn, trí thức là một người có hiểu biết sâu sắc, là một con người tự do và là một công dân có trách nhiệm.
 

@@ -49,17 +49,11 @@ Không phải là nên thay đổi, có thể thay đổi, hay cần thay đổi
 
 *tin, "Tôi phải thay đổi điều đó".*
 
-Chúng ta phải coi mình là nguồn gốc của sự thay đổi. Nếu không chúng ta sẽ luôn
-
-trông chờ vào một ai khác để thay đổi cho chúng ta và chúng ta sẽ trách cứ người đó
-
-khi sự thay đổi không kết quả.
+Chúng ta phải coi mình là nguồn gốc của sự thay đổi. Nếu không chúng ta sẽ luôn trông chờ vào một ai khác để thay đổi cho chúng ta và chúng ta sẽ trách cứ người đó khi sự thay đổi không kết quả.
 
 3) *Thứ ba, chúng ta phải tin, "Tôi có thể thay đổi".*
 
-Nếu không tin mình có khả năng thay đổi, chúng ta sẽ không có cơ hội đi đến tận
-
-cùng quyết định của mình.
+Nếu không tin mình có khả năng thay đổi, chúng ta sẽ không có cơ hội đi đến tận cùng quyết định của mình.
 
 ## Sức mạnh của khối óc
 

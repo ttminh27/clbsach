@@ -10,9 +10,7 @@ Sự thật tôi sẽ không thay đổi điều gì trong cuốn sách này c�
 
 Ví dụ, hơn 250.000 người cho biết Thói quen thứ ba, ***ưu tiên cho điều quan trọng nhất,*** là thói quen bị xem nhẹ nhất. Do vậy, cuốn sách “Ưu tiên cho điều quan trọng nhất” đã được phát hành vào năm 1996. Nó đi sâu vào việc nghiên cứu, phân tích các Thói quen 2 và 3, đồng thời, bổ sung thêm nội dung và minh họa cho tất cả các thói quen khác.
 
-Tôi cũng được hàng chục ngàn người cho biết: bằng cách lĩnh hội ***7 Thói quen,*** họ đã thấm nhuần và vận dụng hiệu quả ý tưởng biến bản thân trở thành nguồn lực sáng tạo cuộc sống của chính mình. Điều đó cho thấy sức mạnh
-
-chuyển biến của các nguyên tắc đối với mọi đối tượng, dù là cá nhân, gia đình hay tổ chức, và không hề bị giới hạn bởi hoàn cảnh, kinh nghiệm sống của cá nhân hay vị thế của tổ chức.
+Tôi cũng được hàng chục ngàn người cho biết: bằng cách lĩnh hội ***7 Thói quen,*** họ đã thấm nhuần và vận dụng hiệu quả ý tưởng biến bản thân trở thành nguồn lực sáng tạo cuộc sống của chính mình. Điều đó cho thấy sức mạnh chuyển biến của các nguyên tắc đối với mọi đối tượng, dù là cá nhân, gia đình hay tổ chức, và không hề bị giới hạn bởi hoàn cảnh, kinh nghiệm sống của cá nhân hay vị thế của tổ chức.
 
 ### Hỏi: Bản thân ông đã học được gì về “7 Thói quen” từ khi cuốn sách được phát hành?
 
@@ -34,9 +32,7 @@ dấu ấn cá nhân mặc dù nó thường là một bộ phận của hành v
 
 > 5- Mặc dù 7 Thói quen đại diện cho cách tiếp cận từ trong ra ngoài (inside-out), nhưng nó lại có kết quả tốt nhất khi bạn bắt đầu bằng thách thức từ bên ngoài và sau đó tiếp cận từ trong – ra ngoài. Nói cách khác, nếu bạn gặp phải một thách thức về quan hệ, chẳng hạn sự giao tiếp, và sự tin cậy lẫn nhau bị phá vỡ, thì điều này cho thấy cần có cách tiếp cận từ trong ra ngoài để Thành tích cá nhân có thể dẫn tới Thành tích tập thể nhằm mục đích đối phó với thách thức đó. Đó là lý do vì sao tôi thường dạy các Thói quen 4, 5 và 6 trước khi dạy các Thói quen 1, 2 và 3.
 
-6- ***Sự tương thuộc khó gấp 10 lần sự độc lập***. Nó đòi hỏi sự độc lập về trí tuệ và tình cảm nhiều hơn để có tư duy cùng thắng khi người khác có tư duy thắng/thua, để cố gắng hiểu người trước khi được người khác thông hiểu, và để tìm ra giải pháp thứ ba tốt hơn. Nói cách khác, để làm việc với người khác thành công bằng con đường hợp tác sáng tạo thì bạn phải có tính độc lập, sự an toàn nội tâm và sự tự chủ rất cao. Nếu không, cái mà chúng ta gọi là sự tương thuộc lại biến thành sự chống phụ thuộc (counter-
-
-dependency) nơi người ta chống đối nhau để khẳng định tính độc lập của mỗi bên, hoặc là sự đồng phụ thuộc (codependency) nơi người này cần đến sự yếu kém của người khác để thỏa mãn nhu cầu của mình và để biện minh cho sự yếu kém của mình.
+6- ***Sự tương thuộc khó gấp 10 lần sự độc lập***. Nó đòi hỏi sự độc lập về trí tuệ và tình cảm nhiều hơn để có tư duy cùng thắng khi người khác có tư duy thắng/thua, để cố gắng hiểu người trước khi được người khác thông hiểu, và để tìm ra giải pháp thứ ba tốt hơn. Nói cách khác, để làm việc với người khác thành công bằng con đường hợp tác sáng tạo thì bạn phải có tính độc lập, sự an toàn nội tâm và sự tự chủ rất cao. Nếu không, cái mà chúng ta gọi là sự tương thuộc lại biến thành sự chống phụ thuộc (counter-dependency) nơi người ta chống đối nhau để khẳng định tính độc lập của mỗi bên, hoặc là sự đồng phụ thuộc (codependency) nơi người này cần đến sự yếu kém của người khác để thỏa mãn nhu cầu của mình và để biện minh cho sự yếu kém của mình.
 
 > 7- Bạn có thể tóm tắt ba thói quen đầu tiên bằng một cụm từ đơn giản “hứa và giữ lời hứa” và bạn cũng có thể tóm tắt ba thói quen sau bằng cụm từ sau “khuyến khích người khác cùng tham gia và cùng nhau tìm ra giải pháp tối ưu”.
 
@@ -106,9 +102,7 @@ Khi được hỏi về câu này, tôi luôn luôn trả lời rằng nếu có
 
 Sự thật là khi viết Lời kết cho lần xuất bản mới nhất quyển sách này, tôi vừa hoàn thành cuốn sách mới: ***“Thói quen thứ 8: Từ thành đạt đến vĩ đại”*** (The 8th Habit: From Effectiveness to Greatness). Một số người cho rằng gọi nó là Thói quen thứ 8 có vẻ như đã đi lệch khỏi ý kiến trả lời chuẩn mực của tôi. Nhưng như các bạn thấy ở chương Mở đầu của cuốn sách mới, thế giới đã thay đổi sâu sắc từ khi cuốn sách “7 Thói Quen Để Thành Đạt” xuất bản năm 1989. Những thách thức và tính chất phức tạp mà chúng ta gặp phải trong cuộc sống riêng, trong các mối quan hệ, trong nghề nghiệp chuyên môn, và trong các tổ chức là rất khác về mức độ so với trước. Trong thực tế, nhiều người lấy mốc năm 1989 – năm chứng kiến sự sụp đổ của bức tường Berlin – như sự bắt đầu của ***Thời đại Tin học,*** sự ra đời của một thực tại mới, một đại dương mênh mông những thay đổi với những ý nghĩa không thể tin nổi… một thời đại thực sự mới mẻ.
 
-Sự thành đạt của cá nhân và tổ chức như trước không còn đủ cho thế giới ngày nay – đó là cái giá phải trả để bước vào một sân chơi mới. Nhưng để tồn tại, thịnh vượng, sáng tạo, hoàn thiện và dẫn đầu trong một thực tại mới mẻ này,
-
-chúng ta phải xây dựng và vượt xa hơn sự thành đạt. Lời kêu gọi và đòi hỏi của thời đại mới là sự thoải mái. Đó là sự lạc quan nồng nhiệt, sự cống hiến đầy ý nghĩa và sự vĩ đại. Những điều này thuộc một mặt bằng, một bình diện cao hơn. Nó cũng là sự thành công nhưng khác về tính chất chứ không phải mức độ. Để có thể đạt đến một trình độ cao hơn của trí tuệ và động cơ của con người – cái mà chúng ta gọi là tiếng nói – đòi hỏi phải có một nếp nghĩ mới, kỹ năng mới, công cụ mới… một Thói quen mới.
+Sự thành đạt của cá nhân và tổ chức như trước không còn đủ cho thế giới ngày nay – đó là cái giá phải trả để bước vào một sân chơi mới. Nhưng để tồn tại, thịnh vượng, sáng tạo, hoàn thiện và dẫn đầu trong một thực tại mới mẻ này, chúng ta phải xây dựng và vượt xa hơn sự thành đạt. Lời kêu gọi và đòi hỏi của thời đại mới là sự thoải mái. Đó là sự lạc quan nồng nhiệt, sự cống hiến đầy ý nghĩa và sự vĩ đại. Những điều này thuộc một mặt bằng, một bình diện cao hơn. Nó cũng là sự thành công nhưng khác về tính chất chứ không phải mức độ. Để có thể đạt đến một trình độ cao hơn của trí tuệ và động cơ của con người – cái mà chúng ta gọi là tiếng nói – đòi hỏi phải có một nếp nghĩ mới, kỹ năng mới, công cụ mới… một Thói quen mới.
 
 Do vậy Thói quen thứ tám không nói về việc cộng thêm một thói quen nữa vào 7 Thói quen đã biết mà là nói về việc nhận ra và khai thác sức mạnh của một chiều thứ ba (a third dimension) vào 7 Thói quen để đáp ứng thách thức trọng tâm của Kỷ nguyên Lao động Tri thức.
 
@@ -118,9 +112,7 @@ Nó có ảnh hưởng đến tôi trong nhiều mặt. Từ góc độ cá nhâ
 
 ### Hỏi: Nếu được làm lại lần nữa, ông có làm khác đi với tư cách là một doanh nhân?
 
-Tôi sẽ lựa chọn, tuyển dụng nhân sự một cách có chiến lược và luôn chủ động. Khi bạn đang bị chôn vùi vào hàng ngàn công việc khẩn cấp và bận rộn, bạn rất dễ đưa những người tỏ ra có sẵn giải pháp trong tay vào những vị trí then chốt. Xu hướng thường thấy là khi đi sâu vào quá trình và tính cách con người, nhiều người không có “sự quan tâm đầy đủ” đến vấn đề đó, hay không xây dựng các tiêu chuẩn cần phải đáp ứng cho từng cương vị cụ thể. Tôi tin rằng khi việc tuyển dụng và lựa chọn được thực hiện một cách có chiến lược, tức là có tư duy lâu dài và luôn chủ động, không phải dựa vào sức ép nhất thời, sẽ đem lại lợi ích to lớn về sau. Có ai đó từng nói rằng “Điều chúng ta đang mong muốn nhất chính là điều chúng ta dễ tin nhất”. Bạn thực sự cần phải nhìn sâu vào cả tính cách lẫn năng lực, vì cuối cùng, thì những sự khiếm khuyết dù ở mặt nào cũng sẽ bộc lộ ra. Và nên nhớ rằng, đào tạo và bồi dưỡng là quan trọng,
-
-nhưng việc tuyển dụng và lựa chọn còn quan trọng hơn.
+Tôi sẽ lựa chọn, tuyển dụng nhân sự một cách có chiến lược và luôn chủ động. Khi bạn đang bị chôn vùi vào hàng ngàn công việc khẩn cấp và bận rộn, bạn rất dễ đưa những người tỏ ra có sẵn giải pháp trong tay vào những vị trí then chốt. Xu hướng thường thấy là khi đi sâu vào quá trình và tính cách con người, nhiều người không có “sự quan tâm đầy đủ” đến vấn đề đó, hay không xây dựng các tiêu chuẩn cần phải đáp ứng cho từng cương vị cụ thể. Tôi tin rằng khi việc tuyển dụng và lựa chọn được thực hiện một cách có chiến lược, tức là có tư duy lâu dài và luôn chủ động, không phải dựa vào sức ép nhất thời, sẽ đem lại lợi ích to lớn về sau. Có ai đó từng nói rằng “Điều chúng ta đang mong muốn nhất chính là điều chúng ta dễ tin nhất”. Bạn thực sự cần phải nhìn sâu vào cả tính cách lẫn năng lực, vì cuối cùng, thì những sự khiếm khuyết dù ở mặt nào cũng sẽ bộc lộ ra. Và nên nhớ rằng, đào tạo và bồi dưỡng là quan trọng, nhưng việc tuyển dụng và lựa chọn còn quan trọng hơn.
 
 ### Hỏi: Nếu được làm lại lần nữa, ông có làm khác đi với tư cách là người cha?
 
@@ -132,9 +124,7 @@ Tôi đồng ý với tuyên bố của Stan Davis rằng “Khi cơ sở hạ t
 
 ### Hỏi: Ông có ngạc nhiên hay sửng sốt trước tính phổ biến của 7 Thói quen (ở các nước khác nhau/các nền văn hóa khác nhau/tuổi tác và giới tính khác nhau)?
 
-Vừa có vừa không. Có bởi vì tôi không ngờ là nó trở thành hiện tượng trên thế giới và có rất ít từ ngữ mang tính
-
-chất thuần Mỹ. Và không, bởi vì cuốn sách đã qua thử thách trong hơn 25 năm qua, kết quả trước hết của nó được dựa trên các nguyên tắc không phải do tôi phát minh ra và cũng không phải công lao của tôi.
+Vừa có vừa không. Có bởi vì tôi không ngờ là nó trở thành hiện tượng trên thế giới và có rất ít từ ngữ mang tính chất thuần Mỹ. Và không, bởi vì cuốn sách đã qua thử thách trong hơn 25 năm qua, kết quả trước hết của nó được dựa trên các nguyên tắc không phải do tôi phát minh ra và cũng không phải công lao của tôi.
 
 ### Hỏi: Ông sẽ giảng dạy 7 Thói quen cho các em nhỏ như thế nào?
 
