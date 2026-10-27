@@ -40,11 +40,11 @@ npm run build
 echo ""
 echo "🔍 Đang rà soát và loại bỏ file dư thừa trong $BUILD_DIR..."
 
-# 4.1 Xóa thư mục cache không dùng cho web
-find "$BUILD_DIR" -type d -name "__pycache__" -exec rm -rf {} + 2>/dev/null || true
+# 4.1 Xóa thư mục cache và thư mục scratch/OCR không dùng cho web runtime
+find "$BUILD_DIR" -type d \( -name "__pycache__" -o -name "scratch" \) -exec rm -rf {} + 2>/dev/null || true
 
 # 4.2 Xóa các định dạng file tài liệu phụ trợ không phục vụ web runtime (giữ lại file *.pdf cho người đọc tham khảo)
-find "$BUILD_DIR" -type f \( -name "*.docx" -o -name "*.doc" -o -name "*.zip" -o -name "*.rar" -o -name "*.tar.gz" \) -exec rm -f {} +
+find "$BUILD_DIR" -type f \( -name "*.docx" -o -name "*.doc" -o -name "*.zip" -o -name "*.rar" -o -name "*.tar.gz" -o -name "*.traineddata" \) -exec rm -f {} +
 
 # 4.3 Xóa file hệ thống, file script phụ trợ và file tạm
 find "$BUILD_DIR" -type f \( -name ".DS_Store" -o -name "Thumbs.db" -o -name "*.tmp" -o -name "*.bak" -o -name "*.log" -o -name "*.orig" -o -name "*.py" -o -name "*.pyc" -o -name ".gitkeep" \) -exec rm -f {} +
@@ -57,12 +57,31 @@ if [ ! -f "$BUILD_DIR/_redirects" ]; then
   echo "/* /index.html 200" > "$BUILD_DIR/_redirects"
 fi
 
-# 6. Kiểm tra giới hạn dung lượng file của Cloudflare Pages (tối đa 25MB/file)
+# 6. Kiểm tra và xử lý giới hạn dung lượng file của Cloudflare Pages (tối đa 25MB/file)
 OVERSIZED_FILES=$(find "$BUILD_DIR" -type f -size +25M)
 if [ -n "$OVERSIZED_FILES" ]; then
-  echo "⚠️ CẢNH BÁO: Phát hiện file vượt quá giới hạn 25MB của Cloudflare Pages:"
-  echo "$OVERSIZED_FILES"
-  exit 1
+  echo "⚠️ Phát hiện file vượt quá giới hạn 25MB của Cloudflare Pages. Đang xử lý tự động..."
+  while IFS= read -r f; do
+    [ -z "$f" ] && continue
+    if [[ "$f" =~ \.pdf$ ]] && command -v gs >/dev/null 2>&1; then
+      echo "  🔄 Đang tự động nén PDF: $f"
+      tmp_compressed=$(mktemp --suffix=.pdf)
+      if gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile="$tmp_compressed" "$f" 2>/dev/null; then
+        mv "$tmp_compressed" "$f"
+        echo "  ✅ Đã nén thành công: $(du -sh "$f" | cut -f1)"
+      else
+        rm -f "$tmp_compressed"
+      fi
+    fi
+
+    # Nếu sau khi nén (hoặc không phải PDF) vẫn > 25MB thì loại bỏ khỏi bundle deploy web
+    FILE_BYTES=$(stat -c%s "$f" 2>/dev/null || stat -f%z "$f" 2>/dev/null || echo 0)
+    if [ "$FILE_BYTES" -gt 26214400 ]; then
+      echo "  ⚠️ File vẫn > 25MB. Tự động loại bỏ khỏi dist để không làm gián đoạn deploy (file gốc trong book/ vẫn được bảo toàn):"
+      echo "     -> $f"
+      rm -f "$f"
+    fi
+  done <<< "$OVERSIZED_FILES"
 fi
 
 # 7. Báo cáo thống kê chi tiết gói deploy
@@ -82,6 +101,7 @@ echo ""
 # 8. Triển khai lên Cloudflare Pages qua Wrangler CLI
 echo "🚀 Đang tải lên và triển khai lên Cloudflare Pages (Branch: $DEPLOY_BRANCH)..."
 
+export CI=true
 npx wrangler pages deploy "$BUILD_DIR" --project-name "$PROJECT_NAME" --branch "$DEPLOY_BRANCH" --commit-dirty=true "$@"
 
 echo ""
