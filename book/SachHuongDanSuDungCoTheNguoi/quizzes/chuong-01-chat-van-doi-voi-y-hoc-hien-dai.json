@@ -1,0 +1,188 @@
+{
+  "bookId": "SachHuongDanSuDungCoTheNguoi",
+  "chapterId": "chuong-01-chat-van-doi-voi-y-hoc-hien-dai",
+  "chapterTitle": "Chương 1: Chất vấn đối với y học hiện đại",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo tác giả Ngô Thanh Trung, ba hiện tượng được nêu trong chương sách cho thấy vấn đề cốt lõi của y học hiện đại đối với bệnh mạn tính là gì?",
+      "options": [
+        "Sự thiếu hợp tác giữa các nhà khoa học và bác sĩ lâm sàng toàn cầu.",
+        "Thiếu hụt các loại thuốc mới và công nghệ điều trị tiên tiến hiệu quả.",
+        "Chưa đủ thời gian để nghiên cứu sâu rộng về các bệnh phức tạp hiện nay.",
+        "Vấn đề nằm ở logic suy nghĩ cơ bản hoặc phương hướng phát triển căn bản."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả chỉ ra rằng ba hiện tượng (vaccine Sabin là thành công cuối cùng, bệnh mạn tính chỉ khống chế không chữa khỏi, các tiến bộ y học chỉ hứa hẹn tương lai) không phải do thiếu thuốc hay công nghệ, mà rất có khả năng nguyên nhân ở logic suy nghĩ cơ bản hoặc phương hướng phát triển căn bản của y học hiện đại. Đây là một chất vấn sâu sắc vào nền tảng tư duy của y học phương Tây."
+    },
+    {
+      "id": "q2",
+      "question": "Trong ví dụ về máy tính và ổ đĩa quang bị sự cố do điện áp thấp, tác giả muốn nhấn mạnh điều gì về cách y học hiện đại tiếp cận bệnh tật?",
+      "options": [
+        "Cơ thể con người phức tạp hơn máy tính nên khó chẩn đoán chính xác bệnh lý.",
+        "Y học hiện đại thường tập trung chữa trị triệu chứng cục bộ mà bỏ qua nguyên nhân gốc rễ.",
+        "Cần phát triển thêm các thiết bị đo lường chính xác hơn cho từng bộ phận cơ thể.",
+        "Các bác sĩ cần có kiến thức sâu rộng về điện tử học để hiểu cơ thể người."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ví dụ về máy tính bị hỏng ổ đĩa quang do điện áp nguồn thấp nhưng kỹ sư lại đi sửa ổ đĩa quang, tác giả muốn chỉ ra rằng y học hiện đại cũng đang mắc phải sai lầm tương tự. Họ tập trung chữa trị 'ổ đĩa quang' (tạng thận) mà không nhận ra vấn đề gốc rễ là 'điện áp nguồn' (mức năng lượng cơ thể) bị thiếu hụt. Điều này thể hiện tư duy 'đầu đau chữa đầu, chân đau chữa chân' mà tác giả phê phán."
+    },
+    {
+      "id": "q3",
+      "question": "Theo tác giả, vấn đề lớn nhất của y học hiện đại trong việc chẩn đoán bệnh tật, đặc biệt khi so sánh với kỹ thuật điện tử, là gì?",
+      "options": [
+        "Thiếu khả năng đo lường chính xác mức năng lượng tổng thể của cơ thể con người.",
+        "Không có đủ các loại thuốc đặc trị hiệu quả cho các bệnh lý phức tạp hiện nay.",
+        "Quá phụ thuộc vào các xét nghiệm định tính thay vì định lượng chi tiết các chỉ số.",
+        "Chưa thể phát hiện ra tất cả các loại virus và vi khuẩn gây bệnh mới phát sinh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhấn mạnh rằng y học hiện đại vẫn chưa có bất kỳ tiêu chuẩn nào để đo mức năng lượng của cơ thể người, tương tự như thời đại chưa phát hiện ra điện áp trong điện tử học. Việc thiếu khả năng đo lường năng lượng này khiến y học hiện đại không thể xác định được nguyên nhân gốc rễ của nhiều bệnh tật, đặc biệt là các bệnh mạn tính."
+    },
+    {
+      "id": "q4",
+      "question": "Tác giả Ngô Thanh Trung khẳng định vấn đề lớn nhất của y học hiện đại được minh họa trong chương sách là gì?",
+      "options": [
+        "Quá tập trung vào việc điều trị triệu chứng mà bỏ qua nguyên nhân gốc rễ của bệnh.",
+        "Thiếu các công cụ chẩn đoán hiện đại và chính xác để phát hiện bệnh sớm kịp thời.",
+        "Không có đủ nguồn lực tài chính để đầu tư vào nghiên cứu và phát triển y học.",
+        "Đánh giá thấp trí tuệ tự thân của cơ thể người, đánh giá cao năng lực của tri thức nhân loại."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả trực tiếp nêu rõ: 'Vấn đề lớn nhất của y học hiện đại là: Đánh giá thấp trí tuệ tự thân của cơ thể người, đánh giá cao năng lực của tri thức nhân loại.' Điều này thể hiện sự thiếu tin tưởng vào khả năng tự chữa lành của cơ thể và sự quá phụ thuộc vào kiến thức y học bên ngoài để can thiệp."
+    },
+    {
+      "id": "q5",
+      "question": "Tác giả chỉ ra rằng phương pháp xét nghiệm máu để chẩn đoán 'thiếu máu' có một lỗ hổng logic cơ bản nào?",
+      "options": [
+        "Kết quả xét nghiệm bị ảnh hưởng bởi thời điểm lấy máu và chế độ ăn uống.",
+        "Không thể phân biệt được giữa hồng cầu khỏe mạnh và hồng cầu bị lỗi chức năng.",
+        "Lượng máu lấy ra quá ít để có thể đại diện cho toàn bộ cơ thể người bệnh.",
+        "Dùng nồng độ hồng cầu để suy ra tổng lượng máu, giả định tổng khối lượng máu là hằng số."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả lập luận rằng việc dùng nồng độ hồng cầu (định tính) để kết luận tổng lượng máu (định lượng) là thiếu máu là không hợp lý. Điều này ngụ ý rằng tổng khối lượng máu là một hằng số cố định, trong khi trên thực tế, cơ thể người có tính đàn hồi cao và tổng khối lượng máu luôn thay đổi. Đây là một sai lầm logic trong việc suy luận từ tỷ lệ ra tổng số."
+    },
+    {
+      "id": "q6",
+      "question": "Khi xét nghiệm máu cho thấy số lượng hồng cầu quá thấp, tác giả gợi ý một cách giải thích khác ngoài 'thiếu máu' là gì?",
+      "options": [
+        "Huyết tương trong cơ thể người bệnh đang ở mức quá nhiều so với bình thường.",
+        "Cơ thể đang trong quá trình tự điều chỉnh và thải độc mạnh mẽ từ bên trong.",
+        "Tủy xương không sản xuất đủ hồng cầu do suy giảm chức năng nghiêm trọng.",
+        "Người bệnh đã sử dụng các loại thuốc làm loãng máu gây ảnh hưởng kết quả."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả giải thích rằng máu có một bộ phận rất lớn là huyết tương, thành phần chủ yếu là nước. Do đó, khi xét nghiệm thấy số lượng hồng cầu quá thấp, cũng có thể giải thích là huyết tương quá nhiều, chứ không nhất thiết là tổng lượng máu bị thiếu. Điều này thay đổi hoàn toàn cách nhìn nhận về tình trạng 'thiếu máu'."
+    },
+    {
+      "id": "q7",
+      "question": "Nếu xét nghiệm máu cho thấy số lượng hồng cầu quá cao, theo tác giả, điều này có thể ám chỉ tình trạng nào của cơ thể?",
+      "options": [
+        "Cơ thể đang có nguy cơ bị đông máu hoặc tắc nghẽn mạch máu nghiêm trọng.",
+        "Huyết tương trong cơ thể người bệnh đang ở mức quá ít, tức là thiếu nước.",
+        "Tủy xương đang hoạt động quá mức để bù đắp cho một vấn đề khác bên trong.",
+        "Người bệnh đang có chế độ ăn uống giàu chất sắt và protein quá mức."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngược lại với trường hợp hồng cầu thấp, nếu số lượng hồng cầu quá cao, tác giả cho rằng rất có khả năng huyết tương của người này quá ít, tức là cơ thể đang bị thiếu nước, khô kiệt. Điều này một lần nữa nhấn mạnh sự cần thiết phải xem xét tổng thể và không chỉ dựa vào một chỉ số đơn lẻ."
+    },
+    {
+      "id": "q8",
+      "question": "Trong phòng cấp cứu, việc hiểu sai kết quả xét nghiệm máu về 'thiếu máu' có thể dẫn đến hậu quả nghiêm trọng nào theo tác giả?",
+      "options": [
+        "Bệnh nhân bị truyền máu quá nhiều, gây ra các biến chứng nguy hiểm khó lường.",
+        "Bệnh nhân không được truyền máu kịp thời dù rất cần, dẫn đến tử vong.",
+        "Các bác sĩ đưa ra chẩn đoán sai lệch về nguyên nhân gây bệnh của bệnh nhân.",
+        "Gây lãng phí nguồn lực y tế do phải thực hiện nhiều xét nghiệm bổ sung."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả cảnh báo rằng nhiều người bệnh có thể do năng lực hấp thu nước của cơ thể quá kém, dẫn đến huyết tương rất ít và tổng lượng máu cơ thể rất thấp. Tuy nhiên, số lượng hồng cầu khi xét nghiệm vẫn rất cao, khiến họ không được truyền máu cấp cứu cần thiết và có thể dẫn đến thiệt mạng. Đây là một ví dụ cụ thể về hậu quả của việc hiểu sai các chỉ số xét nghiệm."
+    },
+    {
+      "id": "q9",
+      "question": "Khi số lượng chất phế thải trong máu tăng cao, tác giả đưa ra hai khả năng giải thích nào về tình trạng cơ thể?",
+      "options": [
+        "Chế độ ăn uống không lành mạnh hoặc môi trường sống bị ô nhiễm nặng.",
+        "Công năng các cơ quan suy giảm hoặc cơ thể đang thải độc mạnh mẽ.",
+        "Cơ thể đang bị nhiễm trùng cấp tính hoặc mắc bệnh mãn tính tiềm ẩn.",
+        "Thiếu hụt vitamin và khoáng chất hoặc thừa các chất gây hại cho cơ thể."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả giải thích rằng có hai khả năng khi chất phế thải trong máu tăng cao: một là công năng các cơ quan bị suy giảm, không đào thải đủ độc tố; hai là công năng các cơ quan đang nâng cao, làm cho các chất phế thải tích tụ lâu ngày được thanh lý và thải ra ngoài. Điều này cho thấy cùng một chỉ số bất thường có thể mang ý nghĩa hoàn toàn trái ngược."
+    },
+    {
+      "id": "q10",
+      "question": "Ví dụ về việc tẩy rửa ống nước bẩn làm nước trở nên đục hơn được tác giả dùng để minh họa điều gì về cơ thể người?",
+      "options": [
+        "Việc can thiệp y tế quá sớm có thể làm tình trạng bệnh trở nên tồi tệ hơn.",
+        "Nước trong cơ thể cần được lọc sạch liên tục để duy trì sức khỏe tối ưu.",
+        "Các chất thải tích tụ lâu ngày sẽ được đào thải khi cơ thể có đủ năng lượng.",
+        "Cơ thể người có khả năng tự làm sạch và tái tạo các tế bào bị tổn thương."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ví dụ này minh họa rằng khi cơ thể mệt mỏi, chất thải tích tụ. Nhưng khi cơ thể có cơ hội nghỉ ngơi, năng lực khí huyết tăng cao, các cơ quan hoạt động mạnh hơn, những chất phế thải tích tụ lâu ngày sẽ được đưa vào máu để thải ra. Lúc này, xét nghiệm máu có thể cho thấy chỉ số bất thường, nhưng đó lại là dấu hiệu tốt, cho thấy cơ thể đang tự thanh lọc."
+    },
+    {
+      "id": "q11",
+      "question": "Khi số liệu xét nghiệm thân thể xuất hiện vấn đề, tác giả khẳng định rằng không thể vội vàng nhận định điều gì về xu hướng chuyển biến của cơ thể?",
+      "options": [
+        "Không thể so sánh kết quả xét nghiệm với các chỉ số bình thường của người khác.",
+        "Không thể xác định chính xác nguyên nhân gốc rễ gây ra các chỉ số bất thường.",
+        "Không thể nhận định thân thể đang phát triển theo chiều hướng tốt lên hay xấu đi.",
+        "Không thể đưa ra phác đồ điều trị cụ thể mà không có thêm các xét nghiệm khác."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả chỉ rõ rằng sự xuất hiện của 'dấu hiệu bệnh tật' trong xét nghiệm có thể là điều xấu (công năng suy giảm) hoặc điều tốt (công năng tăng cường để thải độc). Do đó, không thể từ những con số xét nghiệm thu được ấy mà đưa ra phán đoán cuối cùng về việc cơ thể đang chuyển biến tốt lên hay xấu đi."
+    },
+    {
+      "id": "q12",
+      "question": "Mục tiêu điều trị bệnh mạn tính của y học hiện đại là đưa các con số xét nghiệm về 'phạm vi bình thường'. Theo tác giả, điều này có thể gây ra hậu quả gì?",
+      "options": [
+        "Che giấu các triệu chứng bệnh lý nghiêm trọng, khiến bệnh trở nên khó chữa hơn.",
+        "Gây ra sự phụ thuộc vào thuốc và làm giảm khả năng tự chữa lành của cơ thể.",
+        "Làm gián đoạn xu thế chuyển biến tốt của cơ thể và gây tổn thương trực tiếp.",
+        "Tăng chi phí điều trị và tạo gánh nặng tài chính cho người bệnh và xã hội."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nếu người bệnh có công năng các cơ quan đang tăng cao để thải độc (dẫn đến chỉ số xét nghiệm bất thường), việc điều trị để đưa các con số về 'bình thường' có thể làm gián đoạn xu thế chuyển biến tốt của cơ thể, cản trở việc nâng cao công năng và thậm chí gây ra những tổn thương trực tiếp hơn cho cơ thể."
+    },
+    {
+      "id": "q13",
+      "question": "Theo tác giả, nguyên nhân căn bản nhất khiến các loại bệnh mạn tính ngày nay không thể trị được tận gốc là gì?",
+      "options": [
+        "Sự phát triển quá nhanh của các loại virus và vi khuẩn kháng thuốc hiện nay.",
+        "Thiếu sự hiểu biết sâu sắc về cấu trúc di truyền và sinh học của con người.",
+        "Dựa trên số liệu từ các phương pháp kiểm tra có vấn đề để đề ra điều trị.",
+        "Người bệnh không tuân thủ nghiêm ngặt các phác đồ điều trị của bác sĩ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả kết luận rằng việc các bệnh mạn tính không trị được tận gốc rễ là bởi vì y học hiện đại dựa trên những số liệu rút ra từ các phương pháp kiểm tra có vấn đề (như xét nghiệm máu) để đề ra các phương pháp điều trị. Đây là một nguyên nhân căn bản nhất, cho thấy sự sai lầm nằm ngay từ khâu chẩn đoán và đánh giá."
+    },
+    {
+      "id": "q14",
+      "question": "Tác giả mô tả cơ thể người là một 'công xưởng hóa học sống' có ý nghĩa gì trong việc lý giải các con số xét nghiệm?",
+      "options": [
+        "Cơ thể tự động điều chỉnh trình tự hóa học để thích ứng với các yếu tố bên trong và ngoài.",
+        "Các phản ứng hóa học trong cơ thể diễn ra liên tục và rất phức tạp, khó kiểm soát.",
+        "Cần phải sử dụng nhiều hóa chất để điều chỉnh các quá trình sinh hóa trong cơ thể.",
+        "Mọi bệnh tật đều có nguồn gốc từ sự mất cân bằng hóa học trong cơ thể người."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cơ thể là một 'công xưởng hóa học sống' nghĩa là nó là một hệ sinh hóa vô cùng phức tạp, biết tùy thời tùy điều kiện thích ứng với các loại nhân tố trong ngoài để tự động điều chỉnh trình tự hóa học của mình. Điều này đòi hỏi việc giải mã các con số xét nghiệm phải hiểu được trạng thái tốt xấu của công năng cơ quan và cả những biện pháp ứng biến mà cơ thể đang thực hiện."
+    },
+    {
+      "id": "q15",
+      "question": "Để y học hiện đại có thể thoát khỏi vòng khó khăn bối rối hiện nay, tác giả đề xuất điều gì cần được thực hiện?",
+      "options": [
+        "Cần xem xét lại toàn diện các biện pháp kiểm tra con người đề ra từ xa xưa.",
+        "Đầu tư mạnh mẽ hơn vào nghiên cứu và phát triển thuốc mới hiệu quả hơn.",
+        "Tăng cường hợp tác quốc tế để chia sẻ kiến thức và kinh nghiệm điều trị.",
+        "Tập trung vào việc phòng ngừa bệnh tật hơn là chỉ điều trị khi đã mắc bệnh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả kết luận rằng những biện pháp kiểm tra con người đề ra từ xa xưa, khi năng lực khoa học kỹ thuật còn chưa phát triển, cần phải được xem xét lại toàn diện từ đầu. Nếu không, y học hiện đại sẽ vĩnh viễn không bước ra khỏi cái vòng khó khăn bối rối hiện nay, vì các phương pháp chẩn đoán đang có vấn đề."
+    }
+  ]
+}

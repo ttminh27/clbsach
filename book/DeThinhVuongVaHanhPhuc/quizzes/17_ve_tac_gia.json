@@ -1,0 +1,188 @@
+{
+  "bookId": "DeThinhVuongVaHanhPhuc",
+  "chapterId": "17_ve_tac_gia",
+  "chapterTitle": "Về tác giả",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi Eric Jorgenson viết blog Evergreen và biên soạn cuốn sách phi lợi nhuận về Naval Ravikant, hành động này phản ánh nguyên lý đòn bẩy nào của Naval?",
+      "options": [
+        "Sử dụng đòn bẩy lao động truyền thống bằng cách quản lý nhân sự.",
+        "Tạo ra đòn bẩy sản phẩm thông qua phương tiện truyền thông số.",
+        "Tận dụng đòn bẩy tài chính từ các nhà đầu tư mạo hiểm lớn.",
+        "Áp dụng đòn bẩy quan hệ ngoại giao để mở rộng mạng lưới."
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo Naval, phương tiện truyền thông (Media) và mã nguồn (Code) là các loại đòn bẩy không tốn chi phí biên (permissionless leverage). Viết blog và sách giúp lan tỏa tri thức mà không cần tốn thêm chi phí khi nhân bản, đúng với tinh thần đòn bẩy tối ưu mà Eric Jorgenson đang thực hiện."
+    },
+    {
+      "id": "q2",
+      "question": "Việc Eric Jorgenson chia sẻ toàn bộ nội dung cuốn sách dưới dạng phi lợi nhuận thể hiện triết lý gì về giá trị của tri thức trong thời đại số?",
+      "options": [
+        "Tri thức cần được bán với giá cao để khẳng định chất lượng.",
+        "Tri thức chỉ có giá trị khi được trao đổi thông qua hợp đồng.",
+        "Tri thức thuộc về công cộng và tạo ảnh hưởng dài hạn hơn tiền.",
+        "Tri thức cần được giữ kín để tạo ra lợi thế cạnh tranh riêng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Naval Ravikant luôn ủng hộ việc chia sẻ kiến thức chân thực và rộng rãi. Khi tri thức được lan tỏa không giới hạn, nó tạo ra uy tín, sự tin tưởng và giá trị thặng dư lớn hơn nhiều so với việc cố gắng kiếm tiền ngắn hạn từ việc bán sách."
+    },
+    {
+      "id": "q3",
+      "question": "Xét về mặt kiến thức chuyên biệt (Specific Knowledge), hành trình xây dựng blog Evergreen của Eric Jorgenson minh họa điều gì?",
+      "options": [
+        "Đó là việc lặp lại các kỹ năng đã được giảng dạy tại trường đại học.",
+        "Đó là sự kết hợp độc đáo giữa sở thích cá nhân, năng lực viết và sự kiên trì.",
+        "Đó là quy trình làm việc chuẩn hóa có thể dễ dàng giao cho người khác.",
+        "Đó là kỹ năng phân tích tài chính thuần túy dựa trên các số liệu sẵn có."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kiến thức chuyên biệt là những gì bạn bẩm sinh đã giỏi hoặc đạt được thông qua sự tò mò chân thành. Hành trình của Eric kết hợp đam mê viết lách và tư duy sản phẩm, tạo nên một năng lực độc bản không thể bắt chước."
+    },
+    {
+      "id": "q4",
+      "question": "Trong bối cảnh xây dựng sự nghiệp và dự án cá nhân như cách Eric Jorgenson tạo ra Zaarly hay viết sách, bài học cốt lõi từ Naval về trách nhiệm là gì?",
+      "options": [
+        "Luôn tìm kiếm sự bảo bọc từ các tập đoàn lớn để giảm thiểu rủi ro.",
+        "Đổ lỗi cho hoàn cảnh thị trường khi dự án gặp phải thất bại ban đầu.",
+        "Tránh né mọi quyết định khó khăn để duy trì sự an toàn cho bản thân.",
+        "Đứng mũi chịu sào, chấp nhận rủi ro và gắn liền tên tuổi với kết quả."
+      ],
+      "correctIndex": 3,
+      "explanation": "Naval nhấn mạnh rằng trách nhiệm cá nhân (Accountability) là chiếc chìa khóa để nhận rủi ro nhưng đổi lại quyền sở hữu và phần thưởng lớn. Người chịu trách nhiệm cao nhất sẽ là người nắm giữ phần lớn giá trị tạo ra."
+    },
+    {
+      "id": "q5",
+      "question": "Khi một tác giả dành nhiều năm nghiên cứu tư tưởng của một hiền triết hiện đại như Naval để viết sách, điều này phản ánh phương pháp tự học nào?",
+      "options": [
+        "Học tập theo hệ thống tín chỉ nghiêm ngặt của các trường đại học.",
+        "Chỉ đọc các tài liệu hướng dẫn kỹ thuật ngắn hạn để giải quyết việc.",
+        "Ghi nhớ máy móc từng sự kiện lịch sử để áp dụng vào đời sống.",
+        "Hấp thụ sâu sắc các mô hình tư duy từ những bộ óc xuất chúng nhất."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tự học đỉnh cao là tìm đọc và thấu triệt tư duy của những bậc thầy đi trước. Việc nghiên cứu sâu sắc một cá nhân như Naval giúp chắt lọc những mô hình tư duy (mental models) cốt lõi để áp dụng vào thực tế."
+    },
+    {
+      "id": "q6",
+      "question": "Theo triết lý của Naval Ravikant, việc theo đuổi các dự án mang tính dài hạn như blog Evergreen hay cuốn sách tổng hợp đòi hỏi điều gì ở nhà sáng lập?",
+      "options": [
+        "Sự hỗ trợ tài chính liên tục từ các quỹ đầu tư mạo hiểm lớn mạnh.",
+        "Khả năng tạo ra lợi nhuận ngay lập tức trong vòng ba tháng đầu tiên.",
+        "Sự kiên nhẫn cực độ với tầm nhìn vòng đời dài và tinh thần không kỳ vọng.",
+        "Việc chạy theo các xu hướng công nghệ mới nhất để thu hút chú ý."
+      ],
+      "correctIndex": 2,
+      "explanation": "Naval khẳng định 'Chơi dài hạn với những người chơi dài hạn'. Các dự án tri thức giá trị lớn không thể gặt hái thành công ngay lập tức mà đòi hỏi sự kiên trì, kiên định và tư duy dài hạn không mệt mỏi."
+    },
+    {
+      "id": "q7",
+      "question": "Đâu là điểm tương đồng cốt lõi giữa triết lý đầu tư mạo hiểm của Naval Ravikant và việc lựa chọn các mối quan hệ chất lượng trong cuộc sống?",
+      "options": [
+        "Tìm kiếm những đối tác có tính chính trực cao và tư duy dài hạn.",
+        "Tập trung đầu tư dàn trải vào số lượng lớn để phân tán mọi rủi ro.",
+        "Chỉ hợp tác dựa trên các cam kết pháp lý cực kỳ chặt chẽ và khắt khe.",
+        "Ưu tiên các mối quan hệ mang lại lợi ích tài chính ngắn hạn rõ ràng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cả trong đầu tư (như AngelList) lẫn cuộc sống, Naval luôn tìm kiếm sự chính trực, độ tin cậy và tầm nhìn dài hạn ở con người thay vì chỉ dựa vào các hợp đồng hay số lượng mối quan hệ bề nổi."
+    },
+    {
+      "id": "q8",
+      "question": "Dưới góc nhìn của Naval Ravikant về sự giàu có, việc một người làm việc chăm chỉ nhưng không sở hữu cổ phần hay đòn bẩy sẽ dẫn đến kết quả gì?",
+      "options": [
+        "Sẽ từng bước trở nên giàu có vượt trội nhờ thâm niên làm việc.",
+        "Sẽ đạt được tự do tài chính hoàn toàn khi bước vào tuổi trung niên.",
+        "Vẫn mãi chật vật vì thời gian và sức lao động có giới hạn nghiêm ngặt.",
+        "Sở hữu quyền lực mềm lớn trong tổ chức mà họ đang gắn bó một cách rõ ràng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Naval chỉ rõ bạn không thể làm giàu chỉ bằng cách cho đi thời gian. Thời gian của bạn là hữu hạn. Bạn buộc phải sở hữu cổ phần (equity) hoặc đòn bẩy (leverage) để tách rời thu nhập khỏi thời gian lao động."
+    },
+    {
+      "id": "q9",
+      "question": "Khi Eric Jorgenson kết hợp kỹ năng chiến lược sản phẩm với viết lách để tạo ra các tác phẩm giá trị, anh đang thực hiện lời khuyên nào của Naval?",
+      "options": [
+        "Trở thành một chuyên gia tổng hợp biết một chút về mọi thứ trên đời.",
+        "Tuân thủ tuyệt đối theo lộ trình nghề nghiệp truyền thống của xã hội.",
+        "Định vị bản thân tại giao điểm độc nhất của các kỹ năng mà bạn giỏi nhất.",
+        "Chỉ tập trung vào một kỹ năng duy nhất cho đến khi đạt mức hoàn hảo trên thực tế."
+      ],
+      "correctIndex": 2,
+      "explanation": "Naval khuyên mỗi người hãy mài giũa những thế mạnh tự nhiên và kết hợp chúng lại thành một không gian độc nhất thuộc về riêng bạn, nơi không ai có thể cạnh tranh nổi với bạn."
+    },
+    {
+      "id": "q10",
+      "question": "Theo quan điểm về hạnh phúc của Naval Ravikant, hạnh phúc thực chất là gì đối với một cá nhân trong xã hội hiện đại?",
+      "options": [
+        "Là kết quả tất yếu khi đạt được khối tài sản khổng lồ triệu đô.",
+        "Là một kỹ năng nội tại có thể học hỏi, rèn luyện và chủ động lựa chọn.",
+        "Là trạng thái cảm xúc ngẫu nhiên phụ thuộc hoàn toàn vào ngoại cảnh.",
+        "Là sự công nhận và tôn vinh từ cộng đồng và các mạng xã hội lớn trên thực tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Naval định nghĩa hạnh phúc không phải là mục tiêu xa vời hay do may mắn, mà là một trạng thái bình an nội tâm, một kỹ năng quản lý tâm trí có thể được rèn luyện thông qua thói quen và sự lựa chọn."
+    },
+    {
+      "id": "q11",
+      "question": "Cách tiếp cận của Naval Ravikant đối với việc đọc sách và thu nạp tri thức thể hiện qua điều gì?",
+      "options": [
+        "Đọc đi đọc lại những cuốn sách kinh điển nền tảng từ nguyên lý gốc.",
+        "Đọc thật nhiều cuốn sách bề nổi để bàn luận với mọi người xung quanh.",
+        "Chỉ đọc các tóm tắt sách ngắn gọn để tiết kiệm thời gian tối đa.",
+        "Chuyên tâm nghiên cứu các tài liệu chuyên ngành thương mại mới ra mắt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Naval nổi tiếng với quan điểm 'đọc 100 cuốn sách kinh điển còn hơn đọc 1.000 cuốn sách thông thường'. Ông nhấn mạnh việc nắm vững các nguyên lý gốc rễ thông qua việc đọc sâu các tác phẩm kinh điển vượt thời gian."
+    },
+    {
+      "id": "q12",
+      "question": "Trong triết lý sống của Naval, việc loại bỏ sự đố kỵ và so sánh xã hội mang lại lợi ích gì lớn nhất cho tâm trí con người?",
+      "options": [
+        "Giúp chúng ta dễ dàng chiến thắng trong các cuộc cạnh tranh khốc liệt.",
+        "Giúp chúng ta hòa nhập hoàn hảo với các tiêu chuẩn chung của cộng đồng.",
+        "Tạo ra động lực mạnh mẽ để vươn lên vị trí giàu có hơn người khác.",
+        "Giải phóng năng lượng tinh thần để tập trung vào mục tiêu chân thực."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đố kỵ là cái bẫy tư duy tồi tệ nhất vì nó là trò chơi không bao giờ có hồi kết. Khi bạn ngừng so sánh bản thân với người khác, tâm trí bạn mới thực sự bình an để tập trung kiến tạo giá trị thực."
+    },
+    {
+      "id": "q13",
+      "question": "Khi đánh giá về tầm quan trọng của sự phán đoán (Judgment) so với sự chăm chỉ (Hustle) trong kinh doanh, Naval Ravikant ưu tiên điều gì?",
+      "options": [
+        "Sự phán đoán đúng đắn quan trọng hơn nhiều so với việc lao vào làm việc.",
+        "Sự chăm chỉ đóng vai trò quyết định hoàn toàn mọi thành công lớn lao.",
+        "Cả hai yếu tố này có giá trị hoàn toàn tương đương và không thể tách rời.",
+        "Sự chăm chỉ bù đắp cho mọi thiếu sót trong tư duy và chiến lược dài hạn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Naval nhấn mạnh rằng trong thế giới hiện đại với đòn bẩy lớn, việc đưa ra quyết định đúng (phán đoán) quan trọng hơn gấp nhiều lần so với việc đổ mồ hôi làm việc chăm chỉ mà đi sai hướng."
+    },
+    {
+      "id": "q14",
+      "question": "Tinh thần 'tự cứu lấy chính mình' (Self-reliance) được thể hiện qua hành động nào của những nhà sáng tạo nội dung như Eric Jorgenson?",
+      "options": [
+        "Chủ động tự xây dựng sản phẩm và chia sẻ giá trị thay vì chờ đợi cơ hội.",
+        "Tuân thủ tuyệt đối các chỉ dẫn từ các cơ quan quản lý và tổ chức lớn.",
+        "Phụ thuộc vào các khoản tài trợ độc quyền từ các quỹ nhà nước.",
+        "Ủy thác toàn bộ công việc sáng tạo cho các đội ngũ nhân sự bên ngoài."
+      ],
+      "correctIndex": 1,
+      "explanation": "Triết lý 'không ai cứu bạn ngoài chính bạn' đòi hỏi mỗi cá nhân phải chủ động chịu trách nhiệm, tự tạo ra sản phẩm, tự học và tự định hình số phận thông qua năng lực hành động thực tế."
+    },
+    {
+      "id": "q15",
+      "question": "Mục đích tối thượng của việc kết hợp giữa làm giàu không cần may mắn và rèn luyện hạnh phúc theo Naval Ravikant là gì?",
+      "options": [
+        "Đạt được sự tự do tuyệt đối về thời gian, tâm trí và bình an nội tâm.",
+        "Trở thành người quyền lực nhất thống trị các bảng xếp hạng tài chính.",
+        "Xây dựng một đế chế kinh doanh đa quốc gia phục vụ hàng triệu người.",
+        "Thỏa mãn cái tôi cá nhân thông qua sự ca tụng của truyền thông đại chúng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đích đến cuối cùng của tư tưởng Naval không phải là tiền tài hay danh vọng phù phiếm, mà là sự tự do hoàn toàn về thời gian, sự minh mẫn trong tư duy và trạng thái bình an, hạnh phúc tự thân bên trong."
+    }
+  ]
+}

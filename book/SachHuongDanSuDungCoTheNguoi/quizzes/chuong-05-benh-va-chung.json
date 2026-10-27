@@ -1,0 +1,188 @@
+{
+  "bookId": "SachHuongDanSuDungCoTheNguoi",
+  "chapterId": "chuong-05-benh-va-chung",
+  "chapterTitle": "Chương 5: Bệnh và chứng",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo quan điểm của Trung y học cổ truyền được trình bày trong chương, điều nào sau đây thể hiện đúng nhất mối quan hệ giữa \"bệnh\" và \"chứng\"?",
+      "options": [
+        "Bệnh là tên gọi khác của các triệu chứng khó chịu mà cơ thể biểu hiện ra bên ngoài, còn chứng chính là nguyên nhân gây ra chúng.",
+        "Chứng là những biểu hiện rõ ràng ở tứ chi và ngũ quan, còn bệnh là nguyên nhân gốc rễ tồn tại sâu trong lục phủ ngũ tạng.",
+        "Bệnh và chứng thực chất là hai cách gọi khác nhau cho cùng một vấn đề sức khỏe, chỉ khác biệt về mức độ nghiêm trọng của nó.",
+        "Chứng là tình trạng bệnh lý cấp tính và tạm thời, trong khi bệnh là trạng thái mãn tính và kéo dài của các cơ quan nội tạng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách khẳng định rõ ràng: “Chứng hiện ra ở tứ chi và ngũ quan, bệnh tồn tại ở lục phủ ngũ tạng”. Điều này có nghĩa là chứng là các biểu hiện bên ngoài mà chúng ta có thể nhìn thấy hoặc cảm nhận được (như viêm lợi, tê dại chân), trong khi bệnh là nguyên nhân sâu xa, gốc rễ nằm ở các tạng phủ bên trong cơ thể (như khí huyết kém, hàn khí). Các phương án khác đều đảo ngược hoặc đánh đồng hai khái niệm này, không phản ánh đúng triết lý của Trung y."
+    },
+    {
+      "id": "q2",
+      "question": "Tác giả từng bị viêm lợi và đau răng kéo dài. Sau khi được thầy thuốc Trung y chẩn đoán và điều trị, tình trạng này đã khỏi. Theo lý giải của chương sách, nguyên nhân thực sự (bệnh) của chứng viêm lợi này là gì?",
+      "options": [
+        "Tình trạng viêm nhiễm cục bộ tại chân răng do vi khuẩn gây ra, đòi hỏi phải can thiệp trực tiếp vào vùng bị tổn thương.",
+        "Vấn đề nằm ở đại tràng và khí huyết của cơ thể quá kém, cần được điều dưỡng và cải thiện toàn diện từ bên trong.",
+        "Chế độ ăn uống thiếu hụt các loại vitamin và khoáng chất thiết yếu, làm suy yếu sức đề kháng của nướu và răng lợi.",
+        "Việc vệ sinh răng miệng không đúng cách hoặc không thường xuyên, tạo điều kiện cho mảng bám và vi khuẩn phát triển."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả kể lại kinh nghiệm cá nhân: thầy thuốc Trung y đã chẩn đoán vấn đề của ông là do đại tràng và khí huyết quá kém. Sau khi điều dưỡng khí huyết và điều trị đại tràng, viêm lợi đã khỏi. Điều này minh họa cho nguyên tắc 'chứng hiện ra ở tứ chi và ngũ quan, bệnh tồn tại ở lục phủ ngũ tạng', nơi viêm lợi là chứng, còn đại tràng và khí huyết kém mới là bệnh thực sự. Các phương án khác là những lý giải theo Tây y hoặc các nguyên nhân bề mặt, không đi sâu vào gốc rễ theo quan điểm Trung y."
+    },
+    {
+      "id": "q3",
+      "question": "Một người bị tê dại hoặc đau buốt ở chân do bệnh thần kinh tọa. Theo phương pháp \"biện chứng luận trị\" của Trung y được mô tả, nguyên nhân sâu xa nhất (bệnh) của tình trạng này là gì?",
+      "options": [
+        "Vấn đề chính là phế nhiệt (phổi nóng) đã hình thành, làm ảnh hưởng đến hoạt động bình thường của các kinh lạc liên quan.",
+        "Nguyên nhân sâu xa nhất chính là do hàn khí vốn đã tồn tại lâu ngày trong thân thể, gây ra sự mất cân bằng bên trong.",
+        "Tình trạng đau Đảm Kinh là nguyên nhân trực tiếp gây ra các triệu chứng tê dại và đau buốt ở chân của người bệnh.",
+        "Tổn thương thực thể hoặc chèn ép lên dây thần kinh tọa, cần được điều trị bằng các phương pháp can thiệp vật lý."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách giải thích bệnh thần kinh tọa theo nhiều tầng lớp: chân tê dại/đau buốt là chứng. Nguyên nhân tầng thứ nhất là đau Đảm Kinh, tầng thứ hai là phế nhiệt. Nhưng nguyên nhân sâu xa nhất, tầng càng sâu hơn, chính là hàn khí vốn tồn tại trong thân thể. Khi năng lượng đủ để đào thải hàn khí, cơ thể sẽ xuất hiện phế nhiệt. Do đó, hàn khí mới là 'bệnh' thực sự."
+    },
+    {
+      "id": "q4",
+      "question": "Phương pháp \"Biện chứng luận trị\" trong Trung y khác biệt cơ bản với cách tiếp cận của Tây y ở điểm nào, theo nội dung chương sách?",
+      "options": [
+        "Tập trung vào việc suy luận và truy tìm đến tận cùng nguyên nhân căn bản của bệnh tật, không chỉ đơn thuần trị triệu chứng.",
+        "Sử dụng các loại thảo dược tự nhiên và phương pháp không xâm lấn để điều trị, thay vì dùng thuốc hóa dược tổng hợp.",
+        "Dựa vào việc bắt mạch và quan sát lưỡi để chẩn đoán, trong khi Tây y chủ yếu dùng các xét nghiệm cận lâm sàng hiện đại.",
+        "Chú trọng điều trị trực tiếp vào cơ quan bị bệnh, nhằm loại bỏ nhanh chóng các biểu hiện khó chịu mà người bệnh đang gặp."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách nêu rõ: 'Do Trung y không giống với Tây y chỉ đơn thuần dựa vào chứng trạng để trị bệnh, cần phải suy luận truy tìm đến tận cùng nguyên nhân thực sự của bệnh tật.' Đây là điểm khác biệt cốt lõi của 'biện chứng luận trị' – tìm ra nguyên nhân gốc rễ để điều trị, chứ không chỉ xử lý các triệu chứng bề mặt như cách tiếp cận của Tây y thường làm."
+    },
+    {
+      "id": "q5",
+      "question": "Một bệnh nhân được chẩn đoán mắc bệnh u vòm họng. Theo lý luận của Trung y trong chương, nguyên nhân căn bản của khối u này có thể là gì?",
+      "options": [
+        "Nguyên nhân gốc rễ có thể là do bệnh nhân đã từng bị lây nhiễm nghiêm trọng đường dạ dày và ruột từ rất sớm trong quá khứ.",
+        "Khối u hình thành chủ yếu do thói quen hút thuốc lá hoặc hít phải khói thuốc lá thụ động trong thời gian dài liên tục.",
+        "Yếu tố di truyền đóng vai trò quan trọng, khiến bệnh nhân có khuynh hướng dễ mắc các bệnh lý về vòm họng hơn người khác.",
+        "Nhiễm trùng virus hoặc vi khuẩn tại vùng vòm họng, gây ra sự phát triển bất thường của các tế bào và hình thành khối u."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách đưa ra ví dụ về u vòm họng, giải thích rằng nguyên nhân của nó là do từ rất sớm bệnh nhân đã từng bị lây nhiễm nghiêm trọng đường dạ dày và ruột. Cổ là nơi Đại Tràng Kinh đi qua, và sự tích tụ chất phế thải do vấn đề đại tràng đã gây ra khối u. Việc cắt bỏ khối u không giải quyết được nguyên nhân gốc rễ. Các phương án khác là những lý giải phổ biến theo Tây y nhưng không phải là nguyên nhân căn bản theo Trung y hệ thống học của tác giả."
+    },
+    {
+      "id": "q6",
+      "question": "Chương sách chỉ ra rằng lây nhiễm dạ dày và ruột có khả năng diễn biến thành rất nhiều loại bệnh khác nhau. Điều nào sau đây KHÔNG phải là một trong những bệnh được liệt kê có thể liên quan đến vấn đề này?",
+      "options": [
+        "Bệnh viêm mũi dị ứng kéo dài, gây ra các triệu chứng khó chịu như hắt hơi, sổ mũi và ngứa mũi liên tục.",
+        "Tình trạng teo cơ ở một số bộ phận trên cơ thể, gây suy giảm sức mạnh và khả năng vận động của người bệnh.",
+        "Bệnh tim mạch vành, gây ra các vấn đề về lưu thông máu đến tim và có thể dẫn đến nhồi máu cơ tim nguy hiểm.",
+        "Sự xuất hiện của mụn trứng cá dai dẳng trên da mặt và các vùng khác, thường khó điều trị dứt điểm bằng thuốc bôi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương sách liệt kê cụ thể các bệnh có thể do lây nhiễm dạ dày và ruột gây ra: viêm chân răng, viêm mũi dị ứng, u vòm họng, teo cơ, hen suyễn, mụn trứng cá, phát ban, và thậm chí là bệnh tâm thần. Bệnh tim mạch vành không được nhắc đến trong danh sách này như một hệ quả trực tiếp của lây nhiễm dạ dày và ruột trong chương này."
+    },
+    {
+      "id": "q7",
+      "question": "Một người bị chẩn đoán ung thư phế quản với bóng đen xuất hiện trên phim chụp gần phổi. Theo lý giải của Trung y trong chương, đối sách điều trị chính xác nên tập trung vào đâu?",
+      "options": [
+        "Thực hiện phẫu thuật cắt bỏ khối u hoặc bóng đen đó càng sớm càng tốt để ngăn chặn sự phát triển và di căn của bệnh.",
+        "Tập trung vào việc điều trị trực tiếp tạng phế (phổi) bằng các phương pháp y học hiện đại nhằm loại bỏ hoàn toàn bóng đen.",
+        "Tiến hành điều trị thẳng vào tỳ vị để cải thiện quá trình thay cũ đổi mới trong kinh lạc, giúp đào thải rác thải tích tụ.",
+        "Áp dụng hóa trị hoặc xạ trị để tiêu diệt các tế bào bất thường, nhằm kiểm soát và loại bỏ hoàn toàn khối u ác tính."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương sách giải thích rằng bóng đen gần phổi (mà Tây y gọi là ung thư phế quản) thực chất không nằm trong phổi mà ở vị trí của huyệt Đại Bao thuộc Tỳ Kinh. Đây là sự tích tụ rác thải do tỳ vị có biến chứng bệnh, làm quá trình thay cũ đổi mới trong kinh lạc yếu đi. Do đó, đối sách chính xác là điều trị thẳng vào tỳ vị, chứ không phải chỉ loay hoay với vấn đề của phổi hoặc cắt bỏ khối u mà không giải quyết gốc rễ."
+    },
+    {
+      "id": "q8",
+      "question": "Một bệnh nhân bị viêm da trên mặt, đồng thời cánh tay và cẳng chân thường xuyên nóng, đỏ, ngứa. Sau khi nguồn gốc bệnh là ruột và dạ dày được khống chế, các triệu chứng viêm da biến mất. Điều này khẳng định điều gì?",
+      "options": [
+        "Bệnh nhân cần tiếp tục sử dụng các loại thuốc bôi ngoài da để đảm bảo viêm da không tái phát, dù dạ dày đã ổn định.",
+        "Tình trạng viêm da này là một dạng viêm da dị ứng thông thường, đã tự khỏi khi cơ thể có sự thay đổi tích cực bên trong.",
+        "Sự biến mất của viêm da chỉ là một sự trùng hợp ngẫu nhiên, không liên quan trực tiếp đến việc điều trị dạ dày và ruột.",
+        "Viêm da chỉ là một triệu chứng bên ngoài, còn nguyên nhân gốc rễ thực sự nằm ở vấn đề của ruột và dạ dày bên trong."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ví dụ về bệnh viêm da trong chương minh họa rõ ràng mối quan hệ bệnh và chứng. Viêm da trên mặt là nơi Vị Kinh và Đại Tràng Kinh đi qua, và các triệu chứng ở cánh tay, cẳng chân cũng liên quan đến Đại Tràng Kinh. Khi vấn đề dạ dày và ruột (nguyên nhân gốc) được khống chế, các triệu chứng viêm da (chứng) cũng biến mất. Điều này chứng tỏ viêm da là biểu hiện bên ngoài của vấn đề nội tạng, không phải là bệnh độc lập hay chỉ là dị ứng thông thường."
+    },
+    {
+      "id": "q9",
+      "question": "Chương sách nhấn mạnh rằng không phải tất cả các triệu chứng bệnh tật đều gây khó chịu rõ rệt. Điều này có ý nghĩa gì đối với việc nhận diện và điều trị bệnh theo quan điểm Trung y?",
+      "options": [
+        "Chỉ nên bắt đầu điều trị khi các triệu chứng đã gây ra cảm giác khó chịu rõ rệt, vì đó là lúc bệnh đã phát triển nghiêm trọng.",
+        "Người thầy thuốc giỏi cần có năng lực đọc ra tình trạng sức khỏe hoàn chỉnh từ cả những triệu chứng nhỏ nhất không gây khó chịu.",
+        "Các triệu chứng không có cảm giác thường là dấu hiệu cơ thể đang tự điều chỉnh, không cần can thiệp y tế từ bên ngoài.",
+        "Triệu chứng không cảm giác không quan trọng bằng triệu chứng gây khó chịu, nên ưu tiên xử lý những vấn đề cấp bách hơn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách chỉ ra rằng nhiều triệu chứng bệnh tật, như sự tích trữ rác thải trong cơ thể (ví dụ ung thư phế quản hay viêm da), người bệnh không hề có bất cứ cảm giác khó chịu nào. Do đó, một người thầy thuốc giỏi phải có khả năng đọc ra tình trạng sức khỏe hoàn chỉnh từ các loại triệu chứng nhỏ nhất, bao gồm cả những triệu chứng không gây cảm giác khó chịu, để tìm ra nguyên nhân gốc rễ của bệnh."
+    },
+    {
+      "id": "q10",
+      "question": "Theo quan điểm của Trung y được trình bày trong chương, y học hiện đại đã đánh giá thấp điều gì về cơ thể con người?",
+      "options": [
+        "Trí tuệ tự nhiên và khả năng tự phục hồi vượt trội của cơ thể, thường xuyên can thiệp tùy tiện vào công việc của nó.",
+        "Khả năng chịu đựng và thích nghi của cơ thể với các tác nhân gây bệnh, dẫn đến việc điều trị quá mức cần thiết.",
+        "Sự phức tạp của hệ thống gene và các cơ chế sinh học phân tử, chưa được nghiên cứu đầy đủ để hiểu rõ bệnh tật.",
+        "Vai trò quan trọng của thuốc hóa dược trong việc điều trị bệnh, thay vì tập trung vào các phương pháp tự nhiên và truyền thống."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách khẳng định: 'Theo quan điểm Trung y, cơ thể người mà chúng ta nhìn thấy, là một cơ thể tràn đầy chất trí tuệ, từ xưa tới nay, chúng ta luôn luôn đánh giá thấp chất trí tuệ của cơ thể, đánh giá cao tri thức của bản thân chúng ta.' Tác giả cho rằng y học hiện đại thường can thiệp tùy tiện vào cơ thể mà không hiểu rõ nó đang làm gì, dẫn đến nhiều bệnh tật ngày nay. Các phương án khác không phải là trọng tâm phê phán của tác giả trong chương này."
+    },
+    {
+      "id": "q11",
+      "question": "Hệ thống duy tu bên trong cơ thể người, theo Trung y, không chỉ là năng lực miễn dịch hạn hẹp như Tây y nói. Điều kiện cơ bản nhất để hệ thống tự điều trị hoàn chỉnh này hoạt động hiệu quả là gì?",
+      "options": [
+        "Phải có năng lượng khí huyết đầy đủ và dồi dào, cung cấp đủ nguồn lực cho các chức năng tự chẩn đoán và phục hồi.",
+        "Một chế độ ăn uống cân bằng và giàu dinh dưỡng, đảm bảo cung cấp đầy đủ các vitamin và khoáng chất thiết yếu.",
+        "Môi trường sống trong lành, ít ô nhiễm và tránh xa các tác nhân gây hại từ bên ngoài, giúp cơ thể ít phải chống đỡ.",
+        "Tinh thần lạc quan, vui vẻ và tránh xa căng thẳng, vì yếu tố tâm lý ảnh hưởng lớn đến sức khỏe tổng thể của con người."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách nêu rõ: 'Hệ thống chẩn đoán duy tu bên trong cơ thể người... là một hệ thống điều trị hoàn chỉnh bao gồm tự chẩn đoán, quản lý nguồn năng lượng cơ thể, tự phục hồi và tái sinh, điều kiện cơ bản nhất để những hệ thống này làm việc là phải có năng lượng khí huyết đầy đủ.' Khí huyết đầy đủ là nền tảng cho mọi hoạt động tự chữa lành của cơ thể."
+    },
+    {
+      "id": "q12",
+      "question": "Khi cơ thể mắc bệnh, theo quan điểm của tác giả, chúng ta nên cân nhắc điều gì trước tiên thay vì trực tiếp can dự từ bên ngoài?",
+      "options": [
+        "Nghỉ ngơi hoàn toàn và tránh mọi hoạt động thể chất, để cơ thể có thời gian tự phục hồi mà không cần can thiệp.",
+        "Nhanh chóng tìm kiếm các loại thuốc đặc trị hoặc phương pháp điều trị mạnh mẽ để dập tắt triệu chứng ngay lập tức.",
+        "Thực hiện phẫu thuật hoặc các can thiệp y tế xâm lấn để loại bỏ nguồn gốc bệnh tật một cách triệt để và nhanh chóng.",
+        "Cân nhắc làm sao để hệ thống tự điều trị bên trong cơ thể hoạt động bình thường và hỗ trợ những gì nó đang cần."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả khuyên rằng: 'Do trong cơ thể đã có hệ thống tự điều trị, khi chúng ta mắc bệnh, nên cân nhắc làm sao để cho hệ thống bên trong cơ thể hoạt động bình thường, không nên từ bên ngoài trực tiếp can dự vào điều chỉnh.' Mục tiêu là nhận biết cơ thể đang ứng phó thế nào và cần sự hỗ trợ gì từ chúng ta, chứ không phải can thiệp thô bạo. Các phương án khác thể hiện cách tiếp cận can thiệp từ bên ngoài hoặc thụ động, không đúng với tinh thần chủ động hỗ trợ hệ thống tự chữa lành của cơ thể."
+    },
+    {
+      "id": "q13",
+      "question": "Chương sách phê phán quan điểm chỉ muốn tìm \"linh đan linh dược\" để khỏi bệnh mà không muốn điều chỉnh thói quen sinh hoạt. Điều này ngụ ý gì về cách tiếp cận bệnh mãn tính?",
+      "options": [
+        "Bệnh mãn tính là do sự suy yếu của cơ thể theo thời gian và không thể chữa khỏi hoàn toàn chỉ bằng cách thay đổi lối sống.",
+        "Các loại thuốc chữa bệnh hiện đại thường không có hiệu quả lâu dài đối với bệnh mãn tính, chỉ mang tính chất tạm thời.",
+        "Việc điều chỉnh thói quen sinh hoạt là yếu tố then chốt để loại bỏ nguồn gốc thực sự của bệnh tật, đặc biệt là bệnh mãn tính.",
+        "Người bệnh chỉ cần tìm đúng loại thuốc phù hợp, không cần phải quá lo lắng về việc thay đổi thói quen sinh hoạt hàng ngày."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hình minh họa và chú thích trong chương nói rõ: 'Người mắc bệnh bao giờ cũng chỉ muốn tìm được linh đan linh dược để khỏi bệnh, mà không muốn điều chỉnh thói quen sinh hoạt của mình để loại bỏ nguồn gốc thực sự của bệnh tật.' Điều này nhấn mạnh rằng để giải quyết bệnh tật, đặc biệt là các bệnh mãn tính, việc thay đổi thói quen sinh hoạt để loại bỏ nguyên nhân gốc rễ là điều tối quan trọng, chứ không phải chỉ trông chờ vào thuốc men."
+    },
+    {
+      "id": "q14",
+      "question": "Theo tác giả, mục đích cuối cùng của điều trị bệnh tật không phải là loại bỏ trực tiếp các triệu chứng khó chịu. Vậy mục đích thực sự là gì?",
+      "options": [
+        "Kéo dài tuổi thọ và cải thiện chất lượng cuộc sống cho người bệnh, bất kể nguyên nhân gốc rễ của bệnh có được giải quyết.",
+        "Giảm thiểu tối đa các cơn đau và sự khó chịu mà triệu chứng gây ra, mang lại cảm giác thoải mái cho người bệnh.",
+        "Triệt để loại bỏ nguyên nhân thực sự của bệnh tật từ bên trong, giúp cơ thể tự phục hồi và duy trì sức khỏe.",
+        "Tăng cường hệ thống miễn dịch của cơ thể để chống lại các tác nhân gây bệnh, giúp cơ thể tự bảo vệ khỏi mối đe dọa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương sách kết luận: 'Đối với triệu chứng của bệnh tật... không nên loại bỏ trực tiếp những triệu chứng này, mà nên thông qua nó để tìm ra nguyên nhân thực sự của bệnh tật, triệt để loại bỏ nguyên nhân của bệnh tật mới là mục đích cuối cùng của điều trị.' Điều này khẳng định mục tiêu là giải quyết gốc rễ, chứ không phải chỉ làm dịu các biểu hiện bên ngoài."
+    },
+    {
+      "id": "q15",
+      "question": "Tổng kết lại chương \"Bệnh và chứng\", thông điệp cốt lõi nhất mà tác giả muốn truyền tải đến người đọc về cách nhìn nhận sức khỏe và bệnh tật là gì?",
+      "options": [
+        "Bệnh tật là một phần tất yếu của cuộc sống và đôi khi là do số phận, chúng ta chỉ có thể chấp nhận và tìm cách sống chung.",
+        "Y học hiện đại (Tây y) đã hoàn toàn sai lầm trong cách chẩn đoán và điều trị, cần phải từ bỏ để chuyển sang Trung y.",
+        "Trung y là phương pháp điều trị tốt nhất và duy nhất có thể giải quyết mọi bệnh tật, vượt trội hơn hẳn các nền y học khác.",
+        "Cơ thể là một hệ thống trí tuệ hoàn chỉnh, bệnh tật thường là nỗ lực tự chữa lành, cần tìm nguyên nhân gốc rễ để hỗ trợ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Toàn bộ chương sách xoay quanh việc phân biệt bệnh và chứng, nhấn mạnh trí tuệ của cơ thể người, khả năng tự chữa lành và tầm quan trọng của việc tìm ra nguyên nhân gốc rễ (bệnh) thay vì chỉ điều trị triệu chứng (chứng). Thông điệp cốt lõi là hãy hiểu và hỗ trợ cơ thể tự điều chỉnh, thay vì can thiệp thô bạo. Các phương án khác hoặc quá cực đoan (phủ nhận hoàn toàn Tây y) hoặc quá tiêu cực (chấp nhận số phận), không phản ánh đúng tinh thần của tác giả."
+    }
+  ]
+}

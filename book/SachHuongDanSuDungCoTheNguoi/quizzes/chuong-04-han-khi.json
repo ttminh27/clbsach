@@ -1,0 +1,188 @@
+{
+  "bookId": "SachHuongDanSuDungCoTheNguoi",
+  "chapterId": "chuong-04-han-khi",
+  "chapterTitle": "Chương 4: Hàn khí",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo quan điểm dưỡng sinh hệ thống của tác giả Ngô Thanh Trung, hiện tượng hắt hơi và chảy nước mũi khi bị cảm mạo thực chất phản ánh điều gì trong cơ chế hoạt động của cơ thể?",
+      "options": [
+        "Là triệu chứng ngẫu nhiên do thời tiết thay đổi đột ngột làm rối loạn hệ thần kinh trung ương.",
+        "Là dấu hiệu cho thấy hệ miễn dịch đang suy yếu nghiêm trọng và cần được can thiệp thuốc ngay.",
+        "Là hậu quả của việc vi khuẩn tấn công trực tiếp vào niêm mạc khoang mũi gây tổn thương.",
+        "Là cơ chế tự vệ và nỗ lực sinh học tự nhiên nhằm trục xuất hàn khí và chất thải ra ngoài."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả khẳng định cơ thể con người là một hệ thống thông minh, hắt hơi và chảy nước mũi không phải là bệnh mà là phương thức tự động của khoang mũi nhằm bài trừ hàn khí và vật lạ ra khỏi cơ thể."
+    },
+    {
+      "id": "q2",
+      "question": "Về mặt vật lý và hóa học sinh học, khi cơ thể rơi vào môi trường nhiệt độ thấp và bị mất nhiệt, cơ thể sẽ kích hoạt biện pháp phòng vệ thứ hai bằng cách nào?",
+      "options": [
+        "Tăng cường tiết mồ hôi toàn thân để làm mát bề mặt và cân bằng nhiệt độ môi trường.",
+        "Kích thích hệ thần kinh trung ương làm co mạch máu ngoại biên để ngưng hoàn toàn tuần hoàn.",
+        "Đốt cháy các chất lỏng lưu động dưới da thông qua phản ứng hóa học để sinh nhiệt bù đắp.",
+        "Sử dụng năng lượng từ xương cốt để chuyển hóa trực tiếp thành nhiệt năng sưởi ấm nội tạng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi mất nhiệt, cơ thể khởi động phản ứng hóa học dưới da, đốt cháy một số chất lỏng lưu động để sinh ra nhiệt lượng, tạo ra chất dịch biến chất gọi là hàn khí nhằm ngăn thất tán nhiệt."
+    },
+    {
+      "id": "q3",
+      "question": "Bản chất thực sự của 'hàn khí' theo lý giải kết hợp giữa Đông y và sinh học hiện đại trong tác phẩm là gì?",
+      "options": [
+        "Một dạng năng lượng vô hình trừu tượng giống như khí công lưu chuyển trong các kinh mạch.",
+        "Một loại vi khuẩn độc hại xâm nhập từ môi trường và sinh sôi nảy nở bên trong tạng phủ.",
+        "Một dạng tín hiệu thần kinh cảnh báo sự chênh lệch nhiệt độ giữa da và môi trường ngoài.",
+        "Một loại vật chất cụ thể ở trạng thái lỏng hoặc rắn do dịch cơ thể biến chất tạo thành."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả chỉ ra hàn khí không phải khái niệm trừu tượng mà là vật chất cụ thể (lỏng hoặc rắn) sinh ra từ phản ứng hóa học chuyển hóa chất dịch để giữ nhiệt khi cơ thể bị lạnh."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao một người có sức khỏe kém, khí huyết suy kiệt thường không bao giờ bị cảm mạo hay hắt hơi sổ mũi dù sống trong môi trường lạnh?",
+      "options": [
+        "Vì hệ thống miễn dịch của họ đã đạt đến mức độ hoàn hảo và thích nghi tuyệt đối.",
+        "Vì cơ thể họ hoàn toàn không có năng lượng và khả năng để phát động phản ứng đào thải hàn khí.",
+        "Vì hàn khí không thể xâm nhập vào cơ thể của những người có thể trạng suy nhược.",
+        "Vì lượng khí huyết lưu thông quá nhanh khiến hàn khí tự động tiêu tan mà không kịp tích tụ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Người không bao giờ cảm mạo chưa chắc đã khỏe mạnh, thực chất là do khí huyết kém, cơ thể không đủ năng lượng để trục xuất hàn khí nên đành bất lực dung túng cho hàn khí tích tụ sâu bên trong."
+    },
+    {
+      "id": "q5",
+      "question": "Khi hàn khí xâm nhập và tích tụ lâu ngày ở vùng đỉnh đầu, biểu hiện thực tế thường thấy ở người bệnh là gì?",
+      "options": [
+        "Xuất hiện các vết bầm tím lan rộng kèm theo cảm giác tê buốt toàn bộ vùng da đầu.",
+        "Hình thành một lớp vật chất mềm xốp như đệm cao su hoặc bướu cưng cứng do tăng sinh.",
+        "Tóc rụng hàng loạt để giảm bớt diện tích hấp thụ nhiệt lượng từ môi trường bên ngoài.",
+        "Da đầu trở nên khô cứng hoàn toàn và mất đi toàn bộ cảm giác khi có lực tác động."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hàn khí ở đỉnh đầu tích tụ lâu ngày làm xuất hiện lớp vật chất mềm như đệm cao su, hoặc nặng hơn là bướu cưng cứng (tăng sinh chất xương) do hàn khí chuyển hóa thành trạng thái rắn."
+    },
+    {
+      "id": "q6",
+      "question": "Hiện tượng mé ngoài đùi phình to (thường gặp ở nữ giới) hoặc bắp chân to như chân củ cải liên quan đến sự tích tụ hàn khí ở đường kinh nào?",
+      "options": [
+        "Phế Kinh nằm ở hai bên tuyến giữa trước ngực.",
+        "Bàng Quang Kinh chạy dọc theo phần sau của cơ thể.",
+        "Đảm Kinh chạy dọc theo mé ngoài của đùi và chân.",
+        "Vị Kinh chạy từ dưới mắt kéo dài xuống tận ngón chân."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hàn khí xâm nhập và tích tụ ở Đảm Kinh làm cản trở lưu thông, kết hợp với rác thải tế bào tạo ra vùng mỡ phình to ở mé ngoài đùi hoặc dồn xuống bắp chân khi vận động nhiều."
+    },
+    {
+      "id": "q7",
+      "question": "Theo tác giả Ngô Thanh Trung, khi hàn khí di chuyển sâu vào tạng phế và gây ra hiện tượng 'phế hư', người bệnh sẽ có triệu chứng đặc trưng nào về tâm lý và sinh lý?",
+      "options": [
+        "Hưng phấn thái quá, da dẻ hồng hào sáng bóng, khả năng giữ nước trong cơ thể tăng cao đột ngột.",
+        "Tinh thần bi quan dễ bật khóc, da xạm đen không sáng bóng, uống nước là muốn đi tiểu ngay.",
+        "Tâm trạng luôn tức giận cáu gắt, nước da chuyển sang màu vàng nghệ và thường xuyên bị phù nề.",
+        "Trí nhớ suy giảm nghiêm trọng, cơ thể tỏa ra nhiệt lượng cao và xuất hiện các cơn đau nửa đầu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phế hư do hàn khí ở phổi làm giảm năng lực xử lý nước (uống nước đi tiểu ngay, nước trong không mùi), da xạm đen không bóng, tinh thần bi quan dễ bật khóc đúng với nguyên lý 'phế chủ bi'."
+    },
+    {
+      "id": "q8",
+      "question": "Làm thế nào để phân biệt chính xác nguồn gốc hàn khí đang được đào thải khi cơ thể xuất hiện các triệu chứng ngạt mũi, hắt hơi hoặc chảy nước mũi?",
+      "options": [
+        "So sánh nhiệt độ giữa trán và chóp mũi; trán lạnh hơn là kinh lạc trước, chóp mũi lạnh hơn là ở phổi.",
+        "Dựa vào màu sắc của nước mũi; nước mũi trong là kinh lạc sau, nước mũi đặc là tạng phế.",
+        "Quan sát thời gian xuất hiện triệu chứng; buổi sáng là do Đảm Kinh, ban đêm là do Vị Kinh.",
+        "Kiểm tra mức độ đau nhức ở vai gáy; đau nhiều ở vai gáy chắc chắn là hàn khí từ phế thải ra."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả hướng dẫn cách phân biệt thực tế: sờ trán và đầu mũi, nếu trán lạnh hơn là hàn khí từ kinh lạc phía trước thân thể, nếu chóp mũi lạnh hơn là hàn khí từ tạng phế được đẩy ra."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao trong quá trình cơ thể đào thải hàn khí (như cảm mạo, ho, sốt), việc ngay lập tức dùng thuốc hóa dược để dập tắt triệu chứng lại bị tác giả phê phán?",
+      "options": [
+        "Vì thuốc hóa dược làm tăng cường lượng hàn khí tích tụ mới trong các kinh mạch.",
+        "Vì cơ thể sẽ mất hoàn toàn khả năng tự tạo ra năng lượng trong các lần mắc bệnh sau.",
+        "Vì thuốc hóa dược gây tổn thương vĩnh viễn cho hệ thống tuần hoàn máu của tủy xương.",
+        "Vì điều đó ngăn cản quá trình tự vệ tự nhiên, khiến rác thải và hàn khí bị giữ lại bên trong."
+      ],
+      "correctIndex": 3,
+      "explanation": "Triệu chứng cảm mạo, ho, sốt là lúc cơ thể dùng năng lượng để đẩy hàn khí ra ngoài. Dùng thuốc chặn đứng triệu chứng đồng nghĩa với việc chặn đường thoát của hàn khí, khiến chúng kẹt lại trong cơ thể."
+    },
+    {
+      "id": "q10",
+      "question": "Hành vi thói quen nào trong đời sống hiện đại được tác giả ví là 'mang lại tác hại lâu dài giống như dầm nước mưa' đối với sức khỏe?",
+      "options": [
+        "Gội đầu xong lười sấy khô tóc hoặc dùng vải bọc kín đầu ngay lập tức.",
+        "Ăn uống quá nhiều vào bữa tối và thường xuyên thức khuya xem tivi.",
+        "Uống nước lạnh ngay sau khi vừa vận động mạnh ngoài trời nắng gắt.",
+        "Ngồi phòng điều hòa ở nhiệt độ thấp liên tục trong suốt mùa hè."
+      ],
+      "correctIndex": 0,
+      "explanation": "Gội đầu không sấy khô ngay hoặc dùng vải bọc đầu ẩm ướt tạo điều kiện cho hàn khí xâm nhập trực tiếp vào đỉnh đầu, gây tích tụ chất mỡ hàn khí tương tự như việc dầm nước mưa."
+    },
+    {
+      "id": "q11",
+      "question": "Theo quan điểm của tác giả về các hoạt động thể thao như bơi lội, điều gì là ngộ nhận phổ biến của đa số người tham gia?",
+      "options": [
+        "Tin rằng việc không có phản ứng bệnh tức thời nghĩa là hàn khí không thể xâm nhập qua việc bơi.",
+        "Cho rằng bơi lội không bao giờ gây hại vì nước trong hồ bơi luôn được làm sạch bằng hóa chất.",
+        "Tin rằng bơi lội trong nước lạnh giúp rèn luyện cơ bắp và tăng cường khí huyết tuyệt đối.",
+        "Nghị lực và ý chí cá nhân có thể chuyển hóa hoàn toàn nước lạnh thành nhiệt năng nuôi cơ thể."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhiều người thích bơi lội chủ quan cho rằng bơi không liên quan đến hàn khí vì sau khi lên bờ không thấy bệnh ngay, nhưng thực tế cảm giác lạnh run rẩy chính là lúc hàn khí đã xâm nhập."
+    },
+    {
+      "id": "q12",
+      "question": "Phương pháp dân gian truyền thống nào được tác giả đề xuất nên sử dụng ngay khi phát hiện cơ thể bị dầm mưa hoặc nhiễm phong hàn để ngăn chặn hậu quả?",
+      "options": [
+        "Tắm nước lạnh toàn thân ngay lập tức nhằm kích thích hệ tuần hoàn hoạt động mạnh mẽ.",
+        "Ngâm chân nước đá lạnh đột ngột để cân bằng lại thân nhiệt bề mặt và thân nhiệt bên trong.",
+        "Uống ngay một bát trà gừng ấm để tăng cường nhiệt năng và trục xuất hàn khí ra ngoài.",
+        "Uống thuốc kháng sinh liều cao để tiêu diệt các vi khuẩn phong hàn vừa xâm nhập."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nhấn mạnh việc chuẩn bị sẵn trà gừng trong nhà và uống ngay khi bị dầm mưa hoặc nhiễm phong hàn là biện pháp quan trọng để trục xuất hàn khí trước khi nó kịp tích tụ thành bệnh."
+    },
+    {
+      "id": "q13",
+      "question": "Khi hàn khí tích tụ ở khu vực Bàng Quang Kinh sau lưng và bắt đầu được đào thải, người bệnh thường xuất hiện những triệu chứng đặc trưng nào?",
+      "options": [
+        "Chóp mũi lạnh ngắt, phần trắng chuyển sang màu xanh nhạt và ho khan không dứt.",
+        "Chướng bụng đầy hơi, thèm ăn vặt liên tục nhưng đại tiện cực kỳ khó khăn và táo bón.",
+        "Đau nhức vai lưng, đầu óc căng phồng, đau nửa đầu và đau râm rang ở huyệt Ấn Đường.",
+        "Sốt cao đột ngột kèm theo hiện tượng co cứng cơ ở vùng đùi trước và ngực."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bàng Quang Kinh chi phối toàn bộ vùng lưng và đầu, khi hàn khí ở đây được đẩy ra sẽ gây đau mỏi vai lưng, căng đầu, đau nhức đầu nửa đầu và đau râm rang vùng Ấn Đường, Phong Trì."
+    },
+    {
+      "id": "q14",
+      "question": "Theo triết lý tổng quan của tác giả Ngô Thanh Trung trong 'Sách Hướng Dẫn Sử Dụng Cơ Thể Người', vấn đề lớn nhất của y học hiện đại trong việc điều trị bệnh mạn tính là gì?",
+      "options": [
+        "Đánh giá thấp trí tuệ tự thân của cơ thể người và đánh giá quá cao năng lực tri thức nhân loại.",
+        "Thiếu các trang thiết bị công nghệ cao để chẩn đoán chính xác cấu trúc tế bào vi mô.",
+        "Đánh giá quá cao khả năng tự chữa lành của cơ thể và quá coi trọng các bài thuốc cổ phương.",
+        "Quá tập trung vào việc thay đổi thói quen sinh hoạt của người bệnh thay vì dùng thuốc."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả đúc kết: 'Vấn đề lớn nhất của y học hiện đại là đánh giá thấp trí tuệ tự thân của cơ thể người, đánh giá cao năng lực của tri thức nhân loại', dẫn đến việc can thiệp sai lầm vào các cơ chế tự vệ."
+    },
+    {
+      "id": "q15",
+      "question": "Chiến lược nền tảng và duy nhất đúng đắn để giải quyết triệt để các loại hàn khí ẩn chứa trong kinh lạc và tạng phủ là gì?",
+      "options": [
+        "Sử dụng các loại linh đan diệu dược đắt tiền và các phương pháp ngoại khoa tiên tiến nhất.",
+        "Xây dựng thói quen sinh hoạt tốt đẹp để nâng cao khí huyết và hỗ trợ cơ thể tự đào thải.",
+        "Dùng thuốc hạ sốt và giảm đau liều cao mỗi khi cơ thể bắt đầu có dấu hiệu mệt mỏi.",
+        "Tuyệt đối kiêng nước và duy trì chế độ nhịn ăn hoàn toàn trong suốt thời gian giao mùa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh không có thần đơn tiên dược nào cả; để loại bỏ hàn khí, bắt buộc phải quay về xây dựng lối sống lành mạnh, nâng cao năng lượng khí huyết để cơ thể tự phát động trục xuất rác thải."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# Về Lê Thanh Hoàng Bảo
+
+Lê Thanh Hoàng Bảo là người sáng lập trung tâm tri thức BHP đồng thời cũng là dịch giả quyển sách bán chạy nhất về lĩnh vực học tập và phát triển bản thân: Phương Pháp Học Tập Không Giới Hạn.
+
+Trong suốt 10 năm hướng dẫn, đào tạo cho hàng nghìn bạn trẻ tại các ngôi trường dành cho học sinh có tiềm năng và tố chất vượt trội (High School for the Gifted), anh luôn băn khoăn trước cái cách mà các em học sinh - vốn được kì vọng ấy - đang phải đối phó với chính kiến thức và cuộc đời mình. Dường như có một sự đồng cảm sâu sắc giữa anh và những khó khăn trong học tập mà các em phải chịu đựng. Đó là khó khăn của thời đại mới, khi mà kiến thức ngày càng vô tận mà năng lực học tập của mỗi cá nhân lại chưa được trang bị một cách kĩ càng. Cũng từ chính những trăn trở về bản thân, khi đã dành rất nhiều thời gian cho việc học nhưng cuộc sống vẫn mãi loay hoay, không rõ ràng về hướng đi sự nghiệp, anh đã quyết tâm lên đường tìm kiếm cho mình những kiến thức thực tiễn nhằm trả lời cho câu hỏi “Làm thế nào để khai phóng tài năng của mỗi người và tài năng đó có thể giải quyết được vấn đề hay mang đến giá trị cho ai?”.
+
+Sau rất nhiều trải nghiệm quý báu, với xuất phát điểm là một giáo viên dạy Hoá học đồng thời bén duyên nghiên cứu nhiều năm liền trong lĩnh vực Khoa học Xã hội và Hành vi, Lê Thanh Hoàng Bảo đã đúc rút ra những quy luật chuyển hoá tự nhiên để vận dụng trong giáo dục và đời sống hằng ngày. Đặc biệt, anh còn phát triển những cách thức học tập hiệu quả được dựa trên nền tảng của một loại phản ứng mang đến giá trị năng lượng vô cùng mạnh mẽ, đó là phương pháp Học tập Hạt Nhân (Nuclear Learning Method).
+
+Chính nhờ quyết tâm và phương pháp học tập ấy, anh nhanh chóng nắm bắt nhiều kiến thức chuyên sâu trong rất nhiều lĩnh vực không chỉ về học thuật mà còn cả nghệ thuật sáng tạo, tâm lý và kinh doanh. Tất cả những điều đó đã mở ra một chân trời mới để anh có thể hiện thực hoá ước mơ mang những giá trị hữu ích lan toả đến cho nhiều người, đồng thời có một cuộc sống đủ đầy và hạnh phúc trọn vẹn.
+
+Lê Thanh Hoàng Bảo có sở thích sưu tầm, làm bạn cùng những quyển sách, thưởng thức nghệ thuật nghe nhìn và vui đùa cùng các con chữ. Anh vẫn giữ thói quen học tập đều đặn mỗi ngày để quan sát, phân tích và phát triển bản thân. Ngoài công việc, anh là một người luôn dành thời gian chăm sóc cho gia đình nhỏ của mình, biết lắng nghe nên được các bạn trẻ tin tưởng, gửi gắm rất nhiều tâm sự cũng như chia sẻ biết bao khát vọng và hoài bão.
+

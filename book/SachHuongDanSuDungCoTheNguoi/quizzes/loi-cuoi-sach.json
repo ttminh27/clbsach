@@ -1,0 +1,188 @@
+{
+  "bookId": "SachHuongDanSuDungCoTheNguoi",
+  "chapterId": "loi-cuoi-sach",
+  "chapterTitle": "Lời cuối sách: Mong muốn mọi người đều có thể tự tin về sức khỏe",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo quan điểm của tác giả Ngô Thanh Trung trong chương này, vấn đề cốt lõi nhất của y học hiện đại đối với các bệnh mạn tính là gì?",
+      "options": [
+        "Y học hiện đại thiếu các loại thuốc đặc trị hiệu quả cho mọi căn bệnh mạn tính.",
+        "Hệ thống pháp luật quá nghiêm ngặt đã cản trở sự phát triển của các phương pháp mới.",
+        "Các bác sĩ hiện đại không đủ năng lực và kinh nghiệm để xử lý các ca bệnh phức tạp.",
+        "Y học hiện đại chưa thực sự hiểu rõ cơ chế tự chữa lành của cơ thể con người."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả nhấn mạnh rằng y học hiện đại còn 'bó tay trước tất cả những căn bệnh mạn tính' và tồn tại nhiều 'khiếm khuyết'. Điều này ngụ ý một sự thiếu hụt trong việc thấu hiểu bản chất của bệnh tật và cơ chế tự phục hồi của cơ thể, dẫn đến việc không thể giải quyết tận gốc các vấn đề sức khỏe lâu dài. Các phương án khác là hệ quả hoặc một phần của vấn đề, nhưng không phải là cốt lõi nhất."
+    },
+    {
+      "id": "q2",
+      "question": "Khi tác giả và nhóm nghiên cứu của mình mắc bệnh, họ có thái độ và hành động như thế nào theo nội dung chương sách?",
+      "options": [
+        "Họ coi đó là cơ hội quý giá để thực nghiệm và quan sát cơ chế của cơ thể mình.",
+        "Họ ngay lập tức tìm kiếm sự tư vấn từ các bác sĩ y học hiện đại để điều trị kịp thời.",
+        "Họ lo lắng và tìm mọi cách để dập tắt triệu chứng bệnh càng nhanh càng tốt.",
+        "Họ chỉ áp dụng các phương pháp đã được y học chính thống công nhận để chữa trị."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả và nhóm nghiên cứu coi mỗi lần sinh bệnh là một 'cơ hội thực nghiệm tốt nhất' để quan sát tỉ mỉ những gì đang diễn ra trong cơ thể và suy nghĩ về hoạt động của nó. Điều này thể hiện một thái độ chủ động, nghiên cứu và tin tưởng vào khả năng tự điều chỉnh của cơ thể, khác với việc chỉ dựa vào y học hiện đại hay lo lắng dập tắt triệu chứng."
+    },
+    {
+      "id": "q3",
+      "question": "Theo tác giả, hệ thống pháp luật nghiêm khắc trong y học hiện đại đã tạo ra ảnh hưởng chủ yếu nào đối với các thầy thuốc bệnh viện?",
+      "options": [
+        "Nó đảm bảo quyền lợi và sự an toàn tối đa cho bệnh nhân trong quá trình điều trị.",
+        "Nó hạn chế động lực suy nghĩ và khả năng phát triển phương pháp điều trị mới.",
+        "Nó khuyến khích các thầy thuốc không ngừng nghiên cứu để phát minh phương pháp mới.",
+        "Nó giúp chuẩn hóa quy trình khám chữa bệnh, nâng cao chất lượng dịch vụ y tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ rõ rằng pháp luật nghiêm khắc đã 'hạn chế động lực suy nghĩ của thầy thuốc công tác ở bệnh viện', khiến họ chỉ có thể sử dụng những phương pháp đã được học hoặc công nhận. Điều này cản trở sự đổi mới và phát triển các phương pháp điều trị mới từ những người trực tiếp chữa bệnh."
+    },
+    {
+      "id": "q4",
+      "question": "Câu nói 'Bệnh tật thực ra là sự ghi chép trung thực sinh hoạt thường ngày của chúng ta' hàm ý điều gì sâu sắc nhất về nguyên nhân của bệnh tật?",
+      "options": [
+        "Bệnh tật chủ yếu do yếu tố di truyền và môi trường bên ngoài tác động gây ra.",
+        "Bệnh tật là kết quả trực tiếp của những thói quen sinh hoạt và lối sống hàng ngày.",
+        "Bệnh tật là một hình thức cơ thể tự điều chỉnh để thích nghi với các tác nhân lạ.",
+        "Bệnh tật thường xuất hiện ngẫu nhiên và khó có thể dự đoán hay phòng tránh được."
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu nói này nhấn mạnh rằng bệnh tật không phải là ngẫu nhiên mà là phản ánh chân thực những gì chúng ta đã làm với cơ thể mình mỗi ngày. Nó ngụ ý rằng nguyên nhân sâu xa của bệnh tật nằm ở chính những thói quen sinh hoạt, ăn uống, nghỉ ngơi của chúng ta, và việc thay đổi những thói quen này là chìa khóa để cải thiện sức khỏe."
+    },
+    {
+      "id": "q5",
+      "question": "Việc tác giả và nhóm nghiên cứu không được tiếp nhận giáo dục y học chính thống đã mang lại lợi thế nào trong việc phát triển lý luận của họ?",
+      "options": [
+        "Họ có thể dễ dàng đăng ký hành nghề y mà không bị ràng buộc bởi quy định.",
+        "Họ nhận được sự ủng hộ rộng rãi từ cộng đồng y học chính thống.",
+        "Họ được tự do thử nghiệm các loại thuốc mới mà không cần cấp phép.",
+        "Họ không bị giới hạn bởi các khuôn mẫu tư duy y học truyền thống đã có sẵn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả giải thích rằng việc không được đào tạo y học chính thống giúp họ không bị 'bất cứ khuôn mẫu nào' khi suy nghĩ về bệnh tật. Điều này cho phép họ tiếp cận vấn đề với một tư duy mở, sử dụng kiến thức khoa học tổng quát để xây dựng mô hình bệnh tật của riêng mình, từ đó phát triển một bộ lý luận và quan niệm mới mẻ."
+    },
+    {
+      "id": "q6",
+      "question": "Theo nội dung chương sách, việc thực hành 'Vỗ Đảm Kinh' mang lại tác động trực tiếp đáng chú ý nào cho cơ thể?",
+      "options": [
+        "Giúp tăng cường chức năng tiêu hóa và hấp thu dưỡng chất hiệu quả hơn.",
+        "Cải thiện chất lượng giấc ngủ, giúp cơ thể thư giãn và phục hồi năng lượng.",
+        "Trực tiếp làm giảm lớp mỡ ở vùng mông và mé ngoài hai đùi của cơ thể.",
+        "Kích thích quá trình thải độc, loại bỏ các chất cặn bã tích tụ trong cơ thể."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương sách trực tiếp nêu rõ tác dụng của việc 'Vỗ Đảm Kinh' là 'trực tiếp tác động làm cho lớp mỡ ở mông và mé ngoài hai đùi giảm bớt đi'. Đây là một ví dụ cụ thể về phương pháp thực hành mà tác giả đề xuất, cho thấy sự liên kết giữa các kinh lạc và sự thay đổi vật lý của cơ thể."
+    },
+    {
+      "id": "q7",
+      "question": "Tác giả nhận định điều gì có giá trị hơn trong việc giúp người bệnh loại bỏ bệnh tật so với thuốc đắt tiền và phẫu thuật nguy hiểm?",
+      "options": [
+        "Sự phát triển của các công nghệ y tế tiên tiến và thiết bị chẩn đoán hiện đại.",
+        "Khả năng tiếp cận các dịch vụ y tế chất lượng cao từ những chuyên gia hàng đầu.",
+        "Việc áp dụng những quan niệm sức khỏe chính xác và biện pháp giữ gìn tự nhiên.",
+        "Sự hỗ trợ tài chính để bệnh nhân có thể chi trả cho mọi chi phí điều trị cần thiết."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định rằng 'quan niệm chính xác càng có thể giúp người bệnh loại bỏ bệnh tật hơn cả những thuốc đắt tiền và phẫu thuật nguy hiểm'. Điều này nhấn mạnh tầm quan trọng của việc hiểu đúng về cơ thể và bệnh tật, cùng với việc áp dụng các biện pháp tự nhiên, thay vì chỉ dựa vào các can thiệp y tế tốn kém và rủi ro."
+    },
+    {
+      "id": "q8",
+      "question": "Tác giả mong muốn điều gì sẽ xảy ra với việc phục vụ điều trị bệnh mạn tính trong tương lai?",
+      "options": [
+        "Nó sẽ trở thành một ngành công nghiệp y tế phát triển mạnh mẽ, mang lại lợi nhuận cao.",
+        "Nó sẽ được tích hợp hoàn toàn vào hệ thống bảo hiểm y tế quốc gia để giảm gánh nặng.",
+        "Nó sẽ không còn là hành vi thương mại, mà là thiết chế công cộng cơ bản của xã hội.",
+        "Nó sẽ tập trung vào việc phát triển các loại thuốc mới và phương pháp phẫu thuật hiện đại."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả bày tỏ mong muốn rằng trong tương lai, việc điều trị bệnh mạn tính sẽ không còn là một 'hành vi thương mại' mà trở thành 'thiết chế công cộng cơ bản nhất của xã hội'. Điều này phản ánh tư tưởng về một hệ thống y tế công bằng, nơi mọi người đều có quyền được chăm sóc sức khỏe mà không phải lo lắng về chi phí."
+    },
+    {
+      "id": "q9",
+      "question": "Theo tác giả, việc 'xem tivi' có mối liên hệ nào với quá trình tạo máu của cơ thể?",
+      "options": [
+        "Xem tivi giúp thư giãn, gián tiếp hỗ trợ quá trình tạo máu diễn ra hiệu quả hơn.",
+        "Ánh sáng xanh từ tivi có thể kích thích quá trình sản xuất hồng cầu trong tủy xương.",
+        "Thời gian xem tivi thường trùng với thời gian cơ thể cần để tạo máu, gây lãng phí.",
+        "Việc xem tivi không có bất kỳ ảnh hưởng đáng kể nào đến khả năng tạo máu của cơ thể."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nêu rõ 'Phần lớn cái dùng mất trong thời gian xem tivi là thời gian tạo máu.' Điều này ngụ ý rằng việc dành thời gian xem tivi, đặc biệt vào những khung giờ quan trọng cho việc tạo máu, là sự lãng phí năng lượng và cơ hội để cơ thể thực hiện chức năng quan trọng này."
+    },
+    {
+      "id": "q10",
+      "question": "Sau khi học được phương pháp sử dụng cơ thể chính xác, tác giả nhận định biện pháp giữ sức khỏe nào trở nên quan trọng nhất?",
+      "options": [
+        "Thực hiện các bài tập thể dục cường độ cao đều đặn hàng ngày để tăng cường sức bền.",
+        "Duy trì chế độ ăn uống khoa học, bổ sung đầy đủ vitamin và khoáng chất thiết yếu.",
+        "Thường xuyên kiểm tra sức khỏe định kỳ và sử dụng các loại thuốc bổ trợ cần thiết.",
+        "Đảm bảo giấc ngủ chất lượng và đủ thời gian để cơ thể phục hồi và tái tạo năng lượng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả khẳng định rõ ràng rằng 'giấc ngủ trở thành biện pháp giữ sức khỏe quan trọng nhất' sau khi nắm được cách sử dụng cơ thể. Điều này phù hợp với triết lý của ông về việc cơ thể tự phục hồi và tái tạo năng lượng chủ yếu trong khi ngủ, đặc biệt là quá trình tạo máu."
+    },
+    {
+      "id": "q11",
+      "question": "Ngoài việc mang lại sức khỏe cho độc giả, tác giả còn hy vọng cuốn sách này sẽ tạo ra sự thay đổi nào đối với giới y học?",
+      "options": [
+        "Khuyến khích giới y học chấp nhận và áp dụng ngay lập tức mọi phương pháp mới của ông.",
+        "Thúc đẩy giới y học bắt đầu suy nghĩ về các vấn đề cơ bản, xây dựng mô hình gần chân lý.",
+        "Giúp giới y học nhận ra sai lầm của mình và từ bỏ hoàn toàn các phương pháp điều trị cũ.",
+        "Tạo ra một cuộc cách mạng trong việc đào tạo bác sĩ, tập trung vào y học cổ truyền."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả mong muốn cuốn sách sẽ 'mang lại cho giới y học một chút cải biến, để càng nhiều người bắt đầu suy nghĩ về những vấn đề cơ bản của y học, xây dựng được mô hình y học càng gần hơn với chân lý.' Điều này thể hiện một mong muốn thúc đẩy tư duy phản biện và đổi mới trong y học, chứ không phải là sự thay thế hoàn toàn hay từ bỏ ngay lập tức."
+    },
+    {
+      "id": "q12",
+      "question": "Với tư cách là những người không có giấy phép hành nghề y, tác giả và nhóm nghiên cứu chủ yếu đóng góp như thế nào cho những người có nhu cầu?",
+      "options": [
+        "Kiến nghị các thầy thuốc có tư cách tham khảo phương pháp hoặc chỉ đạo về quan niệm.",
+        "Trực tiếp chẩn đoán và kê đơn thuốc cho bạn bè và người thân của họ.",
+        "Mở các phòng khám tư nhân để cung cấp dịch vụ điều trị bệnh mạn tính.",
+        "Tổ chức các khóa đào tạo chuyên sâu về y học cổ truyền cho cộng đồng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả giải thích rõ ràng rằng vì không có giấy phép hành nghề y, họ chỉ có thể 'kiến nghị một số bạn bè có tư cách thầy thuốc tham khảo phương pháp của chúng tôi, hoặc cung cấp những chỉ đạo cho bạn bè về mặt quan niệm.' Điều này thể hiện sự tôn trọng pháp luật và tập trung vào việc truyền bá kiến thức và tư duy đúng đắn về sức khỏe."
+    },
+    {
+      "id": "q13",
+      "question": "Lý luận và quan niệm về sức khỏe của tác giả được xây dựng dựa trên nền tảng nào?",
+      "options": [
+        "Sự kết hợp giữa tri thức khoa học đã học và thảo luận với bạn bè đa ngành.",
+        "Các nghiên cứu lâm sàng quy mô lớn và thử nghiệm thuốc mới trong bệnh viện.",
+        "Các giáo trình y học chính thống và những phát hiện mới nhất của y học hiện đại.",
+        "Những kinh nghiệm dân gian truyền miệng và các bài thuốc bí truyền từ xa xưa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả mô tả quá trình xây dựng lý luận của mình là dựa trên 'những tri thức khoa học đã được học' và được 'một nhóm bạn bè trong các bối cảnh kỹ thuật khác nhau cùng thảo luận bàn bạc'. Điều này cho thấy một cách tiếp cận liên ngành, không bị giới hạn bởi một khuôn khổ y học duy nhất."
+    },
+    {
+      "id": "q14",
+      "question": "Mặc dù phê bình y học hiện đại, tác giả vẫn bày tỏ sự kính phục đối với đối tượng nào trong ngành y?",
+      "options": [
+        "Những bác sĩ, y tá đã hiến thân cho sự nghiệp điều trị, đối mặt hoàn cảnh ác liệt.",
+        "Các nhà khoa học đã phát minh ra những loại thuốc và công nghệ điều trị mới.",
+        "Các nhà quản lý y tế đã xây dựng hệ thống pháp luật nghiêm ngặt để bảo vệ bệnh nhân.",
+        "Các giảng viên đại học y đã gợi mở những phương pháp điều trị tiên tiến và hiệu quả."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả thể hiện một cái nhìn cân bằng khi, dù phê bình hệ thống y học hiện đại, ông vẫn 'vô cùng kính phục' 'nhiều bác sĩ, y tá đã hiến thân cho sự nghiệp điều trị, hàng ngày phải đối diện với những hoàn cảnh ác liệt'. Điều này cho thấy sự phân biệt giữa vấn đề hệ thống và sự cống hiến của những cá nhân trong ngành."
+    },
+    {
+      "id": "q15",
+      "question": "Mục tiêu cuối cùng mà tác giả mong muốn độc giả đạt được sau khi đọc và áp dụng cuốn sách là gì?",
+      "options": [
+        "Có thể tự chữa khỏi mọi bệnh tật mà không cần đến sự can thiệp của y tế.",
+        "Có được niềm tự tin về sức khỏe, không còn phải lo lắng về bệnh tật.",
+        "Trở thành những chuyên gia y học cổ truyền có khả năng tư vấn cho người khác.",
+        "Giúp giảm gánh nặng cho hệ thống y tế công cộng bằng cách tự chăm sóc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tiêu đề chương và lời kết của tác giả đều hướng đến mục tiêu 'Mong muốn mọi người đều có thể tự tin về sức khỏe'. Ông cầu nguyện độc giả cũng có được 'niềm tự tin này' sau khi nắm được phương pháp giữ gìn sức khỏe và không còn phải lo lắng về bệnh tật. Đây là thông điệp cốt lõi và mục đích cuối cùng của cuốn sách."
+    }
+  ]
+}

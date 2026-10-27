@@ -15,6 +15,48 @@ function formatFileSize(bytes) {
 }
 
 const placeholderMetadata = {
+  "SachHuongDanSuDungCoTheNguoi": {
+    title: "Sách Hướng Dẫn Sử Dụng Cơ Thể Người",
+    originalTitle: "人体使用手册 (Handbook of User's Manual for the Human Body)",
+    author: "Ngô Thanh Trung",
+    authorBio: "Kỹ sư cơ khí và chuyên gia công nghệ thông tin Đài Loan, cựu chuyên gia nghiên cứu tại Viện Nghiên cứu Công nghệ Công nghiệp Đài Loan (ITRI). Sau biến cố sức khỏe suy kiệt thời trung niên, ông đã chuyển sang nghiên cứu chuyên sâu Trung y học cổ truyền, kết hợp tư duy khoa học hệ thống của máy tính với lý luận kinh lạc để kiến tạo phương pháp dưỡng sinh tự chữa lành nổi tiếng khắp châu Á.",
+    quote: "Cơ thể con người là một cỗ máy sinh học tinh vi và kỳ diệu nhất, sở hữu đầy đủ hệ thống tự chẩn đoán, tự phục hồi và tái tạo. Muốn thoát khỏi các bệnh mạn tính, điều cốt lõi không phải là tìm kiếm linh đan bên ngoài, mà là cung cấp đủ nguyên liệu khí huyết và sử dụng cơ thể đúng theo quy luật tự nhiên.",
+    translator: "Trần Nghĩa Phương",
+    category: "Y học thường thức & Dưỡng sinh Đông y",
+    tags: ["Ngô Thanh Trung", "Sách Hướng Dẫn Sử Dụng Cơ Thể Người", "人体使用手册", "Dưỡng sinh Đông y", "Khí huyết", "Đả thông kinh lạc", "Vỗ Đảm Kinh", "Massage Tâm Bao Kinh", "Ngủ sớm", "Hàn khí", "Tự chữa lành", "Bệnh mạn tính"],
+    description: "Kiệt tác dưỡng sinh kinh điển châu Á của tác giả Ngô Thanh Trung. Kết hợp tư duy khoa học hệ thống thông tin hiện đại với tinh hoa Trung y truyền thống, cuốn sách vén màn bản chất thực sự của các bệnh mạn tính, định vị 5 cấp độ năng lượng khí huyết và hướng dẫn bộ 3 bài thuốc vàng dưỡng sinh hàng ngày ('Nhất thức tam chiêu') vô cùng đơn giản nhưng mang lại hiệu quả phục hồi sức khỏe kỳ diệu.",
+    gradient: "from-emerald-700 via-teal-800 to-slate-900",
+    themeColor: "#0f766e",
+    status: "available"
+  },
+  "PhuongPhapHocTapKhongGioiHan": {
+    title: "Phương Pháp Học Tập Không Giới Hạn",
+    originalTitle: "Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life",
+    author: "Jim Kwik",
+    authorBio: "Chuyên gia huấn luyện não bộ, cải thiện trí nhớ và tăng tốc học tập hàng đầu thế giới. Sau chấn thương sọ não thời thơ ấu khiến ông từng bị gọi là 'cậu bé với bộ não hỏng', Jim Kwik đã tự giải phóng tiềm năng của chính mình và đào tạo phương pháp học tập đỉnh cao cho các CEO Fortune 500, các nhà khoa học và các tổ chức hàng đầu.",
+    quote: "Nếu kiến thức là sức mạnh, thì việc học hỏi chính là siêu năng lực của bạn. Khi bạn học cách học, giới hạn duy nhất còn lại chính là trí tưởng tượng của bạn.",
+    translator: "Nguyễn Phúc Quang Ngọc & Lê Thanh Hoàng Bảo",
+    category: "Phát triển bản thân & Tối ưu trí não",
+    tags: ["Jim Kwik", "Limitless", "Phương pháp học tập không giới hạn", "Tối ưu não bộ", "Đọc nhanh", "Ghi nhớ", "Tập trung", "Mô hình 3M", "Khai phóng tiềm năng"],
+    description: "Kiệt tác toàn cầu của chuyên gia não bộ số 1 thế giới Jim Kwik. Cuốn sách cung cấp Mô hình Khai phóng 3M (Tâm thế - Động lực - Phương pháp) cùng bộ công cụ thực chiến: phương pháp ghi nhớ vượt trội, kỹ thuật đọc nhanh tăng tốc, làm chủ sự tập trung và loại bỏ những niềm tin giới hạn để bứt phá tiềm năng vô hạn của trí não.",
+    gradient: "from-blue-600 via-indigo-700 to-slate-900",
+    themeColor: "#2563eb",
+    status: "available"
+  },
+  "DeThinhVuongVaHanhPhuc": {
+    title: "Để Thịnh Vượng Và Hạnh Phúc",
+    originalTitle: "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
+    author: "Eric Jorgenson & Naval Ravikant",
+    authorBio: "Naval Ravikant là doanh nhân, nhà đầu tư thiên thần huyền thoại tại Thung lũng Silicon, nhà sáng lập AngelList và nhà đầu tư thời kỳ đầu vào Twitter, Uber. Eric Jorgenson là cây bút, nhà sáng tạo nội dung đã dày công tuyển chọn và biên soạn các triết lý, bài học đắt giá nhất của Naval.",
+    quote: "Làm giàu không phải là bạn làm việc chăm chỉ đến mức nào, mà là bạn làm việc với ai, làm cái gì và làm khi nào. Hãy biến mình thành người có giá trị độc bản và sở hữu đòn bẩy tư duy vượt trội.",
+    translator: "Phương Anh (Hiệu đính: Nhật Mỹ, Biên tập: Vương Xuyên - Ninety Eight)",
+    category: "Tư duy thịnh vượng & Triết lý sống",
+    tags: ["Naval Ravikant", "Để thịnh vượng và hạnh phúc", "The Almanack of Naval Ravikant", "Eric Jorgenson", "Tài chính & Làm giàu", "Đòn bẩy tư duy", "Hạnh phúc nội tâm", "Phán đoán & Ra quyết định", "Triết lý sống"],
+    description: "Cuốn cẩm nang kinh điển đúc kết trí tuệ sâu sắc của Naval Ravikant – nhà sáng lập AngelList và nhà đầu tư thiên thần huyền thoại. Tác phẩm chỉ ra con đường xây dựng sự giàu có bền vững không cần may mắn thông qua kiến thức chuyên biệt, trách nhiệm và đòn bẩy; đồng thời mở ra cánh cửa thấu hiểu hạnh phúc tự thân như một kỹ năng hoàn toàn có thể rèn luyện.",
+    gradient: "from-amber-600 via-orange-700 to-slate-900",
+    themeColor: "#d97706",
+    status: "available"
+  },
   "GiaoTiepBatBaoDong": {
     title: "Giao Tiếp Bất Bạo Động",
     originalTitle: "Nonviolent Communication: A Language of Life",

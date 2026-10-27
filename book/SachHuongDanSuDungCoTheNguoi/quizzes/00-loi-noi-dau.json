@@ -1,0 +1,188 @@
+{
+  "bookId": "SachHuongDanSuDungCoTheNguoi",
+  "chapterId": "00-loi-noi-dau",
+  "chapterTitle": "Lời nói đầu: Từ quan điểm khoa học thông tin lý giải về Trung y",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo tác giả, động lực phát triển khoa học phương Tây và Trung Quốc cổ đại đã dẫn đến hai hướng y học khác biệt như thế nào?",
+      "options": [
+        "Phương Tây chú trọng giải phẫu cơ thể, hình thành y học thực nghiệm; Trung Quốc quan tâm tinh thần, phát triển y học tâm linh.",
+        "Phương Tây tập trung vào biến đổi vật chất, tạo ra y học hóa học; Trung Quốc theo đuổi trường sinh, phát triển y học hệ thống.",
+        "Phương Tây tìm kiếm thuốc chữa bệnh cụ thể, dẫn đến y học chuyên khoa; Trung Quốc nghiên cứu thảo dược, phát triển y học dân gian.",
+        "Phương Tây ưu tiên công nghệ hiện đại, tạo ra y học kỹ thuật cao; Trung Quốc dựa vào tự nhiên, phát triển y học cổ truyền."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách chỉ rõ 'chỉ đá hóa vàng' (biến đổi vật chất) là động lực của khoa học phương Tây, dẫn đến y học dựa trên hóa học. Ngược lại, 'trường sinh bất lão' thúc đẩy khoa học phương Đông phát triển các kỹ thuật điều trị độc đáo, mang tính hệ thống."
+    },
+    {
+      "id": "q2",
+      "question": "Quan điểm của tác giả về y học phương Tây được hình thành dựa trên bối cảnh khoa học nào trong lịch sử?",
+      "options": [
+        "Y học phương Tây phát triển mạnh mẽ trong thời kỳ khoa học thông tin, ứng dụng nguyên lý hệ thống học.",
+        "Y học phương Tây ra đời từ thời kỳ khám phá sinh học, tập trung vào cấu trúc và chức năng của tế bào.",
+        "Y học phương Tây chủ yếu phát triển trong bối cảnh khoa học hóa học, với các phương pháp và chế phẩm hóa học.",
+        "Y học phương Tây bắt nguồn từ triết học tự nhiên, coi trọng sự cân bằng giữa con người và môi trường."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả nêu rõ: 'Y học phương Tây phát triển lên chính là trong bối cảnh như vậy, dù là kiểm tra hay là thuốc trị bệnh, đều là logic, phương pháp và chế phẩm của hóa học.' Điều này khẳng định nền tảng hóa học của y học phương Tây."
+    },
+    {
+      "id": "q3",
+      "question": "Lý luận âm dương ngũ hành của Trung y được tác giả lý giải lại dưới góc độ khoa học thông tin hiện đại như thế nào?",
+      "options": [
+        "Là một hệ thống phức tạp mô tả các phản ứng hóa học diễn ra trong cơ thể con người.",
+        "Là một tập hợp các niềm tin tâm linh, không có giá trị khoa học thực tiễn trong thời đại hiện nay.",
+        "Là một phương pháp cổ xưa dùng để mô tả hệ thống cơ thể khi chưa có công cụ máy móc và con số.",
+        "Là một dạng triết lý sống giúp con người đạt được sự hài hòa về mặt tinh thần và thể chất."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả giải thích: 'Từ quan điểm hệ thống học hiện đại quay trở lại xem xét âm dương ngũ hành của Trung y, chúng ta có thể phát hiện thấy hóa ra lý luận âm dương ngũ hành là một phương pháp dùng để mô tả hệ thống ở cái thời đại mà nhân loại chưa có công cụ máy móc và con số.'"
+    },
+    {
+      "id": "q4",
+      "question": "Theo tác giả, việc áp dụng quan điểm 'phần mềm' vào cơ thể người giúp chúng ta hiểu rõ hơn điều gì về Trung y?",
+      "options": [
+        "Phần mềm cơ thể là những yếu tố di truyền quyết định sức khỏe và tuổi thọ của mỗi người.",
+        "Cơ thể con người hoạt động như một cỗ máy cơ khí phức tạp, cần được bảo trì thường xuyên.",
+        "Trung y tập trung vào việc điều chỉnh các phản ứng hóa học trong cơ thể để chữa bệnh.",
+        "Các lý luận và khái niệm của Trung y có thể không nghiệm chứng được bằng phương pháp giải phẫu học."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả so sánh: 'Nhiều lý luận và khái niệm của Trung y học, rất có thể sẽ giống như phần mềm của máy tính, vĩnh viễn không nghiệm chứng được bằng giải phẫu học.' Điều này gợi ý rằng không phải mọi khía cạnh của cơ thể và Trung y đều có thể được hiểu qua giải phẫu vật lý."
+    },
+    {
+      "id": "q5",
+      "question": "Nguyên nhân sâu xa của đại đa số các bệnh mạn tính, theo quan điểm của tác giả, là gì?",
+      "options": [
+        "Do sự tấn công của các loại vi khuẩn và virus gây hại từ môi trường bên ngoài.",
+        "Chủ yếu do yếu tố di truyền và sự lão hóa tự nhiên của các cơ quan trong cơ thể.",
+        "Là kết quả của những phương pháp sai lầm trong sử dụng cơ thể và thói quen sinh hoạt.",
+        "Thiếu hụt các chất dinh dưỡng thiết yếu, dẫn đến suy yếu hệ miễn dịch và chức năng cơ quan."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả khẳng định: 'đại đa số các bệnh mạn tính thực ra là kết quả của những phương pháp sai lầm trong sử dụng cơ thể gây ra.' Điều này nhấn mạnh vai trò của lối sống và cách chúng ta đối xử với cơ thể."
+    },
+    {
+      "id": "q6",
+      "question": "Tác giả nhận định như thế nào về phương hướng nghiên cứu của y học hiện đại đối với các bệnh mạn tính?",
+      "options": [
+        "Phương hướng trông mong vào thuốc mới để chữa khỏi bệnh mạn tính là không sát thực tế.",
+        "Y học hiện đại đang đi đúng hướng, cần tập trung phát triển thêm nhiều loại thuốc đặc trị mới.",
+        "Y học hiện đại cần kết hợp chặt chẽ hơn với các phương pháp điều trị truyền thống để tăng hiệu quả.",
+        "Y học hiện đại nên ưu tiên nghiên cứu về gen và tế bào gốc để tìm ra giải pháp triệt để."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhận định: 'Y học hiện đại đang đứng trước rất nhiều căn bệnh mạn tính vô phương cứu chữa, chỉ biết trông mong vào tương lai một ngày nào đó có thể phát minh ra loại thuốc mới... phương hướng nghiên cứu này rất có khả năng là không sát thực tế.'"
+    },
+    {
+      "id": "q7",
+      "question": "Tình huống nào sau đây phản ánh đúng ngộ nhận phổ biến của người bệnh mà tác giả đã chỉ ra?",
+      "options": [
+        "Một người bệnh tích cực tìm hiểu về nguyên nhân gốc rễ của bệnh để thay đổi lối sống.",
+        "Một người bệnh chỉ mong tìm được loại thuốc thần kỳ để khỏi bệnh mà không muốn điều chỉnh thói quen.",
+        "Một người bệnh kiên trì thực hiện các bài tập thể dục và chế độ ăn uống lành mạnh mỗi ngày.",
+        "Một người bệnh chủ động tham gia các buổi hội thảo về sức khỏe để nâng cao kiến thức tự chăm sóc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ ra: 'Người mắc bệnh bao giờ cũng chỉ muốn tìm được linh đan linh dược để khỏi bệnh, mà không muốn điều chỉnh thói quen sinh hoạt của mình để loại bỏ nguồn gốc thực sự của bệnh tật.' Đây là một ngộ nhận phổ biến."
+    },
+    {
+      "id": "q8",
+      "question": "Mặc dù cơ thể con người được tạo ra một cách đơn giản, nhưng việc bảo vệ nó lại cực kỳ phức tạp. Điều này hàm ý gì?",
+      "options": [
+        "Con người cần phải có kiến thức y học chuyên sâu để có thể tự chăm sóc sức khỏe cho bản thân.",
+        "Sự phức tạp của cơ thể đòi hỏi một cách tiếp cận hệ thống để hiểu và duy trì sức khỏe.",
+        "Cơ thể là một hệ thống tự động hoàn toàn, không cần sự can thiệp từ bên ngoài để duy trì.",
+        "Các phương pháp chữa bệnh đơn giản thường không hiệu quả đối với những bệnh lý phức tạp."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách nhấn mạnh sự phức tạp vô cùng của cơ thể con người, dù cách tạo ra nó đơn giản. Điều này, cùng với việc giới thiệu quan điểm hệ thống học, hàm ý rằng để hiểu và bảo vệ cơ thể cần một cách tiếp cận toàn diện, coi cơ thể là một hệ thống phức tạp chứ không phải chỉ là các bộ phận riêng lẻ."
+    },
+    {
+      "id": "q9",
+      "question": "Theo tác giả, để khắc phục các bệnh mạn tính, con người cần ưu tiên thực hiện điều gì?",
+      "options": [
+        "Tìm kiếm các loại thuốc mới nhất và công nghệ điều trị tiên tiến nhất từ y học hiện đại.",
+        "Thực hiện các xét nghiệm định kỳ và phẫu thuật sớm để loại bỏ các mầm mống gây bệnh.",
+        "Khôi phục thói quen sống chính xác và nâng cao khí huyết để hệ thống tái sinh phát huy tác dụng.",
+        "Sử dụng các liệu pháp thay thế và bổ sung dinh dưỡng để tăng cường sức đề kháng tự nhiên."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả đề xuất: 'Khôi phục lại thói quen sống chính xác, và dùng phương pháp chính xác xử lý bệnh tật, làm cho khí huyết cơ thể dần dần nâng cao lên, để khôi phục cơ thể và hệ thống tái sinh phát huy tác dụng, cách làm đó cần phải là con đường để nhân loại có nhiều cơ hội khắc phục được bệnh mạn tính.'"
+    },
+    {
+      "id": "q10",
+      "question": "Một người bị sốt cao và ho liên tục. Theo quan điểm của tác giả, hành động nào sau đây là phù hợp nhất?",
+      "options": [
+        "Coi đây là phản ứng tự nhiên của cơ thể đang thải độc và tìm cách hỗ trợ quá trình đó.",
+        "Nhanh chóng dùng thuốc hạ sốt và thuốc giảm ho để dập tắt các triệu chứng ngay lập tức.",
+        "Đến bệnh viện để được chẩn đoán chính xác và điều trị bằng kháng sinh kịp thời.",
+        "Bổ sung vitamin C liều cao và các loại thực phẩm chức năng để tăng cường miễn dịch."
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo tinh thần của cuốn sách, nhiều triệu chứng bệnh tật (như sốt, ho) thực chất là nỗ lực tự vệ hoặc đào thải độc tố của cơ thể. Thay vì vội vã dập tắt các phản ứng thải độc bằng thuốc hóa dược, cần hiểu và hỗ trợ cơ thể hoàn thành quá trình tự chữa lành."
+    },
+    {
+      "id": "q11",
+      "question": "Tác giả nhấn mạnh rằng việc điều chỉnh thói quen sinh hoạt là chìa khóa. Điều này có ý nghĩa gì trong việc phòng ngừa bệnh tật?",
+      "options": [
+        "Thói quen sinh hoạt sai lầm là nguyên nhân chính làm suy giảm khí huyết, dẫn đến các bệnh mạn tính.",
+        "Thói quen sinh hoạt đúng đắn giúp cơ thể tự động loại bỏ mọi mầm bệnh mà không cần can thiệp.",
+        "Việc thay đổi thói quen chỉ có tác dụng hỗ trợ, không thể thay thế hoàn toàn việc dùng thuốc chữa bệnh.",
+        "Chỉ những thói quen cực đoan mới gây hại, còn thói quen nhỏ thì không ảnh hưởng đáng kể đến sức khỏe."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả giải thích: 'những quan niệm sai lầm về sức khỏe đã hình thành nên những thói quen sinh hoạt sai lầm... làm cho mức độ khí huyết của cơ thể người không ngừng suy giảm, khí huyết không đủ ở các mức độ khác nhau đã hình thành nên các bệnh mạn tính khác nhau.' Điều này khẳng định vai trò trung tâm của thói quen sinh hoạt."
+    },
+    {
+      "id": "q12",
+      "question": "Một người mắc bệnh tiểu đường tìm kiếm một loại thuốc có thể chữa khỏi bệnh hoàn toàn. Theo tác giả, mong muốn này có khả năng như thế nào?",
+      "options": [
+        "Rất khả thi nếu có sự đầu tư lớn vào nghiên cứu y học và công nghệ dược phẩm tiên tiến.",
+        "Phụ thuộc vào khả năng đáp ứng của từng cá thể với các phác đồ điều trị hiện có trên thị trường.",
+        "Có thể đạt được trong tương lai gần nhờ những đột phá trong lĩnh vực y học tái tạo và gen.",
+        "Không sát thực tế, vì bệnh mạn tính cần điều chỉnh lối sống chứ không chỉ dựa vào thuốc đơn thuần."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả đã phê phán việc 'trông mong vào tương lai một ngày nào đó có thể phát minh ra loại thuốc mới... phương hướng nghiên cứu này rất có khả năng là không sát thực tế.' Đồng thời, ông cũng chỉ ra ngộ nhận của người bệnh là 'chỉ muốn tìm được linh đan linh dược để khỏi bệnh, mà không muốn điều chỉnh thói quen sinh hoạt của mình'."
+    },
+    {
+      "id": "q13",
+      "question": "Quan điểm 'cơ thể con người không thể chỉ là phần cứng đơn thuần, nhất định nó còn tồn tại nhiều phần mềm' có ý nghĩa gì?",
+      "options": [
+        "Các chức năng sinh học của cơ thể đều có thể được giải thích hoàn toàn bằng cấu trúc giải phẫu.",
+        "Cơ thể có những cơ chế vận hành phức tạp không thể nhìn thấy hay phân tích bằng phương pháp vật lý.",
+        "Con người cần phải phát triển các thiết bị điện tử cấy ghép để hỗ trợ các chức năng cơ thể.",
+        "Sức khỏe con người chủ yếu phụ thuộc vào chất lượng của các bộ phận cơ thể và gen di truyền."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả so sánh: 'Cơ thể con người không thể chỉ là phần cứng đơn thuần, nhất định nó còn tồn tại nhiều phần mềm mà chúng ta không thể nghiệm chứng được bằng phương pháp giải phẫu.' Điều này hàm ý rằng có những cơ chế vận hành tinh vi, phức tạp, không thể chỉ dựa vào giải phẫu để hiểu."
+    },
+    {
+      "id": "q14",
+      "question": "Để đạt được sức khỏe bền vững và khắc phục bệnh mạn tính, con đường nào được tác giả khuyến nghị là hiệu quả nhất?",
+      "options": [
+        "Điều chỉnh thói quen sống, xử lý bệnh đúng cách, nâng cao khí huyết để cơ thể tự tái sinh.",
+        "Tập trung vào việc phát hiện sớm và điều trị tích cực bằng các loại thuốc đặc trị mới nhất.",
+        "Thường xuyên kiểm tra sức khỏe tổng quát và thực hiện các can thiệp y tế dự phòng định kỳ.",
+        "Tìm kiếm các phương pháp chữa bệnh thay thế độc đáo và ít được biết đến từ các nền văn hóa khác."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả khẳng định: 'Khôi phục lại thói quen sống chính xác, và dùng phương pháp chính xác xử lý bệnh tật, làm cho khí huyết cơ thể dần dần nâng cao lên, để khôi phục cơ thể và hệ thống tái sinh phát huy tác dụng, cách làm đó cần phải là con đường để nhân loại có nhiều cơ hội khắc phục được bệnh mạn tính.'"
+    },
+    {
+      "id": "q15",
+      "question": "Sự khác biệt cơ bản trong cách tiếp cận chữa bệnh giữa Trung y và y học phương Tây, theo tác giả, là gì?",
+      "options": [
+        "Trung y tìm cách phòng bệnh, còn y học phương Tây tập trung vào việc điều trị khi bệnh đã phát sinh.",
+        "Trung y tập trung vào tinh thần, còn y học phương Tây chú trọng vào thể chất và các cơ quan.",
+        "Trung y dựa vào kinh nghiệm dân gian, còn y học phương Tây dựa trên nghiên cứu khoa học thực nghiệm.",
+        "Trung y vận dụng nguyên lý hệ thống học, còn y học phương Tây dùng phương pháp hóa học để chữa bệnh."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả kết luận: 'So với y học phương Tây, có thể nói Trung y là khoa học vận dụng nguyên lý hệ thống học để chữa bệnh.' và 'y học phương Tây là khoa học dùng phương pháp hóa học để chữa bệnh.' Đây là sự phân biệt cốt lõi."
+    }
+  ]
+}

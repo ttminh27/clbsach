@@ -1,0 +1,188 @@
+{
+  "bookId": "DeThinhVuongVaHanhPhuc",
+  "chapterId": "03_loi_tua",
+  "chapterTitle": "Lời tựa (Tim Ferriss)",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao Tim Ferriss lại phá vỡ cam kết lâu năm của mình để viết lời tựa cho cuốn sách về Naval Ravikant?",
+      "options": [
+        "Vì cuốn sách được phát hành miễn phí và ông muốn tôn vinh một người bạn đáng kính.",
+        "Vì ông nhận được một khoản thù lao khổng lồ từ nhà xuất bản để quảng bá sách.",
+        "Vì ông muốn gây ấn tượng với cộng đồng đầu tư mạo hiểm tại Thung lũng Silicon.",
+        "Vì ông được yêu cầu đổi tên một đứa con của mình theo tên của tác giả cuốn sách."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tim Ferriss chia sẻ rõ trong lời tựa rằng ông phá vỡ quy tắc vì ba lý do: sách được phân phát miễn phí ở mọi định dạng, ông đã biết Naval hơn một thập kỷ, và một chút hài hước về việc đặt tên con. Việc sách miễn phí và giá trị của Naval là động lực cốt lõi."
+    },
+    {
+      "id": "q2",
+      "question": "Tim Ferriss mô tả sự dũng cảm của Naval Ravikant khác biệt với nghĩa thông thường như thế nào?",
+      "options": [
+        "Dũng cảm lao vào những thương vụ đầu tư mạo hiểm rủi ro nhất mà không sợ mất tiền.",
+        "Dũng cảm đối mặt với các đối thủ cạnh tranh khốc liệt trên thương trường toàn cầu.",
+        "Dũng cảm suy nghĩ kỹ lưỡng rồi chỉ ra rằng mọi người đang tập trung sai vấn đề.",
+        "Dũng cảm từ bỏ quyền kiểm soát các công ty do chính mình sáng lập từ đầu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Theo Tim Ferriss, sự dũng cảm của Naval không phải là 'đâm đầu vào lửa không cần suy nghĩ', mà là 'suy nghĩ kỹ và sau đó nói với mọi người rằng họ đang tập trung vào sai đám cháy', phản ánh tư duy độc lập và phá vỡ lối mòn."
+    },
+    {
+      "id": "q3",
+      "question": "Đặc điểm nào trong phong cách giao tiếp và tư duy của Naval được Tim Ferriss đánh giá cao nhất trong thế giới hiện đại?",
+      "options": [
+        "Sự khéo léo và uyển chuyển trong việc ngoại giao với mọi đối tác kinh doanh.",
+        "Sự tài tình trong việc sử dụng ngôn từ để thuyết phục đám đông theo số đông.",
+        "Sự cẩn trọng trong việc che giấu cảm xúc cá nhân trước những biến động thị trường.",
+        "Sự thẳng tính, minh bạch tuyệt đối, không nói nước đôi hay mập mờ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tim Ferriss ca ngợi Naval vì sự thẳng tính: 'bạn không bao giờ phải đoán xem Naval đang nghĩ gì... điều này thật nhẹ nhõm trong một thế giới ưa nói nước đôi và đầy sự mập mờ'."
+    },
+    {
+      "id": "q4",
+      "question": "Yếu tố nào chứng minh Naval Ravikant không chỉ là một 'triết gia thiếu kinh nghiệm thực tế' theo góc nhìn của Tim Ferriss?",
+      "options": [
+        "Ông sở hữu hàng triệu người theo dõi và có sức ảnh hưởng lớn trên mạng xã hội.",
+        "Ông dành phần lớn thời gian để nghiên cứu triết học phương Đông và thiền định.",
+        "Ông xuất thân từ một gia đình giàu có và có nền tảng học thuật xuất sắc từ nhỏ.",
+        "Ông từng là CEO, nhà sáng lập AngelList và nhà đầu tư thiên thần thành công lớn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Naval không chỉ có tư duy triết học mà còn là nhà điều hành và nhà đầu tư đẳng cấp thế giới (AngelList, Vast.com, Epinions, đầu tư Uber, Twitter), chứng minh năng lực thực chiến sắc bén."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao Tim Ferriss cảnh báo độc giả cần thận trọng khi hình tượng hóa những người thành công ngoài kia?",
+      "options": [
+        "Vì họ thường cố tình che giấu những sai lầm trong quá khứ của bản thân họ.",
+        "Vì thành công tài chính luôn đi kèm với sự suy đồi về mặt đạo đức và lối sống.",
+        "Vì bài học nhận được sẽ bao gồm cả những điều vô ích lẫn những điều giá trị.",
+        "Vì không ai có thể lặp lại chính xác con đường thành công của người đi trước."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tim Ferriss nhấn mạnh rằng nhiều người thành công nhưng sống không hạnh phúc, và nếu hình tượng hóa mù quáng, chúng ta sẽ tiếp thu cả những điều vô ích lẫn giá trị."
+    },
+    {
+      "id": "q6",
+      "question": "Phẩm chất nào sau đây KHÔNG phải là lý do khiến Tim Ferriss coi trọng các quan điểm và châm ngôn của Naval?",
+      "options": [
+        "Luôn bảo vệ đến cùng các quan điểm cũ để giữ vững uy tín cá nhân.",
+        "Đặt câu hỏi cho gần như mọi thứ và sở hữu tư duy nguyên bản.",
+        "Thay đổi tâm trí thường xuyên và không tự lừa dối bản thân mình.",
+        "Suy nghĩ dài hạn, toàn diện và không đề cao bản thân quá mức."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tim Ferriss khẳng định Naval 'thay đổi tâm trí thường xuyên' khi có dữ liệu tốt hơn, chứ không bảo thủ bảo vệ quan điểm cũ. Do đó phương án bảo vệ quan điểm cũ là sai."
+    },
+    {
+      "id": "q7",
+      "question": "Lời khuyên cốt lõi mà Tim Ferriss dành cho độc giả khi tiếp cận cuốn sách tổng hợp tư tưởng của Naval là gì?",
+      "options": [
+        "Hãy học thuộc lòng mọi châm ngôn và áp dụng chúng một cách máy móc nhất.",
+        "Hãy coi các quan điểm trong sách như những lời thánh kinh không thể chối cãi.",
+        "Hãy thử nghiệm độ tin cậy của lời khuyên trong cuộc sống thay vì nhại lại.",
+        "Hãy bỏ qua các chương triết học và chỉ tập trung vào các chiến lược đầu tư."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tim Ferriss dặn: 'đừng chỉ nhại lời ông ấy... Hãy làm theo lời khuyên của ông... nếu nó đúng sau khi bạn đã xem xét kỹ lưỡng và thử nghiệm độ tin cậy của nó trong cuộc sống'."
+    },
+    {
+      "id": "q8",
+      "question": "Theo tinh thần của bài tựa và triết học Naval Ravikant, thái độ đúng đắn nhất khi đối diện với các bậc thầy tư duy là gì?",
+      "options": [
+        "Phục tùng tuyệt đối mọi triết lý và phong cách sống của họ mà không nghi ngờ.",
+        "Chỉ trích mọi quan điểm truyền thống để chứng tỏ sự vượt trội của bản thân.",
+        "Thách thức họ, kiểm chứng kỹ càng và đem đến phiên bản tốt nhất của chính mình.",
+        "Tránh xa mọi nguồn tri thức bên ngoài để tự mình khám phá từ con số không."
+      ],
+      "correctIndex": 2,
+      "explanation": "Naval luôn khuyến khích mọi người tư duy từ nguyên lý đầu tiên, tự kiểm chứng và sẵn sàng thách thức các quan điểm, miễn là mang lại phiên bản tốt nhất của chính mình."
+    },
+    {
+      "id": "q9",
+      "question": "Tinh thần cốt lõi của cuốn sách 'Để Thịnh Vượng Và Hạnh Phúc' khi được truyền tải qua góc nhìn của Tim Ferriss là gì?",
+      "options": [
+        "Cung cấp một công thức làm giàu nhanh chóng thông qua thị trường tiền mã hóa trên thực tế.",
+        "Hướng dẫn cách cô lập bản thân khỏi xã hội hiện đại để đạt được sự minh triết.",
+        "Hành trình trở thành một nhà lãnh đạo chính trị quyền lực trên trường quốc tế.",
+        "Đúc kết những suy nghĩ phức tạp nhưng có giá trị thực tiễn cao để thay đổi cuộc đời."
+      ],
+      "correctIndex": 3,
+      "explanation": "Cuốn sách mở ra những suy nghĩ phức tạp trong đầu Naval, giúp người đọc tiếp cận trong tâm thế chủ động để cải thiện chất lượng cuộc đời và đạt được sự thịnh vượng thực sự."
+    },
+    {
+      "id": "q10",
+      "question": "Trong bối cảnh đầu tư mạo hiểm và xây dựng sự nghiệp, việc Naval sở hữu tư duy nguyên bản (Original Thinking) mang lại lợi thế gì?",
+      "options": [
+        "Giúp ông dễ dàng hòa nhập với các xu hướng đầu tư phổ biến trên thị trường.",
+        "Giúp ông nhìn thấu bản chất vấn đề và phát hiện ra những cơ hội mà số đông bỏ qua.",
+        "Giúp ông tránh khỏi mọi rủi ro tài chính nhờ vào sự an toàn của số đông.",
+        "Giúp ông tối ưu hóa thời gian bằng cách sao chép các mô hình kinh doanh thành công."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tư duy nguyên bản kết hợp với việc 'đặt câu hỏi cho gần như mọi thứ' giúp Naval nhìn thấy sự thật đằng sau những đám cháy sai lầm mà đám đông đang tập trung vào."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao việc 'không tự lừa dối bản thân' và 'thay đổi tâm trí thường xuyên' lại là nền tảng của trí tuệ thực tiễn?",
+      "options": [
+        "Vì nó giúp cá nhân duy trì sự kiên định tuyệt đối trước mọi áp lực từ xã hội.",
+        "Vì sự thật khách quan quan trọng hơn cái tôi, và tri thức luôn phát triển theo thời gian.",
+        "Vì nó giúp chúng ta luôn chiến thắng trong các cuộc tranh luận với người khác.",
+        "Vì nó là cách duy nhất để che giấu những điểm yếu cá nhân trước đối tác theo tư duy của Naval.."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự tự lừa dối bản thân xuất phát từ bản ngã (ego). Sẵn sàng thay đổi tâm trí khi có thông tin mới thể hiện sự tôn trọng sự thật tối thượng thay vì bảo vệ cái tôi."
+    },
+    {
+      "id": "q12",
+      "question": "Khoản đầu tư vào các công ty như Twitter và Uber bởi một nhà đầu tư thiên thần như Naval phản ánh điều gì về tầm nhìn của ông?",
+      "options": [
+        "Khả năng dự đoán chính xác các xu hướng công nghệ dài hạn có khả năng thay đổi thế giới.",
+        "May mắn thuần túy khi chọn ngẫu nhiên các công ty khởi động trong giai đoạn đầu trên thực tế.",
+        "Sự tuân thủ tuyệt đối theo các khuyến nghị từ các quỹ đầu tư mạo hiểm lớn khác.",
+        "Xu hướng đầu tư ngắn hạn để thu lợi nhuận nhanh chóng rồi rút lui hoàn toàn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự thành công trong đầu tư thiên thần vào các behemoth công nghệ cho thấy tư duy dài hạn và phán đoán sắc bén của Naval về các đòn bẩy sản phẩm không tốn chi phí biên."
+    },
+    {
+      "id": "q13",
+      "question": "Theo quan điểm triết lý sống được phản ánh qua lời giới thiệu, sự thành công bền vững phải đi liền với điều gì?",
+      "options": [
+        "Sự công nhận rộng rãi từ giới truyền thông và công chúng trên toàn thế giới trên thực tế.",
+        "Sự bình an nội tâm và hạnh phúc thực sự thay vì chỉ là thành công tài chính bề ngoài.",
+        "Khả năng kiểm soát hoàn toàn các mối quan hệ xã hội và đối thủ cạnh tranh.",
+        "Việc tích lũy khối tài sản vật chất lớn nhất có thể trước độ tuổi trung niên."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tim Ferriss lưu ý rằng có rất nhiều người thành công nhưng sống không hạnh phúc, qua đó ngầm khẳng định triết lý của Naval là tìm kiếm sự thịnh vượng đi đôi với hạnh phúc nội tâm."
+    },
+    {
+      "id": "q14",
+      "question": "Hình ảnh so sánh 'tâm thế của một võ sĩ boxing thiện chí và có năng lực' khi đọc sách hàm ý điều gì?",
+      "options": [
+        "Sẵn sàng tranh cãi tay đôi và hạ gục tác giả bằng mọi luận điểm sắc bén nhất.",
+        "Tiếp cận tri thức với tinh thần cởi mở, chủ động kiểm chứng, sẵn sàng đối thoại sòng phẳng.",
+        "Phòng thủ tuyệt đối trước mọi tư tưởng mới để giữ vững hệ tư tưởng cũ của mình một cách rõ ràng.",
+        "Chấp nhận chịu đựng mọi đòn chí mạng từ triết lý của sách mà không được phản biện."
+      ],
+      "correctIndex": 1,
+      "explanation": "Võ sĩ boxing thiện chí và có năng lực lên võ đài với sự tôn trọng đối thủ, sẵn sàng tung đòn và chịu đòn để nâng cao kỹ năng, tượng trưng cho việc đọc sách phản biện, chủ động thử nghiệm."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học lớn nhất về phong cách lãnh đạo và cuộc đời mà Naval Ravikant mang lại qua lăng kính của Tim Ferriss là gì?",
+      "options": [
+        "Sự chân thật, dũng cảm tư duy độc lập và trách nhiệm tuyệt đối với lựa chọn của bản thân.",
+        "Nghệ thuật thao túng tâm lý đám đông để đạt được các mục tiêu kinh doanh tối đa.",
+        "Phương pháp tối ưu hóa thời gian biểu từng phút để đạt hiệu suất lao động cực hạn trên thực tế.",
+        "Chiến lược xây dựng đế chế tài chính thông qua việc tận dụng triệt để các mối quan hệ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự chân thật, không mập mờ, dũng cảm chỉ ra sự thật, tư duy nguyên bản và không đề cao bản bản quá mức là cốt lõi phong cách sống và lãnh đạo của Naval."
+    }
+  ]
+}

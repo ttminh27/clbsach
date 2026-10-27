@@ -1,0 +1,188 @@
+{
+  "bookId": "DeThinhVuongVaHanhPhuc",
+  "chapterId": "07_phan_1_xay_dung_su_thinh_vuong",
+  "chapterTitle": "Phần I: Xây dựng sự thịnh vượng",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Naval Ravikant, bản chất cốt lõi của việc 'làm giàu' khác biệt hoàn toàn với công việc làm công ăn lương thông thường ở điểm nào?",
+      "options": [
+        "Làm giàu đòi hỏi phải làm việc cật lực tám mươi giờ mỗi tuần tại nhà hàng để tích lũy tư bản.",
+        "Làm giàu dựa trên số năm kinh nghiệm làm chuyên gia pháp lý hoặc y khoa tại một tổ chức lớn.",
+        "Làm giàu xuất phát từ việc tham gia các trò chơi địa vị xã hội để nắm giữ quyền lực tối cao.",
+        "Làm giàu là việc học các kỹ năng đặc thù, sở hữu cổ phần doanh nghiệp và tạo ra giá trị lúc ngủ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Naval khẳng định kiếm tiền không phải là lao động chăm chỉ đơn thuần mà là một bộ kỹ năng (biết làm gì, với ai, khi nào) và bắt buộc phải có vốn chủ sở hữu (equity) để tạo ra tài sản sinh lời khi bạn ngủ, thay vì chỉ đổi thời gian lấy tiền lương."
+    },
+    {
+      "id": "q2",
+      "question": "Khi bàn về khái niệm 'kiến thức chuyên biệt' (specific knowledge), Naval Ravikant đưa ra nhận định nào sau đây?",
+      "options": [
+        "Đó là những kiến thức hàn lâm tiên tiến nhất được giảng dạy trực tiếp tại các trường đại học danh tiếng.",
+        "Đó là các kỹ năng số hóa phổ biến mà bất kỳ ai cũng có thể học qua các khóa đào tạo trực tuyến nhanh chóng.",
+        "Đó là bộ kỹ năng kinh doanh chung chung giúp một cá nhân dễ dàng điều hành mọi loại hình thương mại truyền thống.",
+        "Đó là năng khiếu và sự tò mò bẩm sinh được mài giũa qua trải nghiệm thực tế, không thể tự động hóa hay thuê người làm."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kiến thức chuyên biệt là sự pha trộn độc đáo từ DNA, sự nuôi dưỡng và phản ứng của bạn. Nó giống như chơi đối với bạn nhưng là công việc đối với người khác, không thể dạy dỗ qua trường lớp hay tự động hóa."
+    },
+    {
+      "id": "q3",
+      "question": "Hình thức đòn bẩy nào được Naval Ravikant đánh giá là tối ưu nhất, mang tính dân chủ cao và không cần sự cho phép của bất kỳ ai trong kỷ nguyên số?",
+      "options": [
+        "Đòn bẩy mã lập trình và phương tiện truyền thông với chi phí sao chép cận biên bằng không.",
+        "Đòn bẩy vốn từ các nhà đầu tư lớn và các tổ chức tài chính truyền thống theo tư duy của Naval..",
+        "Đòn bẩy nhân công với đội ngũ hàng ngàn nhân sự quản lý trực tiếp trong bối cảnh thực tế..",
+        "Đòn bẩy chính trị thông qua việc thao túng các hệ thống phân cấp xã hội theo tư duy của Naval.."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mã lập trình và phương tiện truyền thông (sách, blog, podcast, video) là đòn bẩy không cần sự cho phép, cho phép bạn tạo ra các sản phẩm hoạt động trong lúc ngủ và là cội nguồn của những khối tài sản mới."
+    },
+    {
+      "id": "q4",
+      "question": "Theo triết lý của Naval, sự khác biệt căn bản giữa 'của cải' (wealth) và 'tiền bạc' (money) là gì?",
+      "options": [
+        "Tiền bạc đại diện cho các nhà máy và mã máy tính, trong khi của cải là tờ giấy vay nợ không chính thức giữa các cá nhân.",
+        "Của cải là tài sản sinh ra trong lúc bạn ngủ, còn tiền bạc chỉ là phương tiện chuyển giao thời gian và tín dụng xã hội.",
+        "Của cải chỉ bao gồm tiền mặt trong ngân hàng, còn tiền bạc là giá trị vốn hóa của các doanh nghiệp thương mại quy mô lớn.",
+        "Tiền bạc mang lại sự tự do tài chính vĩnh cửu, trong khi của cải luôn tiềm ẩn rủi ro lạm phát và mất giá theo thời gian."
+      ],
+      "correctIndex": 1,
+      "explanation": "Của cải là tài sản (nhà máy, máy móc, phần mềm) tạo ra giá trị khi bạn ngủ. Tiền bạc chỉ là công cụ tín dụng xã hội để chúng ta chuyển giao của cải và thời gian cho nhau."
+    },
+    {
+      "id": "q5",
+      "question": "Quan điểm của Naval Ravikant về các 'trò chơi địa vị' (status games) trong xã hội là gì?",
+      "options": [
+        "Đó là con đường bền vững nhất để xây dựng sự thịnh vượng và đạt được tự do tài chính cá nhân.",
+        "Đó là trò chơi có tổng bằng không; người chơi địa vị thường thăng tiến bằng cách hạ bệ người tạo ra của cải.",
+        "Đó là trò chơi có tổng dương, nơi mọi người cùng hợp tác để làm cho chiếc bánh kinh tế lớn hơn.",
+        "Đó là nền tảng tất yếu giúp phát triển khoa học công nghệ và mang lại lợi ích thiết thực cho toàn xã hội."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trò chơi địa vị là trò chơi tổng bằng không (zero-sum). Những kẻ chơi trò địa vị thường công kích những người chơi trò tạo ra của cải (positive-sum) nhằm nâng cao vị thế bản thân."
+    },
+    {
+      "id": "q6",
+      "question": "Để tối đa hóa hiệu suất và đạt được thành tựu lớn trong sự nghiệp, Naval khuyên chúng ta nên áp dụng nguyên tắc nào về nỗ lực và thời gian?",
+      "options": [
+        "Duy trì thời gian làm việc đều đặn tám mươi giờ mỗi tuần trong bất kỳ ngành nghề nào đang thịnh hành.",
+        "Trải đều nỗ lực của bản thân cho mọi cơ hội kinh doanh ngắn hạn xuất hiện trên thị trường tài chính.",
+        "Tìm ra 1% cơ hội cốt lõi để dốc toàn lực đầu tư dài hạn, chấp nhận loại bỏ những hoạt động thuộc nhóm 99% còn lại.",
+        "Tập trung hoàn toàn vào việc lấy nhiều bằng cấp chuyên gia để đáp ứng tiêu chuẩn của xã hội theo tư duy của Naval.."
+      ],
+      "correctIndex": 2,
+      "explanation": "Naval chỉ ra rằng 99% nỗ lực (như học các môn không dùng đến, hẹn hò sai người) mang tính định hướng quy mô thấp. Bạn phải tìm ra 1% tinh hoa để dốc toàn lực và kiếm lãi kép dài hạn."
+    },
+    {
+      "id": "q7",
+      "question": "Khi phân tích về rủi ro và trách nhiệm cá nhân (accountability), Naval Ravikant đưa ra lời khuyên nào?",
+      "options": [
+        "Gánh vác trách nhiệm và chấp nhận rủi ro kinh doanh dưới danh nghĩa cá nhân để đổi lấy vốn chủ sở hữu và đòn bẩy.",
+        "Chỉ nhận trách nhiệm khi chắc chắn dự án thành công tuyệt đối để duy trì uy tín xã hội trên phương diện dài hạn..",
+        "Luôn né tránh trách nhiệm công khai để bảo vệ bản thân khỏi mọi rủi ro thất bại tiềm ẩn trong bối cảnh thực tế..",
+        "Phân tán trách nhiệm đều cho tập thể để không ai phải chịu áp lực khi doanh nghiệp đối mặt khủng hoảng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Xã hội đền đáp những người dám chịu trách nhiệm và chấp nhận rủi ro công khai dưới danh nghĩa của chính họ bằng quyền lực, vốn chủ sở hữu và các hình thức đòn bẩy cao."
+    },
+    {
+      "id": "q8",
+      "question": "Định nghĩa của Naval Ravikant về sự 'nghỉ hưu' (retirement) thực chất là gì?",
+      "options": [
+        "Đạt mốc tuổi sáu mươi lăm để chính thức nhận tiền trợ cấp hưu trí từ nhà nước hoặc doanh nghiệp lớn.",
+        "Chấm dứt mọi hoạt động tư duy sáng tạo để tận hưởng cảm giác nhàn rỗi không phải suy nghĩ gì.",
+        "Tích lũy khối tài sản khổng lồ đủ để hoàn toàn ngắt kết nối với xã hội và sống ẩn dật trong rừng sâu.",
+        "Ngừng việc hy sinh ngày hôm nay cho một ngày mai trong tưởng tượng, khi mỗi ngày trôi qua đều trọn vẹn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nghỉ hưu theo Naval không phải là tuổi tác hay việc ngừng làm việc, mà là trạng thái tâm lý khi bạn không còn phải hy sinh hiện tại vì tương lai, vì bạn đang làm công việc mình yêu thích."
+    },
+    {
+      "id": "q9",
+      "question": "Theo Naval, tại sao việc cố gắng tham gia các hoạt động 'networking' (xây dựng mạng lưới quan hệ) truyền thống thường không hiệu quả?",
+      "options": [
+        "Vì các mối quan hệ chất lượng cao chỉ có thể hình thành thông qua các khóa học kỹ năng quản trị kinh doanh đối với bản thân và sự nghiệp..",
+        "Vì mạng lưới quan hệ chỉ hữu ích khi bạn đã nắm giữ các chức vụ giám đốc điều hành cấp cao trong công ty lớn đối với bản thân và sự nghiệp trên thực tế.",
+        "Vì việc đi tạo dựng quan hệ trước khi có sản phẩm thực tế thường là sự lãng phí thời gian; hãy tạo ra thứ thú vị và người phù hợp sẽ tìm đến.",
+        "Vì các mối quan hệ xã hội mang tính ngắn hạn và không bao giờ tạo ra được hiệu ứng lãi kép theo thời gian đối với bản thân và sự nghiệp.."
+      ],
+      "correctIndex": 2,
+      "explanation": "Networking kiểu hình thức thường lãng phí thời gian. Triết lý của Naval là hãy mài giũa tay nghề, tạo ra những sản phẩm thực sự thú vị và danh tiếng cùng các mối quan hệ chất lượng sẽ tự động thu hút bạn."
+    },
+    {
+      "id": "q10",
+      "question": "Phân tích bốn loại may mắn theo góc nhìn của Naval, loại may mắn cao cấp nhất và bền vững nhất được hình thành bằng cách nào?",
+      "options": [
+        "Nhờ xây dựng một tính cách, thương hiệu và tư duy độc đáo khiến may mắn tự động tìm đến bạn.",
+        "Nhờ vào sự chăm chỉ chạy nhảy liên tục, làm việc cật lực để khuấy động mọi cơ hội xung quanh.",
+        "Nhờ vào sự nhạy bén và kiến thức chuyên sâu giúp nhận ra những cơ hội mà người khác vô tình bỏ lỡ.",
+        "Nhờ vào sự kiện ngẫu nhiên nằm hoàn toàn ngoài tầm kiểm soát và dự tính của con người."
+      ],
+      "correctIndex": 0,
+      "explanation": "Loại may mắn thứ tư là khi bạn định hình tính cách và thương hiệu độc bản đến mức cơ hội tự tìm đến bạn, biến may mắn thành định mệnh không thể tách rời."
+    },
+    {
+      "id": "q11",
+      "question": "Quan điểm của Naval về tầm quan trọng của việc sở hữu 'kiến thức nền tảng' (foundational knowledge) so với việc học tập lan man là gì?",
+      "options": [
+        "Cần phải cố gắng đào sâu mọi ngóc ngách của kiến thức chuyên ngành dù không hiểu rõ bản chất gốc rễ trên phương diện dài hạn..",
+        "Nắm vững 9/10 hoặc 10/10 kiến thức nền tảng (số học, logic, vật lý, tâm lý học) quan trọng hơn nhiều việc học kỹ thuật bề mặt.",
+        "Việc tích lũy từ vựng phong phú và học ngoại ngữ phức tạp có giá trị vượt trội hơn kỹ năng thuyết phục và tư duy logic.",
+        "Nên dựa hoàn toàn vào các lớp học kinh doanh và tạp chí thương mại để cập nhật xu hướng thị trường ngắn hạn theo tư duy của Naval.."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kiến thức nền tảng là chìa khóa cốt lõi giúp bạn tự học bất cứ thứ gì mới trong thời gian ngắn mà không sợ bất kỳ cuốn sách nào, thay vì chỉ biết bề rộng mà không có chiều sâu."
+    },
+    {
+      "id": "q12",
+      "question": "Trong bối cảnh kinh tế hiện đại, Naval đưa ra nhận định nào về mối tương quan giữa đầu vào (thời gian, công sức) và đầu ra (kết quả, tài sản)?",
+      "options": [
+        "Đầu ra chỉ phụ thuộc vào thâm niên làm việc và sự tuân thủ các quy trình chuẩn hóa của doanh nghiệp.",
+        "Sử dụng các công cụ đòn bẩy và sáng tạo giúp phá vỡ mối quan hệ tuyến tính giữa đầu vào và đầu ra.",
+        "Đầu vào và đầu ra luôn gắn chặt với nhau; làm việc nhiều giờ hơn chắc chắn sẽ tạo ra nhiều của cải hơn.",
+        "Công việc lao động chân tay và lao động tri thức đều mang lại hệ số nhân tài sản hoàn toàn tương đương nhau."
+      ],
+      "correctIndex": 0,
+      "explanation": "Các công cụ đòn bẩy (code, media, vốn) tạo ra sự phi tuyến tính, khiến đầu vào và đầu ra không còn tương quan. Người có đòn bẩy và phán đoán tốt có thể tạo giá trị gấp hàng ngàn lần người khác dù tốn ít thời gian hơn."
+    },
+    {
+      "id": "q13",
+      "question": "Theo Naval Ravikant, cạm bẫy lớn nhất của 'ham muốn tiền bạc' (desiring money) đối với con người là gì?",
+      "options": [
+        "Tiền bạc là gốc rễ của mọi tội lỗi và chắc chắn sẽ làm cho con người trở nên vô đạo đức theo tư duy của Naval..",
+        "Ham muốn tiền bạc là hố sâu không đáy, khiến con người luôn lo lắng, hoang tưởng và không bao giờ thấy đủ.",
+        "Việc kiếm được nhiều tiền sẽ tự động giải quyết triệt để mọi vấn đề về sức khỏe và sự bình yên nội tâm.",
+        "Ham muốn tiền bạc ngăn cản con người tham gia vào các trò chơi địa vị xã hội mang tính xây dựng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Naval chỉ ra rằng ham muốn tiền bạc là một cái bẫy tinh thần vì nó là hố sâu không đáy. Khi kiếm được tiền, nếu không giữ nguyên lối sống, bạn sẽ trở nên hoang tưởng và lo lắng mất đi thứ mình có."
+    },
+    {
+      "id": "q14",
+      "question": "Khi đối mặt với những hành vi thiếu chính trực từ những người thông minh và thành công khác, cách xử lý của Naval Ravikant là gì?",
+      "options": [
+        "Chấp nhận bỏ qua nếu hành vi đó mang lại lợi ích tài chính lớn cho các bên tham gia thương vụ.",
+        "Tấn công lại bằng các trò chơi địa vị để bảo vệ danh tiếng và vị thế của bản thân trên thương trường.",
+        "Cảnh báo họ một lần, sau đó giữ khoảng cách và tự động loại họ khỏi cuộc sống vì lòng tự trọng cá nhân.",
+        "Im lặng chấp nhận và học theo cách hành xử thực dụng đó để thích nghi với môi trường cạnh tranh khốc liệt."
+      ],
+      "correctIndex": 2,
+      "explanation": "Naval tin rằng sự thiếu chính trực sẽ hủy hoại lòng tự trọng từ bên trong. Ông chọn cảnh báo một lần rồi loại bỏ những cá nhân đó khỏi cuộc sống để bảo vệ sự bình yên và phẩm giá."
+    },
+    {
+      "id": "q15",
+      "question": "Lời khuyên quan trọng nhất của Naval dành cho những người trẻ tuổi khi đưa ra các quyết định chi phối cuộc đời (nơi sống, mối quan hệ, công việc) là gì?",
+      "options": [
+        "Ra quyết định thật nhanh chóng dựa theo xu hướng thị trường đang thịnh hành để không bị bỏ lại phía sau.",
+        "Chỉ tập trung vào công việc kiếm ra nhiều tiền nhất ngay lập tức mà không cần quan tâm đến địa điểm hay đối tác.",
+        "Dành thời gian suy xét kỹ lưỡng từ một đến hai năm cho các quyết định lớn mang tính chi phối dài hạn này.",
+        "Để gia đình và xã hội định hướng toàn bộ lộ trình sự nghiệp nhằm giảm thiểu tối đa rủi ro thất bại."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vì những quyết định như chọn thành phố sinh sống, bạn đời hay công việc cốt lõi sẽ chi phối toàn bộ quỹ đạo cuộc đời trong nhiều thập kỷ, bạn cần dành thời gian suy nghĩ thấu đáo cho chúng."
+    }
+  ]
+}

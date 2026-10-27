@@ -1,0 +1,11 @@
+# Lời giới thiệu
+
+“Trung y” là di sản quan trọng nhất mà tổ tiên chúng ta để lại, trong hơn ba nghìn năm qua, nó đã chữa trị, xử lý cho tổ tiên chúng ta vô số bệnh tật. Nhưng gần một trăm năm lại đây, Trung Quốc bị các nước lớn mạnh xâm lược, văn hóa phương Tây tiến vào phong tỏa Trung Quốc, y thuật, y học phương Tây tiến vào Trung Quốc, Trung y bắt đầu va chạm với Tây y. Sự phát triển của Trung y cũng chịu ảnh hưởng rất lớn, có thể nói là một giai đoạn lịch sử rối loạn đình đốn. Năm 1949, sau khi nước Trung Quốc mới thành lập, đề xướng ra Trung - Tây y kết hợp, Trung y được ủng hộ mạnh mẽ, giới Trung y đã nối tiếp nhau sử dụng ngôn ngữ, chữ viết, khoa học hiện đại hóa để luận giải trình bày những vấn đề cơ bản của Trung y, khiến cho mọi người hiểu được mối quan hệ giữa con người và tự nhiên, trong lý luận Trung y có thể gọi là thiên nhân hợp nhất.
+
+Bước vào thế kỷ XXI, nhân khẩu Trung Quốc ngày càng lão hóa, vấn đề lớn nhất của người cao tuổi chính là vấn đề bảo vệ sức khỏe và chữa trị các bệnh mạn tính. Từ khi Trung Quốc cải cách mở cửa, đã đưa vào hàng loạt y học, y thuật và thiết bị phương Tây, đồng thời cũng đưa vào cả hệ thống chi trả điều trị không ngừng tăng cao của thế giới phương Tây, làm tăng thêm gánh nặng kinh tế rất lớn cho Trung Quốc, một đất nước có số dân đông nhất thế giới. Trong hoàn cảnh như vậy, quyển sách này ra đời có một ý nghĩa rất quan trọng, nó nhắc nhở chúng ta, phương pháp tự nhiên của Trung y “trị bệnh ngay khi chưa
+
+bị bệnh”, rất có thể sẽ là một phương hướng quan trọng để giải quyết vấn đề sức khỏe của đông đảo người cao tuổi.
+
+Tác giả Ngô Thanh Trung là người Đài Loan đã hơn chục năm nay công tác tại đại lục Trung Quốc, nhiều phát triển quan trọng trong nghiên cứu kinh lạc Trung y ở nước ta, sau khi xem xong quyển sách này tôi mới hiểu được. Những thành quả công tác xuất sắc nêu ra trong cuốn sách này cũng nhắc nhở chúng ta, hiện đại hóa Trung y không thể chỉ bó hẹp ở trong giới Trung y, cần phải có sự tham gia và công tác của càng nhiều các nhà khoa học trong các bộ môn khoa học cơ bản. Hiện đại hóa Trung y là trách nhiệm không thể thoái thác của người Trung Quốc thế hệ chúng ta, chúng ta hy vọng người tháo bỏ tấm màn thần bí Trung y trong tương lai nhất định sẽ là người Trung Quốc chúng ta.
+
+Tháng 10 năm 2005

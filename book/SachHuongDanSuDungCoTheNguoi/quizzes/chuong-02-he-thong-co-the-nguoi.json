@@ -1,0 +1,188 @@
+{
+  "bookId": "SachHuongDanSuDungCoTheNguoi",
+  "chapterId": "chuong-02-he-thong-co-the-nguoi",
+  "chapterTitle": "Chương 2: Hệ thống cơ thể người",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo lý luận Trung y được trình bày trong chương, khi một người cảm thấy đau ở trán sau khi uống nước lạnh quá nhanh, điều này thực sự phản ánh vấn đề ở cơ quan nào?",
+      "options": [
+        "Đau ở trán là do tổn thương trực tiếp đến các dây thần kinh trên mặt và vùng thái dương.",
+        "Đau ở trán là triệu chứng của bệnh dạ dày, do nước lạnh làm tổn thương đường kinh lạc dạ dày.",
+        "Đau ở trán cho thấy não bộ đang bị kích thích quá mức bởi nhiệt độ lạnh đột ngột.",
+        "Đau ở trán là dấu hiệu của sự mất cân bằng âm dương trong cơ thể, không liên quan đến một cơ quan cụ thể."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách giải thích rằng khi uống nước lạnh quá nhanh gây đau dọc theo bên mặt đến tận huyệt Thái Dương, theo Trung y, tuyến đau đó là đường kinh lạc dạ dày (Vị Kinh). Điều này có nghĩa là cảm giác đau ở trán thực ra là biểu hiện của bệnh ở dạ dày, minh họa cho nguyên lý 'đầu đau không nhất định chữa ở đầu, chân đau không nhất định chữa ở chân' của Trung y."
+    },
+    {
+      "id": "q2",
+      "question": "Một người thường xuyên làm việc quá sức trong thời gian dài nhưng không thấy bệnh tật gì. Khi họ nghỉ ngơi, bệnh tật lại xuất hiện. Theo quan điểm của tác giả, hiện tượng này giải thích như thế nào?",
+      "options": [
+        "Khi nghỉ ngơi, cơ thể trở nên yếu hơn và dễ bị các tác nhân gây bệnh tấn công hơn so với lúc làm việc.",
+        "Làm việc quá sức giúp cơ thể duy trì trạng thái 'bận rộn' nên không có thời gian để phát bệnh.",
+        "Đây là một hiện tượng ngẫu nhiên, không có mối liên hệ trực tiếp giữa việc làm việc quá sức và sự xuất hiện bệnh khi nghỉ ngơi.",
+        "Khi nghỉ ngơi, khí huyết tăng lên, cơ thể có năng lượng để tiến hành thanh lọc và sửa chữa, gây ra các triệu chứng bệnh tật."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chương sách giải thích rằng khi làm việc quá sức, cơ thể không có đủ năng lượng để tiến hành thanh lọc và sửa chữa. Khi nghỉ ngơi, khí huyết tăng cao, máu cung cấp cho các tạng phủ cũng tăng lên, kích hoạt hệ thống chẩn đoán duy tu và thanh lọc. Các triệu chứng bệnh tật xuất hiện lúc này thực chất là sản phẩm của quá trình cơ thể tự sửa chữa và đào thải độc tố, chứ không phải là bệnh mới phát sinh."
+    },
+    {
+      "id": "q3",
+      "question": "Lý luận Trung y cho rằng các cơ quan của cơ thể không tồn tại độc lập mà là một hệ thống hoàn chỉnh. Tác giả đã so sánh hệ thống này với hệ thống đèn điện hiện đại như thế nào?",
+      "options": [
+        "Cơ quan giống bóng đèn, kinh lạc giống dây điện, huyệt vị giống công tắc, tất cả tạo thành một hệ thống hoàn chỉnh.",
+        "Cơ quan giống dây điện, kinh lạc giống bóng đèn, huyệt vị giống công tắc, cần có điện để hoạt động.",
+        "Cơ quan, kinh lạc và huyệt vị đều là những bộ phận độc lập, nhưng có thể ảnh hưởng lẫn nhau khi có sự cố.",
+        "Hệ thống đèn điện chỉ là một phép so sánh đơn giản, không thể phản ánh đầy đủ sự phức tạp của cơ thể người."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả so sánh cơ quan trong cơ thể giống như bóng đèn điện, kinh lạc thì giống như dây điện nối từ nguồn điện tới bóng đèn, còn huyệt vị thì tựa như các công tắc trên đường dây điện đó. Tổ hợp hoàn chỉnh bao gồm bóng đèn, dây điện và công tắc mới có thể gọi nó là hệ thống đèn điện, nhấn mạnh tính hệ thống và liên kết chặt chẽ của các thành phần trong cơ thể."
+    },
+    {
+      "id": "q4",
+      "question": "Theo quan điểm của tác giả, hệ thống cung cấp năng lượng của cơ thể người phức tạp hơn nhiều so với bộ phận cung cấp năng lượng của xe hơi hay máy tính vì lý do nào sau đây?",
+      "options": [
+        "Cơ thể tự trang bị trung tâm chế tạo nguyên liệu và nhà máy phát điện, chuyển hóa thức ăn thành máu và năng lượng.",
+        "Nguồn năng lượng của cơ thể là điện năng và dầu khí, cần được chuyển hóa liên tục từ thực phẩm.",
+        "Cơ thể người có nhiều bộ phận hơn và cần nhiều loại năng lượng khác nhau để hoạt động.",
+        "Hệ thống cung cấp năng lượng của cơ thể không có linh kiện phần cứng rõ ràng và độc lập như máy móc."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách chỉ rõ rằng cơ thể người thực tế đã tự trang bị cho mình một trung tâm chế tạo nguyên liệu cho nguồn năng lượng và một nhà máy phát điện. Hệ thống này phức tạp vì phải chuyển hóa đa dạng thực phẩm thành nguồn năng lượng dễ sử dụng (máu) thông qua hệ thống tiêu hóa, tạo máu và mạch máu tim, không chỉ đơn thuần là cung cấp năng lượng sẵn có như điện hay dầu khí."
+    },
+    {
+      "id": "q5",
+      "question": "Khi một người bị chẩn đoán là 'âm hư hỏa vượng' theo Trung y, theo lý giải của tác giả, điều này có ý nghĩa gì về tình trạng năng lượng của cơ thể?",
+      "options": [
+        "Năng lượng sinh ra hàng ngày (dương khí) quá nhiều, gây ra tình trạng nóng trong người và khó chịu.",
+        "Năng lượng dự trữ (âm) đang bị bội chi một cách nghiêm trọng, dẫn đến tình trạng 'hỏa' bốc lên.",
+        "Cơ thể đang ở trạng thái cân bằng năng lượng, nhưng có một số cơ quan hoạt động quá mức cần thiết.",
+        "Năng lượng khí huyết của cơ thể đang ở mức thấp nhất, không còn khả năng tự điều chỉnh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả giải thích rằng 'âm' là nguồn năng lượng dự trữ, 'dương' là năng lượng khí huyết sinh ra hàng ngày, và 'hỏa' là năng lượng bội chi. 'Âm hư hỏa vượng' chứng tỏ cơ thể người đang bội chi số lượng lớn nguồn năng lượng dự trữ, tức là sử dụng quá mức năng lượng dự trữ để bù đắp cho sự thiếu hụt năng lượng hàng ngày, dẫn đến các triệu chứng 'hỏa' bốc lên."
+    },
+    {
+      "id": "q6",
+      "question": "Theo quan điểm của tác giả, tại sao y học hiện đại thường bó tay trước các bệnh mạn tính và có thể có vấn đề trong logic tư duy?",
+      "options": [
+        "Y học hiện đại quá tập trung vào việc tìm kiếm linh đan diệu dược mà bỏ qua các phương pháp điều dưỡng tự nhiên.",
+        "Y học hiện đại đánh giá thấp trí tuệ tự thân của cơ thể người và đánh giá cao năng lực của tri thức nhân loại.",
+        "Y học hiện đại chưa có đủ công cụ và công nghệ để chẩn đoán chính xác các bệnh mạn tính phức tạp.",
+        "Y học hiện đại chỉ tập trung vào điều trị triệu chứng mà không tìm đến căn nguyên sâu xa của bệnh tật."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhận định rằng 'Vấn đề lớn nhất của y học hiện đại là: Đánh giá thấp trí tuệ tự thân của cơ thể người, đánh giá cao năng lực của tri thức nhân loại.' Điều này dẫn đến việc y học hiện đại thường can thiệp quá mức vào cơ thể, bỏ qua khả năng tự điều chỉnh và tự chữa lành vốn có của nó, đặc biệt là trong các bệnh mạn tính."
+    },
+    {
+      "id": "q7",
+      "question": "Khi cơ thể cắt giảm cung cấp máu cho tạng tỳ do khí huyết không đủ, theo tác giả, điều gì có thể xảy ra với hệ thống chẩn đoán duy tu của cơ thể?",
+      "options": [
+        "Hệ thống chẩn đoán duy tu sẽ hoạt động mạnh hơn để bù đắp cho sự thiếu hụt năng lượng của tỳ.",
+        "Hệ thống chẩn đoán duy tu sẽ tạm thời giảm bớt làm việc, chỉ phản ứng với các bệnh nghiêm trọng.",
+        "Hệ thống chẩn đoán duy tu sẽ chuyển hướng năng lượng sang các cơ quan khác để duy trì hoạt động.",
+        "Hệ thống chẩn đoán duy tu sẽ ngừng hoạt động hoàn toàn, khiến cơ thể không thể tự phục hồi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách nêu rõ: 'Khi cắt giảm cung cấp máu cho tạng tỳ, hệ thống chẩn đoán duy tu của cơ thể sẽ tạm thời giảm bớt làm việc, chỉ những bệnh nghiêm trọng nó mới có phản ứng, còn đối với những bệnh tương đối nhẹ thì nó không có phản ứng gì.' Điều này giải thích tại sao nhiều người làm việc quá sức không bệnh, nhưng khi nghỉ ngơi lại phát bệnh."
+    },
+    {
+      "id": "q8",
+      "question": "Theo tác giả, bệnh tiểu đường được Trung y gọi là 'âm dương lưỡng hư'. Điều này có nghĩa là gì trong bối cảnh năng lượng của cơ thể?",
+      "options": [
+        "Cơ thể đang có quá nhiều đường trong máu do rối loạn chuyển hóa, cần phải loại bỏ đường thừa.",
+        "Cơ thể đang ở trạng thái cân bằng năng lượng, nhưng các tế bào không thể hấp thụ đường hiệu quả.",
+        "Chỉ có năng lượng dự trữ bị thiếu hụt, nhưng năng lượng sinh ra hàng ngày vẫn đủ để duy trì hoạt động bình thường.",
+        "Khí huyết và năng lượng dự trữ (hỏa) của cơ thể đều đã sắp cạn kiệt, cơ thể phải chuyển hóa cơ bắp thành đường."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả giải thích rằng bệnh đái tháo đường là chứng bệnh theo Trung y gọi là 'âm dương lưỡng hư', cũng chính là khí huyết và hỏa của cơ thể đều đã sắp hết. Lúc này, cơ thể bắt đầu đem cơ bắp chuyển hóa thành đường, thay thế lượng anbumin không đủ làm nguồn năng lượng thay thế, để duy trì sự sống."
+    },
+    {
+      "id": "q9",
+      "question": "Một trong những khác biệt lớn về khái niệm giữa Trung y và Tây y được tác giả nhắc đến là gì?",
+      "options": [
+        "Tây y tập trung vào các cơ quan nội tạng, trong khi Trung y chú trọng đến các cơ quan bên ngoài cơ thể.",
+        "Tây y coi trọng hệ thống kinh lạc, còn Trung y lại không có khái niệm rõ ràng về hệ thống này.",
+        "Trung y rất ít nhắc đến 'não' trong thư tịch cổ đại, khác biệt lớn với vai trò trung tâm của não trong Tây y.",
+        "Trung y chỉ quan tâm đến phần cứng của cơ thể, trong khi Tây y chú trọng đến các hệ thống năng lượng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương sách nêu rõ: 'Trong thư tịch cổ đại Trung Quốc, rất ít nhắc đến “não”, đây cũng là một trong những khác biệt rất lớn về khái niệm của Trung y và Tây y.' Điều này thể hiện quan điểm của Trung y coi cơ thể là một thể thống nhất, với nhiều hệ thống mang tính khái niệm và công năng hơn là chỉ tập trung vào một cơ quan cụ thể như não bộ."
+    },
+    {
+      "id": "q10",
+      "question": "Theo nghiên cứu khoa học hiện đại được nhắc đến trong chương, hệ thống kinh lạc có đặc tính vật lý gần giống như sợi quang và chứa một chất dịch sinh học trong suốt. Phát hiện này gợi ý điều gì về cơ thể người?",
+      "options": [
+        "Kinh lạc chỉ là một hệ thống ống dẫn chất lỏng đơn thuần, không có chức năng truyền thông tin.",
+        "Kinh lạc là một cấu trúc trừu tượng, không có bằng chứng vật chất cụ thể trong giải phẫu học.",
+        "Cơ thể người có thể là một thế giới được hình thành bởi một hệ thống mạng lưới phức tạp.",
+        "Chất dịch trong kinh lạc chỉ có vai trò dinh dưỡng, không liên quan đến truyền dẫn thông tin hay năng lượng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương sách đề cập đến nghiên cứu năm 1998 của một nhóm khoa học ở Trung Quốc đại lục, phát hiện kinh lạc có đặc tính vật lý gần giống sợi quang và chứa chất dịch sinh học trong suốt. Những phát hiện này 'rất dễ dàng khiến người ta liên tưởng đến ý nghĩ cơ thể người phải chăng cũng là một thế giới được hình thành bởi một hệ thống mạng?' Điều này củng cố quan điểm về cơ thể là một hệ thống mạng lưới phức tạp."
+    },
+    {
+      "id": "q11",
+      "question": "Tác giả đã đưa ra một sơ đồ hình vuông về kết cấu cơ thể người, chia thành 6 hình vuông công năng và 4 hệ thống mạng. Mục đích chính của việc thiết kế lại hệ thống cơ thể này là gì?",
+      "options": [
+        "Để giới định lại lý luận đối với nhiều bệnh mạn tính và mở ra con đường điều trị mới.",
+        "Để đơn giản hóa việc chẩn đoán và điều trị, chỉ tập trung vào các triệu chứng bên ngoài.",
+        "Để chứng minh rằng y học hiện đại hoàn toàn sai lầm trong cách tiếp cận bệnh tật.",
+        "Để phù hợp với các công trình nghiên cứu khoa học hiện đại về giải phẫu học và sinh lý học."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sơ đồ này được vạch ra với mục đích 'Sử dụng logic suy nghĩ của kết cấu cơ thể này có thể tiến hành giới định lại lý luận đối với nhiều bệnh mạn tính, phát triển ra logic bệnh lý mới. Dựa vào logic bệnh lý mới này, đưa ra phương pháp điều trị hoàn toàn khác, có cơ hội mở ra một con đường mới cho việc điều trị bệnh mạn tính.'"
+    },
+    {
+      "id": "q12",
+      "question": "Theo lý luận ngũ hành trong Trung y, nếu một người có triệu chứng 'tâm hỏa quá vượng', nguyên nhân có thể là gì ngoài vấn đề trực tiếp của tạng tâm?",
+      "options": [
+        "Do thận khí không đủ vào mùa đông, khiến thủy không khắc nổi hỏa, hoặc can khí bốc lên vào mùa xuân.",
+        "Chỉ có thể là do chính tạng tâm gây nên, không liên quan đến các tạng khác trong cơ thể.",
+        "Do tỳ và phế hoạt động quá mức, tạo ra quá nhiều năng lượng làm tăng hỏa của tâm.",
+        "Do sự mất cân bằng giữa âm và dương trong cơ thể, không liên quan đến ngũ hành cụ thể."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách giải thích rằng 'tâm hỏa quá vượng' có thể do chính tạng tâm gây nên (ví dụ mùa hè), nhưng cũng có thể do 'mùa đông khi thận khí không đủ, thủy không khắc nổi hỏa, cũng sẽ gây nên triệu trứng tâm hỏa quá vượng; mùa xuân khi can (gan) khí bốc lên, cũng sẽ vì mộc sinh hỏa mà tạo thành triệu chứng tâm hỏa cũng mạnh lên theo.' Điều này minh họa mối quan hệ tương sinh tương khắc phức tạp trong ngũ hành."
+    },
+    {
+      "id": "q13",
+      "question": "Khi cơ thể tiến hành thanh lọc và sửa chữa gan hoặc thận, các chỉ số xét nghiệm máu hoặc nước tiểu có thể thay đổi như thế nào theo quan điểm của tác giả?",
+      "options": [
+        "Các chỉ số sẽ trở về mức bình thường ngay lập tức, cho thấy cơ thể đã hoàn toàn khỏe mạnh.",
+        "Các chỉ số sẽ không thay đổi đáng kể, vì quá trình thanh lọc diễn ra ở cấp độ tế bào không ảnh hưởng đến máu.",
+        "Các chỉ số sẽ giảm xuống dưới mức bình thường, cho thấy cơ thể đang thiếu hụt trầm trọng các chất cần thiết.",
+        "Các chỉ số sẽ tăng cao (ví dụ Trimellitic anhydride cho gan, Urine protein cho thận), bị xem là có bệnh theo Tây y."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả chỉ ra rằng khi cơ thể thanh lọc tu sửa gan thì chỉ số Trimellitic anhydride tăng cao; khi cơ thể thanh lọc tu sửa thận thì chỉ số Urine protein tăng lên rất cao. Các công cụ chẩn đoán của y học hiện đại thường xem những chỉ số vượt quá ngưỡng này là không bình thường, tức là đã có bệnh, trong khi thực tế đó là dấu hiệu của quá trình tự sửa chữa."
+    },
+    {
+      "id": "q14",
+      "question": "Theo tác giả, tại sao việc giảng dạy Trung y hiện đại gặp khó khăn và dễ gây hoài nghi cho người học?",
+      "options": [
+        "Do Trung y có quá nhiều lý thuyết phức tạp và khó hiểu, không thể áp dụng vào thực tế lâm sàng.",
+        "Do người học không có đủ kiến thức về y học phương Tây để so sánh và đối chiếu các khái niệm.",
+        "Do việc giảng dạy bắt đầu bằng giải phẫu học Tây y, làm hình thành quan niệm cơ thể không có kinh lạc trước khi học về kinh lạc.",
+        "Do thiếu các tài liệu giảng dạy hiện đại và các phương pháp thực hành lâm sàng tiên tiến trong Trung y."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương sách nhận định: 'Sự suy thoái của Trung y ngày nay, nguyên nhân rất lớn là ở việc giảng dạy Trung y hiện đại, vừa bước chân vào trường đã dạy ngay cái loại giải phẫu học hời hợt nông cạn, làm cho trong đầu người mới vào học hình thành sẵn quan niệm kết cấu cơ thể người không có kinh lạc, sau đó lại bắt đầu giảng kinh lạc và huyệt vị, đương nhiên trong đầu đã tràn ngập những chất vấn hoài nghi, thì làm sao có thể học hiểu được Trung y nữa?'"
+    },
+    {
+      "id": "q15",
+      "question": "Khi một người bị bong gân ở tay hoặc chân một cách thường xuyên mà không do lực tác động mạnh, theo quan điểm của Trung y, nguyên nhân gốc rễ có thể là gì?",
+      "options": [
+        "Do cấu trúc xương khớp yếu bẩm sinh, cần phải tăng cường luyện tập và bổ sung canxi.",
+        "Do thiếu hụt vitamin và khoáng chất, ảnh hưởng đến độ bền của gân và dây chằng.",
+        "Do cơ quan tương ứng của đường kinh lạc đó đã có vấn đề từ lâu, làm giảm tính đàn hồi của kinh lạc.",
+        "Đây là một sự cố ngẫu nhiên, không có mối liên hệ với tình trạng sức khỏe tổng thể của cơ thể."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương sách giải thích rằng: 'Thông thường chỗ bị bong gân sẽ rất hay gặp lại tổn thương, lúc này nguyên nhân chủ yếu không phải là lực bên ngoài gây nên, mà là cơ quan tương ứng của kinh lạc này từ lâu đã có vấn đề, làm cho tính đàn hồi của kinh lạc trở nên yếu kém, tự nhiên sẽ dễ dàng bị bong gân, loại bong gân này không phải là bất ngờ ngẫu nhiên mà là kết quả tất nhiên.'"
+    }
+  ]
+}

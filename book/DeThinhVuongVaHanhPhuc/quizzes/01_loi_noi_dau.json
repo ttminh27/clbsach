@@ -1,0 +1,188 @@
+{
+  "bookId": "DeThinhVuongVaHanhPhuc",
+  "chapterId": "01_loi_noi_dau",
+  "chapterTitle": "Lời nói đầu (Đội ngũ Ninety Eight)",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Dựa trên quan điểm của Naval Ravikant được đội ngũ Ninety Eight tái khẳng định trong lời nói đầu, bản chất thực sự của sự thịnh vượng và hạnh phúc là gì?",
+      "options": [
+        "Chúng là kết quả ngẫu nhiên của sự may mắn và hoàn cảnh kinh tế vĩ mô.",
+        "Chúng là đặc quyền tự nhiên chỉ dành riêng cho những ai có tài năng bẩm sinh.",
+        "Chúng là các kỹ năng sống có thể học hỏi, rèn luyện được thông qua nỗ lực tích lũy.",
+        "Chúng là những trạng thái tĩnh tại đạt được khi con người từ bỏ mọi mục tiêu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Naval Ravikant và Ninety Eight đồng quan điểm rằng thịnh vượng và hạnh phúc không phải là bẩm sinh hay ăn may, mà là các kỹ năng có thể học và làm chủ thông qua tư duy đúng đắn và hành động kỷ luật."
+    },
+    {
+      "id": "q2",
+      "question": "Khi Naval chia sẻ rằng 'Không phải mọi thứ đều có thể được dạy. Thực tế là những thứ thú vị nhất không thể dạy, nhưng mọi thứ đều có thể học được', ông đang ngầm chỉ điều gì về phương pháp phát triển bản thân?",
+      "options": [
+        "Con người phải chủ động tự học qua trải nghiệm thực tế thay vì chờ đợi trường lớp.",
+        "Học qua trường lớp chính thống là con đường duy nhất để tiếp thu tri thức lõi.",
+        "Những kiến thức thú vị hoàn toàn vô ích đối với sự nghiệp kinh doanh và làm giàu.",
+        "Việc tự học chỉ mang tính chất giải trí chứ không thể tạo ra giá trị kinh tế cao."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tư tưởng của Naval nhấn mạnh rằng kiến thức thực chiến và thú vị nhất (như kiến thức chuyên biệt) không thể dạy dỗ theo giáo trình truyền thống, mà cá nhân phải tự mình khám phá, trải nghiệm và học hỏi."
+    },
+    {
+      "id": "q3",
+      "question": "Đội ngũ Ninety Eight khuyến nghị đọc cuốn sách này 1.000 lần để thay đổi cuộc sống tích cực. Theo triết lý của Naval về việc tiếp thu tri thức, điều này phản ánh điều gì?",
+      "options": [
+        "Số lượng lần đọc quan trọng hơn rất nhiều so với khả năng ứng dụng thực tế vào đời sống.",
+        "Việc ghi nhớ từng câu chữ trong sách một cách máy móc sẽ mang lại thành công tài chính.",
+        "Đọc đi đọc lại một cuốn sách là cách duy nhất để thể hiện sự tôn trọng tác giả.",
+        "Sự lặp lại các nguyên lý cốt lõi giúp chuyển hóa nhận thức thành mô hình tư duy tự nhiên."
+      ],
+      "correctIndex": 3,
+      "explanation": "Naval đề cao việc nắm giữ và thẩm thấu các nguyên lý nền tảng (mental models). Đọc đi đọc lại không phải để học vẹt mà để các tư tưởng ấy thấm sâu vào tiềm thức, thay đổi cách phản ứng trước mọi tình huống."
+    },
+    {
+      "id": "q4",
+      "question": "Trong bối cảnh xây dựng sự nghiệp và khởi nghiệp trong lĩnh vực công nghệ như Ninety Eight, việc chuyển ngữ và lan tỏa cuốn sách này thể hiện rõ nhất đặc tính nào của tư duy thịnh vượng?",
+      "options": [
+        "Tạo ra đòn bẩy thông tin và tri thức để hỗ trợ cộng đồng phát triển năng lực tự chủ.",
+        "Tìm kiếm lợi nhuận ngắn hạn thông qua việc kinh doanh sách giáo khoa truyền thống.",
+        "Tạo ra sự phụ thuộc tuyệt đối của người đọc vào hệ sinh thái công nghệ của họ.",
+        "Sao chép hoàn toàn mô hình thành công của các quỹ đầu tư mạo hiểm phương Tây."
+      ],
+      "correctIndex": 0,
+      "explanation": "Việc lan tỏa tri thức chất lượng cao chính là hình thức tạo ra đòn bẩy sản phẩm và truyền thông (media/code leverage) với chi phí biên bằng không, giúp nâng cao năng lực cho cả một cộng đồng."
+    },
+    {
+      "id": "q5",
+      "question": "Nếu một nhà sáng lập khởi nghiệp áp dụng triết lý của Naval Ravikant về sự tự chịu trách nhiệm (Accountability), họ sẽ hành xử như thế nào khi dự án gặp thất bại?",
+      "options": [
+        "Dũng cảm nhận trọn trách nhiệm cá nhân, rút kinh nghiệm sâu sắc và tìm hướng đi mới.",
+        "Đổ lỗi hoàn toàn cho điều kiện thị trường bất lợi và sự thiếu hỗ trợ từ chính phủ trên thực tế.",
+        "Chờ đợi các nhà đầu tư mạo hiểm bơm thêm vốn để cứu vãn tình hình khó khăn.",
+        "Đóng cửa công ty ngay lập tức và chuyển sang một lĩnh vực hoàn toàn không rủi ro."
+      ],
+      "correctIndex": 0,
+      "explanation": "Naval nhấn mạnh rằng người chịu trách nhiệm cao nhất sẽ nắm giữ equity (cổ phần) và quyền lực thực sự. Chịu trách nhiệm nghĩa là không bao giờ đổ lỗi, dùng uy tín cá nhân để gánh vác kết quả."
+    },
+    {
+      "id": "q6",
+      "question": "Theo quan điểm xuyên suốt của Naval Ravikant về tiền bạc và tài sản, yếu tố nào dưới đây giúp một cá nhân thoát khỏi cái bẫy bán thời gian lấy tiền?",
+      "options": [
+        "Đầu tư toàn bộ tài sản vào các loại tài sản cố định truyền thống như đất đai.",
+        "Làm việc chăm chỉ hơn số giờ quy định mỗi ngày tại một tập đoàn đa quốc gia.",
+        "Chỉ tập trung tích lũy tiền mặt trong tài khoản tiết kiệm ngân hàng lãi suất cao.",
+        "Sở hữu cổ phần (equity) trong các doanh nghiệp có khả năng mở rộng quy mô lớn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Naval chỉ rõ bạn không thể làm giàu chỉ bằng cách bán thời gian. Bạn cần sở hữu cổ phần (equity) - một dạng tài sản làm việc thay cho bạn ngay cả khi bạn đang ngủ."
+    },
+    {
+      "id": "q7",
+      "question": "Khi đối mặt với một vấn đề phức tạp trong kinh doanh, một người có tư duy từ nguyên lý đầu tiên (First Principles) theo tinh thần Naval sẽ làm gì?",
+      "options": [
+        "Tham khảo ý kiến số đông trên mạng xã hội để đưa ra quyết định an toàn nhất.",
+        "Sao chép nguyên bản cách làm đang thịnh hành của các đối thủ cạnh tranh lớn.",
+        "Bóc tách vấn đề về những sự thật cơ bản nhất rồi tự mình xây dựng giải pháp logic.",
+        "Dựa vào kinh nghiệm quá khứ từ hàng chục năm trước mà không cần đổi mới một cách rõ ràng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tư duy First Principles là việc nhìn thấu qua lớp vỏ bọc quy ước xã hội để đến với những sự thật gốc rễ, từ đó kiến tạo ra những giải pháp độc bản và đột phá."
+    },
+    {
+      "id": "q8",
+      "question": "Hạnh phúc theo định nghĩa của Naval Ravikant không phải là sự hưng phấn tột độ hay việc đạt được mọi mục tiêu vật chất, mà thực chất là gì?",
+      "options": [
+        "Sự thỏa mãn khi chiến thắng các đối thủ cạnh tranh trong môi trường khốc liệt.",
+        "Trạng thái bình an nội tâm xuất phát từ việc không còn mong cầu hay vướng bận.",
+        "Cảm giác an toàn tuyệt đối khi sở hữu một khối tài sản khổng lồ trong ngân hàng.",
+        "Việc kiểm soát hoàn toàn cảm xúc của những người xung quanh theo ý muốn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Naval định nghĩa hạnh phúc là sự vắng mặt của sự bất như ý, là sự bình an trong tâm hồn (peace of mind) và khả năng hiện diện trọn vẹn tại hiện tại thay vì mãi chạy theo mong cầu."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao Naval Ravikant lại cho rằng 'mong cầu là một lời hứa đau khổ mà bạn tự gán cho chính mình cho đến khi đạt được nó'?",
+      "options": [
+        "Vì con người không bao giờ đủ khả năng tài chính để thực hiện mọi mong ước.",
+        "Vì nó ngăn cản con người đặt ra những mục tiêu lớn trong sự nghiệp kinh doanh.",
+        "Vì mong cầu vật chất luôn đi ngược lại với các chuẩn mực đạo đức xã hội trên thực tế.",
+        "Vì nó trói buộc sự bình an hiện tại vào một kết quả tương lai chưa chắc xảy ra."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mỗi lần bạn nói 'Tôi chỉ hạnh phúc khi đạt được điều này', bạn đang tự chuốc lấy sự bất hạnh và lo âu cho đến khi điều đó xảy ra. Hạnh phúc thực sự là buông bỏ sự bám chấp."
+    },
+    {
+      "id": "q10",
+      "question": "Trong lĩnh vực đầu tư mạo hiểm và khởi nghiệp Web3 như định hướng của Ninety Eight, yếu tố nào tạo ra đòn bẩy mạnh mẽ nhất giúp nhân 1000 lần kết quả?",
+      "options": [
+        "Số lượng nhân sự làm việc chăm chỉ trực tiếp tại văn phòng trong mỗi dự án.",
+        "Sản phẩm công nghệ (Code) và phương tiện truyền thông (Media) không tốn chi phí biên.",
+        "Vốn vay ngân hàng với mức lãi suất ưu đãi dành riêng cho doanh nghiệp nhỏ.",
+        "Số lượng các mối quan hệ xã hội truyền thống tại các sự kiện hội nghị lớn một cách rõ ràng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đòn bẩy code và media là hai loại đòn bẩy mới mạnh mẽ nhất thời đại số. Chúng cho phép bạn nhân bản sản phẩm và thông điệp phục vụ hàng triệu người mà không tốn thêm chi phí nhân công."
+    },
+    {
+      "id": "q11",
+      "question": "Khi bàn về việc học tập suốt đời, Naval Ravikant khuyên chúng ta nên ưu tiên điều gì trong việc lựa chọn nền tảng kiến thức?",
+      "options": [
+        "Nắm vững các nguyên lý cơ bản của toán học, vật dụng, kinh tế và tư duy lý trí.",
+        "Học thuộc lòng mọi tin tức cập nhật mới nhất diễn ra trên thị trường hàng ngày.",
+        "Chỉ tập trung vào các kỹ năng kỹ thuật hẹp phục vụ trực tiếp cho công việc hiện tại.",
+        "Đọc thật nhiều tiểu thuyết giải trí để nâng cao khả năng tưởng tượng phong phú."
+      ],
+      "correctIndex": 0,
+      "explanation": "Naval nhấn mạnh tầm quan trọng của việc học các nguyên lý nền tảng (mental models) thay vì chạy theo tin tức bề nổi. Nền tảng vững chắc giúp bạn thích nghi với bất kỳ thay đổi nào."
+    },
+    {
+      "id": "q12",
+      "question": "Sự khác biệt cốt lõi giữa 'kiến thức chuyên biệt' (Specific Knowledge) và 'kiến thức hàn lâm' thông thường là gì?",
+      "options": [
+        "Kiến thức chuyên biệt chỉ có thể đạt được thông qua các văn bằng tiến sĩ danh giá một cách rõ ràng.",
+        "Kiến thức hàn lâm trường lớp mang lại khả năng tạo ra sự giàu có đột phá nhanh hơn.",
+        "Kiến thức chuyên biệt gắn liền với năng lực tự nhiên và không thể dạy nhưng có thể mài giũa.",
+        "Kiến thức hàn lâm hoàn toàn vô ích và không bao giờ áp dụng được vào thực tế."
+      ],
+      "correctIndex": 2,
+      "explanation": "Specific Knowledge là những gì bạn làm cực kỳ tự nhiên từ khi còn nhỏ, kết hợp với đam mê cá nhân. Nó không thể được dạy trong trường lớp, do đó không thể bị thay thế hay outsourcing."
+    },
+    {
+      "id": "q13",
+      "question": "Theo triết lý sống của Naval, việc so sánh bản thân với người khác và sự đố kỵ mang lại hệ quả gì cho sự phát triển cá nhân?",
+      "options": [
+        "Tạo ra động lực cạnh tranh lành mạnh giúp thúc đẩy hiệu suất làm việc tăng cao.",
+        "Làm tiêu tan năng lượng tinh thần và kéo con người rời xa trạng thái bình an nội tại.",
+        "Giúp nhận ra những điểm yếu chí mạng để kịp thời sửa đổi và cải thiện bản thân.",
+        "Là thước đo chính xác nhất để đánh giá mức độ thành công tài chính ngoài xã hội trên thực tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Naval khẳng định đố kỵ là cái bẫy tồi tệ nhất vì bạn không thể chỉ chọn lấy sự giàu có hay thành công của người khác mà phải gánh trọn toàn bộ cuộc đời họ. Đố kỵ chỉ làm tổn hại chính mình."
+    },
+    {
+      "id": "q14",
+      "question": "Ý nghĩa sâu xa của việc xây dựng một hệ sinh thái khởi nghiệp như cách Ninety Eight đang thực hiện, chiếu theo tư tưởng của Naval Ravikant, là gì?",
+      "options": [
+        "Tập trung độc quyền thị trường để tối đa hóa doanh thu ngắn hạn từ khách hàng.",
+        "Kiến tạo giá trị dài hạn bằng cách trao quyền, tạo đòn bẩy và giải phóng tiềm năng con người.",
+        "Xây dựng mạng lưới nhân sự phụ thuộc chặt chẽ vào cấu trúc vận hành của công ty một cách rõ ràng.",
+        "Chạy theo các xu hướng công nghệ chớp nhoáng để thu hút sự chú ý của truyền thông."
+      ],
+      "correctIndex": 1,
+      "explanation": "Một hệ sinh thái khởi nghiệp bền vững theo tinh thần Naval là nơi tạo ra đòn bẩy, tôn trọng tính tự chủ, trách nhiệm và lan tỏa tri thức giúp mọi cá nhân cùng thịnh vượng."
+    },
+    {
+      "id": "q15",
+      "question": "Vì sao việc đọc cuốn sách 'Naval Ravikant – Để thịnh vượng và hạnh phúc' nhiều lần lại được ví như một công cụ rèn luyện tư duy thay đổi cuộc đời?",
+      "options": [
+        "Vì cuốn sách có độ dài lớn đòi hỏi sự kiên nhẫn tối đa từ phía người đọc phổ thông.",
+        "Vì nó cung cấp sẵn một công thức làm giàu nhanh chóng áp dụng được ngay lập tức trong mọi hoàn cảnh.",
+        "Vì sách chứa đựng những triết lý cốt lõi giúp tái lập trình cách tư duy và nhìn nhận thực tại.",
+        "Vì tác giả đưa ra rất nhiều bài tập thực hành bắt buộc phải hoàn thành mỗi ngày."
+      ],
+      "explanation": "Cuốn sách không phải là cẩm nang mẹo vặt mà là tập hợp các nguyên lý triết sống sâu sắc. Đọc nhiều lần giúp người đọc chuyển hóa nhận thức, thay đổi lăng kính nhìn nhận thế giới để đạt được sự giàu có lẫn bình an.",
+      "correctIndex": 2
+    }
+  ]
+}
