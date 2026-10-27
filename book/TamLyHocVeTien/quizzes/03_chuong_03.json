@@ -1,0 +1,188 @@
+{
+  "bookId": "TamLyHocVeTien",
+  "chapterId": "03_chuong_03",
+  "chapterTitle": "Chương 03: Không bao giờ là đủ",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Câu chuyện đối thoại giữa Kurt Vonnegut và Joseph Heller tại bữa tiệc của tỷ phú quỹ phòng hộ ngầm truyền tải thông điệp cốt lõi nào về tài chính hành vi?",
+      "options": [
+        "Người làm trong quỹ phòng hộ luôn kiếm được nhiều tiền hơn nhà văn nổi tiếng.",
+        "Việc sáng tạo nghệ thuật không thể mang lại giá trị tài chính lớn bằng đầu tư.",
+        "Tiền bạc là thước đo duy nhất để đánh giá thành công của một đời người.",
+        "Sự giàu có thực sự đôi khi nằm ở việc nhận thức được giới hạn của sự đủ đầy."
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu chuyện nhấn mạnh trí tuệ của việc hiểu thế nào là 'đủ'. Trong khi tỷ phú quỹ phòng hộ không bao giờ có giới hạn cho lòng tham, Joseph Heller hiểu rằng ông có thứ giá trị hơn là sự thỏa mãn nội tại và ranh giới rõ ràng cho nhu cầu của bản thân."
+    },
+    {
+      "id": "q2",
+      "question": "Trường hợp của Rajat Gupta (từ cậu bé nghèo khó đến CEO McKinsey sở hữu 100 triệu USD nhưng vẫn vướng vào lao lý vì nội gián) minh chứng điều gì về tâm lý con người?",
+      "options": [
+        "Khởi đầu nghèo khó luôn tạo ra động lực kiếm tiền bất chấp mọi thủ đoạn.",
+        "Khi đã chạm mốc hàng trăm triệu USD, nhu cầu kiếm thêm tiền chỉ xuất phát từ sự sinh tồn.",
+        "Động lực vươn lên vòng tròn tỷ phú có thể làm mờ mắt ngay cả những bộ óc vĩ đại nhất.",
+        "Việc sở hữu 100 triệu USD chưa đủ để sống thoải mái tại các thành phố lớn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Rajat Gupta đã có mọi thứ nhưng vẫn bất chấp tất cả để vào 'vòng tròn tỷ phú'. Đây là hệ quả của việc cái tôi và sự so sánh xã hội bóp méo nhận thức, khiến con người đánh đổi cả danh dự lấy những thứ mình hoàn toàn không cần."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao tác giả Morgan Housel lại xếp hành vi của các nhà giao dịch quỹ Quản lý nguồn vốn dài hạn (LTCM) năm 1998 vào loại 'ngu ngốc'?",
+      "options": [
+        "Họ đã đầu tư toàn bộ tiền vào các cổ phiếu công nghệ có tính đầu cơ cao trên thị trường đầu tư thực tế.",
+        "Họ đánh liều những thứ họ đang có và cực kỳ cần thiết cho những thứ họ không có và không cần.",
+        "Họ không sử dụng các mô hình toán học tiên tiến để dự báo rủi ro thị trường trong quản trị tài chính cá nhân.",
+        "Họ đã vay mượn quá nhiều tiền từ Warren Buffett mà không có tài sản thế chấp theo nguyên lý tâm lý học hành vi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo Buffett và Housel, sự ngu ngốc lớn nhất trong tài chính là mạo hiểm đánh mất những gì bạn đang có và thực sự cần chỉ để đổi lấy thứ bạn hoàn toàn không cần, phá vỡ nguyên tắc quản trị rủi ro cơ bản nhất."
+    },
+    {
+      "id": "q4",
+      "question": "Kỹ năng tài chính khó nhằn nhất mà Morgan Housel đề cập đến trong chương này là gì?",
+      "options": [
+        "Tìm kiếm các cơ hội đầu tư sinh lời trên 20% mỗi năm.",
+        "Khiến cho chiếc cột gôn của kỳ vọng thôi không di chuyển ra xa nữa.",
+        "Dự báo chính xác thời điểm thị trường chứng khoán sụp đổ.",
+        "Xây dựng một danh mục đầu tư đa dạng hóa toàn cầu hoàn hảo."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kỹ năng khó nhất là làm sao để 'cột gôn' của mong muốn dừng lại. Nếu kỳ vọng luôn tăng nhanh hơn kết quả đạt được, bạn sẽ luôn cảm thấy mình đang thụt lùi dù đã kiếm được rất nhiều tiền."
+    },
+    {
+      "id": "q5",
+      "question": "Chủ nghĩa tư bản hiện đại được mô tả là một tay chuyên nghiệp trong việc sản sinh ra hai yếu tố nào đi đôi với nhau?",
+      "options": [
+        "Lạm phát phi mã và sự sụt giảm của thị trường lao động.",
+        "Tài sản vật chất và sự bất bình đẳng thu nhập toàn cầu.",
+        "Tài sản và sự ghen tị thúc đẩy mong muốn vượt mặt người khác.",
+        "Sự đổi mới công nghệ và khủng hoảng tâm lý của giới trẻ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chủ nghĩa tư bản giỏi tạo ra tài sản nhưng đồng thời cũng sản xuất sự ghen tị thông qua việc kích thích con người so sánh bản thân với những người xung quanh, làm mất đi cảm giác đủ đầy và hạnh phúc."
+    },
+    {
+      "id": "q6",
+      "question": "Theo góc nhìn của tâm lý học hành vi, thói quen so sánh xã hội (social comparison) tác động như thế nào đến sự giàu có của một cá nhân?",
+      "options": [
+        "Giúp họ có thêm động lực học tập để đạt thu nhập cao hơn bạn bè.",
+        "Tạo ra một trận đấu không có điểm dừng vì mức trần xã hội là quá cao.",
+        "Làm tăng mức độ tiết kiệm lên gấp đôi để bắt kịp các tỷ phú thế giới.",
+        "Giúp định hình chính xác chuẩn mực tài chính cần đạt được trong đời."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mức trần so sánh trong xã hội (từ cầu thủ bóng chày, giám đốc quỹ đến Jeff Bezos) quá cao khiến nó trở thành một trò chơi không thể chiến thắng. Cách duy nhất để chiến thắng là ngừng so sánh và chấp nhận mức 'đủ'."
+    },
+    {
+      "id": "q7",
+      "question": "Câu chuyện về người nhân viên chia bài tại sòng bài Las Vegas khuyên rằng: 'Cách duy nhất để chiến thắng ở các sòng bài Las Vegas là rời đi ngay khi bước chân vào' hàm ý điều gì?",
+      "options": [
+        "Người chơi chỉ nên đánh bạc vào ban ngày thay vì ban đêm để tránh mất kiểm soát theo nguyên lý tâm lý học hành vi.",
+        "Trò chơi tài chính và làm giàu cũng có những cái bẫy tương tự mà việc không tham gia hoặc biết điểm dừng là cách thắng duy nhất.",
+        "Sòng bài luôn sử dụng các thuật toán gian lận để người chơi không bao giờ thắng trong các quyết định chi tiêu hàng ngày.",
+        "Chỉ có những kẻ khờ kh mới đem tiền ra đặt cược tại các trung tâm giải trí trong quản trị tài chính cá nhân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ví dụ về sòng bài minh họa cho trò chơi bắt kịp tài sản của người khác: nếu cứ cố gắng chơi tiếp để thắng lớn hơn, cuối cùng bạn sẽ mất tất cả. Biết dừng lại đúng lúc chính là chiến thắng."
+    },
+    {
+      "id": "q8",
+      "question": "Khái niệm 'đủ' trong triết lý quản lý tài sản của Morgan Housel phản ánh tư duy nào sau đây?",
+      "options": [
+        "Sự lười biếng và từ bỏ mọi cơ hội thăng tiến trong sự nghiệp.",
+        "Chủ nghĩa bảo thủ cực đoan làm thui chột tiềm năng phát triển.",
+        "Sự nhận thức rằng cơn thèm muốn vô tận sẽ đẩy con người đến bờ vực hối hận.",
+        "Chiến lược đầu tư an toàn với lãi suất cố định thấp qua từng năm."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Đủ' không phải là sự kém cỏi hay bỏ lỡ cơ hội, mà là sự minh mẫn nhận ra rằng sự tham lam không có điểm dừng sẽ dẫn đến thảm họa và sự hối hận muộn màng."
+    },
+    {
+      "id": "q9",
+      "question": "Hành vi của Bernie Madoff (vừa sở hữu doanh nghiệp tạo lập thị trường hợp pháp kiếm hàng chục triệu USD mỗi năm, vừa duy trì mô hình Ponzi lừa đảo) cho thấy điều gì về ranh giới đạo đức trong tài chính?",
+      "options": [
+        "Hệ thống pháp luật tài chính quá lỏng lẻo tạo điều kiện cho tội phạm hoành hành.",
+        "Những kẻ lừa đảo thường bắt đầu từ việc kinh doanh nhỏ lẻ không thành công.",
+        "Áp lực từ gia đình và xã hội buộc các doanh nhân phải phạm tội để tồn tại.",
+        "Công việc hợp pháp không bao giờ đủ để thỏa mãn lòng tham vô đáy của một thiên tài."
+      ],
+      "correctIndex": 3,
+      "explanation": "Madoff đã rất giàu có và thành công hợp pháp, nhưng lòng tham và khát vọng có nhiều hơn nữa đã đẩy ông ta vào con đường tội phạm. Điều này một lần nữa khẳng định sự nguy hiểm của việc không biết thế nào là đủ."
+    },
+    {
+      "id": "q10",
+      "question": "Phát biểu sau khi ra tù của Rajat Gupta rằng 'Đừng quá ràng buộc với bất cứ điều gì — danh tiếng, những thành tựu của bạn...' được Morgan Housel đánh giá như thế nào?",
+      "options": [
+        "Đó là sự tự biện hộ an ủi của một người khao khát lấy lại danh tiếng nhưng bất lực.",
+        "Đó là bài học đắt giá nhất mà bất kỳ nhà đầu tư nào cũng nên ghi nhớ.",
+        "Đó là một triết lý sống minh triết đạt được sau khi đã trải qua tôi luyện.",
+        "Đó là lời khuyên chân thành giúp giải tỏa áp lực tâm lý cho giới tài phiệt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Housel nhận định đó là sự tự biện hộ mang tính ngụy biện để xoa dịu nỗi đau mất mát danh vọng, bởi thực tế Gupta vẫn bị chi phối sâu sắc bởi cái tôi và danh tiếng trong suốt cuộc đời mình."
+    },
+    {
+      "id": "q11",
+      "question": "Theo tác giả, mối quan hệ giữa hạnh phúc và kỳ vọng trong đời sống tài chính được định nghĩa như thế nào?",
+      "options": [
+        "Hạnh phúc bằng kết quả đạt được chia cho kỳ vọng ban đầu của bản thân.",
+        "Hạnh phúc là khi bạn đạt được khối tài sản lớn hơn kỳ vọng của xã hội.",
+        "Hạnh phúc tăng lên đồng phẳng với tỷ lệ thuận của thu nhập và kỳ vọng.",
+        "Hạnh phúc chính là kết quả thu được khi không có sự kỳ vọng quá cao."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tác giả nhắc đến châm ngôn: 'Hạnh phúc chỉ là những kết quả khi không có sự kỳ vọng'. Khi bạn kỳ vọng quá nhiều và liên tục nâng cột gôn, bạn sẽ mãi mãi không cảm thấy hạnh phúc."
+    },
+    {
+      "id": "q12",
+      "question": "Điều gì khiến cho những người có xuất thân từ hoàn cảnh nghèo khó đôi khi lại dễ rơi vào cái bẫy tích lũy tiền bạc cực đoan nhất?",
+      "options": [
+        "Họ có hiểu biết vượt trội về các công cụ tài chính phái sinh phức tạp.",
+        "Họ muốn chứng minh năng lực bản thân với những người sinh ra ở vạch đích.",
+        "Nỗi sợ hãi sâu sắc về sự thiếu thốn trong quá khứ biến thành lòng tham không đáy.",
+        "Họ không được trang bị các kỹ năng quản lý ngân sách cá nhân cơ bản."
+      ],
+      "correctIndex": 2,
+      "explanation": "Những người từng trải qua hoàn cảnh khắc nghiệt như Gupta thường bị ám ảnh bởi việc tích lũy sự an toàn giả tạo thông qua tiền bạc, dẫn đến việc không có điểm dừng và bất chấp rủi ro để vươn lên."
+    },
+    {
+      "id": "q13",
+      "question": "Bài học quan trọng nhất về việc bảo vệ những tài sản phi vật chất (như gia đình, tự do, danh tiếng, hạnh phúc) là gì?",
+      "options": [
+        "Biết khi nào cần dừng những việc liều lĩnh có thể tổn hại đến chúng.",
+        "Luôn mua bảo hiểm tài chính với mệnh giá cao nhất cho mọi rủi ro.",
+        "Từ bỏ hoàn toàn các mục tiêu tài chính lớn để tránh bị cám dỗ.",
+        "Chỉ đầu tư vào các quỹ chỉ số an toàn thay vì các cổ phiếu riêng lẻ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cách duy nhất và tốt nhất để bảo vệ các giá trị cốt lõi (tự do, gia đình, hạnh phúc) là nhận thức được giới hạn và biết dừng lại đúng lúc trước những hành vi mạo hiểm không cần thiết."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao việc so sánh thu nhập với những người thuộc nhóm siêu giàu (như các giám đốc quỹ phòng hộ hay tỷ phú công nghệ) lại là một sai lầm chí mạng trong quản lý tài chính cá nhân?",
+      "options": [
+        "Vì nó khiến bạn cảm thấy tự ti và bỏ cuộc trong công việc hàng ngày.",
+        "Vì dữ liệu thu nhập của giới siêu giàu thường không chính xác trên báo chí.",
+        "Vì nó làm biến dạng khái niệm về sự đủ đầy, biến bạn thành kẻ nghèo khó trong tâm tưởng.",
+        "Vì nó kích thích bạn chi tiêu vượt quá khả năng tài chính thực tế của mình."
+      ],
+      "correctIndex": 2,
+      "explanation": "So sánh với người giàu hơn làm đảo lộn hoàn toàn thước đo thực tế của bạn, khiến một mức thu nhập vốn dĩ rất cao bỗng trở nên 'nghèo', từ đó kích thích những hành vi tài chính sai lầm và nguy hiểm."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp tổng quát mà Morgan Housel muốn gửi gắm qua toàn bộ Chương 03 về tâm lý học tiền bạc là gì?",
+      "options": [
+        "Biết điểm dừng và hiểu thế nào là 'đủ' là chiếc khiên bảo vệ bạn khỏi sự sụp đổ do lòng tham.",
+        "Hãy luôn nỗ lực làm việc 24/7 để gia tăng khối tài sản ròng đến mức tối đa.",
+        "Đầu tư tài chính thành công đòi hỏi sự nhạy bén trong việc nắm bắt thông tin nội bộ.",
+        "Sự giàu có thực sự chỉ đến khi bạn lọt vào top những tỷ phú hàng đầu thế giới."
+      ],
+      "correctIndex": 0,
+      "explanation": "Xuyên suốt chương sách là lời cảnh tỉnh về cái bẫy của sự tham vọng vô đáy. Biết dừng lại, trân trọng những gì đang có và hiểu khái niệm 'đủ' chính là kỹ năng sinh tồn tối thượng trong tài chính."
+    }
+  ]
+}

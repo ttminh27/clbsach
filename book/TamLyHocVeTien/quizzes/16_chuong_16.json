@@ -1,0 +1,188 @@
+{
+  "bookId": "TamLyHocVeTien",
+  "chapterId": "16_chuong_16",
+  "chapterTitle": "Chương 16: Bạn & Tôi",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Morgan Housel trong Chương 16, nguyên nhân cốt lõi khiến các bong bóng tài chính như dot-com hay nhà đất liên tục lặp lại qua các thế hệ là gì?",
+      "options": [
+        "Do sự thiếu hiểu biết hoàn toàn về toán học tài chính của các nhà đầu tư cá nhân.",
+        "Do các ngân hàng trung ương luôn duy trì mức lãi suất quá thấp trong thời gian dài.",
+        "Do nhà đầu tư dài hạn vô tình lắng nghe và bắt chước những người chơi trò chơi ngắn hạn.",
+        "Do sự thao túng có chủ ý của các quỹ đầu cơ lớn nhằm thâu tóm toàn bộ thị trường."
+      ],
+      "correctIndex": 2,
+      "explanation": "Morgan Housel chỉ ra rằng bong bóng hình thành khi các nhà đầu tư dài hạn bị lôi kéo bởi quán tính lợi nhuận ngắn hạn và vô tình bắt chước những người chơi một trò chơi hoàn toàn khác với mình, tạo ra một cạm bẫy tâm lý nguy hiểm."
+    },
+    {
+      "id": "q2",
+      "question": "Khi một nhà đầu tư dài hạn nhìn vào mức định giá điên rồ của một cổ phiếu và quyết định mua vào chỉ vì thấy giá nó tăng phi mã, họ đang mắc phải sai lầm tâm lý nào?",
+      "options": [
+        "Hiệu ứng đám đông khiến họ tin rằng những người mua ngắn hạn biết rõ các thông tin bí mật.",
+        "Hội chứng sợ bỏ lỡ cơ hội làm gián đoạn hoàn toàn khả năng phân tích dòng tiền tương lai.",
+        "Định kiến xác nhận khiến họ chỉ tìm kiếm các thông tin tích cực để củng cố quyết định mua.",
+        "Sự nhầm lẫn về chân trời thời gian khi áp dụng sai mức giá của người lướt sóng vào danh mục."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sai lầm chí mạng ở đây là sự xung đột về chân trời thời gian. Mức giá cao là hợp lý với nhà giao dịch ngắn hạn muốn bán trước cuối ngày, nhưng lại là thảm họa với người nắm giữ dài hạn."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao tác giả lại khẳng định rằng việc gọi tất cả những người tham gia mua bán nhanh chóng trong thời kỳ bong bóng là 'những kẻ mất trí' là một góc nhìn sai lầm?",
+      "options": [
+        "Vì họ thực sự sở hữu những mô hình dự báo kinh tế tiên tiến hơn phần còn lại của thị trường.",
+        "Vì các quyết định của họ hoàn toàn hợp lý trong trò chơi ngắn hạn nhằm chớp lấy quán tính giá.",
+        "Vì họ luôn có sẵn một nguồn lực tài chính khổng lồ để chống đỡ mọi rủi ro bất ngờ xuất hiện.",
+        "Vì họ đóng vai trò tạo ra thanh khoản thiết yếu giúp duy trì sự sôi động của hệ thống tài chính."
+      ],
+      "correctIndex": 1,
+      "explanation": "Housel nhấn mạnh không ai là điên rồ cả. Những kẻ đầu cơ ngắn hạn hành xử hoàn toàn logic trong khung thời gian của họ, nơi quy tắc định giá dài hạn bị gạt sang một bên để tận dụng quán tính dòng tiền."
+    },
+    {
+      "id": "q4",
+      "question": "Định kiến nhận thức nào trong tâm lý học khiến chúng ta rất khó thấu hiểu và nhận ra mục tiêu tài chính thực sự của những người xung quanh?",
+      "options": [
+        "Xu hướng tự suy diễn động cơ của người khác dựa trên những trải nghiệm nghèo nàn trong quá khứ.",
+        "Sự ngộ nhận rằng những người có tư duy logic sẽ luôn nhìn nhận thế giới qua cùng một lăng kính.",
+        "Áp lực xã hội buộc bản thân phải đồng hóa hành vi tiêu dùng với nhóm người có địa vị cao hơn.",
+        "Sự thiếu hụt các dữ liệu tài chính minh bạch từ những người tham gia trực tiếp vào thị trường."
+      ],
+      "correctIndex": 1,
+      "explanation": "Một định kiến nhận thức phổ biến là chúng ta mặc định những người thông minh, logic cũng phải nhìn nhận thế giới và đánh giá tài sản theo đúng cách mà chúng ta đang làm."
+    },
+    {
+      "id": "q5",
+      "question": "Khi các phương tiện truyền thông tài chính liên tục đưa ra lời khuyên 'Bạn nên mua cổ phiếu này ngay bây giờ', rủi ro lớn nhất đối với một nhà đầu tư cá nhân là gì?",
+      "options": [
+        "Lời khuyên đó thường đã lỗi thời và không còn phản ánh đúng giá trị thực tế của doanh nghiệp.",
+        "Người đưa ra lời khuyên hoàn toàn không biết rõ hoàn cảnh, độ tuổi hay mục tiêu tài chính của bạn.",
+        "Khối lượng giao dịch quá lớn từ cộng đồng sẽ ngay lập tức làm sụp đổ cấu trúc định giá cổ phiếu.",
+        "Các cơ quan quản lý thị trường có thể xem xét xử lý vi phạm về hành vi thao túng giá công khai."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lời khuyên đại trà trên truyền thông phớt lờ hoàn toàn sự thật rằng mỗi cá nhân có một hoàn cảnh, ngân sách, độ tuổi và chân trời thời gian hoàn toàn khác biệt nhau."
+    },
+    {
+      "id": "q6",
+      "question": "Bài học quan trọng nhất về quản lý tài sản cá nhân được rút ra từ việc thấu hiểu sự khác biệt về 'chân trời thời gian' là gì?",
+      "options": [
+        "Luôn phải duy trì một tỷ trọng tiền mặt lớn để sẵn sàng nắm bắt các cơ hội ngắn hạn trên thị trường.",
+        "Xác định rõ ràng trò chơi của chính mình và tuyệt đối không để bị lung lay bởi hành vi của người khác.",
+        "Thường xuyên điều chỉnh danh mục đầu tư theo chu kỳ biến động của các nhà giao dịch chuyên nghiệp.",
+        "Loại bỏ hoàn toàn mọi cảm xúc cá nhân bằng cách áp dụng các thuật toán giao dịch tự động hóa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Housel kết luận rằng không có gì quan trọng hơn việc hiểu rõ chân trời thời gian của chính mình và miễn dịch trước những hành vi của những người đang chơi một trò chơi khác."
+    },
+    {
+      "id": "q7",
+      "question": "Việc Morgan Housel tự định nghĩa bản thân là 'một nhà đầu tư thụ động nhưng lạc quan về sự tăng trưởng kinh tế trong 30 năm tới' mang lại lợi ích tâm lý gì?",
+      "options": [
+        "Giúp ông dễ dàng bỏ qua những biến động ngắn hạn và suy thoái chu kỳ mà không bị tác động tâm lý.",
+        "Đảm bảo ông luôn đạt được tỷ suất sinh lợi cao hơn mức trung bình của toàn bộ thị trường tài chính.",
+        "Giúp ông tiết kiệm tối đa thời gian nghiên cứu báo cáo tài chính của các doanh nghiệp niêm yết.",
+        "Tạo ra một bức tường bảo vệ vững chắc giúp ông tránh khỏi mọi nguy cơ phá sản do chiến tranh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi viết rõ mục tiêu dài hạn xuống, mọi thứ nằm ngoài chân trời đó (như biến động năm hay suy thoái năm sau) tự động trở thành trò chơi mà ông không tham gia, giúp tâm lý bình thản."
+    },
+    {
+      "id": "q8",
+      "question": "Sự thay đổi từ các báo cáo đánh giá hàng năm sang các báo cáo kinh doanh ba tháng một lần vào thập niên 90 đã gây ra hệ lụy tâm lý nào cho nhà đầu tư?",
+      "options": [
+        "Kích thích tâm lý chạy theo hiệu suất ngắn hạn và đổ xô mua các quỹ đang ở đỉnh giá cao nhất.",
+        "Làm gia tăng sự hoảng loạn quá mức mỗi khi nền kinh tế toàn cầu đối mặt với các cú sốc lớn.",
+        "Khiến nhà đầu tư mất đi sự kiên nhẫn cần thiết đối với các chiến lược đầu tư giá trị dài hạn.",
+        "Tạo ra một tiêu chuẩn đánh giá sai lệch về năng lực quản trị thực tế của các nhà điều hành quỹ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Báo cáo quý đẩy nhà đầu tư vào cuộc đua đuổi theo hiệu suất ngắn hạn, vội vã mua những tài sản đang nóng nhất, đẩy giá trị lên mức phi lý."
+    },
+    {
+      "id": "q9",
+      "question": "Hành vi mua đi bán lại nhà cửa liên tục trong thời kỳ bong bóng bất động sản phản ánh động cơ tâm lý nào của người mua?",
+      "options": [
+        "Mong muốn tận dụng đà tăng giá ngắn hạn để kiếm lợi nhuận nhanh chóng từ một thị trường sôi động.",
+        "Kỳ vọng tạo ra một không gian sống hoàn hảo và bền vững cho sự phát triển lâu dài của gia đình.",
+        "Nỗi sợ bịt bùng rằng nguồn cung nhà ở đô thị sẽ cạn kiệt hoàn toàn trong những năm tiếp theo.",
+        "Sự tin tưởng tuyệt đối vào các chính sách hỗ trợ tín dụng bất động sản từ phía chính phủ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Những người lướt sóng bất động sản không quan tâm đến giá thuê dài hạn hay thu nhập dài hạn; động cơ duy nhất của họ là bán lại vào tháng tới với giá cao hơn."
+    },
+    {
+      "id": "q10",
+      "question": "Bẫy so sánh xã hội trong việc tiêu dùng tài sản (nhà cửa, xe cộ, kỳ nghỉ) trở nên nguy hiểm nhất khi nào đối với một cá nhân?",
+      "options": [
+        "Khi họ bắt chước lối sống của người khác mà hoàn toàn không hiểu rõ áp lực nghề nghiệp hay mục tiêu của họ.",
+        "Khi họ sử dụng các nguồn vốn vay ngân hàng vượt quá giới hạn an toàn để duy trì hình ảnh bề ngoài.",
+        "Khi họ chi tiêu quá nhiều cho những trải nghiệm ngắn hạn thay vì đầu tư vào các tài sản sinh lợi.",
+        "Khi họ cố gắng chứng tỏ sự giàu có với những người bạn có hoàn cảnh tài chính tương đương."
+      ],
+      "correctIndex": 0,
+      "explanation": "Housel minh họa qua ví dụ về luật sư trẻ và nhà văn: việc tiêu dùng bị thúc đẩy bởi xã hội nhưng chúng ta lại quên mất rằng mỗi người có bối cảnh nghề nghiệp và trò chơi khác nhau."
+    },
+    {
+      "id": "q11",
+      "question": "Hiện tượng 'quán tính' trong thị trường tài chính hoạt động như một loại thuốc gây nghiện đối với nhà đầu tư vì lý do gì?",
+      "options": [
+        "Nó tạo ra ảo tưởng chắc chắn rằng xu hướng tăng giá sẽ tiếp tục duy trì mãi mãi trong tương lai.",
+        "Nó làm tê liệt hoàn toàn khả năng nhận diện các rủi ro hệ thống ẩn giấu sâu bên trong thị trường.",
+        "Nó kích thích lòng tham và thu hút dòng tiền bằng những khoản lợi nhuận ngắn hạn dễ dàng.",
+        "Nó buộc các cơ quan quản lý phải nới lỏng các tiêu chuẩn kiểm soát dòng vốn đầu cơ mạo hiểm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Quán tính là khi tài sản được đẩy lên liên tục, tạo ra tiềm năng lợi nhuận ngắn hạn lớn khiến tiền bạc đuổi theo đến mức cực đại, thu hút thêm vô số giao dịch viên."
+    },
+    {
+      "id": "q12",
+      "question": "Điều gì phân biệt một nhà đầu tư thông thái với một kẻ đầu cơ ngắn hạn đứng trước cùng một biến động giá tài sản?",
+      "options": [
+        "Nhà đầu tư thông thái không bao giờ mua vào những tài sản đang có tốc độ tăng giá quá nhanh.",
+        "Nhà đầu tư thông thái sở hữu các công cụ phân tích kỹ thuật vượt trội hơn hẳn đám đông.",
+        "Nhà đầu tư thông thái luôn duy trì tỷ lệ tiền mặt cao hơn để phòng ngừa rủi ro bất ngờ.",
+        "Nhà đầu tư thông thái luôn kiên định với mục tiêu dài hạn và miễn nhiễm với tiếng ồn ngắn hạn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự khác biệt cốt lõi nằm ở chân trời thời gian và sự hiểu rõ về trò chơi mình đang chơi, giúp nhà đầu tư thông thái không bị cuốn vào vòng xoáy của các giao dịch viên ngắn hạn."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao việc nhận ra 'trò chơi bạn đang chơi' lại là chiếc khiên bảo vệ tài chính hiệu quả nhất theo quan điểm của trường phái tâm lý học hành vi?",
+      "options": [
+        "Vì nó giúp bạn loại bỏ hoàn toàn cảm giác tiếc nuối khi nhìn thấy người khác kiếm được tiền nhanh chóng.",
+        "Vì nó giúp bạn dự đoán chính xác thời điểm thị trường đạt đỉnh và tạo đáy trong mọi chu kỳ.",
+        "Vì nó đảm bảo danh mục đầu tư của bạn sẽ không bao giờ phải chịu được các khoản sụt giảm lớn.",
+        "Vì nó thiết lập một bộ quy tắc rõ ràng giúp bạn hành xử nhất quán và tránh xa các cạm bẫy của người khác."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi bạn xác định rõ trò chơi của mình và viết ra, bạn sẽ nhận ra mọi thứ ngoài lề không liên quan đến mình, từ đó không bị tác động hay cuốn vào những rủi ro không đáng có."
+    },
+    {
+      "id": "q14",
+      "question": "Trong bối cảnh thị trường tài chính đầy rẫy sự hỗn loạn, hành vi 'bắt chước' người khác thường dẫn đến kết quả bi thảm nào?",
+      "options": [
+        "Bạn sẽ đánh mất hoàn toàn bản sắc cá nhân và phụ thuộc hoàn toàn vào các hội nhóm đầu tư.",
+        "Bạn sẽ luôn phải mua tài sản ở mức giá cao nhất và bán ra ở mức giá thấp nhất trên thị trường.",
+        "Bạn sẽ vô tình gánh chịu rủi ro thảm khốc khi những người bạn bắt chước âm thầm rút lui trước.",
+        "Bạn sẽ vi phạm các quy định pháp lý về giao dịch nội gián và thao túng giá chứng khoán."
+      ],
+      "correctIndex": 2,
+      "explanation": "Housel cảnh báo rằng khi bạn bắt chước người khác mà không hiểu họ đang chơi trò gì, bạn sẽ va chạm vào con đường của họ và chịu tổn thương khi họ thay đổi hành vi."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp sâu sắc nhất mà Morgan Housel muốn gửi gắm qua tiêu đề 'Bạn & Tôi' trong chương này là gì?",
+      "options": [
+        "Thị trường tài chính là một chiến trường khắc nghiệt nơi bạn buộc phải tiêu diệt đối thủ để sinh tồn theo nguyên lý tâm lý học hành vi.",
+        "Sự khác biệt về thế hệ và hoàn cảnh sống tạo ra một khoảng cách không thể san lấp trong tư duy đầu tư trong các quyết định chi tiêu hàng ngày.",
+        "Mỗi cá nhân tồn tại trong thế giới tài chính với những mục tiêu riêng biệt, đòi hỏi sự thấu hiểu bản thân tuyệt đối.",
+        "Sự hợp tác giữa các nhà đầu tư cá nhân là chìa khóa duy nhất để chiến thắng các quỹ đầu cơ lớn đối với mục tiêu thịnh vượng lâu dài."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương sách nhấn mạnh rằng 'Bạn' và 'Tôi' có thể cùng đứng trên một thị trường nhưng đang chơi những trò chơi khác nhau với mục tiêu riêng, và sự an tâm tài chính bắt nguồn từ việc hiểu rõ điều đó."
+    }
+  ]
+}

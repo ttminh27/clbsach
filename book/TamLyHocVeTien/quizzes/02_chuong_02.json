@@ -1,0 +1,188 @@
+{
+  "bookId": "TamLyHocVeTien",
+  "chapterId": "02_chuong_02",
+  "chapterTitle": "Chương 02: May mắn & Rủi ro",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi quan sát một nhà đầu tư đạt được khối tài sản khổng lồ nhờ một vài thương vụ mạo hiểm, bản chất tâm lý nào thường khiến chúng ta mắc sai lầm lớn nhất?",
+      "options": [
+        "Chúng ta quá đề cao năng lực cá nhân và cố gắng sao chép chính xác mọi bước đi của họ.",
+        "Chúng ta thường đánh giá thấp yếu tố rủi ro và chỉ tập trung vào chiến lược hành động.",
+        "Chúng ta luôn cho rằng thị trường tài chính hiện tại hoàn toàn công bằng và minh bạch.",
+        "Chúng ta nhanh chóng phủ nhận mọi nỗ lực thực tế và quy chụp hoàn toàn do ăn may."
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo Morgan Housel, con người có xu hướng sùng bái các cá nhân nổi trội và mặc định rằng thành công của họ đến từ kỹ năng tuyệt đối. Điều này cực kỳ nguy hiểm vì bỏ qua yếu tố may mắn ngẫu nhiên, khiến chúng ta ảo tưởng có thể sao chép kết quả tương tự."
+    },
+    {
+      "id": "q2",
+      "question": "Trong bối cảnh quản trị tài sản cá nhân, tại sao tác giả lại ví 'may mắn và rủi ro' như hai anh em sinh đôi không thể tách rời?",
+      "options": [
+        "Vì chúng đều là những thế lực nằm ngoài tầm kiểm soát trực tiếp và nỗ lực của cá nhân.",
+        "Vì chúng luôn xuất hiện đồng thời trong mọi quyết định phân bổ nguồn vốn đầu tư.",
+        "Vì chúng có tỷ trọng tác động hoàn toàn cân bằng vào tổng lợi nhuận danh mục.",
+        "Vì chúng đại diện cho hai trạng thái tâm lý đối lập của con người khi đối mặt thua lỗ."
+      ],
+      "correctIndex": 0,
+      "explanation": "May mắn và rủi ro thực chất là hai mặt của cùng một đồng xu, phản ánh thực tế rằng kết quả cuộc sống không chỉ phụ thuộc 100% vào nỗ lực cá nhân mà còn chịu chi phối bởi các yếu tố ngẫu nhiên ngoài tầm kiểm soát."
+    },
+    {
+      "id": "q3",
+      "question": "Khi một nhà đầu tư chịu thất bại nặng nề do một quyết định sai lầm, xu hướng tâm lý phổ biến của chính họ và xã hội thường diễn ra như thế nào?",
+      "options": [
+        "Cả xã hội và bản thân người đó đều nhanh chóng nhận trách nhiệm về sự thiếu hụt kiến thức.",
+        "Xã hội thường đổ lỗi cho quyết định tồi, trong khi bản thân người đó thường tự biện minh do rủi ro.",
+        "Xã hội luôn thấu hiểu và chia sẻ, còn bản thân người đó tự dằn vặt vì sự thiếu cẩn trọng.",
+        "Cả hai bên đều quy kết nguyên nhân chính là do chu kỳ suy thoái chung của nền kinh tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là một cạm bẫy nhận thức kinh điển: chúng ta thường dùng tiêu chuẩn kép (đạo đức khắt khe với người khác nhưng khoan dung với bản thân), coi thất bại của người khác là do năng lực kém, còn thất bại của mình là do rủi ro đen đủi."
+    },
+    {
+      "id": "q4",
+      "question": "Bài học cốt lõi từ câu chuyện về Bill Gates và người bạn quá cố Kent Evans tại trường Lakeside là gì đối với góc nhìn tài chính?",
+      "options": [
+        "Rủi ro chỉ mang tính hình thức và không thể làm chệch hướng một kế hoạch đã định sẵn.",
+        "Năng lực bẩm sinh và sự chăm chỉ làm việc từ lứa tuổi thiếu niên quyết định 99% thành công.",
+        "Việc lựa chọn đúng môi trường học tập quan trọng hơn nhiều so với năng lực tự thân.",
+        "Sự xuất sắc và tham vọng lớn vẫn cần những điểm tựa khởi đầu cực kỳ hiếm có từ vận may."
+      ],
+      "correctIndex": 3,
+      "explanation": "Cả Bill Gates và Kent Evans đều vô cùng thông minh và tham vọng, nhưng yếu tố may mắn ngẫu nhiên (tiếp cận máy tính từ sớm) và rủi ro bất ngờ (tai nạn định mệnh) đã đặt họ ở hai đầu thái cực khác nhau của kết quả cuộc đời."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao việc nghiên cứu các cá nhân xuất chúng (như các tỷ phú hay siêu sao đầu tư) lại thường đem lại bài học sai lệch cho người bình thường?",
+      "options": [
+        "Vì năng lực tư duy của họ vượt trội hoàn toàn nên không thể áp dụng vào đời sống số đông.",
+        "Vì dữ liệu tài chính cá nhân của họ luôn được giữ kín và không phản ánh đúng thực tế.",
+        "Vì các trường hợp nổi trội thường chịu sự phóng đại cực độ của các yếu tố may mắn hoặc rủi ro.",
+        "Vì thị trường tài chính hiện đại đã thay đổi hoàn toàn so với giai đoạn họ khởi nghiệp."
+      ],
+      "correctIndex": 2,
+      "explanation": "Các cá nhân siêu thành công là những ngoại lệ chịu tác động mạnh mẽ nhất của các yếu tố cực đoan (may mắn hoặc rủi ro), do đó các quy luật rút ra từ họ thường kém tính thực tiễn và không an toàn để áp dụng."
+    },
+    {
+      "id": "q6",
+      "question": "Khi xây dựng một chiến lược tài chính cá nhân bền vững, việc thấu hiểu sâu sắc khái niệm về rủi ro nên dẫn đến hành động thực tế nào?",
+      "options": [
+        "Chừa lại biên độ an toàn và khoảng trống cho sai lầm để không bị đẩy đến bờ vực phá sản.",
+        "Loại bỏ hoàn toàn các tài sản có độ biến động cao để bảo vệ tối đa nguồn vốn gốc.",
+        "Tập trung tìm kiếm các cơ hội đầu tư sinh lời nhanh chóng để bù đắp rủi ro lạm phát.",
+        "Luôn chuẩn bị sẵn các kịch bản dự phòng dựa trên dữ liệu toán học tuyệt đối chính xác."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vì rủi ro luôn tồn tại và có thể giáng đòn bất ngờ, cách duy nhất để sinh tồn là thiết kế tài chính sao cho một vài sai lầm hay kết quả bất lợi không thể đánh gục bạn, giúp bạn tiếp tục ở lại cuộc chơi."
+    },
+    {
+      "id": "q7",
+      "question": "Phản ứng tâm lý nào thể hiện sự thiếu tôn trọng đối với quy luật 'may mắn và rủi ro' trong quản lý tài sản cá nhân?",
+      "options": [
+        "Tự mãn tuyệt đối khi đầu tư thắng lợi và tự dằn vặt cùng cực khi đầu tư thất bại.",
+        "Luôn đa dạng hóa danh mục đầu tư để hạn chế tối đa mức độ tổn thất vốn tối đa.",
+        "Dành thời gian nghiên cứu kỹ lưỡng các xu hướng kinh tế vĩ mô trước khi ra quyết định.",
+        "Thừa nhận rằng thị trường luôn ẩn chứa những biến số nằm ngoài dự tính ban đầu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi kiếm được tiền mà nghĩ rằng đó hoàn toàn là do tài năng, con người sẽ trở nên kiêu ngạo và dễ dấn thân vào các rủi ro chết người; ngược lại, khi mất tiền mà tự trách móc cay đắng sẽ bỏ qua yếu tố rủi ro khách quan."
+    },
+    {
+      "id": "q8",
+      "question": "Theo góc nhìn hành vi, tại sao xã hội lại có xu hướng ngầm phớt lờ vai trò của sự may mắn khi đánh giá sự giàu có của người khác?",
+      "options": [
+        "Vì khoa học kinh tế hiện đại chứng minh được mọi khối tài sản đều tạo ra từ lao động.",
+        "Vì việc thừa nhận may mắn bị coi là thô lỗ, ghen tị và làm tổn thương cái tôi của người thành công.",
+        "Vì con người chỉ tin tưởng vào các số liệu thống kê thu nhập có thể đo lường trực tiếp.",
+        "Vì sự may mắn là khái niệm quá mơ hồ và không có giá trị phân tích trong tài chính."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thừa nhận may mắn trong thành công của người khác dễ bị hiểu nhầm thành sự ghen tị, trong khi thừa nhận may mắn của bản thân lại làm tổn thương ảo tưởng kiểm soát của cái tôi, nên xã hội thường chọn cách ngó lơ nó."
+    },
+    {
+      "id": "q9",
+      "question": "Đâu là sự khác biệt cơ bản giữa việc nghiên cứu các 'cá nhân nổi trội' so với việc nghiên cứu các 'quy luật diện rộng' trong đầu tư?",
+      "options": [
+        "Cá nhân nổi trội cung cấp các công thức làm giàu nhanh chóng và chính xác hơn nhiều lần.",
+        "Quy luật diện rộng phản ánh hành vi phổ biến của số đông, dễ áp dụng và ít bị bóp méo bởi may mắn cực đoan.",
+        "Quy luật diện rộng chỉ mang tính lý thuyết suông còn cá nhân nổi trội mang lại bài học thực tế sống động.",
+        "Không có sự khác biệt đáng kể vì cả hai phương pháp đều dựa trên phân tích dữ liệu lịch sử."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh việc nghiên cứu các mẫu số chung rộng rãi (như tầm quan trọng của việc kiểm soát thời gian) hữu ích và an toàn hơn rất nhiều so với việc bắt chước các siêu tỷ phú vốn là sản phẩm của những ngoại lệ may mắn."
+    },
+    {
+      "id": "q10",
+      "question": "Khi một người kinh doanh phá sản dù đã cân nhắc rất kỹ lưỡng mọi yếu tố, góc nhìn hành vi đúng đắn nhất theo tinh thần cuốn sách là gì?",
+      "options": [
+        "Họ chắc chắn đã phạm phải những sai lầm cốt lõi về chiến lược quản trị doanh nghiệp.",
+        "Họ có thể đã đưa ra quyết định hợp lý nhưng không may rơi vào mặt trái của xác suất rủi ro.",
+        "Thị trường luôn trừng phạt sự lười biếng và thiếu tầm nhìn chiến lược dài hạn.",
+        "Họ đã thiếu đi sự quyết đoán cần thiết trong những thời điểm then chốt của thị trường."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mọi quyết định đầu tư hay kinh doanh đều có tỷ lệ rủi ro thất bại nhất định. Một kết quả tồi tệ đôi khi không đến từ quyết định sai lầm mà đơn giản là việc rơi vào khoảng không may mắn của xác suất."
+    },
+    {
+      "id": "q11",
+      "question": "Câu nói củaBill Gates rằng 'Thành công là một giáo viên tồi' hàm ý điều gì về tâm lý học đầu tư?",
+      "options": [
+        "Nó khuyến khích con người chia sẻ tài sản thay vì tiếp tục tích lũy tư bản.",
+        "Nó làm giảm sút động lực phấn đấu và sự sáng tạo trong các dự án đầu tư tiếp theo.",
+        "Nó khiến nhà đầu tư trở nên quá thận trọng và bỏ lỡ các cơ hội sinh lời hấp dẫn.",
+        "Nó khiến chúng ta ảo tưởng rằng bản thân bất khả chiến bại và lờ đi sự tồn tại của rủi ro."
+      ],
+      "correctIndex": 3,
+      "explanation": "Thành công dễ sinh ra sự kiêu ngạo và ảo tưởng kiểm soát, khiến nhà đầu tư quên mất rằng phần lớn thành công có thể đến từ may mắn, và người anh em rủi ro của nó có thể tước đoạt mọi thứ bất cứ lúc nào."
+    },
+    {
+      "id": "q12",
+      "question": "Trong việc đánh giá các nhân vật lịch sử kinh doanh như Cornelius Vanderbilt hay John D. Rockefeller, cạm bẫy tư duy lớn nhất của chúng ta là gì?",
+      "options": [
+        "Cho rằng thành công của họ hoàn toàn phụ thuộc vào sự hỗ trợ từ hệ thống luật pháp nhằm duy trì sự tự do và an tâm.",
+        "Phê phán quá mức các phương pháp quản lý truyền thống và lỗi thời của họ một cách bền vững và nhất quán.",
+        "Đánh đồng sự liều lĩnh phạm pháp thành thiên tài kinh doanh chỉ vì kết quả cuối cùng họ chiến thắng.",
+        "Bỏ qua hoàn toàn các số liệu tài chính để tập trung đánh giá phẩm chất đạo đức trong các quyết định chi tiêu hàng ngày."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ranh giới giữa bạo dạn và liều lĩnh vô cùng mong manh. Chúng ta thường ca ngợi sự bất chấp quy chuẩn của họ chỉ vì họ thắng cược, quên mất rằng cùng cách hành xử đó có thể dẫn đến phá sản nếu đứng ở phía rủi ro."
+    },
+    {
+      "id": "q13",
+      "question": "Thái độ tâm lý nào giúp một nhà đầu tư có thể duy trì sự tồn tại lâu dài trên thị trường tài chính đầy biến động?",
+      "options": [
+        "Liên tục thay đổi chiến lược đầu tư theo tâm lý đám đông để bắt kịp xu hướng đối với mục tiêu thịnh vượng lâu dài.",
+        "Luôn tự tin tuyệt đối vào năng lực phân tích kỹ thuật và biểu đồ giá của mình trên thị trường đầu tư thực tế.",
+        "Tránh xa mọi loại tài sản có độ rủi ro cao để đảm bảo sự an toàn tuyệt đối cho dòng tiền.",
+        "Khiêm nhường trước thành công, chuẩn bị tâm lý cho rủi ro và tha thứ cho những vấp ngã của bản thân."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự kết hợp giữa việc nhận thức rõ vai trò của may mắn/rủi ro giúp nhà đầu tư giữ được cái đầu lạnh, không kiêu ngạo khi thắng và không suy sụp khi thua, đồng thời biết chừa chỗ cho sai lầm."
+    },
+    {
+      "id": "q14",
+      "question": "Khi dạy con về sự thành công và nghèo đói trong cuộc sống, thông điệp mang tính nhân văn và đúng đắn nhất theo tinh thần chương sách là gì?",
+      "options": [
+        "May mắn là yếu tố duy nhất chi phối sự giàu nghèo trong một xã hội hiện đại nhằm duy trì sự tự do và an tâm.",
+        "Sự nỗ lực cá nhân quyết định hoàn toàn vị thế kinh tế xã hội của mỗi con người theo nguyên lý tâm lý học hành vi.",
+        "Không phải mọi sự thành công đều do chăm chỉ và không phải mọi sự nghèo đói đều do lười biếng.",
+        "Sự khác biệt về thu nhập xuất phát hoàn toàn từ năng lực tư duy bẩm sinh nhằm duy trì sự tự do và an tâm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đây là thông điệp cốt lõi đúc kết từ khái niệm may mắn và rủi ro: cuộc đời chịu sự chi phối lớn bởi các yếu tố ngoại cảnh, do đó chúng ta cần có sự thấu cảm, tránh phán xét vội vã khi nhìn nhận thành công hay thất bại của người khác."
+    },
+    {
+      "id": "q15",
+      "question": "Tại sao việc xác định ranh giới chính xác giữa kỹ năng, may mắn và rủi ro lại là thách thức lớn nhất đối với bất kỳ nhà đầu tư nào?",
+      "options": [
+        "Vì trí tuệ con người bị giới hạn bởi khả năng tính toán các mô hình toán học phức tạp.",
+        "Vì các cơ quan tài chính không cung cấp đủ số liệu thống kê chi tiết về lịch sử giao dịch.",
+        "Vì thế giới thực quá phức tạp, các yếu tố đan xen vào nhau và con người thích các câu chuyện đơn giản.",
+        "Vì thị trường tài chính luôn cố tình che giấu bản chất ngẫu nhiên của các dòng tiền."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bộ não con người luôn ưu tiên những câu chuyện nguyên nhân - kết quả ngắn gọn và đơn giản, trong khi thực tế tài chính là một mạng lưới phức tạp gồm các yếu tố ngẫu nhiên rất khó để tách bạch rạch ròi."
+    }
+  ]
+}

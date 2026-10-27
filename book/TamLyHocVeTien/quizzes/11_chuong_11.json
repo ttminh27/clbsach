@@ -1,0 +1,188 @@
+{
+  "bookId": "TamLyHocVeTien",
+  "chapterId": "11_chuong_11",
+  "chapterTitle": "Chương 11: Hợp lý >< Có lý",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo quan điểm của Morgan Housel trong chương này, tại sao chúng ta nên theo đuổi một quyết định tài chính 'hợp lý' (reasonable) thay vì cố gắng 'lý trí đến lạnh lùng' (rational)?",
+      "options": [
+        "Vì các mô hình tối ưu toán học thường phức tạp và tốn nhiều thời gian phân tích.",
+        "Vì con người có cảm xúc, và phương án hợp lý giúp ta gắn bó lâu dài hơn.",
+        "Vì thị trường tài chính luôn biến động mạnh khiến logic toán học mất hiệu lực.",
+        "Vì các chuyên gia tài chính hàng đầu cũng không áp dụng được tính lý trí tuyệt đối."
+      ],
+      "correctIndex": 1,
+      "explanation": "Morgan Housel nhấn mạnh rằng con người không phải là trang tính hay cỗ máy toán học vô cảm. Một quyết định hợp lý thực tế hơn và phù hợp với tâm lý con người, giúp chúng ta duy trì kỷ luật và gắn bó với chiến lược qua những thời điểm khó khăn, điều kiện tiên quyết để quản lý tiền bạc thành công."
+    },
+    {
+      "id": "q2",
+      "question": "Trong câu chuyện về bác sĩ Julius Wagner-Jauregg chữa bệnh giang mai bằng sốt rét, bài học cốt lõi nào được rút ra áp dụng trực tiếp cho quản lý tài chính cá nhân?",
+      "options": [
+        "Việc chấp nhận những phương pháp điều trị mạo hiểm luôn đem lại phần thưởng lớn.",
+        "Mọi hiện tượng tiêu cực trong tự nhiên đều có thể được khai thác để chữa bệnh.",
+        "Đôi khi những hành động trông có vẻ cực đoan lại mang lại kết quả thực tế tối ưu.",
+        "Sự đánh đổi giữa tác dụng phụ đau đớn và lợi ích dài hạn là điều cần phải cân nhắc."
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu chuyện về cơn sốt minh họa cho việc người bệnh chấp nhận sự đau đớn và khó chịu của cơn sốt vì nó mang lại lợi ích phục hồi sức khỏe. Trong tài chính, nhà đầu tư đôi khi phải chấp nhận những chiến lược không hoàn hảo hoặc chịu đựng một phần bất ổn để đổi lấy thành quả dài hạn."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao con người trên toàn cầu lại có xu hướng tìm cách hạ sốt ngay lập tức bằng thuốc dù y học chứng minh cơn sốt là cơ chế tự vệ hữu ích của hệ miễn dịch?",
+      "options": [
+        "Vì cơn sốt gây ra sự đau đớn và khó chịu mà bản năng con người luôn muốn tránh.",
+        "Vì các công ty dược phẩm chi phối mạnh mẽ nhận thức của người tiêu dùng.",
+        "Vì các bậc phụ huynh thiếu kiến thức khoa học cơ bản về hệ miễn dịch cơ thể.",
+        "Vì tác hại của cơn sốt cao thường vượt xa lợi ích bảo vệ của hệ thống miễn dịch."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả chỉ ra nguyên nhân rất đơn giản: cơn sốt gây đau đớn và khó chịu, và con người thì không muốn bị đau. Mục tiêu của bệnh nhân không phải là tìm kiếm phương án tối ưu về mặt y học trên giấy tờ, mà là tìm kiếm sự dễ chịu ngay trong thực tại."
+    },
+    {
+      "id": "q4",
+      "question": "Khi Harry Markowitz - người giành giải Nobel về lý thuyết danh mục đầu tư - tự phân bổ danh mục cá nhân của mình theo tỷ lệ 50/50 giữa cổ phiếu và trái phiếu, ông thừa nhận mục tiêu thực sự của mình là gì?",
+      "options": [
+        "Tối ưu hóa lợi nhuận kỳ hạn dựa trên mô hình định lượng toán học phức tạp nhất.",
+        "Đạt được mức độ tăng trưởng ổn định cao hơn mức trung bình của toàn thị trường.",
+        "Giảm thiểu tối đa những hối hận và sự đau khổ trong tương lai khi thị trường biến động.",
+        "Phòng ngừa rủi ro lạm phát tuyệt đối trong giai đoạn kinh tế vĩ mô bất ổn định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Markowitz chia danh mục 50/50 không phải vì đó là kết quả tối ưu nhất từ công thức toán học, mà vì ông muốn giảm thiểu tối đa sự hối hận cá nhân (nếu thị trường tăng vọt mà không tham gia, hoặc tụt dốc mà lún sâu). Ông chọn chiến lược mang lại giấc ngủ ngon thay vì con số tối ưu trên giấy."
+    },
+    {
+      "id": "q5",
+      "question": "Đâu là yếu tố xã hội thường bị bỏ quên khi các nhà tài chính học thuật xây dựng các chiến lược đầu tư tối ưu?",
+      "options": [
+        "Sự ảnh hưởng từ góc nhìn của bạn đời, đồng nghiệp, người thân và sự so sánh xã hội.",
+        "Biến động của tỷ giá ngoại tệ và lạm phát toàn cầu trong dài hạn nhiều thập kỷ.",
+        "Chi phí giao dịch và các loại thuế suất phát sinh liên tục trong quá trình nắm giữ.",
+        "Khả năng tiếp cận các nguồn thông tin nội bộ của các quỹ đầu tư lớn trên thị trường."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhà đầu tư thực tế không sống trong một chân không toán học; họ chịu áp lực từ đồng nghiệp muốn ngưỡng mộ, bạn đời không muốn làm thất vọng, hoặc bị so sánh với người thân xung quanh. Những yếu tố xã hội và cảm xúc này chi phối mạnh mẽ quyết định tài chính nhưng thường bị bỏ qua trong mô hình."
+    },
+    {
+      "id": "q6",
+      "question": "Bài nghiên cứu của các nhà kinh tế học Yale về việc dùng đòn bẩy tài chính hai-trên-một (2:1) cho người trẻ tuổi đầu tư hưu trí minh họa cho hiện tượng gì trong tài chính?",
+      "options": [
+        "Sự đúng đắn về mặt lý thuyết nhưng hoàn toàn bất hợp lý và bất khả thi về mặt thực tế.",
+        "Sự thông thái tuyệt đối của việc áp dụng toán học vào quản lý tài sản cá nhân.",
+        "Phương pháp duy nhất giúp người trẻ bắt kịp mức tăng trưởng của thị trường.",
+        "Chiến lược quản trị rủi ro hoàn hảo giúp loại bỏ hoàn toàn khả năng mất tiền."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chiến lược dùng đòn bẩy 2:1 cho kết quả cao hơn 90% trên giấy tờ, nhưng bất kỳ người bình thường nào cũng sẽ hoảng loạn, bán tháo hoặc kiện cố vấn khi tài khoản bốc hơi một nửa. Nó hoàn toàn đúng về lý thuyết nhưng vô lý và phản tác dụng trong bối cảnh tâm lý thực tế."
+    },
+    {
+      "id": "q7",
+      "question": "Theo tác giả, tại sao việc 'yêu khoản đầu tư của bạn' (hoặc chiến lược của bạn) lại là một lợi thế cạnh tranh cốt lõi thay vì là một điểm yếu cảm xúc?",
+      "options": [
+        "Nó giúp nhà đầu tư dự báo chính xác xu hướng tăng giá của cổ phiếu trong ngắn hạn.",
+        "Nó giúp loại bỏ hoàn toàn các loại phí quản lý quỹ không cần thiết phát sinh.",
+        "Nó làm giảm mức độ biến động giá thực tế của các loại tài sản đang nắm giữ trong danh mục.",
+        "Nó mang lại nguồn năng lượng và sự bền bỉ để bám trụ qua những giai đoạn thị trường khắc nghiệt."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự gắn bó cảm xúc và tình yêu với chiến lược hoặc doanh nghiệp mình đầu tư cung cấp sức chịu đựng cần thiết trong những năm tháng khó khăn. Điều này ngăn cản nhà đầu tư hoảng loạn bán tháo, giúp họ duy trì được tỷ lệ thành công cao nhờ thời gian nắm giữ lâu dài."
+    },
+    {
+      "id": "q8",
+      "question": "Theo thống kê lịch sử thị trường chứng khoán Mỹ được đề cập trong bài, xác suất kiếm được tiền thay đổi như thế nào theo thời gian nắm giữ?",
+      "options": [
+        "30% trong một ngày, 50% trong một năm, 75% trong 10 năm và 95% trong 20 năm.",
+        "50% trong một ngày, 68% trong một năm, 88% trong 10 năm và 100% trong 20 năm.",
+        "60% trong một ngày, 70% trong một năm, 90% trong 10 năm và 100% trong 20 năm.",
+        "40% trong một ngày, 60% trong một năm, 80% trong 10 năm và 90% trong 20 năm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả dẫn chứng xác suất sinh lời lịch sử là 50% trong khung thời gian 1 ngày, tăng lên 68% trong 1 năm, 88% trong 10 năm và đạt tuyệt đối 100% trong chu kỳ 20 năm. Điều này chứng minh rằng bất cứ yếu tố gì giúp bạn duy trì vị thế trong trò chơi đều mang lại lợi thế toán học khổng lồ."
+    },
+    {
+      "id": "q9",
+      "question": "Hiện tượng 'thiên vị hàng nội địa' (home country bias), trong đó nhà đầu tư chỉ thích rót tiền vào các công ty trong nước, được giải thích thế nào dưới lăng kính hợp lý?",
+      "options": [
+        "Đó là quyết định hoàn toàn tối ưu về mặt đa dạng hóa danh mục toàn cầu.",
+        "Các doanh nghiệp trong nước luôn mang lại tỷ suất lợi nhuận cao hơn thế giới.",
+        "Đó là hành vi phi logic xuất phát từ sự thiếu hiểu biết về kinh tế quốc tế.",
+        "Sự quen thuộc và gần gũi tạo ra niềm tin cần thiết để trao tiền cho người lạ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đầu tư bản chất là đưa tiền của mình cho những người xa lạ quản lý. Mặc dù đầu tư chỉ trong nước bỏ qua 95% thế giới và không tối ưu toán học, nhưng sự quen thuộc về văn hóa và thương hiệu giúp nhà đầu tư có đủ niềm tin tâm lý để thực hiện hành động đó một cách thoải mái."
+    },
+    {
+      "id": "q10",
+      "question": "Nhà đầu tư Josh Brown thừa nhận ông dùng một phần nhỏ tiền để mua cổ phiếu cá nhân dù biết các quỹ chỉ số thụ động mới là lựa chọn tối ưu. Hành vi này phản ánh điều gì?",
+      "options": [
+        "Sự thiếu kỷ luật nghiêm trọng trong việc tuân thủ nguyên tắc phân bổ tài sản.",
+        "Mong muốn tìm kiếm lợi nhuận vượt trội đánh bại thị trường chung bằng mọi giá.",
+        "Hành động hợp lý nhằm thỏa mãn đam mê cá nhân mà không gây nguy hiểm cho tổng tài sản.",
+        "Sự mâu thuẫn trong tư duy của một chuyên gia tài chính hàng đầu một cách bền vững và nhất quán."
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc giao dịch cổ phiếu cá nhân không tối ưu về mặt logic xác suất, nhưng hoàn toàn hợp lý nếu nó chiếm tỷ trọng rất nhỏ, không ảnh hưởng đến phần danh mục đa dạng hóa chính và đáp ứng được nhu cầu thỏa mãn đam mê cá nhân của nhà đầu tư."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao con người vẫn liên tục đọc và hành động theo các bản tin dự báo kinh tế - thị trường dù biết chúng thường xuyên sai lệch và nguy hiểm?",
+      "options": [
+        "Vì bản chất con người luôn cần một cảm giác kiểm soát tương lai để bớt sợ hãi, điều đó hợp lý.",
+        "Vì các cơ quan dự báo sử dụng các mô hình siêu máy tính tối tân nhất hiện nay.",
+        "Vì thị trường tài chính thực chất tuân theo các quy luật chu kỳ có thể dự đoán chính xác.",
+        "Vì các nhà đầu tư lớn luôn chi phối và tạo ra các xu hướng đúng như dự báo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thật khó khăn và đáng sợ khi thức dậy mỗi sáng và phải đối mặt với sự bất định tuyệt đối của tương lai. Việc cố gắng dự đoán tương lai dù biết là bất khả thi là một phản ứng tâm lý tự nhiên của con người nhằm tìm kiếm sự an tâm; nó hợp lý về mặt tâm lý dù nguy hiểm về mặt đầu tư."
+    },
+    {
+      "id": "q12",
+      "question": "Trường hợp nhà sáng lập huyền thoại Jack Bogle - người tôn sùng quỹ chỉ số chi phí thấp - lại đầu tư một ít tiền vào quỹ chủ động chi phí cao của con trai ông cho thấy điều gì về cuộc sống?",
+      "options": [
+        "Sự giả tạo trong các nguyên tắc đầu tư mà ông từng dày công truyền bá đối với mục tiêu thịnh vượng lâu dài.",
+        "Quỹ đầu tư chủ động đôi khi vẫn mang lại hiệu suất vượt trội hơn quỹ chỉ số đối với mục tiêu thịnh vượng lâu dài.",
+        "Cuộc sống luôn có những ngoại lệ mang tính tình cảm gia đình vượt lên trên lý thuyết khô khan.",
+        "Sự nhầm lẫn mang tính hệ thống trong việc đánh giá chi phí quản lý quỹ một cách bền vững và nhất quán."
+      ],
+      "correctIndex": 2,
+      "explanation": "Jack Bogle thừa nhận: 'Chúng ta làm một vài điều vì lý do gia đình... cuộc sống là sự không đồng nhất'. Điều này củng cố thông điệp rằng con người không phải là những cỗ máy tính toán đơn chiều; các mối quan hệ tình cảm và giá trị gia đình đôi khi quan trọng hơn sự hoàn hảo lý thuyết."
+    },
+    {
+      "id": "q13",
+      "question": "Đâu là sai lầm lớn nhất của các nhà đầu tư khi họ cố gắng áp dụng một chiến lược đầu tư được chứng minh là 'tối ưu hóa toán học' nhưng lại không phù hợp với cá tính của bản thân?",
+      "options": [
+        "Họ sẽ phải chịu mức thuế suất cao hơn đáng kể từ cơ quan quản lý tài chính.",
+        "Họ sẽ nhanh chóng từ bỏ chiến lược đó ngay khi gặp phải biến động hoặc thời điểm khó khăn.",
+        "Họ không đủ nguồn vốn ban đầu để duy trì danh mục theo đúng tỷ lệ toán học yêu cầu.",
+        "Họ sẽ bị các tổ chức tài chính lớn thao túng và ép bán tháo tài sản ở đáy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Một chiến lược tối ưu trên giấy nhưng bất hợp lý với tâm lý cá nhân sẽ tạo ra áp lực tinh thần cực lớn. Khi thị trường sụt giảm, nhà đầu tư không thể chịu đựng được sẽ từ bỏ chiến lược, biến những con số lý thuyết hoàn hảo thành khoản lỗ thực tế trong tài khoản."
+    },
+    {
+      "id": "q14",
+      "question": "Theo tư tưởng xuyên suốt của chương sách này, định nghĩa thế nào là một quyết định tài chính 'thành công' đối với một cá nhân bình thường?",
+      "options": [
+        "Là quyết định đạt được tỷ suất sinh lợi cao nhất so với tất cả các chỉ số trên thị trường.",
+        "Là quyết định tối ưu hóa hoàn toàn dòng tiền và giảm thiểu tối đa chi phí quản lý.",
+        "Là quyết định giúp họ đạt được sự bình yên trong tâm hồn và gắn bó bền bỉ qua nhiều năm tháng.",
+        "Là quyết định sử dụng đòn bẩy tài chính khôn ngoan khi tuổi đời còn trẻ trong các quyết định chi tiêu hàng ngày."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thành công tài chính theo Morgan Housel không phải là đánh bại thị trường bằng toán học phức tạp, mà là xây dựng một cuộc sống ít lo âu, gia tăng giấc ngủ ngon mỗi tối và duy trì được sự kiên nhẫn để lãi kép phát huy tác dụng trong dài hạn."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học quan trọng nhất về mặt hành vi mà một nhà đầu tư có thể rút ra từ việc so sánh giữa hai khái niệm 'Hợp lý' (Reasonable) và 'Có lý' (Rational) là gì?",
+      "options": [
+        "Hãy luôn chọn các sản phẩm tài chính có tỷ lệ sinh lời cao nhất được kiểm chứng qua dữ liệu lịch sử.",
+        "Hãy ưu tiên các giải pháp phù hợp với cảm xúc và hoàn cảnh thực tế giúp bạn duy trì kỷ luật hành động.",
+        "Hãy tin tưởng tuyệt đối vào các mô hình định lượng và lời khuyên của các chuyên gia toán học kinh tế.",
+        "Hãy loại bỏ hoàn toàn cảm xúc cá nhân ra khỏi mọi quyết định mua bán tài sản trên thị trường."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách đúc kết rằng 'đa phần là hợp lý còn tốt hơn là lý trí đến lạnh lùng'. Nhà đầu tư khôn ngoan không tìm kiếm sự hoàn hảo lý thuyết trên bảng tính, mà tìm kiếm những phương án thực tế, phù hợp với tâm lý con người để họ có thể chung sống và kiên trì gắn bó lâu dài."
+    }
+  ]
+}

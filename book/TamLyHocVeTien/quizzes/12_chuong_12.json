@@ -1,0 +1,188 @@
+{
+  "bookId": "TamLyHocVeTien",
+  "chapterId": "12_chuong_12",
+  "chapterTitle": "Chương 12: Ngạc nhiên chưa!",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Vì sao Morgan Housel gọi cạm bẫy sử dụng dữ liệu quá khứ để định hướng tương lai đầu tư là sai lầm của “nhà sử học làm tiên tri”?",
+      "options": [
+        "Vì dữ liệu lịch sử đầu tư thường bị làm giả bởi các tổ chức tài chính lớn.",
+        "Vì thị trường thay đổi liên tục và con người có cảm xúc, không giống khoa học tĩnh.",
+        "Vì các nhà đầu tư cá nhân thường không biết cách đọc báo cáo tài chính quá khứ.",
+        "Vì lịch sử kinh tế chỉ ghi nhận các chu kỳ lặp lại chính xác hoàn toàn mỗi thập kỷ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đầu tư không phải là môn khoa học tĩnh như địa chất hay y học từ ngàn năm trước, mà là tập hợp con người có cảm xúc, tham lam và hoang tưởng. Lịch sử chỉ giúp ta hiểu sai lầm quá khứ chứ không phải tấm bản đồ chính xác cho tương lai."
+    },
+    {
+      "id": "q2",
+      "question": "Khi một nhà đầu tư nhận định rằng 'Lịch sử thị trường luôn lặp lại đúng các chu kỳ 10 năm', tâm lý học hành vi gọi đây là biểu hiện của điều gì?",
+      "options": [
+        "Phản ứng phòng thủ hợp lý trước những rủi ro vĩ mô chưa từng xuất hiện trước đó.",
+        "Năng lực phân tích kỹ thuật vượt trội dựa trên kinh nghiệm thực chiến lâu năm.",
+        "Tư duy logic hoàn hảo khi áp dụng các mô hình định lượng xác suất thống kê cao.",
+        "Sự tự tin thái quá sinh ra từ trải nghiệm hạn hẹp và hiểu lầm về bản chất biến đổi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trải nghiệm các sự kiện cụ thể trong quá khứ thường dẫn tới sự tự tin thái quá hơn là khả năng tiên đoán, khiến nhà đầu tư chủ quan áp dụng rập khuôn các mô hình cũ vào một thế giới luôn biến động."
+    },
+    {
+      "id": "q3",
+      "question": "Theo góc nhìn của Morgan Housel về các sự kiện ngoại lệ (tail events) trong lịch sử thế giới, điều gì tạo nên tác động làm thay đổi toàn bộ cục diện?",
+      "options": [
+        "Sự chuẩn bị kỹ lưỡng từ trước của các chính phủ và các định chế tài chính toàn cầu.",
+        "Một vài biến cố hiếm hoi, không thể lường trước nhưng lại chi phối phần lớn hướng đi.",
+        "Quá trình tích lũy tuyến tính và đều đặn của các chỉ số kinh tế vĩ mô trong dài hạn.",
+        "Sự đồng thuận tuyệt đối của cộng đồng chuyên gia tài chính về các kịch bản rủi ro."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đại đa số các bước ngoặt lớn của lịch sử đều được định hình bởi một vài sự kiện ngoại lệ cực kỳ hiếm hoi và bất ngờ (như Đại suy thoái, 11/9), chứng minh rằng thế giới vận hành bởi những yếu tố không thể dự đoán."
+    },
+    {
+      "id": "q4",
+      "question": "Bài học cốt lõi nào mà nhà tâm lý học Daniel Kahneman khuyên chúng ta nên rút ra sau khi vướng phải một bất ngờ chưa từng lường trước trên thị trường?",
+      "options": [
+        "Thừa nhận rằng thế giới vốn dĩ rất khó đoán định và luôn đầy rẫy những ngạc nhiên.",
+        "Cần nhanh chóng thay đổi danh mục đầu tư theo đúng khuyến nghị của chuyên gia.",
+        "Phải xây dựng thêm nhiều thuật toán dự báo phức tạp hơn để bịt kín mọi lỗ hổng.",
+        "Tuyệt đối không bao giờ tham gia vào các loại tài sản có biến động lớn nữa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bài học đúng đắn từ sự bất ngờ không phải là 'tôi sẽ không bao giờ mắc lại sai lầm đó nữa', mà là sự thừa nhận rằng thế giới đầy rẫy những ngạc nhiên và bản thân chúng ta không thể biết trước điều gì sẽ xảy ra."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao các công thức và chiến lược đầu tư kinh điển trong sách của Benjamin Graham ('Nhà đầu tư thông minh') lại không còn mang lại hiệu quả cao khi áp dụng nguyên vẹn vào thời điểm hiện tại?",
+      "options": [
+        "Vì nền kinh tế, công nghệ, cấu trúc thị trường và tính cạnh tranh đã thay đổi hoàn toàn.",
+        "Vì bản thân Benjamin Graham cố tình giấu các bí quyết thành công thực sự trong sách.",
+        "Vì các nhà đầu tư hiện đại thiếu hẳn sự kiên nhẫn và kỷ luật so với thế hệ trước.",
+        "Vì các cơ quan quản lý nhà nước đã cấm áp dụng các phương pháp định giá cổ phiếu cũ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mọi thứ thay đổi theo thời gian. Khi cạnh tranh tăng, công nghệ phát triển và cấu trúc ngành dịch chuyển, các công thức định giá cũ trở nên lỗi thời, đòi hỏi sự thích ứng liên tục giống như cách chính Graham từng làm."
+    },
+    {
+      "id": "q6",
+      "question": "Khi một nhà đầu tư lâu năm tuyên bố chắc nịch rằng 'Lần này hoàn toàn khác biệt so với các cuộc khủng hoảng trước đây', phản ứng tâm lý nào là chuẩn xác nhất theo tư tưởng của Morgan Housel?",
+      "options": [
+        "Cần thấu hiểu rằng thế giới thực sự thay đổi và có những điểm khác biệt ít nhất đến 20%.",
+        "Nên hoàn toàn bác bỏ vì 'lần này khác biệt' luôn là bốn từ nguy hiểm nhất trong đầu tư.",
+        "Nên lập tức nghe theo vì họ là những người giàu kinh nghiệm qua nhiều chu kỳ.",
+        "Phải coi đó là tín hiệu chắc chắn để bán tháo toàn bộ cổ phiếu nhằm bảo toàn vốn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mặc dù John Templeton cảnh báo 'lần này khác biệt' là 4 từ nguy hiểm, thực tế cấu trúc thế giới luôn thay đổi và có những điểm khác biệt nhất định. Vấn đề là ta phải cân bằng giữa việc tôn trọng lịch sử và thừa nhận sự tiến hóa."
+    },
+    {
+      "id": "q7",
+      "question": "Khi nghiên cứu lịch sử tiền bạc và thị trường tài chính, loại bài học nào là an toàn và hữu dụng nhất để áp dụng cho tương lai?",
+      "options": [
+        "Các công thức định lượng mua bán cổ phiếu theo chỉ số P/E cụ thể của từng thập kỷ.",
+        "Các dự báo chi tiết về thời điểm chính xác diễn ra các cuộc suy thoái kinh tế lớn.",
+        "Các biểu đồ lịch sử về biên độ lợi nhuận của từng phân khúc ngành nghề cụ thể.",
+        "Những quy luật tổng quát về bản chất con người như lòng tham, nỗi sợ và áp lực tâm lý."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lịch sử tiền tệ chỉ thực sự hữu dụng khi cung cấp các bài học tổng quát về cách con người hành xử dưới áp lực, lòng tham và nỗi sợ hãi, chứ không phải các chỉ số hay giao dịch cụ thể vốn đã lỗi thời theo thời gian."
+    },
+    {
+      "id": "q8",
+      "question": "Hành vi sai lầm nào thường trực nhất của các nhà đầu tư khi họ nhìn vào bề dày lịch sử tăng trưởng của thị trường chứng khoán trong nhiều thập kỷ qua?",
+      "options": [
+        "Luôn giữ tỷ ệ tiền mặt quá cao vì ám ảnh bởi các cuộc suy thoái từ thế kỷ trước.",
+        "Quá tự tin rằng những kịch bản tồi tệ nhất hoặc tốt nhất trong quá khứ sẽ lặp lại y hệt.",
+        "Chỉ đầu tư vào các loại tài sản có độ an toàn tuyệt đối và từ chối mọi rủi ro tăng trưởng.",
+        "Phụ thuộc hoàn toàn vào lời khuyên của những người chưa từng trải qua khủng hoảng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhiều người mặc định lấy cuộc Đại suy thoái hay các mốc lịch sử làm kịch bản cứng nhắc cho tương lai, quên mất rằng những sự kiện thiết lập kỷ lục đó vốn dĩ chưa từng có tiền lệ khi chúng xảy ra."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao nhà vật lý học Richard Feynman lại đưa ra câu nói châm biếm: 'Hãy tưởng tượng vật lý học sẽ còn khó nhắn hơn đến thế nào nếu các hạt electron có cảm xúc'?",
+      "options": [
+        "Để làm nổi bật thực tế rằng thị trường tài chính chứa đựng con người đầy cảm xúc nên không thể dự báo cứng nhắc.",
+        "Để chứng minh rằng kinh tế học chính xác và dễ dự đoán hơn vật lý học rất nhiều một cách bền vững và nhất quán.",
+        "Để khẳng định rằng các nhà đầu tư thông minh luôn giữ được cái đầu lạnh như các hạt vật chất một cách bền vững và nhất quán.",
+        "Để chỉ trích việc các nhà kinh tế học cố tình áp dụng các mô hình vật lý lượng tử vào tiền bạc đối với mục tiêu thịnh vượng lâu dài."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đầu tư không phải là khoa học cứng vì các đối tượng tham gia (nhà đầu tư) có cảm xúc, tham lam và sợ hãi, khiến hành vi của họ không thể dự đoán tuyến tính chỉ dựa vào dữ liệu quá khứ."
+    },
+    {
+      "id": "q10",
+      "question": "Cạm bẫy tâm lý nào khiến các nhà đầu tư thường thất bại trong việc chuẩn bị đối phó với một môi trường lãi suất tăng cao mà họ chưa từng trải nghiệm trong suốt 40 năm qua?",
+      "options": [
+        "Sự thiếu hụt kiến thức toán học cao cấp để tính toán biên độ dao động của trái phiếu.",
+        "Thái độ thờ ơ với các thông tin tài chính vĩ mô được cập nhật liên tục hàng ngày.",
+        "Xu hướng chủ quan cho rằng kinh nghiệm quá khứ bảo vệ họ khỏi những biến động mới.",
+        "Sự phụ thuộc quá mức vào các quyết định đầu tư theo cảm tính của đám đông."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trải nghiệm lâu năm hoặc việc nghiên cứu quá khứ thường dẫn đến sự tự tin thái quá, khiến nhà đầu tư tin rằng họ hiểu rõ cách vận hành của các sự kiện tương tự, trong khi thực tế bối cảnh đã thay đổi hoàn toàn."
+    },
+    {
+      "id": "q11",
+      "question": "Trong bối cảnh cấu trúc nền kinh tế liên tục thay đổi (như sự xuất hiện của quỹ 401(k), đầu tư mạo hiểm, cổ phiếu công nghệ), điều gì định hình sự sinh tồn của một nhà đầu tư khôn ngoan?",
+      "options": [
+        "Việc từ bỏ hoàn toàn thị trường chứng khoán để chuyển sang các tài sản vật chất truyền thống.",
+        "Sự trung thành tuyệt đối với các phương pháp đầu tư truyền thống đã được kiểm chứng qua hàng thế kỷ.",
+        "Khả năng học hỏi liên tục và nhận thức rõ ràng rằng các công thức cũ sẽ hết hạn sử dụng.",
+        "Sự hỗ trợ tài chính từ các quỹ đầu tư lớn có thâm niên hoạt động lâu đời nhất một cách bền vững và nhất quán."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự thay đổi cấu trúc đòi hỏi nhà đầu tư phải linh hoạt cập nhật tư duy, giống như Benjamin Graham liên tục loại bỏ các công thức cũ trong các lần tái bản sách của ông vì 'chúng không còn hiệu quả như trước'."
+    },
+    {
+      "id": "q12",
+      "question": "Hiện tượng lò phản ứng hạt nhân Fukushima được xây dựng chỉ để chống chọi với những trận sóng thần lớn nhất từng ghi nhận trong quá khứ nhưng vẫn thất bại là minh chứng cho điều gì?",
+      "options": [
+        "Sự gian dối trong khâu kiểm định chất lượng của các kỹ sư xây dựng công trình.",
+        "Sự yếu kém trong năng lực phân tích dữ liệu thống kê của ngành khí tượng học hiện đại.",
+        "Sự thất bại của trí tưởng tượng khi con người không dám tin vào những điều chưa từng có tiền lệ.",
+        "Sự thay đổi quá nhanh của biến đổi khí hậu toàn cầu vượt quá mọi giới hạn tính toán."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đó là sự thất bại của trí tưởng tượng. Con người thường lấy mức tồi tệ nhất trong quá khứ làm giới hạn tối đa cho tương lai, quên mất rằng thiên nhiên và lịch sử luôn có những sự kiện chưa từng có tiền lệ."
+    },
+    {
+      "id": "q13",
+      "question": "Theo góc nhìn của Morgan Housel, tại sao những sự kiện bất ngờ mang tính bước ngoặt lại có sức ảnh hưởng khổng lồ đến nền kinh tế toàn cầu?",
+      "options": [
+        "Vì chúng được lên lịch trình sẵn bởi các tổ chức tài chính quyền lực ngầm.",
+        "Vì chúng phá vỡ kỷ luật tài chính của đại đa số người dân trên toàn thế giới.",
+        "Vì các chính phủ thường tận dụng khủng hoảng để in thêm tiền kích thích kinh tế.",
+        "Vì tính chất chưa từng có tiền lệ khiến không ai có sự chuẩn bị sẵn sàng để đối phó."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chính bản chất không tiền lệ và sự bất ngờ của các sự kiện ngoại lệ khiến con người không thể chuẩn bị trước, và đó chính là lý do khiến tác động lan truyền của chúng trở nên vô cùng lớn lao."
+    },
+    {
+      "id": "q14",
+      "question": "Khi đánh giá về vai trò của lịch sử đối với việc ra quyết định tài chính cá nhân, câu phát biểu nào phản ánh chính xác nhất tinh thần của chương sách?",
+      "options": [
+        "Lịch sử là cuốn cẩm nang vô giá cung cấp toàn bộ đáp án chính xác cho các rủi ro tương lai.",
+        "Lịch sử là bức tranh tổng quan về tâm lý con người, giúp ta khiêm nhường chứ không phải tiên tri.",
+        "Lịch sử hoàn toàn vô ích và không mang lại bất kỳ giá trị nào cho các nhà đầu tư hiện đại.",
+        "Lịch sử chỉ có giá trị đối với các nhà kinh tế học vĩ mô chứ không áp dụng cho cá nhân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lịch sử giúp chúng ta đo đếm trông đợi, nhận diện sai lầm về tâm lý con người (tham lam, sợ hãi), nhưng nó không phải là tấm bản đồ hay công cụ tiên tri tương lai."
+    },
+    {
+      "id": "q15",
+      "question": "Đâu là cái bẫy tâm lý tinh vi nhất mà các nhà đầu tư hay mắc phải khi quan sát những người từng trải qua các cuộc khủng hoảng lớn trong quá khứ?",
+      "options": [
+        "Ngưỡng mộ sự giàu có hiện tại của họ mà quên mất yếu tố may mắn ngẫu nhiên.",
+        "Tin rằng trải nghiệm sự kiện cụ thể trong quá khứ giúp họ đủ trình độ tiên đoán tương lai.",
+        "Cho rằng họ quá bảo thủ và chậm chạp trong việc nắm bắt các cơ hội công nghệ mới.",
+        "Nghi ngờ năng lực chuyên môn thực sự của họ khi đối mặt với các chu kỳ kinh tế ngắn hạn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cú lừa tâm lý là sự ngưỡng mộ quá mức và ngộ nhận rằng việc trải nghiệm một sự kiện cụ thể trong quá khứ sẽ ban cho ai đó năng lực tiên đoán chính xác điều gì sẽ xảy ra tiếp theo, trong khi thực tế nó chỉ sinh ra sự tự tin thái quá."
+    }
+  ]
+}

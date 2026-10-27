@@ -1,0 +1,188 @@
+{
+  "bookId": "TamLyHocVeTien",
+  "chapterId": "01_chuong_01",
+  "chapterTitle": "Chương 01: Không ai điên rồ",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo góc nhìn tâm lý học tài chính của Morgan Housel, tại sao những người thông minh ngang nhau lại có thể đưa ra những quyết định đầu tư hoàn toàn trái ngược nhau và bất đồng sâu sắc về cách thức vận hành của thị trường?",
+      "options": [
+        "Vì họ sinh ra trong các thời kỳ lịch sử khác nhau với những trải nghiệm sống rất đặc thù.",
+        "Vì mỗi cá nhân sở hữu lượng thông tin mật và độ chính xác của dữ liệu vĩ mô khác nhau.",
+        "Vì năng lực tư duy toán học và trình độ học vấn chuyên môn tài chính không đồng đều.",
+        "Vì các kênh phân tích kỹ thuật và phương pháp định giá tài sản áp dụng không giống nhau."
+      ],
+      "correctIndex": 0,
+      "explanation": "Morgan Housel chỉ ra rằng trải nghiệm cá nhân tác động 80% đến cách con người tư duy về tiền bạc. Những thế hệ, giai đoạn kinh tế và biến cố khác nhau định hình nên các quan điểm sống và lăng kính nhìn nhận rủi ro không thể sao chép."
+    },
+    {
+      "id": "q2",
+      "question": "Khi chứng kiến một người mua vé số dù bản thân đang gặp khó khăn tài chính, phản ứng mang tính thấu cảm hành vi nào sau đây phản ánh chính xác tư tưởng của chương sách này?",
+      "options": [
+        "Cho rằng họ thiếu hiểu biết về toán học xác suất thống kê và yếu kém trong việc quản lý chi tiêu.",
+        "Đánh giá họ đang cố tình phung phí số tiền dự phòng ít ỏi vào những trò chơi may rủi hoàn toàn vô nghĩa.",
+        "Hiểu rằng họ đang trả tiền để mua lấy một giấc mơ hữu hình về sự thay đổi cuộc đời mà thực tại tước đoạt.",
+        "Xem đó là hành vi phi lý trí cần phải được giáo dục lại kiến thức tài chính cơ bản ngay lập tức."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đối với người thu nhập thấp, vé số không chỉ là xác suất trúng thưởng mà là tấm vé duy nhất mua lấy niềm hy vọng và giấc mơ sở hữu những thứ mà người giàu đang sẵn có. Hành vi đó hợp lý với hoàn cảnh của họ dù tối ưu toán học là sai."
+    },
+    {
+      "id": "q3",
+      "question": "Nghiên cứu của các nhà kinh tế học Ulrike Malmendier và Stefan Nagel về dữ liệu 50 năm tài chính tiêu dùng đã đưa ra kết luận cốt lõi nào về xu hướng chịu đựng rủi ro của nhà đầu tư?",
+      "options": [
+        "Mức độ chấp nhận rủi ro phụ thuộc trực tiếp vào bằng cấp chuyên môn và kiến thức kinh tế vĩ mô.",
+        "Khả năng chịu đựng rủi ro được quyết định bởi hoàn toàn sự may mắn về thời gian và địa điểm sinh ra.",
+        "Thái độ với rủi ro thay đổi linh hoạt theo các mô hình dự báo định lượng của thị trường chứng khoán.",
+        "Sự sẵn sàng đầu tư mạo hiểm tỷ lệ thuận với quy mô thu nhập tích lũy trong giai đoạn trung niên."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nghiên cứu chứng minh rằng quyết định đầu tư bị điều khiển bởi trải nghiệm thế hệ, đặc biệt trong những năm đầu trưởng thành. Sự may mắn về thời điểm sinh ra chi phối hành vi nhiều hơn trí thông minh hay giáo dục."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao việc đọc sách lịch sử tài chính hoặc nghiên cứu các bảng tính thống kê về sự sụt giảm thị trường thường không thể tái tạo trọn vẹn cảm giác sợ hãi thực tế của nhà đầu tư?",
+      "options": [
+        "Vì dữ liệu lịch sử thường bị bóp méo bởi các thuật toán dự báo tự động của các quỹ đầu tư lớn.",
+        "Vì nhà đầu tư hiện đại luôn có các công cụ bảo hiểm rủi ro tiên tiến hơn nhiều so với quá khứ.",
+        "Vì các con số trên trang tính không thể chứa đựng những vết sẹo cảm xúc và áp lực gia đình thực tế.",
+        "Vì các sự kiện sụp đổ trong lịch sử có cấu trúc vận hành hoàn toàn khác biệt với thị trường nay."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dữ liệu lịch sử thể hiện tần số thống kê nhưng bất lực trong việc tái hiện nỗi đau tinh thần khi về nhà nhìn con cái và nghi ngờ quyết định của bản thân. Trải nghiệm thực tế mới đủ sức mạnh thay đổi hành vi."
+    },
+    {
+      "id": "q5",
+      "question": "Theo phân tích về sự mới mẻ của hệ thống tài chính hiện đại, yếu tố nào sau đây giải thích tốt nhất vì sao nhiều người hiện nay vẫn lúng túng trong việc tiết kiệm và đầu tư hưu trí?",
+      "options": [
+        "Sự thiếu hụt trầm trọng các lớp học kỹ năng mềm quản lý tài chính cá nhân trong hệ thống giáo dục.",
+        "Sự cám dỗ từ các hình thức tiêu dùng tín dụng nhanh làm xói mòn hoàn toàn kỷ luật tài chính tự nhiên.",
+        "Hệ thống tài chính hiện đại với các quỹ hưu trí và tài khoản 401(k) còn quá non trẻ so với lịch sử loài người.",
+        "Tốc độ lạm phát toàn cầu tăng trưởng vượt quá khả năng tích lũy của các thế hệ lao động trẻ tuổi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khái niệm nghỉ hưu tự chủ và các công cụ như 401(k) hay quỹ mở chỉ mới tồn tại vài chục năm qua. Loài người chưa có đủ hàng thế kỷ tích lũy kinh nghiệm tiến hóa để thành thạo trò chơi tài chính này."
+    },
+    {
+      "id": "q6",
+      "question": "Khi một người đưa ra một quyết định tài chính mà bạn cho là hoàn toàn vô lý và sai lầm, thái độ đúng đắn nhất theo tư tưởng của Morgan Housel là gì?",
+      "options": [
+        "Lập tức can thiệp và cung cấp cho họ các biểu đồ phân tích kỹ thuật chuẩn xác nhất để chỉnh sửa.",
+        "Hiểu rằng quyết định đó hoàn toàn hợp lý đối với họ dựa trên mô hình tư duy và trải nghiệm riêng của họ.",
+        "Xác định rằng họ đang bị thao túng bởi các chiến dịch tiếp thị tinh vi và thiếu tư duy phản biện.",
+        "Phân tích các yếu tố toán học tối ưu để chứng minh sai lầm trong phương án chi tiêu của họ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mọi quyết định tài chính đều được biện minh thông qua việc đưa thông tin họ có vào mô hình suy nghĩ độc đáo của họ. Hành động đó hoàn toàn hợp lý và phục vụ mục tiêu riêng tại thời điểm đó trong mắt họ."
+    },
+    {
+      "id": "q7",
+      "question": "Sự khác biệt trong trải nghiệm lịch sử thị trường chứng khoán giữa người sinh năm 1950 và người sinh năm 1970 tại Mỹ minh chứng cho luận điểm nào dưới đây?",
+      "options": [
+        "Thị trường chứng khoán luôn tuân theo chu kỳ lặp lại chính xác sau mỗi khoảng thời gian hai mươi năm.",
+        "Chính sách tiền tệ của chính phủ là yếu tố duy nhất chi phối hành vi tích lũy tài sản của công chúng.",
+        "Thế hệ sinh năm 1950 gặp nhiều may mắn hơn hẳn về năng lực tiếp cận các nguồn vốn đầu tư quốc tế.",
+        "Lứa tuổi trưởng thành định hình lăng kính nhìn nhận rủi ro và tiềm năng sinh lời hoàn toàn khác nhau."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hai nhóm sinh ở hai mốc năm khác nhau trải qua tuổi thiếu niên và đôi mươi với các biến động thị trường trái ngược, dẫn đến niềm tin hoàn toàn khác nhau về việc thị trường chứng khoán là cỗ máy tạo của cải hay vùng đất đi ngang."
+    },
+    {
+      "id": "q8",
+      "question": "Câu chuyện phản hồi từ người cháu của công nhân làm việc tại xưởng sản xuất Foxconn ở Trung Quốc phản ánh điều gì về các góc nhìn đạo đức và kinh tế?",
+      "options": [
+        "Trải nghiệm hoàn cảnh sống khác biệt tạo ra định nghĩa hoàn toàn khác về sự cải thiện và lựa chọn hợp lý.",
+        "Tiêu chuẩn về sự bóc lột lao động mang tính tuyệt đối và không thay đổi theo không gian địa lý.",
+        "Điều kiện làm việc tồi tệ luôn có thể được biện minh bằng các số liệu tăng trưởng GDP vĩ mô của quốc gia.",
+        "Áp lực từ truyền thông phương Tây thường phóng đại quá mức thực trạng lao động tại các nước đang phát triển."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đối với người phương Tây, điều kiện nhà máy là tồi tệ; nhưng đối với người lao động có xuất phát điểm khắc nghiệt hơn, đó là bước tiến cải thiện cuộc sống. Trải nghiệm khác nhau tạo ra lăng kính đánh giá không giống nhau."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao các kế hoạch tài chính cá nhân được xây dựng trên bảng tính Excel hoàn hảo thường dễ thất bại khi áp dụng vào thực tế cuộc sống?",
+      "options": [
+        "Vì quyết định tài chính chịu sự chi phối phức tạp của cảm xúc, cái tôi, lòng tự trọng và bối cảnh bàn ăn.",
+        "Vì các mô hình toán học thường bỏ qua các biến số lạm phát phi tuyến tính trong dài hạn.",
+        "Vì các công cụ bảng tính hiện nay chưa tích hợp đầy đủ dữ liệu lịch sử của các cuộc đại khủng hoảng.",
+        "Vì nhà đầu tư cá nhân thường thiếu kiên nhẫn trong việc tuân thủ các quy tắc phân bổ tài sản nghiêm ngặt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tiền bạc không chỉ vận hành trên trang tính lạnh lùng mà được quyết định ở bàn ăn hay phòng họp, nơi cái tôi, hoàn cảnh cá nhân và cảm xúc hòa trộn tạo ra hành vi thực tế."
+    },
+    {
+      "id": "q10",
+      "question": "Phát biểu nào sau đây tóm tắt chính xác nhất triết lý xuyên suốt của chương 'Không ai điên rồ' về hành vi tiền bạc của con người?",
+      "options": [
+        "Mọi người đều hành động hợp lý theo toán học nhưng thiếu sự nhạy bén trước các cơ hội thị trường.",
+        "Sự thành công tài chính phụ thuộc hoàn toàn vào chỉ số thông minh và chất lượng giáo dục chính quy.",
+        "Hành vi tài chính của mỗi cá nhân là sản phẩm hợp lý của những trải nghiệm độc đáo trong cuộc đời họ.",
+        "Những quyết định sai lầm về tiền bạc xuất phát từ việc thiếu thông tin cập nhật từ các chuyên gia."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tư tưởng cốt lõi là không ai điên rồ cả; mọi người đưa ra quyết định dựa trên những trải nghiệm độc đáo riêng có mang vẻ hợp lý với bản thân họ tại thời điểm đó."
+    },
+    {
+      "id": "q11",
+      "question": "Yếu tố thời gian và giai đoạn lịch sử sinh ra ảnh hưởng thế nào đến sự nghiệp của một huyền thoại đầu tư trái phiếu như Bill Gross?",
+      "options": [
+        "Năng lực phân tích kỹ thuật vượt trội giúp ông bất chấp mọi chu kỳ biến động của tỷ lệ lãi suất vĩ mô.",
+        "Sự trùng hợp hoàn hảo với xu hướng giảm dài hạn của lãi suất đã biến trái phiếu thành cỗ máy sinh lợi.",
+        "Sự hậu thuẫn từ hệ thống chính sách ngân hàng trung ương tạo ra lợi thế cạnh tranh tuyệt đối cho ông.",
+        "Kinh nghiệm dày dặn từ thời kỳ lạm phát cao giúp ông định hình chiến lược đầu tư trái phiếu an toàn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự nghiệp của Bill Gross thăng hoa nhờ sự trùng hợp với chu kỳ suy giảm mang tính thế hệ của lãi suất làm tăng giá trị trái phiếu, minh chứng cho vai trò của sự may mắn về thời điểm."
+    },
+    {
+      "id": "q12",
+      "question": "Sự bùng nổ của các hình thức nợ tiêu dùng như thẻ tín dụng, thế chấp và vay mua xe diễn ra vào thời điểm nào trong lịch sử hiện đại?",
+      "options": [
+        "Từ thời kỳ cổ đại khi các đơn vị tiền tệ chính thức đầu tiên được vua Alyattes sáng tạo ra tại Lydia.",
+        "Ngay sau cuộc Đại suy thoái kinh tế thế giới những năm 1930 nhằm kích thích nhu cầu tiêu dùng nội địa.",
+        "Trong giai đoạn bùng nổ công nghệ thông tin và internet toàn cầu vào những năm cuối thập niên 1990.",
+        "Chỉ từ sau Chiến tranh Thế giới thứ II với sự hỗ trợ của các đạo luật tạo điều kiện vay vốn cho công chúng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chương sách chỉ ra rằng việc sử dụng tràn lan các gói nợ tiêu dùng chỉ mới hình thành sau Chiến tranh Thế giới thứ II, củng cố thêm tính non trẻ của hệ thống tài chính hiện đại."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao việc so sánh các lựa chọn tài chính giữa các tầng lớp xã hội khác nhau (như người nghèo mua vé số và người giàu đầu tư quỹ mở) thường dẫn đến sự hiểu lầm và phán xét gay gắt?",
+      "options": [
+        "Vì các tầng lớp xã hội sử dụng các hệ thống tiền tệ và phương thức thanh toán hoàn toàn khác biệt.",
+        "Vì hệ thống giáo dục tài chính chỉ tập trung phổ biến kiến thức cho nhóm dân cư có thu nhập cao.",
+        "Vì người giàu nắm giữ các thông tin nội bộ mà người có thu nhập thấp không bao giờ có thể tiếp cận.",
+        "Vì mỗi nhóm người đứng từ những thế giới trải nghiệm khác nhau để định nghĩa giá trị của đồng tiền."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mỗi nhóm xã hội có thế giới trải nghiệm riêng biệt. Những gì vô nghĩa với người đang sống trong nhung lúa lại có thể là niềm hy vọng duy nhất mang tính hợp lý đối với người đang chật vật mưu sinh."
+    },
+    {
+      "id": "q14",
+      "question": "Quan điểm của John F. Kennedy về cuộc Đại suy thoái trong chiến dịch tranh cử năm 1960 minh họa cho chân lý nào về nhận thức lịch sử?",
+      "options": [
+        "Sự giàu có và bối cảnh gia đình biệt lập tạo ra những vết sẹo tâm lý hoàn toàn khác biệt trước cùng một khủng hoảng.",
+        "Kiến thức vĩ mô từ trường đại học có thể thay thế hoàn toàn trải nghiệm thực tế về sự nghèo đói nhằm duy trì sự tự do và an tâm.",
+        "Các chính trị gia thường xuyên che giấu sự thật lịch sử để phục vụ cho các mục đích tranh cử cá nhân trong các quyết định chi tiêu hàng ngày.",
+        "Cuộc Đại suy thoái không hề tác động đến tầng lớp thượng lưu sở hữu tài sản lớn trên thế giới nhằm duy trì sự tự do và an tâm."
+      ],
+      "correctIndex": 0,
+      "explanation": "JFK lớn lên trong gia đình giàu có và chỉ thấy khủng hoảng qua việc thuê thêm người làm vườn, hoàn toàn không có vết sẹo cảm xúc như đại đa số người dân, minh họa cho việc lăng kính trải nghiệm quyết định nhận thức."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học hành vi lớn nhất mà một nhà đầu tư có thể rút ra từ việc thấu hiểu rằng 'không ai điên rồ' trong quản lý tài sản cá nhân là gì?",
+      "options": [
+        "Phải luôn tuân thủ tuyệt đối các mô hình toán học tối ưu để loại bỏ hoàn toàn cảm xúc cá nhân.",
+        "Giảm bớt sự phán xét đối với hành vi tài chính của người khác và kiên nhẫn thấu hiểu động lực đằng sau nó.",
+        "Chỉ đầu tư vào các loại tài sản truyền thống có lịch sử hình thành lâu đời trên thị trường tài chính.",
+        "Sử dụng đòn bẩy tài chính cao khi gặp may mắn về thời điểm sinh ra trong các chu kỳ tăng trưởng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thấu hiểu rằng không ai điên rồ giúp chúng ta cảm thấy thoải mái hơn với quyết định của bản thân và bớt đánh giá khắt khe về cách người khác sử dụng tiền bạc của họ nhờ sự thông cảm với hoàn cảnh."
+    }
+  ]
+}

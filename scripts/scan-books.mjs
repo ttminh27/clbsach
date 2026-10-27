@@ -15,6 +15,20 @@ function formatFileSize(bytes) {
 }
 
 const placeholderMetadata = {
+  "TamLyHocVeTien": {
+    title: "Tâm Lý Học Về Tiền",
+    originalTitle: "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+    author: "Morgan Housel",
+    authorBio: "Morgan Housel là đối tác của The Collaborative Fund, cựu chuyên gia viết chuyên mục tại The Wall Street Journal và The Motley Fool. Ông là người hai lần giành Giải thưởng Kinh doanh Xuất sắc nhất của Hiệp hội Nhà văn và Biên tập Kinh doanh Hoa Kỳ, và chiến thắng giải thưởng New York Times Sidney Award.",
+    quote: "Nhiều tiền không liên quan nhiều đến việc bạn thông minh như thế nào mà lại liên quan lớn đến cách bạn hành xử. Và cách hành xử thì rất khó để uốn nắn, ngay cả đối với những người thực sự thông minh.",
+    translator: "Hoàng Thị Minh Phúc",
+    category: "Tài chính cá nhân & Tâm lý học hành vi",
+    tags: ["Morgan Housel", "Tâm Lý Học Về Tiền", "The Psychology of Money", "Tài chính cá nhân", "Đầu tư", "Tiết kiệm", "Tâm lý học hành vi", "Thịnh vượng", "Hạnh phúc"],
+    description: "Kiệt tác tài chính cá nhân toàn cầu của Morgan Housel với hơn 19 câu chuyện ngắn sâu sắc và tinh tế. Cuốn sách vén màn sự thật rằng thành công trong tài chính không đơn thuần là một môn khoa học cứng dựa trên bảng tính hay toán học, mà là một kỹ năng mềm nơi cách bạn cư xử, làm chủ cảm xúc và sự kiên định mới là yếu tố quyết định thịnh vượng bền vững.",
+    gradient: "from-amber-700 via-orange-800 to-stone-900",
+    themeColor: "#b45309",
+    status: "available"
+  },
   "SachHuongDanSuDungCoTheNguoi": {
     title: "Sách Hướng Dẫn Sử Dụng Cơ Thể Người",
     originalTitle: "人体使用手册 (Handbook of User's Manual for the Human Body)",

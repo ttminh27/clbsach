@@ -1,0 +1,188 @@
+{
+  "bookId": "TamLyHocVeTien",
+  "chapterId": "18_chuong_18",
+  "chapterTitle": "Chương 18: Khi bạn tin vào bất cứ điều gì",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo góc nhìn của Morgan Housel trong chương này, tại sao một cuộc khủng hoảng kinh tế lớn (như giai đoạn 2007-2009) lại có thể xảy ra ngay cả khi các yếu tố hữu hình như nhà máy, máy móc và năng lực sản xuất không hề suy giảm?",
+      "options": [
+        "Vì những câu chuyện bi quan mà con người tự kể cho nhau đã thay đổi và phá hủy niềm tin.",
+        "Vì hệ thống ngân hàng thiếu hụt nghiêm trọng dòng tiền mặt lưu thông để duy trì vận hành.",
+        "Vì chính phủ các nước đã can thiệp quá sâu bằng những chính sách tài khóa sai lầm thô bạo.",
+        "Vì năng suất lao động thực tế của toàn bộ lực lượng lao động đã sụt giảm mạnh trên toàn cầu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Morgan Housel chỉ ra rằng các yếu tố hữu hình không thay đổi, nhưng câu chuyện chúng ta kể về nền kinh tế đã dịch chuyển từ sự hưng phấn sang nỗi sợ hãi, tạo ra lực cản tâm lý mạnh mẽ nhất."
+    },
+    {
+      "id": "q2",
+      "question": "Khi đứng trước một tình huống rủi ro cực kỳ cao và tuyệt vọng trong việc tìm kiếm giải pháp tài chính hoặc đầu tư, xu hướng tâm lý tự nhiên của con người thường là gì?",
+      "options": [
+        "Họ sẽ chủ động thu hẹp quy mô danh mục đầu tư và chờ đợi thời điểm thị trường thực sự ổn định.",
+        "Hพวกเขา sẽ áp dụng các phương pháp định lượng khoa học chặt chẽ để tính toán xác suất thua lỗ.",
+        "Họ dễ dàng tin tưởng vào bất kỳ câu chuyện giả tưởng hấp dẫn nào mang lại hy vọng đổi đời nhanh.",
+        "Họ sẽ tìm kiếm sự tư vấn từ các chuyên gia tài chính giàu kinh nghiệm nhất thay vì tự quyết định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi rủi ro cao và khát khao giải pháp lớn, con người sẵn sàng tin vào bất cứ điều gì (giống như câu chuyện người cha nghèo sẵn sàng thử cách chữa bệnh phản khoa học cho con) để tìm hy vọng."
+    },
+    {
+      "id": "q3",
+      "question": "Hiện tượng hàng triệu nhà đầu tư vẫn đổ hàng nghìn tỷ đồng vào các quỹ tương hỗ có hiệu suất kém hơn mức chuẩn trong dài hạn phản ánh điều gì về tâm lý đầu tư?",
+      "options": [
+        "Hy vọng mong manh được chọn trúng 'người kế vị Warren Buffett' để đổi đời mà không cần nỗ lực.",
+        "Niềm tin tuyệt đối vào các mô hình định lượng toán học phức tạp của các tổ chức tài chính lớn.",
+        "Sự hiểu biết sâu sắc về biên an toàn và các nguyên tắc phân bổ tài sản an toàn trong dài hạn.",
+        "Khả năng chịu đựng rủi ro cực kỳ cao dựa trên sự phân tích kỹ lưỡng về lịch sử thị trường."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đầu tư là lĩnh vực hiếm hoi mang lại cơ hội phần thưởng khổng lồ, khiến con người dễ dãi tin tưởng vào những câu chuyện hão huyền về siêu lợi nhuận dù xác suất thành công rất thấp."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao việc chừa chỗ cho sai lầm (Room for error) lại là chiếc khiên bảo vệ quan trọng nhất trước các câu chuyện giả tưởng hấp dẫn trong tài chính?",
+      "options": [
+        "Vì nó giúp tối đa hóa lợi nhuận biên và gia tăng tốc độ tích lũy tài sản ngắn hạn một cách hiệu quả.",
+        "Vì nó thu hẹp khoảng cách giữa điều ta muốn xảy ra và kết quả thực tế tối thiểu cần thiết để sống sót.",
+        "Vì nó loại bỏ hoàn toàn mọi biến động ngẫu nhiên và các sự kiện đuôi bất ngờ có thể xảy ra trên thị trường.",
+        "Vì nó giúp nhà đầu tư luôn giữ vững cái tôi cao để không bao giờ phải thừa nhận những sai lầm cá nhân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoảng cách giữa điều bạn muốn xảy ra và điều bạn thực sự cần để đạt kết quả chấp nhận được càng lớn, bạn càng dễ trở thành nạn nhân của những câu chuyện giả tưởng. Biên an toàn thu hẹp khoảng cách đó."
+    },
+    {
+      "id": "q5",
+      "question": "Theo Daniel Kahneman được nhắc đến trong chương, nguyên nhân chính khiến con người luôn cảm thấy thế giới này rất dễ hiểu và có thể dự đoán được là gì?",
+      "options": [
+        "Sự phát triển vượt bậc của công nghệ phân tích dữ liệu lớn và trí tuệ nhân tạo trong thời đại số.",
+        "Ảo ảnh do quá khứ mang lại, khiến ta ngộ nhận rằng mọi sự kiện đều có nguyên nhân rõ ràng và logic.",
+        "Khả năng thu thập thông tin khách quan và không bị chi phối bởi bất kỳ cảm xúc chủ quan nào.",
+        "Sự tuân thủ tuyệt đối các quy luật vật lý thiên văn áp dụng vào các mô hình hành vi kinh tế xã hội."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khả năng giải thích quá khứ sau khi nó đã xảy ra tạo cho chúng ta ảo ảnh rằng thế giới có ý nghĩa và dễ hiểu, từ đó sinh ra sự tự tin thái quá vào khả năng dự đoán tương lai."
+    },
+    {
+      "id": "q6",
+      "question": "Khi một nhà đầu tư cá nhân tự đưa ra quyết định mua bán dựa trên những góc nhìn hạn hẹp và các mô hình tâm thức riêng của họ, hiện tượng gì thường xảy ra với thị trường?",
+      "options": [
+        "Các bong bóng tài chính dễ dàng hình thành do sự lan truyền và bắt chước mù quáng từ những người khác.",
+        "Thị trường sẽ tự động điều chỉnh về mức giá trị hợp lý tối ưu dựa trên quy luật cung cầu minh bạch.",
+        "Tính thanh khoản của toàn bộ hệ thống tài chính sẽ tăng vọt nhờ sự đồng thuận cao độ giữa các bên.",
+        "Mọi rủi ro hệ thống sẽ được triệt tiêu hoàn toàn nhờ sự phân tán hợp lý của các dòng vốn đầu tư."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vì mỗi người vận hành theo một góc nhìn riêng không hoàn chỉnh và mọi người làm theo nhau một cách mù quáng dựa trên các lý do không rõ ràng, các bong bóng tài chính được tạo ra từ đó."
+    },
+    {
+      "id": "q7",
+      "question": "Sự khác biệt cốt lõi nào giải thích tại sao các nhà khoa học vũ trụ có thể dự đoán chính xác đường bay của tàu thám hiểm đến Diêm Vương Tinh, trong khi các chuyên gia tài chính lại thất bại trong việc dự đoán thị trường?",
+      "options": [
+        "Các chuyên gia tài chính thiếu hẳn các công cụ tính toán siêu cấp mà các kỹ sư NASA đang sở hữu.",
+        "Ngành hàng không vũ trụ được chính phủ hậu thuẫn nguồn lực tài chính lớn hơn nhiều so với Phố Wall.",
+        "Vật lý thiên văn tuân theo các quy luật chính xác, còn tài chính bị chi phối bởi cảm xúc và hành vi con người.",
+        "Thị trường tài chính biến động theo các chu kỳ tự nhiên hoàn toàn cố định không thể can thiệp được."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vật lý thiên văn là lĩnh vực của sự chính xác, không bị ảnh hưởng bởi sự mơ hồ của cảm xúc con người, trong khi đầu tư là lĩnh vực bất ổn bị chi phối hoàn toàn bởi tâm lý và hành vi."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao nhu cầu về các bản dự đoán thị trường tài chính vẫn vô cùng khổng lồ dù ai cũng biết chúng thường xuyên sai lệch?",
+      "options": [
+        "Vì con người có nhu cầu tâm lý sâu sắc muốn tin rằng thế giới có thể kiểm soát được để xoa dịu sự bất định.",
+        "Vì các cơ quan quản lý nhà nước bắt buộc mọi nhà đầu tư phải tham khảo trước khi phân bổ dòng vốn.",
+        "Vì độ chính xác của các dự đoán Phố Wall trong dài hạn thực ra luôn đạt mức trên 90% ổn định.",
+        "Vì chi phí để mua các báo cáo dự đoán thị trường hiện nay rất rẻ và dễ dàng tiếp cận với mọi người."
+      ],
+      "correctIndex": 0,
+      "explanation": "Muốn tin rằng chúng ta nắm quyền kiểm soát là một nốt ngứa trong cảm xúc cần được xoa dịu. Ảo ảnh kiểm soát có sức hút lớn hơn thực tại bấp bênh, khiến ta bấu víu vào các dự đoán."
+    },
+    {
+      "id": "q9",
+      "question": "Khi các nhà sáng lập doanh nghiệp khởi nghiệp được hỏi về tỷ lệ thành công phụ thuộc vào nỗ lực bản thân, họ thường trả lời mức rất cao (trên 80%). Điểm mù tâm lý nào đang diễn ra ở đây?",
+      "options": [
+        "Họ đã tính toán cực kỳ chi tiết mọi rủi ro vĩ mô có thể xảy ra trong suốt chu kỳ kinh tế dài hạn.",
+        "Họ tập trung hoàn toàn vào kế hoạch của mình và quên đi vai trò của đối thủ cạnh tranh cùng sự may mắn.",
+        "Họ cố tình phóng đại số liệu để thu hút các quỹ đầu tư mạo hiểm rót vốn vào dự án của công ty.",
+        "Họ tuân thủ tuyệt đối các nguyên tắc quản trị tài chính hành vi do Morgan Housel đề ra trong sách."
+      ],
+      "correctIndex": 1,
+      "explanation": "Con người thường tập trung vào những gì họ biết rõ nhất (kế hoạch và hành động của bản thân) và quên đi vai trò của yếu tố may mắn cũng như những tác động từ đối thủ và thị trường."
+    },
+    {
+      "id": "q10",
+      "question": "Theo tư duy của Morgan Housel, điều gì xảy ra với góc nhìn của một nhà đầu tư khi họ vừa quyết định bán tháo toàn bộ cổ phiếu để chuyển sang nắm giữ tiền mặt vì sợ suy thoái?",
+      "options": [
+        "Họ sẽ trở nên hoàn toàn khách quan và lý trí hơn trong mọi quyết định tài chính tiếp theo của mình.",
+        "Họ sẽ cắt giảm hoàn toàn các chi phí sinh hoạt hàng ngày để tích lũy thêm lượng tiền mặt dự phòng.",
+        "Họ sẽ lập tức quay lại thị trường mua vào với mức giá thấp hơn khi khủng hoảng thực sự xảy ra.",
+        "Góc nhìn của họ bị biến đổi và họ sẽ bắt đầu tìm kiếm mọi dấu hiệu dù nhỏ nhất để chứng minh mình đúng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Động lực là yếu tố thúc đẩy mạnh mẽ. Khi bạn đã chọn một phe (như bán tháo vì sợ suy thoái), bạn sẽ nhìn mọi dấu chấm, mọi sự việc như điềm báo diệt vong vì bạn muốn điều đó xảy ra."
+    },
+    {
+      "id": "q11",
+      "question": "Câu nói nổi tiếng của Carl Ricksons: 'Rủi ro là điều còn sót lại khi bạn nghĩ bạn đã nghĩ hết mọi thứ rồi' phản ánh bài học gì về quản trị tài sản cá nhân?",
+      "options": [
+        "Luôn phải cố gắng dự đoán chính xác 100% mọi biến động kinh tế vĩ mô có thể xuất hiện trong tương lai.",
+        "Việc lập kế hoạch tài chính chi tiết là hoàn toàn vô nghĩa vì không thể chống lại được rủi ro thị trường.",
+        "Phải luôn thừa nhận sự tồn tại của những điểm mù và các sự kiện bất ngờ nằm ngoài khả năng kiểm soát.",
+        "Chỉ nên đầu tư vào các kênh tài sản truyền thống có sự bảo đảm tuyệt đối từ các định chế tài chính lớn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Luôn có những yếu tố mà ta không biết hoặc không thể lường trước. Việc chấp nhận giới hạn hiểu biết giúp ta chuẩn bị tinh thần và tài chính tốt hơn trước những cú sốc bất ngờ."
+    },
+    {
+      "id": "q12",
+      "question": "Trong bối cảnh quản lý tài chính cá nhân, việc tự mình thêu dệt nên một câu chuyện hoàn chỉnh để lấp đầy những khoảng trống hiểu biết thường dẫn đến hệ lụy nào?",
+      "options": [
+        "Giúp nhà đầu tư duy trì sự kiên nhẫn tuyệt đối và không bao giờ mắc sai lầm trong dài hạn.",
+        "Giúp tối ưu hóa hoàn toàn dòng tiền nhàn rỗi theo các mô hình toán học chuẩn mực của Phố Wall.",
+        "Tạo ra sự tự tin thái quá vào khả năng phán đoán, dễ dẫn đến những quyết định đầu tư thảm họa.",
+        "Loại bỏ hoàn toàn các cảm xúc tiêu cực như sợ hãi hay tham lam mỗi khi thị trường biến động mạnh."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi không hiểu rõ cách thế giới vận hành, việc tự thêu dệt câu chuyện liền mạch để lấp đầy điểm mù khiến ta có ảo tưởng rằng mình biết điều gì sắp xảy ra, dẫn đến sự tự tin thái quá."
+    },
+    {
+      "id": "q13",
+      "question": "Bài học lớn nhất từ việc Cục Dự trữ Liên bang Mỹ (Fed) dự đoán sai lầm biên độ tăng trưởng kinh tế trước thềm khủng hoảng 2008 là gì?",
+      "options": [
+        "Các dự đoán kinh tế vĩ mô ngắn hạn luôn có độ chính xác tuyệt đối nếu được tính toán kỹ lưỡng từ trước trong các quyết định chi tiêu hàng ngày.",
+        "Các nhà hoạch định chính sách cần phải áp dụng thêm nhiều mô hình toán học phức tạp hơn nữa từ trí tuệ nhân tạo trong quản trị tài chính cá nhân.",
+        "Chính phủ cần phải kiểm soát tuyệt đối mọi thông tin truyền thông để tránh gây ra tâm lý hoảng loạn cho công chúng trong các quyết định chi tiêu hàng ngày.",
+        "Ngay cả các cơ quan quyền lực nhất với chuyên gia giỏi nhất cũng không thể né tránh việc bị chi phối bởi các câu chuyện giả tưởng dễ chịu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ngay cả các nhà hoạch định chính sách cũng là nạn nhân của các câu chuyện giả tưởng hấp dẫn vì việc trông đợi điều gì đó tồi tệ hơn mang lại cảm giác quá đau đớn và phức tạp hóa sự nghiệp của họ."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao việc đọc lịch sử hoặc nghiên cứu các dữ liệu tài chính quá khứ của nhiều người thường mang tính chủ quan và thiên vị?",
+      "options": [
+        "Vì các dữ liệu lịch sử tài chính lưu trữ trên các hệ thống thông tin đại chúng hiện nay đều đã bị bóp méo.",
+        "Vì họ luôn đọc với mục đích tìm kiếm bằng chứng để xác thực quan điểm sẵn có và bảo vệ cái tôi của mình.",
+        "Vì lịch sử luôn lặp lại một cách chính xác đến từng chi tiết nhỏ nhất theo đúng quy luật tự nhiên cố định.",
+        "Vì con người không thể sử dụng trực giác và trí tưởng tượng khi phân tích các sự kiện đã diễn ra trong quá khứ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Con người đọc lịch sử hay dữ liệu với mục đích xác nhận hoặc tấn công, tìm kiếm điều chứng minh họ đúng và kháng cự lại sự thật bất tiện vì ai cũng muốn ở cùng phe với lẽ phải."
+    },
+    {
+      "id": "q15",
+      "question": "Theo triết lý xuyên suốt của Morgan Housel trong chương này, để tồn tại và thịnh vượng trong một thế giới tài chính bị chi phối bởi những câu chuyện, một nhà đầu tư khôn ngoan nên làm gì?",
+      "options": [
+        "Tin tưởng tuyệt đối vào các lời khuyên của chuyên gia truyền thông và cố gắng dự đoán chính xác đỉnh đáy thị trường.",
+        "Từ bỏ hoàn toàn việc đầu tư vào các tài sản biến động và chỉ giữ tiền mặt để tránh mọi rủi ro hệ thống.",
+        "Sử dụng tối đa đòn bẩy tài chính trong mọi thời điểm để tận dụng tối đa sức mạnh của quy luật lãi kép nhanh chóng.",
+        "Chấp nhận sự bấp bênh, buông bỏ ảo tưởng kiểm soát và luôn chừa một khoảng trống an toàn lớn cho sai lầm."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chấp nhận rằng thế giới nằm ngoài tầm kiểm soát, từ bỏ ảo ảnh dự đoán, luôn chừa chỗ cho sai lammation (biên an toàn) và khiêm tốn trước sự bất định là chìa khóa sống còn."
+    }
+  ]
+}

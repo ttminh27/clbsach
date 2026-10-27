@@ -1,0 +1,188 @@
+{
+  "bookId": "TamLyHocVeTien",
+  "chapterId": "13_chuong_13",
+  "chapterTitle": "Chương 13: Chừa chỗ cho sai lầm",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo bài học từ các tay chơi đếm bài Blackjack chuyên nghiệp tại Las Vegas, yếu tố then chốt nào giúp họ chiến lược hóa thành công trò chơi cá cược?",
+      "options": [
+        "Họ luôn giữ sự khiêm nhường và nhận thức rõ bản thân đang chơi trò xác suất thay vì chắc chắn.",
+        "Họ sở hữu năng lực tính toán siêu việt để dự đoán chính xác tuyệt đối quân bài tiếp theo.",
+        "Họ áp dụng đòn bẩy tài chính tối đa vào ván bài có tỷ lệ thắng cao nhất để tối ưu hóa lợi nhuận.",
+        "Họ luôn đặt cược toàn bộ số chip hiện có ngay khi nhận thấy tỷ lệ thắng nghiêng về phía mình."
+      ],
+      "correctIndex": 0,
+      "explanation": "Morgan Housel chỉ ra rằng các tay đếm bài chuyên nghiệp hiểu rõ họ chỉ đang chơi với tỷ lệ xác suất chứ không có sự chắc chắn tuyệt đối. Sự khiêm nhường này buộc họ phải chừa chỗ cho sai lầm thay vì dồn hết vốn liếng vào một cửa."
+    },
+    {
+      "id": "q2",
+      "question": "Khái niệm 'Biên an toàn' (Margin of safety) do Benjamin Graham đề xuất có ý nghĩa cốt lõi nào trong quản trị tài chính cá nhân?",
+      "options": [
+        "Giúp loại bỏ hoàn toàn mọi rủi ro thị trường thông qua các mô hình dự báo toán học phức tạp.",
+        "Giúp biến các dự báo tương lai trở nên hoàn toàn chính xác nhờ việc tối ưu hóa tỷ suất sinh lời.",
+        "Giúp nhà đầu tư luôn nắm bắt chính xác thời điểm đỉnh và đáy của chu kỳ kinh tế ngắn hạn.",
+        "Giúp làm cho các dự báo trở nên không cần thiết bằng cách chấp nhận một vùng màu xám đầy khả năng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Biên an toàn không nhằm mục đích dự đoán tương lai chính xác hơn mà nhằm mục đích làm cho những dự báo đó trở nên không cần thiết, cho phép chúng ta tồn tại an toàn trong một thế giới đầy rẫy sự ngẫu nhiên."
+    },
+    {
+      "id": "q3",
+      "question": "Vì sao phần lớn mọi người thường đánh giá thấp hoặc bỏ qua việc chừa chỗ cho sai lầm trong các kế hoạch tài chính cá nhân?",
+      "options": [
+        "Do thị trường tài chính luôn duy trì chu kỳ tăng trưởng ổn định và dễ dự báo trong dài hạn.",
+        "Do các ngân hàng trung ương luôn bảo đảm an toàn tuyệt đối cho mọi khoản đầu tư của người dân.",
+        "Do tâm lý không thoải mái khi thừa nhận tương lai không thể đoán trước và muốn tối ưu hóa lợi ích.",
+        "Do các công cụ phân tích kỹ thuật hiện đại đã loại bỏ hoàn toàn các biến động bất ngờ của thị trường."
+      ],
+      "correctIndex": 2,
+      "explanation": "Con người thường tránh chừa chỗ cho sai lầm vì cảm giác khó chịu khi thừa nhận mình không biết tương lai ra sao, đồng thời muốn khai thác triệt để các dự đoán khi chúng vô tình trở nên chính xác."
+    },
+    {
+      "id": "q4",
+      "question": "Trong bối cảnh quản lý danh mục đầu tư và tâm lý cá nhân, việc 'chừa chỗ cho sự biến động' được Morgan Housel định nghĩa như thế nào?",
+      "options": [
+        "Là khoảng cách giữa những gì danh mục chịu được trên lý thuyết và những gì tâm lý chịu đựng nổi.",
+        "Là việc duy trì tỷ lệ cổ phiếu cao nhất có thể trên bảng tính Excel để đạt lợi nhuận tối ưu.",
+        "Là khả năng dự báo chính xác thời điểm thị trường sụt giảm 30% để kịp thời rút toàn bộ vốn.",
+        "Là việc liên tục thay đổi chiến lược đầu tư theo từng biến động hàng ngày của các chỉ số."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhiều người tính toán trên bảng tính rằng họ chịu được mức sụt giảm 30%, nhưng về mặt tâm lý và cảm xúc thực tế, sự mệt mỏi và lo lắng có thể khiến họ bỏ cuộc vào đúng thời điểm tồi tệ nhất."
+    },
+    {
+      "id": "q5",
+      "question": "Tư duy chiến lược của Warren Buffett khi vận hành tập đoàn Berkshire Hathaway với lượng tiền mặt rất dồi dào phản ánh triết lý nào?",
+      "options": [
+        "Chấp nhận đánh đổi một phần lợi nhuận ngắn hạn để đảm bảo sự bình yên và khả năng sinh tồn tuyệt đối.",
+        "Tìm kiếm cơ hội thâu tóm các doanh nghiệp nhỏ ngay khi thị trường vừa xuất hiện dấu hiệu suy thoái.",
+        "Duy trì đòn bẩy tài chính ở mức cao để tận dụng tối đa các đợt khủng hoảng thanh khoản.",
+        "Tuân thủ tuyệt đối các mô hình định lượng truyền thống để tối ưu hóa hiệu suất vốn chủ sở hữu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Buffett từng khẳng định thà hy sinh một chút lợi nhuận để đổi lấy giấc ngủ ngon và sự an tâm tuyệt đối, minh chứng cho việc đặt khả năng sinh tồn lên trên việc theo đuổi lợi nhuận tối đa."
+    },
+    {
+      "id": "q6",
+      "question": "Hiện tượng 'hội chứng Trò chơi Russian roulette về mặt số liệu là có hiệu quả' cảnh báo điều gì đối với các nhà đầu tư?",
+      "options": [
+        "Sự gắn bó với các tỷ lệ thắng cao nhưng bỏ quên mặt bất lợi có khả năng gây ra sự hủy hoại toàn bộ.",
+        "Việc không dám chấp nhận bất kỳ rủi ro nào sẽ khiến tài sản bị lạm phát bào mòn theo thời gian.",
+        "Thói quen sử dụng các phương pháp phân tích kỹ thuật lỗi thời trong các thị trường mới nổi.",
+        "Xu hướng đầu tư tập trung toàn bộ vốn vào một loại tài sản duy nhất để tìm kiếm lợi nhuận đột biến."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hội chứng này xảy ra khi người ta quá tin vào tỷ lệ thắng cao mà quên mất rằng nếu mặt thua dẫn đến sự hủy hoại hoàn toàn (phá sản), thì rủi ro đó tuyệt đối không đáng để đánh đổi."
+    },
+    {
+      "id": "q7",
+      "question": "Đòn bẩy tài chính (sử dụng nợ vay) trở nên cực kỳ nguy hiểm trong quản lý tài sản cá nhân vì lý do cốt lõi nào?",
+      "options": [
+        "Nó làm gia tăng chi phí giao dịch và các khoản thuế thu nhập phải nộp cho cơ quan nhà nước.",
+        "Nó làm giảm tính thanh khoản của danh mục đầu tư xuống mức thấp nhất trong mọi thời điểm.",
+        "Nó biến các rủi ro thông thường thành nguy cơ hủy diệt và tước đoạt cơ hội quay lại cuộc chơi.",
+        "Nó khiến nhà đầu tư mất đi khả năng tiếp cận các thông tin tài chính chính thống và kịp thời."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đòn bẩy không chỉ làm mất trắng tài sản khi thị trường sụt giảm mà còn xóa sạch cơ hội quay lại thị trường đúng thời điểm giá tài sản hấp dẫn vào năm sau đó."
+    },
+    {
+      "id": "q8",
+      "question": "Câu chuyện đơn vị xe tăng của Đức tại trận Stalingrad bị tê liệt vì lũ chuột đồng gặm nhấm hệ thống điện minh chứng cho bài học gì?",
+      "options": [
+        "Các thiết bị công nghệ hiện đại thường có độ bền kém khi hoạt động trong điều kiện thời tiết khắc nghiệt.",
+        "Những rủi ro điên rồ và không thể mường tượng trước thường là những thứ gây ra thiệt hại lớn nhất.",
+        "Quân đội cần phải đầu tư nhiều hơn vào công tác bảo trì và kiểm tra định kỳ các phương tiện chiến đấu.",
+        "Chiến lược quân sự truyền thống luôn tỏ ra kém hiệu quả trước các cuộc tấn công bất ngờ của đối phương."
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu chuyện này minh chứng rằng chúng ta có thể lên kế hoạch cho mọi rủi ro thông thường nhưng lại hoàn toàn bất lực trước những sự kiện điên rồ, chưa từng xuất hiện trong trí tưởng tượng."
+    },
+    {
+      "id": "q9",
+      "question": "Theo quan điểm của Morgan Housel, tại sao việc tiết kiệm tiền mà không cần một mục đích cụ thể (như mua xe, mua nhà) lại đóng vai trò quan trọng?",
+      "options": [
+        "Giúp gia tăng điểm tín dụng cá nhân tại các ngân hàng thương mại lớn trên toàn quốc.",
+        "Giúp nhà đầu tư luôn sẵn sàng nắm bắt các cơ hội mua cổ phiếu giá rẻ trên thị trường.",
+        "Giúp tối ưu hóa các khoản thuế thu nhập cá nhân phải đóng vào cuối mỗi năm tài chính.",
+        "Giúp tạo ra khoảng đệm vững chắc trước những rủi ro bất ngờ chưa từng được dự đoán trước."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tiết kiệm mà không cần lý do cụ thể giúp chúng ta xây dựng tấm đệm phòng thủ trước những biến cố kỳ quái, không thể dự đoán giống như lũ chuột đồng trong tài chính."
+    },
+    {
+      "id": "q10",
+      "question": "Khi lập kế hoạch tài chính dài hạn cho việc nghỉ hưu, phương pháp tiếp cận khôn ngoan nhất để chừa chỗ cho sai lầm là gì?",
+      "options": [
+        "Sử dụng chính xác mức lợi nhuận trung bình lịch sử của thị trường trong 150 năm qua để tính toán.",
+        "Đầu tư toàn bộ quỹ hưu trí vào các tài sản có độ rủi ro cao để bù đắp cho sự biến động lạm phát.",
+        "Giả định mức lợi nhuận tương lai sẽ thấp hơn đáng kể so với mức trung bình lịch sử để tiết kiệm nhiều hơn.",
+        "Rút toàn bộ tiền tiết kiệm ra khỏi thị trường chứng khoán ngay khi đạt mốc tuổi năm mươi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Morgan Housel chọn giả định lợi nhuận tương lai của mình thấp hơn 1/3 so với lịch sử và tiết kiệm nhiều hơn, đó là biên an toàn giúp ông ngủ ngon và không sợ hãi trước những cú sốc."
+    },
+    {
+      "id": "q11",
+      "question": "Điểm thất bại (Single point of failure) trong tài chính cá nhân thường bắt nguồn từ thói quen nào dưới đây?",
+      "options": [
+        "Phụ thuộc duy nhất vào một nguồn thu nhập ngắn hạn mà không có khoản tiết kiệm dự phòng.",
+        "Đa dạng hóa danh mục đầu tư quá mức vào nhiều lớp tài sản khác nhau trên thị trường toàn cầu.",
+        "Thường xuyên duy trì tỷ trọng tiền mặt quá cao trong danh mục đầu tư trong dài hạn.",
+        "Sử dụng các dịch vụ tư vấn tài chính độc lập thay vì tự mình quản lý tài sản cá nhân."
+      ],
+      "correctIndex": 0,
+      "explanation": "Phụ thuộc vào một nguồn thu duy nhất mà không có quỹ dự phòng chính là điểm thất bại nguy hiểm nhất, khiến cá nhân sụp đổ ngay lập tức khi nguồn thu đó gặp trục trặc."
+    },
+    {
+      "id": "q12",
+      "question": "Phát biểu nào sau đây phản ánh chính xác nhất triết lý về rủi ro và sự sinh tồn được trình bày trong chương sách này?",
+      "options": [
+        "Bạn phải mạo hiểm toàn bộ tài sản của mình thì mới có cơ hội đạt được mức lợi nhuận vượt trội.",
+        "Khả năng sinh tồn bền bỉ quan trọng hơn việc theo đuổi các khoản lợi nhuận ngắn hạn ngoạn mục.",
+        "Các quy luật thống kê lịch sử luôn lặp lại chính xác tuyệt đối trong mọi chu kỳ kinh tế tương lai.",
+        "Sự hỗ trợ từ các quỹ đầu tư mạo hiểm sẽ giúp loại bỏ hoàn toàn rủi ro phá sản của doanh nghiệp."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ý tưởng cốt lõi xuyên suốt là bạn phải sinh tồn đủ lâu thì các tỷ lệ lợi nhuận mới quay về phục vụ bạn. Sống sót là điều kiện tiên quyết để chiến thắng trong trò chơi tiền bạc."
+    },
+    {
+      "id": "q13",
+      "question": "Hiện tượng các nhà sáng lập doanh nghiệp khởi nghiệp thường đánh giá thấp các rủi ro bất ngờ xuất hiện trong thực tế phản ánh điều gì về tâm lý con người?",
+      "options": [
+        "Sự thiếu hụt kiến thức chuyên môn về các mô hình quản trị doanh nghiệp hiện đại.",
+        "Sự phụ thuộc quá mức vào các chiến dịch tiếp thị kỹ thuật số trên các nền tảng mạng xã hội.",
+        "Sự thiếu quan tâm đến các báo cáo phân tích tài chính định kỳ từ phía các nhà đầu tư.",
+        "Sự tác động mạnh mẽ của thiên vị chủ nghĩa lạc quan và niềm tin vào sự kiểm soát tuyệt đối."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chủ nghĩa lạc quan mang tính logic thường làm lu mờ khả năng nhận diện rủi ro, khiến mọi người tin rằng kế hoạch của họ sẽ diễn ra hoàn hảo mà không gặp bất kỳ sự cố kỳ quái nào."
+    },
+    {
+      "id": "q14",
+      "question": "Theo góc nhìn của tâm lý học tài chính, việc chừa chỗ cho sai lầm thường bị hiểu lầm là gì bởi số đông?",
+      "options": [
+        "Là một chiến lược đầu tư mang tính đột phá giúp tối ưu hóa lợi nhuận trong ngắn hạn.",
+        "Là một hàng rào bảo thủ dành cho những người thiếu tự tin hoặc sợ hãi rủi ro.",
+        "Là phương pháp phân tích kỹ thuật tiên tiến giúp dự báo chính xác các đỉnh của thị trường.",
+        "Là một công cụ tài chính phức tạp chỉ dành riêng cho các ngân hàng đầu tư lớn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Số đông thường hiểu lầm biên an toàn hay việc chừa chỗ cho sai lầm là sự bảo thủ của những kẻ nhút nhát, trong khi thực tế đó là công cụ mạnh mẽ nhất giúp nhà đầu tư trụ vững."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học thực tiễn quan trọng nhất đúc kết từ triết lý 'Chừa chỗ cho sai lầm' trong kế hoạch tài chính cá nhân là gì?",
+      "options": [
+        "Phải đầu tư toàn bộ tiền tiết kiệm vào các kênh tài sản có tính thanh khoản cao nhất ngay lập tức.",
+        "Phải cố gắng dự đoán chính xác mọi biến động kinh tế vĩ mô có thể xảy ra trong vòng mười năm tới.",
+        "Phải luôn chuẩn bị tinh thần và phương án dự phòng cho việc kế hoạch sẽ không diễn ra như ý muốn.",
+        "Phải loại bỏ hoàn toàn mọi khoản nợ vay tiêu dùng để đạt trạng thái tự do tài chính hoàn toàn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Phần quan trọng nhất của mọi kế hoạch tài chính là lên kế hoạch phòng khi kế hoạch không diễn ra theo đúng kế hoạch, thông qua việc duy trì biên an toàn và khả năng sinh tồn."
+    }
+  ]
+}

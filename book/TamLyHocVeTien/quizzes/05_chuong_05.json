@@ -1,0 +1,188 @@
+{
+  "bookId": "TamLyHocVeTien",
+  "chapterId": "05_chuong_05",
+  "chapterTitle": "Chương 05: Làm giàu và duy trì sự giàu có",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo góc nhìn của Morgan Housel trong chương này, tại sao kỹ năng kiếm tiền và kỹ năng giữ tiền lại hoàn toàn khác nhau?",
+      "options": [
+        "Kiếm tiền đòi hỏi sự thận trọng tối đa, còn giữ tiền đòi hỏi sự liều lĩnh và tự tin tuyệt đối.",
+        "Kiếm tiền cần chấp nhận rủi ro và lạc quan, còn giữ tiền đòi hỏi sự khiêm nhường và hoang tưởng.",
+        "Kiếm tiền phụ thuộc vào các thuật toán phức tạp, còn giữ tiền chỉ dựa vào vận may ngắn hạn.",
+        "Kiếm tiền cần sự hỗ trợ của người khác, còn giữ tiền là hành động đơn độc của cá nhân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Morgan Housel chỉ ra rằng kiếm tiền đòi hỏi sự lạc quan và chấp nhận rủi ro, trong khi giữ tiền đòi hỏi chiều ngược lại: sự khiêm nhường và nỗi sợ mất đi những gì đã có, hay sự hoang tưởng lành mạnh."
+    },
+    {
+      "id": "q2",
+      "question": "Câu chuyện tương phản giữa Jesse Livermore và Abraham Germansky trong cuộc Đại suy thoái 1929 minh chứng điều gì về hành vi tài chính?",
+      "options": [
+        "Sự xuất sắc trong việc nắm bắt cơ hội làm giàu không đảm bảo rằng cá nhân đó biết cách bảo vệ tài sản.",
+        "Những nhà đầu tư bất động sản luôn dễ bị tổn thương hơn các nhà giao dịch chứng khoán chuyên nghiệp.",
+        "Việc kiếm được số tiền lớn trong thời gian ngắn chắc chắn sẽ dẫn đến bi kịch cá nhân và tâm lý hoảng loạn.",
+        "Thị trường tài chính luôn trừng phạt những người cố gắng bán khống để kiếm lợi nhuận trên sự đau khổ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cả Livermore và Germansky đều rất giỏi làm giàu nhưng cực kỳ kém trong việc duy trì tài sản, qua đó cho thấy hai kỹ năng kiếm và giữ tiền là hoàn toàn độc lập với nhau."
+    },
+    {
+      "id": "q3",
+      "question": "Trong bối cảnh đầu tư dài hạn, tại sao Morgan Housel nhấn mạnh rằng 'sự sinh tồn' (survival) là yếu tố quan trọng nhất thay vì việc đi tìm suất sinh lợi cao nhất?",
+      "options": [
+        "Bởi vì các khoản đầu tư an toàn luôn mang lại tỷ suất lợi nhuận vượt trội hơn mọi loại tài sản rủi ro.",
+        "Bởi vì việc bảo toàn vốn giúp nhà đầu tư tránh khỏi mọi khoản thuế thu nhập phát sinh từ thị trường.",
+        "Vì chỉ khi tồn tại đủ lâu qua các chu kỳ sụt giảm, kỳ diệu của lãi kép mới có không gian và thời gian phát huy.",
+        "Vì các cơ hội đầu tư tốt nhất chỉ xuất hiện khi thị trường chứng khoán sụp đổ hoàn toàn đối với mục tiêu thịnh vượng lâu dài."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự tích lũy chỉ mang lại hiệu quả kỳ diệu khi tài sản có đủ nhiều năm để phát triển, và điều đó chỉ xảy ra nếu nhà đầu tư có khả năng sinh tồn qua các biến động khắc nghiệt."
+    },
+    {
+      "id": "q4",
+      "question": "Bài học rút ra từ chiến lược đầu tư suốt cuộc đời của Warren Buffett theo góc nhìn về sự sinh tồn là gì?",
+      "options": [
+        "Ông luôn đi đầu trong việc áp dụng các công nghệ mới và các chiến lược giao dịch lướt sóng cực nhanh.",
+        "Ông chỉ đầu tư vào duy nhất một công ty duy nhất trong suốt hơn tám thập kỷ hoạt động trên thị trường.",
+        "Ông đạt được thành công nhờ vào việc tránh xa đòn bẩy quá mức và không bao giờ hoảng loạn bán tháo trong khủng hoảng.",
+        "Ông luôn sử dụng tiền vay từ các quỹ tín dụng lớn để tối đa hóa lợi nhuận trong mọi giai đoạn thị trường."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự thành công của Buffett đến từ việc ông không bị cuốn vào nợ nần, không hoảng sợ bán tháo trong 14 cuộc khủng hoảng và quan trọng nhất là ông đã tồn tại đủ lâu nhờ tuổi thọ."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao Rick Guerin - người có năng lực ngang ngửa Warren Buffett và Charlie Munger - lại thất bại và phải bán cổ phiếu giá rẻ trong khủng hoảng?",
+      "options": [
+        "Vì ông đã quá vội vã làm giàu và sử dụng các khoản vay ký quỹ (margin) khi thị trường sụt giảm mạnh.",
+        "Bởi vì ông thiếu kiến thức cơ bản về phân tích báo cáo tài chính của các doanh nghiệp lớn.",
+        "Do ông quyết định rút hoàn toàn khỏi thị trường chứng khoán để chuyển sang đầu tư vàng vật chất.",
+        "Bởi vì ông từ chối lắng nghe những lời khuyên từ các chuyên gia tài chính kỳ cựu trên phố Wall."
+      ],
+      "correctIndex": 1,
+      "explanation": "Rick Guerin thông minh không kém Buffett hay Munger nhưng lại vội vã và sử dụng đòn bẩy tài chính (vay ký quỹ), khiến ông mất ưu thế sinh tồn khi thị trường sụt giảm 70%."
+    },
+    {
+      "id": "q6",
+      "question": "Theo Nassim Taleb được trích dẫn trong chương, mối quan hệ giữa việc 'có được lợi thế' và 'sinh tồn' được hiểu như thế nào?",
+      "options": [
+        "Có được lợi thế là điều kiện cần và đủ để một nhà đầu tư chiến thắng hoàn toàn trên thị trường.",
+        "Sự sinh tồn không quan trọng bằng việc tìm kiếm các cơ hội đầu tư mang lại lợi thế cạnh tranh tuyệt đối.",
+        "Lợi thế giúp nhà đầu tư vượt qua mọi rủi ro hệ thống mà không cần quan tâm đến biên độ an toàn.",
+        "Để có được lợi thế trước tiên bạn cần phải sinh tồn, và phải tránh sự hủy hoại bằng mọi giá."
+      ],
+      "correctIndex": 3,
+      "explanation": "Taleb khẳng định để có được lợi thế thì trước hết bạn phải sinh tồn; việc tránh khỏi sự hủy hoại bằng mọi giá là nền tảng để tiếp tục tham gia cuộc chơi."
+    },
+    {
+      "id": "q7",
+      "question": "Trong thực tế đầu tư, việc nắm giữ tiền mặt trong giai đoạn thị trường tăng trưởng mạnh (bò tót) thường mang lại cảm giác gì cho nhà đầu tư?",
+      "options": [
+        "Cảm giác bảo thủ và tiếc nuối khi nhận thức rõ những khoản lợi nhuận đang bị bỏ lỡ từ cổ phiếu.",
+        "Cảm giác tự hào vì luôn tuân thủ tuyệt đối các nguyên tắc phân bổ tài sản an toàn nhất.",
+        "Cảm giác hưng phấn vì tài sản luôn tăng trưởng ổn định mà không gặp bất kỳ rủi ro nào.",
+        "Cảm giác lo lắng về việc lạm phát có thể làm mất giá trị thực của số tiền mặt đang nắm giữ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nắm giữ tiền mặt trong thị trường bò tót khiến bạn trông có vẻ bảo thủ và cảm thấy bứt rứt vì khoảng cách lợi nhuận bị bỏ lại so với những tài sản đang tăng giá mạnh."
+    },
+    {
+      "id": "q8",
+      "question": "Lợi ích thực sự của việc duy trì một khoản tiền mặt hoặc tài sản dự phòng trong danh mục đầu tư là gì?",
+      "options": [
+        "Giúp đánh bại tỷ suất sinh lợi trung bình của thị trường chứng khoán trong dài hạn.",
+        "Ngăn chặn việc phải bán các tài sản rủi ro trong lúc tuyệt vọng và đúng thời điểm tồi tệ nhất.",
+        "Tạo ra dòng thu nhập thụ động cao để trang trải các chi phí sinh hoạt hàng ngày.",
+        "Cho phép nhà đầu tư dễ dàng vay mượn thêm tiền từ các ngân hàng thương mại lớn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoản tiền mặt dự phòng có thể bảo vệ bạn khỏi việc buộc phải bán cổ phiếu trong lúc thị trường hoảng loạn, mang lại lợi ích cho lợi nhuận cả đời lớn hơn việc chọn tài sản thắng lớn."
+    },
+    {
+      "id": "q9",
+      "question": "Khái niệm 'biên độ an toàn' (room for error) trong lập kế hoạch tài chính có ý nghĩa chiến lược nào đối với cá nhân?",
+      "options": [
+        "Giúp loại bỏ hoàn toàn mọi rủi ro biến động có thể xảy ra trong nền kinh tế toàn cầu.",
+        "Làm gia tăng cơ hội thành công bằng cách nâng cao khả năng sinh tồn trước các kết quả bất ngờ.",
+        "Đảm bảo rằng các dự báo về thu nhập và lợi nhuận trong tương lai luôn chính xác tuyệt đối.",
+        "Cho phép nhà đầu tư tự do sử dụng đòn bẩy tài chính cao mà không sợ bị gọi ký quỹ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Biên độ an toàn không phải là sự tránh né rủi ro bảo thủ, mà là cách gia tăng cơ hội thành công ở bất kỳ mức rủi ro nào bằng cách nâng cao cơ hội sinh tồn qua các biến cố."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao các kế hoạch tài chính dài hạn thường thất bại khi tiếp xúc với thế giới thực?",
+      "options": [
+        "Vì tương lai luôn chứa đựng những sự kiện lớn lao không thể tiên liệu trước như khủng hoảng hay dịch bệnh.",
+        "Bởi vì con người thường thiếu kỷ luật trong việc thực hiện các bảng tính toán chi tiêu hàng ngày.",
+        "Do các ngân hàng trung ương liên tục thay đổi chính sách tiền tệ để kiểm soát lạm phát.",
+        "Bởi vì các mô hình toán học hiện đại không bao giờ tính đến yếu tố tâm lý hành vi của đám đông."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tương lai luôn đầy rẫy những điều chưa biết và không thể dự đoán (như chiến tranh, khủng hoảng, đại dịch), vì vậy kế hoạch tài chính cần phải có không gian cho sai lầm."
+    },
+    {
+      "id": "q11",
+      "question": "Lối suy nghĩ linh hoạt được Morgan Housel định nghĩa là sự kết hợp giữa hai trạng thái tâm lý nào?",
+      "options": [
+        "Bi quan tuyệt đối về hiện tại và lạc quan mù quáng về tương lai xa của thị trường trong các quyết định chi tiêu hàng ngày.",
+        "Thận trọng trong việc chi tiêu và mạo hiểm trong việc lựa chọn các danh mục đầu tư siêu rủi ro.",
+        "Tự tin vào năng lực cá nhân và hoài nghi về các phân tích từ các chuyên gia kinh tế hàng đầu một cách bền vững và nhất quán.",
+        "Lạc quan về tương lai dài hạn nhưng đồng thời lo sợ trước những chướng ngại vật có thể ngăn cản ta tới đó."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự linh hoạt là việc vừa lạc quan rằng quỹ đạo dài hạn đi lên, vừa có sự hoang tưởng/lo sợ ngắn hạn trước những chướng ngại vật để tồn tại đủ lâu đến đích."
+    },
+    {
+      "id": "q12",
+      "question": "Ví dụ về sự phát triển sinh học của bộ não con người (giảm kết nối synap ở tuổi trưởng thành) minh họa cho quy luật nào của kinh tế học?",
+      "options": [
+        "Việc cắt giảm chi tiêu cá nhân luôn là phương pháp duy nhất để gia tăng tài sản tích lũy trong các quyết định chi tiêu hàng ngày.",
+        "Mọi hệ thống tài chính đều phải trải qua chu kỳ suy thoái hoàn toàn trước khi tái sinh thành công trong quản trị tài chính cá nhân.",
+        "Sự phá hủy và mất mát trong ngắn hạn đôi khi là con đường tất yếu để tạo ra sự tiến triển và phát triển dài hạn.",
+        "Sự phức tạp trong cấu trúc não bộ quyết định trực tiếp đến khả năng đầu tư thành công của mỗi người."
+      ],
+      "correctIndex": 2,
+      "explanation": "Giống như việc dọn dẹp các liên kết synap thừa thãi để người 20 tuổi thông minh hơn, nền kinh tế và thị trường cũng tăng trưởng thông qua những mất mát và đào thải."
+    },
+    {
+      "id": "q13",
+      "question": "Dữ liệu lịch sử 170 năm của nền kinh tế Mỹ chứng minh điều gì về mối quan hệ giữa thảm họa, khủng hoảng và sự tăng trưởng mức sống?",
+      "options": [
+        "Sự tăng trưởng vượt bậc về mức sống vẫn diễn ra song hành cùng vô số cuộc chiến tranh, suy thoái và thảm họa.",
+        "Tiêu chuẩn sống chỉ có thể tăng trưởng ổn định trong các giai đoạn hoàn toàn không có chiến tranh hay dịch bệnh.",
+        "Các cuộc khủng hoảng kinh tế lớn luôn là nguyên nhân chính làm sụp đổ hoàn toàn hệ thống tư bản.",
+        "Nhà đầu tư có thể dễ dàng dự đoán trước thời điểm xảy ra các cuộc suy thoái lớn nhờ vào dữ liệu quá khứ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mặc dù trải qua hàng loạt chiến tranh, đại dịch, suy thoái và hàng trăm lần thị trường sụt giảm, tiêu chuẩn sống của Mỹ vẫn tăng gấp 20 lần trong 170 năm qua."
+    },
+    {
+      "id": "q14",
+      "question": "Bài học đắt giá mà Jesse Livermore rút ra sau khi đánh mất toàn bộ gia tài lần thứ hai trong cuộc đời ông là gì?",
+      "options": [
+        "Không bao giờ nên tham gia giao dịch chứng khoán trong các giai đoạn suy thoái kinh tế toàn cầu trong các quyết định chi tiêu hàng ngày.",
+        "Thị trường chứng khoán luôn có thể lực thao túng ngầm nhằm chống lại các nhà giao dịch lớn trong quản trị tài chính cá nhân.",
+        "Việc vay mượn tiền để đầu tư luôn an toàn hơn việc sử dụng nguồn vốn tự có của gia đình nhằm duy trì sự tự do và an tâm.",
+        "Sự tự phụ là một 'căn bệnh đắt giá' mà các nhà đầu cơ tài giỏi thường phải trả giá rất đắt để học cách tránh xa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Livermore nhận ra rằng việc làm giàu khiến ông cảm thấy mình bất khả chiến bại và sự tự phụ chính là một căn bệnh đắt giá ở mọi nơi dành cho mọi người."
+    },
+    {
+      "id": "q15",
+      "question": "Theo tư tưởng cốt lõi của chương này, yếu tố nào quyết định sự thành công bền vững của một nhà đầu tư cá nhân trên thị trường tài chính?",
+      "options": [
+        "Sở hữu các thuật toán phân tích kỹ thuật tiên tiến nhất để dự đoán chính xác đỉnh và đáy thị trường.",
+        "Việc tập trung toàn bộ vốn vào một cơ hội đầu tư duy nhất có tỷ suất sinh lợi đột biến trong ngắn hạn.",
+        "Khả năng kiểm soát cảm xúc, duy trì tính khiêm nhường và bảo vệ bản thân khỏi sự hủy hoại tài chính.",
+        "Sự hỗ trợ tài chính từ các quỹ đầu tư lớn và các mối quan hệ rộng rãi trên thị trường."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thành công tài chính không phải là khoa học cứng mà là kỹ năng mềm; khả năng sinh tồn, kiểm soát cảm xúc, khiêm nhường và quản trị rủi ro mới là yếu tố quyết định."
+    }
+  ]
+}

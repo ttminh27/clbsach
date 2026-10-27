@@ -1,0 +1,188 @@
+{
+  "bookId": "TamLyHocVeTien",
+  "chapterId": "21_tai_but",
+  "chapterTitle": "Tái bút: Lược sử lý do cho lối suy nghĩ của người tiêu dùng Mỹ",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo góc nhìn của Morgan Housel về tâm lý học tiền bạc, tại sao việc hiểu rõ bối cảnh lịch sử của người tiêu dùng Mỹ lại giúp chúng ta giải mã được các quyết định tài chính hiện đại?",
+      "options": [
+        "Vì hành vi tài chính định hình bởi kỳ vọng được nuôi dưỡng qua nhiều thế hệ.",
+        "Bởi vì lịch sử tài chính lặp lại chính xác từng chu kỳ và con số chi tiết.",
+        "Do các quy luật kinh tế vĩ mô luôn chi phối hoàn toàn cảm xúc cá nhân.",
+        "Vì chính phủ luôn kiểm soát được tâm lý chi tiêu của toàn bộ người dân."
+      ],
+      "correctIndex": 0,
+      "explanation": "Morgan Housel nhấn mạnh rằng tiền bạc không chỉ vận hành theo toán học mà bị chi phối mạnh mẽ bởi kỳ vọng văn hóa được hình thành qua nhiều thập kỷ. Phương án B chính xác vì kỳ vọng thay đổi chậm hơn thực tế kinh tế, tạo ra các quyết định chi tiêu và nợ nần mang tính thế hệ."
+    },
+    {
+      "id": "q2",
+      "question": "Khi đối mặt với giai đoạn hậu Thế chiến thứ II, các nhà hoạch định chính sách Mỹ đã chủ động khuyến khích người dân chuyển đổi từ tiết kiệm sang tiêu dùng. Điều này phản ánh điều gì về bản chất của các quyết định kinh tế vĩ mô?",
+      "options": [
+        "Sự hợp lý cảm xúc của xã hội trong từng thời kỳ định hình hành vi tài chính.",
+        "Các chính sách luôn tối ưu hóa tuyệt đối cho sự giàu có lâu dài của cá nhân.",
+        "Chính phủ chỉ quan tâm đến việc kiểm soát lạm phát mà bỏ quên tăng trưởng.",
+        "Mọi quyết định chi tiêu đều xuất phát từ sự tính toán lý tính thuần túy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong bối cảnh lịch sử cụ thể, việc thúc đẩy tiêu dùng là giải pháp mang tính 'hợp lý' (reasonable) để cứu nền khỏi suy thoái chứ không hẳn là tối ưu hóa toán học thuần túy. Tâm lý xã hội được uốn nắn bởi chính sách để phục vụ mục tiêu sống còn của nền kinh tế."
+    },
+    {
+      "id": "q3",
+      "question": "Hiện tượng bùng nổ tín dụng và nợ hộ gia đình trong những năm 1950 diễn ra suôn sẻ mà không gây ra khủng hoảng lớn chủ yếu là vì lý do tâm lý và kinh tế nào dưới đây?",
+      "options": [
+        "Chính phủ trực tiếp trả toàn bộ các khoản nợ mua nhà cho cựu chiến binh.",
+        "Người dân thời kỳ đó hoàn toàn không biết sợ các khoản nợ dài hạn.",
+        "Hệ thống ngân hàng áp dụng mức lãi suất thả nổi rất cao để kìm hãm chi tiêu.",
+        "Thu nhập tăng trưởng cực kỳ mạnh mẽ và đồng đều giúp gánh nặng nợ nhẹ nhàng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự gia tăng nợ trong giai đoạn này không phá hủy nền kinh tế vì thu nhập thực tế của đại đa số người dân tăng trưởng tương ứng và nền tảng nợ ban đầu rất thấp sau Đại suy thoái, tạo ra sự tự tin vững chắc thay vì hoảng loạn."
+    },
+    {
+      "id": "q4",
+      "question": "Sự cân bằng tương đối về lối sống giữa các tầng lớp xã hội trong giai đoạn 1945-1980 đã tạo ra hiệu ứng tâm lý gì đối với người dân Mỹ?",
+      "options": [
+        "Làm gia tăng sự đố kỵ cực độ giữa người giàu và người nghèo trong xã hội.",
+        "Buộc tất cả mọi người phải từ bỏ hoàn toàn mong muốn sở hữu nhà riêng.",
+        "Kìm hãm hoàn toàn động lực sáng tạo và phát triển kinh tế của tầng lớp trẻ.",
+        "Xây dựng một tiêu chuẩn kỳ vọng chung, nơi mọi người dễ dàng cảm thấy đủ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi khoảng cách lối sống không quá lớn và mọi người dùng chung các sản phẩm tương tự nhau, áp lực về địa vị xã hội được giảm bớt. Điều này giúp con người dễ dàng định nghĩa được khái niệm 'đủ' và giảm bớt sự so sánh tiêu cực."
+    },
+    {
+      "id": "q5",
+      "question": "Khi nền kinh tế chuyển dịch từ tăng trưởng bình đẳng sang bất bình đẳng sâu sắc từ những năm 1980 trở đi, sai lầm lớn nhất về mặt tâm lý mà phần lớn tầng lớp trung lưu mắc phải là gì?",
+      "options": [
+        "Họ lập tức giảm thiểu chi tiêu và tăng cường tiết kiệm gấp nhiều lần.",
+        "Họ thay đổi hoàn toàn kỳ vọng sống để phù hợp với thực tế thu nhập mới.",
+        "Họ vẫn giữ nguyên kỳ vọng lối sống cũ và dùng nợ để cố gắng bắt kịp.",
+        "Họ từ bỏ hoàn toàn giấc mơ sở hữu nhà ở và xe hơi cao cấp."
+      ],
+      "correctIndex": 2,
+      "explanation": "Morgan Housel chỉ ra rằng kỳ vọng di chuyển chậm hơn thực tế. Khi thu nhập không còn tăng đều nhưng mong muốn sống ngang bằng với người khác vẫn còn, người dân đã rơi vào bẫy sử dụng nợ vay để duy trì lối sống cũ, dẫn đến 'cú giãn lớn'."
+    },
+    {
+      "id": "q6",
+      "question": "Hiện tượng 'Bắt kịp nhà Joneses' (Keeping up with the Joneses) trong xã hội hiện đại được khuếch đại mạnh mẽ bởi yếu tố nào theo phân tích trong chương sách?",
+      "options": [
+        "Sự tiếp xúc liên tục với lối sống của người giàu qua mạng xã hội và truyền thông.",
+        "Sự minh bạch tuyệt đối và bình đẳng tuyệt đối về thu nhập giữa mọi tầng lớp.",
+        "Sự cô lập hoàn toàn của các cá nhân khỏi các phương tiện truyền thông đại chúng.",
+        "Chính sách cấm vay nợ tiêu dùng nghiêm ngặt của hệ thống ngân hàng trung ương."
+      ],
+      "correctIndex": 0,
+      "explanation": "Truyền thông cáp, mạng xã hội (Facebook, Instagram) khiến con người liên tục nhìn thấy sự giàu có vượt trội của một bộ phận nhỏ, kích hoạt lòng tham và sự bất mãn, giống như đổ dầu vào lửa đối với tâm lý so sánh địa vị."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao sự bất bình đẳng thu nhập kết hợp với các kỳ vọng lỗi thời lại dễ dẫn đến các phong trào xã hội cực đoan hoặc sự phẫn nộ chính trị?",
+      "options": [
+        "Vì người dân hiện đại không còn quan tâm đến các vấn đề kinh tế vĩ mô nữa.",
+        "Vì con người luôn cảm thấy bị tước đoạt thứ mà họ tin là mình xứng đáng có được.",
+        "Do chính phủ cố tình ép buộc mọi người phải sống theo tiêu chuẩn tối giản.",
+        "Bởi vì hệ thống giáo dục hiện đại dạy con người cách chấp nhận rủi ro tài chính."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi thực tế kinh tế không khớp với kỳ vọng hậu chiến (rằng ai cũng có thể sống một cuộc sống tương đương tầng lớp trung lưu ổn định), sự chênh lệch tạo ra cảm giác bất công sâu sắc, khiến con người muốn 'đập đi xây lại' bàn cờ kinh tế."
+    },
+    {
+      "id": "q8",
+      "question": "Trong tâm lý học đầu tư và quản lý tài sản, bài học cốt lõi rút ra từ việc kỳ vọng di chuyển chậm hơn thực tế kinh tế là gì?",
+      "options": [
+        "Luôn đầu tư toàn bộ tài sản vào các loại tài sản có độ rủi ro cao nhất có thể.",
+        "Xây dựng sự linh hoạt trong tư duy và kiểm soát cái tôi trước áp lực xã hội.",
+        "Tin tưởng tuyệt đối rằng thu nhập của bạn sẽ luôn tăng trưởng theo cấp số nhân.",
+        "Luôn bắt chước danh mục đầu tư của những người giàu nhất trên mạng xã hội."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thành công tài chính đòi hỏi kỹ năng mềm là sự kiềm chế cái tôi và điều chỉnh kỳ vọng cho phù hợp với thực tế thay vì cố gắng sống theo chuẩn mực áp đặt của người khác, điều này bảo vệ bạn khỏi thảm họa nợ nần."
+    },
+    {
+      "id": "q9",
+      "question": "Khi đối mặt với các cuộc khủng hoảng nợ như năm 2008, bản chất của hành vi con người thường lặp lại điều gì theo quy luật lịch sử tài chính?",
+      "options": [
+        "Chủ động giảm nợ ngay từ sớm trước khi thị trường kịp phát tín hiệu cảnh báo.",
+        "Chấp nhận vay nợ vượt quá khả năng chi trả cho đến khi chạm điểm rơi vỡ.",
+        "Luôn duy trì tỷ lệ nợ trên thu nhập ở mức an toàn dưới 20% trong mọi thời kỳ.",
+        "Từ bỏ hoàn toàn việc sử dụng tín dụng trong suốt phần đời còn lại của mình."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhà kinh tế học Hyman Minsky chỉ ra rằng sự ổn định tạo ra sự tự mãn, dẫn đến việc mọi người ngày càng chấp nhận nhiều khoản nợ hơn mức họ có thể chi trả cho đến khi cú sốc xảy ra, giống như nhân vật hoạt hình chạy khỏi vách đá."
+    },
+    {
+      "id": "q10",
+      "question": "Của cải thực sự theo tư tưởng xuyên suốt của Morgan Housel khác biệt như thế nào so với những gì người ta nhìn thấy qua lối sống xa hoa bên ngoài?",
+      "options": [
+        "Của cải thực sự là tổng giá trị tất cả các khoản vay tín dụng mà bạn được cấp.",
+        "Của cải là việc sở hữu căn nhà lớn nhất và chiếc xe đắt nhất trong khu phố.",
+        "Của cải là những thứ bạn chưa mua, những đồng tiền chưa tiêu và quyền tự do thời gian.",
+        "Của cải là khả năng chứng minh thu nhập cao của bạn cho đồng nghiệp thấy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Những hiện diện bề nổi như xe sang, nhà lớn thường là kết quả của nợ nần hoặc tiền đã tiêu đi (sự giàu có hiển thị). Của cải thực sự là sự tĩnh lặng tài chính, sự lựa chọn chưa tiêu tiền và tự do tự chủ trong cuộc sống."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao việc so sánh bản thân với những người ở phân vị cao hơn trong xã hội lại là một cái bẫy nguy hiểm đối với sự bình yên tài chính cá nhân?",
+      "options": [
+        "Vì nó luôn giúp bạn gia tăng thu nhập thực tế trong ngắn hạn.",
+        "Vì nó giúp bạn học hỏi được các chiến lược đầu tư mang lại lợi nhuận cao.",
+        "Vì nó kích hoạt nhu cầu tiêu dùng vô tận và làm lu mờ khái niệm 'đủ'.",
+        "Vì nó làm giảm đáng kể các khoản thuế thu nhập cá nhân mà bạn phải đóng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bẫy so sánh địa vị khiến mục tiêu tài chính trở thành một đích đến di động không bao giờ với tới. Khi bạn không biết điểm dừng ('đủ'), mọi nỗ lực kiếm tiền chỉ phục vụ cho việc duy trì ảo ảnh trước mắt."
+    },
+    {
+      "id": "q12",
+      "question": "Trong bối cảnh kinh tế nhiều biến động, việc duy trì 'khoảng trống cho sai lầm' (room for error) có ý nghĩa quyết định gì đối với sự sinh tồn tài chính?",
+      "options": [
+        "Giúp bạn tối đa hóa lợi nhuận đầu tư trong mọi thời điểm ngắn hạn.",
+        "Bảo vệ bạn trước những cú sốc bất ngờ khi thực tế không như kỳ vọng.",
+        "Cho phép bạn vay mượn tối đa mà không bao giờ phải lo lắng về lãi suất.",
+        "Đảm bảo bạn luôn mua được tài sản đúng vào thời điểm đáy của thị trường."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoảng trống cho sai lammation (biên độ an toàn) là chiếc phao cứu sinh duy nhất khi các sự kiện đuôi hoặc rủi ro vĩ mô bất ngờ ập đến, giúp bạn không bị phá sản bởi những kỳ vọng quá đà vào tương lai."
+    },
+    {
+      "id": "q13",
+      "question": "Sự khác biệt cơ bản giữa một quyết định mang tính 'hợp lý' (reasonable) và một quyết định 'tối ưu toán học' (rational) trong quản lý tiền bạc cá nhân là gì?",
+      "options": [
+        "Quyết định hợp lý luôn mang lại lợi nhuận cao nhất trên bảng tính Excel.",
+        "Không có sự khác biệt nào giữa hai khái niệm này trong thực tế đầu tư.",
+        "Quyết định tối ưu toán học luôn tính đến các yếu tố cảm xúc và cái tôi của con người.",
+        "Quyết định hợp lý là lựa chọn khả thi, dễ thực hiện và bền vững về mặt tâm lý."
+      ],
+      "correctIndex": 3,
+      "explanation": "Morgan Housel luôn nhắc nhở rằng con người không phải là cỗ máy toán học. Một chiến lược hoàn hảo trên lý thuyết (tối ưu) sẽ thất bại nếu bạn không có tâm lý kiên nhẫn để tuân thủ nó; vì thế, chọn phương án hợp lý với tâm lý bản thân quan trọng hơn."
+    },
+    {
+      "id": "q14",
+      "question": "Khi nhìn nhận về chu kỳ kinh tế và lịch sử tài chính, thái độ đúng đắn nhất của một nhà đầu tư thông thái là gì?",
+      "options": [
+        "Tin rằng các cuộc khủng hoảng đã vĩnh viễn biến mất nhờ công nghệ hiện đại.",
+        "Hoảng loạn bán tháo tài sản ngay khi thị trường xuất hiện dấu hiệu suy thoái.",
+        "Thừa nhận sự bất định, chuẩn bị tâm lý cho các biến động và duy trì tính linh hoạt.",
+        "Phó mặc hoàn toàn tài sản cho các chính sách kích thích kinh tế của chính phủ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lịch sử là 'hết chuyện chết tiệt này đến chuyện chết tiệt khác'. Nhà đầu tư khôn ngoan không cố dự đoán chính xác tương lai mà xây dựng năng lực sinh tồn, sự kiên nhẫn và linh hoạt thích ứng với mọi chu kỳ."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học lớn nhất về tâm lý học hành vi mà chúng ta có thể đúc kết từ toàn bộ tiến trình lịch sử tiêu dùng của người Mỹ là gì?",
+      "options": [
+        "Cách con người hành xử với tiền phản ánh khát vọng địa vị và kỳ vọng thế hệ.",
+        "Tiền bạc vận hành theo các công thức vật lý tuyệt đối không thể thay đổi.",
+        "Chính phủ có quyền năng tuyệt đối trong việc định hướng cảm xúc tiêu dùng.",
+        "Thu nhập cao chắc chắn đồng nghĩa với sự bình yên và hạnh phúc dài lâu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tiền bạc không chỉ là con số trên bảng tính mà là bức tranh phản chiếu tâm lý con người: lòng tham, nỗi sợ, khát vọng địa vị, cái tôi và những kỳ vọng được truyền đời qua các thế hệ xã hội."
+    }
+  ]
+}

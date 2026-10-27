@@ -1,0 +1,188 @@
+{
+  "bookId": "TamLyHocVeTien",
+  "chapterId": "00_gioi_thieu",
+  "chapterTitle": "Lời giới thiệu: Buổi trình diễn lớn nhất hành tinh",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo quan điểm của Morgan Housel trong chương này, điều gì là yếu tố quyết định lớn nhất đến sự thành công tài chính của một cá nhân?",
+      "options": [
+        "Trí thông minh vượt trội và các tấm bằng danh giá từ trường lớn.",
+        "Nền tảng toán học xuất sắc và các mô hình dự báo kinh tế chuẩn.",
+        "Khả năng kiểm soát hành vi và các kỹ năng mềm trong quản lý tiền.",
+        "Khả năng tiếp cận thông tin độc quyền và các mối quan hệ rộng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Morgan Housel khẳng định thành công tài chính không phụ thuộc nhiều vào việc bạn thông minh ra sao mà phụ thuộc vào cách bạn hành xử. Trí thông minh không cứu được một thiên tài vô kỷ luật như vị giám đốc công nghệ, trong khi kỹ năng mềm giúp người lao công bình thường như Ronald Read trở nên giàu có."
+    },
+    {
+      "id": "q2",
+      "question": "Qua câu chuyện đối lập giữa Ronald Read (người lao công) và Richard Fuscone (cựu giám đốc Merrill Lynch), tác giả muốn nhấn mạnh điều gì về bản chất của đầu tư?",
+      "options": [
+        "Đầu tư là môn khoa học thuần túy đòi hỏi kiến thức kinh doanh uyên bác.",
+        "Đầu tư là lĩnh vực hiếm hoi nơi kỹ năng mềm chiến thắng học thức chuyên sâu.",
+        "Sự giàu có bền vững chỉ đến với những người có học thức tài chính cao.",
+        "May mắn ngẫu nhiên là yếu tố duy nhất quyết định kết quả đầu tư dài hạn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả chỉ ra sự kỳ lạ của tài chính: một người không bằng cấp, không mối quan hệ như Ronald Read có thể chiến thắng cả một chuyên gia tài chính đào tạo từ Harvard như Richard Fuscone. Điều này chứng minh đầu tư không giống y học hay kiến trúc, mà là lĩnh vực nơi tâm lý và hành vi đóng vai trò quyết định."
+    },
+    {
+      "id": "q3",
+      "question": "Tại sao Morgan Housel cho rằng ngành tài chính thường dạy và nhìn nhận về tiền bạc sai lầm khi áp dụng các phương pháp giống như vật lý học?",
+      "options": [
+        "Vì tài chính vận hành theo các định luật tự nhiên bất biến và có thể tính toán.",
+        "Vì con người không phải lúc nào cũng hành xử lý trí theo các công thức toán học.",
+        "Vì các mô hình định lượng hiện đại luôn mang lại kết quả chính xác tuyệt đối.",
+        "Vì cảm xúc cá nhân không bao giờ ảnh hưởng đến các quyết định đầu tư lớn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vật lý được điều hướng bởi các định luật và quy tắc không tranh cãi, trong khi tài chính được điều hướng bởi hành vi con người. Một hành động có vẻ hợp lý với người này lại hoàn toàn điên rồ với người khác, khiến việc áp dụng máy móc các công thức toán học thường thất bại."
+    },
+    {
+      "id": "q4",
+      "question": "Hành vi ném những đồng xu vàng xuống biển chỉ để mua vui của vị giám đốc công nghệ phản ánh hiện tượng tâm lý nào trong quản lý tài sản?",
+      "options": [
+        "Sự tự tin thái quá phát xuất từ trí tuệ thiên bẩm và tư duy chiến lược cao.",
+        "Chiến lược phân bổ tài sản mạo hiểm nhằm tối đa hóa lợi nhuận ngắn hạn.",
+        "Sự pha trộn giữa cảm giác bất an sâu sắc và sự thiếu kiểm soát cảm xúc.",
+        "Phản ứng tâm lý tất yếu của những người đạt được tự do tài chính sớm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vị giám đốc công nghệ cực kỳ thành công nhưng lại có mối quan hệ với tiền bạc được mô tả là sự trộn lẫn giữa bất an và sự ngu ngốc của con người. Thiếu kiểm soát cảm xúc và cái tôi mong manh đã dẫn ông đến thảm họa tài chính dù sở hữu trí tuệ thiên tài."
+    },
+    {
+      "id": "q5",
+      "question": "Yếu tố cốt lõi nào đã giúp Ronald Read tích lũy được khối tài sản hơn 8 triệu đô la từ công việc lao công khiêm nhường?",
+      "options": [
+        "Sự am hiểu sâu sắc về các thuật toán tài chính và phân tích kỹ thuật thị trường.",
+        "Đầu tư lướt sóng ngắn hạn vào các cổ phiếu công nghệ có độ biến động cao.",
+        "Kiên nhẫn tiết kiệm, đầu tư vào cổ phiếu blue chip và chờ đợi qua nhiều thập kỷ.",
+        "Thắng cược các giải xổ số lớn và thừa kế những khoản tiền kếch xù từ gia đình."
+      ],
+      "correctIndex": 3,
+      "explanation": "Thực tế là Ronald Read không hề có bí mật lớn nào: ông chỉ tiết kiệm những gì có thể, đầu tư vào cổ phiếu blue chip và kiên nhẫn chờ đợi sức mạnh của thời gian và lãi kép phát huy tác dụng qua nhiều thập kỷ."
+    },
+    {
+      "id": "q6",
+      "question": "Nguyên nhân chính dẫn đến sự sụp đổ tài chính của Richard Fuscone trong cuộc khủng hoảng năm 2008 là gì?",
+      "options": [
+        "Sự thiếu hụt kiến thức chuyên môn về các công cụ phái sinh phức tạp.",
+        "Sự sụp đổ hoàn toàn của hệ thống y tế và an sinh xã hội tại bang Connecticut.",
+        "Quyết định đầu tư toàn bộ vốn vào một danh mục cổ phiếu duy nhất tại một thời điểm.",
+        "Sự kết hợp giữa đòn bẩy tài chính quá mức, tham vọng lớn và tài sản kém thanh khoản."
+      ],
+      "correctIndex": 3,
+      "explanation": "Fuscone đã vay mượn số tiền khổng lồ để mở rộng dinh thự và duy trì lối sống xa hoa. Khi khủng hoảng 2008 ập đến, khoản nợ lớn cùng tài sản kém thanh khoản đã biến tài sản của ông thành tro bụi, minh chứng cho sự khác biệt giữa việc kiếm tiền và giữ tiền."
+    },
+    {
+      "id": "q7",
+      "question": "Theo tác giả, tại sao các ngành như y học hay kỹ thuật có sự tiến bộ rõ rệt qua thời gian nhờ thử nghiệm và sai lầm, nhưng tài chính cá nhân thì không?",
+      "options": [
+        "Vì chúng ta thường tư duy về tiền bạc như vật lý học thay vì học cách quản trị tâm lý.",
+        "Vì lĩnh vực tài chính thiếu hoàn toàn các dữ liệu lịch sử để nghiên cứu và đúc kết.",
+        "Vì con người ít quan tâm đến tiền bạc hơn là sức khỏe và sự sống còn của bản thân.",
+        "Vì các ngân hàng trung ương luôn can thiệp làm sai lệch mọi kết quả đầu tư cá nhân."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ngành y học chiến thắng nhờ khoa học hiện đại thay thế các quan niệm cũ, trong khi tài chính vẫn luẩn quẩn vì chúng ta tiếp cận tiền bạc như vật lý học (quy tắc, định luật cứng nhắc) thay vì thừa nhận nó bị chi phối bởi tâm lý, cảm xúc và bản chất con người."
+    },
+    {
+      "id": "q8",
+      "question": "Khái niệm 'tâm lý học tiền tệ' (psychology of money) mà Morgan Housel đề cập nhắm đến mục đích chính nào đối với người đọc?",
+      "options": [
+        "Thuyết phục rằng các kỹ năng mềm quan trọng hơn khía cạnh lý thuyết khi ra quyết định.",
+        "Chứng minh rằng kiến thức lý thuyết về tài chính hoàn toàn vô dụng trong đời sống.",
+        "Cung cấp các công thức toán học phức tạp để dự báo chính xác thị trường chứng khoán.",
+        "Hướng dẫn cách thao túng tâm lý người khác để đạt được lợi ích kinh tế tối đa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mục đích của cuốn sách là sử dụng những câu chuyện ngắn để thuyết phục người đọc rằng các kỹ năng mềm (tâm lý học tiền tệ) quan trọng hơn khía cạnh lý thuyết của đồng tiền, giúp mọi người đưa ra quyết định tài chính thực tế đúng đắn hơn."
+    },
+    {
+      "id": "q9",
+      "question": "Khi nghiên cứu về cuộc khủng hoảng tài chính năm 2008, bài học lớn nhất mà tác giả nhận ra về hành vi con người là gì?",
+      "options": [
+        "Hiểu về lịch sử, tham gia của cảm xúc và sự bất an quan trọng hơn là tính toán lãi suất.",
+        "Mọi người luôn hành động dựa trên các phân tích lợi ích kinh tế hoàn toàn lý trí.",
+        "Các kỹ sư tài chính luôn là nguyên nhân duy nhất gây ra sự sụp đổ của hệ thống.",
+        "Thị trường tài chính hoàn toàn ngẫu nhiên và không thể rút ra bất kỳ bài học nào."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tác giả nhận ra để hiểu tại sao mọi người chìm trong nợ hay bán tháo lúc đáy, ta cần hiểu về tâm lý, tham gia của sự bất an, nỗi sợ và lịch sử loài người thay vì chỉ nhìn vào tỷ lệ lãi suất hay thuật toán lợi nhuận."
+    },
+    {
+      "id": "q10",
+      "question": "Câu nói của Voltaire được tác giả trích dẫn: 'Lịch sử không bao giờ tự lặp lại; nhưng con người thì có' ngụ ý điều gì trong đầu tư?",
+      "options": [
+        "Các biểu đồ giá cổ phiếu trong quá khứ sẽ lặp lại chính xác từng biên độ vào ngày mai.",
+        "Con người không bao giờ học hỏi được bất kỳ điều gì từ các bài học kinh tế lịch sử.",
+        "Các cuộc khủng hoảng kinh tế sẽ diễn ra theo đúng chu kỳ thời gian cố định hàng thập kỷ.",
+        "Bản chất tham lam, sợ hãi và sai lầm của con người trước đồng tiền luôn bất biến qua thời gian."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mặc dù bối cảnh kinh tế và công nghệ thay đổi liên tục, các đặc tính tâm lý của con người như sự tham lam, lạc quan mù quáng, sự bất an và nỗi sợ hãi vẫn luôn lặp lại, chi phối cách chúng ta cư xử với tiền bạc."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao tác giả lại chọn viết một cuốn sách gồm 20 chương ngắn, độc lập thay vì một chuyên khảo dài dòng hàng trăm trang về tài chính?",
+      "options": [
+        "Vì ông muốn che giấu sự thiếu hụt các dữ liệu nghiên cứu khoa học chuyên sâu.",
+        "Vì các nguyên lý tài chính cá nhân rất đơn giản và không có gì để bàn luận thêm.",
+        "Vì đa số độc giả thường bỏ dở sách dài, và các ý kiến ngắn dễ được đọc trọn vẹn hơn.",
+        "Vì các nhà xuất bản hiện đại chỉ đồng ý phát hành các ấn phẩm có dung lượng nhỏ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả chia sẻ quan điểm thực tế rằng phần lớn độc giả không hoàn thành những cuốn sách dài vì các chủ đề đơn lẻ không cần đến hàng trăm trang để diễn giải. Ông thà đưa ra các ý kiến ngắn gọn, súc tích mà người đọc có thể tiếp thu trọn vẹn."
+    },
+    {
+      "id": "q12",
+      "question": "Sự khác biệt căn bản giữa một tai nạn sập cầu do vật lý và một vụ sập đổ tài chính cá nhân nằm ở điểm nào?",
+      "options": [
+        "Vật lý không có tính quy luật rõ ràng, trong khi tài chính tuân theo định luật tuyệt đối.",
+        "Vật lý được định hướng bởi các định luật không tranh cãi, còn tài chính phụ thuộc vào hành vi con người.",
+        "Sập cầu luôn có thể dự báo trước chính xác đến từng giây, còn khủng hoảng tài chính thì không bao giờ.",
+        "Tài chính cá nhân chịu ảnh hưởng bởi thiên nhiên, còn kỹ thuật xây dựng chịu ảnh hưởng bởi tâm lý."
+      ],
+      "correctIndex": 1,
+      "explanation": "Các kỹ sư xác định nguyên nhân sập cầu vì vật lý không gây tranh cãi và được điều hướng bởi các định luật. Ngược lại, tài chính được điều hướng bởi hành vi con người - nơi hành động hợp lý với người này có thể hoàn toàn điên rồ với người khác."
+    },
+    {
+      "id": "q13",
+      "question": "Theo góc nhìn của tâm lý học hành vi, hiện tượng một người có học thức cao vẫn rơi vào cảnh phá sản vì đầu tư mạo hiểm cho thấy điều gì?",
+      "options": [
+        "Kiến thức chuyên môn tài chính không thể thay thế cho kỷ luật cảm xúc và sự khiêm nhường.",
+        "Học vấn cao đồng nghĩa với khả năng miễn dịch hoàn toàn trước các rủi ro tài chính.",
+        "Hệ thống giáo dục đại học hiện nay đang cung cấp những kiến thức sai lệch về kinh tế.",
+        "Sự giàu có chỉ đến với những người lao động chân tay như Ronald Read."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trường hợp của Richard Fuscone minh chứng rằng bằng cấp từ Harvard hay sự am hiểu tài chính sâu sắc không bảo vệ được một người nếu họ thiếu đi sự khiêm nhường, kỷ luật cảm xúc và khả năng quản trị cái tôi trước sức hút của địa vị."
+    },
+    {
+      "id": "q14",
+      "question": "Đâu là lăng kính mạnh mẽ nhất giúp con người giải thích vì sao mọi người lại có những hành vi cực đoan hoặc khác lạ với đồng tiền?",
+      "options": [
+        "Các mô hình toán học dự báo tỷ lệ lạm phát và tăng trưởng GDP toàn cầu.",
+        "Lịch sử hành vi loài người kết hợp với môn tâm lý học về sự tự tin, rủi ro và hạnh phúc.",
+        "Các báo cáo tài chính hàng quý của các tập đoàn đa quốc gia lớn nhất thế giới.",
+        "Chính sách tiền tệ và các quyết định lãi suất của các ngân hàng trung ương."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả nhấn mạnh tiền bạc cung cấp một lăng kính phóng to đầy quyền lực giúp giải thích vì sao mọi người hành xử như vậy, thông qua việc thấu hiểu các yếu tố tâm lý như rủi ro, sự tự tin, lòng tham và hạnh phúc."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp tổng quát mà Morgan Housel gửi gắm qua chương mở đầu này đối với những ai muốn đạt được sự thịnh vượng tài chính là gì?",
+      "options": [
+        "Hãy tập trung tích lũy kiến thức toán học thật uyên bác để tính toán chính xác mọi khoản đầu tư.",
+        "Hãy luôn bắt chước phong cách sống và chiến lược đầu tư của các CEO thành đạt từ các trường lớn.",
+        "Hãy rèn luyện kỹ năng mềm, kiểm soát cảm xúc, sống kiên nhẫn và quản lý hành vi bản thân trước tiên.",
+        "Hãy chờ đợi sự may mắn ngẫu nhiên và tránh xa mọi hình thức đầu tư vào thị trường chứng khoán."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thông điệp cốt lõi là thành công tài chính phụ thuộc vào kỹ năng mềm và cách hành xử (tâm lý học tiền tệ). Việc rèn luyện sự kiên nhẫn, kiểm soát cảm xúc và khiêm nhường quan trọng hơn nhiều so với việc sở hữu trí tuệ siêu việt hay bằng cấp cao."
+    }
+  ]
+}
