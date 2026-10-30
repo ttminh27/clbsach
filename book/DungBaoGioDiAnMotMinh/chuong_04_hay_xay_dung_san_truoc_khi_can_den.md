@@ -6,10 +6,9 @@
 
 > *Hãy xây dựng một cộng đồng nhỏ những người bạn yêu quý hay yêu quý bạn.*
 >
+> **— MITCH ALBOM**
 
 ---
-
-— MITCH ALBOM
 
 Nhắc tới xây dựng mạng lưới quan hệ chúng ta thường nghĩ ngay tới hình ảnh những gã thất nghiệp đang tuyệt vọng, chụp lấy bất cứ tấm danh thiếp nào gã nhìn thấy khi cố gắng tham gia vào các hội thảo doanh nghiệp hay các hội chợ việc làm. Hãy quên đi. Sai lầm lớn nhất trong “xây dựng mạng lưới" là bạn chỉ nghĩ tới người khác khi bạn cần một điều gì đó, ví dụ như cần việc làm. Trên thực tế, những người giao tiếp rộng và có nhiều bạn bè, đối tác, người đỡ đầu biết rằng bạn phải thiết lập mối quan hệ rất lâu trước khi bạn dám nhờ họ điều gì. George là một chàng thanh niên trong độ tuổi 20, rất nhanh nhẹn thông minh. Chúng tôi biết nhau thông qua một người bạn chung. George đang làm việc tại một công ty quan hệ công chúng tại New York và mong muốn sẽ mở công ty PR riêng. Anh ta mời tôi đi ăn trưa để hỏi xin ý kiến và tìm kiếm sự động viên. Chỉ cần sau 10 phút ngồi nói chuyện, tôi đã thấy ngay là anh ta đang áp dụng sai chiến lược. “Anh đã tìm kiếm những khách hàng tiềm năng chưa?” tôi hỏi.
 

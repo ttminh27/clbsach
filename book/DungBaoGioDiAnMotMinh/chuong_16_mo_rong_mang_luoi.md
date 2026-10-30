@@ -4,12 +4,7 @@
 
 ---
 
-> *Phương pháp hiệu quả nhất để mở rộng và tận dụng hết tiềm*
->
-
----
-
-năng của cộng đồng bạn bè, thật ra rất đơn giản, là hãy kết nối mạng lưới của bạn với mạng lưới của người khác. Tôi không suy nghĩ về mạng lưới theo nghĩa đen của từ này như cách những chú cá chí chóe với nhau trong tấm lưới. Mạng lưới, cũng giống như Internet, là một loạt những nút liên kết với nhau, các chiếc nút cùng hợp lực để củng cố và mở rộng cộng đồng liên kết nói chung.
+Phương pháp hiệu quả nhất để mở rộng và tận dụng hết tiềm năng của cộng đồng bạn bè, thật ra rất đơn giản, là hãy kết nối mạng lưới của bạn với mạng lưới của người khác. Tôi không suy nghĩ về mạng lưới theo nghĩa đen của từ này như cách những chú cá chí chóe với nhau trong tấm lưới. Mạng lưới, cũng giống như Internet, là một loạt những nút liên kết với nhau, các chiếc nút cùng hợp lực để củng cố và mở rộng cộng đồng liên kết nói chung.
 
 Sự hợp tác này bắt buộc bạn phải xem mỗi người trong mạng lưới của bạn như một đối tác. Giống như trong một doanh nghiệp mà người chủ phải chịu trách nhiệm nhiều mảng khác nhau trong công ty, các đối tác trong mạng lưới cũng giúp đỡ lẫn nhau, bằng cách mở rộng mạng lưới của riêng họ, hoặc chịu trách nhiệm phần mạng lưới thuộc quyền họ và cho phép người khác tiếp cận khi cần thiết. Nói cách khác, các đối tác này trao đổi mạng lưới cho nhau. Ranh giới giữa các mạng lưới luôn linh hoạt và thường xuyên rộng mở.
 

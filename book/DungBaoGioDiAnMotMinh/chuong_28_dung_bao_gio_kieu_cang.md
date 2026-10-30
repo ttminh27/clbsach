@@ -4,12 +4,7 @@
 
 ---
 
-> *Trong luận văn Ph.D (tiến sĩ) của tôi về xây dựng mạng lưới, tôi cố gắng đưa vào một số bài học rút ra từ một bậc thầy về nối kết con người. Nhưng tôi sẽ rất thiếu sót nếu không kể một câu chuyện đáng xấu hổ, tuy ngắn nhưng đã dạy tôi bài học quan trọng nhất ngay từ những ngày đầu khởi nghiệp.*
->
-
----
-
-Đây là một câu chuyện lưu ý bạn những gì không nên làm và những hành động không nên có.
+Trong luận văn Ph.D (tiến sĩ) của tôi về xây dựng mạng lưới, tôi cố gắng đưa vào một số bài học rút ra từ một bậc thầy về nối kết con người. Nhưng tôi sẽ rất thiếu sót nếu không kể một câu chuyện đáng xấu hổ, tuy ngắn nhưng đã dạy tôi bài học quan trọng nhất ngay từ những ngày đầu khởi nghiệp. Đây là một câu chuyện lưu ý bạn những gì không nên làm và những hành động không nên có.
 
 Theo đuổi một mạng lưới mạnh với những người bạn thân không phải là một việc xấu. Nhưng khi bạn càng tiệm cận với những người quyền lực, bạn có khuynh hướng cũng cảm thấy mình có uy. Đến một lúc nào đó việc làm quen với người khác diễn ra một cách rất tự nhiên; một nối kết quyền lực sẽ dẫn bạn đến với một người quyền lực khác, và cứ thế tiếp tục. Đây có thể là một hành trình thú vị, tích cực, và rất quan trọng.
 

@@ -4,12 +4,7 @@
 
 ---
 
-> *Những nhà chiến lược trong quân đội đều biết rằng đa số*
->
-
----
-
-những trận đánh đều đã phân định thắng bại trước cả khi nổ phát súng đầu tiên. Bên nào có quyền quyết định địa điểm, thời gian, cách tấn công thường đạt được ưu thế gần như tuyệt đối. Điều này cũng đúng với những cuộc hội thảo thành công. Biến cuộc hội thảo thành chiến trường của bạn và đề ra mục tiêu ngay từ đầu chính là cách biến sự ngẫu nhiên có mặt của bạn tại một cuộc hội thảo trở thành một sứ mệnh quan trọng.
+Những nhà chiến lược trong quân đội đều biết rằng đa số những trận đánh đều đã phân định thắng bại trước cả khi nổ phát súng đầu tiên. Bên nào có quyền quyết định địa điểm, thời gian, cách tấn công thường đạt được ưu thế gần như tuyệt đối. Điều này cũng đúng với những cuộc hội thảo thành công. Biến cuộc hội thảo thành chiến trường của bạn và đề ra mục tiêu ngay từ đầu chính là cách biến sự ngẫu nhiên có mặt của bạn tại một cuộc hội thảo trở thành một sứ mệnh quan trọng.
 
 Đừng đến hội thảo với tư cách một người tham dự bình thường; hãy biến mình thành một viên tướng hội thảo!
 

@@ -6,10 +6,9 @@
 
 > *Hãy bắt lấy phút giây này; bắt đầu ngay những gì anh có thể thực hiện, hoặc ước muốn thực hiện. Sự liều lĩnh táo bạo mang theo nó nguồn cảm hứng, sức mạnh, và ma thuật.*
 >
+> **— JOHANN WOLFGANG VON GOETHE**
 
 ---
-
-— JOHANN WOLFGANG VON GOETHE
 
 Cha tôi, Pete Ferrazzi, là thế hệ người Mỹ đầu tiên, một thủy thủ hải quân trong Chiến tranh Thế giới II, một người thợ lò thép thất học sống trong thế giới lao động khổ cực mà đồng lương vẫn thấp. Ông muốn con trai mình phải được hưởng nhiều hơn. Khi tôi lớn lên, hai cha con như hình với bóng (các chú bác bạn của cha vẫn gọi tôi là “re-Pete” vì tôi cứ lẽo đẽo theo cha đi khắp mọi nơi). Ông biết rằng cuộc đời tôi sẽ khá hơn nếu tôi thoát được kiếp sống công nhân.
 

@@ -6,14 +6,13 @@
 
 > *“Làm ơn cho tôi biết tôi phải đi theo hướng nào?” “Cái đó còn tùy thuộc bạn muốn đi đâu nữa cơ,” chú Mèo trả lời.*
 >
+> *“Tôi không cần biết nơi nào...” Alice nói.*
+>
+> *“Vậy thì bạn đi đường nào cũng có khác gì đâu,” chú Mèo trả lời.*
+>
+> **— Alice lạc vào xứ sở thần tiên, LEWIS CARROLL.**
 
 ---
-
-“Tôi không cần biết nơi nào...” Alice nói.
-
-“Vậy thì bạn đi đường nào cũng có khác gì đâu,” chú Mèo trả lời.
-
-— Alice lạc vào xứ sở thần tiên, LEWIS CARROLL.
 
 Bạn muốn trở thành giám đốc doanh nghiệp hay một đại biểu quốc hội? Bạn muốn đứng đầu trong ngành hay chỉ cần là chủ tịch hội phụ huynh tại trường của con bạn? Bạn muốn kiếm nhiều tiền hay kiếm nhiều bạn?
 
