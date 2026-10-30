@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_09_Tra_loi_mot_cau_hoi_de",
+  "chapterTitle": "Chương 9. Trả lời một câu hỏi dễ",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi đối mặt với một câu hỏi phức tạp nhưng trí não không tìm ra đáp án ngay lập tức, Hệ thống 1 thường xử lý theo phương thức nào?",
+      "options": [
+        "Hệ thống 1 sẽ kích hoạt Hệ thống 2 lập tức.",
+        "Hệ thống 1 tìm kiếm câu hỏi dễ hơn để trả lời.",
+        "Hệ thống 1 tạm dừng hoạt động và chờ đợi lâu.",
+        "Hệ thống 1 tự động bỏ qua và từ chối suy nghĩ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo Daniel Kahneman, khi gặp câu hỏi phức tạp, Hệ thống 1 sẽ tự động áp dụng chiến lược 'suy nghiệm' bằng cách thay thế câu hỏi mục tiêu khó khăn bằng một câu hỏi cảm tính dễ hơn mà nó đã sẵn có câu trả lời trong đầu."
+    },
+    {
+      "id": "q2",
+      "question": "Hiện tượng 'súng săn trí óc' (shotgun gun) trong hoạt động của trí não thể hiện đặc điểm nào sau đây?",
+      "options": [
+        "Tính toán chính xác mọi khía cạnh của một vấn đề.",
+        "Chỉ tập trung vào thông tin hiện tại và bỏ qua tương lai.",
+        "Tính toán nhiều hơn mức cần thiết và tự động đưa ra ý kiến.",
+        "Luôn kiểm soát chặt chẽ các phản ứng cảm xúc bản năng."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Súng săn trí óc' là đặc điểm của Hệ thống 1 khi nó thực hiện nhiều hành động tính toán và phản ứng hơn mức chủ định, tạo ra câu trả lời nhanh chóng cho các vấn đề khó mà không cần sự nỗ lực từ Hệ thống 2."
+    },
+    {
+      "id": "q3",
+      "question": "Cơ chế 'phù hợp cường độ' (intensity matching) đóng vai trò gì trong quá trình thay thế câu hỏi của Hệ thống 1?",
+      "options": [
+        "Giúp loại bỏ hoàn toàn các sai lệch cảm xúc khi ra quyết định.",
+        "Giúp cân bằng năng lượng tiêu thụ giữa hai hệ thống tư duy.",
+        "Giúp đo lường chính xác mức độ khó khăn của câu hỏi mục tiêu.",
+        "Giúp chuyển đổi cảm xúc từ câu hỏi dễ sang định dạng của câu hỏi gốc."
+      ],
+      "correctIndex": 3,
+      "explanation": "Phù hợp cường độ cho phép các giá trị từ câu hỏi dễ (như mức độ cảm xúc về một vấn đề) được ánh xạ trực tiếp sang thang đo của câu hỏi khó (như số tiền sẵn sàng đóng góp), tạo ra một câu trả lời ăn khớp một cách tự nhiên."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao Hệ thống 2 thường chấp nhận các câu trả lời suy nghiệm do Hệ thống 1 cung cấp mà ít khi phản kháng?",
+      "options": [
+        "Vì Hệ thống 2 bản chất lười biếng và ưa con đường ít tốn năng lượng.",
+        "Vì Hệ thống 2 luôn đồng ý với mọi phán đoán cảm tính.",
+        "Vì Hệ thống 2 không đủ năng lực để nhận ra lỗi sai logic.",
+        "Vì Hệ thống 2 bị Hệ thống 1 vô hiệu hóa hoàn toàn ý chí."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 2 có đặc tính lười biếng, luôn cố gắng tiết kiệm năng lượng nhận thức. Do đó, khi Hệ thống 1 đưa ra một câu trả lời trực giác hợp lý sẵn có, Hệ thống 2 thường xuôi theo mà không kiểm tra kỹ lưỡng."
+    },
+    {
+      "id": "q5",
+      "question": "Trong thí nghiệm về ảo giác kích thước 3D (Hình 9), nguyên nhân chính khiến con người đánh giá sai kích thước thực tế trên giấy là gì?",
+      "options": [
+        "Do thị lực của người tham gia thí nghiệm bị suy giảm nghiêm trọng.",
+        "Do ấn tượng về không gian ba chiều đã lấn át hình ảnh hai chiều phẳng.",
+        "Do người tham gia cố tình đưa ra câu trả lời sai lệch để thử nghiệm.",
+        "Do các đường ray xe lửa được vẽ bằng màu sắc quá sặc sỡ và đánh lừa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống giác quan tự động giải mã bức tranh thành không gian 3D, khiến ấn tượng về chiều sâu lấn át và làm lu mờ nhận thức về kích thước thực tế phẳng trên giấy in, minh họa cho cơ chế thay thế."
+    },
+    {
+      "id": "q6",
+      "question": "Kết quả khảo sát về hạnh phúc và số lần hẹn hò của sinh viên Đức đã minh họa rõ nét cho hiện tượng tâm lý nào?",
+      "options": [
+        "Hiệu ứng hào quang kéo dài trong các mối quan hệ xã hội.",
+        "Sự suy giảm trí nhớ ngắn hạn khi phải đối mặt với câu hỏi khó.",
+        "Sự thay thế câu hỏi dựa trên tâm trạng hiện thời vừa được kích hoạt.",
+        "Tác động tiêu cực của việc thiếu hụt các mối quan hệ lãng mạn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thứ tự câu hỏi thay đổi đã kích hoạt cảm xúc về đời sống tình cảm (cô đơn hay hạnh phúc), tạo ra tâm trạng chi phối trực tiếp đến câu trả lời cho câu hỏi chung về mức độ hạnh phúc tiếp theo."
+    },
+    {
+      "id": "q7",
+      "question": "Khái niệm 'hiệu ứng suy nghiệm' (affect heuristic) do Paul Slovic đề xuất mô tả hiện tượng nào dưới đây?",
+      "options": [
+        "Con người sử dụng logic khoa học để đánh giá mọi rủi ro xã hội.",
+        "Con người dùng cảm xúc thích hoặc không thích để định hình niềm tin.",
+        "Con người luôn thay đổi quan điểm sau khi tiếp nhận thông tin mới.",
+        "Con người từ bỏ mọi sở thích cá nhân để đưa ra quyết định khách quan."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiệu ứng suy nghiệm là hiện tượng mọi người sử dụng cảm xúc (thích hoặc không thích) làm cơ sở chính để xác định niềm tin, đánh giá lợi ích và rủi ro của các vấn đề xung quanh họ."
+    },
+    {
+      "id": "q8",
+      "question": "Trong cơ chế hoạt động của hiệu ứng suy nghiệm, khi một người không thích một công nghệ mới (như năng lượng hạt nhân), họ sẽ có xu hướng đánh giá như thế nào?",
+      "options": [
+        "Hoàn toàn phớt lờ cả rủi ro lẫn lợi ích để giữ thái độ trung lập.",
+        "Đánh giá rủi ro rất thấp nhưng lợi ích mang lại cực kỳ khổng lồ.",
+        "Đánh giá cả rủi ro và lợi ích đều ở mức cân bằng hoàn hảo.",
+        "Đánh giá rủi ro rất cao và lợi ích mang lại rất thấp không đáng kể."
+      ],
+      "correctIndex": 3,
+      "explanation": "Do ảnh hưởng của cảm xúc tiêu cực ban đầu (không thích), Hệ thống 1 sẽ đẩy niềm tin theo chiều hướng phóng đại rủi ro và xem nhẹ lợi ích của đối tượng đó."
+    },
+    {
+      "id": "q9",
+      "question": "Trong một số hoàn cảnh nhất định, Hệ thống 2 thường đóng vai trò gì đối với các cảm xúc và trực giác của Hệ thống 1?",
+      "options": [
+        "Một nhà phê bình nghiêm khắc luôn vạch trần mọi lỗi lầm tư duy.",
+        "Một nhà biện hộ và bảo lãnh cho các cảm xúc thay vì là nhà chỉ trích.",
+        "Một trung tâm điều khiển vô cảm hoàn toàn tách biệt với cảm xúc.",
+        "Một công cụ thống kê tuyệt đối khách quan không bị chi phối."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 2 đôi khi hành xử giống như một nhà biện hộ bảo vệ cho cảm xúc của Hệ thống 1, tìm kiếm thông tin và lập luận để củng cố niềm tin hiện tại thay vì kiểm tra tính khách quan của chúng."
+    },
+    {
+      "id": "q10",
+      "question": "Phát biểu nào sau đây diễn tả chính xác nhất về bản chất của 'câu hỏi cảm tính' trong tiến trình tư duy?",
+      "options": [
+        "Đó là câu hỏi dễ hơn mà trí não tự động trả lời thay cho câu hỏi gốc.",
+        "Đó là câu hỏi mục tiêu cực kỳ phức tạp đòi hỏi nhiều thời gian suy nghĩ.",
+        "Đó là câu hỏi thuần túy mang tính toán học và logic không có cảm xúc.",
+        "Đó là câu hỏi do Hệ thống 2 thiết kế ra nhằm kiểm tra năng lực cá nhân."
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu hỏi cảm tính là khái niệm chỉ câu hỏi đơn giản hơn mà Hệ thống 1 tự động chọn để trả lời nhằm thay thế cho câu hỏi mục tiêu phức tạp mà nó không có sẵn đáp án."
+    },
+    {
+      "id": "q11",
+      "question": "Khi một nhà quản lý dự đoán giá trị tương lai của công ty chỉ dựa hoàn toàn vào năng suất lao động năm ngoái, đây là ví dụ về điều gì?",
+      "options": [
+        "Một phương pháp dự báo tài chính khoa học và tối ưu nhất.",
+        "Một quyết định được kiểm soát hoàn toàn bởi logic của Hệ thống 2.",
+        "Một chiến lược suy nghiệm thay thế câu hỏi phức tạp bằng câu hỏi dễ.",
+        "Một biểu hiện của sự từ bỏ tư duy chiến lược trong kinh doanh."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thay vì thực hiện một phân tích định giá phức tạp trong nhiều năm, trí não đã thay thế bằng một câu hỏi dễ hơn liên quan đến dữ liệu sẵn có gần nhất (năng suất năm ngoái), đây là một dạng suy nghiệm điển hình."
+    },
+    {
+      "id": "q12",
+      "question": "Đặc điểm nào dưới đây KHÔNG phải là thuộc tính của Hệ thống 1 được liệt kê trong chương?",
+      "options": [
+        "Hoạt động tự động và nhanh với rất ít hoặc không cần nỗ lực.",
+        "Phóng đại cảm xúc kiên định thông qua hiệu ứng hào quang.",
+        "Tập trung vào hiện thực tồn tại và phớt lờ hiện thực vắng mặt.",
+        "Thực hiện các phân tích logic phức tạp, chậm rãi và có kiểm soát."
+      ],
+      "correctIndex": 3,
+      "explanation": "Thực hiện các phân tích logic phức tạp, chậm rãi và có kiểm soát là đặc trưng cốt lõi của Hệ thống 2, không phải của Hệ thống 1."
+    },
+    {
+      "id": "q13",
+      "question": "Hiện tượng con người đưa ra các nhận định tự tin về những vấn đề mình không hiểu rõ xuất phát từ nguyên nhân nhận thức nào?",
+      "options": [
+        "Hệ thống 1 luôn sẵn có các câu trả lời trực giác và phớt lờ sự mơ hồ.",
+        "Trí não luôn duy trì sự hoài nghi cao độ trước mọi thông tin mới.",
+        "Hệ thống 2 luôn làm việc quá tải để tìm kiếm thông tin xác thực.",
+        "Con người có khả năng thấu thấu hiểu toàn bộ mọi khía cạnh của thế giới."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 có xu hướng phớt lờ sự khó hiểu, nén chặt sự nghi ngờ và luôn tạo ra các câu trả lời trực giác ngay lập tức, khiến con người hiếm khi cảm thấy bối rối hay thiếu chắc chắn."
+    },
+    {
+      "id": "q14",
+      "question": "Trong bối cảnh ra quyết định đầu tư hoặc chính sách, việc hiểu rõ cơ chế 'suy nghiệm câu hỏi thay thế' mang lại lợi ích gì?",
+      "options": [
+        "Giúp nhận biết cạm bẫy tư duy khi não bộ tự động đơn giản hóa vấn đề.",
+        "Giúp loại bỏ hoàn toàn cảm xúc để không bao giờ mắc sai lầm nữa.",
+        "Giúp tăng tốc độ ra quyết định dựa trên cảm giác trực giác ban đầu.",
+        "Giúp buộc người khác phải tuân theo các lập luận logic cá nhân."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hiểu được cơ chế này giúp chúng ta tự soi chiếu, nhận diện khi nào bản thân hoặc người khác đang bị đánh lừa bởi các câu hỏi dễ thay thế để chủ động kích hoạt Hệ thống 2 phân tích kỹ hơn."
+    },
+    {
+      "id": "q15",
+      "question": "Câu hỏi nào sau đây thể hiện đúng nhất tinh thần cảnh giác với 'hiệu ứng suy nghiệm' theo lời khuyên của Daniel Kahneman?",
+      "options": [
+        "Chúng ta hãy tin tưởng hoàn toàn vào trực giác mạnh mẽ ban đầu.",
+        "Làm thế nào để áp đặt cảm xúc cá nhân vào quyết định quản lý?.",
+        "Chúng ta còn nhớ câu hỏi gốc không, hay đã thay bằng câu hỏi dễ?.",
+        "Tại sao không chọn phương án đơn giản và nhanh chóng nhất?."
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu hỏi 'Chúng ta còn nhớ câu hỏi mà chúng ta đang cố gắng tìm câu trả lời không? Hay chúng ta đã thay thế câu hỏi ấy bằng một câu hỏi dễ hơn rồi?' là công cụ tự vấn quan trọng để chống lại thiên kiến suy nghiệm."
+    }
+  ]
+}

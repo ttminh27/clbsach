@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_14_Luan_de_ve_Tom_W",
+  "chapterTitle": "Chương 14. Luận đề về Tom W",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi đối mặt với bài toán dự đoán chuyên ngành của Tom W dựa trên bản mô tả tính cách chi tiết, hiện tượng tâm lý nào sau đây giải thích việc đa số người tham gia (kể cả chuyên gia thống kê) hoàn toàn bỏ qua thông tin về hệ số gốc?",
+      "options": [
+        "Hệ thống 2 chủ động kích hoạt quy luật xác suất thống kê để thay thế trực giác cảm tính.",
+        "Hệ thống 1 tính toán chính xác tần suất xuất hiện dựa trên quy luật số lớn của đám đông.",
+        "Hệ thống 2 phân tích sâu sắc cấu trúc dữ liệu và điều chỉnh mỏ neo theo tỷ suất gốc.",
+        "Hệ thống 1 tự động tìm kiếm sự tương đồng mô thức và gạt bỏ yếu tố thống kê nền tảng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hệ thống 1 hoạt động tự động và nhanh chóng, tạo ra ấn tượng về sự tương đồng giữa miêu tả cá nhân và khuôn mẫu nghề nghiệp, khiến con người tự động thay thế câu hỏi xác suất khó bằng câu hỏi mô thức dễ, dẫn đến việc lờ đi hệ số gốc."
+    },
+    {
+      "id": "q2",
+      "question": "Trong thí nghiệm với các sinh viên Harvard về bài toán Tom W, nhóm sinh viên được yêu cầu cau mày trong lúc làm bài lại nhạy cảm hơn với hệ số gốc so với nhóm phùng má. Điều này chứng minh điều gì về cơ chế tư duy?",
+      "options": [
+        "Hành động cau mày kích hoạt sự cảnh giác và nỗ lực kiểm soát của Hệ thống 2.",
+        "Hành động cau mày làm tê liệt hoàn toàn hoạt động trực giác bẩm sinh của Hệ thống 1.",
+        "Hành động phùng má giúp tối ưu hóa khả năng phân tích dữ liệu xác suất của sinh viên.",
+        "Hành động phùng má làm giảm sự tập trung nhưng thúc đẩy tư duy logic cấp cao."
+      ],
+      "correctIndex": 0,
+      "explanation": "Việc cau mày là biểu hiện vật lý thường làm tăng sự đề phòng và kích hoạt Hệ thống 2, giúp giảm thiểu sự tự tin thái quá vào trực giác và buộc người ta phải nỗ lực huy động thông tin hệ số gốc."
+    },
+    {
+      "id": "q3",
+      "question": "Nguyên lý WYSIATI (What You See Is All There Is - Những gì bạn thấy là tất cả những gì có) ảnh hưởng như thế nào đến phán đoán của con người trong các tình huống đánh giá năng lực nhân sự?",
+      "options": [
+        "Nó thúc đẩy con người tìm kiếm thêm thông tin ẩn giấu trước khi đưa ra kết luận cuối cùng.",
+        "Nó giúp Hệ thống 2 lọc bỏ các dữ liệu nhiễu loạn và tập trung vào các hệ số gốc cốt lõi.",
+        "Nó khiến bộ não mặc định xử lý những thông tin có sẵn như thể chúng hoàn toàn đúng sự thật.",
+        "Nó tạo ra sự nghi ngờ lành mạnh đối với mọi bản báo cáo miêu tả tính cách cá nhân."
+      ],
+      "correctIndex": 2,
+      "explanation": "Do nguyên tắc WYSIATI, Hệ thống 1 không phân biệt được chất lượng của dấu hiệu; nó xử lý mọi thông tin hiện diện trước mắt như thể chúng hoàn toàn chính xác, khiến con người dễ mắc sai lầm khi đánh giá."
+    },
+    {
+      "id": "q4",
+      "question": "Khi một nhà quản lý tuyển dụng chọn ứng viên chỉ dựa trên vẻ ngoài chỉnh tề, phong thái tự tin và cách nói chuyện cuốn hút mà bỏ qua dữ liệu lịch sử hiệu suất làm việc, họ đang rơi vào cái bẫy tư duy nào?",
+      "options": [
+        "Áp dụng triệt để phương pháp luận theo trường phái xác suất Bayes hiện đại.",
+        "Sử dụng hiệu quả quy luật suy nghiệm mô thức thay thế cho dữ liệu thống kê.",
+        "Tận dụng tối đa năng lực phán đoán siêu việt của Hệ thống 2 trong việc đánh giá.",
+        "Phân tích kỹ lưỡng các hệ số gốc về năng lực thực tế trước khi ra quyết định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là biểu hiện của suy nghiệm theo mô thức (representativeness heuristic), nơi người ra quyết định đánh giá khả năng thành công dựa trên mức độ tương đồng giữa hình ảnh ứng viên và khuôn mẫu có sẵn, thay vì nhìn vào số liệu thống kê."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao việc ước lượng xác suất trong ngôn ngữ hàng ngày thường không làm người ta bối rối hay thắc mắc về định nghĩa, khác hẳn với các khái niệm trừu tượng xa lạ?",
+      "options": [
+        "Bởi vì con người luôn thực hiện các tính toán xác suất theo chuẩn mực toán học nghiêm ngặt.",
+        "Bởi vì khái niệm xác suất vốn dĩ rất đơn giản và không bao giờ gây ra tranh cãi logic.",
+        "Bởi vì các nhà thống kê học đã giải thích tường tận ý nghĩa của xác suất cho đại chúng.",
+        "Bởi vì câu hỏi xác suất kích hoạt khẩu súng tinh thần đưa ra câu trả lời cho một câu hỏi mô thức dễ hơn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi được hỏi về xác suất hoặc khả năng xảy ra, bộ não không thực sự tính toán theo toán học mà kích hoạt khẩu súng tinh thần, chuyển hóa câu hỏi khó thành câu hỏi dễ hơn về sự tương đồng mô thức."
+    },
+    {
+      "id": "q6",
+      "question": "Trong bối cảnh ra quyết định đầu tư kinh doanh, nếu một dự án khởi nghiệp có vẻ ngoài hoàn hảo, sản phẩm hào nhoáng nhưng hệ số gốc thành công trong ngành đó cực kỳ thấp, nhà quản lý khôn ngoan nên làm gì?",
+      "options": [
+        "Tập trung hoàn toàn vào sự hoàn hảo của bản mô tả sản phẩm để ra quyết định.",
+        "Neo đậu phán đoán của mình dựa trên hệ số gốc thành công thấp của toàn ngành.",
+        "Tin tưởng tuyệt đối vào trực giác mô thức rằng dự án này chắc chắn sẽ thành công.",
+        "Bỏ qua mọi số liệu lịch sử ngành vì mỗi dự án khởi nghiệp đều hoàn toàn độc lập."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi hệ số gốc của thành công quá thấp và các dấu hiệu ban đầu không có chất lượng cao, nhà quản lý phải bám lấy các hệ số gốc và giữ sự hoài nghi thay vì bị lừa bởi vẻ bề ngoài hào nhoáng."
+    },
+    {
+      "id": "q7",
+      "question": "Phát biểu nào sau đây phản ánh chính xác nhất bản chất của sự lười biếng của Hệ thống 2 khi đối mặt với các bài toán đánh giá xác suất có chứa thông tin mô tả chi tiết?",
+      "options": [
+        "Hệ thống 2 hoàn toàn không biết gì về sự tồn tại hay vai trò quan trọng của các hệ số gốc.",
+        "Hệ thống 2 biết hệ số gốc có liên quan nhưng lười huy động nỗ lực để ứng dụng vào công việc.",
+        "Hệ thống 2 luôn luôn chiến thắng Hệ thống 1 trong việc kiểm soát các phán đoán trực giác.",
+        "Hệ thống 2 tự động tạo ra các khuôn mẫu nghề nghiệp mà không cần sự tham gia của Hệ thống 1."
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo tác giả, Hệ thống 2 'biết' rằng các hệ số gốc có liên quan, nhưng để ứng dụng tri thức đó vào việc phán đoán thì đòi hỏi sự nỗ lực lớn, và sự lười biếng của Hệ thống 2 khiến nó chấp nhận kết quả mô thức do Hệ thống 1 dọn sẵn."
+    },
+    {
+      "id": "q8",
+      "question": "Phương pháp thống kê theo phái Bayes cung cấp bài học cốt lõi nào cho việc cải thiện chất lượng phán đoán và ra quyết định của con người?",
+      "options": [
+        "Luôn luôn bỏ qua niềm tin ban đầu để hoàn toàn tin tưởng vào các dấu hiệu mới xuất hiện.",
+        "Cường đại hóa ấn tượng trực giác để tạo ra những câu chuyện hấp dẫn và gắn kết hơn.",
+        "Kết hợp hài hòa giữa việc neo đậu niềm tin vào hệ số gốc hợp lý và đánh giá khách quan chứng cứ.",
+        "Loại bỏ hoàn toàn mọi dữ liệu thống kê lịch sử để chỉ dựa vào cảm nhận tình huống."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lập luận theo phái Bayes định rõ hai ý niệm chính: neo đậu xét định xác suất dựa trên hệ số gốc hợp lý và đánh giá đúng mức độ chẩn đoán của chứng cứ mới mà không bị cường điệu hóa."
+    },
+    {
+      "id": "q9",
+      "question": "Trong câu chuyện về Billy Beane và đội bóng Oakland A (được kể trong cuốn Moneyball), thành công đến từ việc lựa chọn cầu thủ dựa trên điều gì thay vì dựa vào vẻ bề ngoài và khuôn mẫu truyền thống?",
+      "options": [
+        "Dựa vào số liệu thống kê thành tích trong quá khứ mà các đội bóng khác bỏ qua.",
+        "Dựa vào các bản miêu tả tính cách chi tiết do các chuyên gia tâm lý học cung cấp.",
+        "Dựa vào ấn tượng trực giác tức thời của các nhà tìm kiếm tài năng giàu kinh nghiệm.",
+        "Dựa vào ngoại hình cao lớn và phong thái chuyên nghiệp của từng vận động viên."
+      ],
+      "correctIndex": 0,
+      "explanation": "Billy Beane đã phớt lờ phương pháp dự đoán qua mô thức truyền thống (dựa vào hình thể và diện mạo) để lựa chọn cầu thủ dựa trên các số liệu thống kê thành tích quá khứ, giúp đạt hiệu quả cao với chi phí thấp."
+    },
+    {
+      "id": "q10",
+      "question": "Sai phạm thứ hai của mô thức được tác giả chỉ ra là gì khi con người đánh giá xác suất của một biến cố dựa trên các thông tin sẵn có?",
+      "options": [
+        "Sự nhạy bén tuyệt vời với chất lượng thực sự của dấu hiệu thông tin đầu vào.",
+        "Sự tính toán quá mức các quy luật xác suất toán học phức tạp do Hệ thống 2 thực hiện.",
+        "Sự thiếu nhạy bén với chất lượng của dấu hiệu do ảnh hưởng mạnh mẽ của nguyên tắc WYSIATI.",
+        "Sự từ chối hoàn toàn mọi khuôn mẫu xã hội sẵn có trong quá trình tư duy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sai phạm thứ hai là sự không nhạy bén với chất lượng của dấu hiệu. Do WYSIATI, con người đối xử với thông tin vô giá trị hoặc thông tin từ kẻ lừa đảo như thể chúng là sự thật chính xác nếu không chủ động loại bỏ."
+    },
+    {
+      "id": "q11",
+      "question": "Khi một người đọc một bản báo cáo đánh giá nhân sự cực kỳ tiêu cực về một nhân viên mới nhưng thiếu chứng cứ khách quan, biểu hiện nào của Hệ thống 1 sẽ bộc lộ rõ nhất?",
+      "options": [
+        "Nó tự động xây dựng một câu chuyện gắn kết và tin rằng nhân viên đó thực sự kém năng lực.",
+        "Nó tự động đặt câu hỏi hoài nghi về tính xác thực và nguồn gốc của bản báo cáo đó.",
+        "Nó chủ động kích hoạt Hệ thống 2 để tìm kiếm thêm các dữ liệu đối chiếu từ hệ số gốc.",
+        "Nó trung lập hóa thông tin và chờ đợi thêm bằng chứng xác thực trước khi kết luận."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 có xu hướng thêu dệt nên những câu chuyện gắn kết từ những thông tin có sẵn (WYSIATI), khiến người ta tin ngay vào bản báo cáo mà không cần kiểm chứng chất lượng dấu hiệu."
+    },
+    {
+      "id": "q12",
+      "question": "Đâu là chiến lược tư duy đúng đắn nhất được tác giả đề xuất để tự điều chỉnh bản thân khi bạn có đôi chút nghi ngại về chất lượng của dấu hiệu thông tin nhận được?",
+      "options": [
+        "Hãy tăng gấp đôi mức độ tin tưởng vào câu chuyện trực giác mà tâm trí bạn vừa thêu dệt.",
+        "Hãy để cho các phân tích về xác suất của bạn neo đậu gần với các hệ số gốc ban đầu.",
+        "Hãy hoàn toàn phớt lờ mọi thông tin thống kê và chỉ tin vào trực giác cá nhân.",
+        "Hãy để Hệ thống 1 tự động giải quyết vấn đề mà không cần sự can thiệp của ý chí."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi có hoài nghi về chất lượng dấu hiệu, lời khuyên của Kahneman là hãy để các phân tích xác suất nằm ở gần với hệ số gốc, đòi hỏi sự nỗ lực đặc biệt trong việc tự điều chỉnh và kiềm chế."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao các dự đoán dựa trên mô thức đôi khi vẫn mang lại kết quả chính xác trong đời sống hàng ngày (ví dụ: người cao gầy dễ chơi bóng rổ hơn bóng đá)?",
+      "options": [
+        "Bởi vì có một số thực tế khách quan nằm sau các khuôn mẫu đó giúp trực giác phán đoán đúng.",
+        "Bởi vì các khuôn mẫu xã hội luôn luôn hoàn toàn đúng đắn trong mọi trường hợp thống kê.",
+        "Bởi vì Hệ thống 2 đã can thiệp kịp thời để chỉnh sửa mọi sai sót của Hệ thống 1.",
+        "Bởi vì con người luôn tính toán chính xác tỷ suất nền trước khi đưa ra nhận định."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong nhiều trường hợp, có một sự thực cốt lõi nằm sau các khuôn mẫu (như vận động viên bóng rổ thường rất cao), khiến phương pháp suy nghiệm mô thức có độ hiệu lực nhất định, dù nó vẫn có thể dẫn đến sai phạm khi bị lạm dụng."
+    },
+    {
+      "id": "q14",
+      "question": "Phát biểu nào sau đây tóm tắt chính xác nhất ý nghĩa của việc rèn luyện khả năng trực giác theo tinh thần của Daniel Kahneman?",
+      "options": [
+        "Tin tưởng tuyệt đối vào mọi ấn tượng ngay lập tức hiện ra trong đầu vì trực giác không bao giờ sai.",
+        "Loại bỏ hoàn toàn Hệ thống 1 để sống và làm việc chỉ bằng tư duy logic thuần túy của Hệ thống 2.",
+        "Kìm hãm niềm tin chủ quan bằng tính logic của xác suất và các quy tắc thống kê Bayes.",
+        "Sử dụng các câu chuyện hấp dẫn để thay thế cho các dữ liệu số liệu khô khan trong quản trị."
+      ],
+      "correctIndex": 2,
+      "explanation": "Để trực giác trở nên hữu dụng và tránh các sai lầm, niềm tin của chúng ta cần phải bị cưỡng ép bởi tính logic của xác suất, biết neo đậu vào hệ số gốc và đánh giá đúng mức độ chẩn đoán chứng cứ."
+    },
+    {
+      "id": "q15",
+      "question": "Trong một cuộc họp chiến lược, lãnh đạo tuyên bố: 'Vẻ ngoài chỉnh tề và tác phong chuyên nghiệp của đối tác này đảm bảo họ sẽ thực hiện hợp đồng hoàn hảo.' Nhận định này mang đặc điểm gì dưới đây?",
+      "options": [
+        "Một quyết định tối ưu dựa trên phân tích xác suất Bayes và hệ số gốc dài hạn.",
+        "Một phán đoán chính xác được kiểm chứng bởi sự nỗ lực kiểm soát của Hệ thống 2.",
+        "Một chiến lược quản lý rủi ro xuất sắc học hỏi từ câu chuyện Moneyball.",
+        "Một sai phạm của mô thức khi đánh giá khả năng dựa trên sự tương đồng bề ngoài."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đây là sai phạm của mô thức (representativeness), nơi nhà lãnh đạo đánh giá khả năng thành công (biến cố phức tạp) dựa trên sự tương đồng bề ngoài với khuôn mẫu chuyên nghiệp, hoàn toàn bỏ qua hệ số gốc thực tế của thị trường."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "00_Mo_dau",
+  "chapterTitle": "Mở đầu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Daniel Kahneman, tại sao việc bàn tán hay 'nói xấu' người khác xung quanh chiếc bàn uống nước lại có ích cho quá trình tự nhận thức?",
+      "options": [
+        "Vì nó giúp ta dễ dàng nhận ra lỗi lầm và sai lệch hệ thống của bản thân.",
+        "Vì nó tạo ra động lực thúc đẩy ta tự phê bình và nhìn nhận mình nghiêm túc.",
+        "Vì nó thỏa mãn tâm lý tò mò và giảm bớt căng thẳng trong môi trường công sở.",
+        "Vì nó giúp ta che giấu khuyết điểm cá nhân trước đồng nghiệp xung quanh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kahneman chỉ ra rằng việc 'kể tội' người khác giúp con người dễ dàng nhận biết các sai lệch hệ thống, từ đó tạo động lực thúc đẩy tự phê bình và nhìn nhận bản thân nghiêm túc hơn."
+    },
+    {
+      "id": "q2",
+      "question": "Khi gặp một diễn giả điển trai và tự tin bước lên sân khấu, khán giả thường đánh giá rất cao bài thuyết trình của anh ta. Hiện tượng này phản ánh điều gì?",
+      "options": [
+        "Sự đánh giá khách quan dựa trên năng lực thực tế của diễn giả đó.",
+        "Hiệu ứng hào quang khiến ta dễ bị chi phối bởi ấn tượng ban đầu.",
+        "Quá trình tư duy chậm rãi và logic của Hệ thống 2 diễn ra tức thì.",
+        "Sự suy luận thống kê chính xác dựa trên kinh nghiệm nhiều năm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiệu ứng hào quang khiến các phán đoán trực giác của con người bị chi phối mạnh mẽ bởi một đặc điểm nổi bật ban đầu (như vẻ bề ngoài), dẫn đến sai lệch hệ thống."
+    },
+    {
+      "id": "q3",
+      "question": "Trong thí nghiệm về cậu bé thủ thư Steve, người tham gia thường bỏ qua con số thống kê thực tế về tỷ lệ nghề nghiệp để chọn nghề thủ thư. Nguyên nhân cốt lõi là gì?",
+      "options": [
+        "Họ đã áp dụng suy nghiệm dựa trên sự tương đồng và khuôn mẫu sẵn có.",
+        "Họ có đầy đủ thông tin chi tiết và chính xác về hoàn cảnh sống của Steve.",
+        "Họ sử dụng tư duy chậm của Hệ thống 2 để phân tích các số liệu vĩ mô.",
+        "Họ bị tác động bởi các chiến dịch truyền thông đại chúng trong xã hội."
+      ],
+      "correctIndex": 0,
+      "explanation": "Con người thường dùng suy nghiệm sự tương đồng: đánh giá khả năng thuộc về một nhóm dựa trên mức độ giống với khuôn mẫu, bỏ qua tỷ suất nền thống kê."
+    },
+    {
+      "id": "q4",
+      "question": "Khi được hỏi chữ cái 'K' thường xuất hiện ở vị trí đầu tiên hay thứ ba trong từ tiếng Anh, đa số người tham gia đoán nhầm ở vị trí đầu. Điều này minh họa cho điều gì?",
+      "options": [
+        "Suy nghiệm thực tế phụ thuộc vào khả năng rà soát dễ dàng của trí nhớ.",
+        "Hiệu ứng đóng khung trong việc truyền tải thông tin qua báo chí.",
+        "Quy luật số nhỏ trong việc xử lý các dữ liệu khoa học phức tạp.",
+        "Sự kiểm soát tuyệt đối của Hệ thống 2 đối với các ký ức dài hạn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Suy nghiệm thực tế (availability heuristic) khiến chúng ta đánh giá tần suất sự việc dựa trên mức độ dễ dàng mà các ví dụ hiện lên trong trí nhớ."
+    },
+    {
+      "id": "q5",
+      "question": "Tác giả Daniel Kahneman và Amos Tversky đã phát hiện ra điều gì khi khảo sát các nhà khoa học và chuyên gia thống kê về cỡ mẫu thí nghiệm?",
+      "options": [
+        "Họ hoàn toàn miễn nhiễm với các lỗi sai hệ thống trong tư duy trực giác.",
+        "Các chuyên gia luôn áp dụng hoàn hảo các định luật thống kê vào mọi thử nghiệm.",
+        "Ngay cả các chuyên gia cũng thường phóng đại xác suất đúng dựa trên cỡ mẫu quá nhỏ.",
+        "Họ chỉ dựa vào cảm xúc thuần túy thay vì sử dụng các số liệu thực nghiệm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nghiên cứu cho thấy ngay cả các nhà thống kê chuyên nghiệp cũng mắc lỗi tin tưởng mù quáng vào các kết quả rút ra từ nhóm mẫu quá nhỏ (tin vào quy luật số nhỏ)."
+    },
+    {
+      "id": "q6",
+      "question": "Theo tư tưởng của Daniel Kahneman, trực giác chính xác của các chuyên gia kỳ cựu (như lính cứu hỏa hay kiện tướng cờ vua) bắt nguồn từ đâu?",
+      "options": [
+        "Nhờ vào quá trình luyện tập lâu dài giúp nhận diện các dấu hiệu quen thuộc.",
+        "Nhờ vào khả năng suy nghiệm ngẫu nhiên và bẩm sinh từ nhỏ.",
+        "Nhờ vào việc phân tích logic chậm chạp và thận trọng của Hệ thống 2.",
+        "Nhờ vào sự may mắn ngẫu nhiên trong các tình huống hiểm nghèo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trực giác chuyên gia không phải phép màu mà là kết quả của hàng ngàn giờ luyện tập, giúp bộ não nhận diện các dấu hiệu quen thuộc trong hoàn cảnh mới và phản ứng tức thì."
+    },
+    {
+      "id": "q7",
+      "question": "Khi nhà đầu tư tài chính quyết định mua cổ phiếu hãng xe Ford chỉ vì ông rất thích buổi trình diễn xe, điều này minh họa cho hiện tượng tâm lý nào?",
+      "options": [
+        "Sự phân tích kỹ lưỡng các chỉ số định giá thấp hơn giá trị thực tế.",
+        "Quá trình kiểm soát chặt chẽ của tư duy chậm thuộc về Hệ thống 2.",
+        "Hiệu ứng suy nghiệm thay thế câu hỏi khó bằng một câu hỏi dễ hơn.",
+        "Sự thấu hiểu sâu sắc các biến động phức tạp của thị trường chứng khoán."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi đối mặt với câu hỏi khó (cổ phiếu có bị định giá thấp không), bộ não tự động hoán đổi sang câu hỏi dễ hơn (tôi có thích xe này không) mà không nhận ra."
+    },
+    {
+      "id": "q8",
+      "question": "Đặc điểm cơ bản và quan trọng nhất của Hệ thống 1 trong mô hình hai hệ thống tư duy là gì?",
+      "options": [
+        "Hoạt động chậm rãi, tuần tự, đòi hỏi nhiều nỗ lực và sự tập trung cao độ.",
+        "Hoạt động hoàn toàn dựa trên các nguyên tắc logic và tính toán xác suất.",
+        "Hoạt động tự động, nhanh chóng, vô thức, dựa trên cảm xúc và liên tưởng.",
+        "Chỉ khởi động khi con người gặp các bài toán phức tạp và căng thẳng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hệ thống 1 vận hành tự động, nhanh chóng, không hoặc ít tốn nỗ lực, không có sự kiểm soát chủ ý, là cội nguồn của các cảm xúc và ấn tượng trực giác."
+    },
+    {
+      "id": "q9",
+      "question": "Vai trò chủ đạo của Hệ thống 2 trong đời sống nhận thức của con người là gì?",
+      "options": [
+        "Đảm nhận việc đưa ra các phản ứng chớp nhoáng và trực giác tức thì.",
+        "Duy trì các hoạt động tự động như nhận diện khuôn mặt và âm thanh.",
+        "Tạo ra các câu chuyện phiếm để giải trí bên bàn uống nước văn phòng.",
+        "Kiểm soát các suy nghĩ, giám sát hành vi và giải quyết các bài toán khó."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hệ thống 2 chịu trách nhiệm cho các hoạt động đòi hỏi tư duy có ý thức, sự tập trung, tính toán phức tạp và kiểm soát các xung đột từ Hệ thống 1."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao các phương tiện truyền thông thường dễ dàng thu hút công chúng chú ý vào một số vấn đề giật gân thay vì các vấn đề thiết yếu phức tạp?",
+      "options": [
+        "Vì công chúng dễ truy cập thông tin nổi bật trong trí nhớ và bị chi phối bởi suy nghiệm.",
+        "Vì các cơ quan truyền thông luôn duy trì tính khách quan và khoa học tuyệt đối.",
+        "Vì các vấn đề phức tạp luôn được con người xử lý tối ưu bằng Hệ thống 2.",
+        "Vì bản tính con người luôn khao khát tìm hiểu các dữ liệu thống kê vĩ mô."
+      ],
+      "correctIndex": 0,
+      "explanation": "Công chúng có xu hướng chú tâm vào những vấn đề dễ dàng truy cập trong trí nhớ, điều này bị lợi dụng bởi truyền thông qua các tin tức giật gân và nổi bật."
+    },
+    {
+      "id": "q11",
+      "question": "Sự khác biệt cốt lõi giữa 'cái tôi kinh nghiệm' và 'cái tôi ghi nhớ' trong phần cuối của chương sách dẫn đến điều gì?",
+      "options": [
+        "Cả hai cái tôi luôn đồng thuận tuyệt đối về các quyết định mang lại hạnh phúc.",
+        "Cái gì làm cái tôi kinh nghiệm hạnh phúc hóa ra luôn làm thỏa mãn cái tôi ghi nhớ.",
+        "Những gì làm cái tôi kinh nghiệm thỏa mãn không hoàn toàn giống cái tôi ghi nhớ.",
+        "Cái tôi ghi nhớ không có bất kỳ ảnh hưởng nào đến các lựa chọn trong tương lai."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự phân tách giữa hai cái tôi cho thấy những trải nghiệm thực tế của cái tôi kinh nghiệm không đồng nhất với cách mà cái tôi ghi nhớ lưu giữ và lựa chọn hồi ức."
+    },
+    {
+      "id": "q12",
+      "question": "Theo Daniel Kahneman, việc tập trung nghiên cứu các sai lệch và lỗi sai nhận thức của con người nhằm mục đích gì?",
+      "options": [
+        "Nhằm phê phán, bôi nhọ năng lực tư duy và trí tuệ của loài người.",
+        "Nhằm tìm ra giải pháp cải thiện sức khỏe nhận thức và giảm thiểu thiệt hại.",
+        "Nhằm chứng minh con người luôn phi lý trí trong mọi hoàn cảnh sống.",
+        "Nhằm khẳng định sự ưu việt tuyệt đối của máy tính so với bộ não người."
+      ],
+      "correctIndex": 1,
+      "explanation": "Giống như nghiên cứu y học về bệnh tật, việc nghiên cứu sai lệch nhận thức không nhằm bôi nhọ mà nhằm thấu hiểu để nâng cao nhận thức và giảm thiểu sai lầm."
+    },
+    {
+      "id": "q13",
+      "question": "Yếu tố nào đóng vai trò cực kỳ quan trọng trong câu chuyện thành công của sự hợp tác nghiên cứu giữa Kahneman và Tversky?",
+      "options": [
+        "Sự đồng thuận hoàn toàn về mọi quan điểm ngay từ buổi gặp đầu tiên.",
+        "Sự may mắn và sự kết hợp ăn ý, bổ trợ lẫn nhau giữa hai tính cách.",
+        "Sự hỗ trợ tài chính khổng lồ từ các tổ chức kinh tế và chính phủ.",
+        "Việc tuân thủ tuyệt đối các học thuyết kinh tế học cổ điển thời bấy giờ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kahneman nhiều lần nhấn mạnh sự may mắn và sự hòa hợp trong tính cách đối lập nhưng bổ trợ giữa ông và Amos là động lực lớn cho thành công."
+    },
+    {
+      "id": "q14",
+      "question": "Lý thuyết viễn cảnh (Prospect Theory) do Kahneman và Tversky phát triển đã tạo ra bước ngoặt gì cho ngành nghiên cứu hành vi?",
+      "options": [
+        "Củng cố giả định rằng con người luôn cư xử hoàn toàn lý trí trong kinh tế.",
+        "Đưa ra mô hình toán học chứng minh sự hoàn hảo của các thị trường tài chính.",
+        "Chứng minh rằng cảm xúc hoàn toàn không có chỗ đứng trong các quyết định kinh tế.",
+        "Thách thức giả định kinh tế học cổ điển và đặt nền móng cho kinh tế học hành vi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lý thuyết viễn cảnh mô tả cách con người ra quyết định dưới rủi ro, thách thức giả định con người thuần túy lý trí và trở thành nền tảng của kinh tế học hành vi."
+    },
+    {
+      "id": "q15",
+      "question": "Khi đối mặt với một vấn đề phức tạp đòi hỏi quyết định ngay lập tức, cơ chế hoạt động của bộ máy tư duy diễn ra thế nào?",
+      "options": [
+        "Hệ thống 2 sẽ ngay lập tức giải quyết xong trước khi Hệ thống 1 kịp khởi động.",
+        "Con người sẽ từ chối đưa ra bất kỳ phán đoán nào nếu thiếu thông tin tuyệt đối.",
+        "Cả hai hệ thống đều ngừng hoạt động và chờ đợi các dữ liệu thống kê từ bên ngoài.",
+        "Hệ thống 1 chạy hết tốc lực, nếu quá khó sẽ tự động hoán đổi sang câu hỏi dễ hơn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tư duy trực giác (Hệ thống 1) luôn chạy hết tốc lực; khi gặp câu hỏi quá khó không tìm ra giải pháp, nó sẽ tự động hoán đổi sang câu hỏi dễ hơn bằng suy nghiệm."
+    }
+  ]
+}

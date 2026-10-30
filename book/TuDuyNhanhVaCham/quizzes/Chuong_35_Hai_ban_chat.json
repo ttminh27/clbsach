@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_35_Hai_ban_chat",
+  "chapterTitle": "Chương 35. Hai bản chất",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi Daniel Kahneman phân biệt hai khái niệm 'độ thỏa dụng trải nghiệm' và 'độ thỏa dụng quyết định', ông muốn nhấn mạnh điều gì về bản chất của con người?",
+      "options": [
+        "Sự ưu tiên hoàn toàn của lý trí logic trong mọi quyết định kinh tế.",
+        "Sự đồng nhất tuyệt đối giữa hành vi lựa chọn và lợi ích tối đa hóa.",
+        "Sự mâu thuẫn giữa cảm giác thực tế tại thời điểm và lựa chọn của ký ức.",
+        "Sự phán đoán chính xác dựa trên việc tính toán tổng lượng niềm vui."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả chỉ ra rằng con người thường đưa ra quyết định dựa trên ký ức (độ thỏa dụng quyết định) thay vì cảm giác thực tế tại thời điểm diễn ra (độ thỏa dụng trải nghiệm), dẫn đến sự lệch lạc và mâu thuẫn."
+    },
+    {
+      "id": "q2",
+      "question": "Trong bài toán giả định về các mũi tiêm gây đau đớn, vì sao mọi người sẵn sàng trả nhiều tiền hơn để giảm từ 6 xuống 4 mũi tiêm so với từ 20 xuống 18 mũi?",
+      "options": [
+        "Do tác động của quy luật độ nhạy giảm dần và cảm nhận trực giác.",
+        "Do sự tính toán chính xác bằng Hệ thống 2 về tổng lượng đau đớn.",
+        "Do việc nhận thức rõ ràng về tổng thể thời gian điều trị y tế.",
+        "Do sự chi phối của quy tắc đỉnh đáy trong toàn bộ quá trình tiêm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hiện tượng này phản ánh sự nhạy cảm giảm dần của Hệ thống 1, trong đó sự giảm số lượng từ một con số nhỏ mang lại giá trị cảm xúc trực giác lớn hơn nhiều so với con số lớn."
+    },
+    {
+      "id": "q3",
+      "question": "Khái niệm 'máy đo niềm hoan lạc' do nhà kinh tế học Francis Edgeworth đề xuất tương ứng với thước đo nào trong nghiên cứu của Kahneman?",
+      "options": [
+        "Mức độ đánh giá hồi tưởng dựa vào khoảnh khắc đỉnh.",
+        "Tổng lượng đo lường khoái lạc tích lũy theo thời gian.",
+        "Sự lựa chọn cuối cùng dựa trên quy tắc bỏ qua khoảng thời gian.",
+        "Quyết định chủ quan được chi phối bởi bản thể hồi tưởng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Máy đo niềm hoan lạc đo lường trải nghiệm theo thời gian thực, tương ứng với tổng lượng đo lường khoái lạc ('khu vực dưới đường cong') mà bản thể đang trải nghiệm gánh chịu."
+    },
+    {
+      "id": "q4",
+      "question": "Trong thí nghiệm nội soi ruột kết của Don Redelmeier và Daniel Kahneman, quy tắc nào chi phối cách các bệnh nhân đánh giá tổng lượng nỗi đau sau khi thủ thuật kết thúc?",
+      "options": [
+        "Quy tắc đại diện phản ánh tỷ suất nền của các cơn đau y tế.",
+        "Quy tắc tính toán logic toàn bộ khu vực dưới đường cong thời gian.",
+        "Quy tắc mỏ neo và sự điều chỉnh dựa trên thời điểm bắt đầu thủ thuật.",
+        "Quy tắc đỉnh - đáy và quy tắc bỏ qua khoảng thời gian diễn ra."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nghiên cứu chứng minh đánh giá hồi tưởng bị chi phối mạnh bởi quy tắc đỉnh-đáy (điểm đau nhất và điểm kết thúc) và hoàn toàn bỏ qua khoảng thời gian dài ngắn của thủ thuật."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao bệnh nhân A trong thí nghiệm nội soi lại có ký ức tồi tệ hơn bệnh nhân B mặc dù thời gian chịu đựng ngắn hơn nhiều?",
+      "options": [
+        "Vì tổng lượng khu vực dưới đường cong của bệnh nhân A lớn hơn hẳn.",
+        "Vì bệnh nhân A sử dụng Hệ thống 2 nhiều hơn để phân tích nỗi đau.",
+        "Vì thủ thuật của bệnh nhân A kết thúc tại thời điểm có mức đau cao.",
+        "Vì bệnh nhân A bị tác động bởi hiệu ứng mỏ neo từ đầu quá trình."
+      ],
+      "correctIndex": 2,
+      "explanation": "Do quy tắc đỉnh-đáy, cái kết tồi tệ (mức đau 7 trước khi kết thúc) đã để lại ấn tượng mạnh mẽ cho bản thể hồi tưởng của bệnh nhân A, làm ký ức về tổng thể trở nên tồi tệ hơn."
+    },
+    {
+      "id": "q6",
+      "question": "Câu chuyện về người nghe bản giao hưởng bị hỏng đoạn cuối phản ánh sai lầm nhận thức nào của con người?",
+      "options": [
+        "Tin rằng một trải nghiệm quá khứ có thể bị hủy hoại hoàn toàn bởi cái kết.",
+        "Sự đánh giá chính xác tổng thể trải nghiệm dựa trên khu vực dưới đường cong.",
+        "Khả năng kiểm soát tuyệt đối của Hệ thống 2 đối với cảm xúc âm nhạc.",
+        "Sự loại bỏ hoàn toàn ảnh hưởng của quy tắc đỉnh đáy trong nghệ thuật."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đây là ảo tưởng nhận thức cho rằng cái kết tồi xóa sạch những phút giây thưởng thức trước đó. Thực tế bản thể trải nghiệm đã tận hưởng trọn vẹn, chỉ có ký ức bị ảnh hưởng."
+    },
+    {
+      "id": "q7",
+      "question": "Trong thí nghiệm ngâm tay trong nước lạnh (tình huống can đảm), vì sao phần lớn người tham gia lại chọn lặp lại tình huống dài hơn?",
+      "options": [
+        "Do họ muốn tối đa hóa tổng lượng khoái lạc tích lũy theo thời gian.",
+        "Do bản thể trải nghiệm của họ thích nghi tốt hơn với nhiệt độ nước lạnh.",
+        "Do ký ức của họ bị chi phối bởi quy tắc đỉnh-đáy, nhớ về đoạn cuối ít lạnh hơn.",
+        "Do sự can thiệp của tư duy logic có ý thức từ Hệ thống 2 nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bản thể hồi tưởng lưu giữ ký ức dựa trên điểm đỉnh và điểm kết thúc. Tình huống dài có phần kết bớt đau hơn nên để lại ký ức dễ chịu hơn, khiến họ chọn lặp lại dù phải chịu đựng thêm thời gian."
+    },
+    {
+      "id": "q8",
+      "question": "Hiện tượng con người tự nguyện chịu đựng thêm 30 giây đau đớn trong thí nghiệm ngâm tay lạnh minh họa cho đặc tính nào của Hệ thống 1?",
+      "options": [
+        "Sự nhạy bén tuyệt đối với mọi biến động nhỏ của thời gian và không gian.",
+        "Khả năng tính toán chính xác hàm số tích lũy theo thời gian thực.",
+        "Sự kiểm soát chặt chẽ các quyết định dài hạn dựa trên lý trí tối ưu.",
+        "Đại diện cho các tập hợp giá trị trung bình và nguyên mẫu, bỏ qua tổng thể."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hệ thống 1 hoạt động dựa trên các khoảnh khắc nguyên mẫu (đỉnh và đáy) thay vì tính tổng giá trị cộng dồn, tạo ra hiệu ứng 'càng ít càng tốt' tương tự các nghiên cứu của Hsee."
+    },
+    {
+      "id": "q9",
+      "question": "Sự khác biệt cơ bản giữa 'bản thể trải nghiệm' và 'bản thể hồi tưởng' nằm ở điểm cốt lõi nào?",
+      "options": [
+        "Bản thể trải nghiệm luôn đưa ra quyết định lý trí, còn bản thể hồi tưởng bị chi phối bởi cảm xúc.",
+        "Bản thể trải nghiệm sống với hiện tại, trong khi bản thể hồi tưởng giữ ký ức và ra quyết định.",
+        "Bản thể trải nghiệm chịu trách nhiệm lập kế hoạch tương lai, còn bản thể hồi tưởng chỉ cảm nhận đau đớn.",
+        "Không có sự khác biệt nào vì cả hai đều tuân thủ tuyệt đối các quy luật của kinh tế học cổ điển."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bản thể trải nghiệm trả lời cho câu hỏi 'Bây giờ có đau không?', trong khi bản thể hồi tưởng lưu giữ câu chuyện cuộc đời, đánh giá tổng thể và là kẻ thống trị đưa ra các quyết định."
+    },
+    {
+      "id": "q10",
+      "question": "Phát hiện về loài chuột trong các thí nghiệm liên quan đến cú sốc điện và kích thích não bộ cho thấy điều gì về tiến hóa?",
+      "options": [
+        "Động vật có khả năng tính toán chính xác tổng lượng đau đớn theo thời gian.",
+        "Cường độ kích thích là yếu tố cốt lõi, trong khi thời gian diễn ra thường bị bỏ qua.",
+        "Sự tiến hóa ưu tiên phát triển bản thể hồi tưởng phức tạp hơn bản thể trải nghiệm.",
+        "Các loài động vật hoàn toàn không có phản ứng sinh lý đối với các cơn đau ngắn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thí nghiệm cho thấy chuột thể hiện sự bỏ qua khoảng thời gian đối với cả hưng phấn và đau đớn, chứng tỏ quy tắc đánh giá dựa trên cường độ có cội nguồn tiến hóa lâu đời."
+    },
+    {
+      "id": "q11",
+      "question": "Thuật ngữ 'sự chuyên quyền của bản thể hồi tưởng' mà Kahneman đề cập thể hiện hiện tượng tâm lý nào?",
+      "options": [
+        "Hệ thống 2 luôn kiểm soát và sửa chữa thành công mọi sai lầm của ký ức.",
+        "Trải nghiệm hiện tại luôn chi phối toàn bộ các quyết định chiến lược của con người.",
+        "Con người đánh đổi trải nghiệm thực tế để tối đa hóa chất lượng ký ức tương lai.",
+        "Sự công bằng tuyệt đối giữa các lựa chọn kinh tế dựa trên thỏa dụng quyết định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bản thể hồi tưởng nắm quyền kiểm soát mọi quyết định, khiến chúng ta hành động nhằm tối ưu hóa ký ức sẽ lưu giữ hơn là tối ưu hóa cảm giác thực tế của bản thể trải nghiệm."
+    },
+    {
+      "id": "q12",
+      "question": "Trong bối cảnh ra quyết định y tế hoặc quản lý trải nghiệm khách hàng, việc hiểu rõ quy luật đỉnh-đáy mang lại ứng dụng thực tiễn nào?",
+      "options": [
+        "Cần thiết kế điểm kết thúc của trải nghiệm thật tốt để tạo ký ức tích cực cho khách hàng.",
+        "Phải luôn kéo dài thời gian phục vụ để tăng tổng lượng thỏa dụng trải nghiệm thực tế.",
+        "Tập trung hoàn toàn vào việc giảm thời gian mà bỏ qua cảm xúc tại thời điểm đỉnh.",
+        "Loại bỏ hoàn toàn vai trò của cảm xúc trực giác bằng các mô hình tính toán cứng nhắc."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vì khách hàng (và bệnh nhân) đánh giá dịch vụ dựa trên ký ức (đỉnh và đáy), việc cải thiện trải nghiệm ở thời điểm kết thúc sẽ tạo ra ấn tượng tích cực lâu dài dù thời gian có thể dài hơn."
+    },
+    {
+      "id": "q13",
+      "question": "Quan điểm của Kahneman về 'tác nhân lý trí' truyền thống trong kinh tế học bị thách thức như thế nào qua chương này?",
+      "options": [
+        "Hệ thống 2 luôn giám sát và loại bỏ mọi thiên kiến nhận thức trong lựa chọn.",
+        "Con người luôn tối đa hóa lợi ích cá nhân dựa trên thông tin hoàn hảo.",
+        "Độ thỏa dụng trải nghiệm và độ thỏa dụng quyết định luôn trùng khớp hoàn hảo.",
+        "Con người không có các ưu ái nhất quán vì quyết định dựa trên ký ức sai lệch."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mô hình tác nhân lý trí giả định con người hiểu rõ thị hiếu và tối đa hóa lợi ích. Tuy nhiên, sự lệch lạc giữa quyết định và trải nghiệm chứng minh ưu ái của con người không nhất quán."
+    },
+    {
+      "id": "q14",
+      "question": "Yếu tố nào giải thích tại sao ký ức của con người lại dễ mắc sai lầm khi đánh giá lại một sự kiện trong quá khứ?",
+      "options": [
+        "Sự hoạt động của Hệ thống 1 lưu giữ các khoảnh khắc đại diện thay vì tổng hợp dữ liệu.",
+        "Sự can thiệp chủ động của Hệ thống 2 nhằm phân tích số liệu thống kê chi tiết.",
+        "Sự thay đổi liên tục của các điều kiện môi trường bên ngoài tại thời điểm hồi tưởng.",
+        "Sự triệt tiêu hoàn toàn các cảm xúc tiêu cực thông qua cơ chế tự vệ tâm lý."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ký ức là sản phẩm của Hệ thống 1, hoạt động bằng cách cô đọng sự kiện thành các khoảnh khắc nguyên mẫu (đỉnh và đáy) thay vì tính toán tổng lượng theo thời gian."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp tổng thể sâu sắc nhất mà Daniel Kahneman muốn gửi gắm về xung đột giữa hai bản thể là gì?",
+      "options": [
+        "Cần phải xóa bỏ hoàn toàn bản thể hồi tưởng để sống trọn vẹn với bản thể trải nghiệm.",
+        "Nhận thức rõ sự bất hợp lý trong lựa chọn khi chúng ta nhầm lẫn giữa ký ức và trải nghiệm thực.",
+        "Kinh tế học hành vi chỉ có giá trị lý thuyết mà không thể áp dụng vào đời sống thực tế.",
+        "Con người có thể đạt đến sự hoàn hảo trong quyết định nếu rèn luyện Hệ thống 1."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả muốn người đọc nhận thức được nghịch lý và sai lầm tiềm ẩn khi các quyết định của chúng ta bị chi phối bởi ký ức thay vì lợi ích thực sự của bản thể đang trải nghiệm cuộc sống."
+    }
+  ]
+}

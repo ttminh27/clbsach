@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_34_Cac_cau_truc_va_thuc_te",
+  "chapterTitle": "Chương 34. Các cấu trúc và thực tế",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo góc nhìn của kinh tế học hành vi được trình bày trong chương, quan điểm của kinh tế học truyền thống về các lựa chọn của con người là gì?",
+      "options": [
+        "Con người luôn thay đổi sở thích dựa trên từ ngữ cấu trúc của vấn đề.",
+        "Hệ thống 1 đóng vai trò chi phối toàn bộ các quyết định kinh tế phức tạp.",
+        "Trạng thái thực tế khách quan quyết định tuyệt đối mọi lựa chọn hành vi.",
+        "Cảm xúc tức thời của con người vô hiệu hóa hoàn toàn các lựa chọn logic."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kinh tế học truyền thống mặc định rằng con người là các tác nhân lý trí, các lựa chọn của họ chỉ bị giới hạn bởi thực tế khách quan (trạng thái vật chất của sự việc) chứ không bị ảnh hưởng bởi cách từ ngữ mô tả vấn đề."
+    },
+    {
+      "id": "q2",
+      "question": "Vì sao hai câu 'Ý thắng' và 'Pháp thua' lại dẫn đến những phản ứng khác nhau trong cơ chế liên kết của não bộ con người?",
+      "options": [
+        "Do Hệ thống 1 tự động kích hoạt các hình ảnh và ký ức liên quan riêng biệt.",
+        "Do chúng mô tả hai kết quả trái ngược hoàn toàn về mặt logic cấu trúc.",
+        "Do Hệ thống 2 phân tích sâu sắc các dữ liệu thống kê của trận đấu bóng đá.",
+        "Do ngôn ngữ học hiện đại chứng minh hai câu này có nghĩa hoàn toàn đối lập."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mặc dù tương đương về mặt logic thực tế, 'Ý thắng' gợi ra hình ảnh đội Ý chiến thắng, còn 'Pháp thua' gợi ra hình ảnh đội Pháp thất bại (như cú húc đầu của Zidane). Hệ thống 1 phản ứng khác nhau với các liên tưởng này."
+    },
+    {
+      "id": "q3",
+      "question": "Hiện tượng con người thích phương án thua tiền dưới dạng 'thua một trò may rủi' hơn là dưới dạng 'chi phí cố định' phản ánh điều gì về tâm lý?",
+      "options": [
+        "Con người luôn tính toán cực kỳ lý trí mọi khoản tiền bị mất đi.",
+        "Hệ thống 2 kiểm soát hoàn toàn cảm xúc khi đối diện với các rủi ro tài chính.",
+        "Tổn thất trực tiếp kích thích cảm giác tiêu cực mạnh hơn các chi phí thông thường.",
+        "Ngôn ngữ cấu trúc không hề tác động đến các quyết định đầu tư mạo hiểm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tác giả chỉ ra rằng các tổn thất gợi ra cảm giác tiêu cực mạnh mẽ hơn nhiều so với chi phí. Do đó, một kết quả tồi tệ sẽ dễ chấp nhận hơn nếu được đóng khung như một trò may rủi thay vì một khoản chi phí chắc chắn."
+    },
+    {
+      "id": "q4",
+      "question": "Bài học từ việc nhà vận động chính sách cố gắng gọi chênh lệch giá thẻ tín dụng là 'chiết khấu tiền mặt' thay vì 'phụ phí' dựa trên nguyên lý nào?",
+      "options": [
+        "Người tiêu dùng cảm thấy dễ dàng từ bỏ chiết khấu hơn là chịu đựng phụ phí.",
+        "Doanh nghiệp buộc phải tuân thủ nghiêm ngặt các tiêu chuẩn kế toán quốc tế.",
+        "Hệ thống 2 luôn phân tích kỹ lợi ích kinh tế ròng trước khi mua hàng hóa.",
+        "Chi phí và tổn thất hoàn toàn đồng nhất với nhau về mặt giá trị tâm lý."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tâm lý học hành vi chứng minh rằng con người chịu đựng việc từ bỏ một khoản lợi ích (chiết khấu) dễ dàng hơn rất nhiều so với việc phải gánh chịu thêm một khoản mất mát hay phụ phí, dù chúng tương đương về kinh tế."
+    },
+    {
+      "id": "q5",
+      "question": "Kết quả nghiên cứu thần kinh học về hiệu ứng đóng khung (khung Giữ và khung Thua) cho thấy vai trò gì của hạch hạnh nhân (amygdala)?",
+      "options": [
+        "Hạch hạnh nhân giúp con người suy nghĩ hoàn toàn lý trí và loại bỏ cảm xúc.",
+        "Hạch hạnh nhân kích hoạt mạnh khi lựa chọn tương thích với cấu trúc cảm xúc.",
+        "Hạch hạnh nhân chỉ hoạt động khi Hệ thống 2 giải quyết các bài toán phức tạp.",
+        "Hạch hạnh nhân hoàn toàn im lặng trong suốt quá trình đưa ra quyết định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hạch hạnh nhân - trung tâm cảm xúc của não bộ - hoạt động mạnh khi các lựa chọn của chủ thể tương thích với cấu trúc cảm xúc (thích sự chắc chắn khi được đóng khung là Giữ, né tránh khi đóng khung là Thua)."
+    },
+    {
+      "id": "q6",
+      "question": "Những cá nhân được xếp hạng có 'chỉ số hợp lý' cao nhất trong thí nghiệm thần kinh học thể hiện đặc điểm cấu trúc não bộ nào?",
+      "options": [
+        "Hoạt động cực kỳ mạnh mẽ tại hạch hạnh nhân để khuếch đại cảm xúc.",
+        "Dấu hiệu thần kinh về sự xung đột nội tâm diễn ra vô cùng dữ dội.",
+        "Phạm vi hoạt động nâng cao tại vùng trán kết hợp cảm xúc và lập luận.",
+        "Hoàn toàn vô cảm trước mọi thay đổi trong cách diễn đạt ngôn ngữ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Những cá nhân ít bị ảnh hưởng bởi hiệu ứng cấu trúc nhất (có lý trí hơn) cho thấy sự hoạt động nâng cao ở vùng trán - nơi kết hợp giữa cảm xúc và lập luận để đưa ra quyết định mà ít gặp xung đột tâm lý lớn."
+    },
+    {
+      "id": "q7",
+      "question": "Thí nghiệm về tỷ lệ lựa chọn phẫu thuật dựa trên 'tỷ lệ sống sót' hay 'tỷ lệ tử vong' ở các bác sĩ chứng minh điều gì?",
+      "options": [
+        "Đào tạo chuyên môn y khoa giúp bác sĩ hoàn toàn miễn nhiễm với hiệu ứng cấu trúc.",
+        "Thông tin về sự tử vong mang lại kết quả khách quan hơn thông tin về sự sống.",
+        "Hệ thống 2 của các bác sĩ luôn kiểm soát tuyệt đối các quyết định điều trị.",
+        "Các bác sĩ dễ bị ảnh hưởng bởi hiệu ứng cấu trúc tương tự như người bình thường."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nghiên cứu cho thấy các bác sĩ cũng dễ bị ảnh hưởng bởi hiệu ứng cấu trúc giống hệt những người không có chuyên môn y khoa. Đào tạo y khoa chuyên sâu không tạo ra chiếc khiên bảo vệ chống lại sức mạnh của ngôn ngữ cấu trúc."
+    },
+    {
+      "id": "q8",
+      "question": "Trong 'vấn đề dịch bệnh từ châu Á', tại sao đa số mọi người chọn chương trình A (chắc chắn cứu 200 người) nhưng lại chọn chương trình B' (mạo hiểm để 600 người chết)?",
+      "options": [
+        "Do con người ác cảm rủi ro trước kết quả tốt và tìm kiếm rủi ro trước kết quả xấu.",
+        "Do con người thay đổi hoàn toàn năng lực tính toán xác suất toán học.",
+        "Do Hệ thống 2 can thiệp kịp thời để sửa chữa các sai lầm logic của Hệ thống 1.",
+        "Do cấu trúc ngôn ngữ không tạo ra bất kỳ sự khác biệt nào về mặt tâm lý."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hiện tượng này khớp với lý thuyết triển vọng: con người có xu hướng ác cảm rủi ro khi đối mặt với các kết quả mang tính tích cực (cứu mạng) nhưng lại tìm kiếm rủi ro khi đối mặt với các kết quả tiêu cực (chết chóc)."
+    },
+    {
+      "id": "q9",
+      "question": "Phản ứng 'im lặng bối rối' của các chuyên gia khi nhận ra sự mâu thuẫn trong các lựa chọn của họ ở vấn đề dịch bệnh cho thấy điều gì?",
+      "options": [
+        "Họ có khả năng kiểm soát tuyệt đối các thiên kiến nhận thức của bản thân.",
+        "Họ đã tìm ra phương án tối ưu dựa trên các nguyên tắc kinh tế học cổ điển.",
+        "Trực giác của Hệ thống 1 luôn luôn đúng đắn về mặt đạo đức và logic.",
+        "Hệ thống 2 của họ không có những trực giác đạo đức độc lập để tự giải quyết."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi đối mặt với mâu thuẫn do chính lựa chọn của mình tạo ra qua các khung khác nhau, con người rơi vào bối rối vì Hệ thống 2 nhận ra nó không có sẵn một trực giác đạo đức độc lập nào ngoài những gì Hệ thống 1 áp đặt qua ngôn ngữ."
+    },
+    {
+      "id": "q10",
+      "question": "Bài học cốt lõi rút ra từ câu chuyện về mã số thuế và các mức miễn trừ gia cảnh của Thomas Schelling là gì?",
+      "options": [
+        "Luật thuế luôn được thiết kế dựa trên các nguyên tắc khoa học hoàn toàn khách quan.",
+        "Hệ thống 2 luôn chủ động phát hiện ra các điểm mù logic trong chính sách thuế.",
+        "Người giàu luôn có xu hướng ủng hộ việc tăng thuế đối với các gia đình nghèo.",
+        "Trực giác tâm lý của con người phụ thuộc vào điểm tham chiếu tùy biến của cấu trúc."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bài toán của Schelling chứng minh rằng trực giác đạo đức của con người về việc giàu - nghèo hoàn toàn bị chi phối bởi điểm tham chiếu tùy biến do cách cấu trúc vấn đề áp đặt, chứ không phản ánh một tiêu chuẩn đạo đức vững chắc nào."
+    },
+    {
+      "id": "q11",
+      "question": "Trong tình huống mất vé xem kịch và mất tiền mặt, tại sao việc mất tiền mặt lại dẫn đến quyết định hợp lý hơn theo lý thuyết kinh tế?",
+      "options": [
+        "Vì giá trị của vé xem kịch luôn cao hơn nhiều lần so với giá trị của tiền mặt.",
+        "Vì mất tiền mặt được tính vào tài khoản thu nhập chung, giúp lờ đi chi phí chìm.",
+        "Vì Hệ thống 2 đã tính toán chính xác lạm phát và tỷ suất sinh lợi của rạp hát.",
+        "Vì cấu trúc của tiền mặt không kích thích cảm xúc tiêu cực như vé xem kịch."
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc mất tiền mặt được hạch toán vào tài khoản 'thu nhập thông thường' (tài khoản chung), giúp con người nhận thức đúng đắn rằng chi phí mua vé ban đầu là chi phí chìm và nên được lờ đi để đưa ra quyết định hợp lý."
+    },
+    {
+      "id": "q12",
+      "question": "Hiện tượng 'ảo tưởng MPG' (dặm trên mỗi ga-lông) khi chọn mua xe ô tô minh họa cho điều gì về tư duy con người?",
+      "options": [
+        "Con người luôn tự động chuyển đổi sang hệ thống đo lường lít trên 100km.",
+        "Sự chấp thuận thụ động một cấu trúc sai lệch dẫn đến những sai lầm nghiêm trọng.",
+        "Hệ thống 2 luôn phân tích cực kỳ chính xác lượng nhiên liệu tiêu thụ thực tế.",
+        "Các nhà hoạch định chính sách hoàn toàn miễn nhiễm với các lỗi trực giác."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cấu trúc phi tuyến tính MPG đánh lừa trực giác của cả người tiêu dùng lẫn nhà hoạch định chính sách (khiến họ tưởng nhầm rằng nâng cấp từ 30 lên 40 mpg tiết kiệm nhiên liệu hơn từ 12 lên 14 mpg), dẫn đến những đánh giá sai lầm."
+    },
+    {
+      "id": "q13",
+      "question": "Sự khác biệt khổng lồ về tỷ lệ hiến tạng giữa các quốc gia châu Âu (như Áo gần 100% và Đan Mạch 4%) chủ yếu bắt nguồn từ yếu tố nào?",
+      "options": [
+        "Sự khác biệt sâu sắc về văn hóa truyền thống và lòng nhân đạo giữa các dân tộc.",
+        "Mức độ đào tạo y khoa và nhận thức của người dân về phẫu thuật cấy ghép.",
+        "Hình thức cấu trúc câu hỏi lựa chọn tham gia hay không tham gia (default option).",
+        "Sự can thiệp mạnh mẽ bằng các chiến dịch quảng cáo tuyên truyền của chính phủ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự khác biệt này là do hiệu ứng cấu trúc dạng phương án mặc định (default). Nước có tỷ lệ cao dùng hình thức 'không tham gia phải đánh dấu' (mặc định là hiến), trong khi nước thấp dùng hình thức 'phải đánh dấu để hiến'."
+    },
+    {
+      "id": "q14",
+      "question": "Trạng thái tâm lý phổ biến của con người khi phải đối mặt với các quyết định quan trọng bị chi phối bởi hiệu ứng cấu trúc là gì?",
+      "options": [
+        "Luôn luôn hoài nghi và tìm kiếm mọi thông tin trái chiều trước khi lựa chọn.",
+        "Thụ động chấp nhận vấn đề theo cách nó được cấu trúc vì Hệ thống 2 lười biếng.",
+        "Chủ động thiết lập lại điểm tham chiếu để tối ưu hóa lợi ích kinh tế cá nhân.",
+        "Phân tích logic toàn bộ các phương án thay thế nhờ năng lực của Hệ thống 1."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả kết luận rằng do Hệ thống 2 thường xuyên lười biếng, trừ khi có lý do rõ ràng, hầu hết chúng ta thụ động chấp nhận các vấn đề quyết định đúng theo cách chúng được cấu trúc sẵn."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp tổng quát nhất mà Daniel Kahneman muốn truyền đạt về 'cấu trúc và thực tế' trong chương này là gì?",
+      "options": [
+        "Ưu tiên của con người gắn liền với mô tả cấu trúc hơn là thực chất khách quan.",
+        "Cấu trúc chỉ là lớp vỏ bọc bên ngoài, không hề tác động đến các ưu tiên thực sự.",
+        "Hệ thống 2 hoàn toàn kiểm soát và loại bỏ mọi ảnh hưởng của ngôn ngữ cảm xúc.",
+        "Kinh tế học truyền thống hoàn toàn chính xác khi miêu tả hành vi ra quyết định."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thông điệp cốt lõi là các trực giác tâm lý và ưu tiên của con người hướng về các mô tả (cấu trúc) của vấn đề chứ không phải về bản chất thực thể khách quan của thế giới. Cấu trúc không che giấu sở thích mà nhào nặn nên nó."
+    }
+  ]
+}

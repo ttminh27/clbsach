@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_33_Nhung_su_dao_lon",
+  "chapterTitle": "Chương 33. Những sự đảo lộn",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Trong thí nghiệm về nạn nhân vụ cướp bị bắn ở cửa hàng quen thuộc so với cửa hàng lạ, tại sao đại đa số người tham gia đánh giá riêng lẻ lại đề xuất mức bồi thường cao hơn hẳn cho trường hợp xảy ra ở cửa hàng ít khi lui tới?",
+      "options": [
+        "Vì Hệ thống 1 kích hoạt cảm giác ân hận và suy nghĩ 'giá như' kết nối trực tiếp với giá trị tiền tệ.",
+        "Vì Hệ thống 2 tính toán cẩn trọng thiệt hại kinh tế thực tế dựa trên các hóa đơn mua sắm quá khứ.",
+        "Vì thông tin về vị trí cửa hàng cung cấp bằng chứng pháp lý vững chắc cho mức độ thiệt hại thân thể.",
+        "Vì quy luật thống kê về tần suất xuất hiện tạo ra sự bất công rõ rệt trong việc phân bổ tài nguyên."
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo Daniel Kahneman, khi người tham gia đánh giá đơn lẻ (đánh giá riêng từng kịch bản), cảm giác hân hoan hoặc ân hận (giá như ông ấy đi mua ở cửa hàng quen) dễ dàng xuất hiện trong đầu. Hệ thống 1 thực hiện cơ chế hoán đổi và chuyển đổi cường độ cảm xúc thành mức tiền tệ, khiến họ đưa ra khoản bồi thường lớn hơn cho trường hợp cửa hàng lạ."
+    },
+    {
+      "id": "q2",
+      "question": "Sự khác biệt cơ bản giữa 'đánh giá cùng lúc' (joint evaluation) và 'đánh giá riêng lẻ' (single evaluation) minh chứng điều gì về cấu trúc hoạt động của bộ não con người?",
+      "options": [
+        "Đánh giá cùng lúc luôn phản ánh chính xác các phán quyết đạo đức ổn định hơn đánh giá riêng lẻ dưới góc độ kinh tế học hành vi.",
+        "Đánh giá riêng lẻ bị chi phối bởi cường độ cảm xúc của Hệ thống 1, trong khi đánh giá cùng lúc buộc Hệ thống 2 phải tham gia so sánh.",
+        "Đánh giá cùng lúc làm suy yếu khả năng nhận thức logic do lượng thông tin quá lớn làm quá tải bộ nhớ trong quá trình phán đoán và tư duy.",
+        "Đánh giá riêng lẻ là phương pháp duy nhất kích hoạt tư duy phản biện sâu sắc của con người trong đời sống trong quá trình phán đoán và tư duy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đánh giá riêng lẻ thường phản ánh cường độ phản ứng cảm xúc tức thời của Hệ thống 1, trong khi sự đối chiếu trong đánh giá cùng lúc đòi hỏi sự quan sát, so sánh kỹ lưỡng và nỗ lực nhận thức cao hơn từ Hệ thống 2."
+    },
+    {
+      "id": "q3",
+      "question": "Trong thí nghiệm về trò cá cược (Cược A an toàn hơn, Cược B rủi ro hơn) của Lichtenstein và Slovic, hiện tượng nghịch đảo ưu tiên xảy ra khi nào?",
+      "options": [
+        "Người chơi không thể đưa ra bất kỳ quyết định hợp lý nào khi phải đối mặt với hai lựa chọn mâu thuẫn.",
+        "Người chơi từ chối cả hai trò cược vì nhận thức được xác suất thua lỗ quá cao trên vòng quay Rulet.",
+        "Người chơi chọn cược A khi so sánh trực tiếp, nhưng lại đòi hỏi mức lợi nhuận thấp hơn cho cược B.",
+        "Người chơi chọn cược B khi so sánh trực tiếp, nhưng lại đặt mức giá bán cao hơn cho cược A khi định giá riêng lẻ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi lựa chọn trực tiếp, phần thưởng an toàn và chắc chắn của Cược B chiếm ưu thế nên người ta chọn B. Tuy nhiên, khi định giá từng trò riêng lẻ, sự tập trung bị neo giữ vào khoản tiền thắng lớn tiềm năng của Cược A, khiến họ đặt giá trị cho A cao hơn B, tạo ra sự đảo ngược ưu tiên."
+    },
+    {
+      "id": "q4",
+      "question": "Các nhà kinh tế học cổ điển ban đầu phản ứng như thế nào trước các phát hiện về 'sự đảo chiều ưu tiên' do các nhà tâm lý học thực nghiệm công bố?",
+      "options": [
+        "Họ ngay lập tức thay đổi toàn bộ các mô hình toán học kinh tế vĩ mô để phù hợp với tâm lý học hành vi.",
+        "Họ phớt lờ hoàn toàn và từ chối mọi cơ hội hợp tác liên ngành với cộng đồng nghiên cứu tâm lý học.",
+        "Họ tổ chức các nghiên cứu độc lập nhằm kiểm định và cuối cùng phải thừa nhận rằng các nhà tâm lý học đã đúng.",
+        "Họ bác bỏ dữ liệu tâm lý học bằng các chứng minh toán học thuần túy mà không cần tiến hành thực nghiệm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Như trường hợp của David Grether và Charles Plott, họ ban đầu tiến hành thí nghiệm để chứng minh các nhà tâm lý học sai, nhưng cuối cùng phải thừa nhận qua kết quả thực nghiệm rằng các nhà tâm lý học đã đúng về sự phụ thuộc bối cảnh trong lựa chọn."
+    },
+    {
+      "id": "q5",
+      "question": "Khi đánh giá mức độ cấp bách giữa bảo vệ loài cá heo và hỗ trợ những người nông dân mắc bệnh ung thư da, hiện tượng gì đã xảy ra trong thí nghiệm đánh giá riêng lẻ?",
+      "options": [
+        "Cá heo nhận được các khoản quyên góp lớn hơn đáng kể so với những người nông dân trong đánh giá đơn lẻ.",
+        "Những người nông dân luôn nhận được sự ưu tiên tuyệt đối nhờ vào các giá trị nhân văn phổ quát sẵn có.",
+        "Cả hai đối tượng đều nhận được mức quyên góp hoàn toàn bằng nhau do sự cân bằng tuyệt đối của Hệ thống 2.",
+        "Người tham gia từ chối đóng góp cho cả hai vì nhận thấy sự thiếu hụt thông tin chi tiết về tài chính."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong đánh giá đơn lẻ, loài cá heo (đẹp đẽ, thuộc phạm trù tự nhiên được yêu thích) kích hoạt cảm xúc mạnh mẽ của Hệ thống 1 thông qua cơ chế thay thế và bù trừ cường độ, dẫn đến mức quyên góp cao hơn so với vấn đề ung thư da của nông dân."
+    },
+    {
+      "id": "q6",
+      "question": "Yếu tố nào làm thay đổi hoàn toàn cục diện ưu tiên khi người tham gia chuyển từ đánh giá đơn lẻ sang đánh giá cùng lúc giữa việc bảo vệ cá heo và cứu trợ nông dân?",
+      "options": [
+        "Sự xuất hiện của các quy định pháp luật nghiêm ngặt về phân bổ nguồn lực từ chính phủ liên bang.",
+        "Sự sụt giảm đột ngột trong quỹ thời gian suy nghĩ của những người tham gia khảo sát thực nghiệm.",
+        "Sự can thiệp của Hệ thống 2 nhằm tối ưu hóa lợi ích kinh tế tài chính cho các nhà tài trợ từ thiện.",
+        "Sự nổi bật của đặc tính cốt lõi 'con người hay động vật' khi cả hai phương án được đặt lên bàn cân so sánh."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đặc tính 'con người và động vật' không nổi bật trong đánh giá đơn lẻ. Nhưng khi đánh giá cùng lúc, sự khác biệt bản chất này trở nên rõ ràng, khiến con người (nông dân) nhận được sự ưu ái và mức đóng góp cao hơn hẳn."
+    },
+    {
+      "id": "q7",
+      "question": "Trong ví dụ về hai cuốn từ điển âm nhạc đã qua sử dụng (Từ điển A ít mục từ nhưng như mới; Từ điển B nhiều mục từ nhưng rách bìa), điều gì giải thích việc Từ điển A được định giá cao hơn trong đánh giá đơn lẻ?",
+      "options": [
+        "Hệ thống 2 đã tính toán cực kỳ chính xác tỷ lệ khấu hao giá trị tài sản theo thời gian xuất bản nhằm nâng cao chất lượng ra quyết định.",
+        "Người tiêu dùng luôn ưu tiên chất lượng hình thức vật lý hơn là giá trị hàm lượng tri thức bên trong sách dưới góc độ kinh tế học hành vi.",
+        "Số lượng mục từ lớn không thể tự định giá trực tiếp nếu thiếu điểm so sánh, trong khi tình trạng như mới dễ cảm nhận hơn.",
+        "Sự thiếu hụt thông tin về nhà xuất bản khiến người mua tự động chọn phương án an toàn nhất dựa trên các nguyên lý tâm lý học nhận thức."
+      ],
+      "correctIndex": 2,
+      "explanation": "Theo giả thuyết khả năng đánh giá của Christopher Hsee, con số về số lượng mục từ tự thân nó không 'thể định giá' nếu không có hệ quy chiếu so sánh trong đánh giá đơn lẻ, khiến thuộc tính tình trạng sách lấn át."
+    },
+    {
+      "id": "q8",
+      "question": "Trong thí nghiệm của ban bồi thẩm giả định về vụ trẻ em bị bỏng và vụ lừa đảo ngân hàng 10 triệu đô-la, hiện tượng đảo chiều phán quyết nào đã xuất hiện?",
+      "options": [
+        "Ban bồi thẩm hoàn toàn mất khả năng ra quyết định khi phải đối mặt với sự chênh lệch quá lớn về loại thiệt hại.",
+        "Đánh giá đơn lẻ ưu ái đứa trẻ bị thương, nhưng đánh giá cùng lúc lại tập trung hoàn toàn vào tổn thất tài chính.",
+        "Cả hai phương thức đánh giá đều đưa ra các mức phạt hoàn toàn đồng nhất do sự ràng buộc của khung pháp lý.",
+        "Đánh giá đơn lẻ phạt ngân hàng cao hơn, nhưng đánh giá cùng lúc tăng mức bồi thường cho đứa trẻ vượt trội hơn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trong đánh giá đơn lẻ, tổn thất tài chính lớn của ngân hàng tạo ra nguồn neo đáng tin cậy hơn. Nhưng khi đặt cạnh nhau (đánh giá cùng lúc), cảm xúc phẫn nộ trước tổn thương của một đứa trẻ đẩy mức bồi thường cho đứa trẻ tăng lên vượt trội."
+    },
+    {
+      "id": "q9",
+      "question": "Hệ thống pháp luật Mỹ (như việc cấm các thành viên bồi thẩm đoàn xem xét các vụ kiện khác khi ấn định mức phạt) vô tình thiên về điều gì theo phân tích của chương sách?",
+      "options": [
+        "Thiên về đánh giá cùng lúc, giúp tối ưu hóa sự công bằng tổng thể trên quy mô toàn quốc của hệ thống.",
+        "Thiên về đánh giá đơn lẻ, dẫn đến các quyết định rời rạc, thiếu nhất quán và mang đậm tính cảm xúc cục bộ.",
+        "Thiên về sự tính toán hoàn toàn lý trí của Hệ thống 2 nhờ loại bỏ hoàn toàn mọi ảnh hưởng từ cảm xúc.",
+        "Thiên về việc áp dụng các thuật toán kinh tế học hành vi hiện đại vào việc lượng hóa mức độ tổn thương."
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc cấm bồi thẩm đoàn xem xét các vụ kiện khác ép họ phải đưa ra phán quyết dưới hình thức đánh giá đơn lẻ, nơi các phản ứng cảm xúc của Hệ thống 1 chi phối và tạo ra sự thiếu nhất quán tổng thể."
+    },
+    {
+      "id": "q10",
+      "question": "Hiện tượng các cơ quan chính phủ đặt mức phạt rất hợp lý trong nội bộ cơ quan mình nhưng lại cực kỳ bất hợp lý khi so sánh giữa các cơ quan khác nhau phản ánh điều gì?",
+      "options": [
+        "Sự thao túng có chủ ý của các tập đoàn lớn nhằm giảm thiểu tối đa các khoản thuế phải nộp.",
+        "Sự cố kết chặt chẽ trong từng phạm trù riêng lẻ nhưng rời rạc và thiếu đồng bộ ở cấp độ toàn cục hệ thống.",
+        "Sự ưu việt tuyệt đối của Hệ thống 2 trong việc hoạch định chính sách công dài hạn cho xã hội.",
+        "Sự thành công rực rỡ của việc áp dụng học thuyết kinh tế hành vi chuẩn mực vào quản lý nhà nước."
+      ],
+      "correctIndex": 1,
+      "explanation": "Các hệ thống hình phạt hành chính thường cố kết rất hợp lý bên trong từng tổ chức hoặc phạm trù riêng lẻ, nhưng lại hoàn toàn rời rạc, thiếu tương xứng khi đặt tổng hòa các tổ chức cạnh nhau."
+    },
+    {
+      "id": "q11",
+      "question": "Trong đời sống hàng ngày, tại sao con người thường xuyên phải đưa ra các quyết định trong trạng thái 'giữa các chủ thể' (between-subjects) thay vì 'bên trong chủ thể' (within-subjects)?",
+      "options": [
+        "Vì Hệ thống 2 luôn chủ động loại bỏ mọi bối cảnh so sánh để tiết kiệm năng lượng thần kinh tối đa.",
+        "Vì con người bản chất luôn ưa thích sự phức tạp và từ chối các cơ hội so sánh thông tin đa chiều.",
+        "Vì cuộc sống diễn ra tuần tự theo thời gian, nơi các lựa chọn tương phản đồng thời hiếm khi xuất hiện thực tế.",
+        "Vì các cơ chế thị trường hiện đại bắt buộc người tiêu dùng phải hành động đơn độc trong mọi giao dịch."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cuộc sống thực tế trải nghiệm theo hình thái tuần tự, chúng ta thường gặp từng tình huống riêng lẻ thay vì nhìn thấy tất cả các phương án đối chiếu cùng một lúc như trong các thí nghiệm."
+    },
+    {
+      "id": "q12",
+      "question": "Cơ chế 'thay thế' (substitution) và 'chuyển đổi cường độ' (intensity matching) của Hệ thống 1 thể hiện rõ nhất qua quá trình nào dưới đây?",
+      "options": [
+        "Chuyển mức độ yêu thích động vật hoặc mức độ phẫn nộ thành một con số tiền tệ cụ thể để đóng góp hoặc bồi thường.",
+        "Tính toán chính xác tỷ suất lợi nhuận kỳ vọng dựa trên các dữ liệu thống kê xác suất toán học phức tạp.",
+        "Kìm hãm hoàn toàn các phản ứng cảm xúc bộc phát để nhường chỗ cho các suy luận logic thuần túy.",
+        "Phân tích đa chiều các văn bản pháp luật trước khi đưa ra phán quyết cuối cùng về một vụ án dân sự."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 tự động dịch chuyển một cảm xúc định tính (thích nhiều, giận dữ nhiều) thành một đại lượng định lượng (số tiền đô-la quyên góp hoặc tiền bồi thường) thông qua cơ chế chuyển đổi cường độ."
+    },
+    {
+      "id": "q13",
+      "question": "Phát biểu nào sau đây tóm tắt chính xác nhất bài học cốt lõi về bản chất của các phán quyết đạo đức và lựa chọn kinh tế trong chương này?",
+      "options": [
+        "Con người luôn duy trì sự nhất quán hoàn hảo trong mọi quyết định kinh tế nhờ vào sự giám sát chặt chẽ của Hệ thống 2.",
+        "Các trực giác đạo đức và phán quyết đơn lẻ thường không nhất quán nội tại nếu thiếu đi bối cảnh so sánh rộng lớn.",
+        "Sự đảo chiều ưu tiên chỉ là hiện tượng hy hữu trong phòng thí nghiệm và không có ý nghĩa thực tiễn ngoài đời.",
+        "Đánh giá đơn lẻ luôn phản ánh chính xác các nguyên tắc đạo đức phổ quát hơn so với đánh giá cùng lúc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chương sách nhấn mạnh rằng các niềm tin phản ánh khi suy ngẫm không chi phối phản ứng cảm xúc trực giác, dẫn đến sự không nhất quán giữa đánh giá đơn lẻ và đánh giá cùng lúc."
+    },
+    {
+      "id": "q14",
+      "question": "Trong bối cảnh kinh doanh và bán hàng, những người bán hàng khôn ngoan thường ngầm ứng dụng hiện tượng tâm lý nào được đề cập trong chương?",
+      "options": [
+        "Ép buộc khách hàng đưa ra mọi quyết định hoàn toàn trong trạng thái đánh giá đơn lẻ không có đối thủ cạnh tranh.",
+        "Cung cấp vô số dữ liệu thống kê phức tạp để kích hoạt tư duy chậm chẽ của Hệ thống 2 ở người mua theo cơ chế hoạt động của trí não.",
+        "Kiểm soát bối cảnh và cấu trúc thông tin mà khách hàng tiếp nhận để điều hướng sở thích và lựa chọn của họ.",
+        "Loại bỏ hoàn toàn các yếu tố cảm xúc ra khỏi quá trình đàm phán giá trị sản phẩm nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Người bán hàng hiểu rằng 'sự thôi thúc của bối cảnh' nơi người tiêu dùng nhìn nhận hàng hóa ảnh hưởng sâu sắc đến ưu tiên của họ, từ đó khéo léo định hình trải nghiệm so sánh cho khách hàng."
+    },
+    {
+      "id": "q15",
+      "question": "Tại sao các nhà quản lý muốn đạt được những quyết định thận trọng, công bằng và ổn định cần phải thiết lập một cấu trúc đánh giá rộng (bối cảnh đối chiếu)?",
+      "options": [
+        "Vì phán quyết tương đối đòi hỏi sự tham gia của Hệ thống 2, giúp hạn chế sự chi phối bộc phát từ cảm xúc Hệ thống 1.",
+        "Vì điều này giúp loại bỏ hoàn toàn mọi nguồn thông tin nhiễu loạn từ môi trường kinh tế bên ngoài doanh nghiệp.",
+        "Vì nó giúp tự động hóa toàn bộ quy trình ra quyết định mà không cần tốn bất kỳ nguồn lực nhận thức nào.",
+        "Vì các quy định pháp luật quốc tế bắt buộc các tập đoàn lớn phải tuân thủ nghiêm ngặt mô hình đánh giá này."
+      ],
+      "correctIndex": 0,
+      "explanation": "Phán quyết tương đối trong đánh giá cùng lúc đòi hỏi hành động đánh giá cẩn trọng và nỗ lực hơn từ Hệ thống 2, qua đó giảm bớt sự biến động và sai lệch từ các phản ứng cảm xúc của Hệ thống 1."
+    }
+  ]
+}

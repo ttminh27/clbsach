@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_19_Ao_vong_ve_tri_thuc",
+  "chapterTitle": "Chương 19. Ảo vọng về tri thức",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi một công ty công nghệ nhỏ vô tình đạt được thành công vang dội nhờ thời điểm thị trường thuận lợi, công chúng và truyền thông thường gán toàn bộ thành tựu đó cho tầm nhìn thiên tài của nhà sáng lập. Hiện tượng tâm lý nhận thức nào đang chi phối mạnh mẽ cách tư duy này?",
+      "options": [
+        "Hiệu ứng hào quang kết hợp với việc cường điệu hóa năng lực cá nhân và xem nhẹ may mắn.",
+        "Quy luật thống kê tự nhiên về sự hồi quy về mức trung bình của kết quả kinh doanh.",
+        "Xu hướng tìm kiếm sự cân bằng logic thông qua phân tích số liệu định lượng khách quan.",
+        "Cơ chế kiểm soát chặt chẽ của Hệ thống 2 nhằm đánh giá toàn diện các rủi ro tiềm ẩn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 luôn khao khát một câu chuyện mạch lạc, đơn giản, trong đó thành công phải do năng lực tài ba tạo ra, bỏ qua yếu tố ngẫu nhiên của may mắn (Hiệu ứng hào quang)."
+    },
+    {
+      "id": "q2",
+      "question": "Nguyên tắc WYSIATI (Những gì bạn thấy là tất cả những gì có) đóng vai trò như thế nào trong việc hình thành ảo vọng về tri thức khi chúng ta nhìn nhận lại lịch sử quá khứ?",
+      "options": [
+        "Nó khiến chúng ta dựng lên một câu chuyện hợp lý nhất từ các thông tin hiện có và phớt lờ những gì chưa biết.",
+        "Nó giúp Hệ thống 2 tính toán chính xác xác suất xảy ra của từng biến cố ngẫu nhiên trong đời.",
+        "Nó buộc não bộ phải thu thập đầy đủ mọi dữ liệu lịch sử trái chiều trước khi đưa ra kết luận.",
+        "Nó triệt tiêu hoàn toàn các thiên kiến nhận thức nhờ vào việc phân tích đa chiều các rủi ro."
+      ],
+      "correctIndex": 0,
+      "explanation": "WYSIATI khiến tâm trí tự động xây dựng câu chuyện thuyết phục nhất dựa trên những mảnh thông tin sẵn có, khiến ta tưởng rằng mình đã hiểu rõ toàn bộ bản chất quá khứ."
+    },
+    {
+      "id": "q3",
+      "question": "Hiện tượng 'thiên lệch nhận thức muộn' (hindsight bias) thường dẫn đến hậu quả tâm lý tiêu cực nào đối với các nhà quản lý hoặc chuyên gia ra quyết định?",
+      "options": [
+        "Họ bị chỉ trích bất công vì khách hàng cho rằng những rủi ro bất ngờ đáng lẽ phải được lường trước.",
+        "Họ dễ dàng tha thứ cho những nhân viên thực hiện sai quy trình nhưng mang lại kết quả tốt.",
+        "Họ trở nên cẩn trọng hơn và luôn dự phòng đầy đủ các kịch bản rủi ro tài chính phức tạp.",
+        "Họ đánh giá khách quan năng lực thực tế của bản thân dựa trên quy trình thay vì kết quả."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhận thức muộn làm cho mọi sự kiện sau khi xảy ra trông có vẻ hiển nhiên, khiến người ngoài cuộc chỉ trích người ra quyết định vì đã không lường trước được điều thực ra vốn không thể đoán trước."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao các cuốn sách kinh doanh bán chạy thường cố gắng chứng minh rằng thành công của các doanh nghiệp lớn đến từ các thói quen quản lý cụ thể có thể học hỏi được?",
+      "options": [
+        "Vì chúng phản ánh chính xác các mô hình toán học phức tạp về thị trường tài chính toàn cầu.",
+        "Vì hệ số tương quan giữa năng lực CEO và thành công doanh nghiệp thực tế đạt mức tuyệt đối bằng 1.",
+        "Vì con người có nhu cầu tâm lý mạnh mẽ về một trật tự rõ ràng và thông điệp đơn giản để an tâm.",
+        "Vì các tác giả luôn sử dụng phương pháp thực nghiệm kiểm chứng mù đôi trên quy mô lớn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Con người ghét sự hỗn độn và ngẫu nhiên; chúng ta khao khát những câu chuyện đơn giản mang lại cảm giác hiểu biết và an toàn, dù đó chỉ là ảo vọng."
+    },
+    {
+      "id": "q5",
+      "question": "Khi một công ty bắt đầu làm ăn thua lỗ, công chúng và truyền thông thường lập tức quy kết vị CEO là kẻ độc đoán, cứng nhắc. Theo Daniel Kahneman, góc nhìn nhân quả ngược này là biểu hiện của điều gì?",
+      "options": [
+        "Sự suy luận logic dựa trên các báo cáo kiểm toán tài chính độc lập dài hạn.",
+        "Quá trình phân tích khách quan của Hệ thống 2 đối với năng lực điều hành thực tế.",
+        "Tác động mạnh mẽ của hiệu ứng hào quang làm biến đổi nhận thức về tính cách lãnh đạo.",
+        "Hiệu ứng mỏ neo xuất phát từ các số liệu dự báo kinh tế vĩ mô từ đầu năm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hiệu ứng hào quang khiến đánh giá của chúng ta về nhân cách CEO bị chi phối hoàn toàn bởi kết quả kinh doanh hiện tại của công ty (thành công = linh hoạt, thất bại = cứng nhắc)."
+    },
+    {
+      "id": "q6",
+      "question": "Nghiên cứu về hệ số tương quan giữa năng lực quản lý của CEO và sự thành công tài chính của doanh nghiệp cho thấy con số ước lượng thường nằm trong khoảng nào?",
+      "options": [
+        "Khoảng 0.9 đến 1.0, biểu thị sự chi phối hoàn toàn của nhà lãnh đạo đối với thị trường.",
+        "Khoảng 0.75, phản ánh khả năng dự đoán chính xác cao độ của các chuyên gia kinh tế.",
+        "Khoảng 0.0, chứng minh rằng mọi nỗ lực điều hành doanh nghiệp đều hoàn toàn vô nghĩa.",
+        "Khoảng 0.3, nghĩa là có sự đan xen khoảng 30% giữa năng lực và các yếu tố khác."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hệ số tương quan khoảng 0.3 cho thấy CEO chỉ kiểm soát một phần nhỏ thành quả, phần lớn phần còn lại chịu sự chi phối của may mắn và các điều kiện ngoại cảnh."
+    },
+    {
+      "id": "q7",
+      "question": "Hiện tượng 'giảm thoái về mức trung bình' (regression to the mean) giải thích điều gì về hiệu suất hoạt động của các doanh nghiệp được ca ngợi là xuất sắc nhất trong các sách quản trị kinh doanh?",
+      "options": [
+        "Họ sẽ tiếp tục duy trì đà tăng trưởng độc tôn nhờ vào văn hóa doanh nghiệp vững chắc.",
+        "Họ sẽ nhanh chóng phá sản hoàn toàn do sự chủ quan và thiếu đổi mới trong chiến lược.",
+        "Hiệu suất tài chính của họ có xu hướng sụt giảm và tiến về mức trung bình của ngành theo thời gian.",
+        "Họ sẽ luôn tìm ra các thị trường ngách mới để duy trì hệ số sinh lời vượt trội vĩnh viễn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thành công ban đầu của các công ty nổi bật thường có đóng góp lớn từ may mắn. Khi thời gian trôi qua, yếu tố may mắn phai nhạt và hiệu suất sẽ giảm thoái về mức trung bình."
+    },
+    {
+      "id": "q8",
+      "question": "Trong bối cảnh ra quyết định y khoa hoặc tư vấn tài chính, nhận thức muộn (hindsight bias) gây ra hệ lụy tai hại nào cho các chuyên gia?",
+      "options": [
+        "Họ bị phán xét khắt khe nếu kết quả xấu, dù quy trình chuyên môn họ thực hiện hoàn toàn đúng đắn.",
+        "Họ tự tin hơn vào trực giác cá nhân và giảm bớt các thủ tục kiểm tra rườm rà không cần thiết.",
+        "Họ dễ dàng nhận được sự thấu hiểu tuyệt đối từ khách hàng trong mọi tình huống khủng hoảng.",
+        "Họ luôn đưa ra các dự báo tài chính chính xác tuyệt đối nhờ vào kinh nghiệm thực chiến."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhận thức muộn khiến người đánh giá nhầm lẫn giữa quy trình tồi và kết quả xấu, dẫn đến việc trừng phạt những chuyên gia dù họ đã làm đúng quy trình nhưng gặp rủi ro bất ngờ."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao việc sử dụng từ 'biết' (ví dụ: 'tôi đã biết chắc chắn khủng hoảng sẽ xảy ra') trong các cuộc thảo luận nghiêm túc về các biến cố lớn lại bị Daniel Kahneman chỉ trích là sự lạm dụng ngôn từ?",
+      "options": [
+        "Vì nó vi phạm các quy tắc ngữ pháp cơ bản trong việc chia thì của động từ tiếng Việt trong quá trình phán đoán và tư duy.",
+        "Vì từ này chỉ được dùng hợp lý khi sự kiện thực sự xảy ra và có thể nhận thức đúng từ trước, tránh vơ đũa cả nắm.",
+        "Vì các chuyên gia kinh tế luôn có quyền đưa ra các dự báo sai lệch mà không phải chịu trách nhiệm dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Vì từ này làm tăng độ phức tạp không cần thiết trong các báo cáo phân tích chiến lược doanh nghiệp nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dùng từ 'biết' cho một sự việc mơ hồ chỉ đúng một phần trong quá khứ là sự lạm dụng ngôn từ, tạo ra ảo tưởng về khả năng dự đoán siêu việt sau khi sự kiện đã rồi."
+    },
+    {
+      "id": "q10",
+      "question": "Khi đối mặt với một chuỗi các sự kiện ngẫu nhiên nhưng mang lại kết quả tốt đẹp cho một cá nhân liều lĩnh, Hệ thống 1 của con người thường có xu hướng phản ứng như thế nào?",
+      "options": [
+        "Thận trọng phân tích xác suất thống kê để tìm ra sai số trong phương pháp kinh doanh.",
+        "Tôn vinh họ như những anh hùng có tầm nhìn xa trông rộng và bản lĩnh phi thường.",
+        "Nghi ngờ tính hợp pháp của toàn bộ quá trình thực hiện dự án đầu tư mạo hiểm đó.",
+        "Yêu cầu lập tức thay đổi toàn bộ ban lãnh đạo để đảm bảo tính minh bạch dài hạn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 1 dễ bị đánh lừa bởi kết quả thành công, vội vàng gán cho kẻ liều lĩnh vầng hào quang của sự thông thái và dũng cảm, bỏ qua yếu tố may mắn thuần túy."
+    },
+    {
+      "id": "q11",
+      "question": "Thí nghiệm của Baruch Fischhoff về dự đoán chuyến thăm Trung Quốc của Tổng thống Nixon năm 1972 đã chứng minh hiện tượng tâm lý nào ở con người?",
+      "options": [
+        "Khả năng ghi nhớ chính xác tuyệt đối các xác suất toán học đã đặt ra trong quá khứ.",
+        "Sự thay đổi vô thức của ký ức sao cho phù hợp với kết quả thực tế đã diễn ra.",
+        "Xu hướng bác bỏ hoàn toàn các thông tin truyền thông chính thống sau khi sự kiện kết thúc.",
+        "Hiệu ứng mỏ neo mạnh mẽ khi bị tác động bởi các số liệu thống kê từ chính phủ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thí nghiệm chứng minh con người không thể nhớ lại chính xác niềm tin trước đó của mình sau khi đã biết kết quả; họ tự động điều chỉnh ký ức để tin rằng mình đã đoán đúng."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao các bác sĩ thường có xu hướng thực hiện quá nhiều xét nghiệm thừa thãi và áp dụng các phác đồ an toàn thái quá trong môi trường nhiều kiện tụng?",
+      "options": [
+        "Vì họ muốn tối đa hóa doanh thu tài chính cho bệnh viện nơi họ đang trực tiếp công tác.",
+        "Vì Hệ thống 2 của họ phân tích thấy rằng xét nghiệm nhiều luôn mang lại tỷ lệ chữa khỏi 100%.",
+        "Vì các quy chuẩn y khoa quốc tế bắt buộc phải tuân thủ tuyệt đối mọi yêu cầu ngẫu nhiên.",
+        "Vì họ bị chi phối bởi áp lực phòng thủ trước hiện tượng nhận thức muộn và sai lệch kết quả của công chúng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sợ bị phán xét bởi nhận thức muộn của người ngoài khi có kết quả xấu, các bác sĩ thực hiện các hành động bảo vệ bản thân thay vì tối ưu hóa lợi ích thực sự cho bệnh nhân."
+    },
+    {
+      "id": "q13",
+      "question": "Bản chất cốt lõi của 'ảo vọng về tri thức' theo góc nhìn của tâm lý học hành vi là gì?",
+      "options": [
+        "Sự thấu hiểu sâu sắc và toàn diện về các quy luật phức tạp vận hành nền kinh tế vĩ mô.",
+        "Khả năng sử dụng các thuật toán máy tính để loại bỏ hoàn toàn mọi rủi ro bất định trong kinh doanh.",
+        "Niềm tin sai lầm rằng chúng ta hiểu rất rõ quá khứ và do đó có cơ sở vững chắc để dự đoán tương lai.",
+        "Xu hướng luôn hoài nghi mọi dữ liệu lịch sử và từ chối đưa ra bất kỳ chiến lược dài hạn nào."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ảo vọng về tri thức xuất phát từ ảo tưởng rằng quá khứ rất rõ ràng, từ đó sinh ra sự tự tin thái quá rằng tương lai cũng có thể được dự đoán chính xác."
+    },
+    {
+      "id": "q14",
+      "question": "Trong trường hợp bồi thẩm đoàn phán xét sai lầm rằng các bác sĩ phải chịu trách nhiệm về cái chết của bệnh nhân sau tai nạn, loại sai lệch nhận thức nào đang diễn ra?",
+      "options": [
+        "Hiệu ứng mỏ neo dựa trên các số liệu thống kê tai nạn giao thông quốc gia.",
+        "Sai lệch vị kết quả kết hợp với nhận thức muộn và hiệu ứng hào quang tiêu cực.",
+        "Sự tính toán cực kỳ lý trí và khách quan của Hệ thống 2 dựa trên bằng chứng pháp y.",
+        "Quy luật số nhỏ trong việc đánh giá năng lực phẫu thuật ngoại khoa của bệnh viện."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bồi thẩm đoàn bị ảnh hưởng bởi nhận thức muộn và sai lệch vị kết quả, đánh đồng hậu quả tồi tệ với quy trình chuyên môn kém, dù thực tế đội ngũ y bác sĩ đã cố gắng hết sức."
+    },
+    {
+      "id": "q15",
+      "question": "Đâu là phương pháp tư duy đúng đắn nhất để đối phó với các cạm bẫy của nhận thức muộn và ảo vọng tri thức trong quản trị và đời sống hàng ngày?",
+      "options": [
+        "Tin tưởng hoàn toàn vào trực giác mạnh mẽ của Hệ thống 1 khi đối mặt với các tình huống khủng hoảng dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Cho rằng mọi thành công trong kinh doanh đều chỉ đến từ sự may mắn ngẫu nhiên hoàn toàn dưới góc độ kinh tế học hành vi.",
+        "Phớt lờ mọi dữ liệu lịch sử và chỉ hành động dựa trên cảm xúc nhất thời của số đông theo cơ chế hoạt động của trí não.",
+        "Luôn ghi chép lại các dự báo và quyết định của mình trước khi sự kiện diễn ra để đánh giá khách quan quy trình thay vì kết quả."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ghi chép lại các phán đoán trước khi sự kiện xảy ra giúp chúng ta chống lại sự bóp méo ký ức của nhận thức muộn, từ đó đánh giá đúng đắn chất lượng quyết định dựa trên quy trình."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_24_Dong_co_cua_chu_nghia_tu_ban",
+  "chapterTitle": "Chương 24. Động cơ của chủ nghĩa tư bản",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Vì sao các doanh nhân thường bất chấp số liệu thống kê vĩ mô (ví dụ: 60% nhà hàng đóng cửa sau 3 năm) để lao vào khởi nghiệp?",
+      "options": [
+        "Vì họ cố tình làm ngơ trước rủi ro để lừa dối các nhà đầu tư.",
+        "Vì họ nắm được các công thức bí mật giúp né tránh thất bại hoàn toàn.",
+        "Vì Hệ thống 1 bị chi phối bởi hiệu ứng WYSIATI và tập trung vào kế hoạch.",
+        "Vì Hệ thống 2 của họ tính toán cực kỳ chính xác các biến số thị trường."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hệ thống 1 vận hành theo nguyên lý WYSIATI (những gì thấy là tất cả những gì có), khiến doanh nhân chỉ tập trung vào mục tiêu, kế hoạch của mình và bỏ qua các yếu tố thống kê nền hay đối thủ cạnh tranh."
+    },
+    {
+      "id": "q2",
+      "question": "Hiện tượng 'sao nhãng cạnh tranh' (competitive neglect) trong kinh doanh xuất phát từ cơ chế nhận thức nào của bộ não?",
+      "options": [
+        "Việc thay thế câu hỏi khó về đối thủ bằng câu dễ về kế hoạch của mình.",
+        "Sự phân tích quá kỹ lưỡng mọi hành động của tất cả các đối thủ.",
+        "Sự tính toán sai lầm của Hệ thống 2 khi xử lý các số liệu tài chính lớn.",
+        "Khả năng dự đoán chính xác tuyệt đối các biến động của thị trường mở."
+      ],
+      "correctIndex": 0,
+      "explanation": "Con người thường trả lời một câu hỏi khó (đối thủ sẽ làm gì, thị trường ra sao?) bằng cách trả lời một câu hỏi dễ hơn sẵn có trong đầu (tôi có sản phẩm tốt và kế hoạch hay không?)."
+    },
+    {
+      "id": "q3",
+      "question": "Theo Kahneman, tại sao các CEO quá tự tin lại dễ trả giá đắt trong các thương vụ sáp nhập và mua lại (M&A)?",
+      "options": [
+        "Vì họ bị ép buộc phải thực hiện các giao dịch thua lỗ bởi hội đồng quản trị.",
+        "Vì họ mắc chứng ngạo mạn, tin sai lầm rằng mình quản lý tài sản tốt hơn.",
+        "Vì thị trường chứng khoán luôn cố tình hạ giá trị doanh nghiệp của họ.",
+        "Vì họ thiếu hoàn toàn các kiến thức cơ bản về quản trị doanh nghiệp nhỏ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Các CEO lạc quan thái quá rơi vào 'giả thuyết ngạo mạn', tự tin rằng họ có thể quản lý khối tài sản của công ty mục tiêu tốt hơn chủ cũ, dẫn đến việc thanh toán vượt mức và phá hủy giá trị."
+    },
+    {
+      "id": "q4",
+      "question": "Khoảng tin cậy quá hẹp (overconfidence trong dự báo của các CFO) phản ánh điều gì về tâm lý xã hội trong môi trường doanh nghiệp?",
+      "options": [
+        "Sự thấu hiểu tường tận và chính xác tuyệt đối các biến động kinh tế.",
+        "Thói quen sử dụng các thuật toán máy tính tiên tiến để dự đoán tương lai.",
+        "Nỗi sợ bị trừng phạt xã hội nếu thừa nhận sự kém hiểu biết và bất định.",
+        "Sự minh bạch hoàn toàn trong việc chia sẻ thông tin giữa các chuyên gia."
+      ],
+      "correctIndex": 2,
+      "explanation": "Xã hội và môi trường doanh nghiệp không chấp nhận sự thiếu chắc chắn. Nếu CFO đưa ra khoảng dự báo quá rộng, họ sẽ bị coi là kém năng lực và bị cười nhạo."
+    },
+    {
+      "id": "q5",
+      "question": "Quy trình 'mô phỏng biến cố' (premortem) do Gary Klein đề xuất nhằm mục đích cốt lõi nào?",
+      "options": [
+        "Tăng cường thêm sự lạc quan để nhóm kiên trì theo đuổi mục tiêu đến cùng.",
+        "Loại bỏ hoàn toàn mọi rủi ro có thể xảy ra trong các dự án tương lai.",
+        "Buộc các thành viên phải đưa ra các dự báo tài chính có độ chính xác cao.",
+        "Vô hiệu hóa áp lực tuân thủ tập thể và hợp pháp hóa những mối hoài nghi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Premortem yêu cầu giả định dự án đã thất bại thảm hại để mọi người viết ra nguyên nhân. Điều này phá vỡ tư duy nhóm (groupthink) và cho phép các hoài nghi được lên tiếng."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao các nhà sáng lập doanh nghiệp nhỏ vẫn tiếp tục cố chấp dấn thân dù nhận được dữ liệu dự báo thất bại rõ ràng?",
+      "options": [
+        "Vì chính phủ luôn có các chính sách tài chính bảo hộ tuyệt đối cho họ.",
+        "Vì họ sở hữu điểm số lạc quan cá nhân cao và bị thiên kiến kiên trì.",
+        "Vì các chuyên gia phân tích cố tình đưa ra số liệu sai lệch để hù dọa.",
+        "Vì chi phí rút lui khỏi thị trường luôn thấp hơn chi phí tiếp tục duy trì."
+      ],
+      "correctIndex": 1,
+      "explanation": "Những nhà sáng lập có điểm số lạc quan cá nhân cao thường có xu hướng kiên trì bất chấp tin xấu, tin rằng thất bại chỉ là tạm thời và số mệnh nằm trong tay họ."
+    },
+    {
+      "id": "q7",
+      "question": "Cụm từ 'dự báo liều lĩnh và quyết định rụt rè' mà Kahneman và Lovallo sử dụng mô tả hiện tượng gì?",
+      "options": [
+        "Đánh giá rủi ro thấp khi lập kế hoạch nhưng lại quá thận trọng khi hành động.",
+        "Việc đưa ra kế hoạch mạo hiểm nhưng lại thiếu sự chuẩn bị về nguồn vốn.",
+        "Sự cẩn trọng tuyệt đối trong mọi hành động kinh doanh của các nhà quản lý.",
+        "Sự kết hợp giữa tư duy logic của Hệ thống 2 và trực giác của Hệ thống 1."
+      ],
+      "correctIndex": 0,
+      "explanation": "Doanh nhân thường lạc quan đánh giá thấp rủi ro khi lập kế hoạch (liều lĩnh), nhưng thực tế việc thiếu nhận thức đầy đủ về sự bất định dẫn đến những cạm bẫy lớn."
+    },
+    {
+      "id": "q8",
+      "question": "Yếu tố nào sau đây giải thích tốt nhất vì sao các bác sĩ lâm sàng hoặc chuyên gia thường tỏ ra quá tự tin vào chẩn đoán của mình?",
+      "options": [
+        "Khách hàng và bệnh nhân thường đánh giá sự thiếu chắc chắn là sự yếu kém.",
+        "Họ luôn cập nhật dữ liệu thống kê xác suất mới nhất từ các nghiên cứu.",
+        "Họ có khả năng kiểm soát hoàn toàn các biến số sinh học phức tạp của cơ thể.",
+        "Hệ thống 2 của họ luôn hoạt động ở mức công suất tối đa khi chẩn đoán."
+      ],
+      "correctIndex": 0,
+      "explanation": "Áp lực từ phía bệnh nhân và xã hội buộc chuyên gia phải thể hiện sự tự tin tuyệt đối, bởi sự ngập ngừng hay thừa nhận mơ hồ bị xem là dấu hiệu của sự kém năng lực."
+    },
+    {
+      "id": "q9",
+      "question": "Theo quan điểm kinh tế học hành vi, sự lạc quan thái quá của các doanh nhân mang lại tác động kép nào cho xã hội?",
+      "options": [
+        "Tạo ra sự bình ổn giá cả thị trường nhưng làm giảm số lượng doanh nghiệp mới.",
+        "Làm sụp đổ hoàn toàn hệ thống ngân hàng nhưng giúp giảm tỷ lệ thất nghiệp.",
+        "Gây thiệt hại tài chính cho cá nhân nhà đầu tư nhưng thúc đẩy kinh tế năng động.",
+        "Giúp tất cả các doanh nghiệp nhỏ đều đạt lợi nhuận cao và sống thọ hơn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dù phần lớn những người gánh rủi ro (những 'kẻ lạc quan tử vì đạo') phải nhận lấy thất bại và thua lỗ tài chính, sự dấn thân của họ lại là động lực cho một nền kinh tế năng động."
+    },
+    {
+      "id": "q10",
+      "question": "Hiện tượng phần lớn người lái xe tự tin rằng mình lái xe 'trên mức trung bình' minh họa cho xu hướng nhận thức nào?",
+      "options": [
+        "Khả năng đánh giá khách quan và chính xác năng lực bản thân qua thực tế.",
+        "Sự thay thế câu hỏi phức tạp về mức trung bình bằng câu hỏi dễ về bản thân.",
+        "Hiệu ứng mỏ neo khi tiếp nhận các số liệu thống kê giao thông đường bộ.",
+        "Ác cảm mất mát khiến họ sợ hãi việc thừa nhận mình kém cỏi hơn người khác."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi được hỏi liệu mình có lái xe giỏi hơn mức trung bình không, bộ não tự động thay thế bằng câu hỏi dễ hơn: 'Mình có phải là tay lái cừ không?' và nhanh chóng trả lời là có."
+    },
+    {
+      "id": "q11",
+      "question": "Đặc điểm nào của Hệ thống 1 giải thích nguyên nhân gốc rễ của sự quá tự tin và ảo tưởng kiểm soát?",
+      "options": [
+        "Khả năng xử lý hàng loạt dữ liệu thống kê phức tạp cùng một lúc một cách logic.",
+        "Sự hoài nghi liên tục đối với các kế hoạch và mục tiêu do chính mình đặt ra.",
+        "Thói quen kích hoạt Hệ thống 2 ngay lập tức trước mọi tình huống bất ngờ.",
+        "Sự xây dựng các câu chuyện mạch lạc từ thông tin có sẵn và bỏ qua phần còn thiếu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hệ thống 1 tạo ra những câu chuyện rất mạch lạc dựa trên những gì xuất hiện trong đầu (WYSIATI), khiến chúng ta tin chắc vào nhận định của mình mà quên đi những thông tin chưa biết."
+    },
+    {
+      "id": "q12",
+      "question": "Trong bối cảnh nghiên cứu khoa học hoặc kinh doanh, phong cách giải thích lạc quan đóng vai trò tích cực chủ yếu ở mặt nào?",
+      "options": [
+        "Cung cấp sức mạnh và tính kiên cường để đối mặt với những thất bại lặp lại.",
+        "Giúp loại bỏ hoàn toàn khả năng xảy ra các sai sót kỹ thuật trong dự án.",
+        "Đảm bảo 100% các sáng kiến thương mại hóa đều đạt thành công tài chính.",
+        "Giúp nhà quản lý dễ dàng vay vốn ngân hàng với lãi suất cực kỳ ưu đãi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lợi ích lớn nhất của sự lạc quan là tính kiên cường (resilience). Nó giúp con người không bị nản lòng trước những thất bại liên tiếp bằng cách đổ lỗi cho ngoại cảnh thay vì năng lực bản thân."
+    },
+    {
+      "id": "q13",
+      "question": "Tại sao việc đào tạo con người mở rộng 'khoảng tin cậy' để giảm bớt sự quá tự tin thường gặp nhiều khó khăn?",
+      "options": [
+        "Vì con người không có đủ khả năng ngoại ngữ để hiểu các thuật ngữ xác suất.",
+        "Vì sự tự tin chủ quan được quyết định bởi tính mạch lạc của câu chuyện, không phải dữ liệu.",
+        "Vì các chính phủ cấm các tổ chức giáo dục can thiệp vào tư duy kinh tế.",
+        "Vì Hệ thống 2 kiểm soát hoàn toàn mọi phản ứng tự động của bộ não con người."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trở ngại chính là niềm tin chủ quan được định đoạt bởi câu chuyện mạch lạc mà Hệ thống 1 thiết lập nên trong đầu, chứ không phụ thuộc vào chất lượng hay số lượng thông tin thực tế."
+    },
+    {
+      "id": "q14",
+      "question": "Hiện tượng các hãng phim lớn ồ ạt cho chiếu nhiều phim bom tấn vào cùng một kỳ nghỉ lễ phản ánh rõ nhất sai lệch nhận thức nào?",
+      "options": [
+        "Sự tính toán chính xác số lượng khán giả ra rạp trong dịp lễ hội lớn.",
+        "Ác cảm mất mát khi các hãng phim sợ bỏ lỡ cơ hội doanh thu vàng.",
+        "Hiệu ứng đóng khung thông tin marketing để thu hút tối đa giới trẻ.",
+        "Sự sao nhãng cạnh tranh do chỉ tập trung vào chất lượng bộ phim của chính mình."
+      ],
+      "correctIndex": 3,
+      "explanation": "Các hãng phim sa vào bẫy sao nhãng cạnh tranh: họ chỉ nghĩ về bộ phim hay và kế hoạch marketing của mình, hoàn toàn quên mất rằng các đối thủ khác cũng đang làm điều y hệt."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học cốt lõi nào về tư duy phản biện rút ra từ chương sách khi bạn chuẩn bị đưa ra một quyết định đầu tư lớn?",
+      "options": [
+        "Hãy tin tưởng tuyệt đối vào trực giác và sự lạc quan bẩm sinh của bản thân.",
+        "Luôn tìm kiếm các ý kiến đồng thuận tuyệt đối trong nhóm để đẩy nhanh tiến độ.",
+        "Chủ động nghi ngờ các kế hoạch màu hồng và sử dụng công cụ mô phỏng thất bại.",
+        "Chỉ dựa vào các con số thống kê vĩ mô và bỏ qua hoàn toàn kế hoạch chi tiết."
+      ],
+      "correctIndex": 2,
+      "explanation": "Do con người dễ mắc bẫy lạc quan và WYSIATI, bài học quan trọng là cần chủ động áp dụng các biện pháp như premortem để tìm kiếm hiểm họa và thách thức các kế hoạch màu hồng."
+    }
+  ]
+}

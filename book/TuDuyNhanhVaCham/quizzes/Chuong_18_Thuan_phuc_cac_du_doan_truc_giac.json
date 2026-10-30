@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_18_Thuan_phuc_cac_du_doan_truc_giac",
+  "chapterTitle": "Chương 18. Thuần phục các dự đoán trực giác",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi một nhà quản lý đưa ra dự báo doanh thu năm tới dựa hoàn toàn vào ấn tượng xuất sắc về buổi phỏng vấn tuyển dụng của nhân sự mới, hiện tượng tâm lý nào của Hệ thống 1 đang chi phối?",
+      "options": [
+        "Sự thay thế câu hỏi và cường độ phù hợp trong tư duy liên tưởng.",
+        "Quy luật số nhỏ chi phối các mẫu dữ liệu khảo sát trực quan.",
+        "Hiệu ứng khung quyết định ảnh hưởng trực tiếp đến nhận thức số liệu.",
+        "Sự suy giảm phân tích thống kê do thiếu hụt thông tin lịch sử."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 tự động thay thế câu hỏi khó về dự báo tương lai bằng câu hỏi dễ về ấn tượng hiện tại thông qua cơ chế cường độ phù hợp."
+    },
+    {
+      "id": "q2",
+      "question": "Theo Daniel Kahneman, tại sao các dự đoán trực giác chưa được hiệu chỉnh thường có xu hướng cực đoan và tự tin thái quá?",
+      "options": [
+        "Vì chúng được neo giữ chặt chẽ vào các định kiến xã hội sẵn có.",
+        "Vì Hệ thống 2 luôn cố tình phóng đại dữ liệu để bảo vệ cái tôi.",
+        "Vì chúng hoàn toàn bỏ qua hiện tượng hồi quy về mức trung bình.",
+        "Vì các dấu hiệu đầu vào luôn chứa đựng thông tin sai lệch trọng yếu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Các dự đoán trực giác thường khớp hoàn toàn với độ mạnh của dấu hiệu đầu vào mà không tính đến yếu tố bất định và hồi quy về mức trung bình."
+    },
+    {
+      "id": "q3",
+      "question": "Trong bối cảnh hội đồng tuyển dụng phải chọn giữa Kim (phỏng vấn cực giỏi, chưa có nhiều bài báo) và Jane (phỏng vấn kém hơn, hồ sơ xuất sắc), quyết định chọn Jane phản ánh điều gì?",
+      "options": [
+        "Sự ưu tiên tuyệt đối cho các năng lực giao tiếp mang tính ngoại giao.",
+        "Việc Hệ thống 2 đã chiến đấu thành công với ấn tượng trực giác ban đầu.",
+        "Sự áp dụng sai lầm các nguyên tắc thống kê mẫu lớn vào tình huống nhỏ.",
+        "Việc loại bỏ hoàn toàn các thông tin định tính để dựa vào số lượng bài báo."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chọn Jane đòi hỏi Hệ thống 2 phải nỗ lực vượt qua ấn tượng trực giác ban đầu rất mạnh về Kim để xem xét độ chắc chắn của bằng chứng."
+    },
+    {
+      "id": "q4",
+      "question": "Khi áp dụng bốn bước đơn giản để hiệu chỉnh dự đoán trực giác, vai trò của bước dịch chuyển từ điểm trung bình dựa trên hệ số tương quan là gì?",
+      "options": [
+        "Điều chỉnh mức độ cực đoan của dự đoán về gần giá trị trung bình hơn.",
+        "Xác định chính xác giá trị tuyệt đối của biến số ở thời điểm tương lai.",
+        "Loại bỏ hoàn toàn các yếu tố ngẫu nhiên tác động lên biến số dự đoán.",
+        "Tăng cường độ tự tin của Hệ thống 2 đối với kết quả tính toán cuối cùng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bước dịch chuyển dựa vào hệ số tương quan giúp tiết chế dự đoán trực giác, kéo nó về mức trung bình để tránh sai lệch do quá cực đoan."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao Daniel Kahneman cho rằng việc luôn tìm kiếm các dự đoán không bị sai lệch đôi khi không phải là mục tiêu tối ưu đối với các nhà đầu tư mạo hiểm?",
+      "options": [
+        "Vì họ thích sống trong cảm giác tự lừa dối bản thân để duy trì niềm đam mê.",
+        "Vì Hệ thống 1 của họ đã được huấn luyện để miễn nhiễm với các lỗi nhận thức.",
+        "Vì các phương pháp thống kê không bao giờ áp dụng được cho thị trường mới nổi.",
+        "Vì chi phí của việc bỏ lỡ một cơ hội cực kỳ thành công lớn hơn rủi ro mất tiền."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nhà đầu tư mạo hiểm chấp nhận rủi ro dự đoán cực đoan vì bỏ lỡ 'Google tiếp theo' tồi tệ hơn nhiều so với việc đầu tư thất bại vào một dự án nhỏ."
+    },
+    {
+      "id": "q6",
+      "question": "Hiện tượng WYSIATI (Những gì bạn thấy là tất cả những gì có) thể hiện rõ nhất qua cơ chế nào của dự đoán trực giác?",
+      "options": [
+        "Trí nhớ liên tưởng tự động dựng lên câu chuyện khả thi nhất từ thông tin sẵn có.",
+        "Hệ thống 2 chủ động tìm kiếm các bằng chứng trái ngược để kiểm chứng giả thuyết.",
+        "Con người luôn yêu cầu cung cấp đầy đủ dữ liệu thống kê trước khi ra phán đoán.",
+        "Sự từ chối tiếp nhận các thông tin không phù hợp với quan điểm cá nhân sẵn có."
+      ],
+      "correctIndex": 0,
+      "explanation": "WYSIATI thúc đẩy trí nhớ liên tưởng nhanh chóng tạo ra một câu chuyện mạch lạc và hợp lý dựa độc quyền trên các thông tin hiện diện trước mắt."
+    },
+    {
+      "id": "q7",
+      "question": "Khi một đội ngũ quản lý dự án ước tính thời gian hoàn thành công trình chỉ dựa trên sự suôn sẻ của giai đoạn khởi đầu, họ đang mắc phải lỗi nhận thức nào?",
+      "options": [
+        "Đánh giá thấp sai số do sử dụng các công cụ đo lường tài chính truyền thống.",
+        "Nhầm lẫn giữa đánh giá dấu hiệu hiện tại với dự đoán kết quả trong tương lai.",
+        "Phụ thuộc quá mức vào các phân tích thống kê phức tạp của Hệ thống 2.",
+        "Bỏ qua hoàn toàn các yếu tố nhân quả giữa năng lực và kết quả thực tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Họ xử lý nhiệm vụ dự đoán tương lai giống như nhiệm vụ đánh giá dấu hiệu hiện tại, dẫn đến việc không phân biệt được hai dạng câu hỏi khác nhau."
+    },
+    {
+      "id": "q8",
+      "question": "Đặc điểm nào dưới đây là thuộc tính cốt lõi của các dự đoán không bị sai lệch theo quan điểm kinh tế học hành vi?",
+      "options": [
+        "Chúng luôn đưa ra những con số chính xác tuyệt đối cho các biến cố hiếm gặp.",
+        "Chúng hoàn toàn loại bỏ mọi ảnh hưởng từ trực giác cá nhân của nhà quản lý.",
+        "Chúng chỉ dự đoán các biến cố cực đoan khi có thông tin hoàn toàn đầy đủ.",
+        "Chúng dựa trên giả định rằng mọi thị trường đều tuân theo phân phối chuẩn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Một đặc trưng của dự đoán không bị sai lệch là thừa nhận các biến cố hiếm hoặc cực đoan chỉ khi thông tin đầu vào thực sự đầy đủ và đáng tin cậy."
+    },
+    {
+      "id": "q9",
+      "question": "Vì sao việc thấu hiểu và áp dụng quy luật hồi quy về mức trung bình lại là một thách thức lớn đối với con người?",
+      "options": [
+        "Vì các số liệu thống kê liên quan luôn bị giấu kín bởi các tổ chức tài chính.",
+        "Vì nó đi ngược lại xu hướng tự nhiên của Hệ thống 1 trong việc tìm kiếm nhân quả.",
+        "Vì con người thiếu hoàn toàn khả năng ghi nhớ các dữ liệu trong quá khứ.",
+        "Vì Hệ thống 2 luôn luôn đồng tình với những suy luận cảm tính của Hệ thống 1."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 1 luôn tìm kiếm các giải thích nhân quả cho mọi biến động, khiến việc chấp nhận sự ngẫu nhiên và hồi quy về mức trung bình trở nên xa lạ."
+    },
+    {
+      "id": "q10",
+      "question": "Trong tình huống nhà đầu tư phân tích một doanh nghiệp mới nổi, việc cân nhắc đến tính bất định thay vì chỉ nhìn vào con số kỳ vọng duy nhất thể hiện điều gì?",
+      "options": [
+        "Sự thiếu tự tin nghiêm trọng vào năng lực phân tích tài chính cơ bản.",
+        "Sự phụ thuộc vào các mô hình toán học lỗi thời của kinh tế học cổ điển.",
+        "Xu hướng né tránh rủi ro cực đoan theo lý thuyết viễn cảnh của Kahneman.",
+        "Cách tiếp cận lý trí nhằm đối phó với rủi ro và các kết quả không chắc chắn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Người lý trí không tự dối mình bằng một con số duy nhất mà cân nhắc toàn diện các kịch bản bất định có thể xảy ra đối với kết quả đầu tư."
+    },
+    {
+      "id": "q11",
+      "question": "Hành động hiệu chỉnh các dự đoán trực giác đòi hỏi điều kiện tiên quyết nào từ phía chủ thể ra quyết định?",
+      "options": [
+        "Việc áp dụng các hình phạt nghiêm khắc đối với các sai lầm dự báo trước đó.",
+        "Khả năng loại bỏ hoàn toàn cảm xúc cá nhân trong mọi tình huống xã hội.",
+        "Sự hỗ trợ từ các phần mềm trí tuệ nhân tạo chuyên phân tích dữ liệu lớn.",
+        "Sự tham gia tích cực và tiêu tốn năng lượng nhận thức của Hệ thống 2."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hiệu chỉnh dự đoán trực giác không diễn ra tự động mà đòi hỏi nỗ lực nhận thức cao từ Hệ thống 2 để xác định tham chiếu và kiểm chứng chứng cứ."
+    },
+    {
+      "id": "q12",
+      "question": "Phát biểu nào sau đây phản ánh chính xác nhất bản chất của 'cường độ phù hợp' trong các phán đoán trực giác?",
+      "options": [
+        "Sự tương ứng giữa độ mạnh của dấu hiệu đầu vào và độ cực đoan của câu trả lời.",
+        "Mức độ quan trọng của dữ liệu được cân đong đo đếm bằng các công thức toán học.",
+        "Khả năng điều chỉnh cường độ làm việc của Hệ thống 2 theo độ khó bài toán.",
+        "Sự khớp nối hoàn hảo giữa chi phí bỏ ra và lợi ích thu về trong đầu tư."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cường độ phù hợp dẫn đến việc gán giá trị cực đoan cho kết quả dự đoán tương ứng hoàn hảo với mức độ ấn tượng hoặc cực đoan của dấu hiệu ban đầu."
+    },
+    {
+      "id": "q13",
+      "question": "Khi một người cho rằng học sinh cực kỳ thông minh lúc nhỏ chắc chắn sẽ đạt điểm số xuất sắc ở đại học mà không cần xét đến các yếu tố ngẫu nhiên, họ đang rơi vào bẫy nào?",
+      "options": [
+        "Bẫy neo giữ giá trị ban đầu do ảnh hưởng của hiệu ứng hào quang.",
+        "Bẫy ngoại suy tuyến tính bỏ qua hiện tượng hồi quy về mức trung bình.",
+        "Bẫy suy luận ngược do sự thiếu hụt dữ liệu thống kê từ nhà trường.",
+        "Bẫy tin cậy mù quáng vào các nhận định chủ quan của chuyên gia tâm lý."
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc ngoại suy trực tiếp thành tích ban đầu thành thành tích tương lai mà không tính đến hồi quy về mức trung bình tạo ra các dự đoán sai lệch hệ thống."
+    },
+    {
+      "id": "q14",
+      "question": "Đóng góp giá trị nhất của quy trình hiệu chỉnh dự đoán trực giác đối với nhà quản lý là gì?",
+      "options": [
+        "Giúp họ loại bỏ hoàn toàn mọi rủi ro tài chính trong các quyết định kinh doanh.",
+        "Tạo ra các mô hình dự báo tài chính tự động hoàn toàn không có sai số.",
+        "Buộc họ phải tư duy thực chất về mức độ giới hạn của tri thức và thông tin họ có.",
+        "Giúp họ luôn chiến thắng trong các cuộc phỏng vấn tuyển dụng nhân sự cấp cao."
+      ],
+      "correctIndex": 2,
+      "explanation": "Quy trình hiệu chỉnh buộc người ra quyết định phải chất vấn bản thân về việc họ thực sự biết đến đâu, từ đó nhận thức rõ hơn về tính bất định của thông tin."
+    },
+    {
+      "id": "q15",
+      "question": "Trong thực tiễn quản trị, việc chấp nhận một dự đoán trực giác quá mức tự tin thường mang lại hệ quả gì về lâu dài?",
+      "options": [
+        "Tạo ra sự ổn định tuyệt đối trong các kế hoạch tài chính dài hạn của công ty.",
+        "Giúp tối ưu hóa nguồn lực nhờ loại bỏ các bước phân tích dữ liệu phức tạp.",
+        "Dẫn đến những thất vọng lớn khi thực tế không khớp với kỳ vọng cực đoan.",
+        "Nâng cao đáng kể uy tín của nhà quản lý trước các cổ đông lớn của doanh nghiệp."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dự đoán trực giác quá tự tin và cực đoan sẽ dẫn đến kết quả thực tế gây thất vọng (như học sinh giỏi sớm bị sụt giảm điểm số) do không tính đến hồi quy."
+    }
+  ]
+}

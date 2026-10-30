@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_38_Nghi_ve_cuoc_song",
+  "chapterTitle": "Chương 38. Nghĩ về cuộc sống",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi đồ thị mức độ thỏa mãn cuộc sống cho thấy sự suy giảm sau thời điểm kết hôn, theo Kahneman, điều này phản ánh cơ chế tâm lý nào của con người?",
+      "options": [
+        "Sự thay đổi về bản chất cảm xúc trải nghiệm thực tế của cặp đôi.",
+        "Sự suy giảm hoàn toàn hormone tình yêu và sự gắn kết sinh học tự nhiên.",
+        "Sự phỏng đoán đánh giá bị chi phối bởi các yếu tố nhắc nhở hiện thời.",
+        "Sự thích ứng hoàn toàn của bản thể trải nghiệm với đời sống gia đình mới."
+      ],
+      "correctIndex": 2,
+      "explanation": "Daniel Kahneman chỉ ra rằng đồ thị này phản ánh quá trình phỏng đoán khi trả lời câu hỏi tổng thể về đời sống, nơi sự chú ý dễ bị định hướng bởi các mốc sự kiện gần kề chứ không phải sự suy giảm tuyến tính của hạnh phúc trải nghiệm."
+    },
+    {
+      "id": "q2",
+      "question": "Thí nghiệm đồng hào trên máy phô-tô của Norbert Schwarz minh chứng rõ nét cho hiện tượng tâm lý nào trong quá trình đưa ra phán quyết?",
+      "options": [
+        "Sự thay thế câu hỏi và cơ chế WYSIATI của Hệ thống 1 dựa trên cảm xúc hiện thời.",
+        "Hiệu ứng hào quang kéo dài chi phối toàn bộ năng lực nhận thức logic.",
+        "Quy luật mỏ neo điều chỉnh mức độ hài lòng dựa trên một con số ngẫu nhiên.",
+        "Sự bóp méo ký ức quá khứ do tác động tiêu cực của các sự cố kỹ thuật nhỏ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tâm trạng ngẫu nhiên tức thời từ việc nhặt được đồng hào đã được Hệ thống 1 tự động sử dụng để thay thế cho câu hỏi phức tạp về mức độ thỏa mãn cuộc sống chung, minh chứng cho nguyên tắc WYSIATI (những gì bạn thấy là tất cả những gì tồn tại)."
+    },
+    {
+      "id": "q3",
+      "question": "Bản chất cốt lõi của 'ảo tưởng tập trung' (focusing illusion) qua câu nói nổi tiếng 'Không điều gì trong đời sống quan trọng bằng bạn nghĩ là nó quan trọng khi nghĩ về nó' là gì?",
+      "options": [
+        "Con người luôn đánh giá chính xác tầm quan trọng của mọi sự kiện trong đời sống.",
+        "Các yếu tố ngoại cảnh luôn có tác động quyết định đến tâm trạng trải nghiệm hằng ngày.",
+        "Hệ thống 2 luôn kiểm soát hoàn toàn các phán đoán dài hạn về mức độ hạnh phúc cá nhân.",
+        "Sự tập trung chú ý vào một yếu tố cụ thể làm phóng đại tầm quan trọng của nó lên toàn cục."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ảo tưởng tập trung xảy ra khi chúng ta gán tầm quan trọng quá mức cho một khía cạnh duy nhất của cuộc sống chỉ vì nó đang thu hút sự chú ý của chúng ta tại thời điểm đưa ra đánh giá, bỏ qua các yếu tố quan trọng khác."
+    },
+    {
+      "id": "q4",
+      "question": "Kết quả nghiên cứu so sánh mức độ thỏa mãn cuộc sống giữa sinh viên California và sinh viên vùng Trung - Tây nước Mỹ đã bác bỏ nhận định nào của con người?",
+      "options": [
+        "Khí hậu ôn hòa là yếu tố quyết định hàng đầu chi phối cảm nhận hạnh phúc toàn diện.",
+        "Sinh viên đại học thường có cái nhìn khách quan và chính xác về môi trường sống.",
+        "Môi trường xã hội và văn hóa không ảnh hưởng gì đến trạng thái tinh thần.",
+        "Sự khác biệt vùng miền luôn tạo ra khoảng cách lớn về mức độ hài lòng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nghiên cứu chứng minh khí hậu đẹp của California không làm cho sinh viên ở đây hạnh phúc hơn sinh viên ở Trung - Tây, qua đó vạch trần sai lầm do ảo tưởng tập trung khi con người quá đề cao thời tiết."
+    },
+    {
+      "id": "q5",
+      "question": "Tại sao những người bị liệt hai chi dưới sau một thời gian dài vẫn có thể duy trì tâm trạng khá tốt trong phần lớn thời gian hằng ngày?",
+      "options": [
+        "Họ có nguồn tài chính dồi dào bù đắp cho những thiệt thòi về thể chất dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Họ liên tục nhận được sự quan tâm đặc biệt từ cộng đồng và xã hội xung quanh nhằm nâng cao chất lượng ra quyết định.",
+        "Sự thích ứng diễn ra bằng cách hướng sự chú ý ra khỏi tình trạng khuyết tật trong hầu hết hoạt động.",
+        "Họ đã xóa bỏ hoàn toàn ký ức về tai nạn nhờ cơ chế tự vệ của não bộ dưới góc độ kinh tế học hành vi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự thích ứng với các hoàn cảnh sống mới (dù tốt hay xấu) cốt ở việc suy nghĩ càng ít càng tốt về nó; khi bận rộn với công việc, đọc sách, kết bạn, tâm trạng của họ quay về gần mức bình thường."
+    },
+    {
+      "id": "q6",
+      "question": "Sự khác biệt giữa nhận thức của người từng quen biết người bị liệt hai chi dưới và người chưa từng quen biết phản ánh điều gì về phán đoán trực giác?",
+      "options": [
+        "Con người có khả năng tiên lượng chính xác tuyệt đối sự thích ứng tâm lý của người khác.",
+        "Những người thiếu kinh nghiệm thực tế thường đánh giá thấp khả năng thích nghi của con người.",
+        "Trí tuệ cảm xúc giúp loại bỏ hoàn toàn các sai lầm trong việc dự báo cảm tính.",
+        "Hiệu ứng hào quang làm mờ mọi nhận thức về những khó khăn dài hạn của bệnh nhân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Những người chưa từng quen biết không dự đoán được sự thích nghi theo thời gian và đánh giá quá cao khoảng thời gian sống trong tâm trạng tồi tệ của bệnh nhân, cho thấy sự thiếu hụt hiểu biết về khả năng thích ứng."
+    },
+    {
+      "id": "q7",
+      "question": "Sự mâu thuẫn sâu sắc giữa cảm nhận hạnh phúc được trải nghiệm và đánh giá cuộc sống của các bệnh nhân phẫu thuật hậu môn giả xuất phát từ đâu?",
+      "options": [
+        "Sự can thiệp của y học hiện đại làm thay đổi hoàn toàn hệ thần kinh cảm xúc.",
+        "Sự khác biệt về gen di truyền tính cách giữa các nhóm bệnh nhân tham gia khảo sát.",
+        "Bản thể ghi nhớ chịu ảnh hưởng của ảo tưởng tập trung khi nhìn lại toàn bộ tình trạng bệnh lý.",
+        "Tác động tiêu cực của môi trường bệnh viện kéo dài suốt quá trình điều trị."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trải nghiệm hằng ngày của bệnh nhân không tệ, nhưng khi họ được yêu cầu đánh giá cuộc sống, bản thể ghi nhớ lại bị chi phối bởi ảo tưởng tập trung, coi tình trạng hậu môn giả là một điều hoàn toàn kinh khủng."
+    },
+    {
+      "id": "q8",
+      "question": "Khái niệm 'Lỗi ham muốn' (Miswanting) do Gilbert và Wilson đề xuất (được Kahneman nhắc đến) biểu hiện rõ nhất qua hiện tượng nào?",
+      "options": [
+        "Sự lựa chọn hoàn toàn ngẫu nhiên dựa trên cảm xúc bộc phát ngắn hạn.",
+        "Sự tính toán cực kỳ lý trí và logic về chi phí - lợi ích trong dài hạn.",
+        "Sự thổi phồng tác động của việc thay đổi hoàn cảnh sống đối với hạnh phúc tương lai.",
+        "Sự kiên định theo đuổi các mục tiêu tài chính đã định sẵn từ thời niên thiếu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lỗi ham muốn khiến con người đưa ra những lựa chọn tồi do dự báo cảm tính sai lầm, đặc biệt là việc thổi phồng mức độ hạnh phúc mà một tài sản mới hoặc sự thay đổi hoàn cảnh sẽ mang lại trong tương lai."
+    },
+    {
+      "id": "q9",
+      "question": "Khi so sánh việc mua một chiếc xe hơi tiện nghi mới và việc tham gia một câu lạc bộ xã hội hằng tuần, lựa chọn nào mang lại giá trị dài hạn tốt hơn theo phân tích của Kahneman?",
+      "options": [
+        "Tham gia câu lạc bộ xã hội vì hoạt động này liên tục đòi hỏi sự chú ý và tương tác.",
+        "Mua xe hơi vì nó mang lại sự thỏa mãn vật chất ổn định và lâu dài mỗi ngày.",
+        "Mua xe hơi vì chi phí duy trì thấp hơn và không gây áp lực tinh thần.",
+        "Cả hai lựa chọn đều mang lại mức độ hạnh phúc tương đương theo thời gian."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bạn sẽ nhanh chóng quen với chiếc xe và ít chú ý đến nó, trong khi các hoạt động xã hội đòi hỏi sự chú ý liên tục sẽ giữ lại giá trị tâm lý theo thời gian, tránh được cạm bẫy của ảo tưởng tập trung."
+    },
+    {
+      "id": "q10",
+      "question": "Nghiên cứu về các mục tiêu tài chính của sinh viên trường ưu tú sau 20 năm cho thấy điều gì về mối quan hệ giữa mục tiêu tuổi trẻ và sự thỏa mãn cuộc sống?",
+      "options": [
+        "Mục tiêu tài chính thời trẻ không có bất kỳ liên hệ nào với mức thu nhập trưởng thành.",
+        "Việc đặt ra mục tiêu tài chính cực kỳ cao nhưng không đạt được dẫn đến sự bất mãn lớn.",
+        "Tiền bạc luôn mua được hạnh phúc tuyệt đối không phân biệt mục tiêu ban đầu.",
+        "Những người không quan tâm đến tiền bạc luôn có thu nhập cao hơn trong tương lai."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nghiên cứu chỉ ra rằng những người đặt mục tiêu tài chính rất cao khi 18 tuổi nhưng không đạt được sẽ trải qua sự bất mãn ghê gớm ở tuổi trưởng thành, củng cố công thức cho một tuổi trưởng thành đầy thất vọng."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao Kahneman cho rằng một trọng tâm riêng biệt chỉ dựa trên 'cảm nhận hạnh phúc được trải nghiệm' là không thể đứng vững?",
+      "options": [
+        "Vì các mục tiêu, dự định và đánh giá của con người về cuộc đời họ cũng vô cùng quan trọng.",
+        "Vì cảm xúc trải nghiệm biến động quá nhanh và không thể đo lường bằng phương pháp khoa học.",
+        "Vì con người không bao giờ nhớ lại những gì họ đã trải qua trong quá khứ.",
+        "Vì bản thể ghi nhớ hoàn toàn thống nhất với bản thể trải nghiệm trong mọi hoàn cảnh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kahneman khẳng định chúng ta không thể bỏ qua những gì con người mong muốn và định hướng trong đời sống; do đó cần một quan điểm lai tạp xem xét cả hai bản thể (trải nghiệm và ghi nhớ)."
+    },
+    {
+      "id": "q12",
+      "question": "Sự khác biệt cơ bản trong cách hoạt động giữa 'bản thể trải nghiệm' và 'bản thể ghi nhớ' đối với thời gian là gì?",
+      "options": [
+        "Bản thể ghi nhớ đo lường chính xác tổng thời gian diễn ra sự kiện, còn bản thể trải nghiệm thì không dưới góc độ kinh tế học hành vi.",
+        "Bản thể trải nghiệm đánh giá toàn cục cuộc đời, còn bản thể ghi nhớ sống trong từng giây phút hiện tại theo cơ chế hoạt động của trí não.",
+        "Cả hai bản thể đều xử lý thông tin thời gian một cách hoàn toàn logic và đồng nhất trong quá trình phán đoán và tư duy.",
+        "Bản thể trải nghiệm ghi nhận từng khoảnh khắc theo thời gian, còn bản thể ghi nhớ chỉ tập trung vào các đỉnh cao và kết thúc."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bản thể trải nghiệm sống qua từng khoảnh khắc (giá trị là tổng các khoảnh khắc), trong khi bản thể ghi nhớ kể câu chuyện dựa trên các khoảnh khắc quyết định (đầu, cao trào, kết thúc) và bỏ qua tiến trình thời gian."
+    },
+    {
+      "id": "q13",
+      "question": "Hiện tượng trí não phớt lờ tiến trình thời gian và chỉ tập trung vào lát cắt chuyển đổi trạng thái (như khi trúng vé số hoặc mắc bệnh) liên quan trực tiếp đến cơ chế nào?",
+      "options": [
+        "Sự phân tích thấu đáo của Hệ thống 2 đối với dữ liệu thống kê dài hạn.",
+        "Sự tập trung vào bước chuyển tiếp và hiện tượng WYSIATI của Hệ thống 1.",
+        "Quy luật quy nạp từ các mẫu dữ liệu lớn trong kinh tế học hành vi.",
+        "Cơ chế bảo vệ tâm lý tự nhiên nhằm gia tăng khả năng thích ứng xã hội."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 1 tập trung cường độ cao vào sự chuyển dịch sang trạng thái mới (như trúng số hay tàn tật) và bỏ qua sự thích nghi cũng như thời gian trôi đi, tạo ra các phán đoán sai lệch."
+    },
+    {
+      "id": "q14",
+      "question": "Phát biểu nào sau đây tóm tắt chính xác nhất ý nghĩa của hiện tượng 'ảo tưởng tập trung' trong đời sống ra quyết định hằng ngày?",
+      "options": [
+        "Chúng ta nên đầu tư toàn bộ thời gian để suy nghĩ về những mục tiêu dài hạn dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Chúng ta dễ dàng cường điệu tầm quan trọng của bất kỳ yếu tố nào khi chủ động hướng sự chú ý vào nó.",
+        "Mọi hoàn cảnh sống lâu dài đều có tác động quyết định mạnh mẽ đến hạnh phúc thực tế theo cơ chế hoạt động của trí não.",
+        "Sự tập trung cao độ vào công việc giúp loại bỏ hoàn toàn các thiên kiến nhận thức trong quá trình phán đoán và tư duy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bản chất của ảo tưởng tập trung là việc gán cho một yếu tố đang được chú ý một sức mạnh chi phối lớn hơn nhiều so với thực tế đời sống hằng ngày, dẫn đến các sai lầm trong dự báo."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học thực tiễn lớn nhất rút ra từ tư tưởng của Kahneman về việc 'Nghĩ về cuộc sống' là gì?",
+      "options": [
+        "Luôn tin tưởng tuyệt đối vào trực giác tức thời khi đưa ra các quyết định lớn về đời sống nhằm nâng cao chất lượng ra quyết định.",
+        "Đánh giá mức độ hạnh phúc chỉ dựa trên số lượng thời gian rảnh rỗi mỗi ngày dưới góc độ kinh tế học hành vi.",
+        "Loại bỏ hoàn toàn các mục tiêu tài chính để đạt được trạng thái hạnh phúc tuyệt đối theo cơ chế hoạt động của trí não.",
+        "Cần cẩn trọng với các phán đoán bị bóp méo bởi ảo tưởng tập trung và nhận thức rõ sự khác biệt giữa hai bản thể."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kahneman nhắc nhở chúng ta cần nhận thức rõ các cạm bẫy của ảo tưởng tập trung, sự thay thế câu hỏi và sự khác biệt giữa bản thể trải nghiệm và bản thể ghi nhớ để đưa ra các lựa chọn sống đắn đắn hơn."
+    }
+  ]
+}

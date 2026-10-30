@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_16_Nhung_moi_quan_he_nhan_qua_lan_at_cac_phep_thong_ke",
+  "chapterTitle": "Chương 16. Những mối quan hệ nhân quả lấn át các phép thống kê",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Trong bài toán taxi kinh điển, tại sao con người thường phớt lờ hệ số gốc thống kê (85% xe Green và 15% xe Blue) và bám lấy lời khai của nhân chứng (độ chính xác 80%)?",
+      "options": [
+        "Vì Hệ thống 1 bị thu hút mạnh mẽ bởi các dữ liệu số học trực quan thay vì câu chuyện nhân quả.",
+        "Vì Hệ thống 1 đói khát các câu chuyện nhân quả và hệ số gốc thống kê không tạo ra liên kết nhân quả nào.",
+        "Vì Hệ thống 2 đã chủ động loại bỏ hệ số gốc để đơn giản hóa quá trình tư duy logic phức tạp.",
+        "Vì thông tin về nhân chứng được cung cấp sau cùng tạo ra hiệu ứng mỏ neo lấn át hoàn toàn trí nhớ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 1 luôn tìm kiếm ý nghĩa nhân quả. Hệ số gốc thống kê thuần túy không gắn với cơ chế nhân quả cụ thể nên bị Hệ thống 1 xem nhẹ hoặc bỏ qua, trong khi lời khai nhân chứng dễ dàng được nhào nặn vào một kịch bản."
+    },
+    {
+      "id": "q2",
+      "question": "Khi bài toán taxi được đổi thành 'tài xế xe Green gây ra 85% số vụ tai nạn', con người bắt đầu chú trọng hơn đến hệ số gốc. Cơ chế tâm lý nào giải thích sự thay đổi này?",
+      "options": [
+        "Thông tin được chuyển hóa thành một khuôn mẫu nhân quả: tài xế xe Green là những kẻ lái xe thiếu thận trọng.",
+        "Hệ thống 2 can thiệp ngay lập tức để tính toán lại xác suất theo định lý Bayes một cách chính xác.",
+        "Sự thay đổi về con số kích hoạt trực giác chuyên gia giúp nhận diện rủi ro giao thông tốt hơn.",
+        "Hiệu ứng khung hình làm giảm tính chủ quan của người ra quyết định khi đánh giá mức độ nguy hiểm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi hệ số gốc được gán cho hành vi con người (tài xế thiếu thận trọng), nó trở thành một khuôn mẫu nhân quả áp dụng trực tiếp cho từng cá nhân, khiến con người dễ dàng kết hợp nó với các thông tin khác."
+    },
+    {
+      "id": "q3",
+      "question": "Theo Daniel Kahneman, từ 'khuôn mẫu' (stereotype) trong bối cảnh hoạt động của Hệ thống 1 nên được hiểu theo cách nào là chính xác nhất?",
+      "options": [
+        "Một định kiến xã hội mang tính tiêu cực cần phải được loại bỏ triệt để trong mọi quyết định.",
+        "Một phương pháp suy nghiệm thống kê giúp tối ưu hóa độ chính xác của các phán đoán xã hội.",
+        "Một sản phẩm của tư duy logic chậm chạp thuộc về Hệ thống 2 nhằm tiết kiệm năng lượng.",
+        "Một cách thức phân loại tự động của Hệ thống 1 coi các phạm trù là tiêu chuẩn và nguyên mẫu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kahneman định nghĩa khuôn mẫu ở nghĩa trung tính: Hệ thống 1 tự động lưu giữ mô tả về các thành phần 'thông thường' của phạm trù (như ngựa, cảnh sát). Đó là cách tự nhiên để tư duy về các phạm trù."
+    },
+    {
+      "id": "q4",
+      "question": "Quy tắc xã hội chống lại sự rập khuôn mang lại lợi ích to lớn gì cho xã hội, nhưng đồng thời đánh đổi điều gì về mặt nhận thức?",
+      "options": [
+        "Giúp loại bỏ hoàn toàn các thiên kiến nhận thức nhưng làm giảm tốc độ xử lý thông tin của Hệ thống 2.",
+        "Tạo ra xã hội công bằng hơn nhưng buộc ta phải chấp nhận những phán đoán kém tối ưu hơn khi bỏ qua khuôn mẫu.",
+        "Tăng cường tính chính xác của thống kê nhóm nhưng làm gia tăng sự kỳ thị cá nhân trong đời sống.",
+        "Cải thiện khả năng lập luận theo Bayes nhưng làm suy yếu năng lực thấu cảm với các nhóm yếu thế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Quy tắc chống rập khuôn giúp xây dựng xã hội công bằng và văn minh, nhưng việc phủ nhận giá trị dự đoán của một số khuôn mẫu có giá trị sẽ dẫn đến các phán đoán không tối ưu (cái giá phải trả về nhận thức)."
+    },
+    {
+      "id": "q5",
+      "question": "Trong thực nghiệm của Icek Ajzen về điểm số bài kiểm tra của sinh viên Yale, yếu tố nào khiến người tham gia thay đổi mạnh mẽ dự đoán của họ?",
+      "options": [
+        "Hệ số gốc nhân quả về độ khó của bài kiểm tra (tỷ lệ đỗ/trượt phản ánh trực tiếp độ khó).",
+        "Việc cung cấp bảng điểm chi tiết của từng sinh viên trong suốt quá trình học tập tại trường.",
+        "Thông tin thống kê thuần túy về mẫu nghiên cứu được thiết kế bởi các nhà khoa học.",
+        "Sự xuất hiện của các đoạn video phỏng vấn trực quan làm kích hoạt hiệu ứng thiện cảm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Độ khó của bài kiểm tra là một yếu tố nhân quả chi phối kết quả của sinh viên. Hệ thống 1 dễ dàng bị thuyết phục bởi các hệ số gốc mang tính nhân quả như vậy."
+    },
+    {
+      "id": "q6",
+      "question": "Thực nghiệm 'trợ giúp' của Nisbett và Borgida về phản ứng khi chứng kiến người lên cơn co giật cho thấy điều gì về bản chất dự đoán của con người?",
+      "options": [
+        "Con người luôn đánh giá chính xác khả năng ứng xử hào hiệp của bản thân và người khác trong khủng hoảng.",
+        "Hệ thống 2 luôn kiểm soát tốt các hành vi vị tha khi đối mặt với các tình huống khẩn cấp đe dọa tính mạng.",
+        "Con người thường đánh giá quá cao sự hào hiệp của mình và phớt lờ tác động mạnh mẽ của tình huống xã hội.",
+        "Thông tin thống kê luôn thay đổi triệt để niềm tin lâu bền của cá nhân về bản chất thiện lương của nhân loại."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hầu hết mọi người tự tin mình sẽ nhảy vào cứu giúp, nhưng thực nghiệm chứng minh sự lây truyền trách nhiệm trong tình huống nhóm làm giảm mạnh hành vi cứu giúp, điều mà chúng ta thường đánh giá thấp."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao các sinh viên trong thực nghiệm của Nisbett và Borgida sau khi nghe giảng về kết quả thống kê vẫn tiếp tục đoán rằng những cá nhân trong video đã ra tay giúp đỡ?",
+      "options": [
+        "Vì họ không hiểu gì về các nguyên lý cơ bản của xác suất thống kê và định lý Bayes.",
+        "Vì các đoạn video phỏng vấn đã được dàn dựng để cung cấp thông tin lừa dối người xem.",
+        "Vì dữ liệu thống kê chung chung không làm thay đổi được niềm tin bám rễ sâu sắc về từng cá nhân cụ thể.",
+        "Vì Hệ thống 2 của họ đã bị quá tải năng lượng sau khi phân tích các số liệu phức tạp."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dữ liệu thống kê mang tính tổng thể không đủ sức mạnh để thay đổi niềm tin cá nhân lâu bền chừng nào họ chưa đối mặt với một tình huống cụ thể gây ngạc nhiên."
+    },
+    {
+      "id": "q8",
+      "question": "Phát hiện cốt lõi nào được đúc kết từ nghiên cứu của Nisbett và Borgida về cách con người tiếp thu tri thức tâm lý?",
+      "options": [
+        "Chủ thể sẵn sàng suy ra vấn đề tổng thể từ các chi tiết bất ngờ hơn là rút chi tiết từ vấn đề tổng thể.",
+        "Chủ thể dễ dàng thay đổi niềm tin bản thân khi được cung cấp đầy đủ các biểu đồ thống kê khoa học.",
+        "Chủ thể chỉ chấp nhận những kiến thức tâm lý phù hợp với trải nghiệm cá nhân từ thuở nhỏ.",
+        "Chủ thể hoàn toàn miễn nhiễm trước mọi hình thức giảng dạy tâm lý học xã hội hiện đại."
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu nói đắt giá trong bài: 'Các chủ thể không sẵn sàng rút ra các chi tiết từ vấn đề tổng thể mà lại sẵn lòng suy ra vấn đề tổng thể từ các chi tiết.' Trải nghiệm ngạc nhiên từ tình huống cụ thể mới tạo ra sự thay đổi."
+    },
+    {
+      "id": "q9",
+      "question": "Khi một nhà quản lý ra quyết định kinh doanh dựa trên các báo cáo thống kê vĩ mô mà không màng tới các câu chuyện nhân quả vi mô, hiện tượng nhận thức nào dễ xảy ra nhất?",
+      "options": [
+        "Nhà quản lý sẽ áp dụng thành công mô hình Bayes nhờ sự hỗ trợ đắc lực của Hệ thống 2 trong quá trình phán đoán và tư duy.",
+        "Hiệu ứng mỏ neo sẽ được kích hoạt giúp điều chỉnh dự báo tài chính một cách tối ưu nhằm nâng cao chất lượng ra quyết định.",
+        "Nhà quản lý sẽ rơi vào trạng thái tự tin thái quá do nắm giữ quá nhiều dữ liệu chính xác trong quá trình phán đoán và tư duy.",
+        "Số liệu thống kê sẽ bị phớt lờ hoặc đánh trọng số quá thấp nếu không được lồng vào một câu chuyện hợp lý."
+      ],
+      "correctIndex": 3,
+      "explanation": "Thông tin thống kê đơn thuần (không có nhân quả) thường bị đánh trọng số quá thấp hoặc bị xao nhãng hoàn toàn khi ra quyết định, trừ khi chúng được bồi đắp thành một cấu trúc nhân quả cho Hệ thống 1."
+    },
+    {
+      "id": "q10",
+      "question": "Trong bối cảnh giáo dục và truyền đạt kiến thức, việc chỉ đưa ra các con số thống kê khô khan thường mang lại kết quả ra sao đối với Hệ thống 1?",
+      "options": [
+        "Kích hoạt tư duy phản biện sâu sắc của Hệ thống 2 để phân tích dữ liệu đa chiều.",
+        "Gây ra sự tột cùng ngạc nhiên và làm thay đổi ngay lập tức niềm tin cốt lõi của người học.",
+        "Không tạo ra ấn tượng sâu sắc hay sự thay đổi thực sự trong hành vi vì thiếu vắng yếu tố nhân quả.",
+        "Giúp người học ghi nhớ dài hạn nhờ tính khách quan và khoa học của các con số."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hệ thống 1 vận hành bằng câu chuyện và nhân quả. Các con số thống kê không chạm đến Hệ thống 1 một cách tự nhiên, khiến người ta nghe xong có thể kể lại nhưng bản chất nhận thức không thay đổi."
+    },
+    {
+      "id": "q11",
+      "question": "Phương án nào mô tả chính xác nhất sự khác biệt giữa 'hệ số gốc thống kê' và 'hệ số gốc nhân quả'?",
+      "options": [
+        "Hệ số thống kê luôn chính xác hơn hệ số nhân quả trong việc dự báo hành vi của con người dưới góc độ kinh tế học hành vi.",
+        "Hệ số thống kê là thực tại phổ biến không liên quan trực tiếp đến tình huống riêng, còn hệ số nhân quả làm thay đổi cách nhìn về tiến triển của tình huống.",
+        "Hệ số nhân quả chỉ mang tính định tính trong khi hệ số thống kê mang tính định lượng tuyệt đối trong quá trình phán đoán và tư duy.",
+        "Hệ số nhân quả dễ bị Hệ thống 1 bỏ qua hơn so với hệ số thống kê thuần túy nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ số thống kê là thực tại phổ biến nhưng tách rời tình huống riêng lẻ, trong khi hệ số nhân quả cung cấp cơ chế giải thích cách tình huống riêng lẻ phát triển và dễ dàng được Hệ thống 1 tiếp nhận."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao các giảng viên tâm lý học thường phải sử dụng các tình huống thực tế gây ngạc nhiên (như thực nghiệm trợ giúp) thay vì chỉ đọc số liệu?",
+      "options": [
+        "Vì sinh viên hiện đại không có khả năng đọc hiểu các bảng số liệu thống kê phức tạp nhằm nâng cao chất lượng ra quyết định.",
+        "Vì phương pháp này giúp kích hoạt Hệ thống 2 hoạt động liên tục trong suốt buổi học trong quá trình phán đoán và tư duy.",
+        "Vì các số liệu thống kê trong ngành tâm lý học thường mang tính giả mạo và thiếu khách quan dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Vì những điều phi lý cần phải được giải quyết và gán vào một câu chuyện nhân quả để kích thích Hệ thống 1."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sự ngạc nhiên từ các tình huống cụ thể buộc bộ não phải tìm kiếm lời giải thích, gán nó vào một câu chuyện nhân quả, từ đó thực sự thay đổi cách nhìn nhận về thế giới."
+    },
+    {
+      "id": "q13",
+      "question": "Khi một người cố gắng kháng lại sự rập khuôn trong các vấn đề xã hội nhạy cảm, điều quan trọng về mặt khoa học nhận thức mà họ cần thừa nhận là gì?",
+      "options": [
+        "Việc kháng lại rập khuôn hoàn toàn không tốn kém bất kỳ nguồn lực nhận thức hay chi phí nào.",
+        "Việc rập khuôn xã hội luôn luôn chính xác hơn tư duy logic dựa trên các con số thống kê.",
+        "Đó là một thái độ đạo đức đúng đắn nhưng việc phủ nhận những chi phí nhận thức đi kèm là không khách quan.",
+        "Hệ thống 2 có khả năng xóa bỏ hoàn toàn mọi dấu vết của khuôn mẫu trong tiềm thức con người."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kahneman chỉ ra rằng kháng lại rập khuôn là đạo đức và cần thiết cho xã hội văn minh, nhưng việc phủ nhận rằng việc đó có cái giá phải trả (như giảm độ tối ưu của một số phán đoán) là sai lầm khoa học."
+    },
+    {
+      "id": "q14",
+      "question": "Hiện tượng tâm lý nào diễn ra khi con người nhìn thấy một số liệu thống kê đáng ngạc nhiên nhưng nhanh chóng quên lãng hoặc không thay đổi hành động thực tế?",
+      "options": [
+        "Sự cách ly giữa tư duy số liệu trừu tượng và tư duy tình huống cụ thể của Hệ thống 1.",
+        "Hiệu ứng quá tự tin kết hợp với tư duy hệ thống chậm chạp của Hệ thống 2.",
+        "Sự can thiệp kịp thời của quy luật hồi quy về mức trung bình trong quản lý hành vi.",
+        "Hiệu ứng đóng khung làm sai lệch nhận thức ban đầu về mức độ rủi ro của thông tin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Có một khoảng cách sâu sắc giữa tư duy số liệu và tư duy tình huống. Số liệu thống kê không gắn với câu chuyện nhân quả không thể lay chuyển được niềm tin lâu bền của Hệ thống 1."
+    },
+    {
+      "id": "q15",
+      "question": "Phát biểu nào sau đây tóm tắt đúng đắn nhất thông điệp cốt lõi của Kahneman về mối quan hệ giữa nhân quả và thống kê?",
+      "options": [
+        "Con người tư duy bằng các con số thống kê chính xác thay vì dựa vào các câu chuyện nhân quả cảm tính.",
+        "Hệ thống 1 dễ dàng bị chinh phục bởi các mối quan hệ nhân quả và khuôn mẫu hơn là các con số thống kê thuần túy.",
+        "Thống kê luôn chiến thắng nhân quả trong mọi quyết định quan trọng của Hệ thống 2 nhằm nâng cao chất lượng ra quyết định.",
+        "Các khuôn mẫu nhân quả luôn là những sai lầm nhận thức trầm trọng cần được triệt tiêu hoàn toàn khi đối mặt với các tình huống bất định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Xuyên suốt chương sách, Kahneman chứng minh rằng Hệ thống 1 vận hành mạnh mẽ dựa trên nhân quả và khuôn mẫu, trong khi các con số thống kê không có vỏ bọc nhân quả thường bị phớt lờ hoặc đánh trọng số thấp."
+    }
+  ]
+}

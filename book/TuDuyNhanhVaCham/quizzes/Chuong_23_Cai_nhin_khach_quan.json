@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_23_Cai_nhin_khach_quan",
+  "chapterTitle": "Chương 23. Cái nhìn khách quan",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Trong tình huống nhóm của Kahneman tự ước tính thời gian hoàn thành dự án bộ sách giáo khoa là 2 năm, nguyên nhân tâm lý chủ đạo nào từ Hệ thống 1 khiến họ bỏ qua thực tế rằng các nhóm tương tự phải mất từ 7 đến 10 năm?",
+      "options": [
+        "Sự tập trung thái quá vào các tình huống đặc thù cục bộ và phớt lờ hoàn toàn các dữ liệu thống kê.",
+        "Sự thiếu hụt hoàn toàn về năng lực chuyên môn sư phạm cơ bản của các thành viên trong đội ngũ.",
+        "Sự can thiệp mang tính áp đặt từ phía các quan chức quản lý cấp cao thuộc Bộ Giáo dục Israel.",
+        "Sự suy giảm nghiêm trọng về mặt năng lượng tinh thần của Hệ thống 2 trong các buổi họp chiều."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 hoạt động dựa trên các ấn tượng cá nhân và thông tin trực diện hiện hữu (WYSIATI), khiến nhóm tự động quy chiếu vào kế hoạch lý tưởng của chính họ thay vì tra cứu tỷ suất nền (base rate) từ các nhóm tham chiếu."
+    },
+    {
+      "id": "q2",
+      "question": "Khi Seymour nhận thức được rằng 40% các nhóm tương tự đã thất bại và những nhóm hoàn thành mất tối thiểu 7 năm, nhưng nhóm của ông vẫn tiếp tục làm việc như không có chuyện gì xảy ra, hiện tượng này minh họa cho cơ chế tâm lý nào?",
+      "options": [
+        "Sự lấn át hoàn toàn của tư duy khách quan trước các bằng chứng thống kê xác thực.",
+        "Sự tuân thủ tuyệt đối theo các tiêu chuẩn khoa học khách quan của ngành giáo dục.",
+        "Sự điều chỉnh linh hoạt của Hệ thống 2 nhằm tối ưu hóa nguồn lực thực tế của dự án.",
+        "Sự ưu ái tuyệt đối dành cho cái nhìn chủ quan và xu hướng phớt lờ dữ liệu tỷ suất nền."
+      ],
+      "correctIndex": 3,
+      "explanation": "Dù đã sở hữu thông tin khách quan (tỷ suất nền), nhóm vẫn chọn cách phớt lờ nó vì cái nhìn chủ quan và trải nghiệm trực tiếp tạo ra sự tự tin ảo tưởng, minh họa cho việc cái nhìn chủ quan luôn chiến thắng."
+    },
+    {
+      "id": "q3",
+      "question": "Thuật ngữ 'sai lầm dự kiến' (planning fallacy) do Daniel Kahneman và Amos Tversky định nghĩa phản ánh khuynh hướng phổ biến nào của con người khi lập kế hoạch?",
+      "options": [
+        "Đánh giá quá cao lợi ích và tiến độ, luôn gắn liền với viễn cảnh kịch bản tốt nhất.",
+        "Đánh giá quá cao các rủi ro tiềm ẩn nhằm kéo dài thời gian thực hiện dự án ban đầu.",
+        "Đánh giá thấp chi phí thực tế và thời gian hoàn thành dựa trên kịch bản tồi tệ nhất.",
+        "Đánh giá đúng mức các biến động thị trường nhờ sự hỗ trợ đắc lực của dữ liệu lớn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sai lầm dự kiến là hiện tượng các dự báo và kế hoạch phi thực tế nghiêng hẳn về kịch bản tình huống tốt nhất, dẫn đến việc ước tính quá cao lợi ích và ước tính quá thấp thời gian cũng như chi phí."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao các nhà quản lý cấp cao và các nhà lập định chính sách thường xuyên rơi vào bẫy 'sai lầm dự kiến' khi phê duyệt các dự án đầu tư công lớn?",
+      "options": [
+        "Do họ bị ép buộc phải sử dụng các phương pháp phân tích thống kê lỗi thời từ cấp dưới.",
+        "Do áp lực cạnh tranh giành nguồn lực thúc đẩy họ vẽ ra bức tranh lạc quan ảo tưởng để được duyệt.",
+        "Do họ thiếu hoàn toàn khả năng nhận thức logic cơ bản trong việc xử lý các con số tài chính.",
+        "Do họ luôn chủ động tính toán trước mọi biến số ẩn không xác định từ giai đoạn khởi đầu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Các tác giả của kế hoạch phi thực tế thường bị thúc đẩy bởi khát vọng được phê duyệt dự án, lợi dụng thực tế rằng hiếm có dự án nào bị bỏ dở giữa chừng chỉ vì vượt quá chi phí hay thời gian."
+    },
+    {
+      "id": "q5",
+      "question": "Phương pháp tiếp cận bằng 'cái nhìn khách quan' (outside view) do Bent Flyvbjerg đề xuất để khắc phục sai lầm dự kiến dựa trên nền tảng cốt lõi nào?",
+      "options": [
+        "Sử dụng trực giác cá nhân của chuyên gia đầu ngành để tiên đoán chính xác tương lai.",
+        "Sử dụng dữ liệu thống kê từ một nhóm tham chiếu gồm các dự án tương tự đã thực hiện.",
+        "Phân tích chi tiết từng bước nhỏ của riêng dự án độc đáo đang được tiến hành.",
+        "Loại bỏ hoàn toàn mọi khoản ngân sách dự phòng nhằm ép buộc tiến độ hoàn thành."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cái nhìn khách quan vận hành bằng cách nhìn ra ngoài trường hợp cụ thể, nhận diện nhóm tham chiếu phù hợp và thu thập số liệu thống kê về kết quả của hàng trăm dự án tương tự trên thế giới."
+    },
+    {
+      "id": "q6",
+      "question": "Trong ba bước để áp dụng phương pháp dự báo dựa trên nhóm tham chiếu, bước thứ ba yêu cầu nhà lập định phải làm gì?",
+      "options": [
+        "Giữ nguyên con số dự báo cơ bản từ thống kê mà không được phép thay đổi dù có lý do.",
+        "Tăng gấp đôi thời gian hoàn thành dự án để phòng ngừa mọi rủi ro bất ngờ có thể xảy ra.",
+        "Loại bỏ hoàn toàn số liệu thống kê nếu chúng mâu thuẫn với trải nghiệm trực tiếp của nhóm.",
+        "Sử dụng thông tin cụ thể của dự án để điều chỉnh dự báo cơ bản dựa trên mức độ lạc quan."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bước ba là sử dụng thông tin cụ thể về trường hợp hiện tại để điều chỉnh dự báo cơ bản lên hoặc xuống, nếu có những lý do đặc biệt cho thấy dự án này lạc quan nhiều hoặc ít hơn các dự án cùng loại."
+    },
+    {
+      "id": "q7",
+      "question": "Hiện tượng tâm lý nào giải thích việc nhóm của Kahneman tiếp tục triển khai dự án sau khi biết rõ tỷ lệ thất bại 40% và thời gian 7 năm, thay vì tuyên bố giải tán?",
+      "options": [
+        "Hiệu ứng mỏ neo kết hợp với tư duy hệ thống 2 hoạt động hết công suất.",
+        "Hiệu ứng đóng khung tích cực giúp họ nhìn nhận rủi ro dưới lăng kính cơ hội phát triển.",
+        "Sự phản ứng thái quá trước các thông tin thống kê tiêu cực từ phía chuyên gia Seymour.",
+        "Sự kiên trì phi lý và chi phí chìm khiến họ thà từ bỏ sự thật còn hơn từ bỏ sự nghiệp."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kahneman gọi đây là lòng kiên trì phi lý: hành động không chịu từ bỏ dự án vì không muốn thừa nhận thất bại trước nỗ lực đã bỏ ra, thà chọn từ bỏ sự thật còn hơn từ bỏ sự nghiệp."
+    },
+    {
+      "id": "q8",
+      "question": "Khi một vị luật sư hoặc bác sĩ từ chối áp dụng các số liệu thống kê tổng quan với lập luận rằng 'mọi trường hợp đều là duy nhất', họ đang rơi vào cạm bẫy nhận thức nào?",
+      "options": [
+        "Sự tuân thủ tuyệt đối các quy tắc logic chặt chẽ của tư duy Hệ thống 2 kiểm soát.",
+        "Sự lạm dụng quá mức phương pháp luận khách quan trong việc chẩn đoán từng cá nhân.",
+        "Sự ám ảnh với cái nhìn chủ quan và việc chối bỏ giá trị của dữ liệu tỷ suất nền.",
+        "Sự nhận thức chính xác về các ẩn số không xác định trong từng tình huống cụ thể."
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc khẳng định tính đơn nhất của trường hợp cá biệt để gạt bỏ thống kê là biểu hiện kinh điển của việc chuộng cái nhìn chủ quan, nơi thông tin thống kê bị coi thường vì xung khắc với ấn tượng trực quan."
+    },
+    {
+      "id": "q9",
+      "question": "Khái niệm 'những ẩn số không xác định' (unknown unknowns) theo Donald Rumsfeld được Kahneman nhắc đến nhằm nhấn mạnh điều gì đối với các dự án lớn?",
+      "options": [
+        "Sự hiện diện tất yếu của các biến cố bất ngờ ngoài tầm kiểm soát làm chậm trễ tiến độ.",
+        "Khả năng con người có thể dự đoán trước toàn bộ mọi rủi ro nhờ vào các mô hình kinh tế chuẩn.",
+        "Tầm quan trọng của việc lập kế hoạch chi tiết đến từng chi tiết nhỏ nhất từ ngày đầu tiên.",
+        "Sự cần thiết phải loại bỏ hoàn toàn các nhà thầu phụ trong quá trình thực hiện dự án."
+      ],
+      "correctIndex": 0,
+      "explanation": "Những ẩn số không xác định bao gồm các biến cố như ốm đau, ly hôn, khủng hoảng hợp tác hay thủ tục quan liêu mà không có cách nào đoán trước, làm tăng cao khả năng thất bại của các dự án lớn."
+    },
+    {
+      "id": "q10",
+      "question": "Theo góc nhìn của kinh tế học hành vi và tâm lý học nhận thức, tại sao các tổ chức hoặc cá nhân vẫn quyết định dấn thân vào các dự án mang tính rủi ro cao?",
+      "options": [
+        "Họ bị chi phối bởi sai lệch lạc quan, ước tính quá cao lợi ích và phớt lờ các sai sót tiềm ẩn.",
+        "Họ đã tính toán cực kỳ lý trí dựa trên tỷ trọng cân bằng hoàn hảo giữa lợi ích và tổn thất.",
+        "Họ luôn chuẩn bị sẵn các khoản ngân sách dự phòng khổng lồ để đối phó với mọi tình huống.",
+        "Họ chịu sự sai khiến trực tiếp từ các dữ liệu thống kê khách quan của nhóm tham chiếu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mọi người thường đảm nhận các dự án rủi ro không phải vì tính toán lý trí mà vì họ quá lạc quan, thêu dệt viễn cảnh thành công trong khi bỏ sót các sai sót tiềm ẩn và chi phí thực tế."
+    },
+    {
+      "id": "q11",
+      "question": "Nguyên tắc 'WYSIATI' (What You See Is All There Is - Những gì bạn thấy là tất cả những gì có) thể hiện rõ nhất ở điểm nào trong câu chuyện của nhóm thiết kế chương trình giáo dục?",
+      "options": [
+        "Họ nhìn nhận toàn bộ dữ liệu thống kê 7 năm thất bại của các nhóm khác một cách khách quan.",
+        "Họ đánh giá đúng năng lực của bản thân thấp hơn mức trung bình ngay từ buổi họp đầu tiên.",
+        "Họ chỉ nhìn thấy quy trình hoàn hảo và các chương sách đã biên soạn trước mắt mà quên đi ẩn số.",
+        "Họ luôn tìm kiếm các thông tin ẩn ngoài đời thực trước khi đưa ra bất kỳ phán quyết nào."
+      ],
+      "correctIndex": 2,
+      "explanation": "Họ chỉ tập trung vào những gì hiện hữu trước mắt (các chương sách đã viết suôn sẻ, quy trình hoàn hảo) mà hoàn toàn mù quáng trước những thách thức và ẩn số không xác định chưa xuất hiện."
+    },
+    {
+      "id": "q12",
+      "question": "Bài học đắt giá thứ ba mà Kahneman rút ra từ trải nghiệm xây dựng chương trình giáo dục được ông đúc kết bằng câu nói:",
+      "options": [
+        "'Sự lạc quan của các nhà hoạch định chính là động lực duy nhất giúp nhân loại tiến lên.'.",
+        "'Cái nhìn khách quan luôn luôn chiến thắng cái nhìn chủ quan trong mọi cuộc tranh luận nhóm.'.",
+        "'Khi đối mặt với một sự lựa chọn, chúng tôi đã chọn từ bỏ sự thật hơn là từ bỏ sự nghiệp.'.",
+        "'Không bao giờ nên tin tưởng vào các con số thống kê do các chuyên gia bên ngoài cung cấp.'."
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu nói này minh chứng cho sự kiên trì phi lý, khi nhóm thà né tránh sự thật phũ phàng từ dữ liệu khách quan còn hơn là chấp nhận từ bỏ dự án và sự nghiệp họ đang theo đuổi."
+    },
+    {
+      "id": "q13",
+      "question": "Trong bối cảnh quản trị tổ chức, việc thiết lập một cơ chế thưởng phạt minh bạch nhằm khắc phục sai lầm dự kiến đòi hỏi người lãnh đạo phải làm gì?",
+      "options": [
+        "Khen thưởng những ai đưa ra kế hoạch lạc quan nhất để nâng cao tinh thần đội ngũ.",
+        "Khen thưởng các nhà hoạch định dựa trên tính thực tế và cảnh cáo khi họ phớt lờ rủi ro.",
+        "Phạt nặng tất cả các dự án có thời gian hoàn thành vượt quá mốc thời gian hai năm.",
+        "Cấm hoàn toàn việc sử dụng dữ liệu thống kê từ các nhóm tham chiếu bên ngoài."
+      ],
+      "correctIndex": 1,
+      "explanation": "Một tổ chức vận hành tốt cần thưởng công cho những người hoạch định dựa trên biểu hiện thực tế, đồng thời cảnh cáo hoặc quy trách nhiệm khi họ sa vào kế hoạch lạc quan ảo tưởng."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao các khoản ngân sách dự phòng tài chính đôi khi lại phản tác dụng đối với các nhà thầu thi công dự án?",
+      "options": [
+        "Vì chúng làm giảm đi đáng kể động lực hoàn thành công việc đúng thời hạn của nhân viên.",
+        "Vì chúng giống như 'mỡ trước miệng mèo', kích thích các nhà thầu tìm cách vồ lấy và tiêu sạch.",
+        "Vì chúng vi phạm nghiêm trọng các quy chuẩn kiểm toán tài chính chuẩn mực quốc tế.",
+        "Vì chúng làm cho cái nhìn khách quan trở nên vô dụng hoàn toàn trước các cơ quan quản lý."
+      ],
+      "correctIndex": 1,
+      "explanation": "Như một viên chức đã nói với Flyvbjerg, ngân sách dự phòng đối với các nhà thầu giống như mỡ trước miệng mèo, khiến họ tìm cách khai thác và tiêu tốn hết thay vì tiết kiệm."
+    },
+    {
+      "id": "q15",
+      "question": "Sự khác biệt căn bản giữa 'cái nhìn chủ quan' (inside view) và 'cái nhìn khách quan' (outside view) trong tư duy ra quyết định là gì?",
+      "options": [
+        "Cái nhìn chủ quan dựa vào số liệu thống kê lớn, còn cái nhìn khách quan dựa vào trực giác cá nhân.",
+        "Cái nhìn chủ quan đòi hỏi sự nỗ lực của Hệ thống 2, còn cái nhìn khách quan hoàn toàn tự động.",
+        "Cái nhìn chủ quan tập trung vào trường hợp cụ thể và nội bộ, còn cái nhìn khách quan dựa trên nhóm tham chiếu.",
+        "Cái nhìn chủ quan luôn mang lại kết quả chính xác cao hơn cái nhìn khách quan trong mọi tình huống."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cái nhìn chủ quan tập trung vào các tình huống riêng lẻ và tìm kiếm căn cứ trong trải nghiệm nội bộ, trong khi cái nhìn khách quan đặt trường hợp vào phạm trù rộng lớn hơn dựa trên dữ liệu thống kê tham chiếu."
+    }
+  ]
+}

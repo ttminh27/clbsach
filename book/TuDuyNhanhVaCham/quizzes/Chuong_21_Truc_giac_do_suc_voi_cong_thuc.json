@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_21_Truc_giac_do_suc_voi_cong_thuc",
+  "chapterTitle": "Chương 21. Trực giác đọ sức với công thức",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Trong các môi trường có độ chắc chắn thấp (low-validity environments), tại sao các thuật toán đơn giản thường đánh bại hoặc vượt mức độ chính xác của các chuyên gia dày dặn kinh nghiệm?",
+      "options": [
+        "Thuật toán sở hữu tư duy hệ thống 2 sâu sắc và cảm xúc thăng hoa.",
+        "Chuyên gia thường thiếu hoàn toàn kiến thức nền tảng về chuyên môn.",
+        "Thuật toán loại bỏ được sự mâu thuẫn nội tâm và tác động bối cảnh.",
+        "Chuyên gia bị ràng buộc bởi các quy định pháp lý khắt khe của ngành."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hệ thống 1 của con người dễ bị chi phối bởi các yếu tố bối cảnh thay đổi liên tục (như cảm xúc, thời tiết, sự mệt mỏi) dẫn đến sự mâu thuẫn ngay trong chính phán quyết của chuyên gia. Trong khi đó, thuật toán luôn đưa ra kết quả nhất quán với cùng một dữ liệu đầu vào."
+    },
+    {
+      "id": "q2",
+      "question": "Hiện tượng các chuyên gia y tế, tâm lý hay kiểm toán đưa ra các phán quyết khác nhau khi đánh giá cùng một hồ sơ vào hai thời điểm khác nhau phản ánh đặc điểm nào của tư duy?",
+      "options": [
+        "Sự linh hoạt tuyệt vời của hệ thống 2 trong việc thích ứng dữ liệu mới.",
+        "Tính nhất quán cao độ của trực giác chuyên gia trong môi trường phức tạp.",
+        "Sự lệ thuộc quá mức vào bối cảnh nhất thời và sự bất ổn của Hệ thống 1.",
+        "Khả năng khai thác triệt để thông tin ẩn sâu nhờ vào kinh nghiệm thực chiến."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương sách chỉ ra mức độ mâu thuẫn nội tại đáng kinh ngạc ở các chuyên gia (như bác sĩ X-quang, kiểm toán viên) khi đánh giá lại cùng một sự việc. Sự mâu thuẫn này bắt nguồn từ sự phụ thuộc của Hệ thống 1 vào bối cảnh thay đổi từ thời điểm này sang thời điểm khác."
+    },
+    {
+      "id": "q3",
+      "question": "Khi nhà kinh tế học Orley Ashenfelter tạo ra công thức dự đoán giá rượu vang Bordeaux bằng ba biến số thời tiết, giới sành rượu châu Âu đã phản ứng ra sao và điều này minh chứng cho điều gì?",
+      "options": [
+        "Họ khen ngợi nhiệt liệt và áp dụng ngay lập tức vào chiến lược đầu tư.",
+        "Họ thờ ơ và giữ vững lập trường trung lập trước các con số thống kê.",
+        "Họ tiến hành nghiên cứu độc lập để chứng minh công thức hoàn toàn sai lầm.",
+        "Họ tỏ ra vô cùng phẫn nộ và cuồng loạn do vướng vào ảo tưởng về kỹ năng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Giới sành rượu phản ứng gay gắt, thậm chí cuồng loạn trước công thức của Ashenfelter vì họ bị kìm kẹp bởi 'ảo tưởng về kỹ năng' và ác cảm với việc một cỗ máy hoặc con số đơn giản có thể vượt qua nghệ thuật nếm rượu truyền thống của họ."
+    },
+    {
+      "id": "q4",
+      "question": "Theo Paul Meehl và Daniel Kahneman, tại sao các chuyên gia thường có xu hướng bác bỏ hoặc điều chỉnh các công thức dự đoán mặc dù các nghiên cứu đã chứng minh thuật toán chính xác hơn?",
+      "options": [
+        "Họ luôn nhận được phản hồi tức thì và chính xác về các dự đoán dài hạn của mình.",
+        "Họ tuân thủ tuyệt đối các nguyên tắc thống kê học thuật do nhà trường đào tạo.",
+        "Họ sở hữu lượng thông tin bổ sung phong phú nhưng lại lạm dụng nó để tăng sai lầm.",
+        "Họ có khả năng kiểm soát hoàn toàn các yếu tố ngẫu nhiên trong tương lai xa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Các chuyên gia thường tự tin rằng thông tin bổ sung (thậm chí là ngoại lệ hiếm hoi như 'gãy chân') cho phép họ phá vỡ công thức. Tuy nhiên, việc cố gắng áp dụng thông tin bổ sung này thường tạo ra nhiều sai lầm hơn là giúp ích cho dự đoán."
+    },
+    {
+      "id": "q5",
+      "question": "Trong thí nghiệm tuyển chọn tân binh quân sự của Kahneman, tại sao việc yêu cầu người phỏng vấn cho điểm riêng biệt từng đặc trưng theo thứ tự cố định lại làm tăng độ chính xác của dự đoán?",
+      "options": [
+        "Nó triệt tiêu hoàn toàn khả năng tư duy logic của đội ngũ phỏng vấn viên trẻ.",
+        "Nó ngăn chặn hiệu ứng hào quang và sự áp đặt cảm tính từ cái nhìn ban đầu.",
+        "Nó giúp kéo dài thời gian phỏng vấn lên gấp đôi để khai thác sâu hơn hồ sơ.",
+        "Nó cho phép các ứng viên tự chấm điểm năng lực của chính bản thân mình."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bằng cách chia nhỏ các đặc trưng và đánh giá tuần tự, quy trình này ngăn chặn 'hiệu ứng hào quang' — nơi ấn tượng ban đầu chi phối toàn bộ các phán quyết sau đó, đồng thời giảm bớt sức nặng của cảm giác chủ quan."
+    },
+    {
+      "id": "q6",
+      "question": "Khám phá bất ngờ của Kahneman khi quan sát những người phỏng vấn quân sự thực hiện thao tác 'nhắm mắt lại để cho điểm trực giác' sau khi đã hoàn thành bảng đánh giá quy chuẩn là gì?",
+      "options": [
+        "Trực giác hoàn toàn vô dụng và phá hủy toàn bộ thành quả của công thức thống kê theo cơ chế hoạt động của trí não.",
+        "Trực giác vẫn gia tăng giá trị dự đoán, nhưng chỉ thực sự hữu ích khi được đặt sau quá trình thu thập thông tin khách quan, có quy củ.",
+        "Trực giác chỉ mang lại giá trị tiêu cực và làm gia tăng tỷ lệ dự đoán sai lệch khi đối mặt với các tình huống bất định.",
+        "Trực giác thay thế hoàn toàn được công thức thống kê nếu người phỏng vấn có đủ kinh nghiệm lâu năm nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kahneman phát hiện ra rằng trực giác vẫn có giá trị bổ sung hữu ích, nhưng điều kiện tiên quyết là nó phải diễn ra 'sau khi' đã có một sự chọn lựa quy củ các thông tin khách quan và cho điểm đúng quy định các đặc điểm riêng biệt."
+    },
+    {
+      "id": "q7",
+      "question": "Nghiên cứu của Robyn Dawes về các mô hình tuyến tính cho thấy điều gì đáng ngạc nhiên về việc gán trọng số cho các yếu tố dự đoán trong các quyết định quản lý?",
+      "options": [
+        "Chỉ có các thuật toán phức tạp tối ưu mới có thể đánh bại được con người trong quá trình phán đoán và tư duy.",
+        "Các công thức ấn định trọng số cân bằng (hoặc nhẩm tính) thường chính xác ngang bằng hoặc hơn các mô hình đa hồi quy tối ưu.",
+        "Việc gán trọng số ngẫu nhiên hoàn toàn không mang lại bất kỳ giá trị nào cho dự đoán thực tế dưới góc độ kinh tế học hành vi.",
+        "Con người luôn giỏi hơn máy móc trong việc xác định trọng số chính xác của các biến số nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Robyn Dawes chứng minh rằng các mô hình tuyến tính với trọng số cân bằng (hoặc thậm chí là quy tắc nhẩm tính đơn giản) cực kỳ mạnh mẽ vì chúng không bị tác động bởi hoạt động chọn mẫu các rủi ro, đủ sức ganh đua với trọng số tối ưu."
+    },
+    {
+      "id": "q8",
+      "question": "Thang điểm Apgar dùng trong phòng sinh để đánh giá trẻ sơ sinh ngay sau khi chào đời minh họa cho nguyên lý nào được đề cập trong chương?",
+      "options": [
+        "Sự phức tạp của phán quyết lâm sàng luôn vượt trội hơn các quy tắc cơ học đơn giản dưới góc độ kinh tế học hành vi.",
+        "Một quy tắc tổng hợp đơn giản gồm các biến số tiêu chuẩn hóa có thể cứu mạng sống và vượt qua phỏng đoán tản mạn của chuyên gia.",
+        "Các bác sĩ sản khoa cần dựa vào linh cảm chủ quan để nhận biết các dấu hiệu nguy hiểm ở trẻ sơ sinh nhằm nâng cao chất lượng ra quyết định.",
+        "Việc áp dụng công thức thống kê trong y học thường dẫn đến sự phản kháng mạnh mẽ từ bệnh nhân trong quá trình phán đoán và tư duy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thang điểm Apgar do bác sĩ Virginia Apgar thiết lập gồm 5 biến số đơn giản đã chuẩn hóa quy trình đánh giá, loại bỏ sự tản mạn trong suy đoán y khoa và góp phần làm giảm đáng kể tỷ lệ tử vong ở trẻ sơ sinh."
+    },
+    {
+      "id": "q9",
+      "question": "Tại sao các bác sĩ tâm lý lâm sàng thường trải qua cảm giác phẫn nộ và chống đối quyết liệt khi đối mặt với các nghiên cứu so sánh giữa chẩn đoán lâm sàng và dự đoán thống kê của Paul Meehl?",
+      "options": [
+        "Họ nhầm lẫn giữa thành công trong dự đoán ngắn hạn của trị liệu với khả năng dự đoán dài hạn.",
+        "Họ chưa bao giờ đọc các tài liệu khoa học thống kê do Meehl biên soạn trong sự nghiệp.",
+        "Họ có động cơ tài chính trong việc duy trì các phương pháp trị liệu tốn kém.",
+        "Họ luôn nhận được phản hồi chính xác lập tức về kết quả dài hạn của bệnh nhân."
+      ],
+      "correctIndex": 0,
+      "explanation": "Các bác sĩ lâm sàng có rất nhiều linh cảm và sự thành công trong các dự đoán ngắn hạn qua phỏng vấn trị liệu. Do đó, họ vướng vào ảo tưởng rằng mình cũng có năng lực phán đoán chính xác các kết quả dài hạn — nhiệm vụ vốn cực kỳ khó khăn mà họ thiếu phản hồi."
+    },
+    {
+      "id": "q10",
+      "question": "Ác cảm của công chúng đối với các thuật toán ra quyết định (như việc từ chối trái táo trồng công nghiệp hoặc phản ứng với mô hình rượu vang) có mối liên hệ tâm lý sâu sắc nào?",
+      "options": [
+        "Sự tin tưởng mù quáng vào năng lực giải quyết vấn đề của các chuyên gia đầu ngành dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Sự thấu hiểu tường tận về các sai số toán học ẩn chứa bên trong cấu trúc của phần mềm lập trình trong quá trình phán đoán và tư duy.",
+        "Sự thiếu hụt hoàn toàn về khả năng tiếp cận công nghệ thông tin trong đời sống hiện đại nhằm nâng cao chất lượng ra quyết định.",
+        "Sự thiên vị mang tính đạo đức bắt nguồn từ việc ưu tiên đồng loại và sự 'thuần tự nhiên' thay vì các giải pháp máy móc, vô cảm."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chương sách nhấn mạnh ác cảm với thuật toán bắt nguồn từ thiên vị tự nhiên: con người luôn ưu tiên đồng loại hoặc các yếu tố 'thuần tự nhiên'. Khi cỗ máy hoặc thuật toán gây ra sai lầm, mức độ tổn thương tâm lý và sự phẫn nộ lớn hơn nhiều so với lỗi của con người."
+    },
+    {
+      "id": "q11",
+      "question": "Trong bối cảnh ra quyết định tuyển dụng nhân sự cho doanh nghiệp, lời khuyên cốt lõi theo tinh thần của Meehl và Dawes là gì để tối ưu hóa chất lượng ứng viên?",
+      "options": [
+        "Thiết lập các tiêu chuẩn độc lập, cho điểm từng đặc trưng tuần tự và tuân thủ tuyệt đối công thức tổng điểm.",
+        "Sựa chọn dựa trên cảm giác trực giác tổng thể khi nhìn thẳng vào mắt ứng viên trong quá trình phán đoán và tư duy.",
+        "Để người phỏng vấn tự do trò chuyện để khai thác tiềm năng vô thức của ứng viên dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Loại bỏ hoàn toàn các câu hỏi phỏng vấn thực tế để tránh gây áp lực tâm lý cho ứng viên trong quá trình phán đoán và tư duy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Để tránh bẫy trực giác và hiệu ứng hào quang, quy trình chuẩn đòi hỏi chọn một số ít đặc trưng độc lập, lập câu hỏi thực tế, cho điểm từng phần theo thang điểm chuẩn và kiên quyết chọn ứng viên có tổng điểm cao nhất."
+    },
+    {
+      "id": "q12",
+      "question": "Thuật ngữ 'quy tắc gãy chân' (broken-leg rule) do Paul Meehl đề cập minh họa cho tình huống nào sau đây?",
+      "options": [
+        "Sự thất bại tất yếu của các chuyên gia khi cố gắng can thiệp vào các mô hình toán học phức tạp.",
+        "Quy tắc bắt buộc phải áp dụng các thuật toán máy móc trong mọi hoàn cảnh y tế khẩn cấp.",
+        "Trường hợp ngoại lệ cực kỳ hiếm hoi và rõ ràng đến mức việc phá vỡ công thức thống kê là hoàn toàn hợp lý.",
+        "Hiện tượng con người liên tục ngụy biện để bảo vệ những phán quyết sai lầm của Hệ thống 1."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Quy tắc gãy chân' chỉ ra tình huống ngoại lệ cực kỳ rõ ràng và mang tính quyết định (như việc một người dự định đi xem phim nhưng bị gãy chân vào hôm đó) cho phép người ta bỏ qua công thức dự đoán thông thường."
+    },
+    {
+      "id": "q13",
+      "question": "Cuộc tranh luận giữa chẩn đoán lâm sàng và dự đoán thống kê trong khoa học xã hội mang tính chất như thế nào được Meehl mô tả?",
+      "options": [
+        "Là cuộc tranh cãi duy nhất trong khoa học xã hội có khối lượng nghiên cứu đa dạng, chất lượng diễn ra đồng nhất dưới cùng một hướng ủng hộ thuật toán.",
+        "Là cuộc tranh cãi tẻ nhạt với rất ít nghiên cứu thực nghiệm được thực hiện trong suốt 50 năm dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Là cuộc tranh cãi đã ngã ngũ từ trước khi cuốn sách nhỏ của Meehl được chính thức xuất bản khi đối mặt với các tình huống bất định.",
+        "Là cuộc tranh cãi chứng minh sự ưu việt tuyệt đối của trực giác chuyên gia trong mọi lĩnh vực trong quá trình phán đoán và tư duy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Meehl tự hào khẳng định không có cuộc tranh cãi nào trong khoa học xã hội lại có khối lượng nghiên cứu đồ sộ, đa dạng với chất lượng diễn ra đều đặn cùng hướng chỉ ra sự ưu việt của dự đoán thống kê như nghiên cứu này."
+    },
+    {
+      "id": "q14",
+      "question": "Hiện tượng nào giải thích tại sao các chuyên gia thường có xu hướng đánh giá quá cao giá trị của các buổi phỏng vấn trực tiếp khi tuyển dụng sinh viên y khoa hoặc nhân sự?",
+      "options": [
+        "Việc tuân thủ nghiêm ngặt các quy trình chuẩn hóa không có sự tham gia của cảm xúc.",
+        "Khả năng ghi nhớ hoàn hảo toàn bộ dữ liệu lịch sử của từng ứng viên tham gia phỏng vấn.",
+        "Sự am hiểu sâu sắc về các mô hình đa hồi quy thống kê hiện đại trong doanh nghiệp.",
+        "Sự tự tin thái quá vào khả năng đọc vị con người thông qua các ấn tượng chủ quan trong tương tác ngắn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Do quá tự tin vào trực giác của mình qua các buổi phỏng vấn, các thành viên hội đồng áp đặt quá nhiều sức nặng lên cảm tưởng cá nhân (Hệ thống 1) và quá ít sức nặng lên các nguồn thông tin định lượng khách quan khác."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học lớn nhất mà Daniel Kahneman rút ra từ công trình của Paul Meehl và áp dụng vào việc cải tổ hệ thống tuyển chọn quân sự của Israel là gì?",
+      "options": [
+        "Thay thế phán quyết trực giác tổng thể bằng một hệ thống thu thập thông tin khách quan, chấm điểm theo tiêu chuẩn và kết hợp bằng công thức.",
+        "Tin tưởng tuyệt đối vào phán quyết tức thì của những người phỏng vấn giàu kinh nghiệm khi đối mặt với các tình huống bất định.",
+        "Hoàn toàn loại bỏ con người ra khỏi mọi khâu đánh giá năng lực chiến đấu khi đối mặt với các tình huống bất định.",
+        "Sử dụng các bài kiểm tra tâm lý phức tạp nhằm khai thác tiềm thức sâu kín của tân binh nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kahneman đã chuyển đổi quy trình phỏng vấn từ việc đánh giá trực giác tản mạn sang việc chuẩn hóa các câu hỏi hành vi quá khứ, đánh giá tuần tự từng đặc trưng và kết hợp chúng bằng một công thức chuẩn, qua đó cải thiện đáng kể độ chính xác."
+    }
+  ]
+}

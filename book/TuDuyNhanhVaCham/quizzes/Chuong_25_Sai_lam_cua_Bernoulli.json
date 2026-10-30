@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_25_Sai_lam_cua_Bernoulli",
+  "chapterTitle": "Chương 25. Sai lầm của Bernoulli",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi đọc bài luận của Bruno Frey về tác nhân kinh tế 'có lý trí, ích kỷ và thị hiếu không đổi', Daniel Kahneman đã vô cùng kinh ngạc. Phản ứng này phản ánh điểm khác biệt nào giữa thế giới tri thức của nhà tâm lý học và nhà kinh tế học?",
+      "options": [
+        "Nhà tâm lý học luôn giả định con người hoàn toàn phi lý trí, ích kỷ và bất ổn.",
+        "Nhà kinh tế học áp dụng mô hình Hệ thống 2 thuần túy, trong khi tâm lý học hiểu rõ Hệ thống 1.",
+        "Nhà kinh tế học sử dụng các trò may rủi đơn thuần để nghiên cứu toàn bộ hành vi xã hội.",
+        "Nhà tâm lý học loại bỏ hoàn toàn các quy tắc logic để nghiên cứu cảm xúc con người."
+      ],
+      "correctIndex": 1,
+      "explanation": "Daniel Kahneman chỉ ra rằng các nhà kinh tế học xây dựng mô hình dựa trên tác nhân lý trí tuyệt đối (Econs), tương ứng với hoạt động của Hệ thống 2, trong khi các nhà tâm lý học thấu hiểu sức mạnh của Hệ thống 1 vốn không nhất quán, cảm tính và phụ thuộc vào hoàn cảnh."
+    },
+    {
+      "id": "q2",
+      "question": "Tại sao các nhà lý luận quyết định lại thường sử dụng các trò may rủi đơn thuần (như tung đồng xu nhận tiền) trong các nghiên cứu của họ thay vì các quyết định phức tạp trong đời thực?",
+      "options": [
+        "Vì chúng cung cấp mô hình đơn giản chia sẻ đặc trưng bất trắc cốt lõi và được giới nghiên cứu dùng chung.",
+        "Vì con người trong các trò may rủi đơn thuần luôn đưa ra những quyết định hoàn toàn hợp lý và có thể dự báo.",
+        "Vì các trò may rủi đơn thuần loại bỏ hoàn toàn ảnh hưởng của điểm tham chiếu và quy luật giá trị biên.",
+        "Vì chúng phản ánh chính xác 100% mọi tình huống tài chính phức tạp mà con người gặp phải hàng ngày."
+      ],
+      "correctIndex": 0,
+      "explanation": "Các trò may rủi đơn thuần được dùng làm mô hình mẫu vì chúng cô lập yếu tố bất trắc cốt lõi của mọi quyết định đời thực, đồng thời tạo ra một hệ quy chiếu chung được cộng đồng các nhà nghiên cứu cùng sử dụng."
+    },
+    {
+      "id": "q3",
+      "question": "Học thuyết thỏa dụng kỳ vọng của von Neumann và Morgenstern đóng vai trò kép trong khoa học kinh tế như thế nào theo góc nhìn của Daniel Kahneman?",
+      "options": [
+        "Vừa là phép logic quy định cách ra quyết định vừa là mô tả thực tế con người hành động.",
+        "Vừa là công cụ thống kê mô tả vừa là phương pháp kiểm soát cảm xúc của con người.",
+        "Vừa là hệ thống định giá tài sản vừa là công cụ đo lường mức độ bất trắc của thị trường.",
+        "Vừa là định luật vật lý tâm thần vừa là nguyên tắc toán học thuần túy không có thực tiễn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Các nhà kinh tế học thừa nhận học thuyết thỏa dụng kỳ vọng có vai trò kép: vừa là chuẩn mực logic quy định cách con người 'nên' ra quyết định (rationality), vừa là mô tả thực tế về cách con người thực sự lựa chọn."
+    },
+    {
+      "id": "q4",
+      "question": "Trong phương pháp nghiên cứu trực giác của Kahneman và Tversky, việc hai ông tự đặt ra các bài toán quyết định và kiểm tra ưu tiên của chính mình dựa trên nguyên tắc nào?",
+      "options": [
+        "Sử dụng Hệ thống 2 để tính toán kỹ lưỡng giá trị kỳ vọng toán học trước khi đưa ra lựa chọn.",
+        "Khai thác trực giác xuất hiện tức thời trong đầu (Hệ thống 1) để tìm ra sự đồng thuận tự nhiên.",
+        "Loại bỏ hoàn toàn các cảm xúc cá nhân để đảm bảo tính khách quan tuyệt đối của phòng thí nghiệm.",
+        "Áp dụng các tiên đề logic toán học phức tạp nhằm chứng minh học thuyết thỏa dụng luôn đúng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kahneman và Tversky khai thác các ưu tiên trực quan xuất hiện ngay lập tức trong tâm trí (sản phẩm của Hệ thống 1). Khi cả hai cùng chia sẻ một trực giác, họ tin rằng đa số mọi người cũng sẽ có ưu tiên tương tự."
+    },
+    {
+      "id": "q5",
+      "question": "Lý thuyết viễn cảnh (Prospect Theory) do Kahneman và Tversky phát triển khác biệt cơ bản nào so với học thuyết thỏa dụng kỳ vọng truyền thống?",
+      "options": [
+        "Nó chứng minh rằng con người luôn luôn tìm kiếm rủi ro trong mọi tình huống tài chính.",
+        "Nó khẳng định tài sản hiện tại là yếu tố duy nhất quyết định mức độ thỏa mãn của con người.",
+        "Nó loại bỏ hoàn toàn khái niệm xác suất và chỉ tập trung vào giá trị tuyệt đối của đồng tiền.",
+        "Nó là mô tả thuần túy nhằm ghi lại và giải thích các sai phạm có hệ thống của các tiên đề hợp lý."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lý thuyết viễn cảnh là một mô tả thuần túy nhằm ghi lại và giải thích những sai phạm có hệ thống (systematic violations) của các tiên đề về sự hợp lý trong lựa chọn dưới rủi ro."
+    },
+    {
+      "id": "q6",
+      "question": "Mối quan hệ giữa kích thích vật lý và trải nghiệm chủ quan trong Vật lý tâm thần học của Gustav Fechner được phản ánh qua đặc điểm toán học nào?",
+      "options": [
+        "Hàm số tuyến tính, trong đó mỗi đơn vị kích thích tăng thêm tạo ra độ thỏa mãn tăng tuyến tính.",
+        "Hàm số mũ, trong đó trải nghiệm chủ quan tăng nhanh hơn gấp nhiều lần so với kích thích vật lý.",
+        "Hàm số logarit, trong đó sự gia tăng theo tỷ lệ của kích thích mang lại số gia không đổi về tâm lý.",
+        "Hàm số ngẫu nhiên, trong đó phản ứng tâm lý không phụ thuộc vào cường độ của kích thích ban đầu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Fechner đề xuất hàm số logarit, nghĩa là sự gia tăng cường độ kích thích theo một tỷ lệ nhất định (ví dụ nhân 1.5 lần hay 10 lần) luôn mang lại một số gia cố định trên thang đo tâm lý chủ quan."
+    },
+    {
+      "id": "q7",
+      "question": "Đâu là 'Sai lầm của Bernoulli' cốt lõi được Daniel Kahneman chỉ ra khi phân tích hàm số thỏa dụng tài sản của Daniel Bernoulli?",
+      "options": [
+        "Bernoulli đã tính toán sai giá trị kỳ vọng toán học của các trò chơi may rủi ở St. Petersburg.",
+        "Bernoulli sử dụng phương pháp thống kê xác suất sai lầm khi phân tích thị trường bảo hiểm.",
+        "Bernoulli cho rằng con người luôn luôn thích mạo hiểm bất kể tài sản hiện tại của họ là bao nhiêu.",
+        "Bernoulli đánh đồng giá trị tài sản tuyệt đối với mức độ thỏa mãn mà bỏ qua điểm tham chiếu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sai lầm của Bernoulli nằm ở chỗ ông cho rằng thỏa dụng chỉ phụ thuộc vào mức độ giàu có hiện tại (tài sản tuyệt đối), mà hoàn toàn bỏ qua thực tế rằng sự thỏa mãn được quyết định bởi sự thay đổi so với điểm tham chiếu."
+    },
+    {
+      "id": "q8",
+      "question": "Xét ví dụ về Jack và Jill có cùng khối tài sản 5 triệu đô-la hôm nay nhưng hôm qua Jack có 1 triệu và Jill có 9 triệu. Hiện tượng họ có mức độ thỏa mãn hoàn toàn khác nhau chứng minh điều gì về tâm lý con người?",
+      "options": [
+        "Mức độ thỏa mãn phụ thuộc hoàn toàn vào giá trị kỳ vọng toán học của tài sản trong tương lai.",
+        "Con người đánh giá sự giàu có dựa trên trạng thái tài sản tuyệt đối thay vì sự thay đổi.",
+        "Hệ thống 2 luôn điều chỉnh cảm xúc của con người để thích nghi nhanh với khối tài sản mới.",
+        "Sự thỏa mãn được xác định bởi sự thay đổi so với điểm tham chiếu (lịch sử tài sản ban đầu)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trường hợp của Jack và Jill chứng minh rằng sự thỏa mãn trải qua phụ thuộc vào sự thay đổi so với điểm tham chiếu (Jack tăng từ 1 lên 5 triệu nên hân hoan, Jill giảm từ 9 xuống 5 triệu nên chán nản), điều mà học thuyết Bernoulli bỏ qua."
+    },
+    {
+      "id": "q9",
+      "question": "Trong tình huống của Anthony (tài sản 1 triệu) và Betty (tài sản 4 triệu) cùng đối mặt với lựa chọn nhận chắc chắn 2 triệu hoặc chơi may rủi (1 triệu hoặc 4 triệu), tại sao họ lại đưa ra các quyết định trái ngược nhau?",
+      "options": [
+        "Vì điểm tham chiếu khác nhau khiến Anthony coi phương án chắc chắn là lãi còn Betty coi là lỗ.",
+        "Vì Anthony có xu hướng tìm kiếm rủi ro còn Betty luôn luôn có tính cách thận trọng cực độ.",
+        "Vì giá trị kỳ vọng toán học của Anthony cao hơn Betty khi đối mặt với cùng một trò may rủi.",
+        "Vì Hệ thống 2 của Betty hoạt động mạnh mẽ hơn Anthony trong việc phân tích các con số tài chính."
+      ],
+      "correctIndex": 0,
+      "explanation": "Điểm tham chiếu khác nhau (Anthony có 1 triệu, Betty có 4 triệu) khiến Anthony nhìn nhận phương án 2 triệu là một khoản lãi chắc chắn (nhân đôi tài sản), trong khi Betty coi đó là một khoản lỗ chắc chắn (mất nửa tài sản), dẫn đến tâm lý né tránh rủi ro ở Anthony và tìm kiếm rủi ro ở Betty."
+    },
+    {
+      "id": "q10",
+      "question": "Hiện tượng các doanh nhân hoặc cá nhân khi đối mặt với những phương án toàn tồi tệ lại có xu hướng chấp nhận rủi ro cao (tìm kiếm rủi ro) được lý giải bởi nguyên lý nào trong lý thuyết viễn cảnh?",
+      "options": [
+        "Sự ác cảm mất mát và việc đóng khung tình huống dưới dạng các khoản lỗ từ điểm tham chiếu.",
+        "Quy luật lợi ích cận biên giảm dần của tài sản trong học thuyết thỏa dụng kỳ vọng.",
+        "Sự chi phối hoàn toàn của Hệ thống 2 nhằm tối ưu hóa lợi nhuận kỳ vọng trong dài hạn.",
+        "Hiệu ứng mỏ neo khiến họ đánh giá sai lệch hoàn toàn xác suất thành công của trò may rủi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi đối mặt với các lựa chọn tồi tệ (toàn là khoản lỗ so với điểm tham chiếu), con người có xu hướng tìm kiếm rủi ro (đánh cược để hy vọng không mất gì) do tác động của sự ác cảm mất mát và cách đóng khung vấn đề."
+    },
+    {
+      "id": "q11",
+      "question": "Khái niệm 'Học thuyết gây ra sự mù quáng' (theory-induced blindness) mà Daniel Kahneman đề cập dùng để giải thích hiện tượng nào trong cộng đồng học thuật và khoa học?",
+      "options": [
+        "Các nhà khoa học thường xuyên từ chối công bố các bài báo trên các tạp chí kinh tế lớn khi đối mặt với các tình huống bất định.",
+        "Hệ thống 2 luôn luôn chiếm quyền kiểm soát hoàn toàn khiến con người không thể có trực giác sáng tạo.",
+        "Một khi đã chấp nhận một học thuyết, con người cực kỳ khó nhận ra sai sót của nó và tự động bỏ qua mâu thuẫn.",
+        "Con người dễ dàng thay đổi quan điểm ngay lập tức khi xuất hiện một ví dụ phản chứng đơn giản trong quá trình phán đoán và tư duy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Học thuyết gây ra sự mù quáng là hiện tượng khi bạn đã tin tưởng một học thuyết, tâm trí bạn sẽ tự động bảo vệ nó, coi những bằng chứng mâu thuẫn là ngoại lệ hoặc có lời giải thích ẩn giấu, khiến bạn không nhận ra sai sót rõ ràng."
+    },
+    {
+      "id": "q12",
+      "question": "Ứng dụng thực tế nào sau đây phản ánh chính xác nhất bài học về điểm tham chiếu trong đàm phán lương thưởng hoặc giải quyết tranh chấp pháp lý?",
+      "options": [
+        "Luôn đưa ra mức lương tuyệt đối cao nhất mà không cần quan tâm đến mức lương trước đây của ứng viên.",
+        "Hiểu rằng mức độ hài lòng của nhân viên hay đương sự phụ thuộc rất lớn vào mức nền tảng (điểm tham chiếu) họ đang có.",
+        "Buộc các bên từ bỏ hoàn toàn quá khứ tài chính để tập trung vào giá trị kỳ vọng toán học hiện tại.",
+        "Sử dụng các con số thống kê phức tạp để thuyết phục họ rằng điểm tham chiếu hiện tại là không hợp lý."
+      ],
+      "correctIndex": 1,
+      "explanation": "Do điểm tham chiếu quyết định mức độ thỏa mãn, một mức thưởng hay mức lương chỉ mang lại hạnh phúc thực sự khi nó tạo ra sự gia tăng tích cực so với điểm tham chiếu hiện tại của người đó (như trường hợp tăng lương hay tiền thưởng)."
+    },
+    {
+      "id": "q13",
+      "question": "Phát biểu nào sau đây minh họa chính xác nhất cho hiện tượng phụ thuộc điểm tham chiếu trong tâm lý học hành vi?",
+      "options": [
+        "“Anh ta giàu có nhờ tài sản ròng đạt 10 triệu đô-la, vì vậy anh ta luôn cảm thấy hạnh phúc như nhau.” nhằm nâng cao chất lượng ra quyết định.",
+        "“Khoản tiền thưởng 5.000 đô-la làm cô ấy rất vui vì năm ngoái lương cô ấy thấp hơn nhiều, nhưng lại làm đồng nghiệp chán nản vì họ vừa bị cắt giảm phúc lợi.”.",
+        "“Giá trị kỳ vọng toán học của trò chơi này bằng đúng số tiền chắc chắn, do đó ai cũng sẽ lựa chọn ngẫu nhiên.” dưới góc độ kinh tế học hành vi.",
+        "“Hệ thống 2 đã tính toán chính xác tỷ suất sinh lợi của khoản đầu tư mà không bị ảnh hưởng bởi cảm xúc.” nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoản tiền thưởng mang lại cảm xúc hoàn toàn trái ngược cho hai người có điểm tham chiếu khác nhau (một người xuất phát từ mức thấp thấy vui mừng, người kia đối mặt với việc cắt giảm phúc lợi cảm thấy chán nản), minh họa rõ sự phụ thuộc điểm tham chiếu."
+    },
+    {
+      "id": "q14",
+      "question": "Tại sao việc Daniel Kahneman và Amos Tversky chọn gửi bài tiểu luận về Lý thuyết viễn cảnh cho tờ tạp chí kinh tế học Econometrica thay vì một tạp chí tâm lý học lại mang tính chiến lược quyết định?",
+      "options": [
+        "Vì tạp chí tâm lý học từ chối đăng tải các bài báo liên quan đến toán học và xác suất theo cơ chế hoạt động của trí não.",
+        "Vì các nhà tâm lý học không quan tâm đến hành vi ra quyết định dưới rủi ro của con người nhằm nâng cao chất lượng ra quyết định.",
+        "Vì Econometrica là nơi tập trung các nhà kinh tế học lý thuyết, giúp lý thuyết có sức ảnh hưởng sâu rộng đến ngành kinh tế.",
+        "Vì họ muốn nhận được phần thưởng tài chính lớn từ các nhà xuất bản kinh tế hàng đầu thế giới nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc đăng bài trên Econometrica – tập san uy tín nhất về lý thuyết kinh tế và ra quyết định – đã giúp Lý thuyết viễn cảnh tiếp cận và tạo ra tiếng vang lớn trong giới kinh tế học, thay vì bị cô lập trong lĩnh vực tâm lý học."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học quan trọng nhất về tư duy phản biện mà một nhà quản lý có thể rút ra từ chương sách 'Sai lầm của Bernoulli' là gì?",
+      "options": [
+        "Phải luôn luôn tin tưởng tuyệt đối vào các mô hình toán học lâu đời được cộng đồng chuyên gia công nhận theo cơ chế hoạt động của trí não.",
+        "Loại bỏ hoàn toàn trực giác của Hệ thống 1 và chỉ ra quyết định dựa trên tính toán xác suất khách quan theo cơ chế hoạt động của trí não.",
+        "Cần nhận thức rõ các điểm mù do học thuyết cũ tạo ra và luôn kiểm tra xem các quyết định dựa trên điểm tham chiếu nào.",
+        "Ép buộc nhân viên đối mặt với các rủi ro lớn để rèn luyện tâm lý chịu đựng thất i tài chính dưới góc độ kinh tế học hành vi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhà quản lý cần tránh 'hiệu ứng gây ra sự mù quáng', luôn hoài nghi các mô hình truyền thống khi chúng bỏ qua thực tế tâm lý (như điểm tham chiếu và ác cảm mất mát), từ đó thấu hiểu cách con người thực sự ra quyết định."
+    }
+  ]
+}

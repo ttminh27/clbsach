@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_11_Cac_neo_dau",
+  "chapterTitle": "Chương 11. Các neo đậu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Trong thí nghiệm quay bánh xe may mắn dừng lại ở số 10 hoặc 65 trước khi hỏi về tỷ lệ quốc gia châu Phi tại Liên Hợp Quốc, phát hiện cốt lõi nào của Daniel Kahneman và Amos Tversky được minh họa rõ nhất?",
+      "options": [
+        "Dự đoán của con người bị chi phối mạnh mẽ bởi những con số hoàn toàn vô giá trị.",
+        "Sự đánh giá duy lý của con người dựa hoàn toàn vào việc tính toán xác suất thống kê.",
+        "Hệ thống 2 luôn kịp thời can thiệp và loại bỏ các con số ngẫu nhiên trước khi phán đoán.",
+        "Thông tin có cấu trúc logic rõ ràng mới có khả năng tạo ra hiệu ứng mỏ neo mạnh mẽ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thí nghiệm minh chứng sự vô lý của hiệu ứng neo đậu: các dự đoán bị chi phối bởi một con số ngẫu nhiên không đem lại thông tin gì. Hệ thống 1 tự động chấp nhận và gắn kết thông tin sẵn có mà không cần phân tích tính hợp lý."
+    },
+    {
+      "id": "q2",
+      "question": "Theo phân tích của Daniel Kahneman, hai cơ chế tâm lý độc lập nào cùng dẫn đến hiện tượng hiệu ứng neo đậu trong đời sống hàng ngày?",
+      "options": [
+        "Quá trình tìm kiếm thông tin ngoại biên và cơ chế kiểm soát cảm xúc tiêu cực của não bộ.",
+        "Sự lười biếng nhận thức của Hệ thống 1 và khả năng suy luận logic tuyệt đối của Hệ thống 2.",
+        "Sự điều chỉnh có chủ đích của Hệ thống 2 và hiệu ứng mồi từ sự vận hành tự động của Hệ thống 1.",
+        "Thói quen rập khuôn của tư duy trực giác và việc áp dụng sai các công thức toán học cơ bản."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kahneman chỉ ra hai cơ chế: (1) neo đậu như sự điều chỉnh thận trọng của Hệ thống 2 (như khi ước lượng năm sinh hoặc kẻ đường thẳng), và (2) neo đậu như hiệu ứng mồi gợi ra các ký ức tương hợp thông qua Hệ thống 1."
+    },
+    {
+      "id": "q3",
+      "question": "Khi một người cố gắng ước lượng một đại lượng không chắc chắn bằng cách xuất phát từ một điểm neo và dịch chuyển dần trong đầu cho đến khi cảm thấy không chắc chắn nữa, điều gì thường xảy ra?",
+      "options": [
+        "Họ sẽ thực hiện quá trình điều chỉnh vượt mức do sự bốc đồng của Hệ thống 1.",
+        "Họ sẽ loại bỏ hoàn toàn điểm neo ban đầu để tìm ra con số chính xác tuyệt đối.",
+        "Họ sẽ điều chỉnh không đầy đủ và dừng lại ở gần vùng ranh giới không chắc chắn.",
+        "Họ sẽ kích hoạt thành công Hệ thống 2 để tính toán ra đáp án chuẩn xác nhất."
+      ],
+      "correctIndex": 2,
+      "explanation": "Amo Tversky và các nhà nghiên cứu sau này chứng minh rằng việc điều chỉnh thường kết thúc vội vã khi người ta không còn chắc chắn nên dịch chuyển xa hơn nữa, dẫn đến hiện tượng điều chỉnh không đầy đủ (underadjustment)."
+    },
+    {
+      "id": "q4",
+      "question": "Thí nghiệm của Thomas Mussweiler và Fritz Strack về nhiệt độ ở Đức (với các mốc 36°C và 8°C) đã chứng minh bản chất của hiệu ứng neo đậu gắn liền với hiện tượng nào dưới đây?",
+      "options": [
+        "Sự kích hoạt có chọn lọc các ký ức và chuỗi ý niệm tương hợp trong trí nhớ.",
+        "Sự tính toán logic của Hệ thống 2 nhằm tìm kiếm dữ liệu khí tượng chính xác.",
+        "Sự từ chối triệt để các thông tin sai lệch do môi trường xung quanh áp đặt lên.",
+        "Xu hướng quy về mức trung bình của các giá trị thống kê trong quần thể mẫu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Các con số cao hay thấp kích hoạt các chuỗi ý niệm tương hợp trong trí nhớ (ví dụ 36°C gợi nhớ từ mùa hè, 8°C gợi nhớ mùa đông), minh họa rõ ràng cơ chế gắn kết liên tưởng và hiệu ứng mồi của Hệ thống 1."
+    },
+    {
+      "id": "q5",
+      "question": "Trong nghiên cứu về các văn phòng bất động sản thẩm định giá nhà, kết quả cho thấy các chuyên gia giàu kinh nghiệm cũng chịu ảnh hưởng mạnh mẽ bởi giá niêm yết ban đầu tương tự như các sinh viên kinh doanh. Phản ứng của các chuyên gia khi được hỏi về điều này là gì?",
+      "options": [
+        "Họ quá tự mãn, khẳng định mức giá ban đầu không có tác động và phủ nhận sai lầm.",
+        "Họ trung thực thừa nhận rằng bản thân đã bị chi phối bởi mức giá ban đầu.",
+        "Họ chủ động yêu cầu tiến hành thêm các khảo sát thị trường để đính chính lại.",
+        "Họ thừa nhận sự thiếu sót và đánh giá thấp năng lực định giá chuyên môn của mình."
+      ],
+      "correctIndex": 0,
+      "explanation": "Các văn phòng bất động sản quá tự mãn về năng lực nên đã lờ đi giá ban đầu và khẳng định nó không có tác động, nhưng thực tế chỉ số neo đậu của họ lên tới 41%, cho thấy sự mù quáng của chuyên gia trước các thiên kiến vô thức."
+    },
+    {
+      "id": "q6",
+      "question": "Khi các thẩm phán người Đức giàu kinh nghiệm gieo xúc xắc (cho ra kết quả 3 hoặc 9) trước khi đưa ra mức án cho tội phạm trộm cắp vặt, hiện tượng nào đã xảy ra với các bản án họ tuyên?",
+      "options": [
+        "Các thẩm phán nhận ra sự ngẫu nhiên của con xúc xắc và đưa ra mức án hoàn toàn khách quan.",
+        "Những thẩm phán gieo được số 9 đưa ra mức án trung bình cao hơn đáng kể so với số 3.",
+        "Kết quả gieo xúc xắc không hề tạo ra bất kỳ sự thay đổi nào đối với quyết định pháp lý.",
+        "Họ tự động kích hoạt Hệ thống 2 để triệt tiêu hoàn toàn tác động của con số ngẫu nhiên."
+      ],
+      "correctIndex": 2,
+      "explanation": "Những thẩm phán gieo số 9 kết án trung bình 8 tháng, còn số 3 kết án 5 tháng (hiệu ứng neo đậu 50%), chứng minh rằng ngay cả các chuyên gia pháp lý cao cấp cũng không miễn nhiễm trước các neo đậu ngẫu nhiên hoàn toàn phi lý."
+    },
+    {
+      "id": "q7",
+      "question": "Nguyên lý WYSIATI (Những gì bạn thấy là tất cả những gì có thể) gắn liền với hiệu ứng neo đậu ngẫu nhiên theo cơ chế nào?",
+      "options": [
+        "Trí nhớ dài hạn tự động loại bỏ các thông tin thiếu logic và chỉ giữ lại dữ liệu chính xác.",
+        "Hệ thống 2 chủ động thu thập toàn bộ dữ liệu ngoại biên để kiểm chứng độ tin cậy của con số.",
+        "Con người luôn có xu hướng hoài nghi mọi con số xuất hiện lần đầu tiên trong các cuộc đàm phán.",
+        "Hệ thống 1 cố gắng xây dựng một thế giới quan hợp lý trong đó con số neo đậu được coi là một giá trị thực."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hệ thống 1 gắng hết sức tạo nên một thế giới quan trong đó sự neo đậu là con số thực, dựa trên thông tin sẵn có bất kể chất lượng hay nguồn gốc của nó (WYSIATI), tạo ra sự gắn kết liên tưởng mù quáng."
+    },
+    {
+      "id": "q8",
+      "question": "Trong bối cảnh đàm phán thương mại hoặc mua bán nhà đất, lời khuyên chiến lược nào được đưa ra dựa trên hiểu biết về hiệu ứng neo đậu nhằm bảo vệ bản thân trước đối phương?",
+      "options": [
+        "Chấp nhận đề nghị ban đầu nhưng thương lượng kéo dài thời gian để giảm áp lực tâm lý trong quá trình phán đoán và tư duy.",
+        "Lặp lại ngay lập tức một đơn chào hàng cạnh tranh ở mức ngang bằng với đối phương dưới góc độ kinh tế học hành vi.",
+        "Để đối phương tiếp tục đưa ra thêm nhiều con số neo đậu khác để làm loãng tác động ban đầu khi đối mặt với các tình huống bất định.",
+        "Chủ động tạo ra khoảng trống bằng cách phản đối mạnh mẽ hoặc từ chối tiếp tục đàm phán nếu đề nghị quá đáng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nếu đối phương đưa ra đề nghị quá đáng, bạn không nên lặp lại với đơn chào hàng ngang bằng (tạo khoảng trống bất lợi), thay vào đó cần cao giọng, chất vấn hoặc làm rõ rằng cuộc đàm phán không thể tiếp tục với con số đó."
+    },
+    {
+      "id": "q9",
+      "question": "Theo nghiên cứu của Adam Galinsky và Thomas Mussweiler, chiến lược tâm lý nào có hiệu quả nhất để giảm thiểu hoặc loại bỏ hiệu ứng neo đậu trong các cuộc đàm phán?",
+      "options": [
+        "Tập trung hoàn toàn vào các lợi ích chung và cố gắng nhượng bộ sớm để tạo thiện cảm.",
+        "Phớt lờ mọi con số và chỉ dựa vào trực giác cá nhân để đưa ra quyết định cuối cùng.",
+        "Thực hiện chiến lược chủ động 'suy nghĩ ngược lại' bằng cách tìm kiếm các lập luận chống lại điểm neo.",
+        "Yêu cầu bên đối lập tự giải trình chi tiết về cơ sở toán học của con số họ đưa ra."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chiến lược có chủ đích 'suy nghĩ ngược lại' (tập trung vào mối quan tâm và lục tìm lập luận chống lại điểm neo) giúp kích hoạt Hệ thống 2, qua đó phủ định sự khỏa lấp bị sai lệch của các ý nghĩ do hiệu ứng neo đậu sinh ra."
+    },
+    {
+      "id": "q10",
+      "question": "Mưu mẹo marketing trong siêu thị thông báo 'GIỚI HẠN MỖI NGƯỜI ĐƯỢC MUA 12 HỘP' súp Campbell đã làm tăng gấp đôi doanh số bán hàng so với biển 'KHÔNG GIỚI HẠN'. Hiện tượng này phản ánh điều gì về tâm lý người tiêu dùng?",
+      "options": [
+        "Người tiêu dùng phản ứng hoàn toàn bằng lý trí sau khi cân nhắc kỹ lưỡng nhu cầu thực tế.",
+        "Con số 12 hoạt động như một điểm neo gợi ý khối lượng mua triển vọng, kích thích hành vi mua sắm nhiều hơn.",
+        "Sự hạn chế số lượng tạo ra cảm giác khan hiếm giả tạo làm giảm sút chất lượng cảm nhận của sản phẩm.",
+        "Hệ thống 2 đã can thiệp thành công để tối ưu hóa ngân sách chi tiêu gia đình của người mua."
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc đề cập tới 12 hộp giống như một lượng mua triển vọng sản sinh ra hiệu ứng neo đậu, thúc đẩy khách hàng mua nhiều hơn dù con số đó có tính chất tùy tiện."
+    },
+    {
+      "id": "q11",
+      "question": "Khi xem xét tác động của việc giới hạn các khoản phạt thiệt hại cá nhân ở mức 1 triệu đô-la trong các vụ kiện pháp lý, kết quả vô hình nào thường xảy ra đối với các bị đơn lớn và tập đoàn?",
+      "options": [
+        "Quy định này hoàn toàn triệt tiêu mọi khoản phạt lớn và làm mất đi mọi ảnh hưởng tâm lý của con số khi đối mặt với các tình huống bất định.",
+        "Điểm neo 1 triệu đô-la có thể vô tình kéo giảm các khoản phạt lẽ ra lớn hơn, mang lại lợi ích lớn cho các hãng lớn.",
+        "Các tập đoàn lớn sẽ phải chịu mức phạt cao hơn do hiệu ứng mồi ngược chiều từ phía tòa án theo cơ chế hoạt động của trí não.",
+        "Quy định này chỉ bảo vệ các tổ chức nhỏ và hoàn toàn bất lợi cho các bệnh viện hay công ty hóa chất trong quá trình phán đoán và tư duy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Giới hạn 1 triệu đô-la loại bỏ các khoản phạt cực lớn nhưng đồng thời điểm neo này cũng gọi ra và làm gia tăng các khoản phạt nhỏ hơn, qua đó mang lại lợi ích gián tiếp cho các bị đơn hệ trọng và hãng lớn."
+    },
+    {
+      "id": "q12",
+      "question": "Sự khác biệt căn bản giữa hai cơ chế neo đậu (Hệ thống 1 và Hệ thống 2) nằm ở điểm nào trong trải nghiệm chủ quan của con người?",
+      "options": [
+        "Neo đậu do Hệ thống 1 chỉ xuất hiện khi có sự can thiệp của chuyên gia, trong khi Hệ thống 2 hoàn toàn miễn nhiễm nhằm nâng cao chất lượng ra quyết định.",
+        "Neo đậu do Hệ thống 2 luôn đi kèm cảm giác nỗ lực nhận thức, trong khi neo đậu do Hệ thống 1 diễn ra tự động mà không có trải nghiệm chủ quan rõ ràng.",
+        "Cả hai cơ chế đều đòi hỏi sự tập trung cao độ và tiêu tốn năng lượng tinh thần như nhau nhằm nâng cao chất lượng ra quyết định.",
+        "Không có sự khác biệt nào vì cả hai đều do tiềm thức chi phối hoàn toàn khi đối mặt với các tình huống bất định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Neo đậu do Hệ thống 2 là hành động điều chỉnh có chủ đích (như khi ước lượng năm sinh), trong khi neo đậu do Hệ thống 1 (hiệu ứng mồi) diễn ra tự động và không có sự trải nghiệm chủ quan tương ứng về sự điều chỉnh."
+    },
+    {
+      "id": "q13",
+      "question": "Phát biểu nào sau đây phản ánh chính xác nhất nhận định của Daniel Kahneman về mức độ nhận thức của con người đối với ảnh hưởng của hiệu ứng neo đậu lên quyết định của họ?",
+      "options": [
+        "Con người luôn nhận thức rõ ràng thời điểm điểm neo đậu bắt đầu thao túng tư duy của mình nhằm nâng cao chất lượng ra quyết định.",
+        "Con người thường nhận thức được điểm neo nhưng hoàn toàn không biết rằng nó đang dẫn dắt và chế ngự suy nghĩ của họ.",
+        "Chỉ những người được đào tạo chuyên sâu về tâm lý học mới có khả năng nhận biết hiệu ứng neo đậu khi đối mặt với các tình huống bất định.",
+        "Hiệu ứng neo đậu chỉ tác động lên những cá nhân có nhận thức kém và thiếu tư duy phản biện dựa trên các nguyên lý tâm lý học nhận thức."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bạn luôn nhận thức được sự neo đậu và chú tâm tới nó, nhưng bạn hoàn toàn không biết rằng nó đang dẫn dắt và chế ngự suy nghĩ của bạn, vì bạn không thể hình dung mình sẽ suy nghĩ thế nào nếu thiếu vắng điểm neo đó."
+    },
+    {
+      "id": "q14",
+      "question": "Trong các quyết định quyên góp từ thiện (như cứu chim biển khỏi tràn dầu), việc đưa ra một con số neo đậu ban đầu (ví dụ 5 đô-la hoặc trên 400 đô-la) dẫn đến kết quả thực tế như thế nào?",
+      "options": [
+        "Hệ thống 2 tự động vô hiệu hóa con số neo đậu để quyên góp theo đúng cảm xúc ban đầu.",
+        "Mức quyên góp hoàn toàn không thay đổi vì người tham gia có lòng trắc ẩn độc lập với con số.",
+        "Con số neo đậu thấp làm tăng mức quyên góp lên cao nhất do tạo cảm giác dễ tiếp cận.",
+        "Mức quyên góp trung bình thay đổi đáng kể theo chiều hướng dịch chuyển về phía con số neo đậu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi không có neo đậu, mức chi là 64 đô-la; khi neo ở 5 đô-la, mức chi giảm còn 20 đô-la; khi neo trên 400 đô-la, mức chi tăng lên 143 đô-la, chứng minh hiệu ứng neo đậu có tác động mạnh mẽ trên 30% đối với hành vi quyên góp."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học quản trị chiến lược nào là quan trọng nhất khi áp dụng các kế hoạch kinh doanh hoặc dự báo tài chính vào thực tế doanh nghiệp?",
+      "options": [
+        "Tránh để các con số ban đầu trong kế hoạch (kịch bản tốt nhất) tạo ra hiệu ứng neo đậu khi dự báo kết quả thực tế.",
+        "Coi các kế hoạch chi tiết là chân lý tuyệt đối và không bao giờ được phép điều chỉnh theo cơ chế hoạt động của trí não.",
+        "Luôn giao phó việc lập kế hoạch cho Hệ thống 1 để tận dụng trực giác nhanh nhạy dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Loại bỏ toàn bộ các con số tài chính trong kế hoạch để tránh mọi rủi ro về nhận thức dựa trên các nguyên lý tâm lý học nhận thức."
+      ],
+      "correctIndex": 0,
+      "explanation": "Các kế hoạch thường là kịch bản tình huống tốt nhất. Cần tránh hoạt động neo đậu lên các kế hoạch khi dự đoán kết quả thực tại, đồng thời chủ động suy nghĩ về những cách mà kế hoạch có thể đi sai lệch."
+    }
+  ]
+}

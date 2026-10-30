@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Hoi_ket",
+  "chapterTitle": "Hồi Kết",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi bàn về sự khác biệt giữa hai bản thể trong đời sống, Daniel Kahneman chỉ ra rằng bản thể hồi tưởng thường mắc lỗi gì trong việc đánh giá các trải nghiệm đau đớn hoặc hạnh phúc kéo dài?",
+      "options": [
+        "Nó đánh giá mọi khoảnh khắc với trọng số hoàn toàn bằng nhau trong suốt thời gian diễn ra.",
+        "Nó bỏ qua khoảng thời gian diễn ra và bị chi phối mạnh mẽ bởi quy tắc đỉnh-đáy và cái kết.",
+        "Nó luôn ưu tiên tối đa hóa thời gian trải nghiệm tích cực thay vì chất lượng của các khoảnh khắc.",
+        "Nó tính toán chính xác tổng lượng đau đớn thực tế dựa trên máy đo niềm hoan lạc của cá nhân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo Kahneman, bản thể hồi tưởng bỏ qua khoảng thời gian diễn ra (duration neglect) và đánh giá sự việc dựa trên quy tắc đỉnh-đáy, dẫn đến việc đưa ra những lựa chọn phi lý cho bản thể đang trải nghiệm."
+    },
+    {
+      "id": "q2",
+      "question": "Trong bối cảnh ra quyết định cá nhân và chính sách công, tại sao Kahneman cho rằng các lựa chọn được chi phối bởi bản thể hồi tưởng thường tạo ra sai lầm cho bản thể đang trải nghiệm?",
+      "options": [
+        "Vì bản thể hồi tưởng chỉ tập trung vào lợi ích ngắn hạn và phớt lờ hoàn toàn các hệ quả tương lai.",
+        "Vì bản thể hồi tưởng chịu áp lực từ các chuẩn mực xã hội thay vì nhu cầu sinh học tự nhiên.",
+        "Vì bản thể hồi tưởng quá lý tính và không chịu lắng nghe các tín hiệu cảm xúc từ Hệ thống 1.",
+        "Vì bản thể hồi tưởng bị ám ảnh bởi các đỉnh cao trào và kết cục, quên mất thời lượng thực tế của nỗi đau."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bản thể hồi tưởng tạo ra sai lầm vì nó bỏ qua thời gian và đánh giá quá mức các đỉnh cao trào cũng như cái kết, khiến con người sẵn sàng chịu đựng thêm tổn thương miễn là ký ức để lại có vẻ tốt đẹp hơn."
+    },
+    {
+      "id": "q3",
+      "question": "Theo quan điểm của kinh tế học hành vi được trình bày trong chương, định nghĩa về 'tính hợp lý' (rationality) khác biệt như thế nào so với ngôn ngữ phổ thông và kinh tế học truyền thống?",
+      "options": [
+        "Kinh tế học định nghĩa tính hợp lý là sự cố kết logic nội tại giữa niềm tin và sở thích, không đòi hỏi sự khôn ngoan.",
+        "Ngôn ngữ phổ thông coi một người hợp lý là người thực hiện các phép tính kinh tế tối ưu hóa hoàn hảo mọi nguồn lực.",
+        "Kinh tế học truyền thống đồng nhất tính hợp lý với sự bốc đồng, đa cảm và kháng cự lại các lập luận logic.",
+        "Cả kinh tế học truyền thống và ngôn ngữ phổ thông đều định nghĩa tính hợp lý dựa trên sự hoàn hảo về đạo đức."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đối với các nhà kinh tế học, tính hợp lý không có nghĩa là khôn ngoan hay đúng đắn với thực tế, mà chỉ là sự cố kết logic nội tại trong hệ thống niềm tin và sở thích của cá nhân đó."
+    },
+    {
+      "id": "q4",
+      "question": "Khi so sánh quan điểm giữa trường phái Kinh tế học Chicago và Kinh tế học hành vi về quyền tự do lựa chọn của cá nhân, điểm khác biệt cốt lõi là gì?",
+      "options": [
+        "Trường phái Chicago phủ nhận hoàn toàn khái niệm tự do, trong khi kinh tế học hành vi đề cao sự kiểm soát nhà nước trong quá trình phán đoán và tư duy.",
+        "Kinh tế học hành vi cho rằng con người luôn sáng suốt, còn trường phái Chicago tin rằng con người dễ mắc sai lầm nhằm nâng cao chất lượng ra quyết định.",
+        "Cả hai trường phái đều đồng thuận rằng chính phủ phải ép buộc người dân tuân thủ các chế độ ăn uống khoa học khi đối mặt với các tình huống bất định.",
+        "Trường phái Chicago tin vào tác nhân có lý trí không bao giờ phạm sai lầm, còn kinh tế học hành vi thấy rằng cá nhân cần sự hỗ trợ để tránh sai lầm."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trường phái Chicago dựa trên nền tảng tác nhân có lý trí không mắc sai lầm nên phản đối mọi sự can thiệp; ngược lại, kinh tế học hành vi nhận thấy con người hay mắc lỗi và cần được hỗ trợ."
+    },
+    {
+      "id": "q5",
+      "question": "Giải pháp 'cú hích' (nudge) do Richard Thaler và Cass Sunstein đề xuất nhằm giải quyết tình thế tiến thoái lưỡng nan trong chính sách công dựa trên nguyên lý nào?",
+      "options": [
+        "Sử dụng các hình phạt tài chính nặng nề để ép buộc người dân từ bỏ các thói quen tiêu cực nhằm nâng cao chất lượng ra quyết định.",
+        "Bắt buộc các doanh nghiệp ký kết hợp đồng minh bạch bằng cách loại bỏ hoàn toàn các điều khoản phức tạp khi đối mặt với các tình huống bất định.",
+        "Thay đổi cấu trúc lựa chọn (choice architecture) và phương án ngầm định (default) để hướng dẫn hành vi mà không tước đi tự do.",
+        "Tăng cường sự can thiệp trực tiếp của Chính phủ vào mọi quyết định tài chính cá nhân hằng ngày theo cơ chế hoạt động của trí não."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cú hích tận dụng đặc tính của Hệ thống 1 (như sự ưa chuộng phương án ngầm định và tính lười biếng của Hệ thống 2) thông qua việc tái cấu trúc lựa chọn để giúp con người đưa ra quyết định tốt hơn mà vẫn giữ nguyên quyền tự do."
+    },
+    {
+      "id": "q6",
+      "question": "Chương trình 'Tiết kiệm nhiều hơn cho ngày mai' (Save More Tomorrow) đã thành công rực rỡ nhờ việc tận dụng yếu tố tâm lý nào của con người?",
+      "options": [
+        "Kích thích sự sợ hãi mất mát tức thì thông qua việc cắt giảm ngay lập tức thu nhập hiện tại theo cơ chế hoạt động của trí não.",
+        "Buộc người lao động phải tự nguyện ký kết các cam kết tài chính phức tạp dưới sự giám sát của nhà nước theo cơ chế hoạt động của trí não.",
+        "Sử dụng các biện pháp kỷ luật nghiêm ngặt và hình phạt hành chính đối với những ai không tham gia dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Tận dụng sự biếng nhác của Hệ thống 2 và tránh phản kháng trước tổn thất bằng cách gắn kết tăng tiết kiệm với tăng lương tương lai."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kế hoạch này thành công vì nó không đòi hỏi sự thay đổi ngay lập tức (tránh ác cảm mất mát), tự động hóa quá trình tăng tiết kiệm khi tăng lương và tận dụng sự biếng nhác của Hệ thống 2 để hướng tới lợi ích dài hạn."
+    },
+    {
+      "id": "q7",
+      "question": "Daniel Kahneman mô tả mối quan hệ giữa Hệ thống 1 và Hệ thống 2 trong việc đưa ra các phán quyết hằng ngày như thế nào?",
+      "options": [
+        "Hệ thống 1 tự động sinh ra các ấn tượng và cảm xúc, còn Hệ thống 2 thường tán thành hoặc tìm cách biện giải hợp lý cho chúng.",
+        "Hệ thống 2 luôn kiểm soát hoàn toàn mọi quyết định, trong khi Hệ thống 1 chỉ đóng vai trò dự trữ năng lượng trong quá trình phán đoán và tư duy.",
+        "Hai hệ thống hoạt động độc lập và không bao giờ xảy ra xung đột hay ảnh hưởng lẫn nhau trong não bộ nhằm nâng cao chất lượng ra quyết định.",
+        "Hệ thống 1 đóng vai trò phân tích logic chậm chạp, còn Hệ thống 2 chịu trách nhiệm phản ứng nhanh với các tình huống nguy hiểm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 hoạt động tự động tạo ra cảm xúc và trực giác, sau đó Hệ thống 2 thường đóng vai trò phê chuẩn, đồng tình hoặc tìm lý lẽ để biện giải (rationalize) cho những phán quyết đó."
+    },
+    {
+      "id": "q8",
+      "question": "Theo tác giả, tại sao Hệ thống 2 không thể luôn luôn đóng vai trò là 'cứu cánh' hoàn hảo để ngăn chặn các sai lầm do Hệ thống 1 gây ra?",
+      "options": [
+        "Vì Hệ thống 2 có năng lực và tri thức bị giới hạn, lại thêm bản tính lười biếng nên không muốn đầu tư quá nhiều nỗ lực.",
+        "Vì Hệ thống 2 chỉ hoạt động khi con người đang ngủ và hoàn toàn tắt ngấm trong trạng thái thức tỉnh dưới góc độ kinh tế học hành vi.",
+        "Vì Hệ thống 2 luôn bị chi phối bởi các cảm xúc bốc đồng và không bao giờ chịu suy nghĩ logic trong mọi hoàn cảnh.",
+        "Vì Hệ thống 2 dễ dàng bị đánh lừa bởi các ảo ảnh thị giác đơn giản mà không có khả năng nhận diện dưới góc độ kinh tế học hành vi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 2 không phải là mẫu mực của tính hợp lý; năng lực và tri thức của nó bị giới hạn, hơn nữa nó vốn lười biếng nên thường không muốn kiểm tra lại các câu trả lời phỏng đoán của Hệ thống 1."
+    },
+    {
+      "id": "q9",
+      "question": "Khi đánh giá về nguồn gốc của các sai lầm trong tư duy, Kahneman đưa ra nhận định nào về vai trò thực sự của Hệ thống 1?",
+      "options": [
+        "Hệ thống 1 chỉ mang lại những sai lầm và ảo tưởng nhận thức, không có bất kỳ đóng góp tích cực nào cho đời sống dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Hệ thống 1 hoàn toàn vô hại nếu con người biết cách rèn luyện nó trở nên chậm rãi và lý trí hơn theo thời gian dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Hệ thống 1 là cội nguồn của hầu hết các sai lầm nhưng đồng thời cũng là khởi nguyên của các kỹ năng, mô hình nhận biết nhanh và việc làm đúng.",
+        "Hệ thống 1 chỉ chịu trách nhiệm cho các vấn đề toán học phức tạp đòi hỏi sự tập trung cao độ nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dù Hệ thống 1 là nguồn gốc của nhiều sai lầm và thiên kiến, nó cũng là nền tảng của các kỹ năng được rèn luyện, khả năng nhận biết thế giới chớp nhoáng và phần lớn những gì chúng ta làm đúng."
+    },
+    {
+      "id": "q10",
+      "question": "Điều kiện cần thiết để Hệ thống 1 phát triển các phán đoán trực giác chính xác và đáng tin cậy là gì?",
+      "options": [
+        "Khả năng đọc hiểu các bản hợp đồng pháp lý phức tạp mà không cần sự hỗ trợ từ bên ngoài.",
+        "Sự can thiệp liên tục của Hệ thống 2 để phân tích từng bước mọi dữ liệu xuất hiện trong đầu.",
+        "Một môi trường diễn ra thường xuyên, cơ hội luyện tập đầy đủ và nhận được phản hồi nhanh chóng, rõ ràng.",
+        "Trạng thái căng thẳng cao độ và áp lực thời gian lớn khi đối mặt với các quyết định bất ngờ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trực giác chuyên gia chỉ xuất hiện và đáng tin cậy khi có đủ ba điều kiện: môi trường đều đặn, cơ hội luyện tập thường xuyên và có phản hồi nhanh chóng, rõ ràng về tính chính xác."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao Kahneman cho rằng bản thân ông dù là chuyên gia nghiên cứu về thiên kiến nhận thức cũng rất khó tự rèn luyện để loại bỏ chúng ở bản thân?",
+      "options": [
+        "Vì ông chưa bao giờ áp dụng các quy trình kiểm tra chất lượng hay bản liệt kê mục cần kiểm tra vào công việc trong quá trình phán đoán và tư duy.",
+        "Vì Hệ thống 1 hoạt động tự động, không dễ rèn luyện, và con người thường chỉ dễ nhận ra lỗi sai của người khác hơn của chính mình.",
+        "Vì ông luôn để Hệ thống 2 nghỉ ngơi và hoàn toàn phó mặc mọi quyết định cho cảm xúc cá nhân dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Vì các thiên kiến nhận thức chỉ tồn tại ở những người thiếu hiểu biết về kinh tế học hành vi nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kahneman thừa nhận trực giác của chính ông vẫn dễ quá tự tin và cực đoan vì Hệ thống 1 không dễ rèn luyện; việc nhận ra bãi mìn nhận thức ở người khác bao giờ cũng dễ hơn ở bản thân."
+    },
+    {
+      "id": "q12",
+      "question": "Theo tác giả, các tổ chức và doanh nghiệp có lợi thế gì hơn so với cá nhân đơn lẻ trong việc né tránh các lỗi sai và thiên kiến nhận thức?",
+      "options": [
+        "Các tổ chức có tư duy tự nhiên hoàn toàn lý tính, không bao giờ mắc phải các hiệu ứng WYSIATI hay cấu trúc hẹp khi đối mặt với các tình huống bất định.",
+        "Các tổ chức loại bỏ hoàn toàn sự tham gia của con người để giao mọi quyết định cho hệ thống tự động hóa khi đối mặt với các tình huống bất định.",
+        "Các tổ chức có khả năng suy nghĩ chậm hơn, áp đặt quy trình trật tự, sử dụng bảng kiểm tra (checklist) và tạo văn hóa nhắc nhở lẫn nhau.",
+        "Các tổ chức không bao giờ vấp phải áp lực thời gian hay căng thẳng trong quá trình hoạt động nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tổ chức có lợi thế hơn cá nhân vì bản chất chúng hoạt động chậm hơn, có thể áp dụng các quy trình kiểm tra chất lượng, bảng kiểm tra (checklist) và khuyến khích văn hóa giám sát chéo lẫn nhau."
+    },
+    {
+      "id": "q13",
+      "question": "Trong việc cải thiện chất lượng ra quyết định của các tổ chức, chiến lược 'kiểm soát chất lượng liên tục' (continuous quality control) được ví như điều gì?",
+      "options": [
+        "Một biện pháp trừng phạt nặng nề áp dụng sau khi các thảm họa và sai lầm lớn đã xảy ra khi đối mặt với các tình huống bất định.",
+        "Một phương thức cải tiến hiệu quả tại từng bước của quá trình sản xuất quyết định: cấu trúc bài toán, thu thập thông tin và suy tính lại.",
+        "Việc giao toàn bộ quyền lực ra quyết định cho một nhà lãnh đạo duy nhất có tư duy sắc bén nhất trong quá trình phán đoán và tư duy.",
+        "Việc loại bỏ hoàn toàn các cuộc họp hành chính để tiết kiệm thời gian cho nhân viên khi đối mặt với các tình huống bất định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kiểm soát chất lượng liên tục trong ra quyết định đòi hỏi phải tối ưu hóa từng bước từ cấu trúc bài toán, thu thập thông tin đến phản biện thay vì chỉ đánh giá lại sau khi tai họa đã xảy ra."
+    },
+    {
+      "id": "q14",
+      "question": "Vai trò của một ngôn ngữ phong phú và chính xác (như các nhãn dán chuyên môn như 'hiệu ứng nguồn tin cậy' hay 'cấu trúc hẹp') đối với việc ra quyết định là gì?",
+      "options": [
+        "Nó tạo ra sự liên kết trực tiếp từ việc buôn chuyện, chẩn đoán lỗi chính xác đến việc đưa ra những quyết định tốt hơn.",
+        "Nó làm cho các cuộc họp trở nên phức tạp và khó hiểu hơn đối với những người không có chuyên môn theo cơ chế hoạt động của trí não.",
+        "Nó giúp che giấu các điểm yếu và sai lầm của tổ chức trước sự giám sát của công chúng dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Nó thay thế hoàn toàn nhu cầu phải sử dụng các bảng kiểm tra (checklist) trong doanh nghiệp dưới góc độ kinh tế học hành vi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhãn dán chuyên môn giúp chẩn đoán lỗi chính xác như y khoa, xâu chuỗi nguyên nhân và hệ quả trong ký ức, từ đó giúp người ra quyết định cải thiện chất lượng lựa chọn thông qua giao tiếp sắc bén."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học thực tiễn quan trọng nhất mà Daniel Kahneman đúc kết cho người đọc ở phần cuối cuốn sách khi đối mặt với các quyết định lớn là gì?",
+      "options": [
+        "Nhận diện các bãi mìn nhận thức, làm chậm lại, áp dụng quy trình kiểm soát và tìm kiếm sự phản biện khách quan từ người khác.",
+        "Tin tưởng hoàn toàn vào tiếng nói trực giác mạnh mẽ xuất hiện đầu tiên trong đầu vì đó là kết quả của kinh nghiệm.",
+        "Tránh xa mọi quyết định mạo hiểm và để chính phủ quyết định thay cho mọi cá nhân trong xã hội nhằm nâng cao chất lượng ra quyết định.",
+        "Loại bỏ hoàn toàn Hệ thống 1 ra khỏi não bộ để chỉ duy trì tư duy logic thuần túy của Hệ thống 2 dựa trên các nguyên lý tâm lý học nhận thức."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kahneman khuyên chúng ta cần nhận diện bãi mìn nhận thức, làm chậm lại, huy động sự kiểm soát của Hệ thống 2 và lắng nghe những lời phê bình, phán đoán từ người khác để đưa ra quyết định sáng suốt."
+    }
+  ]
+}

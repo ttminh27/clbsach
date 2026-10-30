@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_08_Du_doan_dien_ra_the_nao",
+  "chapterTitle": "Chương 8. Dự đoán diễn ra thế nào?",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Daniel Kahneman trong Chương 8, khi một cá nhân đối mặt với một câu hỏi phức tạp đòi hỏi sự suy luận sâu, cơ chế nào của bộ não thường tự động thực hiện việc tìm kiếm ký ức và đưa ra các đánh giá ban đầu?",
+      "options": [
+        "Hệ thống 2 kích hoạt ngay lập tức để kiểm soát toàn bộ dòng suy nghĩ và phân tích.",
+        "Hệ thống 1 hoạt động tự động để sinh ra vô số các đánh giá cơ bản và nhanh chóng.",
+        "Cả hai hệ thống đều tạm dừng hoạt động cho đến khi có đủ dữ liệu từ môi trường.",
+        "Hệ thống 2 phân rã câu hỏi thành từng phần tử logic trước khi gọi Hệ thống 1 ra."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 1 liên tục thực hiện các đánh giá cơ bản mà không cần sự chú ý hay nỗ lực đặc biệt, sau đó cung cấp các câu trả lời thay thế hoặc hỗ trợ cho Hệ thống 2 khi cần giải quyết các câu hỏi khó."
+    },
+    {
+      "id": "q2",
+      "question": "Hiện tượng 'súng săn trí não' (mental shotgun) được Kahneman mô tả như thế nào trong quá trình vận hành tư duy của con người?",
+      "options": [
+        "Khả năng tập trung cao độ vào một mục tiêu duy nhất mà không bị phân tâm bởi yếu tố ngoại cảnh.",
+        "Phương pháp phỏng vấn chuyên gia bằng cách đặt ra hàng loạt câu hỏi dồn dập không có điểm dừng.",
+        "Xu hướng tự động tính toán và kích hoạt nhiều phép tính vượt mức cần thiết khi chỉ được yêu cầu một việc.",
+        "Chiến lược đưa ra quyết định tài chính dựa trên cảm tính bộc phát trong các tình huống nguy cấp."
+      ],
+      "correctIndex": 2,
+      "explanation": "Súng săn trí não chỉ hiện tượng Hệ thống 1 thực hiện quá nhiều phép tính vượt mức mong muốn hoặc yêu cầu, bởi vì nó không thể bắn trúng một đích đơn lẻ mà luôn phát tán ra các phản ứng liên quan."
+    },
+    {
+      "id": "q3",
+      "question": "Trong nghiên cứu của Alex Todorov về khuôn mặt chính khách và kết quả bầu cử, yếu tố nào trên khuôn mặt thường được cử tri đánh giá nhanh trong 1/10 giây và ảnh hưởng mạnh mẽ nhất đến quyết định bỏ phiếu?",
+      "options": [
+        "Sự kết hợp giữa chiếc cằm mạnh mẽ (thể hiện sự áp chế/đe dọa) và một nụ cười tự tin (thể hiện đáng tin).",
+        "Sự kết hợp giữa nét mặt tươi cười rạng rỡ và đôi mắt thể hiện sự đồng cảm sâu sắc với công chúng.",
+        "Đặc điểm khuôn mặt có nhiều nét tương đồng với chính bản thân cử tri hoặc người thân trong gia đình họ.",
+        "Sự cân đối hoàn hảo giữa các tỉ lệ vàng trên khuôn mặt theo tiêu chuẩn thẩm mỹ khách quan hiện đại."
+      ],
+      "correctIndex": 0,
+      "explanation": "Todorov chứng minh con người đánh giá năng lực cạnh tranh dựa trên cằm mạnh mẽ (áp chế) kết hợp với nụ cười tự tin (đáng tin), và Hệ thống 1 của cử tri tự động dùng ấn tượng này để chọn ứng viên."
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao các cử tri ít thông tin và xem truyền hình nhiều lại có xu hướng bị ảnh hưởng bởi yếu tố khuôn mặt cạnh tranh của ứng cử viên cao gấp ba lần so với cử tri am hiểu thông tin?",
+      "options": [
+        "Vì họ sở hữu khả năng thấu cảm bẩm sinh vượt trội và dễ bị thao túng bởi kỹ xảo truyền hình màu sắc.",
+        "Vì họ có thời gian tiếp xúc với các hình ảnh vận động tranh cử liên tục nhiều hơn các nhóm đối tượng khác.",
+        "Vì họ hoàn toàn phụ thuộc vào các phán đoán trực giác nhanh chóng và tự động của Hệ thống 1 khi thiếu dữ liệu.",
+        "Vì Hệ thống 2 của nhóm này hoạt động với công suất tối đa nhưng bị nhiễu loạn bởi thông tin sai lệch."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cử tri ít thông tin thiếu các dữ liệu lý tính từ Hệ thống 2, do đó họ phải dựa dẫm hoàn toàn vào các đánh giá trực giác nhanh gọn và tự động của Hệ thống 1, nơi khuôn mặt cạnh tranh đóng vai trò quyết định."
+    },
+    {
+      "id": "q5",
+      "question": "Khi đối mặt với câu hỏi về 'tổng chiều dài' của một tập hợp các đoạn thẳng so với câu hỏi về 'chiều dài trung bình', Hệ thống 1 thể hiện đặc điểm gì theo phân tích của Kahneman?",
+      "options": [
+        "Hệ thống 1 xử lý xuất sắc cả tổng chiều dài lẫn chiều dài trung bình nhờ cơ chế lưu trữ vô tận.",
+        "Hệ thống 1 tính nhầm tổng chiều dài thành chiều dài trung bình do hiện tượng mỏ neo nhận thức.",
+        "Hệ thống 1 từ chối đưa ra bất kỳ ước lượng nào và buộc Hệ thống 2 phải tự tính toán từ đầu đến cuối.",
+        "Hệ thống 1 chỉ xử lý tốt chiều dài trung bình bằng các nguyên mẫu, nhưng hoàn toàn yếu kém trong việc tính tổng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Do Hệ thống 1 sử dụng các nguyên mẫu (prototype) làm đại diện cho một phạm trù, nó rất giỏi trong việc biểu diễn giá trị trung bình nhưng lại bỏ qua kích cỡ phạm trù, dẫn đến việc kém trong các bài toán tính tổng."
+    },
+    {
+      "id": "q6",
+      "question": "Hiện tượng 'tổng biến thiên' (sum-like variable) được minh họa rõ nét qua thí nghiệm về việc sẵn sàng quyên góp tiền để cứu các loài chim trong thảm họa tràn dầu Exxon Valdez cho thấy điều gì về tâm lý con người?",
+      "options": [
+        "Mức độ đóng góp tăng trưởng theo tỷ lệ thuận chính xác với số lượng sinh vật được cứu sống thực tế.",
+        "Sự quan tâm của công chúng chỉ tập trung vào các vấn đề kinh tế vĩ mô thay vì cứu hộ động vật nhỏ.",
+        "Con người luôn tính toán rất lý tính và cân nhắc từng đồng chi phí trước khi quyết định làm từ thiện.",
+        "Số lượng đối tượng cần cứu (2.000 hay 200.000 con chim) gần như bị bỏ qua khi cảm xúc đã bị kích hoạt."
+      ],
+      "correctIndex": 3,
+      "explanation": "Thí nghiệm cho thấy số tiền quyên góp chênh lệch không đáng kể dù số chim được cứu khác nhau rất lớn, chứng minh rằng Hệ thống 1 phản ứng dựa trên hình ảnh cảm xúc mẫu mực và bỏ qua quy mô số lượng."
+    },
+    {
+      "id": "q7",
+      "question": "Khái niệm 'cường độ phù hợp' (intensity matching) trong tư duy con người được thể hiện qua hiện tượng nào sau đây?",
+      "options": [
+        "Xu hướng tìm kiếm một công việc có mức lương hoàn toàn tương xứng với số năm học tập đại học.",
+        "Khả năng điều chỉnh âm lượng tiếng ồn sao cho tương ứng với mức độ tàn ác của một tội ác cụ thể.",
+        "Phương pháp so sánh tỷ lệ lạm phát kinh tế giữa các quốc gia có cùng quy mô dân số và GDP.",
+        "Cách thức các nhà quản lý phân bổ nguồn lực tài chính dựa trên hiệu suất làm việc thực tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cường độ phù hợp cho phép chuyển đổi các chiều kích khác nhau sang cùng một thang đo cường độ, ví dụ như điều chỉnh âm thanh tương ứng với mức độ tàn ác của tội phạm hoặc gán tài năng đọc sớm của Julie với chiều cao."
+    },
+    {
+      "id": "q8",
+      "question": "Khi được hỏi 'Một người đàn ông sẽ cao bao nhiêu nếu chiều cao của ông ta cao tương đương với khả năng thiên bẩm biết đọc trôi chảy lúc 4 tuổi của Julie?', bộ não con người thường thực hiện điều gì?",
+      "options": [
+        "Sử dụng công thức thống kê toán học chính xác để tính toán chiều cao trung bình của trẻ em biết đọc.",
+        "Từ chối trả lời vì câu hỏi thiếu logic và không có mối liên hệ nhân quả giữa chiều cao và trí thông minh.",
+        "Cho rằng người đàn ông đó phải cao đúng bằng số tuổi nhân với chiều cao trung bình của người trưởng thành.",
+        "Dịch chuyển từ hệ quy chiếu trí tuệ sang hệ quy chiếu chiều cao để tìm ra một mức ấn tượng tương đương."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hệ thống 1 thực hiện việc ghép cặp cường độ bằng cách chuyển dịch từ hệ quy chiếu này sang hệ quy chiếu khác, tìm ra một giá trị ấn tượng (như 2,13m) tương ứng với mức độ xuất sắc của Julie."
+    },
+    {
+      "id": "q9",
+      "question": "Trong thí nghiệm về cặp từ có vần điệu (Vote - note và Vote - goat), hiện tượng người tham gia mất nhiều thời gian hơn để nhận diện cho thấy điều gì về hoạt động của tư duy?",
+      "options": [
+        "Sự xung đột giữa cấu trúc vần và cách phát âm thực tế đã làm chậm trễ quá trình phản hồi tự động.",
+        "Hệ thống 2 kiểm soát hoàn toàn việc phát âm và ngăn chặn mọi sự can thiệp từ các giác quan bên ngoài.",
+        "Bộ nhớ dài hạn của con người bị quá tải do phải tra cứu từ điển bách khoa toàn thư trong tích tắc.",
+        "Những người tham gia cố tình kéo dài thời gian để tìm kiếm sự trợ giúp từ người hướng dẫn thí nghiệm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dù chỉ được yêu cầu so sánh âm vần, bộ não vẫn tự động so sánh cách phát âm (súng săn trí não), dẫn đến sự mâu thuẫn làm suy giảm phong độ và kéo dài thời gian phản ứng."
+    },
+    {
+      "id": "q10",
+      "question": "Đâu là đặc điểm cốt lõi phân biệt giữa các 'đánh giá cơ bản' của Hệ thống 1 và các 'tính toán chủ động' của Hệ thống 2?",
+      "options": [
+        "Đánh giá cơ bản chỉ xảy ra khi có lệnh điều phối từ Hệ thống 2 trong các kỳ thi học thuật.",
+        "Đánh giá cơ bản diễn ra liên tục, tự động mà không cần ý định, trong khi tính toán chủ động là tự nguyện.",
+        "Tính toán chủ động diễn ra liên tục, vô thức và tiêu tốn rất ít năng lượng sinh học của cơ thể.",
+        "Cả hai loại tính toán này đều hoạt động hoàn toàn độc lập và không bao giờ tương tác với nhau."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 1 liên tục cung cấp các đánh giá cơ bản một cách tự động và vô thức, trong khi các tính toán chuyên sâu khác (như đếm số, tính tổng) chỉ được thực hiện một cách chủ động và tự nguyện khi có nhu cầu."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao trong đời sống hàng ngày, con người thường xuyên rơi vào tình trạng sử dụng 'súng săn trí não' thay vì tư duy một cách cẩn trọng, tập trung?",
+      "options": [
+        "Vì xã hội hiện đại đòi hỏi tốc độ phản ứng cực nhanh trong mọi tình huống giao tiếp và công việc.",
+        "Vì Hệ thống 2 vốn lười biếng và luôn tìm cách tiết kiệm năng lượng bằng cách để Hệ thống 1 phán đoán thay.",
+        "Vì các giác quan của con người được thiết kế để xử lý tối đa hàng triệu thông tin cùng một lúc mà không mệt mỏi.",
+        "Vì giáo dục truyền thống luôn khuyến khích học sinh đưa ra câu trả lời cảm tính thay vì logic."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự kết hợp giữa súng săn trí não và bản chất tiết kiệm năng lượng của Hệ thống 2 khiến con người thường xuyên chấp nhận các phán đoán nhanh, tự động do Hệ thống 1 cung cấp."
+    },
+    {
+      "id": "q12",
+      "question": "Khi một nhà quản lý tuyển dụng nhanh chóng quyết định chọn một ứng viên chỉ vì ấn tượng tốt ban đầu về ngoại hình và phong thái tự tin mà không kiểm tra kỹ năng lực thực tế, hiện tượng này phản ánh điều gì?",
+      "options": [
+        "Sự thống trị của các đánh giá cơ bản từ Hệ thống 1 và cơ chế thay thế câu hỏi phức tạp bằng câu hỏi đơn giản.",
+        "Sự áp dụng triệt để các tiêu chuẩn đánh giá năng lực khoa học hiện đại vào quản trị nhân sự.",
+        "Kết quả của quá trình phân tích dữ liệu lớn được thực hiện ngầm bởi Hệ thống 2 trong vô thức.",
+        "Sự thành công của phương pháp phỏng vấn cấu trúc dựa trên các chỉ số hiệu suất công việc."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhà quản lý đã vô thức thay thế câu hỏi phức tạp ('Liệu ứng viên này có làm tốt công việc không?') bằng câu hỏi đơn giản hơn ('Ứng viên này có gây ấn tượng tốt và đáng tin không?'), đây là cốt lõi của suy nghiệm trực giác."
+    },
+    {
+      "id": "q13",
+      "question": "Trong bối cảnh ra quyết định đầu tư tài chính, việc một nhà đầu tư quá yêu thích sản phẩm của một công ty dẫn đến việc đánh giá sai lệch (quá cao) về tiềm năng tài chính của công ty đó là minh họa cho điều gì?",
+      "options": [
+        "Tác động của hiện tượng súng săn trí não khiến các cảm xúc tích cực lan tỏa sang các đánh giá không liên quan.",
+        "Chiến lược phân tán danh mục đầu tư thông minh nhằm giảm thiểu tối đa rủi ro hệ thống trên thị trường.",
+        "Kết quả của việc phân tích báo cáo tài chính kiểm toán độc lập theo đúng các chuẩn mực quốc tế.",
+        "Khả năng dự báo xu hướng thị trường tương lai cực kỳ chính xác nhờ vào trực giác chuyên gia lâu năm."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đây là ví dụ điển hình về súng săn trí não: khi được hỏi về tài chính, bộ não không thể ngăn cảm giác thích thú với sản phẩm ảnh hưởng lan truyền vào câu trả lời, tạo ra phán đoán sai lệch."
+    },
+    {
+      "id": "q14",
+      "question": "Ý nghĩa sinh học tiến hóa của các 'đánh giá cơ bản' (như phân biệt bạn hay thù, đánh giá mức độ đe dọa trong tích tắc) đối với con người là gì?",
+      "options": [
+        "Giúp con người phát triển nghệ thuật hội họa và khả năng biểu cảm khuôn mặt một cách tinh tế.",
+        "Tạo ra nền tảng ngôn ngữ chung cho phép các bộ lạc nguyên thủy giao tiếp hiệu quả với nhau.",
+        "Mang lại những lợi thế sống còn tuyệt đối để tổ tiên chúng ta tồn tại trong một thế giới đầy hiểm nguy.",
+        "Giúp não bộ nghỉ ngơi hoàn toàn trong các chuyến đi săn dài ngày không có biến động lớn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cơ chế đánh giá nhanh trong tích tắc (như nhìn mặt bắt hình dong) được hình thành qua tiến trình tiến hóa nhằm mang lại lợi thế sinh tồn quan trọng, giúp con người nhận diện nhanh chóng mối đe dọa hoặc cơ hội."
+    },
+    {
+      "id": "q15",
+      "question": "Phát biểu nào sau đây tóm tắt chính xác nhất thông điệp cốt lõi của Chương 8 về cách con người đưa ra dự đoán và phán đoán?",
+      "options": [
+        "Con người luôn sử dụng tư duy logic chặt chẽ của Hệ thống 2 để đưa ra mọi quyết định kinh tế và xã hội trong quá trình phán đoán và tư duy.",
+        "Trực giác con người hoàn toàn vô dụng và không thể mang lại bất kỳ giá trị nào trong việc giải quyết các vấn đề hiện đại theo cơ chế hoạt động của trí não.",
+        "Các dự đoán trực giác thường dựa trên các đánh giá cơ bản tự động, cường độ phù hợp và sự lan tỏa của súng săn trí não thay vì tính toán thống kê nghiêm ngặt.",
+        "Hệ thống 1 và Hệ thống 2 hoạt động với tốc độ ngang nhau trong mọi tình huống dự đoán tương lai khi đối mặt với các tình huống bất định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chương 8 nhấn mạnh rằng dự đoán và phán đoán trực giác của con người được định hình bởi các đánh giá cơ bản của Hệ thống 1, sự chuyển đổi cường độ phù hợp và hiện tượng súng săn trí não, thường sai lệch so với thống kê."
+    }
+  ]
+}

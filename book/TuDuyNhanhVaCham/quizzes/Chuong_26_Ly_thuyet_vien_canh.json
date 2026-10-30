@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_26_Ly_thuyet_vien_canh",
+  "chapterTitle": "Chương 26. Lý thuyết viễn cảnh",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Vì sao Daniel Kahneman và Amos Tversky lại cho rằng học thuyết thỏa dụng của Bernoulli mắc sai lầm chí mạng khi đo lường độ thỏa dụng dựa trên tổng tài sản thay vì các khoản lợi nhuận và tổn thất?",
+      "options": [
+        "Vì con người đánh giá sự thay đổi tài sản từ điểm tham chiếu chứ không định giá tổng tài sản.",
+        "Vì Bernoulli đã bỏ qua hoàn toàn yếu tố lạm phát trong các thí nghiệm tài chính của mình.",
+        "Vì tổng tài sản luôn biến động liên tục theo từng giây trên thị trường chứng khoán hiện đại.",
+        "Vì các nhà toán học thế kỷ 18 chưa đủ công cụ để tính toán chính xác hàm số mũ phức tạp."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kahneman chỉ ra rằng con người nhận thức thế giới thông qua những thay đổi (lợi ích và tổn thất) từ một điểm tham chiếu, thay vì đánh giá trạng thái tổng tài sản hiện tại. Đây là phát kiến cốt lõi định hình lý thuyết viễn cảnh."
+    },
+    {
+      "id": "q2",
+      "question": "Trong Bài toán 1 và Bài toán 2 về lựa chọn tài chính, hiện tượng con người chuyển từ trạng thái 'né tránh rủi ro' sang 'tìm kiếm rủi ro' khi đối mặt với các khoản thua lỗ được Kahneman giải thích như thế nào?",
+      "options": [
+        "Do Hệ thống 2 kích hoạt tư duy logic tối ưu hóa kỳ vọng toán học dài hạn.",
+        "Do sự can thiệp của hiệu ứng mỏ neo từ các con số được đưa ra ban đầu.",
+        "Do độ nhạy giảm dần và phản ứng cảm xúc mạnh mẽ với nỗi đau mất mát.",
+        "Do con người bản chất luôn ưa mạo hiểm hơn là nắm giữ tiền mặt an toàn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi đối mặt với các lựa chọn tồi tệ (khoản lỗ), độ nhạy giảm dần và tâm lý muốn né tránh việc cầm chắc sự thua lỗ khiến con người sẵn sàng chấp nhận rủi ro để tìm cơ hội gỡ gạc."
+    },
+    {
+      "id": "q3",
+      "question": "Bài toán 3 và Bài toán 4 trong chương sách dùng để minh chứng cho điểm yếu nào của mô hình kinh tế truyền thống do Bernoulli xây dựng?",
+      "options": [
+        "Sự thiếu sót của biến số điểm tham chiếu khi đánh giá các kết quả tài chính.",
+        "Sự sai lầm trong việc tính toán xác suất thống kê của các trò chơi may rủi.",
+        "Sự phụ thuộc quá mức vào các quyết định mang tính lý trí của Hệ thống 2.",
+        "Sự khác biệt quá lớn về thu nhập giữa các tầng lớp xã hội trong dân cư."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bài toán 3 và 4 chứng minh rằng cùng một trạng thái tài sản cuối cùng nhưng dẫn đến các lựa chọn khác nhau tùy thuộc vào điểm tham chiếu ban đầu, điều mà mô hình đơn giản của Bernoulli hoàn toàn bỏ sót."
+    },
+    {
+      "id": "q4",
+      "question": "Ba đặc trưng vận hành cốt lõi của Hệ thống 1 chi phối lý thuyết viễn cảnh bao gồm những yếu tố nào?",
+      "options": [
+        "Điểm tham chiếu, tư duy logic dài hạn và hệ số chiết khấu dòng tiền tương lai.",
+        "Hiệu ứng mỏ neo, quy luật số nhỏ và khả năng hồi quy về mức trung bình.",
+        "Điểm tham chiếu, độ nhạy giảm dần và tâm lý ác cảm với sự mất mát.",
+        "Bản thể trải nghiệm, bản thể ghi nhớ và xu hướng tìm kiếm sự an toàn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ba nguyên lý chi phối hàm giá trị trong lý thuyết viễn cảnh là điểm tham chiếu (mức thích nghi), độ nhạy giảm dần và sự ác cảm mất mát, đều bắt nguồn từ các phản ứng tự động của Hệ thống 1."
+    },
+    {
+      "id": "q5",
+      "question": "Hàm giá trị trong lý thuyết viễn cảnh (Hình 10) có hình chữ S và không đối xứng qua điểm tham chiếu phản ánh hiện tượng tâm lý nào rõ nét nhất?",
+      "options": [
+        "Con người vui mừng vì chiến thắng nhiều hơn là buồn bã vì thất bại tương ứng.",
+        "Trạng thái tài sản ban đầu quyết định toàn bộ mức độ thỏa dụng của một cá nhân.",
+        "Độ nhạy cảm của con người tăng lên khi số lượng tiền bạc ngày càng trở nên lớn hơn.",
+        "Nỗi đau do mất mát gây ra lớn hơn rất nhiều so với niềm vui do đạt được cùng một lượng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Độ dốc của hàm số ở phần thua lỗ lớn hơn hẳn phần lợi ích, thể hiện sự ác cảm mất mát: phản ứng trước thất bại mạnh mẽ hơn phản ứng trước lợi ích tương ứng (tỷ lệ thường từ 1.5 đến 2.5 lần)."
+    },
+    {
+      "id": "q6",
+      "question": "Khi tham gia một trò chơi tung đồng xu (thắng 150 đô-la nếu ngửa, thua 100 đô-la nếu sấp), phần lớn mọi người từ chối tham gia dù giá trị kỳ vọng là dương. Phản ứng này thể hiện điều gì?",
+      "options": [
+        "Sự thống trị của Hệ thống 2 trong việc kiểm soát các rủi ro tài chính ngắn hạn.",
+        "Sự ác cảm mất mát khiến nỗi sợ thua 100 đô-la lấn át hy vọng thắng 150 đô-la.",
+        "Sự thiếu hụt kiến thức cơ bản về xác suất thống kê và toán học xác suất.",
+        "Sự bảo thủ cực đoan của con người đối với các cơ hội đầu tư mang tính đổi mới."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong các triển vọng pha trộn (vừa có lợi vừa có hại), Hệ thống 1 tạo ra phản ứng cảm xúc tiêu cực mạnh mẽ từ nỗi lo mất mát, khiến con người từ chối các trò may rủi có lợi kỳ vọng rõ rệt."
+    },
+    {
+      "id": "q7",
+      "question": "Hiện tượng các nhà giao dịch chuyên nghiệp trên thị trường tài chính ít bị chi phối bởi sự ác cảm mất mát hơn người bình thường được giải thích ra sao?",
+      "options": [
+        "Họ quen với biến động và 'suy nghĩ như thương nhân' giúp giảm phản ứng cảm tính.",
+        "Họ tuân thủ các thuật toán máy tính tuyệt đối mà không có cảm xúc cá nhân.",
+        "Họ sở hữu bộ não có cấu trúc sinh học khác biệt hoàn toàn so với phần còn lại.",
+        "Họ có nguồn tài chính vô tận nên không cảm thấy tiếc nuối khi bị thua lỗ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Những người tiếp xúc thường xuyên với rủi ro và được huấn luyện để 'suy nghĩ như một thương nhân' sẽ ít có phản ứng cảm xúc bộc phát trước các biến động ngắn hạn, từ đó giảm bớt sự ác cảm mất mát."
+    },
+    {
+      "id": "q8",
+      "question": "Định lý toán học của Matthew Rabin nhằm chứng minh điều gì về các học thuyết kinh tế cổ điển dựa trên thỏa dụng tài sản?",
+      "options": [
+        "Xác suất thống kê trong kinh tế học hành vi luôn có sai số lớn hơn toán học thuần túy.",
+        "Học thuyết thỏa dụng kỳ vọng hoàn toàn chính xác khi áp dụng vào các quỹ đầu tư lớn.",
+        "Việc từ chối các trò may rủi nhỏ dựa trên tổng tài sản dẫn đến những phi lý toán học lớn.",
+        "Con người luôn đưa ra các quyết định tài chính tối ưu nếu được cung cấp đủ dữ liệu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Rabin chứng minh bằng toán học rằng việc một cá nhân bác bỏ trò may rủi nhỏ (như mất 100$, thắng 200$) vì sợ giảm tổng tài sản sẽ buộc họ phải vô lý từ chối những khoản tiền khổng lồ ở các trò chơi lớn hơn, vạch trần sai lầm của học thuyết cũ."
+    },
+    {
+      "id": "q9",
+      "question": "Mặc dù lý thuyết viễn cảnh vượt trội hơn mô hình Bernoulli, Daniel Kahneman thừa nhận lý thuyết này vẫn có điểm mù lớn nào khi không thể lý giải được?",
+      "options": [
+        "Hiện tượng lạm phát phi mã và chu kỳ suy thoái kinh tế vĩ mô toàn cầu.",
+        "Tác động của công nghệ trí tuệ nhân tạo đến thị trường lao động tương lai.",
+        "Sự chênh lệch giàu nghèo giữa các quốc gia phát triển và đang phát triển.",
+        "Cảm giác thất vọng và sự hối tiếc khi kết quả thực tế không như kỳ vọng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lý thuyết viễn cảnh giả định các phương án được đánh giá độc lập nên bỏ sót các trạng thái tâm lý quan trọng như sự thất vọng (khi kỳ vọng lớn nhưng không đạt) và sự hối tiếc (so sánh với con đường không chọn)."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao các sách giáo khoa kinh tế nhập môn thường không đưa lý thuyết viễn cảnh và sự ác cảm mất mát vào chương trình giảng dạy cơ bản?",
+      "options": [
+        "Vì các tác giả sách giáo khoa không công nhận các thành tựu của giải Nobel kinh tế.",
+        "Vì lý thuyết viễn cảnh quá phức tạp và sinh viên cần nắm vững các công cụ nền tảng trước.",
+        "Vì các hành vi phi lý của con người không bao giờ xuất hiện trong thực tế thị trường.",
+        "Vì lý thuyết này đã lỗi thời và bị thay thế hoàn toàn bởi kinh tế học lượng tử."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kahneman giải thích rằng các khái niệm kinh tế cơ bản cần được giản lược để học sinh dễ tiếp thu công cụ nền tảng, và sự phức tạp của lý thuyết viễn cảnh chỉ thực sự cần thiết khi phân tích các bối cảnh hành vi chuyên sâu."
+    },
+    {
+      "id": "q11",
+      "question": "Trong bối cảnh quản trị doanh nghiệp, một nhà quản lý từ bỏ một dự án đổi mới đầy tiềm năng chỉ vì sợ rủi ro thất bại dù lợi nhuận kỳ vọng rất cao. Biểu hiện này phản ánh thiên kiến nào?",
+      "options": [
+        "Hiệu ứng sở hữu kết hợp với tư duy quá tự tin vào khả năng kiểm soát thị trường.",
+        "Sự ác cảm mất mát cực đoan khiến nỗi sợ thua lỗ lấn át hoàn toàn cơ hội sinh lời.",
+        "Hiệu ứng mỏ neo từ ngân sách hoạt động được giao phó từ năm tài chính trước.",
+        "Quy luật số nhỏ khi nhà quản lý đánh giá sai lệch quy mô thị trường mục tiêu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tương tự như câu nói 'Bị tổn thất từ sự ác cảm mất mát cùng cực', nhà quản lý này để cho nỗi sợ thất bại (được phóng đại qua hàm giá trị) chi phối, khiến họ bỏ qua các cơ hội sinh lời lớn."
+    },
+    {
+      "id": "q12",
+      "question": "Khi một nhà đầu tư cá nhân giữ chặt một cổ phiếu đang thua lỗ nặng với hy vọng 'gỡ gạc' thay vì cắt lỗ, hiện tượng tâm lý nào của lý thuyết viễn cảnh đang chi phối hành vi của họ?",
+      "options": [
+        "Hiệu ứng mỏ neo vào mức giá lịch sử cao nhất mà cổ phiếu từng đạt được.",
+        "Né tránh rủi ro tuyệt đối do tác động mạnh mẽ của hiệu ứng khung quyết định.",
+        "Tin tưởng mù quáng vào trực giác của Hệ thống 2 sau quá trình phân tích kỹ thuật.",
+        "Tìm kiếm rủi ro khi đối mặt với vùng thua lỗ (phía bên trái điểm tham chiếu)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi ở vùng thua lỗ (trái điểm tham chiếu), độ nhạy giảm dần và sự bất chấp rủi ro khiến con người chọn đánh cược giữ lại cổ phiếu xấu với hy vọng quay về điểm hòa vốn."
+    },
+    {
+      "id": "q13",
+      "question": "Phát biểu nào sau đây diễn đạt chính xác nhất tinh thần của 'Điểm tham chiếu' trong tâm lý học nhận thức theo quan điểm của Daniel Kahneman?",
+      "options": [
+        "Đó là con số tuyệt đối về tài sản mà một người tích lũy được trong suốt cuộc đời.",
+        "Đó là trạng thái hiện tại hoặc kỳ vọng được thiết lập làm mốc để đánh giá được/mất.",
+        "Đó là mức lợi nhuận trung bình của thị trường do các chuyên gia tài chính công bố.",
+        "Đó là giới hạn tối đa về khả năng chịu đựng rủi ro sinh học của não bộ con người."
+      ],
+      "correctIndex": 1,
+      "explanation": "Điểm tham chiếu là mốc so sánh (thường là trạng thái hiện tại hoặc mức kỳ vọng/được ủy quyền) mà từ đó mọi kết quả tài chính được phân định rõ ràng là lợi ích hay tổn thất."
+    },
+    {
+      "id": "q14",
+      "question": "Sự khác biệt căn bản giữa 'vật mang giá trị' trong mô hình của Bernoulli và trong lý thuyết viễn cảnh là gì?",
+      "options": [
+        "Bernoulli dùng xác suất chủ quan, còn lý thuyết viễn cảnh dùng xác suất khách quan tuyệt đối.",
+        "Bernoulli dùng các khoản lợi nhuận ngắn hạn, còn lý thuyết viễn cảnh dùng tổng tài sản dài hạn.",
+        "Bernoulli dùng trạng thái tài sản tổng thể, còn lý thuyết viễn cảnh dùng các thay đổi (lợi ích/tổn thất).",
+        "Bernoulli dựa vào cảm xúc Hệ thống 1, còn lý thuyết viễn cảnh dựa vào tư duy logic Hệ thống 2."
+      ],
+      "correctIndex": 2,
+      "explanation": "Điểm khác biệt chí mạng được Kahneman chỉ ra là Bernoulli coi trạng thái tài sản là vật mang giá trị, trong khi lý thuyết viễn cảnh xác định các thay đổi (lợi ích và tổn thất so với điểm tham chiếu) mới là vật mang giá trị thực sự."
+    },
+    {
+      "id": "q15",
+      "question": "Trong giao tiếp thương lượng và đàm phán hợp đồng, việc một bên đóng khung thông tin dưới dạng 'chi phí phải gánh chịu nếu từ chối' thay vì 'lợi ích đạt được nếu đồng ý' khai thác hiện tượng tâm lý nào?",
+      "options": [
+        "Sự ác cảm mất mát khiến đối phương phản ứng mạnh mẽ và dễ nhượng bộ hơn trước nguy cơ mất.",
+        "Hiệu ứng mỏ neo giúp cố định giá trị giao dịch ở mức cao nhất từ phiên đàm phán đầu tiên.",
+        "Quy luật hồi quy trung bình buộc đối tác phải chấp nhận các điều khoản bất lợi dài hạn.",
+        "Sự kích hoạt Hệ thống 2 giúp đối tác phân tích logic hợp đồng một cách tối ưu nhất."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vì tổn thất hiện hình rõ hơn và tạo ra phản ứng mạnh gấp đôi lợi ích (do ác cảm mất mát), việc đóng khung thông tin dưới góc độ tổn thất sẽ tạo áp lực tâm lý cực lớn, khiến đối phương dễ thay đổi quyết định."
+    }
+  ]
+}

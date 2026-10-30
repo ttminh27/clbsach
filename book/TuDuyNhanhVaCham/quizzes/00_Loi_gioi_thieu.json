@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "00_Loi_gioi_thieu",
+  "chapterTitle": "Lời giới thiệu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo góc nhìn tâm lý học nhận thức của Daniel Kahneman, tại sao con người thường xuyên đưa ra các quyết định thiếu nhất quán và cảm tính trong đời sống hàng ngày?",
+      "options": [
+        "Vì năng lực tư duy logic của con người bị triệt tiêu hoàn toàn bởi cảm xúc tức thời.",
+        "Vì não bộ chúng ta có xu hướng lười biếng và ưu tiên sử dụng cơ chế nghĩ nhanh tự động.",
+        "Vì các tình huống thực tế luôn cố tình che giấu thông tin để đánh lừa nhận thức cá nhân.",
+        "Vì chúng ta thiếu hoàn toàn các công cụ đo lường xác suất khoa học và chính xác."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 1 vận hành nhanh chóng, tự động và không tốn năng lượng, khiến não bộ thường ưu tiên sử dụng nó thay vì kích hoạt Hệ thống 2 đòi hỏi sự nỗ lực và tập trung cao độ."
+    },
+    {
+      "id": "q2",
+      "question": "Hiện tượng phần lớn người tham gia thí nghiệm đánh giá Linda vừa là nhân viên ngân hàng vừa là nhà nữ quyền có cao hơn khả năng cô chỉ là nhân viên ngân hàng minh chứng cho điều gì?",
+      "options": [
+        "Sự vi phạm quy luật xác suất cơ bản do tác động của nghịch lý liên hợp nhận thức.",
+        "Sự chi phối mạnh mẽ của quy luật xác suất toán học đối với tư duy con người.",
+        "Sự tỉnh táo và nhạy bén của Hệ thống 2 khi xử lý các dữ liệu mô tả chi tiết.",
+        "Sự thấu hiểu sâu sắc của cộng đồng đối với các phong trào xã hội hiện đại."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nghịch lý liên hợp xảy ra khi con người đánh giá xác suất của một tập con (vừa làm ngân hàng vừa đấu tranh nữ quyền) cao hơn tập chứa nó, do Hệ thống 1 bị thu hút bởi tính đại diện của mô tả."
+    },
+    {
+      "id": "q3",
+      "question": "Trong thí nghiệm về chẩn đoán ung thư đối với các bác sĩ có kinh nghiệm, nguyên nhân sâu xa nào khiến đại đa số bác sĩ nhầm lẫn xác suất dương tính với tỷ suất nền thực tế?",
+      "options": [
+        "Họ cố tình bỏ qua số liệu thống kê cộng đồng để đẩy nhanh tiến độ chữa trị.",
+        "Họ vận dụng sai quy tắc tính toán xác suất có điều kiện do thiếu kiến thức chuyên môn.",
+        "Họ bị sa lầy vào cơ chế suy nghĩ nhanh, bỏ quên tỷ suất nền và thông tin thống kê gốc.",
+        "Họ quá tin tưởng vào kết quả xét nghiệm máy móc mà không thèm kiểm tra lại."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nghịch lý tỷ suất nền xuất hiện khi các chuyên gia cũng rơi vào cái bẫy của Hệ thống 1, chỉ tập trung vào độ chính xác của xét nghiệm mà quên đi tỷ lệ mắc bệnh rất thấp trong cộng đồng."
+    },
+    {
+      "id": "q4",
+      "question": "Khi đối mặt với lựa chọn giữa một khoản tiền chắc chắn và một canh bạc có giá trị kỳ vọng tương đương, xu hướng chọn phần chắc chắn của con người phản ánh điều gì?",
+      "options": [
+        "Sự sợ hãi rủi ro và tâm lý ưu tiên trải nghiệm chắc chắn của lý thuyết viễn cảnh.",
+        "Sự thận trọng tuyệt đối và mong muốn tối ưu hóa nguồn tài chính cá nhân.",
+        "Sự thiếu hụt tư duy phân tích toán học cơ bản trong việc quy đổi giá trị kỳ vọng.",
+        "Sự ảnh hưởng từ các chuẩn mực xã hội khuyên không nên tham gia cờ bạc."
+      ],
+      "correctIndex": 0,
+      "explanation": "Con người có tâm lý thích sự chắc chắn và ác cảm với rủi ro không chắc chắn, đây là nền tảng cốt lõi dẫn đến việc phát triển lý thuyết viễn cảnh của Kahneman và Tversky."
+    },
+    {
+      "id": "q5",
+      "question": "Hiệu ứng khung (framing effect) thể hiện qua việc cùng một nguy cơ y tế nhưng được diễn đạt bằng con số tuyệt đối khác nhau lại cho ra tỷ lệ đồng ý điều trị khác nhau, chứng minh điều gì?",
+      "options": [
+        "Con người luôn đưa ra quyết định dựa trên sự so sánh chi phí và lợi ích kinh tế.",
+        "Phản ứng nhận thức của con người bị bóp méo bởi cách thức truyền đạt thông tin.",
+        "Ngôn ngữ học có khả năng thay đổi hoàn toàn tình trạng thể chất của người bệnh.",
+        "Các bệnh nhân thường không đủ năng lực trí tuệ để tự đưa ra quyết định y khoa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiệu ứng khung cho thấy cách thông tin được đóng gói (90% sống sót so với 10% tử vong) tác động mạnh mẽ đến Hệ thống 1, làm thay đổi quyết định dù bản chất dữ liệu y khoa hoàn toàn y chang nhau."
+    },
+    {
+      "id": "q6",
+      "question": "Việc công chúng dễ dàng tin tưởng và quy chụp năng lực của một ngôi sao khoa học sang các lĩnh vực xã hội khác xuất phát từ thiên kiến nhận thức nào?",
+      "options": [
+        "Hiệu ứng người nổi tiếng và mong muốn tạo dựng phong trào cộng đồng.",
+        "Sự uy tín tuyệt đối của các giải thưởng lớn đối với nhận thức đám đông.",
+        "Sự lười biếng của Hệ thống 2 khi không chịu kiểm tra năng lực thực tế.",
+        "Hiệu ứng hào quang khiến ấn tượng ban đầu chi phối toàn bộ đánh giá sau đó."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hiệu ứng hào quang (halo effect) thuộc cơ chế Hệ thống 1, khiến chúng ta mở rộng một đặc điểm tích cực đơn lẻ của một cá nhân thành nhận định tốt đẹp cho toàn bộ các khía cạnh khác."
+    },
+    {
+      "id": "q7",
+      "question": "Trong quản lý chính sách công, việc nhà nước ra lệnh cấm mắm tôm chỉ vì niềm tin đơn giản rằng nhiều bệnh nhân tả từng ăn món này trước đó là biểu hiện của tư duy nào?",
+      "options": [
+        "Sự nhầm lẫn ngớ ngẩn giữa tương quan nhân quả do vận dụng cơ chế nghĩ nhanh.",
+        "Sự vận dụng triệt để các số liệu thống kê y tế học hiện đại và chuẩn xác.",
+        "Sự quyết đoán kịp thời nhằm ngăn chặn dịch bệnh bùng phát trên diện rộng.",
+        "Sự chiều theo áp lực tâm lý đám đông của các nhà hoạch định chính sách."
+      ],
+      "correctIndex": 0,
+      "explanation": "Quyết định cảm tính dựa trên sự trùng hợp bề ngoài mà thiếu bằng chứng khoa học vững chắc là hậu quả điển hình của việc để Hệ thống 1 thống trị quá trình ra quyết định chính sách."
+    },
+    {
+      "id": "q8",
+      "question": "Ngụy biện của người tố tụng (prosecutor's fallacy) trong các phán quyết pháp lý thường bắt nguồn từ nguyên nhân tâm lý nào sau đây?",
+      "options": [
+        "Sự thiếu thốn các chứng cứ vật chất xác thực tại hiện trường vụ án.",
+        "Sự cố tình bóp méo công lý của các cơ quan hành pháp vì lợi ích riêng.",
+        "Sự lười biếng suy nghĩ, chỉ dựa vào các dấu hiệu bề ngoài để kết luận vội vã.",
+        "Sự phức tạp quá mức của hệ thống luật pháp hiện hành đối với công dân."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ngụy biện xảy ra chủ yếu do tư duy lười biếng, não bộ né tránh việc kích hoạt Hệ thống 2 để phân tích logic chặt chẽ mà sa vào việc dùng Hệ thống 1 suy luận hời hợt từ bề nổi."
+    },
+    {
+      "id": "q9",
+      "question": "Khác với các sách phổ thông về hành vi khác, mục tiêu cốt lõi mà Daniel Kahneman hướng tới trong tác phẩm 'Tư duy nhanh và chậm' là gì?",
+      "options": [
+        "Làm giàu ngữ vựng cho mọi người để nhận diện và cải thiện các quyết định sống.",
+        "Cung cấp các công cụ kinh doanh giúp tối ưu hóa lợi nhuận tài chính cá nhân.",
+        "Đưa ra các cải cách toàn diện cho hệ thống luật pháp và chính sách nhà nước.",
+        "Hướng dẫn chi tiết cách thức thao túng tâm lý người khác trong giao tiếp xã hội."
+      ],
+      "correctIndex": 0,
+      "explanation": "Như chính tác giả đã nêu rõ, mục tiêu khiêm tốn nhưng sâu sắc của cuốn sách là cung cấp từ ngữ và góc nhìn giúp con người hiểu rõ hơn về chính mình khi đưa ra quyết định."
+    },
+    {
+      "id": "q10",
+      "question": "Sự khác biệt cơ bản về mặt năng lượng và nỗ lực giữa Hệ thống 1 và Hệ thống 2 là gì?",
+      "options": [
+        "Hệ thống 1 tiêu tốn rất nhiều năng lượng tinh thần còn Hệ thống 2 thì hoàn toàn ngược lại.",
+        "Hệ thống 1 hoạt động tự động không tốn nỗ lực còn Hệ thống 2 đòi hỏi tập trung cao độ.",
+        "Hệ thống 1 chỉ hoạt động khi ngủ còn Hệ thống 2 chỉ vận hành trong giờ làm việc.",
+        "Hệ thống 1 đòi hỏi ý thức kiểm soát mạnh mẽ còn Hệ thống 2 hoạt động vô thức."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 1 chạy ngầm liên tục mà không tốn nhiều nguồn lực nhận thức, trong khi Hệ thống 2 đòi hỏi sự huy động năng lượng và sự chú ý có ý thức nên rất dễ bị mệt mỏi."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao con người trong quá trình tiến hóa hàng triệu năm lại duy trì cơ chế suy nghĩ nhanh mặc dù nó thường xuyên dẫn đến các sai lầm nhận thức?",
+      "options": [
+        "Vì các sai lầm nhận thức thực chất không bao giờ gây ra hậu quả nghiêm trọng.",
+        "Vì nó là sản phẩm của nền giáo dục hiện đại nhằm tối ưu hóa thời gian làm việc.",
+        "Vì cấu trúc sinh học của não bộ không cho phép con người phát triển tư duy logic.",
+        "Vì nó giúp con người đưa ra các phản ứng sinh tồn chớp nhoáng trước hiểm họa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Cơ chế nghĩ nhanh là công cụ sinh tồn tối quan trọng của tổ tiên chúng ta trước các mối đe dọa trực diện, giúp ra quyết định tức thì dù đánh đổi bằng độ chính xác."
+    },
+    {
+      "id": "q12",
+      "question": "Hiện tượng một người đánh giá một bài hát hoàn hảo chỉ vì đoạn kết diễn tả thành công phản ánh đặc điểm nào của nhận thức con người?",
+      "options": [
+        "Khả năng ghi nhớ toàn bộ tiến trình lịch sử một cách hoàn hảo và khách quan.",
+        "Sự kiểm soát tuyệt đối của Hệ thống 2 đối với các cảm xúc thẩm mỹ nghệ thuật.",
+        "Xu hướng đánh giá sự việc dựa trên trải nghiệm gần nhất thay vì toàn bộ quá trình.",
+        "Sự thay đổi liên tục trong năng lực cảm thụ âm nhạc của bộ não con người."
+      ],
+      "correctIndex": 2,
+      "explanation": "Con người có xu hướng phán xét sự kiện thông qua những khoảnh khắc đỉnh điểm hoặc thời điểm gần nhất (quy tắc đỉnh - kết), bỏ qua diễn biến toàn diện theo thời gian."
+    },
+    {
+      "id": "q13",
+      "question": "Khi nhà nghiên cứu y khoa áp dụng các thí nghiệm của Kahneman vào việc truyền đạt nguy cơ gãy xương cho bệnh nhân loãng xương, ông nhận ra điều gì?",
+      "options": [
+        "Bệnh nhân hoàn toàn miễn nhiễm với các thông tin thống kê y khoa phức tạp.",
+        "Các bác sĩ luôn giải thích chính xác nguyên nhân bệnh lý cho mọi đối tượng.",
+        "Cách thức trình bày thông tin ảnh hưởng quyết định đến hành vi tuân thủ điều trị.",
+        "Thuốc điều trị loãng xương không mang lại bất kỳ hiệu quả thực tế nào cả."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hiểu được cách nhận thức con người bị chi phối bởi các thiên kiến giúp nhà nghiên cứu tìm ra cách truyền đạt thông tin hiệu quả hơn để thay đổi thái độ dùng thuốc của bệnh nhân."
+    },
+    {
+      "id": "q14",
+      "question": "Phát biểu nào sau đây diễn tả chính xác nhất tư tưởng của Daniel Kahneman về năng lực tự nhận thức của con người?",
+      "options": [
+        "Con người hoàn toàn làm chủ được mọi suy nghĩ và hành động của bản thân.",
+        "Chúng ta thường tự tin thái quá vì không biết rõ những gì mình thực sự không biết.",
+        "Con người luôn duy trì sự hoài nghi hợp lý đối với mọi quyết định tài chính.",
+        "Năng lực lý trí của nhân loại ngày càng tiến hóa hoàn thiện theo thời gian."
+      ],
+      "correctIndex": 1,
+      "explanation": "Điểm mấu chốt trong các công trình của Kahneman là vạch trần ảo tưởng về lý trí của con người, chứng minh rằng chúng ta thường tệ hơn những gì chúng ta tưởng."
+    },
+    {
+      "id": "q15",
+      "question": "Ý nghĩa thực tiễn lớn nhất đối với các nhà hoạch định chính sách khi nghiên cứu tác phẩm 'Tư duy nhanh và chậm' là gì?",
+      "options": [
+        "Phải dựa vào cảm tính và trực giác đám đông để ban hành luật pháp nhanh chóng.",
+        "Phải loại bỏ hoàn toàn cảm xúc của người dân thông qua các biện pháp cưỡng chế.",
+        "Phải giao phó toàn bộ quyền lực quyết định chính sách cho các chuyên gia tâm lý.",
+        "Phải cẩn trọng dựa trên chứng cứ khoa học, tránh ra quyết định cảm tính bồng bột."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bài học lớn cho các nhà quản lý là chính sách công nếu dựa vào hệ thống suy nghĩ nhanh (cảm tính, bồng bột) sẽ dễ dẫn đến sai lầm tai hại, đòi hỏi sự soi chiếu chứng cứ cẩn trọng."
+    }
+  ]
+}

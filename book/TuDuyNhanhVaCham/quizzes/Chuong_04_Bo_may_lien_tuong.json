@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_04_Bo_may_lien_tuong",
+  "chapterTitle": "Chương 4. Bộ máy liên tưởng",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi một người đọc nhanh cụm từ 'chuối nôn mửa', cơ thể họ lập tức có những phản ứng sinh lý như nhăn mặt, tim đập nhanh hoặc lùi lại. Theo Daniel Kahneman, cơ chế nào là nguyên nhân trực tiếp gây ra chuỗi phản ứng hoàn toàn tự động này?",
+      "options": [
+        "Sự kích hoạt liên tưởng tự động của Hệ thống 1 tạo ra mạng lưới cảm xúc và thể chất.",
+        "Sự phân tích logic từ Hệ thống 2 nhằm đánh giá mức độ an toàn của thông tin đầu vào.",
+        "Quyết định có ý thức của bộ não nhằm bảo vệ cơ thể trước các tác nhân gây nguy hại.",
+        "Sự hồi tưởng chủ động từ trí nhớ dài hạn về những trải nghiệm khó chịu trong quá khứ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 vận hành tự động, nhanh chóng và không đòi hỏi sự cố gắng, tự động liên kết các ý tưởng, kích hoạt cảm xúc và phản ứng cơ học (nhận thức là sự thể hiện) mà không cần sự can thiệp của Hệ thống 2."
+    },
+    {
+      "id": "q2",
+      "question": "Trong thí nghiệm về 'hiệu ứng mồi' khi giải ô chữ SO_P, nếu một người vừa nhìn thấy từ ĂN (EAT), họ có xu hướng điền thành SOUP thay vì SOAP. Hiện tượng này chứng minh điều gì về bản chất của bộ nhớ liên tưởng?",
+      "options": [
+        "Bộ nhớ con người luôn hoạt động theo trình tự tuần từng bước một để tìm kiếm từ khóa phù hợp.",
+        "Các khái niệm liên quan được kích hoạt đồng thời trong tiềm thức, tạo ra mạng lưới ý nghĩa sẵn sàng.",
+        "Hệ thống 2 chủ động lựa chọn phương án quen thuộc nhất để tiết kiệm năng lượng tư duy.",
+        "Quá trình tư duy của con người hoàn toàn bị chi phối bởi các quy luật ngữ pháp khách quan."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trái với quan niệm cũ rằng bộ óc phải trải qua chuỗi ý tưởng tuần tự, mạng lưới liên tưởng hoạt động đồng thời, kích hoạt hàng loạt ý tưởng ngầm ẩn trong tiềm thức và tạo ra xu hướng phản hồi."
+    },
+    {
+      "id": "q3",
+      "question": "Thí nghiệm 'hiện tượng Florida' của John Bargh cho thấy sinh viên đi chậm hơn sau khi đọc các từ liên quan đến người cao tuổi. Khái niệm tâm lý học hành vi nào mô tả chính xác nhất hiện tượng này?",
+      "options": [
+        "Hiệu ứng mỏ neo định hình khoảng giá trị trong các quyết định tài chính cá nhân.",
+        "Sự lơ đễnh có chủ ý của Hệ thống 2 trước các tác nhân gây nhiễu từ môi trường xung quanh.",
+        "Hiệu ứng ý vận (ideomotor effect), nơi suy nghĩ vô thức dẫn dắt và chi phối hành vi cơ thể.",
+        "Quy luật hồi quy về mức trung bình trong các hành vi vận động của con người."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hiệu ứng ý vận mô tả cách mà một ý tưởng (được mồi vô thức) chi phối trực tiếp hành vi thể chất mà con người hoàn toàn không có ý thức kiểm soát hay nhận ra."
+    },
+    {
+      "id": "q4",
+      "question": "Nghiên cứu về mối liên hệ đảo chiều cho thấy việc kẹp bút chì bằng răng để tạo ra cơ mặt giống như đang mỉm cười giúp con người thấy tranh vui hơn. Bài học thực tiễn quan trọng nào rút ra từ cơ chế này?",
+      "options": [
+        "Con người có thể dễ dàng kiểm soát hoàn toàn cảm xúc của mình bằng các động tác cơ học.",
+        "Chỉ có Hệ thống 2 mới có khả năng điều chỉnh cảm xúc thông qua các kỹ thuật lý trí.",
+        "Biểu cảm khuôn mặt luôn là kết quả hoàn toàn trung thực của trạng thái tâm lý bên trong.",
+        "Hành vi thể chất có thể tác động ngược lại để cải thiện tâm trạng và cảm xúc nội tâm."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mối liên kết đảo chiều cho thấy điệu bộ và biểu cảm cơ thể (như mỉm cười hay gật đầu) có thể ảnh hưởng vô thức đến cảm xúc và suy nghĩ, củng cố trạng thái tích cực cho tâm hồn."
+    },
+    {
+      "id": "q5",
+      "question": "Khi các nhà nghiên cứu đặt một bàn cờ tỷ phú hoặc hình ảnh đồng đô-la làm mồi, những người tham gia thí nghiệm có xu hướng trở nên độc lập hơn nhưng đồng thời cũng ích kỷ hơn. Phát hiện này cảnh báo điều gì về môi trường sống hiện đại?",
+      "options": [
+        "Con người luôn duy trì được sự tỉnh táo tuyệt đối trước mọi tác động ngoại cảnh từ xã hội.",
+        "Môi trường chứa các biểu tượng tiền bạc vô tình định hình hành vi xã hội theo hướng xa cách.",
+        "Sự giàu có vật chất chắc chắn làm gia tăng lòng trắc ẩn và sự gắn kết giữa các cá nhân.",
+        "Hệ thống 2 luôn kịp thời ngăn chặn các tác động tiêu cực của tiền bạc lên nhân cách."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiệu ứng mồi tiền bạc kích hoạt chủ nghĩa cá nhân và sự miễn cưỡng dính dáng đến người khác, chứng minh văn hóa xung quanh tác động ngầm đến thái độ và hành vi xã hội của chúng ta."
+    },
+    {
+      "id": "q6",
+      "question": "Hiện tượng 'hiệu ứng Phu nhân Macbeth' (khi cảm giác tội lỗi hoặc hành vi sai trái thúc đẩy mong muốn rửa sạch cơ thể bằng xà phòng) minh chứng điều gì về tư duy con người?",
+      "options": [
+        "Sự tồn tại mạnh mẽ của các biểu tượng và ẩn dụ vô thức kết nối đạo đức với thể chất.",
+        "Xu hướng dùng logic thuần túy để giải quyết các vấn đề khủng hoảng tâm lý cá nhân.",
+        "Khả năng của Hệ thống 2 trong việc tự động thanh lọc những ký ức tiêu cực và tổn thương.",
+        "Sự phân tách hoàn toàn độc lập giữa các khái niệm trừu tượng về tội lỗi và hành vi vệ sinh."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hiệu ứng Phu nhân Macbeth thể hiện bản chất của các mối quan hệ vô thức, nơi sự vấy bẩn trong tâm hồn (tội lỗi, nói dối) kích thích nhu cầu gột rửa cơ thể một cách rất cụ thể."
+    },
+    {
+      "id": "q7",
+      "question": "Trong thí nghiệm về hộp đựng tiền tự nguyện mua trà cà phê tại văn phòng, số tiền quyên góp tăng vọt khi có poster in hình 'đôi mắt nhìn' thay vì hình hoa. Cơ chế tâm lý nào giải thích sự thay đổi hành vi này?",
+      "options": [
+        "Sự phân tích lý trí của Hệ thống 2 về bảng giá và lợi ích kinh tế khi sử dụng dịch vụ.",
+        "Sự giám sát vô thức tạo ra cảm giác đang bị theo dõi, kích thích con người cải thiện hành vi.",
+        "Thói quen tuân thủ máy móc các quy định hành chính mà không cần suy nghĩ thấu đáo.",
+        "Sự lựa chọn ngẫu nhiên do dao động thống kê tự nhiên không liên quan đến hình ảnh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hình ảnh đôi mắt đóng vai trò là chất mồi vô thức gợi nhắc về sự theo dõi của người khác, qua đó kích thích con người tự giác hành xử tốt hơn mà không cần lời cảnh báo nào."
+    },
+    {
+      "id": "q8",
+      "question": "Vì sao khi Daniel Kahneman mô tả các thí nghiệm về hiệu ứng mồi, phản ứng phổ biến của khán giả thường là sự hoài nghi và không tin rằng nó ứng vào bản thân mình?",
+      "options": [
+        "Vì các thí nghiệm khoa học hành vi thường có sai số thống kê rất lớn và không đáng tin.",
+        "Vì con người có khả năng nhìn thấu toàn bộ các quá trình diễn ra bên trong tiềm thức của mình.",
+        "Vì Hệ thống 2 luôn tin rằng nó mới là người nắm quyền kiểm soát và hiểu rõ lý do hành động.",
+        "Vì trải nghiệm chủ quan trong quá khứ luôn cung cấp dữ liệu chính xác và đầy đủ nhất."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hệ thống 2 ảo tưởng rằng nó hoàn toàn độc lập, tự chủ và biết rõ lý do cho mọi chọn lọc của bản thân, khiến con người khó chấp nhận việc mình bị dẫn dắt bởi những yếu tố vô thức nhỏ nhặt."
+    },
+    {
+      "id": "q9",
+      "question": "Phát biểu nào sau đây diễn tả chính xác nhất tư tưởng cốt lõi của Daniel Kahneman về mối quan hệ giữa Hệ thống 1 và Hệ thống 2 trong chương bộ máy liên tưởng?",
+      "options": [
+        "Hệ thống 2 luôn giám sát chặt chẽ mọi hoạt động của Hệ thống 1 để ngăn ngừa sai sót.",
+        "Cả hai hệ thống luôn hoạt động với mức năng lượng và sự tập trung cao độ như nhau.",
+        "Hệ thống 1 chỉ hoạt động khi có sự cho phép và định hướng rõ ràng từ phía Hệ thống 2.",
+        "Hệ thống 1 cung cấp ấn tượng, cảm xúc và xung lực làm chất liệu cho niềm tin của Hệ thống 2."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hệ thống 1 ngầm phiên giải thế giới, cung cấp các ấn tượng, trực giác và cảm xúc làm chất liệu nền tảng để Hệ thống 2 tin tưởng và biến thành hành động."
+    },
+    {
+      "id": "q10",
+      "question": "Trong bối cảnh bầu cử, các nghiên cứu chỉ ra rằng tỷ lệ ủng hộ quỹ trường học tăng đáng kể khi điểm bỏ phiếu được đặt ngay tại trường học. Hiện tượng này phản ánh điều gì về nhận định và lựa chọn của con người?",
+      "options": [
+        "Sự cẩn trọng tuyệt đối của cử tri trong việc nghiên cứu kỹ lưỡng các chính sách giáo dục.",
+        "Tính độc lập cao độ của các quyết định chính trị trước các yếu tố ngoại cảnh không liên quan.",
+        "Sức mạnh vô thức của hiệu ứng mồi từ không gian xung quanh lên hành vi quyết định.",
+        "Sự chi phối hoàn toàn của lý trí logic trong việc tối ưu hóa lợi ích cộng đồng lâu dài."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hiệu ứng mồi chứng minh rằng ngay cả những quyết định quan trọng như bầu cử cũng có thể bị ảnh hưởng bởi những yếu tố ngoại cảnh vô thức (như địa điểm bỏ phiếu tại trường học)."
+    },
+    {
+      "id": "q11",
+      "question": "Theo góc nhìn của các nhà khoa học nhận thức hiện đại được đề cập trong chương sách, nhận thức của con người được xem là 'sự thể hiện' (embodied cognition). Điều này có ý nghĩa gì thực tế?",
+      "options": [
+        "Con người tư duy và phản ứng bằng cả cơ thể chứ không chỉ riêng thông qua bộ não.",
+        "Bộ não hoạt động hoàn toàn độc lập và tách rời khỏi các trạng thái sinh lý của cơ thể.",
+        "Các biểu hiện cơ học bên ngoài không bao giờ ảnh hưởng đến trạng thái tinh thần bên trong.",
+        "Chỉ có các cơ quan nội tạng mới chịu trách nhiệm quyết định cảm xúc của con người."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khái niệm 'nhận thức là sự thể hiện' khẳng định tư duy gắn liền với cơ thể; cơ thể tham gia trực tiếp vào quá trình giải thích thế giới, cảm xúc và phản ứng thông qua các biểu hiện sinh lý."
+    },
+    {
+      "id": "q12",
+      "question": "Khi xem xét mạng lưới liên tưởng ký ức trong bộ não con người, phát biểu nào sau đây là KHÔNG chính xác theo nội dung chương sách?",
+      "options": [
+        "Bộ óc phải trải qua một chuỗi các ý tưởng nối đuôi nhau tuần tự và lần lượt một cách chậm chạp.",
+        "Các ý tưởng được liên kết với nhau theo nhiều loại như nguyên nhân-hệ quả, sự vật-thuộc tính.",
+        "Hầu hết các suy nghĩ liên kết đều diễn ra trong im lặng và ẩn mình sâu trong tiềm thức.",
+        "Một ý tưởng được kích hoạt sẽ lan tỏa sóng như hòn sỏi ném xuống hồ để khởi nguồn ý tưởng khác."
+      ],
+      "correctIndex": 0,
+      "explanation": "Quan điểm cũ cho rằng bộ óc phải trải qua chuỗi ý tưởng lần lượt đã lỗi thời; thực tế hoạt động của bộ nhớ liên kết diễn ra đồng thời, kích hoạt vô số ý tưởng cùng lúc trong tiềm thức."
+    },
+    {
+      "id": "q13",
+      "question": "Hiện tượng 'người lạ trong ta' mà Timothy Wilson và Daniel Kahneman nhắc đến ám chỉ điều gì về bản chất tâm lý con người?",
+      "options": [
+        "Sự tồn tại của các thế lực siêu nhiên điều khiển tâm trí con người từ bên ngoài theo cơ chế hoạt động của trí não.",
+        "Khả năng thấu hiểu hoàn toàn nội tâm bản thân thông qua quá trình tự chiêm nghiệm lý trí nhằm nâng cao chất lượng ra quyết định.",
+        "Sự phân rã nhân cách thành nhiều bản thể độc lập do áp lực của cuộc sống hiện đại nhằm nâng cao chất lượng ra quyết định.",
+        "Phần Hệ thống 1 vô thức ngầm kiểm soát phần lớn ấn tượng, cảm xúc và hành động mà chúng ta không hay biết."
+      ],
+      "correctIndex": 3,
+      "explanation": "'Người lạ trong ta' chính là Hệ thống 1 — cơ chế vô thức âm thầm chi phối cảm xúc, niềm tin và hành động của chúng ta mà hiếm khi nào chúng ta nhận thức được sự tồn tại của nó."
+    },
+    {
+      "id": "q14",
+      "question": "Từ góc độ kinh tế học hành vi và tâm lý học nhận thức, việc hiểu rõ về 'hiệu ứng mồi' mang lại bài học quan trọng nào cho việc thiết kế môi trường làm việc và ra quyết định?",
+      "options": [
+        "Chúng ta nên chủ động thiết kế không gian xung quanh để mồi các trạng thái tích cực, kỷ luật và trung thực.",
+        "Môi trường vật chất hoàn toàn trung tính và không có bất kỳ tác động nào đến năng suất lao động.",
+        "Việc kiểm soát không gian là lãng phí vì ý chí con người luôn chiến thắng mọi yếu tố ngoại cảnh.",
+        "Chỉ cần tập trung vào các quy chế hình phạt nghiêm khắc thay vì quan tâm đến không gian xung quanh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vì hiệu ứng mồi tác động mạnh mẽ đến hành vi một cách vô thức, việc thiết kế môi trường (như ánh sáng, biểu tượng, bố cục) có thể giúp con người định hướng hành vi theo hướng tích cực hơn."
+    },
+    {
+      "id": "q15",
+      "question": "Nhận định nào sau đây tổng kết đúng đắn nhất thông điệp mà Daniel Kahneman muốn gửi gắm qua chương 'Bộ máy liên tưởng'?",
+      "options": [
+        "Thế giới khách quan luôn phức tạp hơn nhiều so với khả năng suy luận của bất kỳ bộ óc nào nhằm nâng cao chất lượng ra quyết định.",
+        "Thế giới ít ý nghĩa hơn bạn nghĩ, và phần lớn các mối liên kết xuất hiện là do cách vận hành tự động của đầu óc bạn.",
+        "Con người có thể dễ dàng loại bỏ hoàn toàn các thiên kiến nhận thức nếu duy trì sự tập trung cao độ nhằm nâng cao chất lượng ra quyết định.",
+        "Hệ thống 2 luôn nắm quyền chủ động hoàn toàn trong việc giải thích mọi hiện tượng của cuộc sống khi đối mặt với các tình huống bất định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trích dẫn trực tiếp từ chương sách: 'Thế giới này ít ý nghĩa hơn so với bạn nghĩ. Sự kết nối hầu hết xuất phát từ cách vận hành đầu óc của bạn', tóm gọn bản chất của bộ máy liên tưởng."
+    }
+  ]
+}

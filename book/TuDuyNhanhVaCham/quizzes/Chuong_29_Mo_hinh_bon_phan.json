@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_29_Mo_hinh_bon_phan",
+  "chapterTitle": "Chương 29. Mô hình bốn phần",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi một cá nhân đánh giá tổng thể một đối tượng phức tạp như mua ô tô hay đánh giá một triển vọng không chắc chắn, cơ chế tâm lý nào chi phối việc gán các trọng số ban đầu?",
+      "options": [
+        "Sự phân tích logic toàn diện do Hệ thống 2 kiểm soát một cách kỹ lưỡng.",
+        "Quá trình tính toán xác suất toán học thuần túy dựa trên lý thuyết kỳ vọng.",
+        "Đánh giá trực giác tự động và vô thức được quyết định bởi Hệ thống 1.",
+        "Sự cân nhắc lý trí có ý thức về mọi hệ quả lợi ích kinh tế tiềm ẩn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Theo Kahneman, Hệ thống 1 hoạt động tự động, nhanh chóng và vô thức, tự động gán trọng số cho các đặc tính hoặc kết quả mà con người không cần ý thức được quá trình đó."
+    },
+    {
+      "id": "q2",
+      "question": "Vì sao việc gia tăng xác suất chiến thắng từ 0% lên 5% lại tạo ra tác động tâm lý mạnh mẽ hơn nhiều so với việc tăng từ 5% lên 10%?",
+      "options": [
+        "Vì bộ não con người luôn tính toán chính xác giá trị kỳ vọng toán học thực tế.",
+        "Vì mức tăng từ 5 lên 10 phần trăm vi phạm hoàn toàn quy tắc kỳ vọng cơ bản.",
+        "Vì mức tăng từ 0 lên 5 phần trăm tạo ra một sự thay đổi về chất tức là niềm hy vọng.",
+        "Vì Hệ thống 2 can thiệp kịp thời để nhân đôi giá trị phần thưởng nhận được."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hiệu ứng xác suất thể hiện rõ khi chuyển từ hoàn toàn không có cơ may (0%) sang có một chút cơ may (5%), tạo ra hy vọng và thay đổi về chất, trong khi từ 5% lên 10% chỉ là cải thiện về lượng."
+    },
+    {
+      "id": "q3",
+      "question": "Trong tình huống vụ kiện pháp lý với 95% cơ may thắng kiện, tại sao nguyên đơn thường có xu hướng chấp nhận một khoản dàn xếp thấp hơn giá trị dự tính?",
+      "options": [
+        "Do họ bị chi phối mạnh mẽ bởi hiệu ứng chắc chắn và ác cảm với rủi ro mất mát.",
+        "Do họ muốn thử thách năng lực phán quyết của hệ thống tư pháp tòa án dân sự.",
+        "Do họ sử dụng tư duy phân tích của Hệ thống 2 để tối ưu hóa lợi ích tài chính.",
+        "Do họ kỳ vọng vào một kết quả tuyệt đối chắc chắn từ phía hội đồng xét xử."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ở ô trên cùng bên trái của mô hình bốn phần, xác suất cao (hiệu ứng chắc chắn) kích hoạt sự ác cảm rủi ro, khiến người ta sợ thất vọng và dễ chấp nhận một sự dàn xếp chắc chắn."
+    },
+    {
+      "id": "q4",
+      "question": "Hiện tượng nào giải thích cho việc các công ty bảo hiểm và vé số đều thu lợi nhuận khủng khiếp từ hành vi của khách hàng?",
+      "options": [
+        "Hiệu ứng xác suất ở mức thấp và hiệu ứng chắc chắn ở mức cao trong quyết định.",
+        "Sự tuân thủ tuyệt đối các nguyên tắc toán học của lý thuyết lợi ích dự tính.",
+        "Sự tính toán sai lầm có chủ ý của Hệ thống 2 trong việc đánh giá tỷ suất nền.",
+        "Tác động của định kiến nhận thức bắt nguồn từ quy luật số nhỏ trong thống kê."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hiệu ứng xác suất (đánh giá quá cao xác suất nhỏ) làm vé số hấp dẫn, còn hiệu ứng chắc chắn (mua sự an tâm khỏi thảm họa) khiến người ta sẵn sàng mua bảo hiểm giá cao."
+    },
+    {
+      "id": "q5",
+      "question": "Nghịch lý Allais kinh điển đã chỉ ra điều gì về hành vi lựa chọn của con người, ngay cả với các chuyên gia kinh tế hàng đầu?",
+      "options": [
+        "Các lựa chọn thực tế của con người thường vi phạm lý thuyết lợi ích dự tính.",
+        "Con người luôn tuân thủ tuyệt đối các tiên đề lựa chọn dựa trên lý trí.",
+        "Hệ thống 2 luôn kiểm soát hoàn toàn các quyết định tài chính mang tính rủi ro.",
+        "Giá trị kỳ vọng toán học là thước đo chính xác duy nhất cho hành vi con người."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nghịch lý Allais chứng minh rằng ngay cả những nhà kinh tế học lỗi lạc cũng vi phạm lý thuyết lợi ích dự tính do tác động của hiệu ứng chắc chắn trong cấu trúc lựa chọn."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao Amos Tversky gọi những nhà lý luận tìm cách hợp lý hóa các vi phạm lý thuyết lợi ích dự tính là 'các vị trạng sư của sai lầm'?",
+      "options": [
+        "Vì họ cố gắng bảo vệ quan điểm cho rằng con người luôn hành xử hoàn toàn lý trí.",
+        "Vì họ trực tiếp tham gia vào các vụ kiện tụng pháp lý dân sự tại các tòa án lớn.",
+        "Vì họ đã phát hiện ra mô hình bốn phần trước khi Kahneman và Tversky công bố.",
+        "Vì họ chứng minh được rằng Hệ thống 1 không hề tồn tại trong tâm lý học nhận thức."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tversky dùng từ châm biếm này để chỉ trích các nhà lý luận cố gắng biện minh cho tính hợp lý của con người thay vì xây dựng một lý thuyết tâm lý thực tế dựa trên hành vi phi lý."
+    },
+    {
+      "id": "q7",
+      "question": "Theo lý thuyết viễn cảnh và bảng trọng số quyết định, khoảng xác suất từ 5% đến 95% có đặc điểm tâm lý như thế nào?",
+      "options": [
+        "Được phản ánh bằng một khoảng trọng số quyết định cực kỳ rộng lớn và chi tiết.",
+        "Gắn liền với độ nhạy không tương xứng và khoảng trọng số quyết định bị thu hẹp.",
+        "Tuân thủ hoàn toàn theo đúng các tiên đề toán học của lý thuyết kỳ vọng cơ bản.",
+        "Hoàn toàn bị con người bỏ qua do sự giới hạn của năng lực xử lý thông tin."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoảng xác suất giữa 5% và 95% chỉ tương ứng với một khoảng trọng số quyết định hẹp hơn nhiều (từ 13.2 đến 79.3), cho thấy độ nhạy kém của con người với các xác suất ở giữa."
+    },
+    {
+      "id": "q8",
+      "question": "Tại sao các bậc cha mẹ sẵn sàng chi trả số tiền lớn hơn gấp nhiều lần để loại bỏ hoàn toàn rủi ro nhiễm độc so với việc chỉ giảm bớt một phần rủi ro?",
+      "options": [
+        "Vì họ áp dụng tư duy logic chặt chẽ của Hệ thống 2 để giải quyết vấn đề sức khỏe.",
+        "Vì họ tính toán chính xác giá trị kinh tế dài hạn của việc bảo vệ sức khỏe trẻ em.",
+        "Vì họ bị chi phối bởi hiệu ứng mỏ neo từ mức giá khởi điểm của bình xịt côn trùng.",
+        "Vì họ muốn loại bỏ hoàn toàn nỗi lo âu và mua sự yên ổn tuyệt đối trong tâm hồn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Việc loại bỏ hoàn toàn rủi ro đáp ứng nhu cầu xóa bỏ hoàn toàn nỗi lo âu tâm lý, phù hợp với hiệu ứng chắc chắn và tâm lý tìm kiếm sự yên ổn trong đầu óc."
+    },
+    {
+      "id": "q9",
+      "question": "Trong mô hình bốn phần, ô ở góc trên bên phải (Xác suất cao kết hợp với tổn thất) thường dẫn đến hiện tượng tâm lý nào?",
+      "options": [
+        "Ác cảm rủi ro tuyệt đối, luôn sẵn sàng chấp nhận các giải pháp dàn xếp bất lợi.",
+        "Loại bỏ hoàn toàn mọi rủi ro bằng cách mua các hợp đồng bảo hiểm giá cao.",
+        "Bình tĩnh phân tích logic dữ liệu để tối ưu hóa các khoản chi phí bồi thường.",
+        "Tìm kiếm rủi ro, sẵn sàng chơi canh bạc liều lĩnh để hy vọng tránh tổn thất lớn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ở ô trên cùng bên phải, đối mặt với tổn thất xác suất cao, con người tìm kiếm rủi ro, thà đánh bạc hy vọng tránh tổn thất lớn còn hơn chấp nhận thua lỗ chắc chắn."
+    },
+    {
+      "id": "q10",
+      "question": "Hành vi của bên bị trong một vụ kiện dân sự khi họ đang thua kiện (thuộc ô trên cùng bên phải) thường phản ánh điều gì?",
+      "options": [
+        "Sự sẵn sàng chấp nhận mọi điều kiện dàn xếp do nguyên đơn đưa ra ngay lập tức.",
+        "Sự áp dụng hiệu ứng mỏ neo để hạ thấp giá trị yêu sách bồi thường ban đầu.",
+        "Quá trình tư duy lý trí nhằm giảm thiểu tối đa các tổn thất tài chính ngắn hạn.",
+        "Xu hướng tìm kiếm rủi ro, kéo dài vụ kiện và hy vọng vào một phép màu ở tòa án."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bên bị ở thế yếu và đối mặt với tổn thất chắc chắn sẽ tìm kiếm rủi ro, từ chối dàn xếp bất lợi và cố kéo dài vụ kiện với hy vọng mong manh lật ngược tình thế."
+    },
+    {
+      "id": "q11",
+      "question": "Hiện tượng 'vụ kiện tụng nhẹ dạ' (nguyên đơn yếu thế đệ trình yêu sách lớn) trong mô hình bốn phần minh họa cho nguyên lý tâm lý nào?",
+      "options": [
+        "Sự đánh giá thấp rủi ro nhờ vào việc áp dụng chính xác quy luật số lớn.",
+        "Sự kiểm soát tuyệt đối của Hệ thống 2 đối với các quyết định tranh chấp pháp lý.",
+        "Hiệu ứng xác suất khiến nguyên đơn liều lĩnh xem yêu sách như một vé xổ số.",
+        "Hiệu ứng mỏ neo chi phối hoàn toàn quá trình đàm phán mức bồi thường dân sự."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nguyên đơn với yêu sách nhẹ dạ nằm ở ô dưới bên trái, nơi hiệu ứng xác suất biến cơ hội nhỏ thành vé số, khiến họ liều lĩnh và kiên quyết theo đuổi yêu cầu viển vông."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao việc các tổ chức lớn liên tục nhượng bộ hoặc theo đuổi các quyết định sai lệch khỏi giá trị kỳ vọng lại gây hậu quả tài chính nặng nề?",
+      "options": [
+        "Vì các tổ chức không bao giờ sử dụng hệ thống máy tính để tính toán giá trị dự tính.",
+        "Vì những sai lệch có hệ thống do trực giác chi phối sẽ tích lũy thành tổn thất lớn theo thời gian.",
+        "Vì thị trường tài chính luôn phạt nặng những hành vi tuân thủ lý thuyết viễn cảnh.",
+        "Vì Hệ thống 2 của các nhà quản lý hoạt động quá chậm chạp trong các cuộc đàm phán."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi xét về lâu dài qua nhiều quyết định lặp lại, việc liên tục đặt trọng số quá mức vào kết quả không chắc chắn sẽ dẫn đến những tổn thất tài chính khổng lồ cho tổ chức."
+    },
+    {
+      "id": "q13",
+      "question": "Phát biểu nào sau đây phản ánh chính xác nhất tinh thần cốt lõi của mô hình bốn phần do Kahneman và Tversky đúc kết?",
+      "options": [
+        "Con người luôn đưa ra các quyết định kinh tế dựa trên giá trị kỳ vọng toán học.",
+        "Thái độ rủi ro phụ thuộc vào việc kết quả là lợi ích hay tổn thất cùng mức xác suất.",
+        "Hệ thống 2 luôn đóng vai trò chủ đạo trong việc định hình các trọng số quyết định.",
+        "Hiệu ứng chắc chắn chỉ xuất hiện duy nhất trong phạm vi ảnh hưởng của các tổn thất."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mô hình bốn phần cho thấy thái độ đối với rủi ro (ác cảm hay tìm kiếm) đảo ngược tùy thuộc vào việc đó là miền lợi ích hay miền tổn thất, kết hợp với xác suất cao hay thấp."
+    },
+    {
+      "id": "q14",
+      "question": "Trong bối cảnh quản lý rủi ro doanh nghiệp, việc các nhà quản lý từ chối 'cắt lỗ' một dự án công nghệ cao đang thất bại bắt nguồn từ nguyên nhân tâm lý nào?",
+      "options": [
+        "Quá trình phân tích số liệu tài chính khách quan và dài hạn do Hệ thống 2 thực hiện.",
+        "Sự kết hợp giữa độ nhạy giảm dần và hy vọng mong manh tránh tổn thất lớn ở ô trên bên phải.",
+        "Sự tuân thủ tuyệt đối các nguyên tắc của lý thuyết lợi ích dự tính do Von Neumann lập ra.",
+        "Hiệu ứng mỏ neo xuất phát từ khoản đầu tư ban đầu vào công nghệ mới của công ty."
+      ],
+      "correctIndex": 1,
+      "explanation": "Doanh nghiệp ở ô trên bên phải (tổn thất, xác suất cao) thể hiện tìm kiếm rủi ro, sợ thừa nhận thất bại và nuôi hy vọng mong manh lật ngược tình thế, dẫn đến thảm họa lớn hơn."
+    },
+    {
+      "id": "q15",
+      "question": "Khi đứng trước một nguy cơ cực kỳ nhỏ nhưng thảm khốc (như rò rỉ hạt nhân), phản ứng tâm lý thông thường của con người là gì?",
+      "options": [
+        "Hoàn toàn lờ đi vì xác suất xảy ra quá thấp theo đúng tính toán logic thống kê.",
+        "Đánh giá chính xác mức độ rủi ro nhờ sự can thiệp kịp thời của Hệ thống 2.",
+        "Trở nên quá lo lắng và áp đặt trọng số quyết định cực kỳ lớn vượt xa xác suất thực.",
+        "Chấp nhận rủi ro một cách bình thản tương tự như hành vi mua vé số giải thưởng lớn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Các biến cố vô cùng hiếm khi trở thành tiêu điểm chú ý sẽ bị đặt trọng số lớn vượt mức do hiệu ứng xác suất, khiến con người lo lắng bất chấp xác suất thực tế rất nhỏ."
+    }
+  ]
+}

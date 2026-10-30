@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_12_Khoa_hoc_cua_tinh_san_co",
+  "chapterTitle": "Chương 12. Khoa học của tính sẵn có",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi con người muốn ước lượng tần số xuất hiện của một phạm trù trong thực tế, cơ chế tự động nào của bộ não thường được Hệ thống 1 kích hoạt đầu tiên?",
+      "options": [
+        "Thống kê toàn bộ dữ liệu lịch sử lưu trong trí nhớ dài hạn để tính toán chính xác.",
+        "Phân tích logic các quy luật xác suất toán học thông qua sự can thiệp của Hệ thống 2.",
+        "Đánh giá tần số dựa trên mức độ dễ dàng và thuận lợi khi gọi các tình huống về trí nhớ.",
+        "Tìm kiếm các bằng chứng phủ định để kiểm tra tính khách quan của phạm trù cần ước lượng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Theo Daniel Kahneman, phép suy nghiệm dựa trên giá trị sẵn có hoạt động bằng cách thay thế câu hỏi về tần số thực tế bằng ấn tượng về việc các tình huống hiện lên trong đầu dễ dàng đến mức nào. Hệ thống 1 luôn ưu tiên tính trôi chảy nhận thức thay vì tính toán xác suất."
+    },
+    {
+      "id": "q2",
+      "question": "Hiện tượng các cặp vợ chồng tự ước lượng tổng đóng góp của bản thân vào việc nhà (đổ rác, dọn dẹp...) cộng lại thường vượt quá 100% bắt nguồn từ nguyên nhân tâm lý nào?",
+      "options": [
+        "Ý thức ích kỷ muốn gian lận và chiếm đoạt công sức của người bạn đời trong gia đình.",
+        "Sự thiếu hụt toàn diện về năng lực ghi nhớ các sự kiện quá khứ của cả hai vợ chồng.",
+        "Sự can thiệp mạnh mẽ của Hệ thống 2 nhằm che đậy những sai sót trong phân bổ công việc.",
+        "Sự khác biệt về tính sẵn có khiến nỗ lực của bản thân luôn rõ ràng và dễ gợi nhớ hơn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Cả vợ và chồng đều dễ dàng nhớ lại những nỗ lực và sự hy sinh của chính mình hơn là của đối phương do tính sẵn có vượt trội của trải nghiệm cá nhân. Sự chênh lệch trong tính sẵn có này dẫn đến sai lệch đánh giá tần suất công sức."
+    },
+    {
+      "id": "q3",
+      "question": "Trong thí nghiệm của Norbert Schwarz khi yêu cầu sinh viên liệt kê 6 versus 12 tình huống thể hiện sự quyết đoán, kết quả nghịch đảo nào đã xảy ra đối với lòng tự trọng của họ?",
+      "options": [
+        "Nhóm liệt kê 12 tình huống tự đánh giá mình là người cực kỳ quyết đoán nhờ số lượng lớn.",
+        "Nhóm liệt kê 6 tình huống tự đánh giá mình thiếu quyết đoán vì số lượng ví dụ quá ít ỏi.",
+        "Nhóm liệt kê 12 tình huống tự đánh giá mình ít quyết đoán hơn nhóm chỉ liệt kê 6 tình huống.",
+        "Cả hai nhóm đều có mức độ đánh giá sự quyết đoán hoàn toàn tương đương nhau về mặt điểm số."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự nghịch biện xuất hiện do việc truy vấn 12 tình huống gặp nhiều khó khăn và mất đi sự liền mạch (tính trôi chảy thấp). Sự trải nghiệm khó khăn này khiến Hệ thống 1 kết luận rằng 'nếu tôi khó tìm ví dụ vậy thì tôi không phải là người quyết đoán'."
+    },
+    {
+      "id": "q4",
+      "question": "Yếu tố tâm lý cốt lõi nào đã chi phối mạnh mẽ nhất phán quyết của người tham gia trong các thí nghiệm yêu cầu liệt kê số lượng lớn các trường hợp hành vi?",
+      "options": [
+        "Con số định lượng thực tế các tình huống mà họ đã vất vả thu thập được từ bộ nhớ dài hạn.",
+        "Sự trải nghiệm về độ dễ dàng, trôi chảy và liền mạch khi các ví dụ hiện lên trong trí óc.",
+        "Mức độ quan tâm của họ đối với phần thưởng tài chính từ phía các nhà nghiên cứu tâm lý học.",
+        "Sự hướng dẫn chi tiết từ Hệ thống 2 trước khi họ bắt đầu thực hiện nhiệm vụ liệt kê."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trải nghiệm triệu hồi (tính trôi chảy hoặc sự liền mạch) đóng vai trò lấn át con số thực tế được gọi ra. Khi việc truy vấn trở nên khó khăn, con người tin vào cảm giác khó khăn đó hơn là số lượng ví dụ họ đã tìm thấy."
+    },
+    {
+      "id": "q5",
+      "question": "Khi các nhà nghiên cứu cung cấp một lời giải thích sai lệch ngoại biên (như nghe nhạc nền, màu nền màn hình) cho độ khó khi truy vấn thông tin, hiện tượng gì sẽ xảy ra?",
+      "options": [
+        "Người tham gia sẽ lập tức từ chối tham gia thí nghiệm vì nhận ra sự thao túng tâm lý rõ rệt.",
+        "Hiệu ứng suy nghiệm sẵn có bị phá vỡ và các phán quyết không còn bị chi phối bởi độ khó truy vấn.",
+        "Hệ thống 2 sẽ bị tê liệt hoàn toàn và nhường chỗ hoàn toàn cho sự dẫn dắt của Hệ thống 1.",
+        "Độ lệch nhận thức sẽ gia tăng gấp đôi do sự chồng chéo của nhiều nguồn kích thích cùng lúc."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi nguyên nhân của sự khó khăn (tính không sẵn có) được gán cho một yếu tố ngoại biên như âm nhạc hay màu sắc, người ta không còn dùng độ khó đó để phán xét bản thân nữa. Phép suy nghiệm 'không lý giải được tính không sẵn có' bị vô hiệu hóa."
+    },
+    {
+      "id": "q6",
+      "question": "Sự khác biệt nhận thức giữa nhóm sinh viên có tiền sử gia đình bị bệnh tim và nhóm không có tiền sử khi đánh giá rủi ro sức khỏe cho thấy điều gì về hoạt động nhận thức?",
+      "options": [
+        "Những người không có tiền sử bệnh tim luôn đưa ra các quyết định chính xác và khoa học hơn.",
+        "Những người có mối quan tâm sâu sắc ít bị chi phối bởi cảm giác trôi chảy hơn nhóm hờ hững.",
+        "Cả hai nhóm đều phản ứng hoàn toàn giống nhau trước mọi nhiệm vụ truy vấn thói quen sống.",
+        "Mức độ quan tâm cá nhân làm thay đổi hoàn toàn cách Hệ thống 1 và 2 tương tác với dữ liệu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhóm không có tiền sử hờ hững với công việc và rơi vào bẫy suy nghiệm sẵn có (tìm không ra hành vi nguy hiểm tức là mình an toàn). Ngược lại, nhóm có tiền sử quan tâm nghiêm túc hơn và tập trung sâu vào nội dung thay vì chỉ dựa vào cảm giác trôi chảy."
+    },
+    {
+      "id": "q7",
+      "question": "Trong những điều kiện nào sau đây, con người có xu hướng 'nhắm mắt đưa chân' và dễ rơi vào bẫy sai lệch của tính sẵn có nhất?",
+      "options": [
+        "Khi họ đang ở trạng thái tập trung cao độ, tỉnh táo và suy luận logic bằng Hệ thống 2.",
+        "Khi họ liên tục tự vấn bản thân và đặt ra những câu hỏi hoài nghi về trực giác ban đầu.",
+        "Khi họ đang bận rộn với một nhiệm vụ đòi hỏi nỗ lực trí tuệ tức thời cùng lúc đó.",
+        "Khi họ được cung cấp đầy đủ các số liệu thống kê khoa học và có nhiều thời gian suy xét."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi Hệ thống 2 bận rộn hoặc khi con người đang trong trạng thái tâm lý thoải mái, vui vẻ, họ có xu hướng lười suy nghĩ và phó mặc phán quyết cho Hệ thống 1, từ đó dễ dàng sa vào các sai lệch nhận thức."
+    },
+    {
+      "id": "q8",
+      "question": "Phát biểu nào sau đây diễn tả chính xác nhất mối quan hệ giữa Hệ thống 1 và sự hình thành các kỳ vọng trong bối cảnh nghiên cứu của Daniel Kahneman?",
+      "options": [
+        "Hệ thống 1 chỉ phản ứng thụ động với các kích thích bên ngoài mà không bao giờ tự tạo ra kỳ vọng.",
+        "Hệ thống 1 có khả năng thiết lập kỳ vọng tự động và sẽ cảm thấy ngạc nhiên khi kỳ vọng đó bị vi phạm.",
+        "Hệ thống 1 luôn yêu cầu sự tham gia chủ động của Hệ thống 2 để nhận diện các bất thường nhỏ nhất.",
+        "Hệ thống 1 loại bỏ hoàn toàn mọi cảm giác ngạc nhiên bằng cách vô hiệu hóa trí nhớ ngắn hạn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đặc trưng cơ bản của Hệ thống 1 là liên tục thiết lập các kỳ vọng về thế giới xung quanh và lập tức phản ứng bằng sự ngạc nhiên khi những kỳ vọng này bị xâm phạm, sau đó cố gắng tìm kiếm lý do giải thích cho sự ngạc nhiên đó."
+    },
+    {
+      "id": "q9",
+      "question": "Một người phụ nữ quyết định chọn đi tàu hỏa thay vì máy bay ngay sau khi đọc tin tức về một vụ tai nạn máy bay thảm khốc. Đây là biểu hiện của sai lệch nào?",
+      "options": [
+        "Sai lệch mang tính sẵn có do sự kiện nổi bật và gây xúc động mạnh mẽ dễ dàng gọi về trí nhớ.",
+        "Sai lệch do hiệu ứng mỏ neo xuất phát từ con số thống kê số lượng hành khách trên chuyến bay.",
+        "Sai lệch hồi quy về mức trung bình do sự thay đổi ngẫu nhiên của các xu hướng giao thông.",
+        "Sai lệch do quy luật số nhỏ khi cô ấy tự ý khái quát hóa một sự cố đơn lẻ thành quy luật chung."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vụ tai nạn máy bay thu hút truyền thông tạo ra một biến cố nổi bật và gây xúc động mạnh, làm gia tăng tạm thời tính sẵn có của tai nạn máy bay trong trí nhớ, khiến cô ấy thổi phồng rủi ro thực sự mặc dù rủi ro khách quan không thay đổi."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao việc nhận thức và hiểu rõ về phương pháp suy nghiệm dựa trên giá trị sẵn có lại có thể giúp cải thiện sự hòa hợp trong các dự án làm việc nhóm hoặc hôn nhân?",
+      "options": [
+        "Nó giúp triệt tiêu hoàn toàn mọi sự bất mãn và xung đột nảy sinh giữa các thành viên nhóm.",
+        "Nó ngăn cản hoàn toàn Hệ thống 1 hoạt động trong suốt quá trình giao tiếp xã hội hàng ngày.",
+        "Nó buộc mọi người phải chia đều chính xác 100% khối lượng công việc bằng văn bản pháp lý.",
+        "Nó giúp mỗi người nhận ra cảm giác 'mình làm nhiều hơn người khác' chỉ là sản phẩm của thiên kiến nhận thức."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hiểu rằng ai cũng có cảm giác mình đã đóng góp trên 100% (do tính sẵn có của nỗ lực cá nhân) giúp xoa dịu căng thẳng, giúp mỗi người thông cảm hơn và nhận ra rằng cảm giác ấm ức đó là hiện tượng tâm lý phổ biến của mọi thành viên."
+    },
+    {
+      "id": "q11",
+      "question": "Trong trường hợp một vị giáo sư yêu cầu sinh viên liệt kê các cách nâng cao chất lượng lớp học, nhóm phải liệt kê nhiều cách hơn lại đánh giá lớp học cao hơn. Lý do nhận thức là gì?",
+      "options": [
+        "Việc phải vất vả tìm kiếm nhiều giải pháp khiến sinh viên trải nghiệm sự khó khăn và từ đó đánh giá thấp lớp học.",
+        "Hệ thống 2 đã can thiệp mạnh mẽ để ép buộc sinh viên phải đưa ra các đánh giá mang tính khách quan nhất.",
+        "Các sinh viên này muốn làm vừa lòng giáo sư nên đã cố tình cho điểm cao hơn mức thực tế họ cảm nhận.",
+        "Quá trình vắt óc suy nghĩ nhiều cải tiến tạo ra ấn tượng rằng lớp học có rất nhiều khía cạnh tốt đẹp tiềm ẩn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đây là một kết quả nghịch đảo thú vị: khi sinh viên nỗ lực liệt kê nhiều cách cải thiện lớp học, sự khó khăn hoặc nội dung các ý tưởng tốt đẹp xuất hiện trong quá trình đó đã làm thay đổi ấn tượng tổng thể của họ về chất lượng lớp học theo chiều hướng tích cực."
+    },
+    {
+      "id": "q12",
+      "question": "Trạng thái tâm lý nào của con người làm gia tăng đáng kể khả năng mắc phải sai lệch do tính sẵn có theo các nghiên cứu được đề cập trong chương?",
+      "options": [
+        "Trạng thái tâm trạng tốt, cảm thấy vui vẻ hoặc khi điểm số niềm tin vào trực giác ở mức cao.",
+        "Trạng thái hoài nghi cực độ, luôn đặt câu hỏi phản biện đối với mọi thông tin thu nhận được.",
+        "Trạng thái mệt mỏi về thể chất nhưng đang duy trì sự kiểm soát chặt chẽ của Hệ thống 2.",
+        "Trạng thái phân tích số liệu thống kê chi tiết trong một môi trường làm việc áp lực cao."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi có tâm trạng tốt hoặc có niềm tin cao vào trực giác, con người thường lơi lỏng sự cảnh giác của Hệ thống 2 và phó mặc các phán quyết cho sự dẫn dắt cảm tính, nhanh chóng của Hệ thống 1."
+    },
+    {
+      "id": "q13",
+      "question": "Phát biểu nào sau đây tóm tắt đúng nhất tinh thần cảnh giác chống lại các sai lệch nhận thức mà Daniel Kahneman đề xuất?",
+      "options": [
+        "Việc kiểm soát bản thân trước các sai lệch rất khó khăn nhưng hoàn toàn khả thi nếu ta chủ động đặt câu hỏi nghi vấn.",
+        "Con người có thể hoàn toàn loại bỏ mọi thiên kiến nhận thức nếu luyện tập thiền định mỗi ngày dưới góc độ kinh tế học hành vi.",
+        "Không thể làm gì để chống lại các sai lệch vì chúng được lập trình cố định trong gen di truyền từ thời tiền sử.",
+        "Chỉ có các chuyên gia kinh tế học hành vi mới có đủ khả năng miễn nhiễm hoàn toàn trước sai lệch sẵn có dưới góc độ kinh tế học hành vi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khác với nhiều sai lệch khác mà Kahneman tỏ bi quan, ông thừa nhận việc kiểm soát sai lệch tính sẵn có là một ngoại lệ khả thi. Bằng cách chủ động nhận diện tình huống và tự vấn ấn tượng trực giác, chúng ta có thể làm suy yếu sai lệch."
+    },
+    {
+      "id": "q14",
+      "question": "Trích dẫn nổi tiếng của George W. Bush: 'Tôi không tốn quá nhiều thời gian vào việc tiến hành các cuộc thăm dò... Tôi chỉ vừa mới biết được rằng tôi cảm thấy thế nào' phản ánh điều gì về tư duy ra quyết định?",
+      "options": [
+        "Sự tôn trọng tuyệt đối đối với các phương pháp nghiên cứu định lượng và khảo sát khoa học hiện đại.",
+        "Sự cân nhắc kỹ lưỡng giữa các bằng chứng thực tế và ý kiến phản biện từ nhiều chuyên gia độc lập.",
+        "Sự phụ thuộc hoàn toàn vào cảm giác chủ quan và trực giác cá nhân do Hệ thống 1 cung cấp.",
+        "Quá trình phân tích logic và chậm rãi của Hệ thống 2 nhằm tối ưu hóa lợi ích quốc gia."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trích dẫn này minh họa rõ nét cho thái độ phụ thuộc hoàn toàn vào trực giác và cảm giác cá nhân (Hệ thống 1) thay vì tìm kiếm các dữ liệu khách quan hay thăm dò thực tế, điều mà các tác giả cảnh báo là một phần tính cách dễ dẫn đến sai lầm."
+    },
+    {
+      "id": "q15",
+      "question": "Theo góc nhìn của tâm lý học nhận thức, tại sao việc cố gắng nhớ lại quá nhiều chi tiết hoặc ví dụ trong một thời gian ngắn thường dẫn đến những kết luận sai lầm về năng lực bản thân?",
+      "options": [
+        "Vì sự suy giảm độ liền mạch đột ngột khiến bộ não diễn giải sự khó khăn đó thành sự thiếu hụt năng lực.",
+        "Vì bộ nhớ con người có dung lượng lưu trữ vô hạn nhưng tốc độ truy xuất lại cực kỳ chậm chạp.",
+        "Vì Hệ thống 2 cố tình bóp méo kết quả để bảo vệ cái tôi khỏi những tổn thương tâm lý tiềm ẩn.",
+        "Vì các phương pháp thí nghiệm tâm lý luôn can thiệp và làm hỏng cấu trúc tự nhiên của trí nhớ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi độ liền mạch giảm sút nhanh hơn kỳ vọng (việc truy xuất trở nên quá khó khăn), Hệ thống 1 hiểu nhầm sự khó khăn trong quá trình truy vấn thành sự vắng mặt của đặc điểm đó trong thực tế, dẫn đến kết luận sai lầm về bản thân."
+    }
+  ]
+}

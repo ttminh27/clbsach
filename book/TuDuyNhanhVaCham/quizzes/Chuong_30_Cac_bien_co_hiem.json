@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_30_Cac_bien_co_hiem",
+  "chapterTitle": "Chương 30: Các biến cố hiếm",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Tại sao một vị giáo sư kinh tế học hiểu biết rõ về rủi ro vẫn cảm thấy bất giác lo lắng và muốn lái xe né tránh việc đậu xe cạnh xe buýt sau các vụ đánh bom khủng bố?",
+      "options": [
+        "Vì Hệ thống 1 bị kích hoạt cảm xúc tự động và không thể rẽ hướng khác.",
+        "Vì Hệ thống 2 đã tính toán lại toàn bộ xác suất thống kê rất chuẩn xác.",
+        "Vì trải nghiệm thực tế trên đường phố đã lấn át hoàn toàn tư duy logic.",
+        "Vì phản ứng sinh lý của cơ thể hoàn toàn độc lập với nhận thức cá nhân."
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo Kahneman, Hệ thống 1 vận hành tự động, liên kết nhanh với các hình ảnh đe dọa do truyền thông cung cấp và tạo ra cảm xúc lo sợ mà Hệ thống 2 dù biết xác suất thấp cũng không thể lập tức dập tắt hay điều khiển Hệ thống 1 rẽ hướng."
+    },
+    {
+      "id": "q2",
+      "question": "Khi được hỏi về khả năng ứng viên của một đảng thứ ba đắc cử tổng thống, tại sao người ta thường có xu hướng đánh giá xác suất và đặt trọng số quyết định quá cao?",
+      "options": [
+        "Do trí nhớ vận hành theo chế độ xác nhận mặc định để tìm kiếm kịch bản đúng.",
+        "Do con người luôn có xu hướng kỳ vọng vào những điều mới mẻ và khác lạ.",
+        "Do Hệ thống 2 chủ động phóng đại dữ liệu để tạo ra sự thú vị khi dự đoán.",
+        "Do các phương tiện truyền thông luôn định hướng sai lệch nhận thức công chúng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống liên kết của trí não hoạt động trong chế độ xác nhận mặc định, cố gắng tìm kiếm các dấu hiệu và kịch bản hợp lý khiến biến cố mục tiêu xảy ra, dẫn đến sự đánh giá quá cao dựa trên tính trôi chảy nhận thức."
+    },
+    {
+      "id": "q3",
+      "question": "Trong thí nghiệm của Craig Fox về các đội bóng rổ NBA, tổng xác suất mà người hâm mộ gán cho 8 đội chiến thắng lại lên tới 240%. Hiện tượng này minh chứng cho điều gì về tư duy con người?",
+      "options": [
+        "Sự thiếu hụt kiến thức cơ bản về toán học xác suất thống kê của đám đông.",
+        "Sự tập trung quá mức vào biến cố mục tiêu và bỏ quên các lựa chọn thay thế.",
+        "Sự tác động mạnh mẽ của hiệu ứng mỏ neo từ các con số được cung cấp sẵn.",
+        "Sự lạc quan thái quá của người hâm mộ đối với các đội bóng mà họ yêu thích."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi đánh giá từng đội bóng riêng lẻ, trí não tập trung hoàn toàn vào kịch bản chiến thắng của đội đó trong khi các lựa chọn thay thế bị lu mờ, khiến tổng xác suất vượt quá 100% cho đến khi các lựa chọn được định rõ đầy đủ."
+    },
+    {
+      "id": "q4",
+      "question": "Khi nghiên cứu về tác động của kết quả mang tính cảm xúc (như bị điện giật hoặc nhận hoa hồng) đối với trọng số quyết định, các nhà nghiên cứu phát hiện điều gì?",
+      "options": [
+        "Trọng số quyết định trở nên nhạy bén hơn nhiều với các thay đổi xác suất.",
+        "Con người hoàn toàn mất khả năng ra quyết định khi đối mặt với cảm xúc mạnh.",
+        "Các kết quả dễ gây xúc động làm suy giảm độ nhạy bén của con người với xác suất.",
+        "Các trò may rủi tiền bạc luôn mang lại kết quả tâm lý tương tự như cảm xúc."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hình ảnh sinh động và kết quả mang tính cảm xúc nặng nề tạo ra phản ứng mạnh mẽ từ Hệ thống 1, làm lấn át và làm giảm độ nhạy bén của con người đối với các mức độ xác suất khác nhau."
+    },
+    {
+      "id": "q5",
+      "question": "Giả thuyết mới của Kahneman về việc 'thêm các chi tiết không liên quan nhưng sinh động' (như phong bì màu xanh chứa tiền) vào kết quả mang lại hệ quả gì?",
+      "options": [
+        "Làm tăng độ chính xác trong việc tính toán giá trị kỳ vọng của trò chơi.",
+        "Giúp loại bỏ hoàn toàn các thiên kiến nhận thức nhờ thông tin trực quan.",
+        "Kích hoạt Hệ thống 2 tham gia phân tích logic sâu hơn vào tình huống.",
+        "Làm giảm hơn nữa sự nhạy cảm của con người trước các biến đổi về xác suất."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chi tiết sinh động tạo ra hình ảnh phong phú trong đầu, khiến con người bám lấy hình ảnh đó và càng trở nên kém nhạy cảm hơn đối với sự khác biệt về xác suất (ví dụ giữa 21% và 84%)."
+    },
+    {
+      "id": "q6",
+      "question": "Hiện tượng 'mẫu thức bỏ quên' (denominator neglect) thể hiện rõ qua thí nghiệm lựa chọn giữa hai lọ bi đỏ và trắng giải thích điều gì về cách con người xử lý thông tin?",
+      "options": [
+        "Con người dễ bị thu hút bởi số lượng tuyệt đối của các yếu tố thuận lợi thay vì tỷ lệ.",
+        "Con người luôn tính toán rất kỹ lưỡng mẫu số chung nhỏ nhất trước khi ra quyết định.",
+        "Trí não ưu tiên sử dụng logic thống kê của Hệ thống 2 hơn là trực giác cảm tính.",
+        "Các con số lớn luôn làm suy giảm năng lực tư duy phản biện của mọi cá nhân."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mẫu thức bỏ quên xảy ra khi sự chú ý bị hút vào số lượng các kết quả thành công (ví dụ 8 viên bi đỏ thay vì 1 viên), khiến người ta bỏ quên mẫu số tổng thể và đánh giá sai xác suất thực tế."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao các chuyên gia tâm thần pháp y có xu hướng từ chối cho bệnh nhân xuất viện nhiều hơn khi rủi ro được mô tả dưới dạng tần suất ('10 trên 100 người') thay vì xác suất ('10%')?",
+      "options": [
+        "Vì định dạng xác suất mang lại cảm giác an toàn và được kiểm soát tốt hơn.",
+        "Vì các chuyên gia kém hiểu biết về toán học xác suất hơn người bình thường.",
+        "Vì định dạng tần suất gợi lên hình ảnh sinh động về một cá nhân cụ thể gặp rủi ro.",
+        "Vì quy định pháp lý bắt buộc họ phải tuân thủ nghiêm ngặt các con số tần suất."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dạng thức tần suất kích hoạt Hệ thống 1 bằng cách tạo ra hình ảnh trực quan về một cá nhân cụ thể phạm tội, trong khi dạng thức xác suất mang tính trừu tượng hơn và ít gây cảm giác đe dọa trực diện."
+    },
+    {
+      "id": "q8",
+      "question": "Trong bối cảnh truyền thông chính trị hoặc pháp lý, việc các bên cố tình lựa chọn cách diễn đạt rủi ro bằng tần suất thay vì xác suất nhằm mục đích gì?",
+      "options": [
+        "Giúp người nghe dễ dàng thực hiện các phép tính logic bằng Hệ thống 2.",
+        "Giảm thiểu tối đa các sai lệch nhận thức thường gặp trong quá trình ra quyết định.",
+        "Cung cấp thông tin minh bạch và trung thực nhất theo tiêu chuẩn khoa học.",
+        "Gieo rắc nỗi sợ hãi và thao túng trọng số quyết định của công chúng hoặc bồi thẩm đoàn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Các nhà vận động hoặc luật sư tận dụng sự khác biệt của dạng thức truyền đạt để kích thích hình ảnh sinh động, đẩy trọng số quyết định lên cao và đạt được mục đích gây áp lực tâm lý."
+    },
+    {
+      "id": "q9",
+      "question": "Sự khác biệt cốt lõi giữa 'lựa chọn dựa trên sự mô tả' và 'lựa chọn dựa trên trải nghiệm' đối với các biến cố hiếm là gì?",
+      "options": [
+        "Lựa chọn qua trải nghiệm kích hoạt Hệ thống 2 mạnh mẽ hơn so với mô tả bằng lời.",
+        "Lựa chọn qua mô tả luôn chính xác hơn, trong khi qua trải nghiệm dễ dẫn đến sai lầm.",
+        "Cả hai phương pháp đều mang lại kết quả đánh giá xác suất hoàn toàn giống nhau.",
+        "Lựa chọn qua mô tả thường đặt trọng số quá cao, trong khi qua trải nghiệm thường đặt trọng số thấp."
+      ],
+      "correctIndex": 3,
+      "explanation": "Do trong đời thực hoặc thí nghiệm trải nghiệm, nhiều người chưa từng thực sự đối mặt với biến cố hiếm nên họ thường đặt trọng số thấp cho chúng, ngược lại với sự mô tả rõ ràng."
+    },
+    {
+      "id": "q10",
+      "question": "Khi lựa chọn giữa hai đồng nghiệp dựa trên ấn tượng chung lâu năm, tại sao một biến cố hiếm (như một lần cư xử tệ) của một người ít có khả năng chi phối quyết định của bạn?",
+      "options": [
+        "Vì Hệ thống 1 tạo ra hình dung chung dựa trên các trải nghiệm phổ biến và gần đây.",
+        "Vì Hệ thống 2 đã can thiệp để loại bỏ hoàn toàn các ký ức tiêu cực đơn lẻ.",
+        "Vì con người luôn có xu hướng tha thứ và quên đi những lỗi lầm trong quá khứ.",
+        "Vì các biến cố hiếm không bao giờ tác động đến cảm xúc và thái độ của con người."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trừ khi biến cố hiếm nổi lên một cách tách biệt trong tâm trí, Hệ thống 1 sẽ tổng hợp các trải nghiệm thông thường thành một ấn tượng chung ổn định, khiến người ra quyết định thiên về tính chuẩn mực."
+    },
+    {
+      "id": "q11",
+      "question": "Phát biểu nào sau đây phản ánh đúng nhất cơ chế hoạt động của trí não khi con người phải đối mặt với việc đánh giá các biến cố hiếm xảy ra?",
+      "options": [
+        "Trí não luôn duy trì sự khách quan tuyệt đối nhờ sự giám sát chặt chẽ của Hệ thống 2.",
+        "Trí não dễ bị đánh giá quá cao và đặt trọng số quá mức nếu biến cố được mô tả sinh động.",
+        "Trí não hoàn toàn vô cảm trước các rủi ro có xác suất xuất hiện dưới mức một phần trăm.",
+        "Trí não chỉ ghi nhận thông tin thống kê chính xác khi có sự hỗ trợ của công cụ số."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kahneman chỉ ra rằng trí não con người không được thiết kế tối ưu để tiếp nhận các xác suất trừu tượng; các biến cố hiếm dễ bị đánh giá và đặt trọng số quá cao khi chúng mang tính sinh động."
+    },
+    {
+      "id": "q12",
+      "question": "Trong hoạt động quản trị rủi ro doanh nghiệp, việc các nhà đầu tư thường đánh giá thấp nguy cơ sụp đổ thị trường tài chính bắt nguồn từ nguyên nhân tâm lý nào?",
+      "options": [
+        "Họ đã trải nghiệm quá nhiều cuộc khủng hoảng nên trở nên vô cảm với rủi ro.",
+        "Họ luôn sử dụng mô hình toán học phức tạp để loại bỏ hoàn toàn cảm xúc.",
+        "Họ chưa từng trực tiếp trải nghiệm cuộc khủng hoảng đó trong quá khứ gần.",
+        "Họ bị chi phối bởi hiệu ứng mỏ neo từ các báo cáo tài chính hàng năm."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tương tự như hiện tượng trong lựa chọn dựa trên trải nghiệm, việc thiếu vắng trải nghiệm thực tế về một biến cố hiếm thảm khốc dẫn đến việc công chúng và giới đầu tư đặt trọng số quá thấp cho nó."
+    },
+    {
+      "id": "q13",
+      "question": "Để khắc phục thiên kiến đánh giá quá cao xác suất của một biến cố nguy hiểm đơn lẻ, giải pháp nhận thức nào phù hợp với tư tưởng của Kahneman?",
+      "options": [
+        "Tập trung toàn bộ sự chú ý vào kịch bản tồi tệ nhất để chuẩn bị tâm lý phòng thủ.",
+        "Thiết lập các lựa chọn loại trừ riêng biệt sao cho tổng xác suất đạt đúng 100%.",
+        "Dựa hoàn toàn vào trực giác cá nhân để cảm nhận mức độ nguy hiểm thực tế.",
+        "Lắng nghe các thông tin truyền thông giật gân để nắm bắt bức tranh toàn cảnh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thay vì tập trung đơn lẻ vào một biến cố (gây ra hiệu ứng phóng đại), việc đặt nó vào một tập hợp các lựa chọn loại trừ có tổng xác suất 100% sẽ buộc Hệ thống 2 cân đối lại phán đoán."
+    },
+    {
+      "id": "q14",
+      "question": "Hiện tượng nào giải thích tại sao công chúng sẵn sàng chi rất nhiều tiền mua vé số có xác suất trúng cực kỳ thấp, tương tự như tâm lý khi đối mặt với khủng bố?",
+      "options": [
+        "Sự tính toán khoa học về giá trị kỳ vọng mang lại lợi ích tài chính rõ ràng.",
+        "Sự cám dỗ từ phần thưởng lớn kích hoạt cảm xúc dễ chịu và lấn át lý trí.",
+        "Sự tác động của các quy định pháp luật thúc đẩy văn hóa trò chơi may rủi.",
+        "Sự thấu hiểu sâu sắc về xác suất toán học của đại đa số người chơi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Việc nghĩ đến giải thưởng lớn mang lại cảm xúc dễ chịu ngay lập tức, khiến con người đặt trọng số quá mức vào một biến cố có xác suất xảy ra cực kỳ thấp, tương tự cơ chế của nỗi sợ khủng bố."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học thực tiễn quan trọng nhất rút ra từ chương sách 'Các biến cố hiếm' đối với việc ra quyết định chiến lược là gì?",
+      "options": [
+        "Phải cẩn trọng trước cách thức thông tin được đóng khung và hình ảnh sinh động làm lệch trọng số quyết định.",
+        "Phải luôn tin tưởng tuyệt đối vào trực giác nhanh nhạy của Hệ thống 1 trong mọi tình huống theo cơ chế hoạt động của trí não.",
+        "Phải loại bỏ hoàn toàn cảm xúc ra khỏi đời sống cá nhân để đạt hiệu suất tối ưu dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Phải tập trung vào các sự kiện có xác suất cao và bỏ qua hoàn toàn các rủi ro dài hạn dưới góc độ kinh tế học hành vi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhà ra quyết định chiến lược cần nhận thức rõ cách thức khung thông tin, tần suất, và hình ảnh sinh động bóp méo trọng số quyết định để chủ động áp dụng tư duy kiểm soát nhằm tránh cạm bẫy."
+    }
+  ]
+}

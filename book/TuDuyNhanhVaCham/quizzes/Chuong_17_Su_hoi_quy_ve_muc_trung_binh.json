@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_17_Su_hoi_quy_ve_muc_trung_binh",
+  "chapterTitle": "Chương 17. Sự hồi quy về mức trung bình",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Trong thực nghiệm với các chỉ huy phi đội không lực Israel, tại sao vị chỉ huy dày dạn kinh nghiệm lại tin chắc rằng việc la mắng sĩ quan khi họ làm tệ mang lại hiệu quả tốt hơn là khen ngợi khi họ làm tốt?",
+      "options": [
+        "Vì ông ta cố tình ngụy biện để che giấu phong cách lãnh đạo độc đoán và bảo thủ vốn có của bản thân.",
+        "Vì Hệ thống 1 tự động gán ý nghĩa nhân quả cho các dao động ngẫu nhiên do hiện tượng hồi quy.",
+        "Vì các sĩ quan dự bị thực sự có tâm lý sợ hãi kỷ luật thép hơn là mong muốn nhận phần thưởng.",
+        "Vì ông ta thiếu hoàn toàn năng lực quan sát thực tế và phân tích tiến trình huấn luyện bay."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 1 luôn tự động tìm kiếm và gán các câu chuyện nhân quả cho mọi biến cố. Khi một sĩ quan bay cực kỳ xuất sắc (nhờ một phần may mắn), lần sau họ sẽ sa sút (hồi quy về mức trung bình), khiến việc khen ngợi bị 'trừng phạt' bởi kết quả kém đi. Ngược lại, khi họ bay tệ bất thường, lần sau họ sẽ khá hơn, khiến việc la mắng vô tình bị 'đền ơn' bởi sự tiến bộ tự nhiên đó."
+    },
+    {
+      "id": "q2",
+      "question": "Khi nhà tâm lý học tổ chức một trò chơi tung đồng xu vào vạch đích không nhìn thấy, kết quả cho thấy những người làm tốt nhất lần một thường kém đi ở lần hai, và ngược lại. Mục đích cốt lõi của bài tập này là gì?",
+      "options": [
+        "Minh họa rằng các dao động thành tích ngẫu nhiên tự tạo ra hiệu ứng hồi quy mà không cần tác động nhân quả.",
+        "Chứng minh rằng kỹ năng tung đồng xu của con người có thể được cải thiện nhanh chóng qua thực hành.",
+        "Đánh giá mức độ chính xác của thị giác và trí nhớ không gian dưới điều kiện thiếu thông tin phản hồi.",
+        "Làm bẽ mặt các sĩ quan chỉ huy cứng nhắc để họ dễ dàng tiếp thu các công thức đại số phức tạp."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tung đồng xu không nhìn là một tiến trình hoàn toàn ngẫu nhiên. Bài tập thực nghiệm này giúp trực quan hóa hiện tượng hồi quy về mức trung bình một cách thuyết phục, chứng minh rằng thành tích thay đổi thuần túy do các yếu tố ngẫu nhiên (may rủi) chứ không phụ thuộc vào lời khen hay lời quở trách."
+    },
+    {
+      "id": "q3",
+      "question": "Daniel Kahneman phát biểu một quy luật trớ trêu trong đời sống: 'Chúng ta thường bị trừng phạt bởi hành động tử tế và lại được đền ơn bởi hành động cáu bẳn.' Cơ chế tâm lý nhận thức nào giải thích chính xác nhất hiện tượng này?",
+      "options": [
+        "Hiệu ứngào cản tâm lý khiến con người có xu hướng phản ứng ngược lại với sự quan tâm chân thành nhằm nâng cao chất lượng ra quyết định.",
+        "Sự tác động mạnh mẽ của ác cảm mất mát khiến mọi lời khen ngợi bị bóp méo thành sự công kích dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Quy luật bảo toàn năng lượng của Hệ thống 2 khiến bộ não lười biếng trong việc duy trì thái độ ôn hòa theo cơ chế hoạt động của trí não.",
+        "Hiện tượng hồi quy về mức trung bình kết hợp với xu hướng đối xử tử tế khi người khác làm tốt và cáu bẳn khi họ làm tệ."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vì chúng ta thường khen ngợi (tử tế) khi ai đó đạt thành tích vượt trội và cáu bẳn khi họ làm tệ, mà thành tích vượt trội hay tệ hại thường chứa đựng yếu tố may rủi cao, nên lần sau họ sẽ hồi quy về mức trung bình. Kết quả là hành động tử tế của ta đi liền với sự sa sút (như thể bị phạt), còn sự cáu bẳn đi liền với sự tiến bộ (như thể được thưởng)."
+    },
+    {
+      "id": "q4",
+      "question": "Trong phương trình thành công được đề xuất (Thành công = Tài năng + May mắn), nếu một tay gôn đạt điểm số xuất sắc bất thường vào ngày thi đấu đầu tiên, kết luận hợp lý nhất theo quan điểm thống kê là gì?",
+      "options": [
+        "Tay gôn đó hoàn toàn vượt trội về mặt kỹ năng chiến thuật so với tất cả các đối thủ còn lại trong giải đấu.",
+        "Tay gôn đó vừa sở hữu tài năng cao hơn mức trung bình vừa gặp được một lượng may mắn lớn trong ngày hôm đó.",
+        "Tay gôn đó chắc chắn sẽ duy trì được phong độ đỉnh cao này trong suốt các vòng thi đấu tiếp theo.",
+        "Tài năng của tay gôn đó chiếm đến chín mươi phần trăm tổng số điểm số đạt được trong ngày đầu tiên."
+      ],
+      "correctIndex": 1,
+      "explanation": "Một thành tích cực kỳ xuất sắc (hoặc cực kỳ tồi tệ) không thể chỉ giải thích bằng tài năng đơn thuần. Nó là sự kết hợp của tài năng thực tế cộng hoặc trừ đi yếu tố may mắn trong ngày hôm đó. Điểm số càng cao thì lượng may mắn đóng góp vào đó càng lớn."
+    },
+    {
+      "id": "q5",
+      "question": "Khi bạn phải dự đoán điểm số của một tay gôn vào ngày thứ hai sau khi đã biết kết quả xuất sắc của họ ở ngày thứ nhất, dự đoán nào là chuẩn xác nhất về mặt khoa học hành vi?",
+      "options": [
+        "Dự đoán họ sẽ giữ nguyên điểm số tuyệt vời như ngày đầu tiên vì phong độ đang ở đỉnh cao.",
+        "Dự đoán họ sẽ tiếp tục chơi tốt hơn mức trung bình nhưng khoảng cách sẽ thu hẹp lại gần mức trung bình hơn.",
+        "Dự đoán họ sẽ thất bại hoàn toàn và rơi xuống mức thấp nhất để bù lại sự may mắn ngày hôm trước.",
+        "Dự đoán họ sẽ đạt điểm số hoàn toàn ngẫu nhiên và không có mối liên hệ nào với ngày đầu tiên."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vì ta không thể dự đoán trước được yếu tố may mắn vào ngày thứ hai, phán đoán tốt nhất là họ vẫn có tài năng trên mức trung bình nhưng lượng may mắn sẽ không duy trì nguyên vẹn. Do đó, điểm số dự đoán sẽ hồi quy về mức trung bình, nghĩa là vẫn tốt nhưng kém hơn ngày thứ nhất."
+    },
+    {
+      "id": "q6",
+      "question": "Hiện tượng 'vận rủi Sports Illustrated' (vận động viên lên trang bìa tạp chí thường bị sa sút phong độ vào mùa giải tiếp theo) thực chất là biểu hiện của điều gì?",
+      "options": [
+        "Lời nguyền tâm lý và áp lực truyền thông khiến các vận động viên mất đi sự tập trung tối đa theo cơ chế hoạt động của trí não.",
+        "Sự kiêu ngạo và chủ quan sau khi đạt được những thành tựu vĩ đại trong sự nghiệp thể thao trong quá trình phán đoán và tư duy.",
+        "Sự thay đổi chiến thuật thi đấu của các đối thủ nhằm khắc chế triệt để ngôi sao vừa nổi tiếng nhằm nâng cao chất lượng ra quyết định.",
+        "Hiện tượng hồi quy về mức trung bình do mùa giải trước vận động viên đó đã đạt thành tích cực đỉnh nhờ sự trợ giúp của may mắn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Một vận động viên được chọn lên trang bìa tạp chí uy tín chắc chắn vì mùa giải trước họ đã thi đấu xuất sắc đỉnh cao, điều này luôn đòi hỏi sự hỗ trợ của một lượng may mắn lớn. Vì may mắn không kéo dài vĩnh viễn, mùa giải sau họ sẽ có xu hướng sa sút trở lại mức trung bình vốn có."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao Sir Francis Galton lại vô cùng ngạc nhiên khi phát hiện ra quy luật hồi quy về mức trung bình trong nghiên cứu về chiều cao di truyền của các thế hệ?",
+      "options": [
+        "Vì trí não con người mặc định tìm kiếm các nguyên nhân nhân quả thay vì chấp nhận các quy luật thống kê tự nhiên.",
+        "Vì ông tin rằng con cái của những bậc cha mẹ cao lớn sẽ luôn luôn có chiều cao vượt trội hơn hẳn.",
+        "Vì các dụng cụ đo lường thời đó chưa đủ độ chính xác để nhận diện sự thay đổi nhỏ về tầm thước.",
+        "Vì học thuyết tiến hóa của Darwin chưa từng đề cập đến sự biến đổi sinh học qua các thế hệ gia đình."
+      ],
+      "correctIndex": 0,
+      "explanation": "Galton ngạc nhiên bởi một quy luật thống kê rất bình thường vì bộ não con người vốn ưa chuộng các giải thích nhân quả trực diện. Sự hồi quy đòi hỏi một sự mô tả thống kê nhưng lại không cần một nguyên nhân tác động cụ thể, khiến cả những bộ óc vĩ đại cũng mất nhiều năm mới ngộ ra."
+    },
+    {
+      "id": "q8",
+      "question": "Phát biểu nào sau đây phản ánh chính xác mối quan hệ bản chất giữa 'hệ số tương quan' và 'hiện tượng hồi quy về mức trung bình' theo tư tưởng của Daniel Kahneman?",
+      "options": [
+        "Tương quan và hồi quy là hai hiện tượng tâm lý hoàn toàn độc lập và không có điểm chung nào về mặt toán học nhằm nâng cao chất lượng ra quyết định.",
+        "Hồi quy chỉ xảy ra khi hệ số tương quan giữa hai biến số đạt giá trị tuyệt đối bằng đúng một đơn vị dưới góc độ kinh tế học hành vi.",
+        "Hệ số tương quan và sự hồi quy thực chất chỉ là hai góc nhìn, hai cách biểu đạt khác nhau của cùng một thực tại toán học.",
+        "Sự tương quan đo lường mức độ nhân quả trong khi sự hồi quy chỉ đo lường các sai số ngẫu nhiên thuần túy nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Như Galton đã mất nhiều năm nghiên cứu để nhận ra, tương quan và hồi quy không phải là hai khái niệm khác biệt mà chỉ là hai phối cảnh (hai mặt) trên cùng một khái niệm thống kê. Bất cứ khi nào hệ số tương quan giữa hai điểm số không hoàn chỉnh (nhỏ hơn 1), chắc chắn sẽ xuất hiện hiện tượng hồi quy."
+    },
+    {
+      "id": "q9",
+      "question": "Ví dụ về việc 'những phụ nữ vô cùng thông minh có chiều hướng kết hôn với những người đàn ông kém thông minh hơn mình' chứng minh điều gì về tư duy của con người?",
+      "options": [
+        "Con người luôn sẵn sàng bịa đặt ra những câu chuyện xã hội phức tạp để lý giải một hệ quả thống kê đơn giản.",
+        "Phụ nữ thông minh thường có xu hướng áp đảo và tạo ra áp lực tâm lý lớn cho các bạn đời tiềm năng.",
+        "Xã hội hiện đại duy trì những định kiến giới tính sâu sắc trong việc lựa chọn đối tượng kết hôn lý tưởng.",
+        "Chỉ số thông minh của con người thay đổi đáng kể sau khi bước vào các mối quan hệ tình cảm lâu dài."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi nghe phát biểu trên, mọi người ngay lập tức bịa ra các lý giải nhân quả phức tạp (phụ nữ tránh sự ganh đua, nam giới sợ bị lấn át). Thực chất, đó chỉ là một hệ quả tất yếu về mặt đại số của mối tương quan không hoàn chỉnh giữa trí thông minh của vợ và chồng, hoàn toàn không cần bất kỳ nguyên nhân tâm lý xã hội nào để giải thích."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao nhà thống kê học David Freedman lại châm biếm rằng bên nào phải lý giải hiện tượng hồi quy trước tòa án sẽ là bên thua kiện?",
+      "options": [
+        "Vì các thẩm phán là những người thiếu trình độ học vấn cơ bản về toán học và xác suất thống kê.",
+        "Vì hệ thống pháp luật hiện hành không công nhận các bằng chứng dựa trên mô hình xác suất toán học.",
+        "Vì trí não con người cực kỳ khó thích nghi với thống kê và luôn đòi hỏi một nguyên nhân rõ ràng thay vì xác suất.",
+        "Vì hiện tượng hồi quy chỉ là một giả định lý thuyết không bao giờ xảy ra trong các tranh chấp thực tế."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trí não con người (cả Hệ thống 1 lẫn Hệ thống 2) rất khó khăn trong việc lĩnh hội các số liệu thống kê không có nguyên nhân nhân quả trực tiếp. Việc ép buộc một bên giải thích một hiện tượng dựa trên sự hồi quy thuần túy trước tòa án sẽ thất bại vì người nghe luôn khao khát một câu chuyện có nguyên nhân kết quả."
+    },
+    {
+      "id": "q11",
+      "question": "Trong ví dụ về 'trẻ bị suy nhược được điều trị bằng thức uống giàu năng lượng', tại sao việc trẻ khỏe mạnh hơn sau ba tháng không thể chứng minh tác dụng thực sự của thức uống đó nếu thiếu nhóm kiểm soát?",
+      "options": [
+        "Vì các thành phần hóa học trong thức uống năng lượng có thể gây ra những tác dụng phụ nguy hiểm cho trẻ nhỏ.",
+        "Vì những đứa trẻ suy nhược là một nhóm tối thiểu có xu hướng tự nhiên hồi quy về mức trung bình theo thời gian.",
+        "Vì thời gian ba tháng là quá ngắn để bất kỳ loại dưỡng chất nào kịp chuyển hóa vào cơ thể con người.",
+        "Vì cha mẹ của những đứa trẻ trong nhóm thử nghiệm đã chăm sóc chúng chu đáo hơn mức bình thường."
+      ],
+      "correctIndex": 1,
+      "explanation": "Những đứa trẻ được chọn vì chúng bị suy nhược nặng hơn mức trung bình (nhóm tối thiểu). Theo thời gian, sức khỏe của chúng chắc chắn sẽ hồi quy về mức trung bình (khỏe hơn lên) bất kể chúng uống thức uống tăng lực, ôm mèo hay không làm gì cả. Do đó, cần có nhóm kiểm soát để loại trừ hiệu ứng hồi quy này."
+    },
+    {
+      "id": "q12",
+      "question": "Khi nhà quản lý kinh doanh được yêu cầu dự đoán doanh số năm 2012 cho các cửa hàng dựa trên kết quả năm 2011 và mức tăng trưởng chung 10%, sai lầm phổ biến nhất của họ là gì?",
+      "options": [
+        "Tin tưởng hoàn toàn vào các yếu tố ngẫu nhiên và từ chối đưa ra bất kỳ con số dự đoán tài chính nào.",
+        "Áp dụng các mô hình kinh tế vĩ mô quá phức tạp và bỏ qua dữ liệu thực tế của từng cửa hàng riêng lẻ.",
+        "Cộng quá nhiều phần trăm vào các cửa hàng có doanh số thấp và trừ đi ở các cửa hàng có doanh số cao.",
+        "Cộng đều 10% cho tất cả các cửa hàng thay vì nhận ra rằng các cửa hàng có doanh số cực đoan sẽ có xu hướng hồi quy."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hầu hết mọi người sẽ áp dụng một tỷ lệ tăng trưởng đồng đều (như cộng 10%) cho mọi cửa hàng. Tuy nhiên, tư duy đúng đắn đòi hỏi phải hiểu về sự hồi quy: các cửa hàng có doanh số năm 2011 quá cao hoặc quá thấp thường mang yếu tố may rủi, do đó doanh số năm 2012 của chúng sẽ có xu hướng hồi quy về mức trung bình của toàn hệ thống."
+    },
+    {
+      "id": "q13",
+      "question": "Sự phối hợp giữa Hệ thống 1 và Hệ thống 2 diễn ra như thế nào đối với chủ đề 'hồi quy về mức trung bình' trong đời sống hàng ngày?",
+      "options": [
+        "Hệ thống 2 dễ dàng phát hiện ra hiện tượng hồi quy và lập tức sửa chữa những sai lầm cảm tính của Hệ thống 1 trong quá trình phán đoán và tư duy.",
+        "Cả hai hệ thống đều nhận diện sự hồi quy một cách bản năng ngay từ lần quan sát các dữ liệu thực tế đầu tiên theo cơ chế hoạt động của trí não.",
+        "Hệ thống 1 tự động thêu dệt các câu chuyện nhân quả, trong khi Hệ thống 2 lười biếng và thiếu công cụ để hiểu đúng về tương quan thống kê.",
+        "Hệ thống 1 hoạt động dựa trên logic xác suất chặt chẽ trong khi Hệ thống 2 chuyên gán ghép các cảm xúc chủ quan trong quá trình phán đoán và tư duy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hệ thống 1 luôn tự động tìm kiếm nguyên nhân nhân quả cho mọi biến cố mà nó chú ý đến. Hệ thống 2 thì lười biếng, thiếu các chỉ dẫn đặc biệt về thống kê, nên rất khó khăn để lĩnh hội mối quan hệ giữa tương quan và hồi quy, khiến con người liên tục mắc bẫy suy luận nhân quả sai lầm."
+    },
+    {
+      "id": "q14",
+      "question": "Một nhà đầu tư tài chính quan sát thấy một quỹ đầu tư đạt hiệu suất lợi nhuận đứng đầu thị trường trong năm ngoái, liền quyết định rót toàn bộ vốn vào quỹ này cho năm nay. Thiên kiến nhận thức nào đang chi phối quyết định này?",
+      "options": [
+        "Hiệu ứng mỏ neo, khi nhà đầu tư bị ám ảnh bởi con số lợi nhuận cao chót vót từ quá khứ khi đối mặt với các tình huống bất định.",
+        "Ác cảm mất mát, khiến họ không dám chấp nhận rủi ro ở các quỹ đầu tư có mức sinh lời thấp hơn dưới góc độ kinh tế học hành vi.",
+        "Sai lầm quy kết nhân quả vào hiện tượng hồi quy, khi xem thành tích đỉnh cao là do tài năng thuần túy thay vì may mắn.",
+        "Tính sẵn có, khiến họ dễ dàng truy xuất các thông tin tiêu cực về các quỹ đầu tư khác trên thị trường khi đối mặt với các tình huống bất định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hiệu suất đứng đầu thị trường năm ngoái chắc chắn có sự đóng góp lớn của may mắn (thời điểm thị trường thuận lợi). Theo quy luật hồi quy về mức trung bình, quỹ này năm sau sẽ có xu hướng sa sút trở lại mức bình thường. Nhà đầu tư đã sai lầm khi gán thành tích đó hoàn toàn cho tài năng quản lý của quỹ."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học thực tiễn quan trọng nhất mà Daniel Kahneman muốn truyền đạt qua toàn bộ Chương 17 về 'Sự hồi quy về mức trung bình' là gì?",
+      "options": [
+        "Phải luôn cẩn trọng trước các câu chuyện nhân quả hấp dẫn khi đánh giá thành tích và nhận thức rõ bẫy hồi quy thống kê.",
+        "Từ bỏ hoàn toàn mọi nỗ lực dự đoán tương lai vì mọi kết quả đều được định đoạt bởi sự ngẫu nhiên theo cơ chế hoạt động của trí não.",
+        "Luôn luôn áp dụng hình phạt nghiêm khắc thay vì khen thưởng để duy trì kỷ luật ổn định trong tổ chức trong quá trình phán đoán và tư duy.",
+        "Chỉ tin tưởng vào các chuyên gia lâu năm thay vì dựa vào các con số thống kê khô khan và phức tạp dưới góc độ kinh tế học hành vi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thông điệp cốt lõi của chương là con người luôn bị ám ảnh bởi các câu chuyện nhân quả để giải thích cho những biến động ngẫu nhiên vốn tuân theo quy luật hồi quy về mức trung bình. Nhận thức được cái bẫy này giúp chúng ta đưa ra các quyết định quản lý, đánh giá nhân sự và nhận định thực tế tỉnh táo, khách quan hơn."
+    }
+  ]
+}

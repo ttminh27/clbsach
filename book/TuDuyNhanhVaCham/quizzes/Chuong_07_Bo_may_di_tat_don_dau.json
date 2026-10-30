@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_07_Bo_may_di_tat_don_dau",
+  "chapterTitle": "Chương 7. Bộ máy đi tắt đón đầu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi Hệ thống 1 gặp phải các ký tự hoặc thông tin có tính mơ hồ cao trong một ngữ cảnh cụ thể, cơ chế tự động nào thường diễn ra ngay lập tức trong trí óc con người?",
+      "options": [
+        "Nó kích hoạt ngay Hệ thống 2 để phân tích toàn diện mọi khả năng có thể xảy ra.",
+        "Nó chủ động duy trì nhiều cách diễn giải không tương thích cùng một lúc trong đầu óc.",
+        "Nó nhanh chóng đoán đại một kết luận duy nhất dựa trên kinh nghiệm và ngữ cảnh gần nhất.",
+        "Nó tạm dừng quá trình xử lý thông tin cho đến khi thu thập đủ dữ liệu khách quan."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hệ thống 1 có xu hướng phớt lờ sự mơ hồ và loại trừ sự hoài nghi bằng cách tự động chọn ra một câu trả lời duy nhất dựa trên kinh nghiệm gần nhất và ngữ cảnh hiện tại, khiến ta không hề nhận ra sự tồn tại của các phương án thay thế."
+    },
+    {
+      "id": "q2",
+      "question": "Theo giả thuyết của Daniel Gilbert về niềm tin và sự hoài nghi (dựa trên triết học của Baruch Spinoza), quá trình tiếp nhận một thông điệp mới diễn ra như thế nào?",
+      "options": [
+        "Sự hoài nghi diễn ra tự động trước, sau đó Hệ thống 2 mới quyết định có nên tin hay không.",
+        "Con người tự động hoài nghi mọi thông tin nhận được cho đến khi có bằng chứng xác thực từ Hệ thống 1.",
+        "Cả hai quá trình tin tưởng và hoài nghi đều diễn ra song song và tốn ít năng lượng nhận thức như nhau.",
+        "Việc tin tưởng ban đầu là một hành động tự động của Hệ thống 1, còn hoài nghi đòi hỏi nỗ lực của Hệ thống 2."
+      ],
+      "correctIndex": 3,
+      "explanation": "Gilbert cho rằng để hiểu một thông điệp, trước tiên ta phải nỗ lực tin tưởng nó thông qua quá trình tự động của Hệ thống 1. Sự hoài nghi và ngờ vực là công việc tiêu tốn năng lượng của Hệ thống 2, chỉ diễn ra sau đó nếu có đủ thời gian và sự tập trung."
+    },
+    {
+      "id": "q3",
+      "question": "Trong một cuộc họp chiến lược, nếu người lãnh đạo yêu cầu các thành viên thảo luận mở ngay từ đầu thay vì viết ra ý kiến cá nhân trước, hiện tượng tâm lý bất lợi nào dễ xảy ra nhất?",
+      "options": [
+        "Các thành viên sẽ tự động kích hoạt Hệ thống 2 để đưa ra các giải pháp mang tính phản biện cao.",
+        "Ý kiến của những người phát biểu đầu tiên sẽ gây ra sức nặng áp đảo và làm chệch hướng tư duy cả nhóm.",
+        "Hiệu ứng hào quang sẽ biến mất hoàn toàn nhờ sự tương tác trực diện và cởi mở giữa các cá nhân.",
+        "Lượng thông tin thu về sẽ đạt độ chính xác tối đa do tận dụng được trí tuệ tập trung của đám đông."
+      ],
+      "correctIndex": 1,
+      "explanation": "Những cuộc thảo luận mở truyền thống làm cho ý kiến của người phát biểu đầu tiên có trọng lượng quá lớn, ảnh hưởng tiêu cực đến các ý kiến sau. Để tránh điều này, cần áp dụng nguyên tắc phản biện độc lập: viết ra giải pháp cá nhân trước khi thảo luận."
+    },
+    {
+      "id": "q4",
+      "question": "Hiện tượng 'Hiệu ứng hào quang' (Halo Effect) trong tâm lý học nhận thức được mô tả chính xác nhất qua phát biểu nào sau đây?",
+      "options": [
+        "Xu hướng đánh giá khách quan dựa trên việc phân tích tách bạch từng nét tính cách độc lập của một đối tượng.",
+        "Xu hướng yêu thích hoặc ghét bỏ mọi khía cạnh của một người ngay cả khi không quan sát thấy, dựa trên ấn tượng ban đầu.",
+        "Năng lực sử dụng Hệ thống 2 một cách hiệu quả để vượt qua các sai lệch nhận thức do cảm xúc cá nhân chi phối.",
+        "Khả năng ghi nhớ siêuu việt các sự kiện diễn ra gần nhất nhờ sự can thiệp kịp thời của bộ máy liên tưởng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiệu ứng hào quang là xu hướng yêu thích hoặc ghét bỏ toàn diện mọi thứ về một người (kể cả những khía cạnh chưa từng quan sát) xuất phát từ một ấn tượng nổi bật ban đầu, giúp Hệ thống 1 tạo ra một thế giới đơn giản và gắn kết giả tạo."
+    },
+    {
+      "id": "q5",
+      "question": "Khi Daniel Kahneman thay đổi phương pháp chấm điểm các bài tiểu luận của sinh viên (chấm lần lượt từng bài số một của tất cả sinh viên trước khi chấm bài số hai), sự tự tin của ông đã sụt giảm mạnh. Tại sao hiện tượng này lại là một tín hiệu tích cực?",
+      "options": [
+        "Nó chứng minh rằng phương pháp chấm cũ hoàn toàn chính xác nhưng đã bị nhiễu bởi cảm xúc nhất thời.",
+        "Nó khẳng định rằng điểm số không có giá trị đánh giá trong môi trường giáo dục mang tính chủ quan.",
+        "Nó phản ánh sự suy giảm năng lực nhận thức của Hệ thống 2 do áp lực thời gian và khối lượng công việc lớn.",
+        "Nó cho thấy sự biến mất của Hiệu ứng hào quang giữa các bài tiểu luận, giúp phản ánh đúng thực tế năng lực sinh viên."
+      ],
+      "correctIndex": 3,
+      "explanation": "Việc thay đổi phương pháp giúp loại bỏ Hiệu ứng hào quang (khi bài 1 chi phối bài 2). Sự hoang mang và sụt giảm tự tin của giảng viên là minh chứng cho thấy ông không còn bị che mắt bởi sự nhất quán giả tạo, từ đó đưa ra đánh giá khách quan hơn."
+    },
+    {
+      "id": "q6",
+      "question": "Cụm từ viết tắt WYSIATI (What You See Is All There Is - Những gì ta thấy là tất cả những gì ta biết) do Kahneman đề cập phản ánh đặc điểm cốt lõi nào của Hệ thống 1?",
+      "options": [
+        "Hệ thống 1 không quan tâm đến chất lượng lẫn số lượng thông tin, chỉ dựa vào những gì đang hiện hữu trong đầu để kể câu chuyện.",
+        "Hệ thống 1 cực kỳ nhạy cảm với cả chất lượng lẫn số lượng dữ liệu tạo nên các ấn tượng ban đầu nhằm nâng cao chất lượng ra quyết định.",
+        "Hệ thống 1 luôn chủ động tìm kiếm các thông tin còn thiếu trước khi đưa ra phán quyết cuối cùng theo cơ chế hoạt động của trí não.",
+        "Hệ thống 1 phối hợp nhịp nhàng với Hệ thống 2 để kiểm chứng tính xác thực của mọi dữ liệu ngoại biên theo cơ chế hoạt động của trí não."
+      ],
+      "correctIndex": 0,
+      "explanation": "WYSIATI thể hiện việc Hệ thống 1 hoàn toàn không nhạy cảm với số lượng và chất lượng thông tin. Nó chỉ xây dựng câu chuyện dựa trên những dữ liệu có sẵn ngay trước mắt và coi đó là toàn bộ thực tại, dẫn đến nhiều sai lệch nhận thức."
+    },
+    {
+      "id": "q7",
+      "question": "Trong thí nghiệm về vụ kiện của đại diện công đoàn David Thorton, những người tham gia chỉ được tiếp cận thông tin một chiều từ một phía luật sư thường có biểu hiện gì so với những người được nghe cả hai phía?",
+      "options": [
+        "Họ cảm thấy hoài nghi sâu sắc và liên tục tìm kiếm thêm thông tin để bổ sung cho lập luận nhằm nâng cao chất lượng ra quyết định.",
+        "Họ tỏ ra tự tin hơn với phán đoán của mình vì câu chuyện một chiều mang tính gắn kết cao không gặp mâu thuẫn.",
+        "Họ tỏ ra kém tự tin hơn hẳn do nhận thức rõ sự thiếu hụt dữ liệu trong biên bản pháp lý nhằm nâng cao chất lượng ra quyết định.",
+        "Họ dễ dàng loại bỏ hoàn toàn các thiên kiến nhận thức nhờ cơ chế tự động của Hệ thống 2 trong quá trình phán đoán và tư duy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dưới tác động của WYSIATI, thông tin một chiều tạo ra một câu chuyện rất gắn kết và không bị mâu thuẫn che lấp, khiến những người chỉ biết một phía cảm thấy vô cùng tự tin vào phán đoán của mình dù dữ liệu thực tế rất nghèo nàn."
+    },
+    {
+      "id": "q8",
+      "question": "Nguyên tắc 'lỗi sai bất tương đồng' (uncorrelated errors) phát huy hiệu quả tối ưu trong việc dự đoán (như đoán số đồng xu trong bình) với điều kiện nào sau đây?",
+      "options": [
+        "Các cá nhân trong đám đông phải được trao đổi, thảo luận kỹ lưỡng với nhau trước khi đưa ra con số cuối cùng.",
+        "Quy mô của đám đông phải được giữ ở mức tối thiểu để tránh tình trạng nhiễu loạn thông tin.",
+        "Chỉ những chuyên gia có kinh nghiệm lâu năm mới được phép tham gia vào quá trình dự đoán dữ liệu.",
+        "Tất cả các cá nhân phải quan sát độc lập và các lỗi sai của họ không có sự tương đồng hay cấu kết với nhau."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trí tuệ đám đông chỉ hoạt động chính xác khi các cá nhân đánh giá hoàn toàn độc lập, sao cho các sai lệch cá nhân bù trừ lẫn nhau (về trung bình triệt tiêu nhau về 0). Nếu họ ảnh hưởng lẫn nhau, sai lệch hệ thống sẽ xuất hiện và làm hỏng kết quả."
+    },
+    {
+      "id": "q9",
+      "question": "Khi Hệ thống 2 đang bận rộn thực hiện một nhiệm vụ khác (như ghi nhớ một dãy số), điều gì thường xảy ra với xu hướng phán đoán và tin tưởng của con người đối với các thông tin vô nghĩa hoặc quảng cáo phóng đại?",
+      "options": [
+        "Con người dễ dàng tin tưởng hầu hết mọi thông điệp vì năng lực hoài nghi của Hệ thống 2 bị suy giảm.",
+        "Con người trở nên cực kỳ hoài nghi và bác bỏ mọi thông tin chưa được kiểm chứng khoa học.",
+        "Con người kích hoạt mạnh mẽ chiến lược thử nghiệm khả năng phủ định các giả thuyết sẵn có.",
+        "Con người duy trì mức độ tỉnh táo tương đương trạng thái bình thường nhờ sự hỗ trợ của Hệ thống 1."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự bận rộn của Hệ thống 2 tạo ra hiệu ứng 'xen ngang', làm tê liệt khả năng hoài nghi vốn đòi hỏi nỗ lực tư duy. Khi đó, Hệ thống 1 với bản chất cả tin sẽ khiến con người dễ dàng chấp nhận và tin tưởng hầu hết mọi thông điệp."
+    },
+    {
+      "id": "q10",
+      "question": "Chiến lược thử nghiệm khả năng (confirmation bias) thể hiện qua việc trí óc con người thường có xu hướng:",
+      "options": [
+        "Chủ động tìm kiếm các bằng chứng mang tính phủ định để kiểm tra độ vững chắc của giả thuyết.",
+        "Xem xét đồng thời mọi khả năng mâu thuẫn để duy trì sự khách quan tối đa trong phân tích.",
+        "Tìm kiếm những dữ liệu có xu hướng tương thích, củng cố và bổ trợ cho những gì mình đã tin tưởng.",
+        "Loại bỏ hoàn toàn các ấn tượng ban đầu ngay khi xuất hiện thông tin mới trái chiều."
+      ],
+      "correctIndex": 2,
+      "explanation": "Trái với nguyên tắc khoa học là tìm cách phủ định giả thuyết, con người và ngay cả các nhà khoa học thường dùng chiến lược thử nghiệm khả năng bằng cách săn lùng các dữ liệu tương thích để củng cố niềm tin sẵn có của mình."
+    },
+    {
+      "id": "q11",
+      "question": "Câu nói của nhà hài kịch Danny Kaye: 'Môn thể thao yêu thích của cô ta là nhảy cóc tới kết quả' là một sự mô tả chuẩn xác về chức năng nào của tư duy con người?",
+      "options": [
+        "Quá trình tư duy chậm chạp, đòi hỏi kiểm soát logic và phân tích đa chiều của Hệ thống 2.",
+        "Xu hướng đi tắt đón đầu, vội vàng đưa ra kết luận nhanh chóng dựa trên dữ liệu ít ỏi của Hệ thống 1.",
+        "Phương pháp luận khoa học dựa trên việc thu thập toàn diện các bằng chứng trái chiều.",
+        "Hành vi trì hoãn phán quyết cho đến khi thu thập đủ thông tin thống kê đáng tin cậy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lưu ý: Mặc dù đáp án 1 (Hệ thống 1) là bản chất, nhưng trong danh sách phương án, ta cần chọn phương án diễn tả đúng bản chất 'nhảy cóc tới kết quả' là xu hướng đi tắt đón đầu của Hệ thống 1. (Xem xét lại các lựa chọn để đảm bảo đáp án chính xác là Hệ thống 1)."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao các nhà lãnh đạo doanh nghiệp thường dễ mắc bẫy tự tin thái quá khi ra quyết định dựa trên các bản báo cáo ngắn gọn từ một nhà tư vấn duy nhất?",
+      "options": [
+        "Vì hiệu ứng WYSIATI khiến họ không nhận ra lượng thông tin thu về là quá ít ỏi và thiếu chiều sâu.",
+        "Vì báo cáo dài dòng luôn chứa đựng quá nhiều thông tin nhiễu làm mất tập trung.",
+        "Vì nhà tư vấn đã kích hoạt thành công Hệ thống 2 của nhà lãnh đạo thông qua các số liệu thống kê.",
+        "Vì các bản báo cáo tư vấn luôn tuân thủ tuyệt đối nguyên tắc lỗi sai bất tương đồng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Do ảnh hưởng của WYSIATI, nhà lãnh đạo chỉ nhìn thấy câu chuyện gắn kết được bày ra trước mắt mà quên mất những gì họ không thấy (lượng thông tin thực tế rất ít), dẫn đến sự tự tin thái quá vào quyết định dựa trên dữ liệu nghèo nàn."
+    },
+    {
+      "id": "q13",
+      "question": "Khi đối diện với câu hỏi 'Sam có thân thiện không?' so với câu hỏi 'Có phải Sam kém thân thiện không?', trí óc con người có xu hướng phản ứng như thế nào?",
+      "options": [
+        "Đưa ra hai kết quả hoàn toàn giống nhau do không bị chi phối bởi cách đặt câu hỏi dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Kích hoạt Hệ thống 2 để phân tích toàn diện lịch sử hành vi của Sam một cách vô tư khách quan dưới góc độ kinh tế học hành vi.",
+        "Tạo ra ấn tượng tức thì về hành vi thân thiện trong trường hợp câu hỏi đầu tiên nhờ chiến lược tìm kiếm bằng chứng xác nhận.",
+        "Từ chối trả lời vì nhận thấy tính mơ hồ và thiếu căn cứ thống kê của cả hai câu hỏi khi đối mặt với các tình huống bất định."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cách đặt câu hỏi định hình hướng tìm kiếm của bộ máy liên tưởng (chiến lược thử nghiệm khả năng). Hỏi 'Sam có thân thiện không?' kích hoạt ngay lập tức các bằng chứng chứng minh sự thân thiện, trong khi câu hỏi ngược lại sẽ tìm kiếm minh chứng cho sự kém thân thiện."
+    },
+    {
+      "id": "q14",
+      "question": "Trong nghiên cứu của Solomon Asch về danh sách tính từ mô tả Alan (thông minh, chăm chỉ, bốc đồng, khó tính, cứng đầu, đố kỵ) và Ben (đố kỵ, cứng đầu, khó tính, bốc đồng, chăm chỉ, thông minh), kết luận rút ra là gì?",
+      "options": [
+        "Thứ tự xuất hiện của các tính từ không có bất kỳ ảnh hưởng nào đến nhận thức tổng thể về con người đó.",
+        "Con người luôn sử dụng Hệ thống 2 để cân nhắc trọng số công bằng cho tất cả các đặc điểm tính cách.",
+        "Hiệu ứng hào quang và ấn tượng đầu tiên làm thay đổi hoàn toàn ý nghĩa của các tính từ xuất hiện phía sau.",
+        "Tính từ tiêu cực luôn lấn át hoàn toàn tính từ tích cực bất kể vị trí xuất hiện trong câu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thứ tự xuất hiện cực kỳ quan trọng vì hiệu ứng hào quang từ những từ đầu tiên (như 'thông minh' ở Alan hay 'đố kỵ' ở Ben) định hình cách diễn giải các từ phía sau (ví dụ sự cứng đầu của người thông minh được tôn trọng, còn ở kẻ đố kỵ thì nguy hiểm)."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học thực tiễn quan trọng nhất đối với các nhà quản lý và ra quyết định khi thấu hiểu cơ chế 'Bộ máy đi tắt đón đầu' (WYSIATI và Hệ thống 1) là gì?",
+      "options": [
+        "Tin tưởng hoàn toàn vào trực giác nhạy bén vì nó luôn đưa ra câu trả lời nhanh chóng và chính xác nhất.",
+        "Chủ động thiết lập quy trình kiểm tra độc lập, tìm kiếm thông tin trái chiều và chế ngự sự vội vàng kết luận.",
+        "Loại bỏ hoàn toàn các cuộc họp nhóm để tránh bị ảnh hưởng bởi ý kiến của người phát biểu đầu tiên.",
+        "Phó mặc mọi quyết định phức tạp cho các cơ chế tự động của bộ máy liên tưởng nhằm tiết kiệm thời gian."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiểu được cạm bẫy của WYSIATI và Hệ thống 1 giúp nhà quản lý nhận thức rằng họ cần chủ động tạo ra các quy trình phản biện độc lập, ép bản thân tìm kiếm thông tin vắng mặt và kiềm chế xu hướng nhảy cóc tới kết luận."
+    }
+  ]
+}

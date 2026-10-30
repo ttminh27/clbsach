@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_10_Quy_luat_so_nho",
+  "chapterTitle": "Chương 10. Quy luật số nhỏ",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi đọc báo cáo về tỷ lệ ung thư thận thấp tập trung ở các vùng nông thôn, Hệ thống 1 của con người thường lập tức sinh ra điều gì?",
+      "options": [
+        "Sự hoài nghi khoa học và yêu cầu kiểm định cỡ mẫu.",
+        "Mối liên kết nhân quả giả tạo về lối sống trong lành.",
+        "Phép tính toán học chính xác về phân phối xác suất.",
+        "Trạng thái phân tích logic của hệ thống nhận thức chậm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 1 tự động tìm kiếm mối liên kết nhân quả và tạo ra câu chuyện mạch lạc (như lối sống trong lành, không ô nhiễm), bỏ qua thực tế thống kê đơn thuần rằng các quận nhỏ có biến thiên lớn."
+    },
+    {
+      "id": "q2",
+      "question": "Hiện tượng con người dễ dàng tin tưởng vào các kết quả cực đoan từ các mẫu dữ liệu nhỏ phản ánh điều gì về cơ chế hoạt động của não bộ?",
+      "options": [
+        "Sự thấu hiểu sâu sắc về định luật số lớn của toán học.",
+        "Năng lực vượt trội trong việc phân tích các con số thống kê.",
+        "Khả năng duy trì sự hoài nghi cao độ của Hệ thống 2.",
+        "Sự ưu tiên tuyệt đối cho tính nhất quán hơn độ tin cậy."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hệ thống 1 có xu hướng thổi phồng tính nhất quán và sự cố kết của thông tin (WYSIATI), khiến chúng ta đánh đồng một mẫu nhỏ mang tính ngẫu nhiên thành một quy luật tất yếu."
+    },
+    {
+      "id": "q3",
+      "question": "Vì sao các nhà nghiên cứu tâm lý học lâu năm vẫn thường chọn kích cỡ mẫu quá nhỏ cho các thí nghiệm của họ?",
+      "options": [
+        "Do họ bị chi phối bởi trực giác sai lầm về phạm vi biến đổi.",
+        "Do họ chủ động chấp nhận rủi ro thất bại cao một cách có chủ ý.",
+        "Do các quy định ngặt nghèo của hội đồng đạo đức bắt buộc như vậy.",
+        "Do các công cụ tính toán thống kê hiện đại quá phức tạp để dùng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chính Kahneman và Amos Tversky đã phát hiện ra rằng ngay cả các nhà nghiên cứu lão luyện cũng có trực giác tồi tệ về chọn mẫu, tin vào 'quy luật số nhỏ' thay vì tính toán khoa học."
+    },
+    {
+      "id": "q4",
+      "question": "Trong thí nghiệm tung đồng xu hoặc chuỗi sinh con (như TTTGGG so với TGTTGT), tại sao con người lại coi chuỗi xen kẽ có khả năng xảy ra cao hơn?",
+      "options": [
+        "Vì xác suất toán học của chuỗi xen kẽ thực sự cao hơn hẳn.",
+        "Vì trí não luôn tìm kiếm các mẫu mực và quy tắc ngầm định.",
+        "Vì Hệ thống 2 đã kiểm soát hoàn toàn quá trình phán đoán.",
+        "Vì các sự kiện trong chuỗi này không tuân theo quy luật độc lập."
+      ],
+      "correctIndex": 1,
+      "explanation": "Con người là sinh vật đi tìm kiếm mẫu mực (pattern seekers), luôn nhầm lẫn tính ngẫu nhiên thực sự với một trật tự có chủ ý do tác động của Hệ thống 1."
+    },
+    {
+      "id": "q5",
+      "question": "Quyết định khuyên Không lực Israel đình chỉ cuộc điều tra phi đội mất tích trong chiến tranh của Kahneman dựa trên nguyên lý nào?",
+      "options": [
+        "Tác động tiêu cực của các yếu tố chính trị đối với chiến thuật bay.",
+        "Năng lực lãnh đạo xuất chúng của các sĩ quan cấp cao trong quân đội.",
+        "Sự khác biệt rõ rệt về kỹ năng chiến đấu giữa các phi đội khác nhau.",
+        "Sự biến thiên ngẫu nhiên không cần phải gán cho nguyên nhân nhân quả."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kahneman nhận ra rằng sự khác biệt về tổn thất giữa các phi đội có thể chỉ là sản phẩm của sự ngẫu nhiên (may rủi), việc tìm kiếm nguyên nhân nhân quả là vô ích và gây tổn hại tâm lý."
+    },
+    {
+      "id": "q6",
+      "question": "Nghiên cứu về 'tay ném cự phách' (hot hand) trong môn bóng rổ của Gilovich, Vallone và Amos đã chứng minh điều gì về tư duy con người?",
+      "options": [
+        "Các vận động viên chuyên nghiệp hoàn toàn không có kỹ năng ném bóng.",
+        "Con người luôn khao khát nhìn thấy trật tự và phong độ trong sự ngẫu nhiên.",
+        "Khán giả truyền hình có năng lực thống kê chính xác hơn huấn luyện viên.",
+        "Luật chơi bóng rổ hiện đại tạo ra sự ngẫu nhiên tuyệt đối trong mọi cú ném."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiện tượng 'tay ném cự phách' là một ảo tưởng nhận thức phổ quát; chuỗi các cú ném thành công thực tế thỏa mãn các bài kiểm tra thống kê về tính ngẫu nhiên nhưng khán giả vẫn áp đặt tư duy nhân quả."
+    },
+    {
+      "id": "q7",
+      "question": "Quỹ Gates đã đầu tư mạnh mẽ vào việc chia tách các trường lớn thành trường nhỏ dựa trên giả định sai lầm nào?",
+      "options": [
+        "Sự thấu hiểu tường tận về các báo cáo kiểm định chất lượng giáo dục.",
+        "Nhầm lẫn giữa kết quả cực đoan của mẫu nhỏ với chất lượng giáo dục.",
+        "Năng lực phân tích dữ liệu thống kê cực kỳ xuất sắc của các nhà tài trợ.",
+        "Sự đồng thuận tuyệt đối từ tất cả các chuyên gia dịch tễ học hàng đầu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Quỹ Gates sa bẫy khi cho rằng các trường nhỏ tốt hơn vì chúng nằm trong nhóm thành tích cao, trong khi thực tế các trường nhỏ chỉ đơn thuần có độ biến thiên lớn hơn (cả trường tốt nhất lẫn tồi nhất đều nằm ở nhóm nhỏ)."
+    },
+    {
+      "id": "q8",
+      "question": "Nguyên tắc WYSIATI (Những gì bạn thấy là tất cả những gì có) đóng vai trò như thế nào trong việc con người tin vào quy luật số nhỏ?",
+      "options": [
+        "Nó loại bỏ hoàn toàn mọi thiên kiến nhận thức trong quá trình ra quyết định.",
+        "Nó bắt buộc Hệ thống 2 phải thực hiện các phép tính xác suất phức tạp.",
+        "Nó thúc đẩy Hệ thống 1 dựng lên câu chuyện liền mạch bỏ qua độ tin cậy.",
+        "Nó giúp con người luôn nghi ngờ tính chính xác của các mẫu dữ liệu."
+      ],
+      "correctIndex": 2,
+      "explanation": "WYSIATI khiến Hệ thống 1 chỉ tập trung vào câu chuyện trước mắt (nội dung thông điệp) mà hoàn toàn phớt lờ thông tin về quy mô mẫu hay mức độ đáng tin cậy của nguồn tin."
+    },
+    {
+      "id": "q9",
+      "question": "Sự khác biệt cốt lõi trong phương thức vận hành giữa thống kê toán học và cơ chế liên kết của trí não là gì?",
+      "options": [
+        "Thống kê hoạt động tự động vô thức, trí não chỉ hoạt động khi có áp lực.",
+        "Thống kê phụ thuộc vào cảm xúc, trí não phụ thuộc hoàn toàn vào máy tính.",
+        "Thống kê loại trừ mọi biến số, trí não chỉ tính toán các con số tuyệt đối.",
+        "Thống kê cần phương án thay thế và xác suất, trí não tìm kiếm nhân quả."
+      ],
+      "correctIndex": 3,
+      "explanation": "Thống kê đòi hỏi xem xét các khả năng thay thế và biến cố ngẫu nhiên, trong khi cơ chế liên kết của trí não (Hệ thống 1) luôn cố gắng gán ghép mọi thứ cho nguyên nhân nhân quả."
+    },
+    {
+      "id": "q10",
+      "question": "Khi nghe về một cuộc thăm dò ý kiến cử tri chỉ với mẫu 300 người, phản ứng thông thường của người không chuyên là gì?",
+      "options": [
+        "Lập tức bác bỏ kết quả vì cho rằng cỡ mẫu quá nhỏ không đáng tin.",
+        "Yêu cầu công bố ngay lập tức biên độ sai số và phương pháp chọn mẫu.",
+        "Tập trung hoàn toàn vào câu chuyện và bỏ qua kích cỡ mẫu nhỏ.",
+        "Thực hiện lại cuộc thăm dò với quy mô lớn hơn gấp nhiều lần."
+      ],
+      "correctIndex": 2,
+      "explanation": "Con người không đủ nhạy bén với kích cỡ mẫu; họ bị thu hút bởi câu chuyện truyền thông (ví dụ: 'Người già ủng hộ Tổng thống') hơn là việc đánh giá độ tin cậy của mẫu."
+    },
+    {
+      "id": "q11",
+      "question": "Tại sao việc duy trì sự hoài nghi lại khó khăn hơn nhiều so với việc chấp nhận một kết luận chắc chắn đối với con người?",
+      "options": [
+        "Vì Hệ thống 1 tự động tin và gán nghĩa, còn Hệ thống 2 tốn năng lượng.",
+        "Vì các bằng chứng khoa học luôn luôn rõ ràng và không có sự mập mờ.",
+        "Vì con người sinh ra đã sở hữu năng lực tư duy phản biện hoàn hảo.",
+        "Vì việc hoài nghi mang lại cảm giác thỏa mãn ngay lập tức cho não bộ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 bản chất không đa nghi mà tự động loại bỏ mơ hồ để tạo ra sự chắc chắn. Hệ thống 2 có thể hoài nghi nhưng đòi hỏi sự nỗ lực và tiêu tốn năng lượng tinh thần."
+    },
+    {
+      "id": "q12",
+      "question": "Hiện tượng người dân London trong Thế chiến thứ II tin rằng các quả bom Đức rơi theo chủ ý (vì có khoảng trống trên bản đồ) minh chứng điều gì?",
+      "options": [
+        "Sự chính xác tuyệt đối của các đợt ném bom tập trung từ không quân.",
+        "Năng lực phán đoán chiến lược tuyệt vời của người dân trong chiến tranh.",
+        "Xu hướng nhìn thấy quy luật và thiết kế có chủ ý trong sự ngẫu nhiên.",
+        "Hiệu quả cao của các biện pháp phòng không dân sự tại thủ đô."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đối với con mắt trần tục của con người, tính ngẫu nhiên thuần túy thường trông giống như một trật tự có chủ ý hoặc xu hướng bầy đàn, kích hoạt bản năng tìm kiếm mối đe dọa."
+    },
+    {
+      "id": "q13",
+      "question": "Trong bối cảnh đầu tư tài chính, bài học lớn nhất rút ra từ 'quy luật số nhỏ' đối với việc đánh giá năng lực của một CEO là gì?",
+      "options": [
+        "Quy mô công ty lớn chắc chắn sẽ loại bỏ hoàn toàn các biến cố ngẫu nhiên.",
+        "Phải luôn tin tưởng tuyệt đối vào trực giác của ban lãnh đạo doanh nghiệp.",
+        "Cần thận trọng trước khi vội vã kết luận CEO tài năng chỉ qua vài thành công.",
+        "Các quyết định sáp nhập doanh nghiệp luôn tuân theo một quy luật nhân quả."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đánh giá CEO qua một vài thương vụ thành công ngắn hạn là sai lầm do nhầm lẫn giữa sự may mắn ngẫu nhiên (hiệu ứng mẫu nhỏ) với năng lực thực sự có hệ thống."
+    },
+    {
+      "id": "q14",
+      "question": "Phát biểu nào sau đây thể hiện chính xác nhất tinh thần cảnh giác chống lại sai lệch do quy luật số nhỏ?",
+      "options": [
+        "Tôi sẽ chờ đợi mẫu dữ liệu đủ lớn trước khi đưa ra kết luận cuối cùng.",
+        "Tôi tin tưởng hoàn toàn vào ấn tượng đầu tiên sau vài quan sát nhanh.",
+        "Các kết quả cực đoan trong mẫu nhỏ luôn phản ánh bản chất thực sự.",
+        "Mọi sự kiện bất thường xảy ra đều phải có một nguyên nhân nhân quả rõ ràng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tránh vội vã kết luận và kiên nhẫn chờ đợi mẫu dữ liệu đủ lớn là phương pháp chủ chốt để khắc chế thiên kiến tin tưởng mù quáng vào các mẫu dữ liệu nhỏ."
+    },
+    {
+      "id": "q15",
+      "question": "Sự đồng thuận giữa Amos Tversky và Daniel Kahneman khi nghiên cứu về 'niềm tin vào quy luật số nhỏ' là gì?",
+      "options": [
+        "Ngay cả các nhà nghiên cứu cũng có trực giác thống kê rất kém.",
+        "Con người bẩm sinh là những nhà thống kê trực quan xuất sắc.",
+        "Các phương pháp nghiên cứu tâm lý học truyền thống luôn hoàn hảo.",
+        "Tính ngẫu nhiên trong các thí nghiệm có thể được loại bỏ hoàn toàn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nghiên cứu của họ trên các chuyên gia toán học và tâm lý học đã chứng minh rằng ngay cả những người có chuyên môn cũng mắc sai lầm ngây thơ về trực giác chọn mẫu."
+    }
+  ]
+}

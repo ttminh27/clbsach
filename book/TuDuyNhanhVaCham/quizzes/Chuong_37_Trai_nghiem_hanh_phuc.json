@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_37_Trai_nghiem_hanh_phuc",
+  "chapterTitle": "Chương 37. Trải nghiệm hạnh phúc",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Khi một người trả lời câu hỏi 'Nhìn chung, bạn thỏa mãn với cuộc sống thế nào?', bộ phận nào trong tư duy của họ thường chi phối câu trả lời?",
+      "options": [
+        "Bản thể đang hồi tưởng khi xây dựng câu chuyện tổng kết về cuộc đời.",
+        "Bản thể đang trải nghiệm với các cảm xúc diễn ra theo từng khoảnh khắc.",
+        "Hệ thống 1 phân tích toàn bộ dữ liệu chỉ số U tích lũy trong ngày.",
+        "Hệ thống 2 tính toán lý trí dựa trên các tiêu chí kinh tế khách quan."
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu hỏi tổng kết cuộc sống trực tiếp kích hoạt bản thể đang hồi tưởng, nơi Hệ thống 1 áp dụng các quy tắc ngón cái để nhào nặn ký ức thành một câu chuyện tổng thể, thường bị chi phối bởi các sự kiện nổi bật gần đây (hiệu ứng gần) chứ không phản ánh chính xác tổng lượng hạnh phúc của bản thể trải nghiệm."
+    },
+    {
+      "id": "q2",
+      "question": "Vì sao Daniel Kahneman khẳng định việc đo lường hạnh phúc qua 'bản thể đang hồi tưởng' dễ dẫn đến những sai lệch nghiêm trọng?",
+      "options": [
+        "Vì trí nhớ con người luôn lưu giữ hoàn hảo mọi chi tiết nhỏ của quá khứ.",
+        "Vì bản thể hồi tưởng chịu ảnh hưởng nặng nề bởi đỉnh điểm cảm xúc và kết cục.",
+        "Vì bản thể hồi tưởng chỉ ghi nhận các dữ liệu thống kê kinh tế chính xác.",
+        "Vì ký ức con người hoàn toàn không bị tác động bởi bất kỳ thiên nhận thức nào."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bản thể hồi tưởng đánh giá quá khứ dựa trên quy tắc đỉnh-kết (peak-end rule) và hiện tượng lãng quên thời gian, khiến những trải nghiệm thực tế bị bóp méo, không phản ánh đúng tổng thời gian và cường độ cảm xúc mà bản thể trải nghiệm đã trải qua."
+    },
+    {
+      "id": "q3",
+      "question": "Phương pháp tái tạo ngày (DRM) được phát triển nhằm khắc phục nhược điểm nào của phương pháp lấy mẫu trải nghiệm trực tiếp?",
+      "options": [
+        "Sự phụ thuộc hoàn toàn vào trí nhớ dài hạn mà không cần ghi chép nhật ký.",
+        "Sự thiếu hụt hoàn toàn các câu hỏi về cảm xúc tích cực trong thang đo.",
+        "Tính tốn kém, gây phiền toái và làm xáo trộn cuộc sống người tham gia.",
+        "Sự can thiệp sâu của chuyên gia vào từng quyết định tài chính cá nhân."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lấy mẫu trải nghiệm trực tiếp qua thiết bị điện tử rất tốn kém và gây phiền toái khi liên tục ngắt quãng công việc của người tham gia. DRM khắc phục điều này bằng cách yêu cầu họ tái hiện lại toàn bộ chi tiết ngày hôm trước như các cảnh phim trong 2 giờ, vừa tiết kiệm vừa đạt độ chính xác cao."
+    },
+    {
+      "id": "q4",
+      "question": "Chỉ số U (U-index) do nhóm nghiên cứu của Kahneman xây dựng đo lường yếu tố nào của đời sống con người?",
+      "options": [
+        "Thời gian biểu chi tiết dành cho các hoạt động giải trí tích cực hàng tuần.",
+        "Tổng mức thu nhập bình quân đầu người tương ứng với mức độ thỏa mãn.",
+        "Mức độ chênh lệch giữa kỳ vọng của cá nhân và thực tế đời sống xã hội.",
+        "Tỷ lệ phần trăm thời gian mà một cá nhân ở trong trạng thái tâm lý tiêu cực."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chỉ số U tính toán tỷ lệ phần trăm thời gian trong ngày mà một cá nhân trải qua các cảm xúc khó chịu (tâm trạng tiêu cực lấn át tích cực). Đây là thước đo khách quan dựa trên đơn vị thời gian, giúp đánh giá chính xác gánh nặng khổ đau tinh thần hoặc thể chất."
+    },
+    {
+      "id": "q5",
+      "question": "Phát hiện nào của nhóm nghiên cứu về thời gian chăm sóc con cái của phụ nữ Mỹ đã gây ra sự bất ngờ lớn?",
+      "options": [
+        "Chăm sóc con cái mang lại lượng cảm xúc hạnh phúc vượt trội mọi hoạt động.",
+        "Chăm sóc con cái có chỉ số U cực kỳ thấp, tương đương với thời gian ngủ nghỉ.",
+        "Phụ nữ Mỹ dành toàn bộ thời gian trong ngày chỉ để tương tác với con cái.",
+        "Chăm sóc con cái ít thú vị hơn một chút so với việc làm việc nhà thông thường."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nhiều người ngộ nhận rằng nuôi dạy con mang lại hạnh phúc tuyệt đối (do hiệu ứng hào quang và kỳ vọng xã hội), nhưng dữ liệu thực tế của DRM cho thấy hoạt động này đi kèm nhiều căng thẳng, khiến trải nghiệm cảm xúc của phụ nữ Mỹ khi chăm con kém thú vị hơn cả việc làm việc nhà."
+    },
+    {
+      "id": "q6",
+      "question": "Theo nghiên cứu trong chương, yếu tố nào đóng vai trò quyết định chi phối tâm trạng của một cá nhân tại bất kỳ thời điểm cụ thể nào?",
+      "options": [
+        "Mức lương tổng thể và vị trí chức vụ cao hay thấp trong tổ chức làm việc.",
+        "Mục tiêu dài hạn về sự nghiệp và kế hoạch tài chính nghỉ hưu của cá nhân.",
+        "Trình độ học vấn cao cấp và số lượng văn bằng chứng chỉ đã đạt được.",
+        "Tình huống hiện tại, môi trường gần nhất và những gì họ đang chú tâm tới."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tâm trạng tại một thời điểm phụ thuộc chủ yếu vào tình huống hiện tại và sự chú ý. Trừ khi có những suy nghĩ chi phối đặc biệt, con người nhận lấy niềm khoái lạc hay nỗi đau từ chính những gì đang diễn ra ngay trước mắt thông qua cơ chế chú ý của Hệ thống 1."
+    },
+    {
+      "id": "q7",
+      "question": "Sự khác biệt trong trải nghiệm ăn uống giữa phụ nữ Pháp và phụ nữ Mỹ phản ánh nguyên lý tâm lý nào?",
+      "options": [
+        "Sự khác biệt về gen sinh học giữa hai quốc gia trong quá trình tiêu hóa.",
+        "Ảnh hưởng của thu nhập hộ gia đình đối với chất lượng thực phẩm tiêu thụ.",
+        "Tác động của mức độ tập trung sự chú ý vào hành động hiện tại đối với niềm vui.",
+        "Quy luật mỏ neo trong việc định giá các bữa ăn gia đình tại nhà hàng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Phụ nữ Pháp tập trung cao độ vào việc ăn uống gấp đôi phụ nữ Mỹ (người hay làm nhiều việc cùng lúc khi ăn), từ đó tận hưởng trọn vẹn niềm khoái lạc. Điều này minh chứng rằng sự chú ý định hình trực tiếp cường độ trải nghiệm cảm xúc."
+    },
+    {
+      "id": "q8",
+      "question": "Khi so sánh giữa 'đánh giá cuộc sống' (thang đo Cantril) và 'cảm xúc hạnh phúc', yếu tố trình độ học vấn tạo ra kết quả như thế nào?",
+      "options": [
+        "Học vấn cao làm giảm cả mức độ đánh giá cuộc sống lẫn cảm xúc hạnh phúc thực tế.",
+        "Học vấn cao làm tăng mức độ đánh giá cuộc sống nhưng không làm tăng cảm xúc hạnh phúc.",
+        "Học vấn không có bất kỳ tác động nào đến cả hai khía cạnh hạnh phúc kể trên.",
+        "Học vấn cao đồng thời làm tăng mạnh mẽ cả cảm xúc hạnh phúc lẫn đánh giá cuộc sống."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trình độ học vấn cao nâng cao cái nhìn tổng thể của bản thể hồi tưởng (vì xã hội đánh giá cao học vấn), nhưng không làm tăng cảm giác hạnh phúc trải nghiệm hàng ngày, thậm chí còn đi kèm với mức độ căng thẳng lớn hơn do áp lực công việc."
+    },
+    {
+      "id": "q9",
+      "question": "Kết quả khảo sát quy mô lớn với chỉ số Gallup-Healthways cho thấy mối quan hệ giữa thu nhập và hạnh phúc ra sao?",
+      "options": [
+        "Nghèo đói gây đau khổ, giàu có nâng cao thỏa mãn cuộc sống nhưng không tăng cảm xúc hạnh phúc vượt ngưỡng.",
+        "Thu nhập càng cao thì cảm xúc hạnh phúc trải nghiệm tăng lên theo đường thẳng vô hạn theo cơ chế hoạt động của trí não.",
+        "Thu nhập hoàn toàn không có bất kỳ liên hệ nào với cả hai khía cạnh của hạnh phúc nhằm nâng cao chất lượng ra quyết định.",
+        "Sự giàu có làm giảm sút nghiêm trọng mức độ thỏa mãn cuộc sống của con người theo cơ chế hoạt động của trí não."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nghiên cứu chỉ ra mức thỏa mãn cuộc sống tăng theo thu nhập, nhưng cảm xúc hạnh phúc trải nghiệm chỉ tăng đến một ngưỡng nhất định (khoảng 75.000 USD tại Mỹ), sau đó mức tăng trung bình của cảm xúc hạnh phúc đạt đúng bằng 0 do khả năng tận hưởng niềm vui nhỏ bị giảm."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao tình trạng nghèo đói cực đoan lại làm gia tăng đáng kể tác động tiêu cực của các rủi ro khác (như đau đầu, ly hôn, cô độc)?",
+      "options": [
+        "Vì người nghèo có hệ miễn dịch sinh học yếu hơn hẳn so với người giàu có.",
+        "Vì sự nghèo đói khuếch đại sự khốn khổ và làm suy giảm khả năng chống chịu trước nghịch cảnh.",
+        "Vì người nghèo thường xuyên tiếp cận các thông tin sai lệch về tâm lý học.",
+        "Vì người nghèo không có thời gian để tham gia các hoạt động giải trí cộng đồng."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nghèo đói đẩy con người vào trạng thái dễ tổn thương cùng cực. Một rủi ro nhỏ như cơn đau đầu hay ly hôn sẽ trở thành gánh nặng áp lực khổng lồ đối với người nghèo, trong khi người có tiềm lực tài chính có thể dễ dàng xoay sở và giảm nhẹ tác động."
+    },
+    {
+      "id": "q11",
+      "question": "Giả thuyết nào giải thích việc thu nhập vượt ngưỡng (như trên 75.000 USD ở Mỹ) không làm tăng cảm xúc hạnh phúc trải nghiệm?",
+      "options": [
+        "Thu nhập cao làm con người mất đi hoàn toàn khả năng cảm nhận mọi cảm xúc.",
+        "Người giàu có xu hướng từ chối mọi hoạt động giao tiếp xã hội và giải trí.",
+        "Thu nhập cao thường liên hệ với việc giảm khả năng tận hưởng những niềm vui nhỏ nhặt.",
+        "Đồng tiền không có giá trị quy đổi thành các trải nghiệm tinh thần tích cực."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kahneman lưu ý rằng mức thu nhập cao hơn thường gắn liền với sự bận rộn và việc giảm đi khả năng dừng lại để thưởng thức những điều nhỏ nhặt trong cuộc sống, khiến lượng niềm vui bổ sung bị triệt tiêu bởi áp lực đi kèm."
+    },
+    {
+      "id": "q12",
+      "question": "Từ góc độ hoạch định chính sách xã hội, việc áp dụng phương pháp đo lường chỉ số U có ý nghĩa thực tiễn gì?",
+      "options": [
+        "Loại bỏ hoàn toàn các ngành nghề có chỉ số U cao ra khỏi nền kinh tế quốc dân.",
+        "Giúp định hướng các cải thiện về giao thông, chăm sóc trẻ và phúc lợi nhằm giảm đau khổ chung.",
+        "Giúp chính phủ áp đặt mức thuế thu nhập tối đa cho mọi công dân trong xã hội.",
+        "Buộc tất cả người dân phải thay đổi lối sống theo một khuôn mẫu chuẩn hóa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chính sách xã hội có thể dựa vào dữ liệu chỉ số U để can thiệp hiệu quả nhằm giảm thiểu thời gian chịu đựng của người dân, chẳng hạn cải thiện cơ sở hạ tầng giao thông giờ cao điểm, hỗ trợ chăm sóc trẻ em hoặc tạo cơ hội xã hội cho người già."
+    },
+    {
+      "id": "q13",
+      "question": "Hiện tượng phân bổ không đều nỗi đau tinh thần trong dân số (khoảng một nửa không gặp ngày khó chịu, trong khi một số ít gánh chịu đau khổ tột bậc) phản ánh điều gì?",
+      "options": [
+        "Sự khác biệt sâu sắc về tính cách, hoàn cảnh bi kịch cá nhân và sức khỏe thể chất giữa các nhóm người.",
+        "Sự can thiệp tiêu cực của các thuật toán mạng xã hội vào tâm trạng của người dân dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Sự phân chia giai cấp kinh tế hoàn toàn đồng đều trong tất cả các quốc gia phát triển dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Sai số kỹ thuật trong quá trình thu thập dữ liệu bằng phương pháp tái tạo ngày dựa trên các nguyên lý tâm lý học nhận thức."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đau khổ tập trung vào một bộ phận nhỏ dân số do tác động kết hợp của ốm đau thể chất, tính cách cau có, hoặc những biến cố bi kịch cá nhân, cho thấy sự bất bình đẳng sâu sắc về trải nghiệm hạnh phúc trong xã hội."
+    },
+    {
+      "id": "q14",
+      "question": "Phát biểu nào sau đây phân biệt chính xác nhất giữa 'sự thỏa mãn cuộc sống' và 'cảm xúc hạnh phúc trải nghiệm' theo kết luận của Kahneman?",
+      "options": [
+        "Chúng hoàn toàn đồng nhất và có thể thay thế cho nhau trong mọi nghiên cứu tâm lý dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Sự thỏa mãn cuộc sống là đánh giá của bản thể hồi tưởng, còn cảm xúc hạnh phúc là thực tế của bản thể trải nghiệm.",
+        "Cảm xúc hạnh phúc quan trọng hơn và làm lu mờ hoàn toàn giá trị của sự thỏa mãn cuộc sống theo cơ chế hoạt động của trí não.",
+        "Sự thỏa mãn cuộc sống chỉ đo lường thu nhập tài chính, còn hạnh phúc đo lường sức khỏe nhằm nâng cao chất lượng ra quyết định."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kahneman kết luận rằng đánh giá cuộc sống (bản thể hồi tưởng) và cảm xúc trải nghiệm thực tế (bản thể trải nghiệm) là hai thực thể hoàn toàn khác biệt. Con người có thể đánh giá cuộc sống mình rất cao dù phải trải qua nhiều căng thẳng, hoặc ngược lại."
+    },
+    {
+      "id": "q15",
+      "question": "Việc chuyển đổi thời gian rỗi từ các hoạt động thụ động (như xem TV) sang hoạt động tích cực hơn (như giao tiếp xã hội, luyện tập) minh chứng cho nguyên tắc nào trong đời sống?",
+      "options": [
+        "Con người hoàn toàn có quyền chủ động sắp xếp lại cách sử dụng thời gian để tối ưu hóa trải nghiệm cảm xúc.",
+        "Mọi hoạt động giải trí thụ động đều không mang lại bất kỳ giá trị phục hồi năng lượng nào trong quá trình phán đoán và tư duy.",
+        "Chỉ số U của xã hội chỉ có thể giảm thông qua các Đạo luật do nhà nước ban hành dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Hệ thống 1 luôn ép buộc con người lựa chọn những thói quen tiêu cực nhất dựa trên các nguyên lý tâm lý học nhận thức."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sử dụng thời gian là một trong những phạm vi mà cá nhân có thể kiểm soát. Việc chủ động hoán đổi thời gian sang các hoạt động gắn kết xã hội hoặc vận động thể chất là phương thức thực tế giúp giảm chỉ số U và cải thiện chất lượng trải nghiệm sống."
+    }
+  ]
+}

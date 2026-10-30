@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_27_Hieu_ung_so_huu",
+  "chapterTitle": "Chương 27. Hiệu ứng sở hữu",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Vì sao Daniel Kahneman cho rằng các biểu đồ đường bàng quan truyền thống trong kinh tế học chuẩn tắc lại mắc sai lầm nghiêm trọng khi bỏ sót 'điểm tham chiếu' của cá nhân?",
+      "options": [
+        "Vì chúng chỉ tập trung vào thời gian rảnh rỗi mà hoàn toàn quên mất các yếu tố tiền thưởng tài chính khác.",
+        "Vì chúng luôn luôn đánh giá sai mức thu nhập thực tế của người lao động trong mọi cuộc đàm phán hợp đồng.",
+        "Vì chúng ngầm định sai lầm rằng thỏa dụng chỉ phụ thuộc vào trạng thái tài sản hiện tại mà phớt lờ quá khứ.",
+        "Vì chúng không thể phản ánh chính xác quy luật thỏa dụng cận biên giảm dần của các loại hàng hóa khác nhau."
+      ],
+      "correctIndex": 2,
+      "explanation": "Theo Kahneman, mô hình đường bàng quan truyền thống vướng phải sai lầm giống Bernoulli khi giả định rằng sự thỏa dụng chỉ phụ thuộc vào trạng thái hiện tại mà không bị ảnh hưởng bởi điểm xuất phát hay quá khứ của cá nhân."
+    },
+    {
+      "id": "q2",
+      "question": "Trong thí nghiệm về cặp song sinh Albert và Ben, khi được đề nghị hoán đổi vị trí làm việc cho nhau, tại sao họ lại có xu hướng muốn giữ nguyên trạng thái hiện tại của mình?",
+      "options": [
+        "Vì sự ác cảm mất mát khiến việc từ bỏ những lợi ích hiện tại tạo ra nỗi đau lớn hơn niềm vui nhận lợi ích mới.",
+        "Vì lý thuyết viễn cảnh chứng minh rằng họ luôn đánh giá cao giá trị của công việc mới hơn công việc cũ.",
+        "Vì Hệ thống 2 của họ đã tính toán cực kỳ lý trí rằng chi phí chuyển đổi công việc vượt quá mức lương tăng thêm.",
+        "Vì họ bị chi phối bởi hiệu ứng mỏ neo khi nhìn vào các điều khoản hợp đồng lao động ban đầu của công ty."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự ác cảm mất mát làm cho các bất lợi của việc thay đổi hiện ra rõ ràng và nặng nề hơn các lợi thế, dẫn đến hiện tượng ưu tiên nguyên trạng được điều khiển bởi các đánh giá tự động của Hệ thống 1."
+    },
+    {
+      "id": "q3",
+      "question": "Trường hợp Giáo sư R miễn cưỡng bán chai rượu vang trong bộ sưu tập của mình dù được trả giá cao hơn nhiều giá mua phản ánh hiện tượng tâm lý nào?",
+      "options": [
+        "Hiệu ứng mỏ neo tâm lý khiến ông bị kẹt cứng vào mức giá mua ban đầu thấp nhất trên thị trường.",
+        "Hiệu ứng sở hữu bắt nguồn từ sự ác cảm mất mát làm tăng giá trị chủ quan của món đồ khi đã thuộc về mình.",
+        "Sự suy giảm thỏa dụng cận biên nghiêm trọng khi số lượng chai rượu trong bộ sưu tập cá nhân vượt mức.",
+        "Lỗi đánh giá sai lầm về tỷ suất nền của các dòng rượu vang quý hiếm trong các cuộc đấu giá quốc tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiện tượng này gọi là hiệu ứng sở hữu, trong đó việc sở hữu hàng hóa làm tăng giá trị của nó vì từ bỏ một vật sở hữu gây ra nỗi đau lớn hơn nhiều so với niềm vui khi nhận về một vật tương đương."
+    },
+    {
+      "id": "q4",
+      "question": "Điều gì tạo nên sự khác biệt cốt lõi khiến 'hiệu ứng sở hữu' xuất hiện mạnh mẽ với chiếc cốc cà phê hoặc vé xem hòa nhạc, nhưng lại biến mất khi đổi các tờ tiền hoặc mua bán giày dép thông thường?",
+      "options": [
+        "Hàng hóa để trao đổi luôn có mức giá thị trường cố định, trong khi hàng hóa để sử dụng hoàn toàn không có giá trị.",
+        "Hàng hóa sở hữu để sử dụng tạo ra sự gắn kết cảm xúc, trong khi hàng hóa để trao đổi chỉ mang giá trị trung gian.",
+        "Người mua giày dép luôn sử dụng Hệ thống 2 để phân tích kỹ lưỡng, còn mua cốc cà phê chỉ dùng Hệ thống 1 cảm tính.",
+        "Các giao dịch tiền tệ thông thường không kích hoạt vùng não bộ liên quan đến nỗi đau mất mát như các món quà lưu niệm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự khác biệt nằm ở chỗ hàng hóa như vé xem nhạc hay rượu vang có giá trị 'để sử dụng' và thụ hưởng, trong khi tiền bạc hay giày dép của người bán có giá trị 'để trao đổi' nên không kích hoạt sự ác cảm mất mát."
+    },
+    {
+      "id": "q5",
+      "question": "Trong thí nghiệm về chiếc cốc có in phù hiệu trường đại học của Knetsch, Thaler và Kahneman, kết quả định giá giữa người bán, người lựa chọn và người mua đã mang lại phát hiện bất ngờ nào?",
+      "options": [
+        "Người mua và người lựa chọn đưa ra mức giá tương đương nhau, trong khi người bán đặt giá cao gấp đôi.",
+        "Người bán và người lựa chọn đưa ra mức giá tương đương nhau, trong khi người mua trả mức giá thấp hơn nhiều.",
+        "Người bán và người mua đưa ra mức giá gần bằng nhau, trong khi người lựa chọn đặt mức giá cao nhất.",
+        "Cả ba nhóm người tham gia đều đưa ra các mức giá hoàn toàn khác biệt do bị chi phối bởi các khung đánh giá."
+      ],
+      "correctIndex": 0,
+      "explanation": "Người bán đặt mức giá cao nhất (7.12 USD), trong khi người lựa chọn (3.12 USD) và người mua (2.87 USD) đặt mức giá tương đương nhau, dù người lựa chọn và người bán thực tế đối mặt với hai phương án quyết định giống hệt nhau."
+    },
+    {
+      "id": "q6",
+      "question": "Tại sao nhóm 'người bán' trong thí nghiệm chiếc cốc lại đưa ra mức giá cao hơn hẳn nhóm 'người lựa chọn', dù cả hai nhóm đều có thể kết thúc thí nghiệm với một chiếc cốc hoặc một khoản tiền như nhau?",
+      "options": [
+        "Vì cảm xúc phải từ bỏ một vật mà họ đang thực sự nắm giữ kích hoạt mạnh mẽ sự ác cảm mất mát của Hệ thống 1.",
+        "Vì người bán phải trực tiếp chi tiền ra từ túi của mình để duy trì quyền sở hữu chiếc cốc từ đầu.",
+        "Vì người lựa chọn có tư duy lý trí hơn nhờ được kích hoạt Hệ thống 2 trong suốt quá trình diễn ra thí nghiệm.",
+        "Vì người bán bị ảnh hưởng bởi hiệu ứng mỏ neo từ mức giá cao do ban tổ chức thị trường đưa ra ngẫu nhiên."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự khác biệt duy nhất là cảm xúc tại thời điểm đó: người bán phải đối mặt với nỗi đau từ bỏ một vật họ đang thực sự sở hữu, kích hoạt sự ác cảm mất mát, điều không xảy ra với người lựa chọn."
+    },
+    {
+      "id": "q7",
+      "question": "Nghiên cứu của John List về hoạt động giao dịch thẻ cầu thủ và quà tặng đã mang lại phát hiện quan trọng nào về sự tác động của kinh nghiệm thị trường đối với hiệu ứng sở hữu?",
+      "options": [
+        "Kinh nghiệm giao thương dày dặn làm gia tăng mạnh mẽ hiệu ứng sở hữu do các thương nhân ngày càng quý trọng tài sản.",
+        "Kinh nghiệm giao thương không hề làm thay đổi hành vi của con người vì sự ác cảm mất mát là một bản năng sinh học cố định.",
+        "Kinh nghiệm giao thương giúp các thương nhân loại bỏ dần hiệu ứng sở hữu và hành xử giống như các dự đoán kinh tế học chuẩn tắc.",
+        "Kinh nghiệm giao thương chỉ làm mất đi hiệu ứng sở hữu khi đối tượng giao dịch là tiền tệ chứ không phải hàng hóa hiện vật."
+      ],
+      "correctIndex": 2,
+      "explanation": "John List phát hiện ra rằng những thương nhân kỳ cựu hoặc có kinh nghiệm giao thương không còn thể hiện hiệu ứng sở hữu, họ đã học được cách đặt câu hỏi tối ưu như các nhà kinh tế học."
+    },
+    {
+      "id": "q8",
+      "question": "Theo lý thuyết viễn cảnh và các nghiên cứu về tâm lý học hành vi, nhóm đối tượng nào sau đây được dự đoán là KHÔNG biểu hiện hoặc ít biểu hiện hiệu ứng sở hữu nhất?",
+      "options": [
+        "Những người sưu tầm rượu vang lâu năm có sở thích giữ gìn các chai rượu quý hiếm trong bộ sưu tập cá nhân.",
+        "Những người nghèo đang phải sống dưới điểm tham chiếu và luôn xem mọi khoản chi phí mua sắm là một sự mất mát.",
+        "Những người hâm mộ cuồng nhiệt sở hữu chiếc vé xem trận đấu chung kết bóng đá đã bị cháy vé từ nhiều tuần trước.",
+        "Những chủ sở hữu căn hộ cao cấp đang cố gắng bán nhà của mình trong thời kỳ thị trường bất động sản suy thoái."
+      ],
+      "correctIndex": 1,
+      "explanation": "Người nghèo luôn sống dưới điểm tham chiếu và thiếu thốn, mọi lựa chọn của họ đều nằm giữa những sự mất mát và họ chi tiêu như những thương nhân thực thụ, không có hiệu ứng sở hữu thông thường."
+    },
+    {
+      "id": "q9",
+      "question": "Trong bối cảnh thị trường bất động sản suy thoái tại Boston được nhắc đến trong chương sách, tại sao các chủ sở hữu mua nhà ở mức giá cao lại thường đưa ra giá bán cao hơn và mất nhiều thời gian hơn để bán nhà?",
+      "options": [
+        "Vì họ sử dụng các mô hình phân tích định lượng cực kỳ chính xác của Hệ thống 2 để định giá tài sản thực tế.",
+        "Vì họ bị chi phối bởi hiệu ứng đám đông và các quy tắc thông thường của những nhà môi giới bất động sản.",
+        "Vì họ muốn tận dụng hiệu ứng mỏ neo để tối đa hóa lợi nhuận từ những người mua tiềm năng trên thị trường mở.",
+        "Vì điểm tham chiếu cao gắn với giá mua ban đầu khiến họ xem mức giá thấp hơn hiện tại là một tổn thất nặng nề."
+      ],
+      "correctIndex": 3,
+      "explanation": "Điểm tham chiếu ban đầu (giá mua nhà cao) khiến họ đối mặt với những tổn thất lớn khi giá thị trường giảm, dẫn đến sự ác cảm mất mát thúc đẩy họ hét giá cao và trì hoãn việc bán nhà."
+    },
+    {
+      "id": "q10",
+      "question": "Phương thức số 1 (System 1) đóng vai trò gì trong việc hình thành và duy trì hiện tượng 'hiệu ứng sở hữu' theo phân tích của Daniel Kahneman?",
+      "options": [
+        "Đưa ra các đánh giá tự động, cảm tính ngay lập tức khiến việc từ bỏ tài sản hiện tại được mã hóa như một nỗi đau tổn thất.",
+        "Thực hiện các phép tính logic phức tạp để quy đổi giá trị sử dụng và giá trị trao đổi của hàng hóa trên thị trường.",
+        "Kiểm soát và kìm hãm cảm giác tiếc nuối khi con người phải đưa ra quyết định mua bán hàng hóa dưới áp lực thời gian.",
+        "Tạo ra hiệu ứng mỏ neo bằng cách ghi nhớ chính xác mức giá mua ban đầu của mọi loại hàng hóa trong suốt quá khứ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự ác cảm mất mát được xây dựng trên những đánh giá tự động và cảm tính của Phương thức số 1, phản ứng ngay lập tức với sự thay đổi trạng thái từ có thành không."
+    },
+    {
+      "id": "q11",
+      "question": "Câu hỏi chuẩn nào mà các thương nhân kỳ cựu hoặc những người có kinh nghiệm giao thương thường tự hỏi, giúp họ tránh được bẫy tâm lý của hiệu ứng sở hữu?",
+      "options": [
+        "Món đồ này hiện tại đang có giá trị cao hơn bao nhiêu so với mức giá mà tôi đã từng mua nó trong quá khứ?.",
+        "Tôi muốn có món đồ này nhiều tới đâu, so với những thứ khác mà tôi có thể có thay vào đó?.",
+        "Nếu tôi bán món đồ này ngay bây giờ, liệu tôi có chịu lỗ so với giá thị trường trung bình hay không?.",
+        "Mức độ thỏa dụng cận biên của tôi khi sở hữu thêm món đồ này sẽ giảm đi bao nhiêu phần trăm?."
+      ],
+      "correctIndex": 1,
+      "explanation": "Các thương nhân kỳ cựu đặt câu hỏi 'Tôi muốn có chiếc cốc đó nhiều tới đâu, so với những thứ khác mà tôi có thể có thay vào đó?', giúp loại bỏ độ vênh giữa sự thỏa mãn đoạt được và nỗi đau từ bỏ."
+    },
+    {
+      "id": "q12",
+      "question": "Trong thí nghiệm trao đổi quà tặng (bút hoặc sô-cô-la) của Jack Knetsch, tại sao chỉ có khoảng 10% số người tham gia tự nguyện đổi quà cho nhau vào cuối buổi học?",
+      "options": [
+        "Vì phần lớn sinh viên đã tính toán rất kỹ lưỡng giá trị kinh tế của từng món quà trước khi đưa ra quyết định cuối cùng.",
+        "Vì họ bị chi phối bởi hiệu ứng đám đông trong lớp học và không dám tự ý thực hiện hành vi trao đổi giao thương.",
+        "Vì chất lượng của chiếc bút và thanh sô-cô-la chênh lệch quá lớn khiến không ai muốn nhận món quà có giá trị thấp hơn.",
+        "Vì hiệu ứng sở hữu đã xuất hiện ngay sau khi họ nhận quà, khiến việc từ bỏ món quà đang cầm trên tay trở nên vô cùng khó khăn."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chỉ sau một khoảnh khắc sở hữu vật lý món quà, hiệu ứng sở hữu đã hình thành, khiến tỷ lệ trao đổi cực kỳ thấp (chỉ khoảng 10%) do nỗi đau khi phải từ bỏ món quà đang có."
+    },
+    {
+      "id": "q13",
+      "question": "Phát hiện từ các bản ghi chụp bộ não khi con người thực hiện hành vi mua bán hàng hóa 'để sử dụng' đã củng cố điều gì cho lý thuyết viễn cảnh của Kahneman?",
+      "options": [
+        "Não bộ con người xử lý các quyết định mua bán hàng hóa thông qua sự kiểm soát hoàn toàn của lý trí thuộc về Phương thức số 2 dưới góc độ kinh tế học hành vi.",
+        "Việc mua sắm luôn kích hoạt các vùng não phấn khích tuyệt đối, làm vô hiệu hóa hoàn toàn mọi cảm giác tiếc nuối hay tổn thất tài chính.",
+        "Việc bán các hàng hóa thường dùng kích hoạt các vùng não liên quan đến sự ác cảm và nỗi đau, chứng minh tính bất cân xứng giữa lợi ích và tổn thất.",
+        "Không có sự khác biệt nào trên vùng não bộ giữa việc mua một món hàng mới và việc từ bỏ một tài sản đang sẵn có trong quá trình phán đoán và tư duy."
+      ],
+      "correctIndex": 2,
+      "explanation": "Các ghi nhận não bộ xác nhận việc bán hàng hóa thường dùng kích hoạt vùng não liên quan đến sự ác cảm và nỗi đau, phản ánh đúng hàm số giá trị dốc đứng ở phạm vi tiêu cực của lý thuyết viễn cảnh."
+    },
+    {
+      "id": "q14",
+      "question": "Phát biểu nào sau đây phản ánh chính xác nhất thông điệp cốt lõi của Daniel Kahneman về tác động của 'điểm tham chiếu' trong kinh tế học hành vi?",
+      "options": [
+        "Điểm tham chiếu là một hằng số bất biến trong mọi quyết định kinh tế và không bao giờ thay đổi theo thời gian hay hoàn cảnh dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Các nhà kinh tế học cổ điển đã hoàn toàn chính xác khi chứng minh rằng điểm tham chiếu không ảnh hưởng gì đến sở hữu dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Điểm tham chiếu chỉ xuất hiện khi con người đối mặt với các quyết định rủi ro cao và hoàn toàn vắng bóng trong các giao dịch đời thường.",
+        "Mọi sự đánh giá giá trị của con người đều phụ thuộc vào trạng thái hiện tại được chọn làm mốc so sánh, nơi tổn thất hiện ra nặng nề hơn lợi ích."
+      ],
+      "correctIndex": 3,
+      "explanation": "Điểm tham chiếu là mốc xuất phát quan trọng chi phối mọi chọn lựa, kết hợp với ác cảm mất mát tạo ra sự bất cân xứng lớn giữa việc đạt được lợi ích và gánh chịu tổn thất."
+    },
+    {
+      "id": "q15",
+      "question": "Trong một tình huống đàm phán hợp đồng lao động thực tế, dựa trên tư tưởng của chương sách, tại sao việc yêu cầu nhân viên nhượng bộ một quyền lợi hiện có thường gặp phải sự kháng cự mãnh liệt hơn nhiều so với việc từ chối cấp thêm một quyền lợi mới?",
+      "options": [
+        "Vì quyền lợi mới luôn có giá trị tài chính thấp hơn nhiều so với tổng thu nhập hiện tại của người lao động.",
+        "Vì người lao động sử dụng Hệ thống 2 để phân tích thiệt hơn một cách cực kỳ lý trí trong mọi cuộc đàm phán.",
+        "Vì việc cắt giảm quyền lợi hiện có được mã hóa như một 'tổn thất' từ điểm tham chiếu, kích hoạt sự ác cảm mất mát mạnh mẽ.",
+        "Vì các điều khoản hợp đồng cũ đã tạo ra hiệu ứng mỏ neo cố định không thể thay đổi dưới bất kỳ hình thức nào."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hợp đồng hiện tại là điểm tham chiếu; việc nhượng bộ (mất đi cái đang có) là một tổn thất gây đau đớn lớn hơn nhiều so với việc không được tăng thêm quyền lợi mới (không có lợi ích), do tác động của ác cảm mất mát."
+    }
+  ]
+}

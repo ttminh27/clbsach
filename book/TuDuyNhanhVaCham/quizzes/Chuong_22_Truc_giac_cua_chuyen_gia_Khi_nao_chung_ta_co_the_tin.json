@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_22_Truc_giac_cua_chuyen_gia_Khi_nao_chung_ta_co_the_tin",
+  "chapterTitle": "Chương 22. Trực giác của chuyên gia: Khi nào chúng ta có thể tin?",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Daniel Kahneman, lý do cốt lõi nào khiến các học giả hiếm khi thừa nhận lỗi sai hoặc nhượng bộ trong các bài tranh luận khoa học công khai?",
+      "options": [
+        "Vì việc thừa nhận sai lầm thường bị đồng nghiệp hiểu lầm là sự thất bại.",
+        "Vì họ luôn nắm giữ đầy đủ dữ liệu thống kê khách quan tuyệt đối.",
+        "Vì Hệ thống 2 của họ hoạt động quá chậm để kịp xử lý các lập luận mới.",
+        "Vì môi trường nghiên cứu hàn lâm có độ quy luật thấp và nhiều nhiễu động."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kahneman chỉ ra rằng trong tranh luận học thuật, việc một bên thừa nhận sai sót thường bị hiểu nhầm là sự thua cuộc và yếu kém, khiến họ né tránh thừa nhận dù biết sai."
+    },
+    {
+      "id": "q2",
+      "question": "Hiện tượng 'hợp tác trong mâu thuẫn' giữa Kahneman và Gary Klein phản ánh phương pháp tiếp cận nào trong việc giải quyết bất đồng khoa học?",
+      "options": [
+        "Sử dụng thuật toán cứng nhắc để thay thế hoàn toàn phán đoán cá nhân.",
+        "Tranh luận gay gắt công khai trên các tạp chí để tìm ra chân lý cuối cùng.",
+        "Nhờ một trọng tài độc lập đưa ra phán quyết pháp lý mang tính ràng buộc.",
+        "Cùng đứng tên chung bài báo và nghiên cứu dựa trên các điểm khác biệt."
+      ],
+      "correctIndex": 3,
+      "explanation": "Để vượt qua các cuộc tranh cãi vô bổ, Kahneman và Klein đã chọn cách 'hợp tác trong mâu thuẫn', cùng nhau đứng tên viết bài báo dựa trên các khác biệt của họ."
+    },
+    {
+      "id": "q3",
+      "question": "Mô hình Quyết định nhận biết sơ khai (RPD) của Gary Klein miêu tả quá trình ra quyết định của lính cứu hỏa diễn ra như thế nào?",
+      "options": [
+        "Đưa ra duy nhất một lựa chọn dựa trên kinh nghiệm và kiểm tra bằng trí óc.",
+        "Sử dụng thuật toán xác suất phức tạp để tính toán mức độ rủi ro hỏa hoạn.",
+        "So đo hàng loạt phương án thay thế rồi chọn ra phương án tối ưu nhất.",
+        "Phụ thuộc hoàn toàn vào cảm tính ngẫu nhiên mà không cần qua suy luận."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mô hình RPD cho thấy các chuyên gia như lính cứu hỏa thường chỉ đưa ra một lựa chọn duy nhất dựa trên kinh nghiệm quá khứ, sau đó dùng Hệ thống 2 mô phỏng kiểm tra."
+    },
+    {
+      "id": "q4",
+      "question": "Phát biểu của Herbert Simon về trực giác ('Trực giác không gì khác hơn là sự nhận biết') hàm ý điều gì về cơ chế hoạt động của não bộ?",
+      "options": [
+        "Trực giác là một năng lực siêu nhiên tách rời hoàn toàn khỏi bộ nhớ con người.",
+        "Trực giác thực chất là việc Hệ thống 1 truy xuất thông tin lưu trữ qua nhận biết.",
+        "Trực giác luôn luôn chính xác và không bao giờ mắc phải sai lầm hệ thống.",
+        "Trực giác đòi hỏi sự kích hoạt chuyên sâu và kiểm soát chặt chẽ của Hệ thống 2."
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo Herbert Simon và Kahneman, trực giác không phải phép thuật mà là việc tình huống hiện tại kích hoạt Hệ thống 1 tiếp cận kho thông tin đã lưu trữ trong bộ nhớ."
+    },
+    {
+      "id": "q5",
+      "question": "Theo Kahneman, tại sao câu chuyện về bức tượng Kouros giả mạo trong sách của Malcolm Gladwell lại dễ dẫn người đọc đến hiểu lầm về trực giác?",
+      "options": [
+        "Vì nó khẳng định các chuyên gia nghệ thuật không hề có chút kinh nghiệm nào.",
+        "Vì nó chứng minh rằng trực giác luôn sai lầm trong mọi lĩnh vực nghệ thuật.",
+        "Vì nó phủ nhận hoàn toàn vai trò của các nghiên cứu hệ thống và phân tích.",
+        "Vì nó cho rằng bức tượng thực ra là tác phẩm điêu khắc hoàn toàn chính hãng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu chuyện Kouros bị hiểu lầm là minh họa cho việc không cần nghiên cứu hệ thống mà vẫn có trực giác đúng, trong khi thực tế điều tra có hệ thống luôn cần thiết và thành công."
+    },
+    {
+      "id": "q6",
+      "question": "Yếu tố nào đóng vai trò quyết định để biến một kỹ năng phức tạp thành năng lực trực giác thuần thục của chuyên gia?",
+      "options": [
+        "Mức độ tự tin chủ quan cao độ và niềm tin vững chắc vào bản thân mình.",
+        "Khả năng phớt lờ các phản hồi tiêu cực để duy trì tinh thần lạc quan.",
+        "Môi trường có quy luật thích đáng và cơ hội rèn luyện qua thực tế mở rộng.",
+        "Việc sử dụng các thuật toán thống kê phức tạp trong mọi tình huống đời sống."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hai điều kiện nền tảng để hình thành trực giác chính xác là môi trường có quy luật để dự báo và có cơ hội học hỏi các quy luật đó qua thực tế mở rộng."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao các nhà đầu cơ chứng khoán và nhà khoa học chính trị thường thất bại trong việc đưa ra các dự báo dài hạn chính xác?",
+      "options": [
+        "Vì họ thiếu hoàn toàn năng lực tư duy logic và kỹ năng phân tích cơ bản.",
+        "Vì họ không có đủ 10.000 giờ luyện tập chuyên sâu như các kỳ thủ cờ vua.",
+        "Vì họ quá phụ thuộc vào các thuật toán thống kê cứng nhắc thay vì trực giác.",
+        "Vì họ vận hành trong một môi trường có độ vững chắc bằng không và bất quy luật."
+      ],
+      "correctIndex": 3,
+      "explanation": "Các nhà đầu cơ và nhà dự báo chính trị hoạt động trong môi trường thiếu quy luật bền vững, khiến các dự báo dài hạn của họ kém chính xác bất chấp sự tự tin."
+    },
+    {
+      "id": "q8",
+      "question": "Hiện tượng vị bác sĩ đầu thế kỷ XX chẩn đoán thương hàn bằng cách bắt mạch lưỡi mà không rửa tay phản ánh điều gì về môi trường học tập?",
+      "options": [
+        "Môi trường lý tưởng giúp rèn luyện kỹ năng trực giác chuyên nghiệp hoàn hảo.",
+        "Môi trường 'xấu xa' dẫn đến việc rút ra bài học sai lầm từ trải nghiệm thực tế.",
+        "Môi trường có quy luật thống kê cực kỳ rõ ràng và mang lại phản hồi tức thì.",
+        "Môi trường trong đó các thuật toán thống kê luôn vượt trội hơn con người."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là ví dụ về môi trường 'xấu xa' theo Robin Hogarth, nơi các chuyên gia rút ra bài học và hình thành thói quen sai lầm từ những trải nghiệm phản hồi méo mó."
+    },
+    {
+      "id": "q9",
+      "question": "Theo phân tích của Kahneman, tại sao các thuật toán thống kê thường vượt trội hơn con người trong các môi trường ồn ã và phức tạp?",
+      "options": [
+        "Vì thuật toán có khả năng cảm nhận cảm xúc và trực giác nhạy bén hơn con người.",
+        "Vì thuật toán tìm ra căn cứ ít giá trị và duy trì độ chính xác khiêm tốn ổn định.",
+        "Vì thuật toán không bao giờ mắc sai lầm do luôn được cập nhật dữ liệu tương lai.",
+        "Vì con người quá phụ thuộc vào các mô hình toán học và đánh mất bản ngã."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thuật toán thống kê vượt trội vì chúng giỏi hơn con người trong việc phát hiện các tín hiệu yếu và kiên định áp dụng chúng một cách nhất quán mà không bị chi phối bởi cảm xúc."
+    },
+    {
+      "id": "q10",
+      "question": "Nguyên lý quan trọng nào mà Kahneman và Klein đã đúc kết được về mối quan hệ giữa niềm tin chủ quan và tính chính xác của trực giác?",
+      "options": [
+        "Niềm tin chủ quan càng cao thì độ chính xác của phán quyết càng tuyệt đối.",
+        "Niềm tin chủ quan chỉ xuất hiện khi môi trường có độ vững chắc bằng không.",
+        "Niềm tin chủ quan của con người không phải là dẫn chứng tin cậy cho tính chính xác.",
+        "Niềm tin chủ quan luôn đồngbps với kết quả của các thuật toán thống kê."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kahneman nhấn mạnh rằng sự tự tin chủ quan thường xuất phát từ sự dễ dãi nhận thức và WYSIATI, do đó không phải là chỉ số đáng tin cậy để đo lường độ chính xác."
+    },
+    {
+      "id": "q11",
+      "question": "Hành vi nào dưới đây minh họa rõ nhất cho cơ chế hoạt động của Hệ thống 1 khi đối mặt với một câu hỏi khó trong môi trường thiếu quy luật?",
+      "options": [
+        "Tạm dừng mọi phán đoán để thu thập đầy đủ dữ liệu thống kê khách quan.",
+        "Thực hiện các bước tính toán chậm rãi, có ý thức và kiểm tra nhiều lần.",
+        "Phủ nhận hoàn toàn mọi thông tin từ bộ nhớ liên hợp để duy trì sự khách quan.",
+        "Tự động thay thế câu hỏi khó bằng một câu hỏi dễ hơn rồi đưa ra câu trả lời nhanh."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hệ thống 1 thường giải quyết các câu hỏi khó bằng cơ chế thay thế (substitution), tự động đưa ra câu trả lời cho một câu hỏi dễ hơn mà không nhận thức được sự thay thế đó."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao các bác sĩ gây mê thường phát triển được các kỹ năng trực giác đáng tin cậy hơn so với các nhà tâm lý học lâm sàng?",
+      "options": [
+        "Vì công việc của bác sĩ gây mê không đòi hỏi sự tập trung cao độ như tâm lý học.",
+        "Vì bác sĩ gây mê nhận được phản hồi tức thì và rõ ràng về hiệu quả hành động.",
+        "Vì tâm lý học lâm sàng sử dụng các thuật toán thống kê hoàn hảo thay cho trực giác.",
+        "Vì bác sĩ gây mê không bao giờ phải đối mặt với các tình huống khẩn cấp bất ngờ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bác sĩ gây mê có môi trường phản hồi tức thì và rõ ràng, điều kiện lý tưởng để Hệ thống 1 học hỏi, trong khi nhà trị liệu tâm lý nhận phản hồi dài hạn thưa thớt hoặc không có."
+    },
+    {
+      "id": "q13",
+      "question": "Hiện tượng WYSIATI (Những gì bạn thấy là tất cả những gì có) đóng vai trò gì trong việc hình thành các trực giác vô căn cứ ở con người?",
+      "options": [
+        "Nó ép buộc bộ não phân tích mọi dữ liệu vắng mặt và giả thuyết trái chiều.",
+        "Nó kích hoạt Hệ thống 2 thực hiện các phép tính logic phức tạp trước khi ra quyết định.",
+        "Nó giúp bộ não phớt lờ những điều không biết để tạo dựng sự tự tin cao độ ảo tưởng.",
+        "Nó làm suy giảm hoàn toàn khả năng lưu trữ thông tin của bộ nhớ liên hợp."
+      ],
+      "correctIndex": 2,
+      "explanation": "WYSIATI khiến bộ não tập trung vào thông tin trước mắt, bỏ qua những gì không biết, từ đó xây dựng những câu chuyện gắn kết và tạo ra sự tự tin thái quá vào trực giác."
+    },
+    {
+      "id": "q14",
+      "question": "Điểm khác biệt cốt lõi trong thái độ của Daniel Kahneman và Gary Klein sau khi hoàn thành dự án nghiên cứu chung là gì?",
+      "options": [
+        "Klein vẫn thích thú với các câu chuyện thuật toán ngớ ngẩn, Kahneman thích quở trách chuyên gia ngạo mạn.",
+        "Cả hai hoàn toàn đồng thuận về mọi mặt và không còn bất kỳ khác biệt cảm xúc nào dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Klein hoàn toàn mất niềm tin vào lính cứu hỏa, còn Kahneman tin tưởng tuyệt đối dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Kahneman từ bỏ hoàn toàn quan điểm về sự yếu kém của dự đoán lâm sàng trong quá trình phán đoán và tư duy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dù đồng thuận về học thuật, họ vẫn giữ những khác biệt cảm xúc: Klein thích thú với lỗi của thuật toán, còn Kahneman thích quở trách các chuyên gia ngạo mạn ở môi trường không có quy luật."
+    },
+    {
+      "id": "q15",
+      "question": "Khi một nhà quản lý đưa ra quyết định kinh doanh dựa trên cảm giác 'linh cảm chắc chắn' trong một thị trường biến động mạnh, bạn nên áp dụng lời khuyên nào từ Kahneman?",
+      "options": [
+        "Đánh giá lại tính quy luật của môi trường và hiểu rằng niềm tin chủ quan không đảm bảo đúng.",
+        "Tuyệt đối tin tưởng trực giác vì kinh nghiệm chuyên gia luôn chính xác tuyệt đối.",
+        "Thay thế hoàn toàn con người bằng các nhà đầu cơ chứng khoán chuyên nghiệp.",
+        "Khuyến khích Hệ thống 1 hoạt động mạnh hơn nữa để loại bỏ mọi sự kiểm soát logic."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kahneman đúc kết rằng không nên tin vào trực giác trong môi trường thiếu quy luật bền vững, và niềm tin chủ quan không phải là chỉ số chẩn đoán độ chính xác."
+    }
+  ]
+}

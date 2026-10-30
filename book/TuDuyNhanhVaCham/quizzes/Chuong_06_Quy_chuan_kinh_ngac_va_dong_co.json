@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_06_Quy_chuan_kinh_ngac_va_dong_co",
+  "chapterTitle": "Chương 6. Quy chuẩn, kinh ngạc và động cơ",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo Daniel Kahneman, chức năng cốt lõi nào của Hệ thống 1 giúp thiết lập nền tảng cho việc nhận diện thế giới xung quanh và phát hiện các yếu tố bất thường?",
+      "options": [
+        "Duy trì và cập nhật liên tục hình mẫu về thế giới dựa trên các chuẩn mực.",
+        "Phân tích logic các dữ liệu thống kê phức tạp để tìm ra quy luật ẩn giấu.",
+        "Kiểm soát chủ động các ký ức dài hạn nhằm lập trình lại tư duy phản biện.",
+        "Đánh giá chính xác xác suất toán học của các sự kiện ngẫu nhiên đời thực."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 đóng vai trò duy trì một hình mẫu nội tâm về những điều bình thường, kết nối các sự kiện thường xảy ra đồng thời. Khi có sự kiện đi lệch chuẩn, Hệ thống 1 sẽ lập tức phát hiện mà không cần sự can thiệp của tư duy logic chậm chạp."
+    },
+    {
+      "id": "q2",
+      "question": "Trong câu chuyện tác giả vô tình gặp lại người quen tên Jon ở London sau lần gặp đầu tiên tại rạp chiếu phim hay khu nghỉ dưỡng, phản ứng của tâm trí minh chứng cho điều gì về hoạt động nhận thức?",
+      "options": [
+        "Hệ thống 2 lập tức loại bỏ hoàn toàn mọi ký ức ngẫu nhiên để tránh nhiễu loạn.",
+        "Bộ não tính toán chính xác xác suất thống kê cực kỳ thấp của cuộc gặp gỡ tình cờ.",
+        "Hệ thống 1 nhanh chóng cập nhật chuẩn mực, khiến sự việc lặp lại bớt ngạc nhiên hơn.",
+        "Con người luôn chủ động tìm kiếm các mối quan hệ xã hội ẩn giấu khi đi du lịch."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sự lặp lại dù chỉ một chút của một trải nghiệm mới mẻ sẽ làm thay đổi cách nhìn nhận của Hệ thống 1, biến nó thành một phần của 'chuẩn mực mới', từ đó giảm bớt cảm giác kinh ngạc trong lần gặp tiếp theo."
+    },
+    {
+      "id": "q3",
+      "question": "Hiện tượng 'ảo tưởng Moses' (khi mọi người vô thức trả lời câu hỏi Moses đưa lên thuyền bao nhiêu con vật mà quên mất đó là Noah) được giải thích tốt nhất bởi lý thuyết nào?",
+      "options": [
+        "Lý thuyết bảo toàn năng lượng nhận thức khi Hệ thống 2 bị kiệt sức hoàn toàn.",
+        "Lý thuyết chuẩn tắc, trong đó tên Moses không tạo ra sự bất thường trong văn cảnh.",
+        "Hiệu ứng mỏ neo do số lượng âm tiết giống nhau giữa hai từ khóa chính gây ra.",
+        "Xu hướng quy nạp sai lầm từ các dữ liệu lịch sử chưa được kiểm chứng đầy đủ."
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo lý thuyết chuẩn tắc, tên Moses không phải là một nhân vật bất thường trong bối cảnh một câu chuyện Kinh thánh. Hơn nữa, sự tương đồng về âm tiết kích hoạt mối liên hệ tiềm ẩn khiến Hệ thống 1 nhanh chóng chấp nhận tính logic."
+    },
+    {
+      "id": "q4",
+      "question": "Các thí nghiệm về phản ứng não bộ cho thấy câu nói 'Trái Đất quay xung quanh những rắc rối mỗi năm một lần' tạo ra sự thay đổi điện sinh lý chỉ trong vòng:",
+      "options": [
+        "Hai phần mười giây đầu tiên khi các từ quen thuộc vang lên và bị lệch chuẩn.",
+        "Năm giây sau khi Hệ thống 2 hoàn tất quá trình phân tích logic cú pháp câu.",
+        "Một giây trọn vẹn khi toàn bộ ý nghĩa ngữ nghĩa được tổng hợp và kiểm duyệt.",
+        "Ba phần mười giây khi các vùng ngôn ngữ bán cầu trái kích hoạt tối đa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Não bộ phát hiện những điểm vi phạm tiêu chuẩn thông thường một cách cực kỳ nhanh chóng và vô cùng tài tình, cụ thể là chỉ trong vòng 2/10 giây đầu tiên khi các từ ngữ phi lý xuất hiện."
+    },
+    {
+      "id": "q5",
+      "question": "Khi đọc câu 'Con chuột nhắt khổng lồ trèo lên thân của từng con voi bé xíu', tại sao chúng ta lại cảm thấy khó khăn khi hình dung trong đầu?",
+      "options": [
+        "Vì Hệ thống 2 thiếu các dữ liệu hình ảnh trực quan về kích thước loài vật.",
+        "Vì ngôn ngữ cấu trúc câu quá phức tạp vượt quá tầm xử lý của trí nhớ ngắn hạn.",
+        "Vì Hệ thống 1 truy cập vào các quy chuẩn kích thước phạm trù và thấy mâu thuẫn.",
+        "Vì hiện tượng quá tải nhận thức tạm thời làm tê liệt khả năng tưởng tượng."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hệ thống 1 truy cập vào hệ thống quy chuẩn của từng phạm trù loài vật, định ra chuỗi giá trị hợp lý về kích cỡ. Việc con chuột to hơn voi đi ngược lại hoàn toàn các quy chuẩn đã được củng cố vững chắc trong trí óc."
+    },
+    {
+      "id": "q6",
+      "question": "Ví dụ về việc giá trái phiếu kho bạc biến động khi Saddam Hussein bị bắt minh họa rõ nét nhất cho xu hướng nhận thức nào của con người?",
+      "options": [
+        "Khả năng phân tích tài chính khách quan dựa trên số liệu thống kê vĩ mô thực tế.",
+        "Nhu cầu tự động tìm kiếm mối liên hệ nhân quả để giải thích các sự kiện lớn.",
+        "Xu hướng lạc quan thái quá về sự ổn định của thị trường đầu tư quốc tế.",
+        "Hiệu ứng khung dữ liệu làm thay đổi hoàn toàn giá trị thực của tài sản."
+      ],
+      "correctIndex": 1,
+      "explanation": "Con người có cơ chế tự động tìm kiếm nguyên nhân bao trùm. Một sự kiện lớn diễn ra luôn đòi hỏi phải có hệ quả và nguyên nhân đi kèm để thỏa mãn nhu cầu gắn kết của tư duy, ngay cả khi các giải thích đưa ra có thể mâu thuẫn nhau."
+    },
+    {
+      "id": "q7",
+      "question": "Trong thí nghiệm của Albert Michotte về các hình vuông di chuyển va chạm nhau, hiện tượng con người nhìn thấy sự 'tác động' và nguyên nhân kết quả phản ánh điều gì?",
+      "options": [
+        "Khả năng suy luận logic dựa trên các định luật vật lý Newton phức tạp.",
+        "Sự học hỏi từ kinh nghiệm thực tế qua hàng ngàn lần quan sát từ nhỏ đến lớn.",
+        "Sự can thiệp kịp thời của Hệ thống 2 nhằm giải thích hiện tượng quang học.",
+        "Ảo tưởng nguyên nhân mạnh mẽ được tạo ra tự động bởi hoạt động của Hệ thống 1."
+      ],
+      "correctIndex": 3,
+      "explanation": "Michotte chứng minh rằng chúng ta nhìn thấy nguyên nhân rõ ràng như nhìn thấy màu sắc. Đây là sản phẩm tự động của Hệ thống 1, thậm chí trẻ em 6 tháng tuổi cũng đã có ấn tượng sẵn có về quan hệ nhân quả này."
+    },
+    {
+      "id": "q8",
+      "question": "Theo nghiên cứu của Heider và Simmel về đoạn phim ngắn về các hình tam giác và hình tròn chuyển động, phản ứng thông thường của người xem là gì?",
+      "options": [
+        "Tập trung ghi nhớ chính xác tọa độ hình học và tốc độ dịch chuyển của từng hình.",
+        "Phân tích cấu trúc toán học của đoạn phim dưới góc độ vật lý chuyển động.",
+        "CoI đây chỉ là những chuyển động hình học vô tri vô giác không có ý nghĩa gì.",
+        "Gán ghép ngay lập tức các tính cách con người, chủ đích và ý nghĩa xã hội cho chúng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bộ não con người rất háo hức chỉ đích danh các tác nhân, gán cho chúng tính cách con người, ý định rõ ràng (ai bắt nạt ai, ai sợ hãi ai). Ngay cả trẻ dưới một tuổi cũng có sẵn những quy ước có chủ định này trong Hệ thống 1."
+    },
+    {
+      "id": "q9",
+      "question": "Nhà tâm lý học Paul Bloom cho rằng sự phân chia tự nhiên giữa ý thức về mối quan hệ nhân quả vật chất và tâm lý chính là cội nguồn của điều gì?",
+      "options": [
+        "Các hệ thống triết học duy vật biện chứng hiện đại trong đời sống trí tuệ.",
+        "Sự phát triển vượt bậc của khoa học kỹ thuật và trí tuệ nhân tạo thế hệ mới.",
+        "Nền tảng hình thành các niềm tin tôn giáo như đấng sáng tạo và linh hồn bất tử.",
+        "Các phương pháp trị liệu tâm lý hành vi nhằm giải quyết rối loạn âu lo."
+      ],
+      "correctIndex": 2,
+      "explanation": "Việc nhận thức thế giới vật chất tách biệt với thế giới tâm linh giúp con người dễ dàng hình dung thể xác không hồn và linh hồn không xác, từ đó tạo nền tảng tự nhiên cho các niềm tin tôn giáo sâu sắc."
+    },
+    {
+      "id": "q10",
+      "question": "Theo Daniel Kahneman, lý do chính khiến ông sử dụng các ẩn dụ như 'Hệ thống 1' hay 'bộ máy liên kết' để mô tả quá trình nhận thức tâm lý là gì?",
+      "options": [
+        "Vì chúng phản ánh chính xác cấu trúc sinh học tuyệt đối của các tế bào thần kinh.",
+        "Vì đó là cách dễ dàng và tự nhiên nhất để con người suy nghĩ về các nguyên nhân.",
+        "Vì chúng giúp loại bỏ hoàn toàn mọi sai lệch nhận thức trong các quyết định kinh tế.",
+        "Vì các mô hình toán học phức tạp không thể giải thích được hành vi con người."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tác giả sử dụng các ẩn dụ nhân tố trung gian và bộ máy liên kết không phải để khẳng định chúng tồn tại vật lý thực sự, mà vì đó là cách dễ nhất và tự nhiên nhất khi chúng ta tư duy về nguyên nhân và hành vi."
+    },
+    {
+      "id": "q11",
+      "question": "Khi một người quản lý khảo sát phản hồi của khách hàng về sản phẩm, lời khuyên rút ra từ chương sách này là gì?",
+      "options": [
+        "Cần xem xét một dải các phản ứng thông thường thay vì chỉ chú ý giá trị trung bình.",
+        "Chỉ tập trung vào con số trung bình duy nhất để tiết kiệm thời gian phân tích.",
+        "Loại bỏ hoàn toàn các ý kiến bất thường vì chúng chỉ là những ngoại lệ vô nghĩa.",
+        "Tin tưởng hoàn toàn vào trực giác chuyên gia khi đánh giá mức độ hài lòng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách nhấn mạnh tầm quan trọng của việc hiểu các quy chuẩn và dải các phản ứng thông thường thay vì chỉ nhìn vào một con số trung bình đơn lẻ, giúp thấy bức tranh toàn cảnh về kỳ vọng của thị trường."
+    },
+    {
+      "id": "q12",
+      "question": "Khi Jane bị mất ví ở New York và người nghe tự động liên tưởng đến từ 'móc túi' dù từ này không xuất hiện trong câu, điều này chứng tỏ điều gì?",
+      "options": [
+        "Hệ thống 1 tự động kết nối các mảnh thông tin và hoàn cảnh để tạo ra nguyên nhân hợp lý.",
+        "Trí nhớ ngắn hạn của con người cực kỳ hoàn hảo và không bao giờ bịa đặt thông tin.",
+        "Hệ thống 2 luôn kiểm soát chặt chẽ từng từ ngữ xuất hiện trong văn bản đọc.",
+        "Hiện tượng mỏ neo từ ngữ làm thay đổi hoàn toàn ý nghĩa ban đầu của câu chuyện."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 xuất sắc trong việc tìm kiếm các liên kết nhân quả để xâu chuỗi các mảnh thông tin rời rạc trong phạm vi cho phép, gắn sự kiện mất ví ở nơi đông đúc với nguyên nhân bị móc túi."
+    },
+    {
+      "id": "q13",
+      "question": "Đặc điểm nào sau đây KHAI THÁC ĐÚNG bản chất hoạt động của Hệ thống 1 khi đối mặt với các tình huống bất ngờ trong đời sống?",
+      "options": [
+        "Hoạt động chậm chạp, đòi hỏi sự tập trung cao độ và tiêu tốn nhiều năng lượng.",
+        "Tự động rà soát quy chuẩn, phát hiện điểm bất thường và tìm kiếm nguyên nhân nhanh chóng.",
+        "Thực hiện các phép tính xác suất thống kê phức tạp trước khi đưa ra kết luận.",
+        "Luôn nghi ngờ mọi dữ liệu đầu vào và yêu cầu kiểm chứng bằng số liệu thực tế."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 1 vận hành nhanh chóng, tự động, không tốn nỗ lực, chuyên trách việc duy trì quy chuẩn, phát hiện ngoại lệ và tự động gán nguyên nhân cho các sự kiện mà không cần sự suy luận logic cồng kềnh."
+    },
+    {
+      "id": "q14",
+      "question": "Trong bối cảnh tư duy hành vi, tại sao con người thường có xu hướng tìm kiếm một nguyên nhân cụ thể (thậm chí là thuyết âm mưu) khi gặp phải vận rủi thay vì chấp nhận sự ngẫu nhiên?",
+      "options": [
+        "Vì bộ não được lập trình sẵn để tìm kiếm tính nhân quả và sự gắn kết cho mọi sự kiện.",
+        "Vì con người được đào tạo chuyên sâu về phương pháp luận nghiên cứu khoa học.",
+        "Vì các quy luật thống kê ngẫu nhiên đã được chứng minh là không tồn tại trong thực tế.",
+        "Vì Hệ thống 2 luôn luôn phân tích cực kỳ lý trí mọi biến cố bất ngờ xảy ra."
+      ],
+      "correctIndex": 3,
+      "explanation": "Cơ chế tìm kiếm nhân quả tự động của Hệ thống 1 luôn đòi hỏi các hệ quả lớn phải có nguyên nhân tương xứng để giải thích, khiến con người khó lòng chấp nhận sự ngẫu nhiên thuần túy và dễ tìm kiếm các nguyên nhân chủ định."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học thực tiễn quan trọng nhất đối với các nhà quản lý và ra quyết định khi thấu hiểu lý thuyết chuẩn tắc và tư duy nhân quả của Daniel Kahneman là gì?",
+      "options": [
+        "Hoàn toàn dựa vào trực giác nhanh nhạy để đưa ra các quyết định chiến lược lớn.",
+        "Loại bỏ hoàn toàn vai trò của Hệ thống 1 trong mọi quy trình làm việc nhóm.",
+        "Cẩn trọng trước cái bẫy tự động gán nguyên nhân đơn giản cho các biến động phức tạp.",
+        "Tin tưởng tuyệt đối vào các tiêu đề giật gân trên các phương tiện truyền thông."
+      ],
+      "correctIndex": 2,
+      "explanation": "Các nhà quản lý cần nhận thức rõ cạm bẫy của Hệ thống 1 trong việc tự động tìm kiếm nguyên nhân và áp đặt chuẩn mực, từ đó chủ động sử dụng tư duy phân tích của Hệ thống 2 để đánh giá khách quan các biến động thay vì vội vàng quy kết."
+    }
+  ]
+}

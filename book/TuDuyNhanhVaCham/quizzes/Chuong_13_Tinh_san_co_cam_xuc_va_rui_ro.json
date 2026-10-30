@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_13_Tinh_san_co_cam_xuc_va_rui_ro",
+  "chapterTitle": "Chương 13. Tính sẵn có, cảm xúc và rủi ro",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Sau mỗi trận động đất lớn, người dân California bỗng sốt sắng mua bảo hiểm và gia cố nhà cửa, nhưng rồi ký ức mờ dần theo thời gian. Hiện tượng này phản ánh rõ nét quy luật nhận thức nào của con người?",
+      "options": [
+        "Sự thay đổi hoàn toàn về cấu trúc tư duy logic của người dân.",
+        "Sự hoạt động chuẩn xác của Hệ thống 2 dựa trên dữ liệu thống kê.",
+        "Sự tác động mạnh mẽ của hiệu ứng tính sẵn có và ký ức cảm xúc.",
+        "Sự can thiệp kịp thời từ các chính sách quản lý rủi ro vĩ mô."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hiện tượng này minh họa cho 'hiệu ứng tính sẵn có' (availability heuristic). Khi một thảm họa vừa xảy ra, hình ảnh và cảm xúc về nó hiện lên rất sống động trong trí nhớ liên hợp (do Hệ thống 1 chi phối), khiến con người phóng đại xác suất tái diễn. Khi thời gian trôi đi, tính sẵn có giảm dần, hành vi phòng ngừa cũng lụi tàn."
+    },
+    {
+      "id": "q2",
+      "question": "Vì sao phần lớn người tham gia khảo sát đánh giá chết do tai nạn có khả năng xảy ra cao hơn gấp nhiều lần so với chết do đột quỵ, mặc dù thực tế ngược lại?",
+      "options": [
+        "Do tai nạn giao thông có số liệu thống kê khoa học minh bạch hơn.",
+        "Do các phương tiện truyền thông thường đưa tin đậm nét về tai nạn.",
+        "Do con người luôn có xu hướng chủ động tìm kiếm các số liệu y tế.",
+        "Do bộ não con người xử lý thông tin y khoa bằng lý trí Hệ thống 2."
+      ],
+      "correctIndex": 1,
+      "explanation": "Truyền thông thường khai thác các sự kiện mới lạ, thương tâm và gây sốc như tai nạn, khiến chúng trở nên vô cùng nổi bật trong bộ nhớ. Người dân ước tính tần suất dựa trên độ dễ dàng mà thông tin xuất hiện trong đầu (tính sẵn có), dẫn đến sự bóp méo nhận thức so với thực tế khách quan."
+    },
+    {
+      "id": "q3",
+      "question": "Khái niệm 'suy nghiệm gây tác động' (affect heuristic) do Paul Slovic đề xướng mô tả cơ chế ra quyết định nào của con người?",
+      "options": [
+        "Con người phân tích cực kỳ logic mọi lợi ích và rủi ro tiềm ẩn.",
+        "Con người hoàn toàn phớt lờ mọi cảm xúc cá nhân khi đưa ra lựa chọn.",
+        "Con người dùng cảm xúc để thay thế cho câu hỏi đánh giá phức tạp.",
+        "Con người luôn đưa ra quyết định dựa trên các số liệu thống kê chuẩn."
+      ],
+      "correctIndex": 2,
+      "explanation": "Suy nghiệm gây tác động là một dạng phép thế (substitution): Thay vì trả lời câu hỏi phức tạp về mặt phân tích ('Mình nghĩ gì về công nghệ này?'), bộ não tự động thay thế bằng một câu hỏi đơn giản hơn ('Mình cảm thấy thế nào về nó?'), qua đó cảm xúc trực tiếp chi phối phán quyết."
+    },
+    {
+      "id": "q4",
+      "question": "Trong thí nghiệm khảo sát về các công nghệ như nhà máy hóa chất hay thực phẩm bảo quản, khi một người có thiện cảm với công nghệ, họ sẽ có xu hướng đánh giá như thế nào?",
+      "options": [
+        "Đánh giá công nghệ đó mang lại lợi ích rất lớn và rủi ro rất thấp.",
+        "Đánh giá công nghệ đó có cả lợi ích khổng lồ lẫn rủi ro cực kỳ cao.",
+        "Đánh giá công nghệ đó không đem lại bất kỳ giá trị thực tiễn nào cả.",
+        "Đánh giá công nghệ đó có mức độ rủi ro lớn hơn hẳn so với lợi ích."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hiện tượng này phản ánh sự 'liên kết chắc chắn' (halo effect kết hợp với hiệu ứng cảm xúc). Khi đã thích một đối tượng, Hệ thống 1 gán cho nó toàn những đặc tính tích cực, khiến con người tin rằng nó vừa có lợi ích cao vừa ít rủi ro, loại bỏ hoàn toàn những cân nhắc khó nhọc."
+    },
+    {
+      "id": "q5",
+      "question": "Khi những người tham gia thí nghiệm đọc các thông điệp chỉ ca ngợi lợi ích của một công nghệ, niềm tin của họ về mức độ rủi ro của công nghệ đó thay đổi ra sao?",
+      "options": [
+        "Họ nhận thức rằng mức độ rủi ro của công nghệ đó đã tăng lên đáng kể.",
+        "Họ nhận thức rằng công nghệ đó trở nên ít rủi ro hơn trước rất nhiều.",
+        "Họ giữ nguyên quan điểm ban đầu vì thông tin về rủi ro không hề thay đổi.",
+        "Họ loại bỏ hoàn toàn mọi suy nghĩ liên quan đến lợi ích và rủi ro."
+      ],
+      "correctIndex": 1,
+      "explanation": "Điều này chứng minh phát biểu 'cảm xúc qua mặt lý trí'. Khi thông tin tích cực kích hoạt cảm xúc thiện cảm, nó lan tỏa và làm thay đổi luôn cả nhận thức về rủi ro dù không có dữ liệu nào về rủi ro được cung cấp thêm. Con người điều chỉnh niềm tin để duy trì sự nhất quán cảm xúc."
+    },
+    {
+      "id": "q6",
+      "question": "Sự khác biệt cơ bản giữa cách đánh giá rủi ro của giới chuyên gia và công chúng đại trà thường xuất phát từ yếu tố cốt lõi nào?",
+      "options": [
+        "Chuyên gia đo lường bằng tuổi thọ mất đi, còn công chúng có giá trị phong phú hơn.",
+        "Công chúng có cái nhìn hẹp hòi và hoàn toàn thiếu khả năng tư duy logic.",
+        "Chuyên gia chỉ dựa vào cảm xúc thuần túy còn công chúng dựa vào số liệu.",
+        "Công chúng luôn chính xác hơn chuyên gia trong mọi tình huống thực tế đời sống."
+      ],
+      "correctIndex": 0,
+      "explanation": "Slovic chỉ ra rằng các chuyên gia thường quy đổi rủi ro thành các con số khô khan (số sinh mệnh hoặc tuổi thọ mất đi), trong khi công chúng đưa ra những phân biệt định tính phong phú hơn (như chết già hay chết trẻ, chết ngẫu nhiên hay do hoạt động có chủ ý), phản ánh một xung đột giá trị thực sự."
+    },
+    {
+      "id": "q7",
+      "question": "Quan điểm của nhà khoa học Paul Slovic về bản chất của khái niệm 'rủi ro' khác biệt như thế nào so với góc nhìn truyền thống?",
+      "options": [
+        "Rủi ro là một thực thể hoàn toàn khách quan nằm sẵn ở ngoài đời thực.",
+        "Rủi ro chỉ có thể được đo lường chính xác bằng các mô hình toán học cao cấp.",
+        "Rủi ro là một ý niệm do con người phát minh ra, gắn liền với trí óc và văn hóa.",
+        "Rủi ro hoàn toàn không có thật và chỉ là sản phẩm của trí tưởng tượng mơ hồ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Slovic lập luận rằng không có thứ gọi là 'rủi ro khách quan' tồn tại độc lập bên ngoài trí óc và văn hóa. Loài người phát minh ra ý niệm rủi ro để kiểm soát bất ổn, và việc lựa chọn thước đo rủi ro luôn mang tính chủ quan và phục vụ những mục đích định hướng nhất định."
+    },
+    {
+      "id": "q8",
+      "question": "Khái niệm 'tầng (thác) giá trị sẵn có' (availability cascade) do Kuran và Sunstein sáng tạo ra mô tả hiện tượng xã hội nào dưới đây?",
+      "options": [
+        "Một chuỗi các quyết định kinh tế hoàn toàn hợp lý dựa trên cung cầu thị trường.",
+        "Một chuỗi sự kiện tự duy trì bắt đầu từ tin nhỏ dẫn đến hoang mang và chính sách lớn.",
+        "Một chiến dịch truyền thông minh bạch giúp công chúng hiểu đúng bản chất rủi ro.",
+        "Một quá trình suy giảm tự nhiên của các ký ức đau buồn trong cộng đồng dân cư."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tầng giá trị sẵn có là một chuỗi tự duy trì: một tin tức nhỏ về hiểm họa kích hoạt cảm xúc lo âu, truyền thông phóng đại để thu hút sự chú ý, tạo ra làn sóng hoảng loạn của đám đông, từ đó ép hệ thống chính trị phải phản ứng và đưa ra những quyết định phân bổ nguồn lực thiên lệch."
+    },
+    {
+      "id": "q9",
+      "question": "Trong sự cố Alar năm 1989 liên quan đến hóa chất trên táo, phản ứng thái quá của công luận và truyền thông minh chứng cho hạn chế nào của bộ não con người?",
+      "options": [
+        "Xu hướng hoặc lờ đi tất cả hoặc đặt quá nhiều trọng số cho các rủi ro nhỏ.",
+        "Khả năng phân tích chính xác xác suất cực nhỏ của các chất độc hại.",
+        "Năng lực kiểm soát tuyệt vời của Hệ thống 2 trước các tin tức giật gân.",
+        "Sự thấu hiểu sâu sắc các báo cáo kiểm định khoa học của chính phủ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự kiện Alar minh họa cho hiện tượng 'sao lãng xác suất' (probability neglect). Khi đối mặt với các rủi ro nhỏ, con người thường mắc kẹt ở hai thái cực: hoặc phớt lờ hoàn toàn, hoặc thổi phồng tầm quan trọng của nó lên mức tối đa khi có hình ảnh cảm xúc kích hoạt."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao các chiến dịch khủng bố lại cực kỳ thành công trong việc tạo ra tầng giá trị sẵn có và chi phối tâm lý công chúng dù số nạn nhân thực tế rất nhỏ?",
+      "options": [
+        "Vì khủng bố luôn nhắm vào các cơ sở hạ tầng kinh tế trọng yếu của quốc gia.",
+        "Vì các cơ quan chính phủ luôn chủ động che giấu thông tin thật về khủng bố.",
+        "Vì hình ảnh khủng bố rất dễ gợi nhắc, kích hoạt trực tiếp Hệ thống 1 đầy sợ hãi.",
+        "Vì phương pháp tính toán xác suất của công chúng luôn hoàn toàn chính xác."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sửa lựa chọn C thành phương án đúng: Khủng bố tạo ra những hình ảnh vô cùng kinh khủng được lặp lại liên tục trên truyền thông, khiến giá trị sẵn có của nó cực cao trong tâm trí. Nó trực tiếp đánh vào Hệ thống 1, khiến con người chỉ nhìn thấy tử số (câu chuyện thương tâm) mà quên mất mẫu số (xác suất thực tế rất thấp)."
+    },
+    {
+      "id": "q11",
+      "question": "Cass Sunstein bảo vệ vai trò của giới chuyên gia trong việc hoạch định chính sách rủi ro dựa trên lập luận nào sau đây?",
+      "options": [
+        "Giới chuyên gia là những người hoàn toàn không bao giờ mắc sai lầm nhận thức.",
+        "Giới chuyên gia sở hữu khả năng kiểm soát tuyệt đối các phương tiện truyền thông.",
+        "Giới chuyên gia luôn chiều theo mọi mong muốn cảm tính của đại đa số công chúng.",
+        "Giới chuyên gia hành động như một thành trì chống lại các phản ứng dân túy sai lệch."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sunstein cho rằng các cơ chế điều tiết hiện hữu dễ bị lung lay bởi áp lực cộng đồng và cảm xúc đám đông. Do đó, việc duy trì vai trò của chuyên gia dựa trên phân tích chi phí - lợi ích khách quan là 'thành trì' cần thiết để ngăn chặn các chính sách lãng phí do phản ứng thái quá."
+    },
+    {
+      "id": "q12",
+      "question": "Daniel Kahneman đã đúc kết như thế nào về sự đối lập giữa quan điểm của Cass Sunstein và Paul Slovic trong việc quản lý rủi ro chính sách công?",
+      "options": [
+        "Chỉ có quan điểm của Sunstein là đúng đắn vì tính khách quan khoa học tuyệt đối.",
+        "Chỉ có quan điểm của Slovic là có giá trị trong một xã hội dân chủ hiện đại.",
+        "Cả hai quan điểm đều sai lầm và không mang lại giá trị thực tiễn cho chính sách.",
+        "Cả hai nhà tư tưởng đều có lý: cần chống lại nỗi sợ vô lý nhưng không thể tảng lờ nó."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kahneman thể hiện sự đồng tình với cả hai: Ông chia sẻ mối lo của Sunstein về việc nỗi sợ phi lý bóp méo chính sách công, nhưng cũng đồng thuận với Slovic rằng các nhà lập pháp không được tảng lờ nỗi sợ của công chúng vì sự sợ hãi tự bản thân nó đã gây suy yếu và cần được xoa dịu."
+    },
+    {
+      "id": "q13",
+      "question": "Khi một nhà quản lý ra quyết định đầu tư lớn chỉ vì nghe kể một câu chuyện thất bại đầy cảm xúc của đối thủ mà bỏ qua toàn bộ báo cáo tài chính tổng quan, ông ta đang rơi vào bẫy tư duy nào?",
+      "options": [
+        "Hiệu ứng mỏ neo và sự điều chỉnh chậm chạp của Hệ thống 2.",
+        "Quy luật hồi quy về mức trung bình của các kết quả kinh doanh.",
+        "Sự kết hợp giữa tính sẵn có, suy nghiệm tác động và bỏ qua mẫu số.",
+        "Hành vi ác cảm mất mát cực đoan theo lý thuyết viễn cảnh."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tình huống này hội tụ các thiên kiến: câu chuyện thất bại tạo ra tính sẵn có cao, kích hoạt suy nghiệm tác động (cảm giác sợ hãi/ghét bỏ), khiến người quản lý đưa ra quyết định dựa hoàn toàn trên cảm xúc thay vì phân tích dữ liệu tổng thể (mẫu số lớn trong báo cáo tài chính)."
+    },
+    {
+      "id": "q14",
+      "question": "Phát biểu nào sau đây phản ánh chính xác nhất bản chất của Hệ thống 1 khi con người đánh giá mức độ nguy hiểm của một tình huống bất ngờ?",
+      "options": [
+        "Hệ thống 1 phản ứng dựa trên các hình ảnh sống động và cảm xúc tức thời.",
+        "Hệ thống 1 tính toán cẩn thận xác suất toán học xuất hiện sự cố.",
+        "Hệ thống 1 luôn chờ đợi các phân tích logic từ Hệ thống 2 trước khi kết luận.",
+        "Hệ thống 1 hoàn toàn bình tĩnh và không bị ảnh hưởng bởi tin tức truyền thông."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hệ thống 1 hoạt động nhanh chóng, tự động và mang tính cảm xúc. Khi đối mặt với rủi ro, nó không dùng logic xác suất mà dựa vào các hình ảnh trực quan, dễ liên tưởng (tính sẵn có) và các phản ứng cảm xúc mạnh mẽ (suy nghiệm tác động) để đưa ra phán đoán ngay lập tức."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học cốt lõi rút ra từ 'Chương 13: Tính sẵn có, cảm xúc và rủi ro' đối với việc xây dựng các chính sách an toàn công cộng là gì?",
+      "options": [
+        "Phải để công chúng tự do quyết định mọi chính sách dựa trên cảm xúc của đám đông.",
+        "Chỉ nên tin tưởng tuyệt đối vào các con số thống kê lạnh lùng của giới chuyên gia.",
+        "Nên ngừng cung cấp tin tức về thiên tai và tai nạn trên các phương tiện đại chúng.",
+        "Cần cân bằng giữa việc quản lý hiểm họa thực tế và việc xoa dịu nỗi sợ của công chúng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chương sách kết luận rằng nền dân chủ không thể bỏ qua cảm xúc của công chúng, và các nhà lập pháp có trách nhiệm bảo vệ công chúng khỏi sự sợ hãi chứ không chỉ hiểm nguy vật lý. Do đó, chính sách hiệu quả đòi hỏi sự hòa quyện giữa am hiểu chuyên môn và sự thấu cảm với tâm lý xã hội."
+    }
+  ]
+}

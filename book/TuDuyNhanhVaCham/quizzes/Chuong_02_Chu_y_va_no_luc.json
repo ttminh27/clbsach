@@ -1,0 +1,188 @@
+{
+  "bookId": "TuDuyNhanhVaCham",
+  "chapterId": "Chuong_02_Chu_y_va_no_luc",
+  "chapterTitle": "Chương 2. Chú ý và nỗ lực",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Theo góc nhìn của Daniel Kahneman về Hệ thống 1 và Hệ thống 2, tại sao Hệ thống 2 lại có xu hướng 'lười biếng' và miễn cưỡng đầu tư nỗ lực tinh thần?",
+      "options": [
+        "Vì Hệ thống 2 bị chi phối bởi các cảm xúc tiêu cực và sự hoảng loạn bẩm sinh.",
+        "Vì Hệ thống 2 vận hành bằng cơ chế tốn kém năng lượng và tuân theo quy luật nỗ lực tối thiểu.",
+        "Vì Hệ thống 2 chỉ chịu trách nhiệm cho các hoạt động thể chất và bỏ quên tư duy logic.",
+        "Vì Hệ thống 2 hoàn toàn không có khả năng xử lý các bài toán phức tạp và thống kê."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hệ thống 2 tiêu tốn nguồn năng lượng tinh thần giới hạn và tuân theo 'quy luật nỗ lực tối thiểu' (luôn chọn cách ít tốn sức nhất). Các phương án khác sai vì Hệ thống 2 không phải lúc nào cũng hoảng loạn, không chỉ lo việc thể chất và thực chất có khả năng xử lý logic phức tạp."
+    },
+    {
+      "id": "q2",
+      "question": "Trong các thí nghiệm đo đồng tử của Eckhard Hess và Daniel Beatty, hiện tượng đồng tử giãn nở tối đa phản ánh điều gì về mặt sinh lý nhận thức?",
+      "options": [
+        "Mức độ huy động nỗ lực tinh thần cực đại của Hệ thống 2 khi xử lý nhiệm vụ khó.",
+        "Sự thích ứng tự động của mắt với sự thay đổi ánh sáng đột ngột trong phòng thí nghiệm.",
+        "Sự bùng nổ của cảm xúc vui sướng tột độ khi chủ thể hoàn thành xong công việc.",
+        "Sự kiệt quệ hoàn toàn của năng lượng dự trữ dẫn đến việc ngắt kết nối hệ thần kinh."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đồng tử là 'cửa sổ tâm hồn' phản ánh chính xác nỗ lực tinh thần. Khi nhiệm vụ càng khó (như bài tập Cộng 3), Hệ thống 2 càng huy động nỗ lực cao, làm đồng tử giãn nở rộng nhất. Các phương án khác nhầm lẫn giữa nỗ lực nhận thức với ánh sáng, cảm xúc hoặc kiệt quệ toàn phần."
+    },
+    {
+      "id": "q3",
+      "question": "Khi một người đang thực hiện nhiệm vụ tư duy căng thẳng đòi hỏi mức độ tập trung cao (như bài tập Cộng 3), họ thường bỏ lỡ các kích thích ngoại cảnh rõ ràng (như chữ cái K xuất hiện). Hiện tượng này chứng minh điều gì?",
+      "options": [
+        "Hệ thống 1 có cơ chế bảo vệ bằng cách làm tê liệt hoàn toàn thị lực của con người.",
+        "Năng lực chú ý của não bộ có giới hạn và Hệ thống 2 sẽ phân bổ sự tập trung có chọn lọc.",
+        "Con người bị mất khả năng ghi nhớ ngắn hạn do ảnh hưởng của nhịp phách đều đặn.",
+        "Sự mệt mỏi thể chất làm gián đoạn đường truyền tín hiệu từ võng mạc lên đại não."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sự chú ý là nguồn lực hữu hạn. Khi Hệ thống 2 dồn toàn lực cho nhiệm vụ chính, nó áp dụng cơ chế phân bổ có chọn lọc, dẫn đến hiện tượng 'mù lòa' trước các kích thích phụ. Các phương án khác đưa ra cơ chế sinh lý sai lệch hoặc suy diễn cảm tính."
+    },
+    {
+      "id": "q4",
+      "question": "Theo phép ẩn dụ của tác giả, đời sống trí óc bình thường của con người được ví như hoạt động nào dưới đây?",
+      "options": [
+        "Một cuộc tản bộ nhẹ nhàng, đôi khi bị ngắt quãng bởi những đoạn chạy bộ và đua xe.",
+        "Một cuộc chạy đua nước rút liên tục bị ngắt quãng bởi những khoảng nghỉ ngắn.",
+        "Một cuộc leo núi hiểm trở đòi hỏi phải duy trì tối đa năng lượng trong mọi thời điểm.",
+        "Một buổi biểu diễn nghệ thuật tung hứng nhiều quả bóng trên không trung không ngừng nghỉ."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kahneman ví đời sống trí óc như một cuộc tản bộ nhẹ nhàng (giao tiếp phiếm, Hệ thống 1), đôi khi ngắt quãng bởi chạy bộ và đua xe nước rút (các bài toán phức tạp, Hệ thống 2). Các phương án khác hiểu sai ẩn dụ về cường độ hoạt động não bộ."
+    },
+    {
+      "id": "q5",
+      "question": "Điều gì xảy ra với Hệ thống 2 khi nhu cầu xử lý thông tin vượt quá giới hạn chịu tải cho phép của não bộ?",
+      "options": [
+        "Toàn bộ hệ thống thần kinh sẽ đồng loạt tắt nguồn giống như các thiết bị điện trong nhà.",
+        "Hệ thống 2 sẽ tự động chuyển giao toàn bộ quyền kiểm soát cho cảm xúc của Hệ thống 1.",
+        "Não bộ sẽ tự động sinh ra lượng năng lượng vô hạn để đáp ứng nhu cầu cấp bách hiện tại.",
+        "Hệ thống 2 có tính chọn lọc, ưu tiên bảo vệ các hoạt động quan trọng nhất và phân bổ lại tải."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khác với hệ thống điện trong nhà (sập nguồn toàn bộ khi quá tải), trí não có cơ chế phân bổ chọn lọc, ưu tiên các nhiệm vụ quan trọng. Các phương án khác mô tả sai cơ chế bảo vệ và xử lý quá tải của não bộ."
+    },
+    {
+      "id": "q6",
+      "question": "Khi một kỹ năng hoặc nhiệm vụ đã trở nên thành thục qua quá trình luyện tập, điều gì sẽ diễn ra trong cấu trúc hoạt động của não bộ?",
+      "options": [
+        "Não bộ sẽ huy động nhiều khu vực phức tạp hơn để kiểm soát từng chi tiết nhỏ.",
+        "Mức độ tiêu hao năng lượng tăng lên đáng kể do tốc độ xử lý thông tin được đẩy nhanh.",
+        "Ít khu vực não bộ tham gia xử lý hơn và đòi hỏi ít năng lượng tinh thần hơn để hoàn thành.",
+        "Hệ thống 1 sẽ hoàn toàn biến mất và nhường chỗ cho sự kiểm soát tuyệt đối của Hệ thống 2."
+      ],
+      "correctIndex": 2,
+      "explanation": "Quy luật 'huy động ít sự nỗ lực' chứng minh rằng khi thành thạo, não bộ cần ít khu vực tham gia và tiêu tốn ít năng lượng hơn. Các phương án khác mâu thuẫn trực tiếp với các nghiên cứu thần kinh học và hành vi được nhắc tới trong chương."
+    },
+    {
+      "id": "q7",
+      "question": "Tại sao các cuộc trò chuyện phiếm thông thường lại không làm đồng tử giãn nở đáng kể so với việc thực hiện phép tính nhẩm phức tạp?",
+      "options": [
+        "Vì âm thanh của cuộc trò chuyện phiếm có tần số thấp hơn nhịp phách của máy ghi âm.",
+        "Vì ngôn ngữ được xử lý hoàn toàn bởi các cơ quan ngoại vi mà không cần đến đại não.",
+        "Vì con người đã lưu trữ sẵn tất cả các câu nói phiếm trong vùng tiềm thức vĩnh viễn.",
+        "Vì trò chuyện phiếm không đòi hỏi sự tham gia của bộ nhớ ngắn hạn và nỗ lực kiểm soát."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trò chuyện phiếm là 'cuộc dạo bộ' của tư duy, không đòi hỏi sự nỗ lực đặc biệt hay lưu giữ chuỗi thông tin phức tạp trong bộ nhớ ngắn hạn, nên đồng tử không giãn nở. Các phương án khác sai về mặt sinh lý thần kinh và nhận thức."
+    },
+    {
+      "id": "q8",
+      "question": "Yếu tố nào dưới đây là nguyên nhân chính khiến cho nhiệm vụ Cộng 3 hoặc nhân nhẩm trở nên vô cùng khó khăn và căng thẳng?",
+      "options": [
+        "Sự can thiệp tiêu cực từ các ký ức tuổi thơ được kích hoạt bởi tiếng nhịp phách đều đặn.",
+        "Sự thiếu hụt hoàn toàn về mặt từ vựng để diễn tả các con số trong bộ nhớ dài hạn.",
+        "Sự kết hợp giữa áp lực thời gian, việc duy trì nhiều ý tưởng và liên tục chuyển đổi nhiệm vụ.",
+        "Sự suy giảm thị lực tạm thời do ánh sáng hồng ngoại từ máy quay chớp liên tục."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhiệm vụ Cộng 3 khó vì đòi hỏi giữ nhiều con số đồng thời trong đầu, vừa biến đổi vừa lưu giữ, kết hợp áp lực thời gian và chuyển đổi liên tục. Các phương án khác là những suy diễn vô căn cứ không liên quan đến tâm lý học nhận thức."
+    },
+    {
+      "id": "q9",
+      "question": "Khái niệm 'kiểm soát điều hành' (executive control) trong tâm lý học nhận thức gắn liền với khả năng nào của con người?",
+      "options": [
+        "Khả năng tiếp nhận hàng loạt nhiệm vụ, lập trình trí nhớ và vượt qua các phản ứng theo thói quen.",
+        "Khả năng buông xuôi mọi suy nghĩ để mặc cho bản năng tự nhiên dẫn dắt hành vi.",
+        "Khả năng ghi nhớ chính xác hàng nghìn con số ngẫu nhiên trong thời gian một giây.",
+        "Khả năng duy trì cảm xúc ổn định trước mọi biến cố bất ngờ xảy ra trong cuộc sống."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiểm soát điều hành là khả năng Hệ thống 2 lập trình bộ nhớ để tuân thủ chỉ dẫn, giải quyết mâu thuẫn và vượt lên các phản ứng thói quen của Hệ thống 1. Các phương án khác mô tả sai lệch bản chất của thuật ngữ này."
+    },
+    {
+      "id": "q10",
+      "question": "Theo góc nhìn kinh tế học hành vi được tác giả đề cập, nỗ lực tinh thần được ví như điều gì trong các giao dịch đời sống?",
+      "options": [
+        "Được ví như một loại hàng hóa xa xỉ chỉ dành riêng cho giới thiên tài bẩm sinh.",
+        "Được ví như một khoản giá thành (chi phí) mà con người luôn cố gắng tiết kiệm theo bản năng.",
+        "Được ví như nguồn lợi nhuận khổng lồ mang lại sự giàu có về mặt tri thức cho cá nhân.",
+        "Được ví như khoản tiền thuế bắt buộc phải đóng cho hoạt động của các tế bào não."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kahneman chỉ ra rằng trong kinh tế học, nỗ lực ứng với giá thành, và con người tuân theo quy luật nỗ lực tối thiểu (tương tự việc cân bằng giữa chi phí và lợi ích). Các phương án khác diễn giải sai ẩn dụ kinh tế học của tác giả."
+    },
+    {
+      "id": "q11",
+      "question": "Tình huống nào dưới đây thể hiện rõ nhất sự can thiệp của Hệ thống 2 để ghi đè lên các phản ứng tự động của Hệ thống 1?",
+      "options": [
+        "Né tránh một chiếc xe máy lao nhanh tới từ góc khuất nhờ vào phản xạ giật mình.",
+        "Nhận diện ngay lập tức khuôn mặt quen thuộc của người bạn thân vừa bước vào phòng.",
+        "Cố gắng đếm số lượng chữ cái 'p' xuất hiện trong một trang văn bản dài theo yêu cầu.",
+        "Đọc to ngay lập tức các từ ngữ được in sẵn trên một tờ giấy mà không cần suy nghĩ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đếm chữ 'p' là nhiệm vụ nhân tạo đòi hỏi Hệ thống 2 phải lập trình bộ nhớ và kiểm soát điều hành để vượt qua thói quen đọc hiểu thông thường. Các phương án còn lại đều là hoạt động tự động, nhanh chóng của Hệ thống 1."
+    },
+    {
+      "id": "q12",
+      "question": "Tại sao việc chuyển đổi liên tục giữa các nhiệm vụ nhận thức (như vừa giữ số vừa biến đổi số) lại gây ra tiêu hao năng lượng lớn?",
+      "options": [
+        "Vì Hệ thống 1 cố tình tạo ra các rào cản để ngăn cản Hệ thống 2 hoàn thành công việc trong quá trình phán đoán và tư duy.",
+        "Vì các cơ quan thị giác phải điều tiết liên tục để thích nghi với độ sáng của không gian nhằm nâng cao chất lượng ra quyết định.",
+        "Vì não bộ phải liên tục thiết lập lại các mạch liên kết mới và xóa bỏ trạng thái cũ trong thời gian ngắn.",
+        "Vì dung lượng của bộ nhớ dài hạn bị tràn ngập bởi những thông tin vô ích dựa trên các nguyên lý tâm lý học nhận thức."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chuyển đổi nhiệm vụ đòi hỏi sự cố gắng cao độ của Hệ thống 2 để thiết lập quy tắc mới, giữ thông tin đang xử lý và giải quyết mâu thuẫn. Các phương án khác giải thích sai nguyên nhân cốt lõi về mặt nhận thức."
+    },
+    {
+      "id": "q13",
+      "question": "Phát biểu nào sau đây phản ánh chính xác nhất mối quan hệ giữa trí thông minh tổng quát và khả năng kiểm soát sự chú ý?",
+      "options": [
+        "Khả năng kiểm soát sự chú ý không liên quan gì đến năng lực tư duy logic hay trí tuệ trong quá trình phán đoán và tư duy.",
+        "Kiểm soát sự chú ý chỉ đóng vai trò quan trọng trong các công việc thể chất đòi hỏi sự khéo léo.",
+        "Trí thông minh bẩm sinh giúp con người hoàn toàn miễn nhiễm với sự mệt mỏi khi tư duy dựa trên các nguyên lý tâm lý học nhận thức.",
+        "Những người có khả năng kiểm soát sự chú ý tốt thường làm tốt các bài kiểm tra trí tuệ và nhiệm vụ phức tạp."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nghiên cứu chỉ ra những người làm tốt các thí nghiệm đòi hỏi kiểm soát sự tập trung, biến đổi nhiệm vụ cũng thường có xu hướng làm tốt các bài kiểm tra trí tuệ thông thường. Các phương án khác phủ nhận hoặc hạ thấp vai trò của kiểm soát chú ý."
+    },
+    {
+      "id": "q14",
+      "question": "Khi một nhà quản lý ra quyết định từ chối phân tích sâu các báo cáo tài chính phức tạp mà thay vào đó chọn cách nhìn lướt qua rồi dựa vào cảm tính ban đầu, hành vi này phản ánh điều gì?",
+      "options": [
+        "Sự tuân thủ triệt để các quy chuẩn khoa học hiện đại trong quản trị doanh nghiệp.",
+        "Sự vận hành của quy luật nỗ lực tối thiểu, khi Hệ thống 2 lười biếng nhường chỗ cho Hệ thống 1.",
+        "Sự gia tăng đột biến của dung lượng bộ nhớ ngắn hạn nhờ vào kinh nghiệm lâu năm.",
+        "Sự kích hoạt tối đa của các phản ứng giãn nở đồng tử và kiểm soát điều hành."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hành vi lười biếng suy nghĩ, né tránh phân tích sâu và dựa vào cảm tính minh họa cho 'quy luật nỗ lực tối thiểu' khi Hệ thống 2 ngại đầu tư năng lượng. Các phương án khác nhận định ngược hoàn toàn với bản chất tâm lý học hành vi."
+    },
+    {
+      "id": "q15",
+      "question": "Bài học thực tiễn quan trọng nhất mà Daniel Kahneman muốn truyền tải qua chương 'Chú ý và nỗ lực' đối với đời sống hàng ngày là gì?",
+      "options": [
+        "Cần nhận thức rõ giới hạn năng lượng tinh thần của bản thân để phân bổ sự chú ý hợp lý và tránh quá tải.",
+        "Con người nên ép buộc bản thân thực hiện các bài toán đua xe nước rút liên tục 24/7.",
+        "Phải luôn luôn tin tưởng tuyệt đối vào trực giác nhanh nhạy của Hệ thống 1 trong mọi tình huống.",
+        "Năng lượng tinh thần là nguồn tài nguyên vô tận có thể tự phục hồi ngay lập tức khi gặp áp lực."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chương sách nhấn mạnh năng lượng của Hệ thống 2 là hữu hạn, có giới hạn chịu tải và tuân theo quy luật nỗ lực tối thiểu, từ đó ta cần biết phân bổ hợp lý và tránh quá tải. Các phương án khác khuyên dùng chiến lược tư duy sai lầm."
+    }
+  ]
+}

@@ -15,6 +15,20 @@ function formatFileSize(bytes) {
 }
 
 const placeholderMetadata = {
+  "TuDuyNhanhVaCham": {
+    title: "Tư Duy Nhanh Và Chậm",
+    originalTitle: "Thinking, Fast and Slow",
+    author: "Daniel Kahneman",
+    authorBio: "Daniel Kahneman (1934 – 2024) là nhà tâm lý học người Mỹ gốc Israel, Giáo sư danh dự về Tâm lý học và Quan hệ Công chúng tại Đại học Princeton. Ông được trao Giải Nobel Kinh tế năm 2002 nhờ các công trình tiên phong kết hợp các nghiên cứu tâm lý học vào khoa học kinh tế, đặc biệt là lý thuyết viễn cảnh và các nghiên cứu đột phá về phán đoán dưới điều kiện bất định.",
+    quote: "Một cách đáng tin cậy để khiến mọi người tin vào những điều sai trái là lặp lại chúng thường xuyên, bởi vì sự quen thuộc không dễ gì phân biệt được với chân lý.",
+    translator: "Hương Lan – Xuân Thanh (Hiệu đính: GS. Nguyễn Văn Tuấn)",
+    category: "Tư duy & Nhận thức",
+    tags: ["Daniel Kahneman", "Tư Duy Nhanh Và Chậm", "Thinking Fast and Slow", "Hệ thống 1 và Hệ thống 2", "Kinh tế học hành vi", "Tâm lý học nhận thức", "Thiên kiến nhận thức", "Lý thuyết viễn cảnh", "Ra quyết định"],
+    description: "Kiệt tác toàn cầu về tâm lý học nhận thức và kinh tế học hành vi của Giáo sư đoạt giải Nobel Daniel Kahneman. Cuốn sách vén màn bức tranh toàn cảnh về hai hệ thống chi phối tâm trí con người: Hệ thống 1 (nhanh, tự động, cảm tính) và Hệ thống 2 (chậm, đòi hỏi nỗ lực, logic), chỉ ra những ảo tưởng trực giác và thiên kiến nhận thức cốt lõi, giúp người đọc thấu hiểu bản thân và đưa ra quyết định sáng suốt hơn.",
+    gradient: "from-blue-700 via-indigo-800 to-slate-900",
+    themeColor: "#2563eb",
+    status: "available"
+  },
   "TamLyHocVeTien": {
     title: "Tâm Lý Học Về Tiền",
     originalTitle: "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
@@ -639,7 +653,7 @@ for (const bookId of bookDirs) {
     }
 
     // Trang bìa không cần quiz
-    const isCover = /^00+_?(trang_?bia|muc_?luc)/i.test(fileName) || /^(trang\s+bìa|mục\s+lục)/i.test(title.trim());
+    const isCover = /^00+_?(trang_?bia|muc_?luc|thong_?tin)/i.test(fileName) || /^(trang\s+bìa|mục\s+lục|thông\s+tin)/i.test(title.trim());
     if (isCover) {
       quizUrl = null;
       totalQuestions = 0;
