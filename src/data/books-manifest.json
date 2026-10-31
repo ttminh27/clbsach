@@ -2938,7 +2938,7 @@
       "sizeBytes": 24283605,
       "formattedSize": "23.2 MB"
     },
-    "totalChapters": 12,
+    "totalChapters": 19,
     "totalAudios": 0,
     "chapters": [
       {
@@ -3083,8 +3083,93 @@
         "hasQuiz": true,
         "order": 12,
         "title": "Chương 9: Giáo dục và tôn giáo",
-        "wordCount": 7442,
-        "readingTimeMin": 38
+        "wordCount": 9093,
+        "readingTimeMin": 46
+      },
+      {
+        "id": "10_chuong_muoi_ky_luat_tu_giac",
+        "fileName": "10_chuong_muoi_ky_luat_tu_giac.md",
+        "fileUrl": "/books/ChienThangConQuyTrongBan/10_chuong_muoi_ky_luat_tu_giac.md",
+        "quizUrl": null,
+        "totalQuestions": 0,
+        "hasQuiz": false,
+        "order": 13,
+        "title": "Chương 10: Kỷ luật tự giác",
+        "wordCount": 4958,
+        "readingTimeMin": 25
+      },
+      {
+        "id": "11_chuong_muoi_mot_hoc_tu_nghich_canh",
+        "fileName": "11_chuong_muoi_mot_hoc_tu_nghich_canh.md",
+        "fileUrl": "/books/ChienThangConQuyTrongBan/11_chuong_muoi_mot_hoc_tu_nghich_canh.md",
+        "quizUrl": null,
+        "totalQuestions": 0,
+        "hasQuiz": false,
+        "order": 14,
+        "title": "Chương 11: Học từ nghịch cảnh",
+        "wordCount": 6543,
+        "readingTimeMin": 33
+      },
+      {
+        "id": "12_chuong_muoi_hai_moi_truong_thoi_gian_su_hoa_hop_va_can_trong",
+        "fileName": "12_chuong_muoi_hai_moi_truong_thoi_gian_su_hoa_hop_va_can_trong.md",
+        "fileUrl": "/books/ChienThangConQuyTrongBan/12_chuong_muoi_hai_moi_truong_thoi_gian_su_hoa_hop_va_can_trong.md",
+        "quizUrl": null,
+        "totalQuestions": 0,
+        "hasQuiz": false,
+        "order": 15,
+        "title": "Chương 12: Môi trường, thời gian, sự hòa hợp và cẩn trọng",
+        "wordCount": 7389,
+        "readingTimeMin": 37
+      },
+      {
+        "id": "13_tong_ket",
+        "fileName": "13_tong_ket.md",
+        "fileUrl": "/books/ChienThangConQuyTrongBan/13_tong_ket.md",
+        "quizUrl": null,
+        "totalQuestions": 0,
+        "hasQuiz": false,
+        "order": 16,
+        "title": "Tổng kết",
+        "wordCount": 3393,
+        "readingTimeMin": 17
+      },
+      {
+        "id": "14_loi_bat",
+        "fileName": "14_loi_bat.md",
+        "fileUrl": "/books/ChienThangConQuyTrongBan/14_loi_bat.md",
+        "quizUrl": null,
+        "totalQuestions": 0,
+        "hasQuiz": false,
+        "order": 17,
+        "title": "Lời bạt",
+        "subtitle": "Michael Bernard Beckwith",
+        "wordCount": 1533,
+        "readingTimeMin": 8
+      },
+      {
+        "id": "15_suy_ngam",
+        "fileName": "15_suy_ngam.md",
+        "fileUrl": "/books/ChienThangConQuyTrongBan/15_suy_ngam.md",
+        "quizUrl": null,
+        "totalQuestions": 0,
+        "hasQuiz": false,
+        "order": 18,
+        "title": "Suy ngẫm",
+        "wordCount": 1192,
+        "readingTimeMin": 6
+      },
+      {
+        "id": "16_loi_cam_on",
+        "fileName": "16_loi_cam_on.md",
+        "fileUrl": "/books/ChienThangConQuyTrongBan/16_loi_cam_on.md",
+        "quizUrl": null,
+        "totalQuestions": 0,
+        "hasQuiz": false,
+        "order": 19,
+        "title": "Lời cảm ơn & Về các tác giả",
+        "wordCount": 2052,
+        "readingTimeMin": 11
       }
     ],
     "audios": []

@@ -31,3 +31,12 @@
 - [Chương 7: Mầm mống của nỗi sợ hãi](07_chuong_bay_mam_mong_cua_noi_so_hai.md)
 - [Chương 8: Mục tiêu xác định](08_chuong_tam_muc_tieu_xac_dinh.md)
 - [Chương 9: Giáo dục và tôn giáo](09_chuong_chin_giao_duc_va_ton_giao.md)
+- [Chương 10: Kỷ luật tự giác](10_chuong_muoi_ky_luat_tu_giac.md)
+- [Chương 11: Học từ nghịch cảnh](11_chuong_muoi_mot_hoc_tu_nghich_canh.md)
+- [Chương 12: Môi trường, thời gian, sự hòa hợp và cẩn trọng](12_chuong_muoi_hai_moi_truong_thoi_gian_su_hoa_hop_va_can_trong.md)
+
+### Phần Kết Thúc
+- [Tổng kết](13_tong_ket.md)
+- [Lời bạt](14_loi_bat.md)
+- [Suy ngẫm](15_suy_ngam.md)
+- [Lời cảm ơn & Về các tác giả](16_loi_cam_on.md)

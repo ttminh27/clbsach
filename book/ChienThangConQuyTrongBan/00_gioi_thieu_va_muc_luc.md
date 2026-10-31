@@ -108,10 +108,10 @@
 * **[Chương Bảy: MẦM MỐNG CỦA NỖI SỢ HÃI](07_chuong_bay_mam_mong_cua_noi_so_hai.md)** | 155
 * **[Chương Tám: MỤC TIÊU XÁC ĐỊNH](08_chuong_tam_muc_tieu_xac_dinh.md)** | 163
 * **[Chương Chín: GIÁO DỤC VÀ TÔN GIÁO](09_chuong_chin_giao_duc_va_ton_giao.md)** | 175
-* **Chương Mười: KỶ LUẬT TỰ GIÁC** | 203
-* **Chương Mười Một: HỌC TỪ NGHỊCH CẢNH** | 219
-* **Chương Mười Hai: MÔI TRƯỜNG, THỜI GIAN, SỰ HÒA HỢP VÀ CẨN TRỌNG** | 239
-* **Tổng kết** | 264
-* **Lời bạt** | 274
-* **Suy ngẫm** | 278
-* **Lời cảm ơn** | 282
+* **[Chương Mười: KỶ LUẬT TỰ GIÁC](10_chuong_muoi_ky_luat_tu_giac.md)** | 203
+* **[Chương Mười Một: HỌC TỪ NGHỊCH CẢNH](11_chuong_muoi_mot_hoc_tu_nghich_canh.md)** | 219
+* **[Chương Mười Hai: MÔI TRƯỜNG, THỜI GIAN, SỰ HÒA HỢP VÀ CẨN TRỌNG](12_chuong_muoi_hai_moi_truong_thoi_gian_su_hoa_hop_va_can_trong.md)** | 239
+* **[Tổng kết](13_tong_ket.md)** | 264
+* **[Lời bạt](14_loi_bat.md)** | 274
+* **[Suy ngẫm](15_suy_ngam.md)** | 278
+* **[Lời cảm ơn](16_loi_cam_on.md)** | 282

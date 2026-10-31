@@ -291,7 +291,93 @@ Do đó toàn bộ hệ thống trường học được tiến triển theo hư
 
 **H:** Hệ thống trường công có cần phải thay đổi điều gì nữa không?
 
-**Đ:** Có chứ, rất nhiều là đằng khác. Một trong những thay đổi cần thiết về chương trình học ở mọi trường công là phải bổ sung thêm một khóa học hoàn chỉnh về tâm lý học giúp học sinh rèn luyện khả năng kiểm soát tâm trí và phát triển các thói quen suy nghĩ tích cực.
+**Đ:** Có chứ, rất nhiều là đằng khác. Một trong những thay đổi cần thiết về chương trình học ở mọi trường công là phải bổ sung thêm một khóa học hoàn chỉnh về tâm lý học giúp học sinh rèn luyện khả năng kiểm soát tâm trí và phát triển các thói quen suy nghĩ tích cực, năng sống hài hòa với nhau. Mọi đứa trẻ cần học cách sống càng ít tạo ra xích mích nhất càng tốt.
+
+Mọi trường công cũng nên dạy bọn trẻ về các nguyên tắc thành công cá nhân mà qua đó, một người có thể đạt được một vị trí độc lập về tài chính.
+
+Các lớp học nên bị loại bỏ hoàn toàn. Chúng nên được thay thế bằng các bàn tròn hay hệ thống các cuộc họp như khi tuyển dụng nhân viên vậy. Tất cả mọi học sinh nên nhận được những hướng dẫn và chỉ thị riêng liên quan đến những chủ đề mà khi học theo nhóm thì không thể truyền tải một cách đúng đắn được.
+
+Mọi trường học nên có một nhóm giáo viên hỗ trợ bao gồm các doanh nhân, các nhà khoa học, các nghệ sỹ, kỹ sư và nhà báo - mỗi người trong số đó đều sẽ truyền đạt cho mọi học sinh những hiểu biết cần thiết để làm việc trong nghề nghiệp hay công việc của chính bản thân mình. Những chỉ dẫn đó nên được truyền đạt thông qua hệ thống các cuộc họp nhằm tiết kiệm thời gian cho các giáo viên.
+
+**H:** Thực tế thì điều ngươi gợi ý chính là nên có một hệ thống giảng dạy hỗ trợ giúp trang bị cho mọi học sinh kiến thức để làm việc trong những công việc thực tế của cuộc sống, từ chính nơi nó xuất phát. Đó chính là điều ngươi muốn nói, đúng không?
+
+**Đ:** Ngươi nói hoàn toàn chính xác rồi đấy.
+
+---
+
+> Đây lại là một chủ đề gần như mang tính công kích. Chồng tôi nhớ lại vào thời kỳ đầu những năm 1970 ở New Jersey, một trong những tổ chức mà anh làm việc tập hợp một nhóm các nhà khoa học và doanh nhân để dạy các khóa học cơ bản - chẳng hạn như Toán học và Vật lý - trong lĩnh vực của họ tham gia hoạt động tình nguyện trong các trường công để rồi các trường học nói với họ rằng vì các nhà khoa học và các doanh nhân không phải là những giáo viên chuyên nghiệp nên họ không được chào đón. Gần đây hơn, nhiệm vụ mang giáo dục thực tiễn vào trường học được phổ biến hóa bởi vài nhóm (Dạy học cho nước Mỹ, Cứu nguy nước Mỹ, Thành công nhỏ) nhưng nó vẫn chỉ được coi là tài liệu nâng cao chứ không phải là phần cốt lõi của chương trình giảng dạy.  
+>  
+> Điều này và rất nhiều biến chuyển khác trong cách truyền đạt nội dung, tình huống, nguyên tắc và kỹ năng đến bọn trẻ trong hệ thống giáo dục phổ cập của chúng ta cần được nằm trong quá trình tương tác dựa trên trải nghiệm và nó sẽ quyết định xem bọn trẻ sẽ sống cuộc đời của chúng như thế nào và chúng sẽ có ảnh hưởng gì đến thế giới phức tạp mình đang sống. Thử thách nằm ở chỗ: Làm sao chúng ta có thể gói gọn tất cả những thứ đó trong một chương trình có thể phân phối và triển khai một cách hệ thống để tất cả những người tham gia - trẻ em cũng như người lớn - đều được định hướng, thực hiện và đền đáp một cách thành công? Tôi rất vui và tự hào khi nói rằng tôi đã làm việc với nhiều nhóm từng thực hiện những chương trình như thế này và họ luôn làm công việc của mình với một mục tiêu xác định.  
+>  
+> Chúng ta luôn mường tượng ra rằng trong tương lai, chúng ta sẽ có một hệ thống giáo dục phát triển và trở thành một sức mạnh vô cùng quyền năng, nó có khả năng sản sinh ra những con người năng động, có tư duy độc lập, tự lực cánh sinh và đóng góp cho xã hội. Và có thể sản sinh ra một thứ quan trọng hơn - những thế hệ tương lai sẵn sàng và có khả năng làm việc trong một thế giới phức tạp, sống một cuộc sống thành công, vui lòng trao quyền cho bản thân mình và những người khác, tạo ra sự khác biệt thật sự và còn mãi với thế giới như những công dân hiểu biết, có trách nhiệm và quan tâm đến toàn cầu và đặc biệt là, mỗi người đều có mục tiêu xác định của mình!
+
+---
+
+**H:** Chúng ta hãy gạt chủ đề về hệ thống trường công sang một bên và quay lại với nhà thờ một lát. Cả đời ta đã nghe các tu sĩ thuyết giáo chống lại tội ác và cảnh báo bọn tội phạm nên hối cải, như thế chúng sẽ được cứu rỗi. Nhưng ta chưa từng nghe bất cứ người nào trong số họ nói với ta tội ác là gì. Ngươi có thể giải đáp cho ta về vấn đề này được không?
+
+**Đ:** Tội ác là bất cứ điều gì mà khi một người làm hay suy nghĩ về nó, nó sẽ khiến người đó không vui! Những người có thể chất và tâm hồn lành mạnh luôn cảm thấy bình yên với chính bản thân mình và do đó, luôn cảm thấy hạnh phúc. Bất cứ dạng đau khổ về vật chất hay tinh thần nào đều là biểu hiện của tội ác.
+
+**H:** Ngươi hãy kể tên một vài dạng tội ác phổ biến đi
+
+**Đ:** Việc ăn uống quá độ cũng là tội ác vì nó dẫn đến bệnh tật và buồn phiền.
+
+Quá ham muốn tình dục cũng là tội ác vì nó phá vỡ sức mạnh ý chí của con người và dẫn đến thói quen buông thả.
+
+Cho phép tâm trí mình bị chế ngự bởi những suy nghĩ tiêu cực về lòng ghen tị, tham lam, sợ hãi, ghét bỏ, nóng nảy, tự phụ, tự thán hay nản lòng là tội ác vì nó dẫn con người đến thói quen buông thả.
+
+Lừa đảo, nói dối và trộm cắp là tội ác vì những thói quen này hủy hoại lòng tự trọng, đánh bại lương tâm của con người và khiến con người trở nên đau khổ.
+
+Để bản thân mình mãi ngu dốt là tội ác vì nó dẫn con người đến nghèo khổ và thiếu khả năng độc lập.
+
+Chấp nhận bất cứ điều gì từ cuộc sống mà mình không muốn là tội ác vì nó là biểu hiện của sự bỏ mặc không sử dụng tâm trí của mình.
+
+**H:** Nếu một người cứ buông thả cuộc sống mà không có một mục đích, kế hoạch hay mục tiêu xác định nào thì đó có phải là tội ác hay không?
+
+**Đ:** Đúng vậy, bởi thói quen này dẫn đến nghèo khổ và hủy hoại đặc quyền được tự quyết. Nó cũng lấy mất đặc quyền sử dụng tâm trí của một người như phương tiện trung gian để liên hệ với Trí tuệ Vô hạn.
+
+**H:** Có phải ngươi chính là người truyền cảm hứng cho tội ác hay không?
+
+**Đ:** Đúng vậy! Công việc của ta là giành quyền kiểm soát tâm trí của con người theo mọi cách có thể.
+
+**H:** Ngươi có kiểm soát được tâm trí của một người không phạm bất kỳ tội ác nào không?
+
+**Đ:** Ta không thể, vì người đó không bao giờ để tâm trí mình bị bất cứ dạng suy nghĩ tiêu cực nào chiếm ưu thế. Ta không thể thâm nhập vào tâm trí của một người không phạm tội ác nào, huống hồ là kiểm soát được nó.
+
+**H:** Trong tất cả các tội ác thì tội ác nào là phổ biến và có sức mạnh hủy diệt nhất?
+
+**Đ:** Sợ hãi và ngu dốt.
+
+**H:** Ngươi không thêm cái gì vào danh sách đó nữa sao?
+
+**Đ:** Không cần bổ sung thêm cái gì nữa hết.
+
+**H:** Thế niềm tin là gì?
+
+**Đ:** Niềm tin là một trạng thái của tâm trí khi con người nhận ra và sử dụng sức mạnh của tư duy tích cực như một phương tiện trung gian mà qua đó, một người có thể tiếp xúc và tùy ý ra vào nhà kho vĩ đại của Trí tuệ Vô hạn.
+
+**H:** Nói cách khác, niềm tin là khi mọi tư duy tiêu cực không có mặt. Ý ngươi có phải vậy hay không?
+
+**Đ:** Đúng vậy, đó là một cách khác để miêu tả về niềm tin.
+
+**H:** Một người buông thả có khả năng sử dụng niềm tin hay không?
+
+**Đ:** Có thể anh ta có khả năng đó nhưng anh ta không sử dụng nó. Tất cả mọi người đều có sức mạnh tiềm năng để rũ bỏ mọi tư duy tiêu cực trong tâm trí mình và bằng cách đó, anh ta sẽ có sức mạnh của niềm tin.
+
+**H:** Diễn giải theo cách khác thì niềm tin chính là mục tiêu xác định được hỗ trợ bởi niềm tin rằng sẽ đạt được mục tiêu đó. Có đúng không?
+
+**Đ:** Chính xác là như thế!
+
+---
+
+> Niềm tin là “**một trạng thái của tâm trí khi con người nhận ra và sử dụng sức mạnh của tư duy tích cực như một phương tiện trung gian mà qua đó, một người có thể tiếp xúc và tùy ý ra vào nhà kho vĩ đại của Trí tuệ Vô hạn.**”  
+>  
+> \*\*\*\*\*\*\*\*\*\*  
+>  
+> Napoleon Hill đã tổng kết định nghĩa về niềm tin một cách súc tích:  
+>  
+> “**Niềm tin chính là mục tiêu xác định được hỗ trợ bởi niềm tin rằng sẽ đạt được mục tiêu đó.**”
+
+---
 
 ---
 
