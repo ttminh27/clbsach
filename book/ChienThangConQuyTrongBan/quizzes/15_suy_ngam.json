@@ -1,0 +1,188 @@
+{
+  "bookId": "ChienThangConQuyTrongBan",
+  "chapterId": "15_suy_ngam",
+  "chapterTitle": "Suy ngẫm (Sharon Lechter)",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Sharon Lechter cho rằng câu hỏi cốt lõi nhất cần đặt ra về khía cạnh tâm linh của Napoleon Hill là gì?",
+      "options": [
+        "Ông dạy chúng ta điều gì về vai trò sống còn của niềm tin chủ động trong đời sống thực tế hôm nay?",
+        "Ông đã tham gia đóng góp bao nhiêu tiền công đức cho các tổ chức nhà thờ địa phương ở Virginia?",
+        "Ông thuộc về giáo phái tôn giáo chính thống nào và đã được cử hành lễ rửa tội theo nghi thức nào?",
+        "Ông đã trích dẫn bao nhiêu câu kinh văn cổ điển trong các bài viết về triết lý thành công cá nhân?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sharon Lechter nhấn mạnh: việc Hill đi nhà thờ nào không quan trọng; điều quan trọng nhất là ông dạy chúng ta bài học gì về sức mạnh của niềm tin hành động trong cuộc sống ngày nay."
+    },
+    {
+      "id": "q2",
+      "question": "Theo quan điểm của Napoleon Hill, các giới hạn ngăn cản con người vươn tới thành công thực chất xuất phát từ đâu?",
+      "options": [
+        "Từ sự thiếu hụt tài nguyên thiên nhiên của quốc gia và các chính sách điều tiết kinh tế của nhà nước.",
+        "Do chính tâm trí con người tự áp đặt lên mình hoặc bị các thế lực tiêu cực của sự sợ hãi thao túng.",
+        "Từ cấu trúc gen di truyền và chỉ số thông minh bẩm sinh của từng cá nhân khi mới chào đời.",
+        "Do sự cạnh tranh không lành mạnh từ các tập đoàn độc quyền đa quốc gia trên thị trường tự do."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hill khẳng định không có giới hạn nào cho người biết dựa vào niềm tin và Trí tuệ Vô hạn; mọi giới hạn đều là sản phẩm nhân tạo do con người tự huyễn hoặc hoặc do Con Quỷ gieo vào tâm trí."
+    },
+    {
+      "id": "q3",
+      "question": "Hình thức 'đối thoại tâm lý' với Con Quỷ được Hill lựa chọn có sự tương đồng văn học với các kiệt tác của tác giả nào?",
+      "options": [
+        "Các tiểu thuyết trinh thám suy luận của Arthur Conan Doyle và truyện kinh dị hiện đại của Stephen King.",
+        "Các tác phẩm thơ ca hiện thực lãng mạn của thi hào William Wordsworth và đại thi hào Johann Goethe.",
+        "Thiên đường đã mất của John Milton và các tác phẩm phân tích bản chất cái ác của nhà văn C. S. Lewis.",
+        "Các vở bi kịch sân khấu cổ điển về tình yêu và lòng hận thù gia tộc của kịch tác gia William Shakespeare."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hình thức đối thoại với Con Quỷ tiếp nối dòng chảy văn học kinh điển từ Kinh Thánh, Milton (Paradise Lost) đến C. S. Lewis (The Screwtape Letters), giúp nhân cách hóa cái ác để bóc trần tâm lý con người."
+    },
+    {
+      "id": "q4",
+      "question": "Trong 7 nguyên tắc chiến thắng Con Quỷ, nguyên tắc 'Mục tiêu xác định' đóng vai trò nền tảng ra sao?",
+      "options": [
+        "Giúp cá nhân được cấp giấy phép kinh doanh hợp pháp từ các cơ quan đăng ký doanh nghiệp nhà nước.",
+        "Đảm bảo rằng mọi kế hoạch đầu tư tài chính cá nhân sẽ không bao giờ gặp phải bất kỳ rủi ro nào.",
+        "Cung cấp cho cá nhân danh sách các câu hỏi phỏng vấn chuẩn mực để tuyển dụng nhân sự cấp cao.",
+        "Là chiếc la bàn định hướng giải thoát tâm trí khỏi sự trôi dạt vô định và chấm dứt thói quen buông thả."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mục tiêu xác định là nguyên tắc đầu tiên và tối thượng; nó là điểm tựa duy nhất giúp con người neo giữ tâm trí, không bị dòng xoáy buông thả cuốn vào vòng cương tỏa của nhịp điệu thôi miên."
+    },
+    {
+      "id": "q5",
+      "question": "Nguyên tắc 'Làm chủ bản thân' đòi hỏi con người phải rèn luyện kỷ luật tự giác bắt đầu từ khu vực nào?",
+      "options": [
+        "Chế ngự ba ham muốn bản năng cốt lõi: ăn uống, tình dục và thói quen tùy tiện thể hiện quan điểm cá nhân.",
+        "Cắt đứt toàn bộ liên lạc với tất cả bạn bè cũ và người thân trong gia đình để tập trung tu dưỡng nội tâm.",
+        "Bắt buộc cơ thể phải thức dậy từ 4 giờ sáng mỗi ngày để tham gia chạy bộ cự ly dài trên đường phố.",
+        "Ghi chép lại toàn bộ các khoản chi tiêu hàng ngày dù là nhỏ nhất vào một cuốn sổ tay kế toán bỏ túi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Làm chủ bản thân bắt đầu từ 3 ham muốn có sức mạnh chi phối lớn nhất: đồ ăn thức uống, tính dục, và sự ngứa miệng bày tỏ quan điểm không mời mà đến."
+    },
+    {
+      "id": "q6",
+      "question": "Ý nghĩa sâu sắc của nguyên tắc 'Học từ nghịch cảnh' theo bảng đúc kết 7 nguyên tắc là gì?",
+      "options": [
+        "Nghịch cảnh là bản án trừng phạt vĩnh viễn dành cho những người đã có hành vi sai trái trong tiền kiếp.",
+        "Nhận ra mọi thất bại tạm thời đều ẩn chứa hạt mầm lợi ích tương đương giúp bẻ gãy nhịp điệu thói quen cũ.",
+        "Tìm cách kiện tụng các đối tác đã gây ra tổn thất tài chính cho mình ra tòa án kinh tế có thẩm quyền.",
+        "Chấp nhận rút lui khỏi thương trường và chuyển sang làm những công việc hành chính ít chịu áp lực cạnh tranh."
+      ],
+      "correctIndex": 1,
+      "explanation": "Học từ nghịch cảnh là biến cú ngã thành bài học; nhận ra thất bại chỉ là tạm thời và luôn mang hạt mầm của một cơ hội tương đương hoặc lớn hơn để tái khởi động với nhịp điệu mới."
+    },
+    {
+      "id": "q7",
+      "question": "Nguyên tắc 'Kiểm soát ảnh hưởng của môi trường' nhấn mạnh tầm quan trọng của việc gì trong đời sống?",
+      "options": [
+        "Tích cực tham gia các phong trào trồng cây gây rừng và bảo vệ động vật hoang dã tại địa phương sinh sống.",
+        "Lắp đặt hệ thống lọc không khí và cách âm hiện đại trong toàn bộ căn hộ để bảo vệ sức khỏe thể chất.",
+        "Cẩn trọng trong việc lựa chọn người kết giao, bởi tâm trí sẽ vô thức tiếp thu thói quen tư duy từ cộng sự bè bạn.",
+        "Mua bảo hiểm cháy nổ cho toàn bộ tài sản văn phòng làm việc để phòng ngừa các rủi ro chập điện bất ngờ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Môi trường là thức ăn nuôi dưỡng tư duy; kiểm soát môi trường cốt lõi là kiểm soát những mối quan hệ thân cận (bạn đời, cộng sự, bạn hữu), vì tư duy của họ sẽ thấm dần vào tâm trí ta."
+    },
+    {
+      "id": "q8",
+      "question": "Thời gian được định nghĩa như thế nào trong hệ thống 7 nguyên tắc để Chiến thắng Con Quỷ?",
+      "options": [
+        "Là một đại lượng vật lý dùng để đo lường năng suất lao động của các dây chuyền lắp ráp công nghiệp.",
+        "Là kẻ thù không đội trời chung của tuổi trẻ luôn tước đoạt dần đi sức khỏe và vẻ đẹp bên ngoài của con người.",
+        "Là nhân tố tự nhiên giúp các nhà khoa học xác định niên đại của các hóa thạch cổ sinh vật học dưới lòng đất.",
+        "Là chiều thứ tư giúp cố định thói quen tư duy tích cực và là chất xúc tác chuyển hóa trải nghiệm thành khôn ngoan."
+      ],
+      "correctIndex": 3,
+      "explanation": "Thời gian củng cố nhịp điệu tư duy: biến tư duy tích cực thành thói quen cố định vững chắc, đồng thời là lò luyện giúp chưng cất kinh nghiệm và sai lầm thành sự khôn ngoan sau tuổi 40."
+    },
+    {
+      "id": "q9",
+      "question": "Bản chất của nguyên tắc 'Sự hòa hợp' đòi hỏi một người muốn làm chủ số phận phải hành động ra sao?",
+      "options": [
+        "Hành động với mục tiêu xác định để trở thành ảnh hưởng chiếm ưu thế trong môi trường vật chất và tinh thần của mình.",
+        "Luôn đồng ý với ý kiến của số đông xung quanh trong mọi cuộc thảo luận tập thể để tránh gây ra xung đột cãi vã.",
+        "Tham gia vào các dàn hợp xướng âm nhạc cổ điển để rèn luyện thính giác và kỹ năng phối hợp giai điệu hài hòa.",
+        "Tập thói quen im lặng trước mọi điều bất công trong xã hội để giữ cho tâm hồn luôn ở trạng thái tĩnh lặng an nhiên."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hòa hợp không phải là ba phải chiều lòng mọi người, mà là có mục tiêu xác định rõ ràng để trở thành nguồn năng lượng tích cực chi phối môi trường, thu hút những tâm trí đồng điệu cùng tần số."
+    },
+    {
+      "id": "q10",
+      "question": "Hành vi nào thể hiện đúng đắn nhất nguyên tắc 'Cẩn trọng' trước khi đưa ra các quyết định hệ trọng?",
+      "options": [
+        "Trì hoãn mọi hành động vô thời hạn cho đến khi thị trường kinh tế đạt trạng thái hoàn hảo và không còn đối thủ.",
+        "Xem xét kỹ lưỡng kế hoạch, lường trước điểm yếu của bản thân và cộng sự, suy nghĩ về hậu quả trước khi tiến bước.",
+        "Gửi tiền vào tài khoản tiết kiệm của ngân hàng nhà nước và không bao giờ tham gia vào bất kỳ dự án kinh doanh nào.",
+        "Nhờ người thân trong gia đình quyết định thay toàn bộ mọi vấn đề liên quan đến sự nghiệp và hôn nhân cá nhân."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cẩn trọng là sự chuẩn bị thấu đáo, xem xét kỹ kế hoạch, phân tích điểm yếu và dự trù giải pháp trước khi hành động; khác hoàn toàn với sự chần chừ do sợ hãi."
+    },
+    {
+      "id": "q11",
+      "question": "Câu ngạn ngữ 'Khi người học trò sẵn sàng, người thầy sẽ xuất hiện' được Sharon Lechter dẫn chứng nhằm giải thích điều gì?",
+      "options": [
+        "Lý do tại sao các trường đại học thường tổ chức kỳ thi tuyển sinh đầu vào vào các tháng mùa hè hàng năm.",
+        "Cách thức các trung tâm gia sư trực tuyến kết nối giáo viên dạy kèm với phụ huynh học sinh có nhu cầu học thêm.",
+        "Bản thảo bị giấu kín suốt hơn 70 năm và chỉ xuất hiện vào năm 2011 khi nhân loại thực sự sẵn sàng đón nhận thông điệp.",
+        "Quy trình đào tạo tiến sĩ triết học đòi hỏi nghiên cứu sinh phải tìm được người hướng dẫn khoa học phù hợp."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bản thảo bị khóa kín suốt 72 năm (từ 1938 đến 2011); Sharon tin rằng sự xuất hiện của cuốn sách sau khủng hoảng 2008 là sự sắp đặt của Đấng Tối Cao khi nhân loại đã sẵn sàng thức tỉnh."
+    },
+    {
+      "id": "q12",
+      "question": "Sự khác biệt về sứ mệnh lịch sử giữa 'Think and Grow Rich' (1937) và 'Outwitting the Devil' (2011) là gì?",
+      "options": [
+        "Cuốn đầu dạy về kỹ thuật sản xuất hàng hóa công nghiệp, cuốn sau dạy về cách sử dụng máy vi tính văn phòng.",
+        "Cuốn đầu dành riêng cho giới ngân hàng tài chính, còn cuốn sau dành cho các bệnh nhân điều trị tâm lý phục hồi.",
+        "Cuốn đầu không có bản quyền tác giả quốc tế, trong khi cuốn sau được đăng ký bảo hộ nhãn hiệu độc quyền.",
+        "Think and Grow Rich giúp vượt qua suy thoái vật chất, còn Outwitting the Devil mở khóa tự do tâm trí và tâm linh."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nếu Think and Grow Rich là cẩm nang khơi dậy khát vọng làm giàu vượt qua khủng hoảng kinh tế, thì Chiến Thắng Con Quỷ Trong Bạn đi sâu vào nội tâm, giải phóng con người khỏi nhà tù tinh thần của sự sợ hãi."
+    },
+    {
+      "id": "q13",
+      "question": "Nhân vật lịch sử nào trong gia đình Napoleon Hill đã bảo quản bản thảo gây tranh cãi này trước khi chuyển giao cho Quỹ?",
+      "options": [
+        "Tiến sĩ Charlie Johnson - cháu của Napoleon Hill, người đã gìn giữ an toàn và nhận ra giá trị vĩ đại của tác phẩm.",
+        "Bà Annie Lou Norman - người vợ đầu tiên của Napoleon Hill đã niêm phong bản thảo trong hầm ngầm gia đình.",
+        "Người mẹ kế của Napoleon Hill tại vùng Wise, Virginia - người đã truyền cảm hứng đầu tiên cho sự nghiệp của ông.",
+        "Luật sư riêng của gia đình Andrew Carnegie tại thành phố Pittsburgh bang Pennsylvania thời kỳ đầu thế kỷ 20."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tiến sĩ Charlie Johnson (cháu của Napoleon Hill) là người lưu giữ bản thảo nguyên gốc quý giá này và đã trao gửi cho Quỹ Napoleon Hill để đưa thông điệp đến với công chúng."
+    },
+    {
+      "id": "q14",
+      "question": "Sharon Lechter kỳ vọng độc giả sẽ làm gì sau khi soi chiếu cuộc đời mình vào 7 nguyên tắc chiến thắng Con Quỷ?",
+      "options": [
+        "Gửi đơn kiến nghị lên các cơ quan lập pháp yêu cầu đưa cuốn sách vào danh mục bắt buộc trong kỳ thi tốt nghiệp.",
+        "Nhận diện chính xác rào cản buông thả đang kìm hãm mình, thiết lập mục tiêu xác định và giành lại quyền làm chủ tâm trí.",
+        "Thành lập các công ty tư vấn đầu tư tài chính để bán các khóa học làm giàu nhanh cho những người thất nghiệp.",
+        "Từ bỏ công việc hiện tại để bắt đầu một chuyến hành hương dài ngày tìm kiếm sự thanh tịnh nơi các thánh địa cổ xưa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bà mong muốn mỗi người đọc tự làm một cuộc tự kiểm kê trung thực, tìm ra rào cản khiến mình chưa bứt phá, từ đó kích hoạt mục tiêu xác định và sống một cuộc đời tự chủ, hạnh phúc."
+    },
+    {
+      "id": "q15",
+      "question": "Thông điệp chúc phúc khép lại bài viết của Sharon Lechter gửi gắm tinh thần cốt lõi nào cho mỗi độc giả?",
+      "options": [
+        "Lời chúc may mắn tìm kiếm được các dự án kinh doanh bất động sản sinh lời cao tại các khu nghỉ dưỡng ven biển.",
+        "Lời khuyên nên gửi gắm toàn bộ niềm tin vào sự may rủi của số phận và các điềm báo trong các giấc chiêm bao.",
+        "Hy vọng tác phẩm mang lại niềm hy vọng, lòng dũng cảm và quan trọng nhất là 'mục tiêu xác định' cho hành trình cuộc đời.",
+        "Lời kêu gọi quyên góp tài chính cho các quỹ nghiên cứu triết học thành công tại thủ đô Washington Hoa Kỳ."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sharon Lechter kết luận bằng lời chúc: hy vọng những trang viết của Hill sẽ mang lại cho độc giả niềm hy vọng, lòng can đảm và trên hết là ngọn hải đăng của 'mục tiêu xác định' cho cuộc đời mình."
+    }
+  ]
+}
