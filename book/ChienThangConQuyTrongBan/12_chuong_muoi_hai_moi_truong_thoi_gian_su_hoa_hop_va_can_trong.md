@@ -30,7 +30,7 @@
 
 **H:** Tức là việc chọn bạn bè, đối tác hay cộng sự rất quan trọng và chúng ta phải vô cùng lưu tâm đến vấn đề đó, đúng không?
 
-ÐĐ: Đúng vậy, việc chọn những người có mối giao thiệp gần gũi với con người cũng quan trọng như việc chọn đồ ăn cho cơ thể mình vậy và phải đặt mục tiêu là luôn kết giao với những người mà tư duy chiếm ưu thế trong họ là tư duy tích cực, thân thiện và hòa hợp.
+**Đ:** Đúng vậy, việc chọn những người có mối giao thiệp gần gũi với con người cũng quan trọng như việc chọn đồ ăn cho cơ thể mình vậy và phải đặt mục tiêu là luôn kết giao với những người mà tư duy chiếm ưu thế trong họ là tư duy tích cực, thân thiện và hòa hợp.
 
 **H:** Loại bạn bè, cộng sự nào có ảnh hưởng lớn nhất đến một người?
 
@@ -38,14 +38,9 @@
 
 ---
 
-> **“Nguyên liệu dùng để 'nuôi' tư duy đến từ chính môi trường của người đó. Nhịp điệu thôi miên lại khiến thói quen tư duy trở nên cố định.”**
-
-
-x#ứxx*##**x*x*x*x**#⁄**
-
----
-
-> Có bao giờ bạn cảm thấy thái độ hay tâm trạng của bạn trở nên tiêu cực chỉ vì có sự hiện diện của ai đó tiêu cực hay không? Đó là vợ, con hay đối tác làm ăn của bạn? Napoleon Hill gợi ý rằng bạn nên xen những suy nghĩ tích cực, thân thiện và hòa hợp không chỉ để chống lại những tư duy tích cực mà còn để tác động khiến bản thân mình trở nên tích cực hơn. Nếu đó là đối tác làm ăn của bạn, hãy cân nhắc xem đó có phải là mối quan hệ mà bạn muốn giữ... hoặc quyết định cách xa hẳn sự tiêu cực của đối tác đó.
+> **“Nguyên liệu dùng để ‘nuôi’ tư duy đến từ chính môi trường của người đó. Nhịp điệu thôi miên lại khiến thói quen tư duy trở nên cố định.”**  
+>  
+> Có bao giờ bạn cảm thấy thái độ hay tâm trạng của bạn trở nên tiêu cực chỉ vì có sự hiện diện của ai đó tiêu cực hay không? Đó là vợ, con hay đối tác làm ăn của bạn? Napoleon Hill gợi ý rằng bạn nên xen những suy nghĩ tích cực, thân thiện và hòa hợp không chỉ để chống lại những tư duy tiêu cực mà còn để tác động khiến bản thân mình trở nên tích cực hơn. Nếu đó là đối tác làm ăn của bạn, hãy cân nhắc xem đó có phải là mối quan hệ mà bạn muốn giữ... hoặc quyết định cách xa hẳn sự tiêu cực của đối tác đó.
 
 ---
 
@@ -79,7 +74,7 @@ x#ứxx*##**x*x*x*x**#⁄**
 
 Những người đứng đầu thành công nhất trong mọi lĩnh vực của cuộc sống bản thân họ thường sử dụng ảnh hưởng môi trường theo yêu cầu. Không ai có thể đạt được những thành tựu nổi bật mà không có sự hợp tác với người khác. Nói theo cách khác thì những người thành công phải kiểm soát được môi trường của họ, từ đó đảm bảo rằng họ có thể chống lại được ảnh hưởng tiêu cực từ môi trường.
 
-+Ắ H: Thế còn những người có trách nhiệm với họ hàng khiến họ không thể tránh được ảnh hưởng tiêu cực của môi trường thì sao?
+**H:** Thế còn những người có trách nhiệm với họ hàng khiến họ không thể tránh được ảnh hưởng tiêu cực của môi trường thì sao?
 
 **Đ:** Không có bất cứ người nào có trách nhiệm dù ở bất cứ mức độ nào khiến họ mất đi quyển xây dựng thói quen tư duy của mình trong môi trường tích cực cả. Mặt khác, mọi con người đều có trách nhiệm tự rũ bỏ mọi ảnh hưởng của môi trường dù là xa nhất có xu hướng phát triển tư duy tiêu cực.
 
@@ -99,29 +94,22 @@ Những người đứng đầu thành công nhất trong mọi lĩnh vực củ
 
 **Đ:** _ Mong muốn là năng lượng thúc đẩy có tổ chức còn được biết đến với tên gọi là tư duy. Mong muốn khi được trộn lẫn với cảm xúc sẽ thu hút những tế bào não vào những nơi chúng được lưu trữ và chuẩn bị để quy luật nhịp điệu thôi miên có thể tiếp quản và điều khiển. Khi bất cứ suy nghĩ nào xuất hiện trong não bộ hay được sinh ra ở đó và được trộn lẫn với cảm xúc mong muốn, quy luật nhịp điệu thôi miên sẽ ngay lập tức bắt đầu chuyển nó thành những bản sao vật chất tương đương. Những suy nghĩ chiếm ưu thế những suy nghĩ được quy luật nhịp điệu thôi miên kích hoạt trước tiên là những suy nghĩ được trộn lẫn với những mong muốn lớn nhất và những cảm xúc mãnh liệt nhất. Thói quen tư duy được thiết lập bằng cách lặp đi lặp lại những suy nghĩ giống nhau.
 
-**H:** Những động cơ hay mong muốn thúc đẩy cơ bản truyền cảm hứng cho tư duy hành động nhất là gì? **Đ:** Có mười động cơ phổ biến nhất giúp truyền cảm hứng đến tư duy hành động của con người là:
+**H:** Những động cơ hay mong muốn thúc đẩy cơ bản truyền cảm hứng cho tư duy hành động nhất là gì?
 
-® . Ham muốn tình dục và tình yêu
+**Đ:** Có mười động cơ phổ biến nhất giúp truyền cảm hứng đến tư duy hành động của con người là:
 
-® Ham muốn đồ ăn thức uống
+* Ham muốn tình dục và tình yêu
+* Ham muốn đồ ăn thức uống
+* Ham muốn được thể hiện bản thân về cả thể chất, trí tuệ lẫn tinh thần
+* Ham muốn được bất tử
+* Ham muốn có quyền lực để điều khiển được người khác
+* Ham muốn giàu có vật chất
+* Ham muốn hiểu biết
+* Ham muốn noi gương người khác
+* Ham muốn xuất sắc hơn người
+* Bảy nỗi sợ hãi cơ bản
 
-® Ham muốn được thể hiện bản thân về cả thể chất, trí tuệ lẫn
-
-tinh thần
-
-® Ham muốn được bất tử
-
-® Ham muốn có quyền lực để điều khiển được người khác
-
-® Ham muốn giàu có vật chất
-
-*® Ham muốn hiểu biết
-
-® Ham muốn noi gương người khác
-
-® Ham muốn xuất sắc hơn người
-
-® Bảy nỗi sợ hãi cơ bản Đó là những động cơ phổ biến giúp truyền cảm hứng đến phần lớn những nỗ lực của con người.
+Đó là những động cơ phổ biến giúp truyền cảm hứng đến phần lớn những nỗ lực của con người.
 
 **H:** Thế còn những ham muốn tiêu cực như lòng tham, sự đố ky, ghen tức hay giận dữ thì sao?
 
@@ -178,9 +166,11 @@ Tự nhiên không biết đến khái niệm về vật chất không hoạt đ
 
 **H:** Những gì ngươi nói khiến ta tin rằng con người có thể trở thành tất cả những thứ họ quy là do Chúa tạo ra. Đó có phải là ý ngươi không?
 
-ÐĐ: Thông qua quy luật tiến hóa, bộ não của con người đang được hoàn thiện để có thể tùy ý giao tiếp với Trí tuệ Vô hạn. Sự hoàn hảo đó sẽ đến thông qua sự phát triển có tổ chức của não bộ, nhờ sự thích ứng của nó với các quy luật của tự nhiên. Thời gian chính là nhân tố mang đến sự hoàn hảo.
+**Đ:** Thông qua quy luật tiến hóa, bộ não của con người đang được hoàn thiện để có thể tùy ý giao tiếp với Trí tuệ Vô hạn. Sự hoàn hảo đó sẽ đến thông qua sự phát triển có tổ chức của não bộ, nhờ sự thích ứng của nó với các quy luật của tự nhiên. Thời gian chính là nhân tố mang đến sự hoàn hảo.
 
-**H:** Nguyên nhân của việc tái diễn những sự kiện như bùng phát dịch bệnh, suy thoái kinh tế, chiến tranh hay làn sóng tội phạm là gì? **Đ:** Đó là do quy luật của nhịp điệu thôi miên mà qua đó tự nhiên sẽ củng cố những suy nghĩ giống nhau về bản chất và khiến những suy nghĩ đó được thể hiện giống nhau ở nhiều người từ đó tạo nên những ảnh hưởng lớn.
+**H:** Nguyên nhân của việc tái diễn những sự kiện như bùng phát dịch bệnh, suy thoái kinh tế, chiến tranh hay làn sóng tội phạm là gì?
+
+**Đ:** Đó là do quy luật của nhịp điệu thôi miên mà qua đó tự nhiên sẽ củng cố những suy nghĩ giống nhau về bản chất và khiến những suy nghĩ đó được thể hiện giống nhau ở nhiều người từ đó tạo nên những ảnh hưởng lớn.
 
 **H:** Có nghĩa là cuộc Đại Suy thoái điễn ra là do có rất nhiều người đã bị tác động đến việc giải phóng những suy nghĩ về nỗi sợ hãi phải không?
 
@@ -196,7 +186,7 @@ Tự nhiên không biết đến khái niệm về vật chất không hoạt đ
 
 **Đ:** Ngươi nói đúng rồi đấy.
 
-+Ắ H: Giờ chúng ta hãy nói đến nguyên tắc tiếp theo trong bảy nguyên tắc đẫn đến thành công. Hãy tiêu tục miêu tả về nó đi.
+**H:** Giờ chúng ta hãy nói đến nguyên tắc tiếp theo trong bảy nguyên tắc dẫn đến thành công. Hãy tiếp tục miêu tả về nó đi.
 
 **Đ:** Nguyên tắc tiếp theo là thời gian, chiều thứ tư.
 
@@ -216,20 +206,11 @@ Thời gian trừng phạt con người vì tất cả những tư duy tiêu c�
 
 ---
 
-> **“Con người sinh ra không sẵn có sự khôn ngoan nhưng eon người được sinh ra với khả năng tư duy và nhờ thời gian, họ có thể tư duy và trở nên khôn ngoan.”**
+> **“Con người sinh ra không sẵn có sự khôn ngoan nhưng con người được sinh ra với khả năng tư duy và nhờ thời gian, họ có thể tư duy và trở nên khôn ngoan.”**  
+>  
+> Tôi nhận thấy đây chính là một trong những câu nói sâu sắc nhất trong toàn bộ cuốn sách này. Bằng việc sử dụng khả năng tư duy và phân tích những trải nghiệm của chúng ta trong cuộc sống, chúng ta có thể đạt được sự khôn ngoan. Liệu mọi thứ có thực sự đơn giản như vậy chăng?
 
-
-*tx*x*x+ẻ#‡****r*ẻ* *#,
-
-Tôi nhận thấy đây chính là một trong những câu nói
-
-sâu sắc nhất trong toàn bộ cuốn sách này. Bằng việc sử
-
-dụng khả năng tư duy và phân tích những trải nghiệm
-
-của chúng ta trong cuộc sống, chúng ta có thể đạt được
-
-sự khôn ngoan. Liệu mọi thứ có thực sự đơn giản như vậy chăng?
+---
 
 **H:** Liệu tuổi trẻ có có được sự khôn ngoan không?
 
@@ -237,34 +218,23 @@ sự khôn ngoan. Liệu mọi thứ có thực sự đơn giản như vậy ch�
 
 **H:** Vậy một khoảng thời gian nào đó có buộc một người có được sự khôn ngoan hay không?
 
-**Đ:** Không hể! Sự khôn ngoan chỉ đến với những người không buông thả những người hình thành được thói quen tư duy tích cực như một sức mạnh chiếm ưu thế trong cuộc sống của mình. Những người buông thả và những người có suy nghĩ tiêu cực chiếm ưu thế sẽ không bao giờ có được sự khôn ngoan, trừ sự khôn ngoan ở một cấp độ vô cùng sơ đẳng.
+**Đ:** Không hề! Sự khôn ngoan chỉ đến với những người không buông thả những người hình thành được thói quen tư duy tích cực như một sức mạnh chiếm ưu thế trong cuộc sống của mình. Những người buông thả và những người có suy nghĩ tiêu cực chiếm ưu thế sẽ không bao giờ có được sự khôn ngoan, trừ sự khôn ngoan ở một cấp độ vô cùng sơ đẳng.
 
 **H:** Từ những gì ngươi nói, ta có thể suy ra rằng thời gian là bạn của những người biết huấn luyện tâm trí của mình tuân theo thói quen tư duy tích cực và là kẻ thù của những người buông thả theo thói quen tư duy tiêu cực. Điều đó có đúng hay không?
 
 **Đ:** Hoàn toàn chính xác. Tất cả mọi người có thể được phân chia thành hai loại là những người buông thả và những người không buông thả. Những người buông thả luôn phó mặc cho những người không buông thả định đoạt mọi thứ và thời gian sẽ khiến mối quan hệ này trở nên cố định.
 
-**H:** Có phải ý ngươi là nếu cả cuộc đời ta sống trong buông thả, không hể có bất cứ mục đích hay mục tiêu xác định nào thì có thể ta sẽ trở thành nô lệ cho những người không buông thả và thời gian sẽ chỉ giúp họ ngày một và cuối cùng sẽ hoàn toàn kiểm soát được ta, đúng không?
+**H:** Có phải ý ngươi là nếu cả cuộc đời ta sống trong buông thả, không hề có bất cứ mục đích hay mục tiêu xác định nào thì có thể ta sẽ trở thành nô lệ cho những người không buông thả và thời gian sẽ chỉ giúp họ ngày một và cuối cùng sẽ hoàn toàn kiểm soát được ta, đúng không?
 
-ÐĐ: Chính xác là như thế.
+**Đ:** Chính xác là như thế.
 
 ---
 
-> **“Sự khôn ngoan chỉ đến với những người không buông**
+> **“Sự khôn ngoan chỉ đến với những người không buông thả - những người hình thành được thói quen tư duy tích cực như một sức mạnh chiếm ưu thế trong cuộc sống của mình.”**  
+>  
+> Một lần nữa, tôi buộc phải nghĩ về bọn trẻ. Với quá nhiều những thứ tiêu cực quanh chúng ta do nạn khủng bố và xung đột kinh tế gây ra, điều gì sẽ có ảnh hưởng lâu dài đến bọn trẻ? Chúng ta phải bao bọc chúng trong những trải nghiệm tích cực để khiến tâm trí chúng sản sinh ra những tư duy tích cực.
 
-
-thả những người hình thành được thói quen tư duy tích
-
-cực như một sức mạnh chiếm ưu thế trong cuộc sống của mình.” tt tt % #4 4t # 4#
-
-Một lần nữa, tôi buộc phải nghĩ về bọn trẻ. Với quá nhiều
-
-những thứ tiêu cực quanh chúng ta do nạn khủng bố và
-
-xung đột kinh tế gây ra, điều gì sẽ có ảnh hưởng lâu dài
-
-đến bọn trẻ? Chúng ta phải bao bọc chúng trong những
-
-trải nghiệm tích cực để khiến tâm trí chúng sản sinh ra những tư duy tích cực.
+---
 
 **H:** Sự khôn ngoan là gì?
 
@@ -272,7 +242,7 @@ trải nghiệm tích cực để khiến tâm trí chúng sản sinh ra những
 
 **H:** Vậy tức là những kiến thức tích lũy được không phải là sự khôn ngoan hay sao?
 
-ÐĐ: Trời ạ, không! Nếu kiến thức là sự khôn ngoan thì những thành tựu khoa học sẽ không bị biến đổi thành những công cụ hủy diệt như vậy rồi.
+**Đ:** Trời ạ, không! Nếu kiến thức là sự khôn ngoan thì những thành tựu khoa học sẽ không bị biến đổi thành những công cụ hủy diệt như vậy rồi.
 
 **H:** Cần phải làm gì để biến kiến thức thành sự khôn ngoan?
 
@@ -280,7 +250,7 @@ trải nghiệm tích cực để khiến tâm trí chúng sản sinh ra những
 
 **H:** Vậy chúng ta có thể tin cậy tất cả những người có kiến thức chứ?
 
-+Ắ Đ: Chẳng bao giờ có thể tin cậy được những người có kiến thức đồ sộ mà không có sự khôn ngoan cả.
+**Đ:** Chẳng bao giờ có thể tin cậy được những người có kiến thức đồ sộ mà không có sự khôn ngoan cả.
 
 **H:** Độ tuổi mà phần lớn con người có được sự khôn ngoan là khi nào?
 
@@ -296,7 +266,7 @@ trải nghiệm tích cực để khiến tâm trí chúng sản sinh ra những
 
 **H:** Điều gì quyết định xem một người đã sẵn sàng để đón nhận sự khôn ngoan chưa?
 
-ÐĐ: Thời gian và bản chất thói quen tư duy của người đó.
+**Đ:** Thời gian và bản chất thói quen tư duy của người đó.
 
 **H:** Liệu những kiến thức vừa mới có được có giống với những kiến thức đã được thử thách qua thời gian hay không?
 
@@ -304,7 +274,7 @@ trải nghiệm tích cực để khiến tâm trí chúng sản sinh ra những
 
 **H:** Kiến thức như thế nào thì được cho là đáng tin cậy?
 
-ÐĐ: Đó là kiến thức hài hòa với quy luật tự nhiên, nghĩa là nó được dựa trên tư duy tích cực.
+**Đ:** Đó là kiến thức hài hòa với quy luật tự nhiên, nghĩa là nó được dựa trên tư duy tích cực.
 
 **H:** Thời gian có thay đổi và điều chỉnh các giá trị của kiến thức hay không?
 
@@ -336,19 +306,17 @@ Tuy nhiên, với sự khôn ngoan bất tận của mình, tự nhiên cho mỗ
 
 **Đ:** Các cá nhân tư duy và hành động với mục tiêu xác định.
 
-**H:** Chỉ đơn giản vậy thôi sao? **Đ:** Đúng vậy, mục tiêu xác định chính là khởi điểm mà một người
+**H:** Chỉ đơn giản vậy thôi sao?
 
-. có thể thiết lập nên môi trường của chính mình.
+**Đ:** Đúng vậy, mục tiêu xác định chính là khởi điểm mà một người có thể thiết lập nên môi trường của chính mình.
 
-**H:** Dường như ta không thể nghe theo những gì ngươi nói được. Cả thế giới này đang tan vỡ vì chiến tranh, suy thoái kinh tế và những đạng xung đột khác tượng trưng cho mọi thứ, trừ sự hòa hợp. Tự nhiên dường như không thể bắt ép con người hòa hợp với nhau được. Ngươi lý giải thế nào về mâu thuẫn này?
-
----
-
-> Cũng như thời kỳ của Napoleon Hill, thế giới chúng ta đang sống ngày nay cũng có rất ít sự hòa hợp. Khi nghĩ về nền kinh tế hiện nay, các thảm họa thiên nhiên, những xung đột trong quân đội, con người bị tàn phá bởi bệnh tật và nghèo đói thì liệu có thể tồn tại sự hòa hợp không? Napoleon Hill sẽ trả lời rằng, có, thậm chí với những điều kiện khủng khiếp ở thời kỳ của ông. Dù tôi và bạn không thể kiểm soát được sự hòa hợp trong thế giới của chúng ta, chúng ta vẫn có thể tạo ra sự hòa hợp trong chính ngôi
+**H:** Dường như ta không thể nghe theo những gì ngươi nói được. Cả thế giới này đang tan vỡ vì chiến tranh, suy thoái kinh tế và những dạng xung đột khác tượng trưng cho mọi thứ, trừ sự hòa hợp. Tự nhiên dường như không thể bắt ép con người hòa hợp với nhau được. Ngươi lý giải thế nào về mâu thuẫn này?
 
 ---
 
-nhà của mình.
+> Cũng như thời kỳ của Napoleon Hill, thế giới chúng ta đang sống ngày nay cũng có rất ít sự hòa hợp. Khi nghĩ về nền kinh tế hiện nay, các thảm họa thiên nhiên, những xung đột trong quân đội, con người bị tàn phá bởi bệnh tật và nghèo đói thì liệu có thể tồn tại sự hòa hợp không? Napoleon Hill sẽ trả lời rằng, có, thậm chí với những điều kiện khủng khiếp ở thời kỳ của ông. Dù tôi và bạn không thể kiểm soát được sự hòa hợp trong thế giới của chúng ta, chúng ta vẫn có thể tạo ra sự hòa hợp trong chính ngôi nhà của mình.
+
+---
 
 **Đ:** Chẳng có gì là mâu thuẫn ở đây cả. Như ngươi nói, những tác động chiếm ưu thế của thế giới là tiêu cực. Rất đúng, tự nhiên buộc con người phải hòa hợp với những tác động chiếm ưu thế của môi trường xung quanh.
 
@@ -356,61 +324,58 @@ Sự hài hòa có thể được biểu hiện dưới dạng tích cực hoặ
 
 Sự hòa hợp, theo ý nghĩa được dùng ở đây, có nghĩa là tự nhiên liên kết mọi thứ trong cả vũ trụ với những thứ khác có bản chất tương tự. Những tác động tiêu cực bị buộc phải tiếp xúc với nhau, không cần biết chúng có thể ở đâu. Còn những tác động tích cực thì rõ ràng cũng phải tiếp xúc với nhau.
 
-**H:** Ta bắt đầu hiểu tại sao các nhà lãnh đạo thành công trong giới kinh doanh lại cần thận trong việc chọn lựa đối tác làm ăn đến vậy. Những người thành công trong bất kỳ lĩnh vực nào đều thường thiết lập môi trường của chính họ bằng cách bao quanh họ những người có tư duy và hành động thành công. Ý ngươi là như vậy đúng không? Đ: Chính xác là như vậy. Hãy nhận thấy và học hỏi một điều rằng tất cả những người thành công đều phải có mối quan hệ hòa hợp với các đối tác làm ăn của họ. Một đặc điểm nữa của những người thành công là họ thường có mục tiêu xác định và yêu cầu các đối tác của mình cũng phải có mục tiêu xác định. Khi đã hiểu được hai điều này, ngươi sẽ hiểu khác biệt lớn nhất giữa Henry Ford và một công nhân làm việc theo ngày là gì.
+**H:** Ta bắt đầu hiểu tại sao các nhà lãnh đạo thành công trong giới kinh doanh lại cẩn thận trong việc chọn lựa đối tác làm ăn đến vậy. Những người thành công trong bất kỳ lĩnh vực nào đều thường thiết lập môi trường của chính họ bằng cách bao quanh họ những người có tư duy và hành động thành công. Ý ngươi là như vậy đúng không?
 
-Vậy có nghĩa là nguyên tắc về sự hòa hợp sẽ mang lại lợi
-
-ích cho chúng ta khi xung quanh chúng ta là những người
-
-thành công. Hãy nghĩ đến những người bạn làm việc cùng. Họ đang hỗ trợ cho bạn... hay kéo bạn thụt lùi lại?
-
-**H:** Giờ hãy nói cho ta biết về nguyên tắc cuối cùng đi. **Đ:** Nguyên tắc cuối cùng là cần trọng. Sau thói quen buông thả, đặc điểm nguy hiểm nhất của con người chính là sự thiếu cần trọng.
-
-Con người buông thả vào đủ các tình huống nguy hiểm bởi họ đã không lên kế hoạch cho từng bước đi cần có một cách cần trọng. Những người buông thả luôn hành động thiếu cần trọng. Anh ta luôn hành động trước và suy nghĩ sau. Anh ta không chọn lựa bạn bè. Anh ta cứ thế buông thả và để mọi người trói buộc mình theo cách của họ. Anh ta cũng chẳng chọn nghề nghiệp nào. Anh ta buông thả suốt thời đi học và sẽ vui vẻ làm bất cứ công việc gì cho anh ta cơm ăn và áo mặc. Anh ta mời mọi người lừa gạt mình trong nghề nghiệp bằng cách không quan tâm đến việc biết những luật lệ về công việc đó. Anh ta mời gọi bệnh tật vì anh ta bỏ bê những nguyên tắc giúp anh ta duy trì sức khỏe. Anh ta mời gọi nghèo đói bởi anh ta không quan tâm đến việc bảo vệ mình khỏi ảnh hưởng từ môi trường của những người nghèo xơ xác. Anh ta mời gọi thất bại tại mỗi bước chân anh ta đi bởi anh ta không cần trọng quan sát xem điều gì đã khiến những người khác thất bại. Anh ta mời gọi nỗi sợ hãi đến bởi anh ta thiếu cần trọng trong việc xem xét các nguyên nhân của nỗi sợ hãi. Anh ta thất bại trong hôn nhân bởi anh ta không cần trọng trong việc lựa chọn bạn đời và anh ta vẫn thiếu cần trọng trong các biện pháp gắn kết bản thân mình với cô ta sau khi đã chia tay. Anh ta đánh mất bạn bè hoặc khiến họ trở thành kẻ thù của mình bởi thiếu sự cần trọng trong việc giữ quan hệ với họ một cách đúng đắn.
+**Đ:** Chính xác là như vậy. Hãy nhận thấy và học hỏi một điều rằng tất cả những người thành công đều phải có mối quan hệ hòa hợp với các đối tác làm ăn của họ. Một đặc điểm nữa của những người thành công là họ thường có mục tiêu xác định và yêu cầu các đối tác của mình cũng phải có mục tiêu xác định. Khi đã hiểu được hai điều này, ngươi sẽ hiểu khác biệt lớn nhất giữa Henry Ford và một công nhân làm việc theo ngày là gì.
 
 ---
 
-> **“Sau thói quen buông thả, đặc điểm nguy hiểm nhất**
+> Vậy có nghĩa là nguyên tắc về sự hòa hợp sẽ mang lại lợi ích cho chúng ta khi xung quanh chúng ta là những người thành công. Hãy nghĩ đến những người bạn làm việc cùng. Họ đang hỗ trợ cho bạn... hay kéo bạn thụt lùi lại?
 
+---
 
-của con người chính là sự thiếu cần trọng.”
+**H:** Giờ hãy nói cho ta biết về nguyên tắc cuối cùng đi.
 
-**H:** Có phải tất cả mọi người đều thiếu cần trọng hay không?
+**Đ:** Nguyên tắc cuối cùng là cẩn trọng. Sau thói quen buông thả, đặc điểm nguy hiểm nhất của con người chính là sự thiếu cẩn trọng.
 
-**Đ:** Không, chỉ những người có thói quen buông thả mới như vậy thôi. Những người không buông thả luôn cần trọng. Anh ta sẽ cân nhắc thật kỹ càng về kế hoạch của mình trước khi bắt đầu thực hiện nó. Anh ta sẽ chú ý đến các yếu điểm của những người cùng cộng tác với mình và lên kế hoạch để khắc phục chúng.
+Con người buông thả vào đủ các tình huống nguy hiểm bởi họ đã không lên kế hoạch cho từng bước đi cần có một cách cẩn trọng. Những người buông thả luôn hành động thiếu cẩn trọng. Anh ta luôn hành động trước và suy nghĩ sau. Anh ta không chọn lựa bạn bè. Anh ta cứ thế buông thả và để mọi người trói buộc mình theo cách của họ. Anh ta cũng chẳng chọn nghề nghiệp nào. Anh ta buông thả suốt thời đi học và sẽ vui vẻ làm bất cứ công việc gì cho anh ta cơm ăn và áo mặc. Anh ta mời mọi người lừa gạt mình trong nghề nghiệp bằng cách không quan tâm đến việc biết những luật lệ về công việc đó. Anh ta mời gọi bệnh tật vì anh ta bỏ bê những nguyên tắc giúp anh ta duy trì sức khỏe. Anh ta mời gọi nghèo đói bởi anh ta không quan tâm đến việc bảo vệ mình khỏi ảnh hưởng từ môi trường của những người nghèo xơ xác. Anh ta mời gọi thất bại tại mỗi bước chân anh ta đi bởi anh ta không cẩn trọng quan sát xem điều gì đã khiến những người khác thất bại. Anh ta mời gọi nỗi sợ hãi đến bởi anh ta thiếu cẩn trọng trong việc xem xét các nguyên nhân của nỗi sợ hãi. Anh ta thất bại trong hôn nhân bởi anh ta không cẩn trọng trong việc lựa chọn bạn đời và anh ta vẫn thiếu cẩn trọng trong các biện pháp gắn kết bản thân mình với cô ta sau khi đã chia tay. Anh ta đánh mất bạn bè hoặc khiến họ trở thành kẻ thù của mình bởi thiếu sự cẩn trọng trong việc giữ quan hệ với họ một cách đúng đắn.
+
+---
+
+> **“Sau thói quen buông thả, đặc điểm nguy hiểm nhất của con người chính là sự thiếu cẩn trọng.”**
+
+---
+
+**H:** Có phải tất cả mọi người đều thiếu cẩn trọng hay không?
+
+**Đ:** Không, chỉ những người có thói quen buông thả mới như vậy thôi. Những người không buông thả luôn cẩn trọng. Anh ta sẽ cân nhắc thật kỹ càng về kế hoạch của mình trước khi bắt đầu thực hiện nó. Anh ta sẽ chú ý đến các yếu điểm của những người cùng cộng tác với mình và lên kế hoạch để khắc phục chúng.
 
 Nếu anh ta nhờ một người đưa thư thực hiện một nhiệm vụ quan trọng, anh ta sẽ cử một người khác để đảm bảo rằng người đưa thư sẽ không lơ là nhiệm vụ của mình. Và sau đó anh ta sẽ kiểm tra xem cả hai người đó đã thực hiện đúng như mong muốn của anh ta hay chưa. Anh ta không bao giờ hoàn toàn tin tưởng điều gì nếu vẫn còn có cách để đảm bảo cho thành công của anh ấy.
 
-**H:** Không phải quá cần trọng cũng nguy hiểm không kém gì thiếu cần trọng hay sao?
+**H:** Không phải quá cẩn trọng cũng nguy hiểm không kém gì thiếu cẩn trọng hay sao?
 
-**Đ:** Không có gì là quá cần trọng cả. Thứ ngươi gọi là “quá cần trọng” chỉ là một biểu hiện của sự sợ hãi thôi. Sợ hãi và cần trọng là hai thứ hoàn toàn khác nhau.
+**Đ:** Không có gì là quá cẩn trọng cả. Thứ ngươi gọi là “quá cẩn trọng” chỉ là một biểu hiện của sự sợ hãi thôi. Sợ hãi và cẩn trọng là hai thứ hoàn toàn khác nhau.
 
-**H:** Mọi người có lầm lẫn giữa sợ hãi với quá cần trọng hay không? **Đ:** Đúng vậy, thỉnh thoảng chuyện đó có xảy ra nhưng phần lớn mọi người sẽ tự tạo ra cho bản thân mình những mối nguy hiểm vô cùng lớn do hoàn toàn thiếu cần trọng hơn là quá cần trọng.
+**H:** Mọi người có lầm lẫn giữa sợ hãi với quá cẩn trọng hay không?
 
-**H:** Con người áp dụng sự cần trọng theo cách nào thì sẽ có lợi nhất?
+**Đ:** Đúng vậy, thỉnh thoảng chuyện đó có xảy ra nhưng phần lớn mọi người sẽ tự tạo ra cho bản thân mình những mối nguy hiểm vô cùng lớn do hoàn toàn thiếu cẩn trọng hơn là quá cẩn trọng.
 
-**Đ:** Trong việc lựa chọn cộng sự và phương pháp gắn kết với người khác. Lý do cho điều này thì đã quá rõ ràng. Các cộng sự đóng vai trò quan trọng nhất trong môi trường của một con người và ảnh hưởng của môi trường lại quyết định một người có hình thành nên thói quen buông thả hay sẽ trở thành một người không buông thả. Những người cần trọng trong việc lựa chọn cộng sự không bao giờ cho phép bản thân mình có mối giao thiệp thân cận với bất cứ người nào không mang đến cho anh ta một lợi ích về mặt tinh thần, vật chất hay trí tuệ nào đó, thông qua mối quan hệ đó.
+**H:** Con người áp dụng sự cẩn trọng theo cách nào thì sẽ có lợi nhất?
+
+**Đ:** Trong việc lựa chọn cộng sự và phương pháp gắn kết với người khác. Lý do cho điều này thì đã quá rõ ràng. Các cộng sự đóng vai trò quan trọng nhất trong môi trường của một con người và ảnh hưởng của môi trường lại quyết định một người có hình thành nên thói quen buông thả hay sẽ trở thành một người không buông thả. Những người cẩn trọng trong việc lựa chọn cộng sự không bao giờ cho phép bản thân mình có mối giao thiệp thân cận với bất cứ người nào không mang đến cho anh ta một lợi ích về mặt tinh thần, vật chất hay trí tuệ nào đó, thông qua mối quan hệ đó.
 
 **H:** Không phải phương pháp lựa chọn cộng sự đó quá ích kỷ hay sao?
 
 **Đ:** Nó thực tế và nó sẽ giúp con người có được về tinh thần, mà thành công về mặt vật chất và hạnh phúc là mong muốn của mọi con người bình thường.
 
-Không gì đóng góp nhiều hơn cho thành công và hạnh phúc của một người hơn việc chọn bạn bè, đối tác và cộng sự thật kỹ càng. Do đó, cần trọng trong việc chọn bạn bè, đối tác và cộng sự trở thành trách nhiệm của tất cả những ai muốn trở nên thành công và hạnh phúc. Những người không buông thả sẽ lựa chọn bạn bè rất cần thận và không cho phép bất cứ ai trở thành bạn thân của anh ta mà không đóng góp một ảnh hưởng tích cực hay dành cho anh ta cho một lợi ích nhất định nào đó.
+Không gì đóng góp nhiều hơn cho thành công và hạnh phúc của một người hơn việc chọn bạn bè, đối tác và cộng sự thật kỹ càng. Do đó, cẩn trọng trong việc chọn bạn bè, đối tác và cộng sự trở thành trách nhiệm của tất cả những ai muốn trở nên thành công và hạnh phúc. Những người không buông thả sẽ lựa chọn bạn bè rất cẩn thận và không cho phép bất cứ ai trở thành bạn thân của anh ta mà không đóng góp một ảnh hưởng tích cực hay dành cho anh ta cho một lợi ích nhất định nào đó.
 
-**H:** Ta chưa bao giờ nghĩ rằng việc lựa chọn bạn bè một cách cần trọng lại có mối liên hệ rõ ràng với thành công hay thất bại cả. Có phải tất cả những người thành công đều cần trọng trong việc chọn những người cộng tác cùng, dù là trong công việc kinh doanh, các mối quan hệ xã hội hay mối quan hệ cá nhân hay không?
+**H:** Ta chưa bao giờ nghĩ rằng việc lựa chọn bạn bè một cách cẩn trọng lại có mối liên hệ rõ ràng với thành công hay thất bại cả. Có phải tất cả những người thành công đều cẩn trọng trong việc chọn những người cộng tác cùng, dù là trong công việc kinh doanh, các mối quan hệ xã hội hay mối quan hệ cá nhân hay không?
 
-**Đ:** Nếu không chọn lựa cần trọng tất cả cộng sự của mình, không ai có thể thành công trong bất kỳ lĩnh vực nào hết. Mặt khác, thiếu cần trọng trong việc đó sẽ khiến con người gần như chắc chắn sẽ thất bại trong mọi việc mình làm.
-
----
-
-> Bạn đã từng gặp khó khăn khi phải nói “không” với người
+**Đ:** Nếu không chọn lựa cẩn trọng tất cả cộng sự của mình, không ai có thể thành công trong bất kỳ lĩnh vực nào hết. Mặt khác, thiếu cẩn trọng trong việc đó sẽ khiến con người gần như chắc chắn sẽ thất bại trong mọi việc mình làm.
 
 ---
 
-khác? Chương này sẽ khiến bạn nhận ra rằng cần trọng
+> Bạn đã từng gặp khó khăn khi phải nói “không” với người khác? Chương này sẽ khiến bạn nhận ra rằng cẩn trọng trong việc lựa chọn bạn bè và cộng sự hay đối tác và học cách nói “không” nhiều hơn có thể giúp bạn tiến nhanh hơn trên con đường dẫn đến thành công.
 
-trong việc lựa chọn bạn bè và cộng sự hay đối tác và học
-
-cách nói “không” nhiều hơn có thể giúp bạn tiến nhanh hơn trên con đường dẫn đến thành công.
-
-+Ắ
+---

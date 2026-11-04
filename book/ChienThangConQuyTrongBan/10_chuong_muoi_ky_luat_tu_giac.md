@@ -56,9 +56,9 @@ Hãy thử tưởng tượng xem nếu trí tưởng tượng của ngươi có 
 
 **H:** Và tất cả những rắc rối này là kết quả của việc thiếu kiểm soát với ham mê đổ ăn thức uống của cơ thể?
 
-ÐĐ: Chà, chính xác hơn thì ngươi nên nói rằng chế độ ăn uống không đúng chính là nguyên nhân gây ra phần lớn các loại bệnh tật của cơ thể và gần như là tất cả các bệnh đau đầu nữa.
+**Đ:** Chà, chính xác hơn thì ngươi nên nói rằng chế độ ăn uống không đúng chính là nguyên nhân gây ra phần lớn các loại bệnh tật của cơ thể và gần như là tất cả các bệnh đau đầu nữa.
 
-Nếu ngươi muốn ta đưa ra bằng chứng về điều này, hãy thử chọn ra 100 người mắc bệnh đau đầu và làm sạch hoàn toàn hệ thống bài tiết của họ bằng cách rửa ruột, ngươi sẽ thấy rằng không dưới người trong số họ sẽ không còn bị đau đầu nữa chỉ sau vài phút khi ruột của họ được làm sạch.
+Nếu ngươi muốn ta đưa ra bằng chứng về điều này, hãy thử chọn ra 100 người mắc bệnh đau đầu và làm sạch hoàn toàn hệ thống bài tiết của họ bằng cách rửa ruột, ngươi sẽ thấy rằng không dưới 95 người trong số họ sẽ không còn bị đau đầu nữa chỉ sau vài phút khi ruột của họ được làm sạch.
 
 **H:** Từ những gì ngươi nói về đường ruột, ta trở nên có ấn tượng rằng việc làm chủ ham mê ăn uống của cơ thể cũng đồng nghĩa với việc làm chủ thói quen bỏ mặc việc làm sạch hệ thống đường ruột của mình?
 
@@ -86,7 +86,7 @@ Nếu ngươi muốn ta đưa ra bằng chứng về điều này, hãy thử ch
 
 **H:** Tại sao cả thế giới lại coi tình dục là chuyện tầm thường?
 
-**Đ:** Bởi mọi người đã lạm dụng cảm xúc về tình dục và khiến nó trở nên tầm thường. Bản thân chuyện tình dục không hể tầm thường. Chính người thờ ơ hoặc từ chối kiểm soát và điều khiển nó mới là người tầm thường.
+**Đ:** Bởi mọi người đã lạm dụng cảm xúc về tình dục và khiến nó trở nên tầm thường. Bản thân chuyện tình dục không hề tầm thường. Chính người thờ ơ hoặc từ chối kiểm soát và điều khiển nó mới là người tầm thường.
 
 **H:** Qua những lời ngươi nói, có phải ý ngươi là một người không nên có ham muốn tình dục, đúng không?
 
@@ -108,7 +108,7 @@ Nó hủy hoại lòng nhiệt tình, đánh bại tham vọng và tất yếu s
 
 **Đ:** Nếu kiểm soát được ham muốn tình dục, con người sẽ có khả năng hấp dẫn người khác. Đó là nhân tố quan trọng nhất của một tính cách cuốn hút.
 
-+Ắ Nó khiến giọng nói của con người trở nên hay hơn và giúp con người thể hiện được những cảm xúc mình muốn qua giọng nói.
+Nó khiến giọng nói của con người trở nên hay hơn và giúp con người thể hiện được những cảm xúc mình muốn qua giọng nói.
 
 Hơn tất cả mọi thứ khác, nó khiến những khao khát của con người có thêm sức mạnh của động lực.
 
@@ -156,8 +156,9 @@ Nói ngắn gọn, nó giúp làm nên những người chiến thắng chứ kh
 
 > **“Còn một điều rất quan trọng với con người nữa. Đó chính là tư duy đúng đắn.”**
 
+---
 
-+Ắ H: Có phải ta nên hiểu rằng ngươi đang nói là hiểu biết về chức năng thật sự của tình dục và khả năng tư duy đúng đắn là hai thứ quan trọng nhất đối với con người, có đúng hay không?
+**H:** Có phải ta nên hiểu rằng ngươi đang nói là hiểu biết về chức năng thật sự của tình dục và khả năng tư duy đúng đắn là hai thứ quan trọng nhất đối với con người, có đúng hay không?
 
 **Đ:** Đó chính là điều ta muốn ngươi hiểu. Trước tiên, tử duy đúng đắn xuất hiện vì nó là giải pháp cho mọi vấn đề của con người, là câu trả lời cho mọi lời cầu nguyện, là nguồn gốc của mọi sự giàu có và sở hữu vật chất của con người. Khả năng tư duy đúng đắn được trợ giúp bởi cảm xúc về tình dục được kiểm soát và định hướng đúng đắn chính là nguồn năng lượng giúp con người tư duy. Nó bắt đầu với những người có khao khát tự quyết đủ để sẵn sàng trả giá. Không ai có thể hoàn toàn tự do về mặt tinh thần, trí óc, cơ thể hay kinh tế mà không học được nghệ thuật tư duy đúng đắn. Không ai có thể học được cách tư duy đúng đắn mà không có như một phần kiến thức cần thiết thông tin để kiểm soát cảm xúc về tình dục thông qua việc chuyển hóa nó thành những hành động tích cực.
 
@@ -173,6 +174,7 @@ Và tất nhiên, tùy tiện thể hiện quan điểm cũng dẫn đến thói
 
 > **“Thói quen tùy tiện thể hiện quan điểm cá nhân là một trong những thói quen hủy hoại con người hữu hiệu nhất.”**
 
+---
 
 **H:** Còn những bất lợi nào khi tùy tiện thể hiện quan điểm của mình nữa không?
 
@@ -188,7 +190,7 @@ Những người khôn ngoan giữ kế hoạch cho riêng mình và kiểm ch�
 
 **Đ:** Những người chỉ chăm chăm nói hiếm khi có cơ hội học hỏi bằng cách lắng nghe người khác.
 
-+Ắ H: Nhưng không phải một nhà diễn thuyết có sức hút thường có cơ hội thu hút sự chú ý của người khác nhờ sức mạnh khả năng hùng biện của mình đó sao?
+**H:** Nhưng không phải một nhà diễn thuyết có sức hút thường có cơ hội thu hút sự chú ý của người khác nhờ sức mạnh khả năng hùng biện của mình đó sao?
 
 **Đ:** Đúng vậy, một nhà hùng biện giỏi có một tài sản vô cùng giá trị khi muốn gây ấn tượng với mọi người bởi tài diễn thuyết của mình, nhưng anh ta không thể tận dụng tối đa tài sản ấy nếu anh ta diễn thuyết trước những người không mong muốn điều đó.
 
@@ -202,37 +204,23 @@ Không một phẩm chất riêng biệt nào lại hữu ích với nhân cách
 
 ---
 
-> l Hãy dành chút thời gian để nhớ rằng khi Napoleon Hill viết bản thảo này thì việc viết thư là cách duy nhất để giao tiếp ở dạng viết. Khi đọc, bạn hãy nghĩ đến việc những tư tưởng của ông sẽ được áp dụng như thế nào trong thế giới
+> Hãy dành chút thời gian để nhớ rằng khi Napoleon Hill viết bản thảo này thì việc viết thư là cách duy nhất để giao tiếp ở dạng viết. Khi đọc, bạn hãy nghĩ đến việc những tư tưởng của ông sẽ được áp dụng như thế nào trong thế giới blog và mạng xã hội ngày nay.
 
 ---
 
----
+**Đ:** Thói quen rất dễ được lan truyền. Mọi thói quen đều kéo theo cả đống anh em họ hàng của nó. Thói quen làm bất cứ điều gì vô ích sẽ dẫn tới việc hình thành những thói quen vô ích khác, đặc biệt là thói quen buông thả.
 
-> blog và mạng xã hội ngày nay.
+Nhưng đó không phải là tất cả những hiểm họa liên quan đến thói quen sa đà vào chuyện tùy tiện thể hiện những quan điểm không được chào đón này. Thói quen này tạo ra kẻ thù và đặt vào tay chúng những vũ khí nguy hiểm mà nhờ đó, chúng có thể gây những tổn hại nghiêm trọng đến những người sa đà vào thói quen ấy. Những tên trộm và kẻ cướp sẵn sàng trả giá cao cho tên tuổi và địa chỉ của những người hay viết những lá thư không được chào đón, chúng biết rằng người viết những lá thư này dễ trở thành nạn nhân của tất cả các âm mưu liên quan đến tiền bạc. Chúng cho những người như thế là “những kẻ gàn dở” Nếu bạn muốn biết những người viết những lá thư không được chào đón ngốc nghếch như thế nào, hãy đọc mục “những kẻ gàn dở” trên bất kỳ tờ báo nào mục mà các báo thường cho in những ý kiến tự do của độc giả và bản thân bạn sẽ thấy những người viết những lá thư đó khiến người khác khó chịu và gây thù chuốc oán với người khác như thế nào.
 
----
-
-ÐĐ: Thói quen rất dễ được lan truyền. Mọi thói quen đều kéo theo cả đống anh em họ hàng của nó. Thói quen làm bất cứ điều gì vô ích sẽ dẫn tới việc hình thành những thói quen vô ích khác, đặc biệt là thói quen buông thả.
-
-Nhưng đó không phải là tất cả những hiểm họa liên quan đến thói quen sa đà vào chuyện tùy tiện thể hiện những quan điểm không được chào đón này. Thói quen này tạo ra kẻ thù và đặt vào tay chúng những vũ khí nguy hiểm mà nhờ đó, chúng có thể gây những tổn hại nghiêm trọng đến những người sa đà vào thói quen ấy. Những tên trộm và kẻ cướp sẵn sàng trả giá cao cho tên tuổi và địa chỉ của những người hay viết những lá thư không được chào đón, chúng biết rằng người viết những lá thư này dễ trở thành nạn nhân của tất cả các âm mưu liên quan đến tiền bạc. Chúng cho những người như thế là “những kẻ gàn dở” Nếu bạn muốn biết những người viết những lá thư không được chào đón ngốc nghếch như thế nào, hãy đọc mục “những kẻ gàn đở” trên bất kỳ tờ báo nào mục mà các báo thường cho in những ý kiến tự do của độc giả và bản thân bạn sẽ thấy những người viết những lá thư đó khiến người khác khó chịu và gây thù chuốc oán với người khác như thế nào.
-
-**H:** Tâu Bệ hạ, ta không hề biết rằng con người lại gặp nhiều khó khăn đến thế khi đưa ra những quan điểm không được chào đón, nhưng giờ ngươi đã nhắc ta nhớ lại chủ để mà ta nhớ là ta đã viết thư cho tổng biên tập của một tạp chí nổi tiếng một lá thư chỉ trích không
-
-+Ắ hể được chào đón và điều đó đã giúp ta có được một ví trí tốt trong đám nhân viên của ông với mức lương vô cùng béo bở.
+**H:** Tâu Bệ hạ, ta không hề biết rằng con người lại gặp nhiều khó khăn đến thế khi đưa ra những quan điểm không được chào đón, nhưng giờ ngươi đã nhắc ta nhớ lại chủ đề mà ta nhớ là ta đã viết thư cho tổng biên tập của một tạp chí nổi tiếng một lá thư chỉ trích không hề được chào đón và điều đó đã giúp ta có được một vị trí tốt trong đám nhân viên của ông với mức lương vô cùng béo bở.
 
 **Đ:** Đó đúng là một ví dụ tuyệt vời. Vị trí thích hợp để bắt đầu thực hiện kỷ luật tự giác chính là nơi ngươi đang đứng. Ngươi sẽ bắt đầu bằng cách nhìn nhận sự thật rằng chẳng có gì mãi mãi tốt hay xấu trong cả vũ trụ này trừ sức mạnh của quy luật tự nhiên.
 
-Không có bất cứ ai đang sống trên Trái đất này, không có ai từng sống và sẽ sống có quyển hay sức mạnh để tước đoạt những đặc quyển khi sinh ra đã có của con người là khả năng tư duy tự do và độc lập. Đặc quyền này là đặc quyền duy nhất mà bất cứ người nào cũng có thể hoàn toàn kiểm soát được. Không có bất cứ người trưởng thành nào mất quyển tự do tư duy nhưng phần lớn con người đã mất đi những lợi ích của quyền lợi này bằng cách hoặc không để ý đến nó hoặc nó đã bị cha mẹ, những người giảng dạy về tôn giáo lấy đi trước khi họ đến tuổi nhận thức. Có những sự thật hiển nhiên không hề kém quan trọng bởi chúng lôi kéo sự chú ý của các ngươi đến ta hơn là tới chính kẻ thù của ta.
+Không có bất cứ ai đang sống trên Trái đất này, không có ai từng sống và sẽ sống có quyền hay sức mạnh để tước đoạt những đặc quyền khi sinh ra đã có của con người là khả năng tư duy tự do và độc lập. Đặc quyền này là đặc quyền duy nhất mà bất cứ người nào cũng có thể hoàn toàn kiểm soát được. Không có bất cứ người trưởng thành nào mất quyền tự do tư duy nhưng phần lớn con người đã mất đi những lợi ích của quyền lợi này bằng cách hoặc không để ý đến nó hoặc nó đã bị cha mẹ, những người giảng dạy về tôn giáo lấy đi trước khi họ đến tuổi nhận thức. Có những sự thật hiển nhiên không hề kém quan trọng bởi chúng lôi kéo sự chú ý của các ngươi đến ta hơn là tới chính kẻ thù của ta.
 
 ---
 
-> Napoleon Hill đã phân biệt giữa quyền tự do tư duy của chúng ta với việc tùy tiện thể hiện những suy nghĩ đó. Bạn sẽ áp dụng nguyên tắc này vào thế giới blog và mạng xã
-
----
-
----
-
-> hội ngày nay như thế nào?
+> Napoleon Hill đã phân biệt giữa quyền tự do tư duy của chúng ta với việc tùy tiện thể hiện những suy nghĩ đó. Bạn sẽ áp dụng nguyên tắc này vào thế giới blog và mạng xã hội ngày nay như thế nào?
 
 ---
 
@@ -242,34 +230,24 @@ Không có bất cứ ai đang sống trên Trái đất này, không có ai t�
 
 **H:** Và đó là cái gì vậy?
 
-l **Đ:** Chính bản thân họ! Sức mạnh tư duy của chính họ. Sức mạnh duy nhất họ có thể kiểm soát và tin cậy được. Sức mạnh duy nhất không thể bị bóp méo, tô điểm, thay đổi và giả mạo bởi những con người thiếu trung thực khác.
+**Đ:** Chính bản thân họ! Sức mạnh tư duy của chính họ. Sức mạnh duy nhất họ có thể kiểm soát và tin cậy được. Sức mạnh duy nhất không thể bị bóp méo, tô điểm, thay đổi và giả mạo bởi những con người thiếu trung thực khác.
 
 ---
 
-> **“Sức mạnh đáng tin cậy duy nhất mà con người nào cũng có.... Sức mạnh tư duy của chính họ. Sức mạnh duy nhất họ có thể kiểm soát và tin cậy được.”**
->
-> Có thể bạn không có khả năng kiểm soát người khác...
+> **“Sức mạnh đáng tin cậy duy nhất mà con người nào cũng có... Sức mạnh tư duy của chính họ. Sức mạnh duy nhất họ có thể kiểm soát và tin cậy được.”**  
+>  
+> Có thể bạn không có khả năng kiểm soát người khác... nhưng bạn có thể kiểm soát phản ứng của mình với họ và với hành động của họ nữa. Đây là việc nói thì dễ mà làm thì rất khó. Chúng ta thường có xu hướng muốn thay đổi người khác trong khi thứ duy nhất chúng ta có thể thay đổi là chính bản thân mình và cách chúng ta phản ứng với người khác.
 
 ---
-
-nhưng bạn có thể kiểm soát phản ứng của mình với họ và
-
-với hành động của họ nữa. Đây là việc nói thì dễ mà làm
-
-thì rất khó. Chúng ta thường có xu hướng muốn thay đổi
-
-người khác trong khi thứ duy nhất chúng ta có thể thay
-
-đổi là chính bản thân mình và cách chúng ta phản ứng với người khác.
 
 **H:** Mọi thứ ngươi nói có vẻ như rất lô-gic, nhưng tại sao ta lại phải đến gặp ngươi để khám phá ra những sự thật thâm thúy này? Hãy quay trở lại với bảy nguyên tắc đi. Ngươi vừa mới hé lộ đủ thông tin cho thấy rõ ràng về bí quyết để phá vỡ sức mạnh của nhịp điệu thôi miên nằm trong bảy nguyên tắc đó. Ngươi cũng đã cho thấy nguyên tắc quan trọng nhất trong bảy nguyên tắc là kỷ luật tự giác. Giờ thì hãy tiếp tục miêu tả năm nguyên tắc ngươi chưa nhắc đến và cho ta biết chúng đóng vai trò gì trong việc khiến một người có kỷ luật tự giác đi?
 
-+Ắ Đ: Trước tiên, hãy để ta tổng kết phần thú tội mà ta vừa mới tiết lộ.
+**Đ:** Trước tiên, hãy để ta tổng kết phần thú tội mà ta vừa mới tiết lộ.
 
 Rõ ràng là ta đã nói với ngươi rằng hai dụng cụ hỗ trợ ta hiệu quả nhất chính là thói quen buông thả và nhịp điệu thôi miên. Ta đã cho ngươi thấy rằng buông thả không phải là quy luật tự nhiên mà là thói quen do con người tạo ra và khiến con người phải phục tùng quy luật của nhịp điệu thôi miên.
 
 Bảy nguyên tắc chính là phương tiện có thể giúp con người phá vỡ được nhịp điệu thôi miên và chiếm lại quyền sở hữu tâm trí của mình. Do đó, ngươi thấy đấy, bảy nguyên tắc chính là bảy bước dẫn nạn nhân của nhịp điệu thôi miên thoát khỏi nhà tù do chính họ tự tạo ra và khiến họ bị giới hạn trong đó.
 
-**H:** Bảy nguyên tắc là những chiếc chìa khóa mở ra cánh cửa của tỉnh
+**H:** Bảy nguyên tắc là những chiếc chìa khóa mở ra cánh cửa của tinh thần tự quyết về kinh tế và trí tuệ. Có đúng thế không?
 
-thần tự quyết về kinh tế và trí tuệ. Có đúng thế không? H: Đúng vậy, đó là một cách nói khác.
+**Đ:** Đúng vậy, đó là một cách nói khác.

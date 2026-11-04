@@ -379,7 +379,5 @@ Chấp nhận bất cứ điều gì từ cuộc sống mà mình không muốn 
 
 ---
 
----
-
 [^1]: Mẹ Teresa, còn được gọi là Mẹ Teresa Calcutta (1910-1997): Là nữ tu Công giáo Rôma người Albania, và là nhà sáng lập Dòng Thừa sai Bác Ái ở Kolkata (Calcutta), Ấn Độ năm 1950. Trong hơn bốn mươi năm, bà chăm sóc người nghèo, bệnh tật, trẻ mồ côi, người hấp hối...
 [^2]: Mahatma Gandhi (1869-1948): Tên đầy đủ là Mohandas Karamchand Gandhi, là anh hùng dân tộc Ấn Độ đã chỉ đạo cuộc kháng chiến chống chế độ thực dân của Đế quốc Anh và giành độc lập cho Ấn Độ.

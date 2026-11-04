@@ -18,13 +18,13 @@
 
 **Đ:** Không, đó là những gì tối thiểu mà một người có thể học được. Ta ghét phải nói với ngươi điều này nhưng sai lầm thường là điều may mắn bởi nó phá vỡ sự kìm kẹp của nhịp điệu thôi miên và giải phóng cho tâm trí có được một khởi đầu mới.
 
-~ H: Chúng ta đi đúng hướng rồi đấy. Cuối cùng thì ngươi cũng thú nhận rằng thậm chí quy luật nhịp điệu thôi miên của tự nhiên cũng có thể và thường bị chính tự nhiên bãi bỏ. Đúng không?
+**H:** Chúng ta đi đúng hướng rồi đấy. Cuối cùng thì ngươi cũng thú nhận rằng thậm chí quy luật nhịp điệu thôi miên của tự nhiên cũng có thể và thường bị chính tự nhiên bãi bỏ. Đúng không?
 
 **Đ:** Không, ngươi nói về điều đó như vậy là không hề chính xác. Tự nhiên không bao giờ đảo ngược bất cứ quy luật nào. Tự nhiên không lấy đi quyền tự do tư duy của con người qua nhịp điệu thôi miên. Mỗi người đánh mất quyền tự do của mình bởi họ đã lạm dụng quy luật này. Nếu một người nhảy từ trên cây xuống và bị chết bởi va chạm bất ngờ giữa cơ thể và mặt đất bởi Luật Hấp dẫn, ngươi không thể nói rằng tự nhiên đã giết hại anh ta, đúng không? Ngươi sẽ nói rằng anh ta chết bởi anh ta đã sao lãng việc kết nối bản thân mình theo đúng cách với Luật Hấp dẫn.
 
 **H:** Ta bắt đầu hiểu rồi đấy. Nhịp điệu thôi miên có cả ứng dụng tích cực lẫn tiêu cực. Nó có thể khiến một người bình thường trở thành nô lệ khi bị mất quyền tự do tư duy, hoặc cũng có thể giúp một người vươn tới đỉnh cao của thành công, tùy thuộc vào cách mỗi cá nhân gắn kết bản thân mình với quy luật này như thế nào. Có đúng không?
 
-ÐĐ: Giờ thì ngươi đã nói đúng rồi đấy.
+**Đ:** Giờ thì ngươi đã nói đúng rồi đấy.
 
 **H:** Thế còn thất bại thì sao? Chẳng ai cố ý thất bại với những mục đích được suy tính từ trước cả. Không ai lại đi khuyến khích những thất bại tạm thời đến với mình. Đó là những tình huống mà con người thường không thể nào kiểm soát nổi. Vậy thì làm sao có thể nói rằng tự nhiên không tước đoạt quyền tự do tư duy của một người khi thất bại hủy hoại tham vọng, sức mạnh ý chí và sự tự tin cần thiết để có một khởi đầu mới của anh ta?
 
@@ -132,24 +132,11 @@ Một cách tự nhiên, vấn đề nảy ra ở đây là thế nào là một
 
 ---
 
-> **“Mối quan hệ đúng đắn là mối quan hệ mang đến cho tất cả những ai gắn kết với nó, hay bị ảnh hưởng bởi nó một lợi ích nào đó.”**
-
-
-*x*x*x***>***x*.**
-
-.
+> **“Mối quan hệ đúng đắn là mối quan hệ mang đến cho tất cả những ai gắn kết với nó, hay bị ảnh hưởng bởi nó một lợi ích nào đó.”**  
+>  
+> Hãy dành chút thời gian để kiểm kê lại các mối quan hệ của bạn tại nhà, tại nơi làm việc hay bạn chơi cùng nhóm. Hãy liệt kê ra những mối quan hệ có vẻ như đang cần phải cải thiện và giữ chúng trong tâm trí bạn khi bạn đọc tiếp cuốn sách này.
 
 ---
-
-> Hãy dành chút thời gian để kiểm kê lại các mối quan hệ
-
----
-
-của bạn tại nhà, tại nơi làm việc hay bạn chơi cùng nhóm.
-
-Hãy liệt kê ra những mối quan hệ có vẻ như đang cần phải
-
-cải thiện và giữ chúng trong tâm trí bạn khi bạn đọc tiếp cuốn sách này.
 
 **H:** Vậy thì thế nào là mối quan hệ không đúng đắn?
 
@@ -159,7 +146,7 @@ cải thiện và giữ chúng trong tâm trí bạn khi bạn đọc tiếp cu�
 
 **Đ:** Ngươi có thể làm được điều đó bằng cách thay đổi tâm trí của người tạo ra mối quan hệ không đúng đắn đó hoặc đối tượng của mối quan hệ. Có một vài tâm trí có khả năng hòa hợp bẩm sinh trong khi cũng có những tâm trí sinh ra đã dễ va chạm với người khác. Để duy trì những mối quan hệ tốt đẹp của con người, tâm trí phải hình thành sự hòa hợp tự nhiên đó, ngoài việc có những mối quan tâm chung như một phương tiện giúp chúng trở nên hòa hợp với nhau.
 
-Khi ngươi nói đến các nhà lãnh đạo doanh nghiệp những người đã thành công bởi “họ biết cách chọn người; ngươi có thể nói chính xác hơn là họ thành công bởi họ biết cách kết hợp các tâm trí hài hòa với nhau một cách tự nhiên. Biết cách chọn đúng người cho bất cứ mục tiêu xác định nào trong cuộc đời được dựa trên khả năng nhận ra những tuýp người mà tâm trí của họ hòa hợp với nhau một cách tự nhiên.
+Khi ngươi nói đến các nhà lãnh đạo doanh nghiệp - những người đã thành công bởi “họ biết cách chọn người”, ngươi có thể nói chính xác hơn là họ thành công bởi họ biết cách kết hợp các tâm trí hài hòa với nhau một cách tự nhiên. Biết cách chọn đúng người cho bất cứ mục tiêu xác định nào trong cuộc đời được dựa trên khả năng nhận ra những tuýp người mà tâm trí của họ hòa hợp với nhau một cách tự nhiên.
 
 ---
 
@@ -179,13 +166,11 @@ Nghịch cảnh buộc một người nhận ra được sự cần thiết củ
 
 Nghịch cảnh phá vỡ những thói quen tư duy cũ và cho con người cơ hội hình thành nên những thói quen mới, do đó, nó có thể giúp phá vỡ được sự kìm kẹp của nhịp điệu thôi miên và thay đổi cách nó vận hành, hướng nó đến những mục đích tích cực thay vì những mục đích tiêu cực.
 
-**H:** Lợi ích lớn nhất mà con người nhận được thông qua nghịch cảnh là gì? Đ: Lợi ích lớn nhất của nghịch cảnh là nó có thể và thường là như vậy bắt một người thay đổi thói quen tư duy của mình, do đó nó cũng có thể phá vỡ và điều chỉnh lại sức mạnh của nhịp điệu thôi miên.
+**H:** Lợi ích lớn nhất mà con người nhận được thông qua nghịch cảnh là gì?
 
-**H:** Nói cách khác, thất bại luôn là điều may mắn nếu nó ép một người có được hiểu biết hoặc xây dựng được những thói quen giúp
+**Đ:** Lợi ích lớn nhất của nghịch cảnh là nó có thể và thường là như vậy bắt một người thay đổi thói quen tư duy của mình, do đó nó cũng có thể phá vỡ và điều chỉnh lại sức mạnh của nhịp điệu thôi miên.
 
-họ đạt được mục tiêu lớn của cuộc đời mình. Có đúng vậy không?
-
-.
+**H:** Nói cách khác, thất bại luôn là điều may mắn nếu nó ép một người có được hiểu biết hoặc xây dựng được những thói quen giúp họ đạt được mục tiêu lớn của cuộc đời mình. Có đúng vậy không?
 
 **Đ:** Đúng vậy, và còn hơn thế nữa! Thất bại là điều may mắn khi nó buộc một người ít dựa dẫm vào những sức mạnh vật chất và tìm đến với nhiều sức mạnh tinh thần hơn.
 
@@ -213,30 +198,11 @@ Quy luật về nhịp điệu thôi miên buộc mọi cá nhân phải sử d�
 
 ---
 
-> **“Những người không buông thả cũng gặp phải những sai**
-
-
-lầm và thất bại tạm thời, nhưng phản ứng của họ với mọi
-
-dạng nghịch cảnh luôn tích cực. Thay vì từ bỏ, họ sẽ đấu tranh tới cùng và thường giành được thắng lợi.”
-
-x*x*z*x*>x*x**x**
+> **“Những người không buông thả cũng gặp phải những sai lầm và thất bại tạm thời, nhưng phản ứng của họ với mọi dạng nghịch cảnh luôn tích cực. Thay vì từ bỏ, họ sẽ đấu tranh tới cùng và thường giành được thắng lợi.”**  
+>  
+> Có khi nào bạn muốn từ bỏ... nhưng cuối cùng bạn vẫn tiếp tục hay không? Tôi và đồng tác giả của tôi đã mở rộng khái niệm này trong cuốn *Cách mỏ vàng ba bước chân (Three Feet from Gold)* với những câu chuyện về lòng kiên trì và không bao giờ từ bỏ của những nhà lãnh đạo hàng đầu hiện nay - những người không bao giờ biết buông thả là gì của thời đại chúng ta.
 
 ---
-
-> Có khi nào bạn muốn từ bỏ... nhưng cuối cùng bạn vẫn
-
----
-
-tiếp tục hay không? Tôi và đồng tác giả của tôi đã mở rộng
-
-khái niệm này trong cuốn Cách mỏ vàng ba bước chân
-
-(Three Eeet from Gold) với những câu chuyện về lòng kiên
-
-trì và không bao giờ từ bỏ của những nhà lãnh đạo hàng
-
-đầu hiện nay những người không bao giờ biết buông thả là gì của thời đại chúng ta.
 
 **H:** Từ những gì ngươi nói, có phải ta nên hiểu rằng mỗi nghịch cảnh đều là điều may mắn, có đúng không?
 
@@ -250,7 +216,7 @@ Chẳng hạn như chiến tranh thế giới là đo con người tạo ra và 
 
 **H:** Có phải ta nên hiểu rằng nhịp điệu thôi miên cũng chính là quy luật mà Ralph Waldo Emerson gọi là quy luật bù trừ hay không?
 
-ÐĐ: Quy luật về nhịp điệu thôi miên chính là quy luật bù trừ. Nó chính là sức mạnh giúp tự nhiên giữ được sự cân bằng âm dương trong khắp vũ trụ này, trong mọi dạng năng lượng, mọi dạng vật chất và trong mọi mối quan hệ của con người.
+**Đ:** Quy luật về nhịp điệu thôi miên chính là quy luật bù trừ. Nó chính là sức mạnh giúp tự nhiên giữ được sự cân bằng âm dương trong khắp vũ trụ này, trong mọi dạng năng lượng, mọi dạng vật chất và trong mọi mối quan hệ của con người.
 
 **H:** Liệu nhịp điệu thôi miên có vận hành nhanh chóng trong mọi trường hợp hay không? Chẳng hạn như quy luật đó có ngay lập tức giúp một người có được lợi ích khi áp dụng tư duy tích cực hay ngay lập tức gieo rắc tai họa cho người khác với những hậu quả do tư duy tiêu cực gây ra hay không?
 
