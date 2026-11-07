@@ -323,7 +323,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
             </span>
           </div>
 
-          <h3 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white leading-relaxed">
+          <h3 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white leading-relaxed">
             {currentQuestion.question}
           </h3>
         </div>
