@@ -183,18 +183,18 @@ export const QuizGame: React.FC<QuizGameProps> = ({
             <Trophy className="h-10 w-10" />
           </div>
 
-          <span className={`inline-block rounded-full border px-3.5 py-1 text-xs font-bold uppercase tracking-wider mb-3 ${feedback.badgeColor}`}>
+          <span className={`inline-block rounded-full border px-4 py-1.5 text-xs sm:text-sm font-bold uppercase tracking-wider mb-3 ${feedback.badgeColor}`}>
             {feedback.badge}
           </span>
 
           <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white">
             {score} / {totalQuestions} Câu Đúng
           </h2>
-          <p className="text-base font-semibold text-emerald-600 dark:text-emerald-400 mt-1">
+          <p className="text-base sm:text-lg font-semibold text-emerald-600 dark:text-emerald-400 mt-1">
             Đạt độ chính xác {percent}%
           </p>
 
-          <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 max-w-md mx-auto mt-3">
+          <p className="text-sm sm:text-base text-slate-600 dark:text-slate-300 max-w-lg mx-auto mt-3 leading-relaxed">
             {feedback.desc}
           </p>
 
@@ -202,7 +202,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
           <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3">
             <button
               onClick={() => setIsReviewMode(true)}
-              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-5 py-3 text-xs font-bold text-slate-800 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-all shadow-xs"
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-5 sm:px-6 py-3.5 text-sm font-bold text-slate-800 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-all shadow-xs"
             >
               <Eye className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
               Xem lại toàn bộ câu hỏi & đáp án
@@ -210,7 +210,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
 
             <button
               onClick={handleRestart}
-              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-2xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 px-5 py-3 text-xs font-bold text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-700 transition-all"
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-2xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 px-5 sm:px-6 py-3.5 text-sm font-bold text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-700 transition-all"
             >
               <RotateCcw className="h-4 w-4" />
               Làm lại Quiz
@@ -225,7 +225,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
                   if (onClose) onClose();
                   navigate(`/reader/${book.id}/${nextChapter.id}`);
                 }}
-                className="inline-flex items-center gap-2 rounded-2xl bg-emerald-600 px-6 py-3 text-xs font-bold text-white hover:bg-emerald-500 shadow-md shadow-emerald-600/20 hover:scale-105 transition-all"
+                className="inline-flex items-center gap-2 rounded-2xl bg-emerald-600 px-6 py-3.5 text-sm sm:text-base font-bold text-white hover:bg-emerald-500 shadow-md shadow-emerald-600/20 hover:scale-105 transition-all"
               >
                 <span>Đọc chương tiếp theo: {nextChapter.title}</span>
                 <ChevronRight className="h-4 w-4" />
@@ -257,7 +257,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
     <div className="mx-auto max-w-3xl px-4 sm:px-6 py-6 animate-in fade-in duration-150">
       {/* Quiz Header with Progress */}
       <div className="mb-6">
-        <div className="flex items-center justify-between text-xs text-slate-500 dark:text-slate-400 mb-2">
+        <div className="flex items-center justify-between text-xs sm:text-sm text-slate-500 dark:text-slate-400 mb-2">
           <div className="flex items-center gap-2">
             <span className="font-bold text-emerald-600 dark:text-emerald-400">
               Câu hỏi {currentIndex + 1} / {totalQuestions}
@@ -266,11 +266,11 @@ export const QuizGame: React.FC<QuizGameProps> = ({
             <span className="truncate max-w-[200px] sm:max-w-xs">{chapter.title}</span>
           </div>
           {isReviewMode ? (
-            <span className="rounded-full bg-blue-100 dark:bg-blue-950/60 px-2.5 py-0.5 text-[10px] font-bold text-blue-700 dark:text-blue-300">
+            <span className="rounded-full bg-blue-100 dark:bg-blue-950/60 px-3 py-1 text-xs font-bold text-blue-700 dark:text-blue-300">
               Chế độ xem lại
             </span>
           ) : (
-            <span>{Math.round(((currentIndex + 1) / totalQuestions) * 100)}%</span>
+            <span className="font-semibold">{Math.round(((currentIndex + 1) / totalQuestions) * 100)}%</span>
           )}
         </div>
 
@@ -286,7 +286,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
       {/* Quick Question Selector in Review Mode */}
       {isReviewMode && (
         <div className="mb-4 flex flex-wrap items-center gap-1.5 p-3 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 shadow-xs">
-          <span className="text-[11px] font-bold text-slate-400 mr-1">Danh sách câu:</span>
+          <span className="text-xs font-bold text-slate-400 mr-1">Danh sách câu:</span>
           {questions.map((q, idx) => {
             const isCurrent = idx === currentIndex;
             const userAns = selectedAnswers[idx];
@@ -298,7 +298,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
                   setCurrentIndex(idx);
                   setIsAnswered(true);
                 }}
-                className={`h-7 w-7 rounded-lg text-xs font-bold transition-all flex items-center justify-center border ${
+                className={`h-8 w-8 rounded-lg text-xs sm:text-sm font-bold transition-all flex items-center justify-center border ${
                   isCurrent
                     ? 'ring-2 ring-emerald-500 scale-110 shadow-sm z-10 ' + (isCorrect ? 'bg-emerald-600 text-white border-emerald-600' : 'bg-rose-600 text-white border-rose-600')
                     : isCorrect
@@ -318,12 +318,12 @@ export const QuizGame: React.FC<QuizGameProps> = ({
       <div className="rounded-3xl border border-slate-200/90 dark:border-slate-800 bg-white dark:bg-slate-900 p-6 sm:p-8 shadow-sm">
         <div className="mb-6">
           <div className="flex items-center gap-2 mb-3">
-            <span className="inline-flex items-center rounded-lg bg-emerald-50 dark:bg-emerald-950/40 px-2.5 py-1 text-[11px] font-bold text-emerald-700 dark:text-emerald-300">
+            <span className="inline-flex items-center rounded-lg bg-emerald-50 dark:bg-emerald-950/40 px-3 py-1 text-xs font-bold text-emerald-700 dark:text-emerald-300">
               Thử thách suy luận #{currentIndex + 1}
             </span>
           </div>
 
-          <h3 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white leading-relaxed">
+          <h3 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white leading-relaxed">
             {currentQuestion.question}
           </h3>
         </div>
@@ -361,7 +361,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
                 className={`w-full text-left rounded-2xl border-2 p-4 transition-all duration-150 flex items-start gap-3.5 group ${optionStyle}`}
               >
                 <div
-                  className={`flex h-7 w-7 shrink-0 items-center justify-center rounded-xl text-xs font-bold transition-colors ${badgeStyle}`}
+                  className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-xl text-sm font-bold transition-colors ${badgeStyle}`}
                 >
                   {showCorrectness && isCorrect ? (
                     <Check className="h-4 w-4" />
@@ -373,7 +373,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
                 </div>
 
                 <div className="flex-1 min-w-0 pt-0.5">
-                  <p className="text-xs sm:text-sm leading-relaxed font-medium">
+                  <p className="text-sm sm:text-base leading-relaxed font-medium">
                     {option}
                   </p>
                 </div>
@@ -385,11 +385,11 @@ export const QuizGame: React.FC<QuizGameProps> = ({
         {/* Detailed Explanation Box */}
         {(isAnswered || isReviewMode) && (
           <div className="mt-6 rounded-2xl border border-emerald-200 dark:border-emerald-900/60 bg-emerald-50/60 dark:bg-emerald-950/20 p-5 text-left animate-in fade-in duration-200">
-            <div className="flex items-center gap-2 mb-2 font-bold text-xs text-emerald-800 dark:text-emerald-300">
+            <div className="flex items-center gap-2 mb-2 font-bold text-xs sm:text-sm text-emerald-800 dark:text-emerald-300">
               <Lightbulb className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
               <span>Phân tích & Bài học từ sách:</span>
             </div>
-            <p className="text-xs sm:text-sm text-slate-700 dark:text-slate-300 leading-relaxed">
+            <p className="text-sm sm:text-base text-slate-700 dark:text-slate-300 leading-relaxed">
               {currentQuestion.explanation}
             </p>
           </div>
@@ -400,7 +400,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
           <div className="mt-4 flex flex-col gap-3">
             <div className="flex items-center justify-between gap-3 flex-wrap rounded-2xl bg-slate-100/70 dark:bg-slate-800/60 p-3 border border-slate-200/60 dark:border-slate-800">
               <div className="flex items-center gap-2">
-                <span className="text-[11px] font-bold text-slate-500 dark:text-slate-400">
+                <span className="text-xs font-bold text-slate-500 dark:text-slate-400">
                   Cảm xúc câu hỏi:
                 </span>
                 <ReactionButton
@@ -420,9 +420,9 @@ export const QuizGame: React.FC<QuizGameProps> = ({
                     [currentQuestion.id]: !prev[currentQuestion.id],
                   }));
                 }}
-                className="inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 px-3 py-1.5 text-xs font-bold text-slate-700 dark:text-slate-200 hover:border-emerald-400 dark:hover:border-emerald-500 transition-all shadow-2xs"
+                className="inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 px-3.5 py-2 text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-200 hover:border-emerald-400 dark:hover:border-emerald-500 transition-all shadow-2xs"
               >
-                <MessageSquare className="h-3.5 w-3.5 text-emerald-600 dark:text-emerald-400" />
+                <MessageSquare className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
                 <span>
                   {openQuestionDiscussions[currentQuestion.id]
                     ? 'Đóng thảo luận'
@@ -455,7 +455,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
           <button
             onClick={handlePrev}
             disabled={currentIndex === 0}
-            className={`inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-800 px-4 py-2 text-xs font-bold transition-all ${
+            className={`inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-800 px-4 sm:px-5 py-2.5 text-xs sm:text-sm font-bold transition-all ${
               currentIndex === 0
                 ? 'opacity-30 cursor-not-allowed bg-slate-50 dark:bg-slate-800/40 text-slate-400'
                 : 'bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 active:scale-95 shadow-2xs'
@@ -470,16 +470,16 @@ export const QuizGame: React.FC<QuizGameProps> = ({
               <>
                 <button
                   onClick={() => setIsReviewMode(false)}
-                  className="inline-flex items-center gap-1.5 rounded-xl bg-slate-800 text-white dark:bg-slate-200 dark:text-slate-900 px-4 py-2 text-xs font-bold hover:opacity-90 transition-all shadow-xs"
+                  className="inline-flex items-center gap-1.5 rounded-xl bg-slate-800 text-white dark:bg-slate-200 dark:text-slate-900 px-4 sm:px-5 py-2.5 text-xs sm:text-sm font-bold hover:opacity-90 transition-all shadow-xs"
                 >
-                  <Trophy className="h-3.5 w-3.5 text-amber-400" />
+                  <Trophy className="h-4 w-4 text-amber-400" />
                   <span className="hidden sm:inline">Về</span> Tổng kết
                 </button>
 
                 <button
                   onClick={handleNext}
                   disabled={currentIndex === totalQuestions - 1}
-                  className={`inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-800 px-4 py-2 text-xs font-bold transition-all ${
+                  className={`inline-flex items-center gap-1.5 rounded-xl border border-slate-200 dark:border-slate-800 px-4 sm:px-5 py-2.5 text-xs sm:text-sm font-bold transition-all ${
                     currentIndex === totalQuestions - 1
                       ? 'opacity-30 cursor-not-allowed bg-slate-50 dark:bg-slate-800/40 text-slate-400'
                       : 'bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 active:scale-95 shadow-2xs'
@@ -493,7 +493,7 @@ export const QuizGame: React.FC<QuizGameProps> = ({
               <button
                 onClick={handleNext}
                 disabled={!hasSelectedCurrent && !isAnswered}
-                className={`inline-flex items-center gap-2 rounded-2xl px-6 py-3 text-xs font-bold transition-all shadow-md active:scale-95 ${
+                className={`inline-flex items-center gap-2 rounded-2xl px-6 py-3 sm:py-3.5 text-sm sm:text-base font-bold transition-all shadow-md active:scale-95 ${
                   hasSelectedCurrent || isAnswered
                     ? 'bg-emerald-600 text-white hover:bg-emerald-500 shadow-emerald-600/20 hover:scale-105'
                     : 'bg-slate-100 dark:bg-slate-800 text-slate-400 cursor-not-allowed shadow-none'

@@ -101,7 +101,7 @@ export const QuizPage: React.FC = () => {
         <div className="flex items-center gap-2">
           <Link
             to="/"
-            className="inline-flex items-center gap-1.5 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 px-3 py-2 text-xs font-bold text-slate-700 dark:text-slate-300 hover:border-emerald-400 dark:hover:border-emerald-600 transition-all shadow-xs"
+            className="inline-flex items-center gap-1.5 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 px-3.5 py-2 text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 hover:border-emerald-400 dark:hover:border-emerald-600 transition-all shadow-xs"
             title="Về Trang chủ"
           >
             <Home className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
@@ -110,7 +110,7 @@ export const QuizPage: React.FC = () => {
 
           <Link
             to={`/reader/${book.id}/${chapter.id}`}
-            className="inline-flex items-center gap-2 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 px-4 py-2 text-xs font-bold text-slate-700 dark:text-slate-300 hover:border-emerald-400 dark:hover:border-emerald-600 transition-all shadow-xs"
+            className="inline-flex items-center gap-2 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 px-4 py-2 text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 hover:border-emerald-400 dark:hover:border-emerald-600 transition-all shadow-xs"
           >
             <ArrowLeft className="h-4 w-4" />
             <span>Về bài đọc chương</span>
@@ -119,7 +119,7 @@ export const QuizPage: React.FC = () => {
 
         <Link
           to={`/book/${book.id}`}
-          className="inline-flex items-center gap-1.5 text-xs font-semibold text-emerald-600 dark:text-emerald-400 hover:underline"
+          className="inline-flex items-center gap-1.5 text-xs sm:text-sm font-semibold text-emerald-600 dark:text-emerald-400 hover:underline"
         >
           <BookOpen className="h-4 w-4" />
           <span>{book.title}</span>
@@ -131,7 +131,7 @@ export const QuizPage: React.FC = () => {
         {loading ? (
           <div className="flex flex-col items-center justify-center py-28">
             <Loader2 className="h-8 w-8 animate-spin text-emerald-600 mb-3" />
-            <p className="text-xs text-slate-500">Đang chuẩn bị bộ câu hỏi suy luận...</p>
+            <p className="text-sm text-slate-500">Đang chuẩn bị bộ câu hỏi suy luận...</p>
           </div>
         ) : error ? (
           <div className="mx-auto max-w-md p-6 text-center my-12 rounded-2xl bg-rose-50 dark:bg-rose-950/30 border border-rose-200 dark:border-rose-800">

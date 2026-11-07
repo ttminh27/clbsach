@@ -64,10 +64,10 @@ export const QuizModal: React.FC<QuizModalProps> = ({
         {/* Header Bar */}
         <div className="flex items-center justify-between border-b border-slate-200 dark:border-slate-800 px-6 py-4 bg-white dark:bg-slate-900 shrink-0">
           <div>
-            <span className="text-[10px] font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">
+            <span className="text-xs font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">
               Mini Game Quiz • {book.title}
             </span>
-            <h4 className="font-bold text-sm text-slate-900 dark:text-white line-clamp-1">
+            <h4 className="font-bold text-sm sm:text-base text-slate-900 dark:text-white line-clamp-1">
               Thử Thách: {chapter.title}
             </h4>
           </div>
@@ -85,7 +85,7 @@ export const QuizModal: React.FC<QuizModalProps> = ({
           {loading ? (
             <div className="flex flex-col items-center justify-center py-24">
               <Loader2 className="h-8 w-8 animate-spin text-emerald-600 mb-3" />
-              <p className="text-xs text-slate-500">Đang chuẩn bị bộ câu hỏi suy luận...</p>
+              <p className="text-sm text-slate-500">Đang chuẩn bị bộ câu hỏi suy luận...</p>
             </div>
           ) : error ? (
             <div className="mx-auto max-w-md p-6 text-center my-12 rounded-2xl bg-rose-50 dark:bg-rose-950/30 border border-rose-200 dark:border-rose-800">

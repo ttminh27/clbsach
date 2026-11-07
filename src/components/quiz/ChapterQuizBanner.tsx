@@ -31,22 +31,22 @@ export const ChapterQuizBanner: React.FC<ChapterQuizBannerProps> = ({
           </div>
 
           <div>
-            <div className="flex items-center gap-2 mb-1">
-              <span className="rounded-md bg-emerald-500/20 px-2 py-0.5 text-[10px] font-bold text-emerald-700 dark:text-emerald-300 uppercase tracking-wider">
+            <div className="flex items-center gap-2 mb-1.5 flex-wrap">
+              <span className="rounded-md bg-emerald-500/20 px-2.5 py-0.5 text-xs font-bold text-emerald-700 dark:text-emerald-300 uppercase tracking-wider">
                 Mini Game • Kiểm tra kiến thức
               </span>
               {result && (
-                <span className="rounded-md bg-amber-500/20 px-2 py-0.5 text-[10px] font-bold text-amber-700 dark:text-amber-300">
+                <span className="rounded-md bg-amber-500/20 px-2.5 py-0.5 text-xs font-bold text-amber-700 dark:text-amber-300">
                   Điểm: {result.score}/{result.totalQuestions} ({result.percent}%)
                 </span>
               )}
             </div>
 
-            <h4 className="font-bold text-base text-slate-900 dark:text-white">
+            <h4 className="font-bold text-base sm:text-lg text-slate-900 dark:text-white">
               Thử Thách Suy Luận: {chapter.title}
             </h4>
 
-            <p className="text-xs text-slate-600 dark:text-slate-400 mt-1 max-w-lg">
+            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mt-1.5 max-w-lg leading-relaxed">
               {result
                 ? `Bạn đã hoàn thành thử thách này với ${result.score}/${result.totalQuestions} câu đúng. Bạn có muốn thử lại để đạt điểm tuyệt đối?`
                 : `Bộ 15 câu hỏi tình huống & suy luận giúp bạn khắc sâu nguyên lý và bài học cốt lõi từ chương sách vừa đọc.`}
@@ -57,7 +57,7 @@ export const ChapterQuizBanner: React.FC<ChapterQuizBannerProps> = ({
         <div className="shrink-0 flex items-center">
           <button
             onClick={onOpenQuiz}
-            className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-2xl bg-emerald-600 px-6 py-3.5 text-xs font-bold text-white shadow-lg shadow-emerald-600/25 hover:bg-emerald-500 hover:scale-105 active:scale-95 transition-all"
+            className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-2xl bg-emerald-600 px-6 py-3.5 text-sm font-bold text-white shadow-lg shadow-emerald-600/25 hover:bg-emerald-500 hover:scale-105 active:scale-95 transition-all"
           >
             <span>{result ? 'Làm lại thử thách' : 'Bắt đầu Quiz ngay'}</span>
             <ArrowRight className="h-4 w-4" />
